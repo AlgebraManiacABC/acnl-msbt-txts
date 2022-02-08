@@ -1,0 +1,585 @@
+== 0 ==
+""	PRESS  BUTTON
+""	つづきから
+""	住人とうろく
+""	よその村から引越し
+""	もどる
+""	{0011-0000-0002-00-00}
+""	{0011-0000-0002-01-00}
+""	{0011-0000-0002-02-00}
+""	{0011-0000-0002-03-00}
+""	保護者の設定
+""	いつの間に通信
+""	やめる
+""	にがす
+""	みせびらかす
+""	おサイフにしまう
+""	じめんにおく
+""	じめんにうめる
+""	じめんにうえる
+""	1コうめる
+""	みにつける
+""	みにつける
+""	へやにおく
+""	へやにかざる
+""	てがみをかく
+""	メロディつくる
+""	1コわける
+""	ゆかにしく
+""	かべにはる
+""	じかんをはかる
+""	とめる
+""	3ぷん
+""	5ふん
+""	10ぷん
+""	15ふん
+""	やっぱやめる
+""	ソックスをぬぐ
+""	くつをぬぐ
+""	プレゼント
+""	マリンスーツをぬぐ
+""	どうぐをはずす
+""	ぼうしをぬぐ
+""	アクセサリーをはずす
+""	のむ
+""	たべる
+""	あける
+""	つつむ
+""	なんだっけ？
+""	1まいつかむ
+""	みる
+""	カベにかける
+""	10カブわける
+""	コピーする
+""	いれかえる
+""	プレゼント
+""	よむ
+""	すてる
+""	かきなおす
+""	
+""	あてさきをかえる
+""	キャンセル
+""	登録しない
+""	登録する
+""	そのまま
+""	はずす
+""	しない
+""	する
+""	とりなおす
+""	これでOK!
+""	けしちゃう
+""	けさない
+""	かきなおす
+""	かくにん
+""	
+""	メロディ
+""	ここです！
+""	ちがうよ
+""	やめる
+""	もどる
+""	つぎへ
+""	けってい
+""	はい
+""	いいえ
+""	できあがり
+""	かきこむ
+""	けす
+""	わたす
+""	とじる
+""	オッケー！
+""	もってるおかね
+""	ふりこむおかね
+""	のこり
+""	ちょきん
+""	ベル
+""	おあずけいれ
+""	おひきだし
+""	{ruby (charSpan 3): たんじょうび}誕生日は　いつ？
+""	{ruby (charSpan 1): ひ}日にちをあわせてね
+""	{ruby (charSpan 2): じかん}時間をあわせてね
+""	{ruby (charSpan 1): いま}今より　{ruby (charSpan 2): みらい}未来の{ruby (charSpan 2): じかん}時間を	{ruby (charSpan 2): にゅうりょく}入力してネ！
+""	年
+""	月
+""	日
+""	時
+""	分
+""	ごぜん
+""	ごご
+""	いくつ　{ruby (charSpan 1): か}買いなさる？
+""	カブ
+""	村
+""	
+""	{ruby (charSpan 2): やくそく}約束の{ruby (charSpan 2): じかん}時間を　{ruby (charSpan 1): き}決めてね！
+""	
+""	{Number (0x7)}
+""	{ruby (charSpan 1): くさ}草むしりのおそうじスタート！
+""	{ruby (charSpan 1): くさ}草むしり{ruby (charSpan 2): しゅうりょう}終了！
+""	{ruby (charSpan 1): くさ}草むしり{ruby (charSpan 2): しゅうりょう}終了！
+""	シャッフル
+""	タイマースタート！
+""	タイマーストップ！
+""	タイムアップ！
+""	かくれんぼスタート！
+""	タイムアップ！
+""	{ruby (charSpan 1): だれ}誰かが{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たみたいです
+""	{ruby (charSpan 1): だれ}誰かが{ruby (charSpan 1): かえ}帰るみたいです
+""	セーブするみたいです
+""	おひらきにするみたいです
+""	{ruby (charSpan 2): かいわ}会話を{ruby (charSpan 1): お}終えてください
+""	ウインドウを{ruby (charSpan 1): と}閉じてください
+""	キャンセルされました
+""	{ruby (charSpan 3): ふなつきば}船着場に{ruby (charSpan 1): あつ}集まってください
+""	{ruby (charSpan 1): ふね}船を{ruby (charSpan 1): だ}出すのをキャンセルします・・・
+""	{ruby (charSpan 1): ふね}船の{ruby (charSpan 2): しゅっこう}出港がキャンセルされました
+""	{ruby (charSpan 1): だれ}誰かが{ruby (charSpan 1): しま}島に{ruby (charSpan 2): とうちゃく}到着したようです
+""	{ruby (charSpan 1): だれ}誰かが{ruby (charSpan 1): かえ}帰るみたいです
+""	{0011-0000-0002-00-00}
+""	ともだちを{ruby (charSpan 1): ま}待っています・・・
+""	のこり30{ruby (charSpan 1): びょう}秒！！！
+""	タイムアップ！！！
+""	ゲーム{ruby (charSpan 2): しゅうりょう}終了！！！
+""	{ruby (charSpan 1): だれ}誰かが{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たみたいです。{ruby (charSpan 1): ふね}船をおりてください。
+""	SDカードがささってないため、{ruby (charSpan 2): しゃしん}写真を{ruby (charSpan 2): ほぞん}保存できません
+""	SDカードが{ruby (charSpan 1): か}書き{ruby (charSpan 1): こ}込み{ruby (charSpan 2): きんし}禁止になっているため、{ruby (charSpan 2): しゃしん}写真を{ruby (charSpan 2): ほぞん}保存できません
+""	SDカードの{ruby (charSpan 1): あ}空き{ruby (charSpan 2): ようりょう}容量が{ruby (charSpan 1): た}足りないため、{ruby (charSpan 2): しゃしん}写真を{ruby (charSpan 2): ほぞん}保存できません
+""	SDカードの{ruby (charSpan 2): しゃしん}写真がいっぱいなので、これ{ruby (charSpan 2): いじょう}以上は{ruby (charSpan 2): しゃしん}写真を{ruby (charSpan 2): ほぞん}保存できません
+""	SDカードが{ruby (charSpan 2): にんしき}認識できないから、{ruby (charSpan 2): しゃしん}写真を{ruby (charSpan 2): ほぞん}保存できないヨ！
+""	SDカードの{ruby (charSpan 2): しょり}処理に{ruby (charSpan 2): しっぱい}失敗しました
+""	どこに{ruby (charSpan 2): ほぞん}保存する？
+""	どれをわたす？
+""	どれを{ruby (charSpan 1): う}売る？
+""	ミュージックを　{ruby (charSpan 1): えら}選んでね！
+""	どれを　{ruby (charSpan 2): きぞう}寄贈する？
+""	どれを　{ruby (charSpan 2): かんてい}鑑定する？
+""	
+""	
+""	
+""	マイデザインを{ruby (charSpan 1): えら}選んでね！
+""	どのマイデザインをもらう？
+""	いくらで{ruby (charSpan 1): う}売りたい？
+""	
+""	{ruby (charSpan 1): み}見たい{ruby (charSpan 1): ゆめ}夢の　{ruby (charSpan 3): ゆめばんち}夢番地は？
+""	{ruby (charSpan 4): あんしょうばんごう}暗証番号を{ruby (charSpan 2): にゅうりょく}入力してください
+""	{ruby (charSpan 1): なに}何を　{ruby (charSpan 1): さ}差し{ruby (charSpan 1): い}入れる？
+""	どれを{ruby (charSpan 1): み}見せる？
+""	{ruby (charSpan 1): なに}何を{ruby (charSpan 2): しゅっぴん}出品する？
+""	{ruby (charSpan 1): むら}村の{ruby (charSpan 2): なまえ}名前を{ruby (charSpan 1): き}決めてね！
+""	あなたの{ruby (charSpan 2): なまえ}名前は？
+""	ニックネームを{ruby (charSpan 1): き}決めてね！
+""	{ruby (charSpan 1): くち}口ぐせを{ruby (charSpan 1): かんが}考えてね！
+""	あいさつを{ruby (charSpan 1): かんが}考えてね！
+""	{ruby (charSpan 2): てんじ}展示の{ruby (charSpan 2): なまえ}名前をつけてね！
+""	このマイデザインの{ruby (charSpan 2): なまえ}名前は？
+""	リクエストする{ruby (charSpan 2): きょくめい}曲名は？
+""	どんな{ruby (charSpan 2): なまえ}名前の{ruby (charSpan 1): むら}村を{ruby (charSpan 1): さが}探す？
+""	どんな{ruby (charSpan 2): なまえ}名前の{ruby (charSpan 1): ひと}人を{ruby (charSpan 1): さが}探す？
+""	どれを　ラッピングする？
+""	{0011-0002-0002-00-00}
+""	{0011-0000-0002-00-00}
+""	{0011-0001-0002-00-00}
+""	{Number (0x9)}
+""	{ruby (charSpan 2): ほんとう}本当に　{ruby (charSpan 1): け}消しちゃっていい？
+""	{ruby (charSpan 1): か}書きこまずに	やめちゃっていい？
+""	やっぱ{ruby (charSpan 1): か}書く
+""	やめちゃう
+""	この{ruby (charSpan 2): しゃしん}写真でいい？
+""	{ruby (charSpan 1): なに}何を　{ruby (charSpan 2): けんさく}検索する？
+""	どれと{ruby (charSpan 1): い}入れ{ruby (charSpan 1): か}替える？
+""	どれを{ruby (charSpan 1): す}捨てる？
+""	どれを{ruby (charSpan 1): き}着せる？
+""	どれをわたす？
+""	むずかしさ
+""	{Number (0x7)}
+""	5-8分
+""	{0011-0002-0002-00-00}
+""	{0011-0000-0002-00-00}
+""	いきさき
+""	いっしょにあそんでいるひと
+""	おでかけする
+""	{0011-0002-0002-00-00}
+""	{0011-0002-0002-00-00}
+""	ベストフレンドを	{ruby (charSpan 2): かくにん}確認する　ウインドウが	{ruby (charSpan 1): み}見られるように　なりました。	をタッチして　{ruby (charSpan 2): かくにん}確認してネ！
+""	をおすとHOMEメニューにもどります
+""	いっしょにあそんでいる　ひと
+""	{0011-0002-0002-00-00}
+""	{0011-0000-0002-00-00}
+""	{0011-0002-0002-00-00}
+""	{ruby (charSpan 2): ほんとう}本当に　{ruby (charSpan 1): つぎ}次から	{0011-0002-0002-00-00}
+""	ベストフレンドは	32{ruby (charSpan 1): にん}人までしか	{ruby (charSpan 2): とうろく}登録できないヨ！
+""	{0011-0002-0002-00-00}
+""	{0011-0002-0002-00-00}
+""	{ruby (charSpan 1): つぎ}次に{ruby (charSpan 1): しま}島に{ruby (charSpan 1): く}来る{ruby (charSpan 1): とき}時からは	{0011-0002-0002-00-00}
+""	{0011-0002-0002-00-00}
+""	{0011-0002-0002-00-00}
+""	{0011-0000-0002-00-00}
+""	{0011-0000-0002-00-00}
+""	{0011-0002-0002-00-00}
+""	フレンドリストが	いっぱいなので、	これ{ruby (charSpan 2): いじょう}以上　フレンド{ruby (charSpan 2): とうろく}登録	できません。
+""	{ruby (charSpan 3): ほごしゃ}保護者による{ruby (charSpan 2): しよう}使用{ruby (charSpan 2): せいげん}制限により	フレンド{ruby (charSpan 2): とうろく}登録が　できないように	{ruby (charSpan 2): せいげん}制限されています。
+""	フレンド{ruby (charSpan 2): とうろく}登録を　する{ruby (charSpan 2): ばあい}場合は、	まず　{ruby (charSpan 2): ほんたい}本体のフレンドリストで	{ruby (charSpan 2): じぶん}自分のフレンドカードを	{ruby (charSpan 2): かくにん}確認してネ！
+""	{ruby (charSpan 1): いま}今　{ruby (charSpan 1): しま}島にいる	クラブ・コトブキ{ruby (charSpan 2): かいいん}会員を　{ruby (charSpan 1): えら}選ぶと	{ruby (charSpan 1): つぎ}次からは　{ruby (charSpan 1): しま}島で{ruby (charSpan 2): であ}出会わないように	{ruby (charSpan 2): せってい}設定できます。
+""	{ruby (charSpan 2): せってい}設定をした{ruby (charSpan 2): ばあい}場合、	{ruby (charSpan 1): つぎ}次に{ruby (charSpan 1): むら}村から{ruby (charSpan 1): しま}島に{ruby (charSpan 1): わた}渡ってくる{ruby (charSpan 1): とき}時に	その{ruby (charSpan 1): ひと}人とは　ランダムで	{ruby (charSpan 2): であ}出会うことがなくなります。
+""	{0011-0003-0002-00-00}
+""	きせつ
+""	じかんたい
+""	ばしょ
+""	きろく
+""	{0004-0014-0002-00-ffffffcd}mm
+""	{0004-0013-0002-00-ffffffcd}cm
+""	/
+""	"
+""	ぜんぶ
+""	100ベル
+""	1000ベル
+""	10000ベル
+""	オーナー
+""	{0011-0002-0002-00-00}
+""	{0011-0000-0002-00-00}
+""	HHAインテリア評価 : {0004-000c-0002-00-00}
+""	更新日 : {0004-000d-0002-00-ffffffcd}/{0004-000e-0002-00-ffffffcd}/{Date-cd00}
+""	プロフィールを見る
+""	家具をオーダーする
+""	お気に入りにする
+""	お気に入りから外す
+""	{0011-0000-0002-00-00}
+""	{0011-0002-0002-00-00}
+""	{0011-0002-0002-00-00}
+""	これ{ruby (charSpan 2): いじょう}以上　お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りは	{ruby (charSpan 1): ふ}増やせないよ！	{ruby (charSpan 1): あたら}新しく{ruby (charSpan 2): とうろく}登録する{ruby (charSpan 2): ばあい}場合は、{ruby (charSpan 1): さき}先に	お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りを　{ruby (charSpan 2): せいり}整理してね！
+""	{0011-0002-0002-00-00}
+""	{0011-0002-0002-00-00}
+""	{0011-0002-0002-00-00}
+""	{ruby (charSpan 2): ほんとう}本当に　{ruby (charSpan 2): さくじょ}削除してしまって	よろしいですか？	（{ruby (charSpan 1): け}消すと　{ruby (charSpan 1): もと}元には{ruby (charSpan 1): もど}戻せません）
+""	
+""	この{ruby (charSpan 2): さくしゃ}作者と　モデルハウスが	{ruby (charSpan 1): ふたた}再び　{ruby (charSpan 2): てんじ}展示されないように	{ruby (charSpan 6): じゅしんきょひせってい}受信拒否設定に{ruby (charSpan 2): とうろく}登録しますか？
+""	{ruby (charSpan 2): ほんとう}本当に　{ruby (charSpan 2): とうろく}登録しますか？	（{ruby (charSpan 1): ほか}他のゲームで　この{ruby (charSpan 2): さくしゃ}作者が	{ruby (charSpan 1): つく}作ったコンテンツも	{ruby (charSpan 1): み}見えなくなる{ruby (charSpan 2): ばあい}場合があります）
+""	セーブしています		{ruby (charSpan 2): でんげん}電源ボタンに	{ruby (charSpan 1): さわ}触らないでください
+""	{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): ひと}人の　お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りは	{ruby (charSpan 2): さくじょ}削除できないよ！	{ruby (charSpan 1): さき}先に　お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入り{ruby (charSpan 2): とうろく}登録を	{ruby (charSpan 1): はず}外してもらってね！
+""	お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りに　{ruby (charSpan 2): とうろく}登録している	モデルハウスや　オーナーは	{ruby (charSpan 2): さくじょ}削除できないよ！	{ruby (charSpan 1): さき}先に　お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入り{ruby (charSpan 2): とうろく}登録を{ruby (charSpan 1): はず}外してね！
+""	{ruby (charSpan 2): つうしん}通信が　{ruby (charSpan 2): せつだん}切断されました	{ruby (charSpan 2): ぜんかい}前回からの　プレイ{ruby (charSpan 2): けっか}結果は	{ruby (charSpan 1): うしな}失われることがあります	ゲームをリセットします	
+""	モ
+""	ド
+""	レ
+""	ミ
+""	ファ
+""	ソ
+""	ラ
+""	シ
+""	ー
+""	あてさきを　えらんでね
+""	みらいのじぶん
+""	{0011-0002-0002-00-00}
+""	{ruby (charSpan 1): いま}今{0011-0000-0002-00-00}
+""	{ruby (charSpan 1): いま}今　{0011-0000-0002-00-00}
+""	{ruby (charSpan 2): じょうほう}情報を　{ruby (charSpan 2): こうしん}更新しない{ruby (charSpan 2): ばあい}場合、	{0011-0000-0002-00-00}
+""	
+""	しまう
+""	けす
+""	{ruby (charSpan 3): つうしんちゅう}通信中は	ソパカのコメントを	{ruby (charSpan 1): か}書きかえられないヨ！
+""	{ruby (charSpan 1): ゆめ}夢の{ruby (charSpan 1): なか}中では	ソパカのコメントを	{ruby (charSpan 1): か}書きかえられないヨ！
+""	このミュージックは	もう{ruby (charSpan 1): なか}中に　{ruby (charSpan 1): はい}入ってるヨ！
+""	{ruby (charSpan 1): も}持ち{ruby (charSpan 1): もの}物がいっぱいだと	ミュージックを{ruby (charSpan 1): と}取り{ruby (charSpan 1): だ}出すことが	できないヨ！
+""	{ruby (charSpan 1): も}持ち{ruby (charSpan 2): ものらん}物欄に	ミュージックがないヨ！
+""	{0011-0003-0002-00-00}
+""	やめとく
+""	とりだす
+""	どこでもオッケー!
+""	
+""	{ruby (charSpan 1): えら}選べる{ruby (charSpan 2): しょくざい}食材は	3つまでだヨ！
+""	ゆきのけっしょうは	5つだけ　{ruby (charSpan 1): えら}選んでネ！
+""	ゆきのけっしょうは	3つだけ　{ruby (charSpan 1): えら}選んでネ！
+""	{ruby (charSpan 2): ほぞん}保存しないで	{ruby (charSpan 1): か}書くのを　やめちゃっていい？
+""	やっぱ書く
+""	やめちゃう
+""	{Town name (pink)}
+""	お{ruby (charSpan 1): かね}金が　{ruby (charSpan 1): た}足りないようです
+""	{ruby (charSpan 3): ゆうびんきょく}郵便局の　{ruby (charSpan 2): はいそう}配送センターが	{ruby (charSpan 1): こ}混み{ruby (charSpan 1): あ}合っているため、	ご{ruby (charSpan 2): ちゅうもん}注文　いただけません
+""	{ruby (charSpan 2): しょうひん}商品を　オーダーしました！	{ruby (charSpan 2): しょうひん}商品は　{ruby (charSpan 2): ごじつ}後日、	{ruby (charSpan 2): ゆうびん}郵便で　{ruby (charSpan 2): じたく}自宅にお{ruby (charSpan 1): とど}届けします
+""	お{ruby (charSpan 1): さが}探しの　{ruby (charSpan 2): しょうひん}商品は	{ruby (charSpan 1): み}見つかりませんでした
+""	「{0011-0003-0002-00-00}
+""	
+""	ベル
+""	やめとく
+""	オーダーする
+""	{ruby (charSpan 2): しょうひん}商品を　{ruby (charSpan 2): けんさく}検索しています・・・
+""	ひばいひん
+""	{ruby (charSpan 3): てんじじょう}展示場でのオーダーは	1{ruby (charSpan 1): にち}日{Blue}5{ruby (charSpan 1): こ}個{Color Reset}までと　なっております	（{ruby (charSpan 3): みはいそう}未配送の{ruby (charSpan 2): しょうひん}商品がある{ruby (charSpan 2): ばあい}場合は	それよりも　{ruby (charSpan 1): すく}少なくなります）
+""	けってい
+""	やめる
+""	更新する
+""	更新しない
+""	
+""	ぼきんがく
+""	もくひょうまで
+""	かりものリスト
+""	やっぱやめる
+""	ぼうし
+""	ふく
+""	かさ
+""	イーゼル
+""	みにつける
+""	じめんにはる
+""	へやにかざる
+""	へやにはる
+""	かきかえる
+""	けす
+""	そのまま　かべへ
+""	まわして　かべへ
+""	そのまま　ゆかへ
+""	まわして　ゆかへ
+""	PROデザインじゃ	なくなっちゃうけど、	かきかえる？
+""	やめとく
+""	かきかえる
+""	{0011-0000-0002-00-00}
+""	けさない
+""	けす
+""	マイデザインを　つくることで	あなたがかいた　デザインを	{ruby (charSpan 1): ふく}服として{ruby (charSpan 1): み}身に{ruby (charSpan 1): つ}着けたり	{ruby (charSpan 2): かぐ}家具として{ruby (charSpan 1): かざ}飾ることができます
+""	あなたがかいた　マイデザインは	おでかけや　すれちがい{ruby (charSpan 2): つうしん}通信などの	{ruby (charSpan 2): つうしん}通信プレイを{ruby (charSpan 1): とお}通して、{ruby (charSpan 1): いろ}色んな{ruby (charSpan 1): ひと}人に	{ruby (charSpan 1): み}見られる{ruby (charSpan 3): かのうせい}可能性があります
+""	{ruby (charSpan 2): たにん}他人の{ruby (charSpan 2): けんり}権利を{ruby (charSpan 2): しんがい}侵害するもの、	{ruby (charSpan 2): じぶん}自分や{ruby (charSpan 2): たにん}他人のプライベートな{ruby (charSpan 2): じょうほう}情報や	{ruby (charSpan 2): たにん}他人に{ruby (charSpan 2): ふかい}不快な{ruby (charSpan 1): おも}思いを{ruby (charSpan 1): あた}与えるような	ものは　かかないでくださいね
+""	{ruby (charSpan 2): ほぞん}保存しないで	やめちゃっていい？
+""	やっぱかく
+""	やめちゃう
+""	{ruby (charSpan 2): じぶん}自分がかいた　マイデザインを	{ruby (charSpan 1): えら}選んでネ！
+""	{ruby (charSpan 2): かおだ}顔出し{ruby (charSpan 3): かんばんよう}看板用の	マイデザインPROは	{ruby (charSpan 2): した}仕立て{ruby (charSpan 1): や}屋に　{ruby (charSpan 2): てんじ}展示できないヨ！
+""	{ruby (charSpan 2): かおだ}顔出し{ruby (charSpan 3): かんばんよう}看板用の	マイデザインPROは	{ruby (charSpan 1): はた}旗には　{ruby (charSpan 1): つか}使えないヨ！
+""	こうしん
+""	キャンバス
+""	この{ruby (charSpan 2): がめん}画面では、	{ruby (charSpan 1): しま}島に　{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 2): たいざい}滞在している{ruby (charSpan 1): ひと}人を	{ruby (charSpan 2): かくにん}確認できます。
+""	もし　{ruby (charSpan 1): しま}島での{ruby (charSpan 3): たいざいちゅう}滞在中に	いやな{ruby (charSpan 1): め}目にあって　もう{ruby (charSpan 2): にど}二度と	{ruby (charSpan 2): つうしん}通信したくない{ruby (charSpan 1): ひと}人に	{ruby (charSpan 2): であ}出会った{ruby (charSpan 2): ばあい}場合は・・・
+""	このリストで　{ruby (charSpan 2): あいて}相手を{ruby (charSpan 1): えら}選んで、	{ruby (charSpan 1): つぎ}次からは　{ruby (charSpan 1): しま}島で{ruby (charSpan 2): であ}出会わないように	{ruby (charSpan 2): せってい}設定することができます。
+""	{0011-0002-0002-00-00}
+""	
+""	{ruby (charSpan 1): つか}使える{ruby (charSpan 2): すうじ}数字は	5{ruby (charSpan 2): もじ}文字までです
+""	コメントには	{ruby (charSpan 2): すうじ}数字を　{ruby (charSpan 1): つか}使わないでネ！
+""	{0011-0002-0002-00-00}
+""	
+""	村長　{0011-0000-0002-00-00}
+""	{0011-0000-0002-00-00}
+""	誕生日　{0004-000e-0002-01-ffffffcd}月{Date-cd01}日
+""	
+""	{0004-000d-0002-00-ffffffcd}/{0004-000e-0002-00-ffffffcd}/{Date-cd00}登録
+""	
+""	夢番地
+""	{0011-0007-0000}
+""	xxxx-xxxx-xxxx
+""	
+""	
+""	{0011-0008-0000}
+""	コメントを　いれてね！
+""	オンラインになったよ！
+""	{Number (0x7)}
+""	{Number (0x7)}
+""	だいぶ前
+""	
+""	{0011-0002-0002-00-00}
+""	ベストフレンドとの	メッセージ{ruby (charSpan 4): こうかんきのう}交換機能を	OFFにしますか？
+""	ベストフレンドとの	メッセージ{ruby (charSpan 4): こうかんきのう}交換機能を	ONにしました。
+""	ベストフレンドとの	メッセージ{ruby (charSpan 4): こうかんきのう}交換機能を	OFFにしました。
+""	ベストフレンドとの	メッセージ{ruby (charSpan 4): こうかんきのう}交換機能を	ONにしますか？
+""	
+""	OFF
+""	ON
+""	みんなにおくる
+""	{ruby (charSpan 3): じゅんびちゅう}準備中です
+""	ベストフレンドが	{ruby (charSpan 2): とうろく}登録されていません
+""	はずす
+""	そのまま
+""	はい
+""	やめる
+""	OFFにする
+""	そのまま
+""	ローカル{ruby (charSpan 3): つうしんちゅう}通信中は	ベストフレンドと　メッセージを	{ruby (charSpan 2): こうかん}交換する{ruby (charSpan 2): きのう}機能は　{ruby (charSpan 1): つか}使えません。
+""	{0011-0002-0002-00-00}
+""	{ruby (charSpan 3): ほごしゃ}保護者による{ruby (charSpan 4): しようせいげん}使用制限により	ベストフレンドとの	メッセージ{ruby (charSpan 2): こうかん}交換の{ruby (charSpan 2): きのう}機能は	{ruby (charSpan 2): せいげん}制限されています。
+""	ベストフレンドとの	メッセージ{ruby (charSpan 4): こうかんきのう}交換機能を	ONにしますか？
+""	
+""	この{ruby (charSpan 2): がめん}画面では	あなたのベストフレンドを	{ruby (charSpan 2): かくにん}確認できます。
+""	お{ruby (charSpan 1): たが}互いが　ベストフレンド{ruby (charSpan 2): とうろく}登録	している{ruby (charSpan 3): ひとどうし}人同士であれば、	インターネット{ruby (charSpan 2): けいゆ}経由で　{ruby (charSpan 2): ちょくせつ}直接	メッセージを{ruby (charSpan 2): こうかん}交換できます。
+""	また、〔みんなにおくる〕と	ベストフレンド{ruby (charSpan 2): ぜんいん}全員に	{ruby (charSpan 2): いっせい}一斉に　メッセージを	{ruby (charSpan 2): そうしん}送信することもできます。
+""	ベストフレンドと	メッセージを{ruby (charSpan 2): こうかん}交換するためには、	{ruby (charSpan 2): さいしん}最新の{ruby (charSpan 2): りよう}利用{ruby (charSpan 2): きやく}規約に	{ruby (charSpan 2): どうい}同意する{ruby (charSpan 2): ひつよう}必要があります。
+""	{ruby (charSpan 4): ほんたいせってい}本体設定の　{ruby (charSpan 2): りよう}利用{ruby (charSpan 2): きやく}規約の{ruby (charSpan 2): かくにん}確認で	{ruby (charSpan 2): さいしん}最新の{ruby (charSpan 2): りよう}利用{ruby (charSpan 2): きやく}規約に　{ruby (charSpan 2): どうい}同意してから	ご{ruby (charSpan 2): りよう}利用ください。
+""	
+""	その{ruby (charSpan 2): もじ}文字は	{ruby (charSpan 2): にゅうりょく}入力できないヨ！
+""	フレンド{ruby (charSpan 2): とうろく}登録するには　まず、	{ruby (charSpan 2): ほんたい}本体の　フレンドリストで	{ruby (charSpan 2): じぶん}自分のフレンドカードを	{ruby (charSpan 2): かくにん}確認してくださいね！
+""	Nintendo is the author of this software 	for the purpose of copyright. 	All rights reserved.
+""	©2012 - 2016 Nintendo
+""	インターネットに	{ruby (charSpan 2): せつぞく}接続できないため、	メッセージを　{ruby (charSpan 2): こうかん}交換できません。
+""	HOMEメニューより	インターネットの{ruby (charSpan 2): せってい}設定を	ご{ruby (charSpan 2): かくにん}確認ください。
+""	この{ruby (charSpan 2): がめん}画面では、	{ruby (charSpan 3): つうしんちゅう}通信中に　{ruby (charSpan 2): いっしょ}一緒にあそんでいる{ruby (charSpan 1): ひと}人を	{ruby (charSpan 2): かくにん}確認できます。
+""	また、この{ruby (charSpan 2): がめん}画面から{ruby (charSpan 2): ちょくせつ}直接	{ruby (charSpan 2): ほんたい}本体のフレンドリストの	フレンドとして	{ruby (charSpan 2): とうろく}登録することもできます。
+""	さらに、{ruby (charSpan 2): ほんたい}本体のフレンドを	{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+	{Color Reset}の{ruby (charSpan 1): なか}中で　ベストフレンドとして	{ruby (charSpan 2): とうろく}登録することが　できます。
+""	お{ruby (charSpan 1): たが}互いが　ベストフレンドに	{ruby (charSpan 2): とうろく}登録していると、	インターネット{ruby (charSpan 2): つうしん}通信で　いつでも	メッセージの　{ruby (charSpan 2): こうかん}交換ができます。
+""	{ruby (charSpan 1): ほか}他にも　ベストフレンド{ruby (charSpan 2): げんてい}限定の	{ruby (charSpan 2): つうしん}通信など、{ruby (charSpan 2): べんり}便利な{ruby (charSpan 2): きのう}機能があるので、	{ruby (charSpan 2): とくべつ}特別な　お{ruby (charSpan 2): ともだち}友達と	{ruby (charSpan 1): ため}試してみてくださいね！
+""	QRコードを{ruby (charSpan 1): さが}探しています・・・		{ruby (charSpan 2): てんせん}点線のわくに	QRコードを　あわせてください。
+""	{Number (0x7)}
+""	{Number (0x7)}
+""	この　マイデザインを	{ruby (charSpan 2): ほぞん}保存しても　よろしいですか？
+""	これは　マイデザインの	QRコードではありません
+""	QRコードは　{ruby (charSpan 2): じゅんばん}順番どおりに	{ruby (charSpan 1): よ}読み{ruby (charSpan 1): こ}込んでください。
+""	{ruby (charSpan 1): おな}同じマイデザインの　QRコードを	{ruby (charSpan 1): よ}読み{ruby (charSpan 1): こ}込んでください。
+""	3DSカメラを　{ruby (charSpan 2): きどう}起動することが	できませんでした。
+""	QRコードを{ruby (charSpan 1): さが}探しています・・・
+""	QRコードの　{ruby (charSpan 1): か}書き{ruby (charSpan 1): だ}出しが	{ruby (charSpan 2): かんりょう}完了しました。	{ruby (charSpan 1): か}書き{ruby (charSpan 1): だ}出されたデータは	SDカードに　{ruby (charSpan 2): ほぞん}保存されています。
+""	{0012-0015-0000}
+""	{0012-0015-0000}
+""	{0012-0015-0000}
+""	{0012-0015-0000}
+""	{Town name (pink)}
+""	{Town name (pink)}
+""	QRコードをSDカードに	{ruby (charSpan 1): か}書き{ruby (charSpan 1): だ}出しています・・・	{ruby (charSpan 2): でんげん}電源ボタンに	{ruby (charSpan 1): さわ}触らないでください
+""	フレンドカードが　{ruby (charSpan 2): かくにん}確認できたので	{ruby (charSpan 2): ちょくせつ}直接　この{ruby (charSpan 2): がめん}画面から	フレンド{ruby (charSpan 2): とうろく}登録できるように	なりました！
+""	
+""	オーディオ{ruby (charSpan 2): きのう}機能がついた	{ruby (charSpan 2): かぐ}家具を{ruby (charSpan 1): つか}使って、	ミュージックを	{ruby (charSpan 2): さいせい}再生することができます。
+""	どこかで　ミュージックを	{ruby (charSpan 1): て}手に{ruby (charSpan 1): い}入れたら、	オーディオにセットして	{ruby (charSpan 1): き}聴いてみてくださいね！
+""	
+""	HHAテーマ・{0012-001d-0000}
+""	その他の国
+""	OFF
+""	ON
+""	
+""	これは　あなたのプロフィールが	{ruby (charSpan 1): しる}記された　{ruby (charSpan 2): そんみん}村民パスカード、	{ruby (charSpan 1): りゃく}略して　{Blue}ソパカ{Color Reset}です。
+""	ソパカや　{ruby (charSpan 1): なか}中で{ruby (charSpan 1): か}書いたコメントは、	おでかけや　すれちがい{ruby (charSpan 2): つうしん}通信などの	{ruby (charSpan 2): つうしん}通信プレイを{ruby (charSpan 1): とお}通して、{ruby (charSpan 1): いろ}色んな{ruby (charSpan 1): ひと}人に	{ruby (charSpan 1): み}見られる{ruby (charSpan 3): かのうせい}可能性があります
+""	{ruby (charSpan 2): たにん}他人の{ruby (charSpan 2): けんり}権利を{ruby (charSpan 2): しんがい}侵害するもの、	{ruby (charSpan 2): じぶん}自分や{ruby (charSpan 2): たにん}他人のプライベートな{ruby (charSpan 2): じょうほう}情報や	{ruby (charSpan 2): たにん}他人に{ruby (charSpan 2): ふかい}不快な{ruby (charSpan 1): おも}思いを{ruby (charSpan 1): あた}与えるような	ことは　{ruby (charSpan 1): か}書かないでくださいね
+""	お{ruby (charSpan 1): きゃく}客さんが　いる{ruby (charSpan 1): とき}時は	ミュージックを	{ruby (charSpan 1): だ}出し{ruby (charSpan 1): い}入れできないヨ！
+""	お{ruby (charSpan 1): きゃく}客さんが　いる{ruby (charSpan 1): とき}時は	ミュージックを	{ruby (charSpan 1): だ}出し{ruby (charSpan 1): い}入れできないヨ！
+""	
+""	
+""	{0011-0002-0002-00-00}
+""	{0011-0002-0002-00-00}
+""	
+""	{ruby (charSpan 4): こじんじょうほう}個人情報を{ruby (charSpan 1): ふく}含む{ruby (charSpan 3): かのうせい}可能性のある	データを{ruby (charSpan 2): そうしん}送信できる	{ruby (charSpan 4): つうしんきのう}通信機能を　{ruby (charSpan 2): りよう}利用する{ruby (charSpan 2): ばあい}場合は	{ruby (charSpan 2): にんしょう}認証が{ruby (charSpan 2): ひつよう}必要です
+""	{ruby (charSpan 2): ほんたい}本体{ruby (charSpan 2): せってい}設定で{ruby (charSpan 3): ほごしゃ}保護者による{ruby (charSpan 2): しよう}使用{ruby (charSpan 2): せいげん}制限の	{Blue}〔COPPACSの{ruby (charSpan 2): せってい}設定〕{Color Reset}を	ご{ruby (charSpan 2): かくにん}確認ください
+""	PINコードを	{ruby (charSpan 2): にゅうりょく}入力してください	（{ruby (charSpan 2): じかい}次回からの{ruby (charSpan 2): にゅうりょく}入力は{ruby (charSpan 2): しょうりゃく}省略されます）
+""	PINコードが　{ruby (charSpan 1): ちが}違っています
+""	
+""	
+""	{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+	{Color Reset}では　{ruby (charSpan 3): ほごしゃ}保護者による{ruby (charSpan 4): しようせいげん}使用制限の	{ruby (charSpan 2): せってい}設定は　そのままで・・・
+""	{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+	{Color Reset}で{ruby (charSpan 1): あそ}遊ぶ{ruby (charSpan 1): とき}時のみ、この{ruby (charSpan 2): せいげん}制限を{ruby (charSpan 2): かいじょ}解除して	{ruby (charSpan 2): きのう}機能を{ruby (charSpan 4): りようかのう}利用可能に	することができます。
+""	{ruby (charSpan 4): せいげんかいじょ}制限解除の　{ruby (charSpan 2): しく}仕組みを{ruby (charSpan 2): りよう}利用して	{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+	{Color Reset}でメッセージの{ruby (charSpan 2): こうかん}交換などの　{ruby (charSpan 2): きのう}機能を	{ruby (charSpan 1): つか}使えるように　{ruby (charSpan 2): せってい}設定しますか？
+""	この{ruby (charSpan 2): ほんたい}本体に　{ruby (charSpan 2): せってい}設定されている	{ruby (charSpan 3): ほごしゃ}保護者による{ruby (charSpan 4): しようせいげん}使用制限の	{ruby (charSpan 4): あんしょうばんごう}暗証番号を{ruby (charSpan 2): にゅうりょく}入力してください。	
+""	ベストフレンドと	インターネット{ruby (charSpan 2): けいゆ}経由で　	メッセージを	{ruby (charSpan 2): ちょくせつ}直接　{ruby (charSpan 2): こうかん}交換できる{ruby (charSpan 2): きのう}機能のため・・・
+""	COPPAの{ruby (charSpan 2): せいげん}制限がかかった	{ruby (charSpan 2): ほんたい}本体では、ベストフレンドとの	メッセージの　{ruby (charSpan 2): こうかん}交換が	{ruby (charSpan 2): せいげん}制限されています。
+""	ベストフレンドとの	メッセージの{ruby (charSpan 2): こうかん}交換を　{ruby (charSpan 1): ふく}含む	{ruby (charSpan 2): たにん}他人と　{ruby (charSpan 2): つうしん}通信できる{ruby (charSpan 2): きのう}機能を	継続{ruby (charSpan 2): かいじょ}解除する{ruby (charSpan 2): せってい}設定になっていますが
+""	{ruby (charSpan 4): けいぞくかいじょ}継続解除を{ruby (charSpan 2): せってい}設定したものとは	{ruby (charSpan 1): こと}異なる{ruby (charSpan 2): ほんたい}本体で　{ruby (charSpan 2): きどう}起動されています。
+""	この{ruby (charSpan 2): ほんたい}本体では 「COPPA」	ならびに「{ruby (charSpan 2): しゃしん}写真や{ruby (charSpan 2): がぞう}画像・{ruby (charSpan 2): おんせい}音声・	{ruby (charSpan 2): どうが}動画・{ruby (charSpan 2): ちょうぶん}長文テキストの{ruby (charSpan 3): そうじゅしん}送受信」が	{ruby (charSpan 2): せいげん}制限されていますが・・・
+""	{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+	{Color Reset}を{ruby (charSpan 1): あそ}遊ぶ{ruby (charSpan 1): さい}際にメッセージの{ruby (charSpan 2): こうかん}交換などの	{ruby (charSpan 2): きのう}機能を{ruby (charSpan 1): つか}使えるように{ruby (charSpan 2): せってい}設定しますか？
+""	{Blue}COPPAの{ruby (charSpan 2): せいげん}制限{Color Reset}と{Blue}{ruby (charSpan 2): しゃしん}写真や{ruby (charSpan 2): がぞう}画像・	{ruby (charSpan 2): おんせい}音声・{ruby (charSpan 2): どうが}動画・{ruby (charSpan 2): ちょうぶん}長文テキストの{ruby (charSpan 3): そうじゅしん}送受信	{Color Reset}どちらかひとつでも　{ruby (charSpan 3): ほごしゃ}保護者により	{ruby (charSpan 2): せいげん}制限されている{ruby (charSpan 1): かた}方からは・・・
+""	ベストフレンドとの	メッセージの{ruby (charSpan 2): こうかん}交換を　{ruby (charSpan 1): ふく}含む	{ruby (charSpan 2): たにん}他人と　{ruby (charSpan 2): つうしん}通信できる{ruby (charSpan 2): きのう}機能を	{ruby (charSpan 2): りよう}利用することができません。
+""	はーい
+""	保護者の方へ
+""	{Villager's name (orange)}
+""	{ruby (charSpan 2): かぐ}家具をオーダーする
+""	まい
+""	{ruby (charSpan 1): むら}村データを{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): つ}継ぐ
+""	ハッピーホーム{ruby (charSpan 2): れんどう}連動
+""	
+""	もってるチケット
+""	こうかんまいすう
+""	もらえるおかね
+""	まい
+""	やっぱやめる
+""	NFCリーダー／ライターを	3DSの{ruby (charSpan 7): せきがいせんじゅはっこうぶ}赤外線受発光部に{ruby (charSpan 1): む}向けて	a{ruby (charSpan 4): アミーボ}miiboを{ruby (charSpan 1): よ}読み{ruby (charSpan 1): と}取ってください
+""	{ruby (charSpan 2): ほんじつ}本日は{ruby (charSpan 4): てんいんふざい}店員不在で　ご{ruby (charSpan 2): めいわく}迷惑をおかけしております…
+""	
+""	チケット{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取り
+""	
+""	
+""	おわる
+""	
+""	
+""	
+""	
+""	
+""	
+""	くらしサポート{ruby (charSpan 2): たっせい}達成
+""	
+""	{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取ったチケット
+""	どうぶつの{ruby (charSpan 1): もり}森パネポン　ボーナス
+""	{ruby (charSpan 5): むじんとうだっしゅつ}無人島脱出ゲーム　ボーナス
+""	{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取れるチケットが	ありませんでした
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	もどる
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	オッケー
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	
+""	START　タイトルにもどる
+""	＋　さつえい
+""	いろいろ
+""	いどう
+""	まわす
+""	{ruby (charSpan 1): おお}大きく
+""	{ruby (charSpan 1): ちい}小さく
+""	{ruby (charSpan 1): とお}遠く
+""	{ruby (charSpan 1): ちか}近く
+""	
+""	{ruby (charSpan 1): かえ}帰る
+""	
+""	
+""	
+""	{Number (0x9)}
+""	た つ
+""	すわる
+""	ね る
+""	はしる
+""	
+""	amiiboカメラ
+""	次のページ
+""	
+""	
+""	×
+""	×
+""	
+""	
+""	×
+""	
+""	
+""	
+""	+
+""	
+""	×
