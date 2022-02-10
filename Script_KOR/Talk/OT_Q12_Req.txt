@@ -1,31 +1,31 @@
 == 0 ==
-"001"	{Player nickname (green)}
-"002"	{emote: Worry}
-"003"	{emote: Pride}
-"004"	{emote: Anger}
-"005"	{emote: Worry}
-"006"	{emote: Worry}
-"007"	{emote: Surprise}
-"008"	{emote: Surprise}
-"009"	{emote: Glee}
-"010"	
-"011"	{emote: Soft Smile}
-"012"	{emote: Soft Smile}
-"013"	{emote: Happiness}
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	{emote: Surprise}
-"022"	{emote: Surprise}
-"023"	{emote: Surprise}
-"024"	{emote: Surprise}
-"025"	{emote: Surprise}
-"026"	{emote: Surprise}
-"027"	{emote: Surprise}
-"028"	{emote: Surprise}
-"029"	{emote: Surprise}
-"030"	{emote: Surprise}
+"001"	{Player nickname (green)}～{pause 16}	당신 말야,{pause 16} 혹시 오늘{pause 16}	다른 마을에 갈 일 없어?　	{emote: Worry}지금 {pause 8}{0012-0001-0000}	때문에 서명을 받고 있는 중인데{pause 16}	우리 마을만으론 안 될 것 같아～	{emote: Soft Smile}괜찮다면 다른 마을에 가서{pause 16}	서명 좀 받아다 주지 않을래?	{pause 8}{catchphrase}?{000f-0005-0004-0015-0028}	기꺼이!	미안
+"002"	{emote: Worry}우리 마을에서 서명을 받고 있는데{pause 16}	명수를 채우기가 힘드네{pause 32}	기한은 내일까지인데{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Anger}있잖아, {Player nickname (green)}{pause 16}	혹시 다른 마을에 가게 되면{pause 16}	서명 좀 받아다 주지 않을래?	{emote: Alarmed}아! {pause 16}중요한 걸 빠뜨릴 뻔했네!{pause 32}	{emote: Soft Smile}<{0012-0001-0000}>	이게 바로 안건이야! {pause 8}{catchphrase}!{000f-0005-0004-0015-0028}	알았어!	오늘은 좀・・・
+"003"	{emote: Pride}요즘 {Town name (pink)} 마을에서{pause 16}	<{0012-0001-0000}>의	서명 운동을 하는 중인데{pause 8}・{pause 8}・{pause 8}・{pause 16}	{emote: Worry}역시 우리 마을에서만 하다 보니{pause 16}	수가 좀 부족한 것 같아{pause 32}	{emote: Distress}내일이 마감인데 말이지{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Inspired}{pause 16}앗, 그렇지!{pause 16} 좋은 생각이 났어!{Wait for input}	{emote: Reset}오늘 당신이 다른 마을에	좀 다녀오는 거야{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Anger}그리고 날 위해{pause 16}	서명을 받아 오는 거지{pause 8}・{pause 8}・{pause 8}・{pause 32}	어때, {emote: Curious}좋은 생각이지?{000f-0005-0004-0015-0028}	그래 뭐・・・	그런 게 어딨어
+"004"	{emote: Anger}이런 부탁 들어줄 사람은{pause 16}	{Player nickname (green)}밖에 없다고	생각했는데{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Worry}뭐 어쩔 수 없지, {pause 8}{catchphrase}
+"005"	{emote: Worry}그치{pause 8}・{pause 8}・{pause 8}・{pause 8} 미안!{pause 16}	귀찮은 일에 끌어들여서{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"006"	{emote: Worry}그래{pause 8}・{pause 8}・{pause 8}・{pause 8} 아쉽네{pause 32}	{emote: Cold Chill}<{0012-0001-0000}>{pause 16}	실현은 아직 멀었나 봐{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"007"	{emote: Surprise}진짜? {pause 32}{emote: Sunny}고마워～!{pause 8}	{Player nickname (green)}!{Wait for input}{emote: Soft Smile}그럼, {pause 16}{Blue}다른 마을 사람{Color Reset}이라면	누구든 괜찮으니까{pause 16}	{Blue}{Number (0x6)}명{Color Reset}한테 좀 받아다 줄래?	{emote: Alarmed}아 그리고 서명은{pause 16}	{emote: Reset}여기에다가 받으면 돼!	{pause 8}{catchphrase}!
+"008"	{emote: Surprise}좋았어!{pause 16}	받아들여주는 거지?{Wait for input}{emote: Soft Smile}그럼 {Blue}다른 마을 사람{Color Reset}으로{pause 16}	{Blue}{Number (0x6)}명{Color Reset}한테 좀 받아다 줄래?{pause 32}	{emote: Anger}단, {pause 16}대상은 {Blue}여자{Color Reset}야!	{emote: Reset}여기!{pause 16}	서명용지야, {pause 8}{catchphrase}
+"009"	{emote: Glee}다행이다～ {pause 16}	{Player nickname (green)} 당신이 협력해준다니	갑자기 마음이 든든하네!{pause 8}	{emote: Soft Smile}그럼 {Blue}다른 마을 사람{Color Reset}으로{pause 16}　	{Blue}{Number (0x6)}명{Color Reset}한테 좀 받아다 줄래?{pause 32}	{emote: Anger}아! {pause 16}대상은 여자로 한정이야!	{emote: Alarmed}게다가 {pause 16}그냥 여자 말고{pause 4}・{pause 4}・{pause 4}・{pause 32}	{emote: Anger}{Blue}성숙한 여자{Color Reset}라면 좋겠지?{pause 32}	{emote: Glare}나처럼 말이야	{emote: Reset}그리고 서명은{pause 16}	이 용지에다가 받아주면 좋겠어,	{pause 8}{catchphrase}
+"010"
+"011"	{emote: Soft Smile}그럼 부탁해!{pause 16}	{Player nickname (green)}!
+"012"	{emote: Soft Smile}그럼 부탁할게!{pause 16}	{Player nickname (green)}!
+"013"	{emote: Happiness}기대하고 있을게, {pause 8}{Player nickname (green)}!
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"020"
+"021"	{emote: Surprise}정말?!{pause 16}	받아들여주는 거야?{pause 8}	{Player nickname (green)}?	{emote: Soft Smile}그럼 다른 마을 사람으로{pause 16}	{Blue}{Number (0x6)}명{Color Reset}한테 받아다 줄래?{pause 32}	{emote: Anger}{Blue}강아지 비슷한 사람{Color Reset}한테만 받는 거야!	{emote: Reset}그리고 이참에{pause 16}	서명용지도 같이 줄게, {pause 8}{catchphrase}
+"022"	{emote: Surprise}우와! 정말?!{pause 16}	농담 아니지 {Player nickname (green)}?{Wait for input}{emote: Soft Smile}그럼 다른 마을 사람으로{pause 16}	{Blue}{Number (0x6)}명{Color Reset}한테 좀 받아다 줄래?{pause 32}	{emote: Anger}{Blue}고양이 같은 사람{Color Reset}한테 받아야 해	{emote: Reset}서명용지도 있으니까{pause 16}	지금 바로 줄게, {pause 8}{catchphrase}
+"023"	{emote: Surprise}고마워 {Player nickname (green)}!{pause 16}	내 부탁을 들어주는 거야?{pause 8}{Wait for input}{emote: Soft Smile}그럼 다른 마을에 가서{pause 16}	{Blue}{Number (0x6)}명{Color Reset}한테 좀 받아다 줄래?{pause 32}	{emote: Anger}{Blue}다람쥐 같은 사람{Color Reset}들의 서명이 필요해!	{emote: Reset}서명용지가 정해져 있으니{pause 16}	지금 줄게, {pause 8}{catchphrase}
+"024"	{emote: Surprise}우와! 고마워!{pause 16}	{Player nickname (green)}{000e-000e-0008-0002-c740-0002-b294} 정말	좋은 사람이구나!{pause 8}	{emote: Soft Smile}그럼 다른 마을 사람으로{pause 16}	{Blue}{Number (0x6)}명{Color Reset}의 서명을 좀 부탁해{pause 32}	{emote: Anger}{Blue}토끼 같은 사람{Color Reset}한테 받는 게 중요해!	{emote: Reset}참, 그리고 잊기 전에{pause 16}	서명용지도 줄게, {pause 8}{catchphrase}
+"025"	{emote: Surprise}어머, 진짜?!{pause 16}	진짜로 해주는 거야?	{Player nickname (green)}?	{emote: Soft Smile}그럼 다른 마을 사람으로{pause 16}	{Blue}{Number (0x6)}명{Color Reset}만 좀 부탁해{pause 32}	{emote: Anger}{Blue}오리 같은 사람{Color Reset}한테 받는 거 알지?	{emote: Reset}그리고 서명용지도 있으니까{pause 16}	지금 바로 줄게, {pause 8}{catchphrase}
+"026"	{emote: Surprise}고마워 {Player nickname (green)}!{pause 16}	진짜로 도와주는 거야?{pause 8}{Wait for input}{emote: Soft Smile}그럼 다른 마을 사람으로{pause 16}	{Blue}{Number (0x6)}명만 {Color Reset}좀 부탁해{pause 32}	{emote: Anger}단, {Blue}생쥐 비슷한 사람{Color Reset}한테만 받는 거야!	{emote: Reset}그리고 서명용지도{pause 16}	지금 바로 줄게, {pause 8}{catchphrase}
+"027"	{emote: Surprise}어머! 신 난다～{pause 16}	정말로 {Player nickname (green)}{000e-000e-0008-0002-c774-0002-ac00}	도와주는 거야?	{emote: Soft Smile}그럼 다른 마을 사람으로{pause 16}	{Blue}{Number (0x6)}명{Color Reset}의 서명을 좀 부탁해{pause 32}	{emote: Anger}{Blue}개구리 같은 사람{Color Reset}한테만 받으면 돼!	{emote: Reset}서명용지도 있으니까{pause 16}	지금 줄게, {pause 8}{catchphrase}
+"028"	{emote: Surprise}어머, 진짜?!{pause 16}	날 도와주는 거야 {Player nickname (green)}?{Wait for input}{emote: Soft Smile}그럼 다른 마을 사람으로{pause 16}	{Blue}{Number (0x6)}명{Color Reset}의 서명 좀 부탁해도 될까?{pause 32}	{emote: Anger}{Blue}말 같은 사람{Color Reset}한테만 받으면 돼!	{emote: Reset}그리고 서명용지도 줄게{pause 16}	자 받아! {pause 8}{catchphrase}!
+"029"	{emote: Surprise}어머, 진짜?!{pause 16}	그냥 한번 말해본 건데{pause 8}	고마워 {Player nickname (green)}!	{emote: Soft Smile}그럼 다른 마을 사람으로{pause 16}	{Blue}{Number (0x6)}명{Color Reset}한테 좀 받아다 줄래?{pause 32}	{emote: Anger}{Blue}꼬마곰 같은 사람{Color Reset}한테 받으면 돼!	{emote: Reset}그리고 서명용지도{pause 16}	지금 줄게, {pause 8}{catchphrase}
+"030"	{emote: Surprise}고마워 {Player nickname (green)}!{pause 16}	거절당할 줄 알았는데{pause 8}	수락해주는구나?	{emote: Soft Smile}그럼 다른 마을 사람으로{pause 16}	{Blue}{Number (0x6)}명{Color Reset}의 서명을 좀 부탁할게{pause 32}	{emote: Anger}{Blue}펭귄 비슷한 애들{Color Reset}한테만 받으면 돼!	{emote: Reset}그리고 서명용지도{pause 16}	지금 바로 줄게, {pause 8}{catchphrase}

@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	Say{pause 8}
-"003"	{emote: Worry}
+"001"	{emote: Alarmed}Dude! Are those bags under your	eyes?{Wait for input}{emote: Resigned}You've been partying way hard{pause 8}.{pause 8}.{pause 8}.{pause 20}	Get some rest! {pause 20}{capitalized}{catchphrase}!
+"002"	Say{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry}you all right running around	like that without taking a break?{Wait for input}{emote: Agreement}Don't forget to rest if you're tired!	It's important! {pause 20}{capitalized}{catchphrase}!
+"003"	{emote: Worry}Hey, {Player nickname (green)}{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Curious} Don't you think	you should get some rest soon?{Wait for input}{emote: Resigned}I mean, it may not be any of my	business, but I've heard working so	hard isn't healthy, {pause 20}{catchphrase}!
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	A ver{pause 8}
-"003"	{emote: Worry}
+"001"	{emote: Alarmed}¡Oye! Pedazo ojeras te marcas,	¿no?{emote: Resigned} Es que hay que saber ir de	fiesta{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡Menud{o/a} aficionadill{o/a}!	¡Vete a descansar un rato, anda!
+"002"	A ver{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry} ¿Tú no te cansas de	estar todo el día de aquí para	allá dándolo todo?{Wait for input}{emote: Agreement}Oye, ¡que descansar no tiene nada	de malo! De hecho, ¡deberías!
+"003"	{emote: Worry}Atiende, {Player nickname (green)}{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Curious} ¿No tienes así	como ganas de descansar?{Wait for input}{emote: Resigned}No es por meterme donde no me	llaman, pero dicen que no es bueno	trabajar tanto... ¡Tú mism{o/a}!
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	Dis{pause 8}
-"003"	{emote: Worry}
+"001"	{emote: Alarmed}Waouh!{pause 20} C'est même plus des cernes	qu't'as sous les yeux, c'est	carrément des valoches!	{emote: Resigned}Faut s'reposer entre deux fiestas{pause 8}.{pause 8}.{pause 8}.{pause 20}	{capitalized}{catchphrase}, t'es pas une	machine!
+"002"	Dis{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Worry}Comment tu fais pour courir	du matin au soir sans jamais être	{crevé/crevée}?	{emote: Agreement}Tu devrais faire des pauses, de	temps en temps...{pause 20} La santé, c'est	important,{pause 20} {catchphrase}!
+"003"	{emote: Worry}{capitalized}{Player nickname (green)}{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Curious}Tu crois pas qu'tu	devrais faire un break, là?{Wait for input}{emote: Resigned}C'est p't'être pas mes affaires, mais	c'est pour ton bien si j'dis ça,{pause 20}	{catchphrase}...

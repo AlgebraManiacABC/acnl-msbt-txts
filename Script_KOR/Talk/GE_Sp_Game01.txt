@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	가위～ {pause 20}
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Mistaken}
-"008"	{emote: Distress}
-"009"	{emote: Joy}
-"010"	
-"011"	{emote: Reset}
-"012"	{emote: Reset}
+"001"	{emote: Happiness}준비됐니ー?{Wait for input}	{Blue}한 판{Color Reset}으로 승부를 가르는 거야!{pause 20}	비기면 {pause 8}다시 한 번 하는 거고～
+"002"	{emote: Happiness}오케이ー?{Wait for input}	먼저 {Blue}{Number (0x6)}{Color Reset}{Blue}판{Color Reset} 이긴 사람이{pause 10}	승리하는 거다!
+"003"	가위～ {pause 20}바위～{pause 8}・{pause 8}・{pause 8}・{000f-0001-0006-0000-0000-0000}	바위	가위	보
+"004"	{0007-000b-0000}바위!
+"005"	{0007-000b-0000}가위!
+"006"	{0007-000b-0000}보!
+"007"	{emote: Mistaken}꺄악!{pause 20}	이길 줄 알았는데～
+"008"	{emote: Distress}비겼잖아～!{pause 20}	그럼 다시 한 번!
+"009"	{emote: Joy}앗싸ー!!{pause 40}{emote: Soft Smile}
+"010"
+"011"	{emote: Reset}에이{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Distress}니가 이겼어～{Wait for input}	{emote: Worry}완전 분하다～ {pause 15}{catchphrase}
+"012"	{emote: Reset}봤지?{pause 20}	{emote: Glee}내 승리야, {pause 15}{catchphrase}!

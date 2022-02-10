@@ -1,285 +1,285 @@
 == 0 ==
-"001"	Oooh!{pause 20}
-"002"	{0009-0001-0006-0c-00-0d-00-0e-00}
-"003"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"004"	Hmm!{pause 20}
-"005"	Hmm!{pause 20}
-"006"	Hmm!{pause 20}
-"007"	.{pause 5}
-"008"	{0009-0001-0006-15-00-16-00-17-00}
-"009"	{0009-0001-0006-1f-00-20-00-23-00}
-"010"	{000a-001a-0004-29-00-2a-00}
-"012"	Oh!{pause 10}
-"013"	Oh!{pause 10}
-"014"	Good morning to you,{pause 10}
-"015"	Good morning, {pause 10}!
-"016"	Why, if it isn't {pause 10}
-"017"	Why, good morning,{pause 10}
-"018"	{emote: Thought}
-"019"	{emote: Happiness}
-"021"	Even though I've stepped down as	mayor,{pause 10}!
-"022"	{000e-0004-0000}
-"023"	Living in a place that's always	summer is nice,{pause 10}
-"024"	Blowing away the warm spring	sleepiness with a strong cup of	well-made coffee{pause 5}
-"025"	Choosing to drink a cup of hot	coffee on a hot summer day like	this one{pause 5}
-"026"	Nothing quite warms the mind and	soul the same as drinking coffee	while feeling a chilly fall breeze{pause 5}
-"027"	I suppose choosing to visit the	town on a cold winter day{pause 5}
-"028"	
-"029"	
-"031"	{capitalized}
-"032"	Since I want as many people as	possible to come play on the island,{pause 10}
-"033"	{000c-0002-0000}
-"034"	{000c-0003-0000}
-"035"	{000a-0010-0008-24-00-25-00-26-00-27-00}
-"036"	{capitalized}
-"037"	You might think there's no need to	go to the island when it's summer,{pause 5}
-"038"	The air in {Town name (pink)}
-"039"	It's cold winters like this that really	make my island seem so appealing!{0000-0004-0000}
-"041"	{0009-0003-000a-2b-00-2c-00-2f-00-32-00-33-00}
-"042"	{0009-0001-0006-32-00-33-00-36-00}
-"043"	Say,{pause 10}
-"044"	What's wrong,{pause 10}
-"045"	I see{pause 5}
-"046"	Well!{pause 10}
-"047"	{000c-0001-0000}
-"048"	{000c-0002-0000}
-"049"	{emote: Laughter}
-"050"	{000c-0001-0000}
-"051"	{000c-0001-0000}
-"052"	{000c-0002-0000}
-"053"	Hmph{pause 5}
-"054"	By the way, {pause 5}
-"055"	Hmph!{pause 15}
-"056"	Oh!{pause 15}
-"057"	I see{pause 5}
-"058"	
-"059"	
-"060"	
+"001"	Oooh!{pause 20} You're{pause 8}.{pause 8}.{pause 8}.{pause 10}{Player name}, aren't	ya, sprout?{Wait for input}What a coinkydink to see you here!{Wait for input}	Come on now.{pause 10} Sit yourself down	and relax for a spell!
+"002"	{0009-0001-0006-000c-000d-000e}
+"003"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"004"	Hmm!{pause 20} The coffee today is as good	as it always is!{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}{Orange}Brewster{Color Reset}!{pause 20} You always make the	best coffee with those {Blue}Kilimanjaro	{Color Reset}beans of yours!{000c-0009-0000}
+"005"	Hmm!{pause 20} The coffee today is as good	as always, if I can be so bold!{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}{Orange}Brewster{Color Reset}!{pause 20} My, you always use the	perfect amount of {Blue}milk{Color Reset}.{pause 10} Yup, not	too much and not too little!{000c-0009-0000}
+"006"	Hmm!{pause 20} The coffee today is splendid,	just as it always is!{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}{Orange}Brewster{Color Reset}!{pause 20} You always make it	perfectly sweet with precisely	{Blue}2{Color Reset} {Blue}spoonfuls{Color Reset} of sugar!{000c-0009-0000}
+"007"	.{pause 5}.{pause 5}.{pause 5}.{pause 5}.{pause 5}.{pause 5}{000c-0002-0000}{000c-0005-0000}{pause 15}Thank you.
+"008"	{0009-0001-0006-0015-0016-0017}
+"009"	{0009-0001-0006-001f-0020-0023}
+"010"	{000a-001a-0004-0029-002a}
+"012"	Oh!{pause 10} {capitalized}{Player name}!{pause 20} We meet again!
+"013"	Oh!{pause 10} {capitalized}{Player name}!{pause 20} How ya been	doing, sprout?
+"014"	Good morning to you,{pause 10} sprout.{Wait for input}	Did you come to get yourself	a cup of morning coffee?
+"015"	Good morning, {pause 10}{Player name}!{Wait for input}	Are you getting a cup to go today?{pause 15}	Or are you going to drink it here?	{pause 5}.{pause 5}.{pause 5}.{pause 5}{emote: Alarmed}{pause 10}Oops!{pause 20} {emote: Reset}I'm just a customer here, so	if you want to order,{pause 10} you'll have to	talk to {Orange}Brewster{Color Reset}!{pause 8}{emote: Laughter} Heh heh HORF!{emote: Happiness}
+"016"	Why, if it isn't {pause 10}{Player name}!{Wait for input}	We sure run into each other	often here at the{Blue} Roost{Color Reset}!
+"017"	Why, good morning,{pause 10} {Player name}!{Wait for input}	Did you drink a cup of coffee yet	today?{Player can respond (0005):0012-0000-0013-0028}	I did!	Not yet.
+"018"	{emote: Thought}I see{pause 8}.{pause 8}.{pause 8}.{pause 20} That's a shame.{pause 5} I was	thinking I'd treat you to a cup	if you hadn't had one yet.
+"019"	{emote: Happiness}I see!{pause 20} Why not join me for a spell	and shoot the breeze?
+"021"	Even though I've stepped down as	mayor,{pause 10} this is my beloved home.	I've lived here a good many years.	That's why every so often I come	by to see how things are going and	get myself a cup of coffee.	...Well, {pause 10}I have to say the bigger	reason of the two{emote: Glare} is to come get	the coffee. It's so refreshing!
+"022"	{000e-0004-0000}{Town name (pink)} sure has changed a lot {pause 10}	since I stepped down as mayor.{Wait for input}{emote: Happiness}I suppose that's the point of having	a new mayor, though. Change isn't	always a bad thing, sprout!
+"023"	Living in a place that's always	summer is nice,{pause 10} but having proper	seasons is something I miss.{000a-0010-0008-0018-0019-001a-001b}
+"024"	Blowing away the warm spring	sleepiness with a strong cup of	well-made coffee{pause 5}.{pause 5}.{pause 5}.{pause 20}	That feeling is something you can	only enjoy in the spring!
+"025"	Choosing to drink a cup of hot	coffee on a hot summer day like	this one{pause 5}.{pause 5}.{pause 5}.	I think it's an awful lot like eating a	piping hot bowl of soup in a room	with the AC blasting.
+"026"	Nothing quite warms the mind and	soul the same as drinking coffee	while feeling a chilly fall breeze{pause 5}.{pause 5}.{pause 5}.
+"027"	I suppose choosing to visit the	town on a cold winter day{pause 5}.{pause 5}.{pause 5}.{Wait for input}is a lot like feeling like wanting to	eat a sno-cone after wrapping	yourself up in warm blankets!
+"028"
+"029"
+"031"	{capitalized}{Town name (pink)} is a great town{pause 5}.{pause 5}.{pause 5}.{pause 20}	But, {pause 5}{Player name}{pause 5}.{pause 5}.{pause 5}.{pause 15}{emote: Glare}the island is	great too{pause 5}.{pause 5}.{pause 5}.{pause 5} Yes, it's quite grand{pause 5}.{pause 5}.{pause 5}.
+"032"	Since I want as many people as	possible to come play on the island,{pause 10}	I've been talking to people in town.	But everyone says they're so busy	with work, they can't come!{Wait for input}{000c-0001-0000}{000c-0007-0000}{pause 10}Say, {pause 10}{Orange}Brewster{Color Reset}!{Wait for input} You should rest	those wings of yours on my island	from time to time! It'd be good!{000c-0009-0000}
+"033"	{000c-0002-0000}{000c-0003-0000}Ah{pause 5}.{pause 5}.{pause 5}.{pause 5}{000c-0000-0000}{000c-0007-0000} But{pause 5}.{pause 5}.{pause 5}.{pause 5}I have work to do here{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"034"	{000c-0003-0000}.{pause 5}.{pause 5}.{pause 5}.{pause 5}.{pause 5}.{pause 10}See what I mean?
+"035"	{000a-0010-0008-0024-0025-0026-0027}
+"036"	{capitalized}{Town name (pink)} has finally gotten	a little warmer!{Wait for input}But if you want to get a taste of	summer's heat a bit early, sprout{pause 5}.{pause 5}.{pause 5}.{pause 20}	{emote: Glare}come to my island at any time!
+"037"	You might think there's no need to	go to the island when it's summer,{pause 5}	but that's a huge misunderstanding!{Wait for input}{emote: Happiness}There are a bunch of critters,	plants, and fruit you can only see	on the island! It's true, sprout!
+"038"	The air in {Town name (pink)} finally has	that fall crispness to it.{Wait for input}But, you know, sprout{pause 5}.{pause 5}.{pause 5}.{pause 20}if you're	not ready to say sayonara to the	summer,{pause 10} {emote: Glare}come to my island!
+"039"	It's cold winters like this that really	make my island seem so appealing!{Wait for input}{emote: Happiness}If your sprout heart is longing for	some bug-catching fun,{pause 10} {emote: Glare}just board	the boat to the island right away!
+"041"	{0009-0003-000a-002b-002c-002f-0032-0033}
+"042"	{0009-0001-0006-0032-0033-0036}
+"043"	Say,{pause 10} {Player name}!{pause 20} You can always ask	me for advice if you're wondering	how to properly build up the town!
+"044"	What's wrong,{pause 10} {Player name}?{Wait for input}	Is there something you need to have	a mayor-to-mayor talk about?{Player can respond (0005):002d-0000-002e-0028}	Actually, there is.	Nah, I'm all right.
+"045"	I see{pause 5}.{pause 5}.{pause 5}.{pause 15} The best piece of advice I	can give you is{pause 5}.{pause 5}.{pause 5}.{Wait for input}Even though a lot can happen in life,{pause 10}	there are many things that are	just gonna turn out the way they do.	It's 'cause that's the only way they	CAN turn out!{Wait for input}{emote: Happiness}Don't worry about things too much.{pause 10}	It's best just to take it easy now	and again!
+"046"	Well!{pause 10} That's good to hear!{Wait for input}	The mayor's office requires that	you be levelheaded at most times!
+"047"	{000c-0001-0000}{000c-0007-0000}Well, let's hear it, {Orange}Brewster{Color Reset}.{Wait for input}	Is Mayor {Player name} here working	hard as mayor?{000c-0009-0000}
+"048"	{000c-0002-0000}{000c-0003-0000}Coo{pause 5}.{pause 5}.{pause 5}.{pause 10} {000c-0000-0000}{000c-0007-0000}I'm very grateful to {him/her}	for my café{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"049"	{emote: Laughter}Heh heh HORF!{pause 20} Hearing that helps	me enjoy my retirement!{emote: Happiness}
+"050"	{000c-0001-0000}{000c-0007-0000}Say, {pause 10}{Orange}Brewster{Color Reset}, does this café do	delivery at any time?{000c-0009-0000}
+"051"	{000c-0001-0000}{000c-0007-0000}Say, {pause 10}{Orange}Brewster{Color Reset}, does this café have	a mail-order-bean service?{000c-0009-0000}
+"052"	{000c-0002-0000}{000c-0003-0000}{pause 5}.{pause 5}.{pause 5}.{pause 5}{000c-0000-0000}{000c-0007-0000}Sorry{pause 5}.{pause 5}.{pause 5}.{pause 20} I don't do that{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"053"	Hmph{pause 5}.{pause 5}.{pause 5}.{pause 5} I see.{pause 20} That's a shame{pause 5}.{pause 5}.{pause 5}.
+"054"	By the way, {pause 5}{Player name}.{Wait for input}	How hard do you feel the current	mayor of {Town name (pink)} is working?{Player can respond (0001):0037-0000-0038-0000-0039-0000}	Pretty hard!	The normal amount?	Not hard enough!
+"055"	Hmph!{pause 15} I see!{Wait for input}	It makes me feel good to hear that!{Wait for input}But{pause 10} that might also mean that the	mayor is working really hard and	becoming a bit tired{pause 5}.{pause 5}.{pause 5}.	I'd like for you to give the mayor	words of encouragement from time	to time to help out!
+"056"	Oh!{pause 15} So the mayor's been working	fairly hard? Excellent!{Wait for input}You know, mayors don't often have	much confidence in how the people	around them view them.	That's why I'd like you to cheer on	the mayor from time to time!
+"057"	I see{pause 5}.{pause 5}.{pause 5}.{pause 20} I bet the mayor's having a	hard time because it takes so long	to get used to the job{pause 5}.{pause 5}.{pause 5}.	I imagine that Mayor {0005-001c-0002-cd00} is	worrying all alone about how to do	a better job for the town.	If you have the time, don't just	watch.{pause 10} Give your mayor a hand!
+"058"
+"059"
+"060"
 == 1 ==
-"001"	¡Ah!{pause 20}
-"002"	{0009-0001-0006-0c-00-0d-00-0e-00}
-"003"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"004"	¡Mmm!{pause 20}
-"005"	¡Mmm!{pause 20}
-"006"	¡Mmm!{pause 20}
-"007"	{000c-0002-0000}
-"008"	{0009-0001-0006-15-00-16-00-17-00}
-"009"	{0009-0001-0006-1f-00-20-00-23-00}
-"010"	{000a-001a-0004-29-00-2a-00}
-"012"	¡Vaya,{pause 10}!
-"013"	¡Oh!{pause 10}
-"014"	Buenos días,{pause 10}
-"015"	¡Buenos días,{pause 10}
-"016"	¡Anda,{pause 10}!
-"017"	¡Hola,{pause 10}!
-"018"	{emote: Thought}
-"019"	{emote: Happiness}
-"021"	Aunque ya estoy retirado como	alcalde,{pause 10}
-"022"	Desde que dejé de ser alcalde	de {capitalized}
-"023"	No está mal que sea verano todo	el año,{pause 10}
-"024"	Sacudirse con un café bien cargado	la modorra que te entra al subir	las temperaturas{pause 5}
-"025"	No es agradable beber café	caliente en un día de bochorno	veraniego{pause 5}
-"026"	No hay nada como saborear{pause 10}
-"027"	Venir expresamente a visitar	el pueblo en pleno invierno{pause 5}
-"028"	
-"029"	
-"031"	Se está muy bien en {capitalized}
-"032"	Siempre invito a la gente del	pueblo a venir a mi isla{pause 10}
-"033"	{000c-0002-0000}
-"034"	{000c-0001-0000}
-"035"	{000a-0010-0008-24-00-25-00-26-00-27-00}
-"036"	¡En {capitalized}
-"037"	Quizá pienses que no vale la pena	ir a una isla en pleno verano{pause 5}
-"038"	Vaya, vaya. Ya se va respirando	el ambiente otoñal en {capitalized}
-"039"	Es en medio de un invierno	como este{pause 10}
-"041"	{0009-0003-000a-2b-00-2c-00-2f-00-32-00-33-00}
-"042"	{0009-0001-0006-32-00-33-00-36-00}
-"043"	Oye,{pause 10}
-"044"	¿Qué ocurre,{pause 10}
-"045"	Ah, ¿se trata de eso{pause 5}
-"046"	¡Vaya!{pause 10}!
-"047"	{000c-0001-0000}
-"048"	{000c-0002-0000}
-"049"	{emote: Laughter}
-"050"	{000c-0001-0000}
-"051"	{000c-0001-0000}
-"052"	{000c-0000-0000}
-"053"	Mmm{pause 5}
-"054"	Oye,{pause 5}
-"055"	¿Ah, sí?{pause 15}
-"056"	Mmm...{pause 15}!
-"057"	Vaya{pause 5}
-"058"	
-"059"	
-"060"	
+"001"	¡Ah!{pause 20} Tú eres{pause 8}.{pause 8}.{pause 8}.{pause 10} {Player name},	¿me equivoco?{Wait for input}¡Qué casualidad encontrarte	por aquí!{Wait for input} Siéntate, siéntate,{pause 10}	no tengas prisa, granujilla.
+"002"	{0009-0001-0006-000c-000d-000e}
+"003"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"004"	¡Mmm!{pause 20} ¡El café está delicioso	como siempre!{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}¡{Orange}Fígaro{Color Reset}!{pause 20} ¡Tu café {Blue}kilimanjaro{Color Reset}	sigue siendo inigualable!{000c-0009-0000}
+"005"	¡Mmm!{pause 20} ¡El café está hoy	especialmente rico!{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}¡{Orange}Fígaro{Color Reset}!{pause 20} No sé cómo lo haces,{pause 5} pero	siempre pones la cantidad perfecta	de leche.{pause 10} ¡Ni demasiada ni poca!{000c-0009-0000}
+"006"	¡Mmm!{pause 20} ¡Este café está excelente,	como de costumbre!{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}¡{Orange}Fígaro{Color Reset}!{pause 20} ¡Qué bien le das ese toque	dulce perfecto, con {Blue}dos azucarillos{Color Reset}	justos!{000c-0009-0000}
+"007"	{000c-0002-0000}{000c-0005-0000}Gracias{pause 5}.{pause 5}.{pause 5}.{pause 15}
+"008"	{0009-0001-0006-0015-0016-0017}
+"009"	{0009-0001-0006-001f-0020-0023}
+"010"	{000a-001a-0004-0029-002a}
+"012"	¡Vaya,{pause 10} {Player name}!{pause 20}	¡Volvemos a vernos!
+"013"	¡Oh!{pause 10} ¡Pero si es {Player name}!{pause 20}	¿Cómo te va, granujilla?
+"014"	Buenos días,{pause 10} granujilla.{Wait for input}	¿Vienes a tomar un café mañanero?
+"015"	¡Buenos días,{pause 10} {Player name}!{Wait for input}	¿Hoy lo quieres para llevar?{pause 15}	¿O te lo tomarás aquí?{Wait for input}{emote: Alarmed}{pause 10}¡Epa{pause 5}.{pause 5}.{pause 5}.{pause 5}!{pause 20} {emote: Reset}Se me olvidaba que yo solo	soy un cliente{pause 10}. Tienes que pedírselo	a {Orange}Fígaro{Color Reset}.{pause 8}{emote: Laughter} ¡Je, je, je, COF!{emote: Happiness}
+"016"	¡Anda,{pause 10} {Player name}!{Wait for input}	Cuántas veces coincidimos, ¿eh?
+"017"	¡Hola,{pause 10} {Player name}!{Wait for input}	¿Te has tomado ya tu café de hoy?{Player can respond (0005):0012-0000-0013-0028}	Sí	Aún no...
+"018"	{emote: Thought}Vaya{pause 8}.{pause 8}.{pause 8}.{pause 20} pues qué lástima.{pause 5}	Pensaba invitarte a uno,	pero en ese caso...
+"019"	{emote: Happiness}¡Bien, bien!{pause 20} ¿No te apetece	entonces tomarte una taza{pause 5}	y charlar un rato?
+"021"	Aunque ya estoy retirado como	alcalde,{pause 10} guardo buenos recuerdos	de este pueblo y mis años aquí.{Wait for input}Por eso suelo pasarme de vez	en cuando{pause 5} a ver cómo va todo	y tomarme una taza de café.{Wait for input}Aunque...{pause 10} la principal razón para	venir{pause 5}{emote: Glare} es el café. ¡Me encanta!
+"022"	Desde que dejé de ser alcalde	de {capitalized}{Town name (pink)}, lo cierto es que{pause 10}	el pueblo ha cambiado bastante.{Wait for input}{emote: Happiness}Sin duda{pause 10} se nota la mano{pause 5} de la	nueva persona al cargo.{pause 40} Sabes lo	que quiero decir, ¿no, granujilla?
+"023"	No está mal que sea verano todo	el año,{pause 10} pero a mí me gusta más	que haya cuatro estaciones.{000a-0010-0008-0018-0019-001a-001b}
+"024"	Sacudirse con un café bien cargado	la modorra que te entra al subir	las temperaturas{pause 5}.{pause 5}.{pause 5}.{pause 20}{Wait for input}¡Esa sensación solo puedes	disfrutarla en primavera!
+"025"	No es agradable beber café	caliente en un día de bochorno	veraniego{pause 5}.{pause 5}.{pause 5}.{Wait for input}Tampoco lo es tomar una sopa	hirviendo en una habitación con	el aire acondicionado a tope.
+"026"	No hay nada como saborear{pause 10}	un café mientras el aire fresco	del otoño te acaricia la piel{pause 5}.{pause 5}.{pause 5}.
+"027"	Venir expresamente a visitar	el pueblo en pleno invierno{pause 5}.{pause 5}.{pause 5}.{Wait for input}es como sentarse delante de	una estufa y ponerse a comer	helado...
+"028"
+"029"
+"031"	Se está muy bien en {capitalized}{Town name (pink)}{pause 5}.{pause 5}.{pause 5}.{pause 20}	¿Pero qué decir de mi isla,	{Player name}?{pause 15} {emote: Glare}Allí se está de lujo.
+"032"	Siempre invito a la gente del	pueblo a venir a mi isla{pause 10} porque	me encantan las visitas.{Wait for input}Pero todo el mundo está siempre	muy ocupado con su trabajo, así	que no me hacen caso.{Wait for input}{000c-0001-0000}{000c-0007-0000}{pause 10}¡Dime,{pause 10} {Orange}Fígaro{Color Reset}!{Wait for input} ¿No te apetecería	venir unos días a descansar tus	alas en mi isla?{000c-0009-0000}
+"033"	{000c-0002-0000}{000c-0003-0000}Es{pause 5}.{pause 5}.{pause 5}.{pause 5}{000c-0000-0000}{000c-0007-0000} que{pause 5}.{pause 5}.{pause 5}.{pause 5} tengo trabajo ahora{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"034"	{000c-0001-0000}{000c-0003-0000}¿Te das cuenta.{pause 5}.{pause 5}.{pause 5}?
+"035"	{000a-0010-0008-0024-0025-0026-0027}
+"036"	¡En {capitalized}{Town name (pink)} por fin van	subiendo las temperaturas!{Wait for input}Pero si te apetece un poco	de calor antes del verano{pause 5}.{pause 5}.{pause 5}.{pause 20}	{emote: Glare}¡ven a mi isla, granujilla!
+"037"	Quizá pienses que no vale la pena	ir a una isla en pleno verano{pause 5}.{pause 5}.{pause 5}.{pause 5}	¡pero te equivocas por completo!{Wait for input}{emote: Happiness}¡Hay montones de plantas, frutas	y animales allí{pause 10} que no encontrarás	nunca en este pueblo, granujilla!
+"038"	Vaya, vaya. Ya se va respirando	el ambiente otoñal en {capitalized}{Town name (pink)},	¿verdad granujilla?{Wait for input}¿Que no te apetece despedirte	del verano tan pronto?...{pause 20}	{emote: Glare}¡Pues pásate por mi isla!
+"039"	Es en medio de un invierno	como este{pause 10} cuando más se	añora un lugar como mi isla.{Wait for input}{emote: Happiness}Si cualquier día te entran ganas	de cazar bichos,{pause 10} {emote: Glare}¡date una vuelta	por allí, granujilla!
+"041"	{0009-0003-000a-002b-002c-002f-0032-0033}
+"042"	{0009-0001-0006-0032-0033-0036}
+"043"	Oye,{pause 10} {Player name}.{pause 20} Si alguna vez no	sabes cómo resolver algún problema	del pueblo,{pause 10} ven a pedirme consejo.
+"044"	¿Qué ocurre,{pause 10} {Player name}?{Wait for input}	¿Hay algún asunto de la alcaldía{pause 5}	con el que necesites ayuda?{Player can respond (0005):002d-0000-002e-0028}	Lo cierto es que sí	No, todo va bien
+"045"	Ah, ¿se trata de eso{pause 5}.{pause 5}.{pause 5}.{pause 5}?{pause 15}	Bueno, solo se me ocurre	un consejo que darte.{Wait for input}En la vida puedes temer que ocurran	muchas cosas,{pause 10} pero muy pocas de	ellas llegan realmente a ocurrir.{Wait for input}{emote: Happiness}No le des tanta importancia a todo{pause 10}	ni te preocupes más de lo necesario.
+"046"	¡Vaya!{pause 10} ¡Me alegra saber eso!{Wait for input}	¡El puesto de alcald{e/esa}{pause 5} requiere	de alguien con esas aptitudes!
+"047"	{000c-0001-0000}{000c-0007-0000}Preguntémosle a {Orange}Fígaro{Color Reset}.{Wait for input}	¿Está haciendo {Player name} un	buen trabajo como alcald{e/esa}?{000c-0009-0000}
+"048"	{000c-0002-0000}{000c-0003-0000}Cucurrú{pause 5}.{pause 5}.{pause 5}.{pause 10} {000c-0000-0000}	{000c-0007-0000}Yo le estoy muy agradecido	por su apoyo a mi cafetería{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"049"	{emote: Laughter}¡Je, je, je, COF, CORF!{pause 20}	¡Eso me deja más tranquilo!{emote: Happiness}
+"050"	{000c-0001-0000}{000c-0007-0000}Oye,{pause 10} {Orange}Fígaro{Color Reset}, ¿tienes reparto	a domicilio en tu cafetería?{000c-0009-0000}
+"051"	{000c-0001-0000}{000c-0007-0000}Dime,{pause 10} {Orange}Fígaro{Color Reset}, ¿no tienes	servicio de café a domicilio?{000c-0009-0000}
+"052"	{000c-0000-0000}{000c-0007-0000}Pues{pause 5}.{pause 5}.{pause 5}.{pause 20} lo siento, pero no{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"053"	Mmm{pause 5}.{pause 5}.{pause 5}.{pause 5} Vaya,{pause 20} es una pena{pause 5}.{pause 5}.{pause 5}.
+"054"	Oye,{pause 5} {Player name}.{Wait for input} ¿Qué tal crees tú	que lo está haciendo {0005-001c-0002-cd00},	{000e-0005-000c-0004-0065-006c-0004-006c-0061} alcald{000e-0005-000c-0002-0065-0006-0065-0073-0061} de {capitalized}{Town name (pink)}?{Player can respond (0001):0037-0000-0038-0000-0039-0000}	¡Inmejorablemente!	No lo hace nada mal	Tiene que mejorar
+"055"	¿Ah, sí?{pause 15} ¡Vaya!{Wait for input}	¡Me alegra mucho oír eso!{Wait for input}Digo yo entonces que,{pause 10} si trabaja	tanto, lo más probable es que	también se canse bastante{pause 5}.{pause 5}.{pause 5}.	¡Procura decirle cosas que	le den ánimo de vez en cuando,	para que no se venga abajo!
+"056"	Mmm...{pause 15} ¿Así que cumple bien	con su trabajo? ¡Eso está bien!{Wait for input}¿Sabes?{pause 5} Algunos alcaldes no tienen	confianza suficiente{pause 10} en que los	ciudadanos los valoren bien.{Wait for input}No estaría de más{pause 10} si le dijeras	algunas palabras de ánimo de	vez en cuando.
+"057"	Vaya{pause 5}.{pause 5}.{pause 5}.{pause 20} Me imagino que todavía	no se habrá acostumbrado al	puesto y por eso le cuesta{pause 5}.{pause 5}.{pause 5}.{Wait for input}Seguro que {0005-001c-0002-cd00} no deja	de pensar en cómo servir mejor	a los ciudadanos.	No te limites a observar y criticar.{pause 10}	¡Procura echarle también una mano	en lo que puedas!
+"058"
+"059"
+"060"
 == 2 ==
-"001"	Ooh !{pause 20}
-"002"	{0009-0001-0006-0c-00-0d-00-0e-00}
-"003"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"004"	Mmmm !{pause 20}!
-"005"	Mmm !{pause 20}
-"006"	Mmm !{pause 20}
-"007"	.{pause 5}
-"008"	{0009-0001-0006-15-00-16-00-17-00}
-"009"	{0009-0001-0006-1f-00-20-00-23-00}
-"010"	{000a-001a-0004-29-00-2a-00}
-"012"	Oh,{pause 10}
-"013"	Oh,{pause 10}
-"014"	Je te souhaite bien le bonjour,{pause 10}
-"015"	Bonjour, {pause 10}
-"016"	Oh, mais c'est toi, {pause 10}
-"017"	Eh bien, bonjour, {000e-0006-0028-12-00-6d-00-6f-00-6e-00-20-00-70-00-65-00-74-00-69-00-74-00-12-00-6d-00-61-00-20-00-70-00-65-00-74-00-69-00-74-00-65-00}{pause 10}
-"018"	{emote: Thought}
-"019"	{emote: Happiness}
-"021"	Même si je ne suis plus le maire,{pause 10}
-"022"	Depuis que je suis parti à la	retraite,{pause 10}
-"023"	C'est agréable de profiter de l'été	toute l'année,{pause 10}!
-"024"	Chasser la fatigue due au printemps	avec un café bien corsé{pause 5}
-"025"	Par exemple, il fait très chaud en ce	moment, hein ?{pause 8}!
-"026"	Rien ne réchauffe plus mon cœur	que de boire mon café, caressé par	le vent frais de l'automne{pause 5}
-"027"	Tu te demandes pourquoi je viens	alors qu'il fait aussi froid, pas vrai ?	Eh bien, tu vois, c'est comme{pause 5}
-"028"	
-"029"	
-"031"	{capitalized}
-"032"	Au fait, je me sens un peu seul sur	mon île,{pause 10}
-"033"	{000c-0002-0000}
-"034"	{000c-0001-0000}
-"035"	{000a-0010-0008-24-00-25-00-26-00-27-00}
-"036"	Le temps s'est enfin radouci, ici !{0000-0004-0000}
-"037"	Si tu crois qu'il ne sert à rien de	visiter mon île en plein été,{pause 5}
-"038"	Il fait plus frais, depuis quelque	temps, tu ne trouves pas ?{0000-0004-0000}
-"039"	Ah, la rudesse de l'hiver rend mon	île d'autant plus attrayante !{0000-0004-0000}
-"041"	{0009-0003-000a-2b-00-2c-00-2f-00-32-00-33-00}
-"042"	{0009-0001-0006-32-00-33-00-36-00}
-"043"	Au fait,{pause 10}
-"044"	Ça ne va pas, {pause 10}!
-"045"	Hmm{pause 5}
-"046"	Ah !{pause 10}
-"047"	{000c-0001-0000}
-"048"	{000c-0002-0000}
-"049"	{emote: Laughter}
-"050"	{000c-0001-0000}
-"051"	{000c-0001-0000}
-"052"	{000c-0002-0000}
-"053"	Oh{pause 5}
-"054"	Au fait, {pause 5}
-"055"	Oh !{pause 15}
-"056"	Comment ?{pause 15}
-"057"	Vraiment{pause 5}
-"058"	
-"059"	
-"060"	
+"001"	Ooh !{pause 20} C'est toi{pause 8}.{pause 8}.{pause 8}.{pause 10} {capitalized}{Player name},	c'est ça ?{Wait for input}Quel heureux hasard que nous nous	trouvions tous les deux au même	endroit, à la même heure !	Allez, viens donc t'asseoir !
+"002"	{0009-0001-0006-000c-000d-000e}
+"003"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"004"	Mmmm !{pause 20} Le café est toujours aussi	bon, ici !{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}{Orange}Robusto {Color Reset}!{pause 20} Tu fais vraiment le	meilleur {Blue}Kilimandjaro{Color Reset} de la ville !{000c-0009-0000}
+"005"	Mmm !{pause 20} Le café est vraiment bon.	Comme d'habitude, tu me diras !{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}{Orange}Robusto {Color Reset}!{pause 20} Comment fais-tu pour	mettre à chaque fois la parfaite	dose de lait ? {pause 10}Ni trop, ni pas assez !{000c-0009-0000}
+"006"	Mmm !{pause 20} Ah, quel délice, ce café,	comme d'habitude !{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}{Orange}Robusto {Color Reset}!{pause 20} Avec {Blue}deux sucres{Color Reset},	il est léger comme je l'aime !	C'est parfait !{000c-0009-0000}
+"007"	.{pause 5}.{pause 5}.{pause 5}{000c-0002-0000}{000c-0005-0000}{pause 15} Merci.
+"008"	{0009-0001-0006-0015-0016-0017}
+"009"	{0009-0001-0006-001f-0020-0023}
+"010"	{000a-001a-0004-0029-002a}
+"012"	Oh,{pause 10} {Player name} !{pause 20} Comme on se	retrouve !
+"013"	Oh,{pause 10} {Player name} !{pause 20} Comment ça va,	{petit/petite} ?
+"014"	Je te souhaite bien le bonjour,{pause 10}	{petit/petite}.{Wait for input} Toi aussi, tu es {venu/venue} boire	ton café du matin ?
+"015"	Bonjour, {pause 10}{Player name} !{Wait for input} Tu viens	prendre un café à emporter {pause 15}ou	tu préfères le boire ici ?	.{pause 5}.{pause 5}.{pause 5}{emote: Alarmed}{pause 10} Oh !{pause 20} {emote: Reset}Euh... Je suis juste un client.	Si tu veux commander,{pause 10} demande	plutôt à {Orange}Robusto{Color Reset}.{pause 8}{emote: Laughter} Hé, hé, houerf !{emote: Happiness}
+"016"	Oh, mais c'est toi, {pause 10}{Player name} !{Wait for input}	C'est fou, je tombe toujours sur	toi quand je viens ici !
+"017"	Eh bien, bonjour, {mon petit/ma petite}{pause 10}	{Player name} !{Wait for input}	Tu as déjà bu un café, aujourd'hui ?{Player can respond (0005):0012-0000-0013-0028}	Oui !	Non, pas encore.
+"018"	{emote: Thought}Oh{pause 8}.{pause 8}.{pause 8}.{pause 20} Quel dommage.{pause 5} Moi qui voulais	t'en offrir un.
+"019"	{emote: Happiness}Ça tombe bien !{pause 20} Viens donc	t'asseoir et discute un peu	avec ce vieux {Orange}Tortimer{Color Reset} !
+"021"	Même si je ne suis plus le maire,{pause 10}	j'ai encore plein de souvenirs des	moments passés à {Town name (pink)}.	C'est pourquoi je viens parfois voir	comment tout le monde se porte	tout en profitant d'un bon café.	Mais... {pause 10}je t'avoue que la raison de	mes visites reste surtout{pause 5}{emote: Glare} le café !
+"022"	Depuis que je suis parti à la	retraite,{pause 10} la ville a déjà tellement	changé !	{emote: Happiness}C'est l'intérêt d'avoir un nouveau	maire. Un peu de changement ne	fait pas de mal, après tout !
+"023"	C'est agréable de profiter de l'été	toute l'année,{pause 10} mais le cycle des	saisons me manque, finalement.{000a-0010-0008-0018-0019-001a-001b}
+"024"	Chasser la fatigue due au printemps	avec un café bien corsé{pause 5}.{pause 5}.{pause 5}.{pause 20}{Wait for input}Il n'y a qu'en cette saison qu'on	peut avoir ça !
+"025"	Par exemple, il fait très chaud en ce	moment, hein ?{pause 8} Boire du café chaud	en cette saison, c'est comme{pause 5}.{pause 5}.{pause 5}.	... manger de la soupe devant un	ventilateur à pleine puissance.
+"026"	Rien ne réchauffe plus mon cœur	que de boire mon café, caressé par	le vent frais de l'automne{pause 5}.{pause 5}.{pause 5}.
+"027"	Tu te demandes pourquoi je viens	alors qu'il fait aussi froid, pas vrai ?	Eh bien, tu vois, c'est comme{pause 5}.{pause 5}.{pause 5}.	... quand tu t'enveloppes dans une	couverture bien chaude et que tu as	subitement envie d'une glace à l'eau.
+"028"
+"029"
+"031"	{capitalized}{Town name (pink)} est une belle ville{pause 5}.{pause 5}.{pause 5}.{pause 20}	Mais tu sais, {pause 5}{Player name}{pause 5}.{pause 5}.{pause 5}.{pause 15}{emote: Glare} Mon île	n'est pas mal non plus{pause 5}.{pause 5}.{pause 5}.{pause 5} Ouais{pause 5}.{pause 5}.{pause 5}.
+"032"	Au fait, je me sens un peu seul sur	mon île,{pause 10} alors j'ai invité tous les	habitants de la ville !	Mais ils me répondent tous qu'ils	sont trop occupés par leur travail.{Wait for input}{000c-0001-0000}{000c-0007-0000}{pause 10}Hé, {pause 10}{Orange}Robusto {Color Reset}!{Wait for input} Tu m'as l'air un peu	fatigué. Et si tu venais te remplumer	sur mon île ?{000c-0009-0000}
+"033"	{000c-0002-0000}{000c-0003-0000}Eh bien{pause 5}.{pause 5}.{pause 5}.{pause 5}{000c-0000-0000}{000c-0007-0000} Je ne peux pas{pause 5}.{pause 5}.{pause 5}.{pause 5} J'ai du	travail{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"034"	{000c-0001-0000}{000c-0003-0000}{pause 5}.{pause 5}.{pause 5}.{pause 10} Tu vois ?
+"035"	{000a-0010-0008-0024-0025-0026-0027}
+"036"	Le temps s'est enfin radouci, ici !{Wait for input}Mais si tu veux goûter à la chaleur	de l'été avant l'heure{pause 5}.{pause 5}.{pause 5}.{pause 20}{emote: Glare} tu es {le/la}	{bienvenu/bienvenue} sur Tortiland !
+"037"	Si tu crois qu'il ne sert à rien de	visiter mon île en plein été,{pause 5} tu te	trompes !	{emote: Happiness}Tortiland regorge d'animaux, de	plantes et de fruits qu'on ne voit	pas ici !
+"038"	Il fait plus frais, depuis quelque	temps, tu ne trouves pas ?{Wait for input}Tu sais{pause 5}.{pause 5}.{pause 5}.{pause 20} si l'été te manque déjà,{pause 10} {emote: Glare}	tu peux toujours venir sur mon île !
+"039"	Ah, la rudesse de l'hiver rend mon	île d'autant plus attrayante !{Wait for input}{emote: Happiness}Si tu ne rêves plus que de chasse	aux insectes la nuit,{pause 10}{emote: Glare} tu peux	toujours faire un tour sur mon île !
+"041"	{0009-0003-000a-002b-002c-002f-0032-0033}
+"042"	{0009-0001-0006-0032-0033-0036}
+"043"	Au fait,{pause 10} {Player name} !{pause 20} Si tu as besoin	de conseils concernant la gestion de	la ville, je suis là pour ça !
+"044"	Ça ne va pas, {pause 10}{Player name} ?{Wait for input} Tu as	besoin des conseils avisés du vieux	{Orange}Tortimer{Color Reset} ?{Player can respond (0005):002d-0000-002e-0028}	Oui, au secours !	Nan, je me débrouille.
+"045"	Hmm{pause 5}.{pause 5}.{pause 5}.{pause 15} Je vois. Si je peux te donner	un conseil{pause 5}.{pause 5}.{pause 5}.{Wait for input}... c'est de ne pas oublier que la vie	est pleine de surprises.{pause 10}{Wait for input}Les choses ne se passent pas	toujours comme tu le souhaites.	Mais c'est comme ça !	{emote: Happiness}Tu ferais mieux de ne pas trop t'en	faire.{pause 10} Essaye plutôt de toujours	donner le meilleur de toi-même !
+"046"	Ah !{pause 10} Tant mieux !{Wait for input} Il faut savoir	garder la tête froide quand on	est maire, pas vrai ?
+"047"	{000c-0001-0000}{000c-0007-0000}Dis-moi, {Orange}Robusto{Color Reset}.{Wait for input} Que penses-tu	{de /d'}{Player name} ? {Il/Elle} s'occupe bien	{de /d'}{Town name (pink)} ?{000c-0009-0000}
+"048"	{000c-0002-0000}{000c-0003-0000}Vrou{pause 5}.{pause 5}.{pause 5}.{pause 10} {000c-0000-0000}{000c-0007-0000}Je lui suis reconnaissant de	m'avoir permis d'ouvrir mon café{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"049"	{emote: Laughter}Hé, hé houerf !{pause 20} Ça me rassure !	Je ne regrette pas d'avoir pris	ma retraite !{emote: Happiness}
+"050"	{000c-0001-0000}{000c-0007-0000}{Orange}Robusto{Color Reset}, {pause 10}tu livres le café à	domicile ?{000c-0009-0000}
+"051"	{000c-0001-0000}{000c-0007-0000}{Orange}Robusto{Color Reset}, {pause 10}tu vends du café par	correspondance ?{000c-0009-0000}
+"052"	{000c-0002-0000}{000c-0003-0000}{pause 5}.{pause 5}.{pause 5}.{pause 5}{000c-0000-0000}{000c-0007-0000} Non{pause 5}.{pause 5}.{pause 5}.{pause 20} Désolé{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"053"	Oh{pause 5}.{pause 5}.{pause 5}.{pause 5} Je vois.{pause 20} Quel dommage{pause 5}.{pause 5}.{pause 5}.
+"054"	Au fait, {pause 5}{Player name}.{Wait for input} Tu trouves	{que /qu'}{0005-001c-0002-cd00} fait suffisamment	d'efforts pour la ville ?{Player can respond (0001):0037-0000-0038-0000-0039-0000}	Oh oui ! C'est mon idole.	Bof, sans plus.	Nan, c'est une feignasse.
+"055"	Oh !{pause 15} Je vois !{Wait for input} Ça me fait plaisir	que tu penses ça !{Wait for input}Tu sais,{pause 10} si ça se trouve, {0005-001c-0002-cd00}	se fatigue trop à force de faire	toujours de son mieux{pause 5}.{pause 5}.{pause 5}.	De temps en temps, tu devrais	l'encourager et lui dire merci pour	tous les efforts qu'{000e-0005-0010-0004-0069-006c-0008-0065-006c-006c-0065} fait !
+"056"	Comment ?{pause 15} Sans plus ?{Wait for input}Laisse-moi te dire une chose : les	maires ne savent pas trop ce que	les habitants pensent de leur travail.	Tu devrais aller voir {0005-001c-0002-cd00} et	l'encourager, de temps en temps !
+"057"	Vraiment{pause 5}.{pause 5}.{pause 5}.?{pause 20} Tu sais, ce n'est pas	facile de s'habituer à un travail	comme celui-ci{pause 5}.{pause 5}.{pause 5}.	D'après moi, {0005-001c-0002-cd00} fait de	son mieux pour rendre {Town name (pink)}	agréable à vivre.	Tu ferais mieux de l'aider {pause 10}plutôt	que de bayer aux corneilles.	Il faut savoir s'entraider.
+"058"
+"059"
+"060"
 == 3 ==
-"001"	Ehi, giovinastr{000e-0006-0008-02-00-6f-00-02-00-61-00}!{pause 20}
-"002"	{0009-0001-0006-0c-00-0d-00-0e-00}
-"003"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"004"	Mmmh!{pause 20}
-"005"	Mmmh!{pause 20}
-"006"	Mmmh!{pause 20}
-"007"	.{pause 5}
-"008"	{0009-0001-0006-15-00-16-00-17-00}
-"009"	{0009-0001-0006-1f-00-20-00-23-00}
-"010"	{000a-001a-0004-29-00-2a-00}
-"012"	Oh!{pause 10}
-"013"	Oh!{pause 10}
-"014"	Buondì,{pause 10}
-"015"	Buondì, {pause 10}
-"016"	Ma guarda chi si vede... {pause 10}
-"017"	Buondì,{pause 10}
-"018"	{emote: Thought}
-"019"	{emote: Happiness}
-"021"	Vedi, giovincell{000e-0006-0008-02-00-6f-00-02-00-61-00}... Anche se adesso	non sono più il sindaco,{pause 10}
-"022"	Da quando non sono più	il sindaco di {Town name (pink)}
-"023"	Dove abito adesso c'è un'estate	perenne,{pause 10}
-"024"	La primavera mi rende sempre	un po' sonnacchioso. Non mi	resta altra scelta che bere caffè{pause 5}
-"025"	Non c'è niente di male a bere	una bevanda calda in una giornata	torrida come questa{pause 5}
-"026"	Con questa brezzolina autunnale qui	fuori, mi è venuta una gran voglia	di sorseggiarmi un po' di caffè{pause 5}
-"027"	Non chiedermi perché abbia deciso	di venire in città proprio oggi,	con queste temperature polari.{0000-0004-0000}
-"028"	
-"029"	
-"031"	{capitalized}
-"032"	Sto facendo il giro della città	per convincere più abitanti possibile	a venire a visitare l'isola dove abito.{pause 10}
-"033"	{000c-0002-0000}
-"034"	{000c-0001-0000}
-"035"	{000a-0010-0008-24-00-25-00-26-00-27-00}
-"036"	La temperatura {000e-0010-0000}
-"037"	Se pensi che sia inutile visitare	la mia isola d'estate...{pause 5}
-"038"	Finalmente l'aria qui {000e-0010-0000}
-"039"	Perdincibacco, che freddo! Meno	male che adesso vivo su un'isola	dove fa caldo tutto l'anno!{0000-0004-0000}
-"041"	{0009-0003-000a-2b-00-2c-00-2f-00-32-00-33-00}
-"042"	{0009-0001-0006-32-00-33-00-36-00}
-"043"	Ricorda,{pause 10}
-"044"	Che ti prende,{pause 10}!
-"045"	Capisco.{pause 15}
-"046"	Perbacco!{pause 10}
-"047"	{000c-0001-0000}
-"048"	{000c-0002-0000}
-"049"	{emote: Laughter}
-"050"	{000c-0001-0000}
-"051"	{000c-0001-0000}
-"052"	{000c-0002-0000}
-"053"	Uff{pause 5}
-"054"	Ma dimmi, {pause 5}
-"055"	Perdincibaccolina!{pause 15}
-"056"	Oh!{pause 15}
-"057"	Capisco{pause 5}
-"058"	
-"059"	
-"060"	
+"001"	Ehi, giovinastr{o/a}!{pause 20} Tu sei{pause 10}	{Player name}, o sbaglio?{Wait for input}Perbacco, che coincidenza trovarti	qui!{Wait for input} Ti capisco: il caffè di {Orange}Bartolo{Color Reset}	è davvero squisito!
+"002"	{0009-0001-0006-000c-000d-000e}
+"003"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"004"	Mmmh!{pause 20} Questo caffè è veramente	fenomenale!{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}{Orange}Bartolo{Color Reset}!{pause 20} Il tuo {Blue}decaffeinato{Color Reset} è	insuperabile... inimitabile, direi!{000c-0009-0000}
+"005"	Mmmh!{pause 20} Il caffè che servono qua	è sempre il mio preferito!{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}{Orange}Bartolo{Color Reset}!{pause 20} Sei un vero professionista.{pause 10}	Usi sempre {Blue}un po'{Color Reset} di latte!	Né troppo né troppo poco!{000c-0009-0000}
+"006"	Mmmh!{pause 20} Ancora una volta, questo	caffè non mi delude!{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}{Orange}Bartolo{Color Reset}!{pause 20} Ti ricordi sempre che	nel mio caffè voglio {Blue}due cucchiaini{Color Reset}	di zucchero. Sei un portento!{000c-0009-0000}
+"007"	.{pause 5}.{pause 5}.{pause 5}{000c-0002-0000}{000c-0005-0000}{pause 15} Grazie.
+"008"	{0009-0001-0006-0015-0016-0017}
+"009"	{0009-0001-0006-001f-0020-0023}
+"010"	{000a-001a-0004-0029-002a}
+"012"	Oh!{pause 10} {capitalized}{Player name}!{pause 20} Eccoti di nuovo!
+"013"	Oh!{pause 10} {capitalized}{Player name}!{pause 20} Come te la passi,	giovincell{o/a}?
+"014"	Buondì,{pause 10} giovinastr{o/a}.{Wait for input} Sei venut{o/a}	a fare colazione con una cara,	vecchia tazza di caffè? Ma brav{o/a}!
+"015"	Buondì, {pause 10}{Player name}!{Wait for input}	Vuoi ordinare un caffè da portare	via?{pause 15} Oppure vuoi berlo qui?	{pause 5}.{pause 5}.{pause 5}.{pause 5}{emote: Alarmed}{pause 10} Ops!{pause 20} {emote: Reset}Mi ero dimenticato che qui	sono solo un semplice cliente.{pause 10}	Devi ordinare a {Orange}Bartolo{Color Reset}!{pause 8}{emote: Laughter} Eh eh!{emote: Happiness}
+"016"	Ma guarda chi si vede... {pause 10}{capitalized}{Player name}!{Wait for input}	Io e te finiamo sempre	per incontrarci qui alla {Blue}Piccionaia{Color Reset}!
+"017"	Buondì,{pause 10} {Player name}!{Wait for input}	Hai già preso il caffè oggi,	giovinastr{o/a}?{Player can respond (0005):0012-0000-0013-0028}	Sì, già bevuto!	Non ancora.
+"018"	{emote: Thought}Capisco{pause 8}.{pause 8}.{pause 8}.{pause 20} Beh, è un gran peccato.{pause 5}	Volevo offrirtene uno io. Sarà	per la prossima volta, giovinastr{o/a}.
+"019"	{emote: Happiness}Davvero?{pause 20} Perbacco! Allora devi	assolutamente sederti qui accanto	a me per fare due chiacchiere!
+"021"	Vedi, giovincell{o/a}... Anche se adesso	non sono più il sindaco,{pause 10} in questa	città mi sento ancora a casa.	È per questo che ogni tanto passo	di qui per sentire le ultime notizie...	e per gustarmi un ottimo caffè!	... Anzi, sarò onesto: {pause 10}il motivo	principale{emote: Glare} è proprio il caffè. Quello	che servono qui non ha paragoni!
+"022"	Da quando non sono più	il sindaco di {Town name (pink)},{pause 10}	la città è cambiata molto.	{emote: Happiness}Beh, è normale quando c'è	{un nuovo primo cittadino/una nuova prima cittadina}.{Wait for input}Ricorda bene: i cambiamenti	sono una buona cosa!
+"023"	Dove abito adesso c'è un'estate	perenne,{pause 10} ma devo dire che	l'alternarsi delle stagioni mi manca.{000a-0010-0008-0018-0019-001a-001b}
+"024"	La primavera mi rende sempre	un po' sonnacchioso. Non mi	resta altra scelta che bere caffè{pause 5}.{pause 5}.{pause 5}.{pause 20}	Solo in primavera avverto questa	sensazione di torpore. Per fortuna	esiste questa caffetteria!
+"025"	Non c'è niente di male a bere	una bevanda calda in una giornata	torrida come questa{pause 5}.{pause 5}.{pause 5}.	È un po' come mangiarsi	una minestra fumante di fronte	al caminetto!
+"026"	Con questa brezzolina autunnale qui	fuori, mi è venuta una gran voglia	di sorseggiarmi un po' di caffè{pause 5}.{pause 5}.{pause 5}.
+"027"	Non chiedermi perché abbia deciso	di venire in città proprio oggi,	con queste temperature polari.{Wait for input}È come avere una voglia improvvisa	di gelato dopo essersi rannicchiati	sotto un mare di coperte calde!
+"028"
+"029"
+"031"	{capitalized}{Town name (pink)} è una città fantastica.	Ma ti dirò, {pause 5}{Player name}{pause 5}.{pause 5}.{pause 5}.{pause 15} {emote: Glare}Anche	l'isola dove abito non è male, anzi!
+"032"	Sto facendo il giro della città	per convincere più abitanti possibile	a venire a visitare l'isola dove abito.{pause 10}	Purtroppo, però, sembra che tutti	quanti siano troppo occupati	a lavorare! Che disdetta!{Wait for input}{000c-0001-0000}{000c-0007-0000}{pause 10}Di' un po', {pause 10}{Orange}Bartolo{Color Reset}!{Wait for input} Non hai voglia	di volartene per un po' sulla mia	isola? Ti farebbe bene, sai?!{000c-0009-0000}
+"033"	{000c-0002-0000}{000c-0003-0000}Ah{pause 5}.{pause 5}.{pause 5}.{pause 5}{000c-0000-0000}{000c-0007-0000} Ma{pause 5}.{pause 5}.{pause 5}.{pause 5} io ho del lavoro	da fare, qui{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"034"	{000c-0001-0000}{000c-0003-0000}.{pause 5}.{pause 5}.{pause 10} Visto cosa ti dicevo, giovinastr{o/a}?
+"035"	{000a-0010-0008-0024-0025-0026-0027}
+"036"	La temperatura {000e-0010-0000} {Town name (pink)} si è	ingentilita un po', finalmente!{Wait for input}Ma se sei troppo impaziente e	vuoi subito l'estate{pause 5}.{pause 5}.{pause 5}.{emote: Glare} Vieni	a trovarmi sulla mia isola!
+"037"	Se pensi che sia inutile visitare	la mia isola d'estate...{pause 5} beh,	giovinastr{o/a}... ti sbagli di grosso!{Wait for input}{emote: Happiness}Ci sono un sacco di animali, piante	e frutti che puoi trovare soltanto lì!	{pause 15}Parola di {Orange}Tortimer{Color Reset}!
+"038"	Finalmente l'aria qui {000e-0010-0000} {Town name (pink)}	è diventata pungente come ogni	anno d'autunno.{Wait for input}Ma ricordati, giovincell{o/a}{pause 5}.{pause 5}.{pause 5}.{pause 20} Se non	sei pront{o/a} a dire addio all'estate,{pause 10}	{emote: Glare}devi venire a trovarmi sull'isola!
+"039"	Perdincibacco, che freddo! Meno	male che adesso vivo su un'isola	dove fa caldo tutto l'anno!{Wait for input}{emote: Happiness}Ehi, giovinastr{o/a}... Se vuoi cacciare	insetti senza congelarti,{pause 10} {emote: Glare}vai al molo	e prendi la barca diretta all'isola!
+"041"	{0009-0003-000a-002b-002c-002f-0032-0033}
+"042"	{0009-0001-0006-0032-0033-0036}
+"043"	Ricorda,{pause 10} {Player name}!{pause 20} Se vuoi	suggerimenti su come gestire	una città, chiedi a Tortimer!
+"044"	Che ti prende,{pause 10} {Player name}?{Wait for input}	C'è qualche problema? Hai bisogno	di parlare da sindaco a sindaco?{Player can respond (0005):002d-0000-002e-0028}	Sì, ho bisogno di aiuto.	No, va tutto bene.
+"045"	Capisco.{pause 15} Beh, giovinastr{o/a},	il consiglio più importante che	io possa darti è il seguente{pause 5}.{pause 5}.{pause 5}.{Wait for input}Tante cose succedono nella vita,{pause 10}	ma bisogna accettare che alcune	cose vanno come vanno...	... perché è l'unico modo in cui	possono andare!{Wait for input}{emote: Happiness}Quindi non preoccuparti troppo,	giovincell{o/a}.{pause 10} Cerca di essere	spensierat{o/a} ogni tanto!
+"046"	Perbacco!{pause 10} Che bella notizia!{Wait for input}	Se riesci a mantenere i nervi saldi	in questo lavoro, tanto di cappello.
+"047"	{000c-0001-0000}{000c-0007-0000}Dimmi un po', vecchio {Orange}Bartolo{Color Reset}...{Wait for input}	Questo sindaco {Player name}	si sta dando da fare?{000c-0009-0000}
+"048"	{000c-0002-0000}{000c-0003-0000}Uh{pause 5}.{pause 5}.{pause 5}. {000c-0000-0000}{000c-0007-0000}{gli/le} sono grato per questa	caffetteria{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"049"	{emote: Laughter}Eh eh eh!{pause 20} Questo mi tranquillizza!	Così non devo pentirmi di essere	andato in pensione!{emote: Happiness}
+"050"	{000c-0001-0000}{000c-0007-0000}Di' un po', {pause 10}{Orange}Bartolo{Color Reset}, questa	caffetteria fa anche consegne	a domicilio?{000c-0009-0000}
+"051"	{000c-0001-0000}{000c-0007-0000}Di' un po', {pause 10}{Orange}Bartolo{Color Reset}, questa	caffetteria fa consegne	via posta di chicchi di caffè?{000c-0009-0000}
+"052"	{000c-0002-0000}{000c-0003-0000}{pause 5}.{pause 5}.{pause 5}.{pause 5}{000c-0000-0000}{000c-0007-0000} No{pause 5}.{pause 5}.{pause 5}.{pause 20} Mi spiace, uh.{000c-0009-0000}
+"053"	Uff{pause 5}.{pause 5}.{pause 5}.{pause 5} Capisco.{pause 20} Un vero peccato{pause 5}.{pause 5}.{pause 5}.
+"054"	Ma dimmi, {pause 5}{Player name}...{Wait for input}	Quanto si dà da fare il sindaco	di {Town name (pink)}?{Player can respond (0001):0037-0000-0038-0000-0039-0000}	Un sacco!	Abbastanza.	Pochino.
+"055"	Perdincibaccolina!{pause 15} Ciò mi rende	molto orgoglioso!{Wait for input}Tuttavia,{pause 10} questo può voler dire	che il vostro sindaco di tanto	in tanto potrebbe stancarsi{pause 5}.{pause 5}.{pause 5}.	Ti consiglio caldamente di rivolgere	al sindaco parole di incoraggiamento	ogni tanto per aiutarlo!
+"056"	Oh!{pause 15} Abbastanza, dici? Beh, meno	male!{Wait for input}Sai, i sindaci a volte non sanno bene	cosa pensano di loro i cittadini.	E parlo per esperienza diretta!	Quindi faresti bene a incoraggiare	il tuo sindaco ogni tanto,	giovinastr{o/a}!
+"057"	Capisco{pause 5}.{pause 5}.{pause 5}.{pause 20} Immagino che il sindaco	si trovi in difficoltà perché si sta	ancora abituando al nuovo incarico{pause 5}.{pause 5}.{pause 5}.	Sicuramente {0005-001c-0002-cd00} sta	cercando in ogni modo	di migliorare la città.	Se hai l'occasione, dovresti aiutare	il tuo sindaco.{pause 10} Non stare solo	a guardare, giovincell{o/a}!
+"058"
+"059"
+"060"
 == 4 ==
-"001"	Oooh!{pause 20}
-"002"	{0009-0001-0006-0c-00-0d-00-0e-00}
-"003"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"004"	Hmm!{pause 20}
-"005"	Hmm!{pause 20}
-"006"	Hmm!{pause 20}
-"007"	.{pause 5}
-"008"	{0009-0001-0006-15-00-16-00-17-00}
-"009"	{0009-0001-0006-1f-00-20-00-23-00}
-"010"	{000a-001a-0004-29-00-2a-00}
-"012"	Oh,{pause 10}
-"013"	Oh,{pause 10}
-"014"	Guten Morgen,{pause 10}
-"015"	Guten Morgen, {pause 10}!
-"016"	Wenn das nicht {000e-0006-0010-06-00-64-00-65-00-72-00-06-00-64-00-69-00-65-00} kleine	{Player name}
-"017"	Oh, {pause 10}
-"018"	{emote: Thought}
-"019"	{emote: Happiness}
-"021"	Ich habe das Bürgermeisteramt an	den Nagel gehängt,{pause 10}
-"022"	Seit ich {Town name (pink)}
-"023"	Der ewige Sommer auf meiner Insel	ist natürlich schön,{pause 10}
-"024"	Die Frühjahrsmüdigkeit mit einem	starken Kaffee wegblasen{pause 5}
-"025"	Ein heißer Kaffee an einem schwülen	Sommertag{pause 5}
-"026"	An einem kühlen Herbsttag Körper	und Geist mit einem Kaffee	erfrischen{pause 5}
-"027"	Deshalb bin ich dieses Mal im	Winter in die Stadt gekommen{pause 5}
-"028"	
-"029"	
-"031"	{capitalized}
-"032"	Wir wollen mehr Besucher auf die	Insel locken, deshalb putze ich hier	in {Town name (pink)}
-"033"	{000c-0002-0000}
-"034"	{000c-0001-0000}
-"035"	{000a-0010-0008-24-00-25-00-26-00-27-00}
-"036"	Hier in {Town name (pink)}!
-"037"	Du denkst vielleicht, im Sommer	lohnt es sich nicht, Inselurlaub zu	machen, weil es hier auch heiß ist...	{emote: Happiness}
-"038"	In {Town name (pink)}
-"039"	In der klirrenden Winterkälte wirkt	meine Insel noch verlockender als	sowieso schon!	{emote: Happiness}
-"041"	{0009-0003-000a-2b-00-2c-00-2f-00-32-00-33-00}
-"042"	{0009-0001-0006-32-00-33-00-36-00}
-"043"	Ach ja,{pause 10}
-"044"	Was gibt es,{pause 10}
-"045"	Na gut{pause 5}!
-"046"	Gut!{pause 10}
-"047"	{000c-0001-0000}
-"048"	{000c-0002-0000}
-"049"	{emote: Laughter}
-"050"	{000c-0001-0000}
-"051"	{000c-0001-0000}
-"052"	{000c-0002-0000}
-"053"	Hmpf.{pause 20}
-"054"	Übrigens, {pause 5}
-"055"	Oho!{pause 20}
-"056"	Oho!{pause 15}
-"057"	Hm, verstehe{pause 5}
-"058"	
-"059"	
-"060"	
+"001"	Oooh!{pause 20} Du bist doch{pause 8}.{pause 8}.{pause 8}.{pause 10}	{Player name}, oder?{Wait for input}Was für ein Zufall, dir hier über den	Weg zu laufen!{Wait for input} Lass uns doch einen	Moment plaudern!
+"002"	{0009-0001-0006-000c-000d-000e}
+"003"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"004"	Hmm!{pause 20} Auf den Kaffee hier kann	man sich immer verlassen!{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}Hörst du, {pause 8}{Orange}Kofi{Color Reset}?{pause 20} Deine {Blue}Doppel-	röstung {Color Reset}ist wie immer ein Genuss,	{pause 8}he he huff!{000c-0009-0000}
+"005"	Hmm!{pause 20} Wenn ich eine Anmerkung	machen darf, der Kaffee ist wie	immer ausgezeichnet!	{000c-0001-0000}{000c-0007-0000}{emote: Happiness}{Orange}Kofi{Color Reset}!{pause 20} Du nimmst immer genau die	richtige Menge Milch.{pause 10} {Blue}Nicht zu	viel und nicht zu wenig{Color Reset}!{000c-0009-0000}
+"006"	Hmm!{pause 20} Über den Kaffee kann man	sich mal wieder nicht beklagen!{Wait for input}{000c-0001-0000}{000c-0007-0000}{emote: Happiness}Hörst du, {pause 8}{Orange}Kofi{Color Reset}?{pause 20} Mit {Blue}zwei Löffeln	{Color Reset}Zucker triffst du bei mir immer	genau ins Schwarze!{000c-0009-0000}
+"007"	.{pause 5}.{pause 5}.{pause 5}{000c-0002-0000}{000c-0005-0000}{pause 15}Danke.
+"008"	{0009-0001-0006-0015-0016-0017}
+"009"	{0009-0001-0006-001f-0020-0023}
+"010"	{000a-001a-0004-0029-002a}
+"012"	Oh,{pause 10} {Player name}!{pause 20} Sieht man	sich mal wieder!
+"013"	Oh,{pause 10} {Player name}!{pause 20} Wie ist es dir	so ergangen, {pause 8}Sprössling?
+"014"	Guten Morgen,{pause 10} Sprössling.{Wait for input}	Bist du auch auf einen	Morgenkaffee hier?
+"015"	Guten Morgen, {pause 10}{Player name}!{Wait for input} Holst du	dir einen Kaffee auf die Faust?{pause 15}	Oder willst du ihn hier genießen?	.{pause 5}.{pause 5}.{pause 5}{emote: Alarmed}{pause 10}Oh!{pause 20} {emote: Reset}Ich rede ja, als würde ich	Bestellungen aufnehmen!{Wait for input}Dafür musst du dich schon an	{Orange}Kofi{Color Reset} wenden!{pause 20}{emote: Laughter} He he he HUFF!{pause 20}{emote: Happiness}
+"016"	Wenn das nicht {der/die} kleine	{Player name} ist!{Wait for input} Wir begegnen uns	ja oft hier im {Blue}Taubenschlag{Color Reset}!
+"017"	Oh, {pause 10}hallo, {Player name}!{Wait for input}	Hast du deinen heutigen	Kaffee schon intus?{Player can respond (0005):0012-0000-0013-0028}	Ja!	Noch nicht.
+"018"	{emote: Thought}Verstehe{pause 8}.{pause 8}.{pause 8}.{pause 20} Schade,{pause 5} sonst hätte	ich dich jetzt auf ein Tässchen	eingeladen.
+"019"	{emote: Happiness}Das trifft sich gut!{pause 20} Willst du dich	nicht zu einem kleinen Kaffeeklatsch	zu mir setzen?
+"021"	Ich habe das Bürgermeisteramt an	den Nagel gehängt,{pause 10} aber ich liebe	meine alte Stadt wie eh und je.	Ich komme immer mal wieder vor-	bei, um nach dem Rechten zu schau-	en und mir einen Kaffee zu gönnen.	Ich muss sagen,{pause 8}{emote: Glare} der Kaffee ist fast	der wichtigere Grund von beiden.{pause 20}	{emote: Laughter}He he huff!{pause 20}{emote: Glare}
+"022"	Seit ich {Town name (pink)} nicht mehr	vorstehe,{pause 10} hat sich einiges geändert.{Wait for input}{emote: Happiness}Aber das ist ja eigentlich gut so!{pause 20}	Sonst hätte ich gleich Bürgermeister	bleiben können, he he huff!
+"023"	Der ewige Sommer auf meiner Insel	ist natürlich schön,{pause 10} aber ein wenig	vermisse ich die vier Jahreszeiten.{000a-0010-0008-0018-0019-001a-001b}
+"024"	Die Frühjahrsmüdigkeit mit einem	starken Kaffee wegblasen{pause 5}.{pause 5}.{pause 5}.{pause 20} Das	kann man nur im Frühling erleben!
+"025"	Ein heißer Kaffee an einem schwülen	Sommertag{pause 5}.{pause 5}.{pause 5}.{pause 20} Das ist verwegen, wie	Eiscreme im Winter!
+"026"	An einem kühlen Herbsttag Körper	und Geist mit einem Kaffee	erfrischen{pause 5}.{pause 5}.{pause 5}.{pause 20} Einmalig!
+"027"	Deshalb bin ich dieses Mal im	Winter in die Stadt gekommen{pause 5}.{pause 5}.{pause 5}.{Wait for input}Das ist wie ein Sprung ins kalte	Wasser nach der Sauna!
+"028"
+"029"
+"031"	{capitalized}{Town name (pink)} ist eine tolle Stadt,{pause 8}	ganz toll{pause 5}.{pause 5}.{pause 5}.{pause 20} Aber, {pause 5}{Player name}{pause 5}.{pause 5}.{pause 5}.{pause 15}	{emote: Glare}die Insel{pause 5}.{pause 5}.{pause 5}.{pause 5} die ist auch großartig{pause 5}.{pause 5}.{pause 5}.
+"032"	Wir wollen mehr Besucher auf die	Insel locken, deshalb putze ich hier	in {Town name (pink)} fleißig Klinken.	Aber alle sagen, sie seien zu	beschäftigt!{Wait for input}{000c-0001-0000}{000c-0007-0000}{pause 10}Was ist mit dir, {pause 10}{Orange}Kofi{Color Reset}?{pause 30} Du könntest	sicher auch etwas Erholung auf	meiner Insel vertragen!{000c-0009-0000}
+"033"	{000c-0002-0000}{000c-0003-0000}Ah{pause 5}.{pause 5}.{pause 5}.{pause 5}{000c-0000-0000}{000c-0007-0000} Aber{pause 5}.{pause 5}.{pause 5}.{pause 5} Ich kann den Laden	nicht alleinlassen{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"034"	{000c-0001-0000}{000c-0003-0000}.{pause 5}.{pause 5}.{pause 5}Da siehst du's!
+"035"	{000a-0010-0008-0024-0025-0026-0027}
+"036"	Hier in {Town name (pink)} wird's endlich	wieder etwas wärmer,{pause 8} was?{Wait for input}Wenn du keine Lust mehr hast,	länger auf den Sommer zu warten{pause 5}.{pause 5}.{pause 5}.{pause 20}	{emote: Glare}komm einfach auf meine Insel!
+"037"	Du denkst vielleicht, im Sommer	lohnt es sich nicht, Inselurlaub zu	machen, weil es hier auch heiß ist...	{emote: Happiness}Aber das stimmt nicht!{pause 20} Es gibt dort	viele Tiere, Pflanzen und Früchte,	die du nirgendwo sonst findest!
+"038"	In {Town name (pink)} hält langsam der	Herbst Einzug.{pause 20} Es wird schon	etwas kühl an manchen Tagen.	Aber weißt du, was,{pause 8} Sprössling?{Wait for input}Wenn du dich noch nicht vom	Sommer verabschieden willst,{pause 10}	{emote: Glare}komm einfach auf meine Insel!
+"039"	In der klirrenden Winterkälte wirkt	meine Insel noch verlockender als	sowieso schon!	{emote: Happiness}Falls du die Insektenjagd vermisst...{pause 10}	{emote: Glare}Das Boot wartet schon auf dich!
+"041"	{0009-0003-000a-002b-002c-002f-0032-0033}
+"042"	{0009-0001-0006-0032-0033-0036}
+"043"	Ach ja,{pause 10} {Player name}!{pause 20} Falls du mit all	der Macht nicht umgehen kannst,	die dein Amt gewährt, frag mich!
+"044"	Was gibt es,{pause 10} {Player name}?{Wait for input}	Kann ich dir als Bürgermeister a. D.	ein paar Tipps geben?{Player can respond (0005):002d-0000-002e-0028}	Ja bitte!	Ich komm schon klar.
+"045"	Na gut{pause 5}.{pause 5}.{pause 5}.{pause 15} Der beste Rat, den ich dir	geben kann, ist wohl dieser{pause 5}.{pause 5}.{pause 5}.{Wait for input}Egal, wie wir uns im Leben	abrackern,{pause 8} einige Dinge passieren	einfach so, wie sie passieren.	{emote: Happiness}Man sollte sich nicht zu viele	Gedanken machen.{pause 10} Das ist das	Geheimnis von uns Politikern!
+"046"	Gut!{pause 10} Das freut mich zu hören!{pause 30} Unter	uns gesagt, {pause 8}das Wichtigste in diesem	Amt ist es, würdevoll auszusehen.
+"047"	{000c-0001-0000}{000c-0007-0000}Was meinst du,{pause 8} {Orange}Kofi{Color Reset}...{pause 30}	Macht {Player name} hier {seine/ihre} Sache	als {Bürgermeister/Bürgermeisterin} gut?{000c-0009-0000}
+"048"	{000c-0002-0000}{000c-0003-0000}Gurrr{pause 5}.{pause 5}.{pause 5}.{pause 10} {000c-0000-0000}{000c-0007-0000}Ohne {ihn/sie} hätte ich hier	kein Café{pause 5}.{pause 5}.{pause 5}.{pause 10} Ich bin dankbar{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"049"	{emote: Laughter}He he HUFF!{pause 20} Das hört man gern!{emote: Happiness}{pause 20}	Es läuft also auch ohne mich rund!
+"050"	{000c-0001-0000}{000c-0007-0000}Eine Frage, {Orange}Kofi{Color Reset},{pause 10} lieferst du	eigentlich auch Kaffee?{000c-0009-0000}
+"051"	{000c-0001-0000}{000c-0007-0000}Eine Frage, {Orange}Kofi{Color Reset},{pause 10} kann man sich bei	dir auch Kaffeebohnen nach Hause	liefern lassen?{000c-0009-0000}
+"052"	{000c-0002-0000}{000c-0003-0000}{pause 5}.{pause 5}.{pause 5}.{pause 5}{000c-0000-0000}{000c-0007-0000}Nein{pause 5}.{pause 5}.{pause 5}.{pause 20} Tut mir leid{pause 5}.{pause 5}.{pause 5}.{000c-0009-0000}
+"053"	Hmpf.{pause 20} Verstehe.{pause 20} Schade{pause 5}.{pause 5}.{pause 5}.
+"054"	Übrigens, {pause 5}{Player name}!{pause 30} Wie hart ar-	beitet der jetzige Bürgermeister von	{Town name (pink)} deiner Meinung nach?{Player can respond (0001):0037-0000-0038-0000-0039-0000}	Sehr hart!	So mittel?	Nicht hart genug!
+"055"	Oho!{pause 20} Das höre ich sehr gerne!{Wait for input}Ich hoffe nur, dass {0005-001c-0002-cd00} vor	lauter Arbeit nicht irgendwann	die Lust verliert{pause 5}.{pause 5}.{pause 5}.	Du solltest {000e-0005-0010-0006-0069-0068-006d-0006-0069-0068-0072} bei Gelegenheit auf	die Schulter klopfen und {000e-0005-0010-0006-0069-0068-006d-0006-0069-0068-0072} ein	paar nette Worte sagen!
+"056"	Oho!{pause 15} {capitalized}{0005-001c-0002-cd00} tut also schon	{000e-0005-0012-0008-0073-0065-0069-006e-0006-0069-0068-0072} Bestes, oder?{Wait for input}Du musst wissen, dass sich Bürger-	meister auch oft fragen, ob ihre	Bürger mit ihnen zufrieden sind.	Sag doch {0005-001c-0002-cd00} mal ganz	offen, dass {000e-0005-000e-0004-0065-0072-0006-0073-0069-0065} gute Arbeit leistet!
+"057"	Hm, verstehe{pause 5}.{pause 5}.{pause 5}.{pause 20} Es ist auch nicht	einfach, sich an so ein anspruchs-	volles Amt zu gewöhnen{pause 5}.{pause 5}.{pause 5}.	Du glaubst gar nicht, wie allein und	verlassen man sich im Kampf um	eine bessere Stadt fühlen kann...	Wenn du Zeit dafür hast, solltest du	{0005-001c-0002-cd00} helfen, wo es nur geht!{pause 20}	{000e-0005-004c-0022-0044-0065-0072-0020-0042-00fc-0072-0067-0065-0072-006d-0065-0069-0073-0074-0065-0072-0026-0044-0069-0065-0020-0042-00fc-0072-0067-0065-0072-006d-0065-0069-0073-0074-0065-0072-0069-006e} wird's freuen!
+"058"
+"059"
+"060"

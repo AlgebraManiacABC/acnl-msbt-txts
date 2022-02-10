@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Happiness}
-"003"	{emote: Soft Smile}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Thought}
-"007"	{emote: Surprise}
-"008"	{emote: Distress}
-"009"	{emote: Surprise}
-"010"	{emote: Surprise}
-"011"	{emote: Alarmed}
-"012"	{emote: Surprise}
-"013"	{emote: Alarmed}
-"014"	{emote: Distress}
-"015"	{emote: Alarmed}
-"016"	{emote: Surprise}
-"017"	{emote: Alarmed}
-"018"	{emote: Surprise}
-"019"	{emote: Happiness}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Soft Smile}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
+"001"	{emote: Curious}응?{pause 30}	뭔지 보여주시려던 게	아니었나요?{Wait for input}{emote: Soft Smile}일단 제게 보여주셔야{pause 10}	제 건지 아닌지	말씀드릴 수 있을 것 같아요
+"002"	{emote: Happiness}마음이 바뀌셨나요?{pause 30}	보여주셔야{pause 10} 제가 확인을	해드릴 텐데, {pause 15}{catchphrase}
+"003"	{emote: Soft Smile}뭔가 분실물을 주우셨다면{pause 10}	그냥 제게 보여주시지 그러세요～?
+"004"	{emote: Worry}아쉽지만{pause 10}	제 물건은 아닌 것 같아요
+"005"	{emote: Worry}죄송해요{pause 20}	제 건 아니네요～{Wait for input}{emote: Happiness}다른 분께도 여쭤보시면{pause 5}	좋을 것 같아요
+"006"	{emote: Thought}흐음{pause 8}・{pause 8}・{pause 8}・{pause 8}	저는 본 적이 없는데{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Happiness}다른 분의 물건인가 봐요!
+"007"	{emote: Surprise}앗!{pause 20} 이 책은?!{pause 30}	{emote: Happiness}그동안 한참 찾았는데{pause 10}	제가 잃어버린 거였군요!	{emote: Distress}친구가 빌려준 책인데{pause 10}	{emote: Happiness}찾아서 정말 다행이에요,	{pause 15}{catchphrase}
+"008"	{emote: Distress}어,{pause 10} 어디서 찾으셨어요?!{pause 20}	{emote: Happiness}이 책,{pause 10} 제가 얼마나 찾아다녔다구요～{Wait for input}	{emote: Glee}제 보물이 돌아와서{pause 10} 정말 기뻐요!
+"009"	{emote: Surprise}어머!	이 책, 잃어버린 줄 알고{pause 10}	거의 포기한 상태였어요!	{emote: Happiness}어릴 적부터 자주 읽었던{pause 10}	추억의 책인데{pause 15} 이렇게 찾아서	얼마나 다행인지 모르겠어요!{emote: Sunny}
+"010"	{emote: Surprise}어쩜!{pause 20}	이거 제 거 맞아요!{Wait for input}{emote: Soft Smile}요리 레시피를 넣어 둔 채로{pause 10}	잃어버려서{pause 8} 정말 속상했거든요{pause 15}	{emote: Glee}다시 찾게 되어서 기뻐요!
+"011"	{emote: Alarmed}아앗!{pause 20}	제가 이걸 어디에 떨어뜨렸던가요?{Wait for input}{emote: Worry}귀중품을 넣어 둔 건데{pause 10}	{emote: Happiness}발견하신 분이 {Player nickname (green)}님이라{pause 10}	천만다행이네요!
+"012"	{emote: Surprise}어머나!{pause 20}	영영 못 찾을 줄 알고{pause 10}	{emote: Distress}포기할 참이었어요～	{emote: Happiness}{Player nickname (green)}님 덕분에{pause 10}	이렇게 제 품으로 돌아왔네요!
+"013"	{emote: Alarmed}어머!{pause 20}	제가 계속 찾아다니던 건데!{Wait for input}{emote: Soft Smile}집 안 곳곳을 뒤져도 없어서{pause 10}	대체 무슨 일인가 싶었는데{pause 15}	잃어버린 거였군요, {pause 15}{catchphrase}
+"014"	{emote: Distress}앗,{pause 20} 창피해라!{pause 20}	칠칠치 못하게{pause 10}	제가 물건을 흘리고 다녔군요{Wait for input}{emote: Glee}제가 제일 좋아하는 장갑이라서{pause 10}	정말 기쁘네요!
+"015"	{emote: Alarmed}아앗!{pause 20} 이거{pause 10} 제 거 맞아요!{Wait for input}	{emote: Happiness}휴～ 다행이다～{pause 20}	이제 양손 모두{pause 5} 따뜻해지겠어요
+"016"	{emote: Surprise}어머,{pause 20} 이건?!{pause 20}	{emote: Soft Smile}안 그래도 어디에 흘리고 온 건가{pause 10}	걱정하고 있었어요!	{emote: Agreement}덕분에 살았어요～	{pause 15}{catchphrase}
+"017"	{emote: Alarmed}이럴 수가!{pause 20}	이렇게 중요한 걸{pause 5}	잃어버렸었다니!{Wait for input}{emote: Worry}남의 눈에 안 뜨이는 데에{pause 10}	잘 넣어 뒀다고 생각했거든요{Wait for input}{emote: Happiness}{Player nickname (green)}님이 가져다주셨으니{pause 10}	그나마 안심이 되네요,	{pause 15}{catchphrase}!
+"018"	{emote: Surprise}어머나!{pause 20}	이거 제 거예요, {pause 15}{catchphrase}{Wait for input}{emote: Worry}갓 구운 빵을{pause 5} 담았던 건데{pause 10}	{emote: Resigned}지금은 돌처럼 단단해졌겠네요
+"019"	{emote: Happiness}제 물건을 찾아주셔서{pause 10}	정말 감사합니다!{Wait for input}{emote: Reset}사례라고 하기엔{pause 10} 너무 거창하지만{pause 10}	{emote: Happiness}이 {0011-0003-0002-0000}{000e-000e-0006-0002-c774-0000}라도{pause 10}	부디 받아주세요
+"020"	{emote: Happiness}일부러 이렇게 가져다주셔서{pause 10}	정말 고맙습니다!{Wait for input}{emote: Reset}그리 대단한 건 아니지만{pause 10}	{emote: Happiness}답례로 {pause 5}이 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 10}	드리고 싶어요!
+"021"	{emote: Happiness}정말로 감사합니다!{Wait for input}{emote: Reset}괜찮으시다면{pause 10}	이 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 10} 받으세요{Wait for input}	{emote: Soft Smile}제 감사의 마음이랍니다{emote: Sunny}
+"022"	{emote: Soft Smile}앞으로는 잃어버리지 않게{pause 10}	조심해야겠어요
+"023"	{emote: Soft Smile}더 이상{pause 5} 주위에 폐를{pause 8}	끼치지 않도록 조심해야겠어요
+"024"	{emote: Soft Smile}앞으로는{pause 10}	물건 간수 잘할게요!

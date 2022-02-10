@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Shocked}
-"002"	{emote: Alarmed}
-"003"	{emote: Distress}
-"004"	{emote: Shocked}
-"005"	{emote: Resigned}
-"006"	{emote: Resigned}
-"007"	{ruby (charSpan 2): ざんねん}残念ながら、{pause 8}
-"008"	{emote: Alarmed}
-"009"	オレぁもう　{0011-0000-0002-00-00}
-"010"	
+"001"	{emote: Shocked}わっ！{pause 15}	{emote: Distress}{ruby (charSpan 1): み}見つかっちまったー！！{0007-0008-0004-0078-0000}
+"002"	{emote: Alarmed}ありゃ！{pause 15}	{emote: Worry}{ruby (charSpan 1): み}見つかっちまったか！！{0007-0008-0004-0078-0000}
+"003"	{emote: Distress}うへぇー！{pause 15}	{ruby (charSpan 1): み}見つかっちまったぜ！！{0007-0008-0004-0078-0000}
+"004"	{emote: Shocked}わっ！{pause 15}	{emote: Distress}{ruby (charSpan 1): み}見つかっちまったー！！	{emote: Reset}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}なーんてな！{0007-0008-0004-0078-0000}	{emote: Happiness}オレぁ　さっき、{pause 4}{ruby (charSpan 1): み}見つけたじゃねぇか！{pause 20}	がんばって　{ruby (charSpan 1): ほか}他のヤツ{ruby (charSpan 1): さが}探せ！{pause 20}	{emote: Laughter}がーっはっは！{0007-0008-0004-0078-0000}
+"005"	{emote: Resigned}おいおい、{pause 15}オレはさっき{pause 8}	{ruby (charSpan 2): はっけん}発見{ruby (charSpan 1): ず}済みじゃねぇか！{0007-0008-0004-003c-0000}{Wait for input}{emote: Glare}{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): ほか}他のヤツ{ruby (charSpan 1): さが}探さねぇと{pause 8}	{ruby (charSpan 2): じかん}時間が　なくなっちまうぜ？{pause 20}	{emote: Laughter}がーっはっは！{0007-0008-0004-0078-0000}
+"006"	{emote: Resigned}おいおい、{pause 20}	{emote: Reset}のんびりしてると{pause 8}	{emote: Sheepishness}{ruby (charSpan 2): ぜんいん}全員　{ruby (charSpan 1): み}見つけられねぇぞー！{0007-0008-0004-0078-0000}
+"007"	{ruby (charSpan 2): ざんねん}残念ながら、{pause 8}	オレぁもう　{0011-0000-0002-0000}に{pause 8}	{ruby (charSpan 1): み}見つかっちまったぜ！{pause 20}　{catchphrase}！{0007-0008-0004-0078-0000}
+"008"	{emote: Alarmed}オレぁもう　{0011-0000-0002-0000}に{pause 15}	{ruby (charSpan 1): み}見つかっちまったぜ？！{pause 20}	{emote: Happiness}{ruby (charSpan 2): ざんねん}残念だったな！{pause 20}{emote: Laughter}　がーっはっは！{0007-0008-0004-0078-0000}
+"009"	オレぁもう　{0011-0000-0002-0000}に{pause 8}	{ruby (charSpan 1): み}見つかっちまってるぜ？！{pause 20}	おしかったな！{pause 20}　{catchphrase}！{0007-0008-0004-0078-0000}
+"010"

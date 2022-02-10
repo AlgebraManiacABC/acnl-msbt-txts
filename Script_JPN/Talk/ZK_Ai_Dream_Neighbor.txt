@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Surprise}
-"003"	{emote: Greetings}
-"004"	{emote: Alarmed}
-"005"	{emote: Soft Smile}
+"001"	{emote: Greetings}{Greeting begin}やぁ、{pause 8}{Player nickname (green)}{0005-000d-0000}！{Greeting end}{pause 32}	{emote: Anger}さっきから　{ruby (charSpan 1): むな}胸さわぎが	{ruby (charSpan 1): と}止まらないんだ、{pause 8}{catchphrase}	{emote: Curious}ひょっとして、これは{ruby (charSpan 1): ゆめ}夢なのかい？{Wait for input}	{emote: Glare}だとしたら、{pause 8}{ruby (charSpan 1): なに}何をしても	{ruby (charSpan 1): おこ}怒られないね！{pause 12}　{emote: Sunny}ハッハー！
+"002"	{emote: Surprise}えっ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Player nickname (green)}{0005-000d-0000}？！{Wait for input}{emote: Happiness}{ruby (charSpan 1): ゆめ}夢で{ruby (charSpan 1): あ}会えたら{pause 8}・{pause 8}・{pause 8}・{pause 8}っていう	ボクの{ruby (charSpan 1): ねが}願いが、{pause 8}どうやら	かなったみたいだね、{pause 8}{catchphrase}
+"003"	{emote: Greetings}やぁ、{pause 8}{Player nickname (green)}{0005-000d-0000}！{pause 16}	こんなトコで　キミに{ruby (charSpan 1): あ}会えるなんて{pause 8}	{ruby (charSpan 1): ゆめ}夢みたいだなぁ、{pause 8}{catchphrase}
+"004"	{emote: Alarmed}えっ、{pause 8}{Player nickname (green)}{0005-000d-0000}？{pause 32}	{emote: Glee}やっぱり、{pause 8}	{Player nickname (green)}{0005-000d-0000}じゃないか～！	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は、キミに{ruby (charSpan 1): あ}会える	{ruby (charSpan 2): よかん}予感がしてたんだ、{pause 8}{catchphrase}
+"005"	{emote: Soft Smile}やぁ、{pause 8}{Player nickname (green)}{0005-000d-0000}！{pause 32}	{emote: Mischief}{ruby (charSpan 1): ゆめ}夢の{ruby (charSpan 2): せかい}世界へ　ようこそ！	{pause 8}{catchphrase}！

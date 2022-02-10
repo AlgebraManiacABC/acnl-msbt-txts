@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Sleep Bubble}
-"002"	{emote: Distress}
-"003"	{emote: Bashful}
-"004"	
-"005"	
-"006"	{emote: Sheepishness}
-"007"	{emote: Agreement}
-"008"	{emote: Happiness}
-"009"	{emote: Alarmed}
-"010"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"011"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"012"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"013"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"014"	
-"016"	{emote: Daydreaming}
-"017"	{emote: Happiness}
-"018"	{emote: Pride}
-"019"	{emote: Thought}
-"020"	{emote: Reset}
+"001"	{emote: Sleep Bubble}{Text size 65%}ムニャムニャ{pause 15}・{pause 15}・{pause 15}・{Text size 100%}{pause 25}{emote: Sleepy}{pause 120}{emote: Alarmed}{Wait <0096 0000> 'time'}	{emote: Shocked}{pause 5}はっ！{Wait <002d 0000> 'time'}
+"002"	{emote: Distress}{pause 10}すすっ、{pause 10}すみませんっ！{pause 15}	ちょっと　{ruby (charSpan 1): きゅう}休けいしてましたっ！{pause 40}	・{pause 8}・{pause 8}・{emote: Alarmed}あっ！
+"003"	{emote: Bashful}す、{pause 10}すみません{pause 5}・{pause 5}・{pause 5}・　
+"004"
+"005"
+"006"	{emote: Sheepishness}せっかく{ruby (charSpan 1): やす}休みを　{ruby (charSpan 1): と}取って{pause 8}	キャンプに{ruby (charSpan 1): き}来てるのに、{pause 16}{ruby (charSpan 2): しごと}仕事の{ruby (charSpan 2): きぶん}気分が　	{ruby (charSpan 1): ぬ}抜け{ruby (charSpan 1): き}切ってないみたいですね{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Agreement}{ruby (charSpan 2): きょう}今日は、ここで　{ruby (charSpan 1): おも}思いっきり{pause 30}	{ruby (charSpan 1): やす}休ませてもらおうと　{ruby (charSpan 1): おも}思います
+"007"	{emote: Agreement}わたし、{pause 8}{ruby (charSpan 2): ふだん}普段は　この{ruby (charSpan 1): むら}村の	{ruby (charSpan 3): はくぶつかん}博物館の2{ruby (charSpan 1): かい}階で　{ruby (charSpan 1): はたら}働いているんですけど、{pause 30}	{ruby (charSpan 2): きょう}今日は{ruby (charSpan 1): めずら}珍しく　{ruby (charSpan 2): きゅうか}休暇なんです{Wait for input}{emote: Sheepishness}せっかく{ruby (charSpan 1): やす}休みを　{ruby (charSpan 1): と}取って{pause 8}	キャンプに{ruby (charSpan 1): き}来てるのに、{pause 16}{ruby (charSpan 2): しごと}仕事の{ruby (charSpan 2): きぶん}気分が　	{ruby (charSpan 1): ぬ}抜け{ruby (charSpan 1): き}切ってないみたいですね{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Agreement}{ruby (charSpan 2): きょう}今日は、ここで　{ruby (charSpan 1): おも}思いっきり{pause 30}	{ruby (charSpan 1): やす}休ませてもらおうと　{ruby (charSpan 1): おも}思います
+"008"	{emote: Happiness}あら、{pause 16}	{Player name}さんじゃないですか？{Wait for input}{emote: Agreement}{ruby (charSpan 2): きょう}今日は　わたし、{pause 16}	{ruby (charSpan 1): めずら}珍しく{ruby (charSpan 2): きゅうか}休暇なんです{Wait for input}{emote: Shyness}{pause 16}1{ruby (charSpan 1): にち}日だけですけど・・・{pause 16}	ゆっくりさせてもらいます
+"009"	{emote: Alarmed}あら・・・{pause 30}	{emote: Curious}よその{ruby (charSpan 1): むら}村の{ruby (charSpan 1): かた}方ですか？{Wait for input}{emote: Agreement}わたし、{pause 8}{ruby (charSpan 2): ふだん}普段は　この{ruby (charSpan 1): むら}村の	{ruby (charSpan 3): はくぶつかん}博物館に　{ruby (charSpan 1): つと}勤めてるんですけど、{pause 30}	{ruby (charSpan 2): きょう}今日は{ruby (charSpan 1): めずら}珍しく　{ruby (charSpan 2): きゅうか}休暇なんですよ{Wait for input}{emote: Alarmed}あ、{ruby (charSpan 3): はくぶつかん}博物館の{ruby (charSpan 1): ほう}方は{pause 30}	{emote: Agreement}{ruby (charSpan 2): じゆう}自由に{ruby (charSpan 1): はい}入れますので、{pause 16}	{ruby (charSpan 1): よ}良かったら　お{ruby (charSpan 1): た}立ち{ruby (charSpan 1): よ}寄りください
+"010"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"011"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"012"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"013"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"014"
+"016"	{emote: Daydreaming}{pause 16}ここのキャンプ{ruby (charSpan 1): じょう}場から　{ruby (charSpan 1): み}見る{ruby (charSpan 1): ほし}星は、{pause 16}	キレイだろうなぁ～{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 1): はる}春の{ruby (charSpan 3): だいきょくせん}大曲線に　{ruby (charSpan 1): あき}秋の{ruby (charSpan 3): しへんけい}四辺形{pause 8}・{pause 8}・{pause 8}・{pause 30}	それから、{pause 8}{ruby (charSpan 1): なつ}夏と{ruby (charSpan 1): ふゆ}冬の{ruby (charSpan 3): だいさんかく}大三角{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Surprise}あっ！　{pause 8}いけない！{pause 30}	{emote: Distress}{pause 16}わたしったら、{pause 16}{ruby (charSpan 1): ほし}星の{ruby (charSpan 1): はなし}話になると{pause 16}	つい　{ruby (charSpan 2): むちゅう}夢中になってしまうんです！
+"017"	{emote: Happiness}わたし、{pause 8}{ruby (charSpan 2): ふだん}普段は　{ruby (charSpan 1): あに}兄と{ruby (charSpan 2): いっしょ}一緒に	{ruby (charSpan 3): はくぶつかん}博物館で　{ruby (charSpan 2): しごと}仕事をしてるんですけどね{Wait for input}{emote: Agreement}{ruby (charSpan 1): あに}兄は　よく{ruby (charSpan 3): しごとちゅう}仕事中に　{ruby (charSpan 2): いねむ}居眠りするので、{pause 16}	{ruby (charSpan 2): いまごろ}今頃、{pause 30}{emote: Sleep Bubble}きっと{ruby (charSpan 1): ね}寝て{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Surprise}あっ！{pause 30}	{emote: Distress}{ruby (charSpan 2): きょうだい}兄妹ともども、{pause 8}すみません！
+"018"	{emote: Pride}こう{ruby (charSpan 1): み}見えても、わたし{pause 16}	アウトドアとか　{ruby (charSpan 2): とくい}得意な{ruby (charSpan 1): ほう}方なんですよ？{Wait for input}{emote: Agreement}{ruby (charSpan 1): ちい}小さい{ruby (charSpan 1): ころ}頃は、{pause 8}ムシをつかまえて{pause 16}	{ruby (charSpan 1): あに}兄の{ruby (charSpan 1): ところ}所に　よく{ruby (charSpan 1): も}持って{ruby (charSpan 1): い}行きましたから！{Wait for input}{emote: Daydreaming}{pause 16}お{ruby (charSpan 1): にい}兄ちゃん{pause 8}・{pause 8}・{pause 8}・{pause 16}	すごい　ビックリしてたなぁ～{pause 8}・{pause 8}・{pause 8}・{pause 30}
+"019"	{emote: Thought}{pause 16}わたしの{ruby (charSpan 2): しょくば}職場って、{pause 8}	めったに　お{ruby (charSpan 1): きゃく}客さんが　{ruby (charSpan 1): こ}来ないから{pause 16}	{ruby (charSpan 2): けっこう}結構　{ruby (charSpan 2): たいくつ}退屈なんですよね～{pause 8}・{pause 8}・{pause 8}・	{emote: Agreement}そんなときは、{pause 8}	{ruby (charSpan 1): あたま}頭に　{ruby (charSpan 1): ふゆ}冬の{ruby (charSpan 4): だいさんかっけい}大三角形を{ruby (charSpan 1): えが}描くんです！{Wait for input}{emote: Daydreaming}{pause 16}ベテルギウスと　{pause 16}プロキオンと	シリウスの　{ruby (charSpan 4): さんかくかんけい}三角関係が{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}はっ！{pause 60}	{emote: Distress}わたしったら{pause 8}・{pause 8}・{pause 8}・{pause 8}	し、{pause 8}{ruby (charSpan 2): しつれい}失礼しました！
+"020"	{emote: Reset}わたしたちの　{ruby (charSpan 2): からだ}身体を{ruby (charSpan 1): つく}作っている{ruby (charSpan 2): ぶっしつ}物質{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Agreement}それらは、{pause 8}{ruby (charSpan 1): むかし}昔　{ruby (charSpan 1): い}生きていた{ruby (charSpan 2): こうせい}恒星が{pause 16}	{ruby (charSpan 1): し}死んだことによって　{ruby (charSpan 1): あた}与えられた{ruby (charSpan 2): ぶっしつ}物質	{emote: Agreement}つまり、わたしたちは	{ruby (charSpan 1): ほし}星のかけらで　できているんです{Wait for input}{emote: Shyness}{pause 16}キャンプ{ruby (charSpan 1): じょう}場に{ruby (charSpan 1): き}来たら{pause 8}・{pause 8}・{pause 8}・{pause 16}	そんなことを　{ruby (charSpan 1): かんが}考えながら{pause 16}	{ruby (charSpan 2): よぞら}夜空を　{ruby (charSpan 1): み}見てはいかがですか？

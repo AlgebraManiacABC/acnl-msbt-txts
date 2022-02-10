@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Glee}
-"002"	{emote: Happiness}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Distress}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
+"001"	{emote: Glee}やったぁ～！{pause 20}	それじゃあ、{pause 20}{ruby (charSpan 2): じかん}時間をきめよ～{Wait for input}{emote: Curious}{Blue}{0004-0010-0002-cd00}{ruby (charSpan 1): じ}時{Color Reset}よりあとだったら、{pause 20}	いつが　{ruby (charSpan 1): あ}空いてる～？
+"002"	{emote: Happiness}やった～{pause 20}　きまり！{pause 40}	じゃあ　いつにしよっか～？{Wait for input}ボクは　{Blue}{0004-0010-0002-cd00}{ruby (charSpan 2): じはん}時半{Color Reset}よりあとなら	いつでも　へいきだよぉ、{pause 8}{catchphrase}
+"003"	{emote: Worry}あぁ～{pause 20}	でも　もう	こんな{ruby (charSpan 2): じかん}時間なんだねぇ{Wait for input}{emote: Sleepy}ふぁぁ～～{Wait for input}	ボク　ねむくなってきちゃったし、{pause 20}	こんどにしよっかぁ、{pause 8}{catchphrase}
+"004"	{emote: Worry}えぇ～{pause 20}	やっぱり　ムリなのぉ～？
+"005"	{emote: Distress}えぇ～？！{pause 40}	それって　ちょっと	{ruby (charSpan 1): はや}早すぎない～？{Wait for input}{emote: Worry}もっと　おそい{ruby (charSpan 2): じかん}時間に	してほしいなぁ～
+"006"	{emote: Happiness}オッケ～！{pause 20}	{ruby (charSpan 2): きょう}今日の　{Blue}{0005-0019-0002-cd01}{Color Reset}{Blue}{Blue}{0004-0010-0002-cd01}{Blue}{ruby (charSpan 1): じ}時{Color Reset}ちょうどだねぇ～{Wait for input}おへやで　ゆっくり	まっててねぇ、{pause 8}{catchphrase}
+"007"	{emote: Happiness}{ruby (charSpan 2): きょう}今日の　{Blue}{0005-0019-0002-cd01}{0004-0010-0002-cd01}{ruby (charSpan 1): じ}時{0004-0011-0002-cd02}{ruby (charSpan 1): ぷん}分{Color Reset}だねぇ？{pause 40}	その{ruby (charSpan 2): じかん}時間なら　バッチリだよぉ～！{Wait for input}{emote: Reset}ただ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Bashful}もし　おくれちゃっても{pause 20}	ゆるしてねぇ、{pause 8}{catchphrase}
+"008"	{emote: Worry}あうぅ～{pause 8}・{pause 8}・{pause 8}・{pause 40}	ボク、{pause 10}そんな{ruby (charSpan 2): じかん}時間まで	{ruby (charSpan 1): お}起きてられないよぉ～{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}もっと　はやい{ruby (charSpan 2): じかん}時間に{pause 5}	{emote: Curious}してくれないかなぁ、{pause 8}{catchphrase}？

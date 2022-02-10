@@ -1,32 +1,32 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Thought}
-"003"	{emote: Soft Smile}
-"004"	{emote: Thought}
-"005"	{emote: Alarmed}
-"006"	{emote: Anger}
-"007"	{emote: Soft Smile}
-"008"	{emote: Soft Smile}
-"009"	그럼 공평하게{pause 16}
-"010"	{emote: Worry}
-"011"	{emote: Worry}
-"012"	{emote: Sheepishness}
-"013"	{emote: Sunny}
-"014"	{emote: Sunny}
-"015"	{emote: Sunny}
-"016"	{emote: Sheepishness}
-"017"	{emote: Worry}
-"018"	{emote: Worry}
-"019"	{emote: Anger}
-"020"	{emote: Soft Smile}
-"021"	{emote: Anger}
-"022"	{emote: Soft Smile}
-"023"	알았어, {pause 16}
-"024"	・{pause 8}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
-"029"	
-"030"	
-"031"	
+"001"	{emote: Soft Smile}그대가 그렇게까지 얘기한다면{pause 16}	사양하지 않고{pause 16}	받아들이도록 할게!	{emote: Alarmed}아, {pause 16}그러고 보니 아직{pause 16}	이름도 안 물어봤네?{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}{Player nickname (green)}{군/양}?	{emote: Sunny}잘 부탁해, {pause 8}{Player nickname (green)}{군/양}!
+"002"	{emote: Thought}{pause 16}음, {pause 16}그렇구나{pause 8}・{pause 8}・{pause 8}・{pause 8}	그런 선택도{pause 8}	있을 수 있겠군{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}알았어,{pause 16}	그대 말대로 할게, {pause 8}{catchphrase}{Wait for input}{emote: Alarmed}아, {pause 16}그러고 보니 아직{pause 16}	이름도 안 물어봤네?{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}{Player nickname (green)}{군/양}?	{emote: Sunny}잘 부탁해, {pause 8}{Player nickname (green)}{군/양}!
+"003"	{emote: Soft Smile}이 마을에는 적어도 내 편이{pause 16}	한 명은 있는 것 같으니{pause 16}	그렇게 하도록 할까?	{emote: Alarmed}아, {pause 16}그러고 보니 아직{pause 16}	이름도 안 물어봤네?{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}{Player nickname (green)}{군/양}?	{emote: Sunny}잘 부탁해, {pause 8}{Player nickname (green)}{군/양}!
+"004"	{emote: Thought}{pause 16}흐～음, {pause 16}그렇게 하고 싶은 마음은	굴뚝같지만{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}지금 내가 {pause 16}사는 곳도	좋은 곳이거든{pause 8}・{pause 8}・{pause 8}・
+"005"	{emote: Alarmed}응? {pause 32}{emote: Thought}{pause 16}나도 그렇게 하고{pause 16}	싶긴 하지만{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}지금 사는 곳이{pause 16}	싫어진 건 아니라서{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"006"	{emote: Anger}아냐, {pause 8}아무래도 안 되겠어!{pause 32}	지금 {pause 8}살고 있는 마을과	그곳 친구들을{pause 16} 배신할 순 없어!
+"007"	{emote: Soft Smile}좋았어, {pause 16}그럼{pause 8}・{pause 8}・{pause 8}・{pause 8}	나랑 게임을 하자!{Wait for input}{emote: Reset}만약 {pause 8}그대가 이기면{pause 16}	내가 이 마을의 일원이{pause 16}	되도록 할게!	{emote: Sheepishness}반대로 지게 되면{pause 16}	그대가 가지고 있는{pause 32}	{emote: Glare}{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 나한테 줘!{Player can respond (0005):0019-0015-000a-0028}	좋아, 하자!	그건 좀・・・
+"008"	{emote: Soft Smile}그럼 {pause 8}게임으로 정하자!{Wait for input}{emote: Reset}그대가 이기면{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sunny}나는 {Town name (pink)} 마을의 주민이 될게!{Wait for input}{emote: Sheepishness}그치만 지면{pause 8}・{pause 8}・{pause 8}・{pause 8}	그대가 가지고 있는{pause 32}	{emote: Glare}{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 나한테 줘!{Player can respond (0005):0019-0015-000b-0028}	좋았어!	그건 싫어
+"009"	그럼 공평하게{pause 16}	게임으로 정할까?{Wait for input}{emote: Soft Smile}그대가 이기면 나는	이 마을로 이사 올게, {pause 8}{catchphrase}{Wait for input}{emote: Anger}반대로 {pause 8}지게 되면{pause 8}・{pause 8}・{pause 8}・{pause 8}	그대 물건을 내가 갖겠어!{Wait for input}그대가 가지고 있는{pause 32}	{emote: Glare}{0011-0003-0002-0000} 말이야!{Player can respond (0005):0019-0015-000c-0028}	좋았어!	그건 좀・・・
+"010"	{emote: Worry}그렇구나{pause 8}・{pause 8}・{pause 8}・{pause 8} 나보다{pause 16}	그 {0011-0003-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}	더 중요하구나, {pause 8}{catchphrase}
+"011"	{emote: Worry}알았어{pause 8}・{pause 8}・{pause 8}・{pause 8}	이것도{pause 16} 운명이겠지,	{pause 8}{catchphrase}
+"012"	{emote: Sheepishness}무언가를 얻으려면{pause 8}・{pause 8}・{pause 8}・{pause 8}	리스크는 따라오기 마련이야,	{pause 8}{catchphrase}
+"013"	{emote: Sunny}대답 좋아!	{pause 8}{catchphrase}!{Wait for input}{emote: Thought}{pause 16}그럼{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Anger}{Blue}가위바위보{Color Reset}를 할까!{0007-0012-0006-0300-001b-001a}
+"014"	{emote: Sunny}대답 한번 시원하네!	{pause 8}{catchphrase}!{Wait for input}{emote: Thought}{pause 16}그럼{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Anger}{Blue}제스처 게임{Color Reset}을 해볼까?{0007-0012-0006-0101-001b-001a}
+"015"	{emote: Sunny}그 대답을 기다리고 있었어!	{pause 8}{catchphrase}!{Wait for input}{emote: Thought}{pause 16}그럼{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Anger}{Blue}참참참{Color Reset} 게임을 해보자!{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Sheepishness}미안하지만{pause 8}・{pause 8}・{pause 8}・{pause 8} 약속대로{pause 16}	{0011-0003-0002-0000}{000e-000e-0008-0002-c740-0002-b294} 내 거야!	{pause 8}{catchphrase}!
+"017"	{emote: Worry}미안해{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sheepishness} 그치만{pause 16}	약속은 지켜줘야겠어, {pause 8}{catchphrase}
+"018"	{emote: Worry}미안해{pause 8}・{pause 8}・{pause 8}・{pause 32}	운명이라 생각하고 받아들여{Wait for input}{emote: Soft Smile}그럼 {0011-0003-0002-0000}{000e-000e-0008-0002-c740-0002-b294}{pause 16}	약속대로 내가 가져간다! {pause 8}{catchphrase}!
+"019"	{emote: Anger}그대를 잊지 않을게{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}{Town name (pink)} 마을에서 그대와 벌인 승부를{pause 16}	기념하며 이건 우리 마을로 가져갈게
+"020"	{emote: Soft Smile}그대의 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 16}	보며 기억하도록 할게!{Wait for input}{emote: Anger}{Town name (pink)} 마을{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}그리고 {pause 16}그대를 말이야!
+"021"	{emote: Anger}난 잊지 않겠어{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}그대와 함께한 {Town name (pink)} 마을을!
+"022"	{emote: Soft Smile}그럼 약속대로{pause 16}	이 마을로 이사하도록 할게!{Wait for input}{emote: Sheepishness}후후훗{pause 8}・{pause 8}・{pause 8}・{pause 8} 캠핑이 끝나면{pause 16}	바빠지겠는데～ {pause 8}{catchphrase}?{Wait for input}{emote: Alarmed}아, {pause 16}그러고 보니 아직{pause 16}	이름도 안 물어봤네?{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}{Player nickname (green)}{군/양}?	{emote: Sunny}잘 부탁해, {pause 8}{Player nickname (green)}{군/양}!
+"023"	알았어, {pause 16}약속은 약속이니까{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}곧 이 마을로 이사 올게!	{pause 8}{catchphrase}!	{emote: Sheepishness}후후훗, {pause 16}느긋하게 지내는 것도	이제 끝인가{pause 8}・{pause 8}・{pause 8}・{pause 32}	캠핑이 끝나면 엄청 바빠지겠군～	{emote: Alarmed}아, {pause 16}그러고 보니 아직{pause 16}	이름도 안 물어봤네?{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}{Player nickname (green)}{군/양}?	{emote: Sunny}잘 부탁해, {pause 8}{Player nickname (green)}{군/양}!
+"024"	・{pause 8}・{pause 8}・{pause 32}{emote: Soft Smile}약속대로{pause 16}	곧 이 마을로 이사 오도록 할게!	{pause 8}{catchphrase}!	{emote: Anger}운명의 만남이라는 건{pause 16}	원래 이런 식으로{pause 32}	{emote: Glare}갑작스럽게 찾아오는 걸까?	{emote: Alarmed}아, {pause 16}그러고 보니 아직{pause 16}	이름도 안 물어봤네?{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}{Player nickname (green)}{군/양}?	{emote: Sunny}잘 부탁해, {pause 8}{Player nickname (green)}{군/양}!
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}
+"029"
+"030"
+"031"

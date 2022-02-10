@@ -1,4 +1,4 @@
 == 0 ==
-"001"	どうしたの？{pause 40}!
-"002"	{Greeting begin}
-"003"	{emote: Soft Smile}
+"001"	どうしたの？{pause 40}	まだ　{emote: Curious}{ruby (charSpan 1): はな}話し{ruby (charSpan 1): た}足りないことあった、{pause 15}{catchphrase}？
+"002"	{Greeting begin}{emote: Surprise}あ、{pause 10}{Player nickname (green)}{0005-000d-0000}！{Greeting end}{pause 40}	{emote: Happiness}{ruby (charSpan 2): きょう}今日は{pause 5}　いっぱい	{ruby (charSpan 1): はな}話しかけてくれるじゃん、{pause 15}{catchphrase}
+"003"	{emote: Soft Smile}はいはい、{pause 5}な～に？{Wait for input}	そんなに　{ruby (charSpan 1): はな}話しかけてくれるなんて、{pause 20}	{emote: Happiness}アタイの　ファンなんでしょ～、{pause 15}{catchphrase}

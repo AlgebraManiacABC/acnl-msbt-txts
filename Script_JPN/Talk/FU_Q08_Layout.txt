@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Curious}
-"003"	{emote: Sheepishness}
-"004"	{emote: Happiness}
-"005"	{pause 8}
-"006"	{emote: Happiness}
-"007"	{emote: Soft Smile}
-"008"	{emote: Happiness}
-"009"	よく{ruby (charSpan 1): み}見ると、{pause 10}
-"010"	なんて{ruby (charSpan 1): い}言うか{pause 8}
-"011"	{emote: Happiness}
-"012"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"013"	{emote: Agreement}
-"014"	{emote: Happiness}
-"015"	うふふ！{pause 30}
+"001"	{emote: Happiness}{ruby (charSpan 1): ほか}他のお{ruby (charSpan 2): へや}部屋は{pause 10}	どんな{ruby (charSpan 1): かん}感じなんですか？{Wait for input}	{emote: Glee}{ruby (charSpan 2): さんこう}参考にさせていただきたいです
+"002"	{emote: Curious}あら？{pause 20}　ここは　{pause 10}{ruby (charSpan 1): とお}通り{ruby (charSpan 1): ぬ}抜けられないんですね{pause 20}	{emote: Inspired}もしかして、{pause 10}ヒミツ{ruby (charSpan 2): きち}基地ですか？！{pause 30}	{emote: Happiness}オシャレですね～！
+"003"	{emote: Sheepishness}{ruby (charSpan 1): ゆか}床に　{ruby (charSpan 1): いろ}色んなものが{pause 10}	{ruby (charSpan 1): お}置いてありますよ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}きっと　お{ruby (charSpan 1): いそが}忙しくて、{pause 10}	{ruby (charSpan 2): かたづ}片付けるひまが　ないんですね、{pause 10}{catchphrase}！{Wait for input}{emote: Glee}わたしでよければ{pause 10}	{ruby (charSpan 2): こんど}今度　{pause 5}お{ruby (charSpan 2): てつだ}手伝いします
+"004"	{emote: Happiness}とっても　{ruby (charSpan 3): こせいてき}個性的な{ruby (charSpan 2): はいち}配置ですね{pause 20}	{Player nickname (green)}さんは、{pause 10}こういう　{ruby (charSpan 1): お}置き{ruby (charSpan 1): かた}方に	こだわりがあるのかしら{pause 8}・{pause 8}・{pause 8}・{pause 8}？	{emote: Sheepishness}わたしは　{pause 10}{ruby (charSpan 2): かぐ}家具がカベを{ruby (charSpan 1): む}向いてると{pause 10}	{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着かないタイプなので{pause 10}	ちょっと　{ruby (charSpan 1): き}気になっちゃいました	{emote: Soft Smile}もし{ruby (charSpan 1): つぎ}次に　{pause 10}{ruby (charSpan 2): もよう}模様{ruby (charSpan 1): が}替えするときは、{pause 10}	{ruby (charSpan 2): しょうめん}正面に{ruby (charSpan 1): む}向けてみてはいかがですか？{Wait for input}	{emote: Glee}{ruby (charSpan 2): あんがい}案外、{pause 10}{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着くと{ruby (charSpan 1): おも}思いますよ
+"005"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}あら？{Wait for input}	{emote: Soft Smile}{ruby (charSpan 1): なに}何か{ruby (charSpan 1): た}足りないと{ruby (charSpan 1): おも}思ったら、{pause 10}	{ruby (charSpan 1): く}暮らしに{ruby (charSpan 2): ひつよう}必要な{ruby (charSpan 2): かぐ}家具が　{ruby (charSpan 1): な}無いんですね！	{emote: Glee}そういう　{pause 5}シンプルなスタイルが{pause 10}	{Player nickname (green)}さんの{pause 10}	こだわりなのかしら、{pause 15}{catchphrase}
+"006"	{emote: Happiness}ここは、{pause 10}	とっても　{ruby (charSpan 1): す}住み{ruby (charSpan 2): ごこち}心地が{ruby (charSpan 1): よ}良さそうな{pause 5}	{ruby (charSpan 2): へや}部屋ですね、{pause 15}{catchphrase}	{emote: Soft Smile}{ruby (charSpan 2): せいかつ}生活に　{pause 5}{ruby (charSpan 2): ひつよう}必要な{ruby (charSpan 1): もの}物がそろっていて、{pause 10}	{Player nickname (green)}さんの{pause 10}	{ruby (charSpan 1): く}暮らしの{ruby (charSpan 2): ちゅうしん}中心って{ruby (charSpan 1): かん}感じです{emote: Sunny}{pause 30}
+"007"	{emote: Soft Smile}カベに　{pause 10}{ruby (charSpan 1): なに}何も{ruby (charSpan 1): かざ}飾ってないんですね{pause 30}	{emote: Inspired}シンプルなお{ruby (charSpan 2): へや}部屋が　{pause 10}お{ruby (charSpan 1): す}好きなのかしら？{Wait for input}{emote: Happiness}そういう　こだわりも、{pause 10}	{Player nickname (green)}さんらしくて　{pause 10}すてきです
+"008"	{emote: Happiness}{ruby (charSpan 2): きちょう}貴重な{ruby (charSpan 1): しな}品が　{pause 10}いっぱいですね！{pause 20}	これ、{pause 10}どこで　{ruby (charSpan 1): て}手に{ruby (charSpan 1): い}入れたんですか？{Wait for input}{emote: Glee}めずらしいものに　{ruby (charSpan 1): かこ}囲まれていると、{pause 10}	{Player nickname (green)}さんみたいに{pause 10}	オーラのあるひとに　なれるのかしら
+"009"	よく{ruby (charSpan 1): み}見ると、{pause 10}	{Player nickname (green)}さんのお{ruby (charSpan 2): へや}部屋って	{ruby (charSpan 2): こうきゅう}高級そうな{ruby (charSpan 1): もの}物が　{ruby (charSpan 1): おお}多いですね{Wait for input}{emote: Happiness}{ruby (charSpan 4): ほんものしこう}本物志向な　こだわりが{ruby (charSpan 1): かん}感じられて{pause 10}	ステキだと{ruby (charSpan 1): おも}思います、{pause 8}{catchphrase}！
+"010"	なんて{ruby (charSpan 1): い}言うか{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Happiness}スッキリした　{pause 5}お{ruby (charSpan 2): へや}部屋ですね！{Wait for input}{emote: Soft Smile}あまりモノを　{ruby (charSpan 1): お}置かないなんて、{pause 10}	{ruby (charSpan 2): おとな}大人っぽいコーディネートだと{pause 5}	{ruby (charSpan 1): おも}思います、{pause 15}{catchphrase}
+"011"	{emote: Happiness}このお{ruby (charSpan 2): へや}部屋は、{pause 10}にぎやかですね！{Wait for input}{Player nickname (green)}さんは{pause 10}	ものに{ruby (charSpan 1): かこ}囲まれてる{ruby (charSpan 1): ほう}方が{pause 10}	{ruby (charSpan 3): いごこち}居心地の　いいタイプですか？！
+"012"	{0009-0001-0006-000d-000e-000f}
+"013"	{emote: Agreement}なるほど～！{Wait for input}	{emote: Happiness}{Player nickname (green)}さんらしい{pause 10}	お{ruby (charSpan 2): へや}部屋だと{ruby (charSpan 1): おも}思います
+"014"	{emote: Happiness}こういう　{ruby (charSpan 2): へや}部屋{ruby (charSpan 1): づく}作りも　{pause 10}あるんですね～{pause 20}	{ruby (charSpan 1): み}見てるだけで　{pause 10}{ruby (charSpan 2): べんきょう}勉強になります
+"015"	うふふ！{pause 30}	{Player nickname (green)}さんの{pause 10}	{ruby (charSpan 2): じまん}自慢のお{ruby (charSpan 2): へや}部屋って　{ruby (charSpan 1): かん}感じですね

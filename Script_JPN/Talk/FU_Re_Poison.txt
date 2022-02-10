@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Fearful}
-"002"	{emote: Worry}
-"003"	{emote: Distress}
+"001"	{emote: Fearful}あ{pause 8}・{pause 8}・{pause 8}・{pause 8}あのっ！{pause 30}	すぐそばに　{pause 10}アレがいるんです{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Distress}{ruby (charSpan 1): あぶ}危ないですから{pause 10}	{ruby (charSpan 1): はや}早く{ruby (charSpan 1): に}逃げた{ruby (charSpan 1): ほう}方が　{ruby (charSpan 1): み}身のためですよ！
+"002"	{emote: Worry}{Player nickname (green)}さん{pause 8}・{pause 8}・{pause 8}・{pause 8}！{Wait for input}	{emote: Distress}わたし、{pause 10}{0011-0003-0002-0000}を	{ruby (charSpan 1): み}見ちゃったんです！！	{emote: Fearful}すぐそばにいますから{pause 10}	{ruby (charSpan 2): ぜったい}絶対　{pause 5}{ruby (charSpan 2): ゆだん}油断しちゃダメですよ！
+"003"	{emote: Distress}{ruby (charSpan 2): あしもと}足元{ruby (charSpan 2): ちゅうい}注意ですよ{Wait for input}	{0011-0003-0002-0000}がいるんです！{Wait for input}{emote: Sadness}わたし　{pause 10}ほんとに{ruby (charSpan 2): にがて}苦手なのに{pause 10}	こんな{ruby (charSpan 1): ところ}所で	{ruby (charSpan 1): み}見つけてしまうなんて、{pause 10}{catchphrase}！

@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Sorrow}
-"002"	{emote: Aggravation}
-"003"	{emote: Aggravation}
-"004"	{emote: Outrage}
+"001"	{emote: Sorrow}{Text size 150%}イタイ！{Text size 100%}{pause 20}	イタイってば～！{Wait for input}{emote: Aggravation}なんで　そんなにアタイのこと{pause 10}	たたくのよ！　{pause 10}{catchphrase}！{000b-0003-0002-cd03}
+"002"	{emote: Aggravation}ちょっと～！！　イタイじゃない！{Wait for input}	{emote: Anger}アンタ、{ruby (charSpan 1): なに}何すんのよ～！！{emote: Outrage}{pause 20}	ヒドすぎるっ！{000b-0003-0002-cd03}
+"003"	{emote: Aggravation}{Text size 150%}イタッ！{Wait for input}{Text size 100%}	{emote: Anger}なんで　たたくわけ？{pause 20}	もう　{pause 10}やめてよね～！！{000b-0004-0002-cd03}
+"004"	{emote: Outrage}ちょっと！　{pause 15}さっきから{ruby (charSpan 1): なん}何なのよ！{Wait for input}	{ruby (charSpan 1): おんな}女のコを　たたくなんて、{pause 10}サイテー！！{000b-0004-0002-cd03}

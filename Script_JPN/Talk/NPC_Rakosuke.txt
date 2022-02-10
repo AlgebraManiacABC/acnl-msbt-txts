@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{ruby (charSpan 1): いま}今とったホタテ{pause 20}
-"002"	{ruby (charSpan 1): いま}今とったホタテ{pause 20}
-"003"	{emote: Worry}
+"001"	{ruby (charSpan 1): いま}今とったホタテ{pause 20}	ちょうだい{000f-0005-0004-0015-0028}	どうぞ・・・	ダメです
+"002"	{ruby (charSpan 1): いま}今とったホタテ{pause 20}	{ruby (charSpan 2): こんど}今度は　くれる？{000f-0005-0004-0015-0028}	どうぞ・・・	ダメです
+"003"	{emote: Worry}ううぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	ああぁ～{pause 8}・{pause 8}・{pause 8}・
 "004"	ありがと
-"005"	いいものと	{ruby (charSpan 2): こうかん}交換しといたのねん{pause 8}
-"006"	{emote: Worry}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{ruby (charSpan 2): きょう}今日は{pause 15}
+"005"	いいものと	{ruby (charSpan 2): こうかん}交換しといたのねん{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Curious}ついでに　ひとこと{pause 8}	{ruby (charSpan 1): い}言ってもいい？
+"006"	{emote: Worry}{Gray}スー{pause 40}ハー{pause 8}・{pause 8}・{pause 8}・{Color Reset}{pause 40}
+"007"	{emote: Happiness}{pause 8}・{pause 8}・{pause 8}・{pause 20}なのねん
+"008"	{emote: Happiness}{pause 8}・{pause 8}・{pause 8}・{pause 20}だぁよ
+"009"	{emote: Happiness}{pause 8}・{pause 8}・{pause 8}・{pause 20}ってね
+"010"	{ruby (charSpan 2): きょう}今日は{pause 15}　{ruby (charSpan 2): まんぞく}満足だぁね{pause 8}

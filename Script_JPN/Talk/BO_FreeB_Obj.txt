@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Love}
-"003"	{emote: Worry}
-"004"	{0011-0006-0002-00-00}
-"005"	{emote: Happiness}
-"006"	{emote: Love}
-"007"	{emote: Happiness}
-"008"	{0011-0006-0002-00-00}
-"009"	{emote: Anger}
-"010"	{emote: Anger}
-"011"	{emote: Love}
-"012"	{emote: Happiness}
-"013"	{emote: Curious}
-"014"	{emote: Happiness}
-"015"	{emote: Worry}
-"016"	{emote: Glee}
-"017"	{0011-0006-0002-00-00}
-"018"	{000a-0006-0008-12-00-06-00-15-00-16-00}
-"019"	{0009-0000-0004-17-00-18-00}
-"020"	
-"021"	{emote: Happiness}
-"022"	{emote: Happiness}
-"023"	{emote: Daydreaming}
-"024"	{emote: Daydreaming}
+"001"	{emote: Happiness}{0011-0006-0002-0000}、{pause 20}	すわるのに　ちょうどいいんだぁ～{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は　どの{ruby (charSpan 1): いろ}色のタイヤに	すわろうかなぁ～、{pause 8}{catchphrase}
+"002"	{emote: Love}お{ruby (charSpan 1): そと}外で　いねむりするのって{pause 20}	とっても　きもちいいよねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Sleepy}ふぁぁ～～{pause 40}	{0011-0006-0002-0000}で{pause 20}	ひとねむり　しようかなぁ～
+"003"	{emote: Worry}{0011-0006-0002-0000}って、{pause 20}	いつも　{ruby (charSpan 1): た}立ちっぱなしで	かわいそうだよぉ{pause 8}・{pause 8}・{pause 8}・{Wait for input}たまには{pause 20}　ベンチで{ruby (charSpan 2): ひとやす}一休み	させてあげたいなぁ、{pause 8}{catchphrase}
+"004"	{0011-0006-0002-0000}、{pause 20}	たまに　{pause 8}{0007-000a-0000}ブワ～～{pause 8}って{pause 20}	おゆが　ふき{ruby (charSpan 1): だ}出すんだぁ！{Wait for input}{emote: Happiness}じ～っと　まってれば、{pause 20}	きっと　{ruby (charSpan 1): み}見られるよぉ、{pause 8}{catchphrase}
+"005"	{emote: Happiness}{0011-0006-0002-0000}、{pause 20}	グルグルまわって	おもしろいよねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Love}ボクん{ruby (charSpan 1): ち}家に	{ruby (charSpan 1): おお}大きい　おにわがあったら、{pause 20}	おいておきたいなぁ～
+"006"	{emote: Love}お{ruby (charSpan 1): そと}外で　いねむりするのって	とっても　きもちいいよねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}{0011-0006-0002-0000}で{pause 20}	{Player nickname (green)}{0005-000d-0000}も	おひるねしたらぁ～？
+"007"	{emote: Happiness}{0011-0006-0002-0000}、{pause 20}	どんな　でんぱを	うけとってるんだろうねぇ～{Wait for input}{emote: Thought}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	おいしい　{0005-0010-0002-0000}の	{ruby (charSpan 1): つく}作り{ruby (charSpan 1): かた}方とかかなぁ？
+"008"	{0011-0006-0002-0000}{pause 8}・{pause 8}・{pause 8}・{pause 20}	こっちを　じーっと	{ruby (charSpan 1): み}見てるみたいじゃない？{Wait for input}{emote: Glare}でも　ボクもにらめっこなら	まけないよぉ～？{pause 40}	{emote: Agreement}あっ{pause 20}ぷっ{pause 30}{0007-000b-0000}{emote: Anger}ぷ～～っ！
+"009"	{emote: Anger}{0007-000a-0000}{pause 8}ム{0007-000a-0000}{pause 8}ム{0007-000a-0000}{pause 8}ム{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0006-0002-0000}から{pause 20}	ふしぎなパワーを　もらってるんだぁ～{Wait for input}{emote: Daydreaming}パワーがたまれば、{pause 20}	ボクも　お{ruby (charSpan 1): そら}空をとんだり	できちゃうかもねぇ、{pause 8}{catchphrase}
+"010"	{emote: Anger}ぐるぐる{pause 20}　ぐるぐる{pause 20}	{emote: Mistaken}{0011-0006-0002-0000}を	{ruby (charSpan 1): み}見てると、{pause 20}{ruby (charSpan 1): め}目が{ruby (charSpan 1): まわ}回る～！{Wait for input}{emote: Sadness}はぁ～～{pause 20}	{ruby (charSpan 1): あたま}頭が　ぐわんぐわんするよぉ	{pause 8}{catchphrase}
+"011"	{emote: Love}{ruby (charSpan 1): よる}夜に　{0011-0006-0002-0000}の	{ruby (charSpan 1): あ}明かりを{ruby (charSpan 1): み}見ると{pause 20}	ホッとするよねぇ～{Wait for input}{emote: Joy}{0011-0006-0002-0000}を{pause 8}	たててくれた　{ruby (charSpan 2): そんちょう}村長さん{pause 20}	ありがとぉ～、{pause 8}{catchphrase}
+"012"	{emote: Happiness}{0011-0006-0002-0000}って{pause 20}	ずっと　お{ruby (charSpan 1): そら}空を{ruby (charSpan 1): み}見てるよねぇ{Wait for input}{emote: Daydreaming}ボクも　いっしょに{pause 20}	ぼ～っと　お{ruby (charSpan 1): そら}空を	ながめようかなぁ、{pause 8}{catchphrase}
+"013"	{emote: Curious}{0011-0006-0002-0000}に{pause 20}	お{ruby (charSpan 1): かお}顔　はめてみた？{Wait for input}{emote: Glee}お{ruby (charSpan 1): かお}顔をはめたら	{ruby (charSpan 1): いろ}色んな{ruby (charSpan 1): かお}顔で{pause 20}　きねんしゃしんを	とりたいよねぇ、{pause 8}{catchphrase}
+"014"	{emote: Happiness}{0011-0006-0002-0000}は　いいよねぇ{pause 40}	{0011-0006-0002-0000}の　すなって	さらさら　なんだよぉ～{Wait for input}{emote: Love}ボク　あそこにうまって{pause 20}	おひるねしたいなぁ、{pause 8}{catchphrase}
+"015"	{emote: Worry}{0011-0006-0002-0000}って、{pause 20}	ず～っと　あのポーズで	{ruby (charSpan 1): あし}足しびれないのかなぁ？{Wait for input}たまには　{ruby (charSpan 1): あたま}頭を{ruby (charSpan 1): さ}下げて	いねむり　したらいいのにねぇ、{pause 8}{catchphrase}
+"016"	{emote: Glee}{0011-0006-0002-0000}から{pause 20}	{0005-000e-0002-0000}が{ruby (charSpan 1): で}出てきたら	うれしいのになぁ～{Wait for input}{emote: Agreement}みんなも　よろこぶと{ruby (charSpan 1): おも}思うけど、{pause 20}	{emote: Worry}{ruby (charSpan 1): あじ}味にあきたら　ツライかもぉ	{pause 8}{catchphrase}
+"017"	{0011-0006-0002-0000}、{pause 20}	{emote: Happiness}アレが　おいしい	お{ruby (charSpan 1): こめ}米になるんだよぉ～{Wait for input}{emote: Glee}ボク　{ruby (charSpan 1): しろ}白いお{ruby (charSpan 1): こめ}米　{ruby (charSpan 1): だい}大すき～！{pause 40}	いつになったら	{ruby (charSpan 1): た}食べられるかなぁ？　{pause 8}{catchphrase}？
+"018"	{000a-0006-0008-0012-0006-0015-0016}
+"019"	{0009-0000-0004-0017-0018}
+"020"
+"021"	{emote: Happiness}{0011-0006-0002-0000}{pause 20}	キレイだねぇ～{Wait for input}{emote: Reset}イルミネーションを{ruby (charSpan 1): み}見ながら、{pause 20}	{0005-0013-0002-0000}を{ruby (charSpan 1): た}食べる{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Love}ボクが　{ruby (charSpan 1): かんが}考えた{pause 20}	デートコースだよぉ、{pause 8}{catchphrase}{Wait for input}{emote: Shyness}このアイデア、{pause 20}	{Player nickname (green)}{0005-000d-0000}に	ゆずってあげよっかぁ～？
+"022"	{emote: Happiness}{0011-0006-0002-0000}は、{pause 20}	{ruby (charSpan 1): よる}夜になって　{ruby (charSpan 1): ひか}光り{ruby (charSpan 1): だ}出すと{pause 20}	すごく　キレイだよねぇ～{Wait for input}{emote: Glee}ボク　{ruby (charSpan 1): よる}夜ねる{ruby (charSpan 1): まえ}前に{pause 20}	{ruby (charSpan 1): ひか}光ってる　{0011-0006-0002-0000}を	{ruby (charSpan 1): み}見に{ruby (charSpan 1): い}行くのが　すきなんだぁ、{pause 8}{catchphrase}
+"023"	{emote: Daydreaming}{0011-0006-0002-0000}から、{pause 20}	チョコレートが{ruby (charSpan 1): で}出てきたら	いいのになぁ～{Wait for input}{emote: Glee}そのチョコを{pause 20}	フルーツや{pause 8}　ケーキに{pause 20}	ドロッとつけて　{ruby (charSpan 1): た}食べるんだぁ～{Wait for input}{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ぜいたくな	チョコフォンデュだよぉ、{pause 8}{catchphrase}
+"024"	{emote: Daydreaming}{0011-0006-0002-0000}から、{pause 20}	チーズが{ruby (charSpan 1): で}出てきたら	いいのになぁ～{Wait for input}{emote: Glee}そのチーズを{pause 20}	やさいや{pause 8}　お{ruby (charSpan 1): にく}肉に{pause 20}	ドロッとつけて　{ruby (charSpan 1): た}食べるんだぁ～{Wait for input}{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ぜいたくな	チーズフォンデュだよぉ、{pause 8}{catchphrase}

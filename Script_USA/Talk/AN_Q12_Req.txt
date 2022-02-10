@@ -1,55 +1,55 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Soft Smile}
-"003"	{emote: Alarmed}
-"004"	{emote: Curious}
-"005"	{emote: Worry}
-"006"	{emote: Curious}
-"007"	{emote: Inspired}
-"008"	{emote: Inspired}
-"009"	{emote: Delight}
-"010"	
-"011"	{emote: Greetings}
-"012"	{emote: Greetings}
-"013"	{emote: Greetings}
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	{emote: Inspired}
-"022"	{emote: Inspired}
-"023"	{emote: Inspired}
-"024"	{emote: Inspired}
-"025"	{emote: Inspired}
-"026"	{emote: Inspired}
-"027"	{emote: Inspired}
-"028"	{emote: Inspired}
-"029"	{emote: Inspired}
-"030"	{emote: Inspired}
+"001"	{emote: Alarmed}Oh!{pause 8} I need to run something by you.	{pause 20}{emote: Reset}I'm collecting signatures for the	{0012-0001-0000} issue!	{emote: Soft Smile}If {pause 8}you're going to another town, do	you think you could help me out? I	need to wrap it up by day's end.{Wait for input}{emote: Agreement}I want you to get folks to sign the	{0012-0001-0000}	petition, OK?{000f-0005-0004-0015-0028}	I love a good cause!	No way!
+"002"	{emote: Soft Smile}So, {Player nickname (green)}{pause 8}.{pause 8}.{pause 8}.{pause 20}will you help me?{Wait for input}{emote: Glare}I'm gathering signatures for the	{0012-0001-0000}	petition.{pause 20} It's an important issue!	{emote: Soft Smile}If you're heading to another town, {pause 8}	could you get some names for me?	Gotta get it done by day's end.{000f-0005-0004-0015-0028}	Sure!	Nope!
+"003"	{emote: Alarmed}Gah!{pause 20}{emote: Reset} Man, I'm so far behind!{Wait for input}{emote: Agreement}Do me a solid, would you?{pause 8} I'm trying	to get some serious support for the	{0012-0001-0000} issue!	{emote: Soft Smile}So{pause 8}.{pause 8}.{pause 8}.{pause 20}if you're going to another town,	could you get me some signatures?	Gotta get it done by day's end.{000f-0005-0004-0015-0028}	I'd love to!	I'm too busy.
+"004"	{emote: Curious}What?{pause 8} Dude.{pause 8} Seriously?{pause 40} {emote: Reset}Fine{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Soft Smile} I'll	ask someone else! {pause 20}{capitalized}{catchphrase}!
+"005"	{emote: Worry}Oh{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Reset} OK.{pause 40}{emote: Soft Smile} It was just a thought.{pause 20}	No big deal. {pause 20}{capitalized}{catchphrase}!
+"006"	{emote: Curious}Awww, really?{pause 40}{emote: Reset} Well, I guess I did 	kinda spring that on you from out of	nowhere.{pause 20} {capitalized}{catchphrase}!
+"007"	{emote: Inspired}Seriously?!{pause 20} That's great!{Wait for input}{emote: Reset}OK, check it out.{pause 20} I need {Blue}{Number (0x6)}{Color Reset} {Blue}signatures{Color Reset}	from {Blue}people in other towns{Color Reset}!{pause 40} {emote: Soft Smile}Uh{pause 8}.{pause 8}.{pause 8}.{pause 20}	and take this signature form!
+"008"	{emote: Inspired}Yeah?{pause 40} {emote: Reset}Sweet!{Wait for input}{emote: Soft Smile}OK, I need {Blue}{Number (0x6)} {signatures/signature/signatures}{Color Reset}, but only	from {Blue}girls from other towns{Color Reset}!	{emote: Reset}Here!{pause 8} Take this signature form.
+"009"	{emote: Delight}Awesome!{pause 20} You're a good egg!{pause 40}{emote: Soft Smile}{Wait for input}{emote: Agreement}OK{pause 8}.{pause 8}.{pause 8}.{pause 20} Find {Blue}tough-girl types {Color Reset}from	{Blue}other towns{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 20}and get {Blue}{Number (0x6)} {signatures/signature/signatures}{pause 40}{Color Reset}!	{emote: Soft Smile}Take this petition form.
+"010"
+"011"	{emote: Greetings}Thanks a bunch! {pause 20}{capitalized}{catchphrase}!
+"012"	{emote: Greetings}Countin' on ya! {pause 20}{capitalized}{catchphrase}!
+"013"	{emote: Greetings}OK, you're set! {capitalized}{pause 20}{catchphrase}!
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"020"
+"021"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from {Blue}dog	types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's the	signature form!
+"022"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from {Blue}cat	types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's the	signature form!
+"023"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from	{Blue}squirrel types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}	Here's the signature form!
+"024"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from	{Blue}rabbit types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's	the signature form!
+"025"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from {Blue}duck	types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's the	signature form!
+"026"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from	{Blue}mouse types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's	the signature form!
+"027"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from {Blue}frog	types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's the	signature form!
+"028"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from	{Blue}horse types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's	the signature form!
+"029"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from {Blue}bear	types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's the	signature form!
+"030"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from	{Blue}penguin types {Color Reset}in other towns!{pause 40} 	{emote: Soft Smile}Here's the signature form!
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Soft Smile}
-"003"	{emote: Alarmed}
-"004"	{emote: Curious}
-"005"	{emote: Worry}
-"006"	{emote: Curious}
-"007"	{emote: Inspired}
+"001"	{emote: Alarmed}¡Anda!{pause 8} {emote: Reset}Precisamente quería pedirte	un favorcillo.{pause 20}{Wait for input}Verás, es que estoy intentando	recoger firmas para la causa	"{0012-0001-0000}".	{emote: Soft Smile}Mira, {pause 8}si vas de visita a otro pueblo,	¿te importaría ayudarme con esto?	Pero tiene que ser hoy sin falta.{Wait for input}{emote: Agreement}A ver si consigues que la gente	te eche una firmilla, ¿vale?{000f-0005-0004-0015-0028}	¡Por supuesto!	¡Qué más quisieras!
+"002"	{emote: Soft Smile}Bueno, {Player nickname (green)}{pause 8}.{pause 8}.{pause 8}.{pause 20} ¿me echas una	mano o qué?{Wait for input}{emote: Glare}Estoy recogiendo firmas para lo de	"{0012-0001-0000}". ¡Es	un asunto superimportante!	{emote: Soft Smile}Si por un casual te pasas por otro	pueblo, {pause 8}¿me traerías alguna firmilla?	Eso sí, ¡tiene que ser hoy sin falta!{000f-0005-0004-0015-0028}	Claro, para eso estamos	¡Nanay!
+"003"	{emote: Alarmed}¡Buuuf!{pause 20}{emote: Reset} ¡Es que lo llevo fatal!{Wait for input}{emote: Distress}Échame un cable, ¡enróllate!{pause 8}{emote: Reset}	Necesito ayuda para lo de	"{0012-0001-0000}".	{emote: Soft Smile}Mira{pause 8}.{pause 8}.{pause 8}.{pause 20} si te pasas por algún otro	pueblo de visita, ¿me traes unas	firmillas? ¡Tiene que ser hoy!{000f-0005-0004-0015-0028}	¡Será un placer!	Tengo mucho lío...
+"004"	{emote: Curious}¿Sí?{pause 8} Tí{o/a}{pause 8}.{pause 8}.{pause 8}.{pause 20} ¿En serio?{pause 40} {emote: Reset}Bueno{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Soft Smile}	¡Seguiré preguntando por ahí!
+"005"	{emote: Worry}Ah{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Reset} vale.{pause 40}{emote: Soft Smile} Era solo una sugerencia.{pause 20}	No te preocupes, ¡no pasa nada!
+"006"	{emote: Curious}Ay, ¿de verdad?{emote: Reset} Bueno, a lo mejor	he sido algo descarada... ¡pero estoy	muy volcada con la causa!
+"007"	{emote: Inspired}¡¿De verdad?!{pause 20} ¡Qué pasote!{Wait for input}{emote: Reset}A ver, atiende.{pause 20} Me hacen falta	{Blue}{Number (0x6)} {Color Reset}firmas de {Blue}gente de otros	pueblos{Color Reset}.{pause 40} {emote: Soft Smile}Y{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡llévate este papel!
 "008"	NOT USED
 "009"	NOT USED
-"010"	
-"011"	{emote: Greetings}
-"012"	{emote: Greetings}
-"013"	{emote: Greetings}
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
+"010"
+"011"	{emote: Greetings}¡Ay, muchísimas gracias,	{pause 20}{catchphrase}!
+"012"	{emote: Greetings}Oye, ¡no me defraudes,	{pause 20}{catchphrase}!
+"013"	{emote: Greetings}¡Venga, a darle caña, {pause 20}{catchphrase}!
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"020"
 "021"	NOT USED
 "022"	NOT USED
 "023"	NOT USED
@@ -61,33 +61,33 @@
 "029"	NOT USED
 "030"	NOT USED
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Soft Smile}
-"003"	{emote: Alarmed}
-"004"	{emote: Curious}
-"005"	{emote: Worry}
-"006"	{emote: Curious}
-"007"	{emote: Inspired}
-"008"	{emote: Inspired}
-"009"	{emote: Delight}
-"010"	
-"011"	{emote: Greetings}
-"012"	{emote: Greetings}
-"013"	{emote: Greetings}
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	{emote: Inspired}
-"022"	{emote: Inspired}
-"023"	{emote: Inspired}
-"024"	{emote: Inspired}
-"025"	{emote: Inspired}
-"026"	{emote: Inspired}
-"027"	{emote: Inspired}
-"028"	{emote: Inspired}
-"029"	{emote: Inspired}
-"030"	{emote: Inspired}
+"001"	{emote: Alarmed}Oh!{pause 8} T'sais quoi?{pause 20} {emote: Reset}J'rassemble des	signatures pour ma pétition,	« {0012-0001-0000} »!	{emote: Soft Smile}Si jamais tu t'rends dans une autre	ville, tu pourrais m'filer un coup	d'main?	{emote: Agreement}Y faut juste persuader les gens de	signer un p'tit bout d'papier...{pause 20} Ça	devrait être dans tes cordes, nan?{000f-0005-0004-0015-0028}	Carrément!	Oublie ça, hippie!
+"002"	{emote: Soft Smile}Dis, {Player nickname (green)}{pause 8}.{pause 8}.{pause 8}.{pause 20} Tu m'rendrais un	grand service?{Wait for input}{emote: Glare}J'ai rédigé une pétition intitulée	« {0012-0001-0000} »...	Et ça m'tient grave à cœur!	{emote: Agreement}Maintenant, l'idée, c'est d'trouver	des sympathisants à la cause!{Wait for input}{emote: Soft Smile}Si tu visites une autre ville	aujourd'hui, tu pourrais en profiter	pour récolter quelques signatures?{000f-0005-0004-0015-0028}	Pas de problème!	Vas-y toi-même!
+"003"	{emote: Alarmed}En ce moment,{pause 20} tout va d'traviole!{Wait for input}{emote: Agreement}Aide-moi, tu veux?{pause 8} J'manque grave	de signatures pour ma pétition,	« {0012-0001-0000} »!	{emote: Soft Smile}Donc{pause 8}.{pause 8}.{pause 8}.{pause 20} si tu vas dans une autre ville	aujourd'hui, tu pourrais t'arranger	pour que des locaux la signent?{000f-0005-0004-0015-0028}	Avec plaisir!	Dans tes rêves!
+"004"	{emote: Curious}Quoi?!{pause 25} {emote: Anger}Hé, ho,{pause 8} oublie pas à qui tu	causes, hein{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Worry}Tsss, j'demanderai à	quelqu'un d'autre,{pause 20} {catchphrase}...
+"005"	{emote: Worry}Euh{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Reset}OK, pas grave.{pause 20} {emote: Soft Smile}J'aurai essayé,{pause 20}	{catchphrase}!
+"006"	{emote: Curious}Nan, vraiment?{pause 30} {emote: Worry}La cause te	remercie pas, {Player nickname (green)}!{pause 20}	{capitalized}{catchphrase}...
+"007"	{emote: Inspired}Sérieux?!{pause 20} Trop cool!{Wait for input}{emote: Reset}Voilà l'topo :{pause 20} y m'faut {Blue}{Number (0x6)}{Color Reset} signatures	d'habitants d'{Blue}autres villes{Color Reset}!{pause 40} {emote: Soft Smile}Tiens,	c'est l'formulaire à remplir!
+"008"	{emote: Inspired}Yeah?{pause 40} {emote: Reset}Sweet!{Wait for input}{emote: Soft Smile}OK, I need {Blue}{Number (0x6)} {signatures/signature/signatures}{Color Reset}, but only	from {Blue}girls from other towns{Color Reset}!	{emote: Reset}Here!{pause 8} Take this signature form.
+"009"	{emote: Delight}Awesome!{pause 20} You're a good egg!{pause 40}{emote: Soft Smile}{Wait for input}{emote: Agreement}OK{pause 8}.{pause 8}.{pause 8}.{pause 20} Find {Blue}tough-girl types {Color Reset}from	{Blue}other towns{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 20}and get {Blue}{Number (0x6)} {signatures/signature/signatures}{pause 40}{Color Reset}!	{emote: Soft Smile}Take this petition form.
+"010"
+"011"	{emote: Greetings}Merci beaucoup,{pause 20} {catchphrase}!
+"012"	{emote: Greetings}J'compte sur toi,{pause 20} {catchphrase}!
+"013"	{emote: Greetings}Bonne chance,{pause 20} {catchphrase}!
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"020"
+"021"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from {Blue}dog	types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's the	signature form!
+"022"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from {Blue}cat	types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's the	signature form!
+"023"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from	{Blue}squirrel types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}	Here's the signature form!
+"024"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from	{Blue}rabbit types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's	the signature form!
+"025"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from {Blue}duck	types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's the	signature form!
+"026"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from	{Blue}mouse types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's	the signature form!
+"027"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from {Blue}frog	types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's the	signature form!
+"028"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from	{Blue}horse types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's	the signature form!
+"029"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from {Blue}bear	types {Color Reset}in other towns!{pause 40} {emote: Soft Smile}Here's the	signature form!
+"030"	{emote: Inspired}Really?! {pause 20}That's great!{Wait for input}{emote: Reset}OK, I'll need {Blue}{Number (0x6)} {signatures/signature/signatures} {Color Reset}from	{Blue}penguin types {Color Reset}in other towns!{pause 40} 	{emote: Soft Smile}Here's the signature form!

@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Soft Smile}
-"003"	{emote: Soft Smile}
-"004"	はい{pause 8}
-"005"	{emote: Soft Smile}
-"006"	{emote: Sigh}
-"007"	{emote: Worry}
-"008"	{emote: Fearful}
-"009"	{emote: Worry}
+"001"	{emote: Soft Smile}たぶん　{pause 10}{ruby (charSpan 3): だいじょうぶ}大丈夫だと{ruby (charSpan 1): おも}思います{Wait for input}	{ruby (charSpan 2): きょう}今日は　{pause 10}{ruby (charSpan 1): しず}静かにしていた{ruby (charSpan 1): ほう}方が	よさそうです
+"002"	{emote: Soft Smile}こういうときって{pause 10}	{ruby (charSpan 1): はや}早めに{pause 10}　{Blue}おくすり{Color Reset}を{ruby (charSpan 1): の}飲んだ{ruby (charSpan 1): ほう}方が	いいんでしょうね
+"003"	{emote: Soft Smile}このぐらいの　カゼなら{pause 10}	たぶん　{pause 10}{ruby (charSpan 3): だいじょうぶ}大丈夫だと{ruby (charSpan 1): おも}思います{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Sneezing}ハクシュン！
+"004"	はい{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Player nickname (green)}さんも{pause 10}	{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けてください{pause 8}・{pause 8}・{pause 8}・{pause 8}{catchphrase}！
+"005"	{emote: Soft Smile}ありがとうございます{Wait for input}{emote: Worry}{pause 8}・{pause 8}・{pause 8}・こういうときに{pause 10}	{Blue}おくすり{Color Reset}の{ruby (charSpan 2): たいせつ}大切さを{pause 5}	{ruby (charSpan 1): かん}感じますね{pause 8}・{pause 8}・{pause 8}・{pause 8}{catchphrase}
+"006"	{emote: Sigh}ふぅ～{pause 8}・{pause 8}・{pause 8}・{pause 30}	やっぱり{ruby (charSpan 1): からだ}体に{ruby (charSpan 1): ちから}力が　{ruby (charSpan 1): はい}入りません{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"007"	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 8}うぅぅ{pause 30}	なんだか　{pause 10}つらくなってきました
+"008"	{emote: Fearful}は{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): はや}早く{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}おくすり{Color Reset}を　{pause 20}{ruby (charSpan 1): の}飲まないと{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sneezing}コホッ
+"009"	{emote: Worry}あぁ{pause 8}・{pause 8}・{pause 8}・{pause 8}しんどい{pause 20}	わたし{pause 20}　どうなるのかしら

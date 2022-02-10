@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
+"001"	{emote: Happiness}ねぇ、{pause 20}{ruby (charSpan 1): いま}今から	かくれんぼしようよぉ！{Wait for input}{emote: Glare}ボク　おさんぽしてたら、{pause 20}	すごく　かくれやすそうなばしょを	{ruby (charSpan 1): み}見つけちゃったんだぁ～{Wait for input}あのばしょなら{pause 20}	ぜったい　{ruby (charSpan 1): み}見つからない	{ruby (charSpan 1): き}気がするんだよねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Pride}さぁ、{Player nickname (green)}{0005-000d-0000}！{pause 20}	ボクのちょうせん	うけてくれるでしょぉ？{confirmation-02}{000f-0005-0004-0015-0028}	やる！	やらない
+"002"	{emote: Happiness}ねぇ、{Player nickname (green)}{0005-000d-0000}{pause 20}	かくれんぼ　やろうよぉ～{Wait for input}{emote: Mischief}いつもは　やさしいキミが{pause 20}	オニになるなんて	{ruby (charSpan 1): たの}楽しみだなぁ、{pause 8}{catchphrase}{Wait for input}{emote: Curious}ねぇねぇ{pause 20}	やるでしょぉ～？{confirmation-02}{000f-0005-0004-0015-0028}	やろう	また{ruby (charSpan 2): こんど}今度
+"003"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 20}	とつぜんだけど	かくれんぼしない？　{pause 8}{catchphrase}？{Wait for input}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): そと}外で{ruby (charSpan 1): おも}思いっきり	あそびたい　{ruby (charSpan 2): きぶん}気分なんだぁ～{pause 40}	{emote: Curious}いっしょに　やってくれる～？{confirmation-02}{000f-0005-0004-0015-0028}	やる	やらない

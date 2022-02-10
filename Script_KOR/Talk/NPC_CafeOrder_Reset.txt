@@ -1,20 +1,20 @@
 == 0 ==
 "001"	맨날 마시던 거 알재? 그거 도!
-"002"	커피 좀 도!{pause 20}
-"003"	커피 좀 도!{pause 20}
-"004"	커피 좀 도!{pause 20}
-"005"	어디 보자{pause 4}
-"006"	{emote: Alarmed}
-"007"	{emote: Worry}
-"008"		{emote: Alarmed}
-"009"		{emote: Alarmed}
-"010"	
-"011"	
-"012"	
-"013"		{emote: Shocked}
-"014"		{emote: Shocked}
-"015"		{emote: Shocked}
-"016"		{0007-000b-0000}
-"017"	
-"018"	
-"019"	
+"002"	커피 좀 도!{pause 20}	{Blue}블루마운틴 {Color Reset}알재?
+"003"	커피 좀 도!{pause 20}	아, {pause 8}우유는 {Blue}안 넣는데이{Color Reset}～
+"004"	커피 좀 도!{pause 20}	아, {pause 8}설탕은 {Blue}필요 없데이{Color Reset}～
+"005"	어디 보자{pause 4}・{pause 4}・{pause 4}・
+"006"	{emote: Alarmed}워메!{pause 15} 맛 쥑이네!{pause 30}	{emote: Soft Smile}간이 딱 맞는다 안 카나!{Wait for input}{0007-000e-0000}{emote: Happiness}니, {pause 8}일 좀 개안케 하네～!{Wait for input}	또 올구마!{pause 15}	잘 있그래이!!
+"007"	{emote: Worry}으음～ {pause 15}{emote: Soft Smile}그냥 그렇네!{Wait for input}	{emote: Reset}근디 이거, {pause 8}{Blue}블루마운틴 {Color Reset}아니재?{Wait for input}{emote: Anger}그런 건{pause 8}	내 금방 안다 아이가!{pause 30}	{emote: Glare}이래 봬도 {pause 4}차이를 아는 남자라 안 카나!{pause 20}	{emote: Reset}손님 취향은 좀 기억하그래이!{pause 30}	내 간데이!
+"008"		{emote: Alarmed}{Text size 150%}앗!{Text size 100%}{pause 20}{Wait for input}{emote: Anger}뭐 하는 기고, 니!{pause 20}	여기에 {pause 8}우유가 드가 있네 {Wait for input}{emote: Worry}지방 섭취는 자제하라꼬{pause 15}	의사 샘한테 주의 들었다 안 카나!{Wait for input}{emote: Reset}알았나?{pause 20} {Blue}우유{Color Reset}는 {Blue}안 넣는{Color Reset}데이!{pause 30}	기억 좀 하그래이!{pause 30}	내 간다!
+"009"		{emote: Alarmed}{Text size 150%}앗!{Text size 100%}{pause 20}{Wait for input}{emote: Anger}니, 뭐하는 기고・・・{pause 20}	여기에 {pause 8}설탕 넣었나?{Wait for input}{emote: Worry}당분 섭취는 자제하라꼬,{pause 15}	내 주치의 샘한테	강～력하게 주의를 들었다 아이가!{Wait for input}{emote: Reset}알겠나?{pause 20} {Blue}설탕{Color Reset}은 {Blue}안 된데{Color Reset}이!{pause 30}	똑똑히 기억하그래이!{pause 30}	내 간다!
+"010"
+"011"
+"012"
+"013"		{emote: Shocked}{Text size 150%}왓!{Text size 100%}{pause 20}{Wait for input}{emote: Distress}{Blue}커피콩{Color Reset}은 맞는데{pause 15}	그거 말고는 엉망 아이가, {pause 8}이게 뭐꼬!{Wait for input}{emote: Worry}이런 거 마시믄{pause 8}	내 주치의 샘한테{pause 4}	또{pause 4} 겁나 혼날 게 뻔하데이～{pause 20}	{emote: Reset}그케도, {pause 8}이미 맨든 거 우야겠노!{Wait for input}	{emote: Anger}다음부턴 잘 좀 해도!{pause 30}	내 간데이!
+"014"		{emote: Shocked}{Text size 150%}왓!{Text size 100%}{pause 20}{Wait for input}{emote: Distress}{Blue}우유 {Color Reset}안 넣은 기는 잘했는데{pause 15}	그거 말고는 엉망 아이가, {pause 8}이게 뭐꼬!{Wait for input}{emote: Worry}커피가 아니라 이기, 뭐라 카면 좋겠노{pause 30}	정체불명 음료수 아이가, {pause 4}그케도!{Wait for input}{emote: Reset}뭐, {pause 8}이미 맨든 기는 우야겠노!{Wait for input}	{emote: Anger}다음부턴 잘 좀 해도!{pause 30}	내 간데이!
+"015"		{emote: Shocked}{Text size 150%}왓!{Text size 100%}{pause 20}{Wait for input}{emote: Distress}{Blue}설탕 {Color Reset}뺀 기는 잘했는데,{pause 15}	그거 말고는 완전 {pause 8}엉망 아이가!{Wait for input}{emote: Worry}커피를 이리 맨들면 우야노{pause 30}	먹으란 기가 말란 기가, {pause 4}그케도!{Wait for input}{emote: Reset}뭐, {pause 8}이미 맨든 긴데 우짜겠노!{Wait for input}	{emote: Anger}다음부턴 잘 좀 해도!{pause 30}	내 간데이!
+"016"		{0007-000b-0000}{emote: Disbelief}{Text size 150%}우엑!{Text size 100%}{pause 20}{Wait for input}{emote: Distress}이게 뭐꼬!{pause 50}	{emote: Anger}하나부터 열까지 다 엉망진창 아이가!{Wait for input}{emote: Aggravation}이라믄 내 화낸데이, 그케도!{Wait for input}	{emote: Reset}아!{pause 20}	{emote: Disagreement}내 아직 화 안 낼끼다{pause 8}・{pause 8}・{pause 8}・{pause 15}	{emote: Reset}뭐, {pause 8}이미 맨든 기는 우야겠노!{Wait for input}	{emote: Anger}다음부턴 잘 좀 해도!{pause 30}	내 간데이!
+"017"
+"018"
+"019"

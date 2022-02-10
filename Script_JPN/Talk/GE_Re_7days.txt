@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Surprise}
-"003"	{emote: Surprise}
-"004"	{emote: Alarmed}
-"005"	{emote: Surprise}
-"006"	{emote: Distress}
+"001"	{emote: Surprise}あ！　{pause 15}{ruby (charSpan 1): ひさ}久しぶりじゃない？！{Wait for input}	ちょっと　{ruby (charSpan 1): み}見ない{ruby (charSpan 1): あいだ}間に、{pause 10}	{emote: Happiness}なんか　イケてるカンジになったね～
+"002"	{emote: Surprise}あれ？　{pause 20}{Player nickname (green)}{0005-000d-0000}！{Wait for input}	{emote: Distress}ちょっと～　どこ{ruby (charSpan 1): い}行ってたのよ{pause 20}	ヒミツの　{ruby (charSpan 2): とっくん}特訓でもしてたんじゃないの？！
+"003"	{emote: Surprise}わ！　{pause 15}{ruby (charSpan 1): ひさ}久しぶりじゃ～ん{Wait for input}	{emote: Happiness}{ruby (charSpan 2): りょこう}旅行にでも　{ruby (charSpan 1): い}行ってたわけ？{pause 30}	{emote: Glare}お{ruby (charSpan 2): みやげ}土産、{pause 5}{ruby (charSpan 2): きたい}期待しちゃうよ～
+"004"	{emote: Alarmed}あ！　{pause 15}{Player nickname (green)}{0005-000d-0000}！{Wait for input}	{emote: Distress}{ruby (charSpan 2): さいきん}最近　{ruby (charSpan 1): み}見かけないから{pause 10}	どうしたのかと{ruby (charSpan 1): おも}思ったよ～	{emote: Glare}もしかして{pause 10}	だれかと　デートしてたとか？{Wait for input}	{emote: Happiness}たまには　{pause 10}いっしょに{ruby (charSpan 1): あそ}遊んでよね！
+"005"	{emote: Surprise}わ！　{pause 20}{Player nickname (green)}{0005-000d-0000}　{pause 8}{ruby (charSpan 1): ひさ}久しぶり！{Wait for input}{emote: Happiness}こんなに{ruby (charSpan 1): なが}長く　{pause 10}アタイと{ruby (charSpan 1): あ}会えなくて{pause 15}	さみしかったでしょ～{Wait for input}{emote: Glee}これからは{pause 10}	どんどん　おしゃべりしようね！
+"006"	{emote: Distress}ちょっと～　{Player nickname (green)}{0005-000d-0000}！{Wait for input}	アタイに　ナイショで{pause 10}	ヒミツの{ruby (charSpan 2): しゅぎょう}修行でも　してたわけ？	{emote: Happiness}{ruby (charSpan 2): さいきん}最近　{ruby (charSpan 1): あ}会えなかったから{pause 15}	どうしたのかと　{ruby (charSpan 1): おも}思ったよ～{pause 30}	{emote: Resigned}まぁ、{pause 10}{ruby (charSpan 2): げんき}元気だったなら　{pause 5}いいんだけどさ！

@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Disbelief}
-"002"	{emote: Alarmed}
-"003"	{emote: Distress}
+"001"	{emote: Disbelief}{0007-000b-0000}うわぁ～～！{pause 20}	ハチさんを　おこらせちゃったのぉ？！{Wait for input}{emote: Distress}ちゃんと　あやまった{ruby (charSpan 1): ほう}方が	いいと{ruby (charSpan 1): おも}思うよぉ？　{pause 8}{catchphrase}？
+"002"	{emote: Alarmed}{0007-000b-0000}うわぁ～～！{pause 20}	ハチさんだぁ～！{Wait for input}{emote: Worry}キミ、{pause 20}ハチさんの　おひるねを	ジャマしたんでしょぉ～？{Wait for input}それは、キミが	わるいかもねぇ、{pause 8}{catchphrase}
+"003"	{emote: Distress}{0007-000b-0000}うわぁ～～！{pause 40}	こっちに{ruby (charSpan 1): こ}来ないで～！

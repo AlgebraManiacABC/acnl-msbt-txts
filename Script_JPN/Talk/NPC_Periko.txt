@@ -1,60 +1,60 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{pause 5}
-"004"	{pause 5}
-"005"	そうですか、{pause 15}!
-"006"	{emote: Happiness}
-"007"	
-"008"	{emote: Happiness}
-"009"	{emote: Worry}
-"010"	よその{ruby (charSpan 1): むら}村の　お{ruby (charSpan 2): きゃくさま}客様からは、{pause 10}
-"011"	{emote: Worry}
-"012"	{pause 15}
-"013"	{pause 15}
-"014"	{pause 15}
-"015"	{emote: Worry}
-"016"	{emote: Happiness}
-"017"	お{ruby (charSpan 1): ま}待たせしました{Wait for input}
-"018"	{emote: Worry}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
+"001"	{emote: Happiness}いらっしゃいませ、{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村　{ruby (charSpan 3): ゆうびんきょく}郵便局へ　ようこそ！{Wait for input}	{pause 10}{emote: Curious}{pause 10}{ruby (charSpan 2): ほんじつ}本日は　{ruby (charSpan 1): なに}何をご{ruby (charSpan 2): りよう}利用でしょうか？{000f-0007-0008-0000-0000-0000-0028}	{ruby (charSpan 2): てがみ}手紙を{ruby (charSpan 1): だ}出したい	{ruby (charSpan 2): てがみ}手紙を{ruby (charSpan 2): ほぞん}保存したい	{ruby (charSpan 2): はいしん}配信プレゼントのこと	いや、{ruby (charSpan 1): べつ}別に
+"002"	{emote: Happiness}いらっしゃいませ、{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村　{ruby (charSpan 3): ゆうびんきょく}郵便局へ　ようこそ！{Wait for input}	{pause 10}{emote: Curious}{pause 10}{ruby (charSpan 2): ゆうびん}郵便を　ご{ruby (charSpan 2): りよう}利用でしょうか？{000f-0005-0004-0000-0028}	{ruby (charSpan 2): てがみ}手紙を{ruby (charSpan 1): だ}出したい	いや、{ruby (charSpan 1): べつ}別に
+"003"	{pause 5}・{pause 5}・{pause 5}・{pause 8}では、{pause 15}{ruby (charSpan 1): ほか}他にも　{ruby (charSpan 1): なに}何か	{pause 10}{emote: Curious}{pause 10}お{ruby (charSpan 2): てつだ}手伝いできることは　ありますか？{000f-0007-0008-0000-0000-0000-0028}	{ruby (charSpan 2): てがみ}手紙を{ruby (charSpan 1): だ}出したい	{ruby (charSpan 2): てがみ}手紙を{ruby (charSpan 2): ほぞん}保存したい	{ruby (charSpan 2): はいしん}配信プレゼントのこと	{ruby (charSpan 1): ま}間に{ruby (charSpan 1): あ}合ってます
+"004"	{pause 5}・{pause 5}・{pause 5}・{pause 8}では、{pause 15}{ruby (charSpan 1): ほか}他にも　{ruby (charSpan 1): なに}何か	{pause 10}{emote: Curious}{pause 10}お{ruby (charSpan 2): てつだ}手伝いできることは　ありますか？{000f-0005-0004-0000-0028}	{ruby (charSpan 2): てがみ}手紙を{ruby (charSpan 1): だ}出したい	{ruby (charSpan 1): ま}間に{ruby (charSpan 1): あ}合ってます
+"005"	そうですか、{pause 15}	{emote: Happiness}では　また{ruby (charSpan 1): なに}何かございましたら	いつでも　お{ruby (charSpan 1): こ}越しください
+"006"	{emote: Happiness}では、{pause 10}これから　{ruby (charSpan 2): ほぞん}保存いたしますので{pause 5}	{ruby (charSpan 1): すこ}少し　お{ruby (charSpan 1): ま}待ちください
+"007"
+"008"	{emote: Happiness}かしこまりました！{pause 20}	{emote: Reset}では、{pause 5}{ruby (charSpan 2): あてさき}宛先は{pause 5}{emote: Curious}　どちらになりますか？{000f-0006-0006-0000-0000-0028}	この{ruby (charSpan 1): むら}村	{ruby (charSpan 2): みらい}未来の{ruby (charSpan 2): じぶん}自分	やっぱやめる
+"009"	{emote: Worry}ごめんなさい{pause 5}・{pause 5}・{pause 5}・、{pause 10}	{ruby (charSpan 1): じつ}実は　まだ{ruby (charSpan 2): はいたつ}配達できていない	お{ruby (charSpan 2): てがみ}手紙が　たまっていて{pause 5}・{pause 5}・{pause 5}・{Wait for input}{ruby (charSpan 1): いま}今は　お{ruby (charSpan 2): てがみ}手紙を　お{ruby (charSpan 1): あず}預かりすることが	できないんです{Wait for input}{emote: Reset}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありませんが、{pause 10}	またの{ruby (charSpan 2): きかい}機会に　お{ruby (charSpan 1): ねが}願いしますね
+"010"	よその{ruby (charSpan 1): むら}村の　お{ruby (charSpan 2): きゃくさま}客様からは、{pause 10}	この　{Town name (pink)}{ruby (charSpan 1): むら}村{ruby (charSpan 1): あ}宛ての	お{ruby (charSpan 2): てがみ}手紙のみ　お{ruby (charSpan 1): あず}預かりできます{Wait for input}ということで{pause 8}・{pause 8}・{pause 8}・{pause 20}	お{ruby (charSpan 1): だ}出しになりたい{ruby (charSpan 2): てがみ}手紙を{pause 5}	{emote: Curious}ちょうだいできますか？
+"011"	{emote: Worry}ごめんなさい{pause 5}・{pause 5}・{pause 5}・、{pause 10}	{ruby (charSpan 1): じつ}実は　まだ{ruby (charSpan 2): はいたつ}配達できていない	お{ruby (charSpan 2): てがみ}手紙が　たまっていて{pause 5}・{pause 5}・{pause 5}・{Wait for input}{ruby (charSpan 1): いま}今は　お{ruby (charSpan 2): てがみ}手紙を　お{ruby (charSpan 1): あず}預かりすることが	できないんです{Wait for input}{emote: Reset}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありませんが、{pause 8}	{ruby (charSpan 1): すこ}少しお{ruby (charSpan 2): じかん}時間を　おいてから	また　お{ruby (charSpan 1): こ}越しください
+"012"	{pause 15}{emote: Alarmed}{pause 15}あら{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 10}	{emote: Reset}もう　この{ruby (charSpan 1): むら}村に　いらっしゃらない{ruby (charSpan 1): かた}方が	{ruby (charSpan 2): あてさき}宛先に　なってますね{Wait for input}こちらは　{ruby (charSpan 1): とど}届けられないので、{pause 8}	お{ruby (charSpan 1): かえ}返しさせて　いただきます
+"013"	{pause 15}{emote: Alarmed}{pause 15}あら{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 10}	{emote: Reset}もう　この{ruby (charSpan 1): むら}村に　いらっしゃらない{ruby (charSpan 1): かた}方が	{ruby (charSpan 2): あてさき}宛先の　お{ruby (charSpan 2): てがみ}手紙ばかりですね{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}こちらは　{ruby (charSpan 1): とど}届けられないので、{pause 8}	お{ruby (charSpan 1): かえ}返しさせて　いただきます
+"014"	{pause 15}{emote: Alarmed}{pause 15}あら{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 10}	{emote: Reset}もう　この{ruby (charSpan 1): むら}村に　いらっしゃらない{ruby (charSpan 1): かた}方が	{ruby (charSpan 2): あてさき}宛先に　なってますね{Wait for input}こちらは　{ruby (charSpan 1): とど}届けられないので	お{ruby (charSpan 1): かえ}返しいたしますね{Wait for input}あとは{pause 8}・{pause 8}・{pause 8}・
+"015"	{emote: Worry}ごめんなさい{pause 5}・{pause 5}・{pause 5}・、{pause 10}	{ruby (charSpan 1): じつ}実は　まだ{ruby (charSpan 2): はいたつ}配達できていない	お{ruby (charSpan 2): てがみ}手紙が　たまっていて{pause 5}・{pause 5}・{pause 5}・{Wait for input}{ruby (charSpan 1): いま}今は　{ruby (charSpan 1): すべ}全てのお{ruby (charSpan 2): てがみ}手紙を	お{ruby (charSpan 1): あず}預かりすることが　できないんです{Wait for input}{emote: Reset}{ruby (charSpan 1): いま}今　{ruby (charSpan 1): う}受け{ruby (charSpan 1): つ}付けられる{ruby (charSpan 1): ぶん}分だけ	お{ruby (charSpan 1): あず}預かりして、{pause 10}	{ruby (charSpan 1): あと}後は　お{ruby (charSpan 1): かえ}返ししますね
+"016"	{emote: Happiness}はい、{pause 10}それでは	お{ruby (charSpan 1): あず}預かりしておきますね{Wait for input}	ご{ruby (charSpan 2): りよう}利用　ありがとうございました！
+"017"	お{ruby (charSpan 1): ま}待たせしました{Wait for input}	{emote: Happiness}{ruby (charSpan 2): ほんじつ}本日は{pause 5}　ご{ruby (charSpan 2): りよう}利用ありがとうございました！
+"018"	{emote: Worry}すみません、{pause 10}	{0011-0000-0002-0000}さん{ruby (charSpan 1): あ}宛ての　お{ruby (charSpan 2): てがみ}手紙は	{ruby (charSpan 1): いま}今は　お{ruby (charSpan 1): あず}預かりできないんです{Wait for input}お{ruby (charSpan 1): うち}家のポストが　いっぱいで、{pause 10}	{ruby (charSpan 2): はいたつ}配達できないみたいです{pause 5}・{pause 5}・{pause 5}・
+"019"	{emote: Worry}すみません、{pause 10}{0011-0000-0002-0000}さんと	{0011-0000-0002-0001}さん{ruby (charSpan 1): あ}宛ての　お{ruby (charSpan 2): てがみ}手紙は、{pause 5}	{ruby (charSpan 1): いま}今は　お{ruby (charSpan 1): あず}預かりできないんです{Wait for input}{ruby (charSpan 2): ふたり}二人とも　お{ruby (charSpan 1): うち}家のポストがいっぱいで、{pause 10}	{ruby (charSpan 2): はいたつ}配達できないみたいです{pause 5}・{pause 5}・{pause 5}・
+"020"	{emote: Worry}すみません{pause 5}・{pause 5}・{pause 5}・{Wait for input}{0011-0000-0002-0000}さんと　{0011-0000-0002-0001}さんと	{0011-0000-0002-0002}さん{ruby (charSpan 1): あ}宛ての　お{ruby (charSpan 2): てがみ}手紙は、{pause 5}	{ruby (charSpan 1): いま}今は　お{ruby (charSpan 1): あず}預かりできないんです{Wait for input}{ruby (charSpan 2): さんにん}三人とも　お{ruby (charSpan 1): うち}家のポストがいっぱいで、{pause 10}	{ruby (charSpan 2): はいたつ}配達できないみたいです{pause 5}・{pause 5}・{pause 5}・
 "021"	その{ruby (charSpan 1): ほか}他の　お{ruby (charSpan 2): てがみ}手紙は	お{ruby (charSpan 1): あず}預かりしておきますね
-"022"	{emote: Happiness}
-"023"	{pause 5}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	
-"027"	
-"028"	
-"029"	{emote: Happiness}
-"030"	{pause 5}
-"031"	どれぐらい　{ruby (charSpan 2): みらい}未来に	{emote: Curious}
-"032"	{pause 8}
-"033"	あら、{pause 10}
-"034"	{emote: Happiness}
-"035"	あら、{pause 10}
-"036"	{Blue}{0004-000d-0002-00-ffffffcd}{ruby (charSpan 1): ねん}年{0004-000e-0002-00-ffffffcd}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日{Color Reset}に	{emote: Curious}
-"037"	{emote: Happiness}
-"038"	はい、{pause 15}
-"039"	では、{pause 10}
-"040"	{emote: Happiness}
-"041"	{emote: Happiness}
-"042"	{ruby (charSpan 3): ゆうびんきょく}郵便局を　ご{ruby (charSpan 2): りよう}利用いただくには	まず　{ruby (charSpan 2): やくば}役場での{ruby (charSpan 4): そんみんとうろく}村民登録が	{ruby (charSpan 2): ひつよう}必要なんです{0000-0004-0000}!
-"043"	
-"044"	
-"046"	インターネットを{ruby (charSpan 1): つか}使って、{pause 10}
-"047"	{Blue}{ruby (charSpan 2): はいしん}配信プレゼント{Color Reset}の　サービスを	ご{ruby (charSpan 2): りよう}利用になる{ruby (charSpan 2): ばあい}場合は、{0000-0004-0000}
-"048"	{ruby (charSpan 2): はいしん}配信プレゼントの　サービスを	ご{ruby (charSpan 2): りよう}利用いただくためには、{pause 10}
-"049"	{emote: Worry}
-"050"	{emote: Worry}
-"051"	{pause 5}
-"052"	{emote: Happiness}
-"053"	またのご{ruby (charSpan 2): りよう}利用{pause 5}
-"054"	{emote: Worry}
-"055"	{emote: Worry}
-"056"	{emote: Worry}
-"057"	{emote: Worry}
-"058"	
-"059"	
-"060"	
+"022"	{emote: Happiness}この{ruby (charSpan 1): むら}村の{ruby (charSpan 1): かた}方に　{ruby (charSpan 1): おく}送るんですね{Wait for input}	それでは、{pause 10}{ruby (charSpan 1): おく}送りたい{ruby (charSpan 2): てがみ}手紙を{ruby (charSpan 1): えら}選んで{pause 5}	{ruby (charSpan 1): あか}赤いボックスに　お{ruby (charSpan 1): い}入れください
+"023"	{pause 5}{emote: Alarmed}{pause 10}あら、{pause 15}	おやめに　なるんですね
+"024"	{emote: Happiness}では、{pause 10}{Player name}さん{ruby (charSpan 2): せんよう}専用のボックスを	お{ruby (charSpan 1): ひら}開きいたしますので、{pause 10}	{ruby (charSpan 3): したがめん}下画面で　{ruby (charSpan 2): じゆう}自由に{ruby (charSpan 1): だ}出し{ruby (charSpan 1): い}入れしてください
+"025"	{emote: Happiness}{ruby (charSpan 2): みらい}未来の　{Player name}さん{ruby (charSpan 1): あ}宛てですね{Wait for input}	それでは、{pause 10}{ruby (charSpan 1): おく}送りたい{ruby (charSpan 2): てがみ}手紙を{ruby (charSpan 1): えら}選んでください
+"026"
+"027"
+"028"
+"029"	{emote: Happiness}いらっしゃいませ、{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村　{ruby (charSpan 3): ゆうびんきょく}郵便局へ　ようこそ！{Wait for input}	{pause 10}{emote: Curious}{pause 10}{ruby (charSpan 2): ほんじつ}本日は　{ruby (charSpan 1): なに}何をご{ruby (charSpan 2): りよう}利用でしょうか？{000f-0006-0006-0000-0000-0028}	{ruby (charSpan 2): てがみ}手紙を{ruby (charSpan 1): だ}出したい	{ruby (charSpan 2): てがみ}手紙を{ruby (charSpan 2): ほぞん}保存したい	いや、{ruby (charSpan 1): べつ}別に
+"030"	{pause 5}・{pause 5}・{pause 5}・{pause 8}では、{pause 15}{ruby (charSpan 1): ほか}他にも　{ruby (charSpan 1): なに}何か	{pause 10}{emote: Curious}{pause 10}お{ruby (charSpan 2): てつだ}手伝いできることは　ありますか？{000f-0006-0006-0000-0000-0028}	{ruby (charSpan 2): てがみ}手紙を{ruby (charSpan 1): だ}出したい	{ruby (charSpan 2): てがみ}手紙を{ruby (charSpan 2): ほぞん}保存したい	{ruby (charSpan 1): ま}間に{ruby (charSpan 1): あ}合ってます
+"031"	どれぐらい　{ruby (charSpan 2): みらい}未来に	{emote: Curious}お{ruby (charSpan 1): とど}届けすれば　よろしいですか？
+"032"	{pause 8}・{pause 10}・{pause 10}・{pause 10}{emote: Alarmed}{pause 10}あっ！{pause 15}　いけない！{Wait for input}{emote: Reset}「{ruby (charSpan 2): みらい}未来への{ruby (charSpan 2): てがみ}手紙」サービスは	お{ruby (charSpan 2): ひとり}一人{ruby (charSpan 1): さま}様　1{ruby (charSpan 1): つう}通までという	{ruby (charSpan 1): き}決まりに　なっているんですが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{Player name}さんからは　すでに	{Blue}{0004-000d-0002-cd00}{ruby (charSpan 1): ねん}年{0004-000e-0002-cd00}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日{Color Reset}　{ruby (charSpan 2): はいたつ}配達の	お{ruby (charSpan 2): てがみ}手紙を　お{ruby (charSpan 1): あず}預かりしていましたね{Wait for input}{ruby (charSpan 1): ふる}古い{ruby (charSpan 1): ほう}方は　お{ruby (charSpan 1): かえ}返しして、{pause 15}	{ruby (charSpan 2): こんかい}今回の　お{ruby (charSpan 2): てがみ}手紙を	{pause 5}{emote: Curious}{ruby (charSpan 1): あたら}新しく　{ruby (charSpan 1): だ}出しなおしますか？{000f-0005-0004-0015-0028}	{ruby (charSpan 1): だ}出しなおす	やっぱやめる
+"033"	あら、{pause 10}よろしかったですか？{Wait for input}	{emote: Happiness}でしたら、{pause 10}{ruby (charSpan 1): いま}今　いただいたお{ruby (charSpan 2): てがみ}手紙は	お{ruby (charSpan 1): かえ}返ししておきますね
+"034"	{emote: Happiness}わかりました{Wait for input}	では、{pause 10}{ruby (charSpan 1): あたら}新しい{ruby (charSpan 2): てがみ}手紙の　お{ruby (charSpan 1): とど}届け{ruby (charSpan 1): び}日を	{ruby (charSpan 1): おし}教えてください
+"035"	あら、{pause 10}	おやめに　なるんですね
+"036"	{Blue}{0004-000d-0002-cd00}{ruby (charSpan 1): ねん}年{0004-000e-0002-cd00}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日{Color Reset}に	{emote: Curious}お{ruby (charSpan 1): とど}届けすれば　よろしいですか？{confirmation-02}{000f-0005-0004-0015-0028}	そうでーす	{ruby (charSpan 2): まちが}間違えた！
+"037"	{emote: Happiness}では、{pause 15}もう{ruby (charSpan 2): いちど}一度	おうかがい　しますね
+"038"	はい、{pause 15}{ruby (charSpan 1): たし}確かにお{ruby (charSpan 1): あず}預かりしました{Wait for input}	{emote: Happiness}{ruby (charSpan 2): ほんじつ}本日は　ご{ruby (charSpan 2): りよう}利用ありがとうございました！
+"039"	では、{pause 10}{ruby (charSpan 1): ふる}古い{ruby (charSpan 1): ほう}方は	お{ruby (charSpan 1): かえ}返しいたしますね
+"040"	{emote: Happiness}{ruby (charSpan 2): ほんじつ}本日は　ご{ruby (charSpan 2): りよう}利用ありがとうございました！
+"041"	{emote: Happiness}いらっしゃいませ、{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村　{ruby (charSpan 3): ゆうびんきょく}郵便局へ	ようこそ！{Wait for input}こちらでは　{ruby (charSpan 2): ゆうびん}郵便の{ruby (charSpan 2): うけつけ}受付や、{pause 10}	{ruby (charSpan 2): いりぐち}入口の{ruby (charSpan 1): ちか}近くにある　ATMで	{ruby (charSpan 4): ゆうびんちょきん}郵便貯金が　ご{ruby (charSpan 2): りよう}利用いただけます{Wait for input}{emote: Reset}ただ{pause 5}・{pause 5}・{pause 5}・{pause 15}	あなたは　{ruby (charSpan 2): やくば}役場での{ruby (charSpan 4): そんみんとうろく}村民登録が	{emote: Curious}まだのようですね？{Wait for input}{ruby (charSpan 3): ゆうびんきょく}郵便局を　ご{ruby (charSpan 2): りよう}利用いただくには	{ruby (charSpan 4): そんみんとうろく}村民登録が　{ruby (charSpan 2): ひつよう}必要ですので、{pause 10}	{emote: Happiness}{ruby (charSpan 2): てつづ}手続きを{ruby (charSpan 1): す}済ませて　またお{ruby (charSpan 1): こ}越しください
+"042"	{ruby (charSpan 3): ゆうびんきょく}郵便局を　ご{ruby (charSpan 2): りよう}利用いただくには	まず　{ruby (charSpan 2): やくば}役場での{ruby (charSpan 4): そんみんとうろく}村民登録が	{ruby (charSpan 2): ひつよう}必要なんです{Wait for input}{emote: Happiness}また　{ruby (charSpan 2): てつづ}手続きが{ruby (charSpan 1): す}済んでから、{pause 10}	お{ruby (charSpan 1): こ}越しくださいね
+"043"
+"044"
+"046"	インターネットを{ruby (charSpan 1): つか}使って、{pause 10}	{ruby (charSpan 4): きかんげんてい}期間限定の　{Blue}{ruby (charSpan 2): はいしん}配信プレゼント{Color Reset}を{pause 5}	{emote: Curious}ダウンロード　なさいますか？{confirmation-02}{000f-0005-0004-0015-0028}	ダウンロードする	またにします
+"047"	{Blue}{ruby (charSpan 2): はいしん}配信プレゼント{Color Reset}の　サービスを	ご{ruby (charSpan 2): りよう}利用になる{ruby (charSpan 2): ばあい}場合は、{Wait for input}まず　{ruby (charSpan 1): も}持ち{ruby (charSpan 2): ものらん}物欄に　{ruby (charSpan 1): あ}空きがある{ruby (charSpan 2): じょうたい}状態で	いらしてくださいね
+"048"	{ruby (charSpan 2): はいしん}配信プレゼントの　サービスを	ご{ruby (charSpan 2): りよう}利用いただくためには、{pause 10}{Blue}{ruby (charSpan 2): さいしん}最新の{ruby (charSpan 2): りよう}利用{ruby (charSpan 2): きやく}規約{Color Reset}に{pause 5}	{ruby (charSpan 2): どうい}同意していただく　{ruby (charSpan 2): ひつよう}必要があります{Wait for input}ご{ruby (charSpan 2): りよう}利用をご{ruby (charSpan 2): きぼう}希望の{ruby (charSpan 2): ばあい}場合は、{pause 10}{ruby (charSpan 4): ほんたいせってい}本体設定で{pause 10}	{Blue}インターネット{ruby (charSpan 2): せってい}設定　{pause 5}→　その{ruby (charSpan 1): ほか}他の{ruby (charSpan 2): じょうほう}情報{pause 5}	→　{ruby (charSpan 4): りようきやく}利用規約の{ruby (charSpan 2): かくにん}確認{Color Reset}を{ruby (charSpan 1): えら}選び、{Wait for input}{Blue}{ruby (charSpan 2): さいしん}最新の{ruby (charSpan 2): りよう}利用{ruby (charSpan 2): きやく}規約{Color Reset}に	{ruby (charSpan 2): どうい}同意していただいてから、{pause 10}	{ruby (charSpan 1): あらた}改めて　お{ruby (charSpan 1): こ}越しくださいませ
+"049"	{emote: Worry}あら、{pause 10}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありません{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 1): いま}今　おつなぎのアクセスポイントでは	プレゼントの{ruby (charSpan 2): はいしん}配信が	{ruby (charSpan 1): おこな}行われていないようです{Wait for input}{emote: Reset}またのご{ruby (charSpan 2): りよう}利用{pause 5}　お{ruby (charSpan 1): ま}待ちしております！
+"050"	{emote: Worry}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ございません{Wait for input}	{Blue}{ruby (charSpan 2): はいしん}配信プレゼント{Color Reset}の　サービスは{pause 5}	{ruby (charSpan 2): しゅうりょう}終了いたしました
+"051"	{pause 5}{emote: Alarmed}{pause 10}あら{pause 8}・{pause 8}・{pause 8}・{pause 8}、{Player name}さんには{pause 15}	{ruby (charSpan 2): げんざい}現在の　{Blue}{ruby (charSpan 2): はいしん}配信プレゼント{Color Reset}は	すでに　お{ruby (charSpan 1): くば}配りしているようです{Wait for input}{emote: Happiness}また　{ruby (charSpan 1): つぎ}次の{ruby (charSpan 2): きかい}機会に{pause 5}	ご{ruby (charSpan 2): りよう}利用　くださいね
+"052"	{emote: Happiness}お{ruby (charSpan 1): ま}待たせいたしました{Wait for input}	では、{pause 10}{0011-0003-0002-0000}を	お{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取りください！
+"053"	またのご{ruby (charSpan 2): りよう}利用{pause 5}　お{ruby (charSpan 1): ま}待ちしております！
+"054"	{emote: Worry}あら、{pause 10}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありません{pause 8}・{pause 8}・{pause 8}・{pause 30}	SDカードの{ruby (charSpan 2): しょり}処理に　{ruby (charSpan 2): しっぱい}失敗したため	ご{ruby (charSpan 2): りよう}利用になれないみたいです{Wait for input}{emote: Reset}{ruby (charSpan 2): いちど}一度　ご{ruby (charSpan 2): かくにん}確認いただいた{ruby (charSpan 1): うえ}上で、{pause 5}	{ruby (charSpan 1): あらた}改めて　ご{ruby (charSpan 2): りよう}利用お{ruby (charSpan 1): ま}待ちしております！
+"055"	{emote: Worry}あら、{pause 10}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありません{pause 8}・{pause 8}・{pause 8}・{pause 30}	SDカードが　{ruby (charSpan 1): か}書き{ruby (charSpan 1): こ}込み{ruby (charSpan 2): きんし}禁止のため	ご{ruby (charSpan 2): りよう}利用になれないみたいです{Wait for input}{emote: Reset}{ruby (charSpan 2): いちど}一度　ご{ruby (charSpan 2): かくにん}確認いただいた{ruby (charSpan 1): うえ}上で、{pause 5}	{ruby (charSpan 1): あらた}改めて　ご{ruby (charSpan 2): りよう}利用お{ruby (charSpan 1): ま}待ちしております！
+"056"	{emote: Worry}あら、{pause 10}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありません{pause 8}・{pause 8}・{pause 8}・{pause 30}	SDカードの　{ruby (charSpan 1): あ}空き{ruby (charSpan 2): ようりょう}容量が{ruby (charSpan 1): た}足りないため{pause 5}	{ruby (charSpan 1): いま}今はサービスが　ご{ruby (charSpan 2): りよう}利用できないみたいです{Wait for input}{emote: Reset}{ruby (charSpan 2): いちど}一度　ご{ruby (charSpan 2): かくにん}確認いただいた{ruby (charSpan 1): うえ}上で、{pause 5}	{ruby (charSpan 1): あらた}改めて　ご{ruby (charSpan 2): りよう}利用お{ruby (charSpan 1): ま}待ちしております！
+"057"	{emote: Worry}あら、{pause 10}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありません{pause 8}・{pause 8}・{pause 8}・{pause 30}	{ruby (charSpan 1): いま}今　おつなぎのアクセスポイントの{pause 5}	{ruby (charSpan 4): つうしんじょうたい}通信状態が　よくないみたいです{Wait for input}{emote: Reset}しばらく　たってから、{pause 5}	{ruby (charSpan 1): あらた}改めて　ご{ruby (charSpan 2): りよう}利用お{ruby (charSpan 1): ま}待ちしております！
+"058"
+"059"
+"060"

@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Disbelief}
-"002"	{emote: Anger}
-"003"	{emote: Happiness}
-"004"	{emote: Sigh}
-"005"	{emote: Love}
-"006"	{emote: Happiness}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Soft Smile}
-"010"	{emote: Alarmed}
-"011"	{emote: Surprise}
-"012"	{emote: Soft Smile}
+"001"	{emote: Disbelief}{pause 8}・{pause 8}・{pause 8}・{pause 8}{0011-0003-0002-0000}{000e-000e-000a-0004-c774-c9c0-0002-c9c0}?{pause 16}	당신이 가지고 있는	그거 말이야{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}설마 이런 곳에서	찾게 될 줄이야!{pause 16}	{pause 8}{catchphrase}!	{emote: Alarmed}앗, 미안{pause 4}・{pause 4}・{pause 4}・{pause 32}	{emote: Soft Smile}그 {0011-0003-0002-0000}{pause 16}	내가 오랫동안 찾고 있었거든	{emote: Sheepishness}근데 지금은{pause 16}	별로 가진 게 없네{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Reset}혹시 괜찮다면 내가 가진{pause 16}	{0011-0003-0002-0001}{000e-000e-000a-0004-c774-b791-0002-b791}	바꾸지 않을래?{Player can respond (0005):0005-0015-0004-0028}	그래!	그건 좀 그렇네
+"002"	{emote: Anger}나 소문 다 들었어{pause 8}・{pause 8}・{pause 8}・{pause 8}	당신이 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 16}	가지고 있다며{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 8}	{emote: Surprise}어머! {pause 16}	진짜로 가지고 있네!{Wait for input}{emote: Soft Smile}{Player nickname (green)}～{pause 32}	그 {0011-0003-0002-0000}{pause 16}	나한테 넘기면 안 될까?	{emote: Anger}그냥 달라고는 하지 않을게!{pause 32}	{0011-0003-0002-0001}{000e-000e-000a-0004-c774-b791-0002-b791}{pause 16}	교환하면 어때?{Player can respond (0005):0008-0015-0007-0028}	교환해	싫어
+"003"	{emote: Happiness}있잖아, {Player nickname (green)}!{pause 16}	내가 말이지～ 정말	괜찮은 물건을 손에 넣었거든!	{emote: Reset}뭔지 알아? {pause 8}{catchphrase}?{Wait for input}	{emote: Glare}{0011-0003-0002-0001}{000e-000e-000a-0004-c774-c57c-0002-c57c}!{Wait for input}{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 8}혹시{pause 32}	{emote: Curious}당신도 갖고 싶었어?{pause 32}	{emote: Soft Smile}그렇담 넘길 수도 있는데～{Wait for input}{emote: Anger}그냥은 좀 그렇구{pause 8}・{pause 8}・{pause 8}・{pause 8} 당신의　	{0011-0003-0002-0000}{000e-000e-000a-0004-c774-b791-0002-b791}{pause 16}	교환하는 건 어떨까?{Player can respond (0005):000b-0015-000a-0028}	그러자!	전혀 필요 없는데
+"004"	{emote: Sigh}{pause 60}그래{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Worry}괜찮아 난{pause 8}・{pause 8}・{pause 8}・{pause 8} 어차피	이렇게 될 줄 알고 있었으니까	{emote: Anger}역시 혼자 힘으로	찾아야 하는 거겠지{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 8}{Wait for input}{emote: Glare}멋진 여자는 결코{pause 8}	포기하지 않는 법이라구!
+"005"	{emote: Love}{pause 16}어머, 기뻐～!{pause 16}	역시 {Player nickname (green)}밖에 없네!{Wait for input}{emote: Soft Smile}그럼 당장{pause 16}	교환을 할까{pause 4}・{pause 4}・{pause 4}・{pause 4}?{pause 4}
+"006"	{emote: Happiness}고마워!{pause 16}	덕분에 살았어! {pause 8}{catchphrase}!
+"007"	{emote: Alarmed}어머{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger} 당신 정말	삭막한 사람이었네?{Wait for input}{emote: Worry}그렇담 {pause 16}할 수 없지{pause 8}・{pause 8}・{pause 8}・{pause 8}	다음에 또 봐, {pause 8}{catchphrase}
+"008"	{emote: Alarmed}어머! 정말?{pause 32}	{emote: Happiness}역시 {Player nickname (green)}{000e-000e-000a-0004-c774-c57c-0002-c57c}!{pause 16}	그럼 어서 교환해!
+"009"	{emote: Soft Smile}당신에게 부탁하길 잘했네!{pause 16}	고마워! {pause 8}{catchphrase}!
+"010"	{emote: Alarmed}뭐?! {pause 16}필요 없다구?{Wait for input}{emote: Worry}할 수 없지{pause 8}・{pause 8}・{pause 8}・{pause 8}	{pause 16}나중에 바꾸고 싶어지면	그때 부탁해, {pause 8}{Player nickname (green)}
+"011"	{emote: Surprise}어머, 그래?{pause 32}	{emote: Happiness}그럼 어서{pause 16} 교환하자!
+"012"	{emote: Soft Smile}꽤 괜찮은 거래지?{pause 32}	서로 원하는 걸 얻은 것 같아서	나도 기분이 좋아! {pause 8}{catchphrase}!

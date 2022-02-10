@@ -1,38 +1,38 @@
 == 0 ==
-"001"	그대가 가지고 있는{pause 16}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Sunny}
-"007"	{emote: Showmanship}
-"008"	{emote: Sunny}
-"009"	{emote: Agreement}
-"010"	{0009-0002-0008-0c-00-0c-00-0c-00-0d-00}
-"011"	{0009-0002-0008-0e-00-0e-00-0e-00-0f-00}
-"012"	자{pause 8}
-"013"	자{pause 8}
-"014"	자{pause 8}
-"015"	자{pause 8}
-"016"	{emote: Happiness}
-"017"	{0009-0002-0008-13-00-13-00-14-00-14-00}
-"018"	{0009-0002-0008-15-00-15-00-16-00-16-00}
-"019"	자{pause 8}
-"020"	자{pause 8}
-"021"	자{pause 8}
-"022"	자{pause 8}
-"023"	{emote: Glee}
-"024"	{0009-0002-0008-1a-00-1b-00-1b-00-1b-00}
-"025"	{0009-0002-0008-1c-00-1d-00-1d-00-1d-00}
-"026"	자{pause 8}
-"027"	자{pause 8}
-"028"	자{pause 8}
-"029"	자{pause 8}
-"030"	{0009-0001-0006-20-00-21-00-22-00}
-"031"	{0009-0001-0006-23-00-24-00-25-00}
-"032"	{emote: Soft Smile}
-"033"	{emote: Soft Smile}
-"034"	{emote: Sheepishness}
-"035"	{emote: Sheepishness}
-"036"	{emote: Sheepishness}
-"037"	{emote: Sheepishness}
+"001"	그대가 가지고 있는{pause 16}	그 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 걸고{pause 16}	『{Villager's name (orange)} 게임』 할래?	{0007-000d-0000}{emote: Soft Smile}그대가 이기면{pause 16}	그대의 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 16}	비싸게 사줄게{Player can respond (0005):0007-0015-0002-0028}	할래 할래!	다음에 하자
+"002"	{emote: Worry}아쉽군{pause 8}・{pause 8}・{pause 8}・{pause 8} 그대 마음이 바뀌길{pause 8}	기다릴게, {pause 8}{catchphrase}
+"003"	{emote: Worry}아쉽게도{pause 8}・{pause 8}・{pause 8}・{pause 8} 틀렸어!{Wait for input}	미안하지만 약속대로{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 내가 갖도록 할게
+"004"	{emote: Worry}아쉽게도{pause 8}・{pause 8}・{pause 8}・{pause 8} 틀렸어!{Wait for input}	미안하지만 약속대로{pause 16}	{Blue}{Blue}{Number (0x9)}{Blue}벨{Color Reset}에 내가 갖도록 할게
+"005"	{emote: Worry}아쉽게도{pause 8}・{pause 8}・{pause 8}・{pause 8} 틀렸어!{Wait for input}	{emote: Soft Smile}안타깝다! {pause 16}한 번만 더 맞혔으면	퍼펙트였는데!	{emote: Reset}규칙은 규칙이니까{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 살게
+"006"	{emote: Sunny}언빌리버블!{pause 16}	세 번째도 정답이야!{Wait for input}{emote: Soft Smile}퍼펙트를 기념하며{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 사줄게!
+"007"	{emote: Showmanship}좋아, {pause 16}그럼 바로{pause 8}	규칙을 설명해볼까?	{pause 8}{catchphrase}?{Player can respond (0005):0008-0015-0009-0028}	부탁해	알고 있어!
+"008"	{emote: Sunny}오케이! {pause 32}그럼{pause 16}	규칙을 설명할게{Wait for input}	{emote: Reset}여기에 주사위가 하나 있어{pause 8}・{pause 8}・{pause 8}・{pause 8}	이걸 세 번 던질 텐데{pause 16}	그대는 매번 주사위의 눈이{pause 16}	짝수인지 홀수인지 맞히는 거야	맞히면 맞힐수록{pause 16}	그대는 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}	비싸게 팔 수 있지{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}그치만 틀렸을 경우에는{pause 16}	그 시점에 설정된 가격으로{pause 16}	팔 수밖에 없어!	{emote: Anger}자, {pause 8}우선 첫 번째 주사위야!{Wait for input}	이걸 틀렸을 경우에는{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 팔아야 해!	{emote: Reset}자, {pause 16}{emote: Curious}뭘로 할래?	{pause 8}{catchphrase}?{Player can respond (0000):000a-0000-000b-0000}	짝수	홀수
+"009"	{emote: Agreement}아, {pause 16}전에도 이 게임을	해본 적 있구나?{Wait for input}{emote: Anger}자, {pause 8}우선 첫 번째 주사위야!{Wait for input}	이걸 틀리면{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 팔아야 해!	{emote: Reset}자, {pause 16}{emote: Curious}뭘로 할래?	{pause 8}{catchphrase}?{Player can respond (0000):000a-0000-000b-0000}	짝수	홀수
+"010"	{0009-0002-0008-000c-000c-000c-000d}
+"011"	{0009-0002-0008-000e-000e-000e-000f}
+"012"	자{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 16}	첫 번째 주사위는{pause 16}	과연 뭐가 나올까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}나왔다!{pause 32}	{emote: Soft Smile}주사위의 눈은 {Number (0x9)}!{pause 32}	짝수가 정답이야!
+"013"	자{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 16}	첫 번째 주사위는{pause 16}	과연 뭐가 나올까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}나왔다!{pause 32}	{emote: Soft Smile}주사위의 눈은 {Number (0x9)}!{pause 32}	홀수가 정답이야!
+"014"	자{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 16}	첫 번째 주사위는{pause 16}	과연 뭐가 나올까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}나왔다!{pause 32}	{emote: Soft Smile}주사위의 눈은 {Number (0x9)}!{pause 32}	홀수가 정답이야!
+"015"	자{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 16}	첫 번째 주사위는{pause 16}	과연 뭐가 나올까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}나왔다!{pause 32}	{emote: Soft Smile}주사위의 눈은 {Number (0x9)}!{pause 32}	짝수가 정답이야!
+"016"	{emote: Happiness}잘하는데?{pause 32}	첫 번째는 정답이야!{Wait for input}{emote: Anger}자, 그럼 {pause 16}이어서 두 번째!{pause 32}	이번에 틀리면{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 팔아야 해!	{emote: Reset}자, {pause 16}{emote: Curious}뭘로 할래?	{pause 8}{catchphrase}?{Player can respond (0000):0011-0000-0012-0000}	짝수	홀수
+"017"	{0009-0002-0008-0013-0013-0014-0014}
+"018"	{0009-0002-0008-0015-0015-0016-0016}
+"019"	자{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 16}	두 번째 주사위는{pause 16}	과연 뭐가 나올까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}나왔다!{pause 32}	{emote: Soft Smile}주사위의 눈은 {Number (0x9)}!{pause 32}	짝수가 정답이야!
+"020"	자{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 16}	두 번째 주사위는{pause 16}	과연 뭐가 나올까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}나왔다!{pause 32}	{emote: Soft Smile}주사위의 눈은 {Number (0x9)}!{pause 32}	홀수가 정답이야!
+"021"	자{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 16}	두 번째 주사위는{pause 16}	과연 뭐가 나올까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}나왔다!{pause 32}	{emote: Soft Smile}주사위의 눈은 {Number (0x9)}!{pause 32}	홀수가 정답이야!
+"022"	자{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 16}	두 번째 주사위는{pause 16}	과연 뭐가 나올까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}나왔다!{pause 32}	{emote: Soft Smile}주사위의 눈은 {Number (0x9)}!{pause 32}	짝수가 정답이야!
+"023"	{emote: Glee}대단한데!{pause 32}	두 번째도 정답이야!{Wait for input}	{emote: Anger}자, 그럼 {pause 16}마지막 세 번째!	이번에 틀리면{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 팔아야 해!{pause 32}	{emote: Reset}자, {pause 16}{emote: Curious}뭘로 할래?{Player can respond (0000):0018-0000-0019-0000}	짝수	홀수
+"024"	{0009-0002-0008-001a-001b-001b-001b}
+"025"	{0009-0002-0008-001c-001d-001d-001d}
+"026"	자{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 16}	세 번째 주사위는{pause 16}	과연 뭐가 나올까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}나왔다!{pause 32}	{emote: Soft Smile}주사위의 눈은 {Number (0x9)}!{pause 32}	짝수가 정답이야!
+"027"	자{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 16}	세 번째 주사위는{pause 16}	과연 뭐가 나올까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}나왔다!{pause 32}	{emote: Soft Smile}주사위의 눈은 {Number (0x9)}!{pause 32}	홀수가 정답이야!
+"028"	자{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 16}	세 번째 주사위는{pause 16}	과연 뭐가 나올까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}나왔다!{pause 32}	{emote: Soft Smile}주사위의 눈은 {Number (0x9)}!{pause 32}	홀수가 정답이야!
+"029"	자{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 16}	세 번째 주사위는{pause 16}	과연 뭐가 나올까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}나왔다!{pause 32}	{emote: Soft Smile}주사위의 눈은 {Number (0x9)}!{pause 32}	짝수가 정답이야!
+"030"	{0009-0001-0006-0020-0021-0022}
+"031"	{0009-0001-0006-0023-0024-0025}
+"032"	{emote: Soft Smile}{0011-0003-0002-0000}{000e-000e-0008-0002-c740-0002-b294}{pause 8}	{emote: Glare}그대의 분신이라 생각하고{pause 32}	잘 쓰도록 할게!
+"033"	{emote: Soft Smile}이런 걸로 토라지지 말고{pause 16}	다음에 또 놀아줘!	{pause 8}{catchphrase}!
+"034"	{emote: Sheepishness}그대의 도전은 {pause 8}몇 번이고 받아줄게,	{pause 8}{catchphrase}
+"035"	{emote: Sheepishness}그대의 승부사 기질은	{pause 16}정말 존경스러운걸, {pause 8}{catchphrase}
+"036"	{emote: Sheepishness}그대의 날카로운 감에는{pause 16}	못 당하겠다, {pause 8}{catchphrase}
+"037"	{emote: Sheepishness}설마 그대가{pause 16}	이 정도일 줄이야{pause 8}・{pause 8}・{pause 8}・	{pause 8}{catchphrase}

@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Greetings}
-"003"	{emote: Greetings}
-"004"	{emote: Alarmed}
-"005"	{emote: Surprise}
+"001"	{emote: Alarmed}{0007-000b-0000}えぇ？！{pause 20}　{Player name}？！{Wait for input}{emote: Thought}オマエが　こんなところにいるなんて、{pause 20}	オイラ　ユメでも{ruby (charSpan 1): み}見てんのかなー{Wait for input}{emote: Anger}ヨッシャー！{pause 40}	{ruby (charSpan 1): おも}思いっきり　ほっぺたつねって	たしかめてみるか、{pause 8}{catchphrase}
+"002"	{emote: Greetings}よぉ！{pause 8}　{Player name}！{pause 20}	こんなところで　めずらしいじゃん！{Wait for input}{emote: Glare}もしかして　ねぼけて	ここに　たどり{ruby (charSpan 1): つ}着いたのかー？{Wait for input}{emote: Laughter}オマエって　{ruby (charSpan 1): まえ}前から	どっか　ぬけてるところが	あったよな、{pause 8}{catchphrase}！{pause 20}{emote: Happiness}
+"003"	{emote: Greetings}オーッス！{pause 8}　{Player name}！{pause 40}	ちゃんと　キントレしてるか？{Wait for input}{emote: Anger}オイラは　いつでも　どこでも	トレーニング{ruby (charSpan 1): ちゅう}中！{Wait for input}{emote: Laughter}これで　ますます	ムキムキだー、{pause 8}{catchphrase}{pause 20}{emote: Happiness}
+"004"	{emote: Alarmed}{0007-000a-0000}おー！{pause 8}　{Player name}！{pause 40}	{emote: Happiness}こんなところで　{ruby (charSpan 1): あ}会うなんて、{pause 20}	キセキだ！　キセキ、{pause 8}{catchphrase}！
+"005"	{emote: Surprise}{0007-000a-0000}おー！{pause 8}　{Player name}！{pause 40}	{emote: Soft Smile}こんなところで　{ruby (charSpan 1): あ}会うなんて、{pause 20}	ぐうぜんだな、{pause 8}{catchphrase}

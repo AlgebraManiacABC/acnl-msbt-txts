@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Sheepishness}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Soft Smile}
-"007"	{emote: Reset}
-"008"	{emote: Soft Smile}
-"009"	{emote: Sunny}
-"010"	{emote: Soft Smile}
-"011"	{emote: Sunny}
+"001"	{emote: Alarmed}ちょっと　ちょっと！{pause 20}	アンタ、{ruby (charSpan 1): なに}何　ひっぱり{ruby (charSpan 1): だ}出してんの！{pause 8}		{emote: Reset}あー、{pause 8}{0011-0003-0002-0000}か{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}これ　もう{ruby (charSpan 1): つか}使ってないし、	なんだったら　あげよっか？{000f-0005-0004-0015-0028}	もらう！	いらないです
+"002"	{emote: Sheepishness}いやー、アンタ{pause 8}・{pause 8}・{pause 8}・{pause 20}	むちゃくちゃだね？{pause 20}	{ruby (charSpan 1): ひと}人んちの　タンスひっかきまわして！{pause 40}{emote: Reset}	{emote: Soft Smile}なんなら　その	{0011-0003-0002-0000}、	{ruby (charSpan 1): も}持ってっても　いいよ？{000f-0005-0004-0015-0028}	もらう！	いらないです
+"003"	{emote: Alarmed}えっ？！　{pause 20}なに？	{pause 8}その　{0011-0003-0002-0000}？！		{emote: Reset}いやー、{pause 8}よく{ruby (charSpan 1): み}見つけたね！{pause 40}	{emote: Curious}{ruby (charSpan 1): ほ}欲しけりゃ　あげるけど？{000f-0005-0004-0015-0028}	もらう！	いらないです
+"004"	{emote: Alarmed}ちょっと　{Player nickname (green)}！{pause 40}	{emote: Anger}そういう{ruby (charSpan 2): ばしょ}場所は、{ruby (charSpan 2): ひとこと}一言	{ruby (charSpan 1): ことわ}断ってから　{ruby (charSpan 1): あ}開けるもんだよ！	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Curious}その　{0011-0003-0002-0000}、	{ruby (charSpan 1): ほ}欲しいのかい？{000f-0005-0004-0015-0028}	{ruby (charSpan 1): ほ}欲しい！	いらないです
+"005"	{emote: Alarmed}おー！{pause 20}	{0011-0003-0002-0000}じゃん！{pause 40}	{emote: Reset}よく　こんなもん　{ruby (charSpan 1): み}見つけたね！	{emote: Agreement}{ruby (charSpan 1): ほ}欲しいヤツいたら　あげようと{ruby (charSpan 1): おも}思って	とっておいたんだ！{Wait for input}	{emote: Curious}アンタ、いるかい？{000f-0005-0004-0015-0028}	いる！	いらないです
+"006"	{emote: Soft Smile}はは{pause 8}・{pause 8}・{pause 8}・{pause 20}うん、{pause 8}	そう　{ruby (charSpan 1): い}言うと{ruby (charSpan 1): おも}思った！　{pause 20}{catchphrase}！
+"007"	{emote: Reset}あれ？{pause 20}　そう？{pause 40}	{emote: Agreement}そんじゃ、{ruby (charSpan 1): もと}元に　もどしておいてよ！	{pause 20}{catchphrase}！
+"008"	{emote: Soft Smile}あはは{pause 8}・{pause 8}・{pause 8}・{pause 20}まぁ	そうだろうね！{pause 20}　{catchphrase}！
+"009"	{emote: Sunny}よし！{pause 10}	そんじゃ、{pause 8}そのまま　{ruby (charSpan 1): も}持ってきな！	{pause 20}{catchphrase}！
+"010"	{emote: Soft Smile}いいよー！{pause 8}	{ruby (charSpan 1): も}持ってって！　{pause 20}{catchphrase}！
+"011"	{emote: Sunny}よかった！{pause 20}	{emote: Soft Smile}そんじゃ、{pause 8}そのまま	{ruby (charSpan 1): も}持っていきな！　{pause 20}{catchphrase}！

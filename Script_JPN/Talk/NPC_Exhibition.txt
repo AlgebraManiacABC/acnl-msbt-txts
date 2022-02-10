@@ -1,81 +1,81 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{pause 5}
-"004"	{pause 5}
-"005"	{emote: Happiness}
-"006"	{ruby (charSpan 4): とうてんじじょう}当展示場では、{pause 10}
-"007"	こちらで　{Blue}すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}を	{ruby (charSpan 2): せってい}設定していただきますと、{0000-0004-0000}
-"008"	{pause 8}
-"009"	{emote: Thought}
-"010"	{emote: Sunny}
-"011"	{pause 5}
-"012"	{emote: Sunny}
-"013"	{emote: Happiness}
-"014"	あいにく、{pause 10}
-"015"	{emote: Thought}
-"016"	
-"017"	{ruby (charSpan 3): てんじじょう}展示場を　ご{ruby (charSpan 2): りよう}利用いただくためには	{Blue}すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}を	{ruby (charSpan 2): とうろく}登録していただく{ruby (charSpan 2): ひつよう}必要が　ございます{0000-0004-0000}
-"018"	
-"019"	{ruby (charSpan 3): てんじじょう}展示場を　ご{ruby (charSpan 2): りよう}利用いただくために{pause 10}
-"020"	あっ！{pause 10}
-"021"	{emote: Happiness}
-"022"	{emote: Sunny}
-"023"	{pause 8}
-"024"	{emote: Sunny}
-"025"	{emote: Sunny}
-"026"	
-"027"	{0007-0004-0000}
-"028"	{emote: Thought}
-"029"	{emote: Happiness}
-"031"	{pause 8}
-"032"	まず、{pause 10}
-"033"	{emote: Reset}
-"034"	{emote: Thought}
-"035"	{emote: Reset}
-"036"	
-"037"	{emote: Happiness}
-"038"	{emote: Happiness}
-"039"	{emote: Happiness}
-"041"	{emote: Happiness}
-"042"	そうでございますか{Wait for input}
-"043"	{emote: Happiness}
-"044"	{ruby (charSpan 2): げんざい}現在　この　{Town name (pink)}!
-"045"	この{ruby (charSpan 1): むら}村の　{ruby (charSpan 1): ほか}他の{ruby (charSpan 3): かいいんさま}会員様のお{ruby (charSpan 1): たく}宅を	{ruby (charSpan 2): しょうかい}紹介されたい{ruby (charSpan 2): ばあい}場合は、{0000-0004-0000}
-"046"	{emote: Thought}
-"047"	かしこまりました！{Wait for input}
-"048"	かしこまりました！{Wait for input}
-"049"	{emote: Sunny}
-"050"	
-"051"	
-"052"	
-"053"	{ruby (charSpan 1): なに}何について、{pause 10}!
-"054"	{ruby (charSpan 1): ほか}他のことについても、{pause 10}
-"055"	それぞれの{ruby (charSpan 1): むら}村からは、{pause 10}
-"056"	{ruby (charSpan 4): とうてんじじょう}当展示場には　{ruby (charSpan 2): さいだい}最大で	48{ruby (charSpan 1): けん}軒のモデルハウスを　{ruby (charSpan 2): てんじ}展示する	スペースが　ございます！{0000-0004-0000}
-"057"	{emote: Happiness}
-"058"	{emote: Worry}
-"059"	
-"061"	{pause 5}
-"062"	{pause 5}
-"063"	{pause 5}
-"064"	
-"065"	
-"066"	
-"067"	
-"068"	
-"069"	
-"071"	{pause 5}
-"072"	
-"073"	{emote: Happiness}
-"074"	{emote: Happiness}
-"075"	
-"076"	
-"077"	
-"078"	{pause 8}
-"079"	{ruby (charSpan 2): さいしん}最新の{ruby (charSpan 4): りようきやく}利用規約に	{ruby (charSpan 2): どうい}同意していただかないと、{pause 5}
-"081"	{pause 8}
-"082"	{pause 8}
-"083"	{pause 8}
-"084"	{pause 8}
-"085"	
+"001"	{emote: Happiness}{Town name (pink)}{ruby (charSpan 1): むら}村、{pause 10}	{Blue}ハッピーホーム{ruby (charSpan 3): てんじじょう}展示場{Color Reset}へ{pause 5}　{emote: Sunny}ようこそ！{pause 10}{emote: Happiness}{Wait for input}{ruby (charSpan 2): けんがく}見学を　ご{ruby (charSpan 2): きぼう}希望の{pause 5}	{emote: Curious}お{ruby (charSpan 2): きゃくさま}客様でしょうか？{000f-0005-0004-0015-0028}	はーい！	{ruby (charSpan 1): ちが}違います
+"002"	{emote: Happiness}ようこそ、{pause 10}{Player name}{ruby (charSpan 1): さま}様！{Wait for input}	ハッピーホーム{ruby (charSpan 3): てんじじょう}展示場の	{ruby (charSpan 2): けんがく}見学を　ご{ruby (charSpan 2): きぼう}希望でしょうか？{000f-0005-0004-0015-0028}	はーい！	{ruby (charSpan 1): ちが}違います
+"003"	{pause 5}{emote: Shocked}{pause 5}あっ、{pause 10}{ruby (charSpan 1): ちが}違いましたか！{pause 20}	{emote: Mistaken}それは{ruby (charSpan 2): たいへん}大変　{ruby (charSpan 2): しつれい}失礼いたしましたっ！{Wait for input}{emote: Happiness}ではまた　{ruby (charSpan 4): とうてんじじょう}当展示場にご{ruby (charSpan 1): よう}用の{ruby (charSpan 1): さい}際は{pause 10}	わたくしに　{ruby (charSpan 1): こえ}声をおかけください！
+"004"	{pause 5}{emote: Shocked}{pause 5}あっ、{pause 10}{ruby (charSpan 1): ちが}違いましたか！{pause 20}	{emote: Mistaken}それは{ruby (charSpan 2): たいへん}大変　{ruby (charSpan 2): しつれい}失礼いたしましたっ！{Wait for input}{emote: Reset}わたくしは　ここのスタッフですので、{pause 10}	{emote: Happiness}{ruby (charSpan 4): とうてんじじょう}当展示場に　ご{ruby (charSpan 1): よう}用の{ruby (charSpan 1): さい}際は{pause 5}	お{ruby (charSpan 1): こえ}声をかけてください！
+"005"	{emote: Happiness}では、{pause 10}お{ruby (charSpan 2): なまえ}名前を	ちょうだい　いたしますね！{Wait for input}	{emote: Thought}え～っと{pause 10}・{pause 10}・{pause 10}・　
+"006"	{ruby (charSpan 4): とうてんじじょう}当展示場では、{pause 10}ハッピーホームアカデミー	{ruby (charSpan 3): かいいんさま}会員様の　お{ruby (charSpan 1): す}住まいを	モデルハウスとして　{ruby (charSpan 2): てんじ}展示いたします！
+"007"	こちらで　{Blue}すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}を	{ruby (charSpan 2): せってい}設定していただきますと、{Wait for input}{ruby (charSpan 5): かいいんさまどうし}会員様同士が　すれちがった{ruby (charSpan 1): さい}際に{pause 5}	{Blue}すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}で	{ruby (charSpan 2): ひつよう}必要な{ruby (charSpan 2): じょうほう}情報が{ruby (charSpan 2): こうかん}交換され、	{emote: Happiness}それぞれの{ruby (charSpan 3): てんじじょう}展示場に	モデルハウスが　{ruby (charSpan 2): てんじ}展示されたり、{Wait for input}お{ruby (charSpan 2): きゃくさま}客様の{ruby (charSpan 2): ぶんしん}分身が　{ruby (charSpan 3): てんじじょう}展示場に	{ruby (charSpan 2): とうじょう}登場するようになります！{Wait for input}{emote: Reset}また、{pause 10}その{ruby (charSpan 1): さい}際は　お{ruby (charSpan 1): うち}家の{ruby (charSpan 1): なか}中に{ruby (charSpan 1): かざ}飾られたり、{pause 5}	{ruby (charSpan 1): み}身に{ruby (charSpan 1): つ}着けられている　{Blue}マイデザイン{Color Reset}、{pause 10}	ソパカの{ruby (charSpan 2): じょうほう}情報やコメントも　{ruby (charSpan 2): こうかい}公開されます
+"008"	{pause 8}・{pause 8}・{pause 8}・{pause 8}というわけで、{pause 10}	{emote: Sunny}さっそくですが！{Wait for input}{emote: Reset}この　{Blue}ニンテンドー3DS{ruby (charSpan 2): ほんたい}本体{Color Reset}に　{Green}とびだせ	どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Color Reset}の{Blue}すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}を	{ruby (charSpan 2): とうろく}登録して　{emote: Curious}よろしいでしょうか？{confirmation-02}{000f-0005-0004-0015-0028}	オッケー！	ダメ
+"009"	{emote: Thought}そうですか{pause 10}・{pause 10}・{pause 10}・{Wait for input}{emote: Reset}{ruby (charSpan 2): ざんねん}残念ながら、{pause 10}すれちがい{ruby (charSpan 2): つうしん}通信を	ご{ruby (charSpan 2): りよう}利用いただかないと　{ruby (charSpan 3): てんじじょう}展示場へは	{ruby (charSpan 2): にゅうじょう}入場していただけないんです{Wait for input}また　{ruby (charSpan 1): き}気が{ruby (charSpan 1): か}変わられましたら、{pause 10}	{emote: Happiness}お{ruby (charSpan 1): こえ}声をかけてください！
+"010"	{emote: Sunny}{pause 5}ありがとうございます！{pause 20}	{emote: Happiness}では、{pause 5}{ruby (charSpan 2): てつづ}手続きいたしますね！
+"011"	{pause 5}{emote: Alarmed}{pause 10}あっ{pause 5}・{pause 5}・{pause 5}・{pause 5}！{pause 25}	{emote: Mistaken}お{ruby (charSpan 2): きゃくさま}客様、{pause 10}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ございませ～ん！{Wait for input}{emote: Worry}どうやら　お{ruby (charSpan 2): きゃくさま}客様の{Blue}{ruby (charSpan 2): ほんたい}本体{Color Reset}には	これ{ruby (charSpan 2): いじょう}以上　{Blue}すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}を	{ruby (charSpan 2): とうろく}登録できないみたいです{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}{ruby (charSpan 3): てんじじょう}展示場を　ご{ruby (charSpan 2): りよう}利用されたい{ruby (charSpan 2): ばあい}場合は{pause 5}	お{ruby (charSpan 2): てすう}手数おかけしますが、{Wait for input}{Blue}{ruby (charSpan 4): ほんたいせってい}本体設定{Color Reset}の　{Blue}すれちがい{ruby (charSpan 4): つうしんかんり}通信管理{Color Reset}で	{ruby (charSpan 1): ほか}他のタイトルの　すれちがい{ruby (charSpan 2): つうしん}通信を	やめるなどしてから、{pause 10}{emote: Happiness}またお{ruby (charSpan 1): こ}越しください！
+"012"	{emote: Sunny}はい！{pause 10}　お{ruby (charSpan 1): ま}待たせしました！{emote: Happiness}{Wait for input}	これで　ただいまより、{pause 10}{Blue}すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}で	{ruby (charSpan 2): じょうほう}情報が{ruby (charSpan 2): こうかん}交換されるようになります！{Wait for input}{emote: Happiness}このゲームを{ruby (charSpan 2): しゅうりょう}終了しても	すれちがい{ruby (charSpan 2): つうしん}通信は　{ruby (charSpan 2): じどう}自動で{ruby (charSpan 1): おこな}行われますので{pause 10}	ご{ruby (charSpan 2): あんしん}安心くださいね	{emote: Reset}{ruby (charSpan 2): じっさい}実際に　すれちがい{ruby (charSpan 2): つうしん}通信が{ruby (charSpan 1): おこな}行われましたら{pause 5}	{Blue}ニンテンドー3DS{ruby (charSpan 2): ほんたい}本体{Color Reset}の　おしらせにて	ご{ruby (charSpan 2): あんない}案内いたしますので、{pause 10}{emote: Happiness}お{ruby (charSpan 1): たの}楽しみに！
+"013"	{emote: Happiness}それでは、{pause 10}{ruby (charSpan 1): はじ}初めに　{ruby (charSpan 4): とうてんじじょう}当展示場について	{ruby (charSpan 2): かんたん}簡単に　ご{ruby (charSpan 2): せつめい}説明いたしますね{Wait for input}{emote: Reset}{ruby (charSpan 4): とうてんじじょう}当展示場では、{pause 10}ハッピーホームアカデミー	{ruby (charSpan 3): かいいんさま}会員様の　お{ruby (charSpan 1): す}住まいを{ruby (charSpan 2): さいげん}再現した	モデルハウスを　ご{ruby (charSpan 2): けんがく}見学いただけます！{Wait for input}{ruby (charSpan 5): かいいんさまどうし}会員様同士の　{ruby (charSpan 2): じょうほう}情報は	{Blue}すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}で	{ruby (charSpan 2): こうかん}交換されておりまして{pause 8}・{pause 8}・{pause 8}・	{emote: Happiness}その{ruby (charSpan 2): じょうほう}情報を{ruby (charSpan 1): もと}元に、{pause 10}	それぞれの{ruby (charSpan 3): てんじじょう}展示場に	モデルハウスが　{ruby (charSpan 2): てんじ}展示されたり、{Wait for input}お{ruby (charSpan 2): きゃくさま}客様の{ruby (charSpan 2): ぶんしん}分身が　{ruby (charSpan 3): てんじじょう}展示場に	{ruby (charSpan 2): とうじょう}登場したり　いたします！
+"014"	あいにく、{pause 10}{ruby (charSpan 1): いま}今はまだ	{ruby (charSpan 1): ほか}他の{ruby (charSpan 3): かいいんさま}会員様の{ruby (charSpan 2): じょうほう}情報が　{ruby (charSpan 1): とど}届いておらず、{pause 10}	モデルハウスの{ruby (charSpan 2): てんじ}展示が　ございません	モデルハウスの{ruby (charSpan 2): てんじ}展示が　{ruby (charSpan 1): はじ}始まりましたら{pause 5}	{Blue}ニンテンドー3DS{ruby (charSpan 2): ほんたい}本体{Color Reset}の　おしらせにて	ご{ruby (charSpan 2): あんない}案内いたしますので、{pause 10}{emote: Happiness}お{ruby (charSpan 1): たの}楽しみに！
+"015"	{emote: Thought}そうですねぇ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{pause 5}{emote: Happiness}{pause 10}まずは　とにかく{pause 5}	{ruby (charSpan 1): み}見ていただいた{ruby (charSpan 1): ほう}方が　{ruby (charSpan 1): はや}早いですよね！{Wait for input}では、{pause 10}ご{ruby (charSpan 2): あんない}案内いたしますので{pause 5}	どうぞ　こちらへ！
+"016"
+"017"	{ruby (charSpan 3): てんじじょう}展示場を　ご{ruby (charSpan 2): りよう}利用いただくためには	{Blue}すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}を	{ruby (charSpan 2): とうろく}登録していただく{ruby (charSpan 2): ひつよう}必要が　ございます{Wait for input}この　{Blue}ニンテンドー3DS{ruby (charSpan 2): ほんたい}本体{Color Reset}に	{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Color Reset}の	すれちがい{ruby (charSpan 2): つうしん}通信を{pause 5}　{emote: Curious}{ruby (charSpan 2): とうろく}登録なさいますか？{confirmation-02}{000f-0005-0004-0015-0028}	オッケー！	ダメ
+"018"
+"019"	{ruby (charSpan 3): てんじじょう}展示場を　ご{ruby (charSpan 2): りよう}利用いただくために{pause 10}	{Blue}すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}を　{ruby (charSpan 2): りよう}利用させていただいて{pause 5}	{emote: Curious}よろしいですか？{confirmation-02}{000f-0005-0004-0015-0028}	オッケー！	ダメ
+"020"	あっ！{pause 10}　はい！{pause 20}	{ruby (charSpan 3): さいにゅうじょう}再入場を　{emote: Curious}ご{ruby (charSpan 2): きぼう}希望でしょうか？{000f-0005-0004-0015-0028}	{ruby (charSpan 1): はい}入る	やめとく
+"021"	{emote: Happiness}わかりました{Wait for input}	それでは、{pause 10}またの　ご{ruby (charSpan 2): らいじょう}来場を	お{ruby (charSpan 1): ま}待ちしております！
+"022"	{emote: Sunny}かしこまりました！{Wait for input}	{emote: Happiness}それでは、{pause 10}どうぞ　こちらへ！
+"023"	{pause 8}・{pause 8}・{pause 8}・{pause 8}というわけで、{pause 5}さっそくですが	{Blue}すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}を　{ruby (charSpan 2): りよう}利用させていただいて{pause 5}	{emote: Curious}よろしいでしょうか？{confirmation-02}{000f-0005-0004-0015-0028}	オッケー！	ダメ
+"024"	{emote: Sunny}はい！{pause 10}	ご{ruby (charSpan 2): りよう}利用ありがとうございます！{Wait for input}{emote: Reset}モデルハウスの{ruby (charSpan 2): てんじ}展示が　{ruby (charSpan 1): はじ}始まりましたら{pause 5}	{Blue}ニンテンドー3DS{ruby (charSpan 2): ほんたい}本体{Color Reset}の　おしらせにて	ご{ruby (charSpan 2): あんない}案内いたしますので、{pause 10}{emote: Happiness}お{ruby (charSpan 1): たの}楽しみに！
+"025"	{emote: Sunny}かしこまりました！{pause 30}	　　　　　　　　　　{pause 8}・{pause 8}・{pause 8}・{pause 10}{emote: Alarmed}{pause 25}あっ！{Wait for input}{emote: Reset}そういえば　{Player name}{ruby (charSpan 1): さま}様は、	{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Color Reset}になって	{emote: Curious}{pause 8}{ruby (charSpan 1): はじ}初めての　ご{ruby (charSpan 2): にゅうじょう}入場では？{Wait for input}{emote: Reset}この{ruby (charSpan 3): てんじじょう}展示場も、{ruby (charSpan 2): こんご}今後は	{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Color Reset}の	お{ruby (charSpan 4): きゃくさまどうし}客様同士だけで　{ruby (charSpan 2): じょうほう}情報を{ruby (charSpan 2): こうかん}交換しますので…{Wait for input}{emote: Sunny}あらかじめ、{pause 8}ご{ruby (charSpan 2): しょうち}承知おきくださいね！	{emote: Happiness}それでは、{pause 10}どうぞ　こちらへ！
+"026"
+"027"	{0007-0004-0000}{emote: Happiness}はいっ！{pause 10}	{Player name}{ruby (charSpan 1): さま}様{pause 10}・{pause 10}・{pause 10}・{pause 10}{emote: Inspired}{pause 10}{Text size 75%}あっ！{0007-0005-0000}{Wait for input}{emote: Reset}{Text size 100%}ということは、{pause 5}あなたが	{Text size 75%}{Text size 100%}{Town name (pink)}{ruby (charSpan 1): むら}村の　{ruby (charSpan 2): そんちょう}村長さんですね！{Wait for input}{emote: Sunny}いつも　{ruby (charSpan 1): あね}姉がお{ruby (charSpan 2): せわ}世話になっています！{Wait for input}	{emote: Happiness}ボク、{pause 10}あなたの{ruby (charSpan 2): ひしょ}秘書をしている	{Orange}しずえ{Color Reset}の　{ruby (charSpan 1): おとうと}弟なんです！{emote: Reset}{Wait for input}っと、{pause 10}{emote: Alarmed}{pause 10}すみません！{pause 15}	{emote: Sheepishness}うれしくて　つい、{pause 5}{ruby (charSpan 2): よけい}余計な{ruby (charSpan 1): はなし}話を	してしまいました{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"028"	{emote: Thought}えっと{pause 5}それでは{pause 8}・{pause 8}・{pause 8}・
+"029"	{emote: Happiness}はいっ！{pause 10}	{Player name}{ruby (charSpan 1): さま}様ですね！
+"031"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): あらた}改めまして、{pause 10}	{Blue}ハッピーホーム{ruby (charSpan 3): てんじじょう}展示場{Color Reset}への	ご{ruby (charSpan 2): らいじょう}来場{pause 5}　{emote: Sunny}ありがとうございます！{Wait for input}{emote: Reset}{Player name}{ruby (charSpan 1): さま}様は　{ruby (charSpan 2): こんかい}今回が{ruby (charSpan 1): はじ}初めての	ご{ruby (charSpan 2): けんがく}見学ですので、{pause 10}{ruby (charSpan 2): じょうない}場内について	{ruby (charSpan 1): すこ}少し　ご{ruby (charSpan 2): せつめい}説明させていただきますね
+"032"	まず、{pause 10}こちらは	エントランスと　なっております{Wait for input}ここから　{ruby (charSpan 2): さゆう}左右と{ruby (charSpan 1): おく}奥にございます、{pause 5}	3つの{ruby (charSpan 2): てんじ}展示エリアへ	{ruby (charSpan 2): いどう}移動していただけます{Wait for input}{emote: Happiness}{ruby (charSpan 2): じょうない}場内の　くわしい{ruby (charSpan 2): ちず}地図は{pause 5}	{Blue}{ruby (charSpan 3): したがめん}下画面{Color Reset}で　ご{ruby (charSpan 2): かくにん}確認ください！
+"033"	{emote: Reset}{ruby (charSpan 2): じょうない}場内の　モデルハウスは{ruby (charSpan 1): すべ}全て	{ruby (charSpan 2): じゆう}自由に　ご{ruby (charSpan 2): けんがく}見学していただけます{Wait for input}また、{pause 10}モデルハウス{ruby (charSpan 1): ない}内の{ruby (charSpan 2): かぐ}家具は	{ruby (charSpan 3): ひばいひん}非売品のものを{ruby (charSpan 1): のぞ}除き{pause 10}	{ruby (charSpan 1): すべ}全て{pause 5}{emote: Happiness}　お{ruby (charSpan 1): か}買い{ruby (charSpan 1): もと}求めいただけます！{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): ざんねん}残念ながら{pause 5}　ふつうのお{ruby (charSpan 1): みせ}店よりは	{ruby (charSpan 1): すこ}少し　{ruby (charSpan 2): わりだか}割高になりますが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}その{ruby (charSpan 1): か}代わり、{pause 10}この{ruby (charSpan 1): むら}村では	あまり{ruby (charSpan 1): み}見かけないような　めずらしい{ruby (charSpan 1): もの}物が{pause 5}	{ruby (charSpan 1): て}手に{ruby (charSpan 1): はい}入るチャンスも　{ruby (charSpan 1): おお}多いですよ！{Wait for input}{emote: Reset}{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入った{ruby (charSpan 1): もの}物が　ございましたら	モデルハウス{ruby (charSpan 1): ない}内で　ご{ruby (charSpan 2): ちゅうもん}注文くだされば、{pause 10}	{ruby (charSpan 2): ごじつ}後日　{ruby (charSpan 2): ゆうそう}郵送いたしますね！
+"034"	{emote: Thought}あと、{pause 10}{ruby (charSpan 2): さいご}最後に	{ruby (charSpan 2): だいじ}大事なことを　ひとつ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{ruby (charSpan 1): まん}万が{ruby (charSpan 1): いち}一、{pause 10}{ruby (charSpan 2): じょうない}場内で　{ruby (charSpan 3): ふしんしゃ}不審者や	{ruby (charSpan 2): てんじ}展示にふさわしくない　モデルハウスを	{ruby (charSpan 1): み}見かけられましたら{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}お{ruby (charSpan 2): てすう}手数ですが、{pause 10}	{ruby (charSpan 3): ふしんしゃ}不審者を{ruby (charSpan 1): よ}呼び{ruby (charSpan 1): と}止めて　{ruby (charSpan 1): お}追い{ruby (charSpan 1): だ}出すか、{Wait for input}モデルハウス{ruby (charSpan 1): ない}内より、{pause 10}	{ruby (charSpan 2): てんじ}展示の{ruby (charSpan 1): と}取りやめを　お{ruby (charSpan 1): もう}申し{ruby (charSpan 1): つ}付けください{Wait for input}{emote: Happiness}そうしましたら　あとは　こちらで	すぐに{ruby (charSpan 2): たいおう}対応いたしますので！
+"035"	{emote: Reset}{ruby (charSpan 2): せつめい}説明は　{ruby (charSpan 2): いじょう}以上になります！{Wait for input}	{emote: Happiness}では{pause 5}　ごゆっくり	お{ruby (charSpan 1): たの}楽しみくださいませ！
+"036"
+"037"	{emote: Happiness}それでは{pause 5}　ごゆっくり	ご{ruby (charSpan 2): けんがく}見学くださいませ！
+"038"	{emote: Happiness}リニューアルされた	モデルハウスも　ございますので、{pause 10}	ごゆっくり　お{ruby (charSpan 1): たの}楽しみください！
+"039"	{emote: Happiness}{ruby (charSpan 1): あたら}新しいモデルハウスも	{ruby (charSpan 2): てんじ}展示してございますので、{pause 10}	ごゆっくり　お{ruby (charSpan 1): たの}楽しみください！
+"041"	{emote: Happiness}はいっ！{pause 15}	{ruby (charSpan 1): なに}何か　ご{ruby (charSpan 2): そうだん}相談でしょうか！{000f-0007-0008-0000-0000-0000-0028}	もう{ruby (charSpan 1): かえ}帰ります	この{ruby (charSpan 1): むら}村のモデルハウス	ちょっと{ruby (charSpan 1): おし}教えて！	なんでもない
+"042"	そうでございますか{Wait for input}	{emote: Happiness}では{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): つづ}続き{pause 5}　ごゆっくり	ご{ruby (charSpan 2): けんがく}見学くださいませ！
+"043"	{emote: Happiness}この{ruby (charSpan 1): むら}村から　{ruby (charSpan 1): ほか}他の{ruby (charSpan 3): かいいんさま}会員様に	ご{ruby (charSpan 2): ていきょう}提供している　{ruby (charSpan 2): じょうほう}情報についてですね！
+"044"	{ruby (charSpan 2): げんざい}現在　この　{Town name (pink)}{ruby (charSpan 1): むら}村を{ruby (charSpan 2): だいひょう}代表して{pause 10}	{Player name}{ruby (charSpan 1): さま}様のお{ruby (charSpan 1): たく}宅をモデルハウスとして{pause 5}	{ruby (charSpan 2): しょうかい}紹介させて　いただいております！
+"045"	この{ruby (charSpan 1): むら}村の　{ruby (charSpan 1): ほか}他の{ruby (charSpan 3): かいいんさま}会員様のお{ruby (charSpan 1): たく}宅を	{ruby (charSpan 2): しょうかい}紹介されたい{ruby (charSpan 2): ばあい}場合は、{Wait for input}{ruby (charSpan 2): ちょくせつ}直接その{ruby (charSpan 3): かいいんさま}会員様に　ご{ruby (charSpan 2): らいじょう}来場いただいての	お{ruby (charSpan 2): てつづ}手続きと　なりますので、{pause 5}	よろしくお{ruby (charSpan 1): ねが}願いいたします！
+"046"	{emote: Thought}{ruby (charSpan 2): げんざい}現在は　この　{Town name (pink)}{ruby (charSpan 1): むら}村を{ruby (charSpan 2): だいひょう}代表して{pause 10}	{0011-0000-0002-0000}{ruby (charSpan 1): さま}様の　お{ruby (charSpan 1): たく}宅を{pause 5}	{ruby (charSpan 2): しょうかい}紹介させて　いただいておりますが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}{ruby (charSpan 2): こんご}今後は　お{ruby (charSpan 2): きゃくさま}客様のご{ruby (charSpan 2): じたく}自宅を	{ruby (charSpan 2): しょうかい}紹介するように、{pause 10}{emote: Curious}{ruby (charSpan 2): へんこう}変更いたしましょうか？{confirmation-02}{000f-0005-0004-0015-0028}	{ruby (charSpan 1): か}変えたい！	そのままで
+"047"	かしこまりました！{Wait for input}	{emote: Happiness}では{pause 5}　そのままにしておきますね
+"048"	かしこまりました！{Wait for input}	{emote: Happiness}では{pause 5}　{ruby (charSpan 2): てつづ}手続きいたしますね
+"049"	{emote: Sunny}お{ruby (charSpan 1): ま}待たせしました！{Wait for input}	{emote: Reset}{ruby (charSpan 2): こんご}今後は　{Player name}{ruby (charSpan 1): さま}様のお{ruby (charSpan 1): たく}宅を	モデルハウスとして　{ruby (charSpan 2): しょうかい}紹介いたします！{Wait for input}{emote: Happiness}たくさんの{ruby (charSpan 3): かいいんさま}会員様に	{ruby (charSpan 1): み}見ていただけると　いいですね！
+"050"
+"051"
+"052"
+"053"	{ruby (charSpan 1): なに}何について、{pause 10}	{emote: Curious}ご{ruby (charSpan 2): せつめい}説明いたしましょうか？{000f-0008-000a-0000-0000-0000-0000-0028}	この{ruby (charSpan 1): むら}村のモデルハウス	{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): むら}村のモデルハウス	{ruby (charSpan 2): かぐ}家具のオーダー	{ruby (charSpan 4): じゅしんきょひ}受信拒否について	やっぱやめとく
+"054"	{ruby (charSpan 1): ほか}他のことについても、{pause 10}	{emote: Curious}ご{ruby (charSpan 2): せつめい}説明いたしましょうか？{000f-0008-000a-0000-0000-0000-0000-0000}	この{ruby (charSpan 1): むら}村のモデルハウス	{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): むら}村のモデルハウス	{ruby (charSpan 2): かぐ}家具のオーダー	{ruby (charSpan 4): じゅしんきょひ}受信拒否について	もう{ruby (charSpan 3): だいじょうぶ}大丈夫
+"055"	それぞれの{ruby (charSpan 1): むら}村からは、{pause 10}1{ruby (charSpan 1): けん}軒のお{ruby (charSpan 1): うち}家が	{ruby (charSpan 2): だいひょう}代表の　モデルハウスとして{pause 5}	{ruby (charSpan 2): ぜんこく}全国に{ruby (charSpan 2): しょうかい}紹介されます！{Wait for input}{ruby (charSpan 2): だいひょう}代表のお{ruby (charSpan 1): うち}家を　{ruby (charSpan 2): へんこう}変更されたい{ruby (charSpan 2): ばあい}場合は、{pause 10}	そのお{ruby (charSpan 1): うち}家にお{ruby (charSpan 1): す}住まいの{ruby (charSpan 1): かた}方に	{ruby (charSpan 2): ちょくせつ}直接こちらへ　お{ruby (charSpan 1): こ}越しいただき、{Wait for input}{emote: Happiness}わたくしに　おっしゃっていただければ{pause 5}	{ruby (charSpan 2): てつづ}手続きをいたします！
+"056"	{ruby (charSpan 4): とうてんじじょう}当展示場には　{ruby (charSpan 2): さいだい}最大で	48{ruby (charSpan 1): けん}軒のモデルハウスを　{ruby (charSpan 2): てんじ}展示する	スペースが　ございます！{Wait for input}{ruby (charSpan 1): あ}空き{ruby (charSpan 1): ち}地が　なくなった{ruby (charSpan 2): ばあい}場合、{pause 10}	{ruby (charSpan 1): ふる}古いモデルハウスから	{ruby (charSpan 1): た}建て{ruby (charSpan 1): か}替えられていきます{Wait for input}もし、{pause 10}ずっと{ruby (charSpan 2): てんじ}展示しておきたい	モデルハウスが　ございましたら、{pause 5}	{Blue}お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入り{ruby (charSpan 2): とうろく}登録{Color Reset}を　ご{ruby (charSpan 2): りよう}利用ください！	{emote: Happiness}お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入り{ruby (charSpan 2): とうろく}登録や{ruby (charSpan 2): へんこう}変更を　される{ruby (charSpan 2): ばあい}場合は{pause 5}	{ruby (charSpan 1): かく}各モデルハウスの{ruby (charSpan 1): まえ}前の　{ruby (charSpan 2): かんばん}看板を	チェックしてくださいね！	{emote: Reset}ただし、{pause 10}お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りにできるのは	16{ruby (charSpan 1): けん}軒まで　となっておりますので{pause 5}	ご{ruby (charSpan 2): ちゅうい}注意　{ruby (charSpan 1): ねが}願います
+"057"	{emote: Happiness}{ruby (charSpan 2): てんじ}展示されている　モデルハウスの{ruby (charSpan 1): なか}中は	{ruby (charSpan 2): じゆう}自由に　ご{ruby (charSpan 2): けんがく}見学いただけます{Wait for input}{emote: Reset}また、{pause 5}モデルハウス{ruby (charSpan 1): ない}内の{ruby (charSpan 2): かぐ}家具は{pause 5}	{ruby (charSpan 3): ひばいひん}非売品を{ruby (charSpan 1): のぞ}除き、{pause 5}{ruby (charSpan 4): つうしんはんばい}通信販売で	お{ruby (charSpan 1): か}買い{ruby (charSpan 1): もと}求めいただけるんですよ！{Wait for input}{ruby (charSpan 2): かぐ}家具を　お{ruby (charSpan 1): もと}求めの{ruby (charSpan 2): ばあい}場合は	モデルハウス{ruby (charSpan 1): ない}内で　{ruby (charSpan 3): したがめん}下画面より	ご{ruby (charSpan 2): ちゅうもん}注文くださいませ！
+"058"	{emote: Worry}{ruby (charSpan 1): まん}万が{ruby (charSpan 1): いち}一、{pause 10}{ruby (charSpan 2): じょうない}場内で　{ruby (charSpan 3): ふしんしゃ}不審者や	{ruby (charSpan 2): てんじ}展示にふさわしくない　モデルハウスを	{ruby (charSpan 1): み}見かけられましたら{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}お{ruby (charSpan 2): てすう}手数ですが、{pause 10}	{ruby (charSpan 3): ふしんしゃ}不審者を{ruby (charSpan 1): よ}呼び{ruby (charSpan 1): と}止めて　{ruby (charSpan 1): お}追い{ruby (charSpan 1): だ}出すか、{Wait for input}モデルハウス{ruby (charSpan 1): ない}内より、{pause 10}	{ruby (charSpan 2): てんじ}展示の{ruby (charSpan 1): と}取りやめを　お{ruby (charSpan 1): もう}申し{ruby (charSpan 1): つ}付けください{Wait for input}その{ruby (charSpan 1): さい}際、{pause 10}{ruby (charSpan 2): たいじょう}退場や　{ruby (charSpan 2): てっきょ}撤去を	{ruby (charSpan 3): いちじてき}一時的にするか、{pause 5}{ruby (charSpan 3): えいきゅうてき}永久的にするかを	{ruby (charSpan 1): えら}選んでいただけます{Wait for input}{ruby (charSpan 3): いちじてき}一時的な{ruby (charSpan 2): ばあい}場合、{pause 10}	{ruby (charSpan 1): ふたた}再び　すれちがいが{ruby (charSpan 2): はっせい}発生すると	また{ruby (charSpan 2): てんじ}展示されたり　{ruby (charSpan 2): らいじょう}来場されたりします{Wait for input}{ruby (charSpan 3): えいきゅうてき}永久的に{Blue}{ruby (charSpan 4): じゅしんきょひ}受信拒否{Color Reset}をした{ruby (charSpan 2): ばあい}場合、{pause 10}	{ruby (charSpan 1): ふたた}再び　すれちがっても	{ruby (charSpan 2): てんじ}展示・{ruby (charSpan 2): らいじょう}来場されることは　ございません{Wait for input}その{ruby (charSpan 2): ばあい}場合、{pause 5}{ruby (charSpan 1): ほか}他のゲームで{ruby (charSpan 2): つうしん}通信した{ruby (charSpan 1): さい}際も	その{ruby (charSpan 1): ひと}人の{ruby (charSpan 1): つく}作ったコンテンツが　{ruby (charSpan 2): ひょうじ}表示されない	{ruby (charSpan 2): ばあい}場合がありますので{pause 5}　ご{ruby (charSpan 2): ちゅうい}注意ください
+"059"
+"061"	{pause 5}{emote: Alarmed}{pause 10}あっ{pause 5}・{pause 5}・{pause 5}・{pause 5}！{pause 20}	{ruby (charSpan 3): さいにゅうじょう}再入場を　{emote: Curious}ご{ruby (charSpan 2): きぼう}希望でしょうか？{000f-0005-0004-0015-0028}	{ruby (charSpan 1): はい}入る	やめとく
+"062"	{pause 5}{emote: Alarmed}{pause 10}あっ{pause 5}・{pause 5}・{pause 5}・{pause 20}	ちょっと{pause 5}　お{ruby (charSpan 1): ま}待ちください！{Wait for input}え～っと{pause 5}・{pause 5}・{pause 5}・{pause 20}	{emote: Happiness}{Town name (pink)}{ruby (charSpan 1): むら}村、{pause 10}	{Blue}ハッピーホーム{ruby (charSpan 3): てんじじょう}展示場{Color Reset}へ{pause 5}　{emote: Sunny}ようこそ！{pause 10}{emote: Happiness}{Wait for input}{ruby (charSpan 2): けんがく}見学を　ご{ruby (charSpan 2): きぼう}希望の{pause 5}	{emote: Curious}お{ruby (charSpan 2): きゃくさま}客様でしょうか？{000f-0005-0004-0015-0028}	はーい！	ちがいます
+"063"	{pause 5}{emote: Alarmed}{pause 10}あっ{pause 5}・{pause 5}・{pause 5}・{pause 20}	{Player name}{ruby (charSpan 1): さま}様！{pause 5}　お{ruby (charSpan 1): ま}待ちください！{Wait for input}{emote: Reset}ハッピーホーム{ruby (charSpan 3): てんじじょう}展示場の	{ruby (charSpan 2): けんがく}見学を{pause 5}{emote: Curious}　ご{ruby (charSpan 2): きぼう}希望でしょうか？{000f-0005-0004-0015-0028}	はーい！	ちがいます
+"064"
+"065"
+"066"
+"067"
+"068"
+"069"
+"071"	{pause 5}{emote: Alarmed}{pause 10}あっ、{pause 10}もう　お{ruby (charSpan 1): かえ}帰りですか？{000f-0005-0004-0015-0028}	{ruby (charSpan 1): かえ}帰ります！	まだ{ruby (charSpan 2): けんがく}見学します
+"072"
+"073"	{emote: Happiness}そうですか！{pause 20}	それでは、{pause 10}ゲートの{ruby (charSpan 1): そと}外まで	お{ruby (charSpan 2): みおく}見送りいたします！
+"074"	{emote: Happiness}ありがとうございました！{pause 20}	またの　ご{ruby (charSpan 2): らいじょう}来場、{pause 10}	お{ruby (charSpan 1): ま}待ちしております！
+"075"
+"076"
+"077"
+"078"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{pause 10}あっ！{pause 20}	{emote: Thought}{pause 5}お{ruby (charSpan 2): きゃくさま}客様　すみませんが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}{ruby (charSpan 3): てんじじょう}展示場では　{Blue}すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}を{ruby (charSpan 2): りよう}利用するため	{ruby (charSpan 2): さいしん}最新の{ruby (charSpan 4): りようきやく}利用規約に	{ruby (charSpan 2): どうい}同意していただく　{ruby (charSpan 2): ひつよう}必要があります{Wait for input}{ruby (charSpan 1): いま}今　{ruby (charSpan 4): りようきやく}利用規約の{ruby (charSpan 2): かくにん}確認を{pause 5}	{emote: Curious}なさいますか？{000f-0005-0004-0015-0028}	はーい！	やめとく
+"079"	{ruby (charSpan 2): さいしん}最新の{ruby (charSpan 4): りようきやく}利用規約に	{ruby (charSpan 2): どうい}同意していただかないと、{pause 5}	{ruby (charSpan 3): てんじじょう}展示場を　ご{ruby (charSpan 2): りよう}利用いただけません{pause 8}・{pause 8}・{pause 8}・	{ruby (charSpan 2): りよう}利用を　ご{ruby (charSpan 2): きぼう}希望の{ruby (charSpan 2): ばあい}場合は、{pause 5}{ruby (charSpan 4): ほんたいせってい}本体設定で	{Blue}インターネット{ruby (charSpan 2): せってい}設定　→　その{ruby (charSpan 1): ほか}他の{ruby (charSpan 2): じょうほう}情報	→　{ruby (charSpan 4): りようきやく}利用規約の{ruby (charSpan 2): かくにん}確認{Color Reset}を{ruby (charSpan 1): えら}選び、{Wait for input}{ruby (charSpan 2): さいしん}最新の{ruby (charSpan 4): りようきやく}利用規約に	{ruby (charSpan 2): どうい}同意していただいた{ruby (charSpan 1): うえ}上で{pause 5}	お{ruby (charSpan 1): こ}越しくださいませ！
+"081"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{pause 10}あっ！{pause 20}	{emote: Thought}{pause 5}お{ruby (charSpan 2): きゃくさま}客様　すみませんが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}{Blue}{ruby (charSpan 2): しゃしん}写真や{ruby (charSpan 2): がぞう}画像・{ruby (charSpan 2): おんせい}音声・{ruby (charSpan 2): どうが}動画・{ruby (charSpan 2): ちょうぶん}長文テキストの	{ruby (charSpan 3): そうじゅしん}送受信{Color Reset}が{ruby (charSpan 3): ほごしゃ}保護者により{ruby (charSpan 2): せいげん}制限されているため、{pause 5}	{ruby (charSpan 3): てんじじょう}展示場を　ご{ruby (charSpan 2): りよう}利用いただけません{pause 8}・{pause 8}・{pause 8}・{000f-0000-0004-0000-0000}	はーい	{Orange}⚠{Color Reset}{ruby (charSpan 3): ほごしゃ}保護者の{ruby (charSpan 1): かた}方へ
+"082"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{pause 10}あっ！{pause 20}	{emote: Thought}{pause 5}お{ruby (charSpan 2): きゃくさま}客様　すみませんが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}{Blue}{ruby (charSpan 2): しゃしん}写真や{ruby (charSpan 2): がぞう}画像・{ruby (charSpan 2): おんせい}音声・{ruby (charSpan 2): どうが}動画・{ruby (charSpan 2): ちょうぶん}長文テキストの	{ruby (charSpan 3): そうじゅしん}送受信{Color Reset}が{ruby (charSpan 3): ほごしゃ}保護者により{ruby (charSpan 2): せいげん}制限されているため、{pause 5}	{ruby (charSpan 3): てんじじょう}展示場を　ご{ruby (charSpan 2): りよう}利用いただけません{000f-0000-0004-0000-0000}	はーい	{Orange}⚠{Color Reset}{ruby (charSpan 3): ほごしゃ}保護者の{ruby (charSpan 1): かた}方へ
+"083"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{pause 10}あっ！{pause 20}	{emote: Thought}{pause 5}お{ruby (charSpan 2): きゃくさま}客様　すみませんが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}{Blue}{ruby (charSpan 1): ほか}他のユーザーとの　すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}と	{Blue}{ruby (charSpan 2): しゃしん}写真や{ruby (charSpan 2): がぞう}画像・{ruby (charSpan 2): おんせい}音声・{ruby (charSpan 2): どうが}動画・{ruby (charSpan 2): ちょうぶん}長文テキストの	{ruby (charSpan 3): そうじゅしん}送受信{Color Reset}が{ruby (charSpan 3): ほごしゃ}保護者により{ruby (charSpan 2): せいげん}制限されているため、{Wait for input}{ruby (charSpan 3): てんじじょう}展示場を　ご{ruby (charSpan 2): りよう}利用いただくことが	できません{pause 8}・{pause 8}・{pause 8}・
+"084"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{pause 10}あっ！{pause 20}	{emote: Thought}{pause 5}お{ruby (charSpan 2): きゃくさま}客様　すみませんが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}{Blue}{ruby (charSpan 1): ほか}他のユーザーとの　すれちがい{ruby (charSpan 2): つうしん}通信{Color Reset}が	{ruby (charSpan 3): ほごしゃ}保護者により　{ruby (charSpan 2): せいげん}制限されているため、{pause 10}	{ruby (charSpan 3): てんじじょう}展示場を　ご{ruby (charSpan 2): りよう}利用いただけません{pause 8}・{pause 8}・{pause 8}・
+"085"

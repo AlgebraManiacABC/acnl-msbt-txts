@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{Player nickname (green)}
-"002"	{emote: Happiness}
-"003"	{emote: Thought}
-"004"	{Player nickname (green)}
-"005"	ねぇ、{Player nickname (green)}
-"006"	{emote: Thought}
+"001"	{Player nickname (green)}{0005-000d-0000}って、{pause 20}	みんなが　みとめる	{Player rumor}だけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 2): いったい}一体、どんな　おへやで	{ruby (charSpan 2): せいかつ}生活してるのぉ～？{Wait for input}{emote: Happiness}よかったら　{ruby (charSpan 2): きょう}今日、{pause 20}	あそびに{ruby (charSpan 1): い}行っても　いいかなぁ？{000f-0005-0004-0015-0028}	いいよ！	{ruby (charSpan 2): きょう}今日はムリ
+"002"	{emote: Happiness}ボク　さいきん、{pause 20}	{ruby (charSpan 1): むら}村のみんなの　おうちに{ruby (charSpan 1): い}行くのに	ハマってるんだぁ～{Wait for input}{emote: Thought}そして、{pause 20}{ruby (charSpan 2): きょう}今日は{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sunny}{Player nickname (green)}{0005-000d-0000}{ruby (charSpan 1): ち}家の{ruby (charSpan 1): ばん}番～！{Wait for input}{emote: Soft Smile}ねぇ、{pause 20}{ruby (charSpan 1): あと}後で　あそびに{ruby (charSpan 1): い}行っても	いいでしょ～？{000f-0005-0004-0015-0028}	OK！	ダメダメ！
+"003"	{emote: Thought}なんだか　{ruby (charSpan 2): きょう}今日は、{pause 20}	いつもとちがう	あそびがしたいなぁ～{Wait for input}{emote: Inspired}そうだぁ～{pause 40}	{Player nickname (green)}{0005-000d-0000}{ruby (charSpan 1): ち}家で	あそぶのはどう～？{Wait for input}{emote: Happiness}{ruby (charSpan 1): あと}後で　あそびに{ruby (charSpan 1): い}行っても	いいかなぁ？{000f-0005-0004-0015-0028}	いいよ～	{ruby (charSpan 2): きょう}今日はダメ
+"004"	{Player nickname (green)}{0005-000d-0000}って、{pause 20}	みんなが　みとめる	{Player rumor}だけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 2): いったい}一体、どんな　おへやで	{ruby (charSpan 2): せいかつ}生活してるのぉ～？{Wait for input}{emote: Happiness}よかったら　{ruby (charSpan 1): いま}今から、{pause 20}	あそびに{ruby (charSpan 1): い}行っても　いいかなぁ？{000f-0005-0004-0015-0028}	いいよ！	{ruby (charSpan 1): いま}今はムリ
+"005"	ねぇ、{Player nickname (green)}{0005-000d-0000}{pause 40}	{ruby (charSpan 1): いま}今から　キミのおうちに{ruby (charSpan 1): い}行こうよぉ{Wait for input}{emote: Glare}おへやを　キレイにしてるか、{pause 20}	{Villager's name (orange)}{ruby (charSpan 2): せんせい}先生の	ぬきうちテストだよぉ～？{000f-0005-0004-0000-0000}	のぞむところだ！	カンベンしてください！
+"006"	{emote: Thought}なんだか　{ruby (charSpan 2): きょう}今日は、{pause 20}	いつもとちがう	あそびがしたいなぁ～{Wait for input}{emote: Inspired}そうだぁ～{pause 40}	{Player nickname (green)}{0005-000d-0000}{ruby (charSpan 1): ち}家で	あそぶのはどう～？{Wait for input}{emote: Happiness}{ruby (charSpan 1): いま}今から　{ruby (charSpan 1): い}行っても	いいかなぁ？{000f-0005-0004-0015-0028}	いいよ～	{ruby (charSpan 1): いま}今はダメ

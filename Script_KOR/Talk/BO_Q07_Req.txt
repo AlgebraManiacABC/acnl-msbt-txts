@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Laughter}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Thought}
-"006"	{emote: Thought}
-"007"	{emote: Alarmed}
-"008"	{emote: Reset}
-"009"	{emote: Alarmed}
-"010"	{emote: Surprise}
-"011"	{emote: Glee}
-"012"	{emote: Inspired}
-"013"	{emote: Surprise}
-"014"	{emote: Love}
-"015"	{emote: Agreement}
-"016"	아, 이거{pause 8}
-"017"	{emote: Alarmed}
-"018"	{emote: Alarmed}
-"019"	{emote: Soft Smile}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Reset}
-"023"	{emote: Reset}
-"024"	{emote: Sunny}
+"001"	{emote: Worry}에엥～?{pause 20}	안 보여줄 거야아?
+"002"	{emote: Laughter}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}{pause 20}	분실물을 분실해 버린 거야아?{pause 40}{emote: Happiness}
+"003"	{emote: Worry}보여주지 않으면	내 건지 아닌지	알 수가 없어～
+"004"	{emote: Worry}미안～{pause 20}	이거 내 게 아니야아{Wait for input}{emote: Sunny}명탐정 {Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}!{pause 40}	열심히 주인을	찾아봐아, {catchphrase}
+"005"	{emote: Thought}{pause 20}・{pause 20}・{pause 20}・{pause 40}{emote: Disagreement}내 건 아닌데에～{Wait for input}	{emote: Happiness}다른 애한테 한번 물어봐봐, {pause 8}{catchphrase}
+"006"	{emote: Thought}우～웅{pause 8}・{pause 8}・{pause 8}・{pause 20}	처음 보는 물건이야아～{Wait for input}{emote: Reset}좀 더 힘내서 주인한테{pause 20}	물건을 찾아주도록 해, {pause 8}{catchphrase}
+"007"	{emote: Alarmed}{0007-000b-0000}아앗～!{pause 20}	이거 내 만화책이야아!{Wait for input}{emote: Joy}『전광 {0005-000f-0002-0000}맨』 제{Number (0x6)}권!{Wait for input}	정말 오랜만이다아～! {pause 8}{catchphrase}!
+"008"	{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Alarmed}{0007-000b-0000}아!{pause 40}	이 책 내 거야아!{Wait for input}{emote: Happiness}이것 봐봐～{pause 20}	안쪽에 분명히	내가 사인해 놨잖아～{Wait for input}{emote: Cold Chill}{pause 20}아～{pause 20}	멋진 내 사인을	못 알아본 거구나아～
+"009"	{emote: Alarmed}{0007-000b-0000}아앗～!{pause 20}	이거 내 책이야아!{Wait for input}{emote: Glee}찾아서	다행이다아～!
+"010"	{emote: Surprise}{0007-000b-0000}아아～!{pause 20}	이건 내 간식 파우치야아{Wait for input}{emote: Love}안에 {0005-0010-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 20}	가득가득 넣어 놨어～!{pause 40}	집에 가서 먹어야지～ {pause 8}{catchphrase}!
+"011"	{emote: Glee}와아～!{pause 20} 이게 뭐야아～!{pause 40}	이 파우치 진짜 오랜만에 보네에{Wait for input}{emote: Reset}자, 정리하자면{pause 20}	이건 내 거야아, {pause 8}{catchphrase}
+"012"	{emote: Inspired}{pause 20}{0007-000b-0000}딩동댕ー!{pause 40}	정답～{pause 20}	그거 내 파우치야아!{Wait for input}{emote: Reset}아, {pause 20}{emote: Distress}일부러 떨어뜨린 건	아니라구우～!
+"013"	{emote: Surprise}{0007-000b-0000}아아～{pause 40}	그거 내 장갑인데에!{Wait for input}{emote: Happiness}다행이다아～!{pause 20}	계～속 찾고 있었어～
+"014"	{emote: Love}이 온기{pause 8}・{pause 8}・{pause 8}・{pause 20}	마음까지 따뜻해진다아～{Wait for input}{emote: Happiness}에헤헤～{pause 20}	이 장갑 	내 꺼 같애～
+"015"	{emote: Agreement}킁킁!{pause 20} 이 냄새는{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Alarmed}{0007-000b-0000}내 장갑이다아～!{Wait for input}{emote: Love}이걸 끼고 먹었던{pause 20}	군고구마 냄새가 폴폴 풍겨어～!
+"016"	아, 이거{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Happiness}나중에 가지러 가려고	길에 놔 둔 건데에～{Wait for input}{emote: Laughter}설마 {pause 20}{Player nickname (green)}{000e-000e-0008-0002-c774-0002-ac00}	여기까지 옮겨줄 줄은	생각도 못 했어, {pause 8}{catchphrase}{pause 40}{emote: Happiness}
+"017"	{emote: Alarmed}{0007-000b-0000}아아～{pause 20}	이거 내 거야아～{Wait for input}{emote: Happiness}다행이다아～!{pause 20}	{Player nickname (green)}{000e-000e-0008-0002-c774-0002-ac00}	갖고 있었구나아, {pause 8}{catchphrase}
+"018"	{emote: Alarmed}{0007-000b-0000}아아～{pause 20}	이거 내 거야아～{pause 40}	{emote: Happiness}계～속 찾고 있었어～{Wait for input}사실,{pause 20} 안에는 텅텅 비어 있긴 해!{pause 40}	{emote: Daydreaming}앞으로 뭘 넣을지 생각할 거야아～
+"019"	{emote: Soft Smile}이건 내 물건을 찾아준	감사의 표시야아{pause 20}	자, {0011-0003-0002-0000}～
+"020"	{emote: Happiness}찾아줘서 고마워어～{pause 20}	{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}!{Wait for input}이 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	감사의 표시로 줄게에～{pause 8}	{catchphrase}
+"021"	{emote: Happiness}고마워어, {Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}{pause 40}	이 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	받아줘어, {pause 8}{catchphrase}
+"022"	{emote: Reset}나중에 또 뭐 잃어버리면	부탁 좀 할게에～
+"023"	{emote: Reset}{Player nickname (green)}도{pause 20}	물건 잃어버리지 않게	조심해～
+"024"	{emote: Sunny}너는 탐정하면	딱이겠다아!

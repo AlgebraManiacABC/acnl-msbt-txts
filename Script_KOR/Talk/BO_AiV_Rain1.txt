@@ -1,31 +1,31 @@
 == 0 ==
-"001"	{000a-000b-0006-10-11-00-0f-00-ffffffcd}
-"002"	{000a-000b-0006-10-11-00-10-00-ffffffcd}
-"003"	{000a-000b-0006-10-14-00-12-00-ffffffcd}
-"004"	{000a-000b-0006-10-14-00-13-00-ffffffcd}
-"005"	{000a-000b-0006-10-17-00-15-00-ffffffcd}
-"006"	{000a-000b-0006-10-17-00-16-00-ffffffcd}
-"007"	{000a-000b-0006-10-1a-00-18-00-ffffffcd}
-"008"	{000a-000b-0006-10-1a-00-19-00-ffffffcd}
-"009"	{000a-000b-0006-10-0d-00-0c-00-ffffffcd}
-"010"	{000a-000b-0006-10-0d-00-0c-00-ffffffcd}
-"011"	
-"012"	{0009-0000-0004-1b-00-1c-00}
-"013"	{0009-0000-0004-1d-00-1e-00}
-"014"	
-"015"	{emote: Happiness}
-"016"	{emote: Sleepy}
-"017"	{emote: Joy}
-"018"	안녕～	{Player name}
-"019"	모처럼 놀러 왔는데{emote: Curious}
-"020"	{emote: Surprise}
-"021"	{emote: Happiness}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
-"024"	{emote: Alarmed}
-"025"	{emote: Curious}
-"026"	아아～{pause 20}
-"027"	{emote: Happiness}
-"028"	{emote: Happiness}
-"029"	안녕, 어서 와{pause 8}
-"030"	{emote: Happiness}
+"001"	{000a-000b-0006-1110-0f00-cd00}
+"002"	{000a-000b-0006-1110-1000-cd00}
+"003"	{000a-000b-0006-1410-1200-cd00}
+"004"	{000a-000b-0006-1410-1300-cd00}
+"005"	{000a-000b-0006-1710-1500-cd00}
+"006"	{000a-000b-0006-1710-1600-cd00}
+"007"	{000a-000b-0006-1a10-1800-cd00}
+"008"	{000a-000b-0006-1a10-1900-cd00}
+"009"	{000a-000b-0006-0d10-0c00-cd00}
+"010"	{000a-000b-0006-0d10-0c00-cd00}
+"011"
+"012"	{0009-0000-0004-001b-001c}
+"013"	{0009-0000-0004-001d-001e}
+"014"
+"015"	{emote: Happiness}야아～{pause 20} {Player name}{000e-000e-0008-0002-c544-0002-c57c}{pause 20}	안녕{pause 8}, {catchphrase}
+"016"	{emote: Sleepy}하아암～{pause 60}	비 오는 날은 다른 때보다 	졸려～ {pause 8}{catchphrase}～{Wait for input}{emote: Happiness}그치만{pause 20} {Player name}{000e-000e-0008-0002-c774-0002-ac00}	이런 날씨에도 놀러 와줬으니까{pause 20}	자지 말고 버텨야겠다아～!
+"017"	{emote: Joy}난 오늘	아침부터 기분이 좋아～ {pause 8}{catchphrase}～{pause 40}	왜냐면 비가 오잖아～!
+"018"	안녕～	{Player name}{000e-000e-0008-0002-c544-0002-c57c}{Wait for input}비가 오는데도 	놀러 와줬구나아, {pause 8}{catchphrase}
+"019"	모처럼 놀러 왔는데{emote: Curious}{pause 20}	비가 와서 아쉬워?{Wait for input}{emote: Glare}{Town name (pink)} 마을은	비 오는 날도 즐거우니까{pause 20}	안심하라구우, {pause 8}{catchphrase}
+"020"	{emote: Surprise}아아～{pause 20} {Player name}{000e-000e-0006-0002-c774-0000}다{Wait for input}	{emote: Glee}너가 놀러 와주다니{pause 20}	비 오는 날은 운이 좋네에, {pause 8}{catchphrase}
+"021"	{emote: Happiness}안녕	{Player name}{000e-000e-0008-0002-c544-0002-c57c}～{Wait for input}{emote: Daydreaming}비가 오는 {Town name (pink)} 마을은{pause 8}	괜히 멋있고{pause 20}	분위기 있지 않아～? {pause 8}{catchphrase}?
+"022"	{emote: Happiness}안녕～{pause 20} {Player name}{000e-000e-0008-0002-c544-0002-c57c}{pause 20}	{Town name (pink)} 마을에 온 걸 	환영해～ {pause 8}{catchphrase}{Wait for input}{emote: Reset}비에 젖는 게 싫어지면	누군가의 집에 무작정 들어가봐아!{Wait for input}	{emote: Glee}분명 모두들 환영할 거야～
+"023"	{emote: Happiness}안녕 {Player name}{000e-000e-0008-0002-c544-0002-c57c}{Wait for input}	비 오는 밤에는 뭐니 뭐니 해도{pause 20}	산책{pause 20}이지～ {pause 8}{catchphrase}～
+"024"	{emote: Alarmed}{0007-000b-0000}헛～{pause 20}	{Player name}?! {pause 8}{catchphrase}?!{Wait for input}{emote: Distress}이런 늦은 밤에 너가 있다니{pause 20}	너무 놀라서 	우산이 뒤집히는 줄 알았어!
+"025"	{emote: Curious}어라～?{pause 20} {Player name}{000e-000e-0008-0002-c544-0002-c57c}{pause 20}	이런 늦은 밤에 외출이야아?{Wait for input}{emote: Sleepy}하아암～{pause 8}・{pause 8}・{pause 8}・{pause 20}	비도 오고	난 슬슬 잘까나～ {pause 8}{catchphrase}～
+"026"	아아～{pause 20} {Player name}{000e-000e-0008-0002-c544-0002-c57c}～{pause 40}	너도 비 오는 날이 좋아? {pause 8}{catchphrase}?
+"027"	{emote: Happiness}와아!{pause 20} {Player name}{000e-000e-0006-0002-c774-0000}다아～{pause 40}	비가 오는데 용케도 왔네에～ 	{pause 8}{catchphrase}～
+"028"	{emote: Happiness}{Greeting begin}아아～!{pause 20} {Player name}{000e-000e-0008-0002-c544-0002-c57c}!{Greeting end}{pause 40}	비가 오는 {Town name (pink)} 마을을	마음껏 즐겨줘어, {pause 8}{catchphrase}
+"029"	안녕, 어서 와{pause 8}	{Player name}{000e-000e-0008-0002-c544-0002-c57c}!{Wait for input}{emote: Glee}너도 같이 	첨벙첨벙하자아～ {pause 8}{catchphrase}!
+"030"	{emote: Happiness}안녕～ {Player name}{000e-000e-0008-0002-c544-0002-c57c}{pause 20}	어서 와～{Wait for input}이렇게 비 맞으면서	산책하는 거{pause 20}	최고인 것 같아, {pause 8}{catchphrase}

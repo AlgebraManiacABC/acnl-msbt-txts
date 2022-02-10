@@ -1,80 +1,80 @@
 == 0 ==
-"001"	Psst.{pause 20}
-"002"	{emote: Happiness}
-"003"	{emote: Sadness}
-"004"	{emote: Happiness}
-"005"	{emote: Reset}
-"006"	{emote: Distress}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{capitalized}
-"009"	{emote: Greetings}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Sunny}
-"012"	{emote: Daydreaming}
-"013"	Thanks!{pause 20}
-"014"	
-"015"	
+"001"	Psst.{pause 20}{emote: Curious} Wouldn't it be cool if we had	a secret code that only the two of	us could understand, {Player nickname (green)}?	{emote: Love}We'd be like spies!{pause 20} And it would be	SO awesome.{pause 20}{Wait for input}{emote: Happiness} So what do you say?{pause 20}	What should our secret code be?{Player can respond (0005):0004-0000-0003-0028}	How about this?	Spies are lame.
+"002"	{emote: Happiness}Today on TV,{pause 20} they were saying that{pause 20}	everybody needs a "signature	greeting."	{emote: Love}Then I got to thinking about how	cool it would be if I had my own	special way of saying hi.	{emote: Distress}The problem is that I can't think of	anything!{pause 20} Do you know any good	greetings,{pause 8} {Player nickname (green)}?{Player can respond (0005):0004-0000-0003-0028}	How about this one? 	Nope.
+"003"	{emote: Sadness}Wow.{pause 40} I can't believe you're just	shooting me down like that,	{Player nickname (green)}.{pause 20} I thought we were pals.{000b-0003-0002-cd01}
+"004"	{emote: Happiness}I knew you'd be game!{pause 20} OK, lay it	on me. What should it be,{pause 8}	{catchphrase}?
+"005"	{emote: Reset}OK, let me try it out on you.{pause 40}	{emote: Greetings}"{capitalized}{Greeting begin}          {Greeting end}."{Wait for input}	{emote: Bashful}Does that sound right?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	It's perfect!	Nope.
+"006"	{emote: Distress}Huh?!{Wait for input} Well, then tell it to me one	more time,{pause 8} {catchphrase}.
+"007"	{0009-0000-0004-0008-0009}
+"008"	{capitalized}{Greeting begin}          {Greeting end}!{pause 40}	{emote: Love}I love it!{pause 20} It's so cool sounding.
+"009"	{emote: Greetings}{capitalized}{Greeting begin}          {Greeting end}!{pause 40}	{emote: Glee}Yay!{pause 20} Do I sound cool or WHAT?
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Sunny}Thanks for coming up with such a	great idea,{pause 20} {Player nickname (green)}!
+"012"	{emote: Daydreaming}A huh huh huh!{pause 20} I can't wait to use	that all the time,{pause 8} {catchphrase}.
+"013"	Thanks!{pause 20} That's a great idea,{pause 8}	{catchphrase}.
+"014"
+"015"
 == 1 ==
-"001"	Psst.{pause 20}
-"002"	{emote: Happiness}
-"003"	{emote: Sadness}
-"004"	{emote: Happiness}
-"005"	{emote: Reset}
-"006"	{emote: Distress}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	¡{capitalized}
-"009"	{emote: Greetings}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Sunny}
-"012"	{emote: Daydreaming}
-"013"	¡Gracias!{pause 20}
-"014"	
-"015"	
+"001"	Psst.{pause 20}{emote: Curious} ¿No molaría que tuviéramos	nuestro propio código secreto que	no entendiera nadie, {Player nickname (green)}?	{emote: Love}¡Seríamos como espías!{pause 20} ¡Y sería	un pasote!{pause 20}{Wait for input}{emote: Happiness} Pues nada, ¿qué dices?{pause 20}	¿Cuál debería ser nuestro código?{Player can respond (0005):0004-0000-0003-0028}	¿Qué te parece esto?	Ser espía es un rollo
+"002"	{emote: Happiness}Hoy en la tele,{pause 20} decían que{pause 20}	todo el mundo debería tener	un "saludo propio"...	{emote: Love}Así que me dio por pensar que	sería genial tener mi propia	forma de saludarte.	{emote: Distress}¡Lo malo es que no se me ocurre	nada!{pause 20} ¿A ti se te ocurre algún	saludo bueno,{pause 8} {Player nickname (green)}?{Player can respond (0005):0004-0000-0003-0028}	¿Qué tal este?	Pues no
+"003"	{emote: Sadness}Vaya.{pause 40} No puedo creer que me	mandes a paseo así, {Player nickname (green)}.{pause 20}	Creía que éramos amigos.{000b-0003-0002-cd01}
+"004"	{emote: Happiness}¡Sabía que te apuntarías!{pause 20} Venga,	a ver qué se te ocurre.	¿Qué tienes,{pause 8} {catchphrase}?
+"005"	{emote: Reset}Venga, voy a probarlo.{pause 40}	{emote: Greetings}"¡{capitalized}{Greeting begin}{Greeting end}!"{Wait for input}	{emote: Bashful}¿Eso te suena bien?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	¡Es perfecto!	No me convence
+"006"	{emote: Distress}¡¿Qué?!{Wait for input} Bueno, entonces dímelo	otra vez,{pause 8} {catchphrase}.
+"007"	{0009-0000-0004-0008-0009}
+"008"	¡{capitalized}{Greeting begin}{Greeting end}!{pause 40}	{emote: Love}¡Me encanta!{pause 20} Suena molón.
+"009"	{emote: Greetings}¡{capitalized}{Greeting begin}{Greeting end}!{pause 40}	{emote: Glee}¡Sí!{pause 20} ¿A que soy el más guay?
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Sunny}¡Gracias por tener una idea	tan guay,{pause 20} {Player nickname (green)}!
+"012"	{emote: Daydreaming}¡Je, je, je!{pause 20} Pues a partir	de ahora lo voy a usar todo	el día,{pause 8} {catchphrase}.
+"013"	¡Gracias!{pause 20} ¡Es una idea genial,{pause 8}	{catchphrase}!
+"014"
+"015"
 == 2 ==
-"001"	Dis {Player nickname (green)}
-"002"	{emote: Happiness}
-"003"	{emote: Sadness}
-"004"	{emote: Happiness}
-"005"	{emote: Reset}
-"006"	{emote: Distress}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{capitalized}
-"009"	{emote: Greetings}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Sunny}
-"012"	{emote: Daydreaming}
-"013"	Merci bien !{pause 20}
-"014"	
-"015"	
+"001"	Dis {Player nickname (green)}... Ce ne serait pas	génial d'avoir un mot de passe ?	Ou alors une phrase secrète ?	Il n'y aurait que toi et moi qui	pourrions comprendre ce que	ça voudrait dire.	{emote: Love}Ça ferait un peu comme si on était	des espions ! {pause 20}{emote: Happiness}Ce serait trop drôle !{Wait for input}On choisit une phrase secrète ?{Player can respond (0005):0004-0000-0003-0028}	Ouais !	Elle est nulle, ton idée.
+"002"	{emote: Happiness}Hier à la télé,{pause 20} j'ai entendu que tout{pause 20}	le monde devrait choisir une façon	plus personnelle de dire bonjour.	{emote: Love}Alors j'ai commencé à réfléchir à	un moyen plus original de saluer les	gens.	{emote: Distress}Mais le problème c'est que je n'ai	pas d'idées !{pause 20} Tu t'y connais, toi, en	salutations sympas,{pause 8} {Player nickname (green)} ?{Player can respond (0005):0004-0000-0003-0028}	On peut dire ça, ouais.	Pas vraiment, non.
+"003"	{emote: Sadness}Mince alors !{pause 40} Tu me laisses tomber	comme ça, {Player nickname (green)}.{pause 20} Et moi qui	croyais que nous étions amis...{000b-0003-0002-cd01}
+"004"	{emote: Happiness}Super, tu es vraiment trop sympa !	{pause 20}Alors, qu'est-ce que tu as trouvé,{pause 8}	{catchphrase} ?
+"005"	{emote: Reset}Alors tu me dis ce que tu en penses.{pause 40}	{emote: Greetings}« {capitalized}{Greeting begin}　　　　　　　　　　{Greeting end}. »{Wait for input}	{emote: Bashful}Ça en jette, non ?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Excellent !	Bof...
+"006"	{emote: Distress}Comment ?!{Wait for input}	Bon. Tu aurais une autre proposition	peut-être,{pause 8} {catchphrase} ?
+"007"	{0009-0000-0004-0008-0009}
+"008"	{capitalized}{Greeting begin}　　　　　　　　　　{Greeting end} !{pause 40}	{emote: Love}J'adore !{pause 20} C'est trop la classe !
+"009"	{emote: Greetings}{capitalized}{Greeting begin}　　　　　　　　　　{Greeting end} !{pause 40}	{emote: Glee}Yes !{pause 20} C'est pas génial ça ?
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Sunny}Je te remercie sincèrement d'avoir	eu une telle idée,{pause 20} {Player nickname (green)} !
+"012"	{emote: Daydreaming}Trop G-É-N-I-A-L !{pause 20} À partir de	maintenant, je l'utiliserai à chaque	fois,{pause 8} {catchphrase}.
+"013"	Merci bien !{pause 20} Ça, c'est de l'idée,{pause 8}	{catchphrase}.
+"014"
+"015"
 == 3 ==
-"001"	Pssst.{pause 20}!
-"002"	{emote: Happiness}
-"003"	{emote: Sadness}
-"004"	{emote: Happiness}
-"005"	{emote: Reset}
-"006"	{emote: Distress}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{capitalized}
-"009"	{emote: Greetings}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Sunny}
-"012"	{emote: Daydreaming}
-"013"	Grazie!{pause 20}
-"014"	
-"015"	
+"001"	Pssst.{pause 20}{emote: Curious} Non sarebbe bello avere	un codice segreto, {Player nickname (green)}?	{emote: Love}Proprio come le spie!{pause 20}	Sarebbe mitico!{pause 20}{Wait for input}{emote: Happiness} Beh, che ne dici{pause 20}?{Player can respond (0005):0004-0000-0003-0028}	Che ne dici di questo?	Che pizza le spie!
+"002"	{emote: Happiness}Oggi alla tivù,{pause 20} dicevano che tutti{pause 20}	dovrebbero avere un "saluto	personalizzato".	{emote: Love}E così mi sono messo a pensare	che sarebbe stato bello avere	un saluto tutto mio!	{emote: Distress}Il problema è che sono a corto	di idee!{pause 20} A te viene in mente	qualche bel saluto,{pause 8} {Player nickname (green)}?{Player can respond (0005):0004-0000-0003-0028}	Che ne dici di questo?	Purtroppo no.
+"003"	{emote: Sadness}Sigh.{pause 40} Non riesco a credere che	tu possa piantarmi in asso così,	{Player nickname (green)}.{pause 20} Pensavo fossimo amici.{000b-0003-0002-cd01}
+"004"	{emote: Happiness}Sapevo di poter{pause 20} contare su di te!	OK, spara! Sono tutto orecchi,{pause 8}	{catchphrase}!
+"005"	{emote: Reset}OK, proviamolo subito!{pause 40}	{emote: Greetings}"{capitalized}{Greeting begin}　　　　　　　　　　{Greeting end}".{Wait for input}	{emote: Bashful}Che te ne pare?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	È perfetto!	Insomma...
+"006"	{emote: Distress}Eh?!{Wait for input} Beh, allora ripetimelo di nuovo,	{pause 8}{catchphrase}!
+"007"	{0009-0000-0004-0008-0009}
+"008"	{capitalized}{Greeting begin}　　　　　　　　　　{Greeting end}!{pause 40}	{emote: Love}Mi piace!{pause 20} Mitico!
+"009"	{emote: Greetings}{capitalized}{Greeting begin}　　　　　　　　　　{Greeting end}!{pause 40}	{emote: Glee}Evvai!{pause 20}	Ti sembro un duro adesso, eh?
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Sunny}Grazie per la splendida idea,{pause 20}	{Player nickname (green)}!
+"012"	{emote: Daydreaming}Ah ah ah!{pause 20} Non vedo l'ora di usare	il mio nuovo saluto,{pause 8} {catchphrase}!
+"013"	Grazie!{pause 20} È un'idea geniale,{pause 8}	{catchphrase}.
+"014"
+"015"
 == 4 ==
-"001"	Pssst, {Player nickname (green)}
-"002"	{emote: Happiness}
-"003"	{emote: Sadness}
-"004"	{emote: Happiness}
-"005"	{emote: Reset}
-"006"	{emote: Distress}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{capitalized}
-"009"	{emote: Greetings}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Sunny}
-"012"	{emote: Daydreaming}
-"013"	Danke!{pause 20}!
-"014"	
-"015"	
+"001"	Pssst, {Player nickname (green)}.{pause 20}{emote: Curious} Wär es nicht	toll, wenn wir ein Losungswort	hätten, das nur wir beide kennen?	{emote: Love}Dann wären wir wie Spione auf	geheimer Mission!{pause 20} {emote: Happiness}Also, welches	Losungswort schlägst du vor?{Player can respond (0005):0004-0000-0003-0028}	Wie wär's damit?	Spione sind doof.
+"002"	{emote: Happiness}Die coolen Jungs haben heutzutage	alle so einen tollen Gruß, den nur	ihre Clique kennt!	{emote: Love}Wenn ich so was hätte, wär ich	auch total cool und so!{Wait for input}{emote: Distress}Aber mir fällt überhaupt nichts	ein!{pause 20} Hast du vielleicht eine Idee,	{Player nickname (green)}?{Player can respond (0005):0004-0015-0003-0028}	Na klar! 	Nö.
+"003"	{emote: Sadness}Mann...{pause 40} Ich kann's nicht glauben,	dass du mich so hängen lässt,	{Player nickname (green)}.{pause 20} Wir sind doch Kumpels!{000b-0003-0002-cd01}
+"004"	{emote: Happiness}Auf dich kann man sich verlassen!{pause 20}	Also, was schlägst du vor?{pause 20} Ich bin	schon so gespannt{pause 8},{pause 8} {catchphrase}!
+"005"	{emote: Reset}Das muss ich gleich ausprobieren!{pause 40}	Ähem...{pause 40} {capitalized}{emote: Greetings}{Greeting begin}{Greeting end}!{Wait for input}	{emote: Bashful}Klang das gut?{confirmation-02}{Player can respond (0005):0007-0015-0006-0000}	Perfekt!	Hm...
+"006"	{emote: Distress}Nicht?!?{pause 20} Dann sag's mir doch	noch mal,{pause 8} {catchphrase}.
+"007"	{0009-0000-0004-0008-0009}
+"008"	{capitalized}{Greeting begin}{Greeting end}!{pause 40}	{emote: Love}Das klingt so verwegen!
+"009"	{emote: Greetings}{capitalized}{Greeting begin}{Greeting end}!{pause 40}	{emote: Glee}Hey!{pause 20} Klingt das cool oder was?
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Sunny}Danke für den tollen Vorschlag,{pause 20}	{Player nickname (green)}!
+"012"	{emote: Daydreaming}Äh, he he he!{pause 20} Wen kann ich als	Nächstes damit begrüßen,{pause 8}	{catchphrase}?
+"013"	Danke!{pause 20} Du hast echt die besten	Ideen,{pause 8} {catchphrase}.
+"014"
+"015"

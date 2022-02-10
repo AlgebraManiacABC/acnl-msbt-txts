@@ -1,7 +1,7 @@
 == 0 ==
-"001"	さてと{pause 8}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Distress}
+"001"	さてと{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}それじゃあ、そろそろ{pause 16}	おいとまさせてもらうね？	{emote: Sunny}{ruby (charSpan 2): きょう}今日は、ありがとう！{pause 16}	{ruby (charSpan 1): たの}楽しかったよ、{pause 8}{Player nickname (green)}{0005-000d-0000}
+"002"	{emote: Worry}あんまり　{ruby (charSpan 2): ながい}長居しちゃ{ruby (charSpan 1): わる}悪いからねぇ{pause 16}	そろそろ　ボクは{ruby (charSpan 1): かえ}帰るよ{Wait for input}	{emote: Greetings}アディオス！　{pause 8}{Player nickname (green)}{0005-000d-0000}！
+"003"	{emote: Worry}{ruby (charSpan 2): なごり}名残おしいけど、{pause 16}そろそろ	{ruby (charSpan 1): かえ}帰らせてもらうね、{pause 8}{catchphrase}{Wait for input}{emote: Anger}{Player name}という{ruby (charSpan 1): ひと}人が、{pause 16}	どういう{ruby (charSpan 2): じんぶつ}人物なのか	{ruby (charSpan 1): すこ}少し　わかった{ruby (charSpan 1): き}気がするよ	{emote: Sheepishness}フフフ{pause 8}・{pause 8}・{pause 8}・{pause 8}	それじゃあ、また{ruby (charSpan 1): あ}会おう！{pause 8}	{Player nickname (green)}{0005-000d-0000}！
+"004"	{emote: Alarmed}あれ？　{pause 16}{Player nickname (green)}{0005-000d-0000}{pause 32}	{emote: Worry}どこかに　{ruby (charSpan 1): で}出かけるのかい？{Wait for input}{emote: Reset}それなら、{pause 16}そろそろ	ボクも　{ruby (charSpan 1): かえ}帰らせてもらうよ{pause 30}	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　どうも　ありがとう！
+"005"	{emote: Alarmed}あ、{pause 16}{ruby (charSpan 1): で}出かけるんだね？{pause 8}	{Player nickname (green)}{0005-000d-0000}？{Wait for input}{emote: Soft Smile}そういうことなら、{pause 16}そろそろ　	ボクも　{ruby (charSpan 1): かえ}帰らせてもらうね{pause 30}	{emote: Glare}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): たの}楽しかったよ
+"006"	{emote: Distress}ちょ　ちょっと{ruby (charSpan 1): ま}待ってよ！{pause 16}	ボクを{ruby (charSpan 1): お}置いて　どこへ{ruby (charSpan 1): い}行くんだい？{pause 8}	{Player nickname (green)}{0005-000d-0000}？	{emote: Sheepishness}キミが　{ruby (charSpan 1): で}出かけるっていうなら、{pause 16}	ボクは　{ruby (charSpan 1): かえ}帰るよ、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は　キミの{ruby (charSpan 1): いえ}家に{ruby (charSpan 1): こ}来れて{pause 15}	{ruby (charSpan 1): よ}良かった{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}ありがとう！

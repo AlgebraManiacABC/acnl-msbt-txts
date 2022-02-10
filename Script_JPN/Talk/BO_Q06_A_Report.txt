@@ -1,54 +1,54 @@
 == 0 ==
-"001"	{0011-0001-0002-00-00}
-"002"	{emote: Happiness}
-"003"	{emote: Curious}
-"004"	{emote: Curious}
-"005"	{emote: Worry}
-"006"	{emote: Disbelief}
-"007"	{emote: Disbelief}
-"008"	{emote: Glee}
-"009"	{emote: Worry}
-"010"	{emote: Worry}
-"011"	{emote: Worry}
-"012"	{emote: Worry}
-"013"	{emote: Laughter}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{0011-0001-0002-00-00}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Sadness}
-"020"	{emote: Happiness}
-"021"	{emote: Disbelief}
-"022"	{emote: Disbelief}
-"023"	{emote: Happiness}
-"024"	{emote: Happiness}
-"025"	かりっぱなしで	{ruby (charSpan 2): じかん}時間がたってたけど、{pause 20}
-"026"	{emote: Worry}
-"027"	{emote: Glee}
-"028"	{emote: Sigh}
-"029"	{emote: Alarmed}
-"030"	{emote: Glee}
-"031"	{emote: Glee}
-"032"	{emote: Happiness}
-"033"	{emote: Happiness}
-"034"	{emote: Happiness}
-"035"	{emote: Happiness}
-"036"	{emote: Sadness}
-"037"	{emote: Mistaken}
-"038"	{emote: Happiness}
-"039"	{emote: Happiness}
-"040"	{emote: Happiness}
-"041"	{emote: Curious}
-"042"	{emote: Curious}
-"043"	{emote: Happiness}
-"044"	{emote: Disbelief}
-"045"	{emote: Worry}
-"046"	{emote: Sadness}
-"047"	{emote: Disbelief}
-"048"	{emote: Alarmed}
-"049"	{emote: Mistaken}
-"050"	{emote: Disbelief}
-"051"	そっかぁ～{pause 20}
-"052"	{emote: Happiness}
-"053"	{emote: Sadness}
+"001"	{0011-0001-0002-0000}{0005-000d-0000}に	おとどけもの　ありがとぉ{Wait for input}{emote: Love}ボクのえらんだ　プレゼント{pause 20}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってもらえたかなぁ～
+"002"	{emote: Happiness}そういえば{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}に	おとどけ　ありがとぉ、{pause 8}{catchphrase}
+"003"	{emote: Curious}どんな　はんのうだった～？{000f-0005-0004-0000-0000}	そうそう・・・	{ruby (charSpan 1): おぼ}覚えてない
+"004"	{emote: Curious}どうだった？{pause 20}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってくれたかなぁ？{000f-0005-0004-0000-0000}	{ruby (charSpan 1): じつ}実は・・・	{ruby (charSpan 1): おぼ}覚えてない
+"005"	{emote: Worry}えぇ～{pause 20}	どんな　はんのうだったか	わすれちゃったの～？{Wait for input}{emote: Resigned}キミも　わすれんぼ	なんだねぇ、{pause 8}{catchphrase}
+"006"	{emote: Disbelief}{0007-000b-0000}えぇ～？！{pause 20}	あけちゃったのぉ～？{Wait for input}{emote: Sadness}もぉ～{pause 20}	せっかく　きれいに	つつんだのに～
+"007"	{emote: Disbelief}{0007-000b-0000}えぇ～？！{pause 20}	あけちゃったのぉ～？{Wait for input}{emote: Distress}しかも　あのコは	それを{ruby (charSpan 1): し}知らないのぉ？！{Wait for input}{emote: Sadness}うぅ{pause 8}・{pause 8}・{pause 8}・{pause 20}	きっと　ボクが　だらしないコって	{ruby (charSpan 1): おも}思われたよね{pause 8}・{pause 8}・{pause 8}・
+"008"	{emote: Glee}よかったぁ～{pause 20}	きてくれたんだねぇ！{Wait for input}{Player nickname (green)}{0005-000d-0000}{pause 20}	おとどけ　ありがとぉ、{pause 8}{catchphrase}
+"009"	{emote: Worry}そっかぁ～{pause 20}	まだ　きてくれてないのかぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}はずかしがるほど	うれしかったのかなぁ{pause 8}	{catchphrase}
+"010"	{emote: Worry}{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入らなかったかぁ{pause 8}・{pause 8}・{pause 8}・{pause 40}	ああいうの、{pause 20}	すきだと{ruby (charSpan 1): おも}思ったんだけどなぁ～
+"011"	{emote: Worry}そっかぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	あんまり　{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入って	もらえなかったんだねぇ{Wait for input}{emote: Laughter}えへへ～{pause 20}	プレゼント　{ruby (charSpan 1): だい}大しっぱい、{pause 8}{catchphrase}{pause 40}{emote: Happiness}
+"012"	{emote: Worry}フツーってかんじかぁ～{Wait for input}	{emote: Sunny}でも　それって{pause 20}	ちょうどいい　ってことだよね！
+"013"	{emote: Laughter}やっぱり　よろこんでたでしょ～！{pause 20}	あのコの　すきそうなものって	ボク　わかるんだぁ、{pause 8}{catchphrase}{pause 40}{emote: Happiness}
+"014"	{emote: Happiness}よろこんで　くれたんだねぇ！{pause 40}	{emote: Pride}えへん！{pause 20}	ボクのカンに　くるいはなかったよぉ
+"015"	{emote: Happiness}そっかぁ～	よろこんでたんだねぇ{pause 40}	たまたま　シュミに{ruby (charSpan 1): あ}合ってたのかな！
+"016"	{0011-0001-0002-0000}{0005-000d-0000}に	おとどけありがとぉ～！{Wait for input}{emote: Worry}あやまる　ゆうきが	なかなか　{ruby (charSpan 1): で}出なくって{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}だから{pause 20}　すっごく	たすかっちゃったぁ{pause 8}	{catchphrase}
+"017"	{emote: Happiness}{0011-0001-0002-0000}{0005-000d-0000}に	とどけてくれて、{pause 20}	ホントにありがとぉ～{Wait for input}{emote: Curious}で、{pause 20}あのコ　まだおこってた？{000f-0005-0004-0000-0000}	そうそう・・・	{ruby (charSpan 1): おぼ}覚えてない
+"018"	{emote: Happiness}{0011-0001-0002-0000}{0005-000d-0000}に	とどけてくれて、{pause 20}	ホントにありがとぉ～{Wait for input}{emote: Curious}で、{pause 20}あのコ　まだおこってた？{000f-0005-0004-0000-0000}	そうそう・・・	{ruby (charSpan 1): じつ}実は・・・
+"019"	{emote: Sadness}えぇ～{pause 20}	わすれちゃったのぉ～？{pause 40}	{ruby (charSpan 1): はや}早く　なかなおりが　したいのに～
+"020"	{emote: Happiness}そっかぁ～{pause 20}	ゆるしてくれそうなんだねぇ～{Wait for input}{emote: Glee}えへへ～{pause 20}	なかなおり　できそうで	よかったぁ、{pause 8}{catchphrase}
+"021"	{emote: Disbelief}{0007-000b-0000}えぇ～？！{pause 20}	あけちゃったのぉ～？{Wait for input}{emote: Sadness}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	なかなおり　できなかったら　	どうするのさぁ、{pause 8}{catchphrase}
+"022"	{emote: Disbelief}{0007-000b-0000}えぇ～？！{pause 20}	キミ{pause 20}　ほうそう{ruby (charSpan 1): し}紙	あけちゃったのぉ？{Wait for input}{emote: Distress}しかも{pause 20}　あのコは	{ruby (charSpan 1): き}気づいてないって～？！{Wait for input}{emote: Sadness}もぉ～{pause 40}	ボクたち　なかなおり	できるのかなぁ{pause 8}・{pause 8}・{pause 8}・
+"023"	{emote: Happiness}{0011-0001-0002-0000}{0005-000d-0000}への	おとどけもの　ありがとぉ～！{pause 40}	たすかっちゃったぁ、{pause 8}{catchphrase}
+"024"	{emote: Happiness}もし　このまま	かりっぱなしだったら{pause 20}	カミナリが　おちてたかもねぇ～{Wait for input}{emote: Anger}{0007-000a-0000}ゴロゴロゴロ{0007-000a-0000}{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Star Yell}{Text size 150%}{pause 15}{0007-000b-0000}ピッシャァ～ン！{pause 40}{emote: Reset}{Wait for input}{Text size 100%}{emote: Fearful}ホ、{pause 20}ホントに	かえせてよかったぁ～
+"025"	かりっぱなしで	{ruby (charSpan 2): じかん}時間がたってたけど、{pause 20}	あのコ　{ruby (charSpan 1): なに}何か{ruby (charSpan 1): い}言ってた？{000f-0005-0004-0000-0000}	そういえば・・・	{ruby (charSpan 1): おぼ}覚えてない
+"026"	{emote: Worry}もぉ～{pause 20}	わすれっぽいなぁ{pause 20}	{Player nickname (green)}{0005-000d-0000}{Wait for input}{emote: Resigned}もしかして　キミも	かりっぱなしのものとか{pause 20}	おうちに　あるんじゃないのぉ～？
+"027"	{emote: Glee}はぁ～{pause 20}　よかったぁ～{pause 40}	あのコ　おこったら	こわそうだもんねぇ、{pause 8}{catchphrase}
+"028"	{emote: Sigh}そっかぁ～{pause 20}	よかったぁ、{pause 8}{catchphrase}{Wait for input}{emote: Reset}だって　もし　あのコに	{ruby (charSpan 1): め}目をつけられたら、{Wait for input}{emote: Distress}「かしたらかえってこないヤツ」	って{pause 20}　{ruby (charSpan 2): むらじゅう}村中でウワサされちゃうもん
+"029"	{emote: Alarmed}へぇ～{pause 20}	つつみ{ruby (charSpan 1): がみ}紙を{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってたぁ？{Wait for input}{emote: Love}ボク{pause 20}　{ruby (charSpan 1): おんな}女の{ruby (charSpan 1): ひと}人のきもちが	わかってきたかもぉ～！
+"030"	{emote: Glee}あぁ～　よかったぁ～{pause 40}	あのコが　おこったら{pause 20}	お{ruby (charSpan 1): かあ}母さんより　こわそうだもんねぇ
+"031"	{emote: Glee}よかったぁ～！{pause 20}	おこってなくて！{Wait for input}{emote: Happiness}まぁ　あのコなら{pause 20}	いつかえしても	おこったりしないけどね
+"032"	{emote: Happiness}よかったぁ～{pause 20}	おこってなかったんだねぇ？{Wait for input}{emote: Resigned}これで{pause 20}　いきなり{ruby (charSpan 1): おお}大きい{ruby (charSpan 1): こえ}声で	おどかされなくなるといいなぁ～
+"033"	{emote: Happiness}よかったぁ～！{pause 40}	{emote: Anger}{0007-000b-0000}「おせぇよっ！」{pause 40}	とか{pause 20}、{emote: Happiness}{ruby (charSpan 1): い}言われると{ruby (charSpan 1): おも}思ってたもん
+"034"	{emote: Happiness}えぇ～{pause 15}	いくらボクでも	あれは　{ruby (charSpan 1): た}食べないよぉ～
+"035"	{emote: Happiness}おとどけもの　ありがとねぇ～！{pause 40}	{0011-0001-0002-0000}{0005-000d-0000}{pause 20}	{ruby (charSpan 1): なに}何か{ruby (charSpan 1): い}言ってた～？{000f-0005-0004-0000-0000}	そういえば・・・	{ruby (charSpan 1): おぼ}覚えてない
+"036"	{emote: Sadness}えぇ～？！{pause 20}	わすれちゃったのぉ～？{Wait for input}{emote: Disagreement}でも　まぁ、{pause 20}	{emote: Happiness}とどけてくれたなら　いいや！{pause 20}	ありがとぉ～
+"037"	{emote: Mistaken}えぇ～？！{pause 20}	もう{ruby (charSpan 1): おな}同じモノ	{ruby (charSpan 1): か}買っちゃってたのかぁ～{Wait for input}{emote: Worry}{ruby (charSpan 2): ひとあし}一足おそかったんだねぇ{pause 20}	わるいことしちゃったなぁ
+"038"	{emote: Happiness}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	よろこんでたっぽいねぇ{pause 40}	ちゃんとかえせて　よかったよぉ～
+"039"	{emote: Happiness}そういえば、{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}に	おとどけ　ありがとぉ～
+"040"	{emote: Happiness}そういえば、{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}に	とどけてくれて　ありがとぉ～
+"041"	{emote: Curious}それで{pause 20}　どうだったぁ～？{000f-0005-0004-0000-0000}	そうそう・・・	{ruby (charSpan 1): おぼ}覚えてない
+"042"	{emote: Curious}あのコ　どんな{ruby (charSpan 1): かお}顔してたぁ？{000f-0005-0004-0000-0000}	{ruby (charSpan 1): じつ}実は・・・	{ruby (charSpan 1): おぼ}覚えてない
+"043"	{emote: Happiness}それで　あのコ{pause 20}	よろこんでたぁ？{000f-0005-0004-0000-0000}	そうそう・・・	{ruby (charSpan 1): おぼ}覚えてない
+"044"	{emote: Disbelief}{0007-000b-0000}えぇ～？！{pause 40}	かってにあけちゃったのぉ？！{Wait for input}{emote: Distress}キミって{pause 20}　けっこう	ダイタンなこと　するんだねぇ{pause 40}	おこられなかったぁ？
+"045"	{emote: Worry}わすれちゃったのぉ？{pause 40}	よろこんでたか　どうかくらいは	{ruby (charSpan 1): し}知りたかったなぁ{pause 8}・{pause 8}・{pause 8}・
+"046"	{emote: Sadness}なぁ～んだ{pause 8}・{pause 8}・{pause 8}・{pause 20}	けっきょく　あのにもつ{pause 20}	なんだったんだろぉ～
+"047"	{emote: Disbelief}{0007-000b-0000}えぇ～？！{pause 40}	アレ{pause 20}　{Player nickname (green)}{0005-000d-0000}への	プレゼントだったのぉ～？！{Wait for input}{emote: Delight}すご～い！{pause 20}	よかったね、{Player nickname (green)}{0005-000d-0000}
+"048"	{emote: Alarmed}えぇ～！{pause 40}	おれいもらえたのぉ？！{Wait for input}{emote: Worry}いいなぁ～{pause 20}	ボクが　おとどけにいけば	よかったよぉ、{pause 8}{catchphrase}
+"049"	{emote: Mistaken}えぇ～？！{pause 20}	もう　{ruby (charSpan 1): あたら}新しいの	{ruby (charSpan 1): か}買っちゃってたのかぁ～{Wait for input}{emote: Worry}{ruby (charSpan 2): ひとあし}一足おそかったんだねぇ{pause 20}	わるいことしちゃったなぁ
+"050"	{emote: Disbelief}えぇ～？！{pause 40}	アレって　{Player nickname (green)}{0005-000d-0000}への	プレゼントだったのぉ～？！{Wait for input}{emote: Worry}それなのに　ボク、	おつかい　たのんでごめんよぉ～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}でも{pause 20}	{emote: Happiness}コレって　あるいみ{pause 20}	ドッキリせいこうだよねぇ、{pause 8}{catchphrase}
+"051"	そっかぁ～{pause 20}	おれいを　もらえたんだねぇ～{pause 40}	{emote: Happiness}よかったね　{Player nickname (green)}{0005-000d-0000}
+"052"	{emote: Happiness}へぇ～！{pause 20}	さっそく　きがえてたんだぁ～{pause 40}	よろこんでたなら　よかったよぉ
+"053"	{emote: Sadness}えぇ～{pause 20}　イマイチ～？{pause 40}	せっかく　おとどけしたのに{pause 20}	なんか　ざんねんだねぇ、{pause 8}{catchphrase}

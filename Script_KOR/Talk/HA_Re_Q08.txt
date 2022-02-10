@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Outrage}
-"002"	너네 집에 놀러 가는 거{pause 8}
-"003"	{emote: Curious}
-"004"	{emote: Distress}
+"001"	{emote: Outrage}야야ー!{pause 20}	나 지난번에 시간 맞춰서	너네 집 갔었거든ー?{Wait for input}{emote: Anger}완전 실망이다ー!{pause 20}	집에서 같이 놀기로 약속을 했으면	얌전히 집에서 기다렸어야지ー!
+"002"	너네 집에 놀러 가는 거{pause 8}	엄청 기대하고 있었는데{pause 40}	{emote: Mistaken}사실은 {pause 20}급한 볼일이 갑자기 생겼지 뭐냐?!{Wait for input}{emote: Worry}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}! 진짜 미안!{pause 20}	아무래도 너네 집은 다음에	놀러 가야겠어, {pause 8}{catchphrase}
+"003"	{emote: Curious}지난번에 나 말이야,{pause 20}	약속 시간에 너네 집에	안 갔잖아ー?{Wait for input}{emote: Laughter}하하핫!{pause 20} 진짜 미안하다!{pause 20}	갑자기 급한 볼일이	생겼거든, {pause 8}{catchphrase}{pause 20}{emote: Soft Smile}{Wait for input}{emote: Disagreement}앞으로는 이런 일 없게 할 테니{pause 20}	{emote: Happiness}다음번에 다시 초대해주라!
+"004"	{emote: Distress}너 지난번엔	대체 어떻게 된 거냐ー?{Wait for input}기분 좋게 따라가고 있었는데{pause 20}	정작 너는 사라져 버리고!{Wait for input}{emote: Resigned}다음에는 꼭 집 안까지	안내해달란 말이다ー!

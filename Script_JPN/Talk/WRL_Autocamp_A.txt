@@ -1,17 +1,17 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{000a-0007-000c-0c-00-0c-00-0b-00-0b-00-0c-00-0c-00}
-"003"	{000a-0007-000c-0c-00-0c-00-0b-00-0b-00-0c-00-0c-00}
-"004"	
-"005"	
-"006"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"007"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"008"	
-"009"	
-"011"	{emote: Happiness}
-"012"	{emote: Surprise}
-"013"	{emote: Sigh}
-"014"	{emote: Worry}
-"015"	{ruby (charSpan 1): もり}森の{ruby (charSpan 1): なか}中、{pause 8}
-"016"	{emote: Agreement}
-"017"	{ruby (charSpan 1): え}絵を{ruby (charSpan 1): か}描くのに{pause 20}
+"001"	{emote: Alarmed}あっ！{pause 20}　アンタ　この{ruby (charSpan 1): むら}村に	{emote: Reset}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たでゴワスか？{pause 40}	{emote: Agreement}オイラも　{ruby (charSpan 1): おな}同じでゴワス！
+"002"	{000a-0007-000c-000c-000c-000b-000b-000c-000c}
+"003"	{000a-0007-000c-000c-000c-000b-000b-000c-000c}
+"004"
+"005"
+"006"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"007"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"008"
+"009"
+"011"	{emote: Happiness}どーも、{pause 4}どーも！{pause 20}	おジャマ　してるでゴワス！{Wait for input}{emote: Agreement}この{ruby (charSpan 1): むら}村は　とても	いいところでゴワスな！{emote: Soft Smile}
+"012"	{emote: Surprise}あ！{pause 20}　この{ruby (charSpan 1): むら}村の{ruby (charSpan 1): ひと}人でゴワスか？{emote: Soft Smile}{pause 30}	{emote: Agreement}おジャマ　してるでゴワス！
+"013"	{emote: Sigh}はあぁぁ～～{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Worry}ハラがへったでゴワスぅ～{Wait for input}{emote: Reset}{ruby (charSpan 1): た}食べても{ruby (charSpan 1): た}食べても{pause 16}	{emote: Worry}すぐに　ハラがへるでゴワス{pause 8}・{pause 8}・{pause 8}・
+"014"	{emote: Worry}ハラがへったでゴワス{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Reset}{ruby (charSpan 1): お}起きている{ruby (charSpan 1): あいだ}間は{pause 16}	{emote: Disagreement}ず～っと　ハラがへってるでゴワス	{emote: Reset}{ruby (charSpan 1): い}生きるってことは{pause 8}	{emote: Worry}{ruby (charSpan 1): た}食べるってことで　ゴワスなぁ{pause 8}・{pause 8}・{pause 8}・
+"015"	{ruby (charSpan 1): もり}森の{ruby (charSpan 1): なか}中、{pause 8}おいしい{ruby (charSpan 2): くうき}空気の{ruby (charSpan 1): なか}中で	{emote: Happiness}{ruby (charSpan 1): た}食べるキャンプ{ruby (charSpan 2): りょうり}料理は{pause 8}　{ruby (charSpan 2): かくべつ}格別でゴワス{Wait for input}{emote: Thought}おいしい{ruby (charSpan 2): りょうり}料理を{ruby (charSpan 1): た}食べるために	キャンプをするのか{pause 8}・{pause 8}・{pause 8}・{Wait for input}キャンプをするから	メシがウマイのか{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}とにかく　オイラは{pause 8}	{emote: Agreement}ハラがへるから{ruby (charSpan 1): た}食べる、{pause 20}	{emote: Soft Smile}それだけでゴワス
+"016"	{emote: Agreement}その{ruby (charSpan 1): とき}時の{ruby (charSpan 2): はや}流行り{pause 12}　{emote: Reset}とか{pause 20}	{emote: Agreement}{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): ひと}人にどう{ruby (charSpan 1): おも}思われるか{pause 12}　{emote: Reset}とか{pause 12}	{emote: Disagreement}{ruby (charSpan 2): かんけい}関係ないでゴワス！{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): じぶん}自分が{ruby (charSpan 1): か}描きたいものを　{emote: Agreement}{ruby (charSpan 1): か}描くだけでゴワス！{pause 30}	{emote: Soft Smile}そしてハラがへっても　{ruby (charSpan 1): た}食べものがない{ruby (charSpan 1): とき}時は{pause 20}	{emote: Agreement}{ruby (charSpan 1): ね}寝るんでゴワス！
+"017"	{ruby (charSpan 1): え}絵を{ruby (charSpan 1): か}描くのに{pause 20}　{ruby (charSpan 2): うま}上手いとか{pause 8}{ruby (charSpan 2): へた}下手とか、{pause 16}	{ruby (charSpan 1): じつ}実は　{emote: Disagreement}{ruby (charSpan 2): かんけい}関係ないと{ruby (charSpan 1): おも}思うでゴワス{Wait for input}{emote: Greetings}{ruby (charSpan 2): いちばん}一番　{ruby (charSpan 2): たいせつ}大切なのは、{pause 20}{emote: Soft Smile}{ruby (charSpan 1): か}描きたいものを	{ruby (charSpan 3): せいいっぱい}精一杯　{ruby (charSpan 1): か}描くってことなんだと{pause 20}	{emote: Reset}オイラは　{emote: Agreement}{ruby (charSpan 1): おも}思うんでゴワス

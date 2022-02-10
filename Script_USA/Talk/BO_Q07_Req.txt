@@ -1,75 +1,75 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Laughter}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Alarmed}
-"006"	{emote: Thought}
-"007"	{emote: Alarmed}
-"008"	{emote: Reset}
-"009"	{emote: Alarmed}
-"010"	{emote: Surprise}
-"011"	{emote: Glee}
-"012"	{emote: Inspired}
-"013"	{emote: Surprise}
-"014"	{emote: Happiness}
-"015"	{emote: Agreement}
-"016"	Oh, this thing{pause 8}!
-"017"	{emote: Alarmed}
-"018"	{emote: Alarmed}
-"019"	{emote: Soft Smile}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Reset}
-"023"	{emote: Reset}
-"024"	{emote: Sunny}
+"001"	{emote: Worry}Huh?{pause 20} You're not gonna show me	what you found?
+"002"	{emote: Laughter}Don't tell me you lost the lost item,	{Player nickname (green)}!{pause 40}{emote: Happiness}
+"003"	{emote: Worry}How can I tell if it's mine if you	won't show it to me?
+"004"	{emote: Worry}Sorry,{pause 20} this isn't mine,{pause 8} {catchphrase}.{Wait for input}{emote: Sunny}But with Detective {Player nickname (green)} hot	on the case,{pause 20} I'm sure the owner will	be found before too long.
+"005"	{emote: Alarmed}{0007-000b-0000}Whoa!{pause 40} {emote: Happiness}Well{pause 8}.{pause 8}.{pause 8}.{emote: Disagreement}it's not mine.{Wait for input}{emote: Happiness} You	should ask around,{pause 8} {catchphrase}.
+"006"	{emote: Thought}Hm{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Disagreement}Nope, I've never seen this	before.{Wait for input}{emote: Reset}Good luck finding the owner,{pause 8}	{catchphrase}.
+"007"	{emote: Alarmed}{0007-000b-0000}Yess!{pause 20} It's the comic book I lost!{pause 20}	I'm so glad you found it!{Wait for input}{emote: Joy}"{000e-0004-0000}{0005-000f-0002-0000} Man" issue #{Number (0x6)}	is a total collector's item!{pause 40} It's good	to have it back!
+"008"	{emote: Reset}{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Alarmed}{0007-000b-0000}Hey!{pause 40} This is my book!{Wait for input} {emote: Happiness}See, I wrote	my name on the back!{Wait for input}{emote: Cold Chill}{pause 20}Oh, wow,{pause 20} I never realized how bad	my handwriting was.{pause 20} No wonder you	couldn't read this chicken scratch.
+"009"	{emote: Alarmed}{0007-000b-0000}Hey!{pause 20} This is my book!{pause 20} I was looking	everywhere for this thing!{pause 20} I figured	it was gone forever.	{emote: Glee}It's so awesome you found it!
+"010"	{emote: Surprise}{0007-000b-0000}Whoa!{pause 20} I was looking forever for this!{Wait for input}	This is the bag I use to store	desserts!	{emote: Love}The {0005-0010-0002-0000} I was saving	is still inside!{pause 40} I'm so gonna eat all of	it when I get home,{pause 8} {catchphrase}.
+"011"	{emote: Glee}Wow!{pause 20} I can't believe it!{pause 40} I haven't	seen this bag in years!{Wait for input} It's like being	reunited with an old friend!
+"012"	{emote: Inspired}{pause 20}{0007-000b-0000}Excellent!{pause 40} You found my bag!{Wait for input}	{emote: Distress}Why am I such a space cadet?!
+"013"	{emote: Surprise}{0007-000b-0000}Oooh!{pause 40} You found my mitten!{Wait for input}	{emote: Happiness}Excellent!{pause 20} I'd been looking for this	FORever!
+"014"	{emote: Happiness}Yep, this is definitely my mitten.{pause 20}	Now I won't have to wander around	with one cold hand!
+"015"	{emote: Agreement}Mm hmm!{pause 20} This is my mitten, all	right!{Wait for input} {emote: Love}I can smell the french fries{pause 20} I	ate last time I wore it!
+"016"	Oh, this thing{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Happiness}I got tired of	carrying it, so I put it down to pick	up later.	{emote: Laughter}I didn't expect you to bring it to me,	{Player nickname (green)}.{pause 20} Now that's what I call	service,{pause 8} {catchphrase}!{pause 40}{emote: Happiness}
+"017"	{emote: Alarmed}{0007-000b-0000}Oh!{pause 20} This is mine!{Wait for input} {emote: Happiness}I'm so glad you	found it for me, {Player nickname (green)}!
+"018"	{emote: Alarmed}{0007-000b-0000}Whoa!{pause 20} I've been looking everywhere	for this!{Wait for input}But{pause 20} it's just an empty bag.{pause 40} {emote: Daydreaming}I gotta	think of something to put inside it.
+"019"	{emote: Soft Smile}Here's a thank-you gift for your	trouble.{pause 20} I hope you like it.{pause 20}	It's {Article(word-dependant)}{0011-0003-0002-0000}!
+"020"	{emote: Happiness}Thanks for returning my stuff to	me,{pause 20} {Player nickname (green)}!{Wait for input}Here.{pause 8} Please take {Article(word-dependant)}	{0011-0003-0002-0000} for your	trouble,{pause 8} {catchphrase}!
+"021"	{emote: Happiness}Thanks, {Player nickname (green)}!{pause 40} I have a	present for you to say thanks—	{Article(word-dependant)}{0011-0003-0002-0000}.
+"022"	{emote: Reset}Let me know if you find any other	lost items!
+"023"	{emote: Reset}Please keep your eyes peeled for	any other lost items, {Player nickname (green)}.
+"024"	{emote: Sunny}You're so good at sleuthing,{pause 8} you	should be a detective!
 == 1 ==
-"001"	{emote: Worry}
-"002"	{emote: Laughter}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Alarmed}
-"006"	{emote: Thought}
-"007"	{emote: Alarmed}
-"008"	{emote: Reset}
-"009"	{emote: Alarmed}
-"010"	{emote: Surprise}
-"011"	{emote: Glee}
-"012"	{emote: Inspired}
-"013"	{emote: Surprise}
-"014"	{emote: Happiness}
-"015"	{emote: Agreement}
-"016"	Ah, esto{pause 8}
-"017"	{emote: Alarmed}
-"018"	{emote: Alarmed}
-"019"	{emote: Soft Smile}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Reset}
-"023"	{emote: Reset}
-"024"	{emote: Sunny}
+"001"	{emote: Worry}¿Eh?{pause 20} ¿No vas a enseñarme	lo que has encontrado?
+"002"	{emote: Laughter}¡No me digas que has perdido	el objeto perdido, {Player nickname (green)}!{pause 40}{emote: Happiness}
+"003"	{emote: Worry}¿Cómo puedo saber si es mío	si no me lo enseñas?
+"004"	{emote: Worry}Huy, lo siento{pause 20} pero esto	no es mío,{pause 8} {catchphrase}.{Wait for input}{emote: Sunny}Aunque si {el/la} detective {Player nickname (green)}	se ocupa del caso,{pause 20} ¡seguro que el	propietario no tardará en aparecer!
+"005"	{emote: Alarmed}{0007-000b-0000}¡Qué flipe!{pause 40} {emote: Happiness}Pero{pause 8}.{pause 8}.{pause 8}.{emote: Disagreement} me temo	que eso no es mío.{Wait for input}{emote: Happiness} Tendrás que	preguntar por ahí,{pause 8} {catchphrase}.
+"006"	{emote: Thought}Hum{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Disagreement}Pues no, nunca había visto	esto antes.{Wait for input}{emote: Reset}A ver si tienes suerte y encuentras	al propietario,{pause 8} {catchphrase}.
+"007"	{emote: Alarmed}{0007-000b-0000}¡Síii!{pause 20} ¡Es el tebeo que perdí!{pause 20} ¡Ay,	qué bien que lo has encontrado!{Wait for input}{emote: Joy}¡El N.º 1 de "{capitalized}{0005-000f-0002-0000}mán"	es un objeto de coleccionista!{pause 40}	¡Me alegro de haberlo recuperado!
+"008"	{emote: Reset}Eeh{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Alarmed}{0007-000b-0000} ¡Oye!{pause 40} ¡Es mi libro!{Wait for input} {emote: Happiness}Mira,	¡tiene escrito mi nombre a boli	en la primera página!	{emote: Cold Chill}{pause 20}Huy,{pause 20} no era consciente de que tenía	tan mala letra.{pause 20} No me extraña que	no hayas reconocido mi nombre.
+"009"	{emote: Alarmed}{0007-000b-0000}¡Eh!{pause 20} ¡Este es mi libro!{pause 20} ¡Lo estuve	buscando por todas partes!{pause 20}	Ya lo había dado por perdido.	{emote: Glee}¡Qué bien que lo has encontrado!
+"010"	{emote: Surprise}{0007-000b-0000}¡Vaya!{pause 20} ¡He estado buscando esto	como un loco!{Wait for input} ¡Es la bolsita en la	que suelo guardar los postres!	{emote: Love}¡{capitalized}{000e-0001-0000}{0005-0010-0002-0000} que había	guardado sigue dentro!{pause 40} ¡Pues me	l{o/a/} pienso zampar,{pause 8} {catchphrase}!
+"011"	{emote: Glee}¡Aaaaah!{pause 20} ¡Es increíble!{pause 40} ¡Hacía años	que no veía esta bolsa!{Wait for input} ¡Es como	encontrarse con un viejo amigo!
+"012"	{emote: Inspired}{pause 20}{0007-000b-0000}¡Ay, estupendo!{pause 40} ¡Has encontrado	mi bolsa!{Wait for input} {emote: Distress}¿Por qué siempre ando	con esa empanada mental?
+"013"	{emote: Surprise}{0007-000b-0000}¡Oooh!{pause 40} ¡Has encontrado mi	manopla!{Wait for input} {emote: Happiness}¡Genial!{pause 20} ¡Llevaba	SIGLOS buscándola!
+"014"	{emote: Happiness}Pues sí, es mi manopla.{pause 20}	¡Ahora no tendré que ir	por ahí con una mano fría!
+"015"	{emote: Agreement}¡Ajá!{pause 20} ¡Esa es mi manopla!{Wait for input} {emote: Love}¡Aún	tiene el olor de las patatas fritas	que me comí llevándola puesta!
+"016"	Ah, esto{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Happiness}Me cansé de llevarla,	así que la dejé por ahí pensando:	"Luego me pasaré a recogerla...".	{emote: Laughter}¡No esperaba que me la trajeras,	{Player nickname (green)}!{pause 20} ¡Pues sí que eres	servicial,{pause 8} {catchphrase}!{pause 40}{emote: Happiness}
+"017"	{emote: Alarmed}{0007-000b-0000}¡Oh!{pause 20} ¡Eso es mío!{Wait for input} {emote: Happiness}¡Qué bien que	lo has encontrado, {Player nickname (green)}!
+"018"	{emote: Alarmed}{0007-000b-0000}¡Vaya!{pause 20} ¡He estado buscando esto	por todas partes!{Wait for input}Pero{pause 20} es solo una bolsa vacía.{pause 40}{emote: Daydreaming}	Tengo que decidir qué le voy	a meter dentro.
+"019"	{emote: Soft Smile}Toma un regalo de agradecimiento	por las molestias.{pause 20} A ver si te gusta.{pause 20}	¡Es {Article(word-dependant)}{0011-0003-0002-0000}!
+"020"	{emote: Happiness}¡Gracias por devolverme	esto,{pause 20} {Player nickname (green)}!{Wait for input}Toma,{pause 8} ¡acepta	{Article(word-dependant)}{0011-0003-0002-0000}	por las molestias,{pause 8} {catchphrase}!
+"021"	{emote: Happiness}¡Gracias, {Player nickname (green)}!{pause 40}	Tengo un regalito para ti,	{Article(word-dependant)}{0011-0003-0002-0000}.
+"022"	{emote: Reset}¡Avísame si encuentras	cualquier otro objeto perdido!
+"023"	{emote: Reset}¡Ve con los ojos muy abiertos	por si aparece alguna otra	cosa perdida, {Player nickname (green)}!
+"024"	{emote: Sunny}¡Se te da tan bien investigar{pause 8}	que deberías ser detective!
 == 2 ==
-"001"	{emote: Worry}
-"002"	{emote: Laughter}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Alarmed}
-"006"	{emote: Thought}
-"007"	{emote: Alarmed}
-"008"	{emote: Reset}
-"009"	{emote: Alarmed}
-"010"	{emote: Surprise}
-"011"	{emote: Glee}
-"012"	{emote: Inspired}
-"013"	{emote: Surprise}
-"014"	{emote: Happiness}
-"015"	{emote: Agreement}
-"016"	Ah, ça{pause 8}!
-"017"	{emote: Alarmed}
-"018"	{emote: Alarmed}
-"019"	{emote: Soft Smile}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Reset}
-"023"	{emote: Reset}
-"024"	{emote: Sunny}
+"001"	{emote: Worry}Ben quoi?{pause 20} Tu ne veux pas me	montrer ce que tu as trouvé?
+"002"	{emote: Laughter}Ha ha! {capitalized}{Player nickname (green)}! Ne me dis pas	que tu l'as perdu.{pause 40}{emote: Happiness}
+"003"	{emote: Worry}Comment je peux savoir si c'est à	moi ou pas si tu ne me montres	rien?
+"004"	{emote: Worry}Désolé,{pause 20} mais ce n'est pas à moi,{pause 8}	{catchphrase}.{Wait for input}{emote: Sunny}Mais je suis sûr que Super	{Player nickname (green)} n'aura aucun mal à	retrouver à qui ça appartient.
+"005"	{emote: Alarmed}{0007-000b-0000}Waouh!{Wait for input} {emote: Happiness}Mais pas de chance{pause 8}.{pause 8}.{pause 8}. ce	truc n'est pas à moi,{pause 20} {catchphrase}.
+"006"	{emote: Thought}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Disagreement}Non, je n'ai jamais vu ce	truc avant.{Wait for input}{emote: Reset}Bonne chance pour trouver à qui ça	appartient,{pause 8} {catchphrase}.
+"007"	{emote: Alarmed}{0007-000b-0000}Yess!{pause 20} C'est la BD que j'avais	perdue!{pause 20} Je suis super content que	tu l'aies retrouvée!	{emote: Joy}C'est le numéro 46387 de la série	{capitalized}{0005-000f-0002-0000} Man! Il est	collector ce numéro!{pause 40}
+"008"	{emote: Reset}{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Alarmed}{0007-000b-0000} Hé, mais!{pause 40} Il est à moi ce livre!{Wait for input}	{emote: Happiness}Regarde, il y a même mon nom sur	la couverture.{Wait for input}{emote: Cold Chill}{pause 20}Mince...{pause 20} J'ai vraiment une écriture	de cochon, moi.{Wait for input}Pas étonnant que tu n'arrivais pas à	lire le nom, c'est écrit en pattes de	mouches.
+"009"	{emote: Alarmed}{0007-000b-0000}Mais!{pause 20} C'est mon livre!{pause 20} Je l'ai	cherché partout!{pause 20} Je ne pensais	vraiment pas le revoir un jour.	{emote: Glee}Tu es vraiment trop {fort/forte}!
+"010"	{emote: Surprise}{0007-000b-0000}Cool!{pause 20} Ça fait une éternité que je	cherchais ce truc!{Wait for input}	C'est mon sac à bonbons!	{emote: Love}Miam! J'espère que	{000e-0001-0000}{0005-0010-0002-0000} que j'avais	mis{/e/} dedans y est toujours.	Justement, j'ai comme un petit	creux, là,{pause 8} {catchphrase}.
+"011"	{emote: Glee}Waouh!{pause 20} J'ai du mal à y croire,	{catchphrase}!{Wait for input}Ça doit faire des années que je n'ai	pas vu ce sac à bonbons!{Wait for input} J'ai	l'impression de revoir un vieil ami!
+"012"	{emote: Inspired}{pause 20}{0007-000b-0000}Excellent!{pause 40} Tu as retrouvé mon sac	à bonbons!{Wait for input} {emote: Distress}Tu crois qu'ils se sont	bonbonifiés avec le temps?!
+"013"	{emote: Surprise}{0007-000b-0000}Oh, trop cool!{pause 40} Tu as trouvé ma	moufle droite!{Wait for input} {emote: Happiness}Excellent!{pause 20} Ça fait	une éternité que je la cherche!
+"014"	{emote: Happiness}Oui, pas de doute, c'est bien ma	moufle.{pause 20} Maintenant je n'aurais plus	froid à la patte droite.
+"015"	{emote: Agreement}Moui...{pause 20} C'est bien ma moufle. J'me	souvenais plus où je l'avais laissée...{Wait for input}{emote: Love}Elle sent encore la sauce barbecue{pause 20}	que j'ai mangée avec mes frites le	soir du mardi 29 novembre 2011.
+"016"	Ah, ça{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Happiness}J'étais fatigué de le porter,	alors je l'ai posé par terre en	pensant venir le reprendre plus tard.	{emote: Laughter}Je ne m'attendais pas à ce que tu	me l'amènes, {Player nickname (green)}. C'est	vraiment gentil de ta part.	La prochaine fois je te dirai où je le	poserai, comme ça tu iras plus vite,{pause 8}	{catchphrase}.{pause 40}{emote: Happiness}
+"017"	{emote: Alarmed}{0007-000b-0000}Hé, mais...{pause 20} C'est à moi, ça!{Wait for input} {emote: Happiness}C'est	vraiment cool que tu l'aies trouvé,	{Player nickname (green)}.
+"018"	{emote: Alarmed}{0007-000b-0000}Cool!{pause 30} Je l'ai cherché partout ce	truc!{Wait for input}{emote: Daydreaming}Bah,{pause 20} c'est seulement un sac vide,{pause 40}	mais je l'aime bien.
+"019"	{emote: Soft Smile}Prends ça. C'est pour te remercier	de la peine que tu t'es donnée.{Wait for input}J'espère que tu aimes ça.{pause 20}	C'est {Article(word-dependant)}{0011-0003-0002-0000}.
+"020"	{emote: Happiness}Merci de m'avoir ramené ça,{pause 20}	{Player nickname (green)}.{Wait for input}Tiens,{pause 8} je te donne {Article(word-dependant)}	{0011-0003-0002-0000} pour la	peine,{pause 8} {catchphrase}.
+"021"	{emote: Happiness}Tiens, {catchphrase}.{pause 40} C'est un petit	cadeau pour te remercier. C'est	{Article(word-dependant)}{0011-0003-0002-0000}.
+"022"	{emote: Reset}Préviens-moi si tu trouves d'autres	objets perdus!
+"023"	{emote: Reset}Si tu trouves d'autres objets	perdus, ça m'intéresse, {Player nickname (green)}.
+"024"	{emote: Sunny}Tu es drôlement {fort/forte} pour	retrouver les objets.{pause 8} Tu pourrais	faire détective privé{/e}.

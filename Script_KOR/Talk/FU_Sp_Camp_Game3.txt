@@ -1,27 +1,27 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Sheepishness}
-"003"	{emote: Distress}
-"004"	{emote: Glee}
-"005"	{emote: Glee}
-"006"	{emote: Joy}
-"007"	{emote: Glee}
-"008"	{0009-0000-0004-09-00-00-00}	
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{0009-0001-0006-06-00-0c-00-0c-00}
-"012"	{emote: Surprise}
-"013"	{0009-0000-0004-0e-00-0f-00}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{0009-0001-0006-05-00-11-00-11-00}
-"017"	{emote: Worry}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	{emote: Distress}
-"020"	{emote: Distress}
-"021"	{0009-0003-000a-04-00-04-00-03-00-03-00-03-00}
-"022"	
-"023"	{emote: Soft Smile}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	{emote: Worry}
+"001"	{emote: Happiness}있잖아요～! {pause 20}지금 갖고 계신{pause 10}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 15}	저한테{pause 10} 팔아주실 수 없을까요?	{emote: Glee}그냥 파시면{pause 10} 재미없으니까{pause 15}	얼마에 팔지 가격을 걸고{pause 10}	「사다리 타기 게임」을 하는 거예요!	{emote: Reset}저한테{pause 15} 사다리를 그린 표가 있는데요{Wait for input}	선택지 중 단 1개의 끝에만{pause 10}	과자 이름이 적혀 있답니다{Wait for input}{emote: Happiness}총 3개의 선택지 중에서{pause 10}	하나를 선택하셔서{pause 15} 그 끝에	과자 이름이 있으면{pause 10} 당신의 승리예요	{emote: Glee}단번에 맞히시면{pause 10}	아주 비싼 값에 제가 살 거예요!{Wait for input}{emote: Reset}사다리 표는 {pause 10}총 3장이 있으니까{pause 15}	3번까지 도전하실 수 있는데{Wait for input}실패 횟수가{pause 10} 많을수록{pause 5}	저한테 싸게 파셔야 한답니다{Wait for input}{emote: Happiness}전부 실패하면{pause 10}	대가도{pause 5} 그만큼 따르게 되니까{pause 15}	명심하셔야 해요!	{0007-000d-0000}{emote: Glee}어때요?{pause 30}	한번{pause 10} 도전해보시겠어요?!{Player can respond (0005):0007-0015-0002-0028}	해보자!	관둘래～
+"002"	{emote: Sheepishness}그렇군요～ {pause 20}아쉽네요{pause 30}	{emote: Soft Smile}그럼 다음에 혹시라도 마음이 바뀌시면{pause 10}	그때 하도록 해요!
+"003"	{emote: Distress}끄응{pause 8}・{pause 8}・{pause 8}・{pause 8}	{0005-000e-0002-0000}{000e-000e-0006-0002-c774-0000}네요{Wait for input}	이것도{pause 10} 마시는 거예요{Wait for input}{emote: Worry}최종적으로{pause 10} 3번 모두{pause 5} 실패하셨으니{pause 15}	{Blue}{Number (0x9)}벨{Color Reset}에{pause 5} 제게 파셔야 해요
+"004"	{emote: Glee}{0005-0010-0002-0000}{000e-000e-0008-0002-c774-0002-ac00} 나왔습니다!{pause 20}	드디어{pause 10} 맞히셨군요!{Wait for input}{emote: Soft Smile}그럼 {pause 10}3번 만에 맞히셨으니{pause 15}	{Blue}{Number (0x9)}벨{Color Reset}에{pause 5} 살게요
+"005"	{emote: Glee}{0005-0010-0002-0000}{000e-000e-000a-0004-c774-c5d0-0002-c608}요!{pause 20}	와아!{pause 20} 이번엔{pause 10} 제대로 맞히셨네요{Wait for input}{emote: Happiness}이렇게 되면{pause 10} {Blue}{Number (0x9)}벨{Color Reset}에{pause 10}	제가 사야겠군요!
+"006"	{emote: Joy}{0005-0010-0002-0000}!{pause 30}	축하합니다!{pause 20}{emote: Soft Smile}{Wait for input}{emote: Happiness}자,{pause 10} 단번에 맞히셨으니{pause 10}	{Blue}{Number (0x9)}벨{Color Reset}에{pause 10}	제가 사도록 할게요
+"007"	{emote: Glee}후후후!{pause 30}	그럼{pause 10} 바로 시작할게요!{Wait for input}{emote: Happiness}끝에 과자 이름이 적힌 건{pause 10}	몇 번일까요?{pause 30}	선택해주세요!{Player can respond (0001):0008-0000-0008-0000-0008-0000}	1번 같아	2번?	3번이야
+"008"	{0009-0000-0004-0009-000a}
+"009"	{emote: Soft Smile}그럼{pause 10} 사다리를 따라가보죠{pause 8}・{pause 8}・{pause 8}・{pause 8}!{pause 20}	{emote: Thought}여기에서 왼쪽,{pause 20}	다음은 오른쪽{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"010"	{emote: Soft Smile}그럼{pause 10} 사다리를 따라가보죠{pause 8}・{pause 8}・{pause 8}・{pause 8}!{pause 20}	{emote: Thought}여기에서 오른쪽,{pause 20}	다음은 왼쪽{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"011"	{0009-0001-0006-0006-000c-000c}
+"012"	{emote: Surprise}에구구,{pause 15} 안타깝네요!{pause 30}	{0005-000e-0002-0000}{000e-000e-0008-0002-c774-0002-ac00} 나왔어요{Wait for input}	{emote: Reset}이건{pause 10} 마시는 거니까 꽝이네요	{emote: Soft Smile}이렇게 되면{pause 10} 2번째 도전!{Wait for input}	아까 한 것과는 다른 사다리 표예요{pause 20}	자, {pause 20}번호를 골라주세요{Player can respond (0001):000d-0000-000d-0000-000d-0000}	1번으로 할래	2번이 좋아	3번 가자!
+"013"	{0009-0000-0004-000e-000f}
+"014"	{emote: Soft Smile}그럼{pause 10} 출발합니다{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}먼저 오른쪽으로 꺾고{pause 20}	여기서 다시 오른쪽으로{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"015"	{emote: Soft Smile}그럼{pause 10} 출발합니다{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}먼저 왼쪽으로 꺾고{pause 20}	여기서 다시 왼쪽으로{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"016"	{0009-0001-0006-0005-0011-0011}
+"017"	{emote: Worry}어머머!{pause 15} 어떡하죠?{pause 30}	{0005-000e-0002-0000}에 도착했어요{Wait for input}	이것도{pause 10} 마시는 거니까 실패네요	{emote: Reset}그럼 이제{pause 10} 마지막 도전입니다!{Wait for input}	{emote: Soft Smile}방금 2개와는 다른 사다리 표예요{pause 20}	번호를{pause 5} 고르세요!{Player can respond (0001):0012-0000-0012-0000-0012-0000}	1번이다!	2번 할래	3번인가?
+"018"	{0009-0000-0004-0013-0014}
+"019"	{emote: Distress}자,{pause 20} 이번에도 실패하면{pause 10}	상당히{pause 10} 위태로울 텐데요{pause 8}・{pause 8}・{pause 8}・{pause 8}!{Wait for input}	{emote: Reset}마음의 준비는 되셨나요?	{emote: Soft Smile}선을{pause 5} 따라갑니다{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Thought}오른쪽으로 갔다가{pause 20} 왼쪽으로!{pause 20}	그리고 또{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"020"	{emote: Distress}자,{pause 20} 이번에도 실패하면{pause 10}	상당히{pause 10} 위태로운데요{pause 8}・{pause 8}・{pause 8}・{pause 8}!{Wait for input}	{emote: Reset}마음의 준비는 되셨나요?	{emote: Soft Smile}선을{pause 5} 따라갑니다{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Thought}왼쪽으로 갔다가{pause 20} 오른쪽으로!{pause 20}	그리고 또{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"021"	{0009-0003-000a-0004-0004-0003-0003-0003}
+"022"
+"023"	{emote: Soft Smile}너무 싼 가격이라 속상하시겠지만{pause 10}	게임이니까 부디 이해해주세요!	{pause 15}{catchphrase}!
+"024"	{emote: Happiness}저만{pause 10} 이득을 본 것 같아{pause 15}	왠지 죄송하네요{Wait for input}	정말{pause 10} 감사합니다!
+"025"	{emote: Happiness}게임은 재밌으셨나요?{pause 30}	그럼{pause 10} 다음에 같이 또 해요!
+"026"	{emote: Worry}저한테는 솔직히{pause 10}	꽤 식은땀이 나는 가격이지만{Wait for input}{emote: Soft Smile}게임이고 규칙이니까{pause 10}	받아들여야죠!{pause 20}	그럼{pause 10} 다음에 또 같이 놀아요, {pause 15}{catchphrase}!

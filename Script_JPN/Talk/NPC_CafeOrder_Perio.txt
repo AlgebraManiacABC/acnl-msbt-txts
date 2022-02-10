@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	コーヒー{ruby (charSpan 1): まめ}豆は、{pause 20}
-"003"	ミルクは、{pause 20}
-"004"	{ruby (charSpan 2): さとう}砂糖は、{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Alarmed}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Alarmed}
-"010"	
-"011"	
-"012"	
-"013"	{pause 8}
-"014"	{pause 8}
-"015"	{pause 8}
-"016"	{emote: Shocked}
-"017"	
-"018"	
-"019"	
+"001"	{emote: Alarmed}あ、{pause 20}どうも{pause 40}	{emote: Happiness}いつものコーヒー	もらえるー？
+"002"	コーヒー{ruby (charSpan 1): まめ}豆は、{pause 20}	{Blue}ブレンド{Color Reset}をお{ruby (charSpan 1): ねが}願いしまーす
+"003"	ミルクは、{pause 20}	{Blue}そこそこ{Color Reset}でいいやー
+"004"	{ruby (charSpan 2): さとう}砂糖は、{pause 20}	{Blue}2{ruby (charSpan 1): こ}個{Color Reset}{ruby (charSpan 1): い}入れてくれるー？
+"005"	{emote: Happiness}ありがと{pause 20}	ちょっと　{ruby (charSpan 2): あじみ}味見させてね
+"006"	{emote: Alarmed}あぁ～～{pause 20}	この{ruby (charSpan 1): あじ}味　この{ruby (charSpan 1): あじ}味！{pause 40}	カンペキな　コーヒーだよー{Wait for input}{0007-000e-0000}{emote: Glee}スッキリ　リフレッシュできたし、{pause 20}	また　{ruby (charSpan 2): はいたつ}配達の{ruby (charSpan 2): しごと}仕事	がんばっちゃお！{Wait for input}{emote: Greetings}じゃーねっ！
+"007"	{emote: Alarmed}へぇ～{pause 20}	{ruby (charSpan 2): けっこう}結構　おいしいじゃない{Wait for input}{emote: Agreement}あとは　{Blue}コーヒー{ruby (charSpan 1): まめ}豆{Color Reset}が	ボクの{ruby (charSpan 1): この}好みのものなら{pause 20}	カンペキなんだけどな～{Wait for input}{emote: Greetings}それじゃっ！{pause 20}	また　{ruby (charSpan 2): はいたつ}配達のときに{ruby (charSpan 1): あ}会おうね
+"008"	{emote: Alarmed}へぇ～{pause 20}	{ruby (charSpan 2): けっこう}結構　おいしいじゃない{Wait for input}{emote: Agreement}あとは　{Blue}ミルク{Color Reset}が	ボクの{ruby (charSpan 1): この}好みの{ruby (charSpan 1): りょう}量なら{pause 20}	カンペキなんだけどな～{Wait for input}{emote: Greetings}それじゃっ！{pause 20}	また　{ruby (charSpan 2): はいたつ}配達のときに{ruby (charSpan 1): あ}会おうね
+"009"	{emote: Alarmed}へぇ～{pause 20}	{ruby (charSpan 2): けっこう}結構　おいしいじゃない{Wait for input}{emote: Agreement}あとは　{Blue}{ruby (charSpan 2): さとう}砂糖{Color Reset}が	ボクの{ruby (charSpan 1): この}好みの{ruby (charSpan 1): りょう}量なら{pause 20}	カンペキなんだけどな～{Wait for input}{emote: Greetings}それじゃっ！{pause 20}	また　{ruby (charSpan 2): はいたつ}配達のときに{ruby (charSpan 1): あ}会おうね
+"010"
+"011"
+"012"
+"013"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Resigned}あぁ～{pause 20}	{ruby (charSpan 1): ちが}違うんだよね～{Wait for input}{emote: Agreement}でも、{pause 20}{Blue}コーヒー{ruby (charSpan 1): まめ}豆{Color Reset}だけは	ボクの{ruby (charSpan 1): この}好みだよ！{pause 40}	{emote: Sunny}ドンマイ！{Wait for input}{emote: Reset}それじゃ、{pause 20}	またね　{Player name}さん
+"014"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Resigned}あぁ～{pause 20}	{ruby (charSpan 1): ちが}違うんだよね～{Wait for input}{emote: Agreement}でも、{pause 20}{Blue}ミルクの{ruby (charSpan 1): りょう}量{Color Reset}だけは	ボクの{ruby (charSpan 1): この}好みだよ！{pause 40}	{emote: Sunny}ドンマイ！{Wait for input}{emote: Reset}それじゃ、{pause 20}	またね　{Player name}さん
+"015"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Resigned}あぁ～{pause 20}	{ruby (charSpan 1): ちが}違うんだよね～{Wait for input}{emote: Agreement}でも、{pause 20}{Blue}{ruby (charSpan 2): さとう}砂糖の{ruby (charSpan 1): りょう}量{Color Reset}だけは	ボクの{ruby (charSpan 1): この}好みだよ！{pause 40}	{emote: Sunny}ドンマイ！{Wait for input}{emote: Reset}それじゃ、{pause 20}	またね　{Player name}さん
+"016"	{emote: Shocked}{0007-000b-0000}えぇー？！{pause 20}	コレ　かなり{ruby (charSpan 1): ちが}違うよー！{Wait for input}{emote: Thought}ボクの{ruby (charSpan 1): この}好みは	もうちょっと　こう{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}まぁ、{pause 20}{ruby (charSpan 1): つぎ}次に{ruby (charSpan 1): き}来たときは	バッチリたのむよー{pause 40}	{emote: Greetings}それじゃっ！
+"017"
+"018"
+"019"

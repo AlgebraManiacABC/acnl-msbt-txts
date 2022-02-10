@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Greetings}
-"003"	{emote: Greetings}
-"004"	{emote: Sunny}
-"005"	{emote: Greetings}
-"006"	{emote: Greetings}
-"007"	{emote: Happiness}
-"008"	{emote: Greetings}
-"009"	{emote: Surprise}
-"010"	{emote: Happiness}
-"011"	{emote: Greetings}
+"001"	{emote: Greetings}よぉー！{pause 8}　{Player nickname (green)}！{pause 20}	いらっしゃーい！{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): げし}夏至だから、{pause 20}	{ruby (charSpan 1): よる}夜も　ずーっと　{ruby (charSpan 1): あか}明るいんだぞ！{Wait for input}{emote: Sunny}せっかく　だから、{pause 20}	{ruby (charSpan 1): よる}夜まで　{ruby (charSpan 1): あそ}遊んでけよ、{pause 8}{catchphrase}
+"002"	{emote: Greetings}{Greeting begin}オーッス！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	{ruby (charSpan 1): き}来てくれて　うれしいぞー！{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): げし}夏至だから、	{ruby (charSpan 2): よなか}夜中になっても　{ruby (charSpan 1): あか}明るいままだ！{pause 40}	たっぷり{ruby (charSpan 1): あそ}遊べて　サイコーだな、{pause 8}{catchphrase}
+"003"	{emote: Greetings}おはよー！{pause 8}　{Player nickname (green)}！{pause 20}	よく{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たな！{Wait for input}{emote: Happiness}ちょうど　{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): げし}夏至の{ruby (charSpan 1): ひ}日だー！{pause 40}	{ruby (charSpan 2): ことし}今年も　{ruby (charSpan 1): なつ}夏が{ruby (charSpan 1): はじ}始まるぞ、{pause 8}{catchphrase}
+"004"	{emote: Sunny}よぉー！{pause 8}　{Player nickname (green)}！{pause 20}	よく{ruby (charSpan 1): き}来たなー！{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): げし}夏至だから、	{ruby (charSpan 1): よる}夜が{ruby (charSpan 1): こ}来ないんだぞ？{Wait for input}{emote: Laughter}へへっ！{pause 20}	いくらでも　{ruby (charSpan 1): あそ}遊んでってくれ、{pause 8}{catchphrase}{pause 20}{emote: Happiness}
+"005"	{emote: Greetings}{Greeting begin}{Player nickname (green)}{pause 20}　こんにちはー！{Greeting end}{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): げし}夏至だぞー！{pause 40}	{ruby (charSpan 3): いちにちじゅう}一日中　{ruby (charSpan 1): あか}明るいままの	ふしぎな{ruby (charSpan 1): ひ}日なんだ！{Wait for input}{emote: Laughter}オマエ　いいときに	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たな、{pause 8}{catchphrase}！{pause 20}{emote: Happiness}
+"006"	{emote: Greetings}オーッス！{pause 8}　{Player nickname (green)}！{pause 40}	{emote: Happiness}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくれたんだな！{Wait for input}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): げし}夏至なんだ！{pause 40}	{ruby (charSpan 1): よる}夜になっても　{ruby (charSpan 1): あか}明るいままなんだぞー？{Wait for input}せっかく　だから{pause 8}	{ruby (charSpan 1): よる}夜まで　{ruby (charSpan 1): あそ}遊んでけよ、{pause 8}{catchphrase}
+"007"	{emote: Happiness}{Greeting begin}よぉー！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	こんばんはー！{Wait for input}{emote: Glee}へへっ！{pause 20}	{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): げし}夏至だからな！{pause 40}	{ruby (charSpan 1): よる}夜でも　{ruby (charSpan 1): あか}明るいままなんだ！{Wait for input}ずーっと　{ruby (charSpan 1): あそ}遊んでても	いいんだぞ？　{pause 8}{catchphrase}？
+"008"	{emote: Greetings}こんにちはー！{pause 8}　{Player nickname (green)}！{pause 40}	{emote: Mistaken}あ、{pause 20}まちがえた{pause 40}	{emote: Happiness}こんばんはー！{pause 8}　{Player nickname (green)}！{Wait for input}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): げし}夏至だからさ、{pause 20}	{ruby (charSpan 1): よる}夜なのに　こんなに　{ruby (charSpan 1): あか}明るいんだよ{pause 40}	{ruby (charSpan 1): たの}楽しんでいけよな、{pause 8}{catchphrase}
+"009"	{emote: Surprise}おー！{pause 8}　{Player nickname (green)}！{pause 40}	{emote: Happiness}{ruby (charSpan 2): げし}夏至の　{Town name (pink)}{ruby (charSpan 1): むら}村はどうだー？{Wait for input}{ruby (charSpan 1): よる}夜なのに　{ruby (charSpan 1): あか}明るくって	ヘンな{ruby (charSpan 1): かん}感じだろー？{Wait for input}{emote: Pride}そのヘンな{ruby (charSpan 1): かん}感じを{pause 20}	たっぷり　{ruby (charSpan 1): あじ}味わってくれよな、{pause 8}{catchphrase}
+"010"	{emote: Happiness}{Greeting begin}おー！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	よく{ruby (charSpan 1): き}来たなー！{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): げし}夏至だから、{pause 20}	{ruby (charSpan 1): あさ}朝からずーっと　この{ruby (charSpan 2): ちょうし}調子なんだ！{Wait for input}せっかく　{ruby (charSpan 1): き}来たんだから、{pause 20}	たっぷり　{ruby (charSpan 1): あそ}遊んでいけよな、{pause 8}{catchphrase}{pause 20}{emote: Happiness}
+"011"	{emote: Greetings}{Player nickname (green)}！{pause 20}	いらっしゃーい！{Wait for input}{emote: Curious}{ruby (charSpan 1): よる}夜なのに　{ruby (charSpan 1): あか}明るくって{ruby (charSpan 2): おもしろ}面白いだろ？{pause 40}	{emote: Agreement}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): げし}夏至だからな、{pause 20}	このまま　{ruby (charSpan 1): つぎ}次の{ruby (charSpan 1): あさ}朝まで　{ruby (charSpan 1): あか}明るいんだぞー{Wait for input}{emote: Happiness}へへっ！{pause 8}	たっぷり　{ruby (charSpan 1): あそ}遊んでいけよな、{pause 8}{catchphrase}

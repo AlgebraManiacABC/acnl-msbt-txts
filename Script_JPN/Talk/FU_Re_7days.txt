@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Happiness}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Alarmed}
+"001"	{emote: Happiness}あら　{pause 10}お{ruby (charSpan 1): ひさ}久しぶりです！{Wait for input}	なんだか{pause 10}	ずっと　お{ruby (charSpan 1): あ}会いしてなかったですよね{Wait for input}{emote: Distress}たまには　{pause 10}お{ruby (charSpan 1): そと}外へ{ruby (charSpan 1): で}出た{ruby (charSpan 1): ほう}方が{pause 8}	{ruby (charSpan 1): からだ}体にいいですよ！	{pause 8}{catchphrase}！
+"002"	{emote: Surprise}まぁ　{pause 20}{Player nickname (green)}さん{pause 20}	{ruby (charSpan 2): さいきん}最近　{pause 10}お{ruby (charSpan 1): み}見かけしてなかったような　	{ruby (charSpan 1): き}気がします、{pause 10}{catchphrase}！	{emote: Happiness}{ruby (charSpan 1): ひ}引きこもって{pause 8}	{ruby (charSpan 1): ほん}本でも{ruby (charSpan 1): よ}読んでたんですか？{Wait for input}	わたしも　{pause 10}たまにやりますけどね！
+"003"	{emote: Happiness}お{ruby (charSpan 1): ひさ}久しぶりですね{Wait for input}	ずっと　{pause 8}お{ruby (charSpan 1): はな}話ししてなかったような	{ruby (charSpan 1): き}気がします、{pause 10}{catchphrase}！	{emote: Glee}{ruby (charSpan 2): じぶん}自分みがきのために{pause 10}	どこか　{pause 10}{ruby (charSpan 2): りょこう}旅行にでも{ruby (charSpan 1): い}行ってたのかしら
+"004"	{emote: Surprise}あら！{pause 20}	{Player nickname (green)}さんじゃないですか{Wait for input}{emote: Happiness}お{ruby (charSpan 1): ひさ}久しぶりですね{pause 20}	わたしにかくれて{pause 10}　{ruby (charSpan 1): なに}何かしてたんですか？{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): おもしろ}面白い{ruby (charSpan 1): ほん}本を{ruby (charSpan 1): よ}読んでいたなら{pause 10}	わたしにも　{ruby (charSpan 1): おし}教えてくださいね！	{pause 8}{catchphrase}！
+"005"	{emote: Surprise}まぁ！　{pause 15}お{ruby (charSpan 1): ひさ}久しぶりです{pause 15}	{emote: Curious}お{ruby (charSpan 2): げんき}元気でしたか？　{pause 8}{catchphrase}？{Wait for input}{emote: Happiness}{ruby (charSpan 2): さいきん}最近　{ruby (charSpan 1): み}見かけなかったので{pause 15}	{ruby (charSpan 1): たび}旅に{ruby (charSpan 1): で}出てるのかと{pause 5}　{ruby (charSpan 1): おも}思ってました
+"006"	{emote: Alarmed}あら、{pause 10}お{ruby (charSpan 1): ひさ}久しぶりです！	{pause 8}{catchphrase}！{Wait for input}ちょっと{ruby (charSpan 1): み}見ない{ruby (charSpan 1): あいだ}間に{pause 10}　{ruby (charSpan 1): せ}背がのびました？{Wait for input}	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 20}{emote: Laughter}そんなわけないですね{pause 20}{emote: Soft Smile}{Wait for input}{emote: Distress}もしかして{pause 10}	わたしが　{pause 5}ちぢんじゃったのかしら！

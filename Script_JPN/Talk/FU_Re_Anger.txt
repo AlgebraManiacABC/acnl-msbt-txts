@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Anger}
-"002"	{emote: Aggravation}
-"003"	{emote: Anger}
+"001"	{emote: Anger}{Text size 100%}ほっといてください{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{000d-0004-0002-cd02}{Text size 100%}わたし　{ruby (charSpan 1): いま}今、{pause 10}	{ruby (charSpan 1): なに}何も　お{ruby (charSpan 1): はなし}話したくないんです！！{000d-0005-0000}
+"002"	{emote: Aggravation}{000d-0004-0002-cd02}わたしだって{pause 10}	{ruby (charSpan 1): おこ}怒ること{pause 5}あるんですから、{pause 10}{catchphrase}！{000d-0005-0000}
+"003"	{emote: Anger}{000d-0004-0002-cd02}ご{ruby (charSpan 1): よう}用なら　{pause 10}{ruby (charSpan 1): あと}後にしてください！！{Wait for input}	{emote: Outrage}{ruby (charSpan 1): いま}今、{pause 10}そんな{ruby (charSpan 2): きぶん}気分じゃないんです！{000d-0005-0000}{pause 50}{emote: Reset}

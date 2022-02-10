@@ -1,45 +1,45 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Glare}
-"003"	{emote: Sunny}
-"004"	いよいよだなー！{pause 8}
-"005"	
-"006"	{emote: Happiness}
-"007"	{emote: Anger}
-"008"	{emote: Greetings}
-"009"	どうだ　{Player nickname (green)}
-"010"	{emote: Glare}
-"011"	{emote: Surprise}
-"012"	{emote: Happiness}
-"013"	{emote: Distress}
-"014"	{emote: Aggravation}
-"015"	{emote: Shocked}
-"016"	
-"017"	{emote: Showmanship}
-"018"	{emote: Distress}
-"019"	{emote: Worry}
-"020"	
-"021"	
-"022"	{emote: Worry}
-"023"	{emote: Happiness}
-"024"	{ruby (charSpan 2): きょう}今日のつり{ruby (charSpan 2): たいかい}大会、{pause 20}
-"025"	{ruby (charSpan 2): きょう}今日のつり{ruby (charSpan 2): たいかい}大会、{pause 20}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	{emote: Agreement}
-"029"	{emote: Worry}
-"030"	{emote: Worry}
-"031"	{emote: Alarmed}
-"032"	つり{ruby (charSpan 2): たいかい}大会の　ひょうしょう{ruby (charSpan 1): しき}式、{pause 20}
-"033"	{emote: Glee}
-"034"	{ruby (charSpan 2): ひるま}昼間は　つり{ruby (charSpan 2): たいかい}大会で	もりあがってた{ruby (charSpan 1): むら}村も、{pause 20}
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	{emote: Worry}
-"041"	{emote: Worry}
-"042"	
-"043"	ヨッシャー！{pause 20}!
-"044"	でっかいサカナー！{pause 40}
+"001"	{emote: Happiness}{ruby (charSpan 2): きょう}今日はこの{ruby (charSpan 1): あと}後　つり{ruby (charSpan 2): たいかい}大会！{pause 40}	オイラ　ずーっと、	この{ruby (charSpan 1): ひ}日を{ruby (charSpan 1): ま}待ってたぞ！{Wait for input}{emote: Distress}あー！{pause 20}	はやく{ruby (charSpan 1): はじ}始まんないかなー！
+"002"	{emote: Glare}{ruby (charSpan 2): きょう}今日のつり{ruby (charSpan 2): たいかい}大会は、	{ruby (charSpan 2): しんけん}真剣{ruby (charSpan 2): しょうぶ}勝負だー！{Wait for input}{emote: Anger}{ruby (charSpan 1): て}手をぬいたりするのは	{ruby (charSpan 1): な}無しだからなー？！
+"003"	{emote: Sunny}{ruby (charSpan 1): うみ}海の{ruby (charSpan 1): おとこ}男の{ruby (charSpan 1): まつ}祭り！{pause 20}	それが　つり{ruby (charSpan 2): たいかい}大会！{Wait for input}{emote: Alarmed}あ、{pause 20}{ruby (charSpan 1): かわ}川で{ruby (charSpan 1): つ}釣るのも	もちろんアリだぞー！
+"004"	いよいよだなー！{pause 8}　つり{ruby (charSpan 2): たいかい}大会！{pause 20}	{emote: Fearful}う、{pause 20}うわわわわ{pause 8}・{pause 8}・{pause 8}・{pause 40}	むしゃぶるいが　{ruby (charSpan 1): と}止まらないぞー
+"005"
+"006"	{emote: Happiness}いよいよ{ruby (charSpan 1): はじ}始まったぞ　つり{ruby (charSpan 2): たいかい}大会！{pause 40}	{emote: Sunny}もちろん　{ruby (charSpan 2): めざ}目指すは　ゆうしょう！{Wait for input}{emote: Laughter}ついでに　{ruby (charSpan 5): せかいしんきろく}世界新記録でも	こうしんしちゃおっかなー{pause 40}{emote: Soft Smile}
+"007"	{emote: Anger}オイラ　{ruby (charSpan 1): むら}村で{ruby (charSpan 2): いちばん}一番でかいサカナに、{pause 20}	ちょうせんじょうを　{ruby (charSpan 1): か}書いたんだー！{Wait for input}{emote: Thought}オイラの{ruby (charSpan 1): か}書いた{ruby (charSpan 1): じ}字、	サカナに　{ruby (charSpan 1): よ}読めたらいいんだけど{pause 8}・{pause 8}・{pause 8}・
+"008"	{emote: Greetings}ヨッシャー！{pause 20}	{ruby (charSpan 1): つ}釣りまくって　ゆうしょうだ！{Wait for input}{emote: Agreement}オマエも　オイラについてこいよ？{pause 20}	ライバルがいないと	こういうのは　もりあがんないんだ！
+"009"	どうだ　{Player nickname (green)}！	{ruby (charSpan 2): ちょうし}調子よく　{ruby (charSpan 1): つ}釣れてるかー？{pause 40}	{emote: Anger}オイラ、{pause 20}オマエには　{ruby (charSpan 1): ま}負けないぞー！
+"010"	{emote: Glare}オマエも　オイラの{ruby (charSpan 2): ようす}様子が	{ruby (charSpan 1): き}気になるのかー{Wait for input}{emote: Reset}オイラは　まぁ、{pause 20}	{emote: Pride}これから　{ruby (charSpan 2): ほんき}本気を{ruby (charSpan 1): だ}出そうと	{ruby (charSpan 1): おも}思ってたとこだ、{pause 8}{catchphrase}
+"011"	{emote: Surprise}オマエー！{pause 20}	{ruby (charSpan 1): つ}釣れないからって	ブラブラしてるんだな？{Wait for input}{emote: Glare}ヨッシャー！{pause 20}	オマエが{ruby (charSpan 1): やす}休んでるうちに、{pause 8}	デッカイの　{ruby (charSpan 1): つ}釣り{ruby (charSpan 1): あ}上げてやるー！
+"012"	{emote: Happiness}{Player nickname (green)}！{pause 20}	とっておきの　{ruby (charSpan 1): つ}釣りのテクニックを	{ruby (charSpan 1): おし}教えてやるよ！{Wait for input}{emote: Reset}サカナを　{ruby (charSpan 1): つ}釣り{ruby (charSpan 1): あ}上げたときは	こう{ruby (charSpan 1): い}言うんだ！{pause 40}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Star Yell}{pause 15}{0007-000b-0000}フィーーーッシュ！{pause 40}{emote: Soft Smile}
+"013"	{emote: Distress}うぉー！{pause 20}　{ruby (charSpan 2): じかん}時間がねぇー！{pause 40}	でも　この{ruby (charSpan 1): お}追いつめられた{ruby (charSpan 1): かん}感じ	{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}{ruby (charSpan 2): きも}気持ちいいー！！
+"014"	{emote: Aggravation}{ruby (charSpan 2): さいご}最後の{ruby (charSpan 2): いちびょう}一秒まで　{ruby (charSpan 1): き}気をぬくなー？{pause 40}	{ruby (charSpan 1): き}気をぬいたら　オマエの{ruby (charSpan 1): ま}負けだー！
+"015"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 20}	もう　こんな{ruby (charSpan 2): じかん}時間？！{pause 40}	{emote: Anger}{ruby (charSpan 2): さいご}最後に{ruby (charSpan 2): おおもの}大物　{ruby (charSpan 1): つ}釣るぞー、{pause 8}{catchphrase}
+"016"
+"017"	{emote: Showmanship}ピピーッ！{pause 40}　ゲームセットー！{Wait for input}	{emote: Distress}あぁー、{pause 20}あとは	ドキドキの{ruby (charSpan 2): けっか}結果{ruby (charSpan 1): ま}待ちだー！
+"018"	{emote: Distress}なんか{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着かないなー！{pause 40}	{ruby (charSpan 2): けっか}結果{ruby (charSpan 1): ま}待ちのときって、	{ruby (charSpan 1): なん}何にも{ruby (charSpan 1): て}手に{ruby (charSpan 1): つ}付かなくて　こまるぞー！
+"019"	{emote: Worry}{ruby (charSpan 2): うんめい}運命の{ruby (charSpan 4): けっかはっぴょう}結果発表は{pause 20}	まだ{ruby (charSpan 1): はじ}始まんないのかよー{Wait for input}{emote: Distress}オイラ　{ruby (charSpan 1): ま}待ちきれなくなって、	テントに　とつげきしちまいそうだー！
+"020"
+"021"
+"022"	{emote: Worry}{ruby (charSpan 2): きょう}今日のつり{ruby (charSpan 2): たいかい}大会、{pause 20}	まさか　オマエに	{ruby (charSpan 1): ま}負けるなんてな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}チクショーッ！{pause 20}	どんな　うらワザ{ruby (charSpan 1): つか}使ったんだよー！{Wait for input}{emote: Anger}{ruby (charSpan 1): つぎ}次は　ぜったい	{ruby (charSpan 1): ま}負けないからな、{pause 8}{catchphrase}！
+"023"	{emote: Happiness}おめでとう！{pause 8}	{ruby (charSpan 1): つ}釣り{ruby (charSpan 2): めいじん}名人　{Player nickname (green)}！{pause 20}	さすがは　オイラのライバルだよ！{Wait for input}{emote: Glare}みんなにかくれて	{ruby (charSpan 2): じしゅ}自主トレ　してただろ？{pause 40}	オイラの{ruby (charSpan 1): め}目は　ごまかせないぞー？{Wait for input}{emote: Sorrow}オ、{pause 20}オマエって{pause 20}	{ruby (charSpan 3): どりょくか}努力家なんだなーっ！
+"024"	{ruby (charSpan 2): きょう}今日のつり{ruby (charSpan 2): たいかい}大会、{pause 20}	オイラの　{ruby (charSpan 2): かんぱい}完敗だよ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sunny}おめでとう！{pause 20}	さすがは　オイラのみとめた	ライバルだ！{pause 8}　{catchphrase}！
+"025"	{ruby (charSpan 2): きょう}今日のつり{ruby (charSpan 2): たいかい}大会、{pause 20}	オマエも　まぁまぁガンバってたけど{Wait for input}{emote: Laughter}やっぱり　オイラに{ruby (charSpan 1): か}勝つのは	100{ruby (charSpan 1): ねん}年{ruby (charSpan 1): さき}先だなー！{pause 40}{emote: Soft Smile}
+"026"	{emote: Happiness}いやー！{pause 20}	もりあがったなー　つり{ruby (charSpan 2): たいかい}大会！{Wait for input}{emote: Pride}それも　これも{pause 20}	オイラのおかげっ！{Wait for input}{emote: Laughter}やっぱり　{ruby (charSpan 2): しょうぶ}勝負に{ruby (charSpan 1): か}勝つって	サイコーに　{ruby (charSpan 2): きも}気持ちいいな、{pause 8}{catchphrase}{pause 40}{emote: Soft Smile}
+"027"	{emote: Happiness}{ruby (charSpan 2): きょう}今日のつり{ruby (charSpan 2): たいかい}大会は	{ruby (charSpan 2): はくねつ}白熱したなーっ！{Wait for input}{emote: Reset}あの　ひょうしょう{ruby (charSpan 1): だい}台、{pause 20}	{emote: Glare}オイラより　{ruby (charSpan 1): たか}高いところには{pause 8}	そうかんたんに　{ruby (charSpan 1): のぼ}上らせないからなー？{Wait for input}{emote: Sunny}オイラを{ruby (charSpan 2): もくひょう}目標に、{pause 20}	トレーニングに　はげむといいぞ！
+"028"	{emote: Agreement}{ruby (charSpan 2): きょう}今日のつり{ruby (charSpan 2): たいかい}大会、{pause 20}	{ruby (charSpan 2): けっか}結果が{ruby (charSpan 1): で}出なかったけど	へこむなよー？{Wait for input}{emote: Happiness}{ruby (charSpan 2): だいじ}大事なのは、{pause 20}	そのおでこに　うかんだ	アセなんだからさ！
+"029"	{emote: Worry}{ruby (charSpan 2): きょう}今日のつり{ruby (charSpan 2): たいかい}大会は	ちょっと　{ruby (charSpan 2): ざんねん}残念だったなー{Wait for input}{emote: Disagreement}まぁ　オマエなら、	{ruby (charSpan 1): つぎ}次はいけると{ruby (charSpan 1): おも}思うよ！{pause 40}	{emote: Sunny}オイラの　{ruby (charSpan 2): やせい}野性のカンだー！
+"030"	{emote: Worry}{ruby (charSpan 2): きょう}今日のつり{ruby (charSpan 2): たいかい}大会、{pause 20}	{ruby (charSpan 2): ざんねん}残念だったな　{Player nickname (green)}！{Wait for input}{emote: Disagreement}でも、{pause 8}{ruby (charSpan 2): きょう}今日のなみだより	{ruby (charSpan 2): あした}明日のアセだ！{Wait for input}{ruby (charSpan 1): つぎ}次の{ruby (charSpan 2): たいかい}大会に{ruby (charSpan 1): む}向けて{pause 20}	{emote: Sunny}{ruby (charSpan 2): れんしゅう}練習　{ruby (charSpan 2): かいし}開始だー、{pause 8}{catchphrase}
+"031"	{emote: Alarmed}オマエ　{ruby (charSpan 1): なに}何やってたんだよー！{pause 40}	つり{ruby (charSpan 2): たいかい}大会の　ひょうしょう{ruby (charSpan 1): しき}式	{ruby (charSpan 1): お}終わっちゃったぞー？{Wait for input}{emote: Curious}{ruby (charSpan 1): つぎ}次の{ruby (charSpan 2): たいかい}大会のときは	{ruby (charSpan 1): み}見に{ruby (charSpan 1): き}来たらどうだー？{pause 40}	{emote: Sunny}けっこう　もりあがるんだぞ？！
+"032"	つり{ruby (charSpan 2): たいかい}大会の　ひょうしょう{ruby (charSpan 1): しき}式、{pause 20}	{ruby (charSpan 1): お}終わっちゃったぞー！{Wait for input}ゆうしょうは{pause 20}　{emote: Surprise}なんとっ！！{pause 40}	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Reset}って、{pause 40}{emote: Mistaken}{ruby (charSpan 1): いま}今　{ruby (charSpan 1): い}言っちゃったら	ネタバレだな、{pause 8}{catchphrase}
+"033"	{emote: Glee}イエーイ！{pause 20}	{ruby (charSpan 2): きょう}今日は　サイコーの	{ruby (charSpan 2): いちにち}一日だったよー！{Wait for input}{emote: Agreement}オイラ{pause 8}　{ruby (charSpan 2): きょう}今日のつり{ruby (charSpan 2): たいかい}大会みたいな{pause 8}	{ruby (charSpan 2): しょうぶ}勝負{ruby (charSpan 1): ごと}事が　{ruby (charSpan 2): だいす}大好きなんだー！{Wait for input}{emote: Happiness}{ruby (charSpan 1): つぎ}次の{ruby (charSpan 2): たいかい}大会も、{pause 20}	ものすごく　{ruby (charSpan 1): あつ}熱いてんかいに	なるといいなー、{pause 8}{catchphrase}
+"034"	{ruby (charSpan 2): ひるま}昼間は　つり{ruby (charSpan 2): たいかい}大会で	もりあがってた{ruby (charSpan 1): むら}村も、{pause 20}	{ruby (charSpan 1): いま}今はすっかり　{ruby (charSpan 1): しず}静かだな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sunny}へへっ！{pause 20}	また　{ruby (charSpan 1): つぎ}次の{ruby (charSpan 2): たいかい}大会も	もりあがるといいなー、{pause 8}{catchphrase}
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"	{emote: Worry}ちぇーーっ！{pause 20}	ひょうしょう{ruby (charSpan 1): しき}式	{ruby (charSpan 2): ちゅうし}中止だってさー！{Wait for input}{emote: Sigh}あぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): た}立ってみたかったなー{pause 20}	あの{ruby (charSpan 1): だい}台の　てっぺん{pause 8}・{pause 8}・{pause 8}・
+"041"	{emote: Worry}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): たの}楽しみにしてた	ひょうしょう{ruby (charSpan 1): しき}式が　{ruby (charSpan 2): ちゅうし}中止かー！{Wait for input}{emote: Reset}くやしいけど{pause 20}	{emote: Disagreement}{ruby (charSpan 1): つぎ}次の{ruby (charSpan 2): きかい}機会に　かけるしかないよな
+"042"
+"043"	ヨッシャー！{pause 20}	{ruby (charSpan 1): つ}釣るぞ{pause 8}　{ruby (charSpan 1): つ}釣るぞー？！
+"044"	でっかいサカナー！{pause 40}	かかって　こーーいっ！

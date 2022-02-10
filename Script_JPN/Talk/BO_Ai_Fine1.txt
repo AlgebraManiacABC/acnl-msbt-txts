@@ -1,19 +1,19 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	こんばんわぁ～{pause 40}
-"003"	{000a-0008-0010-04-00-04-00-05-00-05-00-05-00-05-00-05-00-04-00}
-"004"	{emote: Sleepy}
-"005"	{emote: Sleepy}
-"006"	あぁ～　{Player nickname (green)}
-"007"	{emote: Happiness}
-"008"	{000a-0008-0010-09-00-09-00-0a-00-0a-00-0a-00-0a-00-0a-00-09-00}
-"009"	{Greeting begin}
-"010"	やっほぉ～{pause 20}
-"011"	{Player nickname (green)}
-"012"	{emote: Anger}
-"013"	{emote: Happiness}
-"014"	{000a-0008-0010-0f-00-0f-00-10-00-10-00-10-00-10-00-10-00-0f-00}
-"015"	{emote: Happiness}
-"016"	{Greeting begin}
-"017"	{emote: Sleepy}
-"018"	やぁ～{pause 20}
+"001"	{emote: Happiness}{Greeting begin}やぁ～{Greeting end}{pause 20}	{Player nickname (green)}{0005-000d-0000}	おはよぉ、{pause 8}{catchphrase}
+"002"	こんばんわぁ～{pause 40}	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Alarmed}{0007-000a-0000}あ！{pause 20}　まちがえちゃったぁ{pause 40}	{emote: Happiness}おはよぉ、{pause 8}{catchphrase}
+"003"	{000a-0008-0010-0004-0004-0005-0005-0005-0005-0005-0004}
+"004"	{emote: Sleepy}ふぁぁ～{pause 40}	おはよぉ　{Player nickname (green)}{0005-000d-0000}{Wait for input}{emote: Worry}ピカピカな	お{ruby (charSpan 1): ひ}日さまが　まぶしくて{pause 20}	{ruby (charSpan 1): め}目があけられないよぉ、{pause 8}{catchphrase}
+"005"	{emote: Sleepy}ふぁぁ～{pause 40}	おはよぉ　{Player nickname (green)}{0005-000d-0000}{Wait for input}{emote: Worry}ピカピカな	お{ruby (charSpan 1): ひ}日さまを　{ruby (charSpan 1): み}見ないと{pause 20}	{ruby (charSpan 1): め}目がさめないなぁ、{pause 8}{catchphrase}
+"006"	あぁ～　{Player nickname (green)}{0005-000d-0000}だぁ{pause 20}	こんにちわぁ、{pause 8}{catchphrase}
+"007"	{emote: Happiness}{Greeting begin}やぁ～{Greeting end}{pause 20}	{Player nickname (green)}{0005-000d-0000}{pause 20}	{ruby (charSpan 2): きょう}今日も　げんきぃ？　{pause 8}{catchphrase}？
+"008"	{000a-0008-0010-0009-0009-000a-000a-000a-000a-000a-0009}
+"009"	{Greeting begin}やぁ～{Greeting end}{pause 40}	{emote: Glee}{ruby (charSpan 2): きょう}今日は　お{ruby (charSpan 1): そと}外であそぶのに	ピッタリなお{ruby (charSpan 2): てんき}天気だねぇ、{pause 8}{catchphrase}
+"010"	やっほぉ～{pause 20}　{Player nickname (green)}{0005-000d-0000}{pause 40}	{emote: Sleepy}お{ruby (charSpan 2): てんき}天気が　よくない{ruby (charSpan 1): ひ}日って{pause 20}	つい　ねむくなっちゃうよねぇ、{pause 8}{catchphrase}
+"011"	{Player nickname (green)}{0005-000d-0000}{pause 20}	こんばんわぁ、{pause 8}{catchphrase}
+"012"	{emote: Anger}ん～～？{pause 20}	キミはぁ～{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sunny}{Player nickname (green)}{0005-000d-0000}かぁ！{pause 40}	くらくて　よく{ruby (charSpan 1): み}見えなかったよぉ、{pause 8}{catchphrase}
+"013"	{emote: Happiness}{Greeting begin}やぁ、{Player nickname (green)}{0005-000d-0000}{Greeting end}{pause 20}	もう　くらくなっちゃったねぇ{pause 40}	{ruby (charSpan 2): いちにち}一日って　あっという{ruby (charSpan 1): ま}間だぁ、{pause 8}{catchphrase}
+"014"	{000a-0008-0010-000f-000f-0010-0010-0010-0010-0010-000f}
+"015"	{emote: Happiness}やぁ～	{Player nickname (green)}{0005-000d-0000}{Wait for input}{emote: Love}キレイな　お{ruby (charSpan 1): ほし}星さまを　{ruby (charSpan 1): み}見ると	{ruby (charSpan 2): あした}明日も　いいことありそうな	{ruby (charSpan 1): き}気がするよねぇ、{pause 8}{catchphrase}
+"016"	{Greeting begin}やっほぉ～{Greeting end}{pause 20}	{ruby (charSpan 2): あした}明日は　{ruby (charSpan 1): は}晴れるといいよねぇ～{pause 20}	{ruby (charSpan 1): いま}今から　{ruby (charSpan 1): たの}楽しみだなぁ、{pause 8}{catchphrase}
+"017"	{emote: Sleepy}ふぁぁ～{pause 60}	こんばんわぁ{pause 20}	{Player nickname (green)}{0005-000d-0000}、{pause 8}{catchphrase}
+"018"	やぁ～{pause 20}	{emote: Glee}{ruby (charSpan 1): よる}夜のおさんぽって	ドキドキするよねぇ、{pause 8}{catchphrase}

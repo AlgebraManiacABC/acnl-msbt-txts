@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Resigned}
-"003"	{emote: Alarmed}
-"004"	{emote: Shocked}
+"001"	{emote: Happiness}{0011-0001-0002-0001}を	オイラの{ruby (charSpan 1): いえ}家まで	{ruby (charSpan 1): つ}連れてきてくれー！{Wait for input}たのんだぞ、{pause 8}{catchphrase}
+"002"	{emote: Resigned}おそいぞ、{pause 20}{Player nickname (green)}！{pause 40}	{0011-0001-0002-0001}を	よんできてくれって　{ruby (charSpan 1): い}言ったけど、{Wait for input}{emote: Disagreement}もう　{ruby (charSpan 2): ようじ}用事はすんだから、{pause 20}	よんでこなくて　いいからなー{Wait for input}{emote: Happiness}また　{ruby (charSpan 1): なに}何かあったら	そんときは　おねがいするよ！
+"003"	{emote: Alarmed}えー！{pause 20}	とちゅうまで{ruby (charSpan 1): き}来たのに	やめたのかー？{Wait for input}{emote: Reset}そっかー{pause 8}・{pause 8}・{pause 8}・{pause 20}	じゃあ　オイラの{ruby (charSpan 1): ほう}方から	あとで　{ruby (charSpan 1): い}行ってみるよ！{Wait for input}{emote: Happiness}サンキューな！{pause 20}	{Player nickname (green)}！
+"004"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 20}	{ruby (charSpan 1): む}向こうに　ことわられた？！{Wait for input}{emote: Sheepishness}まぁ、{pause 20}{ruby (charSpan 1): たい}大した{ruby (charSpan 2): ようじ}用事じゃないし{pause 20}	{ruby (charSpan 2): こんど}今度で　いいかー{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}わざわざ　ありがとな、{pause 20}	{Player nickname (green)}！

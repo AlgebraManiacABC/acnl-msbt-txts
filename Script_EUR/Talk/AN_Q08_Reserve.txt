@@ -1,45 +1,45 @@
 == 0 ==
-"001"	{emote: Sunny}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Shocked}
-"006"	{emote: Sunny}
-"007"	{emote: Sunny}
-"008"	{emote: Worry}
+"001"	{emote: Sunny}Awesome!{pause 40} {emote: Reset}So let's set a time.{Wait for input}{emote: Agreement}I'm good after {Blue}{0004-0010-0002-cd00} {0005-0018-0002-cd00}{Color Reset}	Does that work for you?
+"002"	{emote: Alarmed}Awesome!{pause 20} This is gonna be fun!{pause 40}	{emote: Soft Smile}So{pause 8} let me know what time will work	for you.	{emote: Agreement}I'm free anytime after	{Blue}{Blue}{0004-0010-0002-cd00}:30 {0005-0018-0002-cd00}{Blue} {Color Reset}today, OK?
+"003"	{emote: Alarmed}Whoops{pause 8}.{pause 8}.{pause 8}.{pause 20} It's already {Hour}:{Minutes}!{Wait for input}{emote: Sigh}It's a bit late for a visit.{pause 40} {emote: Agreement}Let's shoot	for some other time. {pause 20}{capitalized}{catchphrase}!
+"004"	{emote: Alarmed}Huh?{pause 20} You backin' out on me, dude?{pause 10}	I don't mind if your place is messy.{Wait for input}{emote: Agreement}But whatever.{pause 20} We can do this some	other time. {pause 20}{capitalized}{catchphrase}!
+"005"	{emote: Shocked}Whoa!{pause 10} I thought I'd have a little bit	more time to prepare!{pause 20} {emote: Distress}Can we make	it a little later?{pause 40}{emote: Worry}
+"006"	{emote: Sunny}OK!{pause 40} {emote: Reset}I'll be at your place at	{Blue}{0004-0010-0002-cd01} {0005-0018-0002-cd01}{Color Reset}! {pause 20}{capitalized}{catchphrase}!
+"007"	{emote: Sunny}OK, it's set!{pause 40} {emote: Soft Smile}I'll come by at	{Blue}{0004-0010-0002-cd01}:{0004-0011-0002-cd02} {0005-0018-0002-cd01}{Color Reset}!	{pause 20}{capitalized}{catchphrase}!
+"008"	{emote: Worry}That's{pause 8}.{pause 8}.{pause 8}.{pause 40}not a great time.{Wait for input}{emote: Reset}Can't you pick something a little	earlier, {pause 8}{catchphrase}?
 == 1 ==
-"001"	{emote: Sunny}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Shocked}
-"006"	{emote: Sunny}
-"007"	{emote: Sunny}
-"008"	{emote: Worry}
+"001"	{emote: Sunny}¡Qué flipe!{pause 40} {emote: Reset}Bueno, a ver, tenemos	que fijar una hora, ¿no?{Wait for input}{emote: Agreement}Yo puedo después de las	{Blue}{0004-0010-0002-cd00}:00{Color Reset}. ¿Te parece?
+"002"	{emote: Alarmed}¡Alucina!{pause 20} ¡Va a ser la repanocha!{pause 40}	{emote: Soft Smile}A ver,{pause 8} ¿a ti a qué hora te viene	bien, simpátic{o/a}?	{emote: Agreement}Hoy estoy libre a partir de las	{Blue}{0004-0010-0002-cd00}:30{Color Reset}.
+"003"	{emote: Alarmed}Huuuy{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡Ya son las {Hour}:{Minutes} horas!{Wait for input}{emote: Sigh}Es algo tarde para ir de visita, ¿no	crees?{pause 40} {emote: Agreement}Bueno, tenemos que buscar	otro momento que nos venga bien.
+"004"	{emote: Alarmed}¿Cómo?{pause 20} No te estarás echando	atrás, ¿no?{pause 10} {emote: Resigned}Oye, a mí me da igual	que no hayas limpiado la casa.{Wait for input}{emote: Agreement}Pero tú mism{o/a}...{pause 20} ¡Podemos	quedar cualquier otro día!
+"005"	{emote: Shocked}¡Hala!{pause 10} {emote: Reset}Oye, que me hace falta	un buen ratejo para prepararme.{pause 20}	{emote: Distress}¿Te importa quedar más tarde?
+"006"	{emote: Sunny}¡De acuerdo!{pause 40} {emote: Reset}¡Pues me pasaré por	tu casa a las {Blue}{0004-0010-0002-cd01}:00{Color Reset}!
+"007"	{emote: Sunny}¡Vale, listo!{pause 40} {emote: Soft Smile}¡Me paso a las{Blue} {0004-0010-0002-cd01}:{0004-0011-0002-cd02}{Color Reset}!
+"008"	{emote: Worry}Pues{pause 8}.{pause 8}.{pause 8}.{pause 40} no me viene muy bien.	{emote: Reset}¿Te importa que sea algo más	temprano, {pause 8}{catchphrase}?
 == 2 ==
-"001"	{emote: Sunny}
-"002"	{emote: Sunny}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Shocked}
-"006"	{emote: Sunny}
-"007"	{emote: Sunny}
-"008"	{emote: Worry}
+"001"	{emote: Sunny}Super !{pause 20} Quelle heure t'arrangerait ?	{emote: Agreement}Chuis dispo après {Blue}{0004-0010-0002-cd00} h{Color Reset}.
+"002"	{emote: Sunny}Trop cool !{pause 20} Quelle heure	t'arrangerait ?{Wait for input}{emote: Agreement}Perso, chuis dispo après {Blue}{0004-0010-0002-cd00} h 30{Color Reset}.
+"003"	{emote: Alarmed}Oups{pause 8}.{pause 8}.{pause 8}.{pause 20} Il est d'jà {Hour} h {Minutes} !{Wait for input}{emote: Sigh}C'est un peu tard pour une visite.{pause 20}	{emote: Agreement}Enfin{pause 8}.{pause 8}.{pause 8}.{pause 20} pour toi, surtout !{pause 20} On fera	ça un autre jour,{pause 20} {catchphrase} !
+"004"	{emote: Alarmed}Bah alors ?!{pause 20} Tu veux ou tu veux	pas ?{pause 10} C'est pas grave si c'est l'souk	chez toi, hein !	{emote: Agreement}Bah, et puis peu importe.{pause 20} Ça peut	attendre,{pause 20} {catchphrase}.
+"005"	{emote: Shocked}Y'a pas l'feu, ho !{pause 10} C'est qu'y faut	qu'j'me prépare, tout ça !{pause 20} {emote: Distress}Un poil	plus tard, c'est possible ?{pause 15}{emote: Worry}
+"006"	{emote: Sunny}OK !{pause 20} {emote: Reset}{Blue}{0004-0010-0002-cd01} h {Color Reset}!	{emote: Reset}C'est noté, {pause 20}{catchphrase}.
+"007"	{emote: Sunny}Ça m'va !{pause 20} {emote: Soft Smile}J'déboulerai donc à	{Blue}{0004-0010-0002-cd01} h {0004-0011-0002-cd02}{Color Reset} !{pause 20} {capitalized}{catchphrase} !
+"008"	{emote: Worry}Arf{pause 8}.{pause 8}.{pause 8}.{pause 40} Désolée, mais ça va pas	l'faire.{Wait for input}{emote: Reset}Un peu plus tôt, c'est possible ?{pause 15}	{capitalized}{catchphrase} ?
 == 3 ==
-"001"	{emote: Sunny}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Shocked}
-"006"	{emote: Sunny}
-"007"	{emote: Sunny}
-"008"	{emote: Worry}
+"001"	{emote: Sunny}Che storia!{pause 40} {emote: Reset}Bisogna decidere	quando, a questo punto.{Wait for input}{emote: Agreement}Io potrei venire dopo le {Blue}{0004-0010-0002-cd00}{Color Reset}.	Va bene per te?
+"002"	{emote: Alarmed}Evvai!{pause 20} Dai che ci divertiamo!{pause 40}	{emote: Soft Smile}Però{pause 8} dobbiamo metterci	d'accordo sull'orario.	{emote: Agreement}Oggi ho da fare prima delle {Blue}{0004-0010-0002-cd00}{Color Reset}:{Blue}30{Color Reset}.	Dopo sono libera.
+"003"	{emote: Alarmed}Oh{pause 8}.{pause 8}.{pause 8}.{pause 20} Sono già le {Hour}:{Minutes}!{Wait for input}{emote: Sigh}Mi sembra un po' tardi per	una visita.{pause 40} {emote: Agreement}Direi che ci vediamo	un'altra volta, {pause 20}{catchphrase}!
+"004"	{emote: Alarmed}Eh?{pause 20} Hai cambiato idea?{pause 10} Guarda che	non mi scandalizzo se casa tua	è un po' in disordine.{Wait for input}{emote: Agreement}Comunque sia,{pause 20} possiamo vederci	un'altra volta. Non fa niente,	{pause 20}{catchphrase}!
+"005"	{emote: Shocked}Ehi!{pause 10} Pensavo di avere un po' più	di tempo per prepararmi. Non che	debba mettermi l'abito da sera ma...{pause 20}	{emote: Distress}... non si può fare un po' più tardi?{pause 40}{emote: Worry}
+"006"	{emote: Sunny}OK!{pause 40} {emote: Reset}Ci vediamo a casa tua	alle {Blue}{0004-0010-0002-cd01}{Color Reset}! {pause 20}{capitalized}{catchphrase}!
+"007"	{emote: Sunny}OK, è deciso allora!{pause 40} {emote: Soft Smile}Passo da te	alle {Blue}{0004-0010-0002-cd01}:{0004-0011-0002-cd02}{Color Reset}! {pause 20}{capitalized}{catchphrase}!
+"008"	{emote: Worry}Diciamo che{pause 8}.{pause 8}.{pause 8}.{pause 40} non mi va troppo	bene come orario.{Wait for input}{emote: Reset}Non si potrebbe fare un po' prima,	{pause 8}{catchphrase}?
 == 4 ==
-"001"	{emote: Sunny}
-"002"	{emote: Surprise}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Shocked}
-"006"	{emote: Sunny}
-"007"	{emote: Sunny}
-"008"	{emote: Worry}
+"001"	{emote: Sunny}Wahnsinn!{pause 40} {emote: Reset}Ab wann hast du denn	Zeit?{Wait for input}{emote: Agreement}Ich könnte so ab {Blue}{0004-0010-0002-cd00}:00 Uhr{Color Reset}.{pause 20} Okay?
+"002"	{emote: Surprise}Cool!{pause 20} Das wird bestimmt lustig!{pause 40}	{emote: Soft Smile}Sag einfach,{pause 8} ab wann du könntest.{Wait for input}{emote: Agreement}Ich glaub, ich wäre so ab	{Blue}{0004-0010-0002-cd00}:30 Uhr {Color Reset}am Start!{pause 20}	Hört sich das gut an?
+"003"	{emote: Alarmed}Huuuups{pause 8}.{pause 8}.{pause 8}.{pause 20} Es ist ja schon	{Blue}{Hour}:{Minutes} Uhr{Color Reset}!{Wait for input}{emote: Mistaken}Ein bisschen spät für Besuch.{pause 40} Lass	uns das besser mal verschieben.	{pause 20}{capitalized}{catchphrase}.
+"004"	{emote: Alarmed}Huch?{pause 20} Machste etwa 'nen	Rückzieher?{pause 10} Haste etwa	doch schon was vor?	{emote: Agreement}Ist nicht schlimm.{pause 20} Wir können es ja	auf ein andermal verschieben.	{pause 20}{capitalized}{catchphrase}!
+"005"	{emote: Shocked}Boah!{pause 10} Ich dachte, {pause 8}ich hätte noch 	etwas Zeit, meine Blümchen zu gie--{pause 10}	äh,{pause 8} noch etwas abzurocken!{pause 20} Genau!	{emote: Distress}Können wir uns nicht ein	bisschen später treffen?{pause 40}{emote: Worry}
+"006"	{emote: Sunny}Alles klar!{pause 40} {emote: Reset}Ich komm so um {Blue}{0004-0010-0002-cd01} Uhr	{Color Reset}bei dir vorbei! {pause 20}{capitalized}{catchphrase}!
+"007"	{emote: Sunny}Abgemacht!{pause 40} {emote: Soft Smile}Wir sehn uns dann so	gegen {Blue}{0004-0010-0002-cd01}:{0004-0011-0002-cd02} Uhr{Color Reset}! {pause 20}{capitalized}{catchphrase}!
+"008"	{emote: Worry}Das{pause 8}.{pause 8}.{pause 8}.{pause 40} ist aber nicht so günstig.{pause 40}	{emote: Reset}Geht das nicht ein bisschen früher,	{pause 8}{catchphrase}?

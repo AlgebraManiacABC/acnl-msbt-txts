@@ -1,60 +1,60 @@
 == 0 ==
-"001"	{emote: Glee}
-"002"	{emote: Happiness}
-"003"	{emote: Worry}
-"004"	{emote: Happiness}
-"005"	Then I guess I'll just keep greeting	the world in my usual way for a	while longer. {pause 20}!
-"006"	{emote: Soft Smile}
-"007"	{0009-0001-0006-09-00-0a-00-0b-00}
-"008"	{emote: Distress}
-"009"	{emote: Glee}
-"010"	{emote: Glee}
-"011"	{emote: Agreement}
+"001"	{emote: Glee}Hi, {Player nickname (green)}.	{emote: Happiness}I'm looking for a greeting that's	more me, you know? {pause 10}Know any?{Player can respond (0005):0004-0015-0005-0028}	Yes, I do!	No.
+"002"	{emote: Happiness}Hi there, {Player nickname (green)}.	I want a greeting that's all sparkly	fresh! Have one for me?{Player can respond (0005):0004-0015-0005-0028}	Of course!	I've got nothing.
+"003"	{emote: Worry}I think my greeting is severely	lacking in sparkle. {Wait for input}Can you give	me a peppier one, {Player nickname (green)}?{Player can respond (0005):0004-0000-0005-0000}	Sure!	No.
+"004"	{emote: Happiness}Really? Tell me what I should say!
+"005"	Then I guess I'll just keep greeting	the world in my usual way for a	while longer. {pause 20}{emote: Sunny}Oh well. That's OK!
+"006"	{emote: Soft Smile}So "{capitalized}{Greeting begin}{Greeting end}"?	What do you think?{confirmation-02}{Player can respond (0005):0007-0015-0008-0028}	Perfect.	No, hang on...
+"007"	{0009-0001-0006-0009-000a-000b}
+"008"	{emote: Distress}Oh, I want to get it just right!	What should it be?
+"009"	{emote: Glee}Oh, great! I'm feeling re-greetified	already! Thanks, {catchphrase}!
+"010"	{emote: Glee}I love it! I feel like a totally new	person, {Player nickname (green)}!
+"011"	{emote: Agreement}I see, I see. {pause 20}{emote: Happiness}I couldn't have thought	of a better greeting myself.	Thanks, {catchphrase}!
 == 1 ==
-"001"	{emote: Glee}
-"002"	{emote: Happiness}
-"003"	{emote: Worry}
-"004"	{emote: Happiness}
-"005"	{emote: Resigned}
-"006"	{emote: Soft Smile}
-"007"	{0009-0001-0006-09-00-0a-00-0b-00}
-"008"	{emote: Distress}
-"009"	{emote: Glee}
-"010"	{emote: Glee}
-"011"	{emote: Agreement}
+"001"	{emote: Glee}Hola, {Player nickname (green)}.	{emote: Happiness}Seguro que a ti se te ocurre un	saludo que esté a mi altura.	¡Quiero que sea requetemegachachi!	¿Me ayudas?{Player can respond (0005):0004-0015-0005-0028}	Vale	No
+"002"	{emote: Happiness}¡Te estaba buscando, {Player nickname (green)}!	Mi saludo está muy pasado de moda	y eso no me lo puedo permitir.	¡Yo siempre tengo que ir a la	última! ¿Se te ocurre alguno	original?{Player can respond (0005):0004-0015-0005-0028}	¡Pues claro!	Estoy en blanco
+"003"	{emote: Worry}Necesito un saludo con más gancho,	{Player nickname (green)}, más como yo.{Wait for input}A ti se te da bien pensar.	¿Me buscas uno nuevo?{Player can respond (0005):0004-0000-0005-0000}	Claro	Paso
+"004"	{emote: Happiness}¡Chupi! ¡Dime cuál es!
+"005"	{emote: Resigned}Vale, ya me inventaré uno yo solita.{pause 20}	¡Si resulta ser mejor que el	tuyo no me vengas llorando!
+"006"	{emote: Soft Smile}¿"{capitalized}{Greeting begin}{Greeting end}"?	¿Qué tal suena?{confirmation-02}{Player can respond (0005):0007-0015-0008-0028}	Genial	Así no
+"007"	{0009-0001-0006-0009-000a-000b}
+"008"	{emote: Distress}¡Oh! Lo habré oído mal.	¿Cómo dices que es?
+"009"	{emote: Glee}¡Es ideal! ¡No puedo esperar a	ver las caras de los demás cuando	lo oigan, {catchphrase}!
+"010"	{emote: Glee}¡Con este saludo tan chachi	voy a tener el doble de fans,	{Player nickname (green)}!
+"011"	{emote: Agreement}Me gusta. {pause 20}{emote: Happiness}¡Si lo repito mucho, a	lo mejor hasta se pone de moda!	¡Sería lo más, {catchphrase}!
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Glee}
-"003"	{emote: Worry}
-"004"	{emote: Happiness}
-"005"	Tu veux dire que...{pause 20}
-"006"	{emote: Soft Smile}
-"007"	{0009-0001-0006-09-00-0a-00-0b-00}
-"008"	{emote: Glare}
-"009"	{emote: Delight}
-"010"	{emote: Glee}
-"011"	Mais...{emote: Alarmed}
+"001"	{emote: Happiness}{capitalized}{Greeting begin}Kikou{Greeting end} !	{emote: Distress}Oh, c'est d'un banal ! Il me faut une	salutation originale, classe{pause 20}.{pause 20}.{pause 20}.	{emote: Pride}À mon image, quoi ! {emote: Shyness}Tu vas me	trouver, ça, hein ?{Player can respond (0005):0004-0015-0005-0028}	J'ai quelque chose !	Je sèche.
+"002"	{emote: Glee}Kikou, {Player nickname (green)} !	{emote: Mistaken}« Coucou », « kikou », etc. Je dis	un peu toujours la même chose.	{emote: Pride}Je veux surprendre mon public ! {pause 20}À	moi le glamour,{pause 20} le strass,{pause 20} les	paillettes !{pause 20} T'as pas une idée ?{Player can respond (0005):0004-0015-0005-0028}	C'est tout trouvé !	Euh...
+"003"	{emote: Worry}{capitalized}{Player nickname (green)}... je crois que ma	salutation est carrément périmée !{Wait for input} Il	me faut un truc nouveau.	{emote: Sunny}Et il faut surtout que tu aies une	idée de génie !{Player can respond (0005):0004-0000-0005-0000}	J'ai ce qu'il te faut !	Je passe.
+"004"	{emote: Happiness}C'est vrai ?! C'est vrai ?! Je	t'écoute !
+"005"	Tu veux dire que...{pause 20} ma salutation	actuelle est{pause 20} par{pause 20}faite ? Si tu le dis,{emote: Sunny}	c'est que ça doit être vrai, hi hi hi !
+"006"	{emote: Soft Smile}« {capitalized}{Greeting begin}{Greeting end} », tu dis ?	Comment ça me va ?{confirmation-02}{Player can respond (0005):0007-0015-0008-0028}	Parfait !	Non, attends...
+"007"	{0009-0001-0006-0009-000a-000b}
+"008"	{emote: Glare}C'est tout moi ça, une vraie	mémoire de poisson rouge !{pause 20} {emote: Delight}Vous	pouvez répéter, s'il vous plaît ?!
+"009"	{emote: Delight}Merci !{pause 20} Merci !{pause 20} Merci ! Ladies and	gentlemen...{pause 20} la nouvelle {Villager's name (orange)}	est arrivée ! {capitalized}{catchphrase} !
+"010"	{emote: Glee}J'a{pause 40}dore ! C'est totalement moi et en	même temps...{pause 40} j'y aurais jamais	pensé, {Player nickname (green)} !
+"011"	Mais...{emote: Alarmed}{pause 20} {emote: Delight}C'est tout à fait, moi, ça !	Du sur-mesure, la grande classe,	{catchphrase} !
 == 3 ==
-"001"	{emote: Glee}
-"002"	{emote: Happiness}
-"003"	{emote: Worry}
-"004"	{emote: Happiness}
-"005"	Beh, allora continuerò a salutare	tutti nello stesso modo.	{pause 20}
-"006"	{emote: Soft Smile}
-"007"	{0009-0001-0006-09-00-0a-00-0b-00}
-"008"	{emote: Distress}
-"009"	{emote: Glee}
-"010"	{emote: Glee}
-"011"	{emote: Agreement}
+"001"	{emote: Glee}Ciao, {Player nickname (green)}.	{emote: Happiness}Sto cercando un saluto trendy come	la sottoscritta! {pause 10}Hai qualche idea?{Player can respond (0005):0004-0015-0005-0028}	Eccome!	No.
+"002"	{emote: Happiness}Ciaaao, {Player nickname (green)}.	Sto cercando un saluto degno	della mia fama!	Ne avresti uno per me?{Player can respond (0005):0004-0015-0005-0028}	Certo!	Nessuna idea.
+"003"	{emote: Worry}Il mio saluto è più noioso di un disco	di Leopardana Bertuccia. {Wait for input}Me ne	consiglieresti uno tu, {Player nickname (green)}?{Player can respond (0005):0004-0000-0005-0000}	Certo!	No.
+"004"	{emote: Happiness}Davvero? Spara, sono tutta orecchi!
+"005"	Beh, allora continuerò a salutare	tutti nello stesso modo.	{pause 20}{emote: Sunny}Non è certo la fine del mondo!
+"006"	{emote: Soft Smile}Diresti: "{Greeting begin}{Greeting end}"?	Sei convint{o/a}?{confirmation-02}{Player can respond (0005):0007-0015-0008-0028}	È perfetto.	No, aspetta...
+"007"	{0009-0001-0006-0009-000a-000b}
+"008"	{emote: Distress}Oh, che figuraccia! Ho capito male?	Ma allora che saluto mi suggerisci?
+"009"	{emote: Glee}Che storia! Questo sì che è	un saluto in buona salute!	Grazie, {catchphrase}!
+"010"	{emote: Glee}È davvero da urlo! Mi sembra	di essere rinata con questo	saluto nuovo di zecca, {Player nickname (green)}!
+"011"	{emote: Agreement}Mi piace un sacco. {pause 20}{emote: Happiness}Io stessa 	non avrei saputo fare di meglio.	Grazie, {catchphrase}!
 == 4 ==
-"001"	{emote: Glee}
-"002"	{emote: Happiness}
-"003"	{emote: Worry}
-"004"	{emote: Happiness}
-"005"	Okay, dann begrüße ich die Welt	erst mal weiter auf meine alte Art.	{pause 20}
-"006"	{emote: Soft Smile}
-"007"	{0009-0001-0006-09-00-0a-00-0b-00}
-"008"	{emote: Distress}
-"009"	{emote: Glee}
-"010"	{emote: Glee}
-"011"	{emote: Agreement}
+"001"	{emote: Glee}Hey, weißt du, was?{Wait for input}{emote: Happiness}Ich brauch unbedingt eine neue	Begrüßung, die besser widerspiegelt,	wie ich bin! {pause 20}Kennst du eine gute?{Player can respond (0005):0004-0015-0005-0028}	Jepp!	Nö.
+"002"	{emote: Happiness}Hey du, {pause 10}{Player nickname (green)}!	{pause 20}Ich brauch eine Begrüßung, die so	richtig fetzig und spritzig ist!	{emote: Sunny}Hast du so eine für mich?{Player can respond (0005):0004-0015-0005-0028}	Aber sicher!	Nö, hab nichts.
+"003"	{emote: Worry}Ich glaube, meine Begrüßung ist	langsam, aber sicher ganz schön	ausgelutscht...	Kannst du mir mit einer flotteren	aushelfen, {Player nickname (green)}?{Player can respond (0005):0004-0015-0005-0028}	Klaro!	Nee...
+"004"	{emote: Happiness}Echt? {pause 20}Sag mir, was ich nehmen soll!
+"005"	Okay, dann begrüße ich die Welt	erst mal weiter auf meine alte Art.	{pause 20}{emote: Sunny}Ist ja eigentlich auch ganz okay!
+"006"	{emote: Soft Smile}Also, „{capitalized}{Greeting begin}{Greeting end}“?	{pause 20}Hab ich's richtig gesagt? {pause 20}Und, {pause 10}passt	das so zu meinem Image?{confirmation-02}{Player can respond (0005):0007-0000-0008-0000}	Perfekt!	Nicht ganz...
+"007"	{0009-0001-0006-0009-000a-000b}
+"008"	{emote: Distress}Oh nein! {pause 20}Dann überleg lieber noch	mal von vorn! {pause 20}Ich muss richtig	stylish klingen, okay?
+"009"	{emote: Glee}Jippie, suuuper! {pause 20}Ich fühl mich	schon direkt viel besser damit!	{pause 20}Danke, {pause 10}{catchphrase}!
+"010"	{emote: Glee}Aaaah, so toooll! {pause 20}Ich fühl mich wie	neugeboren, {Player nickname (green)}!
+"011"	{emote: Agreement}Aha, aha! {pause 20}{emote: Happiness}Mir wäre bestimmt auch	nichts Besseres eingefallen.	{pause 20}Danke dir, {pause 10}{catchphrase}!

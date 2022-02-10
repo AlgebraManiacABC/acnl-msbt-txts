@@ -1,60 +1,60 @@
 == 0 ==
-"001"	커피{pause 8}
-"002"	커피{pause 8}
-"003"	커피 드시겠습니까?{pause 32}
-"004"	오늘은 어떤 커피를 드시겠어요?{pause 32}
-"005"	슬슬 오실 때가 된 것 같아서{pause 8}
-"006"	기다리고 있었습니다{pause 8}
-"007"	{pause 8}
-"008"	{pause 8}
-"009"	{pause 8}
-"010"	{pause 8}
-"011"	{emote: Surprise}
-"012"	{pause 8}
-"013"	{pause 8}
-"014"	{pause 8}
-"015"	{pause 8}
-"016"	{pause 8}
-"017"	알겠습니다{pause 8}
-"018"	오래 기다리셨습니다{pause 8}
-"019"	식기 전에{pause 8}
-"020"	갓 내린 커피를{pause 8}
-"021"	정성 들여 잘 닦아 놓은{pause 16}
-"022"	풍미가 한층 깊어진다는{pause 32}
-"023"	{emote: Soft Smile}
-"024"	{pause 8}
-"025"	한 잔에 {Blue}200벨{Color Reset}입니다만{pause 8}
-"026"	알겠습니다{pause 8}
-"027"	식기 전에{pause 8}
-"028"	해피{pause 8}
-"029"	{pause 8}
-"030"	{pause 8}
-"031"	・{pause 8}
-"032"	언제나 {pause 8}
-"033"	{emote: Agreement}
-"034"	내일도 기다리고 있겠습니다{pause 8}!
-"035"	오늘은 {pause 16}
-"036"	{pause 8}
-"037"	다음부터는{pause 8}
-"038"	{pause 8}
-"039"	그럼 일하고 싶을 때{pause 16}
-"040"	{pause 8}
-"041"	
-"042"	커피{pause 16}
-"043"	알겠습니다{pause 8}
-"044"	{pause 8}
-"045"	오래 기다리셨습니다{pause 8}
-"046"	{pause 8}
-"047"	{emote: Shocked}
-"048"	{pause 8}
-"049"	{Town name (pink)}
-"050"	{Town name (pink)}
-"051"	또{pause 8}
-"052"	편히 쉬다 가세요{pause 8}
-"053"	
-"054"	{pause 8}
-"055"	{pause 8}
-"056"	{pause 8}
-"057"	{pause 8}
-"058"	{pause 8}
-"059"	{pause 8}
+"001"	커피{pause 8}・{pause 8}・{pause 8}・{pause 8}	한 잔에 {Blue}200벨{Color Reset}이니까요{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0005-0004-0015-0028}	한 잔 주세요	필요 없어요
+"002"	커피{pause 8}・{pause 8}・{pause 8}・{pause 32}	한 잔에 {Blue}200벨{Color Reset}입니다만{pause 8}・{pause 8}・{pause 8}・{pause 8}	드시겠습니까?{000f-0005-0004-0015-0028}	한 잔 주세요	필요 없어요
+"003"	커피 드시겠습니까?{pause 32}	한 잔에 {Blue}200벨{Color Reset}입니다만{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0005-0004-0015-0028}	한 잔 주세요!	안 마실래요
+"004"	오늘은 어떤 커피를 드시겠어요?{pause 32}	한 잔에 {Blue}200벨{Color Reset}입니다만{pause 8}・{pause 8}・{pause 8}・{pause 32}{000f-0005-0004-0000-0028}	음・・・	안 마실래요
+"005"	슬슬 오실 때가 된 것 같아서{pause 8}・{pause 8}・{pause 8}・{pause 8}	커피콩을 막 갈아 두었으니까요{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}한 잔 내려드릴까요?{pause 32}	{Blue}200벨{Color Reset}입니다만{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0005-0004-0015-0028}	그럼 한 잔 마실까요?	지금은 됐어요
+"006"	기다리고 있었습니다{pause 8}・{pause 8}・{pause 8}・{pause 8}	오늘은 어떤 커피로 내려드릴까요?{pause 32}	한 잔에 {Blue}200벨{Color Reset}입니다만{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0005-0004-0000-0028}	오늘은・・・	지금은 됐어요
+"007"	{pause 8}・{pause 8}・{pause 8}・{pause 8}그렇습니까
+"008"	{pause 8}・{pause 8}・{pause 8}・{pause 8}그렇군요
+"009"	{pause 8}・{pause 8}・{pause 8}・{pause 8}그럼 다음에 또
+"010"	{pause 8}・{pause 8}・{pause 8}・{pause 8}마시고 싶어지면{pause 16}	언제든지 {pause 8}말씀하세요
+"011"	{emote: Surprise}구구구ー!{Wait for input}	{emote: Worry}돈이 모자라시군요{pause 8}・{pause 8}・{pause 8}・{pause 8}	죄송합니다{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"012"	{pause 8}・{pause 8}・{pause 8}・{pause 8}오늘은 어떻게 하시겠습니까?{000f-0000-0004-0015-0000}	항상 마시는 걸로!	새로운 걸 마실래요
+"013"	{pause 8}・{pause 8}・{pause 8}・{pause 8}그럼 커피콩은{pause 16}	어떤 걸로 하시겠습니까?{000f-0002-0008-0000-0000-0000-0000}	블렌드	모카	킬리만자로	블루마운틴
+"014"	{pause 8}・{pause 8}・{pause 8}・{pause 8}그럼 우유는{pause 16}	얼마나 넣어드릴까요?{000f-0002-0008-0000-0000-0000-0000}	듬뿍	적당히	살짝	넣지 마세요
+"015"	{pause 8}・{pause 8}・{pause 8}・{pause 8}그럼 설탕은{pause 16}	몇 개나 넣어드릴까요?{000f-0002-0008-0000-0000-0000-0000}	3개	2개	1개	넣지 마세요
+"016"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"017"	알겠습니다{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"018"	오래 기다리셨습니다{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}우리 가게에서	자신 있게 권해드리는 커피입니다{pause 32}	자{pause 8}・{pause 8}・{pause 8}・{pause 8} 드셔보세요{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"019"	식기 전에{pause 8}・{pause 8}・{pause 8}・{pause 8}	갓 내린 커피를{pause 8}・{pause 8}・{pause 8}・{pause 8} 어서 드세요{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"020"	갓 내린 커피를{pause 8}・{pause 8}・{pause 8}・{pause 8}	따뜻한 그대로{pause 8}・{pause 8}・{pause 8}・{pause 8} 어서 드세요{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"021"	정성 들여 잘 닦아 놓은{pause 16}	이 커피 잔으로{pause 8}・{pause 8}・{pause 8}・{pause 8}	어서 드세요{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"022"	풍미가 한층 깊어진다는{pause 32}	80.{0004-0005-0000}도{pause 8}・{pause 8}・{pause 8}・{pause 32}	갓 내린 커피를{pause 8}・{pause 8}・{pause 8}・{pause 8} 어서 드세요{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"023"	{emote: Soft Smile}손님만을 위한{pause 16}	특별한 한 잔{pause 8}・{pause 8}・{pause 8}・{pause 8}	맛있게 드세요{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"024"	{pause 8}・{pause 8}・{pause 8}・{pause 8}감사합니다
+"025"	한 잔에 {Blue}200벨{Color Reset}입니다만{pause 8}・{pause 8}・{pause 8}・{pause 8}	어떻게 하시겠습니까?{000f-0005-0004-0015-0028}	한 잔 주세요	지금은 됐어요
+"026"	알겠습니다{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"027"	식기 전에{pause 8}・{pause 8}・{pause 8}・{pause 8}	어서{pause 8}・{pause 8}・{pause 8}・{pause 8} 드세요
+"028"	해피{pause 8}・{pause 8}・{pause 8}・{pause 8}	밸런타인!
+"029"	{pause 8}・{pause 8}・{pause 8}・{pause 8}여기는{pause 16}	커피를 마시는 곳이니까요{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"030"	{pause 8}・{pause 8}・{pause 8}・{pause 8}죄송합니다만	지금은 일하는 중이니까요{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"031"	・{pause 8}・{pause 8}・{pause 8}커피를 {pause 20}좋아하시는군요
+"032"	언제나 {pause 8}찾아주셔서{pause 20}	감사합니다{pause 8}・{pause 8}・{pause 8}・
+"033"	{emote: Agreement}우리 가게를 {Player name}님같이{pause 15}	커피를 아끼는 분들이 많이 찾아주셔서{pause 20}	저는 참 기쁘답니다{pause 8}・{pause 8}・{pause 8}・
+"034"	내일도 기다리고 있겠습니다{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"035"	오늘은 {pause 16}특별한 날이니까요{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"036"	{pause 8}・{pause 8}・{pause 8}・{pause 8}안녕하세요
+"037"	다음부터는{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}오른쪽 카운터{Color Reset}도{pause 16}	이용해주세요{pause 8}・{pause 8}・{pause 8}・{pause 8}	테이크아웃 커피를{pause 16}	준비해드릴 테니까요{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"038"	{pause 8}・{pause 8}・{pause 8}・{pause 8}이제{pause 16} 우리 가게의 맛을	알게 되신 것 같군요{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}혹시{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 15}	우리 가게에서 가볍게	일해볼 마음은 없으신가요{pause 8}・{pause 8}・{pause 8}・{pause 8}	수당은 확실하게{pause 16}	드릴 테니까요{pause 8}・{pause 8}・{pause 8}・{pause 8}{confirmation-02}{000f-0005-0004-0015-0028}	일하고 싶어요!	생각 없어요
+"039"	그럼 일하고 싶을 때{pause 16}	{Blue}오른쪽 카운터{Color Reset}로 오셔서	말을 걸어주세요{pause 8}・{pause 8}・{pause 8}・{pause 8}	내일부터{pause 8}・{pause 8}・{pause 8}・{pause 16}	잘 부탁드립니다{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"040"	{pause 8}・{pause 8}・{pause 8}・{pause 8}일하고 싶어지면{pause 16}	{Blue}오른쪽 카운터{Color Reset}로 오셔서	말을 걸어주세요{pause 8}・{pause 8}・{pause 8}・{pause 8}	내일부터 기다릴 테니까요{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"041"
+"042"	커피{pause 16}	한 잔에 {Blue}200벨{Color Reset}입니다만{pause 8}・{pause 8}・{pause 8}・{pause 8}	드시겠습니까?{000f-0005-0004-0015-0028}	한 잔 주세요	생각 없어요
+"043"	알겠습니다{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}멀리서 오신 보람이 있도록{pause 16}	맛있게 만들어드리지요{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"044"	{pause 8}・{pause 8}・{pause 8}・{pause 8}그렇군요
+"045"	오래 기다리셨습니다{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{Town name (pink)} 마을의 자랑거리인	오리지널・블렌드입니다{pause 8}・{pause 8}・{pause 8}・{pause 32}	갓 내린 커피를 어서 드세요!{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"046"	{pause 8}・{pause 8}・{pause 8}・{pause 8}감사합니다
+"047"	{emote: Shocked}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Reset}이러시면{pause 8}	곤란합니다{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"048"	{pause 8}・{pause 8}・{pause 8}・{pause 8}그러시군요{pause 16}	{Town name (pink)} 마을 분이시군요{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"049"	{Town name (pink)} 마을은{pause 8}・{pause 8}・{pause 8}・{pause 8}	마음에 드셨습니까?
+"050"	{Town name (pink)} 마을은{pause 8}・{pause 8}・{pause 8}・{pause 8}	좋은 곳이에요{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"051"	또{pause 8}・{pause 8}・{pause 8}・{pause 8} 오세요{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"052"	편히 쉬다 가세요{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"053"
+"054"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Shocked}무슨 말씀을!{pause 30}{Wait for input}	{emote: Worry}그렇게 나오시면{pause 4}・{pause 4}・{pause 4}・{pause 4}	곤란합니다{pause 4}・{pause 4}・{pause 4}・{pause 4}{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"055"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Shocked}저런!{pause 30}{Wait for input}	{emote: Worry}식기 전에 드셔야지요{pause 4}・{pause 4}・{pause 4}・{pause 4}{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"056"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Shocked}어떻게 그런 생각을?!{pause 30}{Wait for input}	{emote: Worry}이건 {pause 8}보리차가 아니니까요{pause 4}・{pause 4}・{pause 4}・{pause 4}{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"057"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Shocked}맙소사!!{pause 30}{Wait for input}	{emote: Worry}커피콩으로 대포 쏘는 말씀은{pause 16}	그만하시고{pause 4}・{pause 4}・{pause 4}・{pause 4}{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"058"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sheepishness}하핫{pause 16}	{Player name}님{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 8}	농담도 참{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요
+"059"	{pause 8}・{pause 8}・{pause 8}・{pause 8}뜨거운 걸 못 드신다면{pause 16}	어쩔 수 없습니다만{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0000-0004-0000-0000}	잘 마실게요	잠깐 식힐래요

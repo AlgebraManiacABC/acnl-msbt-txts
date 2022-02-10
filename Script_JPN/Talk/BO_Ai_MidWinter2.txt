@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Sleepy}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	{emote: Happiness}
+"001"	{emote: Greetings}おはよぉ～{pause 8}	{Player nickname (green)}{0005-000d-0000}{Wait for input}{emote: Happiness}こんなに　くらいのに、{pause 20}	おはよぉ～なんて	ふしぎだねぇ、{pause 8}{catchphrase}
+"002"	{emote: Sleepy}ふぁぁ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	まだ　ねむいよぉ、{pause 8}{catchphrase}{pause 40}	くらいけど　もう{ruby (charSpan 1): あさ}朝なんだよねぇ？
+"003"	{emote: Happiness}あぁ～{pause 8}　{Player nickname (green)}{0005-000d-0000}だぁ{pause 40}	また{ruby (charSpan 1): あ}会ったねぇ、{pause 8}{catchphrase}
+"004"	{emote: Happiness}こんばんわぁ～{pause 40}	{emote: Reset}って、{pause 40}{emote: Bashful}まだ　お{ruby (charSpan 1): ひる}昼だったねぇ、{pause 8}{catchphrase}{pause 20}{emote: Happiness}
+"005"	{emote: Happiness}{Greeting begin}やっほぉ～{Greeting end}{pause 20}	{Player nickname (green)}{0005-000d-0000}{Wait for input}お{ruby (charSpan 1): ひる}昼なのに　くらいのって	ふしぎだねぇ、{pause 8}{catchphrase}
+"006"	{emote: Happiness}こんにちわぁ～{pause 20}	また{ruby (charSpan 1): あ}会ったねぇ、{pause 8}{catchphrase}
+"007"	{emote: Greetings}{Player nickname (green)}{0005-000d-0000}{pause 8}	こんばんわぁ、{pause 8}{catchphrase}
+"008"	{emote: Greetings}やっほぉ～{pause 8}　{Player nickname (green)}{0005-000d-0000}{pause 40}	{emote: Cold Chill}{ruby (charSpan 2): きょう}今日は　とっても	さむいねぇ、{pause 8}{catchphrase}
+"009"	{emote: Happiness}やぁ～{pause 8}　{Player nickname (green)}{0005-000d-0000}{pause 20}	また　{ruby (charSpan 1): あ}会ったねぇ、{pause 8}{catchphrase}

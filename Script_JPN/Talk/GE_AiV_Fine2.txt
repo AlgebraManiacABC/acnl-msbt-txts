@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{Greeting begin}
-"006"	{emote: Happiness}
-"007"	{emote: Surprise}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Surprise}
+"001"	{emote: Surprise}あ！　{pause 20}{Player name}{0005-000d-0000}だ～{pause 40}	{emote: Happiness}また　{ruby (charSpan 1): あ}会ったね、{pause 15}{catchphrase}！
+"002"	{emote: Happiness}{Greeting begin}{Player name}{0005-000d-0000}じゃん！{Greeting end}{pause 30}	{Town name (pink)}{ruby (charSpan 1): むら}村{pause 8}	{ruby (charSpan 1): たの}楽しんでってね、{pause 15}{catchphrase}！
+"003"	{emote: Happiness}へぇ　{pause 20}{Town name (pink)}{ruby (charSpan 1): むら}村を{pause 10}	{ruby (charSpan 1): たの}楽しんでそうだね、{pause 15}{catchphrase}！
+"004"	{emote: Happiness}{Player name}{0005-000d-0000}だ！{pause 30}	お{ruby (charSpan 1): きゃく}客さんっていいね～、{pause 15}{catchphrase}{pause 20}	ちょーテンション{ruby (charSpan 1): あ}上がる！
+"005"	{Greeting begin}{emote: Surprise}あ、{pause 10}{Player name}{0005-000d-0000}じゃん！{Greeting end}{pause 30}	{emote: Happiness}{Town name (pink)}{ruby (charSpan 1): むら}村　{pause 8}サイコーでしょ？！
+"006"	{emote: Happiness}{Player name}{0005-000d-0000}だ！{pause 40}	{emote: Soft Smile}{ruby (charSpan 2): こんど}今度、{pause 10}{Town name (pink)}{ruby (charSpan 1): むら}村の{ruby (charSpan 1): はなし}話も	{ruby (charSpan 1): き}聞かせてよね、{pause 10}{catchphrase}！
+"007"	{emote: Surprise}あ、{pause 20}{Player name}{0005-000d-0000}だったんだ！{pause 30}	{emote: Sheepishness}なんか　{pause 10}{0005-0004-0002-cd00}{0005-000d-0000}に	{ruby (charSpan 1): み}見えたわ～、{pause 15}{catchphrase}
+"008"	{emote: Happiness}{Greeting begin}{Player name}{0005-000d-0000}じゃん{Greeting end}{pause 30}	もう　{Hour}{ruby (charSpan 1): じ}時だけど{pause 8}	まだまだ{ruby (charSpan 1): あそ}遊んじゃうよ、{pause 15}{catchphrase}！
+"009"	{emote: Happiness}{Greeting begin}{Player name}{0005-000d-0000}だ～！{Greeting end}{pause 30}	{ruby (charSpan 1): よる}夜の　{Town name (pink)}{ruby (charSpan 1): むら}村って　イイよね{pause 20}	{emote: Love}アタイも{ruby (charSpan 2): だいす}大好き、{pause 15}{catchphrase}！
+"010"	{emote: Surprise}あ！　{pause 20}{Player name}{0005-000d-0000}！{pause 30}	{emote: Glee}{ruby (charSpan 2): きょう}今日は、{pause 5}{ruby (charSpan 1): あさ}朝まで{ruby (charSpan 1): あそ}遊んじゃうカンジ？！

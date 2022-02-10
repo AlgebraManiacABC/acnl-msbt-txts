@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Laughter}
-"003"	{emote: Happiness}
-"004"	{Player nickname (green)}
+"001"	{emote: Alarmed}{0007-000a-0000}おー？！{pause 8}　またオマエかー{pause 40}	なんだ　なんだ？！　{pause 8}{catchphrase}
+"002"	{emote: Laughter}そんなに　あせって{ruby (charSpan 1): はな}話しかけて、{pause 20}	オマエって　せっかちだなー{pause 40}	{emote: Happiness}{ruby (charSpan 2): いったい}一体　どんな{ruby (charSpan 2): ようじ}用事だ？　{pause 8}{catchphrase}？
+"003"	{emote: Happiness}{Greeting begin}オーッス！{Greeting end}{pause 20}	{ruby (charSpan 2): こんど}今度は　{ruby (charSpan 1): なん}何の{ruby (charSpan 1): よう}用だ？　{pause 8}{catchphrase}？
+"004"	{Player nickname (green)}って、	{ruby (charSpan 1): はな}話すの{ruby (charSpan 1): す}好きなんだなー{pause 40}	{emote: Curious}{ruby (charSpan 2): こんど}今度は　どんな{ruby (charSpan 2): ようじ}用事だ？　{pause 8}{catchphrase}？

@@ -1,23 +1,23 @@
 == 0 ==
-"001"	{emote: Shocked}
-"002"	{emote: Sheepishness}
-"003"	{emote: Anger}
-"004"	{emote: Glee}
-"005"	{emote: Worry}
-"006"	{emote: Worry}
-"007"	{emote: Love}
-"008"	{emote: Shocked}
-"009"	{emote: Sheepishness}
-"010"	{emote: Anger}
-"011"	{emote: Distress}
-"012"	{emote: Distress}
-"013"	{emote: Sunny}
-"014"	あら、{pause 8}
-"015"	{emote: Soft Smile}
-"016"	あら、{pause 8}
-"017"	{emote: Curious}
-"018"	{emote: Soft Smile}
-"019"	{emote: Soft Smile}
-"020"	{emote: Thought}
-"021"	{emote: Agreement}
-"022"	{emote: Anger}
+"001"	{emote: Shocked}{0007-000a-0000}えっ、{pause 16}オニ？！
+"002"	{emote: Sheepishness}{ruby (charSpan 1): き}来たわね？{pause 32}	オニの{ruby (charSpan 1): ひと}人{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"003"	{emote: Anger}アナタが　オニね？{pause 32}	{ruby (charSpan 1): ま}待ってたわよ、{pause 8}{catchphrase}
+"004"	{emote: Glee}オニは～　{ruby (charSpan 1): そと}外！{pause 16}	フクは～　{ruby (charSpan 1): うち}内！
+"005"	{emote: Worry}ごめんさい、{pause 16}{ruby (charSpan 1): いた}痛かったでしょ？{pause 32}	{ruby (charSpan 1): だれ}誰も　やりたがらない{pause 16}	オニをやってくれて　ありがとね
+"006"	{emote: Worry}これで　{Town name (pink)}{ruby (charSpan 1): むら}村の{pause 16}	ジャキが　はらえたかしら？	{pause 8}{catchphrase}？	{emote: Sheepishness}でなきゃ、かわいそうよ{pause 32}	せっかく　アナタが　{pause 16}	{ruby (charSpan 1): いた}痛い{ruby (charSpan 1): おも}思いしてくれたんだもの
+"007"	{emote: Love}{pause 16}あ～　{pause 16}スッキリした！{pause 32}	{emote: Sheepishness}{ruby (charSpan 1): や}病み{ruby (charSpan 1): つ}付きになりそう{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"008"	{emote: Shocked}{0007-000a-0000}やだっ、{pause 16}オニ？！{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Worry}しかも、{pause 16}	{ruby (charSpan 1): まめ}豆も　{ruby (charSpan 1): も}持ってるじゃない？	{emote: Anger}ズルい{ruby (charSpan 1): ひと}人{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): まめ}豆をまくのか　まかれるのか{pause 16}	どちらかにしなさい
+"009"	{emote: Sheepishness}{ruby (charSpan 1): き}来たわね？{pause 32}	オニの{ruby (charSpan 1): ひと}人{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あら？{pause 32}	アナタ、{pause 8}{ruby (charSpan 1): まめ}豆も{ruby (charSpan 1): も}持ってるの？	{emote: Anger}そんなの　ダメよ！{pause 32}	{ruby (charSpan 1): まめ}豆をまくか　まかれるか{pause 16}	ハッキリしなさい、{pause 8}{catchphrase}！
+"010"	{emote: Anger}アナタが　オニね？{pause 32}	{ruby (charSpan 1): ま}待ってたわよ、{pause 8}{catchphrase}{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 8}って、{pause 8}なんで{pause 16}	オニのアナタが　{emote: Curious}{ruby (charSpan 1): まめ}豆を{ruby (charSpan 1): も}持ってるの？{Wait for input}{emote: Worry}{ruby (charSpan 1): まめ}豆をまくのか　まかれるのか{pause 16}	どっちかに　してもらわないと{pause 16}	{ruby (charSpan 1): こま}困るんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"011"	{emote: Distress}あ～　{pause 16}{ruby (charSpan 1): まめ}豆まきして{pause 16}	{ruby (charSpan 1): だれ}誰かに　ぶつけたいわ～！{pause 32}	この{ruby (charSpan 1): おも}思い{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"012"	{emote: Distress}あ～、{pause 16}どこかに	オニが　いないかしら～？　	{pause 8}{catchphrase}？	{emote: Anger}この{ruby (charSpan 1): おも}思い、{pause 16}{ruby (charSpan 1): はや}早くぶつけたいの！{pause 32}	{emote: Glare}この{ruby (charSpan 1): まめ}豆で{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"013"	{emote: Sunny}{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): まめ}豆まきして{pause 16}	ストレス{ruby (charSpan 2): はっさん}発散したいわ！
+"014"	あら、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	その{ruby (charSpan 1): まめ}豆を　どうするつもり？	{pause 8}{catchphrase}？	{emote: Anger}{ruby (charSpan 1): まめ}豆まきするのかしら？{pause 32}	{emote: Glare}それとも{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"015"	{emote: Soft Smile}あら、{pause 8}いいわね{pause 32}	アナタ　{pause 8}{ruby (charSpan 1): まめ}豆{ruby (charSpan 1): も}持ってるの？	{pause 8}{catchphrase}？	{emote: Sheepishness}オニがいれば、{pause 16}{ruby (charSpan 1): まめ}豆まき	できるんでしょうけど{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"016"	あら、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	{ruby (charSpan 1): まめ}豆まきしてるの？{pause 32}	{emote: Soft Smile}{ruby (charSpan 2): せつぶん}節分って{ruby (charSpan 1): たの}楽しいんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}オニがいないと、{pause 16}	イマイチ　{ruby (charSpan 1): も}盛り{ruby (charSpan 1): あ}上がんないのよね、	{pause 8}{catchphrase}
+"017"	{emote: Curious}アナタも　{ruby (charSpan 1): まめ}豆{ruby (charSpan 1): も}持ってるの？{Wait for input}	{emote: Thought}{pause 16}どこかに　オニが{pause 16}	いないかしらねぇ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"018"	{emote: Soft Smile}あら、アナタも{pause 16}　{ruby (charSpan 1): まめ}豆{ruby (charSpan 1): も}持ってるの？{pause 32}	アタシもよ、{pause 8}{Player nickname (green)}{0005-000d-0000}{Wait for input}{emote: Thought}{pause 16}さっきから　オニを{ruby (charSpan 1): さが}探してるんだけど、{pause 16}	なかなか　{ruby (charSpan 1): み}見つからないのよね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"019"	{emote: Soft Smile}あ～、{pause 16}アナタも　{ruby (charSpan 1): まめ}豆{ruby (charSpan 1): も}持ってるの？{Wait for input}{emote: Worry}アタシも　{ruby (charSpan 1): まめ}豆、{ruby (charSpan 1): も}持ってるんだけど{pause 16}	{ruby (charSpan 1): まめ}豆をまく　タイミングを{pause 16}	うかがってるのよ、{pause 8}{catchphrase}
+"020"	{emote: Thought}{pause 16}でも、ここで　{ruby (charSpan 1): まめ}豆をまいたら{pause 20}	そうじが　{ruby (charSpan 2): たいへん}大変だから{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Agreement}{ruby (charSpan 2): みのが}見逃してあげるわ、{pause 8}{catchphrase}
+"021"	{emote: Agreement}{ruby (charSpan 2): せつぶん}節分は　アナタがいないと{pause 15}	{ruby (charSpan 1): はじ}始まらないのよね{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Sunny}ごくろうさま、{pause 8}オニさん
+"022"	{emote: Anger}なんていうか{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Agreement}{ruby (charSpan 2): めぢから}目力があるわね？　{pause 8}{catchphrase}？

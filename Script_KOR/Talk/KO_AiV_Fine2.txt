@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{Greeting begin}
-"002"	너 그냥 차라리 이 마을에{pause 20}!
-"003"	{Greeting begin}
-"004"	{emote: Happiness}
-"005"	{000a-0008-0010-06-00-03-00-03-00-03-00-03-00-03-00-03-00-03-00}
-"006"	{000a-0001-0004-07-00-08-00}
-"007"	그건 그렇고 참 날씨 좋네{0000-0004-0000}
-"008"	그건 그렇고, 날씨 참 좋네{0000-0004-0000}
+"001"	{Greeting begin}오호, {pause 8}{Player name}{Greeting end}!{pause 30}	{emote: Happiness}그냥 {Town name (pink)} 마을 주민이래도{pause 8}	믿겠는걸, {pause 20}{catchphrase}
+"002"	너 그냥 차라리 이 마을에{pause 20}	집 한 채 지어 버리는 게 어때?{pause 20}	{emote: Laughter}으ー하하핫!{pause 30} {emote: Soft Smile}{catchphrase}!
+"003"	{Greeting begin}어때, {pause 8}{Player name}{Greeting end}!{pause 30}	{emote: Happiness}{Town name (pink)} 마을은	제대로 즐기고 있냐?{pause 20} {catchphrase}?
+"004"	{emote: Happiness}{Town name (pink)} 마을에서	니가 여기저기 돌아다니는 걸 보면{pause 20}	엄청 신선하다구, {pause 20}{catchphrase}
+"005"	{000a-0008-0010-0006-0003-0003-0003-0003-0003-0003-0003}
+"006"	{000a-0001-0004-0007-0008}
+"007"	그건 그렇고 참 날씨 좋네{Wait for input}{emote: Inspired}{pause 60}설마 니가{pause 20}	{emote: Happiness}햇살을 몰고 온 거냐?{pause 20} {catchphrase}?
+"008"	그건 그렇고, 날씨 참 좋네{Wait for input}{emote: Inspired}{pause 60}설마 너한테 반해서{pause 20}	{emote: Happiness}해님이 쫓아 온 건가?{pause 20} {catchphrase}?

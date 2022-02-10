@@ -1,33 +1,33 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Sheepishness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Shyness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Glee}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Joy}
-"015"	{emote: Happiness}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Soft Smile}
-"019"	{emote: Laughter}
-"020"	{emote: Glee}
-"021"	{000a-000b-0006-10-16-00-17-00-ffffffcd}
-"022"	{0009-0000-0004-04-00-05-00}
-"023"	{0009-0001-0006-01-00-02-00-03-00}
-"024"	{000a-000b-0006-10-19-00-1a-00-ffffffcd}
-"025"	{0009-0000-0004-09-00-00-00}	
-"026"	{0009-0001-0006-06-00-07-00-08-00}
-"027"	{000a-000b-0006-10-1c-00-1d-00-ffffffcd}
-"028"	{0009-0000-0004-0e-00-0f-00}
-"029"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"030"	{000a-000b-0006-10-1f-00-20-00-ffffffcd}
-"031"	{0009-0000-0004-13-00-14-00}
-"032"	{0009-0001-0006-10-00-11-00-12-00}
+"001"	{emote: Happiness}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): あさ}朝って{pause 10}	フレッシュな{ruby (charSpan 2): きも}気持ちになります、{pause 15}{catchphrase}
+"002"	{emote: Happiness}{Greeting begin}あら{Greeting end}{pause 20}	またお{ruby (charSpan 1): あ}会いしましたね、{pause 10}{catchphrase}
+"003"	{emote: Sheepishness}いつまで	{ruby (charSpan 1): ふ}降るのかしら、{pause 10}{catchphrase}{Wait for input}	{emote: Soft Smile}{ruby (charSpan 1): よる}夜には　{pause 8}やみますかね
+"004"	{emote: Happiness}{Greeting begin}また　{ruby (charSpan 1): あ}会いましたね！{Greeting end}{Wait for input}{emote: Joy}{ruby (charSpan 1): あさ}朝から{ruby (charSpan 1): あめ}雨が{ruby (charSpan 1): ふ}降るなんて{pause 10}	{emote: Showmanship}{ruby (charSpan 2): きょう}今日は　いいことありそうです、{pause 15}{catchphrase}！
+"005"	{emote: Happiness}{Player nickname (green)}さんも　{pause 10}お{ruby (charSpan 2): さんぽ}散歩{ruby (charSpan 1): ちゅう}中ですか？{Wait for input}{emote: Joy}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): あさ}朝に　{pause 5}お{ruby (charSpan 1): で}出かけしないなんて{pause 10}	{emote: Sunny}ソンですもんね！　{pause 20}{catchphrase}！
+"006"	{emote: Shyness}ずっと　{ruby (charSpan 1): ある}歩いていたら{pause 10}	{emote: Distress}{ruby (charSpan 1): あし}足がしめってきました{pause 8}・{pause 8}・{pause 8}・{pause 8}{catchphrase}
+"007"	{emote: Happiness}{Greeting begin}あら、{pause 10}{Player nickname (green)}さん！{Greeting end}{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): あまやど}雨宿りするんでしたら{pause 10}	{emote: Happiness}エンリョなく{pause 5}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくださいね、{pause 15}{catchphrase}
+"008"	{emote: Happiness}まだまだ　{pause 5}{ruby (charSpan 1): ふ}降りそうですね！{Wait for input}	{emote: Sunny}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日を　{pause 8}{ruby (charSpan 1): たの}楽しみましょう、{pause 15}{catchphrase}
+"009"	{emote: Glee}{ruby (charSpan 2): きょう}今日は　{pause 10}よく　お{ruby (charSpan 1): あ}会いしますね！{Wait for input}{emote: Shyness}わたし　{pause 8}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日って{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Happiness}ケーキが　{pause 8}うまく{ruby (charSpan 1): や}焼けたときみたいに{pause 10}	{emote: Joy}{ruby (charSpan 1): しあわ}幸せな{ruby (charSpan 2): きも}気持ちになれるんです、{pause 15}{catchphrase}{pause 8}{emote: Soft Smile}
+"010"	{emote: Happiness}{Greeting begin}あら　{pause 20}{Player nickname (green)}さん{Greeting end}{Wait for input}{emote: Glee}ちょうど{ruby (charSpan 1): いま}今{pause 10}	{ruby (charSpan 1): よる}夜まで{ruby (charSpan 1): あめ}雨が{ruby (charSpan 1): ふ}降るように{pause 10}	おいのりしてたんです、{pause 15}{catchphrase}！
+"011"	{emote: Happiness}{Greeting begin}{Player nickname (green)}さん{Greeting end}{Wait for input}	{emote: Soft Smile}{ruby (charSpan 1): あめ}雨にぬれて{pause 10}　カゼを{pause 5}	ひかないようにしましょうね、{pause 15}{catchphrase}
+"012"	{emote: Happiness}また　お{ruby (charSpan 1): あ}会いしましたね！{Wait for input}{emote: Glee}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): よる}夜のお{ruby (charSpan 2): さんぽ}散歩{pause 10}	お{ruby (charSpan 1): す}好きなんですね、{pause 15}{catchphrase}！
+"013"	{emote: Happiness}{ruby (charSpan 1): あめ}雨のおかげで{pause 10}	{emote: Soft Smile}{ruby (charSpan 2): むらじゅう}村中が　{pause 8}ぴかぴかになりそうです！
+"014"	{emote: Joy}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): おと}音を{ruby (charSpan 1): き}聞いていたら、{pause 10}	{ruby (charSpan 1): め}目がさえてしまって！{Wait for input}	{emote: Glee}いてもたっても　{pause 10}いられないんです！
+"015"	{emote: Happiness}{Greeting begin}こんばんは！{Greeting end}{Wait for input}	{emote: Glee}わたしも{pause 10}　まだまだ{pause 5}	{ruby (charSpan 1): あめ}雨を{ruby (charSpan 1): たの}楽しみますよ！{pause 20}　{catchphrase}！
+"016"	{emote: Happiness}{Greeting begin}まぁ！　{pause 20}また　お{ruby (charSpan 1): あ}会いしましたね{Greeting end}{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): くら}暗いので{pause 15}	{ruby (charSpan 1): あし}足をすべらせないように{pause 10}	{emote: Happiness}{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けてください、{pause 15}{catchphrase}！
+"017"	{emote: Happiness}こんな{ruby (charSpan 2): じかん}時間まで　{pause 8}ご{ruby (charSpan 2): ようじ}用事があるなんて、{Wait for input}	{emote: Glee}{Player nickname (green)}さんは{pause 10}	{ruby (charSpan 1): ひ}引っ{ruby (charSpan 1): ぱ}張りだこなんですね、{pause 15}{catchphrase}！
+"018"	{emote: Soft Smile}{ruby (charSpan 2): よふ}夜更けの{ruby (charSpan 2): あまおと}雨音って{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Sleepy}{ruby (charSpan 2): ねむけ}眠気を　{ruby (charSpan 1): さそ}誘いますよね～、{pause 15}{catchphrase}
+"019"	{emote: Laughter}うふふ！{pause 30}{emote: Soft Smile}{Wait for input}{emote: Glee}こんな{ruby (charSpan 1): よる}夜は　{pause 8}カサなんかささずに{pause 15}	{emote: Joy}{ruby (charSpan 1): あめ}雨に{ruby (charSpan 1): うた}歌ったり{pause 15}	{emote: Flourish}タップダンスしたくなります
+"020"	{emote: Glee}{Greeting begin}まぁ！{Greeting end}{pause 20}	こんな{ruby (charSpan 2): じかん}時間まで　{pause 5}お{ruby (charSpan 2): さんぽ}散歩ですか？{Wait for input}{emote: Happiness}わたしも　{pause 10}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 2): よふ}夜更けが{ruby (charSpan 2): だいす}大好きなんです！{Wait for input}	{emote: Showmanship}{ruby (charSpan 1): あめ}雨は　いつでも{ruby (charSpan 3): だいかんげい}大歓迎ですよ、{pause 15}{catchphrase}
+"021"	{000a-000b-0006-1610-1700-cd00}
+"022"	{0009-0000-0004-0004-0005}
+"023"	{0009-0001-0006-0001-0002-0003}
+"024"	{000a-000b-0006-1910-1a00-cd00}
+"025"	{0009-0000-0004-0009-000a}
+"026"	{0009-0001-0006-0006-0007-0008}
+"027"	{000a-000b-0006-1c10-1d00-cd00}
+"028"	{0009-0000-0004-000e-000f}
+"029"	{0009-0001-0006-000b-000c-000d}
+"030"	{000a-000b-0006-1f10-2000-cd00}
+"031"	{0009-0000-0004-0013-0014}
+"032"	{0009-0001-0006-0010-0011-0012}

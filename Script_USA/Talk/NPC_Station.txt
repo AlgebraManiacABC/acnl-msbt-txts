@@ -1,261 +1,261 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	Welcome to {000e-0004-0000}
-"005"	All right. See you around!{pause 20}
-"006"	OK then.{pause 16}
-"007"	OK, I'll close the gate.{pause 5}
-"008"	Would you like to invite guests from	{emote: Curious}
-"009"	Which would you like to go visit?{pause 20}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	It appears at least one of your	friends has opened their town	gate as well.	Do you still want {emote: Curious}
-"014"	What sort of friends would you like	to be able to visit your town?{confirmation-cd02}{000f-0000-0004-00-00-00-00}
-"015"	{emote: Happiness}
-"016"	So you'd rather go to another town	{pause 15}
-"017"	Looking for nearby towns to visit{pause 5}
-"018"	{emote: Curious}
-"019"	Sorry, {pause 20}
-"020"	It looks like {0011-0002-0002-00-00}
-"021"	Here is a list of the available towns	at the moment.{pause 15}!
-"022"	Since this is probably the first time{pause 5}
-"023"	How exciting! {pause 8}!
-"024"	Have a good trip!{pause 15}
-"025"	Eek eek! You have no friends	registered{pause 15}
+"001"	{emote: Happiness}Welcome to {000e-0004-0000}{Town name (pink)} Station,	the gateway to the world of travel.{Wait for input}{emote: Reset}Please use this station when you	want to visit your friends or you	want your friends to come visit you.	{emote: Happiness}You can get more detailed info from	the {Blue}guide board {Color Reset}next to me!{Wait for input}{emote: Reset}{pause 5}.{pause 5}.{pause 5}.{pause 5}Now then,{pause 15} would you {emote: Curious}{pause 5}like to use	the station? Eek eek?{000f-0005-0004-0015-0028}	Yeah!	Not right now.
+"002"	{emote: Happiness}Welcome to {000e-0004-0000}{Town name (pink)} Station!{pause 20}	{emote: Reset}Can I help you with anything?{000f-0005-0004-0015-0028}	Yes!	No, not now. 
+"003"	{emote: Happiness}Welcome to {000e-0004-0000}{Town name (pink)} Station!{pause 20}	What do you want to do today?{000f-0006-0006-0000-0000-0028}	Visit another town.	Invite guests in.	Never mind.
+"004"	Welcome to {000e-0004-0000}{Town name (pink)} Station!{Wait for input}	{emote: Curious}What can I help you with today?{000f-0006-0006-0000-0000-0028}	I'd like to take a trip.	Close the ticket gate.	Never mind.
+"005"	All right. See you around!{pause 20}	Eek eek, aah aah!
+"006"	OK then.{pause 16} I'll be here if you ever	need me for anything!{pause 20} Eek eek!
+"007"	OK, I'll close the gate.{pause 5} This will	stop others from coming in,{pause 5} but	you can still message best friends.
+"008"	Would you like to invite guests from	{emote: Curious}a {Blue}nearby{Color Reset} town or a {Blue}faraway {Color Reset}town?{000f-0006-0006-0000-0000-0000}	A nearby town.	A faraway town.	Actually, forget it.
+"009"	Which would you like to go visit?{pause 20}	{emote: Curious}A {Blue}nearby{Color Reset} town or a {Blue}faraway {Color Reset}town?{000f-0006-0006-0000-0000-0000}	A nearby town.	A faraway town.	Actually, forget it.
+"010"	{emote: Happiness}Eek eek!{pause 8} Shall I get your local	wireless going then?{confirmation-02}{000f-0005-0004-0000-0000}	OK!	Nah.
+"011"	{emote: Happiness}Well then, {pause 8}should I switch from	Internet to local wireless?{confirmation-02}{000f-0005-0004-0000-0000}	OK!	Nah.
+"012"	{emote: Happiness}Eek eek! {emote: Mistaken}I mean OK! {emote: Happiness}Shall we	connect to the Internet?{confirmation-02}{000f-0005-0004-0000-0000}	OK!	Forget it!
+"013"	It appears at least one of your	friends has opened their town	gate as well.	Do you still want {emote: Curious}to open your	ticket gate or would you like to	go visit someone instead?{000f-0005-0004-0000-0000}	Please open my gate!	Oh, I'll go visiting then!
+"014"	What sort of friends would you like	to be able to visit your town?{confirmation-02}{000f-0000-0004-0000-0000}	All my friends!	Just my best friends!
+"015"	{emote: Happiness}Eek eek! Sorry to keep you waiting.{pause 15}	Let's open the gate!{Wait <002d 0000> 'time'}
+"016"	So you'd rather go to another town	{pause 15}than have someone visit you?{confirmation-02}{000f-0005-0004-0000-0000}	Yes, I'd rather travel!	No, I want visitors.
+"017"	Looking for nearby towns to visit{pause 5}.{pause 5}.{pause 5}.	{0007-0002-0000}{Blue}Press Ⓑ to cancel{Color Reset}.{0007-0003-0000}
+"018"	{emote: Curious}Eek eek?{pause 15} So you don't feel like	leaving after all?{confirmation-02}{000f-0005-0004-0000-0000}	I want to leave.	I want to stay.
+"019"	Sorry, {pause 20}but I couldn't find any nearby	towns for you to visit{pause 5}.{pause 5}.{pause 5}.{pause 15}{Wait for input}Since you're currently playing	{Green}Animal Crossing: New Leaf -	Welcome amiibo{Color Reset}... {pause 8}{Wait for input}{emote: Agreement}you can visit other {Blue}Welcome amiibo	{Color Reset}towns. {emote: Reset}{Wait for input}If you can't find a friend's	town, {pause 8}check if they are playing...	{Green}Animal Crossing: New Leaf -	Welcome amiibo{Color Reset}.{Wait for input}{emote: Curious}Do you want me to keep looking?{confirmation-02}{000f-0005-0004-0000-0000}	Yes, please.	Nah, forget it.
+"020"	It looks like {0011-0002-0002-0000} is open to	visitors!{pause 15} {emote: Curious}Would you like to travel	there right now?{confirmation-02}{000f-0006-0006-0000-0000-0000}	Yeah!	Nah, somewhere else.	Nope, forget it.
+"021"	Here is a list of the available towns	at the moment.{pause 15}
+"022"	Since this is probably the first time{pause 5}	you're opening the gate, I'd like to	go ahead and explain a few things.	While online,{pause 10} {Green}👥 {Color Reset}will be displayed	on the {Blue}lower left of the bottom	screen{Color Reset}.	{emote: Happiness}While you're playing with someone	else,{pause 10} wirelessly or online,{pause 10} you can	check their {Blue}TPC{Color Reset} by tapping {Green}👥{Color Reset}.	{emote: Reset}Even if you don't have visitors,	{Green}👥 {Color Reset}will be visible if you're online.{Wait for input}If you want to change your online	or wireless status,{pause 10} just come talk	to me and I'll get you squared away.
+"023"	How exciting! {pause 8}The next train should	be arriving any minute now.{pause 5} So let's	get you ready for departure,{pause 8} eek!
+"024"	Have a good trip!{pause 15}	Eek eek, aah aah aah!{Wait <003c 0000> 'time'}
+"025"	Eek eek! You have no friends	registered{pause 15} in your {Blue}Nintendo 3DS	{Blue}f{Blue}{Color Reset}{Blue}riend list{Color Reset}.	You need to register friends in	order to visit faraway towns!
 "026"	Looking for faraway towns	that you can visit...
-"027"	Eek eek! You have no friends	registered{pause 15}
-"028"	Welcome to {000e-0004-0000}
-"029"	{emote: Curious}
-"030"	OK, I'll be here if you need me for	anything!{pause 10}
-"031"	The ticket gate appears	to have been closed{pause 5}
-"032"	The town has already reached	its visitor limit{pause 5}
-"033"	Eek eek! Something's not working{pause 5}
-"034"	Eek eek! We couldn't connect for	some reason.{Wait for input}
-"035"	It seems that someone in that town	is in the middle of a conversation.{pause 10}
-"036"	{emote: Worry}
-"037"	Welcome to {000e-0004-0000}
-"038"	Welcome to {000e-0004-0000}
-"039"	Welcome to {000e-0004-0000}
-"040"	{emote: Happiness}
-"041"	So you want to end communication{pause 20}
-"042"	Oh! {pause 10}
-"043"	Alrighty.{pause 15}
-"044"	{emote: Worry}
-"045"	Good-bye! Farewell! {pause 8}
-"046"		Have a safe trip! Eek eek!{0007-0009-0004-3c-00-00-00}
-"047"	I got a message from the dock that	you recently put in a request to ride	the boat out to the island.	If you want to go home,{pause 5}
-"048"	{emote: Worry}
-"049"	Oh,{pause 15}
-"051"	{emote: Surprise}
-"052"	{emote: Happiness}
-"053"	So{pause 15}
-"054"	OK, first things first.{pause 20}
-"055"	Well, everything seems to be in	orde—{pause 60}
-"056"	.{pause 5}
-"057"	You won't need to show me your	{Blue}TPC{Color Reset} from now on.{0000-0004-0000}
-"058"	Oh,{pause 15}
-"059"	{pause 5}
-"060"	{emote: Happiness}
-"061"	Eek! Due to {Blue}Parental Controls {Color Reset}in	place on this {Blue}system{Color Reset},{pause 15}
-"062"	Eek! Due to {Blue}Parental Controls{Color Reset} in	place on this {Blue}system{Color Reset},{pause 15}
-"063"	Currently,{pause 5}
-"064"	Currently,{pause 5}
-"065"	{emote: Happiness}
-"066"	Thanks for waiting! {pause 20}
-"067"	Thanks for waiting!{pause 20}
-"068"	Currently,{pause 5}
-"070"	Welcome {pause 8}
-"071"	Sorry, but the train is currently out{pause 8}
-"072"	You know—{pause 15}
-"073"	You know—{pause 15}
-"074"	You know—{pause 15}
-"075"	You know—{pause 15}
-"076"	You know—{pause 15}
-"077"	You know—{pause 15}
-"078"	You know—{pause 15}
-"079"	You know—{pause 15}
-"081"	{emote: Sigh}
-"082"	{pause 5}
-"083"	Oh! {pause 15}
-"084"	It's not surprising—{emote: Agreement}
-"085"	That's where you come in,{pause 20}
-"086"	Also, just to let you know{pause 5}
-"087"	Also{pause 5}
-"088"	{emote: Happiness}
-"089"	
+"027"	Eek eek! You have no friends	registered{pause 15} in your {Blue}Nintendo 3DS	{Color Reset}{Blue}friend list{Color Reset}.	If you want people to visit your	town from far away, you'll need to	register them in your {Blue}friend list{Color Reset}!
+"028"	Welcome to {000e-0004-0000}{Town name (pink)} Station!{Wait for input}	{emote: Curious}What do you want to do today?{000f-0007-0008-0000-0000-0000-0028}	I want to take a trip!	Open the gate.	End the online session.	Nothing.
+"029"	{emote: Curious}Do you want me to look for other	destinations?{confirmation-02}{000f-0005-0004-0000-0000}	Yes, keep looking.	No, thanks.
+"030"	OK, I'll be here if you need me for	anything!{pause 10} See you later,{pause 20} eek eek!
+"031"	The ticket gate appears	to have been closed{pause 5}.{pause 5}.{pause 5}.
+"032"	The town has already reached	its visitor limit{pause 5}.{pause 5}.{pause 5}.
+"033"	Eek eek! Something's not working{pause 5}.{pause 5}.{pause 5}.{pause 5}	{emote: Curious}Do you want me to try again?{confirmation-02}{000f-0005-0004-0000-0000}	Yes.	Nope.
+"034"	Eek eek! We couldn't connect for	some reason.{Wait for input} Please try again later!
+"035"	It seems that someone in that town	is in the middle of a conversation.{pause 10}	{emote: Curious}Do you want me to try again?{confirmation-02}{000f-0005-0004-0000-0000}	Yes.	Nope.
+"036"	{emote: Worry}Eek! {pause 20}The train doesn't usually take	this long!{pause 8} You might want to try	again in a moment or so.
+"037"	Welcome to {000e-0004-0000}{Town name (pink)} Station!{Wait for input}	There is currently {Blue}{pause 10}{Number (0x6)} {Color Reset}visitor in town.
+"038"	Welcome to {000e-0004-0000}{Town name (pink)} Station.{Wait for input}	There are currently {Blue}{pause 10}{Number (0x6)} {Color Reset}visitors in	town.
+"039"	Welcome to {000e-0004-0000}{Town name (pink)} Station!{Wait for input}	There are {Blue}{pause 10}{Number (0x6)} {Color Reset}visitors in town right	now!
+"040"	{emote: Happiness}OK, {pause 8}eek!{pause 15} I'll leave the gate as it is.
+"041"	So you want to end communication{pause 20}	and stop hosting visitors from	other towns, correct?	Well then, {pause 8}I'll go ahead and end	communication now.
+"042"	Oh! {pause 10}{emote: Curious}Leaving so soon?{confirmation-02}{000f-0005-0004-0015-0028}	Yep. Gotta go.	Nope, not quite yet.
+"043"	Alrighty.{pause 15} Just let me know when you	want to return to {Town name (pink)}.
+"044"	{emote: Worry}That's a shame.{pause 5} It feels like you only	just arrived.{pause 15} {emote: Happiness}But luckily, the train	should be here anytime now.
+"045"	Good-bye! Farewell! {pause 8}Take care!{pause 15}	Eek eek!{Wait <003c 0000> 'time'}
+"046"		Have a safe trip! Eek eek!{Wait <003c 0000> 'time'}
+"047"	I got a message from the dock that	you recently put in a request to ride	the boat out to the island.	If you want to go home,{pause 5} first cancel	the boat trip, and then come back	here! Eek eek!
+"048"	{emote: Worry}The next train won't be coming for	a while.{pause 20} {emote: Soft Smile}Say! Why not finish your	resident registration while waiting?
+"049"	Oh,{pause 15} something wrong?{Wait for input} If you don't	know how to get somewhere,{pause 5} check	the {Blue}map on the bottom screen{Color Reset}.
+"051"	{emote: Surprise}Hey! {pause 20}You're the {boy/girl} who just	moved here from another town!{pause 20}	{capitalized}{Player name}, right?	Well, let's have a look at your new	{Blue}Town Pass Card{Color Reset}!
+"052"	{emote: Happiness}OK, {pause 8}you're all set!{pause 20}	Thanks for your cooperation.
+"053"	So{pause 15} {emote: Curious}will you be traveling to another	town?{Wait for input}Or {pause 10}would you like to invite friends	to {Town name (pink)}?{000f-0006-0006-0000-0000-0000}	I want to travel.	Invite friends over.	Neither.
+"054"	OK, first things first.{pause 20} I'll need to	check your {Blue}Town Pass Card{Color Reset}.
+"055"	Well, everything seems to be in	orde—{pause 60} {emote: Alarmed}{0007-000b-0000}EEK EEEEEK!{Wait for input}There's no picture on this {Blue}TPC{Color Reset}!{Wait for input}{emote: Reset}{pause 5}.{pause 5}.{pause 5}.{pause 5}{emote: Inspired}Oh, right!{Wait for input} {emote: Reset}{Orange}Isabelle{Color Reset} must've	forgot to tell you.{Wait for input}{emote: Happiness}No worries!{pause 15} Happens all the time.{emote: Reset}{Wait for input}OK,{pause 15} to get a picture, you'll need to 	visit the {Blue}photo booth{Color Reset} over in the	{Blue}shopping district{Color Reset}.	{emote: Reset}It costs {Blue}500 Bells{Color Reset}.{Wait for input} Don't forget!{pause 20}	{emote: Happiness}Come back here when you're done!
+"056"	.{pause 5}.{pause 5}.{pause 5}{emote: Happiness}OK,{pause 8} thank you!{Wait for input} Nice picture, by	the way. {pause 20}You're quite the looker!{Wait for input}{emote: Reset}We sometimes get people who	haven't even had their picture	taken yet. {emote: Laughter}{pause 20}Eek {pause 20}eek {pause 20}eek!	{emote: Sheepishness}I'm guessing {pause 8}{Orange}Isabelle {Color Reset}must forget	to tell people. She can be kind of...{pause 20}	distracted...{pause 20}at times.	{emote: Reset}Anyway, here's your	{Blue}Town Pass Card{Color Reset} back.
+"057"	You won't need to show me your	{Blue}TPC{Color Reset} from now on.{Wait for input}{emote: Happiness}My memory's good, {pause 8}and you have	a really unique face. {Wait for input}{pause 20}I mean, just	look at that {0007-000a-0000}NOSE!{emote: Laughter}{pause 30} Eek{pause 30} eek!	{emote: Reset}So anyway{pause 10}.{pause 10}.{pause 10}.{pause 10}	What can I help you with?{000f-0006-0006-0000-0000-0028}	Visiting another town.	Inviting friends here.	Nothing.
+"058"	Oh,{pause 15} {emote: Curious}did you get your picture taken?{pause 20}	{emote: Reset}Can I see your {Blue}TPC{Color Reset} again?
+"059"	{pause 5}.{pause 5}.{pause 5}.{pause 5}{emote: Curious}{pause 15}Huh?{Wait for input} There's still no picture!{Wait for input}{emote: Reset}I know it's a pain, but can you go to	the {Blue}photo booth{Color Reset} in the shopping	district and get your photo taken?	It costs {Blue}500 Bells{Color Reset}.{Wait for input} Don't forget!
+"060"	{emote: Happiness}Yep, everything seems to be	in order here. {pause 15}Thank you.{Wait for input}	Here's your card back.
+"061"	Eek! Due to {Blue}Parental Controls {Color Reset}in	place on this {Blue}system{Color Reset},{pause 15} you can't	use the station.{000f-0000-0004-0000-0000}	Ugh, fine!	{Orange}⚠ {Color Reset}But— I'm a parent!
+"062"	Eek! Due to {Blue}Parental Controls{Color Reset} in	place on this {Blue}system{Color Reset},{pause 15} you can't	use the station.{000f-0000-0004-0000-0000}	Ugh, fine!	{Orange}⚠ {Color Reset}But— I'm a parent!
+"063"	Currently,{pause 5} the gate is open to allow	new visitors.{pause 10} {emote: Curious}Did you want me to	close it?{000f-0005-0004-0015-0028}	Close the gate!	Keep it the way it is.
+"064"	Currently,{pause 5} the gate is closed to	prevent new visitors from coming.{pause 10}	{emote: Curious}Are you OK with opening it?{000f-0005-0004-0015-0028}	Open the gate!	Keep it the way it is.
+"065"	{emote: Happiness}As you wish! Eek eek!
+"066"	Thanks for waiting! {pause 20}If you want to	open the gate for visitors, just let	me know. Eek eek!
+"067"	Thanks for waiting!{pause 20} If you want to	close the gate, just let me know!{pause 10}	Eek eeeeek!
+"068"	Currently,{pause 5} the gate is closed to	keep new visitors from coming	in.{pause 10} {emote: Curious}What would you like to do?{000f-0006-0006-0000-0000-0000}	Open the gate!	Open for best friends!	Keep it that way.
+"070"	Welcome {pause 8}to {000e-0004-0000}{Town name (pink)} Station!{pause 15}	Eek eek, aah aah aah!
+"071"	Sorry, but the train is currently out{pause 8}	of service. {pause 20}Please try again when	you wake up.
+"072"	You know—{pause 15}the people from this	town have never visited another	town.{pause 20}	{emote: Worry}It makes me kind of sad. {pause 20}{Text size 80%}Eek eek...{Text size 100%}
+"073"	You know—{pause 15}the people from	this town don't get out much.{pause 8}{Wait for input}{emote: Worry}I wish they'd visit some other	towns. It would really broaden	their horizons, {pause 10}eek eek!
+"074"	You know—{pause 15}people from this town	have boarded {Number (0x9)} trains from	this station,{pause 8} eek eek!
+"075"	You know—{pause 15}the people from this	town have boarded more trains	from this station than I can count!	{emote: Showmanship}That's a whole lot of trains,	EEEEEEK EEK!
+"076"	You know—{pause 15}this station hasn't been	used by any visitors from other	towns yet.	{emote: Worry}It makes me kind of sad. {pause 20}{Text size 80%}Eek eek...{Text size 100%}
+"077"	You know—{pause 15}only one out-of-town	visitor has used this station.{Wait for input}{emote: Worry}I wish more people would come	visit{pause 5}.{pause 5}.{pause 5}.
+"078"	You know—{pause 15}this is a pretty popular	town. In fact, this station has been	used {Number (0x9)} times by visitors.
+"079"	You know—{pause 15}this station has had	more visitors than we can even	count.{Wait for input} EEK EEK!
+"081"	{emote: Sigh}Hmph{pause 5}.{pause 5}.{pause 5}.{pause 5}.{pause 5}.{pause 5}.{000f-0000-0004-0000-0000}	What's the matter?	Snap out of it!
+"082"	{pause 5}.{pause 5}.{pause 5}.{pause 15}{emote: Alarmed}{Wait <002d 0000> 'time'}
+"083"	Oh! {pause 15}Mayor {Player name}!{pause 20} I'm glad	you're here! I wanted to talk to	you about something...	So {pause 20}the railroad company that runs	this train station held a station	design contest a while back...	And now they want to remodel	some of the train stations based on	the contest entries.	It's crazy, but guess what?{Wait for input}	{emote: Joy}{000e-0004-0000}{Town name (pink)} Station has been	selected for remodeling!{emote: Happiness} Eek!
+"084"	It's not surprising—{emote: Agreement}{pause 10}this station has	been used by so many people.{pause 20}	{emote: Happiness}It's quite popular!	{emote: Worry}But{pause 5}.{pause 5}.{pause 5}.{Wait for input}{emote: Anger}S{pause 15}O{pause 15}M{pause 15}E{pause 15} people don't think the	renovation is necessary, {pause 8}{emote: Distress}and they've	pushed to have the plans scrapped!{pause 8}	{emote: Worry}I was really looking forward to it.	{Text size 75%}Eek eek...{Text size 100%}
+"085"	That's where you come in,{pause 20}	Mayor {Player name}!{Wait for input}If you were to lend your support to	this project, the townsfolk would	definitely be on board. 	{emote: Reset}So {pause 20}{emote: Curious}would you be willing to take up{pause 10}	renovating the station as a {Blue}public	works project{Color Reset}?	Just think of what it could do for	{Town name (pink)}! It could attract people	from all over the world!	The remodel plans are at the town	hall if you want to check them out.{pause 20}	Thank you, {Mr./Ms.} Mayor.{000d-0000-0002-cd06}
+"086"	Also, just to let you know{pause 5}.{pause 5}.{pause 5}.{Wait for input}If you open the gate for local	wireless stuff,{pause 5} you might get	visitors you don't know.	If you don't want to let anyone	else in while you're playing with	guests,{pause 10} you can close the gate{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}If that's what you'd prefer to do,{pause 10}	just let me know!{Wait for input}Now{pause 10} go on and enjoy yourself!	{0007-0002-0000}                        {0007-0003-0000}Eek eek!
+"087"	Also{pause 5}.{pause 5}.{pause 5}.{Wait for input}While the gate is open,{pause 5} guests are	able to come and go, but{pause 5}.{pause 5}.{pause 5}.{Wait for input}there's a chance you'll encounter	people you don't know, especially	with local wireless play.	If you don't want to let anyone	else in while you're playing with	guests,{pause 10} you can close the gate{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Happiness}If you feel like doing that at any	time,{pause 10} just let me know!{Wait for input}Now{pause 10} go and enjoy yourself!	{0007-0002-0000}                         {0007-0003-0000}Eek eek!
+"088"	{emote: Happiness}Eek eek! Sorry to keep you waiting.{pause 15}	Let's open the gate!{Wait <002d 0000> 'time'}
+"089"
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	¿De verdad?{Wait for input}
-"006"	¿Eh? {pause 10}
-"007"	Vale, como no hay pasajeros,{pause 8}
-"008"	Dime,{emote: Curious}
-"009"	{emote: Curious}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	Vaya, parece ser que alguno	de tus amigos también ha	abierto su puerta de acceso.{0000-0004-0000}
-"014"	¿A qué amigos{pause 8}
-"015"	{emote: Happiness}
-"016"	¿Seguro que prefieres ir tú a otro	pueblo?{pause 15}
-"017"	Buscando pueblos cercanos{pause 8}
-"018"	{emote: Curious}
-"019"	Vaya, {pause 20}!
-"020"	¡Parece{pause 20}
-"021"	Aquí puedes ver{pause 15}
-"022"	Como es probable que se trate de la	primera vez que abres la puerta de	acceso,{pause 10}
-"023"	¡Qué emoción! {pause 8}!
-"024"	¡Buen viaje!{pause 15}
-"025"	¡Uuc! No tienes amigos registrados	{pause 15}
-"026"	Buscando pueblos lejanos{pause 8}
-"027"	¡Uuc! No tienes amigos registrados	{pause 15}
-"028"	¡Bienvenid{000e-0006-0008-02-00-6f-00-02-00-61-00} a la estación	de tren de {capitalized}
-"029"	¿Quieres que te busque{pause 8}!
-"030"	¡Hasta pronto,{pause 20}!
-"031"	¡Uuc! Alguien ha cerrado la puerta	de acceso{pause 5}
-"032"	Vaya, parece que{pause 8}
-"033"	¡Uuc!{pause 5}
-"034"	¡Uuuuuuuuc! {pause 10}
-"035"	Parece que alguien del pueblo está	ocupado en este momento,{Wait for input}!
-"036"	¡Uuc! {pause 20}!
-"037"	¡Bienvenid{000e-0006-0008-02-00-6f-00-02-00-61-00} a la estación de tren de	{capitalized}
-"038"	¡Bienvenid{000e-0006-0008-02-00-6f-00-02-00-61-00} a la estación de tren de	{capitalized}
-"039"	¡Bienvenid{000e-0006-0008-02-00-6f-00-02-00-61-00} a la estación de tren de	{capitalized}
-"040"	{emote: Happiness}
-"041"	Recuerda que, {pause 20}!
-"042"	¡Oh! {pause 10}
-"043"	Menos mal.{pause 15}
-"044"	Es una pena. Acababas de llegar,	como quien dice.{pause 20}
-"045"	¡Nos vemos! ¡Hasta pronto! {pause 8}
-"046"		¡List{000e-0006-0008-02-00-6f-00-02-00-61-00} para partir!{0007-0009-0004-3c-00-00-00}
-"047"	Me acaban de comunicar desde	el muelle que tenías pensado ir	a alguna isla.	Para volver a casa,{pause 10}
-"048"	Me temo {pause 8}
-"049"	¿Tienes algún problema?{pause 10}
-"051"	{emote: Surprise}
-"052"	{emote: Happiness}
-"053"	Entonces, {pause 15}
-"054"	Vale, pero lo primero es lo primero.{pause 20}
-"055"	Muy bien, todo parece estar	en ord...{pause 60}
-"056"	Mmm.{pause 5}
-"057"	A partir de ahora no hace falta que	me enseñes tu {Blue}DRP{Color Reset}.{0000-0004-0000}
-"058"	Ah,{pause 15}
-"059"	Hum{pause 5}
-"060"	{emote: Happiness}
-"061"	Vaya, el {Blue}control parental {Color Reset}de	{Blue}esta consola {Color Reset}restringe{pause 15}
-"062"	Vaya, el {Blue}control parental {Color Reset}de	{Blue}esta consola {Color Reset}restringe{pause 15}
-"063"	La puerta de acceso está abierta,	así que se permite la entrada a	nuevos visitantes.{pause 10}
-"064"	La puerta de acceso está cerrada{pause 20}
-"065"	{emote: Happiness}
-"066"	¡Listo! {pause 20}
-"067"	¡Listo! {pause 20}
-"068"	La puerta de acceso está cerrada.{pause 20}
-"070"	¡Bienvenid{000e-0006-0008-02-00-6f-00-02-00-61-00} a la estación	de tren de {pause 8}
-"071"	Lo siento, el tren no está operativo	en este momento.{pause 8}
-"072"	¿Sabías{pause 15}
-"073"	¿Sabías{pause 15}
-"074"	¿Sabías{pause 15}
-"075"	Los vecinos de {capitalized}
-"076"	¿Sabías{pause 15}
-"077"	¿Sabías{pause 15}
-"078"	¿Sabías{pause 15}
-"079"	¡He perdido la cuenta de la gente de	otros pueblos que ha pasado por la	la estación de tren de {capitalized}
-"081"	{emote: Sigh}
-"082"	Uh{pause 5}
-"083"	¡Ah, {pause 15}
-"084"	No es ninguna gran sorpresa. {emote: Agreement}
-"085"	Aunque quizá tú puedas meter baza	en el asunto en nombre del pueblo,	{Player name}
-"086"	Una cosa{pause 5}
-"087"	Una cosa{pause 5}
-"088"	{emote: Happiness}
-"089"	
+"001"	{emote: Happiness}¡Bienvenid{o/a} a la estación de tren	de {capitalized}{Town name (pink)},{pause 20} tu vía de acceso	a todo el mundo mundial!{pause 20} ¡Uuc!	{emote: Reset}Pásate por aquí{pause 10} cuando quieras	ir a los pueblos de tus amigos o	cuando estos vengan a verte.{Wait for input}{emote: Happiness}Para saber más cosas sobre el	tema, échale un vistazo al {Blue}tablón	informativo {Color Reset}de aquí al lado.	¿Y bien? {emote: Curious}{pause 5}¿Tienes pensado ir	a alguna parte?{000f-0005-0004-0015-0028}	¡Sí!	De momento no
+"002"	{emote: Happiness}¡Bienvenid{o/a} a la estación de tren	de {capitalized}{Town name (pink)}!{Wait for input} ¡Uuc!	{emote: Reset}¿Quieres usar nuestros servicios?{000f-0005-0004-0015-0028}	¡Sí!	De momento, no
+"003"	{emote: Happiness}¡Bienvenid{o/a} a la estación de tren	de {capitalized}{Town name (pink)}! {Wait for input}¡Uuc!	¿En qué puedo ayudarte? {000f-0006-0006-0000-0000-0000}	Me voy de viaje	Espero a alguien	Déjalo, ¡uuc!
+"004"	{emote: Happiness}¡Bienvenid{o/a} a la estación	de tren de {capitalized}{Town name (pink)}!{Wait for input}	{emote: Curious}¿En qué puedo ayudarte?{000f-0006-0006-0000-0000-0000}	¡Quiero irme de viaje!	Cierra la puerta, porfa	Déjalo, ¡uuc!
+"005"	¿De verdad?{Wait for input} Pues nada, {pause 8}¡pásate	por aquí cuando necesites algo!{pause 15}	¡Uuc, uuuc!
+"006"	¿Eh? {pause 10}¿Has cambiado de idea? {Wait for input}	Bueno, {pause 8}¡pásate por aquí cuando	quieras!{pause 15} ¡Uuc, uuuc!
+"007"	Vale, como no hay pasajeros,{pause 8}	voy a cerrar la puerta de acceso	de la estación.{Wait for input}También voy a interrumpir	la comunicación inalámbrica.
+"008"	Dime,{emote: Curious} ¿esperas visita de un pueblo	de aquí {Blue}cerca{Color Reset}{pause 8} o de uno {Blue}lejano{Color Reset}?{pause 15}{000f-0006-0006-0000-0000-0000}	De aquí cerca	De un pueblo lejano	Bah, olvídalo
+"009"	{emote: Curious}¿Quieres ir a un pueblo de aquí	{Blue}cerca {Color Reset}o a uno {Blue}lejano{Color Reset}? {pause 15}{000f-0006-0006-0000-0000-0000}	A uno de aquí cerca	A uno lejano	Bah, olvídalo
+"010"	{emote: Happiness}Muy bien,{pause 8} voy a activar la	comunicación inalámbrica	local, ¿de acuerdo?{confirmation-02}{000f-0005-0004-0000-0028}	¡Venga!	Mejor no
+"011"	{emote: Happiness}{pause 8}Dime, ¿interrumpimos la conexión	a internet y buscamos jugadores	que se encuentren por aquí cerca?{confirmation-02}{000f-0005-0004-0000-0028}	¡Adelante!	No
+"012"	{emote: Happiness}¡Uuc!{pause 8} Entonces, ¿nos conectamos	a internet?{confirmation-02}{000f-0005-0004-0000-0000}	¡Claro!	Déjalo
+"013"	Vaya, parece ser que alguno	de tus amigos también ha	abierto su puerta de acceso.{Wait for input}{emote: Curious}¿Quieres abrir la tuya de todas	formas o prefieres ir de visita	a otro pueblo?{000f-0005-0004-0000-0028}	Abre la puerta de acceso	¡Me voy de visita!
+"014"	¿A qué amigos{pause 8} quieres invitar? {confirmation-02}{000f-0000-0004-0000-0000}	¡A todos!	¡A mis mejores amigos!
+"015"	{emote: Happiness}¡Uuc, uuc! Siento haberte hecho	esperar.{pause 15} Ahora mismo abro la	puerta de acceso.{Wait <002d 0000> 'time'}
+"016"	¿Seguro que prefieres ir tú a otro	pueblo?{pause 15} Si quieres, también podrías	recibir visita...{confirmation-02}{000f-0005-0004-0000-0000}	¡A otro pueblo!	Mejor recibir visita
+"017"	Buscando pueblos cercanos{pause 8}	que se puedan visitar{pause 5}.{pause 5}.{pause 5}.	{0007-0002-0000}{Blue}(Pulsa Ⓑ para cancelar.){Color Reset}{0007-0003-0000}
+"018"	{emote: Curious}¿Uuc?{pause 15}	¿Al final has decidido no viajar?{confirmation-02}{000f-0005-0004-0000-0000}	¡Eh, sí quiero viajar!	Exacto, me quedo aquí
+"019"	Vaya, {pause 20}no he podido dar con ningún	pueblo que esté cerca{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Agreement}Estás jugando a {Green}Animal Crossing:	New Leaf - Welcome amiibo{Color Reset}.{Wait for input}Por ello,{pause 8} solo puedes visitar otros	pueblos {Blue}Welcome amiibo{Color Reset}.{Wait for input}Si no encuentras el pueblo	de tu amigo{pause 8}.{pause 8}.{pause 8}.{Wait for input}comprueba que también esté	jugando a {Green}Animal Crossing: New	Leaf - Welcome amiibo{Color Reset}.	{emote: Curious}¿Quieres que vuelva a intentarlo?{confirmation-02}{000f-0005-0004-0015-0028}	Sí, por favor	Bah, déjalo
+"020"	¡Parece{pause 20} que puedes ir de visita	a {capitalized}{0011-0002-0002-0000}!{emote: Curious} ¿Te apetece?{confirmation-02}{000f-0006-0006-0000-0000-0028}	¡Por supuesto!	No, mejor a otro sitio	Bah, déjalo
+"021"	Aquí puedes ver{pause 15}{emote: Happiness} la lista de pueblos	que puedes visitar ahora mismo.
+"022"	Como es probable que se trate de la	primera vez que abres la puerta de	acceso,{pause 10} te explicaré algunas cosas.{Wait for input}Cuando la comunicación inalámbrica	esté activa,{pause 10} ya sea localmente o	en línea,{pause 10} se mostrará el icono {Green}👥{Color Reset}.	¿Cómo que dónde?{pause 10} En la {Blue}esquina 	inferior izquierda de la pantalla	táctil{Color Reset}. ¿Dónde si no?{Wait for input}{emote: Happiness}Si estás jugando con alguien,	puedes ver su {Green}{Blue}DRP{Green} {Color Reset}desde ahí.{Wait for input}Ahora bien, ya juegues sol{o/a} o en	companía, recuerda lo siguiente:{Wait for input}siempre que aparezca el icono {Green}👥{Color Reset},	significará que la comunicación	inalámbrica está activada.	Para desactivarla,{pause 10} ven a pedirme	que cierre la puerta de acceso de la	estación cuando no haya visitantes.	Si tienes visita, primero tendrás	que pulsar {Blue}START{Color Reset}{pause 10} y luego elegir	{Blue}Todos a casa{Color Reset}.
+"023"	¡Qué emoción! {pause 8}En unos instantes	llegará el próximo tren.{pause 5} Espero	que estés preparad{o/a},{pause 8} ¡uuc!
+"024"	¡Buen viaje!{pause 15}	¡Uuc, uuc!{Wait <003c 0000> 'time'}
+"025"	¡Uuc! No tienes amigos registrados	{pause 15}en la lista de amigos de tu consola	{Blue}Nintendo 3DS{Color Reset}.	Tienes que registrar amigos para	poder ir a pueblos que estén lejos.
+"026"	Buscando pueblos lejanos{pause 8}	que se puedan visitar{pause 5}.{pause 5}.{pause 5}.
+"027"	¡Uuc! No tienes amigos registrados	{pause 15}en la lista de amigos de tu consola	{Blue}Nintendo 3DS{Color Reset}.	Tienes que registrar amigos para	poder recibir visitas de pueblos	lejanos.
+"028"	¡Bienvenid{o/a} a la estación	de tren de {capitalized}{Town name (pink)}!{Wait for input}	{emote: Curious}¿En qué te puedo ayudar hoy?{000f-0007-0008-0000-0000-0000-0028}	¡Quiero irme de viaje!	Abre la puerta, porfa	Interrumpir conexión	Nada, déjalo
+"029"	¿Quieres que te busque{pause 8}	otros pueblos que visitar?{confirmation-02}{000f-0005-0004-0015-0028}	Sí	No
+"030"	¡Hasta pronto,{pause 20} uuc!
+"031"	¡Uuc! Alguien ha cerrado la puerta	de acceso{pause 5}.{pause 5}.{pause 5}.
+"032"	Vaya, parece que{pause 8} hay demasiada	gente{pause 5}.{pause 5}.{pause 5}.
+"033"	¡Uuc!{pause 5} Algo ha fallado{pause 5}.{pause 5}.{pause 5}.{pause 5}	{emote: Curious}¿Quieres volver a intentarlo?{confirmation-02}{000f-0005-0004-0015-0028}	Sí	No
+"034"	¡Uuuuuuuuc! {pause 10}No sé por qué, pero no	podemos establecer la conexión.	{Wait for input}Inténtalo más tarde, ¿vale?
+"035"	Parece que alguien del pueblo está	ocupado en este momento,{Wait for input} y no	es de buena educación interrumpir.	{emote: Curious}¿Quieres volver a intentarlo?{confirmation-02}{000f-0005-0004-0015-0028}	Sí	No
+"036"	¡Uuc! {pause 20}Este tren aún no está listo	para partir.{pause 8} Espera un momento	antes de volver a intentarlo.
+"037"	¡Bienvenid{o/a} a la estación de tren de	{capitalized}{Town name (pink)}! {Wait for input}Ahora mismo hay {Blue}{pause 10}{Number (0x6)}	{Color Reset}visitante en tu pueblo.
+"038"	¡Bienvenid{o/a} a la estación de tren de	{capitalized}{Town name (pink)}! {Wait for input}Ahora mismo hay {Blue}{pause 10}{Blue}{Number (0x6)}{Blue}	{Color Reset}visitantes en tu pueblo.
+"039"	¡Bienvenid{o/a} a la estación de tren de	{capitalized}{Town name (pink)}! {Wait for input}Ahora mismo hay {Blue}{pause 10}{Blue}{Number (0x6)}{Blue}	{Color Reset}visitantes en tu pueblo.
+"040"	{emote: Happiness}Entendido, {pause 8}{pause 15}dejaré la puerta	de acceso tal y como está. ¡Uuc!
+"041"	Recuerda que, {pause 20}al interrumpir	la conexión,{pause 8} no podrás invitar	a gente de otros pueblos lejanos.	En fin, me dejo de cháchara	y voy a interrumpirla ya.
+"042"	¡Oh! {pause 10}{emote: Curious}¿Tan pronto te marchas?{confirmation-02}{000f-0005-0004-0015-0028}	Sí, tengo prisa	No, era broma
+"043"	Menos mal.{pause 15} Cuando quieras	volver a {capitalized}{Town name (pink)}, solo	tienes que decírmelo.
+"044"	Es una pena. Acababas de llegar,	como quien dice.{pause 20} Por suerte pasará	un tren por aquí en breve.
+"045"	¡Nos vemos! ¡Hasta pronto! {pause 8}	¡Buen viaje!{pause 15} ¡Uuc!{Wait <003c 0000> 'time'}
+"046"		¡List{o/a} para partir!{Wait <003c 0000> 'time'}
+"047"	Me acaban de comunicar desde	el muelle que tenías pensado ir	a alguna isla.	Para volver a casa,{pause 10} primero tienes	que cancelar tu viaje en barco.	Vuelve a verme entonces.
+"048"	Me temo {pause 8}que tienes que estar	empadronad{o/a} en el pueblo para	usar los servicios ferroviarios.{pause 20} ¡Uuc!
+"049"	¿Tienes algún problema?{pause 10} Si estás	un poco perdid{o/a}, mira el {Blue}mapa de	la pantalla táctil{Color Reset}.{pause 20} ¡Uuc!
+"051"	{emote: Surprise}¡Ajá! {pause 20}Tú debes de ser {el chico/la chica} que	se ha mudado aquí de otro pueblo...{pause 20}	{capitalized}{Player name}, ¿me equivoco?	Bien, ¡vamos a echarle un vistazo	a tu {Blue}Documento de Residente	del Pueblo{Color Reset}!
+"052"	{emote: Happiness}Muy bien, {pause 8}todo está en orden.{pause 20}	Gracias por tu colaboración.
+"053"	Entonces, {pause 15}{emote: Curious}vas a visitar otro pueblo,	¿no es así?{Wait for input}¿O {pause 10}prefieres invitar a tus amigos{pause 8}	a que vengan a {capitalized}{Town name (pink)}?{000f-0006-0006-0000-0000-0000}	Visitar otro pueblo	Invitar a mis amigos	Nada de lo anterior
+"054"	Vale, pero lo primero es lo primero.{pause 20}	Necesito comprobar{pause 20} tu {Blue}Documento	de Residente del Pueblo{Color Reset}.
+"055"	Muy bien, todo parece estar	en ord...{pause 60}{emote: Alarmed}{0007-000b-0000} ¡Uuuc! ¡¿Pero esto	qué es?! ¡Este {Blue}DRP {Color Reset}no tiene foto!{Wait for input}{emote: Reset}Hum{pause 5}.{pause 5}.{pause 5}.{pause 5}{emote: Inspired}{Wait for input} Supongo que a {emote: Reset}{Orange}Canela {Color Reset}se le	ha debido de pasar comentártelo.{Wait for input}{emote: Happiness}No te preocupes,{pause 15} ocurre más	a menudo de lo que crees.{Wait for input}{emote: Reset}{pause 15}Puedes sacarte una foto por{pause 8} {Blue}500	bayas {Color Reset}en la {Blue}cabina fotográfica	{Color Reset}de la {Blue}zona comercial{Color Reset}.{pause 20} ¡No te olvides!	{emote: Happiness}¡Pásate por aquí{pause 20} cuando te hayas	hecho una!
+"056"	Mmm.{pause 5}.{pause 5}.{pause 5}{emote: Happiness} Todo en regla,{pause 8} gracias.{Wait for input} 	Por cierto, bonita foto. {pause 20}	¡Sales muy favorecid{o/a}!{Wait for input}{emote: Reset}Ni te imaginas las fotos que veo por	aquí.{pause 20} {emote: Laughter}A veces viene gente sin foto	en su DRP. {pause 20}¡Uuc!{pause 20}	{emote: Sheepishness}Me imagino que {pause 8}{Orange}Canela {Color Reset}se olvida de	decirles a los nuevos vecinos que	tienen que hacerse una foto.{pause 20}	Esta chica...{pause 20} va a perder la cabeza	cualquier día de estos. {emote: Reset}En fin, aquí	tienes tu DRP.
+"057"	A partir de ahora no hace falta que	me enseñes tu {Blue}DRP{Color Reset}.{Wait for input}{emote: Happiness}Tengo una memoria fotográfica y	me he quedado con tu cara. {Wait for input}{pause 20}{emote: Laughter}En el	buen sentido, claro.{0007-000a-0000} ¡Uuc,{pause 20} uuc!{pause 30} 	{emote: Reset}Dime,{pause 20} ¿en qué te puedo ayudar?{000f-0006-0006-0000-0000-0028}	Me voy de viaje	Espero visita	En nada, olvídalo
+"058"	Ah,{pause 15} {emote: Curious}¿te has sacado ya una foto?{pause 20}	{emote: Reset}Bien, veámosla...
+"059"	Hum{pause 5}.{pause 5}.{pause 5}.{pause 5}{emote: Curious}{pause 15}{Wait for input} ¡Pero si sigue sin tener foto!{Wait for input}{emote: Reset}No quiero ser pesado, pero pásate{pause 15}	por la {Blue}cabina fotográfica {Color Reset}de la {Blue}zona	comercial {Color Reset}y sácate una, anda.	Cuesta {Blue}500 bayas{Color Reset}.{Wait for input}	¡No te olvides esta vez!
+"060"	{emote: Happiness}Sí, parece que está todo en orden. {Wait for input}	Aquí tienes tu DRP.{pause 20} Gracias.
+"061"	Vaya, el {Blue}control parental {Color Reset}de	{Blue}esta consola {Color Reset}restringe{pause 15} el uso	de la estación.{000f-0000-0004-0000-0000}	Jooo	¡Si soy {padre/madre}!
+"062"	Vaya, el {Blue}control parental {Color Reset}de	{Blue}esta consola {Color Reset}restringe{pause 15} el uso	de la estación.{000f-0000-0004-0000-0000}	Jooo	¡Si soy {padre/madre}!
+"063"	La puerta de acceso está abierta,	así que se permite la entrada a	nuevos visitantes.{pause 10}	Puedo cerrarla, pero, como tienes	visita ahora, no se desactivará la	comunicación inalámbrica. ¿Vale?{000f-0005-0004-0000-0000}	Sí, cierra la puerta	Déjala como está
+"064"	La puerta de acceso está cerrada{pause 20}	para que no entren más visitantes.{pause 20}	¿Seguro que quieres abrirla?{000f-0005-0004-0000-0000}	Sí, abre la puerta	Mejor déjala cerrada
+"065"	{emote: Happiness}¡Como quieras, uuc!
+"066"	¡Listo! {pause 20}Cuando quieras que abra la	puerta,{pause 20} ¡solo tienes que decírmelo!
+"067"	¡Listo! {pause 20}Cuando quieras que cierre la	puerta,{pause 20} ¡solo tienes que decírmelo!
+"068"	La puerta de acceso está cerrada.{pause 20}	No recibirás visitas de otros	pueblos.{pause 20} ¿Te parece bien?{000f-0006-0006-0000-0000-0000}	Ábrela para todos	Ábrela a mis amigos	Sí, déjala cerrada
+"070"	¡Bienvenid{o/a} a la estación	de tren de {pause 8}{capitalized}{Town name (pink)}!{pause 15}	¡Uuc, uuc!
+"071"	Lo siento, el tren no está operativo	en este momento.{pause 8} {pause 20}Inténtalo de	nuevo cuando te despiertes.
+"072"	¿Sabías{pause 15} que los vecinos de	{capitalized}{Town name (pink)} no han salido	nunca del pueblo?{pause 20}	{emote: Worry}Menuda pena. {pause 20}{Text size 80%}Uuc...{Text size 100%}
+"073"	¿Sabías{pause 15} que los vecinos de	{capitalized}{Town name (pink)} apenas salen	del pueblo?{pause 20}	{emote: Worry}Es una pena.{pause 20} Viajar ayuda a ampliar	horizontes,{pause 20} ¡uuc!
+"074"	¿Sabías{pause 15} que los vecinos de	{capitalized}{Town name (pink)} han salido del pueblo	{Number (0x9)} veces?{pause 20} ¡Uuc!
+"075"	Los vecinos de {capitalized}{Town name (pink)} han	salido tantas veces del pueblo	que he perdido la cuenta.	{emote: Showmanship}La estación de tren está siempre	muy concurrida.{pause 20} ¡Qué alegría!
+"076"	¿Sabías{pause 15} que por la estación de tren	de {capitalized}{Town name (pink)} aún no ha pasado	ningún visitante de otro pueblo?{pause 20}	{emote: Worry}Menuda pena. {pause 20}{Text size 80%}Uuc...{Text size 100%}
+"077"	¿Sabías{pause 15} que solo una persona	de otro pueblo ha pasado por	la estación de tren de {capitalized}{Town name (pink)}?{pause 20}	{emote: Worry}Ojalá nos visitara más gente.{pause 20}.{pause 20}.{pause 20}
+"078"	¿Sabías{pause 15} que {capitalized}{Town name (pink)} se ha	convertido en un destino muy 	popular?{pause 20}	Sí, sí, por la estación ya han pasado	{Number (0x9)} personas de otros pueblos.
+"079"	¡He perdido la cuenta de la gente de	otros pueblos que ha pasado por la	la estación de tren de {capitalized}{Town name (pink)}!	¡Está siempre muy concurrida, como	a mí me gusta! {Wait for input}¡Uuc, uuc!
+"081"	{emote: Sigh}U{pause 5}u{pause 5}c{pause 5}.{pause 5}.{pause 5}. u{pause 5}u{pause 5}c{pause 5}.{pause 5}.{pause 5}.{000f-0000-0004-0000-0000}	¿Qué te pasa?	¡Espabila!
+"082"	Uh{pause 5}.{pause 5}.{pause 5}.{pause 15}{emote: Alarmed}{Wait <002d 0000> 'time'}
+"083"	¡Ah, {pause 15}alcald{e/esa} {Player name}!{pause 20}	No me había dado cuenta	de que eras tú...{Wait for input}Pues me viene de perlas, porque	precisamente contigo quería hablar.{Wait for input}Resulta que la compañía ferroviaria	está planeando remodelar algunas	estaciones.	¿Adivinas por qué estación quieren	empezar?{Wait for input} Sí, sí, por nuestra querida	estación de {emote: Joy}{capitalized}{Town name (pink)}.{emote: Happiness} ¡Uuc!
+"084"	No es ninguna gran sorpresa. {emote: Agreement}{pause 10}	Esta estación tiene un gran volumen	de pasajeros.{pause 20}{Wait for input}{emote: Happiness}¡Podríamos decir que es la favorita	del público!{Wait for input}{emote: Worry}Lamentablemente {emote: Anger}hay gente que	nos tiene EN{pause 15}VI{pause 15}DIA {emote: Distress}¡y se opone	a los planes de remodelación!{pause 8}	{emote: Worry}No sé qué hacer.{pause 20} {Text size 75%}Uuc, uuc...{Text size 100%}
+"085"	Aunque quizá tú puedas meter baza	en el asunto en nombre del pueblo,	{Player name}.	Si la remodelación fuera un	{Blue}proyecto municipal{Color Reset} que contara	con tu respaldo, nadie se opondría.	{emote: Curious}Además, imagínate lo que ganaría	{capitalized}{Town name (pink)} con una nueva estación.	¡Vendría mucha más gente de visita!	¿Qué me dices? {pause 10}Bueno, no hace	falta que lo decidas ahora.{Wait for input} Puedes echarle un vistazo al plan	del proyecto cuando quieras. ¡Está	en el ayuntamiento!{pause 20} ¡Piénsatelo!{000d-0000-0002-cd06}
+"086"	Una cosa{pause 5}.{pause 5}.{pause 5}.{Wait for input}Si la puerta está abierta y la	comunicación inalámbrica activada,{pause 5}	podrán visitarnos desconocidos.	Puedes cerrar la puerta cuando	no quieras que nadie te moleste	mientras juegas con tus invitados.	{emote: Happiness}¡Recuerda que solo tienes que 	decírmelo{pause 10} y la cerraré al instante!{Wait for input}Pues nada,{pause 10} ¡pásatelo bien!	¡Uuuc, uuc!
+"087"	Una cosa{pause 5}.{pause 5}.{pause 5}.{Wait for input}Si la puerta de acceso está abierta,	tus invitados podrán llegar y	marcharse a sus anchas.{pause 5}	Por otro lado, también existe	la posibilidad de que nos visiten	desconocidos.{Wait for input}Sobre todo si está activada la	comunicación inalámbrica...{Wait for input}Puedes cerrar la puerta cuando	no quieras que nadie te moleste	mientras juegas con tus invitados.	{emote: Happiness}¡Recuerda que solo tienes que 	decírmelo{pause 10} y la cerraré al instante!{Wait for input}Pues nada,{pause 10} ¡pásatelo bien!	                           ¡Uuuc, uuc!
+"088"	{emote: Happiness}¡Uuc, uuc! Siento haberte	hecho esperar.{Wait <002d 0000> 'time'}{Wait for input}{emote: Reset}Estás jugando a {pause 8}{Green}Animal Crossing:	New Leaf - Welcome amiibo{Color Reset}. Para	invitar a alguien a {capitalized}{Town name (pink)}{pause 8}.{pause 8}.{pause 8}.	el otro jugador también tiene que	estar usando {Green}Animal Crossing:	New Leaf - Welcome amiibo{Color Reset}.{0007-0008-0004-00d2-0000}	{emote: Reset}Si tu amigo {emote: Disagreement}no encuentra	{capitalized}{Town name (pink)}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}comprueba que también esté	jugando a {emote: Agreement}{Green}Animal Crossing:	New Leaf - Welcome amiibo{Color Reset}.{0007-0008-0004-00d2-0000}	{emote: Happiness}Bueno,{pause 8} ¿abro la puerta de acceso?{0007-0008-0004-0096-0000}
+"089"
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	Vraiment?{Wait for input}
-"006"	Oh? {Wait for input}
-"007"	Bon, {pause 15}
-"008"	{emote: Curious}
-"009"	{emote: Curious}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	On dirait qu'au moins un de tes	amis a aussi ouvert son portillon.{0000-0004-0000}
-"014"	Combien d'amis{pause 8}!
-"015"	{emote: Happiness}
-"016"	Alors tu préfères aller dans une	autre ville {pause 15}
-"017"	OK, je recherche une ville locale{pause 8}
-"018"	{emote: Curious}
-"019"	Désolé, {pause 20}
-"020"	On dirait que la ville {<06>de <04>d'}{0011-0002-0002-00-00}
-"021"	{emote: Agreement}
-"022"	C'est la première fois que tu ouvres	le portillon, je crois, alors j'aimerais	t'expliquer un ou deux trucs.	Quand tu es connecté{000e-0006-0006-00-00-02-00-65-00} au mode	sans fil local ou à Internet...{0000-0004-0000}
-"023"	Onk onk! {pause 8}
-"024"	Attention au départ! Bon voyage!{pause 15}
-"025"	Onk onk! Ta liste d'amis	{Blue}Nintendo 3DS {Color Reset}est vide.{0000-0004-0000}!
-"026"	Onk!{pause 20}
-"027"	Onk onk! Ta liste d'amis	{Blue}Nintendo 3DS {Color Reset}est vide.{0000-0004-0000}!
-"028"	{emote: Happiness}
-"029"	Tu veux que je recherche{pause 8}
-"030"	À bientôt,{pause 20}
-"031"	Onk onk! Le portillon est fermé,	semblerait-il{pause 5}
-"032"	Désolé, on dirait que nous avons	trop de visiteurs à gérer à la fois.{0000-0004-0000}
-"033"	Onk! On dirait que tu ne peux pas	accéder à la ville que tu veux visiter	pour l'instant.{Wait for input}
-"034"	Onk ooooonk! {pause 10}
-"035"	Certaines personnes dans cette	ville ont l'air très occupées...	{Wait for input}
-"036"	Onk! {pause 20}
-"037"	{emote: Happiness}
-"038"	{emote: Happiness}
-"039"	{emote: Happiness}
-"040"	{emote: Happiness}
-"041"	Pour information, {pause 20}
-"042"	Oh! {pause 10}
-"043"	Très bien.{pause 15}
-"044"	Quel dommage. Tu venais juste	d'arriver, non?{pause 15}
-"045"	Au revoir! Bon voyage! {pause 8}
-"046"		Tout est paré pour le départ!{0007-0009-0004-3c-00-00-00}
-"047"	On m'a dit que tu as fait une	demande pour embarquer sur le	bateau qui dessert l'île.	Si tu veux rentrer, {pause 5}
-"048"	Désolé, {pause 8}
-"049"	Oh,{pause 15}
-"051"	{emote: Surprise}
-"052"	{emote: Happiness}
-"053"	Alors, {pause 15}
-"054"	OK, les formalités d'abord. {pause 8}
-"055"	Bien, bien, tout semble en règ{pause 8}!
-"056"	.{pause 5}
-"057"	Inutile de me présenter ta {Blue}CR{Color Reset} à	l'avenir.{0000-0004-0000}
-"058"	Oh,{pause 15}
-"059"	{pause 5}
-"060"	{emote: Happiness}
-"061"	Hmm, certaines fonctions de cette	{Blue}console{Color Reset} {pause 8}
-"062"	Hmm, certaines fonctions de cette	{Blue}console{Color Reset} {pause 8}
-"063"	Le portillon est actuellement ouvert	pour laisser entrer les visiteurs.{pause 10}
-"064"	Le portillon est actuellement fermé	pour empêcher les visiteurs	d'entrer.{pause 10}
-"065"	{emote: Happiness}
-"066"	Merci pour ta patience! {pause 20}
-"067"	Merci pour ta patience! {pause 20}
-"068"	Le portillon est actuellement fermé	pour empêcher les visiteurs	d'entrer.{0000-0004-0000}
-"070"	{emote: Happiness}
-"071"	Désolé, mais les trains ne circulent	pas en ce moment.{pause 20}
-"072"	Tu sais, {pause 15}
-"073"	Tu sais, {pause 15}
-"074"	Tu sais, {pause 15}
-"075"	Tu sais, {pause 15}
-"076"	Tu sais, {pause 15}
-"077"	Tu sais, {pause 15}
-"078"	Cette ville est très appréciée des	touristes, tu sais.{pause 15}
-"079"	Tu sais, {pause 15}
-"081"	{emote: Sigh}
-"082"	{pause 5}
-"083"	Oh! {pause 15}
-"084"	Ce n'est pas étonnant, {emote: Agreement}
-"085"	{emote: Happiness}
-"086"	Autre chose{pause 5}
-"087"	Autre chose{pause 5}
-"088"	{emote: Happiness}
-"089"	
+"001"	{emote: Happiness}Bienvenue à la gare {de /d'}{Town name (pink)},{pause 20}	ta porte d'entrée sur le reste du	monde!{pause 20} Onk onk!	{emote: Reset}C'est d'ici que tu pars quand tu	veux aller visiter la ville d'un ami.{Wait for input}Tu peux également permettre à un	ami de venir visiter ta ville.{Wait for input}Utilise le {Blue}panneau d'informations{Color Reset}	juste à côté si tu as besoin de plus	de détails.	Onk! {emote: Curious}{pause 5}Alors, on part à la découverte	du vaste monde?{000f-0005-0004-0015-0028}	Oui!	Bof, pas maintenant.
+"002"	{emote: Happiness}Bienvenue à la gare {de /d'}{Town name (pink)}!{Wait for input}	{emote: Reset}Alors, on part explorer le vaste	monde?{000f-0005-0004-0015-0028}	Oui!	Bof, une autre fois.
+"003"	{emote: Happiness}Bienvenue à la gare {de /d'}{Town name (pink)}!{Wait for input}	En quoi puis-je t'être utile?{000f-0006-0006-0000-0000-0028}	Aller quelque part.	Inviter quelqu'un.	En rien.
+"004"	{emote: Happiness}Bienvenue à la gare {de /d'}{Town name (pink)}!{Wait for input}	{emote: Curious}Je peux t'aider?{000f-0006-0006-0000-0000-0028}	Voyager.	Fermer le portillon.	Non, rien.
+"005"	Vraiment?{Wait for input} Très bien, {pause 8}au plaisir!{pause 15}	Onk onk, ouh ah hiii hiii!
+"006"	Oh? {Wait for input}Parfait, {pause 8}au plaisir, alors!{pause 15}	Onk onk!
+"007"	Bon, {pause 15}il n'y a aucun visiteur pour	l'instant, alors je vais fermer le	portillon.	Cela va aussi mettre fin à la	communication sans fil. Onk!
+"008"	{emote: Curious}Tu veux inviter un habitant d'une	ville connectée au {Blue}mode sans fil	local{Color Reset} ou à {Blue}Internet{Color Reset}?{000f-0006-0006-0000-0000-0028}	Au mode sans fil local.	À Internet.	Non rien, oublie.
+"009"	{emote: Curious}Tu veux visiter une ville connectée	au {Blue}mode sans fil local{Color Reset} ou à	{Blue}Internet{Color Reset}?{000f-0006-0006-0000-0000-0028}	Au mode sans fil local.	À Internet.	Non rien, oublie.
+"010"	{emote: Happiness}Très bien, {pause 8}alors on démarre la	communication sans fil locale?	Onk?{confirmation-02}{000f-0005-0004-0015-0028}	C'est parti, onk!	Non, non.
+"011"	{emote: Happiness}Très bien, onk! {pause 8}Alors on interrompt	la connexion Internet et on démarre	la communication sans fil locale?{confirmation-02}{000f-0005-0004-0015-0028}	C'est parti, onk!	Non, non.
+"012"	{emote: Happiness}Alors, on se connecte à Internet,	onk?{confirmation-02}{000f-0005-0004-0015-0028}	Onk!	Non, oublie.
+"013"	On dirait qu'au moins un de tes	amis a aussi ouvert son portillon.{Wait for input}{emote: Curious}Veux-tu quand même ouvrir le tien,	ou préfères-tu aller rendre visite à	quelqu'un?{000f-0005-0004-0000-0000}	Ouvre le portillon, oui!	Je vais me balader!
+"014"	Combien d'amis{pause 8} veux-tu inviter?{confirmation-02}{000f-0000-0004-0000-0000}	Tous!	Que mes meilleurs amis!
+"015"	{emote: Happiness}Onk onk! Désolé pour l'attente.{pause 15}	J'ouvre le portillon tout de suite!{Wait <002d 0000> 'time'}
+"016"	Alors tu préfères aller dans une	autre ville {pause 15}plutôt que d'inviter des	amis ici?{confirmation-02}{000f-0005-0004-0000-0000}	Oui, je préfère voyager!	Non, j'invite des amis.
+"017"	OK, je recherche une ville locale{pause 8} que	tu peux visiter{pause 5}.{pause 5}.{pause 5}.	{0007-0002-0000}{Blue}(Appuie sur Ⓑ pour annuler.){Color Reset}{0007-0003-0000}
+"018"	{emote: Curious}Onk onk?{pause 15} Tu ne veux pas partir	finalement?{confirmation-02}{000f-0005-0004-0000-0000}	Si, si, je veux partir.	Non, je reste ici.
+"019"	Désolé, {pause 20}je n'ai trouvé aucune ville à	visiter dans les environs{pause 5}.{pause 5}.{pause 5}.{pause 15}{Wait for input}Ceci dit, tu utilises actuellement	{Green}Animal Crossing: New Leaf -	Welcome amiibo{Color Reset}.	Tu ne peux donc visiter que les	villes d'autres joueurs utilisant	cette version du jeu.	Si la ville de ton ami est introuvable,	vérifie qu'il utilise {Green}Animal Crossing:	New Leaf - Welcome amiibo{Color Reset}.	{emote: Curious}Tu veux que je continue tout de	même à chercher?{confirmation-02}{000f-0005-0004-0015-0028}	Oui, s'il te plaît.	Non, laisse tomber.
+"020"	On dirait que la ville {de /d'}{0011-0002-0002-0000}{pause 8}	accueille les visiteurs en ce	moment!{pause 20}{emote: Curious} Tu veux y faire un tour?{confirmation-02}{000f-0006-0006-0000-0000-0028}	Oui!	Non, je vais ailleurs.	Bah, laisse tomber.
+"021"	{emote: Agreement}Voici la liste des villes accueillant 	des visiteurs en ce moment...
+"022"	C'est la première fois que tu ouvres	le portillon, je crois, alors j'aimerais	t'expliquer un ou deux trucs.	Quand tu es connecté{/e} au mode	sans fil local ou à Internet...{Wait for input}... {Green}👥 {Color Reset}s'affiche {Blue}en bas à gauche de	l'écran tactile{Color Reset}.{Wait for input}{emote: Happiness}Lorsque tu joues avec quelqu'un, tu	peux jeter un œil à sa {Blue}CR{Color Reset} ici.{Wait for input}{emote: Reset}Si {Green}👥 {Color Reset}est visible alors que personne	n'est présent, ça signifie que des	joueurs peuvent venir dans ta ville.	Pour mettre fin à la communication	sans fil lorsque tu n'as pas de	visite...	... viens me voir, je fermerai le	portillon à ta demande.{Wait for input}Si tu as de la compagnie, par	contre, appuie sur START et choisis	Fin de la session.
+"023"	Onk onk! {pause 8}Le prochain train devrait	arriver d'un instant à l'autre.{pause 5} Alors,	tiens-toi prêt{/e} pour l'aventure!
+"024"	Attention au départ! Bon voyage!{pause 15}	Onk onk, ouh ah hiii hiii!{Wait <003c 0000> 'time'}
+"025"	Onk onk! Ta liste d'amis	{Blue}Nintendo 3DS {Color Reset}est vide.{Wait for input}Pour rendre visite à tes amis en	ligne, tu dois d'abord les enregistrer	dans cette liste.
+"026"	Onk!{pause 20} Je vais chercher une ville à	visiter...
+"027"	Onk onk! Ta liste d'amis	{Blue}Nintendo 3DS {Color Reset}est vide.{Wait for input}Pour que tes amis puissent te	rendre visite, tu dois d'abord les	enregistrer dans cette liste.
+"028"	{emote: Happiness}Bienvenue à la gare {de /d'}{Town name (pink)}!{Wait for input}	En quoi puis-je t'être utile?{000f-0007-0008-0000-0000-0000-0028}	Voyager.	Ouvrir le portillon.	Fin de la communication.	En rien.
+"029"	Tu veux que je recherche{pause 8} d'autres	destinations?{confirmation-02}{000f-0005-0004-0015-0028}	Oui, s'il te plaît.	Non, c'est bon.
+"030"	À bientôt,{pause 20} onk onk!
+"031"	Onk onk! Le portillon est fermé,	semblerait-il{pause 5}.{pause 5}.{pause 5}.
+"032"	Désolé, on dirait que nous avons	trop de visiteurs à gérer à la fois.{Wait for input}En d'autres termes, {pause 8}{emote: Sunny}ça se bouscule	au portillon, onk onk!
+"033"	Onk! On dirait que tu ne peux pas	accéder à la ville que tu veux visiter	pour l'instant.{Wait for input}{emote: Curious} Tu veux réessayer?{confirmation-02}{000f-0005-0004-0015-0028}	Oui.	Non.
+"034"	Onk ooooonk! {pause 10}{emote: Resigned}Je n'arrive pas à	établir la connexion pour une raison	qui m'échappe.{Wait for input} {emote: Agreement}Réessaie plus tard!
+"035"	Certaines personnes dans cette	ville ont l'air très occupées...	{Wait for input}{emote: Curious}On réessaie?{confirmation-02}{000f-0005-0004-0015-0028}	Oui.	Non.
+"036"	Onk! {pause 20}Le train n'est pas encore prêt	à partir.{pause 8} Réessaie plus tard, tu veux	bien?
+"037"	{emote: Happiness}Bienvenue à la gare {de /d'}{Town name (pink)}!{Wait for input}	Il y a actuellement {pause 10}{Blue}{Number (0x6)} {Color Reset}visiteur en	ville.
+"038"	{emote: Happiness}Bienvenue à la gare {de /d'}{Town name (pink)}!{Wait for input}	Il y a actuellement {pause 10}{Blue}{Number (0x6)} {Color Reset}visiteurs en	ville.
+"039"	{emote: Happiness}Bienvenue à la gare {de /d'}{Town name (pink)}!{Wait for input}	Il y a actuellement {pause 10}{Blue}{Number (0x6)} {Color Reset}visiteurs en	ville.
+"040"	{emote: Happiness}Onk, {pause 8}OK!{pause 15} Je laisse le portillon	comme ça, alors.
+"041"	Pour information, {pause 20}une fois la	communication sans fil interrompue,	{pause 8}tu ne peux plus recevoir de visite.	Sur ce, j'interromps la	communication sans fil, onk onk!
+"042"	Oh! {pause 10}{emote: Curious}Tu t'en vas déjà?{confirmation-02}{000f-0005-0004-0015-0028}	Ouaip, j'y vais.	Non, je reste un peu.
+"043"	Très bien.{pause 15} Quand tu voudras rentrer	à {Town name (pink)}, fais-le-moi savoir.
+"044"	Quel dommage. Tu venais juste	d'arriver, non?{pause 15} Tu as de la chance,	le train ne devrait pas tarder...
+"045"	Au revoir! Bon voyage! {pause 8}Et prends	soin de toi!{pause 15} Onk onk!{Wait <003c 0000> 'time'}
+"046"		Tout est paré pour le départ!{Wait <003c 0000> 'time'}
+"047"	On m'a dit que tu as fait une	demande pour embarquer sur le	bateau qui dessert l'île.	Si tu veux rentrer, {pause 5}annule d'abord	cette traversée, puis reviens me	voir. Onk onk!
+"048"	Désolé, {pause 8}l'accès au train est réservé	aux citoyens inscrits à la mairie.{pause 20}	Alors à bientôt,{pause 15} onk onk!
+"049"	Oh,{pause 15} un problème?{Wait for input} Si tu es perdu{/e},	consulte la {Blue}carte sur l'écran tactile{Color Reset}.
+"051"	{emote: Surprise}Hé! {pause 20}{capitalized}{Player name}, c'est ça? C'est	toi qui viens de déménager d'une	autre ville, non?	Parfait, {pause 8}jetons un œil à ta nouvelle	{Blue}carte de résident{/e}{Color Reset}!
+"052"	{emote: Happiness}OK, {pause 8}tout est en règle! {pause 8}Merci pour ta	coopération, onk onk!
+"053"	Alors, {pause 15}{emote: Curious}tu veux te rendre dans une	autre ville? {pause 10}Ou inviter des amis à	{Town name (pink)}?{000f-0006-0006-0000-0000-0028}	Voyager.	Inviter des amis.	Ni l'un ni l'autre.
+"054"	OK, les formalités d'abord. {pause 8}Je dois	vérifier ta {Blue}carte de résident{/e}{Color Reset}. Onk.
+"055"	Bien, bien, tout semble en règ{pause 8}.{pause 8}.{pause 8}.{pause 60}	{emote: Alarmed}{0007-000b-0000}ONK OOOOONK!{pause 15} Mais... {pause 8}il n'y a	pas de photo sur ta {Blue}CR{Color Reset}! 	{emote: Reset}{pause 5}.{pause 5}.{pause 5}.{pause 5}{emote: Inspired}	Oh, j'y suis!{Wait for input} {emote: Reset}{Orange}Marie {Color Reset}a sûrement	oublié de te briefer.{Wait for input}{emote: Happiness}Bah, aucun souci!{pause 15} Ça arrive tout le	temps.{emote: Reset}{Wait for input}Donc,{pause 15} pour la photo, rends-toi à la	{Blue}cabine photo {Color Reset}qui se trouve dans la	{Blue}rue commerçante{Color Reset}.{Wait for input}{emote: Reset}Ce service coûte {Blue}500 clochettes{Color Reset}.{Wait for input}	N'oublie pas!{pause 20} {emote: Happiness}Et reviens me voir	une fois que ce sera fait, onk onk!
+"056"	.{pause 5}.{pause 5}.{pause 5}{emote: Happiness} Parfait,{pause 8} merci!{Wait for input} Joli portrait, si je	puis me permettre. {pause 20}Tu es très	photogénique!	{emote: Reset}Crois-le ou non, on me présente	parfois une carte sans photo. {emote: Laughter}{pause 20}	Onk {pause 20}onk {pause 20}onk!	{emote: Sheepishness}J'imagine {pause 8}que {Orange}Marie {Color Reset}oublie de	prévenir les nouveaux venus.{Wait for input}Elle est un peu...{pause 20} tête en l'air...{pause 20} dans	ses mauvais jours.{Wait for input}{emote: Reset}Bref, trêve de parlote,{pause 8} je te rends	ta carte de résident{/e}.
+"057"	Inutile de me présenter ta {Blue}CR{Color Reset} à	l'avenir.{Wait for input}{emote: Happiness}J'ai une mémoire infaillible, {pause 8}et toi	tu as un gros {0007-000a-0000}pif que je ne pourrai	jamais oublier{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Laughter}{pause 30}Onk onk onk!{pause 15} Pardon, je te taquine,	c'est tout!{Wait for input}{emote: Reset}Bref, je m'égare{pause 10}.{pause 10}.{pause 10}.{pause 10} Que puis-je faire	pour toi?{000f-0006-0006-0000-0000-0028}	Voyager.	Inviter des amis.	Rien.
+"058"	Oh,{pause 15} {emote: Curious}tu t'es occupé{/e} de la photo?{pause 20}	{emote: Reset}Parfait, voyons voir...
+"059"	{pause 5}.{pause 5}.{pause 5}.{pause 5}{emote: Curious}{pause 15} Hein?{pause 8} J'ai la berlue? {Wait for input}Je ne vois	toujours pas de photo!{Wait for input}{emote: Reset}Ce n'est pas pour t'embêter, {pause 8}mais	peux-tu aller à la {Blue}cabine photo{Color Reset} pour	te faire tirer le portrait?	Ça coûte {Blue}500 clochettes{Color Reset}.{Wait for input}	Penses-y!
+"060"	{emote: Happiness}Oui, tout semble en règle.{pause 15} Merci.{Wait for input}	Tiens, je te rends ta carte.
+"061"	Hmm, certaines fonctions de cette	{Blue}console{Color Reset} {pause 8}sont restreintes par le	{Blue}contrôle parental{Color Reset}...	Tu ne peux malheureusement pas	utiliser les services de la gare dans	ces conditions.{000f-0000-0004-0000-0000}	Argh! OK...	Mais je suis majeur{/e}!
+"062"	Hmm, certaines fonctions de cette	{Blue}console{Color Reset} {pause 8}sont restreintes par le	{Blue}contrôle parental{Color Reset}...	Tu ne peux malheureusement pas	utiliser les services de la gare dans	ces conditions.{000f-0000-0004-0000-0000}	Argh! OK...	Mais je suis majeur{/e}!
+"063"	Le portillon est actuellement ouvert	pour laisser entrer les visiteurs.{pause 10}	C'est bon si je le ferme?	Puisque tu as de la visite, la	communication sans fil ne sera pas	interrompue. Alors?{000f-0005-0004-0015-0028}	Oui, ferme-le!	Non, laisse-le ouvert.
+"064"	Le portillon est actuellement fermé	pour empêcher les visiteurs	d'entrer.{pause 10} C'est bon si je l'ouvre?{000f-0005-0004-0015-0028}	Oui, ouvre-le!	Non, laisse-le fermé.
+"065"	{emote: Happiness}Tes désirs sont des ordres!	Onk onk!
+"066"	Merci pour ta patience! {pause 20}Si tu veux	ouvrir le portillon pour accueillir des	visiteurs, dis-le-moi.{pause 8} Onk onk!
+"067"	Merci pour ta patience! {pause 20}Si tu veux	fermer le portillon, fais-le-moi	savoir.{pause 8} Onk onk!
+"068"	Le portillon est actuellement fermé	pour empêcher les visiteurs	d'entrer.{Wait for input}Alors, on invite quelqu'un?{000f-0006-0006-0000-0000-0029}	Oui, tout le monde!	Oui, mes meilleurs amis!	Non, laisse comme ça.
+"070"	{emote: Happiness}Bienvenue à la gare {de /d'}{Town name (pink)}!{pause 15}	Onk onk, ouh ah hiii hiii!
+"071"	Désolé, mais les trains ne circulent	pas en ce moment.{pause 20} Réessaie quand	tu seras réveillé{/e}.
+"072"	Tu sais, {pause 15}personne ici n'a encore	visité une autre ville.{pause 30} {emote: Worry}C'est triste,	quand tu y penses. {pause 20}{Text size 80%}Onk onk...{Text size 100%}
+"073"	Tu sais, {pause 15}les gens d'ici ne voyagent	pas beaucoup.{Wait for input}{emote: Worry}S'ils allaient visiter d'autres villes,	ça élargirait grandement leurs	horizons, {pause 10}onk onk!
+"074"	Tu sais, {pause 15}les gens d'ici ont pris	{Number (0x9)} fois le train dans cette gare.{pause 8}	Intéressant, non? {pause 8}Onk onk!
+"075"	Tu sais, {pause 15}les gens d'ici ont pris le	train si souvent que je ne peux plus	tenir les comptes!	{emote: Showmanship}Du coup, je ne sais pas combien de	fois j'ai crié :{pause 8} « Attention départ!{pause 8}	Fermeture des portes! {pause 8}OOONK! »
+"076"	Tu sais, {pause 15}aucun visiteur d'une autre	ville n'est encore venu dans cette	gare.	{emote: Worry}C'est triste, quand on y pense.	{pause 20}{Text size 80%}Onk onk...{Text size 100%}
+"077"	Tu sais, {pause 15}on n'a vu passer qu'un seul	visiteur d'une autre ville dans cette	gare pour l'instant.	{emote: Worry}Si seulement plus de monde pouvait	venir nous voir{pause 5}.{pause 5}.{pause 5}.
+"078"	Cette ville est très appréciée des	touristes, tu sais.{pause 15} J'ai recensé	{Number (0x9)} visiteurs jusque-là!
+"079"	Tu sais, {pause 15}cette ville a eu tellement de	visiteurs qu'on ne peut plus les	compter. {Wait for input}ONK ONK!
+"081"	{emote: Sigh}Hmm{pause 5}.{pause 5}.{pause 5}. Pfff{pause 8}.{pause 8}.{pause 8}.{000f-0000-0004-0000-0000}	C'est quoi, le problème?	Secoue-toi un peu!
+"082"	{pause 5}.{pause 5}.{pause 5}.{pause 15}{emote: Alarmed}{Wait <002d 0000> 'time'}
+"083"	Oh! {pause 15}{Monsieur/Madame} le maire!{pause 20}	Content de te voir! Je voulais te	parler de quelque chose...	La compagnie ferroviaire qui gère	cette gare a organisé un concours	d'architecture récemment...	L'idée est de donner un coup de	jeune à la gare sélectionnée. {Wait for input}Et tu ne devineras jamais quelle	gare a été choisie...{Wait for input}{emote: Joy} Mais oui, celle	{de /d'}{Town name (pink)}!{emote: Happiness} Onk!
+"084"	Ce n'est pas étonnant, {emote: Agreement}{pause 10}de nombreux	usagers fréquentent cette gare,	après tout.{pause 20} {emote: Happiness}Elle est très appréciée!	{emote: Worry}Pourtant{pause 5}.{pause 5}.{pause 5}.{Wait for input}{emote: Anger}CER{pause 15}TAINES personnes,{pause 8} pensant que	la rénovation serait un gaspillage de	fonds publics, {pause 8}{emote: Distress}s'y sont opposées!{pause 8}	{emote: Worry}Franchement, moi je me faisais une	joie de travailler dans un nouvel	environnement tout neuf. {Text size 75%}Onk onk...{Text size 100%}
+"085"	{emote: Happiness}Et c'est là que tu interviens, {pause 15}en ta	qualité de maire, {Player name}!{Wait for input}Si tu choisissais d'apporter ton	soutien à ce projet, tous nos	concitoyens te suivraient!	{emote: Reset}Alors, {pause 20}{emote: Curious}qu'est-ce que tu dirais de	faire de la rénovation de la gare le	prochain {Blue}projet de travaux publics{Color Reset}?{Wait for input}Pense aux bénéfices pour	{Town name (pink)}! Les touristes	afflueraient en masse!	Tu peux consulter à la mairie les	plans des travaux, si ça t'intéresse.{pause 20}	Merci de m'avoir écouté!{000d-0000-0002-cd06}
+"086"	Autre chose{pause 5}.{pause 5}.{pause 5}.{Wait for input}Quand le portillon est ouvert à la	communication sans fil locale...{Wait for input}... tu peux recevoir de la visite	d'inconnus.{Wait for input}Si tu ne veux pas autoriser d'autres	personnes à entrer quand tu as des	invités,{pause 8} tu peux fermer le portillon{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}Si c'est ce que tu veux faire,{pause 10}	tiens-moi au courant!{Wait for input}En attendant,{pause 10} va et amuse-toi bien!	Onk onk!
+"087"	Autre chose{pause 5}.{pause 5}.{pause 5}.{Wait for input}Quand le portillon est ouvert, les	visiteurs peuvent aller et venir à	leur guise.	Tu peux aussi recevoir la visite	d'inconnus, particulièrement avec	la communication sans fil locale.	Si tu ne veux pas autoriser d'autres	personnes à entrer quand tu as des	invités,{pause 8} tu peux fermer le portillon{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}Si c'est ce que tu veux faire,{pause 10}	tiens-moi au courant!{Wait for input}En attendant,{pause 10} va et amuse-toi bien!	Onk onk!
+"088"	{emote: Happiness}Onk onk!{pause 8} Désolé pour l'attente!{0007-0008-0004-002d-0000}{Wait for input}{emote: Reset}Tu joues actuellement à {Green}Animal	Crossing: New Leaf - Welcome	amiibo{Color Reset}!	Or, tu ne peux inviter à {Town name (pink)}	que des joueurs possédant {pause 8}{emote: Agreement}ce	même logiciel.{0007-0008-0004-00d2-0000}	{emote: Reset}Si tu viens d'inviter quelqu'un,	{emote: Disagreement}mais que cette personne ne	trouve pas ta ville...	{emote: Agreement}Vérifie qu'elle joue bien à	{Green}Animal Crossing: New Leaf -	Welcome amiibo{Color Reset}!{0007-0008-0004-00d2-0000}	{emote: Happiness}Bien.{pause 8} Alors, je l'ouvre, ce portillon,	onk onk?{0007-0008-0004-0096-0000}
+"089"

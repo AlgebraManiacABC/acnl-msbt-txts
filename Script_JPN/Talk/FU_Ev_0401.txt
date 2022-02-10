@@ -1,21 +1,21 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Distress}
-"003"	{emote: Distress}
-"004"	{emote: Alarmed}
-"005"	{emote: Distress}
-"006"	{emote: Surprise}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	
-"010"	
-"011"	
-"012"	
-"013"	{0009-0001-0006-0e-00-0f-00-10-00}
-"014"	{emote: Laughter}
-"015"	{emote: Laughter}
-"016"	{emote: Surprise}
-"017"	{0009-0001-0006-12-00-13-00-14-00}
-"018"	{emote: Soft Smile}
-"019"	{emote: Sheepishness}
-"020"	{emote: Disagreement}
+"001"	{emote: Distress}{ruby (charSpan 1): だい}大ニュースです！{Wait for input}{emote: Reset}{ruby (charSpan 2): きょう}今日　{pause 10}{Town name (pink)}{ruby (charSpan 1): むら}村が、{pause 10}	おとなりの{ruby (charSpan 1): むら}村と	がっぺいするらしいですよ！{Player can respond (0000):0011-0000-000d-0000}	そうなんだ！	ウソでしょ～
+"002"	{emote: Distress}{ruby (charSpan 2): たいへん}大変です！{pause 20}	{ruby (charSpan 1): むら}村に　{pause 10}{ruby (charSpan 2): せきゆ}石油がわき{ruby (charSpan 1): だ}出したんです！{Wait for input}{ruby (charSpan 2): むらじゅう}村中の{ruby (charSpan 1): ひと}人が　{ruby (charSpan 2): けんぶつ}見物しようと{pause 5}	さわいでます！{Player can respond (0000):0011-0000-000d-0000}	すご～い！	ウソでしょ～
+"003"	{emote: Distress}{ruby (charSpan 1): き}聞きました？{pause 20}	{ruby (charSpan 2): きょう}今日から　{ruby (charSpan 3): はくぶつかん}博物館が{pause 10}	ろう{ruby (charSpan 3): にんぎょうかん}人形館になったんです	{Player nickname (green)}さんに　そっくりな	{ruby (charSpan 2): にんぎょう}人形も　{pause 10}{ruby (charSpan 1): お}置いてありましたよ{Player can respond (0000):0011-0000-000d-0000}	{ruby (charSpan 1): み}見てみたいな！	ウソでしょ！
+"004"	{emote: Alarmed}{ruby (charSpan 2): きょう}今日から　{ruby (charSpan 3): はくぶつかん}博物館が、{pause 10}	{ruby (charSpan 3): にゅうじょうりょう}入場料を{ruby (charSpan 1): と}取るんですって！{Wait for input}	{ruby (charSpan 2): りょうきん}料金は　{pause 10}ひとり10000ベルです！！{Player can respond (0000):0011-0000-000d-0000}	ほんと？！	ウソでしょ～
+"005"	{emote: Distress}{Player nickname (green)}さん！{pause 20}	とっても　お{ruby (charSpan 1): とく}得な{ruby (charSpan 2): じょうほう}情報です！{Wait for input}{ruby (charSpan 2): きょう}今日は、{pause 10}お{ruby (charSpan 1): みせ}店の{ruby (charSpan 2): しょうひん}商品が	{ruby (charSpan 2): ぜんぶ}全部タダなんですって！{Wait for input}	お{ruby (charSpan 2): きゃくさま}客様　{ruby (charSpan 3): かんしゃさい}感謝祭だそうです{Player can respond (0000):0011-0000-000d-0000}	{ruby (charSpan 1): い}行かなくっちゃ！	ウソだ～
+"006"	{emote: Surprise}さっき　お{ruby (charSpan 1): みせ}店に{ruby (charSpan 1): い}行ってみたら、{pause 10}	100ベルショップに　なってたんです！{Wait for input}{emote: Glee}まさか　{pause 8}{ruby (charSpan 2): ぜんぶ}全部100ベルで{ruby (charSpan 1): か}買えるなんて{pause 10}	{ruby (charSpan 1): ゆめ}夢みたいですよね！{Player can respond (0000):0011-0000-000d-0000}	ほんとに？！	ウソでしょ～
+"007"	{emote: Happiness}{ruby (charSpan 2): きょう}今日　4{ruby (charSpan 1): がつ}月1{ruby (charSpan 1): にち}日は{pause 10}	{Orange}たぬきち{Color Reset}さんの　サービスデーで、{Wait for input}500ベル{ruby (charSpan 2): いじょう}以上{ruby (charSpan 1): か}買うと　{pause 10}	{emote: Glee}たぬきちダンスを{pause 5}	おどってくれるらしいです！	これは　{pause 10}{ruby (charSpan 1): み}見ないと　ソンですよね！{Player can respond (0000):0011-0000-000d-0000}	{ruby (charSpan 1): み}見てみたい！	ウソつき～
+"008"	{emote: Happiness}わたし　{pause 10}{ruby (charSpan 1): いま}今までの　{ruby (charSpan 2): どくしょ}読書の{ruby (charSpan 2): けいけん}経験を{ruby (charSpan 1): い}活かして{pause 10}	{ruby (charSpan 1): ほん}本を　{ruby (charSpan 1): か}書くことにしました！{Wait for input}	これで　{pause 10}あこがれの　{ruby (charSpan 2): さっか}作家デビューです！{Player can respond (0000):0011-0000-000d-0000}	すご～い！	ウソっぽいな～
+"009"
+"010"
+"011"
+"012"
+"013"	{0009-0001-0006-000e-000f-0010}
+"014"	{emote: Laughter}うふふ！{pause 30}	{emote: Happiness}バレちゃいましたね{pause 20}	なんだか、ウソつくのって{ruby (charSpan 1): むずか}難しいです
+"015"	{emote: Laughter}はい、{pause 10}ウソでした！{pause 30}	{emote: Soft Smile}やっぱり{ruby (charSpan 1): かお}顔に{ruby (charSpan 1): で}出てましたか
+"016"	{emote: Surprise}あら、{pause 10}{ruby (charSpan 2): みやぶ}見破られてしまいました！{pause 20}	{emote: Happiness}エイプリルフールなので{pause 10}	ウソついちゃったんです、{pause 15}{catchphrase}
+"017"	{0009-0001-0006-0012-0013-0014}
+"018"	{emote: Soft Smile}すみません{pause 20}	ウソなんです、{pause 15}{catchphrase}{Wait for input}{emote: Reset}エイプリルフールなので、{pause 10}	{Player nickname (green)}さんを{pause 5}	だましちゃいました！
+"019"	{emote: Sheepishness}ごめんなさい{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Happiness}エイプリルフールだったので、{pause 10}	ウソついてみました、{pause 15}{catchphrase}
+"020"	{emote: Disagreement}ウソです{pause 5}ウソです！{pause 30}	{emote: Worry}すみません、{pause 20}いつも　{pause 5}だまされちゃうんで{pause 10}	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{pause 10}{ruby (charSpan 1): ひ}引っかける{ruby (charSpan 1): がわ}側になってみました！

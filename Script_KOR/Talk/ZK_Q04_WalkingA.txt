@@ -1,33 +1,33 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Surprise}
-"003"	{emote: Alarmed}
-"004"	{emote: Worry}
-"005"	{emote: Distress}
-"006"	{emote: Worry}
-"007"	{emote: Distress}
-"008"	{emote: Alarmed}
-"009"	{emote: Worry}
-"010"	{emote: Alarmed}
-"011"	{emote: Alarmed}
-"012"	{emote: Worry}
-"013"	{emote: Surprise}
-"014"	
-"015"	
-"016"	{emote: Alarmed}
-"017"	{emote: Worry}
-"018"	{emote: Sheepishness}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
-"021"	{emote: Soft Smile}
-"022"	
-"023"	
-"024"	{emote: Alarmed}
-"025"	{emote: Alarmed}
-"026"	{emote: Alarmed}
-"027"	{0011-0001-0002-00-00}
-"028"	{emote: Alarmed}
-"029"	
-"030"	{0011-0001-0002-00-00}
-"031"	{emote: Alarmed}
-"032"	슬슬 {pause 8}
+"001"	{emote: Alarmed}뭐? {pause 16}{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}이	날 찾는다구?	{pause 8}{catchphrase}?	{emote: Worry}일부러 그대를 보낼 정도니{pause 16}	엄청 중요한	일일지도 모르겠네{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Anger}알았어, {Player nickname (green)}{군/양}!{pause 16}	갈게, {pause 8}{catchphrase}!
+"002"	{emote: Surprise}뭐라구?!{pause 16}	{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}이	날 데려오라고 했다구?	{emote: Thought}{pause 16}갑자기 무슨 일이지{pause 8}・{pause 8}・{pause 8}・?{pause 32}	{emote: Mischief}사랑 고백이라도 하려나?{pause 32}	{emote: Sheepishness}그럴 리 없나{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Reset}아무튼 {pause 16}그대를	따라가면 되는 거지?{pause 8}	{Player nickname (green)}{군/양}?	{emote: Soft Smile}그럼	{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}네 집까지{pause 16}	잘 부탁할게, {pause 8}{catchphrase}
+"003"	{emote: Alarmed}뭐? {pause 16}{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}이	날 부른다고ー?{Wait for input}{emote: Sheepishness}그대를 대신 보내다니{pause 16}	{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}도	어지간히 부끄러운가 보군, {pause 8}{catchphrase}	{emote: Soft Smile}후후훗{pause 4}・{pause 4}・{pause 4}・{pause 4} 알았어{pause 32}	거절할 이유가 없지{Wait for input}그대를 따라갈 테니까{pause 16}	{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}네 집까지	안내해줘, {pause 8}{Player nickname (green)}{군/양}
+"004"	{emote: Worry}{Player nickname (green)}{군/양}!{pause 16}	좀 천천히 가자～!
+"005"	{emote: Distress}자, 잠깐 기다려～{pause 8}	{Player nickname (green)}{군/양}!
+"006"	{emote: Worry}너무 급하게	가는 거 아냐? {pause 8}{catchphrase}?{000f-0000-0004-0000-0000}	미안, 천천히 갈게	급한 일이 생겨서・・・
+"007"	{emote: Distress}그대의 속도가 너무 빨라～{pause 16}	{Player nickname (green)}{군/양}!{000f-0000-0004-0000-0000}	아, 미안 미안	급한 일이 생겨서・・・
+"008"	{emote: Alarmed}어라?{pause 32} {emote: Worry}{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}네 집이	{pause 16}그쪽이었나{pause 8}・{pause 8}・{pause 8}・?{pause 8}{000f-0000-0004-0000-0000}	미안, 잘못 왔다	급한 일이 생겨서・・・
+"009"	{emote: Worry}혹시 길 잃은 거 아니야?{pause 16}	{Player nickname (green)}{군/양}?{Wait for input}{emote: Reset}{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}네 집은	그쪽이 아닌 것 같은데,	{pause 8}{catchphrase}?{000f-0000-0004-0000-0000}	미안, 잘못 왔네	급한 일이 생겨서・・・
+"010"	{emote: Alarmed}어라{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 16}	{emote: Sheepishness}여긴 {0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}네 집이 아니잖아?	{pause 8}{catchphrase}?	{emote: Anger}왜 이래? {pause 16}제대로	에스코트해달라구!{pause 8}	{Player nickname (green)}{군/양}!{000f-0000-0004-0000-0000}	아, 잘못 왔다	급한 일이 생겨서・・・
+"011"	{emote: Alarmed}무슨 일이야? {Player nickname (green)}{군/양}?{pause 32}	{emote: Soft Smile}{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}이 기다리고	있으니까 {pause 16}좀 서둘러줄래?{pause 8}{000f-0000-0004-0000-0000}	미안, 잘못 왔어	급한 일이 생겨서・・・
+"012"	{emote: Worry}{Player nickname (green)}{군/양}～{pause 16}	아직 멀었어?{Wait for input}{emote: Sheepishness}길 잃은 거 아냐?{pause 32}	그러면 난 그냥{pause 16} 돌아갈래
+"013"	{emote: Surprise}앗, {pause 16}맞다!	{Player nickname (green)}{군/양}!{pause 16}	나 급한 일이 생각났어!	{emote: Worry}미안하지만 {pause 16}난	그만 돌아갈게
+"014"
+"015"
+"016"	{emote: Alarmed}응? {pause 8}그래?{pause 32}	{emote: Worry}모처럼 우리 셋의 인연이{pause 16}	깊어질 뻔했는데{pause 4}・{pause 4}・{pause 4}・	{emote: Soft Smile}괜찮아, {pause 16}나머진 내가 알아서	어떻게든 가볼게{pause 4}, {pause 8}{catchphrase}
+"017"	{emote: Worry}그대 마음은{pause 16}	갈대처럼 왔다 갔다 하네?{pause 32}	{emote: Sheepishness}마치 변덕스러운 날씨 같아	{emote: Soft Smile}뭐{pause 4}・{pause 4}・{pause 4}・{pause 4} 계기는	그대가 마련해줬으니까{pause 16}	나머진 내가 알아서 할게
+"018"	{emote: Sheepishness}그렇게 서두르지 말고{pause 16}	천천히 가자～{pause 8}	{Player nickname (green)}{군/양}!
+"019"	{emote: Worry}아무리 내가 남자라도{pause 16}	이건 너무 심한걸～	좀 부드럽게 에스코트해줄래?
+"020"	{emote: Worry}이렇게 딴 길로 새고 있을 때가	아닐 텐데? {pause 8}{catchphrase}?{pause 32}	{emote: Soft Smile}얼른 서두르자{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"021"	{emote: Soft Smile}그래, {Player nickname (green)}{군/양}!{pause 16}	당황하지 말고	침착하게 가자!
+"022"
+"023"
+"024"	{emote: Alarmed}응? 뭐?{pause 16}	{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}이 부른다고?{Wait for input}{emote: Thought}{pause 16}흐～음{pause 8}・{pause 8}・{pause 8}・{pause 8} 근데 그거{pause 16}	꽤 오래전 얘기니까{pause 16}	이제 상관없지 않나?	{emote: Sheepishness}분명히 {0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}도{pause 16}	자기가 부른 걸 잊고 있을 거야～
+"025"	{emote: Alarmed}응? {pause 16}{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}이 불렀다고?{pause 32}	{emote: Worry}그걸 이제 와서	알려준다 한들 말이야{pause 4}・{pause 4}・{pause 4}・	{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}은{pause 16}	이미 전부 잊고 있지 않을까?{Wait for input}{emote: Soft Smile}뭐{pause 4}・{pause 4}・{pause 4}・{pause 4} 볼일이 있으면{pause 16}	그쪽에서 또 연락이 오겠지
+"026"	{emote: Alarmed}응? {pause 16}{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}이	부른다구?{Wait for input}{emote: Worry}미안해, {Player nickname (green)}{군/양}!{pause 16}	당장은 일이 있어서{pause 16}	못 갈 것 같아{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}그래도 시간 내서	전하러 와줘서 고마워!{Wait for input}오늘 산책 코스에{pause 16}	{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}네 집도	넣어 둘게, {pause 8}{catchphrase}!
+"027"	{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}이	{emote: Curious}부른다고?{Wait for input}{emote: Worry}이런 상황에{pause 8}・{pause 8}・{pause 8}・{pause 8}	그대는 거절을 못 해서 탈이야!{pause 16}	{Player nickname (green)}{군/양}!	{emote: Soft Smile}지금 그대를 보러{pause 16}	손님이 와 있는 거 아냐?{Wait for input}	그대는 그쪽 일에 신경을 써야지	{emote: Pride}{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591} 일은{pause 16}	나한테 맡겨 둬, {pause 8}{catchphrase}
+"028"	{emote: Alarmed}응? {pause 16}{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}이	날 부른다고?	{pause 8}{catchphrase}?	{emote: Worry}그대까지 보낼 정도의 일이라면{pause 16}	정말 중요한 일일지도	모르겠군{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Anger}근데 말이야{pause 4}・{pause 4}・{pause 4}・{pause 4} 그대는 지금{pause 32}	{emote: Curious}이럴 때가 아니지 않아?{Wait for input}{emote: Soft Smile}그대의 볼일을 끝내고 와도 괜찮아{pause 16}	잠깐 정도는 기다릴 수 있으니까
+"029"
+"030"	{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591}이	{emote: Curious}부른다구?{Wait for input}{emote: Worry}이런 상황에{pause 8}・{pause 8}・{pause 8}・{pause 8}	그대는 거절을 못해서 탈이야!{pause 16}	{Player nickname (green)}{군/양}!	{emote: Soft Smile}이제 곧 {pause 8}그대의 손님이{pause 16}	우리 마을에 오는 거 아냐?{Wait for input}	그대는 얼른 그 준비를 하라구	{emote: Pride}{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591} 일은{pause 16}	내가 알아서 할게, {pause 8}{catchphrase}
+"031"	{emote: Alarmed}앗, {pause 8}그런데{pause 32}	{emote: Worry}그대는 지금 이런 걸{pause 8}	할 때가 아니지 않아?	{emote: Agreement}{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591} 일은{pause 20}	내가 알아서 할 테니까{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}그대는 소중한 손님을{pause 32} {emote: Glare}챙기라구!
+"032"	슬슬 {pause 8}그대의 손님이{pause 8}	찾아올 때 아니야?{pause 8}	{Player nickname (green)}{군/양}?	{emote: Agreement}{0011-0001-0002-0000}{000e-0007-0008-0002-ad70-0002-c591} 일은{pause 20}	내가 알아서 할 테니까{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}그대는 소중한 손님을{pause 20}	{emote: Showmanship}맞이할 준비나 하라구!	{pause 8}{catchphrase}!

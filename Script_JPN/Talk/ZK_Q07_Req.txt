@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Sheepishness}
-"003"	{emote: Alarmed}
-"004"	{emote: Disagreement}
-"005"	{emote: Worry}
-"006"	これは　ちょっと{pause 8}
-"007"	{emote: Surprise}
-"008"	{emote: Surprise}
-"009"	{emote: Surprise}
-"010"	{emote: Surprise}
-"011"	{emote: Surprise}
-"012"	{emote: Shocked}
-"013"	{emote: Alarmed}
-"014"	{emote: Shocked}
-"015"	{emote: Shocked}
-"016"	{emote: Surprise}
-"017"	{emote: Alarmed}
-"018"	{emote: Surprise}
-"019"	{emote: Happiness}
-"020"	{emote: Happiness}
-"021"	{emote: Showmanship}
-"022"	{emote: Soft Smile}
-"023"	{emote: Happiness}
-"024"	{emote: Soft Smile}
+"001"	{emote: Soft Smile}{ruby (charSpan 1): おも}思わせぶりだな、{pause 8}キミはぁ{Wait for input}{emote: Worry}でも、{ruby (charSpan 1): み}見せてくれないと{pause 16}	ボクのか　どうか	わからないじゃないか{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"002"	{emote: Sheepishness}ジラすな～、{pause 8}キミはぁ{pause 16}	もったいつけないで	{ruby (charSpan 1): み}見せてくれないと{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"003"	{emote: Alarmed}あれ{pause 4}・{pause 4}・{pause 4}・{pause 4}？{pause 16}	{ruby (charSpan 1): なに}何か{ruby (charSpan 1): ひろ}拾ったんじゃないの？{pause 32}	{emote: Soft Smile}{ruby (charSpan 1): き}気まぐれだな～、{pause 16}キミはぁ
+"004"	{emote: Disagreement}{ruby (charSpan 2): ざんねん}残念だけど、{pause 8}これは　	ボクの{ruby (charSpan 1): もの}物じゃないよ、	{Player nickname (green)}{0005-000d-0000}	{emote: Worry}{ruby (charSpan 1): わる}悪いけど、{pause 8}{ruby (charSpan 1): ほか}他を	あたってもらえるかな？	{pause 8}{catchphrase}？
+"005"	{emote: Worry}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}ちょっと	{ruby (charSpan 1): み}身に{ruby (charSpan 1): おぼ}覚えがないなぁ、{pause 8}{catchphrase}{Wait for input}たぶん　{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): だれ}誰かの{pause 16}	{emote: Curious}{ruby (charSpan 1): わす}忘れ{ruby (charSpan 1): もの}物じゃないかな？
+"006"	これは　ちょっと{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Worry}ボクのシュミじゃないなぁ、	{pause 8}{catchphrase}	きっと　{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): だれ}誰かの{pause 16}	{emote: Curious}{ruby (charSpan 1): お}落とし{ruby (charSpan 1): もの}物じゃないかな？
+"007"	{emote: Surprise}あっ、{pause 8}この{ruby (charSpan 1): ほん}本！{pause 16}	ボクの　{ruby (charSpan 1): か}書きかけの	{ruby (charSpan 2): ししゅう}詩集じゃないか？　{pause 8}{catchphrase}？	{emote: Agreement}そうか～、{pause 16}{ruby (charSpan 1): な}無い{ruby (charSpan 1): な}無いと{ruby (charSpan 1): おも}思ったら	{ruby (charSpan 1): お}落としてたんだね、{pause 8}ボク{Wait for input}{emote: Sigh}{pause 16}ふぅ～　{ruby (charSpan 1): あぶ}危なかった{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Worry}{ruby (charSpan 2): じじょう}事情を{ruby (charSpan 1): し}知らない{ruby (charSpan 1): ひと}人が　{ruby (charSpan 1): よ}読んだら{pause 16}	きっと　{ruby (charSpan 1): おどろ}驚くだろうからね？	{emote: Soft Smile}ま、{ruby (charSpan 1): なん}何にせよ　{ruby (charSpan 1): たす}助かったよ！{pause 8}	{Player nickname (green)}{0005-000d-0000}！
+"008"	{emote: Surprise}あっ、{pause 16}コレ{pause 4}・{pause 4}・{pause 4}・{pause 4}ボクのだ！{Wait for input}	{emote: Sheepishness}そうか～　{pause 16}うっかり{ruby (charSpan 1): そと}外で	{ruby (charSpan 1): お}落としちゃったんだね～？	{emote: Anger}{ruby (charSpan 1): じつ}実はコレ、{pause 16}{ruby (charSpan 1): か}書きかけの　	ボクの{ruby (charSpan 2): じでん}自伝なんだ、{pause 8}{catchphrase}！{Wait for input}{emote: Agreement}ボクの　{ruby (charSpan 3): たんじょうび}誕生日とか{pause 16}　{ruby (charSpan 3): けつえきがた}血液型とか{pause 16}	スキな{ruby (charSpan 1): た}食べ{ruby (charSpan 1): もの}物とか{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Mischief}とにかく、{pause 16}{Villager's name (orange)}づくしさ！
+"009"	{emote: Surprise}これは{pause 4}・{pause 4}・{pause 4}・{pause 4}ボクのじゃないか？{pause 32}	{emote: Sheepishness}{ruby (charSpan 2): へや}部屋で{ruby (charSpan 1): な}無くしたと　{ruby (charSpan 1): おも}思ってたけど、{pause 16}	{ruby (charSpan 1): そと}外で　{ruby (charSpan 1): お}落としてたのか～	{emote: Anger}{ruby (charSpan 1): じつ}実は、コレ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 3): せきらら}赤裸々な{ruby (charSpan 2): にちじょう}日常をつづった　{pause 16}	ボクの{ruby (charSpan 2): にっき}日記なんだ、{pause 8}{catchphrase}	{emote: Happiness}だから　{ruby (charSpan 1): み}見つかって{ruby (charSpan 1): よ}良かったよ！{pause 16}	ありがとう、{Player nickname (green)}{0005-000d-0000}！{Wait for input}	{emote: Mischief}{ruby (charSpan 1): なか}中は、{ruby (charSpan 1): み}見てないよね？
+"010"	{emote: Surprise}あ！{pause 8}　これこれ！{pause 32}	{emote: Sunny}{ruby (charSpan 1): さが}探してたんだよ、このポーチ！{Wait for input}{emote: Soft Smile}ボクの{ruby (charSpan 3): きちょうひん}貴重品を　{ruby (charSpan 1): い}入れてたから{pause 16}　	{ruby (charSpan 1): たす}助かったよ、{Player nickname (green)}{0005-000d-0000}！
+"011"	{emote: Surprise}あっ、これだよ！{pause 16}	ボクが　{ruby (charSpan 1): さが}探してたポーチは！{Wait for input}{emote: Anger}この{ruby (charSpan 1): なか}中にはね{pause 8}・{pause 8}・{pause 8}・{pause 32}	ボクの　{ruby (charSpan 2): たいせつ}大切な{ruby (charSpan 1): もの}物が	{ruby (charSpan 1): はい}入ってるのさ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"012"	{emote: Shocked}これは{pause 8}・{pause 8}・{pause 8}・{pause 8}ボクの	ポーチじゃないか！{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): へや}部屋で{ruby (charSpan 1): な}無くしたと　{ruby (charSpan 1): おも}思ってたけど、{pause 16}	{ruby (charSpan 1): そと}外で　{ruby (charSpan 1): お}落としてたんだねぇ、	{pause 8}{catchphrase}
+"013"	{emote: Alarmed}これは{pause 8}・{pause 8}・{pause 8}・{pause 32}{emote: Soft Smile}ボクの　てぶくろだね！{Wait for input}	{emote: Glare}{ruby (charSpan 2): いったい}一体、どこまで	{ruby (charSpan 1): たび}旅に{ruby (charSpan 1): で}出てたのかな？	{emote: Worry}ボクの　{ruby (charSpan 2): かたわ}片割れの　てぶくろが、{pause 8}	{ruby (charSpan 1): さび}寂しそうにしてたから{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Happiness}もどって{ruby (charSpan 1): き}来てくれて、{ruby (charSpan 1): よ}良かった！	これも　キミのおかげだ{pause 16}	ありがとう、{Player nickname (green)}{0005-000d-0000}！
+"014"	{emote: Shocked}これは{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Anger}ボクの　{ruby (charSpan 1): な}無くした{ruby (charSpan 2): かたわ}片割れ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Glare}もう{ruby (charSpan 2): ひとり}一人の　ボクだ！	{emote: Sheepishness}あっ、{pause 8}ごめん　ごめん！{pause 16}	{ruby (charSpan 2): てぶくろ}手袋のコトさ～！{pause 32}	{emote: Soft Smile}とにかく　{ruby (charSpan 1): たす}助かったよ！
+"015"	{emote: Shocked}これは{pause 8}・{pause 8}・{pause 8}・{pause 8}	ボクの{ruby (charSpan 2): てぶくろ}手袋じゃないか？！{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): へや}部屋で{ruby (charSpan 1): な}無くしたと　{ruby (charSpan 1): おも}思ってたけど、{pause 16}	{ruby (charSpan 1): そと}外で　{ruby (charSpan 1): お}落としてたんだねぇ、	{pause 8}{catchphrase}{Wait for input}{emote: Happiness}{ruby (charSpan 2): かたほう}片方だけの{ruby (charSpan 2): てぶくろ}手袋で　{ruby (charSpan 1): こま}困ってたんだ{pause 16}	{ruby (charSpan 1): たす}助かったよ、{pause 8}{Player nickname (green)}{0005-000d-0000}！
+"016"	{emote: Surprise}あ！　{pause 8}これこれ！{pause 16}	{ruby (charSpan 1): さが}探してたんだ、この{ruby (charSpan 2): かみぶくろ}紙袋！{Wait for input}{emote: Soft Smile}ボクの　{ruby (charSpan 2): たいせつ}大切なものが	{ruby (charSpan 1): はい}入ってたから、{pause 16}{ruby (charSpan 1): たす}助かったよ～{pause 8}	{Player nickname (green)}{0005-000d-0000}！	{ruby (charSpan 1): なに}何が　{emote: Curious}{ruby (charSpan 1): はい}入ってるかって？{pause 32}	{emote: Mischief}それは　{ruby (charSpan 2): ひみつ}秘密さ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"017"	{emote: Alarmed}あ{pause 8}・{pause 8}・{pause 8}・{pause 8}これだよ！{pause 16}	ボクが　{ruby (charSpan 1): さが}探してた{ruby (charSpan 2): かみぶくろ}紙袋は！{Wait for input}{emote: Reset}この{ruby (charSpan 1): なか}中には{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Distress}おっと、{ruby (charSpan 1): なん}何でもないっ！{Wait for input}	{emote: Soft Smile}とにかく　{ruby (charSpan 1): たす}助かったよ！
+"018"	{emote: Surprise}これは{pause 8}・{pause 8}・{pause 8}・{pause 8}	ボクの{ruby (charSpan 2): かみぶくろ}紙袋じゃないか？！{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): へや}部屋で{ruby (charSpan 1): な}無くしたと　{ruby (charSpan 1): おも}思ってたけど、	{ruby (charSpan 1): お}落としてたんだねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Anger}この　{ruby (charSpan 2): かみぶくろ}紙袋の{ruby (charSpan 1): なか}中にはね、{pause 32}	{emote: Glare}たくさんの{ruby (charSpan 2): かみぶくろ}紙袋が　{ruby (charSpan 1): はい}入ってるのさ
+"019"	{emote: Happiness}わざわざ　{ruby (charSpan 1): とど}届けてくれて{pause 16}	ありがとう、{Player nickname (green)}{0005-000d-0000}！{Wait for input}{emote: Worry}こんなのしか　ないけど、{pause 16}	この　{0011-0003-0002-0000}、{pause 16}	お{ruby (charSpan 1): れい}礼に　もらってくれないか？
+"020"	{emote: Happiness}キミは　いい{ruby (charSpan 1): ひと}人だね～{pause 16}	わざわざ　{ruby (charSpan 1): とど}届けてくれるなんて！{Wait for input}{emote: Soft Smile}この　{0011-0003-0002-0000}、{pause 16}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入るか　わからないけど、{pause 16}	お{ruby (charSpan 1): れい}礼に　{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取ってくれないか？
+"021"	{emote: Showmanship}このままじゃ、{pause 8}	ボクの{ruby (charSpan 1): き}気が　{ruby (charSpan 1): す}済まない！{Wait for input}{emote: Anger}キミの　{ruby (charSpan 1): この}好みに{ruby (charSpan 1): あ}合うか	わからないけれど{pause 8}・{pause 8}・{pause 8}・{pause 8}	お{ruby (charSpan 1): れい}礼を　させてもらうよ	{emote: Soft Smile}この　{0011-0003-0002-0000}{pause 16}	{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取ってくれ、{pause 8}{catchphrase}{Wait for input}	{emote: Glare}ボクの　{ruby (charSpan 2): きも}気持ちだ！
+"022"	{emote: Soft Smile}これからは　{pause 8}{ruby (charSpan 1): お}落とさないように	{ruby (charSpan 1): き}気をつけるよ、{pause 8}{catchphrase}
+"023"	{emote: Happiness}キミのおかげで{pause 8}	{ruby (charSpan 2): たいせつ}大切なものを　{ruby (charSpan 1): うしな}失わずに{ruby (charSpan 1): す}済んだよ、{pause 8}	{Player nickname (green)}{0005-000d-0000}
+"024"	{emote: Soft Smile}キミのおかげで　{ruby (charSpan 1): み}見つかったよ！{pause 32}	{ruby (charSpan 2): いちど}一度　{ruby (charSpan 1): な}無くした{pause 32}	{emote: Mischief}ボクの{ruby (charSpan 2): かけら}欠片が{pause 8}・{pause 8}・{pause 8}・{pause 8}

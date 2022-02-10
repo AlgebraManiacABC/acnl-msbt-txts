@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Sleep Bubble}
-"002"	{emote: Distress}
-"003"	{emote: Bashful}
-"004"	
-"005"	
-"006"	{emote: Sheepishness}
-"007"	{emote: Agreement}
-"008"	{emote: Happiness}
-"009"	{emote: Greetings}
-"010"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"011"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"012"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"013"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"014"	
-"016"	{emote: Fearful}
-"017"	{emote: Happiness}
-"018"	{emote: Fearful}
-"019"	{emote: Happiness}
-"020"	このキャンプ{ruby (charSpan 1): ち}地にも、{pause 8}
+"001"	{emote: Sleep Bubble}{Text size 75%}んぐご{pause 15}・{pause 15}・{pause 15}・{Text size 100%}{pause 25}{emote: Sleepy}{pause 120}{emote: Alarmed}{Wait <0096 0000> 'time'}	{emote: Shocked}{pause 5}はっ！{Wait <002d 0000> 'time'}
+"002"	{emote: Distress}{pause 10}わわっ、{pause 10}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ない！{pause 15}	わたくし　{ruby (charSpan 2): よるがた}夜型なもので	{ruby (charSpan 2): ひるま}昼間は　どうも{ruby (charSpan 1): ねむ}眠たくて{pause 5}・{pause 5}・{pause 5}・
+"003"	{emote: Bashful}ス、{pause 10}スミマセン{pause 5}・{pause 5}・{pause 5}・　
+"004"
+"005"
+"006"	{emote: Sheepishness}せっかく{ruby (charSpan 1): やす}休みを　{ruby (charSpan 1): と}取って{pause 8}	キャンプに{ruby (charSpan 1): き}来たというのに、{pause 16}	これじゃ　いつもと{ruby (charSpan 1): か}変わりませんね{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Surprise}あっ！{pause 60}	{emote: Distress}いつも　{ruby (charSpan 2): ひるね}昼寝して　サボってるという{pause 8}	{ruby (charSpan 2): いみ}意味では　ありませんよ！
+"007"	{emote: Agreement}わたくし、{pause 8}{ruby (charSpan 2): ふだん}普段は　この{ruby (charSpan 1): むら}村の	{ruby (charSpan 3): はくぶつかん}博物館の　{ruby (charSpan 2): かんちょう}館長をしてるんですが、{pause 30}	{ruby (charSpan 2): きょう}今日は{ruby (charSpan 1): めずら}珍しく　{ruby (charSpan 2): きゅうか}休暇なんですよ{Wait for input}{emote: Sheepishness}せっかく{ruby (charSpan 1): やす}休みを{ruby (charSpan 1): と}取って{pause 8}	キャンプに{ruby (charSpan 1): き}来たというのに、{pause 16}	これじゃ　いつもと{ruby (charSpan 1): か}変わりませんね{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Surprise}あっ！{pause 60}	{emote: Distress}いつも　{ruby (charSpan 2): ひるね}昼寝して　サボってるという{pause 8}	{ruby (charSpan 2): いみ}意味では　ありませんよ！
+"008"	{emote: Happiness}ホホッ！{pause 16}	どーもどーも　{Player name}さん！{Wait for input}{emote: Agreement}{ruby (charSpan 2): きょう}今日は　わたくし、{pause 16}	{ruby (charSpan 1): めずら}珍しく{ruby (charSpan 2): きゅうか}休暇でしてね{Wait for input}{emote: Happiness}1{ruby (charSpan 1): にち}日だけでは　ありますが{pause 16}	ゆっくりさせてもらいますよ！
+"009"	{emote: Greetings}おや、どーも！{pause 30}	{emote: Curious}よその{ruby (charSpan 1): むら}村の{ruby (charSpan 1): かた}方ですか？{Wait for input}{emote: Agreement}わたくし、{pause 8}{ruby (charSpan 2): ふだん}普段は　この{ruby (charSpan 1): むら}村の	{ruby (charSpan 3): はくぶつかん}博物館で　{ruby (charSpan 2): かんちょう}館長をしてるんですが、{pause 30}	{ruby (charSpan 2): きょう}今日は{ruby (charSpan 1): めずら}珍しく　{ruby (charSpan 2): きゅうか}休暇なんですよ{Wait for input}{emote: Alarmed}あ、{ruby (charSpan 3): はくぶつかん}博物館の{ruby (charSpan 1): ほう}方は{pause 30}	{emote: Agreement}{ruby (charSpan 2): じゆう}自由に{ruby (charSpan 1): はい}入れますので、{pause 16}	{ruby (charSpan 1): よ}良かったら　お{ruby (charSpan 1): た}立ち{ruby (charSpan 1): よ}寄りくださいね
+"010"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"011"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"012"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"013"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"014"
+"016"	{emote: Fearful}{ruby (charSpan 1): そと}外に{ruby (charSpan 1): で}出たら、{pause 16}きっと　	ムシとか　いますよね{pause 8}・{pause 8}・{pause 8}・{Wait for input}だから　わたくし、{pause 16}	こうして　ず～っと{pause 30}	キャンピングカーの{ruby (charSpan 1): なか}中に　いるんです{Wait for input}{emote: Alarmed}あれ{pause 8}・{pause 8}・{pause 8}・{pause 8}そういえば、	わたくしは、いったい{pause 30}	{emote: Curious}{ruby (charSpan 1): なに}何しに　ここへ{ruby (charSpan 1): き}来たんですかね？
+"017"	{emote: Happiness}わたくし、{pause 8}{ruby (charSpan 2): ふだん}普段は　{ruby (charSpan 3): はくぶつかん}博物館で{pause 16}	お{ruby (charSpan 2): しごと}仕事をしているんですが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Agreement}お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りの{ruby (charSpan 1): ふく}服とか、{ruby (charSpan 1): た}食べ{ruby (charSpan 1): もの}物とか{pause 30}	{ruby (charSpan 3): こじんてき}個人的な{ruby (charSpan 1): もの}物を　{ruby (charSpan 2): きぞう}寄贈しようとする{ruby (charSpan 1): かた}方が{pause 16}	{ruby (charSpan 2): けっこう}結構　いらっしゃるんですよ	{emote: Thought}{pause 16}{ruby (charSpan 3): はくぶつかん}博物館に　{ruby (charSpan 2): てんじ}展示するものは、{pause 30}	{ruby (charSpan 3): ぶんかてき}文化的に　{ruby (charSpan 2): こうせい}後世に{ruby (charSpan 1): のこ}残すべき{ruby (charSpan 2): かち}価値あるものだと{pause 30}	{ruby (charSpan 2): なんど}何度も　お{ruby (charSpan 1): つた}伝えしているんですけど{pause 8}・{pause 8}・{pause 8}・
+"018"	{emote: Fearful}{pause 16}あ～　{pause 16}ヤダヤダ{pause 8}・{pause 8}・{pause 8}・{pause 16}	{ruby (charSpan 2): おくがい}屋外で　たき{ruby (charSpan 1): び}火なんかしたら、{pause 16}	ムシが{ruby (charSpan 1): あつ}集まってきちゃうじゃないですか～	{emote: Bashful}{pause 16}そもそも、わたくし{pause 30}	アウトドアって　{ruby (charSpan 2): にがて}苦手なんですよね{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}あれ{pause 8}・{pause 8}・{pause 8}・{pause 30}{emote: Thought}{pause 16}そういえば{pause 8}	なんで　わたくしは、{pause 16}	ここに　いるんでしたっけ？
+"019"	{emote: Happiness}こうやって、{ruby (charSpan 3): はくぶつかん}博物館を{ruby (charSpan 1): はな}離れて{pause 30}	のんびりしていると{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sleepy}{pause 16}{ruby (charSpan 2): こころお}心置きなく{pause 8}・{pause 8}・{pause 8}・{pause 30}　	{emote: Sleep Bubble}{pause 16}{ruby (charSpan 1): ねむ}眠ることが　できますね{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Alarmed}わわっ、{pause 8}{ruby (charSpan 2): しつれい}失礼しました！
+"020"	このキャンプ{ruby (charSpan 1): ち}地にも、{pause 8}	{ruby (charSpan 2): せいめい}生命を{ruby (charSpan 2): たんじょう}誕生させ　{ruby (charSpan 1): はぐく}育む{ruby (charSpan 1): みず}水が{pause 16}	{emote: Soft Smile}{ruby (charSpan 1): なが}流れていますよね{pause 8}・{pause 8}・{pause 8}・	{emote: Agreement}{ruby (charSpan 1): みず}水は　{ruby (charSpan 1): つち}土や{ruby (charSpan 1): すな}砂を{ruby (charSpan 1): はこ}運び、{ruby (charSpan 2): どしゃ}土砂を{ruby (charSpan 1): う}生みます{pause 30}	そして{ruby (charSpan 2): なんねん}何年もかけて、{pause 8}{ruby (charSpan 2): たいせき}堆積した{ruby (charSpan 2): どしゃ}土砂の{ruby (charSpan 1): なか}中の	{ruby (charSpan 1): みず}水や{ruby (charSpan 2): くうき}空気が{pause 8}　{ruby (charSpan 2): あつりょく}圧力で{ruby (charSpan 1): お}押し{ruby (charSpan 1): だ}出され{pause 8}・{pause 8}・{pause 8}・	{emote: Agreement}{ruby (charSpan 2): どしゃ}土砂に{ruby (charSpan 1): と}閉じ{ruby (charSpan 1): こ}込められた　{ruby (charSpan 3): どうしょくぶつ}動植物が、{pause 16}	{ruby (charSpan 2): さいてい}最低2000{ruby (charSpan 1): ねん}年かけて{pause 8}　{ruby (charSpan 2): かせき}化石となるんです！{pause 30}	・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}やややっ！　{Wait for input}{emote: Distress}ス、{pause 8}スミマセン！{pause 16}	わたくし、{pause 8}また{ruby (charSpan 2): こむずか}小難しいことを	{ruby (charSpan 1): はな}話してしまいましたか？　

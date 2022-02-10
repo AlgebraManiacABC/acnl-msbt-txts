@@ -1,40 +1,40 @@
 == 0 ==
-"001"	{emote: Reset}
-"002"	{emote: Shocked}
-"003"	{emote: Happiness}
-"004"	{emote: Alarmed}
-"005"	{emote: Worry}
-"006"	{emote: Worry}
-"007"	{emote: Anger}
-"008"	{emote: Bashful}
-"009"	{emote: Distress}
-"010"	{emote: Distress}
-"011"	{emote: Reset}
-"012"	{emote: Worry}
-"013"	{emote: Agreement}
-"014"	{emote: Thought}
-"015"	{emote: Reset}
-"016"	{0009-0001-0006-11-00-12-00-13-00}
-"017"	{emote: Disbelief}
-"018"	{emote: Happiness}
-"019"	{emote: Distress}
-"020"	{0009-0001-0006-15-00-16-00-17-00}
-"021"	{emote: Sadness}
-"022"	{emote: Alarmed}
-"023"	{emote: Anger}
-"024"	{0009-0001-0006-19-00-1a-00-1b-00}
-"025"	{emote: Alarmed}
-"026"	{emote: Worry}
-"027"	{emote: Worry}
-"028"	{0009-0001-0006-1d-00-1e-00-1f-00}
-"029"		{0000-0002-0002-ffffffc8-00}{0007-000b-0000}
-"030"	{emote: Worry}
-"031"	{emote: Reset}
-"032"	{0009-0001-0006-21-00-22-00-23-00}
-"033"	{emote: Alarmed}
-"034"	{emote: Surprise}
-"035"	{emote: Agreement}
-"036"	{emote: Happiness}
-"037"	{emote: Alarmed}
-"038"	{emote: Alarmed}
-"039"	{emote: Resigned}
+"001"	{emote: Reset}{ruby (charSpan 1): み}身もフタもねぇ　{ruby (charSpan 2): しつもん}質問をするが、{pause 15}	{emote: Curious}{ruby (charSpan 1): かま}構わねぇかな？{Wait for input}{emote: Reset}{ruby (charSpan 2): しょうじき}正直なところ、{pause 8}オメェ{pause 15}	オレのこと　どう{ruby (charSpan 1): おも}思ってる？{0008-000a-0010-0002-0003-0003-0003-0004-0004-0005-0006}	{ruby (charSpan 1): やさ}優しい	コワイ
+"002"	{emote: Shocked}げっ！{pause 20}	や、{pause 8}{ruby (charSpan 1): やさ}優しいってか？！{0009-0002-0008-0007-0008-0009-000a}
+"003"	{emote: Happiness}オメェも　ちったぁ{pause 8}　オレのことが	わかってきたか、{pause 15}{Player nickname (green)}！{Wait for input}{emote: Mischief}{ruby (charSpan 2): ぎり}義理と　{ruby (charSpan 2): にんじょう}人情と{pause 8}　やせ{ruby (charSpan 2): がまん}我慢！{Wait for input}	{emote: Agreement}{ruby (charSpan 1): おとこ}男の{ruby (charSpan 1): みち}道の　まん{ruby (charSpan 1): ま}真ん{ruby (charSpan 1): なか}中を{ruby (charSpan 1): ある}歩く、{pause 20}	オレぁ{pause 8}　{ruby (charSpan 1): あつ}熱い{ruby (charSpan 1): おとこ}男なのさ！
+"004"	{emote: Alarmed}なんだそりゃ？{Wait for input}	{emote: Worry}また　ずいぶんと{pause 8}　ハンパな{ruby (charSpan 1): かん}感じだなぁ{0009-0002-0008-000b-000c-000d-000e}
+"005"	{emote: Worry}・{pause 8}・{pause 8}・{pause 8}うーん、{Wait for input}	やっぱオメェも{pause 8}　オレが　コワイのかい{Wait for input}	{emote: Reset}{ruby (charSpan 1): ひと}人は　{ruby (charSpan 1): み}見かけ{ruby (charSpan 1): どお}通りとは{pause 8}　{ruby (charSpan 1): かぎ}限らねぇんだぜ{Wait for input}{ruby (charSpan 1): やさ}優しさとか　{ruby (charSpan 2): まごころ}真心ってぇのは{pause 20}	{emote: Agreement}じんわりと　{ruby (charSpan 2): じかん}時間をかけて{pause 8}	{ruby (charSpan 1): つた}伝わっていくモンなのさ{Wait for input}{emote: Reset}そういうモンが　あれば{pause 20}	の{ruby (charSpan 1): はなし}話だけどな、{pause 20}{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}
+"006"	{emote: Worry}なるほどなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Agreement}{ruby (charSpan 2): ことば}言葉づかいが　こんなふうだから{pause 15}	そう{ruby (charSpan 1): おも}思われても　ムリは　ねぇか{Wait for input}・{pause 8}・{pause 8}・{emote: Alarmed}{pause 8}まてよ！？{Wait for input}	{emote: Reset}まさか　オメェ、{pause 8}{emote: Anger}{ruby (charSpan 1): かお}顔で{ruby (charSpan 2): はんだん}判断してるんじゃ	ねぇだろうな？{pause 20}　{catchphrase}？
+"007"	{emote: Anger}からかうんじゃねぇよ！{Wait for input}	{emote: Distress}{ruby (charSpan 1): めん}面と{ruby (charSpan 1): む}向かって　そんなこと{ruby (charSpan 1): い}言われると{pause 8}	{ruby (charSpan 1): て}照れちまうぜ、{pause 20}{catchphrase}
+"008"	{emote: Bashful}まいっちまうなぁ！{Wait for input}	そんなふうに　{ruby (charSpan 1): おも}思われてるたぁ{pause 15}	{ruby (charSpan 1): おも}思ってもみなかったぜ{Wait for input}{emote: Reset}{ruby (charSpan 1): べつ}別に　{ruby (charSpan 1): やさ}優しくしようなんて{pause 8}	{ruby (charSpan 2): いしき}意識したことなんかねぇよ{Wait for input}	{emote: Happiness}{ruby (charSpan 2): じぶん}自分に{ruby (charSpan 2): しょうじき}正直に　{ruby (charSpan 1): く}暮らしてるだけさ
+"009"	{emote: Distress}おいおい、{pause 15}{ruby (charSpan 2): じょうだん}冗談は　よしてくれ！{Wait for input}	{emote: Reset}{ruby (charSpan 1): ほか}他のヤツに{ruby (charSpan 1): き}聞かれたら　どうすんだ、{pause 20}	{emote: Anger}オレのこと{pause 8}　もっと　コワがりやがれ！
+"010"	{emote: Distress}バカヤロー！{Wait for input}	{emote: Reset}{ruby (charSpan 2): ちょうし}調子　{ruby (charSpan 1): くる}狂っちまうじゃねぇか！{pause 20}	{emote: Sneezing}へぇーっくしょん！！
+"011"	{emote: Reset}オレぁ　そんなに{pause 8}	{ruby (charSpan 1): ねむ}眠たい{ruby (charSpan 1): おとこ}男なのかい？{emote: Curious}{pause 20}　{catchphrase}？
+"012"	{emote: Worry}まだまだ　オレには{pause 15}	パンチが{ruby (charSpan 1): た}足りねぇのかな{emote: Sigh}{pause 8}・{pause 8}・{pause 8}・
+"013"	{emote: Agreement}オレぁ{pause 8}　イザってときに{pause 15}	{ruby (charSpan 2): じつりょく}実力を{ruby (charSpan 1): だ}出すタイプだからよ、{Wait for input}	{emote: Reset}ふだんは　どうってことねぇのよ
+"014"	{emote: Thought}ボヤボヤしてらんねぇな{Wait for input}	{emote: Aggravation}よーし、{pause 20}もっともっと{pause 8}	{ruby (charSpan 1): おとこ}男をみがくぜ！{pause 20}　{catchphrase}！
+"015"	{emote: Reset}なぁ　{Player nickname (green)}、{pause 20}	オレのことを　{ruby (charSpan 2): どうぶつ}動物に　たとえると{pause 8}	{emote: Curious}なんだと{ruby (charSpan 1): おも}思う？{0008-0003-0014-0010-0000-0014-0000-0018-0000-001c-0000-0020-0000}	{0005-001f-0002-cd00}	たぬき	キツネ	もぐら	ハト
+"016"	{0009-0001-0006-0011-0012-0013}
+"017"	{emote: Disbelief}フガッ！{pause 25}	{emote: Anger}{ruby (charSpan 1): み}見たまんまかよ！
+"018"	{emote: Happiness}だろ？{pause 15}	よく{ruby (charSpan 1): い}言われるんだよなぁ{pause 8}・{pause 8}・{pause 8}・{pause 8}って{emote: Reset}{pause 15}	{emote: Anger}{ruby (charSpan 1): み}見たまんまじゃねぇか！
+"019"	{emote: Distress}やべぇ、{pause 15}バレバレかよ{pause 8}・{pause 8}・{pause 8}・
+"020"	{0009-0001-0006-0015-0016-0017}
+"021"	{emote: Sadness}うー{pause 8}む{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Worry}オレぁ　そんなに{pause 8}　{ruby (charSpan 1): はら}腹が{ruby (charSpan 1): で}出てるのかい？
+"022"	{emote: Alarmed}そうかい？{pause 20}	{emote: Reset}オレぁ　{ruby (charSpan 2): しょうばい}商売ってモンには{pause 8}	まるで{ruby (charSpan 2): かんしん}関心が　ねぇんだがなぁ
+"023"	{emote: Anger}オレぁ　{ruby (charSpan 1): ひと}人をダマすような{pause 8}	{ruby (charSpan 1): おとこ}男じゃねぇぞ？！
+"024"	{0009-0001-0006-0019-001a-001b}
+"025"	{emote: Alarmed}オレぁ　そんなに{ruby (charSpan 2): はらぐろ}腹黒くねぇよ？{pause 20}	{emote: Reset}いたって　{ruby (charSpan 1): ま}真っ{ruby (charSpan 2): しょうじき}正直な{ruby (charSpan 1): おとこ}男だぜ！
+"026"	{emote: Worry}オレぁ　そんなに{pause 8}	あやしい{ruby (charSpan 1): おとこ}男に　{ruby (charSpan 1): み}見えるのかい？
+"027"	{emote: Worry}オレが{ruby (charSpan 1): なに}何か　インチキでも{pause 8}	したっていうのかい？！
+"028"	{0009-0001-0006-001d-001e-001f}
+"029"		{Text size 200%}{0007-000b-0000}{emote: Aggravation}くらぁーーっ！{Text size 100%}{Wait for input}{emote: Anger}{ruby (charSpan 1): だれ}誰が　もぐらやねん！
+"030"	{emote: Worry}オレぁ　そんなに{pause 8}	{ruby (charSpan 1): おこ}怒りっぽく　{ruby (charSpan 1): み}見えるかい？
+"031"	{emote: Reset}もぐらと{ruby (charSpan 1): い}言えば、{pause 15}	もぐらの{ruby (charSpan 2): きょうだい}兄弟のこと　{emote: Curious}{ruby (charSpan 1): し}知ってるかい？{pause 30}	{emote: Reset}リセットと　ラケットな	{ruby (charSpan 1): み}見かけとは{ruby (charSpan 1): ちが}違って、{pause 15}	{emote: Agreement}{ruby (charSpan 2): あにき}兄貴のラケットの{ruby (charSpan 1): ほう}方が	{ruby (charSpan 1): じつ}実は　コワイらしいぜ
+"032"	{0009-0001-0006-0021-0022-0023}
+"033"	{emote: Alarmed}オレぁ　そんなに{pause 8}	{ruby (charSpan 2): ものしず}物静かな{ruby (charSpan 1): おとこ}男に　{ruby (charSpan 1): み}見えるのかい？
+"034"	{emote: Surprise}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Soft Smile}まめでっぽうを　{ruby (charSpan 1): く}食らった{pause 4}	ハトの{ruby (charSpan 1): かお}顔を　してみたんだが、{pause 8}	{emote: Sheepishness}イマイチだったか{pause 8}・{pause 8}・{pause 8}・
+"035"	{emote: Agreement}ふむふむ、{pause 15}	{ruby (charSpan 2): へいわ}平和のシンボルってワケかい？{pause 20}	{emote: Happiness}へへっ、{pause 8}{ruby (charSpan 1): わる}悪くねぇな！
+"036"	{emote: Happiness}なぁ　{Player nickname (green)}、{pause 20}	うどんと　そばなら{pause 15}	オメェは{emote: Curious}　どっちが{ruby (charSpan 1): す}好きだ？{Player can respond (0001):0025-0000-0026-0000-0027-0000}	うどん	そば	{ruby (charSpan 1): まよ}迷うなぁ・・・
+"037"	{emote: Alarmed}うどんかい？！{pause 20}{emote: Happiness}　イイねぇー！{Wait for input}	{emote: Glee}コシのあるうどんの{pause 8}　{ruby (charSpan 2): しょっかん}食感とのど{ruby (charSpan 1): ご}越し、{pause 20}	たまんねぇよなー！	{emote: Happiness}{ruby (charSpan 1): ゆ}湯がきたてに{pause 15}　おろししょうがと{pause 8}	しょう{ruby (charSpan 1): ゆ}油を{pause 8}　ちょこっと{ruby (charSpan 1): た}垂らして{ruby (charSpan 1): く}食うのも{pause 15}	なかなか　オツなもんだぜー！	{emote: Worry}あー、{pause 15}{ruby (charSpan 1): はら}腹が{ruby (charSpan 1): へ}減ってきた{pause 8}・{pause 8}・{pause 8}・
+"038"	{emote: Alarmed}そばかい？！{pause 20}{emote: Happiness}　イイねぇー！{Wait for input}	{emote: Glee}{ruby (charSpan 1): あった}温かい　そばもいいが{pause 15}	やっぱ　ここは{pause 8}　{ruby (charSpan 1): も}盛りそばだろ？！	{emote: Joy}つゆに　あまりつけずに{pause 15}	ズルズルすすったときの{pause 8}　そばの{ruby (charSpan 1): かお}香りと{pause 8}	ツーンとくる　わさびの{ruby (charSpan 2): しげき}刺激！	たまんねぇよなー！{Wait for input}{emote: Happiness}つゆにつけずに　{ruby (charSpan 1): しお}塩だけで{ruby (charSpan 1): く}食うのも{pause 20}	そばの{ruby (charSpan 1): かお}香りを　たっぷり{ruby (charSpan 1): たの}楽しめて{pause 8}	なかなか　オツなもんだぜー！	{emote: Worry}あー、{pause 15}{ruby (charSpan 1): はら}腹が{ruby (charSpan 1): へ}減ってきた{pause 8}・{pause 8}・{pause 8}・
+"039"	{emote: Resigned}ったく　オメェってヤツは{pause 30}	{emote: Anger}こんなことで　{ruby (charSpan 1): まよ}迷ってんじゃねぇよ！{pause 30}	メンが{emote: Aggravation}　のびちまうだろーが！

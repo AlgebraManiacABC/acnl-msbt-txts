@@ -1,27 +1,27 @@
 == 0 ==
-"001"	맞다ー!{pause 20}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{0009-0003-000a-05-00-06-00-07-00-08-00-09-00}
-"005"	{emote: Happiness}
-"006"	{emote: Anger}
-"007"	{emote: Happiness}
-"008"	{Town name (pink)}
-"009"	마을 선착장에	신기하게 생긴 배가 나타났대!{0000-0004-0000}!
-"010"	
-"011"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"012"	{0009-0001-0006-10-00-11-00-12-00}
-"013"	{pause 8}
-"014"	{pause 8}
-"015"	{pause 8}
-"016"	{emote: Alarmed}
-"017"	{emote: Sadness}
-"018"	{emote: Sadness}
-"019"	{0009-0001-0006-15-00-16-00-17-00}
-"020"	{0009-0001-0006-18-00-19-00-1a-00}
-"021"	{emote: Happiness}
-"022"	{emote: Sunny}
-"023"	{emote: Happiness}
-"024"	{emote: Worry}
-"025"	{emote: Glare}
-"026"	{emote: Distress}
+"001"	맞다ー!{pause 20}	{emote: Curious}너도 그 얘기 들었냐ー?
+"002"	{emote: Happiness}마침 잘 만났다!{pause 20}	안 그래도 너한테 할 말이 있었어ー!
+"003"	{emote: Happiness}내가 좋은 거 하나{pause 30}	가르쳐줄까ー?
+"004"	{0009-0003-000a-0005-0006-0007-0008-0009}
+"005"	{emote: Happiness}오늘이 4월의 첫날이라서{pause 20}	{Orange}여울{Color Reset}이가 우리 마을 녀석들	모두에게 용돈을 준대!{Wait for input}{emote: Surprise}{0007-000b-0000}놀라지 마라!{pause 40}	1명당 100만벨씩 줄 거래!{Wait for input}	{emote: Happiness}빨리 받으러 가자ー!{Player can respond (0005):000b-0000-000c-0000}	만세ー!	거짓말이지?
+"006"	{emote: Anger}드디어 우리 마을에서{pause 20}	스포츠맨 조약이	체결되었대!{Wait for input}{emote: Reset}그러니까 마을 안에서	{0005-0011-0002-0000} 선수 같은	녀석을 발견하면{Wait for input}{emote: Happiness}싱글벙글 미소를 지으며	악수를 하도록 해, {pause 8}{catchphrase}{Player can respond (0005):000b-0000-000c-0000}	OK, 알았어	거짓말!
+"007"	{emote: Happiness}다음 달에{pause 20} 우리 마을에서	완전 거대한 행사를 열기로 했대!{Wait for input}{emote: Pride}그 이름은 바로{pause 20}	{Town name (pink)} 마을 대운동회!{Wait for input}{emote: Glee}엄청 큰 경기장 같은 걸{pause 20}	오늘부터 마을 곳곳에	짓기 시작한다더라, {pause 8}{catchphrase}!{Player can respond (0005):000b-0000-000c-0000}	정말 기대된다!	뻥이지?
+"008"	{Town name (pink)} 마을의	지금 마을멜로디 CD가{pause 20}	100만 장 이상 팔렸대!{Wait for input}{emote: Happiness}그걸 작곡한 사람한테{pause 20}	매달 어마어마한 돈이	들어온다더라ー!{Player can respond (0005):000b-0000-000c-0000}	굉장하다!	거짓말이지?
+"009"	마을 선착장에	신기하게 생긴 배가 나타났대!{Wait for input}{emote: Fearful}새까맣고{pause 20} 날개가 있는데{pause 20}	뱃머리의 구멍으로 불을 뿜는 게	꼭 용처럼 생겼다지 뭐냐!{pause 40}{emote: Worry}{Player can respond (0005):000b-0000-000c-0000}	나도 보러 갈래!	그걸 나더러 믿으라고?
+"010"
+"011"	{0009-0001-0006-000d-000e-000f}
+"012"	{0009-0001-0006-0010-0011-0012}
+"013"	{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Laughter}하하핫!{pause 20}	속았다,{pause 8} 속았어ー!{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}방금 그건	내가 밤새 생각한{pause 20}	비장의 거짓말이었지롱ー!
+"014"	{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Laughter}아싸ー!{pause 20}	완전 속았지ー?{pause 40}	오늘 만우절이잖아ー!{pause 40}{emote: Happiness}
+"015"	{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Resigned}미안{pause 20}	방금 그거 다 거짓말이야ー!
+"016"	{emote: Alarmed}{0007-000b-0000}허걱!!{pause 20}	어떻게 알았지?!
+"017"	{emote: Sadness}쳇{pause 8}・{pause 8}・{pause 8}・{pause 20}	이거 안 통하네ー!
+"018"	{emote: Sadness}에이, 뭐야!{pause 20}	안 속잖아{pause 8}・{pause 8}・{pause 8}・
+"019"	{0009-0001-0006-0015-0016-0017}
+"020"	{0009-0001-0006-0018-0019-001a}
+"021"	{emote: Happiness}헤헤헷!{pause 20}	들킬락말락하는{pause 20}	이 조마조마한 느낌!{Wait for input}{emote: Glee}이래서{pause 20} 만우절이 좋다니까ー!
+"022"	{emote: Sunny}녀석, 순진하기는!{pause 40}	{emote: Agreement}하지만{pause 20} 난 그것도 너의	장점이라고 생각해, {pause 8}{catchphrase}
+"023"	{emote: Happiness}실망했다면 미안하다,{pause 20}	{Player nickname (green)}!
+"024"	{emote: Worry}내 거짓말 실력이{pause 20}	영 별로였냐ー?
+"025"	{emote: Glare}그래도 너{pause 20} 아까 순간적으로	눈빛이 흔들렸지?{pause 15}	내 눈은 못 속여!
+"026"	{emote: Distress}분하다ー!{pause 40}	더 그럴싸한 거짓말을	생각해 내야겠어ー!

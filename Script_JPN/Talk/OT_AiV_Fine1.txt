@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Alarmed}
-"003"	{emote: Surprise}
-"004"	{emote: Happiness}
-"005"	{emote: Soft Smile}
-"006"	{emote: Alarmed}
-"007"	{emote: Alarmed}
-"008"	{emote: Shocked}
-"009"	{emote: Soft Smile}
-"010"	{emote: Sigh}
+"001"	{emote: Happiness}{Greeting begin}おはよう！　{pause 8}{Player name}{0005-000d-0000}！{Greeting end}{pause 12}	{ruby (charSpan 1): あさ}朝から　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たの？	{pause 8}{catchphrase}？
+"002"	{emote: Alarmed}あら、{pause 8}{Player name}{0005-000d-0000}！{pause 32}	{emote: Soft Smile}{Town name (pink)}{ruby (charSpan 1): むら}村へ　ようこそ！
+"003"	{emote: Surprise}あら、{pause 8}{Player name}{0005-000d-0000}じゃない？{pause 32}	{emote: Happiness}わざわざ　{ruby (charSpan 1): たず}訪ねて{ruby (charSpan 1): き}来てくれたのね！	{pause 8}{catchphrase}！
+"004"	{emote: Happiness}まぁ、{pause 8}{Player name}{0005-000d-0000}{pause 12}	いらっしゃい、{pause 8}{catchphrase}！
+"005"	{emote: Soft Smile}あら、{pause 8}{Player name}{0005-000d-0000}{pause 12}	こんばんは！{Wait for input}{emote: Worry}アナタが　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てるって	{ruby (charSpan 1): き}気づかなかったわ、{pause 8}{catchphrase}
+"006"	{emote: Alarmed}まぁ、{pause 8}{Player name}{0005-000d-0000}{pause 32}	{emote: Glare}{Town name (pink)}{ruby (charSpan 1): むら}村で　	{ruby (charSpan 1): よる}夜の　お{ruby (charSpan 2): さんぽ}散歩かしら？　{pause 8}{catchphrase}？
+"007"	{emote: Alarmed}あら～、{pause 8}	{Player name}{0005-000d-0000}じゃない？{Wait for input}{emote: Worry}もう　ずいぶん{ruby (charSpan 1): おそ}遅い{ruby (charSpan 2): じかん}時間だけど、{pause 12}	{emote: Glare}{ruby (charSpan 2): きょう}今日は　{Town name (pink)}{ruby (charSpan 1): むら}村で{pause 8}	{ruby (charSpan 1): よる}夜を　{ruby (charSpan 1): あ}明かすつもり？　{pause 8}{catchphrase}？
+"008"	{emote: Shocked}キャッ！{pause 32}	{emote: Worry}なんだ、{pause 8}{Player name}{0005-000d-0000}か{Wait for input}{emote: Distress}こんな{ruby (charSpan 2): じかん}時間に　よその{ruby (charSpan 1): むら}村の{ruby (charSpan 1): ひと}人と	{ruby (charSpan 2): であ}出会ったら、{pause 12}そりゃ	{ruby (charSpan 1): だれ}誰だって{ruby (charSpan 1): おどろ}驚くわよ～！　{pause 8}{catchphrase}！
+"009"	{emote: Soft Smile}まさか　{ruby (charSpan 2): ゆうぐ}夕暮れ{ruby (charSpan 1): どき}時に{pause 8}	アナタに　{ruby (charSpan 1): あ}会えるなんて{pause 8}・{pause 8}・{pause 8}・	うれしいわ、{pause 8}{catchphrase}
+"010"	{emote: Sigh}{pause 60}{ruby (charSpan 2): ゆうがた}夕方の{ruby (charSpan 3): じかんたい}時間帯って、{pause 20}なんだか	{ruby (charSpan 1): せつ}切ない{ruby (charSpan 2): きも}気持ちになるのよね、	{pause 8}{catchphrase}

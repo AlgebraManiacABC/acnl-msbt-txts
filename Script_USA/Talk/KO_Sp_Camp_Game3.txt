@@ -1,60 +1,60 @@
 == 0 ==
-"001"	Hey, I have an idea.{pause 15}
-"002"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"003"	It says {Blue}{Number (0x9)} Bells{Color Reset}!{Wait for input}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Surprise}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
-"009"	{emote: Worry}
-"010"	{emote: Worry}
-"011"	{emote: Worry}
-"012"	All right, let's find out what price is	written on the  card{pause 8}
-"013"	Great, let's find out what price is	written on the  card{pause 8}
-"014"	OK, let's find out what price is	written on the  card{pause 8}
-"015"	Cool, let's find out what price is	written on the  card{pause 8}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
+"001"	Hey, I have an idea.{pause 15} Why don't we	take your {0011-0003-0002-0000}	{emote: Happiness}and play a game?	How about Pick a Bell, Any Bell?{Wait for input}{emote: Reset}In my hand, I have 4 cards.	                  {pause 8} {pause 15} {pause 15} {pause 15} {pause 15}	{emote: Agreement}Each one has a price written on it.	{emote: Reset}The price on the card you pick	is the price I'll {emote: Happiness}pay for your	{0011-0003-0002-0000}!	{0007-000d-0000}{emote: Reset}Depending on the outcome,{pause 8} I might	end up paying a very, {pause 8}very large	amount for that item. {emote: Curious}So? Shall we?{Player can respond (0005):0007-0015-0002-0028}	Let's do it!	Not right now...
+"002"	{0009-0002-0008-0008-0009-000a-000b}
+"003"	It says {Blue}{Number (0x9)} Bells{Color Reset}!{Wait for input} {emote: Sadness}Awww,{pause 15} well,	that worked out great for you!{Wait for input}{emote: Worry}This is gonna bite into my traveling	budget, but rules are rules{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Reset}Here ya go—{pause 8}{Blue}{Number (0x9)} Bells{Color Reset}.
+"004"	{emote: Surprise}It says {Blue}{Number (0x9)} Bells{Color Reset}!{Wait for input} {emote: Worry}Hmmm.{pause 15} You	picked a good one{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Happiness}Here ya go—{pause 15}{Blue}{Number (0x9)} Bells{Color Reset}.
+"005"	{emote: Surprise}It says {Blue}{Number (0x9)} Bells{Color Reset}!{Wait for input} {emote: Happiness}Hee hee!{pause 15} That's	a good deal for me. Don't hate me,	OK?{pause 15} Here ya go—{pause 8}{Blue}{Number (0x9)} Bells{Color Reset}.
+"006"	{emote: Surprise}It says {Blue}{Number (0x9)} Bells{Color Reset}!{Wait for input}	{emote: Laughter}I've hit the jackpot!{Wait for input}{emote: Happiness}This might seem like a disaster to	you, but rules are rules, right?{pause 15}	Here ya go—{pause 8}{Blue}{Number (0x9)} Bells{Color Reset}.
+"007"	{emote: Happiness}All right!{pause 15} That's the spirit!{Wait for input}{emote: Reset}Just make sure you don't hold a	grudge over whatever price is	written on the card you pick!	Now,{pause 15} which card will you pick?{0008-0002-0010-000c-0000-000d-0000-000e-0000-000f-0000}	The  card.	The  card.	The  card.	The  card.
+"008"	{emote: Worry}Awww, {pause 15}that's a shame{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}By the way, the  card had	{Blue}{Number (0x9)} Bells{Color Reset} written on it.{Wait for input}{emote: Happiness}If you ever get some free time,{pause 8}	come play with me!{pause 20} {capitalized}{catchphrase}!
+"009"	{emote: Worry}Awww, {pause 15}that's a shame{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}By the way, the  card had	{Blue}{Number (0x9)} Bells{Color Reset} written on it.{Wait for input}{emote: Happiness}If you ever get some free time,{pause 8}	come play with me!{pause 20} {capitalized}{catchphrase}!
+"010"	{emote: Worry}Awww, {pause 15}that's a shame{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}By the way, the  card had	{Blue}{Number (0x9)} Bells{Color Reset} written on it.{Wait for input}{emote: Happiness}If you ever get some free time,{pause 8}	come play with me!{pause 20} {capitalized}{catchphrase}!
+"011"	{emote: Worry}Awww, {pause 15}that's a shame{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}By the way, the  card had	{Blue}{Number (0x9)} Bells{Color Reset} written on it.{Wait for input}{emote: Happiness}If you ever get some free time,{pause 8}	come play with me!{pause 20} {capitalized}{catchphrase}!
+"012"	All right, let's find out what price is	written on the  card{pause 8}.{pause 8}.{pause 8}.{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"013"	Great, let's find out what price is	written on the  card{pause 8}.{pause 8}.{pause 8}.{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"014"	OK, let's find out what price is	written on the  card{pause 8}.{pause 8}.{pause 8}.{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"015"	Cool, let's find out what price is	written on the  card{pause 8}.{pause 8}.{pause 8}.{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"016"	{emote: Happiness}You were pretty lucky!{pause 20} Let's play	again sometime,{pause 20} {catchphrase}!
+"017"	{emote: Happiness}But don't get cocky! I won't lose	next time,{pause 20} {catchphrase}!
+"018"	{emote: Happiness}Sometimes you win, sometimes you	lose!{pause 20} Let's play again when you get	the chance,{pause 20} {catchphrase}!
+"019"	{emote: Happiness}Hey, don't hold this against me.{pause 8}	Let's hang out sometime and play	again,{pause 20} {catchphrase}!
 == 1 ==
-"001"	Tengo una idea.{pause 15}
-"002"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"003"	Aquí dice "{Number (0x9)} {촃<0a>bayas<08>baya<0a>bayas}".{Wait for input}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Surprise}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
-"009"	{emote: Worry}
-"010"	{emote: Worry}
-"011"	{emote: Worry}
-"012"	Adelante,{pause 8}
-"013"	Fantástico,{pause 8}
-"014"	De acuerdo,{pause 8}
-"015"	Muy bien,{pause 8}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
+"001"	Tengo una idea.{pause 15} {emote: Happiness}¿Por qué no	jugamos al {Blue}juego de los precios{Color Reset}	con tu {0011-0003-0002-0000}?	{emote: Reset}Tengo cuatro ases en la mano:	                 {pause 8} {pause 15} {pause 15} {pause 15} {pause 15}	{emote: Agreement}Cada carta tiene un precio escrito.	{emote: Reset}Tú eliges una{pause 8} {emote: Happiness}y el precio que	ponga será lo que te pague	por tu {0011-0003-0002-0000}.	{0007-000d-0000}{emote: Reset}Según lo que salga,{pause 8} igual te	acabo pagando una fortuna.{pause 15}	{emote: Curious}¿Quieres jugar?{Player can respond (0005):0007-0015-0002-0028}	¡Vamos allá!	Ahora no...
+"002"	{0009-0002-0008-0008-0009-000a-000b}
+"003"	Aquí dice "{Number (0x9)} {bayas/baya/bayas}".{Wait for input}	{emote: Sadness}Vaya,{pause 15} qué bien te ha salido.{Wait for input}{emote: Worry}Adiós vacaciones{pause 8}.{pause 8}.{pause 8}.{pause 8}	¡pero así son las reglas!{pause 25}	{emote: Reset}Aquí tienes,{pause 8} {Blue}{Number (0x9)} {bayas/baya/bayas}{Color Reset}.
+"004"	{emote: Surprise}Aquí dice "{Number (0x9)} {bayas/baya/bayas}".{pause 25} {emote: Worry}Pues	qué buena carta has elegido{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Happiness}Aquí tienes:{pause 15} {Blue}{Number (0x9)} {bayas/baya/bayas}{Color Reset}.
+"005"	{emote: Surprise}La carta dice "{Number (0x9)} {bayas/baya/bayas}".{Wait for input}{emote: Happiness}¡Eh, me va a salir barato!{pause 15}	No te enfades, ¿eh?{pause 15}	Toma:{pause 8} {Blue}{Number (0x9)} {bayas/baya/bayas}{Color Reset}.
+"006"	{emote: Surprise}Aquí dice "{Number (0x9)} {bayas/baya/bayas}".{Wait for input}	{emote: Laughter}¡Qué suerte he tenido!{Wait for input}{emote: Happiness}Las reglas son las reglas,{pause 8}	¡se siente!{pause 20} Aquí tienes:{pause 8}	{Blue}{Number (0x9)} {bayas peladas y mondadas/baya pelada y mondada/bayas peladas y mondadas}{Color Reset}.
+"007"	{emote: Happiness}¡Así me gusta,{pause 8} con decisión!{pause 15}{Wait for input}{emote: Reset}¡Pero luego no te enfades si sale	un precio que no te gusta!	Venga,{pause 8} ¿qué carta eliges?{0008-0002-0010-000c-0000-000d-0000-000e-0000-000f-0000}	El as de 	El as de 	El as de 	El as de 
+"008"	{emote: Worry}Vaaaya,{pause 15} qué pena{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Pues que sepas que el as de 	tenía escrito un precio de {Number (0x9)}	{bayas/baya/bayas}.{Wait for input}{emote: Happiness}¡Ya volveremos a jugar en otra	ocasión!{pause 20} ¡{capitalized}{catchphrase}!
+"009"	{emote: Worry}Vaaaya,{pause 15} qué pena{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Pues que sepas que el as de 	tenía escrito un precio de {Number (0x9)}	{bayas/baya/bayas}.{Wait for input}{emote: Happiness}¡Ya volveremos a jugar en otra	ocasión,{pause 8} {catchphrase}!
+"010"	{emote: Worry}Vayaaa,{pause 15} qué pena{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Pues que sepas que el as de 	tenía escrito un precio de {Number (0x9)}	{bayas/baya/bayas}.{Wait for input}{emote: Happiness}¡Ya jugaremos en otra ocasión!{pause 20}	¡{capitalized}{catchphrase}!
+"011"	{emote: Worry}Vaaaya,{pause 15} qué pena{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Pues que sepas que en el as de 	había escrito un precio de {Number (0x9)}	{bayas/baya/bayas}.{Wait for input}{emote: Happiness}¡Ya volveremos a jugar en otra	ocasión!{pause 20} ¡{capitalized}{catchphrase}!
+"012"	Adelante,{pause 8} vamos a ver qué precio	hay escrito en el as de {pause 8}.{pause 8}.{pause 8}.{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"013"	Fantástico,{pause 8} pues vamos a ver qué	precio hay escrito en la carta del	as de {pause 8}.{pause 8}.{pause 8}.{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"014"	De acuerdo,{pause 8} veamos qué precio	pone en el as de {pause 8}.{pause 8}.{pause 8}.{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"015"	Muy bien,{pause 8} ahora vamos a ver qué	precio hay escrito en el as de {pause 8}.{pause 8}.{pause 8}.{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"016"	{emote: Happiness}¡Te ha salido muy bien la jugada!{pause 20}	Ya repetiremos,{pause 8} {catchphrase}.
+"017"	{emote: Happiness}¡Que no se te suba a la cabeza!{pause 20}	La próxima vez se me dará mejor,{pause 8}	{catchphrase}.
+"018"	{emote: Happiness}A veces se gana{pause 8} y a veces se pierde{pause 8}	y tal.{pause 20} ¡A ver qué tal se te da la	próxima vez,{pause 8} {catchphrase}!
+"019"	{emote: Happiness}No me guardes rencor,{pause 8} ¿vale?{pause 20}	Ya jugaremos de nuevo otra vez	que quedemos,{pause 8} {catchphrase}.
 == 2 ==
-"001"	Hé, j'ai une idée.{pause 15}
-"002"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"003"	Ça dit {Number (0x9)} clochettes!{Wait for input}!
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Surprise}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
-"009"	{emote: Worry}
-"010"	{emote: Worry}
-"011"	{emote: Worry}
-"012"	Bien, voyons quelle somme était	écrite sur le {pause 8}
-"013"	Bien, voyons quelle somme était	écrite sur le {pause 8}
-"014"	Bien, voyons quelle somme était	écrite sur le {pause 8}
-"015"	Alors, voyons quelle somme était	écrite sur le {pause 8}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
+"001"	Hé, j'ai une idée.{pause 15} Je vois que tu as	{Article(word-dependant)}{0011-0003-0002-0000}, {emote: Happiness}ça te	dit de jouer à un super jeu?	Ça s'appelle « le prix pourrait être	le bon ».{Wait for input}{emote: Reset}J'ai quatre cartes dans ma main.	                  {pause 8} {pause 15} {pause 15} {pause 15} {pause 15}	{emote: Agreement}Chacune a un prix inscrit dessus.	{emote: Reset}Tu choisis l'une d'entre elles, et je	te paierai le prix inscrit dessus	pour {000e-0001-0000}{0011-0003-0002-0000}.	{0007-000d-0000}{emote: Reset}Si tu as un peu de chance,{pause 8} je te	paierai {pause 8}une somme énorme pour ton	objet. {emote: Curious}Alors, ça te tente?{Player can respond (0005):0007-0015-0002-0028}	Jouons!	Pas maintenant...
+"002"	{0009-0002-0008-0008-0009-000a-000b}
+"003"	Ça dit {Number (0x9)} clochettes!{Wait for input} {emote: Sadness}Ça se	passe bien pour toi, dis!{Wait for input}{emote: Worry}Je peux dire au revoir à mon budget	voyages, mais c'est le jeu{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Reset}Voici	tes {pause 8}{Blue}{Number (0x9)} clochettes{Color Reset}.
+"004"	{emote: Surprise}{Number (0x9)} clochettes!{Wait for input} {emote: Worry}Hmmm.{pause 15} Tu t'en	tires bien{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Happiness}Voilà {Blue}{Number (0x9)} clochettes{Color Reset}.
+"005"	{emote: Surprise}{Number (0x9)} clochettes!{Wait for input} {emote: Happiness}Hé hé!{pause 15} C'est une	bonne affaire pour moi, m'en veux	pas, hein!{pause 15} Tiens, {pause 8}{Blue}{Number (0x9)} clochettes{Color Reset}.
+"006"	{emote: Surprise}{Number (0x9)} clochettes!{Wait for input} {emote: Laughter}Wouhou,	jackpot!{Wait for input}{emote: Happiness}C'est un désastre pour toi, mais	les règles sont formelles : voici{pause 15}	{Blue}{Number (0x9)} clochettes{Color Reset}.
+"007"	{emote: Happiness}J'en attendais{pause 15} pas moins de toi!{Wait for input}{emote: Reset}Ne te fâche pas trop si la carte que	tu choisis porte un prix ridicule,	OK? Alors,{pause 15} que choisis-tu?{0008-0002-0010-000c-0000-000d-0000-000e-0000-000f-0000}	Le .	Le .	Le .	Le .
+"008"	{emote: Worry}Oh, {pause 15}quel dommage{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Au fait, le  valait	{Number (0x9)} clochettes.{Wait for input}{emote: Happiness}Si t'as un peu de temps libre, viens{pause 8}	donc jouer avec moi, {catchphrase}!
+"009"	{emote: Worry}Oh, {pause 15}quel dommage{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Au fait, le  valait	{Number (0x9)} clochettes.{Wait for input}{emote: Happiness}Si t'as du temps à perdre,{pause 8} reviens	jouer avec moi!{pause 20} {capitalized}{catchphrase}!
+"010"	{emote: Worry}Oh, {pause 15}dommage{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Au fait, le  valait	{Number (0x9)} clochettes.{Wait for input}{emote: Happiness}Si t'as du temps à perdre,{pause 8} reviens	jouer avec moi!{pause 20} {capitalized}{catchphrase}!
+"011"	{emote: Worry}Oh, {pause 15}dommage{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Au fait, le  valait	{Number (0x9)} clochettes.{Wait for input}{emote: Happiness}Si t'as du temps à perdre,{pause 8} reviens	jouer avec moi!{pause 20} {capitalized}{catchphrase}!
+"012"	Bien, voyons quelle somme était	écrite sur le {pause 8}.{pause 8}.{pause 8}.{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"013"	Bien, voyons quelle somme était	écrite sur le {pause 8}.{pause 8}.{pause 8}.{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"014"	Bien, voyons quelle somme était	écrite sur le {pause 8}.{pause 8}.{pause 8}.{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"015"	Alors, voyons quelle somme était	écrite sur le {pause 8}.{pause 8}.{pause 8}.{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"016"	{emote: Happiness}Quelle chance tu as!{pause 20} Allez,{pause 20} je t'en	veux pas, reviens jouer avec moi!	{capitalized}{catchphrase}!
+"017"	{emote: Happiness}Mais frime pas trop, tu t'en sortiras	pas aussi bien la prochaine fois,{pause 20}	{catchphrase}!
+"018"	{emote: Happiness}Des fois on gagne, des fois on perd!{pause 20}	Reviens jouer à l'occasion,{pause 20}	{catchphrase}!
+"019"	{emote: Happiness}Hé, sans rancune, OK?{pause 8} Tu peux	revenir quand tu veux,	{pause 20}{catchphrase}!

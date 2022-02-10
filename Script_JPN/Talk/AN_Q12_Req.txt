@@ -1,31 +1,31 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Soft Smile}
-"003"	{emote: Alarmed}
-"004"	{emote: Curious}
-"005"	{emote: Worry}
-"006"	{emote: Curious}
-"007"	{emote: Inspired}
-"008"	{emote: Inspired}
-"009"	{emote: Delight}
-"010"	
-"011"	{emote: Greetings}
-"012"	{emote: Greetings}
-"013"	{emote: Greetings}
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	{emote: Inspired}
-"022"	{emote: Inspired}
-"023"	{emote: Delight}
-"024"	{emote: Inspired}
-"025"	{emote: Inspired}
-"026"	{emote: Delight}
-"027"	{emote: Inspired}
-"028"	{emote: Inspired}
-"029"	{emote: Delight}
-"030"	{emote: Inspired}
+"001"	{emote: Alarmed}あ、{pause 8}そうだ{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Reset}{ruby (charSpan 1): いま}今ね、{pause 8}	{0012-0001-0000}って	{ruby (charSpan 2): しょめい}署名を　{ruby (charSpan 1): あつ}集めてるんだ！	{emote: Soft Smile}アンタ、{pause 8}もし	{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): い}行くことがあったら	{ruby (charSpan 2): きょうりょく}協力してくんない？	{emote: Agreement}{0012-0001-0000}　に	{ruby (charSpan 2): さんどう}賛同してくれる{ruby (charSpan 1): ひと}人から、{pause 8}	{ruby (charSpan 2): しょめい}署名を　もらってきて{ruby (charSpan 1): ほ}欲しいんだよ{000f-0005-0004-0015-0028}	いいよ！	{ruby (charSpan 1): いま}今はムリ～
+"002"	{emote: Soft Smile}ねぇ　{Player nickname (green)}、{pause 8}	ちょっと　ウチに	{ruby (charSpan 2): きょうりょく}協力してくれない？	{emote: Glare}{ruby (charSpan 1): じつ}実はさ{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 1): いま}今、{pause 8}	{0012-0001-0000}って	{ruby (charSpan 2): しょめい}署名を　{ruby (charSpan 1): あつ}集めてるんだ！	{emote: Soft Smile}もし　{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): むら}村に	{ruby (charSpan 1): い}行く{ruby (charSpan 2): よてい}予定が　あるなら、{pause 8}	{ruby (charSpan 2): しょめい}署名　{ruby (charSpan 1): あつ}集めてきてくれない？{000f-0005-0004-0015-0028}	まかせて！	{ruby (charSpan 2): きょう}今日はムリ
+"003"	{emote: Alarmed}あのさ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}アンタを　{ruby (charSpan 2): みこ}見込んで	{ruby (charSpan 1): たの}頼みたいことが　あるんだ	{emote: Agreement}ウチね、{pause 8}{ruby (charSpan 1): いま}今、	{0012-0001-0000}って	{ruby (charSpan 2): しょめい}署名を　{ruby (charSpan 1): あつ}集めてるんだ！	{emote: Soft Smile}そこでさ{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): むら}村に	{ruby (charSpan 1): い}行くことがあったら	{ruby (charSpan 2): しょめい}署名もらってきて　くれないかな？{000f-0005-0004-0015-0028}	おやすいごようだ！	{ruby (charSpan 1): いま}今はムリ・・・
+"004"	{emote: Curious}え～、そう？{pause 40}	{emote: Reset}それじゃ　しょうがない{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}{ruby (charSpan 1): ほか}他のヤツ　{ruby (charSpan 1): あ}当たってみるわ！　{pause 20}{catchphrase}！
+"005"	{emote: Worry}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Reset}そっか！{pause 40}	{emote: Soft Smile}まぁ、ダメ{ruby (charSpan 1): もと}元で　{ruby (charSpan 1): い}言っただけだし！{pause 20}	{ruby (charSpan 1): き}気にしないで！　{pause 20}{catchphrase}！
+"006"	{emote: Curious}あら、{pause 8}そうなの？{pause 40}	{emote: Reset}ちょっと　いきなり{ruby (charSpan 1): す}過ぎたかな！{pause 20}	{catchphrase}！
+"007"	{emote: Inspired}マジで？！{pause 20}　{ruby (charSpan 1): たす}助かる～！			{emote: Reset}そんじゃ、	{Blue}よその{ruby (charSpan 1): むら}村のヤツ{Color Reset}　{Blue}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の	{ruby (charSpan 2): しょめい}署名を　もらってきてね！	{emote: Soft Smile}{ruby (charSpan 2): しょめい}署名{ruby (charSpan 2): ようし}用紙も　{ruby (charSpan 1): わた}渡しとくよ
+"008"	{emote: Inspired}おー、ホント？{pause 40}	{emote: Reset}{ruby (charSpan 1): たす}助かるよ～！		{emote: Soft Smile}それじゃ、	{Blue}{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): むら}村{Color Reset}の　{Blue}{ruby (charSpan 2): じょし}女子{ruby (charSpan 2): げんてい}限定{Color Reset}で	{Blue}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の{ruby (charSpan 2): しょめい}署名を　もらってきてね！	{emote: Reset}{ruby (charSpan 2): しょめい}署名{ruby (charSpan 2): ようし}用紙も　{ruby (charSpan 1): わた}渡しとくよ！
+"009"	{emote: Delight}やったー！{pause 20}　{ruby (charSpan 3): きゅうせいしゅ}救世主！{pause 40}{emote: Soft Smile}			{emote: Agreement}そんじゃ、{pause 8}	よその{ruby (charSpan 1): むら}村の　{Blue}アネキなヤツ{Color Reset}　{ruby (charSpan 1): さが}探して{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Blue}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の{ruby (charSpan 2): しょめい}署名を　もらってきておくれ！	{emote: Soft Smile}{ruby (charSpan 2): しょめい}署名{ruby (charSpan 2): ようし}用紙も　わたしとくね！
+"010"
+"011"	{emote: Greetings}よろしく～！　{pause 20}{catchphrase}！
+"012"	{emote: Greetings}{ruby (charSpan 1): たの}頼むね！　{pause 20}{catchphrase}！
+"013"	{emote: Greetings}じゃあ　{ruby (charSpan 1): たの}頼むよ！　{pause 20}{catchphrase}！
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"020"
+"021"	{emote: Inspired}マジで？！{pause 20}　{ruby (charSpan 1): たす}助かる～！			{emote: Reset}そんじゃ、	よその{ruby (charSpan 1): むら}村の　{Blue}イヌっぽいやつ{Color Reset}	{Blue}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の{ruby (charSpan 2): しょめい}署名を　もらってきてね！	{emote: Soft Smile}{ruby (charSpan 2): しょめい}署名{ruby (charSpan 2): ようし}用紙も　{ruby (charSpan 1): わた}渡しとくよ
+"022"	{emote: Inspired}おー、{pause 8}ホント？{pause 40}	{emote: Reset}{ruby (charSpan 1): たす}助かるよ～！		{emote: Soft Smile}そんじゃ{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): むら}村の	{Blue}ネコっぽいやつ{Color Reset}、{Blue}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の	{ruby (charSpan 2): しょめい}署名を　{ruby (charSpan 1): あつ}集めてきておくれ！	{emote: Reset}{ruby (charSpan 2): しょめい}署名の　{ruby (charSpan 2): ようし}用紙、{pause 8}{ruby (charSpan 1): わた}渡しとくね
+"023"	{emote: Delight}やったー！{pause 10}　{ruby (charSpan 3): きゅうせいしゅ}救世主！{pause 40}{emote: Soft Smile}			{emote: Reset}そんじゃ、よその{ruby (charSpan 1): むら}村の	{Blue}リスっぽいヤツ{Color Reset}　{ruby (charSpan 2): げんてい}限定で{pause 20}	{Blue}{pause 10}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の　{ruby (charSpan 2): しょめい}署名を　もらってきてよ	{emote: Soft Smile}{ruby (charSpan 2): しょめい}署名の　{ruby (charSpan 2): ようし}用紙も、{pause 8}{ruby (charSpan 1): わた}渡しておくね！
+"024"	{emote: Inspired}マジで？！{pause 20}　{ruby (charSpan 1): たす}助かる～！			{emote: Reset}そんじゃ、	よその{ruby (charSpan 1): むら}村の　{Blue}ウサギっぽいやつ{Color Reset}	{Blue}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の{ruby (charSpan 2): しょめい}署名を　もらってきてね！	{emote: Soft Smile}{ruby (charSpan 2): しょめい}署名{ruby (charSpan 2): ようし}用紙も　{ruby (charSpan 1): わた}渡しとくよ
+"025"	{emote: Inspired}おー、{pause 8}ホント？{pause 40}	{emote: Reset}{ruby (charSpan 1): たす}助かるよ～！		{emote: Soft Smile}そんじゃ{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): むら}村の	{Blue}アヒルっぽいやつ{Color Reset}、{Blue}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の	{ruby (charSpan 2): しょめい}署名を　{ruby (charSpan 1): あつ}集めてきておくれ！	{emote: Reset}{ruby (charSpan 2): しょめい}署名の　{ruby (charSpan 2): ようし}用紙、{pause 8}{ruby (charSpan 1): わた}渡しとくね
+"026"	{emote: Delight}やったー！{pause 10}　{ruby (charSpan 3): きゅうせいしゅ}救世主！{pause 40}{emote: Soft Smile}			{emote: Reset}そんじゃ、よその{ruby (charSpan 1): むら}村の	{Blue}ネズミっぽいヤツ{Color Reset}　{ruby (charSpan 2): げんてい}限定で、	{Blue}{pause 10}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の　{ruby (charSpan 2): しょめい}署名を　もらってきてよ	{emote: Soft Smile}{ruby (charSpan 2): しょめい}署名の　{ruby (charSpan 2): ようし}用紙も、{pause 8}{ruby (charSpan 1): わた}渡しておくね！
+"027"	{emote: Inspired}マジで？！{pause 20}　{ruby (charSpan 1): たす}助かる～！			{emote: Reset}そんじゃ、	よその{ruby (charSpan 1): むら}村の　{Blue}カエルっぽいやつ{Color Reset}	{Blue}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の{ruby (charSpan 2): しょめい}署名を　もらってきてね！	{emote: Soft Smile}{ruby (charSpan 2): しょめい}署名{ruby (charSpan 2): ようし}用紙も　{ruby (charSpan 1): わた}渡しとくよ
+"028"	{emote: Inspired}おー、{pause 8}ホント？{pause 40}	{emote: Reset}{ruby (charSpan 1): たす}助かるよ～！		{emote: Soft Smile}そんじゃ{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): むら}村の	{Blue}ウマっぽいやつ{Color Reset}、{Blue}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の	{ruby (charSpan 2): しょめい}署名を　{ruby (charSpan 1): あつ}集めてきておくれ！	{emote: Reset}{ruby (charSpan 2): しょめい}署名の　{ruby (charSpan 2): ようし}用紙、{pause 8}{ruby (charSpan 1): わた}渡しとくね
+"029"	{emote: Delight}やったー！{pause 10}　{ruby (charSpan 3): きゅうせいしゅ}救世主！{pause 40}{emote: Soft Smile}			{emote: Reset}そんじゃ、よその{ruby (charSpan 1): むら}村の	{Blue}コグマっぽいヤツ{Color Reset}　{ruby (charSpan 2): げんてい}限定で、	{Blue}{pause 10}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の　{ruby (charSpan 2): しょめい}署名を　もらってきてよ	{emote: Soft Smile}{ruby (charSpan 2): しょめい}署名の　{ruby (charSpan 2): ようし}用紙も、{pause 8}{ruby (charSpan 1): わた}渡しておくね！
+"030"	{emote: Inspired}マジで？！{pause 20}　{ruby (charSpan 1): たす}助かる～！			{emote: Reset}そんじゃ、	よその{ruby (charSpan 1): むら}村の　{Blue}ペンギンっぽいやつ{Color Reset}	{Blue}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の{ruby (charSpan 2): しょめい}署名を　もらってきてね！	{emote: Soft Smile}{ruby (charSpan 2): しょめい}署名{ruby (charSpan 2): ようし}用紙も　{ruby (charSpan 1): わた}渡しとくよ

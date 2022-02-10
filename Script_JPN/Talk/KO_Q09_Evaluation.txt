@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Laughter}
-"005"	{emote: Reset}
-"006"	{emote: Shocked}
-"007"	{emote: Happiness}
-"008"	{emote: Thought}
-"009"	{emote: Sheepishness}
-"010"	{emote: Bashful}
-"011"	{emote: Happiness}
-"012"	{emote: Laughter}
+"001"	{emote: Alarmed}おっ、{pause 15}もう{ruby (charSpan 1): けぇ}帰るのか？！{Wait for input}{emote: Happiness}で、{pause 8}オレの{ruby (charSpan 2): へや}部屋はどうだった？{pause 30}	{ruby (charSpan 1): たの}楽しんでくれたのかい？{000f-0001-0006-0015-0000-0028}	サイコー！	まあまあ	イマイチ
+"002"	{emote: Alarmed}あっ、{pause 15}もう{ruby (charSpan 1): けぇ}帰るのか？{Wait for input}{emote: Happiness}で、{pause 8}どうだった、オレの{ruby (charSpan 2): へや}部屋？{pause 20}	{ruby (charSpan 1): すこ}少しは{ruby (charSpan 2): さんこう}参考になったのかい？！{000f-0001-0006-0015-0000-0028}	サイコー！	まあまあ	イマイチ
+"003"	{emote: Alarmed}なんだ、{pause 8}もう{ruby (charSpan 1): けぇ}帰るのか？！{Wait for input}{emote: Reset}だったら　その{ruby (charSpan 1): まえ}前にちょっと{pause 8}	{ruby (charSpan 2): かんそう}感想を　{ruby (charSpan 1): き}聞かせてくんねぇかな？{Wait for input}{emote: Happiness}オレの{ruby (charSpan 2): へや}部屋を{ruby (charSpan 1): み}見て　どう{ruby (charSpan 1): おも}思った？{000f-0001-0006-0015-0000-0028}	サイコー！	まあまあ	イマイチ
+"004"	{emote: Laughter}へへっ、{pause 8}そうかい？！{pause 20}	{emote: Happiness}そんなに　ホメても{pause 8}	{ruby (charSpan 1): なに}何も{ruby (charSpan 1): で}出てこねぇぞ？！	ま、{pause 8}センスの{ruby (charSpan 1): よ}良さが	オメェに　ちゃんと{ruby (charSpan 1): つた}伝わって{pause 15}	オレぁ　うれしいぜ、{pause 20}{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}
+"005"	{emote: Reset}おっと、{pause 15}	お{ruby (charSpan 2): せじ}世辞は　{ruby (charSpan 1): い}言わねぇってワケだな？{pause 20}	{emote: Happiness}{ruby (charSpan 2): じょうとう}上等だぜ、{pause 20}{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}
+"006"	{emote: Shocked}あんだと？{pause 8}{emote: Anger}　コノヤロ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Gray}{emote: Alarmed}いや、{pause 15}{emote: Thought}{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着け{pause 8}{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着け！{Color Reset}{Wait for input}{emote: Happiness}こりゃまた　ずいぶんカラクチだな？！{pause 20}	ま、{pause 8}{ruby (charSpan 1): かん}感じ{ruby (charSpan 1): かた}方は　{ruby (charSpan 1): ひと}人それぞれだしな、{pause 20}	{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}
+"007"	{emote: Happiness}へへっ、{pause 15}	エンリョするこたぁ　ねぇんだぜ？！
+"008"	{emote: Thought}なるほどねぇ{pause 8}・{pause 8}・{pause 8}・{pause 15}	{emote: Reset}なかなか　{ruby (charSpan 2): れいせい}冷静な{ruby (charSpan 2): いけん}意見かもなー
+"009"	{emote: Sheepishness}むむむ{pause 8}・{pause 8}・{pause 8}・{pause 15}	なかなか　{ruby (charSpan 2): てきび}手厳しいな、{pause 8}おい！{Wait for input}{emote: Distress}なんだか　{ruby (charSpan 2): むしょう}無性に{pause 15}	オメェん{ruby (charSpan 1): ち}家へ　{ruby (charSpan 1): い}行きたくなってきたぜ{pause 8}・{pause 8}・{pause 8}・
+"010"	{emote: Bashful}ははっ、{pause 8}	それほどでも　ねぇと{ruby (charSpan 1): おも}思うんだが{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}ありがとよ！{pause 20}　{catchphrase}！
+"011"	{emote: Happiness}へへっ、{pause 8}ありがとよ！{Wait for input}	{emote: Worry}オレもな、{pause 20}イマイチだってこたぁ{pause 8}	わかってるんだよ	{emote: Reset}まぁ　{ruby (charSpan 1): み}見といてくれ！{pause 20}	{emote: Happiness}そのうち　スゲェ{ruby (charSpan 2): へや}部屋を{pause 8}	{ruby (charSpan 1): み}見せてやるからよ！{pause 20}{emote: Laughter}　がーっはっは！{pause 30}{emote: Happiness}
+"012"	{emote: Laughter}がーっはっは！{pause 20}	{emote: Happiness}ガツンと　{ruby (charSpan 1): い}言われちまったか！{Wait for input}{emote: Mischief}オメェの　そういう{ruby (charSpan 2): しょうじき}正直なところは{pause 15}	キライじゃねぇぜ！{Wait for input}{emote: Happiness}ま、{pause 8}そのうち　アッと{ruby (charSpan 1): い}言わせてやるから{pause 15}	{ruby (charSpan 1): なが}長ぁ～～～～～～～～～～い{ruby (charSpan 1): め}目で{pause 8}	{ruby (charSpan 2): みまも}見守ってくんな、{pause 20}{catchphrase}！

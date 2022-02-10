@@ -1,14 +1,14 @@
 == 0 ==
-"001"	
-"002"	{emote: Glee}
-"003"	
-"004"	참참～{0007-0009-0004-14-00-00-00}
-"005"		{0007-000a-0000}
-"006"	{emote: Mistaken}
-"007"	{emote: Sheepishness}
-"008"	{emote: Surprise}
-"009"	{emote: Worry}
-"010"	{emote: Happiness}
-"011"	{emote: Worry}
-"012"	{emote: Happiness}
-"013"	{emote: Glee}
+"001"
+"002"	{emote: Glee}그럼{pause 10} 시작합니다～!		{Wait <005a 0000> 'time'}	{emote: Happiness}먼저{pause 10} 규칙을 설명해드릴게요{Wait for input}제가{pause 10} 「참참～」까지{pause 10}	구호를 외쳐드릴 테니까{pause 10}	 버튼을 눌러주세요	{emote: Soft Smile}제가 당신과 같은 방향을 쳐다보면{pause 10}	당신이 이기셨다는 뜻이에요{Wait for input}{emote: Happiness}기회는 3번까지랍니다!{pause 30}	위, 아래, 오른쪽, 왼쪽{pause 8}・{pause 8}・{pause 8}・{pause 20}	제가{pause 8} 어디로 고개를 돌릴지 맞혀보세요	{emote: Glee}그럼{pause 8} 정말로 시작합니다!
+"003"
+"004"	참참～{Wait <0014 0000> 'time'}
+"005"		{0007-000a-0000}{Text size 200%}참～!{Text size 100%}
+"006"	{emote: Mistaken}아이쿠!{pause 20}	{emote: Sheepishness}저도 모르게	당신을 따라 했어요!
+"007"	{emote: Sheepishness}틀리셨네요!{pause 20}	그럼 한 번 더!
+"008"	{emote: Surprise}저런{pause 8}・{pause 8}・{pause 8}・{pause 8}!	또 틀리셨군요{pause 20}	{emote: Happiness}이제 마지막이에요!
+"009"	{emote: Worry}우웅{pause 8}・{pause 8}・{pause 8}・{pause 20}	안타깝네요!
+"010"	{emote: Happiness}이렇게 되면{pause 10}	{emote: Delight}당신이 이기셨어요!
+"011"	{emote: Worry}최종 결과는{pause 8}・{pause 8}・{pause 8}・{pause 8}	저의{pause 10} 패배로군요
+"012"	{emote: Happiness}이렇게 되면{pause 10}	승자는 저예요!
+"013"	{emote: Glee}야호～!{pause 10}	제가 이겼어요, {pause 10}{catchphrase}!

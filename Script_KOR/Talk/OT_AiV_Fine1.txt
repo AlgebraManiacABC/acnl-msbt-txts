@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Alarmed}
-"003"	{emote: Surprise}
-"004"	{emote: Happiness}
-"005"	{emote: Soft Smile}
-"006"	{emote: Alarmed}
-"007"	{emote: Alarmed}
-"008"	{emote: Shocked}
-"009"	{emote: Soft Smile}
-"010"	{emote: Sigh}
+"001"	{emote: Happiness}{Greeting begin}안녕! {pause 8}{Player name}!{Greeting end}{pause 12}	아침부터 놀러 온 거야? {pause 8}{catchphrase}?
+"002"	{emote: Alarmed}앗, {pause 8}{Player name}! {pause 32}	{emote: Soft Smile}{Town name (pink)} 마을에 온 것을 환영해!
+"003"	{emote: Surprise}어머, {pause 8}{Player name}{000e-000e-0012-0008-c774-c796-c544-003f-0006-c796-c544-003f}{pause 32}	{emote: Happiness}여기까지 일부러 찾아온 거야～? {pause 8}{catchphrase}?
+"004"	{emote: Happiness}아니, 이게 누구야～	{pause 8}{Player name}{000e-000e-000e-0006-c774-c796-c544-0004-c796-c544}{pause 12}!	어서 와! {pause 8}{catchphrase}!
+"005"	{emote: Soft Smile}어머, {pause 8}{Player name}{pause 12}～	안녕!{Wait for input}{emote: Worry}언제 놀러 온 거야?	전혀 모르고 있었네～ {pause 8}{catchphrase}
+"006"	{emote: Alarmed}앗, {pause 8}{Player name}{pause 32}	{emote: Glare}{Town name (pink)} 마을에서 이 늦은 시간에	산책이라도 하는 거야? {pause 8}{catchphrase}?
+"007"	{emote: Alarmed}이게 누구야～{pause 8}	{Player name}{000e-000e-000e-0006-c774-c796-c544-0004-c796-c544}?{Wait for input}{emote: Worry}시간이 이렇게 늦었는데{pause 12}	{emote: Glare}오늘은 {Town name (pink)} 마을에서{pause 8}	밤새려고? {pause 8}{catchphrase}?
+"008"	{emote: Shocked}꺅!{pause 32}	{emote: Worry}뭐야, {pause 8}{Player name}{000e-000e-000e-0006-c774-ad6c-b098-0004-ad6c-b098}{Wait for input}{emote: Distress}이런 시간에 다른 마을 사람과	마주치면, {pause 12}내가 아니라 누구라도	깜짝 놀랄 거야! {pause 8}{catchphrase}!
+"009"	{emote: Soft Smile}해 질 무렵에{pause 8}	당신을 만나게 될 줄이야!{pause 20}	정말 반갑다～ {pause 8}{catchphrase}
+"010"	{emote: Sigh}{pause 60}해 질 무렵이 되면{pause 8}・{pause 8}・{pause 8}・{pause 20}	괜히 이유도 없이 슬퍼지지 않니?	{pause 8}{catchphrase}?

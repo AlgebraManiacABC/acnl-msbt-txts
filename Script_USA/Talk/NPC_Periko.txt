@@ -1,180 +1,180 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	Well, {pause 15}!
-"004"	Well, {pause 15}!
-"005"	OK.{pause 15}
-"006"	{emote: Happiness}
-"007"	
-"008"	{emote: Happiness}
-"009"	{emote: Worry}
-"010"	If you're visiting from another town,{pause 10}
-"011"	{emote: Worry}
-"012"	{emote: Alarmed}
-"013"	{emote: Alarmed}
-"014"	{emote: Alarmed}
-"015"	{emote: Worry}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Worry}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
+"001"	{emote: Happiness}Welcome to the{pause 10} {Town name (pink)} post	office!{Wait for input} {emote: Curious}{pause 10}What can I help you with	today?{000f-0007-0008-0000-0000-0000-0028}	Send mail.	Save mail.	Ask about a present.	Nothing.
+"002"	{emote: Happiness}Welcome to the{pause 10} {Town name (pink)} post	office!{Wait for input} {emote: Curious}{pause 10}What can I help you with	today?{000f-0005-0004-0000-0028}	Send mail.	Nothing.
+"003"	Well, {pause 15}{emote: Curious}is there anything else I can	help you with?{000f-0007-0008-0000-0000-0000-0028}	Send mail.	Save mail.	Ask about a present.	No, thanks.
+"004"	Well, {pause 15}{emote: Curious}is there anything else I can	{emote: Curious}{pause 10}help you with?{000f-0005-0004-0000-0028}	Send mail.	No, thanks.
+"005"	OK.{pause 15} {emote: Happiness}Well, please consider us for all	your future postal needs.
+"006"	{emote: Happiness}OK. {pause 10}Please wait a moment	while I save your mail for you.
+"007"
+"008"	{emote: Happiness}Sure thing.{pause 20} Who would you like to	send your mail to?{000f-0006-0006-0000-0000-0028}	Person in {Town name (pink)}.	My future self.	Never mind.
+"009"	{emote: Worry}That...{pause 20}um...{pause 8}might be a problem.{pause 30}{Wait for input}We still have letters to deliver, so I	can't take any letters for you right	now.{emote: Reset}{pause 20} Please come back later.
+"010"	If you're visiting from another town,{pause 10}	I can only help you mail letters to	people in {Town name (pink)}.	{emote: Curious}What would you like delivered?
+"011"	{emote: Worry}I actually still have some letters to	deliver, so I can't save any letters	for you right now. {pause 30}Sorry!
+"012"	{emote: Alarmed}{pause 15}Ooooh... {emote: Reset}It seems the intended	recipient of this letter no longer	lives in town.	Unfortunately, I can't deliver mail	outside {Town name (pink)}, {pause 8}so I'll have to	give your letter back to you.
+"013"	{emote: Alarmed}{pause 15}Ooooh...{pause 10} {emote: Reset}It seems the intended	recipients of these letters no longer	live in town.	Unfortunately, I can't deliver mail	outside of {Town name (pink)}, {pause 8}so I'll have	to give your letters back to you.
+"014"	{emote: Alarmed}{pause 15}Ooooh... {emote: Worry}I'm seeing mail that's	addressed to someone who's	moved away from town.	Unfortunately, {emote: Disagreement}I can't deliver mail	outside of {Town name (pink)}, {pause 8}so I'll have	to give your mail back to you.	As for the rest...
+"015"	{emote: Worry}We actually still have some letters	to deliver, so I can't take all of your	letters right now.	{emote: Reset}I'll take everything I can and give	the rest back to you.
+"016"	{emote: Happiness}All right. {pause 10}I'll send this mail off at	once. {pause 30}Thanks for choosing the	{Town name (pink)} post office!
+"017"	{emote: Happiness}Done{pause 10} and done. {pause 30}Thanks for choosing	the {Town name (pink)} post office!
+"018"	{emote: Worry}Sorry,{pause 20} but I can't send any letters	addressed to {0011-0000-0002-0000} right now	because {0011-0000-0002-0000}'s mailbox is full.
+"019"	{emote: Worry}I'm sorry, {pause 10}but I can't send any	letters that are addressed to	{0011-0000-0002-0000} or {0011-0000-0002-0001}{pause 5} right now.{Wait for input}Their mailboxes are both full,{pause 10} so I	can't deliver any letters to them.
+"020"	{emote: Worry}Sorry, but I can't send any letters	addressed to {0011-0000-0002-0000},	{0011-0000-0002-0001}, or {0011-0000-0002-0002}.	Their mailboxes are full, so I can't	deliver any more letters to them.
 "021"	I'll make sure all other mail gets	delivered, though. Sorry about that!
-"022"	{emote: Happiness}
-"023"	{emote: Worry}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	
-"027"	
-"028"	
-"029"	{emote: Happiness}
-"030"	{pause 5}
-"031"	{emote: Curious}
-"032"	Hmm... Seems you already have a	letter addressed to your future self	for {Blue}{0004-000e-0002-00-ffffffcd} {Date-cd00}{Color Reset}, {Blue}{0004-000d-0002-00-ffffffcd}{Color Reset}.	We can only hold one letter for your	future self at a time,{pause 20}Q
-"033"	You want to send the old letter?	{pause 20}
-"034"	{emote: Happiness}
-"035"	Changed your mind, did you?	
-"036"	All right! We'll deliver this letter	to your future self on {Blue}{0004-000e-0002-00-ffffffcd}	{Date-cd00}{Color Reset}, {Blue}{0004-000d-0002-00-ffffffcd}{Color Reset}.{confirmation-cd02}{000f-0005-0004-15-00-28-00}	Perfect!	I've made a mistake!
-"037"	{emote: Happiness}
-"038"	{emote: Happiness}
-"039"	{emote: Happiness}
-"040"	{emote: Happiness}
-"041"	{emote: Happiness}
-"042"	You need to complete your resident	registration at the town hall in	order to use the mail services.	{emote: Happiness}
-"043"	
-"044"	
-"046"	{emote: Curious}
+"022"	{emote: Happiness}OK! Just drop anything you want	to send into the red box!
+"023"	{emote: Worry}Oh,{pause 10} did you change your mind?
+"024"	{emote: Happiness}OK! {pause 10}I'll open your personal box,{pause 10}	so please use the {Blue}Touch Screen{Color Reset}	to save what you'd like.
+"025"	{emote: Happiness}A letter to your future self? {pause 15}Fun!{pause 30}	Please pick the letter you want to	send.
+"026"
+"027"
+"028"
+"029"	{emote: Happiness}Welcome to {Town name (pink)}'s very own	post office!{Wait for input} {emote: Curious}{pause 10}Can I help you with	something?{000f-0006-0006-0000-0000-0028}	Send mail.	Save mail.	Nope, I'm fine.
+"030"	{pause 5}.{pause 5}.{pause 5}.{pause 8}OK then. {pause 15}Is there anything {pause 10}{emote: Curious}{pause 10}else	I can help you with?{000f-0006-0006-0000-0000-0028}	Send mail.	Save mail.	Nope. Thanks.
+"031"	{emote: Curious}How far in the future would you like	this letter to be delivered?
+"032"	Hmm... Seems you already have a	letter addressed to your future self	for {Blue}{0004-000e-0002-cd00} {Date-cd00}{Color Reset}, {Blue}{0004-000d-0002-cd00}{Color Reset}.	We can only hold one letter for your	future self at a time,{pause 20}{emote: Curious} so which letter	do you want to send?{000f-0005-0004-0015-0028}	Send my new letter!	Send the old letter.
+"033"	You want to send the old letter?	{pause 20}Gotcha.{Wait for input}{emote: Happiness}I'll give you this letter back, then.
+"034"	{emote: Happiness}Gotcha.{Wait for input} {pause 10}Please let me know the	delivery date for the new letter.
+"035"	Changed your mind, did you?
+"036"	All right! We'll deliver this letter	to your future self on {Blue}{0004-000e-0002-cd00}	{Date-cd00}{Color Reset}, {Blue}{0004-000d-0002-cd00}{Color Reset}.{confirmation-02}{000f-0005-0004-0015-0028}	Perfect!	I've made a mistake!
+"037"	{emote: Happiness}No worries. {pause 15}Let's try this again.
+"038"	{emote: Happiness}Great! Thank you for choosing the	{Town name (pink)} post office for all your	postal needs!
+"039"	{emote: Happiness}Great! {pause 10}I'll give the old letter back	to you.
+"040"	{emote: Happiness}Thanks for choosing the {Town name (pink)}	post office for all your postal	needs!
+"041"	{emote: Happiness}Welcome to the {Town name (pink)}	post office!{Wait for input}You can use our postal services{pause 10}	or utilize the ABD near the entrance	to handle your savings account.	{emote: Reset}Although{pause 5}.{pause 5}.{pause 5}.{pause 15}it appears you haven't	completed resident registration at	the town hall.	You'll need to be registered to use	the mail services,{pause 10} {emote: Happiness}so please come	back once you're registered.
+"042"	You need to complete your resident	registration at the town hall in	order to use the mail services.	{emote: Happiness}Please come back once you've	registered.
+"043"
+"044"
+"046"	{emote: Curious}Would you like to connect to the	Internet and download any available	limited-time-only {Blue}items{Color Reset}?{confirmation-02}{000f-0005-0004-0015-0028}	Yes, please!	No, thanks.
 "047"	You don't have enough room in your	pockets to use the {Blue}downloadable	item {Color Reset}service right now. Sorry!
-"048"	Silly {000e-0006-0012-06-00-62-00-6f-00-79-00-08-00-67-00-69-00-72-00-6c-00}! Haven't you agreed to	the {Blue}Nintendo 3DS Service User	Agreement{Color Reset}?	You've got to agree to the	latest user agreement before using	the downloadable item service!	To do this, {pause 10}
-"049"	{emote: Worry}
-"050"	{emote: Worry}
-"051"	{emote: Resigned}
-"052"	{emote: Happiness}
+"048"	Silly {boy/girl}! Haven't you agreed to	the {Blue}Nintendo 3DS Service User	Agreement{Color Reset}?	You've got to agree to the	latest user agreement before using	the downloadable item service!	To do this, {pause 10}visit {Blue}System Settings →{pause 5}{Color Reset}{Text size 95%}{Text size 100%}	{pause 10}{Blue}Internet Settings{pause 5} → Other	Information{pause 5} → User Agreement{Color Reset}.{Text size 95%}	{Text size 100%}Once you've {Text size 95%}{Text size 100%}agreed to the latest	user agreement,{pause 10} please visit us	again!
+"049"	{emote: Worry}Oh my.{pause 10} I'm so very sorry{pause 8}.{pause 8}.{pause 8}.{Wait for input}It seems the {Blue}access point{Color Reset} you're	connected to isn't giving out	any presents at the moment.	{emote: Agreement}You might want to try changing your	settings.{pause 8} Could help.{Wait for input}{emote: Happiness}Either way,{pause 8} I hope you'll use the	service again in the future!
+"050"	{emote: Worry}I'm very sorry to say that the	{Blue}downloadable item {Color Reset}service has	come to an end. {pause 40}Sorry about that!
+"051"	{emote: Resigned}Nice try, {pause 20}{mister/missy}.{pause 20}{emote: Reset} You've already	received the current downloadable	item!	I'll assume it was an {emote: Glare}{pause 30}honest mistake.{pause 20}{emote: Reset}	If you try again later, there might be	a new item available.
+"052"	{emote: Happiness}Sorry to keep you waiting!{pause 20}	I hope you enjoy your new	{0011-0003-0002-0000}!
 "053"	Let me know if you need anything	else! Thanks!
-"054"	{emote: Worry}
-"055"	{emote: Worry}
-"056"	{emote: Worry}
-"057"	{emote: Worry}
-"058"	
-"059"	
-"060"	
+"054"	{emote: Worry}Oh my.{pause 10} I'm so very sorry{pause 8}.{pause 8}.{pause 8}.{pause 30} There's	an error with the {Blue}SD Card{Color Reset}, so you	can't use this service now.	{emote: Reset}If you could please double check	the {Blue}SD Card{Color Reset} and try again, that	might solve the problem!	{emote: Worry}Oh, but be careful to do this only	while the system is off! You don't	want to damage anything!
+"055"	{emote: Worry}Oh my.{pause 10} I'm dreadfully sorry{pause 8}.{pause 8}.{pause 8}.{pause 30} The	{Blue}SD Card{Color Reset} can't be written on, so	this service is unavailable.	{emote: Reset}When you get the chance, double	check the {Blue}SD Card{Color Reset} and then try	again. That might resolve the issue!	{emote: Worry}Oh, but don't do anything unless the	system is turned off! {emote: Soft Smile}Safety first!
+"056"	{emote: Worry}Oh my. {pause 10}I'm extremely sorry{pause 8}.{pause 8}.{pause 8}.{pause 30}	The {Blue}SD Card{Color Reset} seems to be full,{pause 5} so	this service is presently unavailable.	{emote: Reset}Please double check the {Blue}SD Card{Color Reset}	when you get the chance, and try	again after that!	{emote: Worry}Oh, but if you need to take the	{Blue}SD Card{Color Reset} out or put it back in, make	sure you turn the system off first!	You don't want to cause problems,	right?
+"057"	{emote: Worry}Oh my.{pause 10} I'm dreadfully sorry{pause 8}.{pause 8}.{pause 8}.{pause 30} The	{Blue}access point{Color Reset} you're connected to	doesn't seem to be working well.	{emote: Reset}Please wait a moment and then try	again. Thank you!
+"058"
+"059"
+"060"
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Curious}
-"004"	{emote: Curious}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	
-"008"	{emote: Happiness}
-"009"	{emote: Worry}
-"010"	Recuerda que solo puedo	enviar cartas dirigidas a	vecinos de {capitalized}
-"011"	{emote: Worry}
-"012"	{emote: Alarmed}
-"013"	{emote: Alarmed}
-"014"	{emote: Alarmed}
-"015"	{emote: Worry}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Worry}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
+"001"	{emote: Happiness}¡Bienvenid{o/a} a la oficina	de correos de{pause 10} {capitalized}{Town name (pink)}!{pause 20}	{pause 10}{emote: Curious}{pause 10}¿En qué te puedo ayudar hoy?{000f-0007-0008-0000-0000-0000-0028}	Enviar cartas	Guardar cartas	Regalo descargable	Nada, gracias
+"002"	{emote: Happiness}¡Bienvenid{o/a} a la oficina	de correos de{pause 10} {capitalized}{Town name (pink)}!{pause 20}	{pause 10}{emote: Curious}{pause 10}¿En qué te puedo ayudar hoy?{000f-0005-0004-0000-0028}	Enviar cartas	Nada, gracias
+"003"	{emote: Curious}¿Te puedo ayudar en algo más?{000f-0007-0008-0000-0000-0000-0028}	Enviar cartas	Guardar cartas	Regalo descargable	No, gracias
+"004"	{emote: Curious}¿Te puedo ayudar en algo más?{000f-0005-0004-0000-0028}	Enviar cartas	No, gracias
+"005"	{emote: Happiness}Pues nada,{pause 15} no dudes en pasarte por	aquí si necesitas algo.{pause 20} ¡Intentaremos	resolver todas tus dudas postales!
+"006"	{emote: Happiness}De acuerdo. {pause 10}Dame un momento	para que guarde el correo que	has seleccionado.
+"007"
+"008"	{emote: Happiness}Ningún problema.{pause 20} Dime,{pause 5}	¿quién es el destinatario?{000f-0006-0006-0000-0000-0028}	Alguien del pueblo	Mi yo del futuro	Bah, déjalo
+"009"	{emote: Worry}Eh...{pause 20} Mmm...{pause 8} Me temo que tenemos	un problemilla.{pause 30}{Wait for input}Aún tengo correo por entregar y	no puedo guardarte ninguna carta.{emote: Reset}	{pause 20}Vuelve más tarde, ¿vale?
+"010"	Recuerda que solo puedo	enviar cartas dirigidas a	vecinos de {capitalized}{Town name (pink)}.	{emote: Curious}¿Me podrías mostrar lo	que quieres enviar?
+"011"	{emote: Worry}Aún tengo correo por entregar, así	que no puedo guardarte ninguna,	{pause 30}lo siento.
+"012"	{emote: Alarmed}{pause 15}Ooooh... {emote: Reset}El destinatario ya no vive	en {capitalized}{Town name (pink)}.{Wait for input}Solo puedo entregar correo en	el pueblo, {pause 8}así que me temo que	tengo que devolverte la carta.
+"013"	{emote: Alarmed}{pause 15}Ooooh... {emote: Reset}Los destinatarios ya no	viven en {capitalized}{Town name (pink)}.{Wait for input}Solo puedo entregar correo en	el pueblo, {pause 8}así que me temo que	tengo que devolverte las cartas.
+"014"	{emote: Alarmed}{pause 15}¡Oh! {emote: Reset}Aquí veo alguna carta 	cuyo destinatario ya no vive	en {capitalized}{Town name (pink)}.{Wait for input}Yo solo me encargo del correo	dentro del pueblo, así que tengo	que devolverte alguna.	En cuanto al resto...
+"015"	{emote: Worry}Aún tenemos correo por entregar,{pause 10}	así que no me puedo hacer cargo	de todas tus cartas ahora mismo.	{emote: Reset}Me quedaré todas las que pueda	y el resto te las devuelvo, {pause 10}¿vale?
+"016"	{emote: Happiness}Muy bien, {pause 10}yo te enviaré el correo. {pause 30}	¡Gracias por elegir la oficina de	correos de {capitalized}{Town name (pink)}!
+"017"	{emote: Happiness}¡Listo!{pause 10}{pause 30} ¡Gracias por elegir la oficina	de correos de {capitalized}{Town name (pink)}!
+"018"	{emote: Worry}Lo siento,{pause 20} ahora mismo no puedo	aceptar cartas dirigidas a	{0011-0000-0002-0000}.	Tiene el buzón tan lleno que es	imposible hacerle llegar nada	hasta que no lo vacíe.
+"019"	{emote: Worry}Lo siento, {pause 10}ahora mismo no puedo	aceptar cartas dirigidas a	{0011-0000-0002-0000} ni a {0011-0000-0002-0001}{pause 5}.	Sus buzones están llenos {pause 10}y no tengo	dónde entregarlas.
+"020"	{emote: Worry}Lo siento, {pause 10}ahora mismo no puedo	aceptar cartas para {0011-0000-0002-0000},	{0011-0000-0002-0001} ni {0011-0000-0002-0002}.	Sus buzones están llenos {pause 10}y no tengo	dónde entregarlas.
 "021"	Entregaré el resto de tu correo,	no te preocupes.
-"022"	{emote: Happiness}
-"023"	{emote: Worry}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	
-"027"	
-"028"	
-"029"	{emote: Happiness}
-"030"	Entonces,{pause 8}
-"031"	{emote: Curious}
-"032"	Hum... Ya tienes una carta destinada	a tu yo del futuro. Te llegará el día	{Blue}{Blue}{Date-cd00} de {Blue}{0004-000e-0002-00-ffffffcd} de {0004-000d-0002-00-ffffffcd}{Color Reset}.	Solo podemos enviar una carta al	futuro. {pause 20}
-"033"	¿Quieres enviar la vieja? {pause 20}
-"034"	{emote: Happiness}
+"022"	{emote: Happiness}¡Eso está hecho! Arrastra a la caja	roja las cartas que quieras enviar.
+"023"	{emote: Worry}{pause 10}Vaya,{pause 15} ¿has cambiado de idea?
+"024"	{emote: Happiness}¡De acuerdo! {pause 10}Voy a abrir tu buzón	personal{pause 10}. Usa la pantalla táctil para	guardar el correo que desees.
+"025"	{emote: Happiness}¿Vas a mandarle una carta a tu yo	del futuro? {pause 15}¡Eh, eso suena divertido!{pause 30}	Elige qué carta le quieres enviar.
+"026"
+"027"
+"028"
+"029"	{emote: Happiness}¡Bienvenid{o/a} a la oficina	de correos de{pause 10} {capitalized}{Town name (pink)}!{pause 20}	{pause 10}{emote: Curious}{pause 10}¿Puedo ayudarte en algo?{000f-0006-0006-0000-0000-0028}	Enviar cartas	Guardar cartas	Nada, solo miraba
+"030"	Entonces,{pause 8}{emote: Curious} ¿te puedo ayudar	en alguna otra cosa?{pause 10}{000f-0006-0006-0000-0000-0028}	Enviar cartas	Guardar cartas	No, gracias
+"031"	{emote: Curious}¿Y cuándo quieres que te llegue	esta carta?
+"032"	Hum... Ya tienes una carta destinada	a tu yo del futuro. Te llegará el día	{Blue}{Blue}{Date-cd00} de {Blue}{0004-000e-0002-cd00} de {0004-000d-0002-cd00}{Color Reset}.	Solo podemos enviar una carta al	futuro. {pause 20}{emote: Curious}¿Cuál quieres mandar?{000f-0005-0004-0015-0028}	¡La nueva!	¡La vieja!
+"033"	¿Quieres enviar la vieja? {pause 20}¡Vale!{emote: Happiness}	Pues nada, te devuelvo la nueva.
+"034"	{emote: Happiness}¡Entendido!{Wait for input} {pause 10}Ya solo queda que elijas	cuándo quieres recibir la carta	nueva.
 "035"	Has cambiado de opinión, ¿eh?
-"036"	¡Fecha apuntada! Entregaremos	esta carta a tu yo del futuro el día	{Blue}{Date-cd00} de {Blue}{0004-000e-0002-00-ffffffcd} de {Blue}{0004-000d-0002-00-ffffffcd}{Color Reset}.{confirmation-cd02}{000f-0005-0004-15-00-28-00}	¡Muy bien!	¡Me he equivocado!
-"037"	{emote: Happiness}
-"038"	{emote: Happiness}
-"039"	{emote: Happiness}
-"040"	{emote: Happiness}
-"041"	{emote: Happiness}
-"042"	{emote: Happiness}
-"043"	
-"044"	
-"046"	{emote: Curious}
+"036"	¡Fecha apuntada! Entregaremos	esta carta a tu yo del futuro el día	{Blue}{Date-cd00} de {Blue}{0004-000e-0002-cd00} de {Blue}{0004-000d-0002-cd00}{Color Reset}.{confirmation-02}{000f-0005-0004-0015-0028}	¡Muy bien!	¡Me he equivocado!
+"037"	{emote: Happiness}No pasa nada. {pause 15}Dime la fecha buena.
+"038"	{emote: Happiness}¡Genial! ¡Gracias por usar nuestros	servicios! ¡Nos vemos la próxima!
+"039"	{emote: Happiness}Bien, {pause 10}pues toma la carta vieja.
+"040"	{emote: Happiness}¡Gracias por contar con la oficina	de correos de {capitalized}{Town name (pink)} para	todas tus necesidades postales!
+"041"	{emote: Happiness}¡Bienvenid{o/a} a la oficina de correos	de{pause 10} {capitalized}{Town name (pink)}!{pause 20} ¡Estamos aquí para	hacer realidad tus sueños postales!	El bayero automático de la entrada	también es muy útil.{Wait for input}{emote: Reset}Mmm{pause 5}.{pause 5}.{pause 5}.{pause 15} Parece que aún no te	has empadronado en el pueblo.{Wait for input}Necesitas estar empadronad{o/a} aquí	para poder usar estos servicios,	{pause 10}{emote: Happiness}así que vuelve cuando lo estés.
+"042"	{emote: Happiness}Necesitas estar empadronad{o/a} aquí	para poder usar estos servicios,	{pause 10}{emote: Happiness}así que vuelve cuando lo estés.
+"043"
+"044"
+"046"	{emote: Curious}¿Quieres conectarte a internet{pause 10} para	conseguir{pause 5} los {Blue}regalos descargables{Color Reset}	disponibles por un tiempo limitado?{confirmation-02}{000f-0005-0004-0015-0028}	¡Sí, sí, sí!	No, paso
 "047"	No puedes recibir ningún {Blue}regalo	descargable {Color Reset}porque tienes los	bolsillos llenos.
-"048"	¡Anda! ¡Pero si aún no has aceptado	el {Blue}último Contrato de Uso de los	Servicios de Nintendo 3DS{Color Reset}!	Tienes que aceptarlo si quieres	recibir regalos descargables.{0000-0004-0000}
-"049"	{emote: Worry}
-"050"	{emote: Worry}
-"051"	{emote: Resigned}
-"052"	{emote: Happiness}
+"048"	¡Anda! ¡Pero si aún no has aceptado	el {Blue}último Contrato de Uso de los	Servicios de Nintendo 3DS{Color Reset}!	Tienes que aceptarlo si quieres	recibir regalos descargables.{Wait for input}En la {Blue}configuración de la consola{Color Reset},	elige {Blue}Configuración de internet {Color Reset}y	selecciona {Blue}Información adicional{Color Reset}.	Una vez ahí, toca {Blue}Contrato de uso	{Color Reset}y acéptalo. Cuando lo hayas hecho,	vuelve a pasarte por aquí.
+"049"	{emote: Worry}Me temo que el {Blue}punto de acceso{Color Reset}	al que estás conectad{o/a} no ofrece	ningún regalo por el momento.{emote: Reset}{Wait for input}Vuelve a intentarlo más tarde.{pause 5}	¡Aquí te estaré esperando!
+"050"	{emote: Worry}Vaya, el servicio de {Blue}regalos	descargables {Color Reset}ha sido interrumpido.	{pause 40}¡Lo siento!
+"051"	{emote: Resigned}Ejem{pause 20}.{pause 20}.{pause 20}. {emote: Reset}Ya has recibido el {Blue}regalo 	descargable {Color Reset}actual.{Wait for input}Inténtalo más tarde. Puede que haya	disponible un regalo diferente.
+"052"	{emote: Happiness}¡Siento haberte hecho esperar!{pause 20}	¡Disfruta de tu nuev{o/a/} y radiante{pause 10}	{0011-0003-0002-0000}!
 "053"	¡Hasta pronto!
-"054"	{emote: Worry}
-"055"	{emote: Worry}
-"056"	{emote: Worry}
-"057"	{emote: Worry}
-"058"	
-"059"	
-"060"	
+"054"	{emote: Worry}Vaya,{pause 10} no puedes usar este servicio	ahora porque se ha producido un	error con la {Blue}tarjeta SD{Color Reset}. ¡Lo siento!{emote: Reset}{Wait for input}Comprueba la tarjeta SD cuando	tengas apagada la consola y vuelve	a intentarlo. A lo mejor se arregla.	{emote: Worry}Es importante que compruebes la	tarjeta SD con la consola apagada. 	¡Así no se romperá nada!
+"055"	{emote: Worry}Mira que lo siento,{pause 10} pero no puedes	usar este servicio porque la {Blue}tarjeta	SD {Color Reset}está protegida contra escritura.	{emote: Reset}Comprueba la tarjeta SD cuando	tengas apagada la consola y vuelve	a intentarlo.	{emote: Worry}Es importante que no compruebes	nada con la consola encendida.{pause 10}	¡Así nos ahorraremos disgustos!
+"056"	{emote: Worry}Lo siento de verdad,{pause 10} pero parece	que no puedes usar este servicio	porque la {Blue}tarjeta SD {Color Reset}está llena.	{emote: Reset}Comprueba la tarjeta SD cuando	tengas apagada la consola y vuelve	a intentarlo.	{emote: Worry}Es importante que tengas la consola	apagada cuando metas o saques la	tarjeta SD.	¡Así nos ahorraremos un disgusto!
+"057"	{emote: Worry}Oh, vaya,{pause 10} qué mala pata{pause 8}.{pause 8}.{pause 8}.{pause 30}	El {Blue}punto de acceso{Color Reset} al que estás	conectad{o/a} no parece funcionar bien.	{emote: Reset}Inténtalo de nuevo dentro de	un rato. ¡Gracias!
+"058"
+"059"
+"060"
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	Bien, {pause 15}!
-"004"	Bien, {pause 15}!
-"005"	Parfait.{pause 15}
-"006"	{emote: Happiness}
-"007"	
-"008"	{emote: Happiness}
-"009"	{emote: Worry}
-"010"	Tu viens d'une autre ville?{pause 10}
-"011"	{emote: Worry}
-"012"	{emote: Alarmed}
-"013"	{emote: Alarmed}
-"014"	{emote: Alarmed}
-"015"	{emote: Worry}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Worry}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
+"001"	{emote: Happiness}Bienvenue au bureau de poste	{de /d'}{Town name (pink)}. {Wait for input}{emote: Curious}{pause 10}Que puis-je faire	pour toi?{000f-0007-0008-0000-0000-0000-0028}	Envoyer du courrier.	Boîte personnelle.	Cadeau téléchargeable.	Rien.
+"002"	{emote: Happiness}Bienvenue au bureau de poste	{de /d'}{Town name (pink)}. {pause 20}{emote: Curious}{pause 10}Que puis-je faire	pour toi?{000f-0005-0004-0000-0028}	Envoyer du courrier.	Rien.
+"003"	Bien, {pause 15}{emote: Curious}y a-t-il autre chose que je	puisse faire pour toi?{000f-0007-0008-0000-0000-0000-0028}	Envoyer du courrier.	Boîte personnelle.	Cadeau téléchargeable.	Rien, merci.
+"004"	Bien, {pause 15}{emote: Curious}y a-t-il autre chose que je	puisse faire pour toi?{000f-0005-0004-0000-0028}	Envoyer du courrier.	Rien, merci.
+"005"	Parfait.{pause 15} {emote: Happiness}N'hésite pas à t'adresser à	nous si tu as besoin de quoi que ce	soit.
+"006"	{emote: Happiness}Pas de problème. {pause 10}Ça ne prendra	qu'un instant, merci de patienter.
+"007"
+"008"	{emote: Happiness}Nous sommes là pour ça.{pause 20} À qui	désires-tu envoyer ce courrier?{000f-0006-0006-0000-0000-0028}	À un résident de la ville.	À mon futur moi.	J'ai changé d'avis.
+"009"	{emote: Worry}Voyons...{pause 20}Hmm...{pause 8}Ça risque de poser	problème.{Wait for input}On a encore des lettres à distribuer{pause 15}	alors je ne peux rien archiver pour	toi actuellement.{emote: Reset}{Wait for input}Je te prierais de bien vouloir	repasser plus tard.
+"010"	Tu viens d'une autre ville?{pause 10} Sache	que tu ne peux envoyer de lettres	qu'aux habitants {de /d'}{Town name (pink)}.	{emote: Curious}Cela étant dit, as-tu du courrier à	poster?
+"011"	{emote: Worry}Nous avons encore plein de courrier	à distribuer, alors je ne peux pas	archiver de lettre pour toi.	{emote: Reset}Je suis navrée,{pause 8} mais repasse plus	tard, d'accord?
+"012"	{emote: Alarmed}{pause 30}Ooooh...? {emote: Reset}On dirait que la personne	à qui cette lettre est adressée	n'habite plus ici.	Hélas, nous ne pouvons pas envoyer	de courrier en dehors de cette ville.	{pause 15}Alors, je te rends ta lettre, désolée.
+"013"	{emote: Alarmed}{pause 30}Oooh...? {emote: Reset}On dirait que les personnes	à qui ces lettres sont adressées	n'habitent plus ici.	Hélas, nous ne pouvons pas envoyer	de courrier en dehors de cette ville.	{pause 15}Je te rends tes lettres, désolée.
+"014"	{emote: Alarmed}{pause 30}Ooooh...? {emote: Reset}On dirait que le	destinataire d'une partie de	ces lettres n'habite plus ici.	Hélas, nous ne pouvons pas envoyer	de courrier en dehors de cette ville.	{pause 15}Alors, je te rends ceci, désolée.	Pour le reste...
+"015"	{emote: Worry}Nous avons encore plein de courrier	à traiter, alors je ne peux pas	m'occuper de tout ça.	{emote: Reset}Je regarde ce que je peux faire{pause 8} et	je te rends le reste.
+"016"	{emote: Happiness}Entendu. {pause 10}J'envoie ce courrier tout	de suite. {pause 30}Merci d'utiliser les services	de la poste {de /d'}{Town name (pink)}!
+"017"	{emote: Happiness}Hop,{pause 10} et hop. {pause 30}C'est fait. Merci	d'utiliser nos services!
+"018"	{emote: Worry}Navrée,{pause 20} je ne peux plus envoyer	de lettres destinées à {0011-0000-0002-0000}	car sa boîte aux lettres est pleine.
+"019"	{emote: Worry}Navrée,{pause 20} je ne peux plus envoyer de	lettres destinées à {0011-0000-0002-0000} ou	à {0011-0000-0002-0001}.	En effet, {pause 8}leurs boîtes aux lettres	sont pleines pour l'instant.
+"020"	{emote: Worry}Navrée,{pause 20} je ne peux plus envoyer	de lettres destinées à {0011-0000-0002-0000},	{0011-0000-0002-0001} ou {0011-0000-0002-0002}.	En effet, {pause 8}leurs boîtes aux lettres	sont pleines pour l'instant.
 "021"	Je m'occuperai volontiers du reste	de ton courrier néanmoins. Merci!
-"022"	{emote: Happiness}
-"023"	{emote: Worry}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	
-"027"	
-"028"	
-"029"	{emote: Happiness}
-"030"	Bien, {pause 15}!
-"031"	{emote: Curious}
-"032"	Hmm... Apparemment, une autre	lettre adressée à ton futur toi doit	être livrée le {Blue}{Date-cd00} {0004-000e-0002-00-ffffffcd} {0004-000d-0002-00-ffffffcd}{Color Reset}.	Nous ne pouvons distribuer qu'une	seule de ces lettres à la fois, {pause 20}
-"033"	On envoie l'ancienne lettre comme	prévu? {pause 20}
-"034"	{emote: Happiness}
+"022"	{emote: Happiness}Rien de plus simple! Sélectionne	juste le courrier à envoyer, et	fais-le glisser dans le cadre rouge.
+"023"	{emote: Worry}{pause 10}Oh...{pause 15} Tu n'as pas besoin de mon aide	finalement?
+"024"	{emote: Happiness}Bien! {pause 10}J'ouvre ta boîte personnelle.	{pause 15}Tu peux y déposer ou en retirer du	courrier via l'{Blue}écran tactile{Color Reset}.
+"025"	{emote: Happiness}Une lettre adressée à ton futur toi?	{pause 15}Quelle drôle d'idée!{pause 30} Soit, choisis la	lettre à envoyer, je te prie.
+"026"
+"027"
+"028"
+"029"	{emote: Happiness}Bienvenue au bureau de poste	{de /d'}{Town name (pink)}. {pause 20}{emote: Curious}{pause 10}Que puis-je faire	pour toi?{000f-0006-0006-0000-0000-0028}	Envoyer du courrier.	Archiver du courrier.	Rien, je regarde juste.
+"030"	Bien, {pause 15}{emote: Curious}y a-t-il autre chose que je	puisse faire pour toi?{000f-0006-0006-0000-0000-0028}	Envoyer du courrier.	Archiver du courrier.	Rien, merci.
+"031"	{emote: Curious}Et à quelle date souhaites-tu	recevoir cette lettre?
+"032"	Hmm... Apparemment, une autre	lettre adressée à ton futur toi doit	être livrée le {Blue}{Date-cd00} {0004-000e-0002-cd00} {0004-000d-0002-cd00}{Color Reset}.	Nous ne pouvons distribuer qu'une	seule de ces lettres à la fois, {pause 20}{emote: Curious}alors	laquelle veux-tu envoyer?{000f-0005-0004-0015-0028}	La nouvelle!	L'ancienne, c'est bon.
+"033"	On envoie l'ancienne lettre comme	prévu? {pause 20}Bien compris!{emote: Happiness} Dans ce cas,	je te rends celle-ci.
+"034"	{emote: Happiness}Comme tu veux.{Wait for input} {pause 10}Et à quelle date	cette lettre doit-elle être livrée	alors?
 "035"	Tu as changé d'avis?
-"036"	Bien! Ton futur toi recevra donc	cette lettre le {Blue}{Blue}{Date-cd00} {Blue}{0004-000e-0002-00-ffffffcd} {0004-000d-0002-00-ffffffcd}{Color Reset}.{confirmation-cd02}{000f-0005-0004-15-00-28-00}	Parfait!	J'ai fait une erreur!
-"037"	{emote: Happiness}
-"038"	{emote: Happiness}
-"039"	{emote: Happiness}
-"040"	{emote: Happiness}
-"041"	{emote: Happiness}
-"042"	Tu dois t'inscrire à la mairie afin de	pouvoir utiliser les services de la	poste.	{emote: Happiness}
-"043"	
-"044"	
-"046"	{emote: Curious}
+"036"	Bien! Ton futur toi recevra donc	cette lettre le {Blue}{Blue}{Date-cd00} {Blue}{0004-000e-0002-cd00} {0004-000d-0002-cd00}{Color Reset}.{confirmation-02}{000f-0005-0004-0015-0028}	Parfait!	J'ai fait une erreur!
+"037"	{emote: Happiness}Aucun souci. {pause 15}Recommençons.
+"038"	{emote: Happiness}Très bien! C'est enregistré!
+"039"	{emote: Happiness}Merveilleux! {pause 10}Et voici l'ancienne	lettre.
+"040"	{emote: Happiness}Merci d'utiliser les services de la	poste {de /d'}{Town name (pink)}!
+"041"	{emote: Happiness}Bienvenue au bureau de poste	{de /d'}{Town name (pink)}!{Wait for input}Nous sommes à ton service pour	tout ce qui concerne le courrier.{Wait for input}Il y a également un distributeur	automatique de clochettes à	l'entrée qui peut s'avérer très utile.{Wait for input}{emote: Reset}Même si{pause 5}.{pause 5}.{pause 5}.{pause 15} tu n'as apparemment pas	terminé les formalités d'inscription	dans les registres de la mairie.	Cette inscription est nécessaire	pour pouvoir utiliser les services de	la poste.	{emote: Happiness}Alors repasse une fois que tout sera	réglé!
+"042"	Tu dois t'inscrire à la mairie afin de	pouvoir utiliser les services de la	poste.	{emote: Happiness}Alors repasse une fois que tout sera	réglé!
+"043"
+"044"
+"046"	{emote: Curious}Tu veux te connecter à Internet	pour télécharger le {Blue}cadeau {Color Reset}du	moment?{confirmation-02}{000f-0005-0004-0015-0028}	Oui, s'il te plaît!	Non, merci.
 "047"	Il n'y a pas assez de place dans ton	inventaire pour utiliser le service	des {Blue}cadeaux téléchargeables{Color Reset}.
-"048"	Oups!{pause 15}
-"049"	{emote: Worry}
-"050"	{emote: Worry}
-"051"	{emote: Resigned}
-"052"	{emote: Happiness}
+"048"	Oups!{pause 15} Juste un petit détail...{Wait for input}Tu dois accepter les termes de la	version la plus récente du {Blue}contrat	d'utilisation{Color Reset} pour utiliser ce service.	Pour cela, va dans les {Blue}paramètres	de la console {Color Reset}et sélectionne	{Blue}Paramètres Internet{Color Reset}...	... puis {Blue}Autres informations{Color Reset}, et enfin	{Blue}Contrat d'utilisation des services	Nintendo 3DS{Color Reset}.	Accepte ensuite les termes du	contrat d'utilisation et revi{Text size 100%}ens me	voir quand ce sera fait!{Text size 100%}
+"049"	{emote: Worry}Oh là là,{pause 10} je suis navrée, mais{pause 8}.{pause 8}.{pause 8}.{Wait for input}On dirait que le point d'accès	auquel tu es connecté{/e} ne distribue	aucun cadeau pour le moment.	{emote: Reset}Mais ne te laisse pas décourager	pour si peu! Essaie donc une autre	fois!
+"050"	{emote: Worry}Hélas, le service des {Blue}cadeaux	téléchargeables {Color Reset}n'est plus assuré.{pause 40}	J'en suis vraiment navrée!
+"051"	{emote: Resigned}Bien essayé, {pause 20}{petit malin/petite maligne}!{Wait for input}{pause 20}{emote: Reset}Tu as déjà reçu le cadeau	téléchargeable actuellement	disponible, avoue!	{emote: Glare}{pause 30}Enfin, c'est de l'étourderie sans	doute.{pause 20}{emote: Reset} Réessaie plus tard, un autre	cadeau sera peut-être distribué.
+"052"	{emote: Happiness}Désolée de t'avoir fait attendre!{pause 20}	Voici {Article(word-dependant)}{0011-0003-0002-0000}	pour toi! J'espère que ça te plaît!
 "053"	Merci d'avoir utilisé ce service!
-"054"	{emote: Worry}
-"055"	{emote: Worry}
-"056"	{emote: Worry}
-"057"	{emote: Worry}
-"058"	
-"059"	
-"060"	
+"054"	{emote: Worry}Oh là là,{pause 10} je suis navrée, mais{pause 8}.{pause 8}.{pause 8}.{Wait for input}Une erreur est survenue avec la	{Blue}carte SD{Color Reset}, alors tu ne peux pas	utiliser ce service pour le moment.	{emote: Reset}Tu devrais vérifier la carte SD et	réessayer, ça pourrait résoudre le	problème! Oh, mais avant cela...	{emote: Worry}... pense bien à éteindre la console!	Ce serait bête de tout casser,	quand même!
+"055"	{emote: Worry}Oh là là,{pause 10} je suis navrée, mais{pause 8}.{pause 8}.{pause 8}.{Wait for input}La {Blue}carte SD{Color Reset} est protégée en	écriture, alors tu ne peux pas	utiliser ce service pour le moment.	{emote: Reset}Tu devrais vérifier la carte SD et	réessayer, ça pourrait résoudre le	problème! Oh, mais avant cela...	{emote: Worry}... pense bien à éteindre la console!	Ce serait bête de tout casser,	quand même!
+"056"	{emote: Worry}Oh là là,{pause 10} je suis navrée, mais{pause 8}.{pause 8}.{pause 8}.{Wait for input}Il n'y a plus de place sur la	{Blue}carte SD{Color Reset}, alors tu ne peux pas	utiliser ce service pour le moment.	{emote: Reset}Tu devrais vérifier la carte SD et	réessayer, ça pourrait résoudre le	problème! Oh, mais attention...	{emote: Worry}Si tu dois retirer ou réinsérer la	carte SD, pense bien à éteindre la	console avant!	Ce serait bête de tout casser,	quand même!
+"057"	{emote: Worry}Oh là là,{pause 10} je suis navrée, mais{pause 8}.{pause 8}.{pause 8}.{Wait for input}On dirait que le {Blue}point d'accès{Color Reset}	auquel tu es connecté{/e} ne	fonctionne pas très bien.	{emote: Reset}Attends donc un moment, puis	retente ta chance! Merci pour ta	patience!
+"058"
+"059"
+"060"

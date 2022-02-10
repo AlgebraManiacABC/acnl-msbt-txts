@@ -1,39 +1,39 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Shocked}
-"007"	{emote: Curious}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	Tell me what you want,{pause 8}!
-"011"	{emote: Shyness}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}What do you think of my place?{pause 40}	If you see anything you really like, I	could let you have it...{000f-0005-0004-0015-0028}	Gimme!	Nah, that's OK.
+"002"	{emote: Happiness}My place is pretty cool, huh?{pause 40}	You can take a little slice of	coolness home if you like!{Wait for input}{emote: Reset}If there's something in here you like,	I can sell it to you!{000f-0005-0004-0015-0028}	I like something!	Nah, I'm OK...
+"003"	{emote: Happiness}A huh huh huh{pause 8}.{pause 8}.{pause 8}.{pause 20} So do you like my	place?{Wait for input} {emote: Agreement}Maybe you wanna take some	of it home?	{emote: Reset}If you see something you really	want, I could give it to you,{pause 8}	{catchphrase}.{000f-0005-0004-0015-0028}	I want something.	Nah, I'm fine.
+"004"	{emote: Worry}Really?{pause 20} But you totally look like you	want something{pause 8}.{pause 8}.{pause 8}.
+"005"	{emote: Worry}Even with all this totally rad stuff	I've got?{pause 40} I guess maybe we don't	have the same taste,{pause 8} {catchphrase}.
+"006"	{emote: Shocked}{0007-000a-0000}Huh?{pause 20} Nothing?!{Wait for input} {emote: Worry}That's hard for me	to believe{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{emote: Happiness}But I love all my stuff,{pause 20} so maybe it's	for the best,{pause 8} {catchphrase}.
+"007"	{emote: Curious}What do you like?
+"008"	{emote: Happiness}Cool!{pause 20} So what do you want to buy?
+"009"	{emote: Happiness}Sweet!{pause 20} So what strikes your fancy?
+"010"	Tell me what you want,{pause 8}	{catchphrase}.{Wait for input}{emote: Worry}But{pause 20} if it's something I'm really	attached to, I probably can't sell	it to you.
+"011"	{emote: Shyness}If there's something you want,{pause 20}	just whisper it in my ear.
+"012"	{emote: Happiness}Let me know if you see something	you want! {Wait for input}{emote: Worry}But if it's one of my prized	possessions, I can't sell it to you.{pause 20}	Sorry, {pause 8}{catchphrase}.
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Shocked}
-"007"	{emote: Curious}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	Dime qué quieres,{pause 8}
-"011"	{emote: Shyness}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}¿Qué opinas de mi casa?{pause 40} Si ves	algo que te guste de verdad,	quizá podría ofrecértelo...{000f-0005-0004-0015-0028}	Interesante...	Nada, no te preocupes
+"002"	{emote: Happiness}Mi casa es una preciosidad, ¿eh?{pause 40}	¡Puedes llevarte una muestra de	esta molonidad si quieres!	{emote: Reset}Si hay algo aquí que te guste	mucho, ¡te lo puedo vender!{000f-0005-0004-0015-0028}	¡Me gusta algo!	No, tranquilo...
+"003"	{emote: Happiness}Je, je, je{pause 8}.{pause 8}.{pause 8}.{pause 20} Oye, ¿te gusta mi casa?{Wait for input}	{emote: Agreement}¿No te gustaría llevarte algo	de recuerdo a la tuya?	{emote: Reset}Si ves algo que te guste	mucho, te lo podría regalar,{pause 8}	{catchphrase}.{000f-0005-0004-0015-0028}	Me interesa algo	No te preocupes
+"004"	{emote: Worry}¿De verdad?{pause 20} Pues tienes cara	de querer algo{pause 8}.{pause 8}.{pause 8}.
+"005"	{emote: Worry}¿Ni siquiera con lo mucho que mola	lo que tengo?{pause 40} Supongo que tenemos	gustos distintos,{pause 8} {catchphrase}.
+"006"	{emote: Shocked}{0007-000a-0000}¿Eh?{pause 20} ¡¿Nada?!{Wait for input} {emote: Worry}Jo, pues me	cuesta creerlo{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{emote: Happiness}Pero como me gustan mucho	todas mis cosas,{pause 20} yo tampoco	pienso insistir,{pause 8} {catchphrase}.
+"007"	{emote: Curious}¿Qué te gusta?
+"008"	{emote: Happiness}¡Mola!{pause 20} ¿Qué quieres comprar?
+"009"	{emote: Happiness}¡Chachi!{pause 20} ¿Y qué te llama	la atención?
+"010"	Dime qué quieres,{pause 8} {catchphrase}.{Wait for input}{emote: Worry}Pero{pause 20} si es algo a lo que le tengo	mucho cariño, probablemente	no pueda vendértelo.
+"011"	{emote: Shyness}Si hay algo que quieras,{pause 20}	susúrramelo al oído.
+"012"	{emote: Happiness}¡Avísame si ves algo que quieras!{Wait for input}{emote: Worry}Pero si es uno de mis mayores	tesoros, no te lo podré vender,	claro.{pause 20} Lo siento, {pause 8}{catchphrase}.
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Shocked}
-"007"	{emote: Curious}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	Tu peux choisir ce que tu veux,{pause 8}
-"011"	{emote: Shyness}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}Alors? Comment tu trouves ma	petite maison?{pause 40} Si tu vois un truc	qui te plaît, on peut s'arranger...{000f-0005-0004-0015-0028}	J'aimerais bien avoir...	Non, ça ira.
+"002"	{emote: Happiness}C'est cool chez moi, pas vrai?{Wait for input}{emote: Reset}Si tu trouves un meuble qui te plaît	et que tu voudrais prendre pour	chez toi, on peut s'arranger.{000f-0005-0004-0015-0028}	Y'en a peut-être un...	Non, ça ira...
+"003"	{emote: Happiness}Alors{pause 8}.{pause 8}.{pause 8}.{pause 20} Ça te plaît ici?{Wait for input} {emote: Agreement}Tu as vu	quelque chose que tu aimerais avoir	chez toi?	{emote: Reset}Si c'est le cas, on peut toujours	s'arranger,{pause 8} {catchphrase}.{000f-0005-0004-0015-0028}	Oui, il y a bien ça...	Besoin de rien, merci.
+"004"	{emote: Worry}Ah?{pause 20} Pourtant tu fais la tête de	quelqu'un qui a vu un truc	intéressant{pause 8}.{pause 8}.{pause 8}.
+"005"	{emote: Worry}Ah? Dans tous les trucs cool que	j'ai, il n'y a rien qui te plaît?{Wait for input}Il faut croire qu'on n'a pas les	mêmes goûts alors,{pause 8} {catchphrase}.
+"006"	{emote: Shocked}{0007-000a-0000}Ah?{pause 20} Rien?!{Wait for input} {emote: Worry}Il n'y a rien que tu	aurais envie d'avoir, ici{pause 8}.{pause 8}.{pause 8}.?{pause 20}{Wait for input}{emote: Happiness}Bah, de toute façon, j'aime trop	mes affaires,{pause 20} je préfère autant les	garder,{pause 8} {catchphrase}.
+"007"	{emote: Curious}Tu voudrais quoi?
+"008"	{emote: Happiness}Cool!{pause 20} Tu voudrais que je te revende	quoi?
+"009"	{emote: Happiness}Cool!{pause 20} Alors, c'est quoi qui te plaît?
+"010"	Tu peux choisir ce que tu veux,{pause 8}	{catchphrase}.{Wait for input}{emote: Worry}Mais{pause 20} si c'est un truc auquel je tiens	vraiment, alors je ne pourrai pas te	le vendre.
+"011"	{emote: Shyness}N'hésite pas à me le dire, s'il y a	quelque chose qui te tente.
+"012"	{emote: Happiness}S'il y a quelque chose qui te plaît,	dis-le-moi, {catchphrase}.{Wait for input}{emote: Worry}Mais pas question de me séparer de	tout et n'importe quoi pour autant.{pause 20}	Ce que j'aime vraiment, je le garde.

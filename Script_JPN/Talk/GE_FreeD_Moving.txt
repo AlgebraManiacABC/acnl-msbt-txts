@@ -1,14 +1,14 @@
 == 0 ==
-"001"	あと　{Number (0x6)}
-"002"	{emote: Soft Smile}
-"003"	{0009-0001-0006-04-00-05-00-06-00}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Distress}
-"007"	{0009-0006-0010-08-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00}
-"008"	{000a-0000-0006-01-09-00-0a-00-ffffffcd}
-"009"	{000a-0000-0006-05-0c-00-0b-00-ffffffcd}
-"010"	{emote: Disbelief}
-"011"	{emote: Happiness}
-"012"	うん、{pause 10}
-"013"	{emote: Happiness}
+"001"	あと　{Number (0x6)}{ruby (charSpan 1): にち}日で{pause 10}	ひっこしかと{ruby (charSpan 1): おも}思うと、{pause 10}	{emote: Thought}なんか　{pause 5}しんみりしちゃうよ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Player can respond (0000):0003-0000-0007-0000}	{ruby (charSpan 1): い}行かないで！	{ruby (charSpan 2): げんき}元気でね～
+"002"	{emote: Soft Smile}さぁ、{pause 20}そろそろ　かたづけ{ruby (charSpan 1): はじ}始めないと！{Wait for input}{emote: Shyness}もうすぐ　ひっこしすると{ruby (charSpan 1): おも}思うと{pause 10}	わくわくするような、{pause 8}さみしいような{pause 10}・{pause 10}・{pause 10}・{Player can respond (0000):0003-0000-0007-0000}	{ruby (charSpan 2): ひっこ}引越さないでよ！	がんばって！
+"003"	{0009-0001-0006-0004-0005-0006}
+"004"	{emote: Surprise}ホント～？{Wait for input}{emote: Shyness}{Player nickname (green)}{0005-000d-0000}に	そんなこと{ruby (charSpan 1): い}言われたら、{pause 10}	なんか　{ruby (charSpan 1): まよ}迷っちゃうな～、{pause 15}{catchphrase}	{emote: Soft Smile}やっぱ　{pause 5}この{ruby (charSpan 1): むら}村から{pause 10}	アタイがいなくなったら　{pause 8}ヤバいよね～！{Wait for input}{emote: Glee}オッケー！{pause 20}	もっと　この{ruby (charSpan 1): むら}村をハッピーにするために、{pause 10}	ひっこしは　{ruby (charSpan 1): と}取りやめるよ！
+"005"	{emote: Surprise}え{pause 8}・{pause 8}・{pause 8}・{pause 8}！{pause 20}	そんな{ruby (charSpan 1): ふう}風に　{pause 5}{ruby (charSpan 1): おも}思ってくれてたの～？！{Wait for input}{emote: Soft Smile}そっか～！{pause 20}	じゃあ{pause 8}　ひっこしは　やめるよ！{Wait for input}{emote: Pride}まだまだ　{pause 10}この{ruby (charSpan 1): むら}村の{ruby (charSpan 2): しゅやく}主役として{pause 5}	がんばるね！
+"006"	{emote: Distress}え～！{pause 10}	そう{ruby (charSpan 1): い}言われると{pause 10}	{ruby (charSpan 2): けっしん}決心が　ゆらいじゃうよ～{pause 10}・{pause 10}・{pause 10}・{pause 10}	{emote: Bashful}でも　{Player nickname (green)}{0005-000d-0000}が{pause 10}	そんな{ruby (charSpan 1): ふう}風に　{ruby (charSpan 1): い}言ってくれるなんて{pause 10}	{emote: Happiness}アタイ　{pause 5}うれしいな～、{pause 10}{catchphrase}{emote: Soft Smile}	じゃあ　{pause 15}もう{ruby (charSpan 1): すこ}少し　この{ruby (charSpan 1): むら}村を{pause 8}	{ruby (charSpan 1): たの}楽しむことにするよ～！
+"007"	{0009-0006-0010-0008-000d-000d-000d-000d-000d-000d-000d}
+"008"	{000a-0000-0006-0901-0a00-cd00}
+"009"	{000a-0000-0006-0c05-0b00-cd00}
+"010"	{emote: Disbelief}え～！{pause 20}	{emote: Distress}ちょっと！　{pause 20}こういう{ruby (charSpan 1): とき}時って、{pause 10}	{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}止めたりするもんだよ～、{pause 15}{catchphrase}	{emote: Anger}も～！　{pause 20}{ruby (charSpan 2): こんかい}今回は{ruby (charSpan 1): と}取りやめにして、{pause 10}	{Player nickname (green)}{0005-000d-0000}に{pause 10}	ハッピーマナーを　{ruby (charSpan 1): おし}教えなくっちゃ！
+"011"	{emote: Happiness}ありがと～{Wait for input}{emote: Reset}でも、{pause 5}こうやって{ruby (charSpan 1): はな}話してると{pause 10}	{emote: Daydreaming}{ruby (charSpan 1): おも}思い{ruby (charSpan 1): で}出が　{ruby (charSpan 3): そうまとう}走馬灯のように{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Shyness}なんか{pause 15}	さみしくなってきちゃったな{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Agreement}やっぱ　ひっこしはやめにして{pause 10}	{emote: Soft Smile}{Player nickname (green)}{0005-000d-0000}と{pause 10}	{ruby (charSpan 1): たの}楽しい{ruby (charSpan 1): おも}思い{ruby (charSpan 1): で}出　{pause 10}{ruby (charSpan 1): つく}作ることにするよ
+"012"	うん、{pause 10}{emote: Happiness}さすが　はげまし{ruby (charSpan 2): じょうず}上手だね！{Wait for input}{emote: Worry}でも、{pause 10}よそへ{ruby (charSpan 1): い}行って　{ruby (charSpan 1): お}落ちこんだ{ruby (charSpan 1): とき}時{pause 10}	{Player nickname (green)}{0005-000d-0000}が　いなかったら{pause 10}	だれに　{pause 8}{emote: Sorrow}はげましてもらえばいいの～？	{emote: Worry}やっぱ　ひっこしやめる～！{Wait for input}	{emote: Soft Smile}{Player nickname (green)}{0005-000d-0000}、{pause 10}	これからも　{pause 5}アタイの{ruby (charSpan 2): げんき}元気のもとでいてね{emote: Sunny}
+"013"	{emote: Happiness}うん　{pause 10}ありがと！{Wait for input}	{emote: Glee}アタイの　ハッピーオーラで、{pause 10}	{ruby (charSpan 2): せかい}世界{ruby (charSpan 1): じゅう}中を　{ruby (charSpan 1): て}照らしてくるね！

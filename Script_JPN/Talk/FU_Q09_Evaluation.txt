@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Distress}
-"003"	{emote: Surprise}
-"004"	{emote: Glee}
-"005"	{emote: Surprise}
-"006"	{emote: Distress}
-"007"	{emote: Soft Smile}
-"008"	{emote: Soft Smile}
-"009"	{emote: Sadness}
-"010"	{emote: Surprise}
-"011"	{emote: Surprise}
-"012"	{emote: Mistaken}
+"001"	{emote: Surprise}あら　{pause 20}もう{ruby (charSpan 1): かえ}帰られるんですか？{Wait for input}	{emote: Happiness}わたしの　お{ruby (charSpan 2): へや}部屋は{pause 10}	{ruby (charSpan 1): たの}楽しんでいただけたでしょうか・・・？{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"002"	{emote: Distress}あ！　{pause 20}もう　{ruby (charSpan 1): かえ}帰られるんですね！{Wait for input}	{emote: Soft Smile}わたしの　お{ruby (charSpan 2): へや}部屋の{ruby (charSpan 2): かんそう}感想が{pause 10}	{ruby (charSpan 1): き}気になります{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"003"	{emote: Surprise}あら　{pause 20}もうお{ruby (charSpan 1): かえ}帰りですか？{Wait for input}{emote: Shyness}あの～{pause 8}・{pause 8}・{pause 8}・{pause 8}	わたしの　お{ruby (charSpan 2): へや}部屋って{pause 10}	{ruby (charSpan 2): しょうじき}正直　どうでしたか？{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"004"	{emote: Glee}まぁ！　{pause 20}うれしい！{pause 30}	きちんと　そうじしたかいが　ありました{pause 30}	{emote: Agreement}やっぱり　{pause 10}やれば　{ruby (charSpan 1): つた}伝わるものなんですね	{emote: Happiness}これからも　{pause 10}すてきなお{ruby (charSpan 2): へや}部屋を	いじするために　{pause 15}がんばろうと{ruby (charSpan 1): おも}思います
+"005"	{emote: Surprise}あら{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Soft Smile}けっこう　いい{ruby (charSpan 1): ほう}方かと	{ruby (charSpan 1): おも}思ってたんですけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Reset}では、{pause 10}{Player nickname (green)}さんに	{ruby (charSpan 1): みと}認めていただけるように{pause 15}	{emote: Happiness}これから　がんばります！
+"006"	{emote: Distress}そ、{pause 10}そうでしたか？！{Wait for input}{emote: Thought}{ruby (charSpan 2): じぶん}自分では{pause 10}　けっこう{pause 5}	いい{ruby (charSpan 1): かん}感じだと{ruby (charSpan 1): おも}思ってたので{pause 8}・{pause 8}・{pause 8}・{pause 30}{Wait for input}{emote: Happiness}では、{pause 5}これからは{pause 15}	{Player nickname (green)}さんに　ほめてもらえるように{pause 10}	がんばろうと{ruby (charSpan 1): おも}思います！
+"007"	{emote: Soft Smile}あら　{pause 10}そんなに　ほめられたら{pause 10}	うれしくなっちゃいますよ、{pause 15}{catchphrase}{Wait for input}{emote: Glee}どうもありがとうございます！{pause 30}	まだまだ　これからも　{pause 5}がんばりますね
+"008"	{emote: Soft Smile}わたしも　{pause 10}そう{ruby (charSpan 1): おも}思ってたんです{Wait for input}{emote: Glee}わたし{ruby (charSpan 1): たち}達　{pause 10}お{ruby (charSpan 2): へや}部屋の{ruby (charSpan 3): かちかん}価値観が{pause 5}	{ruby (charSpan 1): あ}合うんですね！
+"009"	{emote: Sadness}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 20}	{Player nickname (green)}さんって{pause 10}	けっこう　ズバッと　{pause 10}{ruby (charSpan 1): い}言うんですね
+"010"	{emote: Surprise}ほんとですか{pause 8}・{pause 8}・{pause 8}・{pause 8}！{Wait for input}{emote: Shyness}もっと　ちゃんとしなきゃって{pause 10}	{ruby (charSpan 2): じぶん}自分では　{ruby (charSpan 1): おも}思ってたので、{pause 15}	ほめていただいて　うれしいです！	{emote: Soft Smile}やる{ruby (charSpan 1): き}気が{ruby (charSpan 1): で}出てきたので、{pause 15}	これから　どんどん{pause 5}	すてきな{ruby (charSpan 2): へや}部屋になるように　{pause 10}がんばります
+"011"	{emote: Surprise}あら、{pause 10}ほんとですか！{Wait for input}{emote: Happiness}{ruby (charSpan 2): じぶん}自分では　{pause 5}ちゃんとしなきゃって	{ruby (charSpan 1): おも}思っていたので　{pause 15}そう{ruby (charSpan 1): い}言っていただけて	{ruby (charSpan 2): あんしん}安心しました、{pause 15}{catchphrase}	{emote: Agreement}{ruby (charSpan 1): つぎ}次は　{pause 5}もっと　ほめてもらえるように{pause 10}	がんばりますね！
+"012"	{emote: Mistaken}まぁ！{pause 20}	{Player nickname (green)}さんって{pause 10}	ハッキリおっしゃるんですね！	{emote: Soft Smile}もっと　{ruby (charSpan 1): よ}良くなるように　{pause 10}がんばります

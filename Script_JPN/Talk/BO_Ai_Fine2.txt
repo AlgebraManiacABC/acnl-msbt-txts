@@ -1,18 +1,18 @@
 == 0 ==
-"001"	{000a-0008-0010-02-00-02-00-03-00-03-00-03-00-03-00-03-00-02-00}
-"002"	{emote: Joy}
-"003"	{emote: Sleepy}
-"004"	あぁ～　{Player nickname (green)}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	あぁ～{pause 20}
-"008"	やぁ～　{Player nickname (green)}
-"009"	もう　{0005-0017-0000}
-"010"	{000a-0008-0010-0b-00-0b-00-0c-00-0c-00-0c-00-0c-00-0c-00-0d-00}
-"011"	{emote: Love}
-"012"	{ruby (charSpan 2): あした}明日も　いいこと	あるといいねぇ、{pause 8}
-"013"	{ruby (charSpan 1): よる}夜に　さくらを{ruby (charSpan 1): み}見ながら	おさんぽするのって{0000-0004-0000}
-"014"	{emote: Happiness}
-"015"	やぁ～{pause 20}
-"016"	{emote: Happiness}
-"017"	{emote: Sleepy}
+"001"	{000a-0008-0010-0002-0002-0003-0003-0003-0003-0003-0002}
+"002"	{emote: Joy}やっほぉ～{pause 20}	{ruby (charSpan 2): きょう}今日は　お{ruby (charSpan 1): ひ}日さまが　ホントに	きもちいいよねぇ、{pause 8}{catchphrase}
+"003"	{emote: Sleepy}ふぁぁ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	まだ　ねむいよぉ、{pause 8}{catchphrase}
+"004"	あぁ～　{Player nickname (green)}{0005-000d-0000}だぁ{pause 20}	また{ruby (charSpan 1): あ}会ったねぇ、{pause 8}{catchphrase}
+"005"	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　まだまだ　	あそべるねぇ、{pause 8}{catchphrase}
+"006"	{emote: Happiness}やぁ、{Player nickname (green)}{0005-000d-0000}{pause 20}	おなか　すかない～？{Wait for input}	{emote: Worry}ボクは　すいちゃったよぉ、{pause 8}{catchphrase}
+"007"	あぁ～{pause 20}	{Player nickname (green)}{0005-000d-0000}だぁ、{pause 8}{catchphrase}
+"008"	やぁ～　{Player nickname (green)}{0005-000d-0000}～{pause 20}	こんばんわぁ、{pause 8}{catchphrase}
+"009"	もう　{0005-0017-0000}だねぇ{pause 20}	{ruby (charSpan 2): きょう}今日も　あっという{ruby (charSpan 1): ま}間だぁ、{pause 8}{catchphrase}
+"010"	{000a-0008-0010-000b-000b-000c-000c-000c-000c-000c-000d}
+"011"	{emote: Love}お{ruby (charSpan 1): ほし}星さまが　きれいだねぇ～{pause 40}	{emote: Soft Smile}でも{pause 20}　{ruby (charSpan 1): うえ}上を{ruby (charSpan 1): み}見ながら{ruby (charSpan 1): ある}歩いたら{pause 20}	きっと　ころんじゃうよぉ？　{pause 8}{catchphrase}？
+"012"	{ruby (charSpan 2): あした}明日も　いいこと	あるといいねぇ、{pause 8}{catchphrase}
+"013"	{ruby (charSpan 1): よる}夜に　さくらを{ruby (charSpan 1): み}見ながら	おさんぽするのって{Wait for input}{emote: Daydreaming}すごく{pause 20}　{pause 8}オ{pause 8}ト{pause 8}ナ{pause 20}って{pause 8}	かんじだよねぇ、{pause 8}{catchphrase}
+"014"	{emote: Happiness}{Greeting begin}やぁ～{Greeting end}{pause 20}	また　{ruby (charSpan 1): あ}会ったねぇ、{pause 8}{catchphrase}
+"015"	やぁ～{pause 20}	{Player nickname (green)}{0005-000d-0000}、{pause 8}{catchphrase}
+"016"	{emote: Happiness}{Greeting begin}やっほぉ～{Greeting end}{pause 20}	{Player nickname (green)}{0005-000d-0000}、{pause 8}{catchphrase}
+"017"	{emote: Sleepy}ふぁぁ～～{pause 60}	{Player nickname (green)}{0005-000d-0000}かぁ、{pause 8}{catchphrase}

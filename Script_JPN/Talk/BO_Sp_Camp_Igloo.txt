@@ -1,31 +1,31 @@
 == 0 ==
-"001"	{emote: Glee}
-"002"	{emote: Curious}
-"003"	{emote: Happiness}
-"004"	{emote: Glee}
-"005"	{emote: Fearful}
-"006"	{emote: Alarmed}
-"007"	{emote: Happiness}
-"008"	{emote: Curious}
-"009"	{emote: Thought}
-"010"	{emote: Glee}
-"011"	{emote: Glee}
-"012"	{emote: Glare}
-"013"	{emote: Happiness}
-"014"	{emote: Bashful}
-"015"	{emote: Happiness}
-"016"	{emote: Happiness}
-"017"	{emote: Thought}
-"018"	{emote: Glee}
-"019"	{emote: Daydreaming}
-"020"	{emote: Happiness}
-"021"	{emote: Worry}
-"022"	{emote: Love}
-"023"	{emote: Agreement}
-"024"	{emote: Worry}
-"025"	{emote: Daydreaming}
-"026"	
-"027"	
-"028"	
-"029"	
-"030"	
+"001"	{emote: Glee}やぁ～{pause 20}	キミも　こんなに　さむい{ruby (charSpan 1): なか}中、{pause 8}	あそびに{ruby (charSpan 1): き}来たんだねぇ{Wait for input}{emote: Curious}キミは　この{ruby (charSpan 1): むら}村　どう{ruby (charSpan 1): おも}思う？{pause 40}	{emote: Happiness}ボクは　けっこう　{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入っちゃったぁ！
+"002"	{emote: Curious}キミは　この{ruby (charSpan 1): むら}村に	{ruby (charSpan 2): なんかい}何回も{ruby (charSpan 1): き}来てるのぉ～？{Wait for input}{emote: Happiness}ここって{pause 20}	また　{ruby (charSpan 1): き}来たいなぁ～って	{ruby (charSpan 1): おも}思える{ruby (charSpan 1): むら}村だよねぇ、{pause 8}{catchphrase}
+"003"	{emote: Happiness}あんまり　いごこちがいいと、{pause 8}	{ruby (charSpan 1): かえ}帰るのイヤになっちゃうよねぇ
+"004"	{emote: Glee}シチューが　そろそろ	にえたかなぁ～？{Wait for input}{emote: Agreement}くん{pause 8}くん{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Love}もっと　にこんだほうが	おいしくなりそうだぁ、{pause 8}{catchphrase}
+"005"	{emote: Fearful}うぅ～～{pause 40}	{ruby (charSpan 1): あし}足のウラが	こおっちゃいそぉ～{Wait for input}{emote: Reset}でも{pause 20}　そのつめたくなった{ruby (charSpan 1): あし}足を	たき{ruby (charSpan 1): び}火で　あっためて{Wait for input}{emote: Love}ほわぁ～ん{pause 20}って	なったときのかんじが{pause 30}	やみつき　なんだよねぇ、{pause 8}{catchphrase}
+"006"	{emote: Alarmed}あぁ～！{pause 20}	キミは　この{ruby (charSpan 1): むら}村のコだねぇ？{Wait for input}{emote: Glee}おじゃましてま～す{pause 40}	キャンプさせて　もらってるよぉ～{Wait for input}{emote: Love}{ruby (charSpan 1): ふゆ}冬のキャンプって	なんだか　ゾクゾクするねぇ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	さ、{pause 20}さ、{pause 20}{emote: Fearful}{0007-000b-0000}さむいぃぃぃぃぃ！
+"007"	{emote: Happiness}やっほぉ～！{pause 20}	この{ruby (charSpan 1): むら}村で　キャンプ	させてもらってるよぉ～{Wait for input}ボクが　あみだくじでえらんだ、	この　{Town name (pink)}{ruby (charSpan 1): むら}村{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Agreement}うんうん{pause 40}	{emote: Happiness}ここを　えらんで	{ruby (charSpan 1): だい}大せいかい　だったみたい！{Wait for input}{emote: Glee}ちょっとの{ruby (charSpan 1): あいだ}間だけど	おせわになりま～す、{pause 8}{catchphrase}
+"008"	{emote: Curious}もしかして{pause 20}	この{ruby (charSpan 1): むら}村のコ～？{Wait for input}{emote: Greetings}やっほぉ～！{pause 20}	おじゃましてま～す！{Wait for input}{emote: Happiness}この　こおりの{ruby (charSpan 1): いえ}家　スゴイでしょぉ？{Wait for input}	あったかいシチューも	{ruby (charSpan 1): つく}作ってみたんだぁ、{pause 8}{catchphrase}{Wait for input}{emote: Agreement}{ruby (charSpan 1): ふゆ}冬にキャンプするなんて	ちょっぴり　しんぱいだったけど{pause 20}	{ruby (charSpan 1): たの}楽しませて　もらってるよぉ～{Wait for input}{emote: Glee}えへへ～{pause 20}	{ruby (charSpan 1): すこ}少しの{ruby (charSpan 1): あいだ}間　おせわになりま～す！
+"009"	{emote: Thought}うぅ～ん、{pause 20}	{ruby (charSpan 1): ひ}引っこし　したてのころは	まだ　{ruby (charSpan 1): むら}村になれてないだろうから{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}おっきい　ゆきだるま{ruby (charSpan 1): つく}作って、{pause 20}	{ruby (charSpan 1): あたら}新しいおうちの	めじるしにしたいなぁ～{Wait for input}{emote: Alarmed}{0007-000a-0000}あ、{pause 20}でも！{pause 40}	{emote: Worry}それだと　{ruby (charSpan 1): はる}春になったら	まいごになっちゃうかぁ、{pause 8}{catchphrase}
+"010"	{emote: Glee}ど～{pause 8}こ～{pause 8}に、{pause 20}	す～{pause 8}も～{pause 8}お～{pause 8}か～{pause 8}なぁ～{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Aggravation}{0007-000b-0000}{Text size 100%}エイッ！{Wait for input}{Text size 100%}{emote: Joy}えへへ～{pause 20}	こんなかんじで、すむばしょを	きめようと{ruby (charSpan 1): おも}思ってるんだぁ、{pause 8}{catchphrase}
+"011"	{emote: Glee}とにかく　{ruby (charSpan 1): た}食べものが	たくさんあるところに	すむんだぁ、{pause 8}{catchphrase}！
+"012"	{emote: Glare}じつは　キミに{pause 20}	{ruby (charSpan 1): だい}大はっぴょうがあるんだぁ～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Inspired}{0007-000b-0000}なんとっ！{pause 60}	{emote: Glee}ボク　この{ruby (charSpan 1): むら}村に	お{ruby (charSpan 1): ひ}引っこしして{ruby (charSpan 1): く}来ることに　なったんだぁ！{Wait for input}{emote: Bashful}{0011-0000-0002-0000}{0005-000d-0000}が	さそってくれたんだよぉ～{Wait for input}{emote: Happiness}これからは	{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): むら}村のおともだち！{pause 40}	よろしくねぇ、{pause 8}{catchphrase}
+"013"	{emote: Happiness}{ruby (charSpan 1): いま}今は　キャンプしてるだけだけど、{pause 20}	こんどから　ボクも	この{ruby (charSpan 1): むら}村にすむんだよぉ～{Wait for input}{emote: Bashful}じつは　{0011-0000-0002-0000}{0005-000d-0000}に	さそわれちゃったんだぁ～{Wait for input}{emote: Happiness}{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): き}来たら	なかよくしてねぇ、{pause 8}{catchphrase}
+"014"	{emote: Bashful}ボク　じつは、{pause 20}	{0011-0000-0002-0000}{0005-000d-0000}に	さそわれちゃって{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Delight}こんど　この{ruby (charSpan 1): むら}村に	{ruby (charSpan 1): ひ}引っこしして{ruby (charSpan 1): く}来ることに{pause 8}	きまったんだぁ！{Wait for input}{emote: Glee}これからは　{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): むら}村の	おともだちだねぇ～{pause 40}	よろしくぅ、{pause 8}{catchphrase}
+"015"	{emote: Happiness}やっほぉ～！{pause 20}	ボクは　この{ruby (charSpan 1): むら}村で　キャンプ{ruby (charSpan 1): ちゅう}中～{pause 40}	しばらくの{ruby (charSpan 1): あいだ}間　よろしくね！{Wait for input}{emote: Daydreaming}フルーツ、{pause 20}おサカナ、{pause 20}{ruby (charSpan 1): かい}貝{pause 8}・{pause 8}・{pause 8}・{pause 40}	この{ruby (charSpan 1): むら}村じまんの{pause 8}　おいしいものってある～？{Wait for input}{emote: Pride}えへへ～{pause 20}	その{ruby (charSpan 2): とち}土地のモノを　{ruby (charSpan 1): た}食べるのは{pause 20}	たびのキホン　だよねぇ、{pause 8}{catchphrase}
+"016"	{emote: Happiness}キャンプって	{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): ひ}火をおこしたりするのが{pause 20}	めんどうだけど　{ruby (charSpan 1): たの}楽しいんだよねぇ～{Wait for input}{emote: Joy}{ruby (charSpan 1): ひ}火がつけば{pause 8}	ぽわ～んと　あったかいよぉ	{pause 8}{catchphrase}
+"017"	{emote: Thought}キャンプしてるとさぁ～{pause 20}	はにわが　{ruby (charSpan 1): つく}作られた　じだいは、{pause 20}	こんなかんじ　だったのかなぁ～って{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Love}ボク{pause 20}　ちょっぴり	おセンチな{ruby (charSpan 2): きぶん}気分、{pause 8}{catchphrase}
+"018"	{emote: Glee}キャンプで　{ruby (charSpan 1): た}食べる	シチューは　とっても	おいしいよねぇ{Wait for input}{emote: Pride}いつもは　5{ruby (charSpan 1): かい}回のおかわりも、{pause 20}	{ruby (charSpan 2): きょう}今日なら　10{ruby (charSpan 1): かい}回	いけちゃうよぉ、{pause 8}{catchphrase}
+"019"	{emote: Daydreaming}ちがう{ruby (charSpan 1): むら}村の{ruby (charSpan 2): くうき}空気って	なんだか　おいしくかんじる～{Wait for input}	{emote: Happiness}{ruby (charSpan 1): ふゆ}冬だと　なおさらね！{Wait for input}{emote: Agreement}ぱく{pause 8}ぱく{pause 40}{emote: Reset}　{emote: Agreement}ぱく{pause 8}ぱく{Wait for input}	{emote: Worry}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	おなかは　ふくれないやぁ～
+"020"	{emote: Happiness}ボクが　キャンプしてきた{ruby (charSpan 1): なか}中でも、{pause 8}	この{ruby (charSpan 1): むら}村は　かなりのお{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りだよぉ{Wait for input}{emote: Pride}まさに！{pause 20}	ベスト{pause 8}　オブ{pause 8}　{ruby (charSpan 1): むら}村{pause 20}	ってかんじ、{pause 8}{catchphrase}{Wait for input}{emote: Glee}えへへ～{pause 20}	ついつい　すみたくなっちゃうよぉ！{000f-0005-0004-0000-0000}	この{ruby (charSpan 1): むら}村においでよ！	・・・
+"021"	{emote: Worry}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	ざんねんだなぁ～{Wait for input}こんなに　すみ{ruby (charSpan 2): ごこち}心地のいい　{ruby (charSpan 1): むら}村だけど、{pause 20}	そのうち　{ruby (charSpan 1): かえ}帰らなきゃ	ならないんだよねぇ{Wait for input}{emote: Sorrow}ボク{pause 20}　さみしいよぉ、{pause 8}{catchphrase}{000f-0005-0004-0000-0000}	ここにすみなよ！	そっかぁ・・・
+"022"	{emote: Love}ボクの　きのうのユメ、	おもしろかったなぁ～{pause 40}	この{ruby (charSpan 1): むら}村に　ボクがすんでるんだよぉ～{Wait for input}{emote: Glee}なんだか　すっごく	{ruby (charSpan 1): たの}楽しそうだったんだぁ～{Wait for input}	{emote: Happiness}ねぇ、{pause 20}キミは　どう{ruby (charSpan 1): おも}思う？{000f-0005-0004-0000-0000}	{ruby (charSpan 2): ひっこ}引越してきなよ！	いいユメだね！
+"023"	{emote: Agreement}ホントに　ステキな{ruby (charSpan 1): むら}村だねぇ～{pause 40}	{emote: Happiness}とっても　{ruby (charSpan 1): たの}楽しい	キャンプになったよぉ、{pause 8}{catchphrase}
+"024"	{emote: Worry}うん、{pause 20}さみしい{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Disagreement}でも　ボク　{ruby (charSpan 1): かえ}帰るよぉ{Wait for input}{emote: Happiness}{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): むら}村にも{pause 8}	まってる　おともだちが	いるもんねぇ、{pause 8}{catchphrase}
+"025"	{emote: Daydreaming}いいユメかぁ～{pause 20}	ホントに　なったら	うれしいなぁ、{pause 8}{catchphrase}
+"026"
+"027"
+"028"
+"029"
+"030"

@@ -1,87 +1,87 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Shocked}
-"003"	{emote: Glee}
-"004"	{emote: Alarmed}
-"005"	{emote: Shocked}
-"006"	{emote: Shocked}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Worry}
-"010"	{emote: Sadness}
-"011"	{emote: Sadness}
-"012"	{emote: Worry}
-"013"	{emote: Glee}
-"014"	{emote: Sunny}
-"015"	{emote: Greetings}
-"016"	{emote: Glee}
-"017"	{emote: Happiness}
-"018"	OK, a deal's a deal!{pause 8}
-"019"	{emote: Joy}
-"020"	{emote: Happiness}
-"021"	{emote: Love}
-"022"	{emote: Glee}
-"023"	{emote: Happiness}
-"024"	{emote: Joy}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Alarmed}{0007-000b-0000}Huh?!{pause 20} Really?!{Wait for input}{emote: Thought}Hmm{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Sunny}Yeah!{pause 40} {emote: Happiness}I'm gonna do it!	I'm gonna move to this town!{Wait for input}{emote: Agreement}Allow me to reintroduce myself.{pause 20}	I'm {Villager's name (orange)}!{Wait for input} {emote: Happiness}You're {Player name},	right?	{emote: Bashful}Actually, the whole time I've been 	camping,{pause 20} I've been thinking I'd like	to live here!{Wait for input}{emote: Sunny}I'll be seeing you around,{pause 8}	{catchphrase}!
+"002"	{emote: Shocked}{0007-000b-0000}Huh?!{pause 20} You mean it?!{pause 40} {emote: Joy}Sweet!{pause 40}	Then it's decided.{pause 20} I'm moving here!{Wait for input}{emote: Sunny}My name is {Villager's name (orange)}!{pause 40}	{emote: Reset}And you're {emote: Happiness}{Player name}, right?{Wait for input}Good to officially meet you,{pause 20}	{Player name}!{Wait for input}{emote: Pride}Right!{pause 20} Time to eat something{pause 20} and	work up my strength for the move,{pause 8}	{catchphrase}!
+"003"	{emote: Glee}Awesome!{pause 20} I was hoping you'd say	that.{pause 40} I'll move here then!{Wait for input}{emote: Alarmed}Oh, {pause 20}that's right!{pause 40} {emote: Happiness}We should officially	meet!{Wait for input}{emote: Happiness}So you're {Player name}!{pause 20} And I'm	{Villager's name (orange)}.{Wait for input} Nice to meet you,	{pause 8}{Player name}!
+"004"	{emote: Alarmed}{0007-000a-0000}Huh?!{pause 20} You think I should move here?{Wait for input}	{emote: Thought}Hmmmm{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Worry}Sorry,{pause 40} {emote: Disagreement}I'm going to pass.{Wait for input}{emote: Happiness}I couldn't bear{pause 8} to leave my	friends from back home.{Wait for input}But thanks for the invite,{pause 8}	{catchphrase}.
+"005"	{emote: Shocked}{0007-000b-0000}Huh?!{pause 20} You think I should move	here?!{Wait for input}{emote: Thought}I'm happy that you'd invite me,{pause 40}	{emote: Happiness}but I have to pass.{pause 20} Sorry!{pause 20} {emote: Worry}I actually	just moved to the town I'm in now.{Wait for input}{emote: Disagreement}I don't wanna move again so soon.	{emote: Sunny}But I appreciate the invite just	the same,{pause 8} {catchphrase}.
+"006"	{emote: Shocked}{0007-000b-0000}Really?!{pause 20} You think I should move	here?!{Wait for input} {emote: Thought}Um{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Mistaken}Sorry!{pause 40} That's cool you'd invite me,	but{pause 20} I'm gonna pass, {pause 8}{catchphrase}.{Wait for input}{emote: Happiness}I just feel like{pause 20} my current town	has the tastiest water.{Wait for input} {emote: Bashful}A huh huh!{pause 20}	I always end up just chugging it.
+"007"	{emote: Alarmed}You really want me to move here?{Wait for input}	{emote: Thought}Hmm...{pause 40} But {emote: Sheepishness}I can't make a big	decision like this so easily{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{0007-000b-0000}Ooh, {pause 8}I got an idea!{pause 40} Let's play a	game to decide!{Wait for input} {emote: Happiness}If you win, I'll move	to this town.	And if I win,{pause 20} I get your	{Blue}{0011-0003-0002-0000}{Color Reset}!{Player can respond (0005):0019-0015-000a-0028}	OK!	I don't think so.
+"008"	{emote: Alarmed}Whoa!{pause 20} Where'd this come from?{Wait for input}{emote: Thought}I'm happy you'd invite me, {pause 20}but I'm 	not sure.{pause 40} I need some time to think	about this{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{0007-000b-0000}Oh,{pause 8} idea time!{pause 40} How 'bout a game?{Wait for input}{emote: Happiness}If you win, I'll move here.{pause 20}	And if you lose,{pause 20} I get to have your	{Blue}{0011-0003-0002-0000}{Color Reset}! {Player can respond (0005):0019-0015-000b-0028}	Let's do this!	I'm not into that idea.
+"009"	{emote: Worry}Hm{pause 8}.{pause 8}.{pause 8}.{pause 20} That makes me really happy,{pause 20}	but I'm not sure I'm ready{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{0007-000a-0000}Ooh!{pause 40} How about we play a game to 	decide!{Wait for input}{emote: Agreement}If you win, I'll move here!{Wait for input}	{emote: Happiness}But if you lose,{pause 20} then I get your	{Blue}{0011-0003-0002-0000}{Color Reset}!{Player can respond (0005):0019-0015-000c-0028}	OK, let's do it!	I'll pass...
+"010"	{emote: Sadness}Aw man,{pause 20} you're no fun.
+"011"	{emote: Sadness}Aw, come on{pause 8}.{pause 8}.{pause 8}.{pause 20} I thought it was a 	pretty good idea, {pause 8}{catchphrase}.
+"012"	{emote: Worry}Well,{pause 20} that's a bummer...
+"013"	{emote: Glee}Awesome!{pause 20} OK, let's play	{Blue}rock-paper-scissors{Color Reset}! {0007-0012-0006-0100-001b-001a}
+"014"	{emote: Sunny}Sweet!{pause 20} Then let's play {Blue}charades{Color Reset}! {0007-0012-0006-0101-001b-001a}
+"015"	{emote: Greetings}That's the spirit!{pause 40} All right, let's play	{Blue}Made Ya Look{Color Reset}!{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Glee}Yessss!{pause 20} I guess I'll be having your	{Blue}{0011-0003-0002-0000}{Color Reset},{pause 8}	{catchphrase}!
+"017"	{emote: Happiness}A huh huh huh!{pause 20} Could I please have	your {Blue}{0011-0003-0002-0000}{Color Reset}?
+"018"	OK, a deal's a deal!{pause 8} Fork over your	{Blue}{0011-0003-0002-0000}{Color Reset}!
+"019"	{emote: Joy}Great!{pause 20} Now I have a souvenir from	my camping trip.{pause 20} Thanks,	{catchphrase}!
+"020"	{emote: Happiness}I'll think about this town every time	I look at this.{Wait for input}{emote: Worry}I-{pause 20}I{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Sorrow}won't cry!!
+"021"	{emote: Love}Score!{pause 20} Now I have a souvenir from	my camping adventure,{pause 8}	{catchphrase}!
+"022"	{emote: Glee}OK, just like I promised,{pause 20} I'll move to	this town!{Wait for input}{emote: Happiness}Let me reintroduce myself.{pause 20}	I'm {Villager's name (orange)}!{pause 40} {emote: Agreement}Your name is 	{Player name}, right?	{emote: Happiness}I guess{pause 20} you and I are gonna be	neighbors from now on,{pause 8} {Player name}!
+"023"	{emote: Happiness}Well, a deal's a deal!{pause 20} Guess I'll be	moving here soon!{Wait for input}{emote: Glee}There's so much to do that I gotta	start getting ready!{Wait for input}{emote: Reset}Let's see,{pause 20} your name is{pause 20} {Player name},	right?{Wait for input} {emote: Sunny}Pleased to meet you,	{Player name}!
+"024"	{emote: Joy}That settles it!{pause 40} I'll move here once	I'm done camping!{Wait for input} {emote: Shyness}You know, {pause 20}I	actually always wanted to live here.{Wait for input}{emote: Laughter}I'm glad I lost, {pause 8}{catchphrase}.{pause 40}{emote: Soft Smile}	I'll be seeing you around!
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Shocked}
-"003"	{emote: Glee}
-"004"	{emote: Alarmed}
-"005"	{emote: Shocked}
-"006"	{emote: Shocked}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Worry}
-"010"	{emote: Sadness}
-"011"	{emote: Sadness}
-"012"	{emote: Worry}
-"013"	{emote: Glee}
-"014"	{emote: Sunny}
-"015"	{emote: Greetings}
-"016"	{emote: Glee}
-"017"	{emote: Happiness}
-"018"	¡Un trato es un trato!{pause 8}!
-"019"	{emote: Joy}
-"020"	{emote: Happiness}
-"021"	{emote: Love}
-"022"	{emote: Glee}
-"023"	{emote: Happiness}
-"024"	{emote: Joy}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Alarmed}{0007-000b-0000}¡¿Eh?!{pause 20} ¿Lo dices en serio?{Wait for input}{emote: Thought}¿Pues sabes qué?{pause 40} {emote: Sunny}¡Lo voy a hacer!	{emote: Happiness}¡Me voy a mudar!{Wait for input}{emote: Agreement}Y ya que estoy, me vuelvo a	presentar... {pause 20}¡Me llamo {Villager's name (orange)}!{Wait for input}	{emote: Happiness}Tú eras {Player name}, ¿verdad?	{emote: Bashful}La verdad es que llevaba toda la	acampada dándole vueltas a esto.{pause 20}{Wait for input}¡Y tú me has dado el empujón que	necesitaba! {emote: Sunny}En fin, ya nos veremos	por el pueblo,{pause 8} {catchphrase}.
+"002"	{emote: Shocked}{0007-000b-0000}¡¿En serio?! {emote: Joy}¡Oye, pues sí!{pause 40}	Venga, pues me mudo le pese	a quien le pese, ¡hala!	{emote: Sunny}Ya no recuerdo si me había	presentado, pero por si acaso...	¡Soy {Villager's name (orange)}!{pause 40}	{emote: Reset}Y tú eras {emote: Happiness}{Player name}, ¿no?	Bueno, ya no se me olvidará	tu nombre.	Ahora{pause 20} voy a meterme una buena	comida entre pecho y espalda para	no desfallecer durante la mudanza.
+"003"	{emote: Glee}¡Sabía que dirías algo así!{pause 40} Tendré	que mudarme entonces, vaya{pause 8}.{pause 8}.{pause 8}.	{emote: Laughter}¡Ja, ja, ja!{Wait for input}{emote: Alarmed}¡Ay, que se me va la olla!{pause 40}	{emote: Happiness}¡No nos hemos presentado	como tiene que ser!{Wait for input}{emote: Happiness}A ver, tú eras{pause 8}.{pause 8}.{pause 8}. {Player name}, ¿no?{pause 20}	Yo soy {Villager's name (orange)}.{Wait for input} {emote: Sunny}¡Encantado!
+"004"	{emote: Alarmed}{0007-000a-0000}¡Anda!{pause 20} ¡Pues sí que podría venirme	a vivir aquí!{Wait for input} {emote: Thought}Hum{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Worry}No,{pause 40} {emote: Disagreement}creo que	no sería buena idea.	{emote: Happiness}No podría dejar atrás a todos mis	amigos{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡ni renunciar a los platos	típicos de mi pueblo!{Wait for input}Pero muchas gracias por invitarme	a instalarme aquí,{pause 8} {catchphrase}.	Ha sido un detallazo por tu parte.
+"005"	{emote: Shocked}{0007-000b-0000}¡¿Eh?!{pause 20} ¿De verdad crees que	debería venirme para acá?{Wait for input}{emote: Thought}Es un detallazo que me invites,{pause 40} {emote: Happiness}pero	creo que paso.{pause 20} {emote: Worry}Hace nada que me	mudé al pueblo en el que vivo ahora.{Wait for input}{emote: Disagreement}¡Sería un desperdicio total de	energía volver a hacer las maletas	nada más llegar! No, imposible.	{emote: Sunny}¡Pero te agradezco igualmente	que me lo hayas propuesto,{pause 8}	{catchphrase}!
+"006"	{emote: Shocked}{0007-000b-0000}¡Oye!{pause 20} Pues no estás diciendo	ninguna tontería{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Mistaken}¡Ay, espera!{pause 40} Eres muy maj{o/a} por	invitarme,{pause 20} pero acabo de caer	en una cosa, {pause 8}{catchphrase}.	{emote: Happiness}¡Mi vecina hace unas tartas	increíbles!{Wait for input} {emote: Bashful}¡Je, je, je!{pause 20} Jamás podría	renunciar a algo tan delicioso.
+"007"	{emote: Alarmed}¡¿Tantas ganas tienes de que me	venga a vivir aquí?!{Wait for input}{emote: Thought}Mmm{pause 8}.{pause 8}.{pause 8}. Es una decisión demasiado	importante {emote: Sheepishness}para tomarla como el	que se toma un batido de fresa.{Wait for input}{emote: Inspired}{0007-000b-0000}¡Ya sé!{pause 40} ¡Podemos resolver el dilema	con un juego!{Wait for input} {emote: Happiness}Si ganas, me mudo	aquí y no se hable más.	{emote: Mischief}Pero si gano yo{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Sunny}¡me quedo con	tu {Blue}{0011-0003-0002-0000}{Color Reset}!{Player can respond (0005):0019-0015-000a-0028}	Me parece justo	¡Y un rábano!
+"008"	{emote: Alarmed}¡¿Qué dices?!{pause 20} ¿Te ha sentado mal	el desayuno o qué?{Wait for input}{emote: Thought}A ver, que me mola que quieras que	seamos vecinos, {pause 20}pero no las tengo	todas conmigo.{pause 40}{Wait for input}{emote: Inspired}{0007-000b-0000}¡Oh!{pause 8} ¿Y si lo echamos a suertes?{Wait for input}Lo hacemos así: {emote: Happiness}me mudo si ganas,{pause 20}	y si pierdes,{pause 20} me regalas tu	{Blue}{0011-0003-0002-0000}{Color Reset}.{Player can respond (0005):0019-0015-000b-0028}	¡Qué gran idea!	No me convence...
+"009"	{emote: Worry}Hum{pause 8}.{pause 8}.{pause 8}.{pause 20} Un paso así no se puede dar	tan a la ligera.{pause 20} Aunque está claro	que el que no arriesga, no gana{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Inspired}{0007-000a-0000}¡Mira!{pause 40} Como no me puedo pasar la	vida mareando la perdiz, lo vamos	a decidir con un juego y punto.{Wait for input}{emote: Agreement}Si ganas tú, me vengo a vivir aquí.{Wait for input}	{emote: Happiness}Si gano yo,{pause 20} me tienes que dar tu	{Blue}{0011-0003-0002-0000}{Color Reset}.{Player can respond (0005):0019-0015-000c-0028}	¡Juguemos!	Creo que paso...
+"010"	{emote: Sadness}Pfff{pause 8}.{pause 8}.{pause 8}.{pause 20} Eres más sos{o/a} que un yogur	de serrín.
+"011"	{emote: Sadness}Vaya chafe{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Anger}¡Hablas sin saber,	{pause 8}{catchphrase}!
+"012"	{emote: Worry}Jo,{pause 20} vale. {Gray}(Aguafiestas{pause 8}.{pause 8}.{pause 8}.{pause 20}){Color Reset}
+"013"	{emote: Glee}¡Bien dicho!{pause 20} Nos lo jugamos	a {Blue}piedra, papel o tijera{Color Reset}.{Wait for input}Pero no con objetos de verdad,	sino con las manos. Te lo digo	porque yo tardé en entenderlo...{0007-0012-0006-0100-001b-001a}
+"014"	{emote: Sunny}¡Así se habla!{pause 20} Podemos jugar	a {Blue}los gestos{Color Reset}. ¡Aunque te aviso	de que soy un hacha!{0007-0012-0006-0101-001b-001a}
+"015"	{emote: Greetings}¡Claro que sí!{pause 40} Entonces vamos	a jugar al {Blue}mirallí{Color Reset}.{Wait for input}Pero {hombre/mujer}, no te pongas a mirar	a todas partes, que aún no hemos	empezado{pause 8}.{pause 8}.{pause 8}.{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Glee}¡He ganado!{pause 20} ¡Y me quedo con tu	{Blue}{0011-0003-0002-0000}{Color Reset}!{pause 8} ¡Toma ya,	{catchphrase}!
+"017"	{emote: Happiness}¡Ju, ju, ju!{pause 20} Cuando quieras me das	mi {Blue}{0011-0003-0002-0000}{Color Reset}, ¿eh?
+"018"	¡Un trato es un trato!{pause 8} ¡A ver es{e/a/}	{Blue}{0011-0003-0002-0000}{Color Reset}!
+"019"	{emote: Joy}¡Mira tú por dónde!{pause 20} Así me vuelvo	de la acampada con la tripa llena y	un recuerdo de propina.{pause 20} ¡Gracias!
+"020"	{emote: Happiness}Me servirá para recordar este	pueblo cada vez que lo mire.{Wait for input}{emote: Worry}No{pause 20}{pause 8}.{pause 8}.{pause 8}. ¡No estoy llorando!{pause 40}	{emote: Sorrow}¡Es que tengo una cebolla	picada en el bolsillo!
+"021"	{emote: Love}¡Yuju!{pause 20} ¡Menudo regalito me	llevo del pueblo,{pause 8} {catchphrase}!
+"022"	{emote: Glee}Vale, como has ganado,{pause 20} haré las	maletas y me vendré para acá.{Wait for input}{emote: Happiness}Bueno, tendré que presentarme,	¿no?{pause 20} ¡Soy {Villager's name (orange)}!{pause 40} {emote: Agreement}Y tú te	llamas {Player name}, ¿a que sí?	{emote: Happiness}Ahora que vamos a ser vecinos,	tendrás que invitarme a comer	algún día, {pause 8}¿no, {Player name}?
+"023"	{emote: Happiness}Lo prometido es deuda...	¡Toca cambiar de vivienda!{Wait for input}{emote: Glee}Lo primero va a ser traerme mi	colección de baberos para el	marisco. {emote: Mistaken}¡Ay, y presentarme!{Wait for input}{emote: Reset}Tú eras {Player name}, ¿verdad?{Wait for input}	{emote: Sunny}¡Encantado, {Player name}!	Yo me llamo {Villager's name (orange)}.
+"024"	{emote: Joy}¡Decidido entonces!{pause 40} En cuanto	vuelva de la acampada, empiezo	a preparar la mudanza.{Wait for input}{emote: Shyness}Si te digo la verdad,{pause 20} casi me alegro	de haber perdido.{Wait for input}{emote: Laughter}Siempre había querido vivir aquí	y ahora tengo una buena excusa,	{pause 8}{catchphrase}.{pause 40} {emote: Soft Smile}¡Nos vemos!
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Shocked}
-"003"	{emote: Glee}
-"004"	{emote: Alarmed}
-"005"	{emote: Shocked}
-"006"	{emote: Shocked}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Worry}
-"010"	{emote: Sadness}
-"011"	{emote: Sadness}
-"012"	{emote: Worry}
-"013"	{emote: Glee}
-"014"	{emote: Sunny}
-"015"	{emote: Greetings}
-"016"	{emote: Glee}
-"017"	{emote: Happiness}
-"018"	Hé hé! Comme j'ai gagné, je vais te	piquer {000e-0008-0028-00-ffffffcd-10-00-74-00-6f-00-6e-00-20-00-6a-00-6f-00-6c-00-69-00-10-00-74-00-61-00-20-00-6a-00-6f-00-6c-00-69-00-65-00-00-00}
-"019"	{emote: Joy}
-"020"	{emote: Happiness}
-"021"	{emote: Love}
-"022"	{emote: Glee}
-"023"	{emote: Happiness}
-"024"	{emote: Joy}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Alarmed}{0007-000b-0000}Hein?!{pause 20} Vraiment?!{Wait for input}{emote: Thought}Hmm{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Sunny}Mais ouais!{pause 40} {emote: Happiness}Tu as raison,	je devrais emménager ici!{Wait for input}{emote: Agreement}En tant que futur voisin, il faut que	je me présente officiellement!{Wait for input}Moi c'est {Villager's name (orange)}!{Wait for input} {emote: Happiness}Et toi tu es	{Player name}, c'est bien ça?{pause 20}	Enchanté!	{emote: Bashful}Pour tout te dire, depuis que j'ai	mis les pattes dans cette ville, j'ai	eu envie d'y habiter pour de bon!{Wait for input}{emote: Sunny}Sur ce, je te dis à la prochaine,{pause 8}	{catchphrase}!
+"002"	{emote: Shocked}{0007-000b-0000}Hein?!{pause 20} Tu es {sérieux/sérieuse}, là?!{pause 40} {emote: Joy}Parce	que ton offre m'intéresse vraiment!{pause 40}	D'ailleurs,{pause 20} je l'accepte illico!{Wait for input}{emote: Sunny}Je m'appelle {Villager's name (orange)}!{pause 40} {emote: Reset}Et toi, tu	es {emote: Happiness}{Player name}, c'est bien ça?{Wait for input}Enchanté de faire officiellement ta	rencontre,{pause 20} {Player name}!{Wait for input}{emote: Pride}C'est parti!{pause 20} Le temps de manger un	petit quelque chose et je me colle à	mes cartons, {catchphrase}!
+"003"	{emote: Glee}Super!{pause 20} J'espérais que tu me ferais	cette proposition,{pause 40} et je l'accepte	avec plaisir!{Wait for input}{emote: Alarmed}Oh, {pause 20}c'est vrai!{pause 40} {emote: Happiness}On ne s'est toujours	pas présentés comme il se doit!{Wait for input}{emote: Happiness}Moi c'est {Villager's name (orange)}!{pause 20} Et toi, tu	t'appelles bien {Player name}, je ne	me trompe pas?{pause 20} Enchanté!
+"004"	{emote: Alarmed}{0007-000a-0000}Hein?!{pause 20} Tu as vraiment envie que je	vienne m'installer ici?{Wait for input} {emote: Thought}Hmmmm{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Worry}Désolé,{pause 40} {emote: Disagreement}mais je dois te dire non.{Wait for input}{emote: Happiness}Je tiens trop à mes amis dans ma	ville d'origine pour les abandonner	comme ça.{Wait for input}Mais merci quand même pour	l'invitation, ça me touche,{pause 8}	{catchphrase}.
+"005"	{emote: Shocked}{0007-000b-0000}De quoi?!{pause 20} Tu voudrais que je vienne	habiter ici pour de bon?!{Wait for input}{emote: Thought}C'est très gentil de me proposer ça,{pause 40}	{emote: Happiness}mais je ne peux pas accepter.{Wait for input}{emote: Worry}Je sors déjà tout juste d'un	déménagement, et je n'ai toujours	pas eu le temps de récupérer.	{emote: Sunny}Mais en tout cas, sache que ta	proposition me fait très plaisir,	{pause 8}{catchphrase}!
+"006"	{emote: Shocked}{0007-000b-0000}Tu dis ça sérieusement, là?!{pause 20} T'as	vraiment envie que je vienne	m'installer ici pour de bon?!{Wait for input} {emote: Thought}Hmm{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Mistaken}Désolé, je ne peux pas accepter!{pause 40}	Mais merci quand même pour	l'invitation, {pause 8}{catchphrase}.	{emote: Happiness}Je suis trop habitué aux spécialités	de ma ville.{Wait for input} {emote: Bashful}Pas envie d'en changer,	hé hé!
+"007"	{emote: Alarmed}Tu m'aimes tellement que tu as	envie que je vienne habiter ici?{Wait for input}{emote: Thought}Hmm...{pause 40}{emote: Sheepishness} Une décision comme ça, ça	ne se prend pas à la légère{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{0007-000b-0000}Oh! {pause 8}Je sais!{pause 40} On va jouer à un jeu	pour déterminer ce que je devrais	faire!{Wait for input}{emote: Happiness}Si tu gagnes, j'emménage ici!{pause 20} Mais	si je gagne, je veux {ton joli/ta jolie/}	{Blue}{0011-0003-0002-0000}{Color Reset}!{Player can respond (0005):0019-0015-000a-0028}	Ça roule!	Je ne crois pas, non.
+"008"	{emote: Alarmed}Waouh!{pause 20} C'est un peu inattendu	comme invitation!{Wait for input}{emote: Thought}Ça me fait plaisir que tu me dises	ça, {pause 20}mais je ne sais pas si je peux	accepter{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{0007-000b-0000}Oh,{pause 8} je sais ce qu'on pourrait faire	pour m'aider à me décider!{pause 40} On	pourrait jouer à un jeu!{Wait for input}{emote: Happiness}Si tu gagnes, je m'installe ici.{pause 20} Mais	si je gagne,{pause 20} j'empoche {ton petit/ta petite/}	{Blue}{0011-0003-0002-0000}{Color Reset}!{Player can respond (0005):0019-0015-000b-0028}	C'est parti!	Ça me tente pas trop.
+"009"	{emote: Worry}Hm{pause 8}.{pause 8}.{pause 8}.{pause 20} Ce que tu me dis là me fait	très plaisir,{pause 20} mais je ne suis pas sûr	d'être prêt à franchir le cap{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{0007-000a-0000}Oh, je sais!{pause 40} On va jouer à un jeu	pour décider à ma place!{Wait for input}{emote: Agreement}Si tu gagnes, j'emménage ici!{Wait for input} {emote: Happiness}Mais	si tu perds,{pause 20} tu me files {ton petit/ta petite/}	{Blue}{0011-0003-0002-0000}{Color Reset}!{Player can respond (0005):0019-0015-000c-0028}	Ça me va!	Ça va pas, non?!
+"010"	{emote: Sadness}Oohhh{pause 8}.{pause 8}.{pause 8}.{pause 20} t'es pas {marrant/marrante}{pause 8}.{pause 8}.{pause 8}.
+"011"	{emote: Sadness}Dommage{pause 8}.{pause 8}.{pause 8}.{pause 20} Je suis sûr qu'on se	serait bien amusés, {pause 8}{catchphrase}.
+"012"	{emote: Worry}Arf,{pause 20} alors tant pis...
+"013"	{emote: Glee}Super!{pause 20} Alors on va jouer à	{Blue}pierre-papier-ciseaux{Color Reset}!{0007-0012-0006-0100-001b-001a}
+"014"	{emote: Sunny}Génial!{pause 20} Jouons au {Blue}mime{Color Reset}! {0007-0012-0006-0101-001b-001a}
+"015"	{emote: Greetings}Ça fait plaisir à entendre!{pause 40} Dans ce	cas, on va jouer à {Blue}regarde où je	regarde{Color Reset}!{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Glee}Ouais!{pause 20} Dans ce cas, je pique	{ton petit/ta petite/} {Blue}{0011-0003-0002-0000}{Color Reset},	{pause 8}{catchphrase}!
+"017"	{emote: Happiness}Hé hé hé!{pause 20} Ça veut dire que je peux	te chiper {ton joli/ta jolie/}	{Blue}{0011-0003-0002-0000}{Color Reset}?
+"018"	Hé hé! Comme j'ai gagné, je vais te	piquer {ton joli/ta jolie/}	{Blue}{0011-0003-0002-0000}{Color Reset}!
+"019"	{emote: Joy}Génial!{pause 20} Je vais pouvoir ramener un	souvenir de mon séjour.{pause 20}	Merci, {catchphrase}!
+"020"	{emote: Happiness}Je me souviendrai {de /d'}{Town name (pink)} à	chaque fois que je poserai les	yeux dessus{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Worry}J-{pause 20}Je{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Sorrow} Je ne vais pas pleurer,	promis!
+"021"	{emote: Love}Super!{pause 20} Ça me fera un joli souvenir	de mon séjour ici, {pause 8}{catchphrase}!
+"022"	{emote: Glee}OK, comme convenu,{pause 20} je vais de ce	pas entamer les préparatifs!{Wait for input}{emote: Happiness}Maintenant qu'on sait qu'on va être	voisins, il faut que je me présente	comme il se doit.{pause 20}	Je m'appelle {Villager's name (orange)}, enchanté!{pause 40}	{emote: Agreement}Et toi, tu es {Player name}, si je ne fais	pas erreur!	{emote: Happiness}C'est un plaisir de faire ta	connaissance, {cher futur voisin/chère future voisine}!
+"023"	{emote: Happiness}Eh bien, voilà qui est décidé!{Wait for input}{emote: Glee}Je vais commencer à m'occuper	des préparatifs dès maintenant!	Il y a tant à faire!{Wait for input}{emote: Reset}Rappelle-moi ton nom,{pause 20} c'est bien	{pause 20}{Player name}, c'est ça?{Wait for input} {emote: Sunny}Heureux de	faire ta connaissance, {Player name}!
+"024"	{emote: Joy}Me voilà fixé!{pause 40} Dès que j'en ai marre	de faire du camping, je m'occupe	mon déménagement!	{emote: Shyness}Tu sais{pause 8}.{pause 8}.{pause 8}.{pause 20} depuis que je suis arrivé	en ville, je me suis dit que ça serait	vraiment sympa de venir habiter là.	{emote: Laughter}Donc quelque part, je suis plutôt	content d'avoir perdu,	{pause 8}{catchphrase}!
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}

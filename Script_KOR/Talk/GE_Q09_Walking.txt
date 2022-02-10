@@ -1,29 +1,29 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Glee}
-"003"	{emote: Surprise}
-"004"	{emote: Curious}
-"005"	{emote: Happiness}
-"006"	{emote: Glee}
-"007"	{emote: Curious}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Joy}
-"011"	우리 집에 오는 게 몇 번째지?{pause 30}
-"012"	{emote: Distress}
-"013"	{emote: Curious}
-"014"	{emote: Alarmed}
-"015"	{emote: Happiness}
-"016"	{emote: Sheepishness}
-"017"	{emote: Alarmed}
-"018"	{emote: Happiness}
-"019"	{emote: Sheepishness}
-"020"	{emote: Distress}
-"021"	{emote: Curious}
-"022"	{emote: Worry}
-"023"	{emote: Sigh}
-"024"	{emote: Surprise}
-"025"	{emote: Laughter}
-"026"	{emote: Happiness}
-"027"	{emote: Distress}
-"028"	{emote: Anger}
+"001"	{emote: Happiness}이런 일도 생기겠다 싶어서{pause 10}	미리미리	정리해 뒀지～ {pause 10}{catchphrase}!{emote: Reset}
+"002"	{emote: Glee}나의{pause 8}	해피 하우스를 보고 놀라서{pause 10}	뒤로 자빠지지 말라구!{emote: Reset}
+"003"	{emote: Surprise}이미 알겠지만{pause 10}	{emote: Happiness}집이 어딘지 {pause 8}잘 모를 땐{pause 8}	지도를 봐봐～{emote: Reset}
+"004"	{emote: Curious}우리 집?{pause 20}	{emote: Happiness}제일 근사한 집이니까 딱 알껄?{pause 30}	{emote: Pride}안내 같은 건 없어도 되겠지?
+"005"	{emote: Happiness}집 치워 두길 {pause 8}잘했다～{pause 20}	{Player nickname (green)}한테는{pause 8}	좋은 모습만 보이고 싶다구!{emote: Reset}
+"006"	{emote: Glee}혹시{pause 8}	우리 집 처음 아냐?{pause 30}	{emote: Happiness}너가 어떤 반응을 보일까～!{emote: Reset}
+"007"	{emote: Curious}어?{pause 20}	그러고 보니 {Player nickname (green)}{000e-000e-0008-0002-c740-0002-b294}{pause 10}	{emote: Laughter}우리 집 처음이네?!	{emote: Happiness}너가 좋아할 만한 걸{pause 10}	열심히 대접할게!{emote: Reset}
+"008"	{emote: Happiness}그러고 보니 {pause 8}{Player name}{000e-000e-0008-0002-c740-0002-b294}{pause 10}	우리 집 처음이네?{Wait for input}{emote: Glee}어때?{pause 30}	막 두근두근하고 그래?!{emote: Reset}
+"009"	{emote: Happiness}{Player name}도{pause 10}	{emote: Glee}우리 집 단골손님이{pause 8}	다 됐네～!
+"010"	{emote: Joy}우리 집의 매력에{pause 8}	포～옥 빠졌어?!{emote: Reset}
+"011"	우리 집에 오는 게 몇 번째지?{pause 30}	{emote: Thought}{pause 10}이 정도면{pause 10}・{pause 10}・{pause 10}・{pause 30}	{emote: Happiness}{Villager's name (orange)}네 집 전문가라고 해도 되겠어!{emote: Reset}
+"012"	{emote: Distress}잠깐만!{Wait for input}	오늘은 {Player name}네 집이 아니라	우리 집에서 놀기로 했는데～ {pause 10}{catchphrase}!{emote: Reset}
+"013"	{emote: Curious}왜 그래?{pause 30}	그쪽은 집이 아닌데～?{emote: Reset}
+"014"	{emote: Alarmed}어?!{pause 30}	{Player name}{000e-000e-0008-0002-c544-0002-c57c},{pause 10}	혹시 {pause 8}어디 나가야 돼?{Wait for input}{emote: Soft Smile}그럼 {pause 10}집에서 노는 건	나중으로 미뤄도 되는데 {pause 10}어떡할래?{000f-0000-0004-0028-0015}	아냐, 괜찮아!	다음에 놀자
+"015"	{emote: Happiness}다행이다!{pause 20}	그럼 {pause 8}얼른 가자! {pause 10}{catchphrase}!{emote: Reset}
+"016"	{emote: Sheepishness}그래～? {pause 10}할 수 없지{pause 30}	그럼 다시 초대할 테니까{pause 10}	나중에 한가할 때 놀자～!{Wait for input}바이바이!{emote: Reset}
+"017"	{emote: Alarmed}응?!{pause 30}	{Player name}{000e-000e-0008-0002-c544-0002-c57c}{pause 10}	혹시 {pause 8}볼일이라도 있어?{emote: Reset}	그럼 {pause 10}집에는{pause 5}	나중에 올래?{000f-0000-0004-0028-0015}	지금 갈래!	나중에 갈게!
+"018"	{emote: Happiness}잘 됐다!{pause 30}	그럼 {pause 8}얼른 가자～{emote: Reset}
+"019"	{emote: Sheepishness}알았어～{pause 30}	아쉽지만{pause 10}	나중에 한가할 때 놀자!{emote: Reset}
+"020"	{emote: Distress}어디 가～!{pause 20}	거긴 우리 집이 아니라구!{emote: Reset}
+"021"	{emote: Curious}왜 그래?{pause 30}	{emote: Sunny}얼른 가자!{emote: Reset}
+"022"	{emote: Worry}・・・저기, {Player name}{000e-000e-0008-0002-c544-0002-c57c}～{Wait for input}	{emote: Sheepishness}내가 가자고 해 놓고{pause 10}	진짜 미안한데{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Distress}내가{pause 10}	사실 {pause 8}시간이 별로 없어～ {pause 10}{catchphrase}{Wait for input}{emote: Sadness}미안하지만{pause 8} 오늘은 역시 가지 말자!{Wait for input}	{emote: Distress}이 빚은{pause 8}	조만간 꼭 갚을게! {pause 20}미안해～!{emote: Reset}
+"023"	{emote: Sigh}하암～{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Alarmed}어쩐지 졸리다 했더니{pause 8}	벌써 시간이 이렇게 됐네!	{emote: Worry}저기, {pause 10}	내가 불러 놓고 미안한데{pause 10}	오늘은 우리 집 가지 말자～	{emote: Distress}나중에 다시 초대할게!{pause 20}	진짜 미안～!!
+"024"	{emote: Surprise}앗! {pause 20}여기야～!{Wait for input}	{emote: Happiness}잠깐만{pause 10}	바로 문 열게{pause 10}・{pause 10}・{pause 10}・{pause 10}
+"025"	{emote: Laughter}아! {pause 20}도착～!{Wait for input}	{emote: Happiness}지금 문 열 테니까{pause 10}	잠깐만～{pause 10}・{pause 10}・{pause 10}・{pause 10}
+"026"	{emote: Happiness}그래, {pause 8}바로 이 근사한 집이라구～{Wait for input}	금방 문 열게{pause 10}・{pause 10}・{pause 10}・{pause 10}
+"027"	{emote: Distress}같이 가～!
+"028"	{emote: Anger}같이 가자고 그랬잖아～{pause 30}	{emote: Outrage}너 미워! {pause 20}이제 됐어!{000b-0003-0002-cd03}

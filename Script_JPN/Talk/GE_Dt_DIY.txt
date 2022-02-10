@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Distress}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Curious}
+"001"	{emote: Happiness}ホームセンターって{pause 10}	{ruby (charSpan 1): しな}品ぞろえがいいから、{pause 15}	{ruby (charSpan 1): えら}選ぶの　{ruby (charSpan 1): まよ}迷っちゃうんだよね～
+"002"	{emote: Distress}あ～ん！{Wait for input}	{emote: Daydreaming}あれもほしい！　{pause 10}これもほしい！{pause 20}	{emote: Distress}み～んなほしいよ～、{pause 15}{catchphrase}
+"003"	{emote: Distress}あれが{ruby (charSpan 1): た}足りない！　{pause 10}って{ruby (charSpan 1): おも}思ったら、{pause 15}	{emote: Happiness}すぐ{pause 5}ホームセンターに　{pause 3}{ruby (charSpan 1): き}来ちゃうんだよね！
+"004"	{emote: Happiness}ホームセンターって、{pause 10}	{ruby (charSpan 1): か}買う{ruby (charSpan 1): き}気のなかったものまで{pause 8}	ほしくなっちゃうよね
+"005"	{emote: Curious}あれ～？{pause 10}	{ruby (charSpan 1): なに}何{ruby (charSpan 1): か}買おうとしたんだっけ？{Wait for input}	{emote: Distress}どわすれしちゃったんだけど～

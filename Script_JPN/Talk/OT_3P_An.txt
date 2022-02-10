@@ -1,31 +1,31 @@
 == 0 ==
-"001"	{000c-0000-0000}
-"002"	{000c-0000-0000}
-"003"	{000c-0000-0000}
-"004"	{000c-0000-0000}
-"005"	{000c-0000-0000}
-"006"	{000c-0000-0000}
-"007"	{000c-0000-0000}
-"008"	{000c-0000-0000}
-"009"	{000c-0000-0000}
-"010"	
-"011"	{000c-0000-0000}
-"012"	{000c-0000-0000}
-"013"	{000c-0000-0000}
-"014"	{000c-0000-0000}
-"015"	{000c-0000-0000}
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	{000c-0000-0000}
-"022"	{000c-0000-0000}
-"023"	{000c-0000-0000}
-"024"	{000c-0000-0000}
-"025"	{000c-0000-0000}
-"026"	{000c-0000-0000}
-"027"	{000c-0000-0000}
-"028"	{000c-0000-0000}
-"029"	
-"030"	
+"001"	{000c-0000-0000}{000c-0005-0000}{emote: Distress}ちょっと　{pause 16}{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着いて！{pause 32}	{Player nickname (green)}{0005-000d-0000}が	{ruby (charSpan 1): み}見てるわよ！{000c-0009-0000}
+"002"	{000c-0000-0000}{000c-0007-0000}{emote: Aggravation}そんなの　{ruby (charSpan 2): かんけい}関係ないよっ！{pause 32}	{emote: Outrage}アンタ、{ruby (charSpan 2): としうえ}年上だからって{pause 16}	{ruby (charSpan 2): ちょうし}調子に{ruby (charSpan 1): の}乗ってるだろう？{pause 32}{emote: Anger}{000c-0009-0000}
+"003"	{000c-0000-0000}{000c-0005-0000}{emote: Worry}{ruby (charSpan 1): の}乗ってないわよ{pause 8}・{pause 8}・{pause 8}・{pause 32}	{000c-0001-0000}{000c-0003-0000}{pause 16}{emote: Worry}ちょっと　{Player nickname (green)}{0005-000d-0000}{pause 16}	{ruby (charSpan 1): たす}助けて、{pause 8}{catchphrase}	{emote: Sheepishness}リーゼントと　モヒカンが{pause 8}	{ruby (charSpan 1): おな}同じようなものだって　{ruby (charSpan 1): い}言ったら{pause 16}	{0011-0001-0002-0001}{0005-000d-0000}、{pause 16}{ruby (charSpan 1): おこ}怒っちゃって{pause 8}・{pause 8}・{pause 8}・{pause 8}{000c-0009-0000}
+"004"	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0007-0000}{emote: Aggravation}リーゼントと　モヒカンには{pause 16}	{ruby (charSpan 1): おお}大きな{ruby (charSpan 1): ちが}違いが　あるんだよ！	{pause 8}{catchphrase}！	{000c-0001-0000}{000c-0003-0000}{000c-0002-0000}{000c-0003-0000}{pause 16}{emote: Worry}な、{pause 16}{Player nickname (green)}だったら	{emote: Curious}わかるだろう？{Wait for input}	{emote: Anger}{ruby (charSpan 2): きあ}気合いを　{ruby (charSpan 1): い}入れるっつったら{pause 4}・{pause 4}・{pause 4}・{pause 4}{Player can respond (0006):0005-0000-0006-0000-0008-0028}	リーゼント	モヒカン	わかんない
+"005"	{000c-0000-0000}{000c-0007-0000}{emote: Glee}さすが、{Player nickname (green)}{pause 16}	わかってるね～、{pause 8}{catchphrase}{Wait for input}{emote: Anger}あのリーゼントの　{ruby (charSpan 1): さき}先っぽには{pause 16}	{ruby (charSpan 1): ゆめ}夢とロマンが　つまってるのさ！{pause 16}{000c-0002-0000}{000c-0005-0000}{pause 16}	{emote: Anger}モヒカンと　{ruby (charSpan 2): いっしょ}一緒にされたら{ruby (charSpan 1): こま}困るよ{000c-0009-0000}
+"006"	{000c-0000-0000}{000c-0007-0000}{emote: Glee}さすが、{Player nickname (green)}{pause 16}	わかってるね～、{pause 8}{catchphrase}{Wait for input}{emote: Anger}あのモヒカンの{ruby (charSpan 1): さき}先っぽには{pause 16}	{ruby (charSpan 2): けつい}決意と{ruby (charSpan 2): ゆうき}勇気が　つまってるのさ！{pause 16}{000c-0002-0000}{000c-0005-0000}{pause 16}	{emote: Anger}リーゼントと　{ruby (charSpan 2): いっしょ}一緒にされたら{ruby (charSpan 1): こま}困るよ{000c-0009-0000}
+"007"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0007-0000}{pause 16}あら、{pause 8}そうなの{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Worry}{Gray}（うかつに　ふれるのは、{pause 16}	やめた{ruby (charSpan 1): ほう}方が　{ruby (charSpan 1): よ}良さそうね）{Color Reset}
+"008"	{000c-0000-0000}{000c-0007-0000}{emote: Cold Chill}{pause 60}なんで　{ruby (charSpan 2): ふたり}二人とも{pause 16}	わかんないんだ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Worry}きっと　ロックの{ruby (charSpan 2): かみさま}神様が{pause 16}	なげいてるよ{pause 8}・{pause 8}・{pause 8}・{pause 8}{000c-0009-0000}
+"009"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0007-0000}{pause 16}{emote: Soft Smile}まぁ、{pause 16}{ruby (charSpan 2): きあ}気合いの{ruby (charSpan 1): い}入れ{ruby (charSpan 1): かた}方は{pause 8}	{ruby (charSpan 1): ひと}人それぞれってことね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"010"
+"011"	{000c-0000-0000}{000c-0005-0000}{000c-0002-0000}{000c-0003-0000}{000c-0001-0000}{000c-0003-0000}{pause 16}{emote: Alarmed}あら、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	{emote: Reset}{0011-0001-0002-0001}{0005-000d-0000}には{pause 16}	{ruby (charSpan 2): やぼう}野望があるんですって{pause 4}・{pause 4}・{pause 4}・{pause 4}{000c-0009-0000}
+"012"	{000c-0000-0000}{000c-0007-0000}{emote: Anger}{ruby (charSpan 1): き}聞いてくれ、{pause 8}{Player nickname (green)}{pause 32}	ウチの　{ruby (charSpan 2): やぼう}野望はね{pause 4}・{pause 4}・{pause 4}・{pause 32}	ダチを100{ruby (charSpan 1): にん}人　{ruby (charSpan 1): つく}作ることさ！{000c-0009-0000}
+"013"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{pause 16}{emote: Thought}{pause 16}なんか　どこかで{pause 16}	{ruby (charSpan 1): き}聞いたことある{ruby (charSpan 1): き}気がするけど{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}また　スゴイ{ruby (charSpan 2): やぼう}野望じゃない？{000c-0009-0000}
+"014"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0003-0000}{pause 16}{emote: Glee}100{ruby (charSpan 1): にん}人で　{ruby (charSpan 1): わら}笑いながら{pause 16}	{ruby (charSpan 2): すなはま}砂浜を　{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 1): はし}走るのさ！	{pause 8}{catchphrase}！{000c-0009-0000}
+"015"	{000c-0000-0000}{000c-0005-0000}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Worry}{ruby (charSpan 4): きんじょめいわく}近所迷惑なことは、	しないでね？{pause 8}　{0011-0001-0002-0001}{0005-000d-0000}？
+"016"
+"017"
+"018"
+"019"
+"020"
+"021"	{000c-0000-0000}{000c-0005-0000}{000c-0002-0000}{000c-0003-0000}{000c-0001-0000}{000c-0003-0000}{pause 16}{emote: Alarmed}あら、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	{emote: Reset}{0011-0001-0002-0001}{0005-000d-0000}が　{pause 8}{ruby (charSpan 3): ぶゆうでん}武勇伝を	{ruby (charSpan 1): き}聞かせてくれるんだって{000c-0009-0000}
+"022"	{000c-0000-0000}{000c-0007-0000}{emote: Soft Smile}アンタにも　ウチの{ruby (charSpan 3): ぶゆうでん}武勇伝{pause 16}	{ruby (charSpan 1): き}聞かせてあげるよ、{pause 8}{Player nickname (green)}{Player can respond (0005):0017-0015-001b-0028}	{ruby (charSpan 1): き}聞かせて	{ruby (charSpan 2): きょうみ}興味ない
+"023"	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0007-0000}おフロに　つかるっていうのは、{pause 16}	どれくらい　つかり{ruby (charSpan 1): つづ}続ければいいか{pause 16}	{ruby (charSpan 2): いがい}意外と　わからないモンだろう？{000c-0009-0000}
+"024"	{000c-0000-0000}{000c-0005-0000}{000c-0002-0000}{000c-0005-0000}ちょっと{ruby (charSpan 1): あつ}熱めの　お{ruby (charSpan 1): ゆ}湯なら{pause 16}	なおさらよね、{pause 8}{catchphrase}{000c-0009-0000}
+"025"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0003-0000}{emote: Anger}ウチは、{pause 16}その{ruby (charSpan 1): あつ}熱めのお{ruby (charSpan 1): ゆ}湯に{pause 32}	{emote: Pride}100を{ruby (charSpan 1): かぞ}数えるまで{pause 16}	{ruby (charSpan 1): はい}入っていられるんだよっ！	{pause 8}・{pause 8}・{pause 8}・{pause 8}どうだい？{pause 32}	{emote: Glare}スゴイ{ruby (charSpan 2): こんじょう}根性だろう？{000c-0009-0000}
+"026"	{000c-0000-0000}{000c-0005-0000}{000c-0002-0000}{000c-0005-0000}{emote: Soft Smile}まぁ、{pause 16}スゴイわね～{pause 8}・{pause 8}・{pause 8}・{pause 8}	{0011-0001-0002-0001}{0005-000d-0000}！{pause 32}	{Gray}（ちっちゃいコの　{ruby (charSpan 3): じまんばなし}自慢話みたい）{Color Reset}
+"027"	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0007-0000}{emote: Sheepishness}ビッグになるヤツの{ruby (charSpan 1): はなし}話は{pause 16}	{ruby (charSpan 1): き}聞いておいた{ruby (charSpan 1): ほう}方がいいよ？　	{pause 16}{Player nickname (green)}？{000c-0009-0000}
+"028"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0003-0000}{emote: Sheepishness}{0011-0001-0002-0001}{0005-000d-0000}、{pause 16}	{ruby (charSpan 1): なに}何になるつもりかしら{pause 8}・{pause 8}・{pause 8}・？
+"029"
+"030"

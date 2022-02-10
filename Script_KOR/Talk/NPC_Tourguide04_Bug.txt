@@ -1,87 +1,87 @@
 == 0 ==
-"001"	이 투어의 테마는{pause 10}
-"002"	시간 안에 곤충을 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}
-"003"	시간 안에 둘이서 곤충을	{Blue}{Number (0x7)}마리 이상 {Color Reset}잡는 데 성공한다면{pause 10}
-"004"	모두가 힘을 합쳐 시간 안에	곤충을 {Blue}{Number (0x7)}마리 이상{Color Reset} 잡으면{pause 10}
-"005"	
-"006"	이 투어의 목적은{pause 10}
-"007"	시간 안에 곤충을 잡아	총액 {Blue}{0004-000b-0002-06-00}벨 이상{Color Reset}을 달성하면{pause 10}
-"008"	시간 안에 둘이서 곤충을 잡아	총액 {Blue}{0004-000b-0002-06-00}벨 이상{Color Reset}을 달성하면{pause 10}
-"009"	시간 안에 모두가 힘을 합쳐 곤충을 잡아	총액 {Blue}{0004-000b-0002-06-00}벨 이상{Color Reset}을 달성하면{pause 10}
-"010"	
-"011"	{Blue}{Number (0x7)}분{Color Reset} 안에 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}
-"012"	{Blue}{Number (0x7)}분 {Color Reset}안에 둘이 합쳐 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}
-"013"	{Blue}{Number (0x7)}분 {Color Reset}안에 모두 합쳐 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	{Blue}잠자리채{Color Reset}는{pause 5}
-"021"	자! 자!{pause 15}
-"022"	힘을 내게!{pause 15}!
-"023"	잘 되고 있는가?{pause 15}
-"024"	
-"025"	힘을 내게!{pause 15}!
-"026"	잘 되어 가나?{pause 15}
-"027"	힘을 내게!{pause 15}!
-"028"	
+"001"	이 투어의 테마는{pause 10}	이름에서도 알 수 있듯이{pause 5}・{pause 5}・{pause 5}・{pause 10}	{Blue}곤충채집{Color Reset}이라네!{Wait for input}제한 시간은 {Blue}{Number (0x7)}분{Color Reset}!{pause 20}	그 안에{pause 5} 되도록 많은	곤충을 잡도록 하게!
+"002"	시간 안에 곤충을 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}	기념으로 메달을 주지!
+"003"	시간 안에 둘이서 곤충을	{Blue}{Number (0x7)}마리 이상 {Color Reset}잡는 데 성공한다면{pause 10}	기념으로 메달을 주지!
+"004"	모두가 힘을 합쳐 시간 안에	곤충을 {Blue}{Number (0x7)}마리 이상{Color Reset} 잡으면{pause 10}	기념으로 메달을 주지!
+"005"
+"006"	이 투어의 목적은{pause 10}	이름에서도 알 수 있듯이{pause 10}	비싼 곤충을 노리는 {pause 5}{Blue}곤충채집{Color Reset}이라네!{Wait for input}제한 시간은 {Blue}{Number (0x7)}분{Color Reset}!{pause 20}	그 안에 {pause 5}비싼 곤충을	잔뜩 잡도록 하게!
+"007"	시간 안에 곤충을 잡아	총액 {Blue}{0004-000b-0002-0006}벨 이상{Color Reset}을 달성하면{pause 10}	기념으로 메달을 주지!
+"008"	시간 안에 둘이서 곤충을 잡아	총액 {Blue}{0004-000b-0002-0006}벨 이상{Color Reset}을 달성하면{pause 10}	기념으로 메달을 주지!
+"009"	시간 안에 모두가 힘을 합쳐 곤충을 잡아	총액 {Blue}{0004-000b-0002-0006}벨 이상{Color Reset}을 달성하면{pause 10}	기념으로 메달을 주지!
+"010"
+"011"	{Blue}{Number (0x7)}분{Color Reset} 안에 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}	기념으로 메달을 주지!
+"012"	{Blue}{Number (0x7)}분 {Color Reset}안에 둘이 합쳐 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}	기념으로 메달을 주지!
+"013"	{Blue}{Number (0x7)}분 {Color Reset}안에 모두 합쳐 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}	기념으로 메달을 주지!
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"	{Blue}잠자리채{Color Reset}는{pause 5}	지금 손에 들고 있는 걸	쓰면 되겠구먼
+"021"	자! 자!{pause 15}	힘을 내서 곤충을 {Blue}{Number (0x7)}마리 이상{Color Reset}{pause 5}	잡아보게나～!
+"022"	힘을 내게!{pause 15}	둘이서 힘을 합쳐 {Blue}{Number (0x7)}마리 이상{Color Reset}{pause 5}	곤충을 잡아오는 걸세～!
+"023"	잘 되고 있는가?{pause 15}	모두가 힘을 모아 곤충을	{Blue}{Number (0x7)}마리 이상{Color Reset}{pause 5} 잡도록 하게～!
+"024"
+"025"	힘을 내게!{pause 15}	총액 {Blue}{0004-000b-0002-0006}벨{Color Reset} 돌파를{pause 5}	목표로 말이네～!{Wait for input}되도록 비싸 보이는 곤충을	노리는 게{pause 5} 포인트일세!
+"026"	잘 되어 가나?{pause 15}	둘이 합쳐 {pause 5}총액 {Blue}{0004-000b-0002-0006}벨{Color Reset} 돌파를	노리도록 하게!{Wait for input}되도록 비싸 보이는	곤충을 노리는 게{pause 5}	좋을지도 모르겠구먼!
+"027"	힘을 내게!{pause 15} 모두가 힘을 합쳐{pause 5}	총액 {Blue}{0004-000b-0002-0006}벨{Color Reset}을 넘기면	되는 거라네!{Wait for input}되도록 몸값이 비싸 보이는	곤충을 노리는 게{pause 5}	포인트이지!
+"028"
 "029"	열심히 찾아다녀서	시간 안에 {Blue}{Number (0x7)}마리 이상	{Color Reset}잡으면 되는 거라네!
-"030"	두 사람이 힘을 모아{pause 5}
-"031"	모두가 힘을 합쳐{pause 5}
-"032"	
-"033"	보아하니 이미 목표는	달성한 것 같군그래!{0000-0004-0000}
-"034"	
-"035"	
-"036"	
-"037"	목표액에 이미 도달했군!{0000-0004-0000}
-"038"	
-"039"	
-"040"	
-"041"	아무래도 목표량은	벌써 채웠나 보군그래!{0000-0004-0000}
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
-"048"	이곳에서는 잡은 곤충을	풀어주는 게 규칙이라네!{pause 10}
-"049"	곤충만 아니라면{pause 10}
-"051"	이번 기록은{pause 5}!
-"052"	이번 기록은{pause 5}!
-"053"	{pause 5}
-"054"	{emote: Happiness}
-"055"	{emote: Agreement}
-"056"	{emote: Agreement}
-"057"	{emote: Thought}
-"058"	
-"059"	
-"060"	
-"061"	
-"062"	
-"063"	
-"064"	
-"065"	
-"066"	
-"067"	
-"068"	
-"069"	
-"070"	
-"071"	
-"072"	
-"073"	
-"074"	
-"075"	
-"076"	
-"077"	
-"078"	
-"079"	
-"081"	이번 투어의 테마는{pause 10}
-"082"	이번 투어의 목적은{pause 10}
-"083"	이번 투어의 테마는{pause 10}
-"084"	이번 투어의 테마는{pause 10}
-"085"	이번 투어의 목적은{pause 10}
-"086"	이번 투어의 목적은{pause 10}
-"087"	이번 투어의 테마는{pause 10}
-"088"	이번 투어의 테마는{pause 10}
-"089"	이번 투어의 테마는{pause 10}
+"030"	두 사람이 힘을 모아{pause 5}	{Blue}{Number (0x7)}마리 이상{Color Reset}을	잡도록 하게!
+"031"	모두가 힘을 합쳐{pause 5}	{Blue}{Number (0x7)}마리 이상 {Color Reset}잡을 수	있도록 노력해보게!
+"032"
+"033"	보아하니 이미 목표는	달성한 것 같군그래!{Wait for input}좋은 기록을 내면 그만큼	메달을 좀 더 얹어줌세!{pause 10}	남은 시간 동안 더욱 분발하게!
+"034"
+"035"
+"036"
+"037"	목표액에 이미 도달했군!{Wait for input}높은 액수를 기록하면	메달을 많이 받을 수 있으니{pause 10}	지금부터 더 분발하게!
+"038"
+"039"
+"040"
+"041"	아무래도 목표량은	벌써 채웠나 보군그래!{Wait for input}높은 기록을 세울수록	받게 되는 메달 수도 늘어날 테니{pause 10}	시간이 끝날 때까지 열심히 잡게!
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
+"048"	이곳에서는 잡은 곤충을	풀어주는 게 규칙이라네!{pause 10}	집에 가져갈 수 없단 소리지	이 섬의 생태계를 지키기 위함이니{pause 10}	자네가 이해하게!
+"049"	곤충만 아니라면{pause 10}	이 섬에서 획득한 것들을	마음대로 가져가도 좋네!{Wait for input}혹시 다른 도구가 필요하면{pause 10}	{Orange}토용군{Color Reset}에게 빌리도록 하게!
+"051"	이번 기록은{pause 5}・{pause 5}・{pause 5}・{pause 60}	　　　　　　합계 {Blue}{Number (0x7)}마리{Color Reset}!
+"052"	이번 기록은{pause 5}・{pause 5}・{pause 5}・{pause 60}	　　　      　　총액 {Blue}{0004-000b-0002-0007}벨{Color Reset}!
+"053"	{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Worry}안타깝지만{pause 5}	목표를 달성하지 못했으니	메달은{pause 5} 받을 수 없겠구먼
+"054"	{emote: Happiness}무사히 목표를 클리어했군!{pause 15}	기념으로 메달 {Blue}{Number (0x7)}개{Color Reset}를 수여하겠네!
+"055"	{emote: Agreement}괜찮은 결과로구먼{pause 5}・{pause 5}・{pause 5}・{pause 10}	{emote: Happiness}이건 브론즈 고북상감일세!{pause 20}	기념으로 메달 {Blue}{Number (0x7)}개{Color Reset}를 수여하겠네!
+"056"	{emote: Agreement}훌륭한 결과로구먼{pause 5}・{pause 5}・{pause 5}・{pause 10}	{emote: Happiness}이건 실버 고북상감일세!{pause 20}	기념으로 메달을 {Blue}{Number (0x7)}개{Color Reset} 수여하겠네!
+"057"	{emote: Thought}이렇게나 놀라운	결과를 내다니{pause 5}・{pause 5}・{pause 5}・{Wait for input}{0007-000a-0000}{emote: Happiness}아주 훌륭하네!{pause 10}	이건 골드 고북상감일세!{pause 20}	기념으로 메달 {Blue}{Number (0x7)}개{Color Reset}를 수여하겠네!
+"058"
+"059"
+"060"
+"061"
+"062"
+"063"
+"064"
+"065"
+"066"
+"067"
+"068"
+"069"
+"070"
+"071"
+"072"
+"073"
+"074"
+"075"
+"076"
+"077"
+"078"
+"079"
+"081"	이번 투어의 테마는{pause 10}	이름에서 눈치챘겠지만	{Blue}나비{Color Reset}를 찾아다니는 걸세!{Wait for input}{Blue}배추흰나비{Color Reset}나 {pause 5}{Blue}노랑나비{Color Reset},{pause 5}	{Blue}호랑나비{Color Reset} 등등{pause 5}・{pause 5}・{pause 5}・{pause 15}	나비 종류라면 뭐든 OK라네!
+"082"	이번 투어의 목적은{pause 10}	이름에서 눈치챘겠지만	{Blue}딱정벌레{Color Reset}{pause 5}・{pause 5}・{pause 5}・{Wait for input}다시 말해{pause 10}	{Blue}장수풍뎅이{Color Reset}나 {Blue}사슴벌레{Color Reset} 같은	곤충들을{pause 5} 찾는 걸세!
+"083"	이번 투어의 테마는{pause 10}	이름에서 눈치챘겠지만	{Blue}잠자리{Color Reset}를 잡는 걸세!{Wait for input}{Blue}왕잠자리{Color Reset},{pause 5} {Blue}장수잠자리{Color Reset}{pause 5}・{pause 5}・{pause 5}・{pause 15}	잠자리면 무조건 다 된다네!
+"084"	이번 투어의 테마는{pause 10}	이름에서 눈치챘겠지만	{Blue}가을에 우는 곤충{Color Reset}을 찾는 거라네!{Wait for input}{pause 5}・{pause 5}・{pause 5}・{pause 5}가을에 우는 곤충이라면 역시{pause 10}	{Blue}방울벌레{Color Reset},{pause 5} {Blue}귀뚜라미{Color Reset}, {pause 5}{Blue}여치{pause 10}{Color Reset}	아니겠는가!
+"085"	이번 투어의 목적은{pause 10}	이름에서 눈치챘겠지만	{Blue}매미{Color Reset}를 잡는 거라네!{Wait for input}아무튼 매미와 같은 종류라면{pause 5}	뭐든지 상관없지!
+"086"	이번 투어의 목적은{pause 10}	이름에서 이미 눈치챘겠지만	{Blue}메뚜기와 비슷한 곤충{Color Reset}을 찾는 거라네!{Wait for input}이 섬에는 {pause 5}{Blue}방아깨비{Color Reset}와	{Blue}섬풀무치{Color Reset}가{pause 5} 서식하고 있지!
+"087"	이번 투어의 테마는{pause 10} 이름 그대로	곤충과의 숨바꼭질{pause 5}・{pause 5}・{pause 5}・{pause 10}	{Blue}숨어 있는 곤충{Color Reset}을 찾아내는 걸세!{Wait for input}이 섬에는 {pause 5}{Blue}지네{Color Reset}나 {Blue}긴수염대벌레{Color Reset},	{Blue}땅강아지{Color Reset}, {pause 5}{Blue}쥐며느리{Color Reset}처럼 쉽게 눈에	띄지 않는 곤충들이 많이 서식하고 있다네!{Wait for input}바위를 때리거나{pause 5} 구멍을 파거나{pause 5}	나무를 잘 관찰해서{pause 10} 찾아보게!
+"088"	이번 투어의 테마는{pause 10}	이름에서 눈치챘겠지만	{Blue}반디{Color Reset}를 잡는 거라네!{Wait for input}공중에서 어슴푸레하게 빛나는 것이{pause 5}	바로 {Blue}반디{Color Reset}일세!
+"089"	이번 투어의 테마는{pause 10}	이름에서 눈치챘겠지만	{Blue}거대 잠자리{Color Reset}를 잡는 걸세!{Wait for input}이 섬에는{pause 5}	{Blue}장수잠자리{Color Reset}와 {Blue}꽃잎꼬리잠자리{Color Reset}가{pause 5}	서식하고 있지!{Wait for input}아주 재빠른 녀석들이니까{pause 10}	정신 바짝 차려야 하네!

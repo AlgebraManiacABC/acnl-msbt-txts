@@ -1,205 +1,205 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	Y-{pause 20}
-"004"	Um, {pause 20}
-"005"	{emote: Alarmed}
-"006"	Um,{pause 20}
-"007"	G-{pause 20}
-"008"	H-{pause 20}
-"009"	Good evening. {pause 20}!
-"010"	Hmm.{pause 8}
-"011"	Is,{pause 20}
-"012"	{emote: Worry}
-"013"	Oh, {pause 20}
-"014"	Well, only that{pause 8}
-"015"	Oh, {pause 8}
-"016"	Oh,{pause 8}
-"017"	Oh,{pause 8}
-"018"	Is,{pause 20}
-"019"	{emote: Alarmed}
-"020"	
-"021"	Hmmm.{pause 20}
-"022"	Oh, {pause 20}
-"023"	Well, uh, {pause 20}
-"024"	Oh,{pause 20}
-"025"	Of-{pause 20}
-"026"	{emote: Distress}
-"027"	{emote: Alarmed}
-"028"	
-"029"	Y-{pause 20}
-"031"	Um,{pause 20}
-"032"	Well,{pause 20}
-"033"	Ummmm, {pause 20}
-"034"	Um, {pause 20}
-"035"	Oh,{pause 20}
-"036"	Funny you should ask{pause 8}
-"037"	Ummm{pause 8}
-"038"	Um, {pause 20}
-"039"	Ummm,{pause 20}
-"040"	Hmmm{pause 8}
-"041"	
+"001"	{emote: Alarmed}{0007-000b-0000}Oh, uh{pause 8}.{pause 8}.{pause 8}.{pause 20} You're Mayor {Player name},	right?{Wait for input}{emote: Distress}I'm sorry I didn't recognize you right	away. Kinda bad with faces{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Um,{pause 20} well,{pause 40} I'm always here if you	need me. I guess{pause 8}.{pause 8}.{pause 8}.
+"002"	{emote: Alarmed}{0007-000b-0000}Oh, uh{pause 8}.{pause 8}.{pause 8}.{pause 20} You're {Player name}, right?{Wait for input}{emote: Distress}I'm sorry I didn't, uh, recognize you	right away{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Um,{pause 20} well,{pause 40} I'm always here if you	need me, I guess{pause 8}.{pause 8}.{pause 8}.
+"003"	Y-{pause 20}{emote: Alarmed}{0007-000b-0000}yes! Hello!{pause 60} {emote: Reset}This is, {pause 8}um,{pause 20}	the {Town name (pink)} police station{pause 8}.{pause 8}.{pause 8}.
+"004"	Um, {pause 20}you can, well{pause 8}.{pause 8}.{pause 8}.{pause 40}look around,	maybe, if you want.
+"005"	{emote: Alarmed}{0007-000b-0000}Oh{pause 8}.{pause 8}.{pause 8}.{pause 20} G-good morning.{pause 40} You wake up	kind of early.
+"006"	Um,{pause 20} that is,{pause 40} good morning{pause 8}.{pause 8}.{pause 8}.
+"007"	G-{pause 20}good afternoon{pause 8}.{pause 8}.{pause 8}.
+"008"	H-{pause 20}hello{pause 8}.{pause 8}.{pause 8}.
+"009"	Good evening. {pause 20}{Text size 75%}I think{Text size 100%}{pause 8}.{pause 8}.{pause 8}.
+"010"	Hmm.{pause 8} Umm,{pause 40} you're up{pause 20} kinda late{pause 8}.{pause 8}.{pause 8}.
+"011"	Is,{pause 20} um,{pause 20} {emote: Curious}there something I can help	you with?{000f-0005-0004-0000-0028}	Anything unusual?	No, I'm fine.
+"012"	{emote: Worry}I-{pause 20}I see.{pause 40} Sorry for bothering you{pause 8}.{pause 8}.{pause 8}.
+"013"	Oh, {pause 20}{emote: Alarmed}{0007-000b-0000}of course!{pause 60} {emote: Reset}Well, {pause 20}ummm{pause 8}.{pause 8}.{pause 8}.{Wait for input}I haven't noticed anything{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Distress}I'm so{pause 20} terribly{pause 20} sorry!{Wait for input}	{emote: Worry}{Text size 75%}I'll pay more attention{Text size 100%}{Text size 75%}{pause 20} in the future{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"014"	Well, only that{pause 8}.{pause 8}.{pause 8}.{pause 20}it seems we might	be having visitors soon.	{Text size 75%}Maybe, maybe not.	{Text size 100%}{emote: Alarmed}{0007-000b-0000}Oh, {pause 20}what I mean is,{pause 40} {emote: Worry}since the station	gate is open,{pause 20} someone might visit.	{pause 20}{Text size 75%}That's all{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"015"	Oh, {pause 8}ummm{pause 8}.{pause 8}.{pause 8}.{pause 20} I got a message from	the train station.{Wait for input}I think it said we have a visitor from	another town,{pause 20} or something like	that.{pause 40} {Text size 75%}Probably{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"016"	Oh,{pause 8} ummm{pause 8}.{pause 8}.{pause 8}.{pause 20} I got a message from	the train station.{Wait for input}I think it said we have, uhhh, two	visitors from out of town,{pause 20} or	something like that.{pause 40} {Text size 75%}Probably{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"017"	Oh,{pause 8} ummm{pause 8}.{pause 8}.{pause 8}.{pause 20} I got a message from	the train station.{Wait for input}I think it said we have, umm, three	visitors from out of town,{pause 20} or	something like that.{pause 40} {Text size 75%}Probably{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"018"	Is,{pause 20} um,{pause 20} {emote: Curious}there something I can help	you with?{000f-0006-0006-0000-0000-0028}	I found this...	Anything unusual?	No, I'm fine.
+"019"	{emote: Alarmed}Oh, {pause 20}someone dropped something?{pause 40}	{emote: Reset}Well, {pause 20}ummm{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Curious}do you know who it	belongs to? Uh, maybe{pause 8}.{pause 8}.{pause 8}.{pause 40}?	{emote: Distress}Ah!{pause 20} I'm sorry!{pause 40} You came here to ask	if I knew...{Text size 75%}probably{Text size 100%}.{Wait for input}{emote: Reset}I, uh{pause 8}.{pause 8}.{pause 8}.{pause 20}can't leave the police station	right now. Or ever.{Wait for input}Can you search for the owner	yourself?{pause 20} I-I'm sorry.	{Text size 75%}I'll try to be more helpful in the future{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"020"
+"021"	Hmmm.{pause 20} Those are items people	from {Town name (pink)} turned in to the	lost and found.	{emote: Worry}I, uh, don't think there's anything of	interest to someone visiting from	out of town{pause 8}.{pause 8}.{pause 8}.	{emote: Distress}Ah, {pause 20}I'm sorry!{pause 20} I didn't mean to	sound rude like that!{Wait for input}	{Text size 75%}{emote: Worry}I'll {Text size 100%}{Text size 75%}{Text size 75%}{pause 20}{Text size 75%}be more careful in the future{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"022"	Oh, {pause 20}well,{pause 40} that's the lost and found	for items found around town.{Wait for input}None of the owners have come to	claim them,{pause 20} so it's all right to take	something home{pause 8}.{pause 8}.{pause 8}.{pause 20}{Text size 75%} Probably{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"023"	Well, uh, {pause 20}I think you're looking at	{Article(word-dependant)}{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Curious}Will you take that item home?{confirmation-02}{000f-0005-0004-0015-0028}	I'll take it!	Nah, I'll leave it here.
+"024"	Oh,{pause 20} well,{pause 40} that is the lost and found	for items found around town.{Wait for input}None of the owners have come to	claim them,{pause 20} so it's all right to take	something home{pause 8}.{pause 8}.{pause 8}.{pause 20}{Text size 75%} Probably{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{Text size 100%}So, um,{Text size 75%}{Text size 100%}{Text size 100%} {pause 20}{Text size 100%}I think you're looking at	{Article(word-dependant)}{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Curious}Will you take that item home?{confirmation-02}{000f-0005-0004-0015-0028}	I'll take it!	Nah, I'll leave it here.
+"025"	Of-{pause 20}{emote: Alarmed}{0007-000b-0000}of course!{pause 20} I'm sorry!	{Text size 75%}It's none of my business.{Text size 100%}
+"026"	{emote: Distress}Uhh, {pause 20}but,{pause 20} ummmm{pause 8}.{pause 8}.{pause 8}.{pause 20}	Your pockets are full.{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah, {pause 20}I'm sorry!{pause 40} {emote: Worry}I was just thinking{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}it'd be hard for you {Text size 100%}{Text size 75%}to carry anything else{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"027"	{emote: Alarmed}{0007-000b-0000}Ah,{pause 8} of course!{pause 40}	Please take it with you.{Wait for input}{emote: Reset}It's fine.{pause 20} Not a problem{pause 8}.{pause 8}.{pause 8}.{pause 20} {Text size 75%}I think{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"028"
+"029"	Y-{pause 20}{emote: Alarmed}{0007-000b-0000}yes! Hello!{pause 60} {emote: Reset}This is...{pause 8}um...{pause 20}	the {Town name (pink)} police station{pause 8}.{pause 8}.{pause 8}.{Wait for input}Uh,{pause 20} you can{pause 8}.{pause 8}.{pause 8}.{pause 40}look around maybe.	If you want. You don't have to{pause 8}.{pause 8}.{pause 8}.{pause 40}
+"031"	Um,{pause 20} well{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}I think there's a tent for a {Blue}fortune-	teller {Color Reset}in the event plaza today{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}I'm not 100 percent sure though{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"032"	Well,{pause 20} um, considering the day and	time right now{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}I think {Blue}Redd's Gallery{Color Reset}{pause 20} is open for	business over in the event plaza{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}Most likely{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"033"	Ummmm, {pause 20}well{pause 8}.{pause 8}.{pause 8}.{pause 20}a moment ago,	I ran into someone named {Orange}Saharah{Color Reset}.{Wait for input}I think she said something about	having to change the carpet and	wallpaper or{pause 8}.{pause 8}.{pause 8}.{pause 8}something{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Distress}Ah, {pause 20}my apologies!{pause 40} I had trouble	hearing what she was saying. 	{emote: Worry}{Text size 75%}I'll pay more attention{Text size 100%}{Text size 75%}{Text size 75%}{pause 20} in the future{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"034"	Um, {pause 20}now that you mention it{pause 8}.{pause 8}.{pause 8}.{pause 20}	I think I saw {Orange}Joan{Color Reset} the turnip seller	pass by here{pause 8}.{pause 8}.{pause 8}.	I get the feeling she's here in the	{Blue}morning{Color Reset} every {Blue}Sunday{Color Reset}.{Wait for input}She's probably selling turnips in	town somewhere right now{pause 8}.{pause 8}.{pause 8}.{Text size 100%}{pause 20}{Text size 75%}  Maybe{Text size 100%}{Text size 100%}{Text size 75%}{pause 8}.{Text size 75%}{pause 8}{Text size 75%}{Text size 100%}{Text size 75%}.{Text size 100%}{Text size 75%}{pause 8}.{Text size 100%}
+"035"	Oh,{pause 20} ummm{pause 8}.{pause 8}.{pause 8}.{Wait for input}I heard a fashion designer named	{Orange}Gracie{Color Reset} is in town at the moment	or something like that.	She's been coming here off and on	lately{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Curious}I wonder why.{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah, {pause 20}my apologies!{pause 40} I was thinking	out loud again.{pause 40}	{emote: Worry}{Text size 75%}I'll try to{Text size 100%}{Text size 75%} stop doing that{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"036"	Funny you should ask{pause 8}.{pause 8}.{pause 8}.{pause 20} I actually	just got a report that someone was	washed up on the beach.	I went down there to check things	out,{pause 20} but all I saw were some pretty	seashells by the seashore{pause 8}.{pause 8}.{pause 8}.	{emote: Distress}Ah, {pause 20}I'm sorry!{pause 40} Maybe I didn't look	hard enough?{pause 40} {emote: Worry}{Text size 75%}I'll do better{Text size 100%}{Text size 75%}{Text size 75%} next time{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"037"	Ummm{pause 8}.{pause 8}.{pause 8}.{pause 20} Well{pause 8}.{pause 8}.{pause 8}.{Wait for input}Today, {Orange}Pete {Color Reset}should be making	his rounds delivering the mail.{Wait for input}He said he usually makes deliveries	at {Blue}9 a.m. {Color Reset}and {Blue}5 p.m. {Color Reset}on {Blue}weekdays{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}I think that's what he said anyway{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"038"	Um, {pause 20}well{pause 8}.{pause 8}.{pause 8}.{pause 20} I think {Orange}Phineas {Color Reset}is visiting	the town today.{Wait for input}I heard {Orange}Phineas{Color Reset} gives badges to	people who work very hard{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah,{pause 20} I'm sorry!{pause 40} {emote: Worry}I've probably wasted	your time telling you something you	already know{pause 8}.{pause 8}.{pause 8}.
+"039"	Ummm,{pause 20} now that you mention it{pause 8}.{pause 8}.{pause 8}.{Wait for input}I feel like I saw {Orange}Leif{Color Reset} from the	garden shop here in town.{Wait for input}I think he was asked to do some	kind of job or something. {Wait for input}{emote: Worry}It looked to me like he was just	sleeping, though{pause 8}.{pause 8}.{pause 8}.{pause 20}{Text size 75%}  I could be wrong{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"040"	Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Well{pause 8}.{pause 8}.{pause 8}.{Wait for input}It seems like someone is staying	at the campgrounds today.{Wait for input}{emote: Distress}Ah, {pause 20}I'm sorry.{pause 20}	I didn't get a good look at them{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}{emote: Worry}I'll try to {Text size 100%}{Text size 75%}pay more attention next time{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"041"
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	Ah...{pause 20}
-"004"	Eeeh...{pause 20}
-"005"	{emote: Alarmed}
-"006"	Es...{pause 20}
-"007"	Bue...{pause 20}!
-"008"	Ho...{pause 20}
-"009"	Buenas... noches{pause 20}
-"010"	Eeeh...{pause 8}
-"011"	Mmm...{pause 20}!
-"012"	{emote: Worry}
-"013"	¡Ah!{pause 20}
-"014"	Pues... solo sé{pause 8}
-"015"	Pues...{pause 8}
-"016"	Ah...{pause 8}
-"017"	Ah,{pause 8}
-"018"	¿Te...{pause 20}!
-"019"	{emote: Alarmed}
-"020"	
-"021"	Es...{pause 20}
-"022"	Es...{pause 20}
-"023"	Pues... mmm...{pause 20}!
-"024"	Pu...{pause 20}
-"025"	Cla...{pause 20}!
-"026"	{emote: Distress}
-"027"	{emote: Alarmed}
-"028"	
-"029"	Errr...{pause 20}
-"031"	Mmm...{pause 20}!
-"032"	Pues...{pause 20}
-"033"	Mmm...{pause 20}!
-"034"	Mmm...{pause 20}!
-"035"	Eh...{pause 20}
-"036"	Pues ya que me preguntas{pause 8}
-"037"	Mmm{pause 8}
-"038"	Esto...{pause 20}
-"039"	Mmm...{pause 20}!
-"040"	Mmm{pause 8}
-"041"	
+"001"	{emote: Alarmed}{0007-000b-0000}Oh, ah{pause 8}.{pause 8}.{pause 8}.{pause 20} Tú eres {Player name},	{el/la} alcald{e/esa}, ¿verdad?{Wait for input}{emote: Distress}Pe...{pause 20} perdona que no te haya	reconocido antes. Me suelo	olvidar de las caras{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Yo... mmm...{pause 20} casi siempre ando	por aquí...{pause 40} si me necesitas para	cualquier cosa... no sé{pause 8}.{pause 8}.{pause 8}.
+"002"	{emote: Alarmed}{0007-000b-0000}Ah{pause 8}.{pause 8}.{pause 8}.{pause 20} tú eres {Player name}, ¿no?{Wait for input}{emote: Distress}Di...{pause 20} disculpa que no te	haya reconocido antes{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Eeeh...{pause 20} a mí...{pause 40} me puedes	encontrar por aquí para...	lo que necesites... y eso{pause 8}.{pause 8}.{pause 8}.
+"003"	Ah...{pause 20}{emote: Alarmed}{0007-000b-0000} ¡oh! ¡Hola!{pause 60} {emote: Reset}Esta es...{pause 8} eeeh...{pause 20}	la comisaría de {capitalized}{Town name (pink)}{pause 8}.{pause 8}.{pause 8}.
+"004"	Eeeh...{pause 20} Puedes... echar un vistazo...	por aquí. Tó{pause 8}.{pause 8}.{pause 8}.{pause 40} tómate el tiempo	que... necesites.
+"005"	{emote: Alarmed}{0007-000b-0000}Oh{pause 8}.{pause 8}.{pause 8}.{pause 20} bue... buenos días.{pause 40}	¿Ma... madrugando hoy?
+"006"	Es...{pause 20} esto...{pause 40} buenos días{pause 8}.{pause 8}.{pause 8}.
+"007"	Bue...{pause 20} buenas tardes{pause 8}.{pause 8}.{pause 8}.
+"008"	Ho...{pause 20} hola{pause 8}.{pause 8}.{pause 8}.
+"009"	Buenas... noches{pause 20}{pause 8}.{pause 8}.{pause 8}.
+"010"	Eeeh...{pause 8} mmm...{pause 40} ¿tan tarde...{pause 20}	y todavía por aquí{pause 8}.{pause 8}.{pause 8}.{pause 8}?
+"011"	Mmm...{pause 20} ¿T-Te puedo...{emote: Curious}	ayudar en algo?{000f-0005-0004-0000-0028}	Sí, ¿alguna novedad?	No, gracias
+"012"	{emote: Worry}De...{pause 20} de acuerdo.{pause 40}	Siento haberte{pause 8} molestado.{pause 8}.{pause 8}.
+"013"	¡Ah!{pause 20}{emote: Alarmed}{0007-000b-0000} ¡Ya!{pause 60} {emote: Reset}Pues,{pause 20} mmm{pause 8}.{pause 8}.{pause 8}.{Wait for input}No me he enterado de que haya	ocurrido nada en particular{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Distress}¡Lo...{pause 20} lo siento{pause 20} mucho!{Wait for input}	{emote: Worry}{Text size 75%}Estaré más atento...{Text size 100%}{Text size 75%}{pause 20} a partir de ahora{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"014"	Pues... solo sé{pause 8}.{pause 8}.{pause 8}.{pause 20} que quizá	tengamos visita pronto.	{Text size 75%}O tal vez no... Quiero decir...{Text size 100%}{Wait for input}{emote: Alarmed}{0007-000b-0000}La puerta de la estación...{pause 20} está	abierta,{pause 40} {emote: Worry}así que podría llegar alguien	en cualquier momento...{pause 20} {Text size 75%}A lo mejor{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"015"	Pues...{pause 8} me ha{pause 8}.{pause 8}.{pause 8}.{pause 20} llegado un	mensaje desde la estación.{Wait for input}Parece ser que nos visitará	alguien de otro pueblo,{pause 20} o	algo así...{pause 40} {Text size 75%}No sería extraño{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"016"	Ah...{pause 8} pues{pause 8}.{pause 8}.{pause 8}.{pause 20} tengo un mensaje 	que llega desde la estación...{Wait for input}Según parece, vienen dos	visitantes... mmm... de otro	pueblo,{pause 20} o algo así...{pause 40} {Text size 75%}Dicen{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"017"	Ah,{pause 8} mmm{pause 8}.{pause 8}.{pause 8}.{pause 20} pues tengo una	noticia de la estación...{Wait for input}Parece que llegan tres visitantes...	mmm... desde otro pueblo.{pause 20}	Eso dicen.{pause 40} {Text size 75%}Pero no sé si será verdad{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"018"	¿Te...{pause 20} puedo...{pause 20} {emote: Curious}ayudar	en alguna cosa?{000f-0006-0006-0000-0000-0028}	He encontrado esto...	Sí, ¿alguna novedad?	No, gracias
+"019"	{emote: Alarmed}Ah,{pause 20} ¿es algo que ha extraviado	alguien?{pause 40} {emote: Reset}Y...{pause 20} mmm{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Curious} no sabrás	de quién es, ¿verdad?{Wait for input}{emote: Distress}¡Claro!{pause 20} ¡Perdona!{pause 40} No estarías aquí	si lo supieras... {Text size 75%}Qué cosas pregunto...{Text size 100%}{Wait for input}{emote: Reset}Verás, es que yo{pause 8}.{pause 8}.{pause 8}.{pause 20} tengo	que quedarme en la	comisaría ahora mismo.{Wait for input}¿Podrías encargarte tú de	localizar al propietario?{pause 20}	{Text size 75%}Siento no poder ayudarte{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"020"
+"021"	Es...{pause 20} estos son objetos	perdidos que la gente ha ido	encontrando por {capitalized}{Town name (pink)}.	{emote: Worry}Para alguien de fuera...{pause 20} no creo	que tengan mucho interés{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Distress}Oh,{pause 20} ¡discúlpame!{pause 20} ¡No quería	sonar tan desconsiderado!{Wait for input}	{Text size 75%}{emote: Worry}Debo...{Text size 100%}{Text size 75%}{Text size 75%}{pause 20} {Text size 75%}hablar con más cuidado{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"022"	Es...{pause 20} estos...{pause 40} son objetos	perdidos que han ido	apareciendo por el pueblo.{Wait for input}Sus dueños no han venido nunca	a reclamarlos,{pause 20} así que se los	puede quedar cualquiera{pause 8}.{pause 8}.{pause 8}.{pause 20} {Text size 75%}Creo{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"023"	Pues... mmm...{pause 20} esto creo	que es, seguramente, {Article(word-dependant)}	{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Curious}¿Quieres llevártel{o/a/}?{confirmation-02}{000f-0005-0004-0015-0028}	¡Para mí!	No me interesa
+"024"	Pu...{pause 20} pues...{pause 40} estos son los	objetos perdidos del pueblo.{Wait for input}Nadie ha venido a reclamarlos	hasta ahora,{pause 20} así que cualquiera	se los puede llevar{pause 8}.{pause 8}.{pause 8}.{pause 20} {Text size 75%}Diría yo...{Text size 100%}{Wait for input}¿Esto?{pause 8} Creo que es...{pause 20} {Article(word-dependant)}	{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Curious}¿Te l{o/a/} quieres quedar?{confirmation-02}{000f-0005-0004-0015-0028}	¡Desde luego!	Gracias, pero no
+"025"	Cla...{pause 20} {emote: Alarmed}{0007-000b-0000}¡claro!{pause 20} ¡Perdón!	{Text size 75%}¿Cómo se me ocurre?{Text size 100%}
+"026"	{emote: Distress}Ah...{pause 20} pero...{pause 20} mmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Me temo	que llevas demasiadas cosas.{Wait for input}{emote: Alarmed}{0007-000b-0000}¡Perdona!{pause 20} Quiero decir que...{pause 40} {emote: Worry}	así no puedes llevarte nada{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}O eso me parece{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"027"	{emote: Alarmed}{0007-000b-0000}¡Claro!{pause 8} ¡Por supuesto!{pause 40}	Puedes llevarte lo que quieras.{Wait for input}{emote: Reset}Para ti para siempre,{pause 20} no	hay ningún problema{pause 8}.{pause 8}.{pause 8}.{pause 20} {Text size 75%}Creo{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"028"
+"029"	Errr...{pause 20}{emote: Alarmed}{0007-000b-0000} ¡hola! ¿Qué tal?{pause 60}	{emote: Reset}Esta es la comisaría...{pause 8}	mmm...{pause 20} de {capitalized}{Town name (pink)}{pause 8}.{pause 8}.{pause 8}.{Wait for input}Puedes...{pause 20} echar{pause 8}.{pause 8}.{pause 8}.{pause 40} un vistazo	por aquí a tu aire...{pause 40}	¡Si quieres!, claro{pause 8}.{pause 8}.{pause 8}.{pause 40}
+"031"	Mmm...{pause 20} Pues{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Hoy en la plaza del pueblo está	la tienda de una {Blue}adivina{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}Eso creo, si no me equivoco{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"032"	Pues...{pause 20} déjame pensar	a qué día estamos{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Ah, hoy en la plaza del pueblo{pause 20}	debe de estar abierta la {Blue}Galería	Ladino{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 20} {Text size 75%}Si no recuerdo mal{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"033"	Mmm...{pause 20} Pues{pause 8}.{pause 8}.{pause 8}.{pause 20} justo hace	un rato he visto a alguien	que se llamaba {Orange}Alcatifa{Color Reset}.{Wait for input}Decía algo sobre cambiar	el papel de pared y la	alfombra{pause 8}.{pause 8}.{pause 8}.{pause 8} o algo así{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Distress}¡Lo siento!{pause 40} En realidad no	pude oír bien lo que hablaba.	{emote: Worry}{Text size 75%}Debo prestar más atención{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"034"	Mmm...{pause 20} Ahora que lo dices{pause 8}.{pause 8}.{pause 8}.{pause 20}	Creo que antes he visto pasar	a {Orange}Juana{Color Reset}, la vendedora de nabos{pause 8}.{pause 8}.{pause 8}.{Wait for input}Si no me equivoco, es los	{Blue}domingos {Color Reset}por la {Blue}mañana	{Color Reset}cuando viene por aquí.{Wait for input}Estará vendiendo nabos	en algún lugar del pueblo	ahora mismo{pause 8}.{pause 8}.{pause 8}.{Text size 100%}{pause 20}{Text size 75%} Creo yo{Text size 100%}{Text size 100%}{Text size 75%}{pause 8}.{Text size 75%}{pause 8}{Text size 75%}{Text size 100%}{Text size 75%}.{Text size 100%}{Text size 75%}{pause 8}.{Text size 100%}
+"035"	Eh...{pause 20} pues{pause 8}.{pause 8}.{pause 8}.{Wait for input}He oído hablar de una diseñadora	de moda que ha llegado al pueblo.	Se llama {Orange}Graciela{Color Reset} o algo así.{Wait for input}Creo que últimamente viene	mucho por aquí{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Curious}A saber qué	negocios se traerá entre manos...{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah,{pause 20} ¡discúlpame!{pause 40} Estaba	pensando en voz alta...{pause 40}	{emote: Worry}{Text size 75%}Tengo que dejar de hacerlo{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"036"	Pues ya que me preguntas{pause 8}.{pause 8}.{pause 8}.{pause 20} Hubo	un aviso de que la marea había	arrastrado a alguien hasta la playa.{Wait for input}He ido a echar un vistazo,{pause 20} pero	por allí no he visto más que	caracolas en la arena{pause 8}.{pause 8}.{pause 8}.	{emote: Distress}Oh,{pause 20} ¡lo siento!{pause 40} Tal vez tendría	que haber mirado mejor...{pause 40}	{emote: Worry}{Text size 75%}Es que me distraigo con todo{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"037"	Mmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Pues{pause 8}.{pause 8}.{pause 8}.{Wait for input}Hoy {Orange}Carturo{Color Reset}{pause 20} hace su ronda	de reparto del correo.{Wait for input}Creo que reparte los {Blue}días entre	semana{Color Reset} de {Blue}9:00 {Color Reset}a {Blue}17:00{Color Reset}.	{Text size 75%}O eso tengo entendido{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"038"	Esto...{pause 20} pues{pause 8}.{pause 8}.{pause 8}.{pause 20} creo que {Orange}Elio	{Color Reset}anda hoy por el pueblo.{Wait for input}Me han contado que {Orange}Elio{Color Reset}{pause 20} regala	insignias a la gente que hace sus	tareas con empeño{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah,{pause 20} ¡perdona!{pause 40} {emote: Worry}Seguramente	te estoy contando algo que	ya sabías{pause 8}.{pause 8}.{pause 8}.
+"039"	Mmm...{pause 20} Pues ahora que lo dices{pause 8}.{pause 8}.{pause 8}.{Wait for input}Creo haber visto a {Orange}Gandulio{Color Reset},	el de la tienda de jardinería,	rondando por el pueblo.{Wait for input}Quizá le hayan encargado	algún trabajillo, no sé...{Wait for input}{emote: Worry}Aunque a mí me pareció...{pause 20}	que dormía más que otra	cosa{pause 8}.{pause 8}.{pause 8}.{pause 20} {Text size 75%}Pero igual me equivoco{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"040"	Mmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Déjame pensar{pause 8}.{pause 8}.{pause 8}.{Wait for input}He oído que en la zona de	autocaravanas hay alguien hoy.{Wait for input}{emote: Distress}No,{pause 20} lo siento,{pause 20} no he ido a	mirar de quién se trata{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}{emote: Worry}Debería dar una vuelta por allí{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"041"
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	Oh...{pause 20}
-"004"	Euh... {pause 20}
-"005"	{emote: Alarmed}
-"006"	Euh...{pause 20}!
-"007"	Bon...{pause 20}!
-"008"	Bon... {pause 20}
-"009"	Bonsoir. {pause 20}
-"010"	Oh.{pause 8}
-"011"	Oh !{pause 20}
-"012"	{emote: Worry}
-"013"	Oh !{pause 20}
-"014"	Oh, euh... Si{pause 8}
-"015"	Oh, {pause 8}
-"016"	Oh, {pause 8}
-"017"	Oh, {pause 8}
-"018"	Euh...{pause 20}!
-"019"	{emote: Alarmed}
-"020"	
-"021"	Euh...{pause 20}!
-"022"	Oh, {pause 20}
-"023"	Oh, euh... {pause 20}
-"024"	Oh,{pause 20}
-"025"	Oh !{pause 20}
-"026"	{emote: Distress}
-"027"	{emote: Alarmed}
-"028"	
-"029"	Bon...{pause 20}!
-"031"	Oh,{pause 20}
-"032"	Oh,{pause 20}
-"033"	Euh... {pause 20}
-"034"	Ah, {pause 20}
-"035"	Oh,{pause 20}
-"036"	Ah, en effet{pause 8}
-"037"	Euh{pause 8}
-"038"	Oh, {pause 20}
-"039"	Oh,{pause 20}
-"040"	Euh{pause 8}
-"041"	
+"001"	{emote: Alarmed}{0007-000b-0000}Oh, euh{pause 8}.{pause 8}.{pause 8}.{pause 20} Tu es le maire {Player name},	c'est ça ?{Wait for input}{emote: Distress}Je suis désolé ! Je ne t'ai pas	{reconnu/reconnue} tout de suite ! Je n'ai pas	une bonne mémoire des visages{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Et, {pause 20}euh... {pause 40}Si tu as besoin d'aide...	n'hésite pas à venir me voir{pause 8}.{pause 8}.{pause 8}.
+"002"	{emote: Alarmed}{0007-000b-0000}Oh, euh{pause 8}.{pause 8}.{pause 8}.{pause 20} Tu es {Player name},	c'est ça ?{Wait for input}{emote: Distress}Je suis désolé d{pause 20}-de ne pas t'avoir	{reconnu/reconnue} tout de suite{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Et,{pause 20} euh...{pause 40} Si tu as besoin d'aide...	n'hésite pas à venir me voir{pause 8}.{pause 8}.{pause 8}.
+"003"	Oh...{pause 20}{emote: Alarmed}{0007-000b-0000} Euh... Bonjour !{pause 60} {emote: Reset}Tu... Euh... {pause 8}{pause 20}	Tu te trouves au poste de police	{de /d'}{Town name (pink)}{pause 8}.{pause 8}.{pause 8}.
+"004"	Euh... {pause 20}Tu peux visiter{pause 8}.{pause 8}.{pause 8}.{pause 40} Enfin,	si tu le souhaites... 
+"005"	{emote: Alarmed}{0007-000b-0000}Oh{pause 8}.{pause 8}.{pause 8}.{pause 20} B-Bonjour.{pause 40} Tu t'es {levé/levée} tôt,	ce matin !
+"006"	Euh...{pause 20} Hum...{pause 40} Bonjour{pause 8}.{pause 8}.{pause 8}.
+"007"	Bon...{pause 20} Bonjour{pause 8}.{pause 8}.{pause 8}.
+"008"	Bon... {pause 20}Bonjour{pause 8}.{pause 8}.{pause 8}.
+"009"	Bonsoir. {pause 20}{Text size 75%}On est bien le soir{pause 8}.{pause 8}.{pause 8}.{pause 8}?{Text size 100%}
+"010"	Oh.{pause 8} Quelle...{pause 40} Quelle heure tardive{pause 20}	pour se promener{pause 8}.{pause 8}.{pause 8}.
+"011"	Oh !{pause 20} Euh...{pause 20} {emote: Curious}Je peux t'aider ?{000f-0005-0004-0000-0028}	Rien à signaler ?	Non, merci.
+"012"	{emote: Worry}Euh... {pause 20}Je suis désolé de t'avoir	{dérangé/dérangée}.{pause 40} Ne m'en veux pas{pause 8}.{pause 8}.{pause 8}.
+"013"	Oh !{pause 20}{emote: Alarmed}{0007-000b-0000} Oui, oui !{pause 60} {emote: Reset}Euh... {pause 20}En fait{pause 8}.{pause 8}.{pause 8}.{Wait for input}Il n'y a rien à signaler{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Distress}Je suis vraiment{pause 20} désolé !{Wait for input}	{emote: Worry}{Text size 75%}J'essayerai de faire plus attention{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"014"	Oh, euh... Si{pause 8}.{pause 8}.{pause 8}.{pause 20} On va peut-être	recevoir de la visite. {Text size 75%}Enfin, je crois.{Wait for input}{Text size 100%}{emote: Alarmed}{0007-000b-0000}Oh, {pause 20}désolé !{pause 40} {emote: Worry}En fait, le portillon de	la gare est ouvert{pause 20}{pause 8}.{pause 8}.{pause 8}.{Wait for input}... alors des voyageurs peuvent	entrer dans la ville.{pause 20} {Text size 75%}Voilà{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"015"	Oh, {pause 8}euh{pause 8}.{pause 8}.{pause 8}.{pause 20} Le chef de gare m'a	contacté.{Wait for input}D'après lui, un voyageur venu	d'une autre ville{pause 20} nous rend visite.	{pause 40}{Text size 75%}Enfin, je crois{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"016"	Oh, {pause 8}euh{pause 8}.{pause 8}.{pause 8}.{pause 20} Le chef de gare m'a	contacté.{Wait for input}Il m'a dit que deux voyageurs venus	d'une autre ville{pause 20} ont été aperçus.	{pause 40}{Text size 75%}Enfin, je crois{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"017"	Oh, {pause 8}euh{pause 8}.{pause 8}.{pause 8}.{pause 20} Le chef de gare m'a	contacté.{Wait for input}Il m'a dit qu'il avait aperçu trois	voyageurs{pause 20} venus d'ailleurs.{pause 40}	{Text size 75%}Enfin, je crois{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"018"	Euh...{pause 20} Oui ?{pause 20} {emote: Curious}Je peux t'aider ?{000f-0006-0006-0000-0000-0028}	J'ai trouvé ça...	Rien à signaler ?	Non, merci.
+"019"	{emote: Alarmed}Oh, {pause 20}un objet perdu ?{pause 40} {emote: Reset}Euh... {pause 20}Eh bien{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Curious}Tu sais à qui ça appartient,	peut-être{pause 8}.{pause 8}.{pause 8}.{pause 40}?	{emote: Distress}Ah !{pause 20} Pardon !{pause 40} Si tu le savais, tu ne	serais pas ici... {Text size 75%}Je crois...{Text size 100%}{Wait for input}{emote: Reset}Mais, euh{pause 8}.{pause 8}.{pause 8}.{pause 20} Je ne peux pas	m'éloigner du poste de police{pause 8}.{pause 8}.{pause 8}.{Wait for input}Si ça ne te dérange pas, tu	pourrais chercher à qui appartient	cet objet ?	Je...{pause 8} Je suis vraiment désolé !	Ne m'en veux pas ! {Text size 75%}J'essayerai de ne	pas te décevoir, la prochaine fois{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"020"
+"021"	Euh...{pause 20} Ce sont des objets égarés par	leurs propriétaires que des	habitants ont apportés ici.{Wait for input}{emote: Worry}Je ne pense pas que ça puisse	intéresser quelqu'un venu d'une	autre ville{pause 8}.{pause 8}.{pause 8}.	{emote: Distress}Ah, {pause 20}je suis désolé !{pause 20} Je ne voulais pas	être impoli...{Wait for input}	{Text size 75%}{emote: Worry}Je... {Text size 100%}{Text size 75%}{Text size 75%}{pause 20}J'essayerai de faire plus attention{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"022"	Oh, {pause 20}euh...{pause 40} Ici, c'est les objets	trouvés. On y trouve tous les objets	que les habitants ont perdus...	Mais personne n'est encore venu les	réclamer...{Wait for input}Alors ça ne pose pas de problème	que tu emportes quelque chose{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}Je crois{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"023"	Oh, euh... {pause 20}Je crois que c'est	{Article(word-dependant)}{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Curious}Tu veux {000e-0012-0010-0010-0004-006c-0065-0004-006c-0061-0000} prendre ?{confirmation-02}{000f-0005-0004-0015-0028}	Oh, oui !	Nan, pas besoin.
+"024"	Oh,{pause 20} euh...{pause 40} Ici, c'est les objets	trouvés. On garde les objets perdus	par les habitants...	... et on attend qu'ils viennent	les chercher.{pause 30} Mais bon{pause 8}.{pause 8}.{pause 8}.{pause 8} souvent,	personne ne vient les réclamer.	Alors, euh...{pause 20} Tu peux prendre	quelque chose, si tu veux{pause 8}.{pause 8}.{pause 8}.{pause 20}{Text size 75%} Je crois{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{Text size 100%}Et euh...{Text size 75%}{Text size 100%}{Text size 100%} {pause 20}{Text size 100%}On dirait que c'est	{Article(word-dependant)}{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Curious}Tu veux {000e-0012-0010-0010-0004-006c-0065-0004-006c-0061-0000} prendre avec toi ?{confirmation-02}{000f-0005-0004-0015-0028}	Oh, ouais !	Nan, c'est nul !
+"025"	Oh !{pause 20}{emote: Alarmed}{0007-000b-0000} Bien sûr ! Je suis désolé !{pause 20}	Pardon ! {Text size 75%}Je comprends...{Text size 100%}
+"026"	{emote: Distress}Ah, {pause 20}mais,{pause 20} euh{pause 8}.{pause 8}.{pause 8}.{pause 20} Tes poches sont	pleines.{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah, {pause 20}je suis désolé !{pause 40} {emote: Worry}C'est ma faute{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}Je me suis dit que ce serait trop lourd à	transporter{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"027"	{emote: Alarmed}{0007-000b-0000}Ah,{pause 8} parfait !{pause 40}	Tiens, prends cet objet avec toi.{Wait for input}{emote: Reset}Ne t'inquiète pas.{pause 20} Tu peux le	prendre sans problème{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}Enfin, je crois{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"028"
+"029"	Bon...{pause 20}{emote: Alarmed}{0007-000b-0000} B-Bonjour !{pause 60} {emote: Reset}Bienvenue...{pause 8} euh...{pause 20}	au poste de police {de /d'}{Town name (pink)}{pause 8}.{pause 8}.{pause 8}.{Wait for input}Et,{pause 20} euh{pause 8}.{pause 8}.{pause 8}.{pause 40} tu peux visiter.	Enfin, si tu veux{pause 8}.{pause 8}.{pause 8}.{pause 40}
+"031"	Oh,{pause 20} euh{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Il y a une tente sur la place de la	ville... C'est celle de la {Blue}voyante{Color Reset}, je	crois{pause 8}.{pause 8}.{pause 8}.{pause 20} {Text size 75%}Mais j'en suis pas sûr{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"032"	Oh,{pause 20} euh... Tu... Tu sais quel jour	on est ?{pause 20} Vu l'heure{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}... j-je crois que la {Blue}Galerie Rounard	{Color Reset}{pause 20}vient tout juste d'ouvrir sur la place	de la ville{pause 8}.{pause 8}.{pause 8}.{pause 20} {Text size 75%}Mais je n'en suis pas très sûr{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"033"	Euh... {pause 20}Ben{pause 8}.{pause 8}.{pause 8}.{pause 20} J'ai aperçu {Orange}Sarah{Color Reset},	tout à l'heure.{Wait for input}Elle parlait de tapis et de papiers	peints qu'il fallait absolument	changer{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Distress}Ah, {pause 20}désolé ! {pause 40}Je n'ai pas bien entendu	ce qu'elle disait, alors je ne sais rien	de plus... {emote: Worry}{Text size 75%}J'essayerai de faire plus attention{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"034"	Ah, {pause 20}maintenant que tu le dis{pause 8}.{pause 8}.{pause 8}.{pause 20} Il me	semble avoir aperçu {Orange}Porcella{Color Reset}, la	vendeuse de navets{pause 8}.{pause 8}.{pause 8}.	J'ai l'impression qu'elle vient tous	les {Blue}dimanches matin{Color Reset}.{Wait for input}Je pense qu'elle doit se trouver	en ville en ce moment même{pause 8}.{pause 8}.{pause 8}.{Text size 100%}{pause 20}{Text size 75%} 	Enfin, je crois{Text size 100%}{Text size 100%}{Text size 75%}{pause 8}.{Text size 75%}{pause 8}{Text size 75%}{Text size 100%}{Text size 75%}.{Text size 100%}{Text size 75%}{pause 8}.{Text size 100%}
+"035"	Oh,{pause 20} euh{pause 8}.{pause 8}.{pause 8}.{Wait for input}Il paraît que la célèbre créatrice de	mode, {Orange}Carla{Color Reset}, se trouve en ville en	ce moment.	Elle n'arrête pas de faire des	aller-retour{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Curious} Je me demande	ce qu'il se passe.{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah ! {pause 20}Pardon !{pause 40} Je pensais tout haut...{pause 40}	{emote: Worry}{Text size 75%}Il vaudrait mieux que j'arrête de faire ça{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"036"	Ah, en effet{pause 8}.{pause 8}.{pause 8}.{pause 20} On m'a informé	que quelqu'un s'était échoué sur	la plage...	Alors, je suis allé voir... {pause 20}Mais je	n'ai rien trouvé d'autre que des	coquillages{pause 8}.{pause 8}.{pause 8}. Magnifiques, cela dit...	{emote: Distress}Ah ! {pause 20}Je suis vraiment désolé !{pause 40}	Si ça se trouve, je n'ai pas assez	bien regardé...{pause 40} {emote: Worry}{Text size 75%}Je ferai plus attention{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"037"	Euh{pause 8}.{pause 8}.{pause 8}.{pause 20} Ben{pause 8}.{pause 8}.{pause 8}.{Wait for input}Aujourd'hui, {Orange}Antoine {Color Reset}devrait être de	sortie.{Wait for input}D'après ce qu'il m'a dit, il distribue	le courrier vers {Blue}9 h {Color Reset}et {Blue}17 h{Color Reset} {Blue}les jours	de semaine{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 20} {Text size 75%}Si ma mémoire est bonne{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"038"	Oh, {pause 20}euh{pause 8}.{pause 8}.{pause 8}.{pause 20} Je crois qu'{Orange}Hélium {Color Reset}est	en ville, aujourd'hui.{Wait for input}Il paraît qu'il donne des badges aux	personnes qui font plein d'efforts{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah !{pause 20} Pardon !{pause 40} {emote: Worry}Tu le savais peut-être	déjà ! Je suis désolé si je t'ai fait	perdre ton temps{pause 8}.{pause 8}.{pause 8}.
+"039"	Oh,{pause 20} maintenant que tu le dis{pause 8}.{pause 8}.{pause 8}.{Wait for input}Il me semble avoir aperçu {Orange}Racine	{Color Reset}en ville. Tu sais, celui de l'espace	jardinage.	J'imagine qu'il est là pour son	travail...{Wait for input}{emote: Worry}Bon, moi j'avais juste l'impression	qu'il dormait{pause 8}.{pause 8}.{pause 8}.{pause 20}{Text size 75%} Je peux me tromper{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"040"	Euh{pause 8}.{pause 8}.{pause 8}.{pause 20} Ben{pause 8}.{pause 8}.{pause 8}.{Wait for input}On dirait que quelqu'un a planté sa	tente dans le camping, aujourd'hui.{Wait for input}{emote: Distress}Ah ! {pause 20}Je suis désolé !{pause 20} Je n'ai pas bien	regardé, alors je ne sais pas de qui	il s'agit{pause 8}.{pause 8}.{pause 8}.{pause 20} {Text size 75%}{emote: Worry}Je ferai plus attention à l'avenir{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"041"
 == 3 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	S-{pause 20}
-"004"	Oh, {pause 20}
-"005"	{emote: Alarmed}
-"006"	Eeeh,{pause 20}
-"007"	B-{pause 20}
-"008"	S-{pause 20}
-"009"	Buonasera, {pause 20}
-"010"	Eeeh,{pause 8}
-"011"	C'è,{pause 20}
-"012"	{emote: Worry}
-"013"	Oh, {pause 20}
-"014"	Beh, solo che{pause 8}
-"015"	Oh, {pause 8}
-"016"	Oh,{pause 8}
-"017"	Oh,{pause 8}
-"018"	C'è,{pause 20}
-"019"	{emote: Alarmed}
-"020"	
-"021"	Mmmh,{pause 20}
-"022"	Oh, {pause 20}
-"023"	Beh, eeeh, {pause 20}
-"024"	Oh,{pause 20}
-"025"	C-{pause 20}
-"026"	{emote: Distress}
-"027"	{emote: Alarmed}
-"028"	
-"029"	S-{pause 20}
-"031"	Mmmh,{pause 20}
-"032"	Beh,{pause 20}
-"033"	Duuunque, {pause 20}
-"034"	Mmmh, {pause 20}!
-"035"	Oh,{pause 20}
-"036"	Mmmh{pause 8}
-"037"	Uhmmm{pause 8}
-"038"	Dunque, {pause 20}
-"039"	Mmmh,{pause 20}
-"040"	Mmmh{pause 8}
-"041"	
+"001"	{emote: Alarmed}{0007-000b-0000}Oh, eh{pause 8}.{pause 8}.{pause 8}.{pause 20} Devi essere il sindaco	{Player name}, eeeh, giusto?{Wait for input}{emote: Distress}Mi, mi dispiace se, se non ti ho 	riconosciut{o/a} subito, sono poco	fisionomista{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Eeeh,{pause 20} dunque,{pause 40} io, io sono sempre qui	se, se dovessi avere bisogno di me.	Credo{pause 8}.{pause 8}.{pause 8}.
+"002"	{emote: Alarmed}{0007-000b-0000}Oh, uh{pause 8}.{pause 8}.{pause 8}.{pause 20} Sei {Player name}, eeeh...	giusto?{Wait for input}{emote: Distress}Mi, mi dispiace che, eeeh, non ti ho	riconosciut{o/a} subito{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Beh,{pause 20} eeeh,{pause 40} mi, mi trovi qui se	dovessi avere bisogno di me,	credo{pause 8}.{pause 8}.{pause 8}.
+"003"	S-{pause 20}{emote: Alarmed}{0007-000b-0000}sì! Salve!{pause 60} {emote: Reset}Questa è...{pause 8} eeeh...{pause 20}	la, la stazione di polizia	di {Town name (pink)}{pause 8}.{pause 8}.{pause 8}.
+"004"	Oh, {pause 20}tu, tu puoi, eeeh{pause 8}.{pause 8}.{pause 8}.{pause 40} dare	un'occhiata in giro, immagino,	se ti va.
+"005"	{emote: Alarmed}{0007-000b-0000}Oh{pause 8}.{pause 8}.{pause 8}.{pause 20} B-buongiorno.{pause 40} Eeeh...	oggi sei in piedi presto.
+"006"	Eeeh,{pause 20} ecco,{pause 40} buongiorno{pause 8}.{pause 8}.{pause 8}.
+"007"	B-{pause 20}buon pomeriggio{pause 8}.{pause 8}.{pause 8}.
+"008"	S-{pause 20}salve{pause 8}.{pause 8}.{pause 8}.
+"009"	Buonasera, {pause 20}{Text size 75%}immagino{Text size 100%}{pause 8}.{pause 8}.{pause 8}.
+"010"	Eeeh,{pause 8} ecco,{pause 40} oggi stai facendo{pause 20}	le ore piccole{pause 8}.{pause 8}.{pause 8}.
+"011"	C'è,{pause 20} eeeh,{pause 20} {emote: Curious}qualcosa in cui posso,	eeeh, esserti utile?{000f-0005-0004-0000-0028}	Qualcosa di sospetto?	No, va tutto bene.
+"012"	{emote: Worry}C-{pause 20}capisco.{pause 40} Scusa per, eeeh,	il disturbo{pause 8}.{pause 8}.{pause 8}.
+"013"	Oh, {pause 20}{emote: Alarmed}{0007-000b-0000}certo!{pause 60} {emote: Reset}Beh, {pause 20}mmmh{pause 8}.{pause 8}.{pause 8}.{Wait for input}Io, io non ho, eeeh, notato nulla{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Distress}Sono{pause 20} profondamente{pause 20} dispiaciuto!{Wait for input}	{emote: Worry}{Text size 75%}Farò più attenzione, eeeh,{Text size 100%}{Text size 75%}{pause 20} in futuro{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"014"	Beh, solo che{pause 8}.{pause 8}.{pause 8}.{pause 20} Eeeh, sembra che	sia in arrivo qualche visita.	{Text size 75%}Forse sì, forse anche no.	{Text size 100%}{emote: Alarmed}{0007-000b-0000}Oh, {pause 20}intendo dire, eeeh,{pause 40} {emote: Worry}visto che	i cancelli sono aperti,{pause 20} qualcuno	potrebbe venire.{pause 20}{Text size 75%} Sì, ecco{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"015"	Oh, {pause 8}mmmh{pause 8}.{pause 8}.{pause 8}.{pause 20} Ho, ho ricevuto	un messaggio dalla stazione	ferroviaria.	Mi pare che dica, eeeh, che abbiamo	qualcuno in visita da un'altra città,{pause 20}	o qualcosa del genere.{pause 40} {Text size 75%}Forse{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"016"	Oh,{pause 8} mmmh{pause 8}.{pause 8}.{pause 8}.{pause 20} Ho, ho ricevuto	un messaggio dalla stazione	ferroviaria.	Mi pare che dica che abbiamo, eeeh,	forse due turisti provenienti	da fuori città.	O qualcosa del genere.{pause 40} {Text size 75%}Se non sbaglio{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"017"	Oh,{pause 8} mmmh{pause 8}.{pause 8}.{pause 8}.{pause 20} Ho, ho ricevuto	un messaggio dalla stazione	ferroviaria.	Mi pare che dica che abbiamo,	eeeh... forse tre turisti provenienti	da fuori città.	O qualcosa del genere.{pause 40}	{Text size 75%}Se non ho capito male{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"018"	C'è,{pause 20} eeeh,{pause 20} {emote: Curious}qualcosa in cui posso,	eeeh, esserti utile?{000f-0006-0006-0000-0000-0028}	Ho trovato questo...	Qualcosa di sospetto?	No, va tutto bene.
+"019"	{emote: Alarmed}Oh, {pause 20}qualcuno ha, ha perso qualcosa?{pause 40}	{emote: Reset}Beh, {pause 20}mmmh{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Curious} sai a chi appartiene?	Eeeh, magari{pause 8}.{pause 8}.{pause 8}.{pause 40}?	{emote: Distress}Ah!{pause 20} Scusa!{pause 40} Sei qui per chiedere a me	se ne so niente... {Text size 75%}forse{Text size 100%}.{Wait for input}{emote: Reset}Io, eeeh{pause 8}.{pause 8}.{pause 8}.{pause 20} non posso lasciare	la stazione di polizia in questo	momento. O, o... forse mai.	Puoi occuparti tu di cercare, eeeh,	il proprietario?{pause 20} Mi, mi dispiace.	{Text size 75%}Cercherò di essere di maggiore aiuto in futuro{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"020"
+"021"	Mmmh,{pause 20} questi sono oggetti trovati	{000e-0010-0000} {Town name (pink)}.{Wait for input}{emote: Worry}Io, eeeh, non credo ci sia niente di	interessante per la gente di altre	città{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Distress}Ah, {pause 20}mi, mi dispiace!{pause 20} Non, non volevo	sembrare scortese!{Wait for input}	{Text size 75%}{emote: Worry}Farò {Text size 100%}{Text size 75%}{Text size 75%}{pause 20}{Text size 75%}più attenzione in futuro{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"022"	Oh, {pause 20}beh,{pause 40} questi sono gli oggetti	smarriti della città.{Wait for input}Nessun proprietario è mai venuto a	riscattarli,{pause 20} quindi, eeeh, penso vada	bene se ne prendi qualcuno{pause 8}.{pause 8}.{pause 8}.{pause 20}{Text size 75%} Forse.{Text size 100%}
+"023"	Beh, eeeh, {pause 20}penso, penso che sia	{Article(word-dependant)}{0011-0003-0002-0000}.{Wait for input}{emote: Curious}Vuoi portarl{o/a/} a casa con te?{confirmation-02}{000f-0005-0004-0015-0028}	Sì!	No.
+"024"	Oh,{pause 20} ecco,{pause 40} qui vengono raccolti	gli oggetti smarriti trovati in città.{Wait for input}I proprietari non sono venuti a	reclamarli,{pause 20} quindi, eeeh, penso vada	bene se ne prendi qualcuno{pause 8}.{pause 8}.{pause 8}.{pause 20}{Text size 75%} Forse{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{Text size 100%}Eeeh, mmmh,{Text size 75%}{Text size 100%}{Text size 100%} {pause 20}quell{000e-0012-000c-0010-0002-006f-0002-0061-0000} {Text size 100%}penso sia	{Article(word-dependant)}{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Curious}Vuoi portarl{o/a/} a casa con te?{confirmation-02}{000f-0005-0004-0015-0028}	Sì!	No.
+"025"	C-{pause 20}{emote: Alarmed}{0007-000b-0000}certo!{pause 20} Scusa!	{Text size 75%}Non sarebbero fatti miei.{Text size 100%}
+"026"	{emote: Distress}Eeeh, {pause 20}ma,{pause 20} mmmh{pause 8}.{pause 8}.{pause 8}.{pause 20}	le tue tasche sono piene.{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah, {pause 20}mi dispiace!{pause 40} {emote: Worry}Pensavo{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}deve già essere duro portare tutta quella roba.{pause 8}.{pause 8}.{Text size 100%}
+"027"	{emote: Alarmed}{0007-000b-0000}Ah,{pause 8} certo!{pause 40}	Prego, prego.{Wait for input}{emote: Reset}Va bene.{pause 20} Nessun problema{pause 8}.{pause 8}.{pause 8}.{pause 20}{Text size 75%} penso{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"028"
+"029"	S-{pause 20}{emote: Alarmed}{0007-000b-0000}sì! Ciao!{pause 60} {emote: Reset}Questa è...{pause 8} ecco...{pause 20}	la stazione di polizia di {Town name (pink)}{pause 8}.{pause 8}.{pause 8}.{Wait for input}Eeeh,{pause 20} puoi, beh{pause 8}.{pause 8}.{pause 8}.{pause 40} dare un'occhiata	in giro, magari, se ti va.	Non è che devi{pause 8}.{pause 8}.{pause 8}.{pause 40}
+"031"	Mmmh,{pause 20} dunque{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Credo che, che oggi ci sia la tenda	di una {Blue}veggente{Color Reset} in piazza{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}Non ne sono sicurissimo, però{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"032"	Beh,{pause 20} mmmh, visto il giorno e l'ora{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Penso che, che la {Blue}Galleria di Volpolo{Color Reset}{pause 20}	sia aperta lì in piazza{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}Direi di sì, forse{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"033"	Duuunque, {pause 20}eeeh{pause 8}.{pause 8}.{pause 8}.{pause 20} Un secondo fa,	ho incontrato una certa {Orange}Sahara{Color Reset}.{Wait for input}Credo che abbia detto qualcosa	riguardo a un tappeto o la carta	da parati da cambiare{pause 8}.{pause 8}.{pause 8}.{pause 8} o boh{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Distress}Ah, {pause 20}ti prego di scusarmi!{pause 40} Ho avuto	qualche problema a capire bene	cosa dicesse, eeeh, {emote: Worry}{Text size 75%}farò {Text size 75%}{pause 20}{Text size 75%}più attenzione{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"034"	Mmmh, {pause 20}ora che me lo chiedi{pause 8}.{pause 8}.{pause 8}.{pause 20}	Credo di aver visto passare {Orange}Nella{Color Reset},	la commerciante di rape{pause 8}.{pause 8}.{pause 8}.	Mi pare che sia qui ogni {Blue}domenica	mattina{Color Reset}.{Wait for input}Probabilmente sarà da qualche	parte in città a vendere rape	in questo istante{pause 8}.{pause 8}.{pause 8}.{Text size 100%}{pause 20}{Text size 75%} Forse{Text size 100%}{Text size 100%}{Text size 75%}{pause 8}.{Text size 75%}{pause 8}{Text size 75%}{Text size 100%}{Text size 75%}.{Text size 100%}{Text size 75%}{pause 8}.{Text size 100%}
+"035"	Oh,{pause 20} mmmh{pause 8}.{pause 8}.{pause 8}.{Wait for input}Ho sentito che in città c'è	una stilista di nome {Orange}Griffa{Color Reset},	o qualcosa del genere.	Ultimamente si fa vedere da queste	parti{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Curious}Chissà perché?!{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah, {pause 20}scusami!{pause 40} Stavo di nuovo	pensando a voce alta.{pause 40}	{emote: Worry}{Text size 75%}Devo smetterla di farlo{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"036"	Mmmh{pause 8}.{pause 8}.{pause 8}.{pause 20} Ho appena ricevuto	rapporto su qualcuno che pare sia	caduto sulla spiaggia.	Sono andato a dare un'occhiata,	eeeh, ho visto soltanto delle belle	conchiglie{pause 8}.{pause 8}.{pause 8}.	{emote: Distress}Ah, {pause 20}mi dispiace!{pause 40} Forse dovevo	guardare con più attenzione?{pause 40}	{emote: Worry}{Text size 75%}La prossima volta mi impegnerò di più{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"037"	Uhmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Dunque{pause 8}.{pause 8}.{pause 8}.{Wait for input}Oggi {Orange}Tino {Color Reset}dovrebbe essere in giro	per consegnare la posta.{Wait for input}Di solito la consegna i {Blue}giorni feriali{Color Reset}	alle {Blue}09:00 {Color Reset}e alle {Blue}17:00{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}Almeno, mi pare abbia detto così{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"038"	Dunque, {pause 20}eeeh{pause 8}.{pause 8}.{pause 8}.{pause 20} Penso che oggi	ci sia {Orange}Elio {Color Reset}in città.{Wait for input}Ho sentito dire che {Orange}Elio{Color Reset} distribuisce	distintivi a chi lavora sodo{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah,{pause 20} scusami!{pause 40} {emote: Worry}Ti ho fatto solo	perdere tempo dicendoti qualcosa	che magari già sapevi{pause 8}.{pause 8}.{pause 8}.
+"039"	Mmmh,{pause 20} ora che mi ci fai pensare{pause 8}.{pause 8}.{pause 8}.{Wait for input}Mi sembra di aver visto in città,	eeeh, {Orange}Florindo{Color Reset} del negozio	di giardinaggio.{Wait for input}Pare che gli abbiano chiesto di fare	un qualche tipo di lavoro o, boh,	qualcosa del genere.{Text size 100%}	{Text size 100%}{emote: Worry}A me dava l'aria di stare dormendo,	però{pause 8}.{pause 8}.{pause 8}.{pause 20}{Text size 75%} Potrei sbagliarmi, comunque{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"040"	Mmmh{pause 8}.{pause 8}.{pause 8}.{pause 20} Allora{pause 8}.{pause 8}.{pause 8}.{Wait for input}Sembra che qualcuno sia nell'area	di campeggio, oggi.{Wait for input}{emote: Distress}Ah, {pause 20}scusami.{pause 20}	Non sono andato a vedere di chi	si tratti{pause 8}.{pause 8}.{pause 8}.{pause 20} {Text size 75%}{emote: Worry}Proverò a fare più attenzione{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"041"
 == 4 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	J-{pause 20}
-"004"	Ähm,{pause 5}
-"005"	{emote: Alarmed}
-"006"	Ähm,{pause 20}
-"007"	Gu-{pause 20}
-"008"	H-{pause 20}
-"009"	Gu-{pause 5}
-"010"	Du,{pause 8}
-"011"	Kann,{pause 20}
-"012"	{emote: Worry}
-"013"	Oh, {pause 20}
-"014"	Nun ja, {pause 5}
-"015"	Äh, {pause 8}
-"016"	A-{pause 5}
-"017"	Ach ja,{pause 8}
-"018"	Kann,{pause 5}
-"019"	{emote: Alarmed}
-"020"	
-"021"	Ja, {pause 5}
-"022"	Also das, {pause 20}
-"023"	Das,{pause 5}
-"024"	Also das, {pause 20}
-"025"	Oh, aber...{pause 20}
-"026"	{emote: Distress}
-"027"	{emote: Alarmed}
-"028"	
-"029"	J-{pause 20}
-"031"	Ähm, {pause 5}
-"032"	Also,{pause 5}
-"033"	Ähm, {pause 5}
-"034"	Ähm, {pause 20}
-"035"	Also,{pause 20}
-"036"	Ja,{pause 5}
-"037"	Ähm, {pause 5}
-"038"	Ähm, {pause 5}
-"039"	Hmmm,{pause 20}
-"040"	Hmmm{pause 8}
-"041"	
+"001"	{emote: Alarmed}{0007-000b-0000}Oh, {pause 5}äh{pause 8}.{pause 8}.{pause 8}.{pause 20} Bist du {Player name},	{der/die},{pause 5} ähm,{pause 5} {Bürgermeister/Bürgermeisterin}?{Wait for input}{emote: Distress}Es ist mir sooo, {pause 5}ähm, {pause 5}äh, {pause 5}peinlich!	{pause 20}Äh,{pause 5} dass ich dich nicht früher	erkannt habe, {pause 5}meine ich{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Ähm,{pause 20} ja,{pause 40} jedenfalls bin ich hier,{pause 5} falls	du mich brauchen solltest{pause 8}.{pause 8}.{pause 8}. {pause 5}	Hoffe ich.
+"002"	{emote: Alarmed}{0007-000b-0000}Oh, {pause 5}äh{pause 8}.{pause 8}.{pause 8}.{pause 20} Bist du,{pause 5}	ähm,{pause 5} {Player name}?{Wait for input}{emote: Distress}Es ist mir sooo, {pause 5}ähm, {pause 5}äh, {pause 5}peinlich!	{pause 20}Äh,{pause 5} dass ich dich nicht früher	erkannt habe, {pause 5}meine ich{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Ähm,{pause 20} ja,{pause 40} jedenfalls bin ich hier,{pause 5} falls	du mich brauchen solltest{pause 8}.{pause 8}.{pause 8}. {pause 5}	Hoffe ich.
+"003"	J-{pause 20}{emote: Alarmed}{0007-000b-0000}jawohl!{pause 5} Hallo!{pause 60} {emote: Reset}Das hier ist...{pause 8} 	ähm...{pause 20} die Polizeiwache von, {pause 5}äh,{pause 5}	{Town name (pink)}{pause 8}.{pause 8}.{pause 8}.
+"004"	Ähm,{pause 5} also, {pause 20}du kannst dich hier{pause 8}.{pause 8}.{pause 8}.{pause 40}	also, {pause 5}äh...{pause 20} gerne umgucken...{pause 20}	wenn du willst.
+"005"	{emote: Alarmed}{0007-000b-0000}Oh{pause 8}.{pause 8}.{pause 8}.{pause 20} Also, äh, {pause 5}g-{pause 5}guten Morgen.{pause 40}	Du bist aber,{pause 5} äh,{pause 5} früh auf...
+"006"	Ähm,{pause 20} also,{pause 40} guten Morgen{pause 8}.{pause 8}.{pause 8}.
+"007"	Gu-{pause 20}guten Tag{pause 8}.{pause 8}.{pause 8}.
+"008"	H-{pause 20}hallo{pause 8}.{pause 8}.{pause 8}.
+"009"	Gu-{pause 5}guten Abend, {pause 20}{Text size 75%}glaub ich{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"010"	Du,{pause 8} ähm,{pause 40} du bist aber spät{pause 20}	noch auf den Beinen{pause 8}.{pause 8}.{pause 8}.
+"011"	Kann,{pause 20} also,{pause 20} {emote: Curious}kann ich dir mit	irgendwas helfen?{000f-0005-0004-0000-0028}	Was gibt's Neues?	Nein danke.
+"012"	{emote: Worry}Ich,{pause 20} also,{pause 40} ich verstehe.{pause 20}	Entschuldigung{pause 8}.{pause 8}.{pause 8}.
+"013"	Oh, {pause 20}äh,{pause 20}{emote: Alarmed}{0007-000b-0000} natürlich!{pause 60} {emote: Reset}Also, ähm{pause 8}.{pause 8}.{pause 8}.{Wait for input}Eigentlich, äh{pause 8}.{pause 8}.{pause 8}. ist mir nichts	Besonderes aufgefallen...{Wait for input}{emote: Distress}T-{pause 5}t-{pause 5}tut mir wirklich sehr leid!{Wait for input}	{emote: Worry}{Text size 75%}Ich pass auch in Zukunft{Text size 100%}{Text size 75%} besser auf{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"014"	Nun ja, {pause 5}äh, {pause 5}eine Sache{pause 8}.{pause 8}.{pause 8}.{pause 20} Es könnte,	ähm, {pause 5}also,{pause 5} bald Besuch in die Stadt	kommen. {pause 20}{Text size 75%}Vielleicht.	{Text size 100%}{emote: Alarmed}{0007-000b-0000}Also, {pause 5}ähm, {pause 5}ich meine,{pause 40} {emote: Worry}der Bahnsteig	ist offen,{pause 20} also könnte jemand,{pause 5} äh,{pause 5}	reinkommen.{pause 20}{Text size 75%} Das ist alles{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"015"	Äh, {pause 8}also{pause 8}.{pause 8}.{pause 8}.{pause 20} Ich habe eine Nachricht	bekommen... {pause 20}Vom Bahnhof.{Wait for input}Ich glaube, {pause 5}äh,{pause 5} da stand drauf,{pause 5} dass	jemand aus einer anderen Stadt	zu Besuch ist.{pause 40} {Text size 75%}Oder so ähnlich{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"016"	A-{pause 5}also{pause 8}.{pause 8}.{pause 8}.{pause 20} Es ist eine Nachricht	vom Bahnhof gekommen...{Wait for input}Da stand,{pause 5} ähm, {pause 5}dass wir zwei	Besucher aus einer anderen Stadt	haben,{pause 20} oder so was.{pause 40}{Text size 100%} {Text size 100%}{Text size 75%}Glaub ich{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"017"	Ach ja,{pause 8} also, äh{pause 8}.{pause 8}.{pause 8}.{pause 20} Der Affe vom	Bahnhof hat uns vorgewarnt...{Wait for input}Angeblich, {pause 5}also,{pause 5} sind drei Besucher	von außerhalb in unserer Stadt.{pause 40}	{Text size 75%}Angeblich{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"018"	Kann,{pause 5} äh,{pause 5} also,{pause 20} {emote: Curious}kann ich	dir irgendwie helfen?{000f-0006-0006-0000-0000-0028}	Hab was gefunden...	Was gibt's Neues?	Nein danke.
+"019"	{emote: Alarmed}Oh, {pause 20}jemand hat etwas verloren?{pause 40}	{emote: Reset}Nun, {pause 5}äh, tja{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Curious} Weißt du,{pause 5} äh,{pause 5} wem das	gehören könnte? Eventuell{pause 8}.{pause 8}.{pause 8}.{pause 40}?	{emote: Distress}Ah,{pause 5} nein!{pause 20} Tut mir leid!{pause 40} Du,{pause 5} äh, {pause 5}willst	ja sicher, dass ich die Person	finde! {pause 20}...{Text size 75%}Oder wie, oder was?{Text size 100%}{Wait for input}{emote: Reset}Ich, ähm{pause 8}.{pause 8}.{pause 8}.{pause 20} Ich kann die Wache leider	nicht verlassen, {pause 5}im Moment.{pause 20} Oder,{pause 5}	beziehungsweise, {pause 5}generell.	Könntest du also, {pause 5}ähm, {pause 5}vielleicht	selbst den Verlierer suchen?{pause 20} {Text size 75%}Also,	{pause 5}äh, {pause 5}die Person, die das Dingens verloren hat{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"020"
+"021"	Ja, {pause 5}äh, {pause 5}also... {pause 20}Das sind Gegenstände,	die hier in {Town name (pink)} gefunden	wurden.	{emote: Worry}Ich, ähm, glaube nicht, dass das	Leute aus anderen Städten viel	angeht{pause 8}.{pause 8}.{pause 8}.	{emote: Distress}Ah,{pause 5} ähm,{pause 5} äh, {pause 20}Entschuldigung!{pause 20} Das	war nicht so böse gemeint, wie es	sich anhörte!{Wait for input} {Text size 75%}{emote: Worry}Kommt nicht wieder vor{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"022"	Also das, {pause 20}äh,{pause 40} das sind Fundstücke.{pause 20}	Die wurden irgendwo in der Stadt	gefunden und hier abgegeben.	Es hat niemand,{pause 5} ähm, {pause 5}Anspruch	darauf erhoben.{pause 20} Du kannst ruhig	was davon nehmen{pause 8}.{pause 8}.{pause 8}.{pause 20}{Text size 75%} Glaub ich{Text size 100%}{Text size 75%}.{Text size 100%}
+"023"	Das,{pause 5} also,{pause 5} äh...{pause 20} Das ist, {pause 5}glaube ich,{pause 5}	{Article(word-dependant)}{0011-0003-0002-0000}.{pause 40}	Denke ich{pause 8}.{pause 8}.{pause 8}.	{emote: Curious}Willst du {den/die/das} mitnehmen?{confirmation-02}{000f-0005-0004-0015-0028}	Ja bitte!	Nö!
+"024"	Also das, {pause 20}äh,{pause 40} das sind Fundstücke.{pause 20}	Die wurden irgendwo in der Stadt	gefunden und hier abgegeben.	Es hat niemand,{pause 5} ähm, {pause 5}Anspruch	darauf erhoben.{pause 20} Du kannst ruhig	was davon nehmen{pause 8}.{pause 8}.{pause 8}.{pause 20}{Text size 75%} Glaub ich{Text size 100%}{Text size 75%}.	{Text size 100%}{Text size 100%}Das,{pause 5} ähm,{Text size 100%}{Text size 100%} {pause 20}{Text size 100%}das ist, {pause 5}glaube ich,{pause 5}	{Article(word-dependant)}{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Curious}Willst du {den/die/das} mitnehmen?{confirmation-02}{000f-0005-0004-0015-0028}	Ja bitte!	Nö!
+"025"	Oh, aber...{pause 20}{emote: Alarmed}{0007-000b-0000} Natürlich nicht!{pause 20}	Entschuldigung! {pause 20}{Text size 75%}Warum auch?{Text size 100%}
+"026"	{emote: Distress}Ähm, {pause 20}aber,{pause 20} na ja, {pause 5}äh{pause 8}.{pause 8}.{pause 8}.{pause 20}	Deine Taschen sind, {pause 5}ähm,{pause 5} voll.{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah, äh... {pause 20}Entschuldigung!{pause 40} {emote: Worry}Ich dachte	nur{pause 8}.{pause 8}.{pause 8}.{pause 20} {Text size 75%}So kannst du doch nichts mitnehmen{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"027"	{emote: Alarmed}{0007-000b-0000}Ah,{pause 8} oh,{pause 5} natürlich, {pause 5}gerne!{Wait for input}{emote: Reset}Kein, {pause 5}äh, {pause 5}Problem,{pause 5} wirklich{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}Glaub ich{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"028"
+"029"	J-{pause 20}{emote: Alarmed}{0007-000b-0000}jawohl!{pause 5} Hallo!{pause 60} {emote: Reset}Dies ist,{pause 5} also,	{pause 5}ähm, {pause 5}die Polizeiwache von	{Town name (pink)}{pause 8}.{pause 8}.{pause 8}.{Wait for input}Du kannst dich,{pause 5} ähm{pause 8}.{pause 8}.{pause 8}.{pause 40} nun ja, {pause 5}wie zu	Hause fühlen.{pause 20} Wenn du willst{pause 8}.{pause 8}.{pause 8}.
+"031"	Ähm, {pause 5}also{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Auf dem Festplatz hat eine	{Blue}Wahrsagerin {Color Reset}ihr, {pause 5}äh,{pause 5} Zelt	aufgeschlagen{pause 8}.{pause 8}.{pause 8}.{pause 20} {Text size 75%}Glaub ich{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"032"	Also,{pause 5} ähm, {pause 20}da heute heute	ist, {pause 5}und jetzt jetzt{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Auf dem Festplatz müsste	{Blue}Reiners Galerie{Color Reset} aufgebaut sein{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}Denke ich{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"033"	Ähm, {pause 5}also{pause 8}.{pause 8}.{pause 8}.{pause 20} Vorhin bin ich einer	Person namens, {pause 5}äh,{pause 5} {Orange}Aziza{Color Reset} begegnet.{Wait for input}Sie hat irgendwas von Tapeten	und Teppichen gesagt{pause 8}.{pause 8}.{pause 8}.{pause 8} oder so.{Wait for input}{emote: Distress}Ah, {pause 20}Entschuldigung!{pause 40} Ich hab nicht	so genau hingehört, {pause 5}aber,{pause 5} äh...{pause 5}	{emote: Worry}{Text size 75%}In Zukunft passe ich besser auf, {pause 5}versprochen{Text size 100%}{Text size 75%}!{Text size 100%}
+"034"	Ähm, {pause 20}wenn du so fragst{pause 8}.{pause 8}.{pause 8}.{pause 20} Ich glaube,{pause 5}	ich habe die Rübenhändlerin	{Orange}Sigrid {Color Reset}gesehen{pause 8}.{pause 8}.{pause 8}.	Wenn ich so überlege,{pause 5} ist sie jeden	{Blue}Sonntag{Color Reset} hier, {pause 5}immer {Blue}vormittags{Color Reset}.{pause 20}	Äh... {pause 40}also,{pause 5} ja.{Wait for input}Wahrscheinlich,{pause 5} äh,{pause 5} verkauft sie	gerade Rüben,{pause 5} irgendwo in der	Stadt{pause 8}.{pause 8}.{pause 8}.{Text size 100%}{pause 20}{Text size 75%} Eventuell, {pause 5}vielleicht{Text size 100%}{Text size 100%}{Text size 75%}{pause 8}.{Text size 75%}{pause 8}{Text size 75%}{Text size 100%}{Text size 75%}.{Text size 100%}{Text size 75%}{pause 8}.{Text size 100%}
+"035"	Also,{pause 20} ähm{pause 8}.{pause 8}.{pause 8}.{Wait for input}Ich habe gehört, die berühmte	Modedesignerin {Orange}Grazia {Color Reset}soll sich	momentan in der Stadt aufhalten.	Sie, äh, ist wohl in letzter Zeit öfter	hier{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Curious}Hmmm, {pause 5}warum wohl?{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah, {pause 20}Entschuldigung!{pause 40}	Ich habe nur laut gedacht.{pause 40}	{emote: Worry}{Text size 75%}Das wollte ich doch nicht mehr tun{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"036"	Ja,{pause 5} ähm, {pause 5}es ist wirklich etwas	passiert{pause 8}.{pause 8}.{pause 8}. Angeblich wurde jemand	am Strand angespült.	Ich wollte direkt den Tatort sichern!{pause 20}	Aber, {pause 5}äh, {pause 5}bis auf ein paar schöne	Muscheln konnte ich nichts finden{pause 8}.{pause 8}.{pause 8}.	{emote: Distress}Ah, {pause 20}Entschuldigung!{pause 40} Vielleicht hätte	ich länger suchen sollen?{pause 40} {emote: Worry}{Text size 75%}Die Muscheln	haben mich abgelenkt{Text size 100%}{Text size 75%}{Text size 75%}{pause 8}{Text size 75%}.{pause 8}.{pause 8}.{Text size 100%}
+"037"	Ähm, {pause 5}also{pause 8}.{pause 8}.{pause 8}.{Wait for input}{Orange}Peter {Color Reset}sollte eigentlich heute	unterwegs sein und seine,{pause 5} ähm,{pause 5}	Post austragen.	Ich glaube,{pause 5} er macht seine Runde	jeden {Blue}Werktag {Color Reset}um {Blue}9 Uhr {Color Reset}und um	{Blue}17 Uhr{Color Reset}.{pause 20} {Text size 75%}Wenn ich ihn richtig verstanden habe{Text size 100%}{Text size 75%}.{Text size 100%}
+"038"	Ähm, {pause 5}tja{pause 8}.{pause 8}.{pause 8}.{pause 20} Also,{pause 5} ich glaube,	{Orange}Helios {Color Reset}ist heute in der Stadt.{Wait for input}Anscheinend verleiht er besonders	verdienten Personen Abzeichen{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Alarmed}{0007-000b-0000}Ah,{pause 20} Entschuldigung!{pause 40} {emote: Worry}Das,{pause 5} äh,{pause 5}	wusstest du sicher alles schon	längst{pause 8}.{pause 8}.{pause 8}.
+"039"	Hmmm,{pause 20} jetzt, wo du es sagst{pause 8}.{pause 8}.{pause 8}.{Wait for input}Ich glaube, ich habe {Orange}Gerd{Color Reset} in der	Stadt gesehen. {pause 20}Den,{pause 5} äh, {pause 5}also,{pause 5}	den Gärtner.{Wait for input}Er wurde anscheinend für	irgendeine,{pause 5} äh,{pause 5} Arbeit engagiert.{Wait for input}{emote: Worry}Es hat allerdings so ausgesehen,	als würde er schlafen{pause 8}.{pause 8}.{pause 8}.{pause 20}{Text size 75%} Aber ich bin	kein Gärtner{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"040"	Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Also, {pause 5}äh{pause 8}.{pause 8}.{pause 8}.{Wait for input}Heute übernachtet jemand auf dem	Campingplatz. {pause 20}Glaub ich.{Wait for input}{emote: Distress}Ah, {pause 20}Entschuldigung!{pause 20} Ich habe	nicht gesehen, wer es ist{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Text size 75%}{emote: Worry}Ich passe in Zukunft besser auf{Text size 100%}{Text size 75%}{pause 8}.{pause 8}.{pause 8}.{Text size 100%}
+"041"

@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Sadness}
-"003"	{emote: Anger}
-"004"	{emote: Anger}
+"001"	{emote: Distress}ちょ、{pause 10}ちょっと　{Player nickname (green)}さん！{pause 20}	どうされたんですか！{Wait for input}	{emote: Sadness}そんなに　{pause 8}{ruby (charSpan 1): お}押さないでください！！{000b-0004-0002-cd03}
+"002"	{emote: Sadness}そんなに　{pause 3}ぶつかってこられたら、{pause 10}	{ruby (charSpan 1): いた}痛いです{pause 8}・{pause 8}・{pause 8}・{pause 8}！{Wait for input}{emote: Anger}なにか　ご{ruby (charSpan 1): よう}用があるんでしたら、{pause 10}	ちゃんと　{pause 5}お{ruby (charSpan 1): はな}話ししてください！{000b-0004-0002-cd03}
+"003"	{emote: Anger}{ruby (charSpan 1): なに}何か　おじゃましたのなら、{pause 10}	あやまりますけど{pause 5}・{pause 5}・{pause 5}・{pause 5}{Wait for input}{emote: Sadness}{ruby (charSpan 2): むり}無理{ruby (charSpan 2): やり}矢理　{ruby (charSpan 1): お}押すなんて{pause 10}	ひどいです、{pause 10}{catchphrase}！！{000b-0004-0002-cd03}
+"004"	{emote: Anger}ちょっと！！{pause 20}	{emote: Sorrow}そんな{ruby (charSpan 2): ごういん}強引に　{pause 10}{ruby (charSpan 1): お}押さないでください！{000b-0004-0002-cd03}

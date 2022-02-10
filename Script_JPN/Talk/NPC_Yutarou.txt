@@ -1,60 +1,60 @@
 == 0 ==
-"001"		　　　　　　　ぱっ{pause 4}
-"002"		　　　　　　　ぱっ{pause 4}
-"003"		　　　　　　　ぱっ{pause 4}
-"004"	{pause 16}
-"005"	{emote: Alarmed}
-"006"	{emote: Worry}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Agreement}
-"010"	{emote: Agreement}
-"011"	
-"012"	
-"013"	{emote: Alarmed}
-"014"	・{pause 8}
-"015"	{ruby (charSpan 1): ちか}近いうちに、{pause 8}!
-"016"	{ruby (charSpan 2): あした}明日には、{pause 8}!
-"017"	では　わたくしは、{pause 8}
-"018"	{emote: Agreement}
-"019"	{emote: Agreement}
-"020"	{emote: Happiness}
-"021"	{emote: Thought}
-"022"	{emote: Happiness}
-"023"	{emote: Soft Smile}
-"024"	{emote: Alarmed}
-"025"	{emote: Shocked}
-"026"	{emote: Worry}
-"027"	{emote: Worry}
-"028"	{emote: Worry}
-"029"	{emote: Curious}
-"030"	
-"031"	{000d-000b-0000}
-"032"	{000d-000b-0000}
-"033"	{000d-000b-0000}
-"034"	{emote: Worry}
-"035"	
-"036"	
-"037"	{emote: Distress}
-"038"	{emote: Distress}
-"039"	{emote: Soft Smile}
-"040"	{emote: Soft Smile}
-"041"	{emote: Soft Smile}
-"042"	{emote: Happiness}
-"043"	{emote: Soft Smile}
-"044"	{emote: Happiness}
-"045"	{emote: Agreement}
-"046"	でも{pause 8}
-"047"	{emote: Thought}
-"048"	{emote: Thought}
-"049"		　　　　　　　ぱっ{pause 4}
-"050"	
-"051"	{emote: Alarmed}
-"052"	{emote: Reset}
-"053"	{emote: Curious}
-"054"	{emote: Agreement}
-"055"	でも{pause 8}
-"056"	では　わたくしは、{pause 8}
-"057"	ランプの{ruby (charSpan 3): せいきょうかい}精協会からの　サービスとして{pause 16}
-"058"	では、わたくしはこれで{pause 8}
-"059"		　　　　　　　ぱっ{pause 4}
+"001"		　　　　　　　ぱっ{pause 4}ぱら{pause 4}ぱ～{pause 20}{Wait for input}{emote: Reset}わたくしを　お{ruby (charSpan 1): よ}呼びになったのは{pause 8}	{emote: Agreement}あなたさまですね？{pause 40}	{emote: Reset}お{ruby (charSpan 1): はつ}初にお{ruby (charSpan 1): め}目にかかります	わたくし{pause 8}	{emote: Agreement}{Blue}ランプの{ruby (charSpan 1): せい}精{Color Reset}の　{Orange}ゆうたろう{Color Reset}と{ruby (charSpan 1): もう}申します、{pause 20}	{emote: Soft Smile}どうぞ　お{ruby (charSpan 2): みし}見知りおきください	では　さっそく、{pause 4}	{emote: Agreement}{ruby (charSpan 1): ねが}願いを　かなえて～{pause 8}・{pause 8}・{pause 8}・
+"002"		　　　　　　　ぱっ{pause 4}ぱら{pause 4}ぱ～{pause 20}
+"003"		　　　　　　　ぱっ{pause 4}ぱら{pause 4}ぱ～{pause 20}
+"004"	{pause 16}・{pause 8}・{pause 8}・{pause 16}とか{ruby (charSpan 1): い}言ったりすると{pause 30}	{emote: Sheepishness}{0011-0001-0002-0000}さんっぽいでしょうかね{emote: Soft Smile}
+"005"	{emote: Alarmed}あ、{pause 8}スミマセン{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sheepishness}{ruby (charSpan 2): なかみ}中身は　{Orange}ゆうたろう{Color Reset}のままなんです{Wait for input}{emote: Reset}・{pause 8}・{pause 8}・{pause 8}ということで{pause 8}	{emote: Disagreement}{ruby (charSpan 1): き}消えてしまう{ruby (charSpan 2): しんぱい}心配も　なくなりましたので{pause 16}	{emote: Reset}{ruby (charSpan 1): つづ}続けさせていただきます	{emote: Agreement}このように　わたくしを{ruby (charSpan 1): よ}呼んでくださった	ご{ruby (charSpan 3): しゅじんさま}主人様の{ruby (charSpan 1): ねが}願いを、{pause 16}{emote: Happiness}{Blue}1{ruby (charSpan 1): にち}日1{ruby (charSpan 3): かいげんてい}回限定{Color Reset}で	かなえさせて{ruby (charSpan 1): いただ}頂いておりまして	{emote: Sheepishness}これ、{pause 12}{Blue}ランプの{ruby (charSpan 1): せい}精{Color Reset}の{ruby (charSpan 2): ぎょうかい}業界の	お{ruby (charSpan 2): やくそく}約束なんですよね
+"006"	{emote: Worry}あぁ～{pause 8}・{pause 8}・{pause 8}・{pause 16}	{Blue}どうぶつの{ruby (charSpan 1): もり}森の a{ruby (charSpan 4): アミーボ}miibo{Color Reset}が{pause 8}	{ruby (charSpan 1): み}見つかりませんでした～{pause 8}・{pause 8}・{pause 8}・{Wait <0028 0000> 'time'}
+"007"	{emote: Happiness}さて、あなたさまは{pause 8}	{emote: Curious}{ruby (charSpan 1): なに}何を　お{ruby (charSpan 1): のぞ}望みでしょうか？{000f-0001-0006-0000-0000-0000}	{ruby (charSpan 1): むら}村に{ruby (charSpan 1): す}住みなよ	なんかちょうだい	とくにない
+"008"	{emote: Happiness}さて、あなたさまは{pause 8}	{emote: Curious}{ruby (charSpan 1): なに}何を　お{ruby (charSpan 1): のぞ}望みでしょうか？{000f-0000-0004-0000-0000}	なんかちょうだい	とくにない
+"009"	{emote: Agreement}わかりました！{pause 30}	{emote: Thought}{ruby (charSpan 2): ほんもの}本物の　{0011-0001-0002-0000}さんは{pause 8}	ちょうど　{ruby (charSpan 1): くるま}車で{ruby (charSpan 3): いどうちゅう}移動中のようですので	{emote: Reset}すぐに　{ruby (charSpan 1): こころ}心の{ruby (charSpan 1): なか}中に{ruby (charSpan 1): はい}入り{ruby (charSpan 1): こ}込んで{pause 8}	{emote: Happiness}{ruby (charSpan 1): むら}村のオートキャンプ{ruby (charSpan 1): じょう}場に　{ruby (charSpan 1): き}来たくなるように{pause 8}	{emote: Greetings}{ruby (charSpan 1): はたら}働きかけておきますね
+"010"	{emote: Agreement}わかりました！{pause 30}	{emote: Worry}ただ、{pause 8}こんな{ruby (charSpan 1): すがた}姿ではありますが{pause 8}	{emote: Resigned}{ruby (charSpan 2): なかみ}中身は　わたくしですので{pause 8}・{pause 8}・{pause 8}・	{emote: Reset}{ruby (charSpan 2): ほんもの}本物の　{0011-0001-0002-0000}さんには{pause 8}	{emote: Agreement}{ruby (charSpan 3): こんやじゅう}今夜中に　まくら{ruby (charSpan 1): もと}元に{ruby (charSpan 1): た}立って、{pause 20}	{emote: Greetings}お{ruby (charSpan 1): つた}伝えしておきますね
+"011"
+"012"
+"013"	{emote: Alarmed}おっと{pause 8}・{pause 8}・{pause 8}・、{pause 20}{emote: Reset}{ruby (charSpan 1): いま}今の　{Town name (pink)}{ruby (charSpan 1): むら}村は	{emote: Worry}{ruby (charSpan 2): ていいん}定員いっぱいで、{pause 16}{ruby (charSpan 1): あたら}新しい{ruby (charSpan 2): じゅうみん}住民を	{emote: Disagreement}{ruby (charSpan 1): う}受け{ruby (charSpan 1): い}入れる{ruby (charSpan 2): よゆう}余裕が　ないみたいです{pause 8}・{pause 8}・{pause 8}・	{emote: Reset}{ruby (charSpan 1): か}代わりに、{0011-0001-0002-0001}さんが{pause 8}	{ruby (charSpan 1): むら}村から　{ruby (charSpan 1): で}出て{ruby (charSpan 1): い}行くことになりますが、{pause 16}	{emote: Curious}それでも　{ruby (charSpan 1): かま}構いませんか？{pause 20}{000f-0001-0006-0000-0000-0000}	{ruby (charSpan 1): かま}構わない	ほかの{ruby (charSpan 2): そんみん}村民がいい	やっぱ　やめる
+"014"	・{pause 8}・{pause 8}・{pause 8}では、{0011-0001-0002-0001}さんが	{ruby (charSpan 1): か}代わりに　{ruby (charSpan 1): で}出て{ruby (charSpan 1): い}行くことになりますが、{pause 16}	{emote: Curious}それでも{ruby (charSpan 1): かま}構いませんか？{pause 20}{000f-0001-0006-0000-0000-0000}	{ruby (charSpan 1): かま}構わない	ほかの{ruby (charSpan 2): そんみん}村民がいい	やっぱ　やめる
+"015"	{ruby (charSpan 1): ちか}近いうちに、{pause 8}{0011-0001-0002-0000}さんが{pause 8}	{emote: Agreement}{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): く}来ることに　なっていると{ruby (charSpan 1): おも}思います{Wait for input}{emote: Reset}あと{pause 4}　このことは　くれぐれも、{pause 16}	{emote: Mischief}わたくしと　あなたさまだけの	{ruby (charSpan 2): ひみつ}秘密に{pause 8}・{pause 8}・{pause 8}・
+"016"	{ruby (charSpan 2): あした}明日には、{pause 8}{0011-0001-0002-0001}さんが{pause 8}	{emote: Agreement}{ruby (charSpan 1): で}出て{ruby (charSpan 1): い}行くことに　なっていると{ruby (charSpan 1): おも}思います{Wait for input}{emote: Reset}あと{pause 4}　このことは　くれぐれも、{pause 16}	{emote: Mischief}わたくしと　あなたさまだけの	{ruby (charSpan 2): ひみつ}秘密に{pause 8}・{pause 8}・{pause 8}・
+"017"	では　わたくしは、{pause 8}{emote: Agreement}そろそろ	おいとまさせて　いただきます{pause 20}{emote: Reset}{Wait for input}	　　　　　　　ぱっ{pause 4}ぱら{pause 4}ぱ～{Wait <003c 0000> 'time'}
+"018"	{emote: Agreement}かしこまりました！{pause 30}	{emote: Thought}えっと{pause 8}・{pause 8}・{pause 8}・{pause 8}　{ruby (charSpan 1): いま}今、お{ruby (charSpan 1): わた}渡しできるものは{pause 8}	{emote: Soft Smile}こんなところでしょうか？{000f-0001-0006-0000-0000-0000}	ブロマイド	ブロマイド{ruby (charSpan 2): いがい}以外のもの	やっぱ　やめる
+"019"	{emote: Agreement}かしこまりました！{pause 30}	{emote: Thought}えーっと{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): いま}今、お{ruby (charSpan 1): わた}渡しできるものは{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"020"	{emote: Happiness}わかりました！{pause 20}	{emote: Soft Smile}{0011-0001-0002-0000}さんのブロマイドですね
+"021"	{emote: Thought}そうですね、{pause 20}	{0011-0001-0002-0000}さんのブロマイド{pause 4}	{ruby (charSpan 2): いがい}以外のもの　ということは{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"022"	{emote: Happiness}はい！{pause 20}	{0011-0003-0002-0000}を{ruby (charSpan 1): さ}差し{ruby (charSpan 1): あ}上げます
+"023"	{emote: Soft Smile}はい！{pause 20}	{0011-0003-0002-0000}になりますね
+"024"	{emote: Alarmed}え？{pause 20}	{emote: Worry}{ruby (charSpan 1): よ}呼ぶだけ　{ruby (charSpan 1): よ}呼んでおいて{pause 8}・{pause 8}・{pause 8}・{pause 16}	{emote: Reset}いえ、{pause 16}{emote: Disagreement}なんでもありません	{emote: Soft Smile}また　{ruby (charSpan 1): き}気が{ruby (charSpan 1): か}変わりましたら{pause 8}	お{ruby (charSpan 1): よ}呼びつけくださいまし{emote: Reset}{Wait for input}	　　　　　　　ぱっ{pause 4}ぱら{pause 4}ぱ～{Wait <003c 0000> 'time'}
+"025"	{emote: Shocked}こ、{pause 8}このお{ruby (charSpan 1): かた}方は！{pause 40}	{emote: Fearful}その{ruby (charSpan 1): むかし}昔、{pause 8}{ruby (charSpan 2): いちだい}一代で　{ruby (charSpan 1): むら}村を{ruby (charSpan 1): きず}築いたといわれる、{pause 8}	{ruby (charSpan 2): でんせつ}伝説のむらびと{ruby (charSpan 1): さま}様ではありませんか！！	{emote: Disagreement}わたくしには　おそれ{ruby (charSpan 1): おお}多くて、{pause 16}	{ruby (charSpan 1): の}乗り{ruby (charSpan 1): うつ}移ることなど{emote: Sigh}　できません！{000f-0000-0004-0000-0000}	そこをなんとか！	あ、そう・・・
+"026"	{emote: Worry}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ございません{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}この{ruby (charSpan 2): せかい}世界の{ruby (charSpan 2): じゅうみん}住民でない{ruby (charSpan 1): かた}方には{pause 8}	{emote: Disagreement}{ruby (charSpan 1): の}乗り{ruby (charSpan 1): うつ}移ることが　できないのです
+"027"	{emote: Worry}・{pause 8}・{pause 8}・{pause 90}{emote: Reset}わかりました！{pause 20}{Wait for input}	{ruby (charSpan 1): の}乗り{ruby (charSpan 1): うつ}移ることはできませんが、{pause 8}	ご{ruby (charSpan 2): ほんにん}本人を{ruby (charSpan 1): さが}探して{ruby (charSpan 1): まい}参ります！	{emote: Agreement}{ruby (charSpan 2): ぜんりょく}全力をつくして　がんばりますので、{pause 8}	オートキャンプ{ruby (charSpan 1): じょう}場で　{ruby (charSpan 1): ま}待っていてください！{pause 8}
+"028"	{emote: Worry}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ございません！{Wait for input}なにしろ　そのお{ruby (charSpan 1): かた}方は、{pause 12}	{emote: Disagreement}オノを{ruby (charSpan 1): も}持つと　{ruby (charSpan 1): て}手がつけられなくなる{pause 8}	という　ウワサもございまして{pause 8}・{pause 8}・{pause 8}・
+"029"	{emote: Curious}もう{ruby (charSpan 2): いちど}一度　{ruby (charSpan 1): ため}試しますか？{pause 20}{000f-0000-0004-0000-0000}	はい	いいえ
+"030"
+"031"	{000d-000b-0000}あの、{pause 8}スミマセン{pause 8}・{pause 8}・{pause 4}・{pause 20}	{ruby (charSpan 1): あし}足のふみ{ruby (charSpan 1): ば}場がなくて{pause 8}	ランプから{ruby (charSpan 1): で}出られないんですけど{pause 8}・{pause 8}・{pause 8}・	{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありませんが、{pause 12}	もう{ruby (charSpan 1): すこ}少し{ruby (charSpan 2): へや}部屋を{ruby (charSpan 1): かた}片づけてから{pause 8}	ランプをこすっていただけませんか？{000d-000c-0000}
+"032"	{000d-000b-0000}あの、{pause 8}スミマセン{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): いま}今、{ruby (charSpan 1): いえ}家に{ruby (charSpan 1): だれ}誰か{ruby (charSpan 1): き}来てますよね？{Wait for input}{ruby (charSpan 1): は}恥ずかしながら、{pause 8}	わたくし、{pause 4}{ruby (charSpan 1): し}知らない{ruby (charSpan 1): ひと}人と{ruby (charSpan 1): あ}会うの	{ruby (charSpan 2): にがて}苦手なんですよね	お{ruby (charSpan 2): きゃくさま}客様が　お{ruby (charSpan 1): かえ}帰りになってから{pause 8}	ランプをこすっていただけませんか？{000d-000c-0000}
+"033"	{000d-000b-0000}あの、{pause 8}スミマセン{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): だれ}誰かが{ruby (charSpan 1): むら}村に{ruby (charSpan 1): く}来る{ruby (charSpan 2): よてい}予定ですよね？{Wait for input}{ruby (charSpan 1): は}恥ずかしながら、{pause 8}	わたくし、{pause 4}{ruby (charSpan 1): し}知らない{ruby (charSpan 1): ひと}人と{ruby (charSpan 1): あ}会うの	{ruby (charSpan 2): にがて}苦手なんですよね	お{ruby (charSpan 2): きゃくさま}客様が　お{ruby (charSpan 1): かえ}帰りになってから{pause 8}	ランプをこすっていただけませんか？{000d-000c-0000}
+"034"	{emote: Worry}あ、{pause 8}あの{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ないのですが{pause 8}	{emote: Resigned}{ruby (charSpan 2): にもつ}荷物がいっぱいのようですので{pause 8}・{pause 8}・{pause 8}・	{emote: Reset}まずは、{ruby (charSpan 1): も}持ち{ruby (charSpan 1): もの}物を{ruby (charSpan 2): せいり}整理してから{pause 8}	{emote: Curious}また　わたくしを{ruby (charSpan 1): よ}呼んでいただいても	よろしいでしょうか？	{emote: Reset}では　わたくしは{pause 8}　いったん	{emote: Soft Smile}おいとまさせて　いただきます{Wait for input}	　　　　　　　{emote: Flourish}ぱっ{pause 4}ぱら{pause 4}ぱ～{Wait <003c 0000> 'time'}
+"035"
+"036"
+"037"	{emote: Distress}{Blue}NFCリーダー/ライター{Color Reset}の{ruby (charSpan 2): でんげん}電源を{ruby (charSpan 1): い}入れて{pause 8}	{ruby (charSpan 1): よ}読み{ruby (charSpan 1): と}取りの{ruby (charSpan 2): じゅんび}準備をしてください{Wait for input}わたくしが{ruby (charSpan 1): の}乗り{ruby (charSpan 1): うつ}移る　{ruby (charSpan 2): じゅうみん}住民の{pause 4}	{Blue}どうぶつの{ruby (charSpan 1): もり}森の a{ruby (charSpan 4): アミーボ}miibo{Color Reset}を{pause 8}	タッチしてください{0007-0008-0004-003c-0000}
+"038"	{emote: Distress}わたくしが{ruby (charSpan 1): の}乗り{ruby (charSpan 1): うつ}移る　{ruby (charSpan 2): じゅうみん}住民の{pause 4}	{Blue}どうぶつの{ruby (charSpan 1): もり}森の a{ruby (charSpan 4): アミーボ}miibo{Color Reset}を{pause 8}	{ruby (charSpan 3): したがめん}下画面にタッチしてください{0007-0008-0004-003c-0000}
+"039"	{emote: Soft Smile}では、{pause 8}{emote: Curious}{ruby (charSpan 1): なに}何をお{ruby (charSpan 1): のぞ}望みでしょうか？{000f-0001-0006-0000-0000-0000}	{ruby (charSpan 1): むら}村に{ruby (charSpan 1): す}住みなよ	なんかちょうだい	とくにない
+"040"	{emote: Soft Smile}では、{pause 8}{emote: Curious}{ruby (charSpan 1): なに}何をお{ruby (charSpan 1): のぞ}望みでしょうか？{000f-0000-0004-0000-0000}	なんかちょうだい	とくにない
+"041"	{emote: Soft Smile}では、{pause 8}{emote: Curious}{ruby (charSpan 1): なに}何をお{ruby (charSpan 1): のぞ}望みでしょうか？{000f-0000-0004-0000-0000}	たまには　{ruby (charSpan 1): やす}休んだら？	とくにない
+"042"	{emote: Happiness}さて、あなたさまは{pause 8}	{emote: Curious}{ruby (charSpan 1): なに}何を　お{ruby (charSpan 1): のぞ}望みでしょうか？{000f-0000-0004-0000-0000}	たまには　{ruby (charSpan 1): やす}休んだら？	とくにない
+"043"	{emote: Soft Smile}では、{pause 8}{emote: Curious}{ruby (charSpan 1): なに}何をお{ruby (charSpan 1): のぞ}望みでしょうか？{000f-0001-0006-0000-0000-0000}	{ruby (charSpan 1): あそ}遊びにおいでよ	なんかちょうだい	とくにない
+"044"	{emote: Happiness}さて、あなたさまは{pause 8}	{emote: Curious}{ruby (charSpan 1): なに}何を　お{ruby (charSpan 1): のぞ}望みでしょうか？{000f-0001-0006-0000-0000-0000}	{ruby (charSpan 1): あそ}遊びにおいでよ	なんかちょうだい	とくにない
+"045"	{emote: Agreement}わかりました！{pause 20}{Wait for input}{emote: Reset}すぐに　{ruby (charSpan 2): ほんもの}本物の　{0011-0001-0002-0000}さんの	{ruby (charSpan 1): こころ}心の{ruby (charSpan 1): なか}中に{ruby (charSpan 1): はい}入り{ruby (charSpan 1): こ}込んで、{pause 8}{emote: Happiness}オートキャンプ{ruby (charSpan 1): じょう}場に	{ruby (charSpan 1): い}行きたくなるよう{pause 8}　{emote: Greetings}{ruby (charSpan 1): はたら}働きかけておきますね{pause 16}
+"046"	でも{pause 8}・{pause 8}・{pause 8}・{pause 8}　{emote: Thought}{0011-0001-0002-0000}さんは　{pause 8}	{ruby (charSpan 1): いま}今ちょうど、{Town name (pink)}{ruby (charSpan 1): むら}村で　キャンプを	{ruby (charSpan 1): たの}楽しんでいるようですね	{emote: Reset}{0011-0001-0002-0000}さんを　お{ruby (charSpan 1): さそ}誘いするのは、{pause 16}	{emote: Soft Smile}また　{ruby (charSpan 1): ひ}日を{ruby (charSpan 1): あらた}改めて{pause 8}	{emote: Curious}{ruby (charSpan 2): けんとう}検討されては　いかがでしょうか？{pause 20}
+"047"	{emote: Thought}でも{pause 8}・{pause 8}・{pause 8}・{pause 20}　{emote: Resigned}{Town name (pink)}{ruby (charSpan 1): むら}村には{pause 8}	これ{ruby (charSpan 2): いじょう}以上　{ruby (charSpan 1): いえ}家を{ruby (charSpan 1): た}建てる	スペースが{pause 4}　ないようですね	{emote: Reset}まずは、{ruby (charSpan 4): こうきょうじぎょう}公共事業を　{ruby (charSpan 2): てっきょ}撤去するなどして{pause 16}	{emote: Agreement}{ruby (charSpan 2): ばしょ}場所を{ruby (charSpan 2): かくほ}確保したほうが　よさそうです
+"048"	{emote: Thought}でも{pause 8}・{pause 8}・{pause 8}・{pause 20}　{emote: Resigned}{Town name (pink)}{ruby (charSpan 1): むら}村は{pause 8}	イベントの{ruby (charSpan 1): ま}真っ{ruby (charSpan 2): さいちゅう}最中ですので{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}{0011-0001-0002-0000}さんを　お{ruby (charSpan 1): さそ}誘いするのは、{pause 16}	{emote: Soft Smile}また　{ruby (charSpan 1): ひ}日を{ruby (charSpan 1): あらた}改めて{pause 8}	{emote: Curious}{ruby (charSpan 2): けんとう}検討されては　いかがでしょうか？{pause 20}
+"049"		　　　　　　　ぱっ{pause 4}ぱら{pause 4}ぱ～{pause 20}{Wait for input}{emote: Reset}わたくしを　お{ruby (charSpan 1): よ}呼びになったのは{pause 8}	{emote: Agreement}あなたさまですね？{pause 40}	{emote: Reset}お{ruby (charSpan 1): はつ}初にお{ruby (charSpan 1): め}目にかかります	わたくし{pause 8}	{emote: Agreement}{Blue}ランプの{ruby (charSpan 1): せい}精{Color Reset}の　{Orange}ゆうたろう{Color Reset}と{ruby (charSpan 1): もう}申します、{pause 20}	{emote: Soft Smile}どうぞ　お{ruby (charSpan 2): みし}見知りおきください	{emote: Agreement}このように　わたくしを{ruby (charSpan 1): よ}呼んでくださった	ご{ruby (charSpan 3): しゅじんさま}主人様の{ruby (charSpan 1): ねが}願いを、{pause 16}{emote: Happiness}{Blue}1{ruby (charSpan 1): にち}日1{ruby (charSpan 3): かいげんてい}回限定{Color Reset}で	かなえさせて{ruby (charSpan 1): いただ}頂いておりまして	{emote: Sheepishness}これ、{pause 12}{Blue}ランプの{ruby (charSpan 1): せい}精{Color Reset}の{ruby (charSpan 2): ぎょうかい}業界の	お{ruby (charSpan 2): やくそく}約束なんですよね{pause 40}	{emote: Reset}というわけで{pause 8}・{pause 8}・{pause 8}・{pause 8}　{emote: Shocked}あっ！！{pause 40}	{emote: Distress}{ruby (charSpan 2): きょう}今日はすでに{pause 8}　{Town name (pink)}{ruby (charSpan 1): むら}村に{ruby (charSpan 1): す}住んでいる{pause 4}	{ruby (charSpan 1): べつ}別の{ruby (charSpan 1): かた}方の{ruby (charSpan 1): ねが}願いを　かなえてしまったことを{pause 16}	すっかり　{ruby (charSpan 1): わす}忘れておりました！{emote: Worry}	{ruby (charSpan 2): ほんとう}本当に　{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ないのですが、{pause 16}	{Blue}1{ruby (charSpan 1): にち}日1{ruby (charSpan 3): かいげんてい}回限定{Color Reset}のルールが　ございますので{pause 8}	{emote: Disagreement}{ruby (charSpan 2): きょう}今日はもう　おしまいなのです	{emote: Reset}これにこりずに、また{ruby (charSpan 2): ごじつ}後日{pause 8}	{emote: Agreement}ランプを　こすってみてください{pause 40}	{emote: Reset}それでは{pause 8}・{pause 8}・{pause 8}・{Wait for input}	　　　　　　　ぱっ{pause 4}ぱら{pause 4}ぱ～{Wait <003c 0000> 'time'}
+"050"
+"051"	{emote: Alarmed}あれ？{pause 12}	{emote: Distress}なんだか　からだがムズムズする{pause 8}・{pause 8}・{pause 8}・{Wait for input}あぁ～～{pause 16}	このままだと　ランプに{ruby (charSpan 1): もど}戻ってしまいます！{pause 30}	{ruby (charSpan 1): の}乗り{ruby (charSpan 1): うつ}移るからだが　{ruby (charSpan 2): ひつよう}必要です～！
+"052"	{emote: Reset}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{pause 40}{emote: Distress}このままだと{pause 8}	わたくし　ランプに{ruby (charSpan 1): もど}戻ってしまいます～！{pause 30}
+"053"	{emote: Curious}あれ？{pause 20}　あなたさまは{pause 16}	{emote: Disagreement}この{ruby (charSpan 2): へや}部屋の{ruby (charSpan 1): ひと}人では　ありませんよね{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Resigned}でもまぁ　いいか{pause 8}・{pause 8}・{pause 8}・	{emote: Reset}わたくし{pause 8}	{emote: Agreement}{Blue}ランプの{ruby (charSpan 1): せい}精{Color Reset}の　{Orange}ゆうたろう{Color Reset}と{ruby (charSpan 1): もう}申します、{pause 20}	{emote: Soft Smile}どうぞ　お{ruby (charSpan 2): みし}見知りおきください	では　さっそく、{pause 4}	{emote: Agreement}{ruby (charSpan 1): ねが}願いを　かなえて～{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}あれ？{pause 30}	{emote: Distress}なんだか　からだがムズムズする{pause 8}・{pause 8}・{pause 8}・{Wait for input}あぁ～～{pause 16}	このままだと　ランプに{ruby (charSpan 1): もど}戻ってしまいます！{pause 30}	{ruby (charSpan 1): の}乗り{ruby (charSpan 1): うつ}移るからだが　{ruby (charSpan 2): ひつよう}必要です～！
+"054"	{emote: Agreement}わかりました！{pause 20}{Wait for input}{emote: Reset}{ruby (charSpan 2): ひごろ}日頃　がんばっておられる、{pause 8}	{emote: Agreement}{Orange}まめきち{Color Reset}さん{pause 4}　{Orange}つぶきち{Color Reset}さん{pause 4}	おふたりの　{ruby (charSpan 1): こころ}心の{ruby (charSpan 1): なか}中に{ruby (charSpan 1): はい}入り{ruby (charSpan 1): こ}込んで{pause 8}・{pause 8}・{pause 8}・	{emote: Happiness}オートキャンプ{ruby (charSpan 1): じょう}場に	{ruby (charSpan 1): い}行きたくなるよう{pause 8}　{emote: Greetings}{ruby (charSpan 1): はたら}働きかけておきますね{pause 16}
+"055"	でも{pause 8}・{pause 8}・{pause 8}・{pause 8}　{emote: Thought}ちょうど　{ruby (charSpan 1): だれ}誰かが{pause 8}	{Town name (pink)}{ruby (charSpan 1): むら}村に　{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): こ}来ようと	しているみたいですね	{emote: Reset}{0011-0001-0002-0000}さんを　お{ruby (charSpan 1): さそ}誘いするのは、{pause 16}	{emote: Soft Smile}また　{ruby (charSpan 1): ひ}日を{ruby (charSpan 1): あらた}改めて{pause 8}	{emote: Curious}{ruby (charSpan 2): けんとう}検討されては　いかがでしょうか？{pause 20}
+"056"	では　わたくしは、{pause 8}{emote: Agreement}そろそろ	おいとまさせて　いただきますが{pause 8}	{ruby (charSpan 2): さいご}最後にひとつだけ・{pause 8}・{pause 8}・{pause 8}
+"057"	ランプの{ruby (charSpan 3): せいきょうかい}精協会からの　サービスとして{pause 16}	{ruby (charSpan 1): ねが}願いを　かなえさせて　いただいた{ruby (charSpan 1): かた}方への{pause 4}	プレゼントが　ございます	{emote: Soft Smile}{Blue}ふるさとチケット{Color Reset}を{pause 8}	どうぞ　お{ruby (charSpan 1): おさ}納めくださいませ{pause 16}
+"058"	では、わたくしはこれで{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"059"		　　　　　　　ぱっ{pause 4}ぱら{pause 4}ぱ～{Wait <003c 0000> 'time'}

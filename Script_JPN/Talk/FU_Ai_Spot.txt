@@ -1,15 +1,15 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Glee}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Surprise}
-"014"	{emote: Happiness}
+"001"	{emote: Happiness}{Greeting begin}あら！　{pause 20}{Player nickname (green)}さん{Greeting end}{pause 20}	{emote: Reset}こんなところで　{ruby (charSpan 1): あ}会うなんて{pause 10}	{emote: Happiness}{ruby (charSpan 2): ぐうぜん}偶然ですね、{pause 15}{catchphrase}
+"002"	{emote: Surprise}まぁ！　{pause 20}{Player nickname (green)}さん{pause 20}	{emote: Happiness}{ruby (charSpan 2): ぐうぜん}偶然ですね、{pause 15}{catchphrase}{Wait for input}	わたしも{pause 10}　お{ruby (charSpan 1): で}出かけしたくなっちゃって{emote: Sunny}
+"003"	{emote: Happiness}{Greeting begin}あら　{pause 10}{Player nickname (green)}さん{Greeting end}{pause 20}	{emote: Glee}あなたも　{pause 10}すてきな{ruby (charSpan 2): おんがく}音楽を	{ruby (charSpan 1): き}聴きに{ruby (charSpan 1): き}来たんですね、{pause 15}{catchphrase}！
+"004"	{emote: Happiness}{Player nickname (green)}さん！{pause 20}	{ruby (charSpan 2): きょう}今日は、{pause 10}{ruby (charSpan 2): おんがく}音楽を{ruby (charSpan 1): たの}楽しもうと{ruby (charSpan 1): おも}思います
+"005"	{emote: Happiness}あら　{pause 15}{Player nickname (green)}さん{pause 20}	ムシに　{ruby (charSpan 2): きょうみ}興味しんしんって{ruby (charSpan 1): かお}顔ですね！
+"006"	{emote: Happiness}{Greeting begin}{Player nickname (green)}さん！{Greeting end}{pause 20}	ここで{ruby (charSpan 1): あ}会えるなんて{pause 10}	うれしいです、{pause 15}{catchphrase}！
+"007"	{emote: Happiness}まぁ　{pause 20}{Player nickname (green)}さんも{pause 10}	{emote: Glee}{ruby (charSpan 3): こうこがく}考古学に　{ruby (charSpan 2): きょうみ}興味があるんですね、{pause 15}{catchphrase}
+"008"	{emote: Happiness}まぁ、{pause 10}{Player nickname (green)}さん！{pause 20}	{emote: Agreement}アートで　{pause 10}{ruby (charSpan 2): かんせい}感性をみがいてるんですね～{emote: Soft Smile}
+"009"	{emote: Happiness}あら、{pause 15}{Player nickname (green)}さん{pause 20}　お{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物ですか
+"010"	{emote: Glee}{Greeting begin}あら、{pause 15}{Player nickname (green)}さん{Greeting end}{pause 20}	{ruby (charSpan 2): きょう}今日は　{pause 10}お{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物に	{ruby (charSpan 2): きあ}気合いが{ruby (charSpan 1): はい}入ってそうですね、{pause 15}{catchphrase}！
+"011"	{emote: Happiness}あら　{pause 10}{Player nickname (green)}さん{pause 30}	{ruby (charSpan 2): きょう}今日は　{pause 15}{ruby (charSpan 1): ほ}掘り{ruby (charSpan 1): だ}出し{ruby (charSpan 1): もの}物が{pause 3}	{ruby (charSpan 1): み}見つかる{ruby (charSpan 1): き}気がします、{pause 10}{catchphrase}
+"012"	{emote: Happiness}{Greeting begin}あら　{pause 20}{Player nickname (green)}さん！{Greeting end}{pause 20}	{ruby (charSpan 2): しなもの}品物がいっぱいで{pause 10}	{ruby (charSpan 2): めうつ}目移りしちゃいますよね、{pause 15}{catchphrase}
+"013"	{emote: Surprise}まぁ！{pause 20}	{emote: Glee}{Player nickname (green)}さんも{pause 8}	お{ruby (charSpan 1): はな}花が　{ruby (charSpan 1): す}好きなんですね、{pause 15}{catchphrase}！
+"014"	{emote: Happiness}あら　{pause 15}{Player nickname (green)}さん{pause 20}	すてきな　お{ruby (charSpan 2): ようふく}洋服{pause 10}	{ruby (charSpan 1): み}見つかりましたか、{pause 15}{catchphrase}

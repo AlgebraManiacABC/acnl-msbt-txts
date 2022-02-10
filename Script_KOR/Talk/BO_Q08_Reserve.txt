@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Glee}
-"002"	{emote: Happiness}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Distress}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
+"001"	{emote: Glee}앗싸～!{pause 20}	그럼 {pause 20}시간을 정하자아～{Wait for input}{emote: Curious}{Blue}{0004-0010-0002-cd00}시 {Color Reset}이후에는{pause 20}	언제가 괜찮아～?
+"002"	{emote: Happiness}좋았어～{pause 40}	그럼 몇 시에 갈까～?{Wait for input}난 {Blue}{0004-0010-0002-cd00}시 반 {Color Reset}이후라면	언제라도 OK～ {pause 8}{catchphrase}
+"003"	{emote: Worry}아아～{pause 20}	그치만 벌써	시간이 이렇게 됐네에{Wait for input}{emote: Sleepy}하아암～～{Wait for input}	난 벌써 졸린데에{pause 20}	그냥 다음에 갈까아, {pause 8}{catchphrase}
+"004"	{emote: Worry}히잉～{pause 20}	역시 안 돼～?
+"005"	{emote: Distress}에엥～?!{pause 40}	그건 넘 빠르지 않아～?{Wait for input}{emote: Worry}좀 더 늦은 시간으로	정해봐아～
+"006"	{emote: Happiness}오케이～!{pause 20}	오늘 {Blue}{0005-0019-0002-cd01} {Color Reset}{Blue}{Blue}{0004-0010-0002-cd01}{Blue}시 {Color Reset}정각이야아～{Wait for input}집에서 느긋하게	기다리고 있어, {pause 8}{catchphrase}
+"007"	{emote: Happiness}오늘 {Blue}{0005-0019-0002-cd01} {0004-0010-0002-cd01}시 {0004-0011-0002-cd02}분 	{Color Reset}맞지이?{pause 40}	그때라면 문제없어～!{Wait for input}{emote: Reset}근데에{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Bashful}혹시 내가 늦더라도{pause 20}	좀 봐주기다～? {pause 8}{catchphrase}?
+"008"	{emote: Worry}아웅～{pause 8}・{pause 8}・{pause 8}・{pause 40}	난 {pause 10}그 시간까지	깨 있을 자신이 없어～{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}더 이른 시간으로{pause 5}	{emote: Curious}정해주지 않을래～? {pause 8}{catchphrase}?

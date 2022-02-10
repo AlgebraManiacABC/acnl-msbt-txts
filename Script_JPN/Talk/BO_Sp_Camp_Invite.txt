@@ -1,29 +1,29 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Shocked}
-"003"	{emote: Glee}
-"004"	{emote: Alarmed}
-"005"	{emote: Shocked}
-"006"	{emote: Shocked}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Worry}
-"010"	{emote: Sadness}
-"011"	{emote: Sadness}
-"012"	{emote: Worry}
-"013"	{emote: Glee}
-"014"	{emote: Sunny}
-"015"	{emote: Greetings}
-"016"	{emote: Glee}
-"017"	{emote: Happiness}
-"018"	それじゃあ、	おやくそくどおり{pause 8}
-"019"	{emote: Joy}
-"020"	{emote: Happiness}
-"021"	{emote: Love}
-"022"	{emote: Glee}
-"023"	{emote: Happiness}
-"024"	{emote: Joy}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Alarmed}{0007-000b-0000}えっ？！{pause 20}	すんでも　いいの？！{Wait for input}{emote: Thought}うぅ～～ん{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sunny}うん！{pause 40}	{emote: Happiness}ボク　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): き}切って	この{ruby (charSpan 1): むら}村に　お{ruby (charSpan 1): ひ}引っこしして{ruby (charSpan 1): く}来るよ！{Wait for input}{emote: Agreement}あらためまして、{pause 20}	ボクは　{Villager's name (orange)}！{Wait for input}{emote: Happiness}キミは　{Player name}{0005-000d-0000}って	いうんだねぇ？{Wait for input}{emote: Bashful}じつは　キャンプに{ruby (charSpan 1): き}来てから　ず～っと、{pause 20}	ここに　すみたいなぁ～って	{ruby (charSpan 1): おも}思ってたんだぁ！{Wait for input}{emote: Sunny}これから	よろしくねぇ、{pause 8}{catchphrase}
+"002"	{emote: Shocked}{0007-000b-0000}えぇ～？！{pause 20}	ホントに　いいのぉ？！{Wait for input}{emote: Joy}うわぁ～い！{pause 20}　やったぁ～！{pause 40}	それなら　ボク	お{ruby (charSpan 1): ひ}引っこしして{ruby (charSpan 1): く}来るよぉ！{Wait for input}{emote: Sunny}ボクの{ruby (charSpan 2): なまえ}名前は　{Villager's name (orange)}！{pause 40}	{emote: Reset}キミは{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}{Player name}{0005-000d-0000}っていうんだね！{Wait for input}これから　よろしくね！{pause 20}	{Player name}{0005-000d-0000}{Wait for input}{emote: Pride}さて！{pause 20}　{ruby (charSpan 1): いま}今から　ごはん{ruby (charSpan 1): た}食べて、{pause 20}	お{ruby (charSpan 1): ひ}引っこしする{ruby (charSpan 2): たいりょく}体力	つけなくっちゃぁ、{pause 8}{catchphrase}
+"003"	{emote: Glee}やったぁ～！{pause 20}	そう{ruby (charSpan 1): い}言ってくれると　{ruby (charSpan 1): おも}思ったよぉ{pause 40}	お{ruby (charSpan 1): ひ}引っこし　けっていだぁ～！{Wait for input}{emote: Alarmed}あ、{pause 20}そうだ！{pause 40}	{emote: Happiness}まだお{ruby (charSpan 2): なまえ}名前　{ruby (charSpan 1): き}聞いてなかったよね？{Wait for input}{emote: Agreement}うん{pause 8}うん{pause 20}	{emote: Happiness}{Player name}{0005-000d-0000}っていうんだねぇ{Wait for input}それじゃあ、{pause 8}{Player name}{0005-000d-0000}{pause 20}	これからよろしくねぇ！　{pause 8}{catchphrase}！
+"004"	{emote: Alarmed}{0007-000a-0000}えっ？！{pause 20}	すんでも　いいの？！{Wait for input}{emote: Thought}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Worry}ごめんねぇ{pause 40}	{emote: Disagreement}{ruby (charSpan 2): こんかい}今回は　やめておくよぉ{Wait for input}{emote: Happiness}やっぱり{pause 8}　{ruby (charSpan 1): むら}村のおともだちと	わかれちゃうのは	さみしいからねぇ～{Wait for input}さそってくれて	ありがとぉ、{pause 8}{catchphrase}
+"005"	{emote: Shocked}{0007-000b-0000}えぇ～？！{pause 20}	お{ruby (charSpan 1): ひ}引っこし　して{ruby (charSpan 1): き}来ていいのぉ？！{Wait for input}{emote: Thought}とっても　うれしい	おさそいだけど{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Happiness}ごめんね！{pause 20}　やめておくよぉ！{Wait for input}{emote: Worry}じつは{pause 20}　{ruby (charSpan 1): いま}今の{ruby (charSpan 1): むら}村に	すみはじめた　ばっかりなんだぁ～{Wait for input}{emote: Disagreement}まだ　お{ruby (charSpan 1): ひ}引っこしするには	{ruby (charSpan 1): はや}早すぎるんだよぉ～{Wait for input}{emote: Sunny}でも{pause 20}　さそってくれて	ホントに　ありがとねぇ	{pause 8}{catchphrase}
+"006"	{emote: Shocked}{0007-000b-0000}えぇ～？！{pause 20}	ホントに　いいのぉ？！{Wait for input}	{emote: Thought}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Mistaken}ごめ～ん！{pause 40}	おさそいは　うれしいんだけど{pause 20}	{ruby (charSpan 2): こんかい}今回は　やめておくよぉ、{pause 8}{catchphrase}	{emote: Happiness}ボクは　やっぱり{pause 20}	{ruby (charSpan 1): いま}今の{ruby (charSpan 1): むら}村の{ruby (charSpan 1): みず}水が	{ruby (charSpan 1): あ}合ってるんだよねぇ{Wait for input}{emote: Bashful}えへへ～{pause 20}	いつも　ついつい{pause 8}	ガブのみ　しちゃうんだぁ～
+"007"	{emote: Alarmed}えぇ？！{pause 40}	いいのぉ～？{Wait for input}{emote: Thought}あぁ～{pause 40}　でも{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sheepishness}そんなに　すぐには、	きめられないかもぉ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Inspired}{0007-000b-0000}あ、{pause 8}そうだぁ！{pause 40}	ゲームして　きめようよぉ！{Wait for input}{emote: Happiness}キミがかったら	ボクは　この{ruby (charSpan 1): むら}村にすむねぇ{Wait for input}ボクがかったら、{pause 20}おみやげに	その　{Blue}{0011-0003-0002-0000}{Color Reset}を	ちょ～だい！{Player can respond (0005):0019-0015-000a-0028}	オッケー！	それはちょっと・・・
+"008"	{emote: Alarmed}えぇ～！{pause 20}	そんなとつぜん～！{Wait for input}{emote: Thought}おさそいは　うれしいけど、{pause 20}	まよっちゃうなぁ～{pause 40}	{ruby (charSpan 1): なに}何か　きっかけさえ　あれば{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Inspired}{0007-000b-0000}あ、{pause 8}そうだぁ！{pause 40}	ゲームで　きめるってのはどぉ？{Wait for input}{emote: Happiness}キミがかったら	ボクが　お{ruby (charSpan 1): ひ}引っこししてくるねぇ{Wait for input}もし　キミがまけたら、{pause 20}	その　{Blue}{0011-0003-0002-0000}{Color Reset}	おみやげに　ちょ～だい！{Player can respond (0005):0019-0015-000b-0028}	{ruby (charSpan 1): う}受けて{ruby (charSpan 1): た}立つよ！	そんなのイヤだよ
+"009"	{emote: Worry}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	すごく　うれしいんだけど、{pause 20}	まだ　{ruby (charSpan 1): こころ}心のじゅんびが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Inspired}{0007-000a-0000}そうだ！{pause 40}	こういうときは	ゲームできめようよ！{Wait for input}{emote: Agreement}キミがかったら	ボクが　お{ruby (charSpan 1): ひ}引っこししてくる！{Wait for input}{emote: Happiness}もし　キミがまけたら{pause 20}	その　{Blue}{0011-0003-0002-0000}	{Color Reset}ちょ～だい、{pause 8}{catchphrase}{Player can respond (0005):0019-0015-000c-0028}	よし、やろう！	えんりょします・・・
+"010"	{emote: Sadness}えぇ～{pause 20}	つまんないのぉ～
+"011"	{emote: Sadness}なぁ～んだ{pause 8}・{pause 8}・{pause 8}・{pause 20}	いい　アイデアだと	{ruby (charSpan 1): おも}思ったんだけどなぁ、{pause 8}{catchphrase}
+"012"	{emote: Worry}そっかぁ{pause 8}・{pause 8}・{pause 8}・	ざんねんだよぉ
+"013"	{emote: Glee}やったぁ～！{pause 20}	それじゃあ、	{Blue}ジャンケンゲーム{Color Reset}しよぉ！{0007-0012-0006-0100-001b-001a}
+"014"	{emote: Sunny}よぉ～っし！{pause 20}	それじゃあ、{Blue}ジェスチャーゲーム{Color Reset}で	しょうぶだよぉ！{0007-0012-0006-0101-001b-001a}
+"015"	{emote: Greetings}そうこなくっちゃ！{pause 40}	それじゃあ、{pause 8}{Blue}あっちむいてホイ！　{Color Reset}で	しょうぶだぁ！{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Glee}やったぁ～！{pause 20}	やくそくの　{Blue}{0011-0003-0002-0000}{Color Reset}、	もらうねぇ！　{pause 8}{catchphrase}！
+"017"	{emote: Happiness}えへへ～{pause 20}	それじゃあ、{pause 20}	{Blue}{Blue}{0011-0003-0002-0000}{Blue}　{Color Reset}も～らいっ！
+"018"	それじゃあ、	おやくそくどおり{pause 8}	{Blue}{Blue}{0011-0003-0002-0000}{Blue}　{Color Reset}もらうねぇ！
+"019"	{emote: Joy}おかげで　いいきねんになったよぉ！{pause 20}	ありがとぉ、{pause 8}{catchphrase}
+"020"	{emote: Happiness}コレ{ruby (charSpan 1): み}見たら	この{ruby (charSpan 1): むら}村を{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出しちゃいそぉ{Wait for input}{emote: Worry}ボ、{pause 20}ボク{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sorrow}なかないよぉ～！！
+"021"	{emote: Love}えへへ～{pause 20}	いいおみやげが	できちゃったぁ、{pause 8}{catchphrase}
+"022"	{emote: Glee}それじゃあ　おやくそく{ruby (charSpan 1): どお}通り、{pause 20}	この{ruby (charSpan 1): むら}村にお{ruby (charSpan 1): ひ}引っこしだぁ～{Wait for input}{emote: Happiness}あらためまして{pause 20}　ボクは　{Villager's name (orange)}！{pause 40}	{emote: Agreement}キミは　{Player name}{0005-000d-0000}って	いうんだねぇ？{Wait for input}{emote: Happiness}これからは{pause 20}	{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): むら}村の　おともだちとして	よろしくねぇ！{pause 8}　{Player name}{0005-000d-0000}！
+"023"	{emote: Happiness}それじゃあ{pause 20}	おやくそく{ruby (charSpan 1): どお}通り	お{ruby (charSpan 1): ひ}引っこししてくるよぉ～{Wait for input}{emote: Glee}そうと　きまれば、	さっそくじゅんび～！{pause 20}	{ruby (charSpan 1): おお}大いそがしだぁ！{Wait for input}{emote: Reset}え～っと{pause 20}　キミの{ruby (charSpan 2): なまえ}名前は{pause 20}	{Player name}{0005-000d-0000}って	いうんだねぇ？{Wait for input}{emote: Sunny}{Player name}{0005-000d-0000}！{pause 20}	これから　よろしくねぇ！	{pause 8}{catchphrase}！
+"024"	{emote: Joy}よぉ～し、けっていだよぉ！{pause 40}	キャンプがおわったら	こっちに　お{ruby (charSpan 1): ひ}引っこしだぁ～{Wait for input}{emote: Shyness}ホントはね、{pause 20}	さいしょから　この{ruby (charSpan 1): むら}村に	すみたかったんだぁ～{Wait for input}{emote: Laughter}ゲームに　まけて	ラッキーだったよぉ、{pause 8}{catchphrase}{pause 40}{emote: Soft Smile}	これから　よろしくねぇ！
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}

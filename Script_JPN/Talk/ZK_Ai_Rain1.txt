@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Greetings}
-"003"	{emote: Greetings}
-"004"	{emote: Happiness}
-"005"	{emote: Greetings}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"	{emote: Disbelief}
-"009"	{emote: Soft Smile}
-"010"	{emote: Love}
-"011"	{emote: Worry}
-"012"	{emote: Worry}
-"013"	{emote: Worry}
-"014"	{emote: Glare}
-"015"	{emote: Glare}
-"016"	{ruby (charSpan 1): ひ}日が{ruby (charSpan 1): く}暮れて　すっかり{ruby (charSpan 1): くら}暗くなったねぇ{Wait for input}
-"017"	{emote: Glare}
-"018"	{emote: Soft Smile}
-"019"	{emote: Glare}
+"001"	{emote: Happiness}{Greeting begin}やぁ、おはよう！{Greeting end}	{000a-000b-0006-0910-0b00-cd00}
+"002"	{emote: Greetings}{Greeting begin}おはよう、{Player nickname (green)}{0005-000d-0000}！{Greeting end}	{000a-000b-0006-0a10-0c00-cd00}
+"003"	{emote: Greetings}{Greeting begin}やぁ、{Player nickname (green)}{0005-000d-0000}{Greeting end}	こんにちは！{000a-000b-0006-0910-0d00-cd00}
+"004"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、こんにちは！	{000a-000b-0006-0a10-0e00-cd00}
+"005"	{emote: Greetings}やぁ、こんばんは！	{000a-000b-0006-0910-0f00-cd00}
+"006"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、こんばんは！	{000a-000b-0006-0a10-1000-cd00}
+"007"	{emote: Greetings}{Greeting begin}やぁ、{Player nickname (green)}{0005-000d-0000}！{Greeting end}	{000a-000b-0006-0910-1100-cd00}
+"008"	{emote: Disbelief}わっ！　{pause 8}ボクは{ruby (charSpan 1): なに}何も{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sheepishness}って、	なんだ、{pause 8}{Player nickname (green)}{0005-000d-0000}か～！{000a-000b-0006-1310-1200-cd00}
+"009"	{emote: Soft Smile}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): なか}中、{pause 8}{ruby (charSpan 2): であ}出会うなんて{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Glare}ドラマチックだね？　{pause 8}{catchphrase}？
+"010"	{emote: Love}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日って　ステキだねぇ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Distress}{ruby (charSpan 2): あまおと}雨音を　{ruby (charSpan 1): き}聞いていると、{pause 8}	ウズウズしてくるよっ！　{pause 8}{catchphrase}！
+"011"	{emote: Worry}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日は、{ruby (charSpan 1): かみ}髪の{ruby (charSpan 1): け}毛がぬれるから{pause 12}	ちょっと　{ruby (charSpan 2): にがて}苦手なんだ、{pause 8}{catchphrase}
+"012"	{emote: Worry}{ruby (charSpan 2): きょう}今日はずっと　{ruby (charSpan 1): ふ}降り{ruby (charSpan 1): つづ}続けるのかなぁ？	{pause 8}{catchphrase}？
+"013"	{emote: Worry}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日は　ムードも	{ruby (charSpan 1): しめ}湿りがちだね、{pause 8}{catchphrase}
+"014"	{emote: Glare}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日の{ruby (charSpan 2): きぶん}気分は、	レイニーブルーだね、{pause 8}{catchphrase}
+"015"	{emote: Glare}こんな{ruby (charSpan 2): じかん}時間に　{ruby (charSpan 2): さんぽ}散歩かい？	{pause 8}{catchphrase}？{pause 32}	{emote: Sheepishness}しかも　こんな{ruby (charSpan 2): てんき}天気の{ruby (charSpan 1): わる}悪い{ruby (charSpan 1): ひ}日に{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"016"	{ruby (charSpan 1): ひ}日が{ruby (charSpan 1): く}暮れて　すっかり{ruby (charSpan 1): くら}暗くなったねぇ{Wait for input}	{ruby (charSpan 1): あめ}雨も{ruby (charSpan 1): ふ}降ってるから、{ruby (charSpan 2): あしもと}足元には	{ruby (charSpan 1): き}気をつけたほうがいいよ、{pause 8}{catchphrase}
+"017"	{emote: Glare}{ruby (charSpan 2): あまおと}雨音って　ステキだよね？{Wait for input}	{emote: Anger}こうやって　{ruby (charSpan 1): みみ}耳をすまして{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): き}聞いてると{pause 32}{emote: Sleepy}{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}ハッ！
+"018"	{emote: Soft Smile}{ruby (charSpan 1): あめ}雨も　{ruby (charSpan 1): ふ}降ってるっていうのに{pause 12}	こんな{ruby (charSpan 2): じかん}時間に　どうしたんだい？	{pause 8}{catchphrase}？
+"019"	{emote: Glare}フフフ、{pause 8}キミも	{ruby (charSpan 1): あめ}雨が{ruby (charSpan 1): す}好きなのかい？　{pause 8}{catchphrase}？

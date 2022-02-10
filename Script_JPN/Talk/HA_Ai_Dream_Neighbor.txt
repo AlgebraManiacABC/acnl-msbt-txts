@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	よぉ！{pause 8}
-"004"	{emote: Alarmed}
-"005"	{emote: Greetings}
+"001"	{emote: Greetings}オーッス！{pause 8}　{Player nickname (green)}！{pause 20}	こんなところまで　ジョギングとは	{ruby (charSpan 2): かんしん}感心だな、{pause 8}{catchphrase}
+"002"	{emote: Alarmed}おー！{pause 8}　{Player nickname (green)}じゃん！{pause 20}	{emote: Curious}ここってどこか　オマエ{ruby (charSpan 1): し}知ってる？{Wait for input}{emote: Laughter}オイラも　よくわかんないんだけど、{pause 20}	いごごちは　けっこう	いいぞ、{pause 8}{catchphrase}！{pause 20}{emote: Happiness}
+"003"	よぉ！{pause 8}　{Player nickname (green)}！{Wait for input}{emote: Curious}{ruby (charSpan 1): わる}悪いけど　オイラのこと	つねってくれないか？　{pause 8}{catchphrase}？{pause 40}	{emote: Anger}これはユメなのか　たしかめたいんだ{Wait for input}{emote: Reset}って、{pause 20}{emote: Disbelief}その{ruby (charSpan 1): め}目！{pause 40}	{emote: Distress}オマエ{pause 20}　{ruby (charSpan 2): ほんき}本気で　つねる{ruby (charSpan 1): き}気だなー？！
+"004"	{emote: Alarmed}あれ？{pause 8}　{Player nickname (green)}じゃん！{pause 40}	{emote: Bashful}こんなところで　{ruby (charSpan 1): あ}会うなんて{pause 20}	まさか　オイラの{ruby (charSpan 1): お}追っかけか？　{pause 8}{catchphrase}？
+"005"	{emote: Greetings}よぉ！{pause 8}　{Player nickname (green)}！{pause 40}	どうやら　ここは	{Town name (pink)}{ruby (charSpan 1): むら}村っていうらしいぞ、{pause 8}{catchphrase}

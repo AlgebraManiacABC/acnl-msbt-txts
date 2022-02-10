@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Worry}
-"003"	・{pause 8}
-"004"	{emote: Distress}
+"001"	{emote: Distress}コラコラ！{pause 20}	{ruby (charSpan 1): はな}話しかけんじゃねぇよ！{Wait for input}{emote: Anger}オレぁ{ruby (charSpan 1): いま}今、{pause 20}	{ruby (charSpan 2): しんけん}真剣{ruby (charSpan 2): しょうぶ}勝負の　{pause 8}{ruby (charSpan 1): ま}真っ{ruby (charSpan 2): さいちゅう}最中なんだ！
+"002"	{emote: Worry}しーっ！{pause 20}	オレ{ruby (charSpan 1): さま}様は　かくれてるんだよ！{Wait for input}	{emote: Aggravation}あっち{ruby (charSpan 1): い}行ってろぃ！　{pause 20}{catchphrase}！
+"003"	・{pause 8}・{pause 8}・{pause 8}{emote: Anger}オメェ、{pause 20}	オレの{ruby (charSpan 3): いばしょ}居場所　バラしたら{pause 8}	タダじゃ　おかねぇからな！
+"004"	{emote: Distress}{0007-000c-0000}なんてことしやがるんだっ！{pause 15}	ヤベぇじゃねぇか！！

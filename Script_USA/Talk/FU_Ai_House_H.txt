@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Happiness}
-"003"	{emote: Alarmed}
+"001"	{emote: Surprise}{capitalized}{Greeting begin}Oh, look!{pause 8} It's {Player nickname (green)}{Greeting end}!{Wait for input}	{emote: Happiness}{0011-0001-0002-0000} came to visit me too.{pause 20} 	{emote: Glee}It's a party now,{pause 8} {catchphrase}!
+"002"	{emote: Happiness}{capitalized}{Player nickname (green)}, {pause 10}welcome!{Wait for input}{emote: Soft Smile}{0011-0001-0002-0000} decided to drop by too.{pause 20}	{emote: Sunny}It's so nice that you're both here,{pause 8}	{catchphrase}.
+"003"	{emote: Alarmed}Oh,{pause 8} hello!{Wait for input} {emote: Soft Smile}Did you and {0011-0001-0002-0000}	plan to be here at the same time?{pause 15}	{emote: Love}That's really very sweet of you!
 == 1 ==
-"001"	{emote: Surprise}
-"002"	{emote: Happiness}
-"003"	{emote: Alarmed}
+"001"	{emote: Surprise}¡{capitalized}{Greeting begin}Anda, {pause 15}{Player nickname (green)}{Greeting end}!{Wait for input}	{emote: Happiness}¡Qué casualidad! {capitalized}{0011-0001-0002-0000}	también está aquí.	{emote: Glee}¡Me habéis alegrado el día,	{pause 15}{catchphrase}!
+"002"	{emote: Happiness}¡Bienvenid{o/a} a mi casa, {Player nickname (green)}!{Wait for input}{emote: Soft Smile}Parece que os hayáis puesto de	acuerdo para venir. {pause 20}{emote: Sunny}¡Me alegro,{pause 15}	{catchphrase}!
+"003"	{emote: Alarmed}¡Holita!{Wait for input}	{emote: Soft Smile}Qué coincidencia, {0011-0001-0002-0000}	también ha venido de visita.	{emote: Love}¡Me encanta hacer de anfitriona,	{pause 15}{catchphrase}! Os voy a sacar unas	galletas de rechupete.
 == 2 ==
-"001"	{emote: Surprise}
-"002"	{emote: Happiness}
-"003"	{emote: Alarmed}
+"001"	{emote: Surprise}{capitalized}{Greeting begin}Oh, cool, {pause 15}{Player nickname (green)}{Greeting end}!{Wait for input}	{emote: Happiness}{pause 10}{0011-0001-0002-0000} vient d'arriver aussi!{pause 15}	{emote: Glee}C'est la fête,{pause 15} {catchphrase}!
+"002"	{emote: Happiness}{capitalized}{Player nickname (green)}, {pause 10}bienvenue!{Wait for input}{emote: Soft Smile}Regarde! {pause 10}{0011-0001-0002-0000} est là aussi!	{pause 20}{emote: Sunny}C'est super de venir me voir au	même moment,{pause 15} {catchphrase}!
+"003"	{emote: Alarmed}Oh, salut!{Wait for input} {emote: Soft Smile}{capitalized}{0011-0001-0002-0000} est là aussi,	{pause 15}{catchphrase}!{emote: Love} J'adooore recevoir	plein d'invités!{pause 15} Encore, encore!

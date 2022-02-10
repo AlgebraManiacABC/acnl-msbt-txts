@@ -1,22 +1,22 @@
 == 0 ==
-"001"	この{ruby (charSpan 1): まえ}前　{0005-0002-0000}
-"002"	{emote: Happiness}
-"003"	この{ruby (charSpan 1): まえ}前　{ruby (charSpan 2): さんか}参加した	{0005-0011-0002-00-00}
-"004"	{emote: Sadness}
-"005"	{000a-0000-0006-04-06-00-07-00-ffffffcd}
-"006"	{0009-0006-0010-07-00-07-00-07-00-07-00-07-00-07-00-07-00-08-00}
-"007"	{emote: Alarmed}
-"008"	{emote: Inspired}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{0009-0006-0010-0c-00-0c-00-0c-00-0c-00-0c-00-0c-00-0c-00-0d-00}
-"012"	{0007-000d-0000}
-"013"	{0007-000d-0000}
-"014"	{emote: Worry}
-"015"	{emote: Glee}
-"016"	{emote: Sunny}
-"017"	{0009-0006-0010-12-00-12-00-12-00-12-00-12-00-12-00-12-00-13-00}
-"018"	{Blue}{0007-000d-0000}
-"019"	{Blue}{0007-000d-0000}
-"020"	{emote: Alarmed}
-"021"	{emote: Sigh}
+"001"	この{ruby (charSpan 1): まえ}前　{0005-0002-0000}と	{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物に{ruby (charSpan 1): い}行ったとき、{pause 20}	ノリで{ruby (charSpan 1): か}買った　{0011-0003-0002-0001}{Wait for input}{emote: Worry}{ruby (charSpan 2): れいせい}冷静になったら{pause 20}	ちょっとオイラは　{ruby (charSpan 1): つか}使わないなーって{Wait for input}{0007-000d-0000}{emote: Distress}{Player nickname (green)}　たのむー！{pause 20}	コレ{pause 20}　{Blue}{Number (0x9)}{Color Reset}{Blue}ベル{Color Reset}で	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取ってくれよー！{confirmation-02}{Player can respond (0005):0005-0015-0004-0028}	{ruby (charSpan 1): か}買う{ruby (charSpan 1): か}買うー！	いらないよ
+"002"	{emote: Happiness}{ruby (charSpan 1): す}好きなアーティストが	ライブで{ruby (charSpan 1): つか}使った　タオルとか、{pause 20}	ファンは　ほしがるだろー？{Wait for input}{emote: Love}アレって　なんか	あこがれるよなー！{Wait for input}{emote: Happiness}なぁ！{pause 20}　オイラのアセが　しみこんだ	{0011-0003-0002-0001}、	{pause 20}{ruby (charSpan 1): か}買ってくれよー！{000a-0000-0006-0b02-1100-cd00}
+"003"	この{ruby (charSpan 1): まえ}前　{ruby (charSpan 2): さんか}参加した	{0005-0011-0002-0000}{ruby (charSpan 2): たいかい}大会の{ruby (charSpan 2): けいひん}景品で、{pause 20}	{0011-0003-0002-0001}　もらったんだー{Wait for input}{emote: Happiness}でも　オイラには　{ruby (charSpan 2): ひつよう}必要ないし、{pause 20}	ここは　わり{ruby (charSpan 1): き}切って	オマエに　ゆずるぞー！{Wait for input}{0007-000d-0000}そうだなー{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Blue}{Number (0x9)}ベル{Color Reset}なら　{ruby (charSpan 1): か}買うかー？{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	{ruby (charSpan 1): か}買う	{ruby (charSpan 1): か}買わない
+"004"	{emote: Sadness}まぁ　しょうがないか{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): よ}良く{ruby (charSpan 1): かんが}考えないで{ruby (charSpan 1): か}買った	オイラが　{ruby (charSpan 1): わる}悪いんだ、{pause 8}{catchphrase}
+"005"	{000a-0000-0006-0604-0700-cd00}
+"006"	{0009-0006-0010-0007-0007-0007-0007-0007-0007-0007-0008}
+"007"	{emote: Alarmed}おー！{pause 20}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取ってくれるかー！{pause 40}	{emote: Happiness}ラッキー！
+"008"	{emote: Inspired}{0007-000b-0000}そういえば、{pause 20}	{ruby (charSpan 2): きのう}昨日　オイラのおうえんしてる	{ruby (charSpan 2): やきゅう}野球チームが　{ruby (charSpan 1): か}勝ったんだ！{Wait for input}{emote: Happiness}ってことで、{pause 20}	{ruby (charSpan 2): きょう}今日は　オイラのおごりだー	タダで　ゆずってやるよー！
+"009"	{emote: Happiness}もらい{ruby (charSpan 1): て}手が{ruby (charSpan 1): み}見つかって	よかったよ、{pause 8}{catchphrase}
+"010"	{emote: Happiness}ありがとな{pause 8}	{Player nickname (green)}、{pause 8}{catchphrase}
+"011"	{0009-0006-0010-000c-000c-000c-000c-000c-000c-000c-000d}
+"012"	{0007-000d-0000}{emote: Thought}そうだなー{pause 20}	オマエなら　サービスで、	{Blue}{Number (0x9)}ベル{Color Reset}でいいぞー？{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	{ruby (charSpan 1): か}買います	いらない
+"013"	{0007-000d-0000}{emote: Thought}そうだなー{pause 20}	オマエなら　サービスで、{pause 8}	{Blue}{Number (0x9)}ベル{Color Reset}でいいぞー？	{emote: Anger}{ruby (charSpan 1): い}言っとくけど、	コレって　かなり　お{ruby (charSpan 1): とく}得だぞー？{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	{ruby (charSpan 1): か}買います	いらない
+"014"	{emote: Worry}そうかー{pause 20}	{ruby (charSpan 2): こんかい}今回はやめとくかー{Wait for input}{emote: Glare}まぁ、{pause 8}オマエは　もっと	ムダづかいを	おぼえた{ruby (charSpan 1): ほう}方が　いいぞ、{pause 8}{catchphrase}
+"015"	{emote: Glee}{ruby (charSpan 1): う}売れた　{ruby (charSpan 1): う}売れたー！
+"016"	{emote: Sunny}マジ　サンキュー！{pause 20}	{Player nickname (green)}！
+"017"	{0009-0006-0010-0012-0012-0012-0012-0012-0012-0012-0013}
+"018"	{Blue}{0007-000d-0000}{emote: Happiness}{Number (0x9)}ベル{Color Reset}で　どうだ？{pause 20}	ファンなら　よろこんで{ruby (charSpan 1): と}飛びつくぞー{confirmation-02}{Player can respond (0005):0014-0015-0015-0000}	{ruby (charSpan 1): か}買う{ruby (charSpan 1): か}買うー	{ruby (charSpan 1): たか}高いよ！
+"019"	{Blue}{0007-000d-0000}{emote: Happiness}{Number (0x9)}ベル{Color Reset}で　どうだ？{pause 20}	コアなファンなら　{ruby (charSpan 1): と}飛びつくぞー{confirmation-02}{Player can respond (0005):0014-0015-0015-0000}	{ruby (charSpan 1): か}買う{ruby (charSpan 1): か}買うー	{ruby (charSpan 1): たか}高いよ！
+"020"	{emote: Alarmed}うぉー！{pause 40}	オマエって　{ruby (charSpan 2): ねっしん}熱心な　ファンだなー！
+"021"	{emote: Sigh}ちぇーー！{pause 20}	やっぱり　ダメかー、{pause 8}{catchphrase}

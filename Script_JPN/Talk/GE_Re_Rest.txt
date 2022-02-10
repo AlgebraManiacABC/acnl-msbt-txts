@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	もしかして{pause 10}
-"003"	{emote: Surprise}
+"001"	{emote: Curious}ん{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 20}	つかれた{ruby (charSpan 1): かお}顔してるけど{pause 10}　だいじょうぶ？{Wait for input}{emote: Reset}そういえば　{pause 10}ずっと{ruby (charSpan 1): あそ}遊んでるよね{Wait for input}	{emote: Happiness}あんまり　{ruby (charSpan 2): むり}無理しないで{pause 10}	ちょっと　{ruby (charSpan 1): やす}休んだりしなよ
+"002"	もしかして{pause 10}	いっぱい{ruby (charSpan 1): あそ}遊んで{pause 10}　つかれてきた？{Wait for input}	{emote: Happiness}たまには　{pause 10}きゅうけいも{ruby (charSpan 2): だいじ}大事だよね～
+"003"	{emote: Surprise}{Player nickname (green)}{0005-000d-0000}{pause 10}	ちょっと　おつかれ{ruby (charSpan 2): ぎみ}気味？！{Wait for input}{emote: Distress}せっかくの　キラキラオーラも{pause 10}	それじゃ　{pause 10}{ruby (charSpan 2): だいな}台無しだよ～{Wait for input}{emote: Happiness}たくさん　{ruby (charSpan 1): あそ}遊ぶのもいいけど{pause 10}	あんま　こんつめすぎずに{pause 10}	たまには　きゅうけいしなきゃね！{emote: Sunny}

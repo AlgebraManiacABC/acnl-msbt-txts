@@ -1,17 +1,17 @@
 == 0 ==
-"001"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"002"	{emote: Distress}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{0009-0000-0004-0f-00-10-00}
-"006"	{emote: Worry}
-"007"	{0011-0001-0002-00-00}
-"008"	{0011-0001-0002-00-00}
-"009"	
-"010"	
-"011"	{emote: Curious}
-"012"	{emote: Sigh}
-"013"	{emote: Happiness}
-"014"	
-"015"	{emote: Happiness}
-"016"	{emote: Happiness}
+"001"	{0009-0001-0006-000b-000c-000d}
+"002"	{emote: Distress}オイ！{pause 8}　{ruby (charSpan 2): たいへん}大変だ！{pause 40}	{0011-0001-0002-0000}が　カゼひいたってさ！{Wait for input}{emote: Resigned}さては　アイツ、{pause 20}	{ruby (charSpan 1): て}手あらい　うがい	さぼったなー？{Wait for input}{emote: Agreement}よーっし！{pause 40}	{emote: Happiness}あとで　おみまいにでも	{ruby (charSpan 1): い}行ってこようかな、{pause 8}{catchphrase}
+"003"	{emote: Happiness}{ruby (charSpan 1): あたら}新しい{ruby (charSpan 1): いえ}家が　{ruby (charSpan 1): た}建つらしいぞー{pause 40}	{emote: Thought}{ruby (charSpan 2): こんど}今度はどんなヤツが	{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): く}来るんだろーなー！{Wait for input}{emote: Pride}とにかく　{ruby (charSpan 1): あ}会ったらまずは{pause 20}	うでずもうで　{ruby (charSpan 2): しょうぶ}勝負かな、{pause 8}{catchphrase}
+"004"	{emote: Happiness}さっき　{ruby (charSpan 1): むら}村のヤツが	{ruby (charSpan 1): み}見たらしいんだけど、{pause 20}	{ruby (charSpan 1): えき}駅に　{ruby (charSpan 1): し}知らないヤツがいたってさ！{Wait for input}{emote: Glare}オイラのすいりだと、{pause 20}	そいつ　{ruby (charSpan 1): ひ}引っこして	{ruby (charSpan 1): き}来たんじゃないかなー？{Wait for input}{emote: Alarmed}もしかして{pause 20}　{ruby (charSpan 1): し}知らないうちに	{ruby (charSpan 1): あたら}新しい{ruby (charSpan 1): いえ}家が　{ruby (charSpan 1): た}建ってるかも	{ruby (charSpan 1): し}知れないぞ！{Wait for input}{emote: Distress}うぉーー！{pause 20}	キンチョー　するなーーー！
+"005"	{0009-0000-0004-000f-0010}
+"006"	{emote: Worry}{ruby (charSpan 1): じつ}実は{ruby (charSpan 2): さいきん}最近{pause 20}　{0011-0001-0002-0000}が	{ruby (charSpan 1): むら}村から　{ruby (charSpan 1): ひ}引っこすか	なやんでるらしいぞ？{Wait for input}{emote: Thought}あー、でも{pause 20}	オイラの　{ruby (charSpan 1): き}聞きまちがいかなー{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sheepishness}もしかしたら{pause 20}	「{ruby (charSpan 1): ひ}引っこしそば{ruby (charSpan 1): た}食べたい」って	さわいでた　だけかも{ruby (charSpan 1): し}知れないな、{pause 8}{catchphrase}
+"007"	{0011-0001-0002-0000}が	{ruby (charSpan 1): ひ}引っこしの　じゅんびを	してるらしいぞ？{Wait for input}でも　じゅんびだけして、{pause 20}	{emote: Disagreement}{ruby (charSpan 1): い}行く{ruby (charSpan 2): ばしょ}場所は　{ruby (charSpan 1): き}決まってないらしいんだ{Wait for input}{emote: Glare}アイツ{pause 8}・{pause 8}・{pause 8}・{pause 20}	さすらいの{ruby (charSpan 1): たび}旅に　{ruby (charSpan 1): で}出るつもりだな{pause 8}・{pause 8}・{pause 8}・
+"008"	{0011-0001-0002-0000}が	{ruby (charSpan 1): ひ}引っこしの　じゅんびをしてるらしいぞ？{pause 40}	{ruby (charSpan 1): い}行く{ruby (charSpan 2): ばしょ}場所も　もう{ruby (charSpan 1): き}決まってるって！	{emote: Worry}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	さみしくなるなー{Wait for input}{emote: Disagreement}でも、{pause 20}{ruby (charSpan 2): えがお}笑顔で{ruby (charSpan 1): おく}送り{ruby (charSpan 1): だ}出すのも	{ruby (charSpan 2): ともだち}友達の{ruby (charSpan 2): やくめ}役目だよな{pause 40}	{emote: Sunny}{ruby (charSpan 1): いま}今から　{ruby (charSpan 2): えがお}笑顔の{ruby (charSpan 2): れんしゅう}練習だ、{pause 8}{catchphrase}
+"009"
+"010"
+"011"	{emote: Curious}オイラって　やっぱり	{ruby (charSpan 1): むら}村で　ウワサになってたりするか？{Wait for input}{emote: Bashful}{Town name (pink)}{ruby (charSpan 1): むら}村で{ruby (charSpan 2): さいきょう}最強の{ruby (charSpan 1): おとこ}男{pause 20}　とか、{pause 20}	{ruby (charSpan 1): はし}走ってるすがたが　カッコイイ　{pause 20}とかさ！{Wait for input}{emote: Shocked}{0007-000b-0000}えぇっ？{pause 40}	ウワサになってない？{Wait for input}	{emote: Sadness}ちぇーーっ！
+"012"	{emote: Sigh}はぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ウワサ{ruby (charSpan 1): ばなし}話って　こわいよなー{Wait for input}{emote: Agreement}この{ruby (charSpan 1): あいだ}間なんて、{pause 20}	{ruby (charSpan 1): はなし}話に　おひれが	ついて　ついて{pause 8}　つきまくって、{Wait for input}{emote: Resigned}オイラが　{ruby (charSpan 1): じつ}実は{pause 8}	ちがう{ruby (charSpan 1): ほし}星の{ruby (charSpan 2): おうじ}王子ってことに	されちゃって　{ruby (charSpan 2): たいへん}大変だった{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Laughter}ハハッ！{pause 8}	そんな　{ruby (charSpan 2): しょうじょ}少女シュミなウワサ、{pause 20}	オイラは　きょうみないぞ、{pause 8}{catchphrase}{pause 40}{emote: Soft Smile}
+"013"	{emote: Happiness}{Player nickname (green)}！{pause 20}	オマエに　たのみがあるんだ！{Wait for input}{emote: Thought}{ruby (charSpan 1): じつ}実は　オイラ{pause 20}	この{ruby (charSpan 1): まえ}前　100メートル{ruby (charSpan 1): そう}走の	{ruby (charSpan 4): せかいきろく}世界記録を　こうしんしたんだけど{Wait for input}{emote: Distress}{ruby (charSpan 2): ざんねん}残念なことに	それを　{ruby (charSpan 1): み}見てたヤツが	だれもいなかったんだー！{Wait for input}{emote: Agreement}ってことで、{pause 20}このウワサを	じゃんじゃん{ruby (charSpan 1): ひろ}広めてくれー！{pause 40}	{emote: Sunny}よろしくな、{pause 8}{catchphrase}
+"014"
+"015"	{emote: Happiness}なぁ、{Player nickname (green)}！{pause 8}	オマエは　もう	この{ruby (charSpan 1): むら}村に{ruby (charSpan 1): き}来た　{ruby (charSpan 2): しんい}新入りと{ruby (charSpan 1): はな}話したか？{Wait for input}{emote: Thought}オニのように　{ruby (charSpan 2): こわもて}強面で{pause 20}	{ruby (charSpan 2): てんし}天使のように　やさしくて{pause 20}	コメディアンのように　{ruby (charSpan 1): き}気さくなヤツ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Disagreement}ってのは　{ruby (charSpan 1): たん}単なるウワサで、{pause 40}	{emote: Sunny}じっさいに　{ruby (charSpan 1): はな}話したら	いいヤツだった！{Wait for input}{emote: Agreement}{0011-0001-0002-0000}っていうんだ！{pause 40}	{emote: Happiness}オマエも　あいさつ	してくるといいぞ、{pause 8}{catchphrase}
+"016"	{emote: Happiness}オマエ{ruby (charSpan 1): し}知ってたか？{pause 40}	{0011-0001-0002-0000}ってヤツが{pause 8}	{ruby (charSpan 2): さいきん}最近　{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): き}来たんだよ！{Wait for input}{emote: Glare}さーって、{pause 20}どんなヤツなのか{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Glee}これから　たくさん{ruby (charSpan 1): はな}話すんだ！{pause 40}	{ruby (charSpan 1): たの}楽しみだなー！　{pause 8}{catchphrase}！

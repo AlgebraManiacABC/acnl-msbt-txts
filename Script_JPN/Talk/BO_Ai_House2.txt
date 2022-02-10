@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	もしかして、{pause 8}!
-"003"	{emote: Greetings}
-"004"	{emote: Happiness}
-"005"	{emote: Greetings}
+"001"	{emote: Greetings}やぁ～{pause 20}	{Player nickname (green)}{0005-000d-0000}、{pause 8}{catchphrase}
+"002"	もしかして、{pause 8}	ボクのおうちが	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入っちゃったぁ？　{pause 8}{catchphrase}？
+"003"	{emote: Greetings}{Greeting begin}いらっしゃ～い！{Greeting end}{pause 20}	{emote: Happiness}ボクん{ruby (charSpan 1): ち}家って　いごこち	いいでしょぉ？　{pause 8}{catchphrase}？
+"004"	{emote: Happiness}いっしょに　おやつでも	{ruby (charSpan 1): た}食べよっか～！{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Worry}て、{ruby (charSpan 1): おも}思ったけど{pause 20}	ちょうど　{0005-0010-0002-0000}	{ruby (charSpan 1): き}切らしてたんだぁ、{pause 8}{catchphrase}
+"005"	{emote: Greetings}やっほぉ～{pause 20}	{Player nickname (green)}{0005-000d-0000}、{pause 8}{catchphrase}

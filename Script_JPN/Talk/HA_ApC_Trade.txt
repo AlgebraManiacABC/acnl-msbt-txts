@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Worry}
-"003"	{emote: Greetings}
-"004"	{emote: Mistaken}
-"005"	{emote: Sunny}
-"006"	{emote: Happiness}
-"007"	{emote: Sadness}
-"008"	{emote: Happiness}
-"009"	{emote: Glee}
-"010"	{emote: Mistaken}
-"011"	{emote: Sunny}
-"012"	{emote: Happiness}
+"001"	{emote: Alarmed}うわっ！{pause 40}	オマエ　なんでその	{0011-0003-0002-0000}{ruby (charSpan 1): も}持ってんだー？！{Wait for input}{emote: Distress}オイラが　ずっとさがし{ruby (charSpan 1): もと}求めてた、{pause 20}	ちょー　レアアイテムだぞー！{Wait for input}{emote: Curious}え？{pause 20}　{ruby (charSpan 1): おお}大げさだったかー？{pause 40}	{emote: Reset}まぁ　ほしいんだから	いいじゃんか！{Wait for input}{emote: Happiness}なぁ　{Player nickname (green)}、{pause 20}たのむよー！{pause 20}	オイラの　{0011-0003-0002-0001}と	こうかんしてくれー！{Player can respond (0005):0005-0015-0004-0028}	オッケー！	それはムリ
+"002"	{emote: Worry}オマエの{ruby (charSpan 1): も}持ってる	{0011-0003-0002-0000}、{pause 20}	オイラずーっと　ほしかったんだよ{Wait for input}{emote: Distress}たのむ！{pause 20}	オイラの　{0011-0003-0002-0001}と	こうかんしてくれないか、{pause 8}{catchphrase}{Player can respond (0005):0008-0015-0007-0028}	{ruby (charSpan 2): こうかん}交換してあげる	ごめんね
+"003"	{emote: Greetings}よーっし！{pause 20}　{Player nickname (green)}！{pause 40}	{ruby (charSpan 2): やきゅう}野球かんとくごっこ　するぞー！{Wait for input}{emote: Thought}オイラのチームの	{0011-0003-0002-0001}と、{Wait for input}オマエのチームの	{0011-0003-0002-0000}、{pause 20}	{emote: Happiness}トレードだー！{pause 8}　{catchphrase}！{Player can respond (0005):000b-0015-000a-0028}	トレード{ruby (charSpan 2): せいりつ}成立！	その{ruby (charSpan 2): じょうけん}条件じゃだめ
+"004"	{emote: Mistaken}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ダメかー	ようやく　お{ruby (charSpan 1): め}目にかかれたのになー{Wait for input}{emote: Disagreement}こうなったら　{ruby (charSpan 1): し}死にものぐるいで	さがしてやるぞー！{Wait for input}{emote: Laughter}{ruby (charSpan 2): ひっし}必死に　ほしいものを　さがすのって、{pause 20}	それはそれで　{ruby (charSpan 1): たの}楽しいもんなー！{pause 20}{emote: Happiness}
+"005"	{emote: Sunny}ヨッシャー！{pause 20}	やっぱり　{Player nickname (green)}は	{ruby (charSpan 2): きたい}期待をうらぎらないなー
+"006"	{emote: Happiness}マジ　ありがとなー！
+"007"	{emote: Sadness}そうだよなー{pause 20}	オイラのお{ruby (charSpan 1): ふる}古と	こうかんだもんな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}また　{ruby (charSpan 1): き}気が{ruby (charSpan 1): む}向いたら	ゆずってくれよな、{pause 8}{catchphrase}
+"008"	{emote: Happiness}ヨッシャー！{pause 20}	それじゃー　こうかんだ、{pause 8}{catchphrase}
+"009"	{emote: Glee}サンキュー！　{Player nickname (green)}！{pause 20}	また　こうかんしよーな、{pause 8}{catchphrase}！
+"010"	{emote: Mistaken}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ダメかー{Wait for input}{emote: Worry}まぁ　{ruby (charSpan 2): しかた}仕方ない！{pause 40}	{emote: Laughter}{ruby (charSpan 1): よ}良くわかんない　{ruby (charSpan 1): あそ}遊びふっかけて、	ごめんな、{pause 8}{catchphrase}{pause 20}{emote: Happiness}
+"011"	{emote: Sunny}ヨッシャー！{pause 20}	これで　オイラのチームも	{ruby (charSpan 2): きょうか}強化されるぞー
+"012"	{emote: Happiness}ノってくれて	サンキューな{pause 20}　{Player nickname (green)}！

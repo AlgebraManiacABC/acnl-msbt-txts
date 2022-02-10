@@ -1,39 +1,39 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Soft Smile}
-"005"	{emote: Curious}
-"006"	{pause 8}
-"007"	{emote: Bashful}
-"008"	{emote: Sheepishness}
-"009"	{emote: Worry}
-"010"	{emote: Anger}
-"011"	{emote: Soft Smile}
-"012"	{emote: Sunny}
+"001"	{emote: Alarmed}Oh?{pause 16} Are you leaving already?{Wait for input}{emote: Curious}What did you think of my house?{Wait for input}	{emote: Shyness}I'd like to hear your honest opinions	about it{pause 4}.{pause 4}.{pause 4}.{pause 4}{000f-0001-0006-0000-0000-0000}	It's great!	It's all right.	Could be better.
+"002"	{emote: Alarmed}Oh, {pause 8}you're going home already?{pause 32}	{emote: Worry}I wish you could stay for just a little	longer{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Reset}Oh well.{pause 16} Could you at least answer	something for me? {emote: Curious}How's my room?{pause 32}	{emote: Sunny}Let me know what you think!{000f-0001-0006-0000-0000-0000}	It's great!	It's all right.	Could be better.
+"003"	{emote: Alarmed}Oh, is it time for you to go home?{pause 32}	{emote: Worry}I'd like you to stay for a bit longer,{pause 16}	but you might have other plans.	{emote: Reset}Um, before you leave,{pause 16} could you let	me know {emote: Curious}what you thought about	my room? Do you think it's good?{000f-0001-0006-0000-0000-0000}	It's great!	It's all right.	Could be better.
+"004"	{emote: Soft Smile}Heh heh heh.{pause 16} You thought so too?{pause 32}	{emote: Anger}Perhaps we have a lot of stylistic	similarities{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Curious}Would you like to buy it from me?{Wait for input}	{emote: Sunny}Hah ha! {pause 8}I'm just joking!{pause 8} {emote: Soft Smile}I'd never	sell it in a million years...{emote: Worry}probably.
+"005"	{emote: Curious}Do you really think so?{pause 32} {emote: Worry}You can feel	the {Villager's name (orange)} style and yet aren't	stunned into silence by its beauty{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Sheepishness}{capitalized}{Player nickname (green)}, {pause 16}seems you're a pretty	outspoken critic, aren't you?
+"006"	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Curious}You really think so?{Wait for input} {emote: Worry}I don't think it	looks THAT bad, but{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Surprise}Ah, that's it!{pause 32} {emote: Glare}You're jealous, aren't	you?{pause 16} {emote: Pride}Well, we can't ALL have rooms	that look this fantastic{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"007"	{emote: Bashful}{pause 16}Huh? {pause 16}Are you sure?{pause 16} Maybe you're	overvaluing my room just a tad!{Wait for input}{emote: Soft Smile}At the very least,{pause 16} hearing you say	something that nice makes me super	happy,{pause 8} {catchphrase}.
+"008"	{emote: Sheepishness}Yeah,{pause 16} I know it's not the best this	very moment, {pause 8}{catchphrase}.{Wait for input}{emote: Anger}I should probably try a little harder!{pause 32}	{emote: Resigned}But who has the time?
+"009"	{emote: Worry}Y-you didn't even hesitate when you	said that!{pause 32} {emote: Sheepishness}I mean,{pause 16} I'm not that happy	about my room either, but{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Thought}{pause 16}Well, I don't think it's THAT bad{pause 8}.{pause 8}.{pause 8}.
+"010"	{emote: Anger}{pause 8}.{pause 8}.{pause 8}.{pause 8}{capitalized}{Player nickname (green)},{pause 32} you're joking!{Wait for input}I'd know{pause 8}.{pause 8}.{pause 8}.{pause 8} I personally think{pause 32} {emote: Cold Chill}my	room has become a travesty!{Wait for input}{emote: Soft Smile}All the same, I do appreciate the	kind words!{pause 16} {emote: Agreement}It makes me very happy	indeed, {pause 8}{catchphrase}!
+"011"	{emote: Soft Smile}You're very sweet{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input} {emote: Outrage}But sometimes	we all know you can be a big, silly	liar-face!{Wait for input}{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Soft Smile}Nah, I'm just kidding.{pause 32} {emote: Happiness}I just really	wanted to say that line once in my	life.{pause 8} {emote: Agreement}Totally worth it.
+"012"	{emote: Sunny}Hah ha!{pause 8} You're pretty honest, huh?!{Wait for input}{emote: Sheepishness}Yeah,{pause 16} I knew you'd say something	like that.{pause 16} So to make up for it{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}	{emote: Flourish}I shall perform{pause 32}{emote: Showmanship} my people's dance!
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Soft Smile}
-"005"	{emote: Curious}
-"006"	{emote: Curious}
-"007"	{emote: Bashful}
-"008"	{emote: Sheepishness}
-"009"	{emote: Worry}
-"010"	{emote: Anger}
-"011"	{emote: Soft Smile}
-"012"	{emote: Sunny}
+"001"	{emote: Alarmed}¡Huy!{pause 16} ¿Ya te marchas?{Wait for input}Dime, {emote: Curious}¿qué te ha parecido mi casa?{Wait for input}	{emote: Shyness}Sé sincer{o/a}, que no me gusta la gente	que no dice la verdad{pause 4}.{pause 4}.{pause 4}.{pause 4}{000f-0001-0006-0000-0000-0000}	¡Genial!	Normal	Mejorable
+"002"	{emote: Alarmed}Vaya, {pause 8}¿no me digas que ya te vas?{pause 32}	{emote: Worry}Ojalá te quedaras aquí un poco más.{pause 8}{Wait for input}En fin, {pause 16}{emote: Curious}¿te puedo pedir un favor	de despedida?{emote: Reset} Sinceramente, {emote: Curious}	¿qué te ha parecido mi casa?{pause 32}{000f-0001-0006-0000-0000-0000}	¡Genial!	Normal	Mejorable
+"003"	{emote: Alarmed}Ah, ¿ya es hora de que vuelvas a	casa?{pause 32} {emote: Worry}Es una pena que no te quedes	más rato,{pause 16} pero lo entiendo.	{emote: Reset}Una cosa antes de que te vayas:{pause 16} {emote: Curious}	¿qué te ha parecido mi casa?{000f-0001-0006-0000-0000-0000}	¡Genial!	Normal	Mejorable
+"004"	{emote: Soft Smile}Je, je.{pause 16} Así que te gusta, ¿eh?{pause 32}	Se ve que tenemos muchas cosas	en común{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input} {emote: Curious}¿Quieres vivir conmigo?	{emote: Sunny}¡Je, je, je! {pause 8}¡Es una broma!{pause 8} Ambos	necesitamos nuestro espacio.
+"005"	{emote: Curious}¿De verdad?{pause 32} {emote: Worry}El sello de calidad de	{Villager's name (orange)} no ha conseguido	convencerte como debería{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Sheepishness}Mmm, {Player nickname (green)}, {pause 16}parece que eres	u{n/na} crític{o/a} bastante exigente.
+"006"	{emote: Curious}¿Y eso?{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input} {emote: Worry}Tampoco diría que está	tan, tan mal{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Surprise}¡Ahora lo entiendo!{pause 32} {emote: Glare}Tienes envidia,	¿eh?{pause 16} {emote: Pride}Bueno, no todos podemos	presumir de casas tan fantásticas{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"007"	{emote: Bashful}{pause 16}¡Huy! {pause 16}¿En serio?{pause 16} Será que la miras	con buenos ojos.{Wait for input}{emote: Soft Smile}Me encanta escuchar ese tipo de	halagos. Sobre todo si van dirigidos	a mí o a mi casa,{pause 8} {catchphrase}.
+"008"	{emote: Sheepishness}Ya sé,{pause 16} le podría sacar más partido,	{pause 8}{catchphrase}.{Wait for input}{emote: Soft Smile}A ver si enfoco la decoración desde	otro punto de vista.{pause 32} {emote: Resigned}¿Por dónde	podría empezar?
+"009"	{emote: Worry}¡Y lo has dicho sin pestañear!{pause 32} {emote: Sheepishness}	A ver,{pause 16} sé que no es la octava	maravilla del mundo{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Thought}{pause 16}¡Pero tampoco está tan mal,	{pause 8}{catchphrase}!
+"010"	{emote: Anger}{capitalized}{Player nickname (green)}{pause 8}.{pause 8}.{pause 8}.{pause 8}{pause 32} ¡no me tomes el pelo!{Wait for input}No hace falta que digas las cosas {emote: Cold Chill}	solo por cumplir.{Wait for input}{emote: Soft Smile}En fin, {pause 16}gracias por animarme,	{pause 8}{catchphrase}. Por unos instantes,	me lo había creído y todo.
+"011"	{emote: Soft Smile}Eres muy atent{o/a}{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input} {emote: Outrage}¡pero mientes	más que hablas!{Wait for input}Hum{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Soft Smile} Bah, estoy de broma.{pause 32} {emote: Happiness}Quería	ensayar mi cara de enfado, solo eso.
+"012"	{emote: Sunny}¡Je, je!{pause 8} Está bien que seas así de	sincer{o/a}.{Wait for input}{emote: Sheepishness}También opino lo mismo.{Wait for input} A ver si no	lo vemos todo tan negro... {emote: Flourish}¡con un	buen{pause 32}{emote: Showmanship} bailoteo!
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Soft Smile}
-"005"	{emote: Curious}
-"006"	{pause 8}
-"007"	{emote: Bashful}
-"008"	{emote: Sheepishness}
-"009"	{emote: Alarmed}
-"010"	{emote: Bashful}
-"011"	{emote: Soft Smile}
-"012"	{emote: Sunny}
+"001"	{emote: Alarmed}Oh?{pause 16} Tu t'en vas déjà?{Wait for input}{emote: Curious}Alors, que penses-tu de ma villa?{Wait for input}	{emote: Agreement}J'aimerais connaître ton avis,{pause 8} et	sois franc{/he}!{000f-0001-0006-0000-0000-0000}	C'est le rêve!	C'est sympa.	J'ai vu mieux.
+"002"	{emote: Alarmed}Oh, {pause 8}tu me quittes déjà?{pause 32} {emote: Worry}T'es sûr{/e}	que tu veux pas profiter encore un	peu de tout ce confort?	{emote: Reset}Très bien.{pause 16} Mais dis, j'ai une	question : {emote: Curious}comment tu la trouves,	ma villa? {pause 8}Honnêtement?{000f-0001-0006-0000-0000-0000}	C'est le rêve!	C'est sympa.	J'ai vu mieux.
+"003"	{emote: Alarmed}Oh, tu dois rentrer?{pause 32} Bon, c'est toi	qui vois.{Wait for input}{emote: Reset}Mais euh, avant de partir, {pause 16}dis-moi	juste ce que tu penses de mon	palais.{pause 15} La classe royale, non?{000f-0001-0006-0000-0000-0000}	C'est le rêve!	C'est sympa.	J'ai vu mieux.
+"004"	{emote: Soft Smile}Hé hé,{pause 16} pourtant, non, tu ne rêves	pas!{pause 32} Je suis content de voir que ça	te plaît autant qu'à moi{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Sheepishness}Je cherchais un{/e} coloc, justement...{Wait for input}	{emote: Sunny}Ha ha! {pause 8}Je blague, t'inquiète!
+"005"	{emote: Curious}C'est tout?{pause 32} {emote: Worry}Tu penses peut-être	que ce n'est tout à fait à la	hauteur du personnage{pause 8}.{pause 8}.{pause 8}.	{emote: Sheepishness}Eh ben, {Player nickname (green)}, {pause 16}t'es un{/e} critique	redoutable!
+"006"	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Curious} T'es {sérieux/sérieuse}?{Wait for input} {emote: Anger}Je trouve ça	vachement sévère quand même{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Surprise}Ah, j'ai compris!{pause 32} {emote: Glare}T'es {jaloux/jalouse}, un	point c'est tout!{Wait for input}{emote: Sheepishness}C'est trop dur d'admettre que je vis	dans une baraque de rêve, hein{pause 8}.{pause 8}.{pause 8}.{pause 8}?
+"007"	{emote: Bashful}{pause 16}Hein? {pause 16}À ce point-là?{pause 16} En fait, moi	j'en suis plus très sûr.{Wait for input}{emote: Soft Smile}Mais le fait de t'entendre dire ça me	redonne confiance en moi,	{pause 8}{catchphrase}.
+"008"	{emote: Sheepishness}Ouais,{pause 16} d'accord, j'avoue que c'est	pas AUSSI classe que ça devrait	l'être, {pause 8}{catchphrase}.{Wait for input}{emote: Resigned}Mais j'ai pas trop eu le temps de	m'occuper de la déco dernièrement,{pause 8}	alors ça date un peu!
+"009"	{emote: Alarmed}Hein?! Et t'as dit ça sans la	moindre hésitation, en plus!{Wait for input}{emote: Anger}C'est méchant, {pause 8}ma villa est pas si	moche que ça, quand même!	{pause 8}{capitalized}{catchphrase}!
+"010"	{emote: Bashful}{pause 8}.{pause 8}.{pause 8}.{pause 8} Hé hé, {pause 32}tu me flattes, {Player nickname (green)}!{Wait for input}Pour te dire la vérité,{emote: Cold Chill} j'ai un peu	honte de l'état dans lequel se trouve	ma villa en ce moment!	{emote: Soft Smile}Enfin, c'est sympa d'avoir fait	semblant de rien remarquer,	{pause 8}{catchphrase}!
+"011"	{emote: Soft Smile}Bon, c'est déjà ça{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input} {emote: Outrage}Mais d'autres	sont moins tendres que toi avec ma	villa ces derniers temps!	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Resigned} Bah oui, je suis toujours en	vadrouille, je peux pas m'occuper	de tout!	{emote: Anger}Et hors de question de laisser un	quidam se charger de ma déco!
+"012"	{emote: Sunny}Ha ha!{pause 8} Ça a le mérite d'être	honnête!{Wait for input}{emote: Sheepishness}Ouais,{pause 16} en fait je m'y attendais, je	suis pas aveugle, non plus{pause 8}.{pause 8}.{pause 8}.{Wait for input}Allez, pour que tu partes pas sur	une mauvaise impression, je te	montre mon dernier pas de danse{pause 8}.{pause 8}.{pause 8}.	{emote: Showmanship}Hop{pause 8}.{pause 8}.{pause 8}.{pause 8}! {pause 30}{emote: Flourish}Et hop{pause 8}.{pause 8}.{pause 8}.{pause 8}! {pause 30}{emote: Soft Smile}Hé hé.

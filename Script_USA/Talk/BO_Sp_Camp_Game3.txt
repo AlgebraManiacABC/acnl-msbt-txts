@@ -1,138 +1,138 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Shocked}
-"004"	{emote: Inspired}
-"005"	{emote: Delight}
-"006"	{emote: Sadness}
-"007"	{emote: Happiness}
-"008"	{0009-0000-0004-09-00-00-00}	
-"009"	{emote: Anger}
-"010"	{emote: Anger}
-"011"	{0009-0001-0006-0f-00-0f-00-03-00}
-"012"	{0009-0001-0006-10-00-10-00-03-00}
-"013"	{0009-0001-0006-11-00-11-00-03-00}
-"014"	{emote: Mistaken}
-"015"	{emote: Mistaken}
-"016"	{emote: Mistaken}
-"017"	{emote: Mistaken}
-"018"	{0009-0001-0006-03-00-15-00-15-00}
-"019"	{0009-0001-0006-03-00-16-00-16-00}
-"020"	{0009-0001-0006-03-00-17-00-17-00}
-"021"	{emote: Disagreement}
-"022"	{emote: Disagreement}
-"023"	{emote: Disagreement}
-"024"	{emote: Disagreement}
-"025"	{emote: Mistaken}
-"026"	{emote: Mistaken}
-"027"	{emote: Mistaken}
-"028"	{emote: Mistaken}
-"029"	{emote: Mistaken}
-"030"	{emote: Mistaken}
-"031"	{emote: Mistaken}
-"032"	{emote: Mistaken}
-"033"	{emote: Mistaken}
-"034"	{emote: Mistaken}
-"035"	{emote: Mistaken}
-"036"	{emote: Mistaken}
-"037"	{emote: Mistaken}
-"038"	{emote: Mistaken}
-"039"	{emote: Mistaken}
-"040"	{emote: Mistaken}
-"041"	
-"042"	{emote: Delight}
-"043"	{emote: Sunny}
-"044"	{emote: Happiness}
-"045"	{emote: Happiness}
+"001"	{emote: Happiness}Hey hey! {pause 20}You wanna wager your	{0011-0003-0002-0000}{pause 20} on a round	of What Do I Want to Eat?	I give you some hints,{pause 20} and you try to	guess what fruit I want to eat	right now!{pause 20} {emote: Greetings}You get up to 3 hints!	{emote: Glee}The quicker you guess right,{pause 20}	the more money I'll pay you for the	{0011-0003-0002-0000}!	{0007-000d-0000}{emote: Glare}What do you think?{pause 20} How confident	are you in your detective skills?{Player can respond (0005):0007-0015-0002-0028}	Let's do this!	Some other time.
+"002"	{emote: Worry}Oh, OK{pause 8}.{pause 8}.{pause 8}.{pause 20} Maybe later then,{pause 8}	{catchphrase}.
+"003"	{emote: Shocked}{0007-000b-0000}Whoa!{pause 20} Nice guess!{pause 20} That's exactly	what I want to eat!{pause 40} Can't believe	you got it in 1 try!	{emote: Thought}Can you read my mind?{Wait for input} {emote: Thought}Well, what	about now?{pause 40} Hmm?{Wait for input} {emote: Curious}Do you know	what I'm thinking?	{emote: Love}A huh huh huh!{pause 20} I was thinking,{pause 20}	"Congrats!"{Wait for input}{emote: Happiness}OK then! {pause 20}As promised,{pause 20} I'll give you	{Blue}{Number (0x9)} Bells{Color Reset} for your	{0011-0003-0002-0000}!
+"004"	{emote: Inspired}{0007-000a-0000}Bingo!{pause 40} {emote: Glee}That's exactly what I want	to eat!{pause 20} You got it on the second try!{Wait for input}{emote: Happiness}As promised,{pause 20} I'll buy your	{0011-0003-0002-0000} for the	nice price of {Blue}{Number (0x9)} Bells{Color Reset}!
+"005"	{emote: Delight}You got it!{pause 20} That's exactly what I 	want to eat!{Wait for input}{emote: Sheepishness}But I guess you had a fifty-fifty	chance of getting it right by that	point.	{emote: Happiness}All right. This is kind of a low price,{pause 20}	but I'll give you {Blue}{Number (0x9)} Bells {Color Reset}for your	{0011-0003-0002-0000}!
+"006"	{emote: Sadness}Nope,{pause 20} I actually want the other	fruit.{pause 20} That's too bad.{Wait for input}{emote: Happiness}Well, this isn't the best deal, but	I'll give you {Blue}{Number (0x9)} Bells{Color Reset} for your	{0011-0003-0002-0000}!
+"007"	{emote: Happiness}Awesome!{pause 20} OK, you ready?{Wait for input}	{emote: Reset}Look right in my eyes, and try to	imagine what I want to eat.
+"008"	{0009-0000-0004-0009-000a}
+"009"	{emote: Anger}Here's the first hint!{Wait for input}{emote: Happiness}The color of the fruit I want to eat{pause 20}	is {Blue}not red{Color Reset}!{Wait for input} From that hint, do you	know which one I want to eat?{0008-0002-0010-000e-0000-000b-0000-000c-0000-000d-0000}	Apple.	Banana.	Orange.	Pear.
+"010"	{emote: Anger}Here's the first hint!{Wait for input}{emote: Happiness}The color of the fruit I want to eat{pause 20}	is {Blue}reddish{Color Reset}!{Wait for input} From that hint, do you	know which one I want to eat?{0008-0002-0010-0012-0000-0013-0000-0014-0000-0018-0000}	Cherry.	Peach.	Strawberry.	Grape.
+"011"	{0009-0001-0006-000f-000f-0003}
+"012"	{0009-0001-0006-0010-0010-0003}
+"013"	{0009-0001-0006-0011-0011-0003}
+"014"	{emote: Mistaken}Nope!{pause 20} Too bad!{pause 20} That's not the	fruit I want to eat!{Wait for input} {emote: Anger}OK, on to the	second hint!	{emote: Happiness}If I described the shape{pause 20} of the fruit,{pause 8}	I would say it's {Blue}round{Color Reset}.{Wait for input} Well,{pause 20} {emote: Curious}which	fruit do you think I want to eat?{Player can respond (0001):001a-0000-0004-0000-0019-0000}	Banana.	Orange.	Pear.
+"015"	{emote: Mistaken}Nope!{pause 20} Too bad!{pause 20} That's not the	fruit I want to eat!{Wait for input} {emote: Anger}OK, on to the	second hint!	{emote: Happiness}If I described the shape{pause 20} of the fruit,{pause 8}	I would say it's {Blue}round{Color Reset}.{Wait for input} Well,{pause 20} {emote: Curious}which	fruit do you think I want to eat?{Player can respond (0001):001c-0000-001b-0000-0004-0000}	Apple.	Orange.	Pear.
+"016"	{emote: Mistaken}Nope!{pause 20} Too bad!{pause 20} That's not the	fruit I want to eat!{Wait for input} {emote: Anger}OK, on to the	second hint!	{emote: Happiness}If I described the shape{pause 20} of the fruit,{pause 8}	I would say it's {Blue}long{Color Reset}.{Wait for input} Well,{pause 20} {emote: Curious}which	fruit do you think I want to eat?{Player can respond (0001):001e-0000-0004-0000-001d-0000}	Apple.	Banana.	Pear.
+"017"	{emote: Mistaken}Nope!{pause 20} Too bad!{pause 20} That's not the	fruit I want to eat!{Wait for input} {emote: Anger}OK, on to the	second hint!	{emote: Happiness}If I described the shape{pause 20} of the fruit,{pause 8}	I would say it's {Blue}round{Color Reset}.{Wait for input} Well,{pause 20} {emote: Curious}which	fruit do you think I want to eat?{Player can respond (0001):0020-0000-001f-0000-0004-0000}	Apple.	Banana.	Orange.
+"018"	{0009-0001-0006-0003-0015-0015}
+"019"	{0009-0001-0006-0003-0016-0016}
+"020"	{0009-0001-0006-0003-0017-0017}
+"021"	{emote: Disagreement}Nope! {pause 20}That's not the fruit I want to	eat!{Wait for input} {emote: Anger}All right, let's move to the	second hint!	{emote: Happiness}The fruit I want to eat is {Blue}round{Color Reset}.{pause 20}	OK, which one do you think it is?{Player can respond (0001):0004-0000-0022-0000-0021-0000}	Peach.	Strawberry.	Grape.
+"022"	{emote: Disagreement}Nope! {pause 20}That's not the fruit I want to	eat!{Wait for input} {emote: Anger}All right, let's move to the	second hint!	{emote: Happiness}The fruit I want to eat is what I'd	call {Blue}bite sized{Color Reset}.{pause 20} OK, which one do	you think it is?{Player can respond (0001):0024-0000-0004-0000-0023-0000}	Cherry.	Strawberry.	Grape.
+"023"	{emote: Disagreement}Nope! {pause 20}That's not the fruit I want to	eat!{Wait for input} {emote: Anger}All right, let's move to the	second hint!	{emote: Happiness}The fruit I want to eat is what I'd	call {Blue}bite sized{Color Reset}.{pause 20} OK, which one do	you think it is?{Player can respond (0001):0004-0000-0026-0000-0025-0000}	Cherry.	Peach.	Grape.
+"024"	{emote: Disagreement}Nope! {pause 20}That's not the fruit I want to	eat!{Wait for input} {emote: Anger}All right, let's move to the	second hint!	{emote: Happiness}The fruit I want to eat is {Blue}round{Color Reset}.{pause 20}	OK, which one do you think it is?{Player can respond (0001):0028-0000-0004-0000-0027-0000}	Cherry.	Peach.	Strawberry.
+"025"	{emote: Mistaken}Wrong!{pause 20} That's not the one.{pause 20}	{emote: Anger}OK, here's the last hint!{Wait for input} {emote: Happiness}The fruit	tastes{pause 20} {Blue}a little bit tart{Color Reset}!	That's gotta be enough!{pause 20} Which one	do you think it is?{Player can respond (0000):0006-0000-0005-0000}	Banana.	Orange.
+"026"	{emote: Mistaken}Wrong!{pause 20} That's not the one.{pause 20}	{emote: Anger}OK, here's the last hint!{Wait for input} {emote: Happiness}The fruit	tastes{pause 20} {Blue}a little bit tart{Color Reset}!	That's gotta be enough!{pause 20} Which one	do you think it is?{Player can respond (0000):0006-0000-0005-0000}	Pear.	Orange.
+"027"	{emote: Mistaken}Wrong!{pause 20} That's not the one.{pause 20}	{emote: Anger}OK, here's the last hint!{Wait for input} {emote: Happiness}The color	of the skin is{pause 20} {Blue}greenish{Color Reset}!	That's gotta be enough!{pause 20} Which one	do you think it is?{Player can respond (0000):0005-0000-0006-0000}	Pear.	Apple.
+"028"	{emote: Mistaken}Wrong!{pause 20} That's not the one.{pause 20}	{emote: Anger}OK, here's the last hint!{Wait for input} {emote: Happiness}The color	of the skin is{pause 20} {Blue}greenish{Color Reset}!	That's gotta be enough!{pause 20} Which one	do you think it is?{Player can respond (0000):0006-0000-0005-0000}	Orange.	Pear.
+"029"	{emote: Mistaken}Wrong!{pause 20} That's not the one.{pause 20}	{emote: Anger}OK, here's the last hint!{Wait for input} {emote: Happiness}The fruit I	want is{pause 20} {Blue}creamy and sweet{Color Reset}!	That's gotta be enough!{pause 20} Which one	do you think it is?{Player can respond (0000):0006-0000-0005-0000}	Apple.	Banana.
+"030"	{emote: Mistaken}Wrong!{pause 20} That's not the one.{pause 20}	{emote: Anger}OK, here's the last hint!{Wait for input} {emote: Happiness}The fruit I	want is{pause 20} {Blue}creamy and sweet{Color Reset}!	That's gotta be enough!{pause 20} Which one	do you think it is?{Player can respond (0000):0005-0000-0006-0000}	Banana.	Pear.
+"031"	{emote: Mistaken}Wrong!{pause 20} That's not the one.{pause 20}	{emote: Anger}OK, here's the last hint!{Wait for input} {emote: Happiness}The fruit	tastes{pause 20} {Blue}a little bit tart{Color Reset}!	That's gotta be enough!{pause 20} Which one	do you think it is?{Player can respond (0000):0006-0000-0005-0000}	Apple.	Orange.
+"032"	{emote: Mistaken}Wrong!{pause 20} That's not the one.{pause 20}	{emote: Anger}OK, here's the last hint!{Wait for input} {emote: Happiness}The fruit	tastes{pause 20} {Blue}a little bit tart{Color Reset}!	That's gotta be enough!{pause 20} Which one	do you think it is?{Player can respond (0000):0006-0000-0005-0000}	Banana.	Orange.
+"033"	{emote: Mistaken}Too bad!{pause 20} So sad!{pause 40} Not that I	wouldn't eat that, of course.{Wait for input}{emote: Anger}Here's your last chance!{pause 20}	Hint number 3!{Wait for input}{emote: Happiness}The fruit I want to eat has {Blue}a big	seed in the middle{Color Reset}!{Wait for input}I'm sure you've got it now!{pause 20}	Which do you think it is?{Player can respond (0000):0005-0000-0006-0000}	Peach.	Strawberry.
+"034"	{emote: Mistaken}Too bad!{pause 20} So sad!{pause 40} Not that I	wouldn't eat that, of course.{Wait for input}{emote: Anger}Here's your last chance!{pause 20}	Hint number 3!{Wait for input}{emote: Happiness}The fruit I want to eat has {Blue}a big	seed in the middle{Color Reset}!{Wait for input}I'm sure you've got it now!{pause 20}	Which do you think it is?{Player can respond (0000):0005-0000-0006-0000}	Peach.	Grape.
+"035"	{emote: Mistaken}Too bad!{pause 20} So sad!{pause 40} Not that I	wouldn't eat that, of course.{Wait for input}{emote: Anger}Here's your last chance!{pause 20}	Hint number 3!{Wait for input}{emote: Happiness}The fruit I want to eat {Blue}doesn't grow	on trees{Color Reset}!{pause 20} I'm sure you've got it now!	{pause 20}Which do you think it is?{Player can respond (0000):0006-0000-0005-0000}	Cherry.	Strawberry.
+"036"	{emote: Mistaken}Too bad!{pause 20} So sad!{pause 40} Not that I	wouldn't eat that, of course.{Wait for input}{emote: Anger}Here's your last chance!{pause 20}	Hint number 3!{Wait for input}{emote: Happiness}The fruit I want to eat {Blue}doesn't grow	on trees{Color Reset}!{pause 20} I'm sure you've got it now!{pause 20}	Which do you think it is?{Player can respond (0000):0005-0000-0006-0000}	Strawberry.	Grape.
+"037"	{emote: Mistaken}Aw, man!{pause 20} That's not it!{pause 40}	It's still tasty, of course, but it's	not what I'm after right now.	{emote: Anger}OK, here's the third hint.{pause 20} It's your	last chance!{Wait for input} {emote: Happiness}The fruit I want to eat 	always comes with a {Blue}twin{Color Reset}!{Wait for input}You've gotta know what the fruit is	now!{pause 20} Which one do you think it is?{Player can respond (0000):0005-0000-0006-0000}	Cherry.	Peach.
+"038"	{emote: Mistaken}Aw, man!{pause 20} That's not it!{pause 40}	It's still tasty, of course, but it's	not what I'm after right now.	{emote: Anger}OK, here's the third hint.{pause 20} It's your	last chance!{Wait for input} {emote: Happiness}The fruit I want to eat 	always comes with a {Blue}twin{Color Reset}!{Wait for input}You've gotta know what the fruit is	now!{pause 20} Which one do you think it is?{Player can respond (0000):0005-0000-0006-0000}	Cherry.	Grape.
+"039"	{emote: Mistaken}Too bad!{pause 20} So sad!{pause 40} Not that I	wouldn't eat that, of course.{Wait for input}{emote: Anger}Here's your last chance!{pause 20}	Hint number 3!{Wait for input}{emote: Happiness}The fruit I want to eat has {Blue}a big	seed in the middle{Color Reset}!{Wait for input}I'm sure you've got it now!{pause 20}	Which do you think it is?{Player can respond (0000):0006-0000-0005-0000}	Cherry.	Peach.
+"040"	{emote: Mistaken}Too bad!{pause 20} So sad!{pause 40} Not that I	wouldn't eat that, of course.{Wait for input}{emote: Anger}Here's your last chance!{pause 20}	Hint number 3!{Wait for input}{emote: Happiness}The fruit I want to eat has {Blue}a big	seed in the middle{Color Reset}!{Wait for input}I'm sure you've got it now!{pause 20}	Which do you think it is?{Player can respond (0000):0005-0000-0006-0000}	Peach.	Strawberry.
+"041"
+"042"	{emote: Delight}You're amazing!{pause 20} Thanks for playing!
+"043"	{emote: Sunny}That was fun.{pause 20} We should do it again	sometime!
+"044"	{emote: Happiness}That was close.{pause 20} Better luck next 	time,{pause 8} {catchphrase}!
+"045"	{emote: Happiness}A huh huh huh!{pause 20} Don't feel too bad,{pause 8}	{catchphrase}.
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Shocked}
-"004"	{emote: Inspired}
-"005"	{emote: Delight}
-"006"	{emote: Sadness}
-"007"	{emote: Happiness}
-"008"	{0009-0000-0004-09-00-00-00}	
-"009"	{emote: Anger}
-"010"	{emote: Anger}
-"011"	{0009-0001-0006-0f-00-0f-00-03-00}
-"012"	{0009-0001-0006-10-00-10-00-03-00}
-"013"	{0009-0001-0006-11-00-11-00-03-00}
-"014"	{emote: Mistaken}
-"015"	{emote: Mistaken}
-"016"	{emote: Mistaken}
-"017"	{emote: Mistaken}
-"018"	{0009-0001-0006-03-00-15-00-15-00}
-"019"	{0009-0001-0006-03-00-16-00-16-00}
-"020"	{0009-0001-0006-03-00-17-00-17-00}
-"021"	{emote: Disagreement}
-"022"	{emote: Disagreement}
-"023"	{emote: Disagreement}
-"024"	{emote: Disagreement}
-"025"	{emote: Mistaken}
-"026"	{emote: Mistaken}
-"027"	{emote: Mistaken}
-"028"	{emote: Mistaken}
-"029"	{emote: Mistaken}
-"030"	{emote: Mistaken}
-"031"	{emote: Mistaken}
-"032"	{emote: Mistaken}
-"033"	{emote: Mistaken}
-"034"	{emote: Mistaken}
-"035"	{emote: Mistaken}
-"036"	{emote: Mistaken}
-"037"	{emote: Mistaken}
-"038"	{emote: Mistaken}
-"039"	{emote: Mistaken}
-"040"	{emote: Mistaken}
-"041"	
-"042"	{emote: Delight}
-"043"	{emote: Sunny}
-"044"	{emote: Happiness}
-"045"	{emote: Happiness}
+"001"	{emote: Happiness}¡Oye! {pause 20}Te propongo un juego con tu	{0011-0003-0002-0000}. Se llama	{Blue}¿Qué me apetece comer?{Color Reset}{Wait for input}¡Yo te doy un máximo de tres pistas	y tú intentas adivinar qué fruta me	apetece comerme ahora mismo!{pause 20}	{emote: Glee}Cuanto antes aciertes,{pause 20}	¡más dinero te doy por	tu {0011-0003-0002-0000}!	{0007-000d-0000}{emote: Glare}¿Qué te parece?{pause 20} ¿Confías en tus	cualidades detectivescas?{Player can respond (0005):0007-0015-0002-0028}	¡Vamos allá!	Mejor otro día
+"002"	{emote: Worry}Ah{pause 8}.{pause 8}.{pause 8}.{pause 8} vale{pause 8}.{pause 8}.{pause 8}.{pause 20} Lo dejamos para	otro momento entonces,{pause 8}	{catchphrase}.
+"003"	{emote: Shocked}{0007-000b-0000}¡Ahí va!{pause 20} ¡Qué tí{o/a}!{pause 20} ¡Lo has clavado	a la primera!{Wait for input}{emote: Thought}No serás capaz de leer la mente	o algo así, ¿no?{Wait for input} {emote: Thought}A ver, ¿y ahora?{pause 40}	¿Eh?{Wait for input} {emote: Curious}¿En qué estoy pensando?{Wait for input}{emote: Surprise}¡Ajá!{pause 20} Estaba pensando:	"¡Enhorabuena!".{Wait for input}{emote: Happiness}Muy bien, ¡lo prometido es deuda!{pause 20}	¡Aquí tienes {Blue}{Number (0x9)} bayas {Color Reset}por tu	{0011-0003-0002-0000}!
+"004"	{emote: Inspired}{0007-000a-0000}¡Correcto!{pause 40} {emote: Glee}Eso es justo lo que me	apetece comer ahora mismito.{pause 20}	¡Has acertado a la segunda!{Wait for input}{emote: Happiness}Como te prometí,{pause 20} aquí tienes	{Blue}{Number (0x9)} bayas {Color Reset}a cambio de tu	{0011-0003-0002-0000}.
+"005"	{emote: Delight}¡Exacto!{pause 20} ¡Eso es justo lo que	me apetece comer ahora mismo!{Wait for input}{emote: Sheepishness}Aunque bueno, a estas alturas	ya era cuestión del 50 %.{Wait for input}{emote: Happiness}En fin, no es gran cosa, pero te	daré {Blue}{Number (0x9)} bayas {Color Reset}por tu	{0011-0003-0002-0000}.
+"006"	{emote: Sadness}Pues no,{pause 20} me apetecía más lo otro.{pause 20}	Qué pena...{Wait for input}{emote: Happiness}Bueno, no es mucho, ¡pero aquí	tienes {Blue}{Number (0x9)} bayas{Color Reset} por tu	{0011-0003-0002-0000}!
+"007"	{emote: Happiness}¡Muy bien!{pause 20} ¿Estás list{o/a}?{Wait for input}	{emote: Reset}Mírame a los ojos e intenta	adivinar lo que quiero comer.
+"008"	{0009-0000-0004-0009-000a}
+"009"	{emote: Anger}¡Primera pista!{Wait for input}{emote: Happiness}El color de la fruta que me apetece	comer{pause 20} {Blue}no es el rojo{Color Reset}.{Wait for input} ¿Sabes ya	a qué me refiero?{0008-0002-0010-000e-0000-000b-0000-000c-0000-000d-0000}	Una manzana	Un plátano	Una naranja	Una pera
+"010"	{emote: Anger}¡Ahí va la primera pista!{Wait for input}{emote: Happiness}La fruta que me apetece comer es{pause 20}	de un color {Blue}rojizo{Color Reset}.{Wait for input} ¿Sabes ya a qué	me refiero?{0008-0002-0010-0012-0000-0013-0000-0014-0000-0018-0000}	Una cereza	Un melocotón	Una fresa	Una uva
+"011"	{0009-0001-0006-000f-000f-0003}
+"012"	{0009-0001-0006-0010-0010-0003}
+"013"	{0009-0001-0006-0011-0011-0003}
+"014"	{emote: Mistaken}¡Fallaste!{pause 20} Se siente,{pause 20} esa no es	la fruta que me apetece comer.{Wait for input}	{emote: Anger}¡Venga, segunda pista!	{emote: Happiness}Esta fruta tiene una forma{pause 20}	{Blue}redondeada{Color Reset}.{Wait for input} {emote: Curious}¿De cuál crees	que estoy hablando? {Player can respond (0001):001a-0000-0004-0000-0019-0000}	Un plátano	Una naranja	Una pera
+"015"	{emote: Mistaken}¡Incorrecto!{pause 20} Se siente,{pause 20} esa no es	la fruta que me apetece comer.{Wait for input}	{emote: Anger}¡Venga, a por la segunda pista!	{emote: Happiness}Si tuviera que describir la forma de	esta fruta, diría que es{pause 20} {Blue}redondeada{Color Reset}.{Wait for input}	{emote: Curious}¿Sabes a cuál me refiero?{Player can respond (0001):001c-0000-001b-0000-0004-0000}	Una manzana	Una naranja	Una pera
+"016"	{emote: Mistaken}¡Pues no!{pause 20} Lo siento, pero esa no es	la fruta que me apetece comer.{Wait for input}	{emote: Anger}¡Vamos con la segunda pista!	{emote: Happiness}Diría que esta fruta tiene una forma{pause 20}	{Blue}alargada{Color Reset}.{Wait for input} Y bien,{pause 20} {emote: Curious}¿sabes ya de qué	fruta estoy hablando?{Player can respond (0001):001e-0000-0004-0000-001d-0000}	Una manzana	Un plátano	Una pera
+"017"	{emote: Mistaken}¡Pues no!{pause 20} Mucho me temo que esa	no es la fruta que me apetece	comer.{Wait for input} {emote: Anger}¡Vamos con la segunda pista!	{emote: Happiness}Si tuviera que describir la forma	de esta fruta, diría que es{pause 20}	{Blue}redondeada{Color Reset}.{Wait for input} {emote: Curious}¿Sabes ya cuál digo?{Player can respond (0001):0020-0000-001f-0000-0004-0000}	Una manzana	Un plátano	Una naranja
+"018"	{0009-0001-0006-0003-0015-0015}
+"019"	{0009-0001-0006-0003-0016-0016}
+"020"	{0009-0001-0006-0003-0017-0017}
+"021"	{emote: Disagreement}¡Te equivocas! {pause 20}Esa no es la fruta	que me apetece comer.{Wait for input}	{emote: Anger}¡Vamos con la segunda pista!	{emote: Happiness}La fruta de la que hablo es {Blue}redonda{Color Reset}.{pause 20}	¿Sabes ya cuál digo?{Player can respond (0001):0004-0000-0022-0000-0021-0000}	Un melocotón	Una fresa	Una uva
+"022"	{emote: Disagreement}¡Pues no! {pause 20}Esa no es la fruta que	me apetece comer.{Wait for input}	{emote: Anger}¡Ahí va la segunda pista!	{emote: Happiness}Esta fruta se puede comer	{Blue}de un bocado{Color Reset}{pause 20}. ¿Lo sabes ya?{Player can respond (0001):0024-0000-0004-0000-0023-0000}	Una cereza	Una fresa	Una uva
+"023"	{emote: Disagreement}¡Fallaste! {pause 20}Esa no es la fruta que me	apetece comer.{Wait for input} {emote: Anger}¡Segunda pista!{Wait for input}{emote: Happiness}Esta fruta se puede comer {Blue}de un	bocado{Color Reset}{pause 20}. ¿Sabes ya cuál digo?{Player can respond (0001):0004-0000-0026-0000-0025-0000}	Una cereza	Un melocotón	Una uva
+"024"	{emote: Disagreement}¡Incorrecto!{pause 20} Esa no es la fruta que	me apetece comer.{Wait for input} {emote: Anger}¡Pista número 2!{Wait for input}{emote: Happiness}La fruta de la que hablo es {Blue}redonda{Color Reset}.{pause 20}	¿Y bien? ¿Lo sabes ya?{Player can respond (0001):0028-0000-0004-0000-0027-0000}	Una cereza	Un melocotón	Una fresa
+"025"	{emote: Mistaken}¡Error!{pause 20} Esa no es.{Wait for input} {emote: Anger}¡Última pista!{pause 20}	{emote: Happiness}La fruta que me apetece comer	tiene un sabor tirando a {Blue}ácido{Color Reset}.	¡Ya es imposible fallar!{pause 20} ¿De qué	fruta estoy hablando?{Player can respond (0000):0006-0000-0005-0000}	Un plátano	Una naranja
+"026"	{emote: Mistaken}¡Otra vez mal!{pause 20} Esa tampoco es.{Wait for input}	{emote: Anger}¡Última pista!{pause 20} {emote: Happiness}La fruta que me	apetece tiene un sabor {Blue}ácido{Color Reset}.	¡Está más claro que el agua!{pause 20}	¿Cuál puede ser?{Player can respond (0000):0006-0000-0005-0000}	Una pera	Una naranja
+"027"	{emote: Mistaken}¡Tampoco!{pause 20} Has fallado dos veces.{Wait for input}	{emote: Anger}¡Última pista!{pause 20} {emote: Happiness}Esta fruta es{pause 20} {Blue}verde{Color Reset}.{Wait for input}Si no lo adivinas ahora...{pause 20}	¿De qué fruta estoy hablando?{Player can respond (0000):0005-0000-0006-0000}	Una pera	Una manzana
+"028"	{emote: Mistaken}¡Vuelves a fallar!{pause 20} Esa tampoco es.{Wait for input}	{emote: Anger}¡Tercera y última oportunidad!{pause 20}	{emote: Happiness}Esta fruta tiene la piel{pause 20} {Blue}verde{Color Reset}.	¡Te lo estoy poniendo en bandeja!{pause 20}	¿A qué fruta me refiero?{Player can respond (0000):0006-0000-0005-0000}	Una naranja	Una pera
+"029"	{emote: Mistaken}¡Otra vez mal!{pause 20} Esa tampoco es.{Wait for input}	{emote: Anger}¡A ver con la última pista!{pause 20} {emote: Happiness}Esta	fruta es muy {Blue}fácil de pelar{Color Reset}.	¡Con eso deberías ser capaz	de adivinarlo!{pause 20} ¿Qué fruta es?{Player can respond (0000):0006-0000-0005-0000}	Una manzana	Un plátano
+"030"	{emote: Mistaken}¡Mal de nuevo!{pause 20} Tampoco es esa.{Wait for input}	{emote: Anger}¡Ahí va la tercera y última pista!{pause 20}	{emote: Happiness}Esta fruta es muy {Blue}fácil de pelar{Color Reset}.	¡Está bien claro!{pause 20} ¿Qué fruta es?{Player can respond (0000):0005-0000-0006-0000}	Un plátano	Una pera
+"031"	{emote: Mistaken}¡Respuesta incorrecta!{pause 20} No es esa.{Wait for input}	{emote: Anger}¡Venga, última pista!{pause 20} {emote: Happiness}Esta fruta	tiene un sabor más bien {Blue}ácido{Color Reset}.	¡Con eso deberías poder adivinarlo!{pause 20}	¿De qué fruta estoy hablando?{Player can respond (0000):0006-0000-0005-0000}	Una manzana	Una naranja
+"032"	{emote: Mistaken}¡Mal otra vez!{pause 20} Tampoco es esa.{Wait for input}	{emote: Anger}¡Tercera y última pista!{pause 20} {emote: Happiness}Esta fruta	tiene un sabor {Blue}ácido{Color Reset}.	¡Más fácil no te lo puedo poner!{pause 20}	¿De qué fruta estoy hablando?{Player can respond (0000):0006-0000-0005-0000}	Un plátano	Una naranja
+"033"	{emote: Mistaken}¡Vaya!{pause 20} ¡Qué mal!{pause 40} Que no es que	no me guste eso, ¿eh?{Wait for input}{emote: Anger}¡Última oportunidad!{pause 20} ¡Tercera pista!{Wait for input}{emote: Happiness}La fruta que me apetece comer	tiene {Blue}un hueso enorme en el centro{Color Reset}.{Wait for input}¡Yo creo que está bien clarito!{pause 20}	¿De qué fruta estoy hablando?{Player can respond (0000):0005-0000-0006-0000}	Un melocotón	Una fresa
+"034"	{emote: Mistaken}¡Vaya, qué pena!{pause 40} Que no es que yo	le haga ascos a eso, ¿eh?{Wait for input}{emote: Anger}¡Última oportunidad!{pause 20} ¡Vamos con	la tercera pista!{Wait for input}{emote: Happiness}La fruta que me apetece comer	tiene {Blue}un hueso enorme en el centro{Color Reset}.{Wait for input}¡Con eso deberías saberlo!{pause 20}	¿Qué fruta es?{Player can respond (0000):0005-0000-0006-0000}	Un melocotón	Una uva
+"035"	{emote: Mistaken}¡Mecachis!{pause 20} Tampoco es esa.{pause 40}	Oye, que también me gusta,	pero no me apetece ahora.{Wait for input}{emote: Anger}¡Última oportunidad!{pause 20} ¡Tercera pista!{Wait for input}{emote: Happiness}La fruta de la que hablo {Blue}no crece	en los árboles{Color Reset}.{pause 20} ¡Venga, que seguro	que lo sabes!{pause 20} ¿De qué fruta hablo?{Player can respond (0000):0006-0000-0005-0000}	Una cereza	Una fresa
+"036"	{emote: Mistaken}¡Vaya!{pause 20} Esa tampoco era.{pause 40} Esa fruta	me gusta, pero no es la que me	apetece ahora mismo.{Wait for input}{emote: Anger}¡Última oportunidad!{pause 20} ¡Tercera pista!{Wait for input}{emote: Happiness}Esta fruta tiene las semillas	{Blue}por fuera{Color Reset}.{pause 20} ¡Tienes que saberlo!{pause 20}	¿A qué fruta me refiero?{Player can respond (0000):0005-0000-0006-0000}	Una fresa	Una uva
+"037"	{emote: Mistaken}¡Porras!{pause 20} Tampoco.{pause 40} Esa también	está muy buena, pero no es la que	me apetece ahora mismo.	{emote: Anger}¡Última oportunidad!{pause 20}{Wait for input} {emote: Happiness}Esta fruta	siempre viene en {Blue}pareja{Color Reset}.{Wait for input}¡Está claro! ¡No, más que claro,	clarinete!{pause 20} ¿Qué es?{Player can respond (0000):0005-0000-0006-0000}	Una cereza	Un melocotón
+"038"	{emote: Mistaken}¡Jolín, tú!{pause 20} Esa tampoco es.{pause 40} Y mira	que me encanta, ¿eh?, pero no es	la que me apetece ahora mismo.	{emote: Anger}¡Tercera y última pista!{Wait for input} {emote: Happiness}La fruta	de la que estoy hablando siempre	viene en {Blue}pareja{Color Reset}.{Wait for input}¡Más claro no te lo puedo decir!{pause 20}	¿De qué fruta se trata?{Player can respond (0000):0005-0000-0006-0000}	Una cereza	Una uva
+"039"	{emote: Mistaken}¡No, no y no!{pause 20} Esa tampoco es.{pause 40}	Por mucho que me guste, no es	la fruta que más me apetece ahora.{Wait for input}{emote: Anger}¡Última oportunidad!{pause 20} ¡Aquí tienes	la tercera pista! ¡Presta atención!{Wait for input}{emote: Happiness}Esta fruta tiene {Blue}un enorme hueso	en el centro{Color Reset}.{Wait for input}¿Lo sabes ya?{pause 20} ¿Qué puede ser?{Player can respond (0000):0006-0000-0005-0000}	Una cereza	Un melocotón
+"040"	{emote: Mistaken}¡Incorrecto!{pause 20} Tampoco era esa.{pause 40}	Me gusta mucho, pero ahora mismo	no es lo que más me apetece.{Wait for input}{emote: Anger}¡Última oportunidad!{pause 20} ¡Tercera pista!{Wait for input}{emote: Happiness}Esta fruta se caracteriza por tener	{Blue}un hueso enorme en el centro{Color Reset}.{Wait for input}¡Dime que lo sabes!{pause 20} ¿Qué fruta es?{Player can respond (0000):0005-0000-0006-0000}	Un melocotón	Una fresa
+"041"
+"042"	{emote: Delight}¡Eres de lo que no hay!{pause 20}	¡Gracias por jugar!
+"043"	{emote: Sunny}¡Qué divertido!{pause 20} Deberíamos volver	a jugar otro día.
+"044"	{emote: Happiness}Casi...{pause 20} ¡Más suerte la próxima vez,{pause 8}	{catchphrase}!
+"045"	{emote: Happiness}Vaya...{pause 20} No pasa nada,{pause 8} {catchphrase}.
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Shocked}
-"004"	{emote: Inspired}
-"005"	{emote: Delight}
-"006"	{emote: Sadness}
-"007"	{emote: Happiness}
-"008"	{0009-0000-0004-09-00-00-00}	
-"009"	{emote: Anger}
-"010"	{emote: Anger}
-"011"	{0009-0001-0006-0f-00-0f-00-03-00}
-"012"	{0009-0001-0006-10-00-10-00-03-00}
-"013"	{0009-0001-0006-11-00-11-00-03-00}
-"014"	{emote: Mistaken}
-"015"	{emote: Mistaken}
-"016"	{emote: Mistaken}
-"017"	{emote: Mistaken}
-"018"	{0009-0001-0006-03-00-15-00-15-00}
-"019"	{0009-0001-0006-03-00-16-00-16-00}
-"020"	{0009-0001-0006-03-00-17-00-17-00}
-"021"	{emote: Disagreement}
-"022"	{emote: Disagreement}
-"023"	{emote: Disagreement}
-"024"	{emote: Disagreement}
-"025"	{emote: Mistaken}
-"026"	{emote: Mistaken}
-"027"	{emote: Mistaken}
-"028"	{emote: Mistaken}
-"029"	{emote: Mistaken}
-"030"	{emote: Mistaken}
-"031"	{emote: Mistaken}
-"032"	{emote: Mistaken}
-"033"	{emote: Mistaken}
-"034"	{emote: Mistaken}
-"035"	{emote: Mistaken}
-"036"	{emote: Mistaken}
-"037"	{emote: Mistaken}
-"038"	{emote: Mistaken}
-"039"	{emote: Mistaken}
-"040"	{emote: Mistaken}
-"041"	
-"042"	{emote: Delight}
-"043"	{emote: Sunny}
-"044"	{emote: Happiness}
-"045"	{emote: Happiness}
+"001"	{emote: Happiness}Hé! {pause 20}Ça te dit de jouer {ton petit/ta petite/}	{0011-0003-0002-0000}{pause 20} dans une	partie de « de quoi j'ai faim »?	Je te donne trois indices, et tu dois	deviner quel fruit me fait envie!{Wait for input}{emote: Glee}Plus tu devines rapidement, plus	je te ferai une offre généreuse!{Wait for input}{0007-000d-0000}{emote: Glare}Qu'est-ce que tu en dis?{pause 20} Tu te	sens une âme de détective?{Player can respond (0005):0007-0015-0002-0028}	C'est parti!	Une autre fois.
+"002"	{emote: Worry}Oh, OK{pause 8}.{pause 8}.{pause 8}.{pause 20} Bon ben on remettra ça à	une prochaine fois, {pause 8}{catchphrase}.
+"003"	{emote: Shocked}{0007-000b-0000}Waouh!{pause 20} Bien trouvé!{pause 20} C'est	exactement ce que j'avais en tête!{Wait for input}{emote: Thought}T'es télépathe, c'est ça?{Wait for input} {emote: Thought}T'arrives	à lire dans mon esprit, là?{pause 40} Hmm?{Wait for input}	{emote: Curious}À quoi je suis en train de penser?	{emote: Love}Hé hé hé!{pause 20} J'étais en train de me	dire :{pause 20} « Félicitations, {Player nickname (green)}! »{Wait for input}{emote: Happiness}Bon! {pause 20}Comme promis,{pause 20} je te prends	{ton petit/ta petite/} {0011-0003-0002-0000}	pour {Blue}{Number (0x9)} clochettes{Color Reset}!
+"004"	{emote: Inspired}{0007-000a-0000}Bingo!{pause 40} {emote: Glee}C'est exactement ce qui me	fait envie!{Wait for input}{emote: Happiness}Comme promis,{pause 20} je t'achète {ton petit/ta petite/}	{0011-0003-0002-0000} pour la	jolie somme de {Blue}{Number (0x9)} clochettes{Color Reset}!
+"005"	{emote: Delight}En plein dans le mille!{pause 20} T'as réussi à	deviner de quoi j'avais envie!{Wait for input}{emote: Sheepishness}Bon, en même temps, à ce stade-là	de la partie, t'avais une chance sur	deux de trouver la réponse.	{emote: Happiness}Très bien. Bon, c'est une somme	plutôt modique,{pause 20} mais c'est le jeu	qui veut ça.	Je t'offre {Blue}{Number (0x9)} clochettes {Color Reset}pour	{ton cher/ta chère/} {0011-0003-0002-0000}!
+"006"	{emote: Sadness}Encore raté,{pause 20} c'était l'autre.{pause 20} Pas de	chance, quel dommage!{Wait for input}{emote: Happiness}Allez, je t'offre quand même {Blue}{Number (0x9)}	clochettes{Color Reset} pour {ton joli/ta jolie/}	{0011-0003-0002-0000}, va!
+"007"	{emote: Happiness}Super!{pause 20} {Prêt/Prête}?{Wait for input} {emote: Reset}Regarde-moi bien	dans les yeux, et essaie de deviner	de quoi j'ai faim, là, maintenant!
+"008"	{0009-0000-0004-0009-000a}
+"009"	{emote: Anger}Voilà le premier indice!{Wait for input}{emote: Happiness}La couleur du fruit que j'ai envie de	croquer{pause 20} {Blue}n'est pas le rouge{Color Reset}!{Wait for input}	Sauras-tu deviner à quoi je pense?{0008-0002-0010-000e-0000-000b-0000-000c-0000-000d-0000}	À une pomme!	À une banane!	À une orange!	À une poire!
+"010"	{emote: Anger}Place au premier indice!{Wait for input}{emote: Happiness}La couleur du fruit qui me fait envie{pause 20}	est {Blue}forcément dans les tons rouges{Color Reset}!{Wait for input}	Sauras-tu deviner à quoi je pense?{0008-0002-0010-0012-0000-0013-0000-0014-0000-0018-0000}	À une cerise!	À une pêche!	À une fraise!	À une grappe de raisin!
+"011"	{0009-0001-0006-000f-000f-0003}
+"012"	{0009-0001-0006-0010-0010-0003}
+"013"	{0009-0001-0006-0011-0011-0003}
+"014"	{emote: Mistaken}Raté!{pause 20} C'est pas ce fruit-là que j'ai	envie de manger!{Wait for input} {emote: Anger}Allez, deuxième	indice!	{emote: Happiness}Si je devais décrire sa forme,{pause 8} {Blue}je	dirais qu'elle est ronde{Color Reset}.{Wait for input} Alors,{pause 20}{emote: Curious}	tu devines à quoi je pense?{Player can respond (0001):001a-0000-0004-0000-0019-0000}	À une banane!	À une orange!	À une poire!
+"015"	{emote: Mistaken}Raté!{pause 20} C'est pas ce fruit-là que j'ai	envie de manger!{Wait for input} {emote: Anger}Allez, deuxième	indice!	{emote: Happiness}Si je devais décrire sa forme,{pause 8} {Blue}je ne	pourrais pas dire qu'elle soit ronde{Color Reset}.{Wait for input}	Alors,{pause 20}{emote: Curious} tu devines à quoi je pense?{Player can respond (0001):001c-0000-001b-0000-0004-0000}	À une pomme!	À une orange!	À une poire!
+"016"	{emote: Mistaken}Raté!{pause 20} C'est pas ce fruit-là que j'ai	envie de manger!{Wait for input} {emote: Anger}Allez, deuxième	indice!	{emote: Happiness}Si je devais décrire sa forme,{pause 8} {Blue}je	dirais qu'elle est tout en longueur{Color Reset}.{Wait for input}	Alors,{pause 20}{emote: Curious} tu devines à quoi je pense? {Player can respond (0001):001e-0000-0004-0000-001d-0000}	À une pomme!	À une banane!	À une poire!
+"017"	{emote: Mistaken}Raté!{pause 20} C'est pas ce fruit-là que j'ai	envie de manger!{Wait for input} {emote: Anger}Allez, deuxième	indice!	{emote: Happiness}Si je devais décrire sa forme,{pause 8} {Blue}je	dirais qu'elle est ronde{Color Reset}.{Wait for input} Alors,{pause 20}{emote: Curious}	tu devines à quoi je pense?{Player can respond (0001):0020-0000-001f-0000-0004-0000}	À une pomme!	À une banane!	À une orange!
+"018"	{0009-0001-0006-0003-0015-0015}
+"019"	{0009-0001-0006-0003-0016-0016}
+"020"	{0009-0001-0006-0003-0017-0017}
+"021"	{emote: Disagreement}Mauvaise réponse!{Wait for input} {emote: Anger}Allez, passons	au deuxième indice! {emote: Happiness}Le fruit auquel	je pense est {Blue}rond{Color Reset}!{pause 20}	Tu devines à quoi je pense?{Player can respond (0001):0004-0000-0022-0000-0021-0000}	À une pêche!	À une fraise!	À du raisin!
+"022"	{emote: Disagreement}Mauvaise réponse!{Wait for input} {emote: Anger}Allez, passons	au deuxième indice!{Wait for input}{emote: Happiness}Le fruit auquel je pense {Blue}peut se	croquer en une seule bouchée{Color Reset}!{pause 20}	Tu devines à quoi je pense?{Player can respond (0001):0024-0000-0004-0000-0023-0000}	À une cerise!	À une fraise!	À du raisin!
+"023"	{emote: Disagreement}Mauvaise réponse!{Wait for input} {emote: Anger}Allez, passons	au deuxième indice!{Wait for input}{emote: Happiness}Le fruit auquel je pense {Blue}peut se	croquer en une seule bouchée{Color Reset}!{pause 20}	Tu devines à quoi je pense?{Player can respond (0001):0004-0000-0026-0000-0025-0000}	À une cerise!	À une pêche!	À du raisin!
+"024"	{emote: Disagreement}Mauvaise réponse!{Wait for input} {emote: Anger}Allez, passons	au deuxième indice!{Wait for input}{emote: Happiness}Le fruit auquel je pense {Blue}est rond{Color Reset}!{pause 20}	Tu devines à quoi je pense?{Player can respond (0001):0028-0000-0004-0000-0027-0000}	À une cerise!	À une pêche!	À une fraise!
+"025"	{emote: Mistaken}Encore raté!{pause 20} {emote: Anger}Dernier indice!{Wait for input} {emote: Happiness}Le	fruit auquel je pense{pause 20} {Blue}a un goût	acidulé{Color Reset}!	Ça devrait suffire!{pause 20} Alors, de quel	fruit je te parle depuis tout à	l'heure?{Player can respond (0000):0006-0000-0005-0000}	D'une banane!	D'une orange!
+"026"	{emote: Mistaken}Encore raté!{pause 20} {emote: Anger}Dernier indice!{Wait for input} {emote: Happiness}Le	fruit auquel je pense{pause 20} {Blue}a un goût	acidulé{Color Reset}!	Ça devrait suffire!{pause 20} Alors, de quel	fruit je te parle depuis tout à	l'heure?{Player can respond (0000):0006-0000-0005-0000}	D'une poire!	D'une orange!
+"027"	{emote: Mistaken}Encore raté!{pause 20} {emote: Anger}Dernier indice!{Wait for input} {emote: Happiness}Le	fruit auquel je pense{pause 20} {Blue}a une robe	verte{Color Reset}!	Ça devrait suffire!{pause 20} Alors, de quel	fruit je te parle depuis tout à	l'heure?{Player can respond (0000):0005-0000-0006-0000}	D'une poire!	D'une pomme!
+"028"	{emote: Mistaken}Encore raté!{pause 20} {emote: Anger}Dernier indice!{Wait for input} {emote: Happiness}Le	fruit auquel je pense{pause 20} {Blue}a une robe	verte{Color Reset}!	Ça devrait suffire!{pause 20} Alors, de quel	fruit je te parle depuis tout à	l'heure?{Player can respond (0000):0006-0000-0005-0000}	D'une orange!	D'une poire!
+"029"	{emote: Mistaken}Encore raté!{pause 20} {emote: Anger}Dernier indice!{Wait for input} {emote: Happiness}Le	fruit auquel je pense a un goût à la	fois{pause 20} {Blue}doux et sucré{Color Reset}!	Ça devrait suffire!{pause 20} Alors, de quel	fruit je te parle depuis tout à	l'heure?{Player can respond (0000):0006-0000-0005-0000}	D'une pomme!	D'une banane!
+"030"	{emote: Mistaken}Encore raté!{pause 20} {emote: Anger}Dernier indice!{Wait for input} {emote: Happiness}Le	fruit auquel je pense a un goût à la	fois{pause 20} {Blue}doux et sucré{Color Reset}!	Ça devrait suffire!{pause 20} Alors, de quel	fruit je te parle depuis tout à	l'heure?{Player can respond (0000):0005-0000-0006-0000}	D'une banane!	D'une poire!
+"031"	{emote: Mistaken}Encore raté!{pause 20} {emote: Anger}Dernier indice!{Wait for input} {emote: Happiness}Le	fruit auquel je pense a{pause 20} {Blue}un goût	acidulé{Color Reset}!	Ça devrait suffire!{pause 20} Alors, de quel	fruit je te parle depuis tout à	l'heure?{Player can respond (0000):0006-0000-0005-0000}	D'une pomme!	D'une orange!
+"032"	{emote: Mistaken}Encore raté!{pause 20} {emote: Anger}Dernier indice!{Wait for input} {emote: Happiness}Le	fruit auquel je pense a{pause 20} {Blue}un goût	acidulé{Color Reset}!	Ça devrait suffire!{pause 20} Alors, de quel	fruit je te parle depuis tout à	l'heure?{Player can respond (0000):0006-0000-0005-0000}	D'une banane!	D'une orange!
+"033"	{emote: Mistaken}Toujours pas!{pause 20} Dommage!{pause 40}{emote: Daydreaming} Même si	à la réflexion, je ne refuserais pas si	on m'en proposait.{Wait for input}{emote: Anger}Voilà ta dernière chance!{pause 20} Indice	nº 3!{Wait for input}{emote: Happiness}Le fruit qui me fait envie{pause 20} {Blue}a un gros	noyau au centre{Color Reset}!{Wait for input}Je suis sûr que tu as deviné,	maintenant!{pause 20} À quel fruit je pense?{Player can respond (0000):0005-0000-0006-0000}	À une pêche!	À une fraise!
+"034"	{emote: Mistaken}Toujours pas!{pause 20} Dommage!{pause 40}{emote: Daydreaming} Même si	à la réflexion, je ne refuserais pas si	on m'en proposait.{Wait for input}{emote: Anger}Voilà ta dernière chance!{pause 20} Indice	nº 3!{Wait for input}{emote: Happiness}Le fruit qui me fait envie{pause 20} {Blue}a un gros	noyau en son milieu{Color Reset}!{Wait for input}Je suis sûr que tu as deviné,	maintenant!{pause 20} À quel fruit je pense?{Player can respond (0000):0005-0000-0006-0000}	À une pêche!	À du raisin!
+"035"	{emote: Mistaken}Toujours pas!{pause 20} Dommage!{pause 40}{emote: Daydreaming} Même si	à la réflexion, je ne refuserais pas si	on m'en proposait.{Wait for input}{emote: Anger}Voilà ta dernière chance!{pause 20} Indice	nº 3!{Wait for input}{emote: Happiness}Le fruit qui me fait envie{pause 20} {Blue}pousse	au ras du sol{Color Reset}!{Wait for input}Je suis sûr que tu as deviné,	maintenant!{pause 20} À quel fruit je pense?{Player can respond (0000):0006-0000-0005-0000}	À une cerise!	À une fraise!
+"036"	{emote: Mistaken}Toujours pas!{pause 20} Dommage!{pause 40}{emote: Daydreaming} Même si	à la réflexion, je ne refuserais pas si	on m'en proposait.{Wait for input}{emote: Anger}Voilà ta dernière chance!{pause 20} Indice	nº 3!{Wait for input}{emote: Happiness}Le fruit qui me fait envie{pause 20} {Blue}pousse	au ras du sol{Color Reset}!{Wait for input}Je suis sûr que tu as deviné,	maintenant!{pause 20} À quel fruit je pense?{Player can respond (0000):0005-0000-0006-0000}	À une fraise!	À du raisin!
+"037"	{emote: Mistaken}Toujours pas!{pause 20} Dommage!{pause 40}{emote: Daydreaming} Même si	à la réflexion, je ne refuserais pas si	on m'en proposait.{Wait for input}{emote: Anger}Voilà ta dernière chance!{pause 20} Indice	nº 3!{Wait for input}{emote: Happiness}Le fruit qui me fait envie{pause 20} {Blue}pousse	toujours par paire{Color Reset}!{Wait for input}Je suis sûr que tu as deviné,	maintenant!{pause 20} À quel fruit je pense?{Player can respond (0000):0005-0000-0006-0000}	À une cerise!	À une pêche!
+"038"	{emote: Mistaken}Toujours pas!{pause 20} Dommage!{pause 40}{emote: Daydreaming} Même si	à la réflexion, je ne refuserais pas si	on m'en proposait.{Wait for input}{emote: Anger}Voilà ta dernière chance!{pause 20} Indice	nº 3!{Wait for input}{emote: Happiness}Le fruit qui me fait envie{pause 20} {Blue}pousse	toujours par paire{Color Reset}!{Wait for input}Je suis sûr que tu as deviné,	maintenant!{pause 20} À quel fruit je pense?{Player can respond (0000):0005-0000-0006-0000}	À une cerise!	À du raisin!
+"039"	{emote: Mistaken}Toujours pas!{pause 20} Dommage!{pause 40}{emote: Daydreaming} Même si	à la réflexion, je ne refuserais pas si	on m'en proposait.{Wait for input}{emote: Anger}Voilà ta dernière chance!{pause 20} Indice	nº 3!{Wait for input}{emote: Happiness}Le fruit qui me fait envie{pause 20} {Blue}a la peau	toute douce{Color Reset}!{Wait for input}Je suis sûr que tu as deviné,	maintenant!{pause 20} À quel fruit je pense?{Player can respond (0000):0006-0000-0005-0000}	À une cerise!	À une pêche!
+"040"	{emote: Mistaken}Toujours pas!{pause 20} Dommage!{pause 40}{emote: Daydreaming} Même si	à la réflexion, je ne refuserais pas si	on m'en proposait.{Wait for input}{emote: Anger}Voilà ta dernière chance!{pause 20} Indice	nº 3!{Wait for input}{emote: Happiness}Le fruit qui me fait envie{pause 20} {Blue}a la peau	toute douce{Color Reset}!{Wait for input}Je suis sûr que tu as deviné,	maintenant!{pause 20} À quel fruit je pense?{Player can respond (0000):0005-0000-0006-0000}	À une pêche!	À une fraise!
+"041"
+"042"	{emote: Delight}T'es vraiment trop {fort/forte}!{pause 20} C'était	super sympa d'avoir joué avec toi!
+"043"	{emote: Sunny}Je trouve qu'on s'est bien amusés!{pause 20}	Il faudra qu'on remette ça à	l'occasion!
+"044"	{emote: Happiness}Ça s'est joué de peu.{pause 20} Je suis sûr	que t'auras plus de chance la	prochaine fois,{pause 8} {catchphrase}!
+"045"	{emote: Happiness}Hé hé hé!{pause 20} T'inquiète pas, t'auras	droit à ta revanche, {pause 8}{catchphrase}!

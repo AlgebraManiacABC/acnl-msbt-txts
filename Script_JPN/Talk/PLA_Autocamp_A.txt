@@ -1,17 +1,17 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{000a-0007-000c-0c-00-0c-00-0b-00-0b-00-0c-00-0c-00}
-"003"	{000a-0007-000c-0c-00-0c-00-0b-00-0b-00-0c-00-0c-00}
-"004"	
-"005"	
-"006"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"007"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"008"	
-"009"	
-"011"	{emote: Surprise}
-"012"	{emote: Alarmed}
-"013"	{emote: Alarmed}
-"014"	{emote: Agreement}
-"015"	{emote: Agreement}
-"016"	わたし　こう{ruby (charSpan 1): み}見えても{pause 16}
-"017"	わたし、{pause 12}
+"001"	{emote: Alarmed}あっ！{pause 20}　あなたもこの{ruby (charSpan 1): むら}村に{pause 8}	{emote: Curious}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): こ}来られたのでしょうか？{pause 40}	{emote: Soft Smile}わたしもなんです、{pause 20}{emote: Worry}{Text size 75%}すみません{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"002"	{000a-0007-000c-000c-000c-000b-000b-000c-000c}
+"003"	{000a-0007-000c-000c-000c-000b-000b-000c-000c}
+"004"
+"005"
+"006"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"007"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"008"
+"009"
+"011"	{emote: Surprise}あっ！{pause 30}　{emote: Soft Smile}こんにちは！{pause 20}	{emote: Reset}キャンプ{ruby (charSpan 1): じょう}場　{ruby (charSpan 1): つか}使わせてもらってます！{Wait for input}{emote: Soft Smile}ここは　これまでキャンプした{ruby (charSpan 1): なか}中で{pause 8}	{emote: Agreement}いちばん　{ruby (charSpan 2): きも}気持ちのいい{ruby (charSpan 1): むら}村ですね、{pause 20}	{emote: Worry}{Text size 75%}たぶん{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"012"	{emote: Alarmed}あっ！{pause 30}	{emote: Curious}この{ruby (charSpan 1): むら}村の　{ruby (charSpan 2): じゅうみん}住民の{ruby (charSpan 1): かた}方でしょうか？！{pause 40}	{emote: Soft Smile}おジャマしております、{pause 20}{emote: Worry}{Text size 75%}すみません{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"013"	{emote: Alarmed}えっ？{pause 20}　わたしが　いつも	{ruby (charSpan 1): や}焼きそばに　{ruby (charSpan 1): つか}使ってるソースですか？{Wait for input}{emote: Thought}え～っと{pause 20}{Gray}（まさか{pause 16}　ブル{pause 8}・{pause 8}・{pause 8}・{pause 8}？）{Color Reset}、{pause 30}	{emote: Curious}ふつうの　ソースですけど？{pause 40}	{emote: Distress}ノリが{ruby (charSpan 1): わる}悪くて　{Text size 75%}すみません{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"014"	{emote: Agreement}あの、{pause 16}わたし　こう{ruby (charSpan 1): み}見えても{pause 8}	{emote: Soft Smile}{ruby (charSpan 2): りょうり}料理は　{ruby (charSpan 1): わり}割とやるほうなんです！{Wait for input}{emote: Disagreement}あと{ruby (charSpan 1): かた}片づけをするのは{pause 8}	{ruby (charSpan 2): にがて}苦手なんですけどね、{pause 20}{emote: Worry}{Text size 75%}すみません{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"015"	{emote: Agreement}キャンプは　どちらかと{ruby (charSpan 1): い}言うと{pause 12}	{emote: Soft Smile}ひとりのことが　{ruby (charSpan 1): おお}多いですね{Wait for input}{emote: Sheepishness}{ruby (charSpan 1): だれ}誰かと{ruby (charSpan 2): いっしょ}一緒だと{pause 8}　どうしても	{ruby (charSpan 1): き}気を{ruby (charSpan 1): つか}使ってしまうので、{pause 20}{emote: Worry}{Text size 75%}すみません{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"016"	わたし　こう{ruby (charSpan 1): み}見えても{pause 16}	{emote: Disagreement}アウトドアは　{ruby (charSpan 1): きら}嫌いじゃないんです{Wait for input}{emote: Soft Smile}ふだんも　パトロールしているときが{pause 8}	{emote: Agreement}いちばん　{ruby (charSpan 1): たの}楽しいですね{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Shocked}あっ！{pause 30}	{emote: Distress}し、{pause 8}{ruby (charSpan 2): しごと}仕事は　ちゃんとしてますよ！{pause 30}	{emote: Worry}{Text size 75%}たぶん{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"017"	わたし、{pause 12}クルマの　カスタマイズに{pause 8}	{emote: Disagreement}それほど　こだわりはないのですが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Soft Smile}このクルマは{pause 8}　{ruby (charSpan 1): わり}割と{ruby (charSpan 2): じぶん}自分らしさが	{ruby (charSpan 1): だ}出せている{ruby (charSpan 1): き}気がして　{emote: Agreement}{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってるんです、{pause 40}	{emote: Worry}エラそうで　{Text size 75%}すみません{pause 8}・{pause 8}・{pause 8}・{Text size 100%}

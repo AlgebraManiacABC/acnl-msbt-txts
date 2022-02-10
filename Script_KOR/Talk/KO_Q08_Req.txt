@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	저기, {pause 8}
-"003"	근데 오늘{pause 20}
-"004"	근데 말이야, 급작스럽긴 하지만{pause 20}
-"005"	저기, {pause 8}
-"006"	{emote: Inspired}
+"001"	{emote: Surprise}근데 말이야!{pause 30}	{emote: Soft Smile}오늘 너네 집에{pause 20}	놀러 가도 되냐?{Wait for input}{emote: Sheepishness}궁금하단 말이야,{pause 20}	넌 어떻게 살고 있는지{pause 8}	말이야, {pause 20}{catchphrase}{000f-0005-0004-0000-0000}	오케이!	좀 힘들겠는데
+"002"	저기, {pause 8}{Player nickname (green)}{Wait for input}오늘 니네 집에 가서{pause 20}	구조라든가 가구라든가{pause 8}	이것저것 마구 칭찬해주마, {pause 20}{catchphrase}{000f-0005-0004-0000-0000}	좋았어	아냐, 됐어
+"003"	근데 오늘{pause 20}	니네 집에 가서{pause 8}	이것저것 확인해봐도 되냐?{Wait for input}{emote: Sheepishness}뭐야, {pause 8}그 의심쩍은 얼굴은?{Wait for input}	난 인마, {pause 20}니가 걱정돼서	이러는 거야!{Wait for input}{emote: Thought}{pause 16}침대는 있는지,{pause 20}	식물은 하나쯤 기르고 있는지,{pause 20}	제대로 청소는 하고 있는지!{Wait for input}{emote: Worry}내가 이런 말을 하는 건{pause 20}	한마디로 부모님의 마음과 같은 거지!{Wait for input}	{emote: Curious}알겠냐? {pause 20}괜찮겠지? {pause 20}{catchphrase}?{000f-0005-0004-0000-0000}	알았어!	필요 없어
+"004"	근데 말이야, 급작스럽긴 하지만{pause 20}	지금 바로 니네 집에{pause 8} {emote: Curious}놀러 가도 되냐?{Wait for input}{emote: Anger}아무 준비도 안 한,{pause 20}	있는 그대로의 니 방이 보고 싶어{Wait for input}	{emote: Sunny}자, {pause 8}가자구!{000f-0005-0004-0000-0000}	오케이!	지금은 안 돼
+"005"	저기, {pause 8}{Player nickname (green)}{Wait for input}	{emote: Soft Smile}지금 니네 집에 놀러 가자!{pause 30}	{emote: Sheepishness}귀찮게는 안 할게, 괜찮지?{000f-0005-0004-0000-0000}	알았어!	안 돼
+"006"	{emote: Inspired}{pause 16}아 참!{pause 30}	{emote: Glee}심심한데 니네 집이나 가자!{pause 20}	자랑하고 싶은 게 있으면 보여줘{000f-0005-0004-0000-0000}	오케이!	안 돼

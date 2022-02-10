@@ -1,8 +1,8 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Alarmed}
-"003"	{emote: Glee}
-"004"	{emote: Delight}
-"005"	{0011-0003-0002-00-00}
-"006"	{emote: Happiness}
-"007"	{0011-0003-0002-00-00}
+"001"	{emote: Worry}なんだぁ～{pause 20}	しょめいが　あつまったのかと	{ruby (charSpan 1): おも}思ったよぉ{pause 8}・{pause 8}・{pause 8}・
+"002"	{emote: Alarmed}{0007-000b-0000}わぁ～！{pause 20}	キレイに　うまってる～！{Wait for input}{emote: Glee}これで　{0012-0001-0000}	じつげん　できるかもぉ～{Wait for input}{emote: Happiness}ガンバってくれた　キミには{pause 20}	おれいを　あげなくっちゃねぇ、{pause 8}{catchphrase}
+"003"	{emote: Glee}わぁ～！{pause 20}　カンペキだねぇ！{pause 40}	あとで　このしょめい、	{ruby (charSpan 1): だ}出してこよぉ～っと！{Wait for input}{emote: Happiness}それじゃあ　ボクからは	コレを{pause 8}・{pause 8}・{pause 8}・{pause 20}	おれいのプレゼントだよぉ、{pause 8}{catchphrase}
+"004"	{emote: Delight}すっごぉ～い！{pause 20}	コンプリートだねぇ！{Wait for input}{emote: Happiness}{Player nickname (green)}{0005-000d-0000}の　おかげで、	{0012-0001-0000}が	じつげん　できるかも～！{Wait for input}{emote: Reset}そうだ{pause 20}　おれいしなきゃねぇ！{pause 40}	コレ、ど～ぞ！
+"005"	{0011-0003-0002-0000}だよぉ{Wait for input}	{emote: Sunny}{Player nickname (green)}{0005-000d-0000}！{pause 20}	きょうりょく　ありがとぉ～
+"006"	{emote: Happiness}えへへ～{pause 20}	{0011-0003-0002-0000}だよぉ～{Wait for input}{emote: Joy}キミって　とっても	{ruby (charSpan 1): かお}顔が{ruby (charSpan 1): ひろ}広いんだねぇ～{pause 40}	たすかっちゃったぁ、{pause 8}{catchphrase}
+"007"	{0011-0003-0002-0000}！{pause 40}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってくれると　うれしいなぁ{Wait for input}{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 20}	また　よろしくねぇ、{pause 8}{catchphrase}

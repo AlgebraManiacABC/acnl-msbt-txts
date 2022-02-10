@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Sleep Bubble}
-"002"	{emote: Distress}
-"003"	{emote: Bashful}
-"004"	
-"005"	
-"006"	{emote: Sheepishness}
-"007"	{emote: Agreement}
-"008"	{emote: Happiness}
-"009"	{emote: Alarmed}
-"010"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"011"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"012"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"013"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"014"	
-"016"	{emote: Daydreaming}
-"017"	{emote: Happiness}
-"018"	{emote: Pride}
-"019"	{emote: Thought}
-"020"	{emote: Reset}
+"001"	{emote: Sleep Bubble}{Text size 65%}흠냥흠냥{pause 15}・{pause 15}・{pause 15}・{Text size 100%}{pause 25}{emote: Sleepy}{pause 120}{emote: Alarmed}{Wait <0096 0000> 'time'}	{emote: Shocked}{pause 5}어멋!{Wait <002d 0000> 'time'}
+"002"	{emote: Distress}{pause 10}죄, {pause 10}죄송합니다!{pause 15}	잠깐 쉬고 있었어요!{pause 40}	・{pause 8}・{pause 8}・{emote: Alarmed}앗!
+"003"	{emote: Bashful}죄, {pause 10}죄송합니다{pause 5}・{pause 5}・{pause 5}・　
+"004"
+"005"
+"006"	{emote: Sheepishness}모처럼 휴가를 써서{pause 8}	캠핑하러 왔는데, {pause 16}아직 머리가	업무에서 벗어나질 못했나 봐요{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Agreement}오늘은 여기에서 마음 편히{pause 30}	쉬고 갈 생각이랍니다
+"007"	{emote: Agreement}저는 {pause 8}평소에 이 마을	박물관 2층에서 일하고 있는데요,{pause 30}	오늘은 오랜만의 휴가랍니다{Wait for input}{emote: Sheepishness}모처럼 휴가를 써서{pause 8}	캠핑하러 왔는데, {pause 16}아직 머리가	업무에서 벗어나질 못했나봐요{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Agreement}오늘은 여기에서 마음 편히{pause 30}	쉬고 갈 생각이랍니다
+"008"	{emote: Happiness}어머,{pause 16}	{Player name}님 아니신가요?{Wait for input}{emote: Agreement}오늘은 저,{pause 16}	모처럼의 휴가예요{Wait for input}{emote: Shyness}{pause 16}하루뿐이지만・・・{pause 16}	푹 쉬다가 가려고요
+"009"	{emote: Alarmed}아・・・{pause 30}	{emote: Curious}다른 마을 분이신가요?{Wait for input}{emote: Agreement}저는 {pause 8}평소에 이 마을	박물관에서 일하고 있는데요,{pause 30}	오늘은 오랜만의 휴가랍니다{Wait for input}{emote: Alarmed}아, 박물관은{pause 30}	{emote: Agreement}자유롭게 출입하실 수 있으니까{pause 16}	시간 되시면 들러주세요
+"010"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"011"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"012"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"013"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"014"
+"016"	{emote: Daydreaming}{pause 16}이곳 캠핑장에서 보는 별은{pause 16}	정말 예쁘겠지{pause 8}・{pause 8}・{pause 8}・{Wait for input}봄의 대곡선에 가을의 사변형{pause 8}・{pause 8}・{pause 8}・{pause 30}	그리고 {pause 8}여름과 겨울의 대삼각형{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Surprise}앗! {pause 8}안 돼!{pause 30}	{emote: Distress}{pause 16}제가 이래요,{pause 16} 별 이야기만 하면{pause 16}	정신을 못 차리곤 한답니다!
+"017"	{emote: Happiness}저는 {pause 8}평소에 오빠와 함께	박물관에서 일을 하고 있는데요{Wait for input}{emote: Agreement}오빠는 근무 중에 자주 졸아요{pause 16}	지금쯤{pause 30}{emote: Sleep Bubble} 분명 졸고{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Surprise}앗!{pause 30}	{emote: Distress}남매가 다 이래서{pause 8} 죄송합니다!
+"018"	{emote: Pride}이래 보여도 저,{pause 16}	아웃도어를 꽤 좋아해요!{Wait for input}{emote: Agreement}어릴 적에는{pause 8} 곤충을 잡아서{pause 16}	오빠에게 자주 가져가곤 했으니까요!{Wait for input}{emote: Daydreaming}{pause 16}오빠는{pause 8}・{pause 8}・{pause 8}・{pause 16}	정말 많이 놀랬었지요{pause 8}・{pause 8}・{pause 8}・{pause 30}
+"019"	{emote: Thought}{pause 16}제 직장에는{pause 8}	좀처럼 손님들이 오지 않으셔서{pause 16}	많이 심심해요{pause 8}・{pause 8}・{pause 8}・	{emote: Agreement}그럴 때는{pause 8}	머리에 겨울의 대삼각형을 그리곤 하죠!{Wait for input}{emote: Daydreaming}{pause 16}베텔게우스와 {pause 16}프로키온과	시리우스의 삼각 관계가{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}앗!{pause 60}	{emote: Distress}내가 무슨 소릴{pause 8}・{pause 8}・{pause 8}・{pause 8}	죄, {pause 8}죄송합니다!
+"020"	{emote: Reset}우리들의 신체를 이루고 있는 물질{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Agreement}그건, {pause 8}옛날에 살아 있던 항성이{pause 16}	죽음에 이르게 되면서 주어진 물질	{emote: Agreement}즉, 우리들은	별의 조각으로 이루어져 있어요{Wait for input}{emote: Shyness}{pause 16}캠핑장에 오면{pause 8}・{pause 8}・{pause 8}・{pause 16}	그런 것들을 생각하며{pause 16}	밤하늘을 바라보는 건 어떠세요?

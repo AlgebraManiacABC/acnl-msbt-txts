@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Glee}
-"003"	My home must be THE place to	visit today, {Player nickname (green)}
+"001"	{emote: Happiness}{capitalized}{Greeting begin}Oh, {pause 8}welcome,{pause 8} {Player nickname (green)}{Greeting end}!{pause 16}	You and {0011-0001-0002-0000} have both	come to visit. {pause 16}Aren't I lucky!
+"002"	{emote: Glee}I must be a popular girl today,	{Player nickname (green)}! {pause 10}{capitalized}{0011-0001-0002-0000} came to	visit me too, {catchphrase}!
+"003"	My home must be THE place to	visit today, {Player nickname (green)}. {capitalized}{pause 10}{emote: Greetings}{0011-0001-0002-0000}	is here too, {catchphrase}!
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	¡{capitalized}
+"001"	{emote: Happiness}¡{capitalized}{Greeting begin}Ah, bienvenid{o/a}, {Player nickname (green)}{Greeting end}!{pause 10}	¿Quieres charlar un rato conmigo	y con {0011-0001-0002-0000}?	¡Tranquil{o/a}! Nada de lo que se	diga saldrá de aquí.
+"002"	{emote: Happiness}¡{capitalized}{Player nickname (green)}! ¿Te has puesto de	acuerdo con {0011-0001-0002-0000} para venir	hoy?	{emote: Glee}¡Pues vais a ver lo buena anfitriona	que soy, {catchphrase}!
+"003"	¡{capitalized}{Player nickname (green)}! ¿Tú también?	Justo acaba de llegar {0011-0001-0002-0000}.{Wait for input}¿Os habéis puesto de acuerdo	para pasaros el mismo día,	{catchphrase}?
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Glee}
-"003"	Fabuleux!{pause 30}
+"001"	{emote: Happiness}Tiens! {pause 20}{capitalized}{Greeting begin}Bonjour {Player nickname (green)}{Greeting end}!{pause 40}	Toi et {0011-0001-0002-0000} au même endroit.{pause 30}	J'en ai de la chance, {catchphrase}!
+"002"	{emote: Glee}Magnifique!{pause 30} Je dois vraiment être	populaire, {Player nickname (green)}! {pause 30}{capitalized}{0011-0001-0002-0000}	est ici aussi, {catchphrase}!
+"003"	Fabuleux!{pause 30} Tout le monde vient chez	moi aujourd'hui, {Player nickname (green)}.{pause 30} {emote: Greetings}Même	toi et {0011-0001-0002-0000}, {catchphrase}!

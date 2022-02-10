@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Disbelief}
-"003"	{emote: Curious}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Sigh}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
-"009"	{emote: Happiness}
-"010"	{emote: Joy}
-"011"	{emote: Laughter}
+"001"	{emote: Surprise}あ！{pause 20}　{ruby (charSpan 1): み}見つかっちゃったかぁ{pause 20}	{emote: Happiness}{0011-0003-0002-0000}！{pause 40}	たからさがしゲーム！　クリアーだよぉ！{Wait for input}{emote: Joy}それじゃあ{pause 8}　{0011-0003-0002-0000}は	キミに　プレゼントー！{pause 40}	ホントは　ボクのお{ruby (charSpan 1): ふる}古だけどね、{pause 8}{catchphrase}{000f-0005-0004-0015-0028}	もらっとく！	いらな～い
+"002"	{emote: Disbelief}{0007-000b-0000}わぁ～！　{Player nickname (green)}{0005-000d-0000}！{pause 20}	どこ{ruby (charSpan 1): み}見てんのさぁ！{pause 40}	{emote: Curious}え？{pause 20}　{0011-0003-0002-0000}{ruby (charSpan 1): み}見つけた？{Wait for input}{emote: Shyness}{Player nickname (green)}{0005-000d-0000}、{pause 20}	もしかして　それが　ほしいのぉ～？{Wait for input}{emote: Resigned}しょうがないなぁ～{pause 20}	キミにそれ　あげるよぉ{pause 40}	{emote: Happiness}ボク　あんまりつかわないんだぁ、{pause 8}{catchphrase}{000f-0005-0004-0015-0028}	もらっちゃうね	いらないな
+"003"	{emote: Curious}ん？　{0011-0003-0002-0000}？{pause 40}	そんなの　ボクのおうちにあった？{Wait for input}{emote: Thought}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}なんか　あんまり　つかわなそうだし、	それキミに　あげちゃうよ、{pause 8}{catchphrase}{000f-0005-0004-0015-0028}	もらっとく！	いらな～い
+"004"	{emote: Surprise}{0007-000a-0000}あぁ！　{0011-0003-0002-0000}！{pause 40}	そんなの　{ruby (charSpan 1): ひ}引っぱり{ruby (charSpan 1): だ}出してきて～{Wait for input}{emote: Worry}ボクって　いらないものでも	すてられないんだよねぇ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Player nickname (green)}{0005-000d-0000}　もらってよぉ！{000f-0005-0004-0015-0028}	もらいます	いらないや
+"005"	{emote: Surprise}{0007-000a-0000}あ、{pause 20}{0011-0003-0002-0000}！{pause 40}	{emote: Reset}それ　もう　つかわないから	おくの{ruby (charSpan 1): ほう}方に　しまっておいたんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}そうだ！{pause 20}	キミに　あげるよぉ～	{ruby (charSpan 1): み}見つけた　きねんだねぇ、{pause 8}{catchphrase}！{000f-0005-0004-0015-0028}	いただくよ！	いらないや
+"006"	{emote: Sigh}なんだぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	もらってくれたら　いいのにぃ、{pause 8}{catchphrase}
+"007"	{emote: Happiness}じゃあ、また　しまっておくよぉ
+"008"	{emote: Worry}うぅ～ん{pause 20}	そっかぁ{pause 8}・{pause 8}・{pause 8}・
+"009"	{emote: Happiness}やったぁ～{pause 20}	キミがもらってくれて、	そのコも　うれしいと{ruby (charSpan 1): おも}思うよぉ
+"010"	{emote: Joy}わぁ～い！　よかったぁ～{pause 40}	そのまま　もって{ruby (charSpan 1): かえ}帰ってねぇ
+"011"	{emote: Laughter}えへへ～{pause 20}	ボクも　たすかっちゃったぁ、{pause 8}{catchphrase}

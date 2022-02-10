@@ -1,30 +1,30 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{pause 5}
-"003"	{pause 5}
-"004"	イベントの　お{ruby (charSpan 1): とも}供に	ちょっとしたグッズも　ございますので、{pause 10}
-"005"	イベントの　お{ruby (charSpan 1): とも}供に	ちょっとしたグッズも　ございますので、{pause 10}
-"006"	その　{0011-0003-0002-00-00}
-"007"	{pause 5}
-"008"	{emote: Joy}
-"009"	{pause 5}
-"010"	{emote: Joy}
-"011"	
-"012"	
-"013"	
-"014"	
-"016"		{emote: Star Yell}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	{emote: Happiness}
-"021"	いよいよ{ruby (charSpan 2): じかん}時間も　{ruby (charSpan 1): のこ}残りわずかなので、{pause 10}
-"022"	ご{ruby (charSpan 2): じぶん}自分で　デザインされた{ruby (charSpan 2): はなび}花火は	もう{pause 5}
-"023"	{emote: Happiness}
-"024"	{emote: Happiness}
-"025"	{Town name (pink)}
-"026"	{Town name (pink)}
-"027"	
-"028"	
-"029"	
-"030"	
+"001"	{emote: Happiness}{Town name (pink)}{ruby (charSpan 1): むら}村　{Blue}{ruby (charSpan 4): はなびたいかい}花火大会{Color Reset}に{pause 5}	ようこそ　お{ruby (charSpan 1): こ}越しくださいました！{Wait for input}{emote: Reset}{ruby (charSpan 1): みじか}短い{ruby (charSpan 2): じかん}時間では　ありますが、{pause 10}	{ruby (charSpan 1): なつ}夏の{ruby (charSpan 2): ほしぞら}星空に　{ruby (charSpan 1): さ}咲く{ruby (charSpan 1): はな}花たちを	どうぞ　お{ruby (charSpan 1): たの}楽しみください！
+"002"	{pause 5}{emote: Alarmed}{pause 10}あっ！{pause 10}　{Player name}{ruby (charSpan 2): そんちょう}村長！{pause 20}	{emote: Happiness}{Blue}{ruby (charSpan 4): はなびたいかい}花火大会{Color Reset}、{pause 10}{ruby (charSpan 1): たの}楽しんでらっしゃいますか？
+"003"	{pause 5}{emote: Alarmed}{pause 10}あっ！{pause 10}　{Player name}さん！{pause 20}	{emote: Happiness}{Blue}{ruby (charSpan 4): はなびたいかい}花火大会{Color Reset}、{pause 10}{ruby (charSpan 1): たの}楽しんでらっしゃいますか？
+"004"	イベントの　お{ruby (charSpan 1): とも}供に	ちょっとしたグッズも　ございますので、{pause 10}	{emote: Happiness}よろしければ　お{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取りください！{Wait for input}{emote: Reset}ただし、{pause 10}{ruby (charSpan 2): にもつ}荷物がいっぱいだと	お{ruby (charSpan 1): わた}渡しできないので、{pause 10}	{ruby (charSpan 2): にもつ}荷物の{ruby (charSpan 1): すく}少ない{ruby (charSpan 1): とき}時に　お{ruby (charSpan 1): こえ}声がけくださいね！
+"005"	イベントの　お{ruby (charSpan 1): とも}供に	ちょっとしたグッズも　ございますので、{pause 10}	{emote: Happiness}よろしければ　お{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取りください！
+"006"	その　{0011-0003-0002-0000}を	{ruby (charSpan 1): み}身に{ruby (charSpan 1): つ}着けると、{pause 10}{ruby (charSpan 2): はなび}花火に{ruby (charSpan 1): ま}負けないぐらい	{ruby (charSpan 1): ひか}光り{ruby (charSpan 1): かがや}輝けるんですよ！{Wait for input}{emote: Happiness}よかったら{pause 5}　{ruby (charSpan 1): み}身に{ruby (charSpan 1): つ}着けてみて	くださいね～！
+"007"	{pause 5}{emote: Alarmed}{pause 10}あっ！{pause 10}　そうそう！{pause 20}	{emote: Happiness}これ、{pause 10}よかったら　どうぞ！
+"008"	{emote: Joy}その　{0011-0003-0002-0000}で、{pause 10}	もっともっと　{ruby (charSpan 2): はなび}花火を	{ruby (charSpan 1): たの}楽しんでくださいね！
+"009"	{pause 5}{emote: Alarmed}{pause 10}あっ！{pause 10}　そうだ！{pause 20}	{emote: Happiness}これ、{pause 10}もうひとつ　どうぞ！
+"010"	{emote: Joy}その　{0011-0003-0002-0000}で、{pause 10}	もっともっと　{Blue}{ruby (charSpan 4): はなびたいかい}花火大会{Color Reset}を	{ruby (charSpan 1): も}盛り{ruby (charSpan 1): あ}上げてくださいね！
+"011"
+"012"
+"013"
+"014"
+"016"		{emote: Star Yell}{pause 15}{0007-0004-0000}{0007-000b-0000}{Text size 150%}た～まやぁ～！{Text size 100%}{0007-0005-0000}{Wait <002d 0000> 'time'}{Wait for input}{emote: Sunny}ふぅ！{pause 15}	やっぱり{ruby (charSpan 2): はなび}花火といったら	コレですよね～！
+"017"	{emote: Happiness}{ruby (charSpan 2): はなび}花火を　キレイに{ruby (charSpan 1): み}見るコツは、{pause 10}	の{ruby (charSpan 1): うえ}上を{ruby (charSpan 1): お}押して　{ruby (charSpan 2): よぞら}夜空を	{ruby (charSpan 1): おも}思いっきり　{ruby (charSpan 2): みあ}見上げることですよ！
+"018"	{emote: Happiness}こうやって　{ruby (charSpan 1): だれ}誰かと{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 1): み}見る{ruby (charSpan 2): はなび}花火は、{pause 10}	いつもよりも　もっと	キレイに　{ruby (charSpan 1): み}見えますね！
+"019"	{emote: Happiness}{Blue}{ruby (charSpan 4): はなびたいかい}花火大会{Color Reset}は　{ruby (charSpan 1): はじ}始まったばかりです！{Wait for input}	{ruby (charSpan 2): ぞんぶん}存分に　{ruby (charSpan 1): たの}楽しんでくださいね！
+"020"	{emote: Happiness}まだまだ　どんどん{ruby (charSpan 1): う}打ち{ruby (charSpan 1): あ}上がりますので、{pause 10}	{ruby (charSpan 1): こころ}心ゆくまで　お{ruby (charSpan 1): たの}楽しみください！
+"021"	いよいよ{ruby (charSpan 2): じかん}時間も　{ruby (charSpan 1): のこ}残りわずかなので、{pause 10}	{emote: Happiness}しっかりと　{ruby (charSpan 2): みおさ}見納めてくださいね！
+"022"	ご{ruby (charSpan 2): じぶん}自分で　デザインされた{ruby (charSpan 2): はなび}花火は	もう{pause 5}　{emote: Curious}{ruby (charSpan 1): み}見られましたか？{Wait for input}{emote: Happiness}ちょくちょく　{ruby (charSpan 1): う}打ち{ruby (charSpan 1): あ}上がりますので{pause 10}	{ruby (charSpan 1): そら}空を　よ～く{ruby (charSpan 1): み}見ててくださいね！
+"023"	{emote: Happiness}やっぱり　{ruby (charSpan 2): はなび}花火は{pause 5}	{Town name (pink)}{ruby (charSpan 1): むら}村のが　{ruby (charSpan 2): いちばん}一番ですね！{Wait for input}{ruby (charSpan 1): とく}特に　オリジナルデザインの{ruby (charSpan 2): はなび}花火は	サイコーです！
+"024"	{emote: Happiness}やっぱり　{ruby (charSpan 2): はなび}花火は{pause 5}	{Town name (pink)}{ruby (charSpan 1): むら}村で{ruby (charSpan 1): み}見るのが　{ruby (charSpan 2): いちばん}一番ですね！
+"025"	{Town name (pink)}{ruby (charSpan 1): むら}村の　{ruby (charSpan 2): はなび}花火は	{pause 5}{emote: Curious}いかがですか？{Wait for input}{emote: Happiness}オリジナルデザインの{ruby (charSpan 2): はなび}花火も	{ruby (charSpan 1): う}打ち{ruby (charSpan 1): あ}上がりますので、{pause 10}	ぜひ　{ruby (charSpan 1): み}見ていってくださいね！
+"026"	{Town name (pink)}{ruby (charSpan 1): むら}村の　{ruby (charSpan 2): はなび}花火は	{pause 5}{emote: Curious}いかがですか？{Wait for input}	{emote: Happiness}{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってくださると　いいんですけど！
+"027"
+"028"
+"029"
+"030"

@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Joy}
-"002"	{emote: Flourish}
-"003"	{emote: Happiness}
+"001"	{emote: Joy}やったぁ～！{pause 20}	それじゃあ　{ruby (charSpan 1): いま}今から{ruby (charSpan 1): い}行こ～！
+"002"	{emote: Flourish}よぉ～し！{pause 20}	それじゃあ、しゅっぱ～つ！
+"003"	{emote: Happiness}えへへ～{pause 20}	じゃあ　{Player nickname (green)}{0005-000d-0000}、	{ruby (charSpan 1): みち}道あんない　たのむよぉ～{Wait for input}{emote: Bashful}ボク{pause 20}　ここから　おうちまでの{ruby (charSpan 1): みち}道、{pause 20}	よくわかんないからさぁ、{pause 8}{catchphrase}

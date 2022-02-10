@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Resigned}
-"003"	{emote: Glee}
-"004"	{emote: Glee}
-"005"	{emote: Glee}
-"006"	ってことで{pause 10}
-"007"	ってことで{pause 10}
-"008"	{emote: Laughter}
-"009"	{emote: Happiness}
-"010"	{emote: Glee}
-"011"	{ruby (charSpan 1): いま}今の　{ruby (charSpan 2): けっか}結果は{pause 8}
-"012"	{emote: Bashful}
-"013"	{emote: Anger}
-"014"	{emote: Aggravation}
-"015"	{emote: Aggravation}
-"016"	{emote: Glee}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	{emote: Resigned}
-"021"	{emote: Resigned}
-"022"	{0009-0000-0004-0a-00-0c-00}
-"023"	{0009-0000-0004-0b-00-10-00}
-"024"	{0009-0000-0004-0a-00-0b-00}
+"001"	{emote: Happiness}ねぇ、{pause 20}こうしてても タイクツだし{pause 15}	{ruby (charSpan 1): なん}何か　{pause 5}ゲームしない？{Wait for input}{emote: Inspired}そうだ！{pause 20}	{ruby (charSpan 2): さいきん}最近{ruby (charSpan 2): はやり}流行の{pause 10}「ほめ{ruby (charSpan 2): じょうず}上手ゲーム」しようよ！{Wait for input}{0007-000d-0000}{emote: Happiness}アタイを　うまくほめれたら{pause 10}	おトクな　ねだんで{pause 10}	アイテムを　{pause 5}ゲットできちゃうよ！{Player can respond (0005):0008-0015-0002-0028}	やってみる！	やめとく
+"002"	{emote: Resigned}なーんだ　{pause 20}つまんないの！
+"003"	{emote: Glee}じゃあ　{pause 10}{ruby (charSpan 2): きぶん}気分もいいし{pause 15}	はい　{pause 20}タダであげちゃうよ！
+"004"	{emote: Glee}そんな　{pause 10}ほめ{ruby (charSpan 2): じょうず}上手なコには{pause 15}	{Blue}{Number (0x9)}ベル{Color Reset}で　{pause 5}ゆずったげる
+"005"	{emote: Glee}もう！　{pause 20}{emote: Glare}ほめ{ruby (charSpan 2): じょうず}上手なんだから～{Wait for input}	{emote: Happiness}ってことで{pause 10}	{Blue}{Number (0x9)}ベル{Color Reset}で　{pause 5}ゆずったげる
+"006"	ってことで{pause 10}	{Blue}{Number (0x9)}ベル{Color Reset}で　{pause 5}{ruby (charSpan 1): か}買ってもらうよ！
+"007"	ってことで{pause 10}	{Blue}{Number (0x9)}ベル{Color Reset}で　{pause 5}{ruby (charSpan 1): か}買ってもらうよ！
+"008"	{emote: Laughter}そうこなくっちゃ！{pause 30}	{emote: Happiness}じゃあ　{pause 10}ルールを{ruby (charSpan 2): せつめい}説明するね{Wait for input}やり{ruby (charSpan 1): かた}方は　{pause 10}カンタン！{pause 20}	アタイが{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入る　ほめ{ruby (charSpan 2): ことば}言葉を{pause 15}	3つの{ruby (charSpan 2): ことば}言葉の{ruby (charSpan 1): なか}中から　{pause 5}{ruby (charSpan 1): えら}選ぶだけだよ！	{emote: Glee}アタイが　{ruby (charSpan 1): す}好きな{ruby (charSpan 2): ことば}言葉だったら、{pause 15}	{0011-0003-0002-0000}を{pause 10}	ちょーお{ruby (charSpan 1): か}買い{ruby (charSpan 1): どく}得なねだんで　{pause 10}ゆずったげる	でも、{pause 15}もし　アタイが{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入らなかったら{pause 15}	それなりの　ねだんになっちゃうけどね！{pause 20}	{emote: Happiness}どう？　{pause 20}{ruby (charSpan 2): おもしろ}面白そうでしょ？{Player can respond (0005):0009-0015-0002-0028}	いいね！	やっぱやめる
+"009"	{emote: Happiness}オッケー！{pause 20}	さっそく　{ruby (charSpan 3): いちもんめ}一問目いくよ！{Wait for input}アタイの{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入る　{pause 5}ほめ{ruby (charSpan 2): ことば}言葉は{pause 15}	ど～れだ？！{Player can respond (0001):0016-0000-0016-0000-000d-0000}	カワイイ	オシャレ	フツー
+"010"	{emote: Glee}キャハハ！{pause 10}	うんうん、{pause 15}いいカンジ！{emote: Soft Smile}{Wait for input}{emote: Happiness}{ruby (charSpan 1): いま}今の{ruby (charSpan 2): けっか}結果は{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Joy}{ruby (charSpan 1): あ}当ったり～！！{pause 30}{emote: Soft Smile}{Wait for input}{emote: Happiness}ゲームとはいえ{pause 10}	{ruby (charSpan 1): い}言われると　{pause 5}うれしいよね～！{0009-0001-0006-0003-0004-0005}
+"011"	{ruby (charSpan 1): いま}今の　{ruby (charSpan 2): けっか}結果は{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Joy}{ruby (charSpan 1): あ}当ったり～！！{pause 30}{emote: Soft Smile}{Wait for input}{emote: Glee}ゲームとはいえ{pause 10}	そう{ruby (charSpan 1): い}言われると　{pause 5}テレるな～！{0009-0001-0006-0004-0004-0005}
+"012"	{emote: Bashful}キャハハ！{pause 10}	ゲームとはいえ　{pause 10}テレるなぁ{pause 30}{emote: Soft Smile}{Wait for input}{emote: Reset}でも　{pause 10}{ruby (charSpan 1): いま}今　{ruby (charSpan 1): い}言われたい{pause 5}	ほめ{ruby (charSpan 2): ことば}言葉じゃなかったかも{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}おしいから　{pause 10}もう{ruby (charSpan 2): いちもん}一問ね！{pause 30}	アタイの{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入る　{pause 5}ほめ{ruby (charSpan 2): ことば}言葉は、{pause 15}ど～れだ？{Player can respond (0001):0017-0000-0017-0000-000e-0000}	ちょーイケてる	ちょーラブリー	ちょーフツー
+"013"	{emote: Anger}ちょっと～！{pause 20}	せっかく　{pause 10}わかりやす～い{ruby (charSpan 2): もんだい}問題{pause 5}	{ruby (charSpan 1): だ}出してあげたのに、{pause 10}{ruby (charSpan 1): なに}何よ　{pause 5}それ！	{emote: Happiness}でも{pause 10}	そういう　{pause 10}{ruby (charSpan 2): しょうじき}正直なひと　{ruby (charSpan 1): す}好きだから{pause 10}	{ruby (charSpan 2): きょう}今日は　{pause 8}{ruby (charSpan 1): ゆる}許してあげる	じゃあ　{pause 15}もう{ruby (charSpan 2): いちもん}一問ね！{pause 20}	アタイの{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入る　{pause 5}ほめ{ruby (charSpan 2): ことば}言葉は、{pause 15}ど～れだ？{Player can respond (0001):0018-0000-0018-0000-000f-0000}	ちょーイケてる	ちょーラブリー	ちょーフツー
+"014"	{emote: Aggravation}んもう！{pause 10}	そんなこと{ruby (charSpan 1): い}言われたくないよ～！{Wait for input}	{emote: Worry}もしかして　{pause 10}わざとなの？！{0009-0000-0004-0006-0007}
+"015"	{emote: Aggravation}んもう！{pause 10}	せっかく　チャンスあげたのに！{pause 20}	{emote: Distress}そんなこと　{pause 10}{ruby (charSpan 1): い}言われたくないよ～！{0009-0000-0004-0006-0007}
+"016"	{emote: Glee}キャハハ！{pause 30}	なかなか　いいチョイスだね！{Wait for input}{emote: Happiness}でも　{pause 10}{ruby (charSpan 1): いま}今　{ruby (charSpan 1): い}言われたかったのとは{pause 10}	ちがうんだよなぁ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}ラスト　{pause 10}もう{ruby (charSpan 2): いちもん}一問ね！{Wait for input}{ruby (charSpan 2): さいご}最後は　{pause 10}この　2つだよ！{Wait for input}	アタイが　{pause 10}{ruby (charSpan 1): い}言われて　うれしいのは{pause 15}	ど～っちだ？！{Player can respond (0000):000b-0000-000f-0000}	バラの{ruby (charSpan 1): はな}花のようだ！	バラのトゲのようだ！
+"017"	{emote: Happiness}けっこう　{pause 10}おもしろかったでしょ{pause 20}	また{ruby (charSpan 1): あそ}遊んでね、{pause 15}{catchphrase}！
+"018"	{emote: Happiness}また　{ruby (charSpan 2): じかん}時間あったら{pause 10}	よろしく～、{pause 15}{catchphrase}！
+"019"	{emote: Happiness}{ruby (charSpan 1): あそ}遊んでくれて　{pause 10}ありがとう！{pause 25}	アタイも　{pause 5}{ruby (charSpan 1): たの}楽しかった～、{pause 15}{catchphrase}
+"020"	{emote: Resigned}{ruby (charSpan 1): つぎ}次は、{pause 10}もうちょっと{pause 5}	がんばってよね！
+"021"	{emote: Resigned}{ruby (charSpan 1): つぎ}次は、{pause 10}ちゃんと{ruby (charSpan 1): あ}当ててよね！
+"022"	{0009-0000-0004-000a-000c}
+"023"	{0009-0000-0004-000b-0010}
+"024"	{0009-0000-0004-000a-000b}

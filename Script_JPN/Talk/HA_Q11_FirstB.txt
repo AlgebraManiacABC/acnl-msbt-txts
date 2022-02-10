@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Sadness}
-"002"	{emote: Happiness}
-"003"	{emote: Sadness}
-"004"	{emote: Sneezing}
-"005"	{emote: Sadness}
-"006"	{emote: Glee}
-"007"		{emote: Sneezing}
-"008"	{emote: Sigh}
-"009"		{emote: Sneezing}
+"001"	{emote: Sadness}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	オイラ　カゼひいちゃったっぽい{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}でも{pause 20}　{0011-0000-0002-0000}にもらった	{Blue}おくすり{Color Reset}も{ruby (charSpan 1): の}飲んだし、{pause 20}	{ruby (charSpan 2): もんだい}問題ないぞー！
+"002"	{emote: Happiness}ヨッシャー！{pause 20}　{ruby (charSpan 1): なに}何して{ruby (charSpan 1): あそ}遊ぼうかー？{pause 40}	{emote: Reset}と、{pause 8}いきたいとこだけど{pause 40}	{emote: Sadness}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): ちょうし}調子{ruby (charSpan 1): わる}悪いんだ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Disagreement}あ、{pause 20}でも　{ruby (charSpan 2): しんぱい}心配はしなくていいぞ？{pause 40}	{emote: Happiness}{0011-0000-0002-0000}が　{Blue}おくすり{Color Reset}をくれたんだー
+"003"	{emote: Sadness}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}　{ruby (charSpan 1): からだ}体が{ruby (charSpan 1): おも}重い{Wait for input}	いつも{ruby (charSpan 1): どお}通りの　トレーニングは、	ちょっと　ムリっぽいな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}でも　{0011-0000-0002-0000}がくれた　{Blue}おくすり{Color Reset}	グイッと　{ruby (charSpan 1): の}飲んだし、{pause 40}	きっと　すぐに　{ruby (charSpan 1): なお}治るよな！
+"004"	{emote: Sneezing}ハーッ{pause 20}{0007-000b-0000}クション！{Wait for input}	{emote: Worry}ちぇーっ！{pause 20}　オイラがカゼになるなんてー！{Wait for input}{emote: Happiness}でも、{pause 20}{Blue}おくすり{Color Reset}{ruby (charSpan 1): の}飲んでおいたから	すぐ{ruby (charSpan 1): なお}治るはずだー{pause 40}	{0011-0000-0002-0000}が　{ruby (charSpan 1): も}持ってきてくれたんだぞ
+"005"	{emote: Sadness}こんなに　きたえてても、	カゼって　ひくんだなー{Wait for input}	なんか　くやしいぞー、{pause 8}{catchphrase}{Wait for input}{0011-0000-0002-0000}がくれた　{Blue}おくすり{Color Reset}、{pause 20}	{ruby (charSpan 1): はや}早く　きいてこないかな、{pause 8}{catchphrase}
+"006"	{emote: Glee}へっちゃら　へっちゃらー{Wait for input}	{emote: Sadness}って{ruby (charSpan 1): い}言いたいけど、{pause 40}	コレは　ちょっぴりヤバイかも{pause 8}・{pause 8}・{pause 8}・{Wait for input}さっき　{0011-0000-0002-0000}が	{Blue}おくすり{Color Reset}をくれたから、	{ruby (charSpan 1): の}飲んでみたんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}オイラ　このまま	{ruby (charSpan 1): なお}治らなかったら　どうしよー！
+"007"		{emote: Sneezing}{Text size 150%}ハーーッ{Text size 100%}{pause 20}{0007-000b-0000}{Text size 150%}クション！{Text size 100%}{Wait for input}{emote: Sadness}オイラとしたことが{pause 8}・{pause 8}・{pause 8}・{pause 20}	ふがいないな、{pause 8}{catchphrase}{Wait for input}{0011-0000-0002-0000}から	{Blue}おくすり{Color Reset}　もらったけど、{pause 20}	コレ　きいてるのかな
+"008"	{emote: Sigh}{0011-0000-0002-0000}からもらった　{Blue}おくすり{Color Reset}、{pause 40}	そろそろ　きいてくるころかな、{pause 8}{catchphrase}{Wait for input}{emote: Distress}おーい！{pause 20}	オイラの{ruby (charSpan 1): からだ}体ー！{pause 20}	カゼなんかに　{ruby (charSpan 1): ま}負けるなー！
+"009"		{emote: Sneezing}{Text size 150%}ハーーッ{Text size 100%}{pause 20}{0007-000b-0000}{Text size 150%}クション！{Text size 100%}{Wait for input}{emote: Sigh}さっき　{0011-0000-0002-0000}がくれた{pause 20}	{Blue}おくすり{Color Reset}　{ruby (charSpan 1): の}飲んだから、{pause 20}	ちょっとは　マシになるといいなぁ{Wait for input}{emote: Anger}もし　{ruby (charSpan 1): なお}治らなかったら	{Player nickname (green)}！{pause 40}	{Town name (pink)}{ruby (charSpan 1): むら}村のこと　たのんだぞ{pause 8}・{pause 8}・{pause 8}・

@@ -1,138 +1,138 @@
 == 0 ==
-"001"	Hey, {pause 8}
-"002"	{emote: Worry}
-"003"	{emote: Star Yell}
-"004"	{emote: Soft Smile}
-"005"	{emote: Delight}
-"006"	{emote: Sheepishness}
-"007"	{emote: Shocked}
-"008"	{emote: Sunny}
-"009"	{emote: Soft Smile}
-"010"	{emote: Sheepishness}
-"011"	{0009-0003-000a-0c-00-0c-00-0c-00-0d-00-0e-00}
-"012"	{emote: Curious}
-"013"	{emote: Thought}
-"014"	{emote: Curious}
-"015"	{0009-0002-0008-11-00-11-00-12-00-13-00}
-"016"	{0009-0003-000a-14-00-14-00-14-00-15-00-16-00}
-"017"	OK, {pause 8}
-"018"	{emote: Thought}
-"019"	{emote: Thought}
-"020"	This one, {pause 8}
-"021"	And{pause 8}
-"022"	And{pause 8}
-"023"	{0009-0003-000a-1b-00-1c-00-1c-00-1d-00-1d-00}
-"024"	{0009-0001-0006-1e-00-1f-00-20-00}
-"025"	{0009-0001-0006-21-00-22-00-23-00}
-"026"	{0009-0002-0008-24-00-24-00-25-00-26-00}
-"027"	{emote: Happiness}
-"028"	{emote: Distress}
-"029"	{emote: Distress}
-"030"	All right,{pause 8}
-"031"	{emote: Curious}
-"032"	{emote: Curious}
-"033"	{emote: Sheepishness}
-"034"	{emote: Happiness}
-"035"	{emote: Happiness}
-"036"	{emote: Worry}
-"037"	{emote: Sheepishness}
-"038"	{emote: Sheepishness}
-"039"	{emote: Sunny}
-"040"	{emote: Thought}
-"041"	{emote: Happiness}
-"042"	{emote: Happiness}
-"043"	{emote: Resigned}
-"044"	
-"045"	
+"001"	Hey, {pause 8}you! {pause 16}{emote: Mischief}Feel like playing a little	game? {pause 16}Let's play for my	{0011-0003-0002-0000}.	{0007-000d-0000}{emote: Thought}If you do well, {pause 8}you could get it for	free! {pause 16}{emote: Glare}Otherwise, {pause 8}you have to buy it	at whatever price I choose.	{emote: Agreement}We'll play a little game I like to call	Find the Queen. {pause 16}{emote: Curious}What do you say?{Player can respond (0005):0008-0015-0002-0028}	Let's do it!	Not right now.
+"002"	{emote: Worry}{capitalized}{catchphrase}, {pause 8}that's too bad. {pause 16}I was	looking forward to a little	excitement. {pause 16}Maybe next time.
+"003"	{emote: Star Yell}You did it! {pause 16}You just won my	{0011-0003-0002-0000} for free.{pause 16}	{emote: Sheepishness}Well played.
+"004"	{emote: Soft Smile}Not bad, {pause 8}not bad. {pause 16}Two queens	means I'll sell it to you for only	{Blue}{Number (0x9)} Bells{Color Reset}!
+"005"	{emote: Delight}Nice work!{pause 16} You found 2 of the	queens, {pause 8}so I'll sell it to you	for{pause 8}.{pause 8}.{pause 8}.{pause 8}{Blue}{Number (0x9)} Bells{Color Reset}.
+"006"	{emote: Sheepishness}Well, {pause 8}at least you found 1 of the	queens. {pause 16}{emote: Mischief}That means it will cost you	{Blue}{Number (0x9)} Bells{Color Reset}.
+"007"	{emote: Shocked}{capitalized}{catchphrase}! {pause 16}Sorry to do this to	you, {pause 8}{emote: Sheepishness}but I have no choice but to	charge {Blue}{Number (0x9)} Bells{Color Reset}.
+"008"	{emote: Sunny}All right!{pause 16} Let's do this. {pause 16}Oh,{emote: Curious}{pause 8} do you	need a little more information about	how the game works?{Player can respond (0005):0009-0015-000a-0028}	Yes, please.	I know how to play.
+"009"	{emote: Soft Smile}No problem.{pause 16} OK,{pause 8} the game is played	with 3 cards. {pause 16}There's a jack,{pause 8} a	queen,{pause 8} and a king.	I'll shuffle the cards and then have	you pick one. {pause 16}{emote: Surprise}If you pick the queen,{pause 8}	you win!	{emote: Agreement}It's as simple as that. {pause 16}Pick the	queen 3 times in a row, and the	{0011-0003-0002-0000} is free!	{emote: Sheepishness}If you pick the queen 1 or 2	times,{pause 8} then you'll have to pay a	little something for it.	And if you can't manage to find the	queen at all{pause 8}.{pause 8}.{pause 8}.{pause 8}well{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Mischief}then it's going to	cost you a pretty penny.	I think that covers it{pause 8}.{pause 8}.{pause 8}.{pause 8} So let's get	started! {pause 16}Pick a card,{pause 8} any card.{Player can respond (0001):000b-0000-000b-0000-000b-0000}	The left card.	The middle card.	The right card.
+"010"	{emote: Sheepishness}You're an old pro, {pause 8}eh?{pause 16} {emote: Mischief}All right then,{pause 8}	let's play.{pause 16} Pick a card, {pause 8}any card.{Player can respond (0001):000b-0000-000b-0000-000b-0000}	The left card.	The middle card.	The right card.
+"011"	{0009-0003-000a-000c-000c-000c-000d-000e}
+"012"	{emote: Curious}Are you sure? {Wait for input}Well{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Delight}good choice!{pause 16}	You found the queen!{Wait for input}{emote: Sheepishness}You win this round{pause 8}.{pause 8}.{pause 8}.{pause 8}but there are	2 more rounds to go.{pause 16} Choose	another card{pause 8}.{pause 8}.{pause 8}.{pause 8}{Player can respond (0001):000f-0000-000f-0000-000f-0000}	The left card.	The middle card.	The right card.
+"013"	{emote: Thought}OK, {pause 8}was this the card you wanted?{Wait for input}	Oh{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sadness}too bad. {pause 16}It's the king.{Wait for input}{emote: Sheepishness}That's OK. {pause 8}You have 2 more tries	to find a queen. {pause 16}Ready? {pause 16}Choose	another card!{Player can respond (0001):0010-0000-0010-0000-0010-0000}	The left card.	The middle card.	The right card.
+"014"	{emote: Curious}This is the card you wanted?{Wait for input}	{capitalized}{catchphrase},{pause 8} it's the{pause 8}.{pause 8}.{pause 8}.{pause 32}jack. {pause 16}{emote: Worry}So	sorry.	{emote: Happiness}Not to worry—{pause 8}you get 2 more	tries. {pause 16}Starting now!{pause 16} Pick a card,{pause 8}	any card.{Player can respond (0001):0010-0000-0010-0000-0010-0000}	The left card.	The middle card.	The right card.
+"015"	{0009-0002-0008-0011-0011-0012-0013}
+"016"	{0009-0003-000a-0014-0014-0014-0015-0016}
+"017"	OK, {pause 8}here's the card you chose.{pause 16} It	feels like a winner{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Delight}and it is!{pause 16} Wow,{pause 8}	that's 2 queens in a row!	{emote: Agreement}All right,{pause 8} last round. {pause 16}One more	queen and you're the big winner.{pause 16}	{emote: Sheepishness}No pressure. {pause 8}Choose a card{pause 8}.{pause 8}.{pause 8}.{pause 8}{Player can respond (0001):0017-0000-0017-0000-0017-0000}	The left card.	The middle card.	The right card.
+"018"	{emote: Thought}All right,{pause 8} you're pretty lucky.{pause 8} Let's	see if you can keep it up.{pause 16} Oh! {pause 40}{emote: Resigned}Sorry.{pause 8}	You chose a king.	That's OK.{pause 16} You have one more	chance to get a real bargain.{pause 16} {emote: Mischief}So{pause 8}	choose a card{pause 8}.{pause 8}.{pause 8}.{pause 8}{Player can respond (0001):0018-0000-0018-0000-0018-0000}	The left card.	The middle card.	The right card.
+"019"	{emote: Thought}All right,{pause 8} you're pretty lucky.{pause 8} Let's	see if you can keep it up.{pause 16} Oh! {pause 40}{emote: Resigned}Sorry.{pause 8}	You chose a jack.	That's OK.{pause 16} You have 1 more	chance to get a real bargain.{pause 16} {emote: Mischief}So{pause 8}	choose a card{pause 8}.{pause 8}.{pause 8}.{pause 8}{Player can respond (0001):0018-0000-0018-0000-0018-0000}	The left card.	The middle card.	The right card.
+"020"	This one, {pause 8}right? {Wait for input}Ooh, {pause 40}good choice.{pause 16}	{emote: Delight}It's the queen! {capitalized}{catchphrase}!{Wait for input}{emote: Thought}Now you've got 1 more chance.{pause 16}	{emote: Surprise}You could still get a good deal! {pause 16}Just	pick any card{pause 8}.{pause 8}.{pause 8}.{pause 8}{Player can respond (0001):0019-0000-0019-0000-0019-0000}	The left card.	The middle card.	The right card.
+"021"	And{pause 8}.{pause 8}.{pause 8}.{pause 8}you made a great choice{pause 8}.{pause 8}.{pause 8}.{pause 32}{emote: Sadness}is	what I would be saying if you hadn't	just picked the king.	{emote: Worry}So sorry. {pause 16}At least you've got 1	more chance at this thing. {pause 16}{emote: Sheepishness}So{pause 8} pick a	card{pause 8}.{pause 8}.{pause 8}.{pause 8}{Player can respond (0001):001a-0000-001a-0000-001a-0000}	The left card.	The middle card.	The right card.
+"022"	And{pause 8}.{pause 8}.{pause 8}.{pause 8}you made a great choice{pause 8}.{pause 8}.{pause 8}.{pause 32}{emote: Sadness}is	what I would be saying if you hadn't	just picked the jack.	{emote: Worry}So sorry. {pause 16}At least you've got 1	more chance at this thing. {pause 16}{emote: Sheepishness}So{pause 8} pick a	card{pause 8}.{pause 8}.{pause 8}.{pause 8}{Player can respond (0001):001a-0000-001a-0000-001a-0000}	The left card.	The middle card.	The right card.
+"023"	{0009-0003-000a-001b-001c-001c-001d-001d}
+"024"	{0009-0001-0006-001e-001f-0020}
+"025"	{0009-0001-0006-0021-0022-0023}
+"026"	{0009-0002-0008-0024-0024-0025-0026}
+"027"	{emote: Happiness}You're doing so well! {pause 16}Last card{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Curious}Are you sure you want that one? {Wait for input}	OK,{pause 8} here we go{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Disbelief}{capitalized}{catchphrase},{pause 40} you did it!{pause 16} Three	queens in a row. {pause 16}{emote: Delight}I'm not even mad!{pause 8}	That's just incredible!
+"028"	{emote: Distress}Here's your chance for the trifecta.{pause 16}	And{pause 8}.{pause 8}.{pause 8}.{pause 8}it's{pause 8}.{pause 8}.{pause 8}.{pause 40}not in the cards.{pause 16} {emote: Sadness}You got	a king.	{emote: Surprise}Wow, {pause 8}you were really close to a	perfect score. {pause 16}{emote: Thought}But 2 out of 3	isn't bad at all!{0009-0002-0008-0004-0005-0005-0005}
+"029"	{emote: Distress}Here's your chance for the trifecta.{pause 16}	And{pause 8}.{pause 8}.{pause 8}.{pause 8}it's{pause 8}.{pause 8}.{pause 8}.{pause 40}not in the cards.{pause 16} {emote: Sadness}You got	a jack.	{emote: Surprise}Wow, {pause 8}you were really close to a	perfect score. {pause 16}{emote: Thought}But 2 out of 3	isn't bad at all!{0009-0002-0008-0004-0005-0005-0005}
+"030"	All right,{pause 8} let's see what you picked.{Wait for input}	It's{pause 8}.{pause 8}.{pause 8}.{pause 8}a queen!{emote: Delight}{pause 16} {capitalized}{catchphrase}, {pause 8}nice	work.	{emote: Star Yell}Congratulations! {pause 16}{emote: Agreement}Two out of 3	means you're going to get a pretty	good deal.{0009-0002-0008-0004-0005-0005-0005}
+"031"	{emote: Curious}This is the card you want, {pause 8}right?{Wait for input} Oh,{pause 16}	I didn't see this coming{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Alarmed} It's a king.{pause 16}	{capitalized}{catchphrase}!	{emote: Thought}Well, {pause 8}you started out on fire{pause 8}.{pause 8}.{pause 8}.{pause 8}but	you couldn't keep it up.{pause 16} {emote: Soft Smile}Better luck	next time!
+"032"	{emote: Curious}This is the card you want, {pause 8}right?{Wait for input} Oh,{pause 16}	I didn't see this coming{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Alarmed} It's a jack.{pause 16}	{capitalized}{catchphrase}!	{emote: Thought}Well, {pause 8}you started out on fire{pause 8}.{pause 8}.{pause 8}.{pause 8}but	you couldn't keep it up.{pause 16} {emote: Soft Smile}Better luck	next time!
+"033"	{emote: Sheepishness}All right,{pause 8} I've got the card you	chose in my hot little hand,{pause 8} and I'm	going to look at it now{pause 8}.{pause 8}.{pause 8}.{pause 8}	It's{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Sunny}another queen! {pause 16}{capitalized}{catchphrase},{pause 8}	you're good at this. {pause 16}What a	comeback!{0009-0002-0008-0004-0005-0005-0005}
+"034"	{emote: Happiness}Last chance{pause 8}.{pause 8}.{pause 8}.{pause 8} Let's see how ya did.{Wait for input}	{emote: Thought}OK, {pause 8}I've seen the card, and I will not	waste any more time in telling you{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Agreement}that it's been a pleasure and I hope	we can play this game again.{pause 40}	Oh, {pause 8}{emote: Sheepishness}and you had a king. {pause 16}Sorry!
+"035"	{emote: Happiness}Last chance{pause 8}.{pause 8}.{pause 8}.{pause 8} Let's see how ya did.{Wait for input}	{emote: Thought}OK, {pause 8}I've seen the card, and I will not	waste any more time in telling you{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Agreement}that it's been a pleasure and I hope	we can play this game again.{pause 40}	Oh, {pause 8}{emote: Sheepishness}and you had a jack. {pause 16}Sorry!
+"036"	{emote: Worry}It's your last chance{pause 8}.{pause 8}.{pause 8}.{pause 8}and believe it	or not,{pause 8} I'm pulling for you.{Wait for input}{emote: Surprise}{capitalized}{catchphrase}! {pause 16}{emote: Delight}You got the queen!{pause 16}	Nice save.
+"037"	{emote: Sheepishness}OK, {pause 8}it's your last chance{pause 8}.{pause 8}.{pause 8}.{pause 8} Let's see	how you did.{emote: Alarmed}{pause 16} {capitalized}{catchphrase}!{Wait for input}{emote: Surprise}A king! {pause 16}That's good!{pause 16} No, {pause 8}wait.{pause 8}	{emote: Sadness}That's bad.{pause 16} Especially since you	haven't found a single queen{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"038"	{emote: Sheepishness}OK, {pause 8}it's your last chance{pause 8}.{pause 8}.{pause 8}.{pause 8} Let's see	how you did.{emote: Alarmed}{pause 16} {capitalized}{catchphrase}!{Wait for input}{emote: Surprise}A jack! {pause 16}That's good!{pause 16} No, {pause 8}wait.{pause 8}	{emote: Sadness}That's bad.{pause 16} Especially since you	haven't found a single queen{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"039"	{emote: Sunny}Unbelievable{pause 8}.{pause 8}.{pause 8}.{pause 8} Three queens in	3 tries.{pause 16}{emote: Thought} It almost seems like this	game is rigged somehow.	{emote: Distress}Is it possible to be suspicious of	yourself?
+"040"	{emote: Thought}Hmmm, 2 out of 3 is pretty	good.{pause 16} {emote: Sheepishness}Are you sure you can't see	the other side of the cards?
+"041"	{emote: Happiness}I hope you're happy with your	purchase. {pause 16}{emote: Anger}You did get quite a	bargain{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"042"	{emote: Happiness}Cheer up. {pause 16}{emote: Agreement}We can play again later,	{pause 8}and you'll probably do better.	{pause 16}{capitalized}{catchphrase}!
+"043"	{emote: Resigned}Look, {pause 8}I can't believe you missed all	3 times either. {pause 16}{emote: Agreement}But I promise	the game is fair.	{emote: Curious}Why don't we play again sometime?{pause 16}	{emote: Glare}I guarantee at least a 70.37 percent	chance you'll get at least 1 queen.
+"044"
+"045"
 == 1 ==
-"001"	{emote: Mischief}
-"002"	{emote: Worry}
-"003"	{emote: Star Yell}
-"004"	{emote: Soft Smile}
-"005"	{emote: Delight}
-"006"	{emote: Sheepishness}
-"007"	{emote: Shocked}
-"008"	{emote: Sunny}
-"009"	{emote: Soft Smile}
-"010"	{emote: Sheepishness}
-"011"	{0009-0003-000a-0c-00-0c-00-0c-00-0d-00-0e-00}
-"012"	{emote: Curious}
-"013"	{emote: Thought}
-"014"	{emote: Curious}
-"015"	{0009-0002-0008-11-00-11-00-12-00-13-00}
-"016"	{0009-0003-000a-14-00-14-00-14-00-15-00-16-00}
-"017"	Has elegido esta carta.{pause 16}
-"018"	{emote: Thought}
-"019"	{emote: Thought}
-"020"	¿Esta? Mmm... {Wait for input}
-"021"	Ah, buena elección{pause 8}
-"022"	Y la elección ha sido{pause 8}
-"023"	{0009-0003-000a-1b-00-1c-00-1c-00-1d-00-1d-00}
-"024"	{0009-0001-0006-1e-00-1f-00-20-00}
-"025"	{0009-0001-0006-21-00-22-00-23-00}
-"026"	{0009-0002-0008-24-00-24-00-25-00-26-00}
-"027"	{emote: Happiness}
-"028"	{emote: Distress}
-"029"	{emote: Distress}
-"030"	Desvelemos la última carta.{Wait for input}
-"031"	{emote: Curious}
-"032"	Veamos qué te depara el destino.	{Wait for input}
-"033"	{emote: Soft Smile}
-"034"	{emote: Happiness}
-"035"	{emote: Happiness}
-"036"	{emote: Worry}
-"037"	{emote: Sheepishness}
-"038"	Esta carta lo decide todo.{Wait for input}
-"039"	{emote: Surprise}
-"040"	{emote: Thought}
-"041"	{emote: Happiness}
-"042"	{emote: Happiness}
-"043"	{emote: Resigned}
-"044"	
-"045"	
+"001"	{emote: Mischief}Dime, cielín, ¿te apetece jugar	a algo? {pause 16}El premio será mi	{0011-0003-0002-0000}.	{0007-000d-0000}{emote: Thought}¡Si tienes suerte, puede que te l{o/a/}	lleves gratis!{pause 16}{emote: Glare} Si no, tendrás que	pagar el precio que yo decida.	{emote: Agreement}El juego se llama {Blue}¿Dónde está la	reina?{Color Reset}{pause 16} ¿Te animas?{Player can respond (0005):0008-0000-0002-0028}	¡A jugar!	Ahora no
+"002"	{emote: Worry}Vaya, creía que lo encontrarías	divertido, {catchphrase}.
+"003"	{emote: Star Yell}¡Has ganado limpiamente!{pause 20} Mi	{0011-0003-0002-0000} es tod{o/a/}	tuy{o/a/}, ¡y gratis!{pause 20}{emote: Agreement} Bien jugado.
+"004"	{emote: Soft Smile}Como has encontrado dos reinas,	solo tienes que pagar {Blue}{Number (0x9)} bayas{Color Reset}.
+"005"	{emote: Delight}Como has encontrado dos reinas,	debes pagar{pause 8}.{pause 8}.{pause 8}.{pause 8} {Blue}{Number (0x9)} bayas{Color Reset}.
+"006"	{emote: Sheepishness}Bueno, al menos has encontrado	una reina. {pause 16}{emote: Mischief}Vas a tener que pagar	{Blue}{Number (0x9)} bayas{Color Reset}.
+"007"	{emote: Shocked}¡Lo siento, terroncín! Tengo que	pedirte {Blue}{Number (0x9)} bayas{Color Reset}.{pause 20}{emote: Worry} Las reglas	son las reglas.
+"008"	{emote: Sunny}¡De acuerdo!{pause 16} Vamos allá. {pause 16}Ah,{emote: Curious}{pause 8}	¿necesitas que te explique cómo	se juega, flor?{Player can respond (0005):0009-0015-000a-0028}	Sí, porfa	No hace falta
+"009"	{emote: Soft Smile}Muy bien. Se juega con tres cartas:	una sota, un rey y una reina.{Wait for input}Voy a barajarlas y tú tendrás que	escoger una.{pause 20} Si eliges la reina,	ganas. {pause 20}Así de fácil.	Jugaremos tres rondas, ¿vale?	¡Si las ganas todas, te daré mi	{0011-0003-0002-0000} gratis!	Sin embargo, si solo encuentras la	reina una o dos veces, tendrás que	pagar algo por el objeto.	En el caso de que no encuentres	ninguna reina.{pause 8}.{pause 8}.{pause 8} {emote: Resigned}me temo que este	juego te saldrá muy caro.	{emote: Soft Smile}Y esto es todo{pause 8}.{pause 8}.{pause 8}.{pause 8} ¡Empecemos!{pause 20}	Elige una carta, por favor.{Player can respond (0001):000b-0000-000b-0000-000b-0000}	La de la izquierda	La del centro	La de la derecha
+"010"	{emote: Sheepishness}Ya conoces el juego, {pause 8}¿eh?{pause 16} {emote: Mischief}Mejor.{pause 8}	Elige una carta, pues.{Player can respond (0001):000b-0000-000b-0000-000b-0000}	La de la izquierda	La del centro	La de la derecha
+"011"	{0009-0003-000a-000c-000c-000c-000d-000e}
+"012"	{emote: Curious}¿Estás segur{o/a}? {Wait for input}Pues me temo que{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Delight}	¡has acertado!{pause 16} ¡Es la reina!{Wait for input}{emote: Sheepishness}Tú ganas esta ronda, cielín.{pause 16}	Quedan dos.{pause 16} Elige otra carta{pause 8}.{pause 8}.{pause 8}.{pause 8}{Player can respond (0001):000f-0000-000f-0000-000f-0000}	La de la izquierda	La del centro	La de la derecha
+"013"	{emote: Thought}¿Es esta la carta que quieres?{Wait for input}	Pues{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sadness} es el rey. {pause 16}Qué lástima.{Wait for input}{emote: Sheepishness}No pasa nada, aún te quedan dos	rondas más. {pause 16}¿List{o/a}? {pause 16}¡Escoge	una carta!{Player can respond (0001):0010-0000-0010-0000-0010-0000}	La de la izquierda	La del centro	La de la derecha
+"014"	{emote: Curious}¿No prefieres otra?{Wait for input} Bueno, pues	has elegido{pause 8}.{pause 8}.{pause 8}.{pause 32} la sota. {pause 16}{emote: Worry}¡Lo siento!{Wait for input}{emote: Happiness}No te desanimes, flor,{pause 8} tienes dos	oportunidades más. {pause 16}Elige otra carta.{Player can respond (0001):0010-0000-0010-0000-0010-0000}	La de la izquierda	La del centro	La de la derecha
+"015"	{0009-0002-0008-0011-0011-0012-0013}
+"016"	{0009-0003-000a-0014-0014-0014-0015-0016}
+"017"	Has elegido esta carta.{pause 16} No sé yo si	parece la ganadora{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Delight} ¡Pues sí!{pause 16} 	¡Ya has conseguido dos reinas!	{emote: Agreement}Vamos, pues, a la última ronda. {pause 16}	Si sacas otra reina, serás {el/la}	campe{ón/ona} absolut{o/a}.{pause 16}	{emote: Sheepishness}Sin presión{pause 8}.{pause 8}.{pause 8}.{pause 8} Elige otra carta.{Player can respond (0001):0017-0000-0017-0000-0017-0000}	La de la izquierda	La del centro	La de la derecha
+"018"	{emote: Thought}Veamos si la suerte te acompaña.	{pause 16}¡Ah! {pause 40}{emote: Resigned}Parece que no, es el rey.{Wait for input}Bueno,{pause 16} aún tienes la oportunidad	de llevarte el objeto a un precio	de risa. {emote: Mischief}Venga, elige{pause 8}.{pause 8}.{pause 8}.{pause 8}{Player can respond (0001):0018-0000-0018-0000-0018-0000}	La de la izquierda	La del centro	La de la derecha
+"019"	{emote: Thought}¿Habrás tenido la misma suerte esta	vez?{pause 16} ¡Oh! {pause 40}{emote: Resigned}Es la sota, qué pena.{Wait for input}Pero no pasa nada, {pause 16}si sacas otra	reina, te venderé el objeto muy	barato. {emote: Mischief}Elige otra carta{pause 8}.{pause 8}.{pause 8}.{pause 8}{Player can respond (0001):0018-0000-0018-0000-0018-0000}	La de la izquierda	La del centro	La de la derecha
+"020"	¿Esta? Mmm... {Wait for input}¡Qué puntería!{pause 16}	{emote: Delight}¡Es la reina, {catchphrase}!{Wait for input}{emote: Thought}Te queda una ronda.{pause 16} Puedes llevarte	el objeto por un módico precio.{emote: Surprise}	Elige una carta{pause 8}.{pause 8}.{pause 8}.{pause 8}{Player can respond (0001):0019-0000-0019-0000-0019-0000}	La de la izquierda	La del centro	La de la derecha
+"021"	Ah, buena elección{pause 8}.{pause 8}.{pause 8}.{pause 32} para mí.{emote: Sadness}	Me temo que has elegido el rey.{Wait for input}{emote: Worry}Anímate, que falta otra ronda.{pause 16}{emote: Sheepishness}	¿Cuál escogerás ahora?{Player can respond (0001):001a-0000-001a-0000-001a-0000}	La de la izquierda	La del centro	La de la derecha
+"022"	Y la elección ha sido{pause 8}.{pause 8}.{pause 8}.{pause 8}{pause 32}{emote: Sadness} un desastre.	Es la sota, lo siento.{Wait for input}{emote: Worry}Aún no está todo perdido, queda	la última ronda. {pause 16}{emote: Sheepishness}Piénsatelo bien	y elige una{pause 8}.{pause 8}.{pause 8}.{pause 8}{Player can respond (0001):001a-0000-001a-0000-001a-0000}	La de la izquierda	La del centro	La de la derecha
+"023"	{0009-0003-000a-001b-001c-001c-001d-001d}
+"024"	{0009-0001-0006-001e-001f-0020}
+"025"	{0009-0001-0006-0021-0022-0023}
+"026"	{0009-0002-0008-0024-0024-0025-0026}
+"027"	{emote: Happiness}¡Vas muy bien! {pause 16}Esta es la última	carta{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Curious} ¿Seguro que quieres esta?	{Wait for input}Vale, pues a ver{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Disbelief}¡{capitalized}{catchphrase}!{pause 40} ¡Lo has hecho!{pause 16}	Tres reinas seguidas.{pause 16}{emote: Delight} ¡No lo había	visto en la vida!
+"028"	{emote: Distress}¿Serás capaz de sacar tres reinas?{pause 16}	Pues{pause 8}.{pause 8}.{pause 8}.{pause 8} es{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Sadness} el rey.{pause 20} ¡Qué pena!{Wait for input}{emote: Surprise}Casi consigues la puntuación	perfecta. {pause 16}{emote: Thought}¡Pero dos de tres	no está nada mal!{0009-0002-0008-0004-0005-0005-0005}
+"029"	{emote: Distress}¿Te imaginas que es otra reina?{pause 16}	Vamos a ver{pause 8}.{pause 8}.{pause 8}.{pause 8} Es{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Sadness} ¿la sota?	¡Ay, qué lástima, terroncín!	{emote: Surprise}Acertarlas todas habría sido una	gran hazaña. {pause 16}{emote: Thought}¡Pero dos de tres	es un buen resultado!{0009-0002-0008-0004-0005-0005-0005}
+"030"	Desvelemos la última carta.{Wait for input}	Es{pause 8}.{pause 8}.{pause 8}.{pause 8} ¡la reina!{emote: Delight}{pause 16} Enhorabuena,	{catchphrase}.	{emote: Agreement}No te daré el objeto gratis, pero	sí por un buen precio.{0009-0002-0008-0004-0005-0005-0005}
+"031"	{emote: Curious}¿Estás segur{o/a}?{Wait for input} Pues{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Alarmed} es el rey.{pause 16}	La suerte te ha abandonado,	{catchphrase}.	{emote: Thought}Aunque has empezado muy bien,	la cosa ha ido a peor.{pause 16} Qué pena.
+"032"	Veamos qué te depara el destino.	{Wait for input}Es{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Alarmed} ¡la sota!{pause 16} Lo siento...{Wait for input}{emote: Thought}Al principio lo has hecho tan bien	que pensaba que lo lograrías.	Una lástima.
+"033"	{emote: Soft Smile}Muy bien, detrás de esta carta se	esconde{pause 8}.{pause 8}.{pause 8}.{pause 8}{pause 40}{emote: Sunny} ¡la reina!{pause 16} ¡Qué suerte,	{catchphrase}!	Aunque has empezado con mal pie,	has podido remontar. ¡Increíble!{0009-0002-0008-0004-0005-0005-0005}
+"034"	{emote: Happiness}La última carta{pause 8}.{pause 8}.{pause 8}.{pause 8} ¿Qué será?{Wait for input}	{emote: Thought}Me encantaría poder decirte que	es la reina{pause 8}.{pause 8}.{pause 8}.{pause 8} pero no.{Wait for input}{emote: Worry}Es el rey, lo siento.{pause 40} Espero que	quieras volver a jugar otro día,	a pesar del resultado.
+"035"	{emote: Happiness}Esta es tu última oportunidad.{Wait for input}	{emote: Thought}¿Te habrá sonreído la fortuna?	{pause 20}Me temo que no{pause 8}.{pause 8}.{pause 8}.{pause 8} Es la sota.	No te deprimas, cielín. Con el azar	nunca se sabe.
+"036"	{emote: Worry}La última carta{pause 8}.{pause 8}.{pause 8}.{pause 8} Lo creas o no,	espero que sea la reina. Estoy	sufriendo por ti.	Y{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Surprise} ¡Lo es, {catchphrase}! {pause 16}{emote: Delight}	¡Has sacado la reina! ¡Muy bien!
+"037"	{emote: Sheepishness}Aún puedes tener un golpe de	suerte, cielín.{pause 20} Vamos a verlo{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Alarmed}{pause 16}	¡{capitalized}{catchphrase}!	{emote: Sadness}¡Es el rey!{pause 16} Qué reina tan escurridiza,	no te ha salido ni una sola vez{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"038"	Esta carta lo decide todo.{Wait for input}	Es.{pause 8}.{pause 8}.{pause 8}{emote: Alarmed}{pause 16} ¡la sota, {catchphrase}!{Wait for input}{emote: Sadness}Menuda reina tan obstinada, no se	ha dignado a aparecer ni una sola	vez...
+"039"	{emote: Surprise}Si no lo hubiera visto con mis	propios ojos, no me lo habría	creído.	{emote: Thought}Es muy sospechoso, pero confío	en ti, terroncín.{pause 20} {emote: Soft Smile}Sé que tú nunca	harías trampas.
+"040"	{emote: Thought}Lo has hecho muy bien.{pause 16}{emote: Sheepishness} ¿Seguro que	las cartas no se transparentaban?
+"041"	{emote: Happiness}Espero que estés satisfech{o/a} con	el resultado. {pause 16}{emote: Anger}Has tenido mucha	suerte{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"042"	{emote: Happiness}No te desanimes, en un juego de	azar nunca se sabe qué ocurrirá.
+"043"	{emote: Resigned}No has elegido la reina ni una sola	vez. {pause 16}{emote: Agreement}Te prometo que no he hecho	trampas.	{emote: Curious}¿Querrás jugar otro día?{pause 20}	{emote: Sheepishness}Puede que tengas más suerte.
+"044"
+"045"
 == 2 ==
-"001"	{emote: Mischief}
-"002"	{emote: Worry}
-"003"	{emote: Star Yell}
-"004"	{emote: Soft Smile}
-"005"	{emote: Delight}
-"006"	{emote: Sheepishness}
-"007"	{emote: Glare}
-"008"	{emote: Sunny}
-"009"	{emote: Soft Smile}
-"010"	{emote: Sheepishness}
-"011"	{0009-0003-000a-0c-00-0c-00-0c-00-0d-00-0e-00}
-"012"	{emote: Curious}
-"013"	{emote: Thought}
-"014"	{emote: Thought}
-"015"	{0009-0002-0008-11-00-11-00-12-00-13-00}
-"016"	{0009-0003-000a-14-00-14-00-14-00-15-00-16-00}
-"017"	{emote: Agreement}
-"018"	{emote: Thought}
-"019"	{emote: Mischief}
-"020"	{emote: Thought}
-"021"	Et{pause 8}
-"022"	Et{pause 8}
-"023"	{0009-0003-000a-1b-00-1c-00-1c-00-1d-00-1d-00}
-"024"	{0009-0001-0006-1e-00-1f-00-20-00}
-"025"	{0009-0001-0006-21-00-22-00-23-00}
-"026"	{0009-0002-0008-24-00-24-00-25-00-26-00}
-"027"	{emote: Happiness}
-"028"	{emote: Mischief}
-"029"	{emote: Curious}
-"030"	{emote: Distress}
-"031"	{emote: Agreement}
-"032"	{emote: Mischief}
-"033"	{emote: HotWithSleeves}
-"034"	{emote: Happiness}
-"035"	{emote: Happiness}
-"036"	{emote: Worry}
-"037"	{emote: Sheepishness}
-"038"	{emote: HotWithSleeves}
-"039"	{emote: Sunny}
-"040"	{emote: Thought}
-"041"	{emote: Happiness}
-"042"	{emote: Happiness}
-"043"	{emote: Resigned}
-"044"	
-"045"	
+"001"	{emote: Mischief}Et si nous mettions {mon joli/ma jolie/}	{0011-0003-0002-0000} en jeu?{Wait for input}{0007-000d-0000}{emote: Thought}Si tu gagnes toutes les parties, {pause 20}{il/elle/}	sera à toi pour rien. {pause 30}{emote: Glare}Sinon, {pause 20}tu devras	l'acheter au prix que je fixerai.	Nous allons jouer à « trouve la	reine ». {pause 30}Disons en trois manches.{pause 30}{emote: Curious}	Cela te convient-il?{Player can respond (0005):0008-0015-0002-0028}	Oui! Commençons!	Non. Sans moi.
+"002"	{emote: Worry}Quel dommage, {pause 8}{catchphrase}{pause 8}.{pause 8}.{pause 8}.{pause 8}	Moi qui voulais m'amuser un peu{pause 8}.{pause 8}.{pause 8}.{pause 8}	Tant pis. Une autre fois, peut-être.
+"003"	{emote: Star Yell}Bravo! {pause 16}Tu as gagné!{pause 32}	{capitalized}{000e-0001-0000}{0011-0003-0002-0000} est à	toi.{pause 40} {emote: Sheepishness}Bien joué.
+"004"	{emote: Soft Smile}Hé! Pas mal du tout!	{pause 40}Deux reines.{pause 40} Je fixe donc le prix à	seulement {Blue}{Number (0x9)} clochettes{Color Reset}.
+"005"	{emote: Delight}Bien joué, bravo! {pause 30}Je fixe donc mon	prix à disons{pause 8}.{pause 8}.{pause 8}.{pause 8} {Blue}{Number (0x9)} clochettes{Color Reset}.
+"006"	{emote: Sheepishness}Perdu. {pause 40}Mais puisque tu as quand	même trouvé une reine, {pause 20}{emote: Mischief}je fixe mon	prix à {Blue}{Number (0x9)} clochettes{Color Reset}.
+"007"	{emote: Glare}Oh! {pause 40}Tu me vois navrée de devoir en	arriver là, {pause 30}mais c'est le jeu! {emote: Pride}{pause 40}Je fixe	le prix à {Blue}{Number (0x9)} clochettes{Color Reset}. {pause 30}{emote: Sheepishness}Désolée.
+"008"	{emote: Sunny}Magnifique.{pause 20} Commençons. {pause 30}Oh,{pause 30}{emote: Curious} veux-	tu que je t'explique les règles{pause 8} ou les	connais-tu déjà?{Player can respond (0005):0009-0015-000a-0028}	Explique-les-moi.	Je les connais.
+"009"	{emote: Soft Smile}Très bien. {pause 40}Bon,{pause 20} voilà, {pause 30}{emote: Agreement}ce jeu se joue	avec trois cartes. Un valet, {pause 8}une	reine{pause 8} et un roi.	{emote: Happiness}Je vais mélanger les cartes et tu	devras en choisir une.{pause 30} Si tu trouves	la reine,{pause 16} tu gagnes! {pause 30}Simple, {pause 8}non?	{emote: Sunny}Trouve la reine trois fois de suite	et je te donne gratuitement	{000e-0001-0000}{0011-0003-0002-0000}.	{emote: Glare}Si tu la trouves deux fois, {pause 20}je te ferai	un bon prix. {pause 30}Si tu la trouves une	fois,{emote: Sheepishness} {pause 16}ce sera plus cher.	{emote: Resigned}Et si tu ne la trouves pas du tout{pause 8}.{pause 8}.{pause 8}.{pause 8}	alors là tu devras payer le prix fort.{Wait for input}{emote: Mischief}C'est tout. {pause 30}Si tu as compris, {pause 16}nous	pouvons commencer. {pause 30}Choisis une	carte. {pause 20}{emote: Mischief}Celle que tu voudras.{Player can respond (0001):000b-0000-000b-0000-000b-0000}	La carte de gauche.	La carte du milieu.	La carte de droite.
+"010"	{emote: Sheepishness}Si tu les connais,{pause 20} alors nous pouvons	commencer.{pause 30} {emote: Mischief}Prêt{/e}?{pause 30} Bien!{pause 20} Choisis	une carte.{Player can respond (0001):000b-0000-000b-0000-000b-0000}	La carte de gauche.	La carte du milieu.	La carte de droite.
+"011"	{0009-0003-000a-000c-000c-000c-000d-000e}
+"012"	{emote: Curious}Celle-ci?{pause 45} Es-tu sûr{/e}? {Wait for input}{emote: Anger}Attention{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Delight}	Bravo!{pause 30}	Tu as trouvé la reine!	C'est un excellent début.{pause 30}{emote: Sheepishness} Mais il y a	encore deux manches.{pause 30} Prêt{/e}?{pause 20}	Choisis une carte.{Player can respond (0001):000f-0000-000f-0000-000f-0000}	La carte de gauche.	La carte du milieu.	La carte de droite.
+"013"	{emote: Thought}Bien. {pause 45}Tu as choisi cette carte, {pause 16}alors	retournons-la et que voyons-nous{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Resigned}	C'est un roi. {pause 30}Perdu.	{emote: Sheepishness}Tu n'as pas gagné cette fois, {pause 20}mais il	reste encore deux manches que tu	peux remporter.	{emote: Mischief}Es-tu prêt{/e} à trouver la reine?	{pause 30}Oui? {pause 30}Allez, {pause 20}choisis une carte!{Player can respond (0001):0010-0000-0010-0000-0010-0000}	La carte de gauche.	La carte du milieu.	La carte de droite.
+"014"	{emote: Thought}Tu as choisi cette carte, {pause 20}très bien.	{pause 30}Alors retournons-la et{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sigh} C'est le	valet! {pause 30}Dommage.	{emote: Happiness}Ne t'inquiète pas. {pause 30}Tout n'est pas	perdu,{pause 20} il y a encore deux manches.{pause 30}	{emote: Mischief}Alors choisis une carte.{Player can respond (0001):0010-0000-0010-0000-0010-0000}	La carte de gauche.	La carte du milieu.	La carte de droite.
+"015"	{0009-0002-0008-0011-0011-0012-0013}
+"016"	{0009-0003-000a-0014-0014-0014-0015-0016}
+"017"	{emote: Agreement}Tu as choisi cette carte.{pause 40} Bien,	{pause 20}voyons cela{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Delight} C'est encore une	reine!{pause 30} Bravo!{pause 30} Ça fait deux de suite.	{emote: HotWithSleeves}Plus qu'une{pause 20} et tu feras un sans-	faute!{pause 30} Nous allons voir si ta chance	va durer.{pause 30}{emote: Sheepishness} {pause 8}Allez, {pause 20}choisis une carte{pause 8}.{pause 8}.{pause 8}.{pause 8}{Player can respond (0001):0017-0000-0017-0000-0017-0000}	La carte de gauche.	La carte du milieu.	La carte de droite.
+"018"	{emote: Thought}Alors,{pause 30} voyons si tu as choisi la	bonne{pause 8}.{pause 8}.{pause 8}.{pause 20} Eh non!{emote: Resigned} {pause 30}Désolée,{pause 20} c'est le	roi.	{emote: Sheepishness}Mais tout n'est pas perdu. {pause 40}Encore	une reine et je te ferai un prix	intéressant.{pause 30}{emote: Mischief} Allez,{pause 20} choisis une carte.{Player can respond (0001):0018-0000-0018-0000-0018-0000}	La carte de gauche.	La carte du milieu.	La carte de droite.
+"019"	{emote: Mischief}Alors,{pause 20} voyons si tu as choisi la	bonne{pause 8}.{pause 8}.{pause 8}.{pause 20} Eh non!{emote: Sheepishness} {pause 30}Désolée,{pause 20} c'est un	valet. Pas de chance.	{emote: Disagreement}Tout n'est pas perdu. {pause 40}Encore une	reine et je te ferai un prix	intéressant.{pause 40}{emote: Happiness} Allez, {pause 20}choisis une carte.{Player can respond (0001):0018-0000-0018-0000-0018-0000}	La carte de gauche.	La carte du milieu.	La carte de droite.
+"020"	{emote: Thought}Celle-ci? {pause 32}Comme tu voudras...{Wait for input}	{emote: Disbelief}Ooh, {pause 40}bien vu!{pause 20} {emote: Delight}C'est la reine!	Joli, {pause 12}{catchphrase}!{Wait for input}{emote: Surprise}Il te reste donc une chance	d'obtenir un bon prix.{pause 40} Choisis	une carte,{pause 30} n'importe laquelle{pause 8}.{pause 8}.{pause 8}.{Player can respond (0001):0019-0000-0019-0000-0019-0000}	La carte de gauche.	La carte du milieu.	La carte de droite.
+"021"	Et{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Sunny}Oui! {pause 12}Tu as{pause 8}.{pause 8}.{pause 8}.{pause 8} perdu, {pause 8}hi hi! {pause 32}{emote: Sheepishness}Je	t'ai eu{/e}. {pause 32}C'est le roi{pause 8}.{pause 8}.{pause 8}.{pause 8} Tu as donc	perdu cette manche.	{emote: Happiness}Allez,{pause 20} ne pleure pas. {pause 32}Il te reste	encore une chance de trouver la	reine. {pause 32}{emote: Sheepishness}Vas-y,{pause 20} choisis une carte{pause 8}.{pause 8}.{pause 8}.{Player can respond (0001):001a-0000-001a-0000-001a-0000}	La carte de gauche.	La carte du milieu.	La carte de droite.
+"022"	Et{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Bravo,{pause 12} tu as{pause 8}.{pause 8}.{pause 8}.{pause 8} perdu,{pause 8} hi hi!{pause 32} {emote: Laughter}Je	t'ai eu{/e}. {pause 20}C'est le valet{pause 8}.{pause 8}.{pause 8}.{pause 8} Tu as donc	perdu cette manche.	{emote: Happiness}Allez,{pause 20} ne pleure pas. {pause 32}Il te reste	encore une chance de trouver la	reine. {pause 32}{emote: Sheepishness}Vas-y,{pause 20} choisis une carte{pause 8}.{pause 8}.{pause 8}.{Player can respond (0001):001a-0000-001a-0000-001a-0000}	La carte de gauche.	La carte du milieu.	La carte de droite.
+"023"	{0009-0003-000a-001b-001c-001c-001d-001d}
+"024"	{0009-0001-0006-001e-001f-0020}
+"025"	{0009-0001-0006-0021-0022-0023}
+"026"	{0009-0002-0008-0024-0024-0025-0026}
+"027"	{emote: Happiness}C'est un sans-faute pour l'instant{pause 8}.{pause 8}.{pause 8}.{pause 8}	Es-tu certain{/e} que c'est bien cette	carte-là que tu veux? {Wait for input}Très bien.	{emote: Worry}Je la retourne et je vois{pause 8}.{pause 8}.{pause 8}.{pause 32}	{emote: Disbelief}Oui!{pause 16} C'est la reine!{pause 40} La dernière	reine! {pause 20}Tu as trouvé les trois!	{emote: Delight}Bravo!{pause 32}	Quelle partie, {pause 8}{catchphrase}!
+"028"	{emote: Mischief}Alors? {pause 32}Vas-tu trouver la troisième	reine?{pause 32} {emote: HotWithSleeves}Suspense{pause 8}.{pause 8}.{pause 8}.{pause 8} La carte que tu	as choisie,{pause 16} c'est,{pause 16} c'est{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Mistaken} le roi!{pause 16} Oh!	{emote: Resigned}Tu as failli faire un sans-faute,	{pause 32}mais c'est raté. {pause 16}{emote: Happiness}Console-toi,{pause 20} deux	reines, {pause 20}c'est déjà bien, {pause 8}tu sais.{0009-0002-0008-0004-0005-0005-0005}
+"029"	{emote: Curious}Alors? {pause 32}Vas-tu trouver la troisième	reine?{pause 32} {emote: HotWithSleeves}Suspense{pause 8}.{pause 8}.{pause 8}.{pause 8} La carte que tu	as choisie,{pause 16} c'est,{pause 16} c'est{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Mistaken}{pause 20} le valet!	{emote: Sigh}Tu as failli faire un sans-faute.	{pause 32}Cette fois c'est raté, {pause 16}{emote: Agreement}mais console-	toi,{pause 20} deux reines, {pause 20}c'est déjà beau.{0009-0002-0008-0004-0005-0005-0005}
+"030"	{emote: Distress}Alors,{pause 16} cette fois tu as choisi.{pause 8}.{pause 8}.{pause 8} Oui!{pause 16}	La reine!{emote: Delight}{pause 30} Bien joué,{pause 8} {catchphrase}!{Wait for input}{emote: Star Yell}Je te félicite. {pause 30}Deux sur trois c'est	un beau résultat.{pause 30}{emote: Agreement} Et je vais donc te	faire un prix en conséquence.{0009-0002-0008-0004-0005-0005-0005}
+"031"	{emote: Agreement}Tu as donc choisi cette carte.	{pause 32}Voyons maintenant si c'est la bonne.{Wait for input}	{emote: Alarmed}Un roi!{pause 20} C'est perdu, {pause 8}{catchphrase}.	{emote: Resigned}C'est dommage, {pause 30}tu avais bien	commencé la partie, {pause 30}mais ensuite, {pause 20}tu	n'as pas eu beaucoup de chance{pause 8}.{pause 8}.{pause 8}.	{emote: Soft Smile}Bah,{pause 20} tu en auras plus la prochaine	fois.
+"032"	{emote: Mischief}Tu as donc choisi cette carte.	{pause 32}Voyons voir si c'est la bonne...{Wait for input} {emote: Alarmed}Le	valet!{pause 20} C'est perdu, {pause 8}{catchphrase}.	{emote: Resigned}C'est dommage, {pause 30}tu avais bien	commencé la partie. {pause 30}{emote: Mistaken}Mais ensuite,	{pause 30}tu n'as pas eu beaucoup de chance{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}Bah,{pause 20} tu feras mieux la prochaine	fois.
+"033"	{emote: HotWithSleeves}Suspense{pause 8}.{pause 8}.{pause 8}.{pause 8} Je retourne ta carte,{pause 8}	et{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Happiness} La reine! {pause 16}Tu l'as encore	trouvée,{pause 8} {catchphrase}!	{emote: Sunny}Ça te fait deux victoires. {pause 16}Bravo!{0009-0002-0008-0004-0005-0005-0005}
+"034"	{emote: Happiness}Dernière manche{pause 8}.{pause 8}.{pause 8}.{pause 8} Voyons si tu la	trouves,{pause 8} cette fois.{Wait for input} {emote: HotWithSleeves}La carte que tu	as choisie, {pause 16}c'est, {pause 16}c'est{pause 8}.{pause 8}.{pause 8}.	{emote: Agreement}Je tiens d'abord à te dire que ce fut	un plaisir de jouer avec toi et que	j'espère pouvoir rejouer bientôt.	{emote: HotWithSleeves}Alors ta carte, {pause 16}c'est, {pause 16}c'est{pause 8}.{pause 8}.{pause 8}.{pause 16} Oh,	{pause 20}{emote: Sheepishness}c'est le roi. {pause 20}Comme c'est dommage.
+"035"	{emote: Happiness}Dernière manche{pause 8}.{pause 8}.{pause 8}.{pause 8} Voyons si tu la	trouves,{pause 8} cette fois.{Wait for input} {emote: HotWithSleeves}La carte que tu	as choisie, {pause 16}c'est, {pause 16}c'est{pause 8}.{pause 8}.{pause 8}.	{emote: Sunny}Laisse-moi te dire auparavant que	ce fut un plaisir de jouer avec toi {pause 8}et	que j'espère que nous rejouerons.	Alors ta carte, {pause 16}c'est,{emote: HotWithSleeves} {pause 16}c'est{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Sheepishness}c'est un	valet. {pause 20}Quel dommage...
+"036"	{emote: Worry}C'est ta dernière chance{pause 8}.{pause 8}.{pause 8}.{pause 8} Crois-le	ou non,{pause 16}{emote: Happiness} mais je te souhaite de	remporter cette manche{pause 8}.{pause 8}.{pause 8}.	{emote: Surprise}{capitalized}{catchphrase}! {pause 20}C'est la reine!{pause 30}{emote: Star Yell}	L'honneur est sauf.
+"037"	{emote: Sheepishness}Bon, {pause 30}c'est ta dernière chance de	remporter une manche.	{pause 30}{emote: Mischief}Voyons quelle carte tu as choisie.	{emote: Resigned}Le roi! {pause 40}C'est fini. {pause 30}Désolée, {pause 8}mais tu	as perdu. {pause 30}Tu n'as trouvé aucune	reine.{pause 30} {emote: Sadness}Tu n'as pas eu de chance{pause 8}.{pause 8}.{pause 8}.
+"038"	{emote: HotWithSleeves}Bon, {pause 30}c'est ta dernière chance de	remporter une manche.	{pause 30}{emote: Mischief}Voyons quelle carte tu as choisie.	{emote: Resigned}Le valet! {pause 40}C'est fini. {pause 30}Tu as perdu. {pause 30}Tu	n'as trouvé aucune reine.{pause 30} {emote: Sadness}Ce n'est	pas de chance, {catchphrase}{pause 8}.{pause 8}.{pause 8}.
+"039"	{emote: Sunny}Trois reines d'affilée!{pause 16}	C'est magnifique!{Wait for input}{emote: Thought}Si ce n'était pas moi qui manipulais	les cartes, {pause 16}je penserais que ce jeu	est truqué{pause 8}.{pause 8}.{pause 8}.{pause 16} {emote: Distress}Comment tu as fait?!
+"040"	{emote: Thought}{pause 20}Deux sur trois ce n'est pas mal,	{pause 30}{emote: Agreement}c'est même bien. {pause 30}Je serais contente	à ta place...
+"041"	{emote: Happiness}Tu n'as pas tout gagné, {pause 30}mais tu n'as	pas tout perdu non plus. {pause 45}Au moins	tu n'auras pas payé cher{emote: Anger}{pause 8}.{pause 8}.{pause 8}.
+"042"	{emote: Happiness}Allons, allons. {pause 30}Ce n'est pas grave.{pause 30}	{emote: Agreement}Je suis sûre que tu feras mieux la	prochaine fois...
+"043"	{emote: Resigned}Tu n'as vraiment pas eu de chance	dans cette partie-là. {pause 30}Je suis sûre	que cela ira mieux la prochaine fois.	{emote: Laughter}De toute façon,{pause 20} cela ne pourra pas	être pire, {pause 8}hi hi! {pause 40}{emote: Bashful}Oh,{pause 8} pardon!
+"044"
+"045"

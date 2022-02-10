@@ -1,21 +1,21 @@
 == 0 ==
-"001"	ねぇ、{pause 8}
-"002"	{emote: Worry}
-"003"	{emote: Soft Smile}
-"004"	{emote: Shocked}
-"005"	{emote: Sheepishness}
-"006"	{emote: Sheepishness}
-"007"	{emote: Alarmed}
-"008"	{emote: Soft Smile}
-"009"	{emote: Sheepishness}
-"010"	{emote: Sheepishness}
-"011"	{emote: Sheepishness}
-"012"	{emote: Sheepishness}
-"013"	{0009-0003-000a-0b-00-0b-00-0b-00-0b-00-0c-00}
-"014"	{emote: Worry}
-"015"	{emote: Worry}
-"016"	{emote: Soft Smile}
-"017"	{emote: Soft Smile}
-"018"	{emote: Resigned}
-"019"	{emote: Sheepishness}
-"020"	
+"001"	ねぇ、{pause 8}ゲームをしない？{Wait for input}{emote: Anger}アタシが　{ruby (charSpan 2): かぐ}家具の{ruby (charSpan 2): なまえ}名前と{ruby (charSpan 2): ねだん}値段を	{ruby (charSpan 1): い}言うから、{pause 16}その{ruby (charSpan 2): じょうけん}条件で{ruby (charSpan 2): なっとく}納得したら{pause 16}	アナタは　その{ruby (charSpan 2): ねだん}値段で　{ruby (charSpan 2): かぐ}家具を{ruby (charSpan 1): か}買うの	{0007-000d-0000}{emote: Glare}チャンスは　5{ruby (charSpan 1): かい}回あるわ！{pause 32}	どう？　{pause 16}{emote: Curious}やらない？{Player can respond (0005):0003-0015-0002-0028}	いいよ！	また{ruby (charSpan 2): こんど}今度ね
+"002"	{emote: Worry}あら、{pause 16}{ruby (charSpan 2): ざんねん}残念{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}{ruby (charSpan 1): き}気が{ruby (charSpan 1): む}向いたら　よろしくね、	{pause 8}{catchphrase}
+"003"	{emote: Soft Smile}それじゃあ、{ruby (charSpan 2): かんたん}簡単に{pause 16}	ルールを{ruby (charSpan 2): せつめい}説明するわね、{pause 8}{catchphrase}{Wait for input}	{emote: Reset}ここに　5つの{ruby (charSpan 2): かぐ}家具があるわ{pause 8}・{pause 8}・{pause 8}・{pause 8}	アナタは　その{ruby (charSpan 1): なか}中から{pause 16}	どれか1つ　お{ruby (charSpan 1): かね}金を{ruby (charSpan 1): だ}出して{ruby (charSpan 1): か}買うの{Wait for input}{ruby (charSpan 1): いま}今から　アタシが　{ruby (charSpan 2): かぐ}家具の{ruby (charSpan 2): なまえ}名前と{pause 16}	その{ruby (charSpan 2): ねだん}値段を{ruby (charSpan 1): い}言うから、{pause 16}{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入らなかったら{pause 16}	「チェンジ」って{ruby (charSpan 1): い}言ってちょうだい！	{emote: Sheepishness}ただし、チェンジは4{ruby (charSpan 1): かい}回までね？{pause 32}	{ruby (charSpan 2): さいご}最後の{ruby (charSpan 2): かぐ}家具は　{ruby (charSpan 2): うむ}有無を{ruby (charSpan 1): い}言わせず{pause 16}	{ruby (charSpan 1): かなら}必ず　{ruby (charSpan 1): か}買ってもらうわよ	{emote: Anger}それじゃあ、{pause 16}1つ{ruby (charSpan 1): め}目　いくわよ？{Wait for input}	{emote: Reset}{0011-0003-0002-0000}を{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}ベル{Color Reset}で　どうかしら？{confirmation-02}{Player can respond (0005):0004-0015-0005-0028}	{ruby (charSpan 1): か}買う	チェンジ
+"004"	{emote: Shocked}{ruby (charSpan 1): はや}早っ！　{pause 32}{emote: Sheepishness}アナタがいいって{pause 16}	{ruby (charSpan 1): い}言うならいいけど{pause 8}・{pause 8}・{pause 8}・
+"005"	{emote: Sheepishness}アナタ　{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着いてるわね{pause 32}	まずは　{ruby (charSpan 3): ようすみ}様子見ってところかしら？{Wait for input}{emote: Anger}それじゃあ、{pause 16}2つ{ruby (charSpan 1): め}目　いくわよ？{Wait for input}	{emote: Reset}{0011-0003-0002-0001}を{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}ベル{Color Reset}で　どうかしら？{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	{ruby (charSpan 1): か}買う	チェンジ
+"006"	{emote: Sheepishness}へぇ～　{pause 16}アナタ{pause 8}・{pause 8}・{pause 8}・{pause 8}	こういうのが　{ruby (charSpan 1): す}好きなのね～
+"007"	{emote: Alarmed}あら、{pause 8}こだわりがあるのね？{pause 32}	{emote: Sheepishness}それなりのところで{pause 16}	{ruby (charSpan 1): て}手を{ruby (charSpan 1): う}打った{ruby (charSpan 1): ほう}方が　いいと{ruby (charSpan 1): おも}思うけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Anger}それじゃあ、{pause 16}3つ{ruby (charSpan 1): め}目　いくわよ？{Wait for input}	{emote: Reset}{0011-0003-0002-0002}を{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}ベル{Color Reset}で　{emote: Curious}どうかしら？{confirmation-02}{Player can respond (0005):0008-0015-0009-0028}	{ruby (charSpan 1): か}買う	チェンジ
+"008"	{emote: Soft Smile}ふ～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	こういうのを　{ruby (charSpan 1): ま}待ってたのね？
+"009"	{emote: Sheepishness}まぁ{pause 8}・{pause 8}・{pause 8}・{pause 8}アナタって{pause 16}	なかなかの　{ruby (charSpan 3): しょうぶし}勝負師なのね～{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): つぎ}次で　{ruby (charSpan 1): き}決めないと、{pause 16}{ruby (charSpan 1): かなら}必ず	5つ{ruby (charSpan 1): め}目を　{ruby (charSpan 1): か}買ってもらうわよ、	{pause 8}{catchphrase}	{emote: Anger}さぁ、{pause 16}4つ{ruby (charSpan 1): め}目　いくわよ？{Wait for input}	{emote: Reset}{0011-0003-0002-0003}を{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}ベル{Color Reset}で　{emote: Curious}どうかしら？{confirmation-02}{Player can respond (0005):000a-0015-000d-0028}	{ruby (charSpan 1): か}買う	ラストチェンジ
+"010"	{emote: Sheepishness}うふふ{pause 8}・{pause 8}・{pause 8}・{pause 8}アナタ、{ruby (charSpan 2): やくしゃ}役者ね？{pause 32}	{ruby (charSpan 1): たの}楽しませてもらったわ
+"011"	{emote: Sheepishness}うふふ{pause 8}・{pause 8}・{pause 8}・{pause 8}アナタって{pause 16}	どこまでも　だきょうを{pause 8}	{ruby (charSpan 1): ゆる}許さない{ruby (charSpan 2): せいかく}性格なのね？　{pause 8}{catchphrase}？	{emote: Worry}{ruby (charSpan 1): い}言っておくけど　{ruby (charSpan 2): さいご}最後の{ruby (charSpan 2): かぐ}家具は、{pause 16}	どんな{ruby (charSpan 2): きんがく}金額だろうと{pause 16}	{ruby (charSpan 1): かなら}必ず　{ruby (charSpan 1): か}買ってもらうわよ	{emote: Anger}さぁ、{pause 8}{ruby (charSpan 2): さいご}最後の{ruby (charSpan 2): はっぴょう}発表よ！{Wait for input}	{0011-0003-0002-0004}を{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}ベル{Color Reset}で！！	{emote: Sheepishness}この{ruby (charSpan 2): ねだん}値段は　もう{ruby (charSpan 1): か}変わらないわ！{pause 32}	{ruby (charSpan 1): わる}悪く{ruby (charSpan 1): おも}思わないで　ちょうだいね？
+"012"	{emote: Sheepishness}うふふ{pause 8}・{pause 8}・{pause 8}・{pause 8}アナタって{pause 16}	どこまでも　だきょうを{pause 8}	{ruby (charSpan 1): ゆる}許さない{ruby (charSpan 2): せいかく}性格なのね？　{pause 8}{catchphrase}？	{emote: Worry}{ruby (charSpan 1): い}言っておくけど　{ruby (charSpan 2): さいご}最後の{ruby (charSpan 2): かぐ}家具は、{pause 16}	どんな{ruby (charSpan 2): きんがく}金額だろうと{pause 16}	{ruby (charSpan 1): かなら}必ず　{ruby (charSpan 1): か}買ってもらうわよ	{emote: Anger}さぁ、{pause 8}{ruby (charSpan 2): さいご}最後の{ruby (charSpan 2): はっぴょう}発表よ！{Wait for input}	{0011-0003-0002-0004}を{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}ベル{Color Reset}で！！	{emote: Glare}びっくりした？　{pause 16}サービスよ
+"013"	{0009-0003-000a-000b-000b-000b-000b-000c}
+"014"	{emote: Worry}すぐに{ruby (charSpan 1): お}終わっちゃったけど{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}まぁ、{pause 16}アナタが{ruby (charSpan 2): なっとく}納得してるなら{pause 16}	それでいいわ、{pause 8}{catchphrase}
+"015"	{emote: Worry}{ruby (charSpan 1): ほか}他にも　{ruby (charSpan 2): いろいろ}色々あって{pause 16}	{ruby (charSpan 1): み}見せたかったんだけど{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Sheepishness}それを{ruby (charSpan 1): い}言い{ruby (charSpan 1): だ}出したら、{pause 16}キリないわよね
+"016"	{emote: Soft Smile}{ruby (charSpan 1): よ}良かったわね、{pause 8}{catchphrase}！{pause 32}	{ruby (charSpan 1): ほ}欲しい{ruby (charSpan 1): もの}物を　{ruby (charSpan 1): み}見つけられて！
+"017"	{emote: Soft Smile}いいタイミングで{pause 16}	{ruby (charSpan 1): き}決められたんじゃないかしら？	{pause 8}{catchphrase}？
+"018"	{emote: Resigned}もぉ、{pause 16}ムチャするから{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"019"	{emote: Sheepishness}せっかく　{ruby (charSpan 1): やす}安くしてあげたんだから、{pause 16}	{ruby (charSpan 2): たいせつ}大切にしてちょうだいね、	{pause 8}{catchphrase}
+"020"

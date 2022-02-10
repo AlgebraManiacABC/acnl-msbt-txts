@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{Greeting begin}
-"002"	오늘은 날씨가 이래서{pause 30}
-"003"	뭐하고 있냐{pause 20}!
-"004"	{Greeting begin}
-"005"	이놈의 눈, {pause 8}
-"006"	오우, {pause 30}
+"001"	{Greeting begin}오호, {pause 8}{Player name}{Greeting end}!{Wait for input}	그렇게 들떠 있다가	넘어진다 녀석아, {pause 20}{catchphrase}
+"002"	오늘은 날씨가 이래서{pause 30}	발밑이 미끄러우니까{pause 8}	조심하라구!{pause 20} {catchphrase}!
+"003"	뭐하고 있냐{pause 20}	{Player name}?{pause 20} {catchphrase}?
+"004"	{Greeting begin}오호, {pause 8}{Player name}{Greeting end}!{pause 30}	{emote: Happiness}어때 즐겁냐?{pause 20} {catchphrase}?
+"005"	이놈의 눈, {pause 8}그칠 생각을 안 하네{pause 8}・{pause 8}・{pause 8}・{pause 20}	{catchphrase}
+"006"	오우, {pause 30}{Player name}{000e-000e-0006-0002-c774-0000}구나!{Wait for input}	아, 진ー짜 춥다!{pause 20} {catchphrase}!

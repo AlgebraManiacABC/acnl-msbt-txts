@@ -1,20 +1,20 @@
 == 0 ==
 "001"	コーヒー　もらいますわ～
-"002"	コーヒー　もらいますわ～{pause 20}
-"003"	コーヒー　もらいますわ～{pause 20}
-"004"	コーヒー　もらいますわ～{pause 20}
-"005"	{emote: Soft Smile}
-"006"	{emote: Alarmed}
-"007"	{emote: Worry}
-"008"	{emote: Worry}
-"009"	{emote: Worry}
-"010"	
-"011"	
-"012"	
-"013"		{emote: Shocked}
-"014"		{emote: Shocked}
-"015"		{emote: Shocked}
-"016"		{0007-000b-0000}
-"017"	
-"018"	
-"019"	
+"002"	コーヒー　もらいますわ～{pause 20}	あ、{pause 8}{Blue}ブレンド{Color Reset}で
+"003"	コーヒー　もらいますわ～{pause 20}	あ、{pause 8}ミルクは　{Blue}いりまへん{Color Reset}で～
+"004"	コーヒー　もらいますわ～{pause 20}	あ、{pause 8}{ruby (charSpan 2): さとう}砂糖　{Blue}3{ruby (charSpan 1): こ}個{Color Reset}ほど{pause 8}	{ruby (charSpan 1): い}入れといて　おくれやす
+"005"	{emote: Soft Smile}へぇ{pause 4}　おおきに～{pause 15}{Text size 75%}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}アチチ{Text size 100%}
+"006"	{emote: Alarmed}ほぉ！{pause 15}　ええ{ruby (charSpan 1): あじ}味ですなぁ！{pause 30}	{emote: Soft Smile}ワタシの{ruby (charSpan 1): この}好みに　ピッタリですわ！{pause 30}	これは　うれしいなぁ～！	{0007-000e-0000}{emote: Happiness}いやぁ～、{pause 8}なかなかの　{ruby (charSpan 2): うでまえ}腕前ですねぇ！{Wait for input}	また　{ruby (charSpan 1): こ}来させてもらいますわ、{pause 20}	ほな　さいなら～！
+"007"	{emote: Worry}ん～、{pause 15}これ{pause 8}	{Blue}ブレンド{Color Reset}と　{ruby (charSpan 1): ちが}違いますよねぇ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{pause 15}{emote: Happiness}けど　それは　まあ、{pause 15}	どうってこと　ありません！{pause 20}	これでも　{ruby (charSpan 2): じゅうぶん}十分おいしいです！	また　{ruby (charSpan 1): こ}来させてもらいますわ、{pause 20}	ほな　さいなら～！
+"008"	{emote: Worry}ん～、{pause 15}これ{pause 8}	{Blue}ミルク{Color Reset}　{ruby (charSpan 1): はい}入ってますよねぇ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{pause 15}{emote: Happiness}けど　それは　まあ、{pause 15}	どうってこと　ありません！{pause 20}	これでも　{ruby (charSpan 2): じゅうぶん}十分おいしいです！	また　{ruby (charSpan 1): こ}来させてもらいますわ、{pause 20}	ほな　さいなら～！
+"009"	{emote: Worry}ん～、{pause 15}これ{pause 8}	{Blue}{ruby (charSpan 2): さとう}砂糖{Color Reset}が　{ruby (charSpan 1): た}足りてませんよねぇ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{pause 15}{emote: Happiness}けど　それは　まあ、{pause 15}	どうってこと　ありません！{pause 20}	これでも　{ruby (charSpan 2): じゅうぶん}十分おいしいです！	また　{ruby (charSpan 1): こ}来させてもらいますわ、{pause 20}	ほな　さいなら～！
+"010"
+"011"
+"012"
+"013"		{emote: Shocked}{Text size 150%}えっ？！{Text size 100%}{pause 20}{Wait for input}{emote: Distress}{Blue}{ruby (charSpan 1): まめ}豆{Color Reset}が　{ruby (charSpan 1): あ}合ってるだけで、{pause 15}	あとは　ムチャクチャですがな～！{Wait for input}{emote: Worry}せっかく{pause 4}　{ruby (charSpan 2): ごくじょう}極上のコーヒーを	{ruby (charSpan 1): たの}楽しみに{ruby (charSpan 1): き}来たのに、{pause 8}ガッカリですわ～{Wait for input}{emote: Reset}ま、{pause 8}コレは　{ruby (charSpan 1): いただ}頂いときますけど、{pause 15}	{emote: Anger}{ruby (charSpan 1): つぎ}次は　ちゃんと{ruby (charSpan 1): たの}頼みますよ？{pause 30}	{emote: Reset}ほな　さいなら～！
+"014"		{emote: Shocked}{Text size 150%}えっ？！{Text size 100%}{pause 20}{Wait for input}{emote: Distress}{Blue}ミルク{Color Reset}{ruby (charSpan 1): い}入れてないのが　{ruby (charSpan 1): あ}合ってるだけで、{pause 15}	あとは　ムチャクチャですがな～！{Wait for input}{emote: Worry}せっかく{pause 4}　{ruby (charSpan 2): ごくじょう}極上のコーヒーを	{ruby (charSpan 1): たの}楽しみに{ruby (charSpan 1): き}来たのに、{pause 8}ガッカリですわ～{Wait for input}{emote: Reset}ま、{pause 8}コレは　{ruby (charSpan 1): いただ}頂いときますけど、{pause 15}	{emote: Anger}{ruby (charSpan 1): つぎ}次は　ちゃんと{ruby (charSpan 1): たの}頼みますよ？{pause 30}	{emote: Reset}ほな　さいなら～！
+"015"		{emote: Shocked}{Text size 150%}えっ？！{Text size 100%}{pause 20}{Wait for input}{emote: Distress}{Blue}{ruby (charSpan 2): さとう}砂糖の{ruby (charSpan 1): りょう}量{Color Reset}が　{ruby (charSpan 1): あ}合ってるだけで、{pause 15}	あとは　ムチャクチャですがな～！{Wait for input}{emote: Worry}せっかく{pause 4}　{ruby (charSpan 2): ごくじょう}極上のコーヒーを	{ruby (charSpan 1): たの}楽しみに{ruby (charSpan 1): き}来たのに、{pause 8}ガッカリですわ～{Wait for input}{emote: Reset}ま、{pause 8}コレは　{ruby (charSpan 1): いただ}頂いときますけど、{pause 15}	{emote: Anger}{ruby (charSpan 1): つぎ}次は　ちゃんと{ruby (charSpan 1): たの}頼みますよ？{pause 30}	{emote: Reset}ほな　さいなら～！
+"016"		{0007-000b-0000}{emote: Disbelief}{Text size 150%}ぶはっ！{Text size 100%}{pause 20}{Wait for input}{emote: Distress}なんですねん、これ～！{pause 50}	{emote: Anger}{ruby (charSpan 1): なに}何もかも　ムチャクチャですがな～！{Wait for input}{emote: Outrage}こんなもん　{ruby (charSpan 1): だ}出すんやったら{pause 20}	ウチの{ruby (charSpan 1): おとうと}弟　{ruby (charSpan 1): つ}連れて{ruby (charSpan 1): き}来て{pause 8}　ひと{ruby (charSpan 1): あば}暴れ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Disagreement}いやいや、{pause 20}{emote: Reset}なんでも　ありません	ま、{pause 8}コレは　{ruby (charSpan 1): いただ}頂いときますけど、{pause 15}	{emote: Anger}{ruby (charSpan 1): つぎ}次は　ちゃんと{ruby (charSpan 1): たの}頼みますよ？{pause 30}	{emote: Reset}ほな　さいなら～！
+"017"
+"018"
+"019"

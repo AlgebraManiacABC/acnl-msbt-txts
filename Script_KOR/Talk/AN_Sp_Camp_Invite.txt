@@ -1,29 +1,29 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Surprise}
-"003"	{emote: Surprise}
-"004"	{emote: Thought}
-"005"	{emote: Bashful}
-"006"	{emote: Soft Smile}
-"007"	{emote: Thought}
-"008"	{emote: Thought}
-"009"	{emote: Thought}
-"010"	{emote: Alarmed}
-"011"	{emote: Worry}
-"012"	{emote: Alarmed}
-"013"	{emote: Soft Smile}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{emote: Soft Smile}
-"017"	{emote: Soft Smile}
-"018"	{emote: Soft Smile}
-"019"	{emote: Soft Smile}
-"020"	{emote: Soft Smile}
-"021"	{emote: Soft Smile}
-"022"	{emote: Reset}
-"023"	{emote: Reset}
-"024"	{emote: Soft Smile}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Surprise}그치?{pause 20}	역시 너도 그렇게 생각하지?{Wait for input}{emote: Soft Smile}좋아～ 정했어!{pause 20}	나 여기로 이사 와야겠다!{pause 20}	{catchphrase}!
+"002"	{emote: Surprise}역시!{pause 40}	{emote: Reset}주민인 니가 그렇게 말한다면{pause 8}・{pause 8}・{pause 8}・{pause 20}	그렇게 할 수밖에 없겠구만!	{emote: Soft Smile}나, 이 마을로 이사 와야겠다!{pause 20}	{catchphrase}!
+"003"	{emote: Surprise}응? 진짜?{pause 20}	니가 그렇게 나오니	왠지 마음이 든든한데{pause 8}・{pause 8}・{pause 8}・	{emote: Soft Smile}그래! 그러지 뭐!{pause 20}	이 마을로 이사 올 거야!{pause 20}	{emote: Reset}진짜라니까! {pause 20}{catchphrase}!
+"004"	{emote: Thought}으음～ 그렇게 간단한	문제면 참 좋겠지만{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Reset}여러 가지로 복잡한 사정이 있어	{emote: Soft Smile}나중에 형편이 되면	한번 생각해볼게! {pause 20}{catchphrase}!
+"005"	{emote: Bashful}헤헤{pause 8}・{pause 8}・{pause 8}・{pause 20}	그렇게 말해주다니	왠지 기쁘면서도 부끄럽구만{pause 8}・{pause 8}・{pause 8}・{pause 20}{Wait for input}{emote: Soft Smile}하지만 살던 마을에서	아직 해야 할 일이 많아서	이사 오긴 힘들어! {pause 20}{catchphrase}!
+"006"	{emote: Soft Smile}헤헤{pause 8}・{pause 8}・{pause 8}・{pause 20} 농담이야 농담!{Wait for input}	{emote: Reset}지금 사는 마을에 친구도 많은데	갑자기 떠날 순 없지! {pause 20}{catchphrase}!
+"007"	{emote: Thought}흠{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Inspired}그럼 나랑 게임 하나 할래?{Wait for input}{emote: Soft Smile}니가 이기면	내가 여기로 이사 올게!{pause 40}	{emote: Reset}하지만 내가 이기면{pause 8}・{pause 8}・{pause 8}・	{emote: Sheepishness}니가 가지고 있는	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	기념으로 나한테 주는 거야	{emote: Curious}어때? {pause 20}해볼래?{Player can respond (0005):0019-0015-000a-0028}	해보자!	그건 좀・・・
+"008"	{emote: Thought}나보다 강한 녀석이 있다면	당장이라도 오겠지만{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Inspired}그래! {pause 20}이렇게 하면 어때?!	{emote: Soft Smile}게임을 해서 니가 이기면	내가 여기로 이사 올게!{pause 40}	{emote: Reset}하지만 반대로 내가 이기면{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}니가 가지고 있는	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	기념품으로 나한테 주는 거야	{emote: Curious}어때? {pause 20}해볼래?{Player can respond (0005):0019-0015-000b-0028}	어디 해보자!	싫어!
+"009"	{emote: Thought}흐음{pause 8}・{pause 8}・{pause 8}・{pause 40} {emote: Inspired}옳지!{pause 20}	게임으로 정하는 건 어떠냐?	운에 맡겨보는 거지!	{emote: Soft Smile}니가 이기면	내가 이 마을로 이사 올게!{pause 40}	{emote: Reset}하지만 니가 지면{pause 8}・{pause 8}・{pause 8}・	기념품으로 니가 가지고 있는	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	가져가겠어!	{emote: Curious}어때?{pause 20} 해볼래?{Player can respond (0005):0019-0015-000c-0028}	오케이!	안 해
+"010"	{emote: Alarmed}별로야?{pause 40}	{emote: Soft Smile}그래{pause 8}・{pause 8}・{pause 8}・{pause 20} 이사는 내가 생각해보고	오고 싶어지면 오지 뭐! {pause 20}{catchphrase}!
+"011"	{emote: Worry}그래? 싫음 말고!{pause 40}	{emote: Resigned}쳇{pause 8}・{pause 8}・{pause 8}・{pause 20} {catchphrase}
+"012"	{emote: Alarmed}그래? 별로야?{pause 40}	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 20}싫다는 사람하고는	나도 하고 싶지 않다, {pause 20}{catchphrase}
+"013"	{emote: Soft Smile}좋아!{pause 20}	그럼 {Blue}가위바위보{Color Reset}로 승부다!{0007-0012-0006-0300-001b-001a}
+"014"	{emote: Soft Smile}좋～아!{pause 20}	그럼 {Blue}제스처 게임{Color Reset}으로 승부다!{0007-0012-0006-0001-001b-001a}
+"015"	{emote: Soft Smile}오! {pause 20}바로 그 자세야!{pause 40}	그럼 {Blue}참참참{Color Reset}으로 승부다!{0007-0012-0006-0002-001b-001a}
+"016"	{emote: Soft Smile}아～ 재밌었다!{pause 40}	{emote: Reset}그럼{pause 8}・{pause 8}・{pause 8}・{pause 20} 미안하지만 약속대로	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 받는다!
+"017"	{emote: Soft Smile}후아～ 오랜만에 긴장했네!{pause 40}	{emote: Reset}그럼{pause 8}・{pause 8}・{pause 8}・{pause 20} 약속대로	{0011-0003-0002-0000} 내놔!
+"018"	{emote: Soft Smile}음～ 괜찮은 승부였어!{pause 40}	{emote: Reset}내가 이겼으니까{pause 8}・{pause 8}・{pause 8}・{pause 20} 약속대로	{0011-0003-0002-0000} 가져간다!
+"019"	{emote: Soft Smile}땡큐ー!{pause 20}	우리 마을에 돌아가서	자랑해야지! {pause 20}{catchphrase}!
+"020"	{emote: Soft Smile}고마워!{pause 20}	멋진 기념품이 생겼네!{pause 20}	{catchphrase}!
+"021"	{emote: Soft Smile}덕분에 {Town name (pink)} 마을에서	제대로 된 추억거리가 생겼네!{pause 20}	땡큐ー! {pause 20}{catchphrase}!
+"022"	{emote: Reset}이제 꼼짝없이	이 마을로 이사를 와야겠네!{Wait for input}{emote: Soft Smile}캠핑 끝나고 돌아가면	바로 짐 쌀게!{pause 20}	기대하고 있어! {pause 20}{catchphrase}!
+"023"	{emote: Reset}약속은 약속이니{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}이제 이 마을로	이사를 와야겠구만!	{emote: Agreement}그렇게 마음먹고 보니	캠핑 중에 해 놓아야 할 것들이	많을 것 같은데! {pause 20}{catchphrase}!
+"024"	{emote: Soft Smile}그럼 결정!{pause 40}	나 진짜 이 마을로 이사 온다!{Wait for input}{emote: Glee}우후{pause 8}・{pause 8}・{pause 8}・{pause 20}	이제 슬슬 실감이 나는데ー!{pause 20}	{catchphrase}!{emote: Soft Smile}{pause 20}
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}

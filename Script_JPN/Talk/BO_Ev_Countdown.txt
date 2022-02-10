@@ -1,67 +1,67 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Greetings}
-"003"	
-"004"	{emote: Daydreaming}
-"005"	{emote: Distress}
-"006"	{emote: Glee}
-"007"	{emote: Love}
-"008"	{emote: Curious}
-"009"	{emote: Happiness}
-"010"	{emote: Alarmed}
-"011"	{emote: Bashful}
-"012"	{emote: Distress}
-"013"	{emote: Distress}
-"014"	{emote: Sleepy}
-"015"	あと1{ruby (charSpan 2): じかん}時間もしないで	{ruby (charSpan 1): あたら}新しい{ruby (charSpan 1): とし}年かぁ、{pause 8}
-"016"	{ruby (charSpan 2): ことし}今年も　あとちょっとだねぇ～{pause 40}
-"017"	{emote: Thought}
-"018"	{emote: Sleepy}
-"019"	{emote: Alarmed}
-"020"	{emote: Cold Chill}
-"021"	{emote: Distress}
-"022"	{emote: Love}
-"023"	{emote: Greetings}
-"024"	{emote: Distress}
-"025"	{emote: Happiness}
-"026"	{emote: Happiness}
-"027"	{emote: Distress}
-"028"	{emote: Shyness}
-"029"	{emote: Glee}
-"030"	{emote: Pride}
-"031"	{emote: Glee}
-"032"	{emote: Happiness}
-"033"	{emote: Happiness}
-"034"	
-"035"	{emote: Glee}
-"036"	{emote: Worry}
-"037"	{emote: Love}
-"038"	みんな　{ruby (charSpan 1): よる}夜おそくまで　おきてるなんて、{pause 20}
-"039"	{emote: Sleepy}
-"040"	{emote: Cold Chill}
-"041"	{emote: Happiness}
-"042"	{emote: Glee}
-"043"	
-"044"	
-"045"	{emote: Delight}
-"046"	{emote: Happiness}
-"047"	{emote: Joy}
-"048"	{emote: Greetings}
-"049"	{emote: Happiness}
-"050"	{emote: Soft Smile}
-"051"	{emote: Happiness}
-"052"	{emote: Sleepy}
-"053"	
-"054"	
-"055"	{emote: Surprise}
-"056"	{emote: Happiness}
-"057"	{emote: Surprise}
-"058"	{emote: Mischief}
-"059"	{emote: Pride}
-"060"	{emote: Glee}
-"061"	{emote: Alarmed}
-"062"	{emote: Surprise}
-"063"	{emote: Happiness}
-"064"	{emote: Happiness}
-"065"	{emote: Joy}
-"066"	{Player nickname (green)}
+"001"	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　カウントダウンの	おまつりだぁ～{Wait for input}{emote: Glee}みんなで　{ruby (charSpan 1): あたら}新しい{ruby (charSpan 1): とし}年を	おいわいしようねぇ、{pause 8}{catchphrase}
+"002"	{emote: Greetings}あけまして　おめでとぉ～！{pause 40}	{emote: Happiness}{ruby (charSpan 2): ことし}今年は　なんだか	いい{ruby (charSpan 1): とし}年に　なりそうだよぉ、{pause 8}{catchphrase}
+"003"
+"004"	{emote: Daydreaming}もうすぐ　{ruby (charSpan 2): ことし}今年もおわりかぁ～{pause 20}	ちょっぴり　さみしい	{ruby (charSpan 1): き}気もするよぉ、{pause 8}{catchphrase}
+"005"	{emote: Distress}どうしよう！{pause 20}	そろそろ　カウントダウンが	はじまっちゃうよねぇ～？！{Wait for input}{emote: Alarmed}え{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Mistaken}まだ　{ruby (charSpan 1): き}気が{ruby (charSpan 1): はや}早いかぁ～
+"006"	{emote: Glee}もうすぐ　{ruby (charSpan 2): としあ}年明けだぁ～！{pause 20}	ソワソワしちゃうよぉ、{pause 8}{catchphrase}
+"007"	{emote: Love}うぅ～ん！{pause 20}	{ruby (charSpan 2): よなか}夜中に　お{ruby (charSpan 1): そと}外に{ruby (charSpan 1): で}出るかんじ、{pause 20}	おおみそかって　トクベツ～、{pause 8}{catchphrase}
+"008"	{emote: Curious}{ruby (charSpan 2): しんねん}新年まで　あと{ruby (charSpan 1): なん}何びょう？{pause 40}	{emote: Thought}1{ruby (charSpan 1): ぷん}分が　60びょうだから{pause 8}・{pause 8}・{pause 8}・{pause 20}	え～っと{pause 20}　え～っと{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sadness}{ruby (charSpan 1): いま}今から　カウントダウンするのは	ムリそうだぁ、{pause 8}{catchphrase}
+"009"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、{pause 20}	{ruby (charSpan 1): こころ}心のじゅんびは	できてる～？　{pause 8}{catchphrase}？
+"010"	{emote: Alarmed}{0007-000a-0000}えぇ？！{pause 20}	もう　のこり5{ruby (charSpan 1): ふん}分をきったのぉ？{Wait for input}{emote: Distress}うわぁ～{pause 20}	ドキドキだよぉ、{pause 8}{catchphrase}
+"011"	{emote: Bashful}ボク　この{ruby (charSpan 2): じかん}時間まで	おきていられて　うれしいよぉ、{pause 8}{catchphrase}
+"012"	{emote: Distress}ついに　カウントダウンだねぇ{pause 40}	キ、{pause 20}キンチョーする～
+"013"	{emote: Distress}うわぁ～！{pause 20}	ついに　{ruby (charSpan 1): とし}年が{ruby (charSpan 1): あ}明けるよぉ～！{0007-0008-0004-0078-0000}
+"014"	{emote: Sleepy}ふぁぁ～～{pause 40}	{emote: Shocked}って、{pause 40}{emote: Disagreement}あくびしてる	{ruby (charSpan 2): ばあい}場合じゃないよねぇ、{pause 8}{catchphrase}{0007-0008-0004-0078-0000}
+"015"	あと1{ruby (charSpan 2): じかん}時間もしないで	{ruby (charSpan 1): あたら}新しい{ruby (charSpan 1): とし}年かぁ、{pause 8}{catchphrase}{Wait for input}{emote: Thought}そろそろ　おそばを	ゆではじめるころかなぁ？
+"016"	{ruby (charSpan 2): ことし}今年も　あとちょっとだねぇ～{pause 40}	{emote: Resigned}けっきょく　おおそうじは	おわらなそうだよぉ、{pause 8}{catchphrase}
+"017"	{emote: Thought}{Year}{ruby (charSpan 1): ねん}年、{pause 20}	やりのこしたことは　ないかなぁ？{Wait for input}{emote: Inspired}{0007-000a-0000}そうだ！{pause 40}	{emote: Glee}{0005-0013-0002-0000}を	{ruby (charSpan 1): た}食べおさめしよぉ～っと！
+"018"	{emote: Sleepy}ふぁぁ～～{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Disagreement}ダメダメ！{pause 20}	{emote: Anger}もう{ruby (charSpan 1): すこ}少しなんだから　おきてなくっちゃ！
+"019"	{emote: Alarmed}あっ！{pause 20}　もう{Hour}{ruby (charSpan 1): じ}時{Minutes}{000e-000b-0000}！{pause 40}	{emote: Glee}そろそろ　としこしそばを	{ruby (charSpan 1): た}食べる{ruby (charSpan 2): じかん}時間だぁ、{pause 8}{catchphrase}
+"020"	{emote: Cold Chill}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	おおみそかって　さむいよねぇ{Wait for input}{emote: Worry}おおみそかが{pause 20}　{ruby (charSpan 1): はる}春にあったら	いいのになぁ、{pause 8}{catchphrase}
+"021"	{emote: Distress}あぁ～{pause 20}	もうちょっとぉ～！{Wait for input}{Player nickname (green)}{0005-000d-0000}！{pause 20}	いそいで　{ruby (charSpan 2): ひろば}広場に　むかいなよぉ、{pause 8}{catchphrase}
+"022"	{emote: Love}{0005-0013-0002-0000}、{pause 20}{0005-0013-0002-0001}{pause 20}	{0005-0013-0002-0002}{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Daydreaming}あぁ～{pause 20}	{ruby (charSpan 2): ことし}今年の{ruby (charSpan 1): うち}内に　{ruby (charSpan 1): た}食べておきたかったものが、{pause 20}	{ruby (charSpan 1): あたま}頭の{ruby (charSpan 1): うえ}上を　ぐるぐるしてるよぉ～
+"023"	{emote: Greetings}もうちょっとで　カウントダウン！{pause 20}	{emote: Happiness}{ruby (charSpan 1): とし}年がかわるしゅんかんを	{ruby (charSpan 1): あじ}味わえるんだねぇ、{pause 8}{catchphrase}
+"024"	{emote: Distress}うわぁ～{pause 20}	ドキドキするねぇ{0007-0008-0004-0078-0000}
+"025"	{emote: Happiness}ついに　このしゅんかんが{pause 20}	{ruby (charSpan 1): き}来たんだねぇ～{0007-0008-0004-0078-0000}
+"026"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、{pause 20}	そのぼうし　にあってるねぇ～{pause 40}	{emote: Bashful}ボクも　にあうでしょ～？{pause 20}{emote: Soft Smile}
+"027"	{emote: Distress}{Player nickname (green)}{0005-000d-0000}の　ぼうし、{pause 40}	なんだか　ボクより　{ruby (charSpan 2): めだ}目立ってて	ズルいなぁ～！　{pause 8}{catchphrase}！
+"028"	{emote: Shyness}せっかくの　カウントダウンだよ？{pause 40}	ぼうしを　かぶって{pause 20}	いっしょに　もりあがろうよぉ、{pause 8}{catchphrase}
+"029"	{emote: Glee}このぼうし　いいでしょ～{pause 40}	ボク{pause 20}　この{ruby (charSpan 1): いろ}色　{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入っちゃったぁ！
+"030"	{emote: Pride}ぼうしもかぶって	じゅんび　バッチリ！{pause 40}	カウントダウンが　はじまるよぉ～
+"031"	{emote: Glee}えへへ～{pause 20}	ぼうしを　かぶると{pause 8}	{ruby (charSpan 2): きぶん}気分が　うきうきしちゃうねぇ！
+"032"	{emote: Happiness}{ruby (charSpan 2): ことし}今年は　この{ruby (charSpan 1): いろ}色の	ぼうしにしたんだぁ～{Wait for input}{emote: Bashful}{Player nickname (green)}{0005-000d-0000}も{pause 20}	{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): いろ}色のに　しようよぉ、{pause 8}{catchphrase}{pause 20}{emote: Soft Smile}
+"033"	{emote: Happiness}カウントダウンで	ぼうしを　かぶると、{pause 20}	いい{ruby (charSpan 2): しんねん}新年が　むかえられそう～{Wait for input}{emote: Agreement}{Player nickname (green)}{0005-000d-0000}も	かぶろうよぉ、{pause 8}{catchphrase}
+"034"
+"035"	{emote: Glee}{ruby (charSpan 2): はなび}花火{pause 20}　とっても	キレイだねぇ、{pause 8}{catchphrase}
+"036"	{emote: Worry}{Year}{ruby (charSpan 1): ねん}年に　なるしゅんかん、{pause 20}	{ruby (charSpan 1): め}目をつぶっちゃったぁ～{Wait for input}{emote: Sadness}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	くやしいなぁ、{pause 8}{catchphrase}
+"037"	{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): ことし}今年　さいしょのおやつは	{ruby (charSpan 1): なに}何にしようかなぁ、{pause 8}{catchphrase}
+"038"	みんな　{ruby (charSpan 1): よる}夜おそくまで　おきてるなんて、{pause 20}	{emote: Love}やっぱり　{ruby (charSpan 2): しんねん}新年って　とくべつ～！{pause 40}	{emote: Happiness}わくわくするねぇ、{pause 8}{catchphrase}
+"039"	{emote: Sleepy}ふぁぁ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	ねむいよぉ～{Wait for input}{emote: Alarmed}{0007-000a-0000}あぁ！{pause 40}	{emote: Bashful}コレが　{Year}{ruby (charSpan 1): ねん}年{pause 20}	さいしょの　ねむけだねぇ、{pause 8}{catchphrase}
+"040"	{emote: Cold Chill}さむ～い！{pause 40}	{ruby (charSpan 2): よなか}夜中の{ruby (charSpan 1): むら}村って	こんなに　さむかったんだねぇ、{pause 8}{catchphrase}
+"041"	{emote: Happiness}こんな{ruby (charSpan 2): じかん}時間に　{ruby (charSpan 1): そと}外にいるなんて、{pause 20}	ふしぎな　かんじだねぇ、{pause 8}{catchphrase}
+"042"	{emote: Glee}がんばって　はつ{ruby (charSpan 1): ひ}日の{ruby (charSpan 1): で}出まで	おきてようかなぁ、{pause 8}{catchphrase}
+"043"
+"044"
+"045"	{emote: Delight}ついに　{Year}{ruby (charSpan 1): ねん}年に	なったよぉ～！{Wait for input}{emote: Daydreaming}おせち　に　おぞうに！{pause 20}	お{ruby (charSpan 2): しょうがつ}正月　{ruby (charSpan 2): りょうり}料理って{pause 20}	もう　{ruby (charSpan 1): た}食べていいんだよねぇ～？
+"046"	{emote: Happiness}{ruby (charSpan 1): そと}外はきっと　{ruby (charSpan 2): はなび}花火があがってるねぇ～！{pause 40}	{emote: Glee}ボクは　おうちで、{pause 20}	ぽかぽか　ハッピ～ニューイヤ～！
+"047"	{emote: Joy}わぁ～い！{pause 20}	0{ruby (charSpan 1): じ}時まで　おきてられたよぉ！{Wait for input}{emote: Agreement}ボクにしては、	がんばったと{ruby (charSpan 1): おも}思うんだぁ、{pause 8}{catchphrase}
+"048"	{emote: Greetings}{Year}{ruby (charSpan 1): ねん}年に　なったよぉ～！{Wait for input}{emote: Thought}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): み}見た{ruby (charSpan 1): め}目は　あんまり	きょ{ruby (charSpan 1): ねん}年と　かわらないねぇ、{pause 8}{catchphrase}
+"049"	{emote: Happiness}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): あさ}朝まで	おきてたい{ruby (charSpan 2): きぶん}気分だよぉ、{pause 8}{catchphrase}
+"050"	{emote: Soft Smile}はつ{ruby (charSpan 1): ひ}日の{ruby (charSpan 1): で}出、{pause 20}	ボクのおうちから	{ruby (charSpan 1): み}見えるかなぁ？　{pause 8}{catchphrase}？
+"051"	{emote: Happiness}1{ruby (charSpan 1): がつ}月1{ruby (charSpan 1): にち}日は、{pause 20}	{ruby (charSpan 1): あたら}新しいふくをきるって　いうよねぇ～{Wait for input}{emote: Thought}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): あたら}新しいふく　もってたかなぁ？
+"052"	{emote: Sleepy}ふぁぁ～～{pause 40}	スッカリ　ねるタイミングを	のがしちゃったよぉ、{pause 8}{catchphrase}
+"053"
+"054"
+"055"	{emote: Surprise}あぁ～{pause 20}	{Player nickname (green)}{0005-000d-0000}{pause 20}	もう　ぼうしかぶってるのぉ？{Wait for input}{emote: Happiness}ボクも　かぶろ～っと！
+"056"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、{pause 20}	そのぼうし　にあうねぇ！{pause 40}	ボクも　かぶろ～っと！
+"057"	{emote: Surprise}そうだ！{pause 40}	{emote: Happiness}カウントダウンと{ruby (charSpan 1): い}言えば　コレだよね！{pause 40}	え～い！
+"058"	{emote: Mischief}{Player nickname (green)}{0005-000d-0000}{pause 8}・{pause 8}・{pause 8}・{pause 20}	ボクの{ruby (charSpan 1): あたま}頭に	ちゅうもくしてねぇ～？
+"059"	{emote: Pride}じゃあ～ん！{pause 20}	これで　カウントダウンを	もりあげちゃおう、{pause 8}{catchphrase}
+"060"	{emote: Glee}えへへ～{pause 20}	かっこいいでしょ～？
+"061"	{emote: Alarmed}{0007-000a-0000}あぁ～{pause 20}	ボク　かぶるのわすれてたぁ！
+"062"	{emote: Surprise}{0007-000a-0000}そうだぁ～{pause 20}	ボクも　ぼうし	もってるんだったぁ、{pause 8}{catchphrase}
+"063"	{emote: Happiness}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	そろそろ　ぼうし	かぶって　おこ～っと、{pause 8}{catchphrase}
+"064"	{emote: Happiness}もうすぐ　{ruby (charSpan 2): しんねん}新年だねぇ～{pause 40}	ボクも　そろそろ	じゅんび　しよ～っと！
+"065"	{emote: Joy}キミのおかげで	{ruby (charSpan 1): おも}思いだせたよぉ、{pause 8}{catchphrase}
+"066"	{Player nickname (green)}{0005-000d-0000}も{pause 20}	そろそろ　かぶったらどう～？

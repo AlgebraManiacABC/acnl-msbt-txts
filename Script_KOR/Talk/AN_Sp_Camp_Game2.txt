@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{emote: Soft Smile}
-"004"	{emote: Alarmed}
-"005"	{emote: Soft Smile}
-"006"	{emote: Soft Smile}
-"007"	{emote: Soft Smile}
-"008"	{emote: Soft Smile}
-"009"	{emote: Sheepishness}
-"010"	{emote: Soft Smile}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{0009-0000-0004-0b-00-0c-00}
-"014"	끝나 버렸네{pause 8}!
-"015"	아직 대박 상품이	남아 있었는데{pause 8}
-"016"	내가 보여주고 싶은 건	아직 안 나왔었는데{pause 8}
-"017"	참고로 5번째 가구는{pause 8}
-"018"	{emote: Soft Smile}
-"019"	{emote: Soft Smile}
+"001"	{emote: Soft Smile}지금, 여행 자금을 모으느라	아이템을 정리 중인데{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}너도 뭐 하나 사지 않을래?	{emote: Glare}그냥 사면 재미없으니까	게임 형식으로!		{emote: Showmanship}{pause 20}바로{pause 8}・{pause 8}・{pause 8}・{pause 20}	「찬스는 5번!」 입찰 게임이다!{pause 20}{Wait for input}	{0007-000d-0000}{emote: Curious}어때? {pause 20}해볼 테냐?{Player can respond (0005):0003-0015-0002-0028}	할래!	다음에 하자
+"002"	{emote: Worry}뭐야, {pause 8}그래?{pause 40}	{emote: Reset}싫음 말아라～	나중에 하지 뭐!{pause 20} {catchphrase}!
+"003"	{emote: Soft Smile}좋아!{pause 40}	{emote: Reset}이미 알고 있을지도 모르지만	일단 규칙부터 설명해주지	이제부터 5개의 가구를	이름과 가격을 대면서	차례대로 내놓을 거야	마음에 드는 게 있으면	그 자리에서	「살래」라고 말할 것!	{emote: Glare}말해 두지만 복불복이야{pause 8}・{pause 8}・{pause 8}・{pause 40}	그리고 마지막까지 아무것도 사지 않으면	5번째 가구는 무조건 사는 거다	{emote: Happiness}그럼 바로 시작해볼까?!{pause 40}	{emote: Reset}1번째 상품!{Wait for input}{emote: Inspired}{0011-0003-0002-0000}!{Wait for input}	{emote: Curious}{Blue}{Number (0x9)}벨{Color Reset}에 어때?{confirmation-02}{Player can respond (0005):0004-0015-0005-0028}	살래	안 사
+"004"	{emote: Alarmed}엉?! {pause 20}벌써 사냐?{pause 40}	뭐, 안 될 건 없지만{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Reset}암튼 땡큐～!
+"005"	{emote: Soft Smile}그래그래, 처음엔	다들 그렇게 신중하게 넘기더라{pause 40}	{emote: Reset}그럼 2번째!	{emote: Inspired}{0011-0003-0002-0001}!{Wait for input}	{emote: Curious}{Blue}{Number (0x9)}벨{Color Reset}에 어때?{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	살래	안 사
+"006"	{emote: Soft Smile}이걸로 한다고?{pause 40}	{emote: Reset}땡큐 땡큐～!
+"007"	{emote: Soft Smile}호오～	꽤나 신중한데{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}그럼 다음! {pause 40}3번째!	{emote: Inspired}{0011-0003-0002-0002}!{Wait for input}	{emote: Curious}{Blue}{Number (0x9)}벨{Color Reset}에 어때?{confirmation-02}{Player can respond (0005):0008-0015-0009-0028}	살래	안 사
+"008"	{emote: Soft Smile}여기서 멈추는 거야?{pause 40}	{emote: Reset}땡큐! 땡큐!
+"009"	{emote: Sheepishness}꽤 버티네{pause 8}・{pause 8}・{pause 8}・{pause 20}	뭐 노리는 거라도 있냐?{Wait for input}{emote: Agreement}이제 남은 거 얼마 없으니까	잘 생각하는 게 좋을걸!{pause 40}	{emote: Reset}다음!{pause 20} 4번째!	{emote: Inspired}{0011-0003-0002-0003}!{pause 40}	{Blue}{Number (0x9)}벨{Color Reset}에{Wait for input} {emote: Curious}어때?{confirmation-02}{Player can respond (0005):000a-0015-000d-0028}	살래	안 사
+"010"	{emote: Soft Smile}오!{pause 40}	드디어 마음에 드는 게 나왔냐?{pause 40}	{emote: Reset}땡큐ー!
+"011"	{emote: Alarmed}뭐야, 괜찮겠냐?{pause 40}	{emote: Reset}마지막에 걸어볼 생각이구만{pause 8}・{pause 8}・{pause 8}・{pause 20}{Wait for input}{emote: Anger}마지막 상품은 반드시 사야 한다는	규칙{pause 8}・{pause 8}・{pause 8}・{pause 20} 잊은 건 아니겠지?{pause 40}	뭐가 나와도 놀라진 마라!{pause 20}	{emote: Reset}발표한다!{Wait for input}	{emote: Inspired}5번째{pause 8}・{pause 8}・{pause 8}・{pause 20} {0011-0003-0002-0004}!{pause 40}	가격은 {Blue}{Number (0x9)}벨{Color Reset}!!	{emote: Sheepishness}뭐? {pause 20}비싸?{pause 20}	그러게 앞에 걸 사지 그랬냐!	{pause 40}{emote: Reset}아무튼 고맙다!!
+"012"	{emote: Alarmed}정말 괜찮겠냐?{pause 40}	{emote: Reset}마지막에 걸어볼 생각이구만{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}마지막 상품은 반드시 사야 한다는	규칙{pause 8}・{pause 8}・{pause 8}・{pause 20} 잊은 건 아니겠지?{pause 40}	{emote: Sheepishness}뭐가 나와도 놀라진 마라!	{emote: Reset}그럼 발표!!{Wait for input}	{emote: Inspired}5번째{pause 8}・{pause 8}・{pause 8}・{pause 20} {0011-0003-0002-0004}!{pause 40}	가격은 {Blue}{Number (0x9)}벨{Color Reset}!!	{emote: Happiness}여기까지 버틴	너의 근성을 생각해서	이번엔 서비스해줄게!	{emote: Reset}땡큐!!
+"013"	{0009-0000-0004-000b-000c}
+"014"	끝나 버렸네{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}그래도 팔렸으니까 됐지 뭐!{pause 20}	다음에도 잘 부탁해! {pause 20}{catchphrase}!
+"015"	아직 대박 상품이	남아 있었는데{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Soft Smile} 그건	다음 기회에! {pause 20}{catchphrase}!
+"016"	내가 보여주고 싶은 건	아직 안 나왔었는데{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}다음에 기회가 있겠지! {pause 20}{catchphrase}!
+"017"	참고로 5번째 가구는{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Sheepishness} 응?{pause 20}	듣고 싶지 않다고?{pause 40}	{emote: Soft Smile}그럼 다음에 또 해봐! {pause 20}{catchphrase}!
+"018"	{emote: Soft Smile}뭐{pause 8}・{pause 8}・{pause 8}・{pause 20} 매번 이런 건 아니니까	또 도전해봐! {pause 20}{catchphrase}!
+"019"	{emote: Soft Smile}보기 좋게 대박 상품을 건졌구만!{pause 20}	대단해!{pause 20} {catchphrase}!

@@ -1,65 +1,65 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Greetings}
-"005"	{emote: Anger}
-"006"	{emote: Resigned}
-"007"	{emote: Happiness}
-"008"	{emote: Thought}
-"009"	{emote: Laughter}
-"010"	{emote: Alarmed}
-"011"	{emote: Sadness}
-"012"	{emote: Sadness}
+"001"	{emote: Alarmed}Wait!{pause 20} You're going already?{Wait for input}{emote: Happiness}So then, what do you think of my	place?{pause 40} Pretty sweet feel to it, huh?{000f-0001-0006-0000-0000-0000}	It's awesome!	It's OK.	It's not so great.
+"002"	{emote: Alarmed}Hey! {capitalized}{Player nickname (green)}!{pause 40}	You're just going to leave like that?{Wait for input}{emote: Worry}At least tell me what you think of	the place, {pause 8}{catchphrase}.{000f-0001-0006-0000-0000-0000}	It's awesome!	It's OK.	It's not so great.
+"003"	{emote: Alarmed}Wait a sec!{pause 40} You're leaving?{Wait for input}{emote: Glee}You'll tell me what you think of my	place first, right?{Wait for input}We're friends, so don't hold back!{000f-0001-0006-0000-0000-0000}	It's awesome!	It's OK.	It's not so great.
+"004"	{emote: Greetings}Yeah!{pause 20} That's what I thought you'd	say!{pause 40} But I'm still happy to hear it!{Wait for input}{emote: Laughter}Ha ha!{pause 20} I know my place is awesome,	but don't go thinking you can move	in, {Player nickname (green)}!{pause 40}{emote: Soft Smile}
+"005"	{emote: Anger}Darn it, {Player nickname (green)}!{Wait for input}{emote: Thought}Well, if it's just OK, I guess I need to	try a little harder{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Anger}That settles it!{pause 20} Next time, you'll say	it's awesome! {pause 20}{capitalized}{catchphrase}!
+"006"	{emote: Resigned}I see{pause 8}.{pause 8}.{pause 8}.{pause 40} Well, I'm glad we're close	enough that you feel you can give	me your honest opinion.{Wait for input}{emote: Reset}However, I'm not changing anything!{Wait for input}{emote: Laughter}Ha ha!{pause 20} It's all staying the way it is!	{pause 20}{capitalized}{catchphrase}!{pause 40}{emote: Soft Smile}
+"007"	{emote: Happiness}Really?{pause 20} I'm glad that you like it!{pause 40}	You've got quite the discerning eye!
+"008"	{emote: Thought}Hmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Like it needs{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Curious}more pizzazz	or something?{Wait for input}{emote: Anger}All right!{pause 40} Next time, I'll surprise you!
+"009"	{emote: Laughter}Ha ha!{pause 20} You're so funny sometimes!{pause 40}{emote: Soft Smile}{Wait for input}{emote: Disbelief}{0007-000b-0000}Um{pause 8}.{pause 8}.{pause 8}.{pause 40} You really don't like it much?
+"010"	{emote: Alarmed}Really?!{pause 20} I didn't think you'd like it	that much!{Wait for input}{emote: Sunny}Heh heh!{pause 40} I knew my place was cool.	{pause 20}{capitalized}{catchphrase}!
+"011"	{emote: Sadness}Huh{pause 8}.{pause 8}.{pause 8}.{pause 40} Nothing special, huh{pause 8}.{pause 8}.{pause 8}.{pause 20}?{Wait for input}{emote: Resigned}Well, I guess it's not as bad as it	could be.
+"012"	{emote: Sadness}Darn{pause 8}.{pause 8}.{pause 8}.{pause 20} I know you're giving it to me	straight too.{Wait for input}{emote: Worry}I guess my tastes are just too far	ahead of the times!
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Greetings}
-"005"	{emote: Anger}
-"006"	{emote: Resigned}
-"007"	{emote: Happiness}
-"008"	{emote: Thought}
-"009"	{emote: Laughter}
-"010"	{emote: Alarmed}
-"011"	{emote: Sadness}
-"012"	{emote: Sadness}
+"001"	{emote: Alarmed}¡Espera!{pause 20} ¿Ya te vas?{Wait for input}{emote: Happiness}Oye, ¿qué te parece mi casa?{pause 40}	Es tremenda, ¿eh?{000f-0001-0006-0000-0000-0000}	¡Es una pasada!	Está bien	No es para tanto
+"002"	{emote: Alarmed}¡Alto ahí, {Player nickname (green)}!{pause 40}	¿Te vas a marchar así?{Wait for input}{emote: Worry}¡Al menos dime lo que te ha	parecido mi casa, {pause 8}{catchphrase}!{000f-0001-0006-0000-0000-0000}	¡Es una pasada!	Está bien	No es gran cosa
+"003"	{emote: Alarmed}¡Espera ahí!{pause 40} ¿Ya te marchas?{Wait for input}{emote: Glee}Antes me dirás lo que te parece	mi casa, ¿no?{Wait for input}Somos colegas, ¡así que	tú no te cortes!{000f-0001-0006-0000-0000-0000}	¡Es una pasada!	Está bien	No es gran cosa
+"004"	{emote: Greetings}¡Sí!{pause 20} ¡Era lo que esperaba que	dijeses!{pause 40} ¡Pero de todas formas	me alegro de oírlo!{Wait for input}{emote: Laughter}¡Ja, ja!{pause 20} Sí, mi casa es brutal, ¡pero	tampoco creas que voy a dejar	que te mudes aquí, {Player nickname (green)}!{pause 40}{emote: Soft Smile}
+"005"	{emote: Anger}¡¿Qué me estás diciendo,	{Player nickname (green)}?!{Wait for input}{emote: Thought}Si solo está bien, supongo que	me lo voy a tener que currar más{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Anger}¡Esto no va a quedar así!{pause 20} ¡Pienso	conseguir que la próxima vez digas	que es una pasada, {pause 20}{catchphrase}!
+"006"	{emote: Resigned}Ya veo{pause 8}.{pause 8}.{pause 8}.{pause 40} Bueno, me alegro de	que estemos a un nivel en el que	puedas ser tan sincer{o/a} conmigo.{Wait for input}{emote: Reset}¡Pero yo no pienso cambiar nada!{Wait for input}{emote: Laughter}¡Ja, ja!{pause 20} La casa se va a quedar	exactamente como está. ¡A mí	me gusta así, {pause 20}{catchphrase}!{pause 40}{emote: Soft Smile}
+"007"	{emote: Happiness}¿En serio?{pause 20} ¡Me alegro de que	te guste!{pause 40} ¡Tú sí que tienes ojo	para estas cosas!
+"008"	{emote: Thought}Hum{pause 8}.{pause 8}.{pause 8}.{pause 20} ¿Tú ves que esto necesite{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Curious}más vidilla, algo con más gancho?{Wait for input}{emote: Anger}¡Muy bien!{pause 40} ¡La próxima vez	te sorprenderé!
+"009"	{emote: Laughter}¡Ja, ja!{pause 20} ¡Qué chistos{o/a} eres a veces!{pause 40}{emote: Soft Smile}{Wait for input}{emote: Disbelief}{0007-000b-0000}Esto{pause 8}.{pause 8}.{pause 8}.{pause 40} ¿De verdad que no te	convence?
+"010"	{emote: Alarmed}¡¿En serio?!{pause 20} ¡No esperaba que	te fuera a gustar tanto!{Wait for input}{emote: Sunny}¡Ja, ja!{pause 40} ¡Ya sabía yo que mi casa	era la caña, {pause 20}{catchphrase}!
+"011"	{emote: Sadness}Ah{pause 8}.{pause 8}.{pause 8}.{pause 40} No te parece que mi casa	sea para tanto, ¿eh?{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{emote: Resigned}Bueno, pero tendrás que admitir	que podría ser mucho peor.
+"012"	{emote: Sadness}Vaya palo{pause 8}.{pause 8}.{pause 8}.{pause 8}{pause 20} Pero también sé que	me estás diciendo lo que hay.{Wait for input}{emote: Worry}¡Supongo que tengo unos gustos	demasiado extremos!
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Greetings}
-"005"	{emote: Anger}
-"006"	{emote: Resigned}
-"007"	{emote: Happiness}
-"008"	{emote: Thought}
-"009"	{emote: Laughter}
-"010"	{emote: Alarmed}
-"011"	{emote: Sadness}
-"012"	{emote: Sadness}
+"001"	{emote: Alarmed}Attends !{pause 20} Tu t'en vas déjà ?{Wait for input}{emote: Happiness}Avant de partir, dis-moi au moins ce	que tu penses de ma maison !{pause 20} On s'y	sent bien, pas vrai ?{000f-0001-0006-0000-0000-0000}	Super bien !	Pas mal, sans plus.	Je me sens mal...
+"002"	{emote: Alarmed}Hé, {Player nickname (green)} !{pause 40}	Tu ne vas quand même pas partir	comme ça ?!	{emote: Worry}Donne-moi au moins ton avis sur	mon chez-moi,{pause 8} {catchphrase}. On s'y	sent bien, hein ?{000f-0001-0006-0000-0000-0000}	Super bien !	Pas mal, sans plus.	Je me sens mal...
+"003"	{emote: Alarmed}Minute !{pause 40} Tu pars déjà ?{Wait for input}{emote: Glee}OK, mais d'abord, dis-moi comment	tu trouves ma maison !{Wait for input}On s'y sent bien, non ? Sois {franc/franche},	tu veux ?{000f-0001-0006-0000-0000-0000}	Super bien !	Pas mal, sans plus.	Je me sens mal...
+"004"	{emote: Greetings}Youhou !{pause 20} J'étais sûr que tu allais	dire ça !{pause 15} Mais ça fait toujours plaisir	à entendre !	{emote: Laughter}Ha ha !{pause 20} Désolé, mais je ne recherche	pas de colocataires pour l'instant,	{Player nickname (green)} !{pause 15}{emote: Soft Smile}
+"005"	{emote: Anger}Boh, {Player nickname (green)} !{Wait for input}{emote: Thought}Bon, puisque c'est si bof, j'imagine	que je vais devoir redoubler	d'efforts en matière de déco{pause 8}.{pause 8}.{pause 8}.	{emote: Anger}OK ! Je relève le défi !{pause 20} La prochaine	fois, tu seras {conquis/conquise} !{pause 20}	{capitalized}{catchphrase} !
+"006"	{emote: Resigned}Carrément{pause 8}.{pause 8}.{pause 8}.{pause 40} Bon, au moins, je suis	touché de voir que tu exprimes ton	opinion sans retenue.	{emote: Reset}D'ailleurs, je ne compte rien	changer malgré ton avis assassin !{Wait for input}{emote: Laughter}Ha ha !{pause 20} C'est ça l'amitié ! Pouvoir	tout se dire sans craindre de	brusquer l'autre,{pause 20} {catchphrase} !{pause 15}{emote: Soft Smile}
+"007"	{emote: Happiness}Vraiment ?{pause 20} Content que ça te	plaise !{pause 15} Tu as décidément l'œil pour	les belles choses !
+"008"	{emote: Thought}Hmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Tu veux dire{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Curious}qu'il manque	la petite touche qui fait toute la	différence, c'est ça ?	{emote: Anger}J'en prends bonne note !{pause 20} Je saurai	te surprendre la prochaine fois !
+"009"	{emote: Laughter}Ha ha !{pause 20} Tu es {un sacré petit/une sacrée petite}	comique quand tu t'y mets !{Wait for input}{emote: Disbelief}{0007-000b-0000}Hum{pause 8}.{pause 8}.{pause 8}.{pause 20} Attends...{pause 20} Tu étais {sérieux/sérieuse} ?
+"010"	{emote: Alarmed}Ah bon ?!{pause 20} Je ne m'attendais pas à	une réaction aussi positive !{Wait for input}{emote: Sunny}Hé hé !{pause 40} Il faut croire que ma maison	est encore plus classe que je ne le	pensais,{pause 20} {catchphrase} !
+"011"	{emote: Sadness}Hum{pause 8}.{pause 8}.{pause 8}.{pause 20} Ni classe ni naze, hein{pause 8}.{pause 8}.{pause 8}.?{Wait for input}{emote: Resigned}Bon, j'imagine que ça aurait pu être	pire...
+"012"	{emote: Sadness}Fichtre{pause 8}.{pause 8}.{pause 8}.{pause 20} Tu n'as même pas l'air de	plaisanter, en plus...{Wait for input}{emote: Worry}Mes goûts doivent être trop en	avance sur leur temps, je ne vois	que ça !
 == 3 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Greetings}
-"005"	{emote: Anger}
-"006"	{emote: Resigned}
-"007"	{emote: Happiness}
-"008"	{emote: Thought}
-"009"	{emote: Laughter}
-"010"	{emote: Alarmed}
-"011"	{emote: Sadness}
-"012"	{emote: Sadness}
+"001"	{emote: Alarmed}Aspetta!{pause 20} Te ne vai già?{Wait for input}{emote: Happiness}Allora, che ne pensi di casa mia?{pause 40}	Ci si sta bene, vero?{000f-0001-0006-0000-0000-0000}	È stupenda!	È carina.	Non è granché.
+"002"	{emote: Alarmed}Ehi! {capitalized}{Player nickname (green)}!{pause 40} Te ne vai così,	senza dire niente?{Wait for input}{emote: Worry}Almeno dimmi che cosa pensi	di casa mia, {pause 8}{catchphrase}!{000f-0001-0006-0000-0000-0000}	È grandiosa!	È... normale.	Non è granché.
+"003"	{emote: Alarmed}Aspetta un attimo! Te ne vai?{Wait for input}{emote: Glee}Prima dimmi che cosa pensi	di casa mia, va bene?{Wait for input}Siamo amici, quindi puoi dirmi	quello che pensi!{000f-0001-0006-0000-0000-0000}	È bellissima!	È... giusta.	Non è granché...
+"004"	{emote: Greetings}Sì!{pause 20} Sapevo che l'avresti detto!{pause 40}	Ma fa sempre piacere sentirsi	dire una cosa del genere!	{emote: Laughter}Ah ah!{pause 20} Casa mia è proprio bella,	ma non pensare di poterti trasferire	qui, {Player nickname (green)}!{pause 40}{emote: Soft Smile}
+"005"	{emote: Anger}Oh, no, {Player nickname (green)}!{Wait for input}{emote: Thought}Forse devo solo darmi	un po' più da fare{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Anger}Mi impegnerò!{pause 20} E la prossima volta	cambierai idea! {pause 20}{capitalized}{catchphrase}!
+"006"	{emote: Resigned}Capisco{pause 8}.{pause 8}.{pause 8}.{pause 40} Bene, per lo meno sei	stat{o/a} onest{o/a}.{Wait for input}{emote: Reset}Però, non ho intenzione	di cambiare niente!{Wait for input}{emote: Laughter}Ah ah!{pause 20} Lascio tutto così com'è!	{pause 20}{capitalized}{catchphrase}!{pause 40}{emote: Soft Smile}
+"007"	{emote: Happiness}Davvero?{pause 20} Sono proprio contento	che ti piaccia!{pause 40} Tu sì che la sai lunga!
+"008"	{emote: Thought}Mmmh{pause 8}.{pause 8}.{pause 8}.{pause 20} Dici che ha bisogno di{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Curious}	più carattere?{Wait for input}{emote: Anger}Accetto la sfida!{pause 40} La prossima volta	rimarrai a bocca aperta!
+"009"	{emote: Laughter}Ah ah!{pause 20} Certe volte sei proprio	uno spasso!{pause 40}{emote: Soft Smile}{Wait for input}{emote: Disbelief}{0007-000b-0000}Ehm{pause 8}.{pause 8}.{pause 8}.{pause 40} Davvero non ti piace?
+"010"	{emote: Alarmed}Davvero?!{pause 20} Non pensavo che	ti sarebbe piaciuta così tanto!{Wait for input}{emote: Sunny}Eh eh!{pause 40} Però ho sempre saputo	che casa mia ha un certo stile.	{pause 20}{capitalized}{catchphrase}!
+"011"	{emote: Sadness}Oh{pause 8}.{pause 8}.{pause 8}.{pause 40} Niente di speciale, eh{pause 8}.{pause 8}.{pause 8}.{pause 20}?{Wait for input}{emote: Resigned}Meglio di niente...
+"012"	{emote: Sadness}Oh, no{pause 8}.{pause 8}.{pause 8}.{pause 8}{pause 20} Questo è quello che pensi	davvero, lo so.{Wait for input}{emote: Worry}I miei gusti forse sono troppo	avanti rispetto a quello che va	di moda adesso!
 == 4 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Greetings}
-"005"	{emote: Anger}
-"006"	{emote: Resigned}
-"007"	{emote: Happiness}
-"008"	{emote: Thought}
-"009"	{emote: Laughter}
-"010"	{emote: Alarmed}
-"011"	{emote: Sadness}
-"012"	{emote: Sadness}
+"001"	{emote: Alarmed}Moment mal!{pause 20} Du willst schon gehen?{Wait for input}{emote: Happiness}Sag mir doch erst mal, wie du meine	Bude findest!{pause 40} Ganz schön schnittig,	oder?{000f-0001-0006-0000-0000-0000}	Super!	In Ordnung!	Na ja...
+"002"	{emote: Alarmed}Hey! {capitalized}{Player nickname (green)}!{pause 40}	Du kannst mich doch nicht	einfach hier stehen lassen!{Wait for input}{emote: Worry}Sag mir wenigstens, wie du meine	Bude findest, {pause 8}{catchphrase}!{000f-0001-0006-0000-0000-0000}	Super!	In Ordnung!	Na ja...
+"003"	{emote: Alarmed}Warte!{pause 40} Du gehst schon?{Wait for input}{emote: Glee}Sag mir bitte erst mal, wie du meine	Bude überhaupt findest!{Wait for input}Sei ganz ehrlich, {Sportsfreund/Sportsfreundin}!{000f-0001-0006-0000-0000-0000}	Super!	In Ordnung!	Na ja...
+"004"	{emote: Greetings}Klasse!{pause 20} Mir war vorher klar,	dass du das sagen würdest...	{pause 40}Aber ich hör's trotzdem gern!{Wait for input}{emote: Laughter}Haha!{pause 20} Denk jetzt aber bloß nicht,	dass du hier einziehen kannst,	{Player nickname (green)}!{pause 40}{emote: Soft Smile}
+"005"	{emote: Anger}Heiliger Flatterball!{Wait for input}{emote: Thought}Wenn sie nur in Ordnung ist, hab ich	noch einiges zu tun...{Wait for input}{emote: Anger}Ich nehm die Herausforderung an!{pause 20}	Und beim nächsten Mal wirst du	begeistert sein! {pause 20}{capitalized}{catchphrase}!
+"006"	{emote: Resigned}Okay...{pause 40} Auch wenn's wehgetan hat...{pause 20}	Ich bin echt froh, dass du mir offen	deine Meinung gesagt hast...	{emote: Reset}Aber ich werde trotzdem nichts an	meiner Bude ändern!{Wait for input}{emote: Laughter}Haha!{pause 20} Ich lass alles genauso stehen,	weil's mir gefällt, {pause 8}{catchphrase}!{pause 20}{emote: Soft Smile}
+"007"	{emote: Happiness}Im Ernst?{pause 20} Ich bin echt froh, dass dir	meine Bude gefällt!{pause 40} Du hast Ahnung	von Möbeln und solchen Sachen...
+"008"	{emote: Thought}Hmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Ich wette, du vermisst hier{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Surprise}noch mehr sportliche Eleganz!{Wait for input}{emote: Anger}Okay!{pause 40} Beim nächsten Mal könnte	dich eine Überraschung erwarten!
+"009"	{emote: Laughter}Haha!{pause 20} Du bist echt witzig manchmal!{pause 40}{emote: Soft Smile}{Wait for input}{emote: Disbelief}{0007-000b-0000}Moment mal{pause 8}.{pause 8}.{pause 8}.{pause 20} Du meinst das	ernst, oder? {pause 40}{emote: Shyness}D-dir gefällt's hier	echt nicht, was?
+"010"	{emote: Alarmed}Im Ernst?!{pause 20} Ich hätte nicht gedacht,	dass es dir hier so gut gefällt!{Wait for input}{emote: Sunny}Haha!{pause 40} Ich wusste doch, dass meine	Bude echt klasse ist, {pause 8}{catchphrase}!
+"011"	{emote: Sadness}Oh{pause 8}.{pause 8}.{pause 8}.{pause 40} Du findest sie also „okay“?{Wait for input}{emote: Resigned}Na ja... {pause 40}Die Bude ist wohl doch	nicht so schlimm, wie ich dachte!
+"012"	{emote: Sadness}So ein Pfostenschuss{pause 8}.{pause 8}.{pause 8}.{pause 20} Vielen Dank,	dass du mir deine Meinung so offen	gesagt hast!	{emote: Worry}Irgendwie muss ich mir wohl einen	neuen Geschmack antrainieren...

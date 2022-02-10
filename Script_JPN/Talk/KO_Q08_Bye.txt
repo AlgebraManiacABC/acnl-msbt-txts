@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Soft Smile}
-"004"	{emote: Alarmed}
-"005"	{emote: Curious}
-"006"	{emote: Distress}
+"001"	{emote: Happiness}さぁーて！{pause 20}	それじゃ、{pause 8}	そろそろ　{ruby (charSpan 1): かえ}帰るとするかな！{Wait for input}{ruby (charSpan 1): たい}大した{ruby (charSpan 1): はなし}話も　できなかったが、{pause 20}	オメェの{ruby (charSpan 2): へや}部屋、{emote: Sunny}{pause 8}{ruby (charSpan 1): たの}楽しかったぜ！	{pause 20}{catchphrase}！
+"002"	{emote: Surprise}おっ、{pause 8}もうこんな{ruby (charSpan 2): じかん}時間か？{Wait for input}	{emote: Reset}いけねぇ、{pause 20}	{emote: Soft Smile}そろそろ{ruby (charSpan 1): かえ}帰らねぇとな、{pause 20}{catchphrase}！
+"003"	{emote: Soft Smile}さて、{pause 8}オメェの{ruby (charSpan 2): へや}部屋も	{ruby (charSpan 2): じゅうぶん}十分　たんのうしたし{pause 20}	ぼちぼち{ruby (charSpan 1): かえ}帰るとするか、{pause 20}{catchphrase}！
+"004"	{emote: Alarmed}なんだ？{pause 20}	オメェ、{pause 8}どっか{ruby (charSpan 1): い}行くのか？{pause 20}	{emote: Soft Smile}なら　オレも{pause 8}　{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 1): で}出るぜ！	{emote: Happiness}{ruby (charSpan 1): うち}家ん{ruby (charSpan 1): なか}中　{ruby (charSpan 1): み}見せてくれて	ありがとな、{pause 20}{catchphrase}！
+"005"	{emote: Curious}ん？　{pause 20}どっか　でかけんのか？{Wait for input}	{emote: Worry}オレを{ruby (charSpan 1): お}置いてかねぇでくれよ、{pause 20}	{emote: Reset}{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 1): で}出るぜ、{pause 20}{catchphrase}！
+"006"	{emote: Distress}おいおい、{pause 20}	オレを{ruby (charSpan 1): お}置いて　どこへ{ruby (charSpan 1): い}行く{ruby (charSpan 1): き}気でぇ？{Wait for input}{emote: Reset}でかけるなら{pause 20}	オレも　{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 1): で}出てくぜ

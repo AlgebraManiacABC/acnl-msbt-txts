@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{Greeting begin}
-"002"	오늘은 계속{pause 8}!
-"003"	{emote: Sneezing}
-"004"	{emote: Cold Chill}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"	{emote: Worry}
+"001"	{Greeting begin}오호{Greeting end}!{pause 30}	{emote: Sheepishness}너 안 춥냐?{pause 20} {catchphrase}?
+"002"	오늘은 계속{pause 8}	이런 날씨일 것 같네, {pause 20}{catchphrase}
+"003"	{emote: Sneezing}{pause 8}{0007-000b-0000}에ー엣취!!
+"004"	{emote: Cold Chill}으ー아!{pause 30}	{emote: Worry}가만있자니{pause 8} 꽁꽁	얼어 붙겠어, {pause 20}{emote: Fearful}덜덜덜{pause 8}・{pause 8}・{pause 8}・{emote: Worry}
+"005"	{emote: Happiness}{Greeting begin}어이, {Player nickname (green)}{Greeting end}!{pause 30}	그렇게 뛰어다니다가	자빠진다!{pause 20} {catchphrase}!
+"006"	{emote: Happiness}{Greeting begin}오호{Greeting end}!{pause 30}	추위도 안 타는 니가{pause 8}	부럽다!{pause 20} {catchphrase}!
+"007"	{emote: Greetings}{Greeting begin}어이, {Player nickname (green)}{Greeting end}!{pause 20}	{catchphrase}!
+"008"	{emote: Worry}거 참, 잘도 내리네{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Cold Chill}으으으{pause 40} 추워!{pause 20} {catchphrase}・{pause 8}・{pause 8}・

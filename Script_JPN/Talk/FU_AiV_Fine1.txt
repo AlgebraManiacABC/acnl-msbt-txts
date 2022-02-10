@@ -1,15 +1,15 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Happiness}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Alarmed}
-"011"	{emote: Happiness}
-"012"	{emote: Alarmed}
-"013"	
-"014"	{000a-0008-0010-07-00-07-00-09-00-09-00-09-00-09-00-09-00-09-00}
+"001"	{emote: Happiness}{Greeting begin}あら、{pause 10}おはようございます{Greeting end}！{pause 15}	よくいらっしゃいましたね、{pause 15}{catchphrase}
+"002"	{emote: Surprise}あら！　{pause 20}{Player name}さん{pause 15}	{emote: Happiness}おはようございます{Wait for input}{ruby (charSpan 1): あさ}朝から{pause 10}　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来て	くださったんですね、{pause 15}{catchphrase}！
+"003"	{emote: Happiness}まぁ　{pause 10}{Player name}さん！{Wait for input}	{ruby (charSpan 1): あさ}朝から　お{ruby (charSpan 1): かお}顔が{ruby (charSpan 1): み}見れて{pause 8}	うれしいです、{pause 15}{catchphrase}
+"004"	{emote: Surprise}まぁ！　{pause 20}{emote: Happiness}{Greeting begin}こんにちは{Greeting end}{pause 15}	{emote: Soft Smile}お{ruby (charSpan 1): で}出かけですか、{pause 15}{catchphrase}？{Wait for input}	{emote: Joy}すてきな{ruby (charSpan 2): いちにち}一日を　{pause 5}お{ruby (charSpan 1): す}過ごしください{pause 30}{emote: Soft Smile}
+"005"	{emote: Surprise}あら　{pause 10}{Player name}さん{Wait for input}	{emote: Happiness}ようこそ　{pause 8}{Town name (pink)}{ruby (charSpan 1): むら}村へ、{pause 15}{catchphrase}！
+"006"	{emote: Happiness}{Greeting begin}こんにちは　{pause 10}{Player name}さん{Greeting end}{pause 15}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくださったんですね！{Wait for input}{emote: Joy}ぜひ　{pause 5}{Town name (pink)}{ruby (charSpan 1): むら}村を{pause 3}	{ruby (charSpan 1): たの}楽しんでいってください、{pause 15}{catchphrase}{pause 30}{emote: Soft Smile}
+"007"	{emote: Happiness}{Greeting begin}こんばんは！{pause 10}　{Player nickname (green)}さん{Greeting end}{Wait for input}{emote: Glee}{Town name (pink)}{ruby (charSpan 1): むら}村の{ruby (charSpan 2): よぞら}夜空を{pause 8}	{ruby (charSpan 1): み}見に{ruby (charSpan 1): き}来たんですね、{pause 15}{catchphrase}！
+"008"	{emote: Happiness}あら、{pause 10}{Player name}さん{pause 15}	{emote: Curious}{ruby (charSpan 1): よる}夜のお{ruby (charSpan 2): さんぽ}散歩ですか？{Wait for input}	{emote: Happiness}{ruby (charSpan 1): たの}楽しそうですね、{pause 15}{catchphrase}！
+"009"	{emote: Happiness}{Greeting begin}こんばんは{Greeting end}{pause 15}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくださったんですね！{Wait for input}{emote: Soft Smile}もう{ruby (charSpan 1): くら}暗くなりましたけど{pause 10}	ごゆっくりどうぞ、{pause 15}{catchphrase}！
+"010"	{emote: Alarmed}まぁ　{pause 15}{Player name}さん！{pause 20}	こんな{ruby (charSpan 2): じかん}時間に　{pause 5}お{ruby (charSpan 1): あ}会いできるなんて！{Wait for input}{emote: Happiness}{ruby (charSpan 2): よなか}夜中の　{Town name (pink)}{ruby (charSpan 1): むら}村は{pause 10}	{ruby (charSpan 2): ひるま}昼間とは　{pause 8}また{ruby (charSpan 1): ちが}違う	{ruby (charSpan 2): みりょく}魅力がありますよ、{pause 15}{catchphrase}
+"011"	{emote: Happiness}{Greeting begin}あら！{Greeting end}{pause 15}	ようこそ　{Town name (pink)}{ruby (charSpan 1): むら}村へ{Wait for input}{emote: Happiness}{ruby (charSpan 1): いま}今　{Hour}{ruby (charSpan 1): じ}時ですけど、{pause 8}	お{ruby (charSpan 2): さんぽ}散歩　{ruby (charSpan 1): たの}楽しんでくださいね、{pause 15}{catchphrase}！
+"012"	{emote: Alarmed}{Player name}さん！{Wait for input}	{emote: Soft Smile}こんな{ruby (charSpan 1): おそ}遅くに{pause 10}	どなたかと{ruby (charSpan 1): おも}思いました、{pause 15}{catchphrase}
+"013"
+"014"	{000a-0008-0010-0007-0007-0009-0009-0009-0009-0009-0009}

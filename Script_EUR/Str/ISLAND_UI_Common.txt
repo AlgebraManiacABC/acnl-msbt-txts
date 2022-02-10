@@ -1,15 +1,15 @@
 == 0 ==
 "001"	Pick a spot to pitch your tent!
-"002"	(Spaces left: {Red}{Number (0x6)}
+"002"	(Spaces left: {Red}{Number (0x6)}{Color Reset})
 "003"	Choose which space to move to.
 "004"	Choose where to throw the float.
 "005"	{Number (0x6)}
-"006"	 Search here
-"007"	 Move here
-"008"	 View map
-"009"	 Return
-"010"	
-"011"	{0011-0001-0002-00-00}
+"006"	Ⓐ Search here
+"007"	Ⓐ Move here
+"008"	Ⓨ View map
+"009"	Ⓑ Return
+"010"
+"011"	{0011-0001-0002-0000}
 "012"	{0014-0003-0000}
 "013"	×{Number (0x6)}
 "014"	×{Number (0x6)}
@@ -19,46 +19,46 @@
 "019"	Days to spare: 
 "020"	Explored:
 "021"	Food bonus: 
-"022"	{Number (0x8)}
-"023"	{Number (0x7)}
+"022"	{Number (0x8)}%
+"023"	{Number (0x7)} {/day/days}
 "024"	Overall bonus: 
 "025"	{Number (0x7)}
-"026"	{0004-000b-0002-00-00}
+"026"	{0004-000b-0002-0000}
 "027"	Escape failed...
 "028"	You escaped!
-"030"	{0004-000b-0002-00-00}
+"030"	{0004-000b-0002-0000}
 "031"	Target score:
-"032"	{0004-000b-0002-00-00}
+"032"	{0004-000b-0002-0000}
 "033"	{Number (0x8)}
-"034"	{Number (0x7)}
+"034"	{Number (0x7)} wins in a row!
 "036"	We need more food supplies!
-"037"	{0011-0001-0002-00-00}
-"038"	Escape within {Number (0x7)}
-"039"	{0011-0001-0002-00-00}
-"040"	{Blue}{Number (0x7)}
+"037"	{0011-0001-0002-0000} needs to rest!
+"038"	Escape within {Number (0x7)} days!
+"039"	{0011-0001-0002-0000}'s turn
+"040"	{Blue}{Number (0x7)} {Color Reset}days left
 "041"	The final day
-"043"	{0000-0002-0002-ffffff82-00}Final Day{0000-0002-0002-64-00}
-"044"	{0000-0002-0002-78-00}{Number (0x7)}
-"045"	{Number (0x6)}
+"043"	{Text size 130%}Final Day{Text size 100%}
+"044"	{Text size 120%}{Number (0x7)}{Text size 100%} {/day/days} of food
+"045"	{Number (0x6)} more
 "046"	Not enough food!
-"047"	
-"048"	Days left: {0000-0002-0002-78-00}{Number (0x7)}
-"049"	{Number (0x7)}
+"047"
+"048"	Days left: {Text size 120%}{Number (0x7)}{Text size 100%}
+"049"	{Number (0x7)} {/day/days}
 "050"	N/A
 "051"	Score
 "052"	7?
 == 1 ==
 "001"	Elige dónde quieres acampar.
-"002"	Mueve {Red}{Number (0x6)}
+"002"	Mueve {Red}{Number (0x6)}{Color Reset} casill{/a/as}.
 "003"	Elige a qué casilla te desplazas.
 "004"	Elige dónde lanzas el anzuelo.
 "005"	{Number (0x6)}
-"006"	 Explorar
-"007"	 Mover aquí
-"008"	 Mapa
-"009"	 Atrás
-"010"	
-"011"	{0011-0001-0002-00-00}
+"006"	Ⓐ Explorar
+"007"	Ⓐ Mover aquí
+"008"	Ⓨ Mapa
+"009"	Ⓑ Atrás
+"010"
+"011"	{0011-0001-0002-0000}
 "012"	{0014-0003-0000}
 "013"	×{Number (0x6)}
 "014"	×{Number (0x6)}
@@ -68,47 +68,47 @@
 "019"	Días sobrantes
 "020"	Explorado
 "021"	Bonificación por raciones
-"022"	{Number (0x8)}
-"023"	{Number (0x7)}
+"022"	{Number (0x8)} %
+"023"	{Number (0x7)} {/día/días}
 "024"	Total
 "025"	{Number (0x7)}
-"026"	{0004-000b-0002-00-00}
+"026"	{0004-000b-0002-0000}
 "027"	No has logrado escapar...
 "028"	¡Has logrado	escapar!
-"030"	{0004-000b-0002-00-00}
+"030"	{0004-000b-0002-0000}
 "031"	Objetivo
-"032"	{0004-000b-0002-00-00}
+"032"	{0004-000b-0002-0000}
 "033"	{Number (0x8)}
-"034"	¡{Number (0x7)}
+"034"	¡{Number (0x7)} victorias seguidas!
 "036"	¡No hay provisiones para hoy!
-"037"	{0011-0001-0002-00-00}
-"038"	¡Escapa en {Number (0x7)}
-"039"	¡Es el turno de {0011-0001-0002-00-00}
-"040"	¡Qued{<00><02>a<04>an} {Number (0x7)}
+"037"	{0011-0001-0002-0000} necesita reposo.
+"038"	¡Escapa en {Number (0x7)} dí{/a/as}!
+"039"	¡Es el turno de {0011-0001-0002-0000}!
+"040"	¡Qued{/a/an} {Number (0x7)} dí{/a/as}!
 "041"	¡Último día!
-"043"	{0000-0002-0002-ffffff82-00}Último día{0000-0002-0002-64-00}
-"044"	Raciones: {0000-0002-0002-78-00}{Number (0x7)}!
-"045"	Busca {0000-0002-0002-78-00}{Number (0x6)}
+"043"	{Text size 130%}Último día{Text size 100%}
+"044"	Raciones: {Text size 120%}{Number (0x7)}{Text size 100%} dí{/a/as}
+"045"	Busca {Text size 120%}{Number (0x6)}{Text size 100%}
 "046"	¡Faltan raciones!
-"047"	
-"048"	Qued{<00><02>a<04>an} {Number (0x7)}
-"049"	{Number (0x7)}
+"047"
+"048"	Qued{/a/an} {Number (0x7)} dí{/a/as}
+"049"	{Number (0x7)} {/día/días}
 "050"	-
 "051"	Puntuación
 "052"	¿7?
 == 2 ==
 "001"	Choisissez où monter votre tente.
-"002"	(Encore {Red}{Number (0x6)}
+"002"	(Encore {Red}{Number (0x6)}{Color Reset} {/case/cases})
 "003"	Jusqu'où veux-tu creuser ?
 "004"	Choisis où jeter le flotteur !
-"005"	Choisis où creuser ! (Encore {Number (0x6)}
-"006"	 Explorer ici
-"007"	 Avancer ici
-"008"	 Voir la carte
-"009"	 Retour
-"010"	
-"011"	{0011-0001-0002-00-00}
-"012"	{capitalized}
+"005"	Choisis où creuser ! (Encore {Number (0x6)}.)
+"006"	Ⓐ Explorer ici
+"007"	Ⓐ Avancer ici
+"008"	Ⓨ Voir la carte
+"009"	Ⓑ Retour
+"010"
+"011"	{0011-0001-0002-0000}
+"012"	{capitalized}{0014-0003-0000}
 "013"	× {Number (0x6)}
 "014"	× {Number (0x6)}
 "015"	× {Number (0x6)}
@@ -117,47 +117,47 @@
 "019"	Jours restants : 
 "020"	Exploré :
 "021"	Bonus de vivres :
-"022"	{Number (0x8)}
-"023"	{Number (0x7)}
+"022"	{Number (0x8)} %
+"023"	{Number (0x7)} j.
 "024"	Bonus !
 "025"	{Number (0x7)}
-"026"	{0004-000b-0002-00-00}
+"026"	{0004-000b-0002-0000}
 "027"	Échec de l'évasion...
 "028"	Évasion	réussie !
-"030"	{0004-000b-0002-00-00}
+"030"	{0004-000b-0002-0000}
 "031"	Objectif
-"032"	{0004-000b-0002-00-00}
+"032"	{0004-000b-0002-0000}
 "033"	{Number (0x8)}
-"034"	{Number (0x7)}
+"034"	{Number (0x7)} victoires d'affilée
 "036"	Vous devriez trouver des vivres...
-"037"	{0011-0001-0002-00-00}
-"038"	Échappez-vous en {Number (0x7)}
-"039"	Au tour {<06>de <04>d'}{0011-0001-0002-00-00}
-"040"	Encore {Number (0x7)}!
+"037"	{0011-0001-0002-0000} doit se reposer.
+"038"	Échappez-vous en {Number (0x7)} {/jour/jours} !
+"039"	Au tour {de /d'}{0011-0001-0002-0000}
+"040"	Encore {Number (0x7)} jours
 "041"	Dernier jour
-"043"	{0000-0002-0002-ffffff82-00}Dernier jour{0000-0002-0002-64-00}
-"044"	{0000-0002-0002-ffffff82-00}{Number (0x7)}
-"045"	Encore {0000-0002-0002-78-00}{Number (0x6)}
+"043"	{Text size 130%}Dernier jour{Text size 100%}
+"044"	{Text size 130%}{Number (0x7)}{Text size 100%} {/jour/jours} de vivres
+"045"	Encore {Text size 120%}{Number (0x6)}{Text size 100%}
 "046"	Vivres insuffisants
-"047"	
-"048"	Encore {Number (0x7)}!
-"049"	{Number (0x7)}
+"047"
+"048"	Encore {Number (0x7)} j.
+"049"	{Number (0x7)} {/jour/jours} 
 "050"	-
 "051"	Score
 "052"	7 ?
 == 3 ==
 "001"	Scegli dove montare la tenda.
-"002"	(Caselle rimaste: {Red}{Number (0x6)}!
+"002"	(Caselle rimaste: {Red}{Number (0x6)}{Color Reset})
 "003"	Scegli su quale casella spostarti.
 "004"	Scegli dove lanciare l'amo.
-"005"	Hai {Number (0x6)}
-"006"	 Esplora
-"007"	 Vai qui
-"008"	 Mappa
-"009"	 Indietro
-"010"	
-"011"	{0011-0001-0002-00-00}
-"012"	{capitalized}
+"005"	Hai {Number (0x6)} {/trappola/trappole} da sotterrare. Dove?
+"006"	Ⓐ Esplora
+"007"	Ⓐ Vai qui
+"008"	Ⓨ Mappa
+"009"	Ⓑ Indietro
+"010"
+"011"	{0011-0001-0002-0000}
+"012"	{capitalized}{0014-0003-0000}
 "013"	x{Number (0x6)}
 "014"	x{Number (0x6)}
 "015"	x{Number (0x6)}
@@ -166,46 +166,46 @@
 "019"	Giorni risparmiati:
 "020"	Caselle esplorate:
 "021"	Bonus cibo:
-"022"	{Number (0x8)}
-"023"	{Number (0x7)}
+"022"	{Number (0x8)}%
+"023"	{Number (0x7)} {/g./gg.}
 "024"	Bonus totale:
 "025"	{Number (0x7)}
-"026"	{0004-000b-0002-00-00}
+"026"	{0004-000b-0002-0000}
 "027"	Fuga fallita...
 "028"	Fuga	riuscita!
-"030"	{0004-000b-0002-00-00}
+"030"	{0004-000b-0002-0000}
 "031"	Obiettivo
-"032"	{0004-000b-0002-00-00}
+"032"	{0004-000b-0002-0000}
 "033"	{Number (0x8)}
-"034"	{Number (0x7)}
+"034"	{Number (0x7)} vittorie di fila!
 "036"	Bisogna trovare del cibo!
-"037"	{0011-0001-0002-00-00}
-"038"	Lascia l'isola entro {Number (0x7)}
-"039"	Tocca a {0011-0001-0002-00-00}
-"040"	Ancora {Number (0x7)}!
+"037"	{0011-0001-0002-0000} deve riposare!
+"038"	Lascia l'isola entro {Number (0x7)} giorni!
+"039"	Tocca a {0011-0001-0002-0000}!
+"040"	Ancora {Number (0x7)} giorni
 "041"	Ultimo giorno
-"043"	{0000-0002-0002-79-00}Ultimo giorno{0000-0002-0002-64-00}
-"044"	Cibo per {0000-0002-0002-78-00}{Number (0x7)}
-"045"	Ancora {0000-0002-0002-78-00}{Number (0x6)}
+"043"	{Text size 121%}Ultimo giorno{Text size 100%}
+"044"	Cibo per {Text size 120%}{Number (0x7)}{Text size 100%} {/giorno/giorni}
+"045"	Ancora {Text size 120%}{Number (0x6)}{Text size 100%}
 "046"	Cibo insufficiente!
-"047"	
-"048"	Ancora {Number (0x7)}!
-"049"	{Number (0x7)}
+"047"
+"048"	Ancora {Number (0x7)} {gg./g./gg.}
+"049"	{Number (0x7)} {/giorno/giorni}
 "050"	-
 "051"	Punteggio
 "052"	7?
 == 4 ==
 "001"	Wähle ein Feld für das Zelt!
-"002"	(Noch {Red}{Number (0x6)}
+"002"	(Noch {Red}{Number (0x6)}{Color Reset} {/Feld/Felder})
 "003"	Zu welchem Feld willst du?
 "004"	Wohin die Angel auswerfen?
-"005"	Grabe eine Fallgrube. (Noch {Number (0x6)}
-"006"	 Erkunden
-"007"	 Bewegen
-"008"	 Karte
-"009"	 Zurück
-"010"	
-"011"	{0011-0001-0002-00-00}
+"005"	Grabe eine Fallgrube. (Noch {Number (0x6)}.)
+"006"	Ⓐ Erkunden
+"007"	Ⓐ Bewegen
+"008"	Ⓨ Karte
+"009"	Ⓑ Zurück
+"010"
+"011"	{0011-0001-0002-0000}
 "012"	{0014-0003-0000}
 "013"	×{Number (0x6)}
 "014"	×{Number (0x6)}
@@ -215,31 +215,31 @@
 "019"	Restliche Tage:
 "020"	Erforschungsrate:
 "021"	Essensbonus:
-"022"	{Number (0x8)}
-"023"	{Number (0x7)}
+"022"	{Number (0x8)} %
+"023"	{Number (0x7)} {/Tag/Tage}
 "024"	Gesamtbonus:
 "025"	{Number (0x7)}
-"026"	{0004-000b-0002-00-00}
+"026"	{0004-000b-0002-0000}
 "027"	Schade...
 "028"	Geschafft!
-"030"	{0004-000b-0002-00-00}
+"030"	{0004-000b-0002-0000}
 "031"	Ziel
-"032"	{0004-000b-0002-00-00}
+"032"	{0004-000b-0002-0000}
 "033"	{Number (0x8)}
-"034"	{Number (0x7)}
+"034"	{Number (0x7)} Siege in Folge!
 "036"	Die Abenteurer brauchen Proviant...
-"037"	{0011-0001-0002-00-00}
-"038"	Entkomme in {Number (0x7)}
-"039"	{0011-0001-0002-00-00}
-"040"	Noch {Number (0x7)}
+"037"	{0011-0001-0002-0000} erholt sich!
+"038"	Entkomme in {Number (0x7)} {/Tag/Tagen}!
+"039"	{0011-0001-0002-0000} ist dran!
+"040"	Noch {Number (0x7)} {/Tag/Tage}
 "041"	Letzter Tag
-"043"	{0000-0002-0002-ffffff82-00}Letzter Tag{0000-0002-0002-64-00}
-"044"	Proviant: {0000-0002-0002-ffffff96-00}{0000-0002-0002-78-00}{Number (0x7)}
-"045"	Noch {0000-0002-0002-ffffff96-00}{Number (0x6)}
+"043"	{Text size 130%}Letzter Tag{Text size 100%}
+"044"	Proviant: {Text size 150%}{Text size 120%}{Number (0x7)}{Text size 150%} {Text size 100%}{/Tag/Tage}
+"045"	Noch {Text size 150%}{Number (0x6)}{Text size 100%}
 "046"	Zu wenig Proviant!
-"047"	
-"048"	Noch {0000-0002-0002-78-00}{Number (0x7)}
-"049"	{Number (0x7)}
+"047"
+"048"	Noch {Text size 120%}{Number (0x7)} {/Tag/Tage}{Text size 100%}
+"049"	{Number (0x7)} {/Tag/Tage}
 "050"	–
 "051"	Punkte
 "052"	7?

@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: HotWithSleeves}
-"002"	{emote: HotWithSleeves}
-"003"	{emote: Sigh}
-"004"	{emote: Thought}
-"005"	{emote: Sneezing}
-"006"	{emote: Anger}
-"007"	{0007-000a-0000}
-"008"	{emote: Fearful}
-"009"	{0007-000a-0000}
+"001"	{emote: HotWithSleeves}{ruby (charSpan 2): きょう}今日は、なんだか{ruby (charSpan 1): ねつ}熱っぽいの{pause 8}・{pause 8}・{pause 8}・{pause 8}	カゼかしら{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}{ruby (charSpan 3): だいじょうぶ}大丈夫よ、{Player nickname (green)}{0005-000d-0000}{pause 16}	{Blue}おくすり{Color Reset}なら、{pause 8}さっき{ruby (charSpan 1): の}飲んだから{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"002"	{emote: HotWithSleeves}{ruby (charSpan 1): からだ}体が　{ruby (charSpan 1): すこ}少し{ruby (charSpan 1): あつ}熱いわね{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Soft Smile}でも、{pause 8}{ruby (charSpan 3): だいじょうぶ}大丈夫{pause 30}	さっき　{Blue}おくすり{Color Reset}{ruby (charSpan 1): の}飲んだから{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"003"	{emote: Sigh}{pause 60}なんだか　{ruby (charSpan 2): しょくよく}食欲がないの{pause 8}・{pause 8}・{pause 8}・{pause 8}	カゼでも　ひいたのかしら？{Wait for input}{emote: Soft Smile}{ruby (charSpan 3): だいじょうぶ}大丈夫よ、{Player nickname (green)}{0005-000d-0000}{pause 16}	{Blue}おくすり{Color Reset}なら、{pause 8}さっき{ruby (charSpan 1): の}飲んだから{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"004"	{emote: Thought}{pause 16}あ～{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): あたま}頭、{pause 8}{ruby (charSpan 1): いた}痛い{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): なに}何かしら{pause 8}・{pause 8}・{pause 8}・{pause 8}コレ？{Wait for input}{emote: Soft Smile}でも、{pause 8}{Blue}おくすり{Color Reset}　{ruby (charSpan 1): の}飲んだから{pause 16}	{ruby (charSpan 1): すこ}少しは　マシになったのよ
+"005"	{emote: Sneezing}{pause 4}・{pause 4}・{pause 4}・{pause 4}ション！{Wait for input}	{emote: Worry}あっ、{pause 16}ごめんなさい{Wait for input}{emote: Soft Smile}でも、{pause 8}{Blue}おくすり{Color Reset}　{ruby (charSpan 1): の}飲んだから{pause 16}	{ruby (charSpan 1): すこ}少しは　マシになったのよ
+"006"	{emote: Anger}ウッ、{pause 16}{ruby (charSpan 2): きも}気持ち{ruby (charSpan 1): わる}悪い{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Worry}ごめんなさい、{pause 16}カゼひいたみたいで	はき{ruby (charSpan 1): け}気がするの{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}でも、{pause 8}{Blue}おくすり{Color Reset}　{ruby (charSpan 1): の}飲んだから{pause 16}	{ruby (charSpan 1): すこ}少しは　マシになったのよ
+"007"	{0007-000a-0000}{emote: Sneezing}クション！{pause 32}	{emote: Fearful}なんだか　{ruby (charSpan 2): さむけ}寒気がするわ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Worry}{Blue}おくすり{Color Reset}も　{ruby (charSpan 1): の}飲んだし{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): あんせい}安静にしているわね
+"008"	{emote: Fearful}{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): からだ}体が{ruby (charSpan 1): さむ}寒くて{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): ふる}震えが　{ruby (charSpan 1): と}止まらないの{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Worry}{Blue}おくすり{Color Reset}も　{ruby (charSpan 1): の}飲んだし{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): あんせい}安静にしているわね
+"009"	{0007-000a-0000}{emote: Sneezing}クション！{pause 32}	{emote: Worry}カゼひいちゃった　みたいね{pause 16}	{ruby (charSpan 3): はんしんよく}半身浴のし{ruby (charSpan 1): す}過ぎかしら{pause 4}・{pause 4}・{pause 4}・{pause 4}？	{emote: Worry}{Blue}おくすり{Color Reset}も　{ruby (charSpan 1): の}飲んだし{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): あんせい}安静にしているわね

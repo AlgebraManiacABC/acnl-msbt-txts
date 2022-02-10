@@ -1,51 +1,51 @@
 == 0 ==
-"001"	{0009-0001-0006-03-00-07-00-14-00}
-"002"	{0009-0001-0006-0b-00-0f-00-14-00}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Glee}
-"009"	{emote: Happiness}
-"010"	{emote: Distress}
-"011"	{emote: Happiness}
-"012"	{emote: Glee}
-"013"	{emote: Happiness}
-"014"	{emote: Surprise}
-"015"	{0009-0001-0006-10-00-11-00-12-00}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Worry}
-"019"	
-"020"	다른 마을에{pause 3}!
-"021"	
-"022"	
-"023"	
-"024"	
-"025"	
-"026"	
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	
-"032"	
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
-"048"	
-"049"	
-"050"	{emote: Happiness}
+"001"	{0009-0001-0006-0003-0007-0014}
+"002"	{0009-0001-0006-000b-000f-0014}
+"003"	{emote: Happiness}{Town name (pink)} 마을엔{pause 10} 구경거리가 많은데{pause 30}	{Player nickname (green)}님은{pause 10}	어디 주변을{emote: Curious} 산책하셨나요?{Player can respond (0001):0004-0000-0005-0000-0006-0000}	저쪽	이쪽	그쪽
+"004"	{emote: Happiness}그러셨군요～{pause 20}	{emote: Glee}아직도 재밌는 곳이{pause 10} 많이 남아 있으니{pause 5}	천천히 둘러보세요!
+"005"	{emote: Happiness}아～! 그러셨어요?{pause 20}	{emote: Glee}재밌다고 느끼신 곳이 있으면{pause 10}	저한테도{pause 5} 말씀해주세요!	제가{pause 10} 미처 발견하지 못했던{pause 10}	장소일 수도 있으니까요!
+"006"	{emote: Happiness}그러셨구나～!{pause 20}	{emote: Glee}우리 마을을{pause 8} 구석구석 즐기세요!{Wait for input}	분명 재미있으실 거예요
+"007"	{emote: Happiness}있잖아요～{pause 10}	우리 마을은{pause 10}	어떤 느낌이셨나요?{Player can respond (0001):0008-0000-0009-0000-000a-0000}	아주 좋아!	그냥 그래	흐음・・・
+"008"	{emote: Glee}그것참 고마운	말씀이네요! {pause 15}{catchphrase}!{Wait for input}{emote: Happiness}아직도 재밌는 곳이{pause 10}	많이 남아 있을 거예요!{pause 10}	구석구석{pause 5} 즐겨주세요!
+"009"	{emote: Happiness}아,{pause 10} 그러시군요!{Wait for input}	그래도 모처럼 오셨으니까{pause 10} 우리 마을의	다른 분들과도{pause 5} 많은 얘기 나누고 가세요!
+"010"	{emote: Distress}아, 네에{pause 8}・{pause 8}・{pause 8}・{pause 8}	무슨 말씀을 하시려는 건지	알 것 같네요{Wait for input}{emote: Worry}하지만 어쩌면{pause 10} 아직 마을을	다 둘러보지 못해서{pause 5}	그러신 걸 수도 있어요	천천히 구경하면서	생각해보세요
+"011"	{emote: Happiness}{Town name (pink)} 마을의 주민분들과{pause 10}	많은 얘기{pause 3} 나누셨나요?{Player can respond (0001):000c-0015-000d-0000-000e-0028}	그럼!	약간	아직・・・
+"012"	{emote: Glee}그것참 반가운 말씀이네요!{Wait for input}{emote: Happiness}이 마을에는{pause 10} 개성이 넘치고{pause 5}	재밌는 분들이 많답니다{pause 30}	많이{pause 3} 교류하고 가시면 좋을 거예요
+"013"	{emote: Happiness}어머,{pause 10} 그렇군요{Wait for input}{emote: Reset}이 마을에는{pause 10} 온통	활기찬 분들뿐이니까{pause 15}	{emote: Happiness}주저 말고{pause 3} 말을 걸어보세요
+"014"	{emote: Surprise}어머나,{pause 20} 이왕 놀러 오신 거{pause 10}	{emote: Soft Smile}많이 얘기하고 가세요!{Wait for input}{emote: Reset}{Player nickname (green)}님과{pause 10} 이 마을 주민분들이	친해지시는 건{pause 15}{emote: Happiness} 저에게도{pause 3}	무척 기쁜 일이거든요!
+"015"	{0009-0001-0006-0010-0011-0012}
+"016"	{emote: Happiness}전 지금{pause 10} 여기 마을에 계신 분들과{pause 10}	아주 잘 지내고 있답니다{Wait for input}	다들{pause 10} 정말 멋진 분들이에요	{emote: Glee}{Player nickname (green)}님도{pause 10}	자주 놀러 오세요!
+"017"	{emote: Happiness}이 마을의 {0005-001a-0002-cd00}{000e-000e-0008-0002-c740-0002-b294}{pause 10}	아주 향기가 좋답니다!{Wait for input}	{emote: Glee}과즙도 풍부하고{pause 10} 맛도 최고죠!	그대로 먹어도{pause 10} 파이로 만들어도{pause 10}	{emote: Love}정말 환상적인 맛이에요!	{pause 15}{catchphrase}!
+"018"	{emote: Worry}{0005-001e-0002-cd00}이 되면{pause 10} 문득{pause 10}	전에 살던 마을 생각이 나요{Wait for input}{emote: Glee}그래서 그런지{pause 10} 이렇게 당신을 만나서{pause 10}	얼마나 기쁜지 모른답니다!{Wait for input}	앞으로도 {pause 10}자주 놀러 오세요!
+"019"
+"020"	다른 마을에{pause 3} 놀러 갔을 때{pause 15}	{emote: Worry}아, 그거 가져올걸{pause 8}・{pause 8}・{pause 8}・{pause 8}	이렇게{pause 10}{emote: Reset} 후회하신 적 없었나요?	{emote: Happiness}그럴 때는{pause 10}	자신의 마을 역 사물함에{pause 8}	짐을 미리 맡겨 두어보세요{Wait for input}{emote: Glee}다른 마을의 사물함과 이어져 있으니까{pause 15}	놀러 간 마을에서도{pause 10} 언제든지 짐을	꺼낼 수 있어서{pause 15} 편리하거든요, {pause 15}{catchphrase}	{emote: Reset}왜 그렇게 되는 건지는{pause 3}	저도 잘 모르겠지만{pause 15}	{emote: Agreement}좋은 서비스인 건 확실해요
+"021"
+"022"
+"023"
+"024"
+"025"
+"026"
+"027"
+"028"
+"029"
+"030"
+"031"
+"032"
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
+"048"
+"049"
+"050"	{emote: Happiness}소문을 들었는데{pause 10}	{Town name (pink)} 마을이란 곳의{pause 5}	촌장을 맡고 계신다면서요?{Wait for input}오늘은 {pause 10}{emote: Curious}휴가를 보내러 놀러 오셨나요?{pause 35}	{emote: Glee}{Town name (pink)} 마을에서 {pause 15}날개를 활짝 펴고{pause 3}	마음껏 즐기시길 바랄게요

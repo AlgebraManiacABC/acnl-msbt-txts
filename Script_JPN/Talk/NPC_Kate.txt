@@ -1,85 +1,85 @@
 == 0 ==
 "001"	いらっしゃいませ
-"002"	あら、{pause 10}
-"003"	{emote: Happiness}
-"004"	あら、{pause 8}
+"002"	あら、{pause 10}いらっしゃい
+"003"	{emote: Happiness}あら、{pause 10}{Player name}さん{pause 20}	いらっしゃい！
+"004"	あら、{pause 8}{Player name}さん{Wait for input}	{emote: Happiness}また　{ruby (charSpan 1): き}来てくれはったんですね
 "005"	ありがとうございました
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Alarmed}
-"009"	
-"010"	
-"011"	{emote: Happiness}
-"012"	ご{ruby (charSpan 2): しちゃく}試着の{ruby (charSpan 1): さい}際は{pause 8}
+"006"	{emote: Happiness}また　いらしてくださいね
+"007"	{emote: Happiness}おおきに！
+"008"	{emote: Alarmed}あら、{pause 15}{Player name}さん、{pause 15}	{emote: Reset}いらしてたんですね{Wait for input}	{emote: Happiness}ごゆっくりー
+"009"
+"010"
+"011"	{emote: Happiness}どの{ruby (charSpan 2): しょうひん}商品も　たいへん	お{ruby (charSpan 1): もと}求めやすく　なっております
+"012"	ご{ruby (charSpan 2): しちゃく}試着の{ruby (charSpan 1): さい}際は{pause 8}	お{ruby (charSpan 1): もう}申し{ruby (charSpan 1): つ}付けください
 "013"	こちらは　{ruby (charSpan 2): ぼうし}帽子や　アクセサリーを	あつかっております
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Curious}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	
-"021"	{emote: Happiness}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	{emote: Happiness}
-"029"	{emote: Happiness}
-"030"	{emote: Happiness}
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	{emote: Happiness}
-"034"	{emote: Happiness}
-"035"	{emote: Happiness}
-"036"	{emote: Happiness}
-"037"	{emote: Happiness}
-"038"	{emote: Happiness}
-"039"	{emote: Happiness}
-"040"	お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-00-00}
-"041"	お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-00-00}
-"042"	お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-00-00}
-"043"	{emote: Happiness}
-"044"	{emote: Happiness}
-"045"	{emote: Happiness}
-"046"	おやめになるんですね、{pause 15}
-"047"	{pause 15}
-"048"	{emote: Alarmed}
-"049"	{emote: Alarmed}
-"050"	{emote: Alarmed}
-"051"	{emote: Happiness}
-"052"	{emote: Alarmed}
-"053"	{emote: Alarmed}
-"054"	{emote: Happiness}
-"055"	{emote: Alarmed}
-"056"	{emote: Alarmed}
-"057"	{emote: Happiness}
-"058"	{emote: Worry}
-"059"	{emote: Worry}
-"060"	{emote: Alarmed}
-"061"	{emote: Worry}
-"062"	{emote: Worry}
-"063"	{emote: Alarmed}
-"064"	{emote: Worry}
-"065"	{emote: Worry}
-"066"	{emote: Alarmed}
+"014"	{emote: Happiness}どれでも　{ruby (charSpan 2): しちゃく}試着できるので、{pause 8}	{ruby (charSpan 2): きがる}気軽に　{ruby (charSpan 1): こえ}声をかけてくださいね
+"015"	{emote: Happiness}となりの　{ruby (charSpan 2): ようふく}洋服もあわせて	{ruby (charSpan 1): み}見ていって　くださいね
+"016"	{emote: Curious}{pause 15}{ruby (charSpan 1): なに}何か　お{ruby (charSpan 1): この}好みのものは	ございましたか？
+"017"	{emote: Happiness}どうぞ　ごゆっくり
+"018"	{emote: Happiness}{Player name}さんやったら	なんでも　よく{ruby (charSpan 2): にあ}似合いはるから、{pause 15}	わたしも　{ruby (charSpan 2): せっきゃく}接客しがいがあるんですよ
+"019"	{emote: Happiness}{ruby (charSpan 1): き}気になる　{ruby (charSpan 2): しょうひん}商品があったら	いつでも　{ruby (charSpan 1): い}言ってくださいね
+"020"
+"021"	{emote: Happiness}そちらの{ruby (charSpan 2): しょうひん}商品は、{pause 15}	{0011-0003-0002-0000}で　ございます
+"022"	{emote: Happiness}そちらの{ruby (charSpan 2): しょうひん}商品は、{pause 15}	{0011-0003-0002-0000}で　ございます{Wait for input}お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-0000}ベル{Color Reset}になりますが{pause 15}	{emote: Curious}いかがなさいますか？{confirmation-02}{000f-0005-0004-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	やめとく
+"023"	{emote: Happiness}そちらは、{pause 15}	{0011-0003-0002-0000}ですね{Wait for input}お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-0000}ベル{Color Reset}になりますが{pause 15}	{emote: Curious}いかがなさいます？{confirmation-02}{000f-0005-0004-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	やめとく
+"024"	{emote: Happiness}それは　{0011-0003-0002-0000}です{Wait for input}	お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-0000}ベル{Color Reset}ですけど、{pause 15}	{emote: Curious}いかがです？{confirmation-02}{000f-0005-0004-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	やめとく
+"025"	{emote: Happiness}そちらの{ruby (charSpan 2): しょうひん}商品は、{pause 15}	{0011-0003-0002-0000}で　ございます
+"026"	{emote: Happiness}そちらは、{pause 15}	{0011-0003-0002-0000}ですね{Wait for input}ユニセックスで　{ruby (charSpan 2): せいべつ}性別を{ruby (charSpan 1): と}問わず	お{ruby (charSpan 1): たの}楽しみ　いただける{ruby (charSpan 2): しょうひん}商品なんですよ
+"027"	{emote: Happiness}それは、{pause 15}	{0011-0003-0002-0000}です{Wait for input}ユニセックスなんで、{pause 10}	{ruby (charSpan 2): はばひろ}幅広く　お{ruby (charSpan 1): たの}楽しみいただけますよ！
+"028"	{emote: Happiness}そちらの{ruby (charSpan 2): しょうひん}商品は、{pause 15}	{0011-0003-0002-0000}で　ございます
+"029"	{emote: Happiness}そちらは、{pause 15}	{0011-0003-0002-0000}ですね{Wait for input}メンズラインに　なりますが、{pause 8}	{ruby (charSpan 2): じょせい}女性のお{ruby (charSpan 2): きゃくさま}客様にも　オススメの{ruby (charSpan 2): しょうひん}商品ですよ
+"030"	{emote: Happiness}それは、{pause 15}	{0011-0003-0002-0000}です{Wait for input}メンズの{ruby (charSpan 2): しょうひん}商品ですけど、{pause 10}	{Player name}さんなら　こういうのも	{ruby (charSpan 2): にあ}似合うんじゃ　ないかしら！
+"031"	{emote: Happiness}そちらの{ruby (charSpan 2): しょうひん}商品は、{pause 15}	{0011-0003-0002-0000}で　ございます
+"032"	{emote: Happiness}そちらは、{pause 15}	{0011-0003-0002-0000}ですね{Wait for input}メンズラインに　なりますので、{pause 8}	お{ruby (charSpan 2): きゃくさま}客様でしたら　{ruby (charSpan 2): まちが}間違いなく	お{ruby (charSpan 2): にあ}似合いになるかと　{ruby (charSpan 1): おも}思います
+"033"	{emote: Happiness}それは、{pause 15}	{0011-0003-0002-0000}です{Wait for input}メンズの{ruby (charSpan 2): しょうひん}商品ですから、{pause 10}	{Player name}さんなら　もう	{ruby (charSpan 2): もんく}文句ナシで　{ruby (charSpan 2): にあ}似合うはずですよ
+"034"	{emote: Happiness}そちらの{ruby (charSpan 2): しょうひん}商品は、{pause 15}	{0011-0003-0002-0000}で　ございます
+"035"	{emote: Happiness}そちらは、{pause 15}	{0011-0003-0002-0000}ですね{Wait for input}レディースラインに　なりますので、{pause 8}	お{ruby (charSpan 2): きゃくさま}客様でしたら　{ruby (charSpan 2): まちが}間違いなく	お{ruby (charSpan 2): にあ}似合いになるかと　{ruby (charSpan 1): おも}思います
+"036"	{emote: Happiness}それは、{pause 15}	{0011-0003-0002-0000}です{Wait for input}レディースの{ruby (charSpan 2): しょうひん}商品ですから、{pause 10}	{Player name}さんなら　もう	{ruby (charSpan 2): もんく}文句ナシで　{ruby (charSpan 2): にあ}似合うはずですよ
+"037"	{emote: Happiness}そちらの{ruby (charSpan 2): しょうひん}商品は、{pause 15}	{0011-0003-0002-0000}で　ございます
+"038"	{emote: Happiness}そちらは、{pause 15}	{0011-0003-0002-0000}ですね{Wait for input}レディースラインに　なりますが、{pause 8}	{ruby (charSpan 2): だんせい}男性のお{ruby (charSpan 2): きゃくさま}客様にも　オススメの{ruby (charSpan 2): しょうひん}商品ですよ
+"039"	{emote: Happiness}それは、{pause 15}	{0011-0003-0002-0000}です{Wait for input}レディースの{ruby (charSpan 2): しょうひん}商品ですけど、{pause 10}	{Player name}さんなら　こういうのも	{ruby (charSpan 2): にあ}似合うんじゃ　ないかしら！
+"040"	お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-0000}ベル{Color Reset}になりますが{pause 15}	{emote: Curious}いかがなさいますか？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	{ruby (charSpan 1): ため}試したい	やめとく
+"041"	お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-0000}ベル{Color Reset}になりますが{pause 15}	{emote: Curious}いかがなさいます？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	{ruby (charSpan 1): ため}試したい	やめとく
+"042"	お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-0000}ベル{Color Reset}ですけど、{pause 15}	{emote: Curious}いかがです？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	{ruby (charSpan 1): ため}試したい	やめとく
+"043"	{emote: Happiness}{0011-0009-0002-0001}{ruby (charSpan 1): ふう}風のコーディネートを	{ruby (charSpan 1): たの}楽しまれる　ときなどは、{pause 15}	{ruby (charSpan 1): とく}特に　お{ruby (charSpan 2): にあ}似合いになるかと{ruby (charSpan 1): おも}思います{Wait for input}{emote: Reset}お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-0000}ベル{Color Reset}になりますが{pause 15}	{emote: Curious}いかがなさいますか？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	{ruby (charSpan 1): ため}試したい	やめとく
+"044"	{emote: Happiness}{ruby (charSpan 1): とく}特に　{0011-0009-0002-0001}{ruby (charSpan 1): ふう}風な	{ruby (charSpan 1): き}着こなしを　される{ruby (charSpan 2): ばあい}場合には、{pause 10}	{ruby (charSpan 1): み}身に{ruby (charSpan 1): つ}着けられるのを　オススメします{Wait for input}{emote: Reset}お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-0000}ベル{Color Reset}になりますが{pause 15}	{emote: Curious}{pause 15}いかがなさいます？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	{ruby (charSpan 1): ため}試したい	やめとく
+"045"	{emote: Happiness}もし{0011-0009-0002-0001}{ruby (charSpan 1): ふう}風な　コーデで	そろえたいことが　あれば、{pause 10}	コレはもう　マストアイテムですよ！{Wait for input}{emote: Reset}お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-0000}ベル{Color Reset}ですけど、{pause 15}	{emote: Curious}{pause 15}いかがです？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	{ruby (charSpan 1): ため}試したい	やめとく
+"046"	おやめになるんですね、{pause 15}	かしこまりました
+"047"	{pause 15}{emote: Alarmed}{pause 15}あら、{pause 15}{emote: Curious}よろしいんですか？{Wait for input}	{emote: Reset}かしこまりました
+"048"	{emote: Alarmed}あら、{pause 10}お{ruby (charSpan 1): この}好みに{ruby (charSpan 1): あ}合いませんでしたか？{Wait for input}	{emote: Happiness}よかったら　{ruby (charSpan 1): ほか}他のものも	ごらんになって　くださいね
+"049"	{emote: Alarmed}まぁ、{pause 20}	{emote: Reset}{0005-0023-0002-cd00}な　{ruby (charSpan 3): ふんいき}雰囲気が{ruby (charSpan 1): で}出て、{pause 10}	{emote: Happiness}たいへんよく　お{ruby (charSpan 2): にあ}似合いですよ{Wait for input}{emote: Reset}ちなみに　お{ruby (charSpan 2): ねだん}値段の{ruby (charSpan 1): ほう}方は	{Blue}{0004-000c-0002-0000}ベル{Color Reset}に　なりますが、{pause 15}	{emote: Curious}いかがなさいますか？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	このまま{ruby (charSpan 1): つ}着けてく！	やめとく
+"050"	{emote: Alarmed}あらまぁ、{pause 20}	{emote: Reset}{0005-0023-0002-cd00}な　{ruby (charSpan 3): ふんいき}雰囲気が{ruby (charSpan 1): た}足されて、{pause 10}	{emote: Happiness}とっても　{ruby (charSpan 2): すてき}素敵ですね！{Wait for input}{emote: Reset}ちなみに　そちらのお{ruby (charSpan 2): ねだん}値段は	{Blue}{0004-000c-0002-0000}ベル{Color Reset}に　なりますが、{pause 15}	{emote: Curious}いかがなさいます？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	このまま{ruby (charSpan 1): つ}着けてく！	やめとく
+"051"	{emote: Happiness}まぁ！{pause 20}　{0005-0023-0002-cd00}で{pause 5}{ruby (charSpan 2): すてき}素敵！{Wait for input}	{ruby (charSpan 2): ほんとう}本当に　どんなモノでも	お{ruby (charSpan 2): にあ}似合いに　なりますね！{Wait for input}お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-0000}ベル{Color Reset}ですけど、{pause 10}	{emote: Curious}{pause 10}どうされます？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	このまま{ruby (charSpan 1): つ}着けてく！	やめとく
+"052"	{emote: Alarmed}まぁ{pause 5}・{pause 5}・{pause 5}・、{pause 20}	{emote: Reset}{0005-0023-0002-cd00}な　{ruby (charSpan 3): ふんいき}雰囲気が{ruby (charSpan 1): で}出て、{pause 10}	{emote: Happiness}よく　{ruby (charSpan 2): にあ}似合っておられますね{Wait for input}{emote: Reset}ちなみに　お{ruby (charSpan 2): ねだん}値段の{ruby (charSpan 1): ほう}方は	{Blue}{0004-000c-0002-0000}ベル{Color Reset}に　なりますが、{pause 15}	{emote: Curious}いかがなさいますか？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	このまま{ruby (charSpan 1): つ}着けてく！	やめとく
+"053"	{emote: Alarmed}あらまぁ、{pause 20}	{emote: Reset}{0005-0023-0002-cd00}な　{ruby (charSpan 3): ふんいき}雰囲気が{ruby (charSpan 1): た}足されて、{pause 10}	{emote: Happiness}とっても　{ruby (charSpan 2): すてき}素敵ですね！{Wait for input}{emote: Reset}ちなみに　そちらのお{ruby (charSpan 2): ねだん}値段は	{Blue}{0004-000c-0002-0000}ベル{Color Reset}に　なりますが、{pause 15}	{emote: Curious}いかがなさいます？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	このまま{ruby (charSpan 1): つ}着けてく！	やめとく
+"054"	{emote: Happiness}まぁ！{pause 20}　{0005-0023-0002-cd00}で{pause 5}{ruby (charSpan 2): すてき}素敵！{Wait for input}	レディースも　サマになるなんて、{pause 10}	{ruby (charSpan 2): さすが}流石ですね！{Wait for input}お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-0000}ベル{Color Reset}ですけど、{pause 10}	{emote: Curious}{pause 10}どうされます？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	このまま{ruby (charSpan 1): つ}着けてく！	やめとく
+"055"	{emote: Alarmed}まぁ{pause 5}・{pause 5}・{pause 5}・、{pause 20}	{emote: Reset}{0005-0023-0002-cd00}な　{ruby (charSpan 3): ふんいき}雰囲気が{ruby (charSpan 1): で}出て、{pause 10}	{emote: Happiness}よく　{ruby (charSpan 2): にあ}似合っておられますね{Wait for input}{emote: Reset}ちなみに　お{ruby (charSpan 2): ねだん}値段の{ruby (charSpan 1): ほう}方は	{Blue}{0004-000c-0002-0000}ベル{Color Reset}に　なりますが、{pause 15}	{emote: Curious}いかがなさいますか？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	このまま{ruby (charSpan 1): つ}着けてく！	やめとく
+"056"	{emote: Alarmed}あらまぁ、{pause 20}	{emote: Reset}{0005-0023-0002-cd00}な　{ruby (charSpan 3): ふんいき}雰囲気が{ruby (charSpan 1): た}足されて、{pause 10}	{emote: Happiness}とっても　{ruby (charSpan 2): すてき}素敵ですね！{Wait for input}{emote: Reset}ちなみに　そちらのお{ruby (charSpan 2): ねだん}値段は	{Blue}{0004-000c-0002-0000}ベル{Color Reset}に　なりますが、{pause 15}	{emote: Curious}いかがなさいます？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	このまま{ruby (charSpan 1): つ}着けてく！	やめとく
+"057"	{emote: Happiness}まぁ！{pause 20}　{0005-0023-0002-cd00}で{pause 5}{ruby (charSpan 2): すてき}素敵！{Wait for input}	メンズも　サマになるなんて、{pause 10}	{ruby (charSpan 2): さすが}流石ですね！{Wait for input}お{ruby (charSpan 2): ねだん}値段は　{Blue}{0004-000c-0002-0000}ベル{Color Reset}ですけど、{pause 10}	{emote: Curious}{pause 10}どうされます？{confirmation-02}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): か}買っちゃう！	このまま{ruby (charSpan 1): つ}着けてく！	やめとく
+"058"	{emote: Worry}お{ruby (charSpan 2): きゃくさま}客様　{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありませんが{pause 5}・{pause 5}・{pause 5}・{pause 15}	{ruby (charSpan 2): だいきん}代金が　{ruby (charSpan 2): ふそく}不足しているみたいです
+"059"	{emote: Worry}あら、{pause 10}ごめんなさい{pause 15}	お{ruby (charSpan 2): だいきん}代金が　{ruby (charSpan 1): た}足りてないみたいです
+"060"	{emote: Alarmed}あら、{pause 10}{Player name}さん{Wait for input}	{emote: Worry}{ruby (charSpan 1): こま}困ったわ、{pause 15}	お{ruby (charSpan 1): かね}金が　{ruby (charSpan 1): た}足りないみたい
+"061"	{emote: Worry}お{ruby (charSpan 2): きゃくさま}客様　{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありませんが{pause 5}・{pause 5}・{pause 5}・{pause 15}	{ruby (charSpan 3): てにもつ}手荷物がいっぱいで、{pause 8}	{ruby (charSpan 2): しょうひん}商品を　お{ruby (charSpan 1): わた}渡しできそうにありません
+"062"	{emote: Worry}あら、{pause 10}ごめんなさい{pause 15}	{ruby (charSpan 3): てにもつ}手荷物が　いっぱいだから	{ruby (charSpan 2): しょうひん}商品を　お{ruby (charSpan 1): わた}渡しできないですね
+"063"	{emote: Alarmed}あら、{pause 10}{Player name}さん{Wait for input}	{emote: Worry}{ruby (charSpan 1): こま}困ったわ、{pause 15}{ruby (charSpan 3): てにもつ}手荷物が　いっぱいだから	{ruby (charSpan 2): しょうひん}商品を　お{ruby (charSpan 1): わた}渡しできないの
+"064"	{emote: Worry}あの、{pause 8}お{ruby (charSpan 2): きゃくさま}客様	{ruby (charSpan 2): たいへん}大変　{ruby (charSpan 1): もう}申し{ruby (charSpan 1): あ}上げにくいのですが{pause 5}・{pause 5}・{pause 5}・{Wait for input}{ruby (charSpan 3): てにもつ}手荷物が　いっぱいのようですので、{pause 8}	{ruby (charSpan 2): もともと}元々お{ruby (charSpan 1): つ}着けになっていた　アクセサリーを	お{ruby (charSpan 1): わた}渡しすることが　できません
+"065"	{emote: Worry}すみませんが、{pause 15}{ruby (charSpan 3): てにもつ}手荷物が　いっぱいで	このままだと　{ruby (charSpan 1): つ}着けてらしたアクセサリーを	お{ruby (charSpan 1): わた}渡しできない　みたいです
+"066"	{emote: Alarmed}あら、{pause 10}だけど　{Player name}さん	{ruby (charSpan 1): こま}困ったわ{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Worry}{ruby (charSpan 3): てにもつ}手荷物が　いっぱいだと	{ruby (charSpan 2): もともと}元々{ruby (charSpan 1): つ}着けてらした　アクセサリーを	お{ruby (charSpan 1): わた}渡しできないの{pause 5}・{pause 5}・{pause 5}・
 "067"	ありがとうございました
-"068"	{emote: Happiness}
-"069"	{emote: Happiness}
-"070"	{ruby (charSpan 2): もともと}元々　{ruby (charSpan 1): つ}着けておられたアクセサリーは	{ruby (charSpan 3): てにもつ}手荷物として　まとめさせて	いただきましたので{pause 5}
-"071"	{emote: Happiness}
-"072"	{emote: Happiness}
-"073"	{ruby (charSpan 1): たし}確かに　{Blue}{0004-000c-0002-00-00}
-"074"	{emote: Happiness}
-"075"	{emote: Happiness}
-"076"	
-"077"	
-"078"	
-"079"	
-"081"	{pause 5}
-"082"	ちなみに、{pause 10}
-"083"	
-"084"	
-"085"	
+"068"	{emote: Happiness}ありがとうございました！
+"069"	{emote: Happiness}{pause 15}おおきに！
+"070"	{ruby (charSpan 2): もともと}元々　{ruby (charSpan 1): つ}着けておられたアクセサリーは	{ruby (charSpan 3): てにもつ}手荷物として　まとめさせて	いただきましたので{pause 5}・{pause 5}・{pause 5}・
+"071"	{emote: Happiness}{ruby (charSpan 2): もともと}元々　{ruby (charSpan 1): つ}着けてらしたアクセサリーは	{ruby (charSpan 3): てにもつ}手荷物の{ruby (charSpan 1): ほう}方に　まとめさせて	いただきますね
+"072"	{emote: Happiness}{ruby (charSpan 2): もともと}元々　{ruby (charSpan 1): つ}着けてらしたモノは、{pause 10}	{ruby (charSpan 3): てにもつ}手荷物の{ruby (charSpan 1): ほう}方に　{ruby (charSpan 1): い}入れておきますね
+"073"	{ruby (charSpan 1): たし}確かに　{Blue}{0004-000c-0002-0000}ベル{Color Reset}	ちょうだい　いたしました
+"074"	{emote: Happiness}{ruby (charSpan 1): たし}確かに　{Blue}{0004-000c-0002-0000}ベル{Color Reset}	ちょうだい　いたしました
+"075"	{emote: Happiness}はい、{pause 15}{Blue}{0004-000c-0002-0000}ベル{Color Reset}ですね、{pause 20}	{ruby (charSpan 1): たし}確かに　ちょうだい　いたしました
+"076"
+"077"
+"078"
+"079"
+"081"	{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Alarmed}{pause 15}ああ、{pause 10}そうそう！{pause 15}	{emote: Reset}{Player name}さん　ちょうどよかったわ{Wait for input}{emote: Happiness}ごひいきに　していただいてる{ruby (charSpan 1): かた}方に	ささやかな　お{ruby (charSpan 1): れい}礼を	{ruby (charSpan 2): ようい}用意させてもらったんで{pause 5}・{pause 5}・{pause 5}・{Wait for input}{Player name}さんの　{ruby (charSpan 2): にもつ}荷物に	{ruby (charSpan 1): い}入れておきますね
+"082"	ちなみに、{pause 10}{ruby (charSpan 2): なかみ}中身は	お{ruby (charSpan 2): ようふく}洋服や　アクセサリーを	ディスプレイできる　{Blue}マネキン{Color Reset}なんです{Wait for input}{emote: Happiness}ファッションに　{ruby (charSpan 2): かんしん}関心のある	{Player name}さんだったら	{ruby (charSpan 1): よろこ}喜んでいただけるかと{ruby (charSpan 1): おも}思って	あらかじめ　コーディネートしておくと{pause 5}	{ruby (charSpan 2): きが}着替えも　{ruby (charSpan 2): べんり}便利なんで、{pause 10}	ぜひ　お{ruby (charSpan 1): うち}家で{ruby (charSpan 1): つか}使ってください！
+"083"
+"084"
+"085"

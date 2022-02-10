@@ -1,8 +1,8 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Curious}
-"003"	かくれんぼなら、	もう　やめちゃったよぉ～{0000-0004-0000}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Disagreement}
-"006"	{emote: Reset}
-"007"	{emote: Happiness}
+"001"	{emote: Curious}かくれんぼ？{pause 40}	{emote: Resigned}もう　おわったよぉ～！{Wait for input}ボク{pause 20}　ず～っと	かくれてたのに、	さがしにきて　くれないんだもん{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sadness}まちくたびれて	おなか　すいちゃったよぉ～
+"002"	{emote: Curious}かくれんぼ～？{Wait for input}	{emote: Happiness}そういえば	やってたねぇ～！{Wait for input}{emote: Resigned}キミが　ぜんぜん	{ruby (charSpan 1): み}見つけてくれないから、{pause 20}	やめちゃったよぉ{pause 8}・{pause 8}・{pause 8}・
+"003"	かくれんぼなら、	もう　やめちゃったよぉ～{Wait for input}{emote: Anger}だって　キミ、{pause 20}ぜんぜん	さがしにこないんだもん！{Wait for input}{emote: Distress}ボク　かくれながら	ぐ～ぐ～　ねちゃって、{pause 20}	カゼをひくところだったよぉ～
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Disagreement}あそびだからって、{pause 20}	とちゅうで　やめたりしたら	ダメだよぉ？
+"006"	{emote: Reset}とちゅうで　いなくなっちゃうなんて{pause 20}	キミって　あきっぽいんだねぇ～
+"007"	{emote: Happiness}こんどは　もっと{ruby (charSpan 1): はや}早く	{ruby (charSpan 1): み}見つけてねぇ？　{pause 8}{catchphrase}？

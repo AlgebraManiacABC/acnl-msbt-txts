@@ -1,70 +1,70 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{000a-0000-0006-03-06-00-07-00-ffffffcd}
-"005"	{000a-0000-0006-03-08-00-09-00-ffffffcd}
-"006"	{emote: Happiness}
-"007"	{emote: Sunny}
-"008"	{emote: Worry}
-"009"	{emote: Sadness}
-"010"	{emote: Sunny}
-"011"	{emote: Sheepishness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
+"001"	{emote: Happiness}{capitalized}{Player nickname (green)}!{pause 20} {emote: Soft Smile}Rumor has it	you've got yourself {Article(word-dependant)}	{0011-0003-0002-0000}.	{emote: Happiness}I'm actually doing an oil painting of 	{Article(word-dependant)}{0011-0003-0002-0000}	right now!{pause 20} And the thing is...	{emote: Sheepishness}I'm not really sure what {Article(word-dependant)}	{0011-0003-0002-0000} looks like.{pause 20}	I'm painting without a reference.	{emote: Shyness}Do you think I could have your	{0011-0003-0002-0000} to use as	my model?{Wait for input}{emote: Inspired} We could trade!	{emote: Happiness}You could have my	{0011-0003-0002-0001} in return.{pause 20}	What do you say?{Player can respond (0005):0004-0015-0005-0028}	Sure, let's trade!	No, thanks!
+"002"	{emote: Happiness}Can we talk for a second about your	fantastic{pause 8} {0011-0003-0002-0000}?{Wait for input}	I'm completely smitten!	{emote: Worry}Would you be willing to part with	said {0011-0003-0002-0000}?{Wait for input}	{emote: Surprise}I don't mean for free, of course!	{emote: Happiness}You could have my	{0011-0003-0002-0001} in return!{pause 20}	How about it?{pause 20} Will you trade?{Player can respond (0005):0004-0015-0005-0028}	Let's do it!	No way!
+"003"	{emote: Happiness}You know what I'm into lately?{pause 20}	Swapping stuff with neighbors!{Wait for input}{emote: Soft Smile}Trading things you don't use is	kind of like recycling,{pause 8} so it's fun	AND good for the environment!	{emote: Happiness}Would you be interested	in trading with me?{Player can respond (0005):000a-0015-000b-0028}	Yes!	Not really.
+"004"	{000a-0000-0006-0603-0700-cd00}
+"005"	{000a-0000-0006-0803-0900-cd00}
+"006"	{emote: Happiness}Really?!{pause 8} Great!{Wait for input} I knew I could count	on you, {Player nickname (green)}.{pause 10} Let's trade!
+"007"	{emote: Sunny}Hooray!{pause 20} {emote: Happiness}OK, {pause 10}let's trade!
+"008"	{emote: Worry}Oh{pause 8}.{pause 8}.{pause 8}. {pause 8}OK. {pause 20}{emote: Sheepishness}I guess I'll just look for my	own {0011-0003-0002-0000}.{pause 10} Maybe	I'll get lucky in my search.
+"009"	{emote: Sadness}OK{pause 8}.{pause 8}.{pause 8}.{pause 20} I shouldn't have asked.{Wait for input}	{emote: Sheepishness}You're obviously very attached.
+"010"	{emote: Sunny}Hooray!{pause 15} I knew you'd say yes.{Wait for input}	{emote: Soft Smile}Let's talk about what to trade.{Wait for input}I haven't been using my	{0011-0003-0002-0001} much{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Glee}So{pause 10} would you consider trading your	{0011-0003-0002-0000} for my	{0011-0003-0002-0001}?{Player can respond (0005):000c-0015-000b-0028}	Let's trade!	Actually, no.
+"011"	{emote: Sheepishness}Oh, really?{pause 20} That's too bad.{Wait for input}{emote: Soft Smile} Then	maybe next time,{pause 8} {catchphrase}.
+"012"	{emote: Happiness}Thank you!
+"013"	{emote: Happiness}That was fun!{pause 20} Let's do it again	sometime,{pause 8} {catchphrase}!
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{000a-0000-0006-03-06-00-07-00-ffffffcd}
-"005"	{000a-0000-0006-03-08-00-09-00-ffffffcd}
-"006"	{emote: Happiness}
-"007"	{emote: Laughter}
-"008"	{emote: Worry}
-"009"	{emote: Sadness}
-"010"	{emote: Happiness}
-"011"	{emote: Distress}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
+"001"	{emote: Happiness}Oye, {Player nickname (green)}{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Soft Smile}Me ha llegado el rumor de que	tienes {Article(word-dependant)}{0011-0003-0002-0000}.{pause 20}	{emote: Happiness}Estoy pintando un cuadro	de {Article(word-dependant)}{0011-0003-0002-0000}	y{pause 20} {emote: Shyness}el caso es que...	Necesito un modelo real,{pause 20} porque	no sé muy bien cómo es	{Article(word-dependant)}{0011-0003-0002-0000}.	{emote: Distress}¿Te importaría darme {el tuyo/la tuya/}	para que pueda usarl{o/a/} de modelo?{pause 15}	{emote: Inspired}¡Podríamos hacer un intercambio!	{emote: Happiness}Te ofrezco a cambio mi	{0011-0003-0002-0001}.{pause 20}	¿Qué me dices, cielo?{Player can respond (0005):0004-0015-0005-0028}	Venga, vale	No, gracias
+"002"	{emote: Happiness}Quiero hablar contigo sobre tu	fantástic{o/a/}{pause 8} {0011-0003-0002-0000}.{Wait for input}	¡Me encanta!	{emote: Worry}¿Te daría mucha pena separarte	de {él/ella/}?{Wait for input} {emote: Surprise}¡No digo que gratis,	por supuestillo!	{emote: Happiness}A cambio te daré mi	{0011-0003-0002-0001}.{pause 20}	¿Te hace el trato?{Player can respond (0005):0004-0015-0005-0028}	¡Mola!	Ni hablar
+"003"	{emote: Happiness}¿Te gusta intercambiar objetos?{pause 10}	¡Es muy divertido!{emote: Reset}{Wait for input}{emote: Soft Smile}Puedes cambiar objetos que no	uses por otros, ¡así no se tira nada	y ayudas al medioambiente!	{emote: Happiness}¿Te interesa intercambiar	alguna cosilla conmigo?{Player can respond (0005):000a-0015-000b-0028}	¡Sí!	Ahora no
+"004"	{000a-0000-0006-0603-0700-cd00}
+"005"	{000a-0000-0006-0803-0900-cd00}
+"006"	{emote: Happiness}¡¿De verdad?!{pause 8} ¡Genial!{Wait for input} ¡Sabía que	no te negarías, {Player nickname (green)}!{pause 10}
+"007"	{emote: Laughter}¡Je, je, je!{pause 20} ¡Genial!{pause 20} {emote: Happiness}	Pues a intercambiar.
+"008"	{emote: Worry}Oh{pause 8}.{pause 8}.{pause 8}. {pause 8}{Wait for input}{emote: Sheepishness}Vale. {pause 20}Tendré que buscar otr{o/a/}	{0011-0003-0002-0000}.{pause 10}	Si cambias de idea, avísame, porfa.
+"009"	{emote: Sadness}Qué penita{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Sheepishness}Ya veo que le tienes	mucho apego, perdona.
+"010"	{emote: Happiness}¡Bien!{pause 15} Sabía que no me fallarías.{Wait for input}	Vale, {pause 10}pues a ver qué podemos	intercambiar.	Tengo {Article(word-dependant)}{0011-0003-0002-0001}	que hace mucho que no uso{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Glee}¿Te gustaría cambiar tu	{0011-0003-0002-0000} por mi	{0011-0003-0002-0001}?{Player can respond (0005):000c-0015-000b-0028}	¡Cambiemos!	No me interesa
+"011"	{emote: Distress}¿Ah, no?{pause 20} Pues vaya.{Wait for input}	{emote: Sheepishness}Bueno, {pause 10}quizá la próxima vez,{pause 8}	{catchphrase}.
+"012"	{emote: Happiness}¡Gracias, bichín!
+"013"	{emote: Happiness}¡Ha sido muy divertido!{pause 20}	Si quieres cambiar algo más,	ven a verme, {catchphrase}.
 == 2 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{000a-0000-0006-03-06-00-07-00-ffffffcd}
-"005"	{000a-0000-0006-03-08-00-09-00-ffffffcd}
-"006"	{emote: Happiness}
-"007"	{emote: Laughter}
-"008"	{emote: Worry}
-"009"	{emote: Sadness}
-"010"	{emote: Happiness}
-"011"	{emote: Distress}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
+"001"	{emote: Soft Smile}On dit partout que tu aurais	{Article(word-dependant)}{0011-0003-0002-0000} !{Wait for input}{emote: Happiness}Eh ben, justement, mon prof d'arts	pla' m'a demandé d'en faire le	sujet de ma prochaine sculpture !	{emote: Shyness}Forcément, ce serait plus simple	avec un modèle sous la main !{Wait for input}{emote: Distress}Dis, tu ne voudrais pas me donner	{000e-0001-0000}{0011-0003-0002-0000} que tu	as ?	{emote: Inspired}En échange,{pause 8} je te propose	{Article(word-dependant)}{0011-0003-0002-0001} !{pause 20}	Qu'en dis-tu ?{Player can respond (0005):0004-0015-0005-0028}	Avec plaisir !	Non, merci !
+"002"	{emote: Happiness}Eh ben, ça alors, {Player nickname (green)} !{pause 8}	{capitalized}{Article(word-dependant)}{0011-0003-0002-0000} !?{Wait for input}	Ô merveille des merveilles !	{emote: Worry}Tu envisagerais la possibilité de t'en	séparer, dis ? {pause 15}Je veux dire,{pause 8} pas	gratuitement, bien sûr.	{emote: Happiness}Mais disons, {pause 8}en échange d'{Article(word-dependant)}	{0011-0003-0002-0001} ?{Wait for input} Qu'en	penses-tu ?{Player can respond (0005):0004-0015-0005-0028}	On échange !	Désolé{/e} !
+"003"	{emote: Happiness}Oh, {pause 10}{Player nickname (green)} !{Wait for input}	Tu sais quoi ? {pause 15}La mode est au troc,	tous les magazines le disent !	{emote: Soft Smile}Cool, non ? {pause 15}Et puis, c'est comme si	on recyclait nos objets...{pause 8} Super pour	l'environnement, {catchphrase} !	{emote: Happiness}Alors,{pause 20} si on se mettait au troc toi et	moi ?{Player can respond (0005):000a-0015-000b-0028}	OK !	Bof.
+"004"	{000a-0000-0006-0603-0700-cd00}
+"005"	{000a-0000-0006-0803-0900-cd00}
+"006"	{emote: Happiness}Pour de vrai ?!{pause 8} Génial !{Wait for input} Je savais	que je pouvais compter sur toi,	{Player nickname (green)} !{pause 10} Échangeons, alors !
+"007"	{emote: Laughter}Youpi !{pause 20} C'est chouette !{pause 20} {emote: Happiness}Alors, {pause 10}en	avant pour le troc !
+"008"	{emote: Worry}Ah{pause 8}.{pause 8}.{pause 8}. {pause 8}{Wait for input}{emote: Sheepishness}Je vais tâcher de trouver {Article(word-dependant)}	{0011-0003-0002-0000} ailleurs	dans ce cas !{pause 10} Si tu changes d'avis...
+"009"	{emote: Sadness}Oh,{pause 10} dommage{pause 8}.{pause 8}.{pause 8}.{pause 30} Tu dois y être très	attaché{/e}. {Wait for input}{emote: Sheepishness}Je comprends, {pause 15}tant pis.
+"010"	{emote: Happiness}Extra !{pause 15} Je savais que ça te parlerait.{Wait for input}	{emote: Thought}Bon, {pause 15}reste à choisir les objets à	troquer...	J'ai {Article(word-dependant)}{0011-0003-0002-0001},	là, qui ne me sert plus à rien.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Glee}Alors,{pause 10} je te l'échange contre	{Article(word-dependant)}{0011-0003-0002-0000}, OK ?{Player can respond (0005):000c-0015-000b-0028}	Marché conclu !	En fait, non.
+"011"	{emote: Distress}Oh ?{pause 20} Misère...{Wait for input} {emote: Sheepishness}Très bien, {pause 10}une	prochaine fois, peut-être,{pause 8}	{catchphrase} !
+"012"	{emote: Happiness}Merci !
+"013"	{emote: Happiness}Waouh ! C'est fun, le troc !{pause 20} Il faudra	qu'on remette ça, {catchphrase} !
 == 3 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{000a-0000-0006-03-06-00-07-00-ffffffcd}
-"005"	{000a-0000-0006-03-08-00-09-00-ffffffcd}
-"006"	{emote: Happiness}
-"007"	{emote: Laughter}
-"008"	{emote: Worry}
-"009"	{emote: Sadness}
-"010"	{emote: Happiness}
-"011"	{emote: Distress}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
+"001"	{emote: Happiness}{capitalized}{Player nickname (green)},{pause 20} {emote: Soft Smile}ho sentito dire che hai	{Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}{emote: Happiness}Sto facendo un quadro che ritrae	{Article(word-dependant)}{0011-0003-0002-0000}	{emote: Shyness}e forse...	... avrei bisogno di un modello,	perché non so di preciso come è	{fatto/fatta/} {Article(word-dependant)}{0011-0003-0002-0000}.	{emote: Distress}Pensi che potrei usare {il tuo/la tua/}{pause 20}	come ispirazione?{Wait for input}{emote: Inspired}Potremmo fare uno scambio!	{emote: Happiness}Ti darei volentieri {il mio/la mia/}	{0011-0003-0002-0001}, se ti piace.{pause 20}	Che ne dici?{Player can respond (0005):0004-0015-0005-0028}	Va bene, ci sto!	No, grazie!
+"002"	{emote: Happiness}Volevo parlarti {del tuo fantastico/della tua fantastica/}	{pause 8}{0011-0003-0002-0000}.{Wait for input}	Me ne sono innamorata!	{emote: Worry}Ti dispiacerebbe separartene?{Wait for input}{emote: Surprise}Non dico gratis, ovviamente!	{emote: Happiness}In cambio, potrei darti	{il mio/la mia/} {0011-0003-0002-0001}!{pause 20}	Che te ne pare di questa idea?{Player can respond (0005):0004-0015-0005-0028}	Sì, mi piace!	Neanche per sogno.
+"003"	{emote: Happiness}Sai cosa mi piace ultimamente?	{pause 20}Il baratto!{pause 10} È così divertente!{emote: Reset}{Wait for input}{emote: Soft Smile}Puoi scambiare le cose che non usi	con gli altri. Ricicli{pause 8} e aiuti	l'ambiente! Geniale, n'est-ce pas?!	{emote: Happiness}Senti...{pause 20} avresti qualcosa da	scambiare con me?{Player can respond (0005):000a-0015-000b-0028}	Sì!	Veramente no.
+"004"	{000a-0000-0006-0603-0700-cd00}
+"005"	{000a-0000-0006-0803-0900-cd00}
+"006"	{emote: Happiness}Veramente?!{pause 8} Ottimo!{Wait for input} Sapevo che ti	sarebbe piaciuta l'idea, {Player nickname (green)}!{pause 10}	Come sono {pause 10}contenta!
+"007"	{emote: Laughter}Eh eh eh!{pause 20} Evviva!{pause 20}	{emote: Happiness}Allora, via con lo scambio!
+"008"	{emote: Worry}Oh{pause 8}.{pause 8}.{pause 8}. {pause 8}{Wait for input}{emote: Sheepishness}Pazienza. {pause 20}Vedrò di trovare	{Article(word-dependant)}{0011-0003-0002-0000}	altrove. {pause 15}{emote: Happiness}Se cambi idea, cercami!
+"009"	{emote: Sadness}Oh,{pause 10} scusa{pause 8}.{pause 8}.{pause 8}.{pause 30} Non avrei dovuto	chiedertelo.{Wait for input}{emote: Sheepishness} A quanto pare	ci tieni molto.
+"010"	{emote: Happiness}Sììì!{pause 15} Lo sapevo che avresti	accettato.{Wait for input} Ora, {pause 10}vediamo cosa	possiamo scambiare.	Ho {Article(word-dependant)}{0011-0003-0002-0001}	che non uso mai{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Glee}Che ne diresti di scambiare{pause 10} {il tuo/la tua/}	{0011-0003-0002-0000} con {il mio/la mia/}	{0011-0003-0002-0001}?{Player can respond (0005):000c-0015-000b-0028}	OK, facciamo cambio!	No, non mi va.
+"011"	{emote: Distress}Oh, davvero?{pause 20} Che peccato...{Wait for input}	{emote: Sheepishness}Beh, {pause 10}magari la prossima volta,{pause 8}	{catchphrase}!
+"012"	{emote: Happiness}Merci!
+"013"	{emote: Happiness}Oh, che divertente.{pause 20} Se ti va di fare	altri scambi, vienimi a cercare!
 == 4 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{000a-0000-0006-03-06-00-07-00-ffffffcd}
-"005"	{000a-0000-0006-03-08-00-09-00-ffffffcd}
-"006"	{emote: Happiness}
-"007"	{emote: Laughter}
-"008"	{emote: Worry}
-"009"	{emote: Sadness}
-"010"	{emote: Happiness}
-"011"	{emote: Distress}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
+"001"	{emote: Happiness}{capitalized}{Player nickname (green)}, man munkelt,	du hättest {einen/eine/ein}	{0011-0003-0002-0000}!{pause 20}	{emote: Happiness}Rein zufällig male ich gerade	so was! {pause 20}So richtig schön mit	Ölfarben und so.{pause 20}{emote: Shyness} Aber...	Momentan male ich blind.{pause 20}	Ich weiß nicht mal genau, wie {Article(word-dependant)}	{0011-0003-0002-0000} aussieht!	{emote: Distress}Also,{pause 20} {der/die/das} {0011-0003-0002-0000}...{pause 20}	Willst du dich davon trennen?{Wait for input}{emote: Inspired}	Wir könnten doch tauschen!	{emote: Happiness}Hmmm, was hab ich denn so...{pause 20}	Ich könnte dir dafür doch {meinen/meine/mein}	{0011-0003-0002-0001} geben!{Player can respond (0005):0004-0015-0005-0028}	Klar, tauschen wir!	Ach, nein.
+"002"	{emote: Happiness}{Text size 100%}Können wir kurz reden?{Text size 100%}{pause 8} Du hast da	{einen/eine/ein} {0011-0003-0002-0000}...{Wait for input}	Fantastisch!	{emote: Worry}Willst du {den/die/das} vielleicht loswerden?{pause 30}	{emote: Surprise}Natürlich nicht umsonst!{Wait for input}{emote: Happiness}Ich könnte dir dafür vielleicht {einen/eine/ein}	{0011-0003-0002-0001} geben.{pause 20}	Was hältst du davon?{Player can respond (0005):0004-0015-0005-0028}	Das machen wir!	Nein, ich will nicht.
+"003"	{emote: Happiness}Weißt du, was mir Spaß macht?{pause 10}	Ich tausche gerne.{emote: Reset}{Wait for input}{emote: Soft Smile}Tauscht man etwas, das man nicht	mehr mag, ist das wie Recycling.{pause 8}	Spaßig und gut für die Umwelt!	{emote: Happiness}Also gut!{pause 20} Wollen wir jetzt etwas	miteinander tauschen?{Player can respond (0005):000a-0015-000b-0028}	Gerne!	Lieber nicht.
+"004"	{000a-0000-0006-0603-0700-cd00}
+"005"	{000a-0000-0006-0803-0900-cd00}
+"006"	{emote: Happiness}Wirklich?!{pause 8} Toll!{Wait for input} Ich wusste doch,	ich kann mich auf dich verlassen,	{Player nickname (green)}.{pause 10} Also, {pause 10}lass uns tauschen!
+"007"	{emote: Laughter}Hihi!{pause 20} Prima!{pause 20} {emote: Happiness}Nun denn, {pause 10}lass uns	tauschen!
+"008"	{emote: Worry}Oh.{pause 30}{emote: Sheepishness} {pause 20}Muss ich mir eben selbst {einen/eine/ein}	{0011-0003-0002-0000} suchen!{pause 10}	Sag, falls du deine Meinung änderst.
+"009"	{emote: Sadness}Tja,{pause 10} also, das ist schade...{pause 30} Ich hätte	nicht fragen sollen.{Wait for input}{emote: Sheepishness} Du hängst	offenbar sehr an deinen Sachen.
+"010"	{emote: Happiness}Juhu!{pause 15} Ich wusste doch, dass dir das	gefällt.{Wait for input} Also, {pause 10}was wollen wir denn	tauschen?	Ich habe da {einen leicht gebrauchten/eine leicht gebrauchte/ein leicht gebrauchtes}	{0011-0003-0002-0001}.{Wait for input}Dafür habe ich in letzter Zeit keine	Verwendung mehr.{Wait for input}{emote: Glee}Mal sehen...{pause 10} Ich würde {meinen/meine/mein} 	{0011-0003-0002-0001} gegen {einen/eine/ein}	{0011-0003-0002-0000} tauschen!{Player can respond (0005):000c-0015-000b-0028}	Gut, machen wir es so.	Ach, lieber doch nicht.
+"011"	{emote: Distress}Nicht?{pause 20} Schade.{Wait for input}	{emote: Sheepishness}Na gut, {pause 10}vielleicht nächstes Mal,{pause 8}	{catchphrase}!
+"012"	{emote: Happiness}Herzlichen Dank!
+"013"	{emote: Happiness}Ach, das hat Spaß gemacht!{pause 20}	Das müssen wir mal wieder	machen, {pause 8}{catchphrase}!

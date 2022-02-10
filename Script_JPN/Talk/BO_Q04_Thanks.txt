@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	
-"005"	
-"006"	{emote: Alarmed}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
-"009"	{emote: Resigned}
-"010"	{emote: Sheepishness}
+"001"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 20}	ありがとねぇ、{pause 8}{catchphrase}
+"002"	{emote: Happiness}おかげで　ご{ruby (charSpan 1): よう}用がすんじゃったぁ{pause 40}	ありがとぉ、{pause 8}{catchphrase}
+"003"	{emote: Happiness}すっごく　たすかったよぉ{pause 40}	キミも　おさんぽみたいで	{ruby (charSpan 1): たの}楽しかったんじゃない？
+"004"
+"005"
+"006"	{emote: Alarmed}わぁ～{pause 20}	すぐ{ruby (charSpan 1): かえ}帰っちゃったねぇ{pause 40}	{emote: Resigned}あのコ　クールだなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}そうそう{pause 8}	おれいを　あげなくっちゃね！{pause 40}	{0011-0003-0002-0000}だよぉ～
+"007"	{emote: Happiness}えへへ～{pause 20}	つれて{ruby (charSpan 1): き}来てくれて	ありがとぉ！{Wait for input}おれいに　この、{pause 20}	{0011-0003-0002-0000}を	どぉ～ぞ！
+"008"	{emote: Worry}あれぇ～{pause 20}	{ruby (charSpan 1): かえ}帰っちゃったねぇ～{Wait for input}{0005-0010-0002-0000}を	{ruby (charSpan 1): だ}出そうと{ruby (charSpan 1): おも}思ったけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Sunny}ボクが　{ruby (charSpan 1): た}食べちゃおっと！{Wait for input}{emote: Happiness}{Player nickname (green)}{0005-000d-0000}には、{pause 20}	おれいに　{0011-0003-0002-0000}を	あげるねぇ！
+"009"	{emote: Resigned}もうちょっと{pause 20}	ダラダラ　してってくれても	いいのになぁ～{Wait for input}{emote: Happiness}そうだ～{pause 20}	キミには　おれいを	しなくちゃねぇ～！{Wait for input}{ruby (charSpan 1): いま}今は　もてなそうだから、{pause 20}	お{ruby (charSpan 2): てがみ}手紙といっしょに	おくっておくよぉ、{pause 8}{catchphrase}
+"010"	{emote: Sheepishness}あのコも　いそがしいんだねぇ～{Wait for input}	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、{pause 20}	つれて{ruby (charSpan 1): き}来てくれて　ありがとぉ！{Wait for input}{emote: Agreement}この　おれいは{pause 20}	お{ruby (charSpan 2): てがみ}手紙で　おくっておくよぉ、{pause 8}{catchphrase}

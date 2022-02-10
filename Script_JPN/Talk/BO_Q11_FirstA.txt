@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Sneezing}
-"002"	うぅ～ん{pause 8}
-"003"	{emote: Sadness}
-"004"	{emote: Fearful}
-"005"	{emote: Sadness}
-"006"	{emote: Worry}
-"007"	{emote: Joy}
-"008"	{emote: Sorrow}
-"009"	うぅ{pause 8}
+"001"	{emote: Sneezing}はーっ{pause 8}{0007-000b-0000}くしょん！{pause 60}	{emote: Worry}くしゃみが　{ruby (charSpan 1): で}出るなんて	カゼかなぁ～？
+"002"	うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	なんだか　いつもより　よけいに	ぼ～～っとするよぉ
+"003"	{emote: Sadness}ちゃんと　ごはん{ruby (charSpan 1): た}食べたのに{pause 20}	なんだか　{ruby (charSpan 2): げんき}元気がでないんだぁ
+"004"	{emote: Fearful}うぅ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ゾクゾクするよぉ～{pause 40}	カゼひいちゃったみたい
+"005"	{emote: Sadness}カラダがおもい～{pause 8}・{pause 8}・{pause 8}・{pause 20}	リュックサック	しょってるみたいだよぉ～
+"006"	{emote: Worry}はながつまって、	ごはんが　おいしくないんだぁ～{Wait for input}こんなに　つらいことって	ないよねぇ、{pause 8}{catchphrase}
+"007"	{emote: Joy}うわぁ～{pause 40}	{Player nickname (green)}{0005-000d-0000}が	{ruby (charSpan 2): ふたり}二人{pause 8}・{pause 8}・{pause 8}・{pause 40}　{emote: Curious}いや、{pause 20}{ruby (charSpan 2): よにん}四人？{Wait for input}{emote: Alarmed}{0007-000b-0000}あれっ？！{pause 20}	こんどは　{ruby (charSpan 2): はちにん}八人？！{Wait for input}{emote: Sadness}ボク{pause 20}　ねつでもあるのかなぁ～？
+"008"	{emote: Sorrow}{Player nickname (green)}{0005-000d-0000}{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): すこ}少しの{ruby (charSpan 1): あいだ}間だったけど、	いっぱいメイワクかけて　ごめんねぇ～{Wait for input}{emote: Sadness}ボク{pause 8}　もう{pause 8}・{pause 8}・{pause 8}・{pause 20}	ゲンカイかも{pause 8}・{pause 8}・{pause 8}・
+"009"	うぅ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): いま}今は　{ruby (charSpan 1): なん}何にも	{ruby (charSpan 1): た}食べたくないんだぁ～{Wait for input}{emote: Distress}ボクが　こんなこと{ruby (charSpan 1): おも}思うなんて、{pause 20}	とんでもない　ことだよぉ{pause 8}・{pause 8}・{pause 8}・

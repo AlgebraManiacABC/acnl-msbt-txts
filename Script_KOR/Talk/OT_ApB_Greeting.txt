@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Shyness}
-"002"	{emote: Shyness}
-"003"	{emote: Worry}
-"004"	{emote: Sunny}
-"005"	{emote: Greetings}
-"006"	{emote: Alarmed}
-"007"	{0009-0001-0006-08-00-09-00-00-00}	
-"008"	{emote: Anger}
-"009"	{emote: Greetings}
-"010"	{emote: Greetings}
+"001"	{emote: Shyness}있잖아, {Player name}～{pause 32}	우리 둘 말이야{pause 8}・{pause 8}・{pause 8}・{pause 8}	이제 서로 알 만큼 아는 사이니까{pause 16}	슬슬 우리만의 비밀 언어 같은 걸{pause 8}	사용해도 될 것 같은데{Wait for input}{emote: Soft Smile}당신은 어때?{pause 16}	뭔가 근사한 말을	생각해보지 않을래? {pause 8}{catchphrase}?{Player can respond (0005):0004-0015-0003-0028}	그럴까?	너랑 그런 사이 아니야
+"002"	{emote: Shyness}있지, {Player name}!{pause 32}	우리 말인데	사이가 좋아진 기념으로{pause 8}・{pause 8}・{pause 8}・{pause 8}	우리끼리만 쓸 수 있는	특별한 인사{pause 32} 같은 걸	만들어보면 어떨까 싶어	{emote: Soft Smile}그런 의미에서 당신,{pause 16}	쓸만한 인사말 좀	생각해보지 않을래?{Player can respond (0005):0004-0015-0003-0028}	그래!	내가 왜?
+"003"	{emote: Worry}그래{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}그럼, 나중에 마음이 변하면{pause 16}	다시 얘기해!
+"004"	{emote: Sunny}우와, 신 난다!{pause 16}	어떤 말이 좋을까?
+"005"	{emote: Greetings}「{Greeting begin} {Greeting end}」!{Wait for input}	{emote: Reset}이런 느낌? {pause 8}{catchphrase}?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	바로 그거야!	그건 좀 아닌데
+"006"	{emote: Alarmed}아니, 이게 아니란 말야?{Wait for input}	{emote: Soft Smile}그럼, {pause 16}다시 한 번	제대로 가르쳐줘
+"007"	{0009-0001-0006-0008-0009-000a}
+"008"	{emote: Anger}좋아, 집중하고 잘 들어!{Wait for input}	{emote: Greetings}{Greeting begin}　{Greeting end}!{Wait for input}{emote: Bashful}우후훗{pause 8}・{pause 8}・{pause 8}・{pause 8} 어쩐지{pause 16}	{Player nickname (green)}{000e-000e-0008-0002-acfc-0002-c640}	더욱 친해진 느낌이야～!
+"009"	{emote: Greetings}{Greeting begin}　{Greeting end}!{Wait for input}	{emote: Soft Smile}이거 신선한데!{pause 16}	고마워, {pause 8}{Player nickname (green)}!
+"010"	{emote: Greetings}{Greeting begin}　{Greeting end}!{Wait for input}	{emote: Soft Smile}당신 센스 대박이네!{pause 16}	나보다 뛰어난 것 같아!

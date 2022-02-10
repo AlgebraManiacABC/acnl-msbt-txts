@@ -1,14 +1,14 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Anger}
-"003"	{0009-0001-0006-04-00-05-00-06-00}
-"004"	{emote: Anger}
-"005"	{emote: Worry}
-"006"	{emote: Alarmed}
-"007"	{0009-0006-0010-08-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00}
-"008"	{000a-0000-0006-01-09-00-0a-00-ffffffcd}
-"009"	{000a-0000-0006-05-0c-00-0b-00-ffffffcd}
-"010"	{emote: Agreement}
-"011"	・{pause 8}
-"012"	・{pause 8}
-"013"	{emote: Agreement}
+"001"	{emote: Worry}あと　{Number (0x6)}{ruby (charSpan 1): にち}日で{pause 8}　{ruby (charSpan 2): ひっこ}引越しかと{ruby (charSpan 1): おも}思うと{pause 20}	しんみりした{ruby (charSpan 2): きぶん}気分に　なっちまうぜ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sheepishness}オレらしくも　ねぇんだがな！{pause 30}	{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}{Player can respond (0000):0003-0028-0007-0000}	{ruby (charSpan 1): い}行かないで！	{ruby (charSpan 2): げんき}元気でね！
+"002"	{emote: Anger}いよいよ　{pause 8}あさっては　{ruby (charSpan 2): ひっこ}引越しだ！{pause 30}	{emote: Thought}{pause 16}{ruby (charSpan 2): あした}明日は　{ruby (charSpan 2): にづく}荷造りを{ruby (charSpan 1): はじ}始めなきゃ{pause 20}	なんねぇなぁ{pause 8}・{pause 8}・{pause 8}・	{emote: Worry}{ruby (charSpan 1): なん}何かこう、{pause 20}	やり{ruby (charSpan 1): のこ}残したことが　ある{ruby (charSpan 1): き}気がしてきて{pause 20}	{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着かねぇ{ruby (charSpan 2): きぶん}気分だぜ{Player can respond (0000):0003-0028-0007-0000}	{ruby (charSpan 2): ひっこ}引越さないで！	{ruby (charSpan 2): げんき}元気でね！
+"003"	{0009-0001-0006-0004-0005-0006}
+"004"	{emote: Anger}おいおい、{pause 10}	この　{Villager's name (orange)}を{pause 20}	{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}止めようってのか？{Wait for input}{emote: Worry}オメェに　そう{ruby (charSpan 1): い}言われると{pause 20}	{ruby (charSpan 2): けっしん}決心が　にぶっちまうじゃねぇか{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Reset}まぁ、いいか{pause 30}	{emote: Soft Smile}わかったよ、{pause 20}{Player nickname (green)}！{Wait for input}もう{ruby (charSpan 1): すこ}少し　{Town name (pink)}{ruby (charSpan 1): むら}村で{pause 20}	やっかいに　なることにするぜ！
+"005"	{emote: Worry}なんだよ、{pause 20}{Player nickname (green)}{pause 8}・{pause 8}・{pause 8}・{pause 20}	そんなふうに　{ruby (charSpan 1): い}言われると{pause 20}	{ruby (charSpan 1): で}出て{ruby (charSpan 1): い}行けなく　なっちまうぜー	{emote: Soft Smile}わかったよ、{pause 20}	{ruby (charSpan 2): ひっこ}引越すのは　またにするぜ！{pause 30}	{emote: Greetings}{ruby (charSpan 2): こんご}今後ともヨロシクな！　{pause 20}{catchphrase}！
+"006"	{emote: Alarmed}おっ、{pause 8}{ruby (charSpan 1): と}止めてくれるのかい？！{Wait for input}	{emote: Sheepishness}オメェに　そう{ruby (charSpan 1): い}言われちゃ{pause 20}	しょうがねぇなぁ{pause 8}・{pause 8}・{pause 8}・	{emote: Glee}よーし！{pause 20}	{ruby (charSpan 2): ひっこ}引越しは　{ruby (charSpan 1): と}取りやめだ！{Wait for input}{emote: Soft Smile}もうしばらく{pause 8}	{Town name (pink)}{ruby (charSpan 1): むら}村での{ruby (charSpan 2): せいかつ}生活を{pause 20}	{ruby (charSpan 1): たの}楽しませてもらうぜ！
+"007"	{0009-0006-0010-0008-000d-000d-000d-000d-000d-000d-000d}
+"008"	{000a-0000-0006-0901-0a00-cd00}
+"009"	{000a-0000-0006-0c05-0b00-cd00}
+"010"	{emote: Agreement}おう！{Wait for input}	・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Worry}だけど　アレだなぁ{pause 8}・{pause 8}・{pause 8}・	{emote: Thought}{pause 16}{ruby (charSpan 1): かんが}考えてみりゃ{pause 20}	オメェのことも　なんにも{ruby (charSpan 1): し}知らねぇし{pause 30}	まだ{ruby (charSpan 2): ひっこ}引越すには　{ruby (charSpan 1): はえ}早ぇかもなぁ{pause 8}・{pause 8}・{pause 8}・	{emote: Sunny}よし、{pause 8}{ruby (charSpan 1): き}決めた！{Wait for input}	{emote: Sheepishness}やっぱオレ、{pause 8}{ruby (charSpan 2): ひっこ}引越すのやめるわ！{pause 30}	さわがせて　{ruby (charSpan 1): わる}悪かったな！	{emote: Soft Smile}これを{ruby (charSpan 2): きかい}機会に{pause 20}	よろしく{ruby (charSpan 1): たの}頼むぜ、{pause 30}{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}
+"011"	・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{emote: Alarmed}？！{pause 30}	{emote: Worry}オメェ　{ruby (charSpan 1): いま}今ちょっと{pause 20}	うれしそうな{ruby (charSpan 1): かお}顔　してなかったか？	{emote: Anger}まさか　オレが{ruby (charSpan 1): で}出て{ruby (charSpan 1): い}行きゃ{pause 20}	せいせいするって{pause 8}	{ruby (charSpan 1): おも}思ってるんじゃ　ねぇだろうな？	{emote: Thought}{pause 16}う～ん、{pause 20}なんかモヤモヤして{pause 20}	{ruby (charSpan 2): ひっこ}引越しなんて{ruby (charSpan 2): きぶん}気分じゃ{pause 8}	なくなってきたぞ{pause 8}・{pause 8}・{pause 8}・	{emote: Glee}よーし、{pause 20}{ruby (charSpan 2): ひっこ}引越しは{ruby (charSpan 2): ちゅうし}中止だ！{pause 30}	{emote: Sheepishness}{ruby (charSpan 2): こんご}今後とも　バッチリ{pause 20}	{ruby (charSpan 2): せわ}世話にならせてもらうぜ！	{emote: Glare}かくご　しろよな！{pause 30}	{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}
+"012"	・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Worry}なんだよ、{pause 20}{Player nickname (green)}！{Wait for input}{emote: Anger}オメェ　ずいぶん{pause 20}	あっさり　してるじゃねぇか？！{pause 30}	{ruby (charSpan 1): と}止めねぇのかよ？	{emote: Thought}{pause 16}オレとオメェは{pause 20}	{ruby (charSpan 1): ふと}太いきずなで　{ruby (charSpan 1): むす}結ばれた{pause 8}	{ruby (charSpan 2): しんゆう}親友だと{ruby (charSpan 1): おも}思っていたが{pause 8}・{pause 8}・{pause 8}・	{emote: Anger}どうやら　まだ{ruby (charSpan 1): た}足りてねぇようだな{Wait for input}	{emote: Glare}こうなったら　{ruby (charSpan 2): ひっこ}引越しは{ruby (charSpan 2): ちゅうし}中止だ！{Wait for input}{emote: Sheepishness}ここに　ホネを{ruby (charSpan 1): うず}埋めるつもりで{pause 20}	ホンモノの{ruby (charSpan 2): しんゆう}親友に　なってやるから{pause 20}	そのつもりでな、{pause 30}{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}
+"013"	{emote: Agreement}おう！　{pause 8}ありがとよ！{pause 30}	{emote: Soft Smile}あと{ruby (charSpan 1): すこ}少しで　お{ruby (charSpan 1): わか}別れだが、{pause 20}	それまで　よろしくな！　{pause 20}{catchphrase}！

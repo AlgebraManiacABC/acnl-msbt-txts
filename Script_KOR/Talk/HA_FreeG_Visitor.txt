@@ -1,55 +1,55 @@
 == 0 ==
-"001"	{0009-0003-000a-04-00-05-00-06-00-07-00-2e-00}
-"002"	{0009-0002-0008-1b-00-1d-00-1e-00-2e-00}
-"003"	
-"004"	저기{pause 20}
-"005"	뭐 좀 부탁해도 되냐?{pause 20}
-"006"	{pause 8}
-"007"	{emote: Happiness}
-"008"	{emote: Glee}
-"009"	{emote: Sunny}
-"010"	{emote: Disbelief}
-"011"	아ー!{pause 20}
-"012"	{emote: Alarmed}
-"013"	오호ー {pause 20}
-"014"	{emote: Resigned}
-"015"	{emote: Happiness}
-"016"	{emote: Alarmed}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Anger}
-"020"	{emote: Alarmed}
-"021"	{0009-0002-0008-16-00-17-00-18-00-19-00}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
-"024"	내가 우리 마을에서 제일 좋아하는 곳은	바로 마을사무소 앞이야ー!{pause 40}!
-"025"	{emote: Happiness}
-"026"	
-"027"	그나저나{pause 20}
-"028"	
-"029"	{emote: Anger}
-"030"	너 못 본 사이에{pause 8}
-"031"	{emote: Sunny}
-"032"	{emote: Worry}
-"033"	{emote: Alarmed}
-"034"	
-"035"	
-"036"	{emote: Agreement}
-"037"	그렇군{pause 8}
-"038"	{emote: Alarmed}
-"039"	{emote: Alarmed}
-"040"	{emote: Worry}
-"041"	오옷ー!{pause 20}
-"042"	{emote: Distress}
-"043"	{emote: Alarmed}
-"044"	
-"045"	
-"046"	{emote: Happiness}
-"047"	
-"048"	
-"049"	
-"050"	{0009-0000-0004-33-00-36-00}
-"051"	{Town name (pink)}
-"052"	{emote: Sunny}
-"053"	{emote: Sadness}
-"054"	{emote: Alarmed}
+"001"	{0009-0003-000a-0004-0005-0006-0007-002e}
+"002"	{0009-0002-0008-001b-001d-001e-002e}
+"003"
+"004"	저기{pause 20} 물어보고 싶은 게 있는데{pause 30}	너네 마을에서는 어떤 스포츠가	{emote: Curious}인기 있어ー?{0008-0003-0014-0008-0000-0009-0000-000a-0000-000b-0000-000c-0000}	축구	야구	테니스	검도	기타 등등
+"005"	뭐 좀 부탁해도 되냐?{pause 20}	너네 마을에서 유행하는	운동 방법 좀 가르쳐주라ー!{0008-0003-0014-000d-0000-000e-0000-000f-0000-0010-0000-0011-0000}	팔 굽혀 펴기	윗몸 일으키기	요가	에어로빅	조깅
+"006"	{pause 8}・{pause 8}・{pause 8}・{pause 20}솔직히 말해봐{pause 40}	{emote: Curious}니 생각엔 우리 마을 어때?{Player can respond (0001):0012-0000-0013-0000-0014-0000}	살기 좋은 동네	살기 힘든 동네	아무 생각 없어
+"007"	{emote: Happiness}{Town name (pink)} 마을 관광은{pause 20}	잘 되어 가냐ー?
+"008"	{emote: Glee}오ー! 축구로구나ー!{pause 20}	하긴 엄청 신 나잖아ー!{Wait for input}{emote: Anger}나의 눈부신 트래핑 실력을	너한테 보여주고 싶은	마음은 굴뚝같지만{Wait for input}{emote: Worry}지금은 다리 쪽에 부상이 있어서	자제하고 있거든{pause 8}・{pause 8}・{pause 8}・{pause 20}	미안하다!
+"009"	{emote: Sunny}역시 야구 맞지ー?{pause 40}	{emote: Agreement}공을 배트로 맞힐 때의	깡ー! 하는 그 소리!{Wait for input}{emote: Love}그 소리 하나에	청춘의 모든 것이 담겨 있다 해도	과언이 아니지{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}사실 이건{pause 20} 우리 아빠가	야구 중계를 보며{pause 20} 해준 얘기야,	{pause 8}{catchphrase}!
+"010"	{emote: Disbelief}테니스라니!{pause 8}	뭔가 세련된 느낌인데ー!{Wait for input}{emote: Glee}서브!{pause 20} 발리!{pause 20}	그리고 스매시!!{Wait for input}{emote: Daydreaming}공이 라켓에 맞을 때 소리가{pause 8}・{pause 8}・{pause 8}・{pause 20}	정말 상쾌하지!
+"011"	아ー!{pause 20} 검도로구나ー!{pause 30}	{emote: Anger}보고 있으면 손에	절로 땀이 나지ー!{Wait for input}{emote: Agreement}킁킁{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Love}난 보호구에서 나는 냄새가 좋더라!
+"012"	{emote: Alarmed}어엇?! 그게 뭐냐?{pause 40}	뭔가 흔치 않은 스포츠라도	하고 있는 거야?{Wait for input}{emote: Distress}으아아ー!{pause 20}	놀러 가서 구경하고 싶다ー!
+"013"	오호ー {pause 20}팔 굽혀 펴기라고ー?{pause 20}	{emote: Glee}팔 근육을 단련하면	쇼핑할 때 엄청 편리한데ー!{Wait for input}{emote: Happiness}엄마가 아무리 무거운 짐을	들게 해도 거뜬하다구ー!{Wait for input}{emote: Agreement}게다가 무거운 짐을 드는 것{pause 20}	또한 상당히 운동이 되거든!
+"014"	{emote: Resigned}윗몸 일으키기라면{pause 20}	운동의 기본 아냐ー?!{Wait for input}{emote: Anger}나 같은 경우는{pause 20} 그걸로 모자라서	늘 배에 힘을 딱 주고	평소에 생활한다구ー!{Wait for input}{emote: Bashful}뭐,{pause 20} 아주 가아끄음{pause 20}	방귀가 나오는 게	흠이라면 흠이지만 말이야ー!
+"015"	{emote: Happiness}요가라면 나도 해본 적 있어!{Wait for input}	꾸준히 하면 몸이 유연해지는	효과도 있는 것 같더라!{Wait for input}{emote: Thought}그렇구나{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Town name (pink)} 마을에서는	다들 요가를 하는구나{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Love}짱이다ー!{pause 30}	주민들이 단체로 다리를	180도로 찢는 모습을 구경하고 싶어!
+"016"	{emote: Alarmed}에어로빅ー?!{pause 20}	그거 보기와는 다르게	엄청 힘든 운동인데ー!{Wait for input}{emote: Glee}원,{pause 20} 투,{pause 20} 원, {pause 20}투!{pause 40}	난 {0005-0014-0002-0000} 박자에 맞춰서	에어로빅을 하고는 해ー!{Wait for input}음악도 듣고, 운동도 하고!	완전 일석이조야ー!
+"017"	{emote: Happiness}호오ー{pause 20}	조깅이란 말이지ー?{Wait for input}{emote: Reset}그럼 너네 마을에는{pause 20}	추천 조깅 코스도	{emote: Curious}혹시 있는 거냐ー?{Wait for input}{emote: Love}한 번만이라도 좋으니	너네 마을에서 달려보고 싶다!	{pause 8}{catchphrase}!
+"018"	{emote: Happiness}정말이냐ー?{pause 20}	우리 마을이 그런 이미지구나!{Wait for input}{emote: Laughter}하하핫!{pause 20}	알고 보면 난{pause 20} 정말	복에 겨운 걸지도 몰라!{pause 40}{emote: Happiness}
+"019"	{emote: Anger}쳇ー!{pause 40}	뭐냐, 그 대답은ー?{Wait for input}{emote: Resigned}하긴 생각해보면{pause 20}	다들 서로 자기 마을이 최고인 게	당연할지도 모르겠다, {pause 8}{catchphrase}
+"020"	{emote: Alarmed}아무 생각도 없다고?!{pause 40}	{emote: Distress}좀 더 주의를 기울여서	여기저기 둘러보란 말이다ー
+"021"	{0009-0002-0008-0016-0017-0018-0019}
+"022"	{emote: Happiness}우리 마을의 자랑이라면	뭐니 뭐니 해도 해안이지ー!{Wait for input}{emote: Pride}해 질 무렵에 바닷가를 달리며{pause 20}	나 잡아봐라 놀이도	할 수 있다구, {pause 8}{catchphrase}!
+"023"	{emote: Happiness}내가 추천하는 관광지는 강가야ー!{pause 40}	거기에서 가만히{pause 20}	흐르는 물소리에 귀를 기울이면{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Daydreaming}늘 마음이 급한 나도{pause 20}	잠깐 동안 차분한 기분에	젖을 수 있거든, {pause 8}{catchphrase}
+"024"	내가 우리 마을에서 제일 좋아하는 곳은	바로 마을사무소 앞이야ー!{pause 40}	{emote: Happiness}꽤 독특하지ー?{Wait for input}{emote: Anger}일단 널찍한 편이라서{pause 20}	스포츠 시합에는 안성맞춤이지!{Wait for input}3 대 3 {0005-0011-0002-0000} 시합 정도는	너끈할 정도의 공간이야, {pause 8}{catchphrase}
+"025"	{emote: Happiness}내가 좋아하는 장소는	역시 폭포야ー!{Wait for input}{emote: Distress}거센 물줄기를	온몸으로 받아 내며	정신 수련을 해보고 싶어ー!{Wait for input}{emote: Mischief}언제 한번 뛰어들까 하고	기회만 노리는 중이야,	{pause 8}{catchphrase}!
+"026"
+"027"	그나저나{pause 20} 그 녀석들은	{emote: Curious}잘 지내고 있냐ー?{Wait for input}{emote: Happiness}누구냐니?{pause 20}	한마을에 살았던	그 녀석들 말이야ー!{Player can respond (0001):001f-0015-0020-0000-0021-0000}	아주 잘 지내지!	그럭저럭	좀 처져 있는 듯?
+"028"
+"029"	{emote: Anger}어이, {Player nickname (green)}!{pause 40}	내가 없다고{pause 8} 트레이닝을	땡땡이 치는 건 아니겠지?{Player can respond (0001):0024-0015-0025-0000-0026-0028}	매일 하고 있어	가끔 하긴 해	아예 안 하고 있지
+"030"	너 못 본 사이에{pause 8}・{pause 8}・{pause 8}・{pause 20}	좀{emote: Curious} 살이 빠진 것 같다?{0008-000a-0010-0027-0028-0028-0029-0029-002a-002a-002b}	살쪘어	빠졌어
+"031"	{emote: Sunny}역시 그렇구나!{Wait for input}{emote: Reset}내가 떠난 이후로{pause 20}	다들 내 빈자리만 쳐다보고	축 처져 있으면 어떡하나 했는데{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Laughter}하하핫!{pause 20}	괜한 걱정이었군, {pause 8}{catchphrase}!{pause 40}{emote: Soft Smile}
+"032"	{emote: Worry}그럭저럭이라{pause 8}・{pause 8}・{pause 8}・{pause 20}	잘 지낸다는 거야,{pause 8}	아니라는 거야ー?{Wait for input}{emote: Laughter}뭐,{pause 20} 다들 평소처럼{pause 20}	느긋하게 살고 있단 뜻이겠지!{pause 40}	그럼 됐어!{pause 20}{emote: Soft Smile}
+"033"	{emote: Alarmed}뭐라고?!{pause 20} 처져 있어?!{Wait for input}{emote: Thought}혹시 내가 없어졌다고{pause 20}	트레이닝을 땡땡이 치고	있는 건가{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}너!{pause 20} 나를 대신해서{pause 8}	그 녀석들한테 기운 좀 넣어줘!	{pause 8}{catchphrase}!
+"034"
+"035"
+"036"	{emote: Agreement}그래그래{pause 8}・{pause 8}・{pause 8}・{pause 20}	기특한 녀석 같으니라고!{Wait for input}{emote: Anger}하면서{pause 20} {emote: Outrage}내가 그 말을 믿을 줄 알았냐ー?!{Wait for input}	너의 그 토실토실한 팔뚝이{pause 20}	진실을 말하고 있다고ー!
+"037"	그렇군{pause 8}・{pause 8}・{pause 8}・{pause 20}	하긴{pause 20}{emote: Happiness} 그럴 거야!{Wait for input}{emote: Agreement}나 같은 유능한 코치가	더 이상 곁에 있지 않으니까 말이야{pause 40}	{emote: Resigned}어쩔 수 없지, {pause 8}{catchphrase}
+"038"	{emote: Alarmed}어이 어이!{pause 40}	{emote: Sigh}감독이 자릴 비운다고	금세 그러기냐ー?{Wait for input}뭐,{pause 20} {emote: Mistaken}나도 딱히{pause 20}	놀랍지는 않았다만{pause 8}・{pause 8}・{pause 8}・
+"039"	{emote: Alarmed}우와앗ー!{pause 20}	그렇게 살쪘어?!{Wait for input}{emote: Agreement}하긴 근육을 만들려면	일단 어느 정도는	살집이 있어야 하니까ー{Wait for input}{emote: Thought}그 살들이 전부{pause 20}	근육이 된다고 생각하면{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Glee}어떠냐?{pause 20}	웃음이 멈추질 않지ー?
+"040"	{emote: Worry}흠,{pause 20} 약간 몸집이	불어나기는 했나 보네{pause 8}・{pause 8}・{pause 8}・{Wait for input}	요즘 과식하는 거 아니냐ー?{Wait for input}{emote: Glee}나야 물론{pause 20} 푸짐하게 잘 먹는	씩씩한 녀석이 좋지만 말이야!
+"041"	오옷ー!{pause 20}	변함없다는 것도 좋은 거지!	{pause 8}{catchphrase}!{Wait for input}{emote: Anger}하지만 과연 니가 이 마을의	유혹을 떨칠 수 있을까ー?{Wait for input}	{emote: Love}여기 {0005-001a-0002-cd00}{000e-000e-0008-0002-c740-0002-b294} 진짜 맛있거든!
+"042"	{emote: Distress}너 말이야{pause 8}・{pause 8}・{pause 8}・{pause 20}	요상한 사이비 다이어트 같은 걸	하고 있는 건 아니겠지ー?{Wait for input}{emote: Anger}좀 더 근육을 만들어야지{pause 20}	안 그러면 앞으로 어떻게	살아남으려고 그러냐ー?
+"043"	{emote: Alarmed}그,{pause 20} 그렇게나	살이 많이 빠졌어ー?!{Wait for input}{emote: Thought}내가 마을을 떠나고 나서{pause 20}	살이 쏙 빠졌다니{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Glare}역시 너,{pause 20}	내가 없으니까 쓸쓸했구나?	{pause 8}{catchphrase}?
+"044"
+"045"
+"046"	{emote: Happiness}어이!{pause 20}	너 역에 있는	사물함은 쓰고 있냐?{Wait for input}{emote: Glare}사실 그 사물함은 말이다,{pause 20}	너네 마을 역의 사물함과	연결되어 있어ー! {pause 8}{catchphrase}!{Wait for input}{emote: Agreement}만약 우리 마을에서{pause 20}	가져가고 싶은 물건이	무지하게 많다면{Wait for input}{emote: Pride}역의 사물함이{pause 20}	아주 편리할 거다! {pause 8}{catchphrase}!
+"047"
+"048"
+"049"
+"050"	{0009-0000-0004-0033-0036}
+"051"	{Town name (pink)} 마을 말이야,{pause 20}	니가 있던 시절과는{pause 8}	{emote: Curious}많이 바뀌었지?{Player can respond (0000):0034-0015-0035-0000}	많이 변했어!	글쎄?
+"052"	{emote: Sunny}헤헤헷!{pause 8} 역시 그렇지ー?{pause 40}	{emote: Pride}{Town name (pink)} 마을은	나날이 진화하고 있거든!{Wait for input}{emote: Happiness}너도 지금의 너네 마을에서{pause 20}	촌장 일 열심히 해ー! {pause 8}{catchphrase}!
+"053"	{emote: Sadness}아{pause 8}・{pause 8}・{pause 8}・{pause 20}	많이 안 바뀌었나{pause 8}・{pause 8}・{pause 8}・{pause 8}?{Wait for input}{emote: Disagreement}하긴 뭐,{pause 40}	{emote: Soft Smile}바뀐 게 별로 없으면{pause 20} 너도{pause 8}	향수를 달래기 쉽고 좋겠네ー!{Wait for input}{emote: Laughter}언제든지 놀러와라ー!{pause 20}	{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}!{pause 40}{emote: Soft Smile}
+"054"	{emote: Alarmed}{Player nickname (green)}{pause 8}・{pause 8}・{pause 8}・{pause 40}	너 제법 촌장다운	분위기가{pause 8} 나는 것 같다?!{Wait for input}{emote: Distress}서 있는 모습이	전보다 위풍당당해 보여ー!	{pause 8}{catchphrase}!{Wait for input}{emote: Anger}역시 {pause 8}{Town name (pink)} 마을의 촌장{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Pride}나,{pause 40} 나도 지지 않을 거야!

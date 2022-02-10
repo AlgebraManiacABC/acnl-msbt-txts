@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Greetings}
-"003"	{emote: Surprise}
-"004"	{emote: Greetings}
-"005"	{emote: Surprise}
-"006"	{emote: Star Yell}
-"007"	{emote: Surprise}
-"008"	{emote: Greetings}
-"009"	{emote: Surprise}
-"010"	{Player nickname (green)}
-"011"	{emote: Happiness}
+"001"	{emote: Greetings}{Greeting begin}여어ー! {pause 8}{Player nickname (green)}!{Greeting end}{pause 40}	{emote: Happiness}놀러 와주다니 기쁜데ー!{Wait for input}오늘은 동지라서{pause 20}	아침부터 이렇게 캄캄하다구,	{pause 8}{catchphrase}	{emote: Laughter}하하핫!{pause 20}	이런 {Town name (pink)} 마을의 모습도	신기하고 좋지 않냐ー?{pause 20}{emote: Happiness}
+"002"	{emote: Greetings}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}, 좋은 아침!{pause 20}	어서 와!{Wait for input}{emote: Happiness}오늘은 동지니까{pause 20}	아침부터 밤까지 캄캄하다구!{Wait for input}{emote: Pride}이런 {Town name (pink)} 마을은	아무 때나 볼 수 있는 게 아냐	맘껏 즐기라구, {pause 8}{catchphrase}!
+"003"	{emote: Surprise}오옷ー!{pause 8} {Player nickname (green)}{000e-000e-0006-0002-c774-0000}다ー!{pause 20}	놀러 오는 타이밍 한번 끝내준다ー!{Wait for input}{emote: Happiness}오늘은 동지라서{pause 20}	아침인데도 해가 안 뜬단 말이지ー{Wait for input}{emote: Laughter}헤헷!{pause 20}	재밌지 않냐ー? {pause 8}{catchphrase}?{pause 20}{emote: Happiness}
+"004"	{emote: Greetings}{Greeting begin}여어ー! {Greeting end}{pause 20}	어서 와, {Player nickname (green)}!{Wait for input}{emote: Happiness}오늘은 동지라서{pause 20}	낮인데도 이렇게 어두워ー!{Wait for input}{emote: Glee}헤헷!{pause 20}	이런 특이한 날에 놀러 오다니{pause 20}	너 운 좋다? {pause 8}{catchphrase}?
+"005"	{emote: Surprise}{0007-000a-0000}오옷ー!{pause 8} {Player nickname (green)}!{pause 20}	언제 왔냐ー?!{Wait for input}{emote: Curious}낮인데도 캄캄해서{pause 20}	깜짝 놀라지 않았어ー?{Wait for input}{emote: Agreement}오늘은 동지거든{pause 20}	동지는 이런 날이지{Wait for input}{emote: Reset}해는 뜨지 않지만{pause 20}	{emote: Sunny}환한 내 미소를 보면서	섭섭함을 잊으라구, {pause 8}{catchphrase}
+"006"	{emote: Star Yell}{pause 15}안{0007-000b-0000}녀어엉!!{pause 20}{emote: Soft Smile}{pause 40}	{Player nickname (green)}! 어서 와ー!{Wait for input}{emote: Glee}이렇게 씩씩하게 인사를 하면{pause 20}	추위도 놀라 달아날 거야ー!{Wait for input}오늘은 동지라서	하루 종일 캄캄하겠지만{pause 20}	맘껏 놀다 가라, {pause 8}{catchphrase}
+"007"	{emote: Surprise}{0007-000a-0000}오옷ー!{pause 8} {Player nickname (green)} 아냐?!{pause 40}	너 언제부터 와 있었냐ー?{Wait for input}{emote: Reset}오늘은 동지여서{pause 20}	아침부터 쭈욱	이렇게 캄캄했다구ー{Wait for input}{emote: Resigned}재밌었는데{pause 20}	너도 봤으면 좋았을걸,	{pause 8}{catchphrase}
+"008"	{emote: Greetings}{Greeting begin}여어ー!{pause 8} {Player nickname (green)}!{Greeting end}{pause 20}	추운 날씨에도 용케 놀러 왔구나ー!{Wait for input}{emote: Cold Chill}오늘은 동지야{pause 8}	이제 본격적인 겨울이	시작된단 뜻이지{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Fearful}감기를 기념품으로 가져가면	안 되니까 조심해라	알았지? {pause 8}{catchphrase}?{pause 20}{emote: Worry}
+"009"	{emote: Surprise}{0007-000a-0000}오오ー!{pause 8} {Player nickname (green)}{000e-000e-0006-0002-c774-0000}네?{pause 20}	나 몰래 와 있던 거야ー?{Wait for input}{emote: Happiness}오늘은 동지라서{pause 20}	대낮에도 밤처럼 캄캄했어ー{Wait for input}{emote: Laughter}지금은 뭐, {pause 20}	평소의 {Town name (pink)} 마을과	다를 바 없지만, {pause 8}{catchphrase}!{pause 20}{emote: Happiness}
+"010"	{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}ー 안녕!{pause 40}	{emote: Cold Chill}오늘은 동지라서 그런지{pause 20}	유독 춥게 느껴지네ー	{emote: Sunny}추위에도 굴하지 않고	네가 놀러 와줘서 기쁘다ー	{pause 8}{catchphrase}!
+"011"	{emote: Happiness}여어ー!{pause 8} {Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}!{pause 40}	{emote: Agreement}이렇게 추운 날에 놀러 오다니{pause 20}	너도 보통 녀석은 아니구나ー	{emote: Laughter}하하핫! 내가 남의 말 할 처지는 아니지!{pause 20}	이참에 어딘가 들어가서	몸 좀 녹이지그래? {pause 8}{catchphrase}?{pause 20}{emote: Happiness}

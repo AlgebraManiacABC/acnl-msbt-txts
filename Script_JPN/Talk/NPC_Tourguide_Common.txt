@@ -1,23 +1,23 @@
 == 0 ==
-"001"	ようこそ！{pause 10}
-"002"	ようこそ、{pause 10}
-"003"	{emote: Happiness}
-"004"	{emote: Glare}
-"005"		{0000-0002-0002-ffffff96-00}よ～い{pause 10}
-"006"		{0000-0002-0002-ffffff96-00}よ～い{pause 10}
-"007"		{0000-0002-0002-ffffff96-00}{0000-0002-0002-ffffff96-00}{0007-000c-0000}
-"008"	
-"009"	
-"011"	ご{ruby (charSpan 2): くろう}苦労じゃった！{pause 30}
-"012"	{ruby (charSpan 2): ふたり}二人とも、{pause 5}!
-"013"	{ruby (charSpan 1): みな}皆の{ruby (charSpan 1): もの}者、{pause 5}
-"014"	{emote: Happiness}
-"015"	また、{pause 5}
-"016"	{emote: Happiness}
-"017"	また、{pause 5}
-"018"	さらに、{pause 5}
-"019"	{0011-0000-0002-00-00}
-"020"	{0011-0000-0002-00-00}
-"021"	{0011-0000-0002-00-00}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
+"001"	ようこそ！{pause 10}　{Player name}よ！
+"002"	ようこそ、{pause 10}{ruby (charSpan 2): しょくん}諸君！
+"003"	{emote: Happiness}{Blue}{0012-0015-0000}{Color Reset}へ、{pause 5}	よくぞ　{ruby (charSpan 2): さんか}参加してくれたっ！
+"004"	{emote: Glare}では　ゆくぞ？{pause 30}
+"005"		{Text size 150%}よ～い{pause 10}・{Text size 150%}{pause 10}{Text size 150%}・{Text size 150%}{pause 10}{Text size 150%}・{Text size 100%}{Text size 150%}{Wait <003c 0000> 'time'}{Text size 100%}
+"006"		{Text size 150%}よ～い{pause 10}・{Text size 150%}{pause 10}{Text size 150%}・{Text size 150%}{pause 10}{Text size 150%}・{Text size 100%}
+"007"		{Text size 150%}{Text size 150%}{0007-000c-0000}{000d-0001-0002-cd00}{emote: Aggravation}{000d-0009-0000}ど～ん{Text size 150%}！{000d-000a-0000}{Wait <003c 0000> 'time'}{Text size 100%}
+"008"
+"009"
+"011"	ご{ruby (charSpan 2): くろう}苦労じゃった！{pause 30}	{ruby (charSpan 2): さいご}最後に　{ruby (charSpan 4): けっかはっぴょう}結果発表をしようかのう！{Wait <005a 0000> 'time'}
+"012"	{ruby (charSpan 2): ふたり}二人とも、{pause 5}ご{ruby (charSpan 2): くろう}苦労じゃった！{pause 30}	{ruby (charSpan 2): さいご}最後に　{ruby (charSpan 4): けっかはっぴょう}結果発表をしようかのう！{Wait <005a 0000> 'time'}
+"013"	{ruby (charSpan 1): みな}皆の{ruby (charSpan 1): もの}者、{pause 5}ご{ruby (charSpan 2): くろう}苦労じゃった！{pause 30}	{ruby (charSpan 2): さいご}最後に　{ruby (charSpan 4): けっかはっぴょう}結果発表をしようかのう！{Wait <005a 0000> 'time'}
+"014"	{emote: Happiness}まあ　{ruby (charSpan 2): けっか}結果はどうであれ、{pause 10}	バカンスを　のんびり	{ruby (charSpan 1): たの}楽しんでもらえたかのう！{Wait for input}また、{pause 5}そう{ruby (charSpan 1): とお}遠くないうちに{pause 10}	この　{Blue}{0012-0015-0000}{Color Reset}で	{ruby (charSpan 1): あ}会えるのを{pause 5}　{ruby (charSpan 1): たの}楽しみにしておるぞい！
+"015"	また、{pause 5}お{ruby (charSpan 1): まえ}前さんたちに{pause 10}	この　{Blue}{0012-0015-0000}{Color Reset}で	{ruby (charSpan 1): あ}会えるのを{pause 5}　{ruby (charSpan 1): たの}楽しみにしておるぞい！
+"016"	{emote: Happiness}どうじゃ？{pause 20}	{ruby (charSpan 2): こんかい}今回のバカンスを	{ruby (charSpan 2): ぞんぶん}存分に　{ruby (charSpan 1): たの}楽しんでもらえたかのう！{Wait for input}また、{pause 5}そう{ruby (charSpan 1): とお}遠くないうちに{pause 10}	この　{Blue}{0012-0015-0000}{Color Reset}で	{ruby (charSpan 1): あ}会えるのを{pause 5}　{ruby (charSpan 1): たの}楽しみにしておるぞい！
+"017"	また、{pause 5}お{ruby (charSpan 1): まえ}前さんたちに{pause 10}	この　{Blue}{0012-0015-0000}{Color Reset}で	{ruby (charSpan 1): あ}会えるのを{pause 5}　{ruby (charSpan 1): たの}楽しみにしておるぞい！
+"018"	さらに、{pause 5}がんばった{ruby (charSpan 1): じゅん}順に	オマケも　つけといてやろう！
+"019"	{0011-0000-0002-0000}は{pause 5}　{Blue}{Number (0x7)}{ruby (charSpan 1): まい}枚{Color Reset}、{0007-000d-0000}{pause 60}	{0011-0000-0002-0001}は{pause 5}　{Blue}{Number (0x7)}{ruby (charSpan 1): まい}枚{Color Reset}の{ruby (charSpan 2): ついか}追加じゃ！{0007-000e-0000}{pause 60}
+"020"	{0011-0000-0002-0000}は{pause 5}　{Blue}{Number (0x7)}{ruby (charSpan 1): まい}枚{Color Reset}、{0007-000d-0000}{pause 60}	{0011-0000-0002-0001}は{pause 5}　{Blue}{Number (0x7)}{ruby (charSpan 1): まい}枚{Color Reset}、{0007-000e-0000}{pause 60}	{0011-0000-0002-0002}は{pause 5}　{Blue}{Number (0x7)}{ruby (charSpan 1): まい}枚{Color Reset}の{ruby (charSpan 2): ついか}追加じゃ！{0007-000f-0000}{pause 60}
+"021"	{0011-0000-0002-0000}は{pause 5}　{Blue}{Number (0x7)}{ruby (charSpan 1): まい}枚{Color Reset}、{0007-000d-0000}{pause 60}	{0011-0000-0002-0001}は{pause 5}　{Blue}{Number (0x7)}{ruby (charSpan 1): まい}枚{Color Reset}、{0007-000e-0000}{pause 60}{Wait for input}{0011-0000-0002-0002}は{pause 5}　{Blue}{Number (0x7)}{ruby (charSpan 1): まい}枚{Color Reset}、{0007-000f-0000}{pause 60}	{0011-0000-0002-0003}は{pause 5}　{Blue}{Number (0x7)}{ruby (charSpan 1): まい}枚{Color Reset}の{ruby (charSpan 2): ついか}追加じゃ！{0007-0010-0000}{pause 60}
+"022"	{emote: Happiness}まあ　{ruby (charSpan 2): けっか}結果はどうであれ、{pause 10}	バカンスを　のんびり	{ruby (charSpan 1): たの}楽しんでもらえたかのう！
+"023"	{emote: Happiness}どうじゃ？{pause 20}	{ruby (charSpan 1): おも}思い{ruby (charSpan 1): おも}思いの　バカンスを	{ruby (charSpan 1): たの}楽しんでもらえたかのう！

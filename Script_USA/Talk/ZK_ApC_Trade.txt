@@ -1,39 +1,39 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Anger}
-"003"	{emote: Soft Smile}
-"004"	{emote: Worry}
-"005"	{emote: Alarmed}
-"006"	{emote: Soft Smile}
-"007"	{emote: Sadness}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Alarmed}
-"011"	{emote: Happiness}
-"012"	{emote: Soft Smile}
+"001"	{emote: Surprise}Hey! What's that you have there?	{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?{Wait for input}{emote: Anger}I've been looking everywhere	for just such an item!{Wait for input}{emote: Worry}Do you think I could have yours?{Wait for input}	{emote: Anger}Not for free! {pause 10}I'd give you my	{0011-0003-0002-0001} for it.{Player can respond (0005):0005-0015-0004-0028}	OK, let's trade!	No, thanks.
+"002"	{emote: Anger}Well, {Player nickname (green)}, I see you have	{Article(word-dependant)}{0011-0003-0002-0000}.{pause 5}.{pause 5}.{pause 5}	I so want to be the owner.	{emote: Curious}Can we do a trade? How about.{pause 5}.{pause 5}.{pause 5}	I read my {0005-000f-0002-0000} poem?{pause 10}	{emote: Soft Smile}I just wrote it!	{emote: Sadness}Wait, no. It's not good enough yet.{Wait for input}	{emote: Reset}Oh, how about I give you my	{0011-0003-0002-0001}?{Player can respond (0005):0008-0015-0007-0028}	Let's trade!	No way.
+"003"	{emote: Soft Smile}So I've got an item that is SO	you, {Player nickname (green)}. It's totally got	your name written all over it.	{emote: Pride}Yep, my {0011-0003-0002-0001}!{pause 10}	You want? I bet you do!{Wait for input}{emote: Anger}But on one condition. {pause 10}You give me	your {0011-0003-0002-0000}!{Player can respond (0005):000b-0015-000a-0028}	Wow, OK!	No way.
+"004"	{emote: Worry}Well, I guess it makes sense that	you'd want to keep an item like	that, {Player nickname (green)}. {pause 10}Thanks, anyway.
+"005"	{emote: Alarmed}What? {pause 10}Really? {pause 20}{emote: Happiness}You totally just	made my day, {Player nickname (green)}!
+"006"	{emote: Soft Smile}Thank you, {Player nickname (green)}!{pause 16} Now I've	found the missing piece of my	heart!{pause 8} {capitalized}{catchphrase}!
+"007"	{emote: Sadness}Oh, fine.{pause 5}.{pause 5}.{pause 5} My poems are terrible,	and I can't trade to save my life.{pause 10}	Well, I'll just be over here. {pause 10}Moping.{000b-0003-0002-cd01}
+"008"	{emote: Alarmed}Seriously? You'll trade? {pause 10}Great!
+"009"	{emote: Happiness}Wow, {pause 5}thanks a lot, {Player nickname (green)}!
+"010"	{emote: Alarmed}What? {pause 10}No way? {pause 5}Not interested?{pause 10}	{emote: Worry}I thought I totally got you,	{Player nickname (green)}. {pause 10}Hmm. {pause 5}Guess I don't.
+"011"	{emote: Happiness}Great! I knew you couldn't resist.{Wait for input}	So, your {0011-0003-0002-0000}	for my {0011-0003-0002-0001}.{pause 5}.{pause 5}.
+"012"	{emote: Soft Smile}That was just about the best trade	I've done all week, {Player nickname (green)}!
 == 1 ==
-"001"	{emote: Surprise}
-"002"	{emote: Anger}
-"003"	{emote: Soft Smile}
-"004"	{emote: Worry}
-"005"	{emote: Alarmed}
-"006"	{emote: Soft Smile}
-"007"	{emote: Sadness}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Alarmed}
-"011"	{emote: Happiness}
-"012"	{emote: Soft Smile}
+"001"	{emote: Surprise}¡Eh! Mi olfato de {0005-001f-0002-cd00}	nunca me engaña. ¡Eso que llevas	ahí es {Article(word-dependant)}{0011-0003-0002-0000}!	{emote: Anger}¡Llevo buscando un{000e-0012-000c-0010-0002-006f-0002-0061-0000} un montón de	tiempo! ¡Es lo último de lo último!{Wait for input}{emote: Worry}Como buen melómano que soy,	¡necesito un{000e-0012-000c-0010-0002-006f-0002-0061-0000}!{Wait for input} {emote: Anger}No me mires así,	no digo que me l{000e-0012-000c-0010-0002-006f-0002-0061-0000} regales.	{pause 10}Te ofrezco mi queridisisísim{o/a/}	{0011-0003-0002-0001} a cambio.	¿Cómo lo ves?{Player can respond (0005):0005-0015-0004-0028}	¡Me interesa!	Paso
+"002"	{emote: Anger}¡Pero {Player nickname (green)}! ¿Qué haces tú	con {Article(word-dependant)}{0011-0003-0002-0000}?	¿Dónde l{o/a/} conseguiste? ¡Quiero un{o/a/}!	{emote: Curious}¿Qué te puedo ofrecer a cambio?.{pause 5}.{pause 5}.{pause 5} 	{emote: Soft Smile}¿Un CD de {0005-0014-0002-0000}	y canto gregoriano?{pause 10}	{emote: Sadness}Es bueno, pero no parece suficiente.{Wait for input}	{emote: Reset}¿Qué tal si me l{o/a/} cambias por	mi {0011-0003-0002-0001}?{Player can respond (0005):0008-0015-0007-0028}	¡De acuerdo!	¡Qué va!
+"003"	{emote: Soft Smile}Aquí tengo algo con lo que vas a	ser la envidia de toda la blogosfera	de {capitalized}{Town name (pink)}, {Player nickname (green)}.	{emote: Pride}¡{capitalized}{Article(word-dependant)}{0011-0003-0002-0001}!{pause 10}	¿No l{o/a/} deseas con todas	tus fuerzas?{Wait for input}{emote: Anger}¡Quiet{o/a} parad{o/a}, que no he dicho	que fuera gratis! {pause 10}Te l{o/a/} cambio por	tu {0011-0003-0002-0000}.{Player can respond (0005):000b-0015-000a-0028}	¡Pues claro!	¡Que te lo has creído!
+"004"	{emote: Worry}Bueno, si yo fuera tú, tampoco	querría deshacerme de es{e/a/}	{0011-0003-0002-0000}...{pause 20}
+"005"	{emote: Alarmed}¡¿Cóoomo?! {pause 10}¿De{pause 20} verdad?{emote: Happiness} ¡Eres lo	más, {Player nickname (green)}!
+"006"	{emote: Soft Smile}¡Lo flipo en colores, {catchphrase}!	¡Me has hecho el melómano más	feliz del mundo!
+"007"	{emote: Sadness}Jooo...{pause 10} Y eso que pensaba que mi	oferta era irrechazable.{pause 20} En fin,	aquí me quedo todo triste.{000b-0003-0002-cd01}
+"008"	{emote: Alarmed}¿De verdad? {pause 10}¡Estupendo!
+"009"	{emote: Happiness}Guau, {Player nickname (green)}, ¡un millón	de gracias!
+"010"	{emote: Alarmed}¿Eh? {pause 10}¿No te interesa? {emote: Worry}Vaya, creía	que eras u{n/na} entendid{o/a} en el tema,	{Player nickname (green)}. {pause 10}Ya veo que no.
+"011"	{emote: Happiness}¡Guay!{Wait for input} Venga, saca la mercancía:	tu {0011-0003-0002-0000} a cambio	de mi {0011-0003-0002-0001}.
+"012"	{emote: Soft Smile}¡El mejor intercambio de toda	la semana, {Player nickname (green)}!
 == 2 ==
-"001"	{emote: Surprise}
-"002"	{emote: Anger}
-"003"	{emote: Soft Smile}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Soft Smile}
-"007"	{emote: Sadness}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Alarmed}
-"011"	{emote: Happiness}
-"012"	{emote: Soft Smile}
+"001"	{emote: Surprise}Hé! Qu'est-ce que t'as là, dis-moi?	{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?!{Wait for input}{emote: Anger}Je cherche ce truc partout depuis	un siècle! {emote: Worry}Tu voudrais pas me filer	{le tien/la tienne/}?	{emote: Anger}Je sais, rien n'est gratuit dans la vie.	Alors je te l'échange contre {Article(word-dependant)}	{0011-0003-0002-0001}. Ça roule?{Player can respond (0005):0005-0015-0004-0028}	Ça roule!	Pas cool.
+"002"	{emote: Anger}Dis-moi, {Player nickname (green)}, ce serait pas	{Article(word-dependant)}{0011-0003-0002-0000}	que tu as là{pause 8}.{pause 5}.{pause 5}.? Il me {le/la/} faut!	{emote: Curious}On échange? Voyons voir{pause 8}.{pause 5}.{pause 5}.{pause 5} Contre	une photo dédicacée de moi?{pause 10} Non,	{emote: Soft Smile}chuis bête, t'en as déjà plein!	{emote: Inspired}Je sais, {pause 15}je te donne {Article(word-dependant)}	{0011-0003-0002-0001} en	échange, ça marche?{Player can respond (0005):0008-0015-0007-0028}	Ça marche.	Cours toujours.
+"003"	{emote: Soft Smile}Dis, {Player nickname (green)}, j'ai un machin là qui	semble avoir été inventé pour toi...	{emote: Pride}{Article(word-dependant)}{0011-0003-0002-0001}!{pause 10}	T'en as rêvé toute ta vie, avoue!{Wait for input}	{emote: Anger}Mais pas si vite!{pause 15} En échange, je	veux {Article(word-dependant)}{0011-0003-0002-0000}!{Player can respond (0005):000b-0015-000a-0028}	Waouh, c'est inespéré!	L'espoir fait vivre...
+"004"	{emote: Alarmed}Ah ouais, d'accord. {Monsieur/Madame} fait	{son/sa} difficile... {pause 30}{emote: Resigned}Je vois, tant pis pour	toi!
+"005"	{emote: Alarmed}Hein? {pause 10}Sérieux? {pause 20}{emote: Happiness}Eh ben, je pensais	pas que ce serait si simple! Comme	quoi, le charme, ça aide, {Player nickname (green)}.
+"006"	{emote: Soft Smile}Excellent, {catchphrase}! Je n'ai pas	perdu ma journée!{pause 15} {Gray}(Pour une fois...){Color Reset}
+"007"	{emote: Sadness}Oh, tu le prends comme ça{pause 5}.{pause 5}.{pause 5}.?{Wait for input}{emote: Glare}OK, tant pis pour toi, t'as perdu une	occase en or de devenir {mon/ma}	{meilleur ami/meilleure amie}! Hé hé.
+"008"	{emote: Alarmed}Sérieux? On échange? {pause 10}Cool!
+"009"	{emote: Happiness}Cool, {pause 5}une bonne chose de faite,	{Player nickname (green)}!
+"010"	{emote: Alarmed}Comment? {pause 10}Pas intéressé{/e}? {pause 30}{emote: Worry}Hmm,{pause 8}	mon charme ravageur connaît	encore des ratés...{pause 8} C'est inquiétant!
+"011"	{emote: Happiness}Je vois que je ne m'étais pas	trompé, {pause 15}tu voulais vraiment ce	ma{emote: Sunny}chin!{Wait for input} {emote: Sunny}Alors échangeons!
+"012"	{emote: Soft Smile}C'est ma meilleure arna{pause 15}{emote: Mistaken}.{pause 15}.{pause 15}.{pause 30} euh...{emote: Reset}	AFFAIRE de la semaine.{Wait for input}{emote: Happiness} Merci,	{Player nickname (green)}!

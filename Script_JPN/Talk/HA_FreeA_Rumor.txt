@@ -1,25 +1,25 @@
 == 0 ==
-"001"	オマエのユメって、	「{0012-0014-0000}
-"002"	{emote: Happiness}
-"003"	{0011-0000-0002-00-00}
-"004"	{emote: Inspired}
-"005"	{emote: Happiness}
-"006"	{emote: Alarmed}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
-"009"	{emote: Sigh}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Alarmed}
-"015"	{emote: Greetings}
-"016"	{0011-0002-0002-00-00}
-"017"	そういえば　{0011-0002-0002-00-00}
-"018"	
-"019"	
-"020"	
-"021"	{emote: Shocked}
-"022"	{emote: Agreement}
-"023"	{emote: Alarmed}
-"024"	{emote: Laughter}
+"001"	オマエのユメって、	「{0012-0014-0000}」{pause 20}	だっけ？{pause 40}　{emote: Curious}{ruby (charSpan 1): いま}今は　どんな　{ruby (charSpan 2): ちょうし}調子だ？{Player can respond (0000):0015-0000-0016-0000}	バッチリ！	まだまだ
+"002"	{emote: Happiness}{ruby (charSpan 2): さいきん}最近　オマエが{pause 20}	{Player rumor}だって	ウワサになってるぞー！{Wait for input}{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 20}で、{pause 40}	{emote: Curious}あのウワサ　{ruby (charSpan 2): ほんとう}本当なのか？{Player can respond (0000):0017-0015-0018-0000}	ホント	そうかな？
+"003"	{0011-0000-0002-0000}のねがいは{pause 20}	「{0012-0014-0000}」{pause 20}	なんだってさ！{Wait for input}{emote: Laughter}アイツなら　かなえちゃいそうな	{ruby (charSpan 1): き}気がするよー、{pause 8}{catchphrase}{pause 8}{emote: Happiness}
+"004"	{emote: Inspired}{0007-000b-0000}そういえば！{pause 40}	{emote: Happiness}{ruby (charSpan 2): らいげつ}来月{Date-cd00}{ruby (charSpan 1): にち}日は	{0011-0000-0002-0000}のたんじょう{ruby (charSpan 1): び}日だぞー！{Wait for input}オマエも　{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): むら}村に{ruby (charSpan 1): す}住むナカマなら、{pause 20}	プレゼントとか	{ruby (charSpan 1): かんが}考えておけよな、{pause 8}{catchphrase}
+"005"	{emote: Happiness}もうすぐ　{0011-0000-0002-0000}の	たんじょう{ruby (charSpan 1): び}日だなー！{Wait for input}{emote: Thought}アイツ{pause 20}　{ruby (charSpan 1): なに}何あげたら　よろこぶだろ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Distress}プレゼント{ruby (charSpan 1): えら}選びって	ニガテなんだよなー、{pause 8}{catchphrase}
+"006"	{emote: Alarmed}{0007-000b-0000}ヤベェ！{pause 20}	{ruby (charSpan 2): あした}明日は　{0011-0000-0002-0000}の	たんじょう{ruby (charSpan 1): び}日じゃんか！{Wait for input}{emote: Distress}まだまだ　{ruby (charSpan 1): さき}先だと{ruby (charSpan 1): おも}思ってたら、	もう{ruby (charSpan 2): ぜんじつ}前日だー！{pause 40}	プレゼント　{ruby (charSpan 1): いそ}急いで{ruby (charSpan 2): ようい}用意しないとな！
+"007"	{emote: Happiness}{ruby (charSpan 2): きょう}今日の{ruby (charSpan 2): しゅやく}主役は	{0011-0000-0002-0000}！{pause 40}	なんたって　たんじょう{ruby (charSpan 1): び}日だからなー{Wait for input}{emote: Thought}{ruby (charSpan 2): きょう}今日ばっかりは、{pause 20}	アイツを　{ruby (charSpan 2): めだ}目立たせてやりたいなー{Wait for input}{emote: Laughter}ってことで、{pause 20}	{ruby (charSpan 2): きょう}今日のオイラは	ちょっぴり　ひかえめだぞ、{pause 8}{catchphrase}{pause 8}{emote: Happiness}
+"008"	{emote: Worry}{0011-0000-0002-0000}って	{ruby (charSpan 2): さいきん}最近　どうしてんだろうな{pause 40}	{ruby (charSpan 2): そんちょう}村長なのに　なかなか{ruby (charSpan 1): み}見かけないんだ{Wait for input}{emote: Distress}オマエ　もし{ruby (charSpan 1): み}見かけたら、{pause 20}	「オイラが{ruby (charSpan 2): そんちょう}村長　{ruby (charSpan 1): か}代わってやろうか？」	って、{pause 20}{ruby (charSpan 1): つた}伝えておいてくれー！
+"009"	{emote: Sigh}{ruby (charSpan 2): さいきん}最近　{0011-0000-0002-0000}を	ちっとも　{ruby (charSpan 1): み}見かけないよー{Wait for input}{emote: Pride}オイラのビルドアップした	キンニクを{pause 20}　{ruby (charSpan 1): み}見せてやりたいのにさ！
+"010"	{emote: Happiness}そういえば、	さっき　{0011-0000-0002-0000}とも　{ruby (charSpan 1): あ}会ったんだ！{Wait for input}{emote: Mischief}へへっ！{pause 20}	{ruby (charSpan 2): いろいろ}色々と　{ruby (charSpan 1): き}聞いたぞー{pause 40}	オマエの　あんな{ruby (charSpan 1): はなし}話や　こんな{ruby (charSpan 1): はなし}話！{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Laughter}ってのは{pause 20}	ジョーダンだけどさ、{pause 8}{catchphrase}{pause 20}{emote: Happiness}
+"011"	{emote: Happiness}{0011-0000-0002-0000}は、{pause 20}	「{0012-0014-0000}」って	ねがいを{pause 8}　かなえようとしてるらしいなー{Wait for input}{emote: Anger}ヨッシャー！{pause 20}	オイラたちで　おうえんしてやろー！{Wait for input}{emote: Glee}フレー！{pause 20}　フレー！{pause 20}　{0011-0000-0002-0000}！{pause 40}	がんばれ！{pause 20}　がんばれ！{pause 20}　{0011-0000-0002-0000}！{Wait for input}{emote: Sunny}これできっと	ユメに{ruby (charSpan 2): いっぽ}一歩{ruby (charSpan 1): ちか}近づいたよな、{pause 8}{catchphrase}
+"012"	{emote: Happiness}そういえば　{ruby (charSpan 2): らいげつ}来月{Date-cd00}{ruby (charSpan 1): にち}日は{pause 20}	{0011-0000-0002-0000}の	たんじょう{ruby (charSpan 1): び}日だってさ！{Wait for input}オマエ　その{ruby (charSpan 1): ひ}日も	{ruby (charSpan 1): むら}村に{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): こ}来いよー！{pause 20}	アイツを　お{ruby (charSpan 1): いわ}祝いしてやろう！
+"013"	{emote: Happiness}そういえば　もうすぐ	{0011-0000-0002-0000}のたんじょう{ruby (charSpan 1): び}日だなー{Wait for input}{emote: Mischief}{ruby (charSpan 2): さいきん}最近　アイツが　ニヤニヤしてるの	オイラには　わかるんだー{Wait for input}{emote: Laughter}きっと　プレゼントとか	{ruby (charSpan 2): きたい}期待してるんだな、{pause 8}{catchphrase}{pause 8}{emote: Happiness}
+"014"	{emote: Alarmed}そうそう！{pause 20}	{ruby (charSpan 2): あした}明日は　{0011-0000-0002-0000}の	たんじょう{ruby (charSpan 1): び}日だぞー！{Wait for input}{emote: Glare}アイツ　なんてことない{ruby (charSpan 1): かお}顔して、{pause 20}	{ruby (charSpan 1): じつ}実は　{ruby (charSpan 2): きたい}期待してると{ruby (charSpan 1): おも}思うんだ{Wait for input}{emote: Laughter}{ruby (charSpan 1): なに}何か　プレゼントしたら	きっと　よろこぶぞー、{pause 8}{catchphrase}{pause 8}{emote: Happiness}
+"015"	{emote: Greetings}{ruby (charSpan 2): きょう}今日の{ruby (charSpan 2): しゅやく}主役は　{0011-0000-0002-0000}！{pause 40}	{emote: Agreement}アイツ　{ruby (charSpan 2): きょう}今日が	たんじょう{ruby (charSpan 1): び}日なんだよ、{pause 8}{catchphrase}{Wait for input}{emote: Glee}プレゼントあげたり、{pause 20}	おめでとうって{ruby (charSpan 1): い}言ったり、{pause 20}	たくさん　{ruby (charSpan 1): いわ}祝ってやろう！
+"016"	{0011-0002-0002-0000}{ruby (charSpan 1): むら}村の　{0011-0000-0002-0000}が	ユメに{ruby (charSpan 1): で}出てきたんだよー{Wait for input}{emote: Thought}{0011-0004-0002-0000}って{ruby (charSpan 1): かん}感じの	ヤツだったけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}{ruby (charSpan 2): こんど}今度は　ユメじゃなくて{pause 20}	{ruby (charSpan 2): ほんとう}本当に{ruby (charSpan 1): あ}会ってみたいなー、{pause 8}{catchphrase}
+"017"	そういえば　{0011-0002-0002-0000}{ruby (charSpan 1): むら}村の	{0011-0000-0002-0000}が{pause 20}	オイラのユメに{ruby (charSpan 2): とうじょう}登場したぞ！{Wait for input}{emote: Thought}ユメの{ruby (charSpan 1): なか}中の　{0011-0000-0002-0000}は、{pause 20}	{0011-0004-0002-0000}って	{ruby (charSpan 1): かん}感じがしたけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Laughter}じっさいは　どうだか	わかんないよな、{pause 8}{catchphrase}！{pause 20}{emote: Happiness}
+"018"
+"019"
+"020"
+"021"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 20}	まさか　ユメが　かなったのか？{Wait for input}{emote: Delight}スゲーッ！{pause 20}	よかったな、{Player nickname (green)}！
+"022"	{emote: Agreement}うん、うん！{pause 20}	かんたんに　かなわないから	ユメなんだよな、{pause 8}{catchphrase}{Wait for input}{emote: Anger}これからも　{ruby (charSpan 2): どりょく}努力を	わすれるなよ、{Player nickname (green)}ー！
+"023"	{emote: Alarmed}おー！	{ruby (charSpan 2): ほんとう}本当なんだな！{pause 40}	{emote: Happiness}ウワサって　{ruby (charSpan 2): いがい}意外とあなどれないなー
+"024"	{emote: Laughter}へへっ！　なーんだ！{pause 20}	やっぱり　ウワサは	ただのウワサか、{pause 8}{catchphrase}{pause 8}{emote: Happiness}

@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Happiness}
+"001"	{emote: Greetings}{Greeting begin}오호, {pause 15}{Player nickname (green)}{Greeting end}!{Wait for input}	{emote: Happiness}별거 없지만	천천히 놀다가 가라구, {pause 20}{catchphrase}!
+"002"	{emote: Alarmed}{Greeting begin}앗, {pause 15}{Player nickname (green)}{Greeting end}!	{emote: Happiness}잘 왔어, {pause 20}{catchphrase}!
+"003"	{emote: Happiness}{Greeting begin}오호, {pause 15}{Player nickname (green)}{Greeting end}!{pause 30}	일부러 와 주다니! {pause 20}{catchphrase}!

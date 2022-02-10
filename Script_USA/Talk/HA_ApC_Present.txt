@@ -1,39 +1,39 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Curious}
-"005"	{emote: Curious}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Laughter}
-"010"	{emote: Alarmed}
-"011"	{emote: Laughter}
-"012"	{emote: Sunny}
+"001"	{emote: Alarmed}Whoa!{pause 20} Those calves of yours are	really shaping up!{pause 40} {emote: Glare}You've been 	training hard, haven't you?{Wait for input}{emote: Happiness}You deserve a reward.{pause 8} I'm thinkin'	{Article(word-dependant)}{0011-0003-0002-0000}.{pause 8} Just	don't ask me where I get this stuff!
+"002"	{emote: Happiness}Hoo! Check out my awesome	{0011-0003-0002-0000}!{pause 20}{Wait for input}You're into stuff like this, right?{Wait for input}Ha ha!{pause 20} I knew it! You want me to 	give you mine, don'tcha?{Player can respond (0005):0005-0000-000a-0028}	Uh...I guess.	Nah.
+"003"	{emote: Happiness}{capitalized}{Player nickname (green)}!{pause 20} Look, just take my	{0011-0003-0002-0000}{pause 20}, and don't	say a word about it!
+"004"	{emote: Curious}What?{pause 40} Why am I giving stuff away?{Wait for input}{emote: Happiness}Don't worry about it.{pause 40} Just think of	it as a gift!
+"005"	{emote: Curious}What?{pause 20} You're not excited?{000a-0000-0006-0603-0700-cd00}
+"006"	{emote: Happiness}Oh, come on.{pause 8} Take my stuff!{pause 20} You're	a good pal putting up with me.{pause 8} It's a	token of my esteem, {pause 8}{catchphrase}.
+"007"	{emote: Happiness}Come on, just take my stuff!{pause 20} You	know you want to!
+"008"	{emote: Happiness}Don't worry.{pause 8} At some point, I'll be	interested in something of yours.
+"009"	{emote: Laughter}And anyway,{pause 20} I don't remember	where I got half my stuff.{pause 40} So it's	not like it's a big deal to me!{pause 40}{emote: Happiness}
+"010"	{emote: Alarmed}What's that?!{pause 20} I guess maybe I'm not	understanding you.{Wait for input}{emote: Thought}Well, returning this item is gonna be	a big hassle, so...{pause 40} {emote: Happiness}Yeah, I'm gonna	insist you keep it.
+"011"	{emote: Laughter}Ha!{pause 20} It's your lucky day, {Player nickname (green)}!{pause 20}{emote: Happiness}
+"012"	{emote: Sunny}Yes!{pause 20} Major accomplishment!{Wait for input}{emote: Happiness}When I woke up this morning,{pause 20} I just	felt like I needed to give someone a	super-nice present!{Wait for input}Thanks for being my super-nice	someone, {pause 8}{catchphrase}!
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Curious}
-"005"	{emote: Curious}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Laughter}
-"010"	{emote: Alarmed}
-"011"	{emote: Laughter}
-"012"	{emote: Sunny}
+"001"	{emote: Alarmed}¡Jolipas!{pause 20} ¡Te están quedando unas	pantorrillas muy musculadas!{pause 40} {emote: Glare}Te	has entrenado a fondo, ¿a que sí?	{emote: Happiness}Mereces una recompensa,{pause 8} como	est{e/a/} {0011-0003-0002-0000}.	{pause 8}¡No me preguntes cómo l{o/a/} conseguí!
+"002"	{emote: Happiness}¡Yujuuu! ¡Mira mi increíble	{0011-0003-0002-0000}!{pause 20}{Wait for input}A ti te van estas cosas, ¿a que sí?{Wait for input}¡Ja, ja!{pause 20} ¡Lo sabía! Quieres que te	{lo/la/} dé, ¿no?{Player can respond (0005):0005-0000-000a-0028}	Ah... supongo	Bah, no
+"003"	{emote: Happiness}¡{capitalized}{Player nickname (green)}!{pause 20} Oye, ¡quédate	con mi {0011-0003-0002-0000}{pause 20}	y no se hable más!
+"004"	{emote: Curious}¿Qué?{pause 40} ¿Que por qué te regalo	cosas?{Wait for input}{emote: Happiness}¡Pues porque sí!{pause 40} ¿Qué más da?
+"005"	{emote: Curious}¿Qué?{pause 20} ¿No te ha molado?{000a-0000-0006-0603-0700-cd00}
+"006"	{emote: Happiness}Venga,{pause 8} ¡acepta mi regalo!{pause 20} Eres de	l{o/a}s poc{o/a}s que me aguantan.{pause 8} ¡Deja	que te lo agradezca, {pause 8}{catchphrase}!
+"007"	{emote: Happiness}¡Venga, acepta lo que te doy!{pause 20}	¡Sé que quieres hacerlo!
+"008"	{emote: Happiness}Tú no te preocupes.{pause 8} Ya me	interesará algo tuyo alguna vez.
+"009"	{emote: Laughter}Y además,{pause 20} creo que es algo que me	encontré por ahí entrenándome.{pause 40}	¡No me ha costado ni una sola baya!{pause 40}{emote: Happiness}
+"010"	{emote: Alarmed}¡¿Qué me dices?!{pause 20} Creo que a lo	mejor no te estoy entendiendo.{Wait for input}{emote: Thought}A ver, ir a devolver esto es un	movidón, así que...{pause 40} {emote: Happiness}insisto en que	te lo quedes.
+"011"	{emote: Laughter}¡Ja!{pause 20} ¡Hoy es tu día de suerte,	{Player nickname (green)}!{pause 20}{emote: Happiness}
+"012"	{emote: Sunny}¡Sí!{pause 20} ¡Esto es todo un logro!{Wait for input}{emote: Happiness}Cuando me levanté esta mañana,{pause 20}	¡me dije que tenía que hacerle	un regalazo a alguien!	¡Gracias por estar ahí, {campeón/campeona}!
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Curious}
-"005"	{emote: Curious}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Laughter}
-"010"	{emote: Alarmed}
-"011"	{emote: Laughter}
-"012"	{emote: Sunny}
+"001"	{emote: Alarmed}Waouh!{pause 20} Quels mollets! T'arrives	encore à plier les jambes?{pause 40} {emote: Glare}On voit	bien que tu t'es donné{/e} à fond!	{emote: Happiness}Ça mérite une récompense.{pause 8} Tiens,	voici {Article(word-dependant)}{0011-0003-0002-0000}.{pause 8}	J'en ai plus besoin, à vrai dire.
+"002"	{emote: Happiness}Youhou! Vise un peu ça : {Article(word-dependant)}	{0011-0003-0002-0000}!{pause 20}{Wait for input}Je crois me souvenir que c'est le	genre de trucs qui te branchent!{Wait for input}Ha ha!{pause 20} Laisse-moi deviner{pause 8}.{pause 8}.{pause 8}.{pause 20} Tu	voudrais que je t'en fasse cadeau!	J'ai juste?{Player can respond (0005):0005-0000-000a-0028}	Hmm... pourquoi pas.	Non merci.
+"003"	{emote: Happiness}{capitalized}{Player nickname (green)}!{pause 20} Écoute, j'ai {Article(word-dependant)}	{0011-0003-0002-0000} que je ne	peux pas garder avec moi.	Fais-moi plaisir, débarrasse-m'en	sans discuter!
+"004"	{emote: Curious}Hmm?{pause 40} Pourquoi je m'en sépare?{Wait for input}{emote: Happiness}T'occupe pas de ça.{pause 40} Disons	simplement qu'il s'agit d'un cadeau	de la part de ton vieux copain!
+"005"	{emote: Curious}Hmm?{pause 20} Ça te fait pas plaisir?{000a-0000-0006-0603-0700-cd00}
+"006"	{emote: Happiness}Bah, allez.{pause 8} Accepte!{pause 20} Vu qu'on traîne	pas mal ensemble, ça me paraît tout	naturel,{pause 8} {catchphrase}.
+"007"	{emote: Happiness}Te fais pas prier, accepte!{pause 20} T'en	meurs d'envie, pas la peine de	prétendre le contraire!
+"008"	{emote: Happiness}Et sois pas gêné{/e}!{pause 8} Un de ces jours,	ce sera mon tour de recevoir un	cadeau de ta part.{pause 20} {emote: Agreement}Oui, oui.
+"009"	{emote: Laughter}Pour tout te dire,{pause 20} ça traînait par	terre quand je suis tombé dessus.{pause 40}	J'ai pas déboursé une clochette!{pause 40}{emote: Happiness}
+"010"	{emote: Alarmed}T'en veux pas?!{pause 20} Je me serais planté	quelque part?{Wait for input}{emote: Thought}Pfff, je vois pas du tout quoi en	faire. Du coup{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Happiness}va vraiment falloir	que tu repartes avec!
+"011"	{emote: Laughter}Hé hé!{pause 20} C'est ton jour de chance,	{Player nickname (green)}!{pause 20}{emote: Happiness}
+"012"	{emote: Sunny}Wouhou!{pause 20} Mission accomplie!{Wait for input}{emote: Happiness}Depuis ce matin,{pause 20} je ressens	l'irrépressible envie d'offrir une	bricole à quelqu'un.	Merci d'avoir accepté, {Player nickname (green)}.	Grâce à toi, mon envie est enfin	apaisée,{pause 8} {catchphrase}!

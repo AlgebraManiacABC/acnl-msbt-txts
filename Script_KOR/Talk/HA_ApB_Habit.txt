@@ -1,18 +1,18 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Happiness}
-"005"	{pause 8}
-"006"	아, 그렇구나!{pause 20}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{emote: Thought}
-"009"	{emote: Thought}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Pride}
-"012"	{emote: Happiness}
-"013"	{emote: Greetings}
-"014"	{0009-0001-0006-0f-00-10-00-11-00}
-"015"	{emote: Joy}
-"016"	{emote: Bashful}
-"017"	{emote: Happiness}
+"001"	{emote: Greetings}오ー!{pause 20}	나이스 타이밍, {Player nickname (green)}!{Wait for input}나 말이야, 말버릇을	바꿀까 생각 중인데{pause 20}	{emote: Curious}뭐 괜찮은 거 없냐? {pause 8}{catchphrase}?{Player can respond (0005):0004-0015-0003-0000}	생각날 것 같아	바꾸지 마
+"002"	{emote: Alarmed}야아ー! {pause 20}{Player nickname (green)}!{pause 20}	잠깐 나 좀 보자ー!{Wait for input}{emote: Reset}솔직히 말해주라!{pause 20}	내 말버릇을	{emote: Curious}넌 어떻게 생각해?	{emote: Thought}「{catchphrase}」도{pause 20}	슬슬 유행이 지나는 것 같고{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Distress}야아, {pause 20}새로운 것 좀 생각해줘ー!{Player can respond (0005):0004-0015-0003-0028}	내게 맡겨!	그냥 계속 써
+"003"	{emote: Alarmed}그, 그래{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 20}	그냥 계속 쓰는 게 나을까ー?
+"004"	{emote: Happiness}OK, 좋았어ー!{pause 20}	소름이 쫙 돋을 만큼	멋진 녀석으로 해줘ー!
+"005"	{pause 8}・{pause 8}・{pause 8}・{pause 8}「{catchphrase}」{pause 20}	{emote: Curious}이렇게 하라는 거지ー?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	너랑 딱이야!	아니야, 그거!
+"006"	아, 그렇구나!{pause 20}	미안한데 한 번만 더 말해주라ー
+"007"	{0009-0000-0004-0008-0009}
+"008"	{emote: Thought}「{catchphrase}」{pause 8}・{pause 8}・{pause 8}・{pause 20}	「{catchphrase}」{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Agreement}응! 그래!{pause 20}	{emote: Happiness}입에 짝짝 붙는걸?{pause 20}	이걸로 결정이다ー!
+"009"	{emote: Thought}「{catchphrase}」{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Mischief}이거 굉장한걸ー{pause 20}	내 이미지를 360도 바꿀 수 있는	나쁜 남자 느낌이야ー
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Pride}그래, 난 오직 한길만 걷는	뚝심 있는 남자!{pause 20}	너한테 한 수 배웠다, {pause 8}{catchphrase}
+"012"	{emote: Happiness}한동안 더 지켜봐야겠어ー!{pause 20}	또 바꿔야겠다 싶으면	너한테 다시 부탁할게, {pause 8}{catchphrase}
+"013"	{emote: Greetings}좋았어ー!{pause 20}	깊은 매력이 느껴지도록	더 열심히 사용하겠어, {pause 8}{catchphrase}
+"014"	{0009-0001-0006-000f-0010-0011}
+"015"	{emote: Joy}하하핫!{pause 20}	마을 녀석들한테	자랑하고 다녀야지ー!
+"016"	{emote: Bashful}헤헷!{pause 20}	이제 난 우리 마을 최고의{pause 8}	인기남이 되겠지, {pause 8}{catchphrase}?
+"017"	{emote: Happiness}역시 {Player nickname (green)}{000e-000e-0008-0002-c740-0002-b294} 달라!{pause 20}	말버릇 아이디어로는	이 마을에서 1등일걸, {pause 8}{catchphrase}?

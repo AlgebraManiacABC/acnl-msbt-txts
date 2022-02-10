@@ -1,8 +1,8 @@
 == 0 ==
-"001"	{emote: Shocked}
-"002"	かくれんぼ{pause 8}
-"003"	かくれんぼ{emote: Curious}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Anger}
-"006"	{emote: Worry}
-"007"	{emote: Soft Smile}
+"001"	{emote: Shocked}{ruby (charSpan 1): おそ}遅っ！{Wait for input}	{ruby (charSpan 2): いまごろ}今頃　{ruby (charSpan 1): なに}何{ruby (charSpan 1): い}言ってんだ？！{Wait for input}{emote: Anger}オメェが　いつまでたっても{pause 8}	さがしに{ruby (charSpan 1): こ}来ねぇから、{pause 20}	とっくに　やめちまったよっ！{Wait for input}{emote: Resigned}オメェを{ruby (charSpan 1): ま}待ちすぎて{pause 8}	くたびれちまったぜ、{pause 20}{catchphrase}！
+"002"	かくれんぼ{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}だとぉ？！{Wait for input}	{emote: Aggravation}オレぁ　ずーっと{pause 20}	かくれてたんだよっ！{Wait for input}{emote: Resigned}なんで　かくれてんのか{pause 20}	{ruby (charSpan 1): わす}忘れちまうぐらい　{pause 8}{ruby (charSpan 1): ま}待ったんだぜ！{Wait for input}{emote: Sheepishness}さっさと　さがしに{ruby (charSpan 1): こ}来ねぇから{pause 20}	さすがに　{pause 8}もう　やめちまったよ
+"003"	かくれんぼ{emote: Curious}{pause 8}・{pause 8}・{pause 8}・？{pause 30}	{emote: Worry}おいおい、{pause 20}カンベンしてくれよ！{Wait for input}{emote: Sheepishness}{ruby (charSpan 1): ま}待ちくたびれて{pause 8}	とっくに　やめちまったぜ{Wait for input}	{emote: Anger}{ruby (charSpan 1): おせ}遅ぇんだよ、{pause 20}{catchphrase}！
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Anger}オニのときに{pause 8}	だまって　やめるなんて、{pause 20}	{ruby (charSpan 2): いちばん}一番やっちゃ　いけねぇだろっ！
+"006"	{emote: Worry}オメェなぁ、{pause 20}	{ruby (charSpan 1): あそ}遊びにも　ケジメってもんは{pause 20}	{ruby (charSpan 2): ひつよう}必要なんだぜ、{pause 20}{catchphrase}！
+"007"	{emote: Soft Smile}{ruby (charSpan 2): こんど}今度やるときは{pause 20}	みんなが　あきる{ruby (charSpan 1): まえ}前に{pause 8}	ちゃんと　{ruby (charSpan 1): み}見つけろよな！

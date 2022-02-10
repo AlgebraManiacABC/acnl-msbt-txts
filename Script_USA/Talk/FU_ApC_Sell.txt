@@ -1,48 +1,48 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Surprise}
-"003"	{emote: Happiness}
-"004"	{emote: Worry}
-"005"	{emote: Soft Smile}
-"006"	{0009-0000-0004-09-00-00-00}	
-"007"	{emote: Happiness}
-"008"	{emote: Sheepishness}
-"009"	{emote: Sheepishness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Shyness}
-"013"	{emote: Soft Smile}
-"014"	{emote: Happiness}
-"015"	{emote: Sheepishness}
+"001"	{emote: Curious}Would you be interested in buying	{Article(word-dependant)}{0011-0003-0002-0001}?{Wait for input}{0007-000d-0000}{emote: Happiness}My asking price is {Blue}{Number (0x9)} Bells{Color Reset},	which I think is pretty fair.{confirmation-02}{Player can respond (0005):0003-0015-0004-0028}	I'll take it!	No, thanks.
+"002"	{emote: Surprise}Hey, {pause 8}{Player nickname (green)}{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Happiness}Can I interest you	in {Article(word-dependant)}{0011-0003-0002-0001}?{Wait for input}{emote: Worry}Mine was an impulse buy,{pause 8} and I'm	not really using it.{pause 20} I hate to see it	sitting there untouched.	{emote: Soft Smile}So I've decided to try selling it.{Wait for input}	{0007-000d-0000}Would you buy it from me for	{Blue}{Number (0x9)} Bells{Color Reset}?{confirmation-02}{Player can respond (0005):0003-0015-0004-0028}	Oh, yeah!	Nope.
+"003"	{emote: Happiness}Really?{pause 8} Great!{0009-0000-0004-0007-0008}
+"004"	{emote: Worry}Oh{pause 8}.{pause 8}.{pause 8}.{pause 8}{000a-0000-0006-0503-0600-cd00}
+"005"	{emote: Soft Smile}Well{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Happiness}You know, you've always	been really nice to me, {Player nickname (green)}.{Wait for input}{emote: Soft Smile}I'd be happy to just give it to you	for free.{pause 15} {emote: Curious}What do you say?{confirmation-02}{Player can respond (0005):000b-0015-0006-0028}	Please!	I said no!
+"006"	{0009-0000-0004-0009-000a}
+"007"	{emote: Happiness}Yay!{pause 20} I was hoping you'd agree, so I	brought my {0011-0003-0002-0001}	with me.{Wait for input} Here you go!
+"008"	{emote: Sheepishness}Hopefully I wasn't too pushy as a	salesperson. {Wait for input}{emote: Soft Smile}But {pause 10}I think you'll enjoy	{000e-0001-0000}{0011-0003-0002-0001}!
+"009"	{emote: Sheepishness}I'm sorry you feel that way.{Wait for input}	{emote: Happiness}Well, maybe next time!
+"010"	{emote: Happiness}Wow, now that's willpower!{pause 20} Thanks	for considering it.
+"011"	{emote: Happiness}Great!{pause 20} I'm happy if you're happy,{pause 8}	{Player nickname (green)}!{Wait for input} {emote: Sunny}Enjoy!
+"012"	{emote: Shyness}Oh,{pause 10} {Player nickname (green)}!{pause 20} I'm glad I caught	you{pause 8}.{pause 8}.{pause 8}.{Wait for input} I've been saving up to buy an	expensive book, {pause 10}{emote: Reset}but I'm still short.	{emote: Sheepishness}So I'm selling stuff to make up the	difference.{pause 20} {emote: Shyness}Would you like to buy	my {0011-0003-0002-0001}?	{0007-000d-0000}I'm only charging {Blue}{Number (0x9)} Bells{Color Reset}!{confirmation-02}{Player can respond (0005):000e-0015-000f-0028}	I'll take it!	Sorry, no.
+"013"	{emote: Soft Smile}Nice doing business with you!
+"014"	{emote: Happiness}Really?!{Wait for input} {emote: Soft Smile}Thank you! 
+"015"	{emote: Sheepishness}Aww drat{pause 8}.{pause 8}.{pause 8}.{pause 20} That's too bad, {pause 8}but I	understand.{Wait for input} {emote: Soft Smile}I'll make do somehow.
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Happiness}
-"004"	{emote: Worry}
-"005"	{emote: Soft Smile}
-"006"	{0009-0000-0004-09-00-00-00}	
-"007"	{emote: Happiness}
-"008"	{emote: Sheepishness}
-"009"	{emote: Sheepishness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Shyness}
-"013"	{emote: Soft Smile}
-"014"	{emote: Happiness}
-"015"	{emote: Sheepishness}
+"001"	{emote: Happiness}Oye, {pause 10}{Player nickname (green)}...{Wait for input}	{emote: Curious}¿Te interesa comprar	{Article(word-dependant)}{0011-0003-0002-0001}?	{0007-000d-0000}{emote: Happiness}Es tuy{o/a/} por {Blue}{Number (0x9)} bayas{Color Reset}.	Creo que es un precio razonable.{confirmation-02}{Player can respond (0005):0003-0015-0004-0028}	¡Compro!	No, gracias
+"002"	{emote: Surprise}¡Oye, {pause 10}{Player nickname (green)}!{pause 20} {emote: Happiness}¿Te interesa	mi {0011-0003-0002-0001}?{Wait for input}{emote: Worry}Fue una compra impulsiva, {pause 10}pero	como apenas {lo/la/} uso, {pause 10}he decidido	vender{lo/la/}.	{emote: Soft Smile}{0007-000d-0000}Tengo pensado pedir unas{pause 8}.{pause 8}.{pause 8}.{pause 20} {Blue}{Number (0x9)}	bayas{Color Reset}.{pause 20}{emote: Curious} ¿Te parece adecuado?{confirmation-02}{Player can respond (0005):0003-0015-0004-0028}	¡Sí, perfecto!	Ni hablar
+"003"	{emote: Happiness}¿Sí?{pause 8} ¡Genial!{0009-0000-0004-0007-0008}
+"004"	{emote: Worry}Vale{pause 8}.{pause 8}.{pause 8}.{pause 8}{000a-0000-0006-0503-0600-cd00}
+"005"	{emote: Soft Smile}Bueno{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Happiness}La verdad es que siempre	eres tan buen{o/a} conmigo, {Player nickname (green)}.{Wait for input}{emote: Soft Smile}Me encantaría que te quedaras esto	en señal de agradecimiento.{pause 15}	{emote: Curious}¿Qué me dices?{confirmation-02}{Player can respond (0005):000b-0015-0006-0028}	¡Gracias!	¡No puedo!
+"006"	{0009-0000-0004-0009-000a}
+"007"	{emote: Happiness}¡Sabía que aceptarías, por eso he	traído {000e-0001-0000}{0011-0003-0002-0001}	conmigo!{Wait for input} ¡Aquí tienes, guap{o/a}!
+"008"	{emote: Sheepishness}¡Espero que no estés aceptando por	obligación! {Wait for input}{emote: Soft Smile}¡Por ese precio ha sido	casi un regalo, calabacín!
+"009"	{emote: Sheepishness}Vaya, pues es una penita.{Wait for input}	{emote: Happiness}¡Quizá la próxima vez!
+"010"	{emote: Happiness}¡No pasa nada, ya encontraré	a alguien a quien le interese!
+"011"	{emote: Happiness}¡Genial!{pause 20} ¡Si tú estás content{o/a},	yo también, {Player nickname (green)}!{Wait for input} {emote: Sunny}	¡Que lo disfrutes, guapet{ón/ona}!
+"012"	{emote: Shyness}¡Ah,{pause 10} {Player nickname (green)}!{pause 20} Te buscaba{pause 8}.{pause 8}.{pause 8}.{Wait for input}	He estado ahorrando para comprar	un libro,{pause 10}{emote: Thought} pero aún no me llega.	{emote: Sheepishness}Así que estoy vendiendo cosas para	ganar dinero.{pause 20} {emote: Shyness}¿Te gustaría comprar	mi {0011-0003-0002-0001}?	{0007-000d-0000}¡Te l{o/a/} vendo por {Blue}{Number (0x9)}{Color Reset}{Blue} bayas{Color Reset}!{confirmation-02}{Player can respond (0005):000e-0015-000f-0028}	¡Hecho!	Lo siento
+"013"	{emote: Soft Smile}¡Gracias mil!	¡Me haces muy feliz!
+"014"	{emote: Happiness}¡¿De verdad de la buena?!{Wait for input}	{emote: Soft Smile}¡Gracias, cariño!
+"015"	{emote: Sheepishness}Vale{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input} Es una pena,{pause 10} pero lo	entiendo.{pause 20} {emote: Soft Smile}¡Ya me las apañaré!
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Happiness}
-"004"	{emote: Worry}
-"005"	{emote: Soft Smile}
-"006"	{0009-0000-0004-09-00-00-00}	
-"007"	{emote: Happiness}
-"008"	{emote: Sheepishness}
-"009"	{emote: Sheepishness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Shyness}
-"013"	{emote: Soft Smile}
-"014"	{emote: Happiness}
-"015"	{emote: Sheepishness}
+"001"	{emote: Happiness}Dis-moi, {pause 10}{Player nickname (green)},{Wait for input}	{emote: Curious}ça te dirait d'acheter	{Article(word-dependant)}{0011-0003-0002-0001}?	{0007-000d-0000}{emote: Happiness}J'en demande que {Blue}{Number (0x9)} clochettes{Color Reset},	c'est honnête, non?{confirmation-02}{Player can respond (0005):0003-0015-0004-0028}	Je prends!	Je passe!
+"002"	{emote: Surprise}Ah, {pause 10}{Player nickname (green)}! Je suis sûre que tu	as toujours rêvé de posséder	{Article(word-dependant)}{0011-0003-0002-0001}!	{emote: Worry}Ça tombe bien, j'en ai acheté un{/e/}	récemment... avant de m'apercevoir	que je n'en avais pas besoin...	{emote: Distress}C'est un crève-cœur de voir ce bijou	délaissé... Tu ne voudrais pas	l'adopter?	{0007-000d-0000}{emote: Worry}En plus, je te fais un prix d'amie :	{Blue}{Number (0x9)} clochettes{Color Reset}!{confirmation-02}{Player can respond (0005):0003-0015-0004-0028}	J'achète!	Non, merci.
+"003"	{emote: Happiness}Oh,{pause 8} génial!{0009-0000-0004-0007-0008}
+"004"	{emote: Worry}Ah{pause 8}.{pause 8}.{pause 8}.{pause 8}?{000a-0000-0006-0503-0600-cd00}
+"005"	{emote: Soft Smile}Bon{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Happiness}En fait, tu as toujours été si	gentil{/le} avec moi, {Player nickname (green)}...{Wait for input}{emote: Soft Smile}Allez, je serai heureuse de t'en	faire cadeau. {pause 15}Oui, {pause 8}un cadeau gratuit.{pause 15}	{emote: Curious}Alors, toujours pas convaincu{/e}?{confirmation-02}{Player can respond (0005):000b-0015-0006-0028}	Vu comme ça, bien sûr...	N'insiste pas!
+"006"	{0009-0000-0004-0009-000a}
+"007"	{emote: Happiness}C'est ce que je voulais t'entendre	dire. {pause 15}Et ça tombe bien,{pause 8} j'ai l'objet	sur moi.{Wait for input} Et voilà...!
+"008"	{emote: Sheepishness}Je suis un peu dure en affaire, il	paraît, désolée!{Wait for input}{emote: Soft Smile}Mais bon,{pause 10} en y réfléchissant,	{000e-0001-0000}{0011-0003-0002-0001}, ça se	mérite!
+"009"	{emote: Sheepishness}Ah.{pause 8} Tu n'es pas d'humeur, hein?{Wait for input}	{emote: Happiness}Bon, une prochaine fois, alors!
+"010"	{emote: Happiness}Eh ben, {pause 15}il en faut de la volonté pour	refuser une offre pareille!{pause 20}{emote: Sheepishness} Enfin,	c'est toi qui vois, après tout!
+"011"	{emote: Happiness}Youhou!{pause 20} Te rendre heureu{x/se} suffit	à mon bonheur, {Player nickname (green)}!{Wait for input}	{emote: Sunny}Amuse-toi bien!
+"012"	{emote: Shyness}Oh,{pause 10} {Player nickname (green)}!{pause 20} Je te cherchais{pause 8}.{pause 8}.{pause 8}.{Wait for input}	Je veux m'abonner à un nouveau	magazine,{pause 10}{emote: Thought} mais côté finances...	{emote: Sheepishness}Bref, je vends des trucs pour me	faire de l'argent.{pause 20} {emote: Shyness}Par exemple,	{Article(word-dependant)}{0011-0003-0002-0001}.	{0007-000d-0000}Je vends ça pour {Blue}{Number (0x9)} clochettes	{Color Reset}seulement! Tu le prends, dis?{confirmation-02}{Player can respond (0005):000e-0015-000f-0028}	Je prends!	Je suis juste aussi...
+"013"	{emote: Soft Smile}Ravie de faire affaire avec toi!
+"014"	{emote: Happiness}Vrai de vrai?!{Wait for input} {emote: Glee}Youhou, merci!
+"015"	{emote: Sheepishness}Oh, je vois{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input} T'es fauché{/e}...? {pause 10}Je sais	ce que c'est!{pause 20} {emote: Soft Smile}Tant pis, je trouverai	quelqu'un d'autre!

@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Glee}
-"002"	{emote: Happiness}
-"003"	{emote: Worry}
-"004"	{emote: Happiness}
-"005"	{emote: Bashful}
-"006"	{emote: Distress}
+"001"	{emote: Glee}すきなだけ　くつろいでねぇ～{pause 40}	ボクも　くつろいでるからぁ、{pause 8}{catchphrase}
+"002"	{emote: Happiness}そうだぁ～{pause 20}	{ruby (charSpan 1): なに}何か　のみものでも{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Mistaken}あぁ～{pause 20}　ゴメン！{pause 40}	{0005-000e-0002-0000}があったのに、{pause 20}	さっき　ぜんぶ　のんじゃったよぉ
+"003"	{emote: Worry}いっぱい{ruby (charSpan 1): ある}歩いて、	つかれちゃったねぇ、{pause 8}{catchphrase}
+"004"	{emote: Happiness}ボクのおうちに、ようこそぉ～{pause 20}	ごはんにするぅ？{pause 20}　おフロにするぅ？{Wait for input}{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	やっぱり　ごはんだよねぇ、{pause 8}{catchphrase}
+"005"	{emote: Bashful}えへへ～{pause 20}	ボクのおへや	すきなだけ　{ruby (charSpan 1): み}見ていってねぇ
+"006"	{emote: Distress}{Player nickname (green)}{0005-000d-0000}の　おへやチェック{pause 20}	キンチョーしちゃうなぁ、{pause 8}{catchphrase}

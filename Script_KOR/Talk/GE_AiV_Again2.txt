@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Distress}
-"003"	{emote: Resigned}
+"001"	{emote: Happiness}{Greeting begin}얏호ー!{Greeting end}{pause 20}	그렇게 {pause 8}나랑	얘기하고 싶어～?	{emote: Glee}팬 관리는 {pause 5}중요하니까 들어줄게!{pause 20}	{emote: Happiness}무슨 일인지 말해봐, {pause 15}{catchphrase}
+"002"	{emote: Distress}잠깐만, 진정해봐!{pause 20}	너가 이렇게 열렬히 말을 다 걸다니{pause 10}	무슨 일 있는 거야? {pause 15}{catchphrase}?
+"003"	{emote: Resigned}아,{pause 10} 정말 왜 그러는 거야～?!{Wait for input}{emote: Happiness}다른 때보다 훨씬 더{pause 5}	나한테 말을 거네～ {pause 15}{catchphrase}～

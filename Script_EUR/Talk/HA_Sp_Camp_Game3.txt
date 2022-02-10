@@ -1,230 +1,230 @@
 == 0 ==
-"001"	{emote: Anger}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Worry}
-"007"	{emote: Anger}
-"008"	{0009-0000-0004-17-00-18-00}
-"009"	{0009-0000-0004-19-00-1a-00}
-"010"	{0009-0000-0004-1b-00-1c-00}
-"011"	{0009-0000-0004-1d-00-21-00}
-"012"	{0009-0000-0004-1e-00-22-00}
-"013"	{0009-0000-0004-1f-00-23-00}
-"014"	{0009-0000-0004-20-00-24-00}
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	
-"022"	
-"023"	.{pause 8}
-"024"	.{pause 8}
-"025"	.{pause 8}
-"026"	.{pause 8}
-"027"	.{pause 8}
-"028"	.{pause 8}
-"029"		{pause 40}
-"030"	.{pause 8}
-"031"	.{pause 8}
-"032"	.{pause 8}
-"033"	.{pause 8}
-"034"	.{pause 8}
-"035"	.{pause 8}
-"036"	{pause 8}
-"037"	
-"038"	
-"039"	
-"040"	That was such a thrilling game! It	got my heart pumping, and I had a	lot of fun! {emote: Sunny}
-"041"	{0009-0001-0006-2b-00-2c-00-2d-00}
-"042"	{emote: Laughter}
-"043"	{emote: Sunny}
-"044"	{emote: Laughter}
-"045"	{emote: Anger}
+"001"	{emote: Anger}Hey! Do you wanna bet your	{0011-0003-0002-0000}?{Wait for input}{emote: Curious}Do you want to play the Which One	Is It? game with me?{Wait for input}{emote: Reset}You have to guess if my coin is in	my right hand or in my left hand!{Wait for input}{emote: Sunny}You'll get a total of 3 chances!{Wait for input}	{0007-000d-0000}With each correct guess, you can	raise the selling price of your item!{Player can respond (0005):0007-0015-0002-0028}	I'll do it!	Maybe next time.
+"002"	{emote: Worry}Ohhh, too bad! Not in the mood, eh?
+"003"	{emote: Happiness}Sorry! As agreed, I'll buy it off you	for a very cheap price!{Wait for input}Only {Blue}{Number (0x9)} Bells{Color Reset}!
+"004"	{emote: Happiness}As we agreed, I'll buy it off you	for a somewhat cheap price!{Wait for input}Just {Blue}{pause 20}{Number (0x9)} Bells{Color Reset}!
+"005"	{emote: Happiness}Well, as promised, I'll buy it from	you for a price that's fairly high.{Wait for input}I'll give you {Blue}{Number (0x9)} Bells{Color Reset}!
+"006"	{emote: Worry}Aw, barbells{pause 8}.{pause 8}.{pause 8}.{pause 20} I don't really want to,	but I have to buy it at a high price.{Wait for input}{emote: Happiness}I'm giving you {Blue}{pause 20}{Number (0x9)} Bells{Color Reset}!
+"007"	{emote: Anger}All right! I knew you'd be up for it!{Wait for input}Here comes{pause 20} your first round!{Wait for input}	{emote: Shyness}Right or left? Which do you pick?{Player can respond (0000):0008-0000-0008-0000}	Right!	Left!
+"008"	{0009-0000-0004-0017-0018}
+"009"	{0009-0000-0004-0019-001a}
+"010"	{0009-0000-0004-001b-001c}
+"011"	{0009-0000-0004-001d-0021}
+"012"	{0009-0000-0004-001e-0022}
+"013"	{0009-0000-0004-001f-0023}
+"014"	{0009-0000-0004-0020-0024}
+"015"
+"016"
+"017"
+"018"
+"019"
+"020"
+"021"
+"022"
+"023"	.{pause 8}.{pause 8}.{pause 40}{emote: Alarmed}What?! You got it! You must be	lucky to get it right the first time!{Wait for input}{emote: Reset}OK, let's do our second round!{Wait for input}	{emote: Shyness}Right or left? Which do you pick?{Player can respond (0000):0009-0000-0009-0000}	Right!	Left!
+"024"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry}Oooooh! That's incorrect.{Wait for input}{emote: Disagreement} But	don't worry! The game just started!{Wait for input}{emote: Happiness}Take a deep breath! Here's the	next round!{Wait for input}{emote: Shyness} Right or left? Which do	you pick?{Player can respond (0000):000a-0000-000a-0000}	Right!	Left!
+"025"	.{pause 8}.{pause 8}.{pause 40}{emote: Surprise}{0007-000b-0000}Wow!{pause 20} You got it right again!	Keep it up, and aim for a perfect	score!{Wait for input}{emote: Anger}Here's your fateful third round!{Wait for input}	{emote: Shyness}Right or left? Which do you pick?{Player can respond (0000):000b-0000-000b-0000}	Right!	Left!
+"026"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry}Ohhhh! Too bad! You missed it.{Wait for input}	{emote: Disagreement}But if you get the next one, you're	still doing pretty good, you know?{Wait for input}Here's your fateful third round!{Wait for input}	{emote: Shyness}Right or left? Which do you pick?{Player can respond (0000):000c-0000-000c-0000}	Right!	Left!
+"027"	.{pause 8}.{pause 8}.{pause 40}{emote: Joy}Whoa! You got it!{Wait for input} And you avoided	the worst-case scenario!{Wait for input}{emote: Anger}All right! Here's your third and final	round!{Wait for input} {emote: Shyness}Right or left? Which do you	pick?{Player can respond (0000):000d-0000-000d-0000}	Right is right!	Left is best!
+"028"	.{pause 8}.{pause 8}.{pause 40}{emote: Sadness}Ooooh! Wrong one again!{Wait for input}{emote: Worry}Hmmm. I hope you don't think I'm	just being mean or anything.{Wait for input}{emote: Anger}Just keep trying your best, OK?	Here comes the third round!{Wait for input}	{emote: Shyness}Right or left? Which do you pick?{Player can respond (0000):000e-0000-000e-0000}	Right is right!	Left is best!
+"029"		{pause 40}{emote: Shocked}{0007-000b-0000}{Text size 150%}WHAT?!{pause 20} {0007-000b-0000}YOU DID IT!{Wait for input}{Text size 100%}{emote: Distress}You did it 3 times in a row!{pause 20}	You are the smartest {bro/ladybro} alive!
+"030"	.{pause 8}.{pause 8}.{pause 40}{emote: Joy}Wow! That's right! Good for you!	You made 2 good guesses!
+"031"	.{pause 8}.{pause 8}.{pause 40}{emote: Joy}Wow! Good job! That's pretty	good to get 2 out of 3!
+"032"	.{pause 8}.{pause 8}.{pause 40}{emote: Joy}Wow!{pause 20} You got it! I knew you would	get it right on your last try!
+"033"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry}Oh! Wrong one!{Wait for input} {emote: Mistaken}Man, you were so	close! Could have gone either way!
+"034"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry}Oh! Wrong one!{Wait for input} That means you	only got the first round correct.{Wait for input}{emote: Happiness}Well, at least you succeeded once!{pause 20}	That's not too bad!
+"035"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry}Oh! Wrong one! That means you	only got it right once.{Wait for input}{emote: Happiness}But that's better than not guessing	right at all!
+"036"	{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Shocked}Oh, man! Wrong one again!{Wait for input}{emote: Resigned} Maybe	it's just not your lucky day?
+"037"
+"038"
+"039"
+"040"	That was such a thrilling game! It	got my heart pumping, and I had a	lot of fun! {emote: Sunny}Thanks a lot!
+"041"	{0009-0001-0006-002b-002c-002d}
+"042"	{emote: Laughter}Think of this as a learning	experience, {bro/ladybro}! Don't	be too sad, OK?!{pause 40}{emote: Soft Smile}
+"043"	{emote: Sunny}Thanks for playing!
+"044"	{emote: Laughter}I had a lot of fun playing this game	with you!{pause 8} {capitalized}{catchphrase}!{pause 40}{emote: Soft Smile}
+"045"	{emote: Anger}Make sure you keep building your	guessing muscles!
 == 1 ==
-"001"	{emote: Anger}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Worry}
-"007"	{emote: Anger}
-"008"	{0009-0000-0004-17-00-18-00}
-"009"	{0009-0000-0004-19-00-1a-00}
-"010"	{0009-0000-0004-1b-00-1c-00}
-"011"	{0009-0000-0004-1d-00-21-00}
-"012"	{0009-0000-0004-1e-00-22-00}
-"013"	{0009-0000-0004-1f-00-23-00}
-"014"	{0009-0000-0004-20-00-24-00}
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	
-"022"	
-"023"	Ah.{pause 8}
-"024"	Oooh.{pause 8}
-"025"	Vaya.{pause 8}
-"026"	Oooh.{pause 8}
-"027"	Vaya.{pause 8}
-"028"	Oooh.{pause 8}
-"029"		{pause 40}
-"030"	Vaya.{pause 8}
-"031"	Vaya.{pause 8}
-"032"	Vaya.{pause 8}
-"033"	Huy.{pause 8}
-"034"	Huy.{pause 8}
-"035"	Ay.{pause 8}
-"036"	Huy{pause 8}
-"037"	
-"038"	
-"039"	
-"040"	¡Qué emocionante ha sido jugar	a esto! Y yo me lo he pasado bien.	{emote: Sunny}
-"041"	{0009-0001-0006-2b-00-2c-00-2d-00}
-"042"	{emote: Laughter}
-"043"	{emote: Sunny}
-"044"	{emote: Laughter}
-"045"	{emote: Anger}
+"001"	{emote: Anger}¡Oye! Quiero que me vendas	tu {0011-0003-0002-0000}. ¡Pero	lo haremos de una forma especial!{Wait for input}{emote: Curious}¿Te atreverías a jugar a una cosa?	Se llama {Blue}¿Cuál eliges?{Color Reset} y es una	prueba de suerte para los valientes.	{emote: Reset}Voy a esconder una moneda, ¡y	tienes que adivinar si la tengo en	mi mano derecha o en la izquierda!	{emote: Sunny}¡Tienes tres oportunidades!{Wait for input}	{0007-000d-0000}Cuantas más aciertes, ¡más caro	podrás venderme tu objeto!{Player can respond (0005):0007-0015-0002-0028}	¡Lo haré!	Ahora no...
+"002"	{emote: Worry}Oooh, ¡qué pena! Ahora	no te apetece, ¿eh?
+"003"	{emote: Happiness}¡Lo siento mucho! Tal como	acordamos, ¡te compraré	tu objeto muy barato!{Wait for input}¡Por solo {Blue}{Number (0x9)} bayas{Color Reset}!
+"004"	{emote: Happiness}Tal como acordamos, ¡te compraré	tu objeto a un precio relativamente	barato!{Wait for input}¡Por solo {Blue}{pause 20}{Number (0x9)} bayas{Color Reset}!
+"005"	{emote: Happiness}Bueno, tal como te prometí,	te compraré tu objeto por	un precio bastante alto.{Wait for input}¡Te voy a dar {Blue}{Number (0x9)} bayas{Color Reset}!
+"006"	{emote: Worry}Ay, vaya{pause 8}.{pause 8}.{pause 8}.{pause 20} No es que tenga muchas	ganas, pero me he comprometido	a pagarte un dineral por eso tuyo.{Wait for input}{emote: Happiness}¡Te voy a dar {Blue}{pause 20}{Number (0x9)} bayas{Color Reset}!
+"007"	{emote: Anger}¡Así me gusta! ¡Sabía que te iba	a interesar!{Wait for input}¡Vamos con{pause 20} la primera ronda!{Wait for input}	{emote: Shyness}¿Derecha o izquierda? ¿Cuál eliges?{Player can respond (0000):0008-0000-0008-0000}	¡Derecha!	¡Izquierda!
+"008"	{0009-0000-0004-0017-0018}
+"009"	{0009-0000-0004-0019-001a}
+"010"	{0009-0000-0004-001b-001c}
+"011"	{0009-0000-0004-001d-0021}
+"012"	{0009-0000-0004-001e-0022}
+"013"	{0009-0000-0004-001f-0023}
+"014"	{0009-0000-0004-0020-0024}
+"015"
+"016"
+"017"
+"018"
+"019"
+"020"
+"021"
+"022"
+"023"	Ah.{pause 8}.{pause 8}.{pause 40}{emote: Alarmed} ¡¿Qué?! ¡Has acertado!	¡Pues sí que has tenido suerte de	haber elegido bien la primera vez!{Wait for input}{emote: Reset}¡Vale, hagamos la segunda ronda!{Wait for input}	{emote: Shyness}¿Derecha o izquierda?	¿Cuál eliges?{Player can respond (0000):0009-0000-0009-0000}	¡La derecha!	¡La izquierda!
+"024"	Oooh.{pause 8}.{pause 8}.{pause 40}{emote: Worry} ¡Es incorrecto!{Wait for input}	{emote: Disagreement}¡Pero no te preocupes! ¡El juego	solo acaba de empezar!	{emote: Happiness}¡Inspira profundamente! ¡Ahí va	la siguiente ronda!{Wait for input}{emote: Shyness} ¡Derecha o	izquierda! ¿Cuál eliges?{Player can respond (0000):000a-0000-000a-0000}	¡La derecha!	¡La izquierda!
+"025"	Vaya.{pause 8}.{pause 8}.{pause 40}{emote: Surprise}{0007-000b-0000} ¡Has acertado de nuevo!	Sigue así, ¡y a ver si las aciertas	todas!	{emote: Anger}¡Aquí está la tercera ronda!{Wait for input}	{emote: Shyness}¿Derecha o izquierda? ¿Cuál eliges?{Player can respond (0000):000b-0000-000b-0000}	¡Derecha!	¡Izquierda!
+"026"	Oooh.{pause 8}.{pause 8}.{pause 40}{emote: Worry} ¡Una pena! Has fallado.{Wait for input}	{emote: Disagreement}Pero si aciertas la siguiente,	¡tampoco te irá nada mal!	¡Aquí está la crucial tercera ronda!{Wait for input}	{emote: Shyness}¿Derecha o izquierda? ¿Cuál eliges?{Player can respond (0000):000c-0000-000c-0000}	¡Derecha!	¡Izquierda!
+"027"	Vaya.{pause 8}.{pause 8}.{pause 40}{emote: Joy} ¡Has acertado!{Wait for input} ¡Y has	evitado acabar de vacío!{Wait for input}{emote: Anger}¡Muy bien! ¡Allá va la tercera	y última vuelta!{Wait for input} {emote: Shyness}¡Derecha	o izquierda! ¿Cuál eliges?{Player can respond (0000):000d-0000-000d-0000}	¡Derecha, derecha!	¡La izquierda, sin duda!
+"028"	Oooh.{pause 8}.{pause 8}.{pause 40}{emote: Sadness} ¡Vuelves a fallar!{Wait for input}{emote: Worry}Hum. Espero que no pienses que	me estoy ensañando ni nada.{Wait for input}{emote: Anger}¡Tú sigue intentándolo sin hundirte!	¡Aquí viene la tercera ronda!{Wait for input}	{emote: Shyness}¿Derecha o izquierda? ¿Cuál eliges?{Player can respond (0000):000e-0000-000e-0000}	¡Derecha, derecha!	¡La izquierda, sin duda!
+"029"		{pause 40}{emote: Shocked}{0007-000b-0000}{Text size 150%}¡¿QUÉ?!{pause 20} {0007-000b-0000}¡LO HICISTE!{Wait for input}{Text size 100%}{emote: Distress}¡Has acertado tres veces seguidas!{pause 20}	¡Eres {el/la} tronc{o/a} más list{o/a}	del mundo!
+"030"	Vaya.{pause 8}.{pause 8}.{pause 40}{emote: Joy} ¡Has acertado! ¡Me alegro	por ti! ¡Ya son dos aciertos!
+"031"	Vaya.{pause 8}.{pause 8}.{pause 40}{emote: Joy} ¡Mira qué suerte!	¡No está nada mal conseguir	dos aciertos de tres!
+"032"	Vaya.{pause 8}.{pause 8}.{pause 40}{emote: Joy} ¡Lo conseguiste!{pause 20} ¡Sabía que	ibas a acertar en el último intento!
+"033"	Huy.{pause 8}.{pause 8}.{pause 40}{emote: Worry} ¡No! ¡Has fallado!{Wait for input} {emote: Mistaken}Vaya,	¡con lo poco que te faltaba!	Parece que no ha habido suerte.
+"034"	Huy.{pause 8}.{pause 8}.{pause 40}{emote: Worry} ¡No, esa no era!{Wait for input} Pues nada,	parece que solo has acertado	el primer intento.{Wait for input}{emote: Happiness}Bueno, ¡al menos has acertado	una vez!{pause 20} ¡No está tan mal!
+"035"	Ay.{pause 8}.{pause 8}.{pause 40}{emote: Worry} ¡No! ¡Has fallado! Eso quiere	decir que solo has acertado	una vez.{Wait for input}{emote: Happiness}Bueno, ¡eso desde luego es mejor	que no acertar ni una!
+"036"	Huy{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Shocked} ¡Qué mala pata! ¡Has fallado	otra vez!{Wait for input}{emote: Resigned} Se ve que no es tu día	de suerte.
+"037"
+"038"
+"039"
+"040"	¡Qué emocionante ha sido jugar	a esto! Y yo me lo he pasado bien.	{emote: Sunny}¡Muchas gracias!
+"041"	{0009-0001-0006-002b-002c-002d}
+"042"	{emote: Laughter}Oye, ¡también tiene su mérito	no acertar ni una, tronc{o/a}!	¡Ha sido bastante curioso!	{emote: Soft Smile}Que no te dé un bajón por esto... Es	más, ¡alégrate de tener mala suerte	en esto y no en algo importante!
+"043"	{emote: Sunny}¡Gracias por animarte a jugar	conmigo!
+"044"	{emote: Laughter}¡Me lo he pasado muy bien jugando	a este juego,{pause 8} {catchphrase}!{pause 40}{emote: Soft Smile}
+"045"	{emote: Anger}No ha sido perfecto, ¡pero tampoco	ha sido una mala actuación! ¡Así	me gusta, que no te rindas!
 == 2 ==
-"001"	{emote: Anger}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Worry}
-"007"	{emote: Anger}
-"008"	{0009-0000-0004-17-00-18-00}
-"009"	{0009-0000-0004-19-00-1a-00}
-"010"	{0009-0000-0004-1b-00-1c-00}
-"011"	{0009-0000-0004-1d-00-21-00}
-"012"	{0009-0000-0004-1e-00-22-00}
-"013"	{0009-0000-0004-1f-00-23-00}
-"014"	{0009-0000-0004-20-00-24-00}
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	
-"022"	
-"023"	.{pause 8}
-"024"	.{pause 8}
-"025"	.{pause 8}
-"026"	.{pause 8}
-"027"	.{pause 8}
-"028"	.{pause 8}
-"029"		{pause 40}
-"030"	.{pause 8}
-"031"	.{pause 8}
-"032"	.{pause 8}
-"033"	.{pause 8}
-"034"	.{pause 8}
-"035"	.{pause 8}
-"036"	.{pause 8}
-"037"	
-"038"	
-"039"	
-"040"	Sacrée partie, en tout cas ! J'ai eu	ma dose d'adrénaline pour la	journée ! {emote: Sunny}
-"041"	{0009-0001-0006-2b-00-2c-00-2d-00}
-"042"	{emote: Laughter}
-"043"	{emote: Sunny}
-"044"	{emote: Laughter}
-"045"	{emote: Anger}
+"001"	{emote: Anger}Hé ! C'est bien {Article(word-dependant)}	{0011-0003-0002-0000} que tu	trimbales, là ?	{emote: Curious}Tu serais {prêt/prête} à {le/la/} mettre en jeu	dans une partie de « Trouve la	pièce » ?{Wait for input}{emote: Reset}Y'a pas plus simple, comme	concept : tu dois juste deviner dans	quelle patte j'ai caché ma pièce !	{emote: Sunny}J'ai pour habitude de faire ça en	trois manches.{Wait for input}{0007-000d-0000}Plus tu remportes de manches, plus	le prix auquel je devrai racheter	ton objet augmente ! Alors ?{Player can respond (0005):0007-0015-0002-0028}	OK, jouons !	Une autre fois.
+"002"	{emote: Worry}Pfff, tu t'es {levé/levée} du pied gauche ce	matin, c'est ça ?
+"003"	{emote: Happiness}Tu vas devoir me céder {ton/ta/}	chouette {0011-0003-0002-0000}	pour une misère, désolé !	Ouaip, juste {Blue}{Number (0x9)} clochettes{Color Reset} !
+"004"	{emote: Happiness}Comme convenu, {ton/ta/} sympathique	{0011-0003-0002-0000} ne va pas	te rapporter grand-chose.	{Blue}{Number (0x9)}{Color Reset} misérables {Blue}clochettes{Color Reset} !
+"005"	{emote: Happiness}Comme convenu, {ton/ta/} sympathique	{0011-0003-0002-0000} va te	rapporter une somme rondelette !	{Blue}{Blue}{Number (0x9)}{Blue}{Color Reset} {Blue}clochettes{Color Reset}, tout de même !
+"006"	{emote: Worry}Nom d'un lapin perdu{pause 8}.{pause 8}.{pause 8}.{pause 20} Ça ne va pas	plaire à mon banquier, mais je vais	devoir me délester d'un joli magot.	{Blue}{Number (0x9)} clochettes{Color Reset} pour {Article(word-dependant)}	{0011-0003-0002-0000}... {emote: Happiness}Tu peux	être {fier/fière} de toi !
+"007"	{emote: Anger}Super ! C'est la réponse que	j'attendais de {mon rival préféré/ma rivale préférée} !{Wait for input}C'est parti pour la première	manche !{Wait for input} {emote: Shyness}Alors, patte droite ou	patte gauche ? Je t'écoute !{Player can respond (0000):0008-0000-0008-0000}	La droite !	La gauche !
+"008"	{0009-0000-0004-0017-0018}
+"009"	{0009-0000-0004-0019-001a}
+"010"	{0009-0000-0004-001b-001c}
+"011"	{0009-0000-0004-001d-0021}
+"012"	{0009-0000-0004-001e-0022}
+"013"	{0009-0000-0004-001f-0023}
+"014"	{0009-0000-0004-0020-0024}
+"015"
+"016"
+"017"
+"018"
+"019"
+"020"
+"021"
+"022"
+"023"	.{pause 8}.{pause 8}.{pause 40} {emote: Alarmed}Quoi ?! C'est bien ça ! Tu dois	être super {chanceux/chanceuse} pour deviner	du premier coup !	{emote: Reset}OK, on enchaîne.{Wait for input} {emote: Shyness}Droite ou gauche ?	Dis-moi tout.{Player can respond (0000):0009-0000-0009-0000}	Droite !	Gauche !
+"024"	.{pause 8}.{pause 8}.{pause 40} {emote: Worry}Booouuuh ! Loupé.{Wait for input} {emote: Disagreement}Mais ne	désespère pas, tu peux encore te	refaire !	{emote: Happiness}Respire un bon coup, on passe à la	manche suivante !{Wait for input} {emote: Shyness}Droite ou	gauche ? Dis-moi tout.{Player can respond (0000):000a-0000-000a-0000}	Droite !	Gauche !
+"025"	.{pause 8}.{pause 8}.{pause 40} {emote: Surprise}{0007-000b-0000}Waouh !{pause 20} Encore juste ! Continue	comme ça, et à toi le sans-faute !{Wait for input}{emote: Anger}La chance sera-t-elle avec toi	jusqu'au bout ? C'est ce qu'on va	voir lors de la troisième manche !	{emote: Shyness}Droite ou gauche ?{Player can respond (0000):000b-0000-000b-0000}	Droite !	Gauche !
+"026"	.{pause 8}.{pause 8}.{pause 40} {emote: Worry}Dommage ! C'est raté.{Wait for input} {emote: Agreement}Cela dit, si	tu mets dans le mille au prochain	coup, tu t'en tireras bien !	{emote: Reset}Allez, passons sans plus attendre à	la dernière manche !{Wait for input} {emote: Shyness}Droite ou	gauche ?{Player can respond (0000):000c-0000-000c-0000}	Droite !	Gauche !
+"027"	.{pause 8}.{pause 8}.{pause 40} {emote: Joy}Ouaip, c'est ça !{Wait for input} Si ça peut te	rassurer, tu viens d'éviter le pire !{Wait for input}{emote: Anger}Bon ! Le suspense est à son	comble ! On passe à la troisième et	dernière manche !	{emote: Shyness}Droite ou gauche ? Pas la peine de	trop réfléchir, hein !{Player can respond (0000):000d-0000-000d-0000}	Droite !	Gauche !
+"028"	.{pause 8}.{pause 8}.{pause 40} {emote: Sadness}Ouille !{pause 20} Encore loupé !{Wait for input}{emote: Worry}Hmmm. Là, tu dois te demander si	je triche. Eh bien figure-toi que pas	du tout...	{emote: Anger}Bon, cette fois, fais de ton mieux,	d'ac ? C'est parti pour la troisième	manche !{Wait for input} {emote: Shyness}Droite ou gauche ?{Player can respond (0000):000e-0000-000e-0000}	Droite !	Gauche !
+"029"		{pause 40}{emote: Shocked}{0007-000b-0000}{Text size 150%}Bon sang !{pause 20} {0007-000b-0000}C'est juste !{Wait for input}{Text size 100%}{emote: Distress}Dans le mille trois fois d'affilée !{pause 20}	Si je ne t'en savais pas incapable, je	jurerais que tu as triché !
+"030"	.{pause 8}.{pause 8}.{pause 40} {emote: Joy}Waouh ! C'est ça ! Bien joué ! Tu	as vu juste deux fois sur trois !
+"031"	.{pause 8}.{pause 8}.{pause 40} {emote: Joy}Waouh ! Bien vu ! Deux bonnes	réponses sur trois, c'est	franchement pas mal !
+"032"	.{pause 8}.{pause 8}.{pause 40} {emote: Joy}Bah voilà !{pause 20} Je savais que la	troisième fois serait la bonne !
+"033"	.{pause 8}.{pause 8}.{pause 40} {emote: Worry}Arf ! Dommage, c'est raté !{Wait for input} {emote: Mistaken}Et	dire que tu étais à deux doigts du	score parfait...
+"034"	.{pause 8}.{pause 8}.{pause 40} {emote: Worry}Argh, encore raté !{Wait for input} Tu n'as donc	remporté qu'une manche sur trois.{Wait for input}{emote: Happiness}Bah, c'est pas terrible, mais ça	aurait pu être pire !
+"035"	.{pause 8}.{pause 8}.{pause 40} {emote: Worry}Non, c'est pas bon. Tu n'auras	donc remporté qu'une manche sur	trois, en fin de compte.	{emote: Happiness}Enfin bon, dis-toi que tu aurais pu	te planter sur toute la ligne !
+"036"	.{pause 8}.{pause 8}.{pause 40} {emote: Shocked}Aïe aïe aïe ! Encore loupé !{Wait for input} {emote: Resigned}Le	moins qu'on puisse dire, c'est que	c'est pas ton jour...
+"037"
+"038"
+"039"
+"040"	Sacrée partie, en tout cas ! J'ai eu	ma dose d'adrénaline pour la	journée ! {emote: Sunny}Merci !
+"041"	{0009-0001-0006-002b-002c-002d}
+"042"	{emote: Laughter}Vois ça du bon côté, {petit gars/ma grande}.	Rater trois fois de suite, c'est un	exploit en soi ! Ha ha !{pause 40}{emote: Soft Smile}
+"043"	{emote: Sunny}Merci d'avoir joué le jeu jusqu'au	bout !
+"044"	{emote: Laughter}Ha ha, on s'est bien marrés, au final,	non ?{pause 8} {capitalized}{catchphrase} !{pause 40}{emote: Soft Smile}
+"045"	{emote: Anger}Y'a pas de secret, {petit gars/ma grande} ! Si	tu veux t'améliorer, faut travailler	ton coup de chance !
 == 3 ==
-"001"	{emote: Anger}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Worry}
-"007"	{emote: Anger}
-"008"	{0009-0000-0004-17-00-18-00}
-"009"	{0009-0000-0004-19-00-1a-00}
-"010"	{0009-0000-0004-1b-00-1c-00}
-"011"	{0009-0000-0004-1d-00-21-00}
-"012"	{0009-0000-0004-1e-00-22-00}
-"013"	{0009-0000-0004-1f-00-23-00}
-"014"	{0009-0000-0004-20-00-24-00}
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	
-"022"	
-"023"	.{pause 8}
-"024"	.{pause 8}
-"025"	.{pause 8}
-"026"	.{pause 8}
-"027"	.{pause 8}
-"028"	.{pause 8}
-"029"		{pause 40}
-"030"	.{pause 8}
-"031"	.{pause 8}
-"032"	.{pause 8}
-"033"	.{pause 8}
-"034"	.{pause 8}
-"035"	.{pause 8}
-"036"	{pause 8}
-"037"	
-"038"	
-"039"	
-"040"	Mi sono divertito tantissimo. Avevo	il cuore che pompava come durante	un allenamento! {emote: Sunny}!
-"041"	{0009-0001-0006-2b-00-2c-00-2d-00}
-"042"	{emote: Laughter}
-"043"	{emote: Sunny}
-"044"	{emote: Laughter}
-"045"	{emote: Anger}
+"001"	{emote: Anger}Ehi! Rendiamo la vendita	{del tuo/della tua/} {0011-0003-0002-0000}	più divertente?	{emote: Curious}Potremmo giocare	al {Blue}gioco della moneta{Color Reset}. Ti va?{Wait for input}{emote: Reset}Tu devi soltanto indovinare in quale	mano ho nascosto la moneta!{Wait for input}{emote: Sunny}Facciamo 3 manche.{Wait for input}{0007-000d-0000}Più volte indovini, più alto sarà	il prezzo di vendita {del tuo/della tua/}	{0011-0003-0002-0000}!{Player can respond (0005):0007-0015-0002-0028}	Bene, ci sto!	No, ora non mi va.
+"002"	{emote: Worry}Ohhh, che peccato! Non sei	dello spirito giusto, vero?
+"003"	{emote: Happiness}Mi spiace, ma le regole sono regole.	Ho appena fatto un affarone!{Wait for input}Ti darò solo {Blue}{Number (0x9)} {stelline/stellina/stelline}{Color Reset}!
+"004"	{emote: Happiness}E ora, concludiamo quest'affare	a un prezzo per me ragionevole!{Wait for input}Eccoti {Blue}{pause 20}{Number (0x9)} {stelline/stellina/stelline}{Color Reset}!
+"005"	{emote: Happiness}Beh, i patti sono patti. Sono pronto	a pagare.{Wait for input}Ti darò {Blue}{Number (0x9)} {stelline/stellina/stelline}{Color Reset}!
+"006"	{emote: Worry}Per tutti i quadricipiti da indovino!	Non mi aspettavo di dover sborsare	una cifra così alta!{Wait for input}{emote: Happiness}Hai appena guadagnato	{Blue}{Number (0x9)} {stelline/stellina/stelline}{Color Reset}!
+"007"	{emote: Anger}Bene! Speravo che avresti	accettato!{Wait for input}Partiamo con {pause 20}la prima manche!{Wait for input}	{emote: Shyness}Destra o sinistra? In che mano	ho nascosto la moneta?{Player can respond (0000):0008-0000-0008-0000}	Nella destra!	Nella sinistra!
+"008"	{0009-0000-0004-0017-0018}
+"009"	{0009-0000-0004-0019-001a}
+"010"	{0009-0000-0004-001b-001c}
+"011"	{0009-0000-0004-001d-0021}
+"012"	{0009-0000-0004-001e-0022}
+"013"	{0009-0000-0004-001f-0023}
+"014"	{0009-0000-0004-0020-0024}
+"015"
+"016"
+"017"
+"018"
+"019"
+"020"
+"021"
+"022"
+"023"	.{pause 8}.{pause 8}.{pause 40}{emote: Alarmed} Come hai fatto a indovinare?	Devi avere la fortuna dalla tua	parte!{Wait for input}{emote: Reset}OK, via con la seconda manche!{Wait for input}	{emote: Shyness}Destra o sinistra? In che mano	ho nascosto la moneta?{Player can respond (0000):0009-0000-0009-0000}	Nella destra!	Nella sinistra!
+"024"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry} Oooooh! Sbagliato!{Wait for input}{emote: Disagreement} Ma non	preoccuparti, abbiamo appena	iniziato!{Wait for input}{emote: Happiness}Respira... Si ricomincia!{Wait for input}	{emote: Shyness}Destra o sinistra? In che mano	ho nascosto la moneta?{Player can respond (0000):000a-0000-000a-0000}	Nella destra!	Nella sinistra!
+"025"	.{pause 8}.{pause 8}.{pause 40}{emote: Surprise}{0007-000b-0000} Uau!{pause 20} Hai indovinato di nuovo!	Se continui così otterrai	un punteggio pieno alla fine.{Wait for input}{emote: Anger}Procediamo con la terza e ultima	manche!{Wait for input} {emote: Shyness}Destra o sinistra?	In che mano ho nascosto la moneta?{Player can respond (0000):000b-0000-000b-0000}	Nella destra!	Nella sinistra!
+"026"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry} Ohhhh! Peccato, stavolta non	hai indovinato!{Wait for input} {emote: Disagreement}Ma non è ancora	finita, vediamo come va la prossima.	Ecco l'ultima manche!{Wait for input}	{emote: Shyness}Destra o sinistra? In che mano	ho nascosto la moneta?{Player can respond (0000):000c-0000-000c-0000}	Nella destra!	Nella sinistra!
+"027"	.{pause 8}.{pause 8}.{pause 40}{emote: Joy} Uau! Hai indovinato!{Wait for input} Ti sei	aggiudicat{o/a} almeno una manche!{Wait for input}{emote: Anger}Proseguiamo con la terza e ultima!{Wait for input}	{emote: Shyness}Destra o sinistra? In che mano	ho nascosto la moneta?{Player can respond (0000):000d-0000-000d-0000}	Nella destra!	Nella sinistra!
+"028"	.{pause 8}.{pause 8}.{pause 40}{emote: Sadness} Ooooh! Hai sbagliato di nuovo!{Wait for input}{emote: Worry}Spero solo che non pensi	che ti stia imbrogliando.{Wait for input}{emote: Anger}Hai un'ultima possibilità.	Concentrati!{Wait for input} {emote: Shyness}Destra o sinistra?	In che mano ho nascosto la moneta?{Player can respond (0000):000e-0000-000e-0000}	Nella destra!	Nella sinistra!
+"029"		{pause 40}{emote: Shocked}{0007-000b-0000}{Text size 150%}COSA?!{pause 20} {0007-000b-0000}INCREDIBILE!{Wait for input}{Text size 100%}{emote: Distress}Hai indovinato tre volte di fila!{pause 20}	La tua fortuna è imbarazzante!
+"030"	.{pause 8}.{pause 8}.{pause 40}{emote: Joy} Giusto! Buon per te. Ne hai	indovinate due su tre, non male.
+"031"	.{pause 8}.{pause 8}.{pause 40}{emote: Joy} Bene! Alla fine ne hai indovinate	due su tre. Ritieniti soddisfatt{o/a}.
+"032"	.{pause 8}.{pause 8}.{pause 40}{emote: Joy} Grande!{pause 20} Sapevo che il tuo intuito	non ti avrebbe tradito!
+"033"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry} Oh! Sbagliato!{Wait for input} {emote: Mistaken}Peccato, avresti	potuto ottenere un punteggio pieno!
+"034"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry} Oh! Sbagliato!{Wait for input} Quindi per te	è andata bene solo la prima manche.{Wait for input}{emote: Happiness}Dai, una su tre!{pause 20} Poteva andare	peggio!
+"035"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry} Oh! Sbagliato! Però, almeno	la prima manche ti è andata bene.{Wait for input}{emote: Happiness}Meglio di niente, no? Avresti potuto	sbagliare anche in quella.
+"036"	{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Shocked} Oh, no! Hai sbagliato di nuovo!{Wait for input}{emote: Resigned}	Forse oggi non è il tuo giorno	fortunato, che dici?
+"037"
+"038"
+"039"
+"040"	Mi sono divertito tantissimo. Avevo	il cuore che pompava come durante	un allenamento! {emote: Sunny}Grazie!
+"041"	{0009-0001-0006-002b-002c-002d}
+"042"	{emote: Laughter}Magari impari qualcosa da questa	sconfitta! Non demoralizzarti	troppo, OK?{pause 40}{emote: Soft Smile}
+"043"	{emote: Sunny}Mi sono divertito tantissimo!	Sono così felice che potrei fare	20.000 serie di addominali!
+"044"	{emote: Laughter}È stato divertentissimo giocare	con te,{pause 8} {catchphrase}!{pause 40}{emote: Soft Smile}
+"045"	{emote: Anger}Non dimenticarti che se ti alleni	puoi migliorare anche il tuo intuito!
 == 4 ==
-"001"	{emote: Anger}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Worry}
-"007"	{emote: Anger}
-"008"	{0009-0000-0004-17-00-18-00}
-"009"	{0009-0000-0004-19-00-1a-00}
-"010"	{0009-0000-0004-1b-00-1c-00}
-"011"	{0009-0000-0004-1d-00-21-00}
-"012"	{0009-0000-0004-1e-00-22-00}
-"013"	{0009-0000-0004-1f-00-23-00}
-"014"	{0009-0000-0004-20-00-24-00}
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	
-"022"	
-"023"	.{pause 8}
-"024"	.{pause 8}
-"025"	.{pause 8}
-"026"	.{pause 8}
-"027"	{emote: Delight}
-"028"	.{pause 8}
-"029"		{pause 40}
-"030"	.{pause 8}
-"031"	.{pause 8}
-"032"	.{pause 8}
-"033"	.{pause 8}
-"034"	.{pause 8}
-"035"	.{pause 8}
-"036"	.{pause 8}
-"037"	
-"038"	
-"039"	
-"040"	Wow!{pause 20}
-"041"	{0009-0001-0006-2b-00-2c-00-2d-00}
-"042"	{emote: Laughter}
-"043"	{emote: Sunny}
-"044"	{emote: Laughter}
-"045"	{emote: Anger}
+"001"	{emote: Anger}Hey ho! {pause 20}Hast du Lust, {deinen/deine/dein}	{0011-0003-0002-0000} aufs	Spiel zu setzen?	{emote: Curious}Lass uns doch 'ne Runde	{Blue}Wo ist die Münze?{Color Reset} spielen!{Wait for input}{emote: Reset}Du musst einfach nur erraten,{pause 8}	in welcher Hand ich 'ne Münze hab!	{emote: Sunny}Wir spielen drei Runden.	{0007-000d-0000}Mit jedem richtigen Tipp kannst du	mir {deinen/deine/dein} {0011-0003-0002-0000}	zu 'nem höheren Preis verkaufen!	Und wenn nicht, {pause 8}dann mache ich	ein nettes Schnäppchen!{Player can respond (0005):0007-0015-0002-0028}	Alles klar, bin dabei!	Ein andermal.
+"002"	{emote: Worry}So ein Pfostenschuss!{pause 40}	Bist nicht in Spiellaune, was?
+"003"	{emote: Happiness}Sorry!{pause 20} Regeln sind Regeln!	{pause 40}Also mach ich jetzt ein	sensationelles Schnäppchen!{Wait for input}Nur {Blue}{Number (0x9)} Sternis{Color Reset}!
+"004"	{emote: Happiness}Okay, {pause 8}wie vereinbart zahle ich 'nen	günstigeren Preis!{Wait for input}Sagen wir{pause 8}.{pause 8}.{pause 8}.{pause 20} {Blue}{Number (0x9)} Sternis{Color Reset}!
+"005"	{emote: Happiness}Oh Mann!{pause 20} Okay... {pause 40}Wie abgemacht	zahle ich dir 'nen überhöhten Preis.{Wait for input}Du kriegst genau {Blue}{Number (0x9)} Sternis{Color Reset}!
+"006"	{emote: Worry}So ein Pfostenschuss{pause 8}.{pause 8}.{pause 8}.{pause 20} Auch wenn's	mir gar nicht passt, {pause 8}kriegst du jetzt	richtig Kohle, {Sportsfreund/Sportsfreundin}!	{emote: Happiness}Was sagst du zu {Blue}{pause 20}{Number (0x9)} Sternis{Color Reset}?
+"007"	{emote: Anger}Klasse! {pause 20}Ich wusste doch,{pause 8} dass {ein/eine}	{Sportler/Sportlerin} wie du nicht Nein sagen	kann zu so 'ner Herausforderung!	Wir fangen an...{pause 40} mit Runde eins!{Wait for input}	{emote: Shyness}Rechts oder links? {pause 20}Wo ist sie?{Player can respond (0000):0008-0000-0008-0000}	Rechts!	Links!
+"008"	{0009-0000-0004-0017-0018}
+"009"	{0009-0000-0004-0019-001a}
+"010"	{0009-0000-0004-001b-001c}
+"011"	{0009-0000-0004-001d-0021}
+"012"	{0009-0000-0004-001e-0022}
+"013"	{0009-0000-0004-001f-0023}
+"014"	{0009-0000-0004-0020-0024}
+"015"
+"016"
+"017"
+"018"
+"019"
+"020"
+"021"
+"022"
+"023"	.{pause 8}.{pause 8}.{pause 40}{emote: Alarmed}Was?! {pause 40}Du hast sie!	{pause 20}Du Glückspilz hast sie gleich	beim ersten Versuch gefunden!{Wait for input}{emote: Reset}Okay, {pause 20}jetzt also Runde zwei.{Wait for input}	{emote: Shyness}Rechts oder links? {pause 20}Welche Hand	darf's sein?{Player can respond (0000):0009-0000-0009-0000}	Rechts!	Links!
+"024"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry}Oooooh! {pause 20}Das war leider falsch.{pause 20}{emote: Disagreement}	Aber keine Sorge! {pause 20}Wir haben ja	grad erst angefangen.	{emote: Happiness}Kurz durchatmen!{pause 40} Weiter geht's!{Wait for input}{emote: Shyness}	Rechts oder links? {pause 20}Welche Hand	soll es sein?{Player can respond (0000):000a-0000-000a-0000}	Rechts!	Links!
+"025"	.{pause 8}.{pause 8}.{pause 40}{emote: Surprise}{0007-000b-0000}Wow!{pause 20} Schon wieder richtig!{pause 40}	Du bist kurz vor 'ner perfekten	Runde, {Sportsfreund/Sportsfreundin}!	{emote: Anger}Jetzt also die alles entscheidende	Runde drei!{Wait for input} {emote: Shyness}Rechts oder links?{pause 20}	In welcher Hand ist die Münze?{Player can respond (0000):000b-0000-000b-0000}	Rechts!	Links!
+"026"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry}Ohhhh! {pause 20}Wie schade!{pause 20} Leider nichts!{pause 20}	{emote: Disagreement}Aber du bist noch im Spiel, {pause 8}wenn du	die nächste Runde gewinnst!{Wait for input}Jetzt also die alles entscheidende	Runde drei!{Wait for input} {emote: Shyness}Rechts oder links?{pause 20}	In welcher Hand ist die Münze?{Player can respond (0000):000c-0000-000c-0000}	Rechts!	Links!
+"027"	{emote: Delight}Klasse! {pause 20}Du hast sie!{pause 20} Damit bist du	zurück im Spiel!{Wait for input}{emote: Anger}Okay! {pause 20}Jetzt kommt die dritte und	letzte Runde!{Wait for input} {emote: Shyness}Rechts oder links? {pause 20}	Wo ist die Münze?{Player can respond (0000):000d-0000-000d-0000}	Rechts ist mir recht!	Links ist das Herz!
+"028"	.{pause 8}.{pause 8}.{pause 40}{emote: Sadness}Ooooh! {pause 20}Wieder falsch!{Wait for input}{emote: Worry}Ich hoffe echt, {pause 8}du denkst nicht,{pause 8} das	hier wäre ein Streich oder so was.{Wait for input}{emote: Anger}Versuch einfach ein letztes Mal dein	Glück, {pause 8}okay?{Wait for input} {emote: Shyness}Rechts oder links?{pause 20}	Welche Hand soll es sein?{Player can respond (0000):000e-0000-000e-0000}	Rechts ist mir recht!	Links ist das Herz!
+"029"		{pause 40}{emote: Shocked}{0007-000b-0000}{Text size 150%}WAS?!{pause 20} {0007-000b-0000}WOW!{Text size 100%}{Wait for input}{emote: Distress}Du lagst drei Mal in Folge richtig!{pause 20}	Du bist {der klügste Sportsfreund/die klügste Sportsfreundin}	der ganzen Welt!
+"030"	.{pause 8}.{pause 8}.{pause 40}{emote: Joy}Wow! {pause 20}Heiliger Flatterball! {pause 20}Richtig!{pause 40}	Das macht dann zwei Volltreffer!
+"031"	.{pause 8}.{pause 8}.{pause 40}{emote: Joy}Wow! {pause 20}Super!{pause 20} Zwei von drei ist	'ne klasse Ausbeute!
+"032"	.{pause 8}.{pause 8}.{pause 40}{emote: Joy}Wow!{pause 20} Prima! {pause 20}Ich wusste doch,{pause 8}	dass du noch die Kurve kriegst!
+"033"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry}Oh! {pause 20}Schade!{pause 20} {emote: Mistaken}Das war echt kurz	vor 'nem perfekten Spiel!
+"034"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry}Oh! {pause 20}Falsch!{pause 20} Du lagst nur in der	ersten Runde richtig.{Wait for input}{emote: Happiness}Besser ein Mal als kein Mal!{pause 20}	So schlimm ist das gar nicht!
+"035"	.{pause 8}.{pause 8}.{pause 40}{emote: Worry}Oh! {pause 20}Falsch!{pause 40}	Du lagst nur in einer Runde richtig.{Wait for input}{emote: Happiness}Aber das ist immer noch besser,{pause 8}	als komplett falschzuliegen!
+"036"	.{pause 8}.{pause 8}.{pause 40}{emote: Shocked}Oh Mann! {pause 20}Und wieder falsch!{pause 20}{emote: Resigned}	Heute ist echt nicht dein Glückstag!
+"037"
+"038"
+"039"
+"040"	Wow!{pause 20} Was für ein Spiel!!{pause 40}	Ich hab ganz schwitzige Hände	vor lauter Aufregung! {pause 20}{emote: Sunny}Vielen Dank!
+"041"	{0009-0001-0006-002b-002c-002d}
+"042"	{emote: Laughter}Ich hoffe, {pause 8}du lernst aus dieser	Niederlage, {Sportsfreund/Sportsfreundin}!{pause 40}	Lass den Kopf nicht hängen!{pause 40}{emote: Soft Smile}
+"043"	{emote: Sunny}War echt klasse, {pause 8}mit dir zu spielen!
+"044"	{emote: Laughter}Ich hatte echt viel Spaß dabei,{pause 8}	dieses Spiel mit dir zu spielen!{pause 8}	{capitalized}{catchphrase}!{pause 40}{emote: Soft Smile}
+"045"	{emote: Anger}Du brauchst noch ein klein wenig	Training, {pause 8}was Ratespiele angeht!

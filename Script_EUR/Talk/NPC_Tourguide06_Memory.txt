@@ -1,145 +1,145 @@
 == 0 ==
-"001"	I hope you have a good memory,	because we're going to play an	{Blue}item-matching{Color Reset} game.	My assistants have buried a few	items in {Blue}pairs{Color Reset}!{0000-0004-0000}
-"002"	If you can match all of the pairs	within the time limit,{pause 20}!
-"003"	If you can match all of the pairs	within the time limit,{pause 20}!
-"004"	If you can match all of the pairs	within the time limit,{pause 20}!
-"005"	Use that {Blue}shovel{Color Reset} you're holding to	dig up the items.{0000-0004-0000}
-"006"	
-"007"	
-"008"	
-"009"	
+"001"	I hope you have a good memory,	because we're going to play an	{Blue}item-matching{Color Reset} game.	My assistants have buried a few	items in {Blue}pairs{Color Reset}!{Wait for input}Try to dig up as many pairs as you	can within {Blue}{Number (0x7)} minutes{Color Reset}!
+"002"	If you can match all of the pairs	within the time limit,{pause 20} I'll give you	some medals!
+"003"	If you can match all of the pairs	within the time limit,{pause 20} I'll give you	some medals!
+"004"	If you can match all of the pairs	within the time limit,{pause 20} I'll give you	some medals!
+"005"	Use that {Blue}shovel{Color Reset} you're holding to	dig up the items.{Wait for input}You can't drop an item once you've	dug it up, so you'll need to rebury it	if you want to get rid of it.
+"006"
+"007"
+"008"
+"009"
 "011"	You can't drop an item once you've	dug it up, so you'll need to rebury it	if you want to get rid of it.
 "012"	Remembering where items are	buried is the key to success.
-"013"	Don't you think there are better	uses for your time than talking to	me? Like, I don't know, {emote: Aggravation}!
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"021"	{0000-0002-0002-ffffff96-00}	Time's up!{0000-0002-0002-64-00}{0007-0009-0004-3c-00-00-00}
-"022"	You finished within the time limit!{pause 10}
-"023"	Sorry, but you're out of time!{pause 60}!
-"024"	Well, you met your goal, so here you	go—{Blue}{Number (0x7)}
-"025"	{emote: Happiness}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	
-"029"	
-"030"	
+"013"	Don't you think there are better	uses for your time than talking to	me? Like, I don't know, {emote: Aggravation}{0007-000c-0000}DIGGING?!
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"021"	{Text size 150%}	Time's up!{Text size 100%}{Wait <003c 0000> 'time'}
+"022"	You finished within the time limit!{pause 10}	Well done. Well done.{Wait <003c 0000> 'time'}
+"023"	Sorry, but you're out of time!{pause 60}	Nice try, though.
+"024"	Well, you met your goal, so here you	go—{Blue}{Number (0x7)} {Blue}{medals/medal/medals}{Blue}{Color Reset}.
+"025"	{emote: Happiness}For your strong performance,	you've earned a Bronze Tortimer	award and {Blue}{pause 10}{Number (0x7)} {Blue}{medals/medal/medals}{Blue}{Color Reset}.
+"026"	{emote: Happiness}For your superb performance,	you've earned a Silver Tortimer	award and {Blue}{pause 10}{Number (0x7)} {Blue}{medals/medal/medals}{Blue}{Color Reset}.
+"027"	{emote: Happiness}For your AMAZING performance,	you've earned a Gold Tortimer	award and {Blue}{pause 10}{Number (0x7)} {Blue}{medals/medal/medals}{Blue}{Color Reset}!
+"028"
+"029"
+"030"
 == 1 ==
-"001"	¡Los que tengan memoria de pez	lo van a tener crudo, porque vamos	a jugar a {Blue}las parejas{Color Reset}!{0000-0004-0000}!
-"002"	Si puedes encontrar todas	las parejas antes de que acabe	el tiempo,{pause 20}
-"003"	Desenterrad todas las parejas antes	de que acabe el tiempo,{pause 20}
-"004"	Desenterrad todas las parejas antes	de que acabe el tiempo,{pause 20}
-"005"	Todos los participantes cuentan	con una {Blue}pala {Color Reset}para cavar.{0000-0004-0000}
-"006"	
-"007"	
-"008"	
-"009"	
+"001"	¡Los que tengan memoria de pez	lo van a tener crudo, porque vamos	a jugar a {Blue}las parejas{Color Reset}!{Wait for input}Mis ayudantes han enterrado	unos cuantos objetos, cada	uno con su {Blue}pareja{Color Reset}.{Wait for input}Hay que desenterrar dos objetos	iguales de forma consecutiva para	formar una pareja.	¡El tiempo límite es de {Blue}{Number (0x7)} minutos{Color Reset}!
+"002"	Si puedes encontrar todas	las parejas antes de que acabe	el tiempo,{pause 20} ¡te daré unas medallas!
+"003"	Desenterrad todas las parejas antes	de que acabe el tiempo,{pause 20} ¡y os	daré unas cuantas medallas!
+"004"	Desenterrad todas las parejas antes	de que acabe el tiempo,{pause 20} ¡y os	daré unas cuantas medallas!
+"005"	Todos los participantes cuentan	con una {Blue}pala {Color Reset}para cavar.{Wait for input}Para deshacerse de un objeto	hay que volver a enterrarlo.	En esta isla no se tira nada.
+"006"
+"007"
+"008"
+"009"
 "011"	Si no quieres un objeto, vuelve	a enterrarlo. Aquí no se tira nada.
 "012"	Recuerda dónde está enterrado	cada objeto. Así te será más	fácil volver a por ellos.
-"013"	¡Pero jovenzuel{000e-0006-0008-02-00-6f-00-02-00-61-00}, si tienes tiempo	para estar de cháchara, aprovéchalo	para {emote: Aggravation}
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"021"	{0000-0002-0002-ffffff96-00}	¡Se acabó el tiempo!{0000-0002-0002-64-00}{0007-0009-0004-3c-00-00-00}
-"022"	¡Conseguido!{pause 10}
-"023"	¡Se ha agotado el tiempo!{pause 60}
-"024"	No ha estado nada mal, aunque	un poco justo...	¡La recompensa es de {Blue}{Number (0x7)}
-"025"	{emote: Happiness}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	
-"029"	
-"030"	
+"013"	¡Pero jovenzuel{o/a}, si tienes tiempo	para estar de cháchara, aprovéchalo	para {emote: Aggravation}{0007-000c-0000}CAVAR!
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"021"	{Text size 150%}	¡Se acabó el tiempo!{Text size 100%}{Wait <003c 0000> 'time'}
+"022"	¡Conseguido!{pause 10}	¡Muy buen trabajo!{Wait <003c 0000> 'time'}
+"023"	¡Se ha agotado el tiempo!{pause 60}	¡Mala suerte!
+"024"	No ha estado nada mal, aunque	un poco justo...	¡La recompensa es de {Blue}{Number (0x7)} {medallas/medalla/medallas}{Color Reset}!
+"025"	{emote: Happiness}¡Muy bien! Tal actuación merece	un Tórtimer de bronce y	{Blue}{Number (0x7)} {medallas/medalla/medallas}{Color Reset}.
+"026"	{emote: Happiness}¡Buena memoria, sí señor!	Esta actuación es digna de un	Tórtimer de plata y de {Blue}{Number (0x7)} {medallas/medalla/medallas}{Color Reset}.
+"027"	{emote: Happiness}¡A eso lo llamo yo tener memoria	de elefante! ¡Se merece un Tórtimer	de oro y {pause 10}{Blue}{Number (0x7)} {medallas/medalla/medallas}{Color Reset}!
+"028"
+"029"
+"030"
 == 2 ==
-"001"	Pardon aux poissons rouges	présents dans l'assistance, nous	allons faire appel à notre mémoire.	Pour cette excursion, nous allons	jouer au {Blue}jeu des correspondances{Color Reset}.{0000-0004-0000}
+"001"	Pardon aux poissons rouges	présents dans l'assistance, nous	allons faire appel à notre mémoire.	Pour cette excursion, nous allons	jouer au {Blue}jeu des correspondances{Color Reset}.{Wait for input}Mes assistants ont enterré des	objets par {Blue}paires {Color Reset}sur cette île...{Wait for input}Le but du jeu est de déterrer deux	objets identiques de suite pour	obtenir une paire.	La limite de temps est fixée à	{Blue}{Number (0x7)} {minute/minute/minutes} {Color Reset}!
 "002"	Si tu fais correspondre toutes les	paires dans la limite de temps	imparti, tu gagnes des médailles !
 "003"	Si vous faites correspondre toutes	les paires dans la limite de temps	imparti, vous gagnez des médailles !
 "004"	Si vous faites correspondre toutes	les paires dans la limite de temps	imparti, vous gagnez des médailles !
-"005"	On a déjà sorti sa petite {Blue}pelle {Color Reset}à ce	que je vois.{pause 15}
-"006"	
-"007"	
-"008"	
-"009"	
+"005"	On a déjà sorti sa petite {Blue}pelle {Color Reset}à ce	que je vois.{pause 15} Bien, ce sera plus rapide	que de creuser à mains nues !	Un objet déterré ne peut pas être	jeté, il faut donc l'enterrer à	nouveau pour s'en débarrasser.
+"006"
+"007"
+"008"
+"009"
 "011"	Un objet déterré ne peut pas être	jeté, il faut donc l'enterrer à	nouveau pour s'en débarrasser.
 "012"	Pour gagner, il faut se souvenir de	l'endroit où chaque objet est	enterré !
-"013"	Tu n'as rien de mieux à faire que de	papoter avec moi...? Et si tu allais{emote: Aggravation}
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"021"	{0000-0002-0002-ffffff96-00}	Trop tard !{0000-0002-0002-64-00}{0007-0009-0004-3c-00-00-00}
-"022"	Objectif atteint, et dans les temps !{pause 10}
-"023"	Désolé, le temps est écoulé !{pause 60}
-"024"	Eh bien, pour avoir atteint	l'objectif, voici... {Blue}{Number (0x7)}
-"025"	{emote: Agreement}
-"026"	{emote: Agreement}
-"027"	{emote: Agreement}
-"028"	
-"029"	
-"030"	
+"013"	Tu n'as rien de mieux à faire que de	papoter avec moi...? Et si tu allais{emote: Aggravation}{0007-000c-0000}	CREUSER plutôt, houerf ?!
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"021"	{Text size 150%}	Trop tard !{Text size 100%}{Wait <003c 0000> 'time'}
+"022"	Objectif atteint, et dans les temps !{pause 10}	Pas mal, pas mal.{Wait <003c 0000> 'time'}
+"023"	Désolé, le temps est écoulé !{pause 60} Mais	bien essayé !
+"024"	Eh bien, pour avoir atteint	l'objectif, voici... {Blue}{Number (0x7)} {médaille/médaille/médailles} {Color Reset}!
+"025"	{emote: Agreement}Une mémoire pareille vaut bien un	Tortimer de bronze et	{Blue}{Number (0x7)} {Blue}{médaille/médaille/médailles} {Blue}{Color Reset}!
+"026"	{emote: Agreement}De mémoire de tortue, on a	rarement vu une telle mémoire !{Wait for input}Je décerne volontiers un Tortimer	d'argent et {Blue}{Number (0x7)} {Blue}{médaille/médaille/médailles}{Blue} {Color Reset}!
+"027"	{emote: Agreement}Je n'ai pas vu une mémoire pareille	depuis{pause 8}.{pause 8}.{pause 8}.{pause 15} Euh, je ne me rappelle plus.{Wait for input}Bref, ça mérite amplement un	Tortimer d'or et {Blue}{Number (0x7)} {Blue}{médaille/médaille/médailles}{Blue} {Color Reset}!
+"028"
+"029"
+"030"
 == 3 ==
-"001"	Il gioco di questo tour richiede	una memoria formidabile.	Si tratta di "{Blue}Trova le coppie{Color Reset}"!{0000-0004-0000}
-"002"	Se riesci a trovare tutte le coppie	di oggetti entro il tempo limite,{pause 20}
-"003"	Se riuscite a trovare tutte le coppie	di oggetti entro il tempo limite,{pause 20}
-"004"	Se riuscite a trovare tutte le coppie	di oggetti entro il tempo limite,{pause 20}
+"001"	Il gioco di questo tour richiede	una memoria formidabile.	Si tratta di "{Blue}Trova le coppie{Color Reset}"!{Wait for input}I miei assistenti hanno sotterrato	diverse {Blue}coppie{Color Reset} di oggetti.{Wait for input}Per vincere bisogna trovarne	quante più possibile	dissotterrandole {Blue}entro {Number (0x7)} {minuti/minuto/minuti}{Color Reset}!	Per formare una coppia, basta	dissotterrare due oggetti uguali	uno dopo l'altro.
+"002"	Se riesci a trovare tutte le coppie	di oggetti entro il tempo limite,{pause 20}	vincerai delle medaglie!
+"003"	Se riuscite a trovare tutte le coppie	di oggetti entro il tempo limite,{pause 20}	vincerete delle medaglie!
+"004"	Se riuscite a trovare tutte le coppie	di oggetti entro il tempo limite,{pause 20}	vincerete delle medaglie!
 "005"	Gli oggetti devono essere	dissotterrati con la {Blue}pala{Color Reset}.	Una volta dissotterrati...	... non possono essere lasciati	a terra. Per liberarsene bisogna	sotterrarli di nuovo!
-"006"	
-"007"	
-"008"	
-"009"	
+"006"
+"007"
+"008"
+"009"
 "011"	Non puoi lasciare un oggetto a terra	una volta dissotterrato. Se vuoi	liberartene, sotterralo di nuovo!
 "012"	Il segreto è ricordarsi dove	sono stati sotterrati gli oggetti.
-"013"	Non pensi che invece di parlare con	me potresti fare qualcosa di più	redditizio? Non so, tipo, {emote: Aggravation}
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"021"	{0000-0002-0002-ffffff96-00}	Tempo scaduto!{0000-0002-0002-64-00}{0007-0009-0004-3c-00-00-00}
-"022"	La prova è stata completata entro	il tempo limite!{pause 10}
-"023"	Mi dispiace, ma la prova non è stata	completata entro il tempo limite!{pause 60}
-"024"	Beh, le coppie sono state trovate.	Questo risultato si merita comunque	{Blue}{Number (0x7)}
-"025"	{emote: Happiness}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	
-"029"	
-"030"	
+"013"	Non pensi che invece di parlare con	me potresti fare qualcosa di più	redditizio? Non so, tipo, {emote: Aggravation}{0007-000c-0000}SCAVARE?
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"021"	{Text size 150%}	Tempo scaduto!{Text size 100%}{Wait <003c 0000> 'time'}
+"022"	La prova è stata completata entro	il tempo limite!{pause 10}	Complimentoni. Che memoria!{Wait <003c 0000> 'time'}
+"023"	Mi dispiace, ma la prova non è stata	completata entro il tempo limite!{pause 60}	Sarà per la prossima volta.
+"024"	Beh, le coppie sono state trovate.	Questo risultato si merita comunque	{Blue}{Number (0x7)} {medaglie/medaglia/medaglie}{Color Reset}.
+"025"	{emote: Happiness}Una performance niente male.	Ecco qua un Tortimer di bronzo	e {Blue}{Number (0x7)} {medaglie/medaglia/medaglie}{Color Reset}.
+"026"	{emote: Happiness}Una performance lodevole!	Ecco qua un Tortimer d'argento	e {Blue}{pause 10}{Number (0x7)} {medaglie/medaglia/medaglie}{Color Reset}.
+"027"	{emote: Happiness}Che performance stellare!	Ecco qua un Tortimer d'oro	e {Blue}{pause 10}{Number (0x7)} {medaglie/medaglia/medaglie}{Color Reset}! È un onore per me!
+"028"
+"029"
+"030"
 == 4 ==
-"001"	Nun sind die kleinen grauen Zellen	gefragt, {pause 8}
+"001"	Nun sind die kleinen grauen Zellen	gefragt, {pause 8}he he huff.{Wait for input}Meine eifrigen Assistenten haben	verschiedene {Blue}Itempaare {Color Reset}vergraben.{pause 20}	Diese gilt es zu finden!	Ein Paar hat man zusammen, wenn	man ein Item ausgräbt und danach	noch mal das gleiche findet.	Damit das nicht zu einfach wird,	gibt es eine Zeitbegrenzung:{pause 20}	{Blue}{Number (0x7)} {Minuten/Minute/Minuten}{Color Reset}!
 "002"	Wenn du alle Paare innerhalb der	Zeit zusammenbekommst, gibt es	Medaillen von mir!
 "003"	Wenn ihr alle Paare innerhalb der	Zeit zusammenbekommt, gibt es	Medaillen von mir!
 "004"	Wenn ihr alle Paare innerhalb der	Zeit zusammenbekommt, gibt es	Medaillen von mir!
-"005"	So, ich sehe da schon eine {Blue}Schaufel{Color Reset}.{pause 20}!
-"006"	
-"007"	
-"008"	
-"009"	
-"011"	Ausgegrabene Items kann man nicht	mir nichts, dir nichts auf den Boden	schmeißen.{pause 20}
+"005"	So, ich sehe da schon eine {Blue}Schaufel{Color Reset}.{pause 20}	Sehr gut, sehr gut!{pause 20} Dann kann ja	nach Items gegraben werden.	Um ein Item wieder loszuwerden,	muss man es wieder vergraben.{pause 20}	Auf den Boden werfen gilt nicht!
+"006"
+"007"
+"008"
+"009"
+"011"	Ausgegrabene Items kann man nicht	mir nichts, dir nichts auf den Boden	schmeißen.{pause 20} Nein!	Will man ein Item loswerden,	muss man es wieder ordentlich	vergraben.
 "012"	Wenn man bei diesem Spiel Erfolg	haben will, muss man sich schon	merken, was wo vergraben ist!
-"013"	Hast du nichts Besseres zu tun, als	mich anzuquasseln?{pause 20}
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"021"	{0000-0002-0002-ffffff96-00}So, Schluss!{0000-0002-0002-64-00}{0007-0009-0004-3c-00-00-00}!
-"022"	Geschafft!{pause 20}
-"023"	Die Zeit ist um!{pause 20}
-"024"	Wer erfolgreich war, hat auch eine	Belohnung verdient:{pause 20}
-"025"	{emote: Happiness}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	
-"029"	
-"030"	
+"013"	Hast du nichts Besseres zu tun, als	mich anzuquasseln?{pause 20} Wie wär's zum	Beispiel mal mit{pause 20} {emote: Aggravation}{0007-000c-0000}GRABEN!?!{pause 20}
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"021"	{Text size 150%}So, Schluss!{Text size 100%}{Wait <003c 0000> 'time'}
+"022"	Geschafft!{pause 20}	Ausgezeichnet, ausgezeichnet.{Wait <003c 0000> 'time'}
+"023"	Die Zeit ist um!{pause 20}	Was für ein Pech...
+"024"	Wer erfolgreich war, hat auch eine	Belohnung verdient:{pause 20} {Blue}{Number (0x7)} {Medaillen/Medaille/Medaillen}{Color Reset}!
+"025"	{emote: Happiness}Diese ordentliche Leistung belohne	ich mit einem Bronze-Törtel und	{Blue}{pause 10}{Number (0x7)} {Medaillen/Medaille/Medaillen}{Color Reset}!
+"026"	{emote: Happiness}Diese hervorragende Leistung	belohne ich mit einem Silber-Törtel	und {Blue}{pause 10}{Number (0x7)} {Medaillen/Medaille/Medaillen}{Color Reset}!
+"027"	{emote: Happiness}Oha!{pause 20} Ein Gedächtnis wie eine	Schildkröte, aber flink wie ein	Wiesel!	Dafür gibt's zu Recht einen	Gold-Törtel und {Blue}{pause 10}{Number (0x7)} {Medaillen/Medaille/Medaillen}{Color Reset}!
+"028"
+"029"
+"030"

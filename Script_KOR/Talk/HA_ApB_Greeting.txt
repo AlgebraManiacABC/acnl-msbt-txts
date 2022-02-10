@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{Town name (pink)}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Greetings}
-"006"	{emote: Worry}
-"007"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"008"	{emote: Greetings}
-"009"	{emote: Reset}
-"010"	{emote: Greetings}
-"011"	{Greeting begin}
+"001"	{emote: Worry}야, {Player nickname (green)}ー!{pause 20}	요새 나 목소리가	좀 작아진 것 같지 않냐ー?	{emote: Anger}이대로는 안 되겠어!{pause 8}	목에 힘이 들어가게 해주는	구호를 니가 정해봐ー!{Player can respond (0005):0004-0015-0003-0028}	좋아!	못 하겠어
+"002"	{Town name (pink)} 마을 녀석들 말야,{pause 20}	하나같이 개성이 강하지 않냐ー?{Wait for input}이런 녀석들 틈에서	살아남으려면{pause 8} 나도 개성 있는	뭔가가 필요해, {pause 8}{catchphrase}	{emote: Distress}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}!{pause 20}	모두가 내게 주목할 만큼{pause 20}	엄청난 인사말 없냐ー?{Player can respond (0005):0004-0015-0003-0028}	있어!	딱히 없는데
+"003"	{emote: Distress}뭐야ー!{pause 20}	그 넘치는 센스는 아껴 뒀다가	어디에 쓰려고ー?{Wait for input}{emote: Happiness}뭐, {pause 20}다음에 부탁했을 땐	거절하기 없음이야!
+"004"	{emote: Happiness}오ー!{pause 20}	역시 {Player nickname (green)}!{pause 20}	짜릿한 녀석으로 부탁한다ー!
+"005"	{emote: Greetings}「{Greeting begin}{Greeting end}」?{Wait for input}	{emote: Curious}이거 맞아ー?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	응!	아니!
+"006"	{emote: Worry}잘못 들었나?{pause 20}	{emote: Happiness}이번엔 제대로 들을게!
+"007"	{0009-0002-0008-0008-0009-000a-000b}
+"008"	{emote: Greetings}{Greeting begin}{Greeting end}{pause 40}	이거 끝내주는데!{Wait for input}{emote: Glee}완전 땡큐다ー {Player nickname (green)}!{pause 20}	앞으로 인정사정없이	외치고 다니겠어, {pause 8}{catchphrase}
+"009"	{emote: Reset}{Greeting begin}{Greeting end}{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}{0007-000b-0000}우와앗ー!{pause 20}	온몸에 힘이 넘치는 것 같아ー!{Wait for input}{emote: Happiness}진짜로 고마워!{pause 20}	너한테 부탁하길 잘했다,	{pause 8}{catchphrase}
+"010"	{emote: Greetings}{Greeting begin}{Greeting end}!{pause 40}	{emote: Agreement}그래!{pause 20} 내가 찾던 게	바로 이거였어ー!{Wait for input}{emote: Happiness}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}, 완전 고맙다!{pause 20}	당장 지금부터 열심히 이렇게	인사하고 다니겠어, {pause 8}{catchphrase}
+"011"	{Greeting begin}{Greeting end}ー!{pause 20}	{emote: Glee}점점 기분이 좋아지는걸ー!{pause 40}	고맙다, {Player nickname (green)}!

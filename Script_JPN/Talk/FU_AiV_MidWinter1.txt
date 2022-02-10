@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
+"001"	{emote: Happiness}{Player nickname (green)}さん{pause 20}	おはようございます、{pause 15}{catchphrase}{Wait for input}{emote: Soft Smile}とは{ruby (charSpan 1): い}言ったものの{pause 10}	{emote: Sheepishness}こんな{ruby (charSpan 2): てんき}天気だと{pause 10}	{ruby (charSpan 1): あさ}朝という{ruby (charSpan 2): じっかん}実感が　{pause 5}わきませんね、{pause 15}{catchphrase}
+"002"	{emote: Happiness}{Greeting begin}おはようございます{Greeting end}{pause 20}	{Player nickname (green)}さん{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　{pause 8}{ruby (charSpan 2): とうじ}冬至なので、{pause 10}	{ruby (charSpan 3): いちにちじゅう}一日中　{pause 10}こんな{ruby (charSpan 3): そらもよう}空模様みたいです、{pause 15}{catchphrase}
+"003"	{emote: Happiness}{Player nickname (green)}さん{pause 20}	いらっしゃってたんですね、{pause 15}{catchphrase}！{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　{pause 10}{ruby (charSpan 2): たいよう}太陽が{ruby (charSpan 1): で}出ないんですって{Wait for input}	{emote: Happiness}でも　{ruby (charSpan 2): ふだん}普段{ruby (charSpan 1): どお}通り{pause 10}	{ruby (charSpan 1): あか}明るい{ruby (charSpan 2): きも}気持ちで　{pause 5}{ruby (charSpan 1): たの}楽しみましょう！
+"004"	{emote: Happiness}あら、{pause 10}{Player nickname (green)}さん{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　{pause 5}{ruby (charSpan 1): ひ}日が{ruby (charSpan 1): で}出てないので{pause 10}	{ruby (charSpan 1): ひ}冷え{ruby (charSpan 1): こ}込みますよ～、{pause 15}{catchphrase}{Wait for input}	{emote: Happiness}{ruby (charSpan 1): あたた}暖かくして{pause 8}　{ruby (charSpan 1): す}過ごしてくださいね！
+"005"	{emote: Happiness}{Greeting begin}こんにちは{pause 20}　{Player nickname (green)}さん{Greeting end}{pause 20}	{ruby (charSpan 1): あそ}遊びにいらしたんですね！{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): きょう}今日は　{pause 10}この{ruby (charSpan 1): さき}先も　{pause 10}	{ruby (charSpan 2): たいよう}太陽が{ruby (charSpan 1): で}出ないそうですよ{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): せん}洗たく{ruby (charSpan 1): もの}物を　{ruby (charSpan 1): ほ}干すのは{pause 10}	{ruby (charSpan 2): あした}明日にします、{pause 15}{catchphrase}
+"006"	{emote: Happiness}{Greeting begin}あら、{pause 10}どうも！{Greeting end}{pause 30}	{Player nickname (green)}さんじゃないですか{Wait for input}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくださって　{pause 10}うれしいです！{Wait for input}お{ruby (charSpan 1): ひる}昼なのに{pause 10}　この{ruby (charSpan 3): そらもよう}空模様{pause 8}・{pause 8}・{pause 8}・{pause 8}！{Wait for input}	{emote: Happiness}まさしく　{pause 10}{ruby (charSpan 2): とうじ}冬至って{ruby (charSpan 1): かん}感じですね、{pause 15}{catchphrase}
+"007"	{emote: Happiness}{Player nickname (green)}さん{pause 20}	こんばんは、{pause 8}{catchphrase}{Wait for input}	ようこそ　{Town name (pink)}{ruby (charSpan 1): むら}村へ！{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　{pause 3}{ruby (charSpan 2): とうじ}冬至だったので、{pause 10}	{ruby (charSpan 3): いちにちじゅう}一日中　{pause 5}「こんばんは！」って{pause 8}	{ruby (charSpan 1): い}言えそうな{ruby (charSpan 2): てんき}天気でした、{pause 15}{catchphrase}
+"008"	{emote: Happiness}あら、{pause 10}{Player nickname (green)}さん{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): とうじ}冬至だったので、{pause 10}	{ruby (charSpan 3): いちにちじゅう}一日中　{pause 8}{ruby (charSpan 1): よる}夜みたいでした、{pause 15}{catchphrase}{Wait for input}{emote: Fearful}ますます　{ruby (charSpan 1): ひ}冷え{ruby (charSpan 1): こ}込んできたので、{pause 10}	{ruby (charSpan 1): あたた}暖かくしてくださいね{pause 30}{emote: Reset}
+"009"	{emote: Happiness}{Greeting begin}こんばんは！{Greeting end}{Wait for input}	{emote: Soft Smile}{ruby (charSpan 2): けっきょく}結局　{ruby (charSpan 2): たいよう}太陽が{ruby (charSpan 1): で}出ないまま{pause 10}	{Hour}{ruby (charSpan 1): じ}時に　なっちゃいました、{pause 15}{catchphrase}
+"010"	{emote: Happiness}{Greeting begin}{Player nickname (green)}さん、{pause 10}こんばんは！{Greeting end}{pause 20}	よくいらっしゃいました、{pause 15}{catchphrase}{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は{pause 10}　{ruby (charSpan 2): けっきょく}結局{pause 5}	{ruby (charSpan 2): たいよう}太陽が{ruby (charSpan 1): で}出なかったんです{Wait for input}	{emote: Worry}{ruby (charSpan 2): じかん}時間の{ruby (charSpan 2): かんかく}感覚が　{pause 8}{ruby (charSpan 1): くる}狂っちゃいました
+"011"	{emote: Happiness}{Player nickname (green)}さん{pause 20}	こんばんは、{pause 8}{catchphrase}{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　{pause 10}いつ{ruby (charSpan 1): よる}夜になったのか{pause 10}	さっぱり　わかりませんでした

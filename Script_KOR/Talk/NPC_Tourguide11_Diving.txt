@@ -1,85 +1,85 @@
 == 0 ==
-"001"	이 투어의 테마는{pause 10}
-"002"	시간 안에 해산물을	{Blue}{Number (0x7)}마리 이상 {Color Reset}잡는 데 성공한다면{pause 10}
-"003"	둘이서 시간 안에 해산물을	{Blue}{Number (0x7)}마리 이상 {Color Reset}잡는 데 성공한다면{pause 10}
-"004"	전원이 시간 안에 해산물을	{Blue}{Number (0x7)}마리 이상{Color Reset} 잡는 데 성공한다면{pause 10}
-"005"	
-"006"	이 투어의 테마는{pause 10}
-"007"	총액 {Blue}{0004-000b-0002-06-00}벨 이상{Color Reset}의 해산물을	주어진 시간 안에 잡는 데 성공하면{pause 10}
-"008"	둘이 힘을 합쳐 해산물을 잡아서	시간 안에 총액 {Blue}{0004-000b-0002-06-00}벨 이상{Color Reset}을	기록하면{pause 10}
-"009"	모두가 힘을 모아 해산물을 잡아서	시간 안에 총액 {Blue}{0004-000b-0002-06-00}벨 이상{Color Reset}을	기록하면{pause 10}
-"010"	
-"011"	{Blue}{Number (0x7)}분 {Color Reset}동안에 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}
-"012"	{Blue}{Number (0x7)}분{Color Reset} 동안에 둘이 합쳐 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}
-"013"	{Blue}{Number (0x7)}분{Color Reset} 동안에 모두 합쳐 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	{Blue}잠수복{Color Reset}은{pause 5}!
-"021"	어서 바다에 뛰어들어야지,{pause 10}!
-"022"	이보게!{pause 10}
-"023"	자네!{pause 10}
-"024"	
-"025"	비싼 해산물이 많이 잡혀야 할 텐데!{pause 20}
-"026"	비싼 해산물이 많이 잡히면 좋겠구먼!{pause 20}
-"027"	비싼 해산물이 많이 잡히길 바라겠네!{pause 20}
-"028"	
+"001"	이 투어의 테마는{pause 10}	이름에서 짐작할 수 있듯이{pause 5}・{pause 5}・{pause 5}・{pause 10}	{Blue}잠수{Color Reset}를 하는 거라네!{Wait for input}주어진 시간은 {Blue}{Number (0x7)}분{Color Reset}!{pause 20}	그 안에 잠수를 해서{pause 5} 되도록 많은{pause 5}	해산물을 잡도록 하게!
+"002"	시간 안에 해산물을	{Blue}{Number (0x7)}마리 이상 {Color Reset}잡는 데 성공한다면{pause 10}	기념으로 메달을 선물하지!
+"003"	둘이서 시간 안에 해산물을	{Blue}{Number (0x7)}마리 이상 {Color Reset}잡는 데 성공한다면{pause 10}	기념으로 메달을 선물하지!
+"004"	전원이 시간 안에 해산물을	{Blue}{Number (0x7)}마리 이상{Color Reset} 잡는 데 성공한다면{pause 10}	기념으로 메달을 선물하지!
+"005"
+"006"	이 투어의 테마는{pause 10} 이름에서 짐작했겠지만{pause 10}	{Blue}잠수{Color Reset}를 해서 비싼 해산물을{pause 5}	잡는 거라네!{Wait for input}주어진 시간은 {Blue}{Number (0x7)}분{Color Reset}!{pause 20}	그 안에{pause 5} 비싼 해산물을	잔뜩 잡아보게나!
+"007"	총액 {Blue}{0004-000b-0002-0006}벨 이상{Color Reset}의 해산물을	주어진 시간 안에 잡는 데 성공하면{pause 10}	기념으로 메달을 주겠네!
+"008"	둘이 힘을 합쳐 해산물을 잡아서	시간 안에 총액 {Blue}{0004-000b-0002-0006}벨 이상{Color Reset}을	기록하면{pause 10} 기념으로 메달을 주겠네!
+"009"	모두가 힘을 모아 해산물을 잡아서	시간 안에 총액 {Blue}{0004-000b-0002-0006}벨 이상{Color Reset}을	기록하면{pause 10} 기념으로 메달을 주겠네!
+"010"
+"011"	{Blue}{Number (0x7)}분 {Color Reset}동안에 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}	기념으로 메달을 주지!
+"012"	{Blue}{Number (0x7)}분{Color Reset} 동안에 둘이 합쳐 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}	기념으로 메달을 주지!
+"013"	{Blue}{Number (0x7)}분{Color Reset} 동안에 모두 합쳐 {Blue}{Number (0x7)}마리 이상{Color Reset}	잡는 데 성공한다면{pause 10}	기념으로 메달을 주지!
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"	{Blue}잠수복{Color Reset}은{pause 5}・{pause 5}・{pause 5}・{pause 20}	{emote: Happiness}좋아!{pause 15} 지금 그대로{pause 5}	바다에 뛰어들어도 되겠구먼!{Wait for input}잠수하는 방법을 모르겠다면{pause 5}	이따가 내게 따로 물어보게나!
+"021"	어서 바다에 뛰어들어야지,{pause 10} 뭘 하고 있나?!{pause 20}	해산물을 {Blue}{Number (0x7)}마리 이상{Color Reset}{pause 5}	잡도록 노력해보게～!
+"022"	이보게!{pause 10} 빨리 바다에 뛰어들지그러나!{pause 20}	두 사람이 협력하여 {Blue}{Number (0x7)}마리 이상{Color Reset}{pause 5}	해산물을 잡도록 하게～!
+"023"	자네!{pause 10} 빨리 바다에 안 뛰어들어도 되겠나?{pause 20}	모두가 힘을 합쳐 {Blue}{Number (0x7)}마리 이상{Color Reset}의	해산물을{pause 5} 잡아야지～!
+"024"
+"025"	비싼 해산물이 많이 잡혀야 할 텐데!{pause 20}	힘내서 총액 {Blue}{0004-000b-0002-0006}벨{Color Reset} 돌파에{pause 5}	성공하도록 하게～!
+"026"	비싼 해산물이 많이 잡히면 좋겠구먼!{pause 20}	두 사람이 잘 협력해서{pause 5}	총액 {Blue}{0004-000b-0002-0006}벨{Color Reset}을 돌파해보게!
+"027"	비싼 해산물이 많이 잡히길 바라겠네!{pause 20}	다 같이 힘을 모아{pause 5} 총액 {Blue}{0004-000b-0002-0006}벨{Color Reset}을	돌파하도록 하게!
+"028"
 "029"	시간 안에 {Blue}{Number (0x7)}마리 이상{Color Reset}을 잡는 걸세!	힘을 내게나!
-"030"	두 사람이 힘을 모아{pause 5}
-"031"	다 같이 협력해서{pause 5}
-"032"	
-"033"	보아하니 목표량은	벌써 다 채운 것 같구먼!{0000-0004-0000}
-"034"	
-"035"	
-"036"	
-"037"	아무래도 목표액은	이미 달성했나 보구먼!{0000-0004-0000}
-"038"	
-"039"	
-"040"	
-"041"	아무래도 목표량을	다 채웠나 보군그래!{0000-0004-0000}
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	일단 바다에 들어가려면{pause 10}
-"048"	잠수를 해서 잡은 해산물은	다시 놓아줘야지 절대로	집에 가져갈 수 없다네{0000-0004-0000}
-"049"	해산물만 아니라면{pause 10}
-"051"	이번 기록은{pause 5}!
-"052"	이번 기록은{pause 5}!
-"053"	{pause 5}
-"054"	{emote: Happiness}
-"055"	{emote: Agreement}
-"056"	{emote: Agreement}
-"057"	{emote: Thought}
-"058"	
-"059"	
-"060"	
-"061"	
-"062"	
-"063"	
-"064"	
-"065"	
-"066"	
-"067"	
-"068"	
-"069"	
-"070"	
-"071"	
-"072"	
-"073"	
-"074"	
-"075"	
-"076"	
-"077"	
-"078"	
-"079"	
-"081"	이 투어의 목적은{pause 10}
-"082"	이 투어의 목적은{pause 10}
-"083"	이 투어의 목적은{pause 10}
-"084"	이 투어의 목적은{pause 10}
-"085"	이 투어의 목적은{pause 10}
-"086"	이 투어의 목적은{pause 10}
-"087"	이 투어의 목적은{pause 10}
+"030"	두 사람이 힘을 모아{pause 5}	{Blue}{Number (0x7)}마리 이상	{Color Reset}잡으면 된다네!
+"031"	다 같이 협력해서{pause 5}	{Blue}{Number (0x7)}마리 이상{Color Reset}	잡도록 하게!
+"032"
+"033"	보아하니 목표량은	벌써 다 채운 것 같구먼!{Wait for input}높은 기록을 내면	받게 되는 메달 수도 늘어나니까{pause 10}	마지막 1초까지 헛되이 쓰지 말게!
+"034"
+"035"
+"036"
+"037"	아무래도 목표액은	이미 달성했나 보구먼!{Wait for input}높은 기록을 내면	받게 되는 메달 수도 늘어나니까{pause 10}	마지막 순간까지 분발하게나!
+"038"
+"039"
+"040"
+"041"	아무래도 목표량을	다 채웠나 보군그래!{Wait for input}높은 기록을 내면	받게 되는 메달 수도 늘어나니까{pause 10}	끝까지 계속 잠수하게나!
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"	일단 바다에 들어가려면{pause 10}	잠수복을 입은 상태로	해변에서 Ⓐ를 누르도록 하게!{Wait for input}{emote: Reset}바다에서는 Ⓐ를 누르면{pause 10}	몸이 향하고 있는 방향으로	헤엄을 칠 수 있지!{Wait for input}도중에 {pause 10}해산물의 그림자를 발견하면{pause 5}	Ⓨ로 잠수해서{pause 5} 쫓아가도록 하게!{Wait for input}	{emote: Happiness}따라잡으면{pause 5} 해산물이 손에 들어올 게야!{Wait for input}{emote: Reset}단,{pause 10} 해파리만큼은{pause 5} 조심하게나{Wait for input}	{emote: Glare}쏘이면 얼마나 아픈지 모른다네～!{pause 10}	헐헐헐!
+"048"	잠수를 해서 잡은 해산물은	다시 놓아줘야지 절대로	집에 가져갈 수 없다네{Wait for input}섬의 생태계를	지키기 위한 것이니{pause 10}	이해해주게나!
+"049"	해산물만 아니라면{pause 10}	이 섬에서 얻은 것은	마음대로 가져가도 된다네!{Wait for input}도구를 사용하고 싶다면{pause 10}	{Orange}토용군{Color Reset}에게 빌려달라고 하게나!
+"051"	이번 기록은{pause 5}・{pause 5}・{pause 5}・{pause 60}	　 　　　　　합계 {Blue}{Number (0x7)}마리{Color Reset}!
+"052"	이번 기록은{pause 5}・{pause 5}・{pause 5}・{pause 60}	      　　　　　총액 {Blue}{0004-000b-0002-0007}벨{Color Reset}!
+"053"	{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Worry}아쉽네만{pause 5}	목표를 달성하지 못했으니	기념 메달 얘기는{pause 5} 없던 걸로 하세
+"054"	{emote: Happiness}무사히 목표를 클리어했군그래!{pause 15}	기념으로 메달 {Blue}{Number (0x7)}개{Color Reset}를 선물하겠네!
+"055"	{emote: Agreement}괜찮은 성적이구먼{pause 5}・{pause 5}・{pause 5}・{pause 10}	{emote: Happiness}그렇다면 브론즈 고북상일세!{pause 20}	수상 기념으로 메달 {Blue}{Number (0x7)}개{Color Reset}를 주겠네!
+"056"	{emote: Agreement}훌륭한 성적이군그래{pause 5}・{pause 5}・{pause 5}・{pause 10}	{emote: Happiness}그렇다면 실버 고북상일세!{pause 20}	수상 기념으로 메달 {Blue}{Number (0x7)}개{Color Reset}를 주겠네!
+"057"	{emote: Thought}이 정도의 성적을 낼 줄은	기대하지 못했네만{pause 5}・{pause 5}・{pause 5}・{Wait for input}{0007-000a-0000}{emote: Happiness}정말 대단하군그래!{pause 10}	그렇다면 골드 고북상일세!{pause 20}	수상 기념으로 메달 {Blue}{Number (0x7)}개{Color Reset}를 주겠네!
+"058"
+"059"
+"060"
+"061"
+"062"
+"063"
+"064"
+"065"
+"066"
+"067"
+"068"
+"069"
+"070"
+"071"
+"072"
+"073"
+"074"
+"075"
+"076"
+"077"
+"078"
+"079"
+"081"	이 투어의 목적은{pause 10}	이름 그대로 잠수를 해서	{Blue}조개{Color Reset}를 채취하는 거라네!
+"082"	이 투어의 목적은{pause 10}	이름에서 짐작했겠지만 잠수를 해서	{Blue}게{Color Reset}를 잡는 거라네!{Wait for input}{Blue}털게{Color Reset},{pause 5} {Blue}왕게{Color Reset},{pause 5} {Blue}대게{Color Reset}{pause 5}・{pause 5}・{pause 5}・{pause 15}	「게」 종류라면{pause 5}	뭐든 OK지!
+"083"	이 투어의 목적은{pause 10}	이름에서 짐작했겠지만 잠수를 해서	{Blue}새우{Color Reset}를 잡는 거라네!{Wait for input}{Blue}닭새우{Color Reset}에{pause 5} {Blue}북쪽분홍새우{Color Reset},{pause 5} {Blue}보리새우 {Color Reset}등{pause 5}・{pause 5}・{pause 5}・{pause 15}	이름에 「새우」가 들어간 거라면{pause 5}	뭐든 다 괜찮다네!
+"084"	이 투어의 목적은{pause 10}	이름 그대로 잠수를 해서	{Blue}고급 식재료{Color Reset}를 채취하는 거라네!{Wait for input}{emote: Daydreaming}{Blue}닭새우{Color Reset}, {pause 5}{Blue}전복{Color Reset}, {pause 5}{Blue}성게{Color Reset}, {Blue}털게{Color Reset}{pause 5}・{pause 5}・{pause 5}・{pause 15}	{emote: Joy}바닷속은 고급 식재료의	보물 상자나 마찬가지거든!
+"085"	이 투어의 목적은{pause 10}	이름 그대로 잠수를 해서	{Blue}성게{Color Reset}를 채취하는 거라네!
+"086"	이 투어의 목적은{pause 10}	이름에서 짐작했겠지만 잠수를 해서	{Blue}문어{Color Reset}를 잡는 거라네!
+"087"	이 투어의 목적은{pause 10}	이름 그대로 잠수를 해서	{Blue}키다리게{Color Reset}를 잡는 거라네!{Wait for input}환상의 게라 불리는 {Blue}키다리게{Color Reset}{pause 5}・{pause 5}・{pause 5}・{pause 10}	부디 찾아내서	잡아 와주게나!

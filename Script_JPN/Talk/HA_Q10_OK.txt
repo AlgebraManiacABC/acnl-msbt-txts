@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Greetings}
-"003"	{emote: Sunny}
-"004"	{emote: Alarmed}
+"001"	{emote: Happiness}んじゃ、{pause 20}{ruby (charSpan 1): はじ}始めるぞー！{pause 40}	せっかくだから、{pause 20}	{ruby (charSpan 1): ほか}他のヤツにも　{ruby (charSpan 1): こえ}声かけてみよう！{0007-0008-0004-0258-0000}
+"002"	{emote: Greetings}ヨッシャー！{pause 20}	やっぱりオマエは	ノリがいいな！{0007-0008-0004-0258-0000}{Wait for input}{emote: Alarmed}{0007-000b-0000}あ、{pause 20}ちょっと{ruby (charSpan 1): ま}待て！{pause 40}	{emote: Happiness}ヒマそうなヤツらも	さそってみるよ！{0007-0008-0004-0258-0000}
+"003"	{emote: Sunny}よーっし！{pause 20}	{ruby (charSpan 2): しょうぶ}勝負だー！{0007-0008-0004-0258-0000}{Wait for input}{emote: Agreement}せっかくだし、{pause 20}	{ruby (charSpan 1): ほか}他のヤツらにも　{ruby (charSpan 1): こえ}声かけてみよう！{0007-0008-0004-0258-0000}
+"004"	{emote: Alarmed}{0007-000a-0000}ナニッ？！{pause 20}	いつの{ruby (charSpan 1): ま}間にか	こんな{ruby (charSpan 2): じかん}時間かー！{Wait for input}{emote: Distress}これじゃー　{ruby (charSpan 1): あさ}朝まで{ruby (charSpan 1): み}見つからない、	サバイバルゲームに	なっちゃうぞー{Wait for input}{emote: Sadness}{ruby (charSpan 2): きょう}今日のところは　あきらめて	かいさんだな、{pause 8}{catchphrase}

@@ -1,29 +1,29 @@
 == 0 ==
-"001"	있잖아, {pause 8}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Resigned}
-"007"	{emote: Soft Smile}
-"008"	{emote: Agreement}
-"009"	{emote: Soft Smile}
-"010"	{0009-0002-0008-0b-00-0b-00-0b-00-0c-00}
-"011"	좋아{pause 8}
-"012"	좋아{pause 8}
-"013"	{emote: Soft Smile}
-"014"	{0009-0002-0008-0f-00-0f-00-10-00-10-00}
-"015"	좋아{pause 8}
-"016"	좋아{pause 8}
-"017"	{emote: Sunny}
-"018"	{0009-0002-0008-13-00-14-00-14-00-14-00}
-"019"	좋아{pause 8}
-"020"	좋아{pause 8}
-"021"	{0009-0001-0006-17-00-18-00-19-00}
-"022"	{0009-0001-0006-1a-00-1b-00-1c-00}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
-"025"	{emote: Sheepishness}
-"026"	참고로 「하트 A」는{pause 16}
-"027"	{emote: Soft Smile}
-"028"	{emote: Sheepishness}
+"001"	있잖아, {pause 8}당신이 갖고 있는{pause 16}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 걸고{pause 16}	내기 하나 하지 않을래?{pause 8}	{0007-000d-0000}{emote: Soft Smile}만약 당신이 이기면{pause 16}	내가 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 16}	비싸게 사줄게!{Player can respond (0005):0007-0015-0002-0028}	할래!	다음에 하자
+"002"	{emote: Worry}뭐야{pause 8}・{pause 8}・{pause 8}・{pause 8} 그렇게 중요한 거야?{pause 32}	{emote: Sheepishness}아무튼 그렇다면 할 수 없지,	{pause 8}{catchphrase}
+"003"	{emote: Worry}안타깝지만{pause 4}・{pause 4}・{pause 4}・{pause 4} 틀렸어{Wait for input}{emote: Sheepishness}미안하지만 약속대로{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에{pause 8}　	나한테 넘겨줘!
+"004"	{emote: Worry}아쉽지만{pause 4}・{pause 4}・{pause 4}・{pause 4} 틀렸어{Wait for input}{emote: Sheepishness}미안하지만 약속대로{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}만 내고{pause 8}　	가져가겠어
+"005"	{emote: Worry}아깝다～ {pause 16}조금만 분발하면	퍼펙트였는데{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}그래도 {pause 8}약속은 약속이니까{pause 32}	이건 {Blue}{Number (0x9)}벨{Color Reset}에{pause 16}	나에게 넘기도록 해
+"006"	{emote: Resigned}당신{pause 8}・{pause 8}・{pause 8}・{pause 8}	정말 억세게 운수가 좋구나?{Wait for input}{emote: Worry}내가 완전히 졌어{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Anger}조금 억울하긴 하지만{pause 16}	{Blue}{Number (0x9)}벨{Color Reset} 내고 사도록 할게
+"007"	{emote: Soft Smile}좋아! 그럼 바로{pause 16}	규칙을 설명해줄까?	{pause 8}{catchphrase}?{Player can respond (0005):0008-0015-0009-0028}	응 설명해봐	알고 있어!
+"008"	{emote: Agreement}한 번만 설명할 테니 {pause 16}잘 들어!{Wait for input}	{emote: Reset}여기에 2장의 카드가 있어{pause 8}・{pause 8}・{pause 8}・{pause 8}	「하트 A」와 「조커」야	이 카드를 내가 섞은 다음{pause 16}	당신이 1장을 고르는 거야{pause 32}	{emote: Sunny}「하트 A」가 나오면 당첨!	{emote: Reset}맞힌 횟수가 많을수록{pause 16}	{0011-0003-0002-0000}의{pause 8}	가격은 올라가겠지만{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}만약 맞히지 못하면 그 시점에{pause 16}	책정한 가격으로 무조건 넘기는 거야{pause 32}	{emote: Soft Smile}찬스는 3번까지!	{emote: Anger}자, {pause 16}그럼 1번째 간다?!{pause 32}	처음부터 맞히지 못했을 때는{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 넘겨야 돼!	{emote: Curious}어느 쪽으로 할래? {pause 8}{catchphrase}?{Player can respond (0000):000a-0000-000b-0000}	왼쪽 카드	오른쪽 카드
+"009"	{emote: Soft Smile}그래?{pause 16}	이 게임 해본 적 있구나?{Wait for input}{emote: Anger}그럼 {pause 8}1번째 간다?{pause 32}	1번째부터 틀리면{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 나한테 넘겨야 돼!	{emote: Curious}어느 쪽으로 할래?{pause 8} {catchphrase}?{Player can respond (0000):000a-0000-000a-0000}	왼쪽 카드	오른쪽 카드
+"010"	{0009-0002-0008-000b-000b-000b-000c}
+"011"	좋아{pause 8}・{pause 8}・{pause 8}・{pause 8} 이거지?{Wait for input}	{emote: Anger}그럼 1번째는 뭐인지{pause 16}	어디 한번 볼까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}맞혔다!{pause 32}	{emote: Sunny}하트 A야!
+"012"	좋아{pause 8}・{pause 8}・{pause 8}・{pause 8} 이거 말이지?{Wait for input}	{emote: Anger}그럼 1번째는 뭐인지{pause 16}	어디 한번 볼까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}이럴 수가!{pause 32}	{emote: Cold Chill}조커야!
+"013"	{emote: Soft Smile}운이 좋은데?{pause 32}	1번째는 무사통과야!{Wait for input}	{emote: Anger}그럼 {pause 16}계속해서 2번째 간다!	이번에 틀리면{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 넘겨야 해{pause 32}	{emote: Curious}어느 쪽으로 할래? {pause 8}{catchphrase}?{Player can respond (0000):000e-0000-000e-0000}	왼쪽 카드	오른쪽 카드
+"014"	{0009-0002-0008-000f-000f-0010-0010}
+"015"	좋아{pause 8}・{pause 8}・{pause 8}・{pause 8} 이거 말이지?{Wait for input}	{emote: Anger}그럼 2번째는 뭐인지{pause 16}	어디 한번 볼까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}맞혔다!{pause 32}	{emote: Sunny}하트 A야!
+"016"	좋아{pause 8}・{pause 8}・{pause 8}・{pause 8} 이거 말이지?{Wait for input}	{emote: Anger}그럼 2번째는 뭐인지{pause 16}	어디 한번 볼까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}이럴 수가!{pause 32}	{emote: Cold Chill}조커야!
+"017"	{emote: Sunny}대단한데?!{pause 32}	2번 연속으로 맞혔어!{Wait for input}	{emote: Anger}그럼 {pause 16}계속해서 3번째 간다!	이번에 틀리면{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 넘겨야 해{pause 32}	{emote: Curious}어느 쪽으로 할래? {pause 8}{catchphrase}?{Player can respond (0000):0012-0000-0012-0000}	왼쪽 카드	오른쪽 카드
+"018"	{0009-0002-0008-0013-0014-0014-0014}
+"019"	좋아{pause 8}・{pause 8}・{pause 8}・{pause 8} 이거 말이지?{Wait for input}	{emote: Anger}그럼 3번째는 뭐인지{pause 16}	어디 한번 볼까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}맞혔다!{pause 32}	{emote: Sunny}하트 A야!
+"020"	좋아{pause 8}・{pause 8}・{pause 8}・{pause 8} 이거 말이지?{Wait for input}	{emote: Anger}그럼 3번째는 뭐인지{pause 16}	어디 한번 볼까? {pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}이럴 수가!{pause 32}	{emote: Cold Chill}조커야!
+"021"	{0009-0001-0006-0017-0018-0019}
+"022"	{0009-0001-0006-001a-001b-001c}
+"023"	{emote: Soft Smile}참고로 「하트 A」는{pause 16}	강한 애정운을 나타낸대
+"024"	{emote: Soft Smile}포기하지 말고{pause 16}	다음에 또 도전해봐! {pause 8}{catchphrase}!
+"025"	{emote: Sheepishness}이대로 {pause 8}물러서기는{pause 32} 싫지 않니?	{emote: Glare}당신의 도전을 기다리고 있을게
+"026"	참고로 「하트 A」는{pause 16}	강한 애정운을 나타낸대{Wait for input}{emote: Sheepishness}이제 당신의 연애운도{pause 16}	활짝 트일 것 같은데?	{pause 8}{catchphrase}?
+"027"	{emote: Soft Smile}연애면에 있어서도{pause 16}	에이스가 되길 바랄게!{pause 8}	{catchphrase}!
+"028"	{emote: Sheepishness}하트 A가 {pause 16}당신에게	행운을 가져다주지 않을까?	{pause 8}{catchphrase}?

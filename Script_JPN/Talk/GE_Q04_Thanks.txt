@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Soft Smile}
-"003"	{emote: Soft Smile}
-"004"	
-"005"	
-"006"	{emote: Sheepishness}
-"007"	{emote: Resigned}
-"008"	ふ～　{pause 10}
-"009"	{emote: Sheepishness}
-"010"	さぁて　{pause 8}
+"001"	{emote: Happiness}ってことで　{pause 8}サンキュー！{pause 20}	おかげで　{ruby (charSpan 1): よう}用がすんじゃった、{pause 10}{catchphrase}
+"002"	{emote: Soft Smile}{Player nickname (green)}{0005-000d-0000}、{pause 10}ありがとね！{Wait for input}	おかげで{pause 10}	いいカンジに　{pause 5}{ruby (charSpan 2): ようじ}用事が{ruby (charSpan 1): お}終わったよ
+"003"	{emote: Soft Smile}そういうわけで　{pause 8}どうもありがとね！{Wait for input}アタイのお{ruby (charSpan 1): ねが}願い{ruby (charSpan 1): き}聞いてくれて{pause 10}	ホント　{ruby (charSpan 1): たす}助かったよ～、{pause 10}{catchphrase}！
+"004"
+"005"
+"006"	{emote: Sheepishness}あのコ、{pause 10}{ruby (charSpan 2): ようじ}用事がすんだら{pause 10}	さっさと　{ruby (charSpan 1): かえ}帰っちゃったよ～{Wait for input}{emote: Surprise}そうそう、{pause 20}{Player nickname (green)}{0005-000d-0000}にも{pause 10}	{ruby (charSpan 1): かえ}帰られちゃう{ruby (charSpan 1): まえ}前に　{pause 8}わたしとかないと！{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日のお{ruby (charSpan 1): れい}礼だよ！{pause 20}	{0011-0003-0002-0000}、{pause 15}もらって～
+"007"	{emote: Resigned}これで　{pause 8}{ruby (charSpan 4): いっけんらくちゃく}一件落着っと！{Wait for input}	{emote: Reset}なんか　{pause 5}おまたせしちゃってゴメンね{pause 20}	{emote: Laughter}{Player nickname (green)}{0005-000d-0000}のこと、{pause 10}わすれてないよ{pause 10}{emote: Soft Smile}	{emote: Soft Smile}{ruby (charSpan 1): じつ}実は　{pause 10}お{ruby (charSpan 1): れい}礼をわたそうと{ruby (charSpan 1): おも}思ってたんだ～{Wait for input}	{emote: Glee}{0011-0003-0002-0000}、{pause 30}	アタイの　おすすめアイテムなの！
+"008"	ふ～　{pause 10}{emote: Sunny}{ruby (charSpan 1): お}終わった！{pause 20}	{emote: Happiness}{ruby (charSpan 2): てつだ}手伝ってくれてありがとね、{pause 15}{catchphrase}{Wait for input}そんな　{Player nickname (green)}{0005-000d-0000}には、{pause 15}	アタイから　{pause 5}お{ruby (charSpan 1): れい}礼の{pause 10}	{0011-0003-0002-0000}を　{pause 3}わたすよ！
+"009"	{emote: Sheepishness}ヤダー！{pause 20}	あのコったら　もう{ruby (charSpan 1): かえ}帰っちゃったよ～！{Wait for input}{emote: Resigned}これから　パーティータイムって{pause 8}	カンジだったのに～！{Wait for input}{emote: Surprise}そうそう、{pause 10}それはおいといて{pause 15}	{Player nickname (green)}{0005-000d-0000}に{pause 10}	お{ruby (charSpan 1): れい}礼をわたそうと{ruby (charSpan 1): おも}思ってたんだ！	{emote: Soft Smile}イケてるプレゼントだよ{pause 8}・{pause 8}・{pause 8}・{pause 8}って{pause 3}	{emote: Alarmed}あれ？{pause 20}　{ruby (charSpan 2): にもつ}荷物いっぱいじゃ～ん！{Wait for input}	{emote: Happiness}じゃあ　{pause 10}{ruby (charSpan 2): てがみ}手紙といっしょに{ruby (charSpan 1): おく}送っとくね
+"010"	さぁて　{pause 8}{ruby (charSpan 2): ようじ}用事もすんだことだし{pause 10}	これで　ゆっくりできる～！{Wait for input}	{Player nickname (green)}{0005-000d-0000}の　おかげだよ{emote: Reset}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あれ？{Wait for input}{emote: Distress}せっかく	スペシャルサンクス　プレゼントがあるのに{pause 10}	{ruby (charSpan 2): にもつ}荷物いっぱいじゃ～ん！	{emote: Happiness}じゃあ　これは{pause 10}	{ruby (charSpan 1): あと}後で　おうちに{ruby (charSpan 1): おく}送っとくよ、{pause 15}{catchphrase}

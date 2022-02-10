@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{Gray}	{emote: Alarmed}
-"003"	ふぅ～～{pause 40}
-"004"	{emote: Curious}
-"005"	あぁ～！{pause 20}
-"006"	{emote: Curious}
+"001"	{emote: Happiness}それじゃあ{pause 20}	そろそろボク　{ruby (charSpan 1): かえ}帰るよぉ～{Wait for input}{ruby (charSpan 2): きょう}今日は　ありがとぉ～{pause 40}	{emote: Sunny}また　おへやチェック	しにくるからねぇ～？
+"002"	{Gray}	{emote: Alarmed}{0007-000b-0000}ぐぅ～～{pause 8}・{pause 8}・{pause 8}・{Color Reset}{Wait for input}あぁ！{pause 20}	はら{ruby (charSpan 2): どけい}時計が{ruby (charSpan 1): な}鳴ってるし、{pause 20}	そろそろ　{ruby (charSpan 1): かえ}帰る{ruby (charSpan 2): じかん}時間だぁ～{Wait for input}{emote: Happiness}またねぇ　{Player nickname (green)}{0005-000d-0000}{pause 20}	{ruby (charSpan 2): きょう}今日は　ありがとぉ、{pause 8}{catchphrase}
+"003"	ふぅ～～{pause 40}	{emote: Happiness}キミのおへやも　{ruby (charSpan 2): じゅうぶん}十分{ruby (charSpan 1): み}見れたし、{pause 20}	ボク　そろそろ{ruby (charSpan 1): かえ}帰ろ～かな、{pause 8}{catchphrase}{Wait for input}{emote: Greetings}バイバ～イ！
+"004"	{emote: Curious}あれぇ～？{pause 20}	どこか　おでかけぇ？{Wait for input}{emote: Happiness}それなら　ボクも	おうちに{ruby (charSpan 1): かえ}帰るよぉ～{Wait for input}{ruby (charSpan 2): きょう}今日は　ありがとぉ	{Player nickname (green)}{0005-000d-0000}
+"005"	あぁ～！{pause 20}	どこかに　でかけるのぉ？{Wait for input}{emote: Happiness}それなら　ボクも	{ruby (charSpan 1): かえ}帰ろ～っと！{pause 40}	じゃあね、{pause 8}{Player nickname (green)}{0005-000d-0000}
+"006"	{emote: Curious}あれぇ～？{pause 20}	どこか{ruby (charSpan 1): い}行くのぉ？　{pause 8}{catchphrase}？{Wait for input}{emote: Happiness}おでかけなら	ボクもいっしょに　{ruby (charSpan 1): で}出るよぉ～{pause 40}	{ruby (charSpan 2): きょう}今日は　ありがとねぇ～

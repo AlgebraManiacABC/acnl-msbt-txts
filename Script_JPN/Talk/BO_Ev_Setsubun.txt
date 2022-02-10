@@ -1,23 +1,23 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Shocked}
-"003"	{emote: Surprise}
-"004"	オニは～{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Sigh}
-"007"	{emote: Curious}
-"008"	{emote: Distress}
-"009"	{emote: Shocked}
-"010"	{emote: Surprise}
-"011"	{emote: Daydreaming}
-"012"	{emote: Happiness}
-"013"	{emote: Thought}
-"014"	{emote: Alarmed}
-"015"	{Player nickname (green)}
-"016"	{emote: Shyness}
-"017"	{emote: Happiness}
-"018"	{emote: Alarmed}
-"019"	{emote: Curious}
-"020"	{emote: Anger}
-"021"	{emote: Distress}
-"022"	{emote: Worry}
+"001"	{emote: Alarmed}{0007-000a-0000}わぁ～！{pause 20}	お、{pause 20}オニだぁ～！
+"002"	{emote: Shocked}{0007-000b-0000}うわぁ～！{pause 20}	オニだぁ～！{pause 20}	{emote: Fearful}{ruby (charSpan 1): かお}顔が　こわすぎるよぉ～、{pause 8}{catchphrase}{pause 20}{emote: Worry}
+"003"	{emote: Surprise}{0007-000b-0000}あぁ～！{pause 20}	オニって　ホントに	いるんだねぇ、{pause 8}{catchphrase}
+"004"	オニは～{pause 20}そと！{pause 20}	フクは～{pause 20}うち！
+"005"	{emote: Happiness}えへへ～{pause 20}	やっぱり　せつぶんは	{ruby (charSpan 1): まめ}豆まきだよねぇ～{Wait for input}{emote: Worry}いたくなかった？{pause 20}	ごめんねぇ、{pause 8}{catchphrase}
+"006"	{emote: Sigh}はぁ～{pause 20}	これで　オニたいじ	できたかなぁ？　{pause 8}{catchphrase}？
+"007"	{emote: Curious}あれ？{pause 20}	きいてない？{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Laughter}そんなわけ　ないよねぇ！{pause 20}{emote: Happiness}
+"008"	{emote: Distress}{0007-000b-0000}わぁ～！{pause 20}　オニだぁ～！{pause 20}	しかも　オニが　お{ruby (charSpan 1): まめ}豆もってる～！{Wait for input}まくか　まかれるか	どっちかにしてよぉ～！
+"009"	{emote: Shocked}{0007-000b-0000}わぁ～！{pause 20}	オニが　お{ruby (charSpan 1): まめ}豆もってる～！{Wait for input}{emote: Distress}コレじゃあ　だれも	かてないよぉ、{pause 8}{catchphrase}
+"010"	{emote: Surprise}あぁ！{pause 20}　オニさん{ruby (charSpan 1): き}来たねぇ？{pause 40}	{emote: Anger}ボクのお{ruby (charSpan 1): まめ}豆で　おいはらって{pause 8}・{pause 8}・{pause 8}・{Wait for input}って、{pause 20}{emote: Curious}あれ？{pause 40}	キミも　お{ruby (charSpan 1): まめ}豆をもってるのぉ？{Wait for input}{emote: Sorrow}うわぁ～ん！{pause 20}	ぜったい　かなわないよぉ、{pause 8}{catchphrase}
+"011"	{emote: Daydreaming}あぁ～{pause 20}	お{ruby (charSpan 1): まめ}豆を　たくさん{ruby (charSpan 1): た}食べたいなぁ～
+"012"	{emote: Happiness}せっかくの　せつぶんなんだし、{pause 20}	お{ruby (charSpan 1): まめ}豆をまいて	オニたいじが　したいよねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Worry}ちょっぴり　コワイけど{pause 8}・{pause 8}・{pause 8}・
+"013"	{emote: Thought}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): きょう}今日って　ホントに	オニさんが　{ruby (charSpan 1): く}来るのかなぁ？
+"014"	{emote: Alarmed}{Player nickname (green)}{0005-000d-0000}、	お{ruby (charSpan 1): まめ}豆もってるねぇ！{pause 40}	{emote: Happiness}{ruby (charSpan 1): た}食べられるのは　{ruby (charSpan 1): とし}年の{ruby (charSpan 1): かず}数だけだよぉ？
+"015"	{Player nickname (green)}{0005-000d-0000}{pause 20}　そのお{ruby (charSpan 1): まめ}豆{pause 20}	{emote: Curious}ボクにむかって　なげてくれない～？{Wait for input}{emote: Love}ボクが　{ruby (charSpan 1): くち}口で	うけ{ruby (charSpan 1): と}止めるからさぁ、{pause 8}{catchphrase}
+"016"	{emote: Shyness}いいなぁ～{pause 20}　そのお{ruby (charSpan 1): まめ}豆！{pause 20}	うす{ruby (charSpan 1): あじ}味だけど　おいしいんだよねぇ～{Wait for input}{emote: Happiness}なげるのなんて	もったいないよぉ、{pause 8}{catchphrase}
+"017"	{emote: Happiness}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): ふたり}二人とも　お{ruby (charSpan 1): まめ}豆のじゅんびは	バッチリだねぇ！{Wait for input}{emote: Pride}あとは　オニさんが{ruby (charSpan 1): く}来るのを	まつだけかぁ、{pause 8}{catchphrase}
+"018"	{emote: Alarmed}あぁ～！{pause 20}	{Player nickname (green)}{0005-000d-0000}、{pause 40}	{emote: Happiness}お{ruby (charSpan 1): まめ}豆のじゅんびは　バッチリだねぇ？{Wait for input}{emote: Thought}あとは　オニさんがいれば	カンペキなんだけどなぁ、{pause 8}{catchphrase}
+"019"	{emote: Curious}そのお{ruby (charSpan 1): まめ}豆は　なげる{ruby (charSpan 1): よう}用？{pause 20}	それとも　{ruby (charSpan 1): た}食べる{ruby (charSpan 1): よう}用？{Wait for input}{emote: Glee}ボクのは　もちろん	{ruby (charSpan 1): た}食べる{ruby (charSpan 1): よう}用だよぉ～！
+"020"	{emote: Anger}オニは～そと！{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Cold Chill}あれ？{pause 60}	お{ruby (charSpan 1): まめ}豆{pause 8}　どこやったっけぇ、{pause 8}{catchphrase}
+"021"	{emote: Distress}ボクの　おへやに{ruby (charSpan 1): はい}入るなら{pause 20}	コワイ{ruby (charSpan 1): かお}顔は　きんしだよぉ、{pause 8}{catchphrase}
+"022"	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 20}キミ、{pause 40}	みんなに　お{ruby (charSpan 1): まめ}豆なげられて	ちょっと　かわいそう{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Shyness}ボクの　おうちで{pause 20}	ゆっくりしても　いいよぉ？　{pause 8}{catchphrase}？

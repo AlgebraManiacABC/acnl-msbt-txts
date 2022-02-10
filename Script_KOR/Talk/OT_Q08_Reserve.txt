@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Sunny}
-"002"	{emote: Sunny}
-"003"	{pause 8}
-"004"	{emote: Alarmed}
-"005"	{emote: Anger}
-"006"	{emote: Soft Smile}
-"007"	{emote: Soft Smile}
-"008"	{emote: Sheepishness}
+"001"	{emote: Sunny}진짜?! {pause 32}{emote: Soft Smile}그럼 말 나온 김에{pause 16}	약속 시간을 정할까?{pause 8}	{catchphrase}?	{emote: Reset}난 오늘 {pause 16}{Blue}{0004-0010-0002-cd00}{Color Reset}{Blue}시{Color Reset} 이후면	아무 때나 괜찮아!{Wait for input}{Player nickname (green)} 당신은	{emote: Curious}언제가 편해?
+"002"	{emote: Sunny}우와～! {pause 32}{emote: Soft Smile}그럼 당장{pause 16}	약속 시간을 정할까?{pause 8}	{pause 8}{catchphrase}?	{emote: Reset}난 오늘 {pause 16}{Blue}{0004-0010-0002-cd00}{Color Reset}{Blue}시 반{Color Reset} 이후면	아무 때나 괜찮아!{Wait for input}{Player nickname (green)} 당신은{pause 8}	{emote: Curious}언제가 좋아?
+"003"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}앗!{pause 16}	벌써 {Hour}시잖아?{Wait for input}{emote: Worry}오늘은 시간이 좀 늦었네{pause 8}・{pause 8}・{pause 8}・{pause 8}	역시 다음에 볼까?{pause 8}	{Player nickname (green)}?
+"004"	{emote: Alarmed}어? {pause 16}그만두기로 한 거야?{pause 32}	{emote: Soft Smile}당신 변덕쟁이구나～{Wait for input}그럼 다음에{pause 16}	불러줘, {Player nickname (green)}
+"005"	{emote: Anger}그렇게 급하게?{pause 8}	{Player nickname (green)}～	{emote: Worry}여자는 준비에 시간이 걸린다구{pause 8}・{pause 8}・{pause 8}・{pause 32}	그런 점도 좀 참고해서{pause 16}	다시 생각해 보는 게 어때?
+"006"	{emote: Soft Smile}좋아! {pause 16}	그럼 {Blue}{Blue}{0005-0019-0002-cd01} {Blue}{0004-0010-0002-cd01}{Color Reset}{Blue}시{Color Reset}로 알고{pause 16}	그때쯤 갈게～!
+"007"	{emote: Soft Smile}알았어! {pause 16}그럼{pause 8}	{Blue}{0005-0019-0002-cd01} {0004-0010-0002-cd01}시 {0004-0011-0002-cd02}분{Color Reset}으로 알고{pause 16}	시간 맞춰 갈게～!
+"008"	{emote: Sheepishness}그 시간에는{pause 20}	나도 자야 할 거 같은데, {pause 8}{catchphrase}{Wait for input}{emote: Worry}늦게 놀면 피부에 안 좋으니까{pause 20}	좀 이른 시간으로 해주지 않을래?{pause 20}	{Player nickname (green)}?

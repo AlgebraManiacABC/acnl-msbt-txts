@@ -1,6 +1,6 @@
 == 0 ==
-"001"	はじめましてぇ～{pause 20}
-"002"	{emote: Sleepy}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Glare}
+"001"	はじめましてぇ～{pause 20}	ほかの{ruby (charSpan 1): むら}村から　あそびに{ruby (charSpan 1): き}来てくれたのぉ？{Wait for input}{emote: Happiness}ここは　{Town name (pink)}{ruby (charSpan 1): むら}村！{pause 40}	ゆっくり　たっぷり	あそんで{ruby (charSpan 1): い}行ってねぇ、{pause 8}{catchphrase}
+"002"	{emote: Sleepy}ふぁぁ～{pause 8}・{pause 8}・{pause 8}・{pause 60}　あれぇ？{pause 20}	キミって　どうやって	ここに{ruby (charSpan 1): き}来たのぉ？　{pause 8}{catchphrase}？
+"003"	{emote: Happiness}この　{Town name (pink)}{ruby (charSpan 1): むら}村は	ユメみたいに　{ruby (charSpan 1): たの}楽しい{ruby (charSpan 1): むら}村だよぉ～{pause 40}	ゆっくり　していってねぇ、{pause 8}{catchphrase}
+"004"	{emote: Happiness}やっほぉ～{pause 20}	もしかして　おきゃくさんかなぁ？{Wait for input}{emote: Joy}{ruby (charSpan 1): き}来てくれて　ありがとぉ！{pause 40}	ユメのような{ruby (charSpan 2): じかん}時間を	まんきつしてねぇ、{pause 8}{catchphrase}
+"005"	{emote: Glare}キミの{ruby (charSpan 1): むら}村と　この{ruby (charSpan 1): むら}村、	どっちが　かっこいいかなぁ？{pause 40}	くらべてみてねぇ、{pause 8}{catchphrase}

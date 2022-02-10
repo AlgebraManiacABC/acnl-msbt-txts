@@ -1,15 +1,15 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Anger}
-"003"	ねぇ、{pause 20}
-"004"	{emote: Sadness}
-"005"	{emote: Glee}
-"006"	{0000-0002-0002-64-00}{emote: Happiness}
-"007"	{emote: Laughter}
-"008"	{emote: Happiness}
-"009"	{emote: Worry}
-"010"	{emote: Glee}
-"011"	{emote: Happiness}
-"012"	{emote: Shocked}
-"013"	{emote: Glee}
-"014"	{emote: Sheepishness}
+"001"	{emote: Alarmed}{0007-000a-0000}あぁ～！{pause 20}　{Player nickname (green)}{0005-000d-0000}！{pause 40}	{0011-0003-0002-0000}を	どうして　もってるのぉ～？{Wait for input}{emote: Distress}ボク　ずぅ～っと	ほしかったんだよぉ！{Wait for input}おねがい～！{pause 20}	ボクの　{0011-0003-0002-0001}と	こうかんしてぇ～{Player can respond (0005):0005-0015-0004-0028}	いいよ！	やだよ
+"002"	{emote: Anger}ん？！{pause 20}	このニオイ{pause 8}・{pause 8}・{pause 8}・{Wait for input}キミ　{0011-0003-0002-0000}を	もっているなぁ～？！{Player can respond (0005):0007-0000-0008-0028}	なんでわかったの？	{ruby (charSpan 1): も}持ってないよ
+"003"	ねぇ、{pause 20}{Player nickname (green)}{0005-000d-0000}！{pause 20}	{emote: Curious}「トレード」{pause 20}って{ruby (charSpan 1): し}知ってるぅ～？{Wait for input}{emote: Thought}{ruby (charSpan 2): ひとり}一人が　{ruby (charSpan 1): なに}何かをあげて、{pause 20}	もう{ruby (charSpan 2): ひとり}一人が　そのおかえしに	{ruby (charSpan 1): なに}何かをあげる{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}ただの　こうかん　なんだけど、{pause 20}	トレードって{ruby (charSpan 1): い}言うと	なんか　かっこいいよねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Glare}ボクの　{0011-0003-0002-0001}と{pause 8}	キミの　{0011-0003-0002-0000}、{pause 20}	よかったら、トレードしようよぉ～{Player can respond (0005):000d-0015-000c-0028}	トレードする！	{ruby (charSpan 2): きょうみ}興味ない
+"004"	{emote: Sadness}そっかぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	それなら　あきらめるよぉ、{pause 8}{catchphrase}
+"005"	{emote: Glee}わぁ～！{pause 20}	ホントに　いいのぉ～？！{pause 40}	それじゃあ　こうかぁ～ん
+"006"	{Text size 100%}{emote: Happiness}えへへ～{pause 20}	ありがとぉ、{Text size 100%}{pause 8}{catchphrase}
+"007"	{emote: Laughter}ボクのはなを	あまく{ruby (charSpan 1): み}見ないでよねぇ{pause 40}	ずっと　ほしかったんだぁ～{pause 20}{emote: Happiness}{Wait for input}それ{pause 8}　ボクの　{0011-0003-0002-0001}と	こうかんしてよぉ～！{Player can respond (0005):000a-0015-0009-0028}	オッケ～	ごめんだね
+"008"	{emote: Happiness}きっと　もってるのに	わすれてるんだよ～{pause 20}	ボクには　わかっちゃうんだからねぇ～{Wait for input}それ{pause 20}　ボクの　{0011-0003-0002-0001}と	こうかん　してくれない～？{Player can respond (0005):000a-0015-0009-0028}	いいよ	イヤだよ
+"009"	{emote: Worry}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	イヤならしょうがないかぁ～{Wait for input}{Player nickname (green)}{0005-000d-0000}にとって、	ゆずれないもの　なんだねぇ～
+"010"	{emote: Glee}やったぁ～！{pause 20}	それじゃ　さっそく～
+"011"	{emote: Happiness}えへへ～{pause 20}	ありがとねぇ、{pause 8}{catchphrase}
+"012"	{emote: Shocked}えぇ～？！{pause 20}	{emote: Distress}こんなに　かっこいいのに、	きょうみが　ないなんてぇ～{Wait for input}{emote: Resigned}{Player nickname (green)}{0005-000d-0000}って	かわってるなぁ、{pause 8}{catchphrase}
+"013"	{emote: Glee}わぁ～い！{pause 20}	それじゃあ　かっこよく、	トレード　しよ～！
+"014"	{emote: Sheepishness}トレード{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): おも}思ったより　ふつうだったね{Wait for input}	{emote: Happiness}でも{pause 20}　またやろうね、{pause 8}{catchphrase}

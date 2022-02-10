@@ -1,10 +1,10 @@
 == 0 ==
-"001"	へへ{pause 8}
-"002"	ありがとね！{pause 40}!
-"003"	ああ{pause 8}
-"004"	{0007-000a-0000}
-"005"	{0007-000a-0000}
-"006"	{emote: Sigh}
-"007"	{0007-000a-0000}
-"008"	{0007-000a-0000}
-"009"	{0007-000a-0000}
+"001"	へへ{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 3): だいじょうぶ}大丈夫！{pause 40}	{emote: Resigned}こんなもん　{ruby (charSpan 2): ひとばん}一晩{ruby (charSpan 1): ね}寝りゃ	{ruby (charSpan 1): なお}治るって！　{pause 20}{catchphrase}！
+"002"	ありがとね！{pause 40}	{emote: Agreement}まぁ、ひどいようなら	{Blue}くすり{Color Reset}でも　{ruby (charSpan 1): の}飲んでみるよ！　{pause 20}{catchphrase}！
+"003"	ああ{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Agreement}アンタも	カゼには　{ruby (charSpan 1): き}気をつけなよ！　{pause 20}{catchphrase}！
+"004"	{0007-000a-0000}{emote: Sneezing}へくちん！{pause 40}	{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Worry}{ruby (charSpan 2): しんぱい}心配かけるね、{pause 20}{catchphrase}
+"005"	{0007-000a-0000}{emote: Sneezing}ゲホゲホ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Worry}どっかのタイミングで	{Blue}くすり{Color Reset}　{ruby (charSpan 1): の}飲んどくわ{pause 8}・{pause 8}・{pause 8}・{pause 20}{catchphrase}
+"006"	{emote: Sigh}うん{pause 8}・{pause 8}・{pause 8}・{pause 20}	とりあえず　じっとしとく、{pause 20}{catchphrase}
+"007"	{0007-000a-0000}{emote: Sneezing}ゴホゴホ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Fearful}{pause 20}く、{Blue}くすり{Color Reset}・{pause 10}・{pause 10}・{pause 10}{catchphrase}！
+"008"	{0007-000a-0000}{emote: Sneezing}ゲホゲホ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Fearful}{pause 20}{ruby (charSpan 1): らく}楽になりたい{pause 8}・{pause 8}・{pause 8}・
+"009"	{0007-000a-0000}{emote: Sneezing}ゴホゴホゴホ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Fearful}{pause 20}も、{pause 8}{ruby (charSpan 2): むり}無理{pause 8}・{pause 8}・{pause 8}・

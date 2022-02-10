@@ -1,66 +1,66 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Glee}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Worry}
-"008"	{emote: Greetings}
-"009"	{emote: Sunny}
-"010"	{emote: Flourish}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Happiness}
-"013"	에헤헤～{pause 20}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	에헤헤～{pause 20}
-"016"	에헤헤～{pause 20}
-"017"	{emote: Reset}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	복숭아란 말이지이～?{Wait for input}
-"020"	복숭아란 말이지이～?{Wait for input}
-"021"	{0009-0000-0004-16-00-17-00}
-"022"	사과란 말이지이～?{Wait for input}
-"023"	사과란 말이지이～?{Wait for input}
-"024"	{emote: Reset}
-"025"	{0009-0000-0004-1a-00-1b-00}
-"026"	복숭아란 말이지이～?{Wait for input}
-"027"	복숭아란 말이지이～?{Wait for input}
-"028"	{0009-0000-0004-1d-00-1e-00}
-"029"	사과란 말이지이～?{Wait for input}
-"030"	사과란 말이지이～?{Wait for input}
-"031"	{emote: Anger}
-"032"	{0009-0000-0004-21-00-22-00}
-"033"	복숭아로 정한 거지이?{Wait for input}
-"034"	복숭아로 정한 거지이?{Wait for input}
-"035"	{0009-0000-0004-24-00-25-00}
-"036"	사과로 정한 거지이?{Wait for input}
-"037"	사과로 정한 거지이?{Wait for input}
-"038"	{emote: Happiness}
-"039"	{0009-0000-0004-28-00-29-00}
-"040"	복숭아로 결정한 거 맞지이～?{Wait for input}!
-"041"	복숭아로 결정한 거 맞지이～?{Wait for input}!
-"042"	{0009-0000-0004-2b-00-2c-00}
-"043"	사과로 결정한 거 맞지이?{Wait for input}
-"044"	사과로 결정한 거 맞지이?{Wait for input}
-"045"	{emote: Happiness}
-"046"	{0009-0000-0004-2f-00-30-00}
-"047"	복숭아로 결정한 거 맞지이～?{Wait for input}!
-"048"	복숭아로 결정한 거 맞지이～?{Wait for input}!
-"049"	{0009-0000-0004-32-00-33-00}
-"050"	사과로 결정한 거 맞지이～?{Wait for input}
-"051"	사과로 결정한 거 맞지이～?{Wait for input}
-"052"	{emote: Happiness}
-"053"	{0009-0006-0010-36-00-36-00-36-00-36-00-36-00-36-00-36-00-37-00}
-"054"	복숭아란 말이지이?{Wait for input}
-"055"	복숭아란 말이지이?{Wait for input}
-"056"	{0009-0006-0010-39-00-39-00-39-00-39-00-39-00-39-00-39-00-3a-00}
-"057"	사과란 말이지이～?{Wait for input}
-"058"	사과란 말이지이～?{Wait for input}
-"059"	{0009-0002-0008-04-00-05-00-05-00-05-00}
-"060"	
-"061"	{emote: Love}
-"062"	{emote: Worry}
-"063"	{emote: Happiness}
-"064"	{emote: Happiness}
-"065"	{emote: Happiness}
+"001"	{emote: Happiness}야아～ 너 나랑{pause 20}	「어느 것을 먹었을까요 게임」 안 할래～?{Wait for input}{emote: Glee}게임에서 이기면	내 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 20}	무지무지 싸게 사 갈 수 있어～{Wait for input}{emote: Surprise}{0007-000a-0000}그리고!{pause 40}	{emote: Happiness}모든 문제를 다 맞히면{pause 20}	공짜로 선물해줄게～{Wait for input}그치만 {pause 20}만약에 지면{pause 20}	내가 맘대로 정한 가격에{pause 8}	물건을 사 가야 돼～{Wait for input}{0007-000d-0000}{emote: Curious}어때～?{pause 20}	너의 운을 시험해보지 않을래～?!{Player can respond (0005):0008-0015-0002-0028}	해볼게!	지금은 안 할래!
+"002"	{emote: Worry}그래～?{pause 20}	에이～ 아쉽다아, {pause 8}{catchphrase}
+"003"	{emote: Glee}정말 대단하다아!{pause 20}	설마 전～부 	맞힐 줄은 몰랐어～{Wait for input}{emote: Happiness}그럼 약속대로{pause 20}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	공짜로 줄게～!
+"004"	{emote: Happiness}그럼 {pause 20}	두 번{pause 20} 맞혔으니까{Wait for input}{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	{Blue}{Number (0x9)}벨{Color Reset}에 팔겠어～!{Wait for input}{emote: Glee}내가 인심 좀 썼다아～{pause 20}	진짜 싸지～?
+"005"	{emote: Happiness}두 번 맞혔네에～{Wait for input}약속했던 {0011-0003-0002-0000}{000e-000e-0008-0002-c740-0002-b294}{pause 20}	저렴한 가격,	{Blue}{Number (0x9)}벨{Color Reset}에 팔게～
+"006"	{emote: Happiness}한 번 맞혔으니까{pause 20}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	{Blue}{Number (0x9)}벨{Color Reset}에 팔게～
+"007"	{emote: Worry}아쉽지만{pause 8}・{pause 8}・{pause 8}・{Wait for input}{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 20}	살짝 비싼 {Blue}{Number (0x9)}벨{Color Reset}에	사 가야겠어～ {pause 8}{catchphrase}
+"008"	{emote: Greetings}앗싸아～!{pause 40}	규칙은 이미 알고 있니이～?{Player can respond (0000):0009-0000-000a-0000}	설명해줘	물론이지
+"009"	{emote: Sunny}오케이～{pause 20}	그럼 규칙을 설명할게～!{Wait for input}{emote: Reset}내가 {pause 8}사과나 복숭아 중 하나를{pause 20}	너한테 안 보이게 하고{pause 20}	{0007-000b-0000}냠!{pause 20} 하고 한 입 베어 물 테니까{Wait for input}{emote: Happiness}내가 어떤 과일을{pause 20}	먹었는지 맞혀봐아～!{Wait for input}정답을 맞히면	니가 이기는 거야아!{Wait for input}{emote: Glee}이걸 세 번 반복할 건데～{Wait for input}	만약에 너가 세 번 다 맞히면{pause 20}	공짜로 {pause 8}가구를 선물할게에!
+"010"	{emote: Flourish}좋았어～!{pause 20}	그럼 첫 번째!{Wait for input}{emote: Reset}어느 것을 먹을까아{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Mischief}우후훗～ {pause 40}{0007-000c-0000}냠!{Wait for input}{emote: Agreement}우물우물{pause 8}・{pause 8}・{pause 8}・{pause 20}	과연 {pause 20}내가 어느 것을	먹었을까～요!{Player can respond (0000):000b-0000-000e-0000}	복숭아!	사과!
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Happiness}에헤헤～{pause 20}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}짜잔～!{pause 20}	너의 예상대로 복숭아였어～!{pause 40}{emote: Happiness}{Wait for input}{emote: Delight}축하해!{pause 20}	잘 맞혔어～{pause 40}{emote: Happiness}{Wait for input}{emote: Sunny}좋아～! {pause 20}그럼 다음으로 갈까～?
+"013"	에헤헤～{pause 20}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}미안～{pause 20}	사과였어～{Wait for input}{emote: Happiness}그치만 아직 한 번밖에 안 했잖아～{pause 20}	지금 건 잊어버리고	다음 판으로 고고～!
+"014"	{0009-0000-0004-000f-0010}
+"015"	에헤헤～{pause 20}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}짜잔～!{pause 20}	너의 예상대로 사과였어～!{pause 40}{emote: Happiness}{Wait for input}{emote: Delight}축하해～!{pause 20}	잘 맞혔어～{pause 20}{Wait for input}{emote: Sunny}으쌰아～{pause 20}	잘하고 있어～	다음 문제도 잘 맞혀봐～!
+"016"	에헤헤～{pause 20}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}미안～{pause 8}	복숭아였어～{Wait for input}{emote: Sunny}그치만 아직 한 번밖에 안 했잖아～{pause 20}	지금 건 잊어버리고	다음 판에 더 열심히 해～!
+"017"	{emote: Reset}그럼 두 번째!{pause 20}	연속으로 정답을 맞힐 수 있을까아?{Wait for input}{emote: Mischief}에잇～ {pause 40}{0007-000c-0000}냠냠!{Wait for input}{emote: Agreement}우물우물{pause 8}・{pause 8}・{pause 8}・{pause 40}	이번엔 어느 것을	먹었을까～요!{Player can respond (0000):0012-0000-0015-0000}	복숭아!	사과지?
+"018"	{0009-0000-0004-0013-0014}
+"019"	복숭아란 말이지이～?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}짜잔～!{pause 20}	너의 예상대로 복숭아였어～!{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}다시 한 번 축하해～!{pause 20}	두 번 연속 정답이야아～
+"020"	복숭아란 말이지이～?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}틀렸어!{pause 20}	사과였다구우～{Wait for input}{emote: Worry}으으～{pause 8}・{pause 8}・{pause 8}・{pause 20}	왜 틀리고 그래～{Wait for input}{emote: Happiness}아자아자～!	다음엔 꼭 맞혀～
+"021"	{0009-0000-0004-0016-0017}
+"022"	사과란 말이지이～?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}맞았어～!{pause 8}	너의 예상대로 {pause 20}사과였다구우～!{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}다시 한 번 축하해～!{pause 20}	연속으로 맞혔네에～
+"023"	사과란 말이지이～?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Worry}미안～!{pause 20}	복숭아였어～!{Wait for input}{emote: Sunny}아자아자～!	다음엔 꼭 맞혀～
+"024"	{emote: Reset}그럼 두 번째!{pause 20}	이번엔 정답을 맞힐 수 있을까아?{Wait for input}{emote: Mischief}에잇～ {pause 40}{0007-000c-0000}냠냠!{Wait for input}{emote: Agreement}우물우물{pause 8}・{pause 8}・{pause 8}・{pause 40}	이번엔 어느 것을	먹었을까～요!{Player can respond (0000):0019-0000-001c-0000}	복숭아!	사과지?
+"025"	{0009-0000-0004-001a-001b}
+"026"	복숭아란 말이지이～?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}짜잔～!{pause 20}	너의 예상대로 복숭아였어!{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}에헤헤～	축하해～!{pause 20}	다음에도 잘 맞혀봐아～
+"027"	복숭아란 말이지이～?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}미안～!	사과였어～!{pause 40}	이를 어째～ 또 틀렸네에～
+"028"	{0009-0000-0004-001d-001e}
+"029"	사과란 말이지이～?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}딩동댕동～!{pause 20}	사과～!{pause 20}{Wait for input}{emote: Delight}축하해～!{pause 20}	흥미진진해지는데에?{pause 40}{emote: Happiness}
+"030"	사과란 말이지이～?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}미안～!	복숭아였어～!{pause 40}	아쉽다아～
+"031"	{emote: Anger}그럼 운명이 걸린 세 번째 문제!{pause 20}	과연 퍼펙트로 끝낼 수 있을까아～?{Wait for input}{emote: Mischief}좋았어～{pause 40}	이거다아～{pause 20} {0007-000c-0000}냠!{Wait for input}{emote: Agreement}우물우물{pause 8}・{pause 8}・{pause 8}・{pause 40}	이번엔 어느 것을	먹었을까～요!{Player can respond (0000):0020-0000-0023-0000}	복숭아!	사과～～!!
+"032"	{0009-0000-0004-0021-0022}
+"033"	복숭아로 정한 거지이?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Shocked}예, {pause 20}예상한 대로{pause 20}	복숭아야아～!{Wait for input}{emote: Delight}우와아～!!{pause 20}	대단해～!{pause 20}	다 맞혔어～!{pause 40}{emote: Happiness}
+"034"	복숭아로 정한 거지이?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Sadness}사과였어～{Wait for input}{emote: Distress}아～{pause 20} 이번에 맞혔다면	완벽했는데에～{pause 20}	{emote: Worry}진짜 아쉽다아～!
+"035"	{0009-0000-0004-0024-0025}
+"036"	사과로 정한 거지이?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Joy}짜잔～!{pause 20}	사과였어～!{pause 40}{emote: Happiness}{Wait for input}{emote: Delight}우와아～!{pause 20}	다 맞혔어～{pause 20}	축하해, {pause 8}{catchphrase}!!{pause 40}{emote: Happiness}
+"037"	사과로 정한 거지이?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Worry}우웅～{pause 20}	복숭아였어～!{Wait for input}{emote: Sadness}아쉽게 됐네～!{pause 20}	이번에 맞혔다면 완벽했는데에～
+"038"	{emote: Happiness}그럼 세 번째～!{pause 20}	아직 저렴하게 살 수 있는	기회는 남아 있다구우～{Wait for input}{emote: Mischief}좋았어～{pause 40}	이걸 먹어야겠다아!{pause 20} {0007-000c-0000}냠!{Wait for input}{emote: Agreement}우물우물{pause 8}・{pause 8}・{pause 8}・{pause 40}	이번엔 어느 것을	먹었을까～요!{Player can respond (0000):0027-0000-002a-0000}	복숭아!	사과!
+"039"	{0009-0000-0004-0028-0029}
+"040"	복숭아로 결정한 거 맞지이～?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}에헤헤～{pause 20}	복숭아～!{pause 40}{emote: Happiness}
+"041"	복숭아로 결정한 거 맞지이～?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sadness}미안～ 사과였어～{Wait for input}우웅～{pause 20}	아까 한 번 맞힌 게 다네～	아쉽다～ {pause 8}{catchphrase}
+"042"	{0009-0000-0004-002b-002c}
+"043"	사과로 결정한 거 맞지이?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}에헤헤～{pause 20}	사과～!{pause 40}{emote: Happiness}{Wait for input}{emote: Delight}잘 됐다아～{pause 20}	이걸로 두 번 맞혔네에!{pause 40}{emote: Happiness}
+"044"	사과로 결정한 거 맞지이?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Worry}우～웅	미안, 복숭아였어!{Wait for input}{emote: Sadness}아쉽게 됐다아～!{pause 20}	안타까운 결과네, {pause 8}{catchphrase}
+"045"	{emote: Happiness}세 번째 문제～!{pause 20}	아직 행운을 잡을 기회는	남아 있다구우!{Wait for input}{emote: Mischief}좋았어～ 간다아!{pause 40}	이걸 먹어야겠어～! {pause 20}{0007-000c-0000}냠!{Wait for input}{emote: Agreement}우물우물{pause 8}・{pause 8}・{pause 8}・{pause 40}	이번엔 어느 것을	먹었을까～요!{Player can respond (0000):002e-0000-0031-0000}	복숭아!	사과!
+"046"	{0009-0000-0004-002f-0030}
+"047"	복숭아로 결정한 거 맞지이～?{Wait for input}	{emote: Thought}정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}에헤헤～{pause 20}	복숭아 맞아～!{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}잘 됐다아～{pause 20}	아까도 맞혔으니까	이걸로 두 번 맞힌 거네에～
+"048"	복숭아로 결정한 거 맞지이～?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sadness}미안, 사과였어～{Wait for input}우웅～{pause 20}	아까 한 번 맞힌 게 다네에～{pause 20}	아쉽다아～ {pause 8}{catchphrase}
+"049"	{0009-0000-0004-0032-0033}
+"050"	사과로 결정한 거 맞지이～?{Wait for input}	{emote: Thought}정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}에헤헤～{pause 20}	사과 맞아～!{pause 40}	잘 맞혔어～ {pause 8}{catchphrase}{pause 40}{emote: Happiness}
+"051"	사과로 결정한 거 맞지이～?{Wait for input}	{emote: Thought}정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Worry}미안～{pause 20}	복숭아야아～!{Wait for input}{emote: Sadness}아쉽게 됐다아～!{pause 20}	안타까운 결과네, {pause 8}{catchphrase}
+"052"	{emote: Happiness}그럼 세 번째 문제～!{pause 20}	마지막을 멋지게	장식해보자구우～{Wait for input}으쌰아～ {pause 20}간다아～!{pause 40}	{emote: Mischief}이걸로 결정! {pause 20}{0007-000c-0000}냠!{Wait for input}{emote: Agreement}우물우물{pause 8}・{pause 8}・{pause 8}・{pause 40}	이번엔 어느 것을	먹었을까～요!{Player can respond (0000):0035-0000-0038-0000}	복숭아!	사과!
+"053"	{0009-0006-0010-0036-0036-0036-0036-0036-0036-0036-0037}
+"054"	복숭아란 말이지이?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}에헤헤～{pause 20}	복숭아 맞아～{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}진짜 잘 됐다아～{pause 20}	이대로 하나도 못 맞혔으면{pause 20}	아쉬워서 어쩔 뻔했어～
+"055"	복숭아란 말이지이?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sadness}미안, {pause 20}사과였어～{Wait for input}우웅～{pause 20}	설마 한 번도 못 맞힐 줄은{pause 20}	몰랐어～ {pause 8}{catchphrase}
+"056"	{0009-0006-0010-0039-0039-0039-0039-0039-0039-0039-003a}
+"057"	사과란 말이지이～?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}에헤헤～{pause 20}	사과야아!{pause 40}{emote: Happiness}{Wait for input}{emote: Delight}와아～!{pause 20} 다행이다아!{pause 20}	전부 틀리는 꼴은	면하게 됐어～ {pause 8}{catchphrase}{pause 40}{emote: Happiness}
+"058"	사과란 말이지이～?{Wait for input}	정답은～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}미안{pause 20}	복숭아였어～{Wait for input}안타깝다아～{pause 20}	한 번을 못 맞히다니{pause 8}・{pause 8}・{pause 8}・
+"059"	{0009-0002-0008-0004-0005-0005-0005}
+"060"
+"061"	{emote: Love}하아～{pause 20}	진짜 배부르다아～{pause 40}	{emote: Happiness}다음에 또 놀자, {pause 8}{catchphrase}
+"062"	{emote: Worry}배 터지겠어{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Happiness}너도 제법인데～?{pause 20}	다음에 또 놀자아～ {pause 8}{catchphrase}
+"063"	{emote: Happiness}우후훗{pause 8}・{pause 8}・{pause 8}・{pause 20}	이제 배부르다아～{Wait for input}{emote: Glee}무지무지 맛있었고{pause 20}	즐거웠어～ {pause 8}{catchphrase}
+"064"	{emote: Happiness}다음엔 {pause 20}	더 열심히 해봐아～
+"065"	{emote: Happiness}정말 재밌었어～!{pause 20}	다음에 또 같이 놀자아, {pause 8}{catchphrase}

@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Reset}
-"005"	{emote: Reset}
-"006"	{emote: Reset}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Alarmed}
-"010"	{emote: Alarmed}
-"011"	{emote: Surprise}
-"012"	{emote: Surprise}
-"013"	{emote: Surprise}
-"014"	{emote: Alarmed}
-"015"	{emote: Alarmed}
-"016"	{emote: Distress}
-"017"	{emote: Surprise}
-"018"	{emote: Surprise}
-"019"	{emote: Happiness}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Soft Smile}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
+"001"	{emote: Curious}엥?{pause 15} 너 뭔가 주운 거 아냐?{Wait for input}{emote: Reset}보여줘야{pause 8} 내 건지 아닌지{pause 15}	알 거 아냐!
+"002"	{emote: Alarmed}어라?{pause 15}	{emote: Reset}뭔가 주운 거 아니었어?{pause 20}	{emote: Anger}보여주지도 않고 뭘 어쩌라는 거야?!
+"003"	{emote: Alarmed}뭐 하냐?!{pause 15}	{emote: Reset}보여줄 마음 없어?{pause 20}	{emote: Anger}그럼 됐어, 나도 몰라!{pause 20} {catchphrase}!
+"004"	{emote: Reset}흠, {pause 8}이건 내 게 아니네
+"005"	{emote: Reset}난 이런 걸{pause 8}	떨어뜨린 적이 없어
+"006"	{emote: Reset}이건 내 게 아닌데{pause 8}・{pause 8}・{pause 8}・{pause 15}	다른 녀석한테 물어봐!
+"007"	{emote: Alarmed}앗!{pause 8} 이 책은{pause 8}	「{0005-001d-0002-0000}」	아냐?!	{emote: Agreement}어디 갔나 했더니{pause 8}	떨어뜨렸었구나ー!{Wait for input}{emote: Happiness}이건 {pause 8}할머니 유품이거든!{pause 20}	이야ー {pause 8}다행이다!!
+"008"	{emote: Alarmed}앗!{pause 15}	{emote: Joy}이건 틀림없이 내 책이야!{pause 20}	얼마 전부터 계속 찾고 있었다구!	{emote: Happiness}설마 떨어뜨렸을 줄이야!{pause 20}	이야ー {pause 8}찾아서 다행이다!
+"009"	{emote: Alarmed}앗!{pause 15}	안 그래도 이걸 찾고 있었는데!{pause 20}	{emote: Happiness}틀림없이 내 책 맞아!	이야ー {pause 8}정말 다행이다!
+"010"	{emote: Alarmed}앗!{pause 15}	이건 {pause 8}내 주머니야!{Wait for input}{emote: Agreement}어디에 갔나 했더니{pause 8}	떨어뜨렸었구나!{Wait for input}{emote: Happiness}내 소중한 탯줄이 들어 있다구{pause 15}	다행이다ー!{pause 20} {catchphrase}!
+"011"	{emote: Surprise}앗!{pause 15}	역시 떨어뜨렸었구나!{Wait for input}{emote: Happiness}이 주머니{pause 8}	내 거 맞아, 확실해!{pause 20}	이야ー {pause 8}찾아서 다행이다!
+"012"	{emote: Surprise}앗!!{pause 15}	니가 주워 온 거야?{Wait for input}{emote: Mischief}혹시 속을 들여다본 건 아니지?!{pause 15}	・{pause 8}・{pause 8}・{pause 8}{emote: Happiness}그렇군, {pause 8}그럼 오케이!{Wait for input}{emote: Agreement}훗, {pause 8}세상엔{pause 8} 모르는 게	약인 것도 {pause 8}있는 법이야!{Wait for input}{emote: Happiness}아무튼 이 주머니는{pause 8}	확실히 내 거 맞아!{pause 20}	휴ー {pause 8}죽다 살았네!
+"013"	{emote: Surprise}아!{pause 8} 이거 내 장갑인데!{pause 15}	{emote: Happiness}한 짝이 없어져서 찾고 있었거든!{pause 20}	이야ー {pause 8}다행이다!
+"014"	{emote: Alarmed}어?!{pause 15}	이 목장갑은 내 건데!{Wait for input}{emote: Reset}기찻길에{pause 8}	{emote: Curious}깔려 있었던 건가?{pause 20}	{emote: Reset}아, 아냐?	{emote: Happiness}그건 그렇고{pause 15}	찾게 돼서 정말 다행이구만!
+"015"	{emote: Alarmed}오호ー!{pause 15}	니가 찾았구나!{Wait for input}{emote: Distress}이 장갑은{pause 15}	엄마가 밤새어 가면서{pause 8}	직접 짜주신 거야!{Wait for input}{emote: Happiness}이야ー {pause 8}정말 다행이다!
+"016"	{emote: Distress}우아ー!{pause 8}	진짜 다행이다ー!{Wait for input}{emote: Reset}이거 내 거 맞아!{pause 20}	{emote: Worry}잃어버리고서 정말{pause 8}	발만 동동 구르고 있었어!	{emote: Happiness}진짜 {pause 8}다행이다!
+"017"	{emote: Surprise}앗!{pause 15}	{emote: Reset}이건 {pause 8}내 종이 가방이야!{pause 20}	얼마 전부터 계속 찾고 있었지!	{emote: Happiness}어딘가에 두고 왔었나 보네!{pause 20}	이야ー {pause 8}다행이다!
+"018"	{emote: Surprise}오호!{pause 15}	{emote: Reset}나도 계속 찾고 있었는데!{pause 20}	틀림없이 내 종이 가방이 맞아!	{emote: Happiness}봐봐, {pause 8}밑바닥에 사인펜으로{pause 15}	{Villager's name (orange)}{000e-000e-0006-0002-c774-0000}라고 쓰여 있지?{pause 20}	이야ー 다행이다!
+"019"	{emote: Happiness}바쁠 텐데 직접 갖다줘서{pause 8} 고마워!{Wait for input}당장 갖고 있는 게 이런 것밖에 없지만{pause 8}	보답으로 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	받아줘!{pause 20} {catchphrase}!
+"020"	{emote: Happiness}고마움의 표시로{pause 8}	이 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}	받아줘!{pause 20} {catchphrase}!
+"021"	{emote: Happiness}바쁠 텐데 직접 가져다 줘서{pause 8} 고마워!{Wait for input}사례라고 하긴 좀 그렇지만{pause 8}	이 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	받아줘!{pause 20} {catchphrase}!
+"022"	{emote: Soft Smile}다신 안 떨어뜨리도록{pause 8} 조심할게!
+"023"	{emote: Soft Smile}다신 안 떨어뜨리게{pause 8} 조심해야겠다!
+"024"	{emote: Soft Smile}니가 줍길{pause 8} 천만다행이다!

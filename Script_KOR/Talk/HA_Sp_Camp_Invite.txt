@@ -1,29 +1,29 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Disbelief}
-"003"	{emote: Alarmed}
-"004"	{emote: Inspired}
-"005"	{emote: Happiness}
-"006"	{emote: Alarmed}
-"007"	{emote: Distress}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Worry}
-"011"	{emote: Worry}
-"012"	{emote: Resigned}
-"013"	{emote: Greetings}
-"014"	{emote: Anger}
-"015"	{emote: Happiness}
-"016"	{emote: Worry}
-"017"	{emote: Laughter}
-"018"	{emote: Happiness}
-"019"	{emote: Bashful}
-"020"	{emote: Distress}
-"021"	{emote: Pride}
-"022"	{emote: Sadness}
-"023"	약속은 약속이니까{pause 8}
-"024"	{emote: Distress}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Alarmed}우왓?!{pause 20}	진짜 그래도 될까ー?!{Wait for input}{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Agreement}그럼 그러지, 뭐ー!{pause 40}	{emote: Pride}내가 이 마을 녀석들의{pause 20}	우상이 되겠어, {pause 8}{catchphrase}!{Wait for input}{emote: Happiness}헤헤헷!{pause 20}	이 마을을 세계 최고로	만들고 말겠다!
+"002"	{emote: Disbelief}{0007-000b-0000}헉! 진심이냐?!{pause 20}	진짜 그래도 괜찮겠어ー?{Wait for input}{emote: Happiness}그럼{pause 20} 나 진짜로 이사 온다!{pause 8}	취소하기 없음이야!{Wait for input}{emote: Pride}참! 난 {Villager's name (orange)}{000e-000e-0006-0002-c774-0000}라고 해!{Wait for input}	{emote: Happiness}니 이름은 {Player name}{000e-000e-0006-0002-c774-0000}지?{pause 40}	잘 부탁한다!{Wait for input}{emote: Agreement}좋았어ー!{pause 20}	집에 가자마자 곧바로	이삿짐을 싸기 시작해야지!
+"003"	{emote: Alarmed}오ー?!{pause 20}	그래도 돼ー?!{Wait for input}{emote: Happiness}니가 그렇게 말해준다면{pause 20}	나 진짜로 이 마을에	이사 올래, {pause 8}{catchphrase}!{Wait for input}{emote: Pride}내 이름은 {Villager's name (orange)}{000e-000e-0006-0002-c774-0000}다!{Wait for input}	{emote: Thought}넌{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}{Player name} 맞아?{Wait for input}{emote: Sunny}헤헤헷!{pause 20}	앞으로 잘 부탁한다!
+"004"	{emote: Inspired}{0007-000b-0000}우와ー!{pause 20} 진짜?{Wait for input}{emote: Worry}아아～{pause 20} 그렇지만{pause 40}	지금 사는 마을에도	정이 많이 들었는데ー!{Wait for input}{emote: Happiness}미안하다!{pause 20}	하지만 그렇게 말해준 건	조금 기뻤어!
+"005"	{emote: Happiness}그치?	그럼 진짜 재밌을 텐데ー{Wait for input}{emote: Worry}근데{pause 20} 지금 사는 마을의 녀석들이{pause 20}	내 트레이닝 코치를 못 받게 되면	엄청 섭섭해할 텐데{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}안 되겠다!{pause 8} 역시 이사는 힘들겠어!{pause 20}	미안해, {pause 8}{catchphrase}!
+"006"	{emote: Alarmed}지, 진심이냐?!{pause 20}	그렇게 말해주니 기분은 좋다{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}우웅～{pause 20} 하지만 미안해!{pause 20}	난 아직 그 마을에서	할 운동이 많이 남았어!{Wait for input}{emote: Happiness}아무튼 고맙다!	{pause 8}{catchphrase}!
+"007"	{emote: Distress}으아!{pause 20}	하지만 그렇게 간단히	정할 만한 일이 아니야!{Wait for input}{emote: Thought}뭔가 결정적인 계기가 있으면	더 좋겠는데{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Inspired}{0007-000b-0000}아,{pause 20} 좋은 생각이 있어!{pause 40}	게임으로 결정하면 어때ー?{Wait for input}{emote: Happiness}니가 이기면	내가 이 마을로 이사를 오고!{Wait for input}니가 지면 지금 갖고 있는	그 {Blue}{0011-0003-0002-0000}{Color Reset}{000e-000e-0008-0002-c744-0002-b97c}	기념품으로 나한테 주는 거야ー!{Player can respond (0005):0019-0015-000a-0028}	받아들이지!	그건 좀・・・
+"008"	{emote: Alarmed}오오ー!{pause 20}	반응 좋은데ー?!{Wait for input}{emote: Thought}아, 하지만{pause 20} 여전히	고민되는 건 어쩔 수 없다{Wait for input}{emote: Glare}그렇다면 스포츠맨답게{pause 20}	대결로 정하는 게 어떨까ー?{Wait for input}{emote: Laughter}하하핫!{pause 20}	대결이라고 거창하게 말했지만	그냥 간단한 게임이야!{pause 40}{emote: Soft Smile}{Wait for input}{emote: Anger}니가 이긴다면	내가 이 마을로 이사 올게!{Wait for input}{emote: Happiness}하지만 내가 이긴다면 너의	{Blue}{0011-0003-0002-0000}{Color Reset}{000e-000e-0008-0002-c740-0002-b294}	내 차지가 되는 거지ー!{Player can respond (0005):0019-0015-000b-0028}	좋아!	그건 싫은데・・・
+"009"	{emote: Happiness}오호ー!{pause 8}	지금 날 초청해주는 거냐ー?!{pause 40}	{emote: Bashful}사실{pause 20} 나는{pause 8} 그래도 되긴 한데{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Inspired}아, 그거야!{pause 20}	운명을 하늘에 맡기고{pause 8}	게임으로 결정하지 않을래ー?{Wait for input}{emote: Agreement}니가 이기면	내가 이 마을로 이사할게!{Wait for input}{emote: Happiness}하지만 만약 니가 지면{pause 20}	그 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}	기념품으로 나한테 줘야 해ー!{Player can respond (0005):0019-0015-000c-0028}	OK!	그건 곤란해・・・
+"010"	{emote: Worry}에이, 왜 그러냐ー!{pause 20}	김이 팍 새 버렸네ー
+"011"	{emote: Worry}칫!{pause 20}	재미있을 것 같은데ー!
+"012"	{emote: Resigned}피{pause 8}・{pause 8}・{pause 8}・{pause 20}	꽁지 내리고 도망치는 거냐,	{pause 8}{catchphrase}
+"013"	{emote: Greetings}나이스ー!{pause 20}	그럼 {Blue}가위바위보{Color Reset}로 결정하자!{0007-0012-0006-0100-001b-001a}
+"014"	{emote: Anger}좋았어ー!{pause 20}	그렇다면 {Blue}제스처 게임{Color Reset}으로	결판을 내자ー!{0007-0012-0006-0101-001b-001a}
+"015"	{emote: Happiness}대답 한번 끝내주네ー!{pause 20}	그렇다면 {Blue}참참참{Color Reset}으로 승부를 가르자ー!{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Worry}내가 게임을 잘해서 그런 거니까{pause 20}	너무 실망하지 말라구ー!{Wait for input}{emote: Happiness}물론 약속대로{pause 20}	{0011-0003-0002-0000}{000e-000e-0008-0002-c740-0002-b294}	가져가겠어, {pause 8}{catchphrase}!
+"017"	{emote: Laughter}하하핫!{pause 20}	내 예상대로군ー!{pause 40}{emote: Soft Smile}{Wait for input}{emote: Anger}그럼 약속한 대로{pause 20}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	받도록 하지ー!
+"018"	{emote: Happiness}약속은 약속이니까{pause 20}	{0011-0003-0002-0000}{000e-000e-0008-0002-c740-0002-b294}	받아 가도록 하마ー!
+"019"	{emote: Bashful}횡재한 기분이다!{pause 20}	고마워, {pause 8}{catchphrase}!
+"020"	{emote: Distress}딱히 집에 가져가서 쳐다보며{pause 20}	혼자 실실 웃을 생각은 없다구ー!{Wait for input}{emote: Reset}하지만{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Bashful}좋은 추억이 되긴 했어ー
+"021"	{emote: Pride}이건 나에게 있어서{pause 20}	추억의 우승컵과도 같은 존재야!{pause 40}	잘 간직할게, {pause 8}{catchphrase}!
+"022"	{emote: Sadness}이럴 수가{pause 8}・{pause 8}・{pause 8}・{pause 20}	내가 지다니{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}하는 수 없지, 뭐ー!{pause 20}	까짓거, 이사 오면 되잖아!{Wait for input}{emote: Surprise}그러고 보니{pause 20}	나 아직 니 이름도 모르는구나?{Wait for input}	{emote: Agreement}그래그래, {pause 20}{Player name}{000e-000e-0006-0002-c774-0000}로군!{Wait for input}{emote: Sunny}좋다, {Player name}!{pause 40}	앞으로 잘 지내보자!	{pause 8}{catchphrase}!
+"023"	약속은 약속이니까{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}곧 이 마을로	이사 오도록 할게!{Wait for input}{emote: Agreement}에헴!{pause 20} 그럼 정식으로 인사할게!{pause 20}	내 이름은 {Villager's name (orange)}{000e-000e-0006-0002-c774-0000}다!{Wait for input}{emote: Reset}넌{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sunny}{Player name}{000e-000e-0006-0002-c774-0000}라고 하는구나!{pause 20}	잘 부탁한다!{Wait for input}{emote: Happiness}그럼{pause 20} 나중에 돌아가자마자	바로 이사 준비에 착수할게!{pause 20}	기다리고 있어ー!
+"024"	{emote: Distress}으아! 분하다ー!{pause 20}	내가 지다니!{Wait for input}{emote: Disagreement}하지만{pause 20} 난 약속은 꼭 지킨다구!{pause 40}	{emote: Happiness}조만간에 이 마을로	이사 오도록 하지!{Wait for input}{emote: Thought}그러고 보니{pause 20}	니 이름도 아직 모르네{pause 8}・{pause 8}・{pause 8}・{pause 8}?{Wait for input}{emote: Sunny}오ー!{pause 20} {Player name}{000e-000e-0006-0002-c774-0000}구나!{pause 20}	{emote: Happiness}그럼 {Player name}{000e-000e-0008-0002-c544-0002-c57c}!{pause 8}	앞으로 잘 부탁해!{Wait for input}{emote: Agreement}너의 그 게임 실력의 비밀,{pause 20}	{emote: Glare}내가 이사 오면 샅샅이	파헤쳐주마! {pause 8}{catchphrase}!
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}

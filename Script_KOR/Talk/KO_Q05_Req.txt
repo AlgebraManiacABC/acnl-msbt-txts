@@ -1,21 +1,21 @@
 == 0 ==
-"001"	{emote: Sheepishness}
-"002"	{emote: Thought}
-"003"	{emote: Shyness}
-"004"	{emote: Thought}
-"005"	{emote: Worry}
-"006"	{emote: Worry}
-"007"	{emote: Sheepishness}
-"008"	{emote: Soft Smile}
-"009"	{emote: Sheepishness}
-"010"	{emote: Worry}
-"011"	{emote: Worry}
-"012"	{emote: Thought}
-"013"	{emote: Thought}
-"014"	{emote: Soft Smile}
-"015"	{emote: Worry}
-"016"	{emote: Shyness}
-"017"	{emote: Sheepishness}
-"018"	{emote: Bashful}
-"019"	얼마 전에 {0005-0002-0000}
-"020"	{emote: Soft Smile}
+"001"	{emote: Sheepishness}얼마 전에 대청소를 했는데{pause 20}	정리를 너무 심하게 했는지{pause 8}	방이 텅텅 비었어{Wait for input}{emote: Reset}아주 큼지막한 녀석으로{pause 20}	{emote: Curious}추천할 만한 가구 없냐?
+"002"	{emote: Thought}{pause 16}우리 집 가구 배치에 대해{pause 8}	여러모로 생각해봤는데{pause 20}	뭔가 부족한 것 같단 말이지{Wait for input}{emote: Soft Smile}추천할 만한 가구 있으면{pause 20}	좀 부탁한다, {pause 20}{catchphrase}
+"003"	{emote: Shyness}우리 집 말이다{pause 20}	하나만 추가하면 완벽할 것 같은데{pause 8}・{pause 8}・{pause 8}・{Wait for input}조그마한 걸로{pause 8}	추천할 만한 가구 없냐?
+"004"	{emote: Thought}{pause 16}집의 가구 배치를 바꿀까 하는데{pause 30}	{emote: Reset}{0011-0003-0002-0000} 대신에 둘{pause 8}	다른 가구 없을까?	{emote: Agreement}크기만 비슷하면	어떤 가구든 상관없는데{pause 15}	{emote: Happiness}뭐 추천할 만한 가구 없냐?
+"005"	{emote: Worry}우리 집 말이야{pause 8}	살짝 포인트를 줘야 할 것 같아{Wait for input}{emote: Thought}{0011-0003-0002-0000} 위에{pause 8}	뭔가를 장식하고 싶은데{pause 20}	추천할 만한 거 없냐?
+"006"	{emote: Worry}집 안의 가구 배치를 다시 하려고 하는데{pause 20}	{0011-0003-0002-0000} 대신에{pause 8}	다른 가구를 놓고 싶거든?!	{emote: Reset}추천할 만한 거 없냐?
+"007"	{emote: Sheepishness}우리 집 말이야, {pause 8}다 좋은데	포인트가 살짝 부족한 것 같아!{Wait for input}{emote: Worry}내 생각에는{pause 8} 벽에다가	뭔가를 장식하면 좋을 것 같은데{pause 20}	{emote: Curious}추천할 만한 거 없냐?
+"008"	{emote: Soft Smile}내 입으로 말하긴 그렇지만{pause 20}	우리 집은 꽤 멋진 것 같아!{Wait for input}{emote: Thought}{pause 16}단, {pause 8}벽에 장식되어 있는	{0011-0003-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}{pause 20}	조금 마음에 안 들어{Wait for input}{emote: Reset}대신에 장식할 만한{pause 20}	추천 가구 없냐?
+"009"	{emote: Sheepishness}얼마 전에 {0005-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}{pause 8}	우리 집에 놀러 왔는데{pause 20}	집 안이 썰렁하다고 하더라구{Wait for input}{emote: Worry}뭐 {pause 8}추천할 만한 가구 없냐?
+"010"	{emote: Worry}요즘 마음이 싱숭생숭한 게{pause 8}	{emote: Agreement}집 안의 가구 배치를 바꿔서	기분 전환이나 해볼까 하거든?{pause 20}	{emote: Soft Smile}추천할 만한 가구 있으면{pause 8}	좀 갖다 주면 안 되겠냐? {pause 20}{catchphrase}?
+"011"	{emote: Worry}우리 집 {pause 8}엄청 썰렁하지 않냐?{Wait for input}{emote: Reset}큼지막한 걸 두고 싶은데{pause 20}	이 집에 어울릴 만한{pause 8}	가구 없을까?
+"012"	{emote: Thought}{pause 16}우리 집 말이야, {pause 8}뭔가 한 가지{pause 20}	부족한 느낌이야{Wait for input}{emote: Reset}그쪽의 빈 공간에 어울릴 만한{pause 8}	가구 없을까?
+"013"	{emote: Thought}{pause 16}우리 집 말이야, {pause 8}살짝만 만지면{pause 20}	꽤 멋진 집이 될 것 같은데{pause 8}・{pause 8}・{pause 8}・{Wait for input}그쪽 빈 공간에 넣을 만한{pause 8}	자그마한 가구 없을까?
+"014"	{emote: Soft Smile}가구 배치를 새로 해볼까 하는데{pause 30}	{emote: Thought}{pause 16}거기 있는 {0011-0003-0002-0000}	대신에 다른 가구를 두고 싶네	{emote: Agreement}크기만 비슷하면	어떤 가구든 상관없긴 한데{pause 15}	{emote: Happiness}뭐 추천할 만한 가구 없냐?
+"015"	{emote: Worry}우리 집은 {pause 8}전체적으로{pause 20}	좀 밋밋한 느낌이 들어{Wait for input}{emote: Soft Smile}거기 {0011-0003-0002-0000} 위에{pause 8}	뭔가를 장식해 두고 싶은데{pause 20}	쓸 만한 거 없나?
+"016"	{emote: Shyness}집 안 가구 배치를 다시 하려고 하는데{pause 20}	거기 있는 {0011-0003-0002-0000}{pause 8}	대신에 다른 가구를 두고 싶단 말이지	{emote: Soft Smile}뭐 {pause 8}좋은 물건 없을까?
+"017"	{emote: Sheepishness}우리 집 말이야, {pause 8}다 좋은데	포인트가 살짝 부족한 것 같지 않냐?{Wait for input}{emote: Thought}내 생각에는{pause 8} 벽에다가	뭔가를 장식하면 좋을 것 같은데{pause 20}	{emote: Curious}추천할 만한 거 없냐?
+"018"	{emote: Bashful}{pause 16}내 입으로 말하긴 그렇지만{pause 20}	우리 집은 꽤 멋진 것 같아!{Wait for input}{emote: Worry}단, {pause 8}벽에 장식되어 있는	{0011-0003-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}{pause 20}	조금 마음에 안 들어{Wait for input}{emote: Reset}대신에 장식할 만한{pause 8}	추천 가구 없냐?
+"019"	얼마 전에 {0005-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}{pause 8}	우리 집에 놀러 왔는데{pause 20}	{emote: Sheepishness}집이 썰렁하다고 하더라구{Wait for input}{emote: Worry}뭐 {pause 8}추천할 만한 가구 없냐?
+"020"	{emote: Soft Smile}집 안 가구 배치를 다시 할까 하는데{pause 20}	추천할 만한 가구 있으면{pause 8}	좀 부탁해, {pause 20}{catchphrase}!

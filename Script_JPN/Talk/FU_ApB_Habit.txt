@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Alarmed}
-"004"	{emote: Distress}
-"005"	{pause 8}
-"006"	{emote: Distress}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	「{catchphrase}
-"009"	{emote: Happiness}
-"010"	{0009-0000-0004-0b-00-0c-00}
-"011"	{emote: Glee}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}あの～　{pause 10}{Player nickname (green)}さん{Wait for input}{emote: Soft Smile}わたしって{pause 10}	よく「{catchphrase}」って{ruby (charSpan 1): い}言いますよね{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Curious}これって　{pause 10}{ruby (charSpan 2): しょうじき}正直{pause 3}どう{ruby (charSpan 1): おも}思われます？{Player can respond (0005):0004-0000-0003-0000}	{ruby (charSpan 1): か}変えちゃいなよ	いいと{ruby (charSpan 1): おも}思うよ！
+"002"	{emote: Happiness}{Player nickname (green)}さん{pause 20}	お{ruby (charSpan 2): げんき}元気ですか、{pause 10}{catchphrase}{Wait for input}	{emote: Mistaken}あ！　{pause 20}また　{ruby (charSpan 1): い}言ってしまいました{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Worry}さっき　{pause 10}{0005-0002-0000}さんに	{ruby (charSpan 1): い}言われて　{pause 5}{ruby (charSpan 2): きづ}気付いたんですけど、{Wait for input}「{catchphrase}」っていうのが{pause 10}	わたしの　{pause 3}{ruby (charSpan 1): くち}口ぐせみたいなんです{Wait for input}{emote: Sadness}これって　{pause 10}わたしに	{ruby (charSpan 1): あ}合ってるんでしょうか{pause 8}・{pause 8}・{pause 8}・{pause 8}？{Player can respond (0005):0004-0000-0003-0000}	やめちゃおう	{ruby (charSpan 1): き}気にしなくていい
+"003"	{emote: Alarmed}あら　{pause 10}ほんとですか！
+"004"	{emote: Distress}やっぱり　そうですか{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 20}	{emote: Reset}どうも　{pause 3}{ruby (charSpan 1): き}気になってたんですよね{Wait for input}{emote: Inspired}では　{Player nickname (green)}さん{pause 15}	{ruby (charSpan 1): あたら}新しい{ruby (charSpan 1): くち}口ぐせを　{pause 8}{ruby (charSpan 1): かんが}考えてくれませんか！{Wait for input}	{emote: Glee}ぜひ　{pause 10}わたしに{ruby (charSpan 1): あ}合うのを{pause 3}お{ruby (charSpan 1): ねが}願いします
+"005"	{pause 8}・{pause 8}・{pause 8}・{pause 8}「{catchphrase}」{pause 15}	{emote: Curious}て、{pause 10}{ruby (charSpan 1): い}言えばいいのかしら？{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	オッケー	ちがうよ！
+"006"	{emote: Distress}あら　{pause 8}ごめんなさい{pause 20}	{emote: Soft Smile}もう{ruby (charSpan 2): いちど}一度　お{ruby (charSpan 1): ねが}願いします
+"007"	{0009-0000-0004-0008-0009}
+"008"	「{catchphrase}」{pause 8}・{pause 8}・{pause 8}・{pause 8}！{pause 30}	{emote: Glee}とってもすてき！{Wait for input}{emote: Happiness}わたし　{pause 10}{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入っちゃいました{pause 20}	{ruby (charSpan 2): きょう}今日から{ruby (charSpan 1): つか}使いますね、{pause 10}{catchphrase}！
+"009"	{emote: Happiness}「{catchphrase}」{pause 8}ですね{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Love}とても　しっくりきます{Wait for input}{emote: Glee}どうも　ありがとうございました！{pause 15}	{ruby (charSpan 1): つか}使わせてもらいますね、{pause 10}{catchphrase}
+"010"	{0009-0000-0004-000b-000c}
+"011"	{emote: Glee}{Player nickname (green)}さんが　{pause 3}そうおっしゃるなら{pause 15}	{ruby (charSpan 1): き}気にするのやめます、{pause 10}{catchphrase}！
+"012"	{emote: Happiness}これからは、{pause 10}{ruby (charSpan 2): じしん}自信を{ruby (charSpan 1): も}持って{pause 8}	「{catchphrase}」{pause 8}って{ruby (charSpan 1): い}言えます！

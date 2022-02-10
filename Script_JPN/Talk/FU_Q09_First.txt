@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Soft Smile}
-"005"	{emote: Happiness}
-"006"	{emote: Sheepishness}
+"001"	{emote: Soft Smile}ゆっくり{pause 10}	くつろいでいってくださいね、{pause 15}{catchphrase}
+"002"	{emote: Happiness}こんな{ruby (charSpan 2): へや}部屋ですけど{pause 10}	{ruby (charSpan 1): たの}楽しんで　いってくださいね
+"003"	{emote: Happiness}{Villager's name (orange)}の{ruby (charSpan 2): へや}部屋を{pause 10}	マンキツしていってくださいね！
+"004"	{emote: Soft Smile}{ruby (charSpan 2): やくそく}約束{ruby (charSpan 1): どお}通り　{ruby (charSpan 1): き}来てくださって{pause 10}	うれしいです、{pause 15}{catchphrase}！
+"005"	{emote: Happiness}うふふ！{pause 20}	わたしのお{ruby (charSpan 2): へや}部屋、{pause 10}どうですか？！
+"006"	{emote: Sheepishness}{0005-000e-0002-0000}でも{pause 5}	お{ruby (charSpan 1): だ}出ししたかったんですけど、{pause 10}	あいにく　{pause 10}{ruby (charSpan 1): き}切らせてしまいました{pause 10}{emote: Reset}

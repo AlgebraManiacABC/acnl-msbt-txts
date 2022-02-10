@@ -1,18 +1,18 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Surprise}
-"004"	{000a-0000-0006-03-06-00-07-00-ffffffcd}
-"005"	{0009-0000-0004-08-00-09-00}
-"006"	{0009-0002-0008-0e-00-0e-00-0e-00-0f-00}
-"007"	{0009-0002-0008-10-00-10-00-10-00-11-00}
-"008"	{emote: Worry}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	
-"014"	{0007-000d-0000}
-"015"	{0007-000d-0000}
-"016"	{0007-000d-0000}
-"017"	{0007-000d-0000}
+"001"	{emote: Happiness}あの{pause 8}・{pause 8}・{pause 8}・{pause 10}{Player nickname (green)}さんが{pause 3}	{ruby (charSpan 1): も}持ってらっしゃるのって{pause 10}	{0011-0003-0002-0000}ですか？	{emote: Alarmed}わぁ！　{pause 10}すごい！{pause 20}	うらやましいです！！{Wait for input}	{emote: Shyness}わたし　{pause 10}ずっとあこがれてて{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Distress}もし　{pause 8}いらなかったら{pause 10}	わたしに　{pause 3}{ruby (charSpan 1): う}売っていただけませんか？{Player can respond (0005):0004-0000-0005-0028}	いくらで？	やめとくよ
+"002"	{emote: Happiness}{Player nickname (green)}さん{pause 15}	わたし{ruby (charSpan 2): さいきん}最近、{pause 10}{0011-0003-0002-0000}が	{ruby (charSpan 1): ほ}欲しくて　{pause 8}ずっと{ruby (charSpan 1): さが}探してるんです！	{emote: Thought}{ruby (charSpan 1): だれ}誰か　{ruby (charSpan 1): も}持ってないかしら{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Alarmed}え！　{pause 20}{Player nickname (green)}さん{pause 10}	{ruby (charSpan 1): も}持ってらっしゃるんですか！	{emote: Shyness}あのぅ{pause 5}・{pause 5}・{pause 5}・{pause 5}	とても　{ruby (charSpan 2): かって}勝手だとは{ruby (charSpan 1): おも}思うんですけど{Wait for input}{emote: Distress}もし　よろしければ{pause 10}	わたしに　{ruby (charSpan 1): う}売っていただけませんか？{Player can respond (0005):0004-0000-0005-0028}	いくらで？	ごめん、ムリです
+"003"	{emote: Surprise}あ！　{pause 10}{Player nickname (green)}さん！{pause 20}	もしかして　{pause 10}それ{pause 8}	{0011-0003-0002-0000}ですよね	{emote: Alarmed}すご～い！{pause 15}	どうやって　{ruby (charSpan 1): て}手に{ruby (charSpan 1): い}入れたんですか？{Wait for input}	{emote: Distress}うらやましいです、{pause 10}{catchphrase}！	{emote: Sadness}わたし　{pause 10}ずっと{ruby (charSpan 1): ほ}欲しくて	{ruby (charSpan 1): さが}探してたんですよ{emote: Reset}{Wait for input}{0007-000d-0000}{emote: Shyness}あのぅ{pause 8}・{pause 8}・{pause 8}・{pause 8}もしよろしければ{pause 10}	{Blue}{0004-000b-0002-0004}ベル{Color Reset}で{pause 8}	ゆずっていただけませんか？{confirmation-02}{Player can respond (0005):000a-0015-0008-0028}	いいよ！	ダメです
+"004"	{000a-0000-0006-0603-0700-cd00}
+"005"	{0009-0000-0004-0008-0009}
+"006"	{0009-0002-0008-000e-000e-000e-000f}
+"007"	{0009-0002-0008-0010-0010-0010-0011}
+"008"	{emote: Worry}そうですか{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{ruby (charSpan 2): しかた}仕方ないですね{pause 20}	{emote: Happiness}また　{ruby (charSpan 1): き}気が{ruby (charSpan 1): か}変わったら、{pause 10}ぜひ！
+"009"	{emote: Happiness}わかりました{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 1): ほ}欲しいものは{pause 10}	そんな{ruby (charSpan 2): かんたん}簡単に　{ruby (charSpan 1): て}手に{ruby (charSpan 1): はい}入りませんよね{Wait for input}	{ruby (charSpan 2): じぶん}自分で　{ruby (charSpan 1): さが}探してみます
+"010"	{emote: Happiness}よかった！{pause 20}	ありがとうございます{0009-0000-0004-000b-000c}
+"011"	{emote: Happiness}うれしいです！{pause 20}	{ruby (charSpan 2): たいせつ}大切にします
+"012"	{emote: Happiness}うれしいです、{pause 10}{catchphrase}！{pause 20}	なんだかワクワクしてます
+"013"
+"014"	{0007-000d-0000}{emote: Happiness}では、{pause 10}{Blue}{Blue}{0004-000b-0002-0000}{Blue}ベル{Color Reset}で	いかがでしょうか？{confirmation-02}{Player can respond (0005):000a-0015-0008-0028}	いいよ	ムリです
+"015"	{0007-000d-0000}{emote: Sheepishness}{ruby (charSpan 1): いま}今、{pause 10}{ruby (charSpan 2): ても}手持ちが　{Blue}{Blue}{0004-000b-0002-0003}{Blue}ベル{Color Reset}なんですけど{pause 10}	それで　{pause 5}{ruby (charSpan 1): う}売っていただけますか？{confirmation-02}{Player can respond (0005):000a-0015-0009-0028}	オッケー	やっぱり、やめるよ
+"016"	{0007-000d-0000}{emote: Happiness}では、{pause 10}{Blue}{Blue}{0004-000b-0002-0001}{Blue}ベル{Color Reset}で	いかがでしょうか？{confirmation-02}{Player can respond (0005):000a-0015-0008-0028}	いいよ	ゴメン
+"017"	{0007-000d-0000}{emote: Sheepishness}{ruby (charSpan 1): いま}今、{pause 10}{ruby (charSpan 2): ても}手持ちが　{Blue}{Blue}{0004-000b-0002-0002}{Blue}ベル{Color Reset}なんですけど{pause 10}	それで　ゆずっていただけますか？{confirmation-02}{Player can respond (0005):000a-0015-0009-0028}	オッケー	やっぱゴメン

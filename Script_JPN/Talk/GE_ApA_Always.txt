@@ -1,67 +1,67 @@
 == 0 ==
-"001"	{0009-0001-0006-02-00-03-00-04-00}
-"002"	{emote: Happiness}
-"003"	{emote: Soft Smile}
-"004"	ねぇねぇ{pause 8}
-"005"	{0009-0001-0006-06-00-07-00-08-00}
-"006"	{emote: Laughter}
-"007"	{emote: Joy}
-"008"	{emote: Laughter}
-"009"	{emote: Glare}
-"010"	{emote: Happiness}
-"011"	{emote: Distress}
-"012"	{emote: Distress}
-"013"	{emote: Distress}
-"014"	{emote: Anger}
-"015"	{emote: Anger}
-"016"	{emote: Anger}
-"017"	
-"018"	
-"019"	{emote: Distress}
-"020"	{0009-0001-0006-15-00-16-00-17-00}
-"021"	{emote: Soft Smile}
-"022"	{emote: Soft Smile}
-"023"	{emote: Soft Smile}
-"024"	{0009-0000-0004-19-00-1a-00}
-"025"	{emote: Thought}
-"026"	{emote: Thought}
-"027"	{0009-0000-0004-1c-00-1d-00}
-"028"	{emote: Thought}
-"029"	{emote: Thought}
-"030"	{0009-0000-0004-1f-00-20-00}
-"031"	{emote: Thought}
-"032"	{emote: Thought}
-"033"	
-"034"	
-"035"	{000a-0016-0006-05-2a-00-24-00-ffffffcd}
-"036"	{000a-0016-0006-00-2b-00-25-00-ffffffcd}
-"037"	{000a-0016-0006-01-2c-00-26-00-ffffffcd}
-"038"	{000a-0016-0006-02-2d-00-27-00-ffffffcd}
-"039"	{000a-0016-0006-03-2e-00-29-00-ffffffcd}
-"040"	
-"041"	{0009-0003-000a-2a-00-2b-00-2c-00-2d-00-2e-00}
-"042"	{emote: Happiness}
-"043"	{emote: Soft Smile}
-"044"	{emote: Soft Smile}
-"045"	{emote: Happiness}
-"046"	{emote: Soft Smile}
-"047"	
-"048"	{0009-0000-0004-31-00-32-00}
-"049"	{emote: Surprise}
-"050"	{emote: Joy}
-"051"	{0009-0000-0004-34-00-35-00}
-"052"	{emote: Happiness}
-"053"	{emote: Alarmed}
-"054"	{0009-0000-0004-37-00-38-00}
-"055"	{emote: Mischief}
-"056"	{emote: Alarmed}
-"057"	
-"058"	
-"059"	{emote: Distress}
-"060"	{0009-0000-0004-3d-00-3e-00}
-"061"	{emote: Inspired}
-"062"	{emote: Sheepishness}
-"063"	{0009-0000-0004-40-00-41-00}
-"064"	{emote: Alarmed}
-"065"	{emote: Disbelief}
-"066"	{emote: Alarmed}
+"001"	{0009-0001-0006-0002-0003-0004}
+"002"	{emote: Happiness}ねぇねぇ、{pause 8}とつぜんだけど{pause 10}	{ruby (charSpan 2): きょう}今日のコーディネートどう？{Wait for input}{emote: Glee}やっぱ　アタイって、{pause 10}	オシャレだと{ruby (charSpan 1): おも}思わない？{Player can respond (0005):0005-0015-000b-0000}	オシャレだね～	まぁまぁかな
+"003"	{emote: Soft Smile}ねぇねぇ、{pause 10}ちょっと{ruby (charSpan 1): き}聞きたいんだけど、{Wait for input}	{emote: Happiness}アタイ、{pause 10}{ruby (charSpan 2): きょう}今日も	キラキラ　かがやいてるでしょ？{Player can respond (0005):0005-0015-000c-0000}	まぶしいね！	そうかなー？
+"004"	ねぇねぇ{pause 8}　とつぜんだけど、{Wait for input}	{emote: Happiness}アタイって{pause 10}　いつも{ruby (charSpan 1): あか}明るくて{pause 5}	かわいくて{pause 10}、{emote: Joy}サイコーだと{ruby (charSpan 1): おも}思わない？{Player can respond (0005):0005-0015-000d-0028}	サイコー！	{ruby (charSpan 2): ぜんぜん}全然
+"005"	{0009-0001-0006-0006-0007-0008}
+"006"	{emote: Laughter}そうだよね～！{pause 30}	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、{pause 10}わかってる～！{Wait for input}{emote: Glee}アタイも　そう{ruby (charSpan 1): おも}思ってたんだけど、{pause 10}	{ruby (charSpan 1): たし}確かめたくてさ！{pause 10}	ありがとね！
+"007"	{emote: Joy}だよね～！{pause 30}	{emote: Glee}{Player nickname (green)}{0005-000d-0000}も{pause 5}	けっこう　イケてると{ruby (charSpan 1): おも}思うよ！
+"008"	{emote: Laughter}キャハハ！{pause 30}	{emote: Happiness}うれしいこと　{ruby (charSpan 1): い}言ってくれるじゃん！{000a-0001-0004-0009-000a}
+"009"	{emote: Glare}{Player nickname (green)}{0005-000d-0000}、{pause 10}	アタイのこと　{ruby (charSpan 1): す}好きなんじゃないの～？{pause 30}	{emote: Happiness}な～んてね！
+"010"	{emote: Happiness}もしかして、{pause 5}{Player nickname (green)}{0005-000d-0000}、{pause 10}	アタイに　あこがれてるとか？{pause 20}	な～んてね！
+"011"	{emote: Distress}え？！{pause 20}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Reset}	もう{ruby (charSpan 2): いっかい}一回{ruby (charSpan 1): き}聞くよ？！	アタイって、{pause 8}オシャレだよね？{Player can respond (0000):0005-0000-000e-0000}	オシャレです	まぁまぁ
+"012"	{emote: Distress}ん？！{pause 30}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Reset}	もう{ruby (charSpan 2): いっかい}一回{ruby (charSpan 1): き}聞くよ？！	アタイって、{pause 8}かがやいてるよね？{Player can respond (0000):0005-0000-000f-0000}	キラキラです	ふつう・・・
+"013"	{emote: Distress}？！{pause 30}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Reset}	{ruby (charSpan 1): き}聞きまちがえたかな？！	アタイって、{pause 8}サイコーだよね？{Player can respond (0000):0005-0000-0010-0000}	サイコーです	ふつーです
+"014"	{emote: Anger}・・・・・・{pause 60}	アタイって、{pause 5}オシャレだよね？{Player can respond (0000):0005-0000-0005-0000}	オシャレです	はい、オシャレです
+"015"	{emote: Anger}・・・・・・{pause 60}	アタイって、{pause 5}かがやいてるよね？{Player can respond (0000):0005-0000-0005-0000}	キラキラです	はい、キラキラです
+"016"	{emote: Anger}・・・・・・{pause 60}	アタイって、サイコーだよね？{Player can respond (0000):0005-0000-0005-0000}	サイコーです	はい、サイコーです
+"017"
+"018"
+"019"	{emote: Distress}ね～！　{pause 20}どうしよ～！！{pause 30}	だ、{pause 10}だれにも{ruby (charSpan 1): い}言っちゃダメだよ～{Wait for input}{emote: Fearful}アタイ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Shocked}ちょう{ruby (charSpan 2): のうりょく}能力が	ついちゃった　みたいなの～！！{Wait for input}{emote: Thought}さっきも　{pause 8}{0005-0004-0002-cd00}{0005-000d-0000}の{pause 5}	{ruby (charSpan 1): かんが}考えてることが　わかっちゃって{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Distress}ねぇ、{pause 10}{Player nickname (green)}{0005-000d-0000}にも{ruby (charSpan 1): ため}試させて！
+"020"	{0009-0001-0006-0015-0016-0017}
+"021"	{emote: Soft Smile}じゃあ、{pause 5}いくよ～{pause 20}	アタイの{ruby (charSpan 2): しつもん}質問に{ruby (charSpan 1): こた}答えてね！{Wait for input}	{emote: Curious}{0005-0004-0002-cd00}{0005-000d-0000}といえば{pause 8}・{pause 8}・{pause 8}・{pause 8}？{Player can respond (0001):0018-0000-001b-0000-001e-0000}	{0005-0010-0002-0000}っぽい	{0005-0013-0002-0000}っぽい	{Villager's name (orange)}っぽい
+"022"	{emote: Soft Smile}じゃあ、{pause 5}いくよ～{pause 20}	アタイの{ruby (charSpan 2): しつもん}質問に{ruby (charSpan 1): こた}答えてね！{Wait for input}	{emote: Curious}{Town name (pink)}{ruby (charSpan 1): むら}村といえば・・・？{Player can respond (0001):0018-0000-001b-0000-001e-0000}	{0005-0013-0002-0000}	{0005-0011-0002-0000}	{Villager's name (orange)}
+"023"	{emote: Soft Smile}じゃあ、{pause 5}いくよ～{pause 20}	アタイの{ruby (charSpan 2): しつもん}質問に{ruby (charSpan 1): こた}答えてね！{Wait for input}	{emote: Curious}イケてる{ruby (charSpan 1): おんな}女の{ruby (charSpan 1): こ}子といえば・・・？{Player can respond (0001):0018-0000-001b-0000-001e-0000}	{0005-0010-0002-0000}{ruby (charSpan 1): ず}好きな{ruby (charSpan 1): こ}子	{0005-0012-0002-0000}が{ruby (charSpan 2): とくい}得意な{ruby (charSpan 1): こ}子	{Villager's name (orange)}みたいな{ruby (charSpan 1): こ}子
+"024"	{0009-0000-0004-0019-001a}
+"025"	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Inspired}{ruby (charSpan 1): き}来ました！！{Wait for input}って、{pause 8}{Player nickname (green)}{0005-000d-0000}・・・{pause 30}	{emote: Laughter}それ、{pause 10}{ruby (charSpan 1): いま}今　おなか{ruby (charSpan 1): へ}減ってるだけじゃ～ん！{Wait for input}{emote: Happiness}でも、{pause 8}そういうところが	{Player nickname (green)}{0005-000d-0000}の{pause 8}	いいところなんだよね
+"026"	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Inspired}{ruby (charSpan 1): き}来ました！！{Wait for input}{emote: Mischief}{ruby (charSpan 1): いま}今、{pause 10}とっても　オシャレがしたい{ruby (charSpan 2): きぶん}気分でしょ{pause 30}	{emote: Happiness}そして、{pause 10}{Player nickname (green)}{0005-000d-0000}の	ファッションリーダーは、{pause 10}ア{pause 5}・{pause 5}タ{pause 5}・{pause 5}イ！	{emote: Glee}ね、{pause 10}{ruby (charSpan 1): あ}当たったでしょ～
+"027"	{0009-0000-0004-001c-001d}
+"028"	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Inspired}{ruby (charSpan 1): き}来ました！！{Wait for input}{emote: Mischief}ちょっと～　{Player name}{0005-000d-0000}たら、	そんなこと　{ruby (charSpan 1): かんが}考えてたわけ？！{pause 40}	{emote: Laughter}アンタもすみにおけないね！{pause 40}	{emote: Happiness}ま、{pause 10}だれが{ruby (charSpan 1): き}聞いてるかわかんないから、{pause 10}	ここでは{ruby (charSpan 2): はっぴょう}発表しないけどさ！{pause 20}	ということで、{pause 10}じゃ～ね！
+"029"	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Inspired}{ruby (charSpan 1): き}来ました！！{Wait for input}{emote: Sigh}そっか～{pause 8}・{pause 8}・{pause 8}・{pause 8}{Player nickname (green)}{0005-000d-0000}、{pause 10}	{ruby (charSpan 1): いま}今　なやみ{ruby (charSpan 1): ちゅう}中なんだね～{pause 30}	{emote: Happiness}でもさ、{pause 10}{ruby (charSpan 2): じんせい}人生なんとかなるって！	{emote: Joy}{ruby (charSpan 1): おな}同じ{ruby (charSpan 2): じかん}時間{ruby (charSpan 1): つか}使うなら、{pause 10}	できるだけ　ハッピーなこと{ruby (charSpan 1): かんが}考えて{pause 8}	{ruby (charSpan 1): す}過ごした{ruby (charSpan 1): ほう}方がいいと{ruby (charSpan 1): おも}思うよ！　{pause 20}{catchphrase}！{emote: Soft Smile}
+"030"	{0009-0000-0004-001f-0020}
+"031"	{emote: Thought}ん～～～っと{pause 8}・{pause 8}・{pause 8}・{pause 8}	・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Inspired}{ruby (charSpan 1): き}来ました！！{Wait for input}{emote: Happiness}って、{pause 10}{Player nickname (green)}{0005-000d-0000}たら、{pause 10}	アタイのことで　{pause 8}{ruby (charSpan 1): あたま}頭がイッパイなんだね～！{Wait for input}{emote: Glee}たしかに{pause 10}	このキラキラなかがやきには{pause 10}	あこがれちゃうでしょ、{pause 10}{catchphrase}
+"032"	{emote: Thought}ん～～～っと{pause 8}・{pause 8}・{pause 8}・{pause 8}	・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Inspired}{ruby (charSpan 1): き}来ました！！{Wait for input}{emote: Happiness}って、{pause 10}{Player nickname (green)}{0005-000d-0000}たら{pause 10}	お{ruby (charSpan 2): せじ}世辞が{ruby (charSpan 2): うま}上手いよね～{Wait for input}{emote: Sheepishness}アンタ、{pause 10}そんなんだと　ストレスたまるよ～{pause 30}	{emote: Happiness}もっと　アタイには{pause 8}	{ruby (charSpan 2): ほんね}本音でいいんだからね！
+"033"
+"034"
+"035"	{000a-0016-0006-2a05-2400-cd00}
+"036"	{000a-0016-0006-2b00-2500-cd00}
+"037"	{000a-0016-0006-2c01-2600-cd00}
+"038"	{000a-0016-0006-2d02-2700-cd00}
+"039"	{000a-0016-0006-2e03-2900-cd00}
+"040"
+"041"	{0009-0003-000a-002a-002b-002c-002d-002e}
+"042"	{emote: Happiness}とつぜんだけどさ～{pause 20}	もし　{ruby (charSpan 1): いけ}池にオノを{ruby (charSpan 1): お}落として、{Wait for input}そこから{ruby (charSpan 1): で}出てきた{ruby (charSpan 3): めがみさま}女神様に{pause 10}	{ruby (charSpan 1): えら}選べって{ruby (charSpan 1): い}言われたら、{pause 10}{emote: Curious}どれにする？{Player can respond (0001):0030-0000-0033-0000-0036-0000}	きんのオノ	ぎんのオノ	オノ
+"043"	{emote: Soft Smile}とつぜんだけどさ～{pause 20}	もし{ruby (charSpan 1): いけ}池にスコップを{ruby (charSpan 1): お}落として、{Wait for input}{emote: Happiness}そこから{ruby (charSpan 1): で}出てきた{ruby (charSpan 3): めがみさま}女神様に{pause 10}	{ruby (charSpan 1): えら}選べって{ruby (charSpan 1): い}言われたら、{pause 10}{emote: Curious}どれにする？{Player can respond (0001):0030-0000-0033-0000-0036-0000}	きんのスコップ	ぎんのスコップ	スコップ
+"044"	{emote: Soft Smile}とつぜんだけどさ～{pause 20}	もし　{ruby (charSpan 1): いけ}池に　あみを{ruby (charSpan 1): お}落として、{Wait for input}{emote: Happiness}そこから{ruby (charSpan 1): で}出てきた{ruby (charSpan 3): めがみさま}女神様に{pause 10}	{ruby (charSpan 1): えら}選べって{ruby (charSpan 1): い}言われたら、{pause 10}{emote: Curious}どれにする？{Player can respond (0001):0030-0000-0033-0000-0036-0000}	きんのあみ	ぎんのあみ	あみ
+"045"	{emote: Happiness}とつぜんだけどさ～{pause 20}	もし{ruby (charSpan 1): いけ}池に　つりざおを{ruby (charSpan 1): お}落として、{Wait for input}そこから{ruby (charSpan 1): で}出てきた{ruby (charSpan 3): めがみさま}女神様に{pause 10}	{ruby (charSpan 1): えら}選べって{ruby (charSpan 1): い}言われたら、{pause 10}{emote: Curious}どれにする？{Player can respond (0001):0030-0000-0033-0000-0036-0000}	きんのつりざお	ぎんのつりざお	つりざお
+"046"	{emote: Soft Smile}とつぜんだけどさ～{pause 20}	もし　{ruby (charSpan 1): いけ}池に　ジョウロを{ruby (charSpan 1): お}落として、{Wait for input}{emote: Happiness}そこから{ruby (charSpan 1): で}出てきた{ruby (charSpan 3): めがみさま}女神様に{pause 10}	{ruby (charSpan 1): えら}選べって{ruby (charSpan 1): い}言われたら、{pause 10}{emote: Curious}どれにする？{Player can respond (0001):0030-0000-0033-0000-0036-0000}	きんのジョウロ	ぎんのジョウロ	ジョウロ
+"047"
+"048"	{0009-0000-0004-0031-0032}
+"049"	{emote: Surprise}へぇ！{pause 20}	{emote: Happiness}やっぱ　{Player nickname (green)}{0005-000d-0000}って{pause 10}	{ruby (charSpan 3): しょうじきもの}正直者でいいよね～！！	{emote: Glare}{ruby (charSpan 2): しょうじき}正直って{ruby (charSpan 1): い}言っても{pause 15}	よくぼうに　{pause 3}{ruby (charSpan 2): しょうじき}正直ってカンジだけど！
+"050"	{emote: Joy}アタイも　ぜったい{ruby (charSpan 1): きん}金にする～！{pause 20}	だって、{pause 10}キラキラのハッピーカラーだもん！
+"051"	{0009-0000-0004-0034-0035}
+"052"	{emote: Happiness}へぇ～{pause 20}	{Player nickname (green)}{0005-000d-0000}って　しぶいよね～！{pause 30}	アタイだったら、{pause 10}ぜったい{ruby (charSpan 1): きん}金にするけどな～
+"053"	{emote: Alarmed}そうなんだ～！{pause 20}	{emote: Happiness}でも、どうせだったら{pause 10}	{ruby (charSpan 1): きん}金の{ruby (charSpan 1): ほう}方がよくない？{pause 20}	{emote: Glee}だって、{pause 10}メダルで{ruby (charSpan 1): い}言ったら	{ruby (charSpan 3): いっとうしょう}一等賞ってことじゃん
+"054"	{0009-0000-0004-0037-0038}
+"055"	{emote: Mischief}ふ～ん・・・{pause 40}	ホントに　それでいいの？！{pause 40}	{emote: Laughter}アタイなら、{ruby (charSpan 1): きん}金にしちゃうけどな～
+"056"	{emote: Alarmed}へ～！{pause 30}	{emote: Distress}アタイは、{ruby (charSpan 1): きん}金でも{ruby (charSpan 1): ぎん}銀でもなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Joy}ピンクがいいな！
+"057"
+"058"
+"059"	{emote: Distress}{ruby (charSpan 2): さいきん}最近、{pause 10}{ruby (charSpan 4): いちにちさんしょく}一日三食	{0005-0010-0002-0000}{ruby (charSpan 1): た}食べてたら、{pause 10}	おなか{ruby (charSpan 1): まわ}周りに　{pause 5}お{ruby (charSpan 1): にく}肉がついてきちゃってさ！	{emote: Worry}どうにかして、	スリムになりたいんだよね～{pause 20}	{ruby (charSpan 1): なん}何か　いい{ruby (charSpan 2): ほうほう}方法{emote: Curious}{ruby (charSpan 1): し}知らない？{Player can respond (0001):003c-0000-003f-0000-0042-0000}	ランニングダイエット	ピコピコダイエット	{ruby (charSpan 1): お}落としあなダイエット
+"060"	{0009-0000-0004-003d-003e}
+"061"	{emote: Inspired}やっぱ　{ruby (charSpan 1): はし}走るのは、{pause 10}	ダイエットの{ruby (charSpan 2): きほん}基本か～！{Wait for input}{emote: Glee}しかも　おなかを{pause 5}	クネクネさせながら{ruby (charSpan 1): はし}走ったら、{pause 10}	さらに{ruby (charSpan 2): こうか}効果アップかもしんない！
+"062"	{emote: Sheepishness}やっぱ　{ruby (charSpan 1): はし}走るのが{ruby (charSpan 2): いちばん}一番かな～？{pause 20}	{emote: Distress}アタイ　{pause 10}{ruby (charSpan 1): ちょう}長キョリ{ruby (charSpan 2): にがて}苦手なんだよね{pause 20}	でも　やってみるか、{pause 10}{catchphrase}！
+"063"	{0009-0000-0004-0040-0041}
+"064"	{emote: Alarmed}え？！{pause 20}	ピコピコハンマーをふり{ruby (charSpan 1): まわ}回す	ダイエット？！	{emote: Glee}ちょー{ruby (charSpan 1): たの}楽しそうじゃん！{pause 20}	やってみようかな～
+"065"	{emote: Disbelief}なにそれ～？！{pause 20}	ピコピコハンマーを　{pause 8}ふり{ruby (charSpan 1): まわ}回して	{ruby (charSpan 1): はし}走り{ruby (charSpan 1): まわ}回るの？！	{emote: Distress}そんなことしたら{pause 10}	アタイ、{pause 10}ヘンなひとだと	{ruby (charSpan 1): おも}思われちゃうじゃん！
+"066"	{emote: Alarmed}えぇ？！　{pause 20}{ruby (charSpan 1): お}落としあなをほって、{pause 10}	{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): お}落ちるのを{pause 10}	50{ruby (charSpan 1): かい}回くり{ruby (charSpan 1): かえ}返すダイエット？{pause 20}	{emote: Distress}ちょっと　{pause 10}ザンシンすぎじゃない？！{pause 30}	アタイは、{pause 8}エンリョしとく～

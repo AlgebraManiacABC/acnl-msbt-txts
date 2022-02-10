@@ -1,51 +1,51 @@
 == 0 ==
-"001"	{0009-0002-0008-03-00-04-00-05-00-08-00}
-"002"	{0009-0001-0006-06-00-07-00-08-00}
-"003"	근데 그대의 마을은{pause 16}
-"004"	그런데 그대는{pause 16}
-"005"	{emote: Sheepishness}
-"006"	{emote: Worry}
-"007"	그 마을은 어때?{pause 32}
-"008"	{emote: Thought}
-"009"	
-"010"	
-"011"	
-"012"	{emote: Sheepishness}
-"013"	{emote: Sheepishness}
-"014"	{emote: Agreement}
-"015"	{emote: Soft Smile}
-"016"	{emote: Sunny}
-"017"	{pause 8}
-"018"	{emote: Alarmed}
-"019"	딱히 {pause 16}
-"020"	{emote: Worry}
-"021"	{emote: Sheepishness}
-"022"	{emote: Sheepishness}
-"023"	{emote: Soft Smile}
-"024"	{emote: Agreement}
-"025"	혹시 그대도{pause 20}!
-"026"	
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	
-"032"	
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
-"048"	
-"049"	
-"050"	그 이후로 {pause 8}ơ
+"001"	{0009-0002-0008-0003-0004-0005-0008}
+"002"	{0009-0001-0006-0006-0007-0008}
+"003"	근데 그대의 마을은{pause 16}	{emote: Curious}이 마을과 비교해서 어떤 것 같아?	{pause 8}{catchphrase}?{Player can respond (0001):000c-0000-000d-0000-000e-0000}	더 도시야	더 시골이야	비슷해
+"004"	그런데 그대는{pause 16}	이 마을 특산품이 뭔지 알아?	{pause 8}{catchphrase}?{Player can respond (0000):000f-0015-0010-0028}	알아	몰라
+"005"	{emote: Sheepishness}후후훗, {pause 16}알고 있어{pause 8}・{pause 8}・{pause 8}・{pause 8}	그대가 이 마을에 놀러 온 이유{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Anger}그건 {Town name (pink)} 마을 촌장{pause 16}	{0005-001c-0002-cd00}{000e-0005-0008-0002-ad70-0002-c591}의 스캔들을{pause 16}	캐내기 위해서지? {pause 8}{catchphrase}?	{emote: Thought}{pause 16}근데 {0005-001c-0002-cd00}{000e-0005-0008-0002-ad70-0002-c591} 말이야～{pause 8}・{pause 8}・{pause 8}・{pause 8}	스캔들이라고 할 만한{pause 8}	소문은 못 들었는데～	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Soft Smile}그런 것보다{pause 16}	날 취재해보지 않을래?{pause 32}	{emote: Glare}나름대로 재밌을 거야!
+"006"	{emote: Worry}{Player nickname (green)}{군/양},{pause 16}	나 없이도{pause 8}・{pause 8}・{pause 8}・{pause 8}	마을 사람들 모두 잘 지내?{Player can respond (0005):0018-0000-0019-0028}	그게・・・	모르겠어
+"007"	그 마을은 어때?{pause 32}	내가 있었던 때와 비교해서{pause 16}	많이 달라졌어? {emote: Curious}{pause 8}{Player nickname (green)}{군/양}?{Player can respond (0001):0016-0015-0017-0028-0019-0028}	변했어!	안 변했어	모르겠어
+"008"	{emote: Thought}{pause 16}외출 중엔 말이야{pause 8}・{pause 8}・{pause 8}・{pause 20}	금방 가방이{pause 15}	가득 차는 것 같지 않아?	{emote: Agreement}그럴 땐 {pause 15}역에 있는 사물함에	짐을 맡겨봐{Wait for input}{emote: Soft Smile}다른 마을에서 맡긴 짐도{pause 15}	자기 마을에서 다시 찾을 수 있어서{pause 30}	{emote: Showmanship}맡겨 두기만 하면 되거든!	{emote: Anger}참고로 자기 집에{pause 15}	옷장이나 수납 가구가 있으면{pause 30}	{emote: Glare}그것과도 연결되어 있어
+"009"
+"010"
+"011"
+"012"	{emote: Sheepishness}후후훗, {pause 16}어쩐지 그대는{pause 8}	나와 비슷한 분위기를 풍기더라니{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Thought}{pause 16}근데 애초에{pause 15}	도시적이란 건 뭘까?{pause 8}	정의를 내리는 건 어렵겠지만{pause 8}・{pause 8}・{pause 8}・	{emote: Agreement}여기보다 다양한 물건이 있고,{pause 16}	편리하단 말이겠지? {pause 8}{catchphrase}?{Wait for input}{emote: Reset}그렇지만, {pause 8}{Player nickname (green)}{군/양}{pause 30}	편리하다고 해서{pause 15}	결코 마음이 편한 건 아니야	{emote: Anger}중요한 건{pause 8}・{pause 8}・{pause 8}・{pause 8} 지금 그대가{pause 32}	{emote: Glare}과연 행복하냐는 거지!
+"013"	{emote: Sheepishness}후후훗, {pause 16}어쩐지 그대에게서{pause 16}	소박하고 순수한{pause 8}	분위기가 느껴지더라!	{emote: Anger}시골이라고 해서{pause 8}・{pause 8}・{pause 8}・{pause 16}	마을에 아무것도 없다고 해서{pause 8}・{pause 8}・{pause 8}・{pause 16}	{emote: Showmanship}부끄러워할 필요 없어!	{emote: Agreement}아무것도 없기 때문에{pause 16}	비로소 마음에 여유가{pause 8}	생기기도 하는 거라구!	{emote: Happiness}이건 정말{pause 16}	중요한 사실이야,{pause 8}	{Player nickname (green)}{군/양}
+"014"	{emote: Agreement}그래, {pause 16}조금의 차이는	있을 테지만{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}그대 마을이나 {pause 8}우리 마을은{pause 16}	비슷할지도 몰라{Wait for input}{emote: Anger}하지만 가장 큰 차이라면{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Glare}이 마을엔 그대가{pause 30}	{emote: Soft Smile}살지 않는다는 것이지!
+"015"	{emote: Soft Smile}아, {pause 8}그럼 됐어{pause 32}	괜한 걸 물어봤나 봐,	{pause 8}{catchphrase}
+"016"	{emote: Sunny}{0005-001a-0002-cd00}{000e-000e-0006-0002-c774-0000}야!{pause 32}	{Town name (pink)} 마을의 자랑이지!{Wait for input}{emote: Soft Smile}괜찮으면 하나{pause 16}	가지고 가, {pause 8}{catchphrase}
+"017"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Worry}거짓말하지 않아도 돼{pause 16}	{Player nickname (green)}{군/양}{Wait for input}날 안심시키려고 그렇게까지{pause 4}・{pause 4}・{pause 4}・{pause 32}	{emote: Glare}그대는 정말 착하다{pause 4}・{pause 4}・{pause 4}・{pause 4}
+"018"	{emote: Alarmed}어라? {pause 16}그래?{pause 32}	{emote: Cold Chill}그건 그것대로 좀 섭섭하네{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"019"	딱히 {pause 16}아무 변화도 없다는	말인가? {pause 8}{catchphrase}?{Wait for input}{emote: Thought}{pause 16}내가 없어도{pause 16}	그들은 {pause 16}멀쩡하게	일상을 보내고 있구나{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Reset}그게 당연한 걸지도 몰라{pause 32}	{emote: Worry}좀 섭섭하긴 하지만{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"020"	{emote: Worry}없어져봐야{pause 8}・{pause 8}・{pause 8}・{pause 8} 비로소 소중함을	깨닫게 되는 것들이 있잖아?	{pause 8}{catchphrase}?	{emote: Soft Smile}모두들 나의 빈자리를{pause 16}	크게 느끼고 있는 것 같아{pause 16}	괜히 멋쩍군
+"021"	{emote: Sheepishness}무슨 소리 하는 거야, {pause 8}{Player nickname (green)}{군/양}?{pause 32}	난 항상{pause 8}	곁에 있잖아! {pause 8}{catchphrase}!	{emote: Anger}그대와 {pause 8}마을 모두의{pause 32}	{emote: Glare}마음속에 말이야{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"022"	{emote: Sheepishness}후후훗{pause 8}・{pause 8}・{pause 8}・{pause 8} 그대 얼굴을 보니{pause 16}	제법 많이 바뀐 모양이네,{pause 8}	{Player nickname (green)}{군/양}	{emote: Soft Smile}어떻게 변했는지{pause 16}	기회가 되면 꼭{pause 8}	두 눈으로 직접 보고 싶군
+"023"	{emote: Soft Smile}그 말을 들으니 안심이 되네,{pause 8}	{Player nickname (green)}{군/양}{Wait for input}{emote: Worry}앞으로도 쭉 내가 좋아하던{pause 16}	마을의 모습을 간직해줬으면 좋겠다,	{pause 8}{catchphrase}{Wait for input}{emote: Anger}설령 앞으로{pause 16}	그곳이 많이 발전해서{pause 16}	편리해진다고 하더라도 말이야{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"024"	{emote: Agreement}알았어{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Sheepishness}좀 어려운 질문이니까{pause 16}	그대 반응을 보고 상상해볼게{0008-000a-0010-0011-0012-0012-0013-0013-0014-0014-0015}	잘 지내!	쓸쓸해보여・・・
+"025"	혹시 그대도{pause 20}	{emote: Curious}그 마을을 떠난 거야?{pause 8}	{Player nickname (green)}{군/양}?	{emote: Thought}{pause 16}아, 뭐였더라{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Sheepishness}마을 이름을 잊어버렸네{Wait for input}{emote: Anger}그치만 나는{pause 8}・{pause 8}・{pause 8}・{pause 20}	그대와 함께 지냈던 날들을{pause 32}	{emote: Glare}잊지는 않았어
+"026"
+"027"
+"028"
+"029"
+"030"
+"031"
+"032"
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
+"048"
+"049"
+"050"	그 이후로 {pause 8}{Town name (pink)} 마을에서{pause 15}	{emote: Curious}잘 지내고 있어?{Wait for input}{emote: Sheepishness}후후훗, {pause 20}촌장으로서	관록이 묻어나는 것 같은데?{pause 8}	{Player nickname (green)}{군/양}?	{emote: Soft Smile}나중에 그대 마을에{pause 8}	놀러 가보고 싶다,	{pause 8}{catchphrase}

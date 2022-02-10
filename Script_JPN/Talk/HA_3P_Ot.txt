@@ -1,34 +1,34 @@
 == 0 ==
-"001"	{000c-0001-0000}
-"002"	{emote: Resigned}
-"003"	{000c-0000-0000}
-"004"	{000c-0000-0000}
-"005"	{000c-0000-0000}
-"006"	{000c-0000-0000}
-"007"	
-"008"	{000c-0002-0000}
-"009"	{000c-0002-0000}
-"010"	{000c-0000-0000}
-"011"	{000c-0001-0000}
-"012"	{000c-0000-0000}
-"013"	{000c-0000-0000}
-"014"	{000c-0001-0000}
-"015"	{000c-0000-0000}
-"016"	{000c-0000-0000}
-"017"	{000c-0000-0000}
-"018"	{000c-0000-0000}
-"019"	{000c-0001-0000}
-"020"	{000c-0002-0000}
-"021"	{000c-0000-0000}
-"022"	{000c-0000-0000}
-"023"	{000c-0000-0000}
-"024"	{000c-0001-0000}
-"025"	
-"026"	{000c-0000-0000}
-"027"	{000c-0000-0000}
-"028"	{000c-0000-0000}
-"029"	{000c-0000-0000}
-"030"	{000c-0000-0000}
-"031"	{000c-0000-0000}
-"032"	{000c-0000-0000}
-"033"	{000c-0000-0000}
+"001"	{000c-0001-0000}{000c-0004-0000}{pause 8}{emote: Greetings}オーッス！{pause 8}　{Player nickname (green)}！{pause 20}	{emote: Glee}{ruby (charSpan 2): きょう}今日も　オイラはぜっこうちょう！{pause 40}	{ruby (charSpan 1): ワン}1！{pause 20}　{ruby (charSpan 1): ツー}2！{pause 20}　{ruby (charSpan 1): ワン}1！{pause 20}　{ruby (charSpan 1): ツー}2！{000c-0009-0000}
+"002"	{emote: Resigned}ちょっと{pause 8}・{pause 8}・{pause 8}・{pause 20}	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0008-0000}もうちょっと　{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着けないの？{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}{000c-0009-0000}
+"003"	{000c-0000-0000}{000c-0005-0000}{emote: Aggravation}なんだよー！{pause 8}　{0011-0001-0002-0001}！{pause 40}	オイラが　{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着きがないコ	みたいに{ruby (charSpan 1): い}言うなー！{000c-0009-0000}
+"004"	{000c-0000-0000}{000c-0007-0000}{emote: Worry}だって　そうじゃないの{pause 20}	いつも　そんなに	はしゃいじゃって{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Glare}そうだわ！{pause 20}	{ruby (charSpan 1): ため}試しに　どれだけ	ジッとしていられるか{pause 8}　やってみたら？{000c-0009-0000}
+"005"	{000c-0000-0000}{000c-0005-0000}{emote: Pride}いいぞー！{pause 20}	{ruby (charSpan 1): う}受けて{ruby (charSpan 1): た}立つよ！{Wait for input}	{emote: Anger}よーい、{pause 40}{emote: Sunny}スタート！{Wait for input}{emote: Reset}じーー{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Distress}{0007-000b-0000}ギ、{pause 20}{0007-000b-0000}ギブアップー！{000c-0009-0000}
+"006"	{000c-0000-0000}{000c-0007-0000}{emote: Shocked}{0007-000b-0000}えぇ？！{pause 20}	それは　いくらなんでも	{ruby (charSpan 1): はや}早すぎよ、{pause 8}{catchphrase}
+"007"
+"008"	{000c-0002-0000}{000c-0003-0000}{000c-0001-0000}{000c-0004-0000}よぉ！{pause 8}　{Player nickname (green)}！{pause 20}	{emote: Happiness}なんか　ヒマだからさ、{pause 20}	{ruby (charSpan 2): ふたり}二人で　{ruby (charSpan 1): なに}何して{ruby (charSpan 1): あそ}遊ぶか{ruby (charSpan 2): そうだん}相談してたんだー{Wait for input}{emote: Agreement}オマエも　アイデア	{ruby (charSpan 1): だ}出してくれー！{000c-0009-0000}{Player can respond (0001):0009-0000-000e-0000-0013-0000}	{ruby (charSpan 1): ほん}本を{ruby (charSpan 1): よ}読む	おにごっこ	おままごと
+"009"	{000c-0002-0000}{000c-0003-0000}{000c-0000-0000}{000c-0007-0000}{pause 8}{emote: Happiness}{ruby (charSpan 1): ほん}本を{ruby (charSpan 1): よ}読むなんて、{pause 20}	{Player nickname (green)}{0005-000d-0000}{pause 8}	{ruby (charSpan 2): いがい}意外と　インテリなのね{Wait for input}{emote: Agreement}おうちで　{ruby (charSpan 2): ちしき}知識を　たくわえるのは{pause 20}	とっても　いいことだと{ruby (charSpan 1): おも}思うわ、{pause 8}{catchphrase}{000c-0009-0000}
+"010"	{000c-0000-0000}{000c-0005-0000}{emote: Distress}えー！{pause 20}	そんなの　たいくつだよー！{pause 40}	オイラは　{ruby (charSpan 2): はんたい}反対　{ruby (charSpan 2): はんたい}反対ー！{000c-0009-0000}
+"011"	{000c-0001-0000}{000c-0008-0000}{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}まぁまぁ、{pause 20}そう{ruby (charSpan 1): い}言わないで{pause 40}	{emote: Happiness}なんだったら　アタシが	{ruby (charSpan 1): ほん}本を{ruby (charSpan 1): よ}読み{ruby (charSpan 1): き}聞かせて　あげましょうか？{Wait for input}{emote: Daydreaming}むかし{pause 8}　むかし{pause 20}	あるところに{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Soft Smile}フフン{pause 20}	きっと　よく{ruby (charSpan 1): ねむ}眠れるわよ、{pause 8}{catchphrase}{000c-0009-0000}
+"012"	{000c-0000-0000}{000c-0005-0000}{emote: Outrage}そんなの　いらないよ！{pause 20}	こどもあつかい　するなー！	{pause 8}{catchphrase}！{000c-0009-0000}
+"013"	{000c-0000-0000}{000c-0007-0000}{emote: Laughter}ほほほ{pause 20}	ちょっと　からかっただけよ{pause 40}{emote: Soft Smile}
+"014"	{000c-0001-0000}{000c-0008-0000}{000c-0000-0000}{000c-0008-0000}{emote: Resigned}おにごっこ？{pause 40}	そんなに　はしゃげないわよ{Wait for input}{emote: Glare}{ruby (charSpan 1): べつ}別のおにごっこだったら	やっても　いいけど{pause 8}・{pause 8}・{pause 8}・{000c-0009-0000}
+"015"	{000c-0000-0000}{000c-0005-0000}{000c-0002-0000}{000c-0005-0000}{emote: Curious}{ruby (charSpan 1): べつ}別のおにごっこ？{pause 40}	なんだよ　それ！{000c-0009-0000}
+"016"	{000c-0000-0000}{000c-0007-0000}{emote: Sheepishness}{ruby (charSpan 1): わる}悪い{ruby (charSpan 1): こ}子は　いねーがーー{pause 40}	{ruby (charSpan 1): わる}悪い{ruby (charSpan 1): こ}子は{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{Text size 150%}{emote: Aggravation}{0007-000b-0000}くっちまうぞーーー！{Text size 100%}{000c-0009-0000}
+"017"	{000c-0000-0000}{000c-0005-0000}{emote: Disbelief}{0007-000b-0000}うぉーーっ！{pause 20}	オニが{ruby (charSpan 1): で}出たー？！{Wait for input}{emote: Sigh}はぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ビックリしたぞ、{pause 8}{catchphrase}{000c-0009-0000}
+"018"	{000c-0000-0000}{000c-0007-0000}{emote: Laughter}フフン{pause 20}	ちょっと　からかっただけよ{pause 40}{emote: Soft Smile}
+"019"	{000c-0001-0000}{000c-0008-0000}{000c-0000-0000}{000c-0007-0000}{emote: Alarmed}おままごと？！{pause 20}	なんか　なつかしくていいわね{000c-0009-0000}
+"020"	{000c-0002-0000}{000c-0005-0000}{000c-0000-0000}{000c-0005-0000}{emote: Shocked}{0007-000b-0000}えぇー！{pause 20}	{0011-0001-0002-0001}も　おままごとなんて	やってたのかー？{000c-0009-0000}
+"021"	{000c-0000-0000}{000c-0007-0000}{emote: Resigned}あら{pause 8}・{pause 8}・{pause 8}・{pause 20}	アタシだって{pause 20}　いたいけな{ruby (charSpan 4): しょうじょじだい}少女時代が	あったんですからね、{pause 8}{catchphrase}{000c-0009-0000}
+"022"	{000c-0000-0000}{000c-0005-0000}{emote: Sheepishness}{pause 8}・{pause 8}・{pause 8}・{pause 20}そ、{pause 20}そうなのか？{pause 40}	{emote: Disagreement}まぁ{pause 20}　いいや{Wait for input}{emote: Happiness}それじゃあ{pause 20}　オイラはお{ruby (charSpan 1): とう}父さん{ruby (charSpan 1): やく}役！{pause 20}	{0011-0001-0002-0001}が　お{ruby (charSpan 1): かあ}母さんだー！{emote: Reset}{Wait for input}{000c-0001-0000}{000c-0003-0000}{Player nickname (green)}は　こども{ruby (charSpan 1): やく}役なっ！{000c-0009-0000}
+"023"	{000c-0000-0000}{000c-0007-0000}{emote: Disagreement}いやだわ{pause 40}	アタシまだ　そんな{ruby (charSpan 1): とし}歳じゃないし{000c-0009-0000}
+"024"	{000c-0001-0000}{000c-0007-0000}{000c-0000-0000}{000c-0005-0000}{pause 8}{emote: Sadness}オマエ{pause 8}・{pause 8}・{pause 8}・{pause 20}	おままごとなのに　ムキになるなよ
+"025"
+"026"	{000c-0000-0000}{000c-0005-0000}{emote: Worry}なぁ　{0011-0001-0002-0001}、{pause 20}	{ruby (charSpan 2): じんせい}人生に　{ruby (charSpan 2): だいじ}大事なことって	{ruby (charSpan 1): なん}何なんだー？{000c-0009-0000}
+"027"	{000c-0000-0000}{000c-0007-0000}{emote: Resigned}そんなの{pause 20}　こだわり	に{ruby (charSpan 1): き}決まってるじゃない{000c-0009-0000}
+"028"	{000c-0000-0000}{000c-0005-0000}{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 20}	なんだよ　こだわりって！　{pause 8}{catchphrase}！{000c-0009-0000}
+"029"	{000c-0000-0000}{000c-0007-0000}{emote: Glare}それはね{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): だれ}誰にも　ゆずれないもの{pause 20}	{emote: Showmanship}ゆずりたくないものよ！{000c-0009-0000}
+"030"	{000c-0000-0000}{000c-0005-0000}{emote: Thought}オイラの	ゆずれないもの{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Inspired}ふっきんに　{ruby (charSpan 1): たい}対する{pause 20}	{ruby (charSpan 1): あつ}熱い{ruby (charSpan 1): おも}思いとかか？{000c-0009-0000}
+"031"	{000c-0000-0000}{000c-0007-0000}{emote: Sunny}そう！{pause 20}	それが　アナタのこだわりなら{pause 8}	{ruby (charSpan 2): だいじ}大事にしなさい！{Wait for input}{emote: Resigned}アタシは　ふっきんには{pause 20}	{ruby (charSpan 2): きょうみ}興味ないけどね、{pause 8}{catchphrase}{000c-0009-0000}
+"032"	{000c-0000-0000}{000c-0005-0000}{emote: Distress}えぇー？！{pause 40}	オイラのこだわりは	{ruby (charSpan 2): たにん}他人に　りかいされないのかー？！{000c-0009-0000}
+"033"	{000c-0000-0000}{000c-0007-0000}{emote: Disagreement}いいじゃない　{ruby (charSpan 2): りかい}理解されなくたって{Wait for input}{emote: Agreement}つまらないオトナはね{pause 40}	{ruby (charSpan 1): ひと}人に　{ruby (charSpan 2): りかい}理解されないからって	{ruby (charSpan 2): じぶん}自分のこだわりを　{ruby (charSpan 1): す}捨ててしまうのよ

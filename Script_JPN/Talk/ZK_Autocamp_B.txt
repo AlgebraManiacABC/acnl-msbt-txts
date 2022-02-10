@@ -1,31 +1,31 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{000a-0007-000c-16-00-16-00-15-00-15-00-16-00-16-00}
-"003"	{000a-0007-000c-16-00-16-00-15-00-15-00-16-00-16-00}
-"004"	
-"005"	
-"006"	{0009-0005-000e-17-00-18-00-19-00-1a-00-1b-00-1c-00-1d-00}
-"007"	{0009-0005-000e-17-00-18-00-19-00-1a-00-1b-00-1e-00-1f-00}
-"008"	{emote: Soft Smile}
-"009"	{emote: Soft Smile}
-"010"	{emote: Greetings}
-"011"	{emote: Agreement}
-"012"	
-"013"	
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"021"	{emote: Greetings}
-"022"	{emote: Alarmed}
-"023"	{emote: Anger}
-"024"	{emote: Anger}
-"025"	{emote: Glare}
-"026"	{emote: Sheepishness}
-"027"	{emote: Bashful}
-"028"	{emote: Agreement}
-"029"	{emote: Agreement}
-"030"	{emote: Joy}
-"031"	{emote: Alarmed}
+"001"	{emote: Alarmed}おや？{pause 8}	キミも　よそから{ruby (charSpan 1): き}来たのかい？{pause 40}	{emote: Agreement}{ruby (charSpan 1): じつ}実は、ボクもなんだ！	{emote: Anger}お{ruby (charSpan 1): たが}互い　ゲストらしく{pause 40}	{emote: Showmanship}{ruby (charSpan 3): れいぎただ}礼儀正しく　{ruby (charSpan 1): ふ}振るまおうじゃないか！	{pause 8}{catchphrase}！
+"002"	{000a-0007-000c-0016-0016-0015-0015-0016-0016}
+"003"	{000a-0007-000c-0016-0016-0015-0015-0016-0016}
+"004"
+"005"
+"006"	{0009-0005-000e-0017-0018-0019-001a-001b-001c-001d}
+"007"	{0009-0005-000e-0017-0018-0019-001a-001b-001e-001f}
+"008"	{emote: Soft Smile}{ruby (charSpan 2): あした}明日はいったん、ホームに{ruby (charSpan 1): かえ}帰って{pause 16}	{ruby (charSpan 2): ひっこ}引越しの{ruby (charSpan 2): じゅんび}準備をしてくるよ、{pause 8}{catchphrase}{Wait for input}{emote: Anger}{ruby (charSpan 1): のこ}残してきたヒト{ruby (charSpan 1): たち}達に{pause 16}	ちゃんと　あいさつしないとね？{Wait for input}{emote: Bashful}{pause 16}きっと、{pause 8}{ruby (charSpan 2): なんにん}何人かの　{ruby (charSpan 1): おんな}女のコが{pause 8}	{ruby (charSpan 1): かな}悲しんでくれるんじゃないかな？{pause 60}	{emote: Happiness}{Gray}たぶん{pause 8}・{pause 8}・{pause 8}・{Color Reset}
+"009"	{emote: Soft Smile}{ruby (charSpan 1): じつ}実は、あるヒトに	この{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): こ}来ないかって{pause 16}	{ruby (charSpan 1): さそ}誘われているんだ、{pause 8}{catchphrase}	{emote: Bashful}{pause 16}あんな{ruby (charSpan 1): ふう}風に{ruby (charSpan 1): たの}頼まれたら、{pause 20}	ボクは　{ruby (charSpan 1): ことわ}断れないよ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}っていうわけで、{pause 8}	こっちに{ruby (charSpan 1): き}来たら　{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): むら}村の{ruby (charSpan 2): じゅうみん}住民だ！{pause 40}	{emote: Showmanship}よろしく{ruby (charSpan 1): たの}頼むね、{pause 8}{catchphrase}
+"010"	{emote: Greetings}やあ、{pause 8}どうかしたのかい？{000f-0006-0006-0000-0000-0000}	おしゃべりしよう	{ruby (charSpan 1): むら}村に{ruby (charSpan 1): す}住みなよ！	ごゆっくり！
+"011"	{emote: Agreement}ごていねいに　ありがとう！{pause 16}	そうさせてもらうよ！
+"012"
+"013"
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"021"	{emote: Greetings}やぁ、こんにちは！{pause 8}	おジャマさせてもらっているよ！{pause 20}	{emote: Agreement}ここは　ステキな{ruby (charSpan 1): むら}村だね！
+"022"	{emote: Alarmed}えっ！　{pause 8}この{ruby (charSpan 1): むら}村のヒト？{pause 60}	{emote: Glare}ボクは　{Villager's name (orange)}！{Wait for input}{emote: Anger}{ruby (charSpan 2): もくてき}目的もなく　ひたすら{ruby (charSpan 1): はし}走っていたら、{pause 20}	{ruby (charSpan 1): す}吸い{ruby (charSpan 1): よ}寄せられるように{pause 16}	この{ruby (charSpan 1): むら}村に　たどり{ruby (charSpan 1): つ}着いたのさ{pause 8}・{pause 8}・{pause 8}・	{emote: Agreement}ひょっとしたら、ボク{ruby (charSpan 1): たち}達{pause 16}	ここで　{ruby (charSpan 2): であ}出会うのが{pause 8}	{ruby (charSpan 2): うんめい}運命だったのかもしれないね、{pause 8}{catchphrase}
+"023"	{emote: Anger}{ruby (charSpan 2): しぜん}自然の{ruby (charSpan 1): なか}中でリラックスしていると、{pause 16}	{emote: Agreement}{ruby (charSpan 1): あたら}新しい{ruby (charSpan 2): じぶん}自分に　{ruby (charSpan 1): う}生まれ{ruby (charSpan 1): か}変われる{pause 20}	そんな{ruby (charSpan 1): き}気がするんだ、{pause 8}{catchphrase}
+"024"	{emote: Anger}{ruby (charSpan 2): じかん}時間や　とまる{ruby (charSpan 2): ばしょ}場所に　しばられない{pause 16}	{ruby (charSpan 3): じゆうき}自由気ままな　{ruby (charSpan 3): くるませいかつ}車生活{pause 8}・{pause 8}・{pause 8}・{Wait for input}その{ruby (charSpan 2): みりょく}魅力にとりつかれた　ボクは、{pause 40}	{emote: Glare}キャンパーという{ruby (charSpan 1): な}名の　{ruby (charSpan 2): たびびと}旅人さ
+"025"	{emote: Glare}ようこそ！{pause 8}	{Villager's name (orange)}のプライベート{ruby (charSpan 2): くうかん}空間へ！{Wait for input}{emote: Bashful}{pause 16}あんまり　ジロジロ{pause 8}	{ruby (charSpan 1): み}見ないでくれよ～、{pause 8}{catchphrase}
+"026"	{emote: Sheepishness}こうやって　{ruby (charSpan 1): くるま}車の{ruby (charSpan 1): なか}中で{pause 8}	{ruby (charSpan 2): せいかつ}生活するのも　{ruby (charSpan 1): わる}悪くないもんだよ、	{pause 8}{catchphrase}
+"027"	{emote: Bashful}{pause 16}さすがに　{ruby (charSpan 1): くるま}車の{ruby (charSpan 1): なか}中で{ruby (charSpan 1): く}暮らしてると{pause 20}	{ruby (charSpan 3): せいかつかん}生活感　{ruby (charSpan 1): で}出ちゃうよね～、{pause 8}{catchphrase}{Wait for input}{emote: Anger}でも、{pause 8}{ruby (charSpan 1): め}目をそらさないで！{pause 40}	これが{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Glare}{ruby (charSpan 3): とうしんだい}等身大の　{Villager's name (orange)}だよ！
+"028"	{emote: Agreement}どうやら、ここのキャンプ{ruby (charSpan 1): じょう}場には{pause 16}	キャラクターグッズとか{pause 8}	{ruby (charSpan 1): お}置いてないみたいだね、{pause 8}{catchphrase}	{emote: Anger}ボクが　ここの{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Glare}マスコットキャラになろうかな？{pause 40}	{emote: Sunny}ハッハー!
+"029"	{emote: Agreement}ボクは　{ruby (charSpan 2): かてい}家庭ゴミを{pause 8}	{ruby (charSpan 1): お}置いてったりしないよ、{pause 8}{catchphrase}{Wait for input}{emote: Showmanship}それが　キャンパーとしての{pause 8}	{ruby (charSpan 3): さいていげん}最低限のマナーだからね！
+"030"	{emote: Joy}この{ruby (charSpan 1): むら}村は　いやされるな～{pause 40}	きっと　マイナスイオンが{pause 8}	{ruby (charSpan 1): で}出ているんだね～{pause 8}・{pause 8}・{pause 8}・	{emote: Thought}{pause 16}どこから　{ruby (charSpan 1): で}出てるのかな{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 60}	{emote: Alarmed}ひょっとして　キミから？！{pause 16}	{emote: Sunny}なんてね！　{pause 8}ハッハー！
+"031"	{emote: Alarmed}この{ruby (charSpan 1): むら}村に{ruby (charSpan 1): き}来た{ruby (charSpan 2): りゆう}理由？	{pause 8}{catchphrase}？{Wait for input}{emote: Worry}{ruby (charSpan 1): じつ}実は{pause 8}・{pause 8}・{pause 8}・{pause 8}　{ruby (charSpan 1): くるま}車を{ruby (charSpan 1): と}停めて	{ruby (charSpan 1): すこ}少し　{ruby (charSpan 2): かみん}仮眠をとろうとしたら、{pause 20}	{ruby (charSpan 1): きゅう}急に　{ruby (charSpan 1): かな}金しばりにあって{pause 8}・{pause 8}・{pause 8}・	{emote: Agreement}{ruby (charSpan 1): き}気づいたら、{pause 8}ここに{ruby (charSpan 1): む}向かっていたんだ{pause 40}	{emote: Anger}ボクの{ruby (charSpan 1): し}知らない　{ruby (charSpan 3): ふしぎ}不思議な{ruby (charSpan 1): ちから}力が{pause 8}	{ruby (charSpan 1): はたら}働いている{ruby (charSpan 1): かん}感じだったよ、{pause 8}{catchphrase}{Wait for input}{emote: Sheepishness}なるほど、{pause 16}これが{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Glare}{ruby (charSpan 2): うんめい}運命の{ruby (charSpan 2): めがみ}女神のイタズラか！

@@ -1,105 +1,105 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Alarmed}
-"003"	{emote: Soft Smile}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Glare}
-"006"	{emote: Agreement}
-"007"	{emote: Glee}
-"008"	{emote: Alarmed}
-"009"	{emote: Laughter}
-"010"	{emote: Laughter}
-"011"	{emote: Alarmed}
-"012"	
-"013"	
-"014"	{000a-0016-0006-01-0f-00-10-00-ffffffcd}
-"015"	{emote: Soft Smile}
-"016"	{000a-0016-0006-02-11-00-12-00-ffffffcd}
-"017"	{emote: Curious}
-"018"	{emote: Agreement}
-"019"	
-"020"	Hey, {Player nickname (green)}
+"001"	{emote: Soft Smile}Hey, {Player nickname (green)}!{pause 20} Do you have	friends visiting {Town name (pink)}?
+"002"	{emote: Alarmed}So {Town name (pink)} is being visited?{pause 8}	Who's visiting then?!
+"003"	{emote: Soft Smile}{capitalized}{Town name (pink)} has guests?{pause 40} {emote: Reset}Are you	sure you shouldn't be acting as the	gracious town host right now?
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Glare}You gotta let every friend you have	know that classy guys like me live	in this town too!{pause 20} {capitalized}{catchphrase}!
+"006"	{emote: Agreement}{pause 20}I suppose I should go say hello{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Worry}I don't have bed head or anything,	do I?{pause 20} {capitalized}{catchphrase}?
+"007"	{emote: Glee}It's kind of exciting to meet people	other than the usual folks in town!{pause 20}	{capitalized}{catchphrase}!
+"008"	{emote: Alarmed}I wanted to ask you,{pause 20} {emote: Reset}what kind of	people do you bring to town?	You know, visitors and the like?{Player can respond (0001):0009-0000-000a-0000-000b-0000}	Good people.	Bad people.	It's a secret!
+"009"	{emote: Laughter}GAHAHA!{pause 30}{emote: Happiness} You must have really	amazing friends for you to say that!{Wait for input}{emote: Glare}I'm suddenly real curious to meet	anyone you bring by!{pause 20} {capitalized}{catchphrase}!
+"010"	{emote: Laughter}GAHAHA!{pause 30}{emote: Happiness} No good, huh?{pause 20}	That's pretty funny!{Wait for input}{emote: Glee}I'll have to see just how bad your	friends are if I ever see any of	'em!{pause 20} {capitalized}{catchphrase}!
+"011"	{emote: Alarmed}Huh? {pause 8}Why's that?{pause 40} {emote: Reset}Not like I'm gonna	steal your friends from you or	anything like that!	{emote: Agreement}But if they make you wanna keep it	a secret{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Glare}Well, it gets me super	curious! {emote: Anger}Nice going!{pause 20} {capitalized}{catchphrase}!
+"012"
+"013"
+"014"	{000a-0016-0006-0f01-1000-cd00}
+"015"	{emote: Soft Smile}Since you got your net{pause 8}.{pause 8}.{pause 8}.{pause 20}you plan	on competing over bug catching or	something like that?	{emote: Curious}You competing with any friends	from out of town?{pause 20} {emote: Mischief}Yeah, like you	need more competition!{pause 8} {emote: Laughter}GAHAHA!
+"016"	{000a-0016-0006-1102-1200-cd00}
+"017"	{emote: Curious}Do you have friends besides me that	like to fish?{pause 16} Like,{pause 8} a visiting friend?{Wait for input}{emote: Glare}I'd love to get some info about fish	in other towns{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Reset}Guess I'll just wait	and see for myself,{pause 20} {catchphrase}!
+"018"	{emote: Agreement}You know, you seem to surround	yourself with friends that look and	act almost exactly like you!	It's just the overall feeling I get.{pause 8}	Then again, {emote: Mischief}I have a real hard time	telling you humans apart.{pause 20} {emote: Laughter}GAHAHA!
+"019"
+"020"	Hey, {Player nickname (green)},{pause 20} when ya got a	friend in town, it might be useful to	select {Blue}End the multiplayer session{Color Reset}!	{emote: Soft Smile}You can use it to close the station	gates and send everyone home in	one quick instant.	{emote: Happiness}It's like shutting down the party!	{emote: Reset}Press {Blue}START{Color Reset}, and then choose	{Blue}End the multiplayer session{Color Reset}.{pause 15}	Pretty simple, huh?{Wait for input}{emote: Sheepishness}Just so we're clear, proper manners	dictate you tell your friends before	you do it though!{pause 20} {emote: Laughter}GAHAHA!{emote: Soft Smile}
 == 1 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Alarmed}
-"003"	{emote: Soft Smile}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Glare}
-"006"	{emote: Agreement}
-"007"	{emote: Glee}
-"008"	{emote: Alarmed}
-"009"	{emote: Laughter}
-"010"	{emote: Laughter}
-"011"	{emote: Alarmed}
-"012"	
-"013"	
-"014"	{000a-0016-0006-01-0f-00-10-00-ffffffcd}
-"015"	{emote: Soft Smile}
-"016"	{000a-0016-0006-02-11-00-12-00-ffffffcd}
-"017"	{emote: Soft Smile}
-"018"	Es curioso{pause 8}
-"019"	
-"020"	Oye, {Player nickname (green)}
+"001"	{emote: Soft Smile}¿Qué pasa,{pause 8} {Player nickname (green)}?{pause 15}	¿Tienes visita?
+"002"	{emote: Alarmed}¡Que tenemos visita!{pause 20} ¿Sabes si	es que {capitalized}{Town name (pink)} es el destino	turístico de moda o algo?
+"003"	{emote: Soft Smile}¡{capitalized}{Town name (pink)},{pause 8} pueblo de vacaciones!{pause 30}	{emote: Reset}¿A quién has traído?{pause 25} ¿Y no deberías	estar haciendo de anfitri{ón/ona}?
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Glare}Tienes que decirle a tus visitas que	aquí tienes amigos importantes,	como yo,{pause 10} {catchphrase}.
+"006"	{emote: Agreement}{pause 20}Oye,{pause 8} dime,{pause 8} antes de que me vea	más gente{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Worry}¿Me he despeinado?{pause 12}	¿{capitalized}{catchphrase}?
+"007"	{emote: Glee}Está muy bien esto de conocer	gente de otros pueblos.{pause 20}	¡{capitalized}{catchphrase}, sí!
+"008"	{emote: Alarmed}¡Pero cuéntame algo!{pause 20} {emote: Reset}	¿Qué tipo de gente traes al pueblo?{Player can respond (0001):0009-0000-000a-0000-000b-0000}	Siempre buena gente	Solo malas personas	A ti te lo voy a decir...
+"009"	{emote: Laughter}¡Ja, ja, ja!{pause 30}{emote: Happiness} ¿Ya está?{pause 20} ¿Eso es todo	lo que me vas a contar?{Wait for input}{emote: Glare}Pues nada,{pause 8} tendré que ir yo	a informarme personalmente,{pause 12}	{catchphrase}.
+"010"	{emote: Laughter}¡Ja, ja, ja!{pause 30}{emote: Happiness} ¿Eso es verdad?{pause 20}	¡No me lo creo!{Wait for input}{emote: Glee}Tendré que comprobarlo por mí	mismo,{pause 10} {catchphrase}.
+"011"	{emote: Alarmed}¡Pero bueno!{pause 8} Que no te voy a robar	a los amigos ni nada, ¿eh?{pause 40}	{emote: Reset}¡Qué cosas tienes!	{emote: Agreement}Si quieres tener secretos conmigo,{pause 8}	tú sabrás{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Glare}¡Me dejas con la intriga!	{emote: Anger}Lo has hecho aposta,{pause 12} {catchphrase}.
+"012"
+"013"
+"014"	{000a-0016-0006-0f01-1000-cd00}
+"015"	{emote: Soft Smile}¿Vas a organizar un concurso	privado de caza de bichos?{pause 20}{Wait for input}{emote: Glare}Espero que me cuentes entre	tus selectas amistades y me invites	a participar,{pause 8} {catchphrase}.
+"016"	{000a-0016-0006-1102-1200-cd00}
+"017"	{emote: Soft Smile}¿Conoces a alguien que sea	aficionado a la pesca?{Wait for input}{emote: Glare}Me gustaría saber más sobre	los peces de otros lugares{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sigh}Bueno, supongo que tendré que ir a	preguntar yo mismo,{pause 12} {catchphrase}.
+"018"	Es curioso{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Agreement}Siempre te rodeas de	gente que se te parece mucho,{pause 8} ¿no?{Wait for input}{emote: Soft Smile}O será que a mí me cuesta	distinguir a unos humanos	de otros.{pause 20} {emote: Laughter}¡Ja, ja, ja!
+"019"
+"020"	Oye, {Player nickname (green)},{pause 12} aunque te lo estés	pasando bien con las visitas,{pause 8} {emote: Happiness}a veces	llega la hora de cortar la diversión.	{emote: Soft Smile}Hay una forma muy sencilla de	mandar a todo el mundo a casa	y cerrar la estación en un instante.	{emote: Reset}Pulsa {Blue}START{Color Reset} y elige {Blue}Todos a casa{Color Reset}.{pause 20}	{emote: Happiness}Así todo el mundo sabrá que se ha	acabado la fiesta.{pause 20} Fácil,{pause 8} ¿no?{Wait for input}{emote: Sheepishness}Aunque para hacer las cosas con	educación,{pause 8} lo mejor es avisar	antes,{pause 8} claro está.{pause 20} {emote: Laughter}¡Ja, ja, ja!{emote: Soft Smile}
 == 2 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Alarmed}
-"003"	{emote: Soft Smile}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Glare}
-"006"	{emote: Agreement}
-"007"	{emote: Glee}
-"008"	En général, les gens que tu reçois	en ville sont comment ? Plutôt	sympas ?{Player can respond: 0001-09-00-00-00-0a-00-00-00-0b-00-00-00}
-"009"	{emote: Laughter}
-"010"	{emote: Laughter}
-"011"	{emote: Alarmed}
-"012"	
-"013"	
-"014"	{000a-0016-0006-01-0f-00-10-00-ffffffcd}
-"015"	{emote: Soft Smile}
-"016"	{000a-0016-0006-02-11-00-12-00-ffffffcd}
-"017"	{emote: Soft Smile}
-"018"	{emote: Soft Smile}
-"019"	
-"020"	Hé, {Player nickname (green)}
+"001"	{emote: Soft Smile}Hé, {Player nickname (green)} !{pause 20} Tu as de la visite,	il paraît ?
+"002"	{emote: Alarmed}J'ai entendu dire que tu avais de	la visite. C'est qui ?
+"003"	{emote: Soft Smile}On a de la visite, à {Town name (pink)} ?{pause 40} {emote: Reset}On	peut les laisser tout seuls ?
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Glare}Qu'il existe des types aussi	branchés que moi dans cette ville,	ça va se savoir.{pause 20} {capitalized}{catchphrase} !
+"006"	{emote: Agreement}{pause 20}Je devrais aller dire bonjour{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Worry}J'ai	pas trop de marques d'oreiller,{pause 20}	{catchphrase} ?
+"007"	{emote: Glee}C'est angoissant de savoir qu'il y a	ici du monde qui n'est pas là	d'habitude.{pause 20} {capitalized}{catchphrase} !
+"008"	En général, les gens que tu reçois	en ville sont comment ? Plutôt	sympas ?{Player can respond (0001):0009-0000-000a-0000-000b-0000}	Oui, à fond !	Non, pas vraiment.	C'est un secret !
+"009"	{emote: Laughter}HA HA HA !{pause 30}{emote: Happiness} Je suis bien content de	l'apprendre, {pause 20}vraiment !{Wait for input}{emote: Glare}J'ai envie d'avoir de la visite moi	aussi, maintenant. C'est malin,	{catchphrase} !
+"010"	{emote: Laughter}HA HA HA !{pause 30}{emote: Happiness} Pas sympa, hein ?{pause 20} C'est	marrant !{Wait for input}{emote: Glee}Faudrait que j'aille vérifier ça !{pause 20}	{capitalized}{catchphrase} !
+"011"	{emote: Alarmed}Hein ? {pause 8}Comment ça ?{pause 40} {emote: Reset}T'inquiète	pas, je vais pas te voler tes amis...{Wait for input}{emote: Agreement}Mais si c'est du genre secret{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Glare}ça	me rend super curieux !{pause 20}	{capitalized}{catchphrase} !
+"012"
+"013"
+"014"	{000a-0016-0006-0f01-1000-cd00}
+"015"	{emote: Soft Smile}Qu'est-ce que tu comptes faire	avec ton filet{pause 8}.{pause 8}.{pause 8}.{pause 20}? Attraper le plus	d'insectes possible ?	{emote: Glare}C'est pour ça que tu ramènes des	amis ici{pause 8}.{pause 8}.{pause 8}.{pause 20}? Pour faire la	compétition ?! {emote: Laughter}HA HA HA !
+"016"	{000a-0016-0006-1102-1200-cd00}
+"017"	{emote: Soft Smile}Les amis que tu ramènes ici, ils	aiment la pêche ?{Wait for input}{emote: Glare}Je voudrais leur demander tout ce	qu'ils savent sur les poissons{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Reset}	{pause 20}{capitalized}{catchphrase} !
+"018"	{emote: Soft Smile}Qui se ressemble, s'assemble, pas	vrai ?{Wait for input}{emote: Agreement}Je dis ça parce que j'ai l'impression	que les gens qui viennent te rendre	visite te ressemblent étrangement...
+"019"
+"020"	Hé, {Player nickname (green)},{pause 20} quand tu reçois des	amis d'une autre ville, {emote: Happiness}ça peut être	utile d'interrompre la session.	{emote: Soft Smile}Ça sert à fermer le portillon de la	gare et ça renvoie tout le monde à	la maison instantanément.	{emote: Happiness}C'est un peu comme si la fête était	finie. {emote: Reset}Appuie sur {Blue}START{Color Reset}, puis	sélectionne {Blue}Fin de la session{Color Reset}.{pause 15}	C'est simple, non ?{Wait for input}{emote: Sheepishness}Pour être poli, mieux vaut prévenir	tes amis avant de faire ça, hein !{pause 20}	{emote: Laughter}HA HA HA !{emote: Soft Smile}
 == 3 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Alarmed}
-"003"	{emote: Soft Smile}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Glare}
-"006"	{emote: Agreement}
-"007"	{emote: Glee}
-"008"	{emote: Alarmed}
-"009"	{emote: Laughter}
-"010"	{emote: Laughter}
-"011"	{emote: Alarmed}
-"012"	
-"013"	
-"014"	{000a-0016-0006-01-0f-00-10-00-ffffffcd}
-"015"	{emote: Soft Smile}
-"016"	{000a-0016-0006-02-11-00-12-00-ffffffcd}
-"017"	{emote: Soft Smile}
-"018"	{emote: Agreement}
-"019"	
-"020"	Ehi, {Player nickname (green)}
+"001"	{emote: Soft Smile}Ehi, {Player nickname (green)}!{pause 20} Hai visite, eh?
+"002"	{emote: Alarmed}Ho sentito dire che hai visite!	Di chi si tratta???
+"003"	{emote: Soft Smile}{capitalized}{Town name (pink)} sta ricevendo visite!{pause 40}	{emote: Reset}E perché sei qui invece che andare	ad accogliere i nostri turisti?
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Glare}Bisogna dirlo ai turisti che questa	città ha anche cittadini troppo	avanti... come me!{pause 20} {capitalized}{catchphrase}!
+"006"	{emote: Agreement}{pause 20}Forse è il caso che vada a salutare{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Worry}Non ricordo se mi sono lavato	i denti... {pause 20}{capitalized}{catchphrase}!
+"007"	{emote: Glee}Finalmente è arrivato qualche	forestiero a svegliare un po' questa	città!{pause 20} {capitalized}{catchphrase}!
+"008"	{emote: Alarmed}Volevo chiederti...{pause 20} {emote: Reset}Che tipo	di persone porti in città?{Player can respond (0001):0009-0000-000a-0000-000b-0000}	Brave persone.	Cattive persone.	Non te lo dico!
+"009"	{emote: Laughter}AHAHAH!{pause 30}{emote: Happiness} Devi avere proprio	degli amici incredibili!{Wait for input}{emote: Glare}Non vedo l'ora di conoscerli	tutti!{pause 20} {capitalized}{catchphrase}!
+"010"	{emote: Laughter}AHAHAH!{pause 30}{emote: Happiness} E me lo dici così?{pause 20}	Che buff{o/a} che sei.{Wait for input}{emote: Glee}Ora dovrò conoscere queste	persone per giudicare da solo!{pause 20}	{capitalized}{catchphrase}!
+"011"	{emote: Alarmed}Ah, {pause 8}e perché?{pause 40} {emote: Reset}Mica vado in giro	a rubare gli amici alla gente, io!	{emote: Agreement}Ma se ci tieni a farne un segreto{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Glare}Certo però che ora sono	supercurioso! {emote: Anger}Ed è tutta	colpa tua!{pause 20} {capitalized}{catchphrase}!
+"012"
+"013"
+"014"	{000a-0016-0006-0f01-1000-cd00}
+"015"	{emote: Soft Smile}Vedo che vai in giro col retino{pause 8}.{pause 8}.{pause 8}.{pause 20}	Hai intenzione di partecipare a	una gara di caccia all'insetto?	{emote: Curious}Parteciperai con qualche amico,	per caso?{pause 20} {emote: Mischief}Non ti bastavano	i rivali che hai qui?{pause 8} {emote: Laughter}AHAHAH!
+"016"	{000a-0016-0006-1102-1200-cd00}
+"017"	{emote: Soft Smile}Hai trovato qualcuno	con cui andare a pesca?{Wait for input}{emote: Glare}Mi piacerebbe sapere qualcosa sui	pesci delle altre città{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Reset}Magari un	giorno andrò a vedere di persona!
+"018"	{emote: Agreement}Direi che ti piace circondarti	di persone che ti somigliano{pause 8}.{pause 8}.{pause 8}.{pause 20}	Non pensi anche tu?!{Wait for input}E non sto parlando dell'aspetto	fisico! Dico l'impressione generale!	Siete troppo uguali!{pause 20} {emote: Laughter}AHAHAH!
+"019"
+"020"	Ehi, {Player nickname (green)},{pause 20} quando hai visite	da un'altra città, {emote: Happiness}puoi decidere	di mandare "tutti a casa"!	{emote: Soft Smile}Puoi usare questo comando per	chiudere i cancelli della stazione.{Wait for input}	{emote: Happiness}I visitatori torneranno a casa loro!	{emote: Reset}Premi {Blue}START {Color Reset}e poi scegli	{Blue}Tutti a casa{Color Reset}.{pause 15} Facile, no?{Wait for input}{emote: Sheepishness}Però ricorda... Sii gentile e avverti	i tuoi amici prima di scegliere	questa opzione!{pause 20} {emote: Laughter}AHAHAH!{emote: Soft Smile}
 == 4 ==
-"001"	{emote: Glare}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Glare}
-"006"	{emote: Agreement}
-"007"	{emote: Mischief}
-"008"	{emote: Alarmed}
-"009"	{emote: Laughter}
-"010"	{emote: Laughter}
-"011"	{emote: Alarmed}
-"012"	
-"013"	
-"014"	{000a-0016-0006-01-0f-00-10-00-ffffffcd}
-"015"	{emote: Glare}
-"016"	{000a-0016-0006-02-11-00-12-00-ffffffcd}
-"017"	{emote: Curious}
-"018"	{emote: Agreement}
-"019"	
-"020"	Besuch aus einer anderen Stadt	kannst du bei Bedarf auch	rausschmeißen,{pause 8}!
+"001"	{emote: Glare}Na, {pause 8}hast du Besuch,{pause 8} {Player nickname (green)}?
+"002"	{emote: Alarmed}Ich hab gehört, dass du Besuch hast!{pause 20}	Wer ist denn gekommen?
+"003"	{emote: Alarmed}{capitalized}{Town name (pink)} hat Besuch?{pause 40} {emote: Reset}Musst du	jetzt als Gastgeber nicht 'ne kleine	Besichtigungstour starten?
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Glare}Du solltest deinem Besuch auf jeden	Fall vom wichtigsten Bewohner hier	erzählen!{pause 20} MIR,{pause 20} {catchphrase}!
+"006"	{emote: Agreement}{pause 20}Ich sollte unseren Besuch gebührend	empfangen, {pause 8}{catchphrase}!{pause 20} {emote: Worry}Aber ich	will niemanden verschrecken...
+"007"	{emote: Mischief}Der Besuch bringt hoffentlich etwas	Abwechslung,{pause 20} {catchphrase}!
+"008"	{emote: Alarmed}Wie ist denn dein Besuch so?{Player can respond (0001):0009-0000-000a-0000-000b-0000}	Sehr nett!	Manchmal gemein...	Das verrat ich nicht!
+"009"	{emote: Laughter}Bwa ha ha!{pause 30}{emote: Glare} Das muss ja was heißen,	wenn du das so direkt sagen kannst!{Wait for input}{emote: Glare}Mein Interesse ist jedenfalls	geweckt,{pause 20} {catchphrase}!
+"010"	{emote: Laughter}Bwa ha ha!{pause 30} {emote: Glare}Das klingt doch mal gut!{pause 20}	Davon muss ich mich glatt selbst	überzeugen, {catchphrase}!
+"011"	{emote: Alarmed}Hä? {pause 20}Warum das denn?{pause 40} {emote: Resigned}Keine Panik,	ich klau dir deine Freunde schon	nicht...	{emote: Agreement}Aber wenn jemand so geheimnisvoll	tut, will ich der Sache erst recht auf	den Grund gehen,{pause 20} {catchphrase}!
+"012"
+"013"
+"014"	{000a-0016-0006-0f01-1000-cd00}
+"015"	{emote: Glare}Ich sehe, du hast den Kescher schon	bereit.{pause 20} Wollt ihr herausfinden, wer	besser Insekten fängt?	{emote: Glare}Dein Besuch sieht mir so aus, als	würde das ein spannendes Duell	werden! {pause 20}{emote: Laughter}Bwa ha ha!{pause 30}{emote: Happiness}
+"016"	{000a-0016-0006-1102-1200-cd00}
+"017"	{emote: Curious}Angelt dein Besuch gern?{Wait for input}{emote: Glare}Vielleicht ist das in anderen Städten	etwas interessanter als hier,	{pause 20}{catchphrase}...
+"018"	{emote: Agreement}Dein Besuch und du,{pause 8} ihr seid euch	irgendwie ähnlich!{Wait for input}{emote: Disagreement}Nein, nicht vom Aussehen! {pause 20}Mehr so	vom Gesamteindruck her! {pause 20}Da seid	ihr absolut gleich! {pause 20}{emote: Laughter}Bwa ha ha!{pause 30}{emote: Happiness}
+"019"
+"020"	Besuch aus einer anderen Stadt	kannst du bei Bedarf auch	rausschmeißen,{pause 8} {Player nickname (green)}.	{emote: Mischief}Den Bahnsteig schließen und	alle nach Hause schicken...{pause 20}	{emote: Glare}Dann ist die Party vorbei!	{emote: Reset}Drücke {Blue}START{Color Reset} und wähle dann	{Blue}Besucher heimschicken{Color Reset}.{pause 15}	Ganz einfach, was?{Wait for input}{emote: Pride}Die Etikette verlangt allerdings,	dass du deinen Besuch vorher	warnst.{pause 30} {emote: Laughter}Na ja,{pause 8} deine Entscheidung!{pause 30}{emote: Soft Smile}

@@ -1,12 +1,12 @@
 == 0 ==
-"001"	Yo, {Player nickname (green)}
-"002"	Yo, {Player nickname (green)}
-"003"	Hey, hey, {Player nickname (green)}
+"001"	Yo, {Player nickname (green)}!{pause 20} Whaddya want?	{pause 20}{capitalized}{catchphrase}!
+"002"	Yo, {Player nickname (green)}!{pause 20} What're ya doin'?	{capitalized}{catchphrase}?
+"003"	Hey, hey, {Player nickname (green)}!{pause 20} You got	somethin' you wanna say to me?{pause 8}	Is it "{catchphrase}"?
 == 1 ==
-"001"	Eh, {Player nickname (green)}
-"002"	Eh, {Player nickname (green)}
-"003"	{capitalized}
+"001"	Eh, {Player nickname (green)},{pause 8} ¿qué pasa, colega?	{pause 20}¡{capitalized}{catchphrase}!
+"002"	Eh, {Player nickname (green)}, {pause 8}¿qué te cuentas,	{pause 8}{catchphrase}?
+"003"	{capitalized}{Player nickname (green)}...{pause 20} Hoy estás hasta en	la sopa, {catchphrase}. ¿Qué pasa?
 == 2 ==
-"001"	Hé, c'est {Player nickname (green)}
-"002"	{capitalized}
-"003"	{capitalized}
+"001"	Hé, c'est {Player nickname (green)}!{pause 20}	Tu voulais quelque chose,	{catchphrase}?
+"002"	{capitalized}{Player nickname (green)}!{pause 20}	Tout va comme tu veux,	{catchphrase}?
+"003"	{capitalized}{Player nickname (green)}!{pause 20} Tu as quelque chose	à me dire, {catchphrase}?

@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Alarmed}
-"003"	{emote: Curious}
-"004"	{emote: Sheepishness}
-"005"	{emote: Sheepishness}
-"006"	{000a-0000-0006-03-07-00-08-00-ffffffcd}
-"007"	{000a-001b-0006-01-00-09-00-08-00}
-"008"	{emote: Soft Smile}
-"009"	{emote: Worry}
-"010"	{emote: Soft Smile}
+"001"	{emote: Distress}キャ～　{pause 16}{ruby (charSpan 1): こ}来ないでぇ！{pause 32}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あぁ、{pause 16}アナタね？{Wait for input}	{emote: Worry}うわっ、{pause 16}{ruby (charSpan 1): いた}痛そう{pause 4}・{pause 4}・{pause 4}・{pause 4}{0009-0001-0006-0004-0005-0006}
+"002"	{emote: Alarmed}あれ？　{pause 16}{Player nickname (green)}{0005-000d-0000}って	そんな　{ruby (charSpan 1): かお}顔だったかしら？{0009-0001-0006-0004-0005-0006}
+"003"	{emote: Curious}{Player nickname (green)}{0005-000d-0000}？{pause 32}	{emote: Worry}なんか　いつもより{pause 16}	たくましい{ruby (charSpan 1): かん}感じが{pause 8}・{pause 8}・{pause 8}・{pause 8}{0009-0001-0006-0004-0005-0006}
+"004"	{emote: Sheepishness}ま、{pause 16}その{ruby (charSpan 1): かお}顔なら、{pause 16}ハロウィンは	イケるわね、{pause 8}{catchphrase}
+"005"	{emote: Sheepishness}どうせ　{ruby (charSpan 1): き}木をゆすって、{pause 16}	ハチに　{ruby (charSpan 1): さ}刺されたんじゃないの？{pause 8}	{Player nickname (green)}{0005-000d-0000}？
+"006"	{000a-0000-0006-0703-0800-cd00}
+"007"	{000a-001b-0006-0001-0009-0008}
+"008"	{emote: Soft Smile}でも、{ruby (charSpan 2): あんしん}安心して！{pause 16}	{Blue}おくすり{Color Reset}を{ruby (charSpan 1): つか}使えば、{pause 8}すぐに{ruby (charSpan 1): なお}治るわ！
+"009"	{emote: Worry}その{ruby (charSpan 1): かお}顔なら、{pause 16}{ruby (charSpan 1): ほう}放っておいても	{ruby (charSpan 1): なお}治ると{ruby (charSpan 1): おも}思うけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): なお}治したいっていうなら、{pause 16}	コレを　{ruby (charSpan 1): つか}使ってちょうだい
+"010"	{emote: Soft Smile}{Blue}おくすり{Color Reset}よ、{pause 8}{catchphrase}！{pause 32}	よく{ruby (charSpan 1): き}効くんだから、{pause 8}それ

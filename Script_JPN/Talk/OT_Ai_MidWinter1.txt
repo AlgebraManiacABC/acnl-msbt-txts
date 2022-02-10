@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Greetings}
-"003"	えっと、{pause 16}
-"004"	{emote: Greetings}
-"005"	{emote: Distress}
-"006"	{Greeting begin}
-"007"	{emote: Fearful}
-"008"	{emote: Fearful}
-"009"	{emote: Alarmed}
-"010"	{emote: Soft Smile}
-"011"	{emote: Cold Chill}
+"001"	{emote: Greetings}{Greeting begin}{Player nickname (green)}{0005-000d-0000}、おはよ～！{Greeting end}{Wait for input}{emote: Worry}なんだか　{ruby (charSpan 1): まわ}周りが{ruby (charSpan 1): くら}暗いけど{pause 16}	アタシ、{ruby (charSpan 1): よる}夜まで	{ruby (charSpan 1): ね}寝ちゃったのかしら？　{pause 8}{catchphrase}？
+"002"	{emote: Greetings}{Greeting begin}おはよ、{Player nickname (green)}{0005-000d-0000}{Greeting end}{pause 32}	{emote: Soft Smile}うふふ、{pause 16}お{ruby (charSpan 2): ひさま}日様でも	お{ruby (charSpan 1): やす}休みの{ruby (charSpan 1): ひ}日ってあるのね、{pause 8}{catchphrase}
+"003"	えっと、{pause 16}おはようで	いいのよね？{Wait for input}{emote: Worry}{Hour}{ruby (charSpan 1): じ}時で　この{ruby (charSpan 1): くら}暗さだもの{pause 16}	なんだか　{ruby (charSpan 2): ちょうし}調子くるっちゃうわ～	{pause 8}{catchphrase}
+"004"	{emote: Greetings}{Greeting begin}こんにちわ、{Player nickname (green)}{0005-000d-0000}{Greeting end}{Wait for input}	{emote: Love}なんだか　フシギ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Hour}{ruby (charSpan 1): じ}時で　こんなに{ruby (charSpan 1): くら}暗いんだもの
+"005"	{emote: Distress}こんなの　ウソみたい{pause 8}・{pause 8}・{pause 8}・{pause 8}	これでも　まだ　{Hour}{ruby (charSpan 1): じ}時なのよ？{pause 8}	{pause 8}{catchphrase}？
+"006"	{Greeting begin}こんにちは、{Player nickname (green)}{0005-000d-0000}{Greeting end}{pause 32}	{ruby (charSpan 2): きょう}今日は　お{ruby (charSpan 2): ひさま}日様{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}お{ruby (charSpan 1): やす}休み　みたいね？　{pause 8}{catchphrase}？
+"007"	{emote: Fearful}{pause 16}あ～{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): さむ}寒いわね～、{pause 8}	{pause 8}{catchphrase}
+"008"	{emote: Fearful}{pause 16}{ruby (charSpan 1): さむ}寒いわね～、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	{ruby (charSpan 1): ひ}冷えしょうの　アタシには{pause 16}	こたえるわ{pause 8}・{pause 8}・{pause 8}・{pause 8}{catchphrase}
+"009"	{emote: Alarmed}あ、{pause 16}こんばんは{pause 8}	{Player nickname (green)}{0005-000d-0000}
+"010"	{emote: Soft Smile}{Greeting begin}あら、{Player nickname (green)}{0005-000d-0000}{Greeting end}{pause 16}	こんな{ruby (charSpan 2): よなか}夜中に　お{ruby (charSpan 2): さんぽ}散歩？	{pause 8}{catchphrase}？
+"011"	{emote: Cold Chill}{pause 32}う～{pause 8}・{pause 8}・{pause 8}・{emote: Fearful}{pause 16}{ruby (charSpan 1): さむ}寒いっ！{pause 32}	{ruby (charSpan 2): こんや}今夜は　{ruby (charSpan 1): ひ}冷え{ruby (charSpan 1): こ}込むわね～、	{pause 8}{catchphrase}

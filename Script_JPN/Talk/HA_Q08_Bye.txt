@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Reset}
-"002"	{emote: Alarmed}
-"003"	{emote: Shocked}
-"004"	{emote: Curious}
-"005"	{emote: Surprise}
-"006"	{emote: Alarmed}
+"001"	{emote: Reset}よーし{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}オイラ　そろそろ　{ruby (charSpan 1): かえ}帰るよー{Wait for input}まだまだ　{ruby (charSpan 1): はな}話し{ruby (charSpan 1): た}足りないけど{pause 20}	{ruby (charSpan 1): つづ}続きは　また{ruby (charSpan 2): こんど}今度な、{pause 8}{catchphrase}
+"002"	{emote: Alarmed}うぉー！{pause 20}	もう　こんな{ruby (charSpan 2): じかん}時間かー！{Wait for input}{emote: Happiness}そんじゃ、{pause 8}	オイラ　そろそろ{ruby (charSpan 1): かえ}帰るよ{pause 40}	また{ruby (charSpan 1): あそ}遊ぼうな　{Player nickname (green)}！
+"003"	{emote: Shocked}あっ！！{pause 20}	そろそろ　オイラ{ruby (charSpan 1): かえ}帰んなきゃ！{pause 20}	スクワットの{ruby (charSpan 2): じかん}時間だ！{Wait for input}{emote: Glee}オマエの{ruby (charSpan 2): へや}部屋　{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ったよ！{pause 20}	また　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): く}来るからなー、{pause 8}{catchphrase}
+"004"	{emote: Curious}あれ？{pause 20}	オマエ　どっか{ruby (charSpan 1): い}行くのかー？{pause 40}	{emote: Reset}じゃあ、オイラも　{ruby (charSpan 1): かえ}帰るよ{Wait for input}{emote: Greetings}じゃーな！{pause 8}　{Player nickname (green)}！{pause 20}	また{ruby (charSpan 1): く}来るぞー、{pause 8}{catchphrase}
+"005"	{emote: Surprise}{0007-000b-0000}あーっ！{pause 20}	なにを　コッソリ	でかけようとしてんだ？！{Wait for input}{emote: Reset}オマエが　でかけるなら{pause 20}	オイラも　もう{ruby (charSpan 1): かえ}帰るかな、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は　ありがとな！{pause 20}	{Player nickname (green)}！
+"006"	{emote: Alarmed}オーイ！{pause 20}　どこ{ruby (charSpan 1): い}行くんだよー！{Wait for input}	{emote: Reset}オマエが　でかけるなら	オイラも{ruby (charSpan 1): かえ}帰らなきゃな、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}じゃーな、{Player nickname (green)}{pause 20}	{ruby (charSpan 2): きょう}今日は　サンキュー！

@@ -1,26 +1,26 @@
 == 0 ==
-"001"	あら、{pause 10}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Glee}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Soft Smile}
-"009"	{emote: Thought}
-"010"	{emote: Happiness}
-"011"	{emote: Soft Smile}
-"012"	{0011-0000-0002-00-00}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Happiness}
-"017"	{emote: Glee}
-"018"	{emote: Thought}
-"019"	{emote: Glee}
-"020"	{emote: Happiness}
-"021"	{emote: Glee}
-"022"	{emote: Happiness}
-"023"	{emote: Curious}
-"024"	{emote: Alarmed}
-"025"	{emote: Worry}
+"001"	あら、{pause 10}あなたも	よそから　{emote: Curious}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たんですか？{Wait for input}	{emote: Happiness}わたしも　{pause 10}キャンプに{ruby (charSpan 1): き}来たんですよ！{Wait for input}{emote: Sheepishness}ちょっと{ruby (charSpan 1): さむ}寒いですけど、{pause 10}	{emote: Soft Smile}{ruby (charSpan 1): ふゆ}冬の　{Town name (pink)}{ruby (charSpan 1): むら}村　{pause 10}すてきですね！
+"002"	{emote: Happiness}アウトドアといえば{pause 10}　{ruby (charSpan 1): なつ}夏のイメージですけど{pause 15}	{ruby (charSpan 1): ふゆ}冬にキャンプも、{pause 10}なかなか　{ruby (charSpan 1): たの}楽しいですよ！{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): き}気が{ruby (charSpan 1): む}向いたら{pause 10}	{ruby (charSpan 2): こんど}今度　{ruby (charSpan 1): ため}試してみてください！{emote: Sunny}
+"003"	{emote: Happiness}{Town name (pink)}{ruby (charSpan 1): むら}村には{pause 10}	よく{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): く}来るんですか？{Wait for input}{emote: Glee}こんな　すてきなところが{pause 8}	{ruby (charSpan 1): ちか}近くにあったら{pause 15}	{ruby (charSpan 2): ひがえ}日帰りで　{pause 10}{ruby (charSpan 2): まいにち}毎日　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来ちゃいます
+"004"	{emote: Glee}キャンプって　{pause 10}{ruby (charSpan 3): だいしぜん}大自然を{ruby (charSpan 1): かん}感じますよね～{Wait for input}	{emote: Shyness}そして{ruby (charSpan 2): どうじ}同時に　{pause 10}{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): ちい}小ささも{pause 10}	{ruby (charSpan 1): かん}感じることができます{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Agreement}{ruby (charSpan 2): じぶん}自分をふりかえる{pause 15}	いいキッカケだと{ruby (charSpan 1): おも}思うんです
+"005"	{emote: Happiness}キャンプの{ruby (charSpan 1): たの}楽しみと{ruby (charSpan 1): い}言ったら{pause 10}	やっぱり　{pause 8}お{ruby (charSpan 2): りょうり}料理ですよね！{Wait for input}{emote: Glee}ほら、{pause 20}シチューも{pause 10}	いい{ruby (charSpan 2): ぐあい}具合に　{pause 5}{ruby (charSpan 1): に}煮えてきました{Wait for input}{emote: Happiness}この{ruby (charSpan 1): むら}村の　{ruby (charSpan 2): しょくざい}食材を{ruby (charSpan 1): つか}使って{pause 15}	{ruby (charSpan 1): つく}作ってみたんですよ
+"006"	{emote: Happiness}あら、{pause 20}この{ruby (charSpan 1): むら}村の{ruby (charSpan 1): かた}方ですか？{Wait for input}{ruby (charSpan 1): いま}今の{ruby (charSpan 2): じき}時期に　{pause 5}キャンプというと{pause 10}	ちょっと　{ruby (charSpan 1): さむ}寒すぎるかと{ruby (charSpan 1): おも}思ったんですが{Wait for input}{emote: Glee}とっても{ruby (charSpan 3): いごこち}居心地の　いいところで{pause 10}	ここが　{pause 3}{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってしまいました、{pause 15}{catchphrase}{Wait for input}{emote: Happiness}{ruby (charSpan 1): すこ}少しの{ruby (charSpan 1): あいだ}間ですが　{pause 10}{emote: Greetings}お{ruby (charSpan 2): せわ}世話になります
+"007"	{emote: Happiness}あら　どうも！{pause 20}	こちらで　{pause 10}キャンプさせていただいてます{Wait for input}ウワサは　かねがね{ruby (charSpan 1): き}聞いていましたが{pause 10}	{emote: Soft Smile}{ruby (charSpan 3): ゆきげしき}雪景色が　{pause 8}とても{ruby (charSpan 2): にあ}似合う{pause 10}	すてきな{ruby (charSpan 1): むら}村ですね！	{ruby (charSpan 1): みじか}短い{ruby (charSpan 1): あいだ}間ですが{pause 10}	{ruby (charSpan 2): ぞんぶん}存分に　{ruby (charSpan 1): たの}楽しませていただきます
+"008"	{emote: Soft Smile}どうも　{pause 10}おじゃましています{Wait for input}	こちらで　{pause 3}キャンプを	させていただいてるんですよ	{emote: Happiness}わたし、{pause 10}すっかり　{pause 5}この{ruby (charSpan 1): むら}村のファンに	なってしまいました{Wait for input}{emote: Agreement}{ruby (charSpan 1): た}食べ{ruby (charSpan 1): もの}物はおいしいし　{pause 10}{ruby (charSpan 2): くうき}空気もきれいで{pause 15}	{emote: Happiness}ほんとに　すてきですね！
+"009"	{emote: Thought}どの{ruby (charSpan 1): へん}辺に　{pause 5}{ruby (charSpan 1): いえ}家を{ruby (charSpan 1): た}建てようかしら{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Inspired}やっぱり　{pause 10}{emote: Happiness}{ruby (charSpan 2): けしき}景色のすてきなところが{pause 8}	いいですよね！
+"010"	{emote: Happiness}{ruby (charSpan 1): ふゆ}冬も　{ruby (charSpan 1): す}過ごしやすそうですし{pause 10}	{emote: Soft Smile}どんな{ruby (charSpan 1): く}暮らしが{ruby (charSpan 1): はじ}始まるかを{pause 5}　{ruby (charSpan 2): そうぞう}想像すると{pause 10}	ワクワクします！
+"011"	{emote: Soft Smile}お{ruby (charSpan 1): うち}家を{ruby (charSpan 1): た}建てる　{pause 5}{ruby (charSpan 2): したみ}下見をしながら{pause 15}	{emote: Happiness}{ruby (charSpan 1): むら}村の{ruby (charSpan 1): なか}中を　お{ruby (charSpan 2): さんぽ}散歩してみようかしら！
+"012"	{0011-0000-0002-0000}さんに　{pause 5}さそわれて{pause 10}	{ruby (charSpan 2): こんど}今度、{pause 10}{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): く}来る{ruby (charSpan 2): よてい}予定なんです{Wait for input}また　{pause 8}こちらに{ruby (charSpan 1): うつ}移って{ruby (charSpan 1): き}来た{ruby (charSpan 1): とき}時に{pause 10}	ごあいさつに{ruby (charSpan 1): うかが}伺いますが{pause 10}	どうぞ　よろしくお{ruby (charSpan 1): ねが}願いしますね！
+"013"	{emote: Happiness}{0011-0000-0002-0000}さんから{pause 10}	{ruby (charSpan 1): こえ}声をかけられて{pause 10}　{ruby (charSpan 2): こんど}今度こちらに{pause 10}	{ruby (charSpan 2): ひっこ}引越しすることになりました	{emote: Glee}この{ruby (charSpan 1): むら}村は　{pause 10}{ruby (charSpan 1): ふゆ}冬{ruby (charSpan 2): いがい}以外も	すてきなところだと　{ruby (charSpan 1): き}聞いています{Wait for input}	{emote: Happiness}{ruby (charSpan 1): いま}今から　{pause 10}{ruby (charSpan 2): きたい}期待してるんですよ
+"014"	{emote: Happiness}{0011-0000-0002-0000}さんが、{pause 10}	{ruby (charSpan 2): ねっしん}熱心にすすめてくださったので{pause 15}	{ruby (charSpan 2): こんど}今度　{pause 10}{ruby (charSpan 1): こ}越して{ruby (charSpan 1): こ}来ようと{ruby (charSpan 1): おも}思うんです！	{emote: Glee}{ruby (charSpan 2): けしき}景色もいいですし、{pause 10}みんなご{ruby (charSpan 2): しんせつ}親切なので{pause 15}	とても　{ruby (charSpan 1): たの}楽しみにしています
+"015"	{emote: Happiness}やっぱり　キャンプって{pause 15}	{ruby (charSpan 1): ふゆ}冬でも　{ruby (charSpan 1): たの}楽しいものですね！{Wait for input}{emote: Glee}たき{ruby (charSpan 1): び}火の　{pause 8}パチパチという{ruby (charSpan 1): おと}音を	{ruby (charSpan 1): き}聞いているだけで、{pause 10}ワクワクします！
+"016"	{emote: Happiness}どうですか、{pause 10}この　{pause 5}{ruby (charSpan 1): こおり}氷のお{ruby (charSpan 1): うち}家！{Wait for input}	{emote: Reset}{ruby (charSpan 1): なか}中で　{pause 5}{ruby (charSpan 1): ひ}火を　たいていても{pause 10}	とけたりしませんよ	{emote: Glee}もし　よかったら{pause 15}	ゆっくり　していってくださいね
+"017"	{emote: Glee}キャンプといったら{pause 10}	アウトドア{ruby (charSpan 2): りょうり}料理ですよね！{Wait for input}{emote: Happiness}{ruby (charSpan 1): さむ}寒い{ruby (charSpan 2): きせつ}季節は、{pause 10}シチューで{ruby (charSpan 1): き}決まりです{Wait for input}	{emote: Glee}{Town name (pink)}{ruby (charSpan 1): むら}村の　{ruby (charSpan 2): しょくざい}食材を{pause 10}	たっぷり{ruby (charSpan 1): つか}使って{pause 10}　{ruby (charSpan 2): にこ}煮込んでみました
+"018"	{emote: Thought}たき{ruby (charSpan 1): び}火に　あたりながら{pause 10}	{ruby (charSpan 1): よ}読みたかった{ruby (charSpan 1): ほん}本を　{pause 10}{ruby (charSpan 1): おも}思う{ruby (charSpan 2): ぞんぶん}存分　{ruby (charSpan 1): よ}読む{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}そんな　{pause 5}ゼイタクな{ruby (charSpan 2): じかん}時間を{ruby (charSpan 1): す}過ごせて{pause 15}	わたし　{pause 10}{emote: Love}{ruby (charSpan 1): しあわ}幸せです
+"019"	{emote: Glee}アウトドアって　{pause 10}{ruby (charSpan 1): たの}楽しいですね！{Wait for input}	{emote: Glee}{ruby (charSpan 1): そと}外で{ruby (charSpan 1): あそ}遊んだり　{pause 10}ごはんを{ruby (charSpan 1): た}食べたり、{pause 15}	{ruby (charSpan 2): じかん}時間が{ruby (charSpan 1): た}経つのを　{pause 10}{ruby (charSpan 1): わす}忘れてしまいます{emote: Sunny}
+"020"	{emote: Happiness}ここは　{ruby (charSpan 2): くうき}空気もいいですし{pause 10}	{emote: Glee}なんとなく　{pause 10}{Town name (pink)}{ruby (charSpan 1): むら}村の{ruby (charSpan 3): ふんいき}雰囲気は{pause 8}	{ruby (charSpan 2): じぶん}自分に{ruby (charSpan 1): あ}合うような{ruby (charSpan 1): き}気がします{000f-0005-0004-0000-0000}	おいでよ！	{ruby (charSpan 2): ふつう}普通の{ruby (charSpan 1): むら}村だよ
+"021"	{emote: Glee}この{ruby (charSpan 1): むら}村の{ruby (charSpan 2): けしき}景色、{pause 10}{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってしまいました！{pause 30}	{emote: Happiness}きっと　{ruby (charSpan 1): ゆき}雪がとけても{pause 10}	すてきなんでしょうね～！{000f-0005-0004-0000-0000}	{ruby (charSpan 2): ひっこ}引越しておいで！	まぁまぁかな
+"022"	{emote: Happiness}この{ruby (charSpan 1): むら}村は　{pause 10}みなさん{ruby (charSpan 2): しんせつ}親切ですし{pause 15}	{emote: Agreement}{ruby (charSpan 3): ゆきげしき}雪景色もすてきで{pause 10}	{emote: Glee}{ruby (charSpan 1): こころ}心を　{pause 8}グッと　つかまれました！{000f-0005-0004-0000-0000}	{ruby (charSpan 1): す}住んだら？	{ruby (charSpan 1): き}気のせいだよ
+"023"	{emote: Curious}そうなんですか～{pause 30}	{emote: Happiness}わたしは、{pause 8}いい{ruby (charSpan 1): ところ}所だと{ruby (charSpan 1): おも}思いますよ！{Wait for input}	まずは、{pause 8}キャンプでマンキツします！
+"024"	{emote: Alarmed}あら　{pause 5}まぁ！{pause 30}	{emote: Happiness}では　{pause 10}{ruby (charSpan 1): いま}今のうちに　{pause 8}	この{ruby (charSpan 2): けしき}景色を　{ruby (charSpan 1): たの}楽しんでおきます！
+"025"	{emote: Worry}そうかしら{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Happiness}でも　{pause 8}このキャンプの{ruby (charSpan 1): おも}思い{ruby (charSpan 1): で}出は{pause 10}	しっかりと{ruby (charSpan 1): むね}胸に{ruby (charSpan 1): きざ}刻みます、{pause 10}{catchphrase}！

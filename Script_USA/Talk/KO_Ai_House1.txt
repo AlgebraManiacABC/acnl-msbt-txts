@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Happiness}
+"001"	{emote: Greetings}{capitalized}{Greeting begin}Hey, {pause 15}{Player nickname (green)}{Greeting end}!{Wait for input}	{emote: Happiness}That's...all I had to say.{pause 8}	{capitalized}{pause 20}{catchphrase}.
+"002"	{emote: Alarmed}{capitalized}{Greeting begin}Oho! {pause 15}{capitalized}{Player nickname (green)}{Greeting end}!	{emote: Happiness}Good to see you, {pause 20}{catchphrase}!
+"003"	{emote: Happiness}{capitalized}{Greeting begin}Yo, {pause 15}{Player nickname (green)}{Greeting end}!{pause 30}	Good for you, finding your way to	my place! {capitalized}{pause 20}{catchphrase}!
 == 1 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Happiness}
+"001"	{emote: Greetings}¡{capitalized}{Greeting begin}Buenas, {pause 15}{Player nickname (green)}{Greeting end}!{Wait for input}	{emote: Happiness}Eso es todo lo que tenía que decir.	Lo bueno, si breve, {catchphrase}.
+"002"	{emote: Alarmed}¡{capitalized}{Greeting begin}Oh, {pause 15}{Player nickname (green)}{Greeting end}!	{emote: Happiness}¿A que te alegras de	verme, {pause 10}{catchphrase}?
+"003"	{emote: Happiness}¡{capitalized}{Greeting begin}Buenas, {pause 15}{Player nickname (green)}{Greeting end}!{pause 30}	Veo que has encontrado	mi humilde morada, {pause 10}{catchphrase}.
 == 2 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Happiness}
+"001"	{emote: Greetings}{capitalized}{Greeting begin}Hello,{pause 15} {Player nickname (green)}{Greeting end}!{Wait for input}	{emote: Happiness}Me regarde pas comme ça, je n'ai	rien d'autre à dire... {capitalized}{catchphrase}!
+"002"	{emote: Alarmed}{capitalized}{Greeting begin}Ho?! {pause 15}{capitalized}{Player nickname (green)}{Greeting end}!	{emote: Happiness}Je t'en prie, fais comme chez toi!	{capitalized}{catchphrase}!
+"003"	{emote: Happiness}{capitalized}{Greeting begin}Salut, {pause 15}{Player nickname (green)}{Greeting end}!{pause 30}	Reste autant que tu veux,	{catchphrase}!	Par contre, ne t'attends pas à ce	que je te fasse la conversation...

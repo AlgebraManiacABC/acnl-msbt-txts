@@ -1,192 +1,192 @@
 == 0 ==
-"001"	{pause 5}
-"002"	{emote: Happiness}
-"003"	{emote: Shocked}
-"004"	So it's {Hour}!
-"005"	{emote: Alarmed}
-"006"	{emote: Sunny}
-"007"	{pause 5}
-"008"	{pause 5}
-"009"	By the way, you{pause 8}
-"010"	{emote: Reset}
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{pause 5}
-"014"	{pause 5}
-"015"	So, {Player name}
-"016"	The town of {Town name (pink)}
-"017"	{emote: Thought}
-"018"	{emote: Worry}
-"019"	{emote: Thought}
-"020"	{emote: Alarmed}
-"021"	{emote: Worry}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
-"024"	So {pause 8}
-"025"	Oh, {pause 5}
-"026"	{pause 5}
-"027"	{emote: Happiness}
-"028"	{emote: Shocked}
-"029"	Whhaat?!{pause 10}
-"030"	{emote: Alarmed}
-"031"	{pause 5}
-"032"	{pause 5}
-"033"	{pause 5}
-"034"	{pause 5}
-"035"	{emote: Laughter}
-"036"	{pause 5}
-"037"	{pause 5}
-"038"	{pause 5}
-"039"	{pause 5}
-"040"	Alrighty!{pause 15}
-"041"	{emote: Alarmed}
-"042"	{pause 5}
-"043"	{emote: Alarmed}
-"044"	{emote: Happiness}
-"045"	{pause 5}
-"046"	
-"047"	
-"048"	
-"049"	{emote: Surprise}
-"051"	{pause 5}
-"052"	{emote: Happiness}
-"053"	{emote: Laughter}
-"054"	By the way, {pause 10}
-"055"	{emote: Alarmed}
-"056"	So, {Player name}
-"057"	
-"058"	
-"059"	Now arriving in{pause 15}
-"061"	Well then, {pause 10}
-"062"	{pause 30}
-"063"	{emote: Surprise}
-"064"	
-"065"	
+"001"	{pause 5}{emote: Soft Smile}{pause 10}Oh!{pause 20} Excuse me! I have a quick	question for you.{emote: Reset}{Wait for input}It's now {Hour}:{Minutes} {am/pm} on	{Month} {Day}, {Year},{emote: Curious}{pause 15} right?{000f-0005-0004-0000-0000}	Yep!	No.
+"002"	{emote: Happiness}I was right!{pause 10} Oh good!{Wait for input} This watch	of mine,{pause 5}{emote: Resigned}{pause 10} it gets thrown off really	easily sometimes!
+"003"	{emote: Shocked}{pause 5}What?{pause 8} It's not?{pause 15} {emote: Reset}Gosh. Then what	time is it really?
+"004"	So it's {Hour}:{Minutes} {am/pm} on	{Month} {Day}, {Year}{pause 5}.{pause 5}.{pause 5}.{pause 10} OK!{Wait for input}	{emote: Curious}I've got it right now, right?{000f-0000-0004-0000-0000}	Perfect!	Wrong!
+"005"	{emote: Alarmed}What?{pause 15} There's a mistake?{pause 20}	{emote: Happiness}Then please tell me again!
+"006"	{emote: Sunny}{pause 5}Thanks!{pause 15} It seems I forgot to set my	watch this morning!
+"007"	{pause 5}.{pause 5}.{pause 5}.{pause 10}I'm just gonna plop down in the	seat across from you.{pause 30} If you don't	mind, of course!
+"008"	{pause 5}.{pause 5}.{pause 5}.{pause 5}Hey, {pause 5}{emote: Alarmed}{pause 10}wait a sec!{pause 15} {emote: Happiness}If I'm not wrong,	you're {pause 5}{Player name}, right?!{Wait for input}{emote: Laughter}Yeah!{pause 15} I think we met on a train	once before!{emote: Happiness}
+"009"	By the way, you{pause 8}.{pause 8}.{pause 8}.{0007-0004-0000}{pause 10}{emote: Alarmed} {Text size 60%}Hold it!{Text size 100%}{pause 20}{0007-0005-0000}	{pause 5}{emote: Reset}{pause 10}{emote: Curious}Can I ask your name?
+"010"	{emote: Reset}Oh, {pause 10}{Player name}{pause 5}.{pause 5}.{pause 5}.?{pause 15} {emote: Happiness}Well, that's	a fantastically great name!{000f-0006-0006-0000-0000-0000}	Cool, right?	Cute, right?	Oops, I misspoke!
+"011"	{emote: Agreement}Yeah!{pause 15} {emote: Happiness}You seem like a pretty cool	guy to me!{000f-0000-0004-0000-0000}	I know, right?	I'm not a boy!
+"012"	{emote: Agreement}You're right!{pause 15} It is a cute name!	And so fitting for a girl like you!{000f-0000-0004-0000-0000}	I know, right?	I'm not a girl!
+"013"	{pause 5}{emote: Alarmed}{pause 5}Oh, oops.{pause 10} So you're a girl!{Wait for input} {emote: Worry}GAH!	Sorry about that!{pause 10}
+"014"	{pause 5}{emote: Alarmed}{pause 5}Oh, oops.{pause 10} So you're a boy!{Wait for input} GAH!	{emote: Worry}Sorry about that!{pause 10}
+"015"	So, {Player name}{pause 5}.{pause 5}.{pause 5}.{pause 15} Tell me, {pause 5}{emote: Curious}where are	you headed today?
+"016"	The town of {Town name (pink)}?{000f-0005-0004-0000-0000}	Uh-huh!	No, no!
+"017"	{emote: Thought}Hmmmm. {pause 8}{capitalized}{Town name (pink)}, yeah, OK{pause 8}.{pause 8}.{pause 8}.{pause 10}	Don't think I've heard of it.{pause 5} I	wonder where it is{pause 8}.{pause 8}.{pause 8}.	{pause 20}{emote: Inspired}{pause 10}Oh, {pause 10}right!{pause 15}{emote: Reset} Map, map, map{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Thought}Let's	take a look along this train line{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Alarmed}{pause 10}	Ah, {pause 8}maybe this is it right here?
+"018"	{emote: Worry}Hm?{pause 8} I was wrong?{pause 20} {emote: Reset}Let's see{pause 8}.{pause 8}.{pause 8}.{pause 8}	Maybe this one instead?
+"019"	{emote: Thought}Not that one either{pause 8}.{pause 8}.{pause 8}.{pause 8} Uh{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Curious}how about	this one right here?
+"020"	{emote: Alarmed}Oh no, {pause 8}wrong again!{pause 15} .{pause 8}.{pause 8}.{pause 8}{emote: Surprise}Aha!{pause 16}	{emote: Happiness}I think I've definitely got it now!
+"021"	{emote: Worry}Whhhaat?!{pause 15} Really?{pause 20} {emote: Thought}But {pause 5}those are	seriously the only stations along	this train line I'm unfamiliar with{pause 5}.{pause 5}.{pause 5}.	{emote: Happiness}Let's take a look at the map again.{pause 8}	One of them must be it!{pause 15} {emote: Reset}Is {pause 8}{emote: Curious}this it?
+"022"	{emote: Happiness}I see! {pause 8}That's where {Town name (pink)} is!
+"023"	{emote: Happiness}Heh. {pause 8}I'm glad we found it!{pause 20} This is	{Town name (pink)}, is it?
+"024"	So {pause 8}do you get to go to {Town name (pink)}	very often?{000f-0001-0006-0000-0000-0000}	I've never been there.	I don't remember.	It's a secret!
+"025"	Oh, {pause 5}{emote: Happiness}today is your first time?{pause 20}	That sounds like tons of fun!{Wait for input}	Can I ask,{pause 10} {emote: Curious}why're you headed there?{000f-0000-0004-0000-0000}	I'm moving.	Can't say!
+"026"	{pause 5}{emote: Alarmed}{pause 5}Oh, wow, {pause 5}is that right?{pause 10} {emote: Happiness}That sounds	pretty good to me!{emote: Reset}{Wait for input}But{pause 5} you said this is your first time	there, right? Does that mean you	haven't even seen your house yet?{000f-0000-0004-0000-0000}	I'll get a place there.	I'm sure I'll be fine.
+"027"	{emote: Happiness}I see, {pause 10}so you're going house hunting{pause 5}	once you get there.{pause 20} Heh. I guess it'll	be a lot more fun that way!	{emote: Reset}I hope you find an awesome little	house {pause 10}and have tons of fun in your	happy, new town!
+"028"	{emote: Shocked}{pause 10}What?!{pause 15} You sure that's wise?{pause 20}	{emote: Thought}I'm a little worried for you{pause 8}.{pause 8}.{pause 8}.{Wait for input}{pause 5}{emote: Happiness}{pause 5}Hmm. {pause 10}Then again, you seem like	you're the lucky type, {Player name}.{pause 15}	{emote: Laughter}I'm sure you'll figure it out!{pause 10}{emote: Happiness}	{emote: Reset}I sure hope you find a sweet little	house and have lots of fun making	new friends in {Town name (pink)}!
+"029"	Whhaat?!{pause 10} You're not going to tell?{pause 15}	{emote: Thought}Hmm. {pause 5}Now I'm even more curious{pause 5}.{pause 5}.{pause 5}.{pause 10}	Boy, I wonder{pause 5}.{pause 5}.{pause 5}.{pause 5}	Oh, wait. {pause 10}{emote: Inspired}I've got it! Yeah!{pause 20} {emote: Reset}Are you	perhaps{pause 10}{emote: Curious} moving to a new town?{000f-0000-0004-0000-0000}	You guessed it!	How'd you know?
+"030"	{emote: Alarmed}What? {pause 10}Really?!{Wait for input} {pause 5}{emote: Laughter}{pause 5}Mya ha ha!{pause 10} I got it	right on the first try!{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}Well now, moving into a new place!{pause 15}	{emote: Happiness}A whole new LIFE, even!{pause 5} You must	be really excited, right?	{emote: Reset}I certainly hope you find happiness!
+"031"	{pause 5}{emote: Laughter}{pause 5}Mya ha ha!{pause 10} I've got a gift!{pause 10} Or maybe	I just have a nose for guessing!{pause 10}	{emote: Sheepishness}I mean, you know, if I had a nose.	{emote: Reset}But you're moving, huh?{pause 15} {emote: Happiness}That's so	great! Starting a new life in a new	place is really exciting!	{emote: Reset}Going to live somewhere you've	never lived before sounds like such	a fun adventure!
+"032"	{pause 5}{emote: Alarmed}{pause 5}What?! {pause 10}Really?!{Wait for input} {emote: Reset}Umm{pause 5}.{pause 5}.{pause 5}.{pause 5} What are	you {emote: Curious}going there for?{000f-0000-0004-0000-0000}	I'm moving.	I don't know.
+"033"	{pause 5}{emote: Thought}You don't remember how often	you've been to {Town name (pink)}, but	you decided to move there?{pause 10}	{emote: Sunny}That's just weird!{pause 20} {emote: Glare}Perhaps some	mysterious power is guiding you	or something{pause 5}.{pause 5}.{pause 5}.{pause 5}{000f-0000-0004-0000-0000}	Yes, probably.	No, that's not it at all.
+"034"	{pause 5}{emote: Surprise}{pause 5}So you've got that strange feeling	too, {Player name}?{Wait for input} {emote: Happiness}There has got to	be some connection!	{emote: Thought}What could await you in this new	town?{pause 30} {emote: Happiness}{pause 5}Just thinking about it is	enough to make my heart race!	{capitalized}{Player name}, {pause 5}I'm sure you're gonna	find something great in {Town name (pink)}!
+"035"	{emote: Laughter}Mya ha ha!{pause 20} {emote: Soft Smile}Well, it's still pretty	strange to decide to up and move	all the way out there so suddenly.{emote: Happiness}	At any rate, {pause 10}I sure hope you have a	really nice time living in {Town name (pink)},	{Player name}!
+"036"	{pause 5}{emote: Thought}{pause 5}Whoa{pause 8}.{pause 8}.{pause 8}.{pause 15} {emote: Happiness}You kinda seem like the type	to simply do what you feel!{Wait for input}{pause 5}{emote: Laughter}{pause 5}What if you suddenly felt like maybe	settling down in {Town name (pink)}? Man,	wouldn't that be something?!{pause 5}{emote: Happiness}{000f-0000-0004-0000-0000}	Yeah, I think I will.	I'll let fate decide...
+"037"	{pause 5}{emote: Alarmed}{pause 5}Wow, {pause 10}is that right?!{pause 15} {emote: Reset}You've already	made up your mind? {emote: Happiness}I KNEW there	was some sort of connection!	{emote: Thought}It's almost like you're being guided,	like something is waiting for you{pause 5}.{pause 5}.{pause 5}.{pause 20}	{emote: Happiness}{pause 5}Man, I get giddy imagining it!	{capitalized}{Player name}, {pause 5}I'm positive you'll find	something great in {Town name (pink)}!
+"038"	{pause 5}{emote: Alarmed}{pause 5}Whoa. {pause 10}You believe in fate too, huh,	{Player name}?{Wait for input} {emote: Happiness}I can totally get	behind that! Yeah!	{emote: Thought}So if something is guiding you to	this place, what awaits you there?{pause 20}	{emote: Happiness}{pause 5}It's kind of exciting to think about!	{capitalized}{Player name}, {pause 5}I'm sure you'll find	something wonderful in {Town name (pink)}!
+"039"	{pause 5}{emote: Laughter}{pause 5}Mya ha ha!{pause 10} A secret, you say?{pause 20} {emote: Reset}OK,	{pause 10}how about telling me what you plan	to do once you get to this place?	{emote: Glare}Or is that a secret too?{000f-0000-0004-0000-0000}	Duh, it's a SECRET!	I'm moving there.
+"040"	Alrighty!{pause 15} {emote: Happiness}I'm sure I can guess your	secret if I really think hard enough!{Wait for input}{emote: Thought}Let me see here{pause 5}.{pause 5}.{pause 5}.{pause 10} You've got what	appears to be a one-way ticket{pause 5}.{pause 5}.{pause 5}.{Wait for input}{pause 5}{emote: Inspired}{pause 10}Ah,{pause 5} that's it!{pause 15} Could you be{pause 5}{emote: Curious} moving?{000f-0000-0004-0000-0000}	You got it!	Pretty sharp.
+"041"	{emote: Alarmed}What? {pause 10}I really guessed right?!{Wait for input}	{pause 5}{emote: Laughter}{pause 5}Mya ha ha!{pause 10} {emote: Soft Smile}It was just the first	thing that came to mind, honest!{pause 10}	{emote: Reset}But, wow, you're moving?{pause 15} {emote: Happiness}Starting	over somewhere is always exciting!{pause 5}	How fun for you!	{emote: Reset}I sure hope you create a great life	for yourself in {Town name (pink)}!
+"042"	{pause 5}{emote: Laughter}{pause 5}Mya ha ha!{pause 10} You're definitely a funny	one,{pause 10} that's for sure!{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}So you're moving, huh?{pause 15} {emote: Happiness}Someone as	interesting as you is certain to dig	up some fun in a new place.	{emote: Reset}The town of {Town name (pink)} is waiting	for you! You're gonna have such a	great time there!
+"043"	{emote: Alarmed}Wh-wh-what?!{pause 15} So you just out and	tell me that after the mystery	and secrets?	{pause 5}{emote: Laughter}{pause 5}Mya ha ha!{pause 10} You're a real funny one!{pause 10}{emote: Happiness}{000f-0000-0004-0000-0000}	Yup! 	No, I'm serious, yo.
+"044"	{emote: Happiness}That's wonderful!{Wait for input}{emote: Reset}But, hey, you're moving, eh?{pause 15} {emote: Happiness}I'd bet	that someone as fun loving as you is	sure to find a great life anywhere!	{emote: Reset}Yeah, {Town name (pink)} is going to be	just the place for you! I know it!
+"045"	{pause 5}{emote: Laughter}Mya ha ha!{pause 10} Oh, seriously!{pause 15}	You, you're quite the joker!{pause 10}{emote: Happiness}{Wait for input}You know what? {pause 10}I like you!{pause 20} {emote: Reset}Living in	the same town as you sure would be	a good time.	{emote: Happiness}I think I'll move to {Town name (pink)} too!	Heh! What do you think?{Wait for input}	{pause 5}.{pause 5}.{pause 5}.{pause 5}{emote: Laughter}{pause 10}I'm just foolin'!{pause 10}{emote: Happiness}	{emote: Reset}Anyway, {pause 10}I'm sure you'll find plenty	of good times in {Town name (pink)}!
+"046"
+"047"
+"048"
+"049"	{emote: Surprise}Oh, hey!{pause 15} {emote: Reset}Looks like we're about to	arrive in {Town name (pink)}.{Wait for input}Thanks for chatting with me!{Wait for input}	{emote: Happiness}It's been a long time since I've	enjoyed a train ride this much!	{emote: Thought}Come to think of it, I've been riding	the rails an awful lot again lately.{Wait for input}{emote: Daydreaming}Haven't done this much traveling	by train since 2002 or so...	{emote: Disagreement}Man, that's weird.	{emote: Greetings}OK, {pause 5}good luck, {Player name}!{pause 15} Bye-bye!
+"051"	{pause 5}{emote: Alarmed}{pause 10}Hey there!{pause 10}{emote: Reset} Can I talk to you for	a second?{Wait for input} {emote: Happiness}Do I see a ticket to	{Town name (pink)} in your hand there?	{emote: Reset}You know, {pause 10}I have an acquaintance	who lives in that town!{Wait for input}{pause 10}{emote: Happiness}Mind if I sit down?{000f-0005-0004-0000-0000}	Have a seat!	Go away, kitty!
+"052"	{emote: Happiness}Great.{pause 10} Thanks!
+"053"	{emote: Laughter}Now, now, {pause 5}don't be like that!
+"054"	By the way, {pause 10}{emote: Soft Smile}what's your name?
+"055"	{emote: Alarmed}WHHAAAT?!{pause 10} You mean your name	is {Player name} too?!{Wait for input}{emote: Reset}My friend who lives in {Town name (pink)}	is named {Player name}, just like you!{Wait for input}{emote: Thought}Hmmm{pause 5}.{pause 5}.{pause 5}.{pause 10} {emote: Reset}It could all get a little	confusing.{pause 5} {emote: Happiness}How about you tell me	your nickname or something?
+"056"	So, {Player name},{pause 8} do you get to go to	{Town name (pink)} very often?{000f-0001-0006-0000-0000-0000}	I've never been there.	I don't remember.	It's a secret!
+"057"
+"058"
+"059"	Now arriving in{pause 15} {Town name (pink)}!{pause 15}	{000e-0004-0000}{Town name (pink)} Station!{Wait <005a 0000> 'time'}
+"061"	Well then, {pause 10}tell me, {emote: Curious}where are you	going today?
+"062"	{pause 30}{emote: Alarmed}{pause 10}Boy! {emote: Sunny}You look like you've really got	the spirit of adventure in your soul{pause 5}.{pause 5}.{pause 5}.{pause 15}{Wait for input}{emote: Thought}I wonder how that relates to you	traveling to {Town name (pink)}{pause 5}.{pause 5}.{pause 5}.{0007-0008-0004-003c-0000}
+"063"	{emote: Surprise}Oh!{pause 15} {emote: Reset}Looks like we're about to arrive	in {Town name (pink)}.{Wait for input}I wanted to ask you so much more.{pause 5}	Too bad!{pause 15} {emote: Happiness}Oh well. {pause 10}I'm glad we could	meet again.{emote: Greetings} {pause 5}OK, {pause 10}see you later!
+"064"
+"065"
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Happiness}
-"003"	{emote: Shocked}
-"004"	Las {Hour}
-"005"	{emote: Alarmed}
-"006"	{emote: Sunny}
-"007"	Si no te importa,{pause 10}
-"008"	{emote: Alarmed}
-"009"	Por cierto{pause 8}
-"010"	{emote: Reset}
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{emote: Alarmed}
-"014"	{emote: Alarmed}
-"015"	Esto{pause 5}
-"016"	¿A {capitalized}
-"017"	{emote: Thought}
-"018"	Mi intuición no{pause 8}
-"019"	{emote: Thought}
-"020"	{emote: Alarmed}
-"021"	{emote: Worry}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
-"024"	Oye,{pause 8}
-"025"	Anda, {pause 5}!
-"026"	{emote: Alarmed}
-"027"	{emote: Happiness}
-"028"	{emote: Shocked}
-"029"	¡¿Eeeh?!{pause 10}
-"030"	{emote: Alarmed}
-"031"	{emote: Laughter}
-"032"	{emote: Alarmed}
-"033"	{emote: Thought}
-"034"	{emote: Surprise}
-"035"	{emote: Laughter}
-"036"	{emote: Thought}
-"037"	{emote: Alarmed}
-"038"	{emote: Alarmed}
-"039"	{emote: Laughter}
-"040"	¡Vale, vale!{pause 15}
-"041"	{emote: Alarmed}
-"042"	{emote: Laughter}
-"043"	{emote: Alarmed}
-"044"	{emote: Happiness}
-"045"	{emote: Laughter}
-"046"	
-"047"	
-"048"	
-"049"	{emote: Surprise}
-"051"	{emote: Alarmed}
-"052"	{emote: Happiness}
-"053"	{emote: Laughter}
-"054"	Por cierto, {pause 10}
-"055"	{emote: Alarmed}
-"056"	Y dime, {pause 8}
-"057"	
-"058"	
-"059"	Próxima estación:{pause 15}
-"061"	Y bien, {pause 10}
-"062"	{emote: Alarmed}
-"063"	{emote: Surprise}
-"064"	
-"065"	
+"001"	{emote: Alarmed}Oye, perdona,{pause 10}{pause 20} ¿te importa	que te haga una pregunta?{emote: Reset}{Wait for input}Estamos a{pause 8} {Day} de {Month} de	{Year}{pause 15} y son las {Hour}:{Minutes} horas,	{pause 5}{emote: Curious}¿verdad?{000f-0005-0004-0000-0000}	¡Sí!	No
+"002"	{emote: Happiness}¡Lo sabía!{pause 10} Uf, menos mal.{Wait for input}	Mi reloj se atrasa de vez en cuando{pause 5}{emote: Resigned}{pause 10}	¡y ya me ha dado más de un susto!
+"003"	{emote: Shocked}{pause 5}¿Nooo?{pause 8} Vaya.{pause 15} {emote: Reset}¿Te importaría	decirme entonces la fecha	y la hora, por favor?
+"004"	Las {Hour}:{Minutes} horas del día {Day}	de {Month} de {Year}{pause 5}.{pause 5}.{pause 5}.{Wait for input}{pause 10}	¡Tomo nota!{emote: Curious} Es correcto, ¿verdad?{000f-0000-0004-0000-0000}	¡Claro que sí!	¡No, hombre, no!
+"005"	{emote: Alarmed}¿No me digas?{pause 15} Siento estar así	de espeso.{pause 20} {emote: Happiness}¿Me lo puedes repetir?
+"006"	{emote: Sunny}{pause 15}Se ve que va siendo hora de que	cambie las pilas a mi reloj.
+"007"	Si no te importa,{pause 10} voy a sentarme	aquí enfrente un rato.
+"008"	{emote: Alarmed}{pause 10}Por cierto,{pause 15} {emote: Happiness}tú debes de ser	{pause 5}{Player name}, ¿me equivoco?{Wait for input}{emote: Laughter}¡Claro que eres tú!{pause 10}	Tengo memoria fotográfica	para las caras{pause 15}.{pause 15}{emote: Happiness}
+"009"	Por cierto{pause 8}.{pause 8}.{pause 8}.{0007-0004-0000}{pause 10}{emote: Alarmed} {Gray}{Text size 60%}(A ver si no me emociono.){Text size 100%}{Color Reset}{pause 20}{0007-0005-0000}	{pause 5}{emote: Reset}{pause 10}{emote: Curious}¿Cómo te llamas?
+"010"	{emote: Reset}{capitalized}{Player name}, ¿eh?{pause 15} {emote: Happiness}	¡Qué nombre más chulo!{000f-0006-0006-0000-0000-0000}	¿A que mola?	¿A que es mono?	¡Estás sordo!
+"011"	{emote: Agreement}¡Claro que mola!{pause 15} {emote: Happiness}¡Está genial! {pause 8}	Le va que ni pintado a un chico	como tú.{000f-0000-0004-0000-0000}	¿A que sí?	¡Que soy una chica!
+"012"	{emote: Agreement}¡Por supuesto que es mono!{pause 15} {emote: Happiness}	Lo veo fantástico,{pause 20} ¡ideal para	una chica como tú!{000f-0000-0004-0000-0000}	¿A que sí?	¡Grrr! ¡Soy un chico!
+"013"	{emote: Alarmed}{pause 5}¡Ay, ay,{pause 10} que eres una chica!{Wait for input} {emote: Worry}	¡Perdón,{pause 10} lo he dicho sin maldad!
+"014"	{emote: Alarmed}{pause 5}Huy,{pause 10} ¡que eres un chico!{Wait for input} ¡Perdón,	{emote: Worry}he metido la pata hasta el fondo!
+"015"	Esto{pause 5}.{pause 5}.{pause 5}. {Player name}{pause 15},{pause 5}{emote: Curious} ¿y adónde	te diriges?
+"016"	¿A {capitalized}{Town name (pink)}?{000f-0005-0004-0000-0000}	¡Exacto!	¡No, no!
+"017"	{emote: Thought}Mmm.{pause 8}.{pause 8}.{pause 8} A {capitalized}{Town name (pink)}, ¿eh?	Pues no me suena ese pueblo.{pause 5} 	Me pregunto por dónde caerá{pause 8}.{pause 8}.{pause 8}.	{pause 5}{emote: Inspired}{pause 10}¡Qué{pause 10} casualidad!{pause 15}{emote: Reset} {emote: Thought}Precisamente llevo	encima un mapa con el recorrido	de este tren.{emote: Alarmed}{pause 10} {pause 8}¿No será este de aquí?
+"018"	Mi intuición no{pause 8} es buena.{pause 20} {emote: Reset}	Déjame que pruebe otra vez{pause 8}.{pause 8}.{pause 8}.{pause 8}	¿Es este {capitalized}{Town name (pink)}?
+"019"	{emote: Thought}¿Tampoco? Mecachis.{pause 8}.{pause 8}.{pause 8}	{emote: Curious}¿Y este?
+"020"	{emote: Alarmed}Jo, {pause 8}¡no doy una! {emote: Reset}{pause 20}Vale,{pause 8}{emote: Happiness}	¡creo que ya lo tengo!
+"021"	{emote: Worry}¡¿Eeeeeeeeh?!{pause 15} ¿En serio?{pause 20} {emote: Thought}No puede	ser,{pause 5} este tren solo para en esos	pueblos que te acabo de enseñar{pause 5}.{pause 5}.{pause 5}.	{emote: Happiness}Vamos a echarle otro ojo al mapa.{pause 8}	¡Tiene que ser uno de esos pueblos!{pause 15} {emote: Reset}	Dime, {pause 8}{emote: Curious}¿no será este?
+"022"	{emote: Happiness}¡Ajá! {pause 8}¡Así que este pueblo	de aquí es {capitalized}{Town name (pink)}!
+"023"	{emote: Happiness}Fiu. {pause 8}Menos mal que por fin hemos	encontrado {capitalized}{Town name (pink)}, ¿no?
+"024"	Oye,{pause 8} ¿vas a menudo a {capitalized}{Town name (pink)}?{000f-0001-0006-0000-0000-0000}	Es la primera vez	No lo sé	Es un secreto
+"025"	Anda, {pause 5}{emote: Happiness}así que hoy vas al pueblo por	primera vez...{Wait for input} ¡Qué emocionante!{pause 10}	{emote: Curious}Y,{pause 20} ¿se puede saber por qué vas allí?{000f-0000-0004-0000-0000}	Me mudo	No, por nada
+"026"	{emote: Alarmed}{pause 5}Guau, {pause 5}¿lo dices en serio?{pause 10} {emote: Happiness}	¡Es toda una aventura!{emote: Reset}{Wait for input}Aunque, {pause 5}si es la primera vez que	vas,{pause 20} eso significa que todavía	no tienes casa,{pause 20} ¿verdad?{000f-0000-0004-0000-0000}	¡Ya me buscaré casa!	Ni idea
+"027"	{emote: Happiness}O sea, {pause 10}que vas a buscar casa{pause 5}	cuando llegues al pueblo.{pause 20} Je, 	¡eso sí que es atrevido!	{emote: Reset}¡Ojalá encuentres una casa	maravillosa {pause 10}y que te lo pases	de escándalo en tu nuevo pueblo!
+"028"	{emote: Shocked}{pause 10}¡¿Cómo dices?!{pause 15} ¿De verdad no	tienes ni idea?{pause 20}{emote: Thought} Eso es un poco	preocupante, como diría mi madre.	{emote: Happiness}Mmm.{pause 5}.{pause 5}.{pause 5} Pareces u{n/na} chic{o/a} con	suerte, {Player name}.{pause 15} {emote: Laughter}¡Supongo que	no se te dará mal ir a la aventura!{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}¡Seguro que encontrarás una casa	maravillosa {pause 10}y te lo pasarás pipa	en tu nuevo pueblo!
+"029"	¡¿Eeeh?!{pause 10} ¡Qué misterioso!{pause 15}	{emote: Thought}Ahora me pica la curiosidad.{pause 10}	Un secreto por descubrir{pause 5}.{pause 5}.{pause 5}.{pause 5}{emote: Inspired}{pause 10}{Wait for input}Espera un segundo. {pause 10}¡Ya lo tengo!	¡Si estaba delante de mi hocico!{pause 15} {emote: Reset}	{emote: Curious}Tú vas a mudarte de pueblo,{pause 10} ¿eh?{000f-0000-0004-0000-0000}	¡Lo has adivinado!	¿Cómo lo sabes?
+"030"	{emote: Alarmed}¿En serio he acertado?{Wait for input} {pause 10}¡Qué potra! {pause 5}{emote: Laughter}{pause 5}	¡Je, je, je!{pause 10} ¡Lo dije por decir!{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}Guau, mudarse de pueblo es todo	un acontecimiento.{pause 15} {emote: Happiness}¡Un cambio	de vida, me atrevería a decir!{pause 5}	Tienes que estar nerviosill{o/a}, 	¿verdad? {emote: Reset}¡Espero que todo	marche sobre ruedas!
+"031"	{emote: Laughter}{pause 5}¡Je, je, je!{pause 10} No sé si tengo un don{pause 10} 	¡o soy muy cotilla!{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}Pero vas a mudarte, ¿no?{pause 15} {emote: Happiness}	¡Cuánto trabajo!{pause 20} Eso sí, comenzar	de cero es muy emocionante.{Wait for input}{emote: Reset}Irse a vivir a un pueblo totalmente	desconocido suena interesante.
+"032"	{emote: Alarmed}{pause 5}¡¿Eh?! {pause 10}¡¿Estás de broma?!{Wait for input} {emote: Reset}Hum{pause 5}.{pause 5}.{pause 5}.{pause 5}	Entonces, {emote: Curious}¿por qué vas allí?{000f-0000-0004-0000-0000}	Me mudo	No sé
+"033"	{emote: Thought}{pause 5}Vaya{pause 8}.{pause 8}.{pause 8}.{pause 15} No recuerdas si vas por allí	a menudo, pero igualmente has	decidido mudarte.{pause 10} ¡Qué raro!	Quizá una fuerza misteriosa	te está empujando hasta allí{pause 5}.{pause 5}.{pause 5}.{pause 5}{000f-0000-0004-0000-0000}	Podría ser	¡Ni hablar!
+"034"	{emote: Surprise}{pause 5}Así que tú también notas algo raro,	¿eh, {Player name}?{Wait for input} {emote: Happiness}¡Tiene que haber	algún tipo de explicación!	{emote: Thought}¿Qué te aguardará en este pueblo?{pause 20} {emote: Happiness}{pause 5}	¡Seguro que algo muy interesante!{Wait for input}¡{capitalized}{Player name}, {pause 5}estoy convencido	de que te lo pasarás genial	en {capitalized}{Town name (pink)}!
+"035"	{emote: Laughter}¡Je, je, je!{pause 20} Si lo piensas bien,	echarse la casa a cuestas e irse	a vivir allí es bastante peculiar.{emote: Happiness}	De todas formas, {pause 10}¡estoy seguro	de que te lo pasarás en grande	en {capitalized}{Town name (pink)}, {Player name}!
+"036"	{emote: Thought}{pause 5}Ya{pause 8}.{pause 8}.{pause 8}.{pause 15} {emote: Happiness}Eres de es{o/a}s chic{o/a}s que	van donde les lleva el viento.{Wait for input}{emote: Laughter}{pause 5}¿Y si al final decidieras instalarte	en {capitalized}{Town name (pink)}? ¡¿A que molaría?!{pause 5}{emote: Happiness}{000f-0000-0004-0000-0000}	Creo que sí	Bueno, ya veremos
+"037"	{emote: Alarmed}{pause 5}Guau, {pause 10}¿no me digas?{pause 15} {emote: Reset}{emote: Happiness}¡Sabía que	iba a acertar!{Wait for input}{emote: Thought}Es como si una fuerza misteriosa	te empujara hasta allí, como si algo	te esperara en ese pueblo{pause 5}.{pause 5}.{pause 5}.{pause 20}	{emote: Happiness}{pause 5}¡Se me erizan los bigotes	solo de pensarlo!{Wait for input}{capitalized}{Player name}, {pause 5}vas a encontrar algo	importante en {capitalized}{Town name (pink)},	¡ya verás!
+"038"	{emote: Alarmed}{pause 5}¡¿No te gustaría, {pause 10}{Player name}?!{Wait for input}{emote: Happiness}	Si no lo descartas, tampoco puede	tratarse de una coincidencia.	{emote: Thought}Algo te está guiando al pueblo.{pause 20} {emote: Happiness}{pause 5}	¿No te preguntas qué te espera allí?{Wait for input}No sé qué será, {Player name}, {pause 5}pero	tengo claro que encontrarás	algo maravilloso en {capitalized}{Town name (pink)}.
+"039"	{emote: Laughter}{pause 5}¡Je, je, je!{pause 10} Así que es un secreto...	{pause 20}{emote: Reset}Vale, ¿y qué vas a hacer{pause 10} allí?{emote: Glare}	¿Es otro secreto?{000f-0000-0004-0000-0000}	¡Chist, que es secreto!	Vaaale, me mudo allí
+"040"	¡Vale, vale!{pause 15} {emote: Happiness}Por lo menos permíteme	que intente adivinarlo con mis dotes	de deducción, querid{o/a} {Player name}.{Wait for input}{emote: Thought}Veamos:{pause 10} parece que llevas	un billete de ida{pause 5}.{pause 5}.{pause 5}.{Wait for input}{emote: Inspired}{pause 10}¡Ya{pause 5} lo tengo!{pause 15} {pause 5}{emote: Curious}¿Te mudas?{000f-0000-0004-0000-0000}	Sí, claro	Evidentemente...
+"041"	{emote: Alarmed}¿Eh? {pause 10}¡¿Tengo razón?!{Wait for input} {pause 5}{emote: Laughter}{pause 5}¡Je, je!{pause 10} Pues	he dicho lo primero que se me ha	pasado por la cabeza,{pause 10} ¡en serio!{emote: Happiness}{Wait for input}{emote: Reset}Así que te mudas, ¿eh?{pause 15} {emote: Happiness}Siempre	es emocionante empezar de cero.{pause 5}	¡Qué suerte tienes!{Wait for input}{emote: Reset}¡Ojalá tengas suerte en {capitalized}{Town name (pink)}!
+"042"	{emote: Laughter}{pause 5}¡Je, je!{pause 10} Veo que tienes sentido del{pause 10}	humor, amig{o/a} mí{o/a}.{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}Entonces te mudas, ¿no?{pause 15} {emote: Happiness}U{n/na} chic{o/a}	con tanto carisma como tú seguro	que triunfa en cualquier sitio.{Wait for input}{emote: Reset}¡Y {capitalized}{Town name (pink)} no va a ser	la excepción! ¡Ya verás como	te lo pasas en grande allí!
+"043"	{emote: Alarmed}¡¿Eh?!{pause 15} ¿Después de tanto misterio	admites que te vas a mudar?{Wait for input}{emote: Laughter}{pause 5}¡Je, je, je!{pause 10} ¡Eres u{n/na} bromista!{pause 10}{emote: Happiness}	O eso, o eres un hueso duro de roer.{000f-0000-0004-0000-0000}	Soy {el rey/la reina} del humor	¡Soy u{n/na} tí{o/a} seri{o/a}!
+"044"	{emote: Happiness}¡Claro que sí!{Wait for input}{emote: Reset}Pero oye, una mudanza es una	mudanza.{pause 15} {emote: Happiness}Aunque claro, alguien	como tú se lo pasará en grande.{Wait for input}{emote: Reset}¡Ya verás como {capitalized}{Town name (pink)}	es el lugar ideal para ti!
+"045"	{emote: Laughter}{pause 10}¡Anda ya!{pause 15} ¡Corta el rollo!{pause 10} Je, je,	sé que estás intentando tomarme	el pelo de nuevo.{emote: Happiness}{Wait for input}Me has caído bien, {pause 10}¿sabes?{pause 20} {emote: Reset}Ser tu	vecino tiene que ser la monda.{Wait for input}{emote: Happiness}Estoy considerando mudarme a	{capitalized}{Town name (pink)} y todo. ¿Qué opinas?{Wait for input}	{emote: Laughter}{pause 10}¡Ja, ja, ja!{pause 10}{emote: Happiness} ¡Es broma!{Wait for input}{emote: Reset}En fin, {pause 10}¡seguro que en {capitalized}{Town name (pink)}	te lo pasas de maravilla!
+"046"
+"047"
+"048"
+"049"	{emote: Surprise}¡Cómo pasa el tiempo!{pause 15} {emote: Reset}	Creo que estamos a punto	de llegar a {capitalized}{Town name (pink)}.{Wait for input}¡Una conversación muy interesante!{Wait for input} 	{emote: Happiness}Hacía siglos que un viaje en tren no	me resultaba así de entretenido.{Wait for input}{emote: Greetings}¡Adiós, {Player name}!{pause 15} ¡Y buena suerte!
+"051"	{emote: Alarmed}{pause 10}¡Hola!{pause 10}{emote: Reset} ¿Tienes un segundo?{Wait for input} {emote: Happiness}	Me he fijado en que has comprado	un billete para {capitalized}{Town name (pink)}.{Wait for input}{emote: Reset}Verás, {pause 10}¡resulta que conozco 	a alguien de ese pueblo!{Wait for input}{emote: Happiness}¿Te importa si me siento aquí?{000f-0005-0004-0000-0000}	Claro que no, adelante	¡Zape, gato!
+"052"	{emote: Happiness}Gracias,{pause 10} ¡muy amable!
+"053"	{emote: Laughter}¡No te preocupes, {pause 5}que no muerdo!
+"054"	Por cierto, {pause 10}{emote: Soft Smile}¿cómo te llamas?
+"055"	{emote: Alarmed}¡¿EEEEEH?!{pause 10} ¡¿Tú también te llamas	{Player name}?!{Wait for input}{emote: Reset}Precisamente yo ya conozco a	alguien que se llama {Player name}	y vive en {capitalized}{Town name (pink)}.	{emote: Thought}Mmm{pause 5}.{pause 5}.{pause 5}.{pause 10} {emote: Reset}¡Qué liosa coincidencia!{pause 5}	{emote: Happiness}¿Qué tal si me dices tu apodo o	algo así para que no me confunda?
+"056"	Y dime, {pause 8}{Player name}, {emote: Curious}{pause 5}¿vas a menudo	a {capitalized}{Town name (pink)}?{000f-0001-0006-0000-0000-0000}	Es la primera vez	No lo sé	¡Chist, es un secreto!
+"057"
+"058"
+"059"	Próxima estación:{pause 15} ¡{capitalized}{Town name (pink)}!{pause 60}	Próxima estación:{pause 15} ¡{capitalized}{Town name (pink)}!{Wait <005a 0000> 'time'}
+"061"	Y bien, {pause 10}{emote: Curious}¿adónde te diriges hoy?
+"062"	{emote: Alarmed}{pause 10}Vas bastante cargad{o/a} de equipaje{pause 5}.{pause 5}.{pause 5}.{pause 15}	{emote: Reset}Me pregunto por qué llevarás tantas	cosas a {capitalized}{Town name (pink)}{pause 5}.{pause 5}.{pause 30}.{0007-0008-0004-003c-0000}
+"063"	{emote: Surprise}¡Ah!{pause 15} {emote: Reset}¡Si estamos a punto de llegar	a {capitalized}{Town name (pink)}!{pause 20} Jo, con la de cosas	que quería preguntarte.{pause 5} {Wait for input}¡Es una pena!{pause 15} {emote: Happiness}En fin, {pause 10}me alegro de	volver a verte.{emote: Greetings} {pause 5}{pause 10}¡Hasta la próxima!
+"064"
+"065"
 == 2 ==
-"001"	{pause 5}
-"002"	{emote: Happiness}
-"003"	{emote: Shocked}
-"004"	Le {Day}
-"005"	{emote: Alarmed}
-"006"	{emote: Sunny}
-"007"	En tout cas,{pause 8}
-"008"	{pause 8}
-"009"	Mais puisque c'est fait{pause 8}
-"010"	{emote: Reset}
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{pause 5}
-"014"	{pause 5}
-"015"	Alors, {Player name}
-"016"	À {Town name (pink)}
-"017"	{emote: Thought}
-"018"	Hmmm?{pause 8}
-"019"	{emote: Thought}
-"020"	{emote: Alarmed}
-"021"	{emote: Worry}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
-"024"	Alors, dis-moi, {pause 8}
-"025"	Ah, {pause 5}
-"026"	{emote: Soft Smile}
-"027"	{emote: Happiness}
-"028"	{emote: Shocked}
-"029"	{emote: Worry}
-"030"	{emote: Alarmed}
-"031"	{pause 5}
-"032"	{emote: Alarmed}
-"033"	{emote: Worry}
-"034"	{emote: Surprise}
-"035"	{emote: Laughter}
-"036"	{pause 5}
-"037"	{emote: Soft Smile}
-"038"	{pause 5}
-"039"	{pause 5}
-"040"	Mia ha!{pause 20}
-"041"	{emote: Alarmed}
-"042"	{pause 5}
-"043"	{emote: Alarmed}
-"044"	{emote: Laughter}
-"045"	{emote: Laughter}
-"046"	
-"047"	
-"048"	
-"049"	{emote: Surprise}
-"051"	{pause 5}
-"052"	{emote: Happiness}
-"053"	{emote: Laughter}
-"054"	Dis-moi tout, {pause 10}!
-"055"	{emote: Alarmed}
-"056"	C'est beau comme nom, {pause 8}!
-"057"	
-"058"	
-"059"	Notre train arrive à {Town name (pink)}
-"061"	Alors, dis-moi tout...{pause 30}!
-"062"	{emote: Alarmed}
-"063"	{emote: Surprise}
-"064"	
-"065"	
+"001"	{pause 5}{emote: Alarmed}Excuse-moi de te déranger, mais j'ai	une petite question à te poser, si tu	veux bien.{emote: Reset}	Aujourd'hui, nous sommes bien le	{Day} {Month} {Year}{pause 15} et il est	{Hour} h {Minutes},{pause 10}{emote: Curious} c'est ça?{000f-0005-0004-0000-0000}	C'est tout à fait exact.	Euh, non...
+"002"	{emote: Happiness}Ah, bien!{pause 10} Merci! J'avais peur d'être	encore tout déphasé, comme je suis	tout le temps dans les transports...	{emote: Resigned}Tu sais... Le décalage horaire, quoi!
+"003"	{emote: Shocked}{pause 15}Ah?!{pause 15} C'est pas ça?!{pause 20} {emote: Worry}Nom d'un...?!{pause 30}	Mais je me suis trompé sur quoi,	alors?
+"004"	Le {Day} {Month} {Year}{pause 12} et il est	{Hour} h {Minutes}{pause 8}.{pause 8}.{pause 8}.{pause 10}	Bien!{pause 20} On est synchro là,{pause 8} non?{000f-0000-0004-0000-0000}	Absolument!	Non, toujours pas.
+"005"	{emote: Alarmed}Ah?!{pause 15} Petit problème de	compréhension, on dirait.{pause 20} {emote: Happiness}Tu peux	répéter, s'il te plaît?
+"006"	{emote: Sunny}{pause 5}Merci bien!{pause 15} J'ai dû oublier de	remonter ma montre ce matin!
+"007"	En tout cas,{pause 8} désolé, {pause 12}je ne voulais	pas te déranger...
+"008"	{pause 8}.{pause 8}.{pause 8}.{pause 10} Hé, mais{pause 8}.{pause 8}.{pause 8}.{pause 10} {emote: Alarmed}{pause 10}Attends un peu!{pause 15} {emote: Happiness}Tu ne	t'appellerais pas {Player name}, par	hasard?! C'est bien toi?	{emote: Laughter}Mia ha ha!{pause 20} Mais oui!{pause 30} Si je ne fais	pas erreur,{pause 20} ce n'est pas la première	fois que je te croise dans un train!{emote: Happiness}
+"009"	Mais puisque c'est fait{pause 8}.{pause 8}.{pause 8}.{pause 8}	Tu permets que je m'asseye?{0007-0004-0000}{pause 10}{emote: Soft Smile}{pause 20}{0007-0005-0000}{Wait for input}{emote: Reset}{pause 10}Au fait, {pause 8}moi c'est Charly,{pause 8} et toi?{pause 12}	{emote: Curious}Comment tu t'appelles?
+"010"	{emote: Reset}{capitalized}{Player name}?{pause 30}{emote: Happiness} Hé hé! {pause 20}Ça c'est du	nom!{pause 15} Et je m'y connais!{000f-0006-0006-0000-0000-0000}	Plutôt cool, hein?	C'est mignon, non?	Attends, il y a erreur...
+"011"	{emote: Agreement}Oui!{pause 15} {emote: Happiness}C'est vraiment un nom très	bien trouvé pour un grand gaillard	comme toi! {pause 8}Ça te va bien!{000f-0000-0004-0000-0000}	Oui, j'en suis content.	Mais je suis une fille!
+"012"	{emote: Agreement}Oui, c'est un beau nom pour une	jeune fille comme toi!{pause 15} {emote: Happiness}Ça sonne	bien.{pause 12} C'est vraiment charmant!{000f-0000-0004-0000-0000}	Oui, j'aime bien aussi.	Je suis un garçon!
+"013"	{pause 5}{emote: Alarmed}{pause 15}Ah, euh...{pause 30} Oui, une fille! Bien sûr!	C'est ce que je voulais dire...{Wait for input} {emote: Worry}Euh...{pause 30}{Wait for input}Excuse-moi si je me suis mal	exprimé! {pause 15}Tu ne m'en veux pas?
+"014"	{pause 5}{emote: Alarmed}{pause 15}Un garçon?!{pause 30} Hum! {pause 15}Euh,{pause 10} oui...	Évidemment que tu es un garçon!{pause 20}	C'est ce que j'ai voulu dire!{pause 30} Aaahh...	{emote: Worry}Allez, {pause 10}je m'excuse, quoi.{pause 20} Je n'ai pas 	voulu te froisser... {pause 20}Ne m'en veux	pas.
+"015"	Alors, {Player name}{pause 8}.{pause 8}.{pause 8}.{pause 15} Dis-moi un peu,	{pause 10}{emote: Curious}où tu vas comme ça?
+"016"	À {Town name (pink)}? C'est bien ça?{000f-0005-0004-0000-0000}	C'est ça!	Mais non!
+"017"	{emote: Thought}Hmmmm... {pause 45}{capitalized}{Town name (pink)}?{pause 30} Non, {pause 10}je ne	crois pas en avoir déjà entendu	parler{pause 8}.{pause 8}.{pause 8}.{pause 10} Je ne vois pas où c'est{pause 8}.{pause 8}.{pause 8}.	{pause 5}{emote: Inspired}{pause 10}Attends, {pause 15}je vais prendre ma carte!{pause 20}{emote: Reset}	Carte, carte, carte{pause 8}.{pause 8}.{pause 8}.{pause 8} Petite carte{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Thought}Voyons voir ça{pause 8}.{pause 8}.{pause 8}.	{emote: Alarmed}{pause 10}Ah, attends... {pause 20}C'est cette ville-là,{pause 8}	ici?
+"018"	Hmmm?{pause 8} C'est pas ça?{pause 20} {emote: Reset}Voyons,	voyons{pause 8}.{pause 8}.{pause 8}.{pause 8} C'est peut-être celle-là,	alors?
+"019"	{emote: Thought}C'est pas celle-là non plus{pause 8}.{pause 8}.{pause 8}.{pause 8} Bon{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Curious}Celle-ci, {pause 8}peut-être?
+"020"	{emote: Alarmed}Toujours pas?!{pause 35} {emote: Reset}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 15} {emote: Surprise}Ah!{pause 15} Cette	fois, je l'ai trouvée!{pause 25} {emote: Happiness}Je suis sûr que	c'est celle-là!
+"021"	{emote: Worry}Vraiment?!{pause 15} Tu es sûr{/e}?{pause 20} {emote: Thought}Mais	pourtant {pause 5}ce sont les seuls arrêts	qu'il y a sur cette ligne{pause 8}.{pause 8}.{pause 8}.{pause 8}!	{emote: Happiness}Bouge pas. On va regarder la carte	encore une fois.{pause 8} C'est forcément	dessus!{pause 15} {emote: Reset}{pause 8}{emote: Curious}C'est cette ville-là?
+"022"	{emote: Happiness}Ça y est! {pause 20}On a trouvé!{pause 20}	Alors c'est là, {Town name (pink)}?!
+"023"	{emote: Happiness}Hé hé! {pause 8}Je savais bien qu'on finirait	par tomber dessus!{pause 20} Alors comme	ça, c'est là, {Town name (pink)}?
+"024"	Alors, dis-moi, {pause 8}tu y es déjà allé{/e}, à	{Town name (pink)}?{000f-0001-0006-0000-0000-0000}	C'est la première fois.	Je ne sais plus.	Ça me regarde.
+"025"	Ah, {pause 5}{emote: Happiness}c'est la première fois que tu y	vas...{pause 20} C'est un peu l'aventure, quoi!{Wait for input}Et ce serait indiscret {pause 10}{emote: Curious}de te	demander pourquoi tu te rends	là-bas?{000f-0000-0004-0000-0000}	Je vais y habiter.	Bah, faire un tour...
+"026"	{emote: Soft Smile}{pause 5}Oh, waouh...{pause 30} {emote: Happiness}Sympa!{pause 30} C'est une	nouvelle vie qui commence alors...{Wait for input}{emote: Thought}Mais, {pause 20}si c'est la première fois que tu	vas là-bas, {pause 20}tu n'as pas encore de	chez-toi,{pause 15} je me trompe?	{emote: Curious}Comment tu vas faire?{pause 20} Tu vas vivre	où?{000f-0000-0004-0000-0000}	Je verrai sur place.	Je ne sais pas encore.
+"027"	{emote: Happiness}Je vois. {pause 10}Alors tu vas devoir chercher	un logement en arrivant.{pause 20} Ça peut	être amusant!	{emote: Reset}Je te souhaite bien du plaisir, {pause 10}et	j'espère que tu trouveras la maison	de tes rêves dans ta nouvelle ville.
+"028"	{emote: Shocked}{pause 10}Quoi!?{pause 30} Tu es sûr{/e} que ça va aller?{pause 20}	{emote: Thought}Eh bien, {pause 15}tu ne t'en fais pas, {pause 10}toi,{pause 10} au	moins{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}{pause 5}Hmm, {pause 20}mais à te voir comme ça,{pause 15}	{Player name}, {pause 15}tu m'as l'air du genre	débrouillard.	{emote: Happiness}Aussi je ne vais pas me faire trop	de souci pour toi!{Wait for input}{emote: Sunny}Je suis certain que tu finiras par	trouver une jolie maison et que tu	te plairas dans ta nouvelle vie.
+"029"	{emote: Worry}Hmm...{pause 10} Toi, tu ne me dis pas tout...{Wait for input}{emote: Thought}C'est ton droit le plus absolu, bien	sûr, {pause 15}mais maintenant tu as aiguisé	ma curiosité{pause 5}.{pause 5}.{pause 5}.	Je me demande pourquoi tu ne veux	pas en parler{pause 5}.{pause 5}.{pause 5}.{Wait for input}{emote: Inspired}{pause 15}Mia ha!{pause 15} Je sais!{pause 20} {emote: Surprise}Tu vas emménager	et commencer une nouvelle vie	là-bas...{pause 30} Miou hou... {pause 20}{emote: Curious}J'ai vu juste?{000f-0000-0004-0000-0000}	Tout juste, Auguste!	Comment t'as deviné?
+"030"	{emote: Alarmed}Ah oui?!{pause 45} {emote: Laughter}{pause 10}Mia ha ha!{pause 30} Je m'en	doutais!{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}Nouvelle ville, {pause 10}nouvelle maison,{pause 10}	nouvelle vie...{pause 30} {emote: Happiness}C'est l'aventure avec	un grand A, quoi!	{emote: Sunny}Et tu vas te faire plein de nouveaux	amis, c'est certain.{pause 30} Je te souhaite	tout plein de bonnes choses!
+"031"	{pause 5}{emote: Laughter}{pause 10}Mia ha!{pause 30} Faut croire que j'ai un don!{pause 20}	{emote: Happiness}Ou peut-être que j'ai eu de la	chance sur ce coup-là...	{emote: Happiness}Alors comme ça,{pause 15} tu pars vivre dans	une autre ville, hein?{pause 30} Ça doit être	sympa de changer de vie comme ça.	C'est le début d'une nouvelle	aventure... {pause 30}{emote: Sunny}Je suis bien content pour	toi!
+"032"	{emote: Alarmed}{pause 10}Oh?! {pause 10}Vraiment?! Tu ne te souviens	pas?{Wait for input}{emote: Reset}Hmm{pause 8}.{pause 8}.{pause 8}.{pause 10} J'ai du mal à avaler ça...	{emote: Curious}Non, {pause 15}sérieusement, {pause 20}dis-moi,{pause 15} tu vas	là-bas pour quoi?{000f-0000-0004-0000-0000}	Y vivre, je crois.	Comme ça, pour voir.
+"033"	{emote: Worry}{pause 5}Euh{pause 8}.{pause 8}.{pause 8}.{pause 15} Tu ne sais plus si tu y es déjà	allé,{pause 15} et pourtant tu as décidé de	déménager là-bas?!	{emote: Thought}Alors c'est un peu comme si une	force mystérieuse te contrôlait et	avait décidé que tu irais habiter là{pause 5}.{pause 5}.{pause 5}.{pause 5}{000f-0000-0004-0000-0000}	Il doit y avoir de ça...	Tu dis n'importe quoi.
+"034"	{emote: Surprise}{pause 5}À toi aussi ça te fait cette	impression, {Player name}?{Wait for input} {emote: Happiness}C'est	vraiment étrange cette histoire...	{emote: Thought}Je me demande ce qui t'attend	là-bas...{pause 20} {emote: Happiness}{pause 5}Ouh! Rien que d'y penser	et j'en ai la chair de poule!	{capitalized}{Player name}... {pause 5}C'est peut-être la	main du destin qui te dirige vers	{Town name (pink)}!
+"035"	{emote: Laughter}Mia ha ha!{pause 20} Quand même,{pause 10} faut avoir	du cran... {pause 20}Je t'admire...{Wait for input}{emote: Happiness}Tout lâcher et commencer une	nouvelle aventure ailleurs,{pause 10} dans une	ville que tu ne connais pas...	{emote: Sunny}En tout cas, {pause 10}je te souhaite plein de	bonnes choses dans ta nouvelle vie à	{Town name (pink)}, {Player name}!
+"036"	{pause 5}{emote: Thought}{pause 5}Oh{pause 8}.{pause 8}.{pause 8}.{pause 15} {emote: Happiness}Alors tu dois être le genre de	personne qui fonctionne à l'instinct!{Wait for input}{pause 5}{emote: Laughter}{pause 10}Ça t'a vraiment pris comme ça de	vouloir aller à {Town name (pink)}?{pause 30} Mia ha	ha...{pause 30} C'est pas commun ça...	{emote: Happiness}Tu sais si tu vas y rester	longtemps?{000f-0000-0004-0000-0000}	Ça se pourrait, oui.	On verra bien...
+"037"	{emote: Soft Smile}Tu as déjà une petite idée de ce que	tu vas faire en fait.{Wait for input}{emote: Happiness}Mia ha ha!{pause 15} Tu ne sais pas pourquoi,	mais tu vas le faire quand même?!{Wait for input}{emote: Thought}C'est comme si une force	mystérieuse te poussait à aller dans	cette ville...	Comme s'il y avait quelque chose	là-bas qui t'attend{pause 5}.{pause 5}.{pause 5}.{pause 20} {emote: Happiness}{pause 5}Mon poil se	hérisse rien que d'y penser!	{emote: Sunny}En tout cas,{pause 10} {Player name},{pause 15} je suis sûr	que tu trouveras ton bonheur à	{Town name (pink)}!
+"038"	{pause 5}{emote: Alarmed}Mais tu as l'air de prendre tout ça	un peu à la légère!{Wait for input}{emote: Happiness}Ça ne peut pas être simplement le	fruit du hasard si tu es dans ce	train!	{emote: Thought}Si vraiment il y a quelque chose qui	te pousse à aller dans cette ville,{pause 15}	qu'est-ce que c'est? {pause 20}Et pourquoi?	{emote: Happiness}{pause 5}Je me demande bien ce qui t'attend	à {Town name (pink)}, moi!{Wait for input}{emote: Agreement}Ce dont je suis certain,{pause 10} c'est que ça	ne peut être que quelque chose de	merveilleux!
+"039"	{pause 5}{emote: Laughter}{pause 15}Alors c'est un secret, {pause 10}c'est ça?{pause 20} Mia	ha ha!{pause 20} {emote: Reset}OK, {pause 15}d'accord,{pause 20} comme tu	veux.	{emote: Glare}Et tu peux me dire ce qui t'amène	là-bas,{pause 15} ou ça aussi c'est un secret?{pause 10}	Miou hou hou!{000f-0000-0004-0000-0000}	Oui, c'est un secret!	Je vais y habiter.
+"040"	Mia ha!{pause 20} Pas grave.{pause 30} {emote: Happiness}Je parie que je	peux deviner tes petits secrets, de	toute façon...	{emote: Thought}Alors, voyons{pause 8}.{pause 8}.{pause 8}.{pause 10} Réfléchissons un	instant{pause 8}.{pause 8}.{pause 8}.{pause 8} Ton billet semble être un	aller simple...	{pause 5}{emote: Inspired}{pause 10}Ah,{pause 10} je sais!{pause 20} Tu déménages, {pause 8}j'en suis	sûr!{pause 30}{emote: Curious} Alors tu vas habiter dans cette	ville?{000f-0000-0004-0000-0000}	Dans le mille!	Tu es malin, toi...
+"041"	{emote: Alarmed}J'ai raison? {pause 20}M'en doutais!{Wait for input} {emote: Laughter}{pause 5}Mia ha!	{pause 12}C'était évident, en fait. {pause 30}Quoique, {pause 15}tu	aurais pu y aller en vacances...{pause 10}{emote: Happiness}	{emote: Thought}N'empêche,{pause 12} un déménagement,{pause 12} c'est	pas une mince affaire!{Wait for input}{emote: Happiness}Je t'envierais presque, {pause 12}c'est	toujours drôlement sympa de	commencer une nouvelle aventure!	{emote: Sunny}Eh bien,{pause 15} je te souhaite tout plein de	belles choses pour ta nouvelle vie à	{Town name (pink)}!
+"042"	{pause 5}{emote: Laughter}{pause 5}Mia ha!{pause 30} Et toi,{pause 20} tu es un{/e} sacré{/e}	rigolo{/te}.{pause 30} Je n'en croise pas des	comme toi tous les jours.{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}Alors tu vas y vivre, hein?{pause 30} {emote: Happiness}Sympa	comme tu l'es,{pause 15} je suis sûr que tu ne	tarderas pas à te faire des amis!	{emote: Sheepishness}Je regrette presque de ne pas	pouvoir aller vivre à {Town name (pink)}, moi	aussi.	J'ai comme le sentiment qu'on ne va	pas s'y ennuyer, mia ha!
+"043"	{emote: Alarmed}Quoi, quoi, quoi, quoi, quoi?!{pause 15}	Qu'est-ce que tu me racontes là?{Wait for input}Tu me dis ça comme ça, {pause 10}l'air de	rien, {pause 10}après m'avoir fait le coup du	secret et tout le reste?	{emote: Laughter}{pause 5}Mia ha ha ha ha!{pause 10} T'es vraiment {un/une}	{marrant/marrante}, toi!{pause 10}{emote: Happiness}{000f-0000-0004-0000-0000}	Oui, guili guili!	Je ne plaisante jamais.
+"044"	{emote: Laughter}Mia ha!{pause 15} Tu es impayable! {pause 15}Mia ha	ha! {pause 30}{emote: Reset}Alors comme ça,{pause 12} tu y vas pour	y habiter?	{emote: Happiness}Avec un caractère haut en couleur	comme le tien,{pause 15} je suis sûr que tu vas	vite te faire plein d'amis!	{emote: Pride}{capitalized}{Town name (pink)} n'a qu'à bien se tenir!{pause 20}	Oyez, oyez, braves gens.	{capitalized}{Player name} arrive! Mia ha!
+"045"	{emote: Laughter}{pause 10}Ah mais j'en suis convaincu!{pause 10}	Mia ha ha!{pause 20} Plus sérieu{x/se} que toi,{pause 10}	y'a pas!{pause 10}{emote: Happiness}	Hé,{pause 10} tu sais quoi? {pause 20}Je t'aime bien.{pause 20}	{emote: Reset}Je regrette de ne pas compter	parmi tes nouveaux voisins.	{emote: Happiness}Allez! {pause 15}Je crois bien que je vais	emménager à {Town name (pink)}, moi aussi.	Qu'est-ce que tu en penses, hein?	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Laughter}{pause 10} Mia ha ha!{pause 20} Mais non,{pause 10} t'inquiète,{pause 10}	je plaisante! {pause 10}Mia ha ha!{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}De toute façon, {pause 10}même sans moi, {pause 10}je	suis sûr que tu trouveras le moyen	de te fendre la poire à {Town name (pink)}!
+"046"
+"047"
+"048"
+"049"	{emote: Surprise}Oh!{pause 15} {emote: Reset}On dirait qu'on est sur le point	d'arriver à {Town name (pink)}.{Wait for input}Merci pour le brin de causette!{Wait for input}{emote: Happiness}	C'est le trajet le plus agréable que	j'ai fait depuis des lustres.	{emote: Thought}Ça me fait penser que je n'arrête	pas en ce moment... Je suis	constamment sur les rails!{Wait for input}{emote: Daydreaming}Je n'ai pas autant voyagé depuis	2004, ou quelque chose dans ce	style...	{emote: Greetings}Bien! {pause 20}Alors, {pause 10}bonne chance à toi,	{Player name}!{pause 15} Bye!
+"051"	{pause 5}{emote: Alarmed}{pause 10}Hé, salut toi!{pause 20}{emote: Reset} Je peux te poser une	question?{Wait for input} {emote: Happiness}Tu viens d'acheter un	billet pour {Town name (pink)}, c'est ça?	{emote: Reset}Tu sais, {pause 15}je connais quelqu'un qui	habite là-bas.{pause 20}{emote: Happiness} Tu permets que je	m'assoie?{000f-0005-0004-0000-0000}	Je t'en prie!	Va-t'en, sac à puces!
+"052"	{emote: Happiness}Chouette,{pause 15} merci bien!
+"053"	{emote: Laughter}Mia ha ha!{pause 20}	Allons, allons! {pause 20}Heureusement que	je sais que tu plaisantes...
+"054"	Dis-moi tout, {pause 10}{emote: Soft Smile}comment tu	t'appelles?
+"055"	{emote: Alarmed}QUOI?!{pause 10} Chat alors! Toi aussi tu	t'appelles {Player name}?!{Wait for input}{emote: Reset}La personne que je connais à	{Town name (pink)} porte exactement le	même nom que toi.	{emote: Thought}Hmm{pause 9}.{pause 8}.{pause 9}.{pause 10} {emote: Reset}J'ai peur de m'emmêler les	pinceaux...{pause 30} {emote: Happiness}Tu dois bien avoir un	surnom que je pourrais utiliser?
+"056"	C'est beau comme nom, {pause 8}{Player name}.	Alors,{pause 8} {Player name},{pause 12}{emote: Curious} dis-moi, {pause 20}tu y es	déjà allé{/e} à {Town name (pink)}?{000f-0001-0006-0000-0000-0000}	C'est la première fois.	Je ne sais plus.	Ça me regarde.
+"057"
+"058"
+"059"	Notre train arrive à {Town name (pink)}!{pause 15}	Gare {de /d'}{Town name (pink)}!{pause 15}	Deux minutes d'arrêt!{Wait <005a 0000> 'time'}
+"061"	Alors, dis-moi tout...{pause 30} {emote: Curious}Où te rends-tu,	aujourd'hui?
+"062"	{emote: Alarmed}{pause 10}Quel esprit d'aventure!{Wait for input}{emote: Thought}Je me demande quelles	merveilles t'attirent dans	la ville {de /d'}{Town name (pink)}{pause 8}.{pause 8}.{pause 8}.{0007-0008-0004-003c-0000}
+"063"	{emote: Surprise}Oh!{pause 20} {emote: Reset}On dirait qu'on arrive déjà à	{Town name (pink)}. Et moi qui avais encore	plein de questions à te poser...	Dommage!{pause 15} {emote: Happiness}En tout cas, {pause 10}ça m'a fait	drôlement plaisir de te revoir, tu	sais.
+"064"
+"065"

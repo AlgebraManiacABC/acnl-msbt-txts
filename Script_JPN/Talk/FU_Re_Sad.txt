@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Sadness}
-"002"	{emote: Sadness}
-"003"	{emote: Worry}
+"001"	{emote: Sadness}ごめんなさい{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{ruby (charSpan 1): いま}今は　{pause 10}お{ruby (charSpan 1): はな}話ししたい	{ruby (charSpan 2): きぶん}気分じゃないんです、{pause 15}{catchphrase}
+"002"	{emote: Sadness}しばらく{pause 8}	そっとしておいてください{Wait for input}	{emote: Cold Chill}なぐさめはいりません{pause 8}・{pause 8}・{pause 8}・{pause 8}{catchphrase}
+"003"	{emote: Worry}すみません{Wait for input}	{emote: Sadness}{ruby (charSpan 1): いま}今は　{pause 10}ひとりの{ruby (charSpan 2): じかん}時間が	{ruby (charSpan 2): ひつよう}必要なんです{pause 8}・{pause 8}・{pause 8}・{pause 8}{catchphrase}

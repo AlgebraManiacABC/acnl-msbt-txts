@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Glee}
-"003"	{emote: Happiness}
+"001"	{emote: Happiness}{Blue}タイムカプセル{Color Reset}、{pause 10}	ちゃんと　うめてね～！{pause 30}	{emote: Reset}{ruby (charSpan 2): てがみ}手紙のところに　{pause 3}しまったでしょ？！{Wait for input}{emote: Agreement}あと、{pause 10}{ruby (charSpan 2): かって}勝手に　{ruby (charSpan 2): なかみ}中身{ruby (charSpan 1): み}見たりするのは{pause 10}	ダメだからね～、{pause 15}{catchphrase}
+"002"	{emote: Glee}{Blue}タイムカプセル{Color Reset}、{pause 10}	うめるの　わすれないでね！{Wait for input}{emote: Reset}{ruby (charSpan 2): てがみ}手紙のとこに　{pause 8}ちゃんと{pause 3}	{emote: Curious}{ruby (charSpan 1): い}入れてあるでしょ？{Wait for input}{emote: Worry}{ruby (charSpan 2): かって}勝手に{ruby (charSpan 1): あ}開けたりしちゃ　ヤダからね！{pause 30}	{emote: Greetings}じゃあ、{pause 10}よろしく　たのむよ～
+"003"	{emote: Happiness}{Blue}タイムカプセル{Color Reset}、{pause 15}うめておいてね！{Wait for input}	{ruby (charSpan 2): てがみ}手紙のとこに　{emote: Curious}{ruby (charSpan 1): い}入れてあるでしょ？！{pause 30}	{emote: Reset}こっそり{ruby (charSpan 1): み}見るとか　{pause 10}{emote: Disagreement}ダメだからね～

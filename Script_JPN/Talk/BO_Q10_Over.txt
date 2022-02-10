@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Disbelief}
-"003"	{emote: Disbelief}
-"004"	{pause 8}
+"001"	{emote: Distress}うわぁ～！{pause 20}	み、{pause 8}{ruby (charSpan 1): み}見つかっちゃったぁ！
+"002"	{emote: Disbelief}{0007-000b-0000}あぁ～！！{pause 20}	オニさんに　{ruby (charSpan 1): み}見つかっちゃったぁ～
+"003"	{emote: Disbelief}{0007-000b-0000}わぁ～！{pause 20}	オニの　{Player nickname (green)}{0005-000d-0000}！{Wait for input}{emote: Distress}かくれんぼマスターのボクを、{pause 20}	よく{ruby (charSpan 1): み}見つけられたねぇ！
+"004"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Happiness}なぁ～んて、{pause 20}	ざんねんでしたぁ～{pause 40}	もう　{ruby (charSpan 2): じかん}時間{ruby (charSpan 1): ぎ}切れだよぉ～{Wait for input}{emote: Reset}ってことは、{pause 20}	{emote: Sunny}ボクらの　かちだぁ、{pause 8}{catchphrase}

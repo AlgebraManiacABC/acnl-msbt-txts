@@ -1,115 +1,115 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Shocked}
-"003"	{emote: Surprise}
-"004"	Ogre, ogre, go away!{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Agreement}
-"007"	{emote: Surprise}
-"008"	{emote: Distress}
-"009"	{emote: Shocked}
-"010"	{emote: Alarmed}
-"011"	{emote: Glare}
-"012"	{emote: Worry}
-"013"	{emote: Surprise}
-"014"	{emote: Surprise}
-"015"	{emote: Surprise}
-"016"	{emote: Surprise}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Surprise}
-"020"	{emote: Reset}
-"021"	{emote: Glare}
-"022"	{emote: Soft Smile}
+"001"	{emote: Distress}{0007-000a-0000}Oh no!{pause 20} An ogre! {pause 40}{emote: Worry}
+"002"	{emote: Shocked}{0007-000b-0000}Oh no!{pause 20} An ogre!{pause 20} Ogre in town!{pause 20}	Sound the ogre alarm!{pause 20} {pause 8}.{pause 8}.{pause 8}.{pause 20}Why don't	we have an ogre alarm?!
+"003"	{emote: Surprise}{0007-000b-0000}What? An ogre?!{pause 40} {emote: Glee}I've been waiting	for you, ogre!
+"004"	Ogre, ogre, go away!{pause 20}	Make my luck good today!
+"005"	{emote: Happiness}All right!{pause 10} I'm safe for another year!{pause 40}	{emote: Reset}Whew! {pause 20}{capitalized}{catchphrase}!
+"006"	{emote: Agreement}These ogres look cooler every year!	{pause 40}{emote: Happiness}Awesome! {pause 20}{capitalized}{catchphrase}!
+"007"	{emote: Surprise}Oh! Sorry! Sorry!{pause 20} I really put my	back into that one!{pause 40} {emote: Soft Smile}Did it hurt?	{pause 20}{capitalized}{catchphrase}?
+"008"	{emote: Distress}{0007-000b-0000}AHH! {pause 20}An ogre!{pause 40} It's bean time, baby!	{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Surprise}Huh? {pause 20}The ogre's got beans too?!{Wait for input}{emote: Distress}Hey! You can throw 'em or get 'em	thrown at you, but not both!	{pause 20}{capitalized}{catchphrase}!{pause 40}{emote: Worry}
+"009"	{emote: Shocked}{0007-000b-0000}GAH!{pause 20} This ogre's packing beans!{Wait for input}{emote: Distress}DUDE!{pause 20} I do not wanna get hit by	ogre beans! {pause 20}{capitalized}{catchphrase}!{pause 40}{emote: Worry}
+"010"	{emote: Alarmed}Ah! {pause 20}An ogre!{pause 40}{emote: Anger} Take it easy, ogre!	{emote: Curious}You're not gonna bean me, are you?{Wait for input}{emote: Distress}Ogres aren't supposed to hit people	with beans, even if they do get hit	first! {pause 40}{emote: Worry}
+"011"	{emote: Glare}Hohoho! I'm gonna get some	ogres with my beans, {pause 20}{catchphrase}!
+"012"	{emote: Worry}Aw man, {pause 20}there're no ogres!{pause 40}{emote: Resigned} How am	I gonna show off my bean-throwing	skills? {pause 20}{capitalized}{catchphrase}?
+"013"	{emote: Surprise}Oh, right!{pause 20} At the end we have to	eat the beans, right? {emote: Happiness}I almost threw	them all, {pause 20}{catchphrase}!
+"014"	{emote: Surprise}Oh! {pause 8}You've got beans!{pause 40}{emote: Happiness} They're fun	to throw and eat, {pause 20}{catchphrase}!
+"015"	{emote: Surprise}Whoa, {Player nickname (green)}! You've already	got your beans ready?{pause 40}{emote: Reset} You're raring	to go, aren't you?	{emote: Agreement}I got some aerodynamic beans that	should be easy to throw{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Curious}Wonder	where they went. {pause 20}{capitalized}{catchphrase}.
+"016"	{emote: Surprise}You've got beans!{pause 40}{emote: Glare} You got your	game face on, huh?{Wait for input}{emote: Happiness}But listen up!{pause 20} Save some to eat!{pause 40}	{emote: Reset}You gotta eat as many as your age!
+"017"	{emote: Happiness}Hee hee!{pause 20} We've both got our beans.{pause 20}	{emote: Reset}We're all set!{Wait for input}{emote: Glee}I'm gonna go all out today!{pause 40}	{0007-000b-0000}{Text size 150%}OH YEAH!{Text size 100%}
+"018"	{emote: Happiness}OK, {Player nickname (green)}!{pause 20}	Until the ogres show up, let's	practice our bean throwing!	{emote: Worry}Oh, {pause 8}but{pause 8}.{pause 8}.{pause 8}.{pause 20}we probably shouldn't 	waste them, so we can just pretend!	{pause 20}{capitalized}{catchphrase}!
+"019"	{emote: Surprise}Oh! {pause 2}You've got beans!{pause 40} {emote: Glare}You're ready	for a bean fight today, huh?{Wait for input}{emote: Happiness}But listen!{pause 20} Don't throw 'em all!{pause 8}	Save enough to eat!{pause 40}{emote: Reset} You'll need as	many as your age!
+"020"	{emote: Reset}Beans, beans, a wonderful fruit!{pause 8}	The more you eat, the more you{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Alarmed}Huh?!{pause 20} Where did my beans go?!{pause 40}{Wait for input}{emote: Distress}You can never find 'em when ya	need 'em! {pause 20}{capitalized}{catchphrase}!{pause 40}{emote: Worry}
+"021"	{emote: Glare}Uh,{pause 20} lookin' sharp!	{Gray}{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Reset}Wait.{pause 40} Am I supposed to be scared	right now?{Color Reset}	{emote: Distress}B-{pause 8}but something seems different	today!{pause 20} You're like the real deal!	{pause 20}{capitalized}{catchphrase}!
+"022"	{emote: Soft Smile}Huh. Nice mask!{pause 20} I wanna wear{pause 20}.{pause 20}.{pause 20}.{pause 40}{emote: Surprise} Oh!{pause 8}	Sorry.{pause 20} I should act more scared.{Wait for input}{emote: Distress}Oh no!{pause 20} I'm scared! {pause 20}{capitalized}{catchphrase}!
 == 1 ==
-"001"	{emote: Distress}
-"002"	{emote: Shocked}
-"003"	{emote: Surprise}
-"004"	¡Lárgate ogro, no quiero verte!{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Agreement}
-"007"	{emote: Surprise}
-"008"	{emote: Distress}
-"009"	{emote: Shocked}
-"010"	{emote: Alarmed}
-"011"	{emote: Glare}
-"012"	{emote: Worry}
-"013"	{emote: Surprise}
-"014"	{emote: Surprise}
-"015"	{emote: Surprise}
-"016"	{emote: Surprise}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Surprise}
-"020"	{emote: Reset}
-"021"	{emote: Glare}
-"022"	{emote: Soft Smile}
+"001"	{emote: Distress}{0007-000a-0000}¡Aaay, no, no, no!{pause 20} ¡Un ogro!{pause 40}{emote: Worry}
+"002"	{emote: Shocked}{0007-000b-0000}¡Aaah, nooo!{pause 20} ¡Un ogrooo!{pause 20} ¡Ogro a	la vista!{pause 20} ¡¿Dónde está la alarma	antiogros cuando la necesitas?!	Buf, ya verás, seguro que algún	listillo la ha apagado para ahorrar	energía...
+"003"	{emote: Surprise}{0007-000b-0000}¿Cómooo? ¡¿Un ogro?!{pause 40} {emote: Glee}¡Ji, ji, ji!	¡Ya tenía yo ganas de ver uno!
+"004"	¡Lárgate ogro, no quiero verte!{pause 20}	¡Afuera el mal! ¡Adentro la suerte!
+"005"	{emote: Happiness}¡Yupiiiii!{pause 10} ¡Otro año más para irme	de fiesta sin ninguna preocupación!{pause 40}	{emote: Reset}¡Buf, menos mal, {pause 20}{catchphrase}!
+"006"	{emote: Agreement}Vaya, ¡el ogro sí que la está liando	este año!{pause 40}	{emote: Happiness}¡Qué movida, {pause 20}{catchphrase}!
+"007"	{emote: Surprise}¡Huy! ¡Lo siento!{pause 20} ¡No era mi	intención!{pause 40} {emote: Soft Smile}¿Te ha dolido,	{pause 20}{catchphrase}?
+"008"	{emote: Distress}{0007-000b-0000}¡Ostras! {pause 20}¡Un ogro!{pause 40} ¡Habichuelas	a mí! {emote: Surprise}¿Ein? {pause 20}¡¿Él también tiene	habichuelas?! ¡No vale!{Wait for input}{emote: Distress}¡Oye! O te las tiran, o las tiras,	¡pero las dos cosas es trampa!	{pause 20}¡Abusón, {catchphrase}!{pause 40}{emote: Worry}
+"009"	{emote: Shocked}{0007-000b-0000}¡¿Qué?!{pause 20} ¡Será posible! ¡Pero si	tiene habichuelas!{Wait for input}{emote: Distress}¡OYE!{pause 20} ¡No mola que un ogro	te tire habichuelas!{emote: Worry}
+"010"	{emote: Alarmed}¡Halaaaa! {pause 20}¡Un ogro, nada más y	nada menos!{pause 40}{emote: Anger} ¡Oye, cuidadito!{Wait for input}{emote: Curious}No serás capaz de lanzarme una	habichuela, ¿verdad?{emote: Distress} ¡Se supone	que los ogros no hacen esas cosas!{pause 40}{emote: Worry}
+"011"	{emote: Glare}¡Ji, ji, ji! Voy a repartir leña con	las habichuelas... ¡no va a haber	ogro que se me resista!
+"012"	{emote: Worry}Jolipas... {pause 20}¡no hay ningún ogro!{pause 40}{emote: Resigned}	Y yo que llevo meses entrenando	para esto... {pause 20}¡{capitalized}{catchphrase}!
+"013"	{emote: Surprise}¡Ah, claro!{pause 20} Al final nos sentamos	todos juntos a comer habichuelas,	¿no? {emote: Happiness}Buf, pues menos mal, ¡ji, ji!
+"014"	{emote: Surprise}¡Anda,{pause 8} tienes habichuelas!{pause 40}{emote: Happiness} No sé	qué me gusta más, si comérmelas	o lanzarlas.{pause 20} {emote: Laughter}¡Ji, ji, ji!
+"015"	{emote: Surprise}¡Hala, {Player nickname (green)}! ¡Ya tienes las	habichuelas a punto! {pause 40}{emote: Reset}Estás deseando	que empiece la movida, ¿eh?	{emote: Agreement}Yo me he comprado unas que son	el último grito, aerodinámicas y	todo{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Curious}¿Dónde las habré puesto?
+"016"	{emote: Surprise}¡Tienes habichuelas!{pause 40}{emote: Glare} Estás en modo	fiesta ya, ¿eh?{Wait for input}{emote: Happiness}¡Una cosa!{pause 20} No las tires todas...{pause 40} {emote: Reset}	Tienes que comer tantas como	años tengas... ¡O eso dicen!
+"017"	{emote: Happiness}¡Ji, ji, ji!{pause 20} Ya tenemos las	habichuelas preparadas.{pause 20}	{emote: Reset}¡Puede empezar la acción!{Wait for input}{emote: Glee}¡Estoy lista para darlo todo!{pause 40}	{0007-000b-0000}{Text size 150%}¡Vamos allá!{Text size 100%}
+"018"	{emote: Happiness}¡Muy bien, {Player nickname (green)}!{pause 20}	Mientras no aparezca el ogro,	podemos ir practicando...	{emote: Worry}Ah,{pause 8} ¡pero así nos quedaremos	sin habichuelas! Necesitamos	otro plan...
+"019"	{emote: Surprise}¡Ostras! {pause 2}¡Tienes habichuelas!{pause 40}	{emote: Glare}Hoy vas a repartir candela, ¿eh?{Wait for input}{emote: Happiness}¡Atiende!{pause 20} ¡No las tires todas!{pause 8}	Tienes que comerte algunas.{pause 40}{emote: Reset}	Tantas como años tengas, creo.
+"020"	{emote: Reset}Habichuelas estofadas, habichuelas	crudas, potaje de habichuelas...{pause 8}	¡El caso es comerlas! Ji, ji, ji{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Alarmed}¡¿Ein?!{pause 20} Pero ¡¿adónde han ido?!{pause 40}{emote: Distress}	¡Jolipas, seguro que ahora voy	a tener mala suerte, ya verás!{emote: Worry}
+"021"	{emote: Glare}¡Oye!{pause 20} ¡Vas de punta en blanco!	{Gray}{Gray}(Mmm{Gray}{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Reset} Un segundo.{pause 40} ¿Tendría	que estar asustada?){Color Reset}	{emote: Distress}¡A-{pause 8}aquí hay algo que no encaja!{pause 20}	¡Buf, me muero de miedo,	{pause 20}{catchphrase}!
+"022"	{emote: Soft Smile}¡Oye, me flipa tu máscara!{pause 20}	Yo también quie{pause 20}.{pause 20}.{pause 20}.{pause 40}{emote: Surprise} ¡Ah,{pause 8} claro!{pause 20}	Tengo que hacerme la asustada...{Wait for input}{emote: Distress}¡Aaaay, mamá!{pause 20} ¡Me muero	de miedo, {pause 20}{catchphrase}!
 == 2 ==
-"001"	{emote: Distress}
-"002"	{emote: Shocked}
-"003"	{emote: Surprise}
-"004"	Ogre, vil ogre, rentre chez toi !{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Agreement}
-"007"	{emote: Surprise}
-"008"	{emote: Distress}
-"009"	{emote: Shocked}
-"010"	{emote: Alarmed}
-"011"	{emote: Glare}
-"012"	{emote: Worry}
-"013"	{emote: Surprise}
-"014"	{emote: Surprise}
-"015"	{emote: Surprise}
-"016"	{emote: Surprise}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Surprise}
-"020"	{emote: Reset}
-"021"	{emote: Glare}
-"022"	{emote: Soft Smile}
+"001"	{emote: Distress}{0007-000a-0000}Hiiiiiii !{pause 20} Un ogre !{pause 40}{emote: Worry}
+"002"	{emote: Shocked}{0007-000b-0000}Hiiiiiii !{pause 20} Y'a un ogre en ville !{pause 20}	Sonnez l'alarme à ogres !{pause 30} Hein{pause 8}.{pause 8}.{pause 8}.{pause 8}?!{pause 20}{Wait for input}Comment ça on a pas d'alarme à	ogres ?!
+"003"	{emote: Surprise}{0007-000b-0000}Hein ? Un ogre ?!{pause 40} {emote: Glee}OK, amène-toi,	j't'attends !
+"004"	Ogre, vil ogre, rentre chez toi !{pause 20}	Et qu'à la peur succède la joie !
+"005"	{emote: Happiness}OK !{pause 10} Me v'là tranquille pour l'année.{pause 40}	{emote: Reset}Pfiou,{pause 20} {catchphrase} !
+"006"	{emote: Agreement}C't'année, l'ogre y va pas d'main	morte !{pause 40} {emote: Happiness}Ça l'fait !{pause 20} {capitalized}{catchphrase} !
+"007"	{emote: Surprise}Ah ! Désolée !{pause 20} J'l'ai lancé un peu	fort, celui-là !{pause 40} {emote: Soft Smile}J't'ai pas fait mal, au	moins ?{pause 20} {capitalized}{catchphrase} ?!
+"008"	{emote: Distress}{0007-000b-0000}Hiiiiiii !{pause 20} Un ogre !{pause 20} J'vais pas	t'louper !{pause 20} {emote: Surprise}Hein{pause 8}.{pause 8}.{pause 8}.{pause 8}?!{pause 20} Qu'est-ce tu	fiches avec ces haricots ?!	{emote: Distress}Ho, soit tu lances, soit t'encaisses,	mais faut faire un choix !{pause 20}	{capitalized}{catchphrase} !{pause 20}{emote: Worry}
+"009"	{emote: Shocked}{0007-000b-0000}Argh !{pause 20} Attention, cet ogre est pas	venu les mains vides !{Wait for input}{emote: Distress}Raaah !{pause 20} Rien d'pire que d'se prendre	un haricot maléfique,{pause 20} {catchphrase} !{pause 40}{emote: Worry}
+"010"	{emote: Alarmed}Hiiii !{pause 20} Un ogre !{pause 40} Tout doux, ogre...{pause 30}	{emote: Curious}Euh{pause 8}.{pause 8}.{pause 8}.{pause 8}?{pause 20} T'as pas l'intention d'me	balancer des haricots, au moins ?	{emote: Worry}Les ogres sont pas censés faire ça,	tu sais,{pause 20} même pas pour s'venger !
+"011"	{emote: Glare}Hi hi ! Venez tâter d'mes haricots,	vils ogres !{pause 20} {capitalized}{catchphrase} !
+"012"	{emote: Worry}Pfff,{pause 20} pas un ogre à l'horizon...{pause 40} {emote: Resigned}Moi	qui voulais montrer ma maîtrise du	lancer de haricots,{pause 20} {catchphrase}...
+"013"	{emote: Surprise}Ah, c'est vrai !{pause 20} À la fin, on doit	manger des haricots, pas vrai ?	{emote: Happiness}Chuis presque à sec,{pause 20} {catchphrase} !
+"014"	{emote: Surprise}Oh !{pause 8} Y t'reste des haricots ?!{pause 30} {emote: Happiness}Faut	qu'j'en trouve, moi aussi.{pause 20} Aussi bien	pour les lancer que pour les manger.
+"015"	{emote: Surprise}Oh, j'vois qu't'as fait l'plein de	munitions, {Player nickname (green)} !{pause 20}{emote: Reset} Tu m'as l'air	carrément {motivé/motivée} !	{emote: Agreement}Perso, j'me suis fait un p'tit stock	de haricots aérodynamiques{pause 8}.{pause 8}.{pause 8}.{pause 20} La	précision à l'état pur,{pause 20} {catchphrase}.
+"016"	{emote: Surprise}C'est des haricots que j'vois là ?!{pause 40}	{emote: Glare}J'en connais {un/une} qu'a envie d'en	découdre !	{emote: Happiness}Mais attention, les lance pas tous !{pause 40}	{emote: Reset}À la fin, tu devras en manger autant	que t'as d'années au compteur !
+"017"	{emote: Happiness}Hi hi !{pause 20} Haricots : prêts.{pause 20} Motivation :	au top.{pause 20}{emote: Reset} J'crois qu'on est {parés/parées} !{Wait for input}{emote: Glee}J'vais tout donner, aujourd'hui !{pause 40}	{0007-000b-0000}{Text size 150%}YOUHOU !{Text size 100%}
+"018"	{emote: Happiness}Hé, {Player nickname (green)} !{pause 20} Si on s'entraînait	au lancer de haricots avant l'arrivée	des ogres ?	{emote: Worry}Ah,{pause 8} remarque{pause 8}.{pause 8}.{pause 8}.{pause 20} on risque de gâcher	nos munitions...{pause 8} On a qu'à faire	semblant !{pause 20} {capitalized}{catchphrase} !
+"019"	{emote: Surprise}C'est des haricots que j'vois là ?!{pause 40}	{emote: Glare}J'en connais {un/une} qu'a envie d'en	découdre !	{emote: Happiness}Mais attention, les lance pas tous !{pause 40}	{emote: Reset}À la fin, tu devras en manger autant	que t'as d'années au compteur !
+"020"	{emote: Reset}OK, un haricot pour monsieur l'ogre,	un{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Alarmed}Gné ?!{pause 20} Où y sont passés ?!{pause 20}{Wait for input}{emote: Distress}C'est toujours quand t'en as l'plus	besoin qu'tu les retrouves plus,{pause 20}	{catchphrase} !{pause 20}{emote: Worry}
+"021"	{emote: Glare}Hep !{pause 20} Sympa ce look,{pause 20} {catchphrase}.	{Gray}{emote: Reset}(Arf !{pause 40} J'imagine que c'est l'moment	où chuis censée avoir peur ?!){Color Reset}	{emote: Distress}M-m-mais...{pause 8} y'a un truc de changé	chez toi, on dirait...!{pause 20} Comme un	côté... ma-ma-maléfique...!
+"022"	{emote: Soft Smile}Mortel ce masque !{pause 20} Y m'en faut un	aus{pause 20}.{pause 20}.{pause 20}.{pause 40} {emote: Surprise}Oh !{pause 8} Pardon !{pause 20} J'avais oublié...{Wait for input}{emote: Distress}Hiiiiiiiii !{pause 20} Au secours !{pause 20} Un ogre !{pause 20}	{capitalized}{catchphrase} !
 == 3 ==
-"001"	{emote: Distress}
-"002"	{emote: Shocked}
-"003"	{emote: Surprise}
-"004"	Spirito malvagio pussa via!{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Agreement}
-"007"	{emote: Surprise}
-"008"	{emote: Distress}
-"009"	{emote: Shocked}
-"010"	{emote: Alarmed}
-"011"	{emote: Glare}
-"012"	{emote: Worry}
-"013"	{emote: Surprise}
-"014"	{emote: Surprise}
-"015"	{emote: Surprise}
-"016"	{emote: Surprise}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Surprise}
-"020"	{emote: Reset}
-"021"	{emote: Glare}
-"022"	{emote: Soft Smile}
+"001"	{emote: Distress}{0007-000a-0000}Oh, no!{pause 20} Uno spirito malvagio!{pause 40}{emote: Worry}
+"002"	{emote: Shocked}{0007-000b-0000}Oh, no!{pause 20} Uno spirito malvagio	in città!{pause 20} Perché non suona	l'allarme anti-spiriti?!{pause 20}	{pause 8}.{pause 8}.{pause 8}.{pause 20} Ah, non abbiamo nessun allarme	del genere. E perché mai?!
+"003"	{emote: Surprise}{0007-000b-0000}Che? Uno spirito malvagio?!{pause 40}	{emote: Glee}Ti stavo proprio aspettando, eh!
+"004"	Spirito malvagio pussa via!{pause 20}	La fortuna dev'essere tutta mia!
+"005"	{emote: Happiness}Ah, dai!{pause 10} Sono al sicuro	per un altro anno!{pause 40} {emote: Reset}Meno male!	{pause 20}{capitalized}{catchphrase}!
+"006"	{emote: Agreement}Gli spiriti malvagi si danno sempre	un gran da fare ultimamente!{pause 40}{emote: Happiness}	Niente male! {pause 20}{capitalized}{catchphrase}!
+"007"	{emote: Surprise}Oh! Scusa! Scusa!{pause 20} Forse ho tirato	i fagioli con troppa forza!{pause 40} {emote: Soft Smile}Ti ho	fatto male? {pause 20}{capitalized}{catchphrase}?
+"008"	{emote: Distress}{0007-000b-0000}AAAH! {pause 20}Uno spirito malvagio!{pause 40} È ora	di lanciare i fagioli, eh! {pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Surprise} Che?	{pause 20}Anche lo spirito ne ha?!{Wait for input}{emote: Distress}Ehi! Puoi gettare i fagioli, oppure	farteli gettare contro, ma non	entrambe le cose! {pause 20}{capitalized}{catchphrase}!{pause 40}{emote: Worry}
+"009"	{emote: Shocked}{0007-000b-0000}AH!{pause 20} Questo spirito malvagio	ha un sacco di fagioli!{Wait for input}{emote: Distress}Eh no!{pause 20} Non voglio mica farmi	colpire dai fagioli di uno spirito!	{pause 20}{capitalized}{catchphrase}!{pause 40}{emote: Worry}
+"010"	{emote: Alarmed}Ah! {pause 20}Uno spirito malvagio!{pause 40}{emote: Anger} Mangia	questi! {pause 20}.{pause 20}.{pause 20}. {emote: Curious}Eh? {pause 20}Non vorrai mica	lanciarmi addosso dei fagioli?{Wait for input}{emote: Distress}Come ti permetti?!{pause 20}	Gli spiriti non dovrebbero colpire	gli altri! Mai!{pause 40}{emote: Worry}
+"011"	{emote: Glare}Ohohoh! Colpirò degli spiriti maligni	con i miei fagioli, {pause 20}{catchphrase}!
+"012"	{emote: Worry}Ma no, {pause 20}non vedo spiriti in giro!{pause 40}{emote: Resigned}	E io che mi ero allenata a lanciare	fagioli! {pause 20}{capitalized}{catchphrase}!
+"013"	{emote: Surprise}Oh, beh!{pause 20} Alla fine i fagioli bisogna	mangiarli, no? {emote: Happiness}Li avevo quasi	gettati tutti via, {pause 20}{catchphrase}!
+"014"	{emote: Surprise}Oh! {pause 8}Vedo che hai dei fagioli!{Wait for input}{emote: Happiness}Non so se preferisco lanciarli	o mangiarmeli, {pause 20}{catchphrase}!
+"015"	{emote: Surprise}Ehi, {Player nickname (green)}! Hai già preparato	i fagioli?{pause 40}{emote: Reset} Non vedi l'ora di darci	dentro, eh?	{emote: Agreement}Ho trovato dei fagioli aerodinamici	che dovrebbero essere facili	da lanciare{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{emote: Curious}Ma dove li ho messi, {pause 20}{catchphrase}?
+"016"	{emote: Surprise}I fagioli ce li hai, no?{pause 40}{emote: Glare} E mi pare	che tu abbia anche la faccia	di chi ha voglia di giocare, eh?{Wait for input}{emote: Happiness}Ma ascolta!{pause 20} Conserva dei fagioli	per mangiarli!{pause 40} {emote: Reset}Te ne servono	tanti quanti sono i tuoi anni!
+"017"	{emote: Happiness}Eheheh!{pause 20} Tutti e due abbiamo	i fagioli.{pause 20} {emote: Reset}Siamo pront{i/e}!{Wait for input}{emote: Glee}Andrò a caccia tutto il giorno!{pause 40}	{0007-000b-0000}{Text size 150%}EVVAI!{Text size 100%}
+"018"	{emote: Happiness}OK, {Player nickname (green)}!{pause 20}	In attesa che arrivino gli spiriti,	alleniamoci a lanciare fagioli!	{emote: Worry}Oh, {pause 8}ma{pause 8}.{pause 8}.{pause 8}.{pause 20} forse non dovremmo	sprecarli! Facciamo solo finta,	dai! {pause 20}{capitalized}{catchphrase}!
+"019"	{emote: Surprise}Oh! {pause 2}Hai con te dei fagioli!{pause 40}	{emote: Glare}Sei pront{o/a} a fare una battaglia	di fagioli, eh?{Wait for input}{emote: Happiness}Ascolta però!{pause 20} Non gettarli via tutti!{pause 8}	Alcuni devi mangiarli!{pause 40}{emote: Reset} Tanti quanti	sono i tuoi anni!
+"020"	{emote: Reset}Fagioli, fagioli, che bella invenzione!{pause 8}	Più ne mangi, più{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Alarmed}Eh?!{pause 20}	Dove sono finiti i miei fagioli?!{pause 40}{Wait for input}{emote: Distress}Quando servono, non si trovano	mai! {pause 20}{capitalized}{catchphrase}!{pause 40}{emote: Worry}
+"021"	{emote: Glare}Ehi!{pause 20} Ti vedo in forma!	{Gray}{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Reset} Aspetta.{pause 40} Forse dovrei fare finta	di essere spaventata!{Color Reset}	{emote: Distress}M-{pause 8}ma c'è qualcosa di diverso	in te!{pause 20} Sei una vera... mostruosità!	{pause 20}{capitalized}{catchphrase}!
+"022"	{emote: Soft Smile}Ehi, che bella maschera!{pause 20} Io voglio	mettermi{pause 20}.{pause 20}.{pause 20}.{pause 40}{emote: Surprise} Oh!{pause 8} Scusa!{pause 20}	Dovrei essere più spaventata.{Wait for input}{emote: Distress}Oh, no!{pause 20} Aaah! Che paura!	{pause 20}{capitalized}{catchphrase}!
 == 4 ==
-"001"	{emote: Distress}
-"002"	{emote: Shocked}
-"003"	{emote: Surprise}
-"004"	Oger, Oger, weg mit dir!{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Agreement}
-"007"	{emote: Surprise}
-"008"	{emote: Distress}
-"009"	{emote: Shocked}
-"010"	{emote: Alarmed}
-"011"	{emote: Glare}
-"012"	{emote: Worry}
-"013"	{emote: Surprise}
-"014"	{emote: Surprise}
-"015"	{emote: Surprise}
-"016"	{emote: Surprise}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Surprise}
-"020"	{emote: Reset}
-"021"	{emote: Glare}
-"022"	{emote: Soft Smile}
+"001"	{emote: Distress}{0007-000a-0000}Gah!{pause 20} Ein Oger! {pause 40}{emote: Worry}
+"002"	{emote: Shocked}{0007-000b-0000}Gaaah!{pause 20} Oger!{pause 20} Oger gesichtet!{pause 20}	Löst den Oger-Alarm aus!{pause 20} {pause 8}.{pause 8}.{pause 8}.{pause 20}Wie, {pause 8}wir	haben keinen Oger-Alarm?!
+"003"	{emote: Surprise}{0007-000b-0000}Was?{pause 20} Ein Oger?!{pause 40} {emote: Glee}Auf dich hab	ich schon gewartet!
+"004"	Oger, Oger, weg mit dir!{pause 20}	Dann kommt ganz viel Glück zu mir!
+"005"	{emote: Happiness}Klasse!{pause 10} Damit bin ich für dieses	Jahr in Sicherheit!{pause 40} {emote: Reset}Puh!	{pause 20}{capitalized}{catchphrase}!
+"006"	{emote: Agreement}Der Oger hängt sich dieses Jahr	ganz schön rein!{pause 40} {emote: Happiness}Respekt!	{pause 20}{capitalized}{catchphrase}!
+"007"	{emote: Surprise}Ups!{pause 20} Hab ich 'n bisschen zu fest	geworfen?{pause 40} {emote: Soft Smile}Hoffe, {pause 8}das ging nicht	ins Auge, {pause 20}{catchphrase}!
+"008"	{emote: Distress}{0007-000b-0000}AAAH! {pause 20}Ein Oger!{pause 40} Zeit für Bohnen!	{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Curious}Hö? {pause 20}Der Oger hat ja selbst	Bohnen dabei?!{Wait for input}{emote: Distress}Hey! {pause 20}Entweder wirfste oder wirst	beworfen, {pause 8}aber beides ist voll	unfair! {pause 20}{capitalized}{catchphrase}!{emote: Worry}
+"009"	{emote: Shocked}{0007-000b-0000}GAH!{pause 20} Der Oger hat Bohnen dabei!{Wait for input}{emote: Distress}Boah!{pause 20} Von Ogerbohnen bekommt	man bestimmt monstermäßig	blaue Flecken! {pause 20}{capitalized}{catchphrase}!{emote: Worry}
+"010"	{emote: Alarmed}Ah! {pause 20}Ein Oger!{pause 40}{emote: Anger} Nimm das, Oger!	{pause 20}.{pause 20}.{pause 20}. {emote: Curious}Hö? {pause 20}Hey! {pause 20}Hat der Oger da etwa	selber Bohnen dabei?	{emote: Distress}Was willste mit denen?!{pause 20} Oger	werfen nicht zurück, {pause 8}das verstößt	gegen die Ogerregeln! {emote: Worry}
+"011"	{emote: Glare}Hehehe! {pause 20}Ich geh mit meinen Bohnen	auf Ogerjagd, {pause 20}{catchphrase}!
+"012"	{emote: Worry}Ach, Mann! {pause 20}Wo sind denn die Oger?{pause 40}{emote: Resigned}	Wie soll ich ohne Oger meine 	Wurftechnik vorführen?
+"013"	{emote: Surprise}Ach ja!{pause 20} Am Ende werden die Bohnen	ja gegessen,{pause 8} oder? {emote: Happiness}Ich hätt sie fast	alle geworfen, {pause 20}{catchphrase}!
+"014"	{emote: Surprise}Oh! {pause 8}Du hast Bohnen!{pause 40} Praktisch,	die Dinger{pause 20}{emote: Laughter} – zum Essen und zum	Werfen, {pause 20}{catchphrase}!
+"015"	{emote: Surprise}Hey, {Player nickname (green)}!{pause 20} Bist ja schon gut	mit Bohnen ausgestattet!{emote: Reset}{pause 20} Bist wohl	auch bereit zur Ogerjagd, {pause 8}was?	{emote: Agreement}Ich hab mir extra aerodynamische	Bohnen besorgt{pause 8}.{pause 8}.{pause 8}.{pause 20} Die fliegen	besonders gut, {pause 20}{catchphrase}!
+"016"	{emote: Surprise}Seh ich da Bohnen?{pause 40}{emote: Glare} Bist wohl schon	bestens ausgestattet, {pause 8}was?{Wait for input}{emote: Happiness}Aber vergiss nicht:{pause 20} Du musst 'n	paar Bohnen zum Essen aufheben!{pause 40}	{emote: Reset}Eine für jedes Lebensjahr!
+"017"	{emote: Happiness}Hehehe!{pause 20} Wir haben unsere Bohnen,{pause 8}	wir sind motiviert{pause 8}.{pause 8}.{pause 8}.{emote: Reset}{pause 20} Wir sind bereit!{Wait for input}{emote: Delight}Jetzt wird in die Hände gespuckt!{pause 40}	{0007-000b-0000}{Text size 150%}YEAH!{Text size 100%}
+"018"	{emote: Happiness}Hey!{pause 8} {capitalized}{Player nickname (green)}!{pause 20}	Lass uns an unserer Wurftechnik	feilen, bis die Oger kommen!	{emote: Worry}Oh, {pause 8}aber{pause 8}.{pause 8}.{pause 8}.{pause 20} wir sollten keine Bohnen	verschwenden,{pause 8} also lass uns nur so	tun,{pause 8} als würden wir werfen!
+"019"	{emote: Surprise}Oh! {pause 2}Seh ich da Bohnen?{pause 40} {emote: Glare}	Dann biste ja bereit für die große	Bohnenschlacht heute!	{emote: Happiness}Aber nicht alle werfen!{pause 20} Du musst	noch welche essen!{pause 40}{emote: Reset} Und zwar eine	für jedes Lebensjahr!
+"020"	{emote: Reset}Mal sehen,{pause 20} Bohnen, Bohnen{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Alarmed}Hö?!{pause 20} Wo sind meine Bohnen hin?!{pause 40}{Wait for input}{emote: Distress}Nie find ich sie, wenn ich sie mal	brauche! {pause 20}{capitalized}{catchphrase}!{pause 40}{emote: Worry}
+"021"	{emote: Glare}Hey!{pause 20} Nettes Outfit!{emote: Reset}	{Gray}({pause 8}.{pause 8}.{pause 8}.{pause 20}Moment.{pause 40} Soll ich jetzt Angst	haben?){Color Reset}	{emote: Distress}O-{pause 8}Oh! {pause 20}Sagte ich nett? {pause 20}Ich meinte	monstermäßig! {pause 20}Furchtbar!{pause 20} Also,	das mein ich positiv! {pause 20}{capitalized}{catchphrase}!
+"022"	{emote: Soft Smile}Hey, schicke Maske!{pause 20} So eine will	ich{pause 20}.{pause 20}.{pause 20}.{pause 40}{emote: Surprise} Oh!{pause 8} 'tschuldigung!{pause 20}	Ich soll ja eigentlich Angst haben...	{emote: Distress}Oh nein!{pause 20} Zu Hilf! {pause 20}Ich hab Angst!	{pause 20}{capitalized}{catchphrase}!

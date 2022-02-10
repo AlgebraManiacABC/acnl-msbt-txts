@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Laughter}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Thought}
-"006"	{emote: Thought}
-"007"	{emote: Alarmed}
-"008"	{emote: Reset}
-"009"	{emote: Alarmed}
-"010"	{emote: Surprise}
-"011"	{emote: Glee}
-"012"	{emote: Inspired}
-"013"	{emote: Surprise}
-"014"	{emote: Love}
-"015"	{emote: Agreement}
-"016"	あぁ、コレ{pause 8}
-"017"	{emote: Alarmed}
-"018"	{emote: Alarmed}
-"019"	{emote: Soft Smile}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Reset}
-"023"	{emote: Reset}
-"024"	{emote: Sunny}
+"001"	{emote: Worry}えぇ～？{pause 20}	{ruby (charSpan 1): み}見せてくれないのぉ？
+"002"	{emote: Laughter}{Player nickname (green)}{0005-000d-0000}{pause 20}	おとしものを　おとしちゃったのぉ？{pause 40}{emote: Happiness}
+"003"	{emote: Worry}{ruby (charSpan 1): み}見せてくれなきゃ、	ボクのモノだか	わかんないよぉ
+"004"	{emote: Worry}ごめん～{pause 20}	コレ　ボクのじゃなさそうだぁ{Wait for input}{emote: Sunny}めいたんてい　{Player nickname (green)}{0005-000d-0000}！{pause 40}	もちぬしさがし	がんばってねぇ、{pause 8}{catchphrase}
+"005"	{emote: Thought}{pause 20}・{pause 20}・{pause 20}・{pause 40}{emote: Disagreement}ボクのじゃないみたい{Wait for input}	{emote: Happiness}ほかのコに　{ruby (charSpan 1): き}聞いてみてね、{pause 8}{catchphrase}
+"006"	{emote: Thought}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): み}見たことないやぁ～{Wait for input}{emote: Reset}がんばって　おとしぬしを{pause 20}	さがしてあげてねぇ、{pause 8}{catchphrase}
+"007"	{emote: Alarmed}{0007-000b-0000}あぁ～！{pause 20}	コレ　ボクのマンガだぁ！{Wait for input}{emote: Joy}『{ruby (charSpan 2): でんこう}電光{0005-000f-0002-0000}マン』　だい{Number (0x6)}かん！{Wait for input}	なつかしいなぁ～！　{pause 8}{catchphrase}！
+"008"	{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Alarmed}{0007-000b-0000}あ！{pause 40}	この{ruby (charSpan 1): ほん}本　ボクのだぁ！{Wait for input}{emote: Happiness}ほら～{pause 20}	ちゃんと　ウラに	サイン{ruby (charSpan 1): か}書いてあるよぉ{Wait for input}{emote: Cold Chill}{pause 20}そっかぁ～{pause 20}	ボクのかっこいいサイン、	{ruby (charSpan 1): よ}読めなかったんだねぇ
+"009"	{emote: Alarmed}{0007-000b-0000}あぁ～！{pause 20}	この{ruby (charSpan 1): ほん}本　ボクのだよぉ！{Wait for input}{emote: Glee}よかったぁ～	{ruby (charSpan 1): み}見つかって～！
+"010"	{emote: Surprise}{0007-000b-0000}あぁ～！{pause 20}	コレ　ボクのおやつポーチだぁ{Wait for input}{emote: Love}{ruby (charSpan 1): なか}中に　{0005-0010-0002-0000}が{pause 20}	ギュウギュウに　{ruby (charSpan 1): はい}入ってるんだぁ～{pause 40}	{ruby (charSpan 1): かえ}帰って{ruby (charSpan 1): た}食べよ～っと、{pause 8}{catchphrase}
+"011"	{emote: Glee}わぁ～！{pause 20}　なつかし～！{pause 40}	このポーチ　ひさしぶりに{ruby (charSpan 1): み}見たよぉ{Wait for input}{emote: Reset}ってことで、{pause 20}	コレ　ボクのだよぉ、{pause 8}{catchphrase}
+"012"	{emote: Inspired}{pause 20}{0007-000b-0000}ピンポーーン！{pause 40}	{ruby (charSpan 2): おおあ}大当たり～{pause 20}	これ　ボクのポーチだよぉ！{Wait for input}{emote: Reset}あ、{pause 20}{emote: Distress}わざとおとしたワケじゃ	ないからねぇ～！
+"013"	{emote: Surprise}{0007-000b-0000}あぁ～{pause 40}	これ　ボクの{ruby (charSpan 1): て}手ぶくろ！{Wait for input}{emote: Happiness}よかったぁ～！{pause 20}	ず～っと　ず～っと	さがしてたんだよぉ
+"014"	{emote: Love}このぬくもり{pause 8}・{pause 8}・{pause 8}・{pause 20}	なんだか　なつかしい～{Wait for input}{emote: Happiness}えへへ～{pause 20}	この{ruby (charSpan 1): て}手ぶくろ	ボクのっぽいやぁ～
+"015"	{emote: Agreement}クンクン{pause 20}　このニオイ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Alarmed}{0007-000b-0000}ボクの{ruby (charSpan 1): て}手ぶくろだぁ～！{Wait for input}{emote: Love}だって　この{ruby (charSpan 1): て}手ぶくろをして{ruby (charSpan 1): た}食べた{pause 20}	ヤキイモのニオイがするもん！
+"016"	あぁ、コレ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Happiness}{ruby (charSpan 1): あと}後で　とりに{ruby (charSpan 1): い}行こうと{ruby (charSpan 1): おも}思って	{ruby (charSpan 1): みち}道に　おいておいたんだぁ～{Wait for input}{emote: Laughter}まさか{pause 20}　{Player nickname (green)}{0005-000d-0000}が	はこんできてくれるとは　	{ruby (charSpan 1): おも}思わなかったよぉ、{pause 8}{catchphrase}{pause 40}{emote: Happiness}
+"017"	{emote: Alarmed}{0007-000b-0000}あぁ～{pause 20}	コレ　ボクのだぁ～{Wait for input}{emote: Happiness}よかったぁ～！{pause 20}	{Player nickname (green)}{0005-000d-0000}が	もっててくれたのかぁ、{pause 8}{catchphrase}
+"018"	{emote: Alarmed}{0007-000b-0000}あぁ～{pause 20}	コレ　ボクのだぁ～{pause 40}	{emote: Happiness}ず～っと　さがしてたんだよぉ{Wait for input}でも、{pause 20}なかみは　{ruby (charSpan 1): から}空っぽなんだけどね！{pause 40}	{emote: Daydreaming}これから　{ruby (charSpan 1): なに}何を{ruby (charSpan 1): い}入れるか　{ruby (charSpan 1): かんが}考えるんだぁ
+"019"	{emote: Soft Smile}コレは　ひろってくれた	おれいだよぉ{pause 20}	はい、{0011-0003-0002-0000}～
+"020"	{emote: Happiness}ひろってくれて　ありがとぉ～{pause 20}	{Player nickname (green)}{0005-000d-0000}！{Wait for input}この　{0011-0003-0002-0000}、	おれいに　もらってぇ{pause 8}	{catchphrase}
+"021"	{emote: Happiness}ありがとぉ、{Player nickname (green)}{0005-000d-0000}{pause 40}	この　{0011-0003-0002-0000}	うけとってぇ、{pause 8}{catchphrase}
+"022"	{emote: Reset}また　おとしものがあったら	よろしくねぇ～
+"023"	{emote: Reset}{Player nickname (green)}{0005-000d-0000}も{pause 20}	おとしものには	{ruby (charSpan 1): き}気をつけてねぇ～
+"024"	{emote: Sunny}キミって　たんていの	さいのうがあるよぉ！

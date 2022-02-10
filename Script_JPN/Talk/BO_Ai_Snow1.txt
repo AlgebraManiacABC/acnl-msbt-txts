@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Glee}
-"002"	{emote: Alarmed}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{Greeting begin}
-"006"	やぁ、{pause 20}
+"001"	{emote: Glee}{Greeting begin}やぁ～　{Player nickname (green)}{0005-000d-0000}{Greeting end}{pause 20}	{ruby (charSpan 1): ゆき}雪が　ふったねぇ～！{Wait for input}{emote: Daydreaming}{ruby (charSpan 1): なに}何してあそぶか、{pause 20}	かんがえる　だけで	{ruby (charSpan 2): いちにち}一日　おわっちゃいそうだよぉ、{pause 8}{catchphrase}
+"002"	{emote: Alarmed}{0007-000a-0000}あぁ～{pause 20}	{Player nickname (green)}{0005-000d-0000}だぁ～{Wait for input}{emote: Glee}{ruby (charSpan 1): ゆき}雪の{ruby (charSpan 1): ひ}日って　さむいけど、	ねてなんて　いられないよぉ！{Wait for input}{ruby (charSpan 2): いっぷん}一分でも　{ruby (charSpan 1): はや}早く	あそびたいもんねぇ、{pause 8}{catchphrase}
+"003"	{emote: Happiness}やっほぉ～{pause 20}	{Player nickname (green)}{0005-000d-0000}～{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は{pause 8}　{ruby (charSpan 1): ゆき}雪の{pause 8}{ruby (charSpan 1): だい}大サ～ビス・デ～{pause 40}	たくさん　あそばなきゃ	そんしちゃうよぉ、{pause 8}{catchphrase}
+"004"	{emote: Happiness}{Greeting begin}やっほぉ～{Greeting end}{pause 20}	{ruby (charSpan 1): ゆき}雪って　フワフワしてて　	おいしそう　だよねぇ、{pause 8}{catchphrase}
+"005"	{Greeting begin}やぁ～{Greeting end}{pause 20}	{emote: Worry}この{ruby (charSpan 1): ゆき}雪　{ruby (charSpan 2): あした}明日もきっとあるよねぇ？{pause 20}	しんぱいで　ねむれないよぉ、{pause 8}{catchphrase}
+"006"	やぁ、{pause 20}{Player nickname (green)}{0005-000d-0000}～{pause 40}	{emote: Glee}{ruby (charSpan 1): ゆき}雪の{ruby (charSpan 1): ひ}日の{ruby (charSpan 1): よる}夜って{pause 20}　{ruby (charSpan 1): あか}明るくって	お{ruby (charSpan 1): ひる}昼みたいだねぇ、{pause 8}{catchphrase}

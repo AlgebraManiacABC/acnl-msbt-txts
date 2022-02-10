@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{0009-0001-0006-08-00-09-00-0b-00}
-"002"	{emote: Surprise}
-"003"	{emote: Surprise}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Alarmed}
-"007"	{emote: Alarmed}
-"008"	{emote: Curious}
-"009"	{emote: Alarmed}
-"010"	{emote: Thought}
-"011"	{000a-001a-0004-0c-00-00-00}	
-"012"	{emote: Curious}
+"001"	{0009-0001-0006-0008-0009-000b}
+"002"	{emote: Surprise}あら！{pause 15}	どこへ{ruby (charSpan 1): い}行ってらしたんですか{Wait for input}{emote: Distress}もう　{pause 10}お{ruby (charSpan 1): あ}会いできないのかと{pause 3}	{ruby (charSpan 2): しんぱい}心配してました{Wait for input}とにかく　 こうして{pause 10}	また　お{ruby (charSpan 1): はな}話しできて{pause 8}　{ruby (charSpan 1): よ}良かったです！{Wait for input}{emote: Reset}とはいえ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Soft Smile}それぞれの{ruby (charSpan 1): く}暮らし{ruby (charSpan 1): かた}方がありますから{pause 15}	マイペースに　{pause 5}{ruby (charSpan 1): たの}楽しんでくださいね！
+"003"	{emote: Surprise}まぁ！{pause 20}　お{ruby (charSpan 1): ひさ}久しぶりです{Wait for input}{emote: Thought}{ruby (charSpan 2): なんにち}何日ぶりなのかしら{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Soft Smile}ご{ruby (charSpan 2): りょこう}旅行にでも　{pause 8}{ruby (charSpan 1): い}行かれてたんですね{Wait for input}{emote: Happiness}わたし　{pause 10}お{ruby (charSpan 1): はな}話ししたいこと{pause 8}	いっぱい　あったんです{Wait for input}また　{pause 10}たくさん	おしゃべりしましょうね、{pause 15}{catchphrase}
+"004"	{emote: Alarmed}{Player nickname (green)}さん！{Wait for input}	ずっと　{pause 10}お{ruby (charSpan 1): あ}会いしてませんでしたよね！{Wait for input}{emote: Curious}もしかして{pause 10}	とても　お{ruby (charSpan 1): いそが}忙しかったとか？{Wait for input}	{emote: Distress}あまり　{pause 10}{ruby (charSpan 2): むり}無理しちゃダメですよ
+"005"	{emote: Alarmed}まぁ！　{pause 15}{Player nickname (green)}さん{pause 20}	どこに　{pause 3}いらっしゃったんですか？！{Wait for input}	{emote: Distress}ずっと　{pause 5}お{ruby (charSpan 1): はな}話ししたかったんですよ	{emote: Sheepishness}とうめい{ruby (charSpan 2): にんげん}人間になってしまって{pause 15}	{emote: Sorrow}わたしにだけ{pause 10}	{ruby (charSpan 1): み}見えなくなったのかと{ruby (charSpan 1): おも}思いました{pause 30}{emote: Reset}
+"006"	{emote: Alarmed}あら！　{pause 15}{Player nickname (green)}さんじゃないですか{Wait for input}	{emote: Happiness}お{ruby (charSpan 2): げんき}元気そうでよかったです{Wait for input}{emote: Sheepishness}あまりに　お{ruby (charSpan 1): あ}会いできなかったので{pause 10}	わたし　{pause 10}{ruby (charSpan 1): きら}嫌われちゃったのかと{ruby (charSpan 1): おも}思いました{Wait for input}{emote: Soft Smile}とにかく{pause 10}	これからも　{ruby (charSpan 2): なかよ}仲良くしてくださいね！
+"007"	{emote: Alarmed}あらまぁ！　{pause 15}{Player nickname (green)}さん{Wait for input}{emote: Sadness}{ruby (charSpan 2): ぜんぜん}全然　お{ruby (charSpan 1): あ}会いできなくて{pause 10}	さみしかったんですよ{Wait for input}{emote: Surprise}なんだか{ruby (charSpan 1): し}知らないうちに{pause 10}	ちょっぴり　{pause 8}{ruby (charSpan 2): おとな}大人っぽく	なられたような{pause 8}・{pause 8}・{pause 8}・{pause 8}{catchphrase}	{emote: Soft Smile}とにかく{pause 8}	これからも　{pause 10}よろしくお{ruby (charSpan 1): ねが}願いしますね！
+"008"	{emote: Curious}{pause 5}・{pause 5}・{pause 5}・{pause 5}{Player nickname (green)}さん？{Wait for input}・{pause 8}・{pause 8}・{pause 8}{emote: Inspired}やっぱり{pause 10}	{Player nickname (green)}さんじゃないですか！{Wait for input}どこに　{ruby (charSpan 1): い}行ってらしたんですか？{Wait for input}	{emote: Distress}{ruby (charSpan 1): きゅう}急に　いなくなってしまって{pause 10}	さみしかったんですよ！{Wait for input}{emote: Agreement}やっぱり　{pause 10}{Town name (pink)}{ruby (charSpan 1): むら}村には{pause 8}	あなたがいなくっちゃ！{Wait for input}	{emote: Happiness}{ruby (charSpan 1): はや}早く　{pause 8}また{ruby (charSpan 2): いっしょ}一緒に　{ruby (charSpan 1): あそ}遊びましょうね
+"009"	{emote: Alarmed}あぁぁぁ！！{pause 20}	{Player nickname (green)}さん！！{Wait for input}{emote: Sorrow}わたし{ruby (charSpan 1): たち}達を{ruby (charSpan 1): お}置いて{pause 10}	どこへ　{ruby (charSpan 1): い}行ってたんですか？！{Wait for input}{emote: Worry}あなたは　{pause 10}{Town name (pink)}の{pause 5}	シンボルなんですから{Wait for input}	{emote: Happiness}また　{pause 8}いっぱい{ruby (charSpan 1): あそ}遊びましょうね！
+"010"	{emote: Thought}わたし{pause 10}	{ruby (charSpan 1): め}目がおかしくなったのかしら{pause 8}・{pause 8}・{pause 8}・{pause 8}？{Wait for input}	{emote: Worry}{Player nickname (green)}さんが{ruby (charSpan 1): み}見えます{emote: Reset}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あ～！{pause 30}	{Player nickname (green)}さんじゃないですか！{Wait for input}{emote: Happiness}{ruby (charSpan 1): あ}会いたいあまり{pause 10}	まぼろしが{ruby (charSpan 1): み}見えたのかと　{pause 5}{ruby (charSpan 1): おも}思いましたよ！{Wait for input}{emote: Glee}どこに{ruby (charSpan 1): い}行ってたんですか{Wait for input}	みんな　{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 1): あそ}遊びたくて{pause 10}	うずうずしてますよ！
+"011"	{000a-001a-0004-000c-000a}
+"012"	{emote: Curious}あら{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 20}	{Player nickname (green)}さん？！{Wait for input}	{emote: Glee}{Player nickname (green)}さんじゃないですか！{Wait for input}{emote: Happiness}{ruby (charSpan 1): きゅう}急に　{pause 8}{ruby (charSpan 2): そんちょう}村長さんが	いなくなってしまって{pause 10}	みんな　{pause 10}さみしかったんですよ！{Wait for input}{emote: Glee}やっぱり　あなたは{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村のムードメーカーです！{Wait for input}{emote: Happiness}さぁ、{pause 10}{ruby (charSpan 1): ほか}他の　みなさんにも{pause 10}	{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): こえ}声を　かけてあげてください！

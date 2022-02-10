@@ -1,46 +1,46 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Shocked}
-"004"	{emote: Inspired}
-"005"	{emote: Delight}
-"006"	{pause 8}
-"007"	{emote: Happiness}
-"008"	{0009-0000-0004-09-00-00-00}	
-"009"	{emote: Anger}
-"010"	{emote: Anger}
-"011"	{0009-0001-0006-0f-00-0f-00-03-00}
-"012"	{0009-0001-0006-10-00-10-00-03-00}
-"013"	{0009-0001-0006-11-00-11-00-03-00}
-"014"	{emote: Mistaken}
-"015"	{emote: Mistaken}
-"016"	{emote: Mistaken}
-"017"	{emote: Mistaken}
-"018"	{0009-0001-0006-03-00-15-00-15-00}
-"019"	{0009-0001-0006-03-00-16-00-16-00}
-"020"	{0009-0001-0006-03-00-17-00-17-00}
-"021"	{emote: Disagreement}
-"022"	{emote: Disagreement}
-"023"	{emote: Disagreement}
-"024"	{emote: Disagreement}
-"025"	{emote: Mistaken}
-"026"	{emote: Worry}
-"027"	{emote: Mistaken}
-"028"	{emote: Mistaken}
-"029"	{emote: Mistaken}
-"030"	{emote: Mistaken}
-"031"	{emote: Mistaken}
-"032"	{emote: Mistaken}
-"033"	{emote: Mistaken}
-"034"	{emote: Mistaken}
-"035"	{emote: Mistaken}
-"036"	{emote: Mistaken}
-"037"	{emote: Mistaken}
-"038"	{emote: Mistaken}
-"039"	{emote: Mistaken}
-"040"	{emote: Mistaken}
-"041"	
-"042"	{emote: Delight}
-"043"	{emote: Sunny}
-"044"	{emote: Happiness}
-"045"	{emote: Happiness}
+"001"	{emote: Happiness}있지이～!{pause 20} 너가 가진 	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 걸고{pause 20}	「과일 맞히기 게임」 안 할래～?{Wait for input}내가 지금 {pause 8}먹고 싶은 과일을	힌트만 듣고 추리해서{pause 20}	맞히는 거야아～{Wait for input}{emote: Greetings}힌트는 모두 3개!{Wait for input}{emote: Glee}빨리 맞히면 맞힐수록{pause 20}	너의 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	비싼 가격에 사 갈게에～!{Wait for input}{0007-000d-0000}{emote: Glare}어때～?{pause 20}	너의 추리력을	시험해보지 않을래～?{Player can respond (0005):0007-0015-0002-0028}	할래!	다음에 하자
+"002"	{emote: Worry}히잉～{pause 8}・{pause 8}・{pause 8}・{pause 20}	그럼 다음에 놀자아, {pause 8}{catchphrase}
+"003"	{emote: Shocked}{0007-000b-0000}우와아～!{pause 20}	맞아! 난 지금 그게 먹고 싶어～{pause 40}	설마 한 번에 맞힐 줄은 몰랐네에～{Wait for input}{emote: Thought}넌 {pause 20}내 마음을	읽을 수 있나 보구나아?{Wait for input}{emote: Thought}그렇다면 이건 어때?{pause 40}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}지금 무슨 생각을 했는지 알겠어～?{Wait for input}{emote: Love}우후훗{pause 8}・{pause 8}・{pause 8}・{pause 20}	대단하다～ 축하해!{pause 20}라는	생각을 하고 있었어～{Wait for input}{emote: Happiness}자! {pause 20}그럼 약속대로{pause 20}	꽤 비싼 가격인	{Blue}{Number (0x9)}벨{Color Reset}에 살게에～
+"004"	{emote: Inspired}{0007-000a-0000}정답～!{pause 40}	{emote: Glee}그래～	그게 먹고 싶었어～!{Wait for input}{emote: Happiness}두 번만에 이걸 맞히다니{pause 20}	내 생각을	다 읽고 있구나아?{Wait for input}{emote: Bashful}우와앙～!{pause 20}	부끄러워어, {pause 8}{catchphrase}{Wait for input}{emote: Happiness}그럼 약속대로{pause 20} 살짝 비싼	{Blue}{Number (0x9)}벨{Color Reset}에 사 갈게에～!
+"005"	{emote: Delight}정답～!{pause 20}	그게 먹고 싶었어～{Wait for input}{emote: Sheepishness}그치만 2개 중에서	고른 거잖아～{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}좋아! {pause 20}살짝 저렴하게	{Blue}{Number (0x9)}벨{Color Reset}에 사 간다아～!
+"006"	{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}미안{pause 20}	내가 먹고 싶었던 건	나머지 하나였어～{Wait for input}{emote: Happiness}이번엔 결과가 좀 안 좋았네～{Wait for input}많이 싸긴 하지만{pause 20}	{Blue}{Number (0x9)}벨{Color Reset}에 사 간다아～
+"007"	{emote: Happiness}앗싸아～!{pause 20}	그럼 바로 시작한다아?{Wait for input}{emote: Reset}내 눈을 잘～ 보고	내가 뭘 먹고 싶은지 읽어봐아～
+"008"	{0009-0000-0004-0009-000a}
+"009"	{emote: Anger}그럼 첫 번째 힌트!{Wait for input}{emote: Happiness}과일의 색깔을{pause 20}	굳이 말하자면{pause 8}	{Blue}빨갛지 않아{Color Reset}～!{Wait for input}이것만으론 감이 잘 안 올지도 모르지만{pause 20}	내가 먹고 싶은 건 뭘까～?{0008-0002-0010-000e-0000-000b-0000-000c-0000-000d-0000}	사과	바나나	오렌지	배
+"010"	{emote: Anger}그럼 첫 번째 힌트!{Wait for input}{emote: Happiness}과일의 색깔을{pause 8}	굳이 말하자면{pause 8}	{Blue}붉은 {Color Reset}편이야아～!{Wait for input}이것만으론 감이 잘 안 올지도 모르지만{pause 20}	내가 먹고 싶은 건 뭘까～?{0008-0002-0010-0012-0000-0013-0000-0014-0000-0018-0000}	체리	복숭아	딸기	포도
+"011"	{0009-0001-0006-000f-000f-0003}
+"012"	{0009-0001-0006-0010-0010-0003}
+"013"	{0009-0001-0006-0011-0011-0003}
+"014"	{emote: Mistaken}아냐아～!{pause 20}	내가 먹고 싶은 건	따로 있다구우～{Wait for input}{emote: Anger}그럼 두 번째 힌트!{Wait for input}{emote: Happiness}과일의 모양이{pause 20}	어떠냐면{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}동그란 {Color Reset}편이야아～{Wait for input}자아～{pause 20}	{emote: Curious}내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0001):001a-0000-0004-0000-0019-0000}	바나나	오렌지	배
+"015"	{emote: Mistaken}아냐아～!{pause 20}	내가 먹고 싶은 건	따로 있다구우～{Wait for input}{emote: Anger}그럼 두 번째 힌트!{Wait for input}{emote: Happiness}과일의 모양이{pause 20}	어떠냐면{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}동그란 {Color Reset}편이야아～{Wait for input}자아～{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0001):001c-0000-001b-0000-0004-0000}	사과	오렌지	배
+"016"	{emote: Mistaken}아냐아～!{pause 20}	내가 먹고 싶은 건	따로 있다구우～{Wait for input}{emote: Anger}그럼 두 번째 힌트!{Wait for input}{emote: Happiness}과일의 모양이{pause 20}	어떠냐면{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}길쭉{Color Reset}하달까～?{Wait for input}자아～{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0001):001e-0000-0004-0000-001d-0000}	사과	바나나	배
+"017"	{emote: Mistaken}아냐아～!{pause 20}	내가 먹고 싶은 건	따로 있다구우～{Wait for input}{emote: Anger}그럼 두 번째 힌트!{Wait for input}{emote: Happiness}과일의 모양이{pause 20}	어떠냐면{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}동그란 {Color Reset}편이야아!{Wait for input}자아～{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0001):0020-0000-001f-0000-0004-0000}	사과	바나나	오렌지
+"018"	{0009-0001-0006-0003-0015-0015}
+"019"	{0009-0001-0006-0003-0016-0016}
+"020"	{0009-0001-0006-0003-0017-0017}
+"021"	{emote: Disagreement}땡～!{pause 20}	내가 먹고 싶은 건	그게 아냐아～!{Wait for input}{emote: Anger}좋았어～ 두 번째 힌트 나간다아!{Wait for input}{emote: Happiness}과일의 모양을{pause 20}	굳이 말하자면{pause 8}	{Blue}동그란 {Color Reset}편이야아～{Wait for input}자아～{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0001):0004-0000-0022-0000-0021-0000}	복숭아	딸기	포도
+"022"	{emote: Disagreement}땡～!{pause 20}	내가 먹고 싶은 건	그게 아냐아～!{Wait for input}{emote: Anger}좋았어～ 두 번째 힌트 나간다아!{Wait for input}{emote: Happiness}과일의 크기는{pause 20}	어느 정도냐면{pause 8}	{Blue}한 입 사이즈{Color Reset}～?{Wait for input}자아～{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0001):0024-0000-0004-0000-0023-0000}	체리	딸기	포도
+"023"	{emote: Disagreement}땡～!{pause 20}	내가 먹고 싶은 건	그게 아냐아～!{Wait for input}{emote: Anger}좋았어～ 두 번째 힌트 나간다아!{Wait for input}{emote: Happiness}과일의 크기는{pause 20}	어느 정도냐면{pause 8}	{Blue}한 입 사이즈{Color Reset}～?{Wait for input}자아～{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0001):0004-0000-0026-0000-0025-0000}	체리	복숭아	포도
+"024"	{emote: Disagreement}땡～!{pause 20}	내가 먹고 싶은 건	그게 아냐아～!{Wait for input}{emote: Anger}좋았어～ 두 번째 힌트 나간다아!{Wait for input}{emote: Happiness}과일의 모양이{pause 20}	어떠냐면{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}동그란{Color Reset} 편이야아～{Wait for input}자아～{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0001):0028-0000-0004-0000-0027-0000}	체리	복숭아	딸기
+"025"	{emote: Mistaken}틀렸어～!{pause 20}	그게 아니라구우{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}마지막 세 번째 힌트야아!{Wait for input}{emote: Happiness}이 과일의 맛은{pause 20}	{Blue}살짝 새콤{Color Reset}해～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0006-0000-0005-0000}	바나나	오렌지
+"026"	{emote: Worry}틀렸어～!{pause 20}	그게 아니라구우{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}마지막 세 번째 힌트야아!{Wait for input}{emote: Happiness}이 과일의 맛은{pause 20}	{Blue}살짝 새콤{Color Reset}해～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0006-0000-0005-0000}	배	오렌지
+"027"	{emote: Mistaken}틀렸어～!{pause 20}	그게 아니라구우{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}마지막 세 번째 힌트야아!{Wait for input}{emote: Happiness}이 과일의 껍데기는{pause 20}	{Blue}살짝 노란색{Color Reset}을 띠고 있어～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0005-0000-0006-0000}	배	사과
+"028"	{emote: Mistaken}틀렸어～!{pause 20}	그게 아니라구우{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}마지막 세 번째 힌트야아!{Wait for input}{emote: Happiness}이 과일의 껍데기는{pause 20}	{Blue}살짝 노란색{Color Reset}을 띠고 있어～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0006-0000-0005-0000}	오렌지	배
+"029"	{emote: Mistaken}틀렸어～!{pause 20}	그게 아니라구우{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}마지막 세 번째 힌트야아!{Wait for input}{emote: Happiness}이 과일은{pause 20} {Blue}끈적하면서 	달콤{Color Reset}한 맛이 나～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0006-0000-0005-0000}	사과	바나나
+"030"	{emote: Mistaken}틀렸어～!{pause 20}	그게 아니라구우{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}마지막 세 번째 힌트야아!{Wait for input}{emote: Happiness}이 과일은{pause 20} {Blue}끈적하면서 	달콤{Color Reset}한 맛이 나～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0005-0000-0006-0000}	바나나	배
+"031"	{emote: Mistaken}틀렸어～!{pause 20}	그게 아니라구우{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}마지막 세 번째 힌트야아!{Wait for input}{emote: Happiness}이 과일의 맛은{pause 20}	{Blue}살짝 신맛{Color Reset}이 나～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0006-0000-0005-0000}	사과	오렌지
+"032"	{emote: Mistaken}틀렸어～!{pause 20}	그게 아니라구우{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}마지막 세 번째 힌트야아!{Wait for input}{emote: Happiness}이 과일의 맛은{pause 20}	{Blue}살짝 새콤{Color Reset}해～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0006-0000-0005-0000}	바나나	오렌지
+"033"	{emote: Mistaken}안타깝지만 {pause 20}틀렸어～!{pause 40}	근데 그것도 맛있긴 해～{Wait for input}{emote: Anger}마지막 기회야아～{pause 20}	세 번째 힌트!{Wait for input}{emote: Happiness}이 과일은{pause 20}	{Blue}가운데에 커다란 씨가 있어{Color Reset}～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0005-0000-0006-0000}	복숭아	딸기
+"034"	{emote: Mistaken}안타깝지만 {pause 20}틀렸어～!{pause 40}	근데 그것도 맛있긴 해～{Wait for input}{emote: Anger}마지막 기회야아～{pause 20}	세 번째 힌트!{Wait for input}{emote: Happiness}이 과일은{pause 20}	{Blue}가운데에 커다란 씨가 있어{Color Reset}～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0005-0000-0006-0000}	복숭아	포도
+"035"	{emote: Mistaken}안타깝지만 {pause 20}틀렸어～!{pause 40}	근데 그것도 맛있긴 해～{Wait for input}{emote: Anger}마지막 기회야아～{pause 20}	세 번째 힌트!{Wait for input}{emote: Happiness}이 과일은{pause 20}	{Blue}나무에선 열리지 않아{Color Reset}～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0006-0000-0005-0000}	체리	딸기
+"036"	{emote: Mistaken}안타깝지만 {pause 20}틀렸어～!{pause 40}	근데 그것도 맛있긴 해～{Wait for input}{emote: Anger}마지막 기회야아～{pause 20}	세 번째 힌트!{Wait for input}{emote: Happiness}이 과일은{pause 20}	{Blue}나무에선 열리지 않아{Color Reset}～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0005-0000-0006-0000}	딸기	포도
+"037"	{emote: Mistaken}안타깝지만 {pause 20}틀렸어～!{pause 40}	근데 그것도 맛있긴 해～{Wait for input}{emote: Anger}마지막 기회야아～{pause 20}	세 번째 힌트!{Wait for input}{emote: Happiness}이 과일은{pause 20}	{Blue}쌍둥이 {Color Reset}형제가 있어～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0005-0000-0006-0000}	체리	복숭아
+"038"	{emote: Mistaken}안타깝지만 {pause 20}틀렸어～!{pause 40}	근데 그것도 맛있긴 해～{Wait for input}{emote: Anger}마지막 기회야아～{pause 20}	세 번째 힌트!{Wait for input}{emote: Happiness}이 과일은{pause 20}	{Blue}쌍둥이 {Color Reset}형제가 있어～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0005-0000-0006-0000}	체리	포도
+"039"	{emote: Mistaken}안타깝지만 {pause 20}틀렸어～!{pause 40}	근데 그것도 맛있긴 해～{Wait for input}{emote: Anger}마지막 기회야아～{pause 20}	세 번째 힌트!{Wait for input}{emote: Happiness}이 과일은{pause 20}	{Blue}가운데에 커다란 씨가 있어{Color Reset}～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까～?{Player can respond (0000):0006-0000-0005-0000}	체리	복숭아
+"040"	{emote: Mistaken}안타깝지만 {pause 20}틀렸어～!{pause 40}	근데 그것도 맛있긴 해～{Wait for input}{emote: Anger}마지막 기회야아～{pause 20}	세 번째 힌트!{Wait for input}{emote: Happiness}이 과일은{pause 20}	{Blue}가운데에 커다란 씨가 있어{Color Reset}～{Wait for input}이제 알겠지?{pause 20}	내가 먹고 싶은 건	과연 뭘까아～?{Player can respond (0000):0005-0000-0006-0000}	복숭아	딸기
+"041"
+"042"	{emote: Delight}너 진짜 대단하다아～{pause 20}	오늘부터 널 존경할래～!
+"043"	{emote: Sunny}즐거웠어～{pause 20}	다음에 또 놀자아～
+"044"	{emote: Happiness}정말 아쉽게 됐어～{pause 20}	다음엔 더 열심히 해봐아! {pause 8}{catchphrase}!
+"045"	{emote: Happiness}에헤헤～{pause 20}	실망하지 마～ {pause 8}{catchphrase}

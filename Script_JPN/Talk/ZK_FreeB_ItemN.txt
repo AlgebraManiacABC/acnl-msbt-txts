@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Soft Smile}
-"004"	{emote: Soft Smile}
-"005"	{emote: Glare}
+"001"	{emote: Alarmed}えっ、{pause 8}このスコップ？{pause 32}	{emote: Reset}ちょっと　{ruby (charSpan 1): つち}土いじりをね{pause 4}・{pause 4}・{pause 4}・{pause 4}{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): つち}土を　どうにかするのは{pause 16}	ガーデニングの　{ruby (charSpan 2): きほん}基本だからね、	{pause 8}{catchphrase}
+"002"	{emote: Alarmed}えっ、{pause 8}このあみ？{pause 32}	{emote: Soft Smile}{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): み}身は　{ruby (charSpan 2): じぶん}自分で	{ruby (charSpan 1): まも}守らなくっちゃね、{pause 8}{catchphrase}	{emote: Sheepishness}フフフ{pause 8}・{pause 8}・{pause 8}・{pause 8}キミのことも{pause 32}	{emote: Glare}{ruby (charSpan 1): まも}守ってあげようか？{pause 8}	{Player nickname (green)}{0005-000d-0000}？
+"003"	{emote: Soft Smile}{ruby (charSpan 1): つ}釣りは　サカナとの{ruby (charSpan 2): しょうぶ}勝負であり、{pause 16}	{ruby (charSpan 2): しぜん}自然や　{ruby (charSpan 2): じぶん}自分と{ruby (charSpan 1): む}向き{ruby (charSpan 1): あ}合う{pause 16}	いい{ruby (charSpan 2): きかい}機会でも　あるよね？	{emote: Alarmed}そういえば、{pause 32}{emote: Reset}{ruby (charSpan 2): じんせい}人生を{ruby (charSpan 1): たの}楽しみたいなら{pause 16}	{ruby (charSpan 1): つ}釣りを　{ruby (charSpan 1): おぼ}覚えろって{pause 32}	{ruby (charSpan 1): だれ}誰かが{ruby (charSpan 1): い}言ってたなぁ、{pause 8}{catchphrase}
+"004"	{emote: Soft Smile}{ruby (charSpan 1): はな}花を{ruby (charSpan 1): そだ}育てるのは　いいもんだよ{pause 32}	{ruby (charSpan 1): いろ}色んなことが　わかってくる{pause 32}	{ruby (charSpan 1): たの}楽しいこととか、{pause 32}{emote: Glare}ツライこともね
+"005"	{emote: Glare}このかさは　{ruby (charSpan 2): きやす}気休めさ！{pause 32}	{emote: Sheepishness}かさを　さしても{pause 16}	ぬれるからね、{pause 8}{catchphrase}

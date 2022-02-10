@@ -1,20 +1,20 @@
 == 0 ==
-"001"	コーヒーを{ruby (charSpan 2): いっぱい}一杯、{pause 10}
-"002"	コーヒーを{ruby (charSpan 2): いっぱい}一杯、{pause 10}
-"003"	コーヒーを{ruby (charSpan 2): いっぱい}一杯、{pause 10}
-"004"	コーヒーを{ruby (charSpan 2): いっぱい}一杯、{pause 10}
-"005"	フフン、{pause 10}
-"006"	{pause 5}
-"007"	{emote: Thought}
-"008"		{emote: Shocked}
-"009"		{emote: Shocked}
-"010"	
-"011"	
-"012"	
-"013"	{emote: Sigh}
-"014"	{emote: Sigh}
-"015"	{emote: Sigh}
-"016"		{emote: Shocked}
-"017"	
-"018"	
-"019"	
+"001"	コーヒーを{ruby (charSpan 2): いっぱい}一杯、{pause 10}テイクアウトでね
+"002"	コーヒーを{ruby (charSpan 2): いっぱい}一杯、{pause 10}テイクアウトでね{Wait for input}	{ruby (charSpan 1): まめ}豆は　{Blue}ブレンド{Color Reset}でお{ruby (charSpan 1): ねが}願い
+"003"	コーヒーを{ruby (charSpan 2): いっぱい}一杯、{pause 10}テイクアウトでね{Wait for input}	ミルクは　{Blue}{ruby (charSpan 1): い}入れない{Color Reset}で
+"004"	コーヒーを{ruby (charSpan 2): いっぱい}一杯、{pause 10}テイクアウトでね{Wait for input}	お{ruby (charSpan 2): さとう}砂糖は　{Blue}いらない{Color Reset}わ
+"005"	フフン、{pause 10}どうも{Wait for input}	さっそく　いただくわ
+"006"	{pause 5}{emote: Alarmed}{pause 15}あら！{pause 15}　おいしい{pause 5}・{pause 5}・{pause 5}・{Wait for input}	{0007-000e-0000}{emote: Soft Smile}やるじゃない、{pause 15}アナタ！{pause 15}	また　{ruby (charSpan 1): よ}寄らせていただくわ
+"007"	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 15}	いつもと　{ruby (charSpan 1): あじ}味が{ruby (charSpan 1): ちが}違うわね{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}やっぱり　ミー{ruby (charSpan 1): てき}的には	ここのコーヒーは　{Blue}ブレンド{Color Reset}がベストだわ{Wait for input}	{ruby (charSpan 1): つぎ}次からは　{ruby (charSpan 1): おぼ}覚えておいてちょうだい！
+"008"		{emote: Shocked}{pause 15}{Text size 150%}うげっ！{Text size 100%}{Wait for input}{emote: Anger}これ、{pause 10}{Blue}ミルク{Color Reset}が　{ruby (charSpan 1): はい}入ってるじゃない{pause 8}・{pause 8}・{pause 8}・{Wait for input}	ミーは　ブラックしか{ruby (charSpan 1): の}飲まないの！{pause 15}	そこんとこ　{ruby (charSpan 1): おぼ}覚えておいてちょうだい！
+"009"		{emote: Shocked}{pause 15}{Text size 150%}あまっ！{Text size 100%}{Wait for input}{emote: Anger}これ、{pause 10}{Blue}お{ruby (charSpan 2): さとう}砂糖{Color Reset}が　{ruby (charSpan 1): はい}入ってるじゃない{pause 8}・{pause 8}・{pause 8}・{Wait for input}	ミーは　ブラックしか{ruby (charSpan 1): の}飲まないの！{pause 15}	そこんとこ　{ruby (charSpan 1): おぼ}覚えておいてちょうだい！
+"010"
+"011"
+"012"
+"013"	{emote: Sigh}{pause 10}どうやら、{pause 10}{ruby (charSpan 1): こま}細かくオーダーしなかった	ミーの　ミステイクね{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}{Blue}ブレンド{Color Reset}だったら　{ruby (charSpan 1): あと}後は{ruby (charSpan 1): なん}何でもいいって	ワケじゃないんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Resigned}まぁ、{pause 10}もういいわ{Wait for input}　それじゃ
+"014"	{emote: Sigh}{pause 10}どうやら、{pause 10}{ruby (charSpan 1): こま}細かくオーダーしなかった	ミーの　ミステイクね{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}{Blue}ミルク{Color Reset}が　{ruby (charSpan 1): はい}入ってなかったのは、{pause 10}	{ruby (charSpan 3): ふこうちゅう}不幸中の　{ruby (charSpan 1): さいわ}幸いだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Resigned}まぁ、{pause 10}もういいわ{Wait for input}　それじゃ
+"015"	{emote: Sigh}{pause 10}どうやら、{pause 10}{ruby (charSpan 1): こま}細かくオーダーしなかった	ミーの　ミステイクね{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}{ruby (charSpan 1): さいわ}幸い、{pause 10}{Blue}お{ruby (charSpan 2): さとう}砂糖{Color Reset}は　{ruby (charSpan 1): はい}入ってないようだから、{pause 10}	とりあえず　このまま	いただいて　{ruby (charSpan 1): かえ}帰るわ{pause 8}・{pause 8}・{pause 8}・
+"016"		{emote: Shocked}{pause 15}{Text size 150%}まずっ！{Text size 100%}{Wait for input}{emote: Resigned}{ruby (charSpan 1): わる}悪いけど、{pause 10}ミーの{ruby (charSpan 1): この}好みとは	{ruby (charSpan 2): ぜんぜん}全然　{ruby (charSpan 1): ちが}違う{ruby (charSpan 1): あじ}味だわ{Wait for input}{emote: Anger}バイトといえども{pause 8}	{ruby (charSpan 2): せっきゃく}接客している　この{ruby (charSpan 2): じかん}時間、{pause 15}	{emote: Agreement}アナタは　プロとして{ruby (charSpan 1): はたら}働いてるのよ！	{emote: Anger}プロなんだったら、{pause 10}	お{ruby (charSpan 1): きゃく}客の{ruby (charSpan 2): ようす}様子から　{ruby (charSpan 1): この}好みを{ruby (charSpan 1): あ}当てられるように	{ruby (charSpan 2): どりょく}努力なさい！{Wait for input}　{emote: Reset}それじゃ
+"017"
+"018"
+"019"

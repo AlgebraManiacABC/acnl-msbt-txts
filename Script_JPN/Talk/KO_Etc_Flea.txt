@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Happiness}
-"003"	{emote: Alarmed}
+"001"	{emote: Alarmed}おっ？！{pause 20}	そんなところに　ノミが　いやがったのか！{Wait for input}{emote: Worry}どうりで　カユイと{ruby (charSpan 1): おも}思ったぜ{Wait for input}	{emote: Happiness}ありがとよ、{pause 20}{catchphrase}！
+"002"	{emote: Happiness}おーっ！{pause 20}	でかしたぞ、{Player nickname (green)}！{Wait for input}{emote: Resigned}ピョンピョンはねて{pause 8}	{ruby (charSpan 1): め}目{ruby (charSpan 1): ざわ}障りだったんだよな！{Wait for input}	{emote: Happiness}{ruby (charSpan 1): たす}助かったぜ、{pause 20}{catchphrase}！
+"003"	{emote: Alarmed}ん？！{pause 30}	{emote: Reset}なんか　カユイと{ruby (charSpan 1): おも}思ったら{pause 8}	{emote: Worry}ノミがついて　いやがったのか！{Wait for input}{emote: Happiness}サンキュー、{Player nickname (green)}！{Wait for input}	オメェに　ノミがついたときは{pause 8}	オレが{ruby (charSpan 1): と}取ってやるからな！

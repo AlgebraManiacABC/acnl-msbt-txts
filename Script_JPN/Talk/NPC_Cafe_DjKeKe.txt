@@ -1,33 +1,33 @@
 == 0 ==
-"001"	{pause 8}
-"002"	やぁ、{pause 20}
-"003"	やぁ、{pause 20}
-"004"	コーヒー{ruby (charSpan 1): まめ}豆のこだわり？{Wait for input}
-"005"	ミルクの{ruby (charSpan 1): りょう}量？{Wait for input}
-"006"	{ruby (charSpan 2): さとう}砂糖の{ruby (charSpan 1): りょう}量？{Wait for input}
-"007"	
-"008"	{0009-0001-0006-0c-00-0d-00-0e-00}
-"009"	{000a-0009-000e-10-00-10-00-10-00-10-00-10-00-11-00-10-00}
-"010"	{0009-0001-0006-08-00-08-00-17-00}
-"011"	
-"012"	きみが　{ruby (charSpan 1): せき}席に{ruby (charSpan 1): つ}着いたら	{ruby (charSpan 2): えんそう}演奏を　{ruby (charSpan 1): はじ}始めるよ？{pause 40}
-"013"	あっ{pause 8}
+"001"	{pause 8}・{pause 8}・{pause 8}・{pause 20}やぁ{pause 20}	こんばんは
+"002"	やぁ、{pause 20}また{ruby (charSpan 1): あ}会ったね{pause 40}	きみも　{Orange}マスター{Color Reset}のコーヒーの	ファンなのかい？
+"003"	やぁ、{pause 20}よく{ruby (charSpan 1): あ}会うね{pause 40}	ゆっくりコーヒーを{ruby (charSpan 1): たの}楽しもう
+"004"	コーヒー{ruby (charSpan 1): まめ}豆のこだわり？{Wait for input}	うーん{pause 8}・{pause 8}・{pause 8}・{pause 40}	あえて{ruby (charSpan 1): い}言うなら　{Blue}ブレンド{Color Reset}かな	ぼくは　{Orange}マスター{Color Reset}の	オリジナルブレンドを{pause 8}	{ruby (charSpan 2): しんらい}信頼してるからね
+"005"	ミルクの{ruby (charSpan 1): りょう}量？{Wait for input}	ぼくは　ミルクは{Blue}{ruby (charSpan 1): い}入れない{Color Reset}よ
+"006"	{ruby (charSpan 2): さとう}砂糖の{ruby (charSpan 1): りょう}量？{Wait for input}	{ruby (charSpan 1): か}変わったことを{ruby (charSpan 1): き}聞くんだね{pause 40}	ぼくは　{ruby (charSpan 2): よけい}余計なものは{Blue}{ruby (charSpan 1): い}入れない{Color Reset}んだ
+"007"
+"008"	{0009-0001-0006-000c-000d-000e}
+"009"	{000a-0009-000e-0010-0010-0010-0010-0010-0011-0010}
+"010"	{0009-0001-0006-0008-0008-0017}
+"011"
+"012"	きみが　{ruby (charSpan 1): せき}席に{ruby (charSpan 1): つ}着いたら	{ruby (charSpan 2): えんそう}演奏を　{ruby (charSpan 1): はじ}始めるよ？{pause 40}	{pause 8}・{pause 8}・{pause 8}・{pause 20}なんてね
+"013"	あっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	いいフレーズが　おりてきそう{pause 8}・{pause 8}・{pause 8}・
 "014"	きみも　ここのコーヒーが	{ruby (charSpan 1): す}好きなのかい？
-"015"	
-"016"	{0009-0000-0004-12-00-13-00}
-"017"	{0009-0000-0004-14-00-15-00}
-"018"	このあとの　ステージ{pause 20}
-"019"	{Orange}マスター{Color Reset}のコーヒーを{ruby (charSpan 1): の}飲みながら{pause 20}
-"020"	このあとのライブ、{pause 20}
-"021"	{Orange}マスター{Color Reset}のコーヒーで、{pause 20}
-"022"	
-"023"	{0009-0001-0006-18-00-1b-00-1c-00}
-"024"	ぼく　{ruby (charSpan 1): むかし}昔は、{pause 20}
-"025"	{000c-0001-0000}
-"026"	{000c-0000-0000}
-"027"	{Orange}マスター{Color Reset}のコーヒーが{pause 20}
-"028"	ぼくも　{ruby (charSpan 1): むかし}昔は	みかん{ruby (charSpan 1): ばこ}箱に　{ruby (charSpan 1): こし}腰かけて{pause 20}
-"029"	{000c-0001-0000}
-"030"	{000c-0000-0000}
-"031"	{000c-0000-0000}
-"032"	{000c-0000-0000}
+"015"
+"016"	{0009-0000-0004-0012-0013}
+"017"	{0009-0000-0004-0014-0015}
+"018"	このあとの　ステージ{pause 20}	{ruby (charSpan 1): よ}良かったら　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来ておくれよ
+"019"	{Orange}マスター{Color Reset}のコーヒーを{ruby (charSpan 1): の}飲みながら{pause 20}	{ruby (charSpan 1): かんが}考えごとをするのが　{ruby (charSpan 1): す}好きなんだ{Wait for input}{ruby (charSpan 2): きょう}今日は　どんな{ruby (charSpan 1): きょく}曲を　かけようかな{pause 8}・{pause 8}・{pause 8}・
+"020"	このあとのライブ、{pause 20}	{ruby (charSpan 1): よ}良かったら　{ruby (charSpan 1): き}聴きに{ruby (charSpan 1): き}来ておくれよ
+"021"	{Orange}マスター{Color Reset}のコーヒーで、{pause 20}	{ruby (charSpan 2): きも}気持ちを　{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着かせてるんだ{Wait for input}	{ruby (charSpan 2): きょう}今日は　いい{ruby (charSpan 2): えんそう}演奏ができそうだよ
+"022"
+"023"	{0009-0001-0006-0018-001b-001c}
+"024"	ぼく　{ruby (charSpan 1): むかし}昔は、{pause 20}	{Orange}マスター{Color Reset}のカフェで{pause 20}	カフェライブをやってたんだよ{000c-0009-0000}
+"025"	{000c-0001-0000}{000c-0007-0000}{000c-0000-0000}{000c-0007-0000}{pause 8}・{pause 8}・{pause 8}・{pause 20}なつかしいですね{000c-0009-0000}
+"026"	{000c-0000-0000}{000c-0005-0000}ああ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ホントになつかしい
+"027"	{Orange}マスター{Color Reset}のコーヒーが{pause 20}	{ruby (charSpan 1): むかし}昔から{ruby (charSpan 1): す}好きなんだ{Wait for input}カフェの{ruby (charSpan 1): み}見た{ruby (charSpan 1): め}目は　{ruby (charSpan 1): か}変わっても、{pause 20}	この{ruby (charSpan 1): あじ}味は{ruby (charSpan 1): か}変わらないよ
+"028"	ぼくも　{ruby (charSpan 1): むかし}昔は	みかん{ruby (charSpan 1): ばこ}箱に　{ruby (charSpan 1): こし}腰かけて{pause 20}	{ruby (charSpan 2): ろじょう}路上ライブを　やったりしてたんだ{000c-0009-0000}
+"029"	{000c-0001-0000}{000c-0007-0000}{000c-0000-0000}{000c-0007-0000}{pause 8}・{pause 8}・{pause 8}・{pause 20}なつかしいですね{000c-0009-0000}
+"030"	{000c-0000-0000}{000c-0005-0000}あれ？{pause 20}	その{ruby (charSpan 1): ころ}頃は　まだ{Orange}マスター{Color Reset}と	{ruby (charSpan 1): し}知り{ruby (charSpan 1): あ}合って　なかったんじゃないかな？{000c-0009-0000}
+"031"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{pause 8}・{pause 8}・{pause 8}・{pause 20}すいません{pause 20}	その{ruby (charSpan 1): はなし}話、{pause 20}なつかしい	ニオイがしたので{pause 8}・{pause 8}・{pause 8}・{000c-0009-0000}
+"032"	{000c-0000-0000}{000c-0005-0000}さすが　{Orange}マスター{Color Reset}{pause 20}	・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 1): はな}鼻が{ruby (charSpan 1): き}利くねぇ

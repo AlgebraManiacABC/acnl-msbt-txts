@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{0000-0002-0002-4b-00}うぅ～ん{pause 8}
-"002"	う～～～ん{pause 40}
-"003"	ス～～{pause 20}
-"004"	{0000-0002-0002-4b-00}ムニャ{pause 8}
-"005"	{emote: Sleepy}
-"006"	ん{pause 8}
-"007"	むにゃ{pause 8}
-"008"	
-"009"	{emote: Happiness}
-"010"	{emote: Disagreement}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Alarmed}
-"014"	{emote: Happiness}
-"015"	{emote: Alarmed}
+"001"	{Text size 75%}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 40}	そんなに　たべられない{pause 8}・{pause 8}・{pause 8}・{Text size 100%}{Wait for input}{emote: Sleepy}{pause 20}ふぁぁ～～{Wait <0078 0000> 'time'}
+"002"	う～～～ん{pause 40}	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Shocked}{0007-000b-0000}フガッ！
+"003"	ス～～{pause 20}　ス～～{pause 40}	{emote: Sleepy}{pause 20}ふぁぁ～～{Wait <0078 0000> 'time'}
+"004"	{Text size 75%}ムニャ{pause 8}・{pause 8}・{pause 8}・{pause 20}	こんなに　たくさんの　おやつ{pause 8}・{pause 8}・{pause 8}・{Text size 100%}{Wait for input}{emote: Sleepy}{pause 20}ふぁぁ～～{Wait <0078 0000> 'time'}
+"005"	{emote: Sleepy}{pause 20}ふぁぁ～～{Wait <0078 0000> 'time'}
+"006"	ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sleepy}{pause 20}ん～～～！{Wait <0078 0000> 'time'}
+"007"	むにゃ{pause 8}むにゃ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sleepy}{pause 20}ふぁぁ～～{Wait <0078 0000> 'time'}
+"008"
+"009"	{emote: Happiness}やぁ、{Player nickname (green)}{0005-000d-0000}{pause 40}	{ruby (charSpan 1): いま}今ね、{pause 20}すっごく	いいユメ{ruby (charSpan 1): み}見てたんだぁ～{Wait for input}{emote: Agreement}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): はや}早くねて{pause 20}	ユメのつづきを　{ruby (charSpan 1): み}見よ～っと！
+"010"	{emote: Disagreement}やぁ～{pause 20}	{Player nickname (green)}{0005-000d-0000}{pause 40}	つい　ウトウトしちゃったよぉ～{Wait for input}{emote: Happiness}ボク　そろそろ{pause 20}	ねる{ruby (charSpan 1): まえ}前の　おやつを{ruby (charSpan 1): た}食べて	ねようかなぁ、{pause 8}{catchphrase}
+"011"	{emote: Happiness}やぁ～{pause 40}	おはよぉ、{Player nickname (green)}{0005-000d-0000}{Wait for input}{emote: Love}にどねって{pause 20}　こわいくらい	きもちいいよねぇ、{pause 8}{catchphrase}
+"012"	{emote: Happiness}やぁ、おはよぉ～{pause 40}	おきたら　まずは	{ruby (charSpan 1): あさ}朝ごはん{ruby (charSpan 1): た}食べないとねぇ{Wait for input}さっきも　{ruby (charSpan 1): た}食べた{ruby (charSpan 1): き}気がするけど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sunny}まぁ{pause 20}　いっか～！
+"013"	{emote: Alarmed}あっ、{pause 20}{Player nickname (green)}{0005-000d-0000}{pause 20}	{emote: Happiness}おはよぉ～{Wait for input}{emote: Bashful}もしかして{pause 20}　ボクのねがおを	{ruby (charSpan 1): み}見てたのかなぁ～？
+"014"	{emote: Happiness}やぁ、{Player nickname (green)}{0005-000d-0000}{pause 40}	ボク　また　ねちゃってたぁ？
+"015"	{emote: Alarmed}あっ、{pause 20}{Player nickname (green)}{0005-000d-0000}{pause 20}	{emote: Happiness}おはよぉ、{pause 8}{catchphrase}{Wait for input}{emote: Sleepy}いねむりをしないには、	どうしたらいいか　{ruby (charSpan 1): かんが}考えてたら{pause 20}	いねむりしちゃったよぉ～

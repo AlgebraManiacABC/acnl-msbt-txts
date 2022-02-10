@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Curious}
-"003"	{emote: Curious}
-"004"	{emote: Worry}
-"005"	{emote: Thought}
-"006"	{emote: Worry}
-"007"	{emote: Surprise}
-"008"	{emote: Alarmed}
-"009"	{emote: Alarmed}
-"010"	{emote: Alarmed}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{emote: Distress}
-"014"	{emote: Surprise}
-"015"	{emote: Distress}
-"016"	{emote: Alarmed}
-"017"	{emote: Disbelief}
-"018"	{emote: Distress}
-"019"	{emote: Happiness}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Sheepishness}
-"023"	{emote: Sheepishness}
-"024"	{emote: Distress}
+"001"	{emote: Curious}음?{pause 20}	뭐 주운 거 아니었어?{Wait for input}{emote: Distress}보여주지 않으면	내 건지 아닌지 잘 모른다구～{pause 30}{emote: Reset}
+"002"	{emote: Curious}응?{pause 20}	뭔가 주웠어?{Wait for input}{emote: Worry}내 거일지도 모르니까{pause 10}	보여줘봐～ {pause 15}{catchphrase}!
+"003"	{emote: Curious}{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 20} 뭔가 주운 거야?{pause 30}	{emote: Sheepishness}보여주면{pause 10}	누구 건지 확인할 수 있을 텐데～ {pause 15}{catchphrase}
+"004"	{emote: Worry}아쉽지만{pause 10}	이건 {pause 10}내 꺼 아냐～{Wait for input}{emote: Soft Smile}다른 애한테도	한번 물어보지그래?
+"005"	{emote: Thought}으～음{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 20}	{emote: Happiness}이건 {pause 10}내 꺼 아냐
+"006"	{emote: Worry}미안{pause 10}	처음 보는 거야～
+"007"	{emote: Surprise}앗! {pause 20}이 책!{pause 30}	없어진 줄 알았는데	떨어뜨렸나 보다!{Wait for input}{emote: Happiness}내가 좋아하는 책이라{pause 8}	찾아서 다행이야～!
+"008"	{emote: Alarmed}아～!!{pause 30}	이거 계속 찾고 있었어!{Wait for input}{emote: Distress}떨어뜨렸구나{pause 30}	{emote: Shyness}나도 참 덜렁댄다～
+"009"	{emote: Alarmed}앗!{pause 20}	없어진 줄 알았는데{pause 8} 떨어뜨렸었구나!{Wait for input}{emote: Glee}이제 그냥 포기하려던 참이었는데～{pause 10} 	앗싸ー!
+"010"	{emote: Alarmed}앗! {pause 30}	어디 갔나 했더니{pause 10}	떨어뜨렸었구나!{Wait for input}{emote: Soft Smile}무척 아끼는 거였거든{pause 8}	이제 안심이야～ {pause 15}{catchphrase}!
+"011"	{emote: Alarmed}꺄아!!{pause 20}	잃어버린 줄 알고{pause 8}	얼마나 속상했는데～{Wait for input}{emote: Happiness}내 소중한 뷰티 아이템이{pause 10}	다 들어 있다구～{pause 10}	{emote: Joy}다시 찾아서 {pause 10}정말 기뻐!{pause 30}{emote: Soft Smile}
+"012"	{emote: Alarmed}어머! {pause 20}이거 어디 있었어?{pause 30}	{emote: Sheepishness}못 찾을 줄 알고{pause 10}	하나 더 샀는데～!{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 8}혹시{pause 8}{emote: Glare} 안에 든 거 봤니?!{pause 20}	{emote: Bashful}아잉～ {pause 20}너랑 나만의 비밀로 해줘!{pause 30}{emote: Soft Smile}
+"013"	{emote: Distress}아이, 나도 참ー!{pause 20}	막 {pause 8}흘리고 다니네!{Wait for input}{emote: Sheepishness}어디서 잃어버렸는지	계속 고민하고 있었어{pause 20}	{emote: Love}이제 양손 다 따끈따끈이야～!
+"014"	{emote: Surprise}앗! {pause 10}이거 내 거다!{pause 20}	{emote: Happiness}다신 {pause 10}못 찾을 줄 알았어～!{Wait for input}	{emote: Joy}좋아하는 물건인데 {pause 5}다행이다{pause 30}{emote: Soft Smile}
+"015"	{emote: Distress}어쩐지 없다 했더니{pause 8}	잃어버린 거였구나～!{pause 30}	{emote: Sheepishness}나도 참 덜렁이야～{Wait for input}{emote: Happiness}이게 있어야{pause 8}	내 멋진 코디가 완성되는데, {pause 8}	찾아서 다행이야～!
+"016"	{emote: Alarmed}앗! {pause 10}어디서 찾았어?{pause 20}	{emote: Distress}어디 두고 온 줄 알고	얼마나 속상했는데	{emote: Sheepishness}모처럼 산	{0005-0010-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}	상할 뻔했어～
+"017"	{emote: Disbelief}핫!{pause 20}	나도 참{pause 8} 이렇게 소중한 걸	떨어뜨렸구나!{Wait for input}{emote: Distress}아주 심장이 쫄깃하네～{pause 20}	이걸 주운 게{pause 10} 친절한	{Player nickname (green)}{000e-000e-0006-0002-c774-0000}라서 {pause 10}다행이야～
+"018"	{emote: Distress}이거 {pause 10}	어디 흘렸나 계속 고민했는데～!{pause 30}	{emote: Happiness}찾아줘서 {pause 10}고마워!	{emote: Distress}한발 늦었으면 {pause 8}내 비밀이{pause 8}	{Town name (pink)} 마을에 다 퍼질 뻔했다구～{pause 20}	{emote: Happiness}농담이야～! {pause 20}{emote: Laughter}꺄하핫!{pause 30}{emote: Reset}
+"019"	{emote: Happiness}여기까지 갖다 줘서{pause 8}	고마워!{Wait for input}{emote: Sheepishness}지금은 {pause 10}이거밖에 가진 게 없지만{pause 10}	{emote: Happiness}받아줘!{pause 10}	{0011-0003-0002-0000}{000e-000e-0006-0002-c774-0000}야
+"020"	{emote: Happiness}갖다 줘서 고마워!{Wait for input}{emote: Sheepishness}・・・이런 거밖에 없지만 답례로{pause 10}	{emote: Soft Smile}{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 10} 받아줘!
+"021"	{emote: Happiness}갖다 줘서{pause 8}	정말 고마워～!{Wait for input}{emote: Glee}보답으로 	이 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 10} 줄게!
+"022"	{emote: Sheepishness}이제 잃어버리지 않도록	조심할게, {pause 15}{catchphrase}!
+"023"	{emote: Sheepishness}앞으로는{pause 10}	소지품 {pause 8}꼼꼼히 확인할게～
+"024"	{emote: Distress}다신 떨어뜨리지 않게	조심해야겠어～ {pause 15}{catchphrase}!

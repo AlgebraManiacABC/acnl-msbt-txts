@@ -1,46 +1,46 @@
 == 0 ==
-"001"	내가 가지고 있는{pause 16}
-"002"	{emote: Worry}
-"003"	{emote: Sheepishness}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Thought}
-"007"	{emote: Shyness}
-"008"	{emote: Sunny}
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{0009-0003-000a-0c-00-0c-00-0c-00-0d-00-0e-00}
-"012"	이거{pause 8}
-"013"	이거{pause 8}
-"014"	이거{pause 8}
-"015"	{0009-0002-0008-11-00-11-00-12-00-13-00}
-"016"	{0009-0003-000a-14-00-14-00-14-00-15-00-16-00}
-"017"	이거{pause 8}
-"018"	이거{pause 8}
-"019"	이거{pause 8}
-"020"	이거{pause 8}
-"021"	이거{pause 8}
-"022"	이거{pause 8}
-"023"	{0009-0003-000a-1b-00-1c-00-1c-00-1d-00-1d-00}
-"024"	{0009-0001-0006-1e-00-1f-00-20-00}
-"025"	{0009-0001-0006-21-00-22-00-23-00}
-"026"	{0009-0002-0008-24-00-24-00-25-00-26-00}
-"027"	이거{pause 8}
-"028"	이거{pause 8}
-"029"	이거{pause 8}
-"030"	이거{pause 8}
-"031"	이거{pause 8}
-"032"	이거{pause 8}
-"033"	이거{pause 8}
-"034"	이거{pause 8}
-"035"	이거{pause 8}
-"036"	이거{pause 8}
-"037"	이거{pause 8}
-"038"	이거{pause 8}
-"039"	{emote: Anger}
-"040"	{000a-0001-0004-2c-00-2d-00}
-"041"	{emote: Anger}
-"042"	{emote: Soft Smile}
-"043"	{emote: Worry}
-"044"	{emote: Soft Smile}
-"045"	{emote: Soft Smile}
+"001"	내가 가지고 있는{pause 16}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 걸고{pause 16}	『사랑 고백 게임』 안 할래?	{0007-000d-0000}{emote: Soft Smile}그대가 이기면{pause 16}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}	싸게 줄게, {pause 8}{catchphrase}{Player can respond (0005):0008-0015-0002-0028}	할게!	지금은 좀・・・
+"002"	{emote: Worry}아쉽네{pause 8}・{pause 8}・{pause 8}・{pause 8} 그대 마음이 바뀌길	기다릴게, {pause 8}{catchphrase}
+"003"	{emote: Sheepishness}설마 그대가{pause 16}	이 정도일 줄이야{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}약속했으니까{pause 32}	{0011-0003-0002-0000}{000e-000e-0008-0002-c740-0002-b294}{pause 16}	공짜로 줄게!
+"004"	{emote: Worry}아깝네, {pause 16}조금만 더 운이	좋았다면 퍼펙트였을 텐데{Wait for input}{emote: Soft Smile}그치만 {pause 8}장미를 2개나 뽑았으니까{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 넘겨줄게{pause 32}	{emote: Sheepishness}후후훗{pause 8}・{pause 8}・{pause 8}・{pause 8} 특별 서비스야
+"005"	{emote: Worry}아깝네, {pause 16}조금만 더 운이	좋았다면 퍼펙트였을 텐데{Wait for input}{emote: Soft Smile}그치만 {pause 8}장미를 2개나 뽑았으니까{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 넘겨줄게
+"006"	{emote: Thought}{pause 16}결국 {pause 16}장미 1개라{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}벨{Color Reset}에 팔아야겠는데～{Wait for input}	{emote: Worry}미안, {pause 8}{catchphrase}
+"007"	{emote: Shyness}이렇게 되면 {pause 16}좀 비싼데{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}벨{Color Reset}에{pause 16}	팔아야겠어, {pause 8}{catchphrase}
+"008"	{emote: Sunny}좋아, {pause 16}그럼 바로	규칙을 설명해볼까?{Player can respond (0005):0009-0015-000a-0028}	부탁해	알고 있어!
+"009"	{emote: Soft Smile}오케이!{pause 32}	그럼 규칙을 설명할게{Wait for input}	{emote: Reset}여기 카드 3장이 있어{pause 8}・{pause 8}・{pause 8}・{pause 8}	뒷면에는 각각{pause 16}	『장미』『코스모스』『민들레』{pause 16}	그림이 그려져 있지	이 카드들을 내가 섞을 테니까{pause 16}	그대가 1장을 고르는 거야{Wait for input}	{emote: Glare}장미 카드를 말이야{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Reset}그리고 카드를 다시 넣어서{pause 16}	또 내가 섞고 그대가 뽑아{pause 8}・{pause 8}・{pause 8}・{pause 32}	이걸 3번 반복하는 거야	{emote: Soft Smile}3번 모두 장미를 뽑으면{pause 32}	{0011-0003-0002-0000}{000e-000e-0008-0002-c740-0002-b294}{pause 16}	공짜로 선물할게	{emote: Sheepishness}장미를 몇 번 뽑았는지에 따라	가격이 달라지니까 {pause 16}마지막까지	방심하지 않는 게 좋을걸?	{emote: Reset}설명은 이 정도로 하고{pause 16}	슬슬 시작해볼까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}좋아!{pause 32}	1장 골라봐!{Player can respond (0001):000b-0000-000b-0000-000b-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"010"	{emote: Soft Smile}아, {pause 16}이 게임	해본 적 있구나?{Wait for input}	{emote: Reset}그럼 시작해볼까	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}좋아!{pause 32}	카드를 1장 골라봐!{Player can respond (0001):000b-0000-000b-0000-000b-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"011"	{0009-0003-000a-000c-000c-000c-000d-000e}
+"012"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}첫 번째는 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『장미』야!{Wait for input}	{emote: Glee}꽤 하는데～!{pause 16}	첫 번째는 정답이야!	{emote: Reset}이어서 다음으로 넘어간다{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}좋아!{pause 16}	카드를 1장 골라봐!{Player can respond (0001):000f-0000-000f-0000-000f-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"013"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}첫 번째는 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『코스모스』야!{Wait for input}	{emote: Worry}아쉽네{pause 8}・{pause 8}・{pause 8}・{pause 8}	첫 번째는 꽝이야	{emote: Reset}계속해서 다음으로 넘어갈까?{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}좋아!{pause 16}	카드를 1장 골라봐!{Player can respond (0001):0010-0000-0010-0000-0010-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"014"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}첫 번째는 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『민들레』야!{Wait for input}	{emote: Worry}아쉽네{pause 8}・{pause 8}・{pause 8}・{pause 8}	첫 번째는 꽝이야	{emote: Reset}계속해서 다음으로 넘어갈까?{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}좋아!{pause 16}	카드를 1장 골라봐!{Player can respond (0001):0010-0000-0010-0000-0010-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"015"	{0009-0002-0008-0011-0011-0012-0013}
+"016"	{0009-0003-000a-0014-0014-0014-0015-0016}
+"017"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}두 번째는 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『장미』야!{Wait for input}	{emote: Glee}오～{pause 16} 장난 아닌데?!{pause 16}	2번 연속 정답이야!	{emote: Reset}이제 드디어 마지막이네{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}좋아!{pause 16}	카드를 1장 골라봐!{Player can respond (0001):0017-0000-0017-0000-0017-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"018"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}두 번째는 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『코스모스』야!{Wait for input}	{emote: Worry}안타깝다{pause 8}・{pause 8}・{pause 8}・{pause 8}	두 번째는 꽝이야	{emote: Reset}이제 드디어 마지막이네{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}좋아!{pause 16}	카드를 1장 골라봐!{Player can respond (0001):0018-0000-0018-0000-0018-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"019"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}두 번째는 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『민들레』야!{Wait for input}	{emote: Worry}안타깝다{pause 8}・{pause 8}・{pause 8}・{pause 8}	두 번째는 꽝이야	{emote: Reset}이제 드디어 마지막이네{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}좋아!{pause 16}	카드를 1장 골라봐!{Player can respond (0001):0018-0000-0018-0000-0018-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"020"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}두 번째는 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『장미』야!{Wait for input}	{emote: Glee}잘 됐다!{pause 16}	이번엔 정답이야!	{emote: Reset}이제 드디어 마지막이네{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}좋아!{pause 16}	카드를 1장 골라봐!{Player can respond (0001):0019-0000-0019-0000-0019-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"021"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}두 번째는 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『코스모스』야!{Wait for input}	{emote: Worry}안타깝네{pause 8}・{pause 8}・{pause 8}・{pause 8}	2번 연속 꽝이야	{emote: Reset}이제 드디어 마지막이네{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}좋아!{pause 16}	카드를 1장 골라봐!{Player can respond (0001):001a-0000-001a-0000-001a-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"022"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}두 번째는 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『민들레』야!{Wait for input}	{emote: Worry}안타깝네{pause 8}・{pause 8}・{pause 8}・{pause 8}	2번 연속 꽝이야	{emote: Reset}이제 드디어 마지막이네{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}좋아!{pause 16}	카드를 1장 골라봐!{Player can respond (0001):001a-0000-001a-0000-001a-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"023"	{0009-0003-000a-001b-001c-001c-001d-001d}
+"024"	{0009-0001-0006-001e-001f-0020}
+"025"	{0009-0001-0006-0021-0022-0023}
+"026"	{0009-0002-0008-0024-0024-0025-0026}
+"027"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}마지막엔 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『장미』야!{Wait for input}	{emote: Joy}대단해, {pause 16}퍼펙트야!
+"028"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}마지막엔 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『코스모스』야!{Wait for input}	{emote: Sheepishness}참고로 꽃말은{pause 32}	{emote: Glare}「소녀의 순정」이지
+"029"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}마지막엔 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『민들레』야!{Wait for input}	{emote: Sheepishness}참고로 꽃말은{pause 32}	{emote: Glare}「행복」이야
+"030"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}마지막엔 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『장미』야!{Wait for input}	{emote: Soft Smile}유종의 미를 거뒀구나{0009-0000-0004-0004-0005}
+"031"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}마지막엔 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『코스모스』야!{Wait for input}	{emote: Sheepishness}후후훗, {pause 16}처음에만{pause 16}	분위기가 좋다 말았네
+"032"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}마지막엔 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『민들레』야!{Wait for input}	{emote: Sheepishness}후후훗, {pause 16}처음에만{pause 16}	분위기가 좋다 말았네
+"033"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}마지막엔 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『장미』야!{Wait for input}	{emote: Soft Smile}중간부터 분위기를 탔구나{0009-0000-0004-0004-0005}
+"034"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}마지막엔 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『코스모스』야!{Wait for input}	{emote: Worry}흐～음{pause 16}	결과가 좋지 않네{pause 8}・{pause 8}・{pause 8}・
+"035"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}마지막엔 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『민들레』야!{Wait for input}	{emote: Worry}흐～음{pause 16}	결과가 좋지 않네{pause 8}・{pause 8}・{pause 8}・
+"036"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}마지막엔 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『장미』야!{Wait for input}	{emote: Sheepishness}막판에 겨우 맞혔네
+"037"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}마지막엔 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『코스모스』야!{Wait for input}	{emote: Sheepishness}어이쿠, {pause 8}안타깝군{pause 32}	장미가 1번도 안 나오다니{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"038"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{Wait for input}	{emote: Soft Smile}자, {pause 16}마지막엔 뭐가 나올까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『민들레』야!{Wait for input}	{emote: Sheepishness}어이쿠, {pause 8}안타깝군{pause 32}	장미가 1번도 안 나오다니{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"039"	{emote: Anger}참고로 장미의 꽃말은{pause 32}	{emote: Glare}「영원한 사랑」이야{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"040"	{000a-0001-0004-002c-002d}
+"041"	{emote: Anger}예감이 들어{pause 8}・{pause 8}・{pause 8}・{pause 8}	다음엔 장미 3개가 나올 것 같은{pause 32}	{emote: Glare}그런 예감 말이야
+"042"	{emote: Soft Smile}이걸로 괜히 기죽지 말고{pause 16}	또 도전하도록 해{pause 32}	{emote: Glare}기다릴게, {pause 8}{catchphrase}
+"043"	{emote: Worry}섭섭하게 생각하진 마{pause 32}	게임에는 리스크가 따르는 거야
+"044"	{emote: Soft Smile}참고로 장미의 꽃말은{pause 16}	장미가 3개 모였을 때{pause 16}	알려주도록 할게! {pause 32}{emote: Sunny}하핫ー!
+"045"	{emote: Soft Smile}재미있었어{pause 8}・{pause 8}・{pause 8}・{pause 8} 다음엔{pause 32}　	{emote: Glare}사랑의 게임을 하고 싶군{pause 32}	{emote: Sunny}하핫ー!

@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{Greeting begin}
-"003"	{emote: Happiness}
-"004"	{emote: Alarmed}
-"005"	{Greeting begin}
-"006"	앗, {pause 20}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	오, {pause 20}
-"010"	{0009-0000-0004-0b-00-0c-00}
-"011"	{emote: Reset}
-"012"	사양 말고{pause 8}
+"001"	{emote: Alarmed}어라, {pause 20}{Town name (pink)} 마을의	{Player name} 아냐!{pause 30}	{emote: Happiness}잘 왔어!{pause 20} {catchphrase}!
+"002"	{Greeting begin}오호, {pause 8}{Player name}{Greeting end}!{pause 30}	{Town name (pink)} 마을까지{pause 8}	먼 길 놀러 온 거야?{pause 20} {catchphrase}?
+"003"	{emote: Happiness}오호!{pause 20} 어쩐 일이야, {Player name}!{Wait for input}{emote: Glare}{Town name (pink)} 마을의	{0005-001a-0002-cd00}{000e-000e-0006-0002-c774-0000}라도{pause 15}	먹고 싶어진 거냐?{pause 20} {catchphrase}?
+"004"	{emote: Alarmed}오오, {pause 15}{Player name} 아냐!{pause 30}	{emote: Happiness}여기까지 놀러 와 주다니,{pause 20}	{catchphrase}!
+"005"	{Greeting begin}오호, {pause 8}{Player name}{Greeting end}!{pause 30}	너 언제 온 거냐?{pause 20} {catchphrase}?
+"006"	앗, {pause 20}{Player name} 너구나!{pause 20}	{catchphrase}!{Wait for input}{emote: Happiness}{Town name (pink)} 마을이	마음에 들면{pause 20}	그냥 눌러살아, {pause 20}{emote: Laughter}으ー하하핫!{pause 40}{emote: Soft Smile}
+"007"	{emote: Alarmed}오오, {pause 8}{Player name}!{pause 30}	{emote: Reset}너 언제 왔냐?{Wait for input}{emote: Happiness}이런 시간에	놀라게 하지 말라구, {pause 20}{catchphrase}
+"008"	{emote: Alarmed}{Player name} 아냐!{Wait for input}	{emote: Anger}이런 밤중에{pause 20} 남의 마을에서	뭐하는 거냐?{pause 20} {catchphrase}?{Wait for input}{emote: Reset}뭐, {pause 15}너답긴 하다만, {pause 20}{emote: Laughter}으ー하하핫!{pause 40}{emote: Soft Smile}
+"009"	오, {pause 20}{Player name} 아냐!{Wait for input}	{emote: Happiness}잘 왔어, {pause 20}{catchphrase}!
+"010"	{0009-0000-0004-000b-000c}
+"011"	{emote: Reset}그건 그렇고{pause 20}	너도 참 활동적이구나!{Wait for input}	{emote: Happiness}그거 하나만은 인정해!
+"012"	사양 말고{pause 8} 마음껏	즐겨보라구!{Wait for input}・{pause 8}・{pause 8}・{pause 8}{emote: Reset}뭐, {pause 8}넌 어차피	사양 같은 거 안 하나? {pause 20}{emote: Laughter}으ー하하핫!{pause 40}{emote: Soft Smile}

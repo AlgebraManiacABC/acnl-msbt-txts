@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	なんだか　いつもより　よけいに	ボ～っとするよぉ、{pause 8}
-"003"	{emote: Sadness}
-"004"	{emote: Fearful}
-"005"	{emote: Sadness}
-"006"	{emote: Sadness}
-"007"	{emote: Thought}
-"008"	{emote: Sorrow}
-"009"	うぅ{pause 8}
+"001"	{emote: Worry}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): あさ}朝から　なんだか	カゼっぽいんだぁ、{pause 8}{catchphrase}{Wait for input}{emote: Reset}{0011-0000-0002-0000}{0005-000d-0000}に	{Blue}おくすり{Color Reset}　もらったし、{pause 20}	{ruby (charSpan 2): きょう}今日は　のんびりしとこうかなぁ
+"002"	なんだか　いつもより　よけいに	ボ～っとするよぉ、{pause 8}{catchphrase}{Wait for input}{0011-0000-0002-0000}{0005-000d-0000}がくれた　{Blue}おくすり{Color Reset}{pause 20}	そろそろ　きいてくるころかなぁ？
+"003"	{emote: Sadness}ちゃんと　ごはん{ruby (charSpan 1): た}食べたのに{pause 20}	なんだか　{ruby (charSpan 2): げんき}元気がでないよぉ、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}{0011-0000-0002-0000}{0005-000d-0000}が	{Blue}おくすり{Color Reset}　くれたから、{pause 20}	さっきよりは　よくなったけどね
+"004"	{emote: Fearful}なんだか　{ruby (charSpan 2): きょう}今日は	カゼっぽいんだぁ{Wait for input}{emote: Reset}さっき　{0011-0000-0002-0000}{0005-000d-0000}が	{Blue}おくすり{Color Reset}　くれたし、{pause 20}	あとはゆっくり　まつしかないよねぇ
+"005"	{emote: Sadness}カラダがおもい～{pause 8}・{pause 8}・{pause 8}・{pause 20}	リュックサック	しょってるみたいだよぉ～{Wait for input}{emote: Reset}{0011-0000-0002-0000}{0005-000d-0000}に	{Blue}おくすり{Color Reset}　もらったから、{pause 20}	ちょっとは　{ruby (charSpan 1): らく}楽になったけどね
+"006"	{emote: Sadness}はながつまって、	ごはんが　おいしくない～{Wait for input}{emote: Reset}{0011-0000-0002-0000}{0005-000d-0000}が	くれた　{Blue}おくすり{Color Reset}、{pause 20}	きいてほしいなぁ～{Wait for input}{ruby (charSpan 2): あした}明日は　おいしいごはんが	{ruby (charSpan 1): た}食べたいよぉ{pause 8}・{pause 8}・{pause 8}・
+"007"	{emote: Thought}カゼを　{ruby (charSpan 1): はや}早く　なおしたいけど、{pause 20}	{Blue}おくすり{Color Reset}って　いっぱいのみすぎたら	だめなんだってぇ～{Wait for input}{emote: Worry}{ruby (charSpan 2): きょう}今日は　{0011-0000-0002-0000}{0005-000d-0000}に	もう　もらっちゃったから、{pause 20}	あとは　ゆっくり　まつしかないよね{pause 8}・{pause 8}・{pause 8}・{pause 20}
+"008"	{emote: Sorrow}{Player nickname (green)}{0005-000d-0000}{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): すこ}少しの{ruby (charSpan 1): あいだ}間だったけど、	いっぱいメイワクかけて　ごめんねぇ～{Wait for input}{emote: Sadness}ボク{pause 8}　もう{pause 8}・{pause 8}・{pause 8}・{pause 20}	ゲンカイかも{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{0011-0000-0002-0000}{0005-000d-0000}がくれた　{Blue}おくすり{Color Reset}、{pause 20}	{ruby (charSpan 1): はや}早くきいてこないかなぁ{pause 8}・{pause 8}・{pause 8}・
+"009"	うぅ{pause 8}・{pause 8}・{pause 8}・{pause 20}	さっきまで　{ruby (charSpan 1): なん}何にも	{ruby (charSpan 1): た}食べたくなかったんだぁ～{Wait for input}{emote: Happiness}でも　{0011-0000-0002-0000}{0005-000d-0000}が	くれた　{Blue}おくすり{Color Reset}をのんだら{pause 20}	{ruby (charSpan 1): すこ}少し　{ruby (charSpan 1): らく}楽になったよぉ{Wait for input}{ruby (charSpan 1): いま}今なら　{0005-0013-0002-0000}くらいは	{ruby (charSpan 1): た}食べられそう{pause 8}・{pause 8}・{pause 8}・

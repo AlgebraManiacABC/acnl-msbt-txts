@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Soft Smile}
-"003"	{emote: Curious}
-"004"	{emote: Greetings}
-"005"	{emote: Sleepy}
-"006"	{emote: Reset}
-"007"	{000a-0016-0006-02-09-00-04-00-ffffffcd}
-"008"	{000a-0016-0006-01-0a-00-04-00-ffffffcd}
-"009"	{emote: Alarmed}
-"010"	{emote: Alarmed}
+"001"	{emote: Soft Smile}{Greeting begin}あら、{pause 8}ごきげんよう！{Greeting end}
+"002"	{emote: Soft Smile}{ruby (charSpan 2): げんき}元気そうね、{pause 8}{Player nickname (green)}{0005-000d-0000}
+"003"	{emote: Curious}どう？　{pause 16}	{ruby (charSpan 1): たの}楽しくやってる？　{pause 8}{catchphrase}？
+"004"	{emote: Greetings}{Greeting begin}あら、{pause 8}{Player nickname (green)}{0005-000d-0000}{Greeting end}
+"005"	{emote: Sleepy}ふぁ～{pause 8}・{pause 8}・{pause 8}・{pause 8}ねむい{pause 8}・{pause 8}・{pause 8}・{pause 8}	アタシ、{pause 8}{ruby (charSpan 1): あさ}朝に{ruby (charSpan 1): よわ}弱いのよねぇ、	{pause 8}{catchphrase}
+"006"	{emote: Reset}{Greeting begin}あら、{pause 8}{Player nickname (green)}{0005-000d-0000}{Greeting end}{pause 12}	{emote: Soft Smile}こんな{ruby (charSpan 1): おそ}遅くまで　{ruby (charSpan 2): よあそ}夜遊び？	{pause 8}{catchphrase}？
+"007"	{000a-0016-0006-0902-0400-cd00}
+"008"	{000a-0016-0006-0a01-0400-cd00}
+"009"	{emote: Alarmed}あら、{pause 16}	{emote: Soft Smile}おサカナ　{ruby (charSpan 1): つ}釣ってるのね？	{pause 8}{catchphrase}？
+"010"	{emote: Alarmed}あら、{pause 16}	{emote: Soft Smile}ムシとり　してるのね？	{pause 8}{catchphrase}？

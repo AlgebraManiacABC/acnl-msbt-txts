@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Curious}
-"003"	{emote: Alarmed}
-"004"	{emote: Curious}
-"005"	ほらよ！{Wait for input}
-"006"	ほらよ！{Wait for input}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
+"001"	{emote: Curious}ん？{pause 8}　なんの{ruby (charSpan 2): しょめい}署名だよ？{pause 20}	{emote: Anger}めんどくせぇ{ruby (charSpan 1): はなし}話は　お{ruby (charSpan 1): ことわ}断りだぜ？{Wait for input}{emote: Alarmed}{pause 8}えっ！{pause 20}	{ruby (charSpan 3): しょうてんがい}商店街に　ライブハウス？！{Wait for input}{emote: Glee}うひょ～！{pause 8}　いいじゃねぇか！{pause 15}	{emote: Happiness}{ruby (charSpan 1): よろこ}喜んで　{ruby (charSpan 2): しょめい}署名させてもらうぜ！！
+"002"	{emote: Curious}{ruby (charSpan 2): しょめい}署名？{Wait for input}	{ruby (charSpan 1): べつ}別に　いいけど	{ruby (charSpan 2): いったい}一体　なんの{ruby (charSpan 2): しょめい}署名だい？	{emote: Alarmed}{pause 15}なにっ！{pause 15}	{emote: Happiness}ライブハウスが　できるのか？！{Wait for input}{emote: Glee}そいつは{pause 8}　いい{ruby (charSpan 1): はなし}話だ！{pause 20}	もちろん　{ruby (charSpan 2): しょめい}署名させてもらうぜ！
+"003"	{emote: Alarmed}えっ！{pause 8}	ライブハウスの{ruby (charSpan 2): しょめい}署名？！{Wait for input}{emote: Happiness}なんだよ、オメェ！{pause 20}	{ruby (charSpan 1): むら}村の{ruby (charSpan 2): しごと}仕事っぽいこと　してるじゃねぇか！{pause 30}	もちろん　{ruby (charSpan 2): きょうりょく}協力させてもらうぜ！	{Town name (pink)}{ruby (charSpan 1): むら}村の　{ruby (charSpan 3): しょうてんがい}商店街も{pause 8}	にぎやかになりそうだな！{pause 20}	{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}
+"004"	{emote: Curious}ん？　ライブハウスの{ruby (charSpan 2): しょめい}署名？{Wait for input}	{emote: Thought}{ruby (charSpan 1): まえ}前にも　した{ruby (charSpan 1): き}気がするんだが・・・{Wait for input}{emote: Happiness}まあ　{pause 8}{ruby (charSpan 2): はんたい}反対してるワケでもねぇし、{pause 15}	いくらでも{ruby (charSpan 1): か}書くぜ、{pause 20}{catchphrase}！
+"005"	ほらよ！{Wait for input}	{emote: Happiness}オレ、ひとり{ruby (charSpan 1): め}目じゃねぇか！{pause 20}	まだまだ　がんばらなきゃな！
+"006"	ほらよ！{Wait for input}	{emote: Soft Smile}{ruby (charSpan 2): しょめい}署名、{ruby (charSpan 1): はや}早く{ruby (charSpan 1): あつ}集まるといいな！
+"007"	{emote: Happiness}はいよ！{Wait for input}	ま、{pause 8}この{ruby (charSpan 2): ちょうし}調子で　がんばってくんな！
+"008"	{emote: Happiness}ほらよ！{Wait for input}	ライブハウス{pause 8}　{ruby (charSpan 1): たの}楽しみにしてるぜ！
+"009"	{emote: Happiness}あとひとりで　{ruby (charSpan 4): もくひょうたっせい}目標達成だな！{pause 20}	{ruby (charSpan 1): たの}楽しみにしてるぜ！
+"010"	{emote: Happiness}よーし、{pause 15}	これで　{ruby (charSpan 2): しょめい}署名{ruby (charSpan 1): あつ}集め　{ruby (charSpan 2): かんりょう}完了だな！{pause 20}	ライブハウス　{ruby (charSpan 1): たの}楽しみにしてるぜ！

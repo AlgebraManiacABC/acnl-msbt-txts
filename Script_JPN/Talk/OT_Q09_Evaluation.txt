@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Love}
-"005"	{emote: Worry}
-"006"	{emote: Sheepishness}
-"007"	{emote: Alarmed}
-"008"	{emote: Worry}
-"009"	{pause 8}
-"010"	{emote: Surprise}
-"011"	{emote: Resigned}
-"012"	{emote: Sheepishness}
+"001"	{emote: Alarmed}あら、{pause 16}もう{ruby (charSpan 1): かえ}帰っちゃうの？{pause 8}	{Player nickname (green)}{0005-000d-0000}？{Wait for input}{emote: Shyness}こんなこと{ruby (charSpan 1): き}聞くのも　ヤボだけど、{pause 16}	アタシの{ruby (charSpan 2): へや}部屋は　どうだった？	{pause 8}{catchphrase}？{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"002"	{emote: Alarmed}あら、{pause 16}もう{ruby (charSpan 1): い}行くのね？{pause 8}	{Player nickname (green)}{0005-000d-0000}？{Wait for input}{emote: Reset}ところで、{pause 8}アタシの{ruby (charSpan 2): へや}部屋は	アナタの{ruby (charSpan 1): め}目から{ruby (charSpan 1): み}見て{pause 16}	どう{ruby (charSpan 1): うつ}映ったかしら？　{pause 8}{catchphrase}？{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"003"	{emote: Alarmed}あら、{pause 16}もう{ruby (charSpan 1): で}出る{ruby (charSpan 2): じかん}時間なのね？{pause 32}	{emote: Reset}{ruby (charSpan 1): かえ}帰る{ruby (charSpan 1): まえ}前に{ruby (charSpan 1): すこ}少し、{pause 16}アナタの{ruby (charSpan 2): いけん}意見を　	{ruby (charSpan 1): き}聞かせて　もらえないかしら？	{emote: Soft Smile}アタシの{ruby (charSpan 1): いえ}家って　どんな{ruby (charSpan 1): かん}感じだった？{pause 16}	{ruby (charSpan 2): すなお}素直な{ruby (charSpan 2): いけん}意見を　{ruby (charSpan 1): き}聞かせてちょうだい、	{pause 8}{catchphrase}{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"004"	{emote: Love}{pause 16}{ruby (charSpan 1): よ}良かった{pause 4}・{pause 4}・{pause 4}・{pause 4}アナタに	この{ruby (charSpan 1): よ}良さが{ruby (charSpan 1): つた}伝わって{pause 4}・{pause 4}・{pause 4}・{pause 4}{Wait for input}{emote: Worry}アナタだけには	わかってもらいたかったの、{pause 16}	{Player nickname (green)}{0005-000d-0000}
+"005"	{emote: Worry}{ruby (charSpan 1): きび}厳しいのね、{Player nickname (green)}{0005-000d-0000}{pause 32}	{emote: Sheepishness}でも、アナタがそう{ruby (charSpan 1): おも}思うなら{pause 16}	その{ruby (charSpan 2): ていど}程度なの　かもしれないわね	{emote: Anger}{ruby (charSpan 1): かなら}必ずしも、{ruby (charSpan 1): こた}答えは　ひとつじゃないわ{pause 16}	{ruby (charSpan 1): こた}答えは　{ruby (charSpan 1): ひと}人の{ruby (charSpan 1): かず}数だけ{pause 8}	{ruby (charSpan 2): そんざい}存在するものだから{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"006"	{emote: Sheepishness}ハッキリ　ものを{ruby (charSpan 1): い}言うのね、{pause 8}	{Player nickname (green)}{0005-000d-0000}{Wait for input}{emote: Reset}でもアタシ、{pause 8}	アナタの　そういうところが	{emote: Soft Smile}キライじゃないかも、{pause 8}{catchphrase}
+"007"	{emote: Alarmed}あら、{Player nickname (green)}{0005-000d-0000}{pause 16}	{ruby (charSpan 1): き}気を{ruby (charSpan 1): つか}使わなくてもいいのよ？{Wait for input}{emote: Shyness}でも、{pause 8}{Player nickname (green)}{0005-000d-0000}の	そんな　{ruby (charSpan 1): やさ}優しいところ、{pause 16}	アタシ　{ruby (charSpan 1): す}好きよ、{pause 8}{catchphrase}
+"008"	{emote: Worry}まぁ{pause 4}・{pause 4}・{pause 4}・{pause 4}そんなものよね～{pause 32}	{emote: Sheepishness}うすうす　わかってたけど、{pause 16}	{ruby (charSpan 1): みみ}耳が{ruby (charSpan 1): いた}痛いわね、{pause 8}{catchphrase}	{emote: Reset}まあ　アタシなりに	もう{ruby (charSpan 1): すこ}少し　がんばってみるわね、{pause 16}	{emote: Soft Smile}{Player nickname (green)}{0005-000d-0000}
+"009"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}ヨウシャないわね？{pause 32}	{emote: Worry}アタシも　{ruby (charSpan 1): いま}今の{ruby (charSpan 2): へや}部屋が{pause 16}	いまひとつだって　{ruby (charSpan 1): き}気づいてたわよ	{emote: Anger}アタシ、{pause 8}キレイにしてみせるわ！{pause 32}	この{ruby (charSpan 2): へや}部屋も{pause 8}・{pause 8}・{pause 8}・{pause 8}アタシ{ruby (charSpan 2): じしん}自身も！{pause 32}	{emote: Glare}そして、アナタを{ruby (charSpan 2): みかえ}見返すんだから！
+"010"	{emote: Surprise}あら！{pause 30}	{emote: Soft Smile}{ruby (charSpan 1): やさ}優しいのね、{Player nickname (green)}{0005-000d-0000}{Wait for input}{emote: Reset}ホントは　いまひとつかもって	{ruby (charSpan 1): おも}思ってたから、{pause 16}	{emote: Soft Smile}そう{ruby (charSpan 1): い}言ってもらえて　うれしいわ
+"011"	{emote: Resigned}そうよね～、{pause 20}	そんなところよね～{Wait for input}{emote: Reset}まあ、{ruby (charSpan 1): つぎ}次は　もっといい{ruby (charSpan 2): ひょうか}評価が	もらえるように、{pause 16}	{emote: Soft Smile}アタシなりに　がんばるつもりよ
+"012"	{emote: Sheepishness}うふふ{pause 4}・{pause 4}・{pause 4}・{pause 4}アナタ、{pause 16}	ウソがつけないのね？{pause 8}	{Player nickname (green)}{0005-000d-0000}？	{emote: Reset}でも　{ruby (charSpan 1): なが}長い{ruby (charSpan 1): め}目で{ruby (charSpan 1): み}見てほしいの{pause 30}	{emote: Soft Smile}{ruby (charSpan 1): すこ}少しずつでも　がんばるつもりだから！{pause 8}	{catchphrase}！

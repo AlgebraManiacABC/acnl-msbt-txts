@@ -1,41 +1,41 @@
 == 0 ==
-"001"	{Player nickname (green)}
-"002"	{0000-0002-0002-ffffff96-00}{Player name}
-"003"	{0000-0002-0002-ffffff96-00}저기～!{0000-0002-0002-64-00}{pause 30}!
-"004"	{0000-0002-0002-ffffff96-00}집에 있니～!{0000-0002-0002-64-00}{pause 30}
-"005"	뭐야～ {pause 20}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Alarmed}
-"010"	
-"011"	{emote: Happiness}
-"012"	{emote: Laughter}
-"013"	{emote: Happiness}
-"014"	{emote: Alarmed}
-"015"	{emote: Happiness}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	
-"020"	
-"021"	{emote: Happiness}
-"022"	{emote: Surprise}
-"023"	아, 맞다{pause 8}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	{emote: Soft Smile}
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	그럼 {pause 20}
-"034"	{emote: Surprise}
-"035"	{emote: Curious}
-"036"	{emote: Curious}
-"037"	
-"038"	
-"039"	
-"040"	
+"001"	{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c},{pause 10}	{Text size 150%}노～{Text size 100%}{pause 10}{Text size 150%}올～{Text size 100%}{pause 10}{Text size 150%}자!{Text size 100%}{0007-0008-0004-0096-0000}
+"002"	{Text size 150%}{Player name}{000e-000e-0008-0002-c544-0002-c57c}!{pause 30}{Text size 100%}	집에 있니～?{0007-0008-0004-0096-0000}
+"003"	{Text size 150%}저기～!{Text size 100%}{pause 30}	{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}!{0007-0008-0004-0096-0000}
+"004"	{Text size 150%}집에 있니～!{Text size 100%}{pause 30}	있으면 {pause 10}좀 나와봐～!{0007-0008-0004-0096-0000}
+"005"	뭐야～ {pause 20}있는 줄 알았는데! {pause 20}	・{pause 8}・{pause 8}・{pause 8}그냥 집에 가야겠다{0007-0008-0004-0096-0000}
+"006"	{emote: Happiness}꺄하핫!{pause 20}	내가 놀러 왔다구!
+"007"	{emote: Happiness}짜잔～!{pause 20}	{Villager's name (orange)} 등장!
+"008"	{emote: Happiness}{Greeting begin}얏호ー!{Greeting end}{pause 20}	{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}, {pause 10}있었구나～!
+"009"	{emote: Alarmed}꺄악ーーー!!{pause 30}	{emote: Shocked}바퀴벌레가 날 맞아주네{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}깜짝 놀라게 해주려고 온 건데{pause 15}	오히려 내가 더 놀랐어!!{Wait for input}	{emote: Fearful}미안하지만 {pause 10}오늘은 그냥 갈래～
+"010"
+"011"	{emote: Happiness}갑자기 와서 미안～!{pause 20}	근처에 잠깐 들렀는데{pause 10}	뭐 하나 궁금해서～
+"012"	{emote: Laughter}넘 뜬금없이 찾아와서 놀랐어?{pause 20}	{emote: Happiness}갑자기 {pause 10}{Player nickname (green)} 얼굴이{pause 5}	보고 싶더라구～!
+"013"	{emote: Happiness}가끔 {pause 10}이렇게 깜짝 놀라게 해주는 것도{pause 5}	좋을 것 같아서 왔어～
+"014"	{emote: Alarmed}오호～!{Wait for input}{emote: Happiness}지금 이 상태가{pause 15}	{Player name}의 평소 모습이란{pause 10}	말이지～? {pause 15}{catchphrase}!
+"015"	{emote: Happiness}「출동! 냉장고 긴급 확인!」{pause 10}	이런 건 안 할 테니까 {pause 10}안심해～
+"016"	{emote: Happiness}친구가 {pause 10}갑자기 찾아와도{pause 8}	망설임 없이 집을 보여줄 정도로{pause 10}	{emote: Glee}항상 {pause 5}깨끗하게 해 놓는구나～?
+"017"	{emote: Happiness}갑자기 찾아왔는데{pause 15}	싫은 소리 한 번 안 하네～{pause 5}	{emote: Love}{Player nickname (green)}{000e-000e-0008-0002-c740-0002-b294} {pause 10}천사야～!
+"018"	{emote: Happiness}너무 {pause 5}나한테 신경 안 써도 돼～!{Wait for input}	{emote: Resigned}뭐, {pause 10}써준다면{pause 10}	사양은 안 하겠지만, {pause 15}{catchphrase}
+"019"
+"020"
+"021"	{emote: Happiness}아참{pause 8}・{pause 8}・{pause 8}・{pause 20}	너를 만나게 되면 {pause 10}주려고{pause 5}	갖고 있던 거야～!{Wait for input}{emote: Glee}{0011-0003-0002-0000}인데{pause 15}	괜찮으면 {pause 5}가질래?
+"022"	{emote: Surprise}아!{pause 20}	까먹기 전에 {pause 10}줘야겠다{Wait for input}{emote: Happiness}너한테 선물하려고{pause 10}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 10} 가져왔어!
+"023"	아, 맞다{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}선물을 {pause 10}가지고 왔어!{Wait for input}{emote: Glee}{0011-0003-0002-0000}{000e-000e-0006-0002-c774-0000}야!{pause 20}	맘에 들었으면 좋겠다～ {pause 15}{catchphrase}
+"024"	{emote: Happiness}아참, {pause 20}빈손으로 오기 뭐해서{pause 10}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 5}	가져왔어～!{pause 20} {emote: Love}좀 먹어봐～!
+"025"	{emote: Happiness}아!{pause 20}	{Player nickname (green)}한테 줄{pause 10}	선물이 {pause 5}있어!	{emote: Joy}{0011-0003-0002-0000}인데{pause 10}	맘에 들면 받아줄래? {pause 15}{catchphrase}!{pause 30}{emote: Soft Smile}
+"026"	{emote: Soft Smile}앗! {pause 20}혹시{pause 10}	{emote: Curious}출출하지 않아?{Wait for input}{emote: Happiness}마침 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 5}	가져왔거든～{pause 20}	사양 말고 맘껏 먹어!
+"027"
+"028"
+"029"
+"030"
+"031"	{emote: Happiness}아, {pause 20}슬슬 {pause 5}집에 가야겠다～{Wait for input}{emote: Distress}오늘은 갑자기 쳐들어와서 미안～{pause 20}	{emote: Happiness}다음엔 {pause 10}우리 집으로 놀러 와!
+"032"	{emote: Happiness}그럼 {pause 20}이제 돌아갈게～{Wait for input}오늘은 갑자기 왔는데{pause 10}	{emote: Joy}대접을 잘해줘서 {pause 10}정말 고마워!{pause 40}{emote: Soft Smile}
+"033"	그럼 {pause 20}	{emote: Happiness}{Player nickname (green)}의 얼굴도 봤으니{pause 10}	그만 돌아갈게!{Wait for input}{emote: Distress}약속도 안 하고 놀러 와서 {pause 5}미안～!{pause 20}	{emote: Glee}진짜 재밌었어! {pause 20}다음에 또 올게～
+"034"	{emote: Surprise}아, {pause 20}나가려고?{Wait for input}	{emote: Happiness}그럼 {pause 10}나도 집에 가야겠다{pause 20}	오늘은 {pause 10}{emote: Greetings}정말 고마웠어!
+"035"	{emote: Curious}응? {pause 20}혹시 {pause 10}어디 가니?{Wait for input}	{emote: Happiness}그럼 {pause 10}나도 돌아가야겠다{pause 10}	같이 나가자～!	{emote: Glee}오늘은 정말 즐거웠어{pause 20}	고마워ー! {pause 20}{catchphrase}!
+"036"	{emote: Curious}응?! {pause 30}혹시 약속이라도 있었어?{Wait for input}{emote: Distress}어떡해～ 미안 미안!{pause 20}	진작 {pause 10}말해주지 그랬어～!{Wait for input}{emote: Happiness}그럼 난 {pause 10}이만 돌아갈게{pause 20}	같이 {pause 10}놀아줘서 땡큐!
+"037"
+"038"
+"039"
+"040"

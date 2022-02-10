@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Glee}
-"002"	ねぇ、{pause 20}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Resigned}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Greetings}
-"010"	{emote: Worry}
-"011"	{emote: Laughter}
-"012"	{emote: Love}
+"001"	{emote: Glee}いつも　おせわになってる　キミに{pause 20}	プレゼント{pause 8}　フォ～{pause 8}　ユ～！{Wait for input}{emote: Happiness}{0011-0003-0002-0000}　だよぉ！{pause 20}	うけとってぇ、{pause 8}{catchphrase}
+"002"	ねぇ、{pause 20}{Player nickname (green)}{0005-000d-0000}{Wait for input}{emote: Happiness}キミが　ず～っとさがしてた	{0011-0003-0002-0000}を	ついに{ruby (charSpan 1): み}見つけたよぉ{Player can respond (0005):0005-0000-000a-0028}	なんだっけ？	さがしてない！
+"003"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 20}	さっきは　ユメの{ruby (charSpan 1): なか}中で　ボクのこと	たすけてくれてありがとぉ～{Wait for input}{emote: Glee}{0005-0011-0002-0000}のせんしゅ　30{ruby (charSpan 1): にん}人に	おしくらまんじゅう　されてるところを、{pause 20}	キミが　すくってくれたんだよぉ～{Wait for input}{emote: HotWithSleeves}ボク{pause 20}　あつくて　あつくて、{pause 20}	ホントに　くるしかったんだぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}あの{ruby (charSpan 1): とき}時のおれいに{pause 20}	この　{0011-0003-0002-0000}	あげちゃうねぇ、{pause 8}{catchphrase}
+"004"	{emote: Happiness}ボクだって　たまには{pause 20}	キミの　やくに{ruby (charSpan 1): た}立たないとねぇ
+"005"	{emote: Resigned}もぉ～{pause 20}	しらばっくれなくても　いいのに～{000a-0000-0006-0602-0700-cd00}
+"006"	{emote: Happiness}いっつも	おせわになってるからねぇ～{Wait for input}かんしゃのきもち　だよぉ！{pause 20}	はい　ど～ぞ、{pause 8}{catchphrase}
+"007"	{emote: Happiness}もっと　なかよく　なりたいからねぇ～{pause 20}	コレは　おともだちのしるし　だよぉ～
+"008"	{emote: Happiness}また　{ruby (charSpan 1): なに}何か{ruby (charSpan 1): み}見つけたら	プレゼントするねぇ～{pause 20}	お{ruby (charSpan 1): たの}楽しみにぃ、{pause 8}{catchphrase}
+"009"	{emote: Greetings}これからも　よろしくねぇ、{pause 8}{catchphrase}
+"010"	{emote: Worry}あれぇ～？{pause 20}	もしかして	ボクの　かんちがい？{Wait for input}{emote: Thought}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	でも{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}やっぱり	コレ　もらってぇ～
+"011"	{emote: Laughter}きっと　ほしかったのに{pause 20}	わすれてるんだよぉ、{pause 8}{catchphrase}{pause 8}{emote: Happiness}
+"012"	{emote: Love}えへへ～{pause 20}	ユメの{ruby (charSpan 1): なか}中の　{Player nickname (green)}{0005-000d-0000}、	すっごく　かっこよかったよぉ～

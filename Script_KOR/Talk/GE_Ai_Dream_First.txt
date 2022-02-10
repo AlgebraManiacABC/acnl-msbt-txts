@@ -1,6 +1,6 @@
 == 0 ==
-"001"	처음 보는 얼굴인데, {pause 20}
-"002"	{emote: Curious}
-"003"	{emote: Curious}
-"004"	{emote: Thought}
-"005"	{emote: Happiness}
+"001"	처음 보는 얼굴인데, {pause 20}	다른 마을에서 {emote: Curious}놀러 왔어?{Wait for input}	{emote: Happiness}재밌게 놀다 가, {pause 15}{catchphrase}!
+"002"	{emote: Curious}응?{pause 30}	혹시{pause 10}	다른 곳에서 온 손님?	{emote: Glee}이곳은 꿈처럼 즐거운 곳이야!{pause 30}	마음껏 놀다 가～ {pause 15}{catchphrase}!
+"003"	{emote: Curious}어라?{pause 30}	{emote: Reset}처음 보는 얼굴인데?{pause 20}	{catchphrase}!	{emote: Happiness}혹시 손님?!{pause 30}	사양 말고 이곳저곳 둘러보고 가
+"004"	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 30}	나랑 {emote: Curious}처음 만나지? {pause 15}{catchphrase}?{Wait for input}{emote: Sheepishness}어쩐지 요즘엔{pause 10}	꿈이랑 현실을{pause 10}	구분하기가 힘들어!
+"005"	{emote: Happiness}못 보던 사람이네～!{Wait for input}	{emote: Inspired}혹시 {pause 10}내 팬이야?{Wait for input}{emote: Glee}나를 직접 보다니 꿈만 같지?{pause 30}	{emote: Laughter}축하해!{pause 8}{emote: Soft Smile}

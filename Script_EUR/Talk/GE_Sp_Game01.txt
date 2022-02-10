@@ -1,65 +1,65 @@
 == 0 ==
-"001"	{emote: Delight}
-"002"	{emote: Glare}
-"003"	One{pause 8}
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Mistaken}
-"008"	{emote: Distress}
-"009"	{emote: Joy}
-"010"	
-"011"	{emote: Sadness}
-"012"	It feels SO good to be the winner,	{catchphrase}
+"001"	{emote: Delight}Oooh, the heat is on!{pause 8} It's winner	takes all—just {Blue}1 round{Color Reset}. {emote: Happiness}But if we	tie, we get to go again!
+"002"	{emote: Glare}You're in for some trouble now!{pause 8}	{emote: Happiness}OK, whoever reaches {Blue}{Number (0x6)} wins {Color Reset}first	will be named the grand champ!
+"003"	One{pause 8}.{pause 8}.{pause 8}. Two{pause 20}.{pause 20}.{pause 20}.{000f-0001-0006-0000-0000-0000}	Rock!	Scissors!	Paper!
+"004"	{0007-000b-0000}ROCK!
+"005"	{0007-000b-0000}SCISSORS!
+"006"	{0007-000b-0000}PAPER!
+"007"	{emote: Mistaken}Uh-oh! And I totally thought mine	would win too!
+"008"	{emote: Distress}Ohmigosh! A tie! {Wait for input}{emote: Resigned}Well, that won't	do. Let's try again!
+"009"	{emote: Joy}Woo! Go, {Villager's name (orange)}!
+"010"
+"011"	{emote: Sadness}Losing isn't fun at all. If you ask	me, it kinda stinks, {catchphrase}.
+"012"	It feels SO good to be the winner,	{catchphrase}!
 == 1 ==
-"001"	{emote: Delight}
-"002"	{emote: Happiness}
-"003"	A la de tres.{pause 20}
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Mistaken}
-"008"	{emote: Distress}
-"009"	{emote: Joy}
-"010"	
-"011"	{emote: Worry}
-"012"	{emote: Laughter}
+"001"	{emote: Delight}¿Preparad{o/a}? ¡Más te vale!{pause 8} Porque	solo habrá {Blue}una ronda{Color Reset}. {emote: Happiness}A no ser	que empatemos, claro.
+"002"	{emote: Happiness}{El primero/La primera} que gane {Blue}{Number (0x6)} rondas{Color Reset}	será {el campeón/la campeona} definitiv{o/a}.{pause 20}	{emote: Glare}¡Prepárate!{pause 8}
+"003"	A la de tres.{pause 20}	Una{pause 8}.{pause 8}.{pause 8}. dos{pause 8}.{pause 8}.{pause 8}. ¡y tres!{pause 20}{000f-0001-0006-0000-0000-0000}	Piedra	Tijera	Papel
+"004"	{0007-000b-0000}¡PIEDRA!
+"005"	{0007-000b-0000}¡TIJERA!
+"006"	{0007-000b-0000}¡PAPEL!
+"007"	{emote: Mistaken}¡Ay, nooo! ¡Estaba superconvencida	de que ganaría yo!
+"008"	{emote: Distress}¡Qué fuerte! ¡Empate!{Wait for input}	{emote: Resigned}Habrá que jugar otra vez.
+"009"	{emote: Joy}¡Síii! ¡Viva {Villager's name (orange)}!{pause 20}	O sea, ¡viva yo!
+"010"
+"011"	{emote: Worry}Perder no mola nada.{pause 20}	Qué rollo, {catchphrase}.
+"012"	{emote: Laughter}¡Soy la mejor, {catchphrase}!
 == 2 ==
-"001"	{emote: Delight}
-"002"	{emote: Glare}
-"003"	Un{pause 8}
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Mistaken}
-"008"	{emote: Distress}
-"009"	{emote: Joy}
-"010"	
-"011"	{emote: Sadness}
-"012"	{emote: Laughter}
+"001"	{emote: Delight}On va bien s'amuser !{pause 8} {Celui/Celle} qui	gagne a gagné !{pause 40} {emote: Curious}Euh{pause 10}.{pause 10}.{pause 10}. {emote: Happiness}On fait {Blue}un	seul round{Color Reset}, quoi !
+"002"	{emote: Glare}Tu trembles de peur, hein ?{pause 8} Hé hé	hé ! {emote: Happiness}Il faut faire {Blue}{Number (0x6)} points {Color Reset}pour	gagner !
+"003"	Un{pause 8}.{pause 8}.{pause 8}. deux{pause 20}.{pause 20}.{pause 20}.{000f-0001-0006-0000-0000-0000}	Pierre !	Ciseaux !	Papier !
+"004"	{0007-000b-0000}PIERRE !
+"005"	{0007-000b-0000}CISEAUX !
+"006"	{0007-000b-0000}PAPIER !
+"007"	{emote: Mistaken}Ah naaaaan !{pause 20} J'étais sûre de gagner	pourtant !
+"008"	{emote: Distress}Non, pas une égalité !{Wait for input} {emote: Resigned}C'est trop	nul{pause 10}.{pause 10}.{pause 10}.{pause 20} {emote: Delight}Allez, on recommence !
+"009"	{emote: Joy}Youhou ! Je suis la meilleure ! Vive	{Villager's name (orange)} !
+"010"
+"011"	{emote: Sadness}Bon ben, t'as gagné.{pause 40} {emote: Worry}Bravo,	{pause 10}{catchphrase}...
+"012"	{emote: Laughter}Pour {Villager's name (orange)}, hip hip hip...{pause 20}	Hourra ! {pause 10}{capitalized}{catchphrase} !
 == 3 ==
-"001"	{emote: Delight}
-"002"	{emote: Glare}
-"003"	Bim{pause 8}
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Mistaken}
-"008"	{emote: Distress}
-"009"	{emote: Joy}
-"010"	
-"011"	{emote: Sadness}
-"012"	{emote: Laughter}
+"001"	{emote: Delight}Che storia! Dai che si gioca!{pause 8}	Si decide tutto in un'{Blue}unica mano{Color Reset}.	{emote: Happiness}Se pareggiamo, però, si ripete!
+"002"	{emote: Glare}Preparati a perdere!{pause 8}	{emote: Happiness}OK, vince {il primo/la prima} che si aggiudica	{Blue}{Number (0x6)} mani{Color Reset}!
+"003"	Bim{pause 8}.{pause 8}.{pause 8}. bum{pause 20}.{pause 20}.{pause 20}. bam{pause 8}!{000f-0001-0006-0000-0000-0000}	Sasso!	Forbici!	Carta!
+"004"	{0007-000b-0000}SASSO!
+"005"	{0007-000b-0000}FORBICI!
+"006"	{0007-000b-0000}CARTA!
+"007"	{emote: Mistaken}Uffa! Ero troppo convinta	di vincere! Che pizza!
+"008"	{emote: Distress}Che storia! Un pareggio! {Wait for input}{emote: Resigned}Cioè, non	esiste proprio! Rifacciamo!
+"009"	{emote: Joy}Spettacolo! Vai {Villager's name (orange)}!
+"010"
+"011"	{emote: Sadness}Ho perso! Che barba, {catchphrase}.
+"012"	{emote: Laughter}Evvai! Che storia! Sono troppo	forte, {catchphrase}!
 == 4 ==
-"001"	{emote: Delight}
-"002"	{emote: Glare}
-"003"	Eins{pause 5}
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Mistaken}
-"008"	{emote: Distress}
-"009"	{emote: Joy}
-"010"	
-"011"	{emote: Sadness}
-"012"	Gewinnen fühlt sich so gut an,	{pause 10}
+"001"	{emote: Delight}Oho, jetzt geht's ans Eingemachte!	{pause 20}Der Sieger kriegt alles! {pause 20}Wir spielen	nur {Blue}eine Runde{Color Reset}.	{emote: Happiness}Außer bei einem Unentschieden...	{pause 20}Dann spielen wir noch eine Runde!
+"002"	{emote: Glare}Mach dich auf was gefasst, hihi!	{pause 20}{emote: Happiness}Okay, wer zuerst {Blue}{Number (0x6)}-mal {Color Reset}gewinnt,	darf sich Oberguru nennen!
+"003"	Eins{pause 5}.{pause 5}.{pause 5}. {pause 20}zwei{pause 5}.{pause 5}.{pause 5}.{000f-0001-0006-0000-0000-0000}	Stein!	Schere!	Papier!
+"004"	{0007-000b-0000}STEIN!
+"005"	{0007-000b-0000}SCHERE!
+"006"	{0007-000b-0000}PAPIER!
+"007"	{emote: Mistaken}Oh, oh! {pause 20}Und ich war mir so sicher,	dass ich gewinnen würde!
+"008"	{emote: Distress}Oh, wow! {pause 20}Unentschieden!{Wait for input}	{pause 20}{emote: Resigned}Tja, das geht natürlich nicht.	{pause 20}Noch mal!
+"009"	{emote: Joy}Wuuhuu! {pause 20}Spitzenmäßig, {Villager's name (orange)}!
+"010"
+"011"	{emote: Sadness}Verlieren macht mal überhaupt	keinen Spaß... {pause 20}So gemein,	{pause 10}{catchphrase}!
+"012"	Gewinnen fühlt sich so gut an,	{pause 10}{catchphrase}!

@@ -1,23 +1,23 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{0011-0000-0002-00-00}
-"004"	そうそう、{pause 16}
-"005"	そうそう、{pause 16}
-"006"	そうそう、{pause 16}
-"007"	そうそう、{pause 16}
-"008"	{emote: Worry}
-"009"	{emote: Worry}
-"010"	さっき、{pause 8}
-"011"	アナタ　{ruby (charSpan 1): し}知ってる？{pause 32}
-"012"	そうそう、{pause 16}
-"013"	そうそう、{pause 16}
-"014"	そうそう、{pause 16}
-"015"	そうそう、{pause 16}
-"016"	こないだ　{pause 8}
-"017"	そうそう、{pause 16}
-"018"	
-"019"	
-"020"	
-"021"	{emote: Sunny}
-"022"	{emote: Worry}
+"001"	{emote: Soft Smile}そうそう、{pause 16}アナタの{ruby (charSpan 1): ねが}願いごと{pause 16}	「{0012-0014-0000}」{pause 32}	だったわよね？　{pause 8}{Player nickname (green)}{0005-000d-0000}？	あれから　{pause 8}{emote: Curious}どうなったの？	{pause 8}{catchphrase}？{Player can respond (0005):0015-0015-0016-0028}	いいカンジ	イマイチ
+"002"	{emote: Worry}ねぇ、アナタ{pause 16}	{Player rumor}だって{pause 32}	うわさになってるわよ？	{emote: Glare}{ruby (charSpan 1): よ}良かったじゃない？{pause 30}	{emote: Sheepishness}それなりに　{pause 15}{ruby (charSpan 2): ちゅうもく}注目されている	ってこと　じゃないかしら？
+"003"	{0011-0000-0002-0000}{0005-000d-0000}の{ruby (charSpan 1): ねが}願いごとは、{pause 16}	「{0012-0014-0000}」{pause 32}	ってこと　らしいわよ、{pause 8}{catchphrase}	{emote: Soft Smile}ステキな{ruby (charSpan 1): ねが}願いごとよね？{pause 32}	{emote: Thought}{pause 16}かなうと　いいんだけれど{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"004"	そうそう、{pause 16}{ruby (charSpan 2): らいげつ}来月は	{0011-0000-0002-0000}{0005-000d-0000}の{ruby (charSpan 3): たんじょうび}誕生日があるわね{Wait for input}	アナタ、{pause 8}{emote: Curious}{ruby (charSpan 1): なに}何あげるか　{ruby (charSpan 1): き}決めた？	{emote: Worry}アタシは　まだ{ruby (charSpan 1): まよ}迷ってるの{pause 32}	{emote: Thought}{pause 16}サプライズで　あげるプレゼントって{pause 16}	{ruby (charSpan 1): えら}選ぶのが　{ruby (charSpan 1): むずか}難しいのよねぇ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"005"	そうそう、{pause 16}もうすぐ	{0011-0000-0002-0000}{0005-000d-0000}の{ruby (charSpan 3): たんじょうび}誕生日だったわね{Wait for input}	アナタ、{pause 8}{emote: Curious}{ruby (charSpan 1): なに}何あげるか　{ruby (charSpan 1): き}決めた？	{emote: Worry}アタシは　まだ{ruby (charSpan 1): まよ}迷ってるの{pause 32}	{emote: Thought}{pause 16}サプライズで　あげるプレゼントって{pause 16}	{ruby (charSpan 1): えら}選ぶのが　{ruby (charSpan 1): むずか}難しいのよねぇ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"006"	そうそう、{pause 16}{ruby (charSpan 2): あした}明日は	{0011-0000-0002-0000}{0005-000d-0000}の{ruby (charSpan 3): たんじょうび}誕生日だったわね{Wait for input}	アナタ、{pause 8}{emote: Curious}{ruby (charSpan 1): なに}何あげるか　{ruby (charSpan 1): き}決めた？	{emote: Worry}アタシは　まだ{ruby (charSpan 1): まよ}迷ってるの{pause 32}	{emote: Thought}{pause 16}サプライズで　あげるプレゼントって{pause 16}	{ruby (charSpan 1): えら}選ぶのが　{ruby (charSpan 1): むずか}難しいのよねぇ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"007"	そうそう、{pause 16}{ruby (charSpan 2): きょう}今日は{pause 8}	{0011-0000-0002-0000}{0005-000d-0000}の{ruby (charSpan 3): たんじょうび}誕生日ね{Wait for input}	アナタ、{pause 8}{emote: Curious}プレゼントは{ruby (charSpan 2): ようい}用意した？	{emote: Soft Smile}アタシは　もう{ruby (charSpan 2): ようい}用意したわよ{pause 32}	{emote: Thought}{pause 16}あとは　あげるタイミングだけ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{0011-0000-0002-0000}{0005-000d-0000}、{pause 16}{ruby (charSpan 1): よろこ}喜ぶかしら？
+"008"	{emote: Worry}そういえば　{ruby (charSpan 2): さいきん}最近、{pause 16}	{0011-0000-0002-0000}{0005-000d-0000}を{ruby (charSpan 1): み}見ないわね{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Thought}{pause 16}{ruby (charSpan 2): そんちょう}村長としての{ruby (charSpan 2): じかく}自覚が{pause 16}	{ruby (charSpan 1): た}足りないんじゃないかしら？	{pause 8}{catchphrase}？
+"009"	{emote: Worry}そういえば　{ruby (charSpan 2): さいきん}最近、{pause 16}	{0011-0000-0002-0000}{0005-000d-0000}を{ruby (charSpan 1): み}見ないわね{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Shyness}もし{ruby (charSpan 1): あ}会ったら、{pause 8}{ruby (charSpan 1): つた}伝えてもらえる？{pause 32}	{Villager's name (orange)}が　{ruby (charSpan 1): さび}寂しがってたって
+"010"	さっき、{pause 8}{0011-0000-0002-0000}{0005-000d-0000}にも{pause 16}	{ruby (charSpan 1): あ}会ったんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}そういえば、{pause 8}アナタ{ruby (charSpan 1): たち}達　{ruby (charSpan 2): ふたり}二人って{pause 16}	なんとなく　{ruby (charSpan 1): に}似てるわよね？　	{pause 8}{catchphrase}？	{emote: Anger}{ruby (charSpan 1): おな}同じニオイがするわ{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}{ruby (charSpan 1): き}気のせいかしら？
+"011"	アナタ　{ruby (charSpan 1): し}知ってる？{pause 32}	{0011-0000-0002-0000}{0005-000d-0000}の{ruby (charSpan 1): ねが}願い{Wait for input}{emote: Soft Smile}{000e-0005-0012-0008-3042-306e-30d2-30c8-0006-3042-306e-30b3}の{ruby (charSpan 1): ねが}願いは、{pause 16}	「{0012-0014-0000}」{pause 16}	ってことらしいわ、{pause 8}{catchphrase}	{emote: Sheepishness}アナタに　できることがないか、{pause 16}	{ruby (charSpan 1): かんが}考えてみたら　どうかしら？{pause 8}	{Player nickname (green)}{0005-000d-0000}？	{emote: Shyness}アタシには　こうやって{pause 16}	{ruby (charSpan 1): つた}伝えることしか　できないけど、{pause 16}	きっと　アナタなら{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"012"	そうそう、{pause 16}{ruby (charSpan 2): らいげつ}来月　{Date-cd00}{ruby (charSpan 1): にち}日は{pause 16}	{0011-0000-0002-0000}{0005-000d-0000}の{ruby (charSpan 3): たんじょうび}誕生日よ{Wait for input}	アナタ、{pause 8}{emote: Curious}{ruby (charSpan 1): し}知ってたかしら？	{emote: Sheepishness}ま、{pause 8}そういうのって{pause 16}	{ruby (charSpan 2): じぶん}自分から　{ruby (charSpan 1): い}言うのって{pause 16}	{ruby (charSpan 1): い}言いにくいからね～、{pause 8}{catchphrase}	{emote: Soft Smile}それじゃ　{ruby (charSpan 1): つた}伝えたわよ{pause 32}	あとは　アナタ{ruby (charSpan 2): しだい}次第{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}がんばってね、{pause 8}{Player nickname (green)}{0005-000d-0000}
+"013"	そうそう、{pause 16}もうすぐ	{0011-0000-0002-0000}{0005-000d-0000}の{ruby (charSpan 3): たんじょうび}誕生日よ{Wait for input}	アナタ、{pause 8}{emote: Curious}{ruby (charSpan 1): し}知ってたかしら？	{emote: Sheepishness}ま、{pause 8}そういうのって{pause 16}	{ruby (charSpan 2): じぶん}自分から　{ruby (charSpan 1): い}言うのって{pause 16}	{ruby (charSpan 1): い}言いにくいからね～、{pause 8}{catchphrase}	{emote: Soft Smile}それじゃ　{ruby (charSpan 1): つた}伝えたわよ{pause 32}	あとは　アナタ{ruby (charSpan 2): しだい}次第{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}がんばってね、{pause 8}{Player nickname (green)}{0005-000d-0000}
+"014"	そうそう、{pause 16}{ruby (charSpan 2): あした}明日は	{0011-0000-0002-0000}{0005-000d-0000}の{ruby (charSpan 3): たんじょうび}誕生日だったわね{Wait for input}	アナタ、{pause 8}{emote: Curious}{ruby (charSpan 1): し}知ってたかしら？	{emote: Sheepishness}ま、{pause 8}そういうのって{pause 16}	{ruby (charSpan 2): じぶん}自分から　{ruby (charSpan 1): い}言うのって{pause 16}	{ruby (charSpan 1): い}言いにくいからね～、{pause 8}{catchphrase}	{emote: Soft Smile}それじゃ　{ruby (charSpan 1): つた}伝えたわよ{pause 32}	あとは　アナタ{ruby (charSpan 2): しだい}次第{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}がんばってね、{pause 8}{Player nickname (green)}{0005-000d-0000}
+"015"	そうそう、{pause 16}{ruby (charSpan 2): きょう}今日は	{0011-0000-0002-0000}{0005-000d-0000}の{ruby (charSpan 3): たんじょうび}誕生日ね{Wait for input}	{emote: Soft Smile}アタシは　プレゼントを{ruby (charSpan 2): じゅんび}準備したわ	{emote: Sheepishness}アナタも　{000e-0005-0012-0008-3042-306e-30d2-30c8-0006-3042-306e-30b3}のために{pause 16}	{ruby (charSpan 1): なに}何かしてあげたら　どうかしら？{Wait for input}	{emote: Sunny}{ruby (charSpan 3): だいじょうぶ}大丈夫！　{pause 16}きっと{ruby (charSpan 1): よろこ}喜ぶわよ！
+"016"	こないだ　{pause 8}{0011-0002-0002-0000}{ruby (charSpan 1): むら}村の{pause 8}	{0011-0000-0002-0000}{0005-000d-0000}って{ruby (charSpan 1): ひと}人が{pause 16}	アタシの　{ruby (charSpan 1): ゆめ}夢に{ruby (charSpan 1): で}出てきたわよ	{emote: Thought}{pause 16}{000e-0005-0012-0008-3042-306e-30d2-30c8-0006-3042-306e-30b3}{pause 8}・{pause 8}・{pause 8}・{pause 8}	{0011-0004-0002-0000}って{ruby (charSpan 1): かん}感じ	だったわ、{pause 32}{emote: Soft Smile}また{ruby (charSpan 1): あ}会えるかしら？
+"017"	そうそう、{pause 16}こないだ	{0011-0002-0002-0000}{ruby (charSpan 1): むら}村の{pause 8}　{0011-0000-0002-0000}{0005-000d-0000}が{pause 32}	アタシの{ruby (charSpan 1): ゆめ}夢に　{ruby (charSpan 1): で}出てきたわよ	{emote: Daydreaming}{pause 16}{ruby (charSpan 1): ゆめ}夢の{ruby (charSpan 1): なか}中の　{000e-0005-0012-0008-3042-306e-30d2-30c8-0006-3042-306e-30b3}{pause 8}・{pause 8}・{pause 8}・{pause 8}	{0011-0004-0002-0000}って{ruby (charSpan 1): かん}感じ	だったわ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"018"
+"019"
+"020"
+"021"	{emote: Sunny}{ruby (charSpan 1): よ}良かったじゃない！{pause 8}	{Player nickname (green)}{0005-000d-0000}！{Wait for input}{emote: Sheepishness}アナタの{ruby (charSpan 1): ねが}願いが　かなうように{pause 16}	アタシが　みんなに{pause 16}	{ruby (charSpan 1): い}言いふらしてる　おかげかしら？
+"022"	{emote: Worry}そう{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 2): ざんねん}残念ね{Wait for input}{emote: Soft Smile}でも、アナタのこと{pause 16}	ずっと　{ruby (charSpan 1): おう}応えんしてるから{pause 8}・{pause 8}・{pause 8}・{pause 8}

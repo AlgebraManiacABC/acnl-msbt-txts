@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Glee}
-"002"	{emote: Surprise}
-"003"	{emote: Happiness}
+"001"	{emote: Glee}{Greeting begin}ヤッホー、{pause 10}{Player nickname (green)}{0005-000d-0000}{Greeting end}{Wait for input}{emote: Happiness}{ruby (charSpan 1): いま}今、{pause 10}{0011-0001-0002-0000}{0005-000d-0000}も{ruby (charSpan 1): き}来てるから{pause 8}	いっしょに　{ruby (charSpan 1): あそ}遊ぼっ！{pause 20}	{catchphrase}！
+"002"	{emote: Surprise}わぁ！　{pause 20}{Player nickname (green)}{0005-000d-0000}も	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくれたの？{Wait for input}{emote: Glee}{0011-0001-0002-0000}{0005-000d-0000}もいるし、{pause 10}	ゆっくりしてってね、{pause 15}{catchphrase}
+"003"	{emote: Happiness}いらっしゃ～い！{Wait for input}	{0011-0001-0002-0000}{0005-000d-0000}も	{ruby (charSpan 1): き}来たとこだよ、{pause 15}{catchphrase}

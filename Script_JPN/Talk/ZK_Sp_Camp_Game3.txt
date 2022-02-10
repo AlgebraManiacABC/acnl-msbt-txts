@@ -1,38 +1,38 @@
 == 0 ==
-"001"	キミが{ruby (charSpan 1): も}持ってる{pause 16}!
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Sunny}
-"007"	{emote: Showmanship}
-"008"	{emote: Sunny}
-"009"	{emote: Agreement}
-"010"	{0009-0002-0008-0c-00-0c-00-0c-00-0d-00}
-"011"	{0009-0002-0008-0e-00-0e-00-0e-00-0f-00}
-"012"	さて{pause 8}
-"013"	さて{pause 8}
-"014"	さて{pause 8}
-"015"	さて{pause 8}
-"016"	{emote: Happiness}
-"017"	{0009-0002-0008-13-00-13-00-14-00-14-00}
-"018"	{0009-0002-0008-15-00-15-00-16-00-16-00}
-"019"	さて{pause 8}
-"020"	さて{pause 8}
-"021"	さて{pause 8}
-"022"	さて{pause 8}
-"023"	{emote: Glee}
-"024"	{0009-0002-0008-1a-00-1b-00-1b-00-1b-00}
-"025"	{0009-0002-0008-1c-00-1d-00-1d-00-1d-00}
-"026"	さて{pause 8}
-"027"	さて{pause 8}
-"028"	さて{pause 8}
-"029"	さて{pause 8}
-"030"	{0009-0001-0006-20-00-21-00-22-00}
-"031"	{0009-0001-0006-23-00-24-00-25-00}
-"032"	{emote: Soft Smile}
-"033"	{emote: Soft Smile}
-"034"	{emote: Sheepishness}
-"035"	{emote: Sheepishness}
-"036"	{emote: Sheepishness}
-"037"	{emote: Sheepishness}
+"001"	キミが{ruby (charSpan 1): も}持ってる{pause 16}	その　{0011-0003-0002-0000}をかけて{pause 16}	『{Villager's name (orange)}ゲーム』を　しないか？	{0007-000d-0000}{emote: Soft Smile}キミが　{ruby (charSpan 1): か}勝つことができたら、{pause 16}	キミの　{0011-0003-0002-0000}を{pause 16}	{ruby (charSpan 1): たか}高く{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取ってあげるよ{Player can respond (0005):0007-0015-0002-0028}	やるやる！	また{ruby (charSpan 2): こんど}今度ね
+"002"	{emote: Worry}{ruby (charSpan 2): ざんねん}残念{pause 8}・{pause 8}・{pause 8}・{pause 8}キミの{ruby (charSpan 1): き}気が{ruby (charSpan 1): か}変わるのを{pause 8}	{ruby (charSpan 1): ま}待っているよ、{pause 8}{catchphrase}
+"003"	{emote: Worry}{ruby (charSpan 2): ざんねん}残念{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 3): ふせいかい}不正解だ{Wait for input}	{ruby (charSpan 1): わる}悪いけど、{ruby (charSpan 2): やくそく}約束どおり{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取らせてもらうね
+"004"	{emote: Worry}{ruby (charSpan 2): ざんねん}残念{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 3): ふせいかい}不正解だ{Wait for input}	{ruby (charSpan 1): わる}悪いけど、{ruby (charSpan 2): やくそく}約束どおり	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取らせてもらうね
+"005"	{emote: Worry}{ruby (charSpan 2): ざんねん}残念{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 3): ふせいかい}不正解だ{Wait for input}	{emote: Soft Smile}おしかったね、{pause 16}あと1{ruby (charSpan 1): かい}回で	パーフェクトだったのに	{emote: Reset}でも、{ruby (charSpan 2): やくそく}約束だから{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取らせてもらうよ
+"006"	{emote: Sunny}アンビリーバブル！{pause 16}	3{ruby (charSpan 2): かいめ}回目も　{ruby (charSpan 2): せいかい}正解だ！{Wait for input}{emote: Soft Smile}パーフェクトを{ruby (charSpan 2): きねん}記念して{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取るよ！
+"007"	{emote: Showmanship}よし、{pause 16}じゃあ　さっそく{pause 8}	ルールを　{ruby (charSpan 2): せつめい}説明しようか？	{pause 8}{catchphrase}？{Player can respond (0005):0008-0015-0009-0028}	お{ruby (charSpan 1): ねが}願いします	{ruby (charSpan 1): し}知ってるよ！
+"008"	{emote: Sunny}オーケー！　{pause 32}それじゃあ、{pause 16}	ルールを　{ruby (charSpan 2): せつめい}説明するよ{Wait for input}	{emote: Reset}ココに　サイコロが1つある{pause 8}・{pause 8}・{pause 8}・{pause 8}	これを　{ruby (charSpan 2): さいだい}最大3{ruby (charSpan 1): かい}回ふるから、{pause 16}	キミは　サイコロの{ruby (charSpan 1): め}目の{ruby (charSpan 1): かず}数が{pause 16}	{ruby (charSpan 2): ぐうすう}偶数か{ruby (charSpan 2): きすう}奇数か　{ruby (charSpan 2): よそう}予想するんだ	{ruby (charSpan 1): あ}当てれば　{ruby (charSpan 1): あ}当てるほど、{pause 16}	{0011-0003-0002-0000}の{pause 8}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取り{ruby (charSpan 1): がく}額は　{ruby (charSpan 1): あ}上がる{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}でも、ハズれた{ruby (charSpan 2): ばあい}場合は{pause 16}	その{ruby (charSpan 2): じてん}時点での　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取り{ruby (charSpan 1): がく}額で{pause 16}	{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取らせて　もらうからね	{emote: Anger}さぁ、{pause 8}まずは1{ruby (charSpan 1): かい}回{ruby (charSpan 1): め}目だ！{Wait for input}	これが　ハズれた{ruby (charSpan 2): ばあい}場合は、{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうよ	{emote: Reset}さぁ、{pause 16}{emote: Curious}どっちにする？	{pause 8}{catchphrase}？{Player can respond (0000):000a-0000-000b-0000}	{ruby (charSpan 2): ぐうすう}偶数	{ruby (charSpan 2): きすう}奇数
+"009"	{emote: Agreement}そうか、{pause 16}このゲーム	{ruby (charSpan 1): まえ}前に　やったことあるんだね？{Wait for input}{emote: Anger}じゃあ、{pause 8}まずは1{ruby (charSpan 1): かい}回{ruby (charSpan 1): め}目だ！{Wait for input}	これが　ハズれた{ruby (charSpan 2): ばあい}場合は、{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうよ	{emote: Reset}さぁ、{pause 16}{emote: Curious}どっちにする？	{pause 8}{catchphrase}？{Player can respond (0000):000a-0000-000b-0000}	{ruby (charSpan 2): ぐうすう}偶数	{ruby (charSpan 2): きすう}奇数
+"010"	{0009-0002-0008-000c-000c-000c-000d}
+"011"	{0009-0002-0008-000e-000e-000e-000f}
+"012"	さて{pause 8}・{pause 8}・{pause 8}・{pause 8}と、{pause 16}	それじゃあ　1{ruby (charSpan 2): かいめ}回目は、{pause 16}	どちらかな？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}よし、{pause 8}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Soft Smile}サイコロの{ruby (charSpan 1): め}目は　{Number (0x9)}だ！{pause 32}	つまり　{ruby (charSpan 2): ぐうすう}偶数ってことだね
+"013"	さて{pause 8}・{pause 8}・{pause 8}・{pause 8}と、{pause 16}	それじゃあ　1{ruby (charSpan 2): かいめ}回目は、{pause 16}	どちらかな？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}よし、{pause 8}{ruby (charSpan 1): で}出た！{pause 32}	サイコロの{ruby (charSpan 1): め}目は　{Number (0x9)}だ！	つまり　{ruby (charSpan 2): きすう}奇数ってことだね
+"014"	さて{pause 8}・{pause 8}・{pause 8}・{pause 8}と、{pause 16}	それじゃあ　1{ruby (charSpan 2): かいめ}回目は、{pause 16}	どちらかな？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}よし、{pause 8}{ruby (charSpan 1): で}出た！{pause 32}	サイコロの{ruby (charSpan 1): め}目は　{Number (0x9)}だ！	つまり　{ruby (charSpan 2): きすう}奇数ってことだね
+"015"	さて{pause 8}・{pause 8}・{pause 8}・{pause 8}と、{pause 16}	それじゃあ　1{ruby (charSpan 2): かいめ}回目は、{pause 16}	どちらかな？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}よし、{pause 8}{ruby (charSpan 1): で}出た！{pause 32}	サイコロの{ruby (charSpan 1): め}目は　{Number (0x9)}だ！	つまり　{ruby (charSpan 2): ぐうすう}偶数ってことだね
+"016"	{emote: Happiness}やるじゃないか？{pause 32}	1{ruby (charSpan 2): かいめ}回目　{ruby (charSpan 2): せいかい}正解だ！{Wait for input}{emote: Anger}それじゃあ、{pause 16}{ruby (charSpan 1): つづ}続いて　2{ruby (charSpan 2): かいめ}回目いくよ{pause 32}	これが　ハズれた{ruby (charSpan 2): ばあい}場合は、{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうね	{emote: Reset}さぁ、{pause 16}{emote: Curious}どっちにする？	{pause 8}{catchphrase}？{Player can respond (0000):0011-0000-0012-0000}	{ruby (charSpan 2): ぐうすう}偶数	{ruby (charSpan 2): きすう}奇数
+"017"	{0009-0002-0008-0013-0013-0014-0014}
+"018"	{0009-0002-0008-0015-0015-0016-0016}
+"019"	さて{pause 8}・{pause 8}・{pause 8}・{pause 8}と、{pause 16}	それじゃあ　2{ruby (charSpan 2): かいめ}回目は、{pause 16}	どちらかな？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}よし、{pause 8}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Soft Smile}サイコロの{ruby (charSpan 1): め}目は　{Number (0x9)}だ！{pause 32}	つまり　{ruby (charSpan 2): ぐうすう}偶数ってことだね
+"020"	さて{pause 8}・{pause 8}・{pause 8}・{pause 8}と、{pause 16}	それじゃあ　2{ruby (charSpan 2): かいめ}回目は、{pause 16}	どちらかな？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}よし、{pause 8}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Soft Smile}サイコロの{ruby (charSpan 1): め}目は　{Number (0x9)}だ！{pause 32}	つまり　{ruby (charSpan 2): きすう}奇数ってことだね
+"021"	さて{pause 8}・{pause 8}・{pause 8}・{pause 8}と、{pause 16}	それじゃあ　2{ruby (charSpan 2): かいめ}回目は、{pause 16}	どちらかな？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}よし、{pause 8}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Soft Smile}サイコロの{ruby (charSpan 1): め}目は　{Number (0x9)}だ！{pause 32}	つまり　{ruby (charSpan 2): きすう}奇数ってことだね
+"022"	さて{pause 8}・{pause 8}・{pause 8}・{pause 8}と、{pause 16}	それじゃあ　2{ruby (charSpan 2): かいめ}回目は、{pause 16}	どちらかな？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}よし、{pause 8}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Soft Smile}サイコロの{ruby (charSpan 1): め}目は　{Number (0x9)}だ！{pause 32}	つまり　{ruby (charSpan 2): ぐうすう}偶数ってことだね
+"023"	{emote: Glee}スゴイじゃないか！{pause 32}	2{ruby (charSpan 2): かいめ}回目　{ruby (charSpan 2): せいかい}正解だ！{Wait for input}	{emote: Anger}じゃあ、{pause 16}{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): つづ}続き　3{ruby (charSpan 2): かいめ}回目いくよ	これが　ハズれた{ruby (charSpan 2): ばあい}場合は、{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうよ{pause 32}	{emote: Reset}さぁ、{pause 16}{emote: Curious}どっちにする？{Player can respond (0000):0018-0000-0019-0000}	{ruby (charSpan 2): ぐうすう}偶数	{ruby (charSpan 2): きすう}奇数
+"024"	{0009-0002-0008-001a-001b-001b-001b}
+"025"	{0009-0002-0008-001c-001d-001d-001d}
+"026"	さて{pause 8}・{pause 8}・{pause 8}・{pause 8}と、{pause 16}	それじゃあ　3{ruby (charSpan 2): かいめ}回目は、{pause 16}	どちらかな？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}よし、{pause 8}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Soft Smile}サイコロの{ruby (charSpan 1): め}目は　{Number (0x9)}だ！{pause 32}	つまり　{ruby (charSpan 2): ぐうすう}偶数ってことだね
+"027"	さて{pause 8}・{pause 8}・{pause 8}・{pause 8}と、{pause 16}	それじゃあ　3{ruby (charSpan 2): かいめ}回目は、{pause 16}	どちらかな？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}よし、{pause 8}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Soft Smile}サイコロの{ruby (charSpan 1): め}目は　{Number (0x9)}だ！{pause 32}	つまり　{ruby (charSpan 2): きすう}奇数ってことだね
+"028"	さて{pause 8}・{pause 8}・{pause 8}・{pause 8}と、{pause 16}	それじゃあ　3{ruby (charSpan 2): かいめ}回目は、{pause 16}	どちらかな？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}よし、{pause 8}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Soft Smile}サイコロの{ruby (charSpan 1): め}目は　{Number (0x9)}だ！{pause 32}	つまり　{ruby (charSpan 2): きすう}奇数ってことだね
+"029"	さて{pause 8}・{pause 8}・{pause 8}・{pause 8}と、{pause 16}	それじゃあ　3{ruby (charSpan 2): かいめ}回目は、{pause 16}	どちらかな？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}よし、{pause 8}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Soft Smile}サイコロの{ruby (charSpan 1): め}目は　{Number (0x9)}だ！{pause 32}	つまり　{ruby (charSpan 2): ぐうすう}偶数ってことだね
+"030"	{0009-0001-0006-0020-0021-0022}
+"031"	{0009-0001-0006-0023-0024-0025}
+"032"	{emote: Soft Smile}{0011-0003-0002-0000}、{pause 8}{ruby (charSpan 2): だいじ}大事にするよ{pause 32}	{emote: Glare}キミだと{ruby (charSpan 1): おも}思って
+"033"	{emote: Soft Smile}これに　こりずに{pause 16}	また{ruby (charSpan 2): いっしょ}一緒に　{ruby (charSpan 1): あそ}遊んでくれるよね？	{pause 8}{catchphrase}？
+"034"	{emote: Sheepishness}キミの{ruby (charSpan 2): ちょうせん}挑戦、{pause 8}{ruby (charSpan 2): なんど}何度でも{ruby (charSpan 1): ま}待ってるよ、	{pause 8}{catchphrase}
+"035"	{emote: Sheepishness}キミの{ruby (charSpan 3): しょうぶづよ}勝負強さは　{pause 16}{ruby (charSpan 2): そんけい}尊敬に{ruby (charSpan 1): あたい}値するよ、	{pause 8}{catchphrase}
+"036"	{emote: Sheepishness}キミの　カンの{ruby (charSpan 1): つよ}強さは{pause 16}	なかなかのものだね、{pause 8}{catchphrase}
+"037"	{emote: Sheepishness}まさか　キミが{pause 16}	ここまで　やるとはねぇ、{pause 8}{catchphrase}

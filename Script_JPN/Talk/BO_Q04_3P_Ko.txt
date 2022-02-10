@@ -1,24 +1,24 @@
 == 0 ==
-"001"	{000c-0001-0000}
-"002"	{000c-0001-0000}
-"003"	{000c-0001-0000}
-"004"	{000c-0001-0000}
-"005"	{000c-0000-0000}
-"006"	{000c-0000-0000}
-"007"	{000c-0000-0000}
-"008"	
-"009"	{000c-0000-0000}
-"010"	{000c-0000-0000}
-"011"	{000c-0000-0000}
-"012"	{000c-0000-0000}
-"013"	{000c-0000-0000}
-"014"	{000c-0000-0000}
-"015"	{000c-0000-0000}
-"016"	{000c-0000-0000}
-"017"	{000c-0000-0000}
-"018"	{000c-0000-0000}
-"019"	
-"020"	{emote: Happiness}
-"021"	{emote: Agreement}
-"022"	それじゃ	{ruby (charSpan 2): ようじ}用事も{ruby (charSpan 1): す}済んだみたいだし、{pause 20}
-"023"	
+"001"	{000c-0001-0000}{000c-0004-0000}{000c-0002-0000}{000c-0006-0000}やぁ～{pause 20}	{Player nickname (green)}{0005-000d-0000}、	おかえりぃ、{pause 8}{catchphrase}{000c-0009-0000}
+"002"	{000c-0001-0000}{000c-0004-0000}{000c-0002-0000}{000c-0006-0000}あ、{Player nickname (green)}{0005-000d-0000}{pause 20}	{ruby (charSpan 1): かえ}帰ってきたぁ～{000c-0009-0000}
+"003"	{000c-0001-0000}{000c-0004-0000}{000c-0002-0000}{000c-0006-0000}えへへ～{pause 20}	{emote: Happiness}{ruby (charSpan 2): ふたり}二人とも　いらっしゃぁ～い！{000c-0009-0000}
+"004"	{000c-0001-0000}{000c-0004-0000}{000c-0002-0000}{000c-0006-0000}あぁ～{pause 20}	よかったぁ～{Wait for input}{emote: Happiness}{ruby (charSpan 2): ふたり}二人とも　おそいから、{pause 20}	ナイショで　おいしいものでも	{ruby (charSpan 1): た}食べてるのかと{ruby (charSpan 1): おも}思ったよぉ、{pause 8}{catchphrase}{000c-0009-0000}
+"005"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{000c-0001-0000}{000c-0008-0000}オイ！{pause 20}	わざわざ　{ruby (charSpan 1): よ}呼び{ruby (charSpan 1): だ}出して、	{ruby (charSpan 1): なん}何の{ruby (charSpan 1): よう}用でぇ？{000c-0009-0000}
+"006"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{000c-0001-0000}{000c-0008-0000}{0011-0001-0002-0000}、{ruby (charSpan 1): き}来てやったぜ！{pause 20}	{ruby (charSpan 1): なん}何の{ruby (charSpan 1): よう}用でぇ？{000c-0009-0000}
+"007"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{000c-0001-0000}{000c-0008-0000}よぉ、{0011-0001-0002-0000}！{pause 20}	{Player nickname (green)}が　わざわざ	{ruby (charSpan 2): あんない}案内までしてくれたんだぜ？{Wait for input}{emote: Anger}まさか{pause 20}　くだらない	{ruby (charSpan 2): ようじ}用事じゃないだろうな？{000c-0009-0000}
+"008"
+"009"	{000c-0000-0000}{000c-0005-0000}{emote: Happiness}じつは{pause 20}　{0011-0001-0002-0001}{0005-000d-0000}から	かりてたものを	かえそうと{ruby (charSpan 1): おも}思ってさぁ、{pause 8}{catchphrase}{Wait for input}{emote: Sheepishness}このままじゃ	わすれちゃいそうで{pause 8}・{pause 8}・{pause 8}・{000c-0009-0000}
+"010"	{000c-0000-0000}{000c-0007-0000}{emote: Surprise}{0007-000b-0000}うぉっ！{pause 20}	オレの　{0011-0003-0002-0000}！{Wait for input}{emote: Laughter}まさか{pause 20}　オメェから	{ruby (charSpan 1): か}貸したもんが　{ruby (charSpan 1): かえ}返ってくるとは	{ruby (charSpan 1): おも}思ってなかったぜ！{pause 20}{emote: Happiness}
+"011"	{000c-0000-0000}{000c-0005-0000}{emote: Happiness}この{ruby (charSpan 1): まえ}前{pause 20}　おつかいをたのまれた	{0011-0003-0002-0000}、{pause 20}	{ruby (charSpan 1): み}見つかったから　{ruby (charSpan 1): か}買っておいたよぉ～{000c-0009-0000}
+"012"	{000c-0000-0000}{000c-0007-0000}{emote: Alarmed}おぉ！{pause 20}　{ruby (charSpan 2): ようじ}用事って	このことだったのか！{Wait for input}{emote: Sunny}へへっ、ワリィな　{0011-0001-0002-0000}！{pause 20}	ちゃんと　おつかいできて	えらいじゃねぇか、{pause 8}{catchphrase}
+"013"	{000c-0000-0000}{000c-0005-0000}さっき　おとしものを	ひろったんだけど、{Wait for input}{emote: Thought}{0011-0001-0002-0001}{0005-000d-0000}のニオイが	する{ruby (charSpan 1): き}気がして{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Curious}もしかして　コレって	{0011-0001-0002-0001}{0005-000d-0000}の？{000c-0009-0000}
+"014"	{000c-0000-0000}{000c-0007-0000}{emote: Shocked}{0007-000b-0000}おぉ！{pause 20}	オレの　{0011-0003-0002-0000}！{Wait for input}{emote: Thought}オメェの{ruby (charSpan 1): はな}鼻は、	{ruby (charSpan 1): く}食いもん{ruby (charSpan 2): せんよう}専用だと{ruby (charSpan 1): おも}思ってたが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Laughter}がーっはっは！{pause 20}	たまには{ruby (charSpan 1): やく}役に{ruby (charSpan 1): た}立つじゃねぇか！{pause 40}{emote: Happiness}
+"015"	{000c-0000-0000}{000c-0005-0000}{emote: Happiness}{0011-0001-0002-0001}{0005-000d-0000}に	オススメのマンガが	あるんだよぉ～{Wait for input}タイトルは{pause 20}	『マンガ{pause 8}　オヤジギャグ{ruby (charSpan 2): にゅうもん}入門』！{Wait for input}{emote: Happiness}マンガだから　{ruby (charSpan 1): よ}読みやすいし、{pause 20}	きっと　おもしろいギャグが	おぼえられるよぉ～{000c-0009-0000}
+"016"	{000c-0000-0000}{000c-0007-0000}{emote: Aggravation}オメェ！{pause 20}	それを　オレにすすめるって、{pause 20}	オレのギャグが　つまんねぇってことか？！{Wait for input}{emote: Reset}まぁ、{pause 20}{ruby (charSpan 1): じつ}実は　{ruby (charSpan 1): も}持ってるんだけどな{pause 8}・{pause 8}・{pause 8}・{pause 40}	2{ruby (charSpan 1): かん}巻もあるから　{ruby (charSpan 1): か}貸してやるよ！{pause 20}	{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}
+"017"	{000c-0000-0000}{000c-0005-0000}{emote: Distress}{0011-0001-0002-0001}{0005-000d-0000}！{pause 40}	のどに　おサカナのほねが	{ruby (charSpan 1): ひ}引っかかっちゃったんだよぉ～{Wait for input}ねぇ～{pause 20}	とって{pause 20}　とって{pause 20}　とって～！{pause 40}	って、{pause 20}{emote: Alarmed}アレ？{Wait for input}{emote: Glee}いつの{ruby (charSpan 1): ま}間にか　とれてる～！{pause 40}	やったぁ～！{000c-0009-0000}
+"018"	{000c-0000-0000}{000c-0007-0000}{emote: Mistaken}なんだそりゃ！{pause 40}	まったく　オメェは	{ruby (charSpan 1): く}食い{ruby (charSpan 2): いじ}意地ばっかりだな！{Wait for input}{emote: Laughter}サカナ{ruby (charSpan 1): く}食うときは、{pause 20}	ちゃんと　{ruby (charSpan 1): ほね}骨を{ruby (charSpan 1): と}取ってから	{ruby (charSpan 1): く}食えよ、{pause 8}{catchphrase}{pause 20}{emote: Happiness}
+"019"
+"020"	{emote: Happiness}これで{ruby (charSpan 2): ようじ}用事は{ruby (charSpan 1): お}終わりだな！{pause 20}	それじゃ　オレは	{ruby (charSpan 1): さき}先に{ruby (charSpan 1): かえ}帰るぜ、{pause 8}{catchphrase}{emote: Reset}{Wait for input}{000c-0002-0000}{000c-0004-0000}{Player nickname (green)}！{pause 20}	わざわざ　{ruby (charSpan 1): わる}悪かったな！{pause 20}	{emote: Greetings}じゃーな！
+"021"	{emote: Agreement}さてと、{pause 20}オレは	そろそろ　{ruby (charSpan 1): かえ}帰るとするぜ{emote: Reset}{Wait for input}{000c-0002-0000}{000c-0004-0000}{Player nickname (green)}！{pause 20}	{emote: Happiness}オメェは　ちゃんと	コイツに　お{ruby (charSpan 1): れい}礼をもらって{ruby (charSpan 1): かえ}帰るんだぜ？
+"022"	それじゃ	{ruby (charSpan 2): ようじ}用事も{ruby (charSpan 1): す}済んだみたいだし、{pause 20}	オレは　{ruby (charSpan 2): しつれい}失礼するぜ！{Wait for input}{000c-0002-0000}{000c-0004-0000}{pause 20}{emote: Greetings}じゃーな、お{ruby (charSpan 2): ふたり}二人さん
+"023"

@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Greetings}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Greetings}
-"006"	{emote: Soft Smile}
-"007"	{emote: Greetings}
-"008"	{emote: Sheepishness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Curious}
-"011"	{Greeting begin}
+"001"	{emote: Soft Smile}{Greeting begin}어머, {Player name}!{Greeting end}{pause 16}	이런 이른 시간에 당신을{pause 8}	만나게 될 줄이야, {pause 8}{catchphrase}
+"002"	{emote: Greetings}안녕, {Player name}{pause 16}	아침부터 기운이 넘치는데, 당신{pause 32}?	{emote: Happiness}훗, {pause 16}마치 해님 같아! {pause 8}{catchphrase}!
+"003"	{emote: Happiness}어서 와, {Player name}～{pause 16}	아침부터 수고가 많네?	{pause 8}{catchphrase}!
+"004"	{emote: Happiness}{Greeting begin}어머, {Player name}{Greeting end}{pause 16}	어서 와!{Wait for input}{emote: Reset}오늘은 밤이 되어도	해가 지지 않는다나 봐,	{pause 8}{catchphrase}
+"005"	{emote: Greetings}어머, {pause 8}{Player name} 아니야?{pause 8}	어서 와!{pause 16}	편하게 놀다 가～ {pause 8}{catchphrase}
+"006"	{emote: Soft Smile}안녕, {Player name}!{pause 16}	오늘은 하지라서	해가 좀 길어, {pause 8}{catchphrase}
+"007"	{emote: Greetings}어머, {Player name} 아니야?{pause 16}	{Town name (pink)} 마을에 온 걸 환영해!
+"008"	{emote: Sheepishness}{Player name}, {pause 8}당신도 깜짝 놀랐지?{pause 16}	오늘은 하지라서	밤인데도 밝은 거야, {pause 8}{catchphrase}
+"009"	{emote: Soft Smile}{Greeting begin}안녕, {Player name}!{Greeting end}{pause 16}	하지라서 그런지 밤인데도	대낮같이 밝지 뭐야, {pause 8}{catchphrase}
+"010"	{emote: Curious}{Player name}～ {pause 8}정말 굉장하지?{Wait for input}	{emote: Reset}이렇게 밝은데 시간은 {Hour}시라구～	{pause 8}{catchphrase}
+"011"	{Greeting begin}안녕, {Player name}?{Greeting end}{pause 32}	{emote: Mischief}이렇게 늦게 다니면 위험하잖아!{Wait for input}{pause 4}・{pause 4}・{pause 4}・{pause 4}{emote: Worry}라고 하고 싶지만, {pause 16}날이 밝으니	왠지 설득력이 떨어져, {pause 8}{catchphrase}

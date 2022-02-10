@@ -1,21 +1,21 @@
 == 0 ==
-"001"	{pause 5}
-"002"	{pause 5}
-"003"	{000a-0007-000c-04-00-04-00-01-00-02-00-05-00-06-00}
-"004"	{pause 5}
-"005"	{pause 5}
-"006"	{pause 5}
+"001"	{pause 5}{emote: Alarmed}{pause 10}Oh, {pause 10}{Player nickname (green)}!{pause 15}	Haha! This is a rare sight! You're	actually doing some work!{Wait for input}{emote: Thought}I feel like I should probably take a	picture to commemorate this, but I 	don't have my camera on me{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Happiness}Hey, if you have yours, you should	take a picture! {pause 20}{capitalized}{catchphrase}!
+"002"	{pause 5}{emote: Greetings}{pause 10}Yo, {pause 10}{Player nickname (green)}!{pause 15}	I feel like the whole mayor thing	kinda suits ya!{emote: Happiness}	{emote: Glare}You got that I'm-a-bigshot aura	going on right now, {pause 10}{catchphrase}!{Wait for input}{emote: Reset}{pause 5}.{pause 5}.{pause 5}.{pause 10}{emote: Alarmed}{pause 5}Whoops! Here I am running my	mouth while you're trying to work!{pause 40}	{emote: Happiness}Back to business, {Mr./Ms.} Mayor!
+"003"	{000a-0007-000c-0004-0004-0001-0002-0005-0006}
+"004"	{pause 5}{emote: Alarmed}{pause 10}Oh, {pause 10}{Player nickname (green)}!{pause 15} Look at you!{pause 5}	On the job all bright and early!{Wait for input}{emote: Reset}I guess if you take care of your	business early, you're free to goof	around the rest of the day!	{emote: Happiness}Hey! Let's hang out once you're	done working, {pause 10}{catchphrase}!{Wait for input} You 	know me.{pause 40}{emote: Greetings} I'm free any old time!
+"005"	{pause 5}{emote: Alarmed}{pause 10}Whoa, {pause 10}{Player nickname (green)}!{pause 15} Puttin' in some	overtime, I see. That's a good	mayor!	{emote: Reset}I guess if you get your work out of	the way today, you'll be free to	slack off all you want tomorrow!	{emote: Happiness}Hey! If you have room in your busy	mayor schedule, let's get together!{Wait for input}I'm free{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Greetings}{pause 10}most of the time,	{catchphrase}!
+"006"	{pause 5}{emote: Disbelief}{pause 10}Hold up, {pause 10}{Player nickname (green)}!{pause 15} You're not	some kinda vampire mayor, are ya?{Wait for input}{emote: Worry}Working late like this{pause 8}.{pause 8}.{pause 8}.{pause 20} You're gonna	feel it in the morning, you know?{Wait for input}{emote: Thought}I mean, if you've got the day off	tomorrow, I guess that's fine{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Happiness}Well, hurry up and get your stuff	done. And then plop your mayor	butt in your mayor bed!
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Greetings}
-"003"	{000a-0007-000c-04-00-04-00-01-00-02-00-05-00-06-00}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Disbelief}
+"001"	{emote: Alarmed}{pause 10}¡Anda, {pause 10}{Player nickname (green)}!{pause 15} Si no lo	veo, no lo creo. ¡Pero si estás	trabajando de verdad!{Wait for input}{emote: Thought}Buf, ¡estoy por hacerte una foto	y todo! Es una pena que no me	haya traído la cámara{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Happiness}Eh, no tendrás la tuya por	ahí, ¿verdad, {pause 20}{catchphrase}?
+"002"	{emote: Greetings}{pause 10}¡Hala, {pause 10}{Player nickname (green)}!{pause 15} ¡El rollo este	alcaldil te pega un montón!{emote: Happiness}{Wait for input}{emote: Glare}¡Tienes así como un aire pomposo	que no veas,{pause 10} {catchphrase}!{Wait for input}{emote: Reset}{emote: Alarmed}{pause 5}¡Ahí va! ¡Que estás intentando	trabajar!{pause 40} Pues nada, no me	enrollo más, {emote: Happiness}¡sigue dándole fuerte!
+"003"	{000a-0007-000c-0004-0004-0001-0002-0005-0006}
+"004"	{emote: Alarmed}{pause 10}¡Huy, {pause 10}{Player nickname (green)}!{pause 15} ¡Quién te ha	visto y quién te ve!{pause 5} ¡Madrugando	para dar el callo, cosa fina!{Wait for input}{emote: Reset}Claro, si liquidas todos los asuntos	a primera hora, ¡tienes el resto	del día libre para hacer el vago!	{emote: Happiness}Oye, ¿por qué no hacemos algo	cuando termines de currar?{Wait for input} Ya	sabes,{pause 40}{emote: Greetings} ¡tengo todo el día libre!
+"005"	{emote: Alarmed}{pause 10}¡Caramba, {pause 10}{Player nickname (green)}!{pause 15} ¿Haciendo	horas extras? ¡Con u{n/na} alcald{e/esa}	así, estamos como queremos!	{emote: Reset}Tiene sentido, si dejas hoy listo	todo lo que tienes que hacer,	¡mañana podrás desmelenarte!	{emote: Happiness}Oye, si tienes un hueco en la	agenda, ¡podríamos hacer algo!	Yo siempre estoy libre{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Greetings}{pause 10} ¡Ji, ji!
+"006"	{emote: Disbelief}{pause 10}¡Alto ahí, {pause 10}{Player nickname (green)}!{pause 15} Tú no serás	una especie de vampir{o/esa}, ¿no?{Wait for input}{emote: Worry}Es que estar trabajando a estas	horas{pause 8}.{pause 8}.{pause 8}.{pause 20} Te va a pasar factura	por la mañana...{Wait for input}{emote: Thought}A menos que mañana te pilles	el día libre, claro{pause 8}.{pause 8}.{pause 8}. ¡Así, sí!{Wait for input}{emote: Happiness}En fin, date vidilla y arregla todos	tus asuntos. ¡Y luego, a planchar	la oreja como está mandado!
 == 2 ==
-"001"	{pause 5}
-"002"	{pause 5}
-"003"	{000a-0007-000c-04-00-04-00-01-00-02-00-05-00-06-00}
-"004"	{pause 5}
-"005"	{pause 5}
-"006"	{pause 5}
+"001"	{pause 5}{emote: Alarmed}{pause 10}Oh,{pause 10} {Player nickname (green)}!{pause 15} Ça bosse dur? On	voit pas ça tous les jours!{Wait for input}{emote: Thought}C'est même si inhabituel qu'ça	mériterait une p'tite photo, mais j'ai	pas mon appareil sur moi{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}Si jamais t'as l'tien, tu devrais	vraiment immortaliser ce moment	des plus rares,{pause 20} {catchphrase}!
+"002"	{pause 5}{emote: Greetings}{pause 10}Hep,{pause 10} {Player nickname (green)}!{pause 15}	Ça t'va plutôt bien d'faire semblant	d'travailler, hi hi!{emote: Happiness}	{emote: Glare}T'as l'charisme, la prestance... Bon,	pour l'éloquence, on repassera, mais	c'est d'jà pas mal,{pause 10} {catchphrase}!	{emote: Reset}{pause 5}.{pause 5}.{pause 5}.{pause 10} {emote: Alarmed}{pause 5}Ah! Mais p't'être que j'dérange	à la ramener alors que t'essaies	d'faire croire que tu bosses!	{emote: Happiness}Hi hi!{pause 10} J'te fiche la paix, {M'sieur/M'dame} le	maire!
+"003"	{000a-0007-000c-0004-0004-0001-0002-0005-0006}
+"004"	{pause 5}{emote: Alarmed}{pause 10}Oh, {pause 10}{Player nickname (green)}!{pause 15} Ça bosse dur, on	dirait!{pause 20} Et d'bon matin, en plus!{Wait for input}{emote: Reset}T'as bien raison, va, {emote: Agreement}plus vite t'en as	fini avec les tâches administratives,{pause 10}	plus t'as d'temps libre ensuite!	{emote: Happiness}D'ailleurs, hésite pas à passer	m'voir après l'boulot,{pause 10} {catchphrase}.{Wait for input}	{emote: Greetings}Chuis toujours dispo pour toi!
+"005"	{pause 5}{emote: Alarmed}{pause 10}Waouh, {pause 10}{Player nickname (green)}!{pause 15} On fait des	heures sup?!{pause 15} En voilà un bon	maire!	{emote: Reset}Mais p't'être que l'idée, c'est d'en	faire un max aujourd'hui pour se	tourner les pouces demain?	{emote: Happiness}Bref, si t'as un trou dans ton emploi	du temps d'ministre, hésite surtout	pas à passer m'voir!	Chuis dispo{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Greetings}{pause 10}bah, à peu près tout	l'temps,{pause 20} {catchphrase}!
+"006"	{pause 5}{emote: Disbelief}{pause 10}Bah alors,{pause 10} {Player nickname (green)}!{pause 15} T'es pas	un maire-vampire, rassure-moi?!{Wait for input}{emote: Worry}Bah ouais, t'as vu l'heure{pause 8}.{pause 8}.{pause 8}.{pause 8}?{pause 20} Tu	risques de l'payer demain matin,	t'sais?	{emote: Thought}Bon, à moins qu't'aies pris une	journée pour t'reposer, ça	va d'soi{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Happiness}Enfin, tire pas trop sur la corde,	OK?{pause 20} Termine c'que t'as commencé	et retourne dans ton cercueil, hi hi!

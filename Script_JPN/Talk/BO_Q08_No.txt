@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Mistaken}
-"003"	{emote: Sadness}
+"001"	{emote: Worry}そっかぁ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	それじゃあ	またこんど　{ruby (charSpan 1): い}行かせてねぇ、{pause 8}{catchphrase}
+"002"	{emote: Mistaken}そっかぁ～{pause 40}	{ruby (charSpan 2): きょう}今日は　いそがしいんだねぇ～{Wait for input}{emote: Happiness}それじゃあ{pause 20}	また　さそうよぉ、{pause 8}{catchphrase}
+"003"	{emote: Sadness}な～んだ{pause 40}	つまんないのぉ、{pause 8}{catchphrase}

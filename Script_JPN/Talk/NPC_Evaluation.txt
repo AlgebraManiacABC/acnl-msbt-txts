@@ -1,26 +1,26 @@
 == 0 ==
-"001"	{Blue}「すごいねぇ～！{pause 5}
-"002"	{Blue}「あらやだ！{pause 5}
-"003"		{Blue}{0000-0002-0002-ffffffc8-00}「い～んじゃない」{0000-0002-0002-64-00}{Color Reset}
+"001"	{Blue}「すごいねぇ～！{pause 5}	　この{ruby (charSpan 1): むら}村は　サイコーの{ruby (charSpan 1): むら}村だよぉ～！{Wait for input}　よくがんばったねぇ！	　おじちゃんも　うれしいなぁ！」{Color Reset}
+"002"	{Blue}「あらやだ！{pause 5}　ステキな{ruby (charSpan 1): むら}村！{pause 15}	　{ruby (charSpan 1): ね}寝そべって　{ruby (charSpan 2): だいち}大地を	　ナデナデしちゃいたい{pause 5}・{pause 5}・{pause 5}・{Wait for input}	{Text size 150%}　ビバ！{pause 5}　{Town name (pink)}{Blue}！{Blue}{Text size 100%}」{Color Reset}
+"003"		{Blue}{Text size 200%}「い～んじゃない」{Text size 100%}{Color Reset}
 "004"	{Blue}「いやはや！	　{ruby (charSpan 5): がくじゅつてきかんてん}学術的観点から　{ruby (charSpan 1): み}見ましても	　この{ruby (charSpan 1): むら}村はサイコーです！　ハイ！」{Color Reset}
 "005"	{Blue}「サイコーじゃ！　サイコーにイイ{ruby (charSpan 1): むら}村じゃ！	　こんな{ruby (charSpan 1): むら}村なら　ワシも　もう{ruby (charSpan 2): いちど}一度	　{ruby (charSpan 2): そんちょう}村長を　やってもええのぅ！」{Color Reset}
-"006"	{Blue}「むりやり　{ruby (charSpan 2): てがみ}手紙に{ruby (charSpan 1): たと}例えると、	　すっごく　いいコトが{ruby (charSpan 1): か}書いてあったのに	　{ruby (charSpan 3): さしだしにん}差出人を　{ruby (charSpan 1): か}書き{ruby (charSpan 1): わす}忘れてた！{pause 10}
-"007"	{Blue}「ここだけの{ruby (charSpan 1): はなし}話、ゆきだるま{ruby (charSpan 2): ぎょうかい}業界では	　{ruby (charSpan 1): ころ}転がされたい{ruby (charSpan 1): むら}村　ナンバー1、2を	　{ruby (charSpan 1): あらそ}争ってるズラ！{0000-0004-0000}
-"008"	{Blue}「{ruby (charSpan 2): かんきょう}環境がエエ{ruby (charSpan 1): むら}村は　リセット{ruby (charSpan 1): りつ}率も	　{ruby (charSpan 1): ひく}低いっちゅー{ruby (charSpan 1): はなし}話　{ruby (charSpan 1): き}聞いたことあるで、	　ウソかホンマか　{ruby (charSpan 1): し}知らんけどな！{0000-0004-0000}
-"009"	{Blue}「ふ～ん{pause 5}
-"010"	{Blue}「すっごく　イイ{ruby (charSpan 1): かん}感じなんよ！{pause 15}
-"011"	{Blue}「なかなか　がんばっておるようじゃのう！{pause 10}
-"012"	{Blue}「{Color Reset}{Town name (pink)}
-"013"	{Blue}「いやはや・・・	　{ruby (charSpan 5): がくじゅつてきかんてん}学術的観点から　{ruby (charSpan 1): み}見ましても	　この{ruby (charSpan 1): むら}村は　なかなかのモノですよ！{0000-0004-0000}
-"014"	{Blue}「まぁまぁの{ruby (charSpan 1): せん}線は　いっていると	　{ruby (charSpan 1): おも}思いまーす！　{0000-0002-0002-4b-00}だなも！{0000-0002-0002-64-00}」{Color Reset}
-"015"	{Blue}「う～ん・・・{pause 10}
-"016"	{Blue}「まだまだ　これからだと	　{ruby (charSpan 1): おも}思いまーす！　{0000-0002-0002-4b-00}だなも！{0000-0002-0002-64-00}」{Color Reset}
-"017"	{Blue}「そうだねぇ～	　まだまだ　これから	　いくらでも　がんばれちゃうよねぇ～！{0000-0004-0000}
-"018"	{Blue}「いやはや・・・	　{ruby (charSpan 5): がくじゅつてきかんてん}学術的観点から　{ruby (charSpan 1): み}見ましても	　この{ruby (charSpan 1): むら}村は　まだこれからですね、ハイ{0000-0004-0000}
-"019"	{Blue}「う～ん・・・	　{ruby (charSpan 2): てがみ}手紙も　{ruby (charSpan 1): むら}村づくりも　{ruby (charSpan 2): だいじ}大事なのは	　{ruby (charSpan 1): おも}思いやりだよね{0000-0004-0000}!
-"020"	{Blue}「・・・こんなこと　{ruby (charSpan 1): か}書くのは	　どうかと　{ruby (charSpan 1): おも}思うんですけど	　・・・・・・カンニンね・・・{0000-0004-0000}
-"021"	{Blue}「ダメだダメだ！{pause 10}
-"022"	{Blue}「う～ん・・・{pause 10}
+"006"	{Blue}「むりやり　{ruby (charSpan 2): てがみ}手紙に{ruby (charSpan 1): たと}例えると、	　すっごく　いいコトが{ruby (charSpan 1): か}書いてあったのに	　{ruby (charSpan 3): さしだしにん}差出人を　{ruby (charSpan 1): か}書き{ruby (charSpan 1): わす}忘れてた！{pause 10}　みたいな？{Wait for input}　とにかく　あと{ruby (charSpan 2): いっぽ}一歩だから	　この{ruby (charSpan 2): ちょうし}調子で　サイコーの{ruby (charSpan 1): むら}村に	　{ruby (charSpan 2): した}仕立て{ruby (charSpan 1): あ}上げて　ほしいよね！」{Color Reset}
+"007"	{Blue}「ここだけの{ruby (charSpan 1): はなし}話、ゆきだるま{ruby (charSpan 2): ぎょうかい}業界では	　{ruby (charSpan 1): ころ}転がされたい{ruby (charSpan 1): むら}村　ナンバー1、2を	　{ruby (charSpan 1): あらそ}争ってるズラ！{Wait for input}　{ruby (charSpan 2): ふどう}不動の{ruby (charSpan 2): いちい}一位を　{ruby (charSpan 2): めざ}目指して	　がんばってほしいダス！」{Color Reset}
+"008"	{Blue}「{ruby (charSpan 2): かんきょう}環境がエエ{ruby (charSpan 1): むら}村は　リセット{ruby (charSpan 1): りつ}率も	　{ruby (charSpan 1): ひく}低いっちゅー{ruby (charSpan 1): はなし}話　{ruby (charSpan 1): き}聞いたことあるで、	　ウソかホンマか　{ruby (charSpan 1): し}知らんけどな！{Wait for input}　とにかく　この{ruby (charSpan 1): むら}村の{ruby (charSpan 2): かんきょう}環境が	　かなりエエ{ruby (charSpan 1): かん}感じやと　ゆーことだけは	　{ruby (charSpan 2): まちが}間違いないんと　ちゃうか！」{Color Reset}
+"009"	{Blue}「ふ～ん{pause 5}・{pause 5}・{pause 5}・{pause 15}	　まあカンペキとは　{ruby (charSpan 1): い}言えないけど	　{ruby (charSpan 1): わる}悪くは　ないんじゃない？」{Color Reset}
+"010"	{Blue}「すっごく　イイ{ruby (charSpan 1): かん}感じなんよ！{pause 15}	　だけど　なんていうか・・・	　ちょっとだけ　{ruby (charSpan 2): ものた}物足りないんよね」{Color Reset}
+"011"	{Blue}「なかなか　がんばっておるようじゃのう！{pause 10}	　{ruby (charSpan 1): むら}村づくりは　{ruby (charSpan 2): たいへん}大変だからこそ	　やりがいが　あるというものじゃ！」{Color Reset}
+"012"	{Blue}「{Color Reset}{Town name (pink)}{Blue}{ruby (charSpan 1): むら}村は　{ruby (charSpan 1): いま}今	　{ruby (charSpan 2): わだい}話題の{ruby (charSpan 2): かんこう}観光スポットとして	　{ruby (charSpan 2): ちゅうもく}注目を　{ruby (charSpan 1): あつ}集め{ruby (charSpan 1): はじ}始めていますよ！{Wait for input}　{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): つづ}続き　{ruby (charSpan 1): むら}村おこしを{ruby (charSpan 1): すす}進めて	　がんばってください！	　　　　　　　　　　　　　ウッキー！」{Color Reset}
+"013"	{Blue}「いやはや・・・	　{ruby (charSpan 5): がくじゅつてきかんてん}学術的観点から　{ruby (charSpan 1): み}見ましても	　この{ruby (charSpan 1): むら}村は　なかなかのモノですよ！{Wait for input}　この{ruby (charSpan 2): ちょうし}調子で　{ruby (charSpan 1): むら}村づくりが{ruby (charSpan 1): すす}進めば、	　この{ruby (charSpan 1): むら}村の{ruby (charSpan 2): かち}価値は　どんどん{ruby (charSpan 1): たか}高まるに	　{ruby (charSpan 1): ちが}違いありませんです！」{Color Reset}
+"014"	{Blue}「まぁまぁの{ruby (charSpan 1): せん}線は　いっていると	　{ruby (charSpan 1): おも}思いまーす！　{Text size 75%}だなも！{Text size 100%}」{Color Reset}
+"015"	{Blue}「う～ん・・・{pause 10}	　{ruby (charSpan 2): ごうかく}合格って　ほどじゃないけど{pause 5}	　{ruby (charSpan 2): らくだい}落第って　ワケでもないだも{Wait for input}　まあ、{pause 5}アベック{ruby (charSpan 2): いじょう}以上、{pause 5}	　カップル{ruby (charSpan 2): みまん}未満って　ところなんだなも！」{Color Reset}
+"016"	{Blue}「まだまだ　これからだと	　{ruby (charSpan 1): おも}思いまーす！　{Text size 75%}だなも！{Text size 100%}」{Color Reset}
+"017"	{Blue}「そうだねぇ～	　まだまだ　これから	　いくらでも　がんばれちゃうよねぇ～！{Wait for input}　おじちゃんも　{ruby (charSpan 2): みまも}見守ってるから、	　がんばってねぇ！」{Color Reset}
+"018"	{Blue}「いやはや・・・	　{ruby (charSpan 5): がくじゅつてきかんてん}学術的観点から　{ruby (charSpan 1): み}見ましても	　この{ruby (charSpan 1): むら}村は　まだこれからですね、ハイ{Wait for input}　{ruby (charSpan 2): かだい}課題は　たくさんありますから、	　{ruby (charSpan 2): いっぽ}一歩ずつ　{ruby (charSpan 2): ちゃくじつ}着実に　{ruby (charSpan 1): むら}村づくりを	　{ruby (charSpan 1): すす}進めていただきたいです！　ホホッ！」{Color Reset}
+"019"	{Blue}「う～ん・・・	　{ruby (charSpan 2): てがみ}手紙も　{ruby (charSpan 1): むら}村づくりも　{ruby (charSpan 2): だいじ}大事なのは	　{ruby (charSpan 1): おも}思いやりだよね{Wait for input}　まずは　{ruby (charSpan 2): そんみん}村民ひとりひとりが	　そういう{ruby (charSpan 2): きも}気持ちを　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出すことが	　{ruby (charSpan 2): だいじ}大事なんじゃない？」{Color Reset}
+"020"	{Blue}「・・・こんなこと　{ruby (charSpan 1): か}書くのは	　どうかと　{ruby (charSpan 1): おも}思うんですけど	　・・・・・・カンニンね・・・{Wait for input}　{ruby (charSpan 1): むら}村への{ruby (charSpan 2): きくば}気配り、もう{ruby (charSpan 1): すこ}少しだけ{pause 5}	　{ruby (charSpan 1): ふ}増やせへんかしら・・・？	　このままでは　ちょっと・・・」{Color Reset}
+"021"	{Blue}「ダメだダメだ！{pause 10}	　{ruby (charSpan 1): いま}今の{ruby (charSpan 1): むら}村は　まるで　なってねぇ！{Wait for input}　オレっちの　{ruby (charSpan 1): な}名にかけて、	　この{ruby (charSpan 1): むら}村を　とことん	　{ruby (charSpan 2): かいぞう}改造してやりてぇぜっ！」{Color Reset}
+"022"	{Blue}「う～ん・・・{pause 10}	　この{ruby (charSpan 1): むら}村は　このままでは	　{ruby (charSpan 1): よ}良くないと　{ruby (charSpan 1): おも}思うんだなも{Wait for input}　ピンチを　チャンスに{ruby (charSpan 1): か}変えて	　がんばる{ruby (charSpan 1): とき}時なんだも！」{Color Reset}
 "023"	{Blue}「・・・ノーコメントです！		　　　　　　　　　　　ウッキー！」{Color Reset}
-"024"	{Blue}「{ruby (charSpan 1): さき}先に　{ruby (charSpan 1): ことわ}断っとくけど{pause 5}
-"025"	{Blue}「あ～、{pause 5}
+"024"	{Blue}「{ruby (charSpan 1): さき}先に　{ruby (charSpan 1): ことわ}断っとくけど{pause 5}	　これは　ワシひとりの{ruby (charSpan 1): おも}思いと{ruby (charSpan 1): ちが}違うで、{pause 10}	　みんなの　{ruby (charSpan 2): きも}気持ちや{Wait for input}	　・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{Wait for input}　{Text size 150%}なんじゃ　こりゃ～！{Text size 100%}	　　　　　　　　　　　　　　　{ruby (charSpan 2): いじょう}以上！」{Color Reset}
+"025"	{Blue}「あ～、{pause 5}サイアク・・・{pause 15}	　どうなってんのよ、{pause 5}この{ruby (charSpan 1): むら}村は{pause 5}・{pause 5}・{pause 5}・{pause 15}	　あれもダメだし、{pause 5}これもダメ・・・{Wait for input}　とにかく　{ruby (charSpan 1): め}目につくもの　{ruby (charSpan 1): すべ}全てが	　{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入らないのよね～」{Color Reset}

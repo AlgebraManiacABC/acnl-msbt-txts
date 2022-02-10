@@ -1,16 +1,16 @@
 == 0 ==
-"001"	ねぇねぇ～{pause 20}
-"002"	{emote: Happiness}
-"003"	{emote: Sadness}
-"004"	{emote: Happiness}
-"005"	{emote: Reset}
-"006"	{emote: Distress}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	「{Greeting begin}
-"009"	{emote: Greetings}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Sunny}
-"012"	{emote: Daydreaming}
-"013"	{Player nickname (green)}
-"014"	
-"015"	
+"001"	ねぇねぇ～{pause 20}	{emote: Curious}あいことば{pause 20}　って{ruby (charSpan 1): し}知ってる～？{Wait for input}{emote: Happiness}ヒミツのことばを　きめて、{pause 20}	あいさつみたいに	{ruby (charSpan 1): い}言い{ruby (charSpan 1): あ}合うんだよぉ{Wait for input}{emote: Love}それは　{ruby (charSpan 2): ふたり}二人だけに	{ruby (charSpan 1): つう}通じることば　なんだぁ{Wait for input}{emote: Happiness}ねぇ～{pause 20}　ボクたちも{pause 20}	あいことばを　{ruby (charSpan 1): かんが}考えようよぉ！{Player can respond (0005):0004-0000-0003-0028}	こんなのどう？	{ruby (charSpan 1): おも}思いつかない！
+"002"	{emote: Happiness}やぁ～{pause 20}	{Player nickname (green)}{0005-000d-0000}、{pause 8}{catchphrase}！{Wait for input}{ruby (charSpan 2): きょう}今日　テレビで{pause 20}	「ステキな{ruby (charSpan 2): いちにち}一日は　あいさつから」{pause 20}	って{pause 20}　やってたよぉ、{pause 8}{catchphrase}	{emote: Love}ボクも　ステキな	あいさつがあれば、{pause 20}	かっこよく　なれるよねぇ～？{Wait for input}{emote: Distress}{Player nickname (green)}{0005-000d-0000}、{pause 20}	{ruby (charSpan 1): なに}何か　いいあいさつ	{ruby (charSpan 1): し}知らない～？{Player can respond (0005):0004-0000-0003-0028}	こんなのどう？	{ruby (charSpan 1): おも}思いつかない！
+"003"	{emote: Sadness}そっかぁ～{pause 40}	さすがの　{Player nickname (green)}{0005-000d-0000}も	お{ruby (charSpan 2): てあ}手上げかぁ、{pause 8}{catchphrase}{000b-0003-0002-cd01}
+"004"	{emote: Happiness}わぁ～い！{pause 20}	どんなの　どんなのぉ～？
+"005"	{emote: Reset}それじゃあ　{ruby (charSpan 1): い}言ってみるよぉ？{pause 40}	{emote: Greetings}「{Greeting begin}　　　　　　　　　　{Greeting end}」{Wait for input}	{emote: Bashful}どうかなぁ～？{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	いいじゃん！	ちがうよ！
+"006"	{emote: Distress}ええ～？！{pause 20}	ちがうのぉ？！{Wait for input}じゃあ　もう{ruby (charSpan 2): いっかい}一回	おしえて、{pause 8}{catchphrase}
+"007"	{0009-0000-0004-0008-0009}
+"008"	「{Greeting begin}　　　　　　　　　　{Greeting end}」{pause 40}	{emote: Love}このヒビキ{pause 8}・{pause 8}・{pause 8}・{pause 20}	クセになっちゃう～
+"009"	{emote: Greetings}「{Greeting begin}　　　　　　　　　　{Greeting end}」{pause 40}	{emote: Glee}うわぁ～い！{pause 20}	うれしいなぁ～
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Sunny}かっこいいのを　{ruby (charSpan 1): かんが}考えてくれて	ありがとう！{pause 20}　{Player nickname (green)}{0005-000d-0000}
+"012"	{emote: Daydreaming}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	つかうのが　{ruby (charSpan 1): たの}楽しみだよぉ、{pause 8}{catchphrase}
+"013"	{Player nickname (green)}{0005-000d-0000}、ありがとぉ～{pause 20}	だいじに　つかわせてもらうねぇ、{pause 8}{catchphrase}
+"014"
+"015"

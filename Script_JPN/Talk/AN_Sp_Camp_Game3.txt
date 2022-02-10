@@ -1,21 +1,21 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"003"	{emote: Shocked}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Surprise}
-"007"	{emote: Joy}
-"008"	{emote: Worry}
-"009"	{emote: Worry}
-"010"	{emote: Worry}
-"011"	{emote: Worry}
-"012"	{0009-0003-000a-06-00-06-00-0d-00-0d-00-0d-00}
-"013"	{emote: Alarmed}
-"014"	{0009-0003-000a-05-00-05-00-0f-00-0f-00-0f-00}
-"015"	{emote: Shocked}
-"016"	{0009-0003-000a-04-00-04-00-03-00-03-00-03-00}
-"017"	{emote: Reset}
-"018"	{emote: Soft Smile}
-"019"	{emote: Agreement}
-"020"	{emote: Worry}
+"001"	{emote: Alarmed}アンタの{ruby (charSpan 1): も}持ってる　その	{0011-0003-0002-0000}、{pause 20}いいなぁ！{Wait for input}	{emote: Soft Smile}ねぇ、{pause 8}それをかけて　ゲームしない？	{emote: Joy}{ruby (charSpan 2): なづ}名付けて{pause 8}・{pause 8}・{pause 8}・{pause 20}	「{ruby (charSpan 1): か}勝ったら{ruby (charSpan 2): こうがく}高額　コインゲーム！」		{emote: Reset}ここにある　1{ruby (charSpan 1): まい}枚のコイン！{pause 40}	これを　{ruby (charSpan 1): な}投げて、	ウラか　オモテかを　{ruby (charSpan 1): あ}当てるんだ！	{emote: Agreement}1{ruby (charSpan 1): かい}回　{ruby (charSpan 1): あ}当てるごとに	{0011-0003-0002-0000}の	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取り{ruby (charSpan 1): がく}額が　{ruby (charSpan 1): あ}上がるよ	{emote: Reset}{ruby (charSpan 2): さいしょ}最初は　{Blue}{Number (0x9)}ベル{Color Reset}から　スタートで、{pause 20}	{emote: Agreement}1{ruby (charSpan 1): かい}回　{ruby (charSpan 1): あ}当てたら　{Blue}{Number (0x9)}ベル{Color Reset}{pause 8}・{pause 8}・{pause 8}・{pause 20}	2{ruby (charSpan 1): かい}回　{ruby (charSpan 1): あ}当てたら　{Blue}{Number (0x9)}ベル{Color Reset}に！	{emote: Soft Smile}3{ruby (charSpan 1): かい}回{ruby (charSpan 1): め}目も　{ruby (charSpan 1): あ}当てることができたら{pause 40}	なんと{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Blue}{emote: Sunny}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買いとっちゃう！	{0007-000d-0000}{emote: Curious}どう？{pause 10}　{ruby (charSpan 2): ちょうせん}挑戦してみるかい？{Player can respond (0005):0007-0015-0002-0028}	やるよ！	また{ruby (charSpan 2): こんど}今度ね
+"002"	{0009-0002-0008-0008-0009-000a-000b}
+"003"	{emote: Shocked}げげっ！{pause 20}　{ruby (charSpan 1): あ}当たりだー！			{emote: Distress}もー！{pause 20}　{ruby (charSpan 1): なん}何だいアンタ！{pause 20}	{ruby (charSpan 1): すこ}少しは　{ruby (charSpan 3): てかげん}手加減してよ！		{emote: Sadness}トホホ{pause 8}・{pause 8}・{pause 8}・{pause 20}でも	{ruby (charSpan 1): い}言っちゃったモンは　しょうがない{pause 8}・{pause 8}・{pause 8}・		{emote: Worry}{Blue}{Number (0x9)}ベル{Color Reset}ね{pause 20}	ありがたく　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうよ
+"004"	{emote: Surprise}おっ！　ハズレ！{pause 40}	てことは、ウチの　{ruby (charSpan 1): か}勝ち？		{emote: Sigh}よかったー{pause 8}・{pause 8}・{pause 8}・{pause 20}	これ{ruby (charSpan 2): いじょう}以上　{ruby (charSpan 1): ま}負けたら	どうしようかと　{ruby (charSpan 1): おも}思ったよ！	{emote: Reset}そんじゃ、	{Blue}{pause 8}{Number (0x9)}ベル{Color Reset}ね！
+"005"	{emote: Surprise}おしい！{pause 20}　ハズレでした！			{emote: Sheepishness}あーよかった{pause 8}・{pause 8}・{pause 8}・{pause 20}	これで　{ruby (charSpan 2): きょう}今日のごはん、{ruby (charSpan 1): た}食べれるよ		{emote: Reset}そんじゃ　{Blue}{Number (0x9)}ベル{Color Reset}で	{ruby (charSpan 1): う}売ってくださいな！
+"006"	{emote: Surprise}あ～{ruby (charSpan 2): ざんねん}残念！{pause 20}	ハズレだ～！		{emote: Joy}{ruby (charSpan 3): さいやすね}最安値の　{Blue}{Number (0x9)}ベル{Color Reset}で	その　{0011-0003-0002-0000}、	いただきま～す！
+"007"	{emote: Joy}やったー！{pause 40}	そんじゃ、さっそく　{ruby (charSpan 1): はじ}始めよう！{pause 40}		{emote: Reset}1{ruby (charSpan 1): かい}回{ruby (charSpan 1): め}目{pause 8}・{pause 8}・{pause 8}・{pause 20}　{Blue}{Number (0x9)}ベル{Color Reset}に　{ruby (charSpan 2): ちょうせん}挑戦！{pause 40}	ここにある　コインを{ruby (charSpan 1): な}投げるから、	よ～く　{ruby (charSpan 1): み}見ておきな！	{emote: Anger}せ～の{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0007-000a-0000}{emote: Inspired}{pause 20}{Text size 150%}ハイ！{Text size 100%}		{emote: Curious}ウラか？{pause 10}　オモテか？{pause 10}	ど～っちだ！{Player can respond (0000):000c-0000-000c-0000}	ウラ	オモテ
+"008"	{emote: Worry}え～？{pause 20}	そりゃ　{ruby (charSpan 2): ざんねん}残念！		{emote: Thought}スタートが　{Blue}{Number (0x9)}ベル{Color Reset}は	ちょっと　{ruby (charSpan 2): やすす}安過ぎたかな{pause 8}・{pause 8}・{pause 8}・		{emote: Soft Smile}しきり{ruby (charSpan 1): なお}直して　くるからさ、	また{ruby (charSpan 2): こんど}今度　よろしく{ruby (charSpan 1): たの}頼むよ！{pause 20}	{catchphrase}！
+"009"	{emote: Worry}え～？{pause 20}	そりゃ　{ruby (charSpan 2): ざんねん}残念！		{emote: Thought}なんとかして	{ruby (charSpan 1): やす}安く　{ruby (charSpan 1): て}手に{ruby (charSpan 1): い}入れたかったんだけど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}あ、なんでもない　こっちの{ruby (charSpan 1): はなし}話！	そんじゃ　また{ruby (charSpan 2): こんど}今度	よろしく{ruby (charSpan 1): たの}頼むよ！
+"010"	{emote: Worry}え～？{pause 8}	そりゃ　{ruby (charSpan 2): ざんねん}残念！		{emote: Thought}{ruby (charSpan 1): ほか}他に　{0011-0003-0002-0000}{pause 20}	{ruby (charSpan 1): も}持ってるヤツって　いるかな？{pause 20}	{catchphrase}？
+"011"	{emote: Worry}え～？{pause 20}	そりゃ　{ruby (charSpan 2): ざんねん}残念！		{emote: Alarmed}もしかして、{Blue}{Number (0x9)}ベル{Color Reset}でも	{ruby (charSpan 2): やすす}安過ぎた？		{emote: Reset}ちょっと　{ruby (charSpan 2): でなお}出直すわ！{pause 20}	また　{ruby (charSpan 2): こんど}今度、{ruby (charSpan 1): つ}付き{ruby (charSpan 1): あ}合ってよ！{pause 20}	{catchphrase}！
+"012"	{0009-0003-000a-0006-0006-000d-000d-000d}
+"013"	{emote: Alarmed}おっ！{pause 20}　{ruby (charSpan 2): せいかい}正解？{pause 40}	{emote: Soft Smile}フフフ、{ruby (charSpan 2): ひっし}必死だね～		{emote: Reset}まぁ　すんなり{ruby (charSpan 1): か}勝っても	{ruby (charSpan 2): おもしろ}面白くない{pause 8}・{pause 8}・{pause 8}・{pause 20}けど、{ruby (charSpan 1): つぎ}次で　{ruby (charSpan 1): き}決めるよ！		{emote: Soft Smile}2{ruby (charSpan 1): かい}回{ruby (charSpan 1): め}目！{pause 20}　{Blue}{Number (0x9)}ベル{Color Reset}に　{ruby (charSpan 2): ちょうせん}挑戦！{pause 40}	コインを　{ruby (charSpan 1): な}投げるから	よ～く{ruby (charSpan 1): み}見て　{ruby (charSpan 2): はんだん}判断しな！	{emote: Anger}せ～の{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Inspired}{0007-000b-0000}	{Text size 150%}ハイ！{Text size 100%}		{emote: Curious}ウラか？{pause 10}　オモテか？{pause 10}	ど～っちだ！{Player can respond (0000):000e-0000-000e-0000}	ウラ	オモテ
+"014"	{0009-0003-000a-0005-0005-000f-000f-000f}
+"015"	{emote: Shocked}げっ！{pause 20}　{ruby (charSpan 2): せいかい}正解？{pause 20}	{pause 20}・{pause 20}・{pause 20}・{pause 40}	{emote: Reset}だ、{ruby (charSpan 3): だいじょうぶ}大丈夫　{ruby (charSpan 3): だいじょうぶ}大丈夫！	{emote: Worry}でも　これ{ruby (charSpan 2): いじょう}以上　{ruby (charSpan 2): ねだん}値段{ruby (charSpan 1): あ}上がると	ウチも　つらいなぁ{pause 8}・{pause 8}・{pause 8}・		{emote: Agreement}よし！{pause 10}　{ruby (charSpan 1): つぎ}次こそ{ruby (charSpan 1): か}勝つよ！{pause 20}	{emote: Reset}3{ruby (charSpan 1): かい}回{ruby (charSpan 1): め}目{pause 8}・{pause 8}・{pause 8}・{pause 20}	これを{ruby (charSpan 1): あ}当てたら　{Blue}{Number (0x9)}ベル{Color Reset}！	{emote: Anger}これが　{ruby (charSpan 2): さいご}最後だよ！{pause 20}	{ruby (charSpan 2): きあ}気合い、{ruby (charSpan 1): い}入れていきな！		{emote: Reset}せ～の{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Inspired}{0007-000b-0000}	{Text size 150%}ハイ！{Text size 100%}		{emote: Curious}ウラか？{pause 8}　オモテか？{pause 20}	ど～っちだ！{Player can respond (0000):0010-0000-0010-0000}	ウラ	オモテ
+"016"	{0009-0003-000a-0004-0004-0003-0003-0003}
+"017"	{emote: Reset}まさか　こんなに{ruby (charSpan 2): かんたん}簡単に	{ruby (charSpan 1): て}手に{ruby (charSpan 1): はい}入るとは　{ruby (charSpan 1): おも}思わなかったよ		{emote: Soft Smile}こりずに、{ruby (charSpan 1): つぎ}次もまた	{ruby (charSpan 1): つ}付き{ruby (charSpan 1): あ}合ってね！{pause 10}　{catchphrase}！
+"018"	{emote: Soft Smile}へへ{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 2): むり}無理{ruby (charSpan 1): い}言って　{ruby (charSpan 1): わる}悪かったね！{pause 40}	{ruby (charSpan 1): つぎ}次も　よろしく{ruby (charSpan 1): たの}頼むよ、{pause 20}{catchphrase}
+"019"	{emote: Agreement}ちょっと　{ruby (charSpan 1): たか}高くついたけど{pause 8}・{pause 8}・{pause 8}・{pause 40}	スリルを{ruby (charSpan 1): か}勝った　{ruby (charSpan 2): ねだん}値段だと　{ruby (charSpan 1): おも}思えば	{ruby (charSpan 1): やす}安いもんさ！	{emote: Anger}でも　{ruby (charSpan 2): こんど}今度は　{ruby (charSpan 1): ま}負けないからね！{pause 40}	{emote: Soft Smile}またよろしく！{pause 20}　{catchphrase}！
+"020"	{emote: Worry}いいんだ、{pause 20}	この　{0011-0003-0002-0000}	すごく　{ruby (charSpan 1): ほ}欲しかったから{pause 10}・{pause 10}・{pause 10}・{pause 20}{catchphrase}

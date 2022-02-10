@@ -1,41 +1,41 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Surprise}
-"003"	{emote: Surprise}
-"004"	{0000-0002-0002-ffffff96-00}{emote: Star Yell}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Distress}
-"009"	{emote: Distress}
-"010"	{emote: Distress}
-"011"	{emote: Delight}
-"012"	おこづかいを{ruby (charSpan 1): だ}出しあって{pause 15}
-"013"	{ruby (charSpan 2): なかよ}仲良しの　{Player nickname (green)}
-"014"	{ruby (charSpan 3): だいしんゆう}大親友の　{pause 3}
-"015"	{pause 5}
-"016"	はい、{pause 15}
-"017"	{ruby (charSpan 2): なかみ}中身は　{ruby (charSpan 1): あ}開けてのお{ruby (charSpan 1): たの}楽しみだよ{Wait for input}
-"018"	あ、{pause 20}
-"019"	{emote: Happiness}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	これからの1{ruby (charSpan 1): ねん}年も{pause 10}
-"023"	{emote: Distress}
-"024"	
-"025"	{emote: Thought}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	{emote: Happiness}
-"029"	
-"030"	
-"031"	{emote: Happiness}
-"032"	{emote: Curious}
-"033"	{emote: Happiness}
-"034"	{emote: Happiness}
-"035"	{emote: Sheepishness}
-"036"	{emote: Surprise}
-"037"	
-"038"	
-"039"	
-"040"	
+"001"	{emote: Surprise}あっ！　{pause 15}{Player nickname (green)}{0005-000d-0000}{pause 20}	{emote: Happiness}{ruby (charSpan 1): ま}待ってたんだよ～{Wait for input}	ちょっとウチまで　{ruby (charSpan 1): き}来て！
+"002"	{emote: Surprise}{pause 15}{Player nickname (green)}{0005-000d-0000}！{Wait for input}	{emote: Distress}だまって　アタイに	ついてきてっ、{pause 8}{catchphrase}！
+"003"	{emote: Surprise}あ、{pause 15}{Player nickname (green)}{0005-000d-0000}！{Wait for input}	{emote: Happiness}アンタに　{ruby (charSpan 1): よう}用があって	{ruby (charSpan 1): ま}待ってたんだ～、{pause 8}{catchphrase}！{Wait for input}とりあえず　ここじゃなんだから、{pause 10}	{ruby (charSpan 1): いま}今から　うちに{ruby (charSpan 1): き}来て！　{pause 8}{catchphrase}！　
+"004"	{Text size 150%}{emote: Star Yell}{Text size 150%}{pause 15}{0007-000b-0000}{000d-0009-0000}{Text size 150%}ハッピ～～　{pause 20}	{Text size 150%}{0007-000b-0000}{Text size 150%}バ～スデ～～！！{Text size 100%}{000d-000a-0000}{pause 40}{emote: Soft Smile}
+"005"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}のために{pause 10}	みんなで　たんじょう{ruby (charSpan 1): かい}会を{pause 5}	{ruby (charSpan 2): けいかく}計画したんだよ、{pause 8}{catchphrase}！{Wait for input}{emote: Joy}ほらほら！{pause 20}	{ruby (charSpan 1): ねが}願いをこめて、{pause 10}	ローソクを　ふき{ruby (charSpan 1): け}消して！{pause 20}{emote: Soft Smile}
+"006"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}のために{pause 10}	みんなで　たんじょう{ruby (charSpan 1): かい}会を{pause 5}	{ruby (charSpan 2): ようい}用意したんだ～！	{emote: Reset}{ruby (charSpan 2): ことし}今年は　うるう{ruby (charSpan 1): どし}年じゃないから{pause 15}	1{ruby (charSpan 1): にち}日{ruby (charSpan 1): はや}早い　お{ruby (charSpan 1): いわ}祝いには{pause 5}	なっちゃうけどね、{pause 8}{catchphrase}	{pause 5}・{pause 5}・{pause 5}・{pause 10}{emote: Inspired}{pause 15}あっ、{pause 10}ほらほら！{pause 20}	{emote: Joy}{ruby (charSpan 1): ねが}願いをこめて、{pause 10}	ローソクを　ふき{ruby (charSpan 1): け}消して！{pause 20}{emote: Soft Smile}
+"007"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}のために{pause 10}	みんなで　たんじょう{ruby (charSpan 1): かい}会を{pause 5}	{ruby (charSpan 2): ようい}用意したんだ～！	{emote: Joy}しかも　{pause 8}{ruby (charSpan 2): ことし}今年は　うるう{ruby (charSpan 1): どし}年だから{pause 10}	ちゃんと2{ruby (charSpan 1): がつ}月29{ruby (charSpan 1): にち}日に　お{ruby (charSpan 1): いわ}祝いできて、{pause 15}	アタイたちも　うれしいよ！	{pause 5}・{pause 5}・{pause 5}・{pause 10}{emote: Inspired}{pause 15}あっ、{pause 10}ほらほら！{pause 20}	{emote: Happiness}{ruby (charSpan 1): ねが}願いをこめて、{pause 10}	ローソクを　ふき{ruby (charSpan 1): け}消して！
+"008"	{emote: Distress}{ruby (charSpan 1): ま}待ってよ、{pause 8}{Player nickname (green)}{0005-000d-0000}！{Wait for input}	せっかく　ケーキ{ruby (charSpan 2): ようい}用意したんだから{pause 15}	ローソク{ruby (charSpan 1): け}消してってよ～！
+"009"	{emote: Distress}{pause 8}{Player nickname (green)}{0005-000d-0000}、{pause 10}ストップ！{Wait for input}	{ruby (charSpan 2): きょう}今日は　アンタが{ruby (charSpan 2): しゅやく}主役なんだから{pause 10}	まだ{ruby (charSpan 1): かえ}帰られちゃ　こまるよ～！
+"010"	{emote: Distress}ちょっと、{pause 10}{Player nickname (green)}{0005-000d-0000}！{Wait for input}	{ruby (charSpan 1): かえ}帰る{ruby (charSpan 1): まえ}前に　{pause 10}ケーキのローソクは	{ruby (charSpan 1): け}消してって～！　{pause 8}{catchphrase}！
+"011"	{emote: Delight}いい　{ruby (charSpan 1): け}消しっぷりだったよ！{Wait for input}	{emote: Happiness}さぁ　このあとは、{pause 15}お{ruby (charSpan 1): ま}待ちかねの{pause 8}	プレゼント　タ～イム！
+"012"	おこづかいを{ruby (charSpan 1): だ}出しあって{pause 15}	みんなで　いっしょに{ruby (charSpan 1): えら}選んだの{Wait for input}	{ruby (charSpan 2): だいじ}大事にしてね！
+"013"	{ruby (charSpan 2): なかよ}仲良しの　{Player nickname (green)}{0005-000d-0000}のために{pause 15}	フンパツしちゃったよ～！
+"014"	{ruby (charSpan 3): だいしんゆう}大親友の　{pause 3}{Player nickname (green)}{0005-000d-0000}のために{pause 15}	とっておき{ruby (charSpan 1): ちゅう}中の　{pause 5}とっておきを{pause 10}	{ruby (charSpan 2): ようい}用意したんだよ！
+"015"	{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Worry}けど、{pause 10}その{ruby (charSpan 2): にもつ}荷物じゃ	{ruby (charSpan 1): も}持って{ruby (charSpan 1): かえ}帰るのは　{pause 5}キビシイよね{Wait for input}だったら、{pause 10}{ruby (charSpan 2): あした}明日{pause 8}	{Player nickname (green)}{0005-000d-0000}ちに　{ruby (charSpan 1): おく}送っておくよ！{Wait for input}{emote: Happiness}じゃ、{pause 10}あとは　{ruby (charSpan 1): す}好きなだけ{pause 8}	ゆっくりしてってね～！
+"016"	はい、{pause 15}ど～ぞ！
+"017"	{ruby (charSpan 2): なかみ}中身は　{ruby (charSpan 1): あ}開けてのお{ruby (charSpan 1): たの}楽しみだよ{Wait for input}	{emote: Happiness}じゃ、{pause 10}あとは　{ruby (charSpan 1): す}好きなだけ	ゆっくりしてってね～！
+"018"	あ、{pause 20}{Player nickname (green)}{0005-000d-0000}{pause 10}	{emote: Curious}そろそろ　{ruby (charSpan 1): かえ}帰る？{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): ごういん}強引に{ruby (charSpan 1): つ}連れてきちゃったけど、{pause 10}	{ruby (charSpan 2): さいご}最後まで　{ruby (charSpan 1): つ}付き{ruby (charSpan 1): あ}合ってくれて{pause 10}	ありがとね！　{pause 8}{catchphrase}！
+"019"	{emote: Happiness}{ruby (charSpan 2): らいねん}来年の　たんじょう{ruby (charSpan 1): び}日も{pause 10}	こうやって　みんなで{pause 8}	お{ruby (charSpan 1): いわ}祝いできたらいいね！　{pause 8}{catchphrase}
+"020"	{emote: Happiness}たんじょう{ruby (charSpan 1): かい}会って{pause 10}	テンション{ruby (charSpan 1): あ}上がっちゃうんだよね～！{Wait for input}{emote: Glee}もう{ruby (charSpan 2): まいにち}毎日、{pause 10}だれかのたんじょう{ruby (charSpan 1): かい}会が	あればいいのに！
+"021"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、{pause 10}どう？{pause 20}	ステキな　お{ruby (charSpan 1): いわ}祝いになったでしょ？{Wait for input}{emote: Glee}イケてるパーティーなら{pause 10}	{Villager's name (orange)}に　{pause 10}{emote: Showmanship}おまかせだよ！
+"022"	これからの1{ruby (charSpan 1): ねん}年も{pause 10}	いいカンジに　{ruby (charSpan 1): す}過ごせたらいいね！
+"023"	{emote: Distress}あ～っ！{pause 15}	アタイも　{pause 10}{ruby (charSpan 2): じぶん}自分のたんじょう{ruby (charSpan 1): かい}会が	{ruby (charSpan 1): ま}待ち{ruby (charSpan 1): どお}遠し～い！
+"024"
+"025"	{emote: Thought}えっと、{pause 10}{Player nickname (green)}{0005-000d-0000}が	お{ruby (charSpan 1): ねが}願いしてたのって{pause 8}	たしか{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Inspired}{pause 15}「{0012-0014-0000}」	だったよね！{Wait for input}{emote: Happiness}その{ruby (charSpan 1): ねが}願いごとが　かなうように、{pause 8}	アタイ{pause 10}　{ruby (charSpan 1): むら}村のみんなに	センデンしといてあげる！
+"026"	{emote: Happiness}ほら、{pause 10}{ruby (charSpan 1): はや}早くケーキのローソク{pause 8}	{ruby (charSpan 1): け}消して～！
+"027"	{emote: Happiness}さぁさぁ、{pause 20}ケーキのローソク{pause 10}	{ruby (charSpan 2): いっき}一気に　ふき{ruby (charSpan 1): け}消しちゃってよ！
+"028"	{emote: Happiness}ローソク、{pause 10}フ～ってやって！{pause 20}	{ruby (charSpan 1): はや}早くしないと　{pause 5}とけちゃうよ！
+"029"
+"030"
+"031"	{emote: Happiness}{Player name}{0005-000d-0000}のために{pause 10}	{ruby (charSpan 2): とくべつ}特別に{ruby (charSpan 2): ようい}用意した{pause 8}	スペシャルケーキだよ！	さぁ、{pause 20}まずは　{ruby (charSpan 1): なん}何か{pause 10}	{ruby (charSpan 1): ねが}願いごとでもしてみてよ！
+"032"	{emote: Curious}あれ？　{pause 20}もう{ruby (charSpan 1): お}終わり？{Wait for input}	{emote: Happiness}じゃあ　{pause 15}{ruby (charSpan 1): いき}息でフ～って、{pause 10}	{ruby (charSpan 2): いっき}一気にローソクを　{pause 8}ふき{ruby (charSpan 1): け}消しちゃってよ！
+"033"	{emote: Happiness}じゃあ　{pause 8}あとは、{pause 15}	ケーキのローソクを{pause 10}	{ruby (charSpan 2): いっき}一気に　ふき{ruby (charSpan 1): け}消しちゃって～！
+"034"	{emote: Happiness}ねぇねぇ、{pause 10}どんなことを	{emote: Curious}お{ruby (charSpan 1): ねが}願いしたの？{Wait for input}{emote: Glee}{ruby (charSpan 1): おし}教えてくれたら、{pause 10}	お{ruby (charSpan 1): ねが}願いが　かなうように{pause 10}	みんなに{ruby (charSpan 1): ひろ}広めてあげるよ！？{000f-0005-0004-0000-0000}	あのね・・・	ナイショ！
+"035"	{emote: Sheepishness}そっか～！{Wait for input}	{ruby (charSpan 2): だいじ}大事な　お{ruby (charSpan 1): ねが}願いごとは、{pause 10}	ムネに　ひめとかないとね！{Wait for input}{emote: Happiness}どんな　お{ruby (charSpan 1): ねが}願いしたかは{pause 5}　わからないけど{pause 10}	{ruby (charSpan 1): つぎ}次の　たんじょう{ruby (charSpan 1): び}日までに	{pause 5}かなうといいね、{pause 15}{catchphrase}！
+"036"	{emote: Surprise}へ～！{pause 20}	「{0012-0014-0000}」{pause 10}	か～！{Wait for input}{emote: Happiness}みんなに　アピールしとくと{pause 10}	だれかが　{ruby (charSpan 2): きょうりょく}協力してくれるかもしれないし、{pause 10}	{emote: Flourish}アタイが{ruby (charSpan 1): ひろ}広めといてあげる！
+"037"
+"038"
+"039"
+"040"

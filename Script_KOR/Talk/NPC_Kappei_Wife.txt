@@ -1,50 +1,50 @@
 == 0 ==
-"001"	{pause 5}
-"002"	{pause 5}
-"003"	{Blue}투어 신청{Color Reset}이나{pause 8}
-"004"	{emote: Sunny}
-"005"	{emote: Happiness}
-"006"	응? {pause 10}
-"007"	{pause 5}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{pause 5}
-"013"	{pause 5}
-"014"	돌아갈 배의	무료 BGM 서비스는 {pause 5}
-"015"	{pause 5}
-"016"	{emote: Worry}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	돌아갈 준비를 하고 있습니다{pause 5}
-"021"	음{pause 8}
-"022"	{emote: Happiness}
-"023"	그런데 {pause 5}
-"024"	{emote: Happiness}
-"025"	
-"026"	
-"027"	
-"028"	
-"029"	
-"031"	{emote: Happiness}
-"032"	{0011-0000-0002-00-00}
-"033"	모두 모이면 출항할 테니,{pause 15}!
-"034"	준비가 다 되면 출항할 테니,{pause 15}
-"035"	모두 모이면 출항할 테니,{pause 15}!
-"036"	같이 가고 싶은 사람에겐{pause 8}
-"037"	{pause 5}
-"038"	{pause 5}
-"039"	{emote: Sunny}
-"040"	{emote: Worry}
-"041"	돌아가는 배는 모두가 모이면	출항합니다{pause 15}
-"042"	돌아가는 배는 모두가 모이면{pause 8}
-"043"	{emote: Happiness}
-"044"	{pause 5}
-"045"	{emote: Happiness}
-"046"	{emote: Sunny}
-"047"	
-"048"	
-"049"	
-"050"	
+"001"	{pause 5}{emote: Alarmed}{pause 10}어머!{pause 20}	혹시 {pause 10}{Town name (pink)} 마을	{emote: Sunny}{Player name}씨 아니세요?{Wait for input}{emote: Happiness}{Orange}고북{Color Reset}씨한테{pause 5} 들었지요{pause 10}	잘 {pause 10}왔어요～!{Wait for input}여기선{pause 5} 다른 섬으로 놀러 가는	{Blue}투어{Color Reset}를 신청 받고 있으니까{pause 15}	언제든 말만 하세요{Wait for input}{emote: Happiness}옆에 꽂혀 있는 책자에{pause 8}	자세한 설명이 되어 있으니까{pause 20}	시간 날 때 읽어보세요!	{emote: Reset}일단은 {pause 10}모처럼	멀리서 왔으니까{pause 20}	{emote: Agreement}천천히 둘러보세요～!{emote: Happiness}
+"002"	{pause 5}{emote: Alarmed}{pause 10}어머!{pause 20}	{Player name}씨{pause 10}	{emote: Happiness}잘{pause 10} 오셨어요!
+"003"	{Blue}투어 신청{Color Reset}이나{pause 8}	{Blue}돌아가는 배{Color Reset}를 부르려면{pause 15}	언제든 말씀하세요!{000f-0006-0006-0000-0000-0028}	투어 갈래!	돌아갈래	아무것도 아냐
+"004"	{emote: Sunny}그럼, {pause 10}놀고 싶은 만큼	천천히 즐기세요!
+"005"	{emote: Happiness}투어에{pause 5} 가려구요?!{Wait for input}	그럼 마음에 드는 투어를 골라보세요!
+"006"	응? {pause 10}{emote: Curious}안 가세요?{Wait for input}	{emote: Reset}그럼 다시 {pause 10}가고 싶어지면	언제든 말씀하세요!
+"007"	{pause 5}{emote: Sunny}{pause 10}{0012-0015-0000}에{pause 5}	가시는 거 맞죠?!{confirmation-02}{000f-0005-0004-0000-0000}	맞아ー!	안 갈래
+"008"	{emote: Happiness}좋아요～ {pause 10}그럼	준비가 다 끝나면 뒤쪽 의자에 앉아서{pause 5}	기다려주세요!
+"009"	{emote: Happiness}좋아요～ {pause 10}그럼	준비가 다 끝나면{pause 15}	뒤쪽 의자에 앉아서 {pause 5}기다려주세요!{Wait for input}친구분도 같이 해서{pause 8}	두 분 모두 준비가 다 되면{pause 15}	출발할게요!
+"010"	{emote: Happiness}좋아요～ {pause 10}그럼	준비가 다 끝나면{pause 15}	뒤쪽 의자에 앉아서 {pause 5}기다려주세요!{Wait for input}친구분들도 같이 해서{pause 8}	모두 준비가 끝나시면{pause 15}	출발할게요!
+"011"	{emote: Happiness}좋아요～ {pause 10}그럼	지금 {pause 5}섬에 계신 다른 손님들한테도	공지할 테니까, {pause 10}잠깐만 기다려주세요!{Wait for input}{emote: Reset}{Player name}씨가 의자에 앉으면{pause 5}	출발할 테니,{pause 20} 같이 가고 싶은 손님은{pause 8}	미리 자리에 앉히세요!
+"012"	{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Alarmed}{pause 10}앗!{pause 10}	근데 지금 {pause 10}{emote: Thought}짐을	갖고 계신 것 같은데{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Reset}투어할 때는 짐을 들고 가실 수 없으니{pause 15}	귀중품은 {Blue}물품보관함{Color Reset}에	맡기시고 {pause 10}앉아주세요!{Wait for input}출발할 때 남아 있는 짐은{pause 8}	전부 돈으로 바뀌어 버리거든요!{Wait for input}	{emote: Happiness}주의해주세요!
+"013"	{pause 5}{emote: Alarmed}{pause 10}어머!{pause 20}	벌써 가시게요?{confirmation-02}{000f-0005-0004-0015-0028}	응, 돌아갈래!	아직 안 갈래
+"014"	돌아갈 배의	무료 BGM 서비스는 {pause 5}{emote: Curious}어쩔까요?{confirmation-02}{000f-0005-0004-0015-0028}	들을래!	안 들을래
+"015"	{pause 5}{emote: Sunny}{pause 10}그럼 BGM 들으면서{pause 5} 갑니다!
+"016"	{emote: Worry}그렇군요{pause 5}・{pause 5}・{pause 5}・{pause 15}	사양 안 하셔도 되는데{pause 5}・{pause 5}・{pause 5}・
+"017"	{emote: Happiness}좋아요～ {pause 10}그럼	준비 다 끝나면{pause 15}	뒤쪽 의자에 앉아서 {pause 5}기다려주세요!{Wait for input}친구분도 같이 해서{pause 8}	두 분 다 준비 끝나면{pause 15}	돌아갈 배에 타도록 할게요!
+"018"	{emote: Happiness}좋아요～ {pause 10}그럼	준비 다 끝나면{pause 15}	뒤쪽 의자에 앉아서 {pause 5}기다려주세요!{Wait for input}친구분들도 같이 해서{pause 8}	모두 다 준비 끝나면{pause 15}	돌아갈 배에 타도록 할게요!
+"019"	{emote: Happiness}오늘 고마웠어요!{pause 20}	{emote: Greetings}{pause 5}그럼 다음에 또 봬요～!{0007-0008-0004-003c-0000}
+"020"	돌아갈 준비를 하고 있습니다{pause 5}・{pause 5}・{pause 5}・{pause 15}	잠시만 기다려 주십시오{pause 5}・{pause 5}・{pause 5}・
+"021"	음{pause 8}・{pause 8}・{pause 8}・{pause 15}	뭔가 애로 사항이 있나보네요{Wait for input}	한 번 더 {pause 5}{emote: Curious}시도해볼까요?{confirmation-02}{000f-0005-0004-0015-0028}	부탁해!	아냐, 됐어
+"022"	{emote: Happiness}아, 그럼 {pause 10}다시 돌아가고 싶을 때	언제든 말하세요!
+"023"	그런데 {pause 5}{Player name}씨,{pause 15}	주머니 속에 아직 짐이{pause 10}	남아 있는 것 같은데 괜찮으시겠어요?{Wait for input}{emote: Reset}{Blue}물품보관함{Color Reset}에 넣어 두지 않은 물건은	돈으로 바꿔서 입금해드리고 있는데{pause 8}・{pause 8}・{pause 8}・{pause 20}	그럼 {pause 5}{emote: Curious}돌아가시겠어요?{confirmation-02}{000f-0005-0004-0015-0028}	응, 돌아갈래!	잠깐만 기다려줘!
+"024"	{emote: Happiness}그럼, {pause 10}돌아갈 채비가 끝나면{pause 5}	언제든 말씀해주세요!
+"025"
+"026"
+"027"
+"028"
+"029"
+"031"	{emote: Happiness}마침 지금{pause 10}	{0012-0015-0000}행 배가	{pause 8}출항을 기다리고 있어요
+"032"	{0011-0000-0002-0000}씨가 준비되면	바로 출항할 테니, {pause 15}함께 가려면{pause 8}	얼른 의자에 앉아주세요!
+"033"	모두 모이면 출항할 테니,{pause 15}	얼른 의자에 앉아서{pause 8}	기다려주세요!
+"034"	준비가 다 되면 출항할 테니,{pause 15}	의자에 앉아서 기다려주세요!{000f-0000-0004-0015-0028}	오케이	취소할래
+"035"	모두 모이면 출항할 테니,{pause 15}	얼른 의자에 앉아서{pause 8}	기다려주세요!{000f-0000-0004-0015-0028}	오케이	취소할래
+"036"	같이 가고 싶은 사람에겐{pause 8}	먼저 의자에 앉아서 기다리도록{pause 5}	전해주세요!{Wait for input}{emote: Happiness}{0011-0000-0002-0000}씨가	준비되면 바로 출항할 테니,{pause 15}	준비 끝나면 의자에 앉아주세요!{000f-0000-0004-0015-0028}	오케이	취소할래
+"037"	{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Alarmed}{pause 10}아 참!{pause 10}	혹시 몰라서 {pause 5}말씀드립니다만{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Reset}투어엔 짐을 가져갈 수 없어요{pause 15}	중요한 물건은 의자에 앉기 전에{pause 8}	{Blue}물품보관함{Color Reset}에 넣어 두세요!{Wait for input}출발할 때 남아 있는 짐은{pause 8}	돈으로 바뀌어 버리거든요!{Wait for input}	{emote: Happiness}주의해주세요!
+"038"	{pause 5}{emote: Alarmed}{pause 10}어머!{pause 20}	{emote: Reset}투어에 가시기로 한 건{pause 5}{emote: Curious} 취소인가요?{confirmation-02}{000f-0005-0004-0015-0028}	응, 취소할래!	아냐, 갈래
+"039"	{emote: Sunny}네!{pause 20}	그럼, {pause 5}얼른 준비하세요!
+"040"	{emote: Worry}네{pause 8}・{pause 8}・{pause 8}・{pause 20}	그럼, {pause 10}취소할게요{Wait for input}{emote: Reset}다시 {pause 10}투어에 참가하고 싶어지면{pause 5}	{emote: Happiness}언제든 말씀하세요!
+"041"	돌아가는 배는 모두가 모이면	출항합니다{pause 15}	얼른 의자에 앉아서 기다려주세요!
+"042"	돌아가는 배는 모두가 모이면{pause 8}	출항합니다!{000f-0000-0004-0015-0028}	오케이	취소할래
+"043"	{emote: Happiness}돌아갈 채비가 끝나면{pause 15}	의자에 앉아서 기다려주세요!
+"044"	{pause 5}{emote: Alarmed}{pause 10}어머!{pause 20}	{emote: Reset}안 돌아가고 {pause 10}좀 더{pause 5}	{emote: Curious}섬에 계시게요?{confirmation-02}{000f-0005-0004-0015-0028}	섬에 있을래!	아니, 돌아갈래
+"045"	{emote: Happiness}네!{pause 20}	그럼, {pause 5}얼른	돌아갈 채비를 해주세요!
+"046"	{emote: Sunny}그러실래요?{pause 20}	그럼, {pause 5}놀고 싶은 만큼{pause 5}	천천히 즐기세요!
+"047"
+"048"
+"049"
+"050"

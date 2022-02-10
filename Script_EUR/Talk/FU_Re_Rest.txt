@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Distress}
-"003"	{emote: Curious}
+"001"	{emote: Curious}Are you OK?{pause 20} You look a little tired.{Wait for input}	{emote: Happiness}It's always good to take a break if	you've been playing awhile.
+"002"	{emote: Distress}Oh gosh, {pause 10}you look really worn out!{Wait for input}	{emote: Reset}Don't forget to take a break now	and then.
+"003"	{emote: Curious}Is everything all right?{Wait for input} You look	kind of tired.{Wait for input}{emote: Happiness}Maybe you should take a break.{pause 20}	Drink some {0005-000e-0002-0000} or	something,{pause 8} and rest awhile.
 == 1 ==
-"001"	{emote: Curious}
-"002"	{emote: Distress}
-"003"	{emote: Curious}
+"001"	{emote: Curious}¿Estás bien?{pause 20} Menuda carita me	traes.{Wait for input}{emote: Happiness} Descansar un poco siempre	sienta genial después de jugar.
+"002"	{emote: Distress}Vaya, {pause 10}¡pareces agotad{o/a}!{Wait for input} {emote: Happiness}Yo procuro	descansar de vez en cuando. {pause 20}Luego	se disfruta más del día,{pause 10} ¿sabes?
+"003"	{emote: Curious}¿Te pasa algo, cielo?{Wait for input} Menudas	ojeritas tienes.{pause 20} Diría que te has	tirado jugando horas y horas{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}¿Por qué no descansas un ratito?	{pause 20}Beber {0005-000e-0002-0000} también	suele ayudar,{pause 10} pero no es lo mismo.
 == 2 ==
-"001"	{emote: Curious}
-"002"	{emote: Distress}
-"003"	{emote: Curious}
+"001"	{emote: Curious}Ça va ?{pause 10} Tu as des petits yeux...{pause 10} Il	serait temps de penser à faire une	pause, tu ne crois pas ?
+"002"	{emote: Distress}Tu as l'air sur les rotules !{pause 10} De temps	en temps, une petite pause ne fait	pas de mal, tu sais...
+"003"	{emote: Curious}Ça va ?{pause 10} Tu n'as pas très bonne	mine...{pause 10} Comme si tu étais exténué{/e}	d'avoir trop joué...	Il faut recharger les batteries,	parfois...{pause 10} {capitalized}{Article(word-dependant)}{0005-000e-0002-0000},	un peu de repos, et c'est reparti !
 == 3 ==
-"001"	{emote: Curious}
-"002"	{emote: Distress}
-"003"	{emote: Curious}
+"001"	{emote: Curious}Stai bene?{pause 20} Mi sembri un po' stanc{o/a}.{Wait for input}	{emote: Happiness}Dopo aver giocato tanto,{pause 10} fa bene	riposarsi un pochettino!
+"002"	{emote: Distress}Uaaau, {pause 10}sembri davvero distrutt{o/a}!{Wait for input}	{emote: Happiness}Credo che di tanto in tanto	{pause 10}faccia bene riposarsi un po'.
+"003"	{emote: Curious}Stai bene?{Wait for input}	Sembri un po' stanc{o/a}.{pause 10} Hai giocato	tanto?	{emote: Happiness}Quando ti senti senza energie, bevi	{Article(word-dependant)}{0005-000e-0002-0000}{pause 10} e riposati	un pochettino, {pause 15}{catchphrase}!
 == 4 ==
-"001"	{emote: Curious}
-"002"	{emote: Distress}
-"003"	{emote: Curious}
+"001"	{emote: Curious}Alles in Ordnung?{pause 20} Du siehst etwas	müde aus.{pause 10} Wenn man viel gespielt	hat, muss man sich auch ausruhen!
+"002"	{emote: Distress}Uiii, {pause 10}du siehst aber müde aus.{pause 10}	{emote: Happiness}Ab und an mal ein Päuschen zu	machen ist sicher nicht verkehrt!
+"003"	{emote: Curious}Ist alles in Ordnung?{pause 10} Du siehst ganz	erschöpft aus, als hättest du zu viel	gespielt oder so.	{emote: Happiness}Ich empfehle dir, dich auszuruhen	und {0005-000e-0002-0000} zu trinken!

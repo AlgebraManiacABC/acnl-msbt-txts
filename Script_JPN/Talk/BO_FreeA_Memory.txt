@@ -1,19 +1,19 @@
 == 0 ==
-"001"	ボク　わすれっぽいけど、{pause 20}
-"002"	{emote: Glare}
-"003"	
-"004"	{0011-0000-0002-00-00}
-"005"	{0011-0000-0002-00-00}
-"006"	{0011-0000-0002-00-00}
-"007"	{emote: Happiness}
-"008"	{ruby (charSpan 1): まえ}前にね、{pause 20}
-"009"	この{ruby (charSpan 1): あいだ}間、{pause 20}
-"010"	{emote: Happiness}
-"011"	ボクが　{ruby (charSpan 1): まえ}前にすんでた	{0011-0002-0002-00-00}
-"012"	{0011-0002-0002-00-00}
-"013"	この{ruby (charSpan 1): まえ}前　おうちのテレビで	{0005-0011-0002-00-00}
-"014"	ボクが　{ruby (charSpan 2): ゆうがた}夕方になると	ついつい　{ruby (charSpan 1): くち}口ずさむ{ruby (charSpan 1): うた}歌{pause 8}
-"015"	{emote: Glee}
-"016"	{emote: Happiness}
-"017"	{emote: Glee}
-"018"	{emote: Daydreaming}
+"001"	ボク　わすれっぽいけど、{pause 20}	いっしょに　あそんだコトとか{pause 20}	うれしかったコトは、{Wait for input}{emote: Glee}{ruby (charSpan 1): こころ}心のノートに　{ruby (charSpan 1): か}書いておいて{pause 20}	オヤスミ{ruby (charSpan 1): まえ}前に　{ruby (charSpan 1): よ}読みかえすんだぁ、{pause 8}{catchphrase}
+"002"	{emote: Glare}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	キミ　コレおぼえてるかなぁ～？{Wait for input}	{emote: Sunny}じゃあ～ん！
+"003"
+"004"	{0011-0000-0002-0000}{0005-000d-0000}って{pause 20}	{emote: Curious}キミの　おともだち～？{Wait for input}{emote: Daydreaming}ボクにとって　あのコは	{0011-0004-0002-0000}ってかんじで、{pause 20}	どんどん　ムネの{ruby (charSpan 1): なか}中で{ruby (charSpan 1): おお}大きくなって{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}{0007-000a-0000}このきもち！{pause 40}	{0005-0013-0002-0000}のことを	{ruby (charSpan 1): かんが}考えてるときと　{ruby (charSpan 1): おな}同じだよぉ、{pause 8}{catchphrase}
+"005"	{0011-0000-0002-0000}{0005-000d-0000}って	キミのおともだち　だよねぇ～？{Wait for input}{emote: Thought}あのコ　ボクがにらんだところ{pause 20}	そうとうの　{0011-0004-0002-0000}	だと{ruby (charSpan 1): おも}思うんだぁ、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}えへへ～{pause 20}　{ruby (charSpan 1): あ}当たってるかなぁ？{pause 40}	ボク　きょうみしんしんだよぉ～！
+"006"	{0011-0000-0002-0000}{0005-000d-0000}って	{emote: Curious}{ruby (charSpan 1): し}知ってるぅ～？{Wait for input}{emote: Thought}{ruby (charSpan 1): とお}遠くから{ruby (charSpan 1): み}見てると　なんとなく	{0011-0004-0002-0000}ってかんじに	{ruby (charSpan 1): み}見えるんだけど{pause 20}　あってるかなぁ？{Wait for input}{emote: Happiness}もっと　お{ruby (charSpan 1): はな}話しして{pause 20}	あのコのこと	いろいろ　{ruby (charSpan 1): し}知りたいなぁ～
+"007"	{emote: Happiness}えへへ～{pause 20}	コレ　{ruby (charSpan 1): み}見せてあげちゃうねぇ～{pause 40}	よっこいしょっと！
+"008"	{ruby (charSpan 1): まえ}前にね、{pause 20}{0011-0000-0002-0000}{0005-000d-0000}に{pause 20}	{0011-0003-0002-0000}を	もらったんだよぉ～{Wait for input}{emote: Daydreaming}どんなきもちで　くれたのか	わからないけど、{pause 20}	かわりに　そうぞうしてみるんだぁ～{Wait for input}{emote: Thought}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	なんか{pause 20}　{emote: Joy}あったかいきもち、{pause 8}{catchphrase}
+"009"	この{ruby (charSpan 1): あいだ}間、{pause 20}{0011-0000-0002-0000}{ruby (charSpan 1): むら}村の	{0011-0002-0002-0000}{0005-000d-0000}と{ruby (charSpan 1): はな}話したよぉ～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}アレ？{pause 40}	{emote: Laughter}{0011-0002-0002-0000}{ruby (charSpan 1): むら}村の	{0011-0000-0002-0000}{0005-000d-0000}だったぁ、{pause 8}{catchphrase}{Wait for input}{emote: Glare}あのコ　ボクのよそうだと、	かなりの　{0011-0004-0002-0000}	だと{ruby (charSpan 1): おも}思うんだぁ、{pause 8}{catchphrase}
+"010"	{emote: Happiness}えへへ～{pause 20}	{ruby (charSpan 1): み}見せちゃお～っと{Wait for input}{emote: Reset}{0011-0002-0002-0000}{ruby (charSpan 1): むら}村の{pause 20}	{0011-0000-0002-0000}{0005-000d-0000}から	もらったお{ruby (charSpan 2): てがみ}手紙だよぉ、{pause 8}{catchphrase}
+"011"	ボクが　{ruby (charSpan 1): まえ}前にすんでた	{0011-0002-0002-0000}{ruby (charSpan 1): むら}村、{Wait for input}そこの　{0011-0000-0002-0000}{0005-000d-0000}って	{emote: Curious}{ruby (charSpan 1): し}知ってるぅ～？{Wait for input}{emote: Daydreaming}あのコ　{0011-0002-0002-0000}{ruby (charSpan 1): むら}村だと	あるイミ　アイドルだったなぁ～{Wait for input}{emote: Glee}{0011-0004-0002-0000}ってかんじで{pause 20}	{ruby (charSpan 2): めだ}目立ってたんだぁ、{pause 8}{catchphrase}
+"012"	{0011-0002-0002-0000}{ruby (charSpan 1): むら}村の　{0011-0000-0002-0000}{0005-000d-0000}は、{pause 20}	ボクの　{ruby (charSpan 1): まえ}前にすんでた{ruby (charSpan 1): むら}村の	おともだちさぁ、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}{0011-0004-0002-0000}ってかんじで、	みんなに{ruby (charSpan 2): いちもく}一目おかれてたよぉ～
+"013"	この{ruby (charSpan 1): まえ}前　おうちのテレビで	{0005-0011-0002-0000}のしあいを　{ruby (charSpan 1): み}見てたらね、{Wait for input}{emote: Distress}{ruby (charSpan 1): まえ}前にすんでた　{0011-0002-0002-0000}{ruby (charSpan 1): むら}村の	{0011-0000-0002-0000}{0005-000d-0000}が{pause 20}	うつったんだよぉ～{Wait for input}{emote: Sadness}もっと　あのコと	なかよくなっておけば	よかったなぁ、{pause 8}{catchphrase}
+"014"	ボクが　{ruby (charSpan 2): ゆうがた}夕方になると	ついつい　{ruby (charSpan 1): くち}口ずさむ{ruby (charSpan 1): うた}歌{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sorrow}なけるなぁ～って　{ruby (charSpan 1): おも}思ったら、	{ruby (charSpan 1): まえ}前にすんでた　{0011-0002-0002-0000}{ruby (charSpan 1): むら}村の	{ruby (charSpan 1): むら}村メロだったよぉ～{Wait for input}{emote: Anger}{Player nickname (green)}{0005-000d-0000}！{pause 20}	ハンカチ　よういしてぇ～{Wait for input}{emote: Glee}ふ～ん　ふふふ～ん{000d-0003-0002-cd00}
+"015"	{emote: Glee}キミがはじめてくれた	お{ruby (charSpan 2): てがみ}手紙だよぉ～{Wait for input}{emote: Love}まだお{ruby (charSpan 2): てがみ}手紙を{ruby (charSpan 1): か}書くのに	なれてないキミ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Happiness}なつかしいきもちに　なれたぁ？
+"016"	{emote: Happiness}お{ruby (charSpan 2): てがみ}手紙で　とどけられるのは、{pause 20}	{ruby (charSpan 2): もじ}文字だけじゃないんだねぇ～{Wait for input}{emote: Reset}キミは　{ruby (charSpan 1): き}気づいたぁ？{pause 40}	この　お{ruby (charSpan 2): てがみ}手紙にしみついた	{0005-0013-0002-0000}のかおり、{pause 8}{catchphrase}
+"017"	{emote: Glee}このお{ruby (charSpan 2): てがみ}手紙、ボクのたからものなんだぁ！{pause 40}	いっつも　まくらの{ruby (charSpan 1): した}下に{ruby (charSpan 1): い}入れて	ねてるよぉ、{pause 8}{catchphrase}
+"018"	{emote: Daydreaming}うぅ～ん{pause 20}	このメロディーをきくと	{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出しちゃうんだぁ、{pause 8}{catchphrase}{Wait for input}{emote: Sigh}あのとき　{ruby (charSpan 1): た}食べそこねた	{0005-0010-0002-0000}のこと{pause 8}・{pause 8}・{pause 8}・

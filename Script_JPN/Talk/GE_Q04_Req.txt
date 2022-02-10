@@ -1,17 +1,17 @@
 == 0 ==
-"001"	{0011-0001-0002-01-00}{0005-000d-0000}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Soft Smile}
-"006"	
-"007"	{emote: Happiness}
-"008"	{emote: Glee}
-"009"	{emote: Glee}
-"010"	
-"011"	{emote: Cold Chill}
-"012"	{emote: Resigned}
-"013"	{emote: Sadness}
-"014"	
-"015"	
-"016"	
+"001"	{0011-0001-0002-0001}{0005-000d-0000}に{pause 10}	{ruby (charSpan 2): ようじ}用事があるんだけど{pause 10}	{emote: Worry}アタイ、{pause 10}{ruby (charSpan 1): いま}今　{ruby (charSpan 1): て}手がはなせなくてさ～！	{emote: Distress}ほんっと　{ruby (charSpan 1): わる}悪いんだけど{pause 10}	{ruby (charSpan 1): か}代わりに　{pause 8}{0011-0001-0002-0001}{0005-000d-0000}{pause 8}	{ruby (charSpan 1): つ}連れて{ruby (charSpan 1): き}来てくれないかなぁ、{pause 10}{catchphrase}？{Wait for input}{emote: Worry}{Blue}1{ruby (charSpan 2): じかん}時間{ruby (charSpan 2): いない}以内{Color Reset}でいいから{pause 10}	お{ruby (charSpan 1): ねが}願いできる？{000f-0005-0004-0015-0028}	オッケー	ごめん
+"002"	{emote: Worry}アタイ、{pause 10}{0011-0001-0002-0001}{0005-000d-0000}に{pause 10}	{ruby (charSpan 1): い}言わなきゃいけないことが	あったんだけど{pause 5}・{pause 5}・{pause 5}・{pause 5}{Wait for input}{emote: Distress}どうしても　{pause 5}{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出せないんだよ～！{Wait for input}	う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}がんばって{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出しとくからさ{pause 15}	{Blue}{Blue}1{ruby (charSpan 2): じかん}時間{ruby (charSpan 2): いない}以内{Blue}{Color Reset}に　{pause 8}{ruby (charSpan 1): み}見つけてきてくれない？{000f-0005-0004-0015-0028}	オッケー	ムリ～
+"003"	{emote: Happiness}アタイ、{pause 10}{ruby (charSpan 1): いま}今から	{0011-0001-0002-0001}{0005-000d-0000}と{pause 10}	{ruby (charSpan 2): だいじ}大事な{ruby (charSpan 1): はなし}話があるんだよね～	{emote: Surprise}あ！　{pause 20}でも、こんな{ruby (charSpan 2): かっこう}格好じゃ{pause 10}	{emote: Distress}{ruby (charSpan 1): そと}外{ruby (charSpan 1): で}出れないよ～！{Wait for input}{emote: Inspired}そうだ！{pause 20}　{Player nickname (green)}{0005-000d-0000}は	{pause 10}もうバッチリみたいだし、{pause 10}	ちょっと　よんできてくれない？{pause 20}	{Blue}{Blue}1{ruby (charSpan 2): じかん}時間{ruby (charSpan 2): いない}以内{Blue}{Color Reset}でいいからさ～！{000f-0005-0004-0015-0028}	オッケー	ゴメン
+"004"	{emote: Happiness}この{ruby (charSpan 1): まえ}前　{pause 10}{Player nickname (green)}{0005-000d-0000}が{pause 10}	お{ruby (charSpan 1): ねが}願いを　{pause 5}{ruby (charSpan 1): なん}何でも{ruby (charSpan 1): き}聞いてくれる{ruby (charSpan 1): ゆめ}夢を	{ruby (charSpan 1): み}見たんだけど、	もしかして、{pause 10}	{emote: Curious}あれって　{ruby (charSpan 2): まさゆめ}正夢になるのかな？{Wait for input}{emote: Inspired}そうだ！{pause 20}	ちょうど　お{ruby (charSpan 1): ねが}願いしたいことが	あったんだよね～！	{emote: Soft Smile}{0011-0001-0002-0001}{0005-000d-0000}に　{ruby (charSpan 2): ようじ}用事があるから、{pause 10}	{Blue}1{ruby (charSpan 2): じかん}時間{ruby (charSpan 2): いない}以内{Color Reset}に　{ruby (charSpan 1): つ}連れて{ruby (charSpan 1): き}来てほしいんだ～！{pause 20}	お{ruby (charSpan 1): ねが}願いだよ～{000f-0005-0004-0015-0028}	いいよ！	ムリです
+"005"	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日のラッキーうらないによると、{pause 10}	{ruby (charSpan 1): いえ}家の{ruby (charSpan 1): なか}中で　{pause 10}{ruby (charSpan 2): ともだち}友達{ruby (charSpan 2): ふたり}2人に{ruby (charSpan 1): あ}会うと{pause 10}	ハッピーになれるらしいの！	{emote: Distress}ちょうど　{0011-0001-0002-0001}{0005-000d-0000}に	{ruby (charSpan 2): ようじ}用事もあるし、{pause 10}よんで{ruby (charSpan 1): き}来てもらえない？{Wait for input}	{Blue}{Blue}1{ruby (charSpan 2): じかん}時間{ruby (charSpan 2): いない}以内{Blue}{Color Reset}でいいからさ～！{000f-0005-0004-0015-0028}	いいよ！	・・・やだな
+"006"
+"007"	{emote: Happiness}ホント？！{pause 30}	わ～い　{pause 10}{ruby (charSpan 1): たす}助かるよ、{pause 15}{catchphrase}！
+"008"	{emote: Glee}ヤッター！{pause 20}	ありがとね、{pause 15}{catchphrase}
+"009"	{emote: Glee}ホントにいいの？{pause 30}	じゃ、{pause 10}よろしく～
+"010"
+"011"	{emote: Cold Chill}そっか、{pause 10}	そんなヒマじゃないよね
+"012"	{emote: Resigned}そうだよね～{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Worry}{ruby (charSpan 2): じぶん}自分でやらなきゃダメか
+"013"	{emote: Sadness}ザンネ～ン{pause 5}・{pause 5}・{pause 5}・{pause 5}{catchphrase}
+"014"
+"015"
+"016"

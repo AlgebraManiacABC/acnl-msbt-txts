@@ -1,36 +1,36 @@
 == 0 ==
-"001"	{emote: Shocked}
-"002"	{emote: Disbelief}
-"003"	{emote: Mistaken}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Distress}
-"006"	I've been stung before too,{pause 20}
-"007"	{000a-0000-0006-03-08-00-09-00-ffffffcd}
-"008"	{000a-001b-0006-01-00-0a-00-09-00}
-"009"	{emote: Disagreement}
-"010"	{emote: Reset}
-"011"	{emote: Sunny}
+"001"	{emote: Shocked}{0007-000b-0000}Whoa!{pause 20} Look at your face!{pause 20}	Did you get stung by a bee?
+"002"	{emote: Disbelief}{0007-000a-0000}Yikes!{pause 20} Is that you, {Player nickname (green)}?{Wait for input}	{emote: Worry}Your face is a mess{pause 8}.{pause 8}.{pause 8}.{pause 20} Did you get	stung by a bee?
+"003"	{emote: Mistaken}Oh no!{pause 20} You must've been stung by	a bee!{pause 20} Your face looks like it hurts!
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Distress}Oh man,{pause 20} that looks bad!{pause 40} My face	hurts just looking at you,{pause 8}	{catchphrase}.
+"006"	I've been stung before too,{pause 20} so I	know how rough it can be.{Wait for input}{emote: Happiness}But {pause 20}it'll get better if you just wait.{pause 20}	So don't get too down, {Player nickname (green)}.
+"007"	{000a-0000-0006-0803-0900-cd00}
+"008"	{000a-001b-0006-0001-000a-0009}
+"009"	{emote: Disagreement}I know it looks bad, but don't	worry!{Wait for input} {emote: Happiness}If you use some medicine,	it'll get better right away!
+"010"	{emote: Reset}I think your face looks good like	that.{pause 20} It gives you character!	But{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Happiness}If you're not digging the insect-	ravaged look,{pause 20} use this, {pause 8}	{catchphrase}.
+"011"	{emote: Sunny}That medicine{pause 20} really does the trick!
 == 1 ==
-"001"	{emote: Shocked}
-"002"	{emote: Disbelief}
-"003"	{emote: Mistaken}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Distress}
-"006"	A mí me han picado alguna vez	y sé la faena que es.{0000-0004-0000}
-"007"	{000a-0000-0006-03-08-00-09-00-ffffffcd}
-"008"	{000a-001b-0006-01-00-0a-00-09-00}
-"009"	{emote: Disagreement}
-"010"	{emote: Reset}
-"011"	{emote: Sunny}
+"001"	{emote: Shocked}{0007-000b-0000}¡Hala, vaya careto!{pause 20} ¡¿Te ha picado	una abeja o un escorpión volador?!
+"002"	{emote: Disbelief}{0007-000a-0000}¡Ay, madre!{pause 20} ¿Eres tú, {Player nickname (green)}?{Wait for input}	{emote: Worry}Esa cara{pause 8}.{pause 8}.{pause 8}.{pause 20} ¿Te ha picado una abeja?
+"003"	{emote: Mistaken}¡Ay, qué mala suerte!{pause 20} Tienes pinta	de que te haya picado una abeja.{pause 20}	{emote: Worry}¿Te duele mucho?
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Distress}¡Jo,{pause 20} qué mala pinta tiene eso!{pause 40}	Me duele la cara solo de mirarte,{pause 8}	{catchphrase}.
+"006"	A mí me han picado alguna vez	y sé la faena que es.{Wait for input}{emote: Happiness}Tú no te preocupes, que se te	pasará solo.{pause 20} ¡Aguanta, {Player nickname (green)}!
+"007"	{000a-0000-0006-0803-0900-cd00}
+"008"	{000a-001b-0006-0001-000a-0009}
+"009"	{emote: Disagreement}No tiene buena pinta, ¡pero tú no	sufras!{Wait for input} {emote: Happiness}Con un poco de medicina	eso se cura en un segundo.
+"010"	{emote: Reset}Pues yo creo que esa cara te da	un aspecto interesante.{pause 20} Desde	luego nadie tiene una igual{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Happiness}Bueno, otra persona a la que le haya	picado una abeja, claro.{pause 20} Tú usa esto	y verás que bien,{pause 8} {catchphrase}.
+"011"	{emote: Sunny}¡Esa medicina es una maravilla!
 == 2 ==
-"001"	{emote: Shocked}
-"002"	{emote: Disbelief}
-"003"	{emote: Mistaken}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Distress}
-"006"	Je sais ce que ça fait de se faire	piquer,{pause 20}
-"007"	{000a-0000-0006-03-08-00-09-00-ffffffcd}
-"008"	{000a-001b-0006-01-00-0a-00-09-00}
-"009"	{emote: Disagreement}
-"010"	{emote: Reset}
-"011"	{emote: Sunny}
+"001"	{emote: Shocked}{0007-000b-0000}Argh!{pause 20} Qu'est-ce qui est arrivé à ton	visage?!{pause 20} Tu t'es fait piquer par une	abeille?!
+"002"	{emote: Disbelief}{0007-000a-0000}Whoah!{pause 20} C'est toi, {Player nickname (green)}?{Wait for input}	{emote: Worry}T'as vraiment mauvaise mine{pause 8}.{pause 8}.{pause 8}. {pause 20}Tu	t'es fait attaquer par des abeilles?
+"003"	{emote: Mistaken}Oh non!{pause 20} Ne me dis pas que tu t'es	fait piquer par une abeille!{pause 20} {emote: Distress}Ça a	l'air de faire atrocement mal!
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Distress}Oh là là,{pause 20} ça a l'air grave!{pause 40} Rien qu'à	te regarder, j'en ai mal au visage,{pause 8}	{catchphrase}!
+"006"	Je sais ce que ça fait de se faire	piquer,{pause 20}{emote: Agreement} ça m'est déjà arrivé.{Wait for input}{emote: Happiness}Mais tu verras, {pause 20}ça ira vite mieux si	tu attends un peu, et que tu n'y	touches pas, {pause 20}{Player nickname (green)}.
+"007"	{000a-0000-0006-0803-0900-cd00}
+"008"	{000a-001b-0006-0001-000a-0009}
+"009"	{emote: Disagreement}Je sais que c'est pas beau à voir,	mais ne t'inquiète pas!{Wait for input} {emote: Happiness}Un petit	remède, et ça ira vite mieux!
+"010"	{emote: Reset}Quand on y regarde de plus près, je	trouve que ça te fait une bonne	tête.{pause 20} Ça te donne du caractère!	{emote: Happiness}Mais si jamais t'as envie de	retrouver ta tête normale,{pause 20} utilise ça,	{pause 8}{catchphrase}.
+"011"	{emote: Sunny}Voilà!{pause 20} Un petit remède, et adieu les	bobos!

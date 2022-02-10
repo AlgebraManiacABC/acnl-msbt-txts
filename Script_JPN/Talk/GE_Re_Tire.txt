@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Anger}
-"002"	{emote: Aggravation}
-"003"	{emote: Outrage}
+"001"	{emote: Anger}{ruby (charSpan 1): いま}今さら　あやまったって{pause 8}	おそいんだから！{Wait for input}ちょっとは	{ruby (charSpan 2): はんせい}反省してちょ～だいっ！　{pause 20}{catchphrase}！
+"002"	{emote: Aggravation}アタイたち{pause 10}	しばらく　キョリを{ruby (charSpan 1): お}置いた{ruby (charSpan 1): ほう}方が	いいと{ruby (charSpan 1): おも}思う！　{pause 20}{catchphrase}！
+"003"	{emote: Outrage}アタイ、{pause 10}ヒドいことされて	キズついてんだからね！{pause 20}	{catchphrase}！

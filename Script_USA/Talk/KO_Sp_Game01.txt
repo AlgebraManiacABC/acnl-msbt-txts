@@ -1,39 +1,39 @@
 == 0 ==
-"001"	All right, {pause 8}
-"002"	Ready?{Wait for input}
-"003"	One... {pause 20}
-"004"		               {0000-0002-0002-ffffffc8-00}{0007-000b-0000}
-"005"		         {0007-000b-0000}
-"006"		             {0000-0002-0002-ffffffc8-00}{0007-000b-0000}
-"007"	{emote: Mistaken}
-"008"	{emote: Alarmed}
-"009"	{emote: Greetings}
-"010"	
-"011"	That means{pause 8}
-"012"	That means{pause 8}
+"001"	All right, {pause 8}are you ready?{pause 20}	{emote: Glare}You've got {Blue}1 {Color Reset}shot!
+"002"	Ready?{Wait for input} Whoever gets to {Blue}{Number (0x6)} wins {Color Reset}first{pause 8}	will be the winner!
+"003"	One... {pause 20}Two{pause 8}.{pause 8}.{pause 8}.{000f-0001-0006-0000-0000-0000}	Rock.	Scissors.	Paper.
+"004"		               {Text size 200%}{0007-000b-0000}ROCK!{Text size 100%}
+"005"		         {0007-000b-0000}{Text size 200%}SCISSORS!{Text size 100%}
+"006"		             {Text size 200%}{0007-000b-0000}PAPER!{Text size 100%}
+"007"	{emote: Mistaken}Aw, man!{pause 15}
+"008"	{emote: Alarmed}Huh? We tied.{pause 8}{emote: Showmanship}{pause 30} Let's go again!
+"009"	{emote: Greetings}Sweet!{pause 15}
+"010"
+"011"	That means{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Resigned}Darn, you won.{pause 15}
+"012"	That means{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Pride}{pause 20}I'm the WINNER!{pause 40}	{emote: Laughter}GAHAHA!{pause 30}{emote: Happiness}
 == 1 ==
-"001"	Vale,{pause 8}
-"002"	¿Listos?{Wait for input}!
-"003"	A la de una... {pause 20}
-"004"		            {0000-0002-0002-ffffffc8-00}{0007-000b-0000}
-"005"		             {0000-0002-0002-ffffffc8-00}{0007-000b-0000}
-"006"		            {0000-0002-0002-ffffffc8-00}{0007-000b-0000}
-"007"	{emote: Mistaken}
-"008"	{emote: Alarmed}
-"009"	{emote: Greetings}
-"010"	
-"011"	Pues{pause 8}
-"012"	Entonces{pause 8}
+"001"	Vale,{pause 8} ¿estamos listos?{pause 20}	{emote: Glare}¡Solo tienes {Blue}un {Color Reset}intento!
+"002"	¿Listos?{Wait for input} El primero que consiga	{Blue}{Number (0x6)} {victorias/victoria/victorias}{Color Reset},{pause 8} gana.
+"003"	A la de una... {pause 20}A la de dos{pause 8}.{pause 8}.{pause 8}.{000f-0001-0006-0000-0000-0000}	Piedra	Tijera	Papel
+"004"		            {Text size 200%}{0007-000b-0000}¡PIEDRA!{Text size 100%}
+"005"		             {Text size 200%}{0007-000b-0000}¡TIJERA!{Text size 100%}
+"006"		            {Text size 200%}{0007-000b-0000}¡PAPEL!{Text size 100%}
+"007"	{emote: Mistaken}¡Vaya, hombre!{pause 15}
+"008"	{emote: Alarmed}¿Huy? Hemos empatado.{pause 8}	{emote: Showmanship}{pause 30}¡Repetimos!
+"009"	{emote: Greetings}¡Fantástico!{pause 15}
+"010"
+"011"	Pues{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Resigned}Has ganado.{pause 15}
+"012"	Entonces{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Pride}{pause 20}¡Gano yo!{pause 40}	{emote: Laughter}¡Ja, ja, ja!{pause 30}{emote: Happiness}
 == 2 ==
-"001"	Bien, {pause 8}!
-"002"	Prê{000e-0006-000a-02-00-74-00-04-00-74-00-65-00}?{Wait for input}
-"003"	Un... {pause 20}!
-"004"		                {0000-0002-0002-ffffffc8-00}{0007-000b-0000}
-"005"		                {0007-000b-0000}!
-"006"		                {0000-0002-0002-ffffffc8-00}{0007-000b-0000}
-"007"	{emote: Mistaken}
-"008"	{emote: Alarmed}
-"009"	{emote: Greetings}
-"010"	
-"011"	Ce qui signifie{pause 8}
-"012"	Ce qui signifie{pause 8}
+"001"	Bien, {pause 8}tu es prê{t/te}?{pause 20}{emote: Glare} On ne joue	qu'{Blue}une {Color Reset}seule fois!
+"002"	Prê{t/te}?{Wait for input} Le premier qui gagne {Blue}{Number (0x6)} fois{Color Reset}{pause 8}	remporte le jeu!
+"003"	Un... {pause 20}Deux{pause 8}.{pause 8}.{pause 8}.{000f-0001-0006-0000-0000-0000}	Pierre.	Ciseaux.	Papier.
+"004"		                {Text size 200%}{0007-000b-0000}PIERRE!{Text size 100%}
+"005"		                {0007-000b-0000}{Text size 200%}CISEAUX!{Text size 100%}
+"006"		                {Text size 200%}{0007-000b-0000}PAPIER!{Text size 100%}
+"007"	{emote: Mistaken}AH!{pause 15}
+"008"	{emote: Alarmed}Hein? Égalité.{pause 8}{emote: Showmanship}{pause 30} On la refait!
+"009"	{emote: Greetings}Youpi!{pause 15}
+"010"
+"011"	Ce qui signifie{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Resigned}que tu as gagné.{pause 15}	C'est nul, ce jeu.
+"012"	Ce qui signifie{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Pride}{pause 20} que j'ai gagné!{pause 40}	{emote: Laughter}HA HA HA!{pause 30}{emote: Happiness} J'adore ce jeu.

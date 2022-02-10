@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Greetings}
-"003"	{emote: Sleepy}
-"004"	{emote: Sleepy}
-"005"	{emote: Glee}
-"006"	
-"007"	{emote: Curious}
-"008"	{emote: Worry}
+"001"	{emote: Greetings}{Player nickname (green)}{0005-000d-0000}{pause 20}	あけまして　おめでとぉ～{Wait for input}{emote: Glee}きょねんは　{ruby (charSpan 1): た}食べたり{pause 20}　ねたり{pause 20}	{ruby (charSpan 1): おも}思いっきり　あそんだり{pause 20}	{ruby (charSpan 1): たの}楽しい{ruby (charSpan 2): いちねん}一年だったなぁ～{Wait for input}{emote: Happiness}{ruby (charSpan 2): ことし}今年も　{ruby (charSpan 1): たの}楽しい{ruby (charSpan 2): いちねん}一年に	なるといいねぇ、{pause 8}{catchphrase}
+"002"	{emote: Greetings}ハッピ～　ニュ～イヤ～！{pause 40}	{emote: Happiness}{ruby (charSpan 1): あたら}新しい{ruby (charSpan 1): とし}年が　はじまったねぇ！{Wait for input}{ruby (charSpan 2): ことし}今年は　ボク、{pause 20}	たくさん{ruby (charSpan 1): た}食べて　{ruby (charSpan 1): おお}大きくなるぞぉ～{Wait for input}{emote: Sunny}よぉ～し！{pause 20}	まずは　おもちを　もりもり{ruby (charSpan 1): た}食べて、{pause 20}	{ruby (charSpan 1): おお}大きく　なっちゃうもんねぇ！
+"003"	{emote: Sleepy}あけまして　おめでとぉ～{pause 20}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): いちねん}一年のはじまりの{ruby (charSpan 1): ひ}日なのに{pause 20}	なんだか　ねむいんだぁ～{Wait for input}きのう　カウントダウンで	{ruby (charSpan 1): よ}夜ふかし　しちゃったからかなぁ？{Wait for input}{emote: Bashful}こんな　ボクだけど、{pause 20}	{Year}{ruby (charSpan 1): ねん}年も　よろしくねぇ、{pause 8}{catchphrase}
+"004"	{emote: Sleepy}ふぁぁ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	あと　いくつねたら　お{ruby (charSpan 2): しょうがつ}正月かなぁ？{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Shocked}{0007-000a-0000}えぇ～？！{pause 20}	もう　{ruby (charSpan 2): しんねん}新年？！{Wait for input}{emote: Happiness}あけまして　おめでとぉ～{pause 40}	{emote: Mistaken}ウッカリ　{Year}{ruby (charSpan 1): ねん}年に	のりおくれる　ところだったよぉ
+"005"	{emote: Glee}ハッピ～　ニュ～イヤ～！{pause 40}	{ruby (charSpan 2): きょう}今日から{ruby (charSpan 1): あたら}新しい{ruby (charSpan 1): とし}年だねぇ！{Wait for input}{emote: Pride}{ruby (charSpan 2): ことし}今年はボク、{pause 20}	{ruby (charSpan 1): あたら}新しい　{Villager's name (orange)}に	{ruby (charSpan 1): う}生まれかわりたいなぁ～{Wait for input}{ruby (charSpan 2): きょう}今日から　ボクのことは	ミスター{0005-0013-0002-0000}って	よんでよぉ～{Player can respond (0001):0007-0000-0008-0000-0008-0000}	ミスター{0005-0013-0002-0000}!	{Villager's name (orange)}!	・・・
+"006"
+"007"	{emote: Curious}{pause 20}ミスター{0005-0013-0002-0000}？{pause 20}	・{pause 20}・{pause 20}・{pause 40}{emote: Surprise}{0007-000a-0000}あぁ！{pause 20}	ボクのことか！{Wait for input}{emote: Laughter}やっぱり　なれないから、	いつも{ruby (charSpan 1): どお}通りでいいやぁ{pause 40}	{ruby (charSpan 2): ことし}今年も　よろしくねぇ～{pause 20}{emote: Happiness}
+"008"	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 8}よぶ{ruby (charSpan 1): ほう}方も	はずかしいってことかなぁ？{Wait for input}{emote: Disagreement}やっぱり　ミスターは　やめよぉ～っと！{pause 20}	{emote: Happiness}{ruby (charSpan 2): ことし}今年も　かわらない	{Villager's name (orange)}を　どうぞよろしく～！

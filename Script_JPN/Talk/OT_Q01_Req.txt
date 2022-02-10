@@ -1,27 +1,27 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	ねぇねぇ、{pause 16}
-"003"	{Player nickname (green)}
-"004"	{0011-0003-0002-00-00}
-"005"	{emote: Shyness}
-"006"	{emote: Shyness}
-"007"	{emote: Shyness}
-"008"	{emote: Shyness}
-"009"	{emote: Shyness}
-"010"	{emote: Worry}
-"011"	{emote: Thought}
-"012"	{emote: Anger}
-"013"	{Player nickname (green)}
-"014"	{Player nickname (green)}
-"015"	{Player nickname (green)}
-"016"	{emote: Shocked}
-"017"	{emote: Surprise}
-"018"	{emote: Sigh}
-"019"	{emote: Worry}
-"020"	{emote: Alarmed}
-"021"	{emote: Soft Smile}
-"022"	{emote: Soft Smile}
-"023"	{emote: Surprise}
-"024"	{emote: Alarmed}
-"025"	{emote: Worry}
-"026"	{emote: Soft Smile}
+"001"	{emote: Worry}{0011-0003-0002-0000}が	{ruby (charSpan 1): ほ}欲しいんだけど、{pause 16}なかなか	つかまえられないのよ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Shyness}{Player nickname (green)}{0005-000d-0000}、アナタ{pause 16}	ムシとりとか　そういうの{pause 16}	{ruby (charSpan 2): とくい}得意でしょ？　{pause 8}{catchphrase}？	{ruby (charSpan 1): よ}良かったら、{pause 16}アナタに	お{ruby (charSpan 1): ねが}願いしても　いいかしら？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"002"	ねぇねぇ、{pause 16}	{0011-0003-0002-0000}って	{ruby (charSpan 1): し}知ってるわよね？	{emote: Anger}あれ　よく{ruby (charSpan 1): み}見かけるんだけど、{pause 16}	なかなか　つかまえられないの{pause 32}	{emote: Worry}アタシと{ruby (charSpan 2): あいしょう}相性が　{ruby (charSpan 1): わる}悪いのかしら{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): わる}悪いんだけど、{pause 16}アタシのために	つかまえてきて　くれない？{pause 8}	{Player nickname (green)}{0005-000d-0000}？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"003"	{Player nickname (green)}{0005-000d-0000}って{pause 16}	{0011-0003-0002-0000}を	つかまえたこと　ある？	{emote: Worry}ああいう　めずらしいタイプって{pause 16}	アタシには　ちょっと	{ruby (charSpan 1): て}手に{ruby (charSpan 1): お}負えないのよ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Shyness}{ruby (charSpan 1): たの}頼み{ruby (charSpan 1): にく}難い　お{ruby (charSpan 1): ねが}願いだけど、{pause 16}	つかまえてきて	もらっても　いいかしら？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"004"	{0011-0003-0002-0000}っていう	レアなムシが、{pause 16}この{ruby (charSpan 1): むら}村にもいるって	{ruby (charSpan 1): し}知ってた？{pause 8}　{Player nickname (green)}{0005-000d-0000}？	{emote: Anger}レアだって{ruby (charSpan 1): き}聞くと、{pause 16}{ruby (charSpan 2): よけい}余計	{ruby (charSpan 1): ほ}欲しくなっちゃうんだけど、{pause 32}	{emote: Worry}アタシには　{ruby (charSpan 1): むずか}難しいかな{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}こんなこと、{pause 16}お{ruby (charSpan 1): ねが}願いするのは	{ruby (charSpan 2): こころぐる}心苦しいんだけど、{pause 16}アタシのために	つかまえてきてくれる？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"005"	{emote: Shyness}ねぇ、{Player nickname (green)}{0005-000d-0000}{pause 16}	アナタに　ちょっと{pause 16}	お{ruby (charSpan 1): ねが}願いがあるんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): じつ}実は　アタシ{pause 16}	チョウチョが　{ruby (charSpan 1): ほ}欲しいの{pause 4}・{pause 4}・{pause 4}・{pause 4}{Wait for input}{Blue}チョウチョ{Color Reset}の{ruby (charSpan 2): なかま}仲間だったら{pause 16}	なんでもいいから、{pause 8}つかまえてきて	もらえないかしら？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"006"	{emote: Shyness}ねぇ、{Player nickname (green)}{0005-000d-0000}{pause 16}	アナタに　ちょっと{pause 16}	お{ruby (charSpan 1): ねが}願いがあるんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): じつ}実は　アタシ{pause 16}	カブトムシが　{ruby (charSpan 1): ほ}欲しいの{pause 4}・{pause 4}・{pause 4}・{pause 4}{Wait for input}{Blue}カブトムシ{Color Reset}の{ruby (charSpan 2): なかま}仲間だったら{pause 16}	なんでもいいから、{pause 8}つかまえてきて	もらえないかしら？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"007"	{emote: Shyness}ねぇ、{Player nickname (green)}{0005-000d-0000}{pause 16}	アナタに　ちょっと{pause 16}	お{ruby (charSpan 1): ねが}願いがあるんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): じつ}実は　アタシ{pause 16}	クワガタが　{ruby (charSpan 1): ほ}欲しいの{pause 4}・{pause 4}・{pause 4}・{pause 4}{Wait for input}{Blue}クワガタ{Color Reset}の{ruby (charSpan 2): なかま}仲間だったら{pause 16}	なんでもいいから、{pause 8}つかまえてきて	もらえないかしら？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"008"	{emote: Shyness}ねぇ、{Player nickname (green)}{0005-000d-0000}{pause 16}	アナタに　ちょっと{pause 16}	お{ruby (charSpan 1): ねが}願いがあるんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): じつ}実は　アタシ{pause 16}	セミが　{ruby (charSpan 1): ほ}欲しいの{pause 4}・{pause 4}・{pause 4}・{pause 4}{Wait for input}{Blue}セミ{Color Reset}の{ruby (charSpan 2): なかま}仲間だったら{pause 16}	なんでもいいから、{pause 8}つかまえてきて	もらえないかしら？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"009"	{emote: Shyness}ねぇ、{Player nickname (green)}{0005-000d-0000}{pause 16}	アナタに　ちょっと{pause 16}	お{ruby (charSpan 1): ねが}願いがあるんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): じつ}実は　アタシ{pause 16}	トンボが　{ruby (charSpan 1): ほ}欲しいの{pause 4}・{pause 4}・{pause 4}・{pause 4}{Wait for input}{Blue}トンボ{Color Reset}の{ruby (charSpan 2): なかま}仲間だったら{pause 16}	なんでもいいから、{pause 8}つかまえてきて	もらえないかしら？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"010"	{emote: Worry}{0011-0003-0002-0000}って{pause 16}	{ruby (charSpan 1): いま}今の{ruby (charSpan 2): じき}時期だったら、{pause 16}	{ruby (charSpan 2): ふつう}普通に　{ruby (charSpan 1): つ}釣れるハズよね？	{emote: Thought}{pause 16}{ruby (charSpan 1): つ}釣りが　{ruby (charSpan 2): とくい}得意じゃないってのも{pause 8}	あるかもしれないんだけど、{pause 16}	ちっとも　{ruby (charSpan 1): つ}釣れないのよ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Shyness}ねぇ、{Player nickname (green)}{0005-000d-0000}{pause 16}	アタシの{ruby (charSpan 1): か}代わりに、{pause 16}{ruby (charSpan 1): つ}釣ってきて	もらえないかしら？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"011"	{emote: Thought}{pause 16}{ruby (charSpan 2): なんど}何度も　チャレンジしたけど、{pause 16}	{0011-0003-0002-0000}が	どうしても　{ruby (charSpan 1): つ}釣れないの{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Shyness}ねぇ、{Player nickname (green)}{0005-000d-0000}{pause 16}	アタシの{ruby (charSpan 1): か}代わりに	{ruby (charSpan 1): つ}釣ってきて　もらえないかしら？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"012"	{emote: Anger}{0011-0003-0002-0000}って{pause 16}	すごく　めずらしい	サカナなのよね？	{emote: Worry}アタシなんかじゃ{pause 16}	{ruby (charSpan 1): つ}釣れそうにないわねぇ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Shyness}ちょっと　{ruby (charSpan 1): い}言い{ruby (charSpan 1): にく}難いんだけどね{pause 16}	{Player nickname (green)}{0005-000d-0000}{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}アタシのために　{ruby (charSpan 1): つ}釣ってきてって{pause 16}	お{ruby (charSpan 1): ねが}願いしても　いいかしら？	{pause 8}{catchphrase}？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"013"	{Player nickname (green)}{0005-000d-0000}、{pause 16}	{0011-0003-0002-0000}	っていうサカナ、{pause 16}{ruby (charSpan 1): し}知ってる？	{emote: Love}{pause 16}この{ruby (charSpan 1): まえ}前、テレビで{ruby (charSpan 1): み}見たんだけど{pause 16}	{ruby (charSpan 1): わす}忘れられないの{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Thought}{pause 16}{ruby (charSpan 1): うち}家で　{ruby (charSpan 1): か}飼ってみたいんだけど、{pause 16}	アタシの{ruby (charSpan 2): うでまえ}腕前じゃ	{ruby (charSpan 1): つ}釣れる{ruby (charSpan 1): き}気がしなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Shyness}{ruby (charSpan 1): わる}悪いんだけど、{pause 16}アタシのために	{ruby (charSpan 1): つ}釣ってきて　もらえないかしら？	{pause 8}{catchphrase}？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"014"	{Player nickname (green)}{0005-000d-0000}、{pause 16}	サカナ{ruby (charSpan 1): つ}釣り　{ruby (charSpan 2): とくい}得意でしょ？{Wait for input}{emote: Soft Smile}{Blue}{ruby (charSpan 1): かわ}川のサカナ{Color Reset}だったら	なんでもいいわ、{pause 16}{ruby (charSpan 1): なに}何か1{ruby (charSpan 1): ぴき}匹	{ruby (charSpan 1): つ}釣ってきて　もらえないかしら？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"015"	{Player nickname (green)}{0005-000d-0000}、{pause 16}	サカナ{ruby (charSpan 1): つ}釣り　{ruby (charSpan 2): とくい}得意でしょ？{Wait for input}{emote: Soft Smile}{Blue}{ruby (charSpan 1): うみ}海のサカナ{Color Reset}だったら	なんでもいいわ、{pause 16}{ruby (charSpan 1): なに}何か1{ruby (charSpan 1): ぴき}匹	{ruby (charSpan 1): つ}釣ってきて　もらえないかしら？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"016"	{emote: Shocked}ホントに　いいの？！{Wait for input}	{emote: Soft Smile}うれしいわ！{pause 16}	{ruby (charSpan 1): たの}楽しみにしてるわね！　{pause 8}{catchphrase}！
+"017"	{emote: Surprise}まあ！{pause 16}　{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): う}受けてくれるのね？{pause 32}	{emote: Soft Smile}{ruby (charSpan 1): たの}楽しみに　{ruby (charSpan 1): ま}待っているわ！	{pause 8}{catchphrase}！
+"018"	{emote: Sigh}{pause 60}やっぱりダメよね{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Soft Smile}ううん、{ruby (charSpan 1): き}気にしないで！{pause 16}	また{ruby (charSpan 2): こんど}今度、お{ruby (charSpan 1): ねが}願いするわね！
+"019"	{emote: Worry}そりゃあ、そうよね？{pause 16}	{ruby (charSpan 2): かんたん}簡単なことじゃないもの{pause 4}・{pause 4}・{pause 4}・{pause 4}{Wait for input}ムリなこと{ruby (charSpan 1): い}言って{pause 16}	ごめんなさいね、{pause 8}{catchphrase}！
+"020"	{emote: Alarmed}あら、いいのね？{pause 32}	{emote: Soft Smile}じゃあ、{ruby (charSpan 1): ま}待ってるから！
+"021"	{emote: Soft Smile}あら、{ruby (charSpan 1): たす}助かるわ！{pause 16}	ありがとね、{Player nickname (green)}{0005-000d-0000}
+"022"	{emote: Soft Smile}さすがね、{Player nickname (green)}{0005-000d-0000}！{pause 16}	{ruby (charSpan 1): たの}楽しみにしてるわよ！
+"023"	{emote: Surprise}あら！　うれしい！{pause 32}	{emote: Soft Smile}{ruby (charSpan 1): ま}待ってるわね、{pause 8}{catchphrase}！
+"024"	{emote: Alarmed}あら、そうなの{pause 4}・{pause 4}・{pause 4}・{pause 32}	{emote: Soft Smile}じゃあ、また{ruby (charSpan 2): こんど}今度ね！
+"025"	{emote: Worry}あら、{ruby (charSpan 2): ざんねん}残念！{pause 32}	{emote: Soft Smile}また{ruby (charSpan 2): こんど}今度、お{ruby (charSpan 1): ねが}願いするわね？
+"026"	{emote: Soft Smile}{ruby (charSpan 1): き}気にしないで　いいわよ？{pause 16}	じゃあ、また{ruby (charSpan 2): こんど}今度ね！

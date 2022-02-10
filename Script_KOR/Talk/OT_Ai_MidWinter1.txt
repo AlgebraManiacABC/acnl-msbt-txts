@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Greetings}
-"003"	지금이 아침{pause 8}!
-"004"	{emote: Greetings}
-"005"	{emote: Distress}
-"006"	{Greeting begin}
-"007"	{emote: Fearful}
-"008"	{emote: Fearful}
-"009"	{emote: Alarmed}
-"010"	{emote: Soft Smile}
-"011"	{emote: Cold Chill}
+"001"	{emote: Greetings}{Greeting begin}{Player nickname (green)}, 안녕～!{Greeting end}{Wait for input}{emote: Worry}근데 왜 이렇게 어둡지?{pause 16}	혹시 내가 해가 질 때까지	자 버린 걸까? {pause 8}{catchphrase}?
+"002"	{emote: Greetings}{Greeting begin}안녕, {Player nickname (green)}{Greeting end}{pause 32}	{emote: Soft Smile}오늘은 해님이 쉬는 날인가 봐{pause 16}	우후훗, {pause 8}{catchphrase}
+"003"	지금이 아침{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{pause 16}{Wait for input}{emote: Worry}{Hour}시인데 이렇게 깜깜하다니{pause 16}	왠지 기분이 이상해～	{pause 8}{catchphrase}
+"004"	{emote: Greetings}{Greeting begin}안녕, {Player nickname (green)}{Greeting end}{Wait for input}	{Hour}시인데 이렇게 깜깜하다니{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Love}오늘은 하루 종일 자도 되겠어
+"005"	{emote: Distress}뭔가 잘못된 건 아닐까?{pause 8}	아직 {Hour}시밖에 안 됐다구～{pause 8}	{pause 8}{catchphrase}
+"006"	{Greeting begin}안녕, {Player nickname (green)}{Greeting end}{pause 32}	오늘은 해님이{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}쉬는 날인가 봐? {pause 8}{catchphrase}?
+"007"	{emote: Fearful}{pause 16}아{pause 8}・{pause 8}・{pause 8}・{pause 8} 너무 추워～{pause 8}	{pause 8}{catchphrase}
+"008"	{emote: Fearful}{pause 16}너무 춥다～ {pause 8}{Player nickname (green)}{pause 32}	수족 냉증이 심한 나에겐{pause 16}	너무 가혹한 날이야{pause 8}・{pause 8}・{pause 8}・{pause 8} {catchphrase}
+"009"	{emote: Alarmed}앗, {pause 16}안녕{pause 8}	{Player nickname (green)}
+"010"	{emote: Soft Smile}{Greeting begin}어머, {Player nickname (green)}{Greeting end}{pause 16}	오밤중에 산책이라도 하는 거야?	{pause 8}{catchphrase}?
+"011"	{emote: Cold Chill}{pause 32}으으{pause 8}・{pause 8}・{pause 8}・{emote: Fearful}{pause 16} 추워!{pause 32}	오늘 밤은 너무 춥다～	{pause 8}{catchphrase}

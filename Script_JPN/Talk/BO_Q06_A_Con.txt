@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	なかなおりのプレゼント、{pause 20}
-"003"	{emote: Worry}
-"004"	{emote: Happiness}
-"005"	あの　ふしぎな　にもつ、{pause 20}
-"006"	{emote: Curious}
+"001"	{emote: Happiness}あのプレゼント{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}に	さりげなく　わたしておいてねぇ
+"002"	なかなおりのプレゼント、{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}に	はやめに　とどけておいてねぇ～{Wait for input}{emote: Sigh}これで{pause 20}　なかなおり	できるといいなぁ、{pause 8}{catchphrase}
+"003"	{emote: Worry}{0011-0001-0002-0000}{0005-000d-0000}、{pause 20}	{ruby (charSpan 1): はや}早くかえせって　おこってるかなぁ？{Wait for input}{Player nickname (green)}{0005-000d-0000}、{pause 20}	はいたつ　おねがいだよ～
+"004"	{emote: Happiness}あの　わすれもの、{pause 20}	ちゃ～んと　{0011-0001-0002-0000}{0005-000d-0000}に	とどけてねぇ～
+"005"	あの　ふしぎな　にもつ、{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}に	もっていってねぇ～
+"006"	{emote: Curious}{0011-0001-0002-0000}{0005-000d-0000}{ruby (charSpan 1): み}見つかったぁ？{Wait for input}	{emote: Happiness}にもつのおとどけ	よろしくねぇ～

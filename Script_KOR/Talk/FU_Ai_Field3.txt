@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{Greeting begin}
-"004"	{emote: Happiness}
+"001"	{emote: Alarmed}어머,{pause 20}	{emote: Happiness}오늘{pause 10} 참 자주 만나네요!{pause 20}	{catchphrase}!
+"002"	{emote: Alarmed}어머나!{Wait for input}	{emote: Soft Smile}오늘따라 {pause 10}{Player nickname (green)}님과{pause 8}	자주 마주치네요, {pause 15}{catchphrase}!
+"003"	{Greeting begin}{emote: Alarmed}{Player nickname (green)}님!{Greeting end}{Wait for input}	{emote: Happiness}이렇게 자주 만날 수 있어서{pause 15}	오늘은 정말{pause 10} 행복해요, {pause 15}{catchphrase}!
+"004"	{emote: Happiness}{Greeting begin}어머나, {pause 20}{Player nickname (green)}님!{Greeting end}{Wait for input}	{emote: Glee}절 만나러 {pause 8}다시 오셨군요!	{pause 15}{catchphrase}!

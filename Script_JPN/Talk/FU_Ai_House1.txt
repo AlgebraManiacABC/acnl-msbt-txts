@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Greetings}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Surprise}
-"008"	{emote: Happiness}
-"009"	{emote: Greetings}
-"010"	{emote: Alarmed}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}あら、{pause 10}{Player nickname (green)}さん{pause 20}	{Greeting begin}おはようございます！{Greeting end}{Wait for input}	{emote: Sunny}くつろいでいって　くださいね、{pause 15}{catchphrase}
+"002"	{emote: Surprise}まぁ、{pause 20}{Player nickname (green)}さんじゃないですか！{Wait for input}	{emote: Happiness}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくれたんですね、{pause 10}{catchphrase}
+"003"	{emote: Greetings}{Greeting begin}おはようございます、{pause 20}{Player nickname (green)}さん{Greeting end}{Wait for input}{ruby (charSpan 1): はや}早くから　{pause 8}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来ていただけて{pause 15}	とっても　うれしいです！{Wait for input}	{emote: Happiness}いっぱい　{pause 5}おしゃべりしましょうね
+"004"	{emote: Happiness}{Greeting begin}こんにちは、{pause 20}{Player nickname (green)}さん{Greeting end}{pause 20}	{emote: Soft Smile}ようこそ　{ruby (charSpan 1): わ}我が{ruby (charSpan 1): や}家へ、{pause 15}{catchphrase}！
+"005"	{emote: Happiness}{Greeting begin}{Player nickname (green)}さん、{pause 10}こんにちは{Greeting end}{Wait for input}	{emote: Glee}ちょうど{pause 10}　お{ruby (charSpan 1): かお}顔が{ruby (charSpan 1): み}見たいなって	{pause 5}{ruby (charSpan 1): おも}思ってたんです、{pause 15}{catchphrase}
+"006"	{emote: Happiness}{Player nickname (green)}さん、{pause 15}{emote: Greetings}こんにちは！{pause 20}	{catchphrase}！
+"007"	{emote: Surprise}あら、{pause 20}{Player nickname (green)}さんじゃないですか{Wait for input}	{emote: Happiness}なにもお{ruby (charSpan 1): かま}構いできませんけど、{pause 10}	ごゆっくり　{pause 5}どうぞ、{pause 15}{catchphrase}
+"008"	{emote: Happiness}まぁ、{pause 20}{Player nickname (green)}さん！{pause 30}	{emote: Soft Smile}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくださったんですね、{pause 15}{catchphrase}
+"009"	{emote: Greetings}{Greeting begin}こんばんは{Greeting end}！{Wait for input}	{emote: Happiness}わたし、{pause 15}{ruby (charSpan 1): よる}夜は　お{ruby (charSpan 1): うち}家で{pause 10}	{emote: Love}ゆっくり{ruby (charSpan 1): す}過ごすのが　{pause 5}{ruby (charSpan 1): す}好きなんです{pause 8}{emote: Soft Smile}	{emote: Happiness}よろしければ、{pause 10}	{ruby (charSpan 2): いっしょ}一緒に　{pause 8}のんびりしていってください
+"010"	{emote: Alarmed}あら！{pause 20}　{emote: Happiness}こんな{ruby (charSpan 2): じかん}時間に{pause 8}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくださるなんて！{Wait for input}	ごゆっくりどうぞ、{pause 15}{catchphrase}
+"011"	{emote: Happiness}{Greeting begin}まぁ　{pause 20}{Player nickname (green)}さん！{Greeting end}{pause 20}	おしゃべりしに	{ruby (charSpan 1): き}来てくださったんですね、{pause 15}{catchphrase}
+"012"	{emote: Happiness}まぁ！　{pause 20}{Player nickname (green)}さん！{Wait for input}{emote: Soft Smile}こんな　{ruby (charSpan 2): よふ}夜更けに{pause 5}	{ruby (charSpan 1): たず}訪ねて{ruby (charSpan 1): き}来てくださるなんて！{Wait for input}	{emote: Happiness}すてきなサプライズですね、{pause 15}{catchphrase}

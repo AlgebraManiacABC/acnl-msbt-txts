@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	おー！　{Player name}
-"003"	{emote: Surprise}
-"004"	{emote: Disbelief}
-"005"	{emote: Greetings}
+"001"	{emote: Happiness}オーッス！　{Player name}！{pause 20}	オイラ　{ruby (charSpan 2): きょう}今日は、	こっちの{ruby (charSpan 1): むら}村で　{ruby (charSpan 1): か}買い{ruby (charSpan 1): だ}出しだー
+"002"	おー！　{Player name}じゃん！{pause 40}	{emote: Happiness}オイラ　ジョギングしてたら、	またここに　{ruby (charSpan 1): つ}着いちゃったんだ{Wait for input}{emote: Anger}もしかして　コレって、{pause 20}	はんにんは　げんばにもどる{pause 20}	ってヤツかー？{Wait for input}{emote: Distress}オ、{pause 20}オイラ	{ruby (charSpan 1): なに}何も　してないぞー？！
+"003"	{emote: Surprise}おー！{pause 20}	やっぱり{ruby (charSpan 1): あ}会ったな　{Player name}！{Wait for input}{emote: Glee}こっちの{ruby (charSpan 1): むら}村に{ruby (charSpan 1): く}来れば、	オマエに{ruby (charSpan 1): あ}会える　{ruby (charSpan 1): き}気がしてたんだー
+"004"	{emote: Disbelief}{0007-000b-0000}は、{pause 20}はいっ！{Wait for input}	{emote: Sigh}って、{pause 20}オマエかよ	{Player name}！{Wait for input}{emote: Anger}いきなり　{ruby (charSpan 1): こえ}声かけるから、{pause 8}	だれかと{ruby (charSpan 1): おも}思ったぞー
+"005"	{emote: Greetings}オーッス！　{Player name}！{pause 40}	{emote: Curious}ちょっと　やせたか？！{Wait for input}{emote: Resigned}おいおい{pause 20}　{ruby (charSpan 1): なに}何やってんだよ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Pride}オイラみたいに	もっと　きたえろよな！

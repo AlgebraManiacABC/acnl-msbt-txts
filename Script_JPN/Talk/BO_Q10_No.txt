@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
+"001"	{emote: Worry}そっかぁ～{pause 20}	{emote: Reset}じゃあまた　こんど	つき{ruby (charSpan 1): あ}合ってねぇ、{pause 8}{catchphrase}
+"002"	{emote: Worry}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	かくれんぼは　{ruby (charSpan 2): ひとり}一人じゃ	できないもんなぁ{Wait for input}{emote: Happiness}また　こんど	やろうねぇ、{pause 8}{catchphrase}
+"003"	{emote: Worry}{Player nickname (green)}{0005-000d-0000}、	もしかして　おつかれ{ruby (charSpan 1): ちゅう}中～？{Wait for input}{emote: Happiness}{ruby (charSpan 2): まいにち}毎日　かくれんぼすれば	カラダもかるくなるよぉ{pause 40}	つぎは　いっしょにやろうねぇ～！

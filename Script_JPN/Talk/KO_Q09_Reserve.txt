@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Sunny}
-"003"	・{pause 8}
-"004"	{emote: Alarmed}
-"005"	{emote: Shocked}
-"006"	{emote: Agreement}
-"007"	{emote: Agreement}
-"008"	{emote: Worry}
+"001"	{emote: Surprise}おっ！{pause 15}	{ruby (charSpan 1): く}来るかい？！{Wait for input}{emote: Soft Smile}じゃあ、{Blue}{0004-0010-0002-cd00}{ruby (charSpan 1): じ}時{Color Reset}よりあとで{pause 20}	{ruby (charSpan 2): つごう}都合のいい{ruby (charSpan 2): じかん}時間を　{ruby (charSpan 1): おし}教えてくれよ
+"002"	{emote: Sunny}そうかい！{Wait for input}	そうと{ruby (charSpan 1): き}決まれば{pause 8}	{ruby (charSpan 1): あと}後は　ダンドリだな{Wait for input}{emote: Soft Smile}えーっと、{pause 30}	じゃあ　{Blue}{0004-0010-0002-cd00}{ruby (charSpan 2): じはん}時半{Color Reset}よりあとで{pause 20}	{ruby (charSpan 2): つごう}都合のいい{ruby (charSpan 2): じかん}時間を　{ruby (charSpan 1): おし}教えてくれよ
+"003"	・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}あっ！{pause 30}	てか、{ruby (charSpan 1): き}気がつきゃ{pause 8}	もうこんな{ruby (charSpan 2): じかん}時間だぜ？！	{emote: Worry}{ruby (charSpan 2): きょう}今日は　もう{ruby (charSpan 1): おせ}遅ぇから{pause 20}	また{ruby (charSpan 2): こんど}今度ってことに　しようぜ
+"004"	{emote: Alarmed}なんだ、{pause 8}やめんのかい？{pause 40}	{emote: Worry}{ruby (charSpan 2): ざんねん}残念だが　{ruby (charSpan 2): しかた}仕方ねぇか{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Soft Smile}じゃ、{pause 8}また{ruby (charSpan 2): こんど}今度な、{pause 20}{catchphrase}
+"005"	{emote: Shocked}えっ？！{pause 30}　そいつはまた	ずいぶんと{pause 8}　せっかちじゃねぇか？！{Wait for input}{emote: Sheepishness}オレにも　{ruby (charSpan 2): じゅんび}準備ってもんが	あるわけだし、{pause 10}	もうちょい{ruby (charSpan 1): おそ}遅い{ruby (charSpan 2): じかん}時間に　ならねぇか？
+"006"	{emote: Agreement}おぅ！{pause 30}	{Blue}{0005-0019-0002-cd01}{0004-0010-0002-cd01}{ruby (charSpan 1): じ}時　{Color Reset}ちょうどだな？{Wait for input}{emote: Greetings}{ruby (charSpan 1): たの}楽しみに{ruby (charSpan 1): ま}待ってるぜ！{pause 20}　{catchphrase}！
+"007"	{emote: Agreement}おぅ！{pause 30}	{emote: Soft Smile}じゃあ　{Blue}{0005-0019-0002-cd01}{0004-0010-0002-cd01}{ruby (charSpan 1): じ}時{0004-0011-0002-cd02}{000e-000b-0000}{Color Reset}になったら{pause 8}	ウチに{ruby (charSpan 1): き}来てくんな！{pause 20}　{catchphrase}！
+"008"	{emote: Worry}おいおい{pause 8}・{pause 8}・{pause 8}・{pause 40}	いくらなんでも　そりゃあ	ねぇだろう{pause 8}・{pause 8}・{pause 8}・	{emote: Reset}もっと　はやい{ruby (charSpan 2): じかん}時間に{pause 5}	してくれよ、{pause 8}{catchphrase}

@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{000a-0001-0004-09-00-00-00}	
-"002"	・{pause 8}
-"003"	{pause 8}
-"004"	{pause 8}
-"005"	{emote: Alarmed}
-"006"	{pause 8}
-"007"	{000a-0010-0008-0c-00-0c-00-0c-00-0b-00}
-"008"	
-"009"	{pause 8}
-"010"	{pause 8}
-"011"	{000a-0007-000c-0c-00-0c-00-0c-00-0c-00-0d-00-0d-00}
-"012"	{pause 8}
-"013"	{pause 8}
-"014"	
-"015"	{emote: Alarmed}
-"016"	{emote: Alarmed}
-"017"	{emote: Alarmed}
-"018"	{emote: Distress}
-"019"	{emote: Alarmed}
-"020"	{emote: Alarmed}
-"021"	{emote: Alarmed}
-"022"	{emote: Surprise}
-"023"	{emote: Alarmed}
-"024"	
+"001"	{000a-0001-0004-0009-000a}
+"002"	・{pause 8}・{pause 8}・{emote: Sleepy}ぅう～～ん！{0007-0008-0004-003c-0000}
+"003"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sleepy}ん～～～{0007-0008-0004-003c-0000}
+"004"	{pause 8}・{pause 8}・{pause 8}・{pause 8}ス～～{pause 50}　ス～～	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sleepy}ん～！{0007-0008-0004-003c-0000}
+"005"	{emote: Alarmed}はぐっ！{0007-0008-0004-0028-0000}
+"006"	{pause 8}・{pause 8}・{pause 8}・{pause 8}モグモグモグ{pause 30}	{pause 8}・{pause 8}・{pause 8}・{pause 8}もう{ruby (charSpan 1): た}食べれないよぉ{0007-0008-0004-003c-0000}
+"007"	{000a-0010-0008-000c-000c-000c-000b}
+"008"
+"009"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sleepy}ん～{pause 10}・{pause 10}・{pause 10}・{0007-0008-0004-003c-0000}
+"010"	{pause 8}・{pause 8}・{pause 8}・{pause 8}ん～{pause 30}	アイドルは　{pause 20}アタイよ{pause 8}・{pause 8}・{pause 8}・{pause 8}{0007-0008-0004-003c-0000}
+"011"	{000a-0007-000c-000c-000c-000c-000c-000d-000d}
+"012"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sleepy}う～ん{pause 20}{pause 8}・{pause 8}・{pause 8}・{pause 8}ふぁ～ぁ{0007-0008-0004-003c-0000}
+"013"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sleepy}う～ん{pause 20}{pause 8}・{pause 8}・{pause 8}・{pause 8}ふぁ～ぁ{0007-0008-0004-003c-0000}
+"014"
+"015"	{emote: Alarmed}わ！　{pause 20}{Player nickname (green)}{0005-000d-0000}{pause 20}	{emote: Distress}アタイ、{pause 10}{ruby (charSpan 1): いま}今　{ruby (charSpan 1): た}立ったまま　ねてなかった？{Wait for input}	{emote: Happiness}すごい　{ruby (charSpan 2): きよう}器用かも～
+"016"	{emote: Alarmed}あれ～{pause 20}	{pause 10}{Player nickname (green)}{0005-000d-0000}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Glee}{ruby (charSpan 1): いま}今　{pause 10}{Player nickname (green)}{0005-000d-0000}の{ruby (charSpan 1): ゆめ}夢{pause 10}	{ruby (charSpan 1): み}見てたとこだったんだよ～！
+"017"	{emote: Alarmed}あ！　{pause 20}{Player nickname (green)}{0005-000d-0000}{Wait for input}	{emote: Happiness}アタイったら{pause 8}	{ruby (charSpan 1): た}立ったまま　{pause 3}ねちゃってたわ～
+"018"	{emote: Distress}ヤダ！{pause 20}	アタイったら　こんなとこで{pause 10}	うたたねしちゃった！
+"019"	{emote: Alarmed}わ！{pause 30}　{ruby (charSpan 1): ゆめ}夢か～{pause 40}	{emote: Distress}アタイ、{pause 10}ヨダレたらしてなかった？！
+"020"	{emote: Alarmed}{ruby (charSpan 2): おうじ}王子{ruby (charSpan 1): さま}様！{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Laughter}{Player nickname (green)}{0005-000d-0000}か～{pause 30}	{emote: Resigned}ウトウトしちゃったわ
+"021"	{emote: Alarmed}わっ{pause 20}	{Player nickname (green)}{0005-000d-0000}！{Wait for input}	{emote: Distress}いつの{ruby (charSpan 1): ま}間に　いたの～？！
+"022"	{emote: Surprise}あれ？！{pause 20}	{emote: Bashful}ひと{ruby (charSpan 1): やす}休みしてる{ruby (charSpan 1): あいだ}間に　{pause 8}ねちゃったみたい！{pause 30}{emote: Soft Smile}
+"023"	{emote: Alarmed}ヤダ！{pause 20}　{emote: Sheepishness}こんなとこで　ねてたら、{pause 10}	カゼひいちゃう！
+"024"

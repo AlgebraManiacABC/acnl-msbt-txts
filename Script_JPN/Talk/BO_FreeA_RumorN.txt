@@ -1,14 +1,14 @@
 == 0 ==
-"001"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"002"	{emote: Distress}
-"003"	{emote: Happiness}
-"004"	{emote: Distress}
-"005"	{Player nickname (green)}
-"006"	{emote: Worry}
-"007"	{0011-0001-0002-00-00}
-"008"	{emote: Glee}
-"009"	
-"010"	
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Distress}
+"001"	{0009-0001-0006-000b-000c-000d}
+"002"	{emote: Distress}{0011-0001-0002-0000}{0005-000d-0000}が{pause 20}	カゼをひいて　たいへんらしいよぉ～！{Wait for input}{emote: Thought}ボク　{ruby (charSpan 1): た}食べものを　い～っぱいもって{pause 20}	おみまいに{ruby (charSpan 1): い}行こうかなぁ～{Wait for input}{emote: Happiness}キミも{pause 20}　ようすを	{ruby (charSpan 1): み}見に{ruby (charSpan 1): い}行ってあげたらどうかなぁ～{Wait for input}きっと　{0011-0001-0002-0000}{0005-000d-0000}、{pause 20}	よろこぶと{ruby (charSpan 1): おも}思うよぉ、{pause 8}{catchphrase}
+"003"	{emote: Happiness}ねぇ{pause 20}　{Player nickname (green)}{0005-000d-0000}{pause 40}	{Town name (pink)}{ruby (charSpan 1): むら}村に	{ruby (charSpan 1): あたら}新しい{ruby (charSpan 1): いえ}家が　たつみたいだよぉ！{Wait for input}{emote: Thought}ということは{pause 20}　{ruby (charSpan 1): あたら}新しいコが	{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): く}来るってことだよねぇ～{Wait for input}{emote: Glee}ボク{pause 20}　そのコの　お{ruby (charSpan 1): ひ}引っこしいわいに{pause 20}	{ruby (charSpan 2): きょう}今日のおやつ	とっておいて　あげよぉ～っと！
+"004"	{emote: Distress}{Player nickname (green)}{0005-000d-0000}！{pause 20}	{ruby (charSpan 1): だい}大ニュースだよぉ、{pause 8}{catchphrase}{Wait for input}{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): あたら}新しいコが	{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): き}来たんだぁ～{Wait for input}{emote: Happiness}おうちで　おかたづけ	してるみたいだったから、{pause 20}	あいさつに　{ruby (charSpan 1): い}行ってみたらどうかなぁ？
+"005"	{Player nickname (green)}{0005-000d-0000}～{pause 20}	{emote: Curious}{0011-0001-0002-0000}{0005-000d-0000}とは　お{ruby (charSpan 1): はな}話ししたぁ？{Wait for input}{emote: Happiness}{0011-0001-0002-0000}{0005-000d-0000}っていうのは、{pause 20}	{ruby (charSpan 1): むら}村に　お{ruby (charSpan 1): ひ}引っこししてきた	{ruby (charSpan 1): あたら}新しい　おともだちだよぉ～{Wait for input}{emote: Sunny}ボクに{pause 20}　{ruby (charSpan 1): た}食べかけの	{0005-0013-0002-0000}をくれる	いいコなんだぁ、{pause 8}{catchphrase}
+"006"	{emote: Worry}{0011-0001-0002-0000}{0005-000d-0000}が{pause 20}	お{ruby (charSpan 1): ひ}引っこしを　{ruby (charSpan 1): かんが}考えてるんだってぇ～{Wait for input}{emote: Thought}うぅ～ん{pause 40}	ちょっと　さみしいけど、{pause 20}	きっと　{ruby (charSpan 1): なに}何か{ruby (charSpan 1): かんが}考えが　あるんだよねぇ？{Wait for input}{emote: Soft Smile}ボク　こんど{ruby (charSpan 1): あ}会ったら	りゆうを　{ruby (charSpan 1): き}聞いてみようかなぁ、{pause 8}{catchphrase}
+"007"	{0011-0001-0002-0000}{0005-000d-0000}が{pause 20}	ちょっとずつ　お{ruby (charSpan 1): ひ}引っこしの	じゅんびをしているよぉ～{Wait for input}{emote: Worry}でも{pause 20}　まだ　{ruby (charSpan 1): い}行くあては	ないんだってぇ、{pause 8}{catchphrase}{Wait for input}なんだか　ボク	しんぱいだなぁ{pause 8}・{pause 8}・{pause 8}・
+"008"	{emote: Glee}お{ruby (charSpan 1): ひ}引っこしをきめた	{0011-0001-0002-0000}{0005-000d-0000}は{pause 20}	ルンルン{ruby (charSpan 2): きぶん}気分で　にづくりしてるよぉ～{Wait for input}{0011-0001-0002-0000}{0005-000d-0000}が　むこうについたら、{pause 20}	その{ruby (charSpan 1): むら}村の　ゆうめいなフルーツを	おくってくれるって！{Wait for input}{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ボク{pause 20}　やくそくしたんだぁ、{pause 8}{catchphrase}
+"009"
+"010"
+"011"	{emote: Happiness}コレは　ウワサなんだけど、{pause 20}	{0005-0002-0000}{0005-000d-0000}って	{ruby (charSpan 1): あし}足のウラが　{ruby (charSpan 1): よわ}弱いんだってぇ～{Wait for input}{emote: Mischief}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	こんど　チャンスがあったら	くすぐってみよぉ～っと、{pause 8}{catchphrase}
+"012"	{emote: Happiness}ねぇねぇ　{Player nickname (green)}{0005-000d-0000}～{pause 20}	この{ruby (charSpan 1): まえ}前　{0005-0002-0000}{0005-000d-0000}が	たくさん　クシャミをしてたんだぁ～{Wait for input}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	だれかが　ウワサをしてたのかもねぇ～{Wait for input}{emote: Sneezing}ハーッ{pause 20}{0007-000a-0000}クション！{pause 60}	{pause 8}・{pause 8}・{pause 8}・{emote: Worry}あれぇ？{pause 20}　ボクも？
+"013"	{emote: Distress}ボク{pause 20}　まちがえて	{0005-000f-0002-0000}を	2コ　{ruby (charSpan 1): か}買っちゃっただけなのに、{Wait for input}ボクん{ruby (charSpan 1): ち}家には　{0005-000f-0002-0000}が	100コも　あるって{pause 20}	ウワサに　なっちゃったんだぁ～{Wait for input}{emote: Resigned}ウワサって　つたわるうちに{pause 8}	どんどん　{ruby (charSpan 1): おお}大げさに	なっちゃうんだよねぇ、{pause 8}{catchphrase}

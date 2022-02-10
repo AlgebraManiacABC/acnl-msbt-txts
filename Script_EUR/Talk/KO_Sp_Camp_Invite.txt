@@ -1,145 +1,145 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Glee}
-"003"	{emote: Alarmed}
-"004"	{emote: Thought}
-"005"	{emote: Distress}
-"006"	{emote: Thought}
-"007"	{emote: Thought}
-"008"	{emote: Thought}
-"009"	{emote: Distress}
-"010"	{emote: Shocked}
-"011"	{emote: Thought}
-"012"	{emote: Alarmed}
-"013"	{emote: Sunny}
-"014"	{emote: Sunny}
-"015"	{emote: Sunny}
-"016"	{emote: Laughter}
-"017"	{emote: Laughter}
-"018"	{emote: Laughter}
-"019"	{emote: Sunny}
-"020"	{emote: Happiness}
-"021"	{emote: Sunny}
-"022"	{emote: Happiness}
-"023"	{emote: Sheepishness}
-"024"	{emote: Sunny}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Alarmed}Oh!{pause 8} You really think so?{pause 30} {emote: Happiness}If you do,{pause 20}	I think I'll just go ahead{pause 8} and do that!
+"002"	{emote: Glee}All right! {pause 20}Then it's settled!{pause 30} {emote: Happiness}I'm going	to move here to {Town name (pink)}!
+"003"	{emote: Alarmed}Do you really think I should?{Wait for input}	{emote: Happiness}Then I've decided to move to	{Town name (pink)} right away!
+"004"	{emote: Thought}{pause 16}Hmmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Now that I think of it,{pause 8}	moving is actually a huge pain{pause 8}.{pause 8}.{pause 8}.	{emote: Worry}I think I'll pass for now.
+"005"	{emote: Distress}Wait. {pause 20}This is something requiring	a lot of thought{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Worry}I'd better pass for	now,{pause 20} {catchphrase}!
+"006"	{emote: Thought}{pause 16}Actually, {pause 20}I have a lot of friends back	home where I'm living now{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Soft Smile}I'll pass	on moving then,{pause 20} {catchphrase}!
+"007"	{emote: Thought}{pause 16}Hmmm. {pause 20}I can't make up my mind{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Reset}{emote: Curious}How about we decide this by	playing a game?!	{emote: Anger}If you win, {pause 20}I'll move.{pause 30}	But {pause 8}if you lose{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sheepishness}I'll go ahead and take your	{0011-0003-0002-0000} home	as a little souvenir!{Player can respond (0005):0019-0000-000a-0000}	You're on!	No, that's OK...
+"008"	{emote: Thought}{pause 16}That's nice of you, but it's so hard	to decide{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Glee}All right, {pause 20}let's settle this{pause 30}	by playing a game!	{emote: Anger}If you win, {pause 20}I'll move here.{pause 30}	However, if you lose{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sheepishness}well then, I'll just take home	your {0011-0003-0002-0000} as a	little souvenir of sorts.	So what do you say?{Player can respond (0005):0019-0000-000b-0000}	I accept!	On second thought...
+"009"	{emote: Distress}Wait.{pause 8} Just gimme a moment{pause 8}.{pause 8}.{pause 8}.{pause 20}	Suddenly I'm unsure of what to do{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Glee}At times like this,{pause 20} the best course	of action is to decide things by	playing a game!{Wait for input}{emote: Anger}If you win, {pause 20}I'll move here.{pause 30}	But {pause 8}if you lose{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sheepishness}then I'll just take home your	{0011-0003-0002-0000} as a	special souvenir!{Player can respond (0005):0019-0000-000c-0000}	OK!	I'll pass...
+"010"	{emote: Shocked}Huh? {pause 20}You don't want to?{pause 30} {emote: Worry}I thought	it was a pretty good idea{pause 8}.{pause 8}.{pause 8}.
+"011"	{emote: Thought}{pause 16}Hmm. {pause 20}Not going for it?{pause 30} I thought it	sounded like a pretty great idea{pause 8}.{pause 8}.{pause 8}.
+"012"	{emote: Alarmed}Is that a no?{pause 30} {emote: Worry}Well, I thought it was	a pretty fun idea{pause 8}.{pause 8}.{pause 8}.
+"013"	{emote: Sunny}Great! {pause 20}That's the spirit!{pause 30}	{emote: Anger}Then let's play{pause 8}.{pause 8}.{pause 8}.{pause 8}	{Blue}rock-paper-scissors{Color Reset}!{0007-0012-0006-0300-001b-001a}
+"014"	{emote: Sunny}That's the answer I wanted to hear!{pause 30}	{emote: Anger}Then let's play{pause 8}.{pause 8}.{pause 8}.{pause 8}{Blue}charades{Color Reset}!{0007-0012-0006-0101-001b-001a}
+"015"	{emote: Sunny}Good, {pause 8}good!{pause 30}	{emote: Anger}Then let's play{pause 8}.{pause 8}.{pause 8}.{pause 8}	{Blue}Made Ya Look{Color Reset}!{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Laughter}GAHAHA!{pause 30} {emote: Sheepishness}Sorry, but a promise is a	promise, so I'll just be taking your	{0011-0003-0002-0000}!
+"017"	{emote: Laughter}GAHAHA!{pause 30} {emote: Sheepishness}Sorry,{pause 8} but like we agreed,{pause 20}	your {0011-0003-0002-0000} is mine	now! {emote: Pride}{Villager's name (orange)} is the best!
+"018"	{emote: Laughter}GAHAHA!{pause 30} {emote: Happiness}A promise is a promise!{pause 20}	I think I'll just be taking your	{0011-0003-0002-0000} with me!
+"019"	{emote: Sunny}Now I have something nice to	remember this trip by!{pause 30} {emote: Happiness}Thanks	a whole bunch,{pause 20} {catchphrase}!
+"020"	{emote: Happiness}Whenever I look at it,{pause 8} I'll think	about this town!{pause 30} {emote: Glare}And, of course,{pause 8}	I'll think about you too!
+"021"	{emote: Sunny}This will be such a great way to	remember my trip to {Town name (pink)}!{pause 30}	{emote: Happiness}Thanks,{pause 8} {catchphrase}!
+"022"	{emote: Happiness}All right.{pause 8} As I promised,{pause 20} I'll move to	{Town name (pink)}!{Wait for input}{emote: Glee}Heh! I'm getting kind of excited!
+"023"	{emote: Sheepishness}Well then,{pause 8} as promised,{pause 20} I'll move	here right away!{Wait for input}{emote: Glee}When I get home,{pause 8} I'll have to start	packing!{pause 30} I'm looking forward to the	adventure,{pause 20} {catchphrase}!
+"024"	{emote: Sunny}Well,{pause 8} that settles it then!{pause 30} {emote: Happiness}Once I	break camp,{pause 20} I'll be going home to	pack for my move to {Town name (pink)}!
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Glee}
-"003"	{emote: Alarmed}
-"004"	{emote: Thought}
-"005"	{emote: Distress}
-"006"	{emote: Thought}
-"007"	{emote: Thought}
-"008"	{emote: Thought}
-"009"	{emote: Distress}
-"010"	{emote: Shocked}
-"011"	{emote: Thought}
-"012"	{emote: Alarmed}
-"013"	{emote: Sunny}
-"014"	{emote: Sunny}
-"015"	{emote: Sunny}
-"016"	{emote: Laughter}
-"017"	{emote: Laughter}
-"018"	{emote: Laughter}
-"019"	{emote: Sunny}
-"020"	{emote: Happiness}
-"021"	{emote: Sunny}
-"022"	{emote: Happiness}
-"023"	{emote: Sheepishness}
-"024"	{emote: Sunny}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Alarmed}¡Vaya!{pause 8} ¿En serio?{pause 30} {emote: Thought}Pues si me lo	dices con tanta convicción,{pause 8} igual	me animo{pause 8}.{pause 8}.{pause 8}.{pause 8} Venga,{pause 8} {emote: Agreement}sí,{pause 8} ¡me mudo!{pause 8}{emote: Happiness}
+"002"	{emote: Glee}¡Excelente! {pause 20}Pues no se hable más,{pause 12}	{emote: Happiness}¡me mudo a {capitalized}{Town name (pink)}!
+"003"	{emote: Alarmed}¿Crees que debería mudarme	a {capitalized}{Town name (pink)},{pause 8} en serio?{Wait for input}	{emote: Sunny}¡Pues te voy a hacer caso!
+"004"	{emote: Thought}{pause 16}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Pensándolo bien,{pause 8} una	mudanza es un auténtico tostón{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Worry}Creo que por ahora mejor me quedo	como estoy.
+"005"	{emote: Distress}Espera. {pause 20}Esta decisión no la puedo	tomar precipitadamente{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Worry}Creo que necesito más tiempo	para pensarlo,{pause 12} ¡{catchphrase}!
+"006"	{emote: Thought}{pause 16}En realidad,{pause 12} donde vivo ahora tengo	muchos amigos{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Soft Smile}¡No me quiero	mudar,{pause 12} {catchphrase}!
+"007"	{emote: Thought}{pause 16}Mmm. {pause 20}Pues ahora no sé qué hacer{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Curious}¿Y si lo decidimos a suertes?{Wait for input}Haremos un juego.{pause 20}	{emote: Anger}Si ganas,{pause 12} me mudo.{Wait for input}Pero si pierdes{pause 8}.{pause 8}.{pause 8}.{pause 12}	{emote: Sheepishness}¡Cojo tu {0011-0003-0002-0000}	y me l{000e-0012-000c-0010-0002-006f-0002-0061-0000} llevo de recuerdo!{Player can respond (0005):0019-0000-000a-0000}	¡Vamos a jugar!	Déjalo estar...
+"008"	{emote: Thought}{pause 16}Eres muy amable,{pause 8} pero no sé qué	hacer{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Reset}Creo que lo mejor será	{emote: Anger}decidirlo con un juego.	{emote: Sheepishness}Si ganas,{pause 12} me mudo aquí.{pause 30}	Pero como pierdas{pause 8}.{pause 8}.{pause 8}.{pause 8}	Como pierdas{pause 8}.{pause 8}.{pause 8}.	{emote: Anger}¡Me llevo a casa de recuerdo	tu {0011-0003-0002-0000}!{pause 30}	¡Por todo el morro!	¿Qué te parece el plan?{Player can respond (0005):0019-0000-000b-0000}	¡Acepto!	Pensándolo mejor...
+"009"	{emote: Distress}Un momento,{pause 8} no nos precipitemos{pause 8}.{pause 8}.{pause 8}.{pause 20}	Ahora me has dejado que no sé qué	hacer{pause 8}.{pause 8}.{pause 8}.{Wait for input}En mis tiempos{pause 8} {emote: Agreement}estas cosas las	decidíamos con un buen juego,{pause 8}	¡sí señor!	{emote: Anger}Así,{pause 8} si ganas,{pause 8} te sales con la tuya y	yo me mudo.{pause 30} {emote: Mischief}Ahora,{pause 8} como pierdas{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sheepishness}Como pierdas,{pause 8} agarro tu	{0011-0003-0002-0000} y	no l{000e-0012-000c-0010-0002-006f-0002-0061-0000} vuelves a ver,{pause 8} ¡ea!{Player can respond (0005):0019-0000-000c-0000}	¡Trato hecho!	No, gracias, generoso...
+"010"	{emote: Shocked}Anda,{pause 12} ¿ahora no quieres?{pause 30}	{emote: Worry}Pero si era el plan del lustro{pause 8}.{pause 8}.{pause 8}.
+"011"	{emote: Thought}{pause 16}¿No te convence?{pause 30} Vaya,{pause 8} hombre,{pause 8}	y a mí que me apetecía jugar{pause 8}.{pause 8}.{pause 8}.
+"012"	{emote: Alarmed}¿Eso es un no?{pause 30} {emote: Worry}Yo no sé para qué	me molesto en tener ideas geniales	si luego vienes tú y las chafas{pause 8}.{pause 8}.{pause 8}.
+"013"	{emote: Sunny}¡Excelente! {pause 20}¡Así me gusta!{pause 30}	{emote: Anger}En ese caso vamos a jugar a{pause 8}.{pause 8}.{pause 8}.{pause 8}	¡{Blue}piedra, papel o tijera{Color Reset}!{0007-0012-0006-0300-001b-001a}
+"014"	{emote: Sunny}Esa es la respuesta que quería oír.{pause 30}	{emote: Anger}Entonces vamos a jugar{pause 8}.{pause 8}.{pause 8}.{pause 8}	¡al {Blue}juego de los gestos{Color Reset}!{0007-0012-0006-0101-001b-001a}
+"015"	{emote: Sunny}Bien,{pause 8} bien.{pause 30}	{emote: Anger}¡Comienza el {Blue}juego del mirallí{Color Reset}!{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Laughter}¡Ja, ja, ja!{pause 30} {emote: Sheepishness}Lo siento,{pause 8} pero una	promesa es una promesa.{pause 30} ¡Me llevo	tu {0011-0003-0002-0000}!
+"017"	{emote: Laughter}¡Ja, ja, ja!{pause 30} {emote: Sheepishness}Se siente,{pause 8} pero un trato	es un trato,{pause 12} {emote: Pride}{Villager's name (orange)} es la bomba{pause 12}	y tu {0011-0003-0002-0000} es mí{000e-0012-000c-0010-0002-006f-0002-0061-0000}.
+"018"	{emote: Laughter}¡Ja, ja, ja!{pause 30} {emote: Happiness}¡Pobrecit{o/a}, ya no te	puedes echar atrás!{pause 20} Me quedo	con tu {0011-0003-0002-0000}.
+"019"	{emote: Sunny}¡Qué buen recuerdo de este viaje!{pause 30}	{emote: Happiness}Gracias,{pause 12} {catchphrase}.
+"020"	{emote: Happiness}Mientras tenga esto,{pause 8} ya nunca	podré olvidar este pueblo.{pause 30}	{emote: Glare}¡Ni a ti,{pause 8} obviamente!
+"021"	{emote: Sunny}Así siempre tendré un bonito	recuerdo de mi visita a {capitalized}{Town name (pink)}.{pause 30}	{emote: Happiness}¡Gracias,{pause 8} {catchphrase}!
+"022"	{emote: Happiness}Lo prometido es deuda.{pause 20}	¡Me mudo a {capitalized}{Town name (pink)}!{Wait for input}{emote: Sunny}¡Qué emoción!
+"023"	{emote: Sheepishness}Pues no se hable más,{pause 8} hoy mismo	empezaré a organizar la mudanza.{pause 20}	{emote: Sunny}¡Qué aventura!	Y la aventura comienza{pause 8}.{pause 8}.{pause 8}.{pause 8} haciendo	la maleta.{pause 30} {emote: Sheepishness}Qué bajón,{pause 8} {catchphrase}.
+"024"	{emote: Sunny}¡Dicho y hecho!{pause 30} {emote: Happiness}En cuanto llegue	a casa,{pause 8} empiezo a meter mis cosas	en cajas.	Próxima estación:{pause 20} ¡{capitalized}{Town name (pink)}!
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Glee}
-"003"	{emote: Alarmed}
-"004"	{emote: Thought}
-"005"	{emote: Distress}
-"006"	{emote: Thought}
-"007"	{emote: Thought}
-"008"	{emote: Thought}
-"009"	{emote: Distress}
-"010"	{emote: Shocked}
-"011"	{emote: Thought}
-"012"	{emote: Alarmed}
-"013"	{emote: Sunny}
-"014"	{emote: Sunny}
-"015"	{emote: Sunny}
-"016"	{emote: Sheepishness}
-"017"	{emote: Laughter}
-"018"	{emote: Sheepishness}
-"019"	{emote: Sunny}
-"020"	{emote: Happiness}
-"021"	{emote: Sunny}
-"022"	{emote: Happiness}
-"023"	{emote: Sheepishness}
-"024"	{emote: Sunny}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Alarmed}Oh,{pause 8} tu crois vraiment ?{pause 30} {emote: Happiness}Dans ce cas,{pause 20}	je vais venir{pause 8} m'installer ici.
+"002"	{emote: Glee}OK, {pause 20}c'est décidé.{pause 30} {emote: Happiness}Je vais venir	habiter à {Town name (pink)}.
+"003"	{emote: Alarmed}Tu crois vraiment que je devrais ?{Wait for input}	{emote: Happiness}D'accord, je vais emménager à	{Town name (pink)} !
+"004"	{emote: Thought}{pause 16}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Maintenant que j'y pense,{pause 8}	déménager, c'est l'horreur{pause 8}.{pause 8}.{pause 8}. {emote: Worry}On	verra ça plus tard.
+"005"	{emote: Distress}Attends, {pause 20}c'est une décision difficile	à prendre{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Worry}Je passe pour l'instant,	{pause 20}{catchphrase} !
+"006"	{emote: Thought}{pause 16}En fait, {pause 20}j'ai plein d'amis là où je	vis{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Soft Smile}Je vais pas déménager tout de	suite.{pause 20} {capitalized}{catchphrase} !
+"007"	{emote: Thought}{pause 16}Hmm, {pause 20}je n'arrive pas à me décider{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Reset}Oh je sais, on n'a qu'à jouer à un	jeu,{emote: Anger} et si tu gagnes,{pause 20} je déménage.	Mais {pause 8}si tu perds{pause 8}.{pause 8}.{pause 8}. {emote: Sheepishness}{ton joli/ta jolie/}	{0011-0003-0002-0000} est à moi !{Player can respond (0005):0019-0000-000a-0000}	Ça marche !	Non, je préfère pas...
+"008"	{emote: Thought}{pause 16}C'est pas une décision facile à	prendre{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Glee}OK, {pause 20}je sais !{pause 30} Jouons à un	jeu.	{emote: Anger}Si tu gagnes, {pause 20}je m'installerai ici.{pause 30}	Mais si tu perds{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sheepishness}... {000e-0001-0000}{0011-0003-0002-0000} que	tu possèdes est à moi. Qu'est-ce	que t'en dis ?{Player can respond (0005):0019-0000-000b-0000}	D'accord !	En fait, non...
+"009"	{emote: Distress}Attends une seconde{pause 8}.{pause 8}.{pause 8}.{pause 20} Je sais pas	trop quoi faire{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}Je sais !{pause 20} On a qu'à jouer à un jeu !{Wait for input}{emote: Anger}Si tu gagnes, {pause 20}je m'installerai ici.{pause 30}	Mais {pause 8}si tu perds{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sheepishness}... {000e-0001-0000}{0011-0003-0002-0000} que	tu possèdes est à moi et rien qu'à	moi. Qu'est-ce que t'en dis ?{Player can respond (0005):0019-0000-000c-0000}	OK !	Je passe.
+"010"	{emote: Shocked}Quoi ? {pause 20}Tu veux pas ?{pause 30} {emote: Worry}C'était	pourtant une idée géniale{pause 8}.{pause 8}.{pause 8}.
+"011"	{emote: Thought}{pause 16}Hmm. {pause 20}T'as pas envie ?{pause 30} C'était	pourtant la meilleure idée que j'ai	eue depuis un moment{pause 8}.{pause 8}.{pause 8}.
+"012"	{emote: Alarmed}Comment ça, non ?{pause 30} {emote: Worry}Mon idée était	pourtant tellement DRÔLE{pause 8}.{pause 8}.{pause 8}.
+"013"	{emote: Sunny}Génial. {pause 20}{emote: Anger}Bon, tu aurais pu être plus	enthousiaste, mais passons.{pause 30} Allez,	on joue{pause 8}.{pause 8}.{pause 8}.{pause 8} à {Blue}pierre-papier-ciseaux {Color Reset}!{0007-0012-0006-0300-001b-001a}
+"014"	{emote: Sunny}Eh bah voilà, tu vois quand tu veux !{pause 30}	{emote: Anger}Jouons{pause 8}.{pause 8}.{pause 8}.{pause 8} au {Blue}mime {Color Reset}!{0007-0012-0006-0101-001b-001a}
+"015"	{emote: Sunny}Bien, {pause 8}bien !{pause 30} {emote: Anger}Jouons donc à{pause 8}.{pause 8}.{pause 8}.{pause 8}	{Blue}regarde où je regarde {Color Reset}!{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Sheepishness}Une promesse est une promesse,	{000e-0001-0000}{0011-0003-0002-0000} est à	moi. {emote: Laughter}HA HA HA !
+"017"	{emote: Laughter}HA HA HA !{pause 30} {emote: Sheepishness}Désolé, {pause 8}mais comme	convenu,{pause 20} je rafle la mise et prends	{000e-0001-0000}{0011-0003-0002-0000} !
+"018"	{emote: Sheepishness}Une promesse est une promesse,	{000e-0001-0000}{0011-0003-0002-0000} est à	moi. {emote: Laughter}HA HA HA !
+"019"	{emote: Sunny}Eh bien voilà, je repartirai avec un	joli souvenir.{pause 30} {emote: Happiness}Merci bien,{pause 20}	{catchphrase} !
+"020"	{emote: Happiness}Ça me fera un souvenir de cette	ville...{pause 30} {emote: Glare}Et de toi,{pause 8} bien sûr !
+"021"	{emote: Sunny}Ce sera une belle manière de me	rappeler mon voyage à	{Town name (pink)}.{pause 30} {emote: Happiness}Merci,{pause 8} {catchphrase} !
+"022"	{emote: Happiness}OK,{pause 8} comme promis,{pause 20} je vais	m'installer à {Town name (pink)}.{Wait for input}{emote: Glee}Je suis presque un peu heureux.
+"023"	{emote: Sheepishness}D'accord,{pause 8} comme promis,{pause 20} je vais	venir emménager ici tout de suite.{Wait for input}{emote: Glee}Je vais commencer à faire mes	cartons en rentrant chez moi.{pause 30} C'est	beau l'aventure,{pause 20} {catchphrase} !
+"024"	{emote: Sunny}Eh bien,{pause 8} c'est décidé.{pause 30} {emote: Happiness}Je remballe	ma tente et je vais à {Town name (pink)}.	{emote: Worry}Génial...
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}
 == 3 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Glee}
-"003"	{emote: Alarmed}
-"004"	{emote: Thought}
-"005"	{emote: Distress}
-"006"	{emote: Thought}
-"007"	{emote: Thought}
-"008"	{emote: Thought}
-"009"	{emote: Distress}
-"010"	{emote: Shocked}
-"011"	{emote: Thought}
-"012"	{emote: Alarmed}
-"013"	{emote: Sunny}
-"014"	{emote: Sunny}
-"015"	{emote: Sunny}
-"016"	{emote: Laughter}
-"017"	{emote: Laughter}
-"018"	{emote: Laughter}
-"019"	{emote: Sunny}
-"020"	{emote: Happiness}
-"021"	{emote: Sunny}
-"022"	{emote: Happiness}
-"023"	{emote: Sheepishness}
-"024"	{emote: Sunny}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Alarmed}Cavoli!{pause 8} Sul serio?{pause 30} {emote: Happiness}Beh, allora{pause 20}	penso proprio che{pause 8} mi trasferirò!
+"002"	{emote: Glee}Evvai! {pause 20}Allora è deciso!{pause 30}	{emote: Happiness}Trasloco qui {000e-0010-0000} {Town name (pink)}!
+"003"	{emote: Alarmed}Dici sul serio?{Wait for input} {emote: Happiness}Mi hai già convinto!	Mi trasferisco {000e-0010-0000} {Town name (pink)}	immediatamente!
+"004"	{emote: Thought}{pause 16}Mmmmh{pause 8}.{pause 8}.{pause 8}.{pause 20} Ora che ci penso,{pause 8}	i traslochi danno sempre	un gran daffare{pause 8}.{pause 8}.{pause 8}.	{emote: Worry}Guarda, per stavolta passo.
+"005"	{emote: Distress}Aspetta! {pause 20}Mica posso decidere così	su due piedi{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Worry}Meglio che ci pensi	bene,{pause 20} {catchphrase}! Per ora... no!
+"006"	{emote: Thought}{pause 16}In realtà {pause 20}ho parecchi amici nella	città da dove vengo{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Soft Smile}Mi sa che	è meglio che resti là,{pause 20} {catchphrase}!
+"007"	{emote: Thought}{pause 16}Mmmh, {pause 20}non riesco a decidere{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Reset}{emote: Curious}Che ne dici se ce la giochiamo?{Wait for input}{emote: Anger}Se vinci tu, {pause 20}mi trasferisco.{pause 30}	Ma {pause 8}se perdi{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sheepishness}... dovrai regalarmi {il tuo/la tua/}	{0011-0003-0002-0000}!{Player can respond (0005):0019-0000-000a-0000}	Ci sto!	Meglio lasciar perdere.
+"008"	{emote: Thought}{pause 16}Uffa, non riesco a prendere	una decisione{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Glee}OK! {pause 20}Ho trovato!{pause 30}	Decidiamo con un gioco!	{emote: Anger}Se vinci, {pause 20}mi trasferisco.{pause 30}	Ma se perdi{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sheepishness}... mi porto a casa {il tuo/la tua/}	{0011-0003-0002-0000} come	souvenir. Che ne dici?{Player can respond (0005):0019-0000-000b-0000}	Ci sto!	Facciamo di no...
+"009"	{emote: Distress}Aspetta...{pause 8} Dammi un secondo per	pensare{pause 8}.{pause 8}.{pause 8}.{pause 20} Non so mica cosa fare!{Wait for input}{emote: Glee}Sai che ti dico?{pause 20}	Meglio decidere giocando!{Wait for input}{emote: Anger}Se vinci, {pause 20}mi trasferisco.{pause 30}	Ma {pause 8}se perdi{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sheepishness}... mi porto a casa 	{il tuo/la tua/} {0011-0003-0002-0000} come	souvenir della città!{Player can respond (0005):0019-0000-000c-0000}	OK!	Ehm... no.
+"010"	{emote: Shocked}Come, {pause 20}non ti va?{pause 30} {emote: Worry}Io pensavo che	fosse un'idea troppo forte{pause 8}.{pause 8}.{pause 8}.
+"011"	{emote: Thought}{pause 16}Mmmh, {pause 20}non ci stai?{pause 30} Secondo me	era un'idea mitica{pause 8}.{pause 8}.{pause 8}.
+"012"	{emote: Alarmed}Sul serio?{pause 30} {emote: Worry}Secondo me	era un'ottima idea{pause 8}.{pause 8}.{pause 8}.
+"013"	{emote: Sunny}Grande! {pause 20}Così ti voglio!{pause 30}	{emote: Anger}Allora giochiamo a{pause 8}.{pause 8}.{pause 8}.{pause 8} {Blue}morra cinese{Color Reset}!{0007-0012-0006-0300-001b-001a}
+"014"	{emote: Sunny}Ti stimo troppo!{pause 30} {emote: Anger}Allora giochiamo	al{pause 8}.{pause 8}.{pause 8}.{pause 8} {Blue}gioco dei mimi{Color Reset}!{0007-0012-0006-0101-001b-001a}
+"015"	{emote: Sunny}Evvai! {pause 8}Grande!{pause 30}	{emote: Anger}Allora giochiamo a{pause 8}.{pause 8}.{pause 8}.{pause 8} {Blue}guarda là{Color Reset}!{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Laughter}AHAHAH!{pause 30} {emote: Sheepishness}Scusa, ma i patti	erano chiari! Ora mi cucco	{il tuo/la tua/} {0011-0003-0002-0000}!
+"017"	{emote: Laughter}AHAHAH!{pause 30} {emote: Sheepishness}Scusa, {pause 8}ma visto che	avevamo un accordo, ora mi prendo{pause 8}	{il tuo/la tua/} {0011-0003-0002-0000}!
+"018"	{emote: Laughter}AHAHAH!{pause 30} {emote: Happiness}Beh, ci eravamo messi	d'accordo, no?{pause 20} Adesso sgancia	{il tuo/la tua/} {0011-0003-0002-0000}!
+"019"	{emote: Sunny}Ora ho un ricordino davvero niente	male da questo viaggio!{pause 30} {emote: Happiness}Grazie	infinite,{pause 20} {catchphrase}!
+"020"	{emote: Happiness}Ogni volta che guarderò questo	souvenir,{pause 8} penserò a questa città!{pause 30}	{emote: Glare}Oh! E anche a te,{pause 8} chiaro! {pause 8}{emote: Laughter}AHAHAH!{emote: Happiness}
+"021"	{emote: Sunny}Ah, questo ricordino di {Town name (pink)}	lo metterò accanto a tutti i miei	piattini, bicchierini, portachiavi...{pause 30}	{emote: Happiness}Grazie,{pause 8} {catchphrase}!
+"022"	{emote: Happiness}OK.{pause 8} Come promesso,{pause 20} mi trasferirò	{000e-0010-0000} {Town name (pink)}!{Wait for input}{emote: Glee}Ora mi agito sul serio!
+"023"	{emote: Sheepishness}Beh,{pause 8} come promesso,{pause 20} mi trasferirò	qui subitissimo!{Wait for input}{emote: Glee}Appena arrivo a casa{pause 8} mi metto	a fare gli scatoloni!{pause 30} Non vedo l'ora,{pause 20}	{catchphrase}!
+"024"	{emote: Sunny}Beh,{pause 8} allora il caso è chiuso!{pause 30} {emote: Happiness}Appena	finisco di campeggiare,{pause 20} torno a casa	e faccio le valigie per {Town name (pink)}!
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}
 == 4 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Glare}
-"003"	{emote: Alarmed}
-"004"	{emote: Thought}
-"005"	{emote: Distress}
-"006"	{emote: Thought}
-"007"	{emote: Thought}
-"008"	{emote: Distress}
-"009"	{emote: Distress}
-"010"	{emote: Shocked}
-"011"	{emote: Thought}
-"012"	{emote: Alarmed}
-"013"	{emote: Glare}
-"014"	{emote: Glare}
-"015"	{emote: Glare}
-"016"	{emote: Laughter}
-"017"	{emote: Pride}
-"018"	{emote: Laughter}
-"019"	{emote: Agreement}
-"020"	{emote: Glare}
-"021"	{emote: Glare}
-"022"	{emote: Agreement}
-"023"	{emote: Agreement}
-"024"	{emote: Agreement}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Alarmed}Ach ja?{pause 30} {emote: Glare}Dann hat deine Stadt{pause 20}	bald einen illustren Einwohner mehr.	Oder überhaupt einen... {pause 20}{emote: Laughter}Bwa ha ha!{pause 30}{emote: Happiness}
+"002"	{emote: Glare}Alles klar, dann ziehe ich nach	{Town name (pink)}!{pause 20} Du wirst es nicht	bereuen!{pause 20} Vermutlich...
+"003"	{emote: Alarmed}Denkst du wirklich?{pause 30} {emote: Glare}Das ist gut für	dich, denn mein Zeug ist schon	längst unterwegs nach {Town name (pink)}!
+"004"	{emote: Thought}{pause 16}So ein Umzug ist furchtbar stressig.{pause 20}	{emote: Resigned}Bis man genug Leute zum Schleppen	beisammen hat...{pause 20} Ich lass es lieber!
+"005"	{emote: Distress}Moment. {pause 20}So ein Umzug will gut	überlegt sein!{pause 30} {emote: Anger}Ich glaube, wir lassen	das fürs Erste,{pause 20} {catchphrase}!
+"006"	{emote: Thought}Dann wiederum... {pause 16}Wo ich jetzt	wohne, wäre es vielen plötzlich	zu normal ohne mich.	{emote: Disagreement}Ich zieh besser doch nicht um,	{pause 20}{catchphrase}.
+"007"	{emote: Thought}{pause 16}Hmmm... {pause 20}Ich weiß einfach nicht...{pause 30}	{emote: Reset}{emote: Curious}Wie wäre es, wenn wir ein Spiel	entscheiden lassen?	{emote: Anger}Wenn du gewinnst, ziehe ich um.{pause 20}	Aber wenn du verlierst...{Wait for input}{emote: Glare}Tja, dann kriege ich {deinen/deine/dein}	{0011-0003-0002-0000} als	kleines Souvenir!{Player can respond (0005):0019-0000-000a-0000}	So machen wir's!	Nö, das lassen wir mal...
+"008"	{emote: Distress}Argh! {pause 20}Ich weiß nicht, was ich	machen soll!{pause 20} {emote: Aggravation}Können wir das nicht	durch ein Spiel entscheiden?!	{emote: Anger}Wenn du gewinnst, packe ich meinen	Kram und ziehe um.{pause 20} Aber wenn	ich gewinne...{Wait for input}{emote: Glare}Dann kriege ich als Souvenir	{deinen/deine/dein} {0011-0003-0002-0000}!{pause 20}	Na, was sagst du?{Player can respond (0005):0019-0000-000b-0000}	Einverstanden!	Das ist keine gute Idee...
+"009"	{emote: Distress}Argh!{pause 20} Ich brauch noch 'nen Moment!{pause 20}	Ich weiß gerade überhaupt nicht	mehr, was ich jetzt machen soll...	{emote: Aggravation}Das bringt so nichts!{pause 20} {emote: Reset}Da können wir	genauso gut ein Spiel entscheiden	lassen.	{emote: Anger}Also dann, {pause 8}wenn du gewinnst, ziehe	ich um. {pause 20}Wenn du verlierst, gehört	{dein/deine/dein} {0011-0003-0002-0000} mir!{Wait for input}Da hast du eindeutig mehr zu	gewinnen!{Player can respond (0005):0019-0000-000c-0000}	So machen wir's!	Lieber nicht...
+"010"	{emote: Shocked}Was? {pause 20}Du willst nicht?{pause 30} {emote: Aggravation}Dabei war das	doch eine spitzenmäßige Idee!
+"011"	{emote: Thought}{pause 16}Hmmm. {pause 20}Keine gute Idee?{pause 30} {emote: Aggravation}Ich fand	die super!
+"012"	{emote: Alarmed}Nein?{pause 30} {emote: Aggravation}Warum denn nicht? {pause 20}Hätte	doch lustig werden können?!
+"013"	{emote: Glare}Ha!{pause 20} So gefällt mir das!{pause 20}	{emote: Anger}Dann lass uns spielen!{pause 20} Und zwar	{Blue}Schere, Stein, Papier{Color Reset}!{0007-0012-0006-0300-001b-001a}
+"014"	{emote: Glare}Das wollte ich hören!{pause 30}	{emote: Anger}Jetzt wird's ernst, denn jetzt wird	gespielt! {pause 20}Und zwar {Blue}Scharade{Color Reset}!{0007-0012-0006-0101-001b-001a}
+"015"	{emote: Glare}Gut, sehr gut!{pause 20}	{emote: Anger}Spielen wir {Blue}Guck mal da{Color Reset}!{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Laughter}Bwa ha!{pause 30} {emote: Pride}Wie abgemacht nehme ich	dann {den/die/das} {0011-0003-0002-0000}	mal an mich. {pause 20}Sag Auf Wiedersehen!
+"017"	{emote: Pride}Bwa ha!{pause 20} Abgemacht ist abgemacht!{pause 30}	{Den/Die/Das} {0011-0003-0002-0000}, bitte!
+"018"	{emote: Laughter}Bwa ha!{pause 30} {emote: Agreement}Es ehrt dich, dass du dich	an unsere Abmachung hältst und mir	{den/die/das} {0011-0003-0002-0000} gibst!
+"019"	{emote: Agreement}Jetzt habe ich was, was mich immer	an diesen Ausflug erinnern wird!{pause 30}	War nett,{pause 20} {catchphrase}!
+"020"	{emote: Glare}Dieses Souvenir wird mich immer an	diese Stadt erinnern! {pause 20}Und an dich!{pause 20}	{emote: Laughter}Und daran, dass ich gewonnen habe!
+"021"	{emote: Glare}So werde ich {Town name (pink)} in	ungewohnt angenehmer Erinnerung	behalten,{pause 20} {catchphrase}!
+"022"	{emote: Agreement}Dann werde ich zu meinem Wort	stehen und nach {Town name (pink)} ziehen!{Wait for input}{emote: Pride}Mal sehen, wer zuletzt lacht...
+"023"	{emote: Agreement}Dann packe ich mal meinen Kram	und ziehe hierher!{Wait for input}{emote: Mischief}Bereitet euch schon mal mental auf	mich vor!{pause 20} Das wird sicher lustig,	{pause 20}{catchphrase}!
+"024"	{emote: Agreement}Dann ist es entschieden!{pause 20} Wenn ich	wieder zu Hause bin, pack ich mein	Zeug und ziehe nach {Town name (pink)}!
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}

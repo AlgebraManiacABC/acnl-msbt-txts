@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{Greeting begin}
-"003"	{emote: Greetings}
-"004"	{emote: Happiness}
-"005"	{emote: Alarmed}
-"006"	{emote: Greetings}
-"007"	어이, {Player name}
-"008"	오우, 왔냐 {Player name}
-"009"	{emote: Greetings}
-"010"	{emote: Happiness}
-"011"	{emote: Greetings}
+"001"	{emote: Alarmed}오오, {pause 20}{emote: Happiness}{Town name (pink)} 마을의	{Player name} 아냐!{pause 30}	잘 왔어!	{emote: Reset}오늘은 하지야!{pause 30}	해가 지지 않으니까{pause 8}	{emote: Agreement}긴 하루가 될 거야～!{pause 20} {emote: Soft Smile}{catchphrase}!
+"002"	{Greeting begin}오호, {pause 8}{Player name}{Greeting end}!{pause 30}	{Town name (pink)} 마을까지{pause 8}	먼 길 놀러 온 거야?{pause 20} {catchphrase}?
+"003"	{emote: Greetings}오우, {pause 8}{Player name} 아냐!{pause 20}	{emote: Happiness}잘 왔어!{pause 30}	천천히 있다 가!{pause 20} {catchphrase}!	{emote: Reset}어차피 오늘은 하지라서,{pause 20}	{emote: Happiness}해가 지지 않으니 실컷 놀 수 있다고!
+"004"	{emote: Happiness}오호!{pause 20} 어쩐 일이야, {Player name}!{Wait for input}{emote: Glare}{Town name (pink)} 마을의	{0005-001a-0002-cd00}{000e-000e-0006-0002-c774-0000}라도{pause 15}	먹고 싶어졌냐?{pause 20} {catchphrase}?
+"005"	{emote: Alarmed}오오, {pause 15}{Player name} 아냐!{pause 30}	{emote: Happiness}여기에 놀러 오다니!{Wait for input}{emote: Reset}너 오늘이 하지란 거 알았냐?{pause 30}	{emote: Glare}아직 한참 더 놀 수 있다구～!{pause 20}	{catchphrase}!
+"006"	{emote: Greetings}오호, {Town name (pink)} 마을의 {Player name}!{pause 30}	{emote: Happiness}건강해 보여 좋군!{pause 20}	{catchphrase}!
+"007"	어이, {Player name}!	놀러 왔었냐!{Wait for input}{emote: Sheepishness}정신 차려 보니 벌써 {pause 8}{Hour}시 {Minutes}분이네!	{emote: Soft Smile}하지에는 해가 안 져서{pause 15}	컨디션 엉망이지 않냐? {pause 20}{catchphrase}
+"008"	오우, 왔냐 {Player name}!	{Town name (pink)} 마을의 야경을	보러 온 거라면 오늘은 포기해!	어차피 오늘은 하지라서,{pause 15}	아무리 기다려도	해가 지지 않는다구!{pause 20} {catchphrase}!
+"009"	{emote: Greetings}잘 왔다, {pause 8}{Player nickname (green)}!{Wait for input}	{emote: Happiness}오늘은 해가 지지 않으니까{pause 15}	하루 종일 놀 수 있다구!{pause 20} {catchphrase}!	{emote: Glare}내일은 잠이 부족해서{pause 8}	후회할 테지만 말이야, {pause 20}{emote: Laughter}으ー하하핫!{pause 30}{emote: Soft Smile}
+"010"	{emote: Happiness}어이, {pause 8}{Player nickname (green)}!{pause 20}	놀러 왔었냐!{pause 20} {catchphrase}!{Wait for input}{emote: Reset}하짓날은 하루 종일 밝아서{pause 8}	{emote: Sheepishness}컨디션이 엉망이야!{pause 20}	{emote: Sleepy}후아암～～{pause 15} 졸려!
+"011"	{emote: Greetings}어이!{pause 15} 왔었냐, {pause 8}{Player nickname (green)}!{Wait for input}	{emote: Sheepishness}날이 밝아서 그렇지{pause 8}	벌써 {pause 4}{Hour}시 {Minutes}분이야!	{emote: Agreement}이래선 내일 못 일어나겠는데?{pause 20}	{emote: Laughter}으ー하하핫!{pause 30} {emote: Soft Smile}{catchphrase}!

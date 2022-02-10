@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Shyness}
-"002"	{emote: Shyness}
-"003"	{emote: Worry}
-"004"	{emote: Sunny}
-"005"	{emote: Greetings}
-"006"	{emote: Alarmed}
-"007"	{0009-0001-0006-08-00-09-00-00-00}	
-"008"	{emote: Anger}
-"009"	{emote: Greetings}
-"010"	{emote: Greetings}
+"001"	{emote: Shyness}ねぇ、{Player name}{0005-000d-0000}{pause 32}	アタシ{ruby (charSpan 1): たち}達、{pause 16}もう{ruby (charSpan 1): し}知らない{ruby (charSpan 1): なか}仲じゃ	ないんだし{pause 8}・{pause 8}・{pause 8}・{pause 8}　	{ruby (charSpan 2): ふたり}二人だけの　{ruby (charSpan 2): ひみつ}秘密の{ruby (charSpan 2): ことば}言葉とか{pause 8}	あってもいいと{ruby (charSpan 1): おも}思うの{Wait for input}{emote: Soft Smile}どうかしら？{pause 16}	{ruby (charSpan 1): なに}何か　ステキな{ruby (charSpan 2): ことば}言葉を	{ruby (charSpan 1): かんが}考えてみない？　{pause 8}{catchphrase}？{Player can respond (0005):0004-0015-0003-0028}	いいよ！	いらないと{ruby (charSpan 1): おも}思う
+"002"	{emote: Shyness}ねぇ、{Player name}{0005-000d-0000}{pause 32}	アタシ{ruby (charSpan 1): たち}達が	{ruby (charSpan 2): なかよ}仲良くなった{ruby (charSpan 1): あかし}証に{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 3): じぶんたち}自分達だけの　{ruby (charSpan 2): とくべつ}特別な	あいさつをする{pause 32}	というのは、どうかしら？	{emote: Soft Smile}とりあえず、アナタ{pause 16}	あいさつの{ruby (charSpan 2): ことば}言葉を	{ruby (charSpan 1): なに}何か　{ruby (charSpan 1): かんが}考えてみてくれない？{Player can respond (0005):0004-0015-0003-0028}	いいよ！	いらないと{ruby (charSpan 1): おも}思う
+"003"	{emote: Worry}あら、そう{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}じゃあ、また{ruby (charSpan 1): き}気が{ruby (charSpan 1): か}変わったら{pause 16}	{ruby (charSpan 2): そうだん}相談しましょうね？
+"004"	{emote: Sunny}うれしい！{pause 16}	どんな{ruby (charSpan 2): ことば}言葉にする？
+"005"	{emote: Greetings}「{Greeting begin}　{Greeting end}」！{Wait for input}	{emote: Reset}こんな{ruby (charSpan 1): かん}感じで、いいかしら？	{pause 8}{catchphrase}？{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	そうそう！	{ruby (charSpan 1): ちが}違うよ
+"006"	{emote: Alarmed}あら、{ruby (charSpan 1): き}聞き{ruby (charSpan 2): まちが}間違えちゃった？{Wait for input}	{emote: Soft Smile}それじゃあ、{pause 16}もう{ruby (charSpan 2): いっかい}一回	{ruby (charSpan 1): おし}教えてちょうだい
+"007"	{0009-0001-0006-0008-0009-000a}
+"008"	{emote: Anger}じゃあ、いくわよ？{Wait for input}	{emote: Greetings}{Greeting begin}　{Greeting end}！{Wait for input}{emote: Bashful}うふふ{pause 8}・{pause 8}・{pause 8}・{pause 8}なんだか{pause 16}	{Player nickname (green)}{0005-000d-0000}を	{ruby (charSpan 2): みぢか}身近に{ruby (charSpan 1): かん}感じる{ruby (charSpan 1): き}気がするわ～！
+"009"	{emote: Greetings}{Greeting begin}　{Greeting end}！{Wait for input}	{emote: Soft Smile}ちょっと{ruby (charSpan 2): しんせん}新鮮な{ruby (charSpan 2): きぶん}気分だわ！{pause 16}	ありがとね、{pause 8}{Player nickname (green)}{0005-000d-0000}！
+"010"	{emote: Greetings}{Greeting begin}　{Greeting end}！{Wait for input}	{emote: Soft Smile}さすがは　{Player nickname (green)}{0005-000d-0000}！{pause 16}	アタシには　{ruby (charSpan 1): おも}思いつかないわ！

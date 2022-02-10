@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Love}
-"002"	{emote: Love}
-"003"	また　かくれんぼで	あそぼうねぇ、{pause 8}
+"001"	{emote: Love}{ruby (charSpan 2): きょう}今日のかくれんぼは	スリリングだったねぇ～{Wait for input}	{emote: Happiness}またぜったい　やろうよぉ、{pause 8}{catchphrase}
+"002"	{emote: Love}{Player nickname (green)}{0005-000d-0000}、{pause 20}	ほれぼれする　オニっぷり	だったよぉ、{pause 8}{catchphrase}
+"003"	また　かくれんぼで	あそぼうねぇ、{pause 8}{catchphrase}

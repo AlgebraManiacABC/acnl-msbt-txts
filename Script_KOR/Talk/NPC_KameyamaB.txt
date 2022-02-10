@@ -1,39 +1,39 @@
 == 0 ==
-"001"	{pause 40}
-"002"	{emote: Agreement}
-"003"	{emote: Agreement}
-"004"	최고로 맛있는{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	
-"010"	제 3위는{pause 8}
-"011"	제 3위는{pause 8}
-"012"	제 3위는{pause 8}
-"013"	계속해서 제 2위는{pause 8}
-"014"	계속해서 제 2위는{pause 8}
-"015"	계속해서 제 2위는{pause 8}
-"016"	그리고 제 1위는{pause 8}
-"017"	{pause 40}
-"018"	그리고 제 1위는{pause 8}
-"019"	{pause 40}
-"020"	그리고 제 1위는{pause 8}
-"021"	{pause 40}
-"022"	
-"023"	자, {pause 10}
-"024"	{pause 8}
-"025"	자, {pause 10}
-"026"	자, {pause 10}
-"027"	{pause 8}
-"028"	자, {pause 10}
-"029"	자, {pause 10}
-"030"	{pause 8}
-"031"	자, {pause 10}
-"032"	
-"033"	{emote: Surprise}
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
+"001"	{pause 40}그럼 이제부터{pause 20}	곤충채집대회의 시상식을 시작하겠습니다～{Wait <0078 0000> 'time'}
+"002"	{emote: Agreement}네, 좋습니다{pause 20}	준비가 다 되었군요 	{Wait <003c 0000> 'time'}	{emote: Happiness}그럼 바로{pause 20}	한 명씩 발표하겠습니다～{pause 40}	먼저 3위부터{Wait <005a 0000> 'time'}
+"003"	{emote: Agreement}응응{pause 20}	멋진 곤충이었어{pause 20}	축하합니다{Wait <003c 0000> 'time'}
+"004"	최고로 맛있는{pause 20}	{emote: Distress}{Gray}아니 그게 아니고・・・{pause 40}{Color Reset}	{emote: Happiness}멋진 곤충을 잡아 와줘서 고마워{Wait <003c 0000> 'time'}
+"005"	{emote: Happiness}우승 축하해{pause 20}	정～말로 멋진 곤충이었어	{Wait <003c 0000> 'time'}
+"006"	{emote: Happiness}그럼 이제{pause 20}	마지막으로 다시 한 번{pause 20} 성대한 박수를!{Wait <0028 0000> 'time'}
+"007"	{emote: Greetings}여러분 축하합니다! {pause 40}	그럼 {pause 10}또 다음 달	곤충채집대회에서 만납시다{Wait <00b4 0000> 'time'}
+"008"	{emote: Greetings}여러분 축하합니다! {pause 40}	그럼 {pause 10}또 내년	곤충채집대회에서 만납시다{Wait <00b4 0000> 'time'}
+"009"
+"010"	제 3위는{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 잡아서{pause 40}	{Blue}{Number (0x8)}포인트{Color Reset}를 획득한{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0000}씨입니다	{Text size 100%}{Wait <003c 0000> 'time'}
+"011"	제 3위는{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 잡아서{pause 40}	{Blue}{Number (0x8)}포인트{Color Reset}를 획득한{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{Text size 150%}{0011-0000-0002-0000}씨{Text size 150%}{Text size 150%}～	{Text size 150%}{Text size 100%}{Wait <003c 0000> 'time'}
+"012"	제 3위는{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 잡아서{pause 40}	{Blue}{Number (0x8)}포인트{Color Reset}를 획득한{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0001-0002-0000}씨입니다	{Text size 100%}{Wait <003c 0000> 'time'}
+"013"	계속해서 제 2위는{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0001}{000e-000e-0008-0002-c744-0002-b97c} 잡아서{pause 40}	{Blue}{Number (0x8)}포인트{Color Reset}를 획득한{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0001}씨입니다{Text size 100%}	{Wait <003c 0000> 'time'}
+"014"	계속해서 제 2위는{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0001}{000e-000e-0008-0002-c744-0002-b97c} 잡아서{pause 40}	{Blue}{Number (0x8)}포인트{Color Reset}를 획득한{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{Text size 150%}{0011-0000-0002-0001}씨{Text size 150%}{Text size 150%}～	{Text size 150%}{Text size 100%}{Wait <003c 0000> 'time'}
+"015"	계속해서 제 2위는{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0001}{000e-000e-0008-0002-c744-0002-b97c} 잡아서{pause 40}	{Blue}{Number (0x8)}포인트{Color Reset}를 획득한{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{Text size 150%}{0011-0001-0002-0001}씨입니다{Text size 150%}{Text size 150%}	{Text size 150%}{Text size 100%}{Wait <003c 0000> 'time'}
+"016"	그리고 제 1위는{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0002}{000e-000e-0008-0002-c744-0002-b97c} 잡아서{pause 40}	{Blue}{Number (0x8)}포인트{Color Reset}를 획득한{Wait <003c 0000> 'time'}
+"017"	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0002}씨{Text size 100%}{Text size 150%}입니다～{Text size 100%}	{Wait <003c 0000> 'time'}
+"018"	그리고 제 1위는{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0002}{000e-000e-0008-0002-c744-0002-b97c} 잡아서{pause 40}	{Blue}{Number (0x8)}포인트{Color Reset}를 획득한{Wait <003c 0000> 'time'}
+"019"	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0002}씨{Text size 100%}{Text size 150%}～{Text size 100%}	{Wait <0028 0000> 'time'}
+"020"	그리고 제 1위는{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0002}{000e-000e-0008-0002-c744-0002-b97c} 잡아서{pause 40}	{Blue}{Number (0x8)}포인트{Color Reset}를 획득한{Wait <003c 0000> 'time'}
+"021"	{pause 40}{emote: Star Yell}{pause 15}	{Blue}{Text size 150%}{0011-0001-0002-0002}씨{Text size 100%}{Color Reset}{Text size 150%}입니다～{Text size 100%}	{Wait <003c 0000> 'time'}
+"022"
+"023"	자, {pause 10}	이 {Blue}동 곤충 트로피{Color Reset}를 받으세요{Wait <003c 0000> 'time'}
+"024"	{pause 8}・{pause 8}・{pause 8}・{pause 20}그런데 {pause 20}	{emote: Sadness}오늘은 불참했나 봅니다{Wait <003c 0000> 'time'}
+"025"	자, {pause 10}	이 {Blue}동 곤충 트로피{Color Reset}를 받으세요{Wait <003c 0000> 'time'}
+"026"	자, {pause 10}	이 {Blue}은 곤충 트로피{Color Reset}를 받으세요{Wait <003c 0000> 'time'}
+"027"	{pause 8}・{pause 8}・{pause 8}・{pause 20}그런데 {pause 20}	{emote: Sadness}오늘은 불참했나 봅니다{Wait <003c 0000> 'time'}
+"028"	자, {pause 10}	이 {Blue}은 곤충 트로피{Color Reset}를 받으세요{Wait <003c 0000> 'time'}
+"029"	자, {pause 10}이 번쩍번쩍 빛나는	{Blue}금 곤충 트로피{Color Reset}는{pause 8}	자네의 것이라네{pause 5}・{pause 5}・{pause 5}・{Wait <004b 0000> 'time'}
+"030"	{pause 8}・{pause 8}・{pause 8}・{pause 20}그런데 {pause 20}	{emote: Sadness}오늘은 불참인가 봅니다{Wait <003c 0000> 'time'}
+"031"	자, {pause 10}이 번쩍번쩍 빛나는	{Blue}금 곤충 트로피{Color Reset}는{pause 8}	자네의 것이라네{pause 5}・{pause 5}・{pause 5}・{Wait <004b 0000> 'time'}
+"032"
+"033"	{emote: Surprise}어라?{pause 20}	못 들고 가겠군요	{Wait <003c 0000> 'time'}	{emote: Happiness}시상식이 끝나면{pause 20}	집으로 배달해	드리겠습니다～{Wait <003c 0000> 'time'}
+"034"
+"035"
+"036"
+"037"
+"038"

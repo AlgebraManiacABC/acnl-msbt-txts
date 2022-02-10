@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Sheepishness}
-"002"	{emote: Sheepishness}
-"003"	{emote: Sheepishness}
-"004"	{emote: Sheepishness}
-"005"	{emote: Sheepishness}
-"006"	{emote: Sheepishness}
-"007"	제가 괜한 부탁을 드렸나 봐요{pause 20}
-"008"	신경 쓰시게 해서 죄송해요{pause 20}!
-"009"	{emote: Distress}
-"010"	{emote: Soft Smile}
-"011"	{emote: Soft Smile}
-"012"	{emote: Mistaken}
-"013"	{emote: Alarmed}
-"014"	{emote: Alarmed}
-"015"	{emote: Surprise}
-"016"	{emote: Alarmed}
-"017"	{emote: Surprise}
-"018"	{emote: Alarmed}
-"019"	{emote: Distress}
-"020"	{emote: Shocked}
-"021"	{emote: Alarmed}
-"022"	{emote: Surprise}
-"023"	{emote: Alarmed}
-"024"	{emote: Shocked}
+"001"	{emote: Sheepishness}{0011-0001-0002-0000}님께 아직도{pause 10}	선물을 전해주시지 않았죠?{Wait for input}{emote: Soft Smile}뒷일은{pause 10} 제가 알아서 할 테니 {pause 15}	그만 돌려주세요
+"002"	{emote: Sheepishness}제가 부탁드렸던,{pause 10}	{0011-0001-0002-0000}님을 위한 화해의 선물은{pause 10}	아직도 갖고 계신 건가요?{Wait for input}{emote: Soft Smile}역시{pause 5} 제가 직접 드리는 게 낫겠어요{pause 20}	지금 돌려주세요!
+"003"	{emote: Sheepishness}{0011-0001-0002-0000}님께	제가 빌렸던 물건을{pause 10}	아직 못 돌려드리셨나 보군요!	{emote: Soft Smile}다시 생각해봤는데{pause 10}	제가 직접 가는 게 좋을 것 같아요{Wait for input}	자,{pause 10} 지금 주세요
+"004"	{emote: Sheepishness}전에 맡긴 {pause 10}{0011-0001-0002-0000}님의	분실물 말인데요{pause 15}	그냥{pause 5} 제가 직접 가야겠어요{Wait for input}{emote: Soft Smile}죄송하지만{pause 10}	그만 돌려주세요, {pause 15}{catchphrase}
+"005"	{emote: Sheepishness}전에 부탁드렸던	{0011-0001-0002-0000}님의 소포는{pause 10}	아직도 못 전해주셨나요?	{emote: Soft Smile}이제 괜찮으니까{pause 10}	그만 돌려주시겠어요?
+"006"	{emote: Sheepishness}제가 맡긴 물건을	{0011-0001-0002-0000}님께{pause 10}	아직도 못 드리셨나 보네요!{Wait for input}{emote: Soft Smile}그럼{pause 10} 제가 알아서 해볼게요{pause 15}	일단 그 물건을 돌려주세요
+"007"	제가 괜한 부탁을 드렸나 봐요{pause 20}	{emote: Agreement}처음부터{pause 10} 제가 그냥 직접{pause 5}	가져다 드릴 걸 그랬어요!{emote: Soft Smile}
+"008"	신경 쓰시게 해서 죄송해요{pause 20}	{emote: Agreement}직접 드리면서{pause 10}	제 진심을 표현하려구요{emote: Soft Smile}
+"009"	{emote: Distress}수선을 피워서 죄송해요{pause 20}	{emote: Soft Smile}제가 직접 돌려드리고{pause 10}	사과도 할 생각이랍니다
+"010"	{emote: Soft Smile}분명 찾고 계실 테니{pause 10}	빨리 가져가서 드려야겠어요!
+"011"	{emote: Soft Smile}감사합니다!{pause 20}	{emote: Reset}빨리 가져다드리는 게 좋을 것 같아서{pause 10}	{emote: Soft Smile}제가{pause 5} 직접 가려는 거예요
+"012"	{emote: Mistaken}남에게 너무 의지하는 건{pause 5}	안 좋은 습관인 것 같아서요!{pause 20}	{emote: Soft Smile}제가 직접 전해드릴 생각이랍니다
+"013"	{emote: Alarmed}헉!{pause 20} 설마 포장을 뜯으신 거예요?!{Wait for input}	{emote: Distress}히잉{pause 8}・{pause 8}・{pause 8}・{pause 8} 제가 신경 써서 예쁘게{pause 3}	{emote: Worry}포장한 거였는데, {pause 15}{catchphrase}
+"014"	{emote: Alarmed}아니?!{pause 20} 열려 있잖아요?{Wait for input}{emote: Worry}신경 써서{pause 10} 사과의 표시로	준비한 거였는데{pause 8}・{pause 8}・{pause 8}・{pause 30}	다시{pause 3} 포장해야겠어요
+"015"	{emote: Surprise}이럴 수가! {pause 20}마음대로 열어서 보셨어요?{Wait for input}	{emote: Distress}특별히 포장까지 한 건데{pause 8}・{pause 8}・{pause 8}・{pause 10}	다시 해야겠네요
+"016"	{emote: Alarmed}어머나!{pause 20} 포장이 뜯어져 있어요!{Wait for input}{emote: Worry}나름{pause 3} 정성을 들여서	포장한 건데{pause 8}・{pause 8}・{pause 8}・{pause 8}	다시 포장해야겠네요
+"017"	{emote: Surprise}어～?!{pause 20}	혹시{pause 10} 맘대로 여셨어요?{Wait for input}{emote: Worry}이건 {pause 10}{0011-0001-0002-0000}님 앞으로	온 건데 어쩌죠{pause 10}{emote: Sigh}{pause 10}・{pause 10}・{pause 10}・{pause 10}?{pause 20}	{catchphrase}
+"018"	{emote: Alarmed}아앗!{pause 20}	설마{pause 8} 내용물을 보신 거예요?!{Wait for input}{emote: Worry}이건 원래	{0011-0001-0002-0000}님 거라구요{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Disagreement}그러시면{pause 5} 안 돼요
+"019"	{emote: Distress}네에?!{pause 20}	안 갖고 계시다뇨?{pause 15}	어떻게 그런 일이～!{Wait for input}{emote: Sigh}에휴{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 30}	다시 사러 가야겠네요,	{pause 15}{catchphrase}
+"020"	{emote: Shocked}세상에! {pause 20}잃어버리신 거예요?!{Wait for input}	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 20}그걸 보내서{pause 10}	화해할 생각이었는데, {pause 15}{catchphrase}
+"021"	{emote: Alarmed}어머!{pause 20} 잃어버리신 건가요?!{Wait for input}	{emote: Distress}{0011-0001-0002-0000}님께{pause 10} 빌린 거였는데{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Disagreement}전 이제 어쩌면 좋아요?
+"022"	{emote: Surprise}헉!{pause 20} 안 갖고 계시다니{pause 10}	무슨 말씀이세요?!{Wait for input}{emote: Worry}{0011-0001-0002-0000}님의 물건인데{pause 8}・{pause 8}・{pause 8}・{pause 8}	이걸 어떻게{pause 3} 해명하죠?
+"023"	{emote: Alarmed}네엣?! {pause 20}잃어버리신 거예요?!{Wait for input}	{emote: Worry}{0011-0001-0002-0000}님이{pause 10}	분명 아쉬워하실 텐데{pause 8}・{pause 8}・{pause 8}・{pause 10} {catchphrase}
+"024"	{emote: Shocked}헉! {pause 20}안 갖고 계세요?!{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Worry}어쩌면 좋죠?{pause 20}	{0011-0001-0002-0000}님은{pause 10} 많이 기대하셨을 텐데요

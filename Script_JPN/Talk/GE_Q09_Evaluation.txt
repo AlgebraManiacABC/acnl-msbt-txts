@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Curious}
-"003"	{emote: Curious}
-"004"	{emote: Glee}
-"005"	{emote: Soft Smile}
-"006"	{emote: Distress}
-"007"	{emote: Glee}
-"008"	{emote: Agreement}
-"009"	{emote: Thought}
-"010"	{emote: Alarmed}
-"011"	{emote: Surprise}
-"012"	{emote: Shocked}
+"001"	{emote: Surprise}あ！{pause 20}	もう　{ruby (charSpan 1): かえ}帰っちゃうカンジ？{Wait for input}	{emote: Happiness}アタイの{ruby (charSpan 2): へや}部屋　{pause 8}どうだった～？{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"002"	{emote: Curious}あれ？　{pause 20}もう{ruby (charSpan 1): かえ}帰る{ruby (charSpan 2): じかん}時間なの？{Wait for input}	{emote: Happiness}ねぇねぇ　{pause 8}アタイのお{ruby (charSpan 2): へや}部屋、{pause 10}	けっこう　イケてたでしょ？{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"003"	{emote: Curious}なんだ～、{pause 10}もう{ruby (charSpan 1): かえ}帰っちゃうの？{Wait for input}	{emote: Happiness}せっかくだから{pause 10}	{ruby (charSpan 2): へや}部屋{ruby (charSpan 1): み}見た{ruby (charSpan 2): かんそう}感想　{pause 8}{ruby (charSpan 1): き}聞かせてよ！{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"004"	{emote: Glee}わ～！　{pause 10}ホント？{pause 20}	うれしいこと　{pause 3}{ruby (charSpan 1): い}言ってくれるじゃん！{Wait for input}{emote: Happiness}アタイのインテリアのセンス、{pause 15}	ちゃんと　わかってくれて　{pause 5}よかった～！{Wait for input}{emote: Reset}これからも　がんばって{pause 15}	また　{pause 3}{emote: Sunny}ほめてもらお～っと、{pause 15}{catchphrase}
+"005"	{emote: Soft Smile}そっか～{pause 20}	{emote: Reset}{ruby (charSpan 2): じぶん}自分では　{pause 10}いい{ruby (charSpan 1): せん}線{ruby (charSpan 1): い}行ってるかなって	{ruby (charSpan 1): おも}思ってたけど　{pause 15}{emote: Happiness}まだまだがんばろっと！{emote: Sunny}
+"006"	{emote: Distress}え～！　{pause 20}そうなの？！{Wait for input}	{emote: Sadness}アタイ、{pause 10}てっきり　イケてるかと{pause 10}	{ruby (charSpan 1): おも}思っちゃってたよ！
+"007"	{emote: Glee}ホント？{Wait for input}もう{ruby (charSpan 3): ひとくふう}一工夫いるかもって　{ruby (charSpan 1): おも}思ってたから{pause 15}	そう{ruby (charSpan 1): い}言われると{pause 10}	なんかテレるな～、{pause 15}{catchphrase}！{Wait for input}{emote: Happiness}これからも{pause 10}	イケてる{ruby (charSpan 2): へや}部屋を　{pause 5}{ruby (charSpan 2): めざ}目指しつづけよ～っと！
+"008"	{emote: Agreement}うんうん、{pause 20}{emote: Happiness}アタイも	そんなカンジかな{pause 8}って{ruby (charSpan 1): おも}思ってたよ{pause 30}	さすが　よく{ruby (charSpan 1): み}見てるね～！
+"009"	{emote: Thought}そ、{pause 10}そっか～{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sadness}まぁ　たしかに　まだまだかも！{Wait for input}	{emote: Sheepishness}がんばって　{pause 10}もっと{ruby (charSpan 2): くふう}工夫してみるわ
+"010"	{emote: Alarmed}え？！　{pause 15}ホント？！{Wait for input}{emote: Happiness}アタイは　{pause 5}まだまだかと{ruby (charSpan 1): おも}思ってたから{pause 10}	ちょっと{ruby (charSpan 2): いがい}意外だけど、{pause 15}ほめてもらえて	ちょーうれしいよ！{pause 20}	{emote: Reset}じゃあ　これからも{pause 10}	もっとセンスをみがいて{pause 5}	{emote: Happiness}がんばろ～っと！
+"011"	{emote: Surprise}ホントに～？{Wait for input}{emote: Happiness}{ruby (charSpan 2): じぶん}自分では　{pause 10}がんばんなきゃって	{ruby (charSpan 1): おも}思ってたから、{pause 15}{ruby (charSpan 1): いま}今の{ruby (charSpan 2): ことば}言葉をはげみに{pause 10}	{emote: Agreement}もっと　{pause 3}オシャレな{ruby (charSpan 2): へや}部屋を{ruby (charSpan 2): めざ}目指すよ
+"012"	{emote: Shocked}{pause 8}・{pause 8}・{pause 8}・{pause 8}！！{Wait for input}	{emote: Sadness}うすうす{ruby (charSpan 1): き}気づいてたけど、{pause 10}	{Player nickname (green)}{0005-000d-0000}も　{pause 8}ハッキリ{ruby (charSpan 1): い}言うな～	{emote: Happiness}ま、{pause 20}そこが{pause 8}	アンタの　いいとこなんだけどね

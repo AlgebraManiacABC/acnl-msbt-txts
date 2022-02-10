@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Shyness}
-"002"	{emote: Shyness}
-"003"	{emote: Happiness}
-"004"	{emote: Worry}
-"005"	{emote: Soft Smile}
-"006"	{0009-0000-0004-09-00-00-00}	
-"007"	{emote: Happiness}
-"008"	{emote: Sheepishness}
-"009"	{emote: Sheepishness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Shyness}
-"013"	{emote: Soft Smile}
-"014"	{emote: Happiness}
-"015"	{emote: Sheepishness}
+"001"	{emote: Shyness}あの、{pause 10}{Player nickname (green)}さん{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Reset}{ruby (charSpan 2): とつぜん}突然ですが、{pause 10}	{0011-0003-0002-0001}なんかに{pause 10}	{ruby (charSpan 2): きょうみ}興味　ございませんか？{Wait for input}{emote: Worry}{ruby (charSpan 1): じつ}実は　{pause 10}{ruby (charSpan 1): あたら}新しいものを	いただいてしまって、{pause 10}	ひとつ　{ruby (charSpan 1): あま}余っているんです{pause 5}・{pause 5}・{pause 5}・{Wait for input}{0007-000d-0000}{emote: Reset}よろしければ、{pause 10}{Blue}{Number (0x9)}ベル{Color Reset}で	{ruby (charSpan 1): か}買っていただけませんか？　{pause 8}{catchphrase}？{confirmation-02}{Player can respond (0005):0003-0015-0004-0028}	{ruby (charSpan 1): か}買っちゃう！	いらないなぁ
+"002"	{emote: Shyness}{Player nickname (green)}さんって{pause 10}	{0011-0003-0002-0001}が{pause 8}	{ruby (charSpan 1): ほ}欲しいって{ruby (charSpan 1): おも}思ったことありませんか？！{Wait for input}{emote: Worry}この{ruby (charSpan 1): あいだ}間　{pause 10}しょうどう{ruby (charSpan 1): が}買いを	してしまったんですけど、{pause 15}{emote: Sadness}よくよく{ruby (charSpan 1): かんが}考えたら{pause 10}	やっぱり　{ruby (charSpan 2): ひつよう}必要なかったんです{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Distress}{ruby (charSpan 1): つか}使わずに{ruby (charSpan 1): も}持っているのも　{pause 3}もったいないので{pause 15}	どなたか　{pause 10}{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取ってくださる{ruby (charSpan 1): かた}方を	{ruby (charSpan 1): さが}探しているんですが{pause 8}・{pause 8}・{pause 8}・{pause 8}	{0007-000d-0000}{emote: Worry}もしよければ{pause 8}　{Blue}{Number (0x9)}ベル{Color Reset}で{pause 15}	{emote: Curious}{ruby (charSpan 1): か}買っていただけないでしょうか？{confirmation-02}{Player can respond (0005):0003-0015-0004-0028}	{ruby (charSpan 1): ほ}欲しい！	いらないです
+"003"	{emote: Happiness}あら、{pause 8}よかった！{0009-0000-0004-0007-0008}
+"004"	{emote: Worry}そうですか{pause 8}・{pause 8}・{pause 8}・{pause 8}{000a-0000-0006-0503-0600-cd00}
+"005"	{emote: Soft Smile}でも　せっかく	お{ruby (charSpan 1): あ}会いしたことですし{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}{ruby (charSpan 2): ひごろ}日頃お{ruby (charSpan 2): せわ}世話になっている{pause 8}	{Player nickname (green)}さんには{Wait for input}{emote: Soft Smile}タダで{ruby (charSpan 1): さ}差し{ruby (charSpan 1): あ}上げても　いいんですけど{pause 15}	{emote: Curious}いかがですか？{confirmation-02}{Player can respond (0005):000b-0015-0006-0028}	ちょうだい！	いらないってば！
+"006"	{0009-0000-0004-0009-000a}
+"007"	{emote: Happiness}きっと　{pause 10}{Player nickname (green)}さんなら、{pause 8}	そう{ruby (charSpan 1): い}言ってくださると{ruby (charSpan 1): おも}思いました！{Wait for input}{emote: Soft Smile}ちょうど{ruby (charSpan 1): いま}今　{pause 5}{ruby (charSpan 1): も}持ってるので{pause 10}	さっそく　お{ruby (charSpan 1): わた}渡ししますね！
+"008"	{emote: Sheepishness}なんだか　わたし{pause 10}	{ruby (charSpan 2): むり}無理やり　{pause 3}{ruby (charSpan 1): お}押しつけちゃってないですか？{Wait for input}	{emote: Soft Smile}とにかく　{pause 10}{ruby (charSpan 1): つか}使ってみてください！
+"009"	{emote: Sheepishness}{ruby (charSpan 2): ざんねん}残念ですけど{pause 10}　{ruby (charSpan 2): しかた}仕方ないですね{Wait for input}	{emote: Happiness}またの{ruby (charSpan 2): きかい}機会に！
+"010"	{emote: Happiness}では　{pause 10}{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): かた}方にも　あたってみますね{pause 30}	{emote: Sheepishness}お{ruby (charSpan 2): じかん}時間いただいてしまって{pause 8}	{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありませんでした
+"011"	{emote: Happiness}そうですか！{Wait for input}{emote: Soft Smile}{Player nickname (green)}さんが	{ruby (charSpan 1): よろこ}喜んでくださるなら{pause 10}　うれしいです{Wait for input}	{emote: Sunny}どうぞ{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取ってください
+"012"	{emote: Shyness}あの　{pause 10}{Player nickname (green)}さん！{Wait for input}	ちょっと　ご{ruby (charSpan 2): そうだん}相談なんですけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Distress}わたし、{pause 10}{ruby (charSpan 1): いま}今　どうしても	{ruby (charSpan 1): ほ}欲しい{ruby (charSpan 1): ほん}本があるんです{Wait for input}{emote: Thought}でも　{pause 10}あと{ruby (charSpan 1): すこ}少しだけ	おこづかいが{ruby (charSpan 1): た}足りなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}そこで　{pause 8}いらないものを{ruby (charSpan 1): う}売って{pause 10}	お{ruby (charSpan 1): かね}金を{ruby (charSpan 1): あつ}集めようと{ruby (charSpan 1): おも}思ってるんです！{Wait for input}{emote: Shyness}もし　よければ{pause 8}	{ruby (charSpan 2): きょうりょく}協力していただけませんか？{Wait for input}{0007-000d-0000}{emote: Distress}{0011-0003-0002-0001}が{pause 8}	{Blue}{Number (0x9)}ベル{Color Reset}です！{confirmation-02}{Player can respond (0005):000e-0015-000f-0028}	{ruby (charSpan 1): か}買うよ！	ごめん・・・
+"013"	{emote: Soft Smile}また　{pause 5}よろしくお{ruby (charSpan 1): ねが}願いします
+"014"	{emote: Happiness}ほんとですか！{Wait for input}	{emote: Soft Smile}ご{ruby (charSpan 2): きょうりょく}協力ありがとうございます、{pause 15}{catchphrase}
+"015"	{emote: Sheepishness}そうですか{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{ruby (charSpan 2): ざんねん}残念ですけど{pause 10}　{ruby (charSpan 2): しかた}仕方ないですね{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): じみち}地道に　がんばります、{pause 15}{catchphrase}！

@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Happiness}
-"003"	{emote: Alarmed}
-"004"	{emote: Joy}
-"005"	{emote: Happiness}
+"001"	{emote: Curious}あれぇ？　{Player name}{0005-000d-0000}？{pause 40}	{emote: Happiness}こんなとろで{ruby (charSpan 1): あ}会うなんて、	きぐうだねぇ、{pause 8}{catchphrase}
+"002"	{emote: Happiness}やっほぉ、{Player name}{0005-000d-0000}！{pause 20}	{emote: Glee}また　{ruby (charSpan 1): あ}会えるなんて	ユメみたい、{pause 8}{catchphrase}
+"003"	{emote: Alarmed}あ、{pause 20}{Player name}{0005-000d-0000}！{pause 40}	{emote: Happiness}ぐうぜんだねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Glee}キミ　そのかっこう、{pause 20}	すっごく　いいねぇ～！{Wait for input}	ぐっすり　ねむれそうだよぉ
+"004"	{emote: Joy}あぁ～　{Player name}{0005-000d-0000}！{pause 20}	とっても{ruby (charSpan 1): あ}会いたかったよぉ！{Wait for input}ボク　ユメが	かなっちゃったぁ、{pause 8}{catchphrase}
+"005"	{emote: Happiness}ひさしぶりだね{pause 20}	{Player name}{0005-000d-0000}、{pause 8}{catchphrase}{Wait for input}{emote: Shyness}ボクが　まくらの{ruby (charSpan 1): した}下に	キミのしゃしんを　おいてたから、{pause 20}	こうやって　また{ruby (charSpan 1): あ}会えたのかなぁ？

@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Alarmed}
-"007"	{emote: Agreement}
-"008"	으음{pause 8}
-"009"	{emote: Alarmed}
-"010"	{emote: Soft Smile}
-"011"	{pause 8}
-"012"	{pause 8}
-"013"	{emote: Soft Smile}
-"014"	{pause 8}
-"015"	{pause 8}
+"001"	{emote: Curious}어? {pause 40}아까 서명했는데?!{pause 40}	{emote: Laughter}아하핫! 너 정신없구나?{pause 20}	진정해 진정! {pause 20}{catchphrase}!{pause 40}{emote: Soft Smile}
+"002"	{emote: Alarmed}뭐야! {pause 20}	난 아까 서명했잖아!{pause 40}	{emote: Reset}다른 녀석 찾아봐! {pause 20}{catchphrase}!
+"003"	{emote: Alarmed}엉?{pause 20}	아까 서명했는데{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}다른 녀석한테 물어보지그래?
+"004"	{emote: Alarmed}{0012-0001-0000}{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Resigned}안타깝지만 난 별로 안 땡기네{Wait for input}{emote: Agreement}일부러 와줬는데 미안{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Soft Smile}	다른 데 알아봐라!	{pause 20}{catchphrase}!
+"005"	{emote: Alarmed}엇!{pause 8}	{0012-0001-0000}?{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Reset}미안하지만 난 패스다!{pause 40}	{emote: Soft Smile}다른 데 가서 알아봐!	{pause 20}{catchphrase}!
+"006"	{emote: Alarmed}{0012-0001-0000}?{pause 40}	{emote: Worry}난 좀 별로인 거 같은데{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Agreement}여기까지 와줬는데 미안하지만{pause 8}	다른 녀석 찾아봐!	{pause 20}{catchphrase}!
+"007"	{emote: Agreement}흐음{pause 8}・{pause 8}・{pause 8}・{pause 20}	{0012-0001-0000}?{Wait for input}{emote: Sunny}좋은 생각이네!{pause 20}	기꺼이 서명하지!{pause 40}{emote: Soft Smile}
+"008"	으음{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Curious}{0012-0001-0000}?{Wait for input}{emote: Sunny}재미있는데?!{pause 40}	{emote: Reset}까짓거, 서명해주지 뭐!
+"009"	{emote: Alarmed}앗!{pause 20}	{0012-0001-0000}?{pause 40}	{emote: Reset}서명 운동이라는 게 이거였구만?!	{emote: Agreement}알아 알아!{pause 40}	까짓거, 나도 참가할게!
+"010"	{emote: Soft Smile}자, 여기!{pause 20}{Wait for input}{emote: Agreement}다른 마을에서 여기까지 오다니{pause 8}	열성이 대단한데!{Wait for input}{emote: Soft Smile}응원할 테니까	힘내! {pause 20}{catchphrase}!
+"011"	{pause 8}・{pause 8}・{pause 8}・{pause 20}자, {pause 8}됐지?!{Wait for input}{emote: Agreement}다른 마을까지 받으러 오다니{pause 8}	열의가 대단한데{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}좋아! 그 자세 맘에 든다	{emote: Glee}나도 응원할 테니	열심히 해봐!{pause 20} {catchphrase}!
+"012"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Soft Smile}자, {pause 8}됐지?{Wait for input}{emote: Reset}아직 더 받아야겠네?{pause 20}	{emote: Agreement}{Town name (pink)} 마을 촌구석까지 와서	고생이 많다{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}응원할 테니까	힘내! {pause 20}{catchphrase}!
+"013"	{emote: Soft Smile}자, 여기{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Inspired}오! {pause 20}목표 개수 다 채웠잖아?!{Wait for input}{emote: Delight}축하 축하～!{pause 20}	여기까지 온 보람이 있구만!	{pause 20}{catchphrase}!{pause 40}{emote: Soft Smile}
+"014"	{pause 8}・{pause 8}・{pause 8}・{pause 20}이거면 {pause 8}됐지?{Wait for input}{emote: Surprise}앗! {pause 10}서명용지{pause 8}・{pause 8}・{pause 8}・{pause 20}	다 채워진 것 같은데?{pause 10}{Wait for input}{emote: Delight}해냈네!{pause 20}	멀리 온 보람이 있잖아!	{pause 20}{catchphrase}!{pause 40}{emote: Soft Smile}
+"015"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Soft Smile}자, {pause 8}됐지?{Wait for input}{emote: Surprise}앗! {pause 20}서명용지	다 찬 거 같은데?{Wait for input}{emote: Delight}축하해!{pause 20}	당당하게 마을로 돌아갈 수 있겠는데!{pause 20}	{catchphrase}!{pause 40}{emote: Soft Smile}

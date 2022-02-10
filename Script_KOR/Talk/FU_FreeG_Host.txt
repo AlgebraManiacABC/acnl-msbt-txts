@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Glee}
-"005"	{0009-0003-000a-06-00-07-00-08-00-09-00-00-00}	
-"006"	{emote: Surprise}
-"007"	{emote: Joy}
-"008"	{emote: Distress}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	
-"012"	{emote: Happiness}
+"001"	{emote: Curious}어머?{pause 20}	손님이 와 계신가 봐요
+"002"	{emote: Happiness}오늘은{pause 10} 마을 밖에서	손님이{pause 3} 오셨대요
+"003"	{emote: Happiness}손님이 와 계신가 본데{pause 10}	{Player nickname (green)}님의 친구이신가요?{Wait for input}{emote: Glee}{Town name (pink)} 마을에서	즐거운 시간을 보내실 수 있도록{pause 10}	도와드려야겠어요!
+"004"	{emote: Glee}마을에 손님이 와 계신 것 같아요!{pause 20}	{emote: Happiness}자,{pause 10} 뭘 대접해드리면 좋을까요?
+"005"	{0009-0003-000a-0006-0007-0008-0009-000a}
+"006"	{emote: Surprise}아!{pause 20} {emote: Distress}이럴 줄 알았으면{pause 10}	과자라도 만들어 둘 걸	잘못했네요{pause 8}・{pause 8}・{pause 8}・{pause 8} {catchphrase}
+"007"	{emote: Joy}이런저런 얘기를 나눌 생각을 하니{pause 10}	어깨춤이 절로 나네요!{pause 30}{emote: Soft Smile}
+"008"	{emote: Distress}근데 그보다 너무 갑작스러워서{pause 10}	집 정리를 제대로 못 한 게{pause 5}	신경 쓰이네요, {pause 10}{catchphrase}!
+"009"	{emote: Happiness}{Player nickname (green)}님은 벌써 인사를 하셨나요?{Wait for input}	아직 아니시라면{pause 10}	얼른 가서 얘기라도 나누고 오세요!
+"010"	{emote: Happiness}아직 인사를 하지 않으셨으면{pause 10}	저는 신경 쓰지 마시고{pause 10}	손님께 다녀오세요!!
+"011"
+"012"	{emote: Happiness}친구를 마을로 불러서{pause 10}	같이 노는 건{pause 3} 참 즐겁죠?{Wait for input}{emote: Reset}친구들과 신 나게 놀고{pause 10}	슬슬 해산해야겠다 싶으실 때는 말이죠{Wait for input}{emote: Happiness}놀러 오신 분들을{pause 10}	빨리 각자의 마을로 보내드리는{pause 5}	{emote: Glee}간단한 방법이 있답니다!	{emote: Agreement}{Blue}START{Color Reset}를 눌러{pause 10}	{emote: Greetings}「{Blue}접속을 종료하기{Color Reset}」를 선택해보세요{Wait for input}{emote: Happiness}모두들 일제히{pause 10} 자신의 마을로	돌아가실 수 있어서{pause 10}	편리할 거예요, {pause 15}{catchphrase}

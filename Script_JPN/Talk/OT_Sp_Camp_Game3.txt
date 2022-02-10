@@ -1,29 +1,29 @@
 == 0 ==
-"001"	ねぇ、{pause 8}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Resigned}
-"007"	{emote: Soft Smile}
-"008"	{emote: Agreement}
-"009"	{emote: Soft Smile}
-"010"	{0009-0002-0008-0b-00-0b-00-0b-00-0c-00}
-"011"	ハイ{pause 8}
-"012"	ハイ{pause 8}
-"013"	{emote: Soft Smile}
-"014"	{0009-0002-0008-0f-00-0f-00-10-00-10-00}
-"015"	ハイ{pause 8}
-"016"	ハイ{pause 8}
-"017"	{emote: Sunny}
-"018"	{0009-0002-0008-13-00-14-00-14-00-14-00}
-"019"	ハイ{pause 8}
-"020"	ハイ{pause 8}
-"021"	{0009-0001-0006-17-00-18-00-19-00}
-"022"	{0009-0001-0006-1a-00-1b-00-1c-00}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
-"025"	{emote: Sheepishness}
-"026"	ちなみに「ハートの{ruby (charSpan 1): エース}A」は、{pause 16}!
-"027"	{emote: Soft Smile}
-"028"	{emote: Sheepishness}
+"001"	ねぇ、{pause 8}アナタが{ruby (charSpan 1): も}持ってる{pause 16}	その　{0011-0003-0002-0000}をかけて{pause 16}	「ハートの{ruby (charSpan 1): エース}Aを{ruby (charSpan 1): さが}探せ」ゲームをしない？	{0007-000d-0000}{emote: Soft Smile}アナタが　{ruby (charSpan 1): か}勝つことができたら、{pause 16}	{0011-0003-0002-0000}を{pause 16}	{ruby (charSpan 1): たか}高く　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取ってあげるわよ{Player can respond (0005):0007-0015-0002-0028}	やるやる！	また{ruby (charSpan 2): こんど}今度ね
+"002"	{emote: Worry}わかったわ、{pause 16}{ruby (charSpan 2): だいじ}大事なんでしょ　ソレ？{pause 32}	{emote: Sheepishness}そういうことなら　{ruby (charSpan 2): しかた}仕方ないわね、	{pause 8}{catchphrase}
+"003"	{emote: Worry}{ruby (charSpan 2): ざんねん}残念{pause 4}・{pause 4}・{pause 4}・{pause 4}{ruby (charSpan 3): ふせいかい}不正解ね{Wait for input}{emote: Sheepishness}{ruby (charSpan 1): わる}悪いけど、{ruby (charSpan 3): やくそくどお}約束通り{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で{pause 8}　	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうわよ
+"004"	{emote: Worry}{ruby (charSpan 2): ざんねん}残念{pause 4}・{pause 4}・{pause 4}・{pause 4}{ruby (charSpan 3): ふせいかい}不正解ね{Wait for input}{emote: Sheepishness}{ruby (charSpan 1): わる}悪いけど、{ruby (charSpan 3): やくそくどお}約束通り{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で{pause 8}　	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうわよ
+"005"	{emote: Worry}おしかったわね、{pause 16}もう{ruby (charSpan 1): すこ}少しで　	パーフェクトだったのに{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}でも、{pause 8}ごめんなさい{pause 32}	{ruby (charSpan 3): やくそくどお}約束通り　{Blue}{Number (0x9)}ベル{Color Reset}で{pause 16}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうわよ
+"006"	{emote: Resigned}アナタって{pause 8}・{pause 8}・{pause 8}・{pause 8}	なんて　{ruby (charSpan 1): うん}運のいい{ruby (charSpan 1): ひと}人なの？{Wait for input}{emote: Worry}アタシの　{ruby (charSpan 2): かんぱい}完敗だわ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Anger}ここは、フンパツして{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取るわね
+"007"	{emote: Soft Smile}それじゃ、さっそく{pause 16}	ルールを　{ruby (charSpan 2): せつめい}説明しましょうか？	{pause 8}{catchphrase}？{Player can respond (0005):0008-0015-0009-0028}	お{ruby (charSpan 1): ねが}願いします	{ruby (charSpan 1): し}知ってるよ！
+"008"	{emote: Agreement}じゃあ、{pause 16}ルールを　{ruby (charSpan 2): せつめい}説明するわね？{Wait for input}	{emote: Reset}ここに　2{ruby (charSpan 1): まい}枚のカードがあるわ{pause 8}・{pause 8}・{pause 8}・{pause 8}	「ハートの{ruby (charSpan 1): エース}A」と「ジョーカー」よ	このカードを　アタシが{ruby (charSpan 1): き}切った{ruby (charSpan 1): あと}後、{pause 16}	アナタに　1{ruby (charSpan 1): まい}枚、{ruby (charSpan 1): えら}選んでもらうの{pause 32}	{emote: Sunny}「ハートの{ruby (charSpan 1): エース}A」が{ruby (charSpan 1): で}出たら、{ruby (charSpan 1): あ}当たりよ！	{emote: Reset}{ruby (charSpan 1): あ}当てた{ruby (charSpan 2): かいすう}回数が　{ruby (charSpan 1): おお}多いほど、{pause 16}	{0011-0003-0002-0000}の{pause 8}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取り{ruby (charSpan 1): がく}額は　{ruby (charSpan 1): あ}上がるけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}ハズれたら、その{ruby (charSpan 2): じてん}時点の{pause 16}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取り{ruby (charSpan 1): がく}額で　{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取らせてもらうわ{pause 32}	{emote: Soft Smile}チャンスは　3{ruby (charSpan 1): かい}回よ！	{emote: Anger}さぁ、{pause 16}まずは1{ruby (charSpan 1): かい}回{ruby (charSpan 1): め}目！{pause 32}	これが　ハズれた{ruby (charSpan 2): ばあい}場合は、{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうわ	{emote: Curious}どちらにする？　{pause 8}{catchphrase}？{Player can respond (0000):000a-0000-000b-0000}	{ruby (charSpan 1): ひだり}左のカード	{ruby (charSpan 1): みぎ}右のカード
+"009"	{emote: Soft Smile}そう、{pause 16}このゲーム　	やったことあるのね？{Wait for input}{emote: Anger}じゃあ、{pause 8}まずは1{ruby (charSpan 1): かい}回{ruby (charSpan 1): め}目！{pause 32}	これが　ハズれたら、{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうわ	{emote: Curious}どちらにする？　{pause 8}{catchphrase}？{Player can respond (0000):000a-0000-000a-0000}	{ruby (charSpan 1): ひだり}左のカード	{ruby (charSpan 1): みぎ}右のカード
+"010"	{0009-0002-0008-000b-000b-000b-000c}
+"011"	ハイ{pause 8}・{pause 8}・{pause 8}・{pause 8}これね？{Wait for input}	{emote: Anger}それじゃあ、1{ruby (charSpan 2): かいめ}回目は{pause 16}	どちらかしら？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Sunny}ハートの{ruby (charSpan 1): エース}Aよ！
+"012"	ハイ{pause 8}・{pause 8}・{pause 8}・{pause 8}これね？{Wait for input}	{emote: Anger}それじゃあ、1{ruby (charSpan 2): かいめ}回目は{pause 16}	どちらかしら？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Cold Chill}ジョーカーよ！
+"013"	{emote: Soft Smile}やるじゃない？{pause 32}	1{ruby (charSpan 2): かいめ}回目　{ruby (charSpan 2): せいかい}正解よ！{Wait for input}	{emote: Anger}じゃあ、{pause 16}{ruby (charSpan 1): つづ}続いて　2{ruby (charSpan 2): かいめ}回目いくわよ	これが　ハズれたら、{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうわ{pause 32}	{emote: Curious}どちらにする？　{pause 8}{catchphrase}？{Player can respond (0000):000e-0000-000e-0000}	{ruby (charSpan 1): ひだり}左のカード	{ruby (charSpan 1): みぎ}右のカード
+"014"	{0009-0002-0008-000f-000f-0010-0010}
+"015"	ハイ{pause 8}・{pause 8}・{pause 8}・{pause 8}これね？{Wait for input}	{emote: Anger}それじゃあ、2{ruby (charSpan 2): かいめ}回目は{pause 16}	どちらかしら？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Sunny}ハートの{ruby (charSpan 1): エース}Aよ！
+"016"	ハイ{pause 8}・{pause 8}・{pause 8}・{pause 8}これね？{Wait for input}	{emote: Anger}それじゃあ、2{ruby (charSpan 2): かいめ}回目は{pause 16}	どちらかしら？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Cold Chill}ジョーカーよ！
+"017"	{emote: Sunny}スゴイじゃない？！{pause 32}	2{ruby (charSpan 3): かいれんぞく}回連続で　{ruby (charSpan 2): せいかい}正解よ！{Wait for input}	{emote: Anger}じゃあ、{pause 16}{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): つづ}続き　3{ruby (charSpan 2): かいめ}回目いくわよ	これが　ハズれたら、{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうわ{pause 32}	{emote: Curious}どちらにする？　{pause 8}{catchphrase}？{Player can respond (0000):0012-0000-0012-0000}	{ruby (charSpan 1): ひだり}左のカード	{ruby (charSpan 1): みぎ}右のカード
+"018"	{0009-0002-0008-0013-0014-0014-0014}
+"019"	ハイ{pause 8}・{pause 8}・{pause 8}・{pause 8}これね？{Wait for input}	{emote: Anger}それじゃあ、3{ruby (charSpan 2): かいめ}回目は{pause 16}	どちらかしら？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Sunny}ハートの{ruby (charSpan 1): エース}Aよ！
+"020"	ハイ{pause 8}・{pause 8}・{pause 8}・{pause 8}これね？{Wait for input}	{emote: Anger}それじゃあ、3{ruby (charSpan 2): かいめ}回目は{pause 16}	どちらかしら？　{pause 8}{catchphrase}？	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{ruby (charSpan 1): で}出た！{pause 32}	{emote: Cold Chill}ジョーカーよ！
+"021"	{0009-0001-0006-0017-0018-0019}
+"022"	{0009-0001-0006-001a-001b-001c}
+"023"	{emote: Soft Smile}ちなみに「ハートの{ruby (charSpan 1): エース}A」は、{pause 16}	{ruby (charSpan 2): れんあい}恋愛における{ruby (charSpan 2): きょううん}強運を　{ruby (charSpan 1): あらわ}表してるのよ
+"024"	{emote: Soft Smile}あきらめないで{pause 16}	{ruby (charSpan 1): つぎ}次も　がんばってね、{pause 8}{catchphrase}
+"025"	{emote: Sheepishness}このままじゃ、{pause 8}やめられないわよね？{pause 32}	{emote: Glare}アナタの　チャレンジ{ruby (charSpan 1): ま}待ってるわ
+"026"	ちなみに「ハートの{ruby (charSpan 1): エース}A」は、{pause 16}	{ruby (charSpan 2): れんあい}恋愛における{ruby (charSpan 2): きょううん}強運を　{ruby (charSpan 1): あらわ}表してるの{Wait for input}{emote: Sheepishness}これで　アナタのプライベートにも{pause 16}	{ruby (charSpan 1): しあわ}幸せが　{ruby (charSpan 1): おとず}訪れるといいわね、	{pause 8}{catchphrase}
+"027"	{emote: Soft Smile}プライベートでも{pause 16}	エースになれるといいわね、	{pause 8}{catchphrase}
+"028"	{emote: Sheepishness}ハートの{ruby (charSpan 1): エース}Aは、{pause 16}アナタに	{ruby (charSpan 1): しあわ}幸せを　{ruby (charSpan 1): はこ}運んでくれたかしら？	{pause 8}{catchphrase}？

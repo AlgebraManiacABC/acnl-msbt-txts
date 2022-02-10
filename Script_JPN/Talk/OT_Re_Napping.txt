@@ -1,17 +1,17 @@
 == 0 ==
-"001"	{pause 4}
-"002"	{pause 4}
-"003"	{000a-0001-0004-08-00-09-00}
-"004"	{pause 4}
-"005"	{pause 4}
-"006"	・{pause 4}
-"007"	{pause 4}
-"008"	{emote: Sleepy}
-"009"	{pause 4}
-"010"	
-"011"	{emote: Distress}
-"012"	{emote: Soft Smile}
-"013"	{emote: Soft Smile}
-"014"	{emote: Soft Smile}
-"015"	{emote: Worry}
-"016"	{emote: Worry}
+"001"	{pause 4}・{pause 4}・{pause 4}・{pause 4}スー{pause 30}{pause 4}・{pause 4}・{pause 4}・{pause 4}・{pause 4}・{pause 4}・{pause 4}{emote: Alarmed}えっ？{pause 16}　	{Player nickname (green)}{0005-000d-0000}？{Wait <003c 0000> 'time'}
+"002"	{pause 4}・{pause 4}・{pause 4}・{pause 4}スー{pause 30}{pause 4}・{pause 4}・{pause 4}・{pause 4}・{pause 4}・{pause 4}・{pause 4}{emote: Sneezing}ックション！{pause 32}	{emote: Fearful}{ruby (charSpan 1): さむ}寒い{pause 8}・{pause 8}・{pause 8}・{Wait <003c 0000> 'time'}
+"003"	{000a-0001-0004-0008-0009}
+"004"	{pause 4}・{pause 4}・{pause 4}・{pause 4}スー{pause 30}{pause 4}・{pause 4}・{pause 4}・{pause 4}・{pause 4}・{pause 4}・{pause 4}{emote: Alarmed}えっ？{pause 16}	{Player nickname (green)}{0005-000d-0000}？{Wait <003c 0000> 'time'}
+"005"	{pause 4}・{pause 4}・{pause 4}・{pause 4}スー{pause 30}{pause 4}・{pause 4}・{pause 4}・{pause 4}・{pause 4}・{pause 4}・{pause 4}{emote: Alarmed}ハッ？{Wait for input}	{emote: Worry}アタシ、{pause 16}いつの{ruby (charSpan 1): ま}間にか	{ruby (charSpan 1): ね}寝ちゃったみたいね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"006"	・{pause 4}・{pause 4}・{pause 4}スー{pause 30}{pause 4}・{pause 4}・{pause 4}・{pause 4}スー{pause 30}{pause 4}・{pause 4}・{pause 4}・{pause 4}{emote: Alarmed}フスっ！{pause 32}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Worry}アタシ、{pause 8}{ruby (charSpan 1): やす}休んでて{pause 16}	そのまま　{ruby (charSpan 1): ね}寝ちゃったのね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"007"	{pause 4}・{pause 4}・{pause 4}・{pause 4}スー{pause 30}{pause 4}・{pause 4}・{pause 4}・{pause 4}スー{pause 30}{pause 4}・{pause 4}・{pause 4}・{pause 4}{emote: Alarmed}カハッ！{Wait <003c 0000> 'time'}
+"008"	{emote: Sleepy}{pause 8}・{pause 8}・{pause 8}・{pause 8}{Player nickname (green)}{pause 8}・{pause 8}・{pause 8}・{pause 8}{0005-000d-0000}？{Wait <003c 0000> 'time'}
+"009"	{pause 4}・{pause 4}・{pause 4}・{pause 4}グー{pause 30}{pause 4}・{pause 4}・{pause 4}・{pause 4}グー{pause 30}{pause 4}・{pause 4}・{pause 4}・{pause 4}{emote: Alarmed}グフッ！{Wait <003c 0000> 'time'}
+"010"
+"011"	{emote: Distress}ヤダ、{pause 16}アタシったら　いつの{ruby (charSpan 1): ま}間にか{pause 8}　	うたた{ruby (charSpan 1): ね}寝しちゃったのね！
+"012"	{emote: Soft Smile}ありがとう、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	カゼを　ひかないように{pause 8}	アタシを　{ruby (charSpan 1): お}起こしてくれたのね？
+"013"	{emote: Soft Smile}ありがとう、{pause 8}{ruby (charSpan 1): お}起こしてくれたのね？{pause 32}	{emote: Sheepishness}さっき　{ruby (charSpan 1): お}起きてたんだけど、{pause 16}	{ruby (charSpan 3): にどね}二度寝しちゃってたみたい{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sleepy}ハァ～{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 2): きのう}昨日、{pause 16}	{ruby (charSpan 2): よふ}夜更かししたせいで、{pause 16}{ruby (charSpan 1): ねむ}眠いわ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"014"	{emote: Soft Smile}{ruby (charSpan 2): きも}気持ち{ruby (charSpan 1): よ}良くなって　{ruby (charSpan 1): ね}寝ちゃったの{pause 32}	{emote: Love}{pause 16}ふぁ～{pause 8}・{pause 8}・{pause 8}・{pause 8}スッキリした～！
+"015"	{emote: Worry}ダメじゃない、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 16}	{ruby (charSpan 3): おうじさま}王子様みたいに{pause 8}　{ruby (charSpan 1): お}起こしてくれなくちゃ！	{pause 8}{catchphrase}！
+"016"	{emote: Worry}{ruby (charSpan 1): た}立ったまま　{ruby (charSpan 1): ね}寝るなんて{pause 16}	よっぽど{ruby (charSpan 1): つか}疲れてたのね、{pause 8}アタシ

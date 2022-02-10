@@ -1,62 +1,62 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{0011-0001-0002-00-00}
-"006"	{emote: Sunny}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"010"	{0011-0001-0002-00-00}
-"011"	{emote: Worry}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	このおへやの	{0011-0003-0002-00-00}
-"015"	{0011-0003-0002-00-00}
-"016"	{emote: Thought}
-"017"	{emote: Happiness}
-"018"	{emote: Glee}
-"019"	{emote: Agreement}
-"020"	{emote: Happiness}
-"021"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"022"	{emote: Worry}
-"023"	{emote: Happiness}
-"024"	{emote: Worry}
-"025"	{emote: Agreement}
-"026"	{emote: Happiness}
-"027"	{0011-0001-0002-00-00}
-"028"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"029"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"030"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"031"	{emote: Worry}
-"032"	{emote: Worry}
-"033"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"034"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"035"	{emote: Daydreaming}
-"036"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"037"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"038"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"039"	{emote: Happiness}
-"040"	{emote: Happiness}
-"041"	{emote: Worry}
-"042"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"043"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"044"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"045"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"046"	
-"047"	
-"048"	
-"049"	
-"050"	
-"051"	
-"052"	
-"053"	
-"054"	
-"055"	
-"056"	みんなの　おへやを{ruby (charSpan 1): み}見るのって{pause 8}
-"057"	{Player nickname (green)}
-"058"	{emote: Happiness}
-"059"	{emote: Daydreaming}
-"060"	{emote: Distress}
-"061"	{emote: Sleepy}
+"001"	{emote: Happiness}{0011-0003-0002-0000}も{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}の　おへやにあると	オシャレだなぁ～{Wait for input}{emote: Daydreaming}{ruby (charSpan 1): よる}夜は{pause 8}　すいそうの	{ruby (charSpan 1): あ}明かりだけで　ねむるんだろうねぇ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Joy}うわぁ～っ！{pause 20}	オトナっぽ～い！{pause 8}　{catchphrase}！
+"002"	{emote: Worry}{0011-0001-0002-0000}{0005-000d-0000}が、{pause 20}	{0011-0003-0002-0000}に　こめられた	メッセージを{pause 20}　かんじてくれだってぇ～{Wait for input}{emote: Thought}むむむむむ{pause 8}・{pause 8}・{pause 8}・{pause 40}{Wait for input}{emote: Sigh}ぷはぁ～！{pause 40}	やっぱり　ボクには	ゲイジュツは　むずかしいやぁ！
+"003"	{emote: Happiness}{0011-0001-0002-0000}{0005-000d-0000}が	おしえてくれたんだけど、{Wait for input}しょくぶつに　{ruby (charSpan 1): はな}話しかけると{pause 20}	そのしょくぶつが	{ruby (charSpan 2): げんき}元気になったり　するんだってさぁ～{Wait for input}{emote: Thought}うぅ～～ん、{pause 20}	でも{pause 20}　しょくぶつと	どんな　お{ruby (charSpan 1): はなし}話しようかなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sheepishness}えぇ～～っと{pause 8}・{pause 8}・{pause 8}・{pause 40}	ゲ、{pause 20}ゲンキぃ～？{pause 20}	ねっこのちょうしは　どう～？
+"004"	{emote: Happiness}この　{0011-0003-0002-0001}に{ruby (charSpan 1): あ}合わせて{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}は	ダンスする　らしいよぉ～！{Wait for input}{emote: Glee}ダンスが　できると、{pause 20}	{ruby (charSpan 2): まいにち}毎日が　{ruby (charSpan 1): たの}楽しくなりそうだねぇ	{pause 8}{catchphrase}
+"005"	{0011-0001-0002-0000}{0005-000d-0000}{pause 20}	いつもテレビで	{ruby (charSpan 1): なに}何を　{ruby (charSpan 1): み}見てるんだろうねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Thought}うぅ～ん{pause 20}	あのコのことだから{pause 40}	{emote: Happiness}{ruby (charSpan 2): かいがい}海外のドラマとかかなぁ？
+"006"	{emote: Sunny}さすが　{0011-0001-0002-0000}{0005-000d-0000}！{pause 40}	{0011-0003-0002-0000}の	えんそうが　できるのかなぁ？！{Wait for input}{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Curious}アレ？{pause 20}	ちょっと　ほこりかぶってる？{Wait for input}{emote: Sheepishness}しばらく{pause 8}　ブランクが	あるみたいだねぇ、{pause 8}{catchphrase}
+"007"	{emote: Happiness}{0011-0003-0002-0000}が	あるってことは、{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}　{ruby (charSpan 2): りょうり}料理するのかぁ～{Wait for input}{emote: Glare}{0011-0001-0002-0000}{0005-000d-0000}って{pause 20}	{ruby (charSpan 2): りょうり}料理を　{ruby (charSpan 1): つく}作ってるすがたに	こだわりが　ありそうだよねぇ～{Wait for input}{emote: Flourish}じゃじゃ～～ん{pause 20}	パルメザンチーズを　{ruby (charSpan 1): ひと}一つまみ～！{Wait for input}	{emote: Agreement}ん～～！{pause 60}　{emote: Surprise}いいかおりっ！{Wait for input}{emote: Sigh}はぁ～～{pause 40}	ボクは　{ruby (charSpan 1): はや}早く	{ruby (charSpan 1): た}食べたいんだけどなぁ{pause 8}・{pause 8}・{pause 8}・
+"008"	{emote: Happiness}{0011-0003-0002-0000}！{pause 40}	{0011-0001-0002-0000}{0005-000d-0000}に	ピッタリの　ベッドだねぇ～{Wait for input}{emote: Daydreaming}あの{ruby (charSpan 1): うえ}上で　{0011-0001-0002-0000}{0005-000d-0000}は	どんな　ユメを{ruby (charSpan 1): み}見てるんだろぉ～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Distress}{0007-000b-0000}うわぁ～～！{pause 20}	{ruby (charSpan 1): おんな}女のコと　{ruby (charSpan 1): うみ}海で	おいかけっこしてた、{pause 8}{catchphrase}
+"009"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"010"	{0011-0001-0002-0000}{0005-000d-0000}は{pause 20}	{0011-0003-0002-0000}に	{ruby (charSpan 2): ふたり}二人ですわるのが{pause 8}　ユメなんだってぇ～{Wait for input}{emote: Sheepishness}{ruby (charSpan 3): ひとりよう}一人用のイスに　{ruby (charSpan 2): ふたり}二人ですわるなんて{pause 20}	ギュウギュウで{pause 20}	くるしそうなのにねぇ、{pause 8}{catchphrase}
+"011"	{emote: Worry}{0011-0001-0002-0000}{0005-000d-0000}のおへや、{pause 20}	{ruby (charSpan 1): おお}大きなソファがあって	うらやましいなぁ～{Wait for input}{emote: Agreement}ソファに　すわりながら{pause 20}	おっきなテレビで	えいがを　{ruby (charSpan 1): み}見るっ！{Wait for input}{emote: Happiness}ホームシアターって	{ruby (charSpan 1): い}言うらしいよぉ、{pause 8}{catchphrase}！
+"012"	{emote: Happiness}{0011-0003-0002-0000}は、{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}のおしりのサイズに	ピッタリなんだってさぁ～{Wait for input}{emote: Reset}ボクも　すわってみて？{pause 20}	って{ruby (charSpan 1): い}言われたんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Shyness}そんなこと　{ruby (charSpan 1): い}言われた{ruby (charSpan 1): あと}後にすわるのは、{pause 20}	{ruby (charSpan 1): なん}何だか　キンチョーしちゃうよぉ～	{pause 8}{catchphrase}
+"013"	{emote: Happiness}{0011-0001-0002-0000}{0005-000d-0000}に{pause 20}	どうやって　{0011-0003-0002-0000}を	つかまえたのか　きいたんだぁ～{Wait for input}{emote: Agreement}そしたら、{pause 20}アレはボクの	フェロモンによって{ruby (charSpan 1): き}来た！{pause 20}	って{ruby (charSpan 1): い}言うんだよぉ～{Wait for input}{emote: Distress}ムシが　よってくるなんて、{pause 20}	フェロモンって　スゴイねぇ～！{pause 40}	ボクも{ruby (charSpan 1): だ}出せるように　なりたいなぁ～！
+"014"	このおへやの	{0011-0003-0002-0000}には{pause 20}	{ruby (charSpan 1): なに}何が　{ruby (charSpan 1): はい}入ってるんだろうねぇ～？{Wait for input}{emote: Thought}ふだんは{pause 20}　{ruby (charSpan 1): おんな}女のコのこと	ばっかり{ruby (charSpan 1): はな}話してる	{0011-0001-0002-0000}{0005-000d-0000}だから{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}バラの{ruby (charSpan 1): はな}花とか	わんさか　{ruby (charSpan 1): はい}入ってるかもぉ！
+"015"	{0011-0003-0002-0000}って{pause 20}	{emote: Curious}コーヒーを{ruby (charSpan 1): い}入れるのに	つかうんでしょぉ～？{Wait for input}{emote: Agreement}{0011-0001-0002-0000}{0005-000d-0000}は{pause 20}	コーヒーは　{ruby (charSpan 2): せいかつ}生活に	かかせないものだってさぁ～{Wait for input}{emote: Thought}ボクの{ruby (charSpan 2): せいかつ}生活に	かかせないものは{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sunny}やっぱり　ごはんと　おひるねかなぁ！
+"016"	{emote: Thought}{0011-0003-0002-0000}の	あのうごき{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Curious}ちょっと　{0011-0001-0002-0000}{0005-000d-0000}に	にてるきがしない？{Wait for input}{emote: Worry}{ruby (charSpan 1): なん}何だか　{ruby (charSpan 2): じぶん}自分にじしんがありそうだし{pause 20}	ボク{pause 8}　まけちゃいそうだよぉ、{pause 8}{catchphrase}
+"017"	{emote: Happiness}さすが　{0011-0001-0002-0000}{0005-000d-0000}！{pause 20}	ようふくが　かざってあるよぉ！{Wait for input}{emote: Love}アレは　{0011-0001-0002-0000}{0005-000d-0000}が	デートの{ruby (charSpan 1): ひ}日に　きる	ようふくかなぁ？{Wait for input}{emote: Mistaken}でも　{pause 20}デートしてるところなんて	{ruby (charSpan 1): み}見たことないけどね、{pause 8}{catchphrase}
+"018"	{emote: Glee}{0011-0003-0002-0000}かぁ～{pause 40}	{0011-0001-0002-0000}{0005-000d-0000}らしい	ゲームだよねぇ！{Wait for input}こんど　ルールを	{ruby (charSpan 1): おし}教えてもらうんだぁ、{pause 8}{catchphrase}
+"019"	{emote: Agreement}{0011-0001-0002-0000}{0005-000d-0000}のおへやに{pause 20}	{0011-0003-0002-0000}があるのは	うなずけるねぇ！{Wait for input}{emote: Happiness}いっつも　{ruby (charSpan 2): じぶん}自分のこと	{ruby (charSpan 1): み}見てそう　だもんなぁ、{pause 8}{catchphrase}
+"020"	{emote: Happiness}{0011-0001-0002-0000}{0005-000d-0000}の{ruby (charSpan 1): ほん}本だなは{pause 20}	オシャレなざっしで	いっぱいだよぉ～{Wait for input}でも{pause 20}　まだ{ruby (charSpan 2): いっかい}一回も	ひらいてないように	{ruby (charSpan 1): み}見えるんだよねぇ～{Wait for input}{emote: Resigned}もしかして、{pause 20}	かざってあるだけ～？	{pause 8}{catchphrase}
+"021"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"022"	{emote: Worry}{0011-0001-0002-0000}{0005-000d-0000}は{pause 20}	「てんしの　おとしもの」って	{ruby (charSpan 1): い}言いはってたけど、{Wait for input}{emote: Sheepishness}あれは　どう{ruby (charSpan 1): み}見ても{pause 20}	{0011-0003-0002-0000}	だよねぇ、{pause 8}{catchphrase}
+"023"	{emote: Happiness}{0011-0003-0002-0000}で{pause 20}	お{ruby (charSpan 1): ちゃ}茶を{ruby (charSpan 1): だ}出して　くれるのかなぁ～？{Wait for input}{emote: Glee}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}って	ウェイターさんが　にあいそうだよねぇ～
+"024"	{emote: Worry}{0011-0003-0002-0000}	かりたいけど、{pause 20}	{emote: Disagreement}やっぱり　やめておこ～っと{Wait for input}{emote: Shyness}{ruby (charSpan 1): ひと}人の{ruby (charSpan 1): いえ}家の　おトイレって{pause 20}	おちつかないもんねぇ、{pause 8}{catchphrase}
+"025"	{emote: Agreement}{0011-0001-0002-0000}{0005-000d-0000}は{pause 20}	パソコンつかって{pause 8}	しらべごとをしてるみたい！{Wait for input}わだいに　なりそうなことを{pause 20}	おでかけ{ruby (charSpan 1): まえ}前に	しらべておくんだってさぁ～{Wait for input}{emote: Happiness}{ruby (charSpan 1): はな}花ことばとか{pause 8}　うらないは{pause 20}	{ruby (charSpan 2): まいにち}毎日　チェックしてるらしいよぉ～{Wait for input}{emote: Reset}なんか{pause 8}・{pause 8}・{pause 8}・{pause 20}	スゴク{pause 20}　どりょく{ruby (charSpan 1): か}家だよねぇ	{pause 8}{catchphrase}
+"026"	{emote: Happiness}{0011-0003-0002-0000}が	かざられてる～{Wait for input}{emote: Agreement}{0011-0001-0002-0000}{0005-000d-0000}って{pause 20}	お{ruby (charSpan 1): はな}花のニオイとか	すきそうだもんね、{pause 8}{catchphrase}
+"027"	{0011-0001-0002-0000}{0005-000d-0000}{ruby (charSpan 1): ち}家の	れいぞうこ、{pause 20}	{emote: Curious}{ruby (charSpan 1): なに}何が{ruby (charSpan 1): はい}入ってるんだろ～？{Wait for input}{emote: Reset}チーズが　{ruby (charSpan 1): なん}何しゅるいも　{ruby (charSpan 1): はい}入ってて、{pause 20}	{emote: Glare}{ruby (charSpan 2): きょう}今日はどれにする？{pause 40}	とか　{ruby (charSpan 1): い}言いそうだよねぇ{Wait for input}{emote: Joy}ボク{pause 20}　チーズは	ぜんぶ　{ruby (charSpan 1): だい}大すきだよぉ、{pause 8}{catchphrase}
+"028"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"029"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"030"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"031"	{emote: Worry}{0011-0001-0002-0000}{0005-000d-0000}、{pause 20}さみしいときは{pause 8}	{0011-0003-0002-0000}を	だきしめるんだってぇ～{Wait for input}{emote: Disagreement}そんなの　かわいそうだから、{pause 20}	{emote: Happiness}さみしがりやの　{0011-0001-0002-0000}{0005-000d-0000}と{pause 20}	たくさん　あそんであげようねぇ！
+"032"	{emote: Worry}{0011-0001-0002-0000}{0005-000d-0000}、{pause 20}さみしいときは{pause 8}	{0011-0003-0002-0000}を	だきしめるんだってぇ～{Wait for input}{emote: Disagreement}そんなの　かわいそうだから、{pause 20}	{emote: Happiness}さみしがりやの　{0011-0001-0002-0000}{0005-000d-0000}と	たくさん　あそんであげようねぇ！
+"033"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"034"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"035"	{emote: Daydreaming}{ruby (charSpan 1): とき}時には{pause 20}　こどもに　もどりたくなる{pause 8}・{pause 8}・{pause 8}・{pause 40}	って、{0011-0001-0002-0000}{0005-000d-0000}が	{ruby (charSpan 1): い}言ってたよぉ～{Wait for input}{emote: Agreement}{0011-0003-0002-0000}は、{pause 20}	そんな　きもちのあらわれ	なのかなぁ～？{Wait for input}{emote: Resigned}ボクは　{ruby (charSpan 1): はや}早く	オトナに　なりたいけどねぇ{pause 8}・{pause 8}・{pause 8}・
+"036"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"037"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"038"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"039"	{emote: Happiness}おうちに　プールがあるなんて、{pause 20}	さすが　{0011-0001-0002-0000}{0005-000d-0000}！{Wait for input}{emote: Glee}こんどは　みずぎをもって	あそびにこようかなぁ～！{pause 8}	{catchphrase}
+"040"	{emote: Happiness}{0011-0003-0002-0000}があるなんて、{pause 20}	やっぱり　{0011-0001-0002-0000}{0005-000d-0000}は	キレイずき　なんだなぁ～{Wait for input}おふろに　{ruby (charSpan 3): なんじかん}何時間も	{ruby (charSpan 1): はい}入ってそうだよねぇ、{pause 8}{catchphrase}
+"041"	{emote: Worry}{0011-0003-0002-0000}かりたいけど、{pause 20}	{emote: Disagreement}やっぱり　やめておこ～っと{Wait for input}{emote: Shyness}はずかしいから	ガマンしとくよぉ、{pause 8}{catchphrase}
+"042"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"043"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"044"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"045"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"046"
+"047"
+"048"
+"049"
+"050"
+"051"
+"052"
+"053"
+"054"
+"055"
+"056"	みんなの　おへやを{ruby (charSpan 1): み}見るのって{pause 8}	{ruby (charSpan 1): たの}楽しいよねぇ～！{Wait for input}{emote: Happiness}ボク、{pause 20}もっと　{ruby (charSpan 1): いろ}色んなコの　おへやに	あそびに{ruby (charSpan 1): い}行ってみたいなぁ、{pause 8}{catchphrase}
+"057"	{Player nickname (green)}{0005-000d-0000}って、{pause 20}	{emote: Curious}{0011-0001-0002-0000}{0005-000d-0000}{ruby (charSpan 1): ち}家には	よく{ruby (charSpan 1): く}来るのぉ？{Wait for input}{emote: Glee}ボクは　たまに　あそびに{ruby (charSpan 1): き}来て、{pause 20}	クールで　かっこいいセリフを{pause 8}	{ruby (charSpan 1): おし}教えてもらってるんだぁ、{pause 8}{catchphrase}
+"058"	{emote: Happiness}たまには　みんなで、{pause 20}	おうちの{ruby (charSpan 1): なか}中で　あそぶのも	おもしろいねぇ、{pause 8}{catchphrase}
+"059"	{emote: Daydreaming}{0011-0001-0002-0000}{0005-000d-0000}{ruby (charSpan 1): ち}家、{pause 20}	カッコイイよねぇ～{Wait for input}ボクの　おへやも{pause 20}	こんな{ruby (charSpan 1): ふう}風に　してみようかなぁ、{pause 8}{catchphrase}
+"060"	{emote: Distress}{Player nickname (green)}{0005-000d-0000}、{pause 20}	もし　{0011-0001-0002-0000}{0005-000d-0000}と	だいじな　お{ruby (charSpan 1): はなし}話があるなら　{ruby (charSpan 1): い}言ってね！{Wait for input}ボク　お{ruby (charSpan 1): みみ}耳を　ふさいで、{pause 20}	{ruby (charSpan 1): き}聞こえないように　しておくから～！	{pause 8}{catchphrase}！
+"061"	{emote: Sleepy}ふぁぁ～～{pause 40}	ボクって{pause 8}　どこでも	ねむくなっちゃうんだぁ～{Wait for input}{emote: Soft Smile}{0011-0001-0002-0000}{0005-000d-0000}{ruby (charSpan 1): ち}家は{pause 20}	あんしんできるから、{pause 20}	よけいに　ねむくなっちゃうよぉ、{pause 8}{catchphrase}

@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Curious}
-"003"	{emote: Curious}
-"004"	{emote: Curious}
-"005"	{emote: Happiness}
-"006"	よっし！{pause 20}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Alarmed}
+"001"	{emote: Alarmed}へぇー！{pause 20}	{ruby (charSpan 3): しょうてんがい}商店街に ライブハウスを	{ruby (charSpan 1): た}建てるんだー！{Wait for input}{emote: Happiness}{ruby (charSpan 2): おもしろ}面白そうだな！{pause 20}	オイラも　{ruby (charSpan 1): ちから}力をかすぞ、{pause 8}{catchphrase}
+"002"	{emote: Curious}ライブハウスのしょめい？{pause 40}	{emote: Worry}オマエ　みんなのために	がんばってるんだな{Wait for input}{emote: Sorrow}うぉー！{pause 20}　{ruby (charSpan 2): かんどう}感動したー！{pause 20}	オイラの{ruby (charSpan 2): きも}気持ちを	サインにこめるよ、{pause 8}{catchphrase}
+"003"	{emote: Curious}{ruby (charSpan 3): しょうてんがい}商店街に　ライブハウス？{Wait for input}{emote: Glare}オイラも　ついに	ライブハウス	デビューするときが{ruby (charSpan 1): き}来たか{pause 8}・{pause 8}・{pause 8}・
+"004"	{emote: Curious}ん？{pause 8}	ライブハウスのしょめい？{pause 40}	{emote: Thought}なんか　{ruby (charSpan 1): まえ}前にも{ruby (charSpan 1): き}聞いたような{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}ま、{pause 20}{ruby (charSpan 2): ひつよう}必要って{ruby (charSpan 1): い}言うなら、{pause 8}	もう{ruby (charSpan 2): いっかい}一回　サインしてやるよ、{pause 8}{catchphrase}
+"005"	{emote: Happiness}ほい！{pause 20}　できたぞー！{pause 40}	まだまだ　これからって{ruby (charSpan 1): かん}感じだな！{pause 40}	{emote: Greetings}ファイトだ、{Player nickname (green)}！
+"006"	よっし！{pause 20}	{emote: Sunny}だれよりも　デッカイ{ruby (charSpan 1): じ}字で	{ruby (charSpan 1): か}書いておいたぞ！
+"007"	{emote: Happiness}コレで　いいかー？{pause 40}	{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): あつ}集まるといいな！
+"008"	{emote: Happiness}ほいっ！{pause 20}	{ruby (charSpan 1): いま}今からオープンが	{ruby (charSpan 1): ま}待ち{ruby (charSpan 1): どお}遠しいな、{pause 8}{catchphrase}
+"009"	{emote: Happiness}{ruby (charSpan 1): か}書けたぞ！{pause 40}	ゴールは{ruby (charSpan 1): ちか}近いな、{Player nickname (green)}！{pause 20}	ラストスパート　がんばれよー！
+"010"	{emote: Alarmed}おー！{pause 20}	{ruby (charSpan 1): いま}今のオイラのサインで	{ruby (charSpan 2): かんせい}完成したみたいだな！{Wait for input}{emote: Delight}おめでとう　{Player nickname (green)}！{pause 20}	オイラも　{ruby (charSpan 2): きねん}記念すべき	{ruby (charSpan 2): さいご}最後の{ruby (charSpan 2): ひとり}一人になれて　うれしいよ！

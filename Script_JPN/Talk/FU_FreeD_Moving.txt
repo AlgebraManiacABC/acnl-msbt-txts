@@ -1,14 +1,14 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{0009-0001-0006-04-00-05-00-06-00}
-"004"	{emote: Distress}
-"005"	{emote: Alarmed}
-"006"	{emote: Shyness}
-"007"	{0009-0006-0010-08-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00}
-"008"	{000a-0000-0006-01-09-00-0a-00-ffffffcd}
-"009"	{000a-0000-0006-05-0c-00-0b-00-ffffffcd}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Thought}
-"013"	{emote: Happiness}
+"001"	{emote: Happiness}{ruby (charSpan 1): はや}早く　{ruby (charSpan 2): かたづ}片付けをしてしまわないと{pause 15}	{emote: Distress}あと　{pause 8}{Number (0x6)}{ruby (charSpan 1): にち}日で　{ruby (charSpan 2): ひっこ}引越しなのに{pause 10}	{ruby (charSpan 1): ま}間に{ruby (charSpan 1): あ}合わなくなってしまいます、{pause 15}{catchphrase}{Player can respond (0000):0003-0000-0007-0000}	{ruby (charSpan 1): い}行かないで！	{ruby (charSpan 2): げんき}元気でね～
+"002"	{emote: Happiness}さぁ　{pause 10}もうすぐ{ruby (charSpan 2): ひっこ}引越しです{pause 30}	そろそろ　{ruby (charSpan 2): にづく}荷造りをしないとですね{Wait for input}{emote: Shyness}でも　{pause 10}{ruby (charSpan 2): かたづ}片付けが{ruby (charSpan 1): て}手につかなくって{pause 8}・{pause 8}・{pause 8}・{pause 25}	{emote: Worry}やっぱり　さみしいものですね、{pause 15}{catchphrase}{Player can respond (0000):0003-0000-0007-0000}	{ruby (charSpan 2): ひっこ}引越さないでよ！	{ruby (charSpan 2): げんき}元気{ruby (charSpan 1): だ}出して！
+"003"	{0009-0001-0006-0004-0005-0006}
+"004"	{emote: Distress}あら　{pause 10}そんなこと{ruby (charSpan 1): い}言われたら、{pause 25}	{ruby (charSpan 2): けっしん}決心が　{pause 5}ゆらいでしまいます{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}でも　{pause 10}{Player nickname (green)}さんが	そう{ruby (charSpan 1): い}言ってくださるなんて{pause 10}	とても　うれしいです！	{emote: Glee}わたし　{pause 10}もう{ruby (charSpan 1): すこ}少し　この{ruby (charSpan 1): むら}村で{pause 5}	{ruby (charSpan 1): たの}楽しく{ruby (charSpan 1): す}過ごそうと{ruby (charSpan 1): おも}思います
+"005"	{emote: Alarmed}まぁ{pause 8}・{pause 8}・{pause 8}・{pause 8}！{pause 30}	{Player nickname (green)}さんが{pause 10}　そんな{ruby (charSpan 1): ふう}風に{ruby (charSpan 1): おも}思って	くださってたなんて　{pause 10}{ruby (charSpan 1): き}気づきませんでした	{emote: Worry}わたしも　いざとなると{pause 15}	さみしさが　{ruby (charSpan 1): み}身にしみてきてたので、{Wait for input}ここは　いったん　{ruby (charSpan 1): と}取りやめて{pause 10}	{emote: Happiness}もう{ruby (charSpan 1): すこ}少し{pause 10}　この{ruby (charSpan 1): むら}村で	お{ruby (charSpan 2): せわ}世話になることにします
+"006"	{emote: Shyness}そうですか{pause 20}	わたし　{pause 10}{Player nickname (green)}さんが	{emote: Soft Smile}そう{ruby (charSpan 1): い}言ってくださるのを{pause 10}　{ruby (charSpan 1): ま}待ってたんです！	{emote: Distress}いざ　{ruby (charSpan 2): ひっこ}引越しが　{ruby (charSpan 1): ちか}近づいてくると、{pause 10}	さみしくなってしまって{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Glee}{ruby (charSpan 2): けいかく}計画は　{ruby (charSpan 1): と}取りやめにして{pause 10}	また　この{ruby (charSpan 1): むら}村のみなさんと{pause 10}	{ruby (charSpan 2): なかよ}仲良くしたいと{ruby (charSpan 1): おも}思います！
+"007"	{0009-0006-0010-0008-000d-000d-000d-000d-000d-000d-000d}
+"008"	{000a-0000-0006-0901-0a00-cd00}
+"009"	{000a-0000-0006-0c05-0b00-cd00}
+"010"	{emote: Happiness}はい{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Worry}でも　よく{ruby (charSpan 1): かんが}考えると{pause 10}	まだ　{pause 8}{Player nickname (green)}さんのこと{pause 10}	よく{ruby (charSpan 1): し}知らないんですよね{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Distress}せっかく　{pause 8}こうして　{ruby (charSpan 2): であ}出会ったんですから{pause 15}	もっと　{ruby (charSpan 2): なかよ}仲良くなりたいです、{pause 15}{catchphrase}{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 30}{emote: Inspired}{ruby (charSpan 1): き}決めました！{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): こんかい}今回の{ruby (charSpan 2): ひっこ}引越しは　{pause 5}{ruby (charSpan 2): ちゅうし}中止にして{pause 10}	{emote: Happiness}もっと　{Player nickname (green)}さんのことを{pause 10}	{ruby (charSpan 2): けんきゅう}研究することにします！
+"011"	{emote: Happiness}はい、{pause 20}ありがとうございます{Wait for input}{emote: Worry}でも　{pause 5}こうして{ruby (charSpan 1): はな}話していたら{pause 10}	{ruby (charSpan 1): たの}楽しかったことを{pause 10}	{ruby (charSpan 2): いろいろ}色々　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出しますね{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Distress}やっぱり　もう{ruby (charSpan 1): すこ}少し{pause 10}	この{ruby (charSpan 1): むら}村で　お{ruby (charSpan 2): せわ}世話になることにします	{emote: Happiness}{Player nickname (green)}さんと{pause 10}	もっともっと　{pause 5}{ruby (charSpan 2): なかよ}仲良くなりたいですし！
+"012"	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Distress}そ、{pause 10}そんな～！　{pause 10}{catchphrase}！{Wait for input}{Player nickname (green)}さんなら{pause 10}	{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}止めてくださると	{ruby (charSpan 1): おも}思ったんですけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Worry}わたしの　{pause 10}{ruby (charSpan 3): いっぽうてき}一方的な{pause 5}	{ruby (charSpan 1): おも}思い{ruby (charSpan 1): こ}込みだったのかしら{Wait for input}これは、{pause 10}まだまだ{pause 5}	{ruby (charSpan 2): なかよ}仲良くなる{ruby (charSpan 2): ひつよう}必要が　ありそうですね{Wait for input}{emote: Anger}{ruby (charSpan 2): ひっこ}引越しは　{pause 10}{ruby (charSpan 1): と}取り{ruby (charSpan 1): け}消しです！{Wait for input}	{emote: Soft Smile}これからも　{pause 10}この{ruby (charSpan 1): むら}村でお{ruby (charSpan 2): せわ}世話になるので{pause 15}	よろしく　お{ruby (charSpan 1): ねが}願いしますね！
+"013"	{emote: Happiness}はい、{pause 10}ありがとうございます{pause 30}	{Player nickname (green)}さんも　{pause 5}お{ruby (charSpan 2): げんき}元気で！

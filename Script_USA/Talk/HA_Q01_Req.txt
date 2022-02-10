@@ -1,81 +1,81 @@
 == 0 ==
-"001"	So, {Player nickname (green)}
-"002"		{0000-0002-0002-ffffff96-00}{emote: Distress}
-"003"	{emote: Anger}
-"004"	I don't suppose you've seen {Article(word-dependant)}
-"005"	{emote: Thought}
-"006"	{emote: Anger}
-"007"	{emote: Anger}
-"008"	{emote: Thought}
-"009"	Dragonflies {pause 8}
-"010"	I'm trying my best to catch {Article(word-dependant)}
-"011"	{emote: Curious}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Anger}
-"015"	{emote: Anger}
-"016"	{emote: Laughter}
-"017"	{emote: Anger}
-"018"	{emote: Worry}
-"019"	{emote: Thought}
-"020"	{emote: Glee}
-"021"	{emote: Joy}
-"022"	{emote: Joy}
-"023"	{emote: Glee}
-"024"	{emote: Worry}
-"025"	{emote: Worry}
-"026"	{emote: Sigh}
+"001"	So, {Player nickname (green)}...{pause 40}	{emote: Anger}A little while ago I spotted	{Article(word-dependant)}{0011-0003-0002-0000}.	{emote: Thought}I'd like to get a closer look, but{pause 8}.{pause 8}.{pause 8}.	{emote: Inspired}{0007-000b-0000}That's it!{pause 40} You've got time, right?{Wait for input}{emote: Happiness}Catch {Article(word-dependant)}{0011-0003-0002-0000}{pause 20}	and bring it to me, will ya?{000f-0005-0004-0015-0028}	OK!	No way!
+"002"		{Text size 150%}{emote: Distress}{0007-000b-0000}Darg blargit!!{Text size 100%}{Wait for input}I let another one get away, and I'm	still steamed about it!{pause 20}	{capitalized}{0011-0003-0002-0000}!{Wait for input}{emote: Reset}Hey.{pause 20}{emote: Curious} You're good at catching bugs,	right?{emote: Reset} Whaddya say?{pause 40} Catch me	{Article(word-dependant)}{0011-0003-0002-0000}?{000f-0005-0004-0015-0028}	I'm on it!	No time!
+"003"	{emote: Anger}{capitalized}{Player nickname (green)}!{pause 20} You should take the 	{0011-0003-0002-0000} challenge!{Wait for input}{emote: Happiness}It's a rare bug.{pause 20} If you catch one, I'll	give you a reward!{000f-0005-0004-0015-0028}	Sure! I'll catch it!	Not gonna happen.
+"004"	I don't suppose you've seen {Article(word-dependant)}	{0011-0003-0002-0000} lately{emote: Curious}?{Wait for input}{emote: Anger}That bug is incredibly rare! As a	lover of rare things, I just can't	pass up an opportunity to get one.{Wait for input}{emote: Distress}I'm begging you...{pause 40} Will you catch	{Article(word-dependant)}{0011-0003-0002-0000}{pause 20}	for me?{000f-0005-0004-0015-0028}	OK!	Impossible!
+"005"	{emote: Thought}Think about the way a butterfly	moves{pause 8}.{pause 8}.{pause 8}.{pause 20} It seems like studying one	could really benefit my training.{Wait for input}{emote: Anger}{capitalized}{Player nickname (green)}!{pause 20} It doesn't matter what	kind. Just catch me a {Blue}butterfly{Color Reset}!	{000f-0005-0004-0015-0028}	Sure!	Nope!
+"006"	{emote: Anger}Gah! I have so much to learn from	horned beetles!{pause 8} Like, how do they	get so strong?{Wait for input}{capitalized}{Player nickname (green)}!{pause 20} It doesn't matter what	kind. Just catch me a {Blue}horned beetle{Color Reset}!{000f-0005-0004-0015-0028}	OK!	Impossible!
+"007"	{emote: Anger}Stag beetles are so strong! If I don't	learn their secrets,{pause 20} they'll take over	the world!{Wait for input}{capitalized}{Player nickname (green)}!{pause 20} It doesn't matter what	kind. Just catch me a {Blue}stag beetle{Color Reset}!{000f-0005-0004-0015-0028}	Will do!	No way!
+"008"	{emote: Thought}Cicadas have amazing stamina!{pause 20} They	make their sounds nonstop, and	they don't get tired!{Wait for input}{emote: Happiness}I need to study them and learn the	secret of their endurance!{Wait for input}{capitalized}{Player nickname (green)}!{pause 20} It doesn't matter what	kind. Just catch me a {Blue}cicada{Color Reset}!{000f-0005-0004-0015-0028}	OK!	No, thanks!
+"009"	Dragonflies {pause 8}are nimble little bugs!{Wait for input}	{emote: Thought}They may give us some good tips	for our training{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Anger}{capitalized}{Player nickname (green)}!{pause 20} It doesn't matter what	kind. Just catch me a {Blue}dragonfly{Color Reset}!{000f-0005-0004-0015-0028}	OK!	Impossible!
+"010"	I'm trying my best to catch {Article(word-dependant)}	{0011-0003-0002-0000},{pause 20}{emote: Sadness} but I've	been a total failure at it{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Worry}It's frustrating, {Player nickname (green)}!{pause 40} Can you	catch {Article(word-dependant)}{0011-0003-0002-0000}	for me?{000f-0005-0004-0015-0028}	No problem!	Impossible!
+"011"	{emote: Curious}You good at fishing, {Player nickname (green)}{pause 20}?{Wait for input}{emote: Worry}I'm in a slump lately, {pause 8}{catchphrase}.{Wait for input}{emote: Happiness}Any chance you can step in and	pinch a fish for me?{pause 20} I'm trying to	get {Article(word-dependant)}{0011-0003-0002-0000}.{000f-0005-0004-0015-0028}	Will do!	No way!
+"012"	{emote: Happiness}Hey, {pause 20}have you ever tried to catch a	rare fish?{Wait for input}{emote: Anger}I've been trying forever to catch	{Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}{emote: Pride}Might be a little ambitious, but what	is life without challenges?{Wait for input}{emote: Happiness}If you catch one, bring it to me and	I'll give you a nice reward!{000f-0005-0004-0015-0028}	Consider it done!	Can't do it!
+"013"	{emote: Happiness}Hey, {Player nickname (green)}!{pause 40}	I have a request that will put your	fishing skills to the test!{Wait for input}{emote: Daydreaming}It's been my dream to see {Article(word-dependant)}	{0011-0003-0002-0000} with my	own eyes.{Wait for input}{emote: Anger}It's a tough challenge, I know.{pause 40} But if	you could just go ahead and catch	one for me, that would be great!{000f-0005-0004-0015-0028}	I'll do it!	Impossible!
+"014"	{emote: Anger}I'm absolutely obsessed with river	fish these days!{Wait for input}{emote: Inspired}{0007-000b-0000}That reminds me!{pause 40} If you catch	a {Blue}fish from a river{Color Reset}, {Player nickname (green)}, {pause 20}	bring it to me!{Wait for input}{emote: Glee}I want to add it to my collection!{pause 40}	Sound good?{000f-0005-0004-0015-0028}	Sounds good!	No way!
+"015"	{emote: Anger}I'm absolutely obsessed with ocean	fish these days!{Wait for input}{emote: Inspired}{0007-000b-0000}Hey, {Player nickname (green)}!{pause 40}	If you catch {Blue}something from the	ocean{Color Reset},{pause 20} bring it to me!{Wait for input}{emote: Glee}I'd like to add it to my collection!{pause 40}	Sound good?{000f-0005-0004-0015-0028}	Sounds great!	Sounds bad!
+"016"	{emote: Laughter}Ha ha!{pause 20} Knew I could count on you,	{Player nickname (green)}!{pause 40} I'm looking forward to	seeing your catch!{pause 20}{emote: Happiness}
+"017"	{emote: Anger}Alrighty!{pause 20} Happy hunting!{Wait for input}These things are pretty rare,{pause 20} so I	don't know if the regular approach	will work or not.{Wait for input}{emote: Laughter}But for you {pause 20}it'll be a piece of cake,	right?{pause 20} Ha ha!{pause 20}{emote: Happiness}
+"018"	{emote: Worry}Geez!{pause 40} Well, it's gonna be tough, but	I guess I'll have to get out there and	do it myself, {pause 8}{catchphrase}.
+"019"	{emote: Thought}{capitalized}{Player nickname (green)}! What are you saying?!{pause 8}	Has your catchin' arm gone all	wimpy on you or what?!
+"020"	{emote: Glee}Sweet!{pause 20} I can't wait, {pause 8}{catchphrase}!
+"021"	{emote: Joy}OK!{pause 20} Countin' on you, {Player nickname (green)}!
+"022"	{emote: Joy}Yeah!{pause 20} That's what I'm talkin' 'bout!{pause 8}	I'm countin' on you, {pause 8}{catchphrase}!
+"023"	{emote: Glee}Ha! I knew I'd be able to count on	you, {Player nickname (green)}!{Wait for input}Well then,{pause 20} I'll be waiting for you!
+"024"	{emote: Worry}Oh, man!{pause 20} You mean I'm gonna have	to get out there and catch my own	stuff? {pause 8}{capitalized}{catchphrase}!
+"025"	{emote: Worry}I see{pause 8}.{pause 8}.{pause 8}.{pause 20} Some other time, maybe.
+"026"	{emote: Sigh}What's up with you, {Player nickname (green)}?{pause 40}	Just not feelin' it today?
 == 1 ==
-"001"	Oye, {Player nickname (green)}
-"002"		{0000-0002-0002-ffffff96-00}{emote: Distress}
-"003"	{emote: Anger}
-"004"	¿Tú no habrás visto últimamente	{Article(word-dependant)}
-"005"	{emote: Thought}
-"006"	{emote: Anger}
-"007"	{emote: Anger}
-"008"	{emote: Thought}
-"009"	¡Las libélulas {pause 8}
-"010"	He hecho todo lo posible por pescar	{Article(word-dependant)}
-"011"	{emote: Curious}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Anger}
-"015"	{emote: Anger}
-"016"	{emote: Laughter}
-"017"	{emote: Anger}
-"018"	{emote: Worry}
-"019"	{emote: Thought}
-"020"	{emote: Glee}
-"021"	{emote: Joy}
-"022"	{emote: Joy}
-"023"	{emote: Glee}
-"024"	{emote: Worry}
-"025"	{emote: Worry}
-"026"	{emote: Sigh}
+"001"	Oye, {Player nickname (green)}...{pause 40}{emote: Anger} Hace	tiempo le eché un ojo	a {Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}.{Wait for input}{emote: Thought}Me gustaría echarle un vistazo,	pero{pause 8}.{pause 8}.{pause 8}. {emote: Inspired}{0007-000b-0000}¡Ya está!{pause 40} Tienes tiempo, ¿no?{Wait for input}{emote: Happiness}Agarra {Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}{pause 20}	y tráemel{o/a/}, ¿quieres?{000f-0005-0004-0015-0028}	¡Vale!	¡Ni hablar!
+"002"		{Text size 150%}{emote: Distress}{0007-000b-0000}¡¡¡Maldita seeeeaaaa!!!{Text size 100%}{Wait for input}¡¡¡Se me ha escapado es{e/a/} dichos{o/a/}	{Blue}{0011-0003-0002-0000}{Color Reset}!!!{Wait for input}{emote: Reset}Oye, {pause 20}{emote: Curious}a ti se te da bien cazar	bichos, ¿no?{emote: Reset} ¿No podrías cazarme	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}?{000f-0005-0004-0015-0028}	¡Me pongo a ello!	¡No tengo tiempo!
+"003"	{emote: Anger}¡{capitalized}{Player nickname (green)}!{pause 20} ¡Tienes que aceptar	el desafío de atraparme	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}!	{emote: Happiness}Es un bicho muy raro.{pause 20} Si me	consigues uno, ¡te recompensaré,	por valiente!{000f-0005-0004-0015-0028}	¡Claro! ¡Lo encontraré!	No me interesa
+"004"	¿Tú no habrás visto últimamente	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}	por casualidad{pause 20}{emote: Curious}?{Wait for input}{emote: Anger}¡Ese bicho es increíblemente raro!	Como amante de las cosas raras,	no puedo dejar escapar la ocasión.	{emote: Distress}Te lo pido de rodillas...{pause 40} ¿Me cazas	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}{pause 20}?{000f-0005-0004-0015-0028}	¡Vale!	¡Imposible!
+"005"	{emote: Thought}Piensa en la forma en que se mueve	una mariposa{pause 8}.{pause 8}.{pause 8}.{pause 20} Si la estudio bien,	¡podré mejorar mi entrenamiento!	{emote: Anger}¡{capitalized}{Player nickname (green)}!{pause 20} ¡No importa	cuál sea, pero tú atrápame	una {Blue}mariposa{Color Reset}!{000f-0005-0004-0015-0028}	¡Claro!	¡Ni hablar!
+"006"	{emote: Anger}¡Um! Tengo tanto que aprender	sobre los escarabajos astados...{pause 8}	¿Cómo consiguen ser tan fuertes?	¡Hazme un favor, {Player nickname (green)}!{pause 20}	Me da igual cuál sea, ¡pero	tú tráeme un {Blue}escarabajo astado{Color Reset}!{000f-0005-0004-0015-0028}	¡Vale!	¡Imposible!
+"007"	{emote: Anger}El escarabajo ciervo es tan fuerte...	Si no descubro sus secretos,{pause 20}	¡acabará dominando el mundo!	¡{capitalized}{Player nickname (green)}!{pause 20} No importa cuál me	traigas, ¡pero necesito que me	atrapes un {Blue}escarabajo ciervo{Color Reset}!{000f-0005-0004-0015-0028}	¡Lo haré!	¡Ni hablar!
+"008"	{emote: Thought}¡Las cigarras tienen mucha	resistencia!{pause 20} ¡Están ahí haciendo	ruido sin parar, sin cansarse nunca!	{emote: Happiness}¡Tengo que estudiarlas para	descubrir el secreto de su	resistencia sobrenatural!	¡{capitalized}{Player nickname (green)}!{pause 20} Me da igual	de qué tipo sea... ¡Tú	atrápame una {Blue}cigarra{Color Reset}!{000f-0005-0004-0015-0028}	¡Vale!	¡No, gracias!
+"009"	¡Las libélulas {pause 8}son unos bichos muy	fuertes!{Wait for input} {emote: Thought}Seguro que puedo aprender	mucho de ellas{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Anger}¡{capitalized}{Player nickname (green)}!{pause 20} Me da igual cuál sea	y de dónde la saques, ¡pero tienes	que traerme una {Blue}libélula{Color Reset}!{000f-0005-0004-0015-0028}	¡Vale!	¡Imposible!
+"010"	He hecho todo lo posible por pescar	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset},{pause 20}{emote: Sadness} pero	he fracasado estrepitosamente{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Worry}¡Estoy amargado, {Player nickname (green)}!{pause 40}	¿No podrías pescarme tú	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}?{000f-0005-0004-0015-0028}	¡Sin problema!	¡Imposible!
+"011"	{emote: Curious}¿Se te da bien pescar, {Player nickname (green)}{pause 20}?{Wait for input}{emote: Worry}Yo estoy en dique seco,	por así decirlo, y no consigo	pescar absolutamente nada.	{emote: Happiness}¿No podrías a lo mejor pescar	algo para mí?{pause 20} Intento conseguir	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}.{000f-0005-0004-0015-0028}	¡Yo me encargo!	¡Ni hablar!
+"012"	{emote: Happiness}Oye, {pause 20}¿alguna vez has intentado	pescar algo tirando a raro?{Wait for input}{emote: Anger}¡Llevo la tira intentando hacerme	con {Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}!{Wait for input}{emote: Pride}Quizá sea una pieza muy ambiciosa,	pero... ¿qué es la vida sin desafíos?{Wait for input}{emote: Happiness}Si me consigues un{o/a/}, tráemel{o/a/}	y te daré una buena recompensa.{000f-0005-0004-0015-0028}	¡Eso está hecho!	¡No puedo hacerlo!
+"013"	{emote: Happiness}¡Oye, {Player nickname (green)}!{pause 40}	¡Tengo una petición que pondrá	a prueba tus habilidades!{Wait for input}{emote: Daydreaming}¡Siempre he soñado con ver	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}	con mis propios ojos!{Wait for input}{emote: Anger}Sí, ya sé que es un reto muy duro.{pause 40}	Pero si realmente me consiguieras	un{o/a/} de es{o/a/}s, ¡sería la caña!{000f-0005-0004-0015-0028}	¡Lo conseguiré!	¡Imposible!
+"014"	{emote: Anger}¡Estoy absolutamente obsesionado	con la pesca últimamente! ¡Es	como una lucha de voluntades!	{emote: Inspired}{0007-000b-0000}Ahora que lo pienso,{pause 40} si pescas	{Blue}un pez del río{Color Reset}, {Player nickname (green)},{pause 20}	¡tienes que traérmelo!	{emote: Glee}¡Quiero añadirlo a mi colección!{pause 40}	¿Qué me dices? ¿Te parece bien?{000f-0005-0004-0015-0028}	¡Me parece bien!	¡Ni hablar!
+"015"	{emote: Anger}Estos días estoy obsesionadísimo	con pescar cosas en el mar. ¡Ahí	estoy, dándole caña a la caña!	{emote: Inspired}{0007-000b-0000}¡Oye, {Player nickname (green)}!{pause 40} Si pescas algo	guapo {Blue}en el mar{Color Reset},{pause 20} ¡tienes que	traérmelo!{Wait for input}{emote: Glee}¡Me gustaría añadir otra pieza	a mi colección!{pause 40} ¿Qué me dices?	¿Te parece bien?{000f-0005-0004-0015-0028}	¡Me parece bien!	¡Me parece mal!
+"016"	{emote: Laughter}¡Ja, ja!{pause 20} ¡Sabía que podía contar	contigo, {Player nickname (green)}!{pause 40} ¡Ya tengo	ganas de ver lo que me traes!{pause 20}{emote: Happiness}
+"017"	{emote: Anger}¡Pues venga, a demostrar quién	manda y a darlo todo!{pause 20}	¡Buena suerte!	Estas cosas son muy raras,{pause 20} así que	no sé si te bastará con ir como	si fueras en plan normal.	{emote: Laughter}Pero bueno, para ti {pause 20}estará	chupado, ¿no?{pause 20} ¡Ja, ja!{pause 20}{emote: Happiness}
+"018"	{emote: Worry}¡Bueno!{pause 40} Será duro, pero supongo	que tendré que ir yo a ver si me	las apaño, {pause 8}{catchphrase}.
+"019"	{emote: Thought}¡{capitalized}{Player nickname (green)}! ¡¿Qué dices?!{pause 8} ¿Se te	ha dormido el brazo de las capturas	o qué? ¡¿Dónde tienes la energía?!
+"020"	{emote: Glee}¡Genial!{pause 20} ¡Estaré esperando	con muchas ganas de ver	qué traes, {pause 8}{catchphrase}!
+"021"	{emote: Joy}¡Muy bien!{pause 20} ¡Cuento contigo,	{Player nickname (green)}!
+"022"	{emote: Joy}¡Sí!{pause 20} ¡Así me gusta, campe{ón/ona}!{pause 8}	¡Cuento contigo, {pause 8}{catchphrase}!
+"023"	{emote: Glee}¡Ja! ¡Ya sabía yo que podía contar	contigo, {Player nickname (green)}!{Wait for input}Pues nada,{pause 20} ¡estaré esperándote!
+"024"	{emote: Worry}¡Pero bueno, tí{o/a}!{pause 20} ¿O sea que voy	a tener que ir y hacerlo yo mismo?	¡Ay, {pause 8}{catchphrase}!
+"025"	{emote: Worry}Ya veo{pause 8}.{pause 8}.{pause 8}.{pause 20} Bueno, a lo mejor estás	más libre en otra ocasión.
+"026"	{emote: Sigh}¿Qué te pasa, {Player nickname (green)}?{pause 40}	¿Hoy no tienes energía?
 == 2 ==
-"001"	Yo, {Player nickname (green)}
-"002"		{0000-0002-0002-ffffff96-00}{emote: Distress}
-"003"	{emote: Anger}
-"004"	{emote: Curious}
-"005"	{emote: Thought}
-"006"	{emote: Anger}
-"007"	{emote: Anger}
-"008"	{emote: Thought}
-"009"	La dextérité des libellules ne cesse	de me surprendre.{0000-0004-0000}
-"010"	J'ai fait de mon mieux pour attraper	{Article(word-dependant)}
-"011"	{emote: Curious}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Anger}
-"015"	{emote: Anger}
-"016"	{emote: Laughter}
-"017"	{emote: Anger}
-"018"	{emote: Worry}
-"019"	{emote: Thought}
-"020"	{emote: Glee}
-"021"	{emote: Joy}
-"022"	{emote: Joy}
-"023"	{emote: Glee}
-"024"	{emote: Worry}
-"025"	{emote: Worry}
-"026"	{emote: Sigh}
+"001"	Yo, {Player nickname (green)}!{pause 20} {emote: Anger}L'autre jour, en	plein jogging, j'ai subi l'assaut	d'{Article(word-dependant)}{0011-0003-0002-0000}...	{emote: Thought}Plutôt balèze, le bestiau! J'aurais	bien aimé l'observer en détail,	mais{pause 8}.{pause 8}.{pause 8}. je l'ai {écrasé/écrasée/}.	{emote: Distress}C'était parfaitement accidentel,{pause 15}	évidemment...{pause 10}{emote: Reset}{Wait for input}{emote: Inspired}{0007-000b-0000}Mais dis-moi...{pause 20} Tu as du temps libre,	pas vrai?{Wait for input}{emote: Happiness}Tu pourrais aller me chercher {Article(word-dependant)}	{0011-0003-0002-0000}?{pause 20} Promis,	j'en prendrai soin cette fois. Alors?{000f-0005-0004-0015-0028}	OK!	J'ai pas confiance...
+"002"		{Text size 150%}{emote: Distress}{0007-000b-0000}C'est pas vrai!!{Wait for input}{Text size 100%}Encore {un/une/} qui se fait la malle!{pause 20}	{Fichu/Fichue/} {0011-0003-0002-0000}...{Wait for input}{emote: Reset}Yo.{pause 20} {emote: Curious}T'es {un/une} pro de la chasse aux	insectes, non?{pause 20} {emote: Distress}Attrape-moi {Article(word-dependant)}	{0011-0003-0002-0000}! Allez!{000f-0005-0004-0015-0028}	Euh, pourquoi pas.	On dit « s'il te plaît ».
+"003"	{emote: Anger}{capitalized}{Player nickname (green)}!{pause 20} Je te défie à 	la chasse aux insectes!{Wait for input}La cible{pause 8}.{pause 8}.{pause 8}.{pause 8}?	{pause 30}{capitalized}{000e-0001-0000}{0011-0003-0002-0000}!{Wait for input}{emote: Happiness}C'est pas courant comme bestiole.{pause 20}	À mon avis, t'es pas près d'en	choper {un/une/}!	Par contre, si jamais tu y parvenais,	tu recevrais une belle récompense!{pause 20}	Alors, tu joues?{000f-0005-0004-0015-0028}	Toujours {partant/partante}!	Pas marrant, ton jeu...
+"004"	{emote: Curious}J'imagine que tu ne sais pas où je	pourrais trouver {Article(word-dependant)}	{0011-0003-0002-0000}?	{emote: Anger}Cet insecte se fait vraiment rare! Il	est peut-être en voie d'extinction?!{Wait for input}{emote: Worry}Si personne ne fait rien pour lui	sauver la mise, on risque de ne plus	jamais avoir la chance d'en voir!	{emote: Distress}Fais-moi une faveur et attrape-moi	{Article(word-dependant)}{0011-0003-0002-0000}, OK?	Au nom de la survie de l'espèce!{000f-0005-0004-0015-0028}	OK!	Pas mon problème...
+"005"	{emote: Thought}La manière de se mouvoir des	papillons m'intrigue{pause 8}.{pause 8}.{pause 8}.{pause 20} J'aimerais	vraiment étudier ça de plus près!	{emote: Anger}{capitalized}{Player nickname (green)}!{pause 20} Va me chercher un	{Blue}papillon{Color Reset}! N'importe quel spécimen	fera l'affaire!{000f-0005-0004-0015-0028}	Si tu veux.	Spécimen toi-même!
+"006"	{emote: Anger}Ces scarabées à corne ont une force	colossale!{pause 15} Je dois absolument	percer le secret de leur puissance!	{capitalized}{Player nickname (green)}!{pause 20} Il me faut un {Blue}scarabée	à corne{Color Reset}! Va m'en chercher un!	N'importe lequel!{000f-0005-0004-0015-0028}	OK, t'énerve pas!	Vas-y toi-même!
+"007"	{emote: Anger}Si tu veux mon avis, les lucanes sont	bien trop costauds pour être	honnêtes.	{emote: Distress}Si on ne découvre pas le secret de	leur force au plus vite, ils pourraient	finir par dominer le monde!	{emote: Reset}{capitalized}{Player nickname (green)}!{pause 20} Tu peux me ramener	un {Blue}lucane{Color Reset}, steup? N'importe lequel!	Le monde t'en sera reconnaissant!{000f-0005-0004-0015-0028}	OK! Sus aux lucanes!	Tu as besoin de repos.
+"008"	{emote: Thought}L'endurance des cigales est juste	phénoménale...{Wait for input}{emote: Anger}Et vas-y que je chante toute la nuit	sans jamais m'arrêter!{Wait for input}{emote: Happiness}Peut-être qu'en étudier une me	permettrait d'apprendre un truc ou	deux, va savoir...	{capitalized}{Player nickname (green)}!{pause 20} Tu pourrais aller me	chercher une {Blue}cigale{Color Reset}? La première	que tu trouves conviendra!{000f-0005-0004-0015-0028}	C'est parti!	Une autre fois...
+"009"	La dextérité des libellules ne cesse	de me surprendre.{Wait for input}{emote: Thought}Les observer avec attention me	mettrait peut-être sur la voie de	l'entraînement parfait{pause 8}.{pause 8}.{pause 8}.{pause 8}!	{emote: Anger}{capitalized}{Player nickname (green)}!{pause 20} Ça t'embêterait	d'aller me chercher une {Blue}libellule{Color Reset}?	Peu importe laquelle...{000f-0005-0004-0028-0015}	Non, pas de souci!	Ça m'embêterait, oui.
+"010"	J'ai fait de mon mieux pour attraper	{Article(word-dependant)}{0011-0003-0002-0000},{pause 20} {emote: Sadness}mais	j'ai échoué. Lamentablement{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Worry}Pfff,{pause 15} c'est d'un frustrant...{pause 10}{emote: Reset}{Wait for input}{capitalized}{Player nickname (green)},{pause 15} tu pourrais attraper	{Article(word-dependant)}{0011-0003-0002-0000} pour	moi?{000f-0005-0004-0015-0028}	Oui!	Non!
+"011"	{emote: Curious}La pêche, ça te connaît,	{Player nickname (green)}?{Wait for input}{emote: Worry}En ce moment, je suis loin d'être au	top de ma forme,{pause 15} {catchphrase}.{Wait for input}{emote: Happiness}Du coup, tu pourrais attraper un	poisson pour moi?{pause 20} J'ai besoin	d'{Article(word-dependant)}{0011-0003-0002-0000}...{000f-0005-0004-0015-0028}	OK!	Pas question!
+"012"	{emote: Happiness}Yo!{pause 20} Quand tu vas pêcher, tu te	fixes des objectifs?{pause 20} Attraper un	poisson rare, par exemple...?	{emote: Anger}Voilà des lustres que je me bats	pour mettre la main sur {Article(word-dependant)}	{0011-0003-0002-0000}!	{emote: Pride}Je vise haut, c'est sûr, mais que	serait la vie sans un minimum de	challenge?	{emote: Happiness}En tout cas, si par chance tu venais	à en choper {un/une/}, amène-{le/la/}-moi. Je	saurai te récompenser grassement!{000f-0005-0004-0015-0028}	Compte sur moi!	Garde tes trucs gras!
+"013"	{emote: Happiness}Yo, {Player nickname (green)}!{pause 20}	Si on mettait tes talents de	{pêcheur/pêcheuse} à l'épreuve?	{emote: Daydreaming}J'ai toujours rêvé de voir {Article(word-dependant)}	{0011-0003-0002-0000} de mes	propres yeux...	{emote: Anger}Je sais que c'est un défi de taille,{pause 40}	mais tu crois que tu pourrais aller	m'en attraper {un/une/}?{000f-0005-0004-0015-0028}	Je relève le défi!	Pas envie, là...
+"014"	{emote: Anger}Ces jours-ci, pas moyen de penser à	autre chose qu'aux {Blue}poissons d'eau	douce{Color Reset}... Une véritable obsession!	{emote: Inspired}{0007-000b-0000}D'ailleurs!{pause 20} Si jamais tu attrapes	quelque chose provenant de la	rivière, tu veux bien me l'amener?	Peu importe ce que tu remonteras,	{Player nickname (green)}, ça m'ira! {emote: Glee}{pause 15}C'est pour ma	collection.{pause 15}{emote: Reset} Alors, ça marche?{000f-0005-0004-0015-0028}	Ça marche!	Ça ne marche pas!
+"015"	{emote: Anger}Ces jours-ci, pas moyen de penser à	autre chose qu'aux {Blue}poissons d'eau	de mer{Color Reset}... Une véritable obsession!	{emote: Inspired}{0007-000b-0000}D'ailleurs!{pause 20} Si tu attrapes quelque	chose provenant de l'océan avec ta	canne à pêche, tu me l'amènes?	Peu importe ce que tu remonteras,	{Player nickname (green)}, ça m'ira! {emote: Glee}{pause 15}C'est pour ma	collection.{pause 15}{emote: Reset} Alors, ça marche?{000f-0005-0004-0015-0028}	Ça marche!	Ça ne marche pas!
+"016"	{emote: Laughter}Ha ha!{pause 20} Je savais que tu ne me	laisserais pas tomber, {Player nickname (green)}!{pause 15}	Bonne chance à toi!{pause 10}{emote: Happiness}
+"017"	{emote: Anger}Bien dit!{pause 20} Je compte sur toi!{Wait for input}Cette bestiole n'est pas évidente à	dénicher,{pause 20} ce ne sera pas du gâteau!{emote: Reset}{Wait for input}{emote: Laughter}Mais comme on dit :{pause 15} à cœur vaillant	rien d'impossible!{pause 20} Hé hé!{pause 10}{emote: Happiness}
+"018"	{emote: Worry}Roooh...{pause 20} C'est trop dur pour toi,	c'est ça?{pause 8} {capitalized}{catchphrase}...
+"019"	{emote: Thought}Ben alors?{pause 15} T'as perdu le coup de	main, {Player nickname (green)}?
+"020"	{emote: Glee}Super!{pause 20} Je m'en réjouis d'avance,{pause 15}	{catchphrase}!
+"021"	{emote: Joy}Parfait!{pause 15} Me laisse pas tomber,	{Player nickname (green)}!
+"022"	{emote: Joy}Bonne réponse!{pause 20} Je savais que tu	n'étais pas du genre à refuser un	défi,{pause 15} {catchphrase}!
+"023"	{emote: Glee}Ha ha! Y'a pas plus serviable que	toi, {Player nickname (green)}!{pause 20} Bon courage!
+"024"	{emote: Worry}Argh!{pause 20} On peut plus compter sur	personne, de nos jours...{pause 15}	{capitalized}{catchphrase}.
+"025"	{emote: Worry}Bon{pause 8}.{pause 8}.{pause 8}.{pause 20} Peut-être une prochaine fois,	alors...
+"026"	{emote: Sigh}Bah alors, {Player nickname (green)}?{pause 20} C'est pas	ton jour, ou bien?

@@ -1,14 +1,14 @@
 == 0 ==
-"001"	
-"002"	{emote: Glee}
-"003"	
-"004"	참참～{0007-0009-0004-14-00-00-00}
-"005"		{0007-000a-0000}
-"006"	{emote: Surprise}
-"007"	{emote: Sheepishness}
-"008"	{emote: Alarmed}
-"009"	{emote: Sheepishness}
-"010"	{emote: Soft Smile}
-"011"	{emote: Sheepishness}
-"012"	{emote: Soft Smile}
-"013"	{emote: Sheepishness}
+"001"
+"002"	{emote: Glee}그럼 {pause 8}시작한다～!		{Wait <005a 0000> 'time'}	{emote: Alarmed}아차, {pause 16}그 전에	규칙을 설명해야지! {pause 8}{catchphrase}!{Wait for input}{emote: Reset}내가 「참참～」이라고 하면{pause 16}	을 눌러서{pause 16} 방향을 정해줘{Wait for input}{emote: Soft Smile}그래서 {pause 8}그대가 나랑{pause 16}	같은 방향을 보면{pause 16}	그대의 승리야, {pause 8}{catchphrase}!	{emote: Anger}찬스는 3번!{pause 32}	위냐 {pause 8}아래냐 {pause 8}오른쪽이냐 {pause 8}왼쪽이냐{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}내 마음을 {pause 16}읽을 수 있겠어?	{emote: Glee}그럼 진짜 {pause 8}시작한다～!
+"003"
+"004"	참참～{Wait <0014 0000> 'time'}
+"005"		{0007-000a-0000}{Text size 200%}참!{Text size 100%}
+"006"	{emote: Surprise}앗! {pause 32}{emote: Sheepishness}우리 지금{pause 16}	같은 방향을 보고 있네{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"007"	{emote: Sheepishness}후후훗{pause 8}・{pause 8}・{pause 8}・{pause 8} 다른 방향이네?{pause 32}	포기하긴 아직 일러!{pause 32}	{emote: Glee}한 번 더!
+"008"	{emote: Alarmed}이런{pause 4}・{pause 4}・{pause 4}・{pause 4} 이번에도 다른 방향이네?{pause 32}	{emote: Anger}다음이 마지막 찬스야!{pause 32}	{emote: Glee}그럼 {pause 8}간다～!
+"009"	{emote: Sheepishness}마지막 찬스도{pause 16}	놓쳐 버렸구나{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"010"	{emote: Soft Smile}그대 승리야!{pause 32}	잘하네, {pause 8}{catchphrase}!
+"011"	{emote: Sheepishness}내가 졌어!{pause 32}	잘하는구나 그대{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"012"	{emote: Soft Smile}아쉽겠지만 {pause 15}그대가 졌어!	{pause 8}{catchphrase}!
+"013"	{emote: Sheepishness}승리의 여신은{pause 16}	나를 향해 웃어주는군,	{pause 8}{catchphrase}	{emote: Soft Smile}그치만 {pause 8}다음엔 어떻게 될지 모르잖아?{pause 32}	승부란 그런 거야

@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Glee}
-"002"	{emote: Happiness}
-"003"	{emote: Worry}
-"004"	{emote: Happiness}
-"005"	{emote: Thought}
-"006"	{emote: Soft Smile}
-"007"	{0009-0001-0006-09-00-0a-00-0b-00}
-"008"	{emote: Distress}
-"009"	{emote: Glee}
-"010"	{emote: Glee}
-"011"	{emote: Agreement}
+"001"	{emote: Glee}{Player nickname (green)}{0005-000d-0000}{Wait for input}{emote: Happiness}アタイ、{pause 10}もっと　{ruby (charSpan 2): じぶん}自分らしい　あいさつ	さがしてるんだけど{pause 10}	{ruby (charSpan 1): なん}何か　イイのないかな？{Player can respond (0005):0004-0015-0005-0028}	あるよー	{ruby (charSpan 1): おも}思いつかない
+"002"	{emote: Happiness}ねぇ　{pause 15}{Player nickname (green)}{0005-000d-0000}{pause 20}	{emote: Glee}そろそろ　{pause 8}ニュー・{Villager's name (orange)}に	なるために、	{ruby (charSpan 1): あたら}新しいあいさつが　ほしいなって{pause 8}	{ruby (charSpan 1): おも}思ってるんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Curious}{ruby (charSpan 1): なん}何か　いいアイデアない？{Player can respond (0005):0004-0015-0005-0028}	うん、あるよ！	わからないな
+"003"	{emote: Worry}アタイのあいさつって、{pause 10}{ruby (charSpan 2): しょうじき}正直どう？{Wait for input}	{emote: Glee}もっと　ハッピーなカンジにしたいの！{pause 25}	どんなのが　いいかな～？{Player can respond (0005):0004-0000-0005-0000}	{ruby (charSpan 1): かんが}考えてあげる！	{ruby (charSpan 1): いま}今のままでイイ！
+"004"	{emote: Happiness}ホント？！　{pause 20}{ruby (charSpan 1): おし}教えてほしいな～！
+"005"	{emote: Thought}そうなんだ～{Wait for input}	{emote: Sheepishness}それなら　{ruby (charSpan 1): いま}今のままでいっか！{pause 20}	{emote: Happiness}ありがとね～
+"006"	{emote: Soft Smile}「{Greeting begin}{Greeting end}」{pause 8}・{pause 8}・{pause 8}・{pause 8}	ってカンジ？{confirmation-02}{Player can respond (0005):0007-0015-0008-0028}	イイね！	ちがうよ～
+"007"	{0009-0001-0006-0009-000a-000b}
+"008"	{emote: Distress}あ、{pause 20}ゴメンゴメン{pause 20}	{emote: Soft Smile}もう{ruby (charSpan 2): いちど}一度　お{ruby (charSpan 1): ねが}願い！
+"009"	{emote: Glee}ありがと～！{pause 20}	なんか　{ruby (charSpan 1): たの}楽しくなってきた～！{Wait for input}	{emote: Sunny}{ruby (charSpan 1): つか}使わせてもらうね、{pause 10}{catchphrase}
+"010"	{emote: Glee}へぇ！{pause 20}	なんか　{ruby (charSpan 1): う}生まれ{ruby (charSpan 1): か}変わった{ruby (charSpan 2): きぶん}気分だよ！{pause 30}	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、{pause 10}{ruby (charSpan 2): さいのう}才能あるね～
+"011"	{emote: Agreement}うんうん、{pause 20}	{emote: Happiness}アタイの{ruby (charSpan 1): よ}良さが{ruby (charSpan 1): で}出てる　あいさつだね！{pause 30}	ありがと、{pause 10}{catchphrase}！

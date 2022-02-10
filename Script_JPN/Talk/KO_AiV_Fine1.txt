@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{Greeting begin}
-"003"	{emote: Happiness}
-"004"	{emote: Alarmed}
-"005"	{Greeting begin}
-"006"	おっ、{pause 20}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	おう、{pause 20}
-"010"	{0009-0000-0004-0b-00-0c-00}
-"011"	{emote: Reset}
-"012"	エンリョせず{pause 8}ơ
+"001"	{emote: Alarmed}おっ、{pause 20}{Town name (pink)}{ruby (charSpan 1): むら}村の	{Player name}じゃねぇか！{pause 30}	{emote: Happiness}よく{ruby (charSpan 1): き}来たな！{pause 20}　{catchphrase}！
+"002"	{Greeting begin}よぉ、{pause 8}{Player name}{Greeting end}！{pause 30}	{Town name (pink)}{ruby (charSpan 1): むら}村まで{pause 8}	はるばる　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たのかい？{pause 20}　{catchphrase}？
+"003"	{emote: Happiness}よっ！{pause 20}　どうした、{Player name}！{Wait for input}{emote: Glare}{Town name (pink)}{ruby (charSpan 1): むら}村の	{0005-001a-0002-cd00}でも{pause 15}	{ruby (charSpan 1): く}食いたくなったか？{pause 20}　{catchphrase}？
+"004"	{emote: Alarmed}おお、{pause 15}{Player name}じゃねぇか！{pause 30}	{emote: Happiness}こっちに　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくれたのか、{pause 20}	{catchphrase}！
+"005"	{Greeting begin}よぉ、{pause 8}{Player name}{Greeting end}！{pause 30}	オメェ、いつ{ruby (charSpan 1): き}来たんだ？{pause 20}　{catchphrase}？
+"006"	おっ、{pause 20}{Player name}か！{pause 20}	{catchphrase}！{Wait for input}{emote: Happiness}{Town name (pink)}{ruby (charSpan 1): むら}村のこと	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ったんなら{pause 20}	もう{ruby (charSpan 1): す}住んじまえよ、{pause 20}{emote: Laughter}がーっはっは！{pause 40}{emote: Soft Smile}
+"007"	{emote: Alarmed}おお、{pause 8}{Player name}！{pause 30}	{emote: Reset}オメェ、{ruby (charSpan 1): き}来てたのか！{Wait for input}{emote: Happiness}こんな{ruby (charSpan 2): じかん}時間に	{ruby (charSpan 1): おどろ}驚かすんじゃねぇぜ、{pause 20}{catchphrase}
+"008"	{emote: Alarmed}{Player name}じゃねぇか！{Wait for input}	{emote: Anger}こんな{ruby (charSpan 2): よなか}夜中に{pause 20}　よその{ruby (charSpan 1): むら}村で	{ruby (charSpan 1): なに}何やってんだよ？{pause 20}　{catchphrase}？{Wait for input}{emote: Reset}ま、{pause 15}オメェらしいけどよ、{pause 20}{emote: Laughter}がーっはっは！{pause 40}{emote: Soft Smile}
+"009"	おう、{pause 20}{Player name}じゃねぇか！{Wait for input}	{emote: Happiness}よく{ruby (charSpan 1): き}来たな、{pause 20}{catchphrase}！
+"010"	{0009-0000-0004-000b-000c}
+"011"	{emote: Reset}それにしても、{pause 20}	オメェは　{ruby (charSpan 3): かつどうてき}活動的だな{Wait for input}	{emote: Happiness}それだけは　{ruby (charSpan 2): かんしん}感心するぜ！
+"012"	エンリョせず{pause 8}　{ruby (charSpan 1): す}好きなだけ	{ruby (charSpan 1): たの}楽しんでってくれ！{Wait for input}・{pause 8}・{pause 8}・{pause 8}{emote: Reset}ま、{pause 8}オメェは	エンリョなんてしねぇか、{pause 20}{emote: Laughter}がーっはっは！{pause 40}{emote: Soft Smile}

@@ -1,54 +1,54 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Happiness}
-"004"	ところで、{pause 20}
-"005"	そっかー{pause 20}
-"006"	{emote: Alarmed}
-"007"	{emote: Alarmed}
-"008"	その{ruby (charSpan 1): ば}場で　{ruby (charSpan 1): き}着てくれたんだな？{pause 40}
-"009"	{emote: Worry}
-"010"	{emote: Worry}
-"011"	{emote: Worry}
-"012"	{emote: Sigh}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Reset}
-"016"	{0011-0001-0002-00-00}
-"017"	{0011-0001-0002-00-00}
-"018"	{0011-0001-0002-00-00}
-"019"	{emote: Worry}
-"020"	{emote: Happiness}
-"021"	{emote: Shocked}
-"022"	{emote: Shocked}
-"023"	{emote: Happiness}
-"024"	ようやく　{ruby (charSpan 1): かえ}返せて{ruby (charSpan 1): よ}良かったよ{pause 20}
-"025"	で、{pause 20}
-"026"	そっかー{pause 20}
-"027"	そっかー{pause 20}
-"028"	{emote: Happiness}
-"029"	あせのニオイ？{pause 30}
-"030"	{emote: Happiness}
-"031"	{emote: Laughter}
-"032"	{emote: Pride}
-"033"	{emote: Happiness}
-"034"	{emote: Happiness}
-"035"	{emote: Happiness}
-"036"	{emote: Worry}
-"037"	{emote: Alarmed}
-"038"	{emote: Laughter}
-"039"	そういえば、{pause 20}!
-"040"	そういえば、{pause 20}!
-"041"	{emote: Curious}
-"042"	{emote: Curious}
-"043"	{emote: Happiness}
-"044"	{emote: Alarmed}
-"045"	{emote: Worry}
-"046"	{emote: Resigned}
-"047"	{emote: Shocked}
-"048"	{emote: Alarmed}
-"049"	{emote: Shocked}
-"050"	{emote: Shocked}
-"051"	{emote: Alarmed}
-"052"	{emote: Reset}
-"053"	{emote: Shocked}
+"001"	{emote: Happiness}おとどけ　サンキュー！{pause 40}	{0011-0001-0002-0000}のヤツ{pause 20}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ったかなー？
+"002"	{emote: Surprise}そうだ、そうだ！{pause 20}	{emote: Happiness}{0011-0001-0002-0000}へのとどけもの、	サンキューな！
+"003"	{emote: Happiness}それで、	どんな{ruby (charSpan 1): かん}感じだった？{000f-0005-0004-0000-0000}	そうそう・・・	{ruby (charSpan 1): おぼ}覚えてない
+"004"	ところで、{pause 20}	{emote: Curious}アイツのリアクションは	どうだったー？{000f-0005-0004-0000-0000}	{ruby (charSpan 1): じつ}実は・・・	{ruby (charSpan 1): おぼ}覚えてない
+"005"	そっかー{pause 20}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってくれたのかくらいは、	{ruby (charSpan 1): し}知りたかったけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Disagreement}まぁ、いいや！{pause 40}	{emote: Happiness}{ruby (charSpan 2): はいたつ}配達　ありがとー	{Player nickname (green)}！
+"006"	{emote: Alarmed}{0007-000b-0000}ナニッ？！{pause 20}	あげる{ruby (charSpan 1): まえ}前に	{ruby (charSpan 1): あ}開けたってー？！{Wait for input}{emote: Worry}{ruby (charSpan 1): なに}何やってんだよー！{pause 20}	ヒドイぞー　それは！
+"007"	{emote: Alarmed}{0007-000b-0000}ナニッ？！{pause 30}	{ruby (charSpan 2): かって}勝手に　{ruby (charSpan 1): あ}開けたのかー！{Wait for input}{emote: Distress}しかも{pause 20}　アイツはそれに	{ruby (charSpan 1): き}気づいてないのかよー！{Wait for input}{emote: Sadness}{pause 8}・{pause 8}・{pause 8}・{pause 20}それじゃー　まるで{pause 20}	オイラが　ダメダメなヤツ	みたいじゃんかー、{pause 8}{catchphrase}
+"008"	その{ruby (charSpan 1): ば}場で　{ruby (charSpan 1): き}着てくれたんだな？{pause 40}	{emote: Sunny}ヨッシャー！{pause 20}	プレゼント　{ruby (charSpan 3): だいせいこう}大成功だー！
+"009"	{emote: Worry}えー！{pause 20}	もったいぶって	{ruby (charSpan 1): き}着なかったのかよー{Wait for input}{emote: Resigned}アイツって　そんなに	はずかしがり{ruby (charSpan 1): や}屋だったっけ？
+"010"	{emote: Worry}えー？{pause 20}	すぐに{ruby (charSpan 1): き}着るのやめたって？！{Wait for input}{emote: Thought}うーーん、{pause 20}	サイズが　キツかったのかな？{Wait for input}{emote: Happiness}{ruby (charSpan 1): つぎ}次からは	もうちょっと　デカい{ruby (charSpan 1): ふく}服を	わたそーっと！
+"011"	{emote: Worry}ちぇーーっ！{pause 20}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入らなかったかー{Wait for input}アイツは　もっと	チャレンジするべき	なのになー、{pause 8}{catchphrase}
+"012"	{emote: Sigh}そっかー{pause 20}	やっぱり　ビミョーだったかー{Wait for input}{emote: Laughter}まぁ{pause 20}　オイラのかーちゃんから	{ruby (charSpan 1): おく}送られてきたヤツだからなー{pause 40}{emote: Happiness}
+"013"	{emote: Happiness}やっぱり　よろこんでただろー？{pause 40}	アイツの{ruby (charSpan 1): この}好みは　お{ruby (charSpan 2): みとお}見通しだ！
+"014"	{emote: Happiness}おー！	よろこんでたかー！{pause 20}	{ruby (charSpan 1): よ}良かった、{ruby (charSpan 1): よ}良かった！
+"015"	{emote: Reset}ふーん{pause 20}	アイツって　あーいうのが	{ruby (charSpan 1): す}好きだったのかー{Wait for input}{emote: Happiness}テキトーに{ruby (charSpan 1): えら}選んだのに、	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってもらえて	よかったぞー
+"016"	{0011-0001-0002-0000}に	とどけてくれた　みたいだな！{Wait for input}{emote: Happiness}{ruby (charSpan 1): たす}助かったよ！{pause 20}	{ruby (charSpan 2): じぶん}自分から　わたすのは、	{ruby (charSpan 1): き}気まずかったからさー！{Wait for input}これで　{ruby (charSpan 2): なかなお}仲直り	できるよな、{pause 8}{catchphrase}
+"017"	{0011-0001-0002-0000}に	とどけてくれた　みたいだな！{Wait for input}で、{pause 20}かんじんの　アイツのはんのうは	どうだったー？{000f-0005-0004-0000-0000}	そうそう・・・	{ruby (charSpan 1): おぼ}覚えてない
+"018"	{0011-0001-0002-0000}に	とどけてくれた　みたいだな！{Wait for input}で、{pause 20}かんじんの　アイツのはんのうは	どうだったー？{000f-0005-0004-0000-0000}	そうそう・・・	{ruby (charSpan 1): じつ}実は・・・
+"019"	{emote: Worry}えー！{pause 20}	それじゃ、{pause 8}ゆるしてくれたのか{pause 20}	わからないってことか？！{Wait for input}{emote: Sadness}オイラ　{ruby (charSpan 2): なかなお}仲直り	できるのかな{pause 8}・{pause 8}・{pause 8}・
+"020"	{emote: Happiness}{ruby (charSpan 1): よ}良かった、{ruby (charSpan 1): よ}良かった！{pause 20}	{Player nickname (green)}のおかげで	{ruby (charSpan 2): なかなお}仲直りできそうだー！
+"021"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 20}	わたす{ruby (charSpan 1): まえ}前に	{ruby (charSpan 1): あ}開けたってー？！{Wait for input}{emote: Anger}{ruby (charSpan 2): だいじ}大事な　プレゼントに、	{ruby (charSpan 1): へん}変なイタズラ　するなよー！
+"022"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 20}	わたす{ruby (charSpan 1): まえ}前に　{ruby (charSpan 1): あ}開けたってー？！{pause 40}	しかも、あやまってこなかったのか？{Wait for input}{emote: Sadness}オイー{pause 20}	{ruby (charSpan 2): なかなお}仲直りできなかったら	どうするんだよー
+"023"	{emote: Happiness}{Player nickname (green)}！　サンキュー！{pause 20}	{ruby (charSpan 1): れい}例のアレ　{0011-0001-0002-0000}に	とどけてくれて！
+"024"	ようやく　{ruby (charSpan 1): かえ}返せて{ruby (charSpan 1): よ}良かったよ{pause 20}	ありがとな、{Player nickname (green)}
+"025"	で、{pause 20}アイツのリアクションは	{emote: Curious}どうだったー？{000f-0005-0004-0000-0000}	そういえば・・・	{ruby (charSpan 1): おぼ}覚えてない
+"026"	そっかー{pause 20}	まぁ　おこってなかったなら	いいんだ、{pause 8}{catchphrase}
+"027"	そっかー{pause 20}	{emote: Agreement}{ruby (charSpan 1): よ}良かった、{ruby (charSpan 1): よ}良かった！{Wait for input}{emote: Pride}オイラも{pause 20}　{ruby (charSpan 1): か}借りたものは	ちゃんと　{ruby (charSpan 1): かえ}返せる{ruby (charSpan 1): おとこ}男だからな！
+"028"	{emote: Happiness}そっかー！{pause 20}	よろこんでたなら	{ruby (charSpan 1): よ}良かったよ！{Wait for input}{emote: Laughter}まぁ、アイツなら{pause 20}	{ruby (charSpan 1): かえ}返さなくても　テキトーに	ゆるしてくれそうだけどな！{pause 40}{emote: Happiness}
+"029"	あせのニオイ？{pause 30}	{emote: Happiness}ハハッ！{pause 20}	キントレしながら　{ruby (charSpan 1): つか}使ったからなー！
+"030"	{emote: Happiness}そっかー！{pause 20}	よろこんでたなら	{ruby (charSpan 1): よ}良かったよ、{pause 8}{catchphrase}
+"031"	{emote: Laughter}どうせ　アイツ、	かしてたこと　わすれてたんだろ？{pause 20}	ハハッ！{pause 40}{emote: Happiness}
+"032"	{emote: Pride}オイラの{ruby (charSpan 1): ほう}方が　アイツより	マメな{ruby (charSpan 1): おとこ}男だからなー！{pause 40}	それが　{ruby (charSpan 1): つた}伝わったならいいんだ！
+"033"	{emote: Happiness}おー！{pause 20}	ちゃんと　{ruby (charSpan 1): かえ}返したことを	{ruby (charSpan 2): かんしん}感心してたか！{Wait for input}{emote: Worry}でも、アイツに　{ruby (charSpan 2): かんしん}感心されるなんて{pause 20}	なんか　{ruby (charSpan 3): ぶきみ}不気味だな{pause 8}・{pause 8}・{pause 8}・
+"034"	{emote: Happiness}そっかそっか！{pause 20}	よろこんでたなら　それでいいんだ！
+"035"	{emote: Happiness}そういえば、{pause 20}	{ruby (charSpan 2): にもつ}荷物　とどけてくれて	サンキューな！{pause 20}	{0011-0001-0002-0000}のヤツ	なんか{ruby (charSpan 1): い}言ってたか？{000f-0005-0004-0000-0000}	そういえば・・・	{ruby (charSpan 1): おぼ}覚えてない
+"036"	{emote: Worry}ちぇーーっ！{pause 20}	どんなリアクションするか、	{ruby (charSpan 1): たの}楽しみにしてたのにさー{pause 8}・{pause 8}・{pause 8}・
+"037"	{emote: Alarmed}{0007-000b-0000}えー？！{pause 20}	もう{ruby (charSpan 1): おな}同じもの　{ruby (charSpan 1): か}買ったって？{Wait for input}{emote: Resigned}そんなに　{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってるのに	わすれるなんて{pause 20}	アイツ　おっちょこちょいだなー
+"038"	{emote: Laughter}そっかー！{pause 20}	オイラん{ruby (charSpan 1): ち}家に　あったなんて	ビックリしただろーな！{pause 40}{emote: Happiness}
+"039"	そういえば、{pause 20}	{0011-0001-0002-0000}への　とどけもの	{ruby (charSpan 1): たす}助かったぞー！
+"040"	そういえば、{pause 20}	{0011-0001-0002-0000}への　とどけもの	サンキューな！
+"041"	{emote: Curious}わたしたとき　どうだったー？{000f-0005-0004-0000-0000}	そうそう・・・	{ruby (charSpan 1): おぼ}覚えてない
+"042"	{emote: Curious}わたしたとき　どうだったー？{000f-0005-0004-0000-0000}	{ruby (charSpan 1): じつ}実は・・・	{ruby (charSpan 1): おぼ}覚えてない
+"043"	{emote: Happiness}アイツ　どんな	リアクションしてたー？{000f-0005-0004-0000-0000}	そうそう・・・	{ruby (charSpan 1): おぼ}覚えてない
+"044"	{emote: Alarmed}{0007-000b-0000}ナニッ？！{pause 30}	{ruby (charSpan 2): かって}勝手に　{ruby (charSpan 1): あ}開けたのかー！{Wait for input}{emote: Sadness}それじゃー　まるで{pause 20}	オイラが　ダメダメなヤツ	みたいじゃんかー、{pause 8}{catchphrase}
+"045"	{emote: Worry}えー！{pause 8}　わすれちゃったのか？！{pause 40}	どんな　{ruby (charSpan 2): はんのう}反応だったか	{ruby (charSpan 1): し}知りたかったのになー{pause 8}・{pause 8}・{pause 8}・
+"046"	{emote: Resigned}そっかー{pause 8}・{pause 8}・{pause 8}・{pause 20}	でも、{ruby (charSpan 2): なかみ}中身がなんだったのか	やっぱり　{ruby (charSpan 1): き}気になるなー
+"047"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 20}	アレって　オマエへの	プレゼントだったのか{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}なんか　オイラ{pause 20}	ややこしいこと　しちゃったかー？{Wait for input}{emote: Reset}でも、{pause 20}{emote: Laughter}{ruby (charSpan 2): けっか}結果はいっしょだし	{ruby (charSpan 1): べつ}別にいっかー！{pause 40}{emote: Happiness}
+"048"	{emote: Alarmed}{0007-000b-0000}えー！{pause 20}	アイツ　お{ruby (charSpan 1): れい}礼をくれたのかー？{Wait for input}{emote: Sadness}いいなー{pause 20}	だったら　オイラが	とどけてくれば　よかったぞ{pause 8}・{pause 8}・{pause 8}・
+"049"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 20}	もう　{ruby (charSpan 1): か}買った{ruby (charSpan 1): あと}後だったって？！{Wait for input}{emote: Mistaken}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	オイラの{ruby (charSpan 1): あし}足なら	{ruby (charSpan 1): ま}間に{ruby (charSpan 1): あ}合ってたかもなー
+"050"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 20}	アレって　オマエへの	プレゼントだったのか{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}なんか　オイラ{pause 20}	ややこしいこと　しちゃったかー？{Wait for input}{emote: Reset}でも、{pause 20}{emote: Laughter}{ruby (charSpan 2): けっか}結果はいっしょだし	{ruby (charSpan 1): べつ}別にいっかー！{pause 40}{emote: Happiness}
+"051"	{emote: Alarmed}{0007-000b-0000}えー！{pause 20}	アイツ　お{ruby (charSpan 1): れい}礼をくれたのかー？{Wait for input}{emote: Sadness}いいなー{pause 20}	だったら　オイラが	とどけてくれば　よかったぞ{pause 8}・{pause 8}・{pause 8}・
+"052"	{emote: Reset}そっかー！{pause 20}	わたしてすぐに	{ruby (charSpan 1): き}着がえてたんだな！{Wait for input}{emote: Thought}アイツ　そんなに	あの{ruby (charSpan 1): ふく}服がとどくの	{ruby (charSpan 1): ま}待ってたのか{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}ハハッ！{pause 20}	{ruby (charSpan 1): はや}早くとどけられて　{ruby (charSpan 1): よ}良かったよ！
+"053"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 20}　イマイチ？！{Wait for input}	{emote: Sheepishness}まぁ、{pause 20}いざ{ruby (charSpan 2): じつぶつ}実物を{ruby (charSpan 1): み}見ると	ショボかったり　するからなー{pause 8}・{pause 8}・{pause 8}・

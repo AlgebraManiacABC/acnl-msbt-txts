@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Soft Smile}
-"003"	{emote: Happiness}
-"004"	{emote: Sadness}
-"005"	{emote: Sunny}
-"006"	{emote: Happiness}
-"007"	{emote: Worry}
-"008"	{emote: Sunny}
-"009"	{emote: Agreement}
-"010"	{emote: Mistaken}
-"011"	{emote: Surprise}
-"012"	{emote: Happiness}
+"001"	{emote: Alarmed}おいおい、{pause 8}	こいつは　{ruby (charSpan 1): おどろ}驚いたな！{Wait for input}{emote: Sunny}オメェが{ruby (charSpan 1): も}持ってる　それは{pause 8}	{0011-0003-0002-0000}	じゃねぇか？！{Wait for input}{emote: Distress}{ruby (charSpan 1): まえ}前から　ずーっと	{ruby (charSpan 1): さが}探し{ruby (charSpan 1): もと}求めてたモンなんだよ{pause 20}	{ruby (charSpan 1): しん}信じられねぇぜ！{Wait for input}{emote: Reset}{ruby (charSpan 2): たかね}高値で　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせて	もらいたい　ところなんだが{pause 15}	{emote: Disagreement}あいにく　{ruby (charSpan 1): も}持ち{ruby (charSpan 1): あ}合わせがねぇ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}オレの　{0011-0003-0002-0001}と{pause 8}	{ruby (charSpan 2): こうかん}交換してもらうワケには	いかねぇかな？{pause 20}　{catchphrase}？{Player can respond (0005):0005-0015-0004-0028}	いいよ！	それはムリです
+"002"	{emote: Soft Smile}なぁ、{pause 8}{Player nickname (green)}{Wait for input}	{ruby (charSpan 1): お}折り{ruby (charSpan 1): い}入って　{ruby (charSpan 1): たの}頼みがあるんだが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Greetings}ズバリ！{pause 20}　{emote: Distress}オメェが{ruby (charSpan 1): も}持ってる	その　{0011-0003-0002-0000}を{pause 8}	{ruby (charSpan 1): ゆず}譲ってもらいてぇんだ{Wait for input}{emote: Agreement}もちろん　タダとは{ruby (charSpan 1): い}言わねぇよ{Wait for input}	{emote: Happiness}{0011-0003-0002-0001}と{pause 8}	{ruby (charSpan 2): こうかん}交換ってのは　どうだい？{Wait for input}キズひとつない{ruby (charSpan 2): しんぴん}新品だぜ{Wait for input}	{ruby (charSpan 2): じょうけん}条件は{ruby (charSpan 1): わる}悪くねぇだろ？{Player can respond (0005):0008-0015-0007-0028}	{ruby (charSpan 2): こうかん}交換しよう	イヤだよ
+"003"	{emote: Happiness}よぅ、{pause 4}{Player nickname (green)}！{pause 15}	ちょっと　{ruby (charSpan 1): き}聞いてくれ{Wait for input}オレが{ruby (charSpan 1): も}持ってるコレ、{pause 8}	{ruby (charSpan 1): なん}何だかわかるか？{Wait for input}	{emote: Greetings}そう、{pause 8}{0011-0003-0002-0001}だ！{Wait for input}{emote: Happiness}ひょんなことから　{ruby (charSpan 1): て}手に{ruby (charSpan 1): はい}入ったんだよ、{pause 8}	ラッキーだったぜ、{pause 20}{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}{Wait for input}・{pause 8}・{pause 8}・{emote: Alarmed}{pause 8}ん？{Wait for input}	{emote: Anger}なんか　オメェ、{pause 8}	うらやましそうな　{ruby (charSpan 1): かお}顔してねぇか？{Wait for input}{emote: Glare}そんなに　{ruby (charSpan 1): ほ}欲しけりゃ{pause 8}	{ruby (charSpan 1): ゆず}譲ってやってもいいぜ？{Wait for input}{emote: Happiness}そうだなぁ、{pause 8}	オメェの　{0011-0003-0002-0000}と{pause 8}	{ruby (charSpan 2): こうかん}交換ってのは　どうでぇ？{Player can respond (0005):000b-0015-000a-0028}	そうしよう！	{ruby (charSpan 2): ぜんぜん}全然いらない
+"004"	{emote: Sadness}やっぱ　ムリ？{pause 20}　ダメ？{Wait for input}	{emote: Sheepishness}だよなぁ、{pause 15}{ruby (charSpan 1): よ}世の{ruby (charSpan 1): なか}中それほど	{ruby (charSpan 1): あま}甘くは　ねぇよなぁ{Wait for input}{emote: Pride}わかった、オレも{ruby (charSpan 1): おとこ}男だ{pause 15}	{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): ちから}力で　ゲットするぜ！{Wait for input}	{emote: Happiness}{ruby (charSpan 1): あし}足{ruby (charSpan 1): ど}止めして　{ruby (charSpan 1): わる}悪かったな
+"005"	{emote: Sunny}おっ！{pause 8}　うれしいねぇ！{pause 8}	さすがは　{Player nickname (green)}だ！{Wait for input}{emote: Happiness}それじゃ　さっそく　{ruby (charSpan 2): こうかん}交換しようぜ！
+"006"	{emote: Happiness}ありがとよ！{pause 8}	{ruby (charSpan 1): おん}恩に{ruby (charSpan 1): き}着るぜ！{pause 20}　{catchphrase}！
+"007"	{emote: Worry}あぁ、{pause 8}あっさり　{ruby (charSpan 1): ことわ}断られちまったか{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Happiness}ま、{pause 8}イヤならしょうがねぇや、{pause 8}	また{ruby (charSpan 2): こんど}今度な、{pause 20}{catchphrase}！
+"008"	{emote: Sunny}よっしゃーっ！{pause 20}	そうこなくっちゃな！{Wait for input}{emote: Happiness}それじゃ　さっそく　{ruby (charSpan 2): こうかん}交換しようぜ！
+"009"	{emote: Agreement}オメェなら{pause 4}　きっと{ruby (charSpan 1): おう}応じてくれると	{ruby (charSpan 1): おも}思ってたぜ！{pause 20}	{emote: Happiness}ありがとよ、{pause 20}{catchphrase}！
+"010"	{emote: Mistaken}ありゃ？！{pause 15}	いらねぇの？{Wait for input}{emote: Happiness}へへっ、{pause 8}やっぱり	そう{ruby (charSpan 2): かんたん}簡単には　いかねぇか{Wait for input}わかったよ、{pause 8}	また{ruby (charSpan 1): き}気が{ruby (charSpan 1): む}向いたときにな、{pause 20}{catchphrase}！
+"011"	{emote: Surprise}おおっ！！{pause 8}	いいのかい？！{Wait for input}{emote: Happiness}それじゃ　さっそく　{ruby (charSpan 2): こうかん}交換しようぜ！
+"012"	{emote: Happiness}{ruby (charSpan 1): も}持つべきものは{pause 8}	なんとやら{pause 8}・{pause 8}・{pause 8}・{pause 8}だな！{Wait for input}	ありがとよ、{pause 20}{catchphrase}！

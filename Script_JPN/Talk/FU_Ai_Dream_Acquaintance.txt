@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Alarmed}
-"003"	{emote: Curious}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
+"001"	{emote: Surprise}あら、{pause 15}{Player nickname (green)}さん{Wait for input}	{emote: Happiness}こんなところで{ruby (charSpan 1): あ}会えるなんて！{Wait for input}また　お{ruby (charSpan 1): あ}会いしたいという{ruby (charSpan 1): ゆめ}夢が{pause 15}	かなったようです、{pause 15}{catchphrase}！
+"002"	{emote: Alarmed}まぁ！{pause 20}　{Player nickname (green)}さんと{pause 5}	{ruby (charSpan 2): ぐうぜん}偶然　お{ruby (charSpan 1): あ}会いできるなんて、{pause 15}{catchphrase}！{Wait for input}	{emote: Glee}すてきな　めぐり{ruby (charSpan 1): あ}合わせですね
+"003"	{emote: Curious}{Player nickname (green)}さん・・・？{Wait for input}	{emote: Alarmed}あら！{pause 20}　{Player nickname (green)}さんじゃないですか！{Wait for input}{emote: Laughter}うふふ！{pause 8}{emote: Soft Smile}{Wait for input}	{emote: Happiness}こんな{ruby (charSpan 1): ところ}所で　お{ruby (charSpan 1): あ}会いできるなんて{pause 15}	まるで　{pause 8}{ruby (charSpan 1): ゆめ}夢みたいです、{pause 15}{catchphrase}！
+"004"	{emote: Surprise}まぁ、{pause 10}{Player nickname (green)}さん{Wait for input}	{emote: Glee}あなたに{ruby (charSpan 1): あ}会えますように！{pause 10}　って{pause 10}	{emote: Happiness}{ruby (charSpan 2): まいばん}毎晩、{pause 8}{ruby (charSpan 1): ね}寝る{ruby (charSpan 1): まえ}前に　いのってたんですよ
+"005"	{emote: Surprise}あら～！{pause 20}　{Player nickname (green)}さん{Wait for input}	{emote: Happiness}お{ruby (charSpan 2): げんき}元気そうですね！{Wait for input}{emote: Curious}ちょっと　{ruby (charSpan 1): ねむ}眠たそうですけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Glee}とにかく、{pause 10}	お{ruby (charSpan 1): あ}会いできてうれしいです、{pause 15}{catchphrase}！

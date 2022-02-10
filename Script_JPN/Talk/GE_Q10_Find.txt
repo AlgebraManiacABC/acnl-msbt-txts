@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Distress}
-"003"	{emote: Alarmed}
+"001"	{emote: Alarmed}{pause 8}・{pause 8}・{pause 8}・{pause 8}！{pause 20}	{emote: Sadness}な～んだ　{pause 8}{ruby (charSpan 1): み}見つかっちゃった！{Wait for input}{emote: Sheepishness}{Player nickname (green)}{0005-000d-0000}、{pause 8}さすがだね～{Wait for input}	{emote: Resigned}やっぱ　イケてるひとは{pause 8}	かくれんぼでも　イケてるわ！{emote: Sunny}
+"002"	{emote: Distress}ヤダー！{pause 20}	もう{ruby (charSpan 1): み}見つかっちゃったよ{Wait for input}{emote: Shyness}やっぱ　{pause 8}アタイのキラキラオーラは{pause 10}	{emote: Daydreaming}かくれていても{pause 10}	あふれ{ruby (charSpan 1): で}出ちゃうんだね！
+"003"	{emote: Alarmed}わっ！{pause 20}	{emote: Distress}うまく　かくれたつもりだったのに～！{Wait for input}	{emote: Sheepishness}アタイも　まだまだだな～、{pause 10}{catchphrase}

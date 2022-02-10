@@ -1,39 +1,39 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Alarmed}
-"004"	{emote: Distress}
-"005"	"{capitalized}
-"006"	{emote: Distress}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	OK, here goes...{pause 40}
-"009"	{emote: Happiness}
-"010"	{0009-0000-0004-0b-00-0c-00}
-"011"	{emote: Glee}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}So, uh, {pause 10}{Player nickname (green)}. I need your	honest opinion.{Wait for input}{emote: Soft Smile}You know how I say "{catchphrase}"	a lot?{Wait for input}{emote: Curious} Do you think I should find	something else to say?{Player can respond (0005):0004-0000-0003-0000}	Say something else!	I think it's great!
+"002"	{emote: Happiness}So {Player nickname (green)},{pause 20} how are you today,	{catchphrase}? {Wait for input}{emote: Mistaken}Oh no!{pause 20} I said	"{catchphrase}" again!	{emote: Worry}{0005-0002-0000} pointed out how often	I say "{catchphrase}."{pause 10} It's a habit	I just can't shake.	{emote: Sadness}Do you think saying "{catchphrase}"	all the time makes me seem boring?{Player can respond (0005):0004-0000-0003-0000}	Yes. Very.	Not at all!
+"003"	{emote: Alarmed}Really?!
+"004"	{emote: Distress}But I've been racking my brains for	a new catchphrase,{pause 5} and I can't think	of anything!	{emote: Inspired}Wait!{pause 15} You're full of great ideas,	{Player nickname (green)}!{Wait for input} {emote: Glee}What do you think	I should say?
+"005"	"{capitalized}{catchphrase}," huh?{pause 15}	{emote: Curious}Did I say it right?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Yup!	Not quite.
+"006"	{emote: Distress}Oh, {pause 8}sorry.{pause 30} {emote: Soft Smile}Let's try that again.
+"007"	{0009-0000-0004-0008-0009}
+"008"	OK, here goes...{pause 40} {capitalized}{catchphrase}.{pause 30}	{emote: Glee}Wow, that rolls right off my	tongue!{pause 10} I love it!{Wait for input}I'm going to use it all the time.{pause 10}	{capitalized}{catchphrase},{pause 8} {catchphrase}!
+"009"	{emote: Happiness}"{capitalized}{catchphrase}"?{pause 30} {emote: Love}It's perfect!{Wait for input}	{emote: Glee}Thank you so much!{pause 15} You can expect	me to say {catchphrase} a LOT!
+"010"	{0009-0000-0004-000b-000c}
+"011"	{emote: Glee}Well, if YOU think so,{pause 8} then I'll stop	worrying about it!{pause 20} Thanks,	{Player nickname (green)}.{Wait for input}Oh,{pause 8} and{pause 8}.{pause 8}.{pause 8}.{pause 20}{catchphrase}!
+"012"	{emote: Happiness}OK.{pause 8} Then I guess I'll keep saying	"{catchphrase}" whenever I want to!
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Alarmed}
-"004"	{emote: Distress}
-"005"	¿"{capitalized}
-"006"	{emote: Distress}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	Vale, a ver qué tal.{pause 20}
-"009"	{emote: Happiness}
-"010"	{0009-0000-0004-0b-00-0c-00}
-"011"	{emote: Glee}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}Oye, {pause 10}{Player nickname (green)}.{Wait for input}{emote: Soft Smile}¿Has notado que repito mucho	"{catchphrase}"?{Wait for input}{emote: Curious} Sinceramente, {pause 10}	¿a ti qué te parece?{Player can respond (0005):0004-0000-0003-0000}	Cámbialo	Me gusta
+"002"	{emote: Happiness}Oye, {Player nickname (green)},{pause 20} ¿cómo estás,	{catchphrase}? {Wait for input}{emote: Mistaken}¡Ay, no!{pause 20} ¡He vuelto	a decir "{catchphrase}"!	{emote: Worry}{capitalized}{0005-0002-0000} dice que lo repito	demasiado.{pause 10} Es una costumbre de	la que cuesta desprenderse.	{emote: Sadness}¿Tú crees que decir "{catchphrase}"	todo el tiempo me hace parecer	un bicho raro?{Player can respond (0005):0004-0000-0003-0000}	Sí, mucho	¡Qué va!
+"003"	{emote: Alarmed}¡¿En serio?!
+"004"	{emote: Distress}Le he dado muchas vueltas,	pero no se me ocurre nada	original que decir.	{emote: Inspired}¡Espera!{pause 15} ¡Tú siempre tienes buenas	ideas, {Player nickname (green)}!{Wait for input} {emote: Glee}¿Qué crees	que podría decir?
+"005"	¿"{capitalized}{catchphrase}"?{pause 15} 	{emote: Curious}¿Lo he dicho bien?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	¡Sip!	No del todo
+"006"	{emote: Distress}Ay, {pause 8}perdón.{pause 20} {emote: Soft Smile}Vamos a repetirlo.
+"007"	{0009-0000-0004-0008-0009}
+"008"	Vale, a ver qué tal.{pause 20} ¡{capitalized}{catchphrase}!{pause 30}	{emote: Glee}¡Sí, suena estupendo!{pause 10} ¡Perfecto!{Wait for input}¡Lo usaré a todas horas!{pause 10}	¡{capitalized}{catchphrase}!
+"009"	{emote: Happiness}¿{capitalized}{catchphrase}?{pause 30} {emote: Love}¡Me encanta!{Wait for input}	{emote: Glee}¡Muchas gracias!{pause 15} ¡Lo usaré a	partir de ahora,{pause 10} {catchphrase}!
+"010"	{0009-0000-0004-000b-000c}
+"011"	{emote: Glee}Si eso es lo que piensas, {Player nickname (green)},	dejaré de preocuparme. 	¡Gracias, {pause 10}{catchphrase}!
+"012"	{emote: Happiness}¡Vale, {pause 10}a partir de ahora diré	"{catchphrase}" tantas veces	como quiera sin preocuparme!
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Alarmed}
-"004"	{emote: Distress}
-"005"	« {capitalized}
-"006"	{emote: Distress}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	OK, je vais faire un essai. Hem...	{pause 20}
-"009"	{emote: Happiness}
-"010"	{0009-0000-0004-0b-00-0c-00}
-"011"	{emote: Glee}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}Hé, dis, {pause 10}{Player nickname (green)}.{Wait for input}{emote: Soft Smile}Tu sais, ce truc que je dis tout le	temps, « {catchphrase} »...?{Wait for input} {emote: Curious}Dis-moi	franchement, t'en penses quoi?{Player can respond (0005):0004-0000-0003-0000}	Change de disque!	Dis-le encore!
+"002"	{emote: Happiness}Ça va, {Player nickname (green)},{pause 20} {catchphrase}?	{Wait for input}{emote: Mistaken}Purée,{pause 20} je dis tout le temps	« {catchphrase} », {catchphrase}!	{emote: Worry}{0005-0002-0000} m'a dit que je dis trop	souvent « {catchphrase} ».{pause 10} Je peux	pas m'en empêcher, {catchphrase}.	{emote: Sadness}Tu penses que j'ai l'air folle à	répéter « {catchphrase} » sans	arrêt, {catchphrase}?{Player can respond (0005):0004-0000-0003-0000}	Oh oui...	Pas plus que d'hab.
+"003"	{emote: Alarmed}Non, {pause 15}c'est vrai?!
+"004"	{emote: Distress}Je me creuse le cervelet pour	trouver un truc plus sympa à dire,	{pause 8}mais je vois pas...	{emote: Inspired}Ah, mais...!{pause 15} Toi qui as des idées si	géniales, {Player nickname (green)}, {Wait for input}{emote: Glee}tu pourrais	pas me dégoter un truc chouette?
+"005"	« {capitalized}{catchphrase} », hein?{pause 15} {emote: Curious}Tu es sûr{/e}	que ça sonne bien?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Sûr{/e} de chez sûr{/e}.	À la réflexion...
+"006"	{emote: Distress}Ah, {pause 8}j'ai dû mal comprendre.{pause 20}	{emote: Soft Smile}Reprenons...
+"007"	{0009-0000-0004-0008-0009}
+"008"	OK, je vais faire un essai. Hem...	{pause 20}{capitalized}{catchphrase}!{pause 30}{Wait for input}{emote: Glee}Mais... c'est carrément extra!{pause 10}	J'adore! Je vais l'utiliser jusqu'à	plus soif!{pause 10} {capitalized}{catchphrase}!
+"009"	{emote: Happiness}« {capitalized}{catchphrase} »?{pause 30} {emote: Love}Nickel chrome!{Wait for input}	{emote: Glee}Merci!{pause 15} Je vais le sortir à tout bout	de champ,{pause 10} {catchphrase}!
+"010"	{0009-0000-0004-000b-000c}
+"011"	{emote: Glee}Bon, si tu le dis, {pause 8}je vais arrêter de	me prendre le chou avec ça.{pause 30} Merci,	{Player nickname (green)}.{pause 10} {capitalized}{catchphrase}!
+"012"	{emote: Happiness}OK, {pause 10}alors je continuerai à dire 	« {catchphrase} » sans me soucier	de ce que pensent les autres!

@@ -1,80 +1,80 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Soft Smile}
-"003"	{emote: Soft Smile}
-"004"	{emote: Soft Smile}
-"005"	{emote: Shocked}
-"006"	You're such a good friend, after all.{pause 16}
-"007"	{emote: Soft Smile}
-"008"	{emote: Sigh}
-"009"	{emote: Soft Smile}
-"010"	{emote: Alarmed}
-"011"	{emote: Pride}
-"012"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Sheepishness}
+"001"	{emote: Soft Smile}Here. I found something that's so	perfect for you, {Player nickname (green)}.{pause 10}	It's {Article(word-dependant)}{0011-0003-0002-0000}.
+"002"	{emote: Soft Smile}{capitalized}{Player nickname (green)}, I finally found what	you wanted. {pause 10}You know, {Article(word-dependant)}	{0011-0003-0002-0000}?{Player can respond (0005):0005-0000-000a-0028}	What?	I never said that!
+"003"	{emote: Soft Smile}So{pause 8} I'd really like to give you {Article(word-dependant)}	{0011-0003-0002-0000},{pause 8} {Player nickname (green)}.
+"004"	{emote: Soft Smile}I'm getting rid of some stuff, {pause 8}and I	thought you might like my	{0011-0003-0002-0000}.	{emote: Curious}Not your style? {pause 16}Well,{pause 8} the garbage	can is right over there.{pause 16} {emote: Sheepishness}If you want	to be polite,{pause 8} just wait until I leave.
+"005"	{emote: Shocked}Wait. You DID want something like	that, {pause 5}right?{pause 10} {emote: Reset}I swear you said you	did...{pause 10} Didn't you?	{emote: Mistaken}Oh, {pause 8}I must have confused things.{pause 16}	{emote: Reset}But now you HAVE to take it,	{pause 8}{Player nickname (green)}.{000a-0000-0006-0603-0700-cd00}
+"006"	You're such a good friend, after all.{pause 16}	{emote: Soft Smile}You really deserve a reward for	putting up with me, {pause 8}{Player nickname (green)}.
+"007"	{emote: Soft Smile}Come on. Don't be shy, {Player nickname (green)}.{pause 10}	Even if we're not the VERY best	of friends, can't I give you a gift?
+"008"	{emote: Sigh}You always stick by me despite,	{pause 5}you know, {pause 5}how fussy I can be.{Wait for input}	{emote: Soft Smile}So thanks, {Player nickname (green)}.
+"009"	{emote: Soft Smile}Enjoy the gift, {Player nickname (green)}.	It really suits you, {catchphrase}.
+"010"	{emote: Alarmed}Oh! {pause 5}Really? {Wait for input}{emote: Soft Smile}Well, {pause 8}as a reward for	your {pause 3}bru{pause 3}tal{pause 3} hon{pause 3}esty,{pause 3} you should	keep the gift anyway,{pause 8} {Player nickname (green)}.
+"011"	{emote: Pride}Yes, I declare it to be the best	gift you never asked for,	{catchphrase}!
+"012"	{0009-0001-0006-000d-000e-000f}
+"013"	{emote: Happiness}Thanks for taking that off my	hands. {pause 16}{emote: Resigned}The color clashed with	almost everything I own!
+"014"	{emote: Happiness}Thanks for accepting my gift,{pause 8}	{Player nickname (green)}.{pause 16} I just hate to throw	things away.{pause 16} {capitalized}{catchphrase}!
+"015"	{emote: Sheepishness}You can also thank {0005-0003-0000},	since {pause 16}I'm regifting a gift he gave me.	{pause 16}{emote: Distress}Wait, {pause 8}don't actually thank him!
 == 1 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Soft Smile}
-"003"	{emote: Soft Smile}
-"004"	{emote: Happiness}
-"005"	{emote: Shocked}
-"006"	Eres u{000e-0006-000a-02-00-6e-00-04-00-6e-00-61-00} bue{000e-0006-000a-02-00-6e-00-04-00-6e-00-61-00} amig{000e-0006-0008-02-00-6f-00-02-00-61-00}.{pause 10}
-"007"	{emote: Soft Smile}
-"008"	{emote: Sigh}
-"009"	{emote: Soft Smile}
-"010"	{emote: Alarmed}
-"011"	{emote: Pride}
-"012"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"013"	Gracias por quitarme esto de las	manos, corazón.{pause 20}
-"014"	¡Gracias, {Player nickname (green)}
-"015"	{emote: Sheepishness}
+"001"	{emote: Soft Smile}Toma, he encontrado algo que	es perfecto para ti, {Player nickname (green)}.{pause 10}	{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}.
+"002"	{emote: Soft Smile}Ah, {Player nickname (green)}, por fin he	encontrado eso que me pediste.{Wait for input}Ya sabes, terroncito,	{000e-0001-0000}{0011-0003-0002-0000}.{Player can respond (0005):0005-0000-000a-0028}	¿Cómo?	No te pedí nada
+"003"	{emote: Soft Smile}Me encantaría que te quedaras con	{este/esta/} {0011-0003-0002-0000}, 	corazón.
+"004"	{emote: Happiness}Usé est{e/a/} {0011-0003-0002-0000}	durante muchos años. ¿A que aún	parece nuev{o/a/}?	Si no te gusta puedes tirarl{o/a/},{pause 10} pero {emote: Soft Smile}	ten un poco de tacto y hazlo sin	que yo me entere, por favor.
+"005"	{emote: Shocked}¡Recuerdo perfectamente que me	pediste esto, {pause 5}clavelito!{pause 20} {emote: Reset}La semana	pasada... o... ¿la anterior?	{emote: Mistaken}Disculpa, me he confundido.{pause 10} {emote: Reset}Pero	ya que lo he comprado, ahora debes	quedártelo, {Player nickname (green)}.{000a-0000-0006-0603-0700-cd00}
+"006"	Eres u{n/na} bue{n/na} amig{o/a}.{pause 10}	{emote: Soft Smile}Te mereces esto por escucharme	todos los días, encanto.
+"007"	{emote: Soft Smile}No seas tímid{o/a}, {Player nickname (green)}.{pause 10} Puede	que no seamos l{o/a}s mejores amig{o/a}s,	pero me apetece hacerte un regalo.
+"008"	{emote: Sigh}A pesar de ser tan cotilla,	tú siempre me saludas con	una sonrisa, solete.	{emote: Soft Smile}Esta es mi manera de darte	las gracias, {catchphrase}.
+"009"	{emote: Soft Smile}Espero que te guste, {Player nickname (green)}.	¡Es un regalo perfecto para ti,	{catchphrase}!
+"010"	{emote: Alarmed}¡¿Ah, no?! {pause 5}¿Seguro? {Wait for input}{emote: Soft Smile}Bueno, ya	que eres tan sincer{o/a}, acéptalo	como un regalo, por favor.
+"011"	{emote: Pride}¡Que sí! ¡Te aseguro que es el	mejor regalo que hayas recibido	nunca, {catchphrase}!
+"012"	{0009-0001-0006-000d-000e-000f}
+"013"	Gracias por quitarme esto de las	manos, corazón.{pause 20} ¡No pegaba con	nada de mi casa, {catchphrase}!
+"014"	¡Gracias, {Player nickname (green)}!{pause 10} No soporto	tirar nada. Me alegro de que alguien	le dé un buen uso, {catchphrase}.
+"015"	{emote: Sheepishness}¡Ja, ja! Era un regalo de {0005-0003-0000}.{pause 10}	No se lo cuentes, ¿eh?{Wait for input}{emote: Disagreement}Sé que está mal, pero no es de	mi agrado.
 == 2 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Soft Smile}
-"003"	{emote: Soft Smile}
-"004"	{emote: Disagreement}
-"005"	{emote: Shocked}
-"006"	Tu es si gentil{000e-0006-0008-00-00-04-00-6c-00-65-00} avec moi.{pause 10}
-"007"	{emote: Soft Smile}
-"008"	{emote: Sigh}
-"009"	{emote: Soft Smile}
-"010"	{emote: Alarmed}
-"011"	{emote: Pride}
-"012"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"013"	Merci de m'en débarrasser.{pause 20}
-"014"	Je te remercie de le prendre,	{Player nickname (green)}
-"015"	{emote: Sheepishness}
+"001"	{emote: Soft Smile}Regarde, {Player nickname (green)}. Je t'ai trouvé	un petit cadeau qui te plaira, j'en	suis certaine.{pause 10}	C'est {Article(word-dependant)}{0011-0003-0002-0000}.	C'est charmant, n'est-ce pas ?
+"002"	{emote: Soft Smile}Bonne nouvelle, {Player nickname (green)}, j'ai	finalement trouvé cet objet que tu	voulais tant.	Tu sais, {000e-0001-0000}{0011-0003-0002-0000}.{Player can respond (0005):0005-0000-000a-0028}	C'est vrai ?	Il doit y avoir erreur...
+"003"	{emote: Soft Smile}Je t'en prie, {Player nickname (green)}, accepte ce	modeste présent. Regarde, il s'agit	d'{Article(word-dependant)}{0011-0003-0002-0000}.
+"004"	{emote: Disagreement}Moi je n'en ai plus l'utilité,	{Player nickname (green)}. Aussi je me suis dit que	toi tu en voudrais peut-être.	N'avais-tu pas justement envie	d'{Article(word-dependant)}{0011-0003-0002-0000} ?{Wait for input}Si tu n'en veux pas, {emote: Soft Smile}tu peux en faire	cadeau à quelqu'un d'autre. {pause 10}Comme	il te plaira, {catchphrase}.
+"005"	{emote: Shocked}Euh... {pause 10}c'est bien ça que tu voulais,	non ?{pause 10} {emote: Reset}J'aurais pourtant juré que...{pause 10}	En es-tu bien sûr{/e} ?	{emote: Mistaken}Oh, alors j'ai dû me tromper.{pause 10} {emote: Reset}Mais	puisque maintenant je l'ai, je t'en	fais cadeau, {Player nickname (green)}.{000a-0000-0006-0603-0700-cd00}
+"006"	Tu es si gentil{/le} avec moi.{pause 10} {emote: Soft Smile}Tu as	bien mérité ce petit cadeau,	{catchphrase}.
+"007"	{emote: Soft Smile}Allons, {Player nickname (green)}. Ne sois pas	timide.{pause 10} Je t'en prie, accepte ce	modeste présent.
+"008"	{emote: Sigh}Je sais bien que je ne suis pas	toujours facile à vivre, {pause 10}pourtant tu	es toujours là pour moi.	{emote: Soft Smile}Alors ce petit cadeau, c'est ma	façon à moi de te remercier,	{catchphrase}.
+"009"	{emote: Soft Smile}J'espère que tu aimes ton cadeau,	{catchphrase}.
+"010"	{emote: Alarmed}Ah ! {pause 10}Vraiment ? {Wait for input}{emote: Soft Smile}Bon. {pause 10}Je te prie	d'accepter tout de même ce	modeste présent, {Player nickname (green)}.
+"011"	{emote: Pride}C'est encore mieux de recevoir un	cadeau quand on ne s'y attendait	pas du tout, {catchphrase} !
+"012"	{0009-0001-0006-000d-000e-000f}
+"013"	Merci de m'en débarrasser.{pause 20}	Il n'allait pas du tout avec mes	autres objets, {catchphrase} !
+"014"	Je te remercie de le prendre,	{Player nickname (green)}.{pause 10} Je n'aurais pas pu me	résoudre à le jeter.
+"015"	{emote: Sheepishness}En fait, {pause 12}c'est {0005-0003-0000} qui m'en a	fait don, {catchphrase}.{Wait for input}Je sais bien que cela ne se fait pas	de donner un cadeau qu'on a reçu,{pause 10}	{emote: Disagreement}mais il ne me plaît vraiment pas.
 == 3 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Soft Smile}
-"003"	{emote: Soft Smile}
-"004"	{emote: Disagreement}
-"005"	{emote: Shocked}
-"006"	Per me sei {000e-0006-003c-1a-00-75-00-6e-00-20-00-62-00-75-00-6f-00-6e-00-20-00-61-00-6d-00-69-00-63-00-6f-00-1e-00-75-00-6e-00-61-00-20-00-62-00-75-00-6f-00-6e-00-61-00-20-00-61-00-6d-00-69-00-63-00-61-00}.{pause 10}!
-"007"	{emote: Soft Smile}
-"008"	{emote: Sigh}
-"009"	{emote: Soft Smile}
-"010"	{emote: Alarmed}
-"011"	{emote: Pride}
-"012"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"013"	Grazie per avermi aiutato a	sbarazzarmene.{pause 20}!
-"014"	Sono contenta che tu abbia	accettato, {Player nickname (green)}
-"015"	{emote: Sheepishness}
+"001"	{emote: Soft Smile}Ehi! Ho trovato un oggetto	perfetto per te, {Player nickname (green)}:{pause 10}	{Article(word-dependant)}{0011-0003-0002-0000}!
+"002"	{emote: Soft Smile}Ehi, {Player nickname (green)}! Ho finalmente	trovato quello di cui mi parlavi:{pause 10}	{Article(word-dependant)}{0011-0003-0002-0000}!{Player can respond (0005):0005-0000-000a-0028}	Non ricordo...	Devi averlo sognato!
+"003"	{emote: Soft Smile}C'è una cosa che vorrei tanto che	tu avessi, {Player nickname (green)}:	{Article(word-dependant)}{0011-0003-0002-0000}.
+"004"	{emote: Disagreement}Non fa al caso mio, {Player nickname (green)}, ma	{Article(word-dependant)}{0011-0003-0002-0000}	potrebbe farti comodo, {pause 5}giusto?	E se non ti piace... {pause 20}{emote: Soft Smile}Beh, liberatene{pause 10}.	Io non ne voglio sapere,	{catchphrase}.
+"005"	{emote: Shocked}Sei sicur{o/a}?{pause 5} Sicurissim{o/a}?{pause 10}	{emote: Reset}Avrei giurato che tu fossi	interessat{o/a}...{pause 10} E invece no, eh?	{emote: Mistaken}Ahhh, la mia memoria perde colpi.{pause 10}	{emote: Reset}Ma sii gentile e accetta questo	regalo in ogni caso, {Player nickname (green)}.{000a-0000-0006-0603-0700-cd00}
+"006"	Per me sei {un buon amico/una buona amica}.{pause 10} {emote: Soft Smile}So che	non è facile sopportarmi, quindi	ti meriti un regalo, {Player nickname (green)}.
+"007"	{emote: Soft Smile}Dai, non essere timid{o/a}, {Player nickname (green)}.{pause 10}	Anche se non sono la tua migliore	amica, posso farti un regalino?
+"008"	{emote: Sigh}Tu non mi abbandoni mai, anche	quando faccio{pause 5} la {pause 5}criticona.{Wait for input}	{emote: Soft Smile}Grazie, {Player nickname (green)}!!!
+"009"	{emote: Soft Smile}Ti piace il regalo, {Player nickname (green)}?	È proprio quello che fa per te,	non è vero? {capitalized}{catchphrase}!
+"010"	{emote: Alarmed}Oh! {pause 5}Davvero? {Wait for input}{emote: Soft Smile}Beh, per tua fortuna{pause 3}	oggi sono {pause 3}di{pause 3} buon{pause 3} umore,{pause 3} quindi	ti faccio un regalo, {Player nickname (green)}.
+"011"	{emote: Pride}Di' la verità, non è il miglior regalo	che... tu NON abbia mai desiderato?	{capitalized}{catchphrase}!
+"012"	{0009-0001-0006-000d-000e-000f}
+"013"	Grazie per avermi aiutato a	sbarazzarmene.{pause 20} Mi ricorda troppo	il mio passato, {catchphrase}.
+"014"	Sono contenta che tu abbia	accettato, {Player nickname (green)}.{pause 10} Non mi	piacciono gli sprechi, {catchphrase}.
+"015"	{emote: Sheepishness}Ihihih. Era un regalo di {0005-0003-0000}.{pause 10}	Tu non dirglielo, mi raccomando!{pause 10}	{emote: Disagreement}Non mi piaceva per niente.
 == 4 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Soft Smile}
-"003"	{emote: Soft Smile}
-"004"	{emote: Disagreement}
-"005"	{emote: Shocked}
-"006"	Schließlich sind wir so gute Freunde.{pause 40}
-"007"	{emote: Soft Smile}
-"008"	{emote: Sigh}
-"009"	{emote: Soft Smile}
-"010"	{emote: Alarmed}
-"011"	{emote: Pride}
-"012"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"013"	Danke, dass du mir das abnimmst.{pause 20}
-"014"	Nett von dir, dass du es nimmst,{pause 8}
-"015"	{emote: Sheepishness}
+"001"	{emote: Soft Smile}Oh, {pause 8}{Player nickname (green)}. {pause 40}Ich habe endlich	das perfekte Geschenk für dich:{pause 40}	{Article(word-dependant)}{0011-0003-0002-0000}!
+"002"	{emote: Soft Smile}{capitalized}{Player nickname (green)}!{pause 20} Ich habe gefunden,	wonach du gesucht hast:{pause 40}	{einen/eine/ein} {0011-0003-0002-0000}!{Player can respond (0005):0005-0000-000a-0028}	Wie? Was?	Das wollte ich nicht!
+"003"	{emote: Soft Smile}Ich habe da etwas, das ich dir	geben möchte, {pause 8}{Player nickname (green)}:	{pause 40}{Article(word-dependant)}{0011-0003-0002-0000}.
+"004"	{emote: Disagreement}Für mich ist das nichts, {pause 8}aber für	dich ist {ein/eine/ein} {0011-0003-0002-0000}	doch genau richtig, {pause 8}oder?	{emote: Soft Smile}Notfalls wirfst du {ihn/sie/es} einfach weg,	wenn ich gegangen bin, {pause 8}damit du	meine Gefühle nicht verletzt.
+"005"	{emote: Shocked}Du hattest gesagt, dass du es willst!	{pause 40}Ähm{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Reset}Das warst doch du, {pause 8}oder?{pause 40}	Hmmm...	{emote: Mistaken}Dann muss ich mich vertan haben.{pause 40}	{emote: Reset}Aber umtauschen geht nicht, also{pause 8}.{pause 8}.{pause 8}.{pause 20}	Nimm es trotzdem, {pause 8}ja?{000a-0000-0006-0603-0700-cd00}
+"006"	Schließlich sind wir so gute Freunde.{pause 40}	{emote: Soft Smile}Du verdienst ein kleines Geschenk	dafür, dass du mich erträgst. {pause 20}{emote: Laughter}Haha!
+"007"	{emote: Soft Smile}Sei nicht schüchtern,{pause 8} {Player nickname (green)}.{pause 40}	Man kann sich doch auch mal was	schenken! {pause 20}Ist doch nichts dabei.
+"008"	{emote: Sigh}Du hältst immer zu mir, {pause 8}auch wenn	ich mal etwas schwierig bin.{pause 40}	{emote: Soft Smile}Vielen Dank dafür, {pause 8}{Player nickname (green)}.
+"009"	{emote: Soft Smile}Viel Spaß damit, {pause 8}{Player nickname (green)}.{pause 40}	Ich hoffe, du hast Freude daran,{pause 8}	{catchphrase}.
+"010"	{emote: Alarmed}Wie bitte?{pause 20} Ist das dein Ernst?	{Wait for input}{emote: Soft Smile}Dann behalte es eben als Belohnung	für deine schonungslose Ehrlichkeit!
+"011"	{emote: Pride}Das hier ist vermutlich das beste	Geschenk, das du je abgelehnt hast,{pause 8}	{catchphrase}!
+"012"	{0009-0001-0006-000d-000e-000f}
+"013"	Danke, dass du mir das abnimmst.{pause 20}	Ich habe einfach nichts, was auch	nur entfernt dazu passt.
+"014"	Nett von dir, dass du es nimmst,{pause 8}	{Player nickname (green)}!{pause 20} Ich wollte es nicht	einfach wegwerfen.
+"015"	{emote: Sheepishness}Hehe! {pause 20}Das habe ich von {0005-0003-0000}.{pause 40}	Aber verrate bitte nichts!{Wait for input}{emote: Disagreement}Es war einfach nicht nach	meinem Geschmack.

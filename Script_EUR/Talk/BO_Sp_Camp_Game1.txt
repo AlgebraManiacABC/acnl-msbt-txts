@@ -1,330 +1,330 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Glee}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Worry}
-"008"	{emote: Greetings}
-"009"	{emote: Sunny}
-"010"	{emote: Flourish}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Happiness}
-"013"	And the correct answer is{pause 8}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Happiness}
-"016"	And the correct answer is{pause 8}
-"017"	{emote: Reset}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	So you're going with the peach?{Wait for input}
-"020"	So you're going with the peach,	huh?{Wait for input}
-"021"	{0009-0000-0004-16-00-17-00}
-"022"	{emote: Joy}
-"023"	The correct answer is{pause 8}
-"024"	{emote: Reset}
-"025"	{0009-0000-0004-1a-00-1b-00}
-"026"	So you're going with the peach	then?{Wait for input}
-"027"	So you're going with the peach	then?{Wait for input}
-"028"	{0009-0000-0004-1d-00-1e-00}
-"029"	So you're going with the apple	then?{Wait for input}
-"030"	So you're going with the apple	then?{Wait for input}
-"031"	{emote: Anger}
-"032"	{0009-0000-0004-21-00-22-00}
-"033"	Peach, huh?{Wait for input}
-"034"	Well, the correct answer is{pause 8}
-"035"	{0009-0000-0004-24-00-25-00}
-"036"	The correct answer is{pause 8}
-"037"	Well, the correct answer is{pause 8}
-"038"	{emote: Happiness}
-"039"	{0009-0000-0004-28-00-29-00}
-"040"	The correct answer is{pause 8}
-"041"	The correct answer is{pause 8}
-"042"	{0009-0000-0004-2b-00-2c-00}
-"043"	The correct answer is{pause 8}
-"044"	The correct answer is{pause 8}
-"045"	{emote: Happiness}
-"046"	{0009-0000-0004-2f-00-30-00}
-"047"	{emote: Thought}
-"048"	The correct answer is{pause 8}
-"049"	{0009-0000-0004-32-00-33-00}
-"050"	{emote: Thought}
-"051"	The correct answer is{pause 8}
-"052"	{emote: Happiness}
-"053"	{0009-0006-0010-36-00-36-00-36-00-36-00-36-00-36-00-36-00-37-00}
-"054"	{emote: Thought}
-"055"	The correct answer is{pause 8}
-"056"	{0009-0006-0010-39-00-39-00-39-00-39-00-39-00-39-00-39-00-3a-00}
-"057"	{emote: Thought}
-"058"	The correct answer is{pause 8}
-"059"	{0009-0002-0008-04-00-05-00-05-00-05-00}
-"060"	
-"061"	{emote: Love}
-"062"	{emote: Worry}
-"063"	{emote: Happiness}
-"064"	{emote: Happiness}
-"065"	{emote: Happiness}
+"001"	{emote: Happiness}Hey, you!{pause 20} Wanna play a game?	It's called Guess What I Ate!{Wait for input}{emote: Glee}If you win, I'll let you buy my	{0011-0003-0002-0000}{pause 20} for next to	nothing!{Wait for input}{emote: Surprise}{0007-000a-0000}And!{pause 40} {emote: Happiness}If you get a perfect score,{pause 20}	I'll let you have it for free!{Wait for input}Of course, {pause 20}if you lose,{pause 20} then you'll	have to buy it at market price.{Wait for input}{0007-000d-0000}{emote: Curious}What do you think?{pause 20} Wanna try your	luck?!{Player can respond (0005):0008-0015-0002-0028}	Yeah, let's play!	Not right now!
+"002"	{emote: Worry}Oh,{pause 20} well, that's too bad,{pause 8}	{catchphrase}.
+"003"	{emote: Glee}That's amazing!{pause 20} I never thought	you'd win all 3 rounds!{Wait for input}{emote: Happiness}Well, like I promised,{pause 20} you can have 	my {0011-0003-0002-0000} for	free!
+"004"	{emote: Happiness}Since you guessed right twice,{pause 20} I'll	sell you my {0011-0003-0002-0000}	for {Blue}{Number (0x9)} Bells{Color Reset}!{Wait for input}{emote: Glee}That's a great deal, you know.
+"005"	{emote: Happiness}You guessed right twice!{Wait for input}That means I'll give you my	{0011-0003-0002-0000}{pause 20} for the nice	price of {Blue}{Number (0x9)} Bells{Color Reset}! 
+"006"	{emote: Happiness}You only got 1 round right,{pause 20} so	you have to buy my	{0011-0003-0002-0000}.	The price is {Blue}{Number (0x9)} Bells{Color Reset}!
+"007"	{emote: Worry}Sorry, but a deal's a deal.{pause 20} You have	to buy my {0011-0003-0002-0000}{pause 20}	for {Blue}{Number (0x9)} Bells {Color Reset}now.
+"008"	{emote: Greetings}Awesome!{pause 40} Do you know the rules?{Player can respond (0000):0009-0000-000a-0000}	Please explain!	I know them.
+"009"	{emote: Sunny}OK,{pause 20} here's how you play!{Wait for input}{emote: Reset}I'm gonna take a big bite out of an	apple or peach without letting you	see.	{emote: Happiness}Then you have to guess which one{pause 20}	I ate!{pause 20} Guess right, and that's 1 point	for you!	{emote: Glee}We'll play 3 times.{pause 20} If you get it	right 3 times,{pause 20} you can have the	{0011-0003-0002-0000} for free!
+"010"	{emote: Flourish}Great!{pause 20} Here we go!{Wait for input}{emote: Reset}Which one should I choose{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Mischief}OK. {pause 40}{0007-000c-0000}CHOMP!{Wait for input} {emote: Agreement}Munch munch munch{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}All right!{pause 20} Which one did I eat?{Player can respond (0000):000b-0000-000e-0000}	The peach!	The apple!
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Happiness}And the correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}the peach, just like you said!{Wait for input}{emote: Delight}Congratulations!{pause 20} You guessed	correctly!{pause 40}{emote: Happiness}{Wait for input} {emote: Sunny}OK,{pause 20} on to the next round!
+"013"	And the correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}the	apple!{Wait for input} {emote: Sadness}Aw, too bad!{pause 20} You guessed	wrong.	{emote: Happiness}But that was only the first round.{pause 20}	Don't get discouraged, 'cause we're	moving on to the next round!
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Happiness}And the correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}the apple, just like you said!{Wait for input}{emote: Delight}Congratulations!{pause 20} You guessed	correctly!{pause 40}{emote: Happiness}{Wait for input} {emote: Sunny}Awesome!{pause 20} Keep up the	good work!
+"016"	And the correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}the	peach!{Wait for input} {emote: Sadness}So sorry about that.{Wait for input}{emote: Happiness}But there's still 2 rounds left.{pause 20}	Don't give up!
+"017"	{emote: Reset}All right! Time for the second	round!{pause 20} Can you get 2 right in a	row?	{emote: Mischief}OK.{pause 40} {0007-000c-0000}CHOMP!{Wait for input} {emote: Agreement}Munch munch munch{pause 8}.{pause 8}.{pause 8}.{pause 40}	Which one did I eat this time?{Player can respond (0000):0012-0000-0015-0000}	The peach!	The apple, of course!
+"018"	{0009-0000-0004-0013-0014}
+"019"	So you're going with the peach?{Wait for input}	The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy}the peach,{pause 20}	just like you said!{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}Congrats again! {pause 20}You were right	twice in a row!
+"020"	So you're going with the peach,	huh?{Wait for input} {emote: Sadness}Aw, that's too bad!{pause 20} The right	answer is the apple!	{emote: Happiness}Well, maybe you'll get the next	round right!
+"021"	{0009-0000-0004-0016-0017}
+"022"	{emote: Joy}Yup!{pause 8} The apple is the right answer,	just like you said!{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}Congrats!{pause 20} That's 2 in a row!
+"023"	The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}the peach!{Wait for input}	{emote: Worry}Aw, that's too bad!{Wait for input}{emote: Sunny}All right, see if you can get it right	this time!
+"024"	{emote: Reset}Okeydokey!{pause 20} Time for the second	round.{pause 20} Can you get it right this	time?	{emote: Mischief}OK then!{pause 40} CHOMP!{pause 20} {emote: Agreement}Munch munch	munch{pause 8}.{pause 8}.{pause 8}.{pause 40} Which one did I eat this	time?{Player can respond (0000):0019-0000-001c-0000}	The peach!	The apple!
+"025"	{0009-0000-0004-001a-001b}
+"026"	So you're going with the peach	then?{Wait for input} The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy}the	peach, just like you said!{pause 40}{emote: Happiness}	{emote: Happiness}A huh huh huh!{pause 20} Congrats!{pause 20}	Let's see if you can get the next	one too!
+"027"	So you're going with the peach	then?{Wait for input} Aw, I'm sorry!{pause 20} The right	answer is actually the apple!
+"028"	{0009-0000-0004-001d-001e}
+"029"	So you're going with the apple	then?{Wait for input} The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy}the	apple, just like you said!{pause 40}{emote: Happiness}	{emote: Delight}Congrats!{pause 20} Now it's a competition!{pause 40}{emote: Happiness}
+"030"	So you're going with the apple	then?{Wait for input} Aw, I'm sorry!{pause 20} The right	answer is actually the peach!
+"031"	{emote: Anger}Now it's time for the third round!{pause 20}	Can you keep up your lucky streak?{Wait for input}{emote: Mischief}OK, {pause 40}here we go! {pause 20}{0007-000c-0000}CHOMP!{pause 40} {emote: Agreement}Munch	munch munch{pause 8}.{pause 8}.{pause 8}.{pause 40} Which did I eat	this time?{Player can respond (0000):0020-0000-0023-0000}	Peach!	Apple!
+"032"	{0009-0000-0004-0021-0022}
+"033"	Peach, huh?{Wait for input} Well, the correct	answer is{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Shocked} N{pause 20}-no way!{pause 20} It's the	peach!	{emote: Delight}Wow!{pause 20} That's amazing!{pause 20} You guessed	right every time!{pause 40}{emote: Happiness}
+"034"	Well, the correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Sadness}the	apple!{Wait for input} {emote: Distress}You almost got them all	right!{pause 20} {emote: Worry}You were so close!
+"035"	{0009-0000-0004-0024-0025}
+"036"	The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Joy}the apple!{pause 40}{emote: Happiness}{Wait for input}{emote: Delight}Yesss!{pause 20} You got them all right!{pause 20}	Congratulations, {pause 8}{catchphrase}!{pause 40}{emote: Happiness}
+"037"	Well, the correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Sadness}the	peach!{Wait for input} {emote: Distress}You almost got them all	right!{pause 20} {emote: Worry}You were so close!
+"038"	{emote: Happiness}Now it's time for the third round!{pause 20}	You've still got a chance at snagging	a deal!{Wait for input}{emote: Mischief}OK,{pause 40} here I go! {pause 20}{0007-000c-0000}CHOMP!{pause 40} {emote: Agreement}Munch	munch munch{pause 8}.{pause 8}.{pause 8}.{pause 40} Which one did I eat	this time?{Player can respond (0000):0027-0000-002a-0000}	Peach!	Apple!
+"039"	{0009-0000-0004-0028-0029}
+"040"	The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy}the peach!{pause 20}	Nice going!{pause 20} A huh huh huh!{pause 40}{emote: Happiness}
+"041"	The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}the apple.{pause 20}	{emote: Sadness}It looks like you only got the first	round right,{pause 8} {catchphrase}.
+"042"	{0009-0000-0004-002b-002c}
+"043"	The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy}the apple!{pause 20}	{emote: Delight}Nice going!{pause 20} You were right twice!{pause 40}{emote: Happiness}
+"044"	The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}the peach.{pause 20}	{emote: Sadness}That's too bad.{pause 20} Looks like you only	got the first round right.
+"045"	{emote: Happiness}Now it's time for the third round!{pause 20}	You've still got a chance at snagging	a deal!{Wait for input}{emote: Mischief}OK,{pause 40} here I go! {pause 20}{0007-000c-0000}CHOMP!{pause 40} {emote: Agreement}Munch	munch munch{pause 8}.{pause 8}.{pause 8}.{pause 40} So which one did I	eat this time?{Player can respond (0000):002e-0000-0031-0000}	Peach!	Apple!
+"046"	{0009-0000-0004-002f-0030}
+"047"	{emote: Thought}The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy}the peach!{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}Nice job!{pause 20} You got the last one right	too, so that's 2 wins for you total!
+"048"	The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}the apple!	{emote: Sadness}Aw, that's too bad.{pause 20} The only round	you won was the second one.
+"049"	{0009-0000-0004-0032-0033}
+"050"	{emote: Thought}And the correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy}the	apple!{pause 40} Way to go,{pause 8} {catchphrase}!{pause 40}{emote: Happiness}
+"051"	The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}the peach.{pause 20}	{emote: Sadness}That's too bad.{pause 20} Looks like you only	got the second round right.
+"052"	{emote: Happiness}It's time for the third and final	round!{pause 20} Let's see if you can turn	your luck around!	OK,{pause 20} ready?{pause 40} {emote: Mischief}Here I go! {pause 20}{0007-000c-0000}CHOMP!{pause 40}	{emote: Agreement}Munch munch munch{pause 8}.{pause 8}.{pause 8}.{pause 40} So which one	did I eat this time?{Player can respond (0000):0035-0000-0038-0000}	The peach!	The apple!
+"053"	{0009-0006-0010-0036-0036-0036-0036-0036-0036-0036-0037}
+"054"	{emote: Thought}The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy}the peach!{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}Nice!{pause 20} It would've been super sad if	you hadn't won a single round.
+"055"	The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}the apple.{pause 20}	{emote: Sadness}What a bummer!{pause 20} I can't believe you	didn't win a single round.
+"056"	{0009-0006-0010-0039-0039-0039-0039-0039-0039-0039-003a}
+"057"	{emote: Thought}The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy}the apple!{pause 20}	Yay, you won!{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}Nice!{pause 20} It would've been super sad if	you hadn't won a single round.
+"058"	The correct answer is{pause 8}.{pause 8}.{pause 8}.{pause 40}the peach.{pause 20}	{emote: Sadness}What a bummer!{pause 20} I can't believe you	didn't win a single round.
+"059"	{0009-0002-0008-0004-0005-0005-0005}
+"060"
+"061"	{emote: Love}Wow, {pause 20}I{pause 8} am SO full of fruit.{pause 40}	{emote: Happiness}We should do this again,{pause 8}	{catchphrase}.
+"062"	{emote: Worry}I'm stuffed!{pause 40} {emote: Happiness}You did pretty well.{pause 20}	Let's do this again,{pause 8} {catchphrase}!
+"063"	{emote: Happiness}A huh huh huh!{pause 20} I'm stuffed.{pause 20}	{emote: Glee}That was fun{pause 20} and tasty,	{pause 8}{catchphrase}!
+"064"	{emote: Happiness}Better luck{pause 20} next time!
+"065"	{emote: Happiness}That was fun!{pause 20} We should play again	sometime,{pause 8} {catchphrase}!
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Glee}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Worry}
-"008"	{emote: Greetings}
-"009"	{emote: Sunny}
-"010"	{emote: Flourish}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Happiness}
-"013"	Y la respuesta correcta es{pause 8}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Happiness}
-"016"	Y la respuesta correcta es{pause 8}
-"017"	{emote: Reset}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	¿El melocotón, dices?{Wait for input}
-"020"	Conque el melocotón, ¿eh?{Wait for input}
-"021"	{0009-0000-0004-16-00-17-00}
-"022"	{emote: Joy}
-"023"	La respuesta correcta es{pause 8}
-"024"	{emote: Reset}
-"025"	{0009-0000-0004-1a-00-1b-00}
-"026"	¿El melocotón?{Wait for input}
-"027"	¿Eliges el melocotón entonces?{Wait for input}
-"028"	{0009-0000-0004-1d-00-1e-00}
-"029"	¿Eliges la manzana entonces?{Wait for input}
-"030"	¿La manzana?{Wait for input}
-"031"	{emote: Anger}
-"032"	{0009-0000-0004-21-00-22-00}
-"033"	¿Eliges el melocotón?{Wait for input}
-"034"	Y la respuesta correcta es{pause 8}
-"035"	{0009-0000-0004-24-00-25-00}
-"036"	La respuesta correcta es{pause 8}
-"037"	Pues la respuesta correcta es{pause 8}
-"038"	{emote: Happiness}
-"039"	{0009-0000-0004-28-00-29-00}
-"040"	La respuesta correcta es{pause 8}
-"041"	La respuesta correcta es{pause 8}
-"042"	{0009-0000-0004-2b-00-2c-00}
-"043"	La respuesta correcta es{pause 8}
-"044"	La respuesta correcta es{pause 8}
-"045"	{emote: Happiness}
-"046"	{0009-0000-0004-2f-00-30-00}
-"047"	{emote: Thought}
-"048"	La respuesta correcta es{pause 8}
-"049"	{0009-0000-0004-32-00-33-00}
-"050"	{emote: Thought}
-"051"	La respuesta correcta es{pause 8}
-"052"	{emote: Happiness}
-"053"	{0009-0006-0010-36-00-36-00-36-00-36-00-36-00-36-00-36-00-37-00}
-"054"	{emote: Thought}
-"055"	La respuesta correcta es{pause 8}
-"056"	{0009-0006-0010-39-00-39-00-39-00-39-00-39-00-39-00-39-00-3a-00}
-"057"	{emote: Thought}
-"058"	La respuesta correcta es{pause 8}
-"059"	{0009-0002-0008-04-00-05-00-05-00-05-00}
-"060"	
-"061"	{emote: Love}
-"062"	{emote: Worry}
-"063"	{emote: Happiness}
-"064"	{emote: Happiness}
-"065"	{emote: Happiness}
+"001"	{emote: Happiness}¿Te apetece jugar a una cosa?	¡Se llama {Blue}Adivina qué he comido{Color Reset}!{Wait for input}{emote: Glee}Si ganas, te vendo mi	{0011-0003-0002-0000}	por una cantidad ridícula.{Wait for input}{emote: Surprise}{0007-000a-0000}¡Es más, {emote: Happiness}si lo haces perfecto	te l{o/a/} regalo!{Wait for input}Ahora, {pause 20}si pierdes{pause 20} tendrás que	pagar su precio normal.{Wait for input}{0007-000d-0000}{emote: Curious}¿Qué?{pause 20} ¿Te apetece probar?{Player can respond (0005):0008-0015-0002-0028}	¡A jugar!	Ahora no
+"002"	{emote: Worry}Vaya, qué pena,{pause 8} {catchphrase}.
+"003"	{emote: Glee}¡Madre mía!{pause 20} ¡Jamás pensé que	acertarías en las tres rondas!{Wait for input}{emote: Happiness}Lo prometido es deuda.{pause 20} ¡Te regalo	mi {0011-0003-0002-0000}!
+"004"	{emote: Happiness}Como has acertado dos veces,{pause 20}	te vendo mi {0011-0003-0002-0000}	por solo {Blue}{Number (0x9)} bayas{Color Reset}.{Wait for input}{emote: Glee}¡Te quejarás!
+"005"	{emote: Happiness}¡Has acertado dos de tres!{Wait for input}¡Eso te da derecho a pagar	{Blue}{Number (0x9)} bayas {Color Reset}de nada por	mi {0011-0003-0002-0000}{pause 20}!
+"006"	{emote: Happiness}Solo has acertado una vez,{pause 20} así que	te llevas mi {0011-0003-0002-0000}	por tan solo {Blue}{Number (0x9)} bayas{Color Reset}.
+"007"	{emote: Worry}Me temo que un trato es un trato.{pause 20}	Tendrás que pagar las {Blue}{Number (0x9)} bayas 	{Color Reset}que vale mi {0011-0003-0002-0000}.
+"008"	{emote: Greetings}¡Perfecto!{pause 40} ¿Te explico las reglas?{Player can respond (0000):0009-0000-000a-0000}	¡Por favor!	No hace falta
+"009"	{emote: Sunny}¡Muy bien,{pause 20} presta atención!{Wait for input}{emote: Reset}Primero, yo le doy un buen bocado	a una manzana o un melocotón sin	que me veas.	{emote: Happiness}Luego tú tienes que adivinar cuál	de las dos he mordido.{pause 20} ¡Si aciertas,	te llevas un punto!	{emote: Glee}Son tres rondas y si aciertas todas,{pause 20}	te llevas {el/la/} {0011-0003-0002-0000}	totalmente gratis.
+"010"	{emote: Flourish}¡Muy bien!{pause 20} ¡Adelante!{Wait for input}{emote: Reset}Veamos{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Mischief}¡ÑAM!{Wait for input} {emote: Agreement}Mmm, qué bien	sabe{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}¡Listo!{pause 20} ¿Cuál he mordido?{Player can respond (0000):000b-0000-000e-0000}	¡El melocotón!	¡La manzana!
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Happiness}Y la respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}¡el melocotón, efectivamente!{Wait for input}{emote: Delight}¡Enhorabuena!{pause 20} ¡Has acertado!{pause 40}{emote: Happiness}{Wait for input}	{emote: Sunny}¡Venga,{pause 20} vamos con la siguiente!
+"013"	Y la respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	¡la manzana!{Wait for input} {emote: Sadness}Vaya, qué pena.{pause 20}	Has fallado.	{emote: Happiness}Bueno, solo era la primera ronda,{pause 20}	no te preocupes. ¡Todavía quedan	dos más!
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Happiness}Y la respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}¡la manzana, muy bien!{Wait for input}{emote: Delight}¡Felicidades,{pause 20} has acertado!{pause 40}{emote: Happiness}{Wait for input}	{emote: Sunny}¡Sigue así!
+"016"	Y la respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	¡el melocotón!{Wait for input} {emote: Sadness}Lo siento,	has fallado.{Wait for input}{emote: Happiness}Pero todavía te quedan dos rondas.{pause 20}	¡No te rindas!
+"017"	{emote: Reset}¡Bien! ¡Vamos con la segunda ronda!{pause 20}	¿Crees que podrás acertar dos	seguidas?	{emote: Mischief}{0007-000c-0000}¡ÑAM!{Wait for input} {emote: Agreement}Ay, qué bien sabe{pause 8}.{pause 8}.{pause 8}.{pause 40}	¿Cuál he mordido ahora?{Player can respond (0000):0012-0000-0015-0000}	¡El melocotón!	¡Está claro, la manzana!
+"018"	{0009-0000-0004-0013-0014}
+"019"	¿El melocotón, dices?{Wait for input}	La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	¡{emote: Joy}el melocotón,{pause 20} muy bien!{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}¡Enhorabuena! {pause 20}¡Dos seguidas!
+"020"	Conque el melocotón, ¿eh?{Wait for input}	{emote: Sadness}¡Vaya, has fallado!{pause 20}{Wait for input}{emote: Happiness}Bueno, todavía te queda otra ronda.
+"021"	{0009-0000-0004-0016-0017}
+"022"	{emote: Joy}¡Correcto!{pause 8} ¡Era la manzana!{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}¡Enhorabuena!{pause 20} ¡Van dos seguidas!
+"023"	La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	¡el melocotón!{Wait for input} {emote: Worry}¡Qué pena!{Wait for input}{emote: Sunny}Venga, a ver si aciertas la tercera	ronda.
+"024"	{emote: Reset}¡Vale!{pause 20} Segunda ronda.{pause 20} A ver si	tienes más suerte esta vez.{Wait for input}{emote: Mischief}¡ÑAM!{pause 20} {emote: Agreement}Pero qué delicia{pause 8}.{pause 8}.{pause 8}.{pause 40}	¿Cuál he mordido ahora?{Player can respond (0000):0019-0000-001c-0000}	¡El melocotón!	¡La manzana!
+"025"	{0009-0000-0004-001a-001b}
+"026"	¿El melocotón?{Wait for input} La respuesta	correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Joy}¡Sí, el melocotón!{pause 40}{Wait for input}{emote: Happiness}¡Ju, ju, ju!{pause 20} ¡Felicidades!{pause 20} A ver si	eres capaz de acertar la siguiente.
+"027"	¿Eliges el melocotón entonces?{Wait for input}	Me temo que era la manzana.{pause 20}	¡Se siente!
+"028"	{0009-0000-0004-001d-001e}
+"029"	¿Eliges la manzana entonces?{Wait for input}	La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}¡la manzana, muy bien!{pause 40}{emote: Happiness}	{emote: Delight}¡Enhorabuena!{pause 20} ¡Parece que tu suerte	ha cambiado!{pause 40}{emote: Happiness}
+"030"	¿La manzana?{Wait for input} ¡Vaya, pues no!{pause 20}	Lo siento, era el melocotón.
+"031"	{emote: Anger}¡Vamos con la tercera y última	ronda!{pause 20} ¿Seguirás en racha?{Wait for input}{emote: Mischief}¡Allá va!{pause 20} {0007-000c-0000}¡ÑAM!{pause 40} {emote: Agreement}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 40}	¿Cuál he mordido?{Player can respond (0000):0020-0000-0023-0000}	¡El melocotón!	¡La manzana!
+"032"	{0009-0000-0004-0021-0022}
+"033"	¿Eliges el melocotón?{Wait for input} La respuesta	correcta es{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Shocked} ¡Sí señor!{pause 20} ¡Correcto!{Wait for input}{emote: Delight}¡Viva!{pause 20} ¡Has acertado las tres!{pause 20}	¡Sencillamente increíble!{pause 40}{emote: Happiness}
+"034"	Y la respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Sadness}¡la manzana!{Wait for input} {emote: Distress}Vaya, casi aciertas	las tres.{pause 20} {emote: Worry}¡Por qué poco!
+"035"	{0009-0000-0004-0024-0025}
+"036"	La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Joy}¡Síiiiii, la manzana!{pause 40}{emote: Happiness}{Wait for input}{emote: Delight}¡Toma ya!{pause 20} ¡Has acertado las tres	veces!{pause 20} ¡Felicidades, {pause 8}{catchphrase}!{pause 40}{emote: Happiness}
+"037"	Pues la respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Sadness}¡el melocotón!{Wait for input} {emote: Distress}¡Casi aciertas todas!{pause 20}	{emote: Worry}¡Qué poquito ha faltado!
+"038"	{emote: Happiness}¡Y llegamos a la tercera ronda!{pause 20}	Aún estás a tiempo de llevarte	un chollo.{Wait for input}{emote: Mischief}¡A ver! {pause 20}{0007-000c-0000}¡ÑAM!{pause 40} {emote: Agreement}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 40}	¿Cuál he mordido?{Player can respond (0000):0027-0000-002a-0000}	¡El melocotón!	¡La manzana!
+"039"	{0009-0000-0004-0028-0029}
+"040"	La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}¡el melocotón!{pause 20} ¡Muy bien!{emote: Happiness}
+"041"	La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	¡la manzana!{pause 20} {emote: Sadness}Vaya, parece que solo	has acertado la primera ronda.
+"042"	{0009-0000-0004-002b-002c}
+"043"	La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}¡la manzana, muy bien!{pause 20}	{emote: Delight}¡Bien hecho!{pause 20} ¡Has acertado dos!{pause 40}{emote: Happiness}
+"044"	La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	¡el melocotón!{pause 20} {emote: Sadness}Qué pena.{pause 20} Al final	solo has acertado la primera.
+"045"	{emote: Happiness}¡Y llegamos a la tercera ronda!{pause 20}	¡Aún estás a tiempo de llevarte	un chollo!{Wait for input}{emote: Mischief}¡Allá voy!{pause 20} {0007-000c-0000}¡ÑAM!{pause 40} {emote: Agreement}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 40}	¿Cuál crees que he mordido?{Player can respond (0000):002e-0000-0031-0000}	¡El melocotón!	¡La manzana!
+"046"	{0009-0000-0004-002f-0030}
+"047"	{emote: Thought}Y la respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}¡el melocotón, en efecto!{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}¡Buen trabajo!{pause 20} ¡Con este acierto,	llevas ya dos de tres!
+"048"	La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	¡la manzana! {emote: Sadness}Qué faena.{pause 20} Solo	has acertado la segunda ronda.
+"049"	{0009-0000-0004-0032-0033}
+"050"	{emote: Thought}Y la respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}¡la manzana!{pause 40} ¡Bien,{pause 8} {catchphrase}!{pause 40}{emote: Happiness}
+"051"	La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	¡el melocotón!{pause 20} {emote: Sadness}Una pena.{pause 20} Al final	solo has acertado la segunda.
+"052"	{emote: Happiness}¡Tercera y última ronda!{pause 20} ¡A ver si	eres capaz de cambiar tu suerte!{Wait for input}¿List{o/a}?{pause 40} {emote: Mischief}¡Allá vamos!{pause 20} {0007-000c-0000}¡ÑAM!{pause 40}	{emote: Agreement}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 40} ¿Y bien?	¿Qué he mordido?{Player can respond (0000):0035-0000-0038-0000}	¡El melocotón!	¡La manzana!
+"053"	{0009-0006-0010-0036-0036-0036-0036-0036-0036-0036-0037}
+"054"	{emote: Thought}La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}¡el melocotón!{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}¡Menos mal!{pause 20} Me habría dado mucha	pena si no hubieras acertado ni una.
+"055"	La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	¡la manzana!{pause 20} {emote: Sadness}Pues vaya,{pause 20}	no has dado ni una, tú.
+"056"	{0009-0006-0010-0039-0039-0039-0039-0039-0039-0039-003a}
+"057"	{emote: Thought}La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}¡la manzana!{pause 20} ¡Vivaaaaa!{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}¡Qué bien!{pause 20} Me preocupaba	que no acertaras ni una.
+"058"	La respuesta correcta es{pause 8}.{pause 8}.{pause 8}.{pause 40}	¡el melocotón!{pause 20} {emote: Sadness}Pfffff...{pause 20}	Al final has fallado las tres.
+"059"	{0009-0002-0008-0004-0005-0005-0005}
+"060"
+"061"	{emote: Love}Bufff, {pause 20}me he puesto hasta arriba	de fruta.{pause 40} {emote: Happiness}Cuando quieras, volvemos	a jugar,{pause 8} {catchphrase}.
+"062"	{emote: Worry}¡Estoy llenísimo!{pause 40} {emote: Happiness}No lo has hecho	nada mal.{pause 20} ¡Cuando quieras jugamos	de nuevo,{pause 8} {catchphrase}!
+"063"	{emote: Happiness}¡Ju, ju, ju!{pause 20} ¡Menudo empacho!{pause 20}	{emote: Glee}¡Qué juego tan divertido!{pause 20}	¡Y sabroso!
+"064"	{emote: Happiness}¡Más suerte la próxima vez!
+"065"	{emote: Happiness}¡Qué divertido!{pause 20} ¡Deberíamos	repetirlo,{pause 8} {catchphrase}!
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Glee}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Worry}
-"008"	{emote: Greetings}
-"009"	{emote: Sunny}
-"010"	{emote: Flourish}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Happiness}
-"013"	Et la bonne réponse était{pause 8}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Happiness}
-"016"	Et la bonne réponse était{pause 8}
-"017"	{emote: Reset}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	La pêche, tu dis ?{Wait for input}
-"020"	La pêche, tu dis ?{Wait for input}
-"021"	{0009-0000-0004-16-00-17-00}
-"022"	{emote: Joy}
-"023"	Et la bonne réponse était{pause 8}
-"024"	{emote: Reset}
-"025"	{0009-0000-0004-1a-00-1b-00}
-"026"	Alors comme ça, tu penses que	c'était la pêche ?{Wait for input}
-"027"	La pêche, tu dis ?{Wait for input}
-"028"	{0009-0000-0004-1d-00-1e-00}
-"029"	Alors comme ça, tu penses que	c'était la pomme ?{Wait for input}
-"030"	Donc tu penses que j'ai croqué dans	la pomme ?{Wait for input}
-"031"	{emote: Anger}
-"032"	{0009-0000-0004-21-00-22-00}
-"033"	La pêche ? Tu es {000e-0006-0012-06-00-73-00-fffffffb-00-72-00-08-00-73-00-fffffffb-00-72-00-65-00} ?{Wait for input}!
-"034"	C'est ton dernier mot ?{pause 20}
-"035"	{0009-0000-0004-24-00-25-00}
-"036"	La pomme ? Tu es {000e-0006-0012-06-00-73-00-fffffffb-00-72-00-08-00-73-00-fffffffb-00-72-00-65-00} ?{Wait for input}!
-"037"	C'est ton dernier mot ?{pause 20}
-"038"	{emote: Happiness}
-"039"	{0009-0000-0004-28-00-29-00}
-"040"	Roulement de tambour... Sache qu'il	fallait répondre{pause 8}
-"041"	Et il fallait répondre{pause 8}!
-"042"	{0009-0000-0004-2b-00-2c-00}
-"043"	Et la bonne réponse était{pause 8}
-"044"	Et la bonne réponse était{pause 8}
-"045"	{emote: Happiness}
-"046"	{0009-0000-0004-2f-00-30-00}
-"047"	Roulement de tambour... Sache qu'il	fallait répondre{pause 8}
-"048"	Et il fallait répondre{pause 8}!
-"049"	{0009-0000-0004-32-00-33-00}
-"050"	Et la bonne réponse était{pause 8}
-"051"	Et la bonne réponse était{pause 8}
-"052"	{emote: Happiness}
-"053"	{0009-0006-0010-36-00-36-00-36-00-36-00-36-00-36-00-36-00-37-00}
-"054"	{emote: Thought}
-"055"	Et la bonne réponse était{pause 8}
-"056"	{0009-0006-0010-39-00-39-00-39-00-39-00-39-00-39-00-39-00-3a-00}
-"057"	{emote: Thought}
-"058"	Et la bonne réponse était{pause 8}
-"059"	{0009-0002-0008-04-00-05-00-05-00-05-00}
-"060"	
-"061"	{emote: Love}
-"062"	{emote: Worry}
-"063"	{emote: Happiness}
-"064"	{emote: Happiness}
-"065"	{emote: Happiness}
+"001"	{emote: Happiness}Hé, toi !{pause 20} Tu veux jouer à un jeu ?	Ça s'appelle « devine dans quoi	j'ai croqué ! »{Wait for input}{emote: Glee}Si tu gagnes, je te céderai {mon petit/ma petite/}	{0011-0003-0002-0000} pour	presque rien !{Wait for input}{emote: Surprise}{0007-000a-0000}Mais ce n'est pas tout !{pause 40} {emote: Happiness}Si tu réussis	le grand chelem,{pause 20} je te {le/la/} cèderai	gratuitement !{Wait for input}Et bien sûr, {pause 20}si tu perds,{pause 20} tu ne	pourras me l'acheter qu'au prix	du marché.{Wait for input}{0007-000d-0000}{emote: Curious}Qu'est-ce que tu en dis ?{pause 20} Tu as	envie de tenter ta chance ?!{Player can respond (0005):0008-0015-0002-0028}	Un peu que j'ai envie !	Non, pas maintenant.
+"002"	{emote: Worry}Oh, tant pis.{pause 20} C'est dommage,{pause 8}	{catchphrase}...
+"003"	{emote: Glee}Incroyable !{pause 20} J'aurais jamais cru que	tu puisses remporter les trois	manches !{Wait for input}{emote: Happiness}Je n'ai qu'une parole,{pause 20} et comme	promis,{pause 20} tu repars avec {Article(word-dependant)}	{0011-0003-0002-0000} en cadeau !
+"004"	{emote: Happiness}Puisque tu as deviné deux fois{pause 8}.{pause 8}.{pause 8}.{Wait for input}{pause 8}.{pause 8}.{pause 8}. tu peux avoir {mon petit/ma petite/}	{0011-0003-0002-0000} pour	{Blue}{Number (0x9)} clochettes{Color Reset} !{Wait for input}{emote: Glee}Tu fais là une affaire en or,	tu sais ?!
+"005"	{emote: Happiness}Deux points pour toi ! Tu as donc	droit à une réduc...{Wait for input}... et d'acquérir {ce petit/cette petite/}	{0011-0003-0002-0000}{pause 20} pour	seulement {Blue}{Number (0x9)} clochettes{Color Reset} !
+"006"	{emote: Happiness}Tu n'as deviné qu'une seule fois,{pause 20}	alors tu n'as pas le choix.{Wait for input}Ça sera {Blue}{Number (0x9)} clochettes{Color Reset} pour	{ce joli/cette jolie/} {0011-0003-0002-0000}.
+"007"	{emote: Worry}Désolé, mais le jeu, c'est le jeu.{pause 20}{Wait for input}Tu dois maintenant me donner	{Blue}{Number (0x9)} clochettes{Color Reset} pour {mon petit/ma petite/}	{0011-0003-0002-0000}{pause 20}.
+"008"	{emote: Greetings}Super !{pause 40} Tu connais les règles ?{Player can respond (0000):0009-0000-000a-0000}	Non, explique-moi !	Je les connais.
+"009"	{emote: Sunny}OK,{pause 20} je t'explique les règles !{Wait for input}{emote: Reset}Sans que tu puisses me voir, je vais	croquer un grand coup dans une	pomme ou une pêche.	{emote: Happiness}Et ensuite, à toi de deviner dans	laquelle j'ai croqué !{pause 20} Si tu trouves,	ça fera un point pour toi !	{emote: Glee}On jouera en trois manches.{pause 20} Si tu	remportes les trois,{pause 20} tu gagneras	{Article(word-dependant)}{0011-0003-0002-0000} !
+"010"	{emote: Flourish}Ha ha !{pause 20} C'est parti !{Wait for input}{emote: Reset}Dans laquelle vais-je croquer{pause 8}.{pause 8}.{pause 8}.{pause 20}?	{emote: Mischief}Je sais...{pause 40}{0007-000c-0000} Gnap !{Wait for input} {emote: Agreement}Nom nom nom{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}C'est bon !{pause 20} Alors, c'était laquelle ?{Player can respond (0000):000b-0000-000e-0000}	La pêche !	La pomme !
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Happiness}Et la bonne réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}la pêche ! Dans le mille !{Wait for input}{emote: Delight}Félicitations !{pause 20} Un point pour toi !{pause 40}{emote: Happiness}{Wait for input}	{emote: Sunny}OK,{pause 20} on passe maintenant à la	manche suivante !
+"013"	Et la bonne réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40} la	pomme !{Wait for input} {emote: Sadness}Quel dommage !{Wait for input}{emote: Happiness}Mais ne te décourage pas, tout n'est	pas perdu ! Il te reste encore deux	manches !
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Happiness}Et la bonne réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}la pomme !{Wait for input}{emote: Delight}Bravo !{pause 20} Tu as deviné !{pause 40}{emote: Happiness}	{emote: Sunny}Continue comme ça !
+"016"	Et la bonne réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40} la	pêche !{Wait for input} {emote: Sadness}Désolé{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Happiness}Mais ne désespère pas, il te reste	encore deux manches.{pause 20} Tout est	encore possible !
+"017"	{emote: Reset}C'est parti pour la deuxième	manche !{pause 20} Est-ce que tu devineras	encore une fois ?	{emote: Mischief}Hé hé{pause 8}.{pause 8}.{pause 8}.{pause 40} {0007-000c-0000}Gnap !{Wait for input} {emote: Agreement}Nom nom nom{pause 8}.{pause 8}.{pause 8}.{pause 40}	À toi de jouer ! Qu'est-ce que j'ai	mangé ?{Player can respond (0000):0012-0000-0015-0000}	La pêche !	La pomme, bien sûr !
+"018"	{0009-0000-0004-0013-0014}
+"019"	La pêche, tu dis ?{Wait for input} Et la bonne	réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la pêche !{pause 20} Tu as	encore trouvé !{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}Félicitations ! Tu es bien {parti/partie}	pour réaliser le grand chelem !
+"020"	La pêche, tu dis ?{Wait for input} {emote: Sadness}Quel dommage !{pause 20}	Il fallait répondre : la pomme !{Wait for input}{emote: Happiness}Pour l'instant, tu en es à une	victoire et une défaite !{pause 20} Tout va se	jouer lors de la prochaine manche !
+"021"	{0009-0000-0004-0016-0017}
+"022"	{emote: Joy}Comme tu l'as si bien dit,{pause 8} c'était	bien évidemment la pomme !{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}Félicitations !{pause 20} Ça fait deux points	pour toi !
+"023"	Et la bonne réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40} la	pêche !{Wait for input} {emote: Worry}C'est vraiment dommage !{Wait for input}{emote: Sunny}On dirait bien que tout va se jouer	lors de la prochaine et dernière	manche !
+"024"	{emote: Reset}C'est parti !{pause 20} C'est l'heure de la	deuxième manche !{pause 20} Voyons voir si	tu t'en sortiras mieux cette fois-ci !	{emote: Mischief}Hé hé !{pause 40} Gnap !{pause 20} {emote: Agreement}Nom nom nom{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}Qu'est-ce que c'était, cette	fois-ci ?{Player can respond (0000):0019-0000-001c-0000}	La pêche !	La pomme !
+"025"	{0009-0000-0004-001a-001b}
+"026"	Alors comme ça, tu penses que	c'était la pêche ?{Wait for input} Eh bien{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} tu as	raison !{pause 40}{emote: Happiness}	{emote: Happiness}Hé hé hé !{pause 20} Félicitations !{pause 20}	Voyons voir si tu peux remporter	deux manches d'affilée !
+"027"	La pêche, tu dis ?{Wait for input}{emote: Sadness} Désolé, {pause 20}mais	c'est encore une mauvaise réponse...
+"028"	{0009-0000-0004-001d-001e}
+"029"	Alors comme ça, tu penses que	c'était la pomme ?{Wait for input} Eh bien{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} tu as	vu juste, c'était bien la pomme !{pause 40}{emote: Happiness}	{emote: Delight}Félicitations !{pause 20} La dernière manche	promet d'être intéressante !{pause 40}{emote: Happiness}
+"030"	Donc tu penses que j'ai croqué dans	la pomme ?{Wait for input}{emote: Sadness} Désolé, mais tu as	encore faux...
+"031"	{emote: Anger}Place désormais à la dernière	manche !{pause 20} Parviendras-tu à faire un	sans-faute ?	{emote: Mischief}C'est parti ! {pause 20}{0007-000c-0000}Gnap !{pause 40} {emote: Agreement}Nom nom nom{pause 8}.{pause 8}.{pause 8}.{pause 40}	Hé hé{pause 8}.{pause 8}.{pause 8}. À ton tour, je t'écoute !{Player can respond (0000):0020-0000-0023-0000}	C'était la pêche !	C'était la pomme !
+"032"	{0009-0000-0004-0021-0022}
+"033"	La pêche ? Tu es {sûr/sûre} ?{Wait for input} Eh bien, il	fallait répondre{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Shocked} l{pause 20}-la pêche !{pause 20}	Comment t'as fait ?!	{emote: Delight}Incroyable !{pause 20} Tu as eu tout bon à	chaque fois ! Toutes mes	félicitations !{pause 40}{emote: Happiness}
+"034"	C'est ton dernier mot ?{pause 20} Et la bonne	réponse était{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Sadness} la pomme !{Wait for input}{emote: Worry}Quel dommage, tu étais à ça de	réaliser le grand chelem !
+"035"	{0009-0000-0004-0024-0025}
+"036"	La pomme ? Tu es {sûr/sûre} ?{Wait for input} Eh bien, il	fallait répondre{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Shocked} l{pause 20}-la pomme !{pause 20}	Comment t'as fait ?!	{emote: Delight}Incroyable !{pause 20} Tu as réussi à deviner	juste à chaque fois ! Toutes mes	félicitations !{pause 40}{emote: Happiness}
+"037"	C'est ton dernier mot ?{pause 20} Et la bonne	réponse était{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Sadness} la pêche !{Wait for input}{emote: Worry}Quel dommage, tu étais à ça de	réaliser le grand chelem !
+"038"	{emote: Happiness}Il est temps de passer à la dernière	manche !{pause 20} Tu as encore la possibilité	de faire une bonne affaire !{Wait for input}{emote: Mischief}C'est parti ! {pause 20}{0007-000c-0000}Gnap !{pause 40} {emote: Agreement}Nom nom nom{pause 8}.{pause 8}.{pause 8}.{pause 40}	OK, je t'écoute maintenant !{Player can respond (0000):0027-0000-002a-0000}	Et je te dis : la pêche !	Et je te dis : la pomme !
+"039"	{0009-0000-0004-0028-0029}
+"040"	Roulement de tambour... Sache qu'il	fallait répondre{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la pêche !{pause 20}	Bien joué !{pause 20} Ha ha ha !{pause 40}{emote: Happiness}
+"041"	Et il fallait répondre{pause 8}.{pause 8}.{pause 8}.{pause 40} la pomme.{pause 20}	{emote: Sadness}Ça ne te fait qu'un point en tout	et pour tout,{pause 8} {catchphrase}.
+"042"	{0009-0000-0004-002b-002c}
+"043"	Et la bonne réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la	pomme !{pause 20} {emote: Delight}Bien joué !{pause 20} Ça te fait un	total de deux points !{pause 40}{emote: Happiness}
+"044"	Et la bonne réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40} la	pêche.{pause 20} {emote: Sadness}C'est dommage{pause 8}.{pause 8}.{pause 8}. Tu t'en	sors avec un seul petit point.
+"045"	{emote: Happiness}Il est temps de passer à la dernière	manche !{pause 20} Tu as encore la possibilité	de faire une bonne affaire !{Wait for input}{emote: Mischief}C'est parti ! {pause 20}{0007-000c-0000}Gnap !{pause 40} {emote: Agreement}Nom nom nom{pause 8}.{pause 8}.{pause 8}.{pause 40}	OK, je t'écoute maintenant !{Player can respond (0000):002e-0000-0031-0000}	Et je te dis : la pêche !	Et je te dis : la pomme !
+"046"	{0009-0000-0004-002f-0030}
+"047"	Roulement de tambour... Sache qu'il	fallait répondre{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la pêche !{pause 20}	Bien joué !{pause 20} Ha ha ha !{pause 40}{emote: Happiness}
+"048"	Et il fallait répondre{pause 8}.{pause 8}.{pause 8}.{pause 40} la pomme.{pause 20}	{emote: Sadness}Ça ne te fait qu'un point en tout	et pour tout,{pause 8} {catchphrase}.
+"049"	{0009-0000-0004-0032-0033}
+"050"	Et la bonne réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la	pomme !{pause 20} {emote: Delight}Bien joué !{pause 20} Ça te fait un	total de deux points !{pause 40}{emote: Happiness}
+"051"	Et la bonne réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40} la	pêche.{pause 20} {emote: Sadness}C'est dommage{pause 8}.{pause 8}.{pause 8}. Tu t'en	sors avec un seul petit point.
+"052"	{emote: Happiness}Place à la dernière manche !{pause 20} Voyons	voir si tu vas parvenir à sauver	l'honneur !	Tu es {prêt/prête} ?{pause 40} {emote: Mischief}C'est parti ! {pause 20}{0007-000c-0000}Gnap !{pause 40}	{emote: Agreement}Nom nom nom{pause 8}.{pause 8}.{pause 8}.{pause 40} Alors, qu'est-ce	que c'était, cette fois-ci ?{Player can respond (0000):0035-0000-0038-0000}	La pêche !	La pomme !
+"053"	{0009-0006-0010-0036-0036-0036-0036-0036-0036-0036-0037}
+"054"	{emote: Thought}Et la bonne réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la	pêche !{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}Une victoire, enfin !{pause 40}{emote: Laughter} J'aurais pas su	comment te consoler si tu avais	perdu toutes les manches !
+"055"	Et la bonne réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40} la	pomme.{pause 20} {emote: Sadness}Comme c'est triste !{pause 20} T'as	même pas pu marquer un point !
+"056"	{0009-0006-0010-0039-0039-0039-0039-0039-0039-0039-003a}
+"057"	{emote: Thought}Et la bonne réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la	pomme !{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}Une victoire, enfin !{pause 40}{emote: Laughter} J'aurais pas su	comment te consoler si tu avais	perdu chaque manche !
+"058"	Et la bonne réponse était{pause 8}.{pause 8}.{pause 8}.{pause 40} la	pêche.{pause 20} {emote: Sadness}Comme c'est triste !{pause 20} T'as	même pas pu marquer un point !
+"059"	{0009-0002-0008-0004-0005-0005-0005}
+"060"
+"061"	{emote: Love}Pfiou, {pause 20}je m'en suis mis plein la	panse !{pause 40} {emote: Happiness}Il faudra qu'on remette ça	à l'occasion, {pause 8}{catchphrase} !
+"062"	{emote: Worry}Je crois que j'ai trop mangé !{pause 40} {emote: Happiness}Mais	c'était quand même une belle	partie,{pause 8} {catchphrase} !
+"063"	{emote: Happiness}Ha ha !{pause 20} Je ne peux plus rien avaler !{pause 20}	{emote: Glee}C'était à la fois nourrissant et{pause 20} super	amusant, {pause 8}{catchphrase} !
+"064"	{emote: Happiness}La prochaine fois sera la bonne !
+"065"	{emote: Happiness}C'était super amusant !{pause 20} Il faudra	qu'on remette ça un de ces quatre,	{pause 8}{catchphrase} !
 == 3 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Glee}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Worry}
-"008"	{emote: Sunny}
-"009"	{emote: Sunny}
-"010"	{emote: Flourish}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Happiness}
-"013"	Eee la risposta giusta è{pause 8}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Happiness}
-"016"	Eee la risposta giusta è{pause 8}
-"017"	{emote: Reset}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	Quindi dici la pesca, eh?{Wait for input}
-"020"	Quindi dici la pesca, eh?{Wait for input}
-"021"	{0009-0000-0004-16-00-17-00}
-"022"	{emote: Joy}
-"023"	La risposta esatta è{pause 8}
-"024"	{emote: Reset}
-"025"	{0009-0000-0004-1a-00-1b-00}
-"026"	La pesca, dici...{Wait for input}
-"027"	La pesca, dici...{Wait for input}
-"028"	{0009-0000-0004-1d-00-1e-00}
-"029"	La mela, dici...{Wait for input}!
-"030"	La mela, dici...{Wait for input}!
-"031"	{emote: Anger}
-"032"	{0009-0000-0004-21-00-22-00}
-"033"	La pesca... Sicur{000e-0006-0008-02-00-6f-00-02-00-61-00}?{Wait for input}
-"034"	La risposta giusta è{pause 8}
-"035"	{0009-0000-0004-24-00-25-00}
-"036"	La risposta esatta è{pause 8}
-"037"	La risposta giusta è{pause 8}
-"038"	{emote: Happiness}
-"039"	{0009-0000-0004-28-00-29-00}
-"040"	La risposta esatta è{pause 8}
-"041"	La risposta esatta è{pause 8}
-"042"	{0009-0000-0004-2b-00-2c-00}
-"043"	La risposta esatta è{pause 8}
-"044"	La risposta esatta è{pause 8}
-"045"	{emote: Happiness}
-"046"	{0009-0000-0004-2f-00-30-00}
-"047"	{emote: Thought}
-"048"	La risposta giusta è{pause 8}
-"049"	{0009-0000-0004-32-00-33-00}
-"050"	{emote: Thought}
-"051"	La risposta esatta è{pause 8}
-"052"	{emote: Happiness}
-"053"	{0009-0006-0010-36-00-36-00-36-00-36-00-36-00-36-00-36-00-37-00}
-"054"	{emote: Thought}
-"055"	La risposta giusta è{pause 8}
-"056"	{0009-0006-0010-39-00-39-00-39-00-39-00-39-00-39-00-39-00-3a-00}
-"057"	{emote: Thought}
-"058"	La risposta corretta è{pause 8}!
-"059"	{0009-0002-0008-04-00-05-00-05-00-05-00}
-"060"	
-"061"	{emote: Love}
-"062"	{emote: Worry}
-"063"	{emote: Happiness}
-"064"	{emote: Happiness}
-"065"	{emote: Happiness}
+"001"	{emote: Happiness}Ciao!{pause 20} Vuoi fare un gioco? Si chiama	{Blue}indovina cosa ho mangiato{Color Reset}!{Wait for input}{emote: Glee}Se vinci, ti vendo {il mio/la mia/}	{0011-0003-0002-0000}	a un prezzo ridicolo!{Wait for input}{emote: Surprise}{0007-000a-0000}Anzi...{pause 40} {emote: Happiness}se indovini tutte le risposte,	te l{o/a/} do gratis!{Wait for input}Ovviamente, se perdi dovrai	comprarl{o/a/} a prezzo di mercato.{Wait for input}{0007-000d-0000}{emote: Curious}Che ne dici?{pause 20} Vuoi sfidare la sorte?{Player can respond (0005):0008-0015-0002-0028}	Certo, giochiamo!	Ora no.
+"002"	{emote: Worry}Oh! Peccato,{pause 8} {catchphrase}.
+"003"	{emote: Glee}Caspitina, non avrei mai detto	che avresti indovinato tre volte	su tre!{Wait for input}{emote: Happiness}Come promesso,{pause 20} puoi prenderti	{il mio/la mia/} {0011-0003-0002-0000}	senza sganciare una stellina!
+"004"	{emote: Happiness}Se non sbaglio hai indovinato	due volte...{Wait for input}Allora ti vendo {il mio/la mia/}	{0011-0003-0002-0000}	per {Blue}{Number (0x9)} {stelline/stellina/stelline}{Color Reset}.	{emote: Glee}È un bell'affare per te, no?
+"005"	{emote: Happiness}Brav{o/a}! Hai indovinato due volte!{Wait for input}Quindi ti vendo {il mio/la mia/}	{0011-0003-0002-0000}{pause 20}	per {Blue}{Number (0x9)} {Blue}{stelline/stellina/stelline}{Blue}{Color Reset}!
+"006"	{emote: Happiness}Hai indovinato solo una volta.{Wait for input}Ora devi comprare {il mio/la mia/}	{0011-0003-0002-0000}	per {Blue}{Number (0x9)} {Blue}{stelline/stellina/stelline}{Blue}{Color Reset}.
+"007"	{emote: Worry}I patti sono patti.{pause 20} Dammi	{Blue}{Number (0x9)} {Blue}{stelline/stellina/stelline}{Blue}{Color Reset} e ti darò	{il mio/la mia/} {0011-0003-0002-0000}.
+"008"	{emote: Sunny}Evviva!{pause 40} Conosci le regole?{Player can respond (0000):0009-0000-000a-0000}	No, me le dici?	Le so a memoria.
+"009"	{emote: Sunny}OK,{pause 20} ecco come si gioca.{Wait for input}{emote: Reset}Darò un morso a una mela o	a una pesca senza farmi vedere...{Wait for input}{emote: Happiness}... e tu devi dirmi quale frutto	ho morsicato!{pause 20} Ogni risposta	esatta è un punto per te!	{emote: Glee}Facciamo tre manche.{pause 20} Se indovini	tutte e tre le risposte, ti regalo	{il mio/la mia/} {0011-0003-0002-0000}!
+"010"	{emote: Flourish}Iniziamo!{Wait for input}{emote: Reset}Vediamo, mi mangio, mi mangio{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Mischief}OK, {pause 40}{0007-000c-0000}CHOMP!{Wait for input} {emote: Agreement}Chew chomp chew{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}Ora dimmi:{pause 20} cosa ho mangiato?{Player can respond (0000):000b-0000-000e-0000}	La pesca!	La mela!
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Happiness}E la risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Joy}la pesca.	Indovinato!{Wait for input}{emote: Delight}Bravissim{o/a}!{pause 40}{emote: Happiness}{Wait for input} {emote: Sunny}Andiamo	con il prossimo turno!
+"013"	Eee la risposta giusta è{pause 8}.{pause 8}.{pause 8}.{pause 40} la mela!{Wait for input}	{emote: Sadness}Caspitina!{pause 20} Non hai indovinato.{Wait for input}{emote: Happiness}Ma non scoraggiarti, era solo	la prima manche.{pause 20} Andiamo	con la prossima!
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Happiness}Eee la risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la mela.	Indovinato!{Wait for input}{emote: Delight}Bravissim{o/a}!{pause 40}{emote: Happiness}{Wait for input} {emote: Sunny}Bene.{pause 20} Continua così!
+"016"	Eee la risposta giusta è{pause 8}.{pause 8}.{pause 8}.{pause 40} la pesca!{Wait for input}	{emote: Sadness}Mi spiace per te.{Wait for input}{emote: Happiness}Ma era solo la prima manche.	{pause 20}Andiamo con la prossima!
+"017"	{emote: Reset}Riesci a indovinare anche stavolta?	{emote: Mischief}OK,{pause 40} {0007-000c-0000}CHOMP!{Wait for input} {emote: Agreement}Chew chomp chew{pause 8}.{pause 8}.{pause 8}.{pause 40}	Che ho mangiato ora?{Player can respond (0000):0012-0000-0015-0000}	La pesca!	Di sicuro la mela!
+"018"	{0009-0000-0004-0013-0014}
+"019"	Quindi dici la pesca, eh?{Wait for input}	La risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Joy}la pesca!{pause 20}	Evvai!{pause 40}{emote: Happiness} Ci hai preso anche stavolta!
+"020"	Quindi dici la pesca, eh?{Wait for input} {emote: Sadness}Peccato!{pause 20}	La risposta giusta era: la mela.{Wait for input}{emote: Happiness}Hai ancora una possibilità,	non demordere!
+"021"	{0009-0000-0004-0016-0017}
+"022"	{emote: Joy}Esatto!{pause 8} La risposta giusta era:	la mela!{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}Bravissim{o/a}!{pause 20} Hai indovinato di nuovo!
+"023"	La risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 40} la pesca!{Wait for input}	{emote: Worry}Che peccato!{Wait for input}{emote: Sunny}Tranquill{o/a}, hai ancora un'ultima	possibilità!
+"024"	{emote: Reset}Riuscirai a indovinare stavolta???	{emote: Mischief}OK, partiamo!{pause 40} CHOMP!{pause 20} {emote: Agreement}Chew	chomp chew{pause 8}.{pause 8}.{pause 8}.{pause 40} Cosa ho mangiato?{Player can respond (0000):0019-0000-001c-0000}	La pesca!	La mela!
+"025"	{0009-0000-0004-001a-001b}
+"026"	La pesca, dici...{Wait for input} La risposta esatta	è{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la pesca! Indovinato!{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}Mitico! Vediamo come va	l'ultima manche.
+"027"	La pesca, dici...{Wait for input} No, mi spiace!{pause 20}	Ho mangiato la mela!
+"028"	{0009-0000-0004-001d-001e}
+"029"	La mela, dici...{Wait for input} La risposta esatta	è{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la mela! Indovinato!{pause 40}{emote: Happiness}	{emote: Delight}Caspitina, che gara!{pause 40}{emote: Happiness}
+"030"	La mela, dici...{Wait for input} No, mi spiace!{pause 20}	Ho mangiato la pesca!
+"031"	{emote: Anger}Vediamo se la fortuna	è sempre dalla tua parte!{pause 20}	Pront{o/a} per l'ultima manche?{Wait for input}{emote: Mischief}OK, {pause 40}partiamo! {pause 20}{0007-000c-0000}CHOMP!{pause 40} Chew	chomp chew{pause 8}.{pause 8}.{pause 8}.{pause 40} Cosa ho mangiato?{Player can respond (0000):0020-0000-0023-0000}	La pesca!	La mela!
+"032"	{0009-0000-0004-0021-0022}
+"033"	La pesca... Sicur{o/a}?{Wait for input} La risposta	esatta è{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Shocked} la pesca! Come hai fatto?{Wait for input}{emote: Delight}Hai indovinato tutto quello che	potevi indovinare! Bravissim{o/a}!{pause 40}{emote: Happiness}
+"034"	La risposta giusta è{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Sadness} la mela!{Wait for input}	{emote: Distress}Peccato, avresti potuto indovinarle	tutte e tre!{pause 20} {emote: Worry}Mi spiace...
+"035"	{0009-0000-0004-0024-0025}
+"036"	La risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Joy} la mela!{pause 40}{emote: Happiness}{Wait for input}{emote: Delight}Sì!{pause 20} Le hai indovinate tutte!{pause 20}	Complimentoni, {pause 8}{catchphrase}!{pause 40}{emote: Happiness}
+"037"	La risposta giusta è{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Sadness} la pesca!{Wait for input} 	{emote: Distress}Caspitina, avresti potuto indovinarle	tutte e tre!{pause 20} {emote: Worry}Mi spiace...
+"038"	{emote: Happiness}Pront{o/a} per l'ultima manche?{pause 20}	Se indovini questa, farai	comunque un affare!	{emote: Mischief}OK,{pause 40} via! {pause 20}{0007-000c-0000}CHOMP!{pause 40} {emote: Agreement}Chew chomp	chew{pause 8}.{pause 8}.{pause 8}.{pause 40} Cosa ho mangiato stavolta?{Player can respond (0000):0027-0000-002a-0000}	La pesca!	La mela!
+"039"	{0009-0000-0004-0028-0029}
+"040"	La risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la pesca!{pause 20}	Bene così!{pause 20}{emote: Happiness}
+"041"	La risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 40} la mela.{pause 20}	{emote: Sadness}Peccato, ne hai indovinata solo	una,{pause 8} {catchphrase}.
+"042"	{0009-0000-0004-002b-002c}
+"043"	La risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la mela!{pause 20}	Bene così! Ne hai indovinate due!{pause 20}{emote: Happiness}
+"044"	La risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 40} la mela.{pause 20}	{emote: Sadness}Peccato.{pause 20} Ne hai indovinata solo una.
+"045"	{emote: Happiness}Andiamo con la terza manche!{pause 20}	Questa è la tua ultima possibilità	per ottenere un affare!{Wait for input}{emote: Mischief}OK,{pause 40} via! {pause 20}{0007-000c-0000}CHOMP!{pause 40} {emote: Agreement}Chew chomp	chew{pause 8}.{pause 8}.{pause 8}.{pause 40} Cosa ho mangiato stavolta?{Player can respond (0000):002e-0000-0031-0000}	La pesca!	La mela!
+"046"	{0009-0000-0004-002f-0030}
+"047"	{emote: Thought}La risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la pesca!{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}Hai indovinato! Quindi sono due	giuste e una sbagliata. Non male.
+"048"	La risposta giusta è{pause 8}.{pause 8}.{pause 8}.{pause 40} la mela!	{emote: Sadness}Che peccato. Ne hai indovinata	solo una!
+"049"	{0009-0000-0004-0032-0033}
+"050"	{emote: Thought}La risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la mela!{pause 20}	Bene così, {pause 8}{catchphrase}!{pause 20}{emote: Happiness}
+"051"	La risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 40} la pesca.{pause 20}	{emote: Sadness}Caspitina, ne hai indovinata	solo una.
+"052"	{emote: Happiness}È il momento dell'ultima manche!	{pause 20}Vediamo se la fortuna si ricorda	di te oppure no!	OK,{pause 20} pront{o/a}?{pause 40} {emote: Mischief}Via! {pause 20}{0007-000c-0000}CHOMP!{pause 40}	{emote: Agreement}Chew chomp chew{pause 8}.{pause 8}.{pause 8}.{pause 40} Allora,	cosa ho mangiato adesso?{Player can respond (0000):0035-0000-0038-0000}	La pesca!	La mela!
+"053"	{0009-0006-0010-0036-0036-0036-0036-0036-0036-0036-0037}
+"054"	{emote: Thought}La risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la pesca!{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}Mitico!{pause 20} Sarebbe stato triste se non	ne avessi indovinata nemmeno una.
+"055"	La risposta giusta è{pause 8}.{pause 8}.{pause 8}.{pause 40} la mela.{pause 20}	{emote: Sadness}Che disdetta!{pause 20} Le hai sbagliate tutte!
+"056"	{0009-0006-0010-0039-0039-0039-0039-0039-0039-0039-003a}
+"057"	{emote: Thought}La risposta esatta è{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} la mela!{pause 20}	Ehi, hai indovinato!{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}Sarebbe stato tristissimo se non	ne avessi indovinata nemmeno una.
+"058"	La risposta corretta è{pause 8}.{pause 8}.{pause 8}.{pause 40} la pesca.{pause 20}	{emote: Sadness}Che disdetta!{pause 20} Incredibile: non ne hai	indovinata nemmeno una!
+"059"	{0009-0002-0008-0004-0005-0005-0005}
+"060"
+"061"	{emote: Love}Ho mangiato tantissimo!{pause 40}	{emote: Happiness}Dovremmo rifarlo,{pause 8} {catchphrase}!
+"062"	{emote: Worry}Sono pieno zeppo!{pause 40} {emote: Happiness}Non ti è andata	male.{pause 20} Dobbiamo rifarlo prima o poi,	{pause 8}{catchphrase}!
+"063"	{emote: Happiness}Mitico!{pause 20} Sto scoppiando!{pause 20}	{emote: Glee}Questo gioco è divertente	e gustoso, {pause 8}{catchphrase}!
+"064"	{emote: Happiness}Dai, la prossima volta andrà meglio!
+"065"	{emote: Happiness}Mi sono divertito! Dovremmo	rifarlo prima o poi,{pause 8} {catchphrase}!
 == 4 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Glee}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Pride}
-"008"	{emote: Greetings}
-"009"	{emote: Sunny}
-"010"	{emote: Flourish}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Happiness}
-"013"	Und die richtige Antwort ist{pause 8}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Happiness}
-"016"	Die richtige Antwort ist{pause 8}
-"017"	{emote: Reset}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	Du sagst Pfirsich?{Wait for input}
-"020"	Du sagst Pfirsich?{Wait for input}
-"021"	{0009-0000-0004-16-00-17-00}
-"022"	{emote: Joy}
-"023"	Die richtige Antwort ist{pause 8}
-"024"	{emote: Reset}
-"025"	{0009-0000-0004-1a-00-1b-00}
-"026"	Willst du wirklich Pfirsich sagen?{Wait for input}
-"027"	Du sagst also Pfirsich?{Wait for input}
-"028"	{0009-0000-0004-1d-00-1e-00}
-"029"	Du sagst Apfel?{Wait for input}
-"030"	Du glaubst, es war ein Apfel?{Wait for input}
-"031"	{emote: Anger}
-"032"	{0009-0000-0004-21-00-22-00}
-"033"	Den Pfirsich?{pause 20}
-"034"	Die richtige Antwort ist{pause 8}
-"035"	{0009-0000-0004-24-00-25-00}
-"036"	Die richtige Antwort ist{pause 8}
-"037"	Die richtige Antwort ist{pause 8}
-"038"	{emote: Happiness}
-"039"	{0009-0000-0004-28-00-29-00}
-"040"	Die richtige Antwort ist{pause 8}
-"041"	Die richtige Antwort ist{pause 8}
-"042"	{0009-0000-0004-2b-00-2c-00}
-"043"	Die richtige Antwort ist{pause 8}
-"044"	Die richtige Antwort ist{pause 8}
-"045"	{emote: Happiness}
-"046"	{0009-0000-0004-2f-00-30-00}
-"047"	{emote: Thought}
-"048"	Die richtige Antwort,{pause 8}
-"049"	{0009-0000-0004-32-00-33-00}
-"050"	{emote: Thought}
-"051"	Die richtige Antwort ist{pause 8}
-"052"	{emote: Happiness}
-"053"	{0009-0006-0010-36-00-36-00-36-00-36-00-36-00-36-00-36-00-37-00}
-"054"	{emote: Thought}
-"055"	Die richtige Antwort ist{pause 8}
-"056"	{0009-0006-0010-39-00-39-00-39-00-39-00-39-00-39-00-39-00-3a-00}
-"057"	{emote: Thought}
-"058"	Die richtige Antwort lautet{pause 8}
-"059"	{0009-0002-0008-04-00-05-00-05-00-05-00}
-"060"	
-"061"	{emote: Love}
-"062"	{emote: Worry}
-"063"	{emote: Happiness}
-"064"	{emote: Happiness}
-"065"	{emote: Happiness}
+"001"	{emote: Happiness}He, du!{pause 20} Wollen wir was spielen?{pause 40}	Ich kenn ein tolles Spiel, das heißt{pause 20}	{Blue}Was hab ich verputzt?{Color Reset}	{emote: Glee}Wenn du gewinnst, gehört {mein/meine/mein}	{0011-0003-0002-0000} dir.{Wait for input}{emote: Bashful}Nun ja, ein paar Sternis musst du	schon dafür hinlegen.{pause 20} Aber wirklich	ganz wenige, ein echter Spottpreis!	{emote: Surprise}{0007-000a-0000}Und wenn du beim Spiel keinen	einzigen Fehler machst, dann	bekommst du {ihn/sie/es} sogar umsonst!	{emote: Glare}Wenn du verlierst, musst du	allerdings den normalen Preis	dafür zahlen...	{0007-000d-0000}{emote: Curious}Na,{pause 8} was hältst du davon?{pause 20}	Spielen wir?{Player can respond (0005):0008-0015-0002-0028}	Ja, gerne!	Jetzt nicht.
+"002"	{emote: Worry}Oh,{pause 20} das ist aber schade,{pause 8}	{catchphrase}.
+"003"	{emote: Glee}Das ist ja spitze!{pause 20} Ich hätte	nie gedacht, dass du so gut	abschneidest!	{emote: Happiness}Alle drei Runden zu gewinnen,	das ist schon eine Leistung.{Wait for input}Wie versprochen gehört {mein/meine/mein}	{0011-0003-0002-0000} jetzt dir!{pause 20}	Und das ganz umsonst!{pause 20} Wahnsinn!
+"004"	{emote: Happiness}Du hast zweimal richtig geraten,	also mach ich dir wie versprochen	einen Freundschaftspreis.	Für nur {Blue}{Number (0x9)} {Sternis/Sterni/Sternis}{Color Reset} gehört {mein/meine/mein}	{0011-0003-0002-0000} dir!
+"005"	{emote: Happiness}Du hast zweimal richtig geraten!{Wait for input}{Mein/Meine/Mein} {0011-0003-0002-0000} geht	also für nur {Blue}{Number (0x9)} {Sternis/Sterni/Sternis}{Color Reset} an dich!
+"006"	{emote: Happiness}Du hast nur einmal richtig geraten!{Wait for input}Also kostet dich {mein/meine/mein}	{0011-0003-0002-0000}	{Blue}{Number (0x9)} {Sternis/Sterni/Sternis}{Color Reset}.
+"007"	{emote: Pride}Tja,{pause 8} abgemacht ist abgemacht.{pause 20}	{Mein/Meine/Mein} {0011-0003-0002-0000}	kostet dich {Blue}{Number (0x9)} {Sternis/Sterni/Sternis}{Color Reset}!
+"008"	{emote: Greetings}Toll!{pause 40} Kennst du die Regeln schon?{Player can respond (0000):0009-0000-000a-0000}	Erklär mal!	Ja, kenne ich.
+"009"	{emote: Sunny}Also, pass auf.{pause 20} Man spielt das so...{Wait for input}{emote: Reset}Ich beiße mal kräftig in einen	Apfel oder einen Pfirsich, während	du gerade wegguckst.	{emote: Happiness}Und dann musst du raten, was	ich gegessen habe!{pause 20} Wenn du richtig-	liegst, bekommst du 'nen Punkt.	{emote: Glee}Es gibt drei Runden, und wenn du	alle drei Male richtig rätst, gehört	{000e-0001-0000}{0011-0003-0002-0000} dir!
+"010"	{emote: Flourish}Dann los!{pause 20} Mach dich bereit!{Wait for input}{emote: Reset}Was beknabbere ich denn{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Mischief}Oh, ja!{pause 40}{0007-000c-0000} MAMPF!{Wait for input} {emote: Agreement}Knusper,{pause 8}	schlürf,{pause 8} mjam{pause 8}.{pause 8}.{pause 8}.	Also gut!{pause 20} Was hab ich eben	angebissen?{Player can respond (0000):000b-0000-000e-0000}	Den Pfirsich!	Den Apfel!
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Happiness}Und die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}Ich hab den Pfirsich angebissen!{pause 20}	{emote: Delight}Genau, wie du gesagt hast!	{emote: Sunny}Gut,{pause 20} dann kommt jetzt die nächste	Runde!
+"013"	Und die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40}	Ich hab den Apfel angebissen!{pause 40}	{emote: Sadness}Oh, wie schade...	{emote: Happiness}Aber das war sowieso nur der erste	Versuch, da ist es nicht so schlimm.{pause 20}	Auf in die nächste Runde!
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Happiness}Und die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}Der Apfel war's!{pause 20} {Text size 75%}Mmmh, lecker!{Text size 100%}{pause 20}	Genau, wie du's geraten hast.	{emote: Delight}Herzlichen Glückwunsch!{pause 40}{emote: Happiness}{emote: Sunny}	Weiter so!
+"016"	Die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40}	PFIRSICH!{Wait for input}{emote: Sadness}Tut mir leid, da lagst du daneben.{pause 20}	{emote: Happiness}Aber du hast ja noch zwei Versuche.{pause 20}	Nicht aufgeben!
+"017"	{emote: Reset}Zweiter Versuch!{pause 20} Ob du zweimal	hintereinander richtig rätst?{Wait for input}{emote: Mischief}Los geht's!{pause 40} {0007-000c-0000}Mampf!{pause 20} Mampf{pause 8}.{pause 8}.{pause 8}.{pause 8}	mümmel.{pause 8}.{pause 8}.{pause 8} sabber{pause 8}.{pause 8}.{pause 8}.{Wait for input}Na,{pause 8} was hab ich diesmal verputzt?{Player can respond (0000):0012-0000-0015-0000}	Den Pfirsich!	Den Apfel natürlich!
+"018"	{0009-0000-0004-0013-0014}
+"019"	Du sagst Pfirsich?{Wait for input}	Die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy} Pfirsich!{pause 20}	Du hast richtig geraten!	{emote: Happiness}Gut gemacht!{pause 20} Jetzt hast du zweimal	hintereinander richtig geraten!{pause 20}	Du bist ja echt ein Profi!
+"020"	Du sagst Pfirsich?{Wait for input} {emote: Sadness}Schade,{pause 8} denn	ich hab den Apfel angeknabbert!{pause 40}	{emote: Happiness}Vielleicht hast du gleich mehr Glück.
+"021"	{0009-0000-0004-0016-0017}
+"022"	{emote: Joy}Genau!{pause 20} Der Apfel war's,{pause 8}	den hab ich angebissen!{Wait for input}{emote: Happiness}Jetzt lagst du schon zweimal	hintereinander richtig!{pause 20} Sehr gut!
+"023"	Die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40}	Pfirsich!{pause 40}{emote: Worry} Schade.{pause 20}	{emote: Sunny}Aber du darfst ja noch mal!
+"024"	{emote: Reset}So!{pause 20} Dann kommt jetzt die zweite	Runde.{pause 20} Konzentrierst du dich auch	schön?	{emote: Mischief}Sehr gut!{pause 40} KNIRSCH!{pause 20} {emote: Agreement}Mampf!{pause 20}	Sabber!{pause 20} Schleck.{pause 20} Mjam{pause 8}.{pause 8}.{pause 8}.{Wait for input}Und, was hab ich diesmal verputzt?{Player can respond (0000):0019-0000-001c-0000}	Den Pfirsich!	Den Apfel!
+"025"	{0009-0000-0004-001a-001b}
+"026"	Willst du wirklich Pfirsich sagen?{Wait for input}	Die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40}	Trommelwirbel!{pause 40} {emote: Joy}Pfirsich!	{emote: Happiness}Äh, he he he!{pause 20} Gut gemacht.{pause 20}	Mal gucken, ob du das noch	mal schaffst!
+"027"	Du sagst also Pfirsich?{Wait for input}	{emote: Worry}Tut mir leid, es war der Apfel.{pause 20}	Ein ganz saftiger noch dazu!
+"028"	{0009-0000-0004-001d-001e}
+"029"	Du sagst Apfel?{Wait for input} Richtig ist{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}Apfel!{pause 40}{emote: Delight} Gut gemacht!{pause 20} Siehst	du, es geht doch bergauf!{emote: Happiness}
+"030"	Du glaubst, es war ein Apfel?{Wait for input}	{emote: Worry}Oh, schade!{pause 20} Ich hab den Pfirsich	angeknabbert.
+"031"	{emote: Anger}Jetzt kommt die dritte Runde!{pause 20}	Ob dein Glück anhält?{pause 20}	{emote: Mischief}Gucken wir doch mal!	{0007-000c-0000}MAMPF!{pause 20} Mjam.{pause 40} 	{emote: Agreement}Knusper,{pause 20} knusper,{pause 20} knusper.{pause 20}	{Text size 75%}Rülps.{Text size 100%}	Was hab ich diesmal verputzt?{Player can respond (0000):0020-0000-0023-0000}	Den Pfirsich!	Den Apfel!
+"032"	{0009-0000-0004-0021-0022}
+"033"	Den Pfirsich?{pause 20} Meinst du echt?{Wait for input}	Es war{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Delight} der Pfirsich!{pause 20}	{emote: Shocked}BOAH!{pause 20} Du bist ja echt total gut!	{emote: Happiness}Du hast alles richtig geraten!
+"034"	Die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Sadness}Apfel!{Wait for input} Schade!{pause 20} {emote: Soft Smile}Du warst so	nah dran!
+"035"	{0009-0000-0004-0024-0025}
+"036"	Die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Joy}Apfel!{pause 20}{emote: Delight} Jaaa!{pause 20} Du hast alles	richtig geraten!{pause 20} Toll, {pause 8}{catchphrase}!{emote: Happiness}
+"037"	Die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Sadness}Pfirsich!{Wait for input} {emote: Distress}Fast hättest du alle	richtig geraten!{pause 20} {emote: Worry}Das war so knapp!
+"038"	{emote: Happiness}Zeit für die dritte Runde!{pause 20}	Jetzt hast du noch die Chance	auf ein echtes Schnäppchen!	{emote: Mischief}Los geht's!{pause 20} {0007-000c-0000}MAMPF!{pause 40}	{emote: Agreement}Knirsch,{pause 20} knirsch,{pause 20} mjam.{Wait for input}Na,{pause 8} was hab ich diesmal verputzt?{Player can respond (0000):0027-0000-002a-0000}	Den Pfirsich!	Den Apfel!
+"039"	{0009-0000-0004-0028-0029}
+"040"	Die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy}	Pfirsich!{pause 20} Gut gemacht!{pause 20}	Äh, he he he!{emote: Happiness}
+"041"	Die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40}	Den Apfel!{pause 20} {emote: Sadness}Schade,{pause 8} du hast nur in	der ersten Runde richtig geraten.
+"042"	{0009-0000-0004-002b-002c}
+"043"	Die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy}	Den Apfel!{pause 20} {emote: Delight}Gut gemacht!{pause 20}	Zwei Richtige!{emote: Happiness}
+"044"	Die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40}	Pfirsich!{pause 20} {emote: Sadness}Oh, schade.{pause 20} Dann hast du	nur beim ersten Mal richtig geraten.
+"045"	{emote: Happiness}Zeit für die dritte Runde!{pause 20}	Noch kannst du ein Schnäppchen	ergattern, wenn du richtig rätst.	{emote: Mischief}Los geht's!{pause 40} {0007-000c-0000}Mampf!{pause 40}	{emote: Agreement}Mjam,{pause 8} mjam,{pause 8} mjam,{pause 8} mjam.{pause 30}	Schlürf.	So,{pause 8} was hab ich diesmal verputzt?{Player can respond (0000):002e-0000-0031-0000}	Den Pfirsich!	Den Apfel!
+"046"	{0009-0000-0004-002f-0030}
+"047"	{emote: Thought}Richtig wäre gewesen{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Joy}	Den Pfirsich!{Wait for input}{emote: Happiness}Gut gemacht!{pause 20} Das davor war auch	schon richtig, damit hast du jetzt	also zwei Richtige.
+"048"	Die richtige Antwort,{pause 8} meine sehr	verehrten Damen und Herren,{pause 8} ist{pause 8}.{pause 8}.{pause 8}.{pause 40}	Apfel!	{emote: Sadness}Schade!{pause 20} Nur in der zweiten Runde	hast du richtig geraten.{emote: Worry}
+"049"	{0009-0000-0004-0032-0033}
+"050"	{emote: Thought}Und die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}Apfel!{pause 40} Toll,{pause 8} {catchphrase}!{emote: Happiness}
+"051"	Die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40} Pfirsich!{pause 20}	{emote: Sadness}Schade.{pause 20} Nur einmal hast du richtig	geraten, und zwar beim zweiten Mal.
+"052"	{emote: Happiness}Zeit für die letzte Runde!{pause 20}	Vielleicht hast du diesmal Glück!{pause 40}	Fertig?	{emote: Mischief}Los geht's! {pause 20}{0007-000c-0000}SCHLURP!{pause 40}	{emote: Agreement}Mampf,{pause 20} mampf,{pause 20} mampf,{pause 20}	knirsch{pause 8}.{pause 8}.{pause 8}.{Wait for input}Was hab ich diesmal verputzt?{Player can respond (0000):0035-0000-0038-0000}	Den Pfirsich!	Den Apfel!
+"053"	{0009-0006-0010-0036-0036-0036-0036-0036-0036-0036-0037}
+"054"	{emote: Thought}Die richtige Antwort lautet{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}Den Pfirsich!{Wait for input}{emote: Happiness}Toll!{pause 20} Das wäre auch total traurig	gewesen, wenn du kein einziges	Mal richtig geraten hättest!
+"055"	Die richtige Antwort ist{pause 8}.{pause 8}.{pause 8}.{pause 40}	Den Apfel.{pause 20}{emote: Sadness} Wie schade!{pause 20}	Du hast ja gar nichts erraten.{emote: Worry}
+"056"	{0009-0006-0010-0039-0039-0039-0039-0039-0039-0039-003a}
+"057"	{emote: Thought}Die richtige Antwort lautet{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Joy}Den Apfel!{pause 20} Du hast richtig geraten!{Wait for input}{emote: Happiness}Toll!{pause 20} Das wäre doch jetzt echt	schade gewesen, wenn du immer	falsch geraten hättest.
+"058"	Die richtige Antwort lautet{pause 8}.{pause 8}.{pause 8}.{pause 40}	Den Pfirsich.{pause 20} {emote: Sadness}Oje,{pause 8} wie schade!{pause 20}	Du hattest alle falsch!
+"059"	{0009-0002-0008-0004-0005-0005-0005}
+"060"
+"061"	{emote: Love}Mmmh,{pause 8} jetzt bin ich ganz schön	vollgefressen!{pause 20} Ich mag dieses Spiel.{Wait for input}{emote: Happiness}Das spielen wir mal wieder, ja?{pause 20}	Äh, he he he,{pause 8} {catchphrase}.
+"062"	{emote: Worry}Puh, bin ich jetzt satt!{pause 40} {emote: Happiness}Aber es war	ein gutes Spiel.{pause 20} Das spielen wir mal	wieder, ja?
+"063"	{emote: Happiness}Äh, he he he!{pause 20} Bin ich jetzt aber	sattgefressen!{pause 20} {emote: Glee}Das hat Spaß	gemacht UND gut geschmeckt.	Das spielst du mal wieder mit	mir, stimmt's?{pause 20} Äh, he he he,	{pause 8}{catchphrase}!
+"064"	{emote: Happiness}Nächstes Mal hast du bestimmt	mehr Glück!
+"065"	{emote: Happiness}Das müssen wir unbedingt mal	wieder spielen,{pause 8} {catchphrase}!

@@ -1,14 +1,14 @@
 == 0 ==
-"001"	
-"002"	{emote: Glare}
-"003"	
-"004"	참참～{0007-0009-0004-14-00-00-00}
-"005"		{0007-000a-0000}
-"006"	{emote: Mistaken}
-"007"	{emote: Laughter}
-"008"	{emote: Sunny}
-"009"	{emote: Glare}
-"010"	그럼 결과는{pause 40}!
-"011"	이렇게 되면{pause 8}!
-"012"	최종 결과를 발표하겠다!{pause 40}
-"013"	최종 우승자는{pause 8}
+"001"
+"002"	{emote: Glare}헤헤헷!{pause 20}	빨리 하고 싶어서 온몸이 근질거린다ー!	{Wait <005a 0000> 'time'}	{emote: Happiness}자, 준비됐지?{pause 40}	내 「참참～참!」 구호에 맞춰서{pause 20}	마지막에  버튼을 누르도록 해!{Wait for input}{emote: Agreement}내가 너랑 같은 방향으로	고개를 돌리면{pause 8}	니가 이기는 거야!{pause 40} 간단하지?{Wait for input}{emote: Anger}기회는 딱 3번이다!{pause 40}	그럼 시작한다ー!
+"003"
+"004"	참참～{Wait <0014 0000> 'time'}
+"005"		{0007-000a-0000}{Text size 200%}참～!{Text size 100%}
+"006"	{emote: Mistaken}으헉ー! 이럴 수가!{pause 20}	같은 방향으로 고갤 돌렸어!
+"007"	{emote: Laughter}하하하!{pause 8} 아쉽겠다!{pause 20}	자, 그럼 다음 판 간다!{pause 20}{emote: Soft Smile}
+"008"	{emote: Sunny}나이스ー!{pause 20}	또 내가 이겼어!{Wait for input}{emote: Anger}자, 마지막 판이야!{pause 20}	시작ー!
+"009"	{emote: Glare}마지막 판도 나의 승리!
+"010"	그럼 결과는{pause 40}	{emote: Delight}너의 승리다ー!
+"011"	이렇게 되면{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sadness}쳇ー!{pause 20}	분하지만 니가 이겼어!
+"012"	최종 결과를 발표하겠다!{pause 40}	{emote: Showmanship}짜잔ー!{pause 20}	나의 승리야, {pause 8}{catchphrase}!
+"013"	최종 우승자는{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Showmanship}{Villager's name (orange)}!{pause 40}	내가 이겼다!

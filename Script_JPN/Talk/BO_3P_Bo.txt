@@ -1,65 +1,65 @@
 == 0 ==
-"001"	{000c-0001-0000}
-"002"	{000c-0000-0000}
-"003"	{emote: Star Yell}
-"004"	{emote: Star Yell}
-"005"	{000c-0000-0000}
-"006"	{000c-0000-0000}
-"007"	{000c-0001-0000}
-"008"	{000c-0000-0000}
-"009"	{000c-0000-0000}
-"010"	{000c-0000-0000}
-"011"	
-"012"	{000c-0001-0000}
-"013"	{000c-0000-0000}
-"014"	{000c-0000-0000}
-"015"	{000c-0000-0000}
-"016"	{000c-0000-0000}
-"017"	{000c-0000-0000}
-"018"	{000c-0000-0000}
-"019"	{000c-0000-0000}
-"020"	{000c-0001-0000}
-"021"	{000c-0000-0000}
-"022"	{000c-0000-0000}
-"023"	{000c-0000-0000}
-"024"	{000c-0000-0000}
-"025"	{000c-0000-0000}
-"026"	{000c-0000-0000}
-"027"	{000c-0002-0000}
-"028"	{0000-0002-0002-64-00}{000c-0000-0000}
-"029"	
-"030"	{0009-0001-0006-1f-00-29-00-33-00}
-"031"	{000c-0001-0000}
-"032"	{000c-0000-0000}
-"033"	{000c-0000-0000}
-"034"	{000c-0000-0000}
-"035"	{emote: Inspired}
-"036"	{000c-0000-0000}
-"037"	{emote: Inspired}
-"038"	{000c-0000-0000}
-"039"	{emote: Shocked}
-"040"	{000c-0000-0000}
-"041"	{000c-0001-0000}
-"042"	{000c-0000-0000}
-"043"	{000c-0000-0000}
-"044"	{000c-0000-0000}
-"045"	{emote: Inspired}
-"046"	{000c-0000-0000}
-"047"	{emote: Glee}
-"048"	{000c-0000-0000}
-"049"	{emote: Disbelief}
-"050"	{000c-0000-0000}
-"051"	{000c-0001-0000}
-"052"	{000c-0000-0000}
-"053"	{000c-0000-0000}
-"054"	{000c-0000-0000}
-"055"	{emote: Inspired}
-"056"	{000c-0000-0000}
-"057"	{emote: Inspired}
-"058"	{000c-0000-0000}
-"059"	{emote: Disbelief}
-"060"	{000c-0000-0000}
-"061"	{0009-0001-0006-3e-00-3f-00-40-00}
-"062"	な～んだ{pause 20}
-"063"	なぁ～んだ、{pause 20}!
-"064"	うぅ～ん、{pause 20}
+"001"	{000c-0001-0000}{000c-0004-0000}あっ！	{Player nickname (green)}{0005-000d-0000}だぁ～！{Wait for input}{emote: Happiness}ボクたち　いま、	やまびこの　{ruby (charSpan 1): はなし}話をしてたんだぁ～{Wait for input}いっしょに　やまびこ	れんしゅうしよぉ～{000c-0009-0000}
+"002"	{000c-0000-0000}{000c-0008-0000}{000c-0002-0000}{000c-0004-0000}そうだよぉ、いっしょにやろ～！{pause 20}	それじゃあ　いくよぉ～？{Wait for input}{emote: Star Yell}{pause 15}やっほぉ～！{pause 40}{emote: Soft Smile}{Player can respond (0001):0003-001f-0009-001f-0009-001f}	やっほぉ～	えっほぉ～	うっほっほ～
+"003"	{emote: Star Yell}{pause 15}おなか　すいたよぉ～！{pause 40}{emote: Soft Smile}{Player can respond (0001):0009-001f-0004-001f-0009-001f}	おなか　すかないなぁ～	おなか　すいたよぉ～	おなか　いたいよぉ～
+"004"	{emote: Star Yell}{pause 15}{ruby (charSpan 2): きょう}今日のごはんは、	{0005-0013-0002-0000}だよぉ{pause 40}{emote: Soft Smile}{000c-0009-0000}{Player can respond (0001):0005-001f-0009-001f-0009-001f}	{0005-0013-0002-0000}だよぉ	{0005-0013-0002-0001}だよぉ	{0005-0013-0002-0002}だよぉ
+"005"	{000c-0000-0000}{000c-0005-0000}{emote: Delight}わぁ～・・・	{ruby (charSpan 2): ふたり}二人ともすごいねぇ～！{000c-0009-0000}
+"006"	{000c-0000-0000}{000c-0007-0000}{emote: Sunny}やったぁ～{pause 20}	これで　こんどの　やまびこ{ruby (charSpan 2): たいかい}大会、{pause 20}	ゆうしょう　まちがいなしだよぉ～！{000c-0009-0000}
+"007"	{000c-0001-0000}{000c-0007-0000}{000c-0000-0000}{000c-0005-0000}{emote: Alarmed}{0007-000a-0000}あっ！{pause 20}	でも　{ruby (charSpan 2): たいかい}大会には　ボクたち{ruby (charSpan 2): ふたり}二人で	とうろく　しちゃったよ{pause 8}・{pause 8}・{pause 8}・{000c-0009-0000}
+"008"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{emote: Worry}それじゃあ　{Player nickname (green)}{0005-000d-0000}とは	{ruby (charSpan 2): しゅつじょう}出場できないのかぁ{pause 8}・{pause 8}・{pause 8}・{emote: Reset}{Wait for input}{000c-0002-0000}{000c-0003-0000}{Player nickname (green)}{0005-000d-0000}、	ボクら　みじかいコンビ	だったねぇ、{pause 8}{catchphrase}
+"009"	{000c-0000-0000}{000c-0007-0000}{emote: Worry}うぅ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Player nickname (green)}{0005-000d-0000}、	ちょっと　ちがうかもぉ{pause 8}・{pause 8}・{pause 8}・{000c-0009-0000}
+"010"	{000c-0000-0000}{000c-0005-0000}{emote: Resigned}うぅ～ん、{pause 20}	やまびこって	{ruby (charSpan 1): おも}思ったより　ムズかしいんだねぇ
+"011"
+"012"	{000c-0001-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}やっぱり　{ruby (charSpan 2): がいこく}外国には{pause 20}	ボクらの{ruby (charSpan 1): し}知らない	おいしい{ruby (charSpan 1): た}食べものが　あるのかなぁ～？{000c-0009-0000}
+"013"	{000c-0000-0000}{000c-0007-0000}そうかもねぇ～{pause 20}	りょこうに{ruby (charSpan 1): い}行って	{ruby (charSpan 1): た}食べ{ruby (charSpan 1): ある}歩き　してみたいなぁ～{Wait for input}{000c-0002-0000}{000c-0004-0000}{000c-0001-0000}{000c-0004-0000}ねぇねぇ～	{Player nickname (green)}{0005-000d-0000}は	どういうところに　{ruby (charSpan 1): い}行ってみたい～？{000c-0009-0000}{0008-0002-0010-000e-0000-0012-0000-0015-0000-0019-0000}	あったかい{ruby (charSpan 1): くに}国	さむい{ruby (charSpan 1): くに}国	ビルが{ruby (charSpan 1): おお}多い{ruby (charSpan 1): くに}国	{ruby (charSpan 2): しぜん}自然の{ruby (charSpan 1): おお}多い{ruby (charSpan 1): くに}国
+"014"	{000c-0000-0000}{000c-0005-0000}{emote: Joy}あったかい{ruby (charSpan 1): くに}国かぁ～	きっと　お{ruby (charSpan 1): ひ}日さま　いっぱいあびて、	フルーツがすっごい　{ruby (charSpan 1): おお}大きいんだよ！{000c-0009-0000}
+"015"	{000c-0000-0000}{000c-0007-0000}{emote: Thought}それって　{Player nickname (green)}{0005-000d-0000}の	{ruby (charSpan 1): あたま}頭くらいかなぁ？　{pause 8}{catchphrase}？{000c-0009-0000}
+"016"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0004-0000}{emote: Love}{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 20}	それは　おいしそうだねぇ、{pause 8}{catchphrase}{000c-0009-0000}
+"017"	{000c-0000-0000}{000c-0007-0000}{emote: Love}なんだか	{Player nickname (green)}{0005-000d-0000}が	フルーツに　{ruby (charSpan 1): み}見えてきちゃったぁ、{pause 8}{catchphrase}
+"018"	{000c-0000-0000}{000c-0005-0000}{emote: Joy}さむ～い{ruby (charSpan 1): くに}国は、{pause 20}	あったかい　お{ruby (charSpan 2): りょうり}料理で	おなかいっぱい　だよぉ～{000c-0009-0000}
+"019"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{emote: Thought}うぅ～ん　それじゃあ、	ダイエット{ruby (charSpan 1): ちゅう}中の　{0005-0003-0000}{0005-000d-0000}には	ナイショで　りょこうしなくちゃ、{pause 8}{catchphrase}{000c-0009-0000}
+"020"	{000c-0001-0000}{000c-0007-0000}{000c-0000-0000}{000c-0005-0000}{emote: Agreement}そうだねぇ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ボクたちって　やさしいねぇ～
+"021"	{000c-0000-0000}{000c-0005-0000}{000c-0002-0000}{000c-0005-0000}{emote: Agreement}そっか～{pause 20}	そういう{ruby (charSpan 1): くに}国に　きょうみが	あるんだねぇ？{Wait for input}{emote: Happiness}おっきいビルのまどは、	ゼリーで　できてるって	ウワサ　{ruby (charSpan 2): ほんとう}本当かなぁ？{000c-0009-0000}
+"022"	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0007-0000}{emote: Alarmed}わぁ～！	それ　テレビで{ruby (charSpan 1): み}見たことある～！{Wait for input}{emote: Love}{ruby (charSpan 1): よる}夜になると、	チョコレートのつつみ{ruby (charSpan 1): がみ}紙が	ピカピカ{ruby (charSpan 1): ひか}光ってるんだってぇ～{000c-0009-0000}
+"023"	{000c-0000-0000}{000c-0005-0000}{000c-0002-0000}{000c-0005-0000}{emote: Love}アレが　ぜんぶ	チョコレートかぁ～{Wait for input}ボク{pause 20}　{ruby (charSpan 1): たの}楽しみすぎて	きぜつしそうだよぉ～{000c-0009-0000}
+"024"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0003-0000}{pause 20}{emote: Resigned}{ruby (charSpan 1): かんが}考えただけで　きぜつしちゃうなんて、{pause 20}	ボクら　ほんものを{ruby (charSpan 1): み}見たら	どうなっちゃうんだろうねぇ{pause 8}・{pause 8}・{pause 8}・
+"025"	{000c-0000-0000}{000c-0005-0000}{emote: Glee}それいいねぇ～！{pause 40}	{ruby (charSpan 1): やま}山のさち！{pause 20}　{ruby (charSpan 1): うみ}海のさち！{pause 20}	きっと　{ruby (charSpan 1): た}食べほうだい　だよぉ～{000c-0009-0000}
+"026"	{000c-0000-0000}{000c-0007-0000}{emote: Thought}ボクは{ruby (charSpan 1): やま}山のさちを　とってきて、{Wait for input}	{0011-0001-0002-0000}くんは	{ruby (charSpan 1): うみ}海のさちを　とってくる	{000c-0002-0000}{000c-0005-0000}{emote: Curious}あれ？{pause 20}	{Player nickname (green)}{0005-000d-0000}はどうしよう？{000c-0009-0000}
+"027"	{000c-0002-0000}{000c-0005-0000}{000c-0001-0000}{000c-0007-0000}{000c-0000-0000}{000c-0005-0000}{pause 20}{emote: Thought}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): た}食べるだけ？{000c-0009-0000}
+"028"	{Text size 100%}{000c-0000-0000}{000c-0007-0000}{Text size 100%}{Text size 120%}{Text size 100%}{000c-0002-0000}{000c-0003-0000}{Text size 120%}{Text size 100%}{pause 20}{emote: Distress}{Text size 100%}{0007-000b-0000}{Text size 100%}そ、{pause 20}{Text size 100%}{0007-000b-0000}{Text size 100%}{Text size 100%}そんなの　{Text size 100%}{Text size 120%}{Text size 100%}ずるいよぉ～！{Text size 120%}{Text size 100%}
+"029"
+"030"	{0009-0001-0006-001f-0029-0033}
+"031"	{000c-0001-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{emote: Love}あぁ～{pause 20}	はやくてかっこいいよねぇ～、{pause 20}アレ{000c-0009-0000}
+"032"	{000c-0000-0000}{000c-0007-0000}{emote: Happiness}アレだねぇ～？{pause 20}	はやくて　{ruby (charSpan 1): おお}大きくて、	ピッカピカの{pause 8}・{pause 8}・{pause 8}・{000c-0009-0000}
+"033"	{000c-0000-0000}{000c-0005-0000}{emote: Agreement}うん、うん！{pause 20}	ボクいつか　アレを	うんてん　してみたいなぁ～{000c-0009-0000}
+"034"	{000c-0000-0000}{000c-0007-0000}{emote: Daydreaming}ボクも　アレにのって	{ruby (charSpan 1): いろ}色んなところに　{ruby (charSpan 1): い}行きたいなぁ～{Wait for input}{emote: Alarmed}ん？{pause 20}　こんなにすきなのに、	{ruby (charSpan 2): なまえ}名前をどわすれ　しちゃったよぉ～{emote: Reset}{pause 40}	{000c-0002-0000}{000c-0004-0000}{000c-0001-0000}{000c-0003-0000}{pause 20}{Player nickname (green)}{0005-000d-0000}わかるぅ～？{Player can respond (0001):0023-0000-0025-0000-0027-0000}	くるま？	{ruby (charSpan 2): れっしゃ}列車？	{ruby (charSpan 3): さんりんしゃ}三輪車？
+"035"	{emote: Inspired}そう！{pause 20}　くるまだぁ、{pause 8}{catchphrase}！{000c-0009-0000}
+"036"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0007-0000}えぇ～？{pause 20}	{emote: Worry}ボク　{ruby (charSpan 2): れっしゃ}列車の{ruby (charSpan 1): はなし}話だと{ruby (charSpan 1): おも}思ってたよぉ～{000c-0009-0000}
+"037"	{emote: Inspired}そうそう！{pause 20}	{ruby (charSpan 2): れっしゃ}列車だよぉ～！{000c-0009-0000}
+"038"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0007-0000}えぇ～？{pause 20}	{emote: Worry}ボク　てっきり	くるまの{ruby (charSpan 1): はなし}話をしてるんだと{ruby (charSpan 1): おも}思ってたぁ～{000c-0009-0000}
+"039"	{emote: Shocked}さんりんしゃ～？！{pause 40}	{emote: Laughter}{Player nickname (green)}{0005-000d-0000}　それはないよぉ～{000c-0009-0000}
+"040"	{000c-0000-0000}{000c-0005-0000}{emote: Laughter}そうだよ、{Player nickname (green)}{0005-000d-0000}{pause 20}	さんりんしゃなら　ボクらでも	のれるもんねぇ～
+"041"	{000c-0001-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{emote: Love}{ruby (charSpan 2): いっかい}一回　{ruby (charSpan 1): た}食べたら	やみつきだよねぇ～、{pause 20}アレ{000c-0009-0000}
+"042"	{000c-0000-0000}{000c-0007-0000}{emote: Happiness}えへへ～、アレだねぇ～！{pause 40}	あまくて　いいニオイもする{pause 8}・{pause 8}・{pause 8}・{000c-0009-0000}
+"043"	{000c-0000-0000}{000c-0005-0000}{emote: Mischief}アレってじつは　かくし{ruby (charSpan 1): あじ}味に	{0005-001a-0002-cd00}をつかってるんだってぇ～{000c-0009-0000}
+"044"	{000c-0000-0000}{000c-0007-0000}{emote: Alarmed}ホント～！{pause 20}	すごぉ～い！{Wait for input}{emote: Curious}あれぇ？	でも　それの{ruby (charSpan 2): なまえ}名前って	なんだっけ？{emote: Reset}{Wait for input}{000c-0002-0000}{000c-0004-0000}{000c-0001-0000}{000c-0003-0000}{pause 20}{Player nickname (green)}{0005-000d-0000}　わかる～？{emote: Thought}{pause 40}	れ、{pause 20}レ、{pause 20}レ～{pause 8}・{pause 8}・{pause 8}・{pause 8}？{Player can respond (0001):002d-0000-002f-0000-0031-0000}	レモンタルト？	レアチーズケーキ？	れいめん？
+"045"	{emote: Inspired}そう！{pause 20}	レモンタルト～！{pause 40}	{emote: Love}あぁ～　{ruby (charSpan 1): た}食べたいねぇ～{000c-0009-0000}
+"046"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0007-0000}えぇ～？{pause 20}	{emote: Worry}ボク　レアチーズケーキの	{ruby (charSpan 1): はなし}話だと{ruby (charSpan 1): おも}思ってたよぉ{000c-0009-0000}
+"047"	{emote: Glee}それそれぇ～{pause 20}	レアチーズケーキ、{pause 8}{catchphrase}{000c-0009-0000}
+"048"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0007-0000}えぇ～？{pause 20}	{emote: Worry}ボク　レモンタルトのことだと	{ruby (charSpan 1): おも}思って　{ruby (charSpan 1): はな}話してたよぉ{000c-0009-0000}
+"049"	{emote: Disbelief}{0007-000a-0000}れいめん～？！{pause 40}	{emote: Resigned}{Player nickname (green)}{0005-000d-0000}	まったく　ちがうよぉ～{000c-0009-0000}
+"050"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0004-0000}{emote: Laughter}ボクたち　もっと　あま～いものの	お{ruby (charSpan 1): はなし}話してたんだよぉ～{Wait for input}{emote: Worry}あぁ、でも{pause 8}・{pause 8}・{pause 8}・{pause 20}	れいめんって{ruby (charSpan 1): き}聞いたら	おなか　すいてきちゃったぁ～
+"051"	{000c-0001-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{emote: Happiness}ねぇねぇ～{pause 20}	この{ruby (charSpan 1): まえ}前、{Town name (pink)}{ruby (charSpan 1): むら}村に	アレが{ruby (charSpan 1): く}来る　ユメを{ruby (charSpan 1): み}見たんだぁ！{000c-0009-0000}
+"052"	{000c-0000-0000}{000c-0007-0000}{emote: Glee}あぁ～　アレかぁ～{pause 20}	ホントに{ruby (charSpan 1): き}来たら　いいのにねぇ、{pause 8}{catchphrase}{000c-0009-0000}
+"053"	{000c-0000-0000}{000c-0005-0000}{emote: Agreement}うんうん！{pause 20}	{ruby (charSpan 1): たの}楽しい　アレが{ruby (charSpan 1): く}来れば、{pause 20}	みんなも　よろこぶよぉ、{pause 8}{catchphrase}{000c-0009-0000}
+"054"	{000c-0000-0000}{000c-0007-0000}{emote: Alarmed}あぁ～	{ruby (charSpan 2): なまえ}名前ドわすれしちゃったなぁ～{Wait for input}{emote: Thought}サ、{pause 20}さ、{pause 20}サ～{pause 8}・{pause 8}・{pause 8}・{pause 8}？{emote: Reset}{pause 20}	{000c-0002-0000}{000c-0004-0000}{000c-0001-0000}{000c-0003-0000}{pause 20}なんだっけ　{Player nickname (green)}{0005-000d-0000}	{Player can respond (0001):0037-0000-0039-0000-003b-0000}	サーカス？	サルまわし？	さかだちパレード？
+"055"	{emote: Inspired}そう！{pause 20}　サーカスだぁ！{pause 40}	{emote: Glee}あこがれの　ピエロさんに	{ruby (charSpan 1): あ}会えるかなぁ、{pause 8}{catchphrase}{000c-0009-0000}
+"056"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0007-0000}えぇ～？{pause 20}	{emote: Worry}ボクが　{ruby (charSpan 1): い}言ってるのは	サルまわしのことだよぉ{pause 8}・{pause 8}・{pause 8}・
+"057"	{emote: Inspired}それぇ～！{pause 20}	サルまわし、{pause 8}{catchphrase}{000c-0009-0000}
+"058"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0007-0000}えぇ～？{pause 20}	{emote: Worry}サーカスのことじゃ　ないのぉ～？
+"059"	{emote: Disbelief}さかだちパレード？！{pause 20}	はじめて{ruby (charSpan 1): き}聞いたよぉ～！{000c-0009-0000}
+"060"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0004-0000}{emote: Laughter}でも　{Player nickname (green)}{0005-000d-0000}、{pause 20}	それ　おもしろそうだねぇ、{pause 8}{catchphrase}！
+"061"	{0009-0001-0006-003e-003f-0040}
+"062"	な～んだ{pause 20}	{ruby (charSpan 2): ふたり}二人で　ちがうこと	{ruby (charSpan 1): かんが}考えてたんだねぇ、{pause 8}{catchphrase}
+"063"	なぁ～んだ、{pause 20}	わかってなかったのかぁ、{pause 8}{catchphrase}
+"064"	うぅ～ん、{pause 20}	つたわってると　{ruby (charSpan 1): おも}思ってたのに{pause 8}・{pause 8}・{pause 8}・

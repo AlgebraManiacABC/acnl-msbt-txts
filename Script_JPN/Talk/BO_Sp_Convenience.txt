@@ -1,11 +1,11 @@
 == 0 ==
-"001"	
-"002"	{0009-0002-0008-05-00-06-00-07-00-08-00}
-"003"	{0009-0000-0004-09-00-00-00}	
-"004"	
-"005"	コンビニって	ものが　ギュウギュウに　ならんでて、{pause 20}
-"006"	{emote: Happiness}
-"007"	{emote: Thought}
-"008"	{emote: Love}
-"009"	もしかして　キミ{pause 8}
-"010"	{emote: Love}
+"001"
+"002"	{0009-0002-0008-0005-0006-0007-0008}
+"003"	{0009-0000-0004-0009-000a}
+"004"
+"005"	コンビニって	ものが　ギュウギュウに　ならんでて、{pause 20}	ボクの　おへやみたい～{Wait for input}{emote: Joy}なんだか　シンキンカン	わいちゃうなぁ、{pause 8}{catchphrase}
+"006"	{emote: Happiness}ほしいものがあったら、	とりあえず　ここにあるかな？{pause 20}	って、{pause 20}のぞいちゃうよねぇ～
+"007"	{emote: Thought}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	ついでに　あれも{ruby (charSpan 1): か}買っちゃおうかなぁ{Wait for input}{emote: Worry}ゆうわくが{ruby (charSpan 1): おお}多くて	こまっちゃうよぉ～
+"008"	{emote: Love}あぁ～{pause 20}	ボク　{ruby (charSpan 2): いっかい}一回でいいから、{pause 20}	コンビニに　すんでみたいなぁ
+"009"	もしかして　キミ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}おみやげを　えらんでるのぉ？{Wait for input}{emote: Happiness}{ruby (charSpan 1): なに}何か　いいものが{pause 8}	{ruby (charSpan 1): み}見つかるといいねぇ、{pause 8}{catchphrase}
+"010"	{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	コンビニって　なぜか	{ruby (charSpan 2): まいにち}毎日　{ruby (charSpan 1): い}行きたくなっちゃうんだよねぇ～

@@ -1,117 +1,117 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Worry}
-"003"	{emote: Glee}
-"004"	{emote: Distress}
-"005"	{emote: Surprise}
-"006"	{emote: Glee}
-"007"	{emote: Glee}
-"008"	{emote: Glee}
-"009"	{emote: Shocked}
-"010"	{emote: Worry}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Curious}
-"015"	なんか{pause 8}
-"016"	{emote: Curious}
-"017"	
-"018"	
-"019"	
-"020"	{emote: Disbelief}
-"021"	{emote: Joy}
-"022"	{emote: Love}
-"023"	{emote: Alarmed}
-"024"	{emote: Love}
-"025"	{emote: Agreement}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	{emote: Curious}
-"029"	{emote: Alarmed}
-"030"	{emote: Worry}
-"031"	{emote: Surprise}
-"032"	{emote: Worry}
-"033"	{emote: Alarmed}
-"034"	{emote: Happiness}
-"035"	
-"036"	
-"037"	{emote: Love}
-"038"	{emote: Happiness}
-"039"	{emote: Alarmed}
-"040"	{emote: Alarmed}
-"041"	{emote: Glee}
-"042"	{emote: Love}
-"043"	{emote: Laughter}
-"044"	{emote: Agreement}
-"045"	{emote: Laughter}
-"046"	{emote: Happiness}
-"047"	{emote: Surprise}
-"048"	{emote: Curious}
-"049"	{emote: Worry}
-"050"	{emote: Surprise}
-"051"	{emote: Thought}
-"052"	{emote: Alarmed}
-"053"	{emote: Happiness}
-"054"	
-"055"	
-"056"	{emote: Laughter}
-"057"	{emote: Glee}
-"058"	{emote: Happiness}
-"059"	{emote: Glee}
-"060"	じゃあ{pause 10}
-"061"	{emote: Happiness}
-"062"	{emote: Surprise}
-"063"	{emote: Happiness}
-"064"	
-"065"	
-"066"	{emote: Surprise}
-"067"	{emote: Happiness}
-"068"	{emote: Happiness}
-"069"	{emote: Glee}
-"070"	{emote: Glee}
-"071"	はい！{pause 20}
-"072"	{emote: Resigned}
-"073"	{emote: Resigned}
-"074"	{emote: Happiness}
-"075"	ま、{pause 20}
-"076"	
-"077"	
-"078"	{emote: Glee}
-"079"	{emote: Glee}
-"080"	{emote: Happiness}
-"081"	{emote: Happiness}
-"082"	{emote: Happiness}
-"083"	{emote: Happiness}
-"084"	{emote: Happiness}
-"085"	{emote: Happiness}
-"086"	{emote: Anger}
-"087"	{emote: Anger}
-"088"	{emote: Happiness}
-"089"	{emote: Happiness}
-"090"	{emote: Happiness}
-"091"	{emote: Distress}
-"092"	{emote: Happiness}
-"093"	
-"094"	
-"095"	{emote: Glee}
-"096"	{ruby (charSpan 1): ねが}願いが　かなって{pause 10}
-"097"	{emote: Happiness}
-"098"	{emote: Happiness}
-"099"	{emote: Happiness}
-"100"	{emote: Happiness}
-"101"	{emote: Happiness}
-"102"	{emote: Happiness}
-"103"	{emote: Happiness}
-"104"	{emote: Happiness}
-"105"	{emote: Anger}
-"106"	{emote: Anger}
-"107"	
-"108"	{emote: Alarmed}
-"109"	{emote: Happiness}
-"110"	{emote: Alarmed}
-"111"	{emote: Glee}
-"112"	{Blue}{emote: Glee}
-"113"	{emote: Happiness}
-"114"	
-"115"	{emote: Love}
-"116"	{emote: Happiness}
+"001"	{emote: Distress}{ruby (charSpan 1): はや}早く　{pause 10}みずみずしい{Blue}フルーツ{Color Reset}に{pause 8}	かじりつきたいよ～！
+"002"	{emote: Worry}あ～、{pause 20}おなかへってきちゃった{pause 30}	たのんだ　{Blue}フルーツ　{pause 10}{Color Reset}お{ruby (charSpan 1): ねが}願いね
+"003"	{emote: Glee}{Blue}{0011-0003-0002-0000}{Color Reset}に{pause 15}	{ruby (charSpan 1): はや}早く{ruby (charSpan 1): あ}会いたいなぁ{Wait for input}{emote: Happiness}ほら、{pause 20}{ruby (charSpan 2): おうじ}王子を{ruby (charSpan 1): ま}待つ　{pause 10}おひめ{ruby (charSpan 1): さま}様の{ruby (charSpan 2): きも}気持ちよね！{Wait for input}	{emote: Distress}{0011-0003-0002-0000}{ruby (charSpan 2): おうじ}王子、{pause 20}	アタイのもとに　{pause 10}{ruby (charSpan 1): はや}早く{ruby (charSpan 1): き}来て～！
+"004"	{emote: Distress}{Blue}おいしいフルーツ　{Color Reset}{pause 5}{ruby (charSpan 1): た}食べたいよ～！{pause 25}	{ruby (charSpan 2): しゅるい}種類は　{ruby (charSpan 1): なん}何でもいいから{pause 10}	{Player nickname (green)}{0005-000d-0000}、{pause 10}おねが～い！
+"005"	{emote: Surprise}あ！{pause 20}	この{ruby (charSpan 1): まえ}前　{pause 8}たのんだ{Blue}フルーツ{Color Reset}、{pause 15}	{emote: Happiness}ツウハンで{pause 10}{ruby (charSpan 1): て}手に{ruby (charSpan 1): い}入れてさ～！	{emote: Joy}おかげで　{ruby (charSpan 3): だいまんぞく}大満足、{pause 15}	ちょーハッピーってカンジ！{pause 30}{emote: Soft Smile}{Wait for input}{emote: Distress}せっかく　さがしてくれてたのに、{pause 10}	ゴメンね！
+"006"	{emote: Glee}わ～い！{pause 20}	ちょー{ruby (charSpan 1): たの}楽しみ！
+"007"	{emote: Glee}どれどれ～？！
+"008"	{emote: Glee}{ruby (charSpan 1): はや}早く　{pause 10}{ruby (charSpan 1): み}見せて{ruby (charSpan 1): み}見せて！
+"009"	{emote: Shocked}うそっ・・・！
+"010"	{emote: Worry}え～{pause 20}	そうなの～？！
+"011"	{emote: Happiness}うわ！{pause 20}	おいしそ～
+"012"	{emote: Happiness}う～ん！{pause 15}	いいかおり
+"013"	{emote: Happiness}あ～{pause 20}	おなかが　なっちゃうよ
+"014"	{emote: Curious}あれ？{pause 20}	アタイがたのんだのって　{pause 10}これだっけ？{pause 30}	{emote: Happiness}ま、{pause 10}いっか！　{pause 20}いっただきま～す
+"015"	なんか{pause 8}・{pause 8}・{pause 8}・{pause 8}これじゃない{ruby (charSpan 1): き}気もするけど、{pause 10}	{emote: Laughter}{ruby (charSpan 1): こま}細かいことは　{ruby (charSpan 1): き}気にしない{ruby (charSpan 1): き}気にしない！{pause 20}{emote: Soft Smile}{Wait for input}	{emote: Glee}いっただきま～す！
+"016"	{emote: Curious}ん？　{pause 30}アタイがほしかったのって{pause 10}	これだっけな？{Wait for input}	{emote: Laughter}ま、{pause 10}いいや！　{pause 25}{emote: Reset}いただきま～す！
+"017"
+"018"
+"019"
+"020"	{emote: Disbelief}おいしいっ！{pause 30}	{emote: Glee}こんな　{0011-0003-0002-0002}、{pause 10}	{ruby (charSpan 1): た}食べたことないよ！！	{emote: Soft Smile}アタイのために　{pause 5}{emote: Love}ありがとうね！
+"021"	{emote: Joy}う～ん{pause 20}	ちょーいいカンジの{pause 5}	{0011-0003-0002-0002}だね！{pause 30}{emote: Soft Smile}	{emote: Glee}なんか　{pause 10}アタイみたいに{pause 10}	かめばかむほど、{ruby (charSpan 1): あじ}味が{ruby (charSpan 1): で}出てくるってカンジ！
+"022"	{emote: Love}おいし～い！{Wait for input}	{emote: Glee}この　{0011-0003-0002-0002}、{pause 10}	アタイの{ruby (charSpan 1): くち}口に{ruby (charSpan 1): あ}合うわ～！{Wait for input}{emote: Happiness}さすが　{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 20}	ちゃんと　{pause 10}{ruby (charSpan 1): この}好みがわかってるんだね！{Wait for input}	{emote: Love}う～ん、{pause 20}ちょー{ruby (charSpan 1): しあわ}幸せ～
+"023"	{emote: Alarmed}わぁ～{pause 30}	{ruby (charSpan 1): くち}口に{ruby (charSpan 1): ひろ}広がる　{pause 10}{ruby (charSpan 1): ゆた}豊かなかおり{pause 5}・{pause 5}・{pause 5}・{pause 5}！{pause 20}	{emote: Agreement}これぞ　{pause 10}アタイが{ruby (charSpan 1): もと}求めてた{ruby (charSpan 1): あじ}味だよ！	{emote: Happiness}キャハハ！{pause 30}	{ruby (charSpan 2): いちど}一度　こういうこと{pause 10}	{ruby (charSpan 1): い}言ってみたかったんだよね～
+"024"	{emote: Love}うん！　{pause 20}おいしい！{Wait for input}	これで　{pause 10}エネルギー{ruby (charSpan 1): まん}満タンだわ！
+"025"	{emote: Agreement}うんうん{pause 20}	{emote: Love}{pause 5}・{pause 5}・{pause 5}・{pause 5}は～！{pause 20}	おいしいじゃ～ん！
+"026"	{emote: Happiness}キャハハ！{pause 20}	{0011-0003-0002-0002}{ruby (charSpan 1): た}食べたら、{pause 10}	{ruby (charSpan 1): きゅう}急に{ruby (charSpan 2): げんき}元気が{ruby (charSpan 1): で}出て{ruby (charSpan 1): き}来ちゃったよ！	{emote: Glee}やっぱり　おなかがいっぱいになると、{pause 10}	{ruby (charSpan 1): こころ}心も{ruby (charSpan 1): み}満たされちゃうんだね！
+"027"	{emote: Happiness}う～ん！{pause 10}　いい{ruby (charSpan 1): あじ}味だね～{Wait for input}	これは　{ruby (charSpan 2): なんこ}何個もいけちゃいそう！
+"028"	{emote: Curious}あれ？{pause 20}	{emote: Shocked}これって{pause 5}・{pause 5}・{pause 5}・{pause 5}ムシ{ruby (charSpan 1): く}食ってる～{Wait for input}{emote: Distress}いや～ん！{pause 10}	アタイそういうのムリだから！{000b-0004-0002-cd03}
+"029"	{emote: Alarmed}ちょっと　ちょっと～！！{pause 15}	これって　ムシ{ruby (charSpan 1): く}食いじゃない？{Wait for input}{emote: Anger}アタイが　{ruby (charSpan 1): き}気にしないと{ruby (charSpan 1): おも}思ったら、{pause 15}	{ruby (charSpan 1): おお}大まちがいなんだからね～！{000b-0004-0002-cd03}
+"030"	{emote: Worry}これ{pause 5}・{pause 5}・{pause 5}・{pause 5}	かじったら{pause 8}　{ruby (charSpan 2): だいじ}大事な{ruby (charSpan 1): は}歯が	{ruby (charSpan 1): お}折れちゃいそうだよ{Wait for input}アイドルは　{pause 8}{ruby (charSpan 1): は}歯が{ruby (charSpan 1): いのち}命だからね！{pause 20}	エンリョしとくわ～
+"031"	{emote: Surprise}わぁ！{pause 20}	{emote: Distress}こんなスペシャルなもの、{pause 10}{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取れないよ！{Wait for input}{emote: Happiness}これは{pause 10}	{Player nickname (green)}{0005-000d-0000}が　{ruby (charSpan 1): た}食べてね！
+"032"	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 20}{Wait for input}フルーツみたいに{pause 8}	みずみずしいっていうのは　{pause 3}わかるけど{pause 10}	{emote: Resigned}これは　{pause 3}エンリョしとくわ
+"033"	{emote: Alarmed}キャッ！{Wait for input}	{emote: Worry}アタイ、{pause 15}ムシは　{pause 10}{ruby (charSpan 1): か}飼うものだと{ruby (charSpan 1): おも}思ってるから{pause 20}	エンリョしとくわ
+"034"	{emote: Happiness}わざわざ　{ruby (charSpan 1): も}持って{ruby (charSpan 1): き}来てくれたのに{pause 8}	{ruby (charSpan 1): わる}悪いんだけど、{pause 15}	フルーツが{ruby (charSpan 1): た}食べたいんだよね～
+"035"
+"036"
+"037"	{emote: Love}うん！{pause 10}　おいしい！{Wait for input}	{emote: Glee}アタイが　{ruby (charSpan 1): た}食べたかった{ruby (charSpan 1): あじ}味	そのものだよ～！
+"038"	{emote: Happiness}う～ん！{pause 10}	バッチリってカンジ{Wait for input}	これ、アタイが{ruby (charSpan 1): す}好きな{ruby (charSpan 1): あじ}味だわ～
+"039"	{emote: Alarmed}ちょーデリシャス！{Wait for input}	{emote: Glee}こんな　{0011-0003-0002-0002}、{pause 10}	{ruby (charSpan 1): た}食べたことな～い！
+"040"	{emote: Alarmed}わ～！{pause 30}	{emote: Love}こんなに　おいしい{pause 8}	{0011-0003-0002-0002}って{pause 10}あるんだ～！	{emote: Glee}アタイみたいに、{pause 10}	ちょーフレッシュじゃん！
+"041"	{emote: Glee}この　{0011-0003-0002-0002}、{pause 10}	ちょーイケる！{Wait for input}{emote: Happiness}こんなにおいしい　{pause 8}フルーツがなるなんて、{pause 10}	うちの{ruby (charSpan 1): むら}村は　{pause 10}{ruby (charSpan 1): つち}土がいいのかな
+"042"	{emote: Love}ちょーおいし～！{Wait for input}こんなに　デリシャスな{pause 10}	{0011-0003-0002-0002}が{pause 10}	{ruby (charSpan 1): た}食べれるなんて	{Town name (pink)}{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): す}住んでて{pause 5}・{pause 5}・{pause 5}・{pause 10}	{emote: Star Yell}よかった～
+"043"	{emote: Laughter}うん！{pause 20}　おいしい！{pause 30}	{emote: Glee}なんか　テンション{ruby (charSpan 1): あ}上がってきた～！
+"044"	{emote: Agreement}うんうん{pause 5}・{pause 5}・{pause 5}・{pause 5}{pause 20}	{emote: Happiness}おいしいじゃ～ん！！{Wait for input}{emote: Soft Smile}やっぱ　たのんだのとは{pause 5}	ちがうみたいだけどね～
+"045"	{emote: Laughter}キャハハ！{pause 30}{emote: Soft Smile}	{0011-0003-0002-0002}{ruby (charSpan 1): た}食べたら、{pause 8}	{ruby (charSpan 1): きゅう}急に{ruby (charSpan 2): げんき}元気が{ruby (charSpan 1): で}出て{ruby (charSpan 1): き}来ちゃったよ！	{emote: Happiness}たのんだのとは{pause 8}	ちがうっぽいけど、{pause 10}	これはこれで　{pause 10}いいカンジ！
+"046"	{emote: Happiness}う～ん！{pause 10}	おいし～！！{Wait for input}{emote: Soft Smile}でも、{pause 10}アタイが　たのんだのとは{pause 10}	ちょっと　{pause 5}ちがうみたいだけどね～！
+"047"	{emote: Surprise}あ！{pause 20}	{emote: Shocked}しかも{pause 5}・{pause 5}・{pause 5}・{pause 5}ムシ{ruby (charSpan 1): く}食ってるじゃ～ん{Wait for input}{emote: Distress}いや～ん！{pause 10}	アタイ、{pause 10}そういうの{pause 5}ムリ～！{000b-0002-0002-cd03}
+"048"	{emote: Curious}ん？　{pause 30}	{emote: Alarmed}これ、{pause 10}しかも　{pause 5}ムシ{ruby (charSpan 1): く}食いじゃ～ん！{Wait for input}{emote: Anger}ムシごと　{ruby (charSpan 1): た}食べっちゃったら{pause 10}	どうすんのよ～！{000b-0002-0002-cd03}
+"049"	{emote: Worry}これ{pause 5}・{pause 5}・{pause 5}・{pause 5}フルーツかもしれないけど、{pause 10}	アタイには　{pause 10}ムリ～！
+"050"	{emote: Surprise}わぁ！{pause 10}	{emote: Distress}こんな　{ruby (charSpan 2): たいせつ}大切なもの、{pause 10}{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取れないよ！{Wait for input}	{emote: Happiness}{ruby (charSpan 2): きも}気持ちだけ　{pause 5}もらっとくわ！
+"051"	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Distress}{ruby (charSpan 1): べつ}別に　キライじゃないんだけど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Worry}{ruby (charSpan 1): いま}今は{pause 10}　これが　{pause 3}ほしいわけじゃないんだよね
+"052"	{emote: Alarmed}キャッ！{pause 20}	{emote: Worry}これは{pause 8}・{pause 8}・{pause 8}・{pause 20}	エンリョしとくよ～
+"053"	{emote: Happiness}せっかくなんだけど、{pause 10}	フルーツが{ruby (charSpan 1): た}食べたいんだよね～
+"054"
+"055"
+"056"	{emote: Laughter}どうもありがとう！{pause 20}	この{ruby (charSpan 2): かんどう}感動を{ruby (charSpan 1): かたち}形にするなら{pause 5}・{pause 5}・{pause 5}・{Wait for input}	{emote: Happiness}{0011-0003-0002-0001}！{pause 20}	はい、{pause 8}お{ruby (charSpan 1): れい}礼だよ
+"057"	{emote: Glee}この{ruby (charSpan 1): しあわ}幸せを、{pause 10}{Player nickname (green)}{0005-000d-0000}にも{pause 8}	おすそ{ruby (charSpan 1): わ}分けしなくっちゃ！！{Wait for input}	はい　{pause 10}{0011-0003-0002-0001}！
+"058"	{emote: Happiness}お{ruby (charSpan 1): れい}礼に{pause 8}　{0011-0003-0002-0001}{pause 10}	あげちゃうよ、{pause 10}{catchphrase}{Wait for input}ほんの{ruby (charSpan 2): きも}気持ちだけど{pause 10}　{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取って！
+"059"	{emote: Glee}こんなことしてもらったんだし、{pause 10}	お{ruby (charSpan 1): れい}礼しなくっちゃだよね！{Wait for input}	{emote: Happiness}はい、{pause 10}{0011-0003-0002-0001}！
+"060"	じゃあ{pause 10}	{emote: Happiness}お{ruby (charSpan 1): れい}礼に、{pause 8}これ　あげちゃう{Wait for input}	{0011-0003-0002-0001}だよ！
+"061"	{emote: Happiness}アタイの{ruby (charSpan 2): きも}気持ちがつまった{pause 8}	{0011-0003-0002-0001}だよ！{Wait for input}	{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取って！
+"062"	{emote: Surprise}そうそう！{Wait for input}{emote: Happiness}アタイの{ruby (charSpan 1): ねが}願いを　かなえてくれたひとに、{pause 10}	これあげようと{pause 5}　{ruby (charSpan 1): おも}思ってたんだよね！{Wait for input}はい、{pause 10}{0011-0003-0002-0001}！{pause 20}	{ruby (charSpan 1): も}持ってっちゃって！
+"063"	{emote: Happiness}じゃあ　お{ruby (charSpan 1): れい}礼に{pause 8}	この　{0011-0003-0002-0001}{pause 10}	あげるね！
+"064"
+"065"
+"066"	{emote: Surprise}{pause 5}・{pause 5}・{pause 5}・{pause 5}あ！{pause 20}	ちゃんと　お{ruby (charSpan 1): ねが}願い{ruby (charSpan 1): き}聞いてくれた{pause 10}	お{ruby (charSpan 1): れい}礼するね！	{emote: Happiness}はい、{pause 10}{0011-0003-0002-0001}だよ！	うれしいってカンジ？！
+"067"	{emote: Happiness}たのんだものを{pause 10}	ちゃんと{ruby (charSpan 1): も}持って{ruby (charSpan 1): き}来てくれて　{pause 8}ありがとう！{Wait for input}{emote: Glee}この{ruby (charSpan 1): しあわ}幸せを、{pause 10}{Player nickname (green)}{0005-000d-0000}にも{pause 8}	おすそ{ruby (charSpan 1): わ}分けしなくっちゃ！！{Wait for input}	はい、{pause 10}{0011-0003-0002-0001}！
+"068"	{emote: Happiness}この　{0011-0003-0002-0001}、{pause 10}	あげちゃうよ！{Wait for input}ほんの{ruby (charSpan 2): きも}気持ちだけど、{pause 10}{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取って！
+"069"	{emote: Glee}こんなに　よくしてもらったんだから、{pause 10}	アタイも　{pause 8}{ruby (charSpan 2): おんがえ}恩返ししなくっちゃ！{Wait for input}{emote: Happiness}はい、{pause 10}{0011-0003-0002-0001}！	{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取ってね！
+"070"	{emote: Glee}こんなこと　してもらったんだし、{pause 10}	お{ruby (charSpan 1): れい}礼させてほしいな！{Wait for input}	{emote: Happiness}はい、{pause 8}{0011-0003-0002-0001}！
+"071"	はい！{pause 20}	{emote: Happiness}お{ruby (charSpan 1): れい}礼に　{pause 10}これをプレゼントするよ{Wait for input}	{0011-0003-0002-0001}！
+"072"	{emote: Resigned}でも　もう　{ruby (charSpan 1): た}食べちゃったし、{pause 10}	まぁいいか！！{Wait for input}はい！{pause 20}	{emote: Happiness}お{ruby (charSpan 1): れい}礼に　これ　あげちゃう{Wait for input}	{0011-0003-0002-0001}だよ！
+"073"	{emote: Resigned}ま、{pause 10}{ruby (charSpan 1): た}食べちゃったし　{pause 10}もういいや！{Wait for input}{emote: Happiness}アタイの{ruby (charSpan 2): きも}気持ちがつまった{pause 8}	{0011-0003-0002-0001}だよ！{Wait for input}	{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取って！
+"074"	{emote: Happiness}まぁ、{pause 10}おいしかったし{pause 10}	お{ruby (charSpan 1): れい}礼はしなくちゃね！{Wait for input}はい、{pause 8}{0011-0003-0002-0001}！{pause 20}	お{ruby (charSpan 1): れい}礼だよ、{pause 15}{catchphrase}！
+"075"	ま、{pause 20}{ruby (charSpan 1): た}食べてみたら{pause 10}	けっこーイケてたし、{Wait for input}{emote: Happiness}じゃあ　お{ruby (charSpan 1): れい}礼に{pause 10}	この　{pause 8}{0011-0003-0002-0001}{pause 10}	あげるね！
+"076"
+"077"
+"078"	{emote: Glee}あ～　{pause 8}{ruby (charSpan 2): まんぞく}満足{ruby (charSpan 2): まんぞく}満足！{pause 20}	どうも　ありがとね、{pause 8}{catchphrase}！
+"079"	{emote: Glee}なんか{pause 10}　おいしいもの{ruby (charSpan 1): た}食べて{pause 10}	おひめ{ruby (charSpan 1): さま}様になった{ruby (charSpan 2): きぶん}気分ってカンジ？！{Wait for input}	{emote: Love}{ruby (charSpan 1): しあわ}幸せ～！　{pause 8}{catchphrase}！
+"080"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 10}、どうもありがとね！	{pause 8}{catchphrase}！
+"081"	{emote: Happiness}それにしても、{pause 10}	ちょーおいしかった！　{pause 8}{catchphrase}！
+"082"	{emote: Happiness}どうもありがとう！	{pause 8}{catchphrase}！
+"083"	{emote: Happiness}あ～、{pause 10}{ruby (charSpan 2): まんぞく}満足した！	{pause 8}{catchphrase}！
+"084"	{emote: Happiness}サンキューね、{pause 8}{catchphrase}！
+"085"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、{pause 8}ありがとね～！	{pause 8}{catchphrase}！
+"086"	{emote: Anger}{ruby (charSpan 1): おんな}女のコの{pause 15}　{ruby (charSpan 1): た}食べ{ruby (charSpan 1): もの}物のうらみって、{pause 10}	こわいんだからね！
+"087"	{emote: Anger}アタイ、{pause 10}{ruby (charSpan 1): た}食べ{ruby (charSpan 1): もの}物には{pause 10}	ちょっと　うるさいんだからね！
+"088"	{emote: Happiness}{ruby (charSpan 1): つぎ}次は　{ruby (charSpan 1): た}食べやすいフルーツ、{pause 10}	{ruby (charSpan 2): きたい}期待してるよ～！
+"089"	{emote: Happiness}ありがとね！
+"090"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}が{pause 5}　もらっといて！
+"091"	{emote: Distress}じゃあ、そういうことで！
+"092"	{emote: Happiness}これは、{ruby (charSpan 1): かえ}返しとくね！
+"093"
+"094"
+"095"	{emote: Glee}{ruby (charSpan 1): ねが}願いを　かなえてくれて{pause 10}	ありがとね～{pause 30}	{emote: Happiness}あ～{pause 10}　{ruby (charSpan 2): まんぞく}満足だよ！
+"096"	{ruby (charSpan 1): ねが}願いが　かなって{pause 10}	{emote: Glee}おひめ{ruby (charSpan 1): さま}様になった{pause 8}{ruby (charSpan 2): きぶん}気分ってカンジ？！{pause 20}	{ruby (charSpan 1): しあわ}幸せ～！！
+"097"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 10}	どうもありがとね！{Wait for input}{emote: Glee}アタイ、{pause 10}ちょーハッピー！
+"098"	{emote: Happiness}それにしても、{pause 10}	ちょーおいしかった！！{pause 20}	{emote: Love}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): ゆめ}夢みたい！
+"099"	{emote: Happiness}どうも　ありがとう！
+"100"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、{pause 10}サンキュ！
+"101"	{emote: Happiness}{ruby (charSpan 1): つぎ}次は、{pause 10}たのんだもの　よろしくね！
+"102"	{emote: Happiness}{ruby (charSpan 1): つぎ}次は、{pause 10}たのんだフルーツ{ruby (charSpan 2): きたい}期待しちゃうよ！
+"103"	{emote: Happiness}どうも　ありがとう！{pause 20}	でも、{pause 10}{ruby (charSpan 2): こんど}今度はお{ruby (charSpan 1): ねが}願いしたやつ　{pause 8}{ruby (charSpan 1): た}食べたいな！
+"104"	{emote: Happiness}{ruby (charSpan 2): こんど}今度は、{pause 10}アタイがたのんだのを{pause 8}	よろしくってカンジ！
+"105"	{emote: Anger}{ruby (charSpan 1): た}食べもののうらみは、{pause 10}	こわいんだからね！
+"106"	{emote: Anger}アタイ、{pause 10}{ruby (charSpan 1): た}食べ{ruby (charSpan 1): もの}物には{pause 10}	ちょっと　うるさいんだからね！
+"107"
+"108"	{emote: Alarmed}えぇ？！{pause 30}	{emote: Laughter}これは　{pause 3}もらい{ruby (charSpan 1): す}過ぎだよ～{pause 40}{emote: Soft Smile}
+"109"	{emote: Happiness}{ruby (charSpan 2): きも}気持ちは　{pause 3}ちょーうれしいけど{pause 10}	アタイは　{pause 3}ひとつで　いいからさ！
+"110"	{emote: Alarmed}え？！　{pause 30}これって{pause 3}	{Blue}{0011-0003-0002-0002}{Color Reset}じゃ～ん{Wait for input}{emote: Glee}アタイにくれるの？{pause 30}	じゃあ　{pause 10}いただきま～す！
+"111"	{emote: Glee}この　{pause 5}おいしそうなニオイは{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Blue}{0011-0003-0002-0002}{Color Reset}？！{Wait for input}{emote: Love}ヤッター！　{pause 30}{ruby (charSpan 1): た}食べちゃお～っと！
+"112"	{Blue}{emote: Glee}{0011-0003-0002-0002}{Color Reset}くれるなんて{pause 10}	ビックリしたよ～！{Wait for input}{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、{pause 10}	{emote: Greetings}ちょーサンキュー！
+"113"	{emote: Happiness}まさか　{Blue}{pause 10}{0011-0003-0002-0002}{Color Reset}を{pause 3}	{ruby (charSpan 1): も}持って{ruby (charSpan 1): き}来てくれるなんてね！{Wait for input}{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 10}	{ruby (charSpan 2): ほんとう}本当に　ありがと～！
+"114"
+"115"	{emote: Love}う～ん！{pause 20}　おいし～い{pause 30}	{pause 10}・{pause 10}・{pause 10}・{pause 10}{emote: Soft Smile}でも、{pause 10}フルーツ{ruby (charSpan 1): かい}界って{pause 8}	{ruby (charSpan 1): うえ}上には{ruby (charSpan 1): うえ}上が　あるらしいね！	{emote: Surprise}あ！　{pause 20}もちろん　これはこれで、{pause 10}	{ruby (charSpan 2): まんぞく}満足できるくらい　おいしかったよ{Wait for input}{emote: Happiness}ってことで、{pause 15}ほんの{ruby (charSpan 2): きも}気持ちだけど{pause 10}	{0011-0003-0002-0001}　{pause 5}もらって！
+"116"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 10}　サンキューね！{Wait for input}おいしいフルーツは、{pause 10}	また{ruby (charSpan 2): こんど}今度の　{emote: Greetings}お{ruby (charSpan 1): たの}楽しみにしよ～っと

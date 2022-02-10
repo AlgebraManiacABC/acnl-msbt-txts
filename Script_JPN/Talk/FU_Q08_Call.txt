@@ -1,12 +1,12 @@
 == 0 ==
-"001"	あの～　{pause 20}
-"002"	{Player nickname (green)}
-"003"	{Villager's name (orange)}
-"004"	{Player nickname (green)}
-"005"	{Player nickname (green)}
-"006"	{Player nickname (green)}
-"007"	わたしですよ～！　{pause 20}
-"008"	{emote: Soft Smile}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Alarmed}
+"001"	あの～　{pause 20}すみません{pause 30}　{Villager's name (orange)}です！{pause 30}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来ました～！{0007-0008-0004-0096-0000}
+"002"	{Player nickname (green)}さ～ん！{pause 20}	{Villager's name (orange)}です～！{0007-0008-0004-0096-0000}
+"003"	{Villager's name (orange)}ですけど{pause 15}	{Player nickname (green)}さん、{pause 15}いらっしゃいますか？{pause 30}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来ました～！{0007-0008-0004-0096-0000}
+"004"	{Player nickname (green)}さ～ん！　{pause 20}わたしですよ～{pause 30}	{ruby (charSpan 2): げんかん}玄関まで　{pause 10}{ruby (charSpan 1): き}来ていただけますか～？{0007-0008-0004-0096-0000}
+"005"	{Player nickname (green)}さ～ん！{pause 20}	いらっしゃいますか～？{pause 30}	{Text size 100%}{Gray}{Text size 100%}（{ruby (charSpan 1): き}聞こえないのかしら{pause 8}・{pause 8}・{pause 8}・{pause 8}）{Text size 100%}{Color Reset}{Text size 100%}{0007-0008-0004-0096-0000}
+"006"	{Player nickname (green)}さ～ん！！{pause 20}	ちょっと　{pause 5}どうしたんですか～？！{pause 30}	{ruby (charSpan 1): で}出て{ruby (charSpan 1): き}来てくださいよ～！{0007-0008-0004-0096-0000}
+"007"	わたしですよ～！　{pause 20}{Player nickname (green)}さ～ん！{pause 30}	{Gray}（{pause 8}・{pause 8}・{pause 8}・{pause 8}お{ruby (charSpan 2): るす}留守なのかしら？）{pause 40}{Wait for input}{Color Reset}いらっしゃらないみたいなので、{pause 10}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): かえ}帰ります{0007-0008-0004-0096-0000}
+"008"	{emote: Soft Smile}よろしいですか？{pause 20}	{emote: Happiness}では、{pause 10}ちょっと　{ruby (charSpan 2): しつれい}失礼しますね！
+"009"	{emote: Happiness}おじゃましますね、{pause 15}{catchphrase}！
+"010"	{emote: Happiness}{ruby (charSpan 2): しつれい}失礼しま～す
+"011"	{emote: Alarmed}キャァァァァ！！{pause 20}	お{ruby (charSpan 2): へや}部屋に　ゴキブリが～！！{Wait for input}{emote: Fearful}せっかくですけど　{pause 15}これでは	{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着いて　{pause 10}おしゃべりできないので、{pause 15}	{emote: Sadness}{ruby (charSpan 2): きょう}今日は　{pause 8}{ruby (charSpan 1): かえ}帰りますね！{pause 30}　ごめんなさい！

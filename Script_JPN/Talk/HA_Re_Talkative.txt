@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Anger}
-"002"	{emote: Alarmed}
-"003"	{emote: Distress}
+"001"	{emote: Anger}{Player name}ー！{pause 20}	{ruby (charSpan 1): いま}今から　{ruby (charSpan 1): かんが}考えることがあるから、	ジャマするなよー？{pause 8}　{catchphrase}{000b-0005-0002-cd03}
+"002"	{emote: Alarmed}また、オマエかー！{pause 40}	{emote: Distress}カンベンしてくれー！{pause 20}	オイラ　そろそろ　ネタ{ruby (charSpan 1): ぎ}切れだよ{Wait for input}{emote: Agreement}コレからしばらく	{ruby (charSpan 1): かんが}考え{ruby (charSpan 1): ごと}事の{ruby (charSpan 2): じかん}時間だー{pause 40}	{ruby (charSpan 2): ひとり}一人にさせてくれよー？{000b-0005-0002-cd03}
+"003"	{emote: Distress}ちょっと、ターイム！{pause 40}	{ruby (charSpan 1): いま}今、カロリーの	{ruby (charSpan 2): けいさん}計算をしてるんだ{Wait for input}{emote: Agreement}{ruby (charSpan 1): すこ}少しの{ruby (charSpan 1): あいだ}間、	{ruby (charSpan 1): はな}話しかけないでくれるかー？！{000b-0005-0002-cd03}

@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Surprise}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Surprise}
+"001"	{emote: Happiness}{Greeting begin}{Player nickname (green)}さん{pause 15}　おはようございます{Greeting end}{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は　{pause 5}{ruby (charSpan 2): げし}夏至なので{pause 10}	ずっと{pause 10}　{ruby (charSpan 1): ひ}日が　しずまないんだそうです{Wait for input}{emote: Happiness}{ruby (charSpan 2): ほんとう}本当に　そうなのか{pause 10}	{ruby (charSpan 1): よる}夜　{pause 10}{ruby (charSpan 1): たし}確かめるのが{ruby (charSpan 1): たの}楽しみです、{pause 15}{catchphrase}
+"002"	{emote: Happiness}{Greeting begin}おはようございます{Greeting end}{pause 15}	{ruby (charSpan 2): きょう}今日は　{pause 10}{ruby (charSpan 1): よる}夜も{ruby (charSpan 1): あか}明るいんだそうです{Wait for input}ということで{pause 10}	いつも{ruby (charSpan 2): いじょう}以上に{ruby (charSpan 1): あそ}遊べますね、{pause 15}{catchphrase}！
+"003"	{emote: Happiness}{Player nickname (green)}さん{pause 15}	{ruby (charSpan 1): あさ}朝からお{ruby (charSpan 1): あ}会いできて　{pause 10}うれしいです！{Wait for input}{emote: Distress}{ruby (charSpan 2): きょう}今日は{pause 10}　{ruby (charSpan 1): ひ}日が　しずまないって	ほんとですか？{Wait for input}	{emote: Sunny}ミステリーですね～、{pause 15}{catchphrase}
+"004"	{emote: Happiness}{Greeting begin}{Player nickname (green)}さん　{pause 15}こんにちは！{Greeting end}{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は{pause 5}　{ruby (charSpan 2): げし}夏至なので、{pause 10}	{ruby (charSpan 3): ひとばんじゅう}一晩中{pause 8}　{ruby (charSpan 2): たいよう}太陽が{ruby (charSpan 1): で}出てるんですって！{Wait for input}	{emote: Glee}ワクワクしますね～、{pause 15}{catchphrase}
+"005"	{emote: Happiness}{Player nickname (green)}さん{pause 15}	ご{ruby (charSpan 2): きげん}機嫌いかがですか？{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は、お{ruby (charSpan 2): ひさま}日様が{pause 10}	しずまないんだそうです{Wait for input}	どうなるのか　{ruby (charSpan 1): たの}楽しみですよね、{pause 15}{catchphrase}
+"006"	{emote: Surprise}あら　{pause 20}{Player nickname (green)}さん{pause 15}	{emote: Happiness}{ruby (charSpan 1): し}知ってますか？{Wait for input}	{ruby (charSpan 2): きょう}今日は　{pause 10}{ruby (charSpan 1): よる}夜にならないんですって！	ということは{pause 10}　いつもより{pause 8}	たくさん{ruby (charSpan 1): あそ}遊べちゃいますね、{pause 15}{catchphrase}！
+"007"	{emote: Happiness}{Greeting begin}こんばんは{Greeting end}{pause 15}	{Player nickname (green)}さん！{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は{pause 5}　{ruby (charSpan 2): げし}夏至なので{pause 10}	ずっと{ruby (charSpan 1): あか}明るいそうですよ{Wait for input}{emote: Happiness}{ruby (charSpan 1): よる}夜が{ruby (charSpan 1): こ}来ないなんて{pause 10}	{ruby (charSpan 3): ふしぎ}不思議ですよね～、{pause 15}{catchphrase}
+"008"	{emote: Happiness}{Player nickname (green)}さん{pause 15}　こんばんは！{Wait for input}	{emote: Sheepishness}{ruby (charSpan 1): じつ}実は　{pause 10}もう{pause 8}{ruby (charSpan 1): よる}夜なんですよね{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): こんや}今夜は　{ruby (charSpan 1): あか}明るいので{pause 15}	{ruby (charSpan 1): おも}思わず{pause 8}「おはようございます」って{pause 10}	{ruby (charSpan 1): い}言ってしまいそうです、{pause 15}{catchphrase}
+"009"	{emote: Happiness}{Greeting begin}{Player nickname (green)}さん、{pause 15}こんばんは{Greeting end}{Wait for input}もう{ruby (charSpan 1): よる}夜なのに{pause 10}	まだ　{ruby (charSpan 1): あか}明るいんですよ！{Wait for input}こんな　めずらしい{ruby (charSpan 1): ひ}日{pause 10}	{ruby (charSpan 1): たの}楽しまなきゃ　ですよね、{pause 15}{catchphrase}！
+"010"	{emote: Happiness}{Greeting begin}{Player nickname (green)}さん、{pause 10}こんばんは！{Greeting end}{Wait for input}{emote: Thought}こんな{ruby (charSpan 1): おそ}遅いのに{pause 10}	まだ　お{ruby (charSpan 2): ひさま}日様が{ruby (charSpan 1): で}出てるなんて{pause 15}	どういうことかしら{Wait for input}{emote: Sunny}わたしの{ruby (charSpan 3): たんきゅうしん}探究心に{pause 10}	{ruby (charSpan 1): ひ}火がつきそうです、{pause 15}{catchphrase}！
+"011"	{emote: Surprise}あ！{pause 15}　{emote: Happiness}{Player nickname (green)}さん{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は　{pause 3}{ruby (charSpan 2): げし}夏至なので{pause 10}	{ruby (charSpan 2): たいよう}太陽が　しずまないんですよ～！{Wait for input}{emote: Sunny}{ruby (charSpan 2): ちょうし}調子に{ruby (charSpan 1): の}乗って　{ruby (charSpan 1): お}起きていると{pause 10}	{ruby (charSpan 2): あす}明日　{pause 10}{ruby (charSpan 3): ねぶそく}寝不足になっちゃいそうです

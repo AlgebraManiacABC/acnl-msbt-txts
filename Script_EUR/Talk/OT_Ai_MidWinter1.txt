@@ -1,60 +1,60 @@
 == 0 ==
-"001"	{capitalized}
-"002"	Good morning, {pause 8}!
-"003"	OK,{pause 8}
-"004"	{capitalized}
-"005"	{emote: Greetings}
-"006"	{emote: Worry}
-"007"	{capitalized}
-"008"	You know, {pause 8}
-"009"	{emote: Fearful}
-"010"	{emote: Soft Smile}
-"011"	{emote: Fearful}
+"001"	{capitalized}{Greeting begin}Well,{pause 8} good morning{Greeting end}.{pause 16}	I know,{pause 8} {Player nickname (green)}. {pause 10}I sound a little,{pause 16}	well, {pause 16}{emote: Sigh}blah today.	Can you blame me? {pause 10}{emote: Resigned}The sun didn't	bother to get up this morning, {pause 8}so	my pep got popped,{pause 8} {catchphrase}.
+"002"	Good morning, {pause 8}{Player nickname (green)}.{pause 10} Well,{emote: Resigned}{pause 8}	if you can really call it good.{pause 10}	Or even morning.	{emote: Sigh}The {Blue}Winter Solstice {Color Reset}has me a	smidge down. {pause 16}There's not going to	be ANY sun today,{pause 8} {catchphrase}!	{emote: Worry}I need a little sunlight to give me	my morning jolt. {pause 20}{emote: Distress}Otherwise,{pause 8} I might	fall back asleep!
+"003"	OK,{pause 8} {Player nickname (green)}. {pause 16}Get ready for my	annual {Blue}Winter Solstice {Color Reset}cheer!{Wait for input}{0007-000a-0000}{emote: Star Yell}GOOD MORNING!{Wait for input}{emote: Soft Smile}I always kick today off like that.{pause 10}	The sun won't show up. {pause 16}So I have to	power through the day on my own.
+"004"	{capitalized}{Greeting begin}Happy solstice{Greeting end}.	You DO know the sun won't rise	today, don't you {Player nickname (green)}?	{emote: Disagreement}I know—it's hard to believe.	It's {Hour}:{Minutes} and still dark. {pause 10}Life	will be back to normal tomorrow.
+"005"	{emote: Greetings}Good day,{pause 8} {Player nickname (green)}.{pause 16} {emote: Distress}But it seems	like night, {pause 8}right?{pause 16} And it's only	{Hour}:{Minutes}.	{emote: Resigned}I've heard of springing forward an	hour and falling back an hour, {pause 8}but	today time just seems{pause 8}.{pause 8}.{pause 8}.{pause 8}{pause 10}stuck.
+"006"	{emote: Worry}{capitalized}{Greeting begin}Hello, {Player nickname (green)}{Greeting end}.{pause 10}	I hate to break it to you, but the	sun took a vacation today.	{emote: Disagreement}Don't worry. It will be back	tomorrow. {pause 10}But today is going to	feel a lot like night, {catchphrase}.
+"007"	{capitalized}{Greeting begin}Good evening, {Player nickname (green)}{Greeting end}.	Or should I say...{pause 10}{emote: Fearful}"cold evening"?{Wait for input}{emote: Sigh}The {Blue}Winter Solstice {Color Reset}always makes	things extra chilly around here,{pause 8}	{catchphrase}.
+"008"	You know, {pause 8}sometimes I'm told I can	be a little cold. {pause 10}Sorry if that's ever	the case, {pause 8}{Player nickname (green)}.	But tonight? {pause 10}I'm cold. {pause 10}{emote: Fearful}Really cold.{pause 20}	{emote: Disagreement}The {Blue}Winter Solstice {Color Reset}and I are SO	not on speaking terms.
+"009"	{emote: Fearful}Ugh, {Player nickname (green)}. {pause 10}How much colder	could this night BE,{pause 8} {catchphrase}?{Wait for input}The {Blue}Winter Solstice {Color Reset}chases away	the sun today, {pause 8}which makes	everything {pause 3}be{pause 3}yond{pause 3} cold!	We'll all thaw out after it's all	over, {pause 8}{Player nickname (green)}.
+"010"	{emote: Soft Smile}{capitalized}{Greeting begin}Good evening, {Player nickname (green)}{Greeting end}.{pause 10}	I can't believe you're out on such	a cold solstice night.	{emote: Worry}I'm not sure ANY of us have the	right clothes, {pause 5}or fur, {pause 5}or scales,	{pause 5}or whatever, {pause 5}to stay warm tonight.
+"011"	{emote: Fearful}Oh, {Player nickname (green)}... {pause 10}I'm frozen to the	core. {pause 5}What are we doing outside	in this cold weather?	{emote: Worry}The solstice is always so absolutely	freezing! {pause 10}I should know better,	{catchphrase}!
 == 1 ==
-"001"	{capitalized}
-"002"	¡{capitalized}
-"003"	Anda, {Player nickname (green)}
-"004"	{capitalized}
-"005"	¿Qué tal, {Player nickname (green)}
-"006"	{emote: Worry}
-"007"	{capitalized}
-"008"	Alguien me ha dicho alguna vez	que puedo ser un poco fría.{pause 10}
-"009"	{emote: Fearful}
-"010"	{emote: Soft Smile}
-"011"	{emote: Fearful}
+"001"	{capitalized}{Greeting begin}Ah, buenos días, encanto{Greeting end}...{pause 10}	Ya sé que estoy un poco	desanimada...	Es por el solsticio de invierno. {pause 10}	Despertarme sin sol me quita	las fuerzas, {catchphrase}.
+"002"	¡{capitalized}{Player nickname (green)}! Buenos días...{pause 10}	En realidad de buenos no tienen	nada. {pause 10}Oh, no me hagas caso.{pause 10}	{emote: Sigh}Es que hoy no saldrá el sol y eso	me pone de mal humor, la verdad,	{catchphrase}.	Si pudiera, me pasaría el solsticio	de invierno en la cama.
+"003"	Anda, {Player nickname (green)}. ¡Prepárate para	mi saludo anual del solsticio de	invierno!{Wait for input}{0007-000a-0000}{emote: Star Yell}¡BUENOS DÍAS!{Wait for input}{emote: Soft Smile}Siempre saludo así, con energía.{pause 10}	Ya que hoy el sol no nos despierta,	que lo haga mi saludo.
+"004"	{capitalized}{Greeting begin}Feliz solsticio, {Player nickname (green)}{Greeting end}.	Sabes que estamos en pleno	solsticio, ¿verdad, clavelito?	Solo son las {Hour}:{Minutes} horas y parece	medianoche. {pause 10}Por suerte, mañana	todo volverá a la normalidad.
+"005"	¿Qué tal, {Player nickname (green)}?	No te vayas a dormir aún,{pause 10}	solo son las {Hour}:{Minutes} horas.	{emote: Resigned}Hoy parece que el tiempo se haya	detenido en plena noche,{pause 10}	{catchphrase}.
+"006"	{emote: Worry}¡{capitalized}{Greeting begin}Hola, {Player nickname (green)}{Greeting end}!{pause 10}	Me temo que el sol se ha tomado	el día libre, {catchphrase}.	{emote: Agreement}Pero tranquil{o/a}, mañana volverá.	{pause 10}Si te agobias ven a mi casa, tengo	cotilleos para alegrarte el día.
+"007"	{capitalized}{Greeting begin}Buenas noches, {Player nickname (green)}{Greeting end}.	¿O debería decir...{pause 10}{emote: Fearful} frías noches?{Wait for input}¡Tengo la piel muy delicada, estos	cambios de temperatura no	me sientan bien, {catchphrase}!
+"008"	Alguien me ha dicho alguna vez	que puedo ser un poco fría.{pause 10}	En tal caso, lo siento, {Player nickname (green)}.	Pero esta noche no es culpa mía. {pause 10}	Hace frío{emote: Fearful} ¡y tengo frío!{Wait for input}El solsticio de invierno no es mi día	preferido del año precisamente,	{catchphrase}.
+"009"	{emote: Fearful}Brr, {Player nickname (green)}. {pause 10}No puedo creer	que haga tanto frío, {catchphrase}.{Wait for input}Como no ha salido el sol,	el pueblo está más frío que	de costumbre, terroncito.	{emote: Anger}¡Si me gustara congelarme,	viviría en una nevera!
+"010"	{emote: Soft Smile}¡{capitalized}{Greeting begin}Pero bueno, {Player nickname (green)}{Greeting end}!{pause 10}	¿Cómo puedes seguir paseando por	la calle con este frío siberiano?	{emote: Worry}No creo que ninguno de nosotros	tenga la ropa,{pause 8} o pelaje,{pause 8} o escamas,{pause 8}	o...{pause 15} ¡lo que sea para soportarlo!
+"011"	{emote: Fearful}Ah, {Player nickname (green)}... {pause 10}Estoy {pause 20}congelada.	¿Por qué seguimos aquí fuera	con el frío que hace?	{emote: Worry}Deberíamos estar en casa tomando	una sopa bien calentita,	{catchphrase}.
 == 2 ==
-"001"	{capitalized}
-"002"	Bonjour {Player nickname (green)}!
-"003"	OK, {000e-0006-0016-08-00-70-00-72-00-ffffffea-00-74-00-0a-00-70-00-72-00-ffffffea-00-74-00-65-00}, {Player nickname (green)}
-"004"	{capitalized}
-"005"	Bonjour {Player nickname (green)}!
-"006"	{emote: Worry}
-"007"	{capitalized}
-"008"	Tu sais, {pause 8}
-"009"	{emote: Fearful}
-"010"	{emote: Soft Smile}
-"011"	{emote: Fearful}
+"001"	{capitalized}{Greeting begin}Bonjour{Greeting end}.{pause 10}	Oui, je sais bien, {Player nickname (green)}.	{pause 20}Je n'ai pas l'air tellement réveillé...{pause 20}{emote: Sleepy}	On ne peut pas m'en vouloir. {pause 10}Même	le soleil n'a pas pris la peine de se	lever aujourd'hui, {catchphrase}.
+"002"	Bonjour {Player nickname (green)}.{pause 10} Enfin, si je puis	dire...{pause 10} Je devrais peut-être plutôt	dire « bonne nuit ».	{emote: Sigh}À chaque {Blue}solstice d'hiver{Color Reset}, c'est le	même problème, je suis toujours	toute flagada...	{emote: Worry}Sans soleil pour recharger mes	batteries, {pause 20}{emote: Distress}je ne suis bonne à rien,	{catchphrase} !
+"003"	OK, {prêt/prête}, {Player nickname (green)} ? Attention,	j'y vais :{Wait for input}{0007-000a-0000}{emote: Star Yell}GOOOOD MORNIIIING {Town name (pink)} !{Wait for input}{emote: Glare}Hi hi... C'est toujours comme ça que	je commence ma journée du solstice	d'hiver.{pause 10} {capitalized}{catchphrase}.	Puisque le soleil ne nous donne pas	de son énergie, c'est moi qui essaie	d'en donner aux autres.
+"004"	{capitalized}{Greeting begin}Bon solstice d'hiver, {Player nickname (green)}{Greeting end} !	Tu sais que le soleil ne se lève pas	le jour du solstice, n'est-ce pas ?	{emote: Disagreement}Je sais, c'est difficile à croire,	et pourtant... regarde, il est	{Hour} h {Minutes} et il fait toujours nuit.{pause 10}	Tout reviendra à la normale demain,	ne t'en fais pas. Bonne journée,	ou plutôt, bonne nuit !
+"005"	Bonjour {Player nickname (green)}. {pause 10}{emote: Soft Smile}On se croirait	en pleine nuit, {emote: Disagreement}et pourtant c'est la	journée, il est même {Hour} h {Minutes}.	{emote: Resigned}On m'a dit que pour l'occasion,	certains avancent ou retardent leur	montre de quelques heures.	{emote: Thought}Hummm... Je ne vois vraiment pas	ce que ça change, {catchphrase}.
+"006"	{emote: Worry}{capitalized}{Greeting begin}Hello, {Player nickname (green)}{Greeting end}.{pause 10}	Crois bien que j'en suis la première	désolée, mais je dois te prévenir...	Le soleil ne se lèvera pas	aujourd'hui. {emote: Soft Smile}Mais ne t'inquiète pas,	il reviendra demain, {pause 10}{catchphrase}.
+"007"	{capitalized}{Greeting begin}Bonsoir {Player nickname (green)}{Greeting end}. {emote: Fearful}Qu'est-ce qu'il	fait froid... Brrrr...{Wait for input}C'est toujours pareil au {Blue}solstice	d'hiver{Color Reset}, mais à chaque fois je me	fais surprendre, {catchphrase}.
+"008"	Tu sais, {pause 8}on me dit parfois que je	suis froide avec les gens.{Wait for input}Crois bien que je suis désolée si je	t'ai donné cette impression,	{Player nickname (green)}.	Mais ce soir... {pause 10}Brrr...{pause 10} J'ai froid...{pause 10}	{emote: Fearful}Vraiment froid...{pause 20} Je HAIS le {Blue}solstice	d'hiver {Color Reset}! {capitalized}{catchphrase}.
+"009"	{emote: Fearful}Brrr... {Player nickname (green)}. {pause 10}Il fait un froid de	canard, {catchphrase} !{Wait for input}Comme il fait nuit pendant tout le	solstice d'hiver, la température	descend {pause 10}très{pause 10} très{pause 10} très{pause 10} bas !	Je te le dis, {Player nickname (green)}. Ce n'est	vraiment pas un temps à mettre	un chien dehors.
+"010"	{emote: Soft Smile}{capitalized}{Greeting begin}Bonsoir {Player nickname (green)}{Greeting end}.{pause 10}	Je n'arrive pas à croire que	tu sortes par une nuit si froide.	{emote: Worry}J'espère que tout le monde ici a un	bon duvet, au moins une petite laine	ou même une bonne fourrure.	Il faut bien ça pour supporter le	froid glacial du solstice d'hiver.	{emote: Fearful}{capitalized}{catchphrase}.
+"011"	{emote: Fearful}Oh, {Player nickname (green)}. {pause 10}Brrr... Je suis gelée.{pause 5}	Il faut être plus fou qu'un fou de	Bassan pour sortir par ce froid...	{emote: Worry}La nuit du solstice est toujours	particulièrement froide. {pause 10}J'aurais dû	m'y attendre, {catchphrase} !
 == 3 ==
-"001"	{capitalized}
-"002"	Buongiorno, {Player nickname (green)}
-"003"	Bene, {Player nickname (green)}
-"004"	{capitalized}
-"005"	Buongiorno, {Player nickname (green)}
-"006"	{emote: Worry}
-"007"	{capitalized}
-"008"	Mi è stato detto che posso essere	un po' fredda. {pause 10}
-"009"	{emote: Fearful}
-"010"	{emote: Soft Smile}
-"011"	{emote: Fearful}
+"001"	{capitalized}{Greeting begin}Buongiorno{Greeting end}.{pause 10}	Lo so, {Player nickname (green)}. {pause 10}Non devo fare{pause 5}	una gran bella {pause 5}{emote: Sigh}impressione.	Del resto, {pause 10}il sole non è sorto oggi,	quindi diciamo che la giornata non	è iniziata al meglio, {catchphrase}.
+"002"	Buongiorno, {Player nickname (green)}.{pause 10}	Beh, almeno speriamo.{pause 10} Per ora	la giornata non promette bene.	{emote: Sigh}Il solstizio d'inverno mi butta un po'	giù. Oggi il sole non si farà mai	vedere, {catchphrase}!	Come farò a cucire? {pause 20}{emote: Distress}Dovrò tirare	fuori le candele!
+"003"	Bene, {Player nickname (green)}. Sei pront{o/a} per	il mio saluto entusiasta???{Wait for input}{0007-000a-0000}{emote: Star Yell}MA BUONGIORNO!{Wait for input}{emote: Soft Smile}Devo darmi la carica in qualche	modo.{pause 10} Così tante ore di buio	renderebbero depresso chiunque.
+"004"	{capitalized}{Greeting begin}Buon solstizio, {Player nickname (green)}{Greeting end}.	Il sole non sorgerà oggi...	Dimmi che lo sapevi!	{emote: Disagreement}Lo so, è difficile a credersi.	Sono le {Hour}:{Minutes} e fa ancora buio.{pause 10}	Domani tornerà tutto nella norma.
+"005"	Buongiorno, {Player nickname (green)}.	Anche se sembra già notte, {pause 5}vero?{pause 10}	{emote: Disagreement}Ma no, sono solo le {Hour}:{Minutes}.	{emote: Resigned}Pensa che avevo già preparato	la cena...{pause 10} Ho dovuto mangiarla	per merenda, {catchphrase}.
+"006"	{emote: Worry}{capitalized}{Greeting begin}Salve, {Player nickname (green)}{Greeting end}.{pause 10}	Mi spiace dirtelo, ma il sole	al momento è in vacanza.	{emote: Disagreement}Non preoccuparti. Sarà di ritorno	domani. {pause 10}Ma per oggi dobbiamo	rassegnarci, {catchphrase}.
+"007"	{capitalized}{Greeting begin}Buonasera, {Player nickname (green)}{Greeting end}.	Non trovi che sia un tantinello...{pause 10}	{emote: Fearful}freddino?{Wait for input}Succede sempre così la sera del	solstizio d'inverno. Copriti bene	le orecchie, {catchphrase}.
+"008"	Mi è stato detto che posso essere	un po' fredda. {pause 10}Scusa se ti ho dato	questa impressione, {Player nickname (green)}.	Beh, stasera... {pause 10}Sono fredda. {pause 10}{emote: Fearful}Ma per	altri motivi.{pause 20} Non personali, ma	atmosferici, {catchphrase}.
+"009"	{emote: Fearful}Brrr! {capitalized}{Player nickname (green)}, {pause 10}hai mai sentito	un freddo del genere, {catchphrase}?{Wait for input}Per il solstizio d'inverno{pause 3} il sole va in	villeggiatura.{pause 3} Chissà, {pause 3}forse fa una	settimana bianca!	Io invece vorrei essere ai tropici,	{Player nickname (green)}.
+"010"	{emote: Soft Smile}{capitalized}{Greeting begin}Bentrovat{o/a}, {Player nickname (green)}{Greeting end}.{pause 10}	Che strano trovarti in giro in una	notte così ostile.	{emote: Worry}Ho dovuto tirare fuori il mio	cappotto buono per questo freddo.{pause 5}	Era {pause 5}pieno {pause 5}zeppo {pause 5}di naftalina.
+"011"	{emote: Fearful}Oh, {Player nickname (green)}... {pause 10}Ho talmente tanto	freddo {pause 5}che non riesco a dormire.	Allora ho pensato di uscire di casa.	{emote: Worry}Pensa che mi ero portata a letto	{pause 10}la borsa dell'acqua calda, ma non è	servito a niente, {catchphrase}!
 == 4 ==
-"001"	{capitalized}
-"002"	Guten Morgen, {pause 8}!
-"003"	Ah, sehr gut! {pause 20}!
-"004"	{capitalized}
-"005"	Schönen guten Morgen, {pause 8}!
-"006"	{emote: Worry}
-"007"	{capitalized}
-"008"	Ich habe mir sagen lassen, dass ich	manchmal etwas kalt rüberkomme.	Das tut mir leid, {pause 8}
-"009"	{emote: Fearful}
-"010"	{emote: Soft Smile}
-"011"	{emote: Fearful}
+"001"	{capitalized}{Greeting begin}Guten Morgen{Greeting end}{pause 8}.{pause 8}.{pause 8}.{pause 20}	Ja, {Player nickname (green)}, {pause 8}ich weiß{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Sigh}{pause 10}Ich klinge	heute etwas melancholisch.	Aber kannst du es mir verübeln?{pause 40}	Ohne Sonnenschein kommt mir	alles so trüb vor, {pause 8}{catchphrase}.
+"002"	Guten Morgen, {pause 8}{Player nickname (green)}!{pause 40}	Obwohl{pause 8}.{pause 8}.{pause 8}.{pause 20} Besonders gut ist	dieser Morgen auch nicht.	{emote: Sigh}Ach!{pause 20} Es ist so düster und grau,{pause 8}	{catchphrase}!{pause 40}{emote: Distress} Ohne Sonnenlicht	fehlt mir jeglicher Antrieb!
+"003"	Ah, sehr gut! {pause 20}Du kommst gerade	recht, {pause 8}{Player nickname (green)}! {pause 40}Hör mir gut zu!{Wait for input}{0007-000a-0000}{emote: Star Yell}{Blue}MITTWINTER{Color Reset}-MORGEN	VERTREIBT KUMMER	UND SORGEN!	{emote: Soft Smile}So. {pause 20}Das mache ich jedes Jahr.{pause 40}	Ohne Sonnenschein ist es so trist.{pause 20}	Da verbreite ich gerne gute Laune.
+"004"	{capitalized}{Greeting begin}Frohen {Blue}Mittwinter {Color Reset}wünsche ich{Greeting end}!{pause 40}	Dir ist hoffentlich klar, dass die	Sonne heute nicht aufgeht.	{emote: Disagreement}Ich weiß!{pause 20} Kaum zu fassen, dass es	um {Hour}:{Minutes} Uhr noch zappenduster	ist.{pause 40} Morgen ist wieder alles normal!
+"005"	Schönen guten Morgen, {pause 8}{Player nickname (green)}!{pause 40}	Man könnte meinen, es wäre Nacht,	{pause 8}nicht wahr?	{emote: Disagreement}Dabei ist es erst {Hour}:{Minutes} Uhr!{pause 40} {emote: Resigned}Es	kommt mir beinahe so vor, als ob	die Erde aufhört, sich zu drehen!
+"006"	{emote: Worry}{capitalized}{Greeting begin}Oh! {pause 20}Sei gegrüßt{Greeting end}!{Wait for input}Ich habe schlechte Nachrichten für	dich: {pause 40}Die Sonne hat heute frei.{Wait for input}{emote: Disagreement}Aber reg dich nicht auf!{pause 40} Morgen	kommt sie wieder.{pause 10} Heute wird es	aber dunkel bleiben, {catchphrase}.
+"007"	{capitalized}Guten Abend, {pause 8}{Player nickname (green)}!{pause 40}	Ganz schön frisch heute, was?{pause 20}	An {Blue}Mittwinter {Color Reset}friere ich immer...
+"008"	Ich habe mir sagen lassen, dass ich	manchmal etwas kalt rüberkomme.	Das tut mir leid, {pause 8}{Player nickname (green)}.	Aber heute liegt es an {Blue}Mittwinter{Color Reset}.	{pause 40}{emote: Fearful}Brrr!{pause 20} Ohne Sonne kommt doch 	alles kalt rüber, {pause 8}{catchphrase}.
+"009"	{emote: Fearful}Brrr, {pause 8}{Player nickname (green)}! {pause 20}Das ist vielleicht	eine elendige Kälte, {pause 8}{catchphrase}!{Wait for input}An {Blue}Mittwinter {Color Reset}fehlt eben die Sonne	mit ihren wärmenden Strahlen!{pause 20}	Na ja, {pause 8}morgen tauen wir wieder auf.
+"010"	{emote: Soft Smile}{capitalized}{Greeting begin}Guten Abend, {pause 8}{Player nickname (green)}{Greeting end}!{pause 20}	Was treibt dich denn in dieser kalten	{Blue}Mittwinter{Color Reset}-Nacht nach draußen?	{emote: Worry}In dieser Kälte halten einen weder	dicke Socken noch ein dickes Fell	richtig warm!
+"011"	{emote: Fearful}S-s-sei g-gegrüßt, {pause 8}{Player nickname (green)}...{pause 40}	Ich f-friere hier noch f-f-fest!	{pause 20}Wir sollten gar nicht draußen sein!	{emote: Worry}Dass es an {Blue}Mittwinter {Color Reset}so kalt wird,	sollte ich nach all den Jahren doch	wissen, {pause 8}{catchphrase}!

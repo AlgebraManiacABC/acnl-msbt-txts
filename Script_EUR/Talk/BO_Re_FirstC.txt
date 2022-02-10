@@ -1,130 +1,130 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Happiness}
-"004"	{emote: Curious}
-"005"	{emote: Curious}
-"006"	{emote: Alarmed}
-"007"	{emote: Surprise}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Sadness}
-"011"	{emote: Alarmed}
-"012"	{emote: Disbelief}
-"013"	{emote: Glee}
-"014"	{emote: Greetings}
-"015"	{emote: Alarmed}
-"016"	{emote: Greetings}
-"017"	{emote: Greetings}
-"018"	{emote: Happiness}
-"019"	{emote: Sleepy}
-"020"	{emote: Alarmed}
-"021"	{emote: Happiness}
-"022"	{emote: Curious}
-"023"	{emote: Surprise}
-"024"	{emote: Laughter}
-"025"	{emote: Worry}
+"001"	{emote: Greetings}Hey, {Player name}!{Wait for input}	{emote: Happiness}Remember me?{pause 20} We've totally met	before,{pause 8} {catchphrase}!	{emote: Glee}Looks like we're gonna be neighbors	now! A huh huh huh!{pause 20} Well, see you	around, neighbor!
+"002"	{emote: Alarmed}{0007-000a-0000}Oh, {Player name}!{pause 40}	I didn't know you lived here!{Wait for input}	{emote: Worry}You didn't forget me, did you?	It's {Villager's name (orange)}!{pause 20} {emote: Happiness}I didn't expect to	run into you in my new town! {emote: Shyness}Guess	I'll see you around,{pause 8} {catchphrase}.
+"003"	{emote: Happiness}Oh, nice to meet you!{pause 20} My name's	{Villager's name (orange)}!{Wait for input}Wait—{pause 40}{emote: Shocked}what?{pause 20} Is that {Player name}?!{pause 20}	{emote: Happiness}We've definitely met before! {Wait for input}Well, it looks like we're living in the	same place now!{pause 40} Good to see you	again,{pause 8} {catchphrase}!
+"004"	{emote: Curious}Tell me the truth.{pause 20} Do you even	remember me?{Player can respond (0006):0018-0015-0019-0000-0019-0028}	Of course!	Um...	Nope, don't remember.
+"005"	{emote: Curious}Wait.{pause 20} Aren't you{pause 20} {Player name}?{pause 40} What	are you doing here?{Wait for input} {emote: Disbelief}{0007-000a-0000}Don't tell me	you live in {Town name (pink)} too?!	{emote: Glee}Whoa!{pause 40} What a crazy coincidence.{pause 20}	I guess we're officially neighbors	now!{pause 20} Nice,{pause 8} {catchphrase}!
+"006"	{emote: Alarmed}Hey, {Player name}!{pause 40}	{emote: Happiness}It's me!{pause 20} {capitalized}{Villager's name (orange)}!{pause 20} Funny running	into you here,{pause 8} {catchphrase}.	{emote: Thought}Oh, right,{pause 20} you live here, don't you.{Wait for input}	{emote: Happiness}Well, I'm glad we're neighbors now!{pause 20}	It was good to see ya!
+"007"	{emote: Surprise}{capitalized}{Player name}!{pause 20} I finally tracked you	down!{pause 20} {emote: Curious}You remember me, don't	you?{pause 40}	{emote: Happiness}I'm just kidding. I know you	wouldn't forget ol' {Villager's name (orange)}.{pause 20}	Anyway, I just moved to this town.  	{emote: Shyness}I hope we'll get a chance to hang	out more.{Wait for input} {emote: Happiness}It was good to see you	again,{pause 8} {catchphrase}.
+"008"	{emote: Alarmed}{0007-000a-0000}Yes!{pause 40} I finally found you, {Player name}!{pause 20}	{emote: Distress}I've been looking all over for you	ever since I moved here!	{emote: Happiness}We've gotta hang out more,{pause 8}	{catchphrase}!
+"009"	{emote: Happiness}Hey,{pause 20} when did you move here?{Wait for input}	{emote: Disbelief}{0007-000a-0000}Huh?!{pause 20} You've been here the whole	time?!	{emote: Resigned}Oh, I guess I'm the newbie here	then{pause 8}.{pause 8}.{pause 8}.{pause 20}even though I moved here	from {0011-0002-0002-0000} a while ago.{Wait for input}{emote: Glee}Well,{pause 20} it's good to see you again,{pause 8}	{catchphrase}.
+"010"	{emote: Sadness}Oh no!{pause 20} Now I'm hallucinating that	{Player name} is here.{pause 20} I must be sicker	than I thought.	{emote: Disbelief}{0007-000a-0000}Huh?!{pause 20} You're real?! {pause 40}Do you live in	{Town name (pink)} too?{Wait for input} {emote: Happiness}It's me, {Villager's name (orange)}.{pause 20}	Remember me?{pause 20} I just moved here.	{emote: Sadness}But I must have overdone things	moving, 'cause I caught a cold{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Sneezing}Ah{pause 20}{0007-000a-0000}choo!	Ugh{pause 8}.{pause 8}.{pause 8}.{pause 20} We should hang out when I'm	better,{pause 8} {catchphrase}.
+"011"	{emote: Alarmed}{0007-000b-0000}Huh?{pause 20} {capitalized}{Player name}?!{pause 20}	What are you doing here?{Wait for input}{emote: Shyness}Oh, did you come here to help get	me settled?{pause 20} Well, it's nice to see a	friendly face.	{emote: Happiness}I was worried about settling into	this new town,{pause 20} but I feel much	better now, thanks to you!
+"012"	{emote: Disbelief}{0007-000a-0000}What are you doing here,{pause 20}	{Player name}?!{pause 40} {emote: Distress}Did you follow me	here to spy on me?	{emote: Happiness}I just moved in,{pause 20} so my place is kind	of a mess.{pause 20} But you should visit me	when I've had a chance to settle in!	{emote: Sunny}My place is gonna look so cool	after I unpack!
+"013"	{emote: Glee}Yay!{pause 20} It's {Player name}!{pause 40} Thanks for	coming to visit,{pause 8} {catchphrase}.{Wait for input}{emote: Sadness}As you can see,{pause 8} I haven't had a	chance to unpack yet,{pause 8} so my place	is a total mess.	{emote: Laughter}But a mess feels kind of homey	to me.{pause 20} So maybe I'll leave things	like this just for today!
+"014"	{emote: Greetings}Hey there,{pause 20} {Player name}!{pause 40}	I can't believe you came all the way	out here to visit me!	{emote: Reset}I just moved here, so I've been	kind of unsettled.{pause 20} {emote: Bashful}But seeing you	makes me feel a whole lot better.	{emote: Happiness}Come visit me again sometime, OK,{pause 8}	{catchphrase}?
+"015"	{emote: Alarmed}Huh?{pause 20} {capitalized}{Player name}?{Wait for input}	{emote: Daydreaming}Seeing you here feels like I've	traveled back in time.	{emote: Happiness}Promise me you'll come visit me	again sometime,{pause 8} {catchphrase}!
+"016"	{emote: Greetings}Heya,{pause 20} {Player name}!{pause 40} Man,{pause 8} it's good	to see you.{pause 40} {emote: Curious}How's everyone back	in {Town name (pink)}?{Wait for input}{emote: Reset}I'm still settling into {Town name (pink)},{pause 20} so	{emote: Glee}it's nice to see a familiar face,{pause 8}	{catchphrase}!
+"017"	{emote: Greetings}Howdy,{pause 20} {Player name}!{pause 20}	Are you here to check up on me,{pause 8}	{catchphrase}?	{emote: Happiness}A huh huh huh!{pause 20} You're such a	worrier. {emote: Glee}But relax!{pause 20} As you can see,	I'm doing great!
+"018"	{emote: Happiness}Hey,{pause 8} {Player name}!{pause 20}	It's been a while!{Wait for input} {emote: Glare}Are you surprised	at how much I've matured?	{emote: Pride}It's true.{pause 20} I've gotten a little taller{pause 20}	and a LOT heftier.{pause 40} {emote: Bashful}Moving makes	me even hungrier than usual.
+"019"	{emote: Sleepy}Yaaawn{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Disbelief} Oh, {Player name}!{Wait for input}{emote: Glee}Wow,{pause 20} long time no see!{pause 40}	Don't I seem like a complete	{Town name (pink)} local now?	{emote: Happiness}It took a while, but I feel totally at	home here now.{pause 20} I hope you'll come	visit me again sometime!
+"020"	{emote: Alarmed}Whoa,{pause 20} it's {Player name}!{pause 20}	I wasn't expecting to see you here!{Wait for input}{emote: Worry}I just moved here, and I've been	kind of worried about settling in	and making new friends.	I still need to get my place set up{pause 8}	and mentally prepare myself for	meeting new people.	{emote: Happiness}But{pause 20} seeing you here is making me	feel lots better!{Wait for input}{emote: Anger}Yeah!{pause 20} I'm gonna meet the heck out	of everyone in {Town name (pink)}!{pause 40}{emote: Happiness}
+"021"	{emote: Happiness}Heya!{pause 20} Welcome!{pause 40}	You're my first-ever guest!{Wait for input}{emote: Distress}{0007-000b-0000}Wait!{pause 40} What are you doing here,	{Player name}?{pause 20} I didn't accidentally	move to {Town name (pink)}, did I?	{emote: Reset}.{pause 8}.{pause 8}.{pause 20}{emote: Sigh}Oh, you're just visiting, are you?{pause 20}	Whew!{pause 40} Well, it's good to see you,	{pause 8}{catchphrase}!{pause 40}{emote: Happiness}
+"022"	{emote: Curious}Hmmm?{pause 40} Something smells very	familiar{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Inspired}{0007-000a-0000}It smells like {Town name (pink)}!{Wait for input}{emote: Glee}A huh huh huh!{pause 20} I've got a pretty	bad memory,{pause 8} but luckily, I've got a	great sniffer.	It's good to see you again,{pause 8}	{catchphrase}!
+"023"	{emote: Surprise}{0007-000a-0000}Oh!{pause 20} It's {Player name}!{pause 40}	{emote: Happiness}Don't you remember me?{pause 40} It's me,{pause 20}	{Villager's name (orange)}!	{emote: Agreement}You're here visiting, right,	{Player name}?{pause 40} Well, this is where I live	now!	{emote: Happiness}Meeting again like this is pretty	crazy!{pause 20} {emote: Love}It feels like fate or	something,{pause 8} {catchphrase}!
+"024"	{emote: Laughter}I knew you'd never forget your	old pal{pause 8} {Villager's name (orange)}!{Wait for input} {emote: Thought}Though, to be	honest, I forget where we met.	{emote: Happiness}Anyway, I just moved here today.{pause 20}	It's good seeing you again,{pause 8}	{catchphrase}!
+"025"	{emote: Worry}Aw,{pause 20} come on!{pause 20} I'm {Villager's name (orange)}!{pause 20}	And we've totally met before,{pause 8}	{catchphrase}!	{emote: Happiness}Anyway, I just moved into town	today.{pause 40} I'll be seeing you around,{pause 8}	so don't forget me again!
 == 1 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Happiness}
-"004"	{emote: Curious}
-"005"	{emote: Curious}
-"006"	{emote: Alarmed}
-"007"	{emote: Surprise}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Sadness}
-"011"	{emote: Alarmed}
-"012"	{emote: Disbelief}
-"013"	{emote: Glee}
-"014"	{emote: Greetings}
-"015"	{emote: Alarmed}
-"016"	{emote: Greetings}
-"017"	{emote: Greetings}
-"018"	{emote: Happiness}
-"019"	{emote: Sleepy}
-"020"	{emote: Alarmed}
-"021"	{emote: Happiness}
-"022"	{emote: Curious}
-"023"	{emote: Surprise}
-"024"	{emote: Laughter}
-"025"	{emote: Worry}
+"001"	{emote: Greetings}¡Oye, {Player name}!{Wait for input}	{emote: Happiness}¿Me recuerdas?{pause 20} ¡Ya nos	conocemos,{pause 8} {catchphrase}!	{emote: Glee}¡Parece que ahora vamos a ser	vecinos! ¡Je, je, je!{pause 20} Bueno,	¡pues hasta pronto, vecin{o/a}!
+"002"	{emote: Alarmed}{0007-000a-0000}¡Ah, {Player name}!{pause 40}	¡No sabía que vivías aquí!{Wait for input}	{emote: Worry}No me has olvidado, ¿verdad?	¡Soy {Villager's name (orange)}!{pause 20} {emote: Happiness}¡No esperaba	verte en mi nuevo pueblo! {emote: Shyness}Pues	nada, ¡ya nos vemos,{pause 8} {catchphrase}!
+"003"	{emote: Happiness}Ah, ¡encantado de conocerte!{pause 20}	¡Me llamo {Villager's name (orange)}!{Wait for input}Espera...{pause 40} {emote: Shocked}Vaya,{pause 20} ¡¿{Player name}?!{pause 20}	{emote: Happiness}¡Pero si ya nos conocíamos!{Wait for input}Bueno, ¡parece que ahora vivimos	en el mismo sitio!{pause 40} ¡Me alegro de	volver a verte,{pause 8} {catchphrase}!
+"004"	{emote: Curious}Dime la verdad...{pause 20} ¿Me recuerdas	o no?{Player can respond (0006):0018-0015-0019-0000-0019-0028}	¡Claro que sí!	Esto...	No, no te recuerdo
+"005"	{emote: Curious}Espera,{pause 20} ¿tú no eres{pause 20} {Player name}?{pause 40}	¿Qué haces aquí?{Wait for input} {emote: Disbelief}{0007-000a-0000}¡No me digas	que también vives en {capitalized}{Town name (pink)}!	{emote: Glee}¡Vaya!{pause 40} Qué coincidencia tan curiosa.{pause 20}	¡Supongo que ahora tú y yo somos	vecinos oficialmente,{pause 20} {catchphrase}!
+"006"	{emote: Alarmed}¡Hola, {Player name}!{pause 40}	{emote: Happiness}¡Soy yo,{pause 20} {Villager's name (orange)}!{pause 20} Qué curioso	verte por aquí,{pause 8} {catchphrase}.	{emote: Thought}Ah, claro,{pause 20} ¡es que vives aquí!{Wait for input}{emote: Happiness}	Pues nada, ¡encantado de que	ahora seamos vecinos y todo!
+"007"	{emote: Surprise}¡{capitalized}{Player name},{pause 20} al fin te he localizado!	{pause 20}{emote: Curious}No me recuerdas, ¿verdad?{Wait for input}{emote: Happiness}Es broma. Sé que no te olvidarías	de tu amiguete {Villager's name (orange)}.{pause 20} Oye,	pues me he mudado a este pueblo.	{emote: Shyness}Espero que tengamos ocasión de	pasar más tiempo juntos.{Wait for input} {emote: Happiness}Me alegro	de volver a verte,{pause 8} {catchphrase}.
+"008"	{emote: Alarmed}{0007-000a-0000}¡Sí!{pause 40} ¡Al fin te encuentro, {Player name}!{pause 20}	{emote: Distress}¡Llevo buscándote por todas partes	desde que me mudé aquí!	{emote: Happiness}¡Tenemos que pasar más tiempo	juntos,{pause 8} {catchphrase}!
+"009"	{emote: Happiness}Huy,{pause 20} ¿tú desde cuándo vives	aquí?{Wait for input} {emote: Disbelief}{0007-000a-0000}¡¿Qué?!{pause 20} ¿Así que ya vivías	en este pueblo?	{emote: Resigned}Vaya, supongo que soy yo el recién	llegado{pause 8}.{pause 8}.{pause 8}.{pause 20} aunque ya hace tiempo	que me mudé desde {capitalized}{0011-0002-0002-0000}.	{emote: Glee}Bueno,{pause 20} ¡me alegro de volver	a verte,{pause 8} {catchphrase}!
+"010"	{emote: Sadness}¡Oh, no!{pause 20} ¡Ya estoy alucinando! ¡Veo	a {Player name}!{pause 20} Así que estoy aún	más enfermo de lo que creía.	{emote: Disbelief}{0007-000a-0000}¡¿Eh?!{pause 20} ¡¿Eres real?! {pause 40}¿También vives	en {capitalized}{Town name (pink)}?{Wait for input} {emote: Happiness}Soy yo, {Villager's name (orange)}.{pause 20}	¿Me recuerdas?{pause 20} Me he mudado aquí.	{emote: Sadness}Pero con la mudanza se ve que he	cogido frío, así que ahora tengo	un buen catarrazo{pause 8}.{pause 8}.{pause 8}.	{emote: Sneezing}¡Aaaa{pause 20}{0007-000a-0000}chíiiis! Ay{pause 8}.{pause 8}.{pause 8}.{pause 20} Tenemos que	vernos cuando me encuentre un	poco mejor,{pause 8} {catchphrase}.
+"011"	{emote: Alarmed}{0007-000b-0000}¿Eh?{pause 20} ¡¿{capitalized}{Player name}?!{pause 20}	¿Qué estás haciendo aquí?{Wait for input}{emote: Shyness}Ah, ¿venías a echarme una mano	con todo esto?{pause 20} Oye, cómo mola	ver una cara amiga por aquí.	{emote: Happiness}Me preocupaba mudarme a un	nuevo pueblo,{pause 20} ¡pero contigo	aquí lo llevo mucho mejor!
+"012"	{emote: Disbelief}{0007-000a-0000}¡¿Qué haces aquí,{pause 20} {Player name}?!{pause 40}{emote: Distress}	¿Me has estado siguiendo	para espiarme?	{emote: Happiness}Acabo de mudarme,{pause 20} así que mi casa	está hecha un desastre.{pause 20} ¡A ver si	me visitas cuando esté instalado!	{emote: Sunny}¡Ya verás qué guay va a estar	todo esto en cuanto saque	todas mis cosas!
+"013"	{emote: Glee}¡Chachi!{pause 20} ¡Hola, {Player name}!{pause 40} Gracias	por venir a visitarme,{pause 8} {catchphrase}.{Wait for input}{emote: Sadness}Como ves, aún no he tenido tiempo	de sacar mis cosas,{pause 8} así que la casa	está hecha un estropicio.	{emote: Laughter}Pero hay algo acogedor en este	caos.{pause 20} ¡Así que tal vez deje	esto así al menos por hoy!
+"014"	{emote: Greetings}¡Vaya, hola,{pause 20} {Player name}!{pause 40}	¡Así que te has molestado en	venir hasta aquí para visitarme!	{emote: Reset}Acabo de mudarme aquí, así que	aún no me he acomodado del todo.{pause 20}{emote: Bashful}	¡Pero verte por aquí me anima!	{emote: Happiness}Tienes que venirte a visitarme,	¿vale,{pause 8} {catchphrase}?
+"015"	{emote: Alarmed}¿Eh?{pause 20} ¿{capitalized}{Player name}?{Wait for input}	{emote: Daydreaming}Al verte aquí es como si hubiera	viajado atrás en el tiempo.	{emote: Happiness}¡Prométeme que vendrás a	visitarme de nuevo alguna	vez,{pause 8} {catchphrase}!
+"016"	{emote: Greetings}¡Hola,{pause 20} {Player name}!{pause 40} Me alegro	de verte. {emote: Curious}¿Cómo anda todo	el mundo por {capitalized}{Town name (pink)}?	{emote: Reset}Aún no me he acostumbrado	a {capitalized}{Town name (pink)}. {emote: Glee}¡Se agradece ver	una cara conocida,{pause 20} {catchphrase}!
+"017"	{emote: Greetings}¿Qué tal,{pause 20} {Player name}?{pause 20}	¿Estás aquí para ver si	estoy bien,{pause 8} {catchphrase}?	{emote: Happiness}¡Je, je, je!{pause 20} ¡Mira que preocuparte	por mí! {emote: Glee}¡Pues tú tranquil{o/a},{pause 20} que	como ves ando estupendamente!
+"018"	{emote: Happiness}¡Hola,{pause 8} {Player name}!{pause 20}	¡Cuánto tiempo!{Wait for input} {emote: Glare}¿No te sorprende	lo mucho que he madurado?	{emote: Pride}Que sí, que sí.{pause 20} Estoy más alto,{pause 20} ¡y	mucho más fornido!{pause 40} {emote: Bashful}Eso hace que	al moverme tenga más hambre.
+"019"	{emote: Sleepy}Uaaaah{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Disbelief} ¡Huy, {Player name}!{Wait for input}{emote: Glee}Vaya,{pause 20} ¡cuánto tiempo sin verte!{pause 40}	¿No parezco ya un habitante	más de {capitalized}{Town name (pink)}?	{emote: Happiness}Me ha llevado tiempo, pero ahora	ya estoy integrado aquí.{pause 20} ¡Tienes	que volver a visitarme alguna vez!
+"020"	{emote: Alarmed}¡Vaya,{pause 20} hola, {Player name}!{pause 20}	¡No esperaba verte por aquí!{Wait for input}{emote: Worry}Acabo de mudarme a este pueblo y	me preocupaba lo de establecerme	aquí sin conocer a nadie.	Todavía tengo que adecentar mi	casa{pause 8} y prepararme mentalmente	para conocer gente nueva.	{emote: Happiness}¡Pero{pause 20} verte ya me ha animado	mucho! ¡Estoy más motivado	para socializar!	{emote: Anger}¡Sí!{pause 20} ¡Ahora voy a hablar con	todo el mundo en {capitalized}{Town name (pink)}!{pause 40}{emote: Happiness}
+"021"	{emote: Happiness}¡Vaya,{pause 20} bienvenid{o/a}!{pause 40}	¡Eres mi prime{r/ra} visitante!{Wait for input}{emote: Distress}{0007-000b-0000}¡Un momento!{pause 40} ¿Y tú qué haces aquí,	{Player name}?{pause 20} No me habré mudado	por error a {capitalized}{Town name (pink)}, ¿no?	{emote: Reset}Aaah.{pause 8}.{pause 8}.{pause 20}{emote: Sigh} Estás de visita, ¿no? ¡Uf,	menos mal!{pause 40} Oye, ¡pues me alegro	de verte, {pause 8}{catchphrase}!{pause 40}{emote: Happiness}
+"022"	{emote: Curious}¿Mmm?{pause 40} Ese olor me resulta	familiar{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Inspired}{0007-000a-0000}¡Huele a {capitalized}{Town name (pink)}!{Wait for input}{emote: Glee}¡Je, je, je!{pause 20} Tengo mala memoria,{pause 8}	¡pero por suerte lo que no me	falta es olfato!	¡Me alegro de volver a verte,{pause 8}	{catchphrase}!
+"023"	{emote: Surprise}{0007-000a-0000}¡Ah!{pause 20} ¡Hola, {Player name}!{pause 40}	{emote: Happiness}¿No me recuerdas?{pause 40}	¡Soy yo,{pause 20} {Villager's name (orange)}!	{emote: Agreement}Estás aquí de visita, ¿no,	{Player name}?{pause 40} ¡Pues es que	yo ahora vivo aquí!	{emote: Happiness}¡Hay que ver! Mira que volver	a verte aquí...{pause 20} {emote: Love}¡Eso tiene que	ser el destino,{pause 8} {catchphrase}!
+"024"	{emote: Laughter}¡Sabía que no ibas a olvidarte de	tu amigo{pause 20} {Villager's name (orange)}!{Wait for input} {emote: Thought}Aunque ahora	no recuerdo dónde nos conocimos.	{emote: Happiness}Resulta que hoy me he mudado	aquí.{pause 20} Oye, ¡pues me alegro de	volver a verte,{pause 8} {catchphrase}!
+"025"	{emote: Worry}Ay,{pause 20} ¡venga ya!{pause 20} ¡Soy {Villager's name (orange)}!{pause 20}	¡Y te aseguro que nos conocemos,{pause 8}	{catchphrase}!	{emote: Happiness}Bueno, pues es que me he mudado	hoy a este pueblo.{pause 40} Nos vamos a ver,{pause 8}	¡así que no vuelvas a olvidarme!
 == 2 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Happiness}
-"004"	{emote: Curious}
-"005"	{emote: Curious}
-"006"	{emote: Alarmed}
-"007"	{emote: Surprise}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Disbelief}
-"011"	{emote: Alarmed}
-"012"	{emote: Disbelief}
-"013"	{emote: Glee}
-"014"	{emote: Greetings}
-"015"	{emote: Alarmed}
-"016"	{emote: Greetings}
-"017"	{emote: Greetings}
-"018"	{emote: Happiness}
-"019"	{emote: Sleepy}
-"020"	{emote: Alarmed}
-"021"	{emote: Happiness}
-"022"	{emote: Curious}
-"023"	{emote: Surprise}
-"024"	{emote: Laughter}
-"025"	{emote: Worry}
+"001"	{emote: Greetings}Hé, {Player name} !{Wait for input}	{emote: Happiness}Tu te rappelles de moi ?{pause 20} Tu te	rappelles, dis,{pause 8} {catchphrase} ?	{emote: Glee}On va être voisins ! Hé hé hé !{pause 20}	Alors, à la revoyure, voisin{/e} !
+"002"	{emote: Alarmed}{0007-000a-0000}Oh, {Player name} !{pause 40}	Je ne savais pas que tu vivais ici !{Wait for input}	{emote: Worry}Tu te souviens de moi au moins ?	Mon nom c'est {Villager's name (orange)}.{pause 20} {emote: Happiness}Eh bien !	Si je m'attendais à te voir dans ma	nouvelle ville... 	{emote: Shyness}On se reverra bientôt, j'espère,{pause 8}	{catchphrase}.
+"003"	{emote: Happiness}Salut toi !{pause 20}	Je m'appelle {Villager's name (orange)}.{Wait for input}Attends un peu... {pause 40}{emote: Shocked}Mais oui !{pause 20}	C'est toi, {Player name} ?!{Wait for input}{emote: Happiness}On se connaît,{pause 20} toi et moi ! {Wait for input}On dirait bien qu'on va être voisins !{pause 40}	Suis bien content de te revoir,	{pause 8}{catchphrase}.
+"004"	{emote: Curious}Dis, {pause 20}tu te souviens de moi au	moins ?{Player can respond (0006):0018-0015-0019-0000-0019-0028}	Bien sûr !	Euh...	Non.
+"005"	{emote: Curious}Hé, mais... {pause 20}c'est bien toi,{pause 20}	{Player name} ?{pause 40} Qu'est-ce que tu fais	ici, {catchphrase} ?	{emote: Disbelief}{0007-000a-0000}Ne me dis pas{pause 20} que tu habites à	{Town name (pink)} toi aussi ?!{Wait for input}{emote: Glee}Waouh !{pause 40}	C'est dingue !{Wait for input}Moi je viens d'emménager à	{Town name (pink)} !{pause 20} Je suis bien content	de savoir que tu vis ici.
+"006"	{emote: Alarmed}Hé, {Player name} !{pause 40}	{emote: Happiness}C'est moi !{pause 20} MOI !{pause 20} {capitalized}{Villager's name (orange)} !{Wait for input}{emote: Thought}Alors c'est ici que tu vis, c'est ça ? {Wait for input}{emote: Love}Je suis super content {pause 20}de te	retrouver !{Wait for input}{emote: Happiness}Hé hé...{pause 20} Ouais, ça fait rudement	plaisir de revoir ta pomme,	{pause 8}{catchphrase} !
+"007"	{emote: Surprise}Hé hé, {Player name} !{pause 20}	Je t'ai enfin trouvé{/e} !{Wait for input}{emote: Curious}Tu te souviens de moi ?{pause 40}	{emote: Happiness}C'est moi, {Villager's name (orange)}, ça te revient	maintenant ?	Je viens d'emménager dans cette	ville.{Wait for input}{emote: Shyness}J'espère qu'on se reverra bientôt...{pause 40}	{emote: Happiness}Je suis très content de t'avoir	revu{/e}, {pause 8}{catchphrase} !
+"008"	{emote: Alarmed}{0007-000a-0000}Ah !{pause 40} Enfin ! {capitalized}{Player name} !{pause 20}	Je te trouve enfin !{Wait for input}{emote: Distress}J'arrête pas de te chercher partout{pause 20}	depuis que j'ai emménagé en ville !{Wait for input}{emote: Happiness}Maintenant qu'on est voisins, toi et	moi il faut qu'on se voie plus	souvent ! {pause 8}{capitalized}{catchphrase} !
+"009"	{emote: Happiness}Hé,{pause 20} depuis quand tu habites ici, toi ?{Wait for input}{emote: Disbelief}{0007-000a-0000}Hein ?!{pause 20}	Depuis si longtemps ?!{Wait for input}{emote: Resigned}Oh, alors c'est moi le nouveau on	dirait{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Ça ne fait pas longtemps que je suis	ici en fait, avant j'habitais à	{0011-0002-0002-0000}.{Wait for input}{emote: Glee}Hé hé, {pause 20}je suis bien content de te	revoir en tout cas, {pause 8}{catchphrase}.
+"010"	{emote: Disbelief}{0007-000a-0000}Oh{pause 8}.{pause 8}.{pause 8}.	C'est vraiment toi, {Player name} ?{pause 20} En	vrai ?! {pause 40}	Alors ça veut dire que toi aussi tu	vis à {Town name (pink)} ?{Wait for input}{emote: Happiness}Oh ! C'est moi, {Villager's name (orange)}.{pause 20} Tu te	souviens maintenant,{pause 8}	{catchphrase} ?	{emote: Sadness}J'ai eu un mal de chien à déménager	mes affaires, et en plus, j'ai attrapé	froid{pause 8}.{pause 8}.{pause 8}.	Pas cool{pause 8}.{pause 8}.{pause 8}.{pause 20}	Il faudra qu'on se revoie quand j'irai	mieux.{pause 40} {emote: Sneezing}Aahhh-{pause 20}{0007-000a-0000}tchoum !
+"011"	{emote: Alarmed}{0007-000b-0000}Hé mais...?{pause 20}	C'est toi, {Player name} ?!{Wait for input}{emote: Shyness}Qu'est-ce que{pause 8}.{pause 8}.{pause 8}.{pause 20}	Tu es venu{/e} pour m'aider à	m'installer ?!	{emote: Happiness}J'appréhendais un peu de venir vivre	ici,{pause 20} mais maintenant que je sais que	tu es là, je suis super content !
+"012"	{emote: Disbelief}{0007-000a-0000}Oh, {pause 20}{Player name} !{pause 40}	{emote: Distress}Ma parole, mais tu m'as suivi	jusqu'ici !{pause 20}	{emote: Happiness}Je plaisante. Je viens d'arriver en	ville,{pause 20} alors c'est encore le chantier	chez moi.	Mais reviens me voir bientôt !	{emote: Sunny}Tu vas voir, cette maison va devenir	super cool !
+"013"	{emote: Glee}Youhou !{pause 20} {capitalized}{Player name} !{pause 40} C'est sympa	de venir me voir, {pause 8}{catchphrase}.{Wait for input}{emote: Sadness}Mais bon, tu tombes mal{pause 8}.{pause 8}.{pause 8}.{pause 20} Je n'ai	pas eu le temps de ranger, c'est le	désordre partout.	{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Alarmed}{0007-000a-0000} Mais !{pause 40} Tu ne trouves pas qu'une	maison pleine de cartons, ça a aussi	son charme ?	{emote: Laughter}Hé hé !{pause 20} Moi je trouve. Alors pour	aujourd'hui, {pause 20}je vais tout laisser	comme ça.
+"014"	{emote: Greetings}Hé, salut {pause 20}{Player name} !{pause 40}	Tu es venu{/e} me souhaiter la	bienvenue ?!{Wait for input}{emote: Reset}C'est cool, ça. Comme je viens	d'arriver, je ne connais encore	personne ici.{Wait for input}{emote: Bashful}Je me sens déjà mieux maintenant	que je sais que tu es là.{Wait for input}{emote: Happiness}Viens me voir souvent, OK ?	{pause 8}{capitalized}{catchphrase}.
+"015"	{emote: Alarmed}C'est toi ?{pause 20} {capitalized}{Player name} ?{Wait for input}{emote: Daydreaming}Te voir ici comme ça, ça me	rappelle des souvenirs{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}{emote: Laughter}Hé hé ! On a passé de bons	moments ensemble, tu te souviens ?{pause 40}{emote: Soft Smile}{Wait for input}Tu viendras me voir souvent au	moins ?{pause 20} Promis, {pause 8}{catchphrase} ?
+"016"	{emote: Greetings}Salut{pause 20} {Player name} !{pause 40}	{emote: Curious}Tu es toujours en contact avec nos	amis {de /d'}{Town name (pink)} ?	{emote: Happiness}J'espère que je m'en ferai plein de	nouveaux à {Town name (pink)},	{catchphrase}...
+"017"	{emote: Greetings}Comment va,{pause 20} {Player name} ?{Wait for input}{emote: Mischief}Tu es venu{/e} voir si tout allait bien ?{Wait for input}{emote: Happiness}Hé hé{pause 8}.{pause 8}.{pause 8}.{pause 20}	C'est très gentil de ta part.{Wait for input}{emote: Glee}Comme tu peux le voir, ça va bien.{pause 40}	Tout est cool, {pause 8}{catchphrase}.
+"018"	{emote: Happiness}Salut {Player name} !{pause 20}	Ça fait un moment que je ne t'ai	pas vu{/e} !{Wait for input}{emote: Glare}Tu ne trouves pas que j'ai grossi	depuis la dernière fois ?{Wait for input}{emote: Pride}C'est tout le stress de	l'emménagement{pause 8}.{pause 8}.{pause 8}. Je n'ai pas	arrêté de manger et de dormir.	{emote: Reset}{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Bashful} Moi quand je suis stressé, je	mange, et surtout, je dors. Ça me	détend.
+"019"	{emote: Sleepy}Dodooo{pause 8}.{pause 8}.{pause 8}.{pause 20} Hum{pause 8}..{pause 8}.?{pause 40}	{emote: Disbelief}Tiens, {Player name} !{Wait for input}{emote: Glee}Hé, {pause 20}ça fait un petit moment que je	ne t'ai pas vu{/e}.{Wait for input}Regarde-moi. Je ressemble vraiment	à un habitant {de /d'}{Town name (pink)}	maintenant, pas vrai ?	{emote: Curious}Comment ça, ce que je veux dire ?{pause 40}	{emote: Thought}Euuuhhh{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Happiness}Je n'en sais rien, en fait.{Wait for input}Mais c'est pas grave. Au moins, je	ressemble à un habitant de cette	ville maintenant.
+"020"	{emote: Alarmed}Cool,{pause 20} {Player name} !{pause 20} Ça fait un	moment, dis donc !{Wait for input}{emote: Worry}Tu sais, il n'y a pas que les cartons	qui me mettent mal à l'aise ici...{Wait for input}Je ne sors pas beaucoup. Il faut	encore que je me fasse à l'idée de	me faire de nouveaux amis.	{emote: Happiness}Mais te voir me redonne du courage	et de l'énergie, {Player name} !{Wait for input}{emote: Anger}Oui !{pause 20} Demain je sortirai et j'irai	parler à tout le monde,	{catchphrase} !
+"021"	{emote: Happiness}Hé ! {pause 20}Sois {le bienvenu/la bienvenue} !{pause 40}	Tu es la première personne que je	reçois dans ma nouvelle maison.{Wait for input}Hé, mais...{pause 40} {emote: Distress}{0007-000b-0000}Mais oui !{pause 40}	C'est toi, {Player name} !	Qu'est-ce que tu fais à {Town name (pink)} ?{Wait for input}{emote: Sigh}Ah... Je vois.{pause 20} Tu ne fais que	passer.{Wait for input}{emote: Laughter}Un instant j'ai cru que tu avais	emménagé ici aussi, {catchphrase}.{pause 40}{emote: Happiness}
+"022"	{emote: Curious}Hmmm ?{pause 40} C'est quoi cette bonne	odeur{pause 8}.{pause 8}.{pause 8}.?{pause 20} {emote: Inspired}{0007-000a-0000}Ça sent comme à	{Town name (pink)}...	{emote: Reset}Mais alors... {pause 20}Ça veut dire que{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Happiness}{Player name} !{pause 20} C'est vraiment toi ?!{Wait for input}{emote: Glee}Hé hé !{pause 20} Je le savais, {catchphrase} !{Wait for input}{emote: Happiness}J'ai peut-être du mal à me souvenir	de mon âge,{pause 20} mais je me souviendrai	toujours de ta bonne odeur.
+"023"	{emote: Surprise}{0007-000a-0000}Oh mais c'est {Player name} !{Wait for input}{emote: Happiness}Tu te souviens de moi ?{pause 40}	C'est moi, {pause 20}{Villager's name (orange)} !{Wait for input}{emote: Agreement}Alors tu es en visite, {Player name} ?{pause 40}	Moi c'est ici que je vis maintenant.	{emote: Happiness}Se voir ici, {pause 20}c'est vachement cool !{Wait for input}{emote: Love}Tu as drôlement changé depuis la	dernière fois.{pause 20} Tu fais plus adulte	qu'avant, {pause 8}{catchphrase}.
+"024"	{emote: Laughter}Hé hé ! Forcément !{pause 40} Oui, c'est bien	moi, {Villager's name (orange)} !{pause 20} Te voir me	rappelle tout plein de souvenirs...	{emote: Happiness}Je viens d'emménager dans cette	belle ville aujourd'hui même.{Wait for input}Ça me fait drôlement plaisir de te	revoir tu sais, {pause 8}{catchphrase}...
+"025"	{emote: Worry}Mais, {pause 20}voyons, {catchphrase}...{Wait for input}C'est moi ! {capitalized}{Villager's name (orange)} !{pause 20}	Tu ne te souviens pas de moi ?{Wait for input}{emote: Happiness}Bah, pas grave.{pause 40} J'emménage dans	cette ville. Tu auras tout le temps	de réapprendre à me connaître.
 == 3 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Happiness}
-"004"	{emote: Curious}
-"005"	{emote: Curious}
-"006"	{emote: Alarmed}
-"007"	{emote: Surprise}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Sadness}
-"011"	{emote: Alarmed}
-"012"	{emote: Disbelief}
-"013"	{emote: Glee}
-"014"	{emote: Greetings}
-"015"	{emote: Alarmed}
-"016"	{emote: Greetings}
-"017"	{emote: Greetings}
-"018"	{emote: Happiness}
-"019"	{emote: Sleepy}
-"020"	{emote: Alarmed}
-"021"	{emote: Happiness}
-"022"	{emote: Curious}
-"023"	{emote: Surprise}
-"024"	{emote: Laughter}
-"025"	{emote: Worry}
+"001"	{emote: Greetings}Ehi, {Player name}!{Wait for input}	{emote: Happiness}Ti ricordi di me?{pause 20} Ci siamo già visti,	ne sono sicuro, {pause 8}{catchphrase}!	{emote: Glee}A quanto pare, saremo vicini di casa	adesso! Eh eh eh!{pause 20} Ci vediamo	in giro, {vicino/vicina}!
+"002"	{emote: Alarmed}{0007-000a-0000}Oh, {Player name}!{pause 40}	Non sapevo vivessi qui!{Wait for input} {emote: Worry}Non ti sarai	mica dimenticat{o/a} di me?	Sono {Villager's name (orange)}!{pause 20} {emote: Happiness}Non mi sarei	mai aspettato di vederti	nella mia nuova città!	{emote: Shyness}Ci vediamo in giro,{pause 8} {catchphrase}.
+"003"	{emote: Happiness}Oh, piacere di conoscerti!{pause 20}	Io mi chiamo {Villager's name (orange)}!{Wait for input}Aspetta,{pause 40} {emote: Shocked}non dirmi che...{pause 20}	Sei {Player name}?!{pause 20}	{emote: Happiness}Ma sì, ci siamo già conosciuti! {Wait for input}Beh, che ti piaccia o no, ora siamo	concittadini!{pause 40} Sono contento di	rivederti! Fatti viv{o/a},{pause 8} {catchphrase}!
+"004"	{emote: Curious}Di' la verità.{pause 20} Ti ricordi di me?{Player can respond (0006):0018-0015-0019-0000-0019-0028}	Ma certo!	Veramente...	No, chi sei?
+"005"	{emote: Curious}Aspetta,{pause 20} non sarai mica{pause 20} {Player name}?{pause 40}	Che ci fai qui?{Wait for input} {emote: Disbelief}{0007-000a-0000}Non dirmi che vivi	anche tu {000e-0010-0000} {Town name (pink)}?!	{emote: Glee}Uau!{pause 40} Che coincidenza incredibile!{pause 20}	Ora siamo ufficialmente vicini,	{catchphrase}!
+"006"	{emote: Alarmed}Ehi, {Player name}!{pause 40} {emote: Happiness}Sono io!{pause 20}	Il tuo caro {Villager's name (orange)}!{pause 20} Che strano	incontrarci qui,{pause 8} {catchphrase}.	{emote: Thought}Oh, sul serio?{pause 20} Anche tu vivi qui, eh?!{Wait for input}	{emote: Happiness}Bene, sono contento che siamo	vicini ora!{pause 20} Teniamoci in contatto!
+"007"	{emote: Surprise}{capitalized}{Player name}!{pause 20} Finalmente ti ho	trovat{o/a}!{pause 20} {emote: Curious}Ti ricordi di me, vero?{Wait for input}{emote: Happiness}Sto scherzando! Lo so che non	dimenticheresti mai il tuo vecchio	amico {Villager's name (orange)}.{pause 20}	{emote: Shyness}Ad ogni modo, mi sono appena	trasferito qui. Spero di vederti più	spesso ora.{Wait for input} A presto{emote: Happiness},{pause 8} {catchphrase}.
+"008"	{emote: Alarmed}{0007-000a-0000}Evviva!{pause 40} Finalmente ti ho beccat{o/a},	{Player name}!{Wait for input}{pause 20}{emote: Distress}Da quando mi sono trasferito qui,	ti ho cercat{o/a} dappertutto!{Wait for input}{emote: Happiness}Dai retta a me, dobbiamo vederci	più spesso noi due,{pause 8} {catchphrase}!
+"009"	{emote: Happiness}Ehi,{pause 20} quando ti sei trasferit{o/a} qui?{Wait for input}	{emote: Disbelief}{0007-000a-0000}Come?!{pause 20} Sei sempre stat{o/a} qui?!{Wait for input}{emote: Resigned}Quindi sono io l'ultimo arrivato{pause 8}.{pause 8}.{pause 8}.{pause 20}	anche se mi sono trasferito da	{0011-0002-0002-0000} un bel po' di tempo fa!	{emote: Glee}Beh,{pause 20} comunque sia, è bello rivederti,{pause 8}	{catchphrase}.
+"010"	{emote: Sadness}Oh, no!{pause 20} Ho avuto un'allucinazione!	Pensavo di aver visto {Player name}!{pause 20}	Forse ho più sonno del solito?!{emote: Disbelief}{0007-000a-0000}	Eh?!{pause 20} Sei tu?! In carne ed ossa?!{pause 40}	Vivi anche tu qui {000e-0010-0000} {Town name (pink)}?{Wait for input}{emote: Happiness}Sono io, {Villager's name (orange)}.{pause 20} Ti ricordi?{pause 20}	Mi sono appena trasferito.	{emote: Sadness}Ma devo essermi stancato troppo{pause 8}.{pause 8}.{pause 8}.	Forse ho preso anche il raffreddore.	{emote: Sneezing}Eee{pause 20}{0007-000a-0000}cciùùù! Uh{pause 8}.{pause 8}.{pause 8}.{pause 20} Vediamoci... sì,	quando starò meglio,{pause 8} {catchphrase}.
+"011"	{emote: Alarmed}{0007-000b-0000}Oh?{pause 20} {capitalized}{Player name}?!{pause 20}	Che ci fai qui?{Wait for input}{emote: Shyness}Oh, non sarai per caso venut{o/a} ad	aiutarmi con il trasloco?{pause 20} Beh, fa	piacere vedere una faccia amica!	{emote: Happiness}Con tutte queste novità ero un po'	nervoso in effetti,{pause 20} ma grazie a te	mi sento già molto meglio!
+"012"	{emote: Disbelief}{0007-000a-0000}Nooo, che ci fai qui,{pause 20} {Player name}?!{pause 40}	{emote: Distress}Mi hai seguito per spiarmi?	Non sarai mica {un/una} detective?!	{emote: Happiness}Mi sono appena trasferito,{pause 20} quindi	casa mia è un disastro.{pause 20} Ma vieni a	trovarmi quando mi sarò sistemato!	{emote: Sunny}La mia casetta sarà uno splendore,	vedrai!
+"013"	{emote: Glee}Evviva!{pause 20} Ecco {Player name}!{pause 40} Grazie	per essere venut{o/a} a trovarmi,	{pause 8}{catchphrase}.{Wait for input}{emote: Sadness}Come vedi,{pause 8} ancora non ho avuto	tempo di sistemare nulla{pause 8} e	la casa è un disastro!	{emote: Laughter}Ma io mi trovo bene nel mio	disordine.{pause 20} Quindi mi sa che per oggi	lascio tutto così. Domani vediamo!
+"014"	{emote: Greetings}Ehilà,{pause 20} {Player name}!{pause 40}	Non riesco a credere che tu sia	venut{o/a} fin qui solo per me!	{emote: Reset}Mi sono appena trasferito, quindi	c'è ancora un po' di confusione.{pause 20}	{emote: Bashful}Ma vederti mi fa molto piacere!	{emote: Happiness}Promettimi che verrai a trovarmi	di nuovo, OK,{pause 8} {catchphrase}?
+"015"	{emote: Alarmed}Oh?{pause 20} {capitalized}{Player name}?{Wait for input}{emote: Daydreaming} Vederti qui mi	fa sentire come se avessi fatto	un viaggio nel passato.	{emote: Happiness}Promettimi che verrai a trovarmi	di nuovo, in futuro,{pause 8} {catchphrase}!
+"016"	{emote: Greetings}Ehilà,{pause 20} {Player name}!{pause 40} Che bello	rivederti! {emote: Curious}Come stanno gli altri	{000e-0010-0000} {Town name (pink)}?{Wait for input}{emote: Reset}Io devo ancora sistemarmi qui	{000e-0010-0000} {Town name (pink)}, perciò {emote: Glee}mi fa piacere	vedere una faccia amica!
+"017"	{emote: Greetings}Ehilà,{pause 20} {Player name}!{pause 20}	Sei qui per vedere come mi vanno	le cose,{pause 8} {catchphrase}?	{emote: Happiness}Eh eh eh!{pause 20} Sei così apprensiv{o/a}!{emote: Glee}	Ma niente paura!{pause 20} Come vedi,	me la sto cavando alla grande!
+"018"	{emote: Happiness}Ehi,{pause 8} {Player name}!{pause 20}	Quanto tempo!{Wait for input} {emote: Glare}Non ti stupisce	vedere quanto sono cresciuto?	{emote: Pride}È vero!{pause 20} Sono un po' più alto{pause 20}	e molto più massiccio.{pause 40} {emote: Bashful}Il trasloco	mi ha stimolato un sacco l'appetito!
+"019"	{emote: Sleepy}Yaaawn{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Disbelief} Oh, {Player name}!{Wait for input}{emote: Glee}Uau,{pause 20} quanto tempo che non ci si	vede!{pause 40} Ora sono un perfetto	abitante di {Town name (pink)}, non trovi?	{emote: Happiness}Mi ci è voluto un po', ma ora	mi sento a casa.{pause 20} Spero che	verrai a farmi visita ogni tanto!
+"020"	{emote: Alarmed}Uau, chi si vede...{pause 20} {Player name}!{pause 20}	Non mi aspettavo di trovarti qui!{Wait for input}{emote: Worry}Mi sono appena trasferito ed ero	un po' preoccupato al pensiero	di dover ricominciare da capo.	Devo ancora sistemare casa {pause 8}	e prepararmi psicologicamente	all'idea di fare nuove amicizie.	{emote: Happiness}Ma vederti qui mi fa sentire	già mooolto meglio!{Wait for input}{emote: Anger}Sììì!{pause 20} Da domani farò amicizia	con ogni singolo abitante	di {Town name (pink)}!{pause 40}{emote: Happiness}
+"021"	{emote: Happiness}Ehilà,{pause 20} benvenut{o/a}!{pause 40}	Sei {il mio primissimo/la mia primissima} ospite!{Wait for input}{emote: Distress}{0007-000b-0000}Aspetta!{pause 40} Cosa ci fai qui,	{Player name}?{pause 20} Non è che per sbaglio	mi sono trasferito {000e-0010-0000} {Town name (pink)}?	{emote: Reset}.{pause 8}.{pause 8}.{pause 20}{emote: Sigh} Ah, sei in visita?!{pause 20}	Meno male!{pause 40} Beh, mi fa piacere	vederti, {pause 8}{catchphrase}!{pause 40}{emote: Happiness}
+"022"	{emote: Curious}Mmmh?{pause 40} Sento un odore familiare{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Inspired}{0007-000a-0000}	Ecco cos'è: l'odore di {Town name (pink)}!{Wait for input}{emote: Glee}Eh eh eh!{pause 20} Purtroppo ho una	memoria terribile, {pause 8}ma in compenso	ho un fiuto da campioni!	È un piacere rivederti,{pause 8}	{catchphrase}!
+"023"	{emote: Surprise}{0007-000a-0000}Oh!{pause 20} Guarda chi si vede...	{Player name}!{pause 40} {emote: Happiness}Non ti ricordi di me?{pause 40}	Sono io,{pause 20} {Villager's name (orange)}!	{emote: Agreement}Sei qui in visita, giusto?{pause 40} Beh, adesso	io vivo proprio in questa città.	Che strana coincidenza!	{emote: Happiness}Roba da non credere, sul serio!{pause 20}	{emote: Love}Pensi che sia un segno del destino,{pause 8}	{catchphrase}?
+"024"	{emote: Laughter}Lo sapevo che non ti saresti mai	dimenticat{o/a} del tuo vecchio amico{pause 20}	{Villager's name (orange)}!	{emote: Thought}Anche se, a dir la verità, non ricordo	più dove ci siamo incontrati...{Wait for input}{emote: Happiness}Vabbè, non importa.{pause 20} Io mi sono	trasferito oggi e mi fa un gran	piacere rivederti,{pause 8} {catchphrase}!
+"025"	{emote: Worry}Su,{pause 20} dai!{pause 20} Sono {Villager's name (orange)}!{pause 20}	Ci siamo già conosciuti, ne sono	certo,{pause 8} {catchphrase}!	{emote: Happiness}Beh, mi sono trasferito oggi e credo{pause 40}	che ci vedremo spesso d'ora in poi.{pause 8}	Cerca di non dimenticarti più di me!
 == 4 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Happiness}
-"004"	{emote: Curious}
-"005"	{emote: Curious}
-"006"	{emote: Alarmed}
-"007"	{emote: Surprise}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Sadness}
-"011"	{emote: Alarmed}
-"012"	{emote: Disbelief}
-"013"	{emote: Glee}
-"014"	{emote: Greetings}
-"015"	{emote: Alarmed}
-"016"	{emote: Greetings}
-"017"	{emote: Greetings}
-"018"	{emote: Happiness}
-"019"	{emote: Sleepy}
-"020"	{emote: Alarmed}
-"021"	{emote: Happiness}
-"022"	{emote: Curious}
-"023"	{emote: Surprise}
-"024"	{emote: Laughter}
-"025"	{emote: Worry}
+"001"	{emote: Greetings}Hallihallo, {Player name}!{pause 40}{emote: Happiness} Erinnerst du	dich an mich?{pause 20} Also ICH erinnere	mich an dich,{pause 8} {catchphrase}!	{emote: Glee}Sieht so aus, als wären wir jetzt	Nachbarn.{pause 20} Äh, he he he!{pause 20} Man sieht	sich, {Herr Nachbar/Frau Nachbarin}!
+"002"	{emote: Alarmed}{0007-000a-0000}{capitalized}{Player name}!!!{pause 40} Ich wusste gar nicht,	dass du hier wohnst!{pause 20}{emote: Worry} Du erinnerst	dich doch noch an mich, oder?	Ich bin's, {Villager's name (orange)}!{pause 20} {emote: Happiness}Ich hätte nie	damit gerechnet, in meiner neuen	Stadt ausgerechnet dich zu treffen!	{emote: Shyness}Äh, he he he...{pause 20} Dann sehen wir	uns jetzt bestimt öfter mal,{pause 8}	{catchphrase}.
+"003"	{emote: Happiness}Hallo!{pause 20} Ich bin {Villager's name (orange)}!{Wait for input}...{pause 40}{emote: Shocked}Was?!?{pause 20} Bist du's, {Player name}?!?{pause 20}	{emote: Happiness}Das gibt's ja nicht!{pause 20} Ich kenn dich!{Wait for input}Und noch dazu wohnen wir jetzt	in derselben Stadt!{pause 40} Das ist ja ein	toller Zufall,{pause 8} {catchphrase}!
+"004"	{emote: Curious}Sag mal ehrlich:{pause 20} Erinnerst du dich	überhaupt noch an mich?{Player can respond (0006):0018-0015-0019-0000-0019-0028}	Natürlich!	Äh...	Nie gesehen!
+"005"	{emote: Curious}Äh...{pause 20} Bist du nicht {Player name}?{pause 40}	Was machst du denn hier?{Wait for input} {emote: Disbelief}{0007-000a-0000}Sag bloß,	du wohnst auch in {Town name (pink)}?	{emote: Glee}Das ist ja der Wahnsinn!{pause 40} Was für	ein unglaublicher Zufall!{pause 20} Wir sind	jetzt Nachbarn,{pause 8} {catchphrase}!
+"006"	{emote: Alarmed}Oh, {Player name}!{pause 40}	{emote: Happiness}Ich bin's, {Villager's name (orange)}!{pause 20} Wie lustig,	dich hier zu treffen,{pause 8} {catchphrase}.	{emote: Thought}Ach so –{pause 20} du wohnst doch hier, oder?{pause 30}	{emote: Happiness}Wie schön, dass wir jetzt richtige	Nachbarn sind!
+"007"	{emote: Surprise}Endlich hab ich dich aufgespürt,	{Player name}!{pause 20}{emote: Curious} Du erinnerst dich doch	noch an mich, oder etwa nicht?	{emote: Happiness}Das war ein Scherz.{pause 20} Du würdest	doch niemals deinen alten Freund	{Villager's name (orange)} vergessen!	{emote: Shyness}Ich bin übrigens gerade hergezogen.{pause 20}	{emote: Happiness}Wir können jetzt viele tolle Sachen	unternehmen,{pause 8} {catchphrase}!
+"008"	{emote: Alarmed}{0007-000a-0000}Juhu!{pause 40} Ich hab {Player name} gefunden!{pause 20}	{emote: Distress}Ich hab dich überall gesucht, seit	ich hergezogen bin!	{emote: Happiness}Ab jetzt können wir uns jeden Tag	treffen,{pause 8} {catchphrase}!
+"009"	{emote: Happiness}Wann bist du denn hergezogen?{Wait for input}	{emote: Disbelief}{0007-000a-0000}Wie?{pause 20} Du hast schon immer hier	gewohnt?	{emote: Resigned}Dann bin ja nur ich der Neue hier!{pause 20}	Dabei bin ich schon vor 'ner ganzen	Weile aus {0011-0002-0002-0000} hergezogen.	{emote: Glee}Egal!{pause 20} Schön, dich wieder zu treffen,{pause 8}	{catchphrase}.
+"010"	{emote: Sadness}Oh nein!{pause 20} Ich seh da {Player name}!{pause 20}	Das muss ein Fiebertraum sein!{pause 20}	Ich bin wohl kränker, als ich dachte.	{emote: Disbelief}{0007-000a-0000}Du bist es ja WIRKLICH, {Player name}!{pause 40}	Wohnst du etwa auch in {Town name (pink)}?{pause 20}	{emote: Happiness}Ich bin {Villager's name (orange)}!{pause 20} Weißt du noch?	Ich bin gerade erst hergezogen.{pause 20}	{emote: Sadness}Tja, beim Umzug muss ich mich	dann erkältet haben.{pause 30} {emote: Sneezing}Ha--{pause 20}{0007-000a-0000}TSCHIII!	Schnief...{pause 20} Wir können ja mal was	unternehmen, wenn ich wieder	gesund bin,{pause 8} {catchphrase}.
+"011"	{emote: Alarmed}{0007-000b-0000}Huch?{pause 20} {capitalized}{Player name}?!?{pause 20}	Was machst du denn hier?{Wait for input}{emote: Shyness}Wolltest du mich etwa in {Town name (pink)}	begrüßen?{pause 20} Das ist ja echt nett	von dir!	{emote: Happiness}Jetzt fühl ich mich schon gleich	wie zu Hause,{pause 8} {catchphrase}!
+"012"	{emote: Disbelief}{0007-000a-0000}Du hier, {Player name}?!?{pause 40} {emote: Distress}In wessen	Auftrag verfolgst du mich?{pause 20} Ich hab	alle geliehenen Sachen abgegeben!	{emote: Bashful}Äh, he he he!{pause 20} Ich bin gerade	hergezogen und deshalb noch ein	bisschen nervös!	{emote: Happiness}In meinem neuen Haus ist noch	alles durcheinander, aber komm	mich doch später mal besuchen.	{emote: Sunny}Wenn ich mich fertig eingerichtet	hab, wird meine Bude bestimmt	total gemütlich!
+"013"	{emote: Glee}Juhu!{pause 20} Da ist ja {Player name}!{pause 40} Danke	für den spontanen Besuch,{pause 8}	{catchphrase}.	{emote: Sadness}Hier ist leider alles noch ziemlich	chaotisch.{pause 20} Ich hatte noch keine	Zeit zum Aufräumen.	{emote: Laughter}Zum Glück bin ich Unordnung	gewohnt.{pause 20} Äh, he he he!
+"014"	{emote: Greetings}Hallihallo, {Player name}!{pause 40}	Das ist ja nett von dir, extra wegen	mir herzukommen!	{emote: Reset}Ich bin frisch eingezogen und fühl	mich hier noch nicht so ganz zu	Hause.	{emote: Bashful}Wie schön, {einen Freund/eine Freundin} zu sehen!{pause 20}	Komm bitte bald wieder vorbei.{pause 20}	Versprichst du das,{pause 8} {catchphrase}?
+"015"	{emote: Alarmed}Huch?{pause 20} {capitalized}{Player name}?{Wait for input}	{emote: Daydreaming}Das ist ja wie in alten Zeiten,{pause 8}	{catchphrase}...	{emote: Happiness}Versprichst du mir, mich bald	wieder besuchen zu kommen?
+"016"	{emote: Greetings}Huhu,{pause 20} {Player name}!{pause 40}	{emote: Curious}Wie läuft's so in {Town name (pink)},{pause 8}	{catchphrase}?	{emote: Reset}Ich bin noch dabei, mich in	{Town name (pink)} einzuleben.{pause 20}{emote: Glee} Echt toll,	ein bekanntes Gesicht zu sehen!
+"017"	{emote: Greetings}Hallöchen,{pause 20} {Player name}!{pause 20}	Kommst du vorbei, weil du dir	Sorgen um mich gemacht hast?	{emote: Happiness}Äh, he he he!{pause 20} Das ist ja echt nett.{pause 20}	{emote: Glee}Aber schau mal!{pause 20} Ich komm hier	wunderbar zurecht,{pause 8} {catchphrase}!
+"018"	{emote: Happiness}Huhu, {Player name}!{pause 20} Wir haben uns	eine ganze Weile nicht gesehen!{pause 20}	{emote: Glare}Na, bin ich viel gewachsen?	{emote: Pride}Ja, oder?{pause 40} {emote: Bashful}Ehrlich gesagt hab ich	auch etwas zugelegt.{pause 20} Vom Umziehen	kriegt man echt Appetit...
+"019"	{emote: Sleepy}Gääähn...{pause 40} {emote: Disbelief}Huch, {Player name}!{Wait for input}{emote: Glee}Boah, wir haben uns ja ewig nicht	gesehen!{pause 40} Inzwischen bin ich schon	ein echter Einheimischer!	{emote: Happiness}Es hat ein bisschen gedauert, aber	jetzt fühl ich mich hier wirklich	wohl.{pause 20} Komm bald wieder zu Besuch!
+"020"	{emote: Alarmed}Wow,{pause 20} das ist ja {Player name}!{pause 20}	Damit hätte ich jetzt echt nicht	gerechnet!	{emote: Worry}Na ja, ich bin neu hier und hab	noch nicht so viele Freunde...{Wait for input}Mein Haus ist auch noch das reinste	Chaos.{pause 20} Da ist es doch peinlich,	wenn ich jemanden einlade.	{emote: Happiness}Ah, es tut gut, {einen alten Freund/eine alte Freundin}	zu treffen!{pause 20}{emote: Anger} Ach, Chaos hin oder her,	ich lade trotzdem Leute ein!{pause 40}{emote: Happiness}
+"021"	{emote: Happiness}Komm rein, komm rein!{pause 40}	Du bist mein erster Gast!{Wait for input}{emote: Distress}{0007-000b-0000}Moment mal!{pause 40} Das ist ja {Player name}!{pause 20}	Bin ich etwa aus Versehen nach	{Town name (pink)} gezogen?!?	{emote: Reset}{emote: Sigh}Ach so, du bist nur zu Besuch hier!{pause 20}	Uff, das ist gut.{pause 40} Auf jeden Fall nett,	dich zu treffen,{pause 8} {catchphrase}!{pause 40}{emote: Happiness}
+"022"	{emote: Curious}Diesen Geruch kenn ich doch...{pause 20}	{emote: Inspired}{0007-000a-0000}So riecht nur {Town name (pink)}!{Wait for input}{emote: Glee}Äh, he he he!{pause 20} Ich hab vielleicht ein	Hirn wie ein Sieb, aber mein Riecher	vergisst so leicht nichts!	Wie nett, dich wiederzusehen,{pause 8}	{catchphrase}!
+"023"	{emote: Surprise}{0007-000a-0000}Oh!{pause 20} Da ist ja {Player name}!{pause 40}	{emote: Happiness}Weißt du noch?{pause 40} Ich bin's doch,{pause 20}	{Villager's name (orange)}!	{emote: Agreement}Du bist zu Besuch hier, oder?{pause 40}	Tja, hier wohne ich jetzt also!{Wait for input}{emote: Happiness}Ich finde es total lustig, dass wir	uns hier über den Weg laufen!{pause 20}{emote: Love} Das	bringt sicher Glück,{pause 8} {catchphrase}!
+"024"	{emote: Laughter}Klar!{pause 20} Du würdest doch nie deinen	alten Kumpel {Villager's name (orange)} vergessen!{Wait for input}	{emote: Thought}Woher kennen wir uns eigentlich?	{emote: Happiness}Na ja, ich bin neu in {Town name (pink)},	gerade erst eingezogen.{pause 20} Schön, dich	wiederzutreffen,{pause 8} {catchphrase}!
+"025"	{emote: Worry}Ach,{pause 20} komm schon!{pause 20} Ich bin doch	{Villager's name (orange)}!{pause 20} Wir kennen uns ganz	sicher,{pause 8} {catchphrase}!	{emote: Happiness}Na ja, auf jeden Fall bin ich heute	nach {Town name (pink)} gezogen.{pause 40} Vergiss	mich bitte nicht noch mal, ja?

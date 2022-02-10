@@ -1,60 +1,60 @@
 == 0 ==
-"001"	Barista{pause 8}
-"002"	One coffee{pause 8}
-"003"	One coffee, Joe.{pause 8}
-"004"	One coffee, Joe.{pause 8}
-"005"	Thanks.{pause 20}
-"006"	{pause 8}
-"007"	{pause 8}
-"008"	{pause 8}
-"009"	{pause 8}
-"010"	
-"011"	
-"012"	
-"013"	{pause 8}
-"014"	{pause 8}
-"015"	{pause 8}
-"016"	{pause 8}
-"017"	
-"018"	
-"019"	
+"001"	Barista{pause 8}.{pause 8}.{pause 8}.{pause 20} The usual, please.
+"002"	One coffee{pause 8}.{pause 8}.{pause 8}.{pause 20}made with the {Blue}blend{Color Reset}.
+"003"	One coffee, Joe.{pause 8} And remember,{pause 8}	I'm {Blue}not down{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 20}with milk's sound.
+"004"	One coffee, Joe.{pause 8} And remember,{pause 8}	I'm {Blue}no fan{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 20}of sugar's band.
+"005"	Thanks.{pause 20} Now let me see if I'm hip	to this coffee's drip...
+"006"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Yeah, man.{pause 20} That's the way	I dig my coffee.{Wait for input}{0007-000e-0000}Thanks.{pause 20} That's some fine voo{pause 20}doo	that you{pause 20} brew.
+"007"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Yeah, man.{pause 20} That's a	decent cup o' joe.{Wait for input}But{pause 8} this isn't a {Blue}blend{Color Reset}. You can't	fool this nose.{Wait for input}Thanks, anyway.{pause 20}	{I'll be back, Jack/See ya, Sally}.
+"008"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Yeah, man.{pause 20} That's a	decent cup o' joe.{Wait for input}But{pause 20} next time remember that	I don't dig {Blue}milk{Color Reset}. Too mainstream.{Wait for input}Thanks, anyway.{pause 20}	{I'll be back, Jack/See ya, Sally}.
+"009"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Yeah, man.{pause 20} That's a	decent cup o' joe.{Wait for input}But{pause 20} next time remember that	I don't dig {Blue}sugar{Color Reset}. Too corporate.{Wait for input}Thanks, anyway.{pause 20}	{I'll be back, Jack/See ya, Sally}.
+"010"
+"011"
+"012"
+"013"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Well, man,{pause 20} I'll just say that	sometimes a cup o' joe like	this ain't so bad.	The {Blue}beans {Color Reset}are good.{pause 40} Next time, just	remember I don't need anything	extra in my coffee.
+"014"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Well, man,{pause 20} I'll just say that	sometimes a cup o' joe like	this ain't so bad.	I'm just happy it didn't	have any {Blue}milk{Color Reset} in it.
+"015"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Well, man,{pause 20} I'll just say that	sometimes a cup o' joe like	this ain't so bad.	I'm just happy it didn't	have any {Blue}sugar{Color Reset} in it.
+"016"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Hmmm.{pause 20} It's nothing like my usual	style. No soul, so sale.{Wait for input}{I'll be back, Jack/See ya, Sally}.
+"017"
+"018"
+"019"
 == 1 ==
 "001"	Lo de siempre, por favor.
-"002"	Un café{pause 20}
-"003"	Ponme un café, por favor{pause 8}
-"004"	Ponme un café, por favor{pause 8}
-"005"	Gracias.{pause 20}
-"006"	Pues sí,{pause 20}
-"007"	Ajá{pause 8}
-"008"	Ajá{pause 8}
-"009"	Ajá{pause 8}
-"010"	
-"011"	
-"012"	
-"013"	Tengo que reconocer que este café	no está nada mal.{0000-0004-0000}
-"014"	Tengo que reconocer que este café	se puede beber.{0000-0004-0000}
-"015"	Tengo que reconocer que este café	está bien hecho.{0000-0004-0000}!
-"016"	Umm{pause 8}
-"017"	
-"018"	
-"019"	
+"002"	Un café{pause 20} de la {Blue}mezcla {Color Reset}que me gusta.
+"003"	Ponme un café, por favor{pause 8}.{pause 8}.{pause 8}.{pause 20}	Y {Blue}sin nada de leche{Color Reset}.
+"004"	Ponme un café, por favor{pause 8}.{pause 8}.{pause 8}.{pause 20}	Y {Blue}sin nada de azúcar{Color Reset}.
+"005"	Gracias.{pause 20} Lo paladearé como	se merece.
+"006"	Pues sí,{pause 20} así tomo yo el café.{Wait for input}{0007-000e-0000}Gracias.{pause 20} Ya noto el hechizo	de su aroma{pause 8}.{pause 8}.{pause 8}.
+"007"	Ajá{pause 8}.{pause 8}.{pause 8}.{pause 20}{pause 20} Un café en condiciones.{Wait for input}Pero no es café {Blue}mezcla{Color Reset}.	Me lo dice mi olfato de sabueso.{Wait for input}Gracias de todas formas.{pause 20}	Hasta pronto, {chaval/muñeca}.
+"008"	Ajá{pause 8}.{pause 8}.{pause 8}.{pause 20}{pause 20} No está mal este café.{Wait for input}Pero la próxima vez pónmelo {Blue}sin	leche{Color Reset}. Me gusta ir a contracorriente.{Wait for input}Gracias de todas formas.{pause 20}	Hasta pronto, {tío/nena}.
+"009"	Ajá{pause 8}.{pause 8}.{pause 8}.{pause 20}{pause 20} Deja un buen regusto.{Wait for input}Pero la próxima vez pónmelo {Blue}sin	azúcar{Color Reset}. Le quita toda la agresividad.{Wait for input}Gracias de todas formas.{pause 20}	Hasta pronto, {colega/guapa}.
+"010"
+"011"
+"012"
+"013"	Tengo que reconocer que este café	no está nada mal.{Wait for input}Se nota que el {Blue}tipo de café {Color Reset}es	de calidad.{pause 40} Pero la próxima vez	acuérdate de que me gusta solo.
+"014"	Tengo que reconocer que este café	se puede beber.{Wait for input}Me alegro de que no le hayas	puesto {Blue}leche{Color Reset}.
+"015"	Tengo que reconocer que este café	está bien hecho.{Wait for input}Me alegro de que no le hayas	puesto {Blue}azúcar{Color Reset}.
+"016"	Umm{pause 8}.{pause 8}.{pause 8}.{pause 20} Este café no me va.	No tiene cuerpo{pause 8}.{pause 8}.{pause 8}. ni alma.{Wait for input}Hasta más ver, {campeón/princesa}.
+"017"
+"018"
+"019"
 == 2 ==
-"001"	{000e-0006-0012-06-00-4d-00-61-00-6e-00-08-00-4d-00-69-00-73-00-73-00}{pause 8}
-"002"	Question grains{pause 8}
-"003"	Du lait{pause 8}
-"004"	Du sucre{pause 8}
-"005"	Cool.{pause 20}
-"006"	{pause 8}
-"007"	{pause 8}
-"008"	{pause 8}
-"009"	{pause 8}
-"010"	
-"011"	
-"012"	
-"013"	{pause 8}
-"014"	{pause 8}
-"015"	{pause 8}
-"016"	{pause 8}
-"017"	
-"018"	
-"019"	
+"001"	{Man/Miss}{pause 8}.{pause 8}.{pause 8}.{pause 20} comme d'hab, s'il te	plaît.
+"002"	Question grains{pause 8}.{pause 8}.{pause 8}.{pause 20} ce sera un	{Blue}mélange{Color Reset}.
+"003"	Du lait{pause 8}.{pause 8}.{pause 8}.{pause 8}?{pause 20} Je préfère {Blue}sans{Color Reset}.
+"004"	Du sucre{pause 8}.{pause 8}.{pause 8}.{pause 8}?{pause 20} Je préfère {Blue}sans{Color Reset}.
+"005"	Cool.{pause 20} Laisse-moi déguster cette	merveille.
+"006"	{pause 8}.{pause 8}.{pause 8}.{pause 20} Oh yeah.{pause 20}	Ça c'est un café comme je les aime.{Wait for input}{0007-000e-0000}Merci.{pause 20} Tu m'as préparé un café{pause 20} aux	arômes envoûtants.
+"007"	{pause 8}.{pause 8}.{pause 8}.{pause 20} Yeah {man/miss}.{pause 20}	C'est un bon petit kawa.{Wait for input}Mais{pause 8} c'est pas un {Blue}mélange{Color Reset}. Ne me	prends pas pour une truffe.{Wait for input}Merci quand même.{pause 20} À plus, {Gus/ma puce}.
+"008"	{pause 8}.{pause 8}.{pause 8}.{pause 20} Yeah {man/miss}.{pause 20}	C'est pas de la lavasse.{Wait for input}Mais{pause 20} la prochaine fois, rappelle-toi	que je n'aime pas le {Blue}lait{Color Reset}. C'est trop	conventionnel.	Merci quand même.{pause 20} À plus, {Gus/ma puce}.
+"009"	{pause 8}.{pause 8}.{pause 8}.{pause 20} Yeah {man/miss}.{pause 20}	C'est pas de la lavasse.{Wait for input}Mais{pause 20} la prochaine fois, rappelle-toi	que je n'aime pas le {Blue}sucre{Color Reset}. C'est	trop commercial.	Merci quand même.{pause 20} À plus, {Gus/ma puce}.
+"010"
+"011"
+"012"
+"013"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Bon, {man/miss},{pause 20} je me contenterai de	dire que ce café ne m'a pas fait de	mal.	Les {Blue}grains {Color Reset}sont bons.{pause 40} Mais la	prochaine fois, n'oublie pas que je	ne suis fan ni de sucre, ni de lait.
+"014"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Bon, {man/miss},{pause 20} je me contenterai de	dire que ce café ne m'a pas fait de	mal.	Heureusement que tu n'a pas	ajouté de {Blue}lait {Color Reset}dedans.
+"015"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Bon, {man/miss},{pause 20} je me contenterai de	dire que ce café ne m'a pas fait de	mal.	Heureusement que tu n'a pas	ajouté de {Blue}sucre {Color Reset}dedans.
+"016"	{pause 8}.{pause 8}.{pause 8}.{pause 20} Hmmm.{pause 20} Non, ce café ne me	correspond pas. Aucun groove.{Wait for input}À plus, {Gus/ma puce}.
+"017"
+"018"
+"019"

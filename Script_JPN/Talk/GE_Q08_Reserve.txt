@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Glee}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Worry}
-"006"	{emote: Sunny}
-"007"	{emote: Glee}
-"008"	{emote: Worry}
+"001"	{emote: Happiness}そうこなくっちゃ！{Wait for input}じゃあ、{pause 10}{ruby (charSpan 2): きょう}今日の{pause 8}　{Blue}{0004-0010-0002-cd00}{ruby (charSpan 1): じ}時{Color Reset}より{ruby (charSpan 1): あと}後なら{pause 10}	{emote: Curious}いつが{ruby (charSpan 2): つごう}都合いい？
+"002"	{emote: Glee}ヤッター！{Wait for input}じゃあ、{pause 10}{ruby (charSpan 2): きょう}今日の　{Blue}{0004-0010-0002-cd00}{ruby (charSpan 1): じ}時{ruby (charSpan 1): はん}半{Color Reset}より{ruby (charSpan 1): あと}後で{pause 10}	{emote: Happiness}{ruby (charSpan 2): つごう}都合のいい{ruby (charSpan 2): じかん}時間　{pause 8}{ruby (charSpan 1): おし}教えてくれる？
+"003"	{emote: Alarmed}{pause 5}・{pause 5}・{pause 5}・{pause 5}わっ！{pause 20}	もう　{pause 8}{Hour}{ruby (charSpan 1): じ}時じゃん！{Wait for input}{emote: Distress}{ruby (charSpan 2): きょう}今日は　おそいし、{pause 10}	やっぱ　また{ruby (charSpan 2): こんど}今度にしよ！{pause 20}	{emote: Sheepishness}ごめんね～
+"004"	{emote: Alarmed}えっ！　{pause 10}やめるの？！{Wait for input}	{emote: Distress}{pause 5}・{pause 5}・{pause 5}・{pause 5}そっか～、{pause 10}{ruby (charSpan 2): ざんねん}残念！{pause 20}	{emote: Happiness}また{ruby (charSpan 2): じかん}時間がある{ruby (charSpan 1): とき}時　{pause 10}よろしくね
+"005"	{emote: Worry}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	それは　ちょっと{pause 10}{ruby (charSpan 1): はや}早すぎじゃない？{Wait for input}{emote: Distress}だってほら、{pause 10}{ruby (charSpan 1): おんな}女のコには	{ruby (charSpan 2): いろいろ}色々　{ruby (charSpan 2): じゅんび}準備ってものがあるじゃん{Wait for input}{emote: Happiness}だから　もうちょっと	おそめの{ruby (charSpan 2): じかん}時間で　お{ruby (charSpan 1): ねが}願いっ！	{pause 8}{catchphrase}！
+"006"	{emote: Sunny}オッケー！{pause 20}	{emote: Happiness}じゃあ　{pause 10}{Blue}{0004-0010-0002-cd01}{Color Reset}{Blue}{ruby (charSpan 1): じ}時{Color Reset}ちょうどに	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): い}行くから、{pause 10}{catchphrase}！
+"007"	{emote: Glee}じゃあ　{pause 10}{Blue}{0005-0019-0002-cd01}{0004-0010-0002-cd01}{ruby (charSpan 1): じ}時{0004-0011-0002-cd02}{ruby (charSpan 1): ぷん}分{Color Reset}に{pause 8}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): い}行くね、{pause 10}{catchphrase}！
+"008"	{emote: Worry}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 40}	さすがのアタイも　そんな{ruby (charSpan 2): じかん}時間までは{pause 5}	{ruby (charSpan 1): お}起きてられないなぁ～{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}もっと　はやい{ruby (charSpan 2): じかん}時間に{pause 5}	{emote: Curious}してくんない、{pause 8}{catchphrase}？

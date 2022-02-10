@@ -1,56 +1,56 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	
-"004"	{emote: Glee}
-"005"	{emote: Glee}
-"006"	{emote: Soft Smile}
-"007"	{emote: Soft Smile}
-"008"	{emote: Glee}
-"009"	{emote: Glee}
-"010"	{emote: Soft Smile}
-"011"	{emote: Soft Smile}
-"012"	{emote: Glee}
-"013"	{emote: Glee}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Joy}
-"020"	{emote: Joy}
-"021"	{emote: Joy}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
-"024"	{emote: Happiness}
-"025"	
-"026"	
-"027"	
-"028"	{emote: Thought}
-"029"	{emote: Thought}
-"030"	{emote: Thought}
-"031"	{emote: Shocked}
-"032"	
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	{emote: Joy}
-"040"	{emote: Surprise}
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
-"048"	{emote: Reset}
-"049"	{emote: Reset}
-"050"	{emote: Reset}
-"051"	{emote: Reset}
-"052"	{emote: Reset}
-"053"	{emote: Reset}
-"054"	{emote: Reset}
-"055"	{emote: Reset}
+"001"	{emote: Happiness}{Player nickname (green)}さん{pause 15}	いつもので　{pause 5}お{ruby (charSpan 1): ねが}願いします
+"002"	{emote: Happiness}いつも　たのんでるやつを{pause 10}	いただけますか、{pause 10}{catchphrase}
+"003"
+"004"	{emote: Glee}コーヒー　{pause 5}いただけますか？{Wait for input}	{emote: Happiness}{ruby (charSpan 1): まめ}豆は、{pause 10}{Blue}ブルーマウンテン{Color Reset}で　お{ruby (charSpan 1): ねが}願いします
+"005"	{emote: Glee}コーヒー{pause 5}ください{Wait for input}	{emote: Happiness}{ruby (charSpan 1): まめ}豆は、{pause 8}{Blue}モカ{Color Reset}で　お{ruby (charSpan 1): ねが}願いします
+"006"	{emote: Soft Smile}コーヒー、{pause 10}お{ruby (charSpan 1): ねが}願いします{Wait for input}	{emote: Happiness}{ruby (charSpan 1): まめ}豆は　{pause 8}{Blue}キリマンジャロ{Color Reset}で
+"007"	{emote: Soft Smile}コーヒー、{pause 10}{ruby (charSpan 1): い}入れていただけますか？{Wait for input}	{emote: Happiness}{ruby (charSpan 1): まめ}豆は　{pause 8}{Blue}ブレンド{Color Reset}で　お{ruby (charSpan 1): ねが}願いします
+"008"	{emote: Glee}コーヒー　{pause 10}いただけますか？{Wait for input}	{emote: Happiness}ミルクは　{pause 8}{Blue}たくさん{Color Reset}{ruby (charSpan 1): い}入れてくださいね！
+"009"	{emote: Glee}コーヒー　{pause 5}ください{Wait for input}	{emote: Glee}ミルクは、{pause 8}{Blue}そこそこ{Color Reset}で{ruby (charSpan 3): だいじょうぶ}大丈夫です
+"010"	{emote: Soft Smile}コーヒー、{pause 10}お{ruby (charSpan 1): ねが}願いします{Wait for input}	{emote: Glee}ミルクは　{pause 8}{Blue}{ruby (charSpan 1): すこ}少し{Color Reset}でいいので！
+"011"	{emote: Soft Smile}コーヒー、{pause 10}いただけますか？{Wait for input}	{emote: Glee}ミルクは　{pause 10}{Blue}{ruby (charSpan 1): い}入れない{Color Reset}でください
+"012"	{emote: Glee}コーヒー　{pause 5}いただけますか？{Wait for input}	{emote: Sunny}お{ruby (charSpan 2): さとう}砂糖は、{pause 8}{Blue}3{ruby (charSpan 1): こ}個{Color Reset}お{ruby (charSpan 1): ねが}願いします
+"013"	{emote: Glee}コーヒー　{pause 5}ください{Wait for input}	{emote: Sunny}お{ruby (charSpan 2): さとう}砂糖は、{pause 10}{Blue}2{ruby (charSpan 1): こ}個{Color Reset}ください
+"014"	{emote: Soft Smile}コーヒー　{pause 10}お{ruby (charSpan 1): ねが}願いします{Wait for input}	{emote: Sunny}お{ruby (charSpan 2): さとう}砂糖は、{pause 8}{Blue}1{ruby (charSpan 1): こ}個{Color Reset}がいいです
+"015"	{emote: Soft Smile}コーヒー　{pause 10}{ruby (charSpan 1): い}入れていただけますか？{Wait for input}	{emote: Sunny}お{ruby (charSpan 2): さとう}砂糖は、{Blue}{ruby (charSpan 1): な}無し{Color Reset}でお{ruby (charSpan 1): ねが}願いします
+"016"	{emote: Happiness}{ruby (charSpan 2): ひとくち}一口　{pause 8}いただきますね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"017"	{emote: Happiness}うふふ{pause 20}	どんな{ruby (charSpan 1): あじ}味か{pause 5}{ruby (charSpan 1): たの}楽しみです{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"018"	{emote: Happiness}では、{pause 10}いただきます！
+"019"	{emote: Joy}おいし～い！{pause 40}{emote: Soft Smile}{0007-000e-0000}{Wait for input}こんな　{pause 3}{ruby (charSpan 2): かんせい}完成された{ruby (charSpan 1): あじ}味を{pause 10}	{ruby (charSpan 2): ひょうげん}表現できるなんて{pause 8}・{pause 8}・{pause 8}・{pause 8}！{Wait for input}	{emote: Love}{ruby (charSpan 2): そんけい}尊敬してしまいます！
+"020"	{emote: Joy}う～ん！　{pause 20}いい{ruby (charSpan 1): かお}香り！{emote: Soft Smile}{pause 40}{Wait for input}	{0007-000e-0000}わたしの　{pause 3}{ruby (charSpan 1): す}好きな{ruby (charSpan 1): あじ}味です！{Wait for input}{emote: Happiness}このコーヒーには　{pause 10}{ruby (charSpan 2): てづく}手作りの	{0005-0010-0002-0000}が{pause 8}	{ruby (charSpan 1): あ}合いそうですね
+"021"	{emote: Joy}この{ruby (charSpan 1): ふか}深みのあるコク！{emote: Soft Smile}{pause 40}{Wait for input}	{0007-000e-0000}わたしが{ruby (charSpan 1): の}飲みたかった{ruby (charSpan 1): あじ}味{pause 8}	そのものです！	{emote: Happiness}{Orange}マスター{Color Reset}も{pause 10}	ゆうしゅうな　{pause 5}お{ruby (charSpan 2): でし}弟子さんを{ruby (charSpan 1): も}持って{pause 8}	{ruby (charSpan 1): よろこ}喜んでるでしょうね！
+"022"	{emote: Happiness}なかなか　{pause 3}いい{ruby (charSpan 1): あじ}味ですね！{Wait for input}{emote: Soft Smile}{Blue}コーヒー{ruby (charSpan 1): まめ}豆{Color Reset}の{ruby (charSpan 2): しゅるい}種類が　{pause 5}{ruby (charSpan 1): ちが}違うのだったら{pause 10}	もっと　{pause 10}わたし{ruby (charSpan 1): ごの}好みになりますけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}これはこれで{pause 10}	{ruby (charSpan 1): の}飲みやすいですよ
+"023"	{emote: Happiness}なるほど！{Wait for input}{emote: Soft Smile}{Blue}ミルク{Color Reset}の{ruby (charSpan 2): ぶんりょう}分量が{pause 8}　ちょうどよければ、{pause 10}	わたしが{ruby (charSpan 1): す}好きな　{pause 5}{ruby (charSpan 1): あじ}味になりそうです！{Wait for input}{emote: Happiness}でも、{pause 10}これはこれで{pause 8}	おいしくいただけますよ
+"024"	{emote: Happiness}ふ～{pause 5}・{pause 5}・{pause 5}・{pause 5}{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着きます{Wait for input}{emote: Soft Smile}{Blue}お{ruby (charSpan 2): さとう}砂糖{Color Reset}の{ruby (charSpan 1): りょう}量が　{pause 5}ピッタリだったら{pause 10}	もうカンペキですね！{Wait for input}{emote: Happiness}でも、{pause 10}この{ruby (charSpan 1): あじ}味も{pause 8}	いつもと{ruby (charSpan 1): ちが}違って{pause 5}{ruby (charSpan 2): しんせん}新鮮ですよ
+"025"
+"026"
+"027"
+"028"	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}ちょっと　{pause 5}{ruby (charSpan 1): おも}思っていた{ruby (charSpan 1): あじ}味とは	{pause 10}{ruby (charSpan 1): ちが}違いますけど{pause 5}・{pause 5}・{pause 5}・{pause 5}{Wait for input}{emote: Soft Smile}{Blue}コーヒー{ruby (charSpan 1): まめ}豆{Color Reset}の{pause 3}セレクトがいいので{pause 10}	{ruby (charSpan 1): あじ}味に　{pause 5}{ruby (charSpan 1): ふか}深みがありますね！{Wait for input}また　{pause 3}{ruby (charSpan 1): く}来るので{pause 10}	よろしくお{ruby (charSpan 1): ねが}願いします
+"029"	{emote: Thought}{pause 5}・{pause 5}・{pause 5}・{pause 5}{Wait for input}{ruby (charSpan 1): なに}何か　{pause 10}{ruby (charSpan 1): ちが}違う{ruby (charSpan 1): き}気もしますけど、{pause 10}	{emote: Soft Smile}{Blue}ミルク{Color Reset}の{ruby (charSpan 2): ぶんりょう}分量が　{pause 5}ちょうどいいですね{Wait for input}また{ruby (charSpan 1): き}来ます、{pause 15}{catchphrase}！
+"030"	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{Blue}お{ruby (charSpan 2): さとう}砂糖{Color Reset}の{ruby (charSpan 1): りょう}量は{pause 10}	いいみたいなんですけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): そうぞう}想像していたものとは{pause 10}	ちょっと　{pause 8}{ruby (charSpan 1): ちが}違うかもしれません{Wait for input}{emote: Soft Smile}また{ruby (charSpan 1): の}飲みに{ruby (charSpan 1): く}来るので、{pause 10}	その{ruby (charSpan 1): とき}時は　{pause 5}よろしくお{ruby (charSpan 1): ねが}願いします
+"031"	{emote: Shocked}{pause 5}・{pause 5}・{pause 5}・{pause 5}！{Wait for input}	{emote: Shyness}あの～{pause 15}	なんというか{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Distress}{ruby (charSpan 2): ちゅうもん}注文　{pause 10}{ruby (charSpan 2): まちが}間違えてしまったのかしら？！{Wait for input}	{emote: Sheepishness}いえ、{pause 10}なんでもないです{pause 5}・{pause 5}・{pause 5}・{Wait for input}また　{pause 10}{ruby (charSpan 1): き}来ますね、{pause 15}{catchphrase}！
+"032"
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"	{emote: Joy}わぁ～　{pause 15}おいしい！{pause 20}{emote: Soft Smile}{Wait for input}{emote: Glee}{Town name (pink)}{ruby (charSpan 1): むら}村には{pause 10}	こんなに　おいしいコーヒーを{ruby (charSpan 1): だ}出す{pause 10}	カフェがあるんですね！{0007-000e-0000}	{emote: Happiness}また　{pause 5}こちらに{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来た{ruby (charSpan 1): とき}時は{pause 10}	{ruby (charSpan 1): よ}寄らせていただきます{emote: Sunny}
+"040"	{emote: Surprise}まぁ！{pause 20}	{emote: Soft Smile}わたしの{ruby (charSpan 1): この}好みに　{pause 10}{emote: Love}ピッタリの{ruby (charSpan 1): あじ}味です！{Wait for input}{emote: Shyness}こんな　おいしいコーヒーを{ruby (charSpan 1): の}飲める{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村の{ruby (charSpan 1): かた}方が　{pause 5}うらやましい！{0007-000e-0000}{Wait for input}{emote: Glee}また　{pause 5}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): く}来るので{pause 10}	よろしく　お{ruby (charSpan 1): ねが}願いします
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
+"048"	{emote: Reset}それから{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}ミルクは　{pause 8}{Blue}たくさん{Color Reset}{ruby (charSpan 1): い}入れてくださいね！
+"049"	{emote: Reset}あと、{pause 15}	{emote: Glee}ミルクは　{pause 8}{Blue}そこそこ{Color Reset}の{ruby (charSpan 1): りょう}量で　{ruby (charSpan 3): だいじょうぶ}大丈夫です
+"050"	{emote: Reset}それと{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Glee}ミルクは　{pause 8}{Blue}{ruby (charSpan 1): すこ}少し{Color Reset}でけっこうです
+"051"	{emote: Reset}それから、{pause 15}	{emote: Glee}ミルクは　{pause 10}{Blue}{ruby (charSpan 1): い}入れない{Color Reset}でください
+"052"	{emote: Reset}それから{pause 8}・{pause 8}・{pause 8}・{pause 20}	お{ruby (charSpan 2): さとう}砂糖は、{pause 8}{Blue}3{ruby (charSpan 1): こ}個{Color Reset}ください{emote: Sunny}
+"053"	{emote: Reset}あと、{pause 15}お{ruby (charSpan 2): さとう}砂糖を　{pause 10}{Blue}2{ruby (charSpan 1): こ}個{Color Reset}{ruby (charSpan 1): い}入れてください{emote: Sunny}
+"054"	{emote: Reset}それと{pause 8}・{pause 8}・{pause 8}・{pause 20}	お{ruby (charSpan 2): さとう}砂糖は、{pause 8}{Blue}1{ruby (charSpan 1): こ}個{Color Reset}がいいです{emote: Sunny}
+"055"	{emote: Reset}それから、{pause 15}	お{ruby (charSpan 2): さとう}砂糖は　{Blue}{ruby (charSpan 1): な}無し{Color Reset}でけっこうです{emote: Sunny}

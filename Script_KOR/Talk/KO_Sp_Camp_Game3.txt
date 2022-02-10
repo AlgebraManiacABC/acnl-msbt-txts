@@ -1,20 +1,20 @@
 == 0 ==
-"001"	이봐,{pause 15}
-"002"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"003"	{Number (0x9)}벨이다!{Wait for input}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Surprise}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
-"009"	{emote: Worry}
-"010"	{emote: Worry}
-"011"	{emote: Worry}
-"012"	어디 보자ー{pause 15}!
-"013"	어디 보자ー{pause 15}!
-"014"	어디 보자ー{pause 15}!
-"015"	어디 보자ー{pause 15}!
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
+"001"	이봐,{pause 15}	니가 갖고 있는{pause 8}	그 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 걸고	{emote: Happiness}「가격 복불복 게임」{pause 8}이나 해볼래?{Wait for input}{emote: Reset}여기에{pause 8} , {pause 15}, {pause 15}, {pause 15}{pause 15}	4장의 카드가 있는데{pause 8}	{emote: Agreement}각각 판매 가격이 쓰여 있어	{emote: Reset}니가 뽑은 카드에 쓰여 있는 가격으로{pause 15}	{emote: Happiness}내가 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}	사게 되는 게임이지	{0007-000d-0000}{emote: Reset}니가 잘만 뽑으면{pause 8}	비싸게 {pause 8}팔 수도 있다구!{Player can respond (0005):0007-0015-0002-0028}	할게!	다음에 하자
+"002"	{0009-0002-0008-0008-0009-000a-000b}
+"003"	{Number (0x9)}벨이다!{Wait for input}	{emote: Sadness}크윽,{pause 15}	상당한 가격이 나왔군!	{emote: Worry}엄청 타격이 크지만{pause 15}	게임이니까 어쩔 수 없지{pause 8}・{pause 8}・{pause 8}・	{emote: Reset}자, {pause 8}{Blue}{Number (0x9)}벨{Color Reset}이야
+"004"	{emote: Surprise}{Number (0x9)}벨!{Wait for input}	{emote: Worry}흐ー음,{pause 15}	제법 잘 골랐군{pause 8}・{pause 8}・{pause 8}・	{emote: Happiness}자, {pause 15}{Blue}{Number (0x9)}벨{Color Reset}이야
+"005"	{emote: Surprise}{Number (0x9)}벨!{Wait for input}	{emote: Happiness}헤헷!{pause 15}	꽤 싼 가격이 나왔군	섭섭하게 생각하진 마{pause 15}	자, {pause 8}{Blue}{Number (0x9)}벨{Color Reset}
+"006"	{emote: Surprise}{Number (0x9)}벨!!{Wait for input}	{emote: Laughter}대박이다ーーー!{Wait for input}{emote: Happiness}너한테는 재앙이겠지만{pause 8}	세상일이 다 이런 거지 뭐!{pause 15}	자, {pause 8}{Blue}{Number (0x9)}벨{Color Reset}
+"007"	{emote: Happiness}역시 {Player nickname (green)}!{pause 15}	그렇게 나와야지!{Wait for input}{emote: Reset}뽑은 카드에{pause 8}	얼마가 쓰여 있든지 간에{pause 15}	딴지 걸기 없기다?! {pause 20}{catchphrase}?!	자!{pause 15} 어떤 카드를 고를래?{0008-0002-0010-000c-0000-000d-0000-000e-0000-000f-0000}	 카드	 카드	 카드	 카드
+"008"	{emote: Worry}흠, {pause 15}그거 참 아쉽게 됐군{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}참고로  카드엔{pause 15}	{Number (0x9)}벨이라고{pause 8}	쓰여 있었어	{emote: Happiness}다음에 한가해지면{pause 8}	같이 놀자구!{pause 20} {catchphrase}!
+"009"	{emote: Worry}흠, {pause 15}그거 참 아쉽게 됐군{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}참고로  카드엔{pause 15}	{Number (0x9)}벨이라고{pause 8}	쓰여 있었어	{emote: Happiness}다음에 한가해지면{pause 8}	같이 놀자구!{pause 20} {catchphrase}!
+"010"	{emote: Worry}흠, {pause 15}그거 참 아쉽게 됐군{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}참고로  카드엔{pause 15}	{Number (0x9)}벨이라고{pause 8}	쓰여 있었어	{emote: Happiness}다음에 한가해지면{pause 8}	같이 놀자구!{pause 20} {catchphrase}!
+"011"	{emote: Worry}흠, {pause 15}그거 참 아쉽게 됐군{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}참고로  카드엔{pause 15}	{Number (0x9)}벨이라고{pause 8}	쓰여 있었어	{emote: Happiness}다음에 한가해지면{pause 8}	같이 놀자구!{pause 20} {catchphrase}!
+"012"	어디 보자ー{pause 15}	 카드에 쓰여 있는 가격은{pause 8}・{pause 8}・{pause 8}・{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"013"	어디 보자ー{pause 15}	 카드에 쓰여 있는 가격은{pause 8}・{pause 8}・{pause 8}・{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"014"	어디 보자ー{pause 15}	 카드에 쓰여 있는 가격은{pause 8}・{pause 8}・{pause 8}・{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"015"	어디 보자ー{pause 15}	 카드에 쓰여 있는 가격은{pause 8}・{pause 8}・{pause 8}・{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"016"	{emote: Happiness}운이 좋군, {pause 8}{Player nickname (green)}!{pause 20}	다음에 또 놀자, {pause 20}{catchphrase}!
+"017"	{emote: Happiness}다음엔 안 질 거라구, {pause 20}{catchphrase}!
+"018"	{emote: Happiness}게임은 질 수도 이길 수도 있는 거지!{pause 20}	다음에 또 놀자, {pause 20}{catchphrase}!
+"019"	{emote: Happiness}너무 좌절하지 말고{pause 8}	또 놀자구, {pause 20}{catchphrase}!

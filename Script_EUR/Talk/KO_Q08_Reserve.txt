@@ -1,45 +1,45 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Sunny}
-"003"	{pause 8}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Agreement}
-"007"	{emote: Agreement}
-"008"	{emote: Worry}
+"001"	{emote: Surprise}Ah!{pause 20} {emote: Happiness}Now, that's the {Player nickname (green)} we	all know and love!{pause 8} {emote: Agreement}I knew you'd say	it'd be all right!	{emote: Curious}So when should we do it?{Wait for input} {emote: Soft Smile}When's	the best time to visit you after,	let's say, {Blue}{0004-0010-0002-cd00}{Color Reset} {Blue}{0005-0018-0002-cd00}{Color Reset}?
+"002"	{emote: Sunny}Great!{Wait for input} {emote: Soft Smile}Now we've just gotta figure	out the minor details!{Wait for input}{emote: Reset}You probably wanna get ready, so{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Soft Smile}Let me know when it's convenient	for you after {Blue}{0004-0010-0002-cd00}:30{Color Reset} {Blue}{0005-0018-0002-cd00}{Color Reset}!
+"003"	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Surprise}Oh!{pause 30} {emote: Sheepishness}I didn't realize it was already	getting so late! {emote: Worry}I've gotta sleep now,{pause 20}	so let's do this some other time!
+"004"	{emote: Alarmed}Oh,{pause 8} you changed your mind then?{pause 30}	{emote: Worry}That's too bad, but, hm, oh well{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Soft Smile}OK,{pause 8} I'll see you later, {pause 20}{catchphrase}.
+"005"	{emote: Alarmed}Huh?!{pause 30} {emote: Sheepishness}That's a little too soon, don't	you think?!{Wait for input} {emote: Worry}Sorry, {pause 20}but let's meet up	a bit later!
+"006"	{emote: Agreement}Right on!{pause 20} So then we'll meet up at	{Blue}{0004-0010-0002-cd01} {Blue}{Blue}{0005-0018-0002-cd01}{Blue}{Blue}{Color Reset}, right?{Wait for input}{emote: Sunny}I can't wait!{pause 20} {capitalized}{catchphrase}!
+"007"	{emote: Agreement}Excellent!{pause 20} That's perfect for me!{pause 20}{Wait for input}See you at {Blue}{emote: Soft Smile}{0004-0010-0002-cd01}:{Blue}{Blue}{0004-0011-0002-cd02} {Blue}{0005-0018-0002-cd01}{Blue}{Color Reset}!{pause 30}	{emote: Glare}Remember to clean!{pause 20} {capitalized}{catchphrase}!
+"008"	{emote: Worry}Hey now{pause 8}.{pause 8}.{pause 8}.{pause 40} There's no way THAT	time would ever fly with me{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Anger}Pick a time that's a bit earlier	in the day,{pause 8} {catchphrase}!
 == 1 ==
-"001"	{emote: Surprise}
-"002"	{emote: Sunny}
-"003"	{emote: Surprise}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Agreement}
-"007"	{emote: Agreement}
-"008"	{emote: Worry}
+"001"	{emote: Surprise}¡Claro que sí!{pause 20} {emote: Happiness}Sabía que no	me defraudarías, {Player nickname (green)}.{Wait for input}{emote: Curious}¿Y cuándo quedamos?{pause 20}	{emote: Soft Smile}A partir de {las/la/las} {Blue}{0004-0010-0002-cd00}:00{Color Reset},{pause 8}	¿qué hora te viene bien?
+"002"	{emote: Sunny}¡Fantástico!{Wait for input} {emote: Soft Smile}Pues vamos	a concretar el plan.{Wait for input}{emote: Soft Smile}Yo puedo a partir de {las/la/las} {Blue}{0004-0010-0002-cd00}:30{Color Reset}.{pause 20}	Pasada esa hora,{pause 8} ¿cuándo te	viene bien?
+"003"	{emote: Surprise}Uy,{pause 15} no me había dado cuenta de	que se nos ha hecho tan tarde.{emote: Worry}{Wait for input}Debería recogerme.{pause 20}	Quedamos otro día, ¿vale?
+"004"	{emote: Alarmed}Vaya,{pause 8} ¿has cambiado de idea?{pause 30}	{emote: Worry}Bueno, pues nada{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Soft Smile}Hasta otra, {pause 10}{catchphrase}.
+"005"	{emote: Alarmed}¿Cómo?{pause 30} {emote: Sheepishness}¿Tan pronto?{Wait for input}	{emote: Worry}Mejor quedamos un poco	más tarde,{pause 8} ¿vale?
+"006"	{emote: Agreement}¡De acuerdo!{pause 20} Pues nos vemos	a {Blue}{Blue}{las/la/las}{Blue} {0004-0010-0002-cd01}:00{Color Reset}.{Wait for input}{emote: Sunny}¡Hasta luego,{pause 12} {catchphrase}!
+"007"	{emote: Agreement}¡Fantástico!{pause 20} Me viene de perlas.{pause 20}	Te veo a {Blue}{emote: Soft Smile}{Blue}{las/la/las} {Blue}{0004-0010-0002-cd01}:{0004-0011-0002-cd02}{Color Reset}.{Wait for input}{emote: Glare}¿Vas a aprovechar para hacer	limpieza?{pause 20} Je.{pause 20} ¡{capitalized}{catchphrase}!
+"008"	{emote: Worry}Pues{pause 8}.{pause 8}.{pause 8}.{pause 40} no me verás a mí	levantado a esas horas,{pause 8}	me temo{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Elige una hora más tempranico,{pause 8}	¿eh, {catchphrase}?
 == 2 ==
-"001"	{emote: Surprise}
-"002"	{emote: Sunny}
-"003"	{pause 8}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Agreement}
-"007"	{emote: Agreement}
-"008"	{emote: Worry}
+"001"	{emote: Surprise}Ah !{pause 20}{emote: Happiness} {capitalized}{Player nickname (green)}, je te reconnais	bien là ! Je savais que j'allais aimer	ta réponse.	{emote: Curious}Bon,{pause 8} quand est-ce que je peux venir	chez toi ?{Wait for input} {emote: Soft Smile}Après {Blue}{0004-0010-0002-cd00} h{Color Reset}{pause 20}, quelle heure	te conviendrait ?
+"002"	{emote: Sunny}Super !{Wait for input} {emote: Soft Smile}Bon, comment on fait ?{emote: Reset} Tu	as sûrement besoin d'un peu de	temps pour te préparer{pause 8}.{pause 8}.{pause 8}.	{emote: Soft Smile}Je suis libre à partir de {Blue}{0004-0010-0002-cd00} h 30{Color Reset},	dis-moi quelle heure te convient le	mieux !
+"003"	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Surprise} Oh !{pause 30} {emote: Sheepishness}Je n'avais pas vu l'heure ! {emote: Worry}Je	dois filer au dodo maintenant, on	remet ça à une autre fois !
+"004"	{emote: Alarmed}Oh,{pause 8} tu as changé d'avis ?{pause 30} {emote: Worry}Dommage,	mais bon{pause 8}.{pause 8}.{pause 8}. {emote: Soft Smile}OK,{pause 8} à plus tard alors,	{pause 20}{catchphrase}.
+"005"	{emote: Alarmed}Hmm ?{pause 30} {emote: Sheepishness}C'est trop tôt ça, tu crois	pas ?{Wait for input} {emote: Worry}Désolé, {pause 20}donne-moi une autre	heure.
+"006"	{emote: Agreement}OK !{pause 20} On se voit à	{Blue}{0004-0010-0002-cd01} h{Color Reset}, OK ?{Wait for input}{emote: Sunny}J'en crève d'impatience !{pause 20}	{capitalized}{catchphrase} !
+"007"	{emote: Agreement}Excellent !{pause 20} C'est parfait !{pause 20}{Wait for input}Je te vois à {Blue}{emote: Soft Smile}{0004-0010-0002-cd01} h {0004-0011-0002-cd02}{Color Reset}.{pause 30}	{emote: Glare}Et fais le ménage, hein !	{pause 20}{capitalized}{catchphrase} !
+"008"	{emote: Worry}Hé ho{pause 8}.{pause 8}.{pause 8}.{pause 40} Tu veux pas me donner une	heure encore PLUS impossible{pause 8}.{pause 8}.{pause 8}.?{Wait for input}{emote: Reset}Un peu plus tôt,{pause 8} s'il te plaît,	{catchphrase} !
 == 3 ==
-"001"	{emote: Surprise}
-"002"	{emote: Sunny}
-"003"	{pause 8}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Agreement}
-"007"	{emote: Agreement}
-"008"	{emote: Worry}
+"001"	{emote: Surprise}Grande!{pause 20} {emote: Happiness}Ti stimo troppo,	{Player nickname (green)}! Sapevo che non	ti saresti tirat{o/a} indietro!{Wait for input}{emote: Curious}Allora,{pause 8} quando vuoi che passi?{Wait for input}	{emote: Soft Smile}Per me va bene qualsiasi	ora dopo {pause 20}le {0004-0010-0002-cd00}.
+"002"	{emote: Sunny}Mitico!{Wait for input} {emote: Soft Smile}Ora dobbiamo solo	organizzare i dettagli!{Wait for input}{emote: Reset}Probabilmente dovrai prepararti,	quindi{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Soft Smile}Scegli tu un orario.	Basta che sia dopo le {Blue}{0004-0010-0002-cd00}:30{Color Reset}!
+"003"	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Surprise} Ops!{pause 30} {emote: Sheepishness}Non avevo mica visto che	era così tardi! {emote: Worry}Devo andare a	letto.{pause 20} Facciamo un'altra volta!
+"004"	{emote: Alarmed}Ah,{pause 8} hai cambiato idea?{pause 30}	{emote: Worry}Che bidone{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Soft Smile}OK,{pause 8} ci si vede, {pause 20}{catchphrase}.
+"005"	{emote: Alarmed}Eh?!{pause 30} {emote: Sheepishness}Un po' prestino, no?!{Wait for input}{emote: Worry}	Scusa, {pause 20}ma vorrei passare	un po' più tardi!
+"006"	{emote: Agreement}Alla grande!{pause 20} Allora passo alle	{Blue}{0005-0019-0002-cd01}{0004-0010-0002-cd01} in punto{Color Reset}, giusto?{Wait for input}{emote: Sunny}Non vedo l'ora! {pause 20}{capitalized}{catchphrase}!
+"007"	{emote: Agreement}Sicuro!{pause 20} Ci sto dentro!{pause 20}{Wait for input}Allora ci si becca alle	{Blue}{emote: Soft Smile}{0005-0019-0002-cd01}{0004-0010-0002-cd01}:{0004-0011-0002-cd02}{Color Reset}!{pause 30}	{emote: Glare}Metti in ordine, eh? {pause 20}{capitalized}{catchphrase}!
+"008"	{emote: Worry}Ehi, aspetta{pause 8}.{pause 8}.{pause 8}.{pause 40}	Ma che razza di orario sarebbe?!{Wait for input}{emote: Reset}Sarà meglio che passi	un po' prima,{pause 8} {catchphrase}!
 == 4 ==
-"001"	{emote: Happiness}
-"002"	{emote: Agreement}
-"003"	{emote: Laughter}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Agreement}
-"007"	{emote: Agreement}
-"008"	{emote: Anger}
+"001"	{emote: Happiness}Bwa ha!{pause 30} {emote: Curious}Und wann?{pause 20} Wann passt es	dir denn nach {0004-0010-0002-cd00} Uhr am besten?
+"002"	{emote: Agreement}Dann lass uns doch gleich eine Zeit	festlegen. {pause 20}{emote: Glare}Wann würd's dir nach	{Blue}{0004-0010-0002-cd00}:30{Color Reset} {Blue}Uhr {Color Reset}passen?
+"003"	{emote: Laughter}Bwa ha ha! {pause 20}Na dann... {Wait for input}{emote: Surprise}Argh!{pause 30} Ist es	wirklich schon so spät?{Wait for input}{emote: Resigned}Dann verschieben wir die Aktion	wohl besser. {pause 20}Wäre mir heute dann	doch zu viel.
+"004"	{emote: Alarmed}Was, du willst nicht mehr?{pause 30}	{emote: Anger}Pah.{pause 20} Dann halt nicht, {pause 20}{catchphrase}.
+"005"	{emote: Alarmed}Was?{pause 30} {emote: Anger}Das ist zu früh! {pause 20}Geht das	nicht später?
+"006"	{emote: Agreement}Dann also um {Blue}{0004-0010-0002-cd01} Uhr{Color Reset}!{Wait for input}{emote: Glare}Ich werde da sein,{pause 20} {catchphrase}!
+"007"	{emote: Agreement}Abgemacht.{pause 20} Dann um {Blue}{0004-0010-0002-cd01}:{0004-0011-0002-cd02} Uhr{Color Reset}	bei dir.{pause 30} {emote: Glare}Und schön vorher	sauber machen, {pause 20}{catchphrase}!
+"008"	{emote: Anger}Hä, was? {pause 30}Das muss doch auch	früher gehen, {pause 20}{catchphrase}!

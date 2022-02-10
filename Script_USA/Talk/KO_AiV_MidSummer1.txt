@@ -1,36 +1,36 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{capitalized}
-"003"	{emote: Greetings}
-"004"	{emote: Happiness}
-"005"	{emote: Alarmed}
-"006"	{emote: Greetings}
-"007"	Yo, {Player name}
-"008"	Hey, glad you made it, {Player name}
-"009"	{emote: Greetings}
-"010"	{emote: Happiness}
-"011"	{emote: Greetings}
+"001"	{emote: Alarmed}Hey! {pause 20}{emote: Happiness}{capitalized}{Player name} from {Town name (pink)}!{pause 30}	Welcome! In case you're wondering,{emote: Reset}	it's the {Blue}Summer Solstice{Color Reset}.{pause 30}	It's the longest day of the year.{pause 8}	{emote: Agreement}We've got more sun than we know	what to do with!{pause 20} {emote: Soft Smile}{capitalized}{catchphrase}!
+"002"	{capitalized}{Greeting begin}Hey, {pause 8}{Player name}{Greeting end}!{pause 30}	You came all the way to {Town name (pink)},	so you might as well enjoy yourself!
+"003"	{emote: Greetings}Oh,{pause 8} if it isn't {Player name}!{pause 20}	{emote: Happiness}Welcome!{pause 30} Make yourself at home!	{capitalized}{pause 20}{catchphrase}!	{emote: Reset}Today's the {Blue}Summer Solstice{Color Reset},{pause 20}	{emote: Happiness}so we have lots of time to hang	around before the sun goes down!
+"004"	{emote: Happiness}Yo! {pause 20}What's up, {Player name}?{Wait for input}{emote: Glare}Bet you just had to have a world-	famous {Town name (pink)} {0005-001a-0002-cd00},	{pause 20}right, {catchphrase}?
+"005"	{emote: Alarmed}Yo, {pause 15}if it isn't {Player name}!{pause 30}	{emote: Happiness}Slummin' it with us bumpkins, eh?{Wait for input}{emote: Reset}Did you know today's the {Blue}Summer	Solstice{Color Reset}?{pause 30} {emote: Glare}Plenty of time to loaf	about before sundown!
+"006"	{emote: Greetings}Hey! {capitalized}{Player name} from {Town name (pink)}!{pause 30}	{emote: Happiness}Lookin' good, kid! {pause 20}{capitalized}{catchphrase}!
+"007"	Yo, {Player name}!	You came by to hang out!{Wait for input}{emote: Sheepishness}I just realized it was {Hour}:{Minutes}!	{emote: Soft Smile}It's the {Blue}Summer Solstice{Color Reset}! Lotsa sun!{pause 15}	Party all day! {capitalized}{pause 20}{catchphrase}!{Wait for input}{emote: Sigh}Actually, I'm tired of partying all	day. {emote: Resigned}Let's just play a game of	checkers and relax, yeah?
+"008"	Hey, glad you made it, {Player name}!{Wait for input}If you were hoping to get a taste of	the {Town name (pink)} nightlife, you really	picked the wrong day!	It's the {Blue}Summer Solstice{Color Reset}. The sun'll	be up, like, forever.{pause 15} Nightlife? More	like brightlife!{pause 20} {capitalized}{catchphrase}!
+"009"	{emote: Greetings}You're here, {pause 8}{Player nickname (green)}!{Wait for input}	{emote: Happiness}It'll be light extra long{pause 15}, so we can	party nonstop! {capitalized}{pause 20}{catchphrase}!	{emote: Glare}But...{pause 8}we'll probably regret not	getting any sleep later,{pause 20}{emote: Laughter} GAHAHA!{pause 30}{emote: Soft Smile}
+"010"	{emote: Happiness}Hey, {pause 8}{Player nickname (green)}!{pause 20}	You hanging out, {pause 20}{catchphrase}?{Wait for input}{emote: Reset}The sun doesn't go down on the	solstice,{pause 8} {emote: Sheepishness}so I'm going buck wild!{pause 20}	{emote: Sleepy}Yawn...{pause 15} But I might be a bit sleepy.
+"011"	{emote: Greetings}Yo! {pause 15}You're here, {pause 8}{Player nickname (green)}!{Wait for input}	{emote: Sheepishness}Look at how bright it is,{pause 8} and	it's already {pause 4}{Hour}:{Minutes}!	{emote: Agreement}I guess that sun just won't give up,{pause 20}	{emote: Laughter}GAHAHA!{pause 30}{emote: Soft Smile} {capitalized}{catchphrase}!
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	¡{capitalized}
-"003"	¡{emote: Greetings}
-"004"	{emote: Happiness}
-"005"	{emote: Alarmed}
-"006"	{emote: Greetings}
-"007"	Hombre, {Player name}!
-"008"	Me alegro de verte por aquí,	{Player name}
-"009"	{emote: Greetings}
-"010"	{emote: Happiness}
-"011"	{emote: Greetings}
+"001"	{emote: Alarmed}¡Ah, {pause 10}{emote: Happiness}{Player name}, de {capitalized}{Town name (pink)}!{pause 30}	¡Bienvenid{o/a}!{emote: Reset} ¿A que no sabes que	hoy es el solsticio de verano?{pause 30}	{emote: Agreement}Pues sí, es el día más largo del año.	¡Menuda hartura de sol, así no hay	quien salga a la calle,{pause 10} {emote: Soft Smile}{catchphrase}!
+"002"	¡{capitalized}{Greeting begin}Eh, {pause 8}{Player name}{Greeting end}!{pause 30} Ya que te	has molestado en venir aquí hasta	{capitalized}{Town name (pink)}, disfruta mucho, ¿eh?
+"003"	¡{emote: Greetings}Buenos días,{pause 8} {Player name}!{pause 20} 	{emote: Happiness}Bienvenid{o/a}, {pause 30}{catchphrase}.	{emote: Reset}Hoy es el solsticio de verano.	{emote: Happiness}¡Tenemos más horas de luz!{pause 20}	{Gray}(Aunque yo no sé muy bien	qué hacer con ellas.){Color Reset}
+"004"	{emote: Happiness}Eh, {pause 10}¿qué hay, {Player name}?{Wait for input}{emote: Glare}Te morías por probar {Article(word-dependant)}	{0005-001a-0002-cd00} de {capitalized}{Town name (pink)},	¿a que sí, {pause 10}{catchphrase}?
+"005"	{emote: Alarmed}Anda, {pause 15}¡pero si es {Player name}!{pause 30}	{emote: Happiness}Te gusta honrarnos con tu presencia	por estos lares, ¿eh?	{emote: Reset}En fin, ¿sabías que hoy es el	solsticio de verano?{Wait for input}{emote: Glare}Más horas para {0005-0012-0002-0000},{pause 12}	¡{catchphrase}!
+"006"	{emote: Greetings}¡Oye, {Player name}!{pause 20} ¡{capitalized}{catchphrase}!{pause 30}	{emote: Happiness}Te veo bien, muchach{o/a}. Dale	recuerdos a la gente de {capitalized}{Town name (pink)}.
+"007"	Hombre, {Player name},{pause 8}	¡has venido a verme!{Wait for input}{emote: Soft Smile}Hoy es el solsticio de verano{pause 8} y eso	significa una cosa:{pause 15} ¡sol a porrillo!{Wait for input}Horas y horas de luz para hacer	lo que más te apetezca.{Wait for input}{emote: Sheepishness}Ya ves, mi reloj marca las {Hour}:{Minutes}	horas{pause 8} y parece que sea de día,{pause 10}	{catchphrase}.
+"008"	Me alegro de verte por aquí,	{Player name}.{Wait for input}Si has venido para disfrutar de la	marcha nocturna de {capitalized}{Town name (pink)},	¡la has pifiado! ¡Ja, ja, ja!	Hoy es el solsticio de verano y el sol	va a estar ahí arriba todo el día.{pause 15}{Wait for input}Olvídate de la marcha nocturna, hoy	hay marcha diurna, {pause 10}{catchphrase}.
+"009"	{emote: Greetings}Hola, {pause 8}{Player nickname (green)}.{Wait for input} {emote: Happiness}Hoy el sol hace	horas extras para que podamos	divertirnos sin parar, {pause 12}{catchphrase}.	{emote: Glare}Aunque ahora que lo pienso{pause 8}.{pause 8}.{pause 8}.{pause 8}	mañana nos levantaremos sin	haber pegado ojo.{pause 20} {emote: Laughter}¡Ja, ja, ja!{pause 8}{emote: Soft Smile}
+"010"	{emote: Happiness}Buenas noches, {pause 8}{Player nickname (green)}.{pause 20}	¿Qué, has venido a divertirte,{pause 12}	{catchphrase}?{Wait for input}{emote: Reset}Como el sol no se pone hoy, {pause 8}{emote: Sheepishness}estoy	un poco hiperactivo.{pause 20} {emote: Sleepy}Uuuaah{pause 8}.{pause 8}.{pause 8}.{pause 8}	Pero en el fondo estoy hecho polvo.
+"011"	{emote: Greetings}¡Anda, {pause 15}{Player nickname (green)}!{Wait for input} {emote: Sheepishness}Fíjate qué de luz{pause 12}	¡y son nada menos que las {pause 4}{Hour}:{Minutes}	horas, {catchphrase}!	{emote: Agreement}Al sol se le ha debido de estropear	el reloj.{pause 20} {emote: Laughter}¡Ja, ja, ja!{emote: Soft Smile}
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	{capitalized}
-"003"	{emote: Greetings}
-"004"	{emote: Happiness}
-"005"	{emote: Alarmed}
-"006"	{emote: Greetings}
-"007"	Tiens, {Player name}
-"008"	Content de te voir, {Player name}
-"009"	{emote: Greetings}
-"010"	{emote: Happiness}
-"011"	{emote: Greetings}
+"001"	{emote: Alarmed}Hé! {pause 20}{emote: Happiness}{capitalized}{Player name}	{de /d'}{Town name (pink)}!{pause 30}{Wait for input}Bonjour, bonjour! Pour info,{emote: Reset} c'est	le solstice d'été aujourd'hui.{Wait for input}C'est le jour le plus long de l'année.{pause 8}	{emote: Agreement}Ça me mettrait presque de bonne	humeur, ce soleil!{pause 20} {emote: Soft Smile}{capitalized}{catchphrase}!
+"002"	{capitalized}{Greeting begin}Hé! {pause 8}{capitalized}{Player name}{Greeting end}!{pause 30}	Tu as fait tout ce chemin pour venir	à {Town name (pink)}? {pause 20}{capitalized}{catchphrase}!
+"003"	{emote: Greetings}Oh,{pause 8} mais c'est {Player name}!{pause 20}	{emote: Happiness}Bonjour, bonjour!{pause 30} Fais comme chez	toi! {pause 20}{capitalized}{catchphrase}!	{emote: Reset}C'est le solstice d'été aujourd'hui,{pause 20}	{emote: Happiness}le soleil va se coucher tard, et nous	aussi!
+"004"	{emote: Happiness}Hello! {pause 20}Comment va, {Player name}?{Wait for input}{emote: Glare}Tu as déjà goûté à notre	{0005-001a-0002-cd00}, {catchphrase}?
+"005"	{emote: Alarmed}Tiens, {pause 15}mais c'est {Player name}!{pause 30}	{emote: Happiness}Qu'est-ce qui t'amène dans ce trou	perdu?{Wait for input}{emote: Reset}C'est le solstice d'été!{pause 30} {emote: Glare}Le soleil	fait des heures sup' et c'est tant	mieux pour nous! {pause 20}{capitalized}{catchphrase}!
+"006"	{emote: Greetings}Hello! {capitalized}{Player name} {de /d'}{Town name (pink)}!{pause 30}	{emote: Happiness}Ça a l'air d'aller, dis-moi!	{pause 20}{capitalized}{catchphrase}!
+"007"	Tiens, {Player name}! Tu es là en	visite?{pause 30} {emote: Sheepishness}Ça alors, il est {Hour} h {Minutes}...	Eh oui, c'est le solstice d'été!	{emote: Soft Smile}Du soleil, du soleil, encore du soleil!{emote: Reset}	Bon, n'empêche, j'aimerais bien	aller me coucher... {pause 20}{capitalized}{catchphrase}.
+"008"	Content de te voir, {Player name}!{Wait for input}Si tu voulais connaître {Town name (pink)}	« by night », tu as mal choisi ton	jour!	Dis, tu savais que le solstice d'été	était la journée des insomniaques?{pause 15}{Wait for input}Pourquoi? Ben, parce que le soleil	ne se couche pas, ce jour-là!{pause 20}	{capitalized}{catchphrase}!
+"009"	{emote: Greetings}Tu es là, {pause 8}{Player nickname (green)}!{Wait for input}	{emote: Happiness}On va pouvoir faire la fête toute la	nuit{pause 15}! {pause 20}{capitalized}{catchphrase}!	{emote: Glare}Attends...{pause 8} est-ce qu'on peut parler	de nuit s'il fait jour?{pause 20} Je te pose une	colle, hein? {emote: Laughter}HA HA!{pause 30}{emote: Soft Smile}
+"010"	{emote: Happiness}Hello, {pause 8}{Player nickname (green)}!{pause 20}	Tout va comme tu veux,	{pause 20}{catchphrase}?{Wait for input}{emote: Reset}La nuit ne tombe pas le jour du	solstice d'été!{pause 8} {emote: Sheepishness}Moi par contre...{pause 15}	je tombe de sommeil.
+"011"	{emote: Greetings}Hé, {pause 15}tu es là aussi, {pause 8}{Player nickname (green)}!{Wait for input}	{emote: Sheepishness}Tu arrives à croire qu'il est {pause 4}	{Hour} h {Minutes}, toi?	{emote: Agreement}À ton avis, qui va aller se coucher	en premier, le soleil ou moi?{pause 20}	{emote: Laughter}HA HA HA!{pause 30}{emote: Soft Smile} {capitalized}{catchphrase}!

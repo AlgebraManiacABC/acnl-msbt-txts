@@ -1,50 +1,50 @@
 == 0 ==
-"001"	{pause 8}
-"002"	{pause 8}
-"003"	{pause 8}
-"004"	{pause 8}
-"005"	どうも、{pause 32}
-"006"	ああ{pause 8}
-"007"	ああ{pause 8}
-"008"	いつも　どうも、{pause 32}
-"009"	どうも、{pause 32}
-"010"	お{ruby (charSpan 3): ひとりさま}一人様は、{pause 16}
-"011"	{ruby (charSpan 1): せき}席{pause 8}
-"012"	お{ruby (charSpan 1): せき}席へ{pause 8}
-"013"	{pause 8}
-"014"	{pause 8}
-"015"	{pause 8}
-"016"	{pause 8}
-"017"	{pause 8}
-"018"	{pause 8}
-"019"	{pause 8}
-"020"	コーヒーのテイクアウトですね？{pause 32}
-"021"	お{ruby (charSpan 1): も}持ち{ruby (charSpan 1): かえ}帰りコーヒー、{pause 16}
-"022"	どのような　ブレンドで？{pause 32}
-"023"	
-"024"	{emote: Surprise}
-"025"	{emote: Worry}
-"026"	かしこまりました{pause 8}
-"027"	{pause 8}
-"028"	お{ruby (charSpan 1): せき}席は　{pause 15}
-"029"	いつも{pause 8}
-"030"	また{pause 8}
-"031"	{ruby (charSpan 2): きょう}今日の{ruby (charSpan 1): まめ}豆は、{pause 16}
-"032"	ゆっくりしてってください{pause 8}
-"033"	{ruby (charSpan 2): きょう}今日は、{pause 16}
-"034"	{pause 8}
-"035"	すみません{pause 8}
-"036"	
-"037"	
-"038"	
-"040"	いらっしゃいませ{pause 8}
-"041"	{pause 8}
-"042"	かしこまりました{pause 8}
-"043"	{pause 8}
-"044"	{pause 8}
-"045"	
-"046"	{pause 8}
-"047"	{Town name (pink)}
-"048"	{Town name (pink)}
-"049"	また{pause 8}
-"050"	ゆっくりしてってください{pause 8}
+"001"	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"002"	{pause 8}・{pause 8}・{pause 8}・{pause 8}いらっしゃいませ
+"003"	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}いらっしゃい
+"004"	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}どうも
+"005"	どうも、{pause 32}	いらっしゃいませ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"006"	ああ{pause 8}・{pause 8}・{pause 8}・{pause 32}	いつも　どうも{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"007"	ああ{pause 8}・{pause 8}・{pause 8}・{pause 32}	いらっしゃい、{pause 16}{Player name}さん
+"008"	いつも　どうも、{pause 32}	{Player name}さん{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"009"	どうも、{pause 32}{Player name}さん{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"010"	お{ruby (charSpan 3): ひとりさま}一人様は、{pause 16}	カウンター{ruby (charSpan 1): せき}席で{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"011"	{ruby (charSpan 1): せき}席{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): あ}空いてますよ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"012"	お{ruby (charSpan 1): せき}席へ{pause 8}・{pause 8}・{pause 8}・{pause 8}どうぞ
+"013"	{pause 8}・{pause 8}・{pause 8}・{pause 8}どうしました？{000f-0005-0004-0015-0028}	コーヒーください！	{ruby (charSpan 1): なん}何でもない
+"014"	{pause 8}・{pause 8}・{pause 8}・{pause 8}どうしました？{000f-0006-0006-0000-0015-0028}	アルバイトしたい！	コーヒーください！	{ruby (charSpan 1): なん}何でもない
+"015"	{pause 8}・{pause 8}・{pause 8}・{pause 8}そうですか
+"016"	{pause 8}・{pause 8}・{pause 8}・{pause 8}わかりました
+"017"	{pause 8}・{pause 8}・{pause 8}・{pause 8}また　どうぞ
+"018"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): の}飲みたくなったら{pause 16}	{ruby (charSpan 1): こえ}声、{pause 8}かけてください
+"019"	{pause 8}・{pause 8}・{pause 8}・{pause 8}どうしました？{000f-0005-0004-0000-0028}	アルバイトしたい！	{ruby (charSpan 1): なん}何でもない
+"020"	コーヒーのテイクアウトですね？{pause 32}	{ruby (charSpan 2): いっぱい}一杯　{Blue}200ベル{Color Reset}ですけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0005-0004-0015-0028}	お{ruby (charSpan 1): ねが}願いします	やっぱやめとく
+"021"	お{ruby (charSpan 1): も}持ち{ruby (charSpan 1): かえ}帰りコーヒー、{pause 16}	{ruby (charSpan 2): いっぱい}一杯　{Blue}200ベル{Color Reset}　{ruby (charSpan 1): いただ}頂きます{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}お{ruby (charSpan 1): この}好みの　ブレンドは？{000f-0005-0004-0015-0028}	おまかせします	やっぱやめとく
+"022"	どのような　ブレンドで？{pause 32}	お{ruby (charSpan 1): も}持ち{ruby (charSpan 1): かえ}帰りでも、{pause 16}	{ruby (charSpan 2): いっぱい}一杯　{Blue}200ベル{Color Reset}ですけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0005-0004-0015-0028}	おまかせで	やっぱやめとく
+"023"
+"024"	{emote: Surprise}クルックー！{Wait for input}	{emote: Worry}お{ruby (charSpan 1): かね}金、{ruby (charSpan 1): た}足りないです{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳　ありませんが{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"025"	{emote: Worry}{ruby (charSpan 1): も}持ちきれない　ようですね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"026"	かしこまりました{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"027"	{pause 8}・{pause 8}・{pause 8}・{pause 8}ありがとうございました
+"028"	お{ruby (charSpan 1): せき}席は　{pause 15}そちらになります{pause 8}・{pause 8}・{pause 8}・
+"029"	いつも{pause 8}・{pause 8}・{pause 8}・{pause 20}	ありがとうございます{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"030"	また{pause 8}・{pause 8}・{pause 8}・{pause 8}どうぞ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"031"	{ruby (charSpan 2): きょう}今日の{ruby (charSpan 1): まめ}豆は、{pause 16}いつもと	ちょっと　{ruby (charSpan 1): ちが}違いますから{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"032"	ゆっくりしてってください{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"033"	{ruby (charSpan 2): きょう}今日は、{pause 16}{ruby (charSpan 2): とくべつ}特別です{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"034"	{pause 8}・{pause 8}・{pause 8}・{pause 8}どうも
+"035"	すみません{pause 8}・{pause 8}・{pause 8}・{pause 8}	ちょっと　{ruby (charSpan 1): いま}今は、{pause 16}	{ruby (charSpan 2): きかい}機械の{ruby (charSpan 2): ちょうし}調子が　{ruby (charSpan 1): わる}悪くて{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"036"
+"037"
+"038"
+"040"	いらっしゃいませ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"041"	{pause 8}・{pause 8}・{pause 8}・{pause 8}コーヒーの	テイクアウトですか？{pause 16}	{ruby (charSpan 2): いっぱい}一杯　{Blue}200ベル{Color Reset}ですけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0005-0004-0015-0028}	お{ruby (charSpan 1): ねが}願いします	やっぱやめとく
+"042"	かしこまりました{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): とお}遠くからの　お{ruby (charSpan 2): きゃくさま}客様にも{pause 16}	きっと　{ruby (charSpan 2): まんぞく}満足して	いただけると　{ruby (charSpan 1): おも}思います{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"043"	{pause 8}・{pause 8}・{pause 8}・{pause 8}そうですか
+"044"	{pause 8}・{pause 8}・{pause 8}・{pause 8}ありがとうございました
+"045"
+"046"	{pause 8}・{pause 8}・{pause 8}・{pause 8}そうですか{pause 16}	{Town name (pink)}{ruby (charSpan 1): むら}村から{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"047"	{Town name (pink)}{ruby (charSpan 1): むら}村は{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってもらえましたか？
+"048"	{Town name (pink)}{ruby (charSpan 1): むら}村は{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): よ}良いところですよ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"049"	また{pause 8}・{pause 8}・{pause 8}・{pause 8}どうぞ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"050"	ゆっくりしてってください{pause 8}・{pause 8}・{pause 8}・{pause 8}

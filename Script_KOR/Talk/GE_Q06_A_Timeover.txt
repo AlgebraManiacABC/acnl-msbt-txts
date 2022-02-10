@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{0011-0001-0002-00-00}
-"003"	{emote: Surprise}
-"004"	{emote: Curious}
-"005"	{emote: Distress}
-"006"	{0011-0001-0002-00-00}
-"007"	{emote: Resigned}
-"008"	{emote: Distress}
-"009"	{emote: Sheepishness}
-"010"	{emote: Agreement}
-"011"	{emote: Mischief}
-"012"	{emote: Sheepishness}
-"013"	{emote: Disbelief}
-"014"	{emote: Disbelief}
-"015"	{emote: Disbelief}
-"016"	{emote: Disbelief}
-"017"	{emote: Disbelief}
-"018"	{emote: Disbelief}
-"019"	{emote: Shocked}
-"020"	{emote: Aggravation}
-"021"	{emote: Shocked}
-"022"	{emote: Shocked}
-"023"	{emote: Disbelief}
-"024"	{emote: Shocked}
+"001"	{emote: Surprise}어라? {pause 20}아직 {pause 5}{0011-0001-0002-0000}한테{pause 10}	안 갖다 줬구나!{Wait for input}	{emote: Worry}됐어, {pause 20}그냥 내가 갖다 줄게
+"002"	{0011-0001-0002-0000}한테{pause 10}	{emote: Curious}안 갖다 준 거야?{Wait for input}	{emote: Worry}그냥 내가 갈 테니까 {pause 10}돌려줘
+"003"	{emote: Surprise}앗! {pause 20}아직 {0011-0001-0002-0000}한테{pause 10}	안 갖다 준 거?!{Wait for input}	{emote: Reset}그럼 {pause 10}그냥 내가 갈게～
+"004"	{emote: Curious}응?{pause 20} {0011-0001-0002-0000}한테{pause 10}	못 갖다 줬다고?{Wait for input}	{emote: Soft Smile}그럼 {pause 20}내가 갈 테니까 {pause 5}그냥 줘～
+"005"	{emote: Distress}너, {pause 20}{0011-0001-0002-0000}한테	아직 안 갖다 줬지?!{Wait for input}	{emote: Reset}이제 됐어, {pause 10}그냥 다시 나 줘
+"006"	{0011-0001-0002-0000}한테 {pause 10}	{emote: Distress}아직 안 갖다 줬어?!{Wait for input}	{emote: Reset}그냥 내가 갈게, {pause 10}{catchphrase}
+"007"	{emote: Resigned}역시 이런 건{pause 10}	자기가 직접 건네야겠지{pause 8}・{pause 8}・{pause 8}・{pause 8}?
+"008"	{emote: Distress}마음 굳게 먹고 {pause 10}갖다 줄게!
+"009"	{emote: Sheepishness}역시 {pause 10}	내가 돌려줘야겠지? {pause 15}{catchphrase}?
+"010"	{emote: Agreement}얼른 돌려줘야겠어～
+"011"	{emote: Mischief}딱히 {pause 10}내가 가지거나 그러진 않는다구～{pause 20}	{emote: Sheepishness}이따가 {pause 10}제대로 돌려줄 거야
+"012"	{emote: Sheepishness}바쁜데 {pause 5}미안했어～{pause 20}	나중에 {pause 8}주러 가야겠다～ {pause 15}{catchphrase}
+"013"	{emote: Disbelief}어?!{pause 20}	열어봤어?{pause 30} {emote: Anger}진짜 너무한다～!
+"014"	{emote: Disbelief}열어본 거야?!{Wait for input}	{emote: Anger}어떡해～ {pause 10}얼른 화해해야 되는데～!
+"015"	{emote: Disbelief}어머!{pause 20}	{emote: Anger}열려 있잖아!{Wait for input}	{emote: Worry}내가 예쁘게 포장한 건데
+"016"	{emote: Disbelief}응?! {pause 20}맘대로 연 거야?{pause 30}	{emote: Anger}모처럼 예쁘게 포장 잘했는데～
+"017"	{emote: Disbelief}어머～!{pause 10}	열려 있잖아!{Wait for input}	{emote: Anger}{0011-0001-0002-0000}한테 줘야 되는데～
+"018"	{emote: Disbelief}꺅! {pause 10}이거 열었어?!{pause 30}	{emote: Worry}열심히 준비했는데 {pause 10}다 망쳤어～!
+"019"	{emote: Shocked}잃어버렸다고?!{pause 20} {emote: Worry}그건 좀 너무하지 않아?{pause 20}	열심히 준비한 {pause 10}선물인데!
+"020"	{emote: Aggravation}야～!	잃어버렸다니 무슨 소리야?!{Wait for input}{emote: Worry}{Player nickname (green)}{000e-000e-0008-0002-c744-0002-b97c} 믿고{pause 10}	부탁한 거니까 {pause 10}조심했어야지!
+"021"	{emote: Shocked}너한테 없다니 {pause 3}무슨 말이야?!{Wait for input}	{emote: Distress}꼭 내가 빌린 물건을{pause 10}	잃어버린 것 같잖아～
+"022"	{emote: Shocked}설마 {pause 5}잃어버렸어?!{Wait for input}	{emote: Aggravation}{0011-0001-0002-0000}{000e-000e-0008-0002-c740-0002-b294} 눈치 못 채겠지만{pause 15}	{emote: Outrage}그래도 너 {pause 10}정말 너무한다!
+"023"	{emote: Disbelief}잃어버렸어～?!{pause 30}	{emote: Distress}정말 미워～{Wait for input}{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sigh}휴우～ {pause 20}나중에 해명해야겠어～
+"024"	{emote: Shocked}엥～～～?{pause 20}	없다니 {pause 10}무슨 말이야?!{Wait for input}	{emote: Worry}{0011-0001-0002-0000}만 {pause 10}불쌍하게 됐네～

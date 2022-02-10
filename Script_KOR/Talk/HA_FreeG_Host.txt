@@ -1,10 +1,10 @@
 == 0 ==
-"001"	아까 못 보던 녀석이	마을을 돌아다니던데{pause 20}
-"002"	처음 보는 녀석이	마을에 와 있어!{0000-0004-0000}
-"003"	{emote: Curious}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Glee}
-"006"	{emote: Anger}
-"007"	그럼 나도 인사를 해야지ー!{0000-0004-0000}
-"008"	
-"009"	친구가 자신의 마을에 놀러 와 있을 때{pause 20}
+"001"	아까 못 보던 녀석이	마을을 돌아다니던데{pause 20}	{emote: Curious}그 녀석, 니 친구지ー?
+"002"	처음 보는 녀석이	마을에 와 있어!{Wait for input}{emote: Alarmed}드디어 적들이 침투를	시작하고 있는 건가?!{Wait for input}{emote: Distress}뭐라고ー?{pause 40}	니가 아는 사람이라고?{Wait for input}{emote: Resigned}쳇, 뭐야ー{pause 20}	재미없게{pause 8}・{pause 8}・{pause 8}・
+"003"	{emote: Curious}너 지금{pause 20} 마을에	친구가 놀러 와 있지ー?
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Glee}나중에 얘기할 기회가 있을까?{pause 30}	사인을 해달라고 하면	어쩌지? {pause 8}{catchphrase}?
+"006"	{emote: Anger}혹시{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Bashful}내가 {0005-0011-0002-0000}의 천재란 소문이{pause 20}	다른 마을까지 퍼진 거 아냐?
+"007"	그럼 나도 인사를 해야지ー!{Wait for input}{emote: Thought}너랑 무슨 사이냐고 물어보면	뭐라고 대답하면 좋지{pause 8}・{pause 8}・{pause 8}・{pause 8}?{Wait for input}	직장 동료?
+"008"
+"009"	친구가 자신의 마을에 놀러 와 있을 때{pause 20}	{emote: Agreement}자!{pause 8} 오늘은 이쯤에서 해산할까?{pause 40}	라는 생각이 들었다면{Wait for input}{emote: Reset}{Blue}START{Color Reset} 버튼을 눌러{pause 20}	〔{Blue}접속을 종료하기{Color Reset}〕를 선택하도록 해!{Wait for input}{emote: Happiness}니가{pause 20} {Blue}접속을 종료하기{Color Reset}{pause 8}라고	한마디만 말하면{pause 20}	모두 한꺼번에 돌아갈 거야!{Wait for input}{emote: Thought}한 명씩 역에서 배웅하는 것도 좋지만{pause 40}	{emote: Sunny}단번에 깔끔하게 해산하는 것도{pause 8}	편하고 좋잖냐! {pause 8}{catchphrase}!{Wait for input}{emote: Happiness}아무튼 내 말은{pause 20}	그런 방법도 있다는 사실을{pause 20}	기억해 두라는 거야ー!

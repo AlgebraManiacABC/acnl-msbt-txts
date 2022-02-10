@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Distress}
-"004"	{emote: Glee}
+"001"	{emote: Happiness}{ruby (charSpan 2): こんや}今夜は　カウントダウンだねぇ～{pause 40}	すっごく　{ruby (charSpan 1): たの}楽しみだよぉ～{Wait for input}{emote: Worry}でも　ボク{pause 20}　ちゃんと	0{ruby (charSpan 1): じ}時まで　おきてられるかなぁ、{pause 8}{catchphrase}
+"002"	{emote: Happiness}{ruby (charSpan 2): こんや}今夜は　カウントダウンの	おまつりだねぇ～{Wait for input}{emote: Thought}おうちでおそばを{ruby (charSpan 1): た}食べるか、{pause 20}	{ruby (charSpan 2): ひろば}広場で　カウントダウンするか{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}うぅ～ん、きめられない{pause 40}	{ruby (charSpan 2): ことし}今年さいごの	{ruby (charSpan 1): だい}大もんだいだぁ、{pause 8}{catchphrase}！
+"003"	{emote: Distress}うぅ～！{pause 20}	カウントダウン	キンチョーするねぇ！{Wait for input}ボク{pause 20}　みんなから　おくれずに、{pause 20}	3、{pause 20}2、{pause 20}1{pause 20}　って{pause 8}	{ruby (charSpan 1): い}言えるかなぁ～？
+"004"	{emote: Glee}カウントダウンのおまつりは、{pause 20}	とっても　もり{ruby (charSpan 1): あ}上がるんだよぉ～{Wait for input}{emote: Happiness}でも{pause 20}　{ruby (charSpan 1): よる}夜にお{ruby (charSpan 1): そと}外に{ruby (charSpan 1): い}行くのは	とっても　さむいから、{Wait for input}あったかいかっこうで	さんかしようねぇ、{pause 8}{catchphrase}

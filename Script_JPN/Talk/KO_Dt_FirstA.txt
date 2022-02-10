@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
+"001"	{emote: Greetings}よう、{pause 8}{Player name}！{pause 15}	{emote: Happiness}{ruby (charSpan 2): ちょうし}調子はどうだい？！{Wait for input}{emote: Reset}ちょっと　こっちで{pause 8}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物でも　しようと{ruby (charSpan 1): おも}思ってな！
+"002"	{emote: Happiness}おう、{pause 8}{Player name}！{pause 15}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たぜ！{pause 20}　{catchphrase}！
+"003"	{emote: Happiness}よう、{pause 8}{Player name}！{Wait for input}なーに、{pause 15}	ちょいと　{Town name (pink)}{ruby (charSpan 1): むら}村が{pause 8}	{ruby (charSpan 1): こい}恋しくなってな！
+"004"	{emote: Happiness}よう、{pause 8}{Player name}！{pause 20}	{emote: Reset}{ruby (charSpan 1): なに}何か{ruby (charSpan 1): ほ}掘り{ruby (charSpan 1): だ}出し{ruby (charSpan 1): もん}物が　ねぇかと{ruby (charSpan 1): おも}思って{pause 8}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てみたのさ！
+"005"	{emote: Happiness}おう、{pause 8}{Player name}！{pause 15}	オメェ　{ruby (charSpan 1): か}変わりなさそうだな！

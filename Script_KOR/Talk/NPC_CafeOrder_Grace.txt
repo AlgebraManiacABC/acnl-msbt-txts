@@ -1,20 +1,20 @@
 == 0 ==
-"001"	커피 한 잔, {pause 10}
-"002"	커피 한 잔, {pause 10}
-"003"	커피 한 잔, {pause 10}
-"004"	커피 한 잔, {pause 10}
-"005"	후훗, {pause 10}
-"006"	{pause 5}
-"007"	{emote: Thought}
-"008"		{emote: Shocked}
-"009"		{emote: Shocked}
-"010"	
-"011"	
-"012"	
-"013"	{emote: Sigh}
-"014"	{emote: Sigh}
-"015"	{emote: Sigh}
-"016"		{emote: Shocked}
-"017"	
-"018"	
-"019"	
+"001"	커피 한 잔, {pause 10}테이크아웃으로
+"002"	커피 한 잔, {pause 10}테이크아웃으로{Wait for input}	커피콩은 {Blue}블렌드{Color Reset}로 부탁해
+"003"	커피 한 잔, {pause 10}테이크아웃으로{Wait for input}	우유는 {Blue}넣지 말고{Color Reset}
+"004"	커피 한 잔, {pause 10}테이크아웃으로{Wait for input}	설탕은 {Blue}필요 없어{Color Reset}
+"005"	후훗, {pause 10}땡큐{Wait for input}	그럼 바로 마셔볼까나
+"006"	{pause 5}{emote: Alarmed}{pause 15}옴마나! {pause 15}맛있어라{pause 5}・{pause 5}・{pause 5}・{Wait for input}	{0007-000e-0000}{emote: Soft Smile}당신, {pause 15}좀 괜찮은데? {pause 15}	그럼 다음에 또 올게
+"007"	{emote: Thought}으～음{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 15}	맛이 평소랑 다르잖아{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}역시 ME의 생각엔	여기 커피는 {Blue}블렌드{Color Reset}가 제일 괜찮아{Wait for input}	다음부터는 기억 좀 해 놔!
+"008"		{emote: Shocked}{pause 15}{Text size 150%}우웩!{Text size 100%}{Wait for input}{emote: Anger}이거, {pause 10}{Blue}우유{Color Reset}가 들어가 있잖아{pause 8}・{pause 8}・{pause 8}・{Wait for input}	ME는 블랙밖에 안 마신다구!{pause 15}	기억해 놨다가 다음부턴 조심 좀 해
+"009"		{emote: Shocked}{pause 15}{Text size 150%}윽, 달아!{Text size 100%}{Wait for input}{emote: Anger}이거, {pause 10}{Blue}설탕{Color Reset}이 들어가 있잖아{pause 8}・{pause 8}・{pause 8}・{Wait for input}	ME는 블랙밖에 안 마신다구!{pause 15}	그 점을 잊지 말아주겠어?
+"010"
+"011"
+"012"
+"013"	{emote: Sigh}{pause 10}하아, {pause 10}구체적으로 오더하지 않은	ME의 미스테이크야{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}{Blue}블렌드{Color Reset}라고 해서 뭐든 다 좋은 건	아니지만{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Resigned}뭐 {pause 10}됐어, {Wait for input}그럼 안녕
+"014"	{emote: Sigh}{pause 10}하아, {pause 10}정확하게 오더하지 않은	ME의 미스테이크야{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}{Blue}우유{Color Reset}가 안 들어 있었던 것이{pause 10}	그나마 불행 중 다행이랄까{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Resigned}뭐 {pause 10}됐어, {Wait for input}그럼 안녕
+"015"	{emote: Sigh}{pause 10}하아, {pause 10}정확하게 오더하지 않은	ME의 미스테이크야{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}다행히, {pause 10}{Blue}설탕{Color Reset}은 안 들어 있는 것 같으니{pause 10}	그냥 이대로 가지고	가도록 하겠어{pause 8}・{pause 8}・{pause 8}・
+"016"		{emote: Shocked}{pause 15}{Text size 150%}우웩!{Text size 100%}{Wait for input}{emote: Resigned}미안하지만, {pause 10}ME의 취향은	절대 아니야{Wait for input}{emote: Anger}아무리 아르바이트라고 해도{pause 8}	손님을 접대하고 있는 이 순간만큼은{pause 15}	{emote: Agreement}당신은 프로라구, 프로!	{emote: Anger}프로면 프로답게{pause 10}	손님을 보고 취향을 딱 맞힐 수 있도록	노력 정도는 해야지!{Wait for input} {emote: Reset}그럼 안녕
+"017"
+"018"
+"019"

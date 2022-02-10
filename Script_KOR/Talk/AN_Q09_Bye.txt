@@ -1,7 +1,7 @@
 == 0 ==
-"001"	그럼 안녕! {pause 20}
-"002"	또 보자! {pause 20}!
-"003"	오늘 나랑 놀아주느라	고생했어!{0000-0004-0000}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Alarmed}
+"001"	그럼 안녕! {pause 20}{catchphrase}!
+"002"	또 보자! {pause 20}{catchphrase}!
+"003"	오늘 나랑 놀아주느라	고생했어!{Wait for input}{emote: Greetings}조심해서 가!{pause 20}	{catchphrase}!
+"004"	{emote: Alarmed}뭐야{pause 8}・{pause 8}・{pause 8}・{pause 20}	벌써 돌아가려고?{Wait for input}{emote: Distress}그러지 말고～{pause 40}	내가 아끼는 가구들 좀	더 보고 가～! {pause 20}{catchphrase}!{pause 40}{emote: Worry}
+"005"	{emote: Alarmed}오잉!!{pause 20}	{Player nickname (green)} 너{pause 8}	벌써 가려고?!	{emote: Distress}뭐야～{pause 40}	나랑 좀 더 놀다 가!	{pause 20}{catchphrase}!{pause 40}{emote: Worry}
+"006"	{emote: Alarmed}야!{pause 10}	벌써 가려고?!{Wait for input}{emote: Distress}뭐야～!{pause 40}	모처럼 왔는데	좀 더 있다 가지 않고! {pause 20}{catchphrase}!{pause 40}{emote: Worry}

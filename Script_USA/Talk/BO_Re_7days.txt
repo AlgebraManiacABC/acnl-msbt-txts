@@ -1,21 +1,21 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Greetings}
-"003"	{emote: Alarmed}
-"004"	I feel like we haven't talked in a	while, {Player nickname (green)}
-"005"	We finally get a chance to talk,	{Player nickname (green)}
-"006"	Wait.{pause 20}
+"001"	{emote: Happiness}It's been a while since I've seen	you around,{pause 20} {Player nickname (green)}!{pause 20} Were you	on vacation?	Was it a cruise with a huge buffet?{pause 40}	{emote: Distress}You gotta take me with you next	time,{pause 8} {catchphrase}!
+"002"	{emote: Greetings}Hey!{pause 20} {capitalized}{Player nickname (green)}!{Wait for input}	{emote: Alarmed}Wait a second!{pause 20} I haven't said that	for the longest time!	Where have you been?!
+"003"	{emote: Alarmed}Is it really you,{pause 20} {Player nickname (green)}?{pause 40}	{emote: Happiness}Wow, it's really been a while, huh?{Wait for input}Lots of stuff has happened while	you've been gone!{pause 20} Like{pause 8}.{pause 8}.{pause 8}.I got a new	comic book.	{emote: Sunny}Let me tell you, that was pretty	exciting,{pause 8} {catchphrase}.
+"004"	I feel like we haven't talked in a	while, {Player nickname (green)}.{Wait for input} I've missed our	little chats.	{emote: Anger}I don't like being ignored!{pause 40} If you see	me around, say hi!{pause 40}{emote: Pride} After all,{pause 8} it's only	polite.
+"005"	We finally get a chance to talk,	{Player nickname (green)}!{Wait for input}{emote: Worry}I don't know if you're ignoring me{pause 8}	or if you're just busy.{pause 8} {emote: Worry}But I have	feelings too, you know.
+"006"	Wait.{pause 20} {emote: Curious}Hasn't it been a while since	we talked, {Player nickname (green)}?{Wait for input}{emote: Reset}In my dream last night,{pause 20} you were 	eating {0005-0013-0002-0000}{pause 20} until	your belly swelled up like a balloon!{Wait for input}{emote: Worry}I was all worried for you.{pause 40}{emote: Bashful} But I was	also kind of jealous, {pause 8}{catchphrase}.
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	¡Hace siglos que no hablamos,	{Player nickname (green)}
-"005"	¡Por fin consigo decirte tres	palabras, {Player nickname (green)}
-"006"	{emote: Curious}
+"001"	{emote: Happiness}¡Qué alegría verte,{pause 20} {Player nickname (green)}!{pause 20}	¿Dónde has estado? ¿De crucero?{pause 40}	¡¿Era uno de esos con megabufé?!	{emote: Distress}¡Haberme avisado,{pause 8} {catchphrase}!
+"002"	{emote: Alarmed}¡Pero si es {Player nickname (green)}!{Wait for input} {emote: Greetings}¡Hacía	la tira que no te veía el careto!	{emote: Alarmed}¿Te había tragado la tierra o qué?{pause 20}	Que conste que me tenías la mar	de intranquilo: ¡casi no he probado	bocado y todo!{pause 20}	Bueno, en realidad solo me he	saltado una de mis tres meriendas...
+"003"	{emote: Alarmed}¿Eres tú,{pause 20} {Player nickname (green)}?{pause 40} {emote: Happiness}¡Bua, qué de	tiempo!{Wait for input}¡Han pasado un montón de cosas	desde que te fuiste!{pause 20} Como{pause 8}.{pause 8}.{pause 8}.{pause 20} que	me he comprado un libro.{Wait for input}{emote: Sunny}Se llama "Las aventuras de	Remoloncio" y trata de un niño	al que le gusta comer y dormir.	Pensé que me iba a enganchar más,	pero no sé{pause 8}.{pause 8}.{pause 8}.{pause 20} Es que no me termino	de identificar con el prota, ¿sabes?
+"004"	¡Hace siglos que no hablamos,	{Player nickname (green)}!{Wait for input} Tengo que contarte	cuántas cosas ricas he comido.	{emote: Anger}¡Y no me gusta que me ignoren!{pause 40}	Si me ves por el pueblo, ¡saluda	o algo!{pause 40}{emote: Pride} ¿O eres u{n/na} maleducad{o/a}?
+"005"	¡Por fin consigo decirte tres	palabras, {Player nickname (green)}!{Wait for input}{emote: Worry}No sé si es que pasas de mí o estás	ocupad{o/a}{pause 8}, pero me haces menos	caso que al hueso de una aceituna.
+"006"	{emote: Curious}¿No hace la tira de tiempo que no	hablamos, {Player nickname (green)}? Mejor, así	mi historia te gustará más todavía.{Wait for input}{emote: Reset}¡Anoche soñé que te ponías a comer	{0005-0013-0002-0000}{pause 20} hasta que se te	hinchaba la tripa como un tonel!{Wait for input}{emote: Worry}Al principio me daba miedo,{pause 40}	{emote: Bashful}pero luego me dio más bien	envidieja,{pause 8} {catchphrase}.
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Greetings}
-"003"	{emote: Alarmed}
-"004"	Ça fait un moment qu'on n'a plus	papoté ensemble, {Player nickname (green)}
-"005"	Enfin tu viens me parler,	{Player nickname (green)}
-"006"	Dis,{pause 20}
+"001"	{emote: Happiness}Ça fait un moment qu'on ne t'a plus	{revu/revue} dans le coin,{pause 20} {Player nickname (green)}!{pause 20}	T'étais en vacances?	Comme{pause 8}.{pause 8}.{pause 8}. en croisière avec buffet	tous les soirs? {pause 40}{emote: Distress}Emmène-moi avec	toi la prochaine fois,{pause 8} {catchphrase}!
+"002"	{emote: Greetings}Salut {Player nickname (green)}!{Wait for input} {emote: Alarmed}Hé mais...!{pause 20} Ça	fait longtemps que je n'ai plus eu	l'occasion de dire cette phrase!	Ben alors, où tu étais {passé/passée}?
+"003"	{emote: Alarmed}C'est vraiment toi,{pause 20} {Player nickname (green)}?{pause 40}	{emote: Happiness}Waouh, ça fait un bail! Pas vrai?{Wait for input}Tu sais, beaucoup de choses se sont	passées ici depuis le temps!{Wait for input}Comme?{pause 20} Ben par exemple{pause 8}.{pause 8}.{pause 8}. {emote: Pride}J'ai	terminé ma bande dessinée et j'en	ai commencé une nouvelle!	{emote: Sunny}Y'a aussi eu d'autres trucs, mais	franchement c'est largement moins	intéressant que ça,{pause 8} {catchphrase}.
+"004"	Ça fait un moment qu'on n'a plus	papoté ensemble, {Player nickname (green)}.{Wait for input} Ça	me manque.	{emote: Anger}Et puis j'aime pas qu'on m'ignore!{pause 40}	{emote: Worry}Si tu me vois, viens au moins me	dire bonjour, s'il te plaît!
+"005"	Enfin tu viens me parler,	{Player nickname (green)}!{Wait for input}{emote: Worry}Je ne sais pas si tu m'ignorais{pause 8} ou si	t'étais juste {occupé/occupée},{pause 8} {emote: Worry}mais ça m'a	fait mal de te voir si distant{/e}!
+"006"	Dis,{pause 20} {emote: Curious}ça fait combien de temps qu'on	n'a pas parlé toi et moi,	{Player nickname (green)}?{Wait for input}{emote: Reset}J'ai justement rêvé de toi la nuit	dernière,{pause 20} tu engloutissais	{Article(word-dependant)}{0005-0013-0002-0000}!{Wait for input}{emote: Worry}Et ton ventre gonflait... gonflait...	gonflait!{pause 40} J'ai cru que tu allais	exploser!	{emote: Bashful}Je me suis inquiété pour toi! Mais	j'étais aussi un petit peu jaloux,	{pause 8}{catchphrase}.

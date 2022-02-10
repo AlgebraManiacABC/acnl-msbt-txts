@@ -1,32 +1,32 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Worry}
-"003"	{emote: Alarmed}
-"004"	{emote: Anger}
-"005"	{emote: Happiness}
-"006"	{emote: Alarmed}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Reset}
-"010"	{emote: Resigned}
-"011"	{emote: Happiness}
-"012"	{emote: Laughter}
-"013"	{emote: Shocked}
-"014"	{emote: Anger}
-"015"	{emote: Agreement}
-"016"	{emote: Anger}
-"017"	{emote: Worry}
-"018"	おとどけ　ありがとー！{pause 20}
-"019"	{emote: Happiness}
-"020"	{emote: Worry}
-"021"	{emote: Disagreement}
-"022"	{emote: Shocked}
-"023"	{emote: Resigned}
-"024"	ちょっと　{ruby (charSpan 2): けいかく}計画とは	ちがっちゃったけど、{pause 20}
-"025"	{emote: Anger}
-"026"	{emote: Sadness}
-"027"	{emote: Disagreement}
-"028"	{emote: Sheepishness}
-"029"	{emote: Sunny}
-"030"	いちおう　とどけてくれたワケだし、{pause 20}
-"031"	{emote: Happiness}
+"001"	{emote: Surprise}{0007-000b-0000}おー！{pause 20}	{0011-0003-0002-0000}！{Wait for input}{emote: Thought}それにしても、{pause 20}	どうして　{0011-0001-0002-0001}が	プレゼントなんて{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}まぁ、{pause 20}くれるって{ruby (charSpan 1): い}言うなら	ありがたく　もらっちゃおーっと！
+"002"	{emote: Worry}あー{pause 8}・{pause 8}・{pause 8}・{pause 20}	{0011-0001-0002-0001}からかー{Wait for input}アイツ　ケンカのこと	まだ　{ruby (charSpan 1): き}気にしてるんだな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Laughter}ハハッ！{pause 20}	オイラは　もう	ぜんぜん　{ruby (charSpan 1): き}気にしてないけどさ！{pause 40}{emote: Happiness}
+"003"	{emote: Alarmed}あ、{pause 20}コレ！{pause 20}	{0011-0001-0002-0001}に　かしてた	{0011-0003-0002-0000}！
+"004"	{emote: Anger}ん？{pause 20}	なんか　{ruby (charSpan 2): みおぼ}見覚えのある	{0011-0003-0002-0000}{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}あー！{pause 20}	コレ　オイラのだー！{Wait for input}{emote: Mistaken}そっかー！{pause 20}	{0011-0001-0002-0001}のとこに	わすれてたんだな！{pause 40}{emote: Happiness}
+"005"	{emote: Happiness}へー！{pause 20}	オイラの{ruby (charSpan 2): にもつ}荷物が	{0011-0001-0002-0001}のとこに？{Wait for input}って、{pause 20}この{ruby (charSpan 2): にもつ}荷物{pause 40}	{emote: Curious}なんで　ハダカなんだ？{000f-0005-0004-0000-0000}	{ruby (charSpan 1): じつ}実は・・・	・・・
+"006"	{emote: Alarmed}{0011-0001-0002-0001}に	たのんでおいたヤツ{pause 20}	もう　{ruby (charSpan 1): て}手に{ruby (charSpan 1): はい}入ったのかー！{Wait for input}{emote: Curious}アレ？{pause 20}	でも　ラッピングがない？{000f-0005-0004-0000-0000}	{ruby (charSpan 1): じつ}実は・・・	・・・
+"007"	{emote: Happiness}とどけてくれて	マジ　サンキューな！{pause 20}	{Player nickname (green)}！
+"008"	{emote: Happiness}とどけてくれて　ありがとな！{pause 20}	おかげで　{0011-0001-0002-0001}と	{ruby (charSpan 2): なかなお}仲直りできそうだー、{pause 8}{catchphrase}
+"009"	{emote: Reset}それはそれとして{pause 8}・{pause 8}・{pause 8}・{pause 20}
+"010"	{emote: Resigned}プレゼントなのに	ムキ{ruby (charSpan 1): だ}出しなんて、{pause 20}	アイツも　ガサツだなー{000f-0005-0004-0000-0000}	{ruby (charSpan 1): じつ}実は・・・	そ、そうだね
+"011"	{emote: Happiness}まぁ　オイラはそういうの、	あんまり　{ruby (charSpan 1): き}気にしないんだけどさ！{Wait for input}{emote: Sunny}{Player nickname (green)}！{pause 20}	わざわざ　とどけてくれて	サンキューな！
+"012"	{emote: Laughter}まぁ　{ruby (charSpan 2): だいじ}大事なのは	{ruby (charSpan 2): なかみ}中身ってことかー！{pause 20}	ハハッ！{pause 40}{emote: Happiness}{Wait for input}{emote: Reset}{Player nickname (green)}！{pause 20}	とどけてくれて	ありがとー！
+"013"	{emote: Shocked}ナニッ？！{pause 20}	オマエ　{ruby (charSpan 1): あ}開けちゃったのかー？！{Wait for input}{emote: Anger}{ruby (charSpan 1): ひと}人から　あずかったもんは{pause 20}	ていねいに　あつかわないとダメだって、{pause 20}	オイラのばーちゃんが　{ruby (charSpan 1): い}言ってたぞ！{Wait for input}{emote: Resigned}はぁー{pause 8}・{pause 8}・{pause 8}・{pause 20}	まぁ{pause 20}　{ruby (charSpan 2): こんかい}今回は　{ruby (charSpan 2): しょうじき}正直に{ruby (charSpan 1): い}言ってくれたし、{pause 20}	ゆるしてやるかー、{pause 8}{catchphrase}
+"014"	{emote: Anger}{ruby (charSpan 2): こんど}今度からは	ちゃーんと　ていねいに！{pause 40}　だぞー？
+"015"	{emote: Agreement}それに{pause 20}　わざわざ	とどけてくれたんだから、{pause 20}	ちゃーんと　お{ruby (charSpan 1): れい}礼はするぞー！
+"016"	{emote: Anger}でも　{ruby (charSpan 2): はんせい}反省しろよー？{pause 40}	{ruby (charSpan 1): つぎ}次もやったら、{pause 20}	ふっきん　はいきん　100{ruby (charSpan 1): まん}万{ruby (charSpan 1): かい}回だー！
+"017"	{emote: Worry}アイツ{pause 20}　ムキ{ruby (charSpan 1): だ}出しで	{ruby (charSpan 1): かえ}返してきたか{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Disagreement}まぁ　オイラは	{emote: Happiness}{ruby (charSpan 1): き}気にしないけどな、{pause 8}{catchphrase}{Wait for input}とどけてくれて　サンキューな！{pause 20}	{Player nickname (green)}！
+"018"	おとどけ　ありがとー！{pause 20}	オマエも　{ruby (charSpan 2): たいへん}大変だなー！
+"019"	{emote: Happiness}もう　{ruby (charSpan 1): で}出てこないと{ruby (charSpan 1): おも}思ってたぞ！{pause 20}	サンキューな！{pause 20}　{Player nickname (green)}！
+"020"	{emote: Worry}{ruby (charSpan 1): じつ}実は　コレ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): おな}同じの　{ruby (charSpan 1): か}買い{ruby (charSpan 1): なお}直しちゃったんだよー
+"021"	{emote: Disagreement}まぁ　そんなの、{pause 20}	オマエに　{ruby (charSpan 1): い}言うことじゃ	なかったな！
+"022"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 20}	オマエがやったのか？！
+"023"	{emote: Resigned}まったく、{pause 20}	これじゃ　せっかくの	ドッキリが　{ruby (charSpan 2): だいな}台無しだぞー{Wait for input}{emote: Reset}・{pause 20}・{pause 20}・{pause 20}{emote: Bashful}へへっ！{pause 20}	{ruby (charSpan 1): じつ}実は　コレ、{pause 20}	オマエへの　プレゼントだったんだ{Wait for input}{emote: Happiness}ややこしいことに　なったけど、{pause 20}	もらってくれー、{pause 8}{catchphrase}！{pause 40}	{0011-0003-0002-0000}だ！
+"024"	ちょっと　{ruby (charSpan 2): けいかく}計画とは	ちがっちゃったけど、{pause 20}	オマエを　ビックリさせられたかな！
+"025"	{emote: Anger}{ruby (charSpan 2): きごころ}気心の{ruby (charSpan 1): し}知れた{ruby (charSpan 2): ともだち}友達だって、{pause 20}	{ruby (charSpan 1): なに}何してもいいって	ワケじゃないんだからな、{pause 8}{catchphrase}
+"026"	{emote: Sadness}{ruby (charSpan 1): ひと}人から　あずかったものを	{ruby (charSpan 1): あ}開けちゃダメって、{pause 20}	そんなの　ジョーシキだろ{pause 8}・{pause 8}・{pause 8}・
+"027"	{emote: Disagreement}まぁ　オマエのことだから{pause 20}	わざとじゃないと{ruby (charSpan 1): おも}思うし{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}ゆるしてやるかー！
+"028"	{emote: Sheepishness}まぁ　ホントのこと{ruby (charSpan 1): い}言ってくれたから、{pause 20}	ゆるして　やるけどさー
+"029"	{emote: Sunny}オマエ{pause 20}　{ruby (charSpan 1): つぎ}次やったら、	{ruby (charSpan 1): むら}村を100{ruby (charSpan 1): しゅう}周だからな！
+"030"	いちおう　とどけてくれたワケだし、{pause 20}	ちゃんと　お{ruby (charSpan 1): れい}礼もするよ！
+"031"	{emote: Happiness}{0011-0003-0002-0001}だ！{Wait for input}{emote: Anger}{ruby (charSpan 2): こんかい}今回は　{ruby (charSpan 2): とくべつ}特別だぞ？！{pause 40}	{emote: Glare}{ruby (charSpan 1): つぎ}次もやったら、{pause 8}	うでたてふせ　100{ruby (charSpan 2): まんかい}万回だからな！

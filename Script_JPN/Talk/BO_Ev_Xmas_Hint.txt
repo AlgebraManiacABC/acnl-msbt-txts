@@ -1,41 +1,41 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Distress}
-"003"	{emote: Curious}
-"004"	クリスマスって{pause 20}
-"005"	{emote: Love}
-"006"	{emote: Thought}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Worry}
-"010"	{emote: Happiness}
-"011"	{emote: Distress}
-"012"	{emote: Pride}
-"013"	
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	{emote: Happiness}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	{emote: Happiness}
-"029"	{emote: Happiness}
-"030"	{emote: Happiness}
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	{emote: Happiness}
-"038"	{emote: Thought}
-"039"	{pause 8}
-"040"	クリスマスといえば{pause 8}
+"001"	{emote: Happiness}12{ruby (charSpan 1): がつ}月になったら、{pause 20}	みんな　クリスマスのことで	アタマが　いっぱいだぁ～{Wait for input}{emote: Glee}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	もちろん　ボクは	この{ruby (charSpan 1): むら}村で　{ruby (charSpan 2): いちばん}一番　{ruby (charSpan 1): たの}楽しみにしてるよぉ！
+"002"	{emote: Distress}あぁ～{pause 20}	いそがしい　いそがしい！{Wait for input}12{ruby (charSpan 1): がつ}月は{pause 20}	クリスマスのじゅんびで	おおいそがしだよぉ！{Wait for input}{emote: Thought}プレゼントのことを　{ruby (charSpan 1): かんが}考えたり{pause 20}	ごちそうのことを　{ruby (charSpan 1): かんが}考えたり{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Happiness}とにかく　いそがしいんだぁ～
+"003"	{emote: Curious}サンタさんって{pause 20}	もう　じゅんび	はじめてると{ruby (charSpan 1): おも}思う？{Wait for input}{emote: Distress}ボクたちも、{pause 20}	プレゼントのおねがい	いそがなくちゃ～！
+"004"	クリスマスって{pause 20}	すずの{ruby (charSpan 1): おと}音が{ruby (charSpan 1): あ}合うよねぇ～{Wait for input}{emote: Glee}シャンシャン{pause 20}	シャンシャン{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Cold Chill}って、{pause 40}ボクが{ruby (charSpan 1): くち}口で{ruby (charSpan 1): い}言っても{pause 20}	ふんいき　でないかぁ、{pause 8}{catchphrase}
+"005"	{emote: Love}{ruby (charSpan 1): いま}今ごろ　サンタさんは{pause 20}	みんなの　おねがいごとを{pause 8}	チェックしてるのかなぁ？{Wait for input}{emote: Distress}よく{ruby (charSpan 1): かんが}考えると{pause 20}　すっごく	たいへんそうだねぇ{pause 40}	サンタさん　がんばれ～、{pause 8}{catchphrase}
+"006"	{emote: Thought}1、{pause 20}2、{pause 20}3、{pause 20}4{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Glee}もうちょっとで	クリスマスなんて、	しんじられないなぁ～{Wait for input}ボク　なんだか	おちつかないよぉ、{pause 8}{catchphrase}
+"007"	{emote: Happiness}クリスマス{pause 20}	もうすぐだねぇ～！{Wait for input}ごちそうのじゅんび{pause 20}	そろそろ　はじめないと！
+"008"	{emote: Happiness}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	あと{ruby (charSpan 2): なんかい}何回か　ねたら	クリスマスイブだねぇ～{Wait for input}{emote: Sleepy}ボク　まちどおしいから、{pause 20}	さいきんは　{ruby (charSpan 1): はや}早めに	ねてるんだぁ、{pause 8}{catchphrase}
+"009"	{emote: Worry}こわいウワサを	{ruby (charSpan 1): き}聞いたんだぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}サンタさんは{pause 20}	クリスマスプレゼントを{pause 20}	よく　まちがえちゃうんだってぇ！{Wait for input}{emote: Reset}{ruby (charSpan 2): じぶん}自分のほしいものは{pause 20}	{ruby (charSpan 1): こま}細かく　イメージしておかないとねぇ
+"010"	{emote: Happiness}ついに{ruby (charSpan 2): あした}明日は、{pause 20}	みんなが{ruby (charSpan 1): たの}楽しみにしてた	クリスマスイブだよぉ～！{Wait for input}{emote: Laughter}{ruby (charSpan 2): いちばん}一番　{ruby (charSpan 1): たの}楽しみにしてたのは{pause 20}	やっぱり　ボクだけどねぇ、{pause 8}{catchphrase}{pause 40}{emote: Happiness}
+"011"	{emote: Distress}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	いよいよ　{ruby (charSpan 2): あした}明日だねぇ、	クリスマスイブ{Wait for input}べつに　ボクは	なんにもしないのに、{pause 20}	キンチョーするよぉ！{Wait for input}{emote: Daydreaming}サンタさんは{pause 20}　もっともっと{pause 8}	キンチョーしてるのかなぁ？
+"012"	{emote: Pride}{ruby (charSpan 2): あした}明日の　クリスマスイブ、{pause 20}	ボク{pause 20}　サンタさんが　{ruby (charSpan 1): く}来るまで	おきてるつもりなんだぁ～{Wait for input}{emote: Sleepy}ふぁぁ～～{pause 40}	そのためには、{pause 20}	{ruby (charSpan 2): きょう}今日は　しっかり　ねておかないとねぇ
+"013"
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"020"
+"021"	{emote: Happiness}ちなみに{ruby (charSpan 2): ことし}今年は、{pause 20}	サンタさんに{Blue}　{ruby (charSpan 2): かぐ}家具{Color Reset}がほしいって{pause 8}	おねがいするんだぁ～
+"022"	{emote: Happiness}ちなみに　{ruby (charSpan 2): ことし}今年は、{pause 20}	サンタさんに　{Blue}じゅうたん{Color Reset}がほしいって{pause 8}	おねがいするんだぁ～
+"023"	{emote: Happiness}ちなみに　{ruby (charSpan 2): ことし}今年は、{pause 20}	サンタさんに　{Blue}かべがみ{Color Reset}がほしいって{pause 8}	おねがいするんだぁ～
+"024"	{emote: Happiness}ちなみに　{ruby (charSpan 2): ことし}今年は、{pause 20}	サンタさんに　{Blue}{ruby (charSpan 2): かでん}家電{Color Reset}がほしいって{pause 8}	おねがいするんだぁ～
+"025"	{emote: Happiness}ちなみに　{ruby (charSpan 2): ことし}今年は、{pause 20}	サンタさんに　{Blue}がっき{Color Reset}がほしいって{pause 8}	おねがいするんだぁ～
+"026"	{emote: Happiness}ちなみに　{ruby (charSpan 2): ことし}今年は、{pause 20}	サンタさんに　{Blue}しょくぶつ{Color Reset}がほしいって{pause 8}	おねがいするんだぁ～
+"027"	{emote: Happiness}ちなみに　{ruby (charSpan 2): ことし}今年は、{pause 20}	サンタさんに　{Blue}ふく{Color Reset}がほしいって{pause 8}	おねがいするんだぁ～
+"028"	{emote: Happiness}ちなみに　{ruby (charSpan 2): ことし}今年は、{pause 20}	サンタさんに　{Blue}{ruby (charSpan 2): にんぎょう}人形{Color Reset}がほしいって{pause 8}	おねがいするんだぁ～
+"029"	{emote: Happiness}ちなみに　{ruby (charSpan 2): ことし}今年は、{pause 20}	サンタさんに　{Blue}おもちゃ{Color Reset}がほしいって{pause 8}	おねがいするんだぁ～
+"030"	{emote: Happiness}ちなみに　{ruby (charSpan 2): ことし}今年は、{pause 20}	サンタさんに　{Blue}{ruby (charSpan 1): た}食べもの{Color Reset}がほしいって{pause 8}	おねがいするんだぁ～
+"031"	{emote: Happiness}ちなみに　{ruby (charSpan 2): ことし}今年は、{pause 20}	サンタさんに　{Blue}ランプ{Color Reset}がほしいって{pause 8}	おねがいするんだぁ～
+"032"	{emote: Happiness}ちなみに　{ruby (charSpan 2): ことし}今年は、{pause 20}	サンタさんに　{Blue}かさ{Color Reset}がほしいって{pause 8}	おねがいするんだぁ～
+"033"
+"034"
+"035"
+"036"
+"037"	{emote: Happiness}ボク　プレゼントは、{pause 20}	{ruby (charSpan 1): いろ}色でいうと{pause 8}　{Blue}{0012-0002-0000}{Color Reset}のが	ほしいなぁ～
+"038"	{emote: Thought}それにしても	サンタさんって、{Wait for input}どうして　ボクのほしいものが	わかるんだろう{pause 8}・{pause 8}・{pause 8}・{pause 40}	フシギだよねぇ、{pause 8}{catchphrase}
+"039"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Happiness}そうだ！{pause 40}	{Player nickname (green)}{0005-000d-0000}は{pause 8}	どんなプレゼントが　ほしいのぉ？{Wait for input}{emote: Glee}えへへ～{pause 20}	おたがい　ほしいものが	もらえると　いいねぇ、{pause 8}{catchphrase}
+"040"	クリスマスといえば{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Love}クリスマスツリーの	てっぺんについてる{ruby (charSpan 1): ほし}星！{Wait for input}{emote: Happiness}アレって　すっごく	ミリョクテキだよねぇ

@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Alarmed}
-"004"	{emote: Happiness}
-"005"	{pause 8}
-"006"	{emote: Mistaken}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	「{catchphrase}
-"009"	「{catchphrase}
-"010"	{0009-0000-0004-0b-00-0c-00}
-"011"	{emote: Resigned}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}ねぇねぇ、{pause 10}{Player nickname (green)}{0005-000d-0000}って{pause 10}	{ruby (charSpan 1): なん}何か　クセとかある？{Wait for input}{emote: Sheepishness}アタイ、{pause 10}いつも「{catchphrase}」って	{ruby (charSpan 1): い}言っちゃうんだけど{pause 10}	{emote: Curious}たまには　{pause 8}{ruby (charSpan 1): か}変えてみた{ruby (charSpan 1): ほう}方がいいかな？{Player can respond (0005):0004-0015-0003-0028}	{ruby (charSpan 1): か}変えてみなよ	{ruby (charSpan 1): べつ}別にいいと{ruby (charSpan 1): おも}思う
+"002"	{emote: Surprise}{Player nickname (green)}{0005-000d-0000}！{pause 20}	{emote: Distress}{ruby (charSpan 1): おし}教えてくれないなんて　{pause 8}ズルイよ～！{Wait for input}{emote: Happiness}イケてる{ruby (charSpan 1): くち}口ぐせ、{pause 10}	いっぱい{ruby (charSpan 1): かんが}考えたんでしょ？！{pause 30}	{emote: Distress}アタイも{ruby (charSpan 1): つか}使いたいよ～{Player can respond (0005):0004-0000-0003-0000}	{ruby (charSpan 1): おし}教えちゃうよ！	{ruby (charSpan 1): なん}何のことやら
+"003"	{emote: Alarmed}え～　{pause 10}そうなの？！{pause 30}	{emote: Happiness}じゃあ　{pause 10}いいや！
+"004"	{emote: Happiness}どんな{ruby (charSpan 1): ふう}風に　{ruby (charSpan 1): い}言えばいいの？{pause 20}	{ruby (charSpan 1): おし}教えて{pause 3}{ruby (charSpan 1): おし}教えて～！
+"005"	{pause 8}・{pause 8}・{pause 8}・{pause 8}「{catchphrase}」{pause 30}	{emote: Happiness}で、{pause 8}いいカンジ？{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	オッケー	ちがうよ！
+"006"	{emote: Mistaken}あ、{pause 20}ごめんね～{pause 30}	もう1{ruby (charSpan 1): かい}回　{ruby (charSpan 1): おし}教えて
+"007"	{0009-0000-0004-0008-0009}
+"008"	「{catchphrase}」{pause 8}・{pause 8}・{pause 8}・{pause 8}！{pause 20}	{emote: Glee}すっごい　イイじゃん、{pause 10}{catchphrase}！{pause 20}	ありがとねー
+"009"	「{catchphrase}」ね{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Laughter}なんか　アタイにピッタリだよ～{pause 20}	サンキュー！
+"010"	{0009-0000-0004-000b-000c}
+"011"	{emote: Resigned}ま、{pause 10}{ruby (charSpan 1): いま}今のほうが　アタイらしいかもね！
+"012"	{emote: Happiness}もし　イケてるのがあったら{pause 10}	アドバイス　{pause 8}お{ruby (charSpan 1): ねが}願いね！

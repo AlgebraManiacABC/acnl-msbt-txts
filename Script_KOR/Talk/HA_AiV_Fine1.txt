@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Surprise}
-"005"	{emote: Greetings}
-"006"	{emote: Alarmed}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Greetings}
-"010"	{emote: Greetings}
-"011"	{emote: Surprise}
-"012"	{000a-0008-0010-0e-00-0e-00-02-00-02-00-02-00-02-00-02-00-0e-00}
-"013"	{000a-0008-0010-0f-00-0f-00-04-00-04-00-04-00-04-00-04-00-0f-00}
-"014"	{0009-0000-0004-01-00-02-00}
-"015"	{0009-0000-0004-03-00-04-00}
+"001"	{emote: Greetings}{Greeting begin}여어!{Greeting end}{pause 20} {Town name (pink)} 마을의 {Player name}!{pause 40}	오늘 날씨가 좋아서 다행이네!	{pause 8}{catchphrase}!
+"002"	{emote: Happiness}오!{pause 8} {Player name}ー!{pause 20}	{Town name (pink)} 마을에서 여기까지 조깅했냐?{pause 40}	너도 운동 좀 하는군, {pause 8}{catchphrase}?
+"003"	{emote: Happiness}{Greeting begin}이게 누구야ー!{pause 8} {Player name}{000e-000e-0006-0002-c774-0000}잖아?!{Greeting end}{pause 40}	오늘 날씨 외출하기에 딱인데	잘 됐다ー {pause 8}{catchphrase}!
+"004"	{emote: Surprise}앗!{pause 8} {Player name}{000e-000e-0006-0002-c774-0000}다ー!{pause 20}	{emote: Sunny}놀러 올 거였으면 제일 먼저	나한테 연락했어야지, {pause 8}{catchphrase}
+"005"	{emote: Greetings}{Greeting begin}여어ー! {pause 8}{Player name}!{Greeting end}{pause 20}	{emote: Happiness}야간 조깅 중이야?{pause 20}	대단한데? {pause 8}{catchphrase}!
+"006"	{emote: Alarmed}앗, {Player name}?!{pause 40}	{emote: Happiness}어때? 밤에 보는 {Town name (pink)} 마을도	꽤 괜찮지? {pause 8}{catchphrase}?
+"007"	{emote: Alarmed}{0007-000a-0000}앗ー!{pause 8} {Player name}!{pause 40}	{emote: Laughter}이 시간에 여기에서 널 보다니!	깜짝 놀랐잖아, {pause 8}{catchphrase}{emote: Happiness}
+"008"	{emote: Alarmed}{0007-000a-0000}{Player name}ー!{pause 20}	한밤중에 우리 마을에서	뭘 하고 있냐ー?{Wait for input}{emote: Thought}너 설마{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Disbelief}남들 몰래 함정 파고 있던 거	아니냐?! {pause 8}{catchphrase}!
+"009"	{emote: Greetings}{Greeting begin}여어!{pause 8} {Player name}!{Greeting end}{pause 20}	어서 와라, {pause 8}{catchphrase}!
+"010"	{emote: Greetings}오옷!{pause 8} {Player name}!{pause 20}	오늘은 마음껏 놀다 가라,	{pause 8}{catchphrase}!
+"011"	{emote: Surprise}오ー!{pause 8} {Player name}!{pause 20}	놀러 왔냐ー?{Wait for input}{emote: Sunny}{Town name (pink)} 마을도{pause 20} 내 근육도	오늘 실컷 보고 가라,	{pause 8}{catchphrase}!
+"012"	{000a-0008-0010-000e-000e-0002-0002-0002-0002-0002-000e}
+"013"	{000a-0008-0010-000f-000f-0004-0004-0004-0004-0004-000f}
+"014"	{0009-0000-0004-0001-0002}
+"015"	{0009-0000-0004-0003-0004}

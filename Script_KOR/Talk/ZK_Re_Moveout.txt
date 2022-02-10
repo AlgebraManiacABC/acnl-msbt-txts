@@ -1,29 +1,29 @@
 == 0 ==
-"001"	여어, {pause 8}
-"002"	여어, {Player nickname (green)}
-"003"	{emote: Glee}
-"004"	{emote: Surprise}
-"005"	{emote: Alarmed}
-"006"	{emote: Greetings}
-"007"	{emote: Alarmed}
-"008"	{emote: Greetings}
-"009"	{emote: Soft Smile}
-"010"	{pause 8}
-"011"	{pause 8}
-"012"	{emote: Alarmed}
-"013"	{emote: Soft Smile}
-"014"	{pause 8}
-"015"	{emote: Mistaken}
-"016"	{emote: Alarmed}
-"017"	{emote: Sheepishness}
-"018"	{emote: Anger}
-"019"	{emote: Anger}
-"020"	{emote: Soft Smile}
-"021"	{emote: Sheepishness}
-"022"	{emote: Shyness}
-"023"	어디 보자{pause 8}
-"024"	{emote: Cold Chill}
-"025"	{pause 8}
-"026"	{pause 8}
-"027"	{emote: Alarmed}
-"028"	{emote: Alarmed}
+"001"	여어, {pause 8}{Player nickname (green)}{군/양}{pause 32}	{emote: Worry}오늘이 마지막이야{pause 8}	그대와 이렇게 이야기를 나누는 것도{pause 8}・{pause 8}・{pause 8}・	{emote: Sheepishness}지금 짐 싸고 있는 중이야{pause 32}	내일 이사하니까{pause 8}	미리 준비해 둬야지{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}그대는 잊지 못할 거야!{pause 32}	지금까지 고마웠어!{pause 8}	{Player nickname (green)}{군/양}!
+"002"	여어, {Player nickname (green)}{군/양}{pause 32}	{emote: Worry}드디어 내일이야{pause 32}	내가 이 마을을 떠나는 날이{pause 8}・{pause 8}・{pause 8}・{pause 8}　	{emote: Sheepishness}그래서 지금{pause 8} 막	짐을 싸던 중이었어{pause 32}	막상 떠나려니 모두가 눈에 밟히네
+"003"	{emote: Glee}역시 날{pause 16}	붙잡으려고 온 거야?	{Player nickname (green)}{군/양}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Worry}그대 맘 다 알아{pause 32}	하지만 {pause 8}한마디만 할게{Wait for input}{emote: Anger}내가 없어지더라도{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}{Town name (pink)} 마을을 잘 부탁해,{pause 8}	{Player nickname (green)}{군/양}!
+"004"	{emote: Surprise}앗! {pause 8}{Player nickname (green)}{군/양}!{pause 32}	{emote: Shyness}그대한테는 계속{pause 16}	말 못했었는데{pause 8}・{pause 8}・{pause 8}・{pause 8}	내일 {pause 8}나는 {Town name (pink)} 마을을{pause 16}	떠나기로 했어{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}그래서 지금 {pause 16}한창	이사 준비를 하고 있었어{Wait for input}{emote: Worry}그러니까 이렇게{pause 16}	그대와 얘길 나누는 것도{pause 8}	오늘이 마지막이란 말이지{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"005"	{emote: Alarmed}어라? {pause 16}그대랑 만나는 건	처음인가{pause 8}・{pause 8}・{pause 8}・?{Wait for input}{emote: Reset} 아아,{pause 16}	{Player nickname (green)}{군/양}이라고 하는구나?	{emote: Soft Smile}내 이름은 {Villager's name (orange)}!{pause 32}	{emote: Sheepishness}만나자마자 이런 소리하긴 미안하지만{pause 16}	난 내일 이 마을을 떠나	{emote: Anger}내가 그대에게 하고 싶은 말은{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}「{Town name (pink)} 마을을 부탁해!」{pause 32}	{emote: Soft Smile}이것뿐이야, {pause 8}{catchphrase}
+"006"	{emote: Greetings}오, {pause 8}{Player nickname (green)}{군/양}이네!{pause 32}	{Town name (pink)} 마을에 놀러 온 거야?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Soft Smile}난 이사 준비하고 있어{pause 32}	내일 이 마을을 떠날 거거든{Wait for input}{emote: Worry}한마디로 오늘은{pause 16}	{Town name (pink)} 마을에서 지내는{pause 16}	나의 마지막 날이지{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}이런 날 그대를 만나서{pause 16}	얘기할 수 있어서 참 다행이다!{pause 8}	{Player nickname (green)}{군/양}!
+"007"	{emote: Alarmed}어라? {pause 16}그대와 만나는 건	처음이구나{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Reset}아아,{pause 16} {Player nickname (green)}{군/양}이라고?	{emote: Soft Smile}내 이름은 {Villager's name (orange)}!{pause 32}	{emote: Sheepishness}만나자마자 미안한 소리지만{pause 16}	난 내일 이 마을을 떠나	{emote: Anger}내가 하고 싶은 말은{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}「{Town name (pink)} 마을을 부탁해!」{pause 32}	{emote: Soft Smile}이것뿐이야, {pause 8}{catchphrase}
+"008"	{emote: Greetings}오, {pause 8}{Player nickname (green)}{군/양}이잖아!{pause 32}	{Town name (pink)} 마을에 놀러 온 거야?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Soft Smile}난 이사 준비하고 있어{pause 32}	내일 이 마을을 떠날 거거든{Wait for input}{emote: Worry}한마디로 오늘이{pause 16}	{Town name (pink)} 마을에서 지내는{pause 16}	나의 마지막 날이지{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}하지만 {pause 16}이사 갈 곳도	아직 못 정했어{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0000-0004-0000-0000}	우리 마을로 와!	그것 참 큰일이네
+"009"	{emote: Soft Smile}괜찮아, {pause 16}걱정 마{pause 32}	사나이가 어디든 못 가겠어?{Wait for input}{emote: Happiness}그것보다 {pause 16}난 지금 엄청 기뻐!{pause 32}	마지막에 이렇게 그대를 만나서{pause 16}	얘기를 나눌 수 있어서{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Glare}이런 게 {pause 16}기적 아닐까?	{pause 8}{catchphrase}?{Wait for input}{emote: Worry}난 이 마을을 떠나지만{pause 16}	{Town name (pink)} 마을은 사라지지 않아{pause 32}	{emote: Soft Smile}그러니까 또 놀러 와줘!
+"010"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Shocked}응?!{pause 32}	진심으로 하는 말이야{pause 8}	{Player nickname (green)}{군/양}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Worry}{Player nickname (green)}{군/양}과의 새로운 생활이라{pause 8}・{pause 8}・{pause 8}・{pause 8}	그것도 나쁘진 않겠어{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Glee}좋아, {pause 8}결심했어!{pause 32}	{Town name (pink)} 마을로 이사 가겠어!{Wait for input}{emote: Anger}관대한 {Player nickname (green)}{군/양}을 위하여{pause 32}	{emote: Glare}건배!
+"011"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Shocked}응?!{pause 32}	진심으로 하는 말이야{pause 8}	{Player nickname (green)}{군/양}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}후후훗, {pause 16}인연이란 묘하군{pause 32}	또 {Player nickname (green)}{군/양}네 마을에서{pause 16}	신세를 지게 될 줄이야{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Glee}좋아, {pause 8}결심했어!{pause 32}	{Town name (pink)} 마을로 이사 가겠어!{Wait for input}{emote: Anger}관대한 {Player nickname (green)}{군/양}을 위하여{pause 32}	{emote: Glare}건배!
+"012"	{emote: Alarmed}어라? {pause 16}그대와 만나는 건	처음이지{pause 8}・{pause 8}・{pause 8}・?{Wait for input}	{emote: Reset}아아,{pause 16} {Player nickname (green)}{군/양}이라고 하는구나?	{emote: Soft Smile}내 이름은 {Villager's name (orange)}!{pause 32}	{emote: Sheepishness}만나자마자 미안하지만{pause 16}	난 내일 이 마을을 떠나기로 했어	{emote: Worry}그렇다곤 해도 {pause 8}아직{pause 16}	이사 갈 곳을 못 정했지만{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0000-0004-0000-0000}	우리 마을로 와!	그것 참 큰일이네
+"013"	{emote: Soft Smile}괜찮아, {pause 16}걱정 마{pause 32}	사나이가 어디든 못 가겠어?{Wait for input}{emote: Happiness}그것보다 {pause 16}난 지금 엄청 기뻐!{pause 32}	마지막에 이렇게 그대를 만나서{pause 16}	얘기를 나눌 수 있어서{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Glare}이런 게 {pause 16}기적 아닐까?	{pause 8}{catchphrase}?{Wait for input}{emote: Worry}난 이 마을을 떠나지만{pause 16}	{Town name (pink)} 마을은 사라지지 않아{pause 32}	{emote: Soft Smile}그러니까 또 놀러 와줘!
+"014"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Shocked}응?!{pause 32}	진심으로 하는 말이야{pause 8}	{Player nickname (green)}{군/양}?	{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}이렇게 그대를 만난 것도{pause 16}	단순한 우연은 아닐지도 몰라,	{pause 8}{catchphrase}	{emote: Sunny}좋아, {pause 8}결심했어!{pause 32}	{emote: Reset}그런데 {pause 8}마을 이름이 뭐라고 했지?{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{Town name (pink)} 마을?	{emote: Soft Smile}좋아, {Town name (pink)} 마을로 결정!{Wait for input}	{emote: Anger}관대한 {Player nickname (green)}{군/양}을 위하여{pause 32}	{emote: Glare}건배!
+"015"	{emote: Mistaken}아차! 큰일 났다{pause 32}	잠옷이랑 외출복을{pause 16}	같은 박스에 넣어 버렸네!
+"016"	{emote: Alarmed}어라? {pause 32}{emote: Thought}{pause 16}내 사진집{pause 16}	『{Villager's name (orange)} vol.3』{pause 16}	어디에 넣었더라{pause 8}・{pause 8}・{pause 8}・{pause 8}?
+"017"	{emote: Sheepishness}에코백이{pause 8}	너무 많길래{pause 8}・{pause 8}・{pause 8}・{pause 8}	눈 딱 감고 몇 개 버렸어
+"018"	{emote: Anger}{Town name (pink)} 마을과 그대와의 추억!{pause 32}	{emote: Glare}난 절대 잊지 못할 거야
+"019"	{emote: Anger}드디어 갈 곳을 정했어!{pause 32}	나 {0011-0002-0002-0000} 마을로{pause 16}	가기로 했어, {pause 8}{catchphrase}!	{emote: Shyness}혹시 날 만나고 싶으면{pause 16}	{0011-0002-0002-0000} 마을로{pause 16}	놀러 와, {pause 8}{Player nickname (green)}{군/양}
+"020"	{emote: Soft Smile}다음 내 행선지는{pause 16}	{0011-0002-0002-0000} 마을이야!{Wait for input}{emote: Shyness}기회가 되면 {pause 16}우리 집에{pause 8}	놀러 와줄래? {pause 8}{catchphrase}?
+"021"	{emote: Sheepishness}후후훗{pause 8}・{pause 8}・{pause 8}・{pause 8} 다음에 만날 땐{pause 16}	나도 {Town name (pink)} 마을의 일원이겠네?	{pause 8}{catchphrase}?
+"022"	{emote: Shyness}엄청 두근거린다～ {pause 8}{catchphrase}{pause 32}	다시 시작되는 그대와의 생활이{pause 16}	엄청 기대되는 걸{pause 8}・{pause 8}・{pause 8}・
+"023"	어디 보자{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 16}	{emote: Sheepishness}마을을 떠나기로 마음을 먹었으니{pause 16}	이제 슬슬 행선지를 정해야겠지?	{emote: Reset}그대, {pause 8}어디 좋은 마을{pause 16}	{emote: Curious}아는 데 없어? {pause 8}{Player nickname (green)}{군/양}?{000f-0000-0004-0015-0028}	우리 마을로 와!	생각이 안 나네
+"024"	{emote: Cold Chill}그렇구나{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}괜찮아, {pause 16}걱정 마{pause 32}	사나이가 {pause 8}어디든 못 가겠어
+"025"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Shocked}응?!{pause 32}	진심으로 하는 말이야{pause 8}	{Player nickname (green)}{군/양}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Worry}{Player nickname (green)}{군/양}과의 새로운 생활이라{pause 8}・{pause 8}・{pause 8}・{pause 8}	그것도 나쁘진 않겠어{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Glee}좋아, {pause 8}결심했어!{pause 32}	{Town name (pink)} 마을로 이사 가겠어!{Wait for input}{emote: Anger}관대한 {Player nickname (green)}{군/양}을 위하여{pause 32}	{emote: Glare}건배!
+"026"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Shocked}응?!{pause 32}	진심으로 하는 말이야{pause 8}	{Player nickname (green)}{군/양}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}후후훗, {pause 16}인연이란 묘하군{pause 32}	또 {Player nickname (green)}{군/양}네 마을에서{pause 16}	신세를 지게 될 줄이야{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Glee}좋아, {pause 8}결심했어!{pause 32}	{Town name (pink)} 마을로 이사 가겠어!{Wait for input}{emote: Anger}관대한 {Player nickname (green)}{군/양}을 위하여{pause 32}	{emote: Glare}건배!
+"027"	{emote: Alarmed}어라?!{pause 20}	{emote: Reset}내가 말하러 갈까 했는데{pause 8}	{emote: Soft Smile}{Player nickname (green)}{군/양}이{pause 8} 와 버렸네!	{emote: Worry}갑작스러운 얘기라 미안하지만{pause 16}	{emote: Reset}이 마을을 떠나기로 했어{Wait for input}{emote: Thought}꿈속에 조상님 같은 분이 나타나서{pause 16}	집요하게 이사를 권하더라구{Wait for input}{emote: Reset}당최 영문을 알 수 없는 얘기였지만{pause 16}	{emote: Resigned}조상님의 말씀을	무시할 수는 없으니까 말이야	{emote: Happiness}그대와의 소중한 기억들은{pause 8}	평생 잊지 못할 거야, {pause 8}{catchphrase}!
+"028"	{emote: Alarmed}어라?{pause 20}	{emote: Reset}내가 찾아가려고 했는데{pause 8}	{emote: Soft Smile}마침 와줬네, {pause 8}{Player nickname (green)}{군/양}!	{emote: Worry}갑작스러운 얘기겠지만{pause 16}	{emote: Reset}나, 이 마을을 떠나기로 했어{Wait for input}{emote: Agreement}내가 워낙 자유분방하잖아!	특별한 이유나 깊은 뜻은 없어{pause 20}	그러니까 {pause 8}{emote: Sunny}{pause 8}걱정은 하지 마!{Wait for input}{emote: Happiness}그대와 나눈 아름다운 추억도{pause 8}	나의 중요한 짐과 함께	소중히 간직할게, {pause 8}{catchphrase}!

@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Soft Smile}
-"003"	{emote: Curious}
-"004"	{emote: Alarmed}
-"005"	{emote: Sleepy}
-"006"	{emote: Anger}
-"007"	{emote: Happiness}
-"008"	{emote: Soft Smile}
+"001"	{emote: Happiness}{Greeting begin}あら、{pause 8}ごきげんよう！{Greeting end}{pause 8}	{Player name}{0005-000d-0000}！
+"002"	{emote: Soft Smile}{ruby (charSpan 2): げんき}元気そうじゃない？	{pause 8}{Player name}{0005-000d-0000}？
+"003"	{emote: Curious}どう？{pause 12}	{ruby (charSpan 1): たの}楽しくやってる？　{pause 8}{catchphrase}？
+"004"	{emote: Alarmed}あら、{pause 8}{Player name}{0005-000d-0000}！
+"005"	{emote: Sleepy}ふぁ～{pause 8}・{pause 8}・{pause 8}・{pause 8}ねむい{pause 8}・{pause 8}・{pause 8}・{pause 8}	アタシ、{pause 8}{ruby (charSpan 1): あさ}朝に{ruby (charSpan 1): よわ}弱いのよねぇ、	{pause 8}{catchphrase}
+"006"	{emote: Anger}こんな{ruby (charSpan 2): よるおそ}夜遅く　{ruby (charSpan 1): わる}悪いコね～、{pause 8}	{Player name}{0005-000d-0000}！
+"007"	{emote: Happiness}{Town name (pink)}{ruby (charSpan 1): むら}村を	{ruby (charSpan 1): たの}楽しんでる？　{pause 8}{catchphrase}？
+"008"	{emote: Soft Smile}ゆっくりしていってね～、{pause 8}	{Player name}{0005-000d-0000}

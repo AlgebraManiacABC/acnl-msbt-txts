@@ -1,60 +1,60 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	벽에 거는 거 말고{pause 20}
-"006"	{emote: Worry}
-"007"	{emote: Worry}
-"008"	{0011-0003-0002-00-00}
-"009"	{emote: Sheepishness}
-"010"	벽에 장식하는 거 말고{pause 20}
-"011"	{emote: Sheepishness}
-"012"	{0011-0003-0002-00-00}
-"013"	{emote: Thought}
-"014"	{0011-0003-0002-00-00}
-"015"	{emote: Thought}
-"016"	
-"017"	
-"018"	{emote: Glare}
-"019"	좋아～ {pause 15}
-"020"	{emote: Glare}
-"021"	{emote: Surprise}
-"022"	{emote: Surprise}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
-"025"	{emote: Soft Smile}
-"026"	{emote: Agreement}
-"027"	{emote: Inspired}
-"028"	{emote: Happiness}
-"029"	
-"030"	
-"031"	{emote: Surprise}
-"032"	{emote: Surprise}
-"033"	{emote: Soft Smile}
-"034"	{emote: Soft Smile}
-"035"	{emote: Thought}
-"036"	{emote: Agreement}
-"037"	{emote: Glee}
-"038"	{emote: Agreement}
-"039"	{emote: Worry}
-"040"	
-"041"	{emote: Soft Smile}
-"042"	{emote: Happiness}
-"043"	
-"044"	
-"045"	{emote: Surprise}
-"046"	{emote: Surprise}
-"047"	{emote: Surprise}
-"048"	{emote: Surprise}
-"049"	{emote: Surprise}
-"050"	{emote: Soft Smile}
-"051"	{emote: Thought}
-"052"	{emote: Agreement}
-"053"	{emote: Soft Smile}
-"054"	{emote: Happiness}
-"055"	{emote: Happiness}
-"056"	{emote: Happiness}
-"057"	{emote: Alarmed}
-"058"	{emote: Happiness}
-"059"	{emote: Happiness}
+"001"	{emote: Alarmed}엥?{pause 20}	나랑 장난하냐?
+"002"	{emote: Worry}벽에 거는 거 말고{pause 20}	바닥에 두는 가구를 달라구
+"003"	{emote: Worry}생각했던 것보다 큰데{Wait for input}	{emote: Sheepishness}좀 더 작은 건 {pause 8}없냐?
+"004"	{emote: Worry}생각했던 것보다 작은데{Wait for input}	{emote: Sheepishness}좀 더 큰 건 {pause 8}없냐?
+"005"	벽에 거는 거 말고{pause 20}	바닥에 놓는 가구를 달라구
+"006"	{emote: Worry}이건 너무 큰 것 같은데?{Wait for input}	{emote: Sheepishness}{0011-0003-0002-0000}하고	비슷한{pause 8} 크기는 없냐?
+"007"	{emote: Worry}이건 너무 작은 것 같은데?{Wait for input}	{emote: Sheepishness}{0011-0003-0002-0000}하고	비슷한{pause 8} 크기는 없냐?
+"008"	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 대신할{pause 8}	가구를 찾고 있다구!{pause 30}	{emote: Worry}똑같은 건 필요 없어! {pause 20}{catchphrase}!
+"009"	{emote: Sheepishness}{0011-0003-0002-0000} 위에다{pause 8}	장식할 가구를 찾는 중이야!{pause 20}	이건 못 올려놓잖냐!
+"010"	벽에 장식하는 거 말고{pause 20}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 대신해서{pause 8}	둘 만한 가구가 필요해
+"011"	{emote: Sheepishness}{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 대신해서{pause 8}	위에 올려놓을 가구가 필요하다구!{pause 20}	이건 못 올려놓잖아!
+"012"	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 대신할{pause 8}	가구를 찾고 있다구!{pause 30}	{emote: Worry}똑같은 건 필요 없어! {pause 20}{catchphrase}!
+"013"	{emote: Thought}{pause 16}벽에 걸 수 있는 가구가 {pause 8}필요해
+"014"	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 대신할{pause 8}	가구를 찾고 있다구!{pause 30}	{emote: Worry}똑같은 건 필요 없어! {pause 20}{catchphrase}!
+"015"	{emote: Thought}{pause 16}그건 {pause 20}이미 집에 있는 거야
+"016"
+"017"
+"018"	{emote: Glare}앞으로 사이좋게 지내자!{pause 15}	{0011-0003-0002-0001}!
+"019"	좋아～ {pause 15}이리 와,{pause 20}	{0011-0003-0002-0001}!
+"020"	{emote: Glare}좋아 좋아～!{pause 20}	내가 귀여워해줄게! {pause 8}{catchphrase}!
+"021"	{emote: Surprise}오! {pause 8}{0011-0003-0002-0001}!{pause 20}	{emote: Glee}이거 {pause 15}아주 좋은데?!
+"022"	{emote: Surprise}오호! {pause 8}{0011-0003-0002-0001}!{pause 30}	{emote: Happiness}꽤 멋지게{pause 8}	리폼한 가구네?!
+"023"	{emote: Soft Smile}다음에 시간 있을 때{pause 8}	장식해볼게!
+"024"	{emote: Soft Smile}집에 돌아가면 {pause 8}바로 장식해볼게!
+"025"	{emote: Soft Smile}바로 한번 장식해볼까{pause 8}・{pause 8}・{pause 8}・
+"026"	{emote: Agreement}오, {pause 15}이거 괜찮네!
+"027"	{emote: Inspired}{pause 16}옳지, {pause 30}이건 이제 필요 없으니까{pause 20}	보답으로 {0011-0003-0002-0002}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}	너한테 주마!
+"028"	{emote: Happiness}고맙다, {pause 5}{Player nickname (green)}!	{pause 8}{catchphrase}!
+"029"
+"030"
+"031"	{emote: Surprise}오! {pause 8}{0011-0003-0002-0001}!
+"032"	{emote: Surprise}오호! {pause 8}{0011-0003-0002-0001}!{pause 30}	{emote: Happiness}꽤 멋지게{pause 8}	리폼한 가구네?!
+"033"	{emote: Soft Smile}다음에 시간 있을 때{pause 8}	장식해볼게!
+"034"	{emote: Soft Smile}집에 돌아가면 {pause 8}바로 장식해볼게!
+"035"	{emote: Thought}{pause 16}어디 보자{pause 8}・{pause 8}・{pause 8}・{pause 8}	어디에 {pause 8}두는 게 좋을까{pause 8}・{pause 8}・{pause 8}・
+"036"	{emote: Agreement}좀 더 생각해본 다음에{pause 15}	정해야겠다
+"037"	{emote: Glee}그래! {pause 15}결정했어!
+"038"	{emote: Agreement}오, {pause 15}이거 괜찮군!
+"039"	{emote: Worry}상상을 초월하는 크기구만{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Sheepishness}조금 더 작은 녀석으로	줄 수 없겠냐?{pause 8} {catchphrase}?
+"040"
+"041"	{emote: Soft Smile}자, {pause 8}이건 보답이야!{pause 20}	받아줘!
+"042"	{emote: Happiness}{0011-0003-0002-0002}{000e-000e-0006-0002-c774-0000}야!{pause 30}	{emote: Greetings}고마웠다! {pause 8}{catchphrase}!
+"043"
+"044"
+"045"	{emote: Surprise}오!{pause 15}	{0011-0003-0002-0001}!{Wait for input}{emote: Happiness}토용을 두면{pause 8}	집 안 분위기가 살지!
+"046"	{emote: Surprise}오!{pause 15}	{0011-0003-0002-0001}!{Wait for input}{emote: Happiness}이거 상당히 분위기 있는데?!
+"047"	{emote: Surprise}오!{pause 15}	{0011-0003-0002-0001} 아냐!{Wait for input}{emote: Happiness}집에서 곤충을 길러보는 것도{pause 8}	나쁘진 않겠군, {pause 20}{catchphrase}
+"048"	{emote: Surprise}오!{pause 15}	{0011-0003-0002-0001}!{Wait for input}{emote: Happiness}집에 수조가 있으면{pause 8}	왠지 부자가 된 기분이겠어!
+"049"	{emote: Surprise}오!{pause 15}	{0011-0003-0002-0001}!{Wait for input}{emote: Happiness}이걸 기르면{pause 8} 우리 집이 	한 단계 업그레이드될 것 같군!
+"050"	{emote: Soft Smile}정성껏 기를게, {pause 20}{catchphrase}
+"051"	{emote: Thought}어디 보자{pause 8}・{pause 8}・{pause 8}・{pause 15}	이 {0011-0003-0002-0001}{000e-000e-0008-0002-c740-0002-b294}{pause 8}	어디에 둘까{pause 8}・{pause 8}・{pause 8}・{Wait for input}{pause 5}{emote: Inspired}{pause 15}좋았어!{pause 20}	여기가 좋겠군!{emote: Happiness}
+"052"	{emote: Agreement}음, {pause 8}멋진데?!{pause 30}	{emote: Happiness}보고 있으니 마음이 편해지는군!{pause 20}	{catchphrase}!
+"053"	{emote: Soft Smile}그럼 나도{pause 8}	보답을 해야겠지{pause 8}・{pause 8}・{pause 8}・
+"054"	{emote: Happiness}좀 전까지 여기에 있던{pause 8}	{0011-0003-0002-0002}{000e-000e-0006-0002-c774-0000}야!{pause 30}	괜찮다면 받아줘!
+"055"	{emote: Happiness}그럼 보답으로{pause 15}	이 {0011-0003-0002-0002}{000e-000e-0008-0002-c744-0002-b97c}{pause 8} 줄게!	받아줘!
+"056"	{emote: Happiness}다음에도 부탁한다! {pause 8}{Player nickname (green)}!{pause 30}	고마웠어, {pause 20}{catchphrase}!
+"057"	{emote: Alarmed}오!{pause 8}	{0011-0003-0002-0001}{000e-000e-0006-0002-c774-0000}구만!{pause 15}	{emote: Soft Smile}괜찮네!{pause 15}	{emote: Thought}근데 이런 건 원래{pause 15}	테이블 위에 장식해야 하는데{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}어디에 둘지는{pause 8}	나중에 천천히 생각해볼게!
+"058"	{emote: Happiness}그럼 보답으로{pause 15}	이 {0011-0003-0002-0002}{000e-000e-0008-0002-c744-0002-b97c} 줄게{pause 8}	받아줘!
+"059"	{emote: Happiness}다음에도 부탁한다! {pause 8}{Player nickname (green)}!{pause 30}	고마웠어, {pause 20}{catchphrase}!

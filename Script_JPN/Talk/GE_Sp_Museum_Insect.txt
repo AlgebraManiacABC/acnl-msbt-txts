@@ -1,15 +1,15 @@
 == 0 ==
-"001"	
-"002"	{000a-001f-001a-01-0b-00-0b-00-08-00-07-00-08-00-07-00-08-00-07-00-08-00-07-00-08-00-0d-00-ffffffcd}
-"003"	{000a-001f-001a-01-0c-00-0c-00-0a-00-09-00-0a-00-09-00-0a-00-09-00-0a-00-09-00-0a-00-0e-00-ffffffcd}
-"004"	
-"005"	
-"006"	
-"007"	{emote: Distress}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Thought}
-"012"	{emote: Happiness}
-"013"	{emote: Glee}
-"014"	{emote: Joy}
+"001"
+"002"	{000a-001f-001a-0b01-0b00-0800-0700-0800-0700-0800-0700-0800-0700-0800-0d00-cd00}
+"003"	{000a-001f-001a-0c01-0c00-0a00-0900-0a00-0900-0a00-0900-0a00-0900-0a00-0e00-cd00}
+"004"
+"005"
+"006"
+"007"	{emote: Distress}ムシがいるからって{pause 10}	ムシしないで！{Wait for input}	{emote: Happiness}な～んてね！{pause 30}	{emote: Anger}ちょっと！	せっかく　ダジャレ{ruby (charSpan 1): い}言ったんだから{pause 10}	{emote: Resigned}{ruby (charSpan 1): わら}笑ってよ～、{pause 15}{catchphrase}
+"008"	{emote: Happiness}アタイも　{pause 5}{ruby (charSpan 1): いろ}色んなムシを{ruby (charSpan 1): み}見て、{pause 10}	{emote: Distress}ちがいの　わかる{ruby (charSpan 1): おんな}女に　{pause 5}なりた～い！{Wait for input}{emote: Happiness}でも、{pause 15}	ゴキブリと　{pause 5}カブトムシの	ちがいくらいは{pause 8}　{emote: Showmanship}わかるよ？！
+"009"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}の{ruby (charSpan 1): むら}村は、{pause 10}	ムシ　{pause 10}いっぱい　{ruby (charSpan 1): あつ}集まった？{Wait for input}	{emote: Glee}いつか　{pause 10}{ruby (charSpan 1): み}見に{ruby (charSpan 1): い}行きたいな～、{pause 15}{catchphrase}
+"010"	{emote: Happiness}{Town name (pink)}{ruby (charSpan 1): むら}村の　ムシの{ruby (charSpan 1): かず}数を{pause 10}	{emote: Glare}スパイしに{ruby (charSpan 1): き}来たってカンジ？！
+"011"	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Distress}ムシ　{pause 10}{ruby (charSpan 1): ふ}増えてほしいな～！{pause 20}	{emote: Happiness}そしたら、{pause 10}{ruby (charSpan 1): かよ}通いまくっちゃうんだけどね！
+"012"	{emote: Happiness}もう{ruby (charSpan 1): すこ}少しすれば{pause 10}	ここのムシも　{pause 8}{ruby (charSpan 1): ふ}増えるはずだから、{pause 10}	{ruby (charSpan 2): きたい}期待して{ruby (charSpan 1): ま}待っててね、{pause 15}{catchphrase}！
+"013"	{emote: Glee}う～ん！{pause 20}	ぜ～んぶのムシに　{ruby (charSpan 1): かこ}囲まれると{pause 10}	ハクリョクがちがうわ～！
+"014"	{emote: Joy}{ruby (charSpan 2): ぜんぶ}全部のムシが　{pause 8}いるんだよ！{Wait for input}	{emote: Soft Smile}{Town name (pink)}{ruby (charSpan 1): むら}村の{pause 10}	{emote: Pride}{ruby (charSpan 2): めいぶつ}名物スポットってカンジかな！

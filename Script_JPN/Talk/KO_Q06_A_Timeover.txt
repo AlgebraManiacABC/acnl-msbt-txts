@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Anger}
-"003"	{emote: Anger}
-"004"	{emote: Curious}
-"005"	{emote: Resigned}
-"006"	オメェ　ひょっとして、{0011-0001-0002-00-00}
-"007"	{emote: Sheepishness}
-"008"	{emote: Sheepishness}
-"009"	{emote: Resigned}
-"010"	{emote: Worry}
-"011"	{emote: Sigh}
-"012"	{emote: Worry}
-"013"	{emote: Distress}
-"014"	{emote: Alarmed}
-"015"	{emote: Surprise}
-"016"	{emote: Sigh}
-"017"	{emote: Surprise}
-"018"	{emote: Shocked}
-"019"	{emote: Shocked}
-"020"	{emote: Curious}
-"021"	{emote: Shocked}
-"022"	{emote: Curious}
-"023"	{emote: Disbelief}
-"024"	{emote: Anger}
+"001"	{emote: Worry}オメェ　{0011-0001-0002-0000}に{pause 8}	{ruby (charSpan 1): おく}贈り{ruby (charSpan 1): もの}物　まだ{ruby (charSpan 1): とど}届けてねぇだろ？！{pause 30}	{emote: Anger}もういいから　{ruby (charSpan 1): けえ}返してくんねぇかな？
+"002"	{emote: Anger}オメェさぁ、{pause 20}{ruby (charSpan 1): たの}頼んでた　おわびの{ruby (charSpan 1): おく}贈り{ruby (charSpan 1): もの}物、{pause 20}	まだ　{0011-0001-0002-0000}に　{ruby (charSpan 1): わた}渡してねぇだろ！{pause 30}	{emote: Worry}もういいから　{ruby (charSpan 1): かえ}返してくれよ
+"003"	{emote: Anger}オメェ、{pause 8}{0011-0001-0002-0000}の{ruby (charSpan 1): か}借り{ruby (charSpan 1): もの}物、{pause 20}	まだ　{ruby (charSpan 1): かえ}返しに{ruby (charSpan 1): い}行ってくれてねぇだろ？！{pause 30}	{emote: Worry}もういいから　{ruby (charSpan 1): かえ}返してくれよ
+"004"	{emote: Curious}オメェ、{pause 8}まだ{ruby (charSpan 1): とど}届けてねぇの？！{pause 30}	{emote: Anger}{0011-0001-0002-0000}の　{ruby (charSpan 1): わす}忘れ{ruby (charSpan 1): もの}物のコトだよ！{Wait for input}	{emote: Worry}もういいから　{ruby (charSpan 1): かえ}返してくれよ
+"005"	{emote: Resigned}オメェ、{pause 20}{ruby (charSpan 1): たの}頼んでおいた{ruby (charSpan 2): にもつ}荷物の{pause 8}	{0011-0001-0002-0000}への{ruby (charSpan 2): はいたつ}配達、{pause 20}まだだろ！{pause 30}	{emote: Anger}もういいから　{ruby (charSpan 1): かえ}返してくんねぇかな？
+"006"	オメェ　ひょっとして、{0011-0001-0002-0000}に	{ruby (charSpan 2): にもつ}荷物　まだ{ruby (charSpan 1): とど}届けてくれてねぇの？！	もういいから　{ruby (charSpan 1): かえ}返してくれよ
+"007"	{emote: Sheepishness}やっぱ　{pause 8}{ruby (charSpan 2): ひと}他人{ruby (charSpan 1): まか}任せはダメってこったな！{pause 30}	{emote: Soft Smile}{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): わた}渡すことにするぜ、{pause 20}{catchphrase}！
+"008"	{emote: Sheepishness}{ruby (charSpan 2): ひと}他人をアテにし{ruby (charSpan 1): す}過ぎると{pause 15}	ロクなことに　ならねぇな{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Anger}{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): わた}渡すことにするぜ、{pause 20}{catchphrase}！
+"009"	{emote: Resigned}やれやれ、{pause 20}{ruby (charSpan 2): おうちゃく}横着しちゃ　いけねぇな{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Anger}{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): かえ}返しに{ruby (charSpan 1): い}行くことにするぜ！
+"010"	{emote: Worry}{ruby (charSpan 2): ひと}他人に{ruby (charSpan 1): たよ}頼りすぎちゃ{pause 8}　ダメってことか{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Anger}よし、{pause 20}{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): とど}届けに{ruby (charSpan 1): い}行くことにするぜ！
+"011"	{emote: Sigh}{pause 60}{ruby (charSpan 2): おうちゃく}横着するんじゃ　なかったぜ{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Sheepishness}{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): も}持ってったほうが{ruby (charSpan 1): はえ}早ぇや！
+"012"	{emote: Worry}{ruby (charSpan 2): ひと}他人{ruby (charSpan 1): まか}任せにしちゃ{pause 8}　マズかったな{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Anger}{ruby (charSpan 2): せきにん}責任{ruby (charSpan 1): も}持って　{pause 8}{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): とど}届けることにするぜ！
+"013"	{emote: Distress}おいおい！{pause 8}	{ruby (charSpan 1): はこ}箱、{pause 8}{ruby (charSpan 1): あ}開けちまったのかよ！{pause 20}	{emote: Anger}しょうがねぇな、{pause 8}オメェってヤツは！！
+"014"	{emote: Alarmed}えっ？！{pause 8}	オメェ　プレゼント{ruby (charSpan 1): あ}開けちまったのか！{pause 30}	{emote: Anger}このままじゃ　{pause 8}{ruby (charSpan 1): も}持ってけねぇよ！{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sigh}{pause 60}ったく、{pause 15}	オメェに{ruby (charSpan 1): たの}頼んだ　{pause 8}オレがバカだったぜ！
+"015"	{emote: Surprise}あっ！　{pause 8}オメェ　{ruby (charSpan 1): あ}開けちまったのか！{pause 30}	{emote: Distress}なんで　そういうコトすんだよ、{pause 8}	オメェのモンじゃ　ねぇだろうが！	{emote: Resigned}やれやれ{pause 8}・{pause 8}・{pause 8}・{pause 20}	とんだ　{ruby (charSpan 4): にどでま}二度手間だぜ、{pause 20}{catchphrase}
+"016"	{emote: Sigh}{pause 60}あーあ、{pause 15}なんだよオメェ、{pause 30}	{emote: Distress}せっかく　{pause 8}キレイにラッピングしてたのに{pause 15}	{ruby (charSpan 1): あ}開けちまったのかよ！	{emote: Outrage}{ruby (charSpan 2): いったい}一体　どういうつもりなんだよ、{pause 8}	まったく！　{pause 20}{catchphrase}！{pause 30}{emote: Anger}
+"017"	{emote: Surprise}あ、{pause 8}オメェ　{ruby (charSpan 1): なに}何してやがる！{pause 30}	{emote: Anger}{ruby (charSpan 2): にもつ}荷物の{ruby (charSpan 1): はこ}箱、{pause 8}{ruby (charSpan 1): あ}開けちまいやがって！{Wait for input}{emote: Distress}{ruby (charSpan 2): あいて}相手にどう{ruby (charSpan 2): せつめい}説明すりゃ　いいんだよ、{pause 15}	{ruby (charSpan 1): しん}信じらんねぇヤツだな{pause 8}　まったく！
+"018"	{emote: Shocked}うわ、{pause 8}マジかよ！{pause 30}	{emote: Anger}{ruby (charSpan 2): ひと}他人の{ruby (charSpan 2): にもつ}荷物　{pause 8}{ruby (charSpan 2): かって}勝手に{ruby (charSpan 1): あ}開けんじゃねぇよ！{pause 20}	{ruby (charSpan 1): しん}信じらんねぇヤツだぜ、{pause 8}まったく！
+"019"	{emote: Shocked}えっ？！{pause 8}	{ruby (charSpan 1): も}持ってねぇって　どういうことだよ？！{pause 30}	{emote: Anger}なくしちまったのか？！	{emote: Sigh}{pause 60}{ruby (charSpan 1): あ}開いた{ruby (charSpan 1): くち}口が　ふさがらねぇぜ{pause 8}・{pause 8}・{pause 8}・
+"020"	{emote: Curious}は？{pause 40}	{emote: Anger}なくしちまったって　オメェ、{pause 20}	それで{ruby (charSpan 1): す}済む　{ruby (charSpan 1): はなし}話じゃねぇだろ？！	{emote: Resigned}カンベンしてくれよ{pause 15}　まったく！
+"021"	{emote: Shocked}えっ？！{pause 30}	{emote: Aggravation}なくしちまったって　どういうことだよ！{pause 15}	あれは　{ruby (charSpan 1): か}借り{ruby (charSpan 1): もの}物なんだぞ？！	{emote: Anger}どう{ruby (charSpan 2): せつめい}説明すりゃ　いいんだよ？！{pause 30}	{emote: Resigned}あーあ、{pause 15}{ruby (charSpan 1): しん}信じらんねぇぜ{pause 8}・{pause 8}・{pause 8}・
+"022"	{emote: Curious}はぁ？！{pause 60}	{emote: Aggravation}なくしちまったって　どういうことだよ！{pause 15}	どう{ruby (charSpan 2): せつめい}説明すりゃ　いいんだよ？！{Wait for input}{emote: Sigh}{pause 60}あーあ、{pause 15}{ruby (charSpan 1): おな}同じモンを{ruby (charSpan 1): か}買って{pause 8}	{ruby (charSpan 1): も}持ってくしか　ねぇかなぁ{pause 8}・{pause 8}・{pause 8}・
+"023"	{emote: Disbelief}えっ？！{pause 15}	なくしちまっただとぉ？！{pause 30}	{emote: Anger}どうすりゃ　いいんだよ？！	{emote: Thought}{pause 16}しらばっくれるワケにも　いかねぇし、{pause 20}	{ruby (charSpan 1): まい}参っちまったなぁ{pause 8}・{pause 8}・{pause 8}・
+"024"	{emote: Anger}なんだとぉ？！{pause 30}	{emote: Aggravation}なくしちまった　じゃねぇだろ！{pause 15}	{ruby (charSpan 1): む}向こうは　{ruby (charSpan 1): くび}首{ruby (charSpan 1): なが}長くして{ruby (charSpan 1): ま}待ってんだぜ？！	{emote: Sigh}{pause 60}あーあ、{pause 20}	もう1{ruby (charSpan 1): かい}回　{pause 8}{ruby (charSpan 1): か}買い{ruby (charSpan 1): なお}直すしかねぇかな{pause 8}・{pause 8}・{pause 8}・

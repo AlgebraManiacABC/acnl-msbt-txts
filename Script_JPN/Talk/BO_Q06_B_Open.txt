@@ -1,32 +1,32 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Alarmed}
-"003"	{emote: Curious}
-"004"	{emote: Alarmed}
-"005"	{0011-0001-0002-01-00}{0005-000d-0000}
-"006"	{emote: Inspired}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	でも{pause 8}
-"010"	{emote: Thought}
-"011"	{emote: Happiness}
-"012"	{emote: Agreement}
-"013"	{emote: Alarmed}
-"014"	{emote: Sadness}
-"015"	{emote: Anger}
-"016"	{emote: Happiness}
-"017"	{emote: Thought}
-"018"	{emote: Happiness}
-"019"	{emote: Glee}
-"020"	{emote: Shyness}
-"021"	{emote: Sheepishness}
-"022"	{emote: Worry}
-"023"	{pause 8}
-"024"	{0011-0003-0002-00-00}
-"025"	{emote: Anger}
-"026"	{emote: Anger}
-"027"	{emote: Resigned}
-"028"	{emote: Sadness}
-"029"	{emote: Reset}
-"030"	{emote: Happiness}
-"031"	{0011-0003-0002-01-00}だよぉ！{pause 40}
+"001"	{emote: Curious}{0011-0001-0002-0001}{0005-000d-0000}から	プレゼントぉ～？{Wait for input}{emote: Thought}なんでボクに	{0011-0003-0002-0000}	くれるのかなぁ？{Wait for input}{emote: Happiness}でも　くれるって{ruby (charSpan 1): い}言うなら{pause 20}	ありがたく　もらっちゃおっと
+"002"	{emote: Alarmed}{0007-000b-0000}えぇ～！{pause 40}	{0011-0001-0002-0001}{0005-000d-0000}が	ボクに　ごめんなさいって？{Wait for input}{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 20}そういえば　ボク{pause 20}	あのコと　ケンカしてたかも？{Wait for input}{emote: Worry}うぅ～ん、	スッカリ　わすれてたよぉ{pause 40}	ボクも　ごめんなさいしなきゃぁ～
+"003"	{emote: Curious}あれぇ？{pause 40}	この　{0011-0003-0002-0000}{pause 20}	どこかで{ruby (charSpan 1): み}見たような{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Inspired}{0007-000b-0000}あぁ～！{pause 40}	ボクが　{0011-0001-0002-0001}{0005-000d-0000}に	かしてたやつだ～
+"004"	{emote: Alarmed}{0007-000b-0000}あぁ、{pause 20}{0011-0003-0002-0000}！{pause 20}	{emote: Happiness}そっか{pause 20}、あのコのところに	わすれてたんだねぇ～
+"005"	{0011-0001-0002-0001}{0005-000d-0000}とこに、{pause 20}	ボクのにもつが	とどいちゃったの？{Wait for input}{emote: Happiness}えへへ～{pause 20}	おドジな　ゆうびんやさんだねぇ{Wait for input}{emote: Alarmed}{0007-000b-0000}って、{pause 20}あれ？{pause 40}	ほうそう{ruby (charSpan 1): し}紙が	やぶられてる{pause 8}・{pause 8}・{pause 8}・{000f-0000-0004-0000-0000}	ごめん！	{ruby (charSpan 1): し}知らないなぁ・・・
+"006"	{emote: Inspired}{0007-000b-0000}あぁ～！{pause 40}	{0011-0001-0002-0001}{0005-000d-0000}に	たのんだやつだぁ～{Wait for input}{emote: Sunny}さすが　{0011-0001-0002-0001}{0005-000d-0000}！{pause 20}	おしごとが　{ruby (charSpan 1): はや}早いなぁ～{Wait for input}{emote: Alarmed}{0007-000b-0000}って、{pause 40}	ほうそう{ruby (charSpan 1): し}紙が	やぶられてる{pause 8}・{pause 8}・{pause 8}・{000f-0000-0004-0000-0000}	{ruby (charSpan 1): じつ}実は・・・	{ruby (charSpan 1): し}知らないなぁ・・・
+"007"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 20}	おとどけしてくれて	どうも　ありがとぉ～！
+"008"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 20}	おとどけしてくれて	ありがとぉ～！{Wait for input}{emote: Shyness}キミのおかげで{pause 20}	なかなおりできる	{ruby (charSpan 1): き}気がするよぉ、{pause 8}{catchphrase}
+"009"	でも{pause 8}・{pause 8}・{pause 8}・
+"010"	{emote: Thought}このプレゼント{pause 20}	ほうそう{ruby (charSpan 1): し}紙が　もうやぶられてたのは	なんでだろ{pause 8}・{pause 8}・{pause 8}・{000f-0000-0004-0000-0000}	{ruby (charSpan 1): じつ}実は・・・	{ruby (charSpan 1): し}知らないよ
+"011"	{emote: Happiness}まぁ、いっか！{pause 40}	だいじなのは　なかみ	だもんね！{Wait for input}{emote: Greetings}{Player nickname (green)}{0005-000d-0000}{pause 20}	おとどけ　ホントに	ありがとぉ～
+"012"	{emote: Agreement}まぁ　いっか！{pause 40}	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}！{pause 20}	{ruby (charSpan 2): きょう}今日は　ありがとぉ～
+"013"	{emote: Alarmed}{0007-000b-0000}えぇ～？！{pause 40}	キミが　あけちゃったのぉ？！
+"014"	{emote: Sadness}うぅ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ほうそう{ruby (charSpan 1): し}紙を　やぶくの	{ruby (charSpan 1): たの}楽しみだったのになぁ～{Wait for input}{emote: Anger}もぉ～{pause 20}　つぎからは	{ruby (charSpan 1): き}気をつけてよねぇ、{pause 8}{catchphrase}
+"015"	{emote: Anger}もぉ～　{Player nickname (green)}{0005-000d-0000}！{pause 40}	つぎからは	やっちゃだめだよぉ～？{Wait for input}{emote: Reset}まぁ{pause 20}　{ruby (charSpan 2): こんかい}今回は	{ruby (charSpan 2): しょうじき}正直に　お{ruby (charSpan 1): はな}話ししてくれたし、{pause 20}	ゆるしてあげる～{Wait for input}{emote: Happiness}せっかく　もってきてくれたんだし、{pause 20}	おれいも　あげちゃお～っと！
+"016"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 20}	ありがとねぇ～
+"017"	{emote: Thought}でも{pause 20}　{ruby (charSpan 1): なか}中がむき{ruby (charSpan 1): だ}出しって	ちょっと　ヘンだなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sunny}まぁ、{pause 20}いっか！{Wait for input}{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 20}	おとどけしてくれて	ありがとぉ～
+"018"	{emote: Happiness}おとどけしてくれて	ありがとぉ、{pause 8}{catchphrase}
+"019"	{emote: Glee}{ruby (charSpan 1): み}見つかってよかったぁ～{pause 40}	{Player nickname (green)}{0005-000d-0000}、	おとどけ　ありがとぉ～
+"020"	{emote: Shyness}でもね、{pause 40}じつは　コレ{pause 20}	なくしたと{ruby (charSpan 1): おも}思って	{ruby (charSpan 1): か}買い{ruby (charSpan 1): なお}直しちゃったんだぁ～
+"021"	{emote: Sheepishness}ま、{pause 20}まぁ{pause 20}　{ruby (charSpan 1): なか}中はぶじで	よかったよぉ～
+"022"	{emote: Worry}えぇ～{pause 40}	キミが　あけちゃったのぉ？
+"023"	{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Laughter}もぉ～！{pause 20}　{Player nickname (green)}{0005-000d-0000}ったら{pause 20}	あせって　あけちゃったんだねぇ！{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}じつは　このにもつ{pause 20}	キミへの　プレゼント	だったんだぁ～
+"024"	{0011-0003-0002-0000}だよぉ～{Wait for input}{emote: Flourish}わぁ～い！{pause 20}	ドッキリ　{ruby (charSpan 1): だい}大せいこう～	{pause 8}・{pause 8}・{pause 8}・{pause 60}かな？
+"025"	{emote: Anger}そういうことは{pause 20}	いくら　{ruby (charSpan 2): しんゆう}親友だからって	やっちゃいけないんだよぉ～？
+"026"	{emote: Anger}もぉ～！{pause 40}	ボクのことが　{ruby (charSpan 1): き}気になるからって、{pause 20}	にもつを　あけちゃダメだよぉ？！
+"027"	{emote: Resigned}はぁ～{pause 20}　でも、{pause 20}	{ruby (charSpan 2): しょうじき}正直に　{ruby (charSpan 1): い}言ってくれたから{pause 20}	ゆるしてあげるね
+"028"	{emote: Sadness}もぉ～{pause 20}　ヒドイよ～{pause 40}	プレゼントをあける　{ruby (charSpan 1): たの}楽しみを	うばっちゃうんだもん{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}でも　{pause 20}{ruby (charSpan 2): こんかい}今回だけは、{pause 20}	とくべつに　ゆるしてあげるね
+"029"	{emote: Reset}もう　かってに	あけちゃダメだよ？
+"030"	{emote: Happiness}しかも、{pause 20}やさしいボクは{pause 20}	もってきてくれた　おれいも	あげちゃうねぇ、{pause 8}{catchphrase}
+"031"	{0011-0003-0002-0001}だよぉ！{pause 40}	{Player nickname (green)}{0005-000d-0000}{pause 20}	おとどけ　ありがとねぇ

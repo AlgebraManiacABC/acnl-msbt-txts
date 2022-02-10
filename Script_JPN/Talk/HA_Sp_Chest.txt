@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Alarmed}
-"003"	{emote: Anger}
-"004"	{emote: Alarmed}
-"005"	{emote: Surprise}
-"006"	{emote: Worry}
-"007"	{emote: Anger}
-"008"	{emote: Sadness}
-"009"	{emote: Happiness}
-"010"	{emote: Laughter}
-"011"	{emote: Laughter}
+"001"	{emote: Surprise}{0007-000b-0000}おー！	{0011-0003-0002-0000}！{pause 40}	そんなの　よく{ruby (charSpan 1): み}見つけてきたなー？{Wait for input}{emote: Happiness}それ　あんまり{ruby (charSpan 1): つか}使わないし、	オマエにやるよ！{000f-0005-0004-0000-0028}	もらっとく！	いらな～い
+"002"	{emote: Alarmed}あー{pause 20}	{0011-0003-0002-0000}が{ruby (charSpan 1): で}出てきたのかー{Wait for input}{emote: Happiness}それ　オマエに　やるよー{pause 40}	トレーニングのじゃまだったんだ！{000f-0005-0004-0000-0028}	もらっとく！	いらな～い
+"003"	{emote: Anger}オイ！　{Player nickname (green)}！{pause 40}	よけいなところ　さわるなってー！{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}へ？{pause 20}	{0011-0003-0002-0000}？{Wait for input}{emote: Happiness}それだったら{pause 20}	ちょうど　{ruby (charSpan 1): お}置く{ruby (charSpan 2): ばしょ}場所に　こまってたし	あげるぞー？　{pause 8}{catchphrase}？{000f-0005-0004-0015-0028}	もらっとく！	いらな～い
+"004"	{emote: Alarmed}オマエ　{0011-0003-0002-0000}なんて	{ruby (charSpan 1): ひ}引っぱり{ruby (charSpan 1): だ}出してきて　どうすんだよ{Wait for input}{emote: Worry}また　しまうのめんどくさいし、{pause 20}	オマエ　それ	{ruby (charSpan 1): も}持って{ruby (charSpan 1): かえ}帰れー、{pause 8}{catchphrase}{000f-0005-0004-0015-0028}	もらっとく！	いらな～い
+"005"	{emote: Surprise}{0007-000b-0000}な、{pause 20}なにか　{ruby (charSpan 1): み}見つけたか？！{Wait for input}	{pause 20}{emote: Sigh}なんだ	{0011-0003-0002-0000}か{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}それ　リサイクルにでも	{ruby (charSpan 1): だ}出そうかなって{ruby (charSpan 1): おも}思ってたんだー{pause 40}	ほしいなら　やるぞー？{000f-0005-0004-0015-0028}	もらっとく！	いらな～い
+"006"	{emote: Worry}なーんだ	いらないのかー、{pause 8}{catchphrase}
+"007"	{emote: Anger}ちぇーーっ！{pause 20}	もらっとけば　いいのにさ、{pause 8}{catchphrase}
+"008"	{emote: Sadness}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	もらってくれよー
+"009"	{emote: Happiness}おー！{pause 20}	{ruby (charSpan 1): も}持って{ruby (charSpan 1): かえ}帰れー　{ruby (charSpan 1): も}持って{ruby (charSpan 1): かえ}帰れー
+"010"	{emote: Laughter}おー！{pause 20}	もらってくれて　うれしいぞ、{pause 8}{catchphrase}
+"011"	{emote: Laughter}オマエ　ラッキーだったなー！

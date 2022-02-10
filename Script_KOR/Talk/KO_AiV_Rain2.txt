@@ -1,8 +1,8 @@
 == 0 ==
-"001"	비가 {pause 8}
-"002"	{Greeting begin}
-"003"	{000a-0016-0006-04-06-00-07-00-ffffffcd}
-"004"	{Greeting begin}
-"005"	{Greeting begin}
-"006"	응?{pause 20}
-"007"	{Greeting begin}
+"001"	비가 {pause 8}안 그치네{pause 8}・{pause 8}・{pause 8}・{Wait for input}	너네 마을도 내렸어?{pause 20}	{catchphrase}?
+"002"	{Greeting begin}오호, {pause 8}{Player name}{Greeting end}!{Wait for input}	너무 뛰어다니면{pause 15}	미끄러져 넘어진다구, {pause 20}{catchphrase}
+"003"	{000a-0016-0006-0604-0700-cd00}
+"004"	{Greeting begin}어이, {pause 8}{Player name}{Greeting end}!{Wait for input}	{emote: Mischief}너 설마{pause 20}	길 잃어버린 거 아니지?{Wait for input}{emote: Reset}제대로 {Town name (pink)} 마을까지	갈 수 있겠냐?{pause 20} {catchphrase}?
+"005"	{Greeting begin}어이, {pause 8}{Player name}{Greeting end}!{Wait for input}	이런 빗속에서{pause 20}	아직 놀고 있는 거야?!{Wait for input}{emote: Happiness}대단하구만, {pause 20}{catchphrase}!
+"006"	응?{pause 20} {Player name} 아냐{Wait for input}	집에 돌아가면{pause 8} 우산 제대로 말려 놔,{pause 20}	{catchphrase}!
+"007"	{Greeting begin}어이, {pause 8}{Player name}{Greeting end}!{Wait for input}{emote: Alarmed}너 인마 우산도 안 쓰구 말이야{pause 20}	쫄딱 젖었잖아!{Wait for input}	{emote: Anger}감기 걸려도 난 모른다?{pause 20} {catchphrase}

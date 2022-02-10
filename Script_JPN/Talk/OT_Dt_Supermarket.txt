@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Thought}
-"002"	{emote: Thought}
-"003"	{emote: Soft Smile}
-"004"	{emote: Sheepishness}
-"005"	{emote: Worry}
+"001"	{emote: Thought}{pause 16}{ruby (charSpan 3): だいじょうぶ}大丈夫かしら、アタシ？{pause 32}	おばさんっぽく{pause 8}	{ruby (charSpan 1): み}見られてないかしら？
+"002"	{emote: Thought}{pause 16}あれも{ruby (charSpan 1): か}買って、{pause 16}これも{ruby (charSpan 1): か}買って{pause 8}・{pause 8}・{pause 8}・{pause 8}	ついでに　あれも{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}ここに{ruby (charSpan 1): く}来ると　なぜか{pause 16}	{ruby (charSpan 2): よけい}余計な{ruby (charSpan 1): もの}物まで　{ruby (charSpan 1): か}買っちゃうのよね～
+"003"	{emote: Soft Smile}ステキな　かべかけ{ruby (charSpan 2): かぐ}家具を{pause 8}	{ruby (charSpan 1): さが}探しに{ruby (charSpan 1): き}来たの、{pause 8}{catchphrase}
+"004"	{emote: Sheepishness}スーパーに{ruby (charSpan 1): く}来ると、{pause 16}	{ruby (charSpan 2): いろいろ}色々　{ruby (charSpan 1): か}買っちゃうのよね～{pause 32}	{emote: Mischief}{ruby (charSpan 1): おんな}女の{ruby (charSpan 1): さが}性かしら{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"005"	{emote: Worry}こないだ　{ruby (charSpan 1): し}知らないコに{pause 16}	「お{ruby (charSpan 1): かあ}母さん」って{pause 8}	{ruby (charSpan 2): まちが}間違えて　{ruby (charSpan 1): よ}呼ばれたの{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Thought}{pause 16}アタシ、{pause 8}そんな{ruby (charSpan 1): とし}歳に{ruby (charSpan 1): み}見えるかしら？	{pause 8}{catchphrase}？

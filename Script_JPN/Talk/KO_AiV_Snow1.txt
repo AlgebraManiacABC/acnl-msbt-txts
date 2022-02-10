@@ -1,13 +1,13 @@
 == 0 ==
-"001"	ん？！{pause 30}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Alarmed}
-"007"	{emote: Shocked}
-"008"	{emote: Alarmed}
-"009"	{emote: Alarmed}
-"010"	{0009-0000-0004-0b-00-0c-00}
-"011"	{emote: Reset}
-"012"	{emote: Reset}
+"001"	ん？！{pause 30}	{emote: Alarmed}{Player name}じゃねぇか！{pause 20}　{catchphrase}！
+"002"	{emote: Alarmed}もしかして	 {Player name}か？！{pause 20}　{catchphrase}？
+"003"	{emote: Alarmed}おおっ！{pause 30}	オメェ　{Player name}だろ？！{pause 20}	{catchphrase}！
+"004"	{emote: Alarmed}おいおい、{pause 8}オメェ{pause 20}	{Player name}じゃねぇか！{pause 20}　{catchphrase}！
+"005"	{emote: Alarmed}よぉーっ！{pause 30}	{Player name}じゃねぇか！{pause 20}	{catchphrase}！
+"006"	{emote: Alarmed}おう、{pause 8}{Player name}！{pause 30}	オメェ、{pause 8}こんな{ruby (charSpan 2): じかん}時間に	{ruby (charSpan 1): たず}訪ねて{ruby (charSpan 1): き}来てくれたのかい？	{emote: Happiness}{ruby (charSpan 2): ゆきふ}雪降る　{Town name (pink)}{ruby (charSpan 1): むら}村に	ようこそ、{pause 20}{catchphrase}！
+"007"	{emote: Shocked}わっ！{pause 20}　{Player name}か？！{pause 30}	{emote: Reset}こいつは　たまげたぜ！{Wait for input}{emote: Happiness}{ruby (charSpan 1): ゆき}雪ん{ruby (charSpan 1): なか}中、{pause 8}こんな{ruby (charSpan 2): よなか}夜中に{ruby (charSpan 1): たず}訪ねてくるたぁ、{pause 8}	オメェも{ruby (charSpan 2): ものず}物好きだな、{pause 20}	{emote: Laughter}がーっはっは！{pause 30}　{emote: Soft Smile}{catchphrase}！
+"008"	{emote: Alarmed}おお！{pause 30}	{emote: Reset}{ruby (charSpan 1): だれ}誰かと{ruby (charSpan 1): おも}思えば	{Player name}じゃねぇか！	{emote: Happiness}{ruby (charSpan 1): ゆき}雪{ruby (charSpan 1): ふ}降る{ruby (charSpan 2): よふ}夜更けに　{ruby (charSpan 1): たず}訪ねて{ruby (charSpan 1): く}来るたぁ、{pause 20}	やけに　ドラマチックな{ruby (charSpan 2): とうじょう}登場だぜ！{pause 20}	{catchphrase}！
+"009"	{emote: Alarmed}おうっ？！{pause 30}	オメェ　{Player name}だろ？！{pause 20}	{catchphrase}！
+"010"	{0009-0000-0004-000b-000c}
+"011"	{emote: Reset}このクソ{ruby (charSpan 1): さむ}寒い{ruby (charSpan 1): なか}中を　{ruby (charSpan 1): たず}訪ねて{ruby (charSpan 1): く}来るたぁ、{pause 20}	{ruby (charSpan 1): たい}大した{ruby (charSpan 2): こんじょう}根性だな{Wait for input}	{emote: Happiness}ま、{pause 15}ゆっくりしてってくれ、{pause 20}{catchphrase}
+"012"	{emote: Reset}{ruby (charSpan 1): ゆき}雪の　{Town name (pink)}{ruby (charSpan 1): むら}村を{pause 20}	{ruby (charSpan 2): ぞんぶん}存分に{ruby (charSpan 1): たの}楽しんでってくれ{Wait for input}くれぐれも　カゼひかねぇようにな、{pause 20}	{catchphrase}

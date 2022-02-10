@@ -1,18 +1,18 @@
 == 0 ==
-"001"	{emote: Thought}
-"002"	{emote: Sadness}
-"003"	{emote: Alarmed}
-"004"	{emote: Joy}
-"005"	{emote: Reset}
-"006"	{emote: Sigh}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{emote: Reset}
-"009"	{emote: Thought}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{0009-0001-0006-0f-00-10-00-11-00}
-"015"	{emote: Bashful}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
+"001"	{emote: Thought}ねぇ{pause 20}　もしかして　ボク、{pause 20}	「{catchphrase}」って	よく{ruby (charSpan 1): い}言ってる？　{pause 8}{catchphrase}？{Wait for input}{emote: Worry}コレ　ボクの{ruby (charSpan 1): くち}口ぐせなんだ{pause 8}・{pause 8}・{pause 8}・{pause 20}	でも　もっと　かっこいい{ruby (charSpan 1): くち}口ぐせが、	きっと　あるよねぇ？{Wait for input}{ruby (charSpan 1): なに}何か　{ruby (charSpan 1): あたら}新しい{ruby (charSpan 1): くち}口ぐせを	{ruby (charSpan 1): かんが}考えてよ、{Player nickname (green)}{0005-000d-0000}{Player can respond (0005):0004-0015-0003-0000}	オッケー！	そのままで！
+"002"	{emote: Sadness}さっき　{0005-0002-0000}{0005-000d-0000}に、{pause 20}	ボクの　{ruby (charSpan 1): くち}口ぐせ　ヘンだって	わらわれちゃったぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sorrow}うぅ～！{pause 20}	くやしぃよぉ！{Wait for input}{Player nickname (green)}{0005-000d-0000}、	{ruby (charSpan 1): あたら}新しい{ruby (charSpan 1): くち}口ぐせ　{ruby (charSpan 1): かんが}考えて～！{pause 20}	おねがいだよぉ！{Player can respond (0005):0004-0015-0003-0000}	まかせて	そのままで！
+"003"	{emote: Alarmed}{0007-000a-0000}えぇ～？！{pause 20}	それって、{pause 20}{ruby (charSpan 1): いま}今のままでも	{ruby (charSpan 2): じゅうぶん}十分　かっこいいってこと～？{Wait for input}{emote: Thought}そう{ruby (charSpan 1): い}言われると、{pause 20}	この{ruby (charSpan 1): くち}口ぐせも	かっこよく　{ruby (charSpan 1): おも}思えてきたよ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}よ～っし！{pause 20}	このまま　つかっちゃお～っと！
+"004"	{emote: Joy}わぁ～い！　やったぁ～！{pause 40}	{Player nickname (green)}{0005-000d-0000}のセンス、{pause 20}	{ruby (charSpan 1): だい}大バクハツさせちゃってねぇ～{pause 8}{emote: Happiness}
+"005"	{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 8}「{catchphrase}」{pause 20}	で　いいのぉ？{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	そうだよ！	ちがうね！
+"006"	{emote: Sigh}やっぱり　そっかぁ～{pause 20}	コレは　ちがうって{ruby (charSpan 1): おも}思ったんだぁ{pause 40}	もう{ruby (charSpan 2): いっかい}一回　たのむよぉ
+"007"	{0009-0000-0004-0008-0009}
+"008"	{emote: Reset}「{catchphrase}」{pause 8}・{pause 8}・{pause 8}・{pause 20}	か{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Glee}かっこいい～！！{Wait for input}さすが　{Player nickname (green)}{0005-000d-0000}だぁ～{pause 20}	ボクこれからは　かっこいい{ruby (charSpan 1): くち}口ぐせと	ともに　{ruby (charSpan 1): い}生きていくよぉ、{pause 8}{catchphrase}
+"009"	{emote: Thought}「{catchphrase}」{pause 8}・{pause 8}・{pause 8}・{Wait for input}	ふりかえって　{ruby (charSpan 2): ひとこと}一言{pause 20}	{emote: Pride}「{catchphrase}」{Wait for input}{emote: Laughter}いいねぇ～{pause 40}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入っちゃったよぉ～！{pause 20}	ありがたく　つかわせてもらうねぇ～{pause 8}{emote: Happiness}
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Happiness}ムリに{ruby (charSpan 2): じぶん}自分をかえたって	ダメだよねぇ～{Wait for input}{ruby (charSpan 2): きょう}今日は　ボク{pause 20}　キミのおかげで	ちょっと　オトナになれた	{ruby (charSpan 1): き}気がするよぉ、{pause 8}{catchphrase}
+"012"	{emote: Happiness}ホントはボクも　この{ruby (charSpan 1): くち}口ぐせ	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってたんだぁ、{pause 8}{catchphrase}
+"013"	{emote: Happiness}しばらくは　{ruby (charSpan 1): いま}今の{ruby (charSpan 1): くち}口ぐせを	{ruby (charSpan 2): たいせつ}大切にするよぉ、{pause 8}{catchphrase}
+"014"	{0009-0001-0006-000f-0010-0011}
+"015"	{emote: Bashful}なんだか　{ruby (charSpan 1): あたら}新しい{ruby (charSpan 2): じぶん}自分に	{ruby (charSpan 1): う}生まれかわった　{ruby (charSpan 2): きぶん}気分だよぉ～{Wait for input}{emote: Happiness}ニュー{Villager's name (orange)}を	よろしくねぇ、{pause 8}{catchphrase}！
+"016"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 20}	ありがとぉ、{pause 8}{catchphrase}！{pause 40}	みんなに　じまんしちゃお～っと！
+"017"	{emote: Happiness}お{ruby (charSpan 1): はなし}話　{ruby (charSpan 1): き}聞いてくれて	ありがとぉ、{pause 8}{catchphrase}！

@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Happiness}
-"003"	{Player name}
+"001"	{emote: Alarmed}あら、{pause 8}{Player name}{0005-000d-0000}{pause 12}	{emote: Reset}どうしたの？　{pause 8}{catchphrase}？
+"002"	{emote: Happiness}{Greeting begin}あら、{pause 8}{Player name}{0005-000d-0000}{Greeting end}{pause 12}	{ruby (charSpan 1): なに}何か　ご{ruby (charSpan 1): よう}用かしら？　{pause 8}{catchphrase}？
+"003"	{Player name}{0005-000d-0000}、{pause 8}	{ruby (charSpan 1): なに}何か　お{ruby (charSpan 1): はなし}話でもあるの？	{pause 8}{catchphrase}？

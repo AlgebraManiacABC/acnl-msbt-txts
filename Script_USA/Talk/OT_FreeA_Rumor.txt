@@ -1,69 +1,69 @@
 == 0 ==
-"001"	{emote: Sleep Bubble}
-"002"	{emote: Alarmed}
-"003"	{emote: Curious}
-"004"	{capitalized}
-"005"	{emote: Daydreaming}
-"006"	{emote: Curious}
-"007"	{emote: Delight}
-"008"	{emote: Thought}
-"009"	{emote: Thought}
-"010"	{emote: Thought}
-"011"	Guess what {0011-0000-0002-00-00}
-"012"	{emote: Soft Smile}
-"013"	{emote: Surprise}
-"014"	{emote: Joy}
-"015"	{emote: Soft Smile}
-"016"	{emote: Surprise}
-"017"	{emote: Surprise}
-"018"	
-"019"	
-"020"	
-"021"	{emote: Star Yell}
-"022"	{emote: Worry}
+"001"	{emote: Sleep Bubble}I'm going to close my eyes and	guess what you want for your	birthday{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Surprise}Ah! {pause 16}"{capitalized}{0012-0014-0000},"{pause 8}	is that right? {pause 16}Well, {emote: Curious}{pause 8}do you think it'll	come true?{Player can respond (0005):0015-0015-0016-0028}	Yes, I think so!	It's not looking good.
+"002"	{emote: Alarmed}There's a rumor going around that	you're {Article(word-dependant)}{Player rumor}{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Thought}As far as rumors go,{pause 8} that's not	half bad. {pause 16}{emote: Worry}I've certainly been called	worse.
+"003"	{emote: Curious}You know what {0011-0000-0002-0000} wants	for {000e-0005-0010-0006-0068-0069-0073-0006-0068-0065-0072} birthday?{pause 16} Go on,{pause 8} guess!{Wait for input}{emote: Happiness}If you guessed	"{capitalized}{0012-0014-0000},"{pause 8}	you're right!
+"004"	{capitalized}{0011-0000-0002-0000}'s birthday is coming up;{pause 8}	{emote: Curious}have you thought about what you're	going to get {000e-0005-0010-0006-0068-0069-006d-0006-0068-0065-0072}?	{emote: Thought}I know {000e-0005-000e-0004-0068-0065-0006-0073-0068-0065} likes {0005-0012-0002-0000},{pause 8}	so maybe a gift relating to that	would be a good idea.
+"005"	{emote: Daydreaming}I've been thinking a lot about	{0011-0000-0002-0000}'s birthday.{pause 16} It's coming	up, {pause 8}you know.	{emote: Worry}I want to pick out the perfect gift.{pause 16}	Something unexpected,{pause 8} but	delightful. {pause 16}{capitalized}{catchphrase}{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"006"	{emote: Curious}Did you know that {0011-0000-0002-0000}'s	birthday is tomorrow?{pause 16} {emote: Distress}And I still	haven't found a gift!	{emote: Thought}I know {000e-0005-000e-0004-0068-0065-0006-0073-0068-0065} likes {0005-0012-0002-0000}.{pause 16}	Maybe that's where I should start{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"007"	{emote: Delight}It's {0011-0000-0002-0000}'s birthday today!{pause 16}	{emote: Curious}Are you excited for the party?{pause 16} I	sure am!	I hope you picked out a good gift.{pause 16}{emote: Mischief} I	think {0011-0000-0002-0000} is really going to	like what I'm bringing{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"008"	{emote: Thought}You know, {pause 8}I haven't seen {0011-0000-0002-0000}	around {Town name (pink)} lately.{pause 16}{emote: Disbelief} Isn't {000e-0005-000e-0004-0068-0065-0006-0073-0068-0065}	the mayor?	{emote: Worry}If I didn't show up to work for a	month, {pause 8}I'm pretty sure I'd lose my	job.{pause 16}{emote: Anger} What makes {000e-0005-0010-0006-0068-0069-006d-0006-0068-0065-0072} so special?
+"009"	{emote: Thought}I just realized that I haven't seen	{0011-0000-0002-0000} in ages.{pause 16}{emote: Curious} I wonder where	{000e-0005-0016-0008-0068-0065-0027-0073-000a-0073-0068-0065-0027-0073} been.	If you see {000e-0005-0010-0006-0068-0069-006d-0006-0068-0065-0072}, {pause 8}can you give {000e-0005-0010-0006-0068-0069-006d-0006-0068-0065-0072} a	message? {emote: Worry}"{capitalized}{catchphrase}, I miss	you!"
+"010"	{emote: Thought}For some reason,{pause 8} {0011-0000-0002-0000} has	always reminded me of you.{Wait for input}{emote: Curious}Is it because you're both smart and	funny? {pause 40}Nah.{pause 16}{emote: Laughter} I think you both have	the same shirt or something.
+"011"	Guess what {0011-0000-0002-0000} wants for	{000e-0005-0010-0006-0068-0069-0073-0006-0068-0065-0072} birthday. {Wait for input}Give up?{pause 16} {000e-0005-000e-0004-0048-0065-0006-0053-0068-0065} wants	"{0012-0014-0000}."	{emote: Happiness}I think it would be really nice if we	could make that wish come true.{Wait for input}{emote: Curious}What do you think,{pause 8} {Player nickname (green)}?{pause 16} Can	you help me let people in	{Town name (pink)} know?	{emote: Agreement}I think the more people know,{pause 8} the	more likely it is to happen.
+"012"	{emote: Soft Smile}In case {0011-0000-0002-0000} hasn't told you	{000e-0005-0020-000e-0068-0069-006d-0073-0065-006c-0066-000e-0068-0065-0072-0073-0065-006c-0066},{pause 8} {000e-0005-0010-0006-0068-0069-0073-0006-0068-0065-0072} birthday is the {Date-cd00} of	next month!	{emote: Thought}I think {0011-0000-0002-0000} is a little bit shy	about telling people, {pause 8}so I thought I'd	spread the word.	{emote: Glare}Pick out a thoughtful gift,{pause 8} and I'll	see you at the party.{pause 16} {emote: Delight}{capitalized}{catchphrase}!
+"013"	{emote: Surprise}Hey, {pause 8}it's almost {0011-0000-0002-0000}'s	birthday! {pause 16}You know what that	means,{pause 8} right?{emote: Delight}{pause 16} Shopping!	{emote: Thought}It would be nice to have more time	to shop, {pause 8}but {0011-0000-0002-0000} was shy	about when the party would be.	{emote: Resigned}Oh well, {pause 8}that just means it's time	for a turbocharged shopping spree.{pause 16}{emote: Sunny}	{capitalized}{catchphrase}!
+"014"	{emote: Joy}It's {0011-0000-0002-0000}'s birthday	tomorrow!{pause 16}{emote: Delight} I'm probably more	excited than {000e-0005-000e-0004-0068-0065-0006-0073-0068-0065} is!	{emote: Alarmed}Oh! {pause 16}{emote: Curious}Do you still need to pick out a	gift?{pause 16} Well,{pause 8} you have a little time.{Wait for input}{emote: Anger}Just don't hand {0011-0000-0002-0000} a couple	Bells and call it good, {pause 8}OK? {pause 16}That's	one of my pet peeves.
+"015"	{emote: Soft Smile}You know that today is {0011-0000-0002-0000}'s	birthday,{pause 8} right?{pause 16}{emote: Curious} Did you get {000e-0005-0010-0006-0068-0069-006d-0006-0068-0065-0072} a	gift?	{emote: Thought}I think {000e-0005-0016-0008-0068-0065-0027-0064-000a-0073-0068-0065-0027-0064} really appreciate some	small token. {pause 16}{emote: Agreement}Remember,{pause 8} it's the	thought that counts.
+"016"	{emote: Surprise}{capitalized}{Player nickname (green)}!{pause 16}{emote: Distress} I have to tell you about	this weird dream I had the other	night.	{emote: Daydreaming}There was this person named	{0011-0000-0002-0000} who was kind of	{Article(word-dependant)}{0011-0004-0002-0000}.	{emote: Alarmed}{capitalized}{catchphrase}!{pause 16} I wonder if I'll ever	see them again{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"017"	{emote: Surprise}Oh!{pause 16} I just remembered a dream I've	been meaning to tell you about.{pause 16}{emote: Curious} You	know {0011-0000-0002-0000} from {0011-0002-0002-0000}?	{emote: Daydreaming}Well, {pause 8}I dreamed that {000e-0005-000e-0004-0068-0065-0006-0073-0068-0065} was	{Article(word-dependant)}{0011-0004-0002-0000}. {pause 16}{emote: Laughter}Isn't	that weird?
+"018"
+"019"
+"020"
+"021"	{emote: Star Yell}{capitalized}{catchphrase}, {pause 8}that's great news!{pause 16}	{emote: Sheepishness}I'd like to think that I helped play	some small part in your success{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"022"	{emote: Worry}Well, {pause 8}don't give up hope yet.{pause 16}{emote: Shyness} I'm	still rooting for you!
 == 1 ==
-"001"	{emote: Daydreaming}
-"002"	{emote: Alarmed}
-"003"	{emote: Shyness}
-"004"	¡Pronto será el cumpleaños de	{0011-0000-0002-00-00}
-"005"	{emote: Daydreaming}
-"006"	{emote: Distress}
-"007"	{emote: Delight}
-"008"	{emote: Thought}
-"009"	{emote: Thought}
-"010"	{emote: Thought}
-"011"	{emote: Curious}
-"012"	{emote: Soft Smile}
-"013"	{emote: Surprise}
-"014"	{emote: Joy}
-"015"	{emote: Soft Smile}
-"016"	{emote: Surprise}
-"017"	{emote: Surprise}
-"018"	
-"019"	
-"020"	
-"021"	{emote: Star Yell}
-"022"	{emote: Worry}
+"001"	{emote: Daydreaming}Me han contado que el deseo que	pediste el día de tu cumpleaños es	"{0012-0014-0000}".	{emote: Curious}¿Crees que se hará realidad, cielín?{Player can respond (0005):0015-0015-0016-0028}	¡Por supuesto!	Es difícil
+"002"	{emote: Alarmed}Circula el rumor de que eres	{Article(word-dependant)}{Player rumor},	cariñín{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Thought}Últimamente todo el mundo habla	de ti. Supongo que eso es bueno.
+"003"	{emote: Shyness}¿Sabes cuál es el deseo que pidió	{0011-0000-0002-0000} en su cumpleaños?	"{capitalized}{0012-0014-0000}".	{emote: Joy}Ojalá se haga realidad.
+"004"	¡Pronto será el cumpleaños de	{0011-0000-0002-0000}!{pause 8} {emote: Curious}¿Ya has pensado qué	le vas a regalar?	{emote: Thought}Le encanta {0005-0012-0002-0000}.	Si le compras algo relacionado	con ello, seguro que le gusta.
+"005"	{emote: Daydreaming}Llevo días dándole vueltas al	cumpleaños de {0011-0000-0002-0000}, cielín.	Es dentro de muy poco.	{emote: Worry}Quiero el regalo perfecto. Algo que	no se espere y que le haga mucha	ilusión.
+"006"	{emote: Distress}¡El cumpleaños de {0011-0000-0002-0000} es	mañana y aún no le he comprado	ningún regalo!	{emote: Thought}Debería buscar algo relacionado	con {0005-0012-0002-0000}, es su	pasatiempo favorito.
+"007"	{emote: Delight}¡Hoy es el cumpleaños de	{0011-0000-0002-0000}!{pause 16} Estoy muy nerviosa	por la fiesta.	{emote: Happiness}¡Espera a que vea mi regalo, no	podría haberle comprado nada	mejor!
+"008"	{emote: Thought}¿Cuánto hace que no veo a	{0011-0000-0002-0000}? Más de un mes...{pause 16}{emote: Disbelief}	¡Y eso que es {000e-0005-0030-0014-0065-006c-0020-0061-006c-0063-0061-006c-0064-0065-0018-006c-0061-0020-0061-006c-0063-0061-006c-0064-0065-0073-0061}!	{emote: Worry}Si tuviera otro tipo de trabajo,	ya l{000e-0005-0008-0002-006f-0002-0061} habrían despedido.
+"009"	{emote: Thought}Acabo de darme cuenta de que	hace mucho tiempo que no veo	a {0011-0000-0002-0000}.	¿Dónde se habrá metido?{pause 20} Si l{000e-0005-0008-0002-006f-0002-0061} ves,	dile que dé señales de vida, por	favor.
+"010"	{emote: Thought}No sé por qué,{pause 8} pero {0011-0000-0002-0000} me	recuerda mucho a ti.{Wait for input}{emote: Curious}¿Será porque es tan divertid{000e-0005-0008-0002-006f-0002-0061} como	tú? {pause 40}No...{pause 16}{emote: Laughter} Creo que es porque lleváis	la misma camiseta, ja, ja.
+"011"	{emote: Curious}El deseo que {0011-0000-0002-0000} pidió	el día de su cumpleaños es	"{0012-0014-0000}".	{emote: Happiness}Me encantaría poder ayudarl{000e-0005-0008-0002-006f-0002-0061} a	cumplirlo, ¿a ti no?{pause 20} Podríamos	difundirlo por todo el pueblo.	{emote: Agreement}Cuantos más lo sepan, más fácil	será que se haga realidad.
+"012"	{emote: Soft Smile}No sé si {0011-0000-0002-0000} te lo ha dicho,	pero el día {Date-cd00} del próximo mes	será su cumpleaños.	{emote: Thought}Es un poco tímid{000e-0005-0008-0002-006f-0002-0061} y no le gusta	contar estas cosas, así que lo hago	yo por {000e-0005-0010-0004-00e9-006c-0008-0065-006c-006c-0061}.	{emote: Glare}¡Espero que vengas a la fiesta	con un regalo maravilloso,	{catchphrase}!
+"013"	{emote: Surprise}¡Se acerca el cumpleaños de	{0011-0000-0002-0000}! {pause 16}Ya sabes lo que eso	significa...{emote: Delight}{pause 16} ¡Ir de compras!	{emote: Thought}Me gustaría disponer de más tiempo	para prepararme como es debido,	pero se hará lo que se pueda.	{emote: Joy}En fin, no puedo entretenerme más.	¡Me voy de compras, {catchphrase}!
+"014"	{emote: Joy}¡Mañana es el cumpleaños de	{0011-0000-0002-0000}! Qué rápido pasa	el tiempo...	{emote: Happiness}Si aún no tienes el regalo, será	mejor que te des prisa.{Wait for input}Y no le compres cualquier cosa,{emote: Greetings}	los regalos deben ser especiales.
+"015"	{emote: Soft Smile}¿Sabes que hoy es el cumpleaños	de {0011-0000-0002-0000}?{emote: Curious} Le has comprado	un regalo, ¿verdad?	{emote: Soft Smile}A {000e-0005-0010-0004-00e9-006c-0008-0065-006c-006c-0061} le hará mucha ilusión, aunque	sea algo simbólico.
+"016"	{emote: Surprise}¡{capitalized}{Player nickname (green)}!{pause 16}{emote: Distress} La otra noche tuve	un sueño extrañísimo.{pause 20} Conocí a	{000e-0012-0012-000d-0004-0075-006e-0006-0075-006e-0061-0000} tal {0011-0000-0002-0000}.	Era agradable y tod{000e-0005-0008-0002-006f-0002-0061} {Article(word-dependant)}	{0011-0004-0002-0000}.{pause 20} Quién	sabe si volveré a verl{000e-0005-0008-0002-006f-0002-0061}.{pause 8}..
+"017"	{emote: Surprise}Ah, cielín.{pause 16}{emote: Curious} Conoces a {0011-0000-0002-0000} de	{capitalized}{0011-0002-0002-0000}, ¿verdad?{pause 20} {emote: Happiness}¡Pues soñé	con {000e-0005-0010-0004-00e9-006c-0008-0065-006c-006c-0061} la otra noche!	{emote: Daydreaming}En mi sueño estaba hech{000e-0005-0008-0002-006f-0002-0061} {Article(word-dependant)}	{0011-0004-0002-0000}. Muy	raro, ¿no?
+"018"
+"019"
+"020"
+"021"	{emote: Star Yell}¿En serio? ¡Pues me alegro,	{catchphrase}! {pause 8}Si puedo ayudarte	en algo, solo tienes que pedirlo.
+"022"	{emote: Worry}Vamos, no te rindas.{pause 20}{emote: Agreement} Todo puede	conseguirse con esfuerzo y	dedicación.
 == 2 ==
-"001"	{emote: Daydreaming}
-"002"	{emote: Alarmed}
-"003"	{emote: Thought}
-"004"	L'anniversaire {<06>de <04>d'}{0011-0000-0002-00-00}
-"005"	{emote: Worry}
-"006"	{emote: Curious}
-"007"	{emote: Delight}
-"008"	{emote: Thought}
-"009"	{emote: Thought}
-"010"	{emote: Thought}
-"011"	{emote: Curious}
-"012"	{emote: Soft Smile}
-"013"	{emote: Glee}
-"014"	{emote: Joy}
-"015"	{emote: Soft Smile}
-"016"	{emote: Surprise}
-"017"	{emote: Surprise}
-"018"	
-"019"	
-"020"	
-"021"	{emote: Star Yell}
-"022"	{emote: Worry}
+"001"	{emote: Daydreaming}Tu avais bien souhaité	{0012-0014-0000} pour	ton anniversaire,{pause 15} n'est-ce pas?	{emote: Curious}Penses-tu vraiment que ton vœu va	se réaliser?{Player can respond (0005):0015-0015-0016-0028}	Oui, bien sûr!	Je n'en suis pas sûr{/e}...
+"002"	{emote: Alarmed}Sais-tu qu'il y a une rumeur qui	court sur toi qui dit que tu serais	{Article(word-dependant)}{Player rumor}?	{emote: Soft Smile}Enfin ne t'inquiète pas,{pause 20} ce n'est pas	trop grave comme rumeur. {pause 30}{emote: Mistaken}Si tu	savais ce que j'ai entendu sur moi!
+"003"	{emote: Thought}{pause 20}Il me semble {que /qu'}{0011-0000-0002-0000} a fait	un vœu,{pause 8} le jour de son anniversaire.{pause 32}{emote: Curious}	Qu'était-ce déjà?	{emote: Joy}Ah oui! {pause 20}C'était	{0012-0014-0000},{pause 20}	je m'en souviens, maintenant...
+"004"	L'anniversaire {de /d'}{0011-0000-0002-0000}	approche.{pause 32} {emote: Curious}As-tu déjà pensé au	cadeau que tu allais lui faire, {pause 8}toi?	{emote: Thought}Je sais que dernièrement {000e-0005-0010-0004-0069-006c-0008-0065-006c-006c-0065} voulait	se mettre à {0005-0012-0002-0000}.{Wait for input}{emote: Daydreaming}Alors peut-être faudrait-il quelque	chose en rapport avec ça?
+"005"	{emote: Worry}Je ne sais toujours pas quoi offrir à	{0011-0000-0002-0000} pour son anniversaire, et	je n'ai plus énormément de temps...	{emote: Daydreaming}Je voudrais lui faire un cadeau qui	soit à la fois classique et original,	{catchphrase}{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"006"	{emote: Curious}{pause 16}Sais-tu {que /qu'}{0011-0000-0002-0000} fête son	anniversaire demain?{pause 30} {emote: Distress}Et moi qui	n'ai toujours pas de cadeau!	{emote: Thought}Voyons{pause 8}.{pause 8}.{pause 8}.{pause 8} Je sais qu'{000e-0005-0010-0004-0069-006c-0008-0065-006c-006c-0065} aime	{0005-0012-0002-0000}.{pause 8} Je devrais	creuser de ce côté-là{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"007"	{emote: Delight}C'est l'anniversaire {de /d'}{0011-0000-0002-0000}	aujourd'hui!{pause 20} Toi aussi tu vas à sa	petite fête?	J'espère que tu as pensé à lui faire	un cadeau.{pause 16}{emote: Mischief} Je suis certaine qu'{il/elle/}	va a{pause 12}do{pause 12}rer le mien!
+"008"	{emote: Thought}Je suis inquiète, tu sais. {pause 20}Cela fait	longtemps que je n'ai pas vu	{0011-0000-0002-0000}.	{emote: Disbelief}Mais enfin, {pause 30}c'est pourtant {lui le/elle la/}	maire!{Wait for input}{emote: Worry}Si c'était moi qui étais absente	pendant un mois, {pause 20}je suis prête à	parier que je perdrais mon travail.	{emote: Alarmed}{pause 15}Comment? {pause 30}Ah,{emote: Soft Smile} {pause 15}oui!{pause 20} Non. {pause 30}Je ne	travaille pas. {pause 30}{emote: Happiness}C'était juste une	image, {pause 16}une façon de parler{pause 8}.{pause 8}.{pause 8}.{pause 8}	Moi,{pause 20} travailler{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Laughter} Hi hi! {pause 20}Quelle idée{pause 8}.{pause 8}.{pause 8}.
+"009"	{emote: Thought}Maintenant que j'y pense, {pause 20}cela fait	un long moment que je n'ai pas vu	{0011-0000-0002-0000}, {catchphrase}.	J'aimerais bien savoir où {000e-0005-0010-0004-0069-006c-0008-0065-006c-006c-0065} est	passé{000e-0005-0006-0000-0002-0065}{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Soft Smile}Si tu {000e-0005-000c-0004-006c-0065-0004-006c-0061} voyais, {pause 8}pourrais-tu	lui dire qu'{000e-0005-0010-0004-0069-006c-0008-0065-006c-006c-0065} me manque?
+"010"	{emote: Thought}Je ne sais pas pourquoi,{pause 15} mais tu me	rappelles beaucoup {0011-0000-0002-0000}.{Wait for input}{emote: Daydreaming}C'est peut-être parce que vous êtes	drôles et sympathiques?{Wait for input}Non{pause 8}.{pause 8}.{pause 8}.{pause 16}{emote: Laughter} Ce doit plutôt être parce que	vous avez le même t-shirt ou	quelque chose comme ça...
+"011"	{emote: Curious}Sais-tu quel vœu {0011-0000-0002-0000} a fait	le jour de son anniversaire?{pause 45}	{capitalized}{0012-0014-0000}.	{emote: Happiness}Nous pourrions peut-être l'aider à	réaliser son rêve.{Wait for input}{emote: Curious}Qu'en dis-tu,{pause 8} {Player nickname (green)}?{pause 30} Crois-tu	que nous devrions en parler aux	autres habitants?	{emote: Agreement}Je pense que plus de gens le	sauront, {pause 15}plus nous aurons d'aide	pour ce beau projet...
+"012"	{emote: Soft Smile}Au cas où {0011-0000-0002-0000} ne te l'aurait	pas déjà dit, son anniversaire aura	lieu le {Date-cd00} du mois prochain.	{emote: Glare}Alors j'espère que tu pourras venir	ce jour-là pour le lui souhaiter en lui	offrant un petit cadeau.
+"013"	{emote: Glee}Il ne reste plus que quelques jours	avant l'anniversaire {de /d'}{0011-0000-0002-0000}.{Wait for input}{emote: Delight}{pause 20}Pour une fois, {pause 20}j'aurai une bonne	excuse pour faire du shopping, {pause 20}mais	{emote: Thought}ça risque d'être un peu juste.	{emote: Agreement}J'aurais bien aimé avoir davantage	de temps pour lui préparer une	petite surprise, {catchphrase}.
+"014"	{emote: Joy}{pause 16}Demain,{pause 16} ce sera l'anniversaire	{de /d'}{0011-0000-0002-0000}.{pause 30}{emote: Delight} Je suis probablement	plus impatiente {que lui/qu'elle/} d'y être.	{emote: Inspired}Au fait! {pause 30}As-tu un cadeau à lui offrir,	au moins?{pause 30} Sinon,{emote: Soft Smile}{pause 20} il est encore	temps de lui en chercher un.	{emote: Soft Smile}Je {le/la/} connais, {pause 20}{il/elle/} n'acceptera pas	d'argent. {pause 30}Si tu veux lui faire plaisir,{pause 20}{emote: Agreement}	cours lui trouver une surprise.
+"015"	{emote: Soft Smile}Sais-tu qu'aujourd'hui c'est	l'anniversaire {de /d'}{0011-0000-0002-0000}?{pause 30}	Qu'as-tu trouvé à lui offrir?	{emote: Thought}{Il/Elle/} est du genre à apprécier les	petites attentions plutôt que les	gros cadeaux.	J'espère que tu ne t'es pas ruiné{/e}	pour lui faire plaisir. {pause 30}{emote: Agreement}Souviens-toi	que c'est l'intention qui compte.
+"016"	{emote: Surprise}{capitalized}{Player nickname (green)}!{pause 30}{emote: Distress} Il faut que je te	raconte ce rêve que je viens de	faire!	{emote: Agreement}Dedans, {pause 20}il y avait {un certain/une certaine/}	{0011-0000-0002-0000}. {pause 30}Entre nous,{pause 16}{emote: Glare} {il/elle/} faisait	plutôt {0011-0004-0002-0000}.	{emote: Daydreaming}Enfin bon,{pause 20} {catchphrase}{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"017"	{emote: Surprise}{pause 20}Je voudrais te parler d'un rêve que	j'ai fait.{pause 30}{emote: Curious} Connais-tu {0011-0000-0002-0000}	{de /d'}{0011-0002-0002-0000}?	{emote: Daydreaming}Eh bien, {pause 20}figure-toi que dans mon	rêve, c'était {Article(word-dependant)}	{0011-0004-0002-0000}. {pause 40}{emote: Laughter}Bizarre...
+"018"
+"019"
+"020"
+"021"	{emote: Star Yell}Magnifique, {catchphrase}!{pause 30} 	{emote: Sheepishness}J'espère que j'y aurai humblement	contribué à ma façon{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"022"	{emote: Worry}Ah{pause 8}.{pause 8}.{pause 8}.{pause 8} {capitalized}{Player nickname (green)}, {pause 40}sois sûr{/e} que je	vais faire mon possible pour t'aider	à le réaliser.

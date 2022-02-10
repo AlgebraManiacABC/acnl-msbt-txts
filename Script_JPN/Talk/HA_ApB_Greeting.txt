@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{Town name (pink)}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Greetings}
-"006"	{emote: Worry}
-"007"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"008"	{emote: Greetings}
-"009"	{emote: Reset}
-"010"	{emote: Greetings}
-"011"	{Greeting begin}
+"001"	{emote: Worry}なぁ、{Player nickname (green)}ー！{pause 20}	{ruby (charSpan 2): さいきん}最近　オイラ	{ruby (charSpan 1): こえ}声が{ruby (charSpan 1): ちい}小さくなってる　{ruby (charSpan 1): き}気がしてさー{Wait for input}{emote: Anger}たるんだオイラに、{pause 8}	{ruby (charSpan 2): きあ}気合いが{ruby (charSpan 1): はい}入る　かけ{ruby (charSpan 1): ごえ}声ってのを	{ruby (charSpan 1): おし}教えてくれよー！{Player can respond (0005):0004-0015-0003-0028}	オッケー！	ムリだよ
+"002"	{Town name (pink)}{ruby (charSpan 1): むら}村の　メンツって、{pause 20}	みんな　アクが{ruby (charSpan 1): つよ}強いだろー？{Wait for input}オイラ　その{ruby (charSpan 1): なか}中に{pause 8}	うもれて{ruby (charSpan 1): お}終わりたく	ないんだよ、{pause 8}{catchphrase}{Wait for input}{emote: Distress}なぁ、{Player nickname (green)}！{pause 20}	みんなが　{ruby (charSpan 2): ちゅうもく}注目するような、{pause 20}	スゲーあいさつ　ないかー？{Player can respond (0005):0004-0015-0003-0028}	あるよ	{ruby (charSpan 1): とく}特にない
+"003"	{emote: Distress}なんだよー！{pause 20}	オマエ　センスがいいんだから、	もったいないぞー？{Wait for input}{emote: Happiness}まぁ、{pause 20}また　たのんだときは	{ruby (charSpan 1): かんが}考えてくれよな！
+"004"	{emote: Happiness}おー！{pause 20}	{Player nickname (green)}　やるなぁ！{pause 20}	コーフンするのを　たのむぞー！
+"005"	{emote: Greetings}「{Greeting begin}　{Greeting end}」？{Wait for input}	{emote: Curious}コレで　{ruby (charSpan 1): あ}合ってるかー？{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	そうそう！	ちがうなぁ
+"006"	{emote: Worry}なんだ　ちがうのか{pause 20}	{emote: Happiness}{ruby (charSpan 1): つぎ}次のが　オマエの{ruby (charSpan 2): ほんき}本気だなー？！
+"007"	{0009-0002-0008-0008-0009-000a-000b}
+"008"	{emote: Greetings}{Greeting begin}　{Greeting end}{pause 40}	なんか　スゲーしっくりくる！{Wait for input}{emote: Glee}マジ　ありがとなー　{Player nickname (green)}！{pause 20}	このあいさつ	{ruby (charSpan 1): つか}使わせてもらうよ、{pause 8}{catchphrase}
+"009"	{emote: Reset}{Greeting begin}{Greeting end}{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}{0007-000b-0000}うぉー！{pause 20}	コレ　めっちゃ{ruby (charSpan 2): きあ}気合い　{ruby (charSpan 1): はい}入るぞー！{Wait for input}{emote: Happiness}ありがたく　{ruby (charSpan 1): つか}使わせてもらうな！{pause 20}	オマエにたのんで	よかったよ、{pause 8}{catchphrase}
+"010"	{emote: Greetings}{Greeting begin}　{Greeting end}{pause 40}	{emote: Agreement}うん！{pause 20}　まさにこういうのを	{ruby (charSpan 1): もと}求めてたんだよー！{Wait for input}{emote: Happiness}サンキュー　{Player nickname (green)}！{pause 20}	{ruby (charSpan 2): きょう}今日から　バンバン	コレで　あいさつするぞ、{pause 8}{catchphrase}
+"011"	{Greeting begin}　{Greeting end}　かー！{pause 20}	{emote: Glee}なんか　コーフンしてきたぞー！{pause 40}	ありがとなー　{Player nickname (green)}！

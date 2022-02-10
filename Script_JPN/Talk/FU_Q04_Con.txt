@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Soft Smile}
-"003"	{emote: Alarmed}
-"004"	{emote: Surprise}
+"001"	{emote: Happiness}{0011-0001-0002-0001}さんを{pause 10}	{ruby (charSpan 1): つ}連れて{ruby (charSpan 1): き}来てほしいんです
+"002"	{emote: Soft Smile}{0011-0001-0002-0001}さん{pause 10}	{ruby (charSpan 1): み}見つからなかったんですね{Wait for input}{emote: Agreement}わたし、{pause 10}{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): さが}探すんで{pause 10}	{emote: Soft Smile}もう　{ruby (charSpan 3): だいじょうぶ}大丈夫ですよ{emote: Sunny}
+"003"	{emote: Alarmed}えぇ！{pause 20}	{ruby (charSpan 2): とちゅう}途中まで{ruby (charSpan 1): き}来てたのに{pause 10}	{ruby (charSpan 2): けっきょく}結局、{pause 10}いらっしゃらなかったんですか？	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 8}わかりました{pause 20}	{emote: Soft Smile}{ruby (charSpan 1): あと}後で、{pause 10}わたしから　{ruby (charSpan 1): うかが}伺ってみます
+"004"	{emote: Surprise}まぁ！{pause 20}	{emote: Distress}{ruby (charSpan 1): ことわ}断られてしまいましたか{Wait for input}{emote: Worry}きっと　{pause 10}ご{ruby (charSpan 2): ようじ}用事があったんですね{pause 30}	{emote: Happiness}またの{ruby (charSpan 2): きかい}機会にします{pause 20}	ありがとうございました、{pause 15}{catchphrase}

@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Reset}
-"003"	{emote: Mistaken}
-"004"	{emote: Surprise}
-"005"	{emote: Reset}
-"006"	{emote: Alarmed}
-"007"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"008"	{emote: Agreement}
-"009"	えーっと、{pause 8}
-"010"	{emote: Glare}
-"011"	{emote: Pride}
+"001"	{emote: Curious}ちょいと　いいかな、{pause 8}{Player nickname (green)}？{Wait for input}{emote: Reset}オレって　{ruby (charSpan 2): ことば}言葉づかいも　{ruby (charSpan 1): み}見た{ruby (charSpan 1): め}目も{pause 4}	こんなふうだから、{pause 15}	{emote: Sheepishness}コワがるヤツも{ruby (charSpan 1): おお}多いんだよ{Wait for input}{emote: Thought}でだな{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Reset}アイサツだけでも{pause 4}ソフトな{ruby (charSpan 1): かん}感じに	してみたらどうかと{ruby (charSpan 1): おも}思うんだが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}オメェ　{ruby (charSpan 1): なに}何か{pause 4}　いいアイサツを	{ruby (charSpan 1): かんが}考えてくんねぇかな？{Player can respond (0005):0004-0015-0003-0028}	まかせて！	{ruby (charSpan 1): とく}特にないです
+"002"	{emote: Reset}なぁ、{pause 8}{Player nickname (green)}{Wait for input}	{emote: Resigned}{ruby (charSpan 2): とつぜん}突然　{ruby (charSpan 1): なに}何を{ruby (charSpan 1): い}言いだすんだって{pause 4}	{ruby (charSpan 1): おも}思うだろうが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Thought}ここらで　ちょっと{pause 8}	イメージチェンジってヤツを{pause 4}	してみようと{ruby (charSpan 1): おも}思ってな{Wait for input}{emote: Reset}そこで{ruby (charSpan 2): そうだん}相談なんだが{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Happiness}オメェ{pause 4}　{ruby (charSpan 1): き}気の{ruby (charSpan 1): き}利いたアイサツを{pause 8}	{ruby (charSpan 1): かんが}考えてくれねぇかな？{Player can respond (0005):0004-0015-0003-0028}	オッケー！	{ruby (charSpan 1): とく}特にないなぁ
+"003"	{emote: Mistaken}だよな、{pause 20}ねぇよなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Agreement}{ruby (charSpan 1): かんが}考えてみりゃ、{pause 8}{ruby (charSpan 3): こてさき}小手先で　ごまかしても{pause 4}	{emote: Agreement}{ruby (charSpan 2): しかた}仕方ねぇよな、{pause 20}{catchphrase}{Wait for input}{emote: Happiness}オレは　オレだ、{pause 15}	{emote: Greetings}このまま　いくことにするぜ！{Wait for input}	{emote: Happiness}ありがとよ、{pause 20}{Player nickname (green)}！
+"004"	{emote: Surprise}おお！{pause 20}	{emote: Happiness}さすがは　{Player nickname (green)}だな、{pause 8}	さっそく{ruby (charSpan 1): たの}頼むぜ！
+"005"	{emote: Reset}「{Greeting begin}　{Greeting end}」{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Happiness}「{Greeting begin}　{Greeting end}」！{Wait for input}	{emote: Curious}こんな{ruby (charSpan 1): かん}感じでいいのか？{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	そうそう！	ちがうなぁ
+"006"	{emote: Alarmed}おっと、{pause 4}{ruby (charSpan 1): ちが}違ったか？{Wait for input}	{emote: Happiness}すまねぇが　もう{ruby (charSpan 2): いちど}一度{ruby (charSpan 1): たの}頼むぜ、{pause 20}{catchphrase}
+"007"	{0009-0002-0008-0008-0009-000a-000b}
+"008"	{emote: Agreement}よし{pause 8}・{pause 8}・{emote: Agreement}{pause 8}・{pause 20}	{emote: Greetings}{Greeting begin}　{Greeting end}！{Wait for input}	{emote: Sunny}うん、{pause 8}こりゃ　いけるかもな！{Wait for input}{emote: Happiness}さっそく　{ruby (charSpan 1): つか}使わせてもらうとするか{Wait for input}	{ruby (charSpan 1): おん}恩に{ruby (charSpan 1): き}着るぜ、{pause 20}{Player nickname (green)}！
+"009"	えーっと、{pause 8}{Greeting begin}　{Greeting end}！{Wait for input}	{emote: Sheepishness}へへへ、{pause 8}なんか　{ruby (charSpan 1): こ}小っ{ruby (charSpan 1): ぱ}恥ずかしいけど{pause 8}	{ruby (charSpan 1): う}生まれ{ruby (charSpan 1): か}変わった　{ruby (charSpan 2): きぶん}気分だぜ！{Wait for input}{emote: Happiness}ありがとよ、{pause 20}{Player nickname (green)}！
+"010"	{emote: Glare}{pause 15}{Greeting begin}　{Greeting end}！{Wait for input}	{emote: Surprise}こいつは　{ruby (charSpan 1): おどろ}驚いた！{pause 20}	{emote: Disagreement}まるで　オレじゃねぇみたいだぜ！{emote: Soft Smile}{Wait for input}{emote: Happiness}オメェに{ruby (charSpan 1): たの}頼んで　{ruby (charSpan 1): よ}良かったよ！{pause 15}	ありがとな、{pause 20}{catchphrase}！
+"011"	{emote: Pride}{Greeting begin}　{Greeting end}！{Wait for input}	{emote: Agreement}なるほど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Glare}あばよ！{pause 8}　{ruby (charSpan 1): いま}今までのオレ！{pause 15}{emote: Happiness}	って{ruby (charSpan 1): かん}感じだな！{Wait for input}	{emote: Sunny}{ruby (charSpan 1): う}生まれ{ruby (charSpan 1): か}変わった{ruby (charSpan 2): きぶん}気分だぜ！{Wait for input}{emote: Happiness}ありがとよ、{pause 20}{Player nickname (green)}！

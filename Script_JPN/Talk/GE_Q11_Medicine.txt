@@ -1,10 +1,10 @@
 == 0 ==
-"001"	え！　{pause 20}
-"002"	ホントいいの{pause 8}!
-"003"	{emote: Soft Smile}
-"004"	{emote: Sheepishness}
-"005"	{emote: Sorrow}
-"006"	{emote: Surprise}
-"007"	{emote: Sheepishness}
-"008"	{emote: Sheepishness}
-"009"	それは　うれしいな～{pause 20}
+"001"	え！　{pause 20}ありがとう{pause 30}	{emote: Soft Smile}{ruby (charSpan 1): たす}助かるよ～
+"002"	ホントいいの{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 20}	{emote: Soft Smile}じゃあ、{pause 10}ありがたく　もらっちゃうよ
+"003"	{emote: Soft Smile}わぁ！{pause 20}	ちょーうれし～、{pause 10}{catchphrase}
+"004"	{emote: Sheepishness}わ～{pause 20}	{Blue}おくすり{Color Reset}{ruby (charSpan 1): な}無かったんだよ！{Wait for input}	ありがとうね、{pause 15}{catchphrase}
+"005"	{emote: Sorrow}よかった～{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 10}	{emote: Soft Smile}{Player nickname (green)}{0005-000d-0000}なら{pause 8}	{ruby (charSpan 1): たす}助けてくれると{ruby (charSpan 1): おも}思ったよ
+"006"	{emote: Surprise}ホントに～？{pause 20}	{emote: Sheepishness}{Blue}おくすり{Color Reset}{ruby (charSpan 1): な}無くて、{pause 10}こまってたんだよ～
+"007"	{emote: Sheepishness}ありがとう{pause 20}	{pause 5}・{pause 5}・{pause 5}・{pause 5}{ruby (charSpan 1): か}買いに{ruby (charSpan 1): い}行けなかったから　{pause 10}うれしいよ
+"008"	{emote: Sheepishness}え{pause 8}・{pause 8}・{pause 8}・{pause 8}！{pause 10}	わけてくれるの？{pause 20}	うれしい{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sneezing}くしゅん
+"009"	それは　うれしいな～{pause 20}	{emote: Sheepishness}エンリョなくもらうよ

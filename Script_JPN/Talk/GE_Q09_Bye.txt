@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Glee}
-"004"	{emote: Surprise}
-"005"	{emote: Alarmed}
-"006"	{emote: Distress}
+"001"	{emote: Happiness}じゃあ、{pause 8}また{ruby (charSpan 1): あそ}遊ぼうね！
+"002"	{emote: Happiness}また　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくれるの{pause 8}	{ruby (charSpan 1): ま}待ってるからね、{pause 10}{catchphrase}！
+"003"	{emote: Glee}{ruby (charSpan 2): きょう}今日は、{ruby (charSpan 1): たの}楽しかったよ{pause 20}	ありがとね！
+"004"	{emote: Surprise}あれ？{pause 30}	もう　{ruby (charSpan 1): かえ}帰っちゃうの？！{Wait for input}{emote: Happiness}せっかくなんだから、{pause 10}	もっと　ハッピートークしてってよ！
+"005"	{emote: Alarmed}え！{pause 20}	おしゃべりもせずに{ruby (charSpan 1): かえ}帰っちゃうわけ？{Wait for input}{emote: Distress}アタイのジマンの{ruby (charSpan 2): へや}部屋だから、{pause 15}	もっと　{pause 5}{ruby (charSpan 1): たの}楽しんでいってほしいな～！
+"006"	{emote: Distress}ちょっと～！{pause 30}	{emote: Happiness}せっかく{ruby (charSpan 1): き}来たんだから、{pause 10}	もっと　ゆっくりしてってよ

@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Sheepishness}
-"003"	{emote: Alarmed}
-"004"	これは{pause 8}
-"005"	{emote: Thought}
-"006"	{pause 8}
-"007"	{emote: Surprise}
-"008"	{emote: Alarmed}
-"009"	{emote: Surprise}
-"010"	{emote: Alarmed}
-"011"	{emote: Surprise}
-"012"	{emote: Alarmed}
-"013"	{emote: Alarmed}
-"014"	{emote: Alarmed}
-"015"	{emote: Surprise}
-"016"	{emote: Surprise}
-"017"	{emote: Surprise}
-"018"	{emote: Surprise}
-"019"	{emote: Happiness}
-"020"	{emote: Soft Smile}
-"021"	{emote: Soft Smile}
-"022"	{ruby (charSpan 1): つぎ}次からは、{ruby (charSpan 1): お}落とさないように{pause 16}
-"023"	{emote: Anger}
-"024"	{emote: Sheepishness}
+"001"	{emote: Alarmed}あら？{pause 16}	{ruby (charSpan 1): お}落とし{ruby (charSpan 1): もの}物は、どうしたの？{Wait for input}{emote: Worry}{ruby (charSpan 1): み}見せてくれないと、	わからないじゃない？{pause 8}	{Player nickname (green)}{0005-000d-0000}
+"002"	{emote: Sheepishness}ちょっと、まずは{pause 8}	アナタが　{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着きなさいよ～{pause 8}	{Player nickname (green)}{0005-000d-0000}
+"003"	{emote: Alarmed}え{pause 8}・{pause 8}・{pause 8}・{pause 8}？	{ruby (charSpan 1): なに}何か{ruby (charSpan 1): ひろ}拾ったんじゃないの？{Wait for input}{emote: Worry}モッタイぶらないで	{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): み}見せなさいよ～、{pause 8}	{Player nickname (green)}{0005-000d-0000}
+"004"	これは{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Worry}{ruby (charSpan 2): ざんねん}残念だけど、	アタシのじゃないわ、{pause 8}{catchphrase}{Wait for input}{ruby (charSpan 1): わる}悪いんだけど、{pause 8}{ruby (charSpan 1): ほか}他を	{ruby (charSpan 1): あ}当たってみてくれる？
+"005"	{emote: Thought}{pause 16}ん～{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 2): ざんねん}残念だけど	アタシのじゃないわね、{pause 16}コレ{Wait for input}{emote: Worry}{ruby (charSpan 1): わる}悪いんだけど、{pause 8}よそを	{ruby (charSpan 1): あ}当たってみてくれるかしら？
+"006"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Worry}ちょっと　	{ruby (charSpan 2): みおぼ}見覚えないわねぇ、{pause 8}{catchphrase}{Wait for input}{ruby (charSpan 1): わる}悪いんだけど、{pause 8}{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): ひと}人にも	{ruby (charSpan 1): き}聞いてみて　もらえるかしら？
+"007"	{emote: Surprise}あら、この{ruby (charSpan 4): れんあいしょうせつ}恋愛小説{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}ナイナイと{ruby (charSpan 1): おも}思ってたら	{ruby (charSpan 1): お}落としてたのね～	{emote: Bashful}{ruby (charSpan 2): なんど}何度も　{ruby (charSpan 1): よ}読み{ruby (charSpan 1): かえ}返してる{pause 8}	{ruby (charSpan 2): だいす}大好きな{ruby (charSpan 1): ほん}本なの{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}だから、{ruby (charSpan 1): み}見つかって	{ruby (charSpan 1): よ}良かったわ～、{pause 8}{catchphrase}
+"008"	{emote: Alarmed}あら、このミステリー{ruby (charSpan 2): しょうせつ}小説{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}{ruby (charSpan 1): な}無くしたと{ruby (charSpan 1): おも}思ってたら{pause 16}	{ruby (charSpan 1): お}落としてたのね、アタシ！	{emote: Soft Smile}{ruby (charSpan 1): よ}読んでる{ruby (charSpan 2): とちゅう}途中で　{ruby (charSpan 1): つづ}続きが	{ruby (charSpan 1): き}気になってたから{pause 16}	すごく{ruby (charSpan 1): たす}助かったわ～、{pause 8}{catchphrase}
+"009"	{emote: Surprise}あら！{pause 8}　	アタシの{ruby (charSpan 2): にっき}日記じゃない？{Wait for input}{emote: Sigh}{pause 60}{ruby (charSpan 1): よ}良かった～、{pause 16}{ruby (charSpan 1): もど}戻ってきて～{Wait for input}	{emote: Worry}アタシの　プライベートが	{ruby (charSpan 2): いろいろ}色々　{ruby (charSpan 1): か}書かれてるから{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): ひと}人に　{ruby (charSpan 1): み}見られたら	まずいことに　なってたわ、	{pause 8}{catchphrase}
+"010"	{emote: Alarmed}あら！{pause 8}	アタシのポーチじゃない？{Wait for input}{emote: Worry}ナイナイと{ruby (charSpan 1): おも}思ってたら、{pause 8}	{ruby (charSpan 1): お}落としてたのね～、{pause 8}{catchphrase}{Wait for input}{emote: Soft Smile}おけしょうの{ruby (charSpan 2): どうぐ}道具とか{pause 16}	{ruby (charSpan 1): はい}入ってたから　{ruby (charSpan 1): たす}助かったわ～、	{pause 8}{catchphrase}
+"011"	{emote: Surprise}あっ、{pause 8}アタシのポーチ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}{ruby (charSpan 1): な}無くしたと{ruby (charSpan 1): おも}思ってたら{pause 8}	{ruby (charSpan 1): お}落としてたのね～！	{emote: Soft Smile}{ruby (charSpan 2): たいせつ}大切な{ruby (charSpan 1): もの}物とか{ruby (charSpan 1): はい}入ってたから、{pause 16}	{ruby (charSpan 1): たす}助かったわ～、{pause 8}{catchphrase}
+"012"	{emote: Alarmed}あら！　このポーチ！{pause 16}	アタシのじゃない？{Wait for input}{emote: Anger}{Player nickname (green)}{0005-000d-0000}{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Mischief}{ruby (charSpan 1): なか}中、のぞいてないわよね？
+"013"	{emote: Alarmed}あら！　これ！{pause 16}	アタシの{ruby (charSpan 2): てぶくろ}手袋じゃない？{Wait for input}{emote: Worry}{ruby (charSpan 2): かたほう}片方だけ{ruby (charSpan 1): な}無くて　{ruby (charSpan 1): こま}困ってたのよ{pause 16}	ホント{ruby (charSpan 1): たす}助かったわ～、{pause 8}{catchphrase}
+"014"	{emote: Alarmed}あっ、これって	アタシの　{ruby (charSpan 2): てぶくろ}手袋じゃない？{pause 32}	{emote: Worry}{ruby (charSpan 2): かたほう}片方だけ{ruby (charSpan 1): な}無くて　{ruby (charSpan 1): こま}困ってたのよ	{ruby (charSpan 2): かたわ}片割れの　{ruby (charSpan 2): てぶくろ}手袋って、{pause 16}	ホント　みじめよね～{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}でも、アナタのおかげで	{ruby (charSpan 1): もと}元に{ruby (charSpan 1): もど}戻ったわ、{pause 8}{catchphrase}
+"015"	{emote: Surprise}あら！　この{ruby (charSpan 2): てぶくろ}手袋{pause 4}・{pause 4}・{pause 4}・{pause 4}	アタシのじゃない？{Wait for input}{emote: Worry}{ruby (charSpan 2): かたほう}片方だけで、{pause 8}どうにも　	ならなかったのよ～{Wait for input}{emote: Soft Smile}うふふ、{pause 16}ヨリを{ruby (charSpan 1): もど}戻した	{ruby (charSpan 2): こいびと}恋人{ruby (charSpan 2): どうし}同士みたいね、{pause 8}{catchphrase}
+"016"	{emote: Surprise}あ！　この{ruby (charSpan 2): かみぶくろ}紙袋！{pause 16}	{emote: Distress}{ruby (charSpan 1): さが}探してたのよ～、コレ！{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}{ruby (charSpan 1): なに}何が{ruby (charSpan 1): はい}入ってるかって？{Wait for input}	{emote: Worry}もぉ～、{pause 8}ヤボなこと	{ruby (charSpan 1): き}聞かないの！　{pause 8}{Player nickname (green)}{0005-000d-0000}！
+"017"	{emote: Surprise}あっ、アタシの{ruby (charSpan 2): かみぶくろ}紙袋？！{pause 32}	{emote: Sigh}{pause 60}{ruby (charSpan 1): よ}良かった～　{pause 16}{ruby (charSpan 1): もど}戻ってきて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Curious}{ruby (charSpan 1): なか}中は　{ruby (charSpan 1): み}見てないわよね？{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Mischief}{ruby (charSpan 1): み}見なくて{ruby (charSpan 1): よ}良かったわよ{pause 16}	うふふふ
+"018"	{emote: Surprise}あ！　これ！{pause 16}	アタシの　{ruby (charSpan 2): かみぶくろ}紙袋じゃない！{Wait for input}{emote: Happiness}{ruby (charSpan 2): たいせつ}大切な{ruby (charSpan 1): もの}物だったから{pause 16}	ホント{ruby (charSpan 1): たす}助かっちゃった～、	{pause 8}{catchphrase}
+"019"	{emote: Happiness}わざわざ　{ruby (charSpan 1): とど}届けてくれて{pause 16}	ありがとう、{pause 8}{catchphrase}！{Wait for input}{emote: Worry}こんなのしかないけど、お{ruby (charSpan 1): れい}礼に　{pause 16}	この　{0011-0003-0002-0000}、{pause 16}	{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取ってもらえる？
+"020"	{emote: Soft Smile}アタシのために	わざわざ　{ruby (charSpan 1): とど}届けてくれて{pause 16}	ありがとね、{pause 8}{Player nickname (green)}{0005-000d-0000}	{emote: Shyness}アナタへの　お{ruby (charSpan 1): れい}礼だけど、{pause 16}	この　{0011-0003-0002-0000}で	いいかしら？　{pause 8}{catchphrase}？
+"021"	{emote: Soft Smile}ありがとう、{Player nickname (green)}{0005-000d-0000}！{pause 16}	ひょっとして　アタシのために{pause 8}	{ruby (charSpan 1): さが}探してきてくれたの？	{emote: Sunny}ぜひ　お{ruby (charSpan 1): れい}礼をさせて！{pause 16}	{0011-0003-0002-0000}よ！
+"022"	{ruby (charSpan 1): つぎ}次からは、{ruby (charSpan 1): お}落とさないように{pause 16}	{ruby (charSpan 1): き}気をつけるわね、{pause 8}{catchphrase}
+"023"	{emote: Anger}{ruby (charSpan 2): あんしん}安心して、{Player nickname (green)}{0005-000d-0000}{pause 32}	{emote: Sheepishness}アタシ、こんなミスは{pause 8}	もうしないから{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"024"	{emote: Sheepishness}アタシって　ダメな{ruby (charSpan 1): おんな}女ね～{pause 16}	{ruby (charSpan 1): つぎ}次からは　{ruby (charSpan 1): き}気をつけるわ、	{pause 8}{catchphrase}

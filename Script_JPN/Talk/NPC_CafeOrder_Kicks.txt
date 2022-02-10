@@ -1,20 +1,20 @@
 == 0 ==
-"001"	コーヒー、{pause 10}
-"002"	{Blue}モカ{Color Reset}コーヒー、{pause 10}
-"003"	コーヒー、{pause 10}
-"004"	コーヒー、{pause 10}
-"005"	おっ、{pause 10}
-"006"	{pause 8}
-"007"	{emote: Thought}
-"008"	{emote: Thought}
-"009"	{emote: Thought}
-"010"	
-"011"	
-"012"	
-"013"	{emote: Thought}
-"014"	{emote: Thought}
-"015"	{emote: Thought}
-"016"	{pause 8}
-"017"	
-"018"	
-"019"	
+"001"	コーヒー、{pause 10}{ruby (charSpan 2): いっぱい}一杯たのむよ
+"002"	{Blue}モカ{Color Reset}コーヒー、{pause 10}{ruby (charSpan 2): いっぱい}一杯たのむよ
+"003"	コーヒー、{pause 10}{ruby (charSpan 2): いっぱい}一杯たのむよ{Wait for input}	ミルクは　{Blue}{ruby (charSpan 1): い}入れないで{Color Reset}くれよ！
+"004"	コーヒー、{pause 10}{ruby (charSpan 2): いっぱい}一杯たのむよ{Wait for input}	{ruby (charSpan 2): さとう}砂糖も{Blue}1つ{Color Reset}だけ　{ruby (charSpan 1): い}入れといてくれ！
+"005"	おっ、{pause 10}わりぃな！
+"006"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Happiness}{pause 10}ウマいぜ、{pause 10}これ！{0007-000e-0000}{Wait for input}	ヤるじゃねぇか！{pause 10}　ありがとよっ！
+"007"	{emote: Thought}ん{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 15}	{emote: Sheepishness}ああ{pause 8}・{pause 8}・{pause 8}・{pause 8}これ、{pause 10}オレがいつも{ruby (charSpan 1): の}飲んでる	{Blue}モカ{Color Reset}じゃねぇんだな{Wait for input}{emote: Reset}いや、{pause 10}{ruby (charSpan 1): の}飲み{ruby (charSpan 1): な}慣れてねぇから	ビックリしちまっただけさ{Wait for input}	{emote: Happiness}じゃあ{pause 5}　またな！
+"008"	{emote: Thought}ん{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 15}	{emote: Sheepishness}ああ{pause 8}・{pause 8}・{pause 8}・{pause 8}これ、{pause 10}{Blue}ミルク{Color Reset}が{ruby (charSpan 1): はい}入ってるのか{Wait for input}{emote: Reset}いや、{pause 10}いつもはミルクを{ruby (charSpan 1): い}入れねぇから{pause 5}	ビックリしちまっただけさ{Wait for input}	{emote: Happiness}じゃあ{pause 5}　またな！
+"009"	{emote: Thought}ん{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 15}	{emote: Sheepishness}ああ{pause 8}・{pause 8}・{pause 8}・{pause 8}これ、{pause 10}いつもと	{Blue}{ruby (charSpan 1): あま}甘さ{Color Reset}の{ruby (charSpan 1): かん}感じが　{ruby (charSpan 1): ちが}違うのか{Wait for input}{emote: Reset}いや、{pause 10}{ruby (charSpan 1): おも}思ってたのと{ruby (charSpan 1): ちが}違ってたから{pause 5}	ビックリしちまっただけさ{Wait for input}	{emote: Happiness}じゃあ{pause 5}　またな！
+"010"
+"011"
+"012"
+"013"	{emote: Thought}んんっ{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 15}	{emote: Sheepishness}ああ{pause 8}・{pause 8}・{pause 8}・{pause 8}これ、{pause 10}{Blue}ミルク{Color Reset}が{ruby (charSpan 1): はい}入ってんのか{Wait for input}	それに{Blue}{ruby (charSpan 1): あま}甘さ{Color Reset}の{ruby (charSpan 1): かん}感じも　いつもと{ruby (charSpan 1): ちが}違うな{Wait for input}{emote: Reset}いや、{pause 10}{ruby (charSpan 1): おも}思ってたのと　だいぶ{ruby (charSpan 1): ちが}違ったから{pause 5}	ビックリしちまっただけさ{Wait for input}	{emote: Happiness}じゃあ{pause 5}　またな！
+"014"	{emote: Thought}んんっ{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 15}	{emote: Sheepishness}ああ{pause 8}・{pause 8}・{pause 8}・{pause 8}これ、{pause 10}{Blue}モカ{Color Reset}じゃねぇのか{Wait for input}	それに{Blue}{ruby (charSpan 1): あま}甘さ{Color Reset}の{ruby (charSpan 1): かん}感じも　いつもと{ruby (charSpan 1): ちが}違うな{Wait for input}{emote: Reset}いや、{pause 10}{ruby (charSpan 1): おも}思ってたのと　だいぶ{ruby (charSpan 1): ちが}違ったから{pause 5}	ビックリしちまっただけさ{Wait for input}	{emote: Happiness}じゃあ{pause 5}　またな！
+"015"	{emote: Thought}んんっ{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 15}	{emote: Sheepishness}ああ{pause 8}・{pause 8}・{pause 8}・{pause 8}これ、{pause 10}{Blue}モカ{Color Reset}じゃねぇのか{Wait for input}	それに{Blue}ミルク{Color Reset}も　{ruby (charSpan 1): はい}入ってるな{Wait for input}{emote: Reset}いや、{pause 10}{ruby (charSpan 1): おも}思ってたのと　だいぶ{ruby (charSpan 1): ちが}違ったから{pause 5}	ビックリしちまっただけさ{Wait for input}	{emote: Happiness}じゃあ{pause 5}　またな！
+"016"	{pause 8}・{pause 8}・{pause 8}・{emote: Alarmed}{pause 10}ああっ？！{pause 15}	{pause 8}・{pause 8}・{pause 8}・{pause 10}{emote: Worry}あ、{pause 10}いや、{pause 10}ワリぃ{pause 20}	いつもと{ruby (charSpan 1): あじ}味が{ruby (charSpan 1): ちが}違うから{pause 5}　ビックリしちまった{Wait for input}{emote: Sheepishness}いや、{pause 10}いつものクセで{pause 5}　つい{pause 5}	{ruby (charSpan 1): こま}細かく{ruby (charSpan 2): ちゅうもん}注文しなかった{pause 5}　オレが{ruby (charSpan 1): わる}悪いのさ{Wait for input}{emote: Happiness}ま、{pause 10}たまにゃ　こういうハプニングも	{ruby (charSpan 1): わる}悪くねぇよな！{Wait for input}	じゃあ{pause 5}　またな！
+"017"
+"018"
+"019"

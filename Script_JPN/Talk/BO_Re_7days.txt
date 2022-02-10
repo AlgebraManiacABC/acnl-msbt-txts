@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Greetings}
-"003"	{emote: Alarmed}
-"004"	{Player nickname (green)}
-"005"	やぁ、{Player nickname (green)}
-"006"	もしかして、{pause 20}ơ
+"001"	{emote: Happiness}あれぇ？{pause 20}	{Player nickname (green)}{0005-000d-0000}	ひさしぶり、{pause 8}{catchphrase}{Wait for input}{emote: Anger}さては　{ruby (charSpan 1): やま}山おくで、{pause 20}	おいしいものを	{ruby (charSpan 1): た}食べまくってたんだねぇ？{Wait for input}{emote: Distress}もぉ～！{pause 20}	ぬけがけは　ずるいよぉ～
+"002"	{emote: Greetings}やぁ～{pause 20}	{Player nickname (green)}{0005-000d-0000}～{Wait for input}{emote: Alarmed}えぇ～？！{pause 20}	{ruby (charSpan 1): あ}会うの　ひさしぶりだっけぇ～？{Wait for input}{emote: Sleepy}ふぁぁ～{pause 60}	ボク　ひさしぶりに	おきたからねぇ、{pause 8}{catchphrase}
+"003"	{emote: Alarmed}あぁ～{pause 20}	{Player nickname (green)}{0005-000d-0000}だぁ！{pause 40}	{emote: Happiness}なんだか　おひさしぶりだねぇ～{Wait for input}キミの　いない{ruby (charSpan 1): あいだ}間に	いろいろ　あったんだよぉ～！{Wait for input}{emote: Thought}いろいろって　いうのはね、{pause 20}	えぇ～と{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Sunny}とにかく　いろいろだよぉ、{pause 8}{catchphrase}
+"004"	{Player nickname (green)}{0005-000d-0000}、{pause 20}	{ruby (charSpan 1): はな}話すの　ひさしぶりだよねぇ？{Wait for input}	もっと　{ruby (charSpan 1): はな}話しかけてほしいなぁ～{Wait for input}{emote: Anger}ドアをあけたら　しめる！{pause 20}	ボクを{ruby (charSpan 1): み}見かけたら　{ruby (charSpan 1): はな}話しかける！{pause 40}	{emote: Pride}キホン{ruby (charSpan 1): ちゅう}中のキホン　だよぉ、{pause 8}{catchphrase}
+"005"	やぁ、{Player nickname (green)}{0005-000d-0000}{pause 20}	ようやく　お{ruby (charSpan 1): はな}話しできたねぇ{Wait for input}{emote: Worry}キミってば　{ruby (charSpan 1): むら}村にいるのに{pause 20}	{ruby (charSpan 1): はな}話しかけて　くれないんだもん{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Worry}ボク　すねちゃうよぉ～？
+"006"	もしかして、{pause 20}	{emote: Curious}{Player nickname (green)}{0005-000d-0000}と{ruby (charSpan 1): はな}話すの	ひさしぶり～？{Wait for input}{emote: Happiness}でも　キミって、{pause 20}	{ruby (charSpan 2): まいにち}毎日ユメに　とうじょうするから{pause 20}	ひさしぶりに　かんじないやぁ～{Wait for input}{emote: Reset}きのうのユメに{ruby (charSpan 1): で}出てきた　キミは、{pause 20}	おなかが　ボールみたいになるまで{pause 20}	{0005-0013-0002-0000}を　{ruby (charSpan 1): た}食べてたよぉ～{Wait for input}{emote: Worry}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	ズルイなぁ～、{pause 8}{catchphrase}

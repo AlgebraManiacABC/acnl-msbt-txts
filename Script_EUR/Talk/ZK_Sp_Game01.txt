@@ -1,65 +1,65 @@
 == 0 ==
-"001"	{emote: Glare}
-"002"	{emote: Glare}
-"003"	One,{pause 32}
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Sheepishness}
-"008"	{emote: Anger}
-"009"	{emote: Showmanship}
-"010"	
-"011"	This means{pause 8}
-"012"	This means{pause 8}
+"001"	{emote: Glare}Are you ready?{Wait for input}	{emote: Soft Smile}This is a {Blue}single-round {Color Reset}game, OK?{pause 32}	{emote: Anger}Here we go{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"002"	{emote: Glare}Are you ready?{Wait for input}	{emote: Soft Smile}Whoever wins {Blue}{Number (0x6)} times {Color Reset}is the winner!{pause 32}	Here we go{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"003"	One,{pause 32} two{pause 8}.{pause 8}.{pause 8}.{000f-0001-0006-0000-0000-0000}	Rock.	Scissors.	Paper.
+"004"	{0007-000b-0000}{Text size 150%}ROCK!{Text size 100%}
+"005"	{0007-000b-0000}{Text size 150%}SCISSORS!{Text size 100%}
+"006"	{0007-000b-0000}{Text size 150%}PAPER!{Text size 100%}
+"007"	{emote: Sheepishness}You're pretty good!{pause 8} {capitalized}{catchphrase}!
+"008"	{emote: Anger}All right, we tied{pause 8}.{pause 8}.{pause 8}.{pause 32}	{emote: Sunny}Come on,{pause 16} let's throw again!
+"009"	{emote: Showmanship}All right!
+"010"
+"011"	This means{pause 8}.{pause 8}.{pause 8}.{pause 32}{emote: Soft Smile}you won the game!{pause 8}	Good job! {capitalized}{catchphrase}!
+"012"	This means{pause 8}.{pause 8}.{pause 8}.{pause 32}{emote: Sunny}I won the game!{pause 8}	Too bad! Hah ha!
 == 1 ==
-"001"	{emote: Glare}
-"002"	{emote: Glare}
-"003"	Uuuno,{pause 8}!
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Sheepishness}
-"008"	{emote: Anger}
-"009"	{emote: Showmanship}
-"010"	
-"011"	Esto quiere decir{pause 8}
-"012"	Esto quiere decir{pause 8}
+"001"	{emote: Glare}¿Estás list{o/a}?{Wait for input} {emote: Soft Smile}Solo jugaremos	{Blue}una ronda{Color Reset}, ¿entendido?{pause 32}	{emote: Anger}Allá vamos{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"002"	{emote: Glare}¿Estás list{o/a}?{Wait for input} {emote: Soft Smile}Quien gane {Blue}{Number (0x6)} {rondas/ronda/rondas}	{Color Reset}logrará la victoria, ¿entendido?{pause 32}	Allá vamos{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"003"	Uuuno,{pause 8} dooos{pause 8}.{pause 8}.{pause 8}.{000f-0001-0006-0000-0000-0000}	Piedra	Tijera	Papel
+"004"	{0007-000b-0000}¡PIEDRA!
+"005"	{0007-000b-0000}¡TIJERA!
+"006"	{0007-000b-0000}¡PAPEL!
+"007"	{emote: Sheepishness}¡Tienes maña,{pause 8} {catchphrase}!
+"008"	{emote: Anger}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 32} Hemos empatado.	{emote: Sunny}Vale,{pause 16} ¡probemos de nuevo!
+"009"	{emote: Showmanship}¡Bien!
+"010"
+"011"	Esto quiere decir{pause 8}.{pause 8}.{pause 8}.{pause 32} {emote: Soft Smile}¡que has ganado!{pause 8}	¡Enhorabuena, {catchphrase}!
+"012"	Esto quiere decir{pause 8}.{pause 8}.{pause 8}.{pause 32} {emote: Sunny}¡que he ganado!{pause 8}	¡Es una pena! {Gray}(Aunque no para mí.){Color Reset}
 == 2 ==
-"001"	{emote: Glare}
-"002"	{emote: Glare}
-"003"	Un,{pause 32}
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Sheepishness}
-"008"	{emote: Anger}
-"009"	{emote: Showmanship}
-"010"	
-"011"	Très bien{pause 8}
-"012"	Eh bien{pause 8}
+"001"	{emote: Glare}Tu es prêt{/e} ?{Wait for input} {emote: Soft Smile}On ne jouera qu'{Blue}une	seule manche{Color Reset}, OK ?{pause 32} {emote: Showmanship}C'est parti{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"002"	{emote: Glare}Tu es prêt{/e} ?{Wait for input} {emote: Soft Smile}Il faut remporter {Blue}{Number (0x6)}	manches{Color Reset} pour être déclaré	vainqueur !{pause 32} C'est parti{pause 8}.{pause 8}.{pause 8}.
+"003"	Un,{pause 32} deux{pause 8}.{pause 8}.{pause 8}.{000f-0001-0006-0000-0000-0000}	Pierre.	Ciseaux.	Papier.
+"004"	{0007-000b-0000}PIERRE !
+"005"	{0007-000b-0000}CISEAUX !
+"006"	{0007-000b-0000}PAPIER !
+"007"	{emote: Sheepishness}Impressionnant !{pause 8} {capitalized}{catchphrase} !
+"008"	{emote: Anger}Flûte, égalité{pause 8}.{pause 8}.{pause 8}.{pause 32} {emote: Sunny}Alors, c'est reparti	pour un tour !
+"009"	{emote: Showmanship}Yes !
+"010"
+"011"	Très bien{pause 8}.{pause 8}.{pause 8}.{pause 32} {emote: Soft Smile}C'est toi qui gagnes !{pause 8}	Bien joué ! {capitalized}{catchphrase} !
+"012"	Eh bien{pause 8}.{pause 8}.{pause 8}.{pause 32} {emote: Sunny}C'est moi qui gagne !	Dommage ! Ha ha !
 == 3 ==
-"001"	{emote: Glare}
-"002"	{emote: Glare}
-"003"	Uno,{pause 32}
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Sheepishness}
-"008"	{emote: Anger}
-"009"	{emote: Showmanship}
-"010"	
-"011"	Questo significa{pause 8}
-"012"	Questo significa{pause 8}
+"001"	{emote: Glare}Sei pront{o/a}?{Wait for input}	{emote: Soft Smile}Giochiamo solo {Blue}una volta{Color Reset}, OK?	{pause 32}{emote: Anger}Cominciamo{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"002"	{emote: Glare}Sei pront{o/a}?{Wait for input}	{emote: Soft Smile}Chi vince {Blue}{Number (0x6)} volte{Color Reset}, vince tutto!{pause 32}	Cominciamo{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"003"	Uno,{pause 32} due{pause 8}.{pause 8}.{pause 8}.{000f-0001-0006-0000-0000-0000}	Sasso.	Forbici.	Carta.
+"004"	{0007-000b-0000}SASSO!
+"005"	{0007-000b-0000}FORBICI!
+"006"	{0007-000b-0000}CARTA!
+"007"	{emote: Sheepishness}Sei molto brav{o/a},{pause 8} {catchphrase}!
+"008"	{emote: Anger}OK, siamo pari{pause 8}.{pause 8}.{pause 8}.{pause 32}	{emote: Sunny}Dai, si ripete!
+"009"	{emote: Showmanship}Evvai!
+"010"
+"011"	Questo significa{pause 8}.{pause 8}.{pause 8}.{pause 32} {emote: Soft Smile}che hai vinto!{pause 8}	Complimenti, {catchphrase}!
+"012"	Questo significa{pause 8}.{pause 8}.{pause 8}.{pause 32} {emote: Sunny}che ho vinto io!{pause 8}	Mi dispiace per te! Ah ah ah!
 == 4 ==
-"001"	{emote: Glare}
-"002"	{emote: Glare}
-"003"	Eins,{pause 32}
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Sheepishness}
-"008"	{emote: Anger}
-"009"	{emote: Showmanship}
-"010"	
-"011"	Das heißt{pause 8}
-"012"	Das heißt{pause 8}
+"001"	{emote: Glare}Bist du bereit?{Wait for input}	{emote: Soft Smile}Wir spielen nur {Blue}eine Runde{Color Reset}, ja?{pause 32}	{emote: Anger}Und los geht's{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"002"	{emote: Glare}Bist du bereit?{Wait for input}	{emote: Soft Smile}Wer {Blue}{Number (0x6)} Runden {Color Reset}gewinnt, gewinnt das	Spiel!{pause 32} Und los geht's{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"003"	Eins,{pause 32} zwei{pause 8}.{pause 8}.{pause 8}.{000f-0001-0006-0000-0000-0000}	Stein.	Schere.	Papier.
+"004"	{0007-000b-0000}STEIN!
+"005"	{0007-000b-0000}SCHERE!
+"006"	{0007-000b-0000}PAPIER!
+"007"	{emote: Sheepishness}Du bist ziemlich gut,{pause 8} {catchphrase}!
+"008"	{emote: Anger}Unentschieden{pause 8}.{pause 8}.{pause 8}.{pause 32}	{emote: Sunny}Also gut,{pause 16} noch mal!
+"009"	{emote: Showmanship}Alles klar!
+"010"
+"011"	Das heißt{pause 8}.{pause 8}.{pause 8}.{pause 32} {emote: Soft Smile}du hast das Spiel	gewonnen!{pause 8} Nicht schlecht,	{catchphrase}!
+"012"	Das heißt{pause 8}.{pause 8}.{pause 8}.{pause 32} {emote: Sunny}ich hab das Spiel	gewonnen!{pause 8} Pech gehabt!

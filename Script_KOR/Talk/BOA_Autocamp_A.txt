@@ -1,17 +1,17 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{000a-0007-000c-0c-00-0c-00-0b-00-0b-00-0c-00-0c-00}
-"003"	{000a-0007-000c-0c-00-0c-00-0b-00-0b-00-0c-00-0c-00}
-"004"	
-"005"	
-"006"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"007"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"008"	
-"009"	
-"011"	{emote: Happiness}
-"012"	{emote: Alarmed}
-"013"	평소에는 하루 종일{pause 8}
-"014"	{emote: Alarmed}
-"015"	{emote: Resigned}
-"016"	{emote: Agreement}
-"017"	{emote: Sunny}
+"001"	{emote: Happiness}아이구야, 당신도{pause 12}	이 마을에 놀러 온 거야?{Wait for input}{emote: Reset}아니, {pause 16}오늘은	{emote: Disagreement}무를 팔러 온 게 아니야!{Wait for input}{emote: Agreement}나도 캠핑을 하러 왔다구{pause 20}	{emote: Happiness}오호호호호{pause 8}・{pause 8}・{pause 8}・
+"002"	{000a-0007-000c-000c-000c-000b-000b-000c-000c}
+"003"	{000a-0007-000c-000c-000c-000b-000b-000c-000c}
+"004"
+"005"
+"006"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"007"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"008"
+"009"
+"011"	{emote: Happiness}아이구야, 고마워!{pause 20}	덕분에 캠핑 잘 즐기고 있어{Wait for input}{emote: Agreement}그건 그렇고 이 마을은{pause 20}	{emote: Happiness}참 살기 좋은 것 같네～
+"012"	{emote: Alarmed}아이구야, 당신{pause 12}	이 마을 사람이야?{pause 30}	{emote: Agreement}실례 좀 할게, {pause 20}{emote: Happiness}오호호호호{pause 8}・{pause 8}・{pause 8}・
+"013"	평소에는 하루 종일{pause 8}	{emote: Agreement}밭에서 무를 키우지만{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}가～끔씩 짬이 나서{pause 8}	캠핑장에 찾아오면{pause 20}	기분 전환도 되고 참 좋다니까!
+"014"	{emote: Alarmed}응?{pause 20} {emote: Reset}운전면허증은 가지고 있다구!{pause 30}	{emote: Sheepishness}당연하잖아～{Wait for input}{emote: Happiness}대형 버스도 몰 수 있는{pause 8}	특별한 면허증이야, {pause 20}오호호호호{pause 8}・{pause 8}・{pause 8}・
+"015"	{emote: Resigned}손님을 상대하는 장사는{pause 12}	심적으로 지치는 일도 많아{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}그럴 때 이렇게{pause 8}	캠핑을 즐기면 기분이 편해지고 좋아
+"016"	{emote: Agreement}늘 엄청난 무를 옮기다 보니{pause 16}	{emote: Pride}허리며 다리며 엄청나게 단련되어 있다구{Wait for input}{emote: Happiness}아직은 젊은 사람들한테{pause 8}	지지 않을걸, {pause 20}오호호호호{pause 8}・{pause 8}・{pause 8}・
+"017"	{emote: Sunny}말 걸어줘서 고마워!{pause 30}	{emote: Agreement}이렇게 가볍게 대화를 나눌 수 있다는 것도{pause 20}	{emote: Happiness}캠핑장의 장점이지

@@ -1,42 +1,42 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	Since moving day is almost here,{pause 8}
-"003"	{0009-0001-0006-04-00-05-00-06-00}
-"004"	{emote: Soft Smile}
-"005"	{emote: Alarmed}
-"006"	{emote: Shyness}
-"007"	{0009-0006-0010-08-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00}
-"008"	{000a-0000-0006-01-09-00-0a-00-ffffffcd}
-"009"	{000a-0000-0006-05-0c-00-0b-00-ffffffcd}
-"010"	{emote: Soft Smile}
-"011"	{emote: Happiness}
-"012"	{emote: Shocked}
-"013"	{emote: Happiness}
+"001"	{emote: Distress}If I don't hurry up and start packing,{pause 8}	I won't be ready on moving day!{pause 20} It's	only {Number (0x6)} {days/day/days} away,{pause 8} {catchphrase}!{Player can respond (0000):0003-0000-0007-0000}	Wait. Don't go!	Good luck!
+"002"	Since moving day is almost here,{pause 8}	I guess I should finish packing.{pause 40}	{emote: Sigh}I'm really going to miss everyone.{Player can respond (0000):0003-0000-0007-0000}	Then don't move!	We'll miss you too.
+"003"	{0009-0001-0006-0004-0005-0006}
+"004"	{emote: Soft Smile}You really think I should stay?{pause 40} 	{emote: Agreement}You're very wise when it comes to	these things.	{emote: Thought}Hmm{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Happiness}I've decided to stay here	in {Town name (pink)}!{pause 20} The move is off!
+"005"	{emote: Alarmed}You really want me to stay?{pause 20} I never	realized you felt so strongly about	our relationship.{pause 20}{emote: Sunny} I'm so relieved!	{emote: Happiness}I heard this little voice inside my	head telling me not to move.{pause 20}	It must have been you all along!
+"006"	{emote: Shyness}I see.{pause 20} Actually,{pause 8} I've been waiting for	someone to give me a reason to	stay.{pause 20}{emote: Distress} I'd be so lonely in a new town!	{emote: Soft Smile}Thank you for your kind words,	{Player nickname (green)}!{pause 20} I hope nobody else was	planning on moving into my house.
+"007"	{0009-0006-0010-0008-000d-000d-000d-000d-000d-000d-000d}
+"008"	{000a-0000-0006-0901-0a00-cd00}
+"009"	{000a-0000-0006-0c05-0b00-cd00}
+"010"	{emote: Soft Smile}But now that I think about it{pause 8}.{pause 8}.{pause 8}.{pause 20} We	really never had the chance to get	to know each other.	{emote: Agreement}Maybe if I stay in town we'll have	that chance,{pause 8} {Player nickname (green)}.{pause 20} That's	reason enough to postpone moving.
+"011"	{emote: Happiness}Just talking to you today makes me	remember the good times we had	together,{pause 8} {Player nickname (green)}.	{emote: Distress}Aww,{pause 8} I can't move now!{pause 20} Not after	realizing we could become even	better friends if I stay!
+"012"	{emote: Shocked}You{pause 8}.{pause 8}.{pause 8}.you're not even going to try	to convince me to stay?!{Wait for input}{emote: Anger}Well,{pause 8} I guess this friendship is more	one sided than I thought.{Wait for input}{emote: Agreement}You just wait. I'll show you what	amazing friends we really are.{pause 40}{emote: Soft Smile} I'm	not moving at all!
+"013"	{emote: Happiness}Thanks for everything.{pause 20} Take care of	yourself, and maybe I'll see you	again someday!
 == 1 ==
-"001"	{emote: Distress}
-"002"	Ya casi ha llegado el día de	la mudanza.{pause 20}
-"003"	{0009-0001-0006-04-00-05-00-06-00}
-"004"	{emote: Soft Smile}
-"005"	{emote: Alarmed}
-"006"	{emote: Shyness}
-"007"	{0009-0006-0010-08-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00}
-"008"	{000a-0000-0006-01-09-00-0a-00-ffffffcd}
-"009"	{000a-0000-0006-05-0c-00-0b-00-ffffffcd}
-"010"	{emote: Soft Smile}
-"011"	{emote: Happiness}
-"012"	{emote: Shocked}
-"013"	{emote: Happiness}
+"001"	{emote: Distress}Como no empiece ya a guardar mis	cosas, no estaré lista para el día	de la mudanza. ¡Solo {faltan/falta/faltan} {Number (0x6)} {días/día/días}!{Player can respond (0000):0003-0000-0007-0000}	¡No! ¡No te marches!	Buena suerte
+"002"	Ya casi ha llegado el día de	la mudanza.{pause 20} {emote: Sigh}Ay,{pause 10} os voy a echar	mucho de menos a todos.{Player can respond (0000):0003-0000-0007-0000}	¡Pues no te mudes!	Cuídate mucho, ¿eh?
+"003"	{0009-0001-0006-0004-0005-0006}
+"004"	{emote: Soft Smile}¿De verdad crees que debería	quedarme?{pause 20} {emote: Agreement}Mmm{pause 8}.{pause 8}.{pause 8}. {pause 20}Sé que eres	una persona inteligente {emote: Thought}así que{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}¡Sí, {pause 10}voy a seguir tu consejo!{pause 20}	¡Me quedo un tiempo más en	{capitalized}{Town name (pink)}!{pause 20} ¡Mudanza cancelada!
+"005"	{emote: Alarmed}¿De verdad quieres que me quede?	{pause 20}No sabía que me considerabas una	persona tan importante en tu vida.	{emote: Sunny}¡Qué alegría! {pause 20}Si ya me decía mi	intuición que lo de la mudanza	no era tan buena idea.
+"006"	{emote: Shyness}La verdad es que tenía la esperanza	de que alguien me pidiera que me	quedara aquí{pause 8}.{pause 8}.{pause 8}.	{emote: Soft Smile}¡Gracias,{pause 10} {Player nickname (green)}!{pause 20} Me has hecho	muy feliz con tus amables palabras.
+"007"	{0009-0006-0010-0008-000d-000d-000d-000d-000d-000d-000d}
+"008"	{000a-0000-0006-0901-0a00-cd00}
+"009"	{000a-0000-0006-0c05-0b00-cd00}
+"010"	{emote: Soft Smile}Ahora que lo pienso{pause 8}.{pause 8}.{pause 8}.{pause 20} No hemos	tenido muchas oportunidades	de conocernos bien, {pause 10}¿verdad?	{emote: Agreement}Quizá si me quedo, {pause 10}acabemos	siendo buen{os/as} amig{os/as},{pause 10} {Player nickname (green)}.	{pause 20}Sí, {pause 10}voy a posponer la mudanza.
+"011"	{emote: Happiness}Solo con hablar contigo me vienen	a la memoria los buenos momentos	que hemos pasado junt{os/as}.	{emote: Distress}¡Oooh, {pause 10}ahora no me quiero mudar!{pause 20}	Y menos ahora que sé que podemos	llegar a ser incluso mejores amig{os/as}.
+"012"	{emote: Shocked}¡¿Quieres convencerme de que	me quede?!{Wait for input}{emote: Agreement}Está claro que nuestra amistad es	más profunda de lo que pensaba.	{pause 40}{emote: Sunny}¡Pues hala,{pause 10} que no me mudo!
+"013"	{emote: Happiness}Muchas gracias por todo.	{pause 20}Cuida mucho tus chakras y tu aura.{Wait for input}{emote: Soft Smile}Espero que el destino vuelva a	entrelazar nuestros caminos.
 == 2 ==
-"001"	{emote: Distress}
-"002"	Le déménagement approche, il faut	que je finisse mes cartons...{pause 40}
-"003"	{0009-0001-0006-04-00-05-00-06-00}
-"004"	{emote: Soft Smile}
-"005"	{emote: Alarmed}
-"006"	{emote: Shyness}
-"007"	{0009-0006-0010-08-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00}
-"008"	{000a-0000-0006-01-09-00-0a-00-ffffffcd}
-"009"	{000a-0000-0006-05-0c-00-0b-00-ffffffcd}
-"010"	{emote: Soft Smile}
-"011"	{emote: Happiness}
-"012"	{emote: Distress}
-"013"	{emote: Happiness}
+"001"	{emote: Distress}J'ai intérêt à me dépêcher si je veux	que mes cartons soient prêts! Je	déménage dans {Number (0x6)} {jour/jour/jours}!{Player can respond (0000):0003-0000-0007-0000}	Ne pars pas!	Allez, au boulot!
+"002"	Le déménagement approche, il faut	que je finisse mes cartons...{pause 40}{emote: Sigh} Vous	allez tellement me manquer...{Player can respond (0000):0003-0000-0007-0000}	Ne nous quitte pas!	Je ne t'oublierai pas.
+"003"	{0009-0001-0006-0004-0005-0006}
+"004"	{emote: Soft Smile}Tu crois vraiment que je devrais	rester?{pause 20}{emote: Agreement} Toi qui es la sagesse	incarnée, tu dois avoir raison...	Bon, tu m'as convaincue, je reste!{Wait for input}{emote: Happiness}	Le déménagement est annulé!
+"005"	{emote: Alarmed}Tu veux vraiment que je reste?	J'ignorais que je comptais autant	pour toi... {pause 8}Ça me touche beaucoup!	{emote: Happiness}Il ne me manquait qu'une bonne	raison de rester, et je l'ai trouvée :	toi! {pause 20}C'est décidé,{pause 8} je reste!
+"006"	{emote: Shyness}Pas faux.{pause 8} Tu sais, je crois que	j'attendais que quelqu'un me	convainque de rester...	{emote: Distress}Qu'est-ce que je ferais toute seule	dans une ville inconnue, de toute	façon?	{emote: Soft Smile}Tu es si genti{l/lle}, {Player nickname (green)}!	J'espère que personne ne comptait	s'installer chez moi, hi hi!
+"007"	{0009-0006-0010-0008-000d-000d-000d-000d-000d-000d-000d}
+"008"	{000a-0000-0006-0901-0a00-cd00}
+"009"	{000a-0000-0006-0c05-0b00-cd00}
+"010"	{emote: Soft Smile}Maintenant que tu le dis{pause 8}.{pause 8}.{pause 8}.{pause 8} On n'a	jamais eu l'occasion de mieux se	connaître, toi et moi...	{emote: Agreement}Si je reste en ville, peut-être qu'on	pourra y remédier...{pause 20} Allez, c'est dit :{pause 8}	mon déménagement est repoussé!
+"011"	{emote: Happiness}Quand je pense à tous les jolis	souvenirs qu'on a ensemble,{pause 8} j'ai le	cœur serré à l'idée de partir...	{emote: Distress}Non, c'est trop bête!{pause 20} On a encore	tant de bons moments à partager!{pause 20}	C'est officiel :{pause 8} je reste!
+"012"	{emote: Distress}C'est...{pause 20}{emote: Distress} C'est tout? Tu n'essaies	même pas de me retenir?{Wait for input}{emote: Anger}Eh bien, moi qui croyais qu'on était	{copains/copines}... {Wait for input}{emote: Agreement}Mais il n'est peut-être pas	trop tard, après tout...	Au diable mon déménagement! On	va devenir les {meilleurs amis/meilleures amies} du	monde, tu verras!
+"013"	{emote: Happiness}Merci pour tout. {pause 20}Prends soin de toi,	{Player nickname (green)}, et peut-être à une	prochaine! {capitalized}{catchphrase}!

@@ -1,21 +1,21 @@
 == 0 ==
-"001"	{emote: Joy}
-"002"	{emote: Alarmed}
-"003"	{emote: Joy}
-"004"	{emote: Glee}
-"005"	{emote: Delight}
-"006"	{emote: Joy}
-"007"	キミって{pause 20}
-"008"	{emote: Delight}
-"009"	{emote: Glee}
-"010"	{emote: Alarmed}
-"011"	{Player name}
-"012"	{emote: Happiness}
-"013"	{emote: Greetings}
-"014"	{emote: Glee}
-"015"	{emote: Shyness}
-"016"	{emote: Bashful}
-"017"	
-"018"	
-"019"	
-"020"	
+"001"	{emote: Joy}やっほぉ～{pause 20}　おめでとぉ～！{pause 40}	{ruby (charSpan 2): きょう}今日って　{Player nickname (green)}{0005-000d-0000}の	おたんじょう{ruby (charSpan 1): び}日　だよねぇ～{Wait for input}{emote: Happiness}ボクからの　プレゼント、{pause 20}	キミのおうちに　おくっておいたから	あとで　{ruby (charSpan 1): み}見てねぇ、{pause 8}{catchphrase}
+"002"	{emote: Alarmed}{0007-000a-0000}{ruby (charSpan 2): きょう}今日のしゅやく{pause 20}	{0007-000a-0000}はっけ～～ん！{Wait for input}{emote: Delight}{Player nickname (green)}{0005-000d-0000}、{pause 20}	おたんじょう{ruby (charSpan 1): び}日　おめでとぉ～！{Wait for input}{emote: Shyness}わすれっぽい　ボクだけど、{pause 20}	キミの　おたんじょう{ruby (charSpan 1): び}日は	おぼえておいたんだぁ～{Wait for input}{emote: Happiness}キミん{ruby (charSpan 1): ち}家に、{pause 20}	プレゼント　おくっておいたから	{ruby (charSpan 1): み}見てみてねぇ、{pause 8}{catchphrase}
+"003"	{emote: Joy}{Player nickname (green)}{0005-000d-0000}～！{pause 20}	ハッピ～{pause 20}バ～スデ～！{Wait for input}{emote: Glare}おたんじょう{ruby (charSpan 1): び}日は{pause 20}	どんな　ビックリがあるか	わからないよぉ？{Wait for input}{emote: Shyness}ボクは{pause 20}　キミん{ruby (charSpan 1): ち}家のポストに	ビックリしこんじゃったぁ～{pause 40}	あとで　{ruby (charSpan 1): み}見てみてねぇ、{pause 8}{catchphrase}
+"004"	{emote: Glee}ハッピ～バ～スデ～！{pause 40}	{ruby (charSpan 2): きょう}今日って　キミの	おたんじょう{ruby (charSpan 1): び}日なんだねぇ～{Wait for input}{emote: Thought}うぅ～ん{pause 20}　そう{ruby (charSpan 1): おも}思って{ruby (charSpan 1): み}見ると、{pause 20}	なんだか　いつもより	オトナっぽい{ruby (charSpan 1): き}気がする{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}{Player nickname (green)}{0005-000d-0000}！{pause 20}	オトナになっても	ボクと　あそんでねぇ、{pause 8}{catchphrase}
+"005"	{emote: Delight}{ruby (charSpan 2): きょう}今日は　キミの	おたんじょう{ruby (charSpan 1): び}日なんだねぇ！{pause 20}	おめでとぉ、{pause 8}{catchphrase}{pause 40}{emote: Soft Smile}{Wait for input}{emote: Love}はぁ～{pause 20}	ボクも　おたんじょう{ruby (charSpan 1): び}日ケーキ、	{ruby (charSpan 1): た}食べたいなぁ～{Wait for input}{emote: Disagreement}でも{pause 20}　おたんじょう{ruby (charSpan 1): び}日ケーキって{pause 20}	{emote: Happiness}{ruby (charSpan 2): じぶん}自分の　おたんじょう{ruby (charSpan 1): び}日に{ruby (charSpan 1): た}食べるから	おいしいんだよね！{pause 20}　きっと！
+"006"	{emote: Joy}{Player name}{0005-000d-0000}～！{pause 20}	ハッピ～{pause 20}バ～スデ～！{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は　おかしとか{pause 20}	ごちそうとか、{pause 20}	たくさん{ruby (charSpan 1): た}食べるのぉ～？{Wait for input}{emote: Daydreaming}ボクも　{ruby (charSpan 1): はや}早く{pause 20}	つぎの　おたんじょう{ruby (charSpan 1): び}日が	{ruby (charSpan 1): こ}来ないかなぁ～？
+"007"	キミって{pause 20}　{emote: Curious}うるう{ruby (charSpan 1): どし}年に	{ruby (charSpan 1): う}生まれたんだよねぇ？{Wait for input}{emote: Happiness}{ruby (charSpan 2): ことし}今年は　うるう{ruby (charSpan 1): どし}年じゃないから、{pause 20}	キミのおたんじょう{ruby (charSpan 1): び}日は	{ruby (charSpan 2): きょう}今日　おいわいだぁ～{Wait for input}{emote: Glee}ハッピバ～スデ～{pause 20}	{Player nickname (green)}{0005-000d-0000}！{Wait for input}プレゼントは	ポストに{ruby (charSpan 1): い}入れておいたから{pause 20}	あとで　{ruby (charSpan 1): み}見てみてねぇ、{pause 8}{catchphrase}
+"008"	{emote: Delight}{Player nickname (green)}{0005-000d-0000}{pause 20}	{ruby (charSpan 3): いちにちはや}一日早いけど　おめでとぉ～！{Wait for input}また{ruby (charSpan 2): いっぽ}一歩　オトナに	なっちゃったねぇ～{Wait for input}{emote: Happiness}{ruby (charSpan 2): ことし}今年は　うるう{ruby (charSpan 1): どし}年じゃないから、{pause 20}	{ruby (charSpan 2): きょう}今日　おいわいさせてもらうよぉ{Wait for input}{ruby (charSpan 2): ことし}今年も　{ruby (charSpan 2): いちねん}一年、{pause 20}	ボクと　なかよくしてねぇ、{pause 8}{catchphrase}
+"009"	{emote: Glee}{Player nickname (green)}{0005-000d-0000}～！{pause 20}	ハッピ～{pause 20}バ～スデ～！{Wait for input}{emote: Delight}しかも　{ruby (charSpan 2): ことし}今年は、{pause 20}	{ruby (charSpan 2): よねん}四年に{ruby (charSpan 2): いっかい}一回のうるう{ruby (charSpan 1): どし}年！{Wait for input}キミの　たんじょう{ruby (charSpan 1): び}日を	{ruby (charSpan 2): とうじつ}当日に　おいわいできるなんて{pause 20}	{ruby (charSpan 2): きょう}今日は　とくべつな{ruby (charSpan 1): ひ}日だねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Glare}こんなに　すごい{ruby (charSpan 1): ひ}日は、{pause 20}	どんな　ビックリがあるか	わからないよぉ？{Wait for input}{emote: Shyness}じつはボク{pause 8}・{pause 8}・{pause 8}・{pause 20}	キミん{ruby (charSpan 1): ち}家のポストに	ビックリ　しこんじゃったぁ～{Wait for input}{emote: Sunny}あとで　{ruby (charSpan 1): み}見てみてねぇ！
+"010"	{emote: Alarmed}{0007-000a-0000}あぁ～！{pause 40}	{ruby (charSpan 2): きょう}今日って　{Player nickname (green)}{0005-000d-0000}の	おたんじょう{ruby (charSpan 1): び}日　でしょぉ～？！{Wait for input}{emote: Happiness}しかも　{ruby (charSpan 2): きょう}今日は、{pause 20}{ruby (charSpan 2): よねん}四年に{ruby (charSpan 2): いっかい}一回の	スペシャル　バ～スデ～！{pause 40}	{emote: Delight}ホントに　おめでとぉ～！{pause 40}{emote: Soft Smile}
+"011"	{Player name}{0005-000d-0000}！{pause 20}	{emote: Curious}{ruby (charSpan 2): きょう}今日って　キミの	おたんじょう{ruby (charSpan 1): び}日だよねぇ～？{Wait for input}{emote: Joy}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ボク　ちゃんと	おぼえてたぁ、{pause 8}{catchphrase}
+"012"	{emote: Happiness}やぁ～{pause 20}	おたんじょう{ruby (charSpan 1): び}日の　{Player name}{0005-000d-0000}！{pause 40}	{emote: Greetings}ハッピ～{pause 20}バ～スデ～！
+"013"	{emote: Greetings}やぁ～　{Player name}{0005-000d-0000}！{pause 20}	{emote: Happiness}{ruby (charSpan 3): いちにちはや}一日早いけど、	おたんじょう{ruby (charSpan 1): び}日　おめでとぉ～
+"014"	{emote: Glee}おたんじょう{ruby (charSpan 1): び}日、{pause 20}	{Town name (pink)}{ruby (charSpan 1): むら}村で	{ruby (charSpan 1): たの}楽しく　すごしてねぇ、{pause 8}{catchphrase}
+"015"	{emote: Shyness}じつは{pause 20}　プレゼントを	よういしてあるんだぁ～{pause 40}	はい、{pause 20}ど～ぞ！
+"016"	{emote: Bashful}えへへ～{pause 20}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってくれたら	うれしいなぁ、{pause 8}{catchphrase}
+"017"
+"018"
+"019"
+"020"

@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Fearful}
-"002"	{emote: Fearful}
-"003"	{emote: Surprise}
-"004"	{emote: Fearful}
-"005"	{emote: Fearful}
-"006"	{emote: Fearful}
-"007"	{emote: Sadness}
-"008"	{emote: Fearful}
-"009"	{emote: Sneezing}
+"001"	{emote: Fearful}あ、{pause 10}{Player name}{0005-000d-0000}{pause 10}	いらっしゃい～{Wait for input}{emote: Sadness}でも　{ruby (charSpan 2): きょう}今日は、{pause 10}ちょっと{ruby (charSpan 2): ちょうし}調子が{ruby (charSpan 1): わる}悪いから{pause 10}	あんまり{ruby (charSpan 1): あそ}遊べないんだ～
+"002"	{emote: Fearful}{Player name}{0005-000d-0000}だ～{Wait for input}	{emote: Sadness}アタイ、{pause 10}{ruby (charSpan 2): きょう}今日　{ruby (charSpan 3): たいちょうわる}体調悪くてさ{pause 20}	また{ruby (charSpan 2): こんど}今度{pause 8}{ruby (charSpan 1): あそ}遊ぼうね、{pause 15}{catchphrase}
+"003"	{emote: Surprise}あ！　{pause 20}{Player nickname (green)}{0005-000d-0000}{pause 10}・{pause 10}・{pause 10}・{pause 10}{Wait for input}	{emote: Fearful}アタイ、{pause 10}なんか　{ruby (charSpan 2): ぐあい}具合{ruby (charSpan 1): わる}悪くてさ～{pause 20}	{emote: Sadness}{ruby (charSpan 2): きょう}今日は　{pause 10}おとなしくしてるよ
+"004"	{emote: Fearful}せっかく{ruby (charSpan 1): き}来てくれたのに　{pause 8}ごめん{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	なんか　{pause 10}{ruby (charSpan 1): あさ}朝から{ruby (charSpan 2): さむけ}寒気がするんだよ～{pause 20}	また{ruby (charSpan 2): こんど}今度　{pause 8}{ruby (charSpan 1): あそ}遊ぼうね、{pause 15}{catchphrase}
+"005"	{emote: Fearful}あ～　{pause 20}{Player nickname (green)}{0005-000d-0000}だ{Wait for input}	う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}さっきから{pause 10}　{ruby (charSpan 1): からだ}体がだるくてさ{pause 30}	{ruby (charSpan 1): ねつ}熱でもあるのかなぁ？	{emote: Sadness}{ruby (charSpan 2): きょう}今日は、{pause 10}おとなしくしてるね{pause 20}	{emote: Sheepishness}また{ruby (charSpan 2): こんど}今度　{pause 10}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来て
+"006"	{emote: Fearful}{Player nickname (green)}{0005-000d-0000}、{pause 10}	せっかく{ruby (charSpan 1): き}来てくれたのに　{pause 8}ごめん{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sadness}アタイ、{pause 10}{ruby (charSpan 1): あたま}頭がズキズキするんだよね{pause 30}	{ruby (charSpan 1): あそ}遊ぶのは　またにして～
+"007"	{emote: Sadness}{Text size 150%}ゴホッ{pause 8}・{pause 8}・{pause 8}・{pause 8}ゴホッゴホッ！{Wait for input}{Text size 100%}{emote: Worry}なんか　{ruby (charSpan 2): ちょうし}調子{ruby (charSpan 1): わる}悪いよ～{pause 20}	う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}{catchphrase}
+"008"	{emote: Fearful}う～{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}{Wait for input}	ぼ～っとする{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sadness}あぁうぅぅ
+"009"	{emote: Sneezing}ハックシュン{pause 5}・{pause 5}・{pause 5}・{pause 5}！{Wait for input}	アタイ{pause 10}・{pause 10}・{pause 10}・{pause 10}	{emote: Sadness}このままどうなるの{pause 8}・{pause 8}・{pause 8}・{pause 8}？！

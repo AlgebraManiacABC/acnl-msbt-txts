@@ -1,8 +1,8 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	
-"003"	
-"004"	{pause 8}
-"005"	{emote: Distress}
-"006"	{pause 8}
-"007"	{pause 8}
+"001"	{emote: Happiness}{ruby (charSpan 1): いま}今から　アタイが{pause 10}	ジェスチャーを{ruby (charSpan 1): つか}使った　クイズを{ruby (charSpan 1): だ}出すよ！{Wait for input}{emote: Glee}{ruby (charSpan 1): なに}何を{ruby (charSpan 2): ひょうげん}表現しているか{pause 10}	よ～く{ruby (charSpan 1): み}見て　{ruby (charSpan 1): あ}当ててね！
+"002"
+"003"
+"004"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Distress}ハズレだよ～{Wait for input}{emote: Thought}え～　{pause 20}わかんなかった？！{Wait for input}	{ruby (charSpan 2): せいかい}正解は　{pause 10}{0012-0013-0002-cd00}{pause 30}	{emote: Worry}アタイの{ruby (charSpan 3): えんぎりょく}演技力も　{pause 10}まだまだか～
+"005"	{emote: Distress}ちがうよ～{pause 30}	{emote: Reset}{ruby (charSpan 2): せいかい}正解は　{pause 10}{0012-0013-0002-cd00}！{Wait for input}{emote: Resigned}アタイの　{ruby (charSpan 3): ひょうげんりょく}表現力に{pause 10}	ついてこれなかったか～、{pause 15}{catchphrase}
+"006"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Joy}アタリ～！{pause 30}	やっぱり　{pause 10}アタイのパフォーマンスが	よかったのかな、{pause 15}{catchphrase}{pause 20}{emote: Soft Smile}
+"007"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Glee}うん！　{pause 20}{ruby (charSpan 2): せいかい}正解だよ～！{pause 30}	{emote: Soft Smile}アタイの　{ruby (charSpan 2): えんぎ}演技、{pause 10}	{emote: Pride}なかなか　いいカンジでしょ？

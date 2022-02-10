@@ -1,12 +1,12 @@
 == 0 ==
-"001"	어머, 좋은 아침이야{pause 8}
-"002"	{emote: Greetings}
-"003"	{emote: Soft Smile}
-"004"	{emote: Soft Smile}
-"005"	안녕, {Player nickname (green)}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	{emote: Worry}
-"010"	{Player nickname (green)}
-"011"	{emote: Soft Smile}
+"001"	어머, 좋은 아침이야{pause 8}	{Player nickname (green)}{Wait for input}{emote: Soft Smile}당신은 꼭 해님처럼{pause 16}	아침부터 기운이 넘치네, {pause 8}{catchphrase}
+"002"	{emote: Greetings}어머, {Player nickname (green)}!{pause 16}	아침부터 수고가 많네～ {pause 8}{catchphrase}!
+"003"	{emote: Soft Smile}{Greeting begin}어머, {Player nickname (green)}!{Greeting end}{pause 16}	좋은 아침이야～ {pause 8}{catchphrase}!
+"004"	{emote: Soft Smile}어머, 안녕{pause 16}	{Player nickname (green)}!
+"005"	안녕, {Player nickname (green)}!{pause 16}	오늘은 하지라서 그런지	해가 좀 기네～ {pause 8}{catchphrase}
+"006"	{emote: Happiness}{Greeting begin}안녕, {Player nickname (green)}!{Greeting end}{pause 32}	{emote: Worry}이 햇볕{pause 8}・{pause 8}・{pause 8}・{pause 8} 어떻게 좀 하고 싶다	그렇지 않니? {pause 8}{catchphrase}?
+"007"	{emote: Greetings}{Greeting begin}어머, {Player nickname (green)}!{Greeting end}{pause 32}	{emote: Soft Smile}오늘은 말이지・・・ {pause 16}왠지 해님이	유난히 빛나는 것 같아, {pause 8}{catchphrase}
+"008"	{emote: Greetings}굿 이브닝, {Player nickname (green)}{Wait for input}	{emote: Love}뭔가 신비롭지 않니? {pause 8}{catchphrase}?{pause 32}	{Hour}시인데 이렇게 밝다니 말야{pause 8}
+"009"	{emote: Worry}음, {pause 16}굿 이브닝{pause 4}・{pause 4}・{pause 4}・{pause 4}	이라고 인사해도 되는 거 맞지?{Wait for input}{emote: Anger}아무리 밝다 해도 벌써 {Hour}시인걸{pause 16}	이러다 생활 리듬이 엉망이 되겠어,	{pause 8}{catchphrase}
+"010"	{Player nickname (green)}, {pause 16}	굿 이브닝{pause 4}・{pause 4}・{pause 4}・{pause 4} 이거 맞지?{Wait for input}{emote: Sheepishness}아직까지 이렇게 밝다니{pause 4}・{pause 4}・{pause 4}・{pause 4}	오늘은 해님 {pause 16}기운이 넘치네～	{pause 8}{catchphrase}
+"011"	{emote: Soft Smile}{Greeting begin}굿 이브닝, {Player nickname (green)}{Greeting end}{pause 32}	{emote: Sheepishness}기분이 이상하지? {pause 8}{catchphrase}?{pause 32}	{Hour}시인데 이렇게 밝다니 말야

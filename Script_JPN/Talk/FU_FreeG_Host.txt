@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Glee}
-"005"	{0009-0003-000a-06-00-07-00-08-00-09-00-00-00}	
-"006"	{emote: Surprise}
-"007"	{emote: Joy}
-"008"	{emote: Distress}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	
-"012"	{emote: Happiness}
+"001"	{emote: Curious}あら？{pause 20}	お{ruby (charSpan 1): きゃく}客さんが　{ruby (charSpan 1): き}来てるみたいですね
+"002"	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{pause 10}よそから	お{ruby (charSpan 1): きゃく}客さんが　{pause 3}いらしてるんですね
+"003"	{emote: Happiness}お{ruby (charSpan 1): きゃく}客さんが　{ruby (charSpan 1): き}来てるみたいですけど{pause 10}	{Player nickname (green)}さんの　お{ruby (charSpan 2): ともだち}友達ですか？{Wait for input}{emote: Glee}{Town name (pink)}{ruby (charSpan 1): むら}村を{ruby (charSpan 1): たの}楽しんでもらえるように、{pause 10}	がんばらなくっちゃ！
+"004"	{emote: Glee}お{ruby (charSpan 1): きゃく}客さんが　{ruby (charSpan 1): き}来てるみたいですよ！{pause 20}	{emote: Happiness}さっそく　{pause 10}おもてなし	しなくっちゃですね！
+"005"	{0009-0003-000a-0006-0007-0008-0009-000a}
+"006"	{emote: Surprise}あ！　{pause 20}{emote: Distress}{ruby (charSpan 1): なに}何か　{pause 10}お{ruby (charSpan 2): かし}菓子でも{ruby (charSpan 1): つく}作っておけば	{ruby (charSpan 1): よ}良かったです{pause 8}・{pause 8}・{pause 8}・{pause 8}{catchphrase}
+"007"	{emote: Joy}{ruby (charSpan 2): いろいろ}色々と　おしゃべりしたくて、{pause 10}	{ruby (charSpan 2): きあい}気合が{ruby (charSpan 1): はい}入っちゃいます！{pause 30}{emote: Soft Smile}
+"008"	{emote: Distress}でも　{ruby (charSpan 1): きゅう}急だったので{pause 10}	お{ruby (charSpan 2): へや}部屋の{ruby (charSpan 2): かたづ}片付けが{pause 5}	まだなんです、{pause 10}{catchphrase}！
+"009"	{emote: Happiness}{Player nickname (green)}さんは　もう{ruby (charSpan 1): あそ}遊びましたか？{Wait for input}	まだだったら、{pause 10}	ぜひおしゃべりしてきてください！
+"010"	{emote: Happiness}まだ　おしゃべりしていなければ、{pause 10}	わたしにエンリョせず、{pause 10}	{ruby (charSpan 1): あそ}遊んできてくださいね！！
+"011"
+"012"	{emote: Happiness}お{ruby (charSpan 2): ともだち}友達を　{ruby (charSpan 1): むら}村に{ruby (charSpan 1): よ}呼んで{pause 10}	{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 1): あそ}遊ぶのって　{pause 3}{ruby (charSpan 1): たの}楽しいですよね{Wait for input}{emote: Reset}みなさんと　たくさん{ruby (charSpan 1): あそ}遊んで{pause 10}	そろそろ　{ruby (charSpan 2): かいさん}解散しましょうとなったときに、{Wait for input}{emote: Happiness}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくださった{ruby (charSpan 2): かたがた}方々を{pause 10}	スピーディーに　{ruby (charSpan 1): むら}村までお{ruby (charSpan 1): とど}届けする{pause 5}	{emote: Glee}{ruby (charSpan 2): かんたん}簡単な{ruby (charSpan 2): ほうほう}方法が　あるんですよ！	{emote: Agreement}{Blue}START{Color Reset}を{ruby (charSpan 1): お}押して{pause 10}	{emote: Greetings}〔{Blue}おひらきにする{Color Reset}〕を{ruby (charSpan 1): えら}選んでみてください{Wait for input}{emote: Happiness}いっせいに　{pause 10}{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): むら}村へ	お{ruby (charSpan 1): かえ}帰りいただくことができるので{pause 10}	{ruby (charSpan 2): べんり}便利だと{ruby (charSpan 1): おも}思います、{pause 15}{catchphrase}

@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Sunny}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Shocked}
-"006"	{emote: Sunny}
-"007"	{emote: Sunny}
-"008"	{emote: Worry}
+"001"	{emote: Sunny}やった！{pause 40}	{emote: Reset}それじゃ、{ruby (charSpan 2): なんじ}何時がいい？		{emote: Agreement}ウチは、{ruby (charSpan 2): きょう}今日の　{Blue}{0004-0010-0002-cd00}{ruby (charSpan 1): じ}時{Color Reset}より{ruby (charSpan 1): あと}後なら	{ruby (charSpan 1): あ}空いてるけど？
+"002"	{emote: Alarmed}お、{ruby (charSpan 1): ふと}太っ{ruby (charSpan 1): ぱら}腹～！{pause 40}	{emote: Soft Smile}じゃあ{pause 8}　アンタの{ruby (charSpan 2): つごう}都合の	いい{ruby (charSpan 2): じかん}時間を　{ruby (charSpan 1): おし}教えてよ！	{emote: Agreement}ウチは、{ruby (charSpan 2): きょう}今日の　{Blue}{0004-0010-0002-cd00}{ruby (charSpan 2): じはん}時半{Color Reset}より{ruby (charSpan 1): あと}後なら	{ruby (charSpan 1): あ}空いてるけど？
+"003"	{emote: Alarmed}あ{pause 8}・{pause 8}・{pause 8}・{pause 20}	って{ruby (charSpan 1): い}言っても、もう　{Hour}{ruby (charSpan 1): じ}時か！		{emote: Sigh}{ruby (charSpan 2): ひとさま}人様の{ruby (charSpan 1): いえ}家に　{ruby (charSpan 1): あ}上がるような	{ruby (charSpan 2): じかん}時間じゃないね{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Agreement}また　{ruby (charSpan 2): こんど}今度にするよ、{pause 20}{catchphrase}
+"004"	{emote: Alarmed}あれ？　{pause 20}やめちゃうの？{pause 10}	なんか　{ruby (charSpan 2): せんやく}先約あり？		{emote: Agreement}まぁ、そういうことなら	また　{ruby (charSpan 2): こんど}今度でいいよ！{pause 20}	{catchphrase}！
+"005"	{emote: Shocked}えっ！{pause 10}	そんなに　{ruby (charSpan 1): はや}早く？！		{emote: Distress}ウチにだって{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): じゅんび}準備ってもんが　あるんだよ！{pause 20}	もうちょっと　{ruby (charSpan 1): あと}後にして！{pause 40}{emote: Worry}
+"006"	{emote: Sunny}{ruby (charSpan 2): りょうかい}了解！{pause 40}	{emote: Reset}じゃあ、{Blue}{0005-0019-0002-cd01}{0004-0010-0002-cd01}{ruby (charSpan 1): じ}時	{Color Reset}ちょうどくらいに　{ruby (charSpan 1): かお}顔{ruby (charSpan 1): だ}出すね！　{pause 20}{catchphrase}！
+"007"	{emote: Sunny}オッケー！{pause 40}	{emote: Soft Smile}そいじゃ、{Blue}{0005-0019-0002-cd01}{0004-0010-0002-cd01}{ruby (charSpan 1): じ}時{0004-0011-0002-cd02}{000e-000b-0000}{Color Reset}に	{ruby (charSpan 1): よ}寄らせてもらうね！　{pause 20}{catchphrase}！
+"008"	{emote: Worry}えっ{pause 8}・{pause 8}・{pause 8}・{pause 40}	よりにもよって{pause 5}　そんな{ruby (charSpan 2): じかん}時間？！{Wait for input}{emote: Reset}もうちょっと　はやい{ruby (charSpan 2): じかん}時間に{pause 5}	してくれない、{pause 8}{catchphrase}？

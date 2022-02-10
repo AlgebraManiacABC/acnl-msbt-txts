@@ -1,41 +1,41 @@
 == 0 ==
-"001"	あの～　{pause 20}
-"002"	{Player nickname (green)}
-"003"	どうも～！　{pause 20}!
-"004"	すみませ～ん！{pause 25}
-"005"	あら　{pause 10}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Alarmed}
-"010"	
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	
-"020"	
-"021"	あ！{pause 20}
-"022"	あ！{pause 20}
-"023"	そうそう{pause 10}
-"024"	そういえば{pause 10}
-"025"	そうだ！{pause 20}
-"026"	そうそう　{pause 20}
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	{emote: Happiness}
-"032"	{emote: Soft Smile}
-"033"	{emote: Happiness}
-"034"	{emote: Surprise}
-"035"	{emote: Surprise}
-"036"	あら{pause 20}
-"037"	
-"038"	
-"039"	
-"040"	
+"001"	あの～　{pause 20}{Player nickname (green)}さん{pause 10}	いらっしゃいますか～？{0007-0008-0004-0096-0000}
+"002"	{Player nickname (green)}さ～ん！{pause 25}	{ruby (charSpan 1): なか}中に　{pause 5}いますか～？{0007-0008-0004-0096-0000}
+"003"	どうも～！　{pause 20}{Villager's name (orange)}です～{0007-0008-0004-0096-0000}
+"004"	すみませ～ん！{pause 25}	お{ruby (charSpan 2): るす}留守ですか～？！{0007-0008-0004-0096-0000}
+"005"	あら　{pause 10}{ruby (charSpan 2): ざんねん}残念{pause 20}	いらっしゃると{ruby (charSpan 1): おも}思ったのに{pause 8}・{pause 8}・{pause 8}・{pause 30}	{ruby (charSpan 2): しかた}仕方ありませんね　{pause 20}{ruby (charSpan 1): かえ}帰ることにします{0007-0008-0004-0096-0000}
+"006"	{emote: Happiness}うふふ！{pause 20}	{ruby (charSpan 1): あそ}遊びに　{ruby (charSpan 1): き}来ちゃいました！
+"007"	{emote: Happiness}{Player nickname (green)}さん、{pause 10}おじゃましますね
+"008"	{emote: Happiness}{ruby (charSpan 2): しつれい}失礼します、{pause 15}{catchphrase}
+"009"	{emote: Alarmed}キャ！！　{pause 20}ゴキブリ～！！{Wait for input}{emote: Fearful}おしゃべりしようと{ruby (charSpan 1): おも}思って{pause 5}	{ruby (charSpan 1): き}来たんですけど{pause 15}	タイミングが　{pause 5}{ruby (charSpan 1): わる}悪かったみたいですね！	{emote: Distress}また{ruby (charSpan 2): こんど}今度　{pause 10}{ruby (charSpan 1): うかが}伺います！{pause 20}	{ruby (charSpan 2): しつれい}失礼しま～す！
+"010"
+"011"	{emote: Happiness}{ruby (charSpan 2): とつぜん}突然　すみません{Wait for input}	{ruby (charSpan 2): ようじ}用事があって　{pause 5}{ruby (charSpan 1): ちか}近くまで{ruby (charSpan 1): き}来たので{pause 15}	ごあいさつに　{ruby (charSpan 1): よ}寄ってみました
+"012"	{emote: Happiness}ビックリさせちゃいましたか？{Wait for input}	{ruby (charSpan 1): きゅう}急に　お{ruby (charSpan 1): はなし}話がしたくなって{pause 10}	やって{ruby (charSpan 1): き}来ちゃいました！
+"013"	{emote: Happiness}いらっしゃって　よかった～{Wait for input}お{ruby (charSpan 2): やくそく}約束してなかったので{pause 10}	お{ruby (charSpan 1): で}出かけされてるかもと{pause 5}　{ruby (charSpan 1): おも}思ってたんです
+"014"	{emote: Happiness}{ruby (charSpan 2): とつぜん}突然　{ruby (charSpan 1): うかが}伺ったのに{pause 10}	こうして　{pause 5}お{ruby (charSpan 1): きゃく}客さんが{ruby (charSpan 1): むか}迎えられるなんて{pause 15}	さすが　{pause 10}{Player nickname (green)}さんですね～！	{emote: Reset}わたしも　{ruby (charSpan 2): ひごろ}日頃から　{pause 10}お{ruby (charSpan 2): へや}部屋を	{emote: Agreement}キレイにしておかないとです！
+"015"	{emote: Happiness}{Player nickname (green)}さんの	お{ruby (charSpan 2): へや}部屋って　{pause 10}{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着きますね{Wait for input}	また　{pause 10}{ruby (charSpan 1): きゅう}急に　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来ちゃおうかしら
+"016"	{emote: Happiness}あら　{pause 10}おかまいなく{pause 30}	ちょっと　{pause 10}おしゃべりしに	{ruby (charSpan 1): き}来ただけですから、{pause 15}{catchphrase}！
+"017"	{emote: Happiness}こうして　{pause 10}{ruby (charSpan 1): きゅう}急に　おじゃますると{pause 10}	ふだんの　{Player nickname (green)}さんの{ruby (charSpan 1): く}暮らしが{pause 15}	かい{ruby (charSpan 1): ま}間{ruby (charSpan 1): み}見れるような　{ruby (charSpan 1): き}気がします
+"018"	{emote: Happiness}{ruby (charSpan 2): とつぜん}突然　{pause 10}{ruby (charSpan 1): と}戸だなを	{ruby (charSpan 1): あ}開けて{ruby (charSpan 1): み}見たりなんて　{pause 10}しないですよ{Wait for input}{emote: Reset}{ruby (charSpan 1): きゅう}急に　{ruby (charSpan 1): き}来たからって{pause 10}	あわてないでくださいね！
+"019"
+"020"
+"021"	あ！{pause 20}　{ruby (charSpan 2): こんど}今度　{ruby (charSpan 1): あ}会ったら{pause 10}	{ruby (charSpan 1): わた}渡そうと　{ruby (charSpan 1): おも}思ってたものがあるんです{Wait for input}{0011-0003-0002-0000}なんですけど{pause 10}	よければ　どうぞ！
+"022"	あ！{pause 20}	お{ruby (charSpan 1): わた}渡ししたいものが{pause 5}　あったんです{Wait for input}{0011-0003-0002-0000}なんですけど{pause 10}	{Player nickname (green)}さんっぽいなと{ruby (charSpan 1): おも}思って{pause 5}	{ruby (charSpan 1): も}持ってきたんです
+"023"	そうそう{pause 10}	お{ruby (charSpan 2): みやげ}土産があるんですよ{Wait for input}これ　{pause 10}{0011-0003-0002-0000}	なんですけど、{pause 10}もしよければ　どうぞ！
+"024"	そういえば{pause 10}　{ruby (charSpan 1): さ}差し{ruby (charSpan 1): い}入れに{pause 5}	{0011-0003-0002-0000}{pause 5}	{ruby (charSpan 1): も}持って{ruby (charSpan 1): き}来たんです{Wait for input}ぜひ　{pause 10}{ruby (charSpan 1): た}食べてくださいね！
+"025"	そうだ！{pause 20}　お{ruby (charSpan 2): みやげ}土産があるんです{Wait for input}	{0011-0003-0002-0000}	なんですけど、{pause 10}お{ruby (charSpan 1): くち}口に{ruby (charSpan 1): あ}合うかしら？！{pause 20}	よければ　{pause 10}{ruby (charSpan 1): あと}後で　{ruby (charSpan 1): た}食べてくださいね
+"026"	そうそう　{pause 20}{Player nickname (green)}さんに{pause 10}	{ruby (charSpan 1): さ}差し{ruby (charSpan 1): い}入れがあるんです{Wait for input}{0011-0003-0002-0000}	なんですけど、{pause 10}	よければ　{pause 10}めし{ruby (charSpan 1): あ}上がってください
+"027"
+"028"
+"029"
+"030"
+"031"	{emote: Happiness}さて、{pause 20}そろそろ	おいとましようかしら{Wait for input}{emote: Reset}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): とつぜん}突然　{ruby (charSpan 1): き}来たのに{pause 10}	おもてなし　いただいて{pause 10}	{emote: Happiness}ありがとうございました！
+"032"	{emote: Soft Smile}さて　{pause 20}あまり{ruby (charSpan 1): なが}長くいると{pause 10}	おじゃまになっちゃいますから{pause 10}	{emote: Reset}そろそろ　{pause 5}{ruby (charSpan 2): しつれい}失礼しますね	{emote: Glee}{ruby (charSpan 2): きょう}今日は　{pause 10}{ruby (charSpan 1): たの}楽しい{ruby (charSpan 2): じかん}時間を{pause 3}	ありがとうございました{Wait for input}	{emote: Happiness}また　{pause 5}{ruby (charSpan 1): あそ}遊んでください
+"033"	{emote: Happiness}では　{ruby (charSpan 2): きょう}今日は{pause 10}	このくらいにしておきます{pause 20}	{emote: Reset}{ruby (charSpan 2): とつぜん}突然　{ruby (charSpan 1): お}押しかけちゃって　{pause 10}すみませんでした	{emote: Happiness}{Player nickname (green)}さん{pause 10}	お{ruby (charSpan 2): げんき}元気そうで　{pause 5}よかったです{pause 20}	また　{pause 10}{emote: Greetings}{ruby (charSpan 1): あそ}遊びましょうね！
+"034"	{emote: Surprise}あら　{pause 20}もしかして　{pause 5}{Player nickname (green)}さん{pause 10}	お{ruby (charSpan 1): で}出かけですか？{Wait for input}{emote: Happiness}じゃあ　わたし{pause 10}	そろそろ　{ruby (charSpan 2): しつれい}失礼します{Wait for input}	{ruby (charSpan 2): きょう}今日は　{pause 10}ありがとうございました！
+"035"	{emote: Surprise}まぁ{pause 20}　{Player nickname (green)}さん{pause 10}	ご{ruby (charSpan 1): よう}用が　あるんですか？！{Wait for input}{emote: Distress}それは　すみませんでした{pause 20}	{emote: Soft Smile}わたしも　{pause 5}{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 1): で}出ますね！
+"036"	あら{pause 20}　お{ruby (charSpan 1): で}出かけするんですか？！{pause 20}	{emote: Happiness}それなら　{pause 10}わたしも　{ruby (charSpan 1): そと}外に{ruby (charSpan 1): で}出ますね{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は　{pause 5}{ruby (charSpan 2): とつぜん}突然　{ruby (charSpan 1): うかが}伺ったのに{pause 10}	ご{ruby (charSpan 2): しんせつ}親切に　{pause 5}ありがとうございました！
+"037"
+"038"
+"039"
+"040"

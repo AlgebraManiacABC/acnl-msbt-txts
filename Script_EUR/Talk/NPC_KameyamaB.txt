@@ -1,195 +1,195 @@
 == 0 ==
-"001"	{pause 40}
-"002"	{emote: Agreement}
-"003"	{emote: Agreement}
-"004"	Thank you for your savory—{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	
-"010"	In third place{pause 8}!
-"011"	In third place{pause 8}!
-"012"	In third place{pause 8}!
-"013"	Next, in second place{pause 8}
-"014"	Next, in second place{pause 8}
-"015"	Next, in second place{pause 8}
-"016"	Finally, in first place{pause 8}
-"017"	{pause 40}
-"018"	Finally, in first place{pause 8}
-"019"	{pause 40}
-"020"	Finally, in first place{pause 8}
-"021"	{pause 40}
-"022"	
-"023"	Please accept this	{Blue}bronze bug trophy{Color Reset}!{0007-0009-0004-3c-00-00-00}
-"024"	{pause 8}
-"025"	Please accept this	{Blue}bronze bug trophy{Color Reset}!{0007-0009-0004-3c-00-00-00}
-"026"	Please accept this	{Blue}silver bug trophy{Color Reset}!{0007-0009-0004-3c-00-00-00}
-"027"	{pause 8}
-"028"	Please accept this	{Blue}silver bug trophy{Color Reset}!{0007-0009-0004-3c-00-00-00}
-"029"	This shining {Blue}gold bug trophy{Color Reset}	belongs to you!{0007-0009-0004-4b-00-00-00}
-"030"	{pause 8}
-"031"	This shining {Blue}gold bug trophy{Color Reset}	belongs to you!{0007-0009-0004-4b-00-00-00}
-"032"	
-"033"	{emote: Surprise}
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
+"001"	{pause 40}I think we're about ready to begin	the {Blue}Bug-Off {Color Reset}awards ceremony.{Wait <0078 0000> 'time'}
+"002"	{emote: Agreement}All right, everything's ready	for the awards ceremony.{Wait <003c 0000> 'time'}{Wait for input}{emote: Happiness}I'll announce the winners	one by one.{pause 40} First...{Wait <005a 0000> 'time'}
+"003"	{emote: Agreement}Congratulations!{pause 20}	It was a very delectable specimen.{pause 20}	Your prize is well deserved!{Wait <003c 0000> 'time'}
+"004"	Thank you for your savory—{pause 20}	{emote: Distress}errrrrr...{pause 40}{emote: Happiness}SAVVY efforts today!{Wait <003c 0000> 'time'}
+"005"	{emote: Happiness}Congratulations on your win!{pause 20} Your	specimen was...simply refreshing.{Wait <003c 0000> 'time'}
+"006"	{emote: Happiness}Let's finish with a round of	applause for our winners!{Wait <0028 0000> 'time'}
+"007"	{emote: Greetings}Congratulations to all the winners!{pause 40}	I hope to see all of you at next	month's delightful {Blue}Bug-Off{Color Reset}!{Wait <00b4 0000> 'time'}
+"008"	{emote: Greetings}Congratulations to all the winners!{pause 40}	I hope to see all of you at the next	exciting {Blue}Bug-Off{Color Reset}!{Wait <00b4 0000> 'time'}
+"009"
+"010"	In third place{pause 8}.{pause 8}.{pause 8}.{pause 40}	with {Article(word-dependant)}{0011-0003-0002-0000}	worth a {gentleman's/respectable} {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0000}{Text size 100%}{Text size 150%}!{Text size 100%}{Wait <003c 0000> 'time'}
+"011"	In third place{pause 8}.{pause 8}.{pause 8}.{pause 40}	with {Article(word-dependant)}{0011-0003-0002-0000}{pause 40}	worth a lovely {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0000}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <0028 0000> 'time'}
+"012"	In third place{pause 8}.{pause 8}.{pause 8}.{pause 40}	with {Article(word-dependant)}{0011-0003-0002-0000}{pause 40}	worth a modest {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0001-0002-0000}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"013"	Next, in second place{pause 8}.{pause 8}.{pause 8}.{pause 40}	with {Article(word-dependant)}{0011-0003-0002-0001}{pause 40}	worth a respectable {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0001}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"014"	Next, in second place{pause 8}.{pause 8}.{pause 8}.{pause 40}	with {Article(word-dependant)}{0011-0003-0002-0001}{pause 40}	worth a decent {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0001}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <0028 0000> 'time'}
+"015"	Next, in second place{pause 8}.{pause 8}.{pause 8}.{pause 40}	with {Article(word-dependant)}{0011-0003-0002-0001}{pause 40}	worth an honorable {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0001-0002-0001}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"016"	Finally, in first place{pause 8}.{pause 8}.{pause 8}.{pause 40}	with {Article(word-dependant)}{0011-0003-0002-0002}{pause 40}	worth a smashing {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}
+"017"	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0002}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"018"	Finally, in first place{pause 8}.{pause 8}.{pause 8}.{pause 40}	with {Article(word-dependant)}{0011-0003-0002-0002}{pause 40}	worth a corking {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}
+"019"	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0002}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <0028 0000> 'time'}
+"020"	Finally, in first place{pause 8}.{pause 8}.{pause 8}.{pause 40}	with {Article(word-dependant)}{0011-0003-0002-0002}{pause 40}	worth a hearty {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}
+"021"	{pause 40}{emote: Star Yell}{pause 15}	{Blue}{Text size 150%}{0011-0001-0002-0002}{Text size 100%}{Color Reset}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"022"
+"023"	Please accept this	{Blue}bronze bug trophy{Color Reset}!{Wait <003c 0000> 'time'}
+"024"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Who is{pause 20} {emote: Sadness}unfortunately not with us	at this very moment.{Wait <003c 0000> 'time'}
+"025"	Please accept this	{Blue}bronze bug trophy{Color Reset}!{Wait <003c 0000> 'time'}
+"026"	Please accept this	{Blue}silver bug trophy{Color Reset}!{Wait <003c 0000> 'time'}
+"027"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Who has{pause 20} {emote: Sadness}unfortunately decided not	to join us at the moment.{Wait <003c 0000> 'time'}
+"028"	Please accept this	{Blue}silver bug trophy{Color Reset}!{Wait <003c 0000> 'time'}
+"029"	This shining {Blue}gold bug trophy{Color Reset}	belongs to you!{Wait <004b 0000> 'time'}
+"030"	{pause 8}.{pause 8}.{pause 8}.{pause 20}Who is{pause 20} {emote: Sadness}unfortunately unable to	join us at the moment.{Wait <003c 0000> 'time'}
+"031"	This shining {Blue}gold bug trophy{Color Reset}	belongs to you!{Wait <004b 0000> 'time'}
+"032"
+"033"	{emote: Surprise}Huh?{pause 20} It seems you can't carry your	delightful trophy at the moment.{Wait <003c 0000> 'time'}{Wait for input}{emote: Happiness}Once the awards ceremony is over,{pause 20}	I'll send it to your house via post.{Wait <003c 0000> 'time'}
+"034"
+"035"
+"036"
+"037"
+"038"
 == 1 ==
-"001"	Bien, que dé comienzo la entrega	de premios de la Caza de Bichos.{0007-0009-0004-78-00-00-00}
-"002"	{emote: Agreement}
-"003"	{emote: Agreement}
-"004"	Gracias por un bicho tan exquis...{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	
-"010"	En tercera posición,{pause 10}
-"011"	En el tercer puesto,{pause 10}
-"012"	En tercera posición,{pause 10}
-"013"	A continuación, en segundo puesto,{pause 10}
-"014"	A continuación, en segunda plaza,{pause 10}
-"015"	En la segunda posición,{pause 10}
-"016"	Para terminar, en primer puesto,{pause 10}
-"017"	{emote: Star Yell}
-"018"	Por último, en la primera plaza,{pause 10}
-"019"	{emote: Star Yell}
-"020"	Y ahora, en la primera plaza,{pause 10}
-"021"	{emote: Star Yell}
-"022"	
-"023"	Te hago entrega del	{Blue}bichotrofeo de bronce{Color Reset}.{0007-0009-0004-3c-00-00-00}
-"024"	Lamentablemente,{pause 20}
-"025"	Me complace entregarte el	{Blue}bichotrofeo de bronce{Color Reset}.{0007-0009-0004-3c-00-00-00}
-"026"	Te hago entrega del	{Blue}bichotrofeo de plata{Color Reset}.{0007-0009-0004-3c-00-00-00}
-"027"	Parece que {emote: Sadness}
-"028"	Aquí te entrego tu merecido	{Blue}bichotrofeo de plata{Color Reset}.{0007-0009-0004-3c-00-00-00}
-"029"	¡Y el brillante y reluciente	{Blue}bichotrofeo de oro {Color Reset}es solo	para ti!{0007-0009-0004-4b-00-00-00}
-"030"	Parece {emote: Sadness}
-"031"	¡Y este esplendoroso	{Blue}bichotrofeo de oro{Color Reset}	es solo para ti!{0007-0009-0004-4b-00-00-00}
-"032"	
-"033"	{emote: Surprise}
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
+"001"	Bien, que dé comienzo la entrega	de premios de la Caza de Bichos.{Wait <0078 0000> 'time'}
+"002"	{emote: Agreement}Todo está preparado para	la entrega de premios.{Wait <003c 0000> 'time'}{Wait for input}{emote: Happiness}Iré anunciando de uno en uno	a los ganadores,{pause 40} empezando	por el tercer puesto.{Wait <005a 0000> 'time'}
+"003"	{emote: Agreement}Un señor bicho, sí señor.{pause 20}	¡Ya lo creo!{pause 20} Un premio	totalmente merecido.{Wait <003c 0000> 'time'}
+"004"	Gracias por un bicho tan exquis...{pause 20}	{emote: Distress}quiero decir...{pause 40} {emote: Happiness}¡tan excelente,	tan excelente!{Wait <003c 0000> 'time'}
+"005"	{emote: Happiness}¡Enhorabuena por la victoria!{pause 20}	Tu bicho era realmente fantástico.{Wait <003c 0000> 'time'}
+"006"	{emote: Happiness}Bien, para terminar...{pause 20}	¡demos un fuerte aplauso{pause 20}	a nuestros ganadores!{Wait <0028 0000> 'time'}
+"007"	{emote: Greetings}¡Mi enhorabuena a todos!{pause 40} Espero	volver a veros en la edición de la	Caza de Bichos del próximo mes.{Wait <00b4 0000> 'time'}
+"008"	{emote: Greetings}¡Felicidades a todos!{pause 40} Espero veros	de nuevo en las ediciones de la	Caza de Bichos del próximo año.{Wait <00b4 0000> 'time'}
+"009"
+"010"	En tercera posición,{pause 10} con {Article(word-dependant)}	{0011-0003-0002-0000}	valorad{o/a/} en {Blue}{Number (0x8)} {Color Reset}{Blue}{puntos/punto/puntos}{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}¡{capitalized}{0011-0000-0002-0000}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"011"	En el tercer puesto,{pause 10} con {Article(word-dependant)}	{0011-0003-0002-0000}{pause 40}	valorad{o/a/} en {Blue}{Number (0x8)} {Blue}{puntos/punto/puntos}{Blue}{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}¡{capitalized}{0011-0000-0002-0000}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <0028 0000> 'time'}
+"012"	En tercera posición,{pause 10} con {Article(word-dependant)}	{0011-0003-0002-0000}{pause 40}	que le valió {Blue}{Number (0x8)} {Blue}{puntos/punto/puntos}{Blue}{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}¡{0011-0001-0002-0000}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"013"	A continuación, en segundo puesto,{pause 10}	con {Article(word-dependant)}{0011-0003-0002-0001}{pause 40}	valorad{o/a/} en {Blue}{Number (0x8)} {Blue}{puntos/punto/puntos}{Blue}{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}¡{capitalized}{0011-0000-0002-0001}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"014"	A continuación, en segunda plaza,{pause 10}	con {Article(word-dependant)}{0011-0003-0002-0001}{pause 40}	evaluad{o/a/} con {Blue}{Number (0x8)} {Blue}{puntos/punto/puntos}{Blue}{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}¡{capitalized}{0011-0000-0002-0001}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <0028 0000> 'time'}
+"015"	En la segunda posición,{pause 10} con {Article(word-dependant)}	{0011-0003-0002-0001}{pause 40}	que obtuvo {Blue}{Number (0x8)} {Blue}{puntos/punto/puntos}{Blue}{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}¡{capitalized}{0011-0001-0002-0001}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"016"	Para terminar, en primer puesto,{pause 10}	con {Article(word-dependant)}{0011-0003-0002-0002}{pause 40}	valorad{o/a/} en {Blue}{Number (0x8)} {Blue}{puntos/punto/puntos}{Blue}{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}
+"017"	{emote: Star Yell}{pause 15}	{Text size 150%}¡{capitalized}{0011-0000-0002-0002}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"018"	Por último, en la primera plaza,{pause 10} con	{Article(word-dependant)}{0011-0003-0002-0002}{pause 40}	evaluad{o/a/} con {Blue}{Number (0x8)} {Blue}{puntos/punto/puntos}{Blue}{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}
+"019"	{emote: Star Yell}{pause 15}	{Text size 150%}¡{capitalized}{0011-0000-0002-0002}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <0028 0000> 'time'}
+"020"	Y ahora, en la primera plaza,{pause 10} con	{Article(word-dependant)}{0011-0003-0002-0002}{pause 40}	de nada menos que {Blue}{Number (0x8)} {Blue}{puntos/punto/puntos}{Blue}{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}
+"021"	{emote: Star Yell}{pause 15}	{Text size 150%}¡{Text size 100%}{Blue}{Text size 150%}{capitalized}{0011-0001-0002-0002}{Text size 100%}{Color Reset}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"022"
+"023"	Te hago entrega del	{Blue}bichotrofeo de bronce{Color Reset}.{Wait <003c 0000> 'time'}
+"024"	Lamentablemente,{pause 20} {emote: Sadness}no está	presente en la ceremonia.{Wait <003c 0000> 'time'}
+"025"	Me complace entregarte el	{Blue}bichotrofeo de bronce{Color Reset}.{Wait <003c 0000> 'time'}
+"026"	Te hago entrega del	{Blue}bichotrofeo de plata{Color Reset}.{Wait <003c 0000> 'time'}
+"027"	Parece que {emote: Sadness}no está entre los	asistentes a la ceremonia.{Wait <003c 0000> 'time'}
+"028"	Aquí te entrego tu merecido	{Blue}bichotrofeo de plata{Color Reset}.{Wait <003c 0000> 'time'}
+"029"	¡Y el brillante y reluciente	{Blue}bichotrofeo de oro {Color Reset}es solo	para ti!{Wait <004b 0000> 'time'}
+"030"	Parece {emote: Sadness}que no ha podido	asistir a esta ceremonia.{Wait <003c 0000> 'time'}
+"031"	¡Y este esplendoroso	{Blue}bichotrofeo de oro{Color Reset}	es solo para ti!{Wait <004b 0000> 'time'}
+"032"
+"033"	{emote: Surprise}Un momento.{pause 20} Parece que no puedes	llevarte tu magnífico trofeo ahora.{Wait <003c 0000> 'time'}{Wait for input}{emote: Happiness}Bueno, no te preocupes.{pause 20} Te	lo enviaré en cuanto termine	la ceremonia.{Wait <003c 0000> 'time'}
+"034"
+"035"
+"036"
+"037"
+"038"
 == 2 ==
-"001"	{pause 40}
-"002"	{emote: Agreement}
-"003"	{emote: Agreement}
-"004"	Merci d'avoir fait autant d'efforts	pour ma collation...{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	
-"010"	À la troisième place{pause 8}
-"011"	À la troisième place{pause 8}
-"012"	À la troisième place{pause 8}
-"013"	Ensuite,{pause 20}
-"014"	Ensuite,{pause 30}
-"015"	Ensuite, {pause 30}
-"016"	Et enfin, {pause 30}
-"017"	{pause 40}
-"018"	Et enfin, {pause 30}
-"019"	{pause 40}
-"020"	Et enfin, {pause 30}
-"021"	{pause 40}
-"022"	
-"023"	Laisse-moi te remettre ce superbe	{Blue}trophée insecte brze{Color Reset}.{0007-0009-0004-3c-00-00-00}
-"024"	{pause 8}
-"025"	Laisse-moi te remettre ce superbe	{Blue}trophée insecte brze{Color Reset}.{0007-0009-0004-3c-00-00-00}
-"026"	Laisse-moi te remettre ce sublime	{Blue}trophée insecte arg{Color Reset}.{0007-0009-0004-3c-00-00-00}!
-"027"	{pause 8}
-"028"	Laisse-moi te remettre ce sublime	{Blue}trophée insecte arg{Color Reset}.{0007-0009-0004-3c-00-00-00}!
-"029"	Ce {Blue}trophée insecte or{Color Reset}	te revient de droit !{0007-0009-0004-4b-00-00-00}
-"030"	{pause 8}
-"031"	Ce {Blue}trophée insecte or{Color Reset}	te revient de droit !{0007-0009-0004-4b-00-00-00}
-"032"	
-"033"	{emote: Surprise}
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
+"001"	{pause 40}Je crois que tout le monde est là.{pause 30}	La cérémonie de remise des prix de	l'insectosafari peut commencer.{Wait <0078 0000> 'time'}
+"002"	{emote: Agreement}Bien, {pause 20}tout est prêt pour la	cérémonie de remise des prix.{Wait <003c 0000> 'time'}{Wait for input}{emote: Happiness}Je vais annoncer les gagnants un par	un.{pause 40} Tout d'abord...{Wait <005a 0000> 'time'}
+"003"	{emote: Agreement}Félicitations !{pause 30} Je me suis régalé les	papilles... {pause 20}euh, {pause 15}les pupilles !{pause 40} Je suis	fier de te remettre ce prix !{Wait <003c 0000> 'time'}
+"004"	Merci d'avoir fait autant d'efforts	pour ma collation...{pause 20} {emote: Mistaken}{Gray}(Oups...){Color Reset}{Gray}{pause 40} {Color Reset}{emote: Happiness}Je veux	dire,{pause 20} ma collection !{Wait <003c 0000> 'time'}
+"005"	{emote: Happiness}Félicitations pour ta victoire !{pause 30} Ton	insecte a apaisé ma faim...{pause 20} ma faim	de connaissances !{Wait <003c 0000> 'time'}
+"006"	{emote: Happiness}Clôturons cette cérémonie par une	salve d'applaudissements pour tous	nos vainqueurs !{Wait <0028 0000> 'time'}
+"007"	{emote: Greetings}Chers vainqueurs,{pause 20} toutes mes	félicitations !{pause 40} J'espère tous vous	revoir le mois prochain !{Wait <00b4 0000> 'time'}
+"008"	{emote: Greetings}Chers vainqueurs,{pause 20} toutes mes	félicitations !{pause 40} J'espère tous vous	revoir l'an prochain !{Wait <00b4 0000> 'time'}
+"009"
+"010"	À la troisième place{pause 8}.{pause 8}.{pause 8}.{pause 40}	Avec {Article(word-dependant)}{0011-0003-0002-0000}	d'une valeur de {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0000} {Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"011"	À la troisième place{pause 8}.{pause 8}.{pause 8}.{pause 40}	Avec {Article(word-dependant)}{0011-0003-0002-0000}	d'une valeur de {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0000} {Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <0028 0000> 'time'}
+"012"	À la troisième place{pause 8}.{pause 8}.{pause 8}.{pause 40}	Avec {Article(word-dependant)}{0011-0003-0002-0000},{pause 40}	insecte estimé à {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0001-0002-0000} {Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"013"	Ensuite,{pause 20} à la seconde place{pause 8}.{pause 8}.{pause 8}.{pause 40}	Avec {Article(word-dependant)}{0011-0003-0002-0001}{pause 40}	à {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0001} {Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"014"	Ensuite,{pause 30} à la seconde place{pause 8}.{pause 8}.{pause 8}.{pause 40}	Avec {Article(word-dependant)}{0011-0003-0002-0001}{pause 40}	d'une valeur de {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0001} {Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <0028 0000> 'time'}
+"015"	Ensuite, {pause 30}à la seconde place{pause 8}.{pause 8}.{pause 8}.{pause 40}	Avec {Article(word-dependant)}{0011-0003-0002-0001}{pause 40}	dont la cote est de {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0001-0002-0001} {Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"016"	Et enfin, {pause 30}en première place{pause 8}.{pause 8}.{pause 8}.{pause 40}	Avec {Article(word-dependant)}{0011-0003-0002-0002}{pause 40}	d'une valeur de {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}
+"017"	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0002} {Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"018"	Et enfin, {pause 30}à la première place{pause 8}.{pause 8}.{pause 8}.{pause 40}	Avec {Article(word-dependant)}{0011-0003-0002-0002},{pause 40}	spécimen estimé à {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}
+"019"	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0002} {Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <0028 0000> 'time'}
+"020"	Et enfin, {pause 30}à la première place{pause 8}.{pause 8}.{pause 8}.{pause 40}	Avec {Article(word-dependant)}{0011-0003-0002-0002},{pause 40}	spécimen valant {Blue}{Number (0x8)} points{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait <003c 0000> 'time'}
+"021"	{pause 40}{emote: Star Yell}{pause 15}	{Blue}{Text size 150%}{0011-0001-0002-0002} {Text size 100%}{Color Reset}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"022"
+"023"	Laisse-moi te remettre ce superbe	{Blue}trophée insecte brze{Color Reset}.{Wait <003c 0000> 'time'}
+"024"	{pause 8}.{pause 8}.{pause 8}.{pause 20} qui,{pause 30} {emote: Sadness}malheureusement, {pause 20}n'est pas	parmi nous ce soir.{Wait <003c 0000> 'time'}
+"025"	Laisse-moi te remettre ce superbe	{Blue}trophée insecte brze{Color Reset}.{Wait <003c 0000> 'time'}
+"026"	Laisse-moi te remettre ce sublime	{Blue}trophée insecte arg{Color Reset}.{Wait <003c 0000> 'time'}
+"027"	{pause 8}.{pause 8}.{pause 8}.{pause 20} qui,{pause 30} {emote: Sadness}malheureusement, {pause 20}n'est pas	parmi nous ce soir.{Wait <003c 0000> 'time'}
+"028"	Laisse-moi te remettre ce sublime	{Blue}trophée insecte arg{Color Reset}.{Wait <003c 0000> 'time'}
+"029"	Ce {Blue}trophée insecte or{Color Reset}	te revient de droit !{Wait <004b 0000> 'time'}
+"030"	{pause 8}.{pause 8}.{pause 8}.{pause 20} qui,{pause 30} {emote: Sadness}malheureusement, {pause 20}n'est pas	parmi nous ce soir.{Wait <003c 0000> 'time'}
+"031"	Ce {Blue}trophée insecte or{Color Reset}	te revient de droit !{Wait <004b 0000> 'time'}
+"032"
+"033"	{emote: Surprise}Mais !{pause 30} Il semble que tu sois trop	chargé{/e} pour emporter le trophée.{Wait <003c 0000> 'time'}{Wait for input}{emote: Happiness}Quand la cérémonie sera terminée,{pause 20}	je te le ferai livrer par la poste.{Wait <003c 0000> 'time'}
+"034"
+"035"
+"036"
+"037"
+"038"
 == 3 ==
-"001"	Siamo pronti per dare il via alla	premiazione dell'Insettomania.{0007-0009-0004-78-00-00-00}!
-"002"	{emote: Agreement}
-"003"	{emote: Agreement}
-"004"	Grazie per il tuo saporit—{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	
-"010"	In terza posizione{pause 8}
-"011"	In terza posizione{pause 8}
-"012"	In terza posizione{pause 8}
-"013"	Poi, in seconda posizione{pause 8}
-"014"	Poi, in seconda posizione{pause 8}
-"015"	Poi, in seconda posizione{pause 8}
-"016"	E per finire, in prima posizione{pause 8}
-"017"	{pause 40}
-"018"	E per finire, in prima posizione{pause 8}
-"019"	{pause 40}
-"020"	E per finire, in prima posizione{pause 8}
-"021"	{pause 40}
-"022"	
-"023"	Ecco il tuo {Blue}trofeo insetti di bronzo{Color Reset}.{0007-0009-0004-3c-00-00-00}
-"024"	{pause 8}
-"025"	Ecco il tuo {Blue}trofeo insetti di bronzo{Color Reset}.{0007-0009-0004-3c-00-00-00}
-"026"	Ecco il tuo {Blue}trofeo insetti d'argento{Color Reset}.{0007-0009-0004-3c-00-00-00}
-"027"	{pause 8}
-"028"	Ecco il tuo {Blue}trofeo insetti d'argento{Color Reset}.{0007-0009-0004-3c-00-00-00}
-"029"	Hai vinto il fantastico {Blue}trofeo	insetti d'oro{Color Reset}!{0007-0009-0004-4b-00-00-00}
-"030"	{pause 8}
-"031"	Hai vinto il fantastico {Blue}trofeo	insetti d'oro{Color Reset}!{0007-0009-0004-4b-00-00-00}
-"032"	
-"033"	{emote: Surprise}
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
+"001"	Siamo pronti per dare il via alla	premiazione dell'Insettomania.{Wait <0078 0000> 'time'}
+"002"	{emote: Agreement}Bene, è tutto pronto	e possiamo dare i premi.{Wait <003c 0000> 'time'}{Wait for input}{emote: Happiness}Annuncerò i vincitori uno per volta.	{pause 40}Cominciamo...{Wait <005a 0000> 'time'}
+"003"	{emote: Agreement}Congratulazioni!{pause 20}	Il tuo insetto era davvero... squisito.{pause 20}	Questo premio è più che meritato!{Wait <003c 0000> 'time'}
+"004"	Grazie per il tuo saporit—{pause 20}	{emote: Distress}{Gray}ehm ehm ehm...{Color Reset}{Gray}{pause 40}{Color Reset}	{emote: Happiness}per il tuo sapiente uso del retino!{Wait <003c 0000> 'time'}
+"005"	{emote: Happiness}Congratulazioni per la tua vittoria!{pause 20}	Il tuo insetto era davvero... ottimo!{Wait <003c 0000> 'time'}
+"006"	{emote: Happiness}Concludiamo con un bell'applauso	per i nostri vincitori!{Wait <0028 0000> 'time'}
+"007"	{emote: Greetings}Congratulazioni a tutti i vincitori!{Wait for input}Spero di rivedervi tutti il mese	prossimo per la nuova edizione	dell'Insettomania!{Wait <00b4 0000> 'time'}
+"008"	{emote: Greetings}Congratulazioni a tutti i vincitori!{Wait for input}Spero di rivedervi tutti quanti	l'anno prossimo!{Wait <00b4 0000> 'time'}
+"009"
+"010"	In terza posizione{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}... ha catturato	{Article(word-dependant)}{0011-0003-0002-0000}	totalizzando {Blue}{Number (0x8)} punti{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{Text size 150%}{0011-0000-0002-0000}{Text size 150%}{Text size 150%}!{Text size 150%}{Wait <003c 0000> 'time'}{Text size 100%}
+"011"	In terza posizione{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}... ha catturato	{Article(word-dependant)}{0011-0003-0002-0000}	totalizzando ben {Blue}{Number (0x8)} punti{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{Text size 150%}{0011-0000-0002-0000}{Text size 150%}{Text size 150%}!{Text size 150%}{Wait <0028 0000> 'time'}{Text size 100%}
+"012"	In terza posizione{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}... ha catturato	{Article(word-dependant)}{0011-0003-0002-0000}	totalizzando solo {Blue}{Number (0x8)} punti{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{Text size 150%}{0011-0001-0002-0000}{Text size 150%}{Text size 150%}!{Text size 150%}{Wait <003c 0000> 'time'}{Text size 100%}
+"013"	Poi, in seconda posizione{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}... ha catturato	{Article(word-dependant)}{0011-0003-0002-0001}	totalizzando {Blue}{Blue}{Number (0x8)}{Blue} punti{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{Text size 150%}{0011-0000-0002-0001}{Text size 150%}{Text size 150%}!{Text size 150%}{Wait <003c 0000> 'time'}{Text size 100%}
+"014"	Poi, in seconda posizione{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}... ha catturato	{Article(word-dependant)}{0011-0003-0002-0001}	totalizzando {Blue}{Blue}{Number (0x8)}{Blue} punti{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{Text size 150%}{0011-0000-0002-0001}{Text size 150%}{Text size 150%}!{Text size 150%}{Wait <0028 0000> 'time'}{Text size 100%}
+"015"	Poi, in seconda posizione{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}... ha catturato	{Article(word-dependant)}{0011-0003-0002-0001}	totalizzando {Blue}{Blue}{Number (0x8)}{Blue} punti{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{Text size 150%}{0011-0001-0002-0001}{Text size 150%}{Text size 150%}!{Text size 150%}{Wait <003c 0000> 'time'}{Text size 100%}
+"016"	E per finire, in prima posizione{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}... ha catturato	{Article(word-dependant)}{0011-0003-0002-0002}	totalizzando ben {Blue}{Blue}{Number (0x8)}{Blue} punti{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}
+"017"	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0002}{Text size 100%}{Text size 150%}!{Text size 100%}{Wait <003c 0000> 'time'}
+"018"	E per finire, in prima posizione{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}... ha catturato	{Article(word-dependant)}{0011-0003-0002-0002}	totalizzando ben {Blue}{Blue}{Number (0x8)}{Blue} punti{Color Reset}{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}.
+"019"	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0002}{Text size 100%}{Text size 150%}!{Text size 100%}{Wait <0028 0000> 'time'}
+"020"	E per finire, in prima posizione{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}... ha catturato	{Article(word-dependant)}{0011-0003-0002-0002}	totalizzando ben {Blue}{Blue}{Number (0x8)}{Blue} punti{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}
+"021"	{pause 40}{emote: Star Yell}{pause 15}	{Blue}{Text size 150%}{0011-0001-0002-0002}{Text size 100%}{Color Reset}{Text size 150%}!{Text size 100%}{Wait <003c 0000> 'time'}
+"022"
+"023"	Ecco il tuo {Blue}trofeo insetti di bronzo{Color Reset}.{Wait <003c 0000> 'time'}
+"024"	{pause 8}.{pause 8}.{pause 8}.{pause 20} Purtroppo,{pause 20} {emote: Sadness}al momento non è qui.{Wait <003c 0000> 'time'}
+"025"	Ecco il tuo {Blue}trofeo insetti di bronzo{Color Reset}.{Wait <003c 0000> 'time'}
+"026"	Ecco il tuo {Blue}trofeo insetti d'argento{Color Reset}.{Wait <003c 0000> 'time'}
+"027"	{pause 8}.{pause 8}.{pause 8}.{pause 20} Purtroppo,{pause 20} {emote: Sadness}ha deciso	di non essere qui con noi.{Wait <003c 0000> 'time'}
+"028"	Ecco il tuo {Blue}trofeo insetti d'argento{Color Reset}.{Wait <003c 0000> 'time'}
+"029"	Hai vinto il fantastico {Blue}trofeo	insetti d'oro{Color Reset}!{Wait <004b 0000> 'time'}
+"030"	{pause 8}.{pause 8}.{pause 8}.{pause 20} Purtroppo,{pause 20} {emote: Sadness}non ha potuto	essere qui con noi.{Wait <003c 0000> 'time'}
+"031"	Hai vinto il fantastico {Blue}trofeo	insetti d'oro{Color Reset}!{Wait <004b 0000> 'time'}
+"032"
+"033"	{emote: Surprise}Oh!{pause 20} In questo momento non	hai posto nelle tue tasche	per il tuo trofeo.{Wait <003c 0000> 'time'}	{emote: Happiness}Alla fine della cerimonia,{pause 20}	lo invierò a casa tua per posta.{Wait <003c 0000> 'time'}
+"034"
+"035"
+"036"
+"037"
+"038"
 == 4 ==
-"001"	Meine Damen und Herren, liebe	Insektenfreunde, willkommen	zur Insektikus-Siegerehrung!{0007-0009-0004-78-00-00-00}
-"002"	{emote: Agreement}
-"003"	{emote: Agreement}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	
-"010"	Den dritten Platz belegt{pause 8}
-"011"	Den dritten Platz belegt{pause 8}
-"012"	Den dritten Platz belegt{pause 8}
-"013"	Auf dem zweiten Platz haben wir{pause 8}
-"014"	Auf dem zweiten Platz haben wir{pause 8}
-"015"	Auf dem zweiten Platz haben wir{pause 8}
-"016"	Trommelwirbel!{0000-0004-0000}
-"017"	{emote: Star Yell}
-"018"	Trommelwirbel!{0000-0004-0000}
-"019"	{emote: Star Yell}
-"020"	Trommelwirbel!{0000-0004-0000}
-"021"	{emote: Star Yell}
-"022"	
-"023"	Es ist mir eine Ehre, dir den	{Blue}Bronze-Insektenpokal	{Color Reset}zu überreichen!{0007-0009-0004-3c-00-00-00}
-"024"	Oh. {pause 20}
-"025"	Es ist mir eine Ehre, dir den	{Blue}Bronze-Insektenpokal{Color Reset}	zu überreichen!{0007-0009-0004-3c-00-00-00}
-"026"	Es ist mir eine Ehre, dir den	{Blue}Silber-Insektenpokal{Color Reset}	zu überreichen!{0007-0009-0004-3c-00-00-00}
-"027"	Oh. {pause 20}
-"028"	Es ist mir eine Ehre, dir den	{Blue}{Blue}Silber-Insektenpokal{Blue}{Color Reset}	zu überreichen!{0007-0009-0004-3c-00-00-00}
-"029"	Der {Blue}Gold-Insektenpokal{Color Reset}...{pause 20}
-"030"	Oh. {pause 20}
-"031"	Der {Blue}Gold-Insektenpokal{Color Reset}...{pause 20}
-"032"	
-"033"	{emote: Surprise}
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
+"001"	Meine Damen und Herren, liebe	Insektenfreunde, willkommen	zur Insektikus-Siegerehrung!{Wait <0078 0000> 'time'}
+"002"	{emote: Agreement}Ich denke, wir können zur	Zeremonie schreiten.{Wait <003c 0000> 'time'}{Wait for input}Ich verkünde unsere glücklichen	Gewinner schön der Reihe nach.	{pause 40}Alsooo...{Wait <005a 0000> 'time'}
+"003"	{emote: Agreement}Herzlichen Glückwunsch!{pause 20}	Ein erstaunlicher Fund und eine	verdiente Platzierung.{Wait <003c 0000> 'time'}
+"004"	{emote: Happiness}Gratulation!{pause 20} Du hast dich heute	richtig ins Zeug gelegt und es	weit gebracht, jawohl.{Wait <003c 0000> 'time'}
+"005"	{emote: Happiness}Meine Hochachtung!{pause 20} Den Sieg hast	du dir mit diesem erquicklichen	Insekt redlich verdient.{Wait <003c 0000> 'time'}
+"006"	{emote: Happiness}Eine Runde Applaus für	unsere Gewinner!{Wait <0028 0000> 'time'}
+"007"	{emote: Greetings}Von meiner Seite: Herzlichen Dank	und Glückwunsch allen Gewinnern.{Wait <0078 0000> 'time'}{Wait for input}Bis zum nächsten Monat beim	nächsten {Blue}Insektikus-Turnier{Color Reset}! {pause 20}Wir	sehen uns hoffentlich alle wieder.{Wait <00b4 0000> 'time'}
+"008"	{emote: Greetings}Von meiner Seite: Herzlichen Dank	und Glückwunsch allen Gewinnern.{Wait <0078 0000> 'time'}{Wait for input}Wir sehen uns hoffentlich alle im	neuen Jahr wieder – beim	nächsten {Blue}Insektikus-Turnier{Color Reset}!{Wait <00b4 0000> 'time'}
+"009"
+"010"	Den dritten Platz belegt{pause 8}.{pause 8}.{pause 8}.{pause 40}	mit {einem/einer/einem} {0011-0003-0002-0000}	im Wert von {Blue}{Number (0x8)} Punkten{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}	{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0000}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"011"	Den dritten Platz belegt{pause 8}.{pause 8}.{pause 8}.{pause 40}	mit {einem/einer/einem} {0011-0003-0002-0000}	im Wert von {Blue}{Number (0x8)} Punkten{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}	{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0000}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <0028 0000> 'time'}
+"012"	Den dritten Platz belegt{pause 8}.{pause 8}.{pause 8}.{pause 40}	mit {einem/einer/einem} {0011-0003-0002-0000}	im Wert von {Blue}{Number (0x8)} Punkten{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}	{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0001-0002-0000}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"013"	Auf dem zweiten Platz haben wir{pause 8}.{pause 8}.{pause 8}.{pause 40}	mit {einem/einer/einem} {0011-0003-0002-0001}	im Wert von {Blue}{Blue}{Number (0x8)}{Blue} Punkten{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}	{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0001}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"014"	Auf dem zweiten Platz haben wir{pause 8}.{pause 8}.{pause 8}.	mit {einem/einer/einem} {0011-0003-0002-0001}	im Wert von {Blue}{Number (0x8)} Punkten{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}	{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0001}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <0028 0000> 'time'}
+"015"	Auf dem zweiten Platz haben wir{pause 8}.{pause 8}.{pause 8}.	mit {einem/einer/einem} {0011-0003-0002-0001}	im Wert von {Blue}{Blue}{Number (0x8)}{Blue} Punkten{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}	{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0001-0002-0001}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"016"	Trommelwirbel!{Wait for input}Den ersten Platz belegt{pause 8}.{pause 8}.{pause 8}.{pause 40}	mit {einem/einer/einem} {0011-0003-0002-0002}	im Wert von {Blue}{Number (0x8)} Punkten{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}
+"017"	{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0002}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"018"	Trommelwirbel!{Wait for input}Den ersten Platz belegt{pause 8}.{pause 8}.{pause 8}.{pause 40}	mit {einem/einer/einem} {0011-0003-0002-0002}	im Wert von {Blue}{Number (0x8)} Punkten{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}
+"019"	{emote: Star Yell}{pause 15}	{Text size 150%}{capitalized}{0011-0000-0002-0002}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <0028 0000> 'time'}
+"020"	Trommelwirbel!{Wait for input}Den ersten Platz belegt{pause 8}.{pause 8}.{pause 8}.{pause 40}	mit {einem/einer/einem} {0011-0003-0002-0002}	im Wert von {Blue}{Number (0x8)} Punkten{Color Reset}{pause 8}.{pause 8}.{pause 8}.{Wait <003c 0000> 'time'}
+"021"	{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0001-0002-0002}{Text size 100%}{Text size 150%}!{Text size 100%}	{Wait <003c 0000> 'time'}
+"022"
+"023"	Es ist mir eine Ehre, dir den	{Blue}Bronze-Insektenpokal	{Color Reset}zu überreichen!{Wait <003c 0000> 'time'}
+"024"	Oh. {pause 20}{emote: Sadness}Es sieht so aus, als könne der	Gewinner den Pokal im Augenblick	nicht entgegennehmen.{Wait <003c 0000> 'time'}
+"025"	Es ist mir eine Ehre, dir den	{Blue}Bronze-Insektenpokal{Color Reset}	zu überreichen!{Wait <003c 0000> 'time'}
+"026"	Es ist mir eine Ehre, dir den	{Blue}Silber-Insektenpokal{Color Reset}	zu überreichen!{Wait <003c 0000> 'time'}
+"027"	Oh. {pause 20}{emote: Sadness}Es sieht so aus, als könne der	Gewinner den Pokal im Augenblick	nicht entgegennehmen.{Wait <003c 0000> 'time'}
+"028"	Es ist mir eine Ehre, dir den	{Blue}{Blue}Silber-Insektenpokal{Blue}{Color Reset}	zu überreichen!{Wait <003c 0000> 'time'}
+"029"	Der {Blue}Gold-Insektenpokal{Color Reset}...{pause 20}	Jetzt gehört er dir!{pause 20} Du kannst	stolz auf dich sein.{Wait <004b 0000> 'time'}
+"030"	Oh. {pause 20}{emote: Sadness}Es sieht so aus, als könne der	Gewinner den Pokal im Augenblick	nicht entgegennehmen.{Wait <003c 0000> 'time'}
+"031"	Der {Blue}Gold-Insektenpokal{Color Reset}...{pause 20}	Jetzt gehört er dir!{pause 20} Du kannst	stolz auf dich sein.{Wait <004b 0000> 'time'}
+"032"
+"033"	{emote: Surprise}Nanu?{pause 20} Du bist so schwer bepackt,	da kannst du deinen tollen Pokal	gerade gar nicht nach Hause tragen!{Wait <003c 0000> 'time'}	{emote: Happiness}Aber weißt du, was?{pause 20} Ich schicke ihn	dir einfach nach der Siegerehrung	mit der Post zu.{Wait <003c 0000> 'time'}
+"034"
+"035"
+"036"
+"037"
+"038"

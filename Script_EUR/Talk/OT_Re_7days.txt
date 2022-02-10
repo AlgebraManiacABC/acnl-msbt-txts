@@ -1,35 +1,35 @@
 == 0 ==
-"001"	{emote: Shocked}
-"002"	{emote: Alarmed}
-"003"	{emote: Surprise}
-"004"	{emote: Sheepishness}
-"005"	{emote: Greetings}
-"006"	{emote: Aggravation}
+"001"	{emote: Shocked}{capitalized}{Player nickname (green)},{pause 8} is that you?{pause 16} Wow,{pause 8} it's	been a while! {pause 16}{emote: Curious}Have you been busy or	what?
+"002"	{emote: Alarmed}{capitalized}{catchphrase}, {pause 8}it's you! {pause 16}I haven't	seen you around in forever. {pause 16}{emote: Worry}I was a	little worried{pause 8}.{pause 8}.{pause 8}.{pause 8} I'm glad you're OK.
+"003"	{emote: Surprise}Well, {pause 8}look who we have here. {pause 16}It's	{Player nickname (green)}! {pause 16}{emote: Happiness}Long time no see. {pause 16}How	have you been?
+"004"	{emote: Sheepishness}Oh, {pause 8}we're on speaking terms again,	{pause 8}I see?{pause 16} {emote: Anger}It's been {Number (0x7)} {weeks/week/weeks}. So I	just assumed we were in a fight.	Well,{pause 8}{emote: Happiness} I'm glad to hear everything is	OK. {pause 16}{capitalized}{catchphrase}, {pause 8}{emote: Delight}it's good to talk	to you again!
+"005"	{emote: Greetings}Hello, {pause 8}stranger. {pause 16}{emote: Alarmed}Oh!{pause 16} It's {Player nickname (green)}?{pause 16}	Wow, {pause 8}we haven't talked in{pause 8}.{pause 8}.{pause 8}.{pause 8}it seems	like forever!{Wait for input}{emote: Worry}I hope you're not ignoring me or	anything. {pause 16}{emote: Shyness}Stop by my place	sometime—we'll hang out. {pause 16}Later!
+"006"	{emote: Aggravation}Oh, {pause 8}so you've decided to end the	silent treatment,{pause 8} eh, {Player nickname (green)}?{Wait for input}{emote: Sorrow}Well, what was I supposed to think?{pause 16}	We haven't talked in forever.{pause 16} {emote: Shyness}You	should pay more attention to me.
 == 1 ==
-"001"	{emote: Shocked}
-"002"	{emote: Alarmed}
-"003"	{emote: Surprise}
-"004"	{emote: Surprise}
-"005"	{emote: Greetings}
-"006"	{emote: Aggravation}
+"001"	{emote: Shocked}¿Eres tú, {Player nickname (green)}?{pause 16} ¡Hacía días	que no te veía! {pause 16}{emote: Curious}¿Has estado muy	ocupad{o/a}?
+"002"	{emote: Alarmed}¡Has vuelto! {pause 16}Desapareciste de	repente y me estaba empezando	a preocupar{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Happiness}Me alegro de verte.
+"003"	{emote: Surprise}¡Mira a quién tenemos aquí! {pause 16}¡A mi	querid{o/a} {Player nickname (green)}! {pause 16}¿Va todo bien?	Hace tiempo que no te veo.
+"004"	{emote: Surprise}¿Ya vuelves a hablarme?{pause 20}{emote: Worry} Llevas {Number (0x7)}	{semanas/semana/semanas} sin dirigirme la palabra, así	que asumí que estabas enfadad{o/a}.	{emote: Happiness}No sé qué te hice, pero me alegro	de que se te haya pasado, cielín.{pause 20}	{emote: Delight}¡Me encanta hablar contigo!
+"005"	{emote: Greetings}Anda, u{n/na} turista. {pause 16}{emote: Alarmed}¡Ah, no!{pause 16} Si eres	{Player nickname (green)}.{pause 16} Hacía tiempo que no	te veía.	{emote: Worry}Espero que no me estés ignorando,	pastelito. {pause 16}{emote: Shyness}Echo de menos tus visitas,	¿sabes?
+"006"	{emote: Aggravation}¿Por fin has decidido perdonarme	por lo que fuera que te hice y volver	a hablarme, {Player nickname (green)}?{Wait for input}{emote: Sorrow}¡Llevas más de una semana sin	decirme ni pío y ni siquiera sé	por qué! No es justo...
 == 2 ==
-"001"	{emote: Shocked}
-"002"	{emote: Alarmed}
-"003"	{emote: Surprise}
-"004"	{emote: Sheepishness}
-"005"	{emote: Greetings}
-"006"	{emote: Soft Smile}
+"001"	{emote: Shocked}{capitalized}{Player nickname (green)},{pause 8} tiens donc...{pause 45} Ça fait un	petit moment, {pause 8}dis-moi... {pause 45}{emote: Soft Smile}J'imagine	que tu étais très occupé{/e}...
+"002"	{emote: Alarmed}{capitalized}{Player nickname (green)},{pause 16} je te croise enfin,{pause 8}	{catchphrase}. {pause 40}{emote: Worry}Ça faisait longtemps.	Je commençais à m'inquiéter{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"003"	{emote: Surprise}Mais regardez qui voilà ! {pause 20}	{capitalized}{Player nickname (green)} ! {pause 40}{emote: Happiness}Je commençais à me	demander où tu étais passé{/e}...
+"004"	{emote: Sheepishness}Oh, {pause 16}je suis bien contente que tu me	parles.{pause 32} Je commençais à penser que	tu m'évitais.	{emote: Soft Smile}Pourquoi ?{pause 32} Eh bien, {pause 16}au cas où tu ne	l'aurais pas remarqué, {pause 16}ça fait bien	{Number (0x7)} {semaine/semaine/semaines} que je ne t'ai pas vu{/e}.	{emote: Happiness}Quoi qu'il en soit, je suis heureuse	de constater que tu vas bien,	{catchphrase}.
+"005"	{emote: Greetings}Hello, {Player nickname (green)} !{pause 30} Je suis contente	de te croiser.{pause 20} Cela fait un petit	moment que je ne t'ai pas vu{/e}...	{emote: Worry}Je me doute que tu es très occupé{/e},{pause 16}	mais essaie de passer à la maison	bientôt, d'accord ?
+"006"	{emote: Soft Smile}Oh,{pause 8} {Player nickname (green)} !{pause 20} Enfin je te croise.{pause 32}	Ça fait un petit moment que nous	ne nous sommes pas vu{/e}s, dis-moi.	{emote: Shyness}Je commençais à croire que tu ne	voulais plus me parler...
 == 3 ==
-"001"	{emote: Shocked}
-"002"	{emote: Alarmed}
-"003"	{emote: Surprise}
-"004"	{emote: Sheepishness}
-"005"	{emote: Greetings}
-"006"	{emote: Aggravation}
+"001"	{emote: Shocked}{capitalized}{Player nickname (green)},{pause 8} sei tu?{pause 16} Mamma mia,{pause 8}	non ti vedevo da un'eternità!	{pause 16}{emote: Curious}Sei stat{o/a} molto occupat{o/a}, per caso?
+"002"	{emote: Alarmed}{capitalized}{catchphrase}, {pause 8}sei tu! {pause 16}Non ti vedevo	da tanto! {pause 16}{emote: Worry}Sai, ero preoccupata{pause 8}.{pause 8}.{pause 8}.{pause 8}	Ma vedo che stai bene, per fortuna.
+"003"	{emote: Surprise}Guarda, {pause 8}guarda chi si vede.	{pause 16}{capitalized}{Player nickname (green)}! {pause 16}{emote: Happiness}Finalmente!	{pause 16}Come stai? Spero benone!
+"004"	{emote: Sheepishness}Oh, {pause 8}quindi siamo ancora amic{i/he},	{pause 8}a quanto pare.{pause 16} {emote: Anger}Non ci parliamo	da {Number (0x7)} {settimane/settimana/settimane}...	Pensavo che avessimo litigato,{pause 8}{emote: Happiness} ma	evidentemente mi sbagliavo. {pause 16}{emote: Delight}Sono	contenta di rivederti, {pause 8}{catchphrase}!
+"005"	{emote: Greetings}Oh, {pause 8}un{/a} turista. {pause 16}{emote: Alarmed}No, aspetta!{pause 16}	Sei tu, {Player nickname (green)}?{pause 16} Non ti vedevo	da{pause 8}.{pause 8}.{pause 8}.{pause 8} un sacco di tempo! {pause 15}O sbaglio?	{emote: Worry}Spero che tu non mi stessi evitando.{pause 16}	{emote: Shyness}Passa a trovarmi uno di questi	giorni, così parliamo un po'. {pause 16}Ciao!
+"006"	{emote: Aggravation}Oh, {pause 8}finalmente ti sei decis{o/a}	a rivolgermi la parola,{pause 8} eh,	{Player nickname (green)}?{Wait for input}{emote: Sorrow}Beh, cosa dovevo pensare secondo	te?{pause 16} Non ci parliamo da molti giorni.{pause 16}	{emote: Shyness}Mi sono sentita molto trascurata!
 == 4 ==
-"001"	{emote: Shocked}
-"002"	{emote: Alarmed}
-"003"	{emote: Surprise}
-"004"	{emote: Sheepishness}
-"005"	{emote: Greetings}
-"006"	{emote: Aggravation}
+"001"	{emote: Shocked}{capitalized}{Player nickname (green)}!{pause 20} Bist du's wirklich?{pause 20}	Wir hatten schon ewig nicht mehr	das Vergnügen!{pause 20}{emote: Curious} Wo warst du denn?
+"002"	{emote: Alarmed}Huch!{pause 40} Da bist du ja!{pause 20} Ich habe dich	schon seit Ewigkeiten nicht mehr	gesehen!	{emote: Worry}Ich hatte mir schon Sorgen um dich	gemacht.{pause 20} Unberechtigt, {pause 8}wie es mir	scheint!
+"003"	{emote: Surprise}Sieh mal einer an!{pause 20} Da bist du also	wieder, {pause 8}{Player nickname (green)}!{pause 20} {emote: Happiness}Du hast mir	schon gefehlt.{pause 20} Wie geht es dir?
+"004"	{emote: Sheepishness}Ach,{pause 8} du sprichst also wieder mit	mir?{pause 20} Wie erfreulich!{pause 20} Seit Wochen	haben wir kein Wort gewechselt{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}Nun, {pause 8}ich freue mich, dass es dir	gut geht und alles in Ordnung ist!
+"005"	{emote: Greetings}Ich grüße dich, {pause 8}{Fremder/Fremde}!{pause 20} Moment{pause 8}.{pause 8}.{pause 8}.{pause 20}	{capitalized}{Player nickname (green)}?{pause 20} Du bist tatsächlich	wieder aufgetaucht!	Wir haben seit gefühlten Ewigkeiten	nicht mehr miteinander geredet!{pause 40}	{emote: Worry}Du ignorierst mich doch nicht, {pause 8}oder?	Du musst mich unbedingt wieder	einmal besuchen kommen.{pause 20} Es wäre	mir eine große Freude!
+"006"	{emote: Aggravation}Aha!{pause 20} Du kannst also doch noch	sprechen, {pause 8}{Player nickname (green)}?!{Wait for input}{emote: Sorrow}Was soll ich denn bitte davon halten,	wenn du auf einmal wochenlang kein	Wort mit mir wechselst?	{emote: Shyness}Du solltest wirklich öfter mal zu	Besuch kommen!

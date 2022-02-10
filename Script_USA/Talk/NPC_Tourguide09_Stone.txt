@@ -1,117 +1,117 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Reset}
-"003"	{emote: Reset}
-"004"	{emote: Reset}
+"001"	{emote: Happiness}On this tour,{pause 10} you'll be	{Blue}excavating ore{Color Reset}!{pause 30}	{emote: Sheepishness}{Text size 80%}It's more fun than it sounds. I promise.{Text size 100%}	{emote: Reset}You see, this island here is littered	with {Blue}rocks{Color Reset}. Inside the rocks lies	extremely valuable ore!	So what do you need to do?	Use your {Blue}shovel {Color Reset}to smash the	rocks and find the ore!	Rocks that won't break don't have	any ore inside them, so don't waste	your time on those ones.	{emote: Thought}Each piece of ore is worth {Blue}1 point{Color Reset}.{pause 10}	But each {0011-0003-0002-0001} is	worth {Blue}3 points {Color Reset}this time around.
+"002"	{emote: Reset}If you can earn{Blue} {Color Reset}{Blue}{Blue}{Number (0x7)}{Blue} points {Color Reset}in	{Blue}{Number (0x7)} minutes{Color Reset},{pause 10} you'll be rewarded with	medals.
+"003"	{emote: Reset}If you two can earn{Blue} {Color Reset}{Blue}{Blue}{Number (0x7)}{Blue} points {Color Reset}in	{Blue}{Number (0x7)} minutes{Color Reset},{pause 10} you'll be rewarded with	medals.
+"004"	{emote: Reset}If you sprouts can earn{Blue} {Color Reset}{Blue}{Blue}{Number (0x7)}{Blue} points {Color Reset}in	{Blue}{Number (0x7)} minutes{Color Reset},{pause 10} you'll be rewarded with	medals.
 "005"	Your points will be totaled based on	the ore in your pockets when time	runs out, so choose ore wisely!
-"006"	{emote: Glare}
-"007"	
-"008"	
-"009"	So then,{pause 8}
-"011"	Most ore is worth {Blue}1 point{Color Reset},	except the {0011-0003-0002-01-00},	which is worth {Blue}3 points{Color Reset}.
-"012"	Most ore is worth {Blue}1 point{Color Reset}, but	the {0011-0003-0002-01-00} is worth	{Blue}3 points {Color Reset}this time around.	And the mystery bonus ore is worth	{Blue}10 points {Color Reset}apiece! Remember, there	{촌<06>are<04>is<06>are} {Blue}only {Number (0x7)} {Color Reset}of them out there!
+"006"	{emote: Glare}But let's spice things up a bit{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}I'm adding a {Blue}mystery bonus ore {Color Reset}to	the game. Each piece of this ore	will be worth {Blue}10 points{Color Reset}!	I won't tell you which type of ore	the bonus ore is, but here's a hint:{Wait for input}	{emote: Mischief}{Blue}only {Number (0x7)} {Color Reset}of them {are/is/are} in the area!{pause 15}	{emote: Reset}Your points will be totaled based on	the ore in your pockets when time	runs out, so choose ore wisely!
+"007"
+"008"
+"009"	So then,{pause 8} {emote: Soft Smile}time to go hunt for ore!
+"011"	Most ore is worth {Blue}1 point{Color Reset},	except the {0011-0003-0002-0001},	which is worth {Blue}3 points{Color Reset}.
+"012"	Most ore is worth {Blue}1 point{Color Reset}, but	the {0011-0003-0002-0001} is worth	{Blue}3 points {Color Reset}this time around.	And the mystery bonus ore is worth	{Blue}10 points {Color Reset}apiece! Remember, there	{are/is/are} {Blue}only {Number (0x7)} {Color Reset}of them out there!
 "013"	The ore contained inside a rock	will pop out when you break the	rock with your {Blue}shovel{Color Reset}.	If the rock doesn't break open when	you hit it, there's no ore inside, so	move on to another rock!
-"014"	The points are tallied based on the	ore that's in your pockets when	time runs out.	{emote: Happiness}
-"015"	If you can gather up{pause 5}
-"016"	If you two can gather up{pause 5}
-"017"	If you sprouts can gather up{pause 5}
-"018"	Get cracking, sprout!{pause 20}
-"019"	Get cracking, sprout!{pause 20}
-"020"	Get cracking, sprout!{pause 20}
-"021"	
-"022"	
-"023"	
-"024"	
-"026"	Before we tally the points, I'll	reveal the identity of the	{Blue}mystery bonus ore{Color Reset}!	It is{pause 5}
-"027"	The total worth of	your ore is{pause 5}
-"028"	Ooh! {pause 20}
-"029"	{emote: Happiness}
-"030"	{emote: Happiness}
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	
+"014"	The points are tallied based on the	ore that's in your pockets when	time runs out.	{emote: Happiness}You should prioritize keeping the	most valuable ore to maximize your	score.
+"015"	If you can gather up{pause 5} {Blue}at least{Color Reset}	{Blue}{Number (0x7)} points{Color Reset}' worth of ore, you'll	be rewarded with medals!
+"016"	If you two can gather up{pause 5} {Blue}at least{Color Reset}	{Blue}{Number (0x7)} points{Color Reset}' worth of ore, you'll be	rewarded with medals!
+"017"	If you sprouts can gather up{pause 5} {Blue}at least{Color Reset}	{Blue}{Number (0x7)} points{Color Reset}' worth of ore, you'll be	rewarded with medals!
+"018"	Get cracking, sprout!{pause 20}	If you don't get {Blue}{Number (0x7)} points{Color Reset}' worth of	ore, you're leaving empty handed!
+"019"	Get cracking, sprout!{pause 20} If you don't	get a group total of {Blue}{Number (0x7)} points{Color Reset}'	worth of ore, you'll get no medals!
+"020"	Get cracking, sprout!{pause 20} If you don't	get a group total of {Blue}{Number (0x7)} points{Color Reset}'	worth of ore, you'll get no medals!
+"021"
+"022"
+"023"
+"024"
+"026"	Before we tally the points, I'll	reveal the identity of the	{Blue}mystery bonus ore{Color Reset}!	It is{pause 5}.{pause 5}.{pause 5}.{pause 20}{emote: Pride}{Article(word-dependant)}{0011-0003-0002-0002}{pause 15}	this time around!{Wait for input}{emote: Glare}Now{pause 10} let's see what you've got	in your pockets and if you found	any pieces of that ore{pause 5}.{pause 5}.{pause 5}.
+"027"	The total worth of	your ore is{pause 5}.{pause 5}.{pause 5}.{pause 60}{Blue}{Number (0x7)} {points/point/points}{Color Reset}!
+"028"	Ooh! {pause 20}Tough luck.{pause 20}	You didn't get enough points, so	you'll be going home empty handed.
+"029"	{emote: Happiness}Phew! That was a close one, but	you met your goal. You'll be leaving	here today with {Blue}{Number (0x7)} {Blue}{medals/medal/medals}{Blue}{Color Reset}!
+"030"	{emote: Happiness}You got enough points to win a	Bronze Tortimer award and	{Blue}{Number (0x7)} {Blue}{medals/medal/medals}{Blue}{Color Reset}!
+"031"	{emote: Happiness}You got enough points to win a	Silver Tortimer award and	{Blue}{Number (0x7)} {Blue}{medals/medal/medals}{Blue}{Color Reset}!
+"032"	{emote: Happiness}You got enough points to win a	Gold Tortimer award and	{Blue}{Number (0x7)} {Blue}{medals/medal/medals}{Blue}{Color Reset}!
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Reset}
-"003"	{emote: Reset}
-"004"	{emote: Reset}
+"001"	{emote: Happiness}¡Este tour{pause 10} consiste en {Blue}encontrar	piedras preciosas{Color Reset}!{pause 30} {emote: Sheepishness}¿A que suena	interesante?	{emote: Reset}Esta isla está sembrada de rocas 	que esconden estas piedras	en su interior.{Wait for input}El método de extracción es sencillo:{Wait for input}	solo hay que golpear las rocas con	la {Blue}pala {Color Reset}{pause 10}para encontrarlas.	No merece la pena cansarse con las	rocas que no se rompen, porque no	esconden piedras preciosas.	{emote: Thought}Una piedra, de cualquier mineral,	vale{Blue} un punto{Color Reset},{pause 20} pero las que son de	{0011-0003-0002-0001} valen {Blue}tres{Color Reset}.
+"002"	{emote: Reset}Si consigues {Blue}{Blue}{Number (0x7)}{Blue} puntos {Color Reset}en	{Blue}{Number (0x7)} minutos{Color Reset},{pause 10} te recompensaré	con medallas.
+"003"	{emote: Reset}Si obtenéis {Blue}{Blue}{Number (0x7)}{Blue} puntos {Color Reset}en {Blue}{Number (0x7)}	minutos{Color Reset},{pause 10} os recompensaré	debidamente con medallas, pareja.
+"004"	{emote: Reset}Conseguid {Blue}{Blue}{Number (0x7)}{Blue} puntos {Color Reset}en {Blue}{Number (0x7)} minutos{Color Reset}{pause 10}	y os recompensaré con medallas,	granujillas.
 "005"	Los puntos se calcularán en función	de las piedras preciosas obtenidas	cuando se acabe el tiempo.
-"006"	{emote: Glare}
-"007"	
-"008"	
-"009"	Bien,{pause 8}
-"011"	Recuerda que las piedras de	{0011-0003-0002-01-00} valen	{Blue}tres puntos{Color Reset} y las demás {Blue}uno{Color Reset}.
-"012"	Recuerda que las piedras normales	valen {Blue}un punto{Color Reset}, o bien {Blue}tres puntos{Color Reset}	si son de {0011-0003-0002-01-00}.	Luego están las piedras del mineral	especial de este tour. Hay {Blue}{Number (0x7)}{Color Reset} de	ellas y valen {Blue}10 puntos{Color Reset} cada una. 
-"013"	Rompe una roca con tu {Blue}pala {Color Reset}para	encontrar la piedra preciosa que	esconde en su interior.	Si la roca no se rompe, no guarda	ninguna piedra preciosa,{pause 20}
-"014"	Los puntos se calcularán según	las piedras que haya en tus bolsillos	cuando se acabe el tiempo.	{emote: Happiness}
-"015"	¡Intenta conseguir {pause 5}
-"016"	¡Intentad conseguir {pause 5}
-"017"	¡Intentad conseguir {pause 5}
-"018"	¡Dale duro a esas rocas, granuja!{pause 20}
-"019"	¡Dale duro a esas rocas, granuja!{pause 20}
-"020"	¡Dale duro a esas rocas, granuja!{pause 20}
-"021"	
-"022"	
-"023"	
-"024"	
-"026"	Antes de pasar al recuento,{pause 20}
-"027"	Las piedras extraídas suman	en total{pause 5}
-"028"	¡Ooh! {pause 20}!
-"029"	{emote: Happiness}
-"030"	{emote: Happiness}
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	
+"006"	{emote: Glare}Vamos a darle una vuelta de tuerca	a las reglas, para que sea más	divertido{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Habrá un {Blue}mineral especial{Color Reset} en este	tour, y otorgaré {Blue}10 puntos {Color Reset}por	cada piedra que sea de ese mineral.{Wait for input}No revelaré cuál es el mineral en	cuestión,{Wait for input} pero sí puedo decir que	{emote: Mischief}{Blue}solo hay {Number (0x7)}{Color Reset} de esas piedras.	{emote: Reset}Los puntos se calcularán en función	de las piedras preciosas obtenidas	cuando se acabe el tiempo.
+"007"
+"008"
+"009"	Bien,{pause 8} {emote: Soft Smile}¡vamos a darle uso a esa	pala que llevas en la mano!
+"011"	Recuerda que las piedras de	{0011-0003-0002-0001} valen	{Blue}tres puntos{Color Reset} y las demás {Blue}uno{Color Reset}.
+"012"	Recuerda que las piedras normales	valen {Blue}un punto{Color Reset}, o bien {Blue}tres puntos{Color Reset}	si son de {0011-0003-0002-0001}.	Luego están las piedras del mineral	especial de este tour. Hay {Blue}{Number (0x7)}{Color Reset} de	ellas y valen {Blue}10 puntos{Color Reset} cada una. 
+"013"	Rompe una roca con tu {Blue}pala {Color Reset}para	encontrar la piedra preciosa que	esconde en su interior.	Si la roca no se rompe, no guarda	ninguna piedra preciosa,{pause 20} ¡así que no	insistas y busca otra roca!
+"014"	Los puntos se calcularán según	las piedras que haya en tus bolsillos	cuando se acabe el tiempo.	{emote: Happiness}Si tienes que deshacerte de alguna	piedra, que sea de las menos	valiosas.
+"015"	¡Intenta conseguir {pause 5}un mínimo	de {Blue}{Number (0x7)} puntos {Color Reset}para obtener	alguna medalla!
+"016"	¡Intentad conseguir {pause 5}{Blue}un mínimo	de {Color Reset}{Blue}{Number (0x7)} puntos {Color Reset}para obtener	alguna medalla!
+"017"	¡Intentad conseguir {pause 5}{Blue}un mínimo	de {Color Reset}{Blue}{Number (0x7)} puntos {Color Reset}para obtener	alguna medalla!
+"018"	¡Dale duro a esas rocas, granuja!{pause 20}	¡Te irás con las manos vacías	si logras menos de {Blue}{Number (0x7)} puntos{Color Reset}!
+"019"	¡Dale duro a esas rocas, granuja!{pause 20}	¡No habrá medallas si lográis	menos de {Blue}{Number (0x7)} puntos{Color Reset} en conjunto!
+"020"	¡Dale duro a esas rocas, granuja!{pause 20}	¡No habrá medallas si lográis	menos de {Blue}{Number (0x7)} puntos{Color Reset} en conjunto!
+"021"
+"022"
+"023"
+"024"
+"026"	Antes de pasar al recuento,{pause 20}	¡voy a desvelar cuál era el	{Blue}mineral especial{Color Reset} de esta ronda!{Wait for input}Era{pause 5}.{pause 5}.{pause 5}.{pause 20} {emote: Pride}¡{000e-0001-0000}{0011-0003-0002-0002}!{pause 15}{Wait for input}{emote: Glare}Ahora,{pause 10} veamos cómo se ha dado	la extracción de piedras preciosas{pause 5}.{pause 5}.{pause 5}.
+"027"	Las piedras extraídas suman	en total{pause 5}.{pause 5}.{pause 5}.{pause 60} ¡{Blue}{Number (0x7)} {puntos/punto/puntos}{Color Reset}!
+"028"	¡Ooh! {pause 20}Mala suerte.{pause 20} Los puntos	obtenidos no son suficientes	para recibir medallas.
+"029"	{emote: Happiness}¡Fiu! Por poco, pero menos da una	piedra,{pause 20} ¡je, je, je! ¡Esta puntuación	es digna de {Blue}{Number (0x7)} {medallas/medalla/medallas}{Color Reset}!
+"030"	{emote: Happiness}Ha sido una actuación merecedora	de un Tórtimer de bronce...{pause 20}	¡y de {Blue}{Number (0x7)} {medallas/medalla/medallas}{Color Reset}!
+"031"	{emote: Happiness}Ha sido una actuación bastante	decente. Digna de un Tórtimer	de plata...{pause 20} ¡y de {Blue}{Number (0x7)} {medallas/medalla/medallas}{Color Reset}!
+"032"	{emote: Happiness}Ha sido una actuación apabullante.	Un Tórtimer de oro es poco...{pause 20}	¡{Blue}{Number (0x7)} {medallas/medalla/medallas}{Color Reset} harán justicia!
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Reset}
-"003"	{emote: Reset}
-"004"	{emote: Reset}
+"001"	{emote: Happiness}Cette fois-ci, nous allons {Blue}chercher{Color Reset}	{Blue}des cristaux{Color Reset}!{pause 30}{Wait for input}{emote: Reset}En effet, cette île est recouverte de	gros cailloux à l'intérieur desquels	se cachent des cristaux de roche!{Wait for input}Le jeu consiste à casser ces rochers	avec une pelle pour récupérer les	cristaux qu'ils renferment!	Les rochers qui ne se brisent pas ne	renferment rien, inutile donc de	s'acharner sur eux.	{emote: Thought}Chaque cristal vaut {Blue}1 point{Color Reset}{pause 10}, sauf	{000e-0001-0000}{0011-0003-0002-0001} qui	vaudra {Blue}3 points{Color Reset} pour cette partie.
+"002"	{emote: Reset}Si tu obtiens au moins {Blue}{Number (0x7)} {Blue}{Blue}{point/point/points} {Blue}{Blue}{Color Reset}en	{Blue}{Number (0x7)} {Blue}{minute/minute/minutes}{Blue}{Color Reset},{pause 10} tu gagnes des	médailles!
+"003"	{emote: Reset}Si vous obtenez au moins {Blue}{Number (0x7)} {Blue}{point/point/points}	{Blue}{Color Reset}en {Blue}{Number (0x7)} {Blue}{minute/minute/minutes}{Blue}{Color Reset},{pause 10} vous gagnez des	médailles!
+"004"	{emote: Reset}Si vous obtenez au moins {Blue}{Number (0x7)} {Blue}{point/point/points}	{Blue}{Color Reset}en {Blue}{Number (0x7)} {Blue}{minute/minute/minutes}{Blue}{Color Reset},{pause 10} vous gagnez des	médailles!
 "005"	Le score final dépend du nombre et	du type de cristaux présents dans	l'inventaire à la fin du temps alloué.
-"006"	{emote: Glare}
-"007"	
-"008"	
-"009"	On a déjà sorti sa petite {Blue}pelle {Color Reset}à ce	que je vois...{0000-0004-0000}
-"011"	Les cristaux valent {Blue}1 point{Color Reset}, sauf	{000e-0001-0000}
-"012"	Les cristaux valent {Blue}1 point{Color Reset}, sauf	{000e-0001-0000}
-"013"	Le cristal apparaît quand le rocher	est brisé à l'aide d'une {Blue}pelle{Color Reset}.{0000-0004-0000}
-"014"	Le score final dépend du nombre et	du type de cristaux présents dans	l'inventaire à la fin du temps alloué.	{emote: Happiness}
-"015"	{emote: Reset}
-"016"	Il faut obtenir {Blue}au moins {Color Reset}{Blue}{Number (0x7)} {Blue}{촆<0a>point<0a>point<0c>points}{Blue}{Color Reset}{pause 10}
-"017"	Il faut obtenir {Blue}au moins {Color Reset}{Blue}{Number (0x7)} {Blue}{촆<0a>point<0a>point<0c>points}{Blue}{Color Reset}{pause 10}
-"018"	Du nerf, {000e-0006-001a-0a-00-70-00-65-00-74-00-69-00-74-00-0c-00-70-00-65-00-74-00-69-00-74-00-65-00}!{pause 15}
-"019"	Du nerf, tout le monde!{pause 15}
-"020"	Du nerf, tout le monde!{pause 15}
-"021"	
-"022"	
-"023"	
-"024"	
-"026"	Avant de passer au décompte des	points, je vais révéler la nature du	{Blue}cristal {Color Reset}{Blue}mystère{Color Reset}...	Pour cette partie, c'était{pause 5}
-"027"	La valeur totale des cristaux	trouvés s'élève à{pause 5}
-"028"	Oh! {pause 20}
-"029"	{emote: Happiness}
-"030"	{emote: Happiness}
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	
+"006"	{emote: Glare}Mais pimentons un peu les choses{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}J'ajoute à cette partie un {Blue}cristal	mystère{Color Reset} dont chaque échantillon	rapportera {Blue}10 points{Color Reset}!	Je ne précise pas de quel type de	cristal il s'agit, mais voici un indice :{Wait for input}	{emote: Mischief}il n'y en a {Blue}que {Number (0x7)} {échantillon/échantillon/échantillons}{Color Reset}.{pause 15}	{emote: Reset}Le score final dépend du nombre et	du type de cristaux présents dans	l'inventaire à la fin du temps alloué.
+"007"
+"008"
+"009"	On a déjà sorti sa petite {Blue}pelle {Color Reset}à ce	que je vois...{Wait for input}Bien, ce sera moins douloureux que	d'essayer de briser les rochers avec	sa tête, hé hé houerf!
+"011"	Les cristaux valent {Blue}1 point{Color Reset}, sauf	{000e-0001-0000}{0011-0003-0002-0001} qui	rapporte {Blue}3 points{Color Reset}.
+"012"	Les cristaux valent {Blue}1 point{Color Reset}, sauf	{000e-0001-0000}{0011-0003-0002-0001} qui	rapporte {Blue}3 points{Color Reset}.	Le cristal mystère rapporte quant à	lui {Blue}10 points{Color Reset}! Pour mémoire, il n'y	en a {Blue}que {Number (0x7)} {échantillon/échantillon/échantillons} {Color Reset}sur l'île!
+"013"	Le cristal apparaît quand le rocher	est brisé à l'aide d'une {Blue}pelle{Color Reset}.{Wait for input}Si le rocher ne se brise pas, c'est	qu'il ne contient rien, donc il faut	passer au suivant.
+"014"	Le score final dépend du nombre et	du type de cristaux présents dans	l'inventaire à la fin du temps alloué.	{emote: Happiness}Il faut donc se concentrer sur les	cristaux qui rapportent le plus de	points pour augmenter son score.
+"015"	{emote: Reset}Il faut obtenir {Blue}au moins {Color Reset}{Blue}{Number (0x7)} {Blue}{point/point/points}{Blue}{Color Reset}{pause 10}	pour gagner des médailles!
+"016"	Il faut obtenir {Blue}au moins {Color Reset}{Blue}{Number (0x7)} {Blue}{point/point/points}{Blue}{Color Reset}{pause 10}	pour gagner des médailles!
+"017"	Il faut obtenir {Blue}au moins {Color Reset}{Blue}{Number (0x7)} {Blue}{point/point/points}{Blue}{Color Reset}{pause 10}	pour gagner des médailles!
+"018"	Du nerf, {petit/petite}!{pause 15} Il faut obtenir {Blue}au	moins {Color Reset}{Blue}{Number (0x7)} {Blue}{point/point/points}{Blue}{Color Reset}{pause 10} ou tu repartiras	bredouille!
+"019"	Du nerf, tout le monde!{pause 15} Il faut	obtenir {Blue}au moins {Color Reset}{Blue}{Number (0x7)} {Blue}{point/point/points}{Blue}{Color Reset}{pause 10} ou vous	repartirez bredouille!
+"020"	Du nerf, tout le monde!{pause 15} Il faut	obtenir {Blue}au moins {Color Reset}{Blue}{Number (0x7)} {Blue}{point/point/points}{Blue}{Color Reset}{pause 10} ou vous	repartirez bredouille!
+"021"
+"022"
+"023"
+"024"
+"026"	Avant de passer au décompte des	points, je vais révéler la nature du	{Blue}cristal {Color Reset}{Blue}mystère{Color Reset}...	Pour cette partie, c'était{pause 5}.{pause 5}.{pause 5}.{pause 20}	{000e-0001-0000}{emote: Pride}{0011-0003-0002-0002}{pause 15}!{Wait for input}{emote: Glare}À présent,{pause 10} voyons ces cristaux de	plus près{pause 5}.{pause 5}.{pause 5}.
+"027"	La valeur totale des cristaux	trouvés s'élève à{pause 5}.{pause 5}.{pause 5}.{pause 60} {Blue}{Number (0x7)} {point/point/points}{Color Reset}!
+"028"	Oh! {pause 20}Comme c'est triste!{pause 20} C'est	insuffisant... On va rentrer les	mains vides, on dirait...
+"029"	{emote: Happiness}Pfiou! C'était juste, mais	le contrat est rempli! Voici	{Blue}{Number (0x7)} {médaille bien méritée/médaille bien méritée/médailles bien méritées}{Color Reset}!
+"030"	{emote: Happiness}Tous ces cristaux justifient	l'attribution d'un Tortimer de	bronze et de {Blue}{Number (0x7)} {médaille/médaille/médailles}{Color Reset}!
+"031"	{emote: Happiness}Un tel score, ça mérite un Tortimer	d'argent et {Blue}{Number (0x7)} {médaille/médaille/médailles}{Color Reset}!
+"032"	{emote: Happiness}Ce score est incroyable! Je n'ai pas	d'autre choix... Voici un Tortimer	d'or et {Blue}{Number (0x7)} {médaille/médaille/médailles}{Color Reset}!
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"

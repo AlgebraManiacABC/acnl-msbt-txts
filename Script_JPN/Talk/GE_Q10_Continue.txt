@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{0009-0000-0004-03-00-04-00}
-"002"	{0009-0000-0004-05-00-06-00}
-"003"	{emote: Anger}
-"004"	{emote: Soft Smile}
-"005"	{emote: Mischief}
-"006"	{emote: Resigned}
+"001"	{0009-0000-0004-0003-0004}
+"002"	{0009-0000-0004-0005-0006}
+"003"	{emote: Anger}じゃあ、{pause 10}あと{ruby (charSpan 2): ひとり}1人だね{pause 20}	{emote: Mischief}{ruby (charSpan 1): み}見つかるかな～？{Wait for input}	{emote: Sunny}がんばってね、{pause 10}{catchphrase}
+"004"	{emote: Soft Smile}でも、{pause 10}あと{ruby (charSpan 2): ひとり}1人　{ruby (charSpan 1): のこ}残ってるよ！{Wait for input}	{emote: Glare}{Player nickname (green)}{0005-000d-0000}なら、{pause 8}	よゆうってカンジ？！
+"005"	{emote: Mischief}でも、{pause 10}あと{ruby (charSpan 2): ふたり}2人も　{ruby (charSpan 1): のこ}残ってるよ～{pause 20}	{emote: Resigned}がんばってさがしてみてね！
+"006"	{emote: Resigned}さて、{pause 10}{ruby (charSpan 1): のこ}残りの{ruby (charSpan 2): ふたり}2人は　{pause 10}どこでしょ～か？！{Wait for input}	{emote: Glare}ヒントは　なしだよ～{pause 30}{pause 10}	{emote: Soft Smile}{ruby (charSpan 2): じつりょく}実力{ruby (charSpan 1): み}見せてね、{pause 10}{catchphrase}！

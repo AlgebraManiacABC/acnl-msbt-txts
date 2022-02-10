@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Disbelief}
-"003"	{emote: Surprise}
+"001"	{emote: Surprise}あら！！{pause 20}	{ruby (charSpan 1): み}見つかっちゃいましたね！{Wait for input}{emote: Shyness}うまく{pause 5}	かくれたつもりだったんですけど{pause 8}・{pause 8}・{pause 8}・{pause 10}{Wait for input}	{emote: Soft Smile}さすが　{pause 10}{Player nickname (green)}さんです！{emote: Sunny}
+"002"	{emote: Disbelief}キャッ！{pause 30}	どうして　{pause 10}わかったんですか？！{Wait for input}{emote: Happiness}{Player nickname (green)}さん、{pause 10}{ruby (charSpan 1): み}見つけるの{pause 3}	お{ruby (charSpan 2): とくい}得意なんですね！　{pause 20}{catchphrase}！
+"003"	{emote: Surprise}まぁ！{pause 20}	わかっちゃいましたか！{Wait for input}{emote: Worry}ここなら　{pause 10}{ruby (charSpan 3): だいじょうぶ}大丈夫だと	{ruby (charSpan 1): おも}思ったんですけど{pause 10}	{ruby (charSpan 2): みやぶ}見破られてしまいましたね！

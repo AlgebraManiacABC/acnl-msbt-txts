@@ -1,29 +1,29 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Glee}
-"003"	{emote: Surprise}
-"004"	{emote: Curious}
-"005"	{emote: Happiness}
-"006"	{emote: Glee}
-"007"	{emote: Curious}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Joy}
-"011"	アタイんち{ruby (charSpan 1): く}来るの　{ruby (charSpan 3): なんどめ}何度目かな？{pause 30}
-"012"	{emote: Distress}
-"013"	{emote: Curious}
-"014"	{emote: Alarmed}
-"015"	{emote: Happiness}
-"016"	{emote: Sheepishness}
-"017"	{emote: Alarmed}
-"018"	{emote: Happiness}
-"019"	{emote: Sheepishness}
-"020"	{emote: Distress}
-"021"	{emote: Curious}
-"022"	{emote: Worry}
-"023"	{emote: Sigh}
-"024"	{emote: Surprise}
-"025"	{emote: Laughter}
-"026"	{emote: Happiness}
-"027"	{emote: Distress}
-"028"	{emote: Anger}
+"001"	{emote: Happiness}こういうことも　あるかと{ruby (charSpan 1): おも}思って、{pause 10}	ちゃんと	かたづけておいたんだ～、{pause 10}{catchphrase}！{emote: Reset}
+"002"	{emote: Glee}アタイの{pause 8}	ちょーハッピーな{ruby (charSpan 2): へや}部屋を{ruby (charSpan 1): み}見て{pause 10}	おどろかないでよね！{emote: Reset}
+"003"	{emote: Surprise}{ruby (charSpan 1): し}知ってるとおもうけど、{pause 10}	{emote: Happiness}{ruby (charSpan 1): うち}家の{ruby (charSpan 2): ばしょ}場所　{pause 8}ドわすれしてたら、{pause 8}	{ruby (charSpan 2): ちず}地図{ruby (charSpan 1): み}見てみてね{emote: Reset}
+"004"	{emote: Curious}アタイの{ruby (charSpan 1): うち}家？{pause 20}	{emote: Happiness}{ruby (charSpan 2): いちばん}一番イケてる{ruby (charSpan 1): うち}家だから、わかるでしょ？{pause 30}	{emote: Pride}{ruby (charSpan 2): あんない}案内しなくても　だいじょうぶだよね！
+"005"	{emote: Happiness}よかった～、{pause 8}かたづけといて{pause 20}	{Player nickname (green)}{0005-000d-0000}には、{pause 8}	いいとこ{ruby (charSpan 1): み}見せたいじゃん！{emote: Reset}
+"006"	{emote: Glee}もしかして、{pause 8}	アタイんち{ruby (charSpan 1): く}来るの{ruby (charSpan 1): はじ}初めてじゃない？{pause 30}	{emote: Happiness}どんな{ruby (charSpan 2): はんのう}反応するか　{ruby (charSpan 1): たの}楽しみ～！{emote: Reset}
+"007"	{emote: Curious}あれ？{pause 20}	{Player nickname (green)}{0005-000d-0000}、{pause 10}	{emote: Laughter}アタイんち　{ruby (charSpan 1): はじ}初めてじゃん！	{emote: Happiness}{ruby (charSpan 1): よろこ}喜んでもらえるように、{pause 10}	がんばって　おもてなしするよ！{emote: Reset}
+"008"	{emote: Happiness}ねぇ！　{pause 8}{Player name}{0005-000d-0000}って、{pause 10}	{ruby (charSpan 1): はじ}初めて　{ruby (charSpan 1): うち}家に{ruby (charSpan 1): く}来るね！{Wait for input}{emote: Glee}どうどう？{pause 30}	ドキドキしてきちゃったカンジ？！{emote: Reset}
+"009"	{emote: Happiness}{Player name}{0005-000d-0000}も{pause 10}	{emote: Glee}もう　すっかり　アタイんちの{pause 8}	{ruby (charSpan 2): じょうれん}常連さんだよね～！
+"010"	{emote: Joy}すっかり　アタイんちのミリョクに{pause 8}	{ruby (charSpan 1): と}取りつかれちゃったカンジ？！{emote: Reset}
+"011"	アタイんち{ruby (charSpan 1): く}来るの　{ruby (charSpan 3): なんどめ}何度目かな？{pause 30}	{emote: Thought}{pause 10}なんていうか{pause 10}・{pause 10}・{pause 10}・{pause 30}	{emote: Happiness}{Villager's name (orange)}ハウスのプロだね！
+"012"	{emote: Distress}ちょっと{pause 8}ちょっと！{Wait for input}	{ruby (charSpan 2): きょう}今日は　{Player name}{0005-000d-0000}ちじゃなくて	アタイんちで{ruby (charSpan 1): あそ}遊ぶんだってば～、{pause 10}{catchphrase}！{emote: Reset}
+"013"	{emote: Curious}どうしたの？{pause 30}	そっちは、{ruby (charSpan 1): うち}家じゃないよ～？{emote: Reset}
+"014"	{emote: Alarmed}えっ？！{pause 30}	{Player name}{0005-000d-0000}、{pause 10}	もしかして　{pause 8}{ruby (charSpan 1): で}出かける{ruby (charSpan 2): よてい}予定でもあったの？{Wait for input}{emote: Soft Smile}だったら　{pause 10}{ruby (charSpan 1): うち}家で{ruby (charSpan 1): あそ}遊ぶのは	また　{ruby (charSpan 2): こんど}今度でもいいけど、{pause 10}どうする？{000f-0000-0004-0028-0015}	だいじょーぶ！	またにしよう
+"015"	{emote: Happiness}よかった！{pause 20}	じゃあ、{pause 8}{ruby (charSpan 1): はや}早く{ruby (charSpan 1): い}行こっ！　{pause 10}{catchphrase}！{emote: Reset}
+"016"	{emote: Sheepishness}そっか～、{pause 10}{ruby (charSpan 2): しかた}仕方ないね{pause 30}	また　さそうから、{pause 10}	{ruby (charSpan 2): こんど}今度は　もっと　ひまな{ruby (charSpan 1): とき}時に{ruby (charSpan 1): あそ}遊ぼ～！{Wait for input}じゃあ、またね！{emote: Reset}
+"017"	{emote: Alarmed}えっ？！{pause 30}	{Player name}{0005-000d-0000}{pause 10}	もしかして　{pause 8}{ruby (charSpan 2): ようじ}用事あった？{emote: Reset}	それなら　{pause 10}{ruby (charSpan 1): うち}家{ruby (charSpan 1): く}来るの{pause 5}	また　{ruby (charSpan 2): こんど}今度にする？{000f-0000-0004-0028-0015}	{ruby (charSpan 1): いま}今から{ruby (charSpan 1): い}行く	また{ruby (charSpan 2): こんど}今度にする！
+"018"	{emote: Happiness}よかった！{pause 30}	じゃあ、{pause 8}どんどん{ruby (charSpan 1): い}行こ～{emote: Reset}
+"019"	{emote: Sheepishness}わかった～{pause 30}	{ruby (charSpan 2): ざんねん}残念だけど、{pause 10}	また、ひまな{ruby (charSpan 1): とき}時　よろしく！{emote: Reset}
+"020"	{emote: Distress}ちょっと～！{pause 20}	そこ、アタイんちじゃないじゃん！{emote: Reset}
+"021"	{emote: Curious}どうしたの？{pause 30}	{emote: Sunny}{ruby (charSpan 1): はや}早く{ruby (charSpan 1): い}行こ！{emote: Reset}
+"022"	{emote: Worry}・・・ねぇねぇ、{Player name}{0005-000d-0000}～{Wait for input}	{emote: Sheepishness}こっちから　さそっておいて{pause 10}	ホント　{ruby (charSpan 1): もう}申しわけないんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Distress}アタイ、{pause 10}	もう{pause 8}あんま　{ruby (charSpan 2): じかん}時間ないんだ～、{pause 10}{catchphrase}{Wait for input}{emote: Sadness}{ruby (charSpan 1): わる}悪いけど、{pause 8}{ruby (charSpan 2): きょう}今日は　やっぱやめよう！{Wait for input}	{emote: Distress}この　うめ{ruby (charSpan 1): あ}合わせは{pause 8}	{ruby (charSpan 2): こんど}今度　{ruby (charSpan 1): かなら}必ずするからさ！　{pause 20}ごめんね～！
+"023"	{emote: Sigh}はふ～{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Alarmed}なんか　ねむいと{ruby (charSpan 1): おも}思ったら、{pause 8}	もうこんな{ruby (charSpan 2): じかん}時間！	{emote: Worry}ねぇ、{pause 10}	アタイから　さそっといて{ruby (charSpan 1): わる}悪いんだけど、{pause 10}	{ruby (charSpan 2): きょう}今日は　やめておかない？？	{emote: Distress}また　{ruby (charSpan 1): あらた}改めて　おさそいするからさ！{pause 20}	ホントごめんね～！！
+"024"	{emote: Surprise}あっ！　{pause 20}ここだよ～！{Wait for input}	{emote: Happiness}ちょっと　{ruby (charSpan 1): ま}待ってね、{pause 10}	{ruby (charSpan 1): いま}今　カギ{ruby (charSpan 1): あ}開けるから{pause 10}・{pause 10}・{pause 10}・{pause 10}
+"025"	{emote: Laughter}あ！　{pause 20}{ruby (charSpan 1): つ}着いた～！{Wait for input}	{emote: Happiness}{ruby (charSpan 1): いま}今、カギ{ruby (charSpan 1): あ}開けるから{pause 10}	ちょっと　{ruby (charSpan 1): ま}待ってて～{pause 10}・{pause 10}・{pause 10}・{pause 10}
+"026"	{emote: Happiness}そうそう、{pause 8}このイケてる{ruby (charSpan 1): うち}家だよ～{Wait for input}	すぐ　カギ{ruby (charSpan 1): あ}開けるからね{pause 10}・{pause 10}・{pause 10}・{pause 10}
+"027"	{emote: Distress}ちょっと　{ruby (charSpan 1): ま}待って～！
+"028"	{emote: Anger}{ruby (charSpan 1): ま}待ってって{ruby (charSpan 1): い}言ってるのに～{pause 30}	{emote: Outrage}ひどいよ！　{pause 20}もういい！{000b-0003-0002-cd03}

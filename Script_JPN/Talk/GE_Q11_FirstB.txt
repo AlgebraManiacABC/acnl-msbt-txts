@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Fearful}
-"002"	{emote: Fearful}
-"003"	{emote: Fearful}
-"004"	{emote: Fearful}
-"005"	{emote: Fearful}
-"006"	{emote: Sigh}
-"007"	{emote: Fearful}
-"008"	{emote: Fearful}
-"009"	{emote: Fearful}
+"001"	{emote: Fearful}あ、{pause 20}{Player name}{0005-000d-0000}{pause 10}	いらっしゃい～{Wait for input}{emote: Worry}でもアタイ、{pause 10}{ruby (charSpan 2): きょう}今日はちょっと	{ruby (charSpan 2): ちょうし}調子が{ruby (charSpan 1): わる}悪いから　{pause 10}{ruby (charSpan 1): あそ}遊べないや～{Wait for input}{emote: Fearful}{Blue}おくすり{Color Reset}は　{pause 10}{0011-0000-0002-0000}{0005-000d-0000}に	もらって{ruby (charSpan 1): の}飲んだから、{pause 10}	あとは　{pause 10}おとなしくしてるよ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"002"	{emote: Fearful}あ、{pause 10}{Player name}{0005-000d-0000}だ{pause 30}	{emote: Sadness}ん～{pause 8}・{pause 8}・{pause 8}・{pause 8}なんか{ruby (charSpan 2): きょう}今日、{pause 8}{ruby (charSpan 3): たいちょうわる}体調悪くってさ{Wait for input}{emote: Fearful}{0011-0000-0002-0000}{0005-000d-0000}に	もらった{pause 8}{Blue}おくすり{Color Reset}{ruby (charSpan 1): の}飲んで{pause 10}	{ruby (charSpan 1): しず}静かにしてるわ～
+"003"	{emote: Fearful}あ！　{pause 20}{Player nickname (green)}{0005-000d-0000}{pause 8}・{pause 8}・{pause 8}・{pause 30}	なんか　{pause 10}カゼひいたみたいでさ{Wait for input}{0011-0000-0002-0000}{0005-000d-0000}がくれた	{Blue}おくすり{Color Reset}{ruby (charSpan 1): の}飲んで、{pause 10}ゆっくりしてようと{ruby (charSpan 1): おも}思うの{Wait for input}	また{ruby (charSpan 2): こんど}今度　{pause 10}{ruby (charSpan 1): あそ}遊ぼうね
+"004"	{emote: Fearful}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	あ、{pause 10}{Player nickname (green)}{0005-000d-0000}{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Sadness}アタイ　{pause 10}{ruby (charSpan 2): きょう}今日はぐったりなの	{emote: Worry}{0011-0000-0002-0000}{0005-000d-0000}がくれた	{Blue}おくすり{Color Reset}{ruby (charSpan 1): の}飲んで、{pause 10}	{ruby (charSpan 1): しず}静かにしてるつもり{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"005"	{emote: Fearful}ごめん{pause 8}・{pause 8}・{pause 8}・{pause 20}	なんか{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 3): たいちょうわる}体調悪くてさ{Wait for input}{0011-0000-0002-0000}{0005-000d-0000}がくれた{Blue}おくすり{Color Reset}で{pause 10}	きっと{ruby (charSpan 1): よ}良くなるなずだから{pause 15}	{emote: Sheepishness}それまで　{pause 8}{ruby (charSpan 1): ま}待っててね
+"006"	{emote: Sigh}ふ～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Fearful}なんか　{ruby (charSpan 1): あたま}頭が{ruby (charSpan 1): おも}重いよぅ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Worry}でも　{pause 10}{0011-0000-0002-0000}{0005-000d-0000}がくれた{pause 10}	{Blue}おくすり{Color Reset}のおかげで{pause 15}	{ruby (charSpan 1): すこ}少し{ruby (charSpan 1): よ}良くなったんだけどね{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}{ruby (charSpan 1): あそ}遊ぶのは　{pause 8}また{ruby (charSpan 2): こんど}今度にしよ～
+"007"	{emote: Fearful}う～ん{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Sneezing}ハックシュン！{pause 30}	{emote: Worry}{ruby (charSpan 2): きょう}今日は　おとなしくしてないとだよ{Wait for input}{0011-0000-0002-0000}{0005-000d-0000}がくれた　{Blue}おくすり{Color Reset}で{pause 10}	{emote: Cold Chill}きっと　{ruby (charSpan 1): よ}良くなるんじゃないかな{emote: Reset}
+"008"	{emote: Fearful}うぅぅぅ～{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 2): ぜんぜん}全然、ハッピーじゃないよぉぉぉ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sneezing}ゴホッ{pause 8}・{pause 8}・{pause 8}・{pause 8}ゴホッゴホッ	{emote: Fearful}{0011-0000-0002-0000}{0005-000d-0000}の　{Blue}おくすり{Color Reset}が{pause 8}	{ruby (charSpan 1): き}効くはずだから{pause 10}	たぶん{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 2): へいき}平気{pause 5}・{pause 5}・{pause 5}・{pause 5}{catchphrase}
+"009"	{emote: Fearful}うぅぅぅん{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Player nickname (green)}{0005-000d-0000}だ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sadness}なんか　カゼひいちゃってさ{Wait for input}	{emote: Fearful}{0011-0000-0002-0000}{0005-000d-0000}がくれた	{Blue}おくすり{Color Reset}で、{pause 10}だいぶ{ruby (charSpan 1): よ}良くなったんだけどね

@@ -1,14 +1,14 @@
 == 0 ==
 "001"	ゲンザイ　システムヲ	メンテナンス　シテイマス
-"002"	イラッシャイマセ{pause 20}
-"003"	イラッシャイマセ{pause 20}
-"004"	オキャクサマノ	オカリイレ　ザンダカハ{pause 10}
-"005"	オキャクサマノ	オカリイレ　ザンダカハ{pause 5}
+"002"	イラッシャイマセ{pause 20}	ゴリヨウニナリタイ　メニューヲ	オエラビクダサイ{confirmation-00}{000f-0007-0008-0000-0000-0000-0000}	ローン{ruby (charSpan 2): へんさい}返済	{ruby (charSpan 1): あず}預け{ruby (charSpan 1): い}入れ	{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): だ}出し	やめる
+"003"	イラッシャイマセ{pause 20}	ゴリヨウニナリタイ　メニューヲ	オエラビクダサイ{confirmation-00}{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 1): あず}預け{ruby (charSpan 1): い}入れ	{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): だ}出し	やめる
+"004"	オキャクサマノ	オカリイレ　ザンダカハ{pause 10}	{Blue}{0004-000c-0002-0000}ベル{Color Reset}デ　ゴザイマス
+"005"	オキャクサマノ	オカリイレ　ザンダカハ{pause 5}	ゴザイマセン
 "006"	ゴリヨウ	アリガトウ　ゴザイマシタ
 "007"	コレイジョウ	オアズカリ　デキマセン
-"008"	ゲンザイノ　ザンダカハ{pause 10}
-"009"	オキャクサマノ　コウザニハ{pause 10}
-"010"	オキャクサマノ　コウザニハ{pause 10}
+"008"	ゲンザイノ　ザンダカハ{pause 10}	{Blue}{0004-0012-0000}ベル{Color Reset}デ　ゴザイマス
+"009"	オキャクサマノ　コウザニハ{pause 10}	ゲンザイ　ザンダカガ　ゴザイマセン
+"010"	オキャクサマノ　コウザニハ{pause 10}	オアズケイレガ　ゴザイマセン
 "011"	タッチスクリーンヲ	ソウサ　シテクダサイ
 "013"	{ruby (charSpan 1): す}好きな{ruby (charSpan 2): ことば}言葉	「{ruby (charSpan 1): かお}顔が{ruby (charSpan 2): ものがた}物語る」
 "014"	{ruby (charSpan 1): す}好きな{ruby (charSpan 2): ことば}言葉	「なまむぎなまごめなまたまご」
@@ -17,179 +17,179 @@
 "017"	{ruby (charSpan 1): す}好きな{ruby (charSpan 2): ことば}言葉	「モグラの{ruby (charSpan 1): あたま}頭にジャスミン{ruby (charSpan 1): ゆ}油」
 "018"	{ruby (charSpan 1): す}好きな{ruby (charSpan 2): ことば}言葉	「{ruby (charSpan 1): たび}旅は{ruby (charSpan 1): みち}道{ruby (charSpan 1): づ}連れ　{ruby (charSpan 1): よ}世は{ruby (charSpan 1): なさ}情け」
 "019"	{ruby (charSpan 1): す}好きな{ruby (charSpan 2): ことば}言葉	「けけも{ruby (charSpan 1): ある}歩けば　{ruby (charSpan 1): ぼう}棒にあたる」
-"021"		「{Blue}{0011-0003-0002-00-00}
-"022"	「{Blue}{0011-0003-0002-00-00}
-"023"	「{Blue}{0011-0003-0002-00-00}
-"025"	{ruby (charSpan 5): むじんとうだっしゅつ}無人島脱出ゲーム	{ruby (charSpan 1): ぜん}全{ruby (charSpan 1): とう}島　{ruby (charSpan 2): もくひょう}目標スコア　{ruby (charSpan 5): たっせいきねんひん}達成記念品	{0004-000d-0002-00-ffffffcd}{ruby (charSpan 1): ねん}年{0004-000e-0002-00-ffffffcd}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日	{ruby (charSpan 3): たっせいじ}達成時の{ruby (charSpan 6): るいけいたんさくかいすう}累計探索回数：{Number (0x9)}
-"026"	
-"027"	
-"028"	
-"029"		～まめつぶデパート　フロア{ruby (charSpan 2): あんない}案内～{0000-0004-0000}
-"031"	・・・なんだろう？{pause 20}
-"032"		お{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取りBOX{0000-0004-0000}
-"033"		お{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取りBOX{0000-0004-0000}
-"034"		お{ruby (charSpan 1): あず}預かりBOX{0000-0004-0000}
-"035"		お{ruby (charSpan 1): あず}預かりBOX{0000-0004-0000}
-"036"	・{pause 5}
-"037"	
-"038"	
-"039"	
-"041"	・・・あれ？{pause 20}!
-"042"	{ruby (charSpan 4): しょうめいしゃしん}証明写真、{pause 10}
-"043"	{ruby (charSpan 1): と}撮ろうと{ruby (charSpan 1): おも}思ったけど、{pause 10}
-"044"		{0007-0004-0000}
-"046"	
-"047"	
-"048"	
-"049"	
+"021"		「{Blue}{0011-0003-0002-0000}{Color Reset}」
+"022"	「{Blue}{0011-0003-0002-0000}{Color Reset}」の{ruby (charSpan 1): うえ}上に	「{Blue}{0011-0003-0002-0001}{Color Reset}」が	{ruby (charSpan 1): かざ}飾られている
+"023"	「{Blue}{0011-0003-0002-0000}{Color Reset}」から	「{Blue}{0011-0003-0002-0001}{Color Reset}」が	{ruby (charSpan 1): なが}流れている
+"025"	{ruby (charSpan 5): むじんとうだっしゅつ}無人島脱出ゲーム	{ruby (charSpan 1): ぜん}全{ruby (charSpan 1): とう}島　{ruby (charSpan 2): もくひょう}目標スコア　{ruby (charSpan 5): たっせいきねんひん}達成記念品	{0004-000d-0002-cd00}{ruby (charSpan 1): ねん}年{0004-000e-0002-cd00}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日	{ruby (charSpan 3): たっせいじ}達成時の{ruby (charSpan 6): るいけいたんさくかいすう}累計探索回数：{Number (0x9)}{ruby (charSpan 1): かい}回	うち、{ruby (charSpan 4): だっしゅつせいこう}脱出成功：{Number (0x9)}{ruby (charSpan 1): かい}回	{ruby (charSpan 4): だっしゅつしっぱい}脱出失敗：{Number (0x9)}{ruby (charSpan 1): かい}回
+"026"
+"027"
+"028"
+"029"		～まめつぶデパート　フロア{ruby (charSpan 2): あんない}案内～{Wait for input}{ruby (charSpan 3): さいじょうかい}最上階 : グレイシーグレース	2F : インテリアのフロア	1F : {ruby (charSpan 3): にちようひん}日用品と{ruby (charSpan 2): えんげい}園芸のフロア
+"031"	・・・なんだろう？{pause 20}	{ruby (charSpan 2): なかみ}中身は　{ruby (charSpan 1): から}空っぽみたい
+"032"		お{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取りBOX{Wait for input}ツアーデスク{ruby (charSpan 1): よこ}横の　お{ruby (charSpan 1): あず}預かりBOXに	{ruby (charSpan 1): あず}預けられた　お{ruby (charSpan 2): にもつ}荷物は	{ruby (charSpan 1): すべ}全て　ここに{ruby (charSpan 1): はい}入っています。{Wait for input}このBOXの{ruby (charSpan 1): なか}中が　いっぱいだと、	{ruby (charSpan 1): しま}島で　{ruby (charSpan 2): にもつ}荷物を{ruby (charSpan 1): あず}預けられなくなりますので	なるべくお{ruby (charSpan 1): はや}早めに　お{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取りください。
+"033"		お{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取りBOX{Wait for input}{ruby (charSpan 1): なか}中のアイテムは　なるべくお{ruby (charSpan 1): はや}早めに	お{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取りください。
+"034"		お{ruby (charSpan 1): あず}預かりBOX{Wait for input}ここに　{ruby (charSpan 1): い}入れておいたアイテムは	お{ruby (charSpan 1): かえ}帰りの{ruby (charSpan 1): さい}際に　{ruby (charSpan 1): むら}村にお{ruby (charSpan 1): とど}届けします。{Wait for input}アイテムは　{ruby (charSpan 1): むら}村の{ruby (charSpan 3): ふなつきば}船着場の	BOXに　{ruby (charSpan 1): い}入れておきますので、{pause 10}	そちらから　お{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取りください。
+"035"		お{ruby (charSpan 1): あず}預かりBOX{Wait for input}{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): も}持ち{ruby (charSpan 1): かえ}帰りたいアイテムを	ご{ruby (charSpan 2): じゆう}自由に　お{ruby (charSpan 1): あず}預けください。
+"036"	・{pause 5}・{pause 5}・{pause 5}あれ？{pause 20}	カギがかかってて　{ruby (charSpan 1): あ}開かないや
+"037"
+"038"
+"039"
+"041"	・・・あれ？{pause 20}	{ruby (charSpan 1): いま}今は　{ruby (charSpan 1): つか}使えないみたい
+"042"	{ruby (charSpan 4): しょうめいしゃしん}証明写真、{pause 10}	1{ruby (charSpan 1): まい}枚　{Blue}500ベル{Color Reset}で{ruby (charSpan 1): と}撮る？{confirmation-02}{000f-0005-0004-0000-0000}	{ruby (charSpan 1): と}撮る！	やめとく
+"043"	{ruby (charSpan 1): と}撮ろうと{ruby (charSpan 1): おも}思ったけど、{pause 10}	お{ruby (charSpan 1): かね}金が{ruby (charSpan 1): た}足りないから　またにしよっと
+"044"		{0007-0004-0000}はい、{pause 15}{ruby (charSpan 1): と}撮りま～す{0007-0005-0000}{0007-0008-0004-003c-0000}
+"046"
+"047"
+"048"
+"049"
 "051"		・・・マネキンを　どうしよう？
-"052"	
+"052"
 "053"	マネキンに　{ruby (charSpan 1): ふく}服が{ruby (charSpan 1): き}着せられていないから	{ruby (charSpan 2): きが}着替えられないヨ！
-"054"	
-"055"	
-"056"		・・・クツは　そのままでいい？{000f-0000-0004-00-00-00-00}
-"057"		・・・ソックスは　そのままでいい？{000f-0000-0004-00-00-00-00}
+"054"
+"055"
+"056"		・・・クツは　そのままでいい？{000f-0000-0004-0000-0000}	そのまま！	{ruby (charSpan 2): きが}着替えちゃう
+"057"		・・・ソックスは　そのままでいい？{000f-0000-0004-0000-0000}	そのまま！	{ruby (charSpan 2): きが}着替えちゃう
 "058"	{ruby (charSpan 1): も}持ち{ruby (charSpan 2): ものらん}物欄が　いっぱいだから	{ruby (charSpan 1): き}着せ{ruby (charSpan 1): か}替えたあとの{ruby (charSpan 2): そうび}装備を　しまえないヨ！
 "059"		{ruby (charSpan 1): なに}何を　{ruby (charSpan 1): ぬ}脱がせる？
 "060"	{ruby (charSpan 1): も}持ち{ruby (charSpan 2): ものらん}物欄が　いっぱいだから	{ruby (charSpan 1): ぬ}脱がせられないヨ！
-"061"	
-"063"	{0011-0006-0002-00-00}
-"064"	こちら、{pause 10}
-"065"	こちら、{pause 10}
+"061"
+"063"	{0011-0006-0002-0000}のための{ruby (charSpan 2): ぼきん}募金は	おかげさまで　{ruby (charSpan 2): もくひょう}目標の　{Blue}{0004-000c-0002-0000}ベル{Color Reset}、{pause 10}	{ruby (charSpan 2): たっせい}達成いたしまヒた！{Wait for input}{ruby (charSpan 2): かんせい}完成を　{ruby (charSpan 1): たの}楽しみに	お{ruby (charSpan 1): ま}待ちくださいまヒ！
+"064"	こちら、{pause 10}{0011-0006-0002-0000}の	{ruby (charSpan 5): けんせつよていち}建設予定地で　ございまヒ！
+"065"	こちら、{pause 10}{0011-0006-0002-0000}の	{ruby (charSpan 5): せっちよていち}設置予定地で　ございまヒ！
 "066"	おはようございまヒ！
-"067"	こんにちはで{pause 5}!
-"068"	こんばんはで{pause 5}!
-"069"	{ruby (charSpan 3): やぶんおそ}夜分遅くに　お{ruby (charSpan 1): こえ}声がけいただき{pause 10}
-"070"	{ruby (charSpan 1): ゆめ}夢の{ruby (charSpan 1): なか}中での　{ruby (charSpan 2): きふ}寄付は	エンリョしておりまヒ！{0000-0004-0000}
-"071"	ただいま、{pause 10}
-"072"	ただいま、{pause 10}
-"073"	{ruby (charSpan 2): もくひょう}目標の　{Blue}{0004-000c-0002-00-00}
-"074"	{ruby (charSpan 3): もくひょうがく}目標額　{Blue}{0004-000c-0002-00-00}
-"075"	そうでございまヒか{Wait for input}
+"067"	こんにちはで{pause 5}　ございまヒ！
+"068"	こんばんはで{pause 5}　ございまヒ！
+"069"	{ruby (charSpan 3): やぶんおそ}夜分遅くに　お{ruby (charSpan 1): こえ}声がけいただき{pause 10}	ありがとうございまヒ！
+"070"	{ruby (charSpan 1): ゆめ}夢の{ruby (charSpan 1): なか}中での　{ruby (charSpan 2): きふ}寄付は	エンリョしておりまヒ！{Wait for input}{ruby (charSpan 2): げんじつ}現実の{ruby (charSpan 2): せかい}世界で　{ruby (charSpan 2): であ}出会いましたら、{pause 10}	{ruby (charSpan 2): きふ}寄付　よろしくお{ruby (charSpan 1): ねが}願いしまヒ！
+"071"	ただいま、{pause 10}	{0011-0006-0002-0000}のための	{ruby (charSpan 2): ぼきん}募金を{pause 5}　しておりまヒ！
+"072"	ただいま、{pause 10}{0011-0006-0002-0000}を	{ruby (charSpan 1): つく}造るための{ruby (charSpan 2): ぼきん}募金を　しておりまヒ！
+"073"	{ruby (charSpan 2): もくひょう}目標の　{Blue}{0004-000c-0002-0000}ベル{Color Reset}に{ruby (charSpan 1): む}向けて、{pause 10}	{ruby (charSpan 2): げんざい}現在、{pause 10}{Blue}{0004-000c-0002-0001}ベル{Color Reset}の	{ruby (charSpan 2): きふ}寄付が　{ruby (charSpan 1): あつ}集まっておりまヒ{Wait for input}{ruby (charSpan 2): もくひょう}目標まで　あと　{Blue}{0004-000c-0002-0002}ベル{Color Reset}、{pause 10}	1ベルから　{ruby (charSpan 1): う}受け{ruby (charSpan 1): つ}付けておりまヒので{pause 5}	ご{ruby (charSpan 2): きょうりょく}協力　よろしくお{ruby (charSpan 1): ねが}願いいたしまヒ！{000f-0005-0004-0000-0000}	{ruby (charSpan 2): きょうりょく}協力しちゃう！	またにしよっと
+"074"	{ruby (charSpan 3): もくひょうがく}目標額　{Blue}{0004-000c-0002-0000}ベル{Color Reset}、{pause 10}	おかげさまで　{ruby (charSpan 2): たっせい}達成しまヒた！{Wait for input}	{ruby (charSpan 2): かんせい}完成を{ruby (charSpan 1): たの}楽しみに　お{ruby (charSpan 1): ま}待ちくださいまヒ！
+"075"	そうでございまヒか{Wait for input}	では、{pause 5}またの　ご{ruby (charSpan 2): きょうりょく}協力を	お{ruby (charSpan 1): ま}待ちしておりまヒ！
 "076"	またの　ご{ruby (charSpan 2): きょうりょく}協力を	お{ruby (charSpan 1): ま}待ちしておりまヒ！
-"077"	ご{ruby (charSpan 2): きょうりょく}協力、{pause 5}
-"078"	おかげさまで　{ruby (charSpan 2): もくひょう}目標の　{Blue}{0004-000c-0002-00-00}
-"079"	{0011-0006-0002-00-00}
-"081"	「{0011-0003-0002-00-00}
+"077"	ご{ruby (charSpan 2): きょうりょく}協力、{pause 5}ありがとうございまヒた！
+"078"	おかげさまで　{ruby (charSpan 2): もくひょう}目標の　{Blue}{0004-000c-0002-0000}ベル{Color Reset}、{pause 10}	{ruby (charSpan 2): たっせい}達成いたしまヒた！{Wait for input}{ruby (charSpan 2): かんせい}完成を　{ruby (charSpan 1): たの}楽しみに	お{ruby (charSpan 1): ま}待ちくださいまヒ！
+"079"	{0011-0006-0002-0000}のための	{ruby (charSpan 2): ぼきん}募金は　{ruby (charSpan 2): ざんねん}残念ながら{ruby (charSpan 2): ちゅうし}中止になりまヒた{Wait for input}	{ruby (charSpan 1): いま}今まで　お{ruby (charSpan 2): せわ}世話になりまヒた
+"081"	「{0011-0003-0002-0000}」が	{ruby (charSpan 1): なが}流れている
 "082"		{ruby (charSpan 1): なに}何も　{ruby (charSpan 1): な}鳴っていない
-"084"	「とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+」の	{ruby (charSpan 5): とりあつかいせつめいしょ}取扱説明書だ！{pause 30}
-"085"	「とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+」の	{ruby (charSpan 5): とりあつかいせつめいしょ}取扱説明書がある{0000-0004-0000}
-"086"	「とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+」の	{ruby (charSpan 5): とりあつかいせつめいしょ}取扱説明書がある{0000-0004-0000}
+"084"	「とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+」の	{ruby (charSpan 5): とりあつかいせつめいしょ}取扱説明書だ！{pause 30}	・・・{ruby (charSpan 1): よ}読んでみる？{000f-0005-0004-0000-0000}	{ruby (charSpan 1): よ}読んでみる！	またにする
+"085"	「とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+」の	{ruby (charSpan 5): とりあつかいせつめいしょ}取扱説明書がある{Wait for input}{ruby (charSpan 1): いま}今は　お{ruby (charSpan 1): きゃく}客さんが{ruby (charSpan 1): き}来てるし、	また{ruby (charSpan 2): じかん}時間のある{ruby (charSpan 1): とき}時に　{ruby (charSpan 1): よ}読んでみよっと
+"086"	「とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+」の	{ruby (charSpan 5): とりあつかいせつめいしょ}取扱説明書がある{Wait for input}でも{ruby (charSpan 1): いま}今は　お{ruby (charSpan 1): きゃく}客さんが	おでかけして{ruby (charSpan 1): く}来るかもしれないし、	また{ruby (charSpan 2): じかん}時間のある{ruby (charSpan 1): とき}時に　{ruby (charSpan 1): よ}読んでみよっと
 "087"	「とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+」の	{ruby (charSpan 5): とりあつかいせつめいしょ}取扱説明書がある
-"088"	
-"089"	
-"091"	{ruby (charSpan 2): とうてん}当店の　カタログショッピングは{pause 5}
-"092"	いらっしゃいませ{pause 20}
+"088"
+"089"
+"091"	{ruby (charSpan 2): とうてん}当店の　カタログショッピングは{pause 5}	この{ruby (charSpan 1): むら}村に　お{ruby (charSpan 1): す}住まいの	お{ruby (charSpan 2): きゃくさま}客様のみ　ご{ruby (charSpan 2): りよう}利用いただけます
+"092"	いらっしゃいませ{pause 20}	まめつぶカタログショッピングを	どうぞ　お{ruby (charSpan 1): たの}楽しみください
 "093"		ご{ruby (charSpan 2): りよう}利用　ありがとうございました
-"094"	ご{ruby (charSpan 2): りよう}利用　ありがとうございました{pause 20}
-"095"	
-"096"	
-"097"	
-"098"	
-"099"	
-"101"	{Town name (pink)}
-"102"	{Town name (pink)}
-"103"	
+"094"	ご{ruby (charSpan 2): りよう}利用　ありがとうございました{pause 20}	ご{ruby (charSpan 2): ちゅうもん}注文の{ruby (charSpan 1): しな}品は　お{ruby (charSpan 2): きゃくさま}客様のご{ruby (charSpan 2): じたく}自宅へ	{ruby (charSpan 2): ゆうそう}郵送いたします
+"095"
+"096"
+"097"
+"098"
+"099"
+"101"	{Town name (pink)}{ruby (charSpan 3): はくぶつかん}博物館	{ruby (charSpan 2): てんじ}展示の　ご{ruby (charSpan 2): あんない}案内
+"102"	{Town name (pink)}{ruby (charSpan 3): はくぶつかん}博物館	{ruby (charSpan 2): てんじ}展示の　ご{ruby (charSpan 2): あんない}案内{000f-0006-0006-0000-0000-0000}	1Fの{ruby (charSpan 2): てんじ}展示をチェック	2Fの{ruby (charSpan 2): てんじ}展示をチェック	みるのをやめる
+"103"
 "104"	{ruby (charSpan 2): げんざい}現在、2F{ruby (charSpan 3): てんじしつ}展示室での	{ruby (charSpan 2): てんじ}展示は　ございません	{ruby (charSpan 2): てんじ}展示をご{ruby (charSpan 2): きぼう}希望の{ruby (charSpan 1): かた}方は　2Fスタッフまで
-"105"	{ruby (charSpan 2): げんざい}現在、2F{ruby (charSpan 3): てんじしつ}展示室にて	「{0012-0007-0002-00-ffffffcd}{ruby (charSpan 1): てん}展」{ruby (charSpan 3): かいさいちゅう}開催中！	みなさまのご{ruby (charSpan 2): らいじょう}来場を　お{ruby (charSpan 1): ま}待ちしております
-"106"	{ruby (charSpan 2): げんざい}現在、2F{ruby (charSpan 3): てんじしつ}展示室にて	「{0012-0007-0002-00-ffffffcd}{ruby (charSpan 1): てん}展」および	「{0012-0007-0002-01-ffffffcd}{ruby (charSpan 1): てん}展」{ruby (charSpan 3): かいさいちゅう}開催中！		みなさまのご{ruby (charSpan 2): らいじょう}来場を　お{ruby (charSpan 1): ま}待ちしております
-"107"	{ruby (charSpan 2): げんざい}現在、2F{ruby (charSpan 3): てんじしつ}展示室にて	{ruby (charSpan 2): いか}以下の{ruby (charSpan 2): てんじ}展示を　{ruby (charSpan 1): おこな}行っております{0000-0004-0000}!
-"108"	{ruby (charSpan 2): げんざい}現在、2F{ruby (charSpan 3): てんじしつ}展示室にて	{ruby (charSpan 2): いか}以下の{ruby (charSpan 2): てんじ}展示を　{ruby (charSpan 1): おこな}行っております{0000-0004-0000}!
-"109"	
-"111"		どれどれ{pause 5}
-"112"	この{ruby (charSpan 2): ようす}様子なら、{pause 10}
-"113"	この{ruby (charSpan 2): ようす}様子なら、{pause 10}
-"114"	う～ん{pause 5}
-"115"	う～ん{pause 5}
-"116"	{ruby (charSpan 2): きあつ}気圧が　{ruby (charSpan 1): あ}上がってるみたいだし、{pause 10}
-"117"	この{ruby (charSpan 1): かん}感じだと、{pause 10}
-"118"	う～ん{pause 5}
-"119"	う～ん{pause 5}
-"120"	この{ruby (charSpan 2): ようす}様子なら、{pause 10}
-"121"	この{ruby (charSpan 2): ようす}様子なら、{pause 10}
-"122"	この{ruby (charSpan 2): ようす}様子なら、{pause 10}
-"123"	この{ruby (charSpan 2): ようす}様子なら、{pause 10}
-"124"	う～ん{pause 5}
-"125"	う～ん{pause 5}
-"126"	おっと！{pause 20}
-"127"	
-"128"	
-"129"	
-"131"	{0012-0020-0000}
-"132"	
-"133"	
-"134"	
+"105"	{ruby (charSpan 2): げんざい}現在、2F{ruby (charSpan 3): てんじしつ}展示室にて	「{0012-0007-0002-cd00}{ruby (charSpan 1): てん}展」{ruby (charSpan 3): かいさいちゅう}開催中！	みなさまのご{ruby (charSpan 2): らいじょう}来場を　お{ruby (charSpan 1): ま}待ちしております
+"106"	{ruby (charSpan 2): げんざい}現在、2F{ruby (charSpan 3): てんじしつ}展示室にて	「{0012-0007-0002-cd00}{ruby (charSpan 1): てん}展」および	「{0012-0007-0002-cd01}{ruby (charSpan 1): てん}展」{ruby (charSpan 3): かいさいちゅう}開催中！		みなさまのご{ruby (charSpan 2): らいじょう}来場を　お{ruby (charSpan 1): ま}待ちしております
+"107"	{ruby (charSpan 2): げんざい}現在、2F{ruby (charSpan 3): てんじしつ}展示室にて	{ruby (charSpan 2): いか}以下の{ruby (charSpan 2): てんじ}展示を　{ruby (charSpan 1): おこな}行っております{Wait for input}「{0012-0007-0002-cd00}{ruby (charSpan 1): てん}展」	「{0012-0007-0002-cd01}{ruby (charSpan 1): てん}展」	「{0012-0007-0002-cd02}{ruby (charSpan 1): てん}展」		みなさまのご{ruby (charSpan 2): らいじょう}来場を　お{ruby (charSpan 1): ま}待ちしております
+"108"	{ruby (charSpan 2): げんざい}現在、2F{ruby (charSpan 3): てんじしつ}展示室にて	{ruby (charSpan 2): いか}以下の{ruby (charSpan 2): てんじ}展示を　{ruby (charSpan 1): おこな}行っております{Wait for input}「{0012-0007-0002-cd00}{ruby (charSpan 1): てん}展」	「{0012-0007-0002-cd01}{ruby (charSpan 1): てん}展」{Wait for input}「{0012-0007-0002-cd02}{ruby (charSpan 1): てん}展」	「{0012-0007-0002-cd03}{ruby (charSpan 1): てん}展」{Wait for input}	みなさまのご{ruby (charSpan 2): らいじょう}来場を　お{ruby (charSpan 1): ま}待ちしております
+"109"
+"111"		どれどれ{pause 5}・{pause 5}・{pause 5}・
+"112"	この{ruby (charSpan 2): ようす}様子なら、{pause 10}	この{ruby (charSpan 1): あと}後も　{ruby (charSpan 2): てんき}天気は{ruby (charSpan 1): よ}良さそう！
+"113"	この{ruby (charSpan 2): ようす}様子なら、{pause 10}	そんなに{ruby (charSpan 2): てんき}天気は　{ruby (charSpan 1): か}変わらないかな？
+"114"	う～ん{pause 5}・{pause 5}・{pause 5}・{pause 10}ちょっと{ruby (charSpan 1): くだ}下り{ruby (charSpan 1): ざか}坂？{pause 15}	{ruby (charSpan 1): きゅう}急に　{ruby (charSpan 1): あめ}雨が{ruby (charSpan 1): ふ}降りだすかも{pause 5}・{pause 5}・{pause 5}・
+"115"	う～ん{pause 5}・{pause 5}・{pause 5}・{pause 10}この{ruby (charSpan 1): かん}感じだと、{pause 10}	{ruby (charSpan 1): きゅう}急に　{ruby (charSpan 1): ゆき}雪が{ruby (charSpan 1): ふ}降りだすかも{pause 5}・{pause 5}・{pause 5}・
+"116"	{ruby (charSpan 2): きあつ}気圧が　{ruby (charSpan 1): あ}上がってるみたいだし、{pause 10}	これから　{ruby (charSpan 1): は}晴れてくるかも？
+"117"	この{ruby (charSpan 1): かん}感じだと、{pause 10}	このまま　くもり{ruby (charSpan 1): ぞら}空が{ruby (charSpan 1): つづ}続くかなぁ？
+"118"	う～ん{pause 5}・{pause 5}・{pause 5}・{pause 15}	この{ruby (charSpan 2): ようす}様子だったら{pause 10}	いつ{ruby (charSpan 1): あめ}雨になっても　おかしくないや{pause 5}・{pause 5}・{pause 5}・
+"119"	う～ん{pause 5}・{pause 5}・{pause 5}・{pause 15}	この{ruby (charSpan 2): ようす}様子だったら{pause 10}	いつ{ruby (charSpan 1): ゆき}雪が{ruby (charSpan 1): ふ}降っても　おかしくないや{pause 5}・{pause 5}・{pause 5}・
+"120"	この{ruby (charSpan 2): ようす}様子なら、{pause 10}	その{ruby (charSpan 1): うち}内　{ruby (charSpan 1): あめ}雨が{ruby (charSpan 1): あ}上がって{ruby (charSpan 1): は}晴れるかも？
+"121"	この{ruby (charSpan 2): ようす}様子なら、{pause 10}	その{ruby (charSpan 1): うち}内　{ruby (charSpan 1): ゆき}雪がやんで{ruby (charSpan 1): は}晴れるかも？
+"122"	この{ruby (charSpan 2): ようす}様子なら、{pause 10}	その{ruby (charSpan 1): うち}内　{ruby (charSpan 1): あめ}雨がやむかも？
+"123"	この{ruby (charSpan 2): ようす}様子なら、{pause 10}	その{ruby (charSpan 1): うち}内　{ruby (charSpan 1): ゆき}雪がやむかも？
+"124"	う～ん{pause 5}・{pause 5}・{pause 5}・{pause 15}	この{ruby (charSpan 2): ようす}様子だと　まだまだ	{ruby (charSpan 1): あめ}雨が　{ruby (charSpan 1): ふ}降り{ruby (charSpan 1): つづ}続きそう
+"125"	う～ん{pause 5}・{pause 5}・{pause 5}・{pause 15}	この{ruby (charSpan 2): ようす}様子だと　まだまだ	{ruby (charSpan 1): ゆき}雪は　やみそうにないなぁ
+"126"	おっと！{pause 20}	こっち{ruby (charSpan 1): がわ}側からは　{ruby (charSpan 1): あ}開けられないや！
+"127"
+"128"
+"129"
+"131"	{0012-0020-0000}{ruby (charSpan 2): ばんち}番地	{0011-0002-0002-0000}{ruby (charSpan 1): むら}村　{0011-0000-0002-0000}{ruby (charSpan 2): さまてい}様邸	{0004-000d-0002-cd00}{ruby (charSpan 1): ねん}年{0004-000e-0002-cd00}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日　{ruby (charSpan 2): こうしん}更新
+"132"
+"133"
+"134"
 "135"	かきかえた　マイデザインを	{ruby (charSpan 2): てもと}手元にも　{ruby (charSpan 2): ほぞん}保存します
-"136"		〔{Blue}{0011-0005-0000}
-"137"		{ruby (charSpan 2): かんばん}看板のマイデザインを　はりかえる？{000f-0005-0004-00-00-00-00}
-"138"		{ruby (charSpan 2): かんばん}看板のマイデザインを　かえる？{000f-0006-0006-00-00-00-00-00-00}
+"136"		〔{Blue}{0011-0005-0000}{Color Reset}〕
+"137"		{ruby (charSpan 2): かんばん}看板のマイデザインを　はりかえる？{000f-0005-0004-0000-0000}	はりかえる	やめとく
+"138"		{ruby (charSpan 2): かんばん}看板のマイデザインを　かえる？{000f-0006-0006-0000-0000-0000}	はりかえる	かきかえる	やめとく
 "140"	みなさまの　ご{ruby (charSpan 2): きょうりょく}協力	よろしくお{ruby (charSpan 1): ねが}願いいたします
-"141"	〔{0011-0003-0002-00-00}
-"142"	〔{0011-0003-0002-00-00}
-"143"		〔{Blue}{0012-000c-0002-00-ffffffcd}{Color Reset}〕{0000-0004-0000}
-"144"		〔{Blue}{0012-000c-0002-00-ffffffcd}{Color Reset}〕
+"141"	〔{0011-0003-0002-0000}〕	{0004-000d-0002-cd00}{ruby (charSpan 1): ねん}年{0004-000e-0002-cd00}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日	{0011-0000-0002-0000}{ruby (charSpan 1): さま}様　{ruby (charSpan 2): きぞう}寄贈
+"142"	〔{0011-0003-0002-0000}〕	{0004-000d-0002-cd00}{ruby (charSpan 1): ねん}年{0004-000e-0002-cd00}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日	{ruby (charSpan 3): きぞうしゃ}寄贈者　:　{ruby (charSpan 2): ふめい}不明
+"143"		〔{Blue}{0012-000c-0002-cd00}{Color Reset}〕{Wait for input}{ruby (charSpan 1): た}足りない{ruby (charSpan 2): ぶい}部位を　{ruby (charSpan 2): はっくつ}発掘されましたら	{ruby (charSpan 2): きぞう}寄贈のご{ruby (charSpan 2): きょうりょく}協力を　お{ruby (charSpan 1): ねが}願いいたします
+"144"		〔{Blue}{0012-000c-0002-cd00}{Color Reset}〕
 "146"	{ruby (charSpan 3): しゅってんしゃ}出展者　{ruby (charSpan 3): ぼしゅうちゅう}募集中！	～{ruby (charSpan 2): しゅってん}出展をご{ruby (charSpan 2): きぼう}希望の{ruby (charSpan 1): かた}方は　2Fスタッフまで～
-"147"		{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset}{ruby (charSpan 1): てん}展	　　　　　　　　by {0011-0000-0002-00-00}
-"148"		{ruby (charSpan 2): てんじ}展示ポスターを　かきかえる？{000f-0006-0006-00-00-00-00-00-00}
-"149"	
-"151"		{0011-0001-0002-00-00}
-"152"	・・・{pause 5}
-"153"	{0004-000e-0002-00-ffffffcd}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日　{ruby (charSpan 1): う}生まれ	{0005-000c-0000}
-"154"	
-"156"	～ようこそ　コトブキランドへ！～	{ruby (charSpan 2): とうない}島内の　ご{ruby (charSpan 2): あんない}案内・{ruby (charSpan 2): もくじ}目次{000f-0008-000a-00-00-00-00-00-00-00-00-00-00}
-"157"	{ruby (charSpan 2): ほんとう}本島は　{ruby (charSpan 3): せかいじゅう}世界中の{ruby (charSpan 2): ひとびと}人々に	{ruby (charSpan 2): とこなつ}常夏のパラダイスを　お{ruby (charSpan 1): たの}楽しみいただくため	{ruby (charSpan 1): ひろ}広く{ruby (charSpan 2): かいほう}開放された　リゾートアイランドです。{0000-0004-0000}
-"158"	{ruby (charSpan 1): ほん}本ロビーには、{pause 5}
-"159"	それぞれの　くわしいご{ruby (charSpan 2): せつめい}説明は	{ruby (charSpan 2): いか}以下より　ご{ruby (charSpan 1): らん}覧いただけます。	　　　　　　　　　　　　　　{Gray}(1ページ){Color Reset}{000f-0004-000c-00-00-00-00-00-00-00-00-00-00-00-00}
-"160"	それぞれの　くわしいご{ruby (charSpan 2): せつめい}説明は	{ruby (charSpan 2): いか}以下より　ご{ruby (charSpan 1): らん}覧いただけます。	　　　　　　　　　　　　　　{Gray}(2ページ){Color Reset}{000f-0004-000c-00-00-00-00-00-00-00-00-00-00-00-00}
-"161"	{ruby (charSpan 1): ほん}本パンフレットを　{ruby (charSpan 1): お}置いております	カウンターでは、{Blue}ツアー{Color Reset}の{ruby (charSpan 1): もう}申し{ruby (charSpan 1): こ}込みや	{ruby (charSpan 1): かえ}帰りの{ruby (charSpan 1): ふね}船の{ruby (charSpan 2): てはい}手配を　いたしております。{0000-0004-0000}
-"162"	{ruby (charSpan 1): とう}当ロビー　{ruby (charSpan 2): きたがわ}北側のゲートの{ruby (charSpan 1): さき}先には	{ruby (charSpan 3): ふなつきば}船着場が　ございますが、{ruby (charSpan 2): きけん}危険ですので	{ruby (charSpan 1): た}立ち{ruby (charSpan 1): い}入り{ruby (charSpan 2): きんし}禁止と　なっております。{0000-0004-0000}
-"163"	{ruby (charSpan 1): とう}当ロビーの　ツアーデスク{ruby (charSpan 1): よこ}横は	{Blue}お{ruby (charSpan 2): みやげ}土産コーナー{Color Reset}と　なっております。{0000-0004-0000}
-"164"	ツアーデスク{ruby (charSpan 1): まえ}前に　ございますのは、	{ruby (charSpan 2): だんたい}団体でツアーに　ご{ruby (charSpan 2): さんか}参加いただく{ruby (charSpan 1): さい}際の	{ruby (charSpan 3): まちあいせき}待合席でございます。{0000-0004-0000}
-"165"	{ruby (charSpan 1): とう}当ロビー　{ruby (charSpan 2): みなみがわ}南側のゲートの{ruby (charSpan 1): さき}先は	{ruby (charSpan 2): じゆう}自由に　おくつろぎいただける	ビーチエリアと　なっております。{0000-0004-0000}!
-"166"	{ruby (charSpan 1): しま}島で{ruby (charSpan 1): て}手に{ruby (charSpan 1): い}入れた{ruby (charSpan 1): もの}物を　{ruby (charSpan 1): むら}村に{ruby (charSpan 1): も}持ち{ruby (charSpan 1): かえ}帰る{ruby (charSpan 2): ばあい}場合は	ツアーデスク{ruby (charSpan 1): よこ}横の　{Blue}お{ruby (charSpan 1): あず}預かりBOX{Color Reset}を	ご{ruby (charSpan 2): りよう}利用ください。{0000-0004-0000}
-"167"	{ruby (charSpan 1): とう}当ロビー{ruby (charSpan 1): ない}内には　{ruby (charSpan 4): ゆうびんちょきん}郵便貯金の{Blue}ATM{Color Reset}も	{ruby (charSpan 2): せっち}設置いたしております。{0000-0004-0000}
-"168"	{ruby (charSpan 1): しま}島へ　お{ruby (charSpan 1): こ}越しになられた{ruby (charSpan 1): さい}際には、	ぜひ　ツアーへも　ご{ruby (charSpan 2): さんか}参加くださいませ！{0000-0004-0000}
-"169"	ツアーに{ruby (charSpan 1): かん}関しての　よりくわしいご{ruby (charSpan 2): せつめい}説明は	{ruby (charSpan 2): いか}以下より　ご{ruby (charSpan 1): らん}覧いただけます。{000f-0009-000c-00-00-00-00-00-00-00-00-00-00-00-00}
-"170"	ツアーのお{ruby (charSpan 1): もう}申し{ruby (charSpan 1): こ}込みは	{Blue}ツアーデスク{Color Reset}にて　{ruby (charSpan 1): うけたまわ}承っております。{0000-0004-0000}
-"171"	{ruby (charSpan 3): さんかしゃ}参加者の　みなさまに　ゲームを{ruby (charSpan 2): こうへい}公平に	お{ruby (charSpan 1): たの}楽しみいただくため、ツアーへは	{ruby (charSpan 3): てにもつ}手荷物を　お{ruby (charSpan 1): も}持ち{ruby (charSpan 1): こ}込みいただけません。{0000-0004-0000}
-"172"	ツアーで　お{ruby (charSpan 1): たの}楽しみいただける	アクティビティには	{ruby (charSpan 2): さまざま}様々なものを　ご{ruby (charSpan 2): ようい}用意しております。{0000-0004-0000}
-"173"	ツアーに　ご{ruby (charSpan 2): さんか}参加いただいた　みなさまには	{ruby (charSpan 2): せいせき}成績に{ruby (charSpan 1): おう}応じて　{ruby (charSpan 2): きねん}記念のメダルを	{ruby (charSpan 1): さ}差し{ruby (charSpan 1): あ}上げております。{0000-0004-0000}!
+"147"		{Blue}{0012-0007-0002-cd00}{Color Reset}{ruby (charSpan 1): てん}展	　　　　　　　　by {0011-0000-0002-0000}
+"148"		{ruby (charSpan 2): てんじ}展示ポスターを　かきかえる？{000f-0006-0006-0000-0000-0000}	{ruby (charSpan 2): てんじ}展示タイトルをかえる！	ポスターをかえる！	そのままで
+"149"
+"151"		{0011-0001-0002-0000}の　{ruby (charSpan 2): しゃしん}写真
+"152"	・・・{pause 5}ん？{pause 20}	{ruby (charSpan 2): しゃしん}写真の{ruby (charSpan 1): うら}裏に　{ruby (charSpan 1): ちい}小さな{ruby (charSpan 1): じ}字で{pause 5}	{ruby (charSpan 1): なに}何か　{ruby (charSpan 1): か}書いてある・・・
+"153"	{0004-000e-0002-cd00}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日　{ruby (charSpan 1): う}生まれ	{0005-000c-0000}{ruby (charSpan 1): ざ}座{Wait for input}	{ruby (charSpan 1): す}好きな{ruby (charSpan 2): ことば}言葉は・・・
+"154"
+"156"	～ようこそ　コトブキランドへ！～	{ruby (charSpan 2): とうない}島内の　ご{ruby (charSpan 2): あんない}案内・{ruby (charSpan 2): もくじ}目次{000f-0008-000a-0000-0000-0000-0000-0000}	コトブキランドについて	ロビーのご{ruby (charSpan 2): あんない}案内	ツアーへの{ruby (charSpan 1): いざな}誘い	クラブ・コトブキ	{ruby (charSpan 1): よ}読むのをやめる
+"157"	{ruby (charSpan 2): ほんとう}本島は　{ruby (charSpan 3): せかいじゅう}世界中の{ruby (charSpan 2): ひとびと}人々に	{ruby (charSpan 2): とこなつ}常夏のパラダイスを　お{ruby (charSpan 1): たの}楽しみいただくため	{ruby (charSpan 1): ひろ}広く{ruby (charSpan 2): かいほう}開放された　リゾートアイランドです。{Wait for input}お{ruby (charSpan 2): ひとり}一人はもちろん、{pause 10}ご{ruby (charSpan 2): ゆうじん}友人などと	{ruby (charSpan 2): おおぜい}大勢でも　お{ruby (charSpan 1): たの}楽しみいただける	{ruby (charSpan 2): さまざま}様々なツアーも　ご{ruby (charSpan 2): ようい}用意しております。{Wait for input}{ruby (charSpan 2): ほんとう}本島を　{ruby (charSpan 1): おとず}訪れた　みなさまに	{ruby (charSpan 1): こころ}心から　お{ruby (charSpan 1): たの}楽しみいただけるよう、	スタッフ{ruby (charSpan 2): いちどう}一同　{ruby (charSpan 2): どりょく}努力して{ruby (charSpan 1): まい}参ります。{000f-0005-0004-0000-0000}	{ruby (charSpan 2): もくじ}目次へ	{ruby (charSpan 1): よ}読むのをやめる
+"158"	{ruby (charSpan 1): ほん}本ロビーには、{pause 5}お{ruby (charSpan 2): きゃくさま}客様の	{ruby (charSpan 1): しま}島での{ruby (charSpan 2): たいざい}滞在を　サポートする	{ruby (charSpan 2): さまざま}様々な{ruby (charSpan 2): せつび}設備を　ご{ruby (charSpan 2): ようい}用意しております。
+"159"	それぞれの　くわしいご{ruby (charSpan 2): せつめい}説明は	{ruby (charSpan 2): いか}以下より　ご{ruby (charSpan 1): らん}覧いただけます。	　　　　　　　　　　　　　　{Gray}(1ページ){Color Reset}{000f-0004-000c-0000-0000-0000-0000-0000-0000}	ツアーデスク	{ruby (charSpan 3): ふなつきば}船着場	お{ruby (charSpan 2): みやげ}土産コーナー	{ruby (charSpan 3): まちあいせき}待合席	{ruby (charSpan 1): つぎ}次へ	{ruby (charSpan 1): よ}読むのをやめる
+"160"	それぞれの　くわしいご{ruby (charSpan 2): せつめい}説明は	{ruby (charSpan 2): いか}以下より　ご{ruby (charSpan 1): らん}覧いただけます。	　　　　　　　　　　　　　　{Gray}(2ページ){Color Reset}{000f-0004-000c-0000-0000-0000-0000-0000-0000}	ビーチエリア	お{ruby (charSpan 1): あず}預かりBOX	ATM	{ruby (charSpan 1): まえ}前へ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"161"	{ruby (charSpan 1): ほん}本パンフレットを　{ruby (charSpan 1): お}置いております	カウンターでは、{Blue}ツアー{Color Reset}の{ruby (charSpan 1): もう}申し{ruby (charSpan 1): こ}込みや	{ruby (charSpan 1): かえ}帰りの{ruby (charSpan 1): ふね}船の{ruby (charSpan 2): てはい}手配を　いたしております。{Wait for input}※お{ruby (charSpan 1): かえ}帰りの{ruby (charSpan 1): さい}際は　カウンターでご{ruby (charSpan 2): いらい}依頼	いただくか、{ruby (charSpan 1): した}下{ruby (charSpan 2): がめん}画面の「{ruby (charSpan 1): かえ}帰る」ボタンを	{ruby (charSpan 1): お}押してください。{Wait for input}なお、ツアーについての　くわしい{ruby (charSpan 2): せつめい}説明は	〔{Blue}ツアーへの{ruby (charSpan 1): いざな}誘い{Color Reset}〕のページを	ご{ruby (charSpan 1): らん}覧ください。{000f-0006-0006-0000-0000-0000}	ロビーのご{ruby (charSpan 2): あんない}案内・トップへ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"162"	{ruby (charSpan 1): とう}当ロビー　{ruby (charSpan 2): きたがわ}北側のゲートの{ruby (charSpan 1): さき}先には	{ruby (charSpan 3): ふなつきば}船着場が　ございますが、{ruby (charSpan 2): きけん}危険ですので	{ruby (charSpan 1): た}立ち{ruby (charSpan 1): い}入り{ruby (charSpan 2): きんし}禁止と　なっております。{Wait for input}{ruby (charSpan 1): ふね}船に　{ruby (charSpan 2): じょうせん}乗船されたい{ruby (charSpan 2): ばあい}場合は、	{ruby (charSpan 1): かなら}必ず　ツアーデスクにて	{ruby (charSpan 2): じぜん}事前に　お{ruby (charSpan 1): もう}申し{ruby (charSpan 1): こ}込みください。{000f-0006-0006-0000-0000-0000}	ロビーのご{ruby (charSpan 2): あんない}案内・トップへ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"163"	{ruby (charSpan 1): とう}当ロビーの　ツアーデスク{ruby (charSpan 1): よこ}横は	{Blue}お{ruby (charSpan 2): みやげ}土産コーナー{Color Reset}と　なっております。{Wait for input}{ruby (charSpan 1): しま}島でしか{ruby (charSpan 1): て}手に{ruby (charSpan 1): はい}入らない　めずらしい{ruby (charSpan 1): もの}物を	{ruby (charSpan 1): と}取りそろえておりますので、	ぜひ　{ruby (charSpan 1): たび}旅の{ruby (charSpan 2): きねん}記念に　お{ruby (charSpan 1): もと}求めください。{Wait for input}なお、お{ruby (charSpan 2): みやげ}土産は	{ruby (charSpan 2): げんきん}現金（ベル）では　{ruby (charSpan 2): はんばい}販売しておらず、	{Blue}メダル{Color Reset}との　{ruby (charSpan 3): こうかんせい}交換制となっております。{Wait for input}{Blue}メダル{Color Reset}は　{Blue}ツアー{Color Reset}での{ruby (charSpan 2): せいせき}成績に{ruby (charSpan 1): おう}応じて	{ruby (charSpan 1): さ}差し{ruby (charSpan 1): あ}上げておりますので、	{ruby (charSpan 3): せっきょくてき}積極的に　ツアーへご{ruby (charSpan 2): さんか}参加ください！{000f-0006-0006-0000-0000-0000}	ロビーのご{ruby (charSpan 2): あんない}案内・トップへ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"164"	ツアーデスク{ruby (charSpan 1): まえ}前に　ございますのは、	{ruby (charSpan 2): だんたい}団体でツアーに　ご{ruby (charSpan 2): さんか}参加いただく{ruby (charSpan 1): さい}際の	{ruby (charSpan 3): まちあいせき}待合席でございます。{Wait for input}ツアーについての　くわしい{ruby (charSpan 2): せつめい}説明は	〔{Blue}ツアーへの{ruby (charSpan 1): いざな}誘い{Color Reset}〕のページを	ご{ruby (charSpan 1): らん}覧ください。{000f-0006-0006-0000-0000-0000}	ロビーのご{ruby (charSpan 2): あんない}案内・トップへ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"165"	{ruby (charSpan 1): とう}当ロビー　{ruby (charSpan 2): みなみがわ}南側のゲートの{ruby (charSpan 1): さき}先は	{ruby (charSpan 2): じゆう}自由に　おくつろぎいただける	ビーチエリアと　なっております。{Wait for input}ムシとり・{ruby (charSpan 1): つ}釣り・{ruby (charSpan 3): かいすいよく}海水浴は　もちろん	フルーツなども　{ruby (charSpan 2): じゆう}自由に	お{ruby (charSpan 1): も}持ち{ruby (charSpan 1): かえ}帰り　いただけます。{Wait for input}{ruby (charSpan 2): ひつよう}必要な{ruby (charSpan 2): どうぐ}道具は、ビーチエリアにて	{Orange}ハニワくん{Color Reset}が　レンタルしておりますので	そちらを　ご{ruby (charSpan 2): りよう}利用ください。{000f-0006-0006-0000-0000-0000}	ロビーのご{ruby (charSpan 2): あんない}案内・トップへ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"166"	{ruby (charSpan 1): しま}島で{ruby (charSpan 1): て}手に{ruby (charSpan 1): い}入れた{ruby (charSpan 1): もの}物を　{ruby (charSpan 1): むら}村に{ruby (charSpan 1): も}持ち{ruby (charSpan 1): かえ}帰る{ruby (charSpan 2): ばあい}場合は	ツアーデスク{ruby (charSpan 1): よこ}横の　{Blue}お{ruby (charSpan 1): あず}預かりBOX{Color Reset}を	ご{ruby (charSpan 2): りよう}利用ください。{Wait for input}お{ruby (charSpan 1): かえ}帰りの{ruby (charSpan 1): さい}際は　{Blue}お{ruby (charSpan 1): あず}預かりBOX{Color Reset}に	{ruby (charSpan 1): あず}預けられた{ruby (charSpan 1): もの}物のみ、	{ruby (charSpan 1): むら}村へ　{ruby (charSpan 1): はこ}運ばせていただいております。{Wait for input}{ruby (charSpan 2): にもつ}荷物は　{ruby (charSpan 1): むら}村へ{ruby (charSpan 2): とうちゃく}到着しましたら、	{ruby (charSpan 3): ふなつきば}船着場に{ruby (charSpan 1): そな}備え{ruby (charSpan 1): つ}付けの　{Blue}お{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取りBOX{Color Reset}へ	{ruby (charSpan 1): うつ}移させていただいております。{Wait for input}{ruby (charSpan 1): むら}村へ　お{ruby (charSpan 1): かえ}帰りになられましたら、	{ruby (charSpan 1): わす}忘れずに　お{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取りくださいませ。{000f-0006-0006-0000-0000-0000}	ロビーのご{ruby (charSpan 2): あんない}案内・トップへ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"167"	{ruby (charSpan 1): とう}当ロビー{ruby (charSpan 1): ない}内には　{ruby (charSpan 4): ゆうびんちょきん}郵便貯金の{Blue}ATM{Color Reset}も	{ruby (charSpan 2): せっち}設置いたしております。{Wait for input}{ruby (charSpan 1): しま}島では　{ruby (charSpan 2): げんきん}現金(ベル)は　{ruby (charSpan 2): しよう}使用しませんので	{ruby (charSpan 2): ふよう}不要な{ruby (charSpan 2): げんきん}現金の　{ruby (charSpan 1): あず}預け{ruby (charSpan 1): い}入れなどに	ご{ruby (charSpan 2): りよう}利用くださいませ。{000f-0006-0006-0000-0000-0000}	ロビーのご{ruby (charSpan 2): あんない}案内・トップへ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"168"	{ruby (charSpan 1): しま}島へ　お{ruby (charSpan 1): こ}越しになられた{ruby (charSpan 1): さい}際には、	ぜひ　ツアーへも　ご{ruby (charSpan 2): さんか}参加くださいませ！{Wait for input}ツアーでは　みなさまを	{ruby (charSpan 2): りとう}離島へ　ご{ruby (charSpan 2): あんない}案内いたします。{Wait for input}そして、そこでは	{ruby (charSpan 2): さまざま}様々なアクティビティ（{ruby (charSpan 1): あそ}遊び）を	ゲーム{ruby (charSpan 2): かんかく}感覚で　お{ruby (charSpan 1): たの}楽しみいただけます。
+"169"	ツアーに{ruby (charSpan 1): かん}関しての　よりくわしいご{ruby (charSpan 2): せつめい}説明は	{ruby (charSpan 2): いか}以下より　ご{ruby (charSpan 1): らん}覧いただけます。{000f-0009-000c-0000-0000-0000-0000-0000-0000}	{ruby (charSpan 2): さんか}参加するには？	{ruby (charSpan 3): てにもつ}手荷物についてご{ruby (charSpan 2): ちゅうい}注意	アクティビティご{ruby (charSpan 2): しょうかい}紹介	メダルについて	{ruby (charSpan 2): もくじ}目次へ	{ruby (charSpan 1): よ}読むのをやめる
+"170"	ツアーのお{ruby (charSpan 1): もう}申し{ruby (charSpan 1): こ}込みは	{Blue}ツアーデスク{Color Reset}にて　{ruby (charSpan 1): うけたまわ}承っております。{Wait for input}{ruby (charSpan 4): さんかだいきん}参加代金は　いただいておりませんので、	お{ruby (charSpan 2): きがる}気軽に　ご{ruby (charSpan 2): さんか}参加ください！{Wait for input}お{ruby (charSpan 1): す}好きなツアーを　お{ruby (charSpan 1): もう}申し{ruby (charSpan 1): こ}込み{ruby (charSpan 1): ご}後、	{ruby (charSpan 2): しゅっぱつ}出発の{ruby (charSpan 2): じゅんび}準備が　できましたら	{ruby (charSpan 3): まちあいせき}待合席に　{ruby (charSpan 1): すわ}座ってお{ruby (charSpan 1): ま}待ちください。{Wait for input}ご{ruby (charSpan 2): ゆうじん}友人と{ruby (charSpan 2): いっしょ}一緒に　ご{ruby (charSpan 2): さんか}参加の{ruby (charSpan 2): ばあい}場合、	{ruby (charSpan 2): ぜんいん}全員が　おそろいに　なられましたら	{ruby (charSpan 2): しゅっぱつ}出発いたします。{000f-0006-0006-0000-0000-0000}	ツアーへの{ruby (charSpan 1): いざな}誘い・トップへ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"171"	{ruby (charSpan 3): さんかしゃ}参加者の　みなさまに　ゲームを{ruby (charSpan 2): こうへい}公平に	お{ruby (charSpan 1): たの}楽しみいただくため、ツアーへは	{ruby (charSpan 3): てにもつ}手荷物を　お{ruby (charSpan 1): も}持ち{ruby (charSpan 1): こ}込みいただけません。{Wait for input}{ruby (charSpan 3): まちあいせき}待合席に{ruby (charSpan 1): すわ}座られた{ruby (charSpan 1): のち}後、{ruby (charSpan 2): しゅっぱつ}出発の{ruby (charSpan 1): さい}際に	お{ruby (charSpan 1): も}持ちの{ruby (charSpan 3): てにもつ}手荷物は　{ruby (charSpan 3): じどうてき}自動的に{ruby (charSpan 2): せいさん}清算し、	お{ruby (charSpan 2): きゃくさま}客様の{ruby (charSpan 2): こうざ}口座へ　{ruby (charSpan 2): にゅうきん}入金いたします。{Wait for input}{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取り{ruby (charSpan 2): かかく}価格は　{ruby (charSpan 1): しま}島レートとなっており	{ruby (charSpan 1): むら}村とは　{ruby (charSpan 1): おお}大きく{ruby (charSpan 1): こと}異なりますので	ご{ruby (charSpan 2): ちゅうい}注意　{ruby (charSpan 1): ねが}願います。{Wait for input}{ruby (charSpan 1): むら}村に{ruby (charSpan 1): も}持ち{ruby (charSpan 1): かえ}帰りたい　{ruby (charSpan 2): だいじ}大事な{ruby (charSpan 1): もの}物は	{ruby (charSpan 1): かなら}必ず　{ruby (charSpan 3): しゅっぱつまえ}出発前に　{Blue}お{ruby (charSpan 1): あず}預かりBOX{Color Reset}に	お{ruby (charSpan 1): あず}預け{ruby (charSpan 1): ねが}願います。{000f-0006-0006-0000-0000-0000}	ツアーへの{ruby (charSpan 1): いざな}誘い・トップへ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"172"	ツアーで　お{ruby (charSpan 1): たの}楽しみいただける	アクティビティには	{ruby (charSpan 2): さまざま}様々なものを　ご{ruby (charSpan 2): ようい}用意しております。{Wait for input}＜アクティビティの{ruby (charSpan 2): いちれい}一例＞	{ruby (charSpan 1): つ}釣り{ruby (charSpan 2): きょうそう}競争、ムシとり{ruby (charSpan 2): きょうそう}競争、{ruby (charSpan 1): す}素もぐり{ruby (charSpan 2): きょうそう}競争、	{ruby (charSpan 2): めいろ}迷路、{ruby (charSpan 3): ふうせんわ}風船割り、{ruby (charSpan 1): か}借り{ruby (charSpan 3): ものきょうそう}物競争　など・・・{Wait for input}お{ruby (charSpan 1): もう}申し{ruby (charSpan 1): こ}込みいただける　ツアーは	その{ruby (charSpan 2): ときどき}時々で　{ruby (charSpan 1): か}変わりますので、	ツアーデスクで　ご{ruby (charSpan 2): かくにん}確認くださいませ。{Wait for input}なお、くわしいルールの{ruby (charSpan 2): せつめい}説明は	ツアーに{ruby (charSpan 2): どうこう}同行する　ツアーガイドより	お{ruby (charSpan 1): き}聞きになれます。{000f-0006-0006-0000-0000-0000}	ツアーへの{ruby (charSpan 1): いざな}誘い・トップへ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"173"	ツアーに　ご{ruby (charSpan 2): さんか}参加いただいた　みなさまには	{ruby (charSpan 2): せいせき}成績に{ruby (charSpan 1): おう}応じて　{ruby (charSpan 2): きねん}記念のメダルを	{ruby (charSpan 1): さ}差し{ruby (charSpan 1): あ}上げております。{Wait for input}メダルを{ruby (charSpan 1): あつ}集めることで、{ruby (charSpan 2): まいすう}枚数に{ruby (charSpan 1): おう}応じて	お{ruby (charSpan 2): みやげ}土産コーナーの　お{ruby (charSpan 2): みやげ}土産グッズと	{ruby (charSpan 2): こうかん}交換していただけます。{Wait for input}ツアーで　{ruby (charSpan 1): よ}良い{ruby (charSpan 2): せいせき}成績を{ruby (charSpan 1): おさ}収められた{ruby (charSpan 1): かた}方には	{ruby (charSpan 1): おお}多くのメダルを　{ruby (charSpan 1): さ}差し{ruby (charSpan 1): あ}上げますので、	ふるって　ご{ruby (charSpan 2): さんか}参加ください！{000f-0006-0006-0000-0000-0000}	ツアーへの{ruby (charSpan 1): いざな}誘い・トップへ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
 "174"	コトブキランドでは、	ワンランク{ruby (charSpan 1): うえ}上の　サービスを{ruby (charSpan 2): ていきょう}提供する	{Blue}クラブ・コトブキ{Color Reset}{ruby (charSpan 2): かいいん}会員を　{ruby (charSpan 3): ぼしゅうちゅう}募集中です。
-"175"	クラブ・コトブキに{ruby (charSpan 1): かん}関しての	くわしいご{ruby (charSpan 2): せつめい}説明は	{ruby (charSpan 2): いか}以下より　ご{ruby (charSpan 1): らん}覧いただけます。{000f-0009-000c-00-00-00-00-00-00-00-00-00-00-00-00}
-"176"	クラブ・コトブキは、コトブキランドにて	より{ruby (charSpan 3): ひにちじょう}非日常な{ruby (charSpan 2): たいけん}体験を　お{ruby (charSpan 1): のぞ}望みの{ruby (charSpan 1): かた}方のための	{ruby (charSpan 2): かいいん}会員サービスで　ございます。{0000-0004-0000}!
-"177"	クラブ・コトブキ　{ruby (charSpan 2): にゅうかい}入会を　ご{ruby (charSpan 2): きぼう}希望の{ruby (charSpan 1): かた}方は	お{ruby (charSpan 2): みやげ}土産コーナーに　ございます	{ruby (charSpan 5): にゅうかいもうしこみしょ}入会申込書を　お{ruby (charSpan 1): もと}求めください。	ただし、{ruby (charSpan 2): じっさい}実際にクラブ・コトブキの	{ruby (charSpan 2): かいいん}会員サービスを　ご{ruby (charSpan 2): りよう}利用いただくには、	{ruby (charSpan 1): つぎ}次の3{ruby (charSpan 1): てん}点に　ご{ruby (charSpan 2): ちゅうい}注意ください。{0000-0004-0000}
-"178"	{ruby (charSpan 3): かいいんさま}会員様が　{ruby (charSpan 1): しま}島にご{ruby (charSpan 2): たいざい}滞在の{ruby (charSpan 1): あいだ}間は、	{ruby (charSpan 1): つね}常に　{ruby (charSpan 1): ほか}他の{ruby (charSpan 3): かいいんさま}会員様が	{ruby (charSpan 1): しま}島を{ruby (charSpan 2): でい}出入りされる　{ruby (charSpan 3): かのうせい}可能性がございます。{0000-0004-0000}
-"179"	クラブ・コトブキ{ruby (charSpan 5): かいいんさまどうし}会員様同士で	{ruby (charSpan 1): しま}島に{ruby (charSpan 2): たいざい}滞在される{ruby (charSpan 2): ばあい}場合は	くれぐれも{ruby (charSpan 2): いか}以下の{ruby (charSpan 1): てん}点に　ご{ruby (charSpan 2): ちゅうい}注意ください。{0000-0004-0000}
-"180"	{ruby (charSpan 1): まん}万が{ruby (charSpan 1): いち}一、{ruby (charSpan 2): みし}見知らぬ{ruby (charSpan 2): かいいん}会員の{ruby (charSpan 1): かた}方によって	{ruby (charSpan 3): ふゆかい}不愉快な　{ruby (charSpan 1): おも}思いをされた{ruby (charSpan 2): ばあい}場合、	{Blue}ブラックリスト{Color Reset}{ruby (charSpan 2): きのう}機能を　ご{ruby (charSpan 2): りよう}利用ください。{0000-0004-0000}
-"182"	{Town name (pink)}
-"183"	{Town name (pink)}
-"184"	よその{ruby (charSpan 1): むら}村へ　おでかけするには、	{ruby (charSpan 1): つぎ}次の2つの{ruby (charSpan 2): ほうほう}方法が　ございます。{0000-0004-0000}
-"185"	よその{ruby (charSpan 1): むら}村のお{ruby (charSpan 2): きゃくさま}客様を　お{ruby (charSpan 1): まね}招きするには、	{ruby (charSpan 1): つぎ}次の2つの{ruby (charSpan 2): ほうほう}方法が　ございます。{0000-0004-0000}
-"186"	{ruby (charSpan 2): かいさつ}改札を{ruby (charSpan 1): ひら}開いている{ruby (charSpan 1): あいだ}間は　3{ruby (charSpan 3): めいいない}名以内であれば	よその{ruby (charSpan 1): むら}村のお{ruby (charSpan 2): きゃくさま}客様は	{ruby (charSpan 2): じゆう}自由に　{ruby (charSpan 2): ほうもん}訪問することができます。{0000-0004-0000}
-"187"	{ruby (charSpan 2): とうえき}当駅のロッカーは　どなたも{ruby (charSpan 2): むりょう}無料で	ご{ruby (charSpan 2): じゆう}自由に　ご{ruby (charSpan 2): りよう}利用いただけます。{0000-0004-0000}
-"188"	ご{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): むら}村へ　お{ruby (charSpan 1): かえ}帰りになられる{ruby (charSpan 1): さい}際は	{ruby (charSpan 2): えきいん}駅員に　お{ruby (charSpan 1): こえ}声がけください。{0000-0004-0000}
-"189"	{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 1): あそ}遊んでいるお{ruby (charSpan 2): きゃくさま}客様を	ベストフレンドに{ruby (charSpan 2): とうろく}登録すると、	{ruby (charSpan 2): あいて}相手のソパカを　いつでも{ruby (charSpan 1): み}見られます。{0000-0004-0000}
-"190"	ベストフレンドに{ruby (charSpan 2): とうろく}登録するには、	{ruby (charSpan 2): つうしん}通信で{ruby (charSpan 1): あそ}遊んでいる{ruby (charSpan 1): とき}時に　{ruby (charSpan 1): した}下{ruby (charSpan 2): がめん}画面に{ruby (charSpan 2): ひょうじ}表示される	{Green}{Color Reset}{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 1): あそ}遊んでいる{ruby (charSpan 1): ひと}人のリストを{ruby (charSpan 1): ひら}開き、{0000-0004-0000}
-"191"		・{pause 5}
-"192"		・{pause 5}
-"193"	{Town name (pink)}
-"195"	・・・あれ？	{ruby (charSpan 2): なかみ}中身は　{ruby (charSpan 1): から}空っぽだ{0000-0004-0000}
-"196"	・・・あれ？	{ruby (charSpan 2): なかみ}中身は　{ruby (charSpan 1): から}空っぽだ{0000-0004-0000}
+"175"	クラブ・コトブキに{ruby (charSpan 1): かん}関しての	くわしいご{ruby (charSpan 2): せつめい}説明は	{ruby (charSpan 2): いか}以下より　ご{ruby (charSpan 1): らん}覧いただけます。{000f-0009-000c-0000-0000-0000-0000-0000-0000}	クラブ・コトブキって？	{ruby (charSpan 2): にゅうかい}入会するには？	{ruby (charSpan 3): かいいんさま}会員様のツアー{ruby (charSpan 2): さんか}参加	{ruby (charSpan 3): かいいんさま}会員様へのお{ruby (charSpan 1): ねが}願い	{ruby (charSpan 2): もくじ}目次へ	{ruby (charSpan 1): よ}読むのをやめる
+"176"	クラブ・コトブキは、コトブキランドにて	より{ruby (charSpan 3): ひにちじょう}非日常な{ruby (charSpan 2): たいけん}体験を　お{ruby (charSpan 1): のぞ}望みの{ruby (charSpan 1): かた}方のための	{ruby (charSpan 2): かいいん}会員サービスで　ございます。{Wait for input}{ruby (charSpan 2): かいいん}会員になると、{Blue}ランダムマッチング{Color Reset}で	{ruby (charSpan 2): みし}見知らぬ{ruby (charSpan 5): かいいんさまどうし}会員様同士が　{ruby (charSpan 1): しま}島に{ruby (charSpan 1): あつ}集まり	{ruby (charSpan 2): こうりゅう}交流するサービスを　ご{ruby (charSpan 2): りよう}利用いただけます。{Wait for input}{ruby (charSpan 1): しま}島に　お{ruby (charSpan 1): あつ}集まりになった　{ruby (charSpan 5): かいいんさまどうし}会員様同士でも	{ruby (charSpan 2): ふだん}普段と{ruby (charSpan 1): おな}同じように　{ruby (charSpan 2): かいわ}会話（チャット）や	ツアーを　お{ruby (charSpan 1): たの}楽しみいただけます。{000f-0006-0006-0000-0000-0000}	クラブ・コトブキ　{ruby (charSpan 2): さいしょ}最初へ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"177"	クラブ・コトブキ　{ruby (charSpan 2): にゅうかい}入会を　ご{ruby (charSpan 2): きぼう}希望の{ruby (charSpan 1): かた}方は	お{ruby (charSpan 2): みやげ}土産コーナーに　ございます	{ruby (charSpan 5): にゅうかいもうしこみしょ}入会申込書を　お{ruby (charSpan 1): もと}求めください。	ただし、{ruby (charSpan 2): じっさい}実際にクラブ・コトブキの	{ruby (charSpan 2): かいいん}会員サービスを　ご{ruby (charSpan 2): りよう}利用いただくには、	{ruby (charSpan 1): つぎ}次の3{ruby (charSpan 1): てん}点に　ご{ruby (charSpan 2): ちゅうい}注意ください。{Wait for input}{Blue}（1）インターネット{ruby (charSpan 4): せつぞくかんきょう}接続環境	{ruby (charSpan 5): かいいんさまどうし}会員様同士の　ランダムマッチングは	インターネット{ruby (charSpan 2): けいゆ}経由と　なっております。{Wait for input}（2）{ruby (charSpan 3): ほごしゃ}保護者による{ruby (charSpan 4): しようせいげん}使用制限で	「{ruby (charSpan 1): ほか}他のユーザーとのインターネット{ruby (charSpan 2): つうしん}通信」が	{ruby (charSpan 2): せいげん}制限されていないこと{Wait for input}（3）{ruby (charSpan 3): ほごしゃ}保護者による{ruby (charSpan 4): しようせいげん}使用制限で	「{ruby (charSpan 2): しゃしん}写真や{ruby (charSpan 2): がぞう}画像・{ruby (charSpan 2): おんせい}音声・{ruby (charSpan 2): どうが}動画・{ruby (charSpan 2): ちょうぶん}長文テキストの	{ruby (charSpan 3): そうじゅしん}送受信」が　{ruby (charSpan 2): せいげん}制限されていないこと。{Color Reset}{Wait for input}これらの{ruby (charSpan 2): じょうけん}条件が　そろっていない{ruby (charSpan 2): ばあい}場合、	サービスを　ご{ruby (charSpan 2): りよう}利用いただけませんので	ご{ruby (charSpan 2): りょうしょう}了承　{ruby (charSpan 1): ねが}願います。{000f-0006-0006-0000-0000-0000}	クラブ・コトブキ　{ruby (charSpan 2): さいしょ}最初へ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"178"	{ruby (charSpan 3): かいいんさま}会員様が　{ruby (charSpan 1): しま}島にご{ruby (charSpan 2): たいざい}滞在の{ruby (charSpan 1): あいだ}間は、	{ruby (charSpan 1): つね}常に　{ruby (charSpan 1): ほか}他の{ruby (charSpan 3): かいいんさま}会員様が	{ruby (charSpan 1): しま}島を{ruby (charSpan 2): でい}出入りされる　{ruby (charSpan 3): かのうせい}可能性がございます。{Wait for input}{ruby (charSpan 1): ぎゃく}逆に、{ruby (charSpan 1): しま}島に{ruby (charSpan 2): とうちゃく}到着した{ruby (charSpan 2): ちょくご}直後には	お{ruby (charSpan 2): きゃくさま}客様お{ruby (charSpan 2): ひとり}一人の{ruby (charSpan 2): ばあい}場合も　ございます。{Wait for input}{ruby (charSpan 1): ほか}他のお{ruby (charSpan 2): きゃくさま}客様の　{ruby (charSpan 2): とうちゃく}到着を{ruby (charSpan 1): ま}待たれる{ruby (charSpan 2): ばあい}場合は	ビーチエリアなど　{ruby (charSpan 1): とう}当ロビーの{ruby (charSpan 2): しゅうへん}周辺で	のんびり　おくつろぎください。{Wait for input}{ruby (charSpan 5): かいいんさまどうし}会員様同士で　ツアーに{ruby (charSpan 2): さんか}参加される{ruby (charSpan 2): ばあい}場合、	{ruby (charSpan 2): さんか}参加するかどうかは　それぞれのお{ruby (charSpan 2): きゃくさま}客様の	{ruby (charSpan 2): にんい}任意となります。	{ruby (charSpan 2): ぜんいん}全員が　{ruby (charSpan 3): まちあいせき}待合席に{ruby (charSpan 1): すわ}座っていなくても、	ツアーに{ruby (charSpan 1): もう}申し{ruby (charSpan 1): こ}込まれた　{ruby (charSpan 2): だいひょう}代表の{ruby (charSpan 1): かた}方が	{ruby (charSpan 1): すわ}座った{ruby (charSpan 2): じてん}時点で　すぐに{ruby (charSpan 2): しゅっぱつ}出発いたします。	{ruby (charSpan 1): だれ}誰かを　お{ruby (charSpan 1): ま}待ちになる{ruby (charSpan 2): ばあい}場合、	{ruby (charSpan 4): だいひょうしゃさま}代表者様は　{ruby (charSpan 1): ほか}他の{ruby (charSpan 3): さんかしゃ}参加者の{ruby (charSpan 2): ちゃくせき}着席を	ご{ruby (charSpan 2): かくにん}確認の{ruby (charSpan 1): うえ}上、お{ruby (charSpan 1): すわ}座りくださいませ。{000f-0006-0006-0000-0000-0000}	クラブ・コトブキ　{ruby (charSpan 2): さいしょ}最初へ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"179"	クラブ・コトブキ{ruby (charSpan 5): かいいんさまどうし}会員様同士で	{ruby (charSpan 1): しま}島に{ruby (charSpan 2): たいざい}滞在される{ruby (charSpan 2): ばあい}場合は	くれぐれも{ruby (charSpan 2): いか}以下の{ruby (charSpan 1): てん}点に　ご{ruby (charSpan 2): ちゅうい}注意ください。{Wait for input}{ruby (charSpan 5): かいいんさまどうし}会員様同士は　{ruby (charSpan 3): きほんてき}基本的に　{ruby (charSpan 3): しょたいめん}初対面で	{ruby (charSpan 1): み}見ず{ruby (charSpan 1): し}知らずの{ruby (charSpan 2): あいだがら}間柄であることが	{ruby (charSpan 2): よそう}予想されます。{Wait for input}{ruby (charSpan 2): じゅうしょ}住所・{ruby (charSpan 4): でんわばんごう}電話番号や　フレンドコードなどの	{ruby (charSpan 4): こじんじょうほう}個人情報を{ruby (charSpan 1): おし}教えたり、たずねたりするのは	おやめください。{Wait for input}また、{ruby (charSpan 1): とき}時には　お{ruby (charSpan 1): す}住まいの{ruby (charSpan 1): くに}国や	{ruby (charSpan 1): はな}話す{ruby (charSpan 2): ことば}言葉の{ruby (charSpan 1): ちが}違う　{ruby (charSpan 5): かいいんさまどうし}会員様同士が	{ruby (charSpan 1): あつ}集まる{ruby (charSpan 2): ばあい}場合もございます。{Wait for input}{ruby (charSpan 2): あいて}相手が　{ruby (charSpan 3): ふゆかい}不愉快に{ruby (charSpan 1): かん}感じる{ruby (charSpan 2): ことば}言葉を	{ruby (charSpan 1): な}投げかけることは　ご{ruby (charSpan 2): えんりょ}遠慮ください。{Wait for input}また、{ruby (charSpan 2): ふかい}不快に{ruby (charSpan 1): かん}感じられる{ruby (charSpan 1): おそ}恐れのある	マイデザインを　{ruby (charSpan 1): み}身に{ruby (charSpan 1): つ}着けての	ご{ruby (charSpan 2): ほうもん}訪問も　お{ruby (charSpan 1): ひか}控えください。	お{ruby (charSpan 1): たが}互いが　{ruby (charSpan 2): きも}気持ちよく{ruby (charSpan 2): たいざい}滞在し、	ツアーや　コミュニケーションを	{ruby (charSpan 1): たの}楽しめるよう　お{ruby (charSpan 1): こころ}心がけくださいませ。{000f-0007-0008-0000-0000-0000-0000}	イヤな{ruby (charSpan 1): おも}思いをしたら？	クラブ・コトブキ　{ruby (charSpan 2): さいしょ}最初へ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"180"	{ruby (charSpan 1): まん}万が{ruby (charSpan 1): いち}一、{ruby (charSpan 2): みし}見知らぬ{ruby (charSpan 2): かいいん}会員の{ruby (charSpan 1): かた}方によって	{ruby (charSpan 3): ふゆかい}不愉快な　{ruby (charSpan 1): おも}思いをされた{ruby (charSpan 2): ばあい}場合、	{Blue}ブラックリスト{Color Reset}{ruby (charSpan 2): きのう}機能を　ご{ruby (charSpan 2): りよう}利用ください。{Wait for input}この{ruby (charSpan 2): きのう}機能により、ブラックリスト{ruby (charSpan 2): とうろく}登録した	{ruby (charSpan 2): あいて}相手とは　{ruby (charSpan 2): じかい}次回よりランダムマッチングで	{ruby (charSpan 2): であ}出会うことを　{ruby (charSpan 1): ふせ}防ぐことができます。{Wait for input}	～ブラックリスト{ruby (charSpan 4): とうろくてじゅん}登録手順～{Wait for input}（1）{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 1): しま}島に　{ruby (charSpan 2): たいざい}滞在している{ruby (charSpan 1): あいだ}間に	{ruby (charSpan 3): したがめん}下画面の　{Green}👥{Color Reset}をタッチし、	{ruby (charSpan 1): しま}島にいる{ruby (charSpan 1): ひと}人リストを　{ruby (charSpan 1): ひら}開いてください。	（2)ブラックリストに{ruby (charSpan 2): とうろく}登録したい	{ruby (charSpan 2): あいて}相手の{ruby (charSpan 2): なまえ}名前を{ruby (charSpan 1): えら}選び、{ruby (charSpan 2): とうろく}登録してください。{Wait for input}なお、ご{ruby (charSpan 2): とうろく}登録の{ruby (charSpan 1): さい}際は	{ruby (charSpan 2): いか}以下の{ruby (charSpan 1): てん}点に　ご{ruby (charSpan 2): ちゅうい}注意ください。{Wait for input}（1)リストに{ruby (charSpan 2): とうろく}登録できるのは	お{ruby (charSpan 2): きゃくさま}客様と　{ruby (charSpan 2): あいて}相手の{ruby (charSpan 1): かた}方の　{ruby (charSpan 2): りょうほう}両方が	{ruby (charSpan 1): しま}島に{ruby (charSpan 2): たいざい}滞在している{ruby (charSpan 1): あいだ}間のみです。{Wait for input}（2）{ruby (charSpan 2): とうろく}登録した{ruby (charSpan 1): あと}後も、どちらかが	{ruby (charSpan 1): むら}村に{ruby (charSpan 1): かえ}帰るまでの{ruby (charSpan 1): あいだ}間は	{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): つづ}続き　{ruby (charSpan 1): しま}島に{ruby (charSpan 2): たいざい}滞在することになります。{Wait for input}（3）{ruby (charSpan 2): いちど}一度　{ruby (charSpan 2): とうろく}登録した{ruby (charSpan 2): あいて}相手を	{ruby (charSpan 1): ふたた}再びリストから　{ruby (charSpan 1): はず}外すことはできません。	くれぐれも　ご{ruby (charSpan 2): ちゅうい}注意ください。{000f-0006-0006-0000-0000-0000}	クラブ・コトブキ　{ruby (charSpan 2): さいしょ}最初へ	{ruby (charSpan 2): もくじ}目次へ{ruby (charSpan 1): もど}戻る	{ruby (charSpan 1): よ}読むのをやめる
+"182"	{Town name (pink)}{ruby (charSpan 1): えき}駅	ご{ruby (charSpan 2): りよう}利用　{ruby (charSpan 2): あんない}案内	～{Town name (pink)}{ruby (charSpan 1): むら}村の　{ruby (charSpan 2): みなさま}皆様へ～{000f-0009-000c-0000-0000-0000-0000-0000-0000}	おでかけするには	お{ruby (charSpan 1): まね}招きするには	お{ruby (charSpan 1): まね}招きしている{ruby (charSpan 1): さい}際のご{ruby (charSpan 2): ちゅうい}注意	ロッカーのご{ruby (charSpan 2): あんない}案内	ベストフレンドについて	{ruby (charSpan 1): よ}読むのをやめる
+"183"	{Town name (pink)}{ruby (charSpan 1): えき}駅	ご{ruby (charSpan 2): りよう}利用　{ruby (charSpan 2): あんない}案内	～{Town name (pink)}{ruby (charSpan 1): むら}村へお{ruby (charSpan 1): こ}越しの　お{ruby (charSpan 2): きゃくさま}客様へ～{000f-0007-0008-0000-0000-0000-0000}	ロッカーのご{ruby (charSpan 2): あんない}案内	お{ruby (charSpan 1): かえ}帰りになるには	ベストフレンドについて	{ruby (charSpan 1): よ}読むのをやめる
+"184"	よその{ruby (charSpan 1): むら}村へ　おでかけするには、	{ruby (charSpan 1): つぎ}次の2つの{ruby (charSpan 2): ほうほう}方法が　ございます。{Wait for input}(1)ローカル{ruby (charSpan 2): つうしん}通信	(2)インターネット{Wait for input}ローカル{ruby (charSpan 2): つうしん}通信では、すぐ{ruby (charSpan 1): ちか}近くで	{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Color Reset}を  {ruby (charSpan 1): あそ}遊んで	いる　お{ruby (charSpan 2): きゃくさま}客様の{ruby (charSpan 1): むら}村へ　おでかけができます。{Wait for input}{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Color Reset}からは、	{ruby (charSpan 1): おな}同じ{Blue}{ruby (charSpan 7): アミーボプラス}amiibo+{Color Reset}の{ruby (charSpan 1): むら}村にのみ、	おでかけできます。{Wait for input}{ruby (charSpan 2): あいて}相手の{ruby (charSpan 1): むら}村が　{ruby (charSpan 1): み}見つからない{ruby (charSpan 2): ばあい}場合は	{ruby (charSpan 2): つうしん}通信を{ruby (charSpan 1): おこな}行う{ruby (charSpan 2): あいて}相手が、{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森{Color Reset}	{Green}{ruby (charSpan 7): アミーボプラス}amiibo+{Color Reset}かを　{ruby (charSpan 2): かくにん}確認してください。{Wait for input}インターネットでは、	お{ruby (charSpan 2): きゃくさま}客様の　{ruby (charSpan 2): ほんたい}本体のフレンドの{ruby (charSpan 1): むら}村へ	インターネット{ruby (charSpan 2): けいゆ}経由で　おでかけできます。{Wait for input}どちらの{ruby (charSpan 2): ばあい}場合も　おでかけできるのは	{ruby (charSpan 1): おな}同じ{ruby (charSpan 2): ほうほう}方法{Gray}(ローカルまたはインターネット){Color Reset}で	{ruby (charSpan 2): かいさつ}改札が{ruby (charSpan 1): ひら}開かれている{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): かぎ}限ります。{Wait for input}また、この{ruby (charSpan 1): むら}村の{ruby (charSpan 2): かいさつ}改札を{ruby (charSpan 1): ひら}開いている{ruby (charSpan 1): あいだ}間や	{ruby (charSpan 1): だれ}誰かを　お{ruby (charSpan 1): まね}招きしている{ruby (charSpan 2): さいちゅう}最中は	おでかけできません。
+"185"	よその{ruby (charSpan 1): むら}村のお{ruby (charSpan 2): きゃくさま}客様を　お{ruby (charSpan 1): まね}招きするには、	{ruby (charSpan 1): つぎ}次の2つの{ruby (charSpan 2): ほうほう}方法が　ございます。{Wait for input}(1)ローカル{ruby (charSpan 2): つうしん}通信	(2)インターネット{Wait for input}ローカル{ruby (charSpan 2): つうしん}通信では、すぐ{ruby (charSpan 1): ちか}近くで	{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Color Reset}を  {ruby (charSpan 1): あそ}遊んで	いるお{ruby (charSpan 2): きゃくさま}客様を、この{ruby (charSpan 1): むら}村へ　お{ruby (charSpan 1): まね}招きできます。{Wait for input}{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Color Reset}の{ruby (charSpan 1): むら}村には	{ruby (charSpan 1): おな}同じ　{Blue}{ruby (charSpan 7): アミーボプラス}amiibo+{Color Reset}で{ruby (charSpan 1): あそ}遊んでいる{ruby (charSpan 1): かた}方のみ	お{ruby (charSpan 1): まね}招きできます。{Wait for input}{ruby (charSpan 2): あいて}相手の{ruby (charSpan 1): かた}方が　{Town name (pink)}{ruby (charSpan 1): むら}村を	{ruby (charSpan 1): み}見つけられない{ruby (charSpan 2): ばあい}場合は、バージョンが	{ruby (charSpan 1): ちが}違う{ruby (charSpan 3): かのうせい}可能性があります。{Wait for input}その{ruby (charSpan 2): ばあい}場合は　{ruby (charSpan 2): あいて}相手の{ruby (charSpan 1): かた}方が{ruby (charSpan 1): あそ}遊んでいるのが	{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Color Reset}かどうか	{ruby (charSpan 2): かくにん}確認してください。{Wait for input}インターネットでは、	お{ruby (charSpan 2): きゃくさま}客様の　{ruby (charSpan 2): ほんたい}本体のフレンドを	インターネット{ruby (charSpan 2): けいゆ}経由で　お{ruby (charSpan 1): まね}招きできます。{Wait for input}{ruby (charSpan 2): いちど}一度に{ruby (charSpan 1): むら}村に　お{ruby (charSpan 1): まね}招きできるのは	3{ruby (charSpan 1): めい}名までと　なっております。
+"186"	{ruby (charSpan 2): かいさつ}改札を{ruby (charSpan 1): ひら}開いている{ruby (charSpan 1): あいだ}間は　3{ruby (charSpan 3): めいいない}名以内であれば	よその{ruby (charSpan 1): むら}村のお{ruby (charSpan 2): きゃくさま}客様は	{ruby (charSpan 2): じゆう}自由に　{ruby (charSpan 2): ほうもん}訪問することができます。{Wait for input}{ruby (charSpan 1): とく}特に　ローカル{ruby (charSpan 2): つうしん}通信の{ruby (charSpan 2): ばあい}場合、	{ruby (charSpan 1): ちか}近くにいる　{ruby (charSpan 2): みし}見知らぬ{ruby (charSpan 1): かた}方が	{ruby (charSpan 2): ほうもん}訪問される{ruby (charSpan 3): かのうせい}可能性も　ございます。{Wait for input}お{ruby (charSpan 1): まね}招きしたいお{ruby (charSpan 2): きゃくさま}客様が　{ruby (charSpan 2): とうちゃく}到着された{ruby (charSpan 1): あと}後は、	{ruby (charSpan 2): かいさつ}改札を{ruby (charSpan 3): いちじてき}一時的に{ruby (charSpan 1): と}閉じていただくことで	より{ruby (charSpan 2): あんぜん}安全に　お{ruby (charSpan 1): す}過ごしいただけます。{Wait for input}また、お{ruby (charSpan 2): きゃくさま}客様が　お{ruby (charSpan 1): み}見えの{ruby (charSpan 2): さいちゅう}最中は	{Blue}START{Color Reset}を{ruby (charSpan 1): お}押すと	{Blue}おひらきにする{Color Reset}ことができます。{Wait for input}おひらきにすると、{ruby (charSpan 3): ほうもんちゅう}訪問中のお{ruby (charSpan 2): きゃくさま}客様に	いっせいに　お{ruby (charSpan 1): かえ}帰りいただけ、	{ruby (charSpan 2): かいさつ}改札を{ruby (charSpan 1): と}閉じて　{ruby (charSpan 2): つうしん}通信を{ruby (charSpan 2): しゅうりょう}終了できます。
+"187"	{ruby (charSpan 2): とうえき}当駅のロッカーは　どなたも{ruby (charSpan 2): むりょう}無料で	ご{ruby (charSpan 2): じゆう}自由に　ご{ruby (charSpan 2): りよう}利用いただけます。{Wait for input}ロッカーに{ruby (charSpan 1): あず}預けた{ruby (charSpan 2): にもつ}荷物は	{ruby (charSpan 1): すべ}全ての{ruby (charSpan 1): えき}駅、および　ご{ruby (charSpan 2): じたく}自宅のタンス{ruby (charSpan 1): とう}等で	{ruby (charSpan 2): じゆう}自由に　{ruby (charSpan 1): だ}出し{ruby (charSpan 1): い}入れが{ruby (charSpan 2): かのう}可能です。{Wait for input}おでかけの{ruby (charSpan 1): さい}際の　{ruby (charSpan 2): にもつ}荷物の{ruby (charSpan 1): も}持ち{ruby (charSpan 1): はこ}運びに	{ruby (charSpan 2): たいへん}大変　{ruby (charSpan 2): べんり}便利ですので、	ぜひとも　ご{ruby (charSpan 2): りよう}利用くださいませ。
+"188"	ご{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): むら}村へ　お{ruby (charSpan 1): かえ}帰りになられる{ruby (charSpan 1): さい}際は	{ruby (charSpan 2): えきいん}駅員に　お{ruby (charSpan 1): こえ}声がけください。{Wait for input}なお、{ruby (charSpan 3): ほうもんちゅう}訪問中の　お{ruby (charSpan 2): きゃくさま}客様が	いっせいに　お{ruby (charSpan 1): かえ}帰りになられる{ruby (charSpan 2): ばあい}場合は、	{Blue}おひらきにする{Color Reset}のが　{ruby (charSpan 2): べんり}便利でございます。{Wait for input}おひらきは、お{ruby (charSpan 2): きゃくさま}客様をお{ruby (charSpan 1): まね}招きしている	この{ruby (charSpan 1): むら}村の{ruby (charSpan 1): もの}者のみが	{Blue}START{Color Reset}を{ruby (charSpan 1): お}押すことにより　{ruby (charSpan 1): おこな}行えます。{Wait for input}おひらきにしたい{ruby (charSpan 2): ばあい}場合は、	この{ruby (charSpan 1): むら}村の{ruby (charSpan 1): もの}者に　「おひらきにしてほしい」と	お{ruby (charSpan 1): もう}申し{ruby (charSpan 1): つ}付けくださいませ。
+"189"	{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 1): あそ}遊んでいるお{ruby (charSpan 2): きゃくさま}客様を	ベストフレンドに{ruby (charSpan 2): とうろく}登録すると、	{ruby (charSpan 2): あいて}相手のソパカを　いつでも{ruby (charSpan 1): み}見られます。{Wait for input}また、{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): むら}村の{ruby (charSpan 2): かいさつ}改札を{ruby (charSpan 1): ひら}開く{ruby (charSpan 1): さい}際、	インターネットの{ruby (charSpan 2): ばあい}場合のみ	ベストフレンド{ruby (charSpan 2): げんてい}限定で{ruby (charSpan 1): ひら}開くことも{ruby (charSpan 2): かのう}可能です。{Wait for input}ベストフレンド{ruby (charSpan 2): げんてい}限定にすると、	{ruby (charSpan 2): じぶん}自分のベストフレンドにのみ	{ruby (charSpan 2): かいさつ}改札が{ruby (charSpan 1): ひら}開いていることを　{ruby (charSpan 1): し}知らせます。{Wait for input}さらに、お{ruby (charSpan 1): たが}互いがベストフレンドになると	おでかけしていない{ruby (charSpan 1): あいだ}間も　インターネットで	メッセージを{ruby (charSpan 2): こうかん}交換できます。
+"190"	ベストフレンドに{ruby (charSpan 2): とうろく}登録するには、	{ruby (charSpan 2): つうしん}通信で{ruby (charSpan 1): あそ}遊んでいる{ruby (charSpan 1): とき}時に　{ruby (charSpan 1): した}下{ruby (charSpan 2): がめん}画面に{ruby (charSpan 2): ひょうじ}表示される	{Green}👥{Color Reset}{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 1): あそ}遊んでいる{ruby (charSpan 1): ひと}人のリストを{ruby (charSpan 1): ひら}開き、{Wait for input}ベストフレンドになりたい{ruby (charSpan 2): あいて}相手を	{ruby (charSpan 1): えら}選ぶことで　{ruby (charSpan 2): とうろく}登録できます。{Wait for input}ただし、ベストフレンドになれるのは	{ruby (charSpan 2): ほんたい}本体のフレンド{ruby (charSpan 2): どうし}同士のみです。{Wait for input}{ruby (charSpan 2): ほんたい}本体のフレンドでない{ruby (charSpan 2): ばあい}場合は、	まず　フレンド{ruby (charSpan 2): とうろく}登録をしてください。
+"191"		・{pause 5}・{pause 5}・{pause 5}{ruby (charSpan 1): ほか}他の{ruby (charSpan 2): あんない}案内も{ruby (charSpan 1): よ}読む？{000f-0009-000c-0000-0000-0000-0000-0000-0000}	おでかけするには	お{ruby (charSpan 1): まね}招きするには	お{ruby (charSpan 1): まね}招きしている{ruby (charSpan 1): さい}際のご{ruby (charSpan 2): ちゅうい}注意	ロッカーのご{ruby (charSpan 2): あんない}案内	ベストフレンドについて	{ruby (charSpan 1): よ}読むのをやめる
+"192"		・{pause 5}・{pause 5}・{pause 5}{ruby (charSpan 1): ほか}他の{ruby (charSpan 2): あんない}案内も{ruby (charSpan 1): よ}読む？{000f-0007-0008-0000-0000-0000-0000}	ロッカーのご{ruby (charSpan 2): あんない}案内	お{ruby (charSpan 1): かえ}帰りになるには	ベストフレンドについて	{ruby (charSpan 1): よ}読むのをやめる
+"193"	{Town name (pink)}{ruby (charSpan 1): えき}駅	ご{ruby (charSpan 2): りよう}利用　{ruby (charSpan 2): あんない}案内	～{ruby (charSpan 1): ゆめ}夢をご{ruby (charSpan 1): らん}覧の　{ruby (charSpan 2): みなさま}皆様へ～{Wait for input}{ruby (charSpan 2): げんじつ}現実の{ruby (charSpan 2): せかい}世界へ　お{ruby (charSpan 1): かえ}帰りになる{ruby (charSpan 1): さい}際は	{ruby (charSpan 2): とうえき}当駅ではなく、{ruby (charSpan 2): ひろば}広場のベッドを	ご{ruby (charSpan 2): りよう}利用くださいませ
+"195"	・・・あれ？	{ruby (charSpan 2): なかみ}中身は　{ruby (charSpan 1): から}空っぽだ{Wait for input}	{ruby (charSpan 1): ねが}願いごとは　1{ruby (charSpan 1): にち}日1{ruby (charSpan 1): かい}回までらしい
+"196"	・・・あれ？	{ruby (charSpan 2): なかみ}中身は　{ruby (charSpan 1): から}空っぽだ{Wait for input}	{ruby (charSpan 1): だれ}誰かが　{ruby (charSpan 1): つか}使った{ruby (charSpan 1): あと}後らしい
 "197"	ただ{ruby (charSpan 1): いま}今　{ruby (charSpan 1): と}取り{ruby (charSpan 1): こ}込み{ruby (charSpan 1): ちゅう}中につき	しばらくの{ruby (charSpan 1): あいだ}間　{ruby (charSpan 2): るす}留守にいたします	　　　　　　　　　　ゆうたろう
 "198"		ただ{ruby (charSpan 1): いま}今　{ruby (charSpan 3): じゅんびちゅう}準備中です	　　　　　　　　　　ランプの{ruby (charSpan 1): せい}精
-"199"	
-"201"	
-"202"	
-"203"	
-"204"	
-"205"	
-"206"	
-"207"	
-"208"	
-"209"	
-"210"	
+"199"
+"201"
+"202"
+"203"
+"204"
+"205"
+"206"
+"207"
+"208"
+"209"
+"210"
 "212"	オアズカリ　セイゲンヲ	コエテシマウタメ	チケットノ　カンキンハ　デキマセン
-"213"	イラッシャイマセ{pause 20}
-"214"	イラッシャイマセ{pause 20}
-"215"	チケットノ　カンキンハ{pause 10}
-"217"	この{ruby (charSpan 1): さき}先	{Town name (pink)}
+"213"	イラッシャイマセ{pause 20}	ゴリヨウニナリタイ　メニューヲ	オエラビクダサイ{confirmation-00}{000f-0008-000a-0000-0000-0000-0000-0000}	ローン{ruby (charSpan 2): へんさい}返済	{ruby (charSpan 1): あず}預け{ruby (charSpan 1): い}入れ	{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): だ}出し	チケット{ruby (charSpan 2): かんきん}換金	やめる
+"214"	イラッシャイマセ{pause 20}	ゴリヨウニナリタイ　メニューヲ	オエラビクダサイ{confirmation-00}{000f-0007-0008-0000-0000-0000-0000}	{ruby (charSpan 1): あず}預け{ruby (charSpan 1): い}入れ	{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): だ}出し	チケット{ruby (charSpan 2): かんきん}換金	やめる
+"215"	チケットノ　カンキンハ{pause 10}	1マイアタリ　{Blue}3000ベル{Color Reset}デ	ウケタマワッテ　オリマス
+"217"	この{ruby (charSpan 1): さき}先	{Town name (pink)}{ruby (charSpan 1): むら}村　オートキャンプ{ruby (charSpan 1): じょう}場

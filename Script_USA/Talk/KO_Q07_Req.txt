@@ -1,75 +1,75 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Disagreement}
-"005"	{emote: Disagreement}
-"006"	{emote: Disagreement}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Alarmed}
-"010"	{emote: Alarmed}
-"011"	{emote: Surprise}
-"012"	{emote: Surprise}
-"013"	{emote: Surprise}
-"014"	{emote: Alarmed}
-"015"	{emote: Alarmed}
-"016"	{emote: Distress}
-"017"	{emote: Surprise}
-"018"	{emote: Surprise}
-"019"	{emote: Happiness}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Soft Smile}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
+"001"	{emote: Curious}Huh?{pause 15} Didn't you pick something up?{Wait for input}{emote: Anger}If you don't show me what it is,{pause 8}	I can't tell if it's mine or not!
+"002"	{emote: Alarmed}Huh?{pause 15} {emote: Reset}Didn't you find something?{pause 20}	{emote: Anger}I can't tell if it's mine if you don't	show it to me!
+"003"	{emote: Alarmed}Huh?!{pause 15} {emote: Reset}You don't wanna show it to	me?{pause 20} {emote: Anger}Well then be that way!{pause 8} I can't	help you out!{pause 20} {capitalized}{catchphrase}!
+"004"	{emote: Disagreement}Nope, {pause 8}that's not mine.
+"005"	{emote: Disagreement}Nah, I didn't lose anything like this.{pause 8}
+"006"	{emote: Disagreement}This isn't mine{pause 8}.{pause 8}.{pause 8}.{pause 15} I think you should	ask somebody else!
+"007"	{emote: Alarmed}Ah!{pause 8} This is my book all right!{pause 8}	{0005-001d-0002-0000}!{Wait for input}{emote: Agreement}Man, no wonder I couldn't find it.{pause 8}	I must have dropped it somewhere!{Wait for input}{emote: Happiness}This is a keepsake I got from my	grandmother!{pause 20} Thank you so much!{pause 8}
+"008"	{emote: Alarmed}Oh, snap!{pause 15} {emote: Joy}This is definitely my book!{pause 20}	I was looking everywhere for it!	{emote: Happiness}I had no idea I'd just dropped it!{pause 20}	Man,{pause 8} {emote: Agreement}you saved my life!
+"009"	{emote: Alarmed}Ahh!{pause 15} I was looking all over for this!{pause 20}	{emote: Happiness}This is totally my book! Man, {pause 8}I'm	glad to have it back!{pause 8} {emote: Sunny}Thanks!
+"010"	{emote: Alarmed}Ah!{pause 15} This is{pause 8} my bag!{Wait for input}{emote: Agreement}No wonder I couldn't find it.{pause 8}	I must've dropped it somewhere!{Wait for input}{emote: Happiness}My baby shoes are in here!{pause 20} I'd be	really bummed if these were lost	for good! {capitalized}{catchphrase}!
+"011"	{emote: Surprise}Oh, wait!{pause 15} I guess I DID drop it!{Wait for input}{emote: Happiness}This bag is definitely mine!{pause 20} I'm so	glad you found it for me! Thanks!
+"012"	{emote: Surprise}Ah!{pause 15} You found it for me?!{Wait for input}{emote: Mischief}You didn't look inside, did you?!{pause 15}	.{pause 8}.{pause 8}.{pause 8}{emote: Happiness}OK, {pause 8}that's good!{Wait for input}{emote: Agreement}There's just some stuff in this	world that's better left as a	mystery, you know?{pause 8}	{emote: Happiness}Anyway,{pause 8} you really bailed me out by	finding this!{pause 20} Man,{pause 8} {emote: Agreement}I owe you!
+"013"	{emote: Surprise}Oh, man!{pause 8} This is totally my glove!{pause 15}	{emote: Happiness}I lost one a while ago and couldn't	find it!{pause 20} Good thing you found it!{pause 8}
+"014"	{emote: Alarmed}Oh, whoa!{pause 15} This is totally my glove!{Wait for input}{emote: Reset}By any chance,{pause 8} {emote: Curious}was it flat on the	road when you found it?{pause 20}{Wait for input}{emote: Curious}It wasn't?{pause 16} {emote: Happiness}Well, anyway, {pause 15}I've been	looking for it, so I'm glad you came	across it when you did!{pause 8} {emote: Sunny}Thanks!
+"015"	{emote: Alarmed}Whoa!{pause 15} You found it for me?{Wait for input}{emote: Distress}My mom stayed up all night knitting	these gloves for me!{pause 8}{Wait for input}{emote: Happiness}I'm so happy you found the glove I	misplaced! That's such a relief!
+"016"	{emote: Distress}Phew!{pause 8} I'm so relieved!{Wait for input}{emote: Agreement}That bag is definitely mine!{pause 20} {emote: Worry}I was	utterly devastated when I thought	I lost it.	{emote: Happiness}Thank you SO much!{pause 16} {emote: Sunny}I owe ya!
+"017"	{emote: Surprise}Ah!{pause 15} {emote: Agreement}This is most definitely my bag!{pause 20}	I've been looking everywhere for it!	{emote: Thought}I must have left it somewhere.{pause 20}	{emote: Reset}Man,{pause 8} {emote: Sunny}I'm SO glad you found it!
+"018"	{emote: Surprise}Ahh! My bag!{pause 15} {emote: Reset}I was looking for this!{pause 20}	{emote: Curious}Where'd you find it?{Wait for input}{emote: Happiness}See? {pause 8}Take a look at the bottom!{pause 15}	It says {Villager's name (orange)}, yeah?{pause 8} {emote: Sunny}That's my	name! It's totally mine!{pause 8} Thanks!
+"019"	{emote: Happiness}Thanks for taking the time to bring	it back to me!{Wait for input}I gotta thank you,{pause 8} so here. Take my	{0011-0003-0002-0000} with you as	a thank-you!{pause 20} {capitalized}{catchphrase}!
+"020"	{emote: Happiness}As a token of my thanks,{pause 8} here.	Take my {0011-0003-0002-0000}	with you!{pause 20} {capitalized}{catchphrase}!
+"021"	{emote: Happiness}Aw man, thanks for bringing this	back to me!{Wait for input}It might not be much,{pause 8} but here.	Take my {0011-0003-0002-0000}	with you!{pause 20} {capitalized}{catchphrase}!
+"022"	{emote: Soft Smile}I'll be careful not to drop it again!
+"023"	{emote: Soft Smile}I gotta be more careful not to	somehow drop it again!
+"024"	{emote: Soft Smile}I'm glad you were the one to find it,	{Player nickname (green)}!
 == 1 ==
-"001"	{emote: Curious}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Reset}
-"005"	{emote: Reset}
-"006"	{emote: Reset}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Alarmed}
-"010"	{emote: Alarmed}
-"011"	{emote: Surprise}
-"012"	{emote: Surprise}
-"013"	{emote: Surprise}
-"014"	{emote: Alarmed}
-"015"	{emote: Alarmed}
-"016"	{emote: Distress}
-"017"	{emote: Surprise}
-"018"	{emote: Distress}
-"019"	{emote: Happiness}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Soft Smile}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
+"001"	{emote: Curious}¿Eh?{pause 15} ¿No me ibas a enseñar algo?	{emote: Reset}Si no lo veo,{pause 8} no te puedo decir	si es mío o no.
+"002"	{emote: Alarmed}¿Entonces has encontrado algo	o no?{pause 20} {emote: Anger}No puedo saber si es mío	si no me lo enseñas.
+"003"	{emote: Alarmed}¿Cómo?{pause 15} {emote: Reset}¿Ahora no me lo quieres	enseñar?{pause 20} {emote: Anger}¿Entonces cómo voy	a saber si es mío?{pause 20} ¡{capitalized}{catchphrase}!
+"004"	{emote: Reset}No, {pause 8}eso no es mío.
+"005"	{emote: Reset}Qué va, yo no he perdido eso.{pause 8}
+"006"	{emote: Reset}Esto no es mío{pause 8}.{pause 8}.{pause 8}.{pause 15}	Pregúntale a otro.
+"007"	{emote: Alarmed}¡Anda, menuda sorpresa!{pause 8} Si es mi	"{0005-001d-0002-0000}".{Wait for input}{emote: Agreement}Con razón no lo encontraba.{pause 8}	Se me debe de haber caído	en alguna parte.{Wait for input}{emote: Happiness}Es un recuerdo de mi abuela.{pause 20}	¡Muchas gracias!
+"008"	{emote: Alarmed}¡Este libro es mío!{pause 15} {emote: Joy}Qué alivio,{pause 8}	no lo encontraba por ninguna parte.{Wait for input}{emote: Happiness}Me has salvado la vida{pause 8}.{pause 8}.{pause 8}.{pause 8}	¡y el viaje a la librería!
+"009"	{emote: Alarmed}¡Qué bien!{pause 15} Ya no sabía dónde	más buscar este libro.{pause 20}	Lo daba por perdido.{pause 8} ¡Gracias!
+"010"	{emote: Alarmed}¡Esta bolsa es mía!{pause 20}	{emote: Agreement}Con razón no la encontraba,{pause 8}	me la debí de dejar por ahí.{Wait for input}{emote: Happiness}Ahí guardo el chupete de mi	infancia.{pause 20} Me trae muchos recuerdos,{pause 8}	¡no querría perderlo,{pause 8} {catchphrase}!
+"011"	{emote: Surprise}¡Anda, pues entonces es verdad	que la había perdido!{Wait for input}{emote: Happiness}Esta bolsa es mía.{pause 20}	¡Qué bien que la hayas encontrado!
+"012"	{emote: Surprise}¿Me has encontrado lo que había	perdido?{Wait for input}{emote: Mischief}Espero que no hayas fisgoneado{pause 4}.{pause 8}.{pause 8}.{pause 15}	{emote: Happiness}Hay cosas en esta vida que es mejor	que permanezcan en la sombra y tal.	{emote: Happiness}Pues me has salvado el pellejo.{pause 20}	¡Te debo una!
+"013"	{emote: Surprise}¡Anda,{pause 8} mi manopla!{pause 15}	{emote: Happiness}Se me había quedado la otra viuda.{pause 20}	¡Menos mal que la has encontrado!{pause 8}
+"014"	{emote: Alarmed}¡Caramba!{pause 15} ¡Si es mi otra manopla!{Wait for input}{emote: Reset}Con una sola,{pause 8} por más que la	turnara,{pause 8} siempre se me quedaba	una mano helada.{Wait for input}{emote: Reset}¡Y la de tiempo que he perdido	buscándola!{pause 15} {emote: Happiness}Muchas gracias	por dar con ella.
+"015"	{emote: Alarmed}¡Anda!{pause 15} ¿La has encontrado?{Wait for input}{emote: Distress}¡Mi madre me tricotó estas	manoplas ella misma!{Wait for input}{emote: Happiness}Gracias por encontrar la que se me	había perdido,{pause 8} ¡qué alivio!
+"016"	{emote: Distress}¡Ay, qué bien, qué alivio!{pause 20}	{emote: Reset}¡Es la bolsa que había perdido!{Wait for input}{emote: Worry}Ya no sabía lo que hacer.{pause 20}	{emote: Happiness}¡Gracias, gracias, gracias!
+"017"	{emote: Surprise}¡Mi bolsa!{pause 20} La he estado buscando	como un loco.{Wait for input}{emote: Happiness}Me la debo de haber dejado por ahí.{pause 20}	¡Qué alegrón que la encontraras!
+"018"	{emote: Distress}Pero,{pause 5} pero,{pause 5} pero{pause 4}.{pause 4}.{pause 4}.{pause 5} {emote: Surprise}¡Si es mi bolsa!{pause 15}	{emote: Reset}¡La estaba buscando!{pause 20}	¿Dónde estaba?{Wait for input}{emote: Happiness}Mira,{pause 8} ¿ves? {pause 20}¿Qué pone en el fondo?{pause 15}	Pone "{Villager's name (orange)}",{pause 8} ¿verdad?{pause 15}	¡Ese soy yo!{pause 15} ¡Gracias!
+"019"	{emote: Happiness}Qué amable eres, que has venido	a buscarme y todo.{Wait for input}Me gustaría darte algo,{pause 8} a ver{pause 8}.{pause 8}.{pause 8}.{pause 15}	Toma, {Article(word-dependant)}{0011-0003-0002-0000}	de agradecimiento.{pause 12} ¡{capitalized}{catchphrase}!
+"020"	{emote: Happiness}Como muestra de mi	agradecimiento, toma:{pause 15}	{Article(word-dependant)}{0011-0003-0002-0000}.
+"021"	{emote: Happiness}Y encima{pause 8} con reparto en mano.{pause 20}	¿Qué más se puede pedir?{Wait for input}Esto quizá no esté a la altura,{pause 8} pero	toma:{pause 8} {Article(word-dependant)}{0011-0003-0002-0000},{pause 8}	por las molestias.
+"022"	{emote: Soft Smile}¡Intentaré tener más cuidado	de aquí en adelante!
+"023"	{emote: Soft Smile}Espero no seguir perdiendo cosas	con tanta facilidad.
+"024"	{emote: Soft Smile}Otra gente igual no se hubiera	molestado en buscar al propietario.	¡Eres u{n tío/na tía} legal, {Player nickname (green)}!
 == 2 ==
-"001"	{emote: Curious}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Reset}
-"005"	{emote: Reset}
-"006"	{emote: Reset}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Alarmed}
-"010"	{emote: Alarmed}
-"011"	{emote: Surprise}
-"012"	{emote: Surprise}
-"013"	{emote: Surprise}
-"014"	{emote: Alarmed}
-"015"	{emote: Alarmed}
-"016"	{emote: Distress}
-"017"	{emote: Surprise}
-"018"	{emote: Surprise}
-"019"	{emote: Happiness}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Soft Smile}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
+"001"	{emote: Curious}Hmm?{pause 15} Tu as ramassé quelque	chose?{Wait for input}{emote: Reset}Je peux pas te dire si c'est à moi si	tu me montres pas!
+"002"	{emote: Alarmed}Hmm?{pause 15} {emote: Reset}T'as trouvé quelque chose?{pause 20}	{emote: Anger}Je peux pas te dire si c'est à moi si	tu me montres pas!
+"003"	{emote: Alarmed}Comment?{pause 15} {emote: Reset}Tu veux pas me	montrer?{pause 20} {emote: Anger}OK, je m'en moque,	d'abord!{pause 20} {capitalized}{catchphrase}!
+"004"	{emote: Reset}Non, {pause 8}c'est pas à moi, ça.
+"005"	{emote: Reset}C'est sûrement pas moi qui ai perdu	ce truc-là!
+"006"	{emote: Reset}C'est pas à moi, ça{pause 8}.{pause 8}.{pause 8}.{pause 15} Demande à	quelqu'un d'autre!
+"007"	{emote: Alarmed}Ah!{pause 8}Ce livre!{pause 8} C'est	{0005-001d-0002-0000},	si je ne m'abuse!	{emote: Agreement}Impossible de le trouver chez moi,{pause 8}	je pensais l'avoir perdu!{Wait for input}{emote: Happiness}C'est {pause 8}un souvenir de ma	grand-mère.{pause 20} Merci beaucoup!
+"008"	{emote: Alarmed}Ah!{pause 15} {emote: Joy}Ce livre est à moi!{pause 20} Je le	cherche depuis un moment.{Wait for input}{emote: Happiness}{pause 20}Et dire que je l'avais juste oublié	quelque part,{pause 8} je n'en reviens pas!
+"009"	{emote: Alarmed}Ah!{pause 15} Je le cherchais partout!{pause 20}{emote: Happiness} C'est	bien mon livre, {pause 8}sans aucun doute!	Merci bien!
+"010"	{emote: Alarmed}Ah!{pause 15} Mais c'est ma bourse!{Wait for input}{emote: Agreement}Pas étonnant que je n'arrivais pas à	la trouver,{pause 8} je l'avais oubliée quelque	part!{emote: Happiness}	Il y a un souvenir précieux à	l'intérieur!{pause 20} {capitalized}{catchphrase}!
+"011"	{emote: Surprise}Ah!{pause 15} Je l'avais donc bien perdue!{Wait for input}{emote: Happiness}Cette bourse est à moi,{pause 8} tout à moi!{pause 20}	Merci, vraiment, {pause 8}merci!
+"012"	{emote: Surprise}Ah!{pause 15} C'est toi qui l'avais?!{Wait for input}{emote: Mischief}Rassure-moi,{pause 15} tu n'as pas regardé	à l'intérieur? .{pause 8}.{pause 8}.{pause 8}{emote: Happiness} Non?{pause 8} Ah, tant	mieux!	{emote: Agreement}Dans ce monde,{pause 8} il y a certaines	choses qu'il vaut mieux ne pas	savoir{pause 8}, je t'assure!	{emote: Happiness}En tout cas, cette bourse est bien à	moi!{pause 8} Tu me sauves vraiment la	mise.{pause 20} Merci mille fois!
+"013"	{emote: Surprise}Ah!{pause 8} Bien sûr que c'est ma moufle!{pause 15}	{emote: Happiness}Il ne me restait que l'autre, qui se	sentait un peu seule!{pause 20}	Merci,{pause 8} du fond du cœur!
+"014"	{emote: Alarmed}Hé!{pause 15} C'est ma moufle, ça!{Wait for input}{emote: Reset}Dis-moi, est-ce que{pause 8} {emote: Curious}tu l'as trouvée	sur la route?{pause 20} {emote: Reset}Non? Ah, très bien.{Wait for input}{emote: Happiness}Je suis bien content que tu l'aies	trouvée quand même!{pause 15} Merci à toi!
+"015"	{emote: Alarmed}Oh!{pause 15} Tu l'as trouvée!{Wait for input}{emote: Distress}Je me souviens, ma mère est restée	debout{pause 8} des nuits entières pour me	tricoter cette moufle!	Je suis si heureux que tu l'aies	retrouvée!{pause 8} {emote: Happiness}Quel soulagement!
+"016"	{emote: Distress}Ouf!{pause 8} Quel soulagement!{Wait for input}{emote: Reset}Pour sûr, c'est mon sac!{pause 20}{emote: Worry} Après	l'avoir perdu,{pause 8} j'étais vraiment	dévasté.	{emote: Happiness}Merci {pause 8}MILLE fois!
+"017"	{emote: Surprise}Ah!{pause 15}{emote: Reset} Sans aucun doute possible,{pause 8}	c'est mon sac!{pause 20} Je le cherche	depuis un bon moment.	{emote: Happiness}J'avais dû l'égarer quelque part.{pause 20} Oh,	ce que je me sens mieux!
+"018"	{emote: Surprise}Ah,{pause 15}{emote: Reset} tout juste ce que je cherchais!	Mon sac en papier!{Wait for input}{emote: Happiness}Tu vois?{pause 8} Au fond, il y a écrit{pause 15}	« {Villager's name (orange)} ». C'est mon nom!{pause 20}	Bref, merci beaucoup!
+"019"	{emote: Happiness}Merci de m'avoir rapporté mon	bien! J'ai que ça sur moi,{pause 8} mais	prends, pour te remercier.	C'est {Article(word-dependant)}{0011-0003-0002-0000},{pause 20}	{catchphrase}!
+"020"	{emote: Happiness}Tiens, prends donc{pause 8}	{Article(word-dependant)}{0011-0003-0002-0000}{pause 8}.	Merci!{pause 20} {capitalized}{catchphrase}!
+"021"	{emote: Happiness}Merci de m'avoir rapporté ça!{Wait for input}Tiens, en remerciement, prends{pause 8}	{Article(word-dependant)}{0011-0003-0002-0000}.{pause 20}	{capitalized}{catchphrase}!
+"022"	{emote: Soft Smile}Je vais essayer de ne pas perdre ça	à nouveau!
+"023"	{emote: Soft Smile}Je ferai plus attention de ne pas	perdre ça la prochaine fois!
+"024"	{emote: Soft Smile}Je suis content que ce soit toi qui	aies retrouvé ça!

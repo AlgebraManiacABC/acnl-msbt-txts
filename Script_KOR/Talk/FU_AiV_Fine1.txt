@@ -1,15 +1,15 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Happiness}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Alarmed}
-"011"	{emote: Happiness}
-"012"	{emote: Alarmed}
-"013"	
-"014"	{000a-0008-0010-07-00-07-00-09-00-09-00-09-00-09-00-09-00-09-00}
+"001"	{emote: Happiness}{Greeting begin}어머, {pause 10}좋은 아침이에요{Greeting end}!{pause 15}	놀러 오셨군요, {pause 15}{catchphrase}
+"002"	{emote: Surprise}어머나! {pause 20}{Player name}님{pause 15}	{emote: Happiness}안녕하세요!{Wait for input}이른 아침부터{pause 10} 놀러 오셨군요,	{pause 15}{catchphrase}!
+"003"	{emote: Happiness}어머, {pause 10}{Player name}님!{Wait for input}	아침부터 이렇게 만나다니{pause 8}	운이 좋네요, {pause 15}{catchphrase}
+"004"	{emote: Surprise}어머나! {pause 20}{emote: Happiness}{Greeting begin}안녕하세요!{Greeting end}{pause 15}	{emote: Soft Smile}산책 중이신가요, {pause 15}{catchphrase}?{Wait for input}	{emote: Joy}멋진 하루가 되시길 바랄게요!{pause 30}{emote: Soft Smile}
+"005"	{emote: Surprise}어머, {pause 10}{Player name}님{Wait for input}	{emote: Happiness}어서 오세요!{pause 8} {Town name (pink)} 마을에	오신 걸 환영합니다, {pause 15}{catchphrase}!
+"006"	{emote: Happiness}{Greeting begin}안녕하세요, {pause 10}{Player name}님{Greeting end}{pause 15}	우리 마을에 놀러 오셨군요!{Wait for input}{emote: Joy}{Town name (pink)} 마을에서 {pause 3}좋은 시간	되시길 바랄게요, {pause 15}{catchphrase}{pause 30}{emote: Soft Smile}
+"007"	{emote: Happiness}{Greeting begin}안녕하세요,{pause 10} {Player nickname (green)}님!{Greeting end}{Wait for input}{emote: Glee}{Town name (pink)} 마을의 밤하늘을{pause 8}	보러 오셨군요, {pause 15}{catchphrase}!
+"008"	{emote: Happiness}어머, {pause 10}{Player name}님{pause 15}	{emote: Curious}이 시간에 산책이신가요?{Wait for input}	{emote: Happiness}즐거워 보이시네요, {pause 15}{catchphrase}!
+"009"	{emote: Happiness}{Greeting begin}안녕하세요?{Greeting end}{pause 15}	우리 마을에 놀러 오셨군요!{Wait for input}{emote: Soft Smile}주변이 꽤 어두워졌지만{pause 10}	그래도 편하게 놀다 가세요,{pause 15}	{catchphrase}!
+"010"	{emote: Alarmed}어머나, {pause 15}{Player name}님!{pause 20}	이렇게 밤늦은 시간에{pause 5} 만나게 되다니!{Wait for input}{emote: Happiness}깊은 밤에 보는 {Town name (pink)} 마을은{pause 10}	낮에 볼 때와는 어딘가 다른 매력이{pause 8}	느껴진답니다, {pause 15}{catchphrase}
+"011"	{emote: Happiness}{Greeting begin}어머!{Greeting end}{pause 15}	{Town name (pink)} 마을에	오신 걸 환영해요!	{emote: Happiness}지금은 {Hour}시지만{pause 8}	즐거운 산책이 되시길	바랄게요, {pause 15}{catchphrase}!
+"012"	{emote: Alarmed}{Player name}님?!{Wait for input}	{emote: Soft Smile}늦은 시간이라{pause 10}	대체 누굴까 했어요, {pause 15}{catchphrase}
+"013"
+"014"	{000a-0008-0010-0007-0007-0009-0009-0009-0009-0009-0009}

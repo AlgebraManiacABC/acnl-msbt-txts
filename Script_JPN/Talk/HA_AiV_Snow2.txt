@@ -1,7 +1,7 @@
 == 0 ==
-"001"	よぉ！{pause 8}
-"002"	{emote: Greetings}
-"003"	{emote: Happiness}
-"004"	{emote: Greetings}
-"005"	{emote: Star Yell}
-"006"	{emote: Happiness}
+"001"	よぉ！{pause 8}　{Player name}！{emote: Cold Chill}{pause 20}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): ひ}冷えるな、{pause 8}{catchphrase}！
+"002"	{emote: Greetings}{Greeting begin}オーッス！{pause 8}　{Player name}！{Greeting end}{pause 20}	{ruby (charSpan 1): よる}夜は　さすがに{ruby (charSpan 1): さむ}寒いな、{pause 8}{catchphrase}！
+"003"	{emote: Happiness}よぉ！{pause 8}　{Player name}！{pause 20}	{ruby (charSpan 2): きょう}今日はそろそろ、{pause 20}	{ruby (charSpan 1): あつ}熱いおフロに{ruby (charSpan 1): はい}入って　ねるかな、{pause 8}{catchphrase}！
+"004"	{emote: Greetings}おー！{pause 8}　{Player name}！{pause 20}	{ruby (charSpan 1): さむ}寒いときは　{ruby (charSpan 1): からだ}体を{ruby (charSpan 1): うご}動かすと	{ruby (charSpan 1): あった}温まるぞ、{pause 8}{catchphrase}！
+"005"	{emote: Star Yell}{pause 15}オー{0007-000b-0000}ーーッス！{pause 20}{emote: Happiness}{pause 40}	へへっ！{pause 20}	{ruby (charSpan 1): さむ}寒い{ruby (charSpan 1): ひ}日は　{ruby (charSpan 1): こえ}声{ruby (charSpan 1): だ}出していこう、{pause 8}{catchphrase}！
+"006"	{emote: Happiness}また{ruby (charSpan 1): あ}会ったな　{Player name}！{pause 40}	{ruby (charSpan 1): ゆき}雪の　{Town name (pink)}{ruby (charSpan 1): むら}村	{ruby (charSpan 1): たの}楽しんでるか？　{pause 8}{catchphrase}？

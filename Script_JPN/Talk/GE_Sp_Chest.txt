@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Alarmed}
-"003"	{emote: Curious}
-"004"	{emote: Disbelief}
-"005"	{emote: Happiness}
-"006"	{emote: Worry}
-"007"	{emote: Worry}
-"008"	{emote: Distress}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
+"001"	{emote: Surprise}あ！　{pause 20}{0011-0003-0002-0000}！{pause 20}	{emote: Sheepishness}それ、{pause 10}{ruby (charSpan 1): お}置き{ruby (charSpan 2): ばしょ}場所なくて　こまってるの{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Soft Smile}よかったら　{pause 10}もらってくれない？{emote: Reset}{000f-0005-0004-0015-0028}	もらっとく！	いらな～い
+"002"	{emote: Alarmed}わぁ！　{pause 20}{0011-0003-0002-0000}！{pause 20}	{emote: Worry}そこに　{pause 10}{ruby (charSpan 1): い}入れてたのか～{Wait for input}{emote: Happiness}もう　{pause 5}ずっと{ruby (charSpan 1): つか}使ってないし{pause 10}	ほしかったら　{pause 8}{ruby (charSpan 1): も}持ってっていいよ？{emote: Reset}{000f-0005-0004-0015-0028}	もらう	いらな～い
+"003"	{emote: Curious}ん{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 20}{0011-0003-0002-0000}？！{pause 20}	{emote: Distress}ヤダー、{pause 10}そんなもの　{ruby (charSpan 1): はい}入ってた？{pause 20}	{ruby (charSpan 2): かって}勝手に{ruby (charSpan 1): み}見ちゃ　ダメじゃ～ん	{emote: Happiness}それ、{ruby (charSpan 1): あま}余ってるから、{pause 10}	ほしければ　{ruby (charSpan 1): も}持ってっていいよ{emote: Reset}{000f-0005-0004-0015-0028}	もらうね！	いらない
+"004"	{emote: Disbelief}あ！{pause 30}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{0011-0003-0002-0000}{Wait for input}{emote: Worry}それ{pause 5}・{pause 5}・{pause 5}・{pause 5}{pause 10}	なんか　すてれなくてさ{pause 5}・{pause 5}・{pause 5}・{pause 5}{Wait for input}{emote: Disagreement}ううん、{ruby (charSpan 1): なん}何でもないよ{pause 10}	{emote: Soft Smile}よければ　もらってちょうだい{emote: Reset}{000f-0005-0004-0015-0028}	もらう～	いらない
+"005"	{emote: Happiness}あぁ、{pause 20}{0011-0003-0002-0000}ね{Wait for input}	{emote: Reset}けっこう　いいカンジなんだけど{pause 10}	{emote: Sheepishness}{ruby (charSpan 2): さいきん}最近　{pause 8}{ruby (charSpan 1): つか}使ってないんだよね	もし	{emote: Soft Smile}{Player nickname (green)}{0005-000d-0000}が　ほしかったら	{ruby (charSpan 1): も}持ってっていいよ{emote: Sunny}{000f-0005-0004-0015-0028}	もらう！	いらないよ
+"006"	{emote: Worry}そっか　{pause 20}ザンネ～ン、{pause 15}{catchphrase}
+"007"	{emote: Worry}そうなんだ～{pause 20}	{emote: Soft Smile}じゃあ　{pause 10}そのままに　しといて～
+"008"	{emote: Distress}え～{pause 20}	せっかく　あげようと　{ruby (charSpan 1): おも}思ったのに
+"009"	{emote: Happiness}よかった！{pause 20}	{emote: Soft Smile}じゃあ、{pause 10}そのまま　{ruby (charSpan 1): も}持ってって！
+"010"	{emote: Happiness}オッケー！{pause 20}	どうぞ　{ruby (charSpan 1): も}持ってって！
+"011"	{emote: Happiness}どうぞ　どうぞ！{pause 20}	そのまま　{pause 5}{ruby (charSpan 1): も}持ってっちゃって～、{pause 15}{catchphrase}

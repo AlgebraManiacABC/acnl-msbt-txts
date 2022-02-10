@@ -1,41 +1,41 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{000a-0008-0010-16-00-16-00-16-00-16-00-16-00-17-00-17-00-16-00}
-"003"	{000a-000a-0004-18-00-19-00}
-"004"	{emote: Happiness}
-"005"	{000a-0008-0010-1e-00-1e-00-1e-00-1f-00-1f-00-1f-00-1f-00-20-00}
-"006"	{000a-0007-000c-21-00-21-00-21-00-21-00-21-00-22-00}
-"007"	{emote: Happiness}
-"008"	{emote: Laughter}
-"009"	{000a-0008-0010-23-00-23-00-23-00-24-00-24-00-25-00-25-00-26-00}
-"010"	{emote: Happiness}
-"011"	{000a-0010-0008-27-00-28-00-27-00-27-00}
-"012"	{emote: Surprise}
-"013"	{emote: Happiness}
-"014"	{emote: Surprise}
-"015"	{emote: Surprise}
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Happiness}
-"023"	{emote: Surprise}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	{000a-0001-0004-1b-00-1c-00}
-"027"	{emote: Happiness}
-"028"	{emote: Glee}
-"029"	{emote: Curious}
-"030"	{emote: Happiness}
-"031"	{emote: Happiness}
-"032"	{emote: Surprise}
-"033"	{emote: Curious}
-"034"	{0000-0002-0002-ffffff96-00}{emote: Alarmed}
-"035"	{emote: Surprise}
-"036"	{emote: Surprise}
-"037"	{emote: Surprise}
-"038"	{emote: Surprise}
-"039"	{emote: Surprise}
-"040"	{emote: Laughter}
+"001"	{emote: Happiness}あれ？{pause 20}	スコップなんて{ruby (charSpan 1): も}持ってどうしたの？{Wait for input}{emote: Mischief}もしかして、{pause 10}{ruby (charSpan 1): お}落としあなでも	ほろうとしてるんじゃないの？！{Player can respond (0005):0014-0000-0015-0000}	ギクッ！	なにそれ？
+"002"	{000a-0008-0010-0016-0016-0016-0016-0016-0017-0017-0016}
+"003"	{000a-000a-0004-0018-0019}
+"004"	{emote: Happiness}ジョウロなんて{ruby (charSpan 1): も}持って、どうしたの？{pause 20}	{emote: Inspired}あ！{pause 20}　{ruby (charSpan 1): はな}花に{ruby (charSpan 1): みず}水やりとか？{Player can respond (0005):001a-0015-001d-0000}	そうだよ～	なんのこと？
+"005"	{000a-0008-0010-001e-001e-001e-001f-001f-001f-001f-0020}
+"006"	{000a-0007-000c-0021-0021-0021-0021-0021-0022}
+"007"	{emote: Happiness}パチンコなんか{ruby (charSpan 1): も}持って、{pause 10}どこ{ruby (charSpan 1): い}行くの～？{pause 20}	{emote: Love}だれかさんのハートを{pause 10}	ねらいうちするとか？！
+"008"	{emote: Laughter}キャハハ！{pause 50}	{emote: Happiness}クラッカーなんか{ruby (charSpan 1): も}持って、{pause 10}	お{ruby (charSpan 1): まつ}祭りさわぎでもするの～？！
+"009"	{000a-0008-0010-0023-0023-0023-0024-0024-0025-0025-0026}
+"010"	{emote: Happiness}わぁ！{pause 20}	かざぐるまなんか{ruby (charSpan 1): も}持って、	{emote: Joy}ちょー{ruby (charSpan 1): たの}楽しそうじゃん！{pause 20}	{emote: Distress}アタイは、{pause 10}{ruby (charSpan 2): ぜんしん}全身に　かざぐるまつけて{pause 10}	{ruby (charSpan 2): むらじゅう}村中　{ruby (charSpan 1): はし}走り{ruby (charSpan 1): まわ}回りたいよ～！　{pause 20}{catchphrase}！
+"011"	{000a-0010-0008-0027-0028-0027-0027}
+"012"	{emote: Surprise}あ！{pause 20}　{emote: Happiness}ふうせんじゃ～ん！{Wait for input}{emote: Glee}{ruby (charSpan 1): も}持ってると　{pause 10}{ruby (charSpan 2): きぶん}気分もウキウキ！{pause 20}	{ruby (charSpan 1): そら}空を　{pause 5}{ruby (charSpan 1): と}飛べちゃいそう？！
+"013"	{emote: Happiness}わたげって　{pause 10}ちょーカワイイよね！{pause 30}	{emote: Love}そんな　ぼうしがあったら、{pause 10}	ぜったい{ruby (charSpan 1): か}買っちゃうよ～、{pause 15}{catchphrase}
+"014"	{emote: Surprise}あ！{pause 20}　ピコピコハンマー！{pause 30}	{emote: Resigned}カワイイ　レディを{pause 10}	たたこうって　わけじゃないよね？！
+"015"	{emote: Surprise}コーヒーなんて{ruby (charSpan 1): も}持って{pause 10}	ちょークールじゃ～ん！{pause 30}	{emote: Glee}アタイも　マネしちゃおっかな～、{pause 15}{catchphrase}
+"016"
+"017"
+"018"
+"019"
+"020"	{emote: Happiness}やっぱり～！{pause 20}	{emote: Resigned}ま、アタイもよくほってるけどね！{pause 20}	{emote: Laughter}キャハハ！{pause 40}{emote: Soft Smile}
+"021"	{emote: Happiness}え？！{pause 20}	もう　{ruby (charSpan 1): し}知らないフリしちゃって～！{pause 30}	{emote: Mischief}まぁ、{pause 20}みんなにはヒミツにしとくよ
+"022"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、{pause 10}	ムシとり　{ruby (charSpan 1): たの}楽しんでる？！{Wait for input}{emote: Glee}イケてるムシがとれるように{pause 10}	いのってるよ、{pause 15}{catchphrase}
+"023"	{emote: Surprise}もしかして、{pause 10}	ゆきのけっしょうを{ruby (charSpan 1): あつ}集めてるの？{pause 25}	{emote: Soft Smile}がんばってね！{emote: Sunny}
+"024"	{emote: Happiness}どう？{pause 10}　{ruby (charSpan 2): きょう}今日はつれてる？{Wait for input}	{emote: Glee}つりの　だいご{ruby (charSpan 1): み}味は、{pause 10}サカナとの	かけひきだよね！	{emote: Love}アタイは、{pause 10}	{ruby (charSpan 1): こい}恋のかけひきも　{pause 5}{ruby (charSpan 2): とくい}得意だけど！
+"025"	{emote: Happiness}ここまで　つりに{ruby (charSpan 1): く}来るなんて、{pause 10}	サカナが　{ruby (charSpan 1): す}好きなんだね～！{Wait for input}{emote: Glee}{Town name (pink)}{ruby (charSpan 1): むら}村のサカナは{pause 10}	{ruby (charSpan 1): い}活きがいいでしょ！{pause 25}	{emote: Glee}がんばってね～、{pause 15}{catchphrase}
+"026"	{000a-0001-0004-001b-001c}
+"027"	{emote: Happiness}{ruby (charSpan 1): はな}花{ruby (charSpan 1): ず}好きのヒトって、{pause 10}	{emote: Love}ジェントルマンってカンジだよね～
+"028"	{emote: Glee}そうなんだ～{pause 20}	{emote: Distress}アタイも{pause 10}	{ruby (charSpan 1): はな}花の{ruby (charSpan 2): にあ}似合う　{ruby (charSpan 1): おんな}女のコになりた～い！
+"029"	{emote: Curious}あれ？{pause 20}　ちがうの？{Wait for input}	{emote: Surprise}あ！{pause 20}　カバン{ruby (charSpan 1): が}代わりに　{ruby (charSpan 1): も}持ってるんだ～{pause 20}	{emote: Happiness}{ruby (charSpan 1): あたら}新しいスタイルで　{pause 10}ちょーオシャレ！
+"030"	{emote: Happiness}それって、{ruby (charSpan 1): ひ}日がさ？{pause 20}	{emote: Distress}こういう{ruby (charSpan 1): ひ}日は、{ruby (charSpan 2): ひや}日焼けに{ruby (charSpan 2): ちゅうい}注意だよね！{Wait for input}	アタイも　{pause 8}おハダ{ruby (charSpan 1): まも}守らなきゃ～、{pause 15}{catchphrase}
+"031"	{emote: Happiness}イケてるスタイルだね！{pause 20}	{emote: Agreement}こういう{ruby (charSpan 1): ひ}日は、{pause 10}かさで{ruby (charSpan 1): さ}差をつけるのが{pause 5}	オシャレ{ruby (charSpan 3): じょうきゅうしゃ}上級者かも
+"032"	{emote: Surprise}へぇ！{pause 20}	{emote: Happiness}サクラの{ruby (charSpan 1): はな}花びらと　{pause 8}かさの{ruby (charSpan 1): いろ}色が{pause 10}	よく{ruby (charSpan 1): あ}合ってるね、{pause 15}{catchphrase}！
+"033"	{emote: Curious}ん？{pause 20}　オノ{ruby (charSpan 1): も}持ってどこ{ruby (charSpan 1): い}行くの？{Wait for input}{emote: Inspired}あ！{pause 20}　わかった！{pause 20}	オノを{ruby (charSpan 1): も}持ち{ruby (charSpan 1): ある}歩いて、キンニクをつける{pause 10}	{emote: Happiness}オノ{ruby (charSpan 1): も}持ちダイエットでしょ！
+"034"	{Text size 150%}{emote: Alarmed}わぁ！{pause 20}	{Text size 100%}{emote: Distress}もう　ビックリしたよ～！{Wait for input}{emote: Reset}{ruby (charSpan 2): よなか}夜中に　オノ{ruby (charSpan 1): も}持って{ruby (charSpan 1): ある}歩いてるなんて、{pause 10}	{emote: Distress}{Player nickname (green)}{0005-000d-0000}とはいえ{pause 10}	ちょっと　おどろいちゃった！
+"035"	{emote: Surprise}あ！{pause 20}　しゃぼんだまだ～{Wait for input}	{emote: Laughter}ねぇねぇ　{pause 20}アタイが{ruby (charSpan 1): うた}歌を{ruby (charSpan 1): うた}歌う{ruby (charSpan 1): うし}後ろで{pause 10}	しゃぼんだま　{pause 8}{ruby (charSpan 1): と}飛ばしてくんない？{pause 20}{emote: Soft Smile}	{emote: Glee}なんか、{pause 15}	アイドルの{ruby (charSpan 2): おうどう}王道ってカンジでしょ？！
+"036"	{emote: Surprise}あ！{pause 20}　しゃぼんだまだ～！{Wait for input}	{emote: Happiness}{ruby (charSpan 2): きょう}今日みたいな{ruby (charSpan 1): ひ}日にやると、{pause 10}	{ruby (charSpan 1): そら}空{ruby (charSpan 1): と}飛ぶ{ruby (charSpan 2): みずたま}水玉に　{pause 5}{ruby (charSpan 1): み}見えるかもね～！
+"037"	{emote: Surprise}あ！{pause 20}　しゃぼんだまだ～！{Wait for input}	{emote: Happiness}{ruby (charSpan 2): きょう}今日みたいな{ruby (charSpan 1): ひ}日にやると、{pause 10}	とうめいの　{pause 5}{ruby (charSpan 1): ゆき}雪みたいに{ruby (charSpan 1): み}見えるかもね！
+"038"	{emote: Surprise}あ！{pause 20}　しゃぼんだまだ～！{Wait for input}	{emote: Happiness}{ruby (charSpan 2): きょう}今日みたいな{ruby (charSpan 1): ひ}日にやると、{pause 10}	とうめいな　{pause 5}{ruby (charSpan 1): はな}花びらみたいに{ruby (charSpan 1): み}見えるかもね！
+"039"	{emote: Surprise}あ！{pause 20}　はなびだ！{pause 20}	{emote: Glee}こういう{ruby (charSpan 2): きせつ}季節に　はなびをやるのも{pause 10}	なんかオシャレだよね～、{pause 15}{catchphrase}
+"040"	{emote: Laughter}{ruby (charSpan 1): なつ}夏と{ruby (charSpan 1): い}言ったら　はなびだよね！{Wait for input}	{emote: Happiness}アタイも　{ruby (charSpan 2): ことし}今年の{ruby (charSpan 1): なつ}夏は、{pause 10}	{emote: Bashful}はなびみたいに　{pause 8}あつ～い{ruby (charSpan 1): なつ}夏にするんだ！{pause 20}{emote: Soft Smile}

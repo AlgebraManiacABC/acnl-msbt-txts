@@ -1,65 +1,65 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Distress}
-"003"	{emote: Alarmed}
-"004"	{emote: Happiness}
-"005"	{pause 8}
-"006"	{emote: Mistaken}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	Wow, "{catchphrase}
-"009"	So "{catchphrase}
-"010"	{0009-0000-0004-0b-00-0c-00}
-"011"	{emote: Resigned}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}Say, {Player nickname (green)}. I think I'd like a	catchphrase that's a bit catchier,	{catchphrase}. Should I change it?{Player can respond (0005):0004-0015-0003-0028}	Change is good!	Keep it.
+"002"	{emote: Distress}I really need a new catchphrase,	{Player nickname (green)}! Please tell me one	right away!{Player can respond (0005):0004-0000-0003-0000}	Sure, of course!	No, sorry.
+"003"	{emote: Alarmed}What? {pause 10}For real? {pause 30}{emote: Happiness}Well, that's OK.
+"004"	{emote: Happiness}Tell me what I should say!
+"005"	{pause 8}.{pause 8}.{pause 8}.{pause 8}"{capitalized}{catchphrase}"{pause 30}?	{emote: Happiness}Is that what you meant?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Yes, perfect!	Not quite.
+"006"	{emote: Mistaken}Oh, {pause 20}sorry. {pause 30}I must have misheard.	Tell me again?
+"007"	{0009-0000-0004-0008-0009}
+"008"	Wow, "{catchphrase}"{pause 8}.{pause 8}.{pause 8}.{pause 8}!{pause 20}	{emote: Glee}I totally love it, {catchphrase}!
+"009"	So "{catchphrase}," is that right?{pause 30}	{emote: Laughter}It fits me to a tee! Thanks!
+"010"	{0009-0000-0004-000b-000c}
+"011"	{emote: Resigned}Well, I'm sure my current	catchphrase will be fine for	a little longer.
+"012"	{emote: Happiness}Well, keep thinking of catchphrases	for me, OK? {pause 10}I'm sure I'll ask	you again someday!
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Distress}
-"003"	{emote: Alarmed}
-"004"	{emote: Happiness}
-"005"	¿"{capitalized}
-"006"	{emote: Mistaken}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	¡Chupi! ¡"{capitalized}
-"009"	Entonces, ¿"{catchphrase}
-"010"	{0009-0000-0004-0b-00-0c-00}
-"011"	{emote: Resigned}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}Oye, {Player nickname (green)}. Tú también crees	que yo no podría ser más ideal,	¿a que sí?	¡Pues podría, {catchphrase}, {pause 15}si 	tuviera una muletilla con un poco	más de chispa!	Seguro que a ti se te ocurre	alguna requetechuli.{Player can respond (0005):0004-0015-0003-0028}	Deja que piense	¡No!
+"002"	{emote: Distress}¡Necesito una muletilla nueva,	{Player nickname (green)}! ¡Necesito ser la	"más mejor"!	{emote: Pride}Quiero una muletilla que impacte,{pause 10}	que deje claro lo divina que soy. 	{emote: Distress}¿Me ayudas?{Player can respond (0005):0004-0000-0003-0000}	Vale	No, lo siento
+"003"	{emote: Alarmed}¿No?{pause 10} ¿Estás segur{o/a}?
+"004"	{emote: Happiness}¡Dime la más ideal que se te	ocurra!
+"005"	¿"{capitalized}{catchphrase}"?{pause 8}.{pause 8}.{pause 8}.{pause 8}{pause 30}	{emote: Happiness}¿Lo he dicho bien?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	¡Perfecto!	No...
+"006"	{emote: Mistaken}Ay, {pause 20}lo siento. {pause 30}Es que estoy muy	nerviosa. ¿Me lo puedes repetir?
+"007"	{0009-0000-0004-0008-0009}
+"008"	¡Chupi! ¡"{capitalized}{catchphrase}"!{pause 20}	{emote: Glee}¡Me encanta, {catchphrase}!
+"009"	Entonces, ¿"{catchphrase}"?{pause 30}	{emote: Laughter}¡Sí, sí! ¡Es tan requetechula	como yo!
+"010"	{0009-0000-0004-000b-000c}
+"011"	{emote: Resigned}Supongo que tendré que seguir	usando mi muletilla un poco más.
+"012"	{emote: Happiness}Vale, me olvido por ahora.{pause 10} Pero	tú ve pensando muletillas, por	si acaso.
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Alarmed}
-"004"	{emote: Happiness}
-"005"	{pause 8}
-"006"	{emote: Mistaken}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{emote: Glee}
-"009"	« {capitalized}
-"010"	{0009-0000-0004-0b-00-0c-00}
-"011"	{emote: Resigned}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}Tu sais quoi, {Player nickname (green)} ? J'ai de	gros doutes sur mon expression,	« {catchphrase} »...	Ce serait pas un peu{pause 30} tarte, par	hasard ? Je devrais dire autre	chose, tu crois ?{Player can respond (0005):0004-0015-0003-0028}	Il était temps !	Ne change rien.
+"002"	{emote: Worry}Il me faut une nouvelle expression,	{Player nickname (green)}... Et tu dois m'aider sur	ce coup-là !	Parce que « {catchphrase} »...{emote: Distress}{pause 10} me	sort par les trous de nez !{emote: Reset} Je	t'écoute !{Player can respond (0005):0004-0000-0003-0000}	J'ai quelque chose !	{Désolé/Désolée}...
+"003"	{emote: Alarmed}Vraiment ?! {pause 30}{emote: Happiness}Très bien, je vais	continuer à rabâcher	« {catchphrase} » !
+"004"	{emote: Happiness}Qu'est-ce que je dois dire alors ?!	{Gray}(Pourvu qu'{il/elle} me demande pas	d'arrêter de dire « LOL » !){Color Reset}
+"005"	{pause 8}.{pause 8}.{pause 8}.{pause 8} « {capitalized}{catchphrase} » ?{pause 30}	{emote: Delight}C'est bien ça ?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Oui !	Pas exactement.
+"006"	{emote: Mistaken}To{pause 30}ta{pause 30}le{pause 30}ment à la ramasse, la fille !{pause 30}	{emote: Reset}Morte de rire ! {emote: Delight}Tu peux répéter ?!
+"007"	{0009-0000-0004-0008-0009}
+"008"	{emote: Glee}C'est {catchphrase} de chez	{catchphrase} ! J'en suis totalement	{catchphrase} ! Vive {catchphrase} !
+"009"	« {capitalized}{catchphrase} » ?	.{pause 30}.{pause 30}.{pause 30} « {capitalized}{catchphrase} ».	{emote: Delight}« {capitalized}{catchphrase} » !!! {pause 30}Énorme !
+"010"	{0009-0000-0004-000b-000c}
+"011"	{emote: Resigned}Mais ne viens pas te plaindre, LOL !	C'est ta décision !
+"012"	{emote: Happiness}Tant pis !{pause 10} {emote: Mischief}On ne se débarrasse pas	de moi si facilement.{pause 10} Je reviendrai	t'embêter dans quelque temps !
 == 3 ==
-"001"	{emote: Happiness}
-"002"	{emote: Distress}
-"003"	{emote: Alarmed}
-"004"	{emote: Happiness}
-"005"	{pause 8}
-"006"	{emote: Mistaken}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	Uau, "{catchphrase}
-"009"	Così diresti "{catchphrase}
-"010"	{0009-0000-0004-0b-00-0c-00}
-"011"	{emote: Resigned}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}Senti, {Player nickname (green)}. Vorrei	un intercalare un po' più trendy,	{catchphrase}. Che dici, lo cambio?{Player can respond (0005):0004-0015-0003-0028}	Sì, cambialo!	No, va bene com'è.
+"002"	{emote: Distress}Ho bisogno di un nuovo intercalare,	{Player nickname (green)}! Ti prego, consigliamene	tu uno da urlo!{Player can respond (0005):0004-0000-0003-0000}	Certo, ci penso io!	No, mi dispiace.
+"003"	{emote: Alarmed}Cosa? {pause 10}Sul serio? {pause 30}{emote: Happiness}Beh, pazienza!
+"004"	{emote: Happiness}Dimmi tu cosa dovrei usare!
+"005"	{pause 8}.{pause 8}.{pause 8}.{pause 8}"{capitalized}{catchphrase}"{pause 30}	{emote: Happiness}E così tu useresti questo?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Sì, proprio questo!	No, non ci siamo.
+"006"	{emote: Mistaken}Oh, {pause 20}scusa. {pause 30}Devo aver capito male.	Me lo ripeti?
+"007"	{0009-0000-0004-0008-0009}
+"008"	Uau, "{catchphrase}"{pause 8}.{pause 8}.{pause 8}.{pause 8}!{pause 20}	{emote: Glee}Spettacolo, {catchphrase}!
+"009"	Così diresti "{catchphrase}", giusto?{pause 30}	{emote: Laughter}Mi calza a pennello! Grazie!
+"010"	{0009-0000-0004-000b-000c}
+"011"	{emote: Resigned}Beh, allora vorrà dire che mi terrò	questo intercalare ancora per	un po'.
+"012"	{emote: Happiness}Va bene! Tu però intanto	continua a pensare ad altri	intercalari per me, OK?
 == 4 ==
-"001"	{emote: Happiness}
-"002"	{emote: Distress}
-"003"	{emote: Alarmed}
-"004"	{emote: Happiness}
-"005"	... „{catchphrase}
-"006"	{emote: Mistaken}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	Wow, {pause 10}
-"009"	Aaalsooo, „{catchphrase}
-"010"	{0009-0000-0004-0b-00-0c-00}
-"011"	{emote: Resigned}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}Hey du, sag mal. {pause 20}Ich brauche	unbedingt einen Spruch, der	fetziger ist als {catchphrase}.	{emote: Resigned}Ich meine, {pause 10}{catchphrase} hier,	{pause 10}{catchphrase} da... {pause 20}Das klingt doch	auf Dauer echt schäbig, oder?	{emote: Curious}Meinst du, ich soll meinen	Spruch ändern?{Player can respond (0005):0004-0015-0003-0028}	Veränderung ist gut!	Nee, behalt den.
+"002"	{emote: Distress}Schnell, schnell, {Player nickname (green)}!	{pause 20}Ich brauche unbedingt sofort	einen neuen Spruch!	Ich sag viel zu oft {catchphrase}!	{pause 20}So langsam wird das echt uncool!	{pause 20}Hilf mir!{Player can respond (0005):0004-0000-0003-0000}	Aber sicher!	Ich find ihn cool so.
+"003"	{emote: Alarmed}Waaas? {pause 20}Echt jetzt?	{pause 20}{emote: Happiness}Na gut, auch okay!
+"004"	{emote: Happiness}Sag mir, was ich sagen soll!
+"005"	... „{catchphrase}“!	{pause 20}{emote: Happiness}Das meintest du doch, oder?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Jepp, perfekt!	Nee, nicht ganz...
+"006"	{emote: Mistaken}Oh, {pause 20}Entschuldigung! {pause 20}Das hab ich	wohl falsch verstanden.	{pause 20}Sag's mir einfach noch mal, okay?
+"007"	{0009-0000-0004-0008-0009}
+"008"	Wow, {pause 10}„{catchphrase}“ also?	{pause 20}{emote: Glee}So toll! {pause 20}Yaaay, {pause 10}{catchphrase}!
+"009"	Aaalsooo, „{catchphrase}“, ist das	richtig? {pause 20}{emote: Laughter}Das passt ja perfekt!	{pause 20}Danke, danke, danke!
+"010"	{0009-0000-0004-000b-000c}
+"011"	{emote: Resigned}Dann kann ich meinen Spruch	ja noch ein bisschen länger	benutzen, was?
+"012"	{emote: Happiness}Aber du kannst dir ja trotzdem	später noch einen Spruch für	mich überlegen.	Ich frag dich bestimmt irgendwann	wieder mal danach, hihi!

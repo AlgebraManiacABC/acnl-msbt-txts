@@ -1,14 +1,14 @@
 == 0 ==
-"001"	
-"002"	{emote: Glee}
-"003"	
-"004"	あっちむいて～{0007-0009-0004-14-00-00-00}
-"005"		{0007-000a-0000}
-"006"	{emote: Distress}
-"007"	{emote: Glare}
-"008"	{emote: Glee}
-"009"	{emote: Happiness}
-"010"	{emote: Worry}
-"011"	{emote: Shocked}
-"012"	{emote: Happiness}
-"013"	{ruby (charSpan 2): けっか}結果は{pause 8}
+"001"
+"002"	{emote: Glee}レディ～ス　{pause 10}ア～ンド　{pause 10}ジェントルメ～ン！{pause 20}	あっちむいてほ～い　{pause 10}た～いか～い！	{Wait <005a 0000> 'time'}	{emote: Soft Smile}じゃあ、{pause 10}ルールの{ruby (charSpan 2): せつめい}説明しちゃうよ？{Wait for input}{emote: Happiness}アタイが　{pause 10}あっちむいて～{pause 10}	{emote: Reset}って{ruby (charSpan 1): い}言ったら、{pause 10}	をおしてね{Wait for input}アタイと{ruby (charSpan 1): おな}同じ{ruby (charSpan 2): ほうこう}方向を　{ruby (charSpan 1): む}向いたら、{pause 10}	アンタの{ruby (charSpan 1): か}勝ちだよ{Wait for input}{emote: Sunny}チャンスは3{ruby (charSpan 1): かい}回！{pause 20}	{ruby (charSpan 1): うえ}上か　{pause 8}{ruby (charSpan 1): した}下か　{pause 8}{ruby (charSpan 1): みぎ}右か　{pause 8}{ruby (charSpan 1): ひだり}左か{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}どっちを{ruby (charSpan 1): む}向くか　{ruby (charSpan 2): よそう}予想して、{pause 10}	バッチリ{ruby (charSpan 1): き}決めちゃってよね！
+"003"
+"004"	あっちむいて～{Wait <0014 0000> 'time'}
+"005"		{0007-000a-0000}{Text size 200%}ホ{pause 8}～{pause 8}イ{Text size 100%}
+"006"	{emote: Distress}ヤダー！{pause 20}	{ruby (charSpan 1): おな}同じ{ruby (charSpan 2): ほうこう}方向　{ruby (charSpan 1): む}向いちゃったよー！
+"007"	{emote: Glare}ふふふ！　{pause 20}アタイがどっち{ruby (charSpan 1): む}向くか{pause 10}	わかんなかったでしょ～{Wait for input}	{emote: Happiness}それじゃあ　{pause 10}もう1ラウンドね！
+"008"	{emote: Glee}イェ～イ！{pause 20}	{ruby (charSpan 2): さいしゅう}最終ラウンドだよ～{pause 20}	カクゴはいい？！
+"009"	{emote: Happiness}よ～し！{pause 20}	アタイに　まどわされちゃった？！
+"010"	{emote: Worry}ってことは、{pause 10}	{emote: Resigned}アンタの{ruby (charSpan 1): か}勝ちだよ
+"011"	{emote: Shocked}ってことは、{pause 10}アタイの{ruby (charSpan 1): ま}負けか～{pause 30}	{emote: Sheepishness}アンタ、{pause 10}	アタイの{ruby (charSpan 1): こころ}心が{ruby (charSpan 1): よ}読めるんじゃない？！
+"012"	{emote: Happiness}ってことは{pause 10}	アタイの　{ruby (charSpan 1): か}勝ちだね！{pause 20}	{emote: Glee}ヤッター、{pause 10}{catchphrase}
+"013"	{ruby (charSpan 2): けっか}結果は{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Glee}アタイの{ruby (charSpan 1): か}勝ちだよ～！{pause 20}	{ruby (charSpan 2): ざんねん}残念だったね

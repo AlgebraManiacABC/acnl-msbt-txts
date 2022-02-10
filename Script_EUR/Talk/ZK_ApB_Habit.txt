@@ -1,90 +1,90 @@
 == 0 ==
-"001"	{emote: Anger}
-"002"	{emote: Glee}
-"003"	{emote: Surprise}
-"004"	{emote: Worry}
-"005"	{emote: Reset}
-"006"	{emote: Sheepishness}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{emote: Glare}
-"009"	{emote: Glare}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Sheepishness}
-"012"	{emote: Worry}
-"013"	{emote: Sheepishness}
-"014"	{0009-0001-0006-0f-00-10-00-11-00}
-"015"	{emote: Pride}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
+"001"	{emote: Anger}Hey, {Player nickname (green)}, I've been thinking	that my catchphrase has gotten	really old.	You know, that "{catchphrase}" thing	I do? What do you think?{Player can respond (0005):0004-0000-0003-0028}	Change it!	Keep it.
+"002"	{emote: Glee}Hey, I'm way excited, {Player nickname (green)}.	I've decided that it's time to	change my catchphrase!	{emote: Curious}You know how I say "{catchphrase}"	all the time?{pause 10} {emote: Resigned}Yup, I'm so sick	of it.{pause 10} What do you think?{Player can respond (0005):0004-0000-0003-0028}	Yeah, let's change it!	It's fine that way.
+"003"	{emote: Surprise}What? {pause 30}You really think it's fine as it	is, {Player nickname (green)}? {pause 10}{emote: Shyness}Well, if YOU like it,	I'll keep using it, {catchphrase}.
+"004"	{emote: Worry}Really? You think so too?{pause 10} {emote: Anger}Then it	really must be stale, {catchphrase}!{pause 10}	{emote: Agreement}You've gotta change it for me!
+"005"	{emote: Reset}Let me try that out{pause 10}.{pause 10}.{pause 10}.{pause 10}{emote: Flourish}{catchphrase}!{pause 30}	{emote: Glare}So do you like it?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Yes, perfect!	No, not quite.
+"006"	{emote: Sheepishness}Well, you're the one who I want	to like it most.{pause 10} {emote: Agreement}Give it another try.
+"007"	{0009-0000-0004-0008-0009}
+"008"	{emote: Glare}Heh. Yeah. I could really get used to	saying that, {catchphrase}.{Wait for input}	{emote: Glee}It's perfect, {catchphrase}!
+"009"	{emote: Glare}This catchphrase is going to be the	talk of the town, {catchphrase}.{Wait for input}	{emote: Joy}I totally love it, {catchphrase}!
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Sheepishness}Heh. Thanks for being honest.{pause 10}	{emote: Showmanship}I should be glad my catchphrase	is still hot, {catchphrase}!
+"012"	{emote: Worry}Hmm. I'm a bit worried my	catchphrase is still stale, but I	trust your instincts, {catchphrase}.
+"013"	{emote: Sheepishness}Heh. I like your honesty.{pause 10} If YOU say	my catchphrase is good,{pause 10} {emote: Pride}then it	must still be fine, {catchphrase}!
+"014"	{0009-0001-0006-000f-0010-0011}
+"015"	{emote: Pride}Yeah,{pause 10} I bet everyone's going to	start using this catchphrase	soon enough, {catchphrase}!
+"016"	{emote: Happiness}Hey, thanks! It's like my speech just	got new shoes.{pause 10} {emote: Laughter}I think I'll take my	mouth for a walk, {catchphrase}!
+"017"	{emote: Happiness}Wow, it was a good thing I ran into	you.{pause 10} {emote: Pride}Now I'm all verbally powered	up again, {catchphrase}!
 == 1 ==
-"001"	{emote: Anger}
-"002"	{emote: Glee}
-"003"	{emote: Surprise}
-"004"	{emote: Worry}
-"005"	{emote: Reset}
-"006"	{emote: Sheepishness}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{emote: Glare}
-"009"	{emote: Glare}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Sheepishness}
-"012"	{emote: Worry}
-"013"	{emote: Sheepishness}
-"014"	{0009-0001-0006-0f-00-10-00-11-00}
-"015"	{emote: Glare}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
+"001"	{emote: Anger}Oye, {Player nickname (green)}, mi muletilla se	ha pasado de moda y nadie me	lo ha dicho.	Ya sabes, ese "{catchphrase}" que	repito cada dos por tres.	¿Crees que debería cambiarla?{Player can respond (0005):0004-0000-0003-0028}	¡Claro!	Mejor no
+"002"	{emote: Glee}Hola, {Player nickname (green)}.	Estoy así de contento porque he	decidido cambiar mi muletilla.	Lo de "{catchphrase}" tiene menos	pegada que mi abuela haciendo	{0005-0011-0002-0000}.{Wait for input}Es hora de darle una vuelta	de tuerca. ¿Qué me dices?{Player can respond (0005):0004-0000-0003-0028}	¡Cambiémosla!	Pues a mí me gusta
+"003"	{emote: Surprise}¿Eh? {pause 30}¿Te gusta tal y como está,	{Player nickname (green)}? {pause 10}{emote: Shyness}Bueno, solo por ser tú,	voy a seguir con ella, {catchphrase}.
+"004"	{emote: Worry}¿Tú también lo crees? Entonces es	más grave de lo que pensaba,	{catchphrase}. ¡Ayúdame!
+"005"	{emote: Reset}Hagamos un test de muletilla:	probando, un, dos, {catchphrase}.	¿Qué tal?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	¡Perfecta!	Flojilla
+"006"	{emote: Sheepishness}Si tú dices que no, es que no.	¿Alguna otra sugerencia?
+"007"	{0009-0000-0004-0008-0009}
+"008"	{emote: Glare}Sí, sí, esto pega hasta en mi blog,	{catchphrase}.{Wait for input} {emote: Glee}Una muletilla de	categoría. ¡Perfecta, {catchphrase}!
+"009"	{emote: Glare}Esta muletilla va a ser un exitazo	en {capitalized}{Town name (pink)}, {catchphrase}.{Wait for input}	{emote: Joy}¡Es lo más, {catchphrase}!
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Sheepishness}Je, gracias por tu sinceridad.	Me alegra que mi muletilla siga	teniendo su chispa, {catchphrase}.
+"012"	{emote: Worry}Aún me preocupa que mi muletilla	esté un poco oxidada, pero me fío	de tu buen juicio, {catchphrase}.
+"013"	{emote: Sheepishness}Tienes razón. Si no está rota,	¿para qué cambiarla, {catchphrase}?
+"014"	{0009-0001-0006-000f-0010-0011}
+"015"	{emote: Glare}¡Esta nueva muletilla va a estar	en boca de todo el pueblo	enseguida, {catchphrase}!
+"016"	{emote: Happiness}¡Gracias, me siento como si hubiera	renovado mi fondo de armario,	{catchphrase}!
+"017"	{emote: Happiness}Guau, menos mal que te he pedido	consejo. ¡Tienes un toque especial,	{catchphrase}!
 == 2 ==
-"001"	{emote: Anger}
-"002"	{emote: Glee}
-"003"	{emote: Surprise}
-"004"	{emote: Worry}
-"005"	{emote: Reset}
-"006"	{emote: Sheepishness}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{emote: Glare}
-"009"	{emote: Glare}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Sheepishness}
-"012"	{emote: Worry}
-"013"	{emote: Sheepishness}
-"014"	{0009-0001-0006-0f-00-10-00-11-00}
-"015"	{emote: Glare}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
+"001"	{emote: Anger}Hé, {Player nickname (green)}, mon expression	commence à sonner bizarre à mes	oreilles d'esthète. Tiens, écoute...	« {capitalized}{catchphrase} ! »... {pause 30}Alors, t'en	penses quoi ? {pause 15}Je dois changer ?{Player can respond (0005):0004-0000-0003-0028}	Holà, oui, c'est urgent.	Ça me semble bien.
+"002"	{emote: Glee}Hé, {Player nickname (green)}. Tu tombes bien.	Tu vas admirer un génie en pleine	réflexion...	{emote: Daydreaming}Eh ouais, je me cherche une nouvelle	expression{pause 8}.{pause 8}.{pause 8}.{pause 15} Hé, hé...{Wait for input}{emote: Mistaken}Bon, j'avoue, {pause 8}je sèche !{Wait for input} {emote: Resigned}T'aurais	pas une idée pour remplacer	« {catchphrase} », par hasard ?{Player can respond (0005):0004-0000-0003-0028}	Je m'en charge.	Pourquoi changer ?
+"003"	{emote: Surprise}Ah ? {pause 30}Tu penses que c'est bien	comme ça, {Player nickname (green)} ?{Wait for input}{emote: Shyness}Bon, ça ne me rassure pas{pause 15} mais je	vais me fier à ton jugement,{pause 8}	{catchphrase}.
+"004"	{emote: Worry}Ah, alors tu penses que c'est pourri,	toi aussi,{pause 8} {catchphrase} ! {pause 30}{emote: Distress}OK, vite,	on change !
+"005"	{emote: Reset}Je fais un petit essai :	« {capitalized}{catchphrase} ! »	Alors ?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Adjugé !	Oublie...
+"006"	{emote: Sheepishness}Bon, {pause 8}après tout, {pause 8}c'est toi qui	l'entendras à longueur de temps,{pause 15}	alors choisis bien...
+"007"	{0009-0000-0004-0008-0009}
+"008"	{emote: Glare}Eh ouais{pause 8}.{pause 8}.{pause 8}.{pause 15} Je pense que je vais m'y	faire,{pause 8} {catchphrase}.{Wait for input} {emote: Glee}Je me sens tout	de suite plus classe, {pause 8}{catchphrase} !
+"009"	{emote: Glare}Tout {Town name (pink)} va m'envier cette	expression, {catchphrase} !{Wait for input}{emote: Happiness} Mais	bon, j'ai l'habitude, {catchphrase} !
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Sheepishness}Ah,{pause 15} tu penses que « {catchphrase} »	est toujours aussi tendance ?{pause 30} Hé hé,{pause 8}	ça m'étonne pas, {pause 8}{catchphrase}...
+"012"	{emote: Worry}Hmm, mon instinct de prédateur	sauvage me dit que c'est dépassé	comme expression...	{emote: Agreement}Mais t'as raison, {pause 15}mes fans ont	l'habitude de m'entendre dire ça,	alors je garde, {catchphrase} !
+"013"	{emote: Sheepishness}Eh ben ! {pause 15}Tu oses dire ce que tu	penses au risque de me contredire ?	{pause 30}Je respecte ça, {pause 8}{catchphrase} !
+"014"	{0009-0001-0006-000f-0010-0011}
+"015"	{emote: Glare}Cool... {pause 15}Tellement cool que personne	pensera que c'est pas de moi. {pause 30}Bien	joué, {Player nickname (green)} ! {capitalized}{catchphrase} !
+"016"	{emote: Happiness}Cool, {pause 8}c'est comme si j'enfilais un	nouveau costard,{pause 8} {catchphrase} !	Attention, les nanas,{pause 8} j'arrive...
+"017"	{emote: Happiness}Super, {pause 15}je me sens rajeunir du	langage... {emote: Resigned}Bon, {pause 8}je me comprends,{pause 8}	{catchphrase} !
 == 3 ==
-"001"	{emote: Anger}
-"002"	{emote: Glee}
-"003"	{emote: Surprise}
-"004"	{emote: Worry}
-"005"	{emote: Reset}
-"006"	{emote: Sheepishness}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{emote: Glare}
-"009"	{emote: Glare}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Sheepishness}
-"012"	{emote: Worry}
-"013"	{emote: Sheepishness}
-"014"	{0009-0001-0006-0f-00-10-00-11-00}
-"015"	{emote: Glare}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
+"001"	{emote: Anger}Ehi, {Player nickname (green)}, stavo pensando	che il mio intercalare ormai	è proprio vecchiotto.	Sai, quel "{catchphrase}" che ripeto	sempre? Tu che ne pensi?{Player can respond (0005):0004-0000-0003-0028}	Non se ne può più!	Va bene così!
+"002"	{emote: Glee}Ehi, sono contentissimo, {Player nickname (green)}.	Ho deciso che è giunta l'ora di	cambiare il mio intercalare!	Hai presente quel "{catchphrase}"	che ripeto sempre? Sì, sono stufo.	Che ne pensi?{Player can respond (0005):0004-0000-0003-0028}	Sì, cambialo!	A me piace così.
+"003"	{emote: Surprise}Que? {pause 30}Pensi davvero che vada bene	così, {Player nickname (green)}? {pause 10}{emote: Shyness}Beh, se a te piace,	allora non si cambia, {catchphrase}.
+"004"	{emote: Worry}Ah, anche tu la pensi così, eh?	È ora di cambiare, {catchphrase}!	Ayúdame!
+"005"	{emote: Reset}Fammelo provare, {catchphrase}.	Te gusta?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Sì, perfetto!	No, non mi convince.
+"006"	{emote: Sheepishness}Beh, per me è importante che	piaccia a te. Riproviamo!
+"007"	{0009-0000-0004-0008-0009}
+"008"	{emote: Glare}Oh, sì. Penso che non farò nessuna	fatica ad abituarmi, {catchphrase}.{Wait for input}	{emote: Glee}È perfetto, {catchphrase}!
+"009"	{emote: Glare}Questo intercalare farà parlare	tutta la ciudad, {catchphrase}.{Wait for input}	{emote: Joy}Mi piace da matti, {catchphrase}!
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Sheepishness}Eheheh, gracias per la tua sincerità.	Sono contento che il mio intercalare	sia ancora guapo, {catchphrase}.
+"012"	{emote: Worry}Mh, ho paura che il mio intercalare	sia ancora poco pimpante,	ma mi fido di te, {catchphrase}.
+"013"	{emote: Sheepishness}Eheh, mi piace la tua sincerità.	Se tu dici che è ancora da urlo,	allora va bene così, {catchphrase}!
+"014"	{0009-0001-0006-000f-0010-0011}
+"015"	{emote: Glare}Sono sicuro che presto tutti	cominceranno a usare questo	intercalare, {catchphrase}!
+"016"	{emote: Happiness}Ehi, gracias! Ahora ho un intercalare	nuovo di zecca. Lo porto a fare	un giro, {catchphrase}!
+"017"	{emote: Happiness}Uaaau, sono stato fortunato a	incontrarti. Ahora il mio intercalare	ha una marcia in più, {catchphrase}!
 == 4 ==
-"001"	{emote: Anger}
-"002"	{emote: Glee}
-"003"	{emote: Curious}
-"004"	{emote: Worry}
-"005"	{emote: Reset}
-"006"	{emote: Sheepishness}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{emote: Glare}
-"009"	{emote: Glare}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Sheepishness}
-"012"	{emote: Worry}
-"013"	{emote: Sheepishness}
-"014"	{0009-0001-0006-0f-00-10-00-11-00}
-"015"	{emote: Glare}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
+"001"	{emote: Anger}Hey, {Player nickname (green)}, ich hab mir	überlegt, ein paar meiner alten	Gewohnheiten abzulegen.	Ich sage zum Beispiel ständig	„{catchphrase}“.{pause 20} Nervt dich das	eigentlich irgendwie?{Player can respond (0005):0004-0015-0003-0028}	Und wie!	Überhaupt nicht.
+"002"	{emote: Glee}Hey, {Player nickname (green)}!{pause 20}	Es ist an der Zeit für eine wirklich	tiefgreifende Veränderung!	Ich sage doch immer	„{catchphrase}“. {pause 20}Aber damit ist	jetzt Schluss! {pause 20}Was meinst du dazu?{Player can respond (0005):0004-0015-0003-0000}	Ja, ändere das mal!	Mir gefällt's aber!
+"003"	{emote: Curious}Was? {pause 20}Du findest das wirklich gut so,	{Player nickname (green)}? {pause 20}{emote: Resigned}Na, wenn es dir gefällt,	sag ich es weiterhin, {catchphrase}.
+"004"	{emote: Worry}Du siehst das also auch so?{pause 20} Dann	muss es ja wirklich schon ziemlich	abgedroschen sein, {catchphrase}!	Bitte, denk dir einen neuen Spruch	für mich aus!
+"005"	{emote: Reset}Na gut, ich probier's gleich mal aus,	{catchphrase}.{pause 20} Und, gefällt's dir?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Ja, perfekt!	Nicht wirklich.
+"006"	{emote: Sheepishness}Wenn es dir nicht gefällt, dann	sag ich es nicht mehr. {pause 20}Vielleicht hast	du ja noch eine bessere Idee.
+"007"	{0009-0000-0004-0008-0009}
+"008"	{emote: Glare}Hey, daran könnte ich mich echt	gewöhnen, {catchphrase}.{Wait for input} {emote: Glee}Das passt	wirklich perfekt, {catchphrase}!
+"009"	{emote: Glare}Damit werde ich in {Town name (pink)}	sicher zur Kultfigur, {catchphrase}.{Wait for input}	{emote: Joy}Einfach nur gut, {catchphrase}!
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Sheepishness}Hey, danke. {pause 20}Ich werde dann einfach	weiterhin „{catchphrase}“ sagen,	{catchphrase}.
+"012"	{emote: Worry}Ich mach mir zwar Sorgen, dass es	die Leute irgendwann nervt, aber ich	vertraue dir einfach, {catchphrase}.
+"013"	{emote: Sheepishness}Also, wenn dir mein Spruch immer	noch gefällt, kann er ja gar nicht so	schlecht sein, {catchphrase}!
+"014"	{0009-0001-0006-000f-0010-0011}
+"015"	{emote: Glare}Ich wette, bald werden alle hier	meinen neuen Spruch kopieren,	{catchphrase}!
+"016"	{emote: Happiness}Danke dir!{pause 20} Ich fühl mich, als hätte	ich dadurch eine ganz neue	Persönlichkeit, {catchphrase}!
+"017"	{emote: Happiness}Gut, dass ich dich gefragt habe.{pause 20}	Jetzt bin ich verbal wieder bestens	ausgestattet, {catchphrase}!

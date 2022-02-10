@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Surprise}
-"003"	{emote: Mistaken}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Sheepishness}
-"007"	{emote: Happiness}
-"008"	{emote: Soft Smile}
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{emote: Soft Smile}
+"001"	{emote: Surprise}あ！　{pause 20}{0011-0003-0002-0000}！{Wait for input}{emote: Distress}それ　{pause 10}{ruby (charSpan 1): お}置き{ruby (charSpan 2): ばしょ}場所がなくて	{ruby (charSpan 1): こま}困ってたんです{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Sheepishness}よかったら　{pause 5}もらってください{000f-0005-0004-0015-0028}	もらっとく！	エンリョしとく
+"002"	{emote: Surprise}まぁ！　{pause 20}そんなところにあったんですね{Wait for input}	{emote: Sheepishness}{0011-0003-0002-0000}、{pause 10}	どこに　しまったのかと{ruby (charSpan 1): おも}思ってました	{emote: Distress}それ　{pause 8}ずっと{ruby (charSpan 1): つか}使ってないので{pause 10}	{emote: Happiness}よかったら　{pause 5}{ruby (charSpan 1): も}持ってってください{000f-0005-0004-0015-0028}	もらっとく！	{ruby (charSpan 1): べつ}別にいいや
+"003"	{emote: Mistaken}{0011-0003-0002-0000}！{pause 20}	{emote: Distress}てっきり　{ruby (charSpan 1): す}捨てたと{ruby (charSpan 1): おも}思ってたのに{pause 8}・{pause 8}・{pause 8}・{pause 8}！{Wait for input}{emote: Sheepishness}もし、{pause 8}{Player nickname (green)}さんが　{ruby (charSpan 1): ほ}欲しければ{pause 10}	もらっちゃってください{000f-0005-0004-0015-0028}	もらっとく！	いらな～い
+"004"	{emote: Alarmed}わっ！　{pause 20}{ruby (charSpan 2): かって}勝手に{ruby (charSpan 1): あ}開けちゃだめですよ！{pause 30}	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 8}{0011-0003-0002-0000}{pause 20}	{emote: Sigh}{ruby (charSpan 1): み}見つけちゃいましたか	{emote: Worry}それ　{pause 5}{ruby (charSpan 2): しょぶん}処分に{ruby (charSpan 1): こま}困ってるんです{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Sheepishness}もし　{ruby (charSpan 1): ほ}欲しければ、{pause 5}あげますよ{000f-0005-0004-0015-0028}	もらっとく！	エンリョしとく
+"005"	{emote: Alarmed}あ！　{pause 20}{0011-0003-0002-0000}！{pause 30}	{ruby (charSpan 2): かって}勝手に{ruby (charSpan 1): だ}出しちゃったんですか？！{Wait for input}{emote: Reset}それ　{pause 5}{ruby (charSpan 1): か}買いすぎてしまって、{pause 8}	ストックしてたんです{pause 20}	{emote: Happiness}もしよければ　{pause 8}プレゼントしますよ{000f-0005-0004-0015-0028}	もらうね！	いらないよ
+"006"	{emote: Sheepishness}あら　{pause 10}そうなんですか
+"007"	{emote: Happiness}まぁ！{pause 20}	せっかくだったのに{pause 8}・{pause 8}・{pause 8}・{pause 8}{catchphrase}
+"008"	{emote: Soft Smile}そうですか{pause 20}	また　{ruby (charSpan 1): き}気が{ruby (charSpan 1): む}向いたら、どうぞ
+"009"	{emote: Soft Smile}よかったです！{pause 20}	じゃあ　{pause 10}そのまま　{ruby (charSpan 1): も}持って{ruby (charSpan 1): い}行ってください
+"010"	{emote: Soft Smile}あら　{pause 5}よかった！{pause 20}	おかげで　{pause 10}{ruby (charSpan 2): しゅうのう}収納も　スッキリします
+"011"	{emote: Soft Smile}どうぞ　どうぞ！{pause 20}	エンリョなく　{pause 10}{ruby (charSpan 1): も}持って{ruby (charSpan 1): い}行ってください

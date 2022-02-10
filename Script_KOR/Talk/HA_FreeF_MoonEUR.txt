@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{0009-0001-0006-03-00-04-00-05-00}
-"002"	{0009-0003-000a-08-00-09-00-0a-00-0b-00-0c-00}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	
-"007"	
-"008"	{emote: Thought}
-"009"	{emote: Anger}
-"010"	{emote: Thought}
-"011"	{emote: Happiness}
-"012"	너네 마을에는{pause 20}
-"013"	
-"014"	{emote: Distress}
-"015"	{emote: Alarmed}
+"001"	{0009-0001-0006-0003-0004-0005}
+"002"	{0009-0003-000a-0008-0009-000a-000b-000c}
+"003"	{emote: Happiness}오늘 {Town name (pink)} 마을에는{pause 20}	{Blue}보름달의 날{Color Reset}이라는	이벤트가 있어!{Wait for input}{emote: Agreement}달을 보며 맛있는 걸 먹는 날이지!{pause 40}	너네 마을의 {Blue}추석{Color Reset}과	비슷하다고나 할까ー?{Wait for input}{emote: Glee}빨리 달이 떴으면 좋겠다!{pause 40}	얼마나 동그랄지 기대되는걸, {pause 8}{catchphrase}!
+"004"	{emote: Happiness}오늘은 {pause 20}{Blue}보름달의 날{Color Reset}이야ー!{Wait for input}동그란 달을{pause 8}	마음껏 보도록 해, {pause 8}{catchphrase}!
+"005"	{emote: Happiness}혹시 밤까지 있을 계획이면{pause 20}	우리 마을의 달을	구경하고 가라구ー!{Wait for input}{emote: Glee}{Blue}보름달의 날{Color Reset}은{pause 20}	여럿이 달을 보며	즐기는 날이거든, {pause 8}{catchphrase}!
+"006"
+"007"
+"008"	{emote: Thought}여기부터 달까지{pause 20}	거리가 얼마나 될까ー?{Wait for input}{emote: Sunny}언젠가 그만큼 달려보고 싶어!	{pause 8}{catchphrase}!
+"009"	{emote: Anger}냉큼 정체를 드러내라!{pause 40}	보름달이 뜬 밤에 우리 마을에 나타나다니{pause 8}	너 사실은{pause 8} 달에서 온 외계인이지ー?!{Player can respond (0005):000e-0015-000f-0028}	맞아!	아니야
+"010"	{emote: Thought}오늘 저 달처럼{pause 20}	둥근 보름달을 보면{pause 8}	늑대로 변신하는 녀석들이 있다지{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}{0007-000b-0000}좋겠다ー!{pause 20}	나도 뭔가로 변신하고 싶어!	{pause 8}{catchphrase}!
+"011"	{emote: Happiness}오늘 {Town name (pink)} 마을은{pause 20}	{Blue}보름달의 날{Color Reset}이야!{Wait for input}{emote: Anger}달을 보면서{pause 8} 맛있는 걸 먹지!{pause 40}	{emote: Pride}그리고는{pause 20} 달을 향해	마구 달리는 거야ー!{Wait for input}{emote: Laughter}사실 달린다는 부분은{pause 20}	내가 만들어 낸 거지만 말이야!{pause 20}	하하핫!{pause 40}{emote: Happiness}
+"012"	너네 마을에는{pause 20}	{emote: Curious}{Blue}추석{Color Reset}이라는 날이 있다며ー?{Wait for input}{emote: Happiness}{Town name (pink)} 마을의 {Blue}보름달의 날{Color Reset}도{pause 20}	달을 보며 즐기는 이벤트야!{Wait for input}{emote: Laughter}멀리 떨어져 있는 마을끼리{pause 20}	비슷한 날이 있다니	신기하다! {pause 8}{catchphrase}!{pause 40}{emote: Happiness}
+"013"
+"014"	{emote: Distress}{0007-000b-0000}으아아아ー!{pause 20}	그럴 줄 알았어ー!{pause 40}	달에서 온 외계인이다!{Wait for input}{emote: Curious}엥?{pause 40}	근데 너 집에는 어떻게 갈 거냐?{Wait for input}{emote: Cold Chill}{pause 20}갑자기{pause 20} 니가	측은하게 느껴진다{pause 8}・{pause 8}・{pause 8}・
+"015"	{emote: Alarmed}그,{pause 20} 그래?{pause 40}	{emote: Anger}흐음!{pause 20} 그래도	역시 수상한데{pause 8}・{pause 8}・{pause 8}・

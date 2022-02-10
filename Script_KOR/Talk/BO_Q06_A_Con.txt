@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{0011-0001-0002-00-00}
-"003"	{emote: Worry}
-"004"	{emote: Happiness}
-"005"	그 이상한 소포를{pause 20}
-"006"	{emote: Curious}
+"001"	{emote: Happiness}{0011-0001-0002-0000}한테	그 선물을{pause 20}	살짜쿵 전해줘어
+"002"	{0011-0001-0002-0000}한테	화해의 선물을{pause 20}	되도록 빨리 전해줘어～{Wait for input}{emote: Sigh}선물을 받고{pause 20} {0011-0001-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}	마음을 풀었으면 좋겠다아, {pause 8}{catchphrase}
+"003"	{emote: Worry}{0011-0001-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}{pause 20}	빨리 내놓으라고 화내고 있을까아?{Wait for input}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c},{pause 20}	배달 좀 부탁할게에～
+"004"	{emote: Happiness}놓고 간 그 물건을{pause 20}	제대로 {0011-0001-0002-0000}한테	전달해줘어～
+"005"	그 이상한 소포를{pause 20}	{0011-0001-0002-0000}한테	갖다 줘어～
+"006"	{emote: Curious}{0011-0001-0002-0000}{000e-000e-0008-0002-c740-0002-b294} 찾았어?{Wait for input}	{emote: Happiness}내가 준 물건을 꼭 전해줘어～

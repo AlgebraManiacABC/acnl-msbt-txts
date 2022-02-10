@@ -1,640 +1,640 @@
 == 0 ==
-"002"	EEK! {pause 10}
+"002"	EEK! {pause 10}It's {Article(word-dependant)}{Blue}{0014-0001-0002-cd00}{Color Reset}!{pause 8}	What should I do?!{Player can respond (0000):0000-0000-0000-0000}	Fight!	Flee!
 "003"	Ouch! The agony of defeat!
-"004"	Ha!{pause 10}
-"005"	Wow.{pause 10}
-"006"	I drove away the {Blue}{0014-0001-0002-00-ffffffcd}{Color Reset}, but	I've been poisoned!
-"007"	Yes!{pause 10}
-"008"	Yes!{pause 10}
+"004"	Ha!{pause 10} A nasty {Blue}{0014-0001-0002-cd00} {Color Reset}is no match	for me!
+"005"	Wow.{pause 10} I lost the battle, and I've been	poisoned, too.
+"006"	I drove away the {Blue}{0014-0001-0002-cd00}{Color Reset}, but	I've been poisoned!
+"007"	Yes!{pause 10} I drove away the {Blue}{0014-0001-0002-cd00}{Color Reset},	AND I got {Article(word-dependant)}{0014-0000-0002-cd00}!
+"008"	Yes!{pause 10} I drove away the {Blue}{0014-0001-0002-cd00}{Color Reset},	AND I got {Blue}{Number (0x6)}{Color Reset} {/food item/food items}!
 "009"	Will I make it?
-"010"	Oof.{pause 10}
-"011"	Whew!{pause 10}
+"010"	Oof.{pause 10} That was rough.
+"011"	Whew!{pause 10} A clean getaway!
 "012"	Ugh. Not only did I NOT get away,	but I got poisoned, too.
-"013"	Yikes!{pause 10}!
-"014"	Yes!{pause 10}
-"015"	{0000-0002-0002-ffffff96-00}Ouch!{0000-0002-0002-64-00}{0000-0004-0000}
-"016"	I can sense a creature lurking	nearby{pause 10}!
-"017"	Argh!{pause 10}
+"013"	Yikes!{pause 10} It's {Article(word-dependant)}{Blue}{0014-0001-0002-cd00}{Color Reset}!{pause 8} Drive	it away with the {0014-0000-0002-cd00}!
+"014"	Yes!{pause 10} I drove away the {Blue}{0014-0001-0002-cd00}{Color Reset}!
+"015"	{Text size 150%}Ouch!{Text size 100%}{Wait for input}Well, at least I drove away the	{Blue}{0014-0001-0002-cd00}{Color Reset}.
+"016"	I can sense a creature lurking	nearby{pause 10}.{pause 10}.{pause 10}.{pause 10} Let's try to sneak away.
+"017"	Argh!{pause 10} It's {Article(word-dependant)}{Blue}{0014-0001-0002-cd00}{Color Reset}!{pause 8}	I've been spotted!
 "018"	I got away!
-"019"	Looks like the {Blue}{0014-0001-0002-00-ffffffcd} {Color Reset}is stuck	in a pit!{0000-0004-0000}
-"021"	Whoa! {pause 10}!
-"022"	If I get those bees away from their	hive,{pause 8}
-"023"	Uh-oh! {pause 30}
-"024"	Oh!{pause 10}
-"025"	Oh! A beehive!{pause 10}!
-"026"	OUCH! {pause 30}!
-"027"	Oh, no! The honey is ruined,{pause 10}
-"028"	Ha! I scared off those bees!{0000-0004-0000}
-"029"	I don't want to risk a bee sting!{pause 30}
-"030"	Oh! A beehive!{pause 10}!
-"031"	Yes!{pause 10}
-"032"	Ouch! I hit the tree...{pause 8}
+"019"	Looks like the {Blue}{0014-0001-0002-cd00} {Color Reset}is stuck	in a pit!{Wait for input}This is my chance to get away!
+"021"	Whoa! {pause 10}It's a beehive!
+"022"	If I get those bees away from their	hive,{pause 8} I could snag some honey...{Player can respond (0005):0000-0000-0000-0000}	Shoo them away!	Leave quietly. Shh!
+"023"	Uh-oh! {pause 30}A beehive!{Wait for input}Hmm{pause 15}.{pause 15}.{pause 15}.{pause 15}I have a {Blue}net{Color Reset}. {pause 30}Maybe I could	use it to chase off those bees?{Player can respond (0005):0000-0000-0000-0000}	Shoo them away!	Leave quietly. Shh!
+"024"	Oh!{pause 10} It's a beehive!{pause 8}	Honey for meeeee! ♪
+"025"	Oh! A beehive!{pause 10} Use the {Blue}net{Color Reset} to get	the honey!
+"026"	OUCH! {pause 30}Bee stings really hurt...
+"027"	Oh, no! The honey is ruined,{pause 10} and	the bees buzzed away!
+"028"	Ha! I scared off those bees!{Wait for input}Food supplies ({Blue}honey{Color Reset}) increased	by {Blue}{Number (0x6)}{Color Reset}!
+"029"	I don't want to risk a bee sting!{pause 30}	I'll just sneak away quietly...
+"030"	Oh! A beehive!{pause 10} Use the	{Blue}{0014-0000-0002-cd00}{Color Reset} to get the honey!
+"031"	Yes!{pause 10} I drove the bees away!{Wait for input}Our food supplies ({Blue}honey{Color Reset})	increased by {Blue}{Number (0x6)}{Color Reset}!
+"032"	Ouch! I hit the tree...{pause 8} But our food	supplies ({Blue}honey{Color Reset}) increased by {Blue}{Number (0x6)}{Color Reset}!
 "034"	I found a {Blue}palm {Color Reset}tree!
 "035"	Yay! I found a {Blue}palm {Color Reset}tree! ♪
-"036"	Oh! This tree is full of delicious	{Blue}{0014-0002-0002-00-ffffffcd}{Color Reset}!
-"037"	Oh! This tree is full of delicious	{Blue}{0014-0002-0002-00-ffffffcd}{Color Reset}! My favorite! ♪
+"036"	Oh! This tree is full of delicious	{Blue}{0014-0002-0002-cd00}{Color Reset}!
+"037"	Oh! This tree is full of delicious	{Blue}{0014-0002-0002-cd00}{Color Reset}! My favorite! ♪
 "038"	Shake the tree to get the fruit!
-"039"	I got some food! Our food supplies	increased by {Blue}{Number (0x6)}
-"041"	Look—{pause 10}
+"039"	I got some food! Our food supplies	increased by {Blue}{Number (0x6)} {/ration/rations}{Color Reset}!
+"041"	Look—{pause 10}fish! {pause 8}Hurry up and catch 'em!
 "042"	You didn't catch any fish!
-"043"	You caught {Blue}{Number (0x6)}
-"044"	Huh?{pause 30}
-"045"	Ah!{pause 10}
-"046"	Awww...{pause 20}
-"047"	Woo!{pause 10}
-"048"	Hey!{pause 10}
-"049"	I caught {Blue}{Number (0x6)}
-"051"	Looks like we can make a raft!{0007-0009-0004-78-00-00-00}!
-"052"	What a great raft! {pause 8}
+"043"	You caught {Blue}{Number (0x6)}{Color Reset}!{pause 8}	Your food supplies have increased.
+"044"	Huh?{pause 30} I just saw a fish!{Wait for input}But I don't have a fishing rod...
+"045"	Ah!{pause 10} There are fish here! ♪{Wait for input}Catching fish is my speciality, so I'll	catch some with my bare hands!
+"046"	Awww...{pause 20} I didn't catch a single one.
+"047"	Woo!{pause 10} That's how you do it!{Wait for input}I got {Blue}{Number (0x6)} fish{Color Reset}!{pause 8} Food supplies have	increased!
+"048"	Hey!{pause 10} There are fish here!{pause 8} Let's get	them! ♪
+"049"	I caught {Blue}{Number (0x6)}{Color Reset}!{pause 8}	Our food supplies increased!
+"051"	Looks like we can make a raft!{Wait <0078 0000> 'time'}
+"052"	What a great raft! {pause 8}Time to escape	this crazy island! ♪{Wait <0078 0000> 'time'}
 "053"	Your food supplies ran out...
 "054"	You didn't get off the island in	time...
-"055"	The {Blue}{0014-0000-0002-00-ffffffcd} {Color Reset}broke!
-"057"	Noooo!{pause 10}!
+"055"	The {Blue}{0014-0000-0002-cd00} {Color Reset}broke!
+"057"	Noooo!{pause 10} It's a pit!
 "058"	I'm stuck, and I can't move! HELP!
 "059"	Whew! I got out!
-"060"	Huh...?{pause 8}
-"061"	I'll try digging with the	{Blue}{0014-0000-0002-00-ffffffcd}{Color Reset}...
-"062"	Whew, that was close!{pause 8}
+"060"	Huh...?{pause 8} Looks like there's something	buried here.
+"061"	I'll try digging with the	{Blue}{0014-0000-0002-cd00}{Color Reset}...
+"062"	Whew, that was close!{pause 8} Someone	could have fallen into the pit!
 "063"	Whoa! I dug up some stuff!
-"064"	I found {Blue}{Number (0x6)}
-"065"	Ouch!{pause 8}
-"066"	Yikes!{pause 10}!
-"067"	Waaaa! I can't get out!{pause 8}
-"068"	Huh?{pause 8}
+"064"	I found {Blue}{Number (0x6)} {/pitfall seed/pitfall seeds}{Color Reset}!{Wait for input}Should I rebury {Blue}{/it/one}{Color Reset}?{Player can respond (0005):0000-0000-0000-0000}	Bury it!	Cancel.
+"065"	Ouch!{pause 8} I fell into my own pit.
+"066"	Yikes!{pause 10} A pit!
+"067"	Waaaa! I can't get out!{pause 8} I'm stuck!
+"068"	Huh?{pause 8} Did I just run past something?
 "070"	Checking supplies...
-"071"	Good work, everyone!{pause 30}
-"072"	Uh-oh! There's no more food!{pause 30}
-"073"	Tomorrow is the final day, so{pause 10}
+"071"	Good work, everyone!{pause 30} Maybe	tomorrow is the day we escape...
+"072"	Uh-oh! There's no more food!{pause 30}	We'll need to find some tomorrow.
+"073"	Tomorrow is the final day, so{pause 10}.{pause 10}.{pause 10}.{pause 10}good	luck!
 "074"	What should we do now?
 "075"	Eat and sleep.
 "076"	Make a tool.
 "077"	Check items.
 "078"	Heal.
-"079"	Who will you heal?	(Available {Blue}medicine{Color Reset}: {Blue}{Number (0x6)}
-"080"	Your party has a member who can	use food to perform First Aid.	Who do you want to heal?	(Food remaining: {Blue}{Number (0x7)}
-"081"	
-"082"	
-"083"	
+"079"	Who will you heal?	(Available {Blue}medicine{Color Reset}: {Blue}{Number (0x6)}{Color Reset})
+"080"	Your party has a member who can	use food to perform First Aid.	Who do you want to heal?	(Food remaining: {Blue}{Number (0x7)}{Color Reset})
+"081"
+"082"
+"083"
 "084"	Cancel
-"085"	{Orange}{0011-0001-0002-00-00}
-"086"	Are you sure you want to sleep?	There's work to be done!{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"087"	Heal {Orange}{0011-0001-0002-00-00}
-"088"	Your party has a member who can	use food to perform First Aid.{0000-0004-0000}
-"089"	Ta-da!{pause 20}!
-"090"	Ta-da!{pause 20}!
-"091"	Ta-da!{pause 20}!
-"092"	Ta-da!{pause 20}!
-"093"	Ta-da!{pause 20}!
-"094"	Ta-da!{pause 20}!
-"095"	Ta-da!{pause 20}!
-"096"	Ta-da!{pause 20}!
-"097"	Ta-da!{pause 20}!
-"098"	Ta-da!{pause 20}!
-"099"	Ta-da!{pause 20}!
-"100"	Ta-da!{pause 20}!
-"101"	
-"102"	
-"103"	
-"104"	
+"085"	{Orange}{0011-0001-0002-0000}{Color Reset} feels better now!
+"086"	Are you sure you want to sleep?	There's work to be done!{Player can respond (0005):0000-0000-0000-0000}	It's time to sleep!	We'll stay up!
+"087"	Heal {Orange}{0011-0001-0002-0000}{Color Reset}?	(Available {Blue}medicine{Color Reset}: {Blue}{Number (0x6)}{Color Reset}){Player can respond (0005):0000-0000-0000-0000}	Heal.	Cancel.
+"088"	Your party has a member who can	use food to perform First Aid.{Wait for input}Heal {Orange}{0011-0001-0002-0000}{Color Reset}?	(Remaining food: {Blue}{Number (0x7)}{Color Reset}){Player can respond (0005):0000-0000-0000-0000}	Heal.	Cancel.
+"089"	Ta-da!{pause 20} A {Blue}fishing rod{Color Reset}! {Wait for input}Time to head over to the water	and catch ourselves some dinner!
+"090"	Ta-da!{pause 20} A {Blue}slingshot{Color Reset}!{Wait for input}Now we can face wild creatures	with confidence{pause 8}.{pause 8}.{pause 8}.{pause 8}I hope!
+"091"	Ta-da!{pause 20} A {Blue}net{Color Reset}!{Wait for input}Now we can shoo away bees and	nab all their honey!
+"092"	Ta-da!{pause 20} A {Blue}shovel{Color Reset}!{Wait for input}Pits won't be a problem anymore!
+"093"	Ta-da!{pause 20} A {Blue}silver rod{Color Reset}! {Wait for input}Time to head over to the water and	catch ourselves some dinner!
+"094"	Ta-da!{pause 20} A {Blue}silver slingshot{Color Reset}!{Wait for input}Those jungle creatures won't stand	a chance against this thing!
+"095"	Ta-da!{pause 20} A {Blue}silver net{Color Reset}!{Wait for input}We can drive away bees, clear away	fog, and collect items!
+"096"	Ta-da!{pause 20} A {Blue}silver shovel{Color Reset}!{Wait for input}No falling into pits for us! And we	can dig up items, too!
+"097"	Ta-da!{pause 20} A {Blue}golden fishing rod{Color Reset}! {Wait for input}Time to head over to the water and	catch ourselves some dinner!
+"098"	Ta-da!{pause 20} A {Blue}golden slingshot{Color Reset}!{Wait for input}Those jungle creatures won't stand	a chance against this thing!
+"099"	Ta-da!{pause 20} A {Blue}golden net{Color Reset}!{Wait for input}We can drive away bees, clear away	fog, and collect items!
+"100"	Ta-da!{pause 20} A {Blue}golden shovel{Color Reset}!{Wait for input}No falling into pits for us! And we	can dig up items, too!
+"101"
+"102"
+"103"
+"104"
 "105"	Unable to save.	Returning to title screen.
-"106"	Make {Article(word-dependant)}
-"107"	
-"108"	
-"109"	
-"110"	
-"111"	
-"112"	
-"113"	
-"114"	
-"115"	
-"116"	
-"117"	
-"119"	You can use  {Blue}amiibo cards or	figures{Color Reset}, or {Orange}{Number (0x6)}
-"120"	Start your game with the same	companions? {Player can respond: 0005-00-00-00-00-00-00-00-00}!
+"106"	Make {Article(word-dependant)}{0014-0000-0002-cd00}?{Player can respond (0006):0000-0000-0000-0000-0000-0000}	Make it!	View explanation.	Quit.
+"107"
+"108"
+"109"
+"110"
+"111"
+"112"
+"113"
+"114"
+"115"
+"116"
+"117"
+"119"	You can use  {Blue}amiibo cards or	figures{Color Reset}, or {Orange}{Number (0x6)}  Play Coins each	{Color Reset}to select up to 3 companions.
+"120"	Start your game with the same	companions? {Player can respond (0005):0000-0000-0000-0000}	Yes!	I'll make a new group.
 "121"	You don't have enough 	{Orange} Play Coins{Color Reset}!
 "122"	Please tap an {Blue}Animal Crossing	amiibo {Color Reset}on the lower screen.
-"123"	Please turn on the {Blue}Nintendo 3DS	NFC Reader/Writer accessory {Color Reset}in	order to read {Blue}amiibo{Color Reset}. {0000-0004-0000}!
-"124"	
-"125"	Would you like to add {Orange}Timmy {Color Reset}or	{Orange}Tommy {Color Reset}to your band of pals?{Player can respond: 0000-00-00-00-00-00-00-00-00}
+"123"	Please turn on the {Blue}Nintendo 3DS	NFC Reader/Writer accessory {Color Reset}in	order to read {Blue}amiibo{Color Reset}. {Wait for input}Then, tap a compatible Animal	Crossing {Blue}amiibo{Color Reset}.
+"124"
+"125"	Would you like to add {Orange}Timmy {Color Reset}or	{Orange}Tommy {Color Reset}to your band of pals?{Player can respond (0000):0000-0000-0000-0000}	Timmy.	Tommy.
 "126"	{Orange}Timmy {Color Reset}and {Orange}Tommy {Color Reset}are 	already on the island!
-"127"	{Orange}{0011-0001-0002-00-00}
-"128"	
+"127"	{Orange}{0011-0001-0002-0000} {Color Reset}is already on the	island!
+"128"
 "129"	Use an {Blue}amiibo {Color Reset}instead of using	{Orange} Play Coins{Color Reset}.
-"130"	Play again?{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"131"	Play again?{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"132"	Play again?{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"133"	
-"134"	Start your game with the same	companions? {Player can respond: 0005-00-00-00-00-00-00-00-00}!
-"135"	Start your game with the same	companions? {Player can respond: 0005-00-00-00-00-00-00-00-00}ơ
+"130"	Play again?{Player can respond (0000):0000-0000-0000-0000}	Yup!	Return to title.
+"131"	Play again?{Player can respond (0000):0000-0000-0000-0000}	Yup! ({Number (0x6)}  Play Coins)	Return to title.
+"132"	Play again?{Player can respond (0000):0000-0000-0000-0000}	{Gray}Yup! ({Gray}{Number (0x6)} {Gray} Play Coins){Color Reset}	Return to title.
+"133"
+"134"	Start your game with the same	companions? {Player can respond (0005):0000-0000-0000-0000}	Start game! ({Number (0x6)} )	I'll make a new group.
+"135"	Start your game with the same	companions? {Player can respond (0005):0000-0000-0000-0000}	Start game! ({Number (0x6)} )	I'll make a new group.
 == 1 ==
-"002"	¡Arj,{pause 10}
-"003"	Ay,{pause 10}
-"004"	¡He vencido!{pause 8}
-"005"	No solo me ha vencido{pause 10}
-"006"	He logrado espantar a esa alimaña,{pause 10}
-"007"	¡He espantado {0014-0004-0010-04-00-61-00-6c-00-08-00-61-00-20-00-6c-00-61-00} {Blue}{0014-0001-0002-00-ffffffcd} {Color Reset}y he	encontrado {Article(word-dependant)}
-"008"	¡Genial!{pause 20}
+"002"	¡Arj,{pause 10} {Article(word-dependant)}{Blue}{0014-0001-0002-cd00}{Color Reset}!{pause 8}	¿Ahora qué hago?{Player can respond (0000):0000-0000-0000-0000}	Luchar	Huir
+"003"	Ay,{pause 10} ¡qué amarga es la derrota!
+"004"	¡He vencido!{pause 8} ¡Largo de aquí,	{Blue}{0014-0001-0002-cd00}{Color Reset} repugnante!
+"005"	No solo me ha vencido{pause 10}.{pause 10}.{pause 10}.{pause 10}	¡Encima,{pause 10} me ha envenenado!
+"006"	He logrado espantar a esa alimaña,{pause 10}	pero antes me ha picado{pause 10}.{pause 10}.{pause 10}.
+"007"	¡He espantado {0014-0004-0010-0004-0061-006c-0008-0061-0020-006c-0061} {Blue}{0014-0001-0002-cd00} {Color Reset}y he	encontrado {Article(word-dependant)}{0014-0000-0002-cd00}!
+"008"	¡Genial!{pause 20} ¡Me he librado {0014-0004-0014-0006-0064-0065-006c-000a-0064-0065-0020-006c-0061}	{Blue}{0014-0001-0002-cd00}{Color Reset} y consigo {Blue}{Number (0x6)} {/ración/raciones}{Color Reset}!
 "009"	¡Salgo por patas!
-"010"	Mecachis...{pause 10}
-"011"	¡Bien, he logrado escapar!{pause 10}
-"012"	No he conseguido huir de su	picadura{pause 10}
-"013"	¡Qué {Blue}{0014-0001-0002-00-ffffffcd}{Color Reset} tan fe{0014-0004-0008-02-00-6f-00-02-00-61-00}!{pause 8}
-"014"	¡Lo he logrado!{pause 8}
-"015"	{0000-0002-0002-ffffff96-00}¡Ay!{pause 8}
-"016"	Mmm{pause 10}
-"017"	¡Rayos,{pause 10}
-"018"	Uf,{pause 10}
-"019"	{0014-0004-0010-06-00-45-00-73-00-65-00-06-00-45-00-73-00-61-00} {Blue}{0014-0001-0002-00-ffffffcd}{Color Reset} está atrapad{0014-0004-0008-02-00-6f-00-02-00-61-00}.	Ha caído en una trampa.{0000-0004-0000}
-"021"	Mira,{pause 10}
-"022"	Si espantara a las abejas,{pause 10}
-"023"	¡Una colmena!{pause 30}
-"024"	¡Qué bien, he encontrado un panal!{pause 8}
-"025"	¡Una colmena!{pause 30}
-"026"	Aaaaaaayyyyy{pause 10}
-"027"	Vaya,{pause 10}
-"028"	¡Sí!{pause 8}
-"029"	No me arriesgo a que me piquen las	abejas.{pause 20}
-"030"	¡Una colmena!{pause 20}
-"031"	¡Sí!{pause 8}
-"032"	Me la he dado contra el árbol,{pause 10}!
+"010"	Mecachis...{pause 10} Esa alimaña era	demasiado rápida para mí.
+"011"	¡Bien, he logrado escapar!{pause 10}	¡Y sin rasguños!
+"012"	No he conseguido huir de su	picadura{pause 10}.{pause 10}.{pause 10}.{pause 10} ¡y es venenosa!
+"013"	¡Qué {Blue}{0014-0001-0002-cd00}{Color Reset} tan fe{0014-0004-0008-0002-006f-0002-0061}!{pause 8} Voy a	usar {000e-0001-0000}{Blue}{0014-0000-0002-cd00}{Color Reset}{pause 10}.{pause 10}.{pause 10}.{pause 10}
+"014"	¡Lo he logrado!{pause 8} ¡Largo de aquí,	{Blue}{0014-0001-0002-cd00}{Color Reset} repugnante!
+"015"	{Text size 150%}¡Ay!{pause 8} ¡Pupa!{Text size 100%}{Wait for input}Bueno,{pause 10} al menos he espantado	{0014-0004-0010-0004-0061-006c-0008-0061-0020-006c-0061} {Blue}{0014-0001-0002-cd00}{Color Reset}{pause 10}.{pause 10}.{pause 10}.{pause 10}
+"016"	Mmm{pause 10}.{pause 10}.{pause 10}.{pause 10} Por aquí hay algo al acecho.{pause 8}	A ver si pasando de puntillas{pause 10}.{pause 10}.{pause 10}.
+"017"	¡Rayos,{pause 10} ¡{Article(word-dependant)}{Blue}{0014-0001-0002-cd00}{Color Reset}!{pause 8}	¡Me ha pillado de lleno!
+"018"	Uf,{pause 10} parece que me he librado.
+"019"	{0014-0004-0010-0006-0045-0073-0065-0006-0045-0073-0061} {Blue}{0014-0001-0002-cd00}{Color Reset} está atrapad{0014-0004-0008-0002-006f-0002-0061}.	Ha caído en una trampa.{Wait for input}¡Es mi oportunidad de escapar!
+"021"	Mira,{pause 10} ¡una colmena!
+"022"	Si espantara a las abejas,{pause 10} me podría	hacer con la miel del panal{pause 10}.{pause 10}.{pause 10}.{Player can respond (0005):0000-0000-0000-0000}	Espantarlas	Marcharse
+"023"	¡Una colmena!{pause 30} Como tengo una {Blue}red{Color Reset},{pause 10}	quizá me pueda librar de las abejas.{Player can respond (0005):0000-0000-0000-0000}	Espantarlas	Marcharse
+"024"	¡Qué bien, he encontrado un panal!{pause 8}	¡Tengo que hacerme con la miel!
+"025"	¡Una colmena!{pause 30} A ver si consigo	hacerme con la miel usando la {Blue}red{Color Reset}{pause 10}.{pause 10}.{pause 10}.
+"026"	Aaaaaaayyyyy{pause 10}.{pause 10}.{pause 10}.{pause 10}	¡Me han picado las abejas!
+"027"	Vaya,{pause 10} he espantado a las abejas,{pause 10}	pero el panal se ha roto{pause 10}.{pause 10}.{pause 10}.
+"028"	¡Sí!{pause 8} ¡Las he espantado!{Wait for input}He añadido {Blue}{Number (0x6)}{Color Reset} raci{/ón/ones}	de {Blue}miel{Color Reset} a las provisiones.
+"029"	No me arriesgo a que me piquen las	abejas.{pause 20} Mejor me voy.{pause 20} Sssh{pause 10}.{pause 10}.{pause 10}.
+"030"	¡Una colmena!{pause 20} Me haré con la miel	usando {000e-0001-0000}{Blue}{0014-0000-0002-cd00}{pause 10}{Color Reset}.{pause 10}.{pause 10}.
+"031"	¡Sí!{pause 8} ¡Las he espantado!{Wait for input}He añadido {Blue}{Number (0x6)}{Color Reset} raci{/ón/ones}	de {Blue}miel{Color Reset} a las provisiones.
+"032"	Me la he dado contra el árbol,{pause 10} ¡pero	he conseguido {Blue}{Number (0x6)}{Color Reset} raci{/ón/ones} de {Blue}miel{Color Reset}!
 "034"	Mira, ¡he encontrado una {Blue}palmera{Color Reset}!
 "035"	¡Yuju! He encontrado una {Blue}palmera{Color Reset},	¡con lo que me gustan! ♪
-"036"	¡Qué pinta tan sabrosa tienen	{000e-0001-0000}
-"037"	¡Un árbol repleto de {Blue}{0014-0002-0002-00-ffffffcd}{Color Reset}!{pause 20}
+"036"	¡Qué pinta tan sabrosa tienen	{000e-0001-0000}{Blue}{0014-0002-0002-cd00}{Color Reset} de ese árbol!
+"037"	¡Un árbol repleto de {Blue}{0014-0002-0002-cd00}{Color Reset}!{pause 20}	¡Yupi,{pause 10} mi fruta favorita!{pause 10} ♪
 "038"	¡A ver cuánta fruta cae!
-"039"	¡He añadido{Blue} {Blue}{Number (0x6)}
-"041"	Mira,{pause 10}
+"039"	¡He añadido{Blue} {Blue}{Number (0x6)} {Blue}{0014-0002-0002-cd00}{Color Reset}	a las provisiones!
+"041"	Mira,{pause 10} ¡peces!{pause 8}	¡A ver si pillo alguno!
 "042"	¡Se han escapado todos!
-"043"	¡He atrapado {Blue}{Number (0x6)}
-"044"	¡Anda,{pause 10}!
-"045"	¡Mira,{pause 10}!
-"046"	Bah, qué torpe estoy{pause 10}
-"047"	¡Yuju!{pause 10}!
-"048"	¡Mira,{pause 10}!
-"049"	¡He atrapado {Blue}{Number (0x6)}
-"051"	¡Ya tenemos los materiales	para construir la balsa!{0007-0009-0004-78-00-00-00}
-"052"	¡Al fin tenemos la balsa lista!{pause 30}
+"043"	¡He atrapado {Blue}{Number (0x6)} pe{/z/ces}{Color Reset}!{pause 8}	L{/o/os} añadiré a las provisiones.
+"044"	¡Anda,{pause 10} un pez!{Wait for input}Pero no tengo caña...
+"045"	¡Mira,{pause 10} aquí hay peces! ♪{Wait for input}Yo soy capaz de atraparlos con las	manos,{pause 10} sin caña ni nada,{pause 10} ¡ya verás!
+"046"	Bah, qué torpe estoy{pause 10}.{pause 10}.{pause 10}.{pause 10}	No he pillado ni uno.
+"047"	¡Yuju!{pause 10} ¡He triunfado!{Wait for input}¡He atrapado {Blue}{Number (0x6)} pe{/z/ces}{Color Reset}	y {/lo/los} he añadido a las provisiones!
+"048"	¡Mira,{pause 10} aquí hay peces!{Wait for input}¡Vamos a pescar! ♪
+"049"	¡He atrapado {Blue}{Number (0x6)}{Color Reset}!{pause 8}	L{/o/os} añadiré a las provisiones.
+"051"	¡Ya tenemos los materiales	para construir la balsa!{Wait <0078 0000> 'time'}
+"052"	¡Al fin tenemos la balsa lista!{pause 30}	¡Vámonos de esta isla! ♪{Wait <0078 0000> 'time'}
 "053"	Las provisiones se han agotado.
 "054"	No hemos salido a tiempo de la isla.
-"055"	Vaya,{pause 10}
-"057"	¡Ay!{pause 10}
-"058"	¡Socorro,{pause 10}
-"059"	He podido salir,{pause 10}
-"060"	¿Y esto?{pause 8}
-"061"	A ver si lo puedo sacar	con {000e-0001-0000}
-"062"	De buena me he librado,{pause 10}
-"063"	Anda,{pause 10}
-"064"	He encontrado {Blue}{Number (0x6)}
-"065"	¡Porras!{pause 8}
-"066"	¡Una trampa!{pause 20}
-"067"	¡Aaah,{pause 10}!
-"068"	Mmm,{pause 10}
+"055"	Vaya,{pause 10} se ha roto	{000e-0001-0000}{Blue}{0014-0000-0002-cd00}{Color Reset}{pause 10}.{pause 10}.{pause 10}.
+"057"	¡Ay!{pause 10} ¡He caído en una trampa!
+"058"	¡Socorro,{pause 10} no me puedo mover!	¡Ayudaaa!
+"059"	He podido salir,{pause 10} ¡menos mal!
+"060"	¿Y esto?{pause 8} ¡Parece que aquí	hay algo enterrado!
+"061"	A ver si lo puedo sacar	con {000e-0001-0000}{Blue}{0014-0000-0002-cd00}{Color Reset}{pause 10}.{pause 10}.{pause 10}.
+"062"	De buena me he librado,{pause 10}	¡era una trampa!
+"063"	Anda,{pause 10} no era una trampa sin más.{pause 20}	¡He encontrado muchas cosas!
+"064"	He encontrado {Blue}{Number (0x6)} {/trampa/trampas}{Color Reset}.{Wait for input}¿Qué hago?{pause 8}	¿L{/a/as} entierro?{Player can respond (0005):0000-0000-0000-0000}	¡Claro!	Mejor no
+"065"	¡Porras!{pause 8} He caído en	nuestra propia trampa{pause 10}.{pause 10}.{pause 10}.
+"066"	¡Una trampa!{pause 20} ¡No!
+"067"	¡Aaah,{pause 10} no puedo salir de aquí!{pause 8}	¡Socorro!
+"068"	Mmm,{pause 10} creo que acabo	de cruzarme con algo{pause 10}.{pause 10}.{pause 10}.
 "070"	A ver qué materiales tenemos...
-"071"	Buen trabajo,{pause 10}
-"072"	¡No quedan provisiones!{pause 30}
-"073"	Mañana es el último día{pause 10}
+"071"	Buen trabajo,{pause 10} ¡a ver si conseguimos	escapar mañana!
+"072"	¡No quedan provisiones!{pause 30} Mañana sin	falta tenemos que buscar comida{pause 10}.{pause 10}.{pause 10}.
+"073"	Mañana es el último día{pause 10}.{pause 10}.{pause 10}.{pause 10}	¡Buena suerte!
 "074"	¿Qué hacemos?
 "075"	Cenar y dormir
 "076"	Fabricar algo
 "077"	Ver materiales
 "078"	Curar
-"079"	Tienes {Blue}{Number (0x6)}
-"080"	Un miembro del grupo puede hacer	primeros auxilios con provisiones.{0000-0004-0000}
-"081"	
-"082"	
-"083"	
+"079"	Tienes {Blue}{Number (0x6)}{Color Reset} medicin{/a/as}.	¿A quién quieres curar?
+"080"	Un miembro del grupo puede hacer	primeros auxilios con provisiones.{Wait for input}¿Quieres curarle las heridas	a alguien por {Blue}{Number (0x7)}{Color Reset} raci{/ón/ones}?
+"081"
+"082"
+"083"
 "084"	Cancelar
-"085"	¡{Orange}{0011-0001-0002-00-00}
-"086"	Todavía tenemos cosas que hacer.{pause 8}
-"087"	Tienes {Blue}{Number (0x6)}
-"088"	Un miembro del grupo puede hacer	primeros auxilios con provisiones.{0000-0004-0000}
-"089"	¡La {Blue}caña{Color Reset} está lista!{0000-0004-0000}
-"090"	¡El {Blue}tirachinas{Color Reset} está listo!{0000-0004-0000}
-"091"	¡La {Blue}red{Color Reset} está lista!{0000-0004-0000}
-"092"	¡La {Blue}pala{Color Reset} está lista!{0000-0004-0000}
-"093"	¡La {Blue}caña de plata{Color Reset} está lista!{0000-0004-0000}
-"094"	¡El {Blue}tirachinas de plata{Color Reset} está listo!{0000-0004-0000}
-"095"	¡La {Blue}red de plata{Color Reset} está lista!	Disipa la niebla{pause 8}
-"096"	¡La {Blue}pala de plata{Color Reset} está lista!{0000-0004-0000}
-"097"	¡La {Blue}caña de oro{Color Reset} está lista!{0000-0004-0000}
-"098"	¡El {Blue}tirachinas de oro{Color Reset} está listo!{0000-0004-0000}
-"099"	¡La {Blue}red de oro{Color Reset} está lista!	Despeja la niebla{pause 8}
-"100"	¡La {Blue}pala de oro{Color Reset} está lista!{0000-0004-0000}
-"101"	
-"102"	
-"103"	
-"104"	
+"085"	¡{Orange}{0011-0001-0002-0000}{Color Reset} ya está mejor!
+"086"	Todavía tenemos cosas que hacer.{pause 8}	¿Seguro que queremos dormir ya?{Player can respond (0005):0000-0000-0000-0000}	¡Hora de dormir!	¡Todavía no!
+"087"	Tienes {Blue}{Number (0x6)}{Color Reset} medicin{/a/as}.	¿Quieres curar a {Orange}{0011-0001-0002-0000}{Color Reset}?{Player can respond (0005):0000-0000-0000-0000}	Curar	Cancelar
+"088"	Un miembro del grupo puede hacer	primeros auxilios con provisiones.{Wait for input}¿Quieres curar las heridas de	{Orange}{0011-0001-0002-0000}{Color Reset} por {Blue}{Number (0x7)}{Color Reset} raci{/ón/ones}?{Player can respond (0005):0000-0000-0000-0000}	Sí	No
+"089"	¡La {Blue}caña{Color Reset} está lista!{Wait for input}¡Si pasamos junto a alguna orilla,{pause 10}	quizá pesquemos algo de cenar!
+"090"	¡El {Blue}tirachinas{Color Reset} está listo!{Wait for input}Nos ayudará a defendernos de las	alimañas silvestres{pause 10}.{pause 10}.{pause 10}.{pause 10} con suerte.
+"091"	¡La {Blue}red{Color Reset} está lista!{Wait for input}Con ella espantaremos a las abejas.{pause 8}	¡La miel será nuestra!
+"092"	¡La {Blue}pala{Color Reset} está lista!{Wait for input}¡Las trampas dejarán	de ser un problema!
+"093"	¡La {Blue}caña de plata{Color Reset} está lista!{Wait for input}¡Si pasamos junto a alguna orilla,{pause 10}	igual pescamos algo para la cena!
+"094"	¡El {Blue}tirachinas de plata{Color Reset} está listo!{Wait for input}¡Esas alimañas salvajes	no podrán con nosotros!
+"095"	¡La {Blue}red de plata{Color Reset} está lista!	Disipa la niebla{pause 8}.{pause 8}.{pause 8}.{Wait for input}coge materiales de casillas	adyacentes y espanta abejas.
+"096"	¡La {Blue}pala de plata{Color Reset} está lista!{Wait for input}¡Evitaremos las trampas y hasta	podremos desenterrar objetos!
+"097"	¡La {Blue}caña de oro{Color Reset} está lista!{Wait for input}¡Seguro que nos viene de perlas	para pescar algo de cena!
+"098"	¡El {Blue}tirachinas de oro{Color Reset} está listo!{Wait for input}¡Esas alimañas salvajes	no podrán con nosotros!
+"099"	¡La {Blue}red de oro{Color Reset} está lista!	Despeja la niebla{pause 8}.{pause 8}.{pause 8}.{Wait for input}coge materiales de casillas	adyacentes y espanta abejas.
+"100"	¡La {Blue}pala de oro{Color Reset} está lista!{Wait for input}¡Evitaremos las trampas y hasta	podremos desenterrar objetos!
+"101"
+"102"
+"103"
+"104"
 "105"	No se ha podido guardar	la partida. Volverás a la	pantalla del título.
-"106"	¿Quieres fabricar	{Article(word-dependant)}
-"107"	
-"108"	
-"109"	
-"110"	
-"111"	
-"112"	
-"113"	
-"114"	
-"115"	
-"116"	
-"117"	
-"119"	Puedes usar tus {Blue}amiibo{Color Reset} (toca )	o gastar {Orange}{Number (0x6)}
-"120"	¿Quieres volver a jugar	con el mismo grupo?{Player can respond: 0005-00-00-00-00-00-00-00-00}
+"106"	¿Quieres fabricar	{Article(word-dependant)}{0014-0000-0002-cd00}?{Player can respond (0006):0000-0000-0000-0000-0000-0000}	¡Manos a la obra!	¿Para qué sirve?	Ahora mismo no...
+"107"
+"108"
+"109"
+"110"
+"111"
+"112"
+"113"
+"114"
+"115"
+"116"
+"117"
+"119"	Puedes usar tus {Blue}amiibo{Color Reset} (toca )	o gastar {Orange}{Number (0x6)} moneda{//s} de juego {Color Reset}	para elegir hasta 3 acompañantes.
+"120"	¿Quieres volver a jugar	con el mismo grupo?{Player can respond (0005):0000-0000-0000-0000}	¡Vamos allá!	¡No, cambio de grupo!
 "121"	No tienes suficientes	{Orange}monedas de juego {Orange}{Orange}{Color Reset}.
 "122"	Acerca un {Blue}amiibo de Animal	Crossing{Color Reset} a la pantalla táctil.
 "123"	Enciende el {Blue}lector/grabador de NFC	para Nintendo 3DS{Color Reset}. Así estará listo	para leer el {Blue}amiibo{Color Reset}.	A continuación, acerca a él	un {Blue}amiibo{Color Reset} de Animal Crossing	compatible.
-"124"	
-"125"	¿Cuál de los dos quieres que se	añada al grupo, {Orange}Tendo {Color Reset}o {Orange}Nendo{Color Reset}?{Player can respond: 0000-00-00-00-00-00-00-00-00}
+"124"
+"125"	¿Cuál de los dos quieres que se	añada al grupo, {Orange}Tendo {Color Reset}o {Orange}Nendo{Color Reset}?{Player can respond (0000):0000-0000-0000-0000}	Tendo	Nendo
 "126"	¡Tanto {Orange}Tendo {Color Reset}como {Orange}Nendo{Color Reset}	ya forman parte del grupo!
-"127"	¡{Orange}{0011-0001-0002-00-00}
-"128"	
+"127"	¡{Orange}{0011-0001-0002-0000} {Color Reset}ya forma	parte del grupo!
+"128"
 "129"	Usa un {Blue}amiibo {Color Reset}en lugar	de {Orange}monedas de juego {Orange}{Orange}{Color Reset}.
-"130"	¿Quieres volver a jugar?{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"131"	¿Quieres volver a jugar?{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"132"	¿Quieres volver a jugar?{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"133"	
-"134"	¿Quieres volver a jugar	con el mismo grupo?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"135"	¿Quieres volver a jugar	con el mismo grupo?{Player can respond: 0005-00-00-00-00-00-00-00-00}
+"130"	¿Quieres volver a jugar?{Player can respond (0000):0000-0000-0000-0000}	¡Sí!	Volver al título
+"131"	¿Quieres volver a jugar?{Player can respond (0000):0000-0000-0000-0000}	¡Sí!	Volver al título
+"132"	¿Quieres volver a jugar?{Player can respond (0000):0000-0000-0000-0000}	¡Sí! {Gray}({Number (0x6)} ){Color Reset}	Volver al título
+"133"
+"134"	¿Quieres volver a jugar	con el mismo grupo?{Player can respond (0005):0000-0000-0000-0000}	¡Vamos allá! {Number (0x6)} 	¡No, cambio de grupo!
+"135"	¿Quieres volver a jugar	con el mismo grupo?{Player can respond (0005):0000-0000-0000-0000}	{Gray}¡Vamos allá! {Number (0x6)} {Color Reset}	¡No, cambio de grupo!
 == 2 ==
-"002"	Aah !{pause 10}
-"003"	Tu as perdu le combat...{pause 10}
-"004"	Bien !{pause 10}!
-"005"	Tu as perdu le combat{pause 10}
-"006"	Tu as chassé {000e-0001-0000}
-"007"	Tu as chassé {000e-0001-0000}
-"008"	Tu as chassé {000e-0001-0000}
+"002"	Aah !{pause 10} C'est {Article(word-dependant)}{Blue}{0014-0001-0002-cd00}{Color Reset} !{pause 8}	Que faire ?!{Player can respond (0000):0000-0000-0000-0000}	Je l'affronte !	Sauve qui peut !
+"003"	Tu as perdu le combat...{pause 10}	Ouille, ouille, ouille...
+"004"	Bien !{pause 10} Tu as vaincu {000e-0001-0000}	{Blue}{0014-0001-0002-cd00}{Color Reset} !
+"005"	Tu as perdu le combat{pause 10} et en plus	tu t'es fait empoisonner...
+"006"	Tu as chassé {000e-0001-0000}{Blue}{0014-0001-0002-cd00}{Color Reset}	mais tu t'es fait empoisonner...
+"007"	Tu as chassé {000e-0001-0000}{Blue}{0014-0001-0002-cd00}	{Color Reset}et en plus...	... tu as obtenu	{Article(word-dependant)}{0014-0000-0002-cd00} !
+"008"	Tu as chassé {000e-0001-0000}{Blue}{0014-0001-0002-cd00}	{Color Reset}et tu as obtenu {Blue}{Number (0x6)}{Color Reset} {/ration/rations} de vivres !
 "009"	Vas-tu réussir à t'enfuir ?
 "010"	Tu n'as pas pu t'enfuir...
-"011"	Ouf !{pause 10}
-"012"	Tu n'as pas réussi à t'enfuir{pause 10}
-"013"	Aah !{pause 10}
-"014"	Bien !{pause 10}!
-"015"	{0000-0002-0002-ffffff96-00}AÏEUH !{0000-0002-0002-64-00}{0000-0004-0000}
-"016"	Tu ressens la présence d'une bête	sauvage...{pause 15}
-"017"	Ouah,{pause 10}
+"011"	Ouf !{pause 10} Tu as réussi à t'enfuir !
+"012"	Tu n'as pas réussi à t'enfuir{pause 10} et en	plus tu t'es fait empoisonner...
+"013"	Aah !{pause 10} C'est {Article(word-dependant)}{Blue}{0014-0001-0002-cd00}{Color Reset} !{pause 8}	Utilise ton {Blue}{0014-0000-0002-cd00}{Color Reset} !
+"014"	Bien !{pause 10} Tu as vaincu {000e-0001-0000}	{Blue}{0014-0001-0002-cd00}{Color Reset} !
+"015"	{Text size 150%}AÏEUH !{Text size 100%}{Wait for input}... Oh, mais tu as quand même	chassé {000e-0001-0000}{Blue}{0014-0001-0002-cd00}{Color Reset} !
+"016"	Tu ressens la présence d'une bête	sauvage...{pause 15} Essaie de te faufiler...
+"017"	Ouah,{pause 10} {Article(word-dependant)}{Blue}{0014-0001-0002-cd00}{Color Reset} !{pause 8}	{0014-0004-0010-0004-0049-006c-0008-0045-006c-006c-0065} a repéré ta présence !
 "018"	Tu as réussi à ne pas te faire	repérer !
-"019"	Oh, {000e-0001-0000}
-"021"	Oh !{pause 10}
-"022"	Si tu chasses les abeilles, tu pourras	peut-être prendre le miel...{Player can respond: 0005-00-00-00-00-00-00-00-00}!
-"023"	Oh !{pause 10}
-"024"	Oh !{pause 10}
-"025"	Oh ! Une ruche ! ♪{pause 10}
-"026"	Oh non,{pause 10}
-"027"	La ruche est tombée,{pause 10}
-"028"	Bien !{pause 10}!
-"029"	Tu ne veux pas te faire piquer,{pause 10}
-"030"	Oh ! Une ruche ! ♪{pause 10}
-"031"	Bien !{pause 10}!
-"032"	Aïe... Tu as percuté un arbre... Mais	tu as trouvé {Blue}{Number (0x6)}
+"019"	Oh, {000e-0001-0000}{Blue}{0014-0001-0002-cd00}{Color Reset} est	tombé{0014-0004-0006-0000-0002-0065} dans un piège...!{Wait for input}Profites-en pour fuir !
+"021"	Oh !{pause 10} Une ruche !
+"022"	Si tu chasses les abeilles, tu pourras	peut-être prendre le miel...{Player can respond (0005):0000-0000-0000-0000}	Chassons-les !	Éloignons-nous...
+"023"	Oh !{pause 10} Une ruche !{Wait for input}Avec ton {Blue}filet{Color Reset},{pause 10} tu devrais pouvoir	chasser les abeilles facilement.{Player can respond (0005):0000-0000-0000-0000}	Chassons-les !	Éloignons-nous...
+"024"	Oh !{pause 10} Une ruche ! ♪{pause 8}	À toi le bon miel !
+"025"	Oh ! Une ruche ! ♪{pause 10} Utilise ton {Blue}filet{Color Reset}	pour récolter du miel !
+"026"	Oh non,{pause 10} tu t'es fait piquer par les	abeilles... Ouille, ouille, ouille...{pause 8}
+"027"	La ruche est tombée,{pause 10}	le miel est fichu...
+"028"	Bien !{pause 10} Tu as chassé les abeilles !{Wait for input}Tu as obtenu {Blue}{Number (0x6)} portions de miel{Color Reset} !	Votre stock de vivres a augmenté !
+"029"	Tu ne veux pas te faire piquer,{pause 10}	alors tu t'éloignes doucement...
+"030"	Oh ! Une ruche ! ♪{pause 10} Récolte son miel	avec ton {Blue}{0014-0000-0002-cd00} {Color Reset}!
+"031"	Bien !{pause 10} Tu as chassé les abeilles !{Wait for input}Tu as obtenu {Blue}{Number (0x6)} {/portion/portions} de miel{Color Reset} !	Votre stock de vivres a augmenté !
+"032"	Aïe... Tu as percuté un arbre... Mais	tu as trouvé {Blue}{Number (0x6)} portion{//s} de miel{Color Reset} !
 "034"	Tu as trouvé un arbre plein	de {Blue}noix de coco {Color Reset}!
 "035"	Oui ! ♪ Tu as trouvé un arbre plein	de {Blue}noix de coco{Color Reset} ! Ton fruit préféré !
-"036"	Tu as trouvé un arbre plein	{<06>de <04>d'}{Blue}{0014-0002-0002-00-ffffffcd}{Color Reset} !
-"037"	Un arbre plein {<06>de <04>d'}{Blue}{0014-0002-0002-00-ffffffcd}{Color Reset} !	Ton fruit préféré ! Youpi ! ♪
+"036"	Tu as trouvé un arbre plein	{de /d'}{Blue}{0014-0002-0002-cd00}{Color Reset} !
+"037"	Un arbre plein {de /d'}{Blue}{0014-0002-0002-cd00}{Color Reset} !	Ton fruit préféré ! Youpi ! ♪
 "038"	Secoue l'arbre pour les cueillir !
-"039"	Bonne nouvelle ! Tu as trouvé	{Blue}{Number (0x6)}
-"041"	Oh !{pause 10}
+"039"	Bonne nouvelle ! Tu as trouvé	{Blue}{Number (0x6)} {/ration/rations} {Color Reset}de vivres !
+"041"	Oh !{pause 10} Des poissons !{pause 8}	Essaie d'en pêcher !
 "042"	Tu n'en as pas pêché un seul...
-"043"	Tu as pêché {Blue}{Number (0x6)}
-"044"	Oh !{pause 10}
-"045"	Oh !{pause 10}
-"046"	Pas une seule prise...{pause 8}!
-"047"	Bien !{pause 10}!
-"048"	Oh !{pause 10}
-"049"	Tu as pêché {Blue}{Number (0x6)}
-"051"	Bien ! Fabriquez un radeau avec	tout ce que vous avez trouvé !{0007-0009-0004-78-00-00-00}!
-"052"	Le radeau est prêt !{pause 8}
+"043"	Tu as pêché {Blue}{Number (0x6)} poissons{Color Reset} !	Votre stock de vivres a augmenté !
+"044"	Oh !{pause 10} Des poissons !{Wait for input}Mais tu n'as pas de canne à pêche...
+"045"	Oh !{pause 10} Des poissons ! ♪{Wait for input}Attraper les poissons, c'est ta	spécialité ! Pas besoin de canne !
+"046"	Pas une seule prise...{pause 8}	Tu n'étais pas très en forme... 
+"047"	Bien !{pause 10} Tu as réussi !{Wait for input}Tu as attrapé {Blue}{Number (0x6)} poissons{Color Reset} !	Votre stock de vivres a augmenté !
+"048"	Oh !{pause 10} Des poissons !{pause 8}	Vas-y, pêche-les ! ♪
+"049"	Tu as pêché {Blue}{Number (0x6)}{Color Reset} poisson{//s} !{pause 8}	Votre stock de vivres a augmenté !
+"051"	Bien ! Fabriquez un radeau avec	tout ce que vous avez trouvé !{Wait <0078 0000> 'time'}
+"052"	Le radeau est prêt !{pause 8}	Vous pouvez quitter l'île !{Wait <0078 0000> 'time'}
 "053"	Vous n'avez pas rassemblé	assez de vivres...
 "054"	Vous n'avez pas pu quitter l'île	à temps...
-"055"	Oh non, {000e-0001-0000}!
-"057"	OUAH !{pause 10}!
-"058"	Oh non ! Comment sortir de là...{pause 8}
+"055"	Oh non, {000e-0001-0000}{Blue}{0014-0000-0002-cd00} {Color Reset}	s'est cassé{/e/}...
+"057"	OUAH !{pause 10} Un trou !
+"058"	Oh non ! Comment sortir de là...{pause 8}	À l'aide !
 "059"	Tu as réussi à t'en sortir !
-"060"	Oh...!{pause 8}!
-"061"	Creuse avec ta	{Blue}{0014-0000-0002-00-ffffffcd}{Color Reset}...
-"062"	Tu as eu chaud !{pause 8}
+"060"	Oh...!{pause 8}	Il y a quelque chose d'enterré !
+"061"	Creuse avec ta	{Blue}{0014-0000-0002-cd00}{Color Reset}...
+"062"	Tu as eu chaud !{pause 8}	C'était un piège !
 "063"	Tu as déterré plein de choses !
-"064"	Tu as trouvé {Blue}{Number (0x6)}
-"065"	Ouah !{pause 8}!
-"066"	Ouah !{pause 10}!
-"067"	Oh non ! Comment sortir de là...{pause 8}
-"068"	... Hm ?{pause 8}
+"064"	Tu as trouvé {Blue}{Number (0x6)} {/piège/pièges}{Color Reset} !{Wait for input}Veux-tu {/l'/les }enterrer ?{Player can respond (0005):0000-0000-0000-0000}	Oui !	Non...
+"065"	Ouah !{pause 8} C'est ton propre piège !	Quelle tuile de tomber dedans !
+"066"	Ouah !{pause 10} Un piège !!!
+"067"	Oh non ! Comment sortir de là...{pause 8}	À l'aide !
+"068"	... Hm ?{pause 8} Tu as l'impression d'être	passé à côté de quelque chose...
 "070"	Inspection de l'inventaire...
-"071"	Voilà une journée bien remplie !{pause 8}
-"072"	Votre stock de vivres est épuisé !{pause 30}
+"071"	Voilà une journée bien remplie !{pause 8}	Continuez comme ça demain !
+"072"	Votre stock de vivres est épuisé !{pause 30}	Il faudra trouver à manger demain...
 "073"	Demain sera le dernier jour...
 "074"	... Bien, que voulez-vous faire ?
 "075"	Manger et dormir.
 "076"	Fabriquer un objet.
 "077"	Voir l'inventaire.
 "078"	Soigner un blessé.
-"079"	Qui veux-tu soigner ?	(Tu as {Blue}{Number (0x6)}
-"080"	Quelqu'un dans le groupe peut	soigner les blessés avec des vivres.{0000-0004-0000}
-"081"	
-"082"	
-"083"	
+"079"	Qui veux-tu soigner ?	(Tu as {Blue}{Number (0x6)} {/remède/remèdes}{Color Reset}.)
+"080"	Quelqu'un dans le groupe peut	soigner les blessés avec des vivres.{Wait for input}Qui veux-tu soigner ?	(Il reste {Blue}{Number (0x7)} {/ration/rations}{Color Reset} de vivres.)
+"081"
+"082"
+"083"
 "084"	Annuler.
-"085"	{Orange}{0011-0001-0002-00-00}
-"086"	Déjà ? Il y a encore des choses que	vous pouvez faire avant de dormir.{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"087"	Veux-tu soigner {Orange}{0011-0001-0002-00-00}
-"088"	Quelqu'un dans le groupe peut	soigner les blessés avec des vivres.{0000-0004-0000}
-"089"	Et voilà ! Une {Blue}canne à pêche {Color Reset}!{0000-0004-0000}!
-"090"	Et voilà ! Un {Blue}lance-pierre {Color Reset}!{0000-0004-0000}
-"091"	Et voilà ! Un {Blue}filet {Color Reset}!{0000-0004-0000}
-"092"	Et voilà ! Une {Blue}pelle{Color Reset} !{0000-0004-0000}!
-"093"	Et voilà !	Une {Blue}canne à pêche argent{Color Reset} !{0000-0004-0000}
-"094"	Et voilà ! Un {Blue}lance-pierre argent{Color Reset} !{0000-0004-0000}
-"095"	Et voilà ! Un {Blue}filet d'argent {Color Reset}!{0000-0004-0000}!
-"096"	Et voilà ! Une {Blue}pelle d'argent {Color Reset}!{0000-0004-0000}
-"097"	Et voilà ! Une {Blue}canne à pêche dorée{Color Reset} !{0000-0004-0000}
-"098"	Et voilà ! Un {Blue}lance-pierre doré{Color Reset} !{0000-0004-0000}
-"099"	Et voilà ! Un {Blue}filet doré {Color Reset}!{0000-0004-0000}
-"100"	Et voilà ! Une {Blue}pelle dorée {Color Reset}!{0000-0004-0000}
-"101"	
-"102"	
-"103"	
-"104"	
+"085"	{Orange}{0011-0001-0002-0000}{Color Reset} se sent mieux !
+"086"	Déjà ? Il y a encore des choses que	vous pouvez faire avant de dormir.{Player can respond (0005):0000-0000-0000-0000}	Oui, au lit !	C'est vrai, tiens !
+"087"	Veux-tu soigner {Orange}{0011-0001-0002-0000}{Color Reset} ?	(Tu as {Blue}{Number (0x6)} {/remède/remèdes}{Color Reset}.){Player can respond (0005):0000-0000-0000-0000}	Oui.	Non.
+"088"	Quelqu'un dans le groupe peut	soigner les blessés avec des vivres.{Wait for input}Veux-tu soigner {Orange}{0011-0001-0002-0000}{Color Reset} ?	(Il reste {Blue}{Number (0x7)} {/ration/rations}{Color Reset} de vivres.){Player can respond (0005):0000-0000-0000-0000}	Oui.	Non.
+"089"	Et voilà ! Une {Blue}canne à pêche {Color Reset}!{Wait for input}Vous pourrez pêcher des poissons	pour les manger !
+"090"	Et voilà ! Un {Blue}lance-pierre {Color Reset}!{Wait for input}Plus rien à craindre des créatures	sauvages... ou presque...
+"091"	Et voilà ! Un {Blue}filet {Color Reset}!{Wait for input}Vous pourrez chasser les abeilles et	récolter du miel plus facilement !
+"092"	Et voilà ! Une {Blue}pelle{Color Reset} !{Wait for input}Avec elle, vous n'avez plus rien à	craindre des pièges !
+"093"	Et voilà !	Une {Blue}canne à pêche argent{Color Reset} !{Wait for input}Vous pourrez pêcher des poissons	pour les manger !
+"094"	Et voilà ! Un {Blue}lance-pierre argent{Color Reset} !{Wait for input}Vous n'avez plus rien à craindre	des créatures sauvages ! ♪
+"095"	Et voilà ! Un {Blue}filet d'argent {Color Reset}!{Wait for input}Il peut chasser les abeilles, dissiper	la brume et attraper des objets !
+"096"	Et voilà ! Une {Blue}pelle d'argent {Color Reset}!{Wait for input}Elle vous évitera de tomber dans les	pièges et peut déterrer des objets !
+"097"	Et voilà ! Une {Blue}canne à pêche dorée{Color Reset} !{Wait for input}Vous pourrez pêcher des poissons	pour les manger !
+"098"	Et voilà ! Un {Blue}lance-pierre doré{Color Reset} !{Wait for input}Vous n'avez plus rien à craindre	des créatures sauvages ! ♪
+"099"	Et voilà ! Un {Blue}filet doré {Color Reset}!{Wait for input}Il peut chasser les abeilles, dissiper	la brume et attraper des objets !
+"100"	Et voilà ! Une {Blue}pelle dorée {Color Reset}!{Wait for input}Elle vous évitera de tomber dans les	pièges et peut déterrer des objets !
+"101"
+"102"
+"103"
+"104"
 "105"	La sauvegarde a échoué.	Retour à l'écran titre.
-"106"	Fabriquer	{Article(word-dependant)}
-"107"	
-"108"	
-"109"	
-"110"	
-"111"	
-"112"	
-"113"	
-"114"	
-"115"	
-"116"	
-"117"	
-"119"	Choisis trois aventuriers. Tu peux	scanner leurs {Blue} amiibo{Color Reset} ou utiliser	{Orange}{Number (0x6)}
-"120"	Recommencer une partie avec	les mêmes personnages ?{Player can respond: 0005-00-00-00-00-00-00-00-00}
+"106"	Fabriquer	{Article(word-dependant)}{0014-0000-0002-cd00} ?{Player can respond (0006):0000-0000-0000-0000-0000-0000}	Ouaip !	C'est-à-dire ?	Pas envie.
+"107"
+"108"
+"109"
+"110"
+"111"
+"112"
+"113"
+"114"
+"115"
+"116"
+"117"
+"119"	Choisis trois aventuriers. Tu peux	scanner leurs {Blue} amiibo{Color Reset} ou utiliser	{Orange}{Number (0x6)}  pièces de jeu {Color Reset}(par aventurier).
+"120"	Recommencer une partie avec	les mêmes personnages ?{Player can respond (0005):0000-0000-0000-0000}	Oui.	Autres personnages.
 "121"	Tu n'as pas assez de	{Orange} pièces de jeu{Color Reset} !
 "122"	Place un {Blue}amiibo Animal Crossing{Color Reset}	sur l'écran tactile.
 "123"	Allume le {Blue}lecteur/enregistreur NFC	Nintendo 3DS{Color Reset} afin de pouvoir	lire un amiibo.	Ensuite, scanne un {Blue}amiibo{Color Reset}	compatible Animal Crossing.
-"124"	
-"125"	Veux-tu recruter {Orange}Méli{Color Reset} ou {Orange}Mélo{Color Reset} ?{Player can respond: 0000-00-00-00-00-00-00-00-00}
+"124"
+"125"	Veux-tu recruter {Orange}Méli{Color Reset} ou {Orange}Mélo{Color Reset} ?{Player can respond (0000):0000-0000-0000-0000}	Méli.	Mélo.
 "126"	Tu as déjà recruté	{Orange}Méli{Color Reset} et {Orange}Mélo{Color Reset} !
-"127"	Tu as déjà recruté	{Orange}{0011-0001-0002-00-00}
-"128"	
+"127"	Tu as déjà recruté	{Orange}{0011-0001-0002-0000}{Color Reset}.
+"128"
 "129"	Utilise un {Blue}amiibo{Color Reset} plutôt	que des {Orange} pièces de jeu{Color Reset}.
-"130"	Tu veux refaire une partie ?{Player can respond: 0000-00-00-00-00-00-00-00-00}!
-"131"	Tu veux refaire une partie ?{Player can respond: 0000-00-00-00-00-00-00-00-00}!
-"132"	Tu veux refaire une partie ?{Player can respond: 0005-00-00-00-00-00-00-00-00}!
-"133"	
-"134"	Recommencer une partie avec	les mêmes personnages ?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"135"	Recommencer une partie avec	les mêmes personnages ?{Player can respond: 0005-00-00-00-00-00-00-00-00}
+"130"	Tu veux refaire une partie ?{Player can respond (0000):0000-0000-0000-0000}	Ouais !	Nan.
+"131"	Tu veux refaire une partie ?{Player can respond (0000):0000-0000-0000-0000}	Ouais ! ({Number (0x6)} )	Nan.
+"132"	Tu veux refaire une partie ?{Player can respond (0005):0000-0000-0000-0000}	{Gray}Ouais ! ({Number (0x6)} {Gray}{Gray}){Color Reset}	Nan.
+"133"
+"134"	Recommencer une partie avec	les mêmes personnages ?{Player can respond (0005):0000-0000-0000-0000}	Oui ({Number (0x6)} ).	Autres personnages.
+"135"	Recommencer une partie avec	les mêmes personnages ?{Player can respond (0005):0000-0000-0000-0000}	{Gray}Oui ({Number (0x6)} ).{Color Reset}	Autres personnages.
 == 3 ==
-"002"	Urgh! {pause 10}!
+"002"	Urgh! {pause 10}È {Article(word-dependant)}{Blue}{0014-0001-0002-cd00}{Color Reset}!{pause 8}	E ora che faccio?!{Player can respond (0000):0000-0000-0000-0000}	Lotta!	Scappa!
 "003"	Ahia!	Il gusto amaro della sconfitta...
-"004"	Aha!{pause 10}
-"005"	Però. {pause 10}!
+"004"	Aha!{pause 10} Ho sconfitto	{000e-0001-0000}{Blue}{0014-0001-0002-cd00}{Color Reset}!
+"005"	Però. {pause 10}Non solo ho perso lo scontro,	ma mi ha pure avvelenato.
 "006"	Quella bestiaccia mi ha avvelenato!	Però almeno l'ho scacciata...
-"007"	Sì!{pause 10}
-"008"	Sì!{pause 10}
+"007"	Sì!{pause 10} Ho scacciato quella bestiaccia e	ho preso {Article(word-dependant)}{0014-0000-0002-cd00}!
+"008"	Sì!{pause 10} Ho scacciato quella bestiaccia	e ho preso {Blue}{Number (0x6)} {razioni/razione/razioni}{Color Reset} di cibo!
 "009"	Ce la farò...?
-"010"	Uff!{pause 10}
-"011"	Fiuu!{pause 10}
+"010"	Uff!{pause 10} Non ce l'ho fatta a scappare	in tempo...
+"011"	Fiuu!{pause 10} Meno male! Ce l'ho fatta!
 "012"	Argh. Non ce l'ho fatta a scappare,	e mi ha pure avvelenato.
-"013"	ARGH! È {Article(word-dependant)}!
-"014"	Evviva! Ho scacciato	{000e-0001-0000}
-"015"	{0000-0002-0002-ffffff96-00}Ahia!{0000-0002-0002-64-00}{0000-0004-0000}
-"016"	Sento la presenza di una creatura	nei paraggi{pause 10}
-"017"	Argh!{pause 10}
+"013"	ARGH! È {Article(word-dependant)}{Blue}{0014-0001-0002-cd00}{Color Reset}!{pause 8}	Ora uso {000e-0001-0000}{0014-0000-0002-cd00}!
+"014"	Evviva! Ho scacciato	{000e-0001-0000}{Blue}{0014-0001-0002-cd00}{Color Reset}!
+"015"	{Text size 150%}Ahia!{Text size 100%}{Wait for input}Beh, almeno ho scacciato	{000e-0001-0000}{Blue}{0014-0001-0002-cd00}{Color Reset}...
+"016"	Sento la presenza di una creatura	nei paraggi{pause 10}.{pause 10}.{pause 10}.{pause 10} Provo a svignarmela.
+"017"	Argh!{pause 10} È {Article(word-dependant)}{Blue}{0014-0001-0002-cd00}{Color Reset}!{pause 8}	Mi ha scoperto!
 "018"	Uau! L'ho scampata bella!
-"019"	Pare che {000e-0001-0000}
-"021"	Oooh! {pause 10}!
-"022"	Se riuscissi a scacciare via le api,	potrei prendere un po' di miele...{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"023"	Oh-oh! {pause 10}
-"024"	Oh!{pause 10}
-"025"	Oh! Un alveare!{pause 10}
-"026"	AHIA!{pause 10}
-"027"	Oh, no!{pause 10}
-"028"	Ah!{pause 10}
-"029"	Non mi piacciono i pungiglioni delle	api...{pause 10}!
-"030"	Oh! Un alveare!{pause 10}
-"031"	Evvai!{pause 10}!
-"032"	Ahi! Ho preso l'albero!{0000-0004-0000}
+"019"	Pare che {000e-0001-0000}{Blue}{0014-0001-0002-cd00}{Color Reset}	sia in trappola! Meglio scappare!
+"021"	Oooh! {pause 10}È un alveare!
+"022"	Se riuscissi a scacciare via le api,	potrei prendere un po' di miele...{Player can respond (0005):0000-0000-0000-0000}	Scacciale via!	Svignatela...
+"023"	Oh-oh! {pause 10}Un alveare!{Wait for input}Mmm{pause 15}.{pause 15}.{pause 15}.{pause 15} Ho un {Blue}retino{Color Reset}. {pause 30}Forse posso	usarlo per scacciare le api?{Player can respond (0005):0000-0000-0000-0000}	Scacciale via!	Svignatela...
+"024"	Oh!{pause 10} Ho trovato un alveare.{pause 8}	Quanto mi piace il mieleee! ♪
+"025"	Oh! Un alveare!{pause 10} Userò il {Blue}retino{Color Reset}	per raccogliere il miele!
+"026"	AHIA!{pause 10} Le punture di api	fanno proprio male...
+"027"	Oh, no!{pause 10} Le api sono scappate via	tutte, ma il miele è andato perduto!
+"028"	Ah!{pause 10} Ho scacciato via quelle api!{Wait for input}Adesso abbiamo {Blue}{Number (0x6)}{Color Reset} {Blue}{razioni/razione/razioni}{Color Reset} di cibo	in più nelle scorte... ed è {Blue}miele{Color Reset}!
+"029"	Non mi piacciono i pungiglioni delle	api...{pause 10} Me la svigno piano piano...
+"030"	Oh! Un alveare!{pause 10} Raccoglierò il miele	con {000e-0001-0000}{Blue}{0014-0000-0002-cd00}{Color Reset}!
+"031"	Evvai!{pause 10} Ho scacciato quelle api!{Wait for input}Adesso abbiamo {Blue}{Number (0x6)}{Color Reset} {Blue}{Blue}{razioni/razione/razioni}{Blue} {Color Reset}di cibo	in più nelle scorte... ed è {Blue}miele{Color Reset}!
+"032"	Ahi! Ho preso l'albero!{Wait for input}Ma ho messo {Blue}{Number (0x6)} {razioni/razione/razioni} di miele	{Color Reset}nelle scorte di cibo.
 "034"	Oh! Ho trovato una {Blue}palma{Color Reset}!
 "035"	Evviva! Ho trovato una {Blue}palma{Color Reset}! ♪
-"036"	Oh! Quest'albero è ricolmo di	{Blue}{0014-0002-0002-00-ffffffcd}{Color Reset}! Che delizia!
-"037"	Oh! Quest'albero è ricolmo di	{Blue}{0014-0002-0002-00-ffffffcd}{Color Reset}! Mmm, che bontà! ♪
+"036"	Oh! Quest'albero è ricolmo di	{Blue}{0014-0002-0002-cd00}{Color Reset}! Che delizia!
+"037"	Oh! Quest'albero è ricolmo di	{Blue}{0014-0002-0002-cd00}{Color Reset}! Mmm, che bontà! ♪
 "038"	Ora scuoto l'albero per	prendere la frutta!
-"039"	Ho trovato del cibo! Le scorte	aumentano di {Blue}{Number (0x6)}
-"041"	Guarda...{pause 10}
+"039"	Ho trovato del cibo! Le scorte	aumentano di {Blue}{Number (0x6)} {Blue}{razioni/razione/razioni}{Blue}{Color Reset}!
+"041"	Guarda...{pause 10} dei pesci!	{pause 8}Ora provo a catturarli!
 "042"	Non ne ho preso nemmeno uno...
-"043"	Ne ho {<0a>presi<0a>preso<0a>presi} {Blue}{Number (0x6)}
-"044"	Uffa!{pause 10}
-"045"	Ah!{pause 10}
-"046"	Uff...{pause 8}!
-"047"	Visto?!{pause 10}
-"048"	Ehi!{pause 10}
-"049"	Ho preso {Blue}{Number (0x6)}
-"051"	A quanto pare possiamo costruire	una zattera!{0007-0009-0004-78-00-00-00}
-"052"	Che bella zattera!{pause 30}
+"043"	Ne ho {presi/preso/presi} {Blue}{Number (0x6)}{Color Reset}.{pause 8}	Le scorte di cibo sono aumentate!
+"044"	Uffa!{pause 10} Ho appena visto un pesce,	ma non ho una canna da pesca...
+"045"	Ah!{pause 10} C'è del pesce qui! ♪{Wait for input}Pescare è la mia specialità, ce	la faccio anche a mani nude!
+"046"	Uff...{pause 8} Non ho preso proprio	un bel niente!
+"047"	Visto?!{pause 10} Questo si chiama pescare!{Wait for input}Ho preso {Blue}{Number (0x6)} {Blue}pesc{i/e/i}{Blue}{Color Reset}!{pause 8} Le scorte	di cibo sono aumentate!
+"048"	Ehi!{pause 10} Ci sono dei pesci qui!{pause 8}	Ora li prendo tutti! ♪
+"049"	Ho preso {Blue}{Number (0x6)} {pesci/pesce/pesci}{Color Reset}!{pause 8}	Le scorte di cibo sono aumentate!
+"051"	A quanto pare possiamo costruire	una zattera!{Wait <0078 0000> 'time'}
+"052"	Che bella zattera!{pause 30} Andiamocene da	quest'isola pericolosa! ♪{Wait <0078 0000> 'time'}
 "053"	Le scorte di cibo sono finite...
 "054"	Non ce l'abbiamo fatta a	fuggire dall'isola in tempo...
-"055"	Uffa, {000e-0001-0000}
-"057"	Nooo!{pause 10}
-"058"	Argh! Non posso muovermi!{pause 8}
+"055"	Uffa, {000e-0001-0000}{Blue}{0014-0000-0002-cd00}	{Color Reset}è inutilizzabile!
+"057"	Nooo!{pause 10} Una trappola!
+"058"	Argh! Non posso muovermi!{pause 8} AIUTO!
 "059"	Fiuuu... sono fuori, meno male!
-"060"	Uh...? {pause 8}
-"061"	Proverò a scavare con	{000e-0001-0000}
-"062"	Fiuuu, per un pelo!{pause 8}
+"060"	Uh...? {pause 8}Sembra che qui ci sia	sepolto qualcosa.
+"061"	Proverò a scavare con	{000e-0001-0000}{Blue}{0014-0000-0002-cd00}{Color Reset}...
+"062"	Fiuuu, per un pelo!{pause 8} Qualcuno	poteva cadere dentro la trappola!
 "063"	Ooh, guarda che ho trovato!
-"064"	Ho trovato {Blue}{Number (0x6)}
-"065"	Ahia!{pause 8}
-"066"	Argh!{pause 10}
-"067"	Aiutooo!{pause 8}
-"068"	Eh?{pause 8}
+"064"	Ho trovato {Blue}{Number (0x6)} {trappole/trappola/trappole}{Color Reset}!{Wait for input}Vuoi sotterrar{le/la/le}?{Player can respond (0005):0000-0000-0000-0000}	Sì!	Non serve.
+"065"	Ahia!{pause 8} Vittima della nostra	stessa trappola...
+"066"	Argh!{pause 10} Una trappola!
+"067"	Aiutooo!{pause 8} Non riesco a uscire!
+"068"	Eh?{pause 8} Che cos'era quello?
 "070"	Che ci sarà mai nell'inventario...?
-"071"	Bene!{pause 30}
-"072"	Oh oh! Non c'è più cibo!{pause 30}
-"073"	Domani è l'ultimo giorno, perciò...{pause 15}
+"071"	Bene!{pause 30} Forse domani riusciremo	ad abbandonare l'isola!
+"072"	Oh oh! Non c'è più cibo!{pause 30}	Domani dobbiamo trovarne un po'...
+"073"	Domani è l'ultimo giorno, perciò...{pause 15}	buona fortuna!
 "074"	E adesso cosa facciamo?
 "075"	Cena e nanna.
 "076"	Uno strumento.
 "077"	Materiali.
 "078"	Curate le ferite.
-"079"	Chi dobbiamo curare?	{Blue}Medicine{Color Reset} rimaste: {Blue}{Number (0x6)}
-"080"	In squadra c'è chi sa usare il cibo	per eseguire un primo soccorso.	Chi dobbiamo curare?	Razioni di cibo rimaste: {Blue}{Number (0x7)}
-"081"	
-"082"	
-"083"	
+"079"	Chi dobbiamo curare?	{Blue}Medicine{Color Reset} rimaste: {Blue}{Number (0x6)}{Color Reset}.
+"080"	In squadra c'è chi sa usare il cibo	per eseguire un primo soccorso.	Chi dobbiamo curare?	Razioni di cibo rimaste: {Blue}{Number (0x7)}{Color Reset}
+"081"
+"082"
+"083"
 "084"	Annulla.
-"085"	{Orange}{0011-0001-0002-00-00}
-"086"	Vuoi davvero che andiamo a	dormire? C'è del lavoro da fare!{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"087"	Dobbiamo curare {Orange}{0011-0001-0002-00-00}
-"088"	In squadra c'è chi sa usare il cibo	per effettuare un primo soccorso.{0000-0004-0000}
-"089"	Ta-daaa!{pause 20}
-"090"	Ta-daaa!{pause 20}
-"091"	Ta-daaa!{pause 20}
-"092"	Ta-daaa!{pause 20}
-"093"	Ta-daaa!{pause 20}
-"094"	Ta-daaa!{pause 20}
-"095"	Ta-daaa!{pause 20}
-"096"	Ta-daaa!{pause 20}
-"097"	Ta-daaa!{pause 20}
-"098"	Ta-daaa!{pause 20}
-"099"	Ta-daaa!{pause 20}
-"100"	Ta-daaa!{pause 20}
-"101"	
-"102"	
-"103"	
-"104"	
+"085"	{Orange}{0011-0001-0002-0000}{Color Reset} si sente meglio!
+"086"	Vuoi davvero che andiamo a	dormire? C'è del lavoro da fare!{Player can respond (0005):0000-0000-0000-0000}	È ora di dormire!	Non ancora!
+"087"	Dobbiamo curare {Orange}{0011-0001-0002-0000}{Color Reset}?	{Blue}Medicine{Color Reset} rimaste: {Blue}{Number (0x6)}{Color Reset}.{Player can respond (0005):0000-0000-0000-0000}	Curate.	Lasciamo stare.
+"088"	In squadra c'è chi sa usare il cibo	per effettuare un primo soccorso.{Wait for input}Dobbiamo curare {Orange}{0011-0001-0002-0000}{Color Reset}?	Razioni di cibo rimaste: {Blue}{Number (0x7)}{Color Reset}.{Player can respond (0005):0000-0000-0000-0000}	Curate.	Lasciamo stare.
+"089"	Ta-daaa!{pause 20} Una {Blue}canna da pesca{Color Reset}!{Wait for input}Ora possiamo pescare la cena	andando in riva al mare!
+"090"	Ta-daaa!{pause 20} Una {Blue}fionda{Color Reset}!{Wait for input}Ah, le creature della giungla non	hanno più scampo{pause 8}.{pause 8}.{pause 8}.{pause 8} si spera!
+"091"	Ta-daaa!{pause 20} Un {Blue}retino{Color Reset}!{Wait for input}Ora possiamo scacciar via le api,{pause 8}	e prenderci tutto il miele!
+"092"	Ta-daaa!{pause 20} Una {Blue}pala{Color Reset}!{Wait for input}Le trappole non saranno più	un problema!
+"093"	Ta-daaa!{pause 20} Una {Blue}canna d'argento{Color Reset}!{Wait for input}Andiamo subito a pescare la cena!
+"094"	Ta-daaa!{pause 20} Una {Blue}fionda d'argento{Color Reset}!{Wait for input}Quelle bestiacce ora non	hanno scampo!
+"095"	Ta-daaa!{pause 20} Un {Blue}retino d'argento{Color Reset}!{Wait for input}Ora possiamo disperdere la nebbia,	raccogliere oggetti e scacciare api!
+"096"	Ta-daaa!{pause 20} Una {Blue}pala d'argento{Color Reset}!{Wait for input}Basta cadere nelle trappole! Inoltre,	possiamo dissotterrare oggetti!
+"097"	Ta-daaa!{pause 20} Una {Blue}canna d'oro{Color Reset}!{Wait for input}Andiamo a pescare la cena!
+"098"	Ta-daaa!{pause 20} Una {Blue}fionda d'oro{Color Reset}!{Wait for input}Quelle bestiacce ora non	hanno scampo!
+"099"	Ta-daaa!{pause 20} Un {Blue}retino d'oro{Color Reset}!{Wait for input}Ora possiamo disperdere la nebbia,	raccogliere oggetti e scacciare api!
+"100"	Ta-daaa!{pause 20} Una {Blue}pala d'oro{Color Reset}!{Wait for input}Basta cadere nelle trappole! E ora	possiamo dissotterrare oggetti!
+"101"
+"102"
+"103"
+"104"
 "105"	Impossibile salvare.	Tornerai allo schermo	del titolo.
-"106"	Vuoi fare {Article(word-dependant)}
-"107"	
-"108"	
-"109"	
-"110"	
-"111"	
-"112"	
-"113"	
-"114"	
-"115"	
-"116"	
-"117"	
-"119"	Puoi usare un {Blue}amiibo{Color Reset} (toccando )	o scegliere fino a tre personaggi	usando {Orange}{Number (0x6)}
-"120"	Vuoi iniziare a giocare con gli stessi	personaggi? {Player can respond: 0005-00-00-00-00-00-00-00-00}!
+"106"	Vuoi fare {Article(word-dependant)}{0014-0000-0002-cd00}?{Player can respond (0006):0000-0000-0000-0000-0000-0000}	Sì.	Spiega un po'.	Preferisco di no.
+"107"
+"108"
+"109"
+"110"
+"111"
+"112"
+"113"
+"114"
+"115"
+"116"
+"117"
+"119"	Puoi usare un {Blue}amiibo{Color Reset} (toccando )	o scegliere fino a tre personaggi	usando {Orange}{Number (0x6)}  per ciascuno{Color Reset}.
+"120"	Vuoi iniziare a giocare con gli stessi	personaggi? {Player can respond (0005):0000-0000-0000-0000}	Sì!	No, li cambio.
 "121"	Non hai abbastanza	{Orange}monete di gioco {Color Reset}!
 "122"	Tocca lo schermo inferiore con	un {Blue}amiibo di Animal Crossing{Color Reset}.
 "123"	Accendi il {Blue}lettore/scrittore NFC	per Nintendo 3DS {Color Reset}per leggere	i dati di un {Blue}amiibo{Color Reset}.	Usa un {Blue}amiibo di Animal Crossing	{Color Reset}compatibile.
-"124"	
-"125"	Vuoi registrare come personaggio	{Orange}Mirco {Color Reset}o {Orange}Marco{Color Reset}?{Player can respond: 0000-00-00-00-00-00-00-00-00}
+"124"
+"125"	Vuoi registrare come personaggio	{Orange}Mirco {Color Reset}o {Orange}Marco{Color Reset}?{Player can respond (0000):0000-0000-0000-0000}	Mirco.	Marco.
 "126"	{Orange}Mirco {Color Reset}e {Orange}Marco {Color Reset}fanno già	parte del gruppo!
-"127"	{Orange}{0011-0001-0002-00-00}
-"128"	
+"127"	{Orange}{0011-0001-0002-0000} {Color Reset}è già stato	registrato!
+"128"
 "129"	Invece di usare {Orange}monete di gioco {Color Reset},	utilizza un {Blue}amiibo{Color Reset}.
-"130"	Vuoi giocare ancora?{Player can respond: 0000-00-00-00-00-00-00-00-00}!
-"131"	Vuoi giocare ancora?{Player can respond: 0000-00-00-00-00-00-00-00-00}!
-"132"	Vuoi giocare ancora?{Player can respond: 0000-00-00-00-00-00-00-00-00}!
-"133"	
-"134"	Vuoi iniziare a giocare con gli stessi	personaggi? {Player can respond: 0005-00-00-00-00-00-00-00-00}!
-"135"	Vuoi iniziare a giocare con gli stessi	personaggi? {Player can respond: 0005-00-00-00-00-00-00-00-00}!
+"130"	Vuoi giocare ancora?{Player can respond (0000):0000-0000-0000-0000}	Certo!	Torna al titolo.
+"131"	Vuoi giocare ancora?{Player can respond (0000):0000-0000-0000-0000}	Certo! {Gray}({Number (0x6)} ){Color Reset}	Torna al titolo.
+"132"	Vuoi giocare ancora?{Player can respond (0000):0000-0000-0000-0000}	Certo! {Gray}({Number (0x6)} ){Color Reset}	Torna al titolo.
+"133"
+"134"	Vuoi iniziare a giocare con gli stessi	personaggi? {Player can respond (0005):0000-0000-0000-0000}	Sì! ({Number (0x6)} )	No, cambio i personaggi.
+"135"	Vuoi iniziare a giocare con gli stessi	personaggi? {Player can respond (0005):0000-0000-0000-0000}	{Gray}Sì! ({Number (0x6)} ){Color Reset}	No, cambio i personaggi.
 == 4 ==
-"002"	Hilfe, {Article(word-dependant)}
+"002"	Hilfe, {Article(word-dependant)}{0014-0001-0002-cd00}!{pause 8}	Was willst du tun?{Player can respond (0000):0000-0000-0000-0000}	Kämpfen!	Fliehen...
 "003"	Aua! Eine schmerzliche Niederlage...
-"004"	Ha,{pause 10}
+"004"	Ha,{pause 10} {000e-0001-0000}{0014-0001-0002-cd00}	ist kein Problem für dich!
 "005"	Hach... Du verlierst den Kampf	und bist auch noch vergiftet.
-"006"	Du hast {0014-0004-0010-06-00-64-00-65-00-6e-00-06-00-64-00-69-00-65-00} {0014-0001-0002-00-ffffffcd}	vertrieben, wurdest aber vergiftet...
-"007"	Du vertreibst {0014-0004-0010-06-00-64-00-65-00-6e-00-06-00-64-00-69-00-65-00} {0014-0001-0002-00-ffffffcd}	und erhältst {Article(word-dependant)}
-"008"	Du vertreibst {0014-0004-0010-06-00-64-00-65-00-6e-00-06-00-64-00-69-00-65-00} {0014-0001-0002-00-ffffffcd}	und euer Proviant erhöht sich um {Blue}{Number (0x6)}
+"006"	Du hast {0014-0004-0010-0006-0064-0065-006e-0006-0064-0069-0065} {0014-0001-0002-cd00}	vertrieben, wurdest aber vergiftet...
+"007"	Du vertreibst {0014-0004-0010-0006-0064-0065-006e-0006-0064-0069-0065} {0014-0001-0002-cd00}	und erhältst {Article(word-dependant)}{0014-0000-0002-cd00}!
+"008"	Du vertreibst {0014-0004-0010-0006-0064-0065-006e-0006-0064-0069-0065} {0014-0001-0002-cd00}	und euer Proviant erhöht sich um {Blue}{Number (0x6)}{Color Reset}!
 "009"	Wirst du entkommen?
 "010"	Das hat leider nicht geklappt...
-"011"	Schnell, {pause 10}
+"011"	Schnell, {pause 10}nimm die Beine	in die Hand!
 "012"	Hach. Du konntest nicht entkom-	men und bist auch noch vergiftet.
-"013"	Vertreibe {0014-0004-0010-06-00-64-00-65-00-6e-00-06-00-64-00-69-00-65-00} {0014-0001-0002-00-ffffffcd}	mit {000e-0008-001a-00-ffffffcd-06-00-64-00-65-00-6d-00-06-00-64-00-65-00-72-00-06-00-64-00-65-00-6d-00} {0014-0000-0002-00-ffffffcd}!
-"014"	Toll!{pause 10}
-"015"	Aua, das tat weh!{0000-0004-0000}
-"016"	In der Nähe ist eine Kreatur! {pause 20}!
-"017"	Oh nein, {000e-0001-0000}
+"013"	Vertreibe {0014-0004-0010-0006-0064-0065-006e-0006-0064-0069-0065} {0014-0001-0002-cd00}	mit {dem/der/dem} {0014-0000-0002-cd00}!
+"014"	Toll!{pause 10} Du hast {0014-0004-0010-0006-0064-0065-006e-0006-0064-0069-0065} {0014-0001-0002-cd00}	vertrieben!
+"015"	Aua, das tat weh!{Wait for input}Aber zumindest konntest du	{0014-0004-0010-0006-0064-0065-006e-0006-0064-0069-0065} {0014-0001-0002-cd00} vertreiben!
+"016"	In der Nähe ist eine Kreatur! {pause 20}	Du versuchst wegzuschleichen.
+"017"	Oh nein, {000e-0001-0000}{0014-0001-0002-cd00}	hat dich entdeckt!
 "018"	Du konntest einen Kampf gerade	noch so vermeiden!
-"019"	Sieh nur, {000e-0001-0000}
-"021"	Sieh nur! {pause 10}
-"022"	Wenn du die Bienen verjagst,	gehört der Honig dir...{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"023"	Eine Honigwabe!{pause 8}
-"024"	Eine Honigwabe!{pause 8}
-"025"	Da! Eine Honigwabe!{pause 10}
-"026"	Aua! {pause 30}
+"019"	Sieh nur, {000e-0001-0000}{0014-0001-0002-cd00}	ist in die Fallgrube gefallen!{Wait for input}Das ist deine Chance, um	zu entkommen!
+"021"	Sieh nur! {pause 10}Eine Honigwabe!
+"022"	Wenn du die Bienen verjagst,	gehört der Honig dir...{Player can respond (0005):0000-0000-0000-0000}	Verjagen!	Wegschleichen...
+"023"	Eine Honigwabe!{pause 8} Der {Blue}Kescher{Color Reset} sollte	beim Verjagen der Bienen helfen...{Player can respond (0005):0000-0000-0000-0000}	Verjagen!	Wegschleichen...
+"024"	Eine Honigwabe!{pause 8} Da gibt's sicher	Honig zu holen!
+"025"	Da! Eine Honigwabe!{pause 10} Schnapp dir	den Honig mit dem {Blue}Kescher{Color Reset}!
+"026"	Aua! {pause 30}Bienenstiche tun weh...
 "027"	Du hast die Bienen vertrieben, aber	die Honigwabe ist heruntergefallen!
-"028"	Du hast die Bienen verscheucht!{0000-0004-0000}
+"028"	Du hast die Bienen verscheucht!{Wait for input}Der {Blue}Honig {Color Reset}erhöht den Proviant der	Abenteurer um {Blue}{Number (0x6)}{Color Reset}!
 "029"	Du willst keine Bienenstiche	riskieren und schleichst lieber weg...
-"030"	Eine Honigwabe!{pause 10}
-"031"	Du hast die Bienen vertrieben!{0000-0004-0000}
-"032"	Du bist schnurstracks gegen	einen Baum gelaufen.{0000-0004-0000}
-"034"	Sieh nur all die {Blue}{0014-0002-0002-00-ffffffcd}{Color Reset}!
-"035"	Sieh nur all die {Blue}{0014-0002-0002-00-ffffffcd}{Color Reset}!	Das sind deine Lieblingsfrüchte!
-"036"	Sieh nur all die {Blue}{0014-0002-0002-00-ffffffcd}{Color Reset}!
-"037"	Sieh nur all die {Blue}{0014-0002-0002-00-ffffffcd}{Color Reset}!	Das sind deine Lieblingsfrüchte!
+"030"	Eine Honigwabe!{pause 10} Schnapp dir den	Honig mit dem {0014-0000-0002-cd00}!
+"031"	Du hast die Bienen vertrieben!{Wait for input}Der {Blue}Honig {Color Reset}erhöht den Proviant der	Abenteurer um {Blue}{Number (0x6)}{Color Reset}!
+"032"	Du bist schnurstracks gegen	einen Baum gelaufen.{Wait for input}Glück im Unglück:{pause 8} Der so ergatterte	{Blue}Honig {Color Reset}erhöht euren Proviant um {Blue}{Number (0x6)}{Color Reset}!
+"034"	Sieh nur all die {Blue}{0014-0002-0002-cd00}{Color Reset}!
+"035"	Sieh nur all die {Blue}{0014-0002-0002-cd00}{Color Reset}!	Das sind deine Lieblingsfrüchte!
+"036"	Sieh nur all die {Blue}{0014-0002-0002-cd00}{Color Reset}!
+"037"	Sieh nur all die {Blue}{0014-0002-0002-cd00}{Color Reset}!	Das sind deine Lieblingsfrüchte!
 "038"	Wenn du kräftig am Stamm rüttelst,	fallen bestimmt Früchte herunter!
-"039"	Du hast etwas zum Essen gefunden!	Der Proviant erhöht sich um {Blue}{Number (0x6)}
-"041"	Fische!{pause 8}
+"039"	Du hast etwas zum Essen gefunden!	Der Proviant erhöht sich um {Blue}{Number (0x6)}{Color Reset}!
+"041"	Fische!{pause 8} Schnapp sie dir!
 "042"	Diesmal hat leider nichts	angebissen...
-"043"	Du hast erfolgreich geangelt!{0000-0004-0000}
-"044"	Fische!{pause 8}
-"045"	Fische!{pause 8}
-"046"	So ein Jammer...{pause 8}
-"047"	Geschafft! {pause 8}
-"048"	Fische!{pause 8}
-"049"	Du warst erfolgreich!{0000-0004-0000}
-"051"	Das war das letzte Bauteil	für das Floß!{0007-0009-0004-78-00-00-00}
-"052"	Tolle Arbeit!{pause 30}
+"043"	Du hast erfolgreich geangelt!{Wait for input}Der Proviant der Abenteurer	erhöht sich um {Blue}{Number (0x6)}{Color Reset}!
+"044"	Fische!{pause 8} Aber du hast	keine Angel...
+"045"	Fische!{pause 8} Du kannst versuchen, sie	mit bloßen Händen zu fangen!
+"046"	So ein Jammer...{pause 8} Diesmal hast du 	keinen einzigen Fisch fangen können!
+"047"	Geschafft! {pause 8}Der Proviant der 	Abenteurer erhöht sich um {Blue}{Number (0x6)}{Color Reset}!
+"048"	Fische!{pause 8} Schnapp sie dir!
+"049"	Du warst erfolgreich!{Wait for input}Der Fang erhöht den Proviant	der Abenteurer um {Blue}{Number (0x6)}{Color Reset}!
+"051"	Das war das letzte Bauteil	für das Floß!{Wait <0078 0000> 'time'}
+"052"	Tolle Arbeit!{pause 30} Nichts wie weg	von dieser einsamen Insel!{Wait <0078 0000> 'time'}
 "053"	Der Proviant der Abenteurer	ist erschöpft...
 "054"	Ihr habt es nicht rechtzeitig von der	Insel geschafft...
-"055"	Wie schrecklich, {000e-0001-0000}
-"057"	Oh nein! {pause 8}
+"055"	Wie schrecklich, {000e-0001-0000}	{0014-0000-0002-cd00} ist kaputtgegangen!
+"057"	Oh nein! {pause 8}Eine Fallgrube!
 "058"	Du steckst fest und kannst dich	nicht mehr bewegen!
-"059"	Puh!{pause 8}
-"060"	Huch?{pause 8}
-"061"	Du verwendest die {0014-0000-0002-00-ffffffcd},	um zu graben.
-"062"	Das war knapp! {pause 8}
+"059"	Puh!{pause 8} Du hast es geschafft, dich	aus der Fallgrube zu befreien.
+"060"	Huch?{pause 8} Sieht so aus, als hätte	jemand etwas hier vergraben.
+"061"	Du verwendest die {0014-0000-0002-cd00},	um zu graben.
+"062"	Das war knapp! {pause 8}Jemand hätte in	die Fallgrube stürzen können!
 "063"	Unter den ausgegrabenen	Gegenständen waren einige Fallen!
-"064"	Du hast {Blue}{Number (0x6)}
-"065"	Na so was!{pause 8}
-"066"	Oh nein!{pause 8}
+"064"	Du hast {Blue}{Number (0x6)} {Blue}{/Falle/Fallen} {Blue}{Color Reset}gefunden!	Möchtest du sie einsetzen?{Player can respond (0005):0000-0000-0000-0000}	Ja!	Nein danke...
+"065"	Na so was!{pause 8} Du bist in deine	eigene Fallgrube gefallen.
+"066"	Oh nein!{pause 8} Eine Fallgrube!
 "067"	Du steckst fest und kommst so	schnell nicht wieder raus.
 "068"	Bist du nicht gerade an etwas	vorbeigestürmt?
 "070"	Gefundene Materialien	werden überprüft...
 "071"	Nach den Strapazen haben sich die	Abenteurer etwas Ruhe verdient.
-"072"	Oh, kein Proviant mehr!{pause 30}
-"073"	Morgen ist deine letzte Chance, der	Insel zu entkommen. {pause 8}
+"072"	Oh, kein Proviant mehr!{pause 30} Du musst	morgen dringend Nahrung finden!
+"073"	Morgen ist deine letzte Chance, der	Insel zu entkommen. {pause 8}Viel Glück!
 "074"	Was sollen die	Abenteurer machen?
 "075"	Essen & schlafen.
 "076"	Ein Werkzeug.
 "077"	Inventar ansehen.
 "078"	Heilen.
-"079"	Im Rucksack {<00><10>befindet<10>befinden} sich	{Blue}{Number (0x6)}
-"080"	Einer der Abenteurer kann aus	Nahrungsmitteln Medizin machen.	{Blue}Proviant{Color Reset} vorrätig: {Blue}{Number (0x7)}
-"081"	
-"082"	
-"083"	
+"079"	Im Rucksack {/befindet/befinden} sich	{Blue}{Number (0x6)} Medizinbeutel{Color Reset}.	Wer soll geheilt werden?
+"080"	Einer der Abenteurer kann aus	Nahrungsmitteln Medizin machen.	{Blue}Proviant{Color Reset} vorrätig: {Blue}{Number (0x7)}{Color Reset}.	Wer soll geheilt werden?
+"081"
+"082"
+"083"
 "084"	Keiner...
-"085"	{Orange}{0011-0001-0002-00-00}
-"086"	Die Abenteurer sollen schlafen?{pause 20}
-"087"	Du hast noch {Blue}{Number (0x6)}
-"088"	Einer der Abenteurer kann aus	Nahrungsmitteln Medizin machen.{0000-0004-0000}
-"089"	Die {Blue}Angel{Color Reset} ist fertig!{0000-0004-0000}
-"090"	Die {Blue}Schleuder{Color Reset} ist fertig!{0000-0004-0000}
-"091"	Der {Blue}Kescher{Color Reset} ist fertig!{0000-0004-0000}
-"092"	Die {Blue}Schaufel {Color Reset}ist fertig!{0000-0004-0000}
-"093"	Die {Blue}Silberangel{Color Reset} ist fertig!{0000-0004-0000}
-"094"	Die {Blue}Silberschleuder {Color Reset}ist fertig!{0000-0004-0000}
-"095"	Der {Blue}Silberkescher {Color Reset}ist fertig!{0000-0004-0000}
-"096"	Die {Blue}Silberschaufel {Color Reset}ist fertig!{0000-0004-0000}!
-"097"	Die {Blue}Goldangel{Color Reset} ist fertig!{0000-0004-0000}
-"098"	Die {Blue}Goldschleuder {Color Reset}ist fertig!{0000-0004-0000}
-"099"	Der {Blue}Goldkescher {Color Reset}ist fertig!{0000-0004-0000}
-"100"	Die {Blue}Goldschaufel {Color Reset}ist fertig!{0000-0004-0000}
-"101"	
-"102"	
-"103"	
-"104"	
+"085"	{Orange}{0011-0001-0002-0000}{Color Reset} fühlt sich besser!
+"086"	Die Abenteurer sollen schlafen?{pause 20}	Aber es gibt noch so viel zu tun!{Player can respond (0005):0000-0000-0000-0000}	Schlafen!	Noch nicht!
+"087"	Du hast noch {Blue}{Number (0x6)} Medizinbeutel{Color Reset}	im Rucksack. Soll {Orange}{0011-0001-0002-0000}	{Color Reset}geheilt werden?{Player can respond (0005):0000-0000-0000-0000}	Ja!	Nein...
+"088"	Einer der Abenteurer kann aus	Nahrungsmitteln Medizin machen.{Wait for input}Die Abenteurer haben dann noch	{Blue}{Number (0x7)} {/Einheit/Einheiten} Proviant{Color Reset}.	Soll {Orange}{0011-0001-0002-0000} {Color Reset}geheilt werden?{Player can respond (0005):0000-0000-0000-0000}	Ja!	Nein...
+"089"	Die {Blue}Angel{Color Reset} ist fertig!{Wait for input}Nichts wie los zum nächsten	Angelplatz, um Fische zu fangen!
+"090"	Die {Blue}Schleuder{Color Reset} ist fertig!{Wait for input}Dagegen haben die Kreaturen	der Insel kaum eine Chance!
+"091"	Der {Blue}Kescher{Color Reset} ist fertig!{Wait for input}Damit kann man Bienen verjagen	und sich ihren Honig schnappen!
+"092"	Die {Blue}Schaufel {Color Reset}ist fertig!{Wait for input}Fiese Fallgruben sind ab jetzt	kein Problem mehr!
+"093"	Die {Blue}Silberangel{Color Reset} ist fertig!{Wait for input}Nichts wie los zum nächsten	Angelplatz, um Fische zu fangen!
+"094"	Die {Blue}Silberschleuder {Color Reset}ist fertig!{Wait for input}Dagegen haben die Kreaturen	der Insel keine Chance!
+"095"	Der {Blue}Silberkescher {Color Reset}ist fertig!{Wait for input}Damit kann man Bienen verjagen,	Nebel lichten und Items ergattern.
+"096"	Die {Blue}Silberschaufel {Color Reset}ist fertig!{Wait for input}Fallgruben sind kein Problem und	man kann Gegenstände ausgraben!
+"097"	Die {Blue}Goldangel{Color Reset} ist fertig!{Wait for input}Nichts wie los zum nächsten	Angelplatz, um Fische zu fangen!
+"098"	Die {Blue}Goldschleuder {Color Reset}ist fertig!{Wait for input}Dagegen haben die Kreaturen	der Insel keine Chance!
+"099"	Der {Blue}Goldkescher {Color Reset}ist fertig!{Wait for input}Damit kann man Bienen verjagen,	Nebel lichten und Items ergattern.
+"100"	Die {Blue}Goldschaufel {Color Reset}ist fertig!{Wait for input}Fallgruben sind kein Problem und	man kann Gegenstände ausgraben!
+"101"
+"102"
+"103"
+"104"
 "105"	Speichern nicht möglich.	Zurück zum Titelbildschirm.
-"106"	{000e-0008-0020-00-ffffffcd-0a-00-45-00-69-00-6e-00-65-00-6e-00-08-00-45-00-69-00-6e-00-65-00-06-00-45-00-69-00-6e-00} {0014-0000-0002-00-ffffffcd} bauen?{Player can respond: 0006-00-00-00-00-00-00-00-00-00-00-00-00}
-"107"	
-"108"	
-"109"	
-"110"	
-"111"	
-"112"	
-"113"	
-"114"	
-"115"	
-"116"	
-"117"	
-"119"	Verwende mit  {Blue}amiibo {Color Reset}oder aber	{Orange}{Number (0x6)}
-"120"	Spiel mit den bisherigen	Abenteurern starten? {Player can respond: 0005-00-00-00-00-00-00-00-00}
+"106"	{Einen/Eine/Ein} {0014-0000-0002-cd00} bauen?{Player can respond (0006):0000-0000-0000-0000-0000-0000}	Ja!	Erklärung ansehen	Abbrechen
+"107"
+"108"
+"109"
+"110"
+"111"
+"112"
+"113"
+"114"
+"115"
+"116"
+"117"
+"119"	Verwende mit  {Blue}amiibo {Color Reset}oder aber	{Orange}{Number (0x6)}  Spielmünzen je Bewohner{Color Reset},	um bis zu 3 Abenteurer zu wählen.
+"120"	Spiel mit den bisherigen	Abenteurern starten? {Player can respond (0005):0000-0000-0000-0000}	Ja!	Abenteurer auswählen
 "121"	Deine {Orange} Spielmünzen	{Color Reset}reichen nicht aus!
 "122"	Berühre mit einem {Blue}Animal Crossing-	amiibo {Color Reset}den Touchscreen.
 "123"	Schalte das {Blue}NFC-Lese-/	Schreibgerät {Color Reset}ein, um es auf das	Lesen des {Blue}amiibo {Color Reset}vorzubereiten.	Lies ein {Blue}Animal Crossing-amiibo {Color Reset}ein.
-"124"	
-"125"	Möchtest du {Orange}Nepp {Color Reset}oder	{Orange}Schlepp{Color Reset} registrieren?{Player can respond: 0000-00-00-00-00-00-00-00-00}
+"124"
+"125"	Möchtest du {Orange}Nepp {Color Reset}oder	{Orange}Schlepp{Color Reset} registrieren?{Player can respond (0000):0000-0000-0000-0000}	Nepp	Schlepp
 "126"	{Orange}Nepp {Color Reset}und {Orange}Schlepp {Color Reset}sind	bereits als Abenteurer	registriert!
-"127"	{Orange}{0011-0001-0002-00-00}
-"128"	
-"129"	Verwende dein {Blue}amiibo{Color Reset}	anstelle von {Orange} Spielmünzen{Color Reset}.	
-"130"	Noch mal spielen?{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"131"	Noch mal spielen?{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"132"	Noch mal spielen?{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"133"	
-"134"	Spiel mit den bisherigen	Abenteurern starten? {Player can respond: 0005-00-00-00-00-00-00-00-00}
-"135"	Spiel mit den bisherigen	Abenteurern starten?{Player can respond: 0005-00-00-00-00-00-00-00-00}!
+"127"	{Orange}{0011-0001-0002-0000} {Color Reset}ist bereits als	Abenteurer registriert!
+"128"
+"129"	Verwende dein {Blue}amiibo{Color Reset}	anstelle von {Orange} Spielmünzen{Color Reset}.
+"130"	Noch mal spielen?{Player can respond (0000):0000-0000-0000-0000}	Noch mal spielen!	Zum Titelbildschirm
+"131"	Noch mal spielen?{Player can respond (0000):0000-0000-0000-0000}	Noch mal spielen! {Number (0x6)} 	Zum Titelbildschirm
+"132"	Noch mal spielen?{Player can respond (0000):0000-0000-0000-0000}	{Gray}Noch mal spielen! {Number (0x6)} 	{Color Reset}Zum Titelbildschirm
+"133"
+"134"	Spiel mit den bisherigen	Abenteurern starten? {Player can respond (0005):0000-0000-0000-0000}	Ja! ({Number (0x6)} )	Abenteurer auswählen
+"135"	Spiel mit den bisherigen	Abenteurern starten?{Player can respond (0005):0000-0000-0000-0000}	{Gray}Ja! ({Number (0x6)}){Color Reset}	Abenteurer auswählen

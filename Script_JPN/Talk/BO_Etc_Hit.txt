@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Sorrow}
-"003"	{emote: Sorrow}
+"001"	{emote: Distress}いたいよぉ～！{pause 40}	だれかに　ぶたれたぁ～！{Wait for input}{emote: Reset}あれ{pause 20}　その{ruby (charSpan 1): て}手に　もってるのは{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Shocked}{0007-000b-0000}もしかして{pause 20}　{Player nickname (green)}{0005-000d-0000}が	ぶったのぉ～？{Wait for input}{emote: Sadness}ヒ、{pause 20}ヒドイやぁ～{000b-0003-0002-cd03}
+"002"	{emote: Sorrow}{Player nickname (green)}{0005-000d-0000}　ヒドイよぉ～！{pause 40}	ボクを　いじめて	あそんでるんだねぇ～？！{000b-0003-0002-cd03}
+"003"	{emote: Sorrow}うわぁ～ん！	ヒドイよぉ～！{pause 20}	{Player nickname (green)}{0005-000d-0000}が　ぶったぁ～！{000b-0003-0002-cd03}

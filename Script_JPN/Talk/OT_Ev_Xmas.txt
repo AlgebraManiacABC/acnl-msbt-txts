@@ -1,81 +1,81 @@
 == 0 ==
-"001"	{emote: Joy}
-"002"	{emote: Shyness}
-"003"	{emote: Anger}
-"004"	{emote: Sunny}
-"005"	{emote: Soft Smile}
-"006"	{emote: Love}
-"007"	{emote: Soft Smile}
-"008"	{emote: Soft Smile}
-"009"	{emote: Sheepishness}
-"010"	
-"011"	{emote: Sheepishness}
-"012"	{emote: Fearful}
-"013"	{emote: Soft Smile}
-"014"	{emote: Fearful}
-"015"	{emote: Thought}
-"016"	{emote: Soft Smile}
-"017"	{emote: Soft Smile}
-"018"	{emote: Sheepishness}
-"019"	{emote: Soft Smile}
-"020"	
-"021"	{emote: Alarmed}
-"022"	{emote: Thought}
-"023"	{emote: Thought}
-"024"	{emote: Alarmed}
-"025"	そのカッコ、{pause 16}!
-"026"	{emote: Anger}
-"027"	{emote: Sleepy}
-"028"	{emote: Sleep Bubble}
-"029"	{pause 8}
-"030"	{emote: Sleepy}
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	{Player nickname (green)}
-"034"	{emote: Worry}
-"035"	{emote: Worry}
-"036"	{emote: Soft Smile}
-"037"	{emote: Agreement}
-"038"	{emote: Alarmed}
-"039"	ねぇ、アナタ{pause 20}!
-"040"	ねぇ、アナタ{pause 20}!
-"041"	{emote: Sheepishness}
-"042"	{emote: Alarmed}
-"043"	{emote: Surprise}
-"044"	{emote: Soft Smile}
-"045"	{emote: Soft Smile}
-"046"	アナタ{pause 8}
-"047"	{emote: Alarmed}
-"048"	{emote: Alarmed}
-"049"	{emote: Alarmed}
-"050"	{emote: Surprise}
-"051"	{emote: Curious}
-"052"	{emote: Surprise}
-"053"	{emote: Sleepy}
-"054"	{emote: Shyness}
-"055"	{emote: Alarmed}
-"056"	{emote: Worry}
-"057"	{emote: Sunny}
-"058"	{emote: Joy}
-"059"	{emote: Distress}
-"060"	{emote: Alarmed}
-"061"	{emote: Shocked}
-"062"	{emote: Shocked}
-"063"	{emote: Love}
-"064"	{emote: Shyness}
-"065"	{emote: Soft Smile}
-"066"	{emote: Soft Smile}
-"067"	{emote: Sigh}
-"068"	{emote: Sheepishness}
-"069"	{emote: Sheepishness}
-"070"	{emote: Sunny}
-"071"	{emote: Thought}
-"072"	{emote: Worry}
-"073"	って{pause 4}
-"074"	{emote: Sunny}
-"075"	{emote: Sunny}
-"076"	{emote: Anger}
-"077"	{emote: Anger}
-"078"	{emote: Soft Smile}
-"079"	{emote: Glee}
-"080"	
+"001"	{emote: Joy}{ruby (charSpan 2): きょう}今日は　クリスマスイブね～{pause 16}	なんだか　ワクワクしちゃうわ～{Wait for input}{emote: Sheepishness}たいてい　{ruby (charSpan 3): ぜんやさい}前夜祭の{ruby (charSpan 1): ほう}方が{pause 16}	テンションは　{ruby (charSpan 1): たか}高かったりするのよね、	{pause 8}{catchphrase}
+"002"	{emote: Shyness}{Player nickname (green)}{0005-000d-0000}{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 2): こんや}今夜　{ruby (charSpan 1): あ}空いてる？{Wait for input}	{emote: Worry}いや、{pause 16}なんでもないわ
+"003"	{emote: Anger}{ruby (charSpan 2): きょう}今日の{ruby (charSpan 1): よる}夜{pause 8}・{pause 8}・{pause 8}・{pause 8}	サンタクロースの{ruby (charSpan 2): ひみつ}秘密が、{pause 16}	わかるかもしれないわよ、{pause 8}{catchphrase}
+"004"	{emote: Sunny}メリー・クリスマス！{pause 8}	{Player nickname (green)}{0005-000d-0000}！{Wait for input}{emote: Soft Smile}アナタ　{ruby (charSpan 1): し}知ってる？{pause 32}	クリスマスイブは　{ruby (charSpan 1): よる}夜が{ruby (charSpan 2): ほんばん}本番なの！{Wait for input}{emote: Alarmed}なんでって{pause 4}・{pause 4}・{pause 4}・{pause 4}それは{pause 32}	{emote: Glare}{ruby (charSpan 1): よる}夜になってからの　お{ruby (charSpan 1): たの}楽しみよ！
+"005"	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　クリスマスイブね！{pause 32}	{ruby (charSpan 1): よる}夜になるのを　{ruby (charSpan 2): むらじゅう}村中の{ruby (charSpan 1): ひと}人が　{pause 16}	{ruby (charSpan 1): ま}待ち{ruby (charSpan 1): のぞ}望んでるわ、{pause 8}{catchphrase}	アタシも　{ruby (charSpan 1): たの}楽しみにしているわ{pause 32}	{emote: Glare}まるで　{ruby (charSpan 2): しょうじょ}少女のように{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"006"	{emote: Love}{pause 16}{ruby (charSpan 1): まど}窓の{ruby (charSpan 1): そと}外は、{pause 16}{ruby (charSpan 2): いちめん}一面　{ruby (charSpan 3): ゆきげしき}雪景色{pause 8}・{pause 8}・{pause 8}・{pause 8}	なんだか　ロマンチックね～
+"007"	{emote: Soft Smile}{ruby (charSpan 1): ゆき}雪{ruby (charSpan 1): ふ}降る　クリスマスイブなんて{pause 16}	なんだか　ステキじゃない？	{Player nickname (green)}{0005-000d-0000}？	{emote: Reset}ちなみに　{ruby (charSpan 1): ゆき}雪が{ruby (charSpan 1): ふ}降ってても{pause 16}	{ruby (charSpan 1): つ}積もってない{ruby (charSpan 2): ばあい}場合は、{pause 16}	ホワイトクリスマスとは{ruby (charSpan 1): い}言わないのよ
+"008"	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　ホワイトクリスマスね{pause 32}	{emote: Love}{pause 16}{ruby (charSpan 1): まど}窓の{ruby (charSpan 1): そと}外は、{pause 16}{ruby (charSpan 2): いちめん}一面　{ruby (charSpan 3): ゆきげしき}雪景色{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Shocked}って、{pause 16}{ruby (charSpan 1): ゆき}雪　{ruby (charSpan 1): はげ}激しすぎじゃない？
+"009"	{emote: Sheepishness}いくら　クリスマスイブだからって{pause 16}	ここまで　{ruby (charSpan 1): ゆき}雪{ruby (charSpan 1): ふ}降らなくてもいいのにね？{pause 32}	{emote: Thought}{pause 16}{ruby (charSpan 1): ほど}程よい{ruby (charSpan 1): かん}感じが　オシャレなのに{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"010"
+"011"	{emote: Sheepishness}{ruby (charSpan 2): きょう}今日は　クリスマスイブだからって{pause 16}	みんな　ハシャいじゃって{pause 16}	バカみたい{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}と{ruby (charSpan 1): い}言いつつ　アタシも{pause 16}	{ruby (charSpan 2): じぶん}自分を　おさえきれなくて{pause 16}	{ruby (charSpan 1): そと}外に　{ruby (charSpan 1): で}出てるんだけどね
+"012"	{emote: Fearful}クリスマスイブで{pause 16}	ほてった{ruby (charSpan 1): あたま}頭を　{ruby (charSpan 1): ひ}冷やすには、{pause 8}	ちょうどいい{ruby (charSpan 1): さむ}寒さじゃないかしら{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"013"	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　ホワイトクリスマスね！{pause 32}	{emote: Love}{pause 16}この{ruby (charSpan 1): しろ}白い{ruby (charSpan 1): ゆき}雪を　{ruby (charSpan 1): あ}浴びたら{pause 8}・{pause 8}・{pause 8}・{pause 8}	アタシも　{ruby (charSpan 2): いろじろ}色白になれるかしら？
+"014"	{emote: Fearful}このカッコじゃ{pause 16}	ちょっと{ruby (charSpan 1): さむ}寒いわね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"015"	{emote: Thought}{pause 16}この{ruby (charSpan 1): ゆき}雪を　{ruby (charSpan 1): み}見てると{pause 16}	あのクリスマスを　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出すわね{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Disagreement}ううん、{pause 16}なんでもないわ
+"016"	{emote: Soft Smile}{ruby (charSpan 1): み}見て{ruby (charSpan 1): み}見て、{pause 16}{ruby (charSpan 1): ゆき}雪でおおわれた{pause 16}	この　{Town name (pink)}{ruby (charSpan 1): むら}村を{pause 32}	{emote: Love}{pause 16}{ruby (charSpan 2): いろじろ}色白でキレイね～、{pause 8}{catchphrase}！
+"017"	{emote: Soft Smile}この{ruby (charSpan 1): ゆき}雪{ruby (charSpan 1): ふ}降る　クリスマスイブに{pause 16}	ロマンスが　{ruby (charSpan 1): う}生まれるといいわね、{pause 8}	{Player nickname (green)}{0005-000d-0000}
+"018"	{emote: Sheepishness}{ruby (charSpan 1): ゆき}雪の{ruby (charSpan 1): かん}感じを　{ruby (charSpan 1): み}見るために{pause 16}	{ruby (charSpan 1): ため}試しに　{ruby (charSpan 1): そと}外へ{ruby (charSpan 1): で}出てきたけど、{pause 32}	{emote: Fearful}これは{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): さむ}寒いわね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"019"	{emote: Soft Smile}ホワイトクリスマスで　ステキだけど、{pause 32}	{emote: Thought}{pause 16}こんなに　{ruby (charSpan 2): おおゆき}大雪だと{pause 8}・{pause 8}・{pause 8}・{pause 8}	サンタさんも　{ruby (charSpan 2): たいへん}大変よねぇ
+"020"
+"021"	{emote: Alarmed}あら、{pause 8}もうこんな{ruby (charSpan 2): じかん}時間？{pause 32}	{emote: Sheepishness}サンタさんだったら、{pause 16}	{ruby (charSpan 1): みち}道に{ruby (charSpan 1): まよ}迷ったりしないわよね？
+"022"	{emote: Thought}{pause 16}おかしいわね？{pause 32}　サンタさん、{pause 16}	そろそろ　{ruby (charSpan 1): き}来てもいい{ruby (charSpan 1): ころ}頃なのに{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Curious}{ruby (charSpan 1): なに}何かあったのかしら？
+"023"	{emote: Thought}{pause 16}いつだって　あの{ruby (charSpan 1): ひと}人には、{pause 16}	{ruby (charSpan 1): ま}待たされるのよねぇ{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}あの{ruby (charSpan 1): あか}赤い{ruby (charSpan 1): ふく}服を{ruby (charSpan 1): き}着た　オジ{ruby (charSpan 1): さま}様には
+"024"	{emote: Alarmed}あら、{pause 8}{Player nickname (green)}{0005-000d-0000}！{pause 32}	{emote: Sheepishness}サンタさんみたいな　カッコして{pause 16}	どうしたの？　{pause 8}{catchphrase}？
+"025"	そのカッコ、{pause 16}{emote: Curious}どうしたの？{pause 16}	{Player nickname (green)}{0005-000d-0000}？{Wait for input}{emote: Sheepishness}サンタクロースを{pause 16}	{ruby (charSpan 2): めざ}目指してるみたいだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"026"	{emote: Anger}アナタ{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}{Player nickname (green)}{0005-000d-0000}よね？{pause 32}	{emote: Soft Smile}うふふ、{pause 16}わかるわよ！	{emote: Sheepishness}サンタクロースと{ruby (charSpan 1): い}言うには{pause 16}	そのカッコじゃ　つめが{ruby (charSpan 1): あま}甘いわね、	{pause 8}{catchphrase}
+"027"	{emote: Sleepy}{pause 8}・{pause 8}・{pause 8}・{pause 8}あぁ、{pause 16}{ruby (charSpan 1): ねむ}眠いっ！{pause 32}	{emote: Worry}あの{ruby (charSpan 1): あか}赤いオジ{ruby (charSpan 1): さま}様は　いつまで{pause 16}　	{ruby (charSpan 1): ま}待たせるつもりなのかしら？
+"028"	{emote: Sleep Bubble}{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}グフッ！{pause 32}	{emote: Reset}アタシ、{pause 16}{ruby (charSpan 1): いま}今　{ruby (charSpan 1): ね}寝てた？{Wait for input}{emote: Worry}あの{ruby (charSpan 1): ひと}人が　そろそろ{pause 16}	{ruby (charSpan 1): く}来るはずなんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"029"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あれ？　{pause 32}{emote: Sheepishness}いっしゅん、{pause 16}	アナタが　サンタさんに{ruby (charSpan 1): み}見えたわ！{Wait for input}	{emote: Sleepy}あぁ～、{pause 16}{ruby (charSpan 1): ねむ}眠いっ！
+"030"	{emote: Sleepy}{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): ま}待ってたわよ？{pause 32}	アタシの　{ruby (charSpan 1): あか}赤いオジ{ruby (charSpan 1): さま}様{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Alarmed}って、{pause 8}{Player nickname (green)}{0005-000d-0000}？{pause 32}	{emote: Sheepishness}{ruby (charSpan 2): ねむす}眠過ぎて　いっしゅん、{pause 16}	アナタが　サンタさんに{ruby (charSpan 1): み}見えたわ
+"031"	{emote: Happiness}{ruby (charSpan 1): き}聞いて、{pause 8}{Player nickname (green)}{0005-000d-0000}！{pause 32}	さっき　サンタさんが{pause 16}	プレゼントを　くれたんだけど{pause 4}・{pause 4}・{pause 4}・{pause 4}	{emote: Glee}それが　まさに{pause 16}	アタシが　{ruby (charSpan 1): ほ}欲しかった{ruby (charSpan 1): もの}物なの！{Wait for input}{emote: Thought}{pause 16}{ruby (charSpan 1): ほ}欲しい{ruby (charSpan 1): もの}物を{ruby (charSpan 1): か}書いて、{pause 16}{ruby (charSpan 2): くつした}靴下を　	つるしてたわけじゃないのに{pause 16}	どうして　わかったのかしら？
+"032"	{emote: Happiness}ねぇ、{pause 8}{Player nickname (green)}{0005-000d-0000}！{pause 32}	さっき　サンタさんから{pause 16}	プレゼントを　もらったんだけど{pause 4}・{pause 4}・{pause 4}・{pause 4}	{emote: Glee}それが　ずっと　アタシが{pause 16}	{ruby (charSpan 1): ほ}欲しがってた{ruby (charSpan 1): もの}物なの！　{pause 8}{catchphrase}！{Wait for input}{emote: Anger}すごいわ、{pause 16}これが{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}テレパシーってやつかしら？
+"033"	{Player nickname (green)}{0005-000d-0000}{pause 8}・{pause 8}・{pause 8}・{pause 8}	ひょっとして、アナタが{pause 16}	{emote: Curious}サンタさんなんじゃない？	{emote: Anger}アタシの　{ruby (charSpan 1): ほ}欲しい{ruby (charSpan 1): もの}物を{pause 16}	ズバっと{ruby (charSpan 1): あ}当てられる{ruby (charSpan 1): ひと}人って{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): ふだん}普段から　{ruby (charSpan 2): いっしょ}一緒にいる{pause 16}	アナタぐらいしか　{ruby (charSpan 1): かんが}考えられないわ！　	{pause 8}{catchphrase}！	{emote: Worry}でも、アナタ{pause 8}・{pause 8}・{pause 8}・{pause 8}	あんな{ruby (charSpan 1): ふ}老けてないし{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}もう　やめましょ！{pause 16}	これ{ruby (charSpan 2): いじょう}以上、センサクするのは、{pause 32}	{emote: Mischief}ヤボだったわね？　{pause 16}{Player nickname (green)}{0005-000d-0000}？
+"034"	{emote: Worry}{ruby (charSpan 1): き}聞いて、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	さっき　サンタさんが{pause 16}	プレゼントを　くれたんだけど{pause 4}・{pause 4}・{pause 4}・{pause 4}	{emote: Sheepishness}それが　ビミョーに{pause 16}	アタシが　{ruby (charSpan 1): ほ}欲しかった{ruby (charSpan 1): もの}物と	{ruby (charSpan 1): ちが}違ってたのよ、{pause 8}{catchphrase}	{emote: Thought}{pause 16}こんなことなら{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): ほ}欲しい{ruby (charSpan 1): もの}物を{ruby (charSpan 1): か}書いて、{pause 16}{ruby (charSpan 2): くつした}靴下を　	つるしておけば　{ruby (charSpan 1): よ}良かったわ{pause 4}・{pause 4}・{pause 4}・{pause 4}
+"035"	{emote: Worry}ねぇ、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	さっき　サンタクロースから{pause 16}	プレゼントを　もらったんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}それが　アタシの{ruby (charSpan 1): ほ}欲しかった{ruby (charSpan 1): もの}物と{pause 16}	ちょっと{ruby (charSpan 1): ちが}違うのよ、{pause 8}{catchphrase}{Wait for input}{emote: Thought}{pause 16}きっと　サンタさんも{pause 16}	{ruby (charSpan 1): つか}疲れてるのね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"036"	{emote: Soft Smile}{Player nickname (green)}{0005-000d-0000}！{pause 32}	さっき　サンタさんから{pause 16}	プレゼント　もらったの！	{emote: Sheepishness}{ruby (charSpan 1): ちか}近くで{ruby (charSpan 1): み}見たら、{pause 8}それなりに	かんろくあったわ～{pause 32}	ヒゲなんか　{ruby (charSpan 1): は}生やしちゃって{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Worry}でも、プレゼントは{pause 16}　アタシの	{ruby (charSpan 1): ほ}欲しい{ruby (charSpan 1): もの}物じゃなかったの{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Mischief}{ruby (charSpan 2): けっこう}結構、{pause 8}{ruby (charSpan 1): とし}歳いってるのかしら？
+"037"	{emote: Agreement}そうそう、{pause 20}トナカイの{Orange}ジングル{Color Reset}が{pause 8}	アナタを　{ruby (charSpan 1): さが}探してたわよ！{pause 8}	サンタさん！
+"038"	{emote: Alarmed}あら、{pause 8}サンタさん{pause 30}	{emote: Soft Smile}さっき　トナカイの{Orange}ジングル{Color Reset}を{pause 8}	{ruby (charSpan 1): み}見かけたわよ、{pause 8}{catchphrase}	{emote: Worry}あのコ、{pause 20}なんだか	{ruby (charSpan 2): ひとり}一人で　{ruby (charSpan 2): ふあん}不安そうだったわ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}{ruby (charSpan 1): はや}早く　あのコのところに{pause 8}	{ruby (charSpan 1): い}行ってあげてちょうだい！{pause 8}	サンタさん！
+"039"	ねぇ、アナタ{pause 20}	トナカイの{Orange}ジングル{Color Reset}には、{pause 20}	{emote: Curious}もう　{ruby (charSpan 1): あ}会ったの？	{emote: Soft Smile}あのコが　やって{ruby (charSpan 1): く}来ると、{pause 20}	イブも　いよいよ　{ruby (charSpan 2): ほんばん}本番って{ruby (charSpan 1): かん}感じよね～{Wait for input}{emote: Shyness}クリスマスイブっていうと{pause 8}・{pause 8}・{pause 8}・{pause 20}	アタシ{pause 8}・{pause 8}・{pause 8}・{pause 30}{emote: Disagreement}ううん、{pause 20}なんでもない
+"040"	ねぇ、アナタ{pause 20}	トナカイの{Orange}ジングル{Color Reset}には、{pause 20}	{emote: Curious}もう　{ruby (charSpan 1): あ}会ったの？	{emote: Agreement}さっき、{pause 8}この{ruby (charSpan 1): むら}村に{ruby (charSpan 1): き}来てるのを	{ruby (charSpan 2): かくにん}確認したわよ、{pause 8}{catchphrase}{Wait for input}{emote: Alarmed}そういえば、{pause 20}サンタさんが{pause 8}	そばに　いなかったけど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sheepishness}はぐれちゃったのかしら？
+"041"	{emote: Sheepishness}あら～　{pause 16}{ruby (charSpan 1): うえ}上から{ruby (charSpan 1): した}下まで{pause 16}	{ruby (charSpan 1): あか}赤でバッチリ　{ruby (charSpan 1): き}決めちゃって{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}アナタ、{pause 8}よっぽど	{ruby (charSpan 2): あかいろ}赤色が{ruby (charSpan 1): す}好きなのね、{pause 8}{catchphrase}
+"042"	{emote: Alarmed}あら{pause 8}・{pause 8}・{pause 8}・{pause 8}サンタさん？{pause 32}	{emote: Sheepishness}こんな{ruby (charSpan 2): じかん}時間に　{ruby (charSpan 2): したみ}下見でもしてるわけ？{pause 32}	ずいぶん　マメなサンタね
+"043"	{emote: Surprise}まぁ、めずらしい！{pause 16}	こんな{ruby (charSpan 2): じかん}時間に　サンタクロース？{pause 32}	{emote: Sheepishness}アタシ、{pause 8}{ruby (charSpan 1): ゆめ}夢でも{ruby (charSpan 1): み}見てるのかしら
+"044"	{emote: Soft Smile}アナタに　もらった{pause 16}	クリスマスプレゼント{pause 32}	{ruby (charSpan 2): たいせつ}大切にするわね、{pause 8}サンタさん
+"045"	{emote: Soft Smile}プレゼント、ありがとね！{pause 32}	{emote: Sheepishness}それにしても　アナタ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 2): ほんとう}本当に　{ruby (charSpan 2): あかいろ}赤色が{ruby (charSpan 1): す}好きなのね？
+"046"	アナタ{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}どこかで？{Wait for input}	{emote: Reset}いや、{pause 8}なんでもないわ{pause 32}	{emote: Soft Smile}プレゼント　ありがとね！
+"047"	{emote: Alarmed}あら、{pause 16}いつもの{ruby (charSpan 1): ふくろ}袋は	どうしちゃったわけ？　{pause 8}{catchphrase}？{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): いちばん}一番、{pause 8}{ruby (charSpan 2): だいじ}大事な{ruby (charSpan 1): もの}物を　{ruby (charSpan 1): わす}忘れるなんて{pause 16}	ウッカリ{ruby (charSpan 1): もの}者の　サンタさんね、	{pause 8}{catchphrase}
+"048"	{emote: Alarmed}あらっ、{pause 16}いつもの{ruby (charSpan 1): ふくろ}袋は	どうしちゃったわけ？　{pause 8}{catchphrase}？{Wait for input}アナタ、{pause 8}{emote: Curious}{ruby (charSpan 2): ほんとう}本当にサンタさんなの？{Wait for input}	{emote: Sheepishness}それとも　サンタクロースに{pause 16}　	あこがれてる　{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): だれ}誰かとか{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"049"	{emote: Alarmed}あら{pause 8}・{pause 8}・{pause 8}・{pause 8}いつもの{ruby (charSpan 1): ふくろ}袋は{pause 16}	どうしちゃったわけ？{Wait for input}{emote: Sheepishness}あれがないと、{pause 16}	サンタクロースの{ruby (charSpan 2): しごと}仕事は{pause 8}	できないでしょ？　{pause 8}{catchphrase}？
+"050"	{emote: Surprise}あっ、{pause 8}やっと{ruby (charSpan 1): き}来た！{pause 32}	{emote: Sunny}メリー・クリスマス！！{000f-0005-0004-0000-0000}	プレゼントだよ	メリー・クリスマス！
+"051"	{emote: Curious}アナタが　サンタさんね？{pause 32}	{emote: Sunny}メリー・クリスマス！{000f-0005-0004-0000-0000}	プレゼントだよ	メリー・クリスマス！
+"052"	{emote: Surprise}あっ！{pause 32}　{emote: Soft Smile}アナタ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 2): ほんもの}本物のサンタさんよね？{pause 32}	{emote: Sunny}メリー・クリスマス！{000f-0005-0004-0000-0000}	プレゼントだよ	メリー・クリスマス！
+"053"	{emote: Sleepy}{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}へ？！{pause 32}	{emote: Sheepishness}も～　{pause 16}{ruby (charSpan 1): おそ}遅いじゃない？{pause 32}	{ruby (charSpan 1): ね}寝そうになってたわ！{000f-0005-0004-0000-0000}	プレゼントだよ	メリー・クリスマス！
+"054"	{emote: Shyness}サンタさん、{pause 16}アタシのお{ruby (charSpan 1): ねが}願いは{pause 16}	アナタに　ちゃんと{ruby (charSpan 1): とど}届いてる？	{pause 8}{catchphrase}？
+"055"	{emote: Alarmed}え？　{pause 16}あの{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Worry}プレゼントは？
+"056"	{emote: Worry}サンタさんでも{pause 16}	ジラすのね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"057"	{emote: Sunny}うれしい！{pause 16}	{ruby (charSpan 1): あ}開けていいかしら？
+"058"	{emote: Joy}{ruby (charSpan 1): ま}待ったかい　あったわ～{pause 32}	{ruby (charSpan 1): いま}今すぐ　{ruby (charSpan 1): あ}開けさせてちょうだい　
+"059"	{emote: Distress}あぁ～、{pause 16}{ruby (charSpan 2): しょうじょ}少女のように	ドキドキするわ～{pause 4}・{pause 4}・{pause 4}・{pause 32}	{emote: Anger}{ruby (charSpan 1): あ}開ける{pause 8}・{pause 8}・{pause 8}・{pause 8}わね？
+"060"	{emote: Alarmed}えっ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{0011-0003-0002-0000}？！{pause 32}	{emote: Sheepishness}えっと、{pause 16}ありがと　サンタさん！
+"061"	{emote: Shocked}えっ？！{pause 16}	{0011-0003-0002-0000}！{pause 32}	{emote: Joy}これ、{pause 8}{ruby (charSpan 1): ほ}欲しかったのよ～！
+"062"	{emote: Shocked}キャッ？！{pause 8}	{0011-0003-0002-0000}！{pause 32}	{emote: Love}{pause 16}{ruby (charSpan 1): ゆめ}夢みたい{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): ねが}願いがかなったわ～
+"063"	{emote: Love}{pause 16}あら～　{pause 16}うれしいっ！{pause 8}	{0011-0003-0002-0000}？{pause 32}	{ruby (charSpan 1): ほ}欲しかったのよ～、{pause 16}これ！
+"064"	{emote: Shyness}おかげさまで{pause 16}	{ruby (charSpan 2): ことし}今年のクリスマスイブは、{pause 16}	いい{ruby (charSpan 1): おも}思い{ruby (charSpan 1): で}出になりそう{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}アタシなら　もう{ruby (charSpan 3): だいじょうぶ}大丈夫よ{pause 32}	{emote: Worry}アナタを{ruby (charSpan 1): ま}待ってる{ruby (charSpan 1): ひと}人が　いるんでしょ？{Wait for input}	その{ruby (charSpan 1): ひと}人のところに　{ruby (charSpan 1): い}行ってあげて
+"065"	{emote: Soft Smile}{ruby (charSpan 1): からだ}体に{ruby (charSpan 1): き}気をつけて、{pause 16}	お{ruby (charSpan 2): しごと}仕事がんばってね、{pause 8}サンタさん{Wait for input}{emote: Sheepishness}アナタのことを{pause 8}	{ruby (charSpan 2): こころま}心待ちにしている{ruby (charSpan 1): ひと}人が{pause 16}	いっぱい　いるんだから{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"066"	{emote: Soft Smile}サンタクロースって{pause 16}	ステキな　お{ruby (charSpan 2): しごと}仕事よね？{Wait for input}{ruby (charSpan 1): ひと}人に{ruby (charSpan 1): ゆめ}夢を　{ruby (charSpan 1): あた}与えることなんて{pause 16}	そうそう、{pause 8}できないもの{pause 32}	{emote: Greetings}がんばってね、{pause 8}サンタさん
+"067"	{emote: Sigh}{pause 16}ふぅ～{pause 8}・{pause 8}・{pause 8}・{pause 8}これで{pause 8}	{ruby (charSpan 2): あんしん}安心して{ruby (charSpan 1): ねむ}眠れるわ、{pause 8}{catchphrase}
+"068"	{emote: Sheepishness}うふふ、{pause 16}{ruby (charSpan 4): しょうばいどうぐ}商売道具の	プレゼントの{ruby (charSpan 1): ふくろ}袋を　{ruby (charSpan 1): わす}忘れるなんて{pause 16}	ドジなサンタさんね？	{emote: Soft Smile}きっと、{pause 8}まだ　あのトナカイが{pause 16}	{ruby (charSpan 1): も}持ってるんじゃない？{pause 32}	えっと、{pause 16}{emote: Curious}{Orange}ジングル{Color Reset}って{ruby (charSpan 1): い}言ったっけ？
+"069"	{emote: Sheepishness}うふふ、{pause 16}プレゼントの{ruby (charSpan 1): ふくろ}袋がない	サンタクロースって{pause 16}	ただの　コスプレイヤーみたい	{emote: Reset}とりあえず、{pause 8}アナタのトナカイと{pause 16}	{ruby (charSpan 2): そうだん}相談してみたらどうかしら？	{pause 8}{catchphrase}？
+"070"	{emote: Sunny}メリー・クリスマス！{pause 8}　サンタさん！{pause 32}	{emote: Shyness}アナタのこと、{pause 8}アタシ{pause 20}	ずっと　{ruby (charSpan 1): ま}待ってたんだから{pause 8}・{pause 8}・{pause 8}・{000f-0005-0004-0000-0000}	プレゼントだよ	メリー・クリスマス
+"071"	{emote: Thought}{pause 16}アナタ　どこかで{pause 16}	{ruby (charSpan 1): み}見たことある{ruby (charSpan 1): き}気が{pause 8}・{pause 8}・{pause 8}・{pause 8}{000f-0005-0004-0000-0000}	プレゼントだよ	メリー・クリスマス
+"072"	{emote: Worry}ご{ruby (charSpan 2): ろうたい}老体で　こんな{ruby (charSpan 2): じかん}時間まで{pause 8}・{pause 8}・{pause 8}・{pause 8}	サンタクロースも{ruby (charSpan 2): たいへん}大変ね、	{pause 8}{catchphrase}{000f-0005-0004-0000-0000}	プレゼントだよ	メリー・クリスマス
+"073"	って{pause 4}・{pause 4}・{pause 4}・{pause 4}{emote: Curious}あれ？{pause 32}	プレゼントは？{pause 32}	{emote: Worry}じれったい{ruby (charSpan 1): ひと}人{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"074"	{emote: Sunny}メリー・クリスマス！{pause 32}	{emote: Soft Smile}サンタさん、{pause 8}{ruby (charSpan 1): おう}応えんしてるわよ
+"075"	{emote: Sunny}{ruby (charSpan 1): は}張り{ruby (charSpan 1): き}切ってるわね、{pause 8}サンタさん！{pause 32}	{emote: Soft Smile}{ruby (charSpan 2): いちねん}一年に{ruby (charSpan 2): いちど}一度の　{ruby (charSpan 3): おおしごと}大仕事だものね
+"076"	{emote: Anger}{ruby (charSpan 1): とし}歳はとっていても、{pause 16}{ruby (charSpan 2): じょうねつ}情熱の{ruby (charSpan 1): あか}赤で　	{ruby (charSpan 2): ぜんしん}全身コーディネートするなんて{pause 32}	{emote: Glare}{ruby (charSpan 1): こころ}心は{ruby (charSpan 1): わか}若いのね、{pause 8}アナタ
+"077"	{emote: Anger}よその{ruby (charSpan 1): むら}村の　{Town name (pink)}で{pause 16}　	イブを{ruby (charSpan 1): す}過ごすなんて、{pause 32}	{emote: Glare}いきなことするのね、{pause 8}アナタ
+"078"	{emote: Soft Smile}この　{Town name (pink)}{ruby (charSpan 1): むら}村で{pause 16}	{ruby (charSpan 1): わす}忘れられない　イブの{ruby (charSpan 1): おも}思い{ruby (charSpan 1): で}出が{pause 8}	できるといいわね、{pause 8}{catchphrase}
+"079"	{emote: Glee}{Town name (pink)}{ruby (charSpan 1): むら}村のイブを{pause 16}	{ruby (charSpan 1): たの}楽しんでいってちょうだい！	{pause 8}{catchphrase}！
+"080"

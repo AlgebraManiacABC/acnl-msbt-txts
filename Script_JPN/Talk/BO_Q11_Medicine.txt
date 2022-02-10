@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Disbelief}
-"003"	{emote: Disbelief}
-"004"	{emote: Alarmed}
-"005"	{Blue}おくすり{Color Reset}{pause 8}!
-"006"	{emote: Happiness}
-"007"	{emote: Disbelief}
-"008"	{emote: Shocked}
-"009"	{emote: Surprise}
+"001"	{emote: Curious}んん？　{Blue}おくすり{Color Reset}くれるのぉ？{Wait for input}	{emote: Worry}ニガかったら	イヤだなぁ、{pause 8}{catchphrase}
+"002"	{emote: Disbelief}{0007-000b-0000}えぇ～？！{pause 20}	{Blue}おくすり{Color Reset}？！{Wait for input}{emote: Worry}ニガそうだけど{pause 20}	せっかくだから{pause 8}・{pause 8}・{pause 8}・{pause 20}
+"003"	{emote: Disbelief}{0007-000b-0000}えぇ～？！{pause 20}	{Blue}おくすり{Color Reset}？{Wait for input}{emote: Worry}うぅ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{0005-0010-0002-0000}{ruby (charSpan 1): あじ}味だったら	いいのになぁ、{pause 8}{catchphrase}
+"004"	{emote: Alarmed}{0007-000b-0000}お、{pause 20}{Blue}おくすり{Color Reset}？！{pause 20}	ボクのために？{Wait for input}	{emote: Happiness}ありがとぉ～
+"005"	{Blue}おくすり{Color Reset}{pause 8}・{pause 8}・{pause 8}・{pause 20}	ニガくても　ガマンだね{pause 8}・{pause 8}・{pause 8}・{pause 20}
+"006"	{emote: Happiness}ありがとう　{Player nickname (green)}{0005-000d-0000}{pause 20}	もらうよぉ～
+"007"	{emote: Disbelief}{0007-000b-0000}えぇ～？！{pause 20}	ボクのために	{Blue}おくすり{Color Reset}もって{ruby (charSpan 1): き}来てくれたのぉ？{Wait for input}{emote: Sorrow}{Player nickname (green)}{0005-000d-0000}！{pause 20}	ボク　カンゲキだよぉ～！
+"008"	{emote: Shocked}{0007-000b-0000}{Blue}おくすり{Color Reset}　もってきてくれたのぉ？！{pause 40}	{emote: Sorrow}{Player nickname (green)}{0005-000d-0000}が	てんしに　みえるよぉ{pause 8}・{pause 8}・{pause 8}・
+"009"	{emote: Surprise}{0007-000b-0000}わぁ～！{pause 20}	キミ{pause 20}　{Blue}おくすり{Color Reset}　もってるのぉ～？{Wait for input}{emote: Worry}の、{pause 20}のんでみるねぇ{pause 8}・{pause 8}・{pause 8}・

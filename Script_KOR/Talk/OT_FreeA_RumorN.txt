@@ -1,14 +1,14 @@
 == 0 ==
-"001"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"002"	그거 알아? {pause 8}
-"003"	그거 알아? {pause 8}
-"004"	아까 {pause 8}
-"005"	있잖아, {pause 8}
-"006"	당신 {pause 8}
-"007"	있잖아, {pause 8}
-"008"	근데 {pause 8}
-"009"	
-"010"	
-"011"	{emote: Sheepishness}
-"012"	{emote: Anger}
-"013"	{emote: Worry}
+"001"	{0009-0001-0006-000b-000c-000d}
+"002"	그거 알아? {pause 8}{Player nickname (green)}?{pause 32}	{emote: Worry}{pause 8}{0011-0001-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}	앓아누워 있대{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Thought}{pause 16}이따가 {Blue}약{Color Reset}을 가지고{pause 16}	병문안이라도 가야 하나?	{pause 8}{catchphrase}?
+"003"	그거 알아? {pause 8}{Player nickname (green)}?{pause 32}	우리 {Town name (pink)} 마을에{pause 16}	새로운 집이 세워질 거래	{emote: Soft Smile}어떤 사람이 이사 올지{pause 16}	너무 기대된다～ {pause 8}{catchphrase}
+"004"	아까 {pause 8}{0005-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}{pause 16}	역 앞에서{pause 8}	낯선 사람을 봤대	{emote: Thought}{pause 16}아마{pause 8}・{pause 8}・{pause 8}・{pause 16} 이 마을에{pause 8}	새로 이사 온 사람 아닐까?{Wait for input}{emote: Soft Smile}새로운 이웃이{pause 8} 생긴다는 건	정말 즐거운 일인 것 같아!	{pause 8}{catchphrase}!
+"005"	있잖아, {pause 8}{Player nickname (green)}{pause 32}	새로 이사 왔다는 {0011-0001-0002-0000}{000e-000e-000a-0004-c774-b791-0002-b791}{pause 16}	얘기 좀 해봤어?	{emote: Worry}그쪽도 새로 막 와서{pause 16}	한참 긴장하고 있을 테니까{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}아무래도 {pause 8}우리가	먼저 말을 걸어줘야 하지 않을까 싶어{pause 8},	{pause 8}{catchphrase}
+"006"	당신 {pause 8}그거 알아?{pause 32}	{emote: Worry}{0011-0001-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}{pause 8}	이 마을을 {pause 16}떠나려고 한대	{emote: Reset}아직 확실하게 정한 건 아니지만{pause 32}	꼭 하고 싶은 말이 있으면{pause 16}	늦기 전에 하는 게 좋겠어
+"007"	있잖아, {pause 8}{Player nickname (green)}{pause 32}	당신 그 얘기 들었어?{Wait for input}{emote: Worry}{0011-0001-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}{pause 16}	요즘 이사 준비하고 있대{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}근데 {pause 8}이사 갈 곳도{pause 16}	아직 안 정해졌다더라{Wait for input}{emote: Glare}아직 기회는 있다는 거지!{Wait for input}	{emote: Soft Smile}전할 말 있으면{pause 16}	늦기 전에 얘기하는 게 어때?
+"008"	근데 {pause 8}{Player nickname (green)}{pause 32}	당신 그 얘기 들었어?{Wait for input}{emote: Worry}{0011-0001-0002-0000}{000e-000e-0008-0002-c774-0002-ac00} 이사 간대{pause 32}	게다가 이사 갈 곳도{pause 16}	벌써 다 정해졌다나 봐{Wait for input}{emote: Reset}혹시 걔한테 할 말 있으면{pause 8}・{pause 8}・{pause 8}・{pause 16}	더 늦기 전에 한번{pause 16}	찾아가보는 게 좋을 거야
+"009"
+"010"
+"011"	{emote: Sheepishness}소문이라는 건 대체로{pause 16}	왜곡되거나 과장되게{pause 16}	전해지는 경우가 많은 것 같아	{emote: Worry}그러니까 소문을 들을 때는{pause 16}	반만 믿거나 흘려듣도록 해 {Player nickname (green)}{Wait for input}{emote: Reset}나는 내 눈으로 본 거나{pause 16}	직접 느낀 것 외에는{pause 16}	믿지 않는 편이야
+"012"	{emote: Anger}실은 나{pause 8}・{pause 8}・{pause 8}・ 	{0005-0002-0000}{000e-000e-000a-0004-c774-b791-0002-b791}{pause 16} 가족이야{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Sunny}우후훗! {pause 16}농담이야!	{emote: Sheepishness}근데 이런 얘기가 확대돼서{pause 16}	이상한 소문으로{pause 16}	변질되기도 하는 것 같아{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Worry}사실과는 상관없이{pause 16}	정말이면 재밌겠다든가{pause 16}	그런 이유로 말이지{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Thought}{pause 16}과연 나랑 {0005-0002-0000}{000e-000e-0008-0002-c740-0002-b294}{pause 16}	전달되는 과정에서 어떤 사이로{pause 16}	발전해 있을까? {pause 8}{catchphrase}?
+"013"	{emote: Worry}소문이란 건 참 무섭지～{pause 32}	{emote: Anger}근거도 없는 추측이{pause 16}	어느새 진짜 사실이 되고 마니{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}소문에는{pause 8}・{pause 8}・{pause 8}・{pause 8}	그 사람이 정말 그랬으면 좋겠다는{pause 16}	염원이 들어 있는 건지도 몰라

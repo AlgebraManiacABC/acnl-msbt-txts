@@ -1,20 +1,20 @@
 == 0 ==
-"001"	있잖아,{pause 20}
-"002"	{emote: Worry}
-"003"	{emote: Greetings}
-"004"	{emote: Disbelief}
-"005"	{emote: Agreement}
-"006"	{emote: Alarmed}
-"007"	{emote: Alarmed}
-"008"	{emote: Happiness}
-"009"	{emote: Alarmed}
-"010"	{emote: Agreement}
-"011"	{emote: Shocked}
-"012"	{emote: Shocked}
-"013"	
-"014"	{emote: Shocked}
-"015"	{emote: Mischief}
-"016"	{emote: Glee}
-"017"	{emote: Joy}
-"018"	{emote: Agreement}
-"019"	{emote: Sunny}
+"001"	있잖아,{pause 20} 시간도 때울 겸	「기회는 5번! 게임」에	도전해보지 않을래ー?{Wait for input}{emote: Agreement}니가 결정만 잘하면{pause 20}	아이템을 싼 가격에 얻을 수도 있어!	{pause 8}{catchphrase}!{Wait for input}{emote: Happiness}{0007-000d-0000}어때?{pause 20} 흥미가 생기지ー?{Player can respond (0005):0003-0015-0002-0028}	나 할래!	사양할게
+"002"	{emote: Worry}그, 그럴래ー?{pause 20}	너 되게 바쁜가 보다ー!
+"003"	{emote: Greetings}좋았어ー!{pause 20}	그럼 먼저 규칙부터	설명해주마!{Wait for input}{emote: Anger}지금 나한테 가구 5개가 있어!{pause 40}	넌 그중 적어도 1개를	나한테서 사 가게 될 거야ー{Wait for input}{emote: Reset}지금부터 차례대로 1개씩	이름과 가격을 제시할 테니까{pause 40}	{emote: Inspired}{0007-000b-0000}이거다ー!{pause 20} 싶을 때 말을 해줘!{Wait for input}{emote: Reset}만약 마지막 5번째까지	결정을 내리지 못하면{Wait for input}{emote: Disagreement}너의 의사와는 상관없이{pause 8}	5번째 가구는 무조건 니가 사야 해ー!{Wait for input}{emote: Thought}물론 5번째 가구가	엄청난 행운일지{pause 20}	엄청난 손해일지{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Agreement}그건 오직 하늘만이 알고 있어!{pause 20}	고민만 하다가 피를 볼 수도	있으니까 조심해야 한다구!{Wait for input}{emote: Happiness}자, 그럼 1번째 가구ー!{Wait for input}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 40}	{Blue}{emote: Curious}{Number (0x9)}벨{Color Reset}에 살래?{confirmation-02}{Player can respond (0005):0004-0015-0005-0028}	살래	사지 않을래
+"004"	{emote: Disbelief}{0007-000b-0000}헉, 뭐야?!{pause 20}	벌써 갖고 싶은 게 나왔어ー?{Wait for input}{emote: Worry}영 게임 같지는 않지만{pause 40}	{emote: Disagreement}할 수 없지{pause 8}・{pause 8}・{pause 8}・{pause 20}	그럼 이걸 사 가도록 해ー!
+"005"	{emote: Agreement}그래! 처음은 일단 넘기는 거지!{pause 20}	그럼 이제 2번째 가구 간다ー!{Wait for input}{emote: Reset}{0011-0003-0002-0001}{000e-000e-0008-0002-c774-0002-ac00}{pause 8}・{pause 8}・{pause 8}・{pause 40}	{Blue}{emote: Greetings}{Number (0x9)}벨{Color Reset}이라면{pause 40} 사겠어ー?{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	살래	사지 않을래
+"006"	{emote: Alarmed}오호라ー!{pause 20}	이걸 갖고 싶은가 보군ー!{pause 40}	{emote: Happiness}원한다면 팔아주지ー!
+"007"	{emote: Alarmed}앗ー!{pause 20} 이번도 그냥 넘기는 거냐ー?{pause 40}	{emote: Resigned}경고했지만 너무 고민만 해도	위험하다구ー{pause 8} 알지?{Wait for input}{emote: Reset}다음, 3번째 가구!{Wait for input}	{0011-0003-0002-0002}{000e-000e-0008-0002-c774-0002-ac00}{pause 8}・{pause 8}・{pause 8}・{pause 40}	가격은 {Blue}{emote: Greetings}{Number (0x9)}벨{Color Reset}!{pause 40} 어떻게 할래ー?{confirmation-02}{Player can respond (0005):0008-0015-0009-0028}	살래	안 살래
+"008"	{emote: Happiness}이걸로 결정한 거지?{pause 20}	그렇다면 거래 성립ー!
+"009"	{emote: Alarmed}이번에도?!{pause 20} 꽤 용감한걸ー?{pause 40}	{emote: Disagreement}이제 2번 남았어!{pause 20} 이번에 안 사면	꼼짝없이 5번째 가구를 사야 해ー!{Wait for input}{emote: Anger}운명의 열쇠를 쥔 4번째 가구{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0003}{000e-000e-0008-0002-c774-0002-ac00}{pause 8}・{pause 8}・{pause 8}・{pause 40}	{Blue}{emote: Greetings}{Number (0x9)}벨{Color Reset}이라면?{confirmation-02}{Player can respond (0005):000a-0015-000d-0028}	살래!	아직 멀었어!
+"010"	{emote: Agreement}드디어 결단을 내렸군ー!{pause 40}	조심해서 잘 가져가라!
+"011"	{emote: Shocked}{0007-000b-0000}헉!!{pause 20}	마지막의 마지막까지	운명을 걸어볼 셈이군ー!{Wait for input}{emote: Happiness}그럼 약속한 대로{pause 20}	5번째 가구는 꼭 니가 사는 거다ー?{Wait for input}{emote: Pride}짜잔ー!{pause 20} 5번째 가구를 발표하마!{Wait for input}	{emote: Anger}가구는 {0011-0003-0002-0004}!	가격은{pause 8}・{pause 8}・{pause 8}・{pause 60} 무려 {Blue}{emote: Greetings}{Number (0x9)}벨{Color Reset}!!	{emote: Mistaken}안됐다!{pause 20}	가격이 조금 비싼 편인데ー!{Wait for input}{emote: Disagreement}그래도 규칙은 규칙이니까{pause 20}	꼼짝없이 사주셔야겠어!	{pause 8}{catchphrase}!
+"012"	{emote: Shocked}{0007-000b-0000}이럴 수가!!{pause 20}	운명을 정말로 하늘에 맡길 셈이군ー!{Wait for input}{emote: Happiness}규칙은 기억하고 있지?{pause 20}	넌 이제 5번째 가구를 사야 해ー!{Wait for input}{emote: Pride}자, 자!{pause 20} 5번째 가구는ー?{Wait for input}	{emote: Anger}{0011-0003-0002-0004}{000e-000e-0008-0002-c774-0002-ac00}	{pause 8}・{pause 8}・{pause 8}・{pause 60}{Blue}{emote: Greetings}{Number (0x9)}벨{Color Reset}!!{Wait for input}{emote: Delight}오옷! 축하한다!{pause 20}	운이 좋은걸,{pause 8} {Player nickname (green)}?{Wait for input}{emote: Happiness}자, 그럼 거래를 끝내볼까ー?
+"013"
+"014"	{emote: Shocked}근데{pause 40} 이렇게 되면{pause 8}	게임이 아니라 그냥 쇼핑이잖아!{Wait for input}{emote: Sadness}만약에{pause 8} 다시 하게 된다면{pause 20}	좀 더 드라마틱한 전개가 좋겠어{pause 8}・{pause 8}・{pause 8}・
+"015"	{emote: Mischief}남은 가구도 다양하게 있는데{pause 20}	다음 기회를 위해 갖고 있겠어,	{pause 8}{catchphrase}!
+"016"	{emote: Glee}니가 원하는 가구를 구한 거지ー?{pause 20}	나중에 또 하자!
+"017"	{emote: Joy}너의 눈빛에서	날카로운 판단력이	엿보였다, {pause 8}{catchphrase}!
+"018"	{emote: Agreement}너한테는 안타까운 결과였지만{pause 40}	{emote: Happiness}이번 일을 설욕할 기회가{pause 20}	또 있겠지, 뭐! {pause 8}{catchphrase}!
+"019"	{emote: Sunny}너 은근히 모험을 즐기는구나?{pause 20}	그런 스타일 난 아주 맘에 든다!	{pause 8}{catchphrase}!

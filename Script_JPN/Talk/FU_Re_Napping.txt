@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Sleepy}
-"002"	{emote: Alarmed}
-"003"	{emote: Sleepy}
-"004"	・{pause 5}
-"005"	{emote: Sleepy}
-"006"	{emote: Alarmed}
-"007"	{emote: Sleepy}
-"008"	
-"009"	{emote: Alarmed}
-"010"	{emote: Distress}
-"011"	{emote: Surprise}
-"012"	{emote: Soft Smile}
-"013"	{emote: Surprise}
-"014"	{emote: Soft Smile}
-"015"	{emote: Surprise}
+"001"	{emote: Sleepy}・・・ん～{pause 10}んんん{0007-0008-0004-003c-0000}
+"002"	{emote: Alarmed}ふぁ！！{0007-0008-0004-003c-0000}
+"003"	{emote: Sleepy}{pause 5}・{pause 5}・{pause 5}・ふぁぁ～{0007-0008-0004-003c-0000}
+"004"	・{pause 5}・{pause 5}・{emote: Alarmed}まぁ！{0007-0008-0004-003c-0000}
+"005"	{emote: Sleepy}{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}ふぁ～！{0007-0008-0004-003c-0000}
+"006"	{emote: Alarmed}ふぁ！！{0007-0008-0004-003c-0000}
+"007"	{emote: Sleepy}{pause 8}・{pause 8}・{pause 8}・{pause 8}ん～{pause 20}	{pause 5}・{pause 5}・{pause 5}・{pause 5}ふぁぁぁ～{0007-0008-0004-003c-0000}
+"008"
+"009"	{emote: Alarmed}あら！{pause 20}	{emote: Distress}わたし、{pause 10}{ruby (charSpan 1): いま}今　{ruby (charSpan 1): ね}寝てました？！{Wait for input}{emote: Shyness}はずかしい！{pause 20}	{ruby (charSpan 2): さいきん}最近　{pause 5}{ruby (charSpan 3): ねぶそく}寝不足だったんです
+"010"	{emote: Distress}{Player nickname (green)}さん{pause 20}	いつの{ruby (charSpan 1): ま}間に　{pause 5}いらっしゃったんですか？！{Wait for input}{emote: Soft Smile}せっかく　{pause 3}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくださったのに{pause 10}	すみません、{pause 15}{catchphrase}
+"011"	{emote: Surprise}あら！{pause 20}	{emote: Distress}いけない！{pause 30}　{ruby (charSpan 2): にど}二度{ruby (charSpan 1): ね}寝するところでした{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): お}起こしていただいて{pause 10}	ありがとうございます
+"012"	{emote: Soft Smile}わたしったら{pause 10}	また　{ruby (charSpan 1): ね}寝てしまうところでした{Wait for input}{emote: Sheepishness}せっかく　{ruby (charSpan 2): はやお}早起きしたのに{pause 10}	うとうとしてたら{pause 8}	もったいないですね！
+"013"	{emote: Surprise}あら！{pause 30}	ウトウトしちゃいました{Wait for input}{emote: Soft Smile}{Player nickname (green)}さんに{pause 10}	{ruby (charSpan 2): ねがお}寝顔を{ruby (charSpan 1): み}見られるなんて{pause 15}	{emote: Shyness}ちょっと　はずかしいです{pause 8}・{pause 8}・{pause 8}・{pause 8}{catchphrase}
+"014"	{emote: Soft Smile}{ruby (charSpan 1): かんが}考え{ruby (charSpan 1): ごと}事していたら{pause 10}	いつの{ruby (charSpan 1): ま}間にか{pause 8}　{ruby (charSpan 1): ね}寝てしまったみたいです{pause 30}	{emote: Bashful}{ruby (charSpan 1): き}気をつけなくちゃですね{pause 40}{emote: Soft Smile}
+"015"	{emote: Surprise}あら、{pause 20}わたし　{ruby (charSpan 1): ね}寝てました？{Wait for input}{emote: Resigned}{ruby (charSpan 2): さいきん}最近　{pause 3}{ruby (charSpan 3): ねぶそく}寝不足だったので{pause 10}	きっと　そのせいですね

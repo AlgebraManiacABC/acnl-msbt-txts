@@ -1,21 +1,21 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Greetings}
-"003"	{emote: Greetings}
-"004"	{emote: Surprise}
-"005"	{emote: Greetings}
-"006"	{emote: Greetings}
-"007"	{emote: Greetings}
-"008"	{emote: Surprise}
-"009"	{emote: Surprise}
-"010"	{emote: Alarmed}
-"011"	{emote: Alarmed}
-"012"	{emote: Disbelief}
-"013"	{emote: Agreement}
-"014"	{emote: Resigned}
-"015"	{emote: Glee}
-"016"	{emote: Agreement}
-"017"	{emote: Glee}
-"018"	{emote: Agreement}
-"019"	{emote: Glee}
-"020"	{emote: Agreement}
+"001"	{emote: Surprise}おっ！{pause 20}	{ruby (charSpan 1): はや}早いな、{Player nickname (green)}！{pause 40}	{emote: Soft Smile}{ruby (charSpan 1): あめ}雨だってのに　{ruby (charSpan 2): きあ}気合いだね～！　{pause 20}{catchphrase}！
+"002"	{emote: Greetings}おはよう、{Player nickname (green)}！{pause 40}	{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): あさ}朝くらい　のんびりすりゃいいのに	{pause 8}・{pause 8}・{pause 8}・{pause 20}タフだね～！　{pause 20}{catchphrase}！
+"003"	{emote: Greetings}{Greeting begin}よっ、{Player nickname (green)}{Greeting end}{pause 40}	{ruby (charSpan 1): あめ}雨だってのに、{ruby (charSpan 2): げんき}元気だね！{000a-000b-0006-0d10-0e00-cd00}
+"004"	{emote: Surprise}あっ！{pause 20}	{ruby (charSpan 1): みず}水もしたたる　{Player nickname (green)}！{pause 40}	{emote: Greetings}オーッス！　{pause 20}{catchphrase}！
+"005"	{emote: Greetings}{Greeting begin}おっ、{Player nickname (green)}じゃん！{Greeting end}{pause 40}	こんな{ruby (charSpan 1): ひ}日にも　{ruby (charSpan 1): はし}走り{ruby (charSpan 1): まわ}回ってんだ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): こんじょう}根性あるな！{000a-000b-0006-0f10-1000-cd00}
+"006"	{emote: Greetings}おー、{Player nickname (green)}！{pause 40}	{emote: Soft Smile}どーも！ {pause 20}{catchphrase}！
+"007"	{emote: Greetings}{Greeting begin}あー、{Player nickname (green)}じゃん！{Greeting end}{pause 40}	{ruby (charSpan 2): きょう}今日は　なんだか	シャキッとしない　{ruby (charSpan 2): てんき}天気だね！{000a-000b-0006-1110-1200-cd00}
+"008"	{emote: Surprise}あれ、{Player nickname (green)}じゃん！{pause 40}	{emote: Sheepishness}なーに、{pause 8}{ruby (charSpan 1): しめ}湿っぽい{ruby (charSpan 1): かお}顔して{pause 8}・{pause 8}・{pause 8}・{pause 20}	ウチの{ruby (charSpan 1): かお}顔{ruby (charSpan 1): み}見て　{ruby (charSpan 2): きあ}気合い{ruby (charSpan 1): い}入れな！　{pause 20}{catchphrase}！{pause 40}{emote: Reset}
+"009"	{emote: Surprise}あっ、{Player nickname (green)}じゃん！{pause 40}	{emote: Sheepishness}{ruby (charSpan 2): きょう}今日は　お{ruby (charSpan 1): たが}互いに	シケるね～！{pause 20}　{catchphrase}！{pause 40}{emote: Reset}
+"010"	{emote: Alarmed}あ、{pause 20}{Player nickname (green)}？！{pause 40}	{emote: Sheepishness}もう　{Hour}{ruby (charSpan 1): じ}時だってのに、	まだ　{ruby (charSpan 1): はし}走り{ruby (charSpan 1): まわ}回ってんの？{000a-000b-0006-1310-1400-cd00}
+"011"	{emote: Alarmed}ヤダ、{Player nickname (green)}じゃん！{pause 40}	{emote: Worry}こんな　{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): よる}夜に	{ruby (charSpan 1): なに}何してんのさ？{pause 20}　 {catchphrase}！
+"012"	{emote: Disbelief}ぎゃっ！{pause 20}	ぬれ　{0005-001f-0002-cd00}？！		{emote: Reset}と{ruby (charSpan 1): おも}思ったら{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}{Player nickname (green)}じゃん！{pause 20}	おどかさないでよ！{pause 20}　{catchphrase}！
+"013"	{emote: Agreement}ウチ、ふだんは	{ruby (charSpan 1): あさ}朝　{ruby (charSpan 1): よわ}弱いんだけど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日だけは　{ruby (charSpan 2): とくべつ}特別なんだ！ {pause 20}{catchphrase}！
+"014"	{emote: Resigned}ウチは　{ruby (charSpan 1): なに}何もやる{ruby (charSpan 1): き}気　{ruby (charSpan 1): お}起きないや{pause 8}・{pause 8}・{pause 8}・{pause 20}	ただでさえ　{ruby (charSpan 1): あさ}朝{ruby (charSpan 1): よわ}弱いのに{pause 8}	{ruby (charSpan 1): あめ}雨までなんて{pause 8}　ひどいよ、{pause 20}{catchphrase}
+"015"	{emote: Glee}でも　{ruby (charSpan 1): ま}負けないよ！{pause 20}	ウチは　{ruby (charSpan 1): あめ}雨にぬれると　{ruby (charSpan 2): とくべつ}特別、	{ruby (charSpan 1): ちから}力が　わいてくるんだ！　{pause 20}{catchphrase}！
+"016"	{emote: Agreement}{ruby (charSpan 1): あめ}雨だからって　くさってないで、{pause 8}	ウチも　{ruby (charSpan 1): すこ}少しは　{ruby (charSpan 2): みなら}見習わなきゃ！	{pause 20}{catchphrase}！
+"017"	{emote: Glee}ウチは　{ruby (charSpan 1): あめ}雨になると	{ruby (charSpan 2): げんき}元気になる　{ruby (charSpan 2): たいしつ}体質だから、	うれしいけど！　{pause 20}{catchphrase}！
+"018"	{emote: Agreement}{ruby (charSpan 1): くら}暗いし　ぬれるし、{pause 20}	{ruby (charSpan 1): よる}夜の{ruby (charSpan 1): あめ}雨を　{ruby (charSpan 1): たの}楽しむのは	なかなか　{ruby (charSpan 1): むずか}難しいよ、{pause 20}{catchphrase}
+"019"	{emote: Glee}まぁ　ウチも、{pause 8}	{ruby (charSpan 1): あめ}雨になると　テンション{ruby (charSpan 1): あ}上がっちゃう	タチだけどね！　{pause 20}{catchphrase}！
+"020"	{emote: Agreement}こんな{ruby (charSpan 1): あめ}雨の　{ruby (charSpan 2): よなか}夜中に　{ruby (charSpan 2): げんき}元気なのは、{pause 8}	アンタか　{ruby (charSpan 1): た}田んぼの	カエルくらいのもんさ！　{pause 20}{catchphrase}！

@@ -1,7 +1,7 @@
 == 0 ==
-"001"	そいじゃ　またね！　{pause 20}
-"002"	そんじゃあね！　{pause 20}
-"003"	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): つ}付き{ruby (charSpan 1): あ}合わせちゃって	{ruby (charSpan 1): わる}悪かったね！		{emote: Greetings}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Alarmed}
+"001"	そいじゃ　またね！　{pause 20}{catchphrase}！
+"002"	そんじゃあね！　{pause 20}{catchphrase}！
+"003"	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): つ}付き{ruby (charSpan 1): あ}合わせちゃって	{ruby (charSpan 1): わる}悪かったね！		{emote: Greetings}そんじゃあ　また！{pause 20}	{catchphrase}！
+"004"	{emote: Alarmed}えっ？！{pause 20}	もう　{ruby (charSpan 1): かえ}帰っちゃうの？！		{emote: Distress}ちょっと　ちょっと～！{pause 40}	ウチの　{ruby (charSpan 2): じまん}自慢の{ruby (charSpan 2): かぐ}家具を	もっと{ruby (charSpan 1): み}見てってよ～！　{pause 20}{catchphrase}！{pause 40}{emote: Worry}
+"005"	{emote: Alarmed}えっ？！{pause 20}	{Player nickname (green)}ってば、{pause 8}もう	{ruby (charSpan 1): かえ}帰ろうとしてる？	{emote: Distress}そんなぁ～！{pause 40}	もうちょっと　ウチの{ruby (charSpan 1): はなし}話に	つきあってよ！　{pause 20}{catchphrase}！{pause 40}{emote: Worry}
+"006"	{emote: Alarmed}え？！{pause 10}	もう　{ruby (charSpan 1): かえ}帰るの？！		{emote: Distress}そんなぁ～！{pause 40}	せっかく{ruby (charSpan 1): き}来たんだから、もっと	ゆっくりしていきなよ！　{pause 20}{catchphrase}！{pause 40}{emote: Worry}

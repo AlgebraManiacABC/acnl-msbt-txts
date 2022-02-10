@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{pause 8}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Alarmed}
-"010"	
-"011"	
-"012"	
-"013"	{emote: Alarmed}
-"014"	{emote: Alarmed}
-"015"	{emote: Alarmed}
-"016"	{emote: Shocked}
-"017"	
-"018"	
-"019"	
+"001"	{emote: Happiness}コーヒーを{ruby (charSpan 2): いっぱい}一杯、{pause 10}	テイクアウトで　お{ruby (charSpan 1): ねが}願いします！
+"002"	{emote: Happiness}{Blue}ブルーマウンテン{Color Reset}コーヒーを{ruby (charSpan 2): いっぱい}一杯、{pause 10}	テイクアウトで　お{ruby (charSpan 1): ねが}願いします！
+"003"	{emote: Happiness}コーヒーを{ruby (charSpan 2): いっぱい}一杯、{pause 10}	テイクアウトで　お{ruby (charSpan 1): ねが}願いします！{Wait for input}	ミルクは　{Blue}{ruby (charSpan 1): い}入れない{Color Reset}でください！
+"004"	{emote: Happiness}コーヒーを{ruby (charSpan 2): いっぱい}一杯、{pause 10}	テイクアウトで　お{ruby (charSpan 1): ねが}願いします！{Wait for input}	{ruby (charSpan 2): さとう}砂糖は　{Blue}{ruby (charSpan 1): い}入れない{Color Reset}でください！
+"005"	{emote: Happiness}いただきます！
+"006"	{pause 8}{emote: Love}{pause 10}めちゃめちゃ{pause 5}　おいしいです！{Wait for input}	{0007-000e-0000}{emote: Joy}ボク、{pause 10}ブルーマウンテンのブラックが	{ruby (charSpan 2): ていばん}定番なんですよ！{Wait for input}{emote: Happiness}それじゃあ、{pause 10}また{ruby (charSpan 1): き}来ますね{Wait for input}	ありがとうございました！
+"007"	{emote: Alarmed}{pause 5}あれっ？{pause 15}	これ、{emote: Reset}{pause 10}いつも{ruby (charSpan 1): の}飲むのと　{Blue}{ruby (charSpan 1): まめ}豆{Color Reset}が{ruby (charSpan 1): ちが}違うけど{pause 5}	{emote: Happiness}これはこれで　アリですね！	{emote: Reset}それじゃ、{pause 10}また{ruby (charSpan 1): き}来ます{Wait for input}	{emote: Happiness}ありがとうございました！
+"008"	{emote: Alarmed}{pause 5}あれっ？{pause 15}	ボク、{emote: Reset}{pause 10}{ruby (charSpan 2): ほんとう}本当は　{Blue}ミルク{Color Reset}を{ruby (charSpan 1): い}入れない{ruby (charSpan 1): は}派ですけど{pause 10}	{emote: Happiness}これはこれで　アリですね！	{emote: Reset}それじゃ、{pause 10}また{ruby (charSpan 1): き}来ます{Wait for input}	{emote: Happiness}ありがとうございました！
+"009"	{emote: Alarmed}{pause 5}あれっ？{pause 15}	ボク、{emote: Reset}{pause 10}{ruby (charSpan 2): ほんとう}本当は　{Blue}{ruby (charSpan 2): さとう}砂糖{Color Reset}を{ruby (charSpan 1): い}入れない{ruby (charSpan 1): は}派ですけど{pause 10}	{emote: Happiness}これはこれで　アリですね！	{emote: Reset}それじゃ、{pause 10}また{ruby (charSpan 1): き}来ます{Wait for input}	{emote: Happiness}ありがとうございました！
+"010"
+"011"
+"012"
+"013"	{emote: Alarmed}あれれっ？！{pause 15}	{emote: Sheepishness}これ、{pause 10}ブラックじゃないですね{Wait for input}{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Happiness}ま、{pause 10}{ruby (charSpan 2): しかた}仕方ないですね！{pause 20}	{Blue}{ruby (charSpan 1): まめ}豆{Color Reset}は{ruby (charSpan 1): あ}合ってますし{pause 5}　{ruby (charSpan 2): もんだい}問題ないです！{Wait for input}	{emote: Happiness}じゃ、{pause 10}お{ruby (charSpan 2): じゃま}邪魔しましたー！
+"014"	{emote: Alarmed}あれれっ？！{pause 15}	{emote: Sheepishness}これ、{pause 10}ブルーマウンテンの	ブラックじゃないですね{Wait for input}{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Happiness}ま、{pause 10}{ruby (charSpan 2): しかた}仕方ないですね！{pause 20}	{Blue}ミルク{Color Reset}は{ruby (charSpan 1): はい}入ってませんし{pause 5}　{ruby (charSpan 2): もんだい}問題ないです！{Wait for input}	{emote: Happiness}じゃ、{pause 10}お{ruby (charSpan 2): じゃま}邪魔しましたー！
+"015"	{emote: Alarmed}あれれっ？！{pause 15}	{emote: Sheepishness}これ、{pause 10}ブルーマウンテンの	ブラックじゃないですね{Wait for input}{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Happiness}ま、{pause 10}{ruby (charSpan 2): しかた}仕方ないですね！{pause 20}	{Blue}{ruby (charSpan 2): さとう}砂糖{Color Reset}は{ruby (charSpan 1): はい}入ってませんし{pause 5}　{ruby (charSpan 2): もんだい}問題ないです！{Wait for input}	{emote: Happiness}じゃ、{pause 10}お{ruby (charSpan 2): じゃま}邪魔しましたー！
+"016"	{emote: Shocked}あれれっ？！{pause 15}	{emote: Sheepishness}これ、{pause 10}ブルーマウンテンじゃないし、{pause 10}	ミルクも{ruby (charSpan 2): さとう}砂糖も　{ruby (charSpan 1): はい}入ってるんですね{Wait for input}{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Happiness}ま、{pause 10}{ruby (charSpan 2): しかた}仕方ないですね！{pause 20}	たまには　{ruby (charSpan 2): ぼうけん}冒険してみることにします！{Wait for input}	{emote: Happiness}じゃ、{pause 10}お{ruby (charSpan 2): じゃま}邪魔しましたー！
+"017"
+"018"
+"019"

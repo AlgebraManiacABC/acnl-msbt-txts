@@ -1,39 +1,39 @@
 == 0 ==
-"001"	{pause 40}
-"002"	{emote: Agreement}
-"003"	{emote: Agreement}
-"004"	サイコーにおいしい{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	
-"010"	{ruby (charSpan 1): だい}第3{ruby (charSpan 1): い}位は{pause 8}
-"011"	{ruby (charSpan 1): だい}第3{ruby (charSpan 1): い}位は{pause 8}
-"012"	{ruby (charSpan 1): だい}第3{ruby (charSpan 1): い}位は{pause 8}
-"013"	つづいて、{ruby (charSpan 1): だい}第2{ruby (charSpan 1): い}位は{pause 8}
-"014"	つづいて、{ruby (charSpan 1): だい}第2{ruby (charSpan 1): い}位は{pause 8}
-"015"	つづいて、{ruby (charSpan 1): だい}第2{ruby (charSpan 1): い}位は{pause 8}
-"016"	そして、{ruby (charSpan 1): だい}第1{ruby (charSpan 1): い}位は{pause 8}
-"017"	{pause 40}
-"018"	{ruby (charSpan 1): だい}第1{ruby (charSpan 1): い}位は{pause 8}
-"019"	{pause 40}
-"020"	そして、{ruby (charSpan 1): だい}第1{ruby (charSpan 1): い}位は{pause 8}
-"021"	{pause 40}
-"022"	
-"023"	さあ、{pause 10}
-"024"	{pause 8}
-"025"	さあ、{pause 10}
-"026"	さあ、{pause 10}
-"027"	{pause 8}
-"028"	さあ、{pause 10}
-"029"	さあ、{pause 10}
-"030"	{pause 8}
-"031"	さあ、{pause 10}
-"032"	
-"033"	{emote: Surprise}
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
+"001"	{pause 40}それじゃあ　そろそろ{pause 20}	ムシとり{ruby (charSpan 2): たいかい}大会の　{ruby (charSpan 3): ひょうしょうしき}表彰式を　{ruby (charSpan 1): はじ}始めますよ～{Wait <0078 0000> 'time'}
+"002"	{emote: Agreement}うん、うん{pause 20}	{ruby (charSpan 2): じゅんび}準備が　できましたね	{Wait <003c 0000> 'time'}	{emote: Happiness}それじゃあ　さっそくね、{pause 20}	{ruby (charSpan 2): ひとり}一人ひとり　{ruby (charSpan 2): はっぴょう}発表していきますよ～{pause 40}	まずは　{ruby (charSpan 1): だい}第3{ruby (charSpan 1): い}位から{Wait <005a 0000> 'time'}
+"003"	{emote: Agreement}うん、うん{pause 20}	ステキなムシでした{pause 20}	おめでとうね{Wait <003c 0000> 'time'}
+"004"	サイコーにおいしい{pause 20}	{emote: Distress}{Gray}じゃなくて・・・{pause 40}{Color Reset}	{emote: Happiness}ステキなムシを　ありがとうね{Wait <003c 0000> 'time'}
+"005"	{emote: Happiness}{ruby (charSpan 2): ゆうしょう}優勝おめでとうね{pause 20}	と～っても　ステキなムシでした	{Wait <003c 0000> 'time'}
+"006"	{emote: Happiness}それでは、{pause 20}	{ruby (charSpan 2): さいご}最後にもう{ruby (charSpan 2): いちど}一度{pause 20}　{ruby (charSpan 2): せいだい}盛大な{ruby (charSpan 2): はくしゅ}拍手を！{Wait <0028 0000> 'time'}
+"007"	{emote: Greetings}みなさん　おめでとう！{pause 40}	それじゃあ、{pause 10}また{ruby (charSpan 2): らいげつ}来月の	ムシとり{ruby (charSpan 2): たいかい}大会で　{ruby (charSpan 1): あ}会いましょうね{Wait <00b4 0000> 'time'}
+"008"	{emote: Greetings}みなさん　おめでとう！{pause 40}	それじゃあ、{pause 10}また{ruby (charSpan 2): らいねん}来年の	ムシとり{ruby (charSpan 2): たいかい}大会で　{ruby (charSpan 1): あ}会いましょうね{Wait <00b4 0000> 'time'}
+"009"
+"010"	{ruby (charSpan 1): だい}第3{ruby (charSpan 1): い}位は{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0000}をつかまえ、{pause 40}	{Blue}{Number (0x8)}ポイント{Color Reset}を　ゲットした{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0000}{Text size 100%}{Text size 150%}さんで～す{Text size 100%}	{Wait <003c 0000> 'time'}
+"011"	{ruby (charSpan 1): だい}第3{ruby (charSpan 1): い}位は{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0000}をつかまえ、{pause 40}	{Blue}{Number (0x8)}ポイント{Color Reset}を　ゲットした{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0000}{Text size 100%}{Text size 150%}さ～ん	{Text size 100%}{Wait <0028 0000> 'time'}
+"012"	{ruby (charSpan 1): だい}第3{ruby (charSpan 1): い}位は{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0000}をつかまえ、{pause 40}	{Blue}{Number (0x8)}ポイント{Color Reset}を　ゲットした{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0001-0002-0000}{Text size 100%}{Text size 150%}さんで～す{Text size 100%}	{Wait <003c 0000> 'time'}
+"013"	つづいて、{ruby (charSpan 1): だい}第2{ruby (charSpan 1): い}位は{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0001}をつかまえ、{pause 40}	{Blue}{Number (0x8)}ポイント{Color Reset}を　ゲットした{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0001}{Text size 100%}{Text size 150%}さんで～す{Text size 100%}	{Wait <003c 0000> 'time'}
+"014"	つづいて、{ruby (charSpan 1): だい}第2{ruby (charSpan 1): い}位は{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0001}をつかまえ、{pause 40}	{Blue}{Number (0x8)}ポイント{Color Reset}を　ゲットした{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0001}{Text size 100%}{Text size 150%}さ～ん{Text size 100%}	{Wait <0028 0000> 'time'}
+"015"	つづいて、{ruby (charSpan 1): だい}第2{ruby (charSpan 1): い}位は{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0001}をつかまえ、{pause 40}	{Blue}{Number (0x8)}ポイント{Color Reset}を　ゲットした{Wait <003c 0000> 'time'}	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0001-0002-0001}{Text size 100%}{Text size 150%}さんで～す{Text size 100%}	{Wait <003c 0000> 'time'}
+"016"	そして、{ruby (charSpan 1): だい}第1{ruby (charSpan 1): い}位は{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0002}をつかまえ、{pause 40}	{Blue}{Number (0x8)}ポイント{Color Reset}を　ゲットした{Wait <003c 0000> 'time'}
+"017"	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0002}{Text size 100%}{Text size 150%}さんで～す{Text size 100%}	{Wait <003c 0000> 'time'}
+"018"	{ruby (charSpan 1): だい}第1{ruby (charSpan 1): い}位は{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0002}をつかまえ、{pause 40}	{Blue}{Number (0x8)}ポイント{Color Reset}を　ゲットした{Wait <003c 0000> 'time'}
+"019"	{pause 40}{emote: Star Yell}{pause 15}	{Text size 150%}{0011-0000-0002-0002}{Text size 100%}{Text size 150%}さ～ん{Text size 100%}	{Wait <0028 0000> 'time'}
+"020"	そして、{ruby (charSpan 1): だい}第1{ruby (charSpan 1): い}位は{pause 8}・{pause 8}・{pause 8}・{pause 40}	{0011-0003-0002-0002}をつかまえ、{pause 40}	{Blue}{Number (0x8)}ポイント{Color Reset}を　ゲットした{Wait <003c 0000> 'time'}
+"021"	{pause 40}{emote: Star Yell}{pause 15}	{Blue}{Text size 150%}{0011-0001-0002-0002}{Text size 100%}{Color Reset}{Text size 150%}さんで～す{Text size 100%}	{Wait <003c 0000> 'time'}
+"022"
+"023"	さあ、{pause 10}	この　{Blue}どうのムシトロフィー{Color Reset}をどうぞ{Wait <003c 0000> 'time'}
+"024"	{pause 8}・{pause 8}・{pause 8}・{pause 20}でしたが、{pause 20}	{emote: Sadness}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): けっせき}欠席みたいです{Wait <003c 0000> 'time'}
+"025"	さあ、{pause 10}	この　{Blue}どうのムシトロフィー{Color Reset}をどうぞ{Wait <003c 0000> 'time'}
+"026"	さあ、{pause 10}	この　{Blue}ぎんのムシトロフィー{Color Reset}をどうぞ{Wait <003c 0000> 'time'}
+"027"	{pause 8}・{pause 8}・{pause 8}・{pause 20}でしたが、{pause 20}	{emote: Sadness}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): けっせき}欠席みたいです{Wait <003c 0000> 'time'}
+"028"	さあ、{pause 10}	この　{Blue}ぎんのムシトロフィー{Color Reset}をどうぞ{Wait <003c 0000> 'time'}
+"029"	さあ、{pause 10}この　{ruby (charSpan 1): ひか}光りかがやく	{Blue}きんのムシトロフィー{Color Reset}は{pause 8}	キミのものですよ{pause 5}・{pause 5}・{pause 5}・{Wait <004b 0000> 'time'}
+"030"	{pause 8}・{pause 8}・{pause 8}・{pause 20}でしたが、{pause 20}	{emote: Sadness}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): けっせき}欠席みたいです{Wait <003c 0000> 'time'}
+"031"	さあ、{pause 10}この　{ruby (charSpan 1): ひか}光りかがやく	{Blue}きんのムシトロフィー{Color Reset}は{pause 20}	キミのものですよ{pause 5}・{pause 5}・{pause 5}・{Wait <004b 0000> 'time'}
+"032"
+"033"	{emote: Surprise}あれ？{pause 20}	{ruby (charSpan 1): も}持ちきれないみたいだね	{Wait <003c 0000> 'time'}	{emote: Happiness}{ruby (charSpan 3): ひょうしょうしき}表彰式が{ruby (charSpan 1): お}終わったら、{pause 20}	おうちに　{ruby (charSpan 1): おく}送っておいて	あげますよ～{Wait <003c 0000> 'time'}
+"034"
+"035"
+"036"
+"037"
+"038"

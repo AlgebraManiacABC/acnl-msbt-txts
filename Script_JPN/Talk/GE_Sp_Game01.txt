@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	じゃ～ん{pause 20}
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Mistaken}
-"008"	{emote: Distress}
-"009"	{emote: Joy}
-"010"	
-"011"	{emote: Reset}
-"012"	{emote: Reset}
+"001"	{emote: Happiness}{ruby (charSpan 2): じゅんび}準備はオッケー？{Wait for input}	{Blue}1{ruby (charSpan 1): かい}回{Color Reset}{ruby (charSpan 2): しょうぶ}勝負、{pause 10}{ruby (charSpan 1): ま}待ったなしだからね！{pause 20}	あいこが{ruby (charSpan 1): で}出たら　{pause 8}やり{ruby (charSpan 1): なお}直しだよ
+"002"	{emote: Happiness}オッケー？{Wait for input}	{ruby (charSpan 1): さき}先に　{Blue}{Number (0x6)}{ruby (charSpan 1): かい}回{Color Reset}{ruby (charSpan 1): か}勝った{ruby (charSpan 1): ほう}方が{pause 10}	{ruby (charSpan 1): か}勝ちってことで！
+"003"	じゃ～ん{pause 20}　け～ん{pause 8}・{pause 8}・{pause 8}・{000f-0001-0006-0000-0000-0000}	グー	チョキ	パー
+"004"	{0007-000b-0000}グー！
+"005"	{0007-000b-0000}チョキ！
+"006"	{0007-000b-0000}パー！
+"007"	{emote: Mistaken}キャ！{pause 20}	イケると{ruby (charSpan 1): おも}思ったのに～
+"008"	{emote: Distress}あいこだ～！{pause 20}	{ruby (charSpan 1): つぎ}次こそは　キメるよ！
+"009"	{emote: Joy}ヤッター！！{pause 40}{emote: Soft Smile}
+"010"
+"011"	{emote: Reset}ってことは{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Distress}アンタの{ruby (charSpan 1): か}勝ちだ～{Wait for input}	{emote: Worry}ちょーくやし～、{pause 15}{catchphrase}
+"012"	{emote: Reset}ってことは{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Glee}アタイの{ruby (charSpan 1): か}勝ちだね、{pause 15}{catchphrase}！

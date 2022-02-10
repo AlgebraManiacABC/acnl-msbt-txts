@@ -1,29 +1,29 @@
 == 0 ==
-"001"	가다가 길을 잃으면{pause 16}
-"002"	{emote: Soft Smile}
-"003"	{emote: Soft Smile}
-"004"	{emote: Soft Smile}
-"005"	{emote: Soft Smile}
-"006"	{emote: Curious}
-"007"	{emote: Alarmed}
-"008"	{emote: Surprise}
-"009"	{emote: Alarmed}
-"010"	{emote: Soft Smile}
-"011"	{emote: Soft Smile}
-"012"	{emote: Alarmed}
-"013"	{emote: Curious}
-"014"	사실은 어디{pause 16}!
-"015"	{emote: Soft Smile}
-"016"	{emote: Worry}
-"017"	근데 {Player nickname (green)}
-"018"	{emote: Soft Smile}
-"019"	{emote: Worry}
-"020"	{emote: Alarmed}
-"021"	{emote: Curious}
-"022"	{emote: Worry}
-"023"	{emote: Worry}
-"024"	{emote: Soft Smile}
-"025"	{emote: Alarmed}
-"026"	{emote: Agreement}
-"027"	{emote: Worry}
-"028"	{emote: Anger}
+"001"	가다가 길을 잃으면{pause 16}	지도를 한번 봐봐, {pause 8}{catchphrase}
+"002"	{emote: Soft Smile}{Player nickname (green)}의 뒷모습{pause 8}・{pause 8}・{pause 8}・{pause 16}	믿음직스러운데? {pause 8}{catchphrase}?
+"003"	{emote: Soft Smile}우후훗!{pause 16}	이런 일이 있을 줄 알고{pause 16}	내가 집을 좀 치워 뒀지
+"004"	{emote: Soft Smile}우후훗{pause 16}	왠지 소풍이라도 가는 기분인데?	{pause 8}{catchphrase}?
+"005"	{emote: Soft Smile}당신～ 친절한 사람이네?{pause 16}	날 {pause 8}배려해주는 거야{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 8}
+"006"	{emote: Curious}근데 당신, 처음이지?{pause 16}	우리 집에 오는 거 말야{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}뭐 그렇다구 {pause 16}그렇게	긴장할 거 없어, {pause 8}{Player nickname (green)}
+"007"	{emote: Alarmed}그러고 보니 {pause 8}당신{pause 4}・{pause 4}・{pause 4}・{pause 32}	{emote: Reset}우리 집에 놀러 오는 거{pause 16}	이번이 처음이지?	{emote: Soft Smile}별거 없으니까	너무 기대는 하지 마, {pause 8}{Player nickname (green)}
+"008"	{emote: Surprise}그러고 보니 {Player nickname (green)}{000e-000e-0008-0002-c740-0002-b294}{pause 32}	{emote: Soft Smile}우리 집에 놀러 오는 거{pause 16}	처음이지{pause 8}・{pause 8}・{pause 8}・{pause 8}?
+"009"	{emote: Alarmed}그러고 보니 당신{pause 4}・{pause 4}・{pause 4}・{pause 32}	{emote: Reset}우리 집에 놀러 오는 거{pause 16}	이번이 처음은 아니지?	{emote: Soft Smile}그렇게 생각하니 우리도{pause 16}	꽤 사이가 좋은 편이네?{Wait for input}	{emote: Glare}당신 생각도 나랑 같지?
+"010"	{emote: Soft Smile}{Player nickname (green)}{000e-000e-0008-0002-c740-0002-b294}{pause 16} 우리 집이{pause 16}	몇 번이나 올 정도로 맘에 든 거야?{pause 16}	기분 좋다～
+"011"	{emote: Soft Smile}다행이야, {pause 16}{Player nickname (green)}{000e-000e-0008-0002-c774-0002-ac00}	몇 번이나 놀러 오는 걸 보니{pause 16}	우리도 스치는 인연은 아닌가 봐
+"012"	{emote: Alarmed}어? {pause 4}・{pause 4}・{pause 4}・{pause 4}여긴	{Player nickname (green)}네 집이네{Wait for input}{emote: Worry}오늘은 우리 집에{pause 16}	가기로 한 거 아니었어?	{Player nickname (green)}?
+"013"	{emote: Curious}어디 가? {pause 32}{emote: Worry}우리 집은	그쪽이 아닌 것 같은데{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"014"	사실은 어디{pause 16}	따로 갈 데라도 있는 거야?{pause 8}	{emote: Curious}{Player nickname (green)}?	{emote: Soft Smile}그런 거면{pause 8}・{pause 8}・{pause 8}・{pause 8} 집에는	다음 기회에 가기로 할까?	{pause 8}{catchphrase}?{000f-0000-0004-0000-0000}	아냐, 괜찮아!	그럼 그럴까?
+"015"	{emote: Soft Smile}그래{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 8}	그럼 얼른 가자!	{pause 8}{catchphrase}!
+"016"	{emote: Worry}그렇구나{pause 8}・{pause 8}・{pause 8}・{pause 8} 그럼 할 수 없지{pause 32}	{emote: Soft Smile}그럼 다음에 당신이	시간 있을 때 놀러 와!
+"017"	근데 {Player nickname (green)}{pause 16}	사실은 {emote: Curious}다른 볼일이	있었던 거야?{pause 8}	{emote: Soft Smile}혹시 그러면{pause 8}・{pause 8}・{pause 8}・{pause 8}	집에는 나중에 갈까?	{pause 8}{catchphrase}?{000f-0000-0004-0000-0000}	아냐, 괜찮아	그럼 그럴까?
+"018"	{emote: Soft Smile}정말 괜찮아{pause 8}・{pause 8}・{pause 8}・{pause 8}?	그럼 빨리 가자!	{pause 8}{catchphrase}!
+"019"	{emote: Worry}그렇구나{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}할 수 없지{pause 8}・{pause 8}・{pause 8}・{pause 16}	나중에 또 기회가 있을 거야!
+"020"	{emote: Alarmed}어? {pause 8}거긴{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Worry}{0011-0001-0002-0000}네 집 아니야?{Wait for input}	{emote: Anger}정신 차려! {Player nickname (green)}!
+"021"	{emote: Curious}왜 그래{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}빨리 가자, {Player nickname (green)}
+"022"	{emote: Worry}미안, {Player nickname (green)}{pause 16}	나 이제 그만{pause 16}	가봐야 할 것 같아{pause 8}・{pause 8}・{pause 8}・{pause 8}	우리 집에는{pause 16}	나중에 기회가 되면	그때 놀러 올래? {pause 8}{catchphrase}?
+"023"	{emote: Worry}있잖아 {Player nickname (green)}{pause 8}・{pause 8}・{pause 8}・{pause 16}	벌써 {Hour}시 {Minutes}분이야{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}잠이 부족하면 다음날{pause 16}	화장이 들뜨니까, {pause 8}우리 집에는	나중에 가는 걸로 할까?
+"024"	{emote: Soft Smile}자, 여기야!{Wait for input}	{emote: Reset}잠깐만 기다려줄래?{pause 16}	문 좀 열게{pause 4}・{pause 4}・{pause 4}・{pause 4}
+"025"	{emote: Alarmed}드디어 도착했네?{Wait for input}	{emote: Reset}잠깐만 있어봐{pause 4}・{pause 4}・{pause 4}・{pause 4}	지금 문 열게{pause 4}・{pause 4}・{pause 4}・{pause 4}
+"026"	{emote: Agreement}하아～ 드디어 도착했네!{Wait for input}	{emote: Reset}지금 문 열 테니까{pause 16}	잠시만 기다려봐{pause 4}・{pause 4}・{pause 4}・{pause 4}
+"027"	{emote: Worry}같이 가, {Player nickname (green)}～
+"028"	{emote: Anger}같이 가자고 했잖아{pause 8}・{pause 8}・{pause 8}・{pause 8}	내 말 듣기는 한 거야?{pause 32}	{emote: Aggravation}됐어! 그만둬! {pause 8}{catchphrase}!{000b-0002-0002-cd03}

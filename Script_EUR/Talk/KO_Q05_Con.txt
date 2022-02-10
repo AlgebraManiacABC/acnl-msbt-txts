@@ -1,50 +1,50 @@
 == 0 ==
-"001"	I cleaned up my room the other day,{pause 20}
-"002"	{emote: Thought}
-"003"	{emote: Worry}
-"004"	{emote: Thought}
-"005"	{emote: Worry}
-"006"	{emote: Thought}
-"007"	{emote: Worry}
-"008"	{emote: Soft Smile}
-"009"	{emote: Shyness}
+"001"	I cleaned up my room the other day,{pause 20}	{emote: Sheepishness}but I did such a good job that now	it feels kinda empty.{Wait for input}{emote: Soft Smile}Do you have any recommendations	for large, wide furniture you think	would look good in my pad?
+"002"	{emote: Thought}{pause 16}I was thinking about the furniture	layout in my pad,{pause 20} and I feel like I	really need something extra.	{emote: Soft Smile}If you have any suggestions for long,	skinny furniture,{pause 8} let me know right	away, {pause 20}{catchphrase}!
+"003"	{emote: Worry}I think my room would be perfect	with one more piece of furniture.{Wait for input}{emote: Thought}{pause 16}If you have any recommendations	for something small, let me know!
+"004"	{emote: Thought}{pause 16}I'm thinking about{pause 8} redecorating my	room,{pause 20} and I want to replace my	{0011-0003-0002-0000}.{pause 8}	{emote: Agreement}It doesn't matter what kind of	furniture it is, as long as it's the	same size.{pause 15} {emote: Happiness}Any recommendations?
+"005"	{emote: Worry}I feel like my room is kinda bland.	Yeah, it needs some oomph to it.{Wait for input}{emote: Soft Smile}I want to put something on top of	the {0011-0003-0002-0000},{pause 8} maybe?{pause 8}	Do you have any suggestions?{pause 20}
+"006"	{emote: Thought}{pause 16}I'm thinking about redecorating my	room.{pause 20} I mostly wanted to replace	my {0011-0003-0002-0000}.{pause 8}	Do you have {emote: Curious}suggestions for some	other furniture I should put in the	same spot? Something just as big?
+"007"	{emote: Worry}I feel like my room{pause 20} might just be	lacking something critical, like style.{Wait for input}{emote: Agreement}So{pause 8} I'm thinking maybe something on	the wall would look good!{pause 20} Do you	have {emote: Curious}any suggestions?
+"008"	{emote: Soft Smile}Maybe I shouldn't say this,{pause 8} but I feel	my room looks pretty nice!{Wait for input}{emote: Thought}{pause 16}It's just the {0011-0003-0002-0000}{pause 20}	on the wall isn't really doing it	for me.{Wait for input}{emote: Reset}I wonder if there's anything that'd	look better in its spot.{pause 20} {emote: Curious}If you find	something, could you let me know?
+"009"	{emote: Shyness}I want to redecorate my room,{pause 20} so if	you find any furniture I should get,	{emote: Reset}let me know! {pause 20}{capitalized}{catchphrase}!
 == 1 ==
-"001"	El otro día le di un buen repaso	a mi cuarto{pause 20}
-"002"	{emote: Thought}
-"003"	{emote: Worry}
-"004"	{emote: Thought}
-"005"	{emote: Worry}
-"006"	{emote: Thought}
-"007"	{emote: Worry}
-"008"	{emote: Soft Smile}
-"009"	{emote: Shyness}
+"001"	El otro día le di un buen repaso	a mi cuarto{pause 20}{emote: Sheepishness} y ahora lo noto	un tanto vacío.	{emote: Soft Smile}¿Se te ocurre algún mueble grande	que pueda quedar bien?
+"002"	{emote: Thought}{pause 16}Estoy reflexionando sobre cómo	tengo decorado el cuarto...{pause 20}	y creo que le falta chispa.{Wait for input}{emote: Soft Smile}Si tienes alguna recomendación,{pause 8} 	no te cortes, {pause 10}{catchphrase}.
+"003"	{emote: Worry}Creo que mi cuarto estaría perfecto	si tuviera algún mueble más.{Wait for input}{emote: Thought}{pause 16}Eso sí, tiene que ser pequeño,{pause 10} que	tampoco voy sobrado de espacio.	Si se te ocurre algo, avisa.
+"004"	{emote: Thought}{pause 16}Estoy pensando en deshacerme	de mi {0011-0003-0002-0000}.{Wait for input}{emote: Reset}Si dieras con algo bonico del	mismo tamaño para sustituirl{000e-0012-000c-0010-0002-006f-0002-0061-0000},{pause 8}	me lo dirías,{pause 8} {emote: Agreement}¿a que sí?
+"005"	{emote: Worry}Yo no soy muy de colores chillones	y tal,{pause 8} pero mi cuarto es demasiado	sobrio.{pause 20} Le falta un toque alegre.	{emote: Soft Smile}Podría colocar algo encima	de{l/ la/} {0011-0003-0002-0000},{pause 8} ¿no?{pause 20}	¿Alguna sugerencia?
+"006"	{emote: Thought}{pause 16}Quiero redecorar mi cuarto y se me	ha metido entre ceja y ceja cambiar{pause 20}	mi {0011-0003-0002-0000}.{pause 8}	{emote: Curious}¿Se te ocurre algún objeto	interesante que pueda colocar	en su lugar?
+"007"	{emote: Worry}Me temo que a mi cuarto{pause 20} le falta	algo de estilo.{Wait for input}{emote: Soft Smile}Hum, {pause 8}creo que el problema está	en la decoración de la pared.{pause 20}{emote: Curious}	¿No tendrás alguna sugerencia?
+"008"	{emote: Soft Smile}Quizá sea el menos indicado para	decirlo,{pause 8} pero mi cuarto está muy	bien decorado.{Wait for input}{emote: Thought}Aunque,{pause 8} para serte sincero,{pause 8} creo	que {000e-0001-0000}{0011-0003-0002-0000}	de la pared desentona un poco.{Wait for input}{emote: Reset}Estoy seguro de que podría poner	ahí algo mejor.{pause 20} Oye,{pause 8} {emote: Curious}si vieras alguna	cosa chula,{pause 8} me lo dirías,{pause 8} ¿verdad?
+"009"	{emote: Shyness}Voy al meollo de la cuestión:{pause 20} 	Si ves por ahí algo para redecorar	mi cuarto, dímelo, {pause 10}{catchphrase}.
 == 2 ==
-"001"	{emote: Sheepishness}
-"002"	{emote: Thought}
-"003"	{emote: Worry}
-"004"	{emote: Thought}
-"005"	{emote: Worry}
-"006"	{emote: Thought}
-"007"	{emote: Soft Smile}
-"008"	{emote: Soft Smile}
-"009"	{emote: Shyness}
+"001"	{emote: Sheepishness}C'est un peu vide, chez moi. {emote: Soft Smile}Tu	n'aurais pas une idée de grand	meuble{pause 20} pour remplir l'espace ?
+"002"	{emote: Thought}{pause 16}Il me faut un nouveau meuble de	taille moyenne. {emote: Soft Smile}Toute suggestion	sera étudiée, {pause 20}{catchphrase} !
+"003"	{emote: Worry}Je crois que mon intérieur	atteindrait la perfection absolue	avec un petit meuble de plus...	Mais lequel ?{pause 20} {emote: Thought}{pause 16}Si tu as des	suggestions, n'hésite pas !
+"004"	{emote: Thought}{pause 16}J'aimerais{pause 8} redécorer mon chez-moi,{pause 20}	j'ai {Article(word-dependant)}{0011-0003-0002-0000}	que je voudrais remplacer.	{emote: Agreement}N'importe quel meuble ferait	l'affaire, tant qu'il est de la même	taille.{pause 15} {emote: Happiness}Des suggestions ?
+"005"	{emote: Worry}Il me faudrait un objet à poser sur	{000e-0001-0000}{0011-0003-0002-0000}, chez	moi.{pause 20} Des suggestions ?
+"006"	{emote: Thought}{pause 16}Il faut que je redécore mon petit	chez-moi !{pause 20} Je voudrais remplacer	{000e-0001-0000}{0011-0003-0002-0000}.{pause 8}	{emote: Curious}Tu aurais une idée de meuble qui	pourrait faire l'affaire ?
+"007"	{emote: Soft Smile}Il me faudrait un truc pour	accrocher au mur chez moi.{pause 20} {emote: Curious}T'as	une idée ?
+"008"	{emote: Soft Smile}Ma maison est presque parfaite.	{emote: Thought}{pause 16}J'aimerais juste remplacer	{000e-0001-0000}{0011-0003-0002-0000}...{pause 20}	{emote: Reset}Je devrais pouvoir trouver mieux.{pause 20}	{emote: Soft Smile}Si tu as une idée, fais-m'en part !
+"009"	{emote: Shyness}Je voudrais redécorer chez moi.{pause 20}	Les idées de meubles sont les	bienvenues ! {capitalized}{catchphrase} !
 == 3 ==
-"001"	L'altro giorno ho fatto le pulizie,{pause 20}
-"002"	{emote: Thought}
-"003"	{emote: Worry}
-"004"	{emote: Thought}
-"005"	{emote: Worry}
-"006"	{emote: Thought}
-"007"	{emote: Worry}
-"008"	{emote: Soft Smile}
-"009"	{emote: Shyness}
+"001"	L'altro giorno ho fatto le pulizie,{pause 20}	{emote: Sheepishness}ma mi sa che ho esagerato...	Ora casa mia è praticamente vuota.{Wait for input}{emote: Soft Smile}Ti viene in mente un {Blue}mobile {Color Reset}enorme	che possa piazzare nel mezzo	della stanza?
+"002"	{emote: Thought}{pause 16}Pensavo alla disposizione dei miei	mobili{pause 20} e ho deciso che ho bisogno	di qualcosa di nuovo.{Wait for input}{emote: Soft Smile}Se ti viene in mente qualcosa,{pause 8}	vieni a dirmelo, {pause 20}{catchphrase}!
+"003"	{emote: Worry}Penso che alla mia stanza manchi	un {Blue}mobile{Color Reset} piccolo.{Wait for input}{emote: Thought}{pause 16}Hai qualche consiglio?	Se sì, fammi sapere.
+"004"	{emote: Thought}{pause 16}Penso di voler riarredare casa mia...	Per prima cosa, voglio rimpiazzare	{000e-0001-0000}{0011-0003-0002-0000}.{pause 8}	Se trovi qualcosa che possa	sostituirl{o/a/}{pause 8}.{pause 8}.{pause 8}. {emote: Curious}me lo fai sapere?	Basta che abbia le stesse misure!
+"005"	{emote: Worry}Che noia casa mia.	Devo trovare qualcosa che	la renda di nuovo interessante.{Wait for input}{emote: Soft Smile}Vorrei mettere qualcosa sopra	{000e-0001-0000}{0011-0003-0002-0000}.{pause 8}	Che ne dici?{pause 8} Hai delle proposte?{pause 20}
+"006"	{emote: Thought}{pause 16}Stavo pensando di cambiare	l'arredamento di casa e sostituire	{000e-0001-0000}{0011-0003-0002-0000}...{pause 8}	Con cosa potrei rimpiazzarl{o/a/}?	Quale altro mobile dalle stesse	dimensioni potrei usare?
+"007"	{emote: Worry}Penso che alla mia stanza manchi{pause 20}	qualcosa di essenziale...	Ad esempio... un po' di stile.{Wait for input}{emote: Soft Smile}Allora{pause 8} ho pensato che potrei	appendere qualcosa alle pareti.	No?{pause 20} Cosa potrei {emote: Curious}metterci?
+"008"	{emote: Soft Smile}Fammelo dire:{pause 8} la mia stanza è	davvero troppo forte!{Wait for input}{emote: Thought}{pause 16}Ma {000e-0001-0000}{0011-0003-0002-0000}{pause 20}	appes{o/a/} al muro mi dà parecchio	fastidio.{Wait for input}{emote: Reset}Cosa potrei appendere al suo	posto?{pause 20} {emote: Curious}Fammi sapere se trovi	qualcosa di giusto!
+"009"	{emote: Shyness}Voglio riarredare casa mia,{pause 20} quindi	se trovi un {Blue}mobile{Color Reset} interessante,{emote: Reset}	dimmelo! {pause 20}{capitalized}{catchphrase}!
 == 4 ==
-"001"	Ich hab neulich mal bei mir aufge-	räumt.{pause 20}!
-"002"	{emote: Thought}
-"003"	{emote: Anger}
-"004"	{emote: Anger}
-"005"	{emote: Thought}
-"006"	{emote: Anger}
-"007"	{emote: Anger}
-"008"	{emote: Agreement}
-"009"	Ich hab beschlossen, mich neu	einzurichten.{0000-0004-0000}
+"001"	Ich hab neulich mal bei mir aufge-	räumt.{pause 20} {emote: Anger}Und zwar so gründlich, dass	die Bude jetzt total leer aussieht!	{emote: Thought}Hast du vielleicht eine Idee für ein	schön großes Möbelstück, das gut	bei mir reinpassen würde?
+"002"	{emote: Thought}Wenn ich mir die Einrichtung in mei-	ner Bude so ansehe, werde ich das	Gefühl nicht los, dass mir was fehlt.	{emote: Glare}Falls dir also Möbel in den Sinn	kommen sollten, die du mir empfeh-	len könntest...{pause 10} lass ruhig hören!
+"003"	{emote: Anger}Mir fehlt nur noch ein Möbelstück,	dann ist meine Einrichtung perfekt!{Wait for input}{emote: Thought}Irgendwas Kleines... {pause 20}Wenn dir was	einfällt, gib Bescheid!
+"004"	{emote: Anger}Mann, Mann, Mann.{pause 20} Ich kann {diesen/diese/dieses}	{0011-0003-0002-0000} in meinem	Haus so langsam nicht mehr sehen!	Da muss was anderes hin.{pause 20} Egal was,	nur die Größe muss gleich sein.{pause 20}	{emote: Glare}Meinungen, Anregungen, Vorschläge?
+"005"	{emote: Thought}Meine Bude ist irgendwie langweilig.{pause 20}	{emote: Anger}Irgendwie muss sich das Ganze doch	aufpeppen lassen!{Wait for input}{emote: Thought}Vielleicht etwas oben auf {den/die/das}	{0011-0003-0002-0000} stellen?{pause 20}	Hast du 'ne Idee?
+"006"	{emote: Anger}Meine häusliche Einrichtung braucht	dringend frischen Wind.{Wait for input}Ich hatte ohnehin schon ewig vor,	{den/die/das} {0011-0003-0002-0000} auf	den Sperrmüll zu werfen...	{emote: Glare}Hast du 'ne Idee, was da besser	hinpassen könnte?{pause 20} {emote: Anger}Aber es muss	genauso groß sein!
+"007"	{emote: Anger}Wie gesagt, {pause 20}irgendwas fehlt meinen	vier Wänden...{pause 20} {emote: Pride}Stil vielleicht?{pause 20}	{emote: Laughter}Bwa ha ha!{pause 30}{Wait for input}{emote: Agreement}Im Ernst, wenn dir was einfällt, was	sich gut bei mir an der Wand	machen würde...{Wait for input}Nur immer her damit.
+"008"	{emote: Agreement}Ich mag mein Zuhause ja. {pause 20}Aber...{Wait for input}{emote: Aggravation}{Dieser/Diese/Dieses} eine {0011-0003-0002-0000}	an der Wand stört mich schon seit	Ewigkeiten!	{emote: Anger}Es muss doch irgendwas geben, was	da besser hinpasst als dieser dumme	Staubfänger!
+"009"	Ich hab beschlossen, mich neu	einzurichten.{Wait for input}{emote: Pride}Und für Möbelvorschläge bin ich	möglicherweise dankbar!{pause 30} {emote: Laughter}Bwa ha ha!{pause 30}{emote: Happiness}

@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Greetings}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Greetings}
+"001"	{emote: Happiness}やぁ～{pause 20}	{ruby (charSpan 1): こえ}声かけてくれてありがとぉ{Wait for input}{emote: Curious}ボク　まよった　かんこうきゃく	みたいだったぁ？{Wait for input}{emote: Sunny}でも、だいじょうぶ！{pause 40}	{ruby (charSpan 1): まえ}前に　この{ruby (charSpan 1): むら}村にすんでたから、{pause 20}	ボク　くわしいんだぁ～
+"002"	{emote: Greetings}やっほぉ～{pause 20}	キミも　お{ruby (charSpan 1): か}買いもの{ruby (charSpan 1): ちゅう}中～？{Wait for input}{emote: Happiness}じつは　ボク{pause 20}	{ruby (charSpan 1): まえ}前に　この{ruby (charSpan 1): むら}村に　すんでたんだぁ～{Wait for input}{emote: Glee}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): み}見なれた　しょうてんがいだけど、{pause 20}	なんだか　りょこう{ruby (charSpan 2): きぶん}気分だよぉ、{pause 8}{catchphrase}
+"003"	{emote: Happiness}やぁ～{pause 20}	{Town name (pink)}{ruby (charSpan 1): むら}村のしょうてんがいは、	やっぱり　いいねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Agreement}{ruby (charSpan 1): まえ}前に　すんでたから、{pause 20}	お{ruby (charSpan 1): みせ}店のばしょは	だいたいわかるよぉ、{pause 8}{catchphrase}
+"004"	{emote: Happiness}やっほぉ～{pause 40}	ボク　ここに　すんでたんだぁ{Wait for input}{emote: Glee}{ruby (charSpan 1): いま}今　すんでる{ruby (charSpan 1): むら}村も　すきだけど、{pause 20}	やっぱり　{Town name (pink)}{ruby (charSpan 1): むら}村は	いいねぇ～{Wait for input}こうやって　ついつい	あそびに　{ruby (charSpan 1): き}来ちゃうもん、{pause 8}{catchphrase}
+"005"	{emote: Greetings}やぁ～{pause 20}	また{ruby (charSpan 1): き}来ちゃったよ、{pause 8}	{Town name (pink)}{ruby (charSpan 1): むら}村～{Wait for input}{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	うっすら　ただよう	{0005-001a-0002-cd00}の　ニオイ{Wait for input}じつは{pause 20}　コレを　かぐために	あそびに{ruby (charSpan 1): き}来てるんだぁ、{pause 8}{catchphrase}

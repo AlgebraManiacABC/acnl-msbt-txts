@@ -1,36 +1,36 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Surprise}
-"003"	{emote: Surprise}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Worry}
-"007"	{emote: Reset}
-"008"	{emote: Reset}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
+"001"	{emote: Surprise}Ah! {pause 8}My {0011-0003-0002-0000}!{pause 20}	{emote: Reset}So that's where that item was!{pause 20}	{emote: Thought}But I don't really need it anymore{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}How about it, {Player nickname (green)}?{pause 20}	Care to take it home?{000f-0005-0004-0015-0028}	I'd love to!	I don't need it either.
+"002"	{emote: Surprise}Hey! {pause 8}Don't go opening my stuff!{pause 20}	{emote: Anger}I put {Article(word-dependant)}{0011-0003-0002-0000}	in there to make space out here!	{emote: Thought}.{pause 8}.{pause 8}.{pause 8}Say,{pause 8} {emote: Happiness}why don't you take my	item home with you?{000f-0005-0004-0015-0028}	OK, I'll take it!	I really don't need it.
+"003"	{emote: Surprise}Oh, {pause 8}my old {0011-0003-0002-0000}	was in there, huh?{pause 20} {emote: Reset}I don't use that	item anymore, so I put it away.{pause 15}	{emote: Happiness}If you want it, you can have it.{000f-0005-0004-0015-0028}	I'll take it!	I don't need it.
+"004"	{emote: Surprise}Oh, {pause 8}my {0011-0003-0002-0000}!{pause 20}	{emote: Happiness}I lose stuff all the time around here.{pause 15}	Finding it brings back memories!	{emote: Thought}I really don't think I'll ever use my	{0011-0003-0002-0000} again, and	it's a pain to keep storing, too{pause 8}.{pause 8}.{pause 8}.{pause 15}	{emote: Reset}Do you want to take my item home	with you? Free if you want.{000f-0005-0004-0015-0028}	I'll take it!	I don't need it.
+"005"	{emote: Surprise}Oh, {pause 8}my {0011-0003-0002-0000}!{pause 20}	{emote: Reset}I forgot I even had an item like that!{Wait for input}{emote: Agreement}I put it in there thinking I'd use it	one day, but I never have{pause 8}.{pause 8}.{pause 8}.{pause 15} {emote: Reset}Do you	just want to take it home?{000f-0005-0004-0015-0028}	I'll take it!	I don't need it.
+"006"	{emote: Worry}You too, huh{pause 8}.{pause 8}.{pause 8}.{pause 8}?
+"007"	{emote: Reset}That's too bad.
+"008"	{emote: Reset}Yeah, I hear ya.{pause 8} Who needs it?
+"009"	{emote: Happiness}You mean it?!{pause 15} Then it's all yours!
+"010"	{emote: Happiness}You mean it?!{pause 15} Glad to hear it!
+"011"	{emote: Happiness}Ooooo!{pause 15} Then it's all yours!
 == 1 ==
-"001"	{emote: Surprise}
-"002"	{emote: Surprise}
-"003"	{emote: Surprise}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Worry}
-"007"	{emote: Reset}
-"008"	{emote: Reset}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
+"001"	{emote: Surprise}¡Anda,{pause 8} mi {0011-0003-0002-0000}!{pause 20}	{emote: Reset}¡Y yo buscándol{000e-0012-000c-0010-0002-006f-0002-0061-0000}!{pause 20} {emote: Thought}Aunque la verdad	es que ya no me hace falta{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}¿Qué te parece,{pause 8} {Player nickname (green)}?{pause 20}	¿L{000e-0012-000c-0010-0002-006f-0002-0061-0000} quieres?{000f-0005-0004-0015-0028}	¡Claro!	No, gracias...
+"002"	{emote: Surprise}Pero bueno,{pause 8} ¡no me abras las cosas!{pause 20}	{emote: Anger}Metí {000e-0001-0000}{0011-0003-0002-0000}	ahí dentro para ahorrar espacio.	{emote: Thought}Aunque, para eso,{pause 8} me podría	deshacer de {000e-0012-0014-0010-0004-00e9-006c-0008-0065-006c-006c-0061-0000} directamente.{pause 8}.{pause 8}.{pause 8}	¿Qué dices,{pause 8} {emote: Happiness}l{000e-0012-000c-0010-0002-006f-0002-0061-0000} querrías tú?{000f-0005-0004-0015-0028}	¡Por supuesto!	No me hace falta...
+"003"	{emote: Surprise}Anda,{pause 8} mira dónde aparece mi viej{000e-0012-000c-0010-0002-006f-0002-0061-0000}	{0011-0003-0002-0000}.	Ya ni recordaba que l{000e-0012-000c-0010-0002-006f-0002-0061-0000} tenía.	A mí no me hace ninguna falta,{pause 15}	{emote: Happiness}¿l{000e-0012-000c-0010-0002-006f-0002-0061-0000} quieres tú?{000f-0005-0004-0015-0028}	¡Para mí!	¿Para qué?
+"004"	{emote: Surprise}¡Mi {0011-0003-0002-0000}!{pause 20}	{emote: Happiness}Es gracioso cuando aparecen cosas	que habías perdido hacía tiempo.	{emote: Thought}No debería acumular cosas que en	realidad no uso{pause 8}.{pause 8}.{pause 8}.{pause 15}{emote: Reset} Si a ti te sirve,{pause 8}	te l{000e-0012-000c-0010-0002-006f-0002-0061-0000} puedes llevar.{000f-0005-0004-0015-0028}	¡Con gusto!	¿Y para qué quiero eso?
+"005"	{emote: Surprise}¿{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?{pause 20}	{emote: Reset}¿Eso es mío?{Wait for input}{emote: Agreement}Ya ni me acordaba de que l{000e-0012-000c-0010-0002-006f-0002-0061-0000} tenía.{pause 20}	L{000e-0012-000c-0010-0002-006f-0002-0061-0000} guardé pensando que le daría	uso, y al final{pause 8}.{pause 8}.{pause 8}.{pause 15} {emote: Reset}¿L{000e-0012-000c-0010-0002-006f-0002-0061-0000} quieres tú?{000f-0005-0004-0015-0028}	¡Sí, por favor!	Yo no quiero eso...
+"006"	{emote: Worry}A ti tampoco te sirve,{pause 8} ¿no?
+"007"	{emote: Reset}Pues nada.
+"008"	{emote: Reset}Normal,{pause 8} es un trasto un poco inútil,{pause 8}	¿no?
+"009"	{emote: Happiness}¿En serio?{pause 15} ¡Me quitas un peso	de encima!
+"010"	{emote: Happiness}¿Sí?{pause 15} ¡Me alegro!
+"011"	{emote: Happiness}¡Fantástico!{pause 15} ¡Una cosa menos!
 == 2 ==
-"001"	{emote: Surprise}
-"002"	{emote: Surprise}
-"003"	{emote: Surprise}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Worry}
-"007"	{emote: Reset}
-"008"	{emote: Reset}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
+"001"	{emote: Surprise}{pause 8}{Mon cher/Ma chère/} {0011-0003-0002-0000}!{pause 20}	{emote: Reset}Il était donc là{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Thought}J'en veux plus,	tiens.	{emote: Happiness}Et toi, {Player nickname (green)}?{pause 20} Tu le veux?{000f-0005-0004-0015-0028}	Carrément!	Non, merci.
+"002"	{emote: Surprise}Ho! {pause 8}Tu te permets de tout ouvrir,	comme ça?{Wait for input}{emote: Anger}J'avais mis	{000e-0001-0000}{0011-0003-0002-0000} là	parce qu'{il/elle/} me gênait.	{emote: Thought}.{pause 8}.{pause 8}.{pause 8} Bon,{pause 8} {emote: Happiness}tu veux m'en débarrasser?{000f-0005-0004-0015-0028}	Je prends!	J'en veux pas.
+"003"	{emote: Surprise}Oh, j'avais rangé {pause 8}{ce satané/cette satanée/}	{0011-0003-0002-0000} ici{emote: Reset} parce	que je m'en sers plus.	{emote: Happiness}Si tu veux, tu peux l'avoir.{000f-0005-0004-0015-0028}	Je prends!	Non, merci.
+"004"	{emote: Surprise}Oh, {pause 8}{000e-0001-0000}{0011-0003-0002-0000}{pause 20}	que j'avais perdu{/e/}!{emote: Happiness} C'est donc là	qu'{il/elle/} était...{pause 15}	Ah, ça me rappelle des souvenirs.	{emote: Thought}Cela dit, je pense ne plus jamais en	avoir besoin.{Wait for input}Et en plus, ça prend de la place{pause 8}.{pause 8}.{pause 8}.{pause 15}	{emote: Reset}Tu veux l'emmener chez toi? Je te	l'offre!{000f-0005-0004-0015-0028}	Je prends!	Pas besoin.
+"005"	{emote: Surprise}Oh, {pause 8}{Article(word-dependant)}{0011-0003-0002-0000}...{pause 20}	{emote: Reset}Mais attends, {il/elle/} était à moi!	J'avais complètement oublié...	{emote: Agreement}Je l'avais laiss{é/ée/} dans un coin en me	disant que je l'utiliserai un jour{pause 8}.{pause 8}.{pause 8}.{pause 15}	{emote: Reset}Tu peux l'avoir si tu veux.{000f-0005-0004-0015-0028}	Je prends!	Pas besoin.
+"006"	{emote: Worry}Ah, t'en veux pas non plus{pause 8}.{pause 8}.{pause 8}.{pause 8} Je	comprends, va.
+"007"	{emote: Reset}Dommage. Bof.
+"008"	{emote: Reset}C'est bien ce que je pensais,{pause 8} qui	voudrait de ce truc-là?
+"009"	{emote: Happiness}Sérieux?{pause 15} Prends, c'est à toi!
+"010"	{emote: Happiness}T'es sûr{/e}?!{pause 15} Ça me fait plaisir, allez.
+"011"	{emote: Happiness}C'est inespéré.{pause 15} Voici pour toi!

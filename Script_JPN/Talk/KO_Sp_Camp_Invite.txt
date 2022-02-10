@@ -1,29 +1,29 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Glee}
-"003"	{emote: Alarmed}
-"004"	{emote: Thought}
-"005"	{emote: Distress}
-"006"	{emote: Thought}
-"007"	{emote: Thought}
-"008"	{emote: Thought}
-"009"	{emote: Distress}
-"010"	{emote: Shocked}
-"011"	{emote: Thought}
-"012"	{emote: Alarmed}
-"013"	{emote: Sunny}
-"014"	{emote: Sunny}
-"015"	{emote: Sunny}
-"016"	{emote: Laughter}
-"017"	{emote: Laughter}
-"018"	{emote: Laughter}
-"019"	{emote: Sunny}
-"020"	{emote: Happiness}
-"021"	{emote: Sunny}
-"022"	{emote: Happiness}
-"023"	{emote: Sheepishness}
-"024"	{emote: Sunny}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Alarmed}おっ！　{pause 8}そうかい？！{pause 30}	{emote: Happiness}オメェがそういうなら{pause 20}	{ruby (charSpan 1): おも}思い{ruby (charSpan 1): き}切って　{pause 8}{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): く}来るとするか！
+"002"	{emote: Glee}よーし！　{pause 20}{ruby (charSpan 1): き}決まりだ！{pause 30}	{emote: Happiness}オレぁ　{pause 20}ここに　{ruby (charSpan 1): こ}越して{ruby (charSpan 1): く}来るぜ！
+"003"	{emote: Alarmed}やっぱ、{pause 8}そうなるよな？！{Wait for input}	{emote: Happiness}オレぁ　{pause 8}{Town name (pink)}{ruby (charSpan 1): むら}村に{pause 20}	{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): く}来ることに　{ruby (charSpan 1): き}決めたぞ！
+"004"	{emote: Thought}{pause 16}うーん{pause 8}・{pause 8}・{pause 8}・、{pause 20}そうは{ruby (charSpan 1): い}言っても{pause 8}	イザ{ruby (charSpan 2): ひっこ}引越すとなると{pause 20}	いろいろと　メンドクサイからなぁ{pause 8}・{pause 8}・{pause 8}・	{emote: Worry}{ruby (charSpan 2): こんかい}今回は　{pause 8}やめとくことにするぜ
+"005"	{emote: Distress}いやいや、{pause 20}こういうことは{pause 8}	もっとじっくりと　{ruby (charSpan 1): かんが}考えねぇと{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Worry}{ruby (charSpan 2): こんかい}今回は　やめとくぜ、{pause 20}{catchphrase}！
+"006"	{emote: Thought}{pause 16}とは{ruby (charSpan 1): い}言え、{pause 20}{ruby (charSpan 1): いま}今の{ruby (charSpan 1): むら}村にも	{ruby (charSpan 2): なかま}仲間がたくさんいるしなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Soft Smile}{ruby (charSpan 2): こんかい}今回はパスするわ、{pause 20}{catchphrase}！
+"007"	{emote: Thought}{pause 16}うーん、{pause 20}やっぱ{ruby (charSpan 1): まよ}迷っちまうなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Reset}じゃ、{pause 8}どうするか、{pause 20}	ゲームで{ruby (charSpan 1): き}決めるってのは{pause 8}　{emote: Curious}どうかな？！	{emote: Anger}オメェが{ruby (charSpan 1): か}勝ったら　{pause 20}オレぁ{ruby (charSpan 1): こ}越して{ruby (charSpan 1): く}来る、{pause 30}	そのかわり　{pause 8}{ruby (charSpan 1): ま}負けた{ruby (charSpan 2): ばあい}場合は{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sheepishness}オメェが{ruby (charSpan 1): も}持ってる{pause 30}	その　{0011-0003-0002-0000}を{pause 20}	{ruby (charSpan 2): みやげ}土産にもらうってことで！{Player can respond (0005):0019-0000-000a-0000}	よしきた！	それはちょっと・・・
+"008"	{emote: Thought}{pause 16}とは{ruby (charSpan 1): い}言え、{pause 20}なかなか{ruby (charSpan 2): けっしん}決心がつかねぇな{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Glee}よーし、{pause 20}ここはひとつ{pause 30}	ゲームで{ruby (charSpan 1): き}決めようじゃねぇか！	{emote: Anger}オメェが{ruby (charSpan 1): か}勝ったら{pause 20}　オレぁ{ruby (charSpan 1): こ}越して{ruby (charSpan 1): く}来る、{pause 30}	{ruby (charSpan 1): ぎゃく}逆に　{ruby (charSpan 1): ま}負けた{ruby (charSpan 2): ばあい}場合は{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sheepishness}オメェが{ruby (charSpan 1): も}持ってる{pause 20}	その　{0011-0003-0002-0000}を{pause 20}	{ruby (charSpan 2): みやげ}土産にもらうってのは　どうだい？！{Player can respond (0005):0019-0000-000b-0000}	{ruby (charSpan 1): う}受けて{ruby (charSpan 1): た}立つよ！	そんなのイヤだよ
+"009"	{emote: Distress}ちょ、{pause 8}ちょっと{ruby (charSpan 1): ま}待ってくれ{pause 8}・{pause 8}・{pause 8}・{pause 20}	なんだか{ruby (charSpan 1): きゅう}急に　{pause 8}{ruby (charSpan 2): よわき}弱気になってきたぞ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Glee}よーし、{pause 20}こうなったら{pause 8}	ゲームで{ruby (charSpan 1): き}決めようじゃねぇか！{Wait for input}{emote: Anger}オメェが{ruby (charSpan 1): か}勝ったら{pause 20}　オレぁ{ruby (charSpan 1): こ}越して{ruby (charSpan 1): く}来る、{pause 30}	ただし{pause 8}　{ruby (charSpan 1): ま}負けた{ruby (charSpan 2): ばあい}場合は{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sheepishness}オメェが{ruby (charSpan 1): も}持ってる{pause 20}	その　{0011-0003-0002-0000}を{pause 20}	{ruby (charSpan 2): みやげ}土産にもらうぜ？！{Player can respond (0005):0019-0000-000c-0000}	オッケー！	やめておきます
+"010"	{emote: Shocked}えー、{pause 20}やらねぇの？！{pause 30}	{emote: Worry}いい{ruby (charSpan 1): かんが}考えだと　{ruby (charSpan 1): おも}思ったんだがなぁ{pause 8}・{pause 8}・{pause 8}・
+"011"	{emote: Thought}{pause 16}うーん、{pause 20}のってこねぇのかよ？{pause 30}	グッドアイデアだと{pause 8}	{ruby (charSpan 1): おも}思ったんだがなぁ{pause 8}・{pause 8}・{pause 8}・
+"012"	{emote: Alarmed}ありゃ、{pause 8}ダメか？！{pause 30}	{emote: Worry}{ruby (charSpan 2): おもしれ}面白ぇ{ruby (charSpan 1): かんが}考えだと　{pause 8}{ruby (charSpan 1): おも}思ったのになぁ{pause 8}・{pause 8}・{pause 8}・
+"013"	{emote: Sunny}よーし！　{pause 20}そうこなくっちゃ！{pause 30}	{emote: Anger}じゃあ、{pause 8}{Blue}ジャンケン{Color Reset}で	{ruby (charSpan 2): しょうぶ}勝負しようぜ！{0007-0012-0006-0300-001b-001a}
+"014"	{emote: Sunny}いい{ruby (charSpan 2): へんじ}返事だ！{pause 30}	{emote: Anger}じゃあ、{pause 8}{Blue}ジェスチャーゲーム{Color Reset}で	{ruby (charSpan 2): しょうぶ}勝負しようぜ！{0007-0012-0006-0101-001b-001a}
+"015"	{emote: Sunny}いいね、{pause 8}いいねぇ！{pause 30}	{emote: Anger}じゃあ、{pause 8}{Blue}あっちむいてホイ！　{Color Reset}で	{ruby (charSpan 2): しょうぶ}勝負しようぜ！{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Laughter}がーっはっは！{pause 30}	{emote: Sheepishness}じゃあ、{pause 8}{ruby (charSpan 1): わり}悪ぃが{ruby (charSpan 2): やくそく}約束どおり{pause 20}	{0011-0003-0002-0000}を　もらうぜ！
+"017"	{emote: Laughter}がーっはっは！{pause 30}	{emote: Sheepishness}じゃあ、{pause 8}{ruby (charSpan 1): わり}悪ぃが{ruby (charSpan 2): やくそく}約束どおり{pause 20}	{0011-0003-0002-0000}はオレのモンだ！
+"018"	{emote: Laughter}がーっはっは！{pause 30}	{emote: Happiness}じゃあ、{pause 8}{ruby (charSpan 2): やくそく}約束は{ruby (charSpan 2): やくそく}約束だ、{pause 20}	{0011-0003-0002-0000}は　いただくぜ！
+"019"	{emote: Sunny}おかげで　{pause 8}いい{ruby (charSpan 1): おも}思い{ruby (charSpan 1): で}出の{ruby (charSpan 1): しな}品が　できたぜ！{pause 30}	{emote: Happiness}ありがとな、{pause 20}{catchphrase}！
+"020"	{emote: Happiness}コイツを{ruby (charSpan 1): み}見て　{pause 8}この{ruby (charSpan 1): むら}村のこと　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出すぜ！{pause 30}	{emote: Glare}もちろん、{pause 8}オメェのこともな！
+"021"	{emote: Sunny}おかげで　いい{ruby (charSpan 2): きねん}記念になったぜ！{pause 30}	{emote: Happiness}ありがとな、{pause 8}{catchphrase}！
+"022"	{emote: Happiness}じゃあ、{pause 8}{ruby (charSpan 2): やくそく}約束したとおり{pause 20}	ここに　{ruby (charSpan 2): ひっこ}引越してくるからな！{Wait for input}{emote: Glee}なんだか　ワクワクしてきたぜー！
+"023"	{emote: Sheepishness}そんじゃあ、{pause 8}{ruby (charSpan 2): やくそく}約束どおり{pause 20}	こっちに　{ruby (charSpan 1): こ}越して{ruby (charSpan 1): く}来るからよ！{Wait for input}{emote: Glee}{ruby (charSpan 1): けぇ}帰ったら　{pause 8}さっそく{ruby (charSpan 2): にづく}荷造りしなきゃな！{pause 30}	すっげぇ　{ruby (charSpan 1): たの}楽しみだぜ、{pause 20}{catchphrase}！
+"024"	{emote: Sunny}じゃあ、{pause 8}これで{ruby (charSpan 1): き}決まりだな！{pause 30}	{emote: Happiness}キャンプを{ruby (charSpan 1): ひ}引きあげたら{pause 20}	すぐに{ruby (charSpan 2): にづく}荷造りして　{pause 8}こっちに{ruby (charSpan 1): こ}越して{ruby (charSpan 1): く}来るぜ！
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}

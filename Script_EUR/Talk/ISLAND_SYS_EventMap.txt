@@ -1,230 +1,230 @@
 == 0 ==
-"002"	You got {Article(word-dependant)}!
-"003"	You got {Article(word-dependant)}!
-"004"	You got {Article(word-dependant)}!
-"005"	Do you want to stay here tonight?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"006"	Throw your float here?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"007"	Take this opportunity to use the	{Blue}{0014-0000-0002-00-ffffffcd}{Color Reset}!
+"002"	You got {Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset}!
+"003"	You got {Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset}!	Maybe you can make a tool!
+"004"	You got {Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset}!	Good health is important! ♪
+"005"	Do you want to stay here tonight?{Player can respond (0005):0000-0000-0000-0000}	Make camp.	Find another spot.
+"006"	Throw your float here?{Player can respond (0005):0000-0000-0000-0000}	OK!	Somewhere else.
+"007"	Take this opportunity to use the	{Blue}{0014-0000-0002-cd00}{Color Reset}!
 "008"	...Oops. Nothing special there.
-"009"	Take this opportunity to fire the	{Blue}{0014-0000-0002-00-ffffffcd}{Color Reset}!
+"009"	Take this opportunity to fire the	{Blue}{0014-0000-0002-cd00}{Color Reset}!
 "010"	...Seems like you hit something!
 "011"	You created a pit!
-"012"	Stop burying the pitfall seed?	If you do, it will disappear.{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"013"	Our food supplies increased by	{Blue}{Number (0x6)}
-"015"	
+"012"	Stop burying the pitfall seed?	If you do, it will disappear.{Player can respond (0005):0000-0000-0000-0000}	I'll stop.	I'll keep digging.
+"013"	Our food supplies increased by	{Blue}{Number (0x6)} {/ration/rations}{Color Reset}!
+"015"
 "016"	What's the plan for today?
-"017"	Search. (Spaces: {Number (0x6)}
+"017"	Search. (Spaces: {Number (0x6)})
 "018"	Cook.
 "019"	Rest and recover.
 "020"	Explore, I guess?
-"021"	How will you spend today?{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"022"	You slept yesterday,{pause 10}
-"023"	
-"024"	Nice survival skills! You cooked	up this many servings: {Blue}{Number (0x6)}
+"021"	How will you spend today?{Player can respond (0000):0000-0000-0000-0000}	Explore. ({Number (0x6)} {/space/spaces})	Catch up on sleep.
+"022"	You slept yesterday,{pause 10} so you should	have some energy today!
+"023"
+"024"	Nice survival skills! You cooked	up this many servings: {Blue}{Number (0x6)}{Color Reset}.
 "025"	Where should I explore today?
 "026"	I think I'm just going to take it	easy today!
-"027"	How many spaces should I move	today? I'll move {Blue}{Number (0x6)}
+"027"	How many spaces should I move	today? I'll move {Blue}{Number (0x6)}{Color Reset}!
 "029"	The fish got away.
 "030"	There's nowhere to move.
-"031"	Oh!{pause 10}
-"032"	Hmmm...?{pause 10}
+"031"	Oh!{pause 10} I can smell honey!{pause 10} My favorite!
+"032"	Hmmm...?{pause 10} I sense fish nearby!
 "033"	Oh well! That kind of thing doesn't	bother me. ♪
 "034"	Oh yeah! Looks like it's time for	some rock crushing!
 "035"	I crushed the stone and cleared a	new path!
 "036"	You used medicine for First Aid!
-"037"	Is this spot OK?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"038"	Mmm...yum...YUM! I can't control	myself. I have to eat...{Blue}{Number (0x6)}
-"039"	Huh...?{pause 15}
+"037"	Is this spot OK?{Player can respond (0005):0000-0000-0000-0000}	Yeah!	Let's change it.
+"038"	Mmm...yum...YUM! I can't control	myself. I have to eat...{Blue}{Number (0x6)}{Color Reset}!
+"039"	Huh...?{pause 15} {Blue}{capitalized}{0014-0000-0002-cd00}{Color Reset}...?
 "040"	No thanks!
-"041"	
+"041"
 "042"	How should I explore today?
-"043"	Move ({Number (0x6)}
+"043"	Move ({Number (0x6)} {/space/spaces}).
 "044"	Dig a tunnel.
-"045"	
+"045"
 "046"	Make a tool.
-"047"	
-"048"	
+"047"
+"048"
 == 1 ==
-"002"	Mira lo que he encontrado,	¡{Article(word-dependant)}
-"003"	¡He encontrado {Article(word-dependant)}
-"004"	¡He encontrado {Article(word-dependant)}
-"005"	¿Acampamos aquí?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"006"	¿Arrojas aquí el anzuelo?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"007"	¡Voy a sacarle partido	a mi {Blue}{0014-0000-0002-00-ffffffcd}{Color Reset}!
-"008"	Vaya{pause 10}
-"009"	¡Voy a disparar {000e-0001-0000}!
+"002"	Mira lo que he encontrado,	¡{Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset}!
+"003"	¡He encontrado {Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset}!	Será útil para fabricar herramientas.
+"004"	¡He encontrado {Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset}!	¡Todo va a ser salud y felicidad! ♪
+"005"	¿Acampamos aquí?{Player can respond (0005):0000-0000-0000-0000}	Sí, venga	Mejor en otro sitio
+"006"	¿Arrojas aquí el anzuelo?{Player can respond (0005):0000-0000-0000-0000}	Sí, aquí	Mejor en otro sitio
+"007"	¡Voy a sacarle partido	a mi {Blue}{0014-0000-0002-cd00}{Color Reset}!
+"008"	Vaya{pause 10}.{pause 10}.{pause 10}.{pause 10} Aquí no hay nada.
+"009"	¡Voy a disparar {000e-0001-0000}	{Blue}{0014-0000-0002-cd00}{Color Reset}!
 "010"	¡He encontrado algo!
 "011"	¡He enterrado una trampa!
-"012"	¿Sigo cavando{pause 10}
-"013"	¡He conseguido {Blue}{Number (0x6)}
-"015"	
+"012"	¿Sigo cavando{pause 10} o lo dejo y descarto	las trampas que me queden?{Player can respond (0005):0000-0000-0000-0000}	Para	Sigue cavando
+"013"	¡He conseguido {Blue}{Number (0x6)}{Color Reset} raci{/ón/ones}!
+"015"
 "016"	¿Qué hago hoy?
-"017"	Exploro {Number (0x6)}
+"017"	Exploro {Number (0x6)} casill{/a/as}
 "018"	Cocino
 "019"	Reposo y me curo
 "020"	¿Exploro... o no?
-"021"	¿Qué hago hoy?{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"022"	Ayer me quedé descansando,{pause 10}
-"023"	
-"024"	¡La cena está lista!	He preparado {Blue}{Number (0x6)}
+"021"	¿Qué hago hoy?{Player can respond (0000):0000-0000-0000-0000}	Explorar ({Number (0x6)} {/casilla/casillas})	Dormir un poco
+"022"	Ayer me quedé descansando,{pause 10} ¡así	que hoy me esforzaré mucho más!
+"023"
+"024"	¡La cena está lista!	He preparado {Blue}{Number (0x6)} {Color Reset}raci{/ón/ones}.
 "025"	¡A ver qué descubro hoy!
-"026"	Hoy me lo voy a tomar con calma{pause 10}
-"027"	¡Hoy voy a explorar {Blue}{Number (0x6)}
+"026"	Hoy me lo voy a tomar con calma{pause 10}.{pause 10}.{pause 10}.
+"027"	¡Hoy voy a explorar {Blue}{Number (0x6)}{Color Reset} casill{/a/as}!{pause 20}	¡Porque me da la gana!
 "029"	Los peces se han escapado.
 "030"	Desde aquí no puedo ir	a ninguna parte.
-"031"	¡Huy!{pause 8}
-"032"	Mmm{pause 10}
+"031"	¡Huy!{pause 8} Por aquí huele a miel.{pause 10}	¡Con lo rica que está!
+"032"	Mmm{pause 10}.{pause 10}.{pause 10}.{pause 10} Yo diría que hay peces	por aquí cerca.
 "033"	Pero bueno, ¡a mí, plim!	¡Yo me quedo tan a gusto! ♪
-"034"	Aquí estoy yo para partir la pana{pause 10}
-"035"	¡Mira,{pause 10}!
+"034"	Aquí estoy yo para partir la pana{pause 10}	y todas las rocas que hagan falta{pause 10}.{pause 10}.{pause 10}.
+"035"	¡Mira,{pause 10} he descubierto un atajo!
 "036"	Hemos usado la medicina	para curar heridas.
-"037"	¿Salgo por aquí?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"038"	Qué buena pinta{pause 10}
-"039"	Huy,{pause 10}
-"040"	Bah,{pause 10}
-"041"	
+"037"	¿Salgo por aquí?{Player can respond (0005):0000-0000-0000-0000}	Sí	No
+"038"	Qué buena pinta{pause 10}.{pause 10}.{pause 10}.{pause 10} No me puedo	contener,{pause 10} ¡me tengo que comer {Blue}{Number (0x6)}{Color Reset}!
+"039"	Huy,{pause 10} pero si esto parece{pause 10}.{pause 10}.{pause 10}.{pause 10}	{Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset}.
+"040"	Bah,{pause 10} pues a mí no me hace falta.
+"041"
 "042"	¿Qué hago hoy?
-"043"	Exploro {Number (0x6)}
+"043"	Exploro {Number (0x6)} {/casilla/casillas}
 "044"	Hago un túnel
-"045"	
+"045"
 "046"	Fabrico algo
-"047"	
-"048"	
+"047"
+"048"
 == 2 ==
-"002"	Tu as trouvé	{Article(word-dependant)}
-"003"	Tu as trouvé {Article(word-dependant)}
-"004"	Tu as trouvé {Article(word-dependant)}
-"005"	Voulez-vous camper ici, ce soir ?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"006"	Veux-tu lancer le flotteur ici ?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"007"	Profitons-en pour donner un coup	de {Blue}{0014-0000-0002-00-ffffffcd}{Color Reset} !
+"002"	Tu as trouvé	{Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset} !
+"003"	Tu as trouvé {Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset} !	Utile pour fabriquer des outils !
+"004"	Tu as trouvé {Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset} !	Utile pour soigner les blessures ! ♪
+"005"	Voulez-vous camper ici, ce soir ?{Player can respond (0005):0000-0000-0000-0000}	Oui.	Non.
+"006"	Veux-tu lancer le flotteur ici ?{Player can respond (0005):0000-0000-0000-0000}	Oui !	Non, ailleurs.
+"007"	Profitons-en pour donner un coup	de {Blue}{0014-0000-0002-cd00}{Color Reset} !
 "008"	... Tu n'as rien trouvé de spécial...
-"009"	Profitons-en pour tirer une rafale	avec le {Blue}{0014-0000-0002-00-ffffffcd}{Color Reset} !
+"009"	Profitons-en pour tirer une rafale	avec le {Blue}{0014-0000-0002-cd00}{Color Reset} !
 "010"	... Tu as l'impression d'avoir touché	quelque chose !
 "011"	Tu as creusé un piège !
-"012"	Tu arrêtes de poser des pièges ?	Les pièges restants seront perdus.{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"013"	Tu as obtenu {Blue}{Number (0x6)}
-"015"	
+"012"	Tu arrêtes de poser des pièges ?	Les pièges restants seront perdus.{Player can respond (0005):0000-0000-0000-0000}	Oui, j'arrête.	Non, je continue !
+"013"	Tu as obtenu {Blue}{Number (0x6)}{Color Reset} ration{//s} de vivres !
+"015"
 "016"	Que veux-tu faire aujourd'hui ?
-"017"	Explorer ({Number (0x6)}
+"017"	Explorer ({Number (0x6)} {/case/cases}) !
 "018"	Cuisiner !
 "019"	Se soigner (repos) !
 "020"	Explorer, peut-être ?
-"021"	Que veux-tu faire aujourd'hui ?{Player can respond: 0000-00-00-00-00-00-00-00-00}
+"021"	Que veux-tu faire aujourd'hui ?{Player can respond (0000):0000-0000-0000-0000}	Explorer ({Number (0x6)} {/case/cases}) !	Se reposer...
 "022"	Tu as dormi toute la journée d'hier,	tu vas pouvoir beaucoup explorer !
-"023"	
-"024"	Tu as cuisiné {Blue}{Number (0x6)}
+"023"
+"024"	Tu as cuisiné {Blue}{Number (0x6)}{Color Reset} portions de vivres	en cuisine de survie ! ♪
 "025"	Comment te sens-tu, aujourd'hui ?
-"026"	Tu as la flemme, aujourd'hui.{pause 10}
-"027"	Tu vas avancer de {Blue}{Number (0x6)}!
+"026"	Tu as la flemme, aujourd'hui.{pause 10}	Tu vas juste te reposer.
+"027"	Tu vas avancer de {Blue}{Number (0x6)} cases{Color Reset} !
 "029"	Le poisson s'est enfui.
 "030"	Tu ne peux plus avancer...
-"031"	Ouah...!{pause 10}
-"032"	Hmm...!{pause 10}
+"031"	Ouah...!{pause 10} Tu as flairé une délicieuse	odeur de miel !
+"032"	Hmm...!{pause 10} Tu ressens la présence de	poissons !
 "033"	... Mais ça ne te fait ni chaud	ni froid ! ♪
-"034"	Oh ! {pause 15}
+"034"	Oh ! {pause 15}Tu devrais pouvoir briser	ces rochers !
 "035"	Tu as brisé les rochers et ouvert	un nouveau passage !
 "036"	Tu as utilisé un remède pour te	soigner en urgence !
-"037"	Veux-tu creuser jusqu'ici ?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"038"	Ça avait l'air si délicieux...{pause 10}!
-"039"	Euh...{pause 15}!
+"037"	Veux-tu creuser jusqu'ici ?{Player can respond (0005):0000-0000-0000-0000}	Oui !	Non, ailleurs.
+"038"	Ça avait l'air si délicieux...{pause 10} Tu n'as	pas pu résister,{pause 8} tu en as mangé {Blue}{Number (0x6)}{Color Reset} !
+"039"	Euh...{pause 15} {Article(word-dependant)}{0014-0000-0002-cd00}...?
 "040"	Tu n'as pas besoin de ça...!
-"041"	
+"041"
 "042"	Comment veux-tu explorer	aujourd'hui ?
-"043"	À pied ({Number (0x6)}
+"043"	À pied ({Number (0x6)} case{//s}) !
 "044"	En creusant !
-"045"	
+"045"
 "046"	Fabriquer !
-"047"	
-"048"	
+"047"
+"048"
 == 3 ==
-"002"	Ho trovato	{Article(word-dependant)}
-"003"	Ah, {Article(word-dependant)}
-"004"	Ooh, {Article(word-dependant)}
-"005"	Passiamo qui la notte?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"006"	Devo buttare l'amo qui?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"007"	È il momento giusto per usare	{000e-0001-0000}
+"002"	Ho trovato	{Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset}!
+"003"	Ah, {Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset}!	Forse si può fare uno strumento!
+"004"	Ooh, {Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset}!	La salute è importante! ♪
+"005"	Passiamo qui la notte?{Player can respond (0005):0000-0000-0000-0000}	Sì, accampatevi.	Meglio altrove.
+"006"	Devo buttare l'amo qui?{Player can respond (0005):0000-0000-0000-0000}	Sì!	Da un'altra parte.
+"007"	È il momento giusto per usare	{000e-0001-0000}{Blue}{0014-0000-0002-cd00}{Color Reset}!
 "008"	Bah! Nulla d'interessante...
-"009"	È il momento giusto per usare	{000e-0001-0000}
+"009"	È il momento giusto per usare	{000e-0001-0000}{Blue}{0014-0000-0002-cd00}{Color Reset}!
 "010"	Ehi, ho colpito qualcosa!
 "011"	Ho piazzato una trappola!
-"012"	Devo smettere di scavare?	Le trappole rimaste scompariranno.{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"013"	Le nostre scorte di cibo	aumentano di {Blue}{Number (0x6)}
-"015"	
+"012"	Devo smettere di scavare?	Le trappole rimaste scompariranno.{Player can respond (0005):0000-0000-0000-0000}	Sì.	No, continua.
+"013"	Le nostre scorte di cibo	aumentano di {Blue}{Number (0x6)} {/razione/razioni}{Color Reset}!
+"015"
 "016"	Che si fa oggi?
-"017"	Esplora {Number (0x6)}
+"017"	Esplora {Number (0x6)} {/casella/caselle}.
 "018"	Cucina.
 "019"	Riposa e guarisci.
 "020"	Esplora... magari?
-"021"	Che faccio oggi?{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"022"	Ieri ho dormito tutto il giorno,{pause 10}
-"023"	
-"024"	Ottimo! Ho preparato {Blue}{Number (0x6)}
+"021"	Che faccio oggi?{Player can respond (0000):0000-0000-0000-0000}	Esplora ({Number (0x6)} {/casella/caselle}).	Dormi.
+"022"	Ieri ho dormito tutto il giorno,{pause 10}	oggi ho un sacco di energia!
+"023"
+"024"	Ottimo! Ho preparato {Blue}{Number (0x6)} {Blue}{/razione/razioni}{Blue}{Color Reset}	di cibo.
 "025"	Vediamo un po', cosa	mi va di fare oggi?
 "026"	Oggi me la prenderò comoda e	starò tutto il giorno a poltrire.
-"027"	Oggi voglio muovermi di {Blue}{Number (0x6)}
+"027"	Oggi voglio muovermi di {Blue}{Number (0x6)} {/casella/caselle}{Color Reset}!	Perché ho deciso così!
 "029"	Il pesce è fuggito.
 "030"	Non posso andare	da nessuna parte.
-"031"	Oh!{pause 10}
-"032"	Hmm...?{pause 10}
+"031"	Oh!{pause 10} Sento profumo di miele!{pause 10}	Il mio cibo preferito!
+"032"	Hmm...?{pause 10} Sento che c'è del pesce	qui vicino!
 "033"	Oh, vabbè! Non importa... ♪
 "034"	Evvai! È arrivato il momento	di spaccare qualche roccia!
 "035"	Ho spaccato la roccia e ho aperto	un nuovo passaggio!
 "036"	Ho usato la medicina per 	effettuare un primo soccorso!
-"037"	Va bene sbucare da qui?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"038"	Mmm... Non resisto, ne mangio {Blue}{Number (0x6)}
-"039"	Eh...{pause 15}
+"037"	Va bene sbucare da qui?{Player can respond (0005):0000-0000-0000-0000}	Sì!	No, cambiamo.
+"038"	Mmm... Non resisto, ne mangio {Blue}{Number (0x6)}{Color Reset}!
+"039"	Eh...{pause 15} {Article(word-dependant)}{Blue}{0014-0000-0002-cd00}{Color Reset}...?
 "040"	No, grazie!
-"041"	
+"041"
 "042"	Come vuoi che esplori oggi?
-"043"	{Number (0x6)}
+"043"	{Number (0x6)} {/casella/caselle} a piedi.
 "044"	Scava un tunnel.
-"045"	
+"045"
 "046"	Crea uno strumento.
-"047"	
-"048"	
+"047"
+"048"
 == 4 ==
-"002"	Toll, {Article(word-dependant)}
-"003"	Super, {Article(word-dependant)}
-"004"	Oh, {Article(word-dependant)}
-"005"	Soll das Zelt heute Nacht hier	aufgeschlagen werden?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"006"	Möchtest du hier angeln?{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"007"	Du nutzt die Gelegenheit und	setzt den {0014-0000-0002-00-ffffffcd} ein!
+"002"	Toll, {Article(word-dependant)}{0014-0000-0002-cd00}!	Ab damit in den Rucksack!
+"003"	Super, {Article(word-dependant)}{0014-0000-0002-cd00}!{pause 8} Damit	lässt sich Werkzeug herstellen!
+"004"	Oh, {Article(word-dependant)}{0014-0000-0002-cd00}!{pause 8} Damit	können Abenteurer geheilt werden!
+"005"	Soll das Zelt heute Nacht hier	aufgeschlagen werden?{Player can respond (0005):0000-0000-0000-0000}	Ja!	Nein, doch nicht...
+"006"	Möchtest du hier angeln?{Player can respond (0005):0000-0000-0000-0000}	Ja!	Lieber nicht...
+"007"	Du nutzt die Gelegenheit und	setzt den {0014-0000-0002-cd00} ein!
 "008"	Schade... Heute hast du	wohl kein Glück.
-"009"	Du nutzt die Gelegenheit und	setzt die {0014-0000-0002-00-ffffffcd} ein!
+"009"	Du nutzt die Gelegenheit und	setzt die {0014-0000-0002-cd00} ein!
 "010"	Der Schuss hat gesessen!
 "011"	Du hast eine Fallgrube gegraben!
-"012"	Du willst doch keine Fallgrube	graben?{0000-0004-0000}
-"013"	Der Proviant erhöht sich um {Blue}{Number (0x6)}
-"015"	
+"012"	Du willst doch keine Fallgrube	graben?{Wait for input}Nicht verwendete Fallen kannst	du nicht wieder einsetzen.{Player can respond (0005):0000-0000-0000-0000}	Aufhören.	Weitergraben!
+"013"	Der Proviant erhöht sich um {Blue}{Number (0x6)}{Color Reset}!
+"015"
 "016"	Was möchtest du heute tun?
-"017"	{Number (0x6)}
+"017"	{Number (0x6)} {/Feld/Felder} erkunden!
 "018"	Kochen!
 "019"	Ausruhen...
 "020"	Insel erkunden...?
-"021"	Was möchtest du heute tun?{Player can respond: 0000-00-00-00-00-00-00-00-00}
+"021"	Was möchtest du heute tun?{Player can respond (0000):0000-0000-0000-0000}	{Number (0x6)} {/Feld/Felder} erkunden!	Schlafen...
 "022"	Du hast gestern durchgeschlafen	und strotzt heute vor Energie!
-"023"	
-"024"	Nicht schlecht! Euer Proviant	hat sich um {Blue}{Number (0x6)}
+"023"
+"024"	Nicht schlecht! Euer Proviant	hat sich um {Blue}{Number (0x6)} {Color Reset}erhöht!
 "025"	Wie weit wirst du dich heute	vorwagen?
 "026"	Du lässt es heute eher ruhig	angehen...
-"027"	Dir steht der Sinn danach, heute	{Blue}{Number (0x6)}
+"027"	Dir steht der Sinn danach, heute	{Blue}{Number (0x6)} {/Feld/Felder} {Color Reset}zu erkunden!
 "029"	Dein Fang ist entkommen!
 "030"	Du kannst dich nicht bewegen...
-"031"	Es duftet nach Honig.{pause 10}
+"031"	Es duftet nach Honig.{pause 10} Das ist	deine Leibspeise!
 "032"	Dein Bauchgefühl sagt dir, dass	es in der Nähe Fische gibt!
-"033"	Pah!{pause 10}
+"033"	Pah!{pause 10} Ist mir doch egal!
 "034"	Es ist an der Zeit, ein paar	Felsen zu zertrümmern...
 "035"	Hurra! Du hast eine Abkürzung	entdeckt.
 "036"	Du hast etwas Medizin eingesetzt!
-"037"	Einen Tunnel zu diesem	Feld graben?{Player can respond: 0005-00-00-00-00-00-00-00-00}!
-"038"	Du bist vor Hunger schon ganz	schwach und musst {Blue}{Number (0x6)}!
-"039"	Ist das {Article(word-dependant)}!
+"037"	Einen Tunnel zu diesem	Feld graben?{Player can respond (0005):0000-0000-0000-0000}	Und wie!	Lieber nicht...
+"038"	Du bist vor Hunger schon ganz	schwach und musst {Blue}{Number (0x6)}{Color Reset} sofort essen!
+"039"	Ist das {Article(word-dependant)}{0014-0000-0002-cd00}?
 "040"	Nein danke.
-"041"	
+"041"
 "042"	Was möchtest du heute tun?
-"043"	{Number (0x6)}
+"043"	{Number (0x6)} {/Feld/Felder} erkunden!
 "044"	Tunnel graben!
-"045"	
+"045"
 "046"	Werkzeug bauen!
-"047"	
-"048"	
+"047"
+"048"

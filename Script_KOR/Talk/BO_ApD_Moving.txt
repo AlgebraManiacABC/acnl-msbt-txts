@@ -1,28 +1,28 @@
 == 0 ==
-"001"	{000a-0017-0006-01-0b-00-0f-00-ffffffcd}
-"002"	{000a-0017-0006-02-0c-00-0f-00-ffffffcd}
-"003"	{emote: Happiness}
-"004"	있지이～{pause 20}
-"005"	{emote: Anger}
-"006"	{000a-0017-0006-01-0d-00-10-00-ffffffcd}
-"007"	{000a-0017-0006-02-0e-00-10-00-ffffffcd}
-"008"	{emote: Happiness}
-"009"	있지이～{pause 20}
-"010"	{emote: Anger}
-"011"	안녕～{pause 20}
-"012"	아아～{pause 20}
-"013"	안녕～{pause 20}
-"014"	아아～{pause 20}
-"015"	{0009-0001-0006-03-00-04-00-05-00}
-"016"	{0009-0001-0006-08-00-09-00-00-00}	
-"017"	{0009-0001-0006-12-00-13-00-14-00}
-"018"	{emote: Worry}
-"019"	{emote: Disbelief}
-"020"	{emote: Alarmed}
-"021"	{0009-0006-0010-16-00-1b-00-1b-00-1b-00-1b-00-1b-00-1b-00-1b-00}
-"022"	{000a-0000-0006-01-17-00-18-00-ffffffcd}
-"023"	{000a-0000-0006-05-1a-00-19-00-ffffffcd}
-"024"	{emote: Alarmed}
-"025"	{emote: Anger}
-"026"	{emote: Resigned}
-"027"	{emote: Worry}
+"001"	{000a-0017-0006-0b01-0f00-cd00}
+"002"	{000a-0017-0006-0c02-0f00-cd00}
+"003"	{emote: Happiness}안녕, {Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}{pause 20}	나 조만간	이사 갈까 생각 중이야아～{Wait for input}{emote: Glee}이제 {Town name (pink)} 마을에서	할 게 없어서 말이야～!{Wait for input}새로운 마을로 빨리 떠나고 싶어서{pause 20}	이번 달 {Date-cd00}일로 출발 날짜를 잡았어!{Player can respond (0000):0011-0000-0015-0000}	가지 마!	잘 가
+"004"	있지이～{pause 20}	어른이 되려면 여행을 떠나라는 말을{pause 20}	얼마 전에 텔레비전에서 봤어～{Wait for input}{emote: Anger}멋진 어른이 되기 위해서{pause 20}	난 {pause 20}이제 새로운 마을로	이사 갈 거야!{Wait for input}{emote: Happiness}이번 달 {Date-cd00}일에	출발해～{Player can respond (0000):0011-0000-0015-0000}	가지 마!	잘 가!
+"005"	{emote: Anger}난{pause 20} {Town name (pink)} 마을에는 없는	새로운 음식을 찾으러{pause 20}	이사 갈 거야아～{Wait for input}{emote: Happiness}좀 갑작스럽지만{pause 20}	이번 달 {Date-cd00}일에	출발해～{Wait for input}{emote: Reset}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c},	웃는 얼굴로 보내줄 거지～?{Player can respond (0000):0011-0000-0015-0000}	가지 마!	잘 가!
+"006"	{000a-0017-0006-0d01-1000-cd00}
+"007"	{000a-0017-0006-0e02-1000-cd00}
+"008"	{emote: Happiness}안녕, {Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}{pause 20}	나 조만간	이사 갈까 생각 중이야아～{Wait for input}{emote: Glee}이제 {Town name (pink)} 마을에서	할 게 없어서 말이야～!{Wait for input}새로운 마을로 빨리 떠나고 싶어서{pause 20}	다음 달 {Date-cd00}일로 출발 날짜를 잡았어!{Player can respond (0000):0011-0000-0015-0000}	가지 마!	잘 가
+"009"	있지이～{pause 20}	어른이 되려면 여행을 떠나라는 말을{pause 20}	얼마 전에 텔레비전에서 봤어～{Wait for input}{emote: Anger}멋진 어른이 되기 위해서{pause 20}	난 {pause 20}이제 새로운 마을로	이사 갈 거야!{Wait for input}{emote: Happiness}다음 달 {Date-cd00}일에	출발해～{Player can respond (0000):0011-0000-0015-0000}	가지 마!	잘 가!
+"010"	{emote: Anger}난{pause 20} {Town name (pink)} 마을에는 없는	새로운 음식을 찾으러{pause 20}	이사 갈 거야아～{Wait for input}{emote: Happiness}좀 갑작스럽지만{pause 20}	다음 달 {Date-cd00}일에	출발해～{Wait for input}{emote: Reset}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c},	웃는 얼굴로 보내줄 거지～?{Player can respond (0000):0011-0000-0015-0000}	가지 마!	잘 가!
+"011"	안녕～{pause 20} {Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}{pause 40}	{emote: Happiness}사실은 나 말야{pause 20}	다른 마을로 이사 가려고 해～{Wait for input}{emote: Agreement}{Town name (pink)} 마을에는 없는	새로운 곤충을	찾을 거야아～!{Wait for input}{emote: Pride}아직 발견되지 않은	멋진 곤충이	있을지도 몰라아～{Wait for input}가능성에 한번	기대를 걸어보려고～{Wait for input}{emote: Happiness}이사는 이번 달 {Date-cd00}일이야～{pause 20}	{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}, 잘 지내야 해～{Player can respond (0000):0011-0000-0015-0000}	가지 마	바이바이!
+"012"	아아～{pause 20} {Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}～{Wait for input}	{emote: Happiness}조금 갑작스럽긴 한데{pause 20}	나 다른 마을로 이사 가려고 해～{Wait for input}{emote: Anger}이유는 단 하나～!{pause 20}	{Town name (pink)} 마을에는 없는	커～다란 물고기를 낚기 위해서지!{Wait for input}{emote: Thought}세계에서 가장	큰 물고기를 찾아 헤매며{pause 20}	모르는 마을을 전전한다{pause 8}・{pause 8}・{pause 8}・　{Wait for input}{emote: Love}난 바다의 로망을 따라 	떠날 거야～!{Wait for input}{emote: Happiness}이번 달 {Date-cd00}일에 출발해～{pause 40}	{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}	날 응원해줄 거지?{Player can respond (0000):0011-0000-0015-0000}	가지 마	바이바이!
+"013"	안녕～{pause 20} {Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}{pause 40}	{emote: Happiness}사실은 나 말야{pause 20}	다른 마을로 이사 가려고 해～{Wait for input}{emote: Agreement}{Town name (pink)} 마을에는 없는	새로운 곤충을	찾을 거야아～!{Wait for input}{emote: Pride}아직 아무도 못 본	멋진 곤충이	있을지도 몰라아～{Wait for input}가능성에 한번	기대를 걸어보려고～{Wait for input}{emote: Happiness}가는 건 다음 달 {Date-cd00}일이야～{pause 20}	{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}, 잘 지내야 해～{Player can respond (0000):0011-0000-0015-0000}	가지 마	바이바이!
+"014"	아아～{pause 20} {Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}～{Wait for input}	{emote: Happiness}조금 갑작스럽긴 한데{pause 20}	나 다른 마을로 이사 가려고 해～{Wait for input}{emote: Anger}이유는 단 하나～!{pause 20}	{Town name (pink)} 마을에는 없는	커～다란 물고기를 낚기 위해서지!{Wait for input}{emote: Thought}세계에서 가장	큰 물고기를 찾아{pause 20}	모르는 마을로 떠나는 거야{pause 8}・{pause 8}・{pause 8}・　{Wait for input}{emote: Love}난 바다의 로망을 찾아 	떠날 거야～!{Wait for input}{emote: Happiness}다음 달 {Date-cd00}일에 출발해～{pause 40}	{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}	날 응원해줄 거지?{Player can respond (0000):0011-0000-0015-0000}	가지 마	바이바이!
+"015"	{0009-0001-0006-0003-0004-0005}
+"016"	{0009-0001-0006-0008-0009-000a}
+"017"	{0009-0001-0006-0012-0013-0014}
+"018"	{emote: Worry}우～웅{pause 40}	{Player nickname (green)}{000e-000e-0008-0002-c774-0002-ac00} 그렇게까지 말한다면{pause 20}	이번에는 이사 가지 말까아{Wait for input}{emote: Happiness}앞으로도 {Town name (pink)} 마을에서	함께 놀아줄 거지이?{Wait for input}에헤헤～{pause 20}	역시 이사 가는 건	취소～ {pause 8}{catchphrase}～
+"019"	{emote: Disbelief}{0007-000a-0000}히엑～?!{pause 40} {emote: Worry}{Player nickname (green)}한테	그런 소릴 들으니까{pause 40}	이사 못 가겠어{Wait for input}{emote: Thought}우～웅{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Agreement} 좋아!{pause 40}	이사는 취소다아～!{Wait for input}{emote: Glee}앞으로도 계속	잘 부탁할게에～!
+"020"	{emote: Alarmed}그, {pause 40}그렇게까지	말리다니이{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}너가 {pause 20}너무 붙잡아서	팔이 다 아프다아!{Wait for input}{emote: Distress}{0007-000a-0000}아야야야얏～!{pause 20}	포기 포기! {pause 8}{catchphrase}!{Wait for input}{emote: Happiness}그럼,{pause 20}	이사는 안 가는 걸로 할게에～{Wait for input}앞으로도 변치 말고	잘 부탁해～
+"021"	{0009-0006-0010-0016-001b-001b-001b-001b-001b-001b-001b}
+"022"	{000a-0000-0006-1701-1800-cd00}
+"023"	{000a-0000-0006-1a05-1900-cd00}
+"024"	{emote: Alarmed}앗, {pause 20}근데!{pause 40}	나 아직 너에 대해	전혀 모를지도 몰라아～!{Wait for input}{emote: Thought}우우～웅{pause 20}	이대로 떠나면	재미없겠지이?{Wait for input}{emote: Happiness}나 역시	이사 가는 거 관둘래{Wait for input}너네 집 숟가락이 몇 개나 있는지	알 때까지는 이사 가지 않을 거야～!{Wait for input}{emote: Glee}에헤헤～{pause 20}	앞으로도 잘 부탁해, {pause 8}{catchphrase}
+"025"	{emote: Anger}그 얼굴{pause 8}・{pause 8}・{pause 8}・{pause 20}	내가 이사 가도	눈 하나 깜짝하지 않을 것 같은데에～{Wait for input}{emote: Distress}난 씹으면 씹을수록 맛있어지는{pause 20}	오징어 같은 타입이라구우～!{Wait for input}{emote: Mischief}너가 내 매력에 푹 빠질 때까지{pause 20}	이 {Town name (pink)} 마을에선 	떠날 수가 없겠네에～{Wait for input}{emote: Happiness}에헤헤～{pause 20}	앞으로도 잘 부탁해, {pause 8}{catchphrase}
+"026"	{emote: Resigned}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c},{pause 20}	너랑 단짝인 내 눈에는	거짓말이 다 보여～ {pause 8}{catchphrase}～{Wait for input}{emote: Joy}제발 이사 가지 말라고{pause 20}	얼굴에 쓰여 있구만～{Wait for input}{emote: Love}우후훗{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Player nickname (green)}{000e-000e-0008-0002-c740-0002-b294}	솔직하지 못하다니까아～!{Wait for input}{emote: Happiness}이사 가는 거{pause 20}	취～소!{pause 40}	앞으로도 잘 부탁해!
+"027"	{emote: Worry}우웅{pause 8}・{pause 8}・{pause 8}・{pause 20}	지금까지 고마웠어～{Wait for input}내가 없는 {Town name (pink)} 마을은{pause 8}・{pause 8}・{pause 8}・{Wait for input}{0005-0013-0002-0000}{000e-000e-0008-0002-c774-0002-ac00} 없는	레스토랑처럼{pause 8}	많이 부족할지도 몰라{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sorrow}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c},{pause 20}	속상하다고 막 폭식하고 그러면 안 돼～!

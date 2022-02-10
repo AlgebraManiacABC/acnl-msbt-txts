@@ -1,20 +1,20 @@
 == 0 ==
 "001"	いつものヤツ　{ruby (charSpan 1): たの}頼むでぇ！
-"002"	コーヒー　もらおか！{pause 20}
-"003"	コーヒー　もらおか！{pause 20}
-"004"	コーヒー　もらおか！{pause 20}
-"005"	どれどれ{pause 4}
-"006"	{emote: Alarmed}
-"007"	{emote: Worry}
-"008"		{emote: Alarmed}
-"009"		{emote: Alarmed}
-"010"	
-"011"	
-"012"	
-"013"		{emote: Shocked}
-"014"		{emote: Shocked}
-"015"		{emote: Shocked}
-"016"		{0007-000b-0000}
-"017"	
-"018"	
-"019"	
+"002"	コーヒー　もらおか！{pause 20}	{Blue}ブルマン{Color Reset}な！
+"003"	コーヒー　もらおか！{pause 20}	あ、{pause 8}ミルクは　{Blue}いらん{Color Reset}で～
+"004"	コーヒー　もらおか！{pause 20}	あ、{pause 8}{ruby (charSpan 2): さとう}砂糖は　{Blue}いらん{Color Reset}で～
+"005"	どれどれ{pause 4}・{pause 4}・{pause 4}・
+"006"	{emote: Alarmed}おっ！{pause 15}　ウマイやないか！{pause 30}	{emote: Soft Smile}ちょーどエエ　{ruby (charSpan 2): あんばい}塩梅や！{Wait for input}{0007-000e-0000}{emote: Happiness}なかなか　やるな、{pause 8}キミぃ～！{Wait for input}	また{ruby (charSpan 1): く}来るで！{pause 15}	ほな！！
+"007"	{emote: Worry}ん～、{pause 15}{emote: Soft Smile}まあまあやな！{Wait for input}	{emote: Reset}けどコレ、{pause 8}{Blue}ブルマン{Color Reset}と{ruby (charSpan 1): ちが}違うやろ？{Wait for input}{emote: Anger}そんなもん、{pause 8}	すぐに　わかるっちゅーねん！{pause 30}	{emote: Glare}{ruby (charSpan 1): ちが}違いのわかる{ruby (charSpan 1): おとこ}男やで、{pause 4}ワシ！{pause 20}	{emote: Reset}{ruby (charSpan 1): きゃく}客の{ruby (charSpan 1): この}好みは、ちゃんと　{ruby (charSpan 1): おぼ}覚えとこ！{pause 30}	ほな！
+"008"		{emote: Alarmed}{Text size 150%}あっ！{Text size 100%}{pause 20}{Wait for input}{emote: Anger}かなわんな、キミぃ！{pause 20}	ミルク　{ruby (charSpan 1): はい}入っとるやないか、{pause 8}コレ{Wait for input}{emote: Worry}しぼう{ruby (charSpan 1): ぶん}分は　ひかえるようにって、{pause 15}	ドクターに　キツく　{ruby (charSpan 1): い}言われとるんや！{Wait for input}{emote: Reset}ええか？{pause 20}　{Blue}ミルク{Color Reset}は　{Blue}なし{Color Reset}や！{pause 30}	ちゃんと　{ruby (charSpan 1): おぼ}覚えといてや！{pause 30}	ほな！
+"009"		{emote: Alarmed}{Text size 150%}あっ！{Text size 100%}{pause 20}{Wait for input}{emote: Anger}かなわんな、キミぃ・・・{pause 20}	{ruby (charSpan 2): さとう}砂糖　{ruby (charSpan 1): はい}入っとるやないか、{pause 8}コレ{Wait for input}{emote: Worry}{ruby (charSpan 2): とうぶん}糖分は　ひかえるようにって、{pause 15}	かかりつけの　ドクターに	キツ～く　{ruby (charSpan 1): い}言われとるんや、ワシ！{Wait for input}{emote: Reset}ええか？{pause 20}　{Blue}{ruby (charSpan 2): さとう}砂糖{Color Reset}は　{Blue}なし{Color Reset}や！{pause 30}	ちゃんと　{ruby (charSpan 1): おぼ}覚えといてや！{pause 30}	ほな！
+"010"
+"011"
+"012"
+"013"		{emote: Shocked}{Text size 150%}わっ！{Text size 100%}{pause 20}{Wait for input}{emote: Distress}{Blue}{ruby (charSpan 1): まめ}豆{Color Reset}は　{ruby (charSpan 1): あ}合ってるけど、{pause 15}	あとは　ムチャクチャやで、{pause 8}これー！{Wait for input}{emote: Worry}こんなん{ruby (charSpan 1): の}飲んだら{pause 8}	かかりつけの　ドクターに{pause 4}	また{pause 4}　{ruby (charSpan 1): おこ}怒られてしまうがな～{pause 20}	{emote: Reset}ま、{pause 8}{ruby (charSpan 1): つく}作ったもんは　しゃーない！{Wait for input}	{emote: Anger}{ruby (charSpan 1): つぎ}次は　ちゃんと{ruby (charSpan 1): たの}頼むで！{pause 30}	ほな！
+"014"		{emote: Shocked}{Text size 150%}わっ！{Text size 100%}{pause 20}{Wait for input}{emote: Distress}{Blue}ミルク{Color Reset}{ruby (charSpan 1): い}入れんかったのは　{ruby (charSpan 1): あ}合ってるけど、{pause 15}	あとは　ムチャクチャやで、{pause 8}これー！{Wait for input}{emote: Worry}せっかくのコーヒーが　{ruby (charSpan 2): だいな}台無しや、{pause 30}	さっぱり　ワヤやで、{pause 4}しかし！{Wait for input}{emote: Reset}ま、{pause 8}{ruby (charSpan 1): つく}作ったもんは　しゃーない！{Wait for input}	{emote: Anger}{ruby (charSpan 1): つぎ}次は　ちゃんと{ruby (charSpan 1): たの}頼むで！{pause 30}	ほな！
+"015"		{emote: Shocked}{Text size 150%}わっ！{Text size 100%}{pause 20}{Wait for input}{emote: Distress}{Blue}{ruby (charSpan 2): さとう}砂糖{Color Reset}　{ruby (charSpan 1): い}入れんかったのは　{ruby (charSpan 1): あ}合ってるけど、{pause 15}	あとは　ムチャクチャやで、{pause 8}これー！{Wait for input}{emote: Worry}せっかくのコーヒーが　{ruby (charSpan 2): だいな}台無しや、{pause 30}	さっぱり　ワヤやで、{pause 4}しかし！{Wait for input}{emote: Reset}ま、{pause 8}{ruby (charSpan 1): つく}作ったもんは　しゃーない！{Wait for input}	{emote: Anger}{ruby (charSpan 1): つぎ}次は　ちゃんと{ruby (charSpan 1): たの}頼むで！{pause 30}	ほな！
+"016"		{0007-000b-0000}{emote: Disbelief}{Text size 150%}げっ！{Text size 100%}{pause 20}{Wait for input}{emote: Distress}なんじゃこりゃー！{pause 50}	{emote: Anger}{ruby (charSpan 1): なに}何もかも　ムチャクチャやないか！{Wait for input}{emote: Aggravation}しまいに　{ruby (charSpan 1): おこ}怒るで、しかし！{Wait for input}	{emote: Reset}あ！{pause 20}	{emote: Disagreement}これまだ　{ruby (charSpan 1): おこ}怒ってないから{pause 8}・{pause 8}・{pause 8}・{pause 15}	{emote: Reset}ま、{pause 8}{ruby (charSpan 1): つく}作ったもんは　しゃーない！{Wait for input}	{emote: Anger}{ruby (charSpan 1): つぎ}次は　ちゃんと{ruby (charSpan 1): たの}頼むで！{pause 30}	ほな！
+"017"
+"018"
+"019"

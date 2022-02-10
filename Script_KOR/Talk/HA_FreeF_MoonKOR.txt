@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{0009-0001-0006-03-00-04-00-05-00}
-"002"	{0009-0003-000a-08-00-09-00-0a-00-0b-00-0c-00}
-"003"	{emote: Happiness}
-"004"	{emote: Curious}
-"005"	{emote: Curious}
-"006"	
-"007"	
-"008"	{emote: Thought}
-"009"	{emote: Anger}
-"010"	{emote: Greetings}
-"011"	{emote: Greetings}
-"012"	{emote: Anger}
-"013"	
-"014"	{emote: Distress}
-"015"	{emote: Alarmed}
-"016"	
-"017"	{emote: Laughter}
-"018"	{emote: Alarmed}
-"019"	{emote: Shocked}
+"001"	{0009-0001-0006-0003-0004-0005}
+"002"	{0009-0003-000a-0008-0009-000a-000b-000c}
+"003"	{emote: Happiness}오늘은 {Blue}추석{Color Reset}이야ー!{pause 40}	난 빨리 보름달이 뜨기만	기다리고 있다구!{Wait for input}{emote: Glee}오늘은 광장에서 선물도 받아야 하고	달을 보면서 소원도 빌어야 하고{pause 40}	정말 바쁘겠다, {pause 8}{catchphrase}!
+"004"	{emote: Curious}다른 마을에서도	오늘 우리처럼 달을 보며	즐기고 있을까?{Wait for input}{emote: Happiness}하지만 우리 마을의 송편은{pause 20}	아무 데도 없겠지?{Wait for input}{emote: Pride}난 올해도 송편 많이 먹기	신기록을{pause 20} 세우고 말 거야!	{pause 8}{catchphrase}!
+"005"	{emote: Curious}넌 오늘 몇 시까지 깨어 있을 거냐ー?{pause 40}	{emote: Happiness}난 졸려서 쓰러지기 전까지	보름달을 실컷 볼 거야ー!{Wait for input}{emote: Glee}{Blue}추석{Color Reset}이니까{pause 20} 달맞이를 하러 나온	녀석들이 많으면 강강술래를 하면서	밤을 새는 것도 좋겠지, {pause 8}{catchphrase}!
+"006"
+"007"
+"008"	{emote: Thought}여기서 저기 저 달까지 뛰어가면{pause 20}	기록이 얼마 정도 나올까ー?{Wait for input}{emote: Sunny}난 언젠가 꼭 도전해볼 거야!	{pause 8}{catchphrase}!
+"009"	{emote: Anger}당장 정체를 밝혀라!{pause 40}	보름달을 보면{pause 8} 변신한다는 녀석이{pause 8}	바로 너 맞지ー?{Player can respond (0005):000e-0015-000f-0028}	맞아!	틀렸어
+"010"	{emote: Greetings}{Blue}추석{Color Reset} 하면 두말할 것 없이 송편이지!{pause 40}	맛이 끝내주거든ー!{Wait for input}{emote: Happiness}다른 마을에도 보름달을 보며{pause 20}	떡을 먹는 데가 있나 보던데	혹시 들어본 적 있냐ー?{Wait for input}{emote: Thought}흐음{pause 8}・{pause 8}・{pause 8}・{pause 20}	칼로리는 어느 쪽이 더 높을까?
+"011"	{emote: Greetings}{Blue}추석{Color Reset}인데{pause 20} 보름달을 보고	소원은 빌었냐ー?{Wait for input}{emote: Anger}난 내년에는{pause 8} 꼭	마을 녀석들과 강강술래를	할 수 있게 해달라고 빌었어!	{emote: Distress}지금까지는 내가 돌기 시작하면{pause 20}	다들 원 밖으로 튕겨 나가서	한 번도 성공한 적이 없거든ー!{Wait for input}{emote: Laughter}하하핫!{pause 20}	달리기를 잘하는 게 잘못인가?!{pause 40}{emote: Happiness}
+"012"	{emote: Anger}솔직히 말해봐!{pause 8}	넌 저 보름달을 보면{pause 20}	뭐가 생각나냐ー?{Player can respond (0001):0011-0000-0012-0000-0013-0000}	축구공	찐빵	토끼
+"013"
+"014"	{emote: Distress}{0007-000b-0000}역시 그랬군!{pause 40}	너한테서 오늘따라{pause 20}	이상한 기운이 느껴졌다구!{Wait for input}{emote: Curious}어?{pause 40}	근데 너 지금은 그대로인데?{pause 20}	변신 안 하냐?{Wait for input}{emote: Cold Chill}{pause 20}변신할 타이밍도 조절할 수 있다니{pause 20}	역시 보통 녀석이 아니었어{pause 8}・{pause 8}・{pause 8}・
+"015"	{emote: Alarmed}그,{pause 20} 그래?{pause 40}	{emote: Anger}하지만{pause 20} 여전히	의심스러운걸{pause 8}・{pause 8}・{pause 8}・
+"016"
+"017"	{emote: Laughter}하하핫!{pause 20}	나도 같은 생각을 했는데!{pause 40}	언젠가 저 달로 축구 시합 해보고 싶다!{pause 20}{emote: Happiness}
+"018"	{emote: Alarmed}뭐라고?!{pause 20} 찐빵ー?!{Wait for input}{emote: Mischief}그렇다면{pause 8}・{pause 8}・{pause 8}・{pause 20}	넌 지금 배가 고프구나?	{pause 8}{catchphrase}?
+"019"	{emote: Shocked}오옷!{pause 20} 토끼 말이지?{Wait for input}{emote: Sadness}옛날에 우리 엄마가{pause 20}	달에서 떡을 찧는 토끼에 대해	얘기해주시고는 했는데{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sigh}하아{pause 8}・{pause 8}・{pause 8}・{pause 20}	갑자기 엄마 얼굴이	보고 싶다, {pause 8}{catchphrase}

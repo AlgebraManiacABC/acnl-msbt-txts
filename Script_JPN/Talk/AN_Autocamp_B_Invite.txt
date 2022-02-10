@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Thought}
-"002"	{emote: Shocked}
-"003"	{emote: Thought}
-"004"	{emote: Thought}
-"005"	{emote: Worry}
-"006"	{emote: Shocked}
-"007"	{emote: Worry}
-"008"	{emote: Agreement}
-"009"	{emote: Greetings}
-"010"	{emote: Greetings}
-"011"	{emote: Thought}
+"001"	{emote: Thought}{pause 16}それがさぁ、{pause 16}そうしたいのは	やまやまなんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{ruby (charSpan 2): やくば}役場に{ruby (charSpan 1): き}聞いてみたら、{pause 16}	{ruby (charSpan 2): てんにゅう}転入の{ruby (charSpan 2): てつづ}手続きが　{ruby (charSpan 1): た}立て{ruby (charSpan 1): こ}込んでるとかで{pause 16}	{ruby (charSpan 2): きょう}今日は　ダメなんだってさ！
+"002"	{emote: Shocked}マジで　いいの？！{Wait for input}{emote: Shyness}{pause 20}{ruby (charSpan 1): じつ}実は、ウチ{pause 8}・{pause 8}・{pause 8}・{pause 16}	こんなとこに{ruby (charSpan 1): す}住めたら{pause 16}	ヤバイなって　{ruby (charSpan 1): おも}思ってたんだ{pause 8}・{pause 8}・{pause 8}・	{emote: Showmanship}それじゃあ、{ruby (charSpan 1): かえ}帰ったら{pause 16}	マジで　{ruby (charSpan 2): ひっこ}引越しの{ruby (charSpan 2): じゅんび}準備するね！{pause 60}	{emote: Glare}{ruby (charSpan 1): と}止めたって、{pause 8}もう{ruby (charSpan 1): おそ}遅いよ？
+"003"	{emote: Thought}{pause 16}それがさぁ、{pause 16}そうしたいのは	やまやまなんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{ruby (charSpan 2): やくば}役場に{ruby (charSpan 1): き}聞いてみたら、{pause 16}	{ruby (charSpan 1): いま}今は{ruby (charSpan 2): そんみん}村民が　{ruby (charSpan 1): おお}多すぎるから{pause 8}	{ruby (charSpan 1): う}受け{ruby (charSpan 1): い}入れられないって！{Wait for input}{emote: Anger}こうなったら、{pause 16}	「{ruby (charSpan 1): あ}当たって　くじけろ」だね！{pause 60}	・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あれ、{pause 8}なんか{ruby (charSpan 1): ちが}違った？	{emote: Thought}とにかく　ダメ{ruby (charSpan 1): もと}元で{pause 16}	{ruby (charSpan 2): そんちょう}村長に　{ruby (charSpan 2): そうだん}相談してみようかな～？	{pause 8}{catchphrase}？
+"004"	{emote: Thought}{pause 16}{ruby (charSpan 1): じつ}実は、{pause 8}ウチも　そう{ruby (charSpan 1): おも}思って{pause 16}	{ruby (charSpan 2): やくば}役場に{ruby (charSpan 1): き}聞いてみたけど、{pause 20}	{ruby (charSpan 2): ていいん}定員オーバーで　{ruby (charSpan 1): いま}今はダメだって{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}あっ、そういえば{pause 16}　	アンタって　{ruby (charSpan 2): そんちょう}村長だよね？　{pause 8}{catchphrase}？{Wait for input}{emote: Shyness}{pause 20}じゃあさ、{pause 16}{ruby (charSpan 2): ひっこ}引越しできるよう{pause 8}	ウチが{ruby (charSpan 2): ちょくせつ}直接、{pause 16}{ruby (charSpan 1): むら}村のだれかと	{ruby (charSpan 1): はなし}話を{ruby (charSpan 1): つ}付けてきても　いいかな？{000f-0000-0004-0000-0000}	オッケー！	それはちょっと・・・
+"005"	{emote: Worry}そうかい{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Soft Smile}じゃあまた、{ruby (charSpan 2): きかい}機会があればってことで！
+"006"	{emote: Shocked}マジで？！{pause 40}	{emote: Reset}じゃあ、{pause 8}なんてヤツと	{emote: Curious}{ruby (charSpan 1): はなし}話を{ruby (charSpan 1): つ}付けて{ruby (charSpan 1): き}来たらいい？
+"007"	{emote: Worry}だよね{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Reset}{ruby (charSpan 1): なや}悩むのは　{ruby (charSpan 2): むり}無理もないさ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Happiness}{ruby (charSpan 2): こんかい}今回は　あきらめるよ！{pause 8}　{catchphrase}！
+"008"	{emote: Agreement}{0011-0001-0002-0000}だね？{Wait for input}	{emote: Showmanship}ダイジョーブだって、{pause 16}ちゃ～んと　	{ruby (charSpan 1): はな}話し{ruby (charSpan 1): あ}合いで{ruby (charSpan 2): かいけつ}解決してくるよ！
+"009"	{emote: Greetings}{ruby (charSpan 2): そんちょう}村長！　{pause 4}{ruby (charSpan 2): あんしん}安心しとくれ！{pause 40}	{emote: Flourish}ダイジョーブだったよ！{Wait for input}{emote: Soft Smile}もともと　{ruby (charSpan 2): ひっこ}引越すつもりだったから、{pause 16}	{ruby (charSpan 2): よてい}予定を　{ruby (charSpan 1): はや}早めてくれるって！{pause 40}	{emote: Agreement}{0011-0001-0002-0000}って　いいヤツだね！	{emote: Anger}ウチ、{pause 16}{0011-0001-0002-0000}の{ruby (charSpan 1): おん}恩に{ruby (charSpan 1): こた}応えるため{pause 40}	{emote: Glee}すぐに　{ruby (charSpan 2): ひっこ}引越してくることにするよ！	{pause 8}{catchphrase}！
+"010"	{emote: Greetings}{ruby (charSpan 2): そんちょう}村長！　{pause 4}{ruby (charSpan 2): あんしん}安心しとくれ！{pause 40}	{emote: Flourish}ダイジョーブだったよ！{Wait for input}{emote: Soft Smile}もともと　{ruby (charSpan 2): ひっこ}引越すつもりだったから、{pause 16}	{ruby (charSpan 2): よてい}予定を　{ruby (charSpan 1): はや}早めてくれるって！{pause 40}	{emote: Agreement}{0011-0001-0002-0000}って　いいヤツだね！	{emote: Anger}ウチ、{pause 16}{0011-0001-0002-0000}の{ruby (charSpan 1): おん}恩に{ruby (charSpan 1): こた}応えるため{pause 40}	{emote: Glee}すぐに　{ruby (charSpan 2): ひっこ}引越してくることにするよ！	{pause 8}{catchphrase}！
+"011"	{emote: Thought}{pause 16}それがさぁ、{pause 16}そうしたいのは	やまやまなんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{ruby (charSpan 2): やくば}役場に{ruby (charSpan 1): き}聞いてみたら、{pause 16}	{emote: Resigned}{ruby (charSpan 1): むら}村で　{ruby (charSpan 1): おお}大きいイベントがあるから{pause 8}	{ruby (charSpan 2): きょう}今日は　ダメなんだってさ！

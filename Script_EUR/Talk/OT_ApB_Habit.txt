@@ -1,90 +1,90 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Soft Smile}
-"003"	{emote: Alarmed}
-"004"	{emote: Soft Smile}
-"005"	{confirmation-cd02}{emote: Soft Smile}
-"006"	{emote: Alarmed}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{emote: Shyness}
-"009"	OK, I'll give it a try, {Player nickname (green)}!
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	But I'd swear something's turned	stale in my life. If it isn't my	catchphrase...{pause 10}!
-"012"	{emote: Worry}
-"013"	{emote: Worry}
-"014"	{0009-0001-0006-0f-00-10-00-11-00}
-"015"	{emote: Soft Smile}
-"016"	{emote: Agreement}
-"017"	{emote: Shyness}
+"001"	{emote: Worry}Do you have a minute, {Player nickname (green)}?{Wait for input}	I need some help with my	catchphrase, {catchphrase}.	{emote: Curious}Oh, you see? {pause 10}Can't you tell?{pause 10}	It feels weak, {Player nickname (green)}. I need a	new, powerful one, {pause 10}{catchphrase}.	But what do YOU think?	Does "{catchphrase}" still suit me?{Player can respond (0005):0004-0015-0003-0028}	Nah, change it!	I think it's fine.
+"002"	{emote: Soft Smile}I need some advice, {catchphrase}.{pause 20}	It's about a little problem I have	with, {pause 5}well, {pause 5}{emote: Worry}my catchphrase.	You know, that little touch I throw	in once in a while, {catchphrase}?{pause 10}	Yes, {pause 5}that right there, {pause 5}{catchphrase}.	It's sounding bland, so I'm thinking	of changing it, {catchphrase}.{pause 10}	What should I do?{Player can respond (0005):0004-0015-0003-0028}	Change it!	Keep it.
+"003"	{emote: Alarmed}Really? You think I should keep it?{pause 10}	{emote: Soft Smile}Well, if you say so, I'll hang on to it	a little longer, {catchphrase}.
+"004"	{emote: Soft Smile}I knew it! Well then, give me a new	one, {Player nickname (green)}!
+"005"	{confirmation-02}{emote: Soft Smile}So you think I should be saying	"{catchphrase}"?{Player can respond (0005):0007-0015-0006-0028}	That's perfect.	No, wait...
+"006"	{emote: Alarmed}Oh? Well, it's got to be perfect,	so give it to me again!
+"007"	{0009-0000-0004-0008-0009}
+"008"	{emote: Shyness}Now, let's see, {catchphrase}.{pause 10}	I think that's good, {catchphrase}.
+"009"	OK, I'll give it a try, {Player nickname (green)}.{Wait for input}{emote: Aggravation}Waiter! {pause 5}Come here, {catchphrase}!{pause 10}	I think there's a fly in my	{0005-0013-0002-0000}, {catchphrase}!	{emote: Love}Oh, {Player nickname (green)}! I love it. {pause 10}I just had	to make sure it works when I'm	being bossy too.
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	But I'd swear something's turned	stale in my life. If it isn't my	catchphrase...{pause 10}what IS it?	{emote: Thought}Hmmm. Back to the drawing board,	I guess, {catchphrase}.
+"012"	{emote: Worry}But I'm sure something about me	is a bit bland lately.{Wait for input}I often see flaws in myself where	there aren't any, {catchphrase}.{pause 10}	{emote: Resigned}So I guess I'm still perfect.
+"013"	{emote: Worry}Don't tell anyone I was thinking of	changing my catchphrase, OK,	{Player nickname (green)}?	{emote: Disagreement}We don't need anyone gossiping	about how I was questioning my	own fresh factor, {catchphrase}.
+"014"	{0009-0001-0006-000f-0010-0011}
+"015"	{emote: Soft Smile}Now the only question is, {pause 5}how long	until everyone starts copying MY	catchphrase, {catchphrase}?
+"016"	{emote: Agreement}Yes, it's already really growing on	me, {catchphrase}. {pause 10}Thanks for the	verbal makeover!
+"017"	{emote: Shyness}Let's keep this between the two	of us. You know how people	gossip, {Player nickname (green)}.	I don't want everyone talking about	how I was doubting my own	fresh factor, {catchphrase}.
 == 1 ==
-"001"	{emote: Worry}
-"002"	{emote: Soft Smile}
-"003"	{emote: Alarmed}
-"004"	{emote: Soft Smile}
-"005"	{confirmation-cd02}{emote: Soft Smile}
-"006"	{emote: Alarmed}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{emote: Shyness}
-"009"	Venga, que lo pruebo, {Player nickname (green)}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	Puede que la que no tenga fuerza	sea yo y no la muletilla...{0000-0004-0000}
-"012"	{emote: Worry}
-"013"	{emote: Worry}
-"014"	{0009-0001-0006-0f-00-10-00-11-00}
-"015"	{emote: Soft Smile}
-"016"	{emote: Agreement}
-"017"	{emote: Shyness}
+"001"	{emote: Worry}¿Tienes un minuto, {Player nickname (green)}?{Wait for input}	Necesito que me eches una mano	con mi muletilla, {catchphrase}.	{emote: Curious}Oh, ¿lo ves? {pause 10}Suena gastada,{pause 10}	sin fuerza. Necesito una nueva	urgentemente, terroncín.{pause 10}	Pero antes quiero saber tu opinión.	¿Debo cambiar de muletilla?{Player can respond (0005):0004-0015-0003-0028}	¡Sí, hazlo!	No, a mí me gusta
+"002"	{emote: Soft Smile}Sé que no es normal que yo	te pida consejo, {catchphrase}, pero	necesito ayuda con un problema.{pause 20}	Se trata {pause 5}{emote: Worry}de mi muletilla, pastelito.	Esa palabra que repito cada dos	por tres, {catchphrase}.{pause 10}	¡Sí, {pause 5}esa, {pause 5}{catchphrase}!	La oigo tantas veces al día que	me canso a mí misma.	¿Crees que debería cambiarla	o solo son manías mías?{Player can respond (0005):0004-0015-0003-0028}	Tienes que cambiarla	No es para tanto
+"003"	{emote: Alarmed}O sea, ¿que no debo cambiarla?{pause 10}	{emote: Soft Smile}Bueno, si tú lo dices será verdad,	{catchphrase}.
+"004"	{emote: Soft Smile}¡Me alegra que estemos de acuerdo!	¿Por qué no me eliges tú 	la nueva, {Player nickname (green)}?
+"005"	{confirmation-02}{emote: Soft Smile}¿Así que "{catchphrase}"?{Player can respond (0005):0007-0015-0006-0028}	Suena genial	No, espera...
+"006"	{emote: Alarmed}¿Qué pasa? ¡Tiene que gustarte	a ti, si no, no la quiero!
+"007"	{0009-0000-0004-0008-0009}
+"008"	{emote: Shyness}Vale, a ver, {catchphrase}.{pause 10}	¡Me gusta, {catchphrase}!
+"009"	Venga, que lo pruebo, {Player nickname (green)}...{Wait for input}{emote: Aggravation}¡Oiga! {pause 5}¡Camarero, {catchphrase}!{pause 10}	¡Creo que hay una mosca en mi	{0005-0013-0002-0000}, {catchphrase}!	{emote: Love}¡Ay, corazoncito! ¡Es perfecta! {pause 10}	¡Incluso cuando me quejo suena	de maravilla!
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	Puede que la que no tenga fuerza	sea yo y no la muletilla...{Wait for input}{emote: Thought}Tendré que empezar a tomar	vitaminas, {catchphrase}.
+"012"	{emote: Worry}Quizá tengas razón, solete, 	y a mi muletilla no le pasa nada...{Wait for input}A lo mejor estoy cansada porque	trabajo demasiado, {catchphrase}.{pause 10}	{emote: Resigned}Debería irme de vacaciones.
+"013"	{emote: Worry}Espero que no le cuentes a nadie	este asunto de mi muletilla,	{Player nickname (green)}.	{emote: Disagreement}No queremos que todos crean que	tengo problemas de originalidad,	¿verdad, {catchphrase}?
+"014"	{0009-0001-0006-000f-0010-0011}
+"015"	{emote: Soft Smile}A ver cuánto tarda en aparecer	el rumor sobre mi cambio	de muletilla.	¡Y a ver cuánto tardan los demás	en copiarla, {catchphrase}!
+"016"	{emote: Agreement}Me gusta, no tardaré en	acostumbrarme, {catchphrase}.{pause 10}	¡Gracias por la ayuda!
+"017"	{emote: Shyness}Oye, flor, que esto quede entre	nosotr{o/a}s dos, ¿vale? Que a todos	les gusta mucho hablar.	No quiero oír rumores sobre que	tengo una crisis de personalidad	o algo por el estilo, {catchphrase}.
 == 2 ==
-"001"	{emote: Worry}
-"002"	{emote: Soft Smile}
-"003"	{emote: Alarmed}
-"004"	{emote: Soft Smile}
-"005"	{confirmation-cd02}{emote: Soft Smile}
-"006"	{emote: Alarmed}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{emote: Shyness}
-"009"	D'accord, alors on l'essaie tout de	suite, {Player nickname (green)}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Worry}
-"012"	{emote: Soft Smile}
-"013"	{emote: Worry}
-"014"	{0009-0001-0006-0f-00-10-00-11-00}
-"015"	{emote: Soft Smile}
-"016"	{emote: Agreement}
-"017"	{emote: Worry}
+"001"	{emote: Worry}Dis, {Player nickname (green)}, tu as une minute ?{Wait for input}	J'ai besoin d'aide. C'est au sujet de	mon expression, {catchphrase}.	{emote: Curious}Tiens, tu as entendu ?{pause 20} Tu	comprends ce que je veux dire	maintenant ?{emote: Reset}	Mon expression est nulle. Il m'en	faut une autre, une qui soit plus...	« plus » quoi ! Tu ne crois pas ?	Qu'en dis-tu ? « {capitalized}{catchphrase} »	me correspond-elle encore ?{Player can respond (0005):0004-0015-0003-0028}	Tu devrais changer.	Tu devrais la garder.
+"002"	{emote: Soft Smile}J'ai besoin d'un bon conseil,	{catchphrase}.{pause 20} C'est au sujet de,	{pause 20}euh... {pause 10}{emote: Worry}de mon expression fétiche.	Tu sais, c'est cette petite phrase	que je dis parfois, {pause 10}ma petite	estampille verbale, {catchphrase} ?	Là, {pause 10}tu entends, {pause 10}{catchphrase} ?	Pour tout te dire, je commence à	m'en lasser.	Tu crois que je devrais en changer ?{Player can respond (0005):0004-0015-0003-0028}	Change-la !	Garde-la !
+"003"	{emote: Alarmed}Je devrais continuer à l'utiliser... Tu	crois vraiment ?{pause 10} {emote: Soft Smile}Hmm... D'accord !	Alors je la garde, {catchphrase}.
+"004"	{emote: Soft Smile}Tu as sans doute raison. Tu veux	bien m'aider à en trouver une autre,	{Player nickname (green)} ?
+"005"	{confirmation-02}{emote: Soft Smile}« {capitalized}{catchphrase} » ? Vraiment ?{Player can respond (0005):0007-0015-0006-0028}	Parfait !	Euh... En fait...
+"006"	{emote: Alarmed}Ah ? Bon. Il faut m'en trouver une	qui me corresponde vraiment.	{emote: Soft Smile}Aurais-tu une autre idée ?
+"007"	{0009-0000-0004-0008-0009}
+"008"	{emote: Shyness}Alors voyons...{pause 15} Test expression.	Test, test...{pause 20} {capitalized}{catchphrase} !{pause 30} Oui, ça	sonne bien. {capitalized}{catchphrase}.
+"009"	D'accord, alors on l'essaie tout de	suite, {Player nickname (green)}...{Wait for input}{emote: Aggravation}Garçon ! {pause 10}Au pied, {catchphrase} !{pause 10}	Il y a une mouche dans ma soupe,	{catchphrase} !	{emote: Love}Waouh, {Player nickname (green)} ! J'adôôôôre !	{pause 10}Elle sonne vraiment bien. Même	quand je m'énerve. Elle est parfaite.
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Worry}Humm... {pause 10}Pourtant j'ai vraiment	l'impression qu'il y a quelque chose	qui cloche quand je dis ça...	{emote: Thought}Je dois me faire des idées,	{catchphrase}...
+"012"	{emote: Soft Smile}Bah, en fait, je ne voulais pas	vraiment en changer, je voulais	surtout avoir ton avis.	{emote: Pride}Pourquoi voudrais-je en changer ?	Mon expression est déjà parfaite,	n'est-ce pas, {catchphrase} ?
+"013"	{emote: Worry}Je compte sur toi pour ne dire à	personne que je t'ai demandé	conseil, {Player nickname (green)}, d'accord ?	{emote: Disagreement}Je ne veux pas qu'on sache qu'il	m'arrive de douter de moi,	{catchphrase}.
+"014"	{0009-0001-0006-000f-0010-0011}
+"015"	{emote: Soft Smile}Combien de temps faudra-t-il, à ton	avis, {pause 10}pour que les autres me piquent	mon expression, {catchphrase} ?
+"016"	{emote: Agreement}Je commence déjà à m'y faire,	{catchphrase}. {pause 10}Merci beaucoup pour	ton aide !
+"017"	{emote: Worry}Je t'en prie, ne dis à personne que	tu m'as aidée, {Player nickname (green)}. Tu sais	comment sont les gens...	Après ils vont penser que j'ai perdu	cette fraîcheur et cette spontanéité	qui me caractérisent, {catchphrase}.
 == 3 ==
-"001"	{emote: Worry}
-"002"	{emote: Soft Smile}
-"003"	{emote: Alarmed}
-"004"	{emote: Soft Smile}
-"005"	{confirmation-cd02}{emote: Soft Smile}
-"006"	{emote: Alarmed}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{emote: Shyness}
-"009"	Bene, fammi provare, {Player nickname (green)}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	Mmmh, va bene...{pause 10}
-"012"	{emote: Worry}
-"013"	{emote: Worry}
-"014"	{0009-0001-0006-0f-00-10-00-11-00}
-"015"	{emote: Soft Smile}
-"016"	{emote: Agreement}
-"017"	{emote: Shyness}
+"001"	{emote: Worry}Hai un minutino, {Player nickname (green)}?{Wait for input}	Ho bisogno del tuo aiuto. Si tratta	del mio intercalare, {catchphrase}.	Beh, è un po' antiquato, {Player nickname (green)}.{pause 10}	{emote: Curious}Come, {pause 10}non te ne sei accort{o/a}?{pause 10}	Ne vorrei uno nuovo, {catchphrase}.	Tu cosa ne pensi? Credi che	"{catchphrase}" mi si addica ancora?{Player can respond (0005):0004-0015-0003-0028}	Meglio cambiare!	Va bene così!
+"002"	{emote: Soft Smile}Vorrei il tuo parere, {catchphrase}.{pause 20}	Ho un problemino. Si tratta{pause 5} del mio	intercalare.{pause 5} {emote: Worry}Hai capito bene!	È un'espressione personale che	uso di tanto in tanto, {catchphrase}.{pause 10}	Sì, {pause 5}l'ho appena usata, {pause 5}{catchphrase}!	Vorrei cambiarla, {catchphrase}.{pause 10}	Cosa devo fare? Aiutami!{Player can respond (0005):0004-0015-0003-0028}	Cambiala!	Va bene così!
+"003"	{emote: Alarmed}Davvero? Pensi che dovrei	continuare a usare lo stesso	intercalare?{pause 10}	{emote: Soft Smile}Beh, mi fido di te, {catchphrase}.
+"004"	{emote: Soft Smile}Lo sapevo! Avevo proprio bisogno	del parere di {un/una} giovane come te,	{Player nickname (green)}! Cosa potrei dire invece?
+"005"	{confirmation-02}{emote: Soft Smile}Dunque, dici che dovrei usare	"{catchphrase}"?{Player can respond (0005):0007-0015-0006-0028}	Sì, esatto.	No, aspetta!
+"006"	{emote: Alarmed}Ah, scusa. Devo aver sentito male.	Puoi ripetere?
+"007"	{0009-0000-0004-0008-0009}
+"008"	{emote: Shyness}Fammi provare, {catchphrase}.{pause 10}	Suona proprio bene, {catchphrase}!
+"009"	Bene, fammi provare, {Player nickname (green)}...{Wait for input}{emote: Aggravation}Cameriere! {pause 5}{capitalized}{catchphrase}!{pause 10} Avevo	ordinato {Article(word-dependant)}{0005-0013-0002-0000}!	Aspetto da ore, {catchphrase}!	{emote: Love}Oh, {Player nickname (green)}! È perfetta. {pause 10}Sembra	funzionare anche quando devo	alzare la voce.
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	Mmmh, va bene...{pause 10} Ma sento ancora	che c'è qualcosa di stantio	nella mia vita. Cosa sarà mai?	{emote: Thought}Ci penserò mentre faccio	l'uncinetto, {catchphrase}.
+"012"	{emote: Worry}Mmmh, eppure continuo a pensare	che i miei modi siano un po'...	superati.	Ma forse la mia è una crisi di mezza	età, {catchphrase}.{pause 10}	{emote: Resigned}Spero passi presto!
+"013"	{emote: Worry}Mi raccomando, {Player nickname (green)}!	Non dire a nessuno che volevo	cambiare il mio intercalare!	{emote: Disagreement}Non c'è bisogno che tutta la città	sappia dei miei problemi	di autostima, {catchphrase}.
+"014"	{0009-0001-0006-000f-0010-0011}
+"015"	{emote: Soft Smile}Ora tutti quanti vorranno copiare{pause 5}	il mio intercalare. I problemi non	finiscono mai, {catchphrase}!
+"016"	{emote: Agreement}Questo nuovo intercalare già mi	piace, {catchphrase}.{pause 10} Grazie a te	ho un nuovo look... verbale!
+"017"	{emote: Shyness}Oh, che questa faccenda del nuovo	intercalare resti fra noi, {Player nickname (green)}.{Wait for input}Non voglio che i miei vicini sappiano	dei miei problemi di immagine,	{catchphrase}.
 == 4 ==
-"001"	{emote: Worry}
-"002"	{emote: Soft Smile}
-"003"	{emote: Alarmed}
-"004"	{emote: Soft Smile}
-"005"	{confirmation-cd02}{emote: Soft Smile}
-"006"	{emote: Alarmed}
-"007"	{0009-0000-0004-08-00-09-00}
-"008"	{emote: Shyness}
-"009"	Danke, {pause 8}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	Ich könnte schwören, {pause 8}
-"012"	{emote: Worry}
-"013"	{emote: Worry}
-"014"	{0009-0001-0006-0f-00-10-00-11-00}
-"015"	{emote: Soft Smile}
-"016"	{emote: Agreement}
-"017"	{emote: Shyness}
+"001"	{emote: Worry}Hast du kurz Zeit, {pause 8}{Player nickname (green)}?{Wait for input}	Ich benötige jemanden, der mir mit	meinem Motto hilft, {pause 8}{catchphrase}.	{emote: Curious}Du hast es schon gehört, {pause 8}oder? {pause 40}Ist	dir aufgefallen, dass es richtig fad	klingt, {pause 8}{Player nickname (green)}?	Ich brauche ein fetzigeres Motto!	{pause 40}Oder findest du,{pause 8} „{catchphrase}“	passt noch zu mir?{Player can respond (0005):0004-0028-0003-0015}	Lieber ändern!	Passt noch zu dir.
+"002"	{emote: Soft Smile}Ich brauche dringend deinen Rat,{pause 8}	{catchphrase}.{pause 20} Ich hab da ein kleines	Problem mit{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry} meinem Motto.	Du weißt schon! {pause 20}Mein Spruch, den	ich ab und an für die persönliche	Note dranhänge, {pause 8}{catchphrase}!	Genau den: {pause 40}„{catchphrase}“.{pause 20}	Er langweilt mich, {pause 20}also will ich	ihn ändern. {pause 40}Was meinst du?{Player can respond (0005):0004-0015-0003-0028}	Ändere ihn.	Behalte ihn.
+"003"	{emote: Alarmed}Echt?{pause 40} Ich soll mein Motto	behalten? {emote: Soft Smile}Na, wenn du meinst{pause 8}.{pause 8}.{pause 8}.{pause 20}	Dann behalte ich es, {pause 8}{catchphrase}.
+"004"	{emote: Soft Smile}Wusste ich es doch!{pause 40}	Was soll ich denn von	nun an sagen, {pause 8}{Player nickname (green)}?
+"005"	{confirmation-02}{emote: Soft Smile}Du findest, ich soll von nun an	„{catchphrase}“ sagen?{Player can respond (0005):0007-0015-0006-0028}	Ja, klingt gut!	Nein, Moment...
+"006"	{emote: Alarmed}Oh! {pause 40}{emote: Resigned}Das Motto sollte schon perfekt	sein. {pause 20}{emote: Happiness}Versuche es doch noch einmal!
+"007"	{0009-0000-0004-0008-0009}
+"008"	{emote: Shyness}Mal überlegen, {pause 8}{catchphrase}.{pause 40}	Ja, das ist gut, {pause 8}{catchphrase}.
+"009"	Danke, {pause 8}{Player nickname (green)}! {pause 40}Ich probiere	es gleich mal aus.{Wait for input}{emote: Aggravation}Herr Ober, {pause 8}{catchphrase}!{pause 20} Da ist	eine Fliege auf meinem Teller mit	{0005-0013-0002-0000}, {pause 8}{catchphrase}!	{emote: Love}Oh ja,{pause 20} das ist gut! {pause 40}Eine gute Parole,{pause 8}	die auch spitze klingt, wenn man	mal etwas resoluter sein muss!
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	Ich könnte schwören, {pause 8}dass etwas	fad ist in meinem Leben. {pause 40}Wenn es	nicht mein Motto ist,{pause 10} was dann?	{emote: Thought}Hm{pause 8}.{pause 8}.{pause 8}.{pause 20} Ich muss noch einmal genau	darüber nachdenken, {pause 8}{catchphrase}.
+"012"	{emote: Worry}Dich langweilt mein Motto nicht?	{pause 40}{emote: Resigned}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Vielleicht habe ich es mir	auch nur eingebildet, {pause 8}{catchphrase}.
+"013"	{emote: Worry}Sag bitte niemandem, dass ich mein	Motto ändern wollte! {pause 40}{emote: Disagreement}Nicht,{pause 8} dass ich	noch ins Gerede komme...
+"014"	{0009-0001-0006-000f-0010-0011}
+"015"	{emote: Soft Smile}Jetzt stellt sich nur die Frage, {pause 8}wie	lange es dauern wird, bis alle mein	Motto nachplappern, {pause 8}{catchphrase}!
+"016"	{emote: Agreement}Ja! {pause 20}Das Motto gefällt mir jetzt	schon, {pause 8}{catchphrase}. {pause 40}Danke für	die Inspiration!
+"017"	{emote: Shyness}Gut. {pause 40}Aber keiner darf hiervon etwas	erfahren. {pause 20}Du weißt doch, wie gerne	die Leute tratschen, {pause 8}{Player nickname (green)}.	Es soll keiner auf die Idee kommen,	{pause 8}dass ich irgendwelche Selbstzweifel	hätte,{pause 8} {catchphrase}.

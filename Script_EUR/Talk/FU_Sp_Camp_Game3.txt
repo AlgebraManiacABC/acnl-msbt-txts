@@ -1,135 +1,135 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Sheepishness}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Joy}
-"007"	{emote: Glee}
-"008"	{0009-0000-0004-09-00-00-00}	
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{0009-0001-0006-06-00-0c-00-0c-00}
-"012"	{emote: Surprise}
-"013"	{0009-0000-0004-0e-00-0f-00}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{0009-0001-0006-05-00-11-00-11-00}
-"017"	{emote: Worry}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
-"021"	{0009-0003-000a-04-00-04-00-03-00-03-00-03-00}
-"022"	
-"023"	I know that's not very much at all,{pause 8}
-"024"	{emote: Soft Smile}
-"025"	{emote: Happiness}
-"026"	{emote: Soft Smile}
+"001"	{emote: Soft Smile}Ooh!{pause 8} I've been trying to buy {Article(word-dependant)}	{0011-0003-0002-0000}.{pause 20} Would you	consider selling me yours?	If you're interested,{pause 8} we could figure	out the price by playing a game.{pause 20}	Like trying to get through mazes!{Wait for input}{emote: Agreement}Yep,{pause 8} I have mazes in my coloring 	book.{pause 20} Each maze has 3 paths to	take,{pause 8} but only one leads to the exit.	{emote: Soft Smile}If you guess the right path in the	first maze,{pause 8} I'll pay you piles of Bells	for your item.	{emote: Reset}But if you hit a dead end,{pause 8} I keep	more of my Bells and you move on	to the next maze.{pause 20}	You get 3 mazes to try to win.	If you fail 3 times,{pause 8} you only get	a few Bells for your item{pause 8}.{pause 8}.{pause 8}.{pause 20}	{0007-000d-0000}{emote: Soft Smile}What do you say?{pause 20} Would you like to	give it a try?{Player can respond (0005):0007-0015-0002-0028}	Sure. Why not!	No, thanks.
+"002"	{emote: Sheepishness}Oh,{pause 8} OK.{pause 20} That's too bad.{Wait for input}{emote: Reset} Well,{pause 8} we	can always play some other time.
+"003"	{emote: Distress}Eep!{pause 20} You ran into someone dressed	like{pause 5}.{pause 5}.{pause 5}{emote: Curious}.{pause 15}an evil {0005-000f-0002-0000}...{pause 40}{emote: Distress}who	chases you all the way home!	{emote: Resigned}These mazes just get weirder and	weirder.{pause 20} {emote: Worry}Anyway,{pause 8} I'm afraid you've	used up your 3 mazes.	Which means I'll be paying{pause 8}.{pause 8}.{pause 8}.{Blue}{Number (0x9)}	Bells {Color Reset}for your item.
+"004"	{emote: Happiness}You found the exit!{pause 20} Phew,{pause 8} that was	close.{pause 20} Since it took you 3 tries,{pause 8}	I'll pay you{pause 8}.{pause 8}.{pause 8}.{Blue}{Number (0x9)}{Color Reset}{Blue} Bells{Color Reset}.
+"005"	{emote: Happiness}You found the exit!{pause 20} Good job.{pause 20} That	means I'll be paying you{pause 8}.{pause 8}.{pause 8}.{Blue}{Number (0x9)}	{Color Reset}{Blue}Bells{Color Reset} for your stuff.
+"006"	{emote: Joy}Wow,{pause 8} you found the exit on your	first try!{pause 20} That was so cool,{pause 8} I can't	be too upset about paying a lot.	{emote: Soft Smile}Since it only took you 1 maze,{pause 8} I'll	pay you {Blue}{Number (0x9)}{Color Reset} {Blue}Bells{Color Reset}.{pause 20} You're rich!
+"007"	{emote: Glee}Hooray!{pause 20} All right,{pause 8} pick your path	through the first maze.{pause 20} Don't think	too hard!{Player can respond (0001):0008-0000-0008-0000-0008-0000}	Blue path.	Red path.	Green path.
+"008"	{0009-0000-0004-0009-000a}
+"009"	{emote: Soft Smile}OK,{pause 8} let's follow that path through	the maze{pause 8}.{pause 8}.{pause 8}.{pause 20} Right,{pause 8} left,{pause 8} left.
+"010"	{emote: Soft Smile}OK,{pause 8} let's follow that path through	the maze{pause 8}.{pause 8}.{pause 8}.{pause 20} Left,{pause 8} right,{pause 8} right.
+"011"	{0009-0001-0006-0006-000c-000c}
+"012"	{emote: Surprise}Uh-oh!{pause 20} You've been mired in a	swamp of {0005-000e-0002-0000}!{Wait for input}{emote: Reset} But	you still have 2 more mazes left.{Wait for input}Which path will you take through	maze number two?{Player can respond (0001):000d-0000-000d-0000-000d-0000}	Pink path.	Black path.	White path.
+"013"	{0009-0000-0004-000e-000f}
+"014"	{emote: Soft Smile}All right,{pause 8} let's see where it leads!{pause 20}	First to the right,{pause 8} then right again.
+"015"	{emote: Soft Smile}All right,{pause 8} let's see where it leads!{pause 20}	First to the left,{pause 8} then left again.
+"016"	{0009-0001-0006-0005-0011-0011}
+"017"	{emote: Worry}Aw, {pause 8}you lost your {0005-000f-0002-0000}	and had to turn around!{Wait for input}{emote: Reset} OK{pause 8}.{pause 8}.{pause 8}.{pause 20} This	is the last maze.{pause 20} Good luck!{Player can respond (0001):0012-0000-0012-0000-0012-0000}	Yellow path!	Orange path!	Purple path!
+"018"	{0009-0000-0004-0013-0014}
+"019"	{emote: Worry}If you lose this time,{pause 8} it's gonna cost	you.{pause 20} Are you mentally prepared for	either outcome?	Let's hope your luck changes.{pause 20} {emote: Thought}Your	chosen path goes left,{pause 8} then right,{pause 8}	then sideways through the middle.
+"020"	{emote: Worry}If you lose this time,{pause 8} it'll cost you a	lot.{pause 20} Are you mentally prepared for	either outcome?	Well,{pause 8} I hope it works out!{pause 20} {emote: Thought}Your	chosen path goes left,{pause 8} then left,{pause 8}	then right in a sort of squiggly way.
+"021"	{0009-0003-000a-0004-0004-0003-0003-0003}
+"022"
+"023"	I know that's not very much at all,{pause 8}	so I'm sorry for that.{pause 20} {emote: Soft Smile}Thanks for	playing,{pause 8} though.{pause 20} I really like games!
+"024"	{emote: Soft Smile}I'm sorry the price was low.{pause 20} I love	games,{pause 8} but I know it's less fun when	you lose.{pause 20} Thank you for playing!
+"025"	{emote: Happiness}Did you have fun?{pause 20} I know I did.{pause 20} Let's	play again sometime,{pause 8} please!
+"026"	{emote: Soft Smile}That was a lot to pay for me,{pause 8} but a	game's a game.{pause 20} You won fair and	square.{pause 20} Let's play again sometime!
 == 1 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Sheepishness}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Joy}
-"007"	{emote: Glee}
-"008"	{0009-0000-0004-09-00-00-00}	
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{0009-0001-0006-06-00-0c-00-0c-00}
-"012"	{emote: Surprise}
-"013"	{0009-0000-0004-0e-00-0f-00}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{0009-0001-0006-05-00-11-00-11-00}
-"017"	{emote: Worry}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
-"021"	{0009-0003-000a-04-00-04-00-03-00-03-00-03-00}
-"022"	
-"023"	Sé que esto no es mucho, {pause 10}
-"024"	{emote: Soft Smile}
-"025"	{emote: Happiness}
-"026"	{emote: Soft Smile}
+"001"	{emote: Soft Smile}Tu {0011-0003-0002-0000} es	una maravilla.{pause 20} ¿Te interesaría	vendérmel{o/a/}, {pause 10}por casualidad?	Si quieres, {pause 10}podríamos decidir	el precio con el {Blue}Juego de los	laberintos{Color Reset}, por ejemplo.	{emote: Agreement}Sí, {pause 10}tengo un libro de colorear	que es todo de laberintos.{Wait for input}El caso es que cada laberinto tiene	tres caminos, {pause 10}pero solo uno de ellos	conduce a la salida.	{emote: Soft Smile}Si adivinas el camino correcto en	el primer laberinto, {pause 10}te pagaré un	buen montón de bayas.	{emote: Reset}Si llegas a un callejón sin salida,	{pause 10}el precio bajará y pasaremos	al siguiente laberinto.{pause 20}	Te ofreceré tres laberintos, {pause 10}pero si	pierdes las tres veces, {pause 10}te daré muy	poquitas bayas por tu objeto{pause 8}.{pause 8}.{pause 8}.	{0007-000d-0000}{emote: Soft Smile}¿Qué me dices?{pause 20} ¿Jugamos?{Player can respond (0005):0007-0015-0002-0028}	¡Sí, venga!	No me interesa
+"002"	{emote: Sheepishness}Oh, {pause 10}vale.{pause 20} Es una pena, {pause 10}pero bueno.{Wait for input}	{emote: Soft Smile}Siempre podemos jugar otro día.
+"003"	{emote: Distress}¡Oooh!{pause 20} Te has encontrado con uno	disfrazado de{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡{0005-000f-0002-0000}!	¡Y te persigue hasta la entrada!	{emote: Resigned}Estos caminos son cada vez	más raros.{pause 20} {emote: Worry}Vaya, {pause 10}pues me temo	que has fallado los tres laberintos.	Por lo tanto, {pause 10}te voy a pagar{pause 8}.{pause 8}.{pause 8}.{pause 20}	{Blue}{Number (0x9)} bayas{Color Reset} por tu objeto.
+"004"	{emote: Happiness}¡Bien! {pause 20}¡Has encontrado la salida!	A ver, {pause 10}como has usado tres	intentos, {pause 10}te pagaré{pause 8}.{pause 8}.{pause 8}.{pause 20} {Blue}{Number (0x9)}{Color Reset}{Blue} bayas{Color Reset}.
+"005"	{emote: Happiness}¡Muy bien! {pause 20}¡Has alcanzado la salida!	{pause 20}Pues te voy a pagar nada más y	nada menos que{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡{Blue}{Number (0x9)} {Color Reset}{Blue}bayas{Color Reset}!
+"006"	{emote: Joy}¡Hala! {pause 20}¡Has encontrado la salida a	la primera!{pause 20} Estoy tan impresionada	que no me importa pagar mucho.	{emote: Soft Smile}Como solo has necesitado un	laberinto, {pause 10}te daré {Blue}{Number (0x9)}{Color Reset} {Blue}bayas{Color Reset}.{pause 20}	¡Eres ric{o/a}!
+"007"	{emote: Glee}¡Qué bien! {pause 20}Bueno, {pause 10}bichín, {pause 10}elige	el camino que quieres seguir	por el laberinto.{Player can respond (0001):0008-0000-0008-0000-0008-0000}	El camino azul	El camino rojo	El camino verde
+"008"	{0009-0000-0004-0009-000a}
+"009"	{emote: Soft Smile}A ver,{pause 10} veamos adónde nos lleva	este camino{pause 8}.{pause 8}.{pause 8}.{pause 20} Derecha,{pause 10} izquierda,{pause 10}	izquierda{pause 8}.{pause 8}.{pause 8}.
+"010"	{emote: Soft Smile}Muy bien,{pause 10} pues veamos si has	elegido el camino correcto.	{pause 20}Izquierda, {pause 10}derecha, {pause 10}derecha{pause 8}.{pause 8}.{pause 8}.
+"011"	{0009-0001-0006-0006-000c-000c}
+"012"	{emote: Surprise}¡Oh, vaya!{pause 20} ¡Has caído en una ciénaga	de {0005-000e-0002-0000}!{Wait for input}{emote: Reset} Pero bueno,	todavía tienes dos laberintos más.{Wait for input}¿Qué camino quieres seguir en	el laberinto número dos?{Player can respond (0001):000d-0000-000d-0000-000d-0000}	El camino rosa	El camino negro	El camino blanco
+"013"	{0009-0000-0004-000e-000f}
+"014"	{emote: Soft Smile}Venga, pues sigamos este caminito.	{pause 20}Primero a la derecha{pause 8}.{pause 8}.{pause 8}.{pause 20} luego a	la derecha otra vez{pause 8}.{pause 8}.{pause 8}.
+"015"	{emote: Soft Smile}¡Pues allá vamos! {pause 20}Izquierda,	{pause 10}ahora a la izquierda otra vez{pause 8}.{pause 8}.{pause 8}.
+"016"	{0009-0001-0006-0005-0011-0011}
+"017"	{emote: Worry}Vaya, {pause 10}qué mala suerte tienes{pause 8}.{pause 8}.{pause 8}.{pause 20}	Has perdido tu {0005-000f-0002-0000}	y tienes que volver a la entrada.{emote: Reset}	{emote: Soft Smile}Venga, {pause 10}ahora vamos a por el	último laberinto. {pause 20}¡Buena suerte!{Player can respond (0001):0012-0000-0012-0000-0012-0000}	¡El camino amarillo!	¡El camino naranja!	¡El camino morado!
+"018"	{0009-0000-0004-0013-0014}
+"019"	{emote: Worry}Como pierdas ahora, {pause 10}te pagaré	muy poco, {pause 10}¿eh? {pause 20}¿Estás mentalizad{o/a}	por si el resultado no es a tu favor?	Bueno, {pause 10}yo espero que te sonría	la suerte. {pause 20}El camino que has elegido	va por la izquierda, {pause 10}por la derecha{pause 8}.{pause 8}.{pause 8}.
+"020"	{emote: Worry}Ten cuidado, {pause 10}que como pierdas	esta vez, {pause 10}te daré muy pocas bayas	a cambio de tu objeto.	A ver cómo acaba todo{pause 8}.{pause 8}.{pause 8}.	{pause 20}Tu camino va por la izquierda,{pause 10}	luego por la derecha{pause 8}.{pause 8}.{pause 8}.
+"021"	{0009-0003-000a-0004-0004-0003-0003-0003}
+"022"
+"023"	Sé que esto no es mucho, {pause 10}lo siento.	{pause 20}{emote: Soft Smile}Pero te agradezco que hayas jugado	conmigo, {pause 10}¡ha sido muy emocionante!
+"024"	{emote: Soft Smile}Siento que el precio sea tan bajo.	{pause 20}Me encantan los juegos, {pause 10}{emote: Sheepishness}pero sé que	son menos divertidos si no ganas.
+"025"	{emote: Happiness}¿Te lo has pasado bien?	{pause 20}¡Yo desde luego que sí! {pause 20}Espero que	podamos volver a jugar otro día.
+"026"	{emote: Soft Smile}Al final el juego me ha salido caro,	{pause 10}pero ha merecido la pena, {pause 10}¡porque	me lo he pasado muy bien contigo!
 == 2 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Sheepishness}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Joy}
-"007"	{emote: Glee}
-"008"	{0009-0000-0004-09-00-00-00}	
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{0009-0001-0006-06-00-0c-00-0c-00}
-"012"	{emote: Surprise}
-"013"	{0009-0000-0004-0e-00-0f-00}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{0009-0001-0006-05-00-11-00-11-00}
-"017"	{emote: Worry}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	{emote: Worry}
-"020"	{emote: Distress}
-"021"	{0009-0003-000a-04-00-04-00-03-00-03-00-03-00}
-"022"	
-"023"	{emote: Soft Smile}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	{emote: Worry}
+"001"	{emote: Soft Smile}{capitalized}{000e-0001-0000}{0011-0003-0002-0000} que	voilà est drôlement chouette.{pause 20} Tu ne	l{e/a/} vendrais pas, par hasard ?	Parce qu'on pourrait déterminer le	prix en faisant un petit jeu...{pause 20} Un	« labyrinthe », par exemple !	{emote: Agreement}J'en ai plein dans mon livre de	coloriage, en plus !{pause 20} À chaque fois,	il faut choisir parmi trois chemins...	{emote: Soft Smile}Mettons que si tu trouves le bon dès	le premier labyrinthe, je t'en offre	des tonnes de clochettes !	{emote: Reset}Mais si tu prends la mauvaise voie,	on baisse le prix et tu passes au	labyrinthe suivant.	Je te laisse trois chances.{pause 20} Si tu	perds trois fois, je te paierai à peine	quelques clochettes symboliques.	{0007-000d-0000}{emote: Soft Smile}Qu'est-ce que t'en penses ?{pause 20} Ça te	tente ?{Player can respond (0005):0007-0015-0002-0028}	Et comment !	Non merci.
+"002"	{emote: Sheepishness}Oh, tant pis.{pause 20} C'était pourtant une	bonne idée...{pause 20}{emote: Reset} Bah, ce sera pour une	autre fois.
+"003"	{emote: Distress}Oh, tu es tombé{/e} sur un gus déguisé	en{pause 8}.{pause 8}.{emote: Curious}{pause 8}.{pause 20} {0005-000f-0002-0000} !{pause 40}{emote: Distress} Lequel t'a	reconduit{/e} fissa au point de départ !	{emote: Resigned}Ces labyrinthes deviennent de plus	en plus alambiqués...{pause 20} {emote: Worry}Quoi qu'il en	soit, tu as épuisé tes trois chances.	Ce qui veut dire que tu vas me	céder cette merveille pour{pause 8}.{pause 8}.{pause 8}.	{Blue}{Number (0x9)} malheureuses clochettes{Color Reset}.
+"004"	{emote: Happiness}Tu as atteint la sortie in extremis !{pause 20}	Comme tu as fait trois tentatives,	je te dois {Blue}{Number (0x9)} clochettes{Color Reset}.
+"005"	{emote: Happiness}Tu as atteint la sortie, bien joué !{pause 20}	Tu reçois donc {Blue}{Number (0x9)} clochettes{Color Reset} !
+"006"	{emote: Joy}Waouh, tu as atteint la sortie du	premier coup !{pause 20} Ça va me coûter	bonbon, mais quel talent !	{emote: Soft Smile}En tout cas, tu touches le jackpot :{pause 20}	{Blue}{Number (0x9)} clochettes{Color Reset} ! Félicitations, te	voilà riche !
+"007"	{emote: Glee}Super ! {pause 20}Bien, choisis le chemin que	tu veux suivre... {pause 20}Fais confiance à	ton intuition !{Player can respond (0001):0008-0000-0008-0000-0008-0000}	Le bleu.	Le rouge.	Le vert.
+"008"	{0009-0000-0004-0009-000a}
+"009"	{emote: Soft Smile}Très bien, va pour ce chemin...{pause 20} On	s'enfonce dans le labyrinthe{pause 8}.{pause 8}.{pause 8}.{pause 20} À	droite, à gauche et encore à gauche.
+"010"	{emote: Soft Smile}Très bien, va pour ce chemin...{pause 20} On	s'enfonce dans le labyrinthe{pause 8}.{pause 8}.{pause 8}.{pause 20} À	gauche, à droite et encore à droite.
+"011"	{0009-0001-0006-0006-000c-000c}
+"012"	{emote: Surprise}Oh oh !{pause 20} On dirait que tu t'es	embourbé{/e} dans une mare	{de /d'}{0005-000e-0002-0000}...	Ne fais pas cette tête : il te reste	deux essais.{pause 20} Tu choisis quel chemin	pour le deuxième labyrinthe ?{Player can respond (0001):000d-0000-000d-0000-000d-0000}	Le rose.	Le noir.	Le blanc.
+"013"	{0009-0000-0004-000e-000f}
+"014"	{emote: Soft Smile}Très bien, voyons où ça te mène !{pause 20}	À droite et encore à droite...
+"015"	{emote: Soft Smile}Très bien, voyons où ça te mène !{pause 20}	À gauche et encore à gauche...
+"016"	{0009-0001-0006-0005-0011-0011}
+"017"	{emote: Worry}Tu as perdu {Article(word-dependant)}{0005-000f-0002-0000}	et tu as dû revenir sur tes pas.{pause 20} Bon,	dernière chance : quel chemin ?{Player can respond (0001):0012-0000-0012-0000-0012-0000}	Le jaune.	L'orange.	Le violet.
+"018"	{0009-0000-0004-0013-0014}
+"019"	{emote: Worry}Cette fois, si tu perds, ton porte-	monnaie va le sentir passer...{pause 20} Tu	pourras supporter la pression ?	Espérons pour toi que la chance	tourne...{pause 20}{emote: Thought} Alors, d'abord à gauche,	puis à droite, puis...
+"020"	{emote: Distress}Si tu perds encore une fois, tu vas	y laisser une fortune{pause 8}.{pause 8}.{pause 8}.{pause 8} Tes nerfs	vont tenir ?	{emote: Soft Smile}Allez, je suis le chemin pour toi, ça	t'épargnera un peu de stress :{pause 20}{emote: Thought}	gauche, puis gauche, puis droite...
+"021"	{0009-0003-000a-0004-0004-0003-0003-0003}
+"022"
+"023"	{emote: Soft Smile}Tu n'as pas l'air content{/e}, mais	l'essentiel, c'est qu'on se soit bien	amusé{/e}s, {catchphrase} !
+"024"	{emote: Happiness}Enfin, c'est quand même moi qui	m'en sors le mieux sur ce coup-là...{Wait for input}	Tu ne m'en veux pas, j'espère...
+"025"	{emote: Happiness}Tu as passé un bon moment ?{pause 20}	J'espère qu'on se refera une petite	partie bientôt !
+"026"	{emote: Worry}J'y laisse quelques plumes, mais	c'est le jeu...{pause 20} J'aurai ma revanche	la prochaine fois, {catchphrase} !
 == 3 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Sheepishness}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Joy}
-"007"	{emote: Glee}
-"008"	{0009-0000-0004-09-00-00-00}	
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{0009-0001-0006-06-00-0c-00-0c-00}
-"012"	{emote: Surprise}
-"013"	{0009-0000-0004-0e-00-0f-00}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{0009-0001-0006-05-00-11-00-11-00}
-"017"	{emote: Worry}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
-"021"	{0009-0003-000a-04-00-04-00-03-00-03-00-03-00}
-"022"	
-"023"	{emote: Soft Smile}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	{emote: Worry}
+"001"	{emote: Soft Smile}Oooh! {pause 20}Ma che splendid{000e-0012-000c-0010-0002-006f-0002-0061-0000}	{0011-0003-0002-0000} che hai!{pause 20}	Non è che me {000e-0012-0010-0010-0004-006c-006f-0004-006c-0061-0000} venderesti?	{emote: Glee}E per aggiungere un pizzico di sfida,{pause 10}	{pause 15}potresti decidere il prezzo{pause 10} con	il gioco dei {Blue}tracciati incrociati{Color Reset}!	{emote: Agreement}Dai un'occhiata a questi labirinti.	{pause 20}Sono tutti composti da tre tracciati,	{pause 8}ma solo uno conduce all'uscita.	{emote: Soft Smile}Se imbocchi il tracciato giusto già	al primo labirinto,{pause 8} ti pagherò	fior di stelline.	{emote: Reset}Se però {pause 8}finisci in un vicolo cieco,{pause 8}	dovrai passare al labirinto seguente{pause 8}	e il prezzo di vendita si abbasserà.	Ti puoi cimentare in un massimo	di tre labirinti. {pause 30}{emote: Happiness}Se non troverai	l'uscita nemmeno al terzo{pause 8}.{pause 8}.{pause 8}.	{pause 8}.{pause 8}.{pause 8}. mi dovrai vendere	{000e-0001-0000}{0011-0003-0002-0000}	a una cifra simbolica.	{0007-000d-0000}{emote: Soft Smile}Che ne pensi?{pause 20} Ti va di tentare	la fortuna?{Player can respond (0005):0007-0015-0002-0028}	Ci sto, giochiamo!	No, grazie.
+"002"	{emote: Sheepishness}Oh,{pause 8} capisco.{pause 20} Che peccato!{Wait for input}	{emote: Soft Smile}Facciamo un'altra volta, quando	hai più tempo, {pause 10}d'accordo?
+"003"	{emote: Distress}Oh, che sfortuna!{pause 20} Sei finit{o/a} in	un vicolo cieco, {pause 8}dove un gaglioffo	vestito da{pause 8}.{pause 8}.{emote: Curious}{pause 8}.{pause 20} {0005-000f-0002-0000}... {pause 40}{pause 8}.{pause 8}.{pause 8}.	{emote: Distress}{pause 8}.{pause 8}.{pause 8}. ti fa fuggire a gambe levate!	{emote: Resigned}Questi labirinti si fanno	sempre più inverosimili.	{emote: Worry}Ad ogni modo,{pause 8} questo era il tuo	ultimo tentativo. {pause 20}Ciò significa che	ti spettano solo{pause 8}.{pause 8}.{pause 8}. {Blue}{Number (0x9)} stelline{Color Reset}.
+"004"	{emote: Happiness}Hai trovato l'uscita!{pause 20} Meno male,{pause 8}	temevo non ci saresti riuscit{o/a}.{Wait for input}Questo era il tuo terzo tentativo,	{pause 8}quindi ti spettano{pause 8}.{pause 8}.{pause 8}. {Blue}{Number (0x9)}{Color Reset}{Blue} stelline{Color Reset}.
+"005"	{emote: Happiness}Hai trovato l'uscita!{pause 20} Félicitations!	{pause 20}Ciò significa che devo pagarti{pause 8}.{pause 8}.{pause 8}.	{Blue}{Number (0x9)} {Color Reset}{Blue}stelline{Color Reset}.
+"006"	{emote: Joy}Sbalorditivo!{pause 8} Hai trovato l'uscita	già al primo labirinto!{pause 20} Te le meriti	davvero queste stelline!	{emote: Soft Smile}Ti è servito solamente	un tentativo,{pause 8} quindi ti spetta	un bel gruzzoletto: {Blue}{Number (0x9)}{Color Reset} {Blue}stelline{Color Reset}!
+"007"	{emote: Glee}Evviva!	{pause 20}Allora,{pause 8} eccoti qua il primo labirinto.	{pause 20}Quale tracciato vuoi seguire?{Player can respond (0001):0008-0000-0008-0000-0008-0000}	Il tracciato blu...	Il tracciato rosso...	Il tracciato verde...
+"008"	{0009-0000-0004-0009-000a}
+"009"	{emote: Soft Smile}Très bien,{pause 8} vediamo dove ti	condurrà{pause 8} il tracciato che hai	scelto{pause 8}.{pause 8}.{pause 8}.{pause 20} Destra,{pause 8} sinistra,{pause 8} sinistra.
+"010"	{emote: Soft Smile}Très bien,{pause 8} vediamo dove ti	condurrà{pause 8} il tracciato che hai	scelto{pause 8}.{pause 8}.{pause 8}.{pause 20} Sinistra,{pause 8} destra,{pause 8} destra.
+"011"	{0009-0001-0006-0006-000c-000c}
+"012"	{emote: Surprise}Che sfortuna!{pause 20} Ti sei impantanat{o/a}	in una palude di {0005-000e-0002-0000}!{Wait for input}	{emote: Reset}Ti rimangono due labirinti.	Quale tracciato vuoi seguire	questa volta?{Player can respond (0001):000d-0000-000d-0000-000d-0000}	Il tracciato rosa...	Il tracciato nero...	Il tracciato bianco...
+"013"	{0009-0000-0004-000e-000f}
+"014"	{emote: Soft Smile}Molto bene,{pause 8} vediamo dove	ti porterà!{pause 20} Una svolta a destra	{pause 8}e poi un'altra di nuovo a destra{pause 8}.{pause 8}.{pause 8}.
+"015"	{emote: Soft Smile}Molto bene,{pause 8} vediamo dove	ti porterà!{pause 20} Una svolta a sinistra	{pause 8}e poi un'altra di nuovo a sinistra{pause 8}.{pause 8}.{pause 8}.
+"016"	{0009-0001-0006-0005-0011-0011}
+"017"	{emote: Worry}Che disdetta! {pause 8}Sei finit{o/a} in un vicolo	cieco {pause 8}e per giunta ti accorgi di non	avere più {000e-0012-0010-0002-0004-0069-006c-0004-006c-0061-0000} tu{000e-0012-000c-0002-0002-006f-0002-0061-0000} {0005-000f-0002-0000}!	{emote: Reset}Hai un ultimo labirinto a	disposizione.{pause 20} In bocca al lupo!{Player can respond (0001):0012-0000-0012-0000-0012-0000}	Il tracciato giallo!	Il tracciato arancione!	Il tracciato viola!
+"018"	{0009-0000-0004-0013-0014}
+"019"	{emote: Worry}Cerca di trovare l'uscita questa	volta,{pause 8} o non avrai nulla per cui	festeggiare.{pause 20} Fai un bel respiro{pause 8}.{pause 8}.{pause 8}.	{pause 8}.{pause 8}.{pause 8}. e vediamo se la fortuna ti sorride.{pause 20}	{emote: Thought}Il tragitto che hai scelto gira	a sinistra, poi a destra, poi{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"020"	{emote: Worry}Cerca di trovare l'uscita questa	volta,{pause 8} o non avrai nulla per cui	festeggiare.{pause 20} Fai un bel respiro{pause 8}.{pause 8}.{pause 8}.	{pause 8}.{pause 8}.{pause 8}. e vediamo se la fortuna ti sorride.{pause 20}	{emote: Thought}Il tragitto che hai scelto gira a	sinistra, poi a sinistra, poi a destra{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"021"	{0009-0003-000a-0004-0004-0003-0003-0003}
+"022"
+"023"	{emote: Soft Smile}Posso immaginare la tua	insoddisfazione,{pause 10} ma in fondo,	{pause 10}se ci pensi,{pause 10} è soltanto un gioco!
+"024"	{emote: Happiness}Ho fatto un vero affare, {pause 10}ma sono	ugualmente dispiaciuta per te.{Wait for input}	Dal profondo del cuore, {pause 10}merci!
+"025"	{emote: Happiness}Ti sei divertit{o/a} tantissimissimo,{pause 8}	non è vero?{pause 20} Spero che avremo	occasione di giocare ancora insieme!
+"026"	{emote: Worry}Accipicchia!{pause 8} Mi costa	un occhio della testa!{Wait for input}{emote: Soft Smile}Ma sta proprio qui il bello del gioco.	{pause 20}Spero che avremo ancora	occasione di giocare insieme!
 == 4 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Sheepishness}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Joy}
-"007"	{emote: Glee}
-"008"	{0009-0000-0004-09-00-00-00}	
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{0009-0001-0006-06-00-0c-00-0c-00}
-"012"	{emote: Surprise}
-"013"	{0009-0000-0004-0e-00-0f-00}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{0009-0001-0006-05-00-11-00-11-00}
-"017"	Auweia! {pause 20}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
-"021"	{0009-0003-000a-04-00-04-00-03-00-03-00-03-00}
-"022"	
-"023"	{emote: Sheepishness}
-"024"	{emote: Soft Smile}
-"025"	{emote: Happiness}
-"026"	{emote: Soft Smile}
+"001"	{emote: Soft Smile}{capitalized}{000e-0001-0000}{0011-0003-0002-0000},	{den/die/das} du da hast, gefällt mir sehr gut.	{pause 20}Willst du {den/die/es} zufällig verkaufen?	Wir könnten den Preis festlegen,	indem wir ein Spiel spielen. {pause 20}Ein	Labyrinthspiel zum Beispiel!	{emote: Agreement}Hier in meinem Malbuch habe ich	verschiedene Labyrinthe.{pause 20} In jedem	gibt es drei verschiedene Pfade.	{emote: Soft Smile}Allerdings führt nur einer davon zum	Ausgang.{pause 20} Wenn du ihn direkt errätst,	zahle ich dir Sternis über Sternis!	Aber wenn du in einer Sackgasse	landest, ziehe ich von der Summe	etwas ab und behalte es für mich.	Das machen wir dreimal, mit drei	Labyrinthen.{pause 20} Je öfter du dich	verläufst, umso besser für mich.	Aber je eher du den Weg findest,	umso besser für dich.{pause 20}{0007-000d-0000} Also, was	meinst du?{pause 20} Wollen wir spielen?{Player can respond (0005):0007-0015-0002-0028}	Klar, warum nicht!	Och nö.
+"002"	{emote: Sheepishness}Oh, na gut. {pause 20}Ganz wie du willst.{pause 20}	Wir können ja ein andermal spielen.
+"003"	{emote: Distress}Oh nein.{pause 20} Da wirft jemand mit {einem/einer/einem}	{0005-000f-0002-0000} nach dir{pause 8}.{pause 8}.{pause 8}.{pause 20}	Puh, das war knapp!	Du erleidest den Schock deines	Lebens und musst die nächsten drei	Wochen das Bett hüten.	{emote: Resigned}Dumm gelaufen.{pause 20} Diese Labyrinthe	werden aber auch wirklich irrer	und irrer.	Es tut mir schrecklich leid, aber das	war das letzte Labyrinth.{pause 20} Du hast	den Weg auch hier nicht gefunden.	Das bedeutet, dass ich dir den	Gegenstand für magere	{Blue}{Number (0x9)} Sternis {Color Reset}abkaufen werde.
+"004"	{emote: Happiness}Oh, du hast den Ausgang gefunden.{pause 20}	Puh, was für eine Erleichterung,	nicht wahr?	Da es erst beim dritten Mal ge-	klappt hat, zahle ich dir noch	{Blue}{Number (0x9)}{Color Reset}{Blue} Sternis {Color Reset}für den Gegenstand.
+"005"	{emote: Happiness}Puh, du hast den Ausgang gefunden.{pause 20}	Gut gemacht.{pause 20} Da fällt dir ein ganz	schöner Stein vom Herzen, oder?	Deinen Gegenstand kaufe ich dir	damit für ganze {Blue}{Number (0x9)} {Color Reset}{Blue}Sternis {Color Reset}ab.
+"006"	{emote: Joy}Sieh mal einer an, du hast den	Ausgang auf Anhieb gefunden.{pause 20}	Das war ganz schön gut.	Da kann ich nicht mal frustriert	darüber sein, dass ich jetzt eine	Menge Sternis an dich verliere...	Ich zahle dir {Blue}{Number (0x9)} {Color Reset}{Blue}Sternis {Color Reset}für	deinen Gegenstand.{pause 20} Du bist reich!
+"007"	{emote: Glee}Jippie! Also los!{pause 20} Welchen Pfad durch	das erste Labyrinth wählst du?{pause 20}	Folge deiner Intuition!{Player can respond (0001):0008-0000-0008-0000-0008-0000}	Den blauen Pfad.	Den roten Pfad.	Den grünen Pfad.
+"008"	{0009-0000-0004-0009-000a}
+"009"	{emote: Soft Smile}Oho!{pause 20} Mal sehen, wo dieser Pfad	dich hinführt.{emote: Thought}{pause 20} Rechts...{pause 20} Dann links...{pause 20}	Und noch mal links.
+"010"	{emote: Soft Smile}Oho! {pause 20}Mal sehen, wo dieser Pfad	dich hinführt.{emote: Thought}{pause 20} Links...{pause 20} Dann rechts...{pause 20}	Und wieder rechts.
+"011"	{0009-0001-0006-0006-000c-000c}
+"012"	{emote: Surprise}Oh nein!{pause 20} Du biegst um die Ecke...	und stürzt in ein Planschbecken	voller {0005-000e-0002-0000}.	Na ja, immerhin kannst du dein	Glück noch in zwei weiteren	vertrackten Labyrinthen versuchen.	Welchen Pfad wählst du diesmal?{Player can respond (0001):000d-0000-000d-0000-000d-0000}	Den pinken Pfad.	Den schwarzen Pfad.	Den weißen Pfad.
+"013"	{0009-0000-0004-000e-000f}
+"014"	{emote: Soft Smile}Alles klar. {pause 20}Dann wollen wir doch	mal schauen, wohin er führt. {emote: Thought}{pause 40}Die	Erste rechts... {pause 20}Und wieder rechts.
+"015"	{emote: Soft Smile}Alles klar. {pause 20}Dann wollen wir doch	mal schauen, wohin er führt. {emote: Thought}{pause 40}Die	Erste links... {pause 20}Und gleich wieder links.
+"016"	{0009-0001-0006-0005-0011-0011}
+"017"	Auweia! {pause 20}Nicht das noch! {pause 20}Du hast	{deinen/deine/dein} {0005-000f-0002-0000} verloren	und musst umkehren.{pause 20} So ein Mist.	In Ordnung, ein Labyrinth bleibt	dir noch. {pause 20}Welchen Pfad möchtest	du diesmal gehen?{Player can respond (0001):0012-0000-0012-0000-0012-0000}	Den gelben Pfad.	Den orangen Pfad.	Den lila Pfad.
+"018"	{0009-0000-0004-0013-0014}
+"019"	{emote: Worry}Wenn du auch diesmal daneben	liegst, kostet dich das einen Haufen	Sternis. {pause 20}Bist du mental vorbereitet?	{emote: Soft Smile}Also gut, ich wünsche dir Glück.{pause 20}	{emote: Thought}Es geht links entlang... {pause 20}Dann rechts...{pause 20}	Und dann einmal mittendurch.
+"020"	{emote: Worry}Wenn du auch diesmal daneben-	liegst, kostet dich das einen Haufen	Sternis. {pause 20}Bist du mental vorbereitet?	{emote: Soft Smile}Also gut, ich wünsche dir Glück.{pause 20}	{emote: Thought}Es geht links entlang... {pause 20}Wieder links...{pause 20}	Und dann halbwuselig rechtsrum.
+"021"	{0009-0003-000a-0004-0004-0003-0003-0003}
+"022"
+"023"	{emote: Sheepishness}Ja, ja, ich weiß.{pause 20} Das ist alles	andere als viel.{pause 20} Tut mir leid.{Wait for input}{emote: Soft Smile}Trotzdem danke, dass du mitge-	spielt hast.{pause 20} Ich mag Spiele.{pause 20} Vielleicht	machen wir das bald mal wieder?
+"024"	{emote: Soft Smile}Ein bisschen tut es mir ja leid, dass	der Preis so niedrig geworden ist.{pause 20}	Hoffentlich bist du nicht böse.	Ich weiß, spielen macht nicht so	großen Spaß, wenn man nicht	gewinnt.{pause 20} Trotzdem danke.
+"025"	{emote: Happiness}Na, habe ich zu viel versprochen?{pause 20}	Das hat doch Spaß gemacht, oder?{pause 20}	Hoffentlich spielen wir bald wieder.
+"026"	{emote: Soft Smile}Ja, so kann es manchmal gehen.{pause 20}	Aber Spiel ist Spiel.{pause 20} Und du hast	mit Fug und Recht gewonnen.	Wenn du magst, können wir das	bald gerne mal wiederholen.

@@ -1,80 +1,80 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Curious}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Curious}
-"006"	{emote: Curious}
-"007"	{emote: Alarmed}
-"008"	{emote: Curious}
-"009"	{emote: Curious}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Soft Smile}
-"015"	{emote: Happiness}
+"001"	{emote: Alarmed}Huh? {pause 20}But I've already signed this.{pause 20}	{emote: Distress}Did you forget?
+"002"	{emote: Curious}What? {pause 20}But I already signed that!
+"003"	{emote: Alarmed}What? Hey, I already signed that!
+"004"	{emote: Alarmed}You want me to sign this?{Wait for input}	{emote: Thought}So {0012-0001-0000},	huh?	{emote: Happiness}Sorry, but I don't think I'm the	right kind of person to sign	that petition. {pause 10}Thanks, anyway.
+"005"	{emote: Curious}What? {pause 10}You want me to sign this?{Wait for input}	{emote: Thought}Hmm. {0012-0001-0000}.{pause 20}	Is that a new cause or something?	{emote: Disagreement}I don't think I can get behind that.{pause 20}	It's just not my thing. {pause 10}{emote: Soft Smile}Thanks for	asking me, though.
+"006"	{emote: Curious}Hey? {pause 10}This is a petition, right?{Wait for input}	{emote: Thought}Hmm. {0012-0001-0000}.{pause 20}	You want me to sign this?	{emote: Soft Smile}Sorry. I don't think I can get behind	that cause. {pause 10}But thanks for thinking	of me, {Player nickname (green)}!
+"007"	{emote: Alarmed}What? You want me to sign this?{Wait for input}	{emote: Thought}{0012-0001-0000}, huh?{Wait for input}{emote: Happiness}Wow, that sounds great! I'll give	you my signature for sure!
+"008"	{emote: Curious}Hmm? {pause 10}You want my signature?{Wait for input}	{emote: Thought}{0012-0001-0000}.{pause 20} Is it	some new cause?	{emote: Glee}Well, I totally love it! I'll sign that	right away.
+"009"	{emote: Curious}Hey? {pause 10}This is a petition, isn't it?{Wait for input}	{emote: Thought}Hmm. {0012-0001-0000}.{pause 20}	I bet you want my signature.	{emote: Sunny}Well, you got it! {pause 10}This is a cause	that I can get behind!
+"010"	{emote: Happiness}There you go. {pause 10}Hey, I think it's so	awesome you came all the way to	our town for this, {catchphrase}.	{emote: Glee}You must be really dedicated to	this cause! Good luck getting	more signatures!
+"011"	{emote: Happiness}OK, signed it. {pause 10}I hope you find even	more people to join this cause!{Wait for input}{emote: Joy}You came a long way to get my	signature. That makes me feel	so important, {catchphrase}!
+"012"	{emote: Happiness}There. Glad to put my name down	for such a major cause!{Wait for input}{emote: Agreement}Yeah, this must be important if	you came all the way to our town	for signatures, {catchphrase}!
+"013"	{emote: Happiness}There you go. {pause 10}Hey, I'm the last	signature you need, right?{Wait for input}{emote: Glee}Then be sure to take this list back	to the person who gave it to you,	{Player nickname (green)}. {pause 10}This is so exciting!
+"014"	{emote: Soft Smile}OK, signed it. {pause 10}I hope you find even	more people to join.{pause 5}.{pause 5}.{pause 5}{emote: Disbelief}WAIT!{pause 10}	I was the last one you needed.	{emote: Distress}Then return this list to the one	who gave it to you! {pause 10}Oh, it's so neat	this many of us signed up!
+"015"	{emote: Happiness}There. I'm happy to put my name	down for this. {pause 10}And hey, your	list is totally full now!	{emote: Agreement}Yeah, you're done. {pause 10}Now you	should return this list to whoever	started this whole petition!
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Curious}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Curious}
-"006"	{emote: Curious}
-"007"	{emote: Alarmed}
-"008"	{emote: Curious}
-"009"	{emote: Curious}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Soft Smile}
-"015"	{emote: Happiness}
+"001"	{emote: Alarmed}¿Eh? {pause 20}Pero si ya he firmado.{pause 20}	{emote: Distress}¿No te acuerdas?
+"002"	{emote: Curious}Creo que ya he firmado, ¿no?
+"003"	{emote: Alarmed}¡Eh! Ya he firmado, ¿no lo ves?
+"004"	{emote: Alarmed}¿Quieres que firme esta petición?{Wait for input}	{emote: Thought}¿"{0012-0001-0000}"?{Wait for input}{emote: Happiness}Lo siento, pero esta causa no	va conmigo.{pause 10} Pregunta a otro	vecino, anda.
+"005"	{emote: Curious}¿Quieres que firme?{Wait for input}	{emote: Thought}"{0012-0001-0000}"...{pause 20}	¿De qué va todo esto?	{emote: Disagreement}Oye, lo siento, pero si no	es chachi, no me interesa.{pause 20}	{pause 10}{emote: Soft Smile}Aunque gracias por preguntar.
+"006"	{emote: Curious}¿Una petición que se llama{Wait for input}	"{0012-0001-0000}"?{pause 20}	¿Quieres que te firme la hoja?	{emote: Soft Smile}Si me interesara, me pondría muy	en serio a apoyarla, pero no es el	caso, {Player nickname (green)}. Lo siento.
+"007"	{emote: Alarmed}¡Oh! ¿Quieres que firme algo?{Wait for input}	{emote: Thought}¿"{0012-0001-0000}"?{Wait for input}{emote: Happiness}¡Suena chupiguay! ¡Cuenta con	todo mi apoyo y más!
+"008"	{emote: Curious}¿Mmm? {pause 10}¿Que firme qué?{Wait for input}	{emote: Thought}¿"{0012-0001-0000}"?{Wait for input}{emote: Glee}¡Pues el nombre es chachi	y la causa requeteguay!{pause 20}	¿Dónde hay que firmar?
+"009"	{emote: Curious}¡Anda! {pause 10}¿Es una petición?{Wait for input}	{emote: Thought}"{0012-0001-0000}"...{pause 20}	Ah, ¿que quieres que firme?	{emote: Sunny}¡Pues cuenta con ello! {pause 10}¡Es una causa	superinteresante!
+"010"	{emote: Happiness}Ya está. {pause 10}Me parece una pasada	que vengas desde tan lejos para	conseguir firmas, {catchphrase}.	{emote: Glee}¡Se te ve superdedicad{o/a}!{pause 10}	Espero que consigas muchas más.
+"011"	{emote: Happiness}Firmado. {pause 10}¡Ya verás como recoges	muchas más firmas!{pause 10} Es una buena	causa.{Wait for input}{emote: Joy}¡Aunque mi firma ya vale por diez	gracias a lo requetefamosa que	soy, {catchphrase}!
+"012"	{emote: Happiness}¡Ya está! Estoy contentísima	de poder ayudar a esta causa.{Wait for input}{emote: Agreement}¡Debe de tratarse de algo muy	importante si has venido hasta	aquí, {catchphrase}!
+"013"	{emote: Happiness}Hecho. {pause 10}Anda, la mía era la última	firma que necesitabas, ¿no?{Wait for input}{emote: Glee}Corre a llevarle la hoja al vecino	que te lo encargó, {Player nickname (green)}.{pause 10}	¡Estará supercontento!
+"014"	{emote: Soft Smile}Listo. {pause 10}Espero que recojas muchas	má.{pause 5}.{pause 5}.{pause 5}{emote: Disbelief} ¡Un momento!{pause 10} ¡Ya tienes	la hoja llena!	{emote: Happiness}¡Corre a dársela a quienquiera	que te lo haya encargado!
+"015"	{emote: Happiness}¡Oye, con mi firma has llenado	la hoja! {pause 10}¡Qué fuerte!{Wait for input}{emote: Agreement}Pues ya está. {pause 10}Acuérdate de	devolver la hoja a quien te	lo haya encargado.
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Curious}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Curious}
-"006"	{emote: Curious}
-"007"	{emote: Alarmed}
-"008"	{emote: Curious}
-"009"	{emote: Curious}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Soft Smile}
-"015"	{emote: Happiness}
+"001"	{emote: Alarmed}Quoi ? {pause 20}J'ai déjà signé,	{catchphrase} !{pause 20} {emote: Distress}T'as oublié,	on dirait !!!
+"002"	{emote: Curious}Hein ? {pause 20}{emote: Reset}Tu te répètes,	{catchphrase} ! Bah oui,	j'ai déjà signé, moi !
+"003"	{emote: Alarmed}Quoi ?{emote: Reset} Je l'ai déjà signé ton bout de	papier, moi !
+"004"	{emote: Alarmed}Tu veux que je signe ça ? Moi ?{Wait for input}	{emote: Thought}{0012-0001-0000}...	Hum...	{emote: Happiness}Je me sens pas trop concernée en	fait, hi hi !{pause 10} Mais euh... merci d'avoir	pensé à moi ?
+"005"	{emote: Curious}Une pétition, tu dis ?{Wait for input}	{emote: Thought}{0012-0001-0000}...{pause 20} J'en	avais jamais entendu parler...	{emote: Disagreement}Ça me parle pas vraiment...{pause 20} Même	carrément pas, hi hi !{pause 10} {emote: Soft Smile}Je peux pas	signer ça, sorry...
+"006"	{emote: Curious}Une pétition ? {pause 10}{Wait for input}	{emote: Reset}Si tu voulais un autographe, fallait le	dire, {catchphrase} !	{emote: Thought}{0012-0001-0000}{pause 10}.{pause 10}.{pause 10}.	Pourquoi moi, sérieux ?{Wait for input}{emote: Soft Smile}Je peux pas signer un truc auquel je	crois pas quand même !{pause 20} Si ?{pause 20}	Naaan...{pause 20} Désolée, {Player nickname (green)} !
+"007"	{emote: Alarmed}Une pétition ?{Wait for input}	{emote: Thought}« {0012-0001-0000} »,	hein ?	{emote: Happiness}C'est tout vu, je signe tout de	suite !
+"008"	{emote: Curious}Tu veux que je signe ça ?{Wait for input}	{emote: Thought}« {0012-0001-0000} »...{pause 20}	Ça sonne bien, ouais !	{emote: Glee}Donne vite, que je signe !
+"009"	{emote: Curious}Une pétition ? {pause 10}{Wait for input}	{emote: Thought}« {0012-0001-0000} »...{pause 20}	Bah oui, grave !	{emote: Sunny}Un peu, que je vais signer ça !{pause 10} C'est	une super idée !!!
+"010"	{emote: Happiness}Hop, j'ai signé !{pause 10} C'est hyper génial	que tu sois venu{/e} jusqu'ici pour	nous faire signer ça !	{emote: Glee}Elle doit te tenir à cœur, cette	cause, {catchphrase}. Respect !
+"011"	{emote: Happiness}C'est signé, {catchphrase} !!!{pause 10}	J'espère que tu vas rallier plein	d'autres personnes à cette cause !{Wait for input}{emote: Joy}Tu as fait tout ce chemin, juste	pour me faire signer ta pétition...{pause 10}	Je suis une star, {catchphrase} !
+"012"	{emote: Happiness}Je suis hypermégafière d'avoir signé	cette pétition !{Wait for input}{emote: Agreement}Ça doit vraiment être important si	t'es venu{/e} jusqu'ici pour chercher	des signatures, {catchphrase} !
+"013"	{emote: Happiness}C'est fait !{pause 10} Oups, y'a plus de place	maintenant !{pause 20} J'ai écrit trop gros ?!{Wait for input}{emote: Glee}Tu as assez de signatures,	trop fort !{pause 20} Tu dois rendre ta feuille	à quelqu'un maintenant, non ?
+"014"	{emote: Soft Smile}C'est signé, {M'sieur/M'dame} !!!{pause 10} J'espère que	tu vas trouver d'autres personnes{pause 5}.{pause 5}.{pause 5}.{pause 20}	{emote: Disbelief}Il te manquait UNE signature ?!{pause 10}	{emote: Distress}C'est énormissime, chuis trop	contente !!! Maintenant tu dois	donner la feuille à quelqu'un, non ?
+"015"	{emote: Happiness}J'en reviens pas d'avoir signé ça !{pause 10}	Hé, on dirait que la liste est	pleine ?!	{emote: Agreement}Mission accomplie ! {pause 10}Vas-y file, cours	vite rendre cette feuille à la	personne qui te l'a confiée !
 == 3 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Curious}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Curious}
-"006"	{emote: Curious}
-"007"	{emote: Alarmed}
-"008"	{emote: Curious}
-"009"	{emote: Curious}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Soft Smile}
-"015"	{emote: Happiness}
+"001"	{emote: Alarmed}Eh? {pause 20}Ma ho già firmato la petizione!{pause 20}	{emote: Distress}Certo che sei smemorat{o/a}!
+"002"	{emote: Curious}Cosa? {pause 20}Ma guarda che	l'ho già firmata!
+"003"	{emote: Alarmed}Eh? Ma non vedi che l'ho	già firmata?
+"004"	{emote: Alarmed}Vuoi che firmi questa petizione?{Wait for input}	{emote: Thought}"{0012-0001-0000}"?{Wait for input}{emote: Happiness}Scusa ma questa causa è di una noia	mortale per me. {pause 10}Che pizza!
+"005"	{emote: Curious}Vuoi che firmi questa petizione?{Wait for input}	{emote: Thought}"{0012-0001-0000}"?	Di cosa si tratta?	{emote: Disagreement}No, grazie, ma non mi interessa.{pause 20}	Io firmo solo petizioni trendy.{pause 10}{emote: Soft Smile}	Questa causa è troppo out!
+"006"	{emote: Curious}Una petizione intitolata	{emote: Thought}"{0012-0001-0000}"?{pause 20}	Vuoi che firmi questo foglio?	{emote: Soft Smile}Starai scherzando?!	{pause 10}Io firmo solo gli autografi	per i miei fan, {Player nickname (green)}!
+"007"	{emote: Alarmed}Cosa? Vuoi che firmi la petizione?{Wait for input}	{emote: Thought}"{capitalized}{0012-0001-0000}"?{Wait for input}{emote: Happiness}Uau, spettacolo! Certo, come no?	La tua è una causa da sostenere!
+"008"	{emote: Curious}Mmmh? {pause 10}Ti serve la mia firma?{Wait for input}	{emote: Thought}"{capitalized}{0012-0001-0000}"?{pause 20}	Cos'è? Una nuova petizione?	{emote: Glee}Che storia! È una causa troppo	trendy! Firmo subito!	Sono una star impegnata io!
+"009"	{emote: Curious}Oh! {pause 10}Ma è una petizione?{Wait for input}	{emote: Thought}"{capitalized}{0012-0001-0000}"...{pause 20}	Scommetto che vuoi che la firmi!	{emote: Sunny}Affare fatto! {pause 10}È una causa	che sostengo al 100%!
+"010"	{emote: Happiness}Ecco fatto. {pause 10}Uau! Hai fatto tutta	questa strada per la petizione,	{catchphrase}? Che storia!	{emote: Glee}Deve essere una causa che ti sta	veramente a cuore! Spero tu	raccolga un sacchissimo di firme!
+"011"	{emote: Happiness}OK, firmata. {pause 10}Speriamo che tu	riesca a raccogliere tante altre	firme!{Wait for input}{emote: Joy}Anche se la mia firma da sola	ne vale cento. Sai com'è, quando	una è famosa, {catchphrase}...
+"012"	{emote: Happiness}Ecco fatto!	Sono sempre felice	di aiutare una buona causa!	{emote: Agreement}E se sei venut{o/a} fino a qui, si deve	trattare di una questione davvero	importante, {catchphrase}!
+"013"	{emote: Happiness}Ecco fatto. {pause 10}Ma tu guarda un po',	la mia firma era l'ultima che	ti serviva, giusto?	{emote: Glee}Che storia! Puoi riportare la lista	a chi ti ha chiesto di raccogliere	le firme, {Player nickname (green)}!
+"014"	{emote: Soft Smile}OK, firmata. {pause 10}Spero che tu ne	raccolga tante altr.{pause 5}.{pause 5}.{pause 5}{emote: Disbelief} Un momento!{pause 10}	Hai già raccolto tutte le firme!	{emote: Distress}Forza, riporta la lista a chi te l'ha	affidata! {pause 10}Corri, corri! Ti starà	aspettando! Che agitazione!
+"015"	{emote: Happiness}Che storia! La mia firma era	l'ultima che ti serviva!{pause 10}{Wait for input}{emote: Agreement}Hai finito. {pause 10}Ora restituisci la lista	a chi ha avuto l'idea di questa	petizione!
 == 4 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Curious}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Curious}
-"006"	{emote: Curious}
-"007"	{emote: Alarmed}
-"008"	{emote: Curious}
-"009"	{emote: Curious}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Soft Smile}
-"015"	{emote: Happiness}
+"001"	{emote: Alarmed}Hä? {pause 20}Ich hab das hier doch	schon unterschrieben.	{pause 20}{emote: Distress}Hast du das vergessen?
+"002"	{emote: Curious}Was? {pause 20}Aber das hab ich doch schon	unterschrieben!
+"003"	{emote: Alarmed}Was? {pause 10}Hey, {pause 5}das hab ich doch schon	unterschrieben!
+"004"	{emote: Alarmed}Du willst, dass ich das hier	unterschreib?{Wait for input} {emote: Thought}Also, es geht um	{0012-0001-0000}, was?	{emote: Happiness}Tut mir leid, {pause 5}aber ich bin wohl die	falsche Person, um diese Petition	zu unterschreiben. {pause 10}Aber danke!
+"005"	{emote: Curious}Was? {pause 10}Du möchtest, dass ich das hier	unterschreib?{Wait for input} {emote: Thought}Hmm, also, das nennt	sich {0012-0001-0000}.{pause 20}	Ist das eine neue Petition oder so?	{emote: Disagreement}Ich glaub, ich kann das nicht so	wirklich unterstützen.	{pause 20}Das ist einfach nicht mein Themen-	gebiet, find ich. {pause 10}{emote: Soft Smile}Trotzdem danke	fürs Fragen!
+"006"	{emote: Curious}Was? {pause 20}Das ist 'ne Petition, oder?{Wait for input}	{emote: Thought}Hmm, {0012-0001-0000}.	{pause 20}Ich soll das hier unterschreiben?	{emote: Soft Smile}Tut mir echt leid, {pause 10}aber ich glaub,	das hier kann ich nicht unterstützen.{Wait for input}Aber echt nett von dir, dass du an	mich gedacht hast, {Player nickname (green)}!
+"007"	{emote: Alarmed}Was? {pause 20}Du willst, dass ich das hier	für dich unterschreib?{Wait for input}{emote: Thought}Hm... {pause 20}Das Thema lautet also:	{0012-0001-0000}?{Wait for input}{emote: Happiness}Wow, {pause 10}das klingt eigentlich richtig	cool! {pause 20}Meine Unterschrift hast du	auf jeden Fall!
+"008"	{emote: Curious}Hm? {pause 20}Du willst meine Unterschrift?{Wait for input}	{emote: Thought}Aha, {pause 10}das Thema ist also:	{0012-0001-0000}?	Ist das 'ne neue Petition oder so?	{emote: Glee}Wuuhuu, {pause 10}find ich total super!	{pause 20}Ich unterschreib sofort!
+"009"	{emote: Curious}Hey, {pause 10}das ist 'ne Petition, oder?{Wait for input}	{emote: Thought}Hmm, {0012-0001-0000}.{pause 20}	Ich wette, du willst 'ne Unterschrift!	{emote: Sunny}Tja, {pause 5}da hast du sie! {pause 10}Das hier ist 'ne	Sache, hinter der ich 100 % stehe!
+"010"	{emote: Happiness}Da, {pause 10}bitte schön!{Wait for input}Hey, {pause 10}ich find's ja so cool, dass du	extra hierfür den ganzen weiten Weg	in unsere Stadt gekommen bist!	{emote: Glee}Du musst dich dieser Sache echt	total verschrieben haben!{Wait for input}Ich wünsch dir noch ganz viel Glück,	dass du noch mehr Unterschriften	auftreiben kannst, {pause 10}{catchphrase}!
+"011"	{emote: Happiness}Okay, ist unterschrieben. {pause 20}Ich hoff,	du findest noch viel mehr Leute,	die diese Sache unterstützen!{Wait for input}{emote: Joy}Du hast so einen weiten Weg	zurückgelegt, um meine	Unterschrift zu bekommen.	Da komm ich mir irgendwie total	wichtig vor, {pause 10}{catchphrase}!
+"012"	{emote: Happiness}So, bitte schön. {pause 20}Freut mich, dass ich	meinen Namen für einen so guten	Zweck hergeben kann!	{emote: Agreement}Muss ja echt wichtig sein, wenn du	extra in unsere Stadt kommst, um	Unterschriften zu sammeln!
+"013"	{emote: Happiness}So, unterschrieben! {pause 20}Hey, {pause 10}ich bin	die letzte Person, von der du eine	Unterschrift brauchtest, oder?	{emote: Glee}Dann bring die Liste mal zu der 	Person zurück, die sie dir gegeben	hat, {Player nickname (green)}.	Hach, ist das alles aufregend!
+"014"	{emote: Soft Smile}So, mein Kreuz hast du jetzt!	{pause 10}Ich hoff, du findest noch mehr	Leute, die mitmachen.{pause 5}.{pause 5}.{pause 5}{emote: Disbelief} MOMENT!	{pause 10}Meine war ja die letzte Unterschrift,	die du brauchtest! {pause 20}WOW!{Wait for input}{emote: Distress}Dann bring die Liste schnell zu der	Person zurück, die sie dir gegeben	hat!	{pause 10}Oh Mann, {pause 10}das ist so cool, dass so	viele von uns unterschrieben haben!
+"015"	{emote: Happiness}So, {pause 5}bitte sehr! {pause 20}Ich freu mich, dass	ich meinen Namen darunter setzen	konnte.	{pause 10}Wow, {pause 5}deine Liste ist ja jetzt voll!	{emote: Agreement}Yeah, du hast alle Unterschriften	gesammelt!	{pause 10}Bring die Liste zu der Person	zurück, die diese ganze Petitions-	Geschichte angefangen hat!

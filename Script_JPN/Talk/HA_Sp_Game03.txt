@@ -1,14 +1,14 @@
 == 0 ==
-"001"	
-"002"	{emote: Glare}
-"003"	
-"004"	あっちむいて～{0007-0009-0004-14-00-00-00}
-"005"		{0007-000a-0000}
-"006"	{emote: Mistaken}
-"007"	{emote: Laughter}
-"008"	{emote: Sunny}
-"009"	{emote: Glare}
-"010"	ってことは、{pause 40}!
-"011"	ってことは、{pause 40}!
-"012"	ってことは、{pause 40}!
-"013"	ってことは、{pause 40}ơ
+"001"
+"002"	{emote: Glare}へへっ！{pause 20}	ウデがなるぞー！	{Wait <005a 0000> 'time'}	{emote: Happiness}じゃあ、{ruby (charSpan 1): はじ}始めるぞ？{pause 40}	オイラが「あっちむいて～」って{ruby (charSpan 1): い}言ったら{pause 20}	を　おすんだ！{Wait for input}{emote: Agreement}オイラと{ruby (charSpan 1): おな}同じ{ruby (charSpan 2): ほうこう}方向を	{ruby (charSpan 1): む}向くことができたら{pause 8}	オマエの{ruby (charSpan 1): か}勝ち！{pause 40}　かんたんだろ？{Wait for input}{emote: Anger}チャンスは　3{ruby (charSpan 1): かい}回！{pause 40}	それじゃあ　いくぞー？
+"003"
+"004"	あっちむいて～{Wait <0014 0000> 'time'}
+"005"		{0007-000a-0000}{Text size 200%}ホ{pause 8}～{pause 8}イ{Text size 100%}
+"006"	{emote: Mistaken}うぉー！　しまった！{pause 20}	{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): ほう}方　{ruby (charSpan 1): む}向いちゃった！
+"007"	{emote: Laughter}ざんねん！{pause 20}	それじゃあ　もう1{ruby (charSpan 1): かい}回いくぞ？{pause 20}{emote: Soft Smile}
+"008"	{emote: Sunny}ヨッシャー！{pause 20}	またまた　ハズレ！{Wait for input}	{emote: Anger}それじゃ　{ruby (charSpan 2): さいご}最後の1{ruby (charSpan 1): かい}回{pause 20}　いくぞー！
+"009"	{emote: Glare}{ruby (charSpan 2): さいご}最後の1{ruby (charSpan 1): かい}回も	ハズレ！
+"010"	ってことは、{pause 40}	{emote: Delight}オマエの　{ruby (charSpan 1): か}勝ちだー！
+"011"	ってことは、{pause 40}	{emote: Sadness}ちぇーーっ！{pause 20}	くやしいけど　オマエの{ruby (charSpan 1): か}勝ちだな！
+"012"	ってことは、{pause 40}	{emote: Showmanship}ヨッシャー！{pause 20}	オイラの　{ruby (charSpan 2): しょうり}勝利、{pause 8}{catchphrase}！
+"013"	ってことは、{pause 40}	{emote: Showmanship}{Villager's name (orange)}{pause 20}　{ruby (charSpan 3): ウィン}WIN！{pause 40}	オイラの{ruby (charSpan 1): か}勝ちだ！

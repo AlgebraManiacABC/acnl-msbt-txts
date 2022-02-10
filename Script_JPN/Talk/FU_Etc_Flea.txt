@@ -1,8 +1,8 @@
 == 0 ==
-"001"	{0007-000b-0000}
-"002"	{0007-000b-0000}
-"003"	{0007-000b-0000}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Distress}
-"006"	{emote: Shyness}
-"007"	{emote: Distress}
+"001"	{0007-000b-0000}{emote: Shocked}{Text size 150%}キャッ！{Wait for input}{Text size 100%}{emote: Distress}え！！　{pause 20}ノミがいたんですか！{Wait for input}	{emote: Shyness}そんな{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sadness}ちょっとショックです
+"002"	{0007-000b-0000}{emote: Shocked}{Text size 150%}えぇっ！！{Wait for input}{Text size 100%}	わたしに　{pause 10}ノミがついていたんですか！{Wait for input}{emote: Worry}{ruby (charSpan 2): ふだん}普段から　{pause 10}{ruby (charSpan 2): せいけつ}清潔にしている	つもりだったのに！
+"003"	{0007-000b-0000}{emote: Shocked}{Text size 150%}えぇ！{Wait for input}{Text size 100%}	{emote: Sadness}ずっと　かゆかったんですけど{pause 10}	まさか　いるとは！！	{emote: Distress}{ruby (charSpan 1): と}取ってくださって{pause 10}	ありがとうございました！
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Distress}あのっ{pause 8}・{pause 8}・{pause 8}・{pause 8}、{pause 10}このことは{pause 8}	{ruby (charSpan 1): だれ}誰にも　{ruby (charSpan 1): い}言わないでくださいね！{Wait for input}	{emote: Shyness}はずかしいですから{pause 8}・{pause 8}・{pause 8}・、{pause 15}{catchphrase}
+"006"	{emote: Shyness}ノミのこと{pause 8}・{pause 8}・{pause 8}・{pause 10}	{ruby (charSpan 2): ふたり}二人だけの{pause 8}　ヒミツにしてくださいねっ！
+"007"	{emote: Distress}い、{pause 8}いつも{pause 10}	ちゃんと　おフロ{pause 10}　{ruby (charSpan 1): はい}入ってますから！{Wait for input}{emote: Shyness}{ruby (charSpan 2): きょう}今日は　{pause 8}たまたまです！{pause 15}	{pause 8}・{pause 8}・{pause 8}・{pause 8}たまたまですよ{Wait for input}	{emote: Worry}みんなには　{pause 10}ナイショにしてください！

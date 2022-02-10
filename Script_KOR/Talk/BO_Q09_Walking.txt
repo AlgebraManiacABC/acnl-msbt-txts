@@ -1,29 +1,29 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Bashful}
-"003"	{emote: Curious}
-"004"	{emote: Happiness}
-"005"	{emote: Shocked}
-"006"	{emote: Happiness}
-"007"	{emote: Glee}
-"008"	우리 집에서 지켜줬음 하는	규칙 하나만 얘기할게에～{0000-0004-0000}
-"009"	넌 이제	우리 집 단골손님이다아, {pause 8}!
-"010"	{emote: Curious}
-"011"	우리 집은 자주 와도{pause 20}
-"012"	{emote: Curious}
-"013"	{emote: Distress}
-"014"	{emote: Curious}
-"015"	{emote: Happiness}
-"016"	{emote: Reset}
-"017"	{emote: Curious}
-"018"	{emote: Joy}
-"019"	그래～?{pause 20}
-"020"	{emote: Disagreement}
-"021"	{emote: Distress}
-"022"	{emote: Worry}
-"023"	{emote: Sleepy}
-"024"	{emote: Happiness}
-"025"	{emote: Sunny}
-"026"	{emote: Glee}
-"027"	{emote: Distress}
-"028"	{emote: Distress}
+"001"	{emote: Happiness}잘～ 따라가고 있으니까	걱정 마, {pause 8}{catchphrase}
+"002"	{emote: Bashful}아마 너가 우리 집을 보면{pause 20}	부러워서 따라 하고 싶어질지도 몰라아～!
+"003"	{emote: Curious}혹시	길을 잘 모르겠어?{Wait for input}{emote: Reset}아마 내 설명을 듣는 것보다{pause 20}	지도 보는 게 더 나을 거야아～
+"004"	{emote: Happiness}에헤헤～{pause 20}	얼른 도착했음 좋겠다아～
+"005"	{emote: Shocked}{0007-000b-0000}아～!{pause 40}	{emote: Distress}집에서 먹을 과자라도	사 놓을걸{pause 8}・{pause 8}・{pause 8}・
+"006"	{emote: Happiness}{Player nickname (green)}{000e-000e-0008-0002-c774-0002-ac00}	우리 집에 오는 건	처음이네에～{Wait for input}{emote: Shyness}왠지 엄청 설렌다아, 	{pause 8}{catchphrase}
+"007"	{emote: Glee}우리 집에 10번 오면	{0005-000e-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}	공짜～!{Wait for input}{emote: Mistaken}앗, 미안!{pause 40}	포인트 카드가	다 떨어졌네에, {pause 8}{catchphrase}
+"008"	우리 집에서 지켜줬음 하는	규칙 하나만 얘기할게에～{Wait for input}우리 집에 있는 음식은{pause 20}	{emote: Greetings}절대 맘대로 집어 먹으면 안 돼!{Wait for input}이거 하나만 지켜줘어, {pause 8}{catchphrase}
+"009"	넌 이제	우리 집 단골손님이다아, {pause 8}{catchphrase}
+"010"	{emote: Curious}우리 집에서 지켜야 하는 규칙은	이미 알고 있겠지이～?{Wait for input}{emote: Greetings}절대 맘대로 집어 먹으면 안 돼!{Wait for input}	이거 하나만 지켜줘어, {pause 8}{catchphrase}
+"011"	우리 집은 자주 와도{pause 20}	재미있을 거야아!{Wait for input}{emote: Happiness}난 {pause 20}매일 있어도	안 질리더라～ {pause 8}{catchphrase}!
+"012"	{emote: Curious}어라?{pause 20}	여긴 너네 집이잖아?{Wait for input}	{emote: Happiness}오늘은 우리 집으로 가야지이～!
+"013"	{emote: Distress}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c},{pause 20}	그쪽은 바다야～{pause 40}	우리 집은 땅 위에 있다구～
+"014"	{emote: Curious}어라?{pause 20}	{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}, 어디 나갈 거야아?{Wait for input}{emote: Reset}그럼 {pause 20}우리 집에 가는 건	다음으로 미뤄야겠네에～{000f-0000-0004-0000-0000}	아냐, 갈 거야!	다음에 가자
+"015"	{emote: Happiness}알았어～{pause 40}	그럼 한눈팔지 말고	우리 집으로 가자아, {pause 8}{catchphrase}
+"016"	{emote: Reset}그래～?{pause 20}	그럼 {pause 20}다음에 보자아, {pause 8}{catchphrase}
+"017"	{emote: Curious}어라아～?{pause 20}	상점가로 갈 거야아?{Wait for input}{emote: Worry}그럼 오늘 우리 집엔	가지 말까아～?{000f-0000-0004-0000-0000}	아냐! 갈 거야!	다음으로 미루자
+"018"	{emote: Joy}와아～{pause 20} 신 난다아～{pause 40}	그럼 딴 길로 새지 말고	얼른 가자아, {pause 8}{catchphrase}
+"019"	그래～?{pause 20}	{emote: Disagreement}할 수 없지이	그럼 다음에 놀러 와아
+"020"	{emote: Disagreement}땡～!{pause 20}	틀렸어～{Wait for input}{emote: Happiness}여긴 우리 집이 아니라	{0011-0001-0002-0000}의 집이야아{Wait for input}{emote: Sunny}자, {pause 20}이번에야말로	우리 집으로 가자고～!
+"021"	{emote: Distress}잠깐만～{pause 20}	거긴 우리 집이 아냐아!
+"022"	{emote: Worry}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c},{pause 20}	내가 초대해 놓고	이런 말해서 미안한데에{Wait for input}사실은 다음 스케줄이 있어서	가봐야 돼{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}미안해!{pause 20}	오늘 일은 역시 없던 걸로 하자아～{Wait for input}	{emote: Sunny}다음에 다시 놀러 와아
+"023"	{emote: Sleepy}하아암～～{pause 40}	나 이제 졸린데에{pause 8}・{pause 8}・{pause 8}・{Wait for input}시간도 벌써 늦었으니까{pause 20}	우리 집에 가는 건	다음으로 미루자아～{Wait for input}{emote: Worry}미안, {pause 20}	{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}
+"024"	{emote: Happiness}에헤헤～{pause 20}	다 왔다～ 다 왔어～!{pause 40}	지금 바로 문 열게에, {pause 8}{catchphrase}
+"025"	{emote: Sunny}도착했다아～!{pause 20}	잠깐만 기다려봐아, {pause 8}{catchphrase}
+"026"	{emote: Glee}우리 집이다아!{pause 20}	얼른 들어가자～
+"027"	{emote: Distress}{0007-000b-0000}아앗～!{pause 20} 기다려어～!{pause 20}	{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}!
+"028"	{emote: Distress}{0007-000b-0000}아앗～!{pause 20} 기다려어!{pause 20}	왜 날 두고 	가는 거야아, {pause 8}{catchphrase}{pause 8}・{pause 8}・{pause 8}・ {Wait for input}{emote: Sigh}하아{pause 8}・{pause 8}・{pause 8}・{pause 20}	널 막 쫓아다녔더니	배고파아～{Wait for input}{emote: Worry}오늘은 그냥{pause 20}	집에 돌아가서	밥이나 먹어야겠어～{Wait for input}{emote: Happiness}미안해, {Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}!{pause 20}	그냥 다음에 놀자아, {pause 8}{catchphrase}

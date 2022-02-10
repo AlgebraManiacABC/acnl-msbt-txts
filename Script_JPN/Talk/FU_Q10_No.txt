@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{emote: Thought}
+"001"	{emote: Soft Smile}わかりました{pause 20}	また　おひまなときに　{pause 10}{ruby (charSpan 1): あそ}遊んでくださいね！
+"002"	{emote: Worry}そうですか～{pause 30}	{emote: Soft Smile}ちょっと　{ruby (charSpan 2): ざんねん}残念ですけど{pause 10}	また{ruby (charSpan 2): こんど}今度　{pause 10}{ruby (charSpan 1): あそ}遊びましょう、{pause 15}{catchphrase}！
+"003"	{emote: Thought}う～ん　{pause 20}{ruby (charSpan 2): とつぜん}突然だったんで、{pause 10}	{emote: Worry}しかたないですよね！{Wait for input}	{emote: Soft Smile}では　{pause 10}また　{ruby (charSpan 2): こんど}今度にしましょう！

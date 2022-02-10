@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Thought}
-"002"	{emote: Sunny}
-"003"	{emote: Glee}
-"004"	{emote: Alarmed}
-"005"	{emote: Greetings}
+"001"	{emote: Thought}{pause 16}えっと{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Agreement}{ruby (charSpan 2): ことし}今年の　{Villager's name (orange)}は、{pause 16}	ダンスを　がんばりたいですね	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あ、{pause 8}ごめんごめん！{pause 32}	{emote: Soft Smile}{ruby (charSpan 2): ことし}今年の{ruby (charSpan 2): もくひょう}目標について{pause 16}	スピーチする{ruby (charSpan 2): れんしゅう}練習してたんだ	{emote: Sheepishness}いつインタビューされても、{pause 16}	いいようにね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"002"	{emote: Sunny}ハッピーニューイヤー！{pause 16}	{ruby (charSpan 2): ことし}今年もよろしく、{pause 8}{catchphrase}！{Wait for input}{emote: Glee}{Year}{ruby (charSpan 1): ねん}年も　{Villager's name (orange)}は、{pause 16}	ガンガン　せめていくよ～！{Wait for input}	{emote: Glare}いいだろ？　{pause 8}{Player nickname (green)}{0005-000d-0000}？
+"003"	{emote: Glee}{ruby (charSpan 1): あ}明けまして　おめでとう！{pause 8}	{Player nickname (green)}{0005-000d-0000}！{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): ことし}今年は　もっと　キミと{pause 16}	{ruby (charSpan 1): す}過ごす{ruby (charSpan 2): じかん}時間を　{ruby (charSpan 1): ふ}増やそうかな？{pause 32}	{emote: Sunny}ハッハー！
+"004"	{emote: Alarmed}おや、{pause 8}{Player nickname (green)}{0005-000d-0000}！{pause 32}	{emote: Reset}{ruby (charSpan 2): しんねん}新年のあいさつが　まだだったね？	{pause 8}{catchphrase}？	{emote: Glee}ハッピーニューイヤー！{pause 8}	{Player nickname (green)}{0005-000d-0000}！{pause 32}	{ruby (charSpan 2): ことし}今年も　よろしく！	{emote: Sheepishness}{ruby (charSpan 2): ことし}今年は　キミと{ruby (charSpan 2): いっしょ}一緒に{pause 16}	のんびり　{ruby (charSpan 1): す}過ごしたいもんだね？{pause 32}	{emote: Sunny}ハッハー！
+"005"	{emote: Greetings}やぁ、{pause 8}{Player nickname (green)}{0005-000d-0000}！{pause 32}	{emote: Happiness}{ruby (charSpan 1): あ}明けまして　おめでとう！{pause 16}	{ruby (charSpan 2): ことし}今年も　よろしく{ruby (charSpan 1): たの}頼むよ！	{emote: Alarmed}え？　{pause 16}ボクの　{ruby (charSpan 2): ことし}今年のホウフかい？{Wait for input}	{emote: Thought}{pause 16}そうだな～　{pause 16}{ruby (charSpan 4): おおものじょゆう}大物女優とかと{pause 8}	{ruby (charSpan 2): ねつあい}熱愛してみたいね～　{pause 32}{emote: Sunny}ハッハー！

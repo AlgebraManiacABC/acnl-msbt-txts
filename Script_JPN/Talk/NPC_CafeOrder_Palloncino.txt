@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Happiness}
-"006"	{pause 8}
-"007"	{pause 8}
-"008"	{pause 8}
-"009"	{pause 8}
-"010"	
-"011"	
-"012"	
-"013"	{pause 8}
-"014"	{pause 8}
-"015"	{pause 8}
-"016"	{pause 8}
-"017"	
-"018"	
-"019"	
+"001"	{emote: Alarmed}{pause 10}おやおや、{pause 10}	アルバイトかい？{Wait for input}	{emote: Joy}エラいねぇ～{Wait for input}{emote: Happiness}じゃあ{pause 5}　おじちゃんに{pause 10}	コーヒーを{ruby (charSpan 2): いっぱい}一杯　{pause 5}{emote: Glare}いれてくれるかい？
+"002"	{emote: Alarmed}{pause 10}おやおや、{pause 10}	アルバイトかい？{Wait for input}	{emote: Joy}エラいねぇ～{Wait for input}{emote: Happiness}じゃあ{pause 5}　おじちゃんに{pause 10}	{Blue}キリマンジャロ{Color Reset}コーヒーを	{pause 5}{emote: Glare}いれてくれるかい？
+"003"	{emote: Alarmed}{pause 10}おやおや、{pause 10}	アルバイトかい？{Wait for input}	{emote: Joy}エラいねぇ～{Wait for input}{emote: Happiness}じゃあ{pause 5}　おじちゃんに{pause 10}	ミルク{Blue}たっぷり{Color Reset}のコーヒーを	{pause 5}{emote: Glare}いれてくれるかい？
+"004"	{emote: Alarmed}{pause 10}おやおや、{pause 10}	アルバイトかい？{Wait for input}	{emote: Joy}エラいねぇ～{Wait for input}{emote: Happiness}じゃあ{pause 5}　おじちゃんに{pause 10}	お{ruby (charSpan 2): さとう}砂糖{Blue}3{ruby (charSpan 1): こ}個{Color Reset}の　あま～いコーヒーを	{pause 5}{emote: Glare}いれてくれるかい？
+"005"	{emote: Happiness}どうも{pause 5}　ありがとう！
+"006"	{pause 8}{emote: Alarmed}おやおや！{pause 20}	これは{pause 5}{emote: Reset}　とってもおいしいねぇ！{Wait for input}{0007-000e-0000}{emote: Joy}{ruby (charSpan 1): まめ}豆も　ミルクも　お{ruby (charSpan 2): さとう}砂糖も	なにもかもが　おじちゃんの{ruby (charSpan 1): この}好みと	ピッタリ{pause 8}・{pause 8}・{pause 8}・{pause 10}キミは{ruby (charSpan 2): てんさい}天才だねぇ！{Wait for input}{emote: Happiness}それじゃ、{pause 10}おじちゃん　また{pause 5}	キミが　いれてくれたコーヒーを{pause 10}	{ruby (charSpan 1): の}飲みに{ruby (charSpan 1): く}来るからねぇ！
+"007"	{pause 8}{emote: Alarmed}おやおや！{pause 20}	キミは{emote: Reset}　コーヒーをいれるのが{pause 5}	とっても　{ruby (charSpan 2): じょうず}上手なんだねぇ！{Wait for input}{emote: Thought}おじちゃん　{ruby (charSpan 2): ほんとう}本当は	{Blue}キリマンジャロ{Color Reset}しか　{ruby (charSpan 1): の}飲まないのに、{pause 10}	これは{ruby (charSpan 1): の}飲めちゃうから　{ruby (charSpan 3): ふしぎ}不思議だなぁ{pause 8}・{pause 8}・{pause 8}・	{emote: Happiness}それじゃ、{pause 10}おじちゃん　また{pause 5}	キミが　いれてくれたコーヒーを{pause 10}	{ruby (charSpan 1): の}飲みに{ruby (charSpan 1): く}来るからねぇ！
+"008"	{pause 8}{emote: Alarmed}おやおや！{pause 20}	キミは{emote: Reset}　コーヒーをいれるのが{pause 5}	とっても　{ruby (charSpan 2): じょうず}上手なんだねぇ！{Wait for input}{emote: Thought}おじちゃん　{ruby (charSpan 2): ほんとう}本当は	{Blue}ミルク{Color Reset}たっぷりじゃないと　{ruby (charSpan 1): の}飲めないのに、{pause 10}	これは{ruby (charSpan 1): の}飲めちゃうから　{ruby (charSpan 3): ふしぎ}不思議だなぁ{pause 8}・{pause 8}・{pause 8}・	{emote: Happiness}それじゃ、{pause 10}おじちゃん　また{pause 5}	キミが　いれてくれたコーヒーを{pause 10}	{ruby (charSpan 1): の}飲みに{ruby (charSpan 1): く}来るからねぇ！
+"009"	{pause 8}{emote: Alarmed}おやおや！{pause 20}	キミは{emote: Reset}　コーヒーをいれるのが{pause 5}	とっても　{ruby (charSpan 2): じょうず}上手なんだねぇ！{Wait for input}{emote: Thought}おじちゃん　{ruby (charSpan 2): ほんとう}本当は	{Blue}お{ruby (charSpan 2): さとう}砂糖{Color Reset}たっぷりじゃないと　{ruby (charSpan 1): の}飲めないのに、{pause 10}	これは{ruby (charSpan 1): の}飲めちゃうから　{ruby (charSpan 3): ふしぎ}不思議だなぁ{pause 8}・{pause 8}・{pause 8}・	{emote: Happiness}それじゃ、{pause 10}おじちゃん　また{pause 5}	キミが　いれてくれたコーヒーを{pause 10}	{ruby (charSpan 1): の}飲みに{ruby (charSpan 1): く}来るからねぇ！
+"010"
+"011"
+"012"
+"013"	{pause 8}{emote: Alarmed}おやおや！{pause 20}	キミは{emote: Reset}　コーヒーをいれるのが{pause 5}	とっても　{ruby (charSpan 2): じょうず}上手なんだねぇ！{Wait for input}{emote: Thought}{Blue}{ruby (charSpan 1): まめ}豆{Color Reset}が　キリマンジャロってこと{ruby (charSpan 2): いがい}以外は{pause 10}	おじちゃんの{ruby (charSpan 1): この}好みと　{ruby (charSpan 1): ちが}違ってるのに、{pause 20}	{emote: Joy}これは{ruby (charSpan 1): の}飲めちゃうから　{ruby (charSpan 3): ふしぎ}不思議だなぁ{pause 8}・{pause 8}・{pause 8}・	{emote: Happiness}それじゃ、{pause 10}おじちゃん　また{pause 5}	キミが　いれてくれたコーヒーを{pause 10}	{ruby (charSpan 1): の}飲みに{ruby (charSpan 1): く}来るからねぇ！
+"014"	{pause 8}{emote: Alarmed}おやおや！{pause 20}	キミは{emote: Reset}　コーヒーをいれるのが{pause 5}	とっても　{ruby (charSpan 2): じょうず}上手なんだねぇ！{Wait for input}{emote: Thought}{Blue}ミルク{Color Reset}が　たっぷりってこと{ruby (charSpan 2): いがい}以外は{pause 10}	おじちゃんの{ruby (charSpan 1): この}好みと　{ruby (charSpan 1): ちが}違ってるのに、{pause 20}	{emote: Joy}これは{ruby (charSpan 1): の}飲めちゃうから　{ruby (charSpan 3): ふしぎ}不思議だなぁ{pause 8}・{pause 8}・{pause 8}・	{emote: Happiness}それじゃ、{pause 10}おじちゃん　また{pause 5}	キミが　いれてくれたコーヒーを{pause 10}	{ruby (charSpan 1): の}飲みに{ruby (charSpan 1): く}来るからねぇ！
+"015"	{pause 8}{emote: Alarmed}おやおや！{pause 20}	キミは{emote: Reset}　コーヒーをいれるのが{pause 5}	とっても　{ruby (charSpan 2): じょうず}上手なんだねぇ！{Wait for input}{emote: Thought}{Blue}お{ruby (charSpan 2): さとう}砂糖{Color Reset}が3{ruby (charSpan 1): こ}個ってこと{ruby (charSpan 2): いがい}以外は{pause 10}	おじちゃんの{ruby (charSpan 1): この}好みと　{ruby (charSpan 1): ちが}違ってるのに、{pause 20}	{emote: Joy}これは{ruby (charSpan 1): の}飲めちゃうから　{ruby (charSpan 3): ふしぎ}不思議だなぁ{pause 8}・{pause 8}・{pause 8}・	{emote: Happiness}それじゃ、{pause 10}おじちゃん　また{pause 5}	キミが　いれてくれたコーヒーを{pause 10}	{ruby (charSpan 1): の}飲みに{ruby (charSpan 1): く}来るからねぇ！
+"016"	{pause 8}{emote: Alarmed}おやおや！{pause 20}	キミは{emote: Reset}　コーヒーをいれるのが{pause 5}	とっても　{ruby (charSpan 2): じょうず}上手なんだねぇ！{Wait for input}{emote: Thought}おじちゃん　{ruby (charSpan 2): ほんとう}本当は、{pause 10}	ミルクとお{ruby (charSpan 2): さとう}砂糖が　たっぷり{ruby (charSpan 1): はい}入った	キリマンジャロしか　{ruby (charSpan 1): の}飲めないのに{pause 8}・{pause 8}・{pause 8}・	{emote: Joy}なにもかもが　{ruby (charSpan 1): ちが}違う	このコーヒーが　{ruby (charSpan 1): の}飲めちゃうんだから、{pause 10}	これはキミが{ruby (charSpan 1): お}起こした　ミラクルだよねぇ！{Wait for input}{emote: Happiness}それじゃ、{pause 10}おじちゃん　また{pause 5}	キミが　いれてくれたコーヒーを{pause 10}	{ruby (charSpan 1): の}飲みに{ruby (charSpan 1): く}来るからねぇ！
+"017"
+"018"
+"019"

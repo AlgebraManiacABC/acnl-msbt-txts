@@ -1,170 +1,170 @@
 == 0 ==
-"001"	As you may have guessed from the	name, {emote: Happiness}
-"002"	You have {Blue}{Number (0x7)} minutes {Color Reset}to fill this	flower bed with flowers.{0000-0004-0000}!
-"003"	You have {Blue}{Number (0x7)} minutes{Color Reset}	to fill this flower bed with	{0011-0003-0002-00-00}
-"004"	You kids have {Blue}{Number (0x7)} minutes {Color Reset}to fill	this flower bed with flowers!{0000-0004-0000}
-"005"	You kids have {Blue}{Number (0x7)} minutes{Color Reset}{pause 5}
-"006"	You kids have {Blue}{Number (0x7)} minutes {Color Reset}to fill	this flower bed with flowers.{0000-0004-0000}
-"007"	You kids have {Blue}{Number (0x7)} minutes{Color Reset}{pause 5}
-"008"	But don't just plant flowers all	willy-nilly! {pause 20}
+"001"	As you may have guessed from the	name, {emote: Happiness}{pause 20}this tour is all about	gardening.	Here are the rules:
+"002"	You have {Blue}{Number (0x7)} minutes {Color Reset}to fill this	flower bed with flowers.{Wait for input}The type and color don't matter.{pause 10}	Just plant as many flowers as	possible! Really, go nuts!	If you finish within the time limit,{pause 10}	you'll be rewarded with medals.
+"003"	You have {Blue}{Number (0x7)} minutes{Color Reset}	to fill this flower bed with	{0011-0003-0002-0000}!	If you finish within the time limit,{pause 10}	you'll be rewarded with medals.
+"004"	You kids have {Blue}{Number (0x7)} minutes {Color Reset}to fill	this flower bed with flowers!{Wait for input}The type and color don't matter.{pause 10}	Just plant as many as possible!{Wait for input}If you finish within the time limit,{pause 10}	you'll be rewarded with medals.
+"005"	You kids have {Blue}{Number (0x7)} minutes{Color Reset}{pause 5}	to fill this flower bed with	{0011-0003-0002-0000}!	If you finish within the time limit,{pause 10}	you'll be rewarded with medals.
+"006"	You kids have {Blue}{Number (0x7)} minutes {Color Reset}to fill	this flower bed with flowers.{Wait for input}The type and color don't matter.{pause 10}	Just make sure it's carpeted with	flowers!	If you finish within the time limit,{pause 10}	you'll be rewarded with medals.
+"007"	You kids have {Blue}{Number (0x7)} minutes{Color Reset}{pause 5} to	fill this flower bed with	{0011-0003-0002-0000}!	If you finish within the time limit,{pause 10}	you'll be rewarded with medals.
+"008"	But don't just plant flowers all	willy-nilly! {pause 20}You'll be penalized if	you plant the wrong kind!	{emote: Mischief}Also, once you plant a flower, you	can't pull it back up.
 "009"	And just so you know, once you	plant a flower, you can't pull it	back up.
-"011"	{emote: Happiness}
-"012"	You'll lose points for planting the	wrong type of flower, so pay	attention!	{emote: Mischief}
+"011"	{emote: Happiness}By the by, {pause 10}you can take the leftover	flowers home with you, sprout.
+"012"	You'll lose points for planting the	wrong type of flower, so pay	attention!	{emote: Mischief}And once you plant a flower, you	can't dig it back up. 
 "013"	The type and color of the flowers	don't matter, so just fill that	flower bed as fast as you can!
-"014"	What are you doing, sprout!	Fill that flower bed with	{0011-0003-0002-00-00}
-"015"	The clock's ticking, whippersnapper!{pause 20}
-"016"	The clock's ticking, whippersnapper!	Hurry up, and fill that flower bed	with {0011-0003-0002-00-00}
-"018"	Good work, young {000e-0006-0012-06-00-6d-00-61-00-6e-00-08-00-6c-00-61-00-64-00-79-00}!{pause 30}
-"019"	Good work,{pause 5}
-"020"	Good work{pause 5}
-"021"	{0000-0002-0002-ffffff96-00}	Game over!{0000-0002-0002-64-00}{0007-0009-0004-3c-00-00-00}
-"022"	
-"023"	Looks like the time's up!{pause 60}
-"024"	You filled the flower bed with	{Blue}{Number (0x7)} {촁<0e>minutes<0c>minute<0e>minutes} and {Blue}{Number (0x7)} {촂<0e>seconds<0c>second<0e>seconds}	{Blue}{Color Reset}to spare!
-"025"	But you planted {Blue}{Number (0x7)} {Color Reset}of the wrong	type of flower, {pause 20}
-"026"	{emote: Happiness}
-"027"	Tough luck!{pause 20}
-"028"	By the skin of your teeth!	Here you go—{Blue}{Number (0x7)}
-"029"	I've seen faster, but you did well.	{emote: Happiness}
-"030"	{emote: Happiness}
-"031"	{emote: Star Yell}
-"032"	
-"033"	
-"034"	
-"035"	
+"014"	What are you doing, sprout!	Fill that flower bed with	{0011-0003-0002-0000}!
+"015"	The clock's ticking, whippersnapper!{pause 20}	Get to planting!
+"016"	The clock's ticking, whippersnapper!	Hurry up, and fill that flower bed	with {0011-0003-0002-0000}!
+"018"	Good work, young {man/lady}!{pause 30}	Let's see how you fared.{Wait <005a 0000> 'time'}
+"019"	Good work,{pause 5} you two.{pause 30}	Let's see how you fared.{Wait <005a 0000> 'time'}
+"020"	Good work{pause 5}, sprouts.{pause 30}	Let's see how you fared.{Wait <005a 0000> 'time'}
+"021"	{Text size 150%}	Game over!{Text size 100%}{Wait <003c 0000> 'time'}
+"022"
+"023"	Looks like the time's up!{pause 60}	Seems some gardening skills	are in need of brushing up!
+"024"	You filled the flower bed with	{Blue}{Number (0x7)} {minutes/minute/minutes} and {Blue}{Number (0x7)} {seconds/second/seconds}	{Blue}{Color Reset}to spare!
+"025"	But you planted {Blue}{Number (0x7)} {Color Reset}of the wrong	type of flower, {pause 20}so that's gonna hurt	your time.	After your misplant penalties,	your remaining time was	{Blue}{Number (0x7)} {minutes/minute/minutes} and {Blue}{Number (0x7)} {seconds/second/seconds}{Blue}{Color Reset}.
+"026"	{emote: Happiness}You didn't misplant any flowers,	so you get away without a penalty.
+"027"	Tough luck!{pause 20} The misplant penalty	puts you over the time limit.{Wait for input}That means you'll be leaving	empty handed today.	Better luck next time!
+"028"	By the skin of your teeth!	Here you go—{Blue}{Number (0x7)} {Blue}{medals/medal/medals}{Blue}{Color Reset}!
+"029"	I've seen faster, but you did well.	{emote: Happiness}You've earned a Bronze Tortimer	award and {Blue}{Number (0x7)}{Color Reset}{Blue} {Blue}{medals/medal/medals}{Blue}{Color Reset}!
+"030"	{emote: Happiness}Pretty fast! You should consider a	career in gardening!{Wait for input}You've earned a Silver Tortimer	award and {Blue}{Number (0x7)}{Color Reset}{pause 10}{Blue} {Blue}{medals/medal/medals}{Blue}{Color Reset}!
+"031"	{emote: Star Yell}Whoa there, {pause 20}Speedy McGreenthumb!{pause 20}	You've earned a Gold Tortimer	award and {Blue}{Number (0x7)}{Color Reset}{pause 10}{Blue} {Blue}{medals/medal/medals}{Blue}{Color Reset}!
+"032"
+"033"
+"034"
+"035"
 == 1 ==
-"001"	El nombre ya lo dice todo, {emote: Happiness}
-"002"	Tienes que plantar en este parterre	tantas flores como te sea posible	en {Blue}{Number (0x7)} minutos{Color Reset}.	Ni el tipo ni el color importan,{pause 10}
-"003"	Tienes que plantar en este parterre	alg{000e-0012-0012-10-00-04-00-fffffffa-00-6e-00-06-00-75-00-6e-00-61-00-00-00}
-"004"	Tenéis que plantar en este parterre	tantas flores como os sea posible	en {Blue}{Number (0x7)} minutos{Color Reset}.	Ni el tipo ni el color importan,{pause 10}
-"005"	Tenéis que plantar en este parterre	alg{000e-0012-0012-10-00-04-00-fffffffa-00-6e-00-06-00-75-00-6e-00-61-00-00-00}
-"006"	Tenéis que plantar en este parterre	tantas flores como os sea posible	en {Blue}{Number (0x7)} minutos{Color Reset}.	Ni el tipo ni el color importan,{pause 10}
-"007"	Tenéis que plantar en este parterre	alg{000e-0012-0012-10-00-04-00-fffffffa-00-6e-00-06-00-75-00-6e-00-61-00-00-00}
-"008"	Plantar flores al tuntún no sirve	de nada. {pause 20}
+"001"	El nombre ya lo dice todo, {emote: Happiness}{pause 20}pero por	si acaso diré que en este tour	hay que hacer de jardinero.	Las normas son las siguientes:
+"002"	Tienes que plantar en este parterre	tantas flores como te sea posible	en {Blue}{Number (0x7)} minutos{Color Reset}.	Ni el tipo ni el color importan,{pause 10}	¡lo que cuenta es la cantidad!{Wait for input}Si llenas el parterre antes de	que se acabe el tiempo,{pause 10} ¡te daré	más medallas!
+"003"	Tienes que plantar en este parterre	alg{000e-0012-0012-0010-0004-00fa-006e-0006-0075-006e-0061-0000} {Blue}{0011-0003-0002-0000}{Color Reset}	que otr{000e-0012-000c-0010-0002-006f-0002-0061-0000} en {Blue}{Number (0x7)} minutos{Color Reset}.	Bueno, en realidad no basta solo	con alg{000e-0012-0014-0010-0006-0075-006e-006f-0006-0075-006e-0061-0000}{pause 5}. ¡Debes intentar llenarlo	a rebosar de esas flores!	Si lo logras antes de que se acabe	el tiempo, {pause 10}¡te daré más medallas!
+"004"	Tenéis que plantar en este parterre	tantas flores como os sea posible	en {Blue}{Number (0x7)} minutos{Color Reset}.	Ni el tipo ni el color importan,{pause 10}	¡lo que cuenta es la cantidad!{Wait for input}Si llenáis el parterre antes de	que se acabe el tiempo,{pause 10} ¡os daré	más medallas!
+"005"	Tenéis que plantar en este parterre	alg{000e-0012-0012-0010-0004-00fa-006e-0006-0075-006e-0061-0000} {Blue}{0011-0003-0002-0000}{Color Reset}	que otr{000e-0012-000c-0010-0002-006f-0002-0061-0000} en {Blue}{Number (0x7)} minutos{Color Reset}.	Bueno, en realidad no basta solo	con alg{000e-0012-0014-0010-0006-0075-006e-006f-0006-0075-006e-0061-0000}{pause 5}. ¡Debéis intentar llenarlo	a rebosar de esas flores!	Si lo lográis antes de que se acabe	el tiempo, {pause 10}¡os daré más medallas!
+"006"	Tenéis que plantar en este parterre	tantas flores como os sea posible	en {Blue}{Number (0x7)} minutos{Color Reset}.	Ni el tipo ni el color importan,{pause 10}	¡lo que cuenta es la cantidad!{Wait for input}Si llenáis el parterre antes de	que se acabe el tiempo,{pause 10} ¡os daré	más medallas!
+"007"	Tenéis que plantar en este parterre	alg{000e-0012-0012-0010-0004-00fa-006e-0006-0075-006e-0061-0000} {Blue}{0011-0003-0002-0000}{Color Reset}	que otr{000e-0012-000c-0010-0002-006f-0002-0061-0000} en {Blue}{Number (0x7)} minutos{Color Reset}.	Bueno, en realidad no basta solo	con alg{000e-0012-0014-0010-0006-0075-006e-006f-0006-0075-006e-0061-0000}{pause 5}. ¡Debéis intentar llenarlo	a rebosar de esas flores!	Si lo lográis antes de que se acabe	el tiempo, {pause 10}¡os daré más medallas!
+"008"	Plantar flores al tuntún no sirve	de nada. {pause 20}Es más, ¡plantar un tipo	de flor distinto restará tiempo!	{emote: Mischief}Para evitar artimañas, una vez	plantada, no es posible desenterrar	una flor.
 "009"	Para evitar artimañas, una vez	plantada, no es posible desenterrar	una flor.
-"011"	{emote: Happiness}
-"012"	¡Te restaré puntos si plantas	la flor equivocada, jovenzuel{000e-0006-0008-02-00-6f-00-02-00-61-00}!{0000-0004-0000}
+"011"	{emote: Happiness}Por cierto, granujilla, {pause 10}puedes	llevarte a casa las flores	que sobren.
+"012"	¡Te restaré puntos si plantas	la flor equivocada, jovenzuel{o/a}!{Wait for input}{emote: Mischief}Como hay mucho caradura por ahí,	una vez que hayas plantado una flor,	no podrás desenterrarla.
 "013"	¡El tipo y el color dan igual!	Lo importante es llenar el	parterre de flores cuanto antes.
-"014"	¿Pero qué haces, niñ{000e-0006-0008-02-00-6f-00-02-00-61-00}? ¡Corre y	planta {Article(word-dependant)}
-"015"	¡El tiempo vuela, pequeñaj{000e-0006-0008-02-00-6f-00-02-00-61-00}!{pause 20}
-"016"	¡El tiempo es oro, niñ{000e-0006-0008-02-00-6f-00-02-00-61-00}! ¡Corre y	planta {Article(word-dependant)}
-"018"	¡Buen trabajo, {000e-0006-002a-14-00-68-00-6f-00-6d-00-62-00-72-00-65-00-63-00-69-00-74-00-6f-00-12-00-6d-00-75-00-6a-00-65-00-72-00-63-00-69-00-74-00-61-00}!{pause 30}
-"019"	Buen trabajo,{pause 5}
-"020"	Buen trabajo, {pause 5}!
-"021"	{0000-0002-0002-ffffff96-00}	¡Se acabó!{0000-0002-0002-64-00}{0007-0009-0004-3c-00-00-00}
-"022"	
-"023"	¡Se acabó el tiempo!{pause 60}
-"024"	¡El parterre está lleno y han	sobrado {Blue}{Number (0x7)} {촁<0e>minutos<0c>minuto<0e>minutos} y {Blue}{Number (0x7)} {촂<10>segundos<0e>segundo<10>segundos}{Blue}{Color Reset}!
-"025"	Me temo que se {촆<06>han<04>ha<06>han} plantado {Blue}{Number (0x7)} {Color Reset}	{촆<0c>flores<08>flor<0c>flores} {촆<16>equivocadas<14>equivocada<16>equivocadas}, {pause 20}
-"026"	{emote: Happiness}
-"027"	¡Mala suerte!{pause 20}
-"028"	¡Por los pelos, pero aquí tienes	{Blue}{Number (0x7)}
-"029"	He visto jardineros más rápidos,	pero esta actuación ha sido digna	{emote: Happiness}
-"030"	{emote: Happiness}
-"031"	{emote: Star Yell}
-"032"	
-"033"	
-"034"	
-"035"	
+"014"	¿Pero qué haces, niñ{o/a}? ¡Corre y	planta {Article(word-dependant)}{0011-0003-0002-0000}	en ese parterre!	Bueno,{pause 10} con un{000e-0012-000c-0010-0002-006f-0002-0061-0000} sol{000e-0012-000c-0010-0002-006f-0002-0061-0000} no me basta.{pause 10}.{pause 10}.{pause 10}	¡Intenta que rebose de esas flores!
+"015"	¡El tiempo vuela, pequeñaj{o/a}!{pause 20}	¡A plantar se ha dicho!
+"016"	¡El tiempo es oro, niñ{o/a}! ¡Corre y	planta {Article(word-dependant)}{0011-0003-0002-0000}	en ese parterre!	Bueno,{pause 10} con un{000e-0012-000c-0010-0002-006f-0002-0061-0000} sol{000e-0012-000c-0010-0002-006f-0002-0061-0000} no me basta.{pause 10}.{pause 10}.{pause 10}	¡Intenta que rebose de esas flores!
+"018"	¡Buen trabajo, {hombrecito/mujercita}!{pause 30}	Veamos cómo ha ido la cosa.{Wait <005a 0000> 'time'}
+"019"	Buen trabajo,{pause 5} pareja.{pause 30}	Veamos cómo ha ido la cosa.{Wait <005a 0000> 'time'}
+"020"	Buen trabajo, {pause 5}granujillas.{pause 30}	Veamos cómo ha ido la cosa.{Wait <005a 0000> 'time'}
+"021"	{Text size 150%}	¡Se acabó!{Text size 100%}{Wait <003c 0000> 'time'}
+"022"
+"023"	¡Se acabó el tiempo!{pause 60}	Me temo que no habrá medallas	por esta vez.
+"024"	¡El parterre está lleno y han	sobrado {Blue}{Number (0x7)} {minutos/minuto/minutos} y {Blue}{Number (0x7)} {segundos/segundo/segundos}{Blue}{Color Reset}!
+"025"	Me temo que se {han/ha/han} plantado {Blue}{Number (0x7)} {Color Reset}	{flores/flor/flores} {equivocadas/equivocada/equivocadas}, {pause 20}así que tendré	que restar algo del tiempo de sobra.	Tras deducir las penalizaciones,	han sobrado {Blue}{Number (0x7)} {minutos/minuto/minutos}	y {Blue}{Number (0x7)} {segundos/segundo/segundos}{Blue}{Color Reset}.
+"026"	{emote: Happiness}El parterre se ha llenado con las	flores correctas, así que no habrá	penalizaciones.
+"027"	¡Mala suerte!{pause 20} Las penalizaciones por	plantar flores equivocadas provocan	que se rebase el tiempo límite.	En otras palabras, hoy no hay	entrega de medallas, lo siento.	¡Hasta la próxima!
+"028"	¡Por los pelos, pero aquí tienes	{Blue}{Number (0x7)} {medallas/medalla/medallas}{Color Reset}!
+"029"	He visto jardineros más rápidos,	pero esta actuación ha sido digna	{emote: Happiness}de un Tórtimer de bronce.{Wait for input}{emote: Reset}Y, por supuesto, ¡de {Blue}{Number (0x7)} {medallas/medalla/medallas}{Color Reset}!
+"030"	{emote: Happiness}¡Buena lección de jardinería!	Es digna de un Tórtimer de plata...{Wait for input}{emote: Reset}¡Y de {Blue}{Number (0x7)} {medallas/medalla/medallas}{Color Reset}, claro!
+"031"	{emote: Star Yell}¡Todo un espectáculo{pause 20} que pasará	a los anales de la jardinería!{pause 20}{Wait for input}{emote: Happiness}Por descontado,{pause 20} ¡es digno de un	Tórtimer de oro y de {Blue}{Number (0x7)} {medallas/medalla/medallas}{Color Reset}!
+"032"
+"033"
+"034"
+"035"
 == 2 ==
-"001"	Comme son nom l'indique, cette	excursion est consacrée au	jardinage.{pause 20}
-"002"	Tu as {Blue}{Number (0x7)} {Blue}{촅<0c>minute<0c>minute<0e>minutes} {Blue}{Color Reset}pour remplir ce	parterre avec des tonnes de fleurs.{0000-0004-0000}
-"003"	Tu as {Blue}{Number (0x7)} {Blue}{촅<0c>minute<0c>minute<0e>minutes}{Blue}{Color Reset}{pause 5}
-"004"	Vous avez {Blue}{Number (0x7)} {Blue}{촅<0c>minute<0c>minute<0e>minutes} {Blue}{Color Reset}pour remplir	ce parterre avec des tonnes de	fleurs.	Peu importe le type et la couleur	des fleurs, {pause 10}
-"005"	Vous avez {Blue}{Number (0x7)} {Blue}{촅<0c>minute<0c>minute<0e>minutes}{Blue}{Color Reset}{pause 5}
-"006"	Vous avez {Blue}{Number (0x7)} {Blue}{촅<0c>minute<0c>minute<0e>minutes} {Blue}{Color Reset}pour remplir	ce parterre avec des tonnes de	fleurs.	Peu importe le type et la couleur	des fleurs, {pause 10}
-"007"	Vous avez {Blue}{Number (0x7)} {Blue}{촅<0c>minute<0c>minute<0e>minutes}{Blue}{Color Reset}{pause 5}
-"008"	Mais avis aux petits malins :{pause 15}
-"009"	{emote: Mischief}
-"011"	{emote: Happiness}
-"012"	{emote: Glee}
+"001"	Comme son nom l'indique, cette	excursion est consacrée au	jardinage.{pause 20} {emote: Happiness}En voici les règles...
+"002"	Tu as {Blue}{Number (0x7)} {Blue}{minute/minute/minutes} {Blue}{Color Reset}pour remplir ce	parterre avec des tonnes de fleurs.{Wait for input}Peu importe le type et la couleur	des fleurs, {pause 10}il faut juste en planter le	plus possible !	Si tu termines dans les temps,{pause 10} tu	gagnes des médailles.
+"003"	Tu as {Blue}{Number (0x7)} {Blue}{minute/minute/minutes}{Blue}{Color Reset}{pause 5} pour remplir ce	parterre avec des fleurs de type	{0011-0003-0002-0000} !	Si tu termines dans les temps,{pause 10} tu	gagnes des médailles.
+"004"	Vous avez {Blue}{Number (0x7)} {Blue}{minute/minute/minutes} {Blue}{Color Reset}pour remplir	ce parterre avec des tonnes de	fleurs.	Peu importe le type et la couleur	des fleurs, {pause 10}il faut juste en planter le	plus possible !	Si vous terminez dans les temps,{pause 10}	vous gagnez des médailles.
+"005"	Vous avez {Blue}{Number (0x7)} {Blue}{minute/minute/minutes}{Blue}{Color Reset}{pause 5} pour remplir	ce parterre avec des fleurs de type	{0011-0003-0002-0000} !	Si vous terminez dans les temps,{pause 10}	vous gagnez des médailles.
+"006"	Vous avez {Blue}{Number (0x7)} {Blue}{minute/minute/minutes} {Blue}{Color Reset}pour remplir	ce parterre avec des tonnes de	fleurs.	Peu importe le type et la couleur	des fleurs, {pause 10}il faut juste en planter le	plus possible !	Si vous terminez dans les temps,{pause 10}	vous gagnez des médailles.
+"007"	Vous avez {Blue}{Number (0x7)} {Blue}{minute/minute/minutes}{Blue}{Color Reset}{pause 5} pour remplir	ce parterre avec des fleurs de type	{0011-0003-0002-0000} !	Si vous terminez dans les temps,{pause 10}	vous gagnez des médailles.
+"008"	Mais avis aux petits malins :{pause 15} je	retire du temps pour toute fleur	du mauvais type qui est plantée !	{emote: Mischief}Je précise qu'une fleur ne peut plus	être arrachée une fois mise en terre,	hé hé houerf !
+"009"	{emote: Mischief}Et je précise qu'une fleur ne peut	plus être arrachée une fois plantée,	hé hé houerf !
+"011"	{emote: Happiness}Au passage, {pause 10}les participants sont	autorisés à garder toutes les fleurs	cueillies qui leur restent. {pause 15}Cadeau !
+"012"	{emote: Glee}Fleur de la mauvaise espèce,	Et c'est le temps qui baisse...{Wait for input}{emote: Mischief}Fleur déjà plantée	Tu ne pourras arracher...
 "013"	Allez, on remplit le parterre ! Peu	importe le type et la couleur des	fleurs !
-"014"	On s'endort ? Il reste de la place sur	ce parterre pour des fleurs de type	{0011-0003-0002-00-00}
+"014"	On s'endort ? Il reste de la place sur	ce parterre pour des fleurs de type	{0011-0003-0002-0000} !
 "015"	Tic-tac, tic-tac, on plante du tac au	tac !
-"016"	Le temps va, le temps court, le	temps vole... Vite, plus de fleurs de	type {0011-0003-0002-00-00}
-"018"	Bien joué, {000e-0006-001a-0a-00-70-00-65-00-74-00-69-00-74-00-0c-00-70-00-65-00-74-00-69-00-74-00-65-00} !{pause 30}!
-"019"	Bien joué, vous deux !{pause 30}!
-"020"	Bien joué, tout le monde !{pause 30}
-"021"	{0000-0002-0002-ffffff96-00}	Terminé !{0000-0002-0002-64-00}{0007-0009-0004-3c-00-00-00}!
-"022"	
-"023"	C'était trop lent, trop mou !{pause 60}
-"024"	Le temps restant à la fin de	l'épreuve est de :	{Blue}{Number (0x7)} {Blue}{촁<0c>minute<0c>minute<0e>minutes} {Blue}{Blue}{Number (0x7)} {Blue}{촂<0e>seconde<0e>seconde<10>secondes} {Blue}{Blue}{Color Reset}!
-"025"	Mais attention ! Des fleurs du	mauvais type ont été plantées...	{Number (0x7)}, très précisément !	Du coup, j'applique une pénalité et	le temps restant n'est plus que de :	{Blue}{Number (0x7)} {Blue}{촃<0c>minute<0c>minute<0e>minutes} {Blue}{Blue}{Number (0x7)} {Blue}{촄<0e>seconde<0e>seconde<10>secondes} {Blue}{Blue}{Color Reset}!
-"026"	{emote: Happiness}
-"027"	Ouille !{pause 20}
-"028"	Nom d'une tortue édentée ! 	Ça nous fait... {Blue}{Number (0x7)}
-"029"	Bon, c'était pas rapide, mais c'est	fait. {pause 15}!
-"030"	{emote: Happiness}
-"031"	{emote: Star Yell}
-"032"	
-"033"	
-"034"	
-"035"	
+"016"	Le temps va, le temps court, le	temps vole... Vite, plus de fleurs de	type {0011-0003-0002-0000} !
+"018"	Bien joué, {petit/petite} !{pause 30} Voyons voir le	beau résultat que tu nous as fait...{Wait <005a 0000> 'time'}
+"019"	Bien joué, vous deux !{pause 30} Voyons voir	le beau résultat que vous nous avez	fait...{Wait <005a 0000> 'time'}
+"020"	Bien joué, tout le monde !{pause 30} Voyons	voir le beau résultat que vous nous	avez fait...{Wait <005a 0000> 'time'}
+"021"	{Text size 150%}	Terminé !{Text size 100%}{Wait <003c 0000> 'time'}
+"022"
+"023"	C'était trop lent, trop mou !{pause 60} Il va	falloir retravailler ça, hé hé houerf !
+"024"	Le temps restant à la fin de	l'épreuve est de :	{Blue}{Number (0x7)} {Blue}{minute/minute/minutes} {Blue}{Blue}{Number (0x7)} {Blue}{seconde/seconde/secondes} {Blue}{Blue}{Color Reset}!
+"025"	Mais attention ! Des fleurs du	mauvais type ont été plantées...	{Number (0x7)}, très précisément !	Du coup, j'applique une pénalité et	le temps restant n'est plus que de :	{Blue}{Number (0x7)} {Blue}{minute/minute/minutes} {Blue}{Blue}{Number (0x7)} {Blue}{seconde/seconde/secondes} {Blue}{Blue}{Color Reset}!
+"026"	{emote: Happiness}Bravo, aucune fleur du mauvais type	n'a été plantée, donc je n'applique	aucune pénalité !
+"027"	Ouille !{pause 20} La pénalité pour mauvais	plantage aggravé entraîne un	dépassement du temps limite !	Autrement dit : merci d'avoir	participé et à bientôt. Avec plus de	chance, j'espère !
+"028"	Nom d'une tortue édentée ! 	Ça nous fait... {Blue}{Number (0x7)} {Blue}{médaille/médaille/médailles} {Blue}{Color Reset}!
+"029"	Bon, c'était pas rapide, mais c'est	fait. {pause 15}{emote: Happiness}Ça mérite tout de même un	Tortimer de bronze !	{emote: Reset}Auquel j'ajoute{pause 8} {Blue}{Number (0x7)}{Color Reset}{Blue} {Blue}{médaille/médaille/médailles} {Blue}{Color Reset}!
+"030"	{emote: Happiness}C'était du jardinage express, là !{pause 15} Ce	Tortimer d'argent est amplement	mérité !	{emote: Reset}Et j'ajoute même{pause 8} {Blue}{Number (0x7)}{Color Reset}{Blue} {Blue}{médaille/médaille/médailles} {Blue}{Color Reset}!
+"031"	{emote: Star Yell}Eh beh, on vient d'inventer le	jardinage éclair ! {pause 20}Ça vaut largement	un Tortimer d'or !	{emote: Happiness}Et pourquoi s'arrêter là ? Voici	également{pause 8} {Blue}{Number (0x7)}{Color Reset}{Blue} {Blue}{médaille/médaille/médailles} {Blue}{Color Reset}!
+"032"
+"033"
+"034"
+"035"
 == 3 ==
-"001"	Il nome dice già tutto...{emote: Happiness}
-"002"	Hai {Blue}{Number (0x7)} {촅<0c>minuti<0c>minuto<0c>minuti} {Color Reset}per riempire	questa aiuola di fiori.{0000-0004-0000}
-"003"	Hai {Blue}{Number (0x7)} {촅<0c>minuti<0c>minuto<0c>minuti}{Color Reset}{pause 5}!
-"004"	Avete {Blue}{Blue}{Number (0x7)} {촅<0c>minuti<0c>minuto<0c>minuti}{Blue} {Color Reset}per riempire	questa aiuola di fiori!{0000-0004-0000}
-"005"	Avete {Blue}{Blue}{Number (0x7)} {촅<0c>minuti<0c>minuto<0c>minuti}{Blue} {Color Reset}per riempire	questa aiuola con qualche	{0011-0003-0002-00-00}
-"006"	Avete {Blue}{Blue}{Number (0x7)} {촅<0c>minuti<0c>minuto<0c>minuti}{Blue} {Color Reset}per riempire	questa aiuola di fiori!{0000-0004-0000}
-"007"	Avete {Blue}{Blue}{Number (0x7)} {촅<0c>minuti<0c>minuto<0c>minuti}{Blue} {Color Reset}per riempire	questa aiuola con qualche	{0011-0003-0002-00-00}
-"008"	Mi raccomando, {pause 20}
+"001"	Il nome dice già tutto...{emote: Happiness}{pause 20} Questo tour	è dedicato al giardinaggio!	E ora ecco le regole...
+"002"	Hai {Blue}{Number (0x7)} {minuti/minuto/minuti} {Color Reset}per riempire	questa aiuola di fiori.{Wait for input}Non importa di quale tipo e di quale	colore...{pause 10} Semplicemente, pianta	più fiori che puoi!{Wait for input}Se finisci entro il tempo limite,{pause 10}	vincerai delle medaglie!
+"003"	Hai {Blue}{Number (0x7)} {minuti/minuto/minuti}{Color Reset}{pause 5} per riempire	questa aiuola con qualche	{0011-0003-0002-0000}!	Anzi, piantane più che puoi!	E se finirai entro il tempo limite,{pause 10}	vincerai delle medaglie!
+"004"	Avete {Blue}{Blue}{Number (0x7)} {minuti/minuto/minuti}{Blue} {Color Reset}per riempire	questa aiuola di fiori!{Wait for input}Non importa di quale tipo e di quale	colore...{pause 10} Semplicemente, piantate	più fiori che potete!{Wait for input}Se finite entro il tempo limite,{pause 10}	vincerete delle medaglie!
+"005"	Avete {Blue}{Blue}{Number (0x7)} {minuti/minuto/minuti}{Blue} {Color Reset}per riempire	questa aiuola con qualche	{0011-0003-0002-0000}!{Wait for input}Anzi, piantatene più che potete!	E se finirete entro il tempo limite,{pause 10}	vincerete delle medaglie!
+"006"	Avete {Blue}{Blue}{Number (0x7)} {minuti/minuto/minuti}{Blue} {Color Reset}per riempire	questa aiuola di fiori!{Wait for input}Non importa di quale tipo e di quale	colore...{pause 10} Semplicemente, piantate	più fiori che potete!{Wait for input}Se finite entro il tempo limite,{pause 10}	vincerete delle medaglie!
+"007"	Avete {Blue}{Blue}{Number (0x7)} {minuti/minuto/minuti}{Blue} {Color Reset}per riempire	questa aiuola con qualche	{0011-0003-0002-0000}!{Wait for input}Anzi, piantatene più che potete!	E se finirete entro il tempo limite,{pause 10}	vincerete delle medaglie!
+"008"	Mi raccomando, {pause 20}i fiori non vanno	piantati a caso!{Wait for input}Piantando il tipo sbagliato, verranno	sottratti dei secondi preziosi!{Wait for input}{emote: Mischief}Inoltre, un fiore già piantato	non può essere rimosso.
 "009"	E, per la cronaca, un fiore già	piantato non può più essere	rimosso.
-"011"	{emote: Happiness}
-"012"	Attenzione! Se pianti il tipo di fiore	sbagliato subirai una penalità di	tempo e perderai preziosi secondi!{0000-0004-0000}
+"011"	{emote: Happiness}Ah, dimenticavo! {pause 10}Puoi tenerti	i fiori che non userai in gara,	giovinastr{o/a}.
+"012"	Attenzione! Se pianti il tipo di fiore	sbagliato subirai una penalità di	tempo e perderai preziosi secondi!{Wait for input}{emote: Mischief}E i fiori già piantati non possono	essere rimossi.
 "013"	Il tipo e il colore dei fiori non sono	importanti. Bisogna piantare,	piantare, piantare!
-"014"	Cosa stai facendo, giovinastr{000e-0006-0008-02-00-6f-00-02-00-61-00}?!	Ti avevo detto di piantare qualche	{0011-0003-0002-00-00}
-"015"	Il tempo passa, giovincell{000e-0006-0008-02-00-6f-00-02-00-61-00}!{pause 20}
-"016"	Il tempo passa, giovincell{000e-0006-0008-02-00-6f-00-02-00-61-00}!	Ti avevo detto di piantare qualche	{0011-0003-0002-00-00}
-"018"	Ben fatto, {000e-0006-0030-16-00-67-00-69-00-6f-00-76-00-69-00-6e-00-61-00-73-00-74-00-72-00-6f-00-16-00-67-00-69-00-6f-00-76-00-69-00-6e-00-61-00-73-00-74-00-72-00-61-00}!{pause 30}
-"019"	Ehi, voi due!{pause 5}
-"020"	Un gran bel lavoro{pause 5}
-"021"	{0000-0002-0002-ffffff96-00}	Finito!{0000-0002-0002-64-00}{0007-0009-0004-3c-00-00-00}
-"022"	
-"023"	Il tempo è scaduto!{pause 60}
-"024"	Quando l'aiuola era finalmente	riempita, mancavano ancora	{Blue}{Number (0x7)} {촁<0c>minuti<0c>minuto<0c>minuti} e {Number (0x7)} {촂<0e>secondi<0e>secondo<0e>secondi}{Color Reset}!
-"025"	Però {Blue}{Number (0x7)} {Color Reset}{촆<14>fiori sono<0e>fiore è<14>fiori sono}	del tipo sbagliato, {pause 20}
-"026"	{emote: Happiness}
-"027"	Accipicchia, che peccato!{pause 20}
-"028"	Per un pelo!	Ecco {Blue}{Number (0x7)}
-"029"	Ho visto giardinieri più rapidi,	ma non è andata poi così male.	Ecco {emote: Happiness}
-"030"	{emote: Happiness}
-"031"	{emote: Star Yell}
-"032"	
-"033"	
-"034"	
-"035"	
+"014"	Cosa stai facendo, giovinastr{o/a}?!	Ti avevo detto di piantare qualche	{0011-0003-0002-0000}!	Anzi, piantane più che puoi!
+"015"	Il tempo passa, giovincell{o/a}!{pause 20}	Pianta a più non posso!
+"016"	Il tempo passa, giovincell{o/a}!	Ti avevo detto di piantare qualche	{0011-0003-0002-0000}!	Anzi, piantane più che puoi!
+"018"	Ben fatto, {giovinastro/giovinastra}!{pause 30}	Vediamo com'è andata la tua prova.{Wait <005a 0000> 'time'}
+"019"	Ehi, voi due!{pause 5} Ben fatto.{pause 30}	Vediamo com'è andata	la vostra prova.{Wait <005a 0000> 'time'}
+"020"	Un gran bel lavoro{pause 5}, gente.{pause 30}	Vediamo com'è andata	la vostra prova.{Wait <005a 0000> 'time'}
+"021"	{Text size 150%}	Finito!{Text size 100%}{Wait <003c 0000> 'time'}
+"022"
+"023"	Il tempo è scaduto!{pause 60}	Visto cosa succede quando	non si ha il pollice verde...?
+"024"	Quando l'aiuola era finalmente	riempita, mancavano ancora	{Blue}{Number (0x7)} {minuti/minuto/minuti} e {Number (0x7)} {secondi/secondo/secondi}{Color Reset}!
+"025"	Però {Blue}{Number (0x7)} {Color Reset}{fiori sono/fiore è/fiori sono}	del tipo sbagliato, {pause 20}quindi	scatta una penalità.	Contando questa penalità,	il tempo rimanente diventa	{Blue}{Number (0x7)} {minuti/minuto/minuti} e {Blue}{Number (0x7)} {secondi/secondo/secondi}{Blue}{Color Reset}!
+"026"	{emote: Happiness}Non sono stati piantati fiori	di tipo sbagliato, quindi	non ci saranno penalità.
+"027"	Accipicchia, che peccato!{pause 20}	Con la penalità è stato sforato	il tempo massimo.	Quindi niente premi né medaglie.	Coraggio, sarà per la prossima	volta!
+"028"	Per un pelo!	Ecco {Blue}{Number (0x7)} {medaglie/medaglia/medaglie}{Color Reset}!
+"029"	Ho visto giardinieri più rapidi,	ma non è andata poi così male.	Ecco {emote: Happiness}un Tortimer di bronzo...{Wait for input}{emote: Reset}... e {Blue}{Number (0x7)}{Color Reset}{pause 10}{Blue} {medaglie/medaglia/medaglie}{Color Reset}! Complimenti!
+"030"	{emote: Happiness}Che rapidità! Una prova che fa	onore all'arte del giardinaggio.	Ecco un Tortimer d'argento...	{emote: Reset}... e {Blue}{Number (0x7)}{Color Reset}{pause 10}{Blue} {medaglie/medaglia/medaglie}{Color Reset}! Complimenti!
+"031"	{emote: Star Yell}Che prova spettacolare!{pause 20} Del resto,	col pollice verde uno ci nasce!{pause 20}	{emote: Happiness}Ecco un Tortimer d'oro...	... e {Blue}{Number (0x7)}{Color Reset}{pause 10}{Blue} {medaglie/medaglia/medaglie}{Color Reset}! Complimenti!
+"032"
+"033"
+"034"
+"035"
 == 4 ==
-"001"	Ganz recht, {emote: Happiness}
-"002"	Du hast {Blue}{Number (0x7)} {촅<0e>Minuten<0c>Minute<0e>Minuten}{Color Reset} Zeit, um dieses	Beet hier randvoll mit hübschen	Blumen zu bepflanzen{pause 8}
-"003"	Du hast {Blue}{Number (0x7)} {촅<0e>Minuten<0c>Minute<0e>Minuten}{Color Reset}, um dieses Beet	vollzupflanzen, und zwar mit Blumen	vom Typ {0011-0003-0002-00-00}
-"004"	Ihr Jungspunde habt {Blue}{Number (0x7)} {촅<0e>Minuten<0c>Minute<0e>Minuten}{Color Reset},	um dieses Blumenbeet da mit 	irgendwelchen Blumen zu füllen.	{emote: Alarmed}
-"005"	Ihr habt {Blue}{Number (0x7)} {촅<0e>Minuten<0c>Minute<0e>Minuten}{Color Reset}, um dieses Beet	vollzupflanzen, {pause 8}
-"006"	Ihr Grünschnäbel habt {Blue}{Number (0x7)} {촅<0e>Minuten<0c>Minute<0e>Minuten}{Color Reset}	Zeit, um dieses Beet da mit Blumen	vollzupflanzen.	{emote: Anger}
-"007"	Ihr habt {Blue}{Number (0x7)} {촅<0e>Minuten<0c>Minute<0e>Minuten}{Color Reset}, um dieses Beet	vollzupflanzen, und zwar mit Blumen	vom Typ {0011-0003-0002-00-00}
-"008"	Ich will hier aber kein Durcheinander	sehen.{pause 20}!
-"009"	Aber Vorsicht!{pause 20}!
-"011"	{emote: Happiness}
-"012"	Für falsche Blumen werden	Strafsekunden aufgeschlagen.{pause 20}
-"013"	Farbe und Sorte sind mir egal.{pause 20}!
-"014"	Was denn noch?{pause 20}!
+"001"	Ganz recht, {emote: Happiness}hier wird gegärtnert!{Wait for input}Und zwar nicht irgendwie drauflos,	sondern nach echten, altehrwürdigen	Regeln:
+"002"	Du hast {Blue}{Number (0x7)} {Minuten/Minute/Minuten}{Color Reset} Zeit, um dieses	Beet hier randvoll mit hübschen	Blumen zu bepflanzen{pause 8}, he he huff.	Farbe, Sorte und so ein Unfug	interessieren mich nicht.{pause 20} Nur voll	muss das Beet sein!	Wenn du das hinkriegst, bekommst	du hübsche, glänzende Medaillen	von mir.
+"003"	Du hast {Blue}{Number (0x7)} {Minuten/Minute/Minuten}{Color Reset}, um dieses Beet	vollzupflanzen, und zwar mit Blumen	vom Typ {0011-0003-0002-0000}!	Wenn du das schaffst,{pause 10} bekommst du	Medaillen von mir, he he huff.
+"004"	Ihr Jungspunde habt {Blue}{Number (0x7)} {Minuten/Minute/Minuten}{Color Reset},	um dieses Blumenbeet da mit 	irgendwelchen Blumen zu füllen.	{emote: Alarmed}Welche Farbe?{pause 20} Welche Sorte?!?{pause 40}	{emote: Outrage}Habe ich nicht eben „irgendwelche“	gesagt?{pause 20} Hört ihr mir überhaupt zu?	{emote: Reset}Na, jedenfalls bekommt ihr	Medaillen von mir, wenn ihr das	schafft.{pause 20} Oder falls, {pause 8}he he huff!
+"005"	Ihr habt {Blue}{Number (0x7)} {Minuten/Minute/Minuten}{Color Reset}, um dieses Beet	vollzupflanzen, {pause 8}und zwar mit Blumen	vom Typ {0011-0003-0002-0000}!	Wenn ihr das schafft, bekommt ihr	Medaillen.{pause 20} Sonst nicht!
+"006"	Ihr Grünschnäbel habt {Blue}{Number (0x7)} {Minuten/Minute/Minuten}{Color Reset}	Zeit, um dieses Beet da mit Blumen	vollzupflanzen.	{emote: Anger}Farbe und Sorte interessieren mich	nicht.{pause 20} Ich will nur einen schönen	Blumenteppich sehen, sonst nichts!{Wait for input}Wenn ihr das schafft –{pause 8} und nur,	wenn ihr das schafft –{pause 8} bekommt ihr	hübsche Medaillen von mir.
+"007"	Ihr habt {Blue}{Number (0x7)} {Minuten/Minute/Minuten}{Color Reset}, um dieses Beet	vollzupflanzen, und zwar mit Blumen	vom Typ {0011-0003-0002-0000}!	Wenn ihr das rechtzeitig schafft,	bekommt ihr Medaillen von mir.
+"008"	Ich will hier aber kein Durcheinander	sehen.{pause 20} Wer falsche Blumen pflanzt,	wird das bei der Wertung merken!	Wie?{pause 20} Man kann sie ja einfach wieder	ausreißen?{pause 40}{emote: Mischief} He he huff!{pause 20} Nichts da!{pause 40}	Das wäre ja zu einfach!
+"009"	Aber Vorsicht!{pause 20} Was einmal gepflanzt	ist, bleibt auch da.{pause 20} Nichts da mit	Rausreißen!
+"011"	{emote: Happiness}Übrigens...{pause 20} Wenn Blumen übrig sind,	kann man sie von mir aus mit nach	Hause nehmen.
+"012"	Für falsche Blumen werden	Strafsekunden aufgeschlagen.{pause 20}	Da kenne ich kein Pardon!	{emote: Mischief}Und Rausrupfen gibt's nicht,	he he huff!
+"013"	Farbe und Sorte sind mir egal.{pause 20} Also	nicht lange rumtüfteln, sondern das	Beet einfach vollpflanzen!
+"014"	Was denn noch?{pause 20} Frisch ans Werk!{pause 40}	{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}	pflanzen, noch {einen/eine/eins}, noch {einen/eine/eins}...
 "015"	Hopp, hopp, den grünen Daumen	gezückt und ab die Post!
-"016"	Was denn noch?{pause 20}!
-"018"	Gut gemacht, Grünschnabel!{pause 30}
-"019"	Gut gemacht, ihr Grünschnäbel!{pause 30}!
-"020"	Gut gemacht, Sprösslinge!{pause 30}
-"021"	{0000-0002-0002-ffffff96-00}Aus! {pause 20}
-"022"	
-"023"	Die Zeit ist um!{pause 60}
-"024"	Es {촁<0a>waren<06>war<0a>waren} sogar noch {Blue}{Number (0x7)} {촁<0e>Minuten<0c>Minute<0e>Minuten}	und {Number (0x7)} {촂<10>Sekunden<0e>Sekunde<10>Sekunden}{Color Reset} übrig,{pause 8}
-"025"	Aber {Blue}{Number (0x7)} falsche {촆<0c>Blumen<0a>Blume<0c>Blumen}{Color Reset}...{pause 20}
-"026"	{emote: Happiness}
-"027"	Mit Strafsekunden liegt die	Zeit leider über der Begrenzung.{0000-0004-0000}!
-"028"	Bei meinem Rückenpanzer!{pause 20}
-"029"	Ich habe das schon schneller	gesehen.{0000-0004-0000}!
-"030"	{emote: Happiness}
-"031"	{emote: Star Yell}
-"032"	
-"033"	
-"034"	
-"035"	
+"016"	Was denn noch?{pause 20} Pflanz das Beet	randvoll mit Blumen vom Typ	{0011-0003-0002-0000}.{pause 20} Klar?
+"018"	Gut gemacht, Grünschnabel!{pause 30}	Dann wollen wir mal sehen,	was deine Gärtnerkünste taugen...{Wait <005a 0000> 'time'}
+"019"	Gut gemacht, ihr Grünschnäbel!{pause 30}	Dann wollen wir mal sehen,	was eure Gärtnerkünste taugen...{Wait <005a 0000> 'time'}
+"020"	Gut gemacht, Sprösslinge!{pause 30}	Dann wollen wir mal sehen,	was eure Gärtnerkünste taugen...{Wait <005a 0000> 'time'}
+"021"	{Text size 150%}Aus! {pause 20}Vorbei!{Text size 100%}{Wait <003c 0000> 'time'}
+"022"
+"023"	Die Zeit ist um!{pause 60}	Für Trödelei gibt's keine Medaillen!
+"024"	Es {waren/war/waren} sogar noch {Blue}{Number (0x7)} {Minuten/Minute/Minuten}	und {Number (0x7)} {Sekunden/Sekunde/Sekunden}{Color Reset} übrig,{pause 8}	he he huff!
+"025"	Aber {Blue}{Number (0x7)} falsche {Blumen/Blume/Blumen}{Color Reset}...{pause 20}	Dafür gibt's Strafsekunden,	he he huff!	Die muss ich dir abziehen.{pause 20} Und	schon hast du nur noch {Blue}{Number (0x7)} {Minuten/Minute/Minuten}	und {Number (0x7)} {Sekunden/Sekunde/Sekunden}{Color Reset} übrig!
+"026"	{emote: Happiness}Oho, kein einziger Fehler!{pause 20}	Schade, dann kann ich ja gar keine	Strafsekunden vergeben.
+"027"	Mit Strafsekunden liegt die	Zeit leider über der Begrenzung.{Wait for input}Darum gibt's auch keine Belohnung.{pause 20}	Aber wie man so schön sagt:{pause 40}	Neues Spiel, neues Glück!
+"028"	Bei meinem Rückenpanzer!{pause 20}	Bitte sehr,{Blue}{pause 8} {Number (0x7)} {Medaillen/Medaille/Medaillen}{Color Reset}!
+"029"	Ich habe das schon schneller	gesehen.{Wait for input}{emote: Happiness}Aber einen Bronze-Törtel war das	allemal wert!{pause 20}{emote: Reset} Und obendrauf gibt's	noch {Blue}{Number (0x7)}{pause 10} {Medaillen/Medaille/Medaillen}{Color Reset}!
+"030"	{emote: Happiness}Gar nicht übel!{pause 20} Das war ja schon	fast Profiklasse.{Wait for input}Dafür gebe ich doch gerne einen	Silber-Törtel her.{pause 20}{emote: Reset} Aber damit nicht	genug, {pause 8}hier sind noch{Blue}{pause 20} {Number (0x7)} {Medaillen/Medaille/Medaillen}{Color Reset}!
+"031"	{emote: Star Yell}Hoho!{pause 20} Das nenne ich	Schnellgärtnern!{Wait for input}{emote: Happiness}Da ist der Gold-Törtel ja	wohlverdient.{pause 20} Und weil's so schön	war, gibt's noch {Blue}{Number (0x7)}{pause 10} {Medaillen/Medaille/Medaillen} {Color Reset}dazu!
+"032"
+"033"
+"034"
+"035"

@@ -1,34 +1,34 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Thought}
-"005"	{Player nickname (green)}
-"006"	너네 집 말야아～{pause 20}
-"007"	{emote: Happiness}
-"008"	{0009-0001-0006-1c-00-1d-00-1e-00}
-"009"	{0009-0001-0006-1f-00-20-00-21-00}
-"010"	{emote: Happiness}
-"011"	{emote: Daydreaming}
-"012"	{0011-0000-0002-00-00}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	중고품점은{pause 20}
-"017"	{emote: Happiness}
-"018"	{emote: Curious}
-"019"	{emote: Daydreaming}
-"020"	{emote: Curious}
-"021"	{emote: Love}
-"022"	촌장인 너랑{pause 8}!
-"023"	{emote: Happiness}
-"024"	{emote: Agreement}
-"025"	{emote: Alarmed}
-"026"	{emote: Sunny}
-"027"	{emote: Worry}
-"028"	{emote: Happiness}
-"029"	{emote: Curious}
-"030"	{emote: Happiness}
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	{emote: Happiness}
+"001"	{emote: Worry}우웅～{pause 20}	이 주변엔 아무것도 없네에～{Wait for input}{emote: Glee}이런 데에{pause 20}	촌장이 뭐라도	세워줬으면 좋겠다아, {pause 8}{catchphrase}
+"002"	{emote: Happiness}이 부근에 집이 세워지는 모양이야아!{pause 20}	새로운 애가 이사라도 오는 걸까아～?{Wait for input}{emote: Shyness}무지 기대는 되는데{pause 20}	살짝 긴장도 된다아～	{pause 8}{catchphrase}
+"003"	{emote: Happiness}지금 우리 집을 노크해도{pause 20}	안에는 아무도 없어～{Wait for input}{emote: Pride}왜냐면 난 지금{pause 20}	여기에 있잖아～ {pause 8}{catchphrase}
+"004"	{emote: Thought}{0011-0001-0002-0000}네 집이{pause 20}	우리 집보다 살짝	큰 거 같은데에～{Wait for input}{emote: Distress}역시 남의 떡이{pause 20}	더 커 보여～ {pause 8}{catchphrase}
+"005"	{Player nickname (green)}네 집은{pause 20}	아직 텐트구나아～{Wait for input}캠핑하는 것 같아서 즐겁긴 하겠지만{pause 20}	{emote: Sunny}그래도 얼른 훌륭한 집이	생겼으면 좋겠다아, {pause 8}{catchphrase}
+"006"	너네 집 말야아～{pause 20}	{emote: Curious}지금 상태로는	좀 좁다는 생각 안 들어～?{Player can respond (0005):0018-0015-0019-0028}	맞아	아니
+"007"	{emote: Happiness}너네 집{pause 20}	살짝 넓어진 것 같네에～	잘 됐다아, {pause 8}{catchphrase}{Wait for input}{emote: Glare}그치만 {Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c},{pause 20}	지금보다 더 넓은 집에서	살고 싶진 않아～?{Player can respond (0005):001a-0015-001b-0028}	살고 싶어!	지금에 만족해
+"008"	{0009-0001-0006-001c-001d-001e}
+"009"	{0009-0001-0006-001f-0020-0021}
+"010"	{emote: Happiness}텐트 생활도	의외로 나쁘지 않을지도 몰라아～{pause 40}	꼭 캠핑하는 느낌이라 재밌어 보이거든～!{Wait for input}{0011-0000-0002-0000}도{pause 20}	아직 텐트에서	사는 것 같고 말야아～{Wait for input}{emote: Worry}근데 밤에{pause 20}	곤충이 들어오지 않을까	걱정이다아, {pause 8}{catchphrase}
+"011"	{emote: Daydreaming}{0011-0000-0002-0000}네 집은{pause 20}	분명히 앞으로	계속 커질 거야아～{Wait for input}{emote: Happiness}정말 기대되는 거 있지～	{pause 8}{catchphrase}
+"012"	{0011-0000-0002-0000}네 집이{pause 20}	어쩐지 썰렁ー하네에～{pause 40}	{emote: Curious}자고 있나아?
+"013"	{emote: Happiness}{0011-0000-0002-0000}네 집은{pause 20}	그 사이에	또 커졌네에～{Wait for input}{emote: Distress}이대로 계속 집이 넓어지면{pause 20}	온 마을이 다 {0011-0000-0002-0000}네 집이	되겠어～ {pause 8}{catchphrase}
+"014"	{emote: Happiness}{0011-0000-0002-0000}네 집은{pause 20}	으리으리하고 멋지다아～{Wait for input}{emote: Love}나도 언젠가 {pause 8}저런 집에서	살아보고 싶어～ {pause 8}{catchphrase}
+"015"	{emote: Happiness}바닷가에 오면 기분이 좋아～{pause 40}	{emote: Sleepy}너무 좋아서{pause 20} 꾸벅꾸벅	잠까지 오는 거 있지이～ {pause 8}{catchphrase}
+"016"	중고품점은{pause 20}	{emote: Curious}사들인 물건을	어디에 넣어 두는 걸까아?{Wait for input}{emote: Glare}어쩌면{pause 20} 지하에 	큰 창고가 있을지도 모르겠다아!{Wait for input}{emote: Love}꼭 비밀 기지 같아서	멋진걸, {pause 8}{catchphrase}
+"017"	{emote: Happiness}중고품점에 있는 두 사람 말야아～{pause 20}	완전 러브러브더라아～{Wait for input}{emote: Shyness}나도 언젠가는{pause 20}	그런 짝꿍이	생겼으면 좋겠어～ {pause 8}{catchphrase}
+"018"	{emote: Curious}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c},{pause 20}	역 앞에서 누구랑 만나기로 했어～?{Wait for input}{emote: Happiness}친구가 놀러 오면{pause 20}	나한테도 소개시켜줘어～ {pause 8}{catchphrase}
+"019"	{emote: Daydreaming}분명히 바다 건너편에는{pause 20}	내가 아직 모르는 음식이{pause 8}	무지 많을 거야아～{Wait for input}{emote: Happiness}언젠간 그걸 먹으러	여행을 떠나고 싶어～ {pause 8}{catchphrase}
+"020"	{emote: Curious}근데{pause 20}	경찰서 주변에서 뭐 하고 있어～?{Wait for input}{emote: Surprise}{0007-000a-0000}앗!{pause 20} 혹시 잃어버린 물건이라도 	찾으러 온 거야아～?{Wait for input}{emote: Thought}아까 {pause 20}과자 부스러기가	떨어져 있던데에{pause 8}・{pause 8}・{pause 8}・{pause 20}{Wait for input}{emote: Laughter}너가 찾는 건	그런 거 아니지이? {pause 8}{catchphrase}!{pause 40}{emote: Happiness}
+"021"	{emote: Love}으음～～{pause 20}	좋은 냄새～ {pause 8}{catchphrase}{Wait for input}{emote: Happiness}카페 주변에서는	커피 향기가 나서{pause 20}	근처를 걸어만 다녀도 기분이 좋아～
+"022"	촌장인 너랑{pause 8}	마을사무소 주변에서 만났다는 건{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Curious}혹시 일하는 중이었어～?{Wait for input}{emote: Delight}우와아～!{pause 20}	우리를 위해 항상 힘써줘서	고마워어, {pause 8}{catchphrase}
+"023"	{emote: Happiness}난 {pause 20}마을사무소에 있는 {Orange}여울 {Color Reset}누나랑	수다 떠는 게 좋아～{Wait for input}{emote: Laughter}살짝 허둥지둥하는 모습이{pause 8}	보고 있으면 참 재밌거든～ {pause 8}{catchphrase}{pause 40}{emote: Happiness}
+"024"	{emote: Agreement}역시 그렇지이～?{pause 20}	{emote: Happiness}넌 항상	눈이 높잖아～!{Wait for input}{emote: Pride}눈이 높은 {Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c},{pause 40}	내가 응원해줄게～ {pause 8}{catchphrase}
+"025"	{emote: Alarmed}{0007-000a-0000}에엥～!{pause 20}	이렇게 작은데	괜찮아～?{Wait for input}{emote: Distress}머지않아 집보다 니 키가	더 커질지도 모른다구우～{Wait for input}{emote: Agreement}지금이 폭풍 성장기잖아～ 	{pause 8}{catchphrase}
+"026"	{emote: Sunny}역시 {Player nickname (green)}{000e-000e-0006-0002-c774-0000}야아～!{pause 20}	넌 정말 나중에	크게 될 거라구우, {pause 8}{catchphrase}
+"027"	{emote: Worry}뭐어～? {pause 20}진짜로～?{pause 40}	{emote: Happiness}흠, {pause 20}좁은 곳에 있으면	마음이 놓이는 기분은 나도 잘 알지이～{Wait for input}{emote: Glee}침대랑 벽 사이에 있는 틈이{pause 20}	내가 제일 좋아하는 공간이거든～
+"028"	{emote: Happiness}너네 집	정말 근사하다아～{Wait for input}혹시 집에 있는 공간을	어떻게 써야 할지 모르겠으면{pause 20}	내 별장으로 쓰자아～{Wait for input}{emote: Love}우후훗{pause 8}・{pause 8}・{pause 8}・{pause 20}	이게 바로 어른들만 가질 수 있다는	은신처라는 건가아～?
+"029"	{emote: Curious}넓어진 집 안의 공간은{pause 20}	잘 사용하고 있어～?{Wait for input}{emote: Love}나라면 방 안에	{0005-0013-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 잔뜩 깔아서{pause 20}	{0005-0013-0002-0000} 방을 만들 거야아～{Wait for input}{emote: Happiness}에헤헤～{pause 20}	물론 빠짐없이 다～	먹을 거구～ {pause 8}{catchphrase}
+"030"	{emote: Happiness}집이 너무 넓어서{pause 20}	공간을 다 못 쓰겠으면{pause 20}	내 간식을 놓게 해줘어～{Wait for input}{emote: Distress}앗, {pause 20}그치만{pause 20}	맘대로 먹으면 안 된다아～?!
+"031"	{emote: Happiness}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}!{pause 20}	혹시 남는 방이 있다면{pause 20}	토용을 모아보는 게 어때～?{Wait for input}{emote: Glee}다양한 소리를 내기 때문에	듣는 재미가 있거든～ {pause 8}{catchphrase}
+"032"	{emote: Happiness}혹시 넓은 방을	그냥 놀리고 있다면{pause 20}	화석을 한번 놓아봐아～{Wait for input}{emote: Sunny}집 안에서 {pause 20}공룡을	완성시키는 거지이～!
+"033"	{emote: Happiness}너네 집 정말 으리으리하더라아～{pause 20}	마을을 돌아다니는데	다들 너네 집만 보고 있던걸～!{Wait for input}{emote: Thought}우～웅{pause 8}・{pause 8}・{pause 8}・{pause 20}	그치만 {pause 20}그렇게들 쳐다보는데	괜찮아～?{Wait for input}{emote: Distress}{0005-0002-0000}{000e-000e-0008-0002-c740-0002-b294}	사생활이 없어지면{pause 20}	폭식하게 된다던데에～!

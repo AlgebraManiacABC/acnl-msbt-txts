@@ -1,48 +1,48 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Glee}
-"003"	{emote: Soft Smile}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Glee}
-"007"	{emote: Greetings}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Soft Smile}
-"011"	{emote: Sleepy}
-"012"	{emote: Alarmed}
-"013"	
-"014"	{000a-0008-0010-02-00-02-00-01-00-01-00-01-00-01-00-01-00-01-00}
-"015"	{000a-0008-0010-04-00-04-00-05-00-05-00-05-00-05-00-05-00-05-00}
+"001"	{emote: Happiness}{capitalized}{Greeting begin}Hi, {pause 8}{Player nickname (green)}{Greeting end}!{pause 20}	It looks like we're both feeling {emote: Sunny}extra	cheerful this morning,{pause 8} {catchphrase}!{pause 8}{emote: Soft Smile}
+"002"	{emote: Glee}We're lucky the weather is so nice	today,{pause 8} {catchphrase}!
+"003"	{emote: Soft Smile}Hi, {pause 8}{Player nickname (green)}.{pause 20}	What are you up to today?{Wait for input}It's a great day to just walk around	{Town name (pink)} and take in the scenery,{pause 8}	{catchphrase}!
+"004"	{emote: Happiness}It's so nice outside today,{pause 8}	it kind of makes me feel like	sunbathing,{pause 8} {catchphrase}.
+"005"	{emote: Happiness}{capitalized}{Greeting begin}Hi again, {pause 8}{Player nickname (green)}{Greeting end}.{pause 20}	I hope you're enjoying this lovely	weather.
+"006"	{emote: Glee}It's great that we've had so many	chances to chat,{pause 8} {catchphrase}.
+"007"	{emote: Greetings}Hello again, {pause 8}{Player nickname (green)}.{Wait for input}	{emote: Happiness}The weather was great today, huh?{pause 20}	I got lots of fresh air,{pause 8} {catchphrase}!
+"008"	{emote: Alarmed}Wow!{pause 20} It's already {pause 8}{Hour}?{Wait for input}	{emote: Happiness}Time flies when you're having fun,{pause 8}	{catchphrase}.{pause 8} It's true.
+"009"	{emote: Happiness}{capitalized}{Greeting begin}Yaaay,{pause 8} it's {Player nickname (green)} again{Greeting end}!{pause 40}	{emote: Glee}The sun might have gone to sleep,{pause 8}	but that doesn't mean we have to!
+"010"	{emote: Soft Smile}I can't believe you're up so late!{Wait for input}	{emote: Happiness}Wow, {Player nickname (green)}!{pause 10} You're just full of	energy,{pause 8} {catchphrase}.
+"011"	{emote: Sleepy}Yawn{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Happiness}Oh, hey,{pause 8} {Player nickname (green)}.{pause 10}	Aren't you sleepy, {pause 15}{catchphrase}?
+"012"	{emote: Alarmed}Wow!{pause 20} I can't believe how late it is!{Wait for input}	{emote: Happiness}Today was just so much fun,{pause 8} I lost	track of time,{pause 8} {catchphrase}.
+"013"
+"014"	{000a-0008-0010-0002-0002-0001-0001-0001-0001-0001-0001}
+"015"	{000a-0008-0010-0004-0004-0005-0005-0005-0005-0005-0005}
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Glee}
-"003"	{emote: Soft Smile}
-"004"	El sol es muy beneficioso, ¿sabes?{pause 5}
-"005"	{emote: Happiness}
-"006"	{emote: Glee}
-"007"	{emote: Greetings}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Soft Smile}
-"011"	{emote: Sleepy}
-"012"	{emote: Alarmed}
-"013"	
-"014"	{000a-0008-0010-02-00-02-00-01-00-01-00-01-00-01-00-01-00-01-00}
-"015"	{000a-0008-0010-04-00-04-00-05-00-05-00-05-00-05-00-05-00-05-00}
+"001"	{emote: Happiness}¡{capitalized}{Greeting begin}Hola, {pause 20}{Player nickname (green)}{Greeting end}!{pause 20}	Veo que empiezas alegre el día,{pause 10} {emote: Sunny}	¡igualit{o/a} que yo,{pause 15} {catchphrase}!{pause 8}{emote: Soft Smile}
+"002"	{emote: Glee}Ayer empecé a leer un libro titulado	"{0005-001d-0002-0000}".	¡Te da unos consejos increíbles!	En cuanto encuentre una buena	sombra, seguiré con mi lectura,	{pause 15}{catchphrase}.
+"003"	{emote: Soft Smile}Hola, {pause 20}{Player nickname (green)}.	¿Hoy tienes planeado hacer	algo interesante?	Te aconsejo que pasees por	{capitalized}{Town name (pink)} y aproveches el día	al máximo,{pause 15} {catchphrase}.
+"004"	El sol es muy beneficioso, ¿sabes?{pause 5}	No solo sirve para estar	broncead{o/a},{pause 15} {catchphrase}.
+"005"	{emote: Happiness}{capitalized}{Greeting begin}Hola otra vez, {pause 20}{Player nickname (green)}{Greeting end}.	El destino es caprichoso y hace que	nos encontremos una y otra vez.
+"006"	{emote: Glee}Hablar contigo siempre es un placer,	{pause 15}{catchphrase}. ¡Casi mayor que	cocinar {Article(word-dependant)}{0005-0010-0002-0000}!
+"007"	{emote: Greetings}Holita, {emote: Happiness}¿qué tal el día?{Wait for input}	Yo me voy a casa a preparar	{0005-0010-0002-0000}.	Me encanta cocinar dulces de noche.	Creo que la luz de la luna les	potencia el sabor.
+"008"	{emote: Alarmed}¡Hala!{pause 20} ¡Qué tarde se ha hecho!{Wait for input}	{emote: Happiness}¡El tiempo vuela cuando	te lo pasas bien,{pause 15} {catchphrase}!
+"009"	{emote: Happiness}¡{capitalized}{Greeting begin}Tú otra vez,{pause 20} {Player nickname (green)}{Greeting end}!{pause 40}	{emote: Glee}El sol ya se ha ido a dormir,{pause 20} ¡pero	nosotr{o/a}s no tenemos por qué!
+"010"	{emote: Soft Smile}¡¿Sigues despiert{o/a} a estas horas?!{Wait for input}	{emote: Happiness}¡Vaya!{pause 10} Eso sí que es energía,	{pause 20}{catchphrase}.
+"011"	{emote: Sleepy}Uaaah{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Happiness}Ah, hola,{pause 20} {Player nickname (green)}.{pause 10}	¿No tienes sueño, {pause 15}{catchphrase}?
+"012"	{emote: Alarmed}¡Hala!{pause 20} ¡Pero qué tarde es!{Wait for input}	{emote: Happiness}Las horas pasan muy rápido{pause 10}	cuando te diviertes,{pause 8} {catchphrase}.
+"013"
+"014"	{000a-0008-0010-0002-0002-0001-0001-0001-0001-0001-0001}
+"015"	{000a-0008-0010-0004-0004-0005-0005-0005-0005-0005-0005}
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Glee}
-"003"	{emote: Soft Smile}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Glee}
-"007"	{emote: Greetings}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Soft Smile}
-"011"	{emote: Sleepy}
-"012"	{emote: Alarmed}
-"013"	
-"014"	{000a-0008-0010-02-00-02-00-01-00-01-00-01-00-01-00-01-00-01-00}
-"015"	{000a-0008-0010-04-00-04-00-05-00-05-00-05-00-05-00-05-00-05-00}
+"001"	{emote: Happiness}{capitalized}{Greeting begin}Hello, {pause 20}{Player nickname (green)}{Greeting end}!{Wait for input}	Tu as l'air {tout joyeux/toute joyeuse} ce matin...{pause 10}	{emote: Sunny}Comme moi,{pause 15} {catchphrase}!{pause 8}{emote: Soft Smile}
+"002"	{emote: Glee}Avec un temps pareil, on se dit	qu'on a vraiment de la chance,	{pause 15}{catchphrase}.
+"003"	{emote: Soft Smile}Salut, {pause 20}{Player nickname (green)}.	Qu'est-ce que tu fais de beau	aujourd'hui?	C'est un jour idéal pour flâner à	{Town name (pink)} sans se prendre la tête,{pause 15}	{catchphrase}!
+"004"	{emote: Happiness}Aaah, ce soleil...{pause 5}	Idéal pour lire un magazine tout en	faisant bronzette,{pause 15} {catchphrase}.
+"005"	{emote: Happiness}{capitalized}{Greeting begin}Re, {pause 20}{Player nickname (green)}{Greeting end}.
+"006"	{emote: Glee}Quelle chance on a de pouvoir	causer souvent ensemble,{pause 15}	{catchphrase}.
+"007"	{emote: Greetings}Re-coucou, {pause 20}{Player nickname (green)}.{Wait for input}{emote: Happiness} Super	temps aujourd'hui, pas vrai?{pause 20} J'ai	fait le plein de soleil,{pause 8} {catchphrase}!
+"008"	{emote: Alarmed}Waouh!{pause 20} Déjà {pause 8}{Hour} h {Minutes}?{Wait for input}	{emote: Happiness}On s'amuse, on s'amuse, et on voit	pas le temps passer,{pause 15} {catchphrase}!
+"009"	{emote: Happiness}{capitalized}{Greeting begin}Holà,{pause 20} revoilà {Player nickname (green)}{Greeting end}!{pause 40}	{emote: Glee}Le soleil peut bien aller se coucher	s'il veut. Moi je veille, {pause 20}{catchphrase}.
+"010"	{emote: Soft Smile}Comme il est tard, c'est dingue!{Wait for input}	{emote: Happiness}Waouh, {Player nickname (green)}!{pause 10} Et toi, tu	débordes d'énergie,{pause 20} {catchphrase}!
+"011"	{emote: Sleepy}Ouaaah{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Happiness}Oh, coucou,{pause 20} {Player nickname (green)}.{pause 10}	Tu n'es pas fatigué{/e}, dis?	Moi, si... {pause 15}{catchphrase}.
+"012"	{emote: Alarmed}Waouh!{pause 20} Mais c'est qu'il est tard!{Wait for input}	{emote: Happiness}Moralité : quand on s'amuse, {pause 10}on voit	vraiment pas le temps passer!
+"013"
+"014"	{000a-0008-0010-0002-0002-0001-0001-0001-0001-0001-0001}
+"015"	{000a-0008-0010-0004-0004-0005-0005-0005-0005-0005-0005}

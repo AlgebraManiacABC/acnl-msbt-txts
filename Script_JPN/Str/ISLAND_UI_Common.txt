@@ -1,15 +1,15 @@
 == 0 ==
 "001"	キャンプする{ruby (charSpan 2): ばしょ}場所を　{ruby (charSpan 1): えら}選んでネ！
-"002"	（あと {Red}{Number (0x6)}
+"002"	（あと {Red}{Number (0x6)}{Color Reset}マス）
 "003"	{ruby (charSpan 3): いどうさき}移動先のマスを　{ruby (charSpan 1): えら}選んでネ！
 "004"	ウキを{ruby (charSpan 1): な}投げるマスを　{ruby (charSpan 1): えら}選んでネ！
-"005"	{ruby (charSpan 1): あな}穴を{ruby (charSpan 1): ほ}掘るマスを　{ruby (charSpan 1): えら}選んでネ！（あと{Number (0x6)}!
-"006"	ここを{ruby (charSpan 2): たんさく}探索
-"007"	ここに{ruby (charSpan 2): いどう}移動
-"008"	マップをみる
-"009"	もどる
-"010"	
-"011"	{0011-0001-0002-00-00}
+"005"	{ruby (charSpan 1): あな}穴を{ruby (charSpan 1): ほ}掘るマスを　{ruby (charSpan 1): えら}選んでネ！（あと{Number (0x6)}{ruby (charSpan 1): こ}個）
+"006"	Ⓐここを{ruby (charSpan 2): たんさく}探索
+"007"	Ⓐここに{ruby (charSpan 2): いどう}移動
+"008"	Ⓨマップをみる
+"009"	Ⓑもどる
+"010"
+"011"	{0011-0001-0002-0000}
 "012"	{0014-0003-0000}
 "013"	×{Number (0x6)}
 "014"	×{Number (0x6)}
@@ -19,31 +19,31 @@
 "019"	あまった{ruby (charSpan 2): にっすう}日数
 "020"	{ruby (charSpan 3): たんさくりつ}探索率
 "021"	{ruby (charSpan 2): しょくりょう}食料ボーナス
-"022"	{Number (0x8)}
-"023"	{Number (0x7)}
+"022"	{Number (0x8)}%
+"023"	{Number (0x7)}{ruby (charSpan 2): にちぶん}日分
 "024"	ボーナス！
-"025"	{Number (0x7)}
-"026"	{0004-000b-0002-00-00}
+"025"	{Number (0x7)}{Text size 80%} {ruby (charSpan 1): にち}日{Text size 100%}
+"026"	{0004-000b-0002-0000}
 "027"	{ruby (charSpan 4): だっしゅつしっぱい}脱出失敗…
 "028"	{ruby (charSpan 4): だっしゅつせいこう}脱出成功！
-"030"	{0004-000b-0002-00-00}
+"030"	{0004-000b-0002-0000}
 "031"	{ruby (charSpan 2): もくひょう}目標スコア
-"032"	{0004-000b-0002-00-00}
+"032"	{0004-000b-0002-0000}
 "033"	{Number (0x8)}
-"034"	 {Number (0x7)}
+"034"	 {Number (0x7)}れんしょう
 "036"	{ruby (charSpan 2): しょくりょう}食料を　{ruby (charSpan 2): ちょうたつ}調達しなきゃ・・・
-"037"	{0011-0001-0002-00-00}
-"038"	{Number (0x7)}
-"039"	{0011-0001-0002-00-00}
-"040"	あと {Blue}{Number (0x7)}
+"037"	{0011-0001-0002-0000}は　ケガでお{ruby (charSpan 1): やす}休みです
+"038"	{Number (0x7)}{ruby (charSpan 1): にち}日{ruby (charSpan 2): いない}以内に　{ruby (charSpan 2): だっしゅつ}脱出せよ！
+"039"	{0011-0001-0002-0000}のばん
+"040"	あと {Blue}{Number (0x7)}{Color Reset}{ruby (charSpan 1): にち}日
 "041"	{ruby (charSpan 3): さいしゅうび}最終日
-"043"	{0000-0002-0002-ffffff82-00}最 終 日{0000-0002-0002-64-00}
-"044"	あと {0000-0002-0002-78-00}{Number (0x7)}
-"045"	あと {0000-0002-0002-78-00}{Number (0x6)}
+"043"	{Text size 130%}最 終 日{Text size 100%}
+"044"	あと {Text size 120%}{Number (0x7)}{Text size 100%}日分
+"045"	あと {Text size 120%}{Number (0x6)}{Text size 100%}つ
 "046"	食料が たりない！
-"047"	
-"048"	あと  {0000-0002-0002-78-00}{Number (0x7)}
-"049"	{Number (0x7)}
+"047"
+"048"	あと  {Text size 120%}{Number (0x7)}{Text size 100%}日
+"049"	{Number (0x7)}{ruby (charSpan 2): にちぶん}日分
 "050"	なし
 "051"	スコア
 "052"	7?

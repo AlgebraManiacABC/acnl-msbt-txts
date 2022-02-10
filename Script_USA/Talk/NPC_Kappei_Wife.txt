@@ -1,150 +1,150 @@
 == 0 ==
-"001"	{pause 5}
-"002"	Well, look who it be!{pause 10}
-"003"	Do ye wanna {Blue}register for a tour {Color Reset}or{pause 8}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	Not sure about the tour, yar?{Wait for input}
-"007"	{emote: Sunny}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{pause 5}
-"013"	{pause 5}
-"014"	Would ye like to listen to some	music on the way back?{pause 5}!
-"015"	{emote: Laughter}
-"016"	{emote: Worry}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	We be gettin' ready to sail fer	home{pause 20}
-"021"	Avast!{pause 15}!
-"022"	{emote: Happiness}
-"023"	But, {Player name}
-"024"	{emote: Happiness}
-"025"	
-"026"	
-"027"	
-"028"	
-"029"	
-"031"	{emote: Happiness}
-"032"	Once {0011-0000-0002-00-00}
-"033"	We'll be takin' off once everyone is	ready, {pause 15}
-"034"	We'll shove off as soon as ye be	ready, so take a seat in the boardin'	area when ye want to leave.{000f-0000-0004-15-00-28-00}	Gotcha.	I don't want to leave.
-"035"	We'll be takin' off once everyone is	ready, {pause 15}
-"036"	Tell yer friends that they need to	sit in the boardin' area before ye	sit down, or they'll be left behind!{pause 8}
-"037"	Oh, and one more thing...{0000-0004-0000}
-"038"	{pause 5}
-"039"	{emote: Sunny}
-"040"	{emote: Worry}
-"041"	The boat be departin' when	everyone is ready,{pause 30}
-"042"	The boat be departin' when	everyone is ready,{pause 30}
-"043"	{emote: Happiness}
-"044"	{pause 5}
-"045"	{emote: Happiness}
-"046"	{emote: Sunny}
-"047"	
-"048"	
-"049"	
-"050"	
+"001"	{pause 5}{emote: Alarmed}{pause 10}Ahoy there, {lad/lass}!{pause 20}{Wait for input}Ye be {pause 10}{emote: Sunny}{Player name} from {Town name (pink)},	don't ye?{Wait for input}{emote: Happiness}Heard all about ye{pause 5} from	Mr. {Orange}Tortimer{Color Reset}, I did.{pause 20}	Welcome to the islands, yar!	Here at the counter,{pause 5} ye can sign up	fer a {Blue}tour{Color Reset} of a tropical island.{pause 15}{Wait for input}{emote: Happiness}We also got some informational{pause 8}	pamphlets over there, so take a	peep at 'em if ye want.	{emote: Agreement}Or if yer feelin' lazy, just relax and	take a load off! {pause 30}{emote: Laughter}Yar har har!
+"002"	Well, look who it be!{pause 10}	Good to see ye, {Player name}!
+"003"	Do ye wanna {Blue}register for a tour {Color Reset}or{pause 8}	{Blue}catch a boat back{Color Reset} to {Town name (pink)}?{pause 15}{000f-0006-0006-0000-0000-0028}	Go on a tour!	Go home!	Not right now.
+"004"	{emote: Happiness}Well then,{pause 10} put yer feet up and get	to relaxin'!
+"005"	{emote: Happiness}Yar har! Good choice, {lad/lass}!	Where would ye like to tour?
+"006"	Not sure about the tour, yar?{Wait for input}	{emote: Reset}Well, let me know if ye change yer	mind.
+"007"	{emote: Sunny}Ye want to go on the	{pause 10}{0012-0015-0000}?{pause 5}{confirmation-02}{000f-0005-0004-0000-0000}	Yar!	Nar!
+"008"	{emote: Happiness}Aye aye! {pause 10}When ye be ready to go,	grab a seat in the boarding area.
+"009"	{emote: Happiness}Aye aye!{pause 10} When ye be ready to go,	grab a seat in the boarding area.{Wait for input}We'll set sail once both ye and yer	friend are ready!{pause 8}
+"010"	{emote: Happiness}Aye aye!{pause 10} When ye be ready to go,	grab a seat in the boarding area.{Wait for input}We'll set sail once both ye and yer	friends are ready!{pause 8}
+"011"	{emote: Happiness}Aye aye! {pause 10}We'll set sail as soon as	ye take a seat in the boarding area.{Wait for input}If ye wanna go with someone else,	make sure they sit down before ye,	yar?
+"012"	{pause 5}.{pause 5}.{pause 5}.{pause 5}{emote: Alarmed}{pause 10}Ah!{pause 10} I see ye be carryin'	some things there.{Wait for input}{emote: Reset}It's against the rules to be bringin'	stuff on the tour, so put yer stuff	in the {Blue}Box {Color Reset}before ye sit, yar.{pause 15}	If yer still holdin' any items when	we depart, we'll just pay ye cash	for 'em, yar? 	Might seem a bit weird, but it be	a customary practice here in the	islands, yar har har!
+"013"	{pause 5}{emote: Alarmed}{pause 10}Ye wanna go home already?{pause 20}	Ye be sure?{confirmation-02}{000f-0005-0004-0015-0028}	I'm going back!	I'll stay a bit longer.
+"014"	Would ye like to listen to some	music on the way back?{pause 5}{emote: Curious}{confirmation-02}{000f-0005-0004-0015-0028}	Yes, I love music!	No thanks.
+"015"	{emote: Laughter}Yo ho ho! {pause 10}If ye get the urge to	dance yer face off, don't ye be	fightin' it!
+"016"	{emote: Worry}{pause 10}No music? Aye, {emote: Resigned}whatever floats yer	boat, I suppose.
+"017"	{emote: Happiness}Aye!{pause 10} When ye be ready to go, just	take a seat in the boardin' area.{Wait for input}We'll be off once both ye and yer	friend be ready to board the boat!
+"018"	{emote: Happiness}Aye!{pause 10} When ye be ready to go, just	take a seat in the boardin' area.{Wait for input}We'll be off once ye and all yer	friends are ready to board the boat!
+"019"	{emote: Happiness}Yar! Sorry to see ye go, {lad/lass}.{pause 20}	{emote: Greetings}{pause 5}Come on back sometime, yar?{0007-0008-0004-003c-0000}
+"020"	We be gettin' ready to sail fer	home{pause 20}. Hang on to yer seahorses{pause 20}.{pause 20}.{pause 20}.
+"021"	Avast!{pause 15} The waters be a bit choppy,	so we couldn't depart this second.	Want me{pause 5}{emote: Curious} to try again?{confirmation-02}{000f-0005-0004-0015-0028}	Yes, I want to go!	I'll come back later.
+"022"	{emote: Happiness}Aye. {pause 20}Let me know when ye be	wantin' to try again.
+"023"	But, {Player name},{pause 15} ye be holding on to	something still.{pause 10} Are ye sure it's OK?{Wait for input}{emote: Reset}If ye don't put things in the {Blue}Box{Color Reset},	we automatically trade them in for	cash, and we don't pay well.	But we do deposit the funds to yer	savings account, so there's that{pause 8}.{pause 8}.{pause 8}.{pause 20}	Are ye {pause 5}{emote: Curious}sure ye be ready to go?{confirmation-02}{000f-0005-0004-0015-0028}	Yeah, let's go home!	No, wait just a sec!
+"024"	{emote: Happiness}Well then,{pause 10} just let me know after	ye be done doin' all ye need to do!
+"025"
+"026"
+"027"
+"028"
+"029"
+"031"	{emote: Happiness}Right now, we just be waitin' for	the boat to depart fer the	{0012-0015-0000}.
+"032"	Once {0011-0000-0002-0000} is ready, we'll be	leaving, so sit in the boardin' area	before {000e-0005-0010-0006-0068-0069-006d-0006-0068-0065-0072} if ye wanna go with.
+"033"	We'll be takin' off once everyone is	ready, {pause 15}so take yer seat in the	boardin' area!
+"034"	We'll shove off as soon as ye be	ready, so take a seat in the boardin'	area when ye want to leave.{000f-0000-0004-0015-0028}	Gotcha.	I don't want to leave.
+"035"	We'll be takin' off once everyone is	ready, {pause 15}so take yer seat in the	boardin' area!{000f-0000-0004-0015-0028}	All right.	I don't want to leave!
+"036"	Tell yer friends that they need to	sit in the boardin' area before ye	sit down, or they'll be left behind!{pause 8}	{emote: Happiness}We'll set sail as soon as {0011-0000-0002-0000}	is ready, {pause 20}so make sure to take a	seat in the boardin' area.{000f-0000-0004-0015-0028}	Aye aye!	I don't want to leave!
+"037"	Oh, and one more thing...{Wait for input}It's against the rules to be bringin'	stuff on the tour, so put yer stuff	in the {Blue}Box {Color Reset}before ye sit down.{pause 15}	If yer still holdin' any items when	we depart, we'll just pay ye cash	for 'em, yar?	Might seem a bit weird, but it be	a customary practice here in the	islands, yar har har!
+"038"	{pause 5}{emote: Alarmed}{pause 10}Ye mean, ye ain't be wantin'	to go on the tour?{emote: Curious}{confirmation-02}{000f-0005-0004-0015-0028}	I'd like to cancel.	I still want to go.
+"039"	{emote: Sunny}Ye be sendin' me mixed signals, {lad/lass}.{Wait for input}Well then, take a seat in the	boardin' area when ye be ready.
+"040"	{emote: Worry}Nar, that be too bad.{pause 20} {emote: Reset}Well, let me	know if ye wanna be goin' some	other time, yar?
+"041"	The boat be departin' when	everyone is ready,{pause 30} so take a	seat in the boardin' area!
+"042"	The boat be departin' when	everyone is ready,{pause 30} so take a	seat in the boardin' area!{000f-0000-0004-0015-0028}	Aye!	I don't want to leave!
+"043"	{emote: Happiness}When ye be ready to go home,{pause 15}	take a seat in the boardin' area.
+"044"	{pause 5}{emote: Alarmed}{pause 10}Yar, lemme get this straight:	{emote: Reset}Ye wanna stay here on the island	instead of going home?{emote: Curious}{confirmation-02}{000f-0005-0004-0015-0028}	That's right.	No, I want to go home.
+"045"	{emote: Happiness}Ye be sendin' me mixed signals here,	{lad/lass}! {pause 20}If ye wanna go home, sit down	in the boardin' area, yar?
+"046"	{emote: Sunny}Well, we're always happy to have ye	here on the island. {pause 20}Kick back and	relax!
+"047"
+"048"
+"049"
+"050"
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	¿Qué tal, grumetill{000e-0006-0008-02-00-6f-00-02-00-61-00}? {pause 10}
-"003"	¿Quieres {Blue}apuntarte a un tour{Color Reset}{pause 8}!
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	¿No estás segur{000e-0006-0008-02-00-6f-00-02-00-61-00} de hacia dónde	sopla el viento?{Wait for input}!
-"007"	{emote: Sunny}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Alarmed}
-"013"	{emote: Alarmed}
-"014"	¿Quieres escuchar una canción	de marineros durante la travesía?{pause 5}
-"015"	{emote: Laughter}
-"016"	{emote: Worry}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	Preparando el viaje de vuelta...{pause 20}
-"021"	Parece que el viento	no sopla a nuestro favor.	{pause 5}
-"022"	{emote: Happiness}
-"023"	Pero {Player name}
-"024"	{emote: Happiness}
-"025"	
-"026"	
-"027"	
-"028"	
-"029"	
-"031"	{emote: Happiness}
-"032"	Siéntate en la zona de espera	antes que {0011-0000-0002-00-00}
-"033"	Cuando toda la tripulación esté	sentada en la zona de espera,{pause 15}
-"034"	Siéntate en la zona de espera	cuando estés list{000e-0006-0008-02-00-6f-00-02-00-61-00} para que levemos	anclas.{000f-0000-0004-15-00-28-00}	¡De acuerdo!	Bah, olvídalo
-"035"	¡Cuando todo el mundo esté sentado	en la zona de espera, levaremos	anclas!{000f-0000-0004-15-00-28-00}	¡Entendido!	Bah, olvídalo
-"036"	¡Dile a los otros marinerillos que	deben sentarse antes que tú o	zarparemos sin ellos!	{emote: Happiness}
-"037"	Otra cosa más...{0000-0004-0000}!
-"038"	{emote: Alarmed}
-"039"	{emote: Resigned}
-"040"	{emote: Worry}
+"001"	{emote: Alarmed}{pause 10}¡Ah del barco!{pause 20}{Wait for input}Tú eres {pause 10}{emote: Sunny}{Player name} y acabas de	llegar en el bote de {capitalized}{Town name (pink)},	¿no?{Wait for input}{emote: Happiness}El señor {Orange}Tórtimer {Color Reset}me ha hablado	de ti, {pequeño pececito/pequeña anguilita}.{pause 20}	¡Ar, bienvenid{o/a} a las islas!{Wait for input}En este mostrador puedes	apuntarte a un tour por	una isla tropical.{pause 15}{Wait for input}{emote: Happiness}Aquí delante tenemos panfletos	informativos.{pause 8} Échales un ojo	si quieres, {calamarcín/sirenita}.	{emote: Agreement}¡Pero acabas de desembarcar!	Ahora toca relajarse y disfrutar	del sol, como hacemos los isleños.{emote: Happiness}
+"002"	¿Qué tal, grumetill{o/a}? {pause 10}	¡Me alegro de verte, {Player name}!
+"003"	¿Quieres {Blue}apuntarte a un tour{Color Reset}{pause 8}	o {Blue}marcharte de la isla{Color Reset}?{pause 15}{000f-0006-0006-0000-0000-0028}	¡Me voy de tour!	¡Me marcho!	¡Ninguna de las dos!
+"004"	{emote: Happiness}¡Entonces deja de perder el tiempo	con esta vieja loba de mar y	ve a relajarte!
+"005"	{emote: Happiness}¡Buena elección, {rapaz/muchacha}!	¿A qué tour quieres apuntarte?
+"006"	¿No estás segur{o/a} de hacia dónde	sopla el viento?{Wait for input}{emote: Reset} Bueno, vuelve	cuando sepas lo que quieres.
+"007"	{emote: Sunny}¿Quieres surcar las aguas	y participar en el tour	{pause 10}{Blue}{0012-0015-0000}{Color Reset}?{pause 5}{confirmation-02}{000f-0005-0004-0000-0000}	¡Ar, sí!	¡No!
+"008"	{emote: Happiness}¡Ar! {pause 10}Cuando estés list{o/a} para zarpar,	siéntate en una de las sillas de la	zona de espera, ahí detrás de ti.
+"009"	{emote: Happiness}¡Ar! {pause 10}Cuando estés list{o/a} para zarpar,	siéntate en una de las sillas de la	zona de espera, ahí detrás de ti.	¡Levaremos anclas cuando tu	colega y tú estéis sentados!{pause 8}
+"010"	{emote: Happiness}¡Ar! {pause 10}Cuando estés list{o/a} para zarpar,	siéntate en una de las sillas de la	zona de espera, ahí detrás de ti.	¡Levaremos anclas cuando tus	colegas y tú estéis sentados!{pause 8}
+"011"	{emote: Happiness}¡Ar! {pause 10}Cuando estés list{o/a} para zarpar,	siéntate en una de las sillas de la	zona de espera, ahí detrás de ti.	Si quieres llevarte a otro marinero,	que se siente antes que tú,	¿entendido?
+"012"	{emote: Alarmed}{pause 10}¡Por las barbas del capitán!{pause 10}	¿Llevas algo en los bolsillos?{Wait for input}{emote: Reset}Está prohibido llevar cosas al tour.	Deja todas tus cosas en el {Blue}cesto de	guardado {Color Reset}antes de sentarte.{pause 15}	Si llevas algo encima en el momento	de zarpar, te daremos bayas por	los objetos que tengas.	Puede que te parezca raro, pero	así es como hacemos las cosas	por aquí, grumetill{o/a}.
+"013"	{emote: Alarmed}{pause 10}¿Quieres irte ya?{pause 20}	¿Estás segur{o/a}, {mejilloncito/anguilita}?{confirmation-02}{000f-0005-0004-0015-0028}	¡Me voy!	Me quedo un rato
+"014"	¿Quieres escuchar una canción	de marineros durante la travesía?{pause 5}{emote: Curious}{confirmation-02}{000f-0005-0004-0015-0028}	¡Adoro la música!	No, paso
+"015"	{emote: Laughter}¡Yo jo, yo jo! {pause 10}Si te urge bailar,	no te reprimas. ¡Déjate llevar	por el ritmo de las olas!
+"016"	{emote: Worry}{pause 10}¿No quieres música?	Menud{o/a} bucaner{o/a} estás	tú hech{o/a}...
+"017"	{emote: Happiness}¡Ar! {pause 10}Cuando estés list{o/a} para zarpar,	siéntate en una de las sillas de la	zona de espera, ahí detrás de ti.	¡Levaremos anclas cuando tu	colega y tú estéis sentados!{pause 8}
+"018"	{emote: Happiness}¡Ar! {pause 10}Cuando estés list{o/a} para zarpar,	siéntate en una de las sillas de la	zona de espera, ahí detrás de ti.	¡Levaremos anclas cuando	tus colegas y tú estéis listos!{pause 8}
+"019"	{emote: Happiness}Es una pena verte partir, {rapaz/sirenita}.{pause 20}	{emote: Greetings}{pause 5}Vuelve a visitarnos, ¿eh?{0007-0008-0004-003c-0000}
+"020"	Preparando el viaje de vuelta...{pause 20}	Un momento.
+"021"	Parece que el viento	no sopla a nuestro favor.	{pause 5}{emote: Curious}¿Lo vuelvo a intentar?{confirmation-02}{000f-0005-0004-0015-0028}	¡Sí, por favor!	Luego
+"022"	{emote: Happiness}¡Ar! {pause 20}Vuelve a verme cuando	quieras intentarlo de nuevo,	pequeña liebre de mar.
+"023"	Pero {Player name},{pause 15} todavía tienes	objetos en los bolsillos.{Wait for input}{emote: Reset}Lo que no metas en el {Blue}cesto de	guardado{Color Reset} te lo cambiaremos por	bayas automáticamente.	No pagamos bien, pero al menos	te lo ingresamos directamente a	tu cuenta bancaria,{pause 10} algo es algo.	{emote: Curious}¿Estás segur{o/a} de que quieres	zarpar ya?{000f-0005-0004-0015-0028}	¡Sí, vamos a casa!	No, un momento
+"024"	{emote: Happiness}Muy bien.{pause 10} Avísame cuando estés	list{o/a}, cangrejit{o/a}.
+"025"
+"026"
+"027"
+"028"
+"029"
+"031"	{emote: Happiness}Estamos esperando a que zarpe	el barco para empezar el tour	{Blue}{0012-0015-0000}{Color Reset}.
+"032"	Siéntate en la zona de espera	antes que {0011-0000-0002-0000} si quieres	acompañarl{o/a/} en el tour.
+"033"	Cuando toda la tripulación esté	sentada en la zona de espera,{pause 15}	levaremos anclas.
+"034"	Siéntate en la zona de espera	cuando estés list{o/a} para que levemos	anclas.{000f-0000-0004-0015-0028}	¡De acuerdo!	Bah, olvídalo
+"035"	¡Cuando todo el mundo esté sentado	en la zona de espera, levaremos	anclas!{000f-0000-0004-0015-0028}	¡Entendido!	Bah, olvídalo
+"036"	¡Dile a los otros marinerillos que	deben sentarse antes que tú o	zarparemos sin ellos!	{emote: Happiness}Cuando te sientes, {pause 20}levaremos anclas.{000f-0000-0004-0015-0028}	¡Vale!	Bah, olvídalo
+"037"	Otra cosa más...{Wait for input}Está prohibido llevar cosas al tour.	Deja todas tus cosas en el {Blue}cesto de	guardado{Color Reset}{Blue} {Color Reset}antes de sentarte.{pause 15}	Si llevas algo encima en el momento	de zarpar, te daremos bayas por	los objetos que tengas.	Puede que te parezca raro, pero	así es como hacemos las cosas	por aquí, grumetill{o/a}.
+"038"	{emote: Alarmed}{pause 10}Creo que la brisa marina me	ha tapado los oídos{pause 10}.{emote: Curious} ¿Dices	que no quieres hacer el tour?{confirmation-02}{000f-0005-0004-0015-0028}	Eso es	Sí que quiero
+"039"	{emote: Resigned}Eres tan indecis{o/a} como el botarate	de mi marido...{Wait for input}{emote: Happiness}Siéntate en la zona de espera	cuando quieras zarpar.
+"040"	{emote: Worry}Una lástima...{pause 20}	{emote: Reset}Avísame si quieres apuntarte	a otro.
 "041"	¡El bote zarpará cuando todos	estéis sentados en una silla de	la zona de espera!
-"042"	¡El bote zarpará cuando todos	estéis sentados en una silla de	la zona de espera!{000f-0000-0004-15-00-28-00}	¡Vale!	¡No quiero irme!
-"043"	{emote: Happiness}
-"044"	{emote: Alarmed}
-"045"	{emote: Resigned}
-"046"	{emote: Sunny}
-"047"	
-"048"	
-"049"	
-"050"	
+"042"	¡El bote zarpará cuando todos	estéis sentados en una silla de	la zona de espera!{000f-0000-0004-0015-0028}	¡Vale!	¡No quiero irme!
+"043"	{emote: Happiness}Siéntate en la zona de espera	cuando estés list{o/a} para irte.
+"044"	{emote: Alarmed}{pause 10}A ver si me aclaro:	{emote: Reset}¿quieres quedarte en la isla	entonces?{emote: Curious}{confirmation-02}{000f-0005-0004-0015-0028}	Eso es	No, quiero ir a casa
+"045"	{emote: Resigned}Me estás mareando más que	navegar durante una tormenta...{Wait for input}{emote: Happiness}Siéntate en la zona de espera	cuando quieras zarpar, ¿entendido?
+"046"	{emote: Sunny}Estamos encantados de que	te quedes. {pause 20}Amarra el ancla y	relájate en nuestra hermosa isla.
+"047"
+"048"
+"049"
+"050"
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Surprise}
-"003"	{000e-0006-0010-04-00-49-00-6c-00-08-00-45-00-6c-00-6c-00-65-00} veut faire une {Blue}excursion{Color Reset}, ou	alors c'est-y qu'{000e-0006-0010-04-00-69-00-6c-00-08-00-65-00-6c-00-6c-00-65-00} veut{pause 8}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Worry}
-"007"	{emote: Sunny}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{pause 5}
-"013"	{pause 5}
-"014"	{000e-0006-0010-04-00-49-00-6c-00-08-00-45-00-6c-00-6c-00-65-00} veut qu'on mette d'la musique	pendant l'retour?{pause 5}
-"015"	{emote: Laughter}
-"016"	{emote: Worry}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	On met les voiles!{pause 20}
-"021"	{emote: Disbelief}
-"022"	{emote: Happiness}
-"023"	{emote: Surprise}
-"024"	{emote: Soft Smile}
-"025"	
-"026"	
-"027"	
-"028"	
-"029"	
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	{emote: Reset}
-"034"	{emote: Soft Smile}
-"035"	{emote: Happiness}
-"036"	{emote: Glare}
-"037"	{emote: Thought}
-"038"	{emote: Alarmed}
-"039"	{emote: Sunny}
-"040"	{emote: Worry}
-"041"	{emote: Soft Smile}
-"042"	{emote: Agreement}
-"043"	{emote: Happiness}
-"044"	{pause 5}
-"045"	{emote: Sunny}
-"046"	{emote: Sunny}
-"047"	
-"048"	
-"049"	
-"050"	
+"001"	{emote: Alarmed}{pause 10}Nom d'un vent d'travers!{Wait for input}{emote: Sunny}T'es bien {pause 10}{emote: Sunny}{Player name} {de /d'}{Town name (pink)},	j'me trompe pas?!{Wait for input}{emote: Happiness}C'est l'{Orange}Tortimer{Color Reset}, {pause 15}il m'a causé d'toi. {pause 30}	Bienvenue sur notre île, mon p'tit	albatros!	Ici,{emote: Agreement} on propose des {Blue}excursions {Color Reset}dans	les îles de l'archipel.{Wait for input}{emote: Happiness}On a même des p'tits dépliants qui	disent tout sur nos excursions.{pause 30} {Il/Elle}	veut p'têt y j'ter un œil?	{emote: Resigned}{pause 10}Mais v'là-t-y pas que j'l'embête	déjà...{pause 40} {Il/Elle} devrait prendre{emote: Glare} l'temps	d'réfléchir à tout ça,{pause 20} relax.{emote: Happiness}
+"002"	{emote: Surprise}R'gardez c'que l'bon vent nous	amène-t-y pas!{pause 40}	Comment {il/elle} va,{pause 10} {Player name}?!
+"003"	{Il/Elle} veut faire une {Blue}excursion{Color Reset}, ou	alors c'est-y qu'{il/elle} veut{pause 8} {Blue}r'tourner	à la ville{Color Reset} à {Town name (pink)}?{pause 15}{000f-0006-0006-0000-0000-0028}	Une excursion!	{Il/Elle} veut rentrer!	Rien pour l'instant.
+"004"	{emote: Happiness}Alors qu'{il/elle} profite bien d'son	séjour sur notre belle île!
+"005"	{emote: Happiness}En v'là une très bonne idée! {pause 30}Pour	quelle excursion qu'{il/elle} veut	s'embarquer, {mon p'tit goéland/ma p'tite mouette}?
+"006"	{emote: Worry}{Il/Elle} veut plus y aller?{Wait for input} {emote: Soft Smile}Faut qu'{il/elle}	m'dise {s'il/si elle} change d'avis, après.
+"007"	{emote: Sunny}{Il/Elle} veut partir faire not' excursion	{pause 10}{0012-0015-0000}?{pause 5}{confirmation-02}{000f-0005-0004-0000-0000}	{Un peu qu'il/Un peu qu'elle} veut!	Nan. {Il/Elle} veut pas.
+"008"	{emote: Happiness}Quand {il s'ra prêt/elle s'ra prête}, {pause 20}{il/elle}	s'mettra sur une chaise, {pause 10}là	devant,{pause 10} {le p'tit guillemot/la p'tite frégate}.
+"009"	{emote: Happiness}Quand mes deux drôles d'oiseaux	voudront bien y aller,{pause 15} z'auront qu'à	prendre place sur une chaise!	{emote: Sunny}On s'envolera quand ils s'ront prêts.
+"010"	{emote: Happiness}Quand tous mes drôles d'oiseaux	voudront bien y aller, {pause 15}z'auront qu'à	s'asseoir là!	{emote: Glare}On s'envolera quand ils s'ront prêts.
+"011"	{emote: Happiness}On pourra prendre notre envol dès	qu'{il/elle} s'ra assis{/e}.{Wait for input}Si un autre pingouin veut v'nir avec	nous,{pause 15} faudra qu'{il/elle} vienne s'asseoir	en premier,{emote: Sheepishness} {il/elle} a compris?
+"012"	{pause 5}.{pause 5}.{pause 5}.{pause 5}{emote: Surprise}{pause 10} Ah ah!{pause 20} Qu'est-ce que j'vois là,{pause 15}	hein?{pause 30} {Il/Elle} a ram'né des affaires	avec {lui/elle}, on dirait!	{emote: Agreement}On respecte l'environ'ment de ces	p'tits paradis sur l'eau,{pause 15} nous!{Wait for input}{emote: Aggravation}Faut tout mett' dans le {Blue}panier {Color Reset}avant	d's'asseoir, {pause 15}nom d'un galet!{Wait for input}{emote: Anger}Si {il/elle} a encore des bricoles sur {lui/elle}	quand {il/elle} embarquera,{pause 15} on lui	rachèt'ra avant d'partir!	{emote: Anger}C'est p'têt bizarre, {pause 20}mais c'est	comme ça qu'on fait dans les îles!
+"013"	{pause 5}{emote: Alarmed}{pause 10}{Il/Elle} veut déjà rentrer chez {lui/elle}?{pause 20}	{Sûr/Sûre}?{confirmation-02}{000f-0005-0004-0015-0028}	Je voudrais rentrer.	Je vais rester un peu.
+"014"	{Il/Elle} veut qu'on mette d'la musique	pendant l'retour?{pause 5}{emote: Curious}{confirmation-02}{000f-0005-0004-0015-0028}	Pourquoi pas!	Non merci.
+"015"	{emote: Laughter}Hé hé hé! La musique, ça donne des	ailes! Hein, {mon p'tit pingouin/ma p'tite marmette}?!
+"016"	{emote: Worry}{pause 10}Pas d'musique? Ah? Dommage...	Comme c'est qu'on dit, la musique	adoucit les mers...
+"017"	{emote: Happiness}Quand ces deux drôles d'oiseaux	voudront bien y aller, {pause 15}z'auront qu'à	s'caler sur une chaise!	{emote: Sunny}On décollera quand ils s'ront prêts!
+"018"	{emote: Happiness}Quand tous ces drôles d'oiseaux	voudront bien y aller,{pause 15} z'auront qu'à	s'caler sur une chaise!	{emote: Glare}On décollera quand ils s'ront prêts!
+"019"	{emote: Happiness}C'est dommage de r'partir déjà,	{mon pingouin/ma marmette}.{pause 30} {emote: Greetings}{pause 10}Faudra r'venir une	aut' fois alors, {pause 10}hein?{0007-0008-0004-003c-0000}
+"020"	On met les voiles!{pause 20}	Retour au bercail{pause 20}.{pause 20}.{pause 20}.
+"021"	{emote: Disbelief}Mille méduses!{pause 45} Y'a trop de houle,{pause 30}	on n'devrait pas r'partir maint'nant.	{pause 40}{emote: Curious}Tu veux vraiment r'partir?{confirmation-02}{000f-0005-0004-0015-0028}	Oui, tout de suite.	On repartira plus tard.
+"022"	{emote: Happiness}Qu'{il/elle} m'dise quand {il/elle} voudra	s'en aller, hein?
+"023"	{emote: Surprise}{pause 10}J'te signale que t'as encore que'que	chose sur toi, {pause 10}{mon p'tit/ma p'tite} {Player name}.	{pause 30}T'es sûr{/e} que tu veux l'garder?	{emote: Thought}J'te rappelle que si tu n'mets pas	tes affaires dans le {Blue}panier{Color Reset}, {pause 15}on t'les	rachètera automatiquement.	{emote: Agreement}Et pas forcément à un prix qui	t'plaira.{pause 30} L'argent sera directement	viré sur ton compte.{Wait for input}T'es prév'nu{/e}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Curious}Alors? {pause 30}T'es vraiment sûr{/e} qu't'es	prêt{/e} à prendre ton envol?{confirmation-02}{000f-0005-0004-0015-0028}	Oui. Allons-y!	Attends un instant...
+"024"	{emote: Soft Smile}Bon ben tu m'f'ras signe quand tu	s'ras enfin prêt{/e}!
+"025"
+"026"
+"027"
+"028"
+"029"
+"031"	{emote: Happiness}Bien!{pause 40} Y'a plus qu'à attendre que	l'bateau soit prêt!{pause 40} {emote: Surprise}Prochain arrêt :{pause 15}	{0012-0015-0000}!
+"032"	{emote: Happiness}Quand {0011-0000-0002-0000} s'ra {000e-0005-0016-0008-0070-0072-00ea-0074-000a-0070-0072-00ea-0074-0065}, {pause 20}on	pourra y aller.{pause 40} Faut qu'{il/elle} s'assoie	avant l'autre si {il/elle} veut partir.
+"033"	{emote: Reset}On s'envolera quand tout l'monde	s'ra prêt, {emote: Anger}{pause 20}alors qu'{il/elle} s'dépêche	d'monter!
+"034"	{emote: Soft Smile}On s'envolera quand {il/elle} s'ra {prêt/prête},{pause 20}	alors qu'{il/elle} vienne s'asseoir quand	{il/elle} voudra y aller!{000f-0000-0004-0015-0028}	Compris.	Je ne pars pas.
+"035"	{emote: Happiness}On s'envolera quand tous les	pingouins seront là, {pause 20}alors qu'{il/elle}	aille s'asseoir quand {il/elle} s'ra {prêt/prête}!{000f-0000-0004-0015-0028}	Compris.	Je ne veux pas partir.
+"036"	{emote: Glare}Faut dire aux aut' goélands qu'ils	aillent s'asseoir en premier, sinon y	s'ront laissés ici!	{emote: Happiness}{Mon p'tit/Ma p'tite} {0011-0000-0002-0000}. On s'envolera	dès qu'{000e-0005-0010-0004-0069-006c-0008-0065-006c-006c-0065} s'ra {000e-0005-0016-0008-0070-0072-00ea-0074-000a-0070-0072-00ea-0074-0065}, {pause 20}alors qu'{il/elle}	s'trouve vite une place!{000f-0000-0004-0015-0028}	{Il/Elle} s'dépêche!	{Il/Elle} part plus!
+"037"	{emote: Thought}Encore une p'tite chose, {pause 8}la	mouette...{Wait for input}{emote: Disagreement}L'règlement y dit qu'{il/elle} a pas	l'droit d'em'ner ses affaires dans	les îles.	Alors faut qu'{il/elle} mette ses bricoles	{emote: Aggravation}dans le {Blue}panier {Color Reset}avant d'aller	s'asseoir!	{emote: Anger}Si {il/elle} a encore des babioles sur {lui/elle}	quand on décolle,{pause 12} on les lui rachète	cash, {pause 12}compris?	C'est p'têt bizarre, {pause 15}{emote: Agreement}mais c'est	comme ça qu'on fait dans les îles!
+"038"	{emote: Alarmed}{pause 30}Alors {il/elle} veut plus s'envoler pour	les îles?{pause 45}{emote: Curious} C'est quoi c't'histoire?{confirmation-02}{000f-0005-0004-0015-0028}	Je ne veux plus y aller.	Si. Je veux y aller.
+"039"	{emote: Sunny}Y'a d'quoi perdre l'nord, avec un	drôle d'oiseau comme ça, nom d'un	crabe sobre!{Wait for input}Bon, alors qu'{il/elle} aille s'asseoir à	bord quand {il/elle} s'ra {prêt/prête}.
+"040"	{emote: Worry}Ahrrr... {pause 30}C'est bien dommage, {pause 12}ça!{pause 40}	{emote: Resigned}Qu'{il/elle} m'fasse signe, {pause 12}la mouette,{pause 20}	quand {il/elle} changera encore d'avis.
+"041"	{emote: Soft Smile}On s'envolera quand tout l'monde	s'ra assis.
+"042"	{emote: Agreement}On s'envolera quand tout l'monde	s'ra assis.{000f-0000-0004-0015-0028}	Très bien.	Je ne veux pas partir!
+"043"	{emote: Happiness}{Il/Elle} aura qu'à monter quand {il/elle}	s'ra {paré/parée} à y aller!
+"044"	{pause 5}{emote: Alarmed}{pause 10}Qu'on soit bien d'accord, {lui/elle} et	moi... {emote: Reset}{Il/Elle} veut rester ici au lieu	d'rentrer, c'est bien c'qu'{il/elle} veut?{emote: Curious}{confirmation-02}{000f-0005-0004-0015-0028}	Oui, c'est ça.	Non. Je veux rentrer.
+"045"	{emote: Sunny}Y'a d'quoi perdre l'nord, {pause 12}avec un	drôle d'oiseau comme ça,{pause 20} nom d'un	bigorneau!{Wait for input}{emote: Happiness}Alors qu'{il/elle} monte à bord quand	{il/elle} s'ra {prêt/prête}.
+"046"	{emote: Sunny}J'comprends.{pause 30} Quoi d'mieux que	d'passer du bon temps sur une île,	hein?{pause 20} Qu'{il/elle} en profite!
+"047"
+"048"
+"049"
+"050"

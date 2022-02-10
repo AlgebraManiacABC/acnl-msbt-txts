@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Anger}
+"001"	{emote: Soft Smile}それじゃあ、アタシ{pause 16}	そろそろ　{ruby (charSpan 1): かえ}帰らせてもらうわね{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は、ありがとう！{pause 16}	{ruby (charSpan 1): たの}楽しかったわ、{Player nickname (green)}{0005-000d-0000}
+"002"	{emote: Worry}あんまり　{ruby (charSpan 2): ながい}長居しちゃ{ruby (charSpan 1): わる}悪いから、{pause 16}	そろそろ　{ruby (charSpan 1): かえ}帰るわね{pause 32}	{emote: Soft Smile}またね、{pause 8}{Player nickname (green)}{0005-000d-0000}
+"003"	{emote: Worry}{ruby (charSpan 2): なごり}名残おしいけど、{pause 16}そろそろ	{ruby (charSpan 1): かえ}帰らせてもらうね、{pause 8}{catchphrase}{Wait for input}{emote: Soft Smile}アナタの{ruby (charSpan 2): へや}部屋が　{ruby (charSpan 1): み}見れて{pause 16}	うれしかったわ、{pause 8}{Player nickname (green)}{0005-000d-0000}
+"004"	{emote: Alarmed}あら？　{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 16}	どこかに　{ruby (charSpan 1): で}出かけるの？{Wait for input}{emote: Reset}それじゃあ、アタシも{pause 16}	そろそろ　ここを{ruby (charSpan 1): で}出るわ{pause 30}　	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　ありがとうね
+"005"	{emote: Alarmed}あら、{pause 16}おもてなしの{ruby (charSpan 1): しな}品を	{ruby (charSpan 1): か}買いに{ruby (charSpan 1): い}行くの？　{pause 8}{Player nickname (green)}{0005-000d-0000}？{Wait for input}{emote: Sheepishness}アタシ、{pause 8}もう{ruby (charSpan 1): かえ}帰るし{pause 8}・{pause 8}・{pause 8}・{pause 8}	そんなに　{ruby (charSpan 1): き}気をつかわなくていいわよ{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は　アナタの{ruby (charSpan 1): いえ}家に{ruby (charSpan 1): こ}来れて{pause 15}	うれしかったわ、{pause 8}{catchphrase}
+"006"	{emote: Anger}{ruby (charSpan 1): ま}待って！　{pause 8}{Player nickname (green)}{0005-000d-0000}！{Wait for input}	{emote: Worry}{ruby (charSpan 1): なに}何も{ruby (charSpan 1): い}言わずに　{ruby (charSpan 1): で}出て{ruby (charSpan 1): い}行くなんて{pause 16}	{ruby (charSpan 1): さび}寂しいじゃない？　{pause 8}{catchphrase}？	{emote: Reset}アナタが　{ruby (charSpan 1): で}出て{ruby (charSpan 1): い}行くなら、{pause 16}	アタシも　{ruby (charSpan 1): かえ}帰らせてもらうわ{pause 30}	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　ありがとね

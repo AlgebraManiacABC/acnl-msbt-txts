@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{0011-0001-0002-01-00}を{pause 8}!
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Thought}
+"001"	{0011-0001-0002-0001}を{pause 8}	ココまで　{ruby (charSpan 1): つ}連れて{ruby (charSpan 1): き}来てくれよな！{pause 20}	{emote: Happiness}{ruby (charSpan 1): たの}頼んだぜ、{pause 20}{catchphrase}！
+"002"	{emote: Alarmed}おいおい、{pause 15}{emote: Reset}{0011-0001-0002-0001}を{pause 8}	{ruby (charSpan 1): つ}連れて{ruby (charSpan 1): き}来てくれって　{ruby (charSpan 1): たの}頼んでたのに{pause 15}	{emote: Curious}{ruby (charSpan 1): なに}何してたんだ？！	{emote: Anger}{ruby (charSpan 1): おせ}遅ぇーから{pause 8}	{ruby (charSpan 1): よう}用はひとりで　{ruby (charSpan 1): す}済ませちまったぜ！{Wait for input}{emote: Reset}もうアイツは	{ruby (charSpan 1): よ}呼んでこなくていいからな！{Wait for input}{emote: Resigned}ったく　オメェは、{pause 15}	ここ{ruby (charSpan 2): いちばん}一番ってときに{pause 8}	{ruby (charSpan 1): き}気を{ruby (charSpan 1): ぬ}抜くクセがあるんだよなぁ
+"003"	{emote: Alarmed}なんだよ　オメェ、{pause 8}	{ruby (charSpan 2): とちゅう}途中で　やめちまうのかよ？！{pause 20}	{emote: Anger}{ruby (charSpan 1): なさ}情けねぇヤツだな　まったく{pause 8}・{pause 8}・{pause 8}・	{emote: Reset}しょうがねぇ！{pause 20}	あとで、{pause 8}オレひとりで　{ruby (charSpan 1): い}行っとくわ！
+"004"	{emote: Thought}そうか{pause 8}・{pause 8}・{pause 8}・{pause 8}	アイツもいろいろ　{ruby (charSpan 1): いそが}忙しいんだろうなぁ{Wait for input}{emote: Reset}なら、しょうがねぇや！{pause 15}	{emote: Happiness}また{ruby (charSpan 2): こんど}今度にするぜ！{pause 20}　{catchphrase}！

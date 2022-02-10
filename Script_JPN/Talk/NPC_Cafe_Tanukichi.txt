@@ -1,48 +1,48 @@
 == 0 ==
-"001"	{pause 5}
-"002"	{0009-0001-0006-0c-00-0d-00-0e-00}
-"003"	{0009-0001-0006-0f-00-10-00-11-00}
-"004"	{Player name}
-"005"	ボク、{pause 10}
-"006"	ボク、{pause 10}
-"007"	
-"008"	{0009-0001-0006-15-00-16-00-17-00}
-"009"	{0009-0000-0004-1c-00-1f-00}
-"010"	{0009-0001-0006-29-00-2c-00-30-00}
-"012"	どーもどーも、{pause 5}
-"013"	どーもどーも、{pause 5}
-"014"	あっ！{pause 10}
-"015"	どーもどーも、{pause 5}
-"016"	{Player name}
-"017"	ああ、{pause 10}
-"018"	{000c-0002-0000}
-"019"	
-"021"	ところで　{Player name}
-"022"	ボク、{pause 10}
-"023"	ところで　{Player name}
-"024"	まだまだ　{ruby (charSpan 2): みじゅく}未熟で	{ruby (charSpan 1): いた}至らない{ruby (charSpan 1): てん}点も　あると{ruby (charSpan 1): おも}思うけど、{pause 10}
-"025"	{ruby (charSpan 1): じつ}実は　ホームセンターに	{ruby (charSpan 2): かいそう}改装する{ruby (charSpan 1): まえ}前に、{pause 10}
-"026"	{ruby (charSpan 1): いま}今や　{ruby (charSpan 2): りっぱ}立派なデパートの	オーナーになって{pause 5}
-"028"	{000c-0001-0000}
-"029"	{000c-0002-0000}
-"030"	{000c-0001-0000}
-"031"	{000c-0001-0000}
-"032"	{000c-0002-0000}
-"033"	{000c-0001-0000}
-"034"	{000c-0001-0000}
-"035"	{000c-0001-0000}
-"036"	{000c-0001-0000}
-"037"	{000c-0001-0000}
-"038"	
-"039"	
-"041"	{000c-0001-0000}
-"042"	{000c-0002-0000}
-"043"	{000c-0001-0000}
-"044"	{000c-0001-0000}
-"045"	{000c-0002-0000}
-"046"	{000c-0001-0000}
-"047"	{000c-0001-0000}
-"048"	{000c-0001-0000}
-"049"	{000c-0002-0000}
-"050"	{000c-0001-0000}
-"051"	{000c-0002-0000}
+"001"	{pause 5}{emote: Alarmed}{pause 10}あっ！{pause 10}　{emote: Happiness}どーもどーも！{pause 20}	{Player name}さんも　お{ruby (charSpan 1): ちゃ}茶しに{ruby (charSpan 1): き}来ただなも？
+"002"	{0009-0001-0006-000c-000d-000e}
+"003"	{0009-0001-0006-000f-0010-0011}
+"004"	{Player name}さんは{pause 5}	コーヒーの{ruby (charSpan 1): まめ}豆とかに{pause 5}　こだわる{ruby (charSpan 1): ほう}方だなも？{Wait for input}ボクは　ここの	{Blue}キリマンジャロ{Color Reset}コーヒーに{pause 5}	{ruby (charSpan 1): め}目がないんだも！{Wait for input}すっごく　{ruby (charSpan 2): おい}美味しいから、{pause 10}	もしまだ　{ruby (charSpan 1): の}飲んだことがなければ	ぜひ　{ruby (charSpan 1): の}飲んでみて{ruby (charSpan 1): ほ}欲しいだなも！
+"005"	ボク、{pause 10}コーヒーはコーヒーでも	ミルクが　{Blue}たっぷり{Color Reset}{ruby (charSpan 1): はい}入った、{pause 10}	カフェオレぽいのが　{ruby (charSpan 1): す}好きなんだも{Wait for input}まあ　その{ruby (charSpan 1): ぶん}分、{pause 10}	お{ruby (charSpan 2): さとう}砂糖はひかえめにしてるし{pause 5}・{pause 5}・{pause 5}・{pause 15}	{ruby (charSpan 3): だいじょうぶ}大丈夫だよね！
+"006"	ボク、{pause 10}ホントは　{ruby (charSpan 2): けっこう}結構	{ruby (charSpan 1): あま}甘いのが{ruby (charSpan 1): す}好きなんだけど{pause 5}・{pause 5}・{pause 5}・{Wait for input}{ruby (charSpan 2): さいきん}最近は　お{ruby (charSpan 2): さとう}砂糖は{Blue}1{ruby (charSpan 1): こ}個{Color Reset}まで！{pause 15}	って、{pause 5}{ruby (charSpan 1): こころ}心がけてるだなも{Wait for input}さすがにボク、{pause 10}{ruby (charSpan 2): じぶん}自分でも	お{ruby (charSpan 1): なか}腹まわりのお{ruby (charSpan 1): にく}肉が{pause 5}	{ruby (charSpan 1): き}気になっちゃうからね{pause 5}・{pause 5}・{pause 5}・
+"007"
+"008"	{0009-0001-0006-0015-0016-0017}
+"009"	{0009-0000-0004-001c-001f}
+"010"	{0009-0001-0006-0029-002c-0030}
+"012"	どーもどーも、{pause 5}{Player name}さん！{pause 20}	{ruby (charSpan 2): さいきん}最近ちょこちょこ　{ruby (charSpan 1): あ}会うだもね！
+"013"	どーもどーも、{pause 5}{Player name}さん！{pause 20}	{ruby (charSpan 2): ちょうし}調子は　どうだなも？
+"014"	あっ！{pause 10}　{Player name}さん！{pause 20}	どーもどーも！
+"015"	どーもどーも、{pause 5}{Player name}さん！{pause 20}	ほんと　よく{ruby (charSpan 1): あ}会うだもね！
+"016"	{Player name}さんも　いつも{ruby (charSpan 1): おそ}遅いよねぇ{Wait for input}	おたがい、{pause 10}{ruby (charSpan 2): けんこう}健康には	{ruby (charSpan 1): き}気をつけようね！{pause 5}　だなも！
+"017"	ああ、{pause 10}{Player name}さん！{pause 20}	そろそろ　{ruby (charSpan 1): く}来る{ruby (charSpan 1): ころ}頃かな～って、{pause 10}	ちょうど{Orange}マスター{Color Reset}と　{ruby (charSpan 1): はな}話してたんだも！{000c-0009-0000}
+"018"	{000c-0002-0000}{000c-0003-0000}{pause 5}{000c-0000-0000}{000c-0007-0000}ごゆっくり{pause 5}・{pause 5}・{pause 5}・{pause 5}
+"019"
+"021"	ところで　{Player name}さん、{pause 10}	お{ruby (charSpan 1): うち}家の{ruby (charSpan 1): す}住み{ruby (charSpan 2): ごこち}心地は　いかがだも？{Wait for input}また　リフォームのご{ruby (charSpan 2): そうだん}相談があれば{pause 5}	いつでも　お{ruby (charSpan 1): みせ}店に{ruby (charSpan 1): き}来てちょうだいね！
+"022"	ボク、{pause 10}{ruby (charSpan 2): しょうばい}商売の{ruby (charSpan 2): けいけん}経験は{ruby (charSpan 1): なが}長いけど	{ruby (charSpan 1): いま}今みたいに　{ruby (charSpan 4): ふどうさんぎょう}不動産業に	{ruby (charSpan 2): せんねん}専念し{ruby (charSpan 1): はじ}始めたのは　{ruby (charSpan 2): さいきん}最近なんだなも{Wait for input}{ruby (charSpan 1): まえ}前の{ruby (charSpan 2): しょうばい}商売も　{ruby (charSpan 1): たの}楽しかったけど、{pause 10}	どうしても　{ruby (charSpan 1): あ}当たり{ruby (charSpan 1): まえ}前になってくると	{ruby (charSpan 1): かた}型に　はまってきちゃってさ{pause 5}・{pause 5}・{pause 5}・{Wait for input}その{ruby (charSpan 1): てん}点、{pause 10}{ruby (charSpan 1): いま}今は　{ruby (charSpan 1): まえ}前の{ruby (charSpan 2): けいけん}経験を{ruby (charSpan 1): い}活かしつつ、{pause 10}	{ruby (charSpan 2): まいにち}毎日が　{ruby (charSpan 2): べんきょう}勉強、{pause 10}{ruby (charSpan 2): べんきょう}勉強で	すっごく{ruby (charSpan 2): しんせん}新鮮なんだなも！
+"023"	ところで　{Player name}さん、{pause 10}	{Orange}まめきち{Color Reset}と{Orange}つぶきち{Color Reset}の　お{ruby (charSpan 1): みせ}店も	ひいきにしてやって　{ruby (charSpan 1): ほ}欲しいだなも{Wait for input}{ruby (charSpan 2): ふたり}二人とも　ボクの{ruby (charSpan 2): だいじ}大事な	{ruby (charSpan 3): まなでし}愛弟子なんだも！{000a-0012-000a-0018-0018-0018-0019-001a}
+"024"	まだまだ　{ruby (charSpan 2): みじゅく}未熟で	{ruby (charSpan 1): いた}至らない{ruby (charSpan 1): てん}点も　あると{ruby (charSpan 1): おも}思うけど、{pause 10}	おおらかな{ruby (charSpan 1): め}目で　{ruby (charSpan 1): み}見てやって{ruby (charSpan 1): ほ}欲しいだなも
+"025"	{ruby (charSpan 1): じつ}実は　ホームセンターに	{ruby (charSpan 2): かいそう}改装する{ruby (charSpan 1): まえ}前に、{pause 10}	{ruby (charSpan 2): そうだん}相談を　{ruby (charSpan 1): う}受けたんだなも{Wait for input}ボクが{ruby (charSpan 1): きず}築き{ruby (charSpan 1): あ}上げた	ビジネスモデルには	ないプランだったんだけど{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Happiness}やっと{ruby (charSpan 2): ふたり}二人が　{ruby (charSpan 2): じぶん}自分たちの{ruby (charSpan 1): かんが}考えで	{ruby (charSpan 2): けいえい}経営を{ruby (charSpan 1): すす}進められるようになって、{pause 10}	{ruby (charSpan 2): ししょう}師匠としても　{ruby (charSpan 3): ひとあんしん}一安心だなも！
+"026"	{ruby (charSpan 1): いま}今や　{ruby (charSpan 2): りっぱ}立派なデパートの	オーナーになって{pause 5}・{pause 5}・{pause 5}・{Wait for input}{ruby (charSpan 1): むかし}昔、{pause 10}ボクのデパートの　1フロアで	{ruby (charSpan 4): ふたりひとくみ}二人一組で　{ruby (charSpan 2): しゅぎょう}修行してたことを{ruby (charSpan 1): おも}思うと、{pause 10}	{ruby (charSpan 3): かんむりょう}感無量だなも！
+"028"	{000c-0001-0000}{000c-0007-0000}あ！{pause 10}　そうだ、{pause 5}{Orange}マスター{Color Reset}！{pause 15}	{ruby (charSpan 1): かえ}帰る{ruby (charSpan 1): とき}時に　コーヒーを3{ruby (charSpan 1): ばい}杯、{pause 10}	テイクアウトしていくだなも{000c-0009-0000}
+"029"	{000c-0002-0000}{000c-0003-0000}かしこまりました{pause 5}・{pause 5}・{pause 5}・{pause 15}	{ruby (charSpan 1): さ}差し{ruby (charSpan 1): い}入れで　ございますか{pause 5}・{pause 5}・{pause 5}・{pause 5}？{000c-0009-0000}
+"030"	{000c-0001-0000}{emote: Happiness}そうなんだも！{000c-0000-0000}{000c-0005-0000}{Wait for input}	{ruby (charSpan 2): した}仕立て{ruby (charSpan 1): や}屋さんの　{ruby (charSpan 3): さんしまい}三姉妹に	{ruby (charSpan 1): も}持ってってあげようと{ruby (charSpan 1): おも}思ってね！{Wait for input}{000c-0001-0000}{emote: Reset}{pause 10}それにしても{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 1): なが}長いこと{ruby (charSpan 1): なか}仲たがいしてた{pause 5}	{ruby (charSpan 2): じじょ}次女の{Orange}ことの{Color Reset}ちゃんが　{ruby (charSpan 1): もど}戻ってきて、{pause 10}	ホントに　{ruby (charSpan 1): よ}良かっただなも！{Wait for input}さすが　{ruby (charSpan 2): いちりゅう}一流ブランドのお{ruby (charSpan 1): みせ}店で	{ruby (charSpan 2): しゅぎょう}修行してただけあって、{pause 10}	センスも　バツグンみたいだしね{Wait for input}{emote: Happiness}ボクの　スーツなんかも、{pause 5}	{ruby (charSpan 1): じつ}実は　{Orange}ことの{Color Reset}ちゃんに	{ruby (charSpan 2): みた}見立ててもらったんだなも！
+"031"	{000c-0001-0000}{000c-0007-0000}あ！{pause 10}　そうだ、{pause 5}{Orange}マスター{Color Reset}！{pause 15}	{ruby (charSpan 1): かえ}帰る{ruby (charSpan 1): とき}時に　コーヒーを2{ruby (charSpan 1): はい}杯、{pause 10}	テイクアウトしていくだなも{000c-0009-0000}
+"032"	{000c-0002-0000}{000c-0003-0000}かしこまりました{pause 5}・{pause 5}・{pause 5}・{pause 15}	{ruby (charSpan 1): さ}差し{ruby (charSpan 1): い}入れで　ございますか{pause 5}・{pause 5}・{pause 5}・{pause 5}？{0009-0001-0006-0021-0022-0023}{000c-0009-0000}
+"033"	{000c-0001-0000}{emote: Happiness}そうなんだも！{000c-0000-0000}{000c-0005-0000}{Wait for input}	{ruby (charSpan 1): アール}R・パーカーズの{ruby (charSpan 2): ふうふ}夫婦に	{ruby (charSpan 1): も}持ってってあげようと{ruby (charSpan 1): おも}思ってね！{Wait for input}{000c-0001-0000}{emote: Reset}{pause 10}それにしても{pause 8}・{pause 8}・{pause 8}・{Wait for input}あの{ruby (charSpan 2): ふたり}二人は{pause 5}	ホントにいつも　{ruby (charSpan 1): なか}仲が{ruby (charSpan 1): よ}良くて{pause 10}	{ruby (charSpan 2): ほほえ}微笑ましいだなも{Wait for input}あの{ruby (charSpan 2): ふたり}二人を　{ruby (charSpan 1): み}見てると、{pause 10}	{ruby (charSpan 2): けっこん}結婚もいいなって　{ruby (charSpan 1): おも}思っちゃうんだも{Wait for input}	まあ{ruby (charSpan 1): いま}今の{ruby (charSpan 1): ところ}所{pause 5}　{ruby (charSpan 2): よてい}予定はないけど{pause 5}・{pause 5}・{pause 5}・
+"034"	{000c-0001-0000}{emote: Happiness}そうなんだも！{000c-0000-0000}{000c-0005-0000}{Wait for input}	{ruby (charSpan 3): はくぶつかん}博物館の　{ruby (charSpan 2): ふたり}二人に	{ruby (charSpan 1): も}持ってってあげようと{ruby (charSpan 1): おも}思ってね！{Wait for input}{000c-0001-0000}{emote: Reset}ホントは　{ruby (charSpan 2): ひるま}昼間に{ruby (charSpan 1): さ}差し{ruby (charSpan 1): い}入れた{ruby (charSpan 1): ほう}方が{pause 10}	あの{ruby (charSpan 2): ふたり}二人にとっては　いい{ruby (charSpan 3): ねむけざ}眠気覚ましに	なるんだろうけど{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Laughter}ま、{pause 10}これぐらいの{ruby (charSpan 2): じかん}時間の{ruby (charSpan 1): ほう}方が	お{ruby (charSpan 1): きゃく}客さんも{ruby (charSpan 1): すく}少ないだろうから、{pause 10}	{ruby (charSpan 2): ひといき}一息つきやすいだなも！{pause 5}{emote: Happiness}
+"035"	{000c-0001-0000}{emote: Happiness}そうなんだも！{000c-0000-0000}{000c-0005-0000}{Wait for input}	{Orange}まめきち{Color Reset}と　{Orange}つぶきち{Color Reset}に	{ruby (charSpan 1): も}持ってってあげようと{ruby (charSpan 1): おも}思ってね！{000a-0012-000a-0024-0024-0024-0024-0025}
+"036"	{000c-0001-0000}{emote: Reset}{pause 10}それにしても{pause 8}・{pause 8}・{pause 8}・{Wait for input}あの{ruby (charSpan 1): ちい}小さかった{ruby (charSpan 2): ふたり}二人が{pause 5}	{ruby (charSpan 1): いま}今や　コーヒーを{ruby (charSpan 1): の}飲むんだもんね{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Laughter}{ruby (charSpan 1): とき}時が{ruby (charSpan 1): た}経つのは　{ruby (charSpan 1): はや}早いだなも！{pause 15}	あはは！{pause 10}{emote: Happiness}
+"037"	{000c-0001-0000}{emote: Reset}ああ、{pause 10}あと　それと{pause 10}	{ruby (charSpan 3): えんげいてん}園芸店の　{Orange}レイジ{Color Reset}くんにも{pause 5}	{ruby (charSpan 1): なに}何かあった{ruby (charSpan 1): ほう}方がいいだもね{Wait for input}あの{ruby (charSpan 1): こ}子は　コーヒーは	{ruby (charSpan 1): の}飲めなさそうだから{pause 5}・{pause 5}・{pause 5}・{pause 15}	ミルクだけ　お{ruby (charSpan 1): ねが}願いするだなも！
+"038"
+"039"
+"041"	{000c-0001-0000}{000c-0007-0000}そういえば　{Orange}マスター{Color Reset}、{pause 15}	{Orange}ぺりみ{Color Reset}ちゃんは　{ruby (charSpan 2): さいきん}最近も	{ruby (charSpan 2): かおだ}顔出してるだなも？{000c-0009-0000}
+"042"	{000c-0002-0000}{000c-0003-0000}・{pause 5}・{pause 5}・{pause 5}{000c-0000-0000}{000c-0007-0000}ええ、{pause 10}	{Orange}たぬきち{Color Reset}さんが　{ruby (charSpan 1): こ}来られるより	もう{ruby (charSpan 1): すこ}少し{ruby (charSpan 1): はや}早い、{pause 10}{ruby (charSpan 3): しゅっきんまえ}出勤前の{ruby (charSpan 2): じかん}時間に{pause 5}・{pause 5}・{pause 5}・{000c-0009-0000}
+"043"	{000c-0001-0000}{emote: Happiness}そうなんだもね！{000c-0000-0000}{000c-0005-0000}{Wait for input}	{ruby (charSpan 2): あいか}相変わらず　{ruby (charSpan 2): しごと}仕事は	がんばってるみたいだなもね{Wait for input}{000c-0001-0000}{emote: Reset}{ruby (charSpan 2): かのじょ}彼女、{pause 10}{ruby (charSpan 1): くち}口は{ruby (charSpan 1): わる}悪いけど	なんだかんだで　{ruby (charSpan 1): なが}長いこと{ruby (charSpan 2): やきん}夜勤でがんばって{pause 10}	{ruby (charSpan 3): まじめ}真面目だよねぇ{Wait for input}とにかく、{pause 10}{ruby (charSpan 2): こんど}今度　お{ruby (charSpan 1): みせ}店に{ruby (charSpan 1): き}来たら{pause 5}	よろしく{ruby (charSpan 1): い}言っといて　{ruby (charSpan 1): ほ}欲しいだなも！
+"044"	{000c-0001-0000}{000c-0007-0000}そういえば　{Orange}マスター{Color Reset}、{pause 15}	{ruby (charSpan 1): まえ}前の{ruby (charSpan 2): そんちょう}村長の　{Orange}コトブキ{Color Reset}さんも	たまに　ここに{ruby (charSpan 1): く}来るって{ruby (charSpan 1): き}聞いただなも{000c-0009-0000}
+"045"	{000c-0002-0000}{000c-0003-0000}・{pause 5}・{pause 5}・{pause 5}{000c-0000-0000}{000c-0007-0000}ええ、{pause 10}	{ruby (charSpan 2): だいたい}大体　いつも{ruby (charSpan 3): ごぜんちゅう}午前中に	{ruby (charSpan 1): こ}来られますね{pause 5}・{pause 5}・{pause 5}・{0009-0000-0004-002e-002f}{000c-0009-0000}
+"046"	{000c-0001-0000}{emote: Happiness}そうなんだもね！{000c-0000-0000}{000c-0005-0000}{Wait for input}	{ruby (charSpan 2): いんたい}引退したといっても	なんだかんだで　{ruby (charSpan 1): き}気になるんだろうねぇ{Wait for input}ボクも　{Orange}まめきち{Color Reset}と{Orange}つぶきち{Color Reset}の{ruby (charSpan 2): ふたり}二人は	いまだに{ruby (charSpan 2): しんぱい}心配になって{pause 10}	つい{ruby (charSpan 2): ようす}様子を　{ruby (charSpan 1): み}見に{ruby (charSpan 1): い}行ってしまうだなも
+"047"	{000c-0001-0000}{emote: Happiness}そうなんだもね！{000c-0000-0000}{000c-0005-0000}{Wait for input}	{ruby (charSpan 2): げんき}元気そうなら　{ruby (charSpan 2): あんしん}安心しただなも！{Wait for input}それにしても　あの{ruby (charSpan 1): ひと}人、{pause 10}	{ruby (charSpan 2): げんえき}現役の{ruby (charSpan 1): とき}時から　{ruby (charSpan 1): みなみ}南の{ruby (charSpan 1): しま}島が{ruby (charSpan 1): す}好きで	バカンスに{ruby (charSpan 1): い}行ったりしてたけど{pause 5}・{pause 5}・{pause 5}・{Wait for input}とうとう　{ruby (charSpan 1): す}住みついちゃったなんて、{pause 10}	ホントに　{ruby (charSpan 2): だいす}大好きだったんだろうねぇ{Wait for input}{emote: Happiness}ボクもいつか　リゾートの{ruby (charSpan 2): ぶっけん}物件なんかも	{ruby (charSpan 1): と}取り{ruby (charSpan 1): あつか}扱ったりして、{pause 10}	{ruby (charSpan 2): しょうばい}商売の{ruby (charSpan 1): はば}幅を　{ruby (charSpan 1): ひろ}広げたいだなも！
+"048"	{000c-0001-0000}{000c-0007-0000}そういえば　{Orange}マスター{Color Reset}、{pause 15}	{ruby (charSpan 2): やくば}役場の　{Orange}しずちゃん{Color Reset}も	{ruby (charSpan 2): かおだ}顔出したりするだなも？{000c-0009-0000}
+"049"	{000c-0002-0000}{000c-0003-0000}・{pause 5}・{pause 5}・{pause 5}{000c-0000-0000}{000c-0007-0000}ええ、{pause 10}	とはいっても　{ruby (charSpan 3): きほんてき}基本的には	テイクアウトされてますが{pause 5}・{pause 5}・{pause 5}・{000c-0009-0000}
+"050"	{000c-0001-0000}そっかぁ{pause 5}・{pause 5}・{pause 5}・{pause 15}	{000c-0000-0000}{000c-0005-0000}{ruby (charSpan 2): まいにち}毎日　{ruby (charSpan 1): いそが}忙しく	がんばってるんだなもね！{Wait for input}じゃあ、{pause 10}{ruby (charSpan 2): こんど}今度　お{ruby (charSpan 1): みせ}店に{ruby (charSpan 1): き}来たら{pause 5}	ボクからって{ruby (charSpan 1): い}言って、{pause 10}	{ruby (charSpan 2): いっぱい}一杯　ごちそうしてあげて{ruby (charSpan 1): ほ}欲しいだなも！{000c-0009-0000}
+"051"	{000c-0002-0000}かしこまりました{pause 5}・{pause 5}・{pause 5}・

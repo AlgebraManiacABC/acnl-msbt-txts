@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Daydreaming}
-"002"	{emote: Shyness}
-"003"	{emote: Thought}
-"004"	{emote: Greetings}
-"005"	{emote: Daydreaming}
-"006"	{emote: Shyness}
-"007"	ねぇねぇ～{pause 20}
-"008"	{emote: Distress}
-"009"	{emote: Happiness}
-"010"	
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Happiness}
-"013"	{emote: Curious}
-"014"	{emote: Inspired}
-"015"	{emote: Distress}
+"001"	{emote: Daydreaming}さいきん　キミをみてたら{pause 20}	{ruby (charSpan 1): かお}顔が{ruby (charSpan 1): あか}赤くなってくの	わかるんだぁ～{Wait for input}{emote: Bashful}{ruby (charSpan 1): いま}今だって、{pause 20}	おフロに　{ruby (charSpan 1): はい}入ってるときみたいに	{ruby (charSpan 1): あか}赤くなってるでしょ～？{Wait for input}{emote: Distress}ボク{pause 20}　このままじゃ、{pause 20}	ゆで{Villager's name (orange)}に	なっちゃうかもぉ、{pause 8}{catchphrase}
+"002"	{emote: Shyness}ねぇ～{pause 20}　{Player nickname (green)}{0005-000d-0000}って{pause 20}	やっぱり　オトナっぽい{ruby (charSpan 1): ひと}人が	すきなんだよねぇ？{Wait for input}{emote: Soft Smile}あぁ～{pause 20}　これから、	コーヒーのみに{ruby (charSpan 1): い}行こうかなぁ～{Wait for input}{emote: Bashful}えへへ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): いま}今の　オトナっぽかったぁ～？
+"003"	{emote: Thought}なんだか　{ruby (charSpan 2): きょう}今日はボク、{pause 20}	キミに　とっても	イジワルしたい{ruby (charSpan 2): きぶん}気分なんだぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}でも　キライだからじゃ	ないんだよぉ～？{pause 30}	なんでだろぉ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Bashful}もしかしたら{pause 20}　もっと　もっと{pause 20}	キミと　なかよくしたいから	なのかなぁ？
+"004"	{emote: Greetings}やぁ、{Player nickname (green)}！{Wait for input}	{emote: Laughter}えへへ～{pause 20}	よびすてで　よんでみちゃったぁ～{Wait for input}{emote: Happiness}すっごく　なかのいい　おともだちに{pause 20}	えんりょは　いらないもんねぇ～{Wait for input}これからも、{pause 20}	もっと{pause 20}　もっと{pause 20}	なかよくしてねぇ、{pause 8}{catchphrase}
+"005"	{emote: Daydreaming}おともだちって{pause 8}・{pause 8}・{pause 8}・{pause 20}	いいもんだよねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}{Player nickname (green)}{0005-000d-0000}と　お{ruby (charSpan 1): はな}話ししてると、	そう{ruby (charSpan 1): おも}思うんだ～
+"006"	{emote: Shyness}なんだか　ボクとキミって、{pause 20}	ず～っと　むかしから	おともだち　だったみたいじゃない？{Wait for input}{emote: Happiness}キミもそう{ruby (charSpan 1): おも}思ってくれてたら	うれしいなぁ
+"007"	ねぇねぇ～{pause 20}	りゆうは　ないんだけど、{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は　キミに　{ruby (charSpan 1): なに}何かを	あげなきゃならない　{ruby (charSpan 1): き}気がして{pause 8}・{pause 8}・{pause 8}・{Wait for input}	コレ　うけとってほしいんだぁ～！
+"008"	{emote: Distress}やぁ、{pause 20}{Player nickname (green)}{0005-000d-0000}～{pause 20}	なんだろぉ{pause 20}　{ruby (charSpan 1): て}手がかってにうごいて{pause 8}・{pause 8}・{pause 8}・{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}プ、{pause 20}プ	{emote: Star Yell}{Text size 100%}プレゼント　フォ～　ユ～！{Text size 100%}
+"009"	{emote: Happiness}やぁ～、{Player nickname (green)}{0005-000d-0000}{pause 20}	{ruby (charSpan 1): いま}今から　クイズを{ruby (charSpan 1): だ}出すよぉ！{Wait for input}{ruby (charSpan 1): あ}当れば　ボクの	たからもの　あげちゃうねぇ{Wait for input}{emote: Greetings}さぁ～　クイズです！{pause 20}	ボクが　{ruby (charSpan 1): いま}今　{ruby (charSpan 1): た}食べたいのは	どれでしょ～？{0008-0004-0018-000e-0000-000e-0000-000e-0000-000e-0000-000e-0000-000e-0000}	{0005-0013-0002-0000}	{0005-0013-0002-0001}	{0005-0013-0002-0002}	{0005-0010-0002-0000}	{0005-0010-0002-0001}	{0005-0010-0002-0002}
+"010"
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Happiness}{ruby (charSpan 2): たいせつ}大切に　つかってくれると、	うれしいよぉ、{pause 8}{catchphrase}
+"013"	{emote: Curious}なんでだろぉ～？{pause 20}	どうしても　{0011-0003-0002-0000}	あげたい{ruby (charSpan 2): きぶん}気分だったんだぁ～
+"014"	{emote: Inspired}{0007-000a-0000}ピ、{pause 20}ピンポ～ン！{Wait for input}{emote: Joy}{Player nickname (green)}{0005-000d-0000}には、	{0011-0003-0002-0000}を	さしあげま～す！
+"015"	{emote: Distress}{ruby (charSpan 1): なん}何で　わかっちゃったのぉ～？{pause 20}	{Player nickname (green)}{0005-000d-0000}、ラッキーだねぇ～

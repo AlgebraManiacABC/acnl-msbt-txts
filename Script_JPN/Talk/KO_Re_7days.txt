@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Surprise}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
+"001"	{emote: Soft Smile}おっ！{pause 20}	{ruby (charSpan 1): ひさ}久しぶりだな、{Player nickname (green)}！{Wait for input}	{emote: Happiness}{ruby (charSpan 1): ほか}他のことで　{ruby (charSpan 1): いそが}忙しかったのかい？！
+"002"	{emote: Surprise}あっ、{Player nickname (green)}！{Wait for input}{emote: Reset}しばらく{ruby (charSpan 1): み}見ねぇから	{ruby (charSpan 1): き}気にしてたんだぜ？！{pause 30}	{emote: Happiness}{ruby (charSpan 2): げんき}元気にしてたのかい？{pause 20}　{catchphrase}？
+"003"	{emote: Happiness}よぉ、{Player nickname (green)}！{Wait for input}	しばらく　{ruby (charSpan 1): かお}顔　{ruby (charSpan 1): み}見なかったが{pause 20}	{emote: Reset}{ruby (charSpan 2): げんき}元気にしてたのかい？{Wait for input}{ruby (charSpan 1): むら}村のみんなも	{emote: Happiness}{ruby (charSpan 1): き}気にしてた　みたいだぜ？{pause 20}	{catchphrase}？
+"004"	{emote: Happiness}おぉ、{Player nickname (green)}！{pause 20}	{ruby (charSpan 1): ひさ}久しぶりじゃねぇか？！{Wait for input}オメェ　まさか　オレにかくれて{pause 20}	{emote: Glare}{ruby (charSpan 2): じぶん}自分だけ　{ruby (charSpan 1): たの}楽しいこと{pause 8}	やってるんじゃ　ねぇだろうな？　
+"005"	{emote: Happiness}おっ、{Player nickname (green)}！{pause 30}	なんだか　{ruby (charSpan 1): ひさ}久しぶりだなぁ？！{Wait for input}{emote: Thought}オメェと　{ruby (charSpan 2): さいご}最後に{ruby (charSpan 1): はな}話したのが	あのときだから{pause 8}・{pause 8}・{pause 8}・{pause 20}	1{ruby (charSpan 2): しゅうかん}週間ぶり、{pause 20}{emote: Reset}いや、{pause 20}もっとか？{Wait for input}{emote: Happiness}とにかく　オメェ、{pause 20}	ちょっと{ruby (charSpan 1): み}見ねぇうちに	{ruby (charSpan 2): おとな}大人っぽくなったな？！{Wait for input}・{pause 8}・{pause 8}・{pause 8}って、{pause 15}んなワケねぇか？！{pause 20}	{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}
+"006"	{emote: Happiness}おう、{Player nickname (green)}！{pause 30}	オメェと{ruby (charSpan 1): はな}話すのは　1{ruby (charSpan 2): しゅうかん}週間ぶり、{pause 15}	いや、もっとかな？	{emote: Reset}このまま　{ruby (charSpan 1): し}知らん{ruby (charSpan 1): かお}顔されたら{pause 20}	{emote: Anger}さすがのオレでも	へこんじまうぞ、{pause 15}{emote: Happiness}おい！

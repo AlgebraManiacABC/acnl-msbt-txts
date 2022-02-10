@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Glare}
-"002"	{emote: Distress}
-"003"	{emote: Shyness}
-"004"	{emote: Distress}
+"001"	{emote: Glare}キミって　けっこう	さびしがりやさん　なんだねぇ{Wait for input}	{emote: Curious}おつぎは　どんなご{ruby (charSpan 1): よう}用？　{pause 8}{catchphrase}？
+"002"	{emote: Distress}うわぁ～{pause 20}	またまた　{Player nickname (green)}{0005-000d-0000}だぁ～{pause 40}	こんどは　どんなご{ruby (charSpan 1): よう}用？　{pause 8}{catchphrase}？
+"003"	{emote: Shyness}{Player nickname (green)}{0005-000d-0000}{pause 20}	そんなに　いそいで　{ruby (charSpan 1): はな}話しかけなくても、	ボクは　にげたりしないよぉ、{pause 8}{catchphrase}{Wait for input}{emote: Curious}それで　どんな　ご{ruby (charSpan 1): よう}用なのぉ？
+"004"	{emote: Distress}{Player nickname (green)}{0005-000d-0000}、おちついてぇ～{pause 20}	ゆ～{pause 20}っくり{pause 20}　{ruby (charSpan 1): はな}話して	ほしいなぁ、{pause 8}{catchphrase}

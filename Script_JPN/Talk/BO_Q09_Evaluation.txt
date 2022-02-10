@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Happiness}
-"003"	{emote: Disbelief}
-"004"	{emote: Joy}
-"005"	{emote: Glee}
-"006"	{emote: Sadness}
-"007"	{emote: Happiness}
-"008"	{emote: Sigh}
-"009"	{emote: Shocked}
-"010"	{emote: Surprise}
-"011"	{emote: Worry}
-"012"	{emote: Laughter}
+"001"	{emote: Alarmed}あ、{pause 20}もう{ruby (charSpan 1): かえ}帰っちゃうんだ～{pause 40}	{emote: Happiness}さいごに　ボクのおへやに	{ruby (charSpan 2): てんすう}点数つけてってよぉ！{Wait for input}さぁ～！{pause 20}	ボクのおへやは　{ruby (charSpan 2): なんてん}何点～？{000f-0001-0006-0000-0000-0000}	100{ruby (charSpan 1): てん}点！	50{ruby (charSpan 1): てん}点	10{ruby (charSpan 1): てん}点
+"002"	{emote: Happiness}あれぇ？{pause 20}　もう{ruby (charSpan 1): かえ}帰っちゃうのぉ？{pause 40}	じゃあ　さいごに、{pause 20}	{emote: Greetings}ボクからしつもん～！{pause 40}	{emote: Anger}このおへや{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}どうだったぁ～？{000f-0001-0006-0000-0000-0000}	サイコー	まあまあ	イマイチ
+"003"	{emote: Disbelief}{0007-000b-0000}えぇ～？！{pause 20}　もう{ruby (charSpan 1): かえ}帰っちゃうの？！{pause 40}	{emote: Glare}ボクのサービスは	これからなのになぁ～{Wait for input}{emote: Inspired}{0007-000b-0000}そうだ！{pause 20}	ひとつ　{ruby (charSpan 1): かえ}帰る{ruby (charSpan 1): まえ}前に{ruby (charSpan 1): き}聞いていい？{Wait for input}	{emote: Reset}ボクん{ruby (charSpan 1): ち}家{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Curious}どうだったぁ？{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"004"	{emote: Joy}わぁ～い！{pause 20}	やっぱり　{Player nickname (green)}{0005-000d-0000}	わかってるなぁ～{Wait for input}ボクとキミって	シュミが{ruby (charSpan 1): あ}合うんだねぇ、{pause 8}{catchphrase}
+"005"	{emote: Glee}えへへ～　ありがとぉ！{pause 20}	わるくないってことだよね！{pause 40}	よかったよぉ、{pause 8}{catchphrase}
+"006"	{emote: Sadness}そっかぁ{pause 8}・{pause 8}・{pause 8}・{pause 40}	もうちょっと　かっこいいへやを	めざして　がんばるよぉ、{pause 8}{catchphrase}
+"007"	{emote: Happiness}えへへ～{pause 20}	ほめてくれて　ありがとぉ～{pause 40}	ボク　じしんがついたよ！{Wait for input}{emote: Pride}ハッピーホームアカデミーのひょうか、{pause 20}	{ruby (charSpan 1): たの}楽しみになっちゃったぁ、{pause 8}{catchphrase}
+"008"	{emote: Sigh}そっかぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Disagreement}でも　それって、{pause 20}	オシイってことだよね？{Wait for input}{emote: Anger}よぉ～っし！{pause 20}	もうちょっと　ガンバって、	つぎは　キミにみとめてもらうんだぁ～
+"009"	{emote: Shocked}そ、{pause 20}そんな　ストレートに{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Glare}まぁ　ボクのこだわりは、	ちょっぴり　マニアックだからねぇ！{Wait for input}{emote: Laughter}むしろ　ほめことばだと{ruby (charSpan 1): おも}思って、	くじけないよぉ{pause 20}　ボク！{pause 40}{emote: Soft Smile}
+"010"	{emote: Surprise}ほんと～？！{pause 20}	{emote: Reset}しょうじき　じしんなかったから、{pause 20}	{emote: Soft Smile}ほめてくれて　うれしいよ～{Wait for input}キミって　やさしいねぇ～{pause 20}	ありがとぉ～、{pause 8}{catchphrase}
+"011"	{emote: Worry}そっか～{pause 20}	まあまあかぁ～{Wait for input}{emote: Happiness}でも{pause 20}　ちょっとでも	{ruby (charSpan 1): たの}楽しんでもらえて	よかったよぉ、{pause 8}{catchphrase}
+"012"	{emote: Laughter}えへへ～{pause 20}	そこまで　コテンパンに{ruby (charSpan 1): い}言われちゃうと、	ぎゃくに　わらっちゃうよぉ、{pause 8}{catchphrase}{pause 40}{emote: Soft Smile}

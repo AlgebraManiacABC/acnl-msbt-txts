@@ -1,25 +1,25 @@
 == 0 ==
-"001"	
-"002"	{000a-001f-001a-00-07-00-07-00-05-00-05-00-05-00-05-00-05-00-05-00-05-00-09-00-09-00-0c-00-ffffffcd}
-"003"	{000a-001f-001a-00-07-00-07-00-06-00-06-00-06-00-06-00-06-00-06-00-06-00-0a-00-0a-00-0d-00-ffffffcd}
-"004"	
-"005"	{0009-0000-0004-15-00-16-00}
-"006"	{0009-0000-0004-17-00-18-00}
-"007"	{0009-0002-0008-0e-00-0f-00-13-00-14-00}
-"008"	
-"009"	{0009-0001-0006-10-00-15-00-16-00}
-"010"	{0009-0001-0006-10-00-17-00-18-00}
-"011"	
-"012"	{0009-0002-0008-10-00-11-00-15-00-16-00}
-"013"	{0009-0002-0008-10-00-11-00-17-00-18-00}
-"014"	ここの　{ruby (charSpan 1): すい}水そうには{pause 20}
-"015"	{emote: Sheepishness}
-"016"	{emote: Joy}
-"017"	{emote: Happiness}
-"018"	
-"019"	{emote: Love}
-"020"	{emote: Agreement}
-"021"	おサカナさんたちは、	{emote: Curious}
-"022"	{emote: Daydreaming}
-"023"	{emote: Pride}
-"024"	{emote: Anger}
+"001"
+"002"	{000a-001f-001a-0700-0700-0500-0500-0500-0500-0500-0500-0500-0900-0900-0c00-cd00}
+"003"	{000a-001f-001a-0700-0700-0600-0600-0600-0600-0600-0600-0600-0a00-0a00-0d00-cd00}
+"004"
+"005"	{0009-0000-0004-0015-0016}
+"006"	{0009-0000-0004-0017-0018}
+"007"	{0009-0002-0008-000e-000f-0013-0014}
+"008"
+"009"	{0009-0001-0006-0010-0015-0016}
+"010"	{0009-0001-0006-0010-0017-0018}
+"011"
+"012"	{0009-0002-0008-0010-0011-0015-0016}
+"013"	{0009-0002-0008-0010-0011-0017-0018}
+"014"	ここの　{ruby (charSpan 1): すい}水そうには{pause 20}	たくさんの　おサカナさんが	{ruby (charSpan 1): はい}入るよていなんだぁ～{Wait for input}{emote: Daydreaming}あんなサカナや{pause 20}	こんなサカナ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): み}見てみたいよぉ、{pause 8}{catchphrase}
+"015"	{emote: Sheepishness}{ruby (charSpan 1): すい}水そう、{pause 20}スカスカだねぇ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Agreement}およぐには　ちょうど　よさそうだけど、{pause 20}	{emote: Worry}やっぱり　ボクは　たくさん	おサカナさんが　{ruby (charSpan 1): み}見たいよぉ、{pause 8}{catchphrase}
+"016"	{emote: Joy}スゴイよねぇ！	この　おサカナのしゅるい！{pause 40}	{emote: Reset}{ruby (charSpan 1): いま}今から　ボク{pause 20}　{ruby (charSpan 1): かぞ}数えてみるねぇ～{Wait for input}1{pause 20}　2{pause 20}　3{pause 20}　4{pause 20}　5{pause 20}	{emote: Shocked}{0007-000b-0000}あぁっ！{Wait for input}{emote: Distress}うごいて　わかんなくなっちゃった～！
+"017"	{emote: Happiness}{Town name (pink)}{ruby (charSpan 1): むら}村、{pause 20}	じまんの{ruby (charSpan 1): すい}水そう　だよぉ～！{Wait for input}{emote: Agreement}このあたりで　とれる	サカナや　{ruby (charSpan 1): うみ}海のいきもの、{pause 20}	ぜぇ～んぶ　ここに　そろってるんだぁ～{Wait for input}{emote: Joy}ボク{pause 20}　この{ruby (charSpan 1): むら}村にすんでて	ホントによかったぁ、{pause 8}{catchphrase}
+"018"
+"019"	{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	なんだか　このおへやって	ム～ディ～　だよねぇ
+"020"	{emote: Agreement}ボクも　おサカナがつれたら{pause 20}	きぞうしたいな{pause 8}って	{ruby (charSpan 1): おも}思うんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Mistaken}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	なかなか　つれないんだよねぇ、{pause 8}{catchphrase}
+"021"	おサカナさんたちは、	{emote: Curious}ボクらのこと　どう{ruby (charSpan 1): み}見えてるのかなぁ？{Wait for input}{emote: Laughter}もしかしたら{pause 20}	{ruby (charSpan 1): あし}足で{ruby (charSpan 1): ある}歩いてるなんて　へんなの～って、{pause 20}	{ruby (charSpan 1): おも}思ってるかもねぇ～
+"022"	{emote: Daydreaming}こうやって　ライトを{ruby (charSpan 1): あ}当てられた	おサカナさんたちって、{pause 20}	すっごく　キレイだねぇ～{Wait for input}{emote: Flourish}ボクも　ライトアップしたら、	キレイに　{ruby (charSpan 1): み}見えるかなぁ～？
+"023"	{emote: Pride}えへへ～{pause 20}	おっきな　{ruby (charSpan 1): すい}水そう！{pause 40}	かっこいいでしょぉ～？{Wait for input}{emote: Shocked}えぇ～？！{pause 20}	キミの{ruby (charSpan 1): むら}村にもあるのぉ？{Wait for input}	{emote: Sadness}なぁ～んだ{pause 8}・{pause 8}・{pause 8}・
+"024"	{emote: Anger}ここでおよいじゃ　ダメなんだよぉ？{Wait for input}	{emote: Happiness}それが　{Town name (pink)}{ruby (charSpan 1): むら}村の	ルールなんだぁ、{pause 8}{catchphrase}

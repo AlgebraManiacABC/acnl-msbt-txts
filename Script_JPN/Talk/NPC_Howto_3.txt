@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{000c-0002-0000}
-"003"	{000c-0001-0000}
-"004"	{000c-0002-0000}
-"005"	{000c-0001-0000}
-"006"	{000c-0002-0000}
-"007"	{000c-0001-0000}
-"008"	{000c-0002-0000}
-"009"	{000c-0002-0000}
-"010"	{000c-0001-0000}
-"011"	{000a-0012-000a-12-00-13-00-14-00-15-00-16-00}
-"012"	{pause 5}
-"013"	{emote: Happiness}
-"014"	{pause 8}
-"015"	うちは　{ruby (charSpan 2): かぐ}家具やアイテムの{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取りと、{pause 20}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{000c-0001-0000}
-"020"	{000c-0001-0000}
-"021"	{000c-0001-0000}
-"022"	{000c-0001-0000}
-"023"	{emote: Soft Smile}
-"024"	{000c-0001-0000}
+"001"	{emote: Happiness}{Orange}リサ{Color Reset}さん、{pause 10}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取り　お{ruby (charSpan 1): ねが}願いしまーす！{000c-0009-0000}
+"002"	{000c-0002-0000}{emote: Happiness}あら、{pause 10}いらっしゃ～い！{pause 20}	{ruby (charSpan 2): きょう}今日は{emote: Curious}　{ruby (charSpan 1): なに}何を{ruby (charSpan 1): も}持ってきてくれたの？{000c-0009-0000}
+"003"	{000c-0001-0000}はい、{pause 10}このラジカセに　なりまーす！{000c-0009-0000}
+"004"	{000c-0002-0000}{emote: Happiness}わかったわ！{pause 30}	{emote: Soft Smile}それじゃ　{Blue}{0004-000c-0002-0000}ベル{Color Reset}で{pause 8}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうわね！{Wait for input}{emote: Reset}それか、{pause 10}{ruby (charSpan 2): じゆう}自由に{ruby (charSpan 2): ねだん}値段をつけて{pause 10}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): て}手が{ruby (charSpan 1): み}見つかるまで　{ruby (charSpan 1): なら}並べておくことも	できるけど{pause 8}・{pause 8}・{pause 8}・？{000c-0009-0000}
+"005"	{000c-0001-0000}{emote: Happiness}あ、{pause 10}いえいえ！{pause 10}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取りで{ruby (charSpan 2): けっこう}結構です！{Wait for input}いつものとおり、{pause 10}ウチの{ruby (charSpan 1): みせ}店に	お{ruby (charSpan 2): きゃくさま}客様が　{ruby (charSpan 1): も}持ちこまれたものを	{ruby (charSpan 1): も}持ってきただけですから！{000c-0009-0000}
+"006"	{000c-0002-0000}{emote: Happiness}あら！{pause 10}　それなら{ruby (charSpan 2): きょう}今日は	{ruby (charSpan 2): ふだん}普段の{ruby (charSpan 1): ばい}倍の　{Blue}{0004-000c-0002-0000}ベル{Color Reset}で{pause 8}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうわよ！	{emote: Reset}それか、{pause 10}{ruby (charSpan 2): じゆう}自由に{ruby (charSpan 2): ねだん}値段をつけて{pause 10}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): て}手が{ruby (charSpan 1): み}見つかるまで　{ruby (charSpan 1): なら}並べておくことも	できるけど{pause 8}・{pause 8}・{pause 8}・？{000c-0009-0000}
+"007"	{000c-0001-0000}{pause 5}{emote: Alarmed}{pause 10}あっ、{pause 8}そっか！{pause 20}	{emote: Bashful}{ruby (charSpan 1): おもて}表の{Blue}ボード{Color Reset}で　{Blue}{ruby (charSpan 5): こうがくかいとりひん}高額買取品{Color Reset}の	チェックするの{pause 5}　{ruby (charSpan 1): わす}忘れてました！	{emote: Reset}それなら{pause 5}・{pause 5}・{pause 5}・{pause 10}	というワケでも　ないですけど、{pause 10}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取りで　お{ruby (charSpan 1): ねが}願いしまーす！{Wait for input}{emote: Happiness}いつものとおり、{pause 10}ウチの{ruby (charSpan 1): みせ}店に	お{ruby (charSpan 2): きゃくさま}客様が　{ruby (charSpan 1): も}持ちこまれたものを	{ruby (charSpan 1): も}持ってきただけですから！{000c-0009-0000}{000c-0009-0000}
+"008"	{000c-0002-0000}{emote: Happiness}ええ、{pause 10}わかったわ
+"009"	{000c-0002-0000}{emote: Happiness}いつも　ありがとう{Wait for input}	おかげで　たくさんの{ruby (charSpan 1): もの}物が	リサイクルできて{pause 5}　ウチも{ruby (charSpan 1): たす}助かるわ{Wait for input}{emote: Reset}また　そちらのお{ruby (charSpan 1): みせ}店に	{ruby (charSpan 1): も}持ちこまれた{ruby (charSpan 1): もの}物が　あったら	いつでも　{ruby (charSpan 1): も}持ってきてちょうだいね{000c-0009-0000}
+"010"	{000c-0001-0000}{emote: Alarmed}{pause 5}あっ！{pause 10}	どうも　お{ruby (charSpan 1): ま}待たせしました！{Wait for input}ボクはこれで　{ruby (charSpan 2): しつれい}失礼しますが{pause 5}・{pause 5}・{pause 5}・{pause 10}	またウチの{ruby (charSpan 1): みせ}店にも　{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物に	{ruby (charSpan 1): き}来てくださいねー！{pause 20}　{Text size 75%}だなも！{Text size 100%}{000c-0009-0000}
+"011"	{000a-0012-000a-0012-0013-0014-0015-0016}
+"012"	{pause 5}{emote: Alarmed}{pause 10}あら{pause 5}　{Player name}さん、{pause 20}	{emote: Happiness}いらっしゃ～い！{Wait for input}	ゆっくりしていって　ちょうだいね～
+"013"	{emote: Happiness}お{ruby (charSpan 1): ま}待たせしちゃって{pause 5}	ごめんなさいね～{Wait for input}リサイクルのお{ruby (charSpan 1): みせ}店、{pause 15}	{Blue}{ruby (charSpan 1): アール}R・パーカーズ{Color Reset}へ　ようこそ！
+"014"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{pause 10}あら{pause 10}　あなたは	もしかして、{pause 15}	{ruby (charSpan 1): あたら}新しい{emote: Curious}　{ruby (charSpan 2): そんちょう}村長さん？{Wait for input}{emote: Joy}わざわざ　{ruby (charSpan 1): き}来てくださって{pause 5}	うれしいわ～
+"015"	うちは　{ruby (charSpan 2): かぐ}家具やアイテムの{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取りと、{pause 20}	リサイクル{ruby (charSpan 1): ひん}品の　{ruby (charSpan 2): はんばい}販売をしているの{Wait for input}{emote: Happiness}{ruby (charSpan 1): なか}中でも、{pause 10}お{ruby (charSpan 1): みせ}店の{ruby (charSpan 1): まえ}前の　{Blue}ボード{Color Reset}に{ruby (charSpan 1): か}書いてある	{Blue}{ruby (charSpan 5): こうがくかいとりひん}高額買取品{Color Reset}は{pause 10}　いつもの{ruby (charSpan 1): ばい}倍の{ruby (charSpan 2): ねだん}値段で	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらっているのよ	{emote: Reset}それと、{pause 10}{ruby (charSpan 1): たん}単に{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取るだけじゃなくて{pause 10}	{ruby (charSpan 1): す}好きな{ruby (charSpan 2): ねだん}値段をつけて　{ruby (charSpan 1): なら}並べておくことも	できますからね
+"016"	{emote: Happiness}とにかく{pause 5}　{ruby (charSpan 1): なに}何か{ruby (charSpan 2): てばな}手放したいものがあったら{pause 10}	いつでも　{ruby (charSpan 2): きがる}気軽に	{ruby (charSpan 1): も}持って{ruby (charSpan 1): き}来てちょうだいね～
+"017"	{emote: Happiness}{ruby (charSpan 2): そんちょう}村長さんも　{ruby (charSpan 2): てばな}手放したいものがあったら、{pause 10}	いつでも　{ruby (charSpan 2): きがる}気軽に	{ruby (charSpan 1): も}持って{ruby (charSpan 1): き}来てちょうだいね～
+"018"	{emote: Happiness}あ、{pause 15}{ruby (charSpan 1): はじ}初めまして！{pause 20}	{000c-0001-0000}{emote: Soft Smile}・{pause 4}・{pause 4}・{pause 4}{emote: Curious}ですよね？{Wait for input}{emote: Reset}ボクは　{ruby (charSpan 1): おとうと}弟とふたりで{pause 8}	{ruby (charSpan 3): しょうてんがい}商店街にある　{Blue}まめつぶ{ruby (charSpan 2): しょうてん}商店{Color Reset}{pause 15}	という{ruby (charSpan 1): みせ}店をやってる　{Orange}まめきち{Color Reset}です
+"019"	{000c-0001-0000}{emote: Happiness}あ、{pause 15}{ruby (charSpan 1): はじ}初めまして！{pause 20}	{emote: Soft Smile}・{pause 4}・{pause 4}・{pause 4}{emote: Curious}ですよね？{Wait for input}{emote: Reset}ボクは　{ruby (charSpan 1): おとうと}弟とふたりで{pause 8}	{ruby (charSpan 3): しょうてんがい}商店街にある　{Blue}コンビニまめつぶ{Color Reset}{pause 15}	という{ruby (charSpan 1): みせ}店をやってる　{Orange}まめきち{Color Reset}です
+"020"	{000c-0001-0000}{emote: Happiness}あ、{pause 15}{ruby (charSpan 1): はじ}初めまして！{pause 20}	{emote: Soft Smile}・{pause 4}・{pause 4}・{pause 4}{emote: Curious}ですよね？{Wait for input}{emote: Reset}ボクは　{ruby (charSpan 1): おとうと}弟とふたりで{pause 8}	{ruby (charSpan 3): しょうてんがい}商店街にある　{Blue}スーパーまめつぶ{Color Reset}{pause 15}	という{ruby (charSpan 1): みせ}店をやってる　{Orange}まめきち{Color Reset}です
+"021"	{000c-0001-0000}{emote: Happiness}あ、{pause 15}{ruby (charSpan 1): はじ}初めまして！{pause 20}	{emote: Soft Smile}・{pause 4}・{pause 4}・{pause 4}{emote: Curious}ですよね？{Wait for input}{emote: Reset}ボクは　{ruby (charSpan 1): おとうと}弟とふたりで{pause 8}	{ruby (charSpan 3): しょうてんがい}商店街にある　{Blue}ホームセンターまめつぶ{Color Reset}{pause 15}	という{ruby (charSpan 1): みせ}店をやってる　{Orange}まめきち{Color Reset}です
+"022"	{000c-0001-0000}{emote: Happiness}あ、{pause 15}{ruby (charSpan 1): はじ}初めまして！{pause 20}	{emote: Soft Smile}・{pause 4}・{pause 4}・{pause 4}{emote: Curious}ですよね？{Wait for input}{emote: Reset}ボクは　{ruby (charSpan 1): おとうと}弟とふたりで{pause 8}	{ruby (charSpan 3): しょうてんがい}商店街にある　{Blue}まめつぶデパート{Color Reset}{pause 15}	という{ruby (charSpan 1): みせ}店をやってる　{Orange}まめきち{Color Reset}です
+"023"	{emote: Soft Smile}よろしければ　また{pause 5}	ウチの{ruby (charSpan 1): みせ}店にも　{ruby (charSpan 1): き}来てくださいね！{pause 30}	{emote: Happiness}{ruby (charSpan 2): いご}以後、{pause 5}お{ruby (charSpan 2): みし}見知りおきをー！{pause 10}　{Text size 75%}だなも！{Text size 100%}{000c-0009-0000}
+"024"	{000c-0001-0000}はい！{pause 20}	それじゃ、{pause 10}{emote: Greetings}おじゃましましたー{pause 8}・{pause 8}・{pause 8}・{pause 20}{Wait <001e 0000> 'time'}

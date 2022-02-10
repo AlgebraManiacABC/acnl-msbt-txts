@@ -1,13 +1,13 @@
 == 0 ==
-""	Press 
+""	Press Ⓐ
 ""	Continue
 ""	New Save File
 ""	Move In
 ""	Back
-""	{0011-0000-0002-00-00}
-""	{0011-0000-0002-01-00}
-""	{0011-0000-0002-02-00}
-""	{0011-0000-0002-03-00}
+""	{0011-0000-0002-0000}
+""	{0011-0000-0002-0001}
+""	{0011-0000-0002-0002}
+""	{0011-0000-0002-0003}
 ""	Parental Controls
 ""	SpotPass
 ""	Quit
@@ -56,7 +56,7 @@
 ""	Read
 ""	Throw away
 ""	Rewrite
-""	
+""
 ""	Change Addressee
 ""	Quit
 ""	Don't register
@@ -91,7 +91,7 @@
 ""	Amount to pay
 ""	Remainder
 ""	Balance
-""	{0000-0002-0002-64-00}Bells{0000-0002-0002-64-00}
+""	{Text size 100%}Bells{Text size 100%}
 ""	Deposit
 ""	Withdrawal
 ""	When is your birthday?
@@ -108,10 +108,10 @@
 ""	How many do you want?
 ""	Turnips
 ""	 
-""	
+""
 ""	Choose a time to meet!
-""	
-""	{Number (0x7)}
+""
+""	🦋{Number (0x7)}🐟{Number (0x7)}🐙{Number (0x7)}
 ""	Start weeding!
 ""	Stop weeding!
 ""	Stop weeding!
@@ -133,7 +133,7 @@
 ""	The boat trip was canceled.
 ""	Looks like someone arrived on the island.
 ""	Looks like someone is leaving.
-""	{capitalized}
+""	{capitalized}{0011-0000-0002-0000} has arrived.
 ""	Waiting for friends...
 ""	30 seconds left!
 ""	Time's up!
@@ -151,13 +151,13 @@
 ""	Choose a song!
 ""	Donate what?
 ""	Assess what?
-""	
-""	
-""	
+""
+""
+""
 ""	Choose a design!
 ""	Take which design?
 ""	Sell it for what price?
-""	
+""
 ""	Enter Dream Address!
 ""	Enter PIN.
 ""	Give what?
@@ -174,9 +174,9 @@
 ""	Enter town name.
 ""	Enter player name.
 ""	Wrap what?
-""	{0011-0000-0002-00-00}
-""	{0011-0000-0002-00-00}
-""	{0011-0001-0002-00-00}
+""	{0011-0000-0002-0000} from {0011-0002-0002-0000}
+""	{0011-0000-0002-0000}
+""	{0011-0001-0002-0000}
 ""	{Number (0x7)}/{Number (0x7)}/{Number (0x9)}
 ""	Are you sure you want	to erase this bulletin?
 ""	Are you sure you want	to quit without posting?
@@ -189,43 +189,43 @@
 ""	What will it wear?
 ""	Give her how many?
 ""	Difficulty
-""	{Number (0x7)}
+""	{Number (0x7)} {mins./min./mins.}
 ""	5-8 mins.
-""	{capitalized}
-""	{capitalized}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
 ""	Destination
 ""	Visitors
 ""	Visit
-""	{capitalized}
-""	{capitalized}
+""	{capitalized}{0011-0002-0002-0000} cannot currently	accept any more visitors at	this time.
+""	{capitalized}{0011-0000-0002-0000} from {0011-0002-0002-0000}	is now your friend.
 ""	You can now press  to	check on your best friends!
 ""	Press  to return to the HOME Menu.
 ""	People Here
-""	{capitalized}
-""	{capitalized}
-""	{capitalized}
-""	Are you sure you want to	adjust your settings so	that you never run into	{0011-0000-0002-00-00}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
+""	{capitalized}{0011-0000-0002-0000} from {0011-0002-0002-0000}	is now a best friend.
+""	Are you sure you want to	adjust your settings so	that you never run into	{0011-0000-0002-0000} from {0011-0002-0002-0000}	on the island again?
 ""	You can only have up	to 32 best friends!
-""	Make {0011-0000-0002-00-00}
-""	{capitalized}
-""	Would you prefer not to	run into {0011-0000-0002-00-00}
-""	Your settings have been	updated so that you don't	run into {0011-0000-0002-00-00}
-""	Register {0011-0000-0002-00-00}
-""	Listed {0011-0000-0002-00-00}!
-""	You are now friends with {0011-0000-0002-00-00}
-""	{capitalized}
+""	Make {0011-0000-0002-0000} from	{0011-0002-0002-0000} one of your	best friends?
+""	{capitalized}{0011-0000-0002-0000} from {0011-0002-0002-0000}	has now been added as a	best friend.
+""	Would you prefer not to	run into {0011-0000-0002-0000} from	{0011-0002-0002-0000} the next time	you visit the island?
+""	Your settings have been	updated so that you don't	run into {0011-0000-0002-0000} from	{0011-0002-0002-0000} on the island	the next time you visit.
+""	Register {0011-0000-0002-0000}	from {0011-0002-0002-0000}	as a friend?
+""	Listed {0011-0000-0002-0000} as a friend!
+""	You are now friends with {0011-0000-0002-0000}.
+""	{capitalized}{0011-0000-0002-0000} from {0011-0002-0002-0000}	is being added as a friend.
 ""	Your friend list is full,	so you cannot register	any more friends.
 ""	Your Parental Controls	settings currently restrict	the registration of friends.
 ""	To register a friend, first	check your own friend card	on the system's friend list!
 ""	From here, you can select	a player currently on the	island that you don't want	to meet when next you visit.
 ""	If you choose to block that	person, you won't randomly	be matched up with him or	her the next time you visit	the island.
-""	{capitalized}
+""	{capitalized}{0011-0003-0002-0000}
 ""	Season
 ""	Time
 ""	Location
 ""	Record Size
-""	{0004-0014-0002-00-ffffffcd} mm
-""	{0004-0013-0002-00-ffffffcd} in.
+""	{0004-0014-0002-cd00} mm
+""	{0004-0013-0002-cd00} in.
 ""	/
 ""	:
 ""	All of it
@@ -233,26 +233,26 @@
 ""	1,000 Bells
 ""	10,000 Bells
 ""	Owner
-""	{capitalized}
-""	{capitalized}
-""	HHA Interior Points: {0004-000c-0002-00-00}
-""	Updated: {0004-000e-0002-00-ffffffcd} {Date-cd00}, {0004-000d-0002-00-ffffffcd}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
+""	HHA Interior Points: {0004-000c-0002-0000}
+""	Updated: {0004-000e-0002-cd00} {Date-cd00}, {0004-000d-0002-cd00}
 ""	Look at profile
 ""	Order furniture
 ""	Mark as favorite
 ""	Unfavorite
-""	{capitalized}
-""	Will you mark {0011-0000-0002-00-00}
-""	Registered {0011-0000-0002-00-00}
+""	{capitalized}{0011-0000-0002-0000}'s favorite
+""	Will you mark {0011-0000-0002-0000}'s	home from {0011-0002-0002-0000}	as a favorite?	{Pink} You can mark {Number (0x7)} more.{Color Reset}
+""	Registered {0011-0000-0002-0000}'s	home from {0011-0002-0002-0000}	as a favorite!	{Pink} You can mark {Number (0x7)} more.{Color Reset}
 ""	You cannot mark any more	as favorites! If you want to	mark new favorites, you'll	have to remove a current	favorite first!
-""	Remove {0011-0000-0002-00-00}!
-""	Removed {0011-0000-0002-00-00}
-""	Would you like to erase	{0011-0000-0002-00-00}
+""	Remove {0011-0000-0002-0000} from	{0011-0002-0002-0000}'s model home	from your favorites list?
+""	Removed {0011-0000-0002-0000}'s	home from {0011-0002-0002-0000}	as a favorite.	{Pink} You can mark {Number (0x7)} more.{Color Reset}
+""	Would you like to erase	{0011-0000-0002-0000} from {0011-0002-0002-0000}	and {000e-0005-0010-0006-0068-0069-0073-0006-0068-0065-0072} model home from	the exhibition?
 ""	Are you sure you want to	erase the player and home?	You can't unerase.
-""	
+""
 ""	Would you like to set it so	that you never display this	person and model home	again in the future?
 ""	Are you sure about this?	This could affect your	ability to see content	made by this person in	other games as well.
-""	Saving. Do not touch .
+""	Saving. Do not touch ☢.
 ""	You cannot erase favorites	set by other people!	Have the other person	remove it from his or	her favorites first!
 ""	You cannot erase owners	or model homes that have	been set as favorites!	Please remove them as	favorites first!
 ""	Communication has been cut off.	Your progress may be lost.	Your game will be reset.
@@ -267,10 +267,10 @@
 ""	ー
 ""	Select Recipient
 ""	Future me
-""	{capitalized}
-""	Would you like to update	your best-friend settings to	reflect the game-system	combination that {0011-0000-0002-00-00}
-""	Your settings have been	updated for {0011-0000-0002-00-00}
-""	If you don't update, you can	only exchange messages with	{0011-0000-0002-00-00}
+""	{capitalized}{0011-0000-0002-0000} from {0011-0002-0002-0000}	is playing on a different	Nintendo 3DS than the one	used when {000e-0005-000e-0004-0068-0065-0006-0073-0068-0065} was first	registered as a best friend.
+""	Would you like to update	your best-friend settings to	reflect the game-system	combination that {0011-0000-0002-0000}	is currently using?
+""	Your settings have been	updated for {0011-0000-0002-0000}'s	current game and system	combination!
+""	If you don't update, you can	only exchange messages with	{0011-0000-0002-0000} when {000e-0005-000e-0004-0068-0065-0006-0073-0068-0065} plays	on the same Nintendo 3DS	system {000e-0005-000e-0004-0068-0065-0006-0073-0068-0065} was using before.
 ""	
 ""	Put away
 ""	 Erase
@@ -279,11 +279,11 @@
 ""	That song is already	in the music player!
 ""	You can't take out music	when your pockets are full!
 ""	You aren't carrying	any music on you!
-""	Are you sure you	want to remove	{0011-0003-0002-00-00}
+""	Are you sure you	want to remove	{0011-0003-0002-0000}?
 ""	Cancel
 ""	Remove
 ""	Anywhere is fine!
-""	
+""
 ""	You can only choose	up to 3 ingredients!
 ""	You can only choose	up to 5 snowflakes!
 ""	You can only choose	up to 3 snowflakes!
@@ -295,8 +295,8 @@
 ""	Your order cannot be placed	as the post office's	distribution center has	exceeded its capabilities.
 ""	Your order has been placed!	Your order will be delivered	shortly to your home	through the mail.
 ""	The item you are searching	for could not be found.
-""	{Blue}{0011-0003-0002-00-00}
-""	
+""	{Blue}{0011-0003-0002-0000}{Color Reset}	Is this the item you	want to order?
+""
 ""	Bells
 ""	Cancel
 ""	Order
@@ -307,7 +307,7 @@
 ""	Back
 ""	Update
 ""	No
-""	
+""
 ""	Donation total
 ""	Until goal
 ""	Scavenger-Hunt List
@@ -329,7 +329,7 @@
 ""	It will no longer be a pro	design if you alter it.	Continue anyway?
 ""	No
 ""	Yes
-""	Do you want to	erase {0011-0000-0002-00-00}
+""	Do you want to	erase {0011-0000-0002-0000}'s	{0011-0005-0000}?
 ""	No
 ""	Erase
 ""	If you create a design, you	can wear it as clothes or	display it as furniture.
@@ -346,36 +346,36 @@
 ""	On this screen, you can see	all other players currently	on the island with you.
 ""	If you happen to have a bad	experience with someone on	the island and never want to	run into him or her again...
 ""	you can select that person	from this list and update	your settings to prevent	encounters from happening.
-""	Your settings have been	changed so that you won't	meet {0011-0000-0002-00-00}
-""	
+""	Your settings have been	changed so that you won't	meet {0011-0000-0002-0000} from	{0011-0002-0002-0000} on the island	during future trips.
+""
 ""	You can only use up to	5 numbers in the name!
 ""	Don't use numbers	in your comment!
-""	{0011-0002-0002-00-00}
-""	
-""	Mayor {0011-0000-0002-00-00}
-""	{0011-0000-0002-00-00}
-""	Birthday {0004-000e-0002-01-ffffffcd} {Date-cd01}
-""	
-""	Registered {0004-000e-0002-00-ffffffcd} {Date-cd00}, {0004-000d-0002-00-ffffffcd}
-""	
+""	{0011-0002-0002-0000}
+""
+""	Mayor {0011-0000-0002-0000}
+""	{0011-0000-0002-0000}
+""	Birthday {0004-000e-0002-cd01} {Date-cd01}
+""
+""	Registered {0004-000e-0002-cd00} {Date-cd00}, {0004-000d-0002-cd00}
+""
 ""	Dream Address
 ""	{0011-0007-0000}
 ""	xxxx-xxxx-xxxx
-""	
-""	
+""
+""
 ""	{0011-0008-0000}
 ""	Insert a comment!
 ""	I am online!
-""	{Number (0x7)}
-""	{Number (0x7)}
+""	{Number (0x7)} {mins./min./mins.} ago
+""	{Number (0x7)} {hrs./hr./hrs.} ago
 ""	A while ago
-""	
-""	Remove {0011-0000-0002-00-00}!
+""
+""	Remove {0011-0000-0002-0000} of	{0011-0002-0002-0000} from the list?
 ""	Turning this off means you	will not be able to send or	receive messages with your	best friends. Is that OK?
 ""	The best-friend message-	exchange function has been	turned on.
 ""	The best-friend message-	exchange function has been	turned off.
 ""	Would you like to turn on	the best-friend message-	exchange function?
-""	
+""
 ""	Off
 ""	On
 ""	Send to all
@@ -388,16 +388,16 @@
 ""	Turn off
 ""	No change
 ""	You cannot trade messages	with your best friends while	you are using a local wireless	connection.
-""	{capitalized}
+""	{capitalized}{0011-0000-0002-0000} from {0011-0002-0002-0000}	has been removed from your	best-friends list.
 ""	The best-friend messaging	function cannot presently	be used because of current	parental restrictions.
 ""	Would you like to turn on	the best-friend message-	exchange function?
-""	
+""
 ""	On this screen, you can see	who your best friends are.
 ""	If both you and your friend	register each other as best	friends, you can use your	Internet connection to send	messages to each other.
 ""	You can also send messages	to all of your best friends	at once using the	{Blue}Send to all{Color Reset} button.
 ""	You must agree to the latest	user agreement in order to	use the best-friend message-	exchange function.
 ""	Please try again after you've	read and agreed to the latest	user agreement in the	System Settings.
-""	
+""
 ""	You can't use those words!
 ""	To register a friend, you	first need to set up your	friend card in your system's	friend list.
 ""	Nintendo is the author of this software	for the purpose of copyright.	All rights reserved.
@@ -410,8 +410,8 @@
 ""	If both of you register each	other as best friends, you	can then use your Internet	connections anytime to send	messages to each other.
 ""	There are also other nifty	and useful benefits to being	best friends, so please try	it out with all your friends!
 ""	Searching for QR Code...		Please line up the frame	with the QR Code.
-""	Able to read QR Code #{Number (0x7)}
-""	Looking for QR Code #{Number (0x7)}
+""	Able to read QR Code #{Number (0x7)}.	Please get the next	QR Code ready.
+""	Looking for QR Code #{Number (0x7)}...		Please line up the frame	with the QR Code.
 ""	Are you OK with saving	this design?
 ""	This QR Code is not for an	{Green}Animal Crossing: New Leaf -	Welcome amiibo {Color Reset}custom	design.
 ""	Please scan QR Code	patterns in the proper order.
@@ -419,39 +419,39 @@
 ""	Nintendo 3DS Camera	could not be launched.
 ""	Searching for QR Code...
 ""	Your QR Code data was	successfully created.	The information has been	saved to your SD Card.
-""	The ship bound for the {0012-0015-0000}
-""	The ship bound for the {0012-0015-0000}
-""	The ship bound for {0012-0015-0000}
-""	The voyage for the {0012-0015-0000}
-""	The ship bound for {Town name (pink)}
-""	The voyage to {Town name (pink)}
-""	Saving QR Code data	to your SD Card...	Do not press .
+""	The ship bound for the {0012-0015-0000} is departing.
+""	The ship bound for the {0012-0015-0000} is departing soon.
+""	The ship bound for {0012-0015-0000} has departed.
+""	The voyage for the {0012-0015-0000} has been canceled.
+""	The ship bound for {Town name (pink)} is departing soon.
+""	The voyage to {Town name (pink)} has been canceled.
+""	Saving QR Code data	to your SD Card...	Do not press ☢.
 ""	Your friend card has been	confirmed, so you can now	directly add friends from	this window!
-""	
+""
 ""	You can add music to	furniture that has audio	functionality built in!
 ""	Once you get music from	somewhere or someone,	you can add it to your	music player!
-""	
-""	{0012-001d-0000}
+""
+""	{0012-001d-0000} theme: {0004-000c-0002-0000} pts
 ""	Other countries
 ""	Off
 ""	On
-""	
+""
 ""	This is the Town Pass Card	that shows your profile,	called the {Blue}TPC{Color Reset} for short.
 ""	It's possible for people you	tag via StreetPass or meet	online to view your TPC,	including your comments.
 ""	Do not include personal	information, inappropriate	content, or anything else	that may ruin someone	else's experience.
 ""	You can't add or remove	music when you have	company over!
 ""	You can't add or remove	music while visitors are	in town!
-""	
-""	
-""	Turn ON messages from	{0011-0000-0002-00-00}
-""	Turn OFF messages from 	{0011-0000-0002-00-00}
-""	
+""
+""
+""	Turn ON messages from	{0011-0000-0002-0000} in {0011-0002-0002-0000}?
+""	Turn OFF messages from 	{0011-0000-0002-0000} in {0011-0002-0002-0000}?
+""
 ""	An authorization is required	to use any features that	allow the sharing of personal	data.
 ""	Please refer to the {Blue}Child	Online Privacy Protection{Color Reset}	restriction. This can be	located in {Blue}System Settings	{Color Reset}under {Blue}Parental Controls{Color Reset}.
 ""	Please enter the PIN.	(Will not be necessary in the	future.)
 ""	The PIN is not correct.
-""	
-""	
+""
+""
 ""	When playing {Green}Animal	Crossing: New Leaf{Color Reset}, you can	leave the Parental Controls	settings the way they are...
 ""	but opt to remove certain	restrictions just for {Green}Animal	Crossing: New Leaf -	Welcome amiibo{Color Reset}.
 ""	Want to use this feature so	you can exchange messages	with your best friends in	{Green}Animal Crossing: New Leaf -	Welcome amiibo{Color Reset}?
@@ -465,89 +465,89 @@
 ""	Systems that have the {Blue}Child	Online Privacy Protection	restriction {Color Reset}and/or {Blue}restriction	on Sharing Images / Audio /	Video / Long Text Data{Color Reset}...
 ""	enabled cannot use online	communication features,	including the exchange of	messages with best friends.
 ""	OK.
-""	 Guardians
+""	⚠ Guardians
 ""	{Villager's name (orange)}
 ""	Order furniture
 ""	  Coupons
 ""	Import Town
 ""	Link HHD data
-""	
+""
 ""	Total Coupons
 ""	To Convert
 ""	Proceeds
 ""	 
-""	 Never mind.
+""	Ⓑ Never mind.
 ""	Point the NFC reader/writer	toward the system's infrared	transceiver. Tap an amiibo.
 ""	Sorry, the store is not staffed today.
-""	
+""
 ""	Receive Coupons
-""	
-""	
+""
+""
 ""	End Session
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
 ""	Initiative(s) reward:
-""	
+""
 ""	MEOW Coupons received:
 ""	Puzzle League bonus:
 ""	D. Island Escape bonus:
 ""	Sorry, there are no MEOW	Coupons to collect.
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	Back
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	OK
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	
 ""	
-""	
-""	
-""	
+""
+""
+""
 ""	Return to the title with START.
 ""	+ Take Photo
 ""	Various
@@ -557,42 +557,42 @@
 ""	Smaller
 ""	Farther
 ""	Nearer
-""	
+""
 ""	Home
-""	
-""	
-""	
+""
+""
+""
 ""	{Number (0x7)}/{Number (0x7)}/{Number (0x9)}
 ""	Stand up.
 ""	Sit down.
 ""	Lie down.
 ""	Run.
-""	
+""
 ""	amiibo Camera
 ""	Next page
-""	
-""	
+""
+""
 ""	×
 ""	×
-""	
-""	
+""
+""
 ""	×
-""	
-""	
-""	
+""
+""
+""
 ""	+
-""	
+""
 ""	×
 == 1 ==
-""	Pulsa 
+""	Pulsa Ⓐ
 ""	Continuar
 ""	Nueva partida
 ""	Mudarse
 ""	Atrás
-""	{capitalized}㯠缀
-""	{capitalized}㯠缀
-""	{capitalized}㯠缀
-""	{capitalized}㯠缀
+""	{capitalized}{0011-0000-0002-0000}
+""	{capitalized}{0011-0000-0002-0001}
+""	{capitalized}{0011-0000-0002-0002}
+""	{capitalized}{0011-0000-0002-0003}
 ""	Control parental
 ""	SpotPass
 ""	Cancelar
@@ -641,7 +641,7 @@
 ""	Leer
 ""	Tirar
 ""	Editar
-""	
+""
 ""	Cambiar destinatario
 ""	Cancelar
 ""	No
@@ -693,10 +693,10 @@
 ""	¿Cuántos quieres?
 ""	nabos
 ""	 
-""	
+""
 ""	¿A qué hora quedamos?
-""	
-""	 {Number (0x7)}
+""
+""	🦋 {Number (0x7)} 🐟 {Number (0x7)} 🐙 {Number (0x7)}
 ""	¡A desherbar!
 ""	¡Se acabó!
 ""	¡Se acabó!
@@ -718,7 +718,7 @@
 ""	Se ha cancelado el viaje en barco.
 ""	¡Ha llegado alguien!
 ""	Alguien se va...
-""	¡Ha llegado {0011-0000-0002-00-00}
+""	¡Ha llegado {0011-0000-0002-0000}!
 ""	Esperando a los demás...
 ""	¡Quedan 30 segundos!
 ""	¡Tiempo!
@@ -736,13 +736,13 @@
 ""	¡Elige una canción!
 ""	¿Qué quieres donar?
 ""	¿Qué quieres identificar?
-""	
-""	
-""	
+""
+""
+""
 ""	¡Elige un diseño!
 ""	¿Qué diseño?
 ""	¿Qué precio le pones?
-""	
+""
 ""	Pon el número de sueño.
 ""	Introduce la contraseña.
 ""	¿Qué quieres darle?
@@ -759,9 +759,9 @@
 ""	¿Cómo se llama el pueblo?
 ""	¿Cuál es su nombre?
 ""	¿Qué quieres envolver?
-""	{capitalized}
-""	De {0011-0000-0002-00-00}
-""	De {0011-0001-0002-00-00}
+""	{capitalized}{0011-0000-0002-0000}, de {capitalized}{0011-0002-0002-0000}
+""	De {0011-0000-0002-0000}
+""	De {0011-0001-0002-0000}
 ""	{Number (0x7)}-{Number (0x7)}-{Number (0x9)}
 ""	¿Seguro que quieres	borrar este anuncio?
 ""	¿Quieres salir sin guardar	los cambios?
@@ -774,43 +774,43 @@
 ""	¿Qué quieres ponerle?
 ""	¿Cuántos quieres darle?
 ""	Dificultad
-""	{Number (0x7)}
+""	{Number (0x7)} min
 ""	5-8 min
-""	{capitalized}
-""	{capitalized}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
 ""	Destino
 ""	Jugadores
 ""	¡Allá voy!
-""	En {capitalized}
-""	Ahora eres amig{000e-0006-0008-02-00-6f-00-02-00-61-00} de	{0011-0000-0002-00-00}
+""	En {capitalized}{0011-0002-0002-0000} hay demasiados	visitantes. No cabe nadie más.
+""	Ahora eres amig{o/a} de	{0011-0000-0002-0000}, de {capitalized}{0011-0002-0002-0000}.
 ""	¡Toca  para echar	un vistazo a tus	mejores amigos!
 ""	 Volver al menú HOME
 ""	Jugadores
-""	{capitalized}
-""	{capitalized}
-""	{capitalized}
-""	¿Seguro que quieres cambiar	los ajustes para no volver a	encontrarte en la isla con	{0011-0000-0002-00-00}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}, de {capitalized}{0011-0002-0002-0000},	está en tu lista de mejores	amigos.
+""	¿Seguro que quieres cambiar	los ajustes para no volver a	encontrarte en la isla con	{0011-0000-0002-0000}, de {capitalized}{0011-0002-0002-0000}?
 ""	¡No puedes tener más de 32	mejores amigos en la lista!
-""	¿Quieres añadir a la lista	de tus mejores amigos a	{0011-0000-0002-00-00}
-""	Se ha añadido a {0011-0000-0002-00-00}
-""	¿Quieres no volver a	encontrarte en la isla con	{0011-0000-0002-00-00}
-""	Se han actualizado los	ajustes. A partir de ahora,	cuando acudas a la isla no	verás a {0011-0000-0002-00-00}
-""	¿Quieres añadir a tu lista	de amigos a {0011-0000-0002-00-00}
-""	¡Has añadido a {0011-0000-0002-00-00}!
-""	Te has hecho amig{000e-0006-0008-02-00-6f-00-02-00-61-00} de {0011-0000-0002-00-00}
-""	{capitalized}
+""	¿Quieres añadir a la lista	de tus mejores amigos a	{0011-0000-0002-0000}, de {capitalized}{0011-0002-0002-0000}?
+""	Se ha añadido a {0011-0000-0002-0000},	de {capitalized}{0011-0002-0002-0000}, a la lista de	tus mejores amigos.
+""	¿Quieres no volver a	encontrarte en la isla con	{0011-0000-0002-0000}, de {capitalized}{0011-0002-0002-0000}?
+""	Se han actualizado los	ajustes. A partir de ahora,	cuando acudas a la isla no	verás a {0011-0000-0002-0000}, de	{capitalized}{0011-0002-0002-0000}.
+""	¿Quieres añadir a tu lista	de amigos a {0011-0000-0002-0000},	de {capitalized}{0011-0002-0002-0000}?
+""	¡Has añadido a {0011-0000-0002-0000}!
+""	Te has hecho amig{o/a} de {0011-0000-0002-0000}.
+""	{capitalized}{0011-0000-0002-0000}, de {capitalized}{0011-0002-0002-0000}	tiene que añadirte a su lista	de amigos.
 ""	La lista de amigos está llena.	¡No puedes registrar a nadie	más!
 ""	No puedes registrar amigos	debido a las restricciones	del control parental.
 ""	Antes de registrar a un	amigo, consulta tu tarjeta	de amigo desde la lista de	amigos de la consola.
 ""	Aquí podrás seleccionar a un	jugador que se encuentra en	la isla para no volver a	toparte con él.
 ""	Si decides bloquear a esa	persona, las próximas veces	que visites la isla no te	cruzarás con ella.
-""	{capitalized}
+""	{capitalized}{0011-0003-0002-0000}
 ""	Estación
 ""	Hora
 ""	Lugar
 ""	Récord
-""	{0004-0014-0002-00-ffffffcd} mm
-""	{0004-0013-0002-00-ffffffcd} cm
+""	{0004-0014-0002-cd00} mm
+""	{0004-0013-0002-cd00} cm
 ""	-
 ""	:
 ""	Todo
@@ -818,26 +818,26 @@
 ""	1000 bayas
 ""	10 000 bayas
 ""	Titular
-""	{capitalized}
-""	{capitalized}
-""	Puntos de la AAD: {0004-000c-0002-00-00}
-""	Renovada: {Date-cd00}-{0004-000e-0002-00-ffffffcd}-{0004-000d-0002-00-ffffffcd}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
+""	Puntos de la AAD: {0004-000c-0002-0000}
+""	Renovada: {Date-cd00}-{0004-000e-0002-cd00}-{0004-000d-0002-cd00}
 ""	Ver el perfil
 ""	Encargar algo
 ""	Añadir a favoritas
 ""	Quitar de favoritas
-""	Favorita de {0011-0000-0002-00-00}
-""	¿Quieres añadir a favoritas	la casa de {0011-0000-0002-00-00}
-""	¡Has añadido a favoritas	la casa de {0011-0000-0002-00-00}
+""	Favorita de {0011-0000-0002-0000}
+""	¿Quieres añadir a favoritas	la casa de {0011-0000-0002-0000}, de	{capitalized}{0011-0002-0002-0000}?	{Pink} Puedes añadir {Number (0x7)} más.{Color Reset}
+""	¡Has añadido a favoritas	la casa de {0011-0000-0002-0000}, de	{capitalized}{0011-0002-0002-0000}!	{Pink} Puedes añadir {Number (0x7)} más.{Color Reset}
 ""	¡No puedes añadir más casas	a favoritas! Antes tienes que	quitar alguna de la lista.
-""	¿Quieres quitar de tu lista	de favoritas la casa de	{0011-0000-0002-00-00}
-""	La casa de {0011-0000-0002-00-00}
-""	¿Quieres borrar de la	exposición a {0011-0000-0002-00-00}
+""	¿Quieres quitar de tu lista	de favoritas la casa de	{0011-0000-0002-0000}, de {capitalized}{0011-0002-0002-0000}?
+""	La casa de {0011-0000-0002-0000}, de	{capitalized}{0011-0002-0002-0000}, ya no está	en tu lista de favoritas.	{Pink} Puedes añadir {Number (0x7)} más.{Color Reset}
+""	¿Quieres borrar de la	exposición a {0011-0000-0002-0000},	de {capitalized}{0011-0002-0002-0000}, junto con	su casa?
 ""	¿Seguro que quieres	continuar? Luego no	podrás volver atrás.
-""	
+""
 ""	¿Quieres cambiar los ajustes	para no volver a ver a esta	persona ni su casa?
 ""	¿Quieres continuar? Si lo	haces, es posible que no	puedas ver ningún contenido	creado por esta persona,	incluso en otros juegos.
-""	Guardando... No toques .
+""	Guardando... No toques ☢.
 ""	No puedes borrar las casas	favoritas de otras personas.	Pide a la persona en	cuestión que la quite de	su lista primero.
 ""	No puedes borrar casas ni	propietarios que figuran en	la lista de favoritas. Primero	debes eliminarlos de la lista.
 ""	Se ha interrumpido la conexión.	Puede que se hayan perdido tus	avances. Se va a reiniciar la partida.
@@ -852,10 +852,10 @@
 ""	ー
 ""	Destinatario
 ""	Mi yo del futuro
-""	{capitalized}
-""	¿Quieres actualizar los	ajustes para que se	correspondan con la	consola y juego que	{0011-0000-0002-00-00}
-""	¡Se han actualizado 	la consola y el juego	que usa ahora {0011-0000-0002-00-00}
-""	Si no los actualizas, solo	podrás comunicarte con	{0011-0000-0002-00-00}
+""	{capitalized}{0011-0000-0002-0000}, de {capitalized}{0011-0002-0002-0000},	está jugando en una consola	distinta a la que usaba	cuando l{o/a/} registraste en	tu lista de mejores amigos.
+""	¿Quieres actualizar los	ajustes para que se	correspondan con la	consola y juego que	{0011-0000-0002-0000} usa ahora?
+""	¡Se han actualizado 	la consola y el juego	que usa ahora {0011-0000-0002-0000}!
+""	Si no los actualizas, solo	podrás comunicarte con	{0011-0000-0002-0000} si usa la misma	consola que usaba cuando l{o/a/}	añadiste a tu lista de amigos.
 ""	
 ""	Guardar
 ""	 Borrar
@@ -864,11 +864,11 @@
 ""	¡La canción ya	está en la lista!
 ""	No puedes quitar la canción	de la lista porque no tienes	dónde guardarla.
 ""	No dispones de música.
-""	¿Seguro que quieres quitar	de la lista la canción	{Blue}{0011-0003-0002-00-00}
+""	¿Seguro que quieres quitar	de la lista la canción	{Blue}{0011-0003-0002-0000}{Color Reset}?
 ""	Cancelar
 ""	Quitar
 ""	¡Me da igual el sitio!
-""	
+""
 ""	¡Solo puedes seleccionar	3 ingredientes!
 ""	¡Solo puedes seleccionar	5 copos de nieve!
 ""	¡Solo puedes seleccionar	3 copos de nieve!
@@ -880,8 +880,8 @@
 ""	No se ha podido realizar	el encargo, puesto que	la oficina de correos tiene	demasiadas entregas	pendientes.
 ""	¡Pedido confirmado!		Dentro de poco recibirás	por correo lo que has	encargado.
 ""	No hemos encontrado	lo que buscabas.
-""	{Blue}{capitalized}
-""	
+""	{Blue}{capitalized}{0011-0003-0002-0000}{Color Reset}		¿Es esto lo que	quieres encargar?
+""
 ""	bayas
 ""	Cancelar
 ""	Encargar
@@ -892,7 +892,7 @@
 ""	Cancelar
 ""	Actualizar
 ""	No
-""	
+""
 ""	Donativo
 ""	Por recaudar
 ""	Lista de objetos
@@ -914,7 +914,7 @@
 ""	Si lo editas dejará de ser	un diseño pro. ¿Quieres	hacerlo de todas formas?
 ""	No
 ""	Sí
-""	¿Quieres borrar el diseño	{0011-0005-0000}
+""	¿Quieres borrar el diseño	{0011-0005-0000},	de {0011-0000-0002-0000}?
 ""	No
 ""	Sí
 ""	Una vez creado un diseño,	podrás utilizarlo en una	prenda de vestir o en	un mueble.
@@ -931,36 +931,36 @@
 ""	En esta pantalla puedes ver	quién más está en la isla	contigo.
 ""	Si tienes una mala	experiencia con una	persona en la isla y no	quieres volver a verla...
 ""	selecciónala en la lista y	actualiza los ajustes para	no volver a encontrarte	con ella.
-""	Se han actualizado los	ajustes. Ya no volverás a	toparte en la isla con 	{0011-0000-0002-00-00}
-""	
+""	Se han actualizado los	ajustes. Ya no volverás a	toparte en la isla con 	{0011-0000-0002-0000}, de {capitalized}{0011-0002-0002-0000}.
+""
 ""	Puedes usar un máximo	de 5 números.
 ""	¡No puede haber números	en el comentario!
-""	{0011-0002-0002-00-00}
-""	
-""	{000e-0012-0028-0d-00-0e-00-41-00-6c-00-63-00-61-00-6c-00-64-00-65-00-12-00-41-00-6c-00-63-00-61-00-6c-00-64-00-65-00-73-00-61-00-00-00}
-""	{0011-0000-0002-00-00}
-""	Cumple: {Date-cd01} de {0004-000e-0002-01-ffffffcd}
-""	
-""	Registro: {Date-cd00} de {0004-000e-0002-00-ffffffcd} de {0004-000d-0002-00-ffffffcd}
-""	
+""	{0011-0002-0002-0000}
+""
+""	{000e-0012-0028-000d-000e-0041-006c-0063-0061-006c-0064-0065-0012-0041-006c-0063-0061-006c-0064-0065-0073-0061-0000} {0011-0000-0002-0000}
+""	{0011-0000-0002-0000}
+""	Cumple: {Date-cd01} de {0004-000e-0002-cd01}
+""
+""	Registro: {Date-cd00} de {0004-000e-0002-cd00} de {0004-000d-0002-cd00}
+""
 ""	Número de sueño
 ""	{0011-0007-0000}
 ""	xxxx-xxxx-xxxx
-""	
-""	
+""
+""
 ""	{0011-0008-0000}
 ""	Escribe aquí un comentario.
 ""	¡Estoy en línea!
-""	Hace {Number (0x7)}
-""	Hace {Number (0x7)}
+""	Hace {Number (0x7)} {minutos/minuto/minutos}
+""	Hace {Number (0x7)} {horas/hora/horas}
 ""	Hace un rato
-""	
-""	¿Quieres quitar de la lista a	{0011-0000-0002-00-00}
+""
+""	¿Quieres quitar de la lista a	{0011-0000-0002-0000}, de {capitalized}{0011-0002-0002-0000}?
 ""	Si desactivas esta función,	no podrás intercambiar	mensajes con tus mejores	amigos. ¿Quieres continuar?
 ""	Has activado el	intercambio de mensajes	con tus mejores amigos.
 ""	Has desactivado el	intercambio de mensajes	con tus mejores amigos.
 ""	¿Quieres activar el	intercambio de mensajes	con tus mejores amigos?
-""	
+""
 ""	No
 ""	Sí
 ""	Enviar a todos
@@ -973,16 +973,16 @@
 ""	Desactivar
 ""	Sin cambios
 ""	No puedes intercambiar	mensajes con tus mejores	amigos mientras usas la	comunicación inalámbrica	local.
-""	Has eliminado a {0011-0000-0002-00-00}
+""	Has eliminado a {0011-0000-0002-0000},	de {capitalized}{0011-0002-0002-0000}, de tu lista	de mejores amigos.
 ""	No puedes intercambiar	mensajes con tus mejores	amigos debido a las	restricciones del control	parental.
 ""	¿Quieres activar el	intercambio de mensajes	con tus mejores amigos?
-""	
+""
 ""	En esta pantalla puedes ver	tus mejores amigos.
 ""	Si un amigo y tú os registráis	como mejores amigos,	podréis usar internet para	enviaros mensajes.
 ""	Puedes enviar un mensaje	a todos tus mejores amigos	a la vez si tocas	{Blue}Enviar a todos{Color Reset}.
 ""	Debes aceptar la versión	más reciente del contrato de	uso para utilizar la función	de intercambio de mensajes	con tus mejores amigos.
 ""	Vuelve a intentarlo cuando	hayas leído y aceptado el	contrato de uso. Accede a	él desde la configuración	de la consola.
-""	
+""
 ""	¡No puedes escribir eso!
 ""	Tienes que crear tu propia	tarjeta en la lista de amigos	de la consola para poder	añadir a alguien.
 ""	Nintendo is the author of this software	for the purpose of copyright.	All rights reserved.
@@ -993,10 +993,10 @@
 ""	Desde aquí también puedes	añadir amigos a la lista de	amigos de la consola.
 ""	En {Green}Animal Crossing: New	Leaf - Welcome amiibo{Color Reset}	también puedes registrar	jugadores que estén en la	lista de amigos de la consola.
 ""	Si un amigo y tú os registráis	como mejores amigos,	podréis usar internet para	enviaros mensajes siempre	que queráis.
-""	Hacerte mejor amig{000e-0006-0008-02-00-6f-00-02-00-61-00} de un	jugador tiene muchas otras	ventajas. ¡Anímate a	descubrirlas todas!
+""	Hacerte mejor amig{o/a} de un	jugador tiene muchas otras	ventajas. ¡Anímate a	descubrirlas todas!
 ""	Buscando QR Code...		Encaja el código dentro	del marco.
-""	Se ha leído el QR Code	n.º {Number (0x7)}
-""	Buscando el	QR Code n.º {Number (0x7)}
+""	Se ha leído el QR Code	n.º {Number (0x7)}.	Prepara el siguiente.
+""	Buscando el	QR Code n.º {Number (0x7)}...		Encaja el código dentro	del marco.
 ""	¿Quieres guardar	este diseño?
 ""	El QR Code no corresponde	a un diseño personalizado de	{Green}Animal Crossing: New Leaf	- Welcome amiibo{Color Reset}.
 ""	Lee cada QR Code	en el orden correcto.
@@ -1004,39 +1004,39 @@
 ""	No ha sido posible	iniciar la aplicación	Cámara de Nintendo 3DS.
 ""	Buscando QR Code...
 ""	Se han creado los datos del	QR Code y se han guardado	en la tarjeta SD.
-""	El barco rumbo al tour "{0012-0015-0000}!
-""	El barco rumbo al tour "{0012-0015-0000}!
-""	El barco rumbo al tour "{0012-0015-0000}!
-""	Se ha cancelado el tour "{0012-0015-0000}
-""	El barco rumbo a {capitalized}
-""	Se ha cancelado el viaje a {capitalized}
-""	Guardando los datos del	QR Code en la tarjeta SD...	No toques .
+""	El barco rumbo al tour "{0012-0015-0000}" va a zarpar.
+""	El barco rumbo al tour "{0012-0015-0000}" está a punto de zarpar.
+""	El barco rumbo al tour "{0012-0015-0000}" está listo para zarpar.
+""	Se ha cancelado el tour "{0012-0015-0000}".
+""	El barco rumbo a {capitalized}{Town name (pink)} está a punto de zarpar.
+""	Se ha cancelado el viaje a {capitalized}{Town name (pink)}.
+""	Guardando los datos del	QR Code en la tarjeta SD...	No toques ☢.
 ""	Se ha confirmado tu tarjeta	de amigo. A partir de ahora	puedes añadir amigos desde	esta ventana.
-""	
+""
 ""	Puedes añadir música a los	muebles que tienen audio	integrado.
 ""	Cuando consigas música,	podrás añadirla a la	lista de reproducción.
-""	
-""	Estilo {0012-001d-0000}
+""
+""	Estilo {0012-001d-0000}: {0004-000c-0002-0000} p.
 ""	Otros países
 ""	No
 ""	Sí
-""	
+""
 ""	Este es tu {Blue}DRP{Color Reset}, es decir,	tu Documento de Residente	del Pueblo.
 ""	Cualquier persona con la que	te encuentres a través de	StreetPass o en internet	podrá ver tu DRP y también	tu comentario.
 ""	No incluyas información	personal ni contenido	inapropiado o que pueda	resultar ofensivo para	otros usuarios.
 ""	No puedes añadir ni	quitar música cuando	tienes visita.
 ""	No puedes añadir ni	quitar música cuando hay	visitantes en el pueblo.
-""	
-""	
-""	¿Quieres ver	los mensajes de {0011-0000-0002-00-00}
-""	¿Quieres ver	los mensajes de {0011-0000-0002-00-00}
-""	
+""
+""
+""	¿Quieres ver	los mensajes de {0011-0000-0002-0000}	en {capitalized}{0011-0002-0002-0000}?
+""	¿Quieres ver	los mensajes de {0011-0000-0002-0000}	en {capitalized}{0011-0002-0002-0000}?
+""
 ""	Necesitas una autorización	para usar las funciones que	te permiten compartir datos	personales.
 ""	Consulta la restricción	{Blue}Protección de privacidad en	línea para los menores {Color Reset}en	el {Blue}control parental {Color Reset}de la	{Blue}configuración de la consola{Color Reset}.
 ""		Introduce la contraseña.	(No será necesaria	la próxima vez.)
 ""		La contraseña es incorrecta.
-""	
-""	
+""
+""
 ""	When playing {Green}Animal	Crossing: New Leaf{Color Reset}, you can	leave the Parental Controls	settings the way they are...
 ""	but opt to remove certain	restrictions just for {Green}Animal	Crossing: New Leaf -	Welcome amiibo{Color Reset}.
 ""	Want to use this feature so	you can exchange messages	with your best friends in	{Green}Animal Crossing: New Leaf -	Welcome amiibo{Color Reset}?
@@ -1050,89 +1050,89 @@
 ""	Systems that have the {Blue}Child	Online Privacy Protection	restriction {Color Reset}and/or {Blue}restriction	on Sharing Images / Audio /	Video / Long Text Data{Color Reset}...
 ""	enabled cannot use online	communication features,	including the exchange of	messages with best friends.
 ""	OK.
-""	 Guardians
+""	⚠ Guardians
 ""	{Villager's name (orange)}
 ""	Hacer pedido
 ""	cupones
 ""	Transferir pueblo
 ""	Vincular con HHD
-""	
+""
 ""	Cupones
 ""	Para canjear
 ""	Bayas
 ""	 
-""	 Mejor ahora no
-""	{0000-0002-0002-5a-00}Orienta el lector/grabador de	NFC hacia el transceptor de	infrarrojos y escanea el amiibo.{0000-0002-0002-64-00}
+""	Ⓑ Mejor ahora no
+""	{Text size 90%}Orienta el lector/grabador de	NFC hacia el transceptor de	infrarrojos y escanea el amiibo.{Text size 100%}
 ""	Hoy no hay nadie para atender. ¡Disculpen las molestias!
-""	
+""
 ""	Retirar cupones
-""	
-""	
+""
+""
 ""	Salir
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
 ""	Planes vecinales
-""	
+""
 ""	Cupones recibidos
 ""	AC Puzzle League
 ""	Huida de la isla desierta
 ""	No hay cupones disponibles.
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	Atrás
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	Aceptar
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	
 ""	
-""	
-""	
-""	
+""
+""
+""
 ""	START: volver al título
 ""	+ Sacar foto
 ""	Funciones
@@ -1142,42 +1142,42 @@
 ""	Reducir
 ""	Alejar
 ""	Acercar
-""	
+""
 ""	A casa
-""	
-""	
-""	
+""
+""
+""
 ""	{Number (0x7)}-{Number (0x7)}-{Number (0x9)}
 ""	¡De pie!
 ""	¡Siéntate!
 ""	¡Túmbate!
 ""	¡A correr!
-""	
+""
 ""	Cámara amiibo
 ""	Página siguiente
-""	
-""	
+""
+""
 ""	×
 ""	×
-""	
-""	
+""
+""
 ""	×
-""	
-""	
-""	
+""
+""
+""
 ""	+
-""	
+""
 ""	×
 == 2 ==
-""	Appuie sur 
+""	Appuie sur Ⓐ
 ""	Continuer
 ""	Nouvelle partie
 ""	Emménager
 ""	Retour
-""	{capitalized}㯠缀
-""	{capitalized}㯠缀
-""	{capitalized}㯠缀
-""	{capitalized}㯠缀
+""	{capitalized}{0011-0000-0002-0000}
+""	{capitalized}{0011-0000-0002-0001}
+""	{capitalized}{0011-0000-0002-0002}
+""	{capitalized}{0011-0000-0002-0003}
 ""	Contrôle parental
 ""	SpotPass
 ""	Quitter
@@ -1226,7 +1226,7 @@
 ""	Lire
 ""	Jeter
 ""	Modifier
-""	
+""
 ""	Autre destinataire
 ""	Annuler
 ""	Non
@@ -1278,10 +1278,10 @@
 ""	Combien en veux-tu ?
 ""	Navets
 ""	 
-""	
+""
 ""	Entre une heure.
-""	
-""	{Number (0x7)}
+""
+""	🦋{Number (0x7)} 🐟{Number (0x7)} 🐙{Number (0x7)}
 ""	C'est parti pour le désherbage !
 ""	Fin du désherbage !
 ""	Fin du désherbage !
@@ -1303,7 +1303,7 @@
 ""	La traversée a été annulée.
 ""	Quelqu'un vient d'arriver sur l'île !
 ""	Quelqu'un s'en va !
-""	{capitalized}
+""	{capitalized}{0011-0000-0002-0000} est arrivé{000e-0005-0006-0000-0002-0065}.
 ""	En attente d'amis...
 ""	Plus que 30 secondes !
 ""	Temps écoulé !
@@ -1321,13 +1321,13 @@
 ""	Choisis un morceau !
 ""	Que veux-tu donner ?
 ""	Faire examiner quoi ?
-""	
-""	
-""	
+""
+""
+""
 ""	Choisis un motif !
 ""	Prendre quel motif ?
 ""	Combien en exiges-tu ?
-""	
+""
 ""	Entre un code onirique !
 ""	Entre le code secret.
 ""	Que veux-tu donner ?
@@ -1344,9 +1344,9 @@
 ""	Entre le nom de la ville.
 ""	Entre le nom du joueur.
 ""	Que veux-tu emballer ?
-""	{capitalized}
-""	{capitalized}
-""	{0011-0001-0002-00-00}
+""	{capitalized}{0011-0000-0002-0000} {de /d'}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
+""	{0011-0001-0002-0000}
 ""	{Number (0x7)}/{Number (0x7)}/{Number (0x9)}
 ""	Effacer cette annonce ?
 ""	Quitter sans publier	l'annonce ?
@@ -1359,43 +1359,43 @@
 ""	Lui faire porter quoi ?
 ""	Lui en donner combien ?
 ""	Difficulté
-""	{Number (0x7)}
+""	{Number (0x7)} min
 ""	5-8 min
-""	{capitalized}
-""	{capitalized}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
 ""	Destination
 ""	Visiteurs
 ""	Rendre visite
-""	Pour le moment, {0011-0002-0002-00-00}
-""	{capitalized}
+""	Pour le moment, {0011-0002-0002-0000}	ne peut pas accueillir	davantage de visiteurs.
+""	{capitalized}{0011-0000-0002-0000} {de /d'}{0011-0002-0002-0000}	est devenu{000e-0005-0006-0000-0002-0065} ton ami{000e-0005-0006-0000-0002-0065}.
 ""	Touche  pour afficher la	liste de tes meilleurs amis !
 ""	Appuie sur  pour retourner au	menu HOME.
 ""	Joueurs présents
-""	{capitalized}
-""	{capitalized}
-""	{capitalized}
-""	Es-tu sûr{000e-0006-0006-00-00-02-00-65-00} de vouloir ajuster	les paramètres afin de	ne plus jamais croiser	{0011-0000-0002-00-00}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
+""	{capitalized}{0011-0000-0002-0000} {de /d'}{0011-0002-0002-0000}	est devenu{000e-0005-0006-0000-0002-0065} {000e-0005-000e-0004-0075-006e-0006-0075-006e-0065} de tes	meilleur{000e-0005-000a-0002-0073-0004-0065-0073} ami{000e-0005-000a-0002-0073-0004-0065-0073}.
+""	Es-tu sûr{/e} de vouloir ajuster	les paramètres afin de	ne plus jamais croiser	{0011-0000-0002-0000} {de /d'}{0011-0002-0002-0000}	sur l'île ?
 ""	Tu ne peux avoir que	32 meilleurs amis au	maximum !
-""	Faire {<06>de <04>d'}{0011-0000-0002-00-00}
-""	{capitalized}
-""	Souhaites-tu ne plus croiser	{0011-0000-0002-00-00}
-""	Paramètres ajustés. Tu ne	croiseras plus {0011-0000-0002-00-00}!
-""	Ajouter {0011-0000-0002-00-00}
-""	Sois mon {000e-0008-0016-00-ffffffcd-06-00-61-00-6d-00-69-00-08-00-61-00-6d-00-69-00-65-00-00-00}
-""	Tu es maintenant ami{000e-0006-0006-00-00-02-00-65-00} avec {0011-0000-0002-00-00}
-""	{capitalized}
+""	Faire {de /d'}{0011-0000-0002-0000}	{de /d'}{0011-0002-0002-0000} {000e-0005-000e-0004-0075-006e-0006-0075-006e-0065} de tes	meilleur{000e-0005-000a-0002-0073-0004-0065-0073} ami{000e-0005-000a-0002-0073-0004-0065-0073} ?
+""	{capitalized}{0011-0000-0002-0000} {de /d'}{0011-0002-0002-0000}	fait maintenant partie de	tes meilleurs amis.
+""	Souhaites-tu ne plus croiser	{0011-0000-0002-0000} {de /d'}{0011-0002-0002-0000}	lors de tes prochaines visites	sur l'île ?
+""	Paramètres ajustés. Tu ne	croiseras plus {0011-0000-0002-0000}	{de /d'}{0011-0002-0002-0000} lors de tes	visites sur l'île.
+""	Ajouter {0011-0000-0002-0000}	{de /d'}{0011-0002-0002-0000} à ta liste	d'amis ?
+""	Sois mon {ami/amie/}, {0011-0000-0002-0000} !
+""	Tu es maintenant ami{/e} avec {0011-0000-0002-0000}.
+""	{capitalized}{0011-0000-0002-0000} {de /d'}{0011-0002-0002-0000}	ne t'a pas encore {ajouté/ajoutée} à	sa liste d'amis.
 ""	Tu ne peux plus ajouter	d'amis : ta liste d'amis est	pleine.
 ""	Les paramètres de contrôle	parental ne te permettent	pas d'ajouter des amis à ta	liste d'amis.
 ""	Pour pouvoir ajouter des	amis, consulte d'abord ta	propre carte ami depuis la	liste d'amis de ta console !
 ""	En sélectionnant un des	joueurs se trouvant	actuellement sur l'île, tu	peux faire en sorte de ne	plus l'y recroiser à l'avenir.
 ""	Si tu décides de bloquer	un joueur, tu ne pourras	plus le rencontrer	aléatoirement lors de tes	prochains départs pour l'île.
-""	{capitalized}
+""	{capitalized}{0011-0003-0002-0000}
 ""	Saison
 ""	Heures
 ""	Habitat
 ""	Taille record
-""	{0004-0014-0002-00-ffffffcd} mm
-""	{0004-0013-0002-00-ffffffcd} cm
+""	{0004-0014-0002-cd00} mm
+""	{0004-0013-0002-cd00} cm
 ""	/
 ""	:
 ""	Tout
@@ -1403,26 +1403,26 @@
 ""	1 000 clochettes
 ""	10 000 clochettes
 ""	Propriétaire
-""	{capitalized}
-""	{capitalized}
-""	Points AJD : {0004-000c-0002-00-00}
-""	Mise à jour : {Date-cd00} {0004-000e-0002-00-ffffffcd} {0004-000d-0002-00-ffffffcd}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
+""	Points AJD : {0004-000c-0002-0000}
+""	Mise à jour : {Date-cd00} {0004-000e-0002-cd00} {0004-000d-0002-cd00}
 ""	Consulter le profil
 ""	Passer commande
 ""	Choisir en favorite
 ""	Retirer des favorites
-""	Favorite {<06>de <04>d'}{0011-0000-0002-00-00}
-""	Choisir la maison-témoin	{<06>de <04>d'}{0011-0000-0002-00-00}
-""	Désormais, la maison-témoin	{<06>de <04>d'}{0011-0000-0002-00-00}
+""	Favorite {de /d'}{0011-0000-0002-0000}
+""	Choisir la maison-témoin	{de /d'}{0011-0000-0002-0000} {de /d'}{0011-0002-0002-0000}	comme favorite ?	{Pink} Tu peux en choisir	encore {Number (0x7)}.{Color Reset}
+""	Désormais, la maison-témoin	{de /d'}{0011-0000-0002-0000} {de /d'}{0011-0002-0002-0000}	fait partie de tes favorites !	{Pink} Tu peux en choisir	encore {Number (0x7)}.{Color Reset}
 ""	Tu ne peux plus choisir de	maisons-témoins favorites !	Retires-en d'abord une si tu	veux pouvoir en choisir une	nouvelle.
-""	Retirer la maison-témoin	{<06>de <04>d'}{0011-0000-0002-00-00}
-""	La maison-témoin	{<06>de <04>d'}{0011-0000-0002-00-00}
-""	Veux-tu {<08>que <06>qu'}{0011-0000-0002-00-00}
-""	Es-tu vraiment {000e-0006-0012-06-00-73-00-fffffffb-00-72-00-08-00-73-00-fffffffb-00-72-00-65-00} de	vouloir supprimer ce joueur	et sa maison-témoin ?	L'opération est irréversible.
-""	
+""	Retirer la maison-témoin	{de /d'}{0011-0000-0002-0000} {de /d'}{0011-0002-0002-0000}	de tes favorites ?
+""	La maison-témoin	{de /d'}{0011-0000-0002-0000} {de /d'}{0011-0002-0002-0000}	n'est plus dans tes favorites.	{Pink} Tu peux en choisir	encore {Number (0x7)}.{Color Reset}
+""	Veux-tu {que /qu'}{0011-0000-0002-0000}	{de /d'}{0011-0002-0002-0000} et sa maison-	témoin soient {000e-0005-002a-0012-0073-0075-0070-0070-0072-0069-006d-00e9-0073-0014-0073-0075-0070-0070-0072-0069-006d-00e9-0065-0073} du	village-témoin ?
+""	Es-tu vraiment {sûr/sûre} de	vouloir supprimer ce joueur	et sa maison-témoin ?	L'opération est irréversible.
+""
 ""	Veux-tu bloquer ce joueur de	sorte que sa maison-témoin	et son clone n'apparaissent	plus jamais dans ton	village-témoin ?
-""	En es-tu vraiment {000e-0006-0012-06-00-73-00-fffffffb-00-72-00-08-00-73-00-fffffffb-00-72-00-65-00} ?	(Cela pourrait t'empêcher	d'accéder à du contenu créé	par ce joueur pour d'autres	logiciels.)
-""	Sauvegarde...		Ne touche pas à .
+""	En es-tu vraiment {sûr/sûre} ?	(Cela pourrait t'empêcher	d'accéder à du contenu créé	par ce joueur pour d'autres	logiciels.)
+""	Sauvegarde...		Ne touche pas à ☢.
 ""	Tu ne peux pas retirer une	maison choisie comme	favorite par un autre joueur.	Demande à ce joueur de le	faire pour toi !
 ""	Tu ne peux pas supprimer	une maison figurant parmi	tes favorites.	Retire-la d'abord de tes	favorites !
 ""	La connexion a été interrompue.	Il se peut que ta progression	n'ait pas été sauvegardée.	Le logiciel va redémarrer.
@@ -1431,16 +1431,16 @@
 ""	Ré
 ""	Mi
 ""	Fa
-""	{0000-0002-0002-4b-00}Sol{0000-0002-0002-64-00}
+""	{Text size 75%}Sol{Text size 100%}
 ""	La
 ""	Si
 ""	—
 ""	Destinataire
 ""	Mon futur moi
-""	{capitalized}
-""	Veux-tu mettre à jour les	données relatives à la	console et au logiciel utilisés	par {0011-0000-0002-00-00}Ṣ嗹
-""	Les données de la liste de	tes meilleurs amis relatives à	la console et au logiciel	utilisés par {0011-0000-0002-00-00}
-""	Sans cette mise à jour, tu ne	peux échanger des messages	avec {0011-0000-0002-00-00}
+""	{capitalized}{0011-0000-0002-0000} {de /d'}{0011-0002-0002-0000}	n'utilise pas la même	Nintendo 3DS que lorsque tu	l'as {000e-0005-001e-000c-0061-006a-006f-0075-0074-00e9-000e-0061-006a-006f-0075-0074-00e9-0065} à la liste de tes	meilleurs amis.
+""	Veux-tu mettre à jour les	données relatives à la	console et au logiciel utilisés	par {0011-0000-0002-0000} dans la liste	de tes meilleurs amis ?
+""	Les données de la liste de	tes meilleurs amis relatives à	la console et au logiciel	utilisés par {0011-0000-0002-0000} ont	été mises à jour.
+""	Sans cette mise à jour, tu ne	peux échanger des messages	avec {0011-0000-0002-0000} que {000e-0005-001a-0008-0073-0027-0069-006c-000e-0073-0069-0020-0065-006c-006c-0065}	joue avec la console qu'{000e-0005-0010-0004-0069-006c-0008-0065-006c-006c-0065}	utilisait auparavant.
 ""	
 ""	Ranger
 ""	 Supprimer
@@ -1449,11 +1449,11 @@
 ""	Ce morceau a	déjà été ajouté !
 ""	Ton inventaire est plein, tu	ne peux pas retirer ce	morceau !
 ""	Tu n'as pas de musique sur	toi !
-""	Es-tu {000e-0006-0012-06-00-73-00-fffffffb-00-72-00-08-00-73-00-fffffffb-00-72-00-65-00} de vouloir retirer	{0011-0003-0002-00-00}
+""	Es-tu {sûr/sûre} de vouloir retirer	{0011-0003-0002-0000} ?
 ""	Non
 ""	Oui
 ""	N'importe où !
-""	
+""
 ""	Tu ne peux pas choisir plus	de 3 ingrédients !
 ""	Tu ne peux pas choisir plus	de 5 flocons de neige !
 ""	Tu ne peux pas choisir plus	de 3 flocons de neige !
@@ -1465,8 +1465,8 @@
 ""	Impossible de passer une	commande car le centre de	distribution postal est	surchargé !
 ""	Ta commande a été	enregistrée !	Elle te sera livrée sous peu	par voie postale.
 ""	L'article que tu cherches est	introuvable.
-""	Tu veux commander {Blue}{Article(word-dependant)}
-""	
+""	Tu veux commander {Blue}{Article(word-dependant)}	{0011-0003-0002-0000}{Color Reset} ?
+""
 ""	cl.
 ""	Non
 ""	Oui
@@ -1477,7 +1477,7 @@
 ""	Annuler
 ""	Mettre à jour
 ""	Non
-""	
+""
 ""	Fonds levés
 ""	Il manque :
 ""	Liste de meubles
@@ -1499,7 +1499,7 @@
 ""	Après modification, ce motif	ne sera plus un motif pro.		Le modifier malgré tout ?
 ""	Non
 ""	Oui
-""	Veux-tu vraiment effacer le	motif créé par {0011-0000-0002-00-00}!
+""	Veux-tu vraiment effacer le	motif créé par {0011-0000-0002-0000},	{0011-0005-0000} ?
 ""	Non
 ""	Oui
 ""	Si tu crées un motif, tu peux	ensuite le porter comme	vêtement ou t'en servir pour	décorer ton intérieur.
@@ -1516,36 +1516,36 @@
 ""	Depuis cet écran, tu peux	consulter la liste des joueurs	présents sur l'île avec toi.
 ""	Si un joueur nuit à ton	expérience de jeu et que tu	souhaites ne plus jamais le	recroiser sur l'île...
 ""	... tu peux le sélectionner	dans cette liste et choisir	d'empêcher toute rencontre	ultérieure.
-""	Tu as choisi de ne plus	rencontrer {0011-0000-0002-00-00}
-""	
+""	Tu as choisi de ne plus	rencontrer {0011-0000-0002-0000}	{de /d'}{0011-0002-0002-0000} lors de tes	prochains passages sur l'île.
+""
 ""	Ce nom peut comporter un	maximum de 5 chiffres !
 ""	Tu ne peux pas entrer de	chiffres dans ton message !
-""	{0011-0002-0002-00-00}
-""	
-""	Maire {0011-0000-0002-00-00}
-""	{0011-0000-0002-00-00}
-""	{000e-0006-000e-04-00-4e-00-ffffffe9-00-06-00-4e-00-ffffffe9-00-65-00} un {Date-cd01} {0004-000e-0002-01-ffffffcd}
-""	
-""	Faite le {Date-cd00} {0004-000e-0002-00-ffffffcd} {0004-000d-0002-00-ffffffcd}
-""	
+""	{0011-0002-0002-0000}
+""
+""	Maire {0011-0000-0002-0000}
+""	{0011-0000-0002-0000}
+""	{Né/Née} un {Date-cd01} {0004-000e-0002-cd01}
+""
+""	Faite le {Date-cd00} {0004-000e-0002-cd00} {0004-000d-0002-cd00}
+""
 ""	Code onirique
 ""	{0011-0007-0000}
 ""	xxxx-xxxx-xxxx
-""	
-""	
+""
+""
 ""	{0011-0008-0000}
 ""	Entre un commentaire.
 ""	Je suis en ligne !
-""	Il y a {Number (0x7)}!
-""	Il y a {Number (0x7)}!
+""	Il y a {Number (0x7)} {minute/minute/minutes}
+""	Il y a {Number (0x7)} {heure/heure/heures}
 ""	Il y a longtemps
-""	
-""	Supprimer {0011-0000-0002-00-00}
+""
+""	Supprimer {0011-0000-0002-0000}	{de /d'}{0011-0002-0002-0000} de la liste ?
 ""	Désactiver l'échange	de messages avec les	meilleurs amis ?
 ""	Échange de messages avec	les meilleurs amis activé.
 ""	Échange de messages avec	les meilleurs amis désactivé.
 ""	Activer l'échange de	messages avec les	meilleurs amis ?
-""	
+""
 ""	Non
 ""	Oui
 ""	Envoyer à tous
@@ -1558,16 +1558,16 @@
 ""	Désactiver
 ""	Laisser
 ""	Impossible d'échanger des	messages avec tes meilleurs	amis en mode sans fil local.
-""	{capitalized}
+""	{capitalized}{0011-0000-0002-0000} {de /d'}{0011-0002-0002-0000}	a été retiré{000e-0005-0006-0000-0002-0065} de la liste de	tes meilleurs amis.
 ""	Les échanges de messages	avec les meilleurs amis sont	restreints par les paramètres	de contrôle parental.
 ""	Activer l'échange de	messages avec les	meilleurs amis ?
-""	
+""
 ""	Cet écran te permet de voir	qui sont tes meilleurs amis.
 ""	Une fois qu'un joueur et toi	vous êtes mutuellement	enregistrés comme meilleurs	amis, vous pouvez échanger	des messages via Internet.
 ""	Tu peux par ailleurs envoyer	un message à tous tes	meilleurs amis d'un seul coup	en touchant Envoyer à tous.
 ""	Pour échanger des messages	avec tes meilleurs amis, tu	dois accepter les termes	de la dernière version du	contrat d'utilisation.
 ""	Merci de réessayer après	avoir lu et accepté les	termes de la dernière version	de ce contrat dans les	paramètres de la console.
-""	
+""
 ""	Tu ne peux pas écrire ça !
 ""	Pour pouvoir ajouter des	amis, crée d'abord ta propre	carte ami depuis la liste	d'amis de ta console !
 ""	Nintendo est l'auteur de ce logiciel	au regard du droit d'auteur.	Tous droits réservés.
@@ -1580,8 +1580,8 @@
 ""	Une fois qu'un joueur et toi	vous êtes mutuellement	enregistrés comme meilleurs	amis, vous pouvez échanger	des messages via Internet.
 ""	Devenir meilleurs amis donne	accès à d'autres fonctions	exclusives. À toi de les	découvrir avec tes amis !
 ""	Recherche d'un QR Code...		Place le QR Code dans le	cadre en pointillés.
-""	QR Code nº {Number (0x7)}
-""	Recherche du QR Code	nº {Number (0x7)}
+""	QR Code nº {Number (0x7)} lu.		Prépare le QR Code suivant.
+""	Recherche du QR Code	nº {Number (0x7)}...		Place le QR Code dans le	cadre en pointillés.
 ""	Sauvegarder ce motif ?
 ""	Ce QR Code ne correspond	pas à un motif personnalisé	d'{Green}Animal Crossing:	New Leaf - Welcome amiibo{Color Reset}.
 ""	Les QR Code doivent	être lus dans l'ordre.
@@ -1589,39 +1589,39 @@
 ""	Impossible de démarrer	l'appareil photo	Nintendo 3DS.
 ""	Recherche d'un QR Code...
 ""	Le QR Code a été créé.	Les données relatives	à ce QR Code ont	été sauvegardées	sur la carte SD.
-""	Départ du bateau pour l'excursion {0012-0015-0000}
-""	Départ imminent du bateau pour l'excursion {0012-0015-0000}
-""	Le bateau pour l'excursion {0012-0015-0000}
-""	L'excursion {0012-0015-0000}
-""	Départ imminent du bateau pour {Town name (pink)}
-""	Le bateau pour {Town name (pink)}
-""	Sauvegarde du QR Code sur	la carte SD...		Ne touche pas à .
+""	Départ du bateau pour l'excursion {0012-0015-0000} !
+""	Départ imminent du bateau pour l'excursion {0012-0015-0000} !
+""	Le bateau pour l'excursion {0012-0015-0000} est parti !
+""	L'excursion {0012-0015-0000} a été annulée !
+""	Départ imminent du bateau pour {Town name (pink)} !
+""	Le bateau pour {Town name (pink)} restera à quai !
+""	Sauvegarde du QR Code sur	la carte SD...		Ne touche pas à ☢.
 ""	Ta carte ami a été	confirmée. Tu peux	désormais directement	ajouter des joueurs à ta liste	d'amis depuis cet écran !
-""	
+""
 ""	Tu peux écouter de la	musique à l'aide de tout	équipement disposant d'une	fonction audio.
 ""	Une fois que tu auras obtenu	de la musique, essaie de	l'écouter avec l'équipement	approprié !
-""	
-""	Thème {0012-001d-0000}
+""
+""	Thème {0012-001d-0000} : {0004-000c-0002-0000} pts
 ""	Autres pays
 ""	Non
 ""	Oui
-""	
-""	Voici ta carte de résident{000e-0006-0006-00-00-02-00-65-00},	fréquemment abrégée en	« {Blue}CR{Color Reset} ».	Elle récapitule les	informations de ton profil.
+""
+""	Voici ta carte de résident{/e},	fréquemment abrégée en	« {Blue}CR{Color Reset} ».	Elle récapitule les	informations de ton profil.
 ""	Ta CR ainsi que son message	sont visibles par les autres	utilisateurs que tu croises	via StreetPass ou Internet.
 ""	N'écris pas de message	portant atteinte aux droits	d'autrui et/ou incluant des	informations personnelles ou	du contenu offensant.
 ""	Tu ne peux pas changer de	musique lorsque tu as de la	visite !
 ""	Tu ne peux pas modifier la	liste de lecture quand tu as	de la visite !
-""	
-""	
-""	Afficher les messages	{<06>de <04>d'}{0011-0000-0002-00-00}
-""	Afficher les messages	{<06>de <04>d'}{0011-0000-0002-00-00}
-""	
+""
+""
+""	Afficher les messages	{de /d'}{0011-0000-0002-0000}, habitant	à {0011-0002-0002-0000} ?
+""	Afficher les messages	{de /d'}{0011-0000-0002-0000}, habitant	à {0011-0002-0002-0000} ?
+""
 ""	Une autorisation est requise	pour utiliser les fonctions	permettant le partage de	données personnelles.
 ""	Consulte les termes de la	{Blue}protection de la vie privée	des enfants en ligne{Color Reset}...	... accessibles dans la section	{Blue}Contrôle parental{Color Reset} des {Blue}paramètres	de la console{Color Reset}.
 ""	Entre le code secret.	Tu n'auras pas besoin	de le refaire.
 ""	Le code secret est incorrect.
-""	
-""	
+""
+""
 ""	When playing {Green}Animal	Crossing: New Leaf{Color Reset}, you can	leave the Parental Controls	settings the way they are...
 ""	but opt to remove certain	restrictions just for {Green}Animal	Crossing: New Leaf -	Welcome amiibo{Color Reset}.
 ""	Want to use this feature so	you can exchange messages	with your best friends in	{Green}Animal Crossing: New Leaf -	Welcome amiibo{Color Reset}?
@@ -1635,89 +1635,89 @@
 ""	Systems that have the {Blue}Child	Online Privacy Protection	restriction {Color Reset}and/or {Blue}restriction	on Sharing Images / Audio /	Video / Long Text Data{Color Reset}...
 ""	enabled cannot use online	communication features,	including the exchange of	messages with best friends.
 ""	OK.
-""	 Guardians
+""	⚠ Guardians
 ""	{Villager's name (orange)}
 ""	Commander
 ""	 BC
 ""	Transférer la ville
 ""	Lien HHD
-""	
+""
 ""	Nombre de BC
 ""	BC à convertir
 ""	Bénéfice (cl.)
 ""	 
-""	 Retour
-""	{0000-0002-0002-4b-00}Oriente le lecteur/enregistreur NFC	vers le port infrarouge de la console,	puis places-y l'amiibo...{0000-0002-0002-64-00}
+""	Ⓑ Retour
+""	{Text size 75%}Oriente le lecteur/enregistreur NFC	vers le port infrarouge de la console,	puis places-y l'amiibo...{Text size 100%}
 ""	Il n'y a aucun employé aujourd'hui. Veuillez nous excuser pour le désagrément.
-""	
+""
 ""	Retrait
-""	
-""	
+""
+""
 ""	Quitter
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
 ""	Initiatives
-""	
+""
 ""	Bons reçus
 ""	Puzzle League
 ""	Évasion de l'île déserte
 ""	Aucun bon de commerce	disponible.
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	Retour
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	OK
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	
 ""	
-""	
-""	
-""	
+""
+""
+""
 ""	START : écran titre
 ""	+ Photo
 ""	Options
@@ -1727,42 +1727,42 @@
 ""	Plus petit
 ""	Dézoomer
 ""	Zoomer
-""	
+""
 ""	Partir
-""	
-""	
-""	
+""
+""
+""
 ""	{Number (0x7)}/{Number (0x7)}/{Number (0x9)}
 ""	Debout
 ""	Assis
 ""	Couché
 ""	Course
-""	
+""
 ""	Ap. photo amiibo
 ""	Page suivante
-""	
-""	
+""
+""
 ""	×
 ""	×
-""	
-""	
+""
+""
 ""	×
-""	
-""	
-""	
+""
+""
+""
 ""	+
-""	
+""
 ""	×
 == 3 ==
-""	Premi 
+""	Premi Ⓐ
 ""	Continua
 ""	Nuova partita
 ""	Trasloca
 ""	Indietro
-""	{capitalized}㯠缀
-""	{capitalized}㯠缀
-""	{capitalized}㯠缀
-""	{capitalized}㯠缀
+""	{capitalized}{0011-0000-0002-0000}
+""	{capitalized}{0011-0000-0002-0001}
+""	{capitalized}{0011-0000-0002-0002}
+""	{capitalized}{0011-0000-0002-0003}
 ""	Filtro famiglia
 ""	SpotPass
 ""	Annulla
@@ -1811,7 +1811,7 @@
 ""	Leggi
 ""	Butta
 ""	Modifica
-""	
+""
 ""	Cambia destinatario
 ""	Annulla
 ""	No
@@ -1863,10 +1863,10 @@
 ""	Quante ne vuoi?
 ""	Rape
 ""	 
-""	
+""
 ""	Fissa un orario!
-""	
-""	{Number (0x7)}
+""
+""	🦋{Number (0x7)}🐟{Number (0x7)}🐙{Number (0x7)}
 ""	Comincia a sradicare!
 ""	Smetti di sradicare!
 ""	Smetti di sradicare!
@@ -1888,7 +1888,7 @@
 ""	La traversata è stata annullata.
 ""	Qualcuno è arrivato sull'isola.
 ""	Qualcuno se ne va.
-""	{capitalized}
+""	{capitalized}{0011-0000-0002-0000} adesso è qui.
 ""	In attesa di amici...
 ""	Mancano 30 secondi!
 ""	Tempo scaduto!
@@ -1906,13 +1906,13 @@
 ""	Scegli una canzone!
 ""	Cosa vuoi donare?
 ""	Cosa vuoi far esaminare?
-""	
-""	
-""	
+""
+""
+""
 ""	Scegli un modello!
 ""	Quale modello scegli?
 ""	Che prezzo chiedi?
-""	
+""
 ""	Il codice del sogno è...
 ""	Inserisci il PIN.
 ""	Cosa vuoi regalargli?
@@ -1929,9 +1929,9 @@
 ""	Che città vuoi sognare?
 ""	Quale nome vuoi cercare?
 ""	Cosa vuoi incartare?
-""	{capitalized}
-""	{capitalized}
-""	{capitalized}
+""	{capitalized}{0011-0000-0002-0000} da {0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
+""	{capitalized}{0011-0001-0002-0000}
 ""	{Number (0x7)}/{Number (0x7)}/{Number (0x9)}
 ""	Vuoi davvero cancellare	questo annuncio?
 ""	Vuoi davvero uscire	senza pubblicare niente?
@@ -1944,43 +1944,43 @@
 ""	Cosa vuoi che indossi?
 ""	Quanti vuoi dargliene?
 ""	Difficoltà
-""	{Number (0x7)}
+""	{Number (0x7)} min
 ""	5-8 min
-""	{capitalized}
-""	{capitalized}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
 ""	Destinazione
 ""	Giocatori
 ""	Si parte!
-""	{capitalized}
-""	{capitalized}
+""	{capitalized}{000e-0010-0000} {0011-0002-0002-0000} ci sono troppi	visitatori in questo momento.
+""	{capitalized}{0011-0000-0002-0000} da {0011-0002-0002-0000}	è diventat{000e-0012-000c-000d-0002-006f-0002-0061-0000} tu{000e-0012-000c-000d-0002-006f-0002-0061-0000} amic{000e-0012-000c-000d-0002-006f-0002-0061-0000}!
 ""	Per dare un'occhiata	alla lista dei tuoi migliori	amici, premi .
 ""	 Torna al menu HOME
 ""	Giocatori
-""	{capitalized}
-""	{capitalized}
-""	{capitalized}
-""	Vuoi davvero modificare	le tue impostazioni per non	incontrare più {0011-0000-0002-00-00}!
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
+""	{capitalized}{0011-0000-0002-0000} da {0011-0002-0002-0000}	è stat{000e-0012-000c-000d-0002-006f-0002-0061-0000} aggiunt{000e-0012-000c-000d-0002-006f-0002-0061-0000} alla lista	dei tuoi migliori amici!
+""	Vuoi davvero modificare	le tue impostazioni per non	incontrare più {0011-0000-0002-0000}	da {0011-0002-0002-0000} sull'isola?
 ""	Puoi avere un massimo	di 32 migliori amici!
-""	Vuoi che {0011-0000-0002-00-00}
-""	{capitalized}
-""	Preferiresti non incontrare	più {0011-0000-0002-00-00}
-""	Impostazioni aggiornate!	Non incontrerai più	{0011-0000-0002-00-00}
-""	Vuoi aggiungere {0011-0000-0002-00-00}
-""	{capitalized}
-""	Ora sei amic{000e-0006-0008-02-00-6f-00-02-00-61-00} di {0011-0000-0002-00-00}
-""	{capitalized}
+""	Vuoi che {0011-0000-0002-0000}	da {0011-0002-0002-0000} entri a far	parte dei tuoi migliori amici?
+""	{capitalized}{0011-0000-0002-0000} da {0011-0002-0002-0000}	è stat{000e-0012-000c-000d-0002-006f-0002-0061-0000} aggiunt{000e-0012-000c-000d-0002-006f-0002-0061-0000} tra i tuoi	migliori amici.
+""	Preferiresti non incontrare	più {0011-0000-0002-0000} da	{0011-0002-0002-0000} la prossima	volta che visiti l'isola?
+""	Impostazioni aggiornate!	Non incontrerai più	{0011-0000-0002-0000} da {0011-0002-0002-0000}	sull'isola.
+""	Vuoi aggiungere {0011-0000-0002-0000}	da {0011-0002-0002-0000} alla tua	lista di amici?
+""	{capitalized}{0011-0000-0002-0000}, facciamo amicizia!
+""	Ora sei amic{o/a} di {0011-0000-0002-0000}.
+""	{capitalized}{0011-0000-0002-0000} da {0011-0002-0002-0000}	deve aggiungerti	alla sua lista di amici.
 ""	La tua lista di amici è piena.	Non puoi registrare	nuovi amici.
 ""	La registrazione di amici	è attualmente limitata	dal filtro famiglia.
 ""	Prima di aggiungere	un amico, controlla il tuo	biglietto da visita dalla lista	di amici della console!
 ""	Da qui puoi selezionare	un giocatore che si trova	attualmente sull'isola e	che non desideri incontrare	nella tua prossima visita.
 ""	Se decidi di bloccare questa	persona, non potrai più	incrociarla in incontri casuali	le prossime volte	che visiterai l'isola.
-""	{capitalized}
+""	{capitalized}{0011-0003-0002-0000}
 ""	Stagione
 ""	Orario
 ""	Luogo
 ""	Record
-""	{0004-0014-0002-00-ffffffcd} mm
-""	{0004-0013-0002-00-ffffffcd} cm
+""	{0004-0014-0002-cd00} mm
+""	{0004-0013-0002-cd00} cm
 ""	/
 ""	:
 ""	Tutto
@@ -1988,26 +1988,26 @@
 ""	1000 stelline
 ""	10.000 stelline
 ""	Proprietario
-""	{capitalized}
-""	{capitalized}
-""	Punti ABC: {0004-000c-0002-00-00}
-""	Aggiornato: {Date-cd00} {0004-000e-0002-00-ffffffcd} {0004-000d-0002-00-ffffffcd}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
+""	Punti ABC: {0004-000c-0002-0000}
+""	Aggiornato: {Date-cd00} {0004-000e-0002-cd00} {0004-000d-0002-cd00}
 ""	Sbircia il profilo
 ""	Ordina un mobile
 ""	Aggiungi a preferite
 ""	Rimuovi da preferite
-""	Preferite di {0011-0000-0002-00-00}
-""	Vuoi salvare la casa modello	di {0011-0000-0002-00-00}
-""	La casa modello	di {0011-0000-0002-00-00}
+""	Preferite di {0011-0000-0002-0000}
+""	Vuoi salvare la casa modello	di {0011-0000-0002-0000} da {0011-0002-0002-0000}	come preferita?	{Pink}Puoi salvarne ancora {Number (0x7)}.{Color Reset}
+""	La casa modello	di {0011-0000-0002-0000} da {0011-0002-0002-0000}	è ora una delle tue preferite!	{Pink}Puoi salvarne ancora {Number (0x7)}.{Color Reset}
 ""	Non puoi salvare altre case	modello come preferite!	Per salvare una nuova casa,	rimuovine prima una	dalla lista!
-""	Vuoi rimuovere la casa	modello di {0011-0000-0002-00-00}
-""	La casa modello	di {0011-0000-0002-00-00}
-""	Vuoi rimuovere {0011-0000-0002-00-00}!
+""	Vuoi rimuovere la casa	modello di {0011-0000-0002-0000}	da {0011-0002-0002-0000} dalla lista	delle tue preferite?
+""	La casa modello	di {0011-0000-0002-0000} da {0011-0002-0002-0000}	non è più tra le tue preferite!	{Pink}Puoi salvarne ancora {Number (0x7)}.{Color Reset}
+""	Vuoi rimuovere {0011-0000-0002-0000}	da {0011-0002-0002-0000} e la sua casa	modello dal Quartiere	Sbirciacase?
 ""	Vuoi davvero rimuovere	i dati di questo giocatore?	Non potrai annullare	questa operazione.
-""	
+""
 ""	Vuoi modificare	le impostazioni in modo da	non visualizzare più questo	giocatore e la sua casa	modello?
 ""	Ciò ti impedirà	di visualizzare i contenuti	creati da questo utente	anche in altri giochi.
-""	Salvataggio in corso...	Non toccare .
+""	Salvataggio in corso...	Non toccare ☢.
 ""	Non puoi cancellare	le case preferite salvate	da altri. Chiedi a loro	di cancellarle!
 ""	Non puoi cancellare	proprietari o case	salvate come preferiti!	Rimuovili prima dalla	lista dei preferiti!
 ""	La comunicazione si è interrotta.	I tuoi progressi potrebbero essere	andati persi. Il gioco verrà riavviato.
@@ -2016,16 +2016,16 @@
 ""	Re
 ""	Mi
 ""	Fa
-""	{0000-0002-0002-4b-00}Sol{0000-0002-0002-64-00}
+""	{Text size 75%}Sol{Text size 100%}
 ""	La
 ""	Si
 ""	ー
 ""	Scegli destinatario
 ""	Io futuro
-""	{capitalized}
-""	Vuoi aggiornare	le impostazioni del	migliore amico di {0011-0000-0002-00-00}
-""	Le impostazioni	di {0011-0000-0002-00-00}
-""	Senza questo aggiornamento,	potrai comunicare con	{0011-0000-0002-00-00}
+""	{capitalized}{0011-0000-0002-0000} da {0011-0002-0002-0000}	sta giocando con una console	diversa da quella usata	quando l'hai aggiunt{000e-0005-0008-0002-006f-0002-0061} alla	lista dei tuoi migliori amici.
+""	Vuoi aggiornare	le impostazioni del	migliore amico di {0011-0000-0002-0000}	in modo che coincidano	nella console e nel gioco?
+""	Le impostazioni	di {0011-0000-0002-0000} sono state	aggiornate e attualmente	coincidono nella console	e nel gioco!
+""	Senza questo aggiornamento,	potrai comunicare con	{0011-0000-0002-0000} solo se giocherà	con la console Nintendo 3DS	che usava in precedenza.
 ""	
 ""	Riponi
 ""	Elimina
@@ -2034,11 +2034,11 @@
 ""	Questa musica è già	presente nella tua lista!
 ""	Non puoi rimuovere	la tua musica dalla lista	se hai le tasche piene!
 ""	Non hai musica	nelle tue tasche!
-""	Vuoi rimuovere	"{0011-0003-0002-00-00}
+""	Vuoi rimuovere	"{0011-0003-0002-0000}"	dall'elenco dei brani?
 ""	No
 ""	Sì
 ""	Va bene un posto qualsiasi!
-""	
+""
 ""	Puoi scegliere un massimo	di 3 ingredienti!
 ""	Puoi scegliere un massimo	di 5 fiocchi di neve!
 ""	Puoi scegliere un massimo	di 3 fiocchi di neve!
@@ -2050,8 +2050,8 @@
 ""	Il centro spedizioni	dell'ufficio postale è oberato	di lavoro. Il tuo ordine	non può essere inviato.
 ""	Il tuo ordine è confermato!	L'articolo ti verrà recapitato	tra breve direttamente	nella tua cassetta	delle lettere.
 ""	Non è stato possibile	trovare l'articolo	che stai cercando.
-""	{Blue}{capitalized}
-""	
+""	{Blue}{capitalized}{0011-0003-0002-0000}{Color Reset}	È questo l'articolo	che desideri ordinare?
+""
 ""	stell.
 ""	Annulla
 ""	Ordina
@@ -2062,7 +2062,7 @@
 ""	Annulla
 ""	Aggiorna
 ""	No
-""	
+""
 ""	Totale attuale
 ""	Mancano:
 ""	Lista oggetti
@@ -2084,7 +2084,7 @@
 ""	Se lo modifichi, non sarà più	un modello Pro.	Vuoi continuare lo stesso?
 ""	No
 ""	Sì
-""	Vuoi cancellare	{0011-0005-0000}
+""	Vuoi cancellare	{0011-0005-0000}	di {0011-0000-0002-0000}?
 ""	No
 ""	Sì
 ""	I modelli che crei possono	essere indossati o usati	per arredare casa.
@@ -2101,36 +2101,36 @@
 ""	Qui puoi vedere tutti	i giocatori che si trovano	sull'isola con te in questo	momento.
 ""	Se mentre ti trovi sull'isola,	hai un incontro spiacevole	con uno di questi giocatori...
 ""	... selezionalo dalla lista	e modifica le impostazioni	per evitare di incontrarlo	nuovamente in futuro.
-""	Hai cambiato le tue	impostazioni per evitare	di incontrare {0011-0000-0002-00-00}
-""	
+""	Hai cambiato le tue	impostazioni per evitare	di incontrare {0011-0000-0002-0000}	da {0011-0002-0002-0000} nei tuoi	prossimi tour sull'isola.
+""
 ""	Puoi usare un massimo	di 5 cifre nel nome!
 ""	Non usare numeri	nel tuo commento!
-""	{0011-0002-0002-00-00}
-""	
-""	{0000-0002-0002-64-00}Sindaco {0011-0000-0002-00-00}
-""	{0011-0000-0002-00-00}
-""	Compleanno: {Date-cd01} {0004-000e-0002-01-ffffffcd}
-""	
-""	Registr. {Date-cd00} {0004-000e-0002-00-ffffffcd} {0004-000d-0002-00-ffffffcd}
-""	
+""	{0011-0002-0002-0000}
+""
+""	{Text size 100%}Sindaco {0011-0000-0002-0000}{Text size 100%}
+""	{0011-0000-0002-0000}
+""	Compleanno: {Date-cd01} {0004-000e-0002-cd01}
+""
+""	Registr. {Date-cd00} {0004-000e-0002-cd00} {0004-000d-0002-cd00}
+""
 ""	Codice del sogno
 ""	{0011-0007-0000}
 ""	xxxx-xxxx-xxxx
-""	
-""	
+""
+""
 ""	{0011-0008-0000}
 ""	Inserisci un commento qui.
 ""	Sono online!
-""	{Number (0x7)}
-""	{Number (0x7)}
+""	{Number (0x7)} {minuti/minuto/minuti} fa
+""	{Number (0x7)} {ore/ora/ore} fa
 ""	Tempo fa
-""	
-""	Vuoi rimuovere {0011-0000-0002-00-00}!
+""
+""	Vuoi rimuovere {0011-0000-0002-0000}	da {0011-0002-0002-0000} dalla lista?
 ""	Disattivando questa	funzione non potrai	scambiare messaggi	con i tuoi migliori amici.	Vuoi davvero procedere?
 ""	La funzione per scambiare	messaggi con i tuoi migliori	amici è stata attivata.
 ""	La funzione per scambiare	messaggi con i tuoi migliori	amici è stata disattivata.
 ""	Vuoi attivare la funzione	per scambiare messaggi	con i tuoi migliori amici?
-""	
+""
 ""	No
 ""	Sì
 ""	Invia a tutti
@@ -2143,16 +2143,16 @@
 ""	Sì
 ""	No
 ""	Non puoi scambiare	messaggi con i tuoi	migliori amici durante	la comunicazione wireless	locale.
-""	{capitalized}
+""	{capitalized}{0011-0000-0002-0000} da {0011-0002-0002-0000}	è stat{000e-0012-000c-000d-0002-006f-0002-0061-0000} rimoss{000e-0012-000c-000d-0002-006f-0002-0061-0000}	dalla tua lista	dei migliori amici.
 ""	La funzione per scambiare	messaggi con i tuoi migliori	amici non può essere	usata attualmente perché	è limitata dal filtro famiglia.
 ""	Vuoi attivare la funzione	per scambiare messaggi	con i tuoi migliori amici?
-""	
+""
 ""	Qui puoi visualizzare	i tuoi migliori amici.
 ""	Registrandovi a vicenda	come migliori amici, potrete	scambiare messaggi via	Internet.
 ""	Puoi anche inviare messaggi	a tutti i tuoi migliori amici	contemporaneamente con	l'opzione Invia a tutti.
 ""	Per registrare i tuoi migliori	amici e scambiare messaggi	con loro, devi accettare	la versione più recente	dell'Accordo per l'utilizzo.
 ""	Riprova dopo aver letto e	accettato l'Accordo per	l'utilizzo che trovi nelle	Impostazioni della console.
-""	
+""
 ""	Non puoi usare parole simili!
 ""	Per poter registrare	un amico, devi prima creare	il tuo biglietto da visita	nella tua lista di amici.
 ""	Nintendo is the author of this software	for the purpose of copyright.	All rights reserved.
@@ -2165,8 +2165,8 @@
 ""	Se entrambi vi registrate	come migliori amici, potrete	scambiare messaggi via	Internet.
 ""	Ci sono molti vantaggi	nel registrarsi come migliori	amici. Scoprili provando	le diverse funzioni disponibili	insieme ai tuoi amici.
 ""	Ricerca del QR Code	in corso...	Inquadralo in modo che si	venga a trovare all'interno	della cornice tratteggiata.
-""	La scansione del	QR Code {Number (0x7)}
-""	Ricerca del QR Code {Number (0x7)}
+""	La scansione del	QR Code {Number (0x7)} è terminata.	Prepara il QR Code	successivo.
+""	Ricerca del QR Code {Number (0x7)}	in corso...	Inquadralo in modo che si	venga a trovare all'interno	della cornice tratteggiata.
 ""	Vuoi salvare questo modello	personalizzato?
 ""	Questo QR Code non	corrisponde a un modello	personalizzato di {Green}Animal	Crossing: New Leaf -	Welcome amiibo{Color Reset}.
 ""	Procedi alla scansione	dei QR Code nell'ordine	corretto.
@@ -2174,39 +2174,39 @@
 ""	Impossibile attivare la	Fotocamera Nintendo 3DS.
 ""	Ricerca QR Code in corso...
 ""	Il QR Code è stato creato	e i dati sono stati salvati	nella scheda SD.
-""	A breve il tour {Blue}{0012-0015-0000}
-""	In partenza il tour {Blue}{0012-0015-0000}
-""	Il tour {Blue}{0012-0015-0000}
-""	Il tour {Blue}{0012-0015-0000}
-""	Il viaggio per {Town name (pink)}
-""	Il viaggio per {Town name (pink)}
-""	Salvataggio dei dati del	QR Code nella scheda SD	in corso... Non toccare .
+""	A breve il tour {Blue}{0012-0015-0000}{Color Reset}!
+""	In partenza il tour {Blue}{0012-0015-0000}{Color Reset}!
+""	Il tour {Blue}{0012-0015-0000}{Color Reset} è partito!
+""	Il tour {Blue}{0012-0015-0000}{Color Reset} è annullato!
+""	Il viaggio per {Town name (pink)} partirà a breve!
+""	Il viaggio per {Town name (pink)} è stato annullato!
+""	Salvataggio dei dati del	QR Code nella scheda SD	in corso... Non toccare ☢.
 ""	Il tuo biglietto da visita	è stato creato e ora puoi	registrare i tuoi amici.
-""	
+""
 ""	Puoi ascoltare musica	utilizzando i mobili che	dispongono di tale funzione!
 ""	Quando ottieni della musica,	puoi aggiungerla alla tua	collezione!
-""	
-""	Tema {0012-001d-0000}
+""
+""	Tema {0012-001d-0000}: {0004-000c-0002-0000} p.
 ""	Altri paesi
 ""	No
 ""	Sì
-""	
+""
 ""	Questa è la tua tessera del	cittadino, a cui ci si riferisce	anche con la sigla {Blue}TDC{Color Reset}.
 ""	Gli utenti incontrati tramite	Internet o StreetPass	possono vedere la tua TDC	e i tuoi commenti.
 ""	Non includere informazioni	personali e, per evitare di	offendere gli altri utenti,	non usare parole o frasi	inadatte.
 ""	Non puoi aggiungere	o rimuovere brani	quando hai visite!
 ""	Non puoi aggiungere	o rimuovere brani	quando hai visite!
-""	
-""	
-""	Vuoi ricevere i messaggi	di {0011-0000-0002-00-00}
-""	Vuoi ricevere i messaggi	di {0011-0000-0002-00-00}
-""	
+""
+""
+""	Vuoi ricevere i messaggi	di {0011-0000-0002-0000}	da {0011-0002-0002-0000}?
+""	Vuoi ricevere i messaggi	di {0011-0000-0002-0000}	da {0011-0002-0002-0000}?
+""
 ""	An authorization is required	to use any features that	allow the sharing of personal	data.
 ""	Please refer to the {Blue}Child	Online Privacy Protection{Color Reset}	restriction. This can be	located in {Blue}System Settings	{Color Reset}under {Blue}Parental Controls{Color Reset}.
 ""	Inserisci il PIN.	(In futuro non sarà	più necessario.)
 ""	Il PIN è sbagliato.
-""	
-""	
+""
+""
 ""	When playing {Green}Animal	Crossing: New Leaf{Color Reset}, you can	leave the Parental Controls	settings the way they are...
 ""	but opt to remove certain	restrictions just for {Green}Animal	Crossing: New Leaf -	Welcome amiibo{Color Reset}.
 ""	Want to use this feature so	you can exchange messages	with your best friends in	{Green}Animal Crossing: New Leaf -	Welcome amiibo{Color Reset}?
@@ -2220,89 +2220,89 @@
 ""	Systems that have the {Blue}Child	Online Privacy Protection	restriction {Color Reset}and/or {Blue}restriction	on Sharing Images / Audio /	Video / Long Text Data{Color Reset}...
 ""	enabled cannot use online	communication features,	including the exchange of	messages with best friends.
 ""	OK.
-""	 Guardians
+""	⚠ Guardians
 ""	{Villager's name (orange)}
 ""	Ordina
 ""	 coupon
 ""	Importa dati città
 ""	Collega dati HHD
-""	
+""
 ""	Coupon civici
 ""	Da convertire
 ""	Stelline
 ""	 
-""	 Annulla
+""	Ⓑ Annulla
 ""	Posiziona il lettore/scrittore	NFC di fronte al modulo	a infrarossi e usa l'amiibo.
 ""	Oggi il negozio è a corto di personale. Ci scusiamo per eventuali disagi!
-""	
+""
 ""	Ricevi coupon
-""	
-""	
+""
+""
 ""	Esci
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
 ""	Iniziative completate!
-""	
+""
 ""	Coupon ricevuti
-""	{0000-0002-0002-58-00}Animal Crossing Puzzle League{0000-0002-0002-64-00}
+""	{Text size 88%}Animal Crossing Puzzle League{Text size 100%}
 ""	Fuga dall'isola deserta
 ""	Non ci sono coupon civici	da ricevere.
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	Indietro
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	OK
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	
 ""	
-""	
-""	
-""	
+""
+""
+""
 ""	START: schermo del titolo
 ""	+: Scatta foto
 ""	Varie
@@ -2312,42 +2312,42 @@
 ""	Riduci
 ""	Allontana
 ""	Avvicina
-""	
+""
 ""	A casa
-""	
-""	
-""	
+""
+""
+""
 ""	{Number (0x7)}/{Number (0x7)}/{Number (0x9)}
 ""	In piedi
 ""	A sedere
 ""	A riposo
 ""	In corsa
-""	
+""
 ""	Fotocam. amiibo
 ""	Prossima pagina
-""	
-""	
+""
+""
 ""	×
 ""	×
-""	
-""	
+""
+""
 ""	×
-""	
-""	
-""	
+""
+""
+""
 ""	+
-""	
+""
 ""	×
 == 4 ==
-""	Drücke 
+""	Drücke Ⓐ
 ""	Weiter
 ""	Neues Spiel
 ""	Einziehen
 ""	Zurück
-""	{0011-0000-0002-00-00}缀
-""	{0011-0000-0002-01-00}
-""	{0011-0000-0002-02-00}
-""	{0011-0000-0002-03-00}
+""	{0011-0000-0002-0000}
+""	{0011-0000-0002-0001}
+""	{0011-0000-0002-0002}
+""	{0011-0000-0002-0003}
 ""	Altersbeschränkungen
 ""	SpotPass
 ""	Beenden
@@ -2396,7 +2396,7 @@
 ""	Lesen
 ""	Wegwerfen
 ""	Bearbeiten
-""	
+""
 ""	Empfänger ändern
 ""	Abbrechen
 ""	Nein
@@ -2448,10 +2448,10 @@
 ""	Wie viele willst du?
 ""	Rüben
 ""	 
-""	
+""
 ""	Lege einen Zeitpunkt fest!
-""	
-""	{Number (0x7)}
+""
+""	🦋{Number (0x7)} 🐟{Number (0x7)} 🐙{Number (0x7)}
 ""	Unkrautjäten – LOS!
 ""	Unkrautjäten beenden!
 ""	Unkrautjäten beenden!
@@ -2473,7 +2473,7 @@
 ""	Die Überfahrt wurde abgesagt.
 ""	Jemand ist auf der Insel angekommen.
 ""	Jemand verlässt die Insel.
-""	{capitalized}
+""	{capitalized}{0011-0000-0002-0000} ist angekommen.
 ""	Warten auf Freunde...
 ""	Noch 30 Sekunden!
 ""	Die Zeit ist um!
@@ -2491,13 +2491,13 @@
 ""	Wähle ein Lied aus!
 ""	Was stiften?
 ""	Was analysieren?
-""	
-""	
-""	
+""
+""
+""
 ""	Wähle ein Design!
 ""	Welches Design?
 ""	Für wie viel verkaufen?
-""	
+""
 ""	Schlummeranschrift:
 ""	Gib die Geheimzahl ein!
 ""	Was geben?
@@ -2514,9 +2514,9 @@
 ""	Gib den Stadtnamen ein!
 ""	Gib den Spielernamen ein!
 ""	Was einpacken?
-""	{0011-0000-0002-00-00}
-""	{0011-0000-0002-00-00}
-""	{0011-0001-0002-00-00}
+""	{0011-0000-0002-0000} aus {0011-0002-0002-0000}
+""	{0011-0000-0002-0000}
+""	{0011-0001-0002-0000}
 ""	{Number (0x7)}.{Number (0x7)}.{Number (0x9)}
 ""	Diese Nachricht löschen?
 ""	Möchtest du aufhören, ohne	die Nachricht anzubringen?
@@ -2529,43 +2529,43 @@
 ""	Welche Kleidung?
 ""	Wie viele abgeben?
 ""	Schwierigkeit
-""	{Number (0x7)}
+""	{Number (0x7)} Min.
 ""	5-8 Min.
-""	{capitalized}
-""	{capitalized}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
 ""	Ziel
 ""	Besucher
 ""	Besuchen
-""	{capitalized}
-""	{capitalized}
+""	{capitalized}{0011-0002-0002-0000} kann zurzeit keine	weiteren Besucher aufnehmen.
+""	{capitalized}{0011-0000-0002-0000} aus {0011-0002-0002-0000}	ist jetzt dein Freund.
 ""	Du kannst dir Informationen	über deine besten Freunde	ansehen, indem du 	berührst!
 ""	Drücke , um zum HOME-Menü	zurückzukehren
 ""	Anwesende Spieler
-""	{capitalized}
-""	{capitalized}
-""	{capitalized}
-""	Bist du sicher, dass du	{0011-0000-0002-00-00}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
+""	{capitalized}{0011-0000-0002-0000} aus {0011-0002-0002-0000}	gehört nun zu deinen besten	Freunden.
+""	Bist du sicher, dass du	{0011-0000-0002-0000} aus {0011-0002-0002-0000}	von nun an nicht mehr	auf der Insel begegnen	möchtest?
 ""	Du kannst nur bis zu 32	beste Freunde haben!
-""	Soll {0011-0000-0002-00-00}
-""	{capitalized}
-""	Möchtest du {0011-0000-0002-00-00}
-""	Du wirst von nun an	{0011-0000-0002-00-00}
-""	{capitalized}
-""	{capitalized}
-""	Du bist jetzt mit {0011-0000-0002-00-00}
-""	{capitalized}
+""	Soll {0011-0000-0002-0000} aus	{0011-0002-0002-0000} zu deinen besten	Freunden gehören?
+""	{capitalized}{0011-0000-0002-0000} aus {0011-0002-0002-0000}	wurde zu deinen besten	Freunden hinzugefügt.
+""	Möchtest du {0011-0000-0002-0000} aus	{0011-0002-0002-0000} von nun an nicht	mehr auf der Insel begegnen?
+""	Du wirst von nun an	{0011-0000-0002-0000} aus {0011-0002-0002-0000}	nicht mehr auf der Insel	begegnen.
+""	{capitalized}{0011-0000-0002-0000} aus {0011-0002-0002-0000}	als Freund registrieren?
+""	{capitalized}{0011-0000-0002-0000} als Freund registriert!
+""	Du bist jetzt mit {0011-0000-0002-0000} befreundet!
+""	{capitalized}{0011-0000-0002-0000} aus {0011-0002-0002-0000}	muss dich noch als Freund	hinzufügen.
 ""	Da deine Freundesliste voll	ist, kannst du keine weiteren	Freunde hinzufügen.
 ""	Das Hinzufügen von	Freunden wurde in den	Altersbeschränkungen	gesperrt.
 ""	Um Freunde zu registrieren,	überprüfe zuerst deine	eigene Freundeskarte in der	Freundesliste deines	Nintendo 3DS-Systems.
 ""	Hier kannst du einen auf der	Insel befindlichen Spieler	wählen, dem du ab deinem	nächsten Inselbesuch nicht	mehr begegnen möchtest.
 ""	So kannst du verhindern,	dass du bei deinen nächsten	Besuchen wieder auf diesen	Spieler triffst.
-""	{capitalized}
+""	{capitalized}{0011-0003-0002-0000}
 ""	Jahreszeit
 ""	Zeit
 ""	Lebensraum
 ""	Rekord
-""	{0004-0014-0002-00-ffffffcd} mm
-""	{0004-0013-0002-00-ffffffcd} cm
+""	{0004-0014-0002-cd00} mm
+""	{0004-0013-0002-cd00} cm
 ""	.
 ""	:
 ""	Alles rausnehmen
@@ -2573,26 +2573,26 @@
 ""	1.000 Sternis
 ""	10.000 Sternis
 ""	Hauspass
-""	{capitalized}
-""	{capitalized}
-""	AdsH-Punkte: {0004-000c-0002-00-00}
-""	Stand: {Date-cd00} {0004-000e-0002-00-ffffffcd} {0004-000d-0002-00-ffffffcd}
+""	{capitalized}{0011-0002-0002-0000}
+""	{capitalized}{0011-0000-0002-0000}
+""	AdsH-Punkte: {0004-000c-0002-0000}
+""	Stand: {Date-cd00} {0004-000e-0002-cd00} {0004-000d-0002-cd00}
 ""	Profil ansehen
 ""	Möbel bestellen
 ""	Als Favorit markieren
 ""	Aus Favoriten entfernen
-""	Favorit von {0011-0000-0002-00-00}
-""	Möchtest du das Musterhaus	von {0011-0000-0002-00-00}
-""	Das Musterhaus von	{0011-0000-0002-00-00}
+""	Favorit von {0011-0000-0002-0000}
+""	Möchtest du das Musterhaus	von {0011-0000-0002-0000} aus	{0011-0002-0002-0000} zu deinen	Favoriten hinzufügen?	{Pink}Freie Favoriten-Plätze: {Number (0x7)}{Color Reset}
+""	Das Musterhaus von	{0011-0000-0002-0000} aus {0011-0002-0002-0000}	wurde deinen Favoriten	hinzugefügt!	{Pink}Freie Favoriten-Plätze: {Number (0x7)}{Color Reset}
 ""	Du kannst keine weiteren	Favoriten mehr hinzufügen.	Entferne Musterhäuser aus	deinen Favoriten, um neue	hinzufügen zu können.
-""	Das Musterhaus von	{0011-0000-0002-00-00}
-""	Das Musterhaus von	{0011-0000-0002-00-00}
-""	Möchtest du {0011-0000-0002-00-00}
+""	Das Musterhaus von	{0011-0000-0002-0000} aus {0011-0002-0002-0000}	aus den Favoriten entfernen?
+""	Das Musterhaus von	{0011-0000-0002-0000} aus {0011-0002-0002-0000}	wurde aus den Favoiten	entfernt.	{Pink}Freie Favoriten-Plätze: {Number (0x7)}{Color Reset}
+""	Möchtest du {0011-0000-0002-0000}	aus {0011-0002-0002-0000} und {000e-0005-0012-0008-0073-0065-0069-006e-0006-0069-0068-0072}	Musterhaus aus dem	Musterdorf entfernen?
 ""	Möchtest du Spieler und	Musterhaus wirklich	entfernen?	Das Entfernen kann nicht	rückgängig gemacht werden.
-""	
+""
 ""	Möchtest du, dass das	Musterhaus dieses Spielers	von nun an nie wieder bei	dir ausgestellt wird?
 ""	Bist du dir sicher?	Dies kann beeinflussen, ob	du auch in anderen Spielen	Inhalte dieses Spielers	sehen kannst.
-""	Speichervorgang.	Berühre nicht .
+""	Speichervorgang.	Berühre nicht ☢.
 ""	Favoriten anderer Spieler	kannst du nicht löschen.	Zuerst muss der andere	Spieler sie aus seinen	Favoriten entfernen.
 ""	Du kannst Musterhäuser, die	zu deinen Favoriten gehören,	und deren Besitzer nicht	löschen. Entferne sie zuerst	aus deinen Favoriten!
 ""	Die Verbindung wurde unterbrochen.	Möglicherweise wurden deine	Fortschritte nicht gespeichert.	Das Spiel wird nun neu gestartet.
@@ -2607,10 +2607,10 @@
 ""	ー
 ""	Empfänger wählen
 ""	Zukunfts-Ich
-""	{capitalized}
-""	Möchtest du die	Einstellungen an die	Kombination von Spiel und	System anpassen, die	{0011-0000-0002-00-00}
-""	Die Einstellungen wurden an	die Kombination von Spiel	und System angepasst,	die {0011-0000-0002-00-00}Ṥ嗹
-""	Mit diesen Einstellungen	kannst du nur mit {0011-0000-0002-00-00}
+""	{capitalized}{0011-0000-0002-0000} aus {0011-0002-0002-0000}	spielt auf einem anderen	System als jenem, auf dem	du {000e-0005-0010-0006-0069-0068-006e-0006-0073-0069-0065} deinen besten	Freunden hinzugefügt hast.
+""	Möchtest du die	Einstellungen an die	Kombination von Spiel und	System anpassen, die	{0011-0000-0002-0000} jetzt verwendet?
+""	Die Einstellungen wurden an	die Kombination von Spiel	und System angepasst,	die {0011-0000-0002-0000} aktuell	verwendet.
+""	Mit diesen Einstellungen	kannst du nur mit {0011-0000-0002-0000}	kommunizieren, wenn {000e-0005-000e-0004-0065-0072-0006-0073-0069-0065} auf	{000e-0005-001a-000c-0073-0065-0069-006e-0065-006d-000a-0069-0068-0072-0065-006d} ursprünglichen	Nintendo 3DS-System spielt.
 ""	
 ""	Weglegen
 ""	Löschen
@@ -2619,11 +2619,11 @@
 ""	Dieses Lied ist bereits	eingelegt!
 ""	In deinen Taschen ist	kein Platz, um dieses	Lied mitzunehmen.
 ""	Du hast gar kein Lied dabei!
-""	Möchtest du die Wiedergabe	von {Blue}{0011-0003-0002-00-00}
+""	Möchtest du die Wiedergabe	von {Blue}{0011-0003-0002-0000}	{Color Reset}beenden?
 ""	Weiterhören
 ""	Beenden
 ""	Egal wo!
-""	
+""
 ""	Du kannst nur bis zu	3 Zutaten auswählen!
 ""	Du kannst nur bis zu	5 Schneeflocken auswählen!
 ""	Du kannst nur bis zu	3 Schneeflocken auswählen!
@@ -2635,8 +2635,8 @@
 ""	Du kannst keine Bestellung	aufgeben, da die Versand-	zentrale des Postamts	überlastet ist.
 ""	Deine Bestellung wurde	aufgegeben und wird bald	in deinem Briefkasten	ankommen.
 ""	Der von dir gesuchte	Artikel konnte nicht	gefunden werden.
-""	{Blue}{0011-0003-0002-00-00}
-""	
+""	{Blue}{0011-0003-0002-0000}{Color Reset}	Möchtest du diesen	Artikel bestellen?
+""
 ""	Stern.
 ""	Abbrechen
 ""	Bestellen
@@ -2647,7 +2647,7 @@
 ""	Abbrechen
 ""	Anpassen
 ""	So lassen
-""	
+""
 ""	Spendensumme
 ""	Noch benötigt
 ""	Suchliste
@@ -2669,7 +2669,7 @@
 ""	Wenn du Änderungen	vornimmst, wird es nicht	länger ein Profi-Design sein.	Dennoch fortfahren?
 ""	Nein
 ""	Ja
-""	Möchtest du	{0011-0005-0000}
+""	Möchtest du	{0011-0005-0000}	von {0011-0000-0002-0000} löschen?
 ""	Nein
 ""	Löschen
 ""	Wenn du ein eigenes Design	erstellst, kannst du deine	Kleidung oder Möbel damit	verschönern.
@@ -2686,36 +2686,36 @@
 ""	Hier kannst du sehen, welche	anderen Spieler gerade mit	dir auf der Insel sind.
 ""	Es kann vorkommen, dass du	mit jemandem auf der Insel	nicht gut auskommst und	diesem Spieler nicht noch	einmal begegnen möchtest.
 ""	Dann kannst du den Spieler	aus dieser Liste auswählen	und die Einstellungen ändern,	sodass du diesem Spieler	nicht erneut begegnest.
-""	Deine Einstellungen wurden	so geändert, dass du	{0011-0000-0002-00-00}
-""	
+""	Deine Einstellungen wurden	so geändert, dass du	{0011-0000-0002-0000} aus {0011-0002-0002-0000}	in Zukunft nicht mehr auf	der Insel begegnest.
+""
 ""	Für den Namen darfst du nur	bis zu 5 Ziffern verwenden.
 ""	In deinem Kommentar kannst	du keine Zahlen verwenden.
-""	{0011-0002-0002-00-00}
-""	
-""	{000e-0008-005a-00-ffffffcd-1a-00-42-00-fffffffc-00-72-00-67-00-65-00-72-00-6d-00-65-00-69-00-73-00-74-00-65-00-72-00-1e-00-42-00-fffffffc-00-72-00-67-00-65-00-72-00-6d-00-65-00-69-00-73-00-74-00-65-00-72-00-69-00-6e-00-1a-00-42-00-fffffffc-00-72-00-67-00-65-00-72-00-6d-00-65-00-69-00-73-00-74-00-65-00-72-00} {0011-0000-0002-00-00}
-""	{0011-0000-0002-00-00}
-""	Geburtstag: {Date-cd01} {0004-000e-0002-01-ffffffcd}
-""	
-""	Registriert am {Date-cd00} {0004-000e-0002-00-ffffffcd} {0004-000d-0002-00-ffffffcd}
-""	
+""	{0011-0002-0002-0000}
+""
+""	{Bürgermeister/Bürgermeisterin/Bürgermeister} {0011-0000-0002-0000}
+""	{0011-0000-0002-0000}
+""	Geburtstag: {Date-cd01} {0004-000e-0002-cd01}
+""
+""	Registriert am {Date-cd00} {0004-000e-0002-cd00} {0004-000d-0002-cd00}
+""
 ""	Schlummeranschrift
 ""	{0011-0007-0000}
 ""	xxxx-xxxx-xxxx
-""	
-""	
+""
+""
 ""	{0011-0008-0000}
 ""	Füge einen Kommentar ein!
 ""	Ich bin online!
-""	Vor {Number (0x7)}
-""	Vor {Number (0x7)}
+""	Vor {Number (0x7)} Min.
+""	Vor {Number (0x7)} Std.
 ""	Vor einiger Zeit
-""	
-""	{capitalized}
+""
+""	{capitalized}{0011-0000-0002-0000} aus {0011-0002-0002-0000}	aus der Liste entfernen?
 ""	Wenn du diese Funktion	deaktivierst, kannst du mit	deinen besten Freunden	keine Nachrichten mehr	austauschen. Fortfahren?
 ""	Die Funktion zum Austausch	von Nachrichten mit besten	Freunden wurde aktiviert.
 ""	Die Funktion zum Austausch	von Nachrichten mit besten	Freunden wurde deaktiviert.
 ""	Möchtest du die Funktion	zum Austausch von	Nachrichten mit besten	Freunden aktivieren?
-""	
+""
 ""	Aus
 ""	Ein
 ""	An alle
@@ -2728,16 +2728,16 @@
 ""	Deaktivieren
 ""	So lassen
 ""	Du kannst keine Nachrichten	mit deinen besten Freunden	austauschen, während eine	Verbindung im lokalen Modus	aktiviert ist.
-""	{capitalized}
+""	{capitalized}{0011-0000-0002-0000} aus {0011-0002-0002-0000}	wurde aus der Liste deiner	besten Freunden entfernt.
 ""	Die Funktion zum Austausch	von Nachrichten mit besten	Freunden ist zurzeit durch	die Altersbeschränkungen	gesperrt.
 ""	Möchtest du die Funktion	zum Austausch von	Nachrichten mit besten	Freunden aktivieren?
-""	
+""
 ""	Hier kannst du dir eine Liste	deiner besten Freunde	ansehen.
 ""	Wenn ihr euch gegenseitig als	beste Freunde registriert,	könnt ihr euch über die	drahtlose Verbindung	Nachrichten schicken.
 ""	Du kannst auch all deinen	besten Freunden gleichzeitig	eine Nachricht schicken,	indem du die Schaltfläche	„An alle“ berührst.
 ""	Stimme dem aktuellen	Nutzungsvertrag zu, um	die Funktion zum Austausch	von Nachrichten mit besten	Freunden nutzen zu können.
 ""	Stimme dem aktuellen	Vertrag zur Nutzung der	Nintendo 3DS-Services	in den Systemeinstellungen	zu und versuche es erneut.
-""	
+""
 ""	Der Text enthält Wörter,	die nicht verwendet werden	dürfen.
 ""	Um einen Freund registrieren	zu können, musst du zuerst	deine eigene Freundeskarte	in der Freundesliste deines	Systems einrichten.
 ""	Nintendo is the author of this software	for the purpose of copyright.	All rights reserved.
@@ -2750,8 +2750,8 @@
 ""	Wenn ihr euch gegenseitig als	beste Freunde registriert,	könnt ihr euch jederzeit über	die Internetverbindung	Nachrichten schicken.
 ""	Es gibt noch weitere	praktische Vorteile für	beste Freunde. Probiere	es einfach einmal aus!
 ""	QR Code wird gesucht...	Achte bitte darauf, dass sich	der QR Code innerhalb des	Rahmens befindet.
-""	QR Code {Number (0x7)}
-""	QR Code {Number (0x7)}
+""	QR Code {Number (0x7)} kann gelesen	werden.	Bitte bereite den nächsten	QR Code vor.
+""	QR Code {Number (0x7)} wird gesucht...	Achte bitte darauf, dass sich	der QR Code innerhalb des	Rahmens befindet.
 ""	Möchtest du dieses Design	speichern?
 ""	Dieser QR Code gehört nicht	zu einem eigenen Design aus	{Green}Animal Crossing: New Leaf {Green}-{Green}	Welcome amiibo{Color Reset}.
 ""	Scanne die QR Code-Bilder	bitte in der richtigen	Reihenfolge.
@@ -2759,39 +2759,39 @@
 ""	Nintendo 3DS-Kamera	konnte nicht gestartet	werden.
 ""	QR Code wird gesucht...
 ""	Der QR Code wurde	erfolgreich erstellt. Die	Informationen sind nun auf	deiner SD Card gespeichert.
-""	Ausflug „{0012-0015-0000}
-""	Ausflug „{0012-0015-0000}
-""	Ausflug „{0012-0015-0000}
-""	Ausflug „{0012-0015-0000}
-""	Das Schiff nach {Town name (pink)}!
-""	Die Reise nach {Town name (pink)}
-""	Der QR Code wird auf der	SD Card gespeichert...	Berühre nicht .
+""	Ausflug „{0012-0015-0000}“: Das Schiff legt jetzt ab.
+""	Ausflug „{0012-0015-0000}“: Das Schiff legt bald ab.
+""	Ausflug „{0012-0015-0000}“: Das Schiff hat abgelegt.
+""	Ausflug „{0012-0015-0000}“ wurde abgesagt.
+""	Das Schiff nach {Town name (pink)} fährt bald ab.
+""	Die Reise nach {Town name (pink)} wurde abgesagt.
+""	Der QR Code wird auf der	SD Card gespeichert...	Berühre nicht ☢.
 ""	Deine Freundeskarte wurde	bestätigt. Du kannst deiner	Freundesliste jetzt von hier	aus Freunde hinzufügen.
-""	
+""
 ""	In Einrichtungsgegenstände	mit Audio-Funktion kannst	du Musik einlegen.
 ""	Sobald du Musik erhalten	hast, kannst du sie in dein	Abspielgerät einlegen und	sie dir anhören.
-""	
-""	Thema: {0012-001d-0000}
+""
+""	Thema: {0012-001d-0000}; {0004-000c-0002-0000} P.
 ""	Andere Länder
 ""	Aus
 ""	Ein
-""	
+""
 ""	Dies ist der {Blue}Bürgerpass{Color Reset}, auf	dem dein Profil angezeigt	wird.
 ""	Triffst du über {Blue}StreetPass{Color Reset}	oder eine Internetverbindung	andere Spieler, können diese	deinen Bürgerpass sehen und	deinen Kommentar lesen.
 ""	Gib daher keine persönlichen	Informationen preis und	verwende keine Inhalte,	die das Spielerlebnis anderer	beeinträchtigen könnten.
 ""	Während du Besuch hast,	kannst du keine Lieder	hinzufügen oder entfernen.
 ""	Während sich Besucher in	deiner Stadt aufhalten,	kannst du keine Lieder	hinzufügen oder entfernen.
-""	
-""	
-""	Möchtest du Nachrichten	von {0011-0000-0002-00-00}
-""	Möchtest du Nachrichten	von {0011-0000-0002-00-00}
-""	
+""
+""
+""	Möchtest du Nachrichten	von {0011-0000-0002-0000} aus	{0011-0002-0002-0000} erhalten?
+""	Möchtest du Nachrichten	von {0011-0000-0002-0000} aus	{0011-0002-0002-0000} blockieren?
+""
 ""	An authorization is required	to use any features that	allow the sharing of personal	data.
 ""	Please refer to the {Blue}Child	Online Privacy Protection{Color Reset}	restriction. This can be	located in {Blue}System Settings	{Color Reset}under {Blue}Parental Controls{Color Reset}.
 ""	Please enter the PIN.	(Will not be necessary in the	future.)
 ""	The PIN is not correct.
-""	
-""	
+""
+""
 ""	When playing {Green}Animal	Crossing: New Leaf{Color Reset}, you can	leave the Parental Controls	settings the way they are...
 ""	but opt to remove certain	restrictions just for {Green}Animal	Crossing: New Leaf -	Welcome amiibo{Color Reset}.
 ""	Want to use this feature so	you can exchange messages	with your best friends in	{Green}Animal Crossing: New Leaf -	Welcome amiibo{Color Reset}?
@@ -2805,89 +2805,89 @@
 ""	Systems that have the {Blue}Child	Online Privacy Protection	restriction {Color Reset}and/or {Blue}restriction	on Sharing Images / Audio /	Video / Long Text Data{Color Reset}...
 ""	enabled cannot use online	communication features,	including the exchange of	messages with best friends.
 ""	OK.
-""	 Guardians
+""	⚠ Guardians
 ""	{Villager's name (orange)}
 ""	Gegenstand bestellen
 ""	Coupons
 ""	Stadt importieren
 ""	HHD verlinken
-""	
+""
 ""	Deine Coupons
 ""	Eintauschen
 ""	Gegenwert
 ""	 
-""	 Lieber nicht...
+""	Ⓑ Lieber nicht...
 ""	Richte das NFC-Lese-/	Schreibgerät auf den	Infrarot-Sende-Empfänger.
 ""	Heute ist niemand im Laden. Bitte entschuldige die Unannehmlichkeiten!
-""	
+""
 ""	Coupon abholen
-""	
-""	
+""
+""
 ""	Beenden
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
 ""	Initiativen abgeschlossen!
-""	
+""
 ""	Erhaltene Coupons:
 ""	Puzzle League-Bonus:
 ""	Einsame-Insel-Bonus:
 ""	Leider keine Camping-	Coupons hinterlegt!
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	Zurück
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	Okay
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
-""	
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
 ""	
 ""	
-""	
-""	
-""	
+""
+""
+""
 ""	Mit START zum Titelbildschirm
 ""	+ Foto machen
 ""	Mehrere
@@ -2897,29 +2897,29 @@
 ""	Kleiner
 ""	Weiter
 ""	Näher
-""	
+""
 ""	Rückzug!
-""	
-""	
-""	
+""
+""
+""
 ""	{Number (0x7)}.{Number (0x7)}.{Number (0x9)}
 ""	Aufstehen
 ""	Setzen
 ""	Hinlegen
 ""	Laufen
-""	
+""
 ""	amiibo-Kamera
 ""	Nächste Seite
-""	
-""	
+""
+""
 ""	×
 ""	×
-""	
-""	
+""
+""
 ""	×
-""	
-""	
-""	
+""
+""
+""
 ""	+
-""	
+""
 ""	×

@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Joy}
-"003"	{emote: Soft Smile}
-"004"	{ruby (charSpan 1): じつ}実はわたしも　この{ruby (charSpan 1): むら}村が{ruby (charSpan 1): き}気になって{pause 8}
-"005"	{emote: Soft Smile}
-"006"	そうなんですね{pause 30}
-"007"	{emote: Agreement}
-"008"	{emote: Happiness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{emote: Soft Smile}
+"001"	{emote: Soft Smile}{ruby (charSpan 1): さそ}誘っていただけて{pause 8}	とっても　うれしいです！{Wait for input}{emote: Reset}ただ　{ruby (charSpan 2): やくば}役場の{ruby (charSpan 1): かた}方のお{ruby (charSpan 1): はなし}話では、{pause 20}	{ruby (charSpan 2): てんにゅう}転入の{ruby (charSpan 2): てつづ}手続きが　{ruby (charSpan 1): こ}混み{ruby (charSpan 1): あ}合っているので{pause 8}	{emote: Disagreement}{ruby (charSpan 2): きょう}今日はもう　{ruby (charSpan 1): むずか}難しいとのことです	{emote: Reset}{ruby (charSpan 2): ざんねん}残念ですが{pause 8}　{ruby (charSpan 2): こんかい}今回は	{emote: Soft Smile}あきらめますね、{pause 16}{catchphrase}
+"002"	{emote: Joy}まあ！{pause 16}	とっても　うれしいです！{emote: Soft Smile}{Wait for input}わたしも　ステキな{ruby (charSpan 1): むら}村だなと	{ruby (charSpan 1): おも}思っていましたので、{pause 20}	{emote: Agreement}お{ruby (charSpan 2): ことば}言葉に{ruby (charSpan 1): あま}甘えさせてもらいます	{emote: Happiness}{ruby (charSpan 1): かえ}帰ったら　さっそく	{ruby (charSpan 2): ひっこ}引越しの{ruby (charSpan 2): じゅんび}準備を{ruby (charSpan 1): はじ}始めますね、{pause 16}{catchphrase}！
+"003"	{emote: Soft Smile}{ruby (charSpan 1): さそ}誘っていただけて{pause 8}	とっても　うれしいです！{Wait for input}{emote: Reset}ただ　{ruby (charSpan 2): やくば}役場の{ruby (charSpan 1): かた}方のお{ruby (charSpan 1): はなし}話では、{pause 20}	{ruby (charSpan 2): てんにゅう}転入の{ruby (charSpan 2): てつづ}手続きが　{ruby (charSpan 1): こ}混み{ruby (charSpan 1): あ}合っているので{pause 8}	{emote: Disagreement}{ruby (charSpan 2): きょう}今日はもう　{ruby (charSpan 1): むずか}難しいとのことです	{emote: Thought}{ruby (charSpan 2): そんちょう}村長さんに{ruby (charSpan 2): そうだん}相談したら{pause 8}	なんとかなるのでしょうか？
+"004"	{ruby (charSpan 1): じつ}実はわたしも　この{ruby (charSpan 1): むら}村が{ruby (charSpan 1): き}気になって{pause 8}	{emote: Agreement}{ruby (charSpan 2): やくば}役場に　{ruby (charSpan 1): と}問い{ruby (charSpan 1): あ}合わせてみたのですが{Wait for input}あいにく　{ruby (charSpan 2): そんみん}村民の{ruby (charSpan 1): かず}数がいっぱいで{pause 16}	{emote: Disagreement}{ruby (charSpan 1): いま}今は{ruby (charSpan 1): う}受け{ruby (charSpan 1): い}入れることが　できないって{pause 8}	{ruby (charSpan 1): い}言われたんですよね{emote: Worry}	・{pause 8}・{pause 8}・{emote: Alarmed}{pause 8}だけど{pause 20}	{emote: Agreement}あなたは　ここの{ruby (charSpan 2): そんちょう}村長さん！{Wait for input}{emote: Soft Smile}わたしが　{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): こ}来られるように{pause 16}	{ruby (charSpan 2): ちょくせつ}直接　{ruby (charSpan 2): そんみん}村民のどなたかと{pause 8}	{ruby (charSpan 2): そうだん}相談してもよいでしょうか？{000f-0000-0004-0000-0000}	オッケー！	それはちょっと・・・
+"005"	{emote: Soft Smile}そうですよね！{pause 20}	せっかく{ruby (charSpan 1): さそ}誘っていただきましたけど、{pause 8}	{ruby (charSpan 2): こんかい}今回は　あきらめますね、{pause 16}{catchphrase}
+"006"	そうなんですね{pause 30}	{emote: Soft Smile}では　どなたと{ruby (charSpan 2): そうだん}相談すれば	よいでしょうか？
+"007"	{emote: Agreement}やっぱり　そうですよね、{pause 8}	わかります！{pause 40}	{emote: Soft Smile}{ruby (charSpan 2): こんかい}今回は　あきらめますね、{pause 16}{catchphrase}
+"008"	{emote: Happiness}{0011-0001-0002-0000}さんですね！{pause 30}	では　{ruby (charSpan 2): そうだん}相談してみます！
+"009"	{emote: Soft Smile}{ruby (charSpan 2): そうだん}相談してきました！{Wait for input}{emote: Reset}{ruby (charSpan 1): じつ}実は　{0011-0001-0002-0000}さん、{emote: Agreement}{pause 8}そろそろ	{ruby (charSpan 2): ひっこ}引越そうかと　{ruby (charSpan 1): かんが}考え{ruby (charSpan 1): ちゅう}中だったみたいで、{pause 8}	{emote: Soft Smile}{ruby (charSpan 1): こころよ}快く　OKしてくださったんです	{emote: Reset}ということで、{pause 16}	{emote: Happiness}{0011-0001-0002-0000}さんの　ご{ruby (charSpan 2): こうい}厚意に{ruby (charSpan 1): あま}甘えて{pause 8}	{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): く}来ることにしますね！{pause 16}　{catchphrase}！
+"010"	{emote: Soft Smile}{ruby (charSpan 2): そうだん}相談してきました！{Wait for input}{emote: Reset}{ruby (charSpan 1): じつ}実は　{0011-0001-0002-0000}さん、{emote: Agreement}{pause 8}	たまたま　{ruby (charSpan 2): ひっこ}引越しを　{ruby (charSpan 2): けいかく}計画されていたそうで{pause 8}	{emote: Soft Smile}あっさり　OKしてくださったんです	{emote: Happiness}ということで{pause 8}　エンリョなく	{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): く}来ることにしますね！{pause 16}　{catchphrase}！
+"011"	{emote: Soft Smile}{ruby (charSpan 1): さそ}誘っていただけて{pause 8}	とっても　うれしいです！{Wait for input}{emote: Reset}ただ　{ruby (charSpan 2): やくば}役場の{ruby (charSpan 1): かた}方のお{ruby (charSpan 1): はなし}話では、{pause 20}	{ruby (charSpan 1): むら}村で　{ruby (charSpan 1): おお}大きなイベントがあるので{pause 8}	{emote: Disagreement}{ruby (charSpan 2): きょう}今日はもう　{ruby (charSpan 1): むずか}難しいとのことです	{emote: Reset}{ruby (charSpan 2): ざんねん}残念ですが{pause 8}　{ruby (charSpan 2): こんかい}今回は	{emote: Soft Smile}あきらめますね、{pause 16}{catchphrase}

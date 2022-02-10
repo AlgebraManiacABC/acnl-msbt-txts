@@ -1,14 +1,14 @@
 == 0 ==
-"001"	
-"002"	{emote: Glee}
-"003"	
-"004"	あっちむいて～{0007-0009-0004-14-00-00-00}
-"005"		{0007-000a-0000}
-"006"	{emote: Mistaken}
-"007"	{emote: Glare}
-"008"	{emote: Sunny}
-"009"	{emote: Laughter}
-"010"	ってことは、{pause 40}!
-"011"	ってことは、{pause 40}!
-"012"	ってことは、{pause 40}!
-"013"	ってことは、{pause 40}ơ
+"001"
+"002"	{emote: Glee}じゃかじゃかじゃ～～ん！		{Wait <005a 0000> 'time'}	それじゃあ	ルールをせつめいするねぇ！{Wait for input}ボクが{pause 20}　{emote: Anger}「あっちむいて～」{pause 40}{emote: Reset}って{ruby (charSpan 1): い}言ったら、{pause 20}	キミは{pause 8}　をおすんだよぉ？{Wait for input}{ruby (charSpan 1): うえ}上か{pause 8}　{ruby (charSpan 1): した}下か{pause 8}　{ruby (charSpan 1): みぎ}右か{pause 8}　{ruby (charSpan 1): ひだり}左か{pause 40}	{ruby (charSpan 1): くび}首をどこに　むけるのかを	きめるんだぁ！{Wait for input}{emote: Happiness}もし　ボクと　{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): ほう}方を	むくことができたら{pause 8}	キミのかちだよ{Wait for input}{emote: Greetings}チャンスは3{ruby (charSpan 1): かい}回！{pause 40}	{emote: Glare}ボクが　どっちをむくか	わかるかなぁ？{Wait for input}{emote: Happiness}それじゃあ　さっそく	いくよぉ～？
+"003"
+"004"	あっちむいて～{Wait <0014 0000> 'time'}
+"005"		{0007-000a-0000}{Text size 200%}ホ{pause 8}～{pause 8}イ{Text size 100%}
+"006"	{emote: Mistaken}うわぁ～！{pause 20}	{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): ほう}方　むいちゃったぁ
+"007"	{emote: Glare}ちがう{ruby (charSpan 1): ほう}方を	むいちゃったねぇ？{pause 40}	それじゃあ　もう1{ruby (charSpan 1): かい}回いくよぉ～
+"008"	{emote: Sunny}わぁ～い！{pause 20}	またまた　ハズレ～！{Wait for input}{emote: Glare}さいごの1{ruby (charSpan 1): かい}回{pause 8}・{pause 8}・{pause 8}・{pause 20}	じゅんびはいい～？
+"009"	{emote: Laughter}さいごの1{ruby (charSpan 1): かい}回も	ハズレ～！{pause 40}{emote: Soft Smile}
+"010"	ってことは、{pause 40}	{emote: Delight}キミの　かちだねぇ！
+"011"	ってことは、{pause 40}	{emote: Delight}おめでとぉ～{pause 20}	キミのかちだねぇ、{pause 8}{catchphrase}
+"012"	ってことは、{pause 40}	{emote: Glee}うわぁ～い！{pause 20}	ボクのかちだぁ、{pause 8}{catchphrase}
+"013"	ってことは、{pause 40}	{emote: Joy}ボク　かっちゃったぁ！{pause 20}	やったぁ、{pause 8}{catchphrase}

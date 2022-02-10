@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Sneezing}
-"002"	{emote: Sadness}
-"003"	{emote: Sadness}
-"004"	{emote: HotWithSleeves}
-"005"	{emote: Sadness}
-"006"	{emote: Glee}
-"007"	{emote: Sadness}
-"008"	{emote: Sadness}
-"009"	{emote: Distress}
+"001"	{emote: Sneezing}ハッ{pause 20}{0007-000b-0000}クション！{Wait for input}{emote: Laughter}ハハッ！{pause 20}	こんくらい　なんでもないぞー？{Wait for input}	{emote: Sneezing}ハッ{pause 20}{0007-000b-0000}クション！{pause 40}　アレ？
+"002"	{emote: Sadness}はぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): あさ}朝から　スッキリしないんだ{pause 40}	{ruby (charSpan 2): きょう}今日は　ジョギングやめとこうかな
+"003"	{emote: Sadness}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	おっかしーなー{pause 40}	{ruby (charSpan 1): からだ}体に　{ruby (charSpan 1): おも}重りがついてるみたいだー{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): きのう}昨日の{ruby (charSpan 1): よる}夜{pause 20}　{0005-0013-0002-0000}	{ruby (charSpan 1): た}食べすぎたせいかなー？
+"004"	{emote: HotWithSleeves}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): お}起きたときから	{ruby (charSpan 1): からだ}体が　{ruby (charSpan 1): あつ}熱いんだー{Wait for input}{emote: Curious}オイラが　{ruby (charSpan 1): あつ}熱い{ruby (charSpan 1): おとこ}男だからかな？{Wait for input}	{emote: Sneezing}ハーッ{pause 20}{0007-000b-0000}クション！{pause 60}	それとも　カゼだからかな？
+"005"	{emote: Sadness}こんなに　きたえてても、	カゼって　ひくんだなー{pause 40}	なんか　くやしいぞー、{pause 8}{catchphrase}
+"006"	{emote: Glee}へっちゃら　へっちゃらー{Wait for input}	{emote: Sadness}って{ruby (charSpan 1): い}言いたいけど、{pause 40}	コレは　ちょっぴりヤバイかも{pause 8}・{pause 8}・{pause 8}・
+"007"	{emote: Sadness}オイラの　{ruby (charSpan 4): せんしゅせいめい}選手生命も{pause 20}	ここで{ruby (charSpan 1): お}終わりかー{pause 8}・{pause 8}・{pause 8}・
+"008"	{emote: Sadness}はぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ついに　{Player nickname (green)}の	まぼろし　まで　{ruby (charSpan 1): み}見えてきた{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}って、{pause 40}コレは　ホンモノか？！
+"009"	{emote: Distress}チクショーッ！{pause 40}	オイラの　きたえぬいた{ruby (charSpan 1): からだ}体も、{pause 20}	カゼには　{ruby (charSpan 1): か}勝てないっていうのかー？！

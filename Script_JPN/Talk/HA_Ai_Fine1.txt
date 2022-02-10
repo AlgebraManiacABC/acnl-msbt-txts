@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Alarmed}
-"003"	{emote: Greetings}
-"004"	{emote: Star Yell}
-"005"	{emote: Surprise}
-"006"	{emote: Greetings}
-"007"	その{ruby (charSpan 1): かお}顔{pause 8}
-"008"	{emote: Surprise}
-"009"	{emote: Happiness}
-"010"	{emote: Greetings}
-"011"	{emote: Happiness}
-"012"	{emote: Greetings}
-"013"	{Greeting begin}
-"014"	{000a-0008-0010-10-00-10-00-11-00-11-00-11-00-11-00-11-00-10-00}
-"015"	{000a-0008-0010-12-00-12-00-13-00-13-00-13-00-13-00-13-00-12-00}
-"016"	{0009-0001-0006-01-00-02-00-03-00}
-"017"	{0009-0000-0004-01-00-02-00}
-"018"	{0009-0002-0008-04-00-05-00-06-00-07-00}
-"019"	{0009-0000-0004-06-00-07-00}
+"001"	{emote: Happiness}{Greeting begin}おー！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	オマエ　{ruby (charSpan 2): きょう}今日も	{ruby (charSpan 2): げんき}元気そうだな、{pause 8}{catchphrase}！
+"002"	{emote: Alarmed}おー！{pause 8}　{Player nickname (green)}じゃん！{pause 40}	{emote: Happiness}{ruby (charSpan 2): きょう}今日も{ruby (charSpan 2): いちにち}一日{pause 20}　{emote: Greetings}はりきっていこー！	{pause 8}{catchphrase}！
+"003"	{emote: Greetings}{Greeting begin}よぉ！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	{emote: Glee}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): うんどう}運動するのに	ピッタリの　いい{ruby (charSpan 2): てんき}天気だな、{pause 8}{catchphrase}
+"004"	{emote: Star Yell}{pause 15}オー{0007-000b-0000}ーーッス！{pause 20}　{Player nickname (green)}ー！{emote: Soft Smile}{pause 40}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): きも}気持ちよく{ruby (charSpan 1): は}晴れたな！{pause 20}	トレーニング{ruby (charSpan 2): びより}日和だぞ、{pause 8}{catchphrase}
+"005"	{emote: Surprise}おー！{pause 8}　{Player nickname (green)}！{pause 40}	{emote: Glee}こう　{ruby (charSpan 2): てんき}天気がいいと	うかれちゃうよなー、{pause 8}{catchphrase}
+"006"	{emote: Greetings}{Greeting begin}オーッス！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	{ruby (charSpan 2): きょう}今日も　きたえてるか？	{pause 8}{catchphrase}？
+"007"	その{ruby (charSpan 1): かお}顔{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}{ruby (charSpan 2): ちょうし}調子　いいみたいだな！{pause 20}	{Player nickname (green)}、{pause 8}{catchphrase}！
+"008"	{emote: Surprise}あ！{pause 8}　{Player nickname (green)}じゃん！{pause 40}	{emote: Happiness}{ruby (charSpan 2): きょう}今日もオイラは　きたえまくってたんだ！{pause 40}	{emote: Pride}{ruby (charSpan 1): み}見てくれ　このボディー、{pause 8}{catchphrase}
+"009"	{emote: Happiness}{Greeting begin}よぉ！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 40}	もう{ruby (charSpan 1): ひ}日が　くれちゃったけど	オマエは　まだまだ{ruby (charSpan 2): げんき}元気だな、{pause 8}{catchphrase}
+"010"	{emote: Greetings}{Greeting begin}オーッス！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 40}	{emote: Happiness}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 1): おも}思いっきり{ruby (charSpan 1): あそ}遊びまわって{pause 20}	いいアセ　かいたぞ、{pause 8}{catchphrase}！
+"011"	{emote: Happiness}おー！{pause 8}　{Player nickname (green)}！{pause 40}	{ruby (charSpan 2): よなか}夜中に{ruby (charSpan 1): はし}走りこみか！{pause 20}	いい{ruby (charSpan 1): こころ}心がけだぞ、{pause 8}{catchphrase}
+"012"	{emote: Greetings}オーッス！{pause 8}　{Player nickname (green)}！{pause 20}	オマエ　{ruby (charSpan 1): み}見かけによらず、タフだなー！{Wait for input}{emote: Sleepy}ふぁぁ～～{pause 40}	オイラは　もうねむいぞ、{pause 8}{catchphrase}
+"013"	{Greeting begin}よぉ！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 40}	{emote: Sleepy}{ruby (charSpan 2): あした}明日のために	そろそろ　ねようかな、{pause 8}{catchphrase}
+"014"	{000a-0008-0010-0010-0010-0011-0011-0011-0011-0011-0010}
+"015"	{000a-0008-0010-0012-0012-0013-0013-0013-0013-0013-0012}
+"016"	{0009-0001-0006-0001-0002-0003}
+"017"	{0009-0000-0004-0001-0002}
+"018"	{0009-0002-0008-0004-0005-0006-0007}
+"019"	{0009-0000-0004-0006-0007}

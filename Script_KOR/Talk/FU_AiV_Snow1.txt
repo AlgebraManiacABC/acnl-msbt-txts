@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	어머, {pause 10}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
+"001"	{emote: Happiness}{Greeting begin}좋은 아침이에요{Greeting end}!{Wait for input}	오늘은 {pause 10}아침부터 눈이 오네요,	{pause 15}{catchphrase}
+"002"	{emote: Happiness}{Greeting begin}안녕하세요{Greeting end}!{Wait for input}	아침에 추워서 눈을 떠 보니{pause 8}	눈이 오고 있더라구요, {pause 15}{catchphrase}!
+"003"	{emote: Happiness}어머, {pause 10}{Player name}님{pause 15}	놀러 오셨군요, {pause 15}{catchphrase}!{Wait for input}	오늘 아침은{pause 8} 왠지 더 춥게 느껴지네요
+"004"	{emote: Happiness}어머, {pause 10}{Player name}님!{pause 20}	눈 내리는 {Town name (pink)} 마을에 오신 걸	{pause 5}환영합니다! {pause 15}{catchphrase}!
+"005"	{emote: Happiness}{Greeting begin}어머나{Greeting end}!{pause 20}	놀러 와 계셨네요, {pause 10}{catchphrase}{Wait for input}하늘에서 눈이 오고 있어요{pause 15}	추위에 지지 말고{pause 10} 함께 즐겨보아요!
+"006"	{emote: Happiness}어머나!{pause 20}	언제 오신 거예요?{Wait for input}	{emote: Glee}정말 반가워요, {pause 15}{catchphrase}
+"007"	{emote: Happiness}{Greeting begin}안녕하세요{Greeting end}{pause 20}	놀러 오신 거예요?{Wait for input}{emote: Soft Smile}눈 내리는 {Town name (pink)} 마을의 경치를{pause 15}	두 눈 가득 담아보세요, {pause 15}{catchphrase}
+"008"	{emote: Happiness}어머!{pause 10} {Town name (pink)} 마을에 오신 걸	환영해요, {pause 15}{catchphrase}!	{emote: Fearful}오늘 밤은{pause 8} 점점 더 추워지겠어요
+"009"	{emote: Happiness}{Player name}님, {pause 10}안녕하세요{pause 15}	놀러 와 계셨군요!{Wait for input}오늘 밤은 꽤 추우니까{pause 10} 따뜻하게{pause 5}	입고 다니세요, {pause 15}{catchphrase}
+"010"	{emote: Happiness}어머,{pause 15} 누구신가 했더니{pause 10}	{Player name}님 아니세요? {pause 15}{catchphrase}{Wait for input}	그나저나 내일 아침까지{pause 10} 눈이 올까요?
+"011"	어머, {pause 10}우리 마을에 놀러 오셨군요!{Wait for input}{emote: Happiness}오늘 밤 {Town name (pink)} 마을은{pause 10}	하얀 눈이 내리고 있답니다{Wait for input}	좋은 추억이 될 거예요, {pause 15}{catchphrase}
+"012"	{emote: Happiness}{Greeting begin}어머나, {pause 20}{Player name}님!{Greeting end}{Wait for input}오늘 밤 {Town name (pink)} 마을은{pause 10}	아주 춥답니다{Wait for input}감기 걸리지 않게{pause 10}	조심하세요, {pause 10}{catchphrase}
+"013"	{emote: Happiness}{Greeting begin}어머나{Greeting end}!{pause 20}	{Player nickname (green)}님이시네요{Wait for input}{emote: Shyness}눈 속의 {pause 8}{Player nickname (green)}님{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Sunny}너무 근사해요～ {pause 15}{catchphrase}
+"014"	{emote: Happiness}어머나! {pause 10}어서 오세요!{Wait for input}	{emote: Fearful}오늘 {Town name (pink)} 마을은{pause 10}	꽤 춥답니다, {pause 15}{catchphrase}
+"015"	{emote: Happiness}어머, {pause 10}안녕하세요!{Wait for input}{emote: Soft Smile}눈 속의 {Town name (pink)} 마을에서{pause 10}	즐거운 시간 보내세요, {pause 10}{catchphrase}

@@ -1,41 +1,41 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	아,{pause 20}
-"004"	저기{pause 20}
-"005"	{emote: Alarmed}
-"006"	저기{pause 20}
-"007"	아,{pause 20}
-"008"	바,{pause 20}
-"009"	조,{pause 20}
-"010"	아니,{pause 8}
-"011"	제,{pause 20}
-"012"	{emote: Worry}
-"013"	아,{pause 20}
-"014"	그게{pause 8}
-"015"	앗,{pause 8}
-"016"	저기,{pause 8}
-"017"	그게{pause 8}
-"018"	제,{pause 20}
-"019"	{emote: Alarmed}
-"020"	
-"021"	에, 그러니까{pause 20}
-"022"	아,{pause 20}
-"023"	저기,{pause 20}
-"024"	앗,{pause 20}
-"025"	아,{pause 20}
-"026"	{emote: Distress}
-"027"	{emote: Alarmed}
-"028"	
-"029"	아,{pause 20}
-"031"	저기{pause 20}
-"032"	그게{pause 20}
-"033"	음,{pause 20}
-"034"	저기{pause 20}
-"035"	저, 저기{pause 20}
-"036"	그러고 보니까{pause 8}
-"037"	그러니까 그게{pause 8}
-"038"	저,{pause 20}
-"039"	에,{pause 20}
-"040"	저기{pause 20}
-"041"	
+"001"	{emote: Alarmed}{0007-000b-0000}앗, 저기 그게{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Player name} 촌장님이십니까?{Wait for input}{emote: Distress}죄,{pause 20} 죄송합니다{pause 40}	얼굴도 몰라 뵙고{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}그게{pause 20} 그러니까{pause 40}	앞으로 잘 부탁드리겠습니다{pause 8}・{pause 8}・{pause 8}・
+"002"	{emote: Alarmed}{0007-000b-0000}앗, 저기 그게{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Player name}님이십니까?{Wait for input}{emote: Distress}죄, {pause 20}죄송합니다{pause 40}	얼굴도 몰라 뵙고{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}그게{pause 20} 그러니까{pause 8}・{pause 8}・{pause 8}・{pause 20}	앞으로{pause 8} 잘 부탁드리겠습니다
+"003"	아,{pause 20}{emote: Alarmed}{0007-000b-0000} 예옙!{pause 60}	{emote: Reset}여기는{pause 8} 그러니까{pause 20}	{Town name (pink)} 마을 경찰서입니다{pause 8}・{pause 8}・{pause 8}・
+"004"	저기{pause 20} 그게{pause 8}・{pause 8}・{pause 8}・{pause 40}	편하게 둘러보십시오
+"005"	{emote: Alarmed}{0007-000b-0000}앗, 저기{pause 8}・{pause 8}・{pause 8}・{pause 20}	안녕하십니까{pause 40}	일찍{pause 20} 일어나셨군요
+"006"	저기{pause 20} 그러니까{pause 40}	좋은 아침입니다{pause 8}・{pause 8}・{pause 8}・
+"007"	아,{pause 20} 안녕하십니까{pause 8}・{pause 8}・{pause 8}・
+"008"	바,{pause 20} 반갑습니다{pause 8}・{pause 8}・{pause 8}・
+"009"	조,{pause 20} 좋은 밤입니다{pause 8}・{pause 8}・{pause 8}・
+"010"	아니,{pause 8} 저기 그러니까{pause 40}	밤늦게까지{pause 20} 수고가 많으십니다{pause 8}・{pause 8}・{pause 8}・
+"011"	제,{pause 20} 제가 뭘{pause 20}	{emote: Curious}도와드리면 될까요?{000f-0005-0004-0000-0028}	특별한 일은?	아무것도 아냐
+"012"	{emote: Worry}그,{pause 20} 그렇습니까{pause 40}	죄송합니다{pause 8}・{pause 8}・{pause 8}・
+"013"	아,{pause 20}{emote: Alarmed}{0007-000b-0000} 예옙!{pause 60}	{emote: Reset}저기{pause 20} 그러니까 그게{pause 8}・{pause 8}・{pause 8}・{Wait for input}딱히 아무것도{pause 20}	눈치채지 못했는데{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}죄, {pause 20}죄송합니다!{pause 20}	정말 죄송합니다!{Wait for input}	{emote: Worry}{Text size 75%}앞으로{pause 20} 주의하겠습니다{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"014"	그게{pause 8}・{pause 8}・{pause 8}・{pause 20}	마을에 손님이	오실지도 모르겠네요{Wait for input}{emote: Alarmed}{0007-000b-0000}앗,{pause 20} 죄송합니다!{pause 40}	{emote: Worry}개표구가 열려 있어서{pause 20}	누군가 올지도{pause 20} 모른다는 뜻입니다{pause 20} {Text size 75%}예{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"015"	앗,{pause 8} 저기 그게{pause 8}・{pause 8}・{pause 8}・{pause 20}	역에서 연락이 왔었는데{Wait for input}다른 마을에서{pause 20}	손님이 와 계신다고{pause 20}	했던 것 같습니다{pause 40} {Text size 75%}아마도{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"016"	저기,{pause 8} 그게{pause 8}・{pause 8}・{pause 8}・{pause 20}	역에서 연락이 왔었는데{Wait for input}다른 마을에서{pause 20}	손님 두 분이 와 계신다고{pause 20}	했던 것 같습니다{pause 40} {Text size 75%}아마도{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"017"	그게{pause 8} 그러니까{pause 8}・{pause 8}・{pause 8}・{pause 20}	역에서 연락이 왔었는데{Wait for input}다른 마을에서{pause 20}	손님 세 분이 와 계신다고{pause 20}	했던 것 같습니다{pause 40} {Text size 75%}아마도{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"018"	제,{pause 20} 제가 뭘{pause 20}	{emote: Curious}도와드리면 될까요?{000f-0006-0006-0000-0000-0028}	분실물이・・・	특별한 일은?	아무것도 아냐
+"019"	{emote: Alarmed}부,{pause 20} 분실물 말씀이십니까?!{pause 40}	{emote: Reset}그게{pause 20} 저기 그러니까{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}누구 걸까요?{Wait for input}{emote: Distress}죄,{pause 20} 죄송합니다!{pause 40}	저도 모르게 질문해 버렸네요{Wait for input}{emote: Reset}저기{pause 8}・{pause 8}・{pause 8}・{pause 20}	혹시 괜찮으시면{pause 20}	직접 주인을 찾아주실 수 없을까요?{Wait for input}저는 경찰서를 지키고	있어야 해서 그러는데{pause 20}	좀 부탁드리겠습니다{Text size 100%}{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"020"
+"021"	에, 그러니까{pause 20} 보고 계신 그건{pause 20}	{Town name (pink)} 마을에서 발견된	분실물입니다{Wait for input}{emote: Worry}다른 마을에서 오신 분과는{pause 20}	별 상관이 없을 텐데{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}죄, {pause 20}죄송합니다!{pause 20}	정말 죄송합니다!{Wait for input}	{emote: Worry}{Text size 75%}앞으로{pause 20} 주의하겠습니다{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"022"	아,{pause 20} 예옙!{pause 40}	지금 보고 계시는 그건	마을에서 발견된 분실물입니다{Wait for input}주인이 나타나지 않으니까{pause 20}	가져가셔도 문제없을 거라고	생각합니다{pause 8}・{pause 8}・{pause 8}・{pause 20} {Text size 75%}아마도{Text size 100%}
+"023"	저기,{pause 20} 제 기억에 그건 아마도{pause 20}	{0011-0003-0002-0000}{000e-000e-000a-0004-c774-c5c8-0002-c600}던	것 같습니다{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Curious}가져가시겠습니까?{confirmation-02}{000f-0005-0004-0015-0028}	가져갈게	그만둘래
+"024"	앗,{pause 20} 저기 그게{pause 40}	지금 보고 계신 그건{pause 20}	마을에서 발견된 분실물입니다{Wait for input}주인이 나타나지 않으니까{pause 20}	가져가셔도 문제없을 거라고	생각합니다{pause 8}・{pause 8}・{pause 8}・{pause 20} {Text size 75%}아마도{Text size 100%}{Wait for input}그게{pause 8} 그러니까{pause 20}	{0011-0003-0002-0000}	같습니다만{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Curious}가져가시겠습니까?{confirmation-02}{000f-0005-0004-0015-0028}	가져갈게	그만둘래
+"025"	아,{pause 20}{emote: Alarmed}{0007-000b-0000} 예옙!{pause 20}	죄송합니다!
+"026"	{emote: Distress}앗,{pause 20} 저기{pause 20}	그게 그러니까{pause 8}・{pause 8}・{pause 8}・{pause 20}	소지품이 너무 많으시군요{Wait for input}{emote: Alarmed}{0007-000b-0000}죄, {pause 20}죄송합니다!{pause 40}	{emote: Worry}그 상태로는{pause 20} 가져가실 수 없을{pause 20}	{Text size 75%}것 같아서{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"027"	{emote: Alarmed}{0007-000b-0000}예?{pause 8} 아, 예옙!{pause 40}	가져가십시오{Wait for input}{emote: Reset}괜찮습니다{pause 20}	문제없을 거라고 생각합니다{pause 8}・{pause 8}・{pause 8}・{pause 20} {Text size 75%}아마도{Text size 100%}
+"028"
+"029"	아,{pause 20}{emote: Alarmed}{0007-000b-0000} 예옙!{pause 60}	{emote: Reset}여기는{pause 8} 그러니까{pause 20}	{Town name (pink)} 마을 경찰서입니다{pause 8}・{pause 8}・{pause 8}・{Wait for input}저기{pause 20} 그게{pause 8}・{pause 8}・{pause 8}・{pause 40}	편하게 둘러보십시오
+"031"	저기{pause 20}	그러니까 그게{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}오늘은 광장에{pause 20}	{Blue}운세관{Color Reset} 텐트가 있었던 것	같습니다{pause 8}・{pause 8}・{pause 8}・{pause 20} {Text size 75%}아마도{Text size 100%}
+"032"	그게{pause 20} 그러니까{pause 20}	지금 이 시간이면{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}{Blue}여욱 갤러리{Color Reset}가{pause 20}	광장에서 영업 중일 것으로	생각됩니다{pause 8}・{pause 8}・{pause 8}・{pause 20} {Text size 75%}아마도{Text size 100%}
+"033"	음,{pause 20} 그게{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Orange}사하라{Color Reset}님이라는 분을	아까 목격했습니다{Wait for input}벽지와 바닥은 이래야 한다고{pause 15}	말하는 걸 들은 것 같습니다{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}죄,{pause 20} 죄송합니다!{pause 40}	정확히 무슨 말인지	잘 들리지 않았습니다{Wait for input}{emote: Worry}{Text size 75%}앞으로{pause 20} 주의하겠습니다{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"034"	저기{pause 20} 그러고 보니까{pause 8}・{pause 8}・{pause 8}・{pause 20}	무 장수인 {Orange}무파라{Color Reset}님이	지나가는 걸 본 듯한데{pause 8}・{pause 8}・{pause 8}・{Wait for input}{Blue}일요일{Color Reset}{Blue} 오전{Color Reset}에는{pause 20}	매주 봤던 것 같습니다{Wait for input}지금도 마을 어딘가에서	무를 팔고 있을 거라고	생각합니다{pause 8}・{pause 8}・{pause 8}・{Text size 100%}{pause 20} {Text size 75%}아마도{Text size 100%}{Text size 100%}
+"035"	저, 저기{pause 20}	그게 그러니까{pause 8}・{pause 8}・{pause 8}・{Wait for input}마을에서{pause 20} 패션 디자이너인	{Orange}그레이스{Color Reset}님을 목격한 분이	있다고 들었습니다{Wait for input}요즘 가끔씩 마을에	나타난다고 하던데{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}왜 오는 걸까요?{Wait for input}{emote: Alarmed}{0007-000b-0000}죄,{pause 20} 죄송합니다!{pause 40}	저도 모르게 질문해 버렸네요{pause 40}	{emote: Worry}{Text size 75%}앞으로{pause 20} 주의하겠습니다{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"036"	그러고 보니까{pause 8}・{pause 8}・{pause 8}・{pause 20}	해변에 누군가가 쓰러져 있다는{pause 20}	신고가 들어왔었습니다{Wait for input}그래서 해변을 산책해봤는데{pause 20}	예쁜 조개껍데기 말고는	아무것도 없더라구요{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}죄,{pause 20} 죄송합니다!{pause 40}	수색 방법이 미흡했나요?{pause 40}	{emote: Worry}{Text size 75%}앞으로{pause 20} 주의하겠습니다{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"037"	그러니까 그게{pause 8}・{pause 8}・{pause 8}・{pause 20}	저기{pause 8}・{pause 8}・{pause 8}・{Wait for input}지금은 {Orange}펠리오{Color Reset}님이{pause 20}	우편배달 업무를 한창	하고 계실 때 같습니다{Wait for input}평소에는 {Blue}평일 아침 {Color Reset}{Blue}9시{Color Reset}와{pause 20}	{Blue}저녁 5시{Color Reset}에 배달을 한다고	들었습니다{pause 8}・{pause 8}・{pause 8}・{pause 20} {Text size 75%}아마도{Text size 100%}
+"038"	저,{pause 20} 저기 그게{pause 8}・{pause 8}・{pause 8}・{pause 20}	오늘은 {Orange}파론티노{Color Reset}님이	마을에 와 계셨던 것 같습니다{Wait for input}{Orange}파론티노{Color Reset}님은{pause 20}	열심히 노력하는 사람에게	배지를 준다던데{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}{0007-000b-0000}죄,{pause 20} 죄송합니다!{pause 40}	{emote: Worry}벌써 알고 계셨다면	정말 죄송합니다{pause 8}・{pause 8}・{pause 8}・
+"039"	에,{pause 20} 그게 그러니까{pause 8}・{pause 8}・{pause 8}・{Wait for input}원예점의 {Orange}늘봉{Color Reset}님이{pause 20}	마을에 계신 걸	본 것 같습니다{Wait for input}뭔가 중요한 임무가	있으신 것 같았습니다만{Wait for input}{emote: Worry}언뜻 보기에는{pause 20}	졸고 계신 것처럼	보였습니다{pause 8}・{pause 8}・{pause 8}・{pause 20} {Text size 75%}아마도{Text size 100%}
+"040"	저기{pause 20}	그게 말입니다{pause 8}・{pause 8}・{pause 8}・{Wait for input}오늘은 캠핑장에서{pause 20}	숙박하고 가시려는 분이	계신 것 같습니다{Wait for input}{emote: Distress}죄,{pause 20} 죄송합니다{pause 20}	어떤 분인지는 제가 직접 못 봐서{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Worry}{Text size 75%}앞으로{pause 20} 주의하겠습니다{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"041"

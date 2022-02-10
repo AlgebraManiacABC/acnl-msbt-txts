@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Sneezing}
-"002"	{emote: Sigh}
-"003"	{emote: Sigh}
-"004"	{emote: Sneezing}
-"005"		{0007-000c-0000}
-"006"	{emote: Fearful}
-"007"		{0007-000c-0000}
-"008"		{0007-000c-0000}
-"009"		{0007-000c-0000}
+"001"	{emote: Sneezing}へっ{pause 10}・{pause 10}・{pause 10}・{pause 10}{0007-000a-0000}くち！{Wait for input}	{emote: Worry}う～ん・{pause 8}・{pause 8}・{pause 20}	なんか　のどがイガイガする！	{emote: Sigh}せっかく　{ruby (charSpan 1): き}来てくれたのに、{pause 8}	おもてなし　できそうにないよ	{pause 8}・{pause 8}・{pause 8}・{pause 20}{0007-000a-0000}{emote: Sneezing}へくちん！
+"002"	{emote: Sigh}{ruby (charSpan 2): きょう}今日は　だるくて{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): なに}何もする{ruby (charSpan 1): き}気が　{ruby (charSpan 1): お}起きないんだ		{emote: Fearful}カゼかなぁ{pause 8}・{pause 8}・{pause 8}・{pause 40}	あんまり　ウチに	{ruby (charSpan 2): ちかよ}近寄らないほうが　いいよ！　{pause 20}{catchphrase}！{pause 40}{emote: Worry}
+"003"	{emote: Sigh}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}なんか	のどの{ruby (charSpan 2): ちょうし}調子が　{ruby (charSpan 1): わる}悪いんだよね		{emote: Resigned}せっかく　{ruby (charSpan 1): き}来てくれたのに、{pause 8}	こんなんで　{ruby (charSpan 1): わる}悪いね！　{pause 20}{catchphrase}！
+"004"	{emote: Sneezing}へっ{pause 8}・{pause 8}・{pause 8}・{pause 20}{0007-000a-0000}くちん！{Wait for input}	{emote: Resigned}あ～あ！{pause 20}　こりゃ{ruby (charSpan 3): ほんかくてき}本格的に	カゼかな？　{pause 20}{catchphrase}？
+"005"		{0007-000c-0000}{emote: Sneezing}{Text size 150%}ゲホゲホ{Text size 100%}{Text size 150%}{pause 8}・{pause 8}・{pause 8}・{pause 40}{Text size 150%}{Text size 150%}{0007-0008-0004-0014-0000}{Text size 150%}{Text size 150%}		{emote: Worry}{Text size 100%}あ～！{pause 20}	セキすると　のど{ruby (charSpan 1): いた}痛い！　{pause 20}{catchphrase}！
+"006"	{emote: Fearful}{ruby (charSpan 2): きょう}今日は　おかしいんだよ{pause 40}	{ruby (charSpan 2): さむけ}寒気が　{ruby (charSpan 1): と}止まらなくて{pause 8}・{pause 8}・{pause 8}・{pause 40}
+"007"		{0007-000c-0000}{emote: Sneezing}{Text size 150%}ゴホゴホ{Text size 100%}{Text size 150%}{pause 8}・{pause 8}・{pause 8}・{pause 40}{Text size 150%}{0007-0008-0004-0014-0000}{Text size 150%}	{Text size 100%}	{emote: Fearful}{pause 10}うう～{pause 8}・{pause 8}・{pause 8}・{pause 30}	おなかも{ruby (charSpan 1): いた}痛いよぉ{pause 8}・{pause 8}・{pause 8}・{pause 30}
+"008"		{0007-000c-0000}{emote: Sneezing}{Text size 150%}ゴホゴホ{Text size 100%}{Text size 150%}{pause 8}・{pause 8}・{pause 8}・{pause 40}{Text size 150%}{0007-0008-0004-0014-0000}{Text size 150%}{Text size 100%}		{emote: Fearful}{pause 20}{Player nickname (green)}{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): ちか}近づいたら　アンタにも	うつっちゃうよ！　{pause 20}{catchphrase}！
+"009"		{0007-000c-0000}{emote: Sneezing}{Text size 150%}ゲホゲホゲホッ{Text size 100%}{Text size 150%}{pause 8}・{pause 8}・{pause 8}・{pause 40}{Text size 150%}{0007-0008-0004-0014-0000}{Text size 150%}{Text size 100%}	{Text size 150%}	{Text size 100%}{emote: Fearful}{pause 20}ああ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): かんぜん}完全に　カゼだ{pause 8}・{pause 8}・{pause 8}・{pause 20}

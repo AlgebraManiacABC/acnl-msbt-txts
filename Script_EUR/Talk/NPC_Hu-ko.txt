@@ -1,465 +1,465 @@
 == 0 ==
-"001"	{0000-0002-0002-4b-00}{emote: Sleep Bubble}
-"002"	{emote: Distress}
-"003"	
-"004"	{emote: Happiness}
-"005"	{emote: Joy}
-"006"	{emote: Curious}
-"007"	By the way{pause 8}
-"008"	All right.{pause 10}
-"009"	Unfortunately,{pause 10}!
-"010"	Currently, a personal exhibit titled	{0012-0007-0002-00-ffffffcd} is being	held on this floor!
-"011"	We're currently holding displays	of the {0012-0007-0002-00-ffffffcd} and	{0012-0007-0002-01-ffffffcd} exhibits!
-"012"	We're currently holding a number of	displays on this floor, including the	{0012-0007-0002-00-ffffffcd} exhibit.	Also, the {0012-0007-0002-01-ffffffcd}	and the {0012-0007-0002-02-ffffffcd}	exhibits are set up for viewing!
-"013"	We're currently holding displays	of the {0012-0007-0002-00-ffffffcd} and	{0012-0007-0002-01-ffffffcd} exhibits.	Also the {0012-0007-0002-02-ffffffcd}	and {0012-0007-0002-03-ffffffcd} exhibits	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	Citizens of this town can use any	exhibit room on this floor as they	see fit for a display!	We rent personal exhibit spaces for	a fair price,{pause 5}
-"016"	{emote: Reset}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	What would you like{emote: Curious}
-"021"	Is there anything else	{emote: Curious}
-"022"	{emote: Happiness}
-"023"	If you'd like to exhibit something,{pause 10}
-"024"	After you rent the exhibit space,{pause 10}
-"025"	Also,{pause 10}
-"026"	When you want to stop using an	exhibit room,{pause 10}
-"027"	When you do so,{pause 10}
-"028"	{pause 5}
-"029"	{pause 5}
-"031"	
-"032"	Oh,{pause 10}
-"033"	Uh-oh,{pause 10}!
-"034"	Oh,{pause 10}
-"035"	{emote: Happiness}
-"036"	{emote: Sunny}
-"037"	Umm, yes!{pause 10}
-"038"	That is	{Article(word-dependant)}
-"039"	The price is {Blue}{0004-000c-0002-00-00}
-"041"	{emote: Happiness}
-"042"	{emote: Happiness}
-"043"	{emote: Happiness}
-"044"	{emote: Happiness}
-"045"	{emote: Happiness}
-"046"	{emote: Happiness}
-"047"	{emote: Happiness}
-"048"	{emote: Happiness}
-"049"	{emote: Happiness}
-"050"	{emote: Happiness}
-"051"	{emote: Happiness}
-"052"	{emote: Happiness}
-"053"	{emote: Happiness}
-"054"	
-"055"	
-"056"	
-"057"	{emote: Curious}
-"058"	The personal exhibit spaces on this	floor can be used by citizens of this	town for whatever they choose!	Also,{pause 5}
-"059"	{pause 8}
-"061"	You'd like to end the display of	{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset} in exhibit	room 1,{emote: Curious}
-"062"	You'd like to end the display of	{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset} in exhibit	room 2,{emote: Curious}
-"063"	You'd like to end the display of	{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset} in exhibit	room 3,{emote: Curious}
-"064"	You'd like to end the display of	{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset} in exhibit	room 4,{emote: Curious}
-"065"	
-"066"	{capitalized}
-"067"	Understood.{Wait for input}
-"068"	OK.{pause 10}
-"069"	{emote: Happiness}
-"070"	{emote: Worry}
-"071"	When you close your exhibit room,{pause 5}
-"072"	
-"073"	{emote: Worry}
-"074"	{emote: Worry}
-"075"	The fee to rent a personal exhibit	space is {Blue}10,000 Bells{Color Reset}.{pause 10}
-"076"	{emote: Happiness}
-"077"	Oh,{pause 10}
-"078"	{emote: Reset}
-"079"	OK.{pause 10}
-"080"	{emote: Happiness}
-"081"	By the way,{pause 5}
-"082"	Just like in your house,{pause 10}
-"083"	Also,{pause 10}
-"084"	{pause 8}
-"085"	Oh,{pause 10}
-"086"	Well then,{pause 10}
-"087"	{emote: Happiness}
-"088"	{emote: Happiness}
-"089"	{emote: Happiness}
-"090"	{emote: Happiness}
-"091"	{emote: Happiness}
-"092"	
-"093"	
-"094"	
-"095"	
+"001"	{Text size 75%}{emote: Sleep Bubble}Hrmmrmrmrm{pause 15}.{pause 15}.{pause 15}.{pause 25}{Text size 100%}{emote: Sleepy}{pause 120}{emote: Alarmed}{Wait <0096 0000> 'time'}	{emote: Shocked}{pause 5}Oh! Dear me!{Wait <002d 0000> 'time'}
+"002"	{emote: Distress}I do beg your pardon!{pause 20}	I was just resting my eyes!{Wait for input}{emote: Shyness}So, umm{pause 10}.{pause 10}.{pause 10}.{pause 10}{emote: Inspired}{Wait <002d 0000> 'time'}
+"003"
+"004"	{emote: Happiness}Welcome to {Town name (pink)}'s personal-	exhibit and gift-shop floor!
+"005"	{emote: Joy}Thanks to you,{pause 10} this floor is newly	opened!{Wait for input} {emote: Happiness}We thank you very much	for all your support!
+"006"	{emote: Curious}By the way,{pause 10} what was your name{pause 8}.{pause 8}.{pause 8}.{pause 8}?{0007-0008-0004-002d-0000}{Wait for input}{pause 5}{emote: Alarmed}{pause 10}Ah, {Player name},{pause 5} is it?{emote: Happiness}{Wait for input}I'm {Orange}Celeste{Color Reset}, and I'm in charge of this	floor.{Wait for input} {emote: Happiness}I am ever so pleased to make	your acquaintance!
+"007"	By the way{pause 8}.{pause 8}.{pause 8}.{pause 20}{Player name},{pause 5}{emote: Happiness} this is the	first time you've seen this floor, is	that right?	{emote: Reset}If you have the time,{pause 5} I'd like to	briefly explain about this floor{pause 8}.{pause 8}.{pause 8}.	{emote: Curious}Would you like to listen now?{000f-0005-0004-0015-0028}	OK!	Next time.
+"008"	All right.{pause 10} If you have any questions,	{emote: Happiness}please don't hesitate to ask me!
+"009"	Unfortunately,{pause 10} {emote: Worry}there is nothing being	displayed right now{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Soft Smile}But I'm sure	that will soon change!
+"010"	Currently, a personal exhibit titled	{0012-0007-0002-cd00} is being	held on this floor!
+"011"	We're currently holding displays	of the {0012-0007-0002-cd00} and	{0012-0007-0002-cd01} exhibits!
+"012"	We're currently holding a number of	displays on this floor, including the	{0012-0007-0002-cd00} exhibit.	Also, the {0012-0007-0002-cd01}	and the {0012-0007-0002-cd02}	exhibits are set up for viewing!
+"013"	We're currently holding displays	of the {0012-0007-0002-cd00} and	{0012-0007-0002-cd01} exhibits.	Also the {0012-0007-0002-cd02}	and {0012-0007-0002-cd03} exhibits	{emote: Happiness}as well!{pause 8} You should see them all!
+"014"	{emote: Happiness}Well, I hope you enjoy yourself!
+"015"	Citizens of this town can use any	exhibit room on this floor as they	see fit for a display!	We rent personal exhibit spaces for	a fair price,{pause 5} {emote: Happiness}so please let me know	if you want to use them!	{emote: Reset}You can decorate the rooms in the	same way you would decorate your	very own home.	If you use the {Blue}locker {Color Reset}next to the	staircase,{pause 5} {emote: Happiness}you can easily grab items	from home to use in the exhibit.	You can also store any items you	may be carrying,{pause 8} so it makes things	very convenient!	{emote: Glee}{capitalized}{Player name},{pause 10} I hope you enjoy	crafting a lot of unique displays!
+"016"	{emote: Reset}{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Happiness}That is all I have to say about the	personal exhibit spaces!{Wait for input}Also, {pause 5}I sell souvenirs here in the	hall, so come by often.{Wait for input}Plus, I stock commemorative goods	when the collections downstairs get	large enough.{pause 8} {emote: Agreement}Watch for those!
+"017"	{emote: Happiness}Would you like to talk about	the personal exhibit spaces?{000f-0006-0006-0000-0000-0028}	I want to display!	Please explain!	Never mind.
+"018"	{emote: Happiness}Would you like to talk about	the personal exhibit spaces?{000f-0007-0008-0000-0000-0000-0028}	I need more space!	Dismantle my display!	Please explain!	Never mind.
+"019"	{emote: Happiness}Would you like to talk about	the personal exhibit spaces?{000f-0006-0006-0000-0000-0028}	Dismantle my display!	Please explain!	Never mind.
+"020"	What would you like{emote: Curious} to know about?{000f-0007-0008-0000-0000-0000-0028}	What's this room for?	How to display things.	How to dismantle.	I changed my mind.
+"021"	Is there anything else	{emote: Curious}I can help you with?{000f-0007-0008-0000-0000-0000-0000}	What's this room for?	How to display things.	How to dismantle.	Nope, I'm good!
+"022"	{emote: Happiness}Understood.{Wait for input} Please take	your time looking around!
+"023"	If you'd like to exhibit something,{pause 10}	you can rent an exhibit space for	a very reasonable {Blue}10,000 Bells{Color Reset}.	{emote: Happiness}Once you rent it,{pause 10} you can use it	for an unlimited time or until you	choose to stop displaying.	{emote: Reset}Also,{pause 10} one person can use multiple	exhibit spaces if necessary!
+"024"	After you rent the exhibit space,{pause 10}	you can change its layout as you	like, similar to your own room!	If you use the locker next to the	staircase,{pause 10} {emote: Happiness}you can easily grab	items from your home!	It makes it simple to pull out items	for your exhibit rooms or put things	away.{pause 10} {emote: Soft Smile}It's rather convenient!
+"025"	Also,{pause 10} if you check the sign in front	of the personal exhibit space...{Wait for input}you can set a custom design for the	poster or set a name for the exhibit.{pause 10}	{emote: Happiness}It's like a room advertisement!
+"026"	When you want to stop using an	exhibit room,{pause 10} please let me know!
+"027"	When you do so,{pause 10} I will move all	items from the exhibit room to	the locker next to the staircase.	However,{pause 10} if you have any items that	can't be put in the locker,{pause 10} I won't be	able to dismantle your exhibit room.	The same applies if you have too	many items and can't fit everything	into the locker.	In that case,{pause 5} please organize your	things a bit before talking to me!
+"028"	{pause 5}{emote: Surprise}{pause 10}Oh!{pause 15} You're {emote: Curious}{Player name}, the mayor	of {Town name (pink)}, is that correct?
+"029"	{pause 5}{emote: Surprise}{pause 10}Ah!{pause 15} {emote: Reset}You live in this town,{emote: Happiness} correct?
+"031"
+"032"	Oh,{pause 10} are you sure?{Wait for input}	{emote: Happiness}Well, please look around	as much as you'd like!
+"033"	Uh-oh,{pause 10} it seems like you don't have	enough Bells right now{pause 5}.{pause 5}.{pause 5}.{Wait for input}{emote: Happiness}Please come back again after	collecting enough!
+"034"	Oh,{pause 10} but your pockets are full, so I	can't give you the item right now{pause 5}.{pause 5}.{pause 5}.{Wait for input}{emote: Happiness}Please come back after making	a little extra space for this item!
+"035"	{emote: Happiness}Yes,{pause 10} sure thing!
+"036"	{emote: Sunny}Thank you for your purchase!
+"037"	Umm, yes!{pause 10} {emote: Happiness}You'd like to buy some	items, right? I can help!
+"038"	That is	{Article(word-dependant)}{0011-0003-0002-0000}!
+"039"	The price is {Blue}{0004-000c-0002-0000} Bells{Color Reset}!{pause 5}	{emote: Happiness}What would you like to do?{confirmation-02}{000f-0005-0004-0015-0028}	I'll take it!	Never mind.
+"041"	{emote: Happiness}I'd recommend using it either in a	room in your home or in an exhibit	room here at the museum!
+"042"	{emote: Happiness}This item is being sold to celebrate	the amazing completion of our bug	collection! Isn't that wonderful?
+"043"	{emote: Happiness}This item is being sold to celebrate	the achievement of 50 bugs in our	bug collection!
+"044"	{emote: Happiness}This item is being sold to celebrate	the completion of our aquatic-	species collection!
+"045"	{emote: Happiness}This item is being sold to celebrate	the achievement of 50 sea and river	species living here in our museum!
+"046"	{emote: Happiness}This item is being sold to celebrate	the completion of our lovely fossil	collection!
+"047"	{emote: Happiness}This item is being sold to celebrate	the achievement of 30 fossils in our	museum!
+"048"	{emote: Happiness}This item is being sold{pause 5} to celebrate	the completion of the artwork	collection in our museum!
+"049"	{emote: Happiness}This item is being sold to celebrate	the achievement of 20 pieces of	artwork in our museum!
+"050"	{emote: Happiness}This item is being sold to celebrate	the achievement of 30 bugs in our	bug collection!
+"051"	{emote: Happiness}This item is being sold{pause 5} to celebrate	the achievement of 30 sea and river	species living in our museum!
+"052"	{emote: Happiness}This item is being sold to celebrate	the achievement of 15 fossils in our	museum's collection!
+"053"	{emote: Happiness}This item is being sold to celebrate	the completion of the collection on	the first floor of our museum!
+"054"
+"055"
+"056"
+"057"	{emote: Curious}By the way,{pause 10} what is your name{pause 8}.{pause 8}.{pause 8}.{pause 8}?{0007-0008-0004-002d-0000}{Wait for input}{pause 5}{emote: Alarmed}{pause 10}{capitalized}{Player name}{pause 8}.{pause 8}.{pause 8}.{pause 15} That must mean	you're the person who recently	moved into town!	I'm {Orange}Celeste{Color Reset}, and I'm in charge of this	floor!{Wait for input} {emote: Happiness}I'm very pleased to make your	acquaintance!
+"058"	The personal exhibit spaces on this	floor can be used by citizens of this	town for whatever they choose!	Also,{pause 5} we sell some gifts here in the	hall, if you need anything.{Wait for input}{emote: Happiness}{capitalized}{Player name}, {pause 5}please come back once	you're settled in after moving!
+"059"	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Alarmed}{pause 10}Ah!{pause 10} Pardon me!{pause 15} {emote: Reset}You've come	here to buy something,{pause 5} {emote: Curious}right?{000f-0005-0004-0015-0028}	Yup!	Nope.
+"061"	You'd like to end the display of	{Blue}{0012-0007-0002-cd00}{Color Reset} in exhibit	room 1,{emote: Curious} right?{confirmation-02}{000f-0005-0004-0015-0028}	Yes, please!	I changed my mind.
+"062"	You'd like to end the display of	{Blue}{0012-0007-0002-cd00}{Color Reset} in exhibit	room 2,{emote: Curious} right?{confirmation-02}{000f-0005-0004-0015-0028}	Yup!	I changed my mind.
+"063"	You'd like to end the display of	{Blue}{0012-0007-0002-cd00}{Color Reset} in exhibit	room 3,{emote: Curious} right?{confirmation-02}{000f-0005-0004-0015-0028}	That's right!	I changed my mind.
+"064"	You'd like to end the display of	{Blue}{0012-0007-0002-cd00}{Color Reset} in exhibit	room 4,{emote: Curious} right?{confirmation-02}{000f-0005-0004-0015-0028}	Yup, yup!	I changed my mind.
+"065"
+"066"	{capitalized}{Player name}, you are currently using	multiple personal exhibit rooms.{pause 10}	{emote: Curious}Which one would you like to close?{pause 5}
+"067"	Understood.{Wait for input}	{emote: Happiness}Then you may keep using it!
+"068"	OK.{pause 10} We will close the exhibit	room and set the sign back to	how it originally looked{pause 8}.{pause 8}.{pause 8}.
+"069"	{emote: Happiness}Thank you for waiting!{Wait for input}	I hope to see you again soon!
+"070"	{emote: Worry}It seems like there's no extra space	in the locker, so we can't put all of	the items away.	{emote: Reset}I'm sorry,{pause 10} but can you please talk	to me again{emote: Happiness} after organizing your	personal storage a little bit?
+"071"	When you close your exhibit room,{pause 5}	all of the items in it will be moved	to the locker.{pause 5} {emote: Curious}Is that OK?{confirmation-02}{000f-0005-0004-0015-0028}	No problem!	I changed my mind.
+"072"
+"073"	{emote: Worry}All exhibit spaces are being used.{Wait for input}	{emote: Reset}Please come back again {emote: Happiness}when we	have a room available.
+"074"	{emote: Worry}I can't make changes to the exhibit	spaces while we have guests visiting	from out of town.	{emote: Reset}I'm sorry,{pause 5} but {emote: Happiness}please come to talk	to me some other time!
+"075"	The fee to rent a personal exhibit	space is {Blue}10,000 Bells{Color Reset}.{pause 10} {emote: Curious}Is that OK?{confirmation-02}{000f-0005-0004-0015-0028}	Sure!	Never mind.
+"076"	{emote: Happiness}These rooms are available now.{pause 10}	Which one would you like to use?
+"077"	Oh,{pause 10} are you positively sure?{Wait for input}	All right.{emote: Happiness} Please feel free to talk to	me when you'd like to use a room!
+"078"	{emote: Reset}The rental fee for a personal exhibit	space is {Blue}10,000 Bells{Color Reset}.{pause 10} {emote: Curious}Is that OK?{confirmation-02}{000f-0005-0004-0015-0028}	Sure!	Never mind.
+"079"	OK.{pause 10} The rental fee has to be paid in	advance,{pause 10} {emote: Happiness}so please come back again	once you have enough Bells.
+"080"	{emote: Happiness}All right. I've received the	{Blue}10,000 Bells{Color Reset} from you!
+"081"	By the way,{pause 5} {Player name}, {emote: Happiness}this is the	first time that you've used one of	our personal exhibit spaces, right?	{emote: Reset}Would you like me to explain	in detail {emote: Curious}how to use it?{000f-0005-0004-0015-0028}	Yes, please!	No, I'm fine.
+"082"	Just like in your house,{pause 10} you can	decorate and change the layout	of the exhibit room as you like!	{emote: Happiness}Also,{pause 10} you can put up a poster with	your own design on the front sign or	think of a name for your exhibit!
+"083"	Also,{pause 10} please come and talk to me	if you want to close the exhibit.{Wait for input}All of your items in the exhibit	room will be moved to the locker.{Wait for input}Because of this,{pause 10} if you have exhibits	that can't be placed in the locker,	I can't dismantle and close them.	The same applies to a situation	where you can't fit everything	into the locker all at once.	{emote: Happiness}You'll have to clean things up before	talking to me about it once again.
+"084"	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Happiness}That should be all.{Wait for input} If you forget	what you can and can't do, please	feel free to ask me again anytime!
+"085"	Oh,{pause 10} all right.{Wait for input}	{emote: Happiness}Understood.
+"086"	Well then,{pause 10} let me open the door to	the exhibit room for you{pause 8}.{pause 8}.{pause 8}.
+"087"	{emote: Happiness}Thank you for waiting!{Wait for input}	Feel free to use it as you please!
+"088"	{emote: Happiness}Right now,{pause 10} {Blue}exhibit room 1	{Color Reset}is available for rental!
+"089"	{emote: Happiness}Right now,{pause 10} {Blue}exhibit room 2	{Color Reset}is available for rental!
+"090"	{emote: Happiness}Right now,{pause 10} {Blue}exhibit room 3	{Color Reset}is available for rental!
+"091"	{emote: Happiness}Right now,{pause 10} {Blue}exhibit room 4	{Color Reset}is available for rental!
+"092"
+"093"
+"094"
+"095"
 == 1 ==
-"001"	{0000-0002-0002-4b-00}{emote: Sleep Bubble}
-"002"	{emote: Distress}
-"003"	
-"004"	{emote: Happiness}
-"005"	{emote: Joy}
-"006"	{emote: Curious}
-"007"	Dime, querid{000e-0006-0008-02-00-6f-00-02-00-61-00} {Player name}
-"008"	De acuerdo.{pause 10}
-"009"	{emote: Soft Smile}
-"010"	¡Hoy se exhibe la exposición	{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset}!
-"011"	¡Hoy se exhiben las exposiciones	{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset} y	{Blue}{0012-0007-0002-01-ffffffcd}{Color Reset}!
-"012"	Estas son las exposiciones	que se exhiben actualmente:{0000-0004-0000}
-"013"	Hoy exhibimos las exposiciones	{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset} y	{Blue}{0012-0007-0002-01-ffffffcd}{Color Reset}.	Y también 	{Blue}{0012-0007-0002-02-ffffffcd}{Color Reset} y	{Blue}{0012-0007-0002-03-ffffffcd}{Color Reset}.	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	Todos los residentes del pueblo	pueden hacer uso de las salas de	exposición de esta planta.	Las alquilamos por un módico	precio.{pause 5}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	¡Por supuesto!{emote: Curious}
-"021"	{emote: Curious}
-"022"	{emote: Happiness}
-"023"	Para exponer, primero debes	alquilar una sala por {Blue}10 000 bayas{Color Reset}.{0000-0004-0000}
-"024"	Puedes decorar las salas de	exposición a tu gusto, como	haces con tu casa.	{emote: Happiness}
-"025"	Ah, no te olvides de echar una	ojeada al cartel que hay en frente	de la sala.{0000-0004-0000}
+"001"	{Text size 75%}{emote: Sleep Bubble}Zzzzzzzzzzz{pause 8}.{Text size 75%}{pause 8}{Text size 75%}.{Text size 75%}{pause 8}{Text size 75%}.{pause 8}{Text size 100%}{emote: Sleepy}{pause 120}{emote: Alarmed}{Wait <0096 0000> 'time'}	{emote: Shocked}{pause 5}¡Huy, discúlpame!{Wait <002d 0000> 'time'}
+"002"	{emote: Distress}¡Uuhu! ¡Mil perdones!{pause 20} Estaba	descansando la vista un momento.{Wait for input}{emote: Shyness}Mmm, ejem{pause 6}.{pause 6}.{pause 6}.{pause 6}{emote: Inspired}{Wait <002d 0000> 'time'}
+"003"
+"004"	{emote: Happiness}¡Bienvenid{o/a} a la primera planta	del museo de {capitalized}{Town name (pink)}!{Wait for input}Aquí encontrarás la zona de	exposición y la tienda de regalos.
+"005"	{emote: Joy}¡Esta planta está recién inaugurada!{pause 20}	No lo habríamos logrado sin la	ayuda de todos.
+"006"	{emote: Curious}¿Puedo saber tu nombre?{0007-0008-0004-002d-0000}{Wait for input}{emote: Alarmed}{pause 10}¡Ah, {Player name}!{pause 5} Es muy bonito.{emote: Happiness}{Wait for input}Yo soy {Orange}Estela{Color Reset}, la encargada de esta	planta.{Wait for input} {emote: Happiness}Espero que no tardemos en	ser buen{o/a}s amig{o/a}s, uhu, uuuhu.
+"007"	Dime, querid{o/a} {Player name}{pause 8}.{pause 8}.{pause 8}.{pause 20}{pause 5}{emote: Happiness} 	¿Es la primera vez que visitas	esta planta?	¡Yo puedo explicarte todo lo que	hay que saber! {pause 20}{emote: Curious}¿Me concedes	unos minutos de tu tiempo?{000f-0005-0004-0015-0028}	¡Te escucho!	Ahora no
+"008"	De acuerdo.{pause 10}{emote: Happiness} Estaré encantada de	atenderte si tienes alguna duda.
+"009"	{emote: Soft Smile}En estos momentos no se	exhibe ninguna exposición{pause 8}.{pause 8}.{pause 8}.
+"010"	¡Hoy se exhibe la exposición	{Blue}{0012-0007-0002-cd00}{Color Reset}!
+"011"	¡Hoy se exhiben las exposiciones	{Blue}{0012-0007-0002-cd00}{Color Reset} y	{Blue}{0012-0007-0002-cd01}{Color Reset}!
+"012"	Estas son las exposiciones	que se exhiben actualmente:{Wait for input}{Blue}{0012-0007-0002-cd00}{Color Reset},	{Blue}{0012-0007-0002-cd01}{Color Reset} y	{Blue}{0012-0007-0002-cd02}{Color Reset}.
+"013"	Hoy exhibimos las exposiciones	{Blue}{0012-0007-0002-cd00}{Color Reset} y	{Blue}{0012-0007-0002-cd01}{Color Reset}.	Y también 	{Blue}{0012-0007-0002-cd02}{Color Reset} y	{Blue}{0012-0007-0002-cd03}{Color Reset}.	{emote: Happiness}¡Son todas maravillosas, no te	las pierdas, uhu, uuuhu!
+"014"	{emote: Happiness}¡Disfruta de la visita, uhuu!
+"015"	Todos los residentes del pueblo	pueden hacer uso de las salas de	exposición de esta planta.	Las alquilamos por un módico	precio.{pause 5} {emote: Happiness}¡Si quieres usar alguna,	házmelo saber!	{emote: Reset}En las salas puedes colocar y mover	objetos como a ti te plazca, igual	que en tu casa.	{emote: Happiness}Puedes usar la {Blue}taquilla {Color Reset}que verás al	lado de la escalera para organizar	tus objetos más fácilmente.	{emote: Glee}¡Bien, {Player name},{pause 10} espero que	disfrutes creando tus propias	exposiciones!
+"016"	{emote: Happiness}Esto es todo lo que necesitas saber	sobre las salas de exposición, uuuhu.{Wait for input}Además de las salas, en esta planta	también se encuentra la tienda de	regalos del museo.	Si logras aumentar las colecciones	de la planta baja,{pause 10} podrás comprar	artículos especiales. {pause 10}{emote: Happiness}¡Ánimo!
+"017"	{emote: Happiness}¿Uhu? ¿En qué puedo ayudarte?{000f-0006-0006-0000-0000-0028}	Alquilar una sala	Información	Déjalo
+"018"	{emote: Happiness}¿Uhu? ¿En qué puedo ayudarte?{000f-0007-0008-0000-0000-0000-0028}	Alquilar una sala	Cerrar exposición	Información	Nada, es igual
+"019"	{emote: Happiness}¿Uhu? ¿En qué puedo ayudarte?{000f-0006-0006-0000-0000-0028}	Cerrar exposición	Información	Es igual
+"020"	¡Por supuesto!{emote: Curious} ¿Qué quieres saber?{000f-0007-0008-0000-0000-0000-0028}	¿Estas salas?	Cómo exponer	Cerrar exposición	Nada
+"021"	{emote: Curious}¿Qué más puedo hacer por ti?{000f-0007-0008-0000-0000-0000-0000}	¿Estas salas?	Cómo exponer	Cerrar exposición	Nada
+"022"	{emote: Happiness}Muy bien.{Wait for input} ¡Diviértete!
+"023"	Para exponer, primero debes	alquilar una sala por {Blue}10 000 bayas{Color Reset}.{Wait for input}{emote: Happiness}Una vez alquilada, podrás usarla	todo el tiempo que quieras hasta	que cierres la exposición.	Además, puedes alquilar tantas	salas como sea necesario.
+"024"	Puedes decorar las salas de	exposición a tu gusto, como	haces con tu casa.	{emote: Happiness}Te recomiendo que uses la {Blue}taquilla{Color Reset}	que verás al fondo para poder	organizar tus objetos fácilmente.
+"025"	Ah, no te olvides de echar una	ojeada al cartel que hay en frente	de la sala.{Wait for input}Podrás cambiar el diseño por uno	propio y escribir un título para	la exposición.{pause 10}	{emote: Happiness}¡Es el mejor modo de captar	la atención del público!
 "026"	Cuando quieras cerrar una	exposición, házmelo saber.
-"027"	Guardaré todos los objetos de la	exposición en la {Blue}taquilla {Color Reset}situada	al lado de la escalera.	Si algún objeto no puede guardarse	en la taquilla, no podré cerrar	la exposición.	Lo mismo ocurrirá si no caben	todos los objetos.{0000-0004-0000}
-"028"	{emote: Surprise}
-"029"	{emote: Surprise}
-"031"	
-"032"	¿Seguro?{Wait for input}!
-"033"	{emote: Sheepishness}
-"034"	¡Uhu!{pause 10}
-"035"	{emote: Happiness}
-"036"	{emote: Sunny}
-"037"	Mmm...{pause 10}!
-"038"	¡Eso que estás mirando	es {Article(word-dependant)}
-"039"	¡Solo cuesta {Blue}{0004-000c-0002-00-00}
-"041"	{emote: Happiness}
-"042"	{emote: Happiness}
-"043"	{emote: Happiness}
-"044"	{emote: Happiness}
-"045"	{emote: Happiness}
-"046"	{emote: Happiness}
-"047"	{emote: Happiness}
-"048"	{emote: Happiness}
-"049"	{emote: Happiness}
-"050"	{emote: Happiness}
-"051"	{emote: Happiness}
-"052"	{emote: Happiness}
-"053"	{emote: Happiness}
-"054"	
-"055"	
-"056"	
-"057"	{emote: Curious}
-"058"	Todos los residentes del pueblo	pueden hacer uso de las salas de	exposición de esta planta.	La tienda de regalos del museo	también está aquí.{0000-0004-0000}
-"059"	{emote: Alarmed}
-"061"	Quieres cerrar la exposición	{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset} de	la sala 1, {emote: Curious}
-"062"	Quieres cerrar la exposición	{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset} de	la sala 2, {emote: Curious}
-"063"	Quieres cerrar la exposición	{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset} de	la sala 3, {emote: Curious}
-"064"	Quieres cerrar la exposición	{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset} de	la sala 4, {emote: Curious}
-"065"	
-"066"	Tienes alquilada más de una sala,	{Player name}
-"067"	Ningún problema.{Wait for input}!
-"068"	Bien. {pause 20}!
-"069"	{emote: Happiness}
-"070"	{emote: Worry}
-"071"	Cuando cierre la exposición,	guardaré todos tus objetos en	la taquilla.{emote: Curious}
-"072"	
-"073"	{emote: Worry}
-"074"	{emote: Worry}
-"075"	Alquilar una sala cuesta {Blue}10 000	bayas{Color Reset}.{pause 10}
-"076"	{emote: Happiness}
-"077"	Uhuuu,{pause 10}!
-"078"	{emote: Reset}
-"079"	Lo siento, pero debes pagar por	adelantado si quieres usar la sala.	{pause 10}
-"080"	{emote: Happiness}
-"081"	Por cierto,{pause 5}
-"082"	Las salas de exposición funcionan	igual que tu casa.{0000-0004-0000}
-"083"	Habla conmigo cuando quieras	cerrar una exposición.{0000-0004-0000}
-"084"	{emote: Happiness}
-"085"	{emote: Happiness}
-"086"	Te abriré la sala de exposición	ahora mismo{pause 8}
-"087"	{emote: Happiness}
-"088"	{emote: Happiness}
-"089"	{emote: Happiness}
-"090"	{emote: Happiness}
-"091"	{emote: Happiness}
-"092"	
-"093"	
-"094"	
-"095"	
+"027"	Guardaré todos los objetos de la	exposición en la {Blue}taquilla {Color Reset}situada	al lado de la escalera.	Si algún objeto no puede guardarse	en la taquilla, no podré cerrar	la exposición.	Lo mismo ocurrirá si no caben	todos los objetos.{Wait for input}Tenlo en cuenta antes de pedirme	que la cierre, por favor.
+"028"	{emote: Surprise}{pause 10}¡Uuuhu!{pause 15} Tú eres {el/la} {alcalde/alcaldesa} de	{capitalized}{Town name (pink)}, ¿verdad?
+"029"	{emote: Surprise}{pause 10}¡Uhu!{pause 15} Tú vives en este pueblo,	¿no es así?
+"031"
+"032"	¿Seguro?{Wait for input} {emote: Happiness}Bueno, estaré aquí	para lo que necesites.
+"033"	{emote: Sheepishness}¡Uhu, uuh!{pause 10} Lo siento, pero no	tienes suficientes bayas{pause 5}.{pause 5}.{pause 5}.{Wait for input}{emote: Happiness}Vuelve cuando hayas conseguido	las necesarias.
+"034"	¡Uhu!{pause 10} Me temo que no puedes	llevarte este objeto con los	bolsillos llenos{pause 5}.{pause 5}.{pause 5}.{Wait for input}{emote: Happiness}Haz un poco de espacio e inténtalo	de nuevo.
+"035"	{emote: Happiness}¡De acuerdo!
+"036"	{emote: Sunny}¡Gracias por la compra!
+"037"	Mmm...{pause 10} {emote: Happiness}Sí, quieres comprar algo,	¿no? ¡Estupendo!
+"038"	¡Eso que estás mirando	es {Article(word-dependant)}{0011-0003-0002-0000}!
+"039"	¡Solo cuesta {Blue}{0004-000c-0002-0000} bayas{Color Reset}!{pause 5}	{emote: Happiness}¿Te interesa?{confirmation-02}{000f-0005-0004-0015-0028}	¡Compro!	No mucho
+"041"	{emote: Happiness}Te recomiendo que no solo uses	este artículo en tu casa, {pause 5}sino	también en nuestras salas.
+"042"	{emote: Happiness}¡Este es un artículo especial para	celebrar que la colección de bichos	del museo ya está completa!
+"043"	{emote: Happiness}¡Este es un artículo especial para	celebrar que nuestro museo ya	alberga 50 bichos diferentes!
+"044"	{emote: Happiness}{emote: Happiness}¡Este es un artículo especial para	celebrar que nuestra colección de	seres acuáticos ya está completa!
+"045"	{emote: Happiness}¡Este es un artículo especial para	celebrar que nuestro museo ya	alberga 50 seres acuáticos!
+"046"	{emote: Happiness}¡Este es un artículo especial para	celebrar que la colección de fósiles	del museo ya está completa!
+"047"	{emote: Happiness}¡Este es un artículo especial para	celebrar que nuestro museo ya	alberga 30 fósiles diferentes!
+"048"	{emote: Happiness}¡Este es un artículo especial para	celebrar que la colección de obras	de arte ya está completa!
+"049"	{emote: Happiness}¡Este es un artículo especial para	celebrar que nuestro museo ya	alberga 20 obras de arte!
+"050"	{emote: Happiness}¡Este es un artículo especial para	celebrar que nuestro museo ya	alberga 30 bichos diferentes!
+"051"	{emote: Happiness}¡Este es un artículo especial para	celebrar que nuestro museo ya	alberga 30 seres acuáticos!
+"052"	{emote: Happiness}¡Este es un artículo especial para	celebrar que nuestro museo ya	alberga 15 fósiles diferentes!
+"053"	{emote: Happiness}¡Este es un artículo especial para	celebrar que todas las colecciones	del museo ya están completas!
+"054"
+"055"
+"056"
+"057"	{emote: Curious}¿Puedo saber cómo te llamas?{0007-0008-0004-002d-0000}{Wait for input}{emote: Alarmed}{pause 10}{capitalized}{Player name}{pause 8}.{pause 8}.{pause 8}.{pause 15} ¡Entonces eres {el/la}	nuev{o/a} vecin{o/a} que se ha trasladado	hace poco!	Yo soy {Orange}Estela{Color Reset}, la encargada de esta	planta.{Wait for input} {emote: Happiness}¡Es un placer conocerte!
+"058"	Todos los residentes del pueblo	pueden hacer uso de las salas de	exposición de esta planta.	La tienda de regalos del museo	también está aquí.{Wait for input}{emote: Happiness}¡Vuelve a visitarnos cuando te	hayas instalado, querid{o/a} {Player name}!
+"059"	{emote: Alarmed}{pause 10}¡Ah!{pause 10} ¡Mil disculpas!{pause 15} {emote: Curious}¿Has subido	a comprar alguna cosa?{000f-0005-0004-0015-0028}	¡Sí!	No
+"061"	Quieres cerrar la exposición	{Blue}{0012-0007-0002-cd00}{Color Reset} de	la sala 1, {emote: Curious}¿correcto? {confirmation-02}{000f-0005-0004-0015-0028}	¡Sí, porfa!	No, déjalo
+"062"	Quieres cerrar la exposición	{Blue}{0012-0007-0002-cd00}{Color Reset} de	la sala 2, {emote: Curious}¿correcto? {confirmation-02}{000f-0005-0004-0015-0028}	¡Sí, porfa!	No, déjalo
+"063"	Quieres cerrar la exposición	{Blue}{0012-0007-0002-cd00}{Color Reset} de	la sala 3, {emote: Curious}¿correcto? {confirmation-02}{000f-0005-0004-0015-0028}	¡Sí, porfa!	No, déjalo
+"064"	Quieres cerrar la exposición	{Blue}{0012-0007-0002-cd00}{Color Reset} de	la sala 4, {emote: Curious}¿correcto? {confirmation-02}{000f-0005-0004-0015-0028}	¡Sí, porfa!	No, déjalo
+"065"
+"066"	Tienes alquilada más de una sala,	{Player name}.{pause 10}{emote: Curious} ¿Cuál quieres cerrar?
+"067"	Ningún problema.{Wait for input} {emote: Happiness}Puedes seguir	usando la sala todo el tiempo que	quieras.
+"068"	Bien. {pause 20}Voy a cerrar la exposición y	a dejar el cartel tal y como estaba.
+"069"	{emote: Happiness}¡Hecho!{pause 20} ¡Muchas gracias por haber	compartido tu arte con nosotros!
+"070"	{emote: Worry}No hay espacio suficiente en la	taquilla para guardar todos los	objetos de la exposición, uuhu.	{emote: Reset}Lo siento, ¿podrías organizar	un poco la taquilla primero?
+"071"	Cuando cierre la exposición,	guardaré todos tus objetos en	la taquilla.{emote: Curious} ¿De acuerdo?{000f-0005-0004-0015-0028}	¡Perfecto!	He cambiado de idea
+"072"
+"073"	{emote: Worry}Me temo que no hay ninguna sala	libre.{Wait for input} {emote: Reset}Vuelve otro día, por favor.
+"074"	{emote: Worry}Hoy tenemos visitas en el pueblo	y no puedo ocuparme de las salas	de exposición, lo siento.	{emote: Reset}Vuelve más tarde, por favor.
+"075"	Alquilar una sala cuesta {Blue}10 000	bayas{Color Reset}.{pause 10} {emote: Curious}¿Te parece bien?{confirmation-02}{000f-0005-0004-0015-0028}	¡Claro!	Mejor no
+"076"	{emote: Happiness}Elige una de las salas que	están disponibles.
+"077"	Uhuuu,{pause 10} ¿has cambiado de parecer?{Wait for input}	Bueno, si necesitas cualquier cosa,	házmelo saber.
+"078"	{emote: Reset}Alquilar una sala cuesta {Blue}10 000	bayas{Color Reset}.{pause 10} {emote: Curious}¿Te parece bien?{confirmation-02}{000f-0005-0004-0015-0028}	¡Claro!	Mejor no
+"079"	Lo siento, pero debes pagar por	adelantado si quieres usar la sala.	{pause 10}{emote: Happiness}Vuelve cuando tengas las bayas.
+"080"	{emote: Happiness}¡{Blue}10 000 bayas{Color Reset}! Perfecto, gracias.
+"081"	Por cierto,{pause 5} {Player name}, {emote: Happiness}esta es	la primera vez que alquilas una	sala de exposición, ¿me equivoco?	{emote: Reset}¿Me permites que te explique	cómo funcionan?{000f-0005-0004-0015-0028}	Sí, porfa	No, gracias
+"082"	Las salas de exposición funcionan	igual que tu casa.{Wait for input}Puedes decorarlas a tu gusto e	incluso cambiar el suelo y el papel	de pared.	{emote: Happiness}También puedes cambiar el diseño	del cartel de la entrada y escribir	un título para tu exposición.
+"083"	Habla conmigo cuando quieras	cerrar una exposición.{Wait for input}Guardaré todos los objetos de la	exposición en la {Blue}taquilla {Color Reset}situada	al lado de la escalera.	Si algún objeto no puede guardarse	en la taquilla, no podré cerrar	la exposición.	Lo mismo ocurrirá si no caben	todos los objetos.{Wait for input}{emote: Happiness}Tenlo en cuenta antes de pedirme	que cierre tu exposición, por favor.
+"084"	{emote: Happiness}Y eso es todo.{Wait for input} Si tienes alguna	duda, pregúntame siempre que	quieras.
+"085"	{emote: Happiness}Uhuu... De acuerdo.
+"086"	Te abriré la sala de exposición	ahora mismo{pause 8}.{pause 8}.{pause 8}.
+"087"	{emote: Happiness}¡Adelante!{Wait for input} ¡Estoy ansiosa por ver	tu arte!
+"088"	{emote: Happiness}Solo está disponible la	{Blue}sala de exposición 1{Color Reset}.
+"089"	{emote: Happiness}Solo está disponible la	{Blue}sala de exposición 2{Color Reset}.
+"090"	{emote: Happiness}Solo está disponible la	{Blue}sala de exposición 3{Color Reset}.
+"091"	{emote: Happiness}Solo está disponible la	{Blue}sala de exposición 4{Color Reset}.
+"092"
+"093"
+"094"
+"095"
 == 2 ==
-"001"	{0000-0002-0002-4b-00}{emote: Sleep Bubble}
-"002"	{emote: Distress}
-"003"	
-"004"	{emote: Happiness}
-"005"	{emote: Joy}
-"006"	{emote: Curious}
-"007"	Mais dis-moi, {Player name}
-"008"	Très bien.{pause 10}
-"009"	Malheureusement,{pause 10}
-"010"	Une exposition personnelle intitulée	« {0012-0007-0002-00-ffffffcd} » se tient	actuellement à cet étage !
-"011"	« {capitalized}
-"012"	Nous accueillons en ce moment	trois expositions :	« {0012-0007-0002-00-ffffffcd} »...	... « {0012-0007-0002-01-ffffffcd} » et	« {0012-0007-0002-02-ffffffcd} » !
-"013"	En ce moment, notre étage accueille	quatre expositions :	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	Les salles d'exposition de cet étage	sont à la disposition des habitants	de la ville !{0000-0004-0000}
-"016"	{emote: Reset}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	Que veux-tu {emote: Curious}
-"021"	{emote: Curious}
-"022"	{emote: Happiness}
-"023"	Si tu veux exposer,{pause 10}
-"024"	Une fois que tu as loué une salle,{pause 10}
-"025"	D'autre part,{pause 10}
-"026"	Pour mettre fin à une de tes	expositions,{pause 10}
-"027"	À ce moment-là,{pause 10}
-"028"	{pause 5}
-"029"	{pause 5}
-"031"	
-"032"	Vraiment ?{pause 10}
-"033"	Ah,{pause 10}
-"034"	Oh,{pause 10}
-"035"	{emote: Happiness}
-"036"	{emote: Sunny}
-"037"	Euh, oui ?{pause 10}
-"038"	C'est {Article(word-dependant)}
-"039"	Son prix ?{pause 10}
-"041"	{emote: Happiness}
-"042"	{emote: Happiness}
-"043"	{emote: Happiness}
-"044"	{emote: Happiness}
-"045"	{emote: Happiness}
-"046"	{emote: Happiness}
-"047"	{emote: Happiness}
-"048"	{emote: Happiness}
-"049"	{emote: Happiness}
-"050"	{emote: Happiness}
-"051"	{emote: Happiness}
-"052"	{emote: Happiness}
-"053"	{emote: Happiness}
-"054"	
-"055"	
-"056"	
-"057"	{emote: Curious}
-"058"	Les habitants peuvent utiliser les	salles d'exposition personnelle de	cet étage comme ils le souhaitent !{0000-0004-0000}
-"059"	.{pause 8}
-"061"	Tu veux mettre fin à l'exposition	« {Blue}{0012-0007-0002-00-ffffffcd} {Color Reset}» de la	salle nº 1,{emote: Curious}
-"062"	Tu veux mettre fin à l'exposition	« {Blue}{0012-0007-0002-00-ffffffcd} {Color Reset}» de la	salle nº 2,{emote: Curious}
-"063"	Tu veux mettre fin à l'exposition	« {Blue}{0012-0007-0002-00-ffffffcd} {Color Reset}» de la	salle nº 3,{emote: Curious}
-"064"	Tu veux mettre fin à l'exposition	« {Blue}{0012-0007-0002-00-ffffffcd} {Color Reset}» de la	salle nº 4,{emote: Curious}
-"065"	
-"066"	Tu utilises plusieurs salles	d'exposition personnelle en	ce moment, {Player name}
-"067"	Très bien.{Wait for input}
-"068"	Très bien.{pause 10}
-"069"	{emote: Happiness}
-"070"	{emote: Worry}
-"071"	Si tu fermes une salle d'exposition,{pause 5}
-"072"	
-"073"	{emote: Worry}
-"074"	{emote: Worry}
-"075"	Le prix de location d'une salle	d'exposition personnelle est de	{Blue}10 000 clochettes{Color Reset}.{pause 10}
-"076"	{emote: Happiness}
-"077"	Oh,{pause 10}
-"078"	{emote: Reset}
-"079"	Les frais de location doivent être	payés à l'avance.{pause 10}
-"080"	{emote: Happiness}
-"081"	Mais dis-moi, {emote: Happiness}
-"082"	Tu peux agencer et décorer les	salles d'exposition à ta guise,{pause 10}
-"083"	Et si tu veux mettre fin à une	exposition, viens me le dire.{0000-0004-0000}
-"084"	.{pause 8}
-"085"	Oh,{pause 10}
-"086"	Bon,{pause 10}
-"087"	{emote: Happiness}
-"088"	{emote: Happiness}
-"089"	{emote: Happiness}
-"090"	{emote: Happiness}
-"091"	{emote: Happiness}
-"092"	
-"093"	
-"094"	
-"095"	
+"001"	{Text size 75%}{emote: Sleep Bubble}Zzz zzz{pause 15}.{pause 15}.{pause 15}.{pause 25}{Text size 100%}{emote: Sleepy}{pause 120}{emote: Alarmed}{Wait <0096 0000> 'time'}	{emote: Shocked}{pause 5}Ah ! Juste ciel !{Wait <002d 0000> 'time'}
+"002"	{emote: Distress}Pardonne-moi ! Je suis confuse !{pause 20} Je	me reposais juste les yeux !{Wait for input}{emote: Shyness}Alors, euh{pause 10}.{pause 10}.{pause 10}.{pause 10}{emote: Inspired}{Wait <002d 0000> 'time'}
+"003"
+"004"	{emote: Happiness}Bienvenue à l'étage des expositions	personnelles et de la boutique du	musée {de /d'}{Town name (pink)} !
+"005"	{emote: Joy}C'est grâce à toi{pause 10} que nous avons	pu inaugurer ce nouvel étage !{Wait for input}	{emote: Happiness}Merci infiniment !
+"006"	{emote: Curious}Alors dis-moi,{pause 10} comment	t'appelles-tu{pause 8}.{pause 8}.{pause 8}.{pause 8}?{0007-0008-0004-002d-0000}{Wait for input}{pause 5}{emote: Alarmed}{pause 10}Oh, {Player name},{pause 5} c'est bien ça ?{emote: Happiness}{Wait for input}Moi, c'est {Orange}Céleste{Color Reset}.{pause 8} Je m'occupe de	cet étage.{Wait for input} {emote: Happiness}Je suis ravie de faire ta	connaissance !
+"007"	Mais dis-moi, {Player name}{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Happiness}C'est la	première fois que tu viens à cet	étage, n'est-ce pas ?	{emote: Reset}Si tu as un peu de temps,{pause 5} je peux	t'expliquer succinctement en quoi il	consiste{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Curious}Veux-tu écouter mes explications	maintenant ?{000f-0005-0004-0015-0028}	Oui !	Une autre fois.
+"008"	Très bien.{pause 10} Si tu as la moindre	question,{emote: Happiness} n'hésite pas à venir me	voir !
+"009"	Malheureusement,{pause 10} {emote: Soft Smile}il n'y a aucune	exposition en ce moment{pause 8}.{pause 8}.{pause 8}.
+"010"	Une exposition personnelle intitulée	« {0012-0007-0002-cd00} » se tient	actuellement à cet étage !
+"011"	« {capitalized}{0012-0007-0002-cd00} » et	« {0012-0007-0002-cd01} » sont	nos expositions du moment !
+"012"	Nous accueillons en ce moment	trois expositions :	« {0012-0007-0002-cd00} »...	... « {0012-0007-0002-cd01} » et	« {0012-0007-0002-cd02} » !
+"013"	En ce moment, notre étage accueille	quatre expositions :	{emote: Happiness}« {0012-0007-0002-cd00} »...	... « {0012-0007-0002-cd01} »,	« {0012-0007-0002-cd02} », et	enfin « {0012-0007-0002-cd03} » !
+"014"	{emote: Happiness}J'espère que tu apprécieras	ta visite !
+"015"	Les salles d'exposition de cet étage	sont à la disposition des habitants	de la ville !{Wait for input}Nous louons ces salles pour un prix	modique. {pause 5}{emote: Happiness}N'hésite pas à venir me	voir si tu veux en utiliser une !	{emote: Reset}Tu peux aménager librement les	salles d'exposition personnelle,	comme tu le fais avec ta maison.	En utilisant le {Blue}casier {Color Reset}situé près de	l'escalier, tu peux avoir accès à tes	objets et aux pièces exposées !{pause 10}	{emote: Glee}{capitalized}{Player name}, j'ai hâte de voir les	expositions passionnantes que tu	vas mettre sur pied !
+"016"	{emote: Reset}{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Happiness} Voilà, c'est tout ce que j'avais à	dire sur les salles affectées aux	expositions personnelles !	Sinon,{pause 5} dans ce hall, nous vendons	quelques souvenirs.{Wait for input}À mesure que les collections du	rez-de-chaussée s'étoffent, nous	proposons de nouveaux articles.{Wait for input}{emote: Happiness}N'hésite pas à jeter un œil !
+"017"	{emote: Happiness}As-tu besoin d'aide à propos des	salles d'exposition personnelle	de cet étage ?{000f-0006-0006-0000-0000-0028}	Je veux exposer !	Comment ça marche ?	Non, merci.
+"018"	{emote: Happiness}As-tu besoin d'aide à propos des	salles d'exposition personnelle	de cet étage ?{000f-0007-0008-0000-0000-0000-0028}	Il me faut plus d'espace.	Arrête mon exposition !	Comment ça marche ?	Non, merci.
+"019"	{emote: Happiness}As-tu besoin d'aide à propos des	salles d'exposition personnelle	de cet étage ?{000f-0006-0006-0000-0000-0028}	Arrête mon exposition !	Comment ça marche ?	Non, merci.
+"020"	Que veux-tu {emote: Curious}que je t'explique ?{000f-0007-0008-0000-0000-0000-0028}	C'est quoi, cet endroit ?	Comment on expose ?	Comment on arrête ?	Laisse tomber.
+"021"	{emote: Curious}As-tu d'autres questions ?{000f-0007-0008-0000-0000-0000-0000}	C'est quoi, cet endroit ?	Comment on expose ?	Comment on arrête ?	Non, merci, ça ira.
+"022"	{emote: Happiness}Ouh ouh, très bien.{Wait for input} Reste ici aussi	longtemps que tu voudras.
+"023"	Si tu veux exposer,{pause 10} il te faut	d'abord louer une salle pour	{Blue}10 000 clochettes{Color Reset}.	{emote: Happiness}Chaque salle est louée pour une	durée illimitée, tant que l'exposition	qui s'y déroule est maintenue.{Wait for input}{emote: Reset}De plus,{pause 10} il est tout à fait possible	pour une même personne de louer	plusieurs salles simultanément !
+"024"	Une fois que tu as loué une salle,{pause 10} tu	peux l'agencer à ta guise, comme tu	le fais avec ta maison !	De plus, grâce au casier situé près	de l'escalier,{pause 10} {emote: Happiness}tu peux facilement	accéder à tes objets.
+"025"	D'autre part,{pause 10} si tu inspectes la	pancarte placée devant chaque salle	d'exposition personnelle...	... tu verras que tu peux y placer un	de tes motifs en tant qu'affiche{pause 5} et	donner un titre à ton exposition.	{emote: Happiness}C'est un bon moyen de la	promouvoir ! Ouh ouh !
+"026"	Pour mettre fin à une de tes	expositions,{pause 10} il suffit de venir me le	demander !
+"027"	À ce moment-là,{pause 10} tous les objets	exposés seront transférés dans le	casier près de l'escalier.	Ainsi, si des objets qui ne peuvent	pas être rangés dans ce casier sont	exposés...	... ou si le casier est rempli,{pause 5} nous ne	pourrons pas mettre fin à	l'exposition.	Dans ces cas-là,{pause 5} pense à faire un	peu de ménage avant de venir me	parler !
+"028"	{pause 5}{emote: Surprise}{pause 10}Oh !{pause 15} Tu es {emote: Curious}notre maire, {Player name},	c'est bien ça ?
+"029"	{pause 5}{emote: Surprise}{pause 10}Ah !{pause 15}{emote: Reset} Tu habites cette ville, {emote: Happiness}n'est-ce	pas ?
+"031"
+"032"	Vraiment ?{pause 10} Tu es {sûr/sûre} ?{Wait for input} {emote: Happiness}Très bien,	tu peux rester ici autant que	tu voudras !
+"033"	Ah,{pause 10} on dirait que tu n'as pas assez	de clochettes{pause 5}.{pause 5}.{pause 5}.{Wait for input}{emote: Happiness}Reviens me voir lorsque tu en auras	suffisamment !
+"034"	Oh,{pause 10} mais tes poches sont pleines, je	ne peux pas te donner ton article{pause 5}.{pause 5}.{pause 5}.{Wait for input}{emote: Happiness}Reviens me voir lorsque tu auras	fait un peu de place dans ton	inventaire !
+"035"	{emote: Happiness}Ouh ouh !{pause 10} Entendu !
+"036"	{emote: Sunny}Merci pour ton achat !
+"037"	Euh, oui ?{pause 10} {emote: Happiness}Tu désires acheter	quelque chose, c'est bien ça ? Je	suis à toi !
+"038"	C'est {Article(word-dependant)}{0011-0003-0002-0000} !
+"039"	Son prix ?{pause 10} {Blue}{0004-000c-0002-0000} clochettes{Color Reset} !	{emote: Happiness}Est-ce que ça t'intéresse ?{confirmation-02}{000f-0005-0004-0015-0028}	J'achète !	Non, merci.
+"041"	{emote: Happiness}Tu peux bien sûr l'exposer chez toi,{pause 5}	mais aussi dans l'une de nos salles	d'exposition personnelle.	Elles sont là pour ça !
+"042"	{emote: Happiness}Cet article a été mis en vente pour	célébrer l'achèvement de notre	collection d'insectes !
+"043"	{emote: Happiness}Cet article a été mis en vente pour	célébrer le 50spécimen de notre	collection d'insectes !
+"044"	{emote: Happiness}Cet article a été mis en vente{pause 5} pour	célébrer l'achèvement de notre	collection d'espèces aquatiques !
+"045"	{emote: Happiness}Cet article a été mis en vente{pause 5} pour	célébrer le 50spécimen de notre	collection d'espèces aquatiques !
+"046"	{emote: Happiness}Cet article a été mis en vente{pause 5} pour	célébrer l'achèvement de notre	collection de fossiles !
+"047"	{emote: Happiness}Cet article a été mis en vente{pause 5} pour	célébrer le 30spécimen de notre	collection de fossiles !
+"048"	{emote: Happiness}Cet article a été mis en vente{pause 5} pour	célébrer l'achèvement de notre	collection d'œuvres d'art !
+"049"	{emote: Happiness}Cet article a été mis en vente{pause 5} pour	célébrer la 20pièce de notre	collection de tableaux !
+"050"	{emote: Happiness}Cet article a été mis en vente{pause 5} pour	célébrer le 30spécimen de notre	collection d'insectes !
+"051"	{emote: Happiness}Cet article a été mis en vente{pause 5} pour	célébrer le 30spécimen de notre	collection d'espèces aquatiques !
+"052"	{emote: Happiness}Cet article a été mis en vente{pause 5} pour	célébrer le 15spécimen de notre	collection de fossiles !
+"053"	{emote: Happiness}Cet article a été mis en vente{pause 5} pour	célébrer l'achèvement de toutes nos	collections du rez-de-chaussée !
+"054"
+"055"
+"056"
+"057"	{emote: Curious}Alors, dis-moi,{pause 10} comment	t'appelles-tu{pause 8}.{pause 8}.{pause 8}.{pause 8}?{0007-0008-0004-002d-0000}{Wait for input}{pause 5}{emote: Alarmed}{pause 10}{capitalized}{Player name}{pause 8}.{pause 8}.{pause 8}.{pause 15} Tu dois être {le/la}	{nouvel habitant/nouvelle habitante} qui a emménagé	récemment dans notre ville !	Moi, je suis {Orange}Céleste{Color Reset}, et je suis en	charge de cet étage ! {emote: Happiness}Ravie de faire	ta connaissance !
+"058"	Les habitants peuvent utiliser les	salles d'exposition personnelle de	cet étage comme ils le souhaitent !{Wait for input}Par ailleurs,{pause 5} dans ce hall, nous	vendons également quelques	souvenirs.{Wait for input}{emote: Happiness}Reviens me voir une fois que tu	seras bien {installé/installée}, {Player name} !
+"059"	.{pause 8}.{pause 8}.{pause 8}{emote: Alarmed}{pause 10} Ah !{pause 10} Désolée !{pause 15}{emote: Reset} Tu désires acheter	quelque chose,{pause 5}{emote: Curious} c'est bien ça ?{000f-0005-0004-0015-0028}	En effet.	Non.
+"061"	Tu veux mettre fin à l'exposition	« {Blue}{0012-0007-0002-cd00} {Color Reset}» de la	salle nº 1,{emote: Curious} c'est bien ça ?{confirmation-02}{000f-0005-0004-0015-0028}	Tout à fait !	En fait, non.
+"062"	Tu veux mettre fin à l'exposition	« {Blue}{0012-0007-0002-cd00} {Color Reset}» de la	salle nº 2,{emote: Curious} c'est bien ça ?{confirmation-02}{000f-0005-0004-0015-0028}	Tout à fait !	En fait, non.
+"063"	Tu veux mettre fin à l'exposition	« {Blue}{0012-0007-0002-cd00} {Color Reset}» de la	salle nº 3,{emote: Curious} c'est bien ça ?{confirmation-02}{000f-0005-0004-0015-0028}	Tout à fait !	En fait, non.
+"064"	Tu veux mettre fin à l'exposition	« {Blue}{0012-0007-0002-cd00} {Color Reset}» de la	salle nº 4,{emote: Curious} c'est bien ça ?{confirmation-02}{000f-0005-0004-0015-0028}	Tout à fait !	En fait, non.
+"065"
+"066"	Tu utilises plusieurs salles	d'exposition personnelle en	ce moment, {Player name}.{Wait for input}{emote: Curious}À quelle exposition veux-tu	mettre fin ?
+"067"	Très bien.{Wait for input} Alors l'exposition	continue ! Ouh ouh !
+"068"	Très bien.{pause 10} Nous allons donc fermer	la salle d'exposition et retirer tes	informations de la pancarte{pause 8}.{pause 8}.{pause 8}.
+"069"	{emote: Happiness}Et voilà, c'est terminé !{Wait for input}	Reviens quand tu veux ! Ouh ouh !
+"070"	{emote: Worry}Je crains qu'il n'y ait pas assez de	place dans le casier pour ranger	tous les objets exposés...	{emote: Reset}Je suis désolée,{pause 10} mais pourrais-tu	faire un peu de rangement{pause 5} {emote: Happiness}et revenir	me voir ensuite ?
+"071"	Si tu fermes une salle d'exposition,{pause 5}	tous les objets qui s'y trouvent sont	transférés dans le casier.{pause 5} {emote: Curious}Ça te va ?{confirmation-02}{000f-0005-0004-0015-0028}	Pas de problème !	J'ai changé d'avis.
+"072"
+"073"	{emote: Worry}Je suis désolée, toutes les salles	sont occupées.{Wait for input}{emote: Reset} Reviens plus tard,	{emote: Happiness}lorsque nous aurons de la place.
+"074"	{emote: Worry}Je ne peux pas toucher aux	salles d'exposition lorsque nous	avons des visiteurs d'autres villes.{Wait for input}{emote: Reset}Je suis désolée.{pause 5}{emote: Happiness} Reviens me voir	plus tard !
+"075"	Le prix de location d'une salle	d'exposition personnelle est de	{Blue}10 000 clochettes{Color Reset}.{pause 10}{emote: Curious} Ça te va ?{confirmation-02}{000f-0005-0004-0015-0028}	Pas de problème !	Finalement, non.
+"076"	{emote: Happiness}Les salles suivantes sont libres.{pause 10}	Laquelle désires-tu louer ?
+"077"	Oh,{pause 10} tu es vraiment {sûr/sûre} ?{Wait for input}	Très bien. {emote: Happiness}N'hésite pas à venir me	voir si tu veux louer une salle !
+"078"	{emote: Reset}Le prix de location d'une salle	d'exposition personnelle est de	{Blue}10 000 clochettes{Color Reset}.{pause 10}{emote: Curious} Ça te va ?{confirmation-02}{000f-0005-0004-0015-0028}	Pas de problème !	Finalement, non.
+"079"	Les frais de location doivent être	payés à l'avance.{pause 10}{emote: Happiness} Reviens me voir	quand tu auras assez de clochettes.
+"080"	{emote: Happiness}{Blue}10 000 clochettes{Color Reset}, le compte	y est ! Ouh ouh !
+"081"	Mais dis-moi, {emote: Happiness}c'est la première fois	que tu utilises une de nos salles	d'exposition personnelle, non ?{Wait for input}{emote: Reset}Veux-tu que je t'explique en détail	{emote: Curious}leur fonctionnement, {pause 8}{Player name} ?{000f-0005-0004-0015-0028}	Je veux bien, oui !	Non merci, ça ira.
+"082"	Tu peux agencer et décorer les	salles d'exposition à ta guise,{pause 10}	comme tu le ferais dans ta maison !	{emote: Happiness}De plus,{pause 10} tu peux coller une affiche{pause 5}	et donner un titre à ton exposition	sur la pancarte devant la salle.
+"083"	Et si tu veux mettre fin à une	exposition, viens me le dire.{Wait for input}Tous les objets exposés seront	transférés dans le casier.{Wait for input}C'est pourquoi, si tu as exposé des	objets qui ne peuvent pas être	rangés dans ce casier...{Wait for input}... ou qu'il n'y a pas assez de place	dans celui-ci pour tout ranger...{Wait for input}{emote: Happiness}... je te demanderai de faire un peu	de ménage avant de venir me voir.
+"084"	.{pause 8}.{pause 8}.{pause 8} {emote: Happiness}Ouh ! J'en ai terminé avec les	explications.{Wait for input} Si tu as le moindre	doute, n'hésite pas à venir me voir !
+"085"	Oh,{pause 10} très bien.{Wait for input} {emote: Happiness}Comme tu voudras.
+"086"	Bon,{pause 10} je vais t'ouvrir la salle	d'exposition{pause 8}.{pause 8}.{pause 8}.
+"087"	{emote: Happiness}Et voilà !{Wait for input} La salle est à ton entière	disposition !
+"088"	{emote: Happiness}La {Blue}salle nº 1 {Color Reset}est actuellement	disponible !
+"089"	{emote: Happiness}La {Blue}salle nº 2 {Color Reset}est actuellement	disponible !
+"090"	{emote: Happiness}La {Blue}salle nº 3 {Color Reset}est actuellement	disponible !
+"091"	{emote: Happiness}La {Blue}salle nº 4 {Color Reset}est actuellement	disponible !
+"092"
+"093"
+"094"
+"095"
 == 3 ==
-"001"	{0000-0002-0002-4b-00}{emote: Sleep Bubble}
-"002"	{emote: Distress}
-"003"	
-"004"	{emote: Happiness}
-"005"	{emote: Joy}
-"006"	{emote: Curious}
-"007"	Dunque{pause 8}!
-"008"	Va bene.{pause 10}
-"009"	Purtroppo,{pause 10}
-"010"	Al momento, su questo piano si sta	tenendo un'esposizione intitolata	"{0012-0007-0002-00-ffffffcd}".
-"011"	In questo momento si stanno	tenendo due esposizioni...{0000-0004-0000}
-"012"	Al momento, su questo piano	ci sono diverse esposizioni, tra	cui "{0012-0007-0002-00-ffffffcd}".	Inoltre, abbiamo anche	"{0012-0007-0002-01-ffffffcd}"	{000e-0011-0000}
-"013"	Al momento, ci sono le esposizioni	"{0012-0007-0002-00-ffffffcd}"	{000e-0011-0000}
-"014"	{emote: Happiness}
-"015"	Gli abitanti di questa città possono	organizzare delle mostre in qualsiasi	sala espositiva su questo piano!	L'affitto degli spazi espositivi	è molto ragionevole!{pause 5}
-"016"	{emote: Reset}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	{emote: Curious}
-"021"	{emote: Curious}
-"022"	{emote: Happiness}
-"023"	Se vuoi organizzare un'esposizione,{pause 10}
-"024"	Quando affitti uno spazio espositivo{pause 10}
-"025"	Se dai un'occhiata al cartello	di fronte allo spazio espositivo...{0000-0004-0000}
-"026"	Quando vuoi smettere di utilizzare	una sala,{pause 10}
-"027"	Sposterò tutti gli oggetti dalla	sala espositiva all'armadietto	vicino alle scale.	Ma se hai degli oggetti che non si	possono mettere nell'armadietto,{pause 10}
-"028"	{pause 5}
-"029"	{pause 5}
-"031"	
-"032"	Oh,{pause 10}
-"033"	Ecco,{pause 10}
-"034"	Oh,{pause 10}
-"035"	{emote: Happiness}
-"036"	{emote: Sunny}
-"037"	Ehm...{pause 10}!
-"038"	{capitalized}
-"039"	Il prezzo è di {Blue}{0004-000c-0002-00-00}
-"041"	{emote: Happiness}
-"042"	{emote: Happiness}
-"043"	{emote: Happiness}
-"044"	{emote: Happiness}
-"045"	{emote: Happiness}
-"046"	{emote: Happiness}
-"047"	{emote: Happiness}
-"048"	{emote: Happiness}
-"049"	{emote: Happiness}
-"050"	{emote: Happiness}
-"051"	{emote: Happiness}
-"052"	{emote: Happiness}
-"053"	{emote: Happiness}
-"054"	
-"055"	
-"056"	
-"057"	{emote: Curious}
-"058"	Le sale espositive che si trovano su	questo piano possono essere prese	in affitto da qualsiasi cittadino.	Qui nell'atrio vendiamo	anche oggetti di vario tipo.{0000-0004-0000}
-"059"	{pause 8}
-"061"	Vuoi interrompere l'esposizione	"{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset}" che si	trova nella sala numero 1,{emote: Curious}
-"062"	Vuoi interrompere l'esposizione	"{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset}" che si	trova nella sala numero 2,{emote: Curious}
-"063"	Vuoi interrompere l'esposizione	"{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset}" che si	trova nella sala numero 3,{emote: Curious}
-"064"	Vuoi interrompere l'esposizione	"{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset}" che si	trova nella sala numero 4,{emote: Curious}
-"065"	
-"066"	{capitalized}
-"067"	Benissimo.{Wait for input}
-"068"	OK.{pause 10}
-"069"	{emote: Happiness}
-"070"	{emote: Worry}
-"071"	Se chiudi la sala,{pause 5}
-"072"	
-"073"	{emote: Worry}
-"074"	{emote: Worry}
-"075"	L'affitto della sala è di {Blue}10.000	stelline{Color Reset}.{pause 10}!
-"076"	{emote: Happiness}
-"077"	Oh,{pause 10}
-"078"	{emote: Reset}
-"079"	Bene.{pause 10}
-"080"	{emote: Happiness}
-"081"	A proposito,{pause 5}
-"082"	Puoi decorare e organizzare	lo spazio della sala a tuo	piacimento,{pause 10}
-"083"	Se decidi di interrompere	un'esposizione, vieni a parlare	con me.	Tutti i tuoi oggetti, che si trovano	nella sala espositiva, verranno	spostati nell'armadietto.	Se questa operazione non dovesse	essere possibile,{pause 10}
-"084"	{pause 8}
-"085"	Oh,{pause 10}
-"086"	Bene, allora{pause 10}
-"087"	{emote: Happiness}
-"088"	{emote: Happiness}
-"089"	{emote: Happiness}
-"090"	{emote: Happiness}
-"091"	{emote: Happiness}
-"092"	
-"093"	
-"094"	
-"095"	
+"001"	{Text size 75%}{emote: Sleep Bubble}Zzzzzzzzzzzz{pause 15}.{pause 15}.{pause 15}.{pause 25}{Text size 100%}{emote: Sleepy}{pause 120}{emote: Alarmed}{Wait <0096 0000> 'time'}	{emote: Shocked}{pause 5}Oh, mamma!{Wait <002d 0000> 'time'}
+"002"	{emote: Distress}Chiedo scusa!{pause 20}	Stavo solo riposando gli occhi!{Wait for input}{emote: Shyness}Dunque{pause 10}.{pause 10}.{pause 10}.{pause 10}{emote: Inspired}{Wait <002d 0000> 'time'}
+"003"
+"004"	{emote: Happiness}Benvenut{o/a}! Su questo piano	si trovano quattro sale espositive e	il negozio del museo di {Town name (pink)}.
+"005"	{emote: Joy}Per merito tuo,{pause 10} abbiamo potuto	aprire questo piano!{Wait for input} {emote: Happiness}Grazie	dell'aiuto! È stato fondamentale!
+"006"	{emote: Curious}A proposito,{pause 10} mi dici il tuo nome{pause 8}.{pause 8}.{pause 8}.{pause 8}?{0007-0008-0004-002d-0000}{Wait for input}{pause 5}{emote: Alarmed}{pause 10}Ah, {Player name}{pause 5}? Bene.{emote: Happiness}{Wait for input}Io mi chiamo {Orange}Celeste{Color Reset} e sono	la responsabile di questo piano.{Wait for input}	{emote: Happiness}Sono lieta di fare la tua conoscenza!
+"007"	Dunque{pause 8}.{pause 8}.{pause 8}.{pause 20} {Player name}.{pause 5}{emote: Happiness}	Questa è la prima volta che	vieni su questo piano, dico bene?	{emote: Reset}Se hai un minuto,{pause 5} mi piacerebbe	parlartene{pause 8}.{pause 8}.{pause 8}. {emote: Curious}Avresti tempo	per ascoltarmi, ora?{000f-0005-0004-0015-0028}	OK!	Facciamo un'altra volta.
+"008"	Va bene.{pause 10} Se ti viene in mente	qualche domanda,{emote: Happiness} chiedi pure a me!
+"009"	Purtroppo,{pause 10} {emote: Soft Smile}al momento non c'è	nulla in esposizione{pause 8}.{pause 8}.{pause 8}. {emote: Soft Smile}Ma sento	che presto ci sarà qualcosa!
+"010"	Al momento, su questo piano si sta	tenendo un'esposizione intitolata	"{0012-0007-0002-cd00}".
+"011"	In questo momento si stanno	tenendo due esposizioni...{Wait for input}"{capitalized}{0012-0007-0002-cd00}"	{000e-0011-0000} "{0012-0007-0002-cd01}"!
+"012"	Al momento, su questo piano	ci sono diverse esposizioni, tra	cui "{0012-0007-0002-cd00}".	Inoltre, abbiamo anche	"{0012-0007-0002-cd01}"	{000e-0011-0000} "{0012-0007-0002-cd02}"!
+"013"	Al momento, ci sono le esposizioni	"{0012-0007-0002-cd00}"	{000e-0011-0000} "{0012-0007-0002-cd01}".	E ne abbiamo anche altre due	intitolate "{0012-0007-0002-cd02}"	{000e-0011-0000} "{0012-0007-0002-cd03}".	{emote: Happiness}Spero che tu riesca a vederle tutte!
+"014"	{emote: Happiness}Buon proseguimento!
+"015"	Gli abitanti di questa città possono	organizzare delle mostre in qualsiasi	sala espositiva su questo piano!	L'affitto degli spazi espositivi	è molto ragionevole!{pause 5} {emote: Happiness}Fammi	sapere se ti può interessare!	{emote: Reset}Durante una mostra personale,	puoi arredare le sale a piacere,	proprio come faresti con casa tua.	Usa l'{Blue}armadietto {Color Reset}vicino alle scale {emote: Happiness}	per accedere rapidamente alle tue	cose e agli oggetti da esibire!{pause 10}{Wait for input}Potrai anche metterci gli oggetti	che stai portando con te, se vuoi.{pause 8}	È comodo, non ti pare?	{emote: Glee}Spero che organizzerai molte	fantastiche esibizioni, {Player name}!
+"016"	{emote: Reset}{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Happiness} Per quanto riguarda gli spazi	espositivi, questo è tutto!{Wait for input}Io vendo dei souvenir qui nell'atrio.{pause 5}	Passa ogni tanto a dare un'occhiata!{Wait for input}Quando la collezione a piano terra	aumenterà, troverai degli articoli	speciali!{pause 10} {emote: Happiness}Vieni a vedere ogni tanto!
+"017"	{emote: Happiness}Vuoi chiedermi qualcosa	sugli spazi espositivi?{000f-0006-0006-0000-0000-0028}	Vorrei affittarne uno!	Parlamene un po'!	No, niente.
+"018"	{emote: Happiness}Vuoi chiedermi qualcosa	sugli spazi espositivi?{000f-0007-0008-0000-0000-0000-0028}	Vorrei più spazio!	Chiudi la mia mostra.	Parlamene un po'!	No, niente.
+"019"	{emote: Happiness}Vuoi chiedermi qualcosa	sugli spazi espositivi?{000f-0006-0006-0000-0000-0028}	Chiudi la mia mostra!	Parlamene un po'!	No, niente.
+"020"	{emote: Curious}Cosa ti interessa sapere?{000f-0007-0008-0000-0000-0000-0028}	Parlami di questa sala.	Parlami delle mostre.	Chiudere una mostra.	No niente, grazie.
+"021"	{emote: Curious}Ti interessa sapere qualcos'altro?{000f-0007-0008-0000-0000-0000-0000}	Parlami di questa sala.	Parlami delle mostre.	Chiudere una mostra.	No niente, grazie.
+"022"	{emote: Happiness}Benissimo.{Wait for input} Buon proseguimento!
+"023"	Se vuoi organizzare un'esposizione,{pause 10}	puoi affittare uno spazio espositivo	per sole {Blue}10.000 stelline{Color Reset}.	{emote: Happiness}Quando l'affitti,{pause 10} puoi usarla per	tutto il tempo che vuoi, finché	non decidi di chiudere l'esposizione.	{emote: Reset}Volendo,{pause 10} una persona può utilizzare	più sale espositive, se necessario!
+"024"	Quando affitti uno spazio espositivo{pause 10}	puoi organizzare la disposizione	come vuoi. Come nella tua stanza!	Se utilizzi l'armadietto vicino alle	scale,{pause 10} {emote: Happiness}puoi accedere agli oggetti	che sono a casa tua!	Puoi prendere quello che ti serve	per la tua mostra o mettere via	oggetti che hai con te. {emote: Soft Smile}Comodo, no?
+"025"	Se dai un'occhiata al cartello	di fronte allo spazio espositivo...{Wait for input}... vedrai che puoi cambiare	il manifesto e disegnarne uno	di tuo gusto.	Puoi anche decidere il titolo	della mostra.{pause 10} {emote: Happiness}È un buon modo	per fare pubblicità al tuo evento!
+"026"	Quando vuoi smettere di utilizzare	una sala,{pause 10} fammelo sapere!
+"027"	Sposterò tutti gli oggetti dalla	sala espositiva all'armadietto	vicino alle scale.	Ma se hai degli oggetti che non si	possono mettere nell'armadietto,{pause 10}	non potrò chiudere l'esibizione.	Accadrà la stessa cosa se non c'è	abbastanza spazio nell'armadietto	per tutti gli oggetti esposti.	In questo caso,{pause 5} prova a mettere	in ordine le tue cose e poi vieni	a parlare con me!
+"028"	{pause 5}{emote: Surprise}{pause 10}Ah!{pause 15} Tu sei {emote: Curious}{Player name}, il sindaco	di {Town name (pink)}, dico bene?
+"029"	{pause 5}{emote: Surprise}{pause 10}Ah!{pause 15} {emote: Reset}Tu abiti in questa città,	{emote: Happiness}dico bene?
+"031"
+"032"	Oh,{pause 10} sei sicur{o/a}?{Wait for input}	{emote: Happiness}Bene, come preferisci!
+"033"	Ecco,{pause 10} a quanto pare, in questo	momento non hai abbastanza	stelline{pause 5}.{pause 5}.{pause 5}.{Wait for input}{emote: Happiness}Torna quando ne avrai a sufficienza!
+"034"	Oh,{pause 10} ma in questo momento non hai	spazio. Non posso darti nulla{pause 5}.{pause 5}.{pause 5}.{Wait for input}{emote: Happiness}Fai un pochino di spazio	e poi torna a parlarmi!
+"035"	{emote: Happiness}Sì,{pause 10} certamente!
+"036"	{emote: Sunny}Grazie mille!
+"037"	Ehm...{pause 10} {emote: Happiness}Sì, vuoi comprare qualcosa?	Posso aiutarti io!
+"038"	{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}!
+"039"	Il prezzo è di {Blue}{0004-000c-0002-0000} stelline{Color Reset}!{pause 5}	{emote: Happiness}Cosa ne pensi?{confirmation-02}{000f-0005-0004-0015-0028}	Ci sto!	Niente da fare.
+"041"	{emote: Happiness}Ti consiglio di non usare questo	oggetto solo a casa,{pause 5} ma anche qui	nella sala espositiva!
+"042"	{emote: Happiness}È un articolo commemorativo	per il completamento della nostra	collezione di insetti! Fantastico, no?
+"043"	{emote: Happiness}È un articolo commemorativo	per aver raggiunto la quota di	50 insetti nella nostra collezione!
+"044"	{emote: Happiness}È un articolo commemorativo	per il completamento della nostra	collezione di specie acquatiche.
+"045"	{emote: Happiness}È un articolo commemorativo	per aver raggiunto la quota di 50	specie acquatiche nel nostro museo!
+"046"	{emote: Happiness}È un articolo commemorativo	per il completamento della nostra	fantastica collezione di fossili.
+"047"	{emote: Happiness}È un articolo commemorativo	per aver raggiunto la quota di	30 fossili nella nostra collezione!
+"048"	{emote: Happiness}È un articolo commemorativo	per il completamento della nostra	collezione di opere d'arte.
+"049"	{emote: Happiness}È un articolo commemorativo per	aver raggiunto la quota di 20 opere	d'arte nella nostra collezione!
+"050"	{emote: Happiness}È un articolo commemorativo	per aver raggiunto la quota di	30 insetti nella nostra collezione!
+"051"	{emote: Happiness}È un articolo commemorativo	per aver raggiunto la quota di 30	specie acquatiche nel nostro museo!
+"052"	{emote: Happiness}È un articolo commemorativo	per aver raggiunto la quota di	15 fossili nella nostra collezione!
+"053"	{emote: Happiness}È un articolo commemorativo	per il completamento della nostra	collezione al piano terra del museo!
+"054"
+"055"
+"056"
+"057"	{emote: Curious}A proposito,{pause 10} come ti chiami{pause 8}.{pause 8}.{pause 8}.{pause 8}?{0007-0008-0004-002d-0000}{Wait for input}{pause 5}{emote: Alarmed}{pause 10}{capitalized}{Player name}{pause 8}.{pause 8}.{pause 8}.{pause 15} Tu devi essere	la persona che si è trasferita	qui da poco, vero?	Io mi chiamo {Orange}Celeste{Color Reset} e sono	la responsabile di questo piano.{Wait for input}	{emote: Happiness}Sono lieta di fare la tua conoscenza!
+"058"	Le sale espositive che si trovano su	questo piano possono essere prese	in affitto da qualsiasi cittadino.	Qui nell'atrio vendiamo	anche oggetti di vario tipo.{Wait for input}{emote: Happiness}Torna a farci visita quando avrai	finito di sistemarti, {Player name}!
+"059"	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Alarmed}{pause 10} Ah!{pause 10} Chiedo scusa,{pause 15} {emote: Reset}{emote: Curious}sei venut{o/a}	qui per comprare qualcosa? {000f-0005-0004-0015-0028}	Sì!	No...
+"061"	Vuoi interrompere l'esposizione	"{Blue}{0012-0007-0002-cd00}{Color Reset}" che si	trova nella sala numero 1,{emote: Curious} giusto?{confirmation-02}{000f-0005-0004-0015-0028}	Sì, grazie!	No, ho cambiato idea.
+"062"	Vuoi interrompere l'esposizione	"{Blue}{0012-0007-0002-cd00}{Color Reset}" che si	trova nella sala numero 2,{emote: Curious} giusto?{confirmation-02}{000f-0005-0004-0015-0028}	Eh sì!	No, ho cambiato idea.
+"063"	Vuoi interrompere l'esposizione	"{Blue}{0012-0007-0002-cd00}{Color Reset}" che si	trova nella sala numero 3,{emote: Curious} giusto?{confirmation-02}{000f-0005-0004-0015-0028}	Proprio così!	No, ho cambiato idea.
+"064"	Vuoi interrompere l'esposizione	"{Blue}{0012-0007-0002-cd00}{Color Reset}" che si	trova nella sala numero 4,{emote: Curious} giusto?{confirmation-02}{000f-0005-0004-0015-0028}	Esattamente!	No, ho cambiato idea.
+"065"
+"066"	{capitalized}{Player name}, in questo momento	stai utilizzando diverse sale.	{pause 10}{emote: Curious}Quale mostra vuoi interrompere?{pause 5}
+"067"	Benissimo.{Wait for input}	{emote: Happiness}Continua pure a usarla!
+"068"	OK.{pause 10} Chiuderemo la sala e	rimetteremo il cartello	com'era prima{pause 8}.{pause 8}.{pause 8}.
+"069"	{emote: Happiness}Scusa se ti ho fatto aspettare!{Wait for input}	Spero di rivederti presto!
+"070"	{emote: Worry}Non possiamo togliere tutti	gli oggetti in esposizione perché	non c'è più spazio nell'armadietto.	{emote: Reset}Quando avrai fatto un po' di posto,{emote: Happiness}	torna pure qui e vieni a parlarmi!
+"071"	Se chiudi la sala,{pause 5} tutti gli oggetti	in esposizione verranno spostati	nell'armadietto.{pause 5} {emote: Curious}D'accordo?{confirmation-02}{000f-0005-0004-0015-0028}	Nessun problema!	No, ho cambiato idea.
+"072"
+"073"	{emote: Worry}Le sale sono tutte occupate.{Wait for input}	{emote: Reset}Torna quando {emote: Happiness}avremo	una sala disponibile!
+"074"	{emote: Worry}Scusami, ma non posso modificare	le esposizioni se ci sono ospiti	provenienti da altre città.	{emote: Reset}Mi dispiace.{pause 5}	{emote: Happiness}Torna in un altro momento!
+"075"	L'affitto della sala è di {Blue}10.000	stelline{Color Reset}.{pause 10} {emote: Curious}D'accordo?{confirmation-02}{000f-0005-0004-0015-0028}	Certamente!	Lasciamo perdere.
+"076"	{emote: Happiness}Queste sale sono disponibili.{pause 10}	Quale vorresti utilizzare?
+"077"	Oh,{pause 10} sei sicur{o/a}?{Wait for input}	Va bene.{emote: Happiness} Se decidi di prendere in	affitto una sala, vieni pure da me!
+"078"	{emote: Reset}Affittare la sala costa	{Blue}10.000 stelline{Color Reset}.{pause 10} {emote: Curious}Va bene?{confirmation-02}{000f-0005-0004-0015-0028}	Certamente!	Lasciamo perdere.
+"079"	Bene.{pause 10} Purtroppo, però, l'affitto va	pagato in anticipo.{pause 10} {emote: Happiness}Per favore, vieni	quando avrai abbastanza stelline.
+"080"	{emote: Happiness}Perfetto.	Grazie per le {Blue}10.000 stelline{Color Reset}!
+"081"	A proposito,{pause 5} {Player name}, {emote: Happiness}	questa è la prima volta che	usi una delle nostre sale, vero?	{emote: Reset}{emote: Curious}Vuoi che ti spieghi in dettaglio	come funziona?{000f-0005-0004-0015-0028}	Sì grazie!	No, non mi serve.
+"082"	Puoi decorare e organizzare	lo spazio della sala a tuo	piacimento,{pause 10} come a casa tua!	{emote: Happiness}Puoi decidere il titolo della tua	esposizione{pause 10} e creare un manifesto	da mettere all'ingresso!
+"083"	Se decidi di interrompere	un'esposizione, vieni a parlare	con me.	Tutti i tuoi oggetti, che si trovano	nella sala espositiva, verranno	spostati nell'armadietto.	Se questa operazione non dovesse	essere possibile,{pause 10} non potrai	interrompere l'esposizione.	Ad esempio, se non ci fosse	abbastanza spazio per spostare	tutti gli oggetti nell'armadietto...	{emote: Happiness}... dovrai fare un po' di pulizia	e venire a parlare di nuovo con me.
+"084"	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Happiness} E questo è tutto.{Wait for input} Se dimentichi	qualcosa e vuoi che te la rispieghi,	chiedi pure quando vuoi!
+"085"	Oh,{pause 10} va bene.{Wait for input}	{emote: Happiness}Nessun problema.
+"086"	Bene, allora{pause 10} lascia che	ti apra la porta della sala{pause 8}.{pause 8}.{pause 8}.
+"087"	{emote: Happiness}Bene!{Wait for input}	Usala pure come vuoi!
+"088"	{emote: Happiness}Al momento, {pause 10}la {Blue}sala 1 {Color Reset}è disponibile!
+"089"	{emote: Happiness}Al momento, {pause 10}la {Blue}sala 2 {Color Reset}è disponibile!
+"090"	{emote: Happiness}Al momento, {pause 10}la {Blue}sala 3 {Color Reset}è disponibile!
+"091"	{emote: Happiness}Al momento, {pause 10}la {Blue}sala 4 {Color Reset}è disponibile!
+"092"
+"093"
+"094"
+"095"
 == 4 ==
-"001"	{0000-0002-0002-4b-00}{emote: Sleep Bubble}
-"002"	{emote: Distress}
-"003"	
-"004"	{emote: Happiness}
-"005"	{emote: Joy}
-"006"	{emote: Curious}
-"007"	{emote: Happiness}
-"008"	Wie du meinst.{pause 10}!
-"009"	{emote: Sheepishness}
-"010"	Zurzeit findet bei uns	die Sonderausstellung	„{0012-0007-0002-00-ffffffcd}“ statt.
-"011"	Unsere derzeitigen Ausstellungen	heißen „{0012-0007-0002-00-ffffffcd}“	und „{0012-0007-0002-01-ffffffcd}“.
-"012"	Zurzeit bieten wir unter anderem	eine Ausstellung namens	„{0012-0007-0002-00-ffffffcd}“ an.	Die weiteren Ausstellungen sind	„{0012-0007-0002-01-ffffffcd}“ und	„{0012-0007-0002-02-ffffffcd}“.
-"013"	Zurzeit finden die Ausstellungen	„{0012-0007-0002-00-ffffffcd}“ und	„{0012-0007-0002-01-ffffffcd}“ statt.	Außerdem wären da noch	„{0012-0007-0002-02-ffffffcd}“	und „{0012-0007-0002-03-ffffffcd}“.	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	Diese Räume stehen den Bürgern	dieser Stadt für ihre ganz eigenen	Ausstellungen zur Verfügung.	{emote: Happiness}
-"016"	{emote: Reset}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	{emote: Curious}
-"021"	{emote: Curious}
-"022"	{emote: Happiness}
-"023"	Wenn du eine Ausstellung machen	willst, kannst du einen Raum für	nur {Blue}10.000 Sternis{Color Reset} mieten.	{emote: Happiness}
-"024"	Einen Ausstellungsraum, den du	angemietet hast, kannst du nach	deinen eigenen Wünschen einrichten.	{emote: Happiness}
-"025"	Sieh dir auch mal das Schild	vor deinem Ausstellungsraum	genauer an.	{emote: Happiness}
-"026"	Falls du deinen Ausstellungsraum	nicht mehr brauchst, {pause 8}
-"027"	Ich werde dann alle deine	Ausstellungsstücke in die	Schließfächer in der Ecke räumen.	{emote: Thought}
-"028"	{pause 5}
-"029"	{pause 5}
-"031"	
-"032"	Oh,{pause 10}
-"033"	Oh-oh,{pause 10}!
-"034"	Oh,{pause 10}
-"035"	{emote: Happiness}
-"036"	{emote: Sunny}
-"037"	{emote: Happiness}
-"038"	Das da ist {Article(word-dependant)}
-"039"	Der Preis dafür beträgt	{Blue}{0004-000c-0002-00-00}
-"041"	{emote: Happiness}
-"042"	{emote: Happiness}
-"043"	{emote: Happiness}
-"044"	{emote: Happiness}
-"045"	{emote: Happiness}
-"046"	{emote: Happiness}
-"047"	{emote: Happiness}
-"048"	{emote: Happiness}
-"049"	{emote: Happiness}
-"050"	{emote: Happiness}
-"051"	{emote: Happiness}
-"052"	{emote: Happiness}
-"053"	{emote: Happiness}
-"054"	
-"055"	
-"056"	
-"057"	{emote: Curious}
-"058"	Diese Räume stehen den Bürgern	dieser Stadt für ihre ganz eigenen	Ausstellungen zur Verfügung.	Außerdem haben wir immer einige	Items im Angebot, die du bei	Interesse kaufen kannst.	{emote: Happiness}
-"059"	{emote: Alarmed}
-"061"	{emote: Curious}
-"062"	{emote: Curious}
-"063"	{emote: Curious}
-"064"	{emote: Curious}
-"065"	
-"066"	{emote: Curious}
-"067"	Also gut.{pause 30}
-"068"	Na gut,{pause 10}
-"069"	{emote: Happiness}
-"070"	{emote: Worry}
-"071"	Wenn du den Ausstellungsraum	schließt, räume ich alle Items aus	diesem Raum in die Schließfächer.	{emote: Curious}
-"072"	
-"073"	{emote: Worry}
-"074"	{emote: Worry}
-"075"	Die Miete für den Ausstellungsraum	beträgt {Blue}10.000 Sternis{Color Reset}.{pause 10}
-"076"	{emote: Happiness}
-"077"	Oh,{pause 10}
-"078"	Die Miete für einen Ausstellungs-	raum beträgt {Blue}10.000 Sternis{Color Reset}.{pause 10}!
-"079"	Die Miete muss im Voraus bezahlt	werden,{pause 10}
-"080"	{emote: Happiness}
-"081"	Übrigens,{pause 10}
-"082"	Deinen Ausstellungsraum kannst du,	ähnlich wie dein eigenes Haus, ganz	nach deinen Wünschen einrichten.	{emote: Happiness}
-"083"	Wenn du deine Ausstellung	beenden willst, sag mir	einfach Bescheid.	Ich werde dann alle Items aus dem	Ausstellungsraum in die	Schließfächer in der Ecke räumen.	{emote: Thought}
-"084"	{emote: Happiness}
-"085"	{emote: Happiness}
+"001"	{Text size 75%}{emote: Sleep Bubble}{Text size 75%}Zzzzzzzzzzzzzzz{Text size 75%}{pause 15}.{pause 15}.{pause 15}.{pause 25}{Text size 100%}{emote: Sleepy}{pause 120}{emote: Alarmed}{Wait <0096 0000> 'time'}	{emote: Shocked}{pause 5}Ach du meine Güte!{Wait <002d 0000> 'time'}
+"002"	{emote: Distress}Ich bitte um Verzeihung!{pause 20}	Ich habe nur meine Augen ausgeruht!{Wait for input}{emote: Shyness}Tja, also{pause 10}.{pause 10}.{pause 10}.{pause 10}{emote: Inspired}{Wait <002d 0000> 'time'}
+"003"
+"004"	{emote: Happiness}Willkommen im Obergeschoss des	Museums von {Town name (pink)}!{Wait for input}Hier findest du den Museumsladen	sowie unsere Räume für	Sonderausstellungen!
+"005"	{emote: Joy}Dank dir konnten wir dieses	Obergeschoss eröffnen!{pause 20} {emote: Happiness}Vielen	Dank für deine Unterstützung!
+"006"	{emote: Curious}Übrigens,{pause 10} wie war noch gleich	dein Name?{0007-0008-0004-002d-0000}{Wait for input}{pause 5}{emote: Alarmed}{pause 10}Ah, {Player name},{pause 5} richtig?{emote: Happiness}{Wait for input}Ich bin {Orange}Eufemia{Color Reset} und betreue das	Obergeschoss des Museums.{pause 20}	{emote: Happiness}Sehr nett, dich kennenzulernen!
+"007"	{emote: Happiness}Du bist zum ersten Mal im	Obergeschoss, stimmt's,	{Player name}?	{emote: Reset}Wenn du nichts dagegen hast, würde	ich dir gern einiges über dieses	Stockwerk erzählen...{000f-0005-0004-0015-0028}	Dann leg mal los!	Beim nächsten Mal.
+"008"	Wie du meinst.{pause 10} {emote: Happiness}Wenn du irgendetwas	wissen willst, kannst du mich	jederzeit danach fragen!
+"009"	{emote: Sheepishness}Leider haben wir hier zurzeit	keine Sonderausstellungen...{pause 20} {emote: Soft Smile}Aber	das wird sich sicher bald ändern!
+"010"	Zurzeit findet bei uns	die Sonderausstellung	„{0012-0007-0002-cd00}“ statt.
+"011"	Unsere derzeitigen Ausstellungen	heißen „{0012-0007-0002-cd00}“	und „{0012-0007-0002-cd01}“.
+"012"	Zurzeit bieten wir unter anderem	eine Ausstellung namens	„{0012-0007-0002-cd00}“ an.	Die weiteren Ausstellungen sind	„{0012-0007-0002-cd01}“ und	„{0012-0007-0002-cd02}“.
+"013"	Zurzeit finden die Ausstellungen	„{0012-0007-0002-cd00}“ und	„{0012-0007-0002-cd01}“ statt.	Außerdem wären da noch	„{0012-0007-0002-cd02}“	und „{0012-0007-0002-cd03}“.	{emote: Happiness}Ich kann dir nur wärmstens	empfehlen, dir alle vier anzusehen!
+"014"	{emote: Happiness}Genieß deinen Aufenthalt!
+"015"	Diese Räume stehen den Bürgern	dieser Stadt für ihre ganz eigenen	Ausstellungen zur Verfügung.	{emote: Happiness}Sag mir also Bescheid, wenn du	einen Raum gegen eine kleine	Gebühr nutzen willst!	{emote: Reset}Du kannst ihn dann nach Belieben	einrichten, ganz so, wie du es bei	dir zu Hause machen würdest.	Über die {Blue}Schließfächer {Color Reset}neben der	Treppe hast du Zugriff auf Items	aus deinen Schränken zu Hause!	{emote: Happiness}Auf diese Weise kannst du auch	Sachen verstauen, die du gerade	mit dir herumträgst.	{emote: Glee}Viel Spaß bei der Zusammenstellung	deiner ganz persönlichen	Ausstellungen, {Player name}!
+"016"	{emote: Reset}{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Happiness}Das ist eigentlich schon alles, was	du über die Ausstellungsräume im	Obergeschoss wissen musst!	Wir verkaufen hier auch einige	Souvenirs, also komm doch ab	und zu mal vorbei.	{emote: Happiness}Manchmal haben wir spezielle Items	im Angebot, wenn die Sammlungen	im Erdgeschoss größer werden.
+"017"	{emote: Happiness}Interessierst du dich für die	Ausstellungsräume?{000f-0006-0006-0000-0000-0028}	Ich will ausstellen!	Erklärung, bitte!	Schon gut.
+"018"	{emote: Happiness}Willst du über die Ausstellungs-	räume reden?{000f-0007-0008-0000-0000-0000-0028}	Ich brauche mehr Platz!	Ausstellung abbauen!	Erklärung, bitte!	Schon gut.
+"019"	{emote: Happiness}Willst du über die Ausstellungs-	räume reden?{000f-0006-0006-0000-0000-0028}	Ausstellung abbauen!	Erklärung, bitte!	Schon gut.
+"020"	{emote: Curious}Worüber soll ich dir etwas	erzählen?{000f-0007-0008-0000-0000-0000-0028}	Ausstellungsräume.	Dinge ausstellen.	Ausstellung beenden.	Schon gut.
+"021"	{emote: Curious}Brauchst du noch Erklärungen zu	einem weiteren Thema?{000f-0007-0008-0000-0000-0000-0000}	Ausstellungsräume.	Dinge ausstellen.	Ausstellung beenden.	Nein danke.
+"022"	{emote: Happiness}Alles klar!{pause 30}	Sieh dich in aller Ruhe um!
+"023"	Wenn du eine Ausstellung machen	willst, kannst du einen Raum für	nur {Blue}10.000 Sternis{Color Reset} mieten.	{emote: Happiness}Den Raum darfst du dann so lange	nutzen, bis du deine Ausstellung	wieder abbauen willst.	{emote: Reset}Wenn du willst, kannst du auch	mehrere Räume gleichzeitig mieten!
+"024"	Einen Ausstellungsraum, den du	angemietet hast, kannst du nach	deinen eigenen Wünschen einrichten.	{emote: Happiness}Ungefähr so, als würdest du	zu Hause dein eigenes Zimmer	einrichten!	{emote: Reset}Über die {Blue}Schließfächer {Color Reset}neben der	Treppe hast du Zugriff auf Items	aus deinen Schränken zu Hause!
+"025"	Sieh dir auch mal das Schild	vor deinem Ausstellungsraum	genauer an.	{emote: Happiness}Du kannst es durch eines deiner	eigenen Designs ersetzen und den	Namen deiner Ausstellung ändern.
+"026"	Falls du deinen Ausstellungsraum	nicht mehr brauchst, {pause 8}sag mir	einfach Bescheid!
+"027"	Ich werde dann alle deine	Ausstellungsstücke in die	Schließfächer in der Ecke räumen.	{emote: Thought}Es gibt jedoch Items, die sich	nicht in den Schließfächern	verstauen lassen...	{emote: Reset}Um solche Items musst du dich	selbst kümmern, bevor du deine	Ausstellung beenden kannst.	Das Gleiche gilt für alle Items, die	aus Platzgründen nicht mehr in die	Schließfächer passen.
+"028"	{pause 5}{emote: Surprise}{pause 10}Oh!{pause 20} Du bist doch {Player name},{pause 8}	{der Bürgermeister/die Bürgermeisterin} von {Town name (pink)},	{emote: Curious}stimmt's?
+"029"	{pause 5}{emote: Surprise}{pause 10}Oh!{pause 20} {emote: Reset}Du wohnst doch auch in	dieser Stadt,{emote: Happiness} hab ich recht?
+"031"
+"032"	Oh,{pause 10} bist du sicher?{pause 40}	{emote: Happiness}Sieh dich bitte in aller Ruhe um!
+"033"	Oh-oh,{pause 10} anscheinend hast du zu	wenige Sternis bei dir...{Wait for input}{emote: Happiness}Komm bitte wieder, sobald du	genügend davon hast!
+"034"	Oh,{pause 10} deine Taschen sind leider zu	voll, um das Item mitzunehmen...{Wait for input}{emote: Happiness}Schaff einfach ein bisschen Platz	und komm dann wieder!
+"035"	{emote: Happiness}Alles klar!
+"036"	{emote: Sunny}Danke für deinen Einkauf!
+"037"	{emote: Happiness}Möchtest du etwas kaufen?{pause 20}	Sieh dich in Ruhe um!
+"038"	Das da ist {Article(word-dependant)}	{0011-0003-0002-0000}.
+"039"	Der Preis dafür beträgt	{Blue}{0004-000c-0002-0000} Sternis{Color Reset}!{pause 20}	{emote: Happiness}Ist das in Ordnung für dich?{confirmation-02}{000f-0005-0004-0015-0028}	Abgemacht!	Lieber doch nicht...
+"041"	{emote: Happiness}Dieses gute Stück kannst du nicht	nur in deinem Haus, sondern auch in	einem Ausstellungsraum verwenden!
+"042"	{emote: Happiness}Dieses Item haben wir zur Feier	der Vervollständigung unserer	Insektensammlung im Angebot!
+"043"	{emote: Happiness}Dieses Item haben wir zur Feier von	50 Insekten in unserer Sammlung	ins Angebot genommen!
+"044"	{emote: Happiness}Mit diesem Angebot feiern wir die 	Komplettierung unserer Sammlung	von Fluss- und Meeresbewohnern!
+"045"	{emote: Happiness}Mit diesem Angebot feiern wir die	50. Spende für unsere Sammlung	von Fluss- und Meeresbewohnern!
+"046"	{emote: Happiness}Mit diesem Angebot feiern wir	die Komplettierung unserer	Fossiliensammlung!
+"047"	{emote: Happiness}Mit diesem Angebot feiern wir das	30. Fossil, das für unsere Sammlung	gestiftet wurde!
+"048"	{emote: Happiness}Mit diesem Angebot feiern wir	die Komplettierung unserer	Kunstsammlung!
+"049"	{emote: Happiness}Mit diesem Angebot feiern wir	die 20. Spende eines Kunstwerks	für unsere Sammlung!
+"050"	{emote: Happiness}Mit diesem Angebot feiern wir	die 30. Spende für unsere	Insektensammlung!
+"051"	{emote: Happiness}Mit diesem Angebot feiern wir die	30. Spende für die Sammlung von	Fluss- und Meeresbewohnern!
+"052"	{emote: Happiness}Mit diesem Angebot feiern wir	Spende Nummer 15 für unsere	Fossiliensammlung!
+"053"	{emote: Happiness}Mit diesem Angebot feiern wir die	Komplettierung aller Sammlungen	im Erdgeschoss des Museums!
+"054"
+"055"
+"056"
+"057"	{emote: Curious}Wie war doch gleich dein Name{pause 20}.{pause 20}.{pause 20}.{pause 20}{0007-0008-0004-002d-0000}{Wait for input}{pause 5}{emote: Alarmed}{pause 10}{capitalized}{Player name}?{pause 20} Du bist also {derjenige/diejenige},	{der/die} neulich in die Stadt gezogen ist!{Wait for input}{emote: Happiness}Ich heiße {Orange}Eufemia{Color Reset} und bin für	dieses Stockwerk zuständig!{pause 20}	Freut mich, dich kennenzulernen!
+"058"	Diese Räume stehen den Bürgern	dieser Stadt für ihre ganz eigenen	Ausstellungen zur Verfügung.	Außerdem haben wir immer einige	Items im Angebot, die du bei	Interesse kaufen kannst.	{emote: Happiness}Komm doch einfach wieder vorbei,	wenn du dich ein bisschen in der	Stadt eingelebt hast!
+"059"	{emote: Alarmed}{pause 10}Oh!{pause 20} Verzeihung!{pause 20} {emote: Curious}Bist du hier, um	etwas zu kaufen?{000f-0005-0004-0015-0028}	Ja!	Nein.
+"061"	{emote: Curious}Willst du die Ausstellung	{Blue}{0012-0007-0002-cd00} {Color Reset}in	Ausstellungsraum 1 beenden?{confirmation-02}{000f-0005-0004-0015-0028}	Ja, will ich!	Nein, doch nicht.
+"062"	{emote: Curious}Willst du die Ausstellung	{Blue}{0012-0007-0002-cd00} {Color Reset}in	Ausstellungsraum 2 beenden?{confirmation-02}{000f-0005-0004-0015-0028}	Ja, will ich!	Nein, doch nicht.
+"063"	{emote: Curious}Willst du die Ausstellung	{Blue}{0012-0007-0002-cd00} {Color Reset}in	Ausstellungsraum 3 beenden?{confirmation-02}{000f-0005-0004-0015-0028}	Ja, will ich!	Nein, doch nicht.
+"064"	{emote: Curious}Willst du die Ausstellung	{Blue}{0012-0007-0002-cd00} {Color Reset}in	Ausstellungsraum 4 beenden?{confirmation-02}{000f-0005-0004-0015-0028}	Ja, will ich!	Nein, doch nicht.
+"065"
+"066"	{emote: Curious}Welchen Ausstellungsraum	möchtest du schließen?
+"067"	Also gut.{pause 30}	{emote: Happiness}Dann weiterhin viel Spaß mit	deiner Ausstellung!
+"068"	Na gut,{pause 10} dann schließen wir den	Ausstellungsraum und hängen das	alte Schild wieder davor...
+"069"	{emote: Happiness}Danke für deine Geduld!{pause 20}	Bis bald!
+"070"	{emote: Worry}In den Schließfächern ist nicht	genügend Platz für alle deine	Ausstellungsstücke.	{emote: Reset}Würde es dir etwas ausmachen,	einige davon selbst wegzuräumen?{Wait for input}{emote: Happiness}Sag mir einfach Bescheid, wenn	du damit fertig bist!
+"071"	Wenn du den Ausstellungsraum	schließt, räume ich alle Items aus	diesem Raum in die Schließfächer.	{emote: Curious}Ist das in Ordnung?{confirmation-02}{000f-0005-0004-0015-0028}	Kein Problem!	Lieber doch nicht.
+"072"
+"073"	{emote: Worry}Im Moment sind leider alle unsere	Ausstellungsräume belegt.{pause 20} {emote: Happiness}Versuch's	doch bitte ein andermal wieder!
+"074"	{emote: Worry}Wir haben gerade Besuch in	der Stadt...{Wait for input}Das heißt, ich kann im Moment keine	Änderungen an den Ausstellungs-	räumen vornehmen.	{emote: Reset}Tut mir leid, {pause 10}{emote: Happiness}aber komm doch bitte	ein andermal wieder!
+"075"	Die Miete für den Ausstellungsraum	beträgt {Blue}10.000 Sternis{Color Reset}.{pause 10}	{emote: Curious}Ist das in Ordnung?{confirmation-02}{000f-0005-0004-0015-0028}	Klar!	Eher nicht...
+"076"	{emote: Happiness}Welchen der zur Verfügung	stehenden Räume würdest du	gern mieten?
+"077"	Oh,{pause 10} bist du sicher?{pause 20} {emote: Happiness}Sprich mich	einfach wieder an, wenn du einen	Ausstellungsraum mieten willst!
+"078"	Die Miete für einen Ausstellungs-	raum beträgt {Blue}10.000 Sternis{Color Reset}.{pause 10}	{emote: Curious}Ist das in Ordnung?{confirmation-02}{000f-0005-0004-0015-0028}	Klar!	Eher nicht...
+"079"	Die Miete muss im Voraus bezahlt	werden,{pause 10} {emote: Happiness}also komm bitte wieder,	sobald du genügend Sternis hast.
+"080"	{emote: Happiness}Da du mir die {Blue}10.000 Sternis	{Color Reset}bezahlt hast, steht dir der Raum	ab sofort zur Verfügung!
+"081"	Übrigens,{pause 10} {Player name}, {pause 10}{emote: Happiness}du mietest	zum ersten Mal einen Ausstellungs-	raum, stimmt's?	{emote: Curious}Soll ich dir erklären, was du damit	anfangen kannst?{000f-0005-0004-0015-0028}	Ja bitte!	Schon gut.
+"082"	Deinen Ausstellungsraum kannst du,	ähnlich wie dein eigenes Haus, ganz	nach deinen Wünschen einrichten.	{emote: Happiness}Das Schild an der Tür kannst du	übrigens durch eines mit eigenem	Design ersetzen!	Außerdem kannst du jederzeit den	Namen deiner Ausstellung ändern!
+"083"	Wenn du deine Ausstellung	beenden willst, sag mir	einfach Bescheid.	Ich werde dann alle Items aus dem	Ausstellungsraum in die	Schließfächer in der Ecke räumen.	{emote: Thought}Es gibt jedoch Items, die sich	nicht in den Schließfächern	verstauen lassen...	{emote: Reset}Solche Items musst du selbst	wegräumen, bevor du deine	Ausstellung beenden kannst.	Das Gleiche gilt für alle Items, die	aus Platzgründen nicht mehr in die	Schließfächer passen.
+"084"	{emote: Happiness}Das wäre dann alles.{pause 20} Wenn ich es	noch mal erklären soll, kannst du	mich jederzeit wieder fragen!
+"085"	{emote: Happiness}Alles klar.
 "086"	Dann werde ich mal die Tür zu	deinem Ausstellungsraum öffnen...
-"087"	{emote: Happiness}
-"088"	{emote: Happiness}
-"089"	{emote: Happiness}
-"090"	{emote: Happiness}
-"091"	{emote: Happiness}
-"092"	
-"093"	
-"094"	
-"095"	
+"087"	{emote: Happiness}Viel Spaß beim Aufbauen	deiner Ausstellung!
+"088"	{emote: Happiness}{Blue}Ausstellungsraum 1 {Color Reset}kann derzeit	angemietet werden!
+"089"	{emote: Happiness}{Blue}Ausstellungsraum 2 {Color Reset}kann derzeit	angemietet werden!
+"090"	{emote: Happiness}{Blue}Ausstellungsraum 3 {Color Reset}kann derzeit	angemietet werden!
+"091"	{emote: Happiness}{Blue}Ausstellungsraum 4 {Color Reset}kann derzeit	angemietet werden!
+"092"
+"093"
+"094"
+"095"

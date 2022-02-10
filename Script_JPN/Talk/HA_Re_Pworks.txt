@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{pause 5}
-"003"	{pause 5}
+"001"	{emote: Greetings}{pause 5}よぉ！{pause 10}　{Player nickname (green)}ー！{pause 20}	{ruby (charSpan 2): しごと}仕事　がんばってるじゃん！{Wait for input}{emote: Happiness}こうやって　{ruby (charSpan 1): はたら}働いてるトコを{ruby (charSpan 1): み}見ると、{pause 10}	やっぱ　{ruby (charSpan 2): そんちょう}村長ってカッコイイよなー！{pause 10}	{catchphrase}！
+"002"	{pause 5}{emote: Alarmed}{pause 10}スゲェー！　{pause 10}{Player nickname (green)}！{pause 20}	ちゃんと　{ruby (charSpan 2): そんちょう}村長やってるじゃん！{Wait for input}{emote: Sorrow}オイラ、{pause 10}{ruby (charSpan 2): かんどう}感動したぞー！{pause 15}	がんばれーっ！{pause 10}　{Player nickname (green)}{ruby (charSpan 2): そんちょう}村長ーっ！
+"003"	{pause 5}{emote: Alarmed}{pause 10}おー！　{pause 8}{Player nickname (green)}！{pause 20}	{Town name (pink)}{ruby (charSpan 1): むら}村に　なんか	つくってくれんのかー？{Wait for input}{emote: Happiness}なんでもイイから{pause 20}	とにかく　カッコイイやつを	たのむぞー！　{pause 8}{catchphrase}！

@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	あら、{pause 10}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
+"001"	{emote: Happiness}{Greeting begin}おはようございます{Greeting end}！{Wait for input}	{ruby (charSpan 2): きょう}今日は　{pause 10}{ruby (charSpan 1): あさ}朝から{ruby (charSpan 1): ゆき}雪なんです、{pause 15}{catchphrase}
+"002"	{emote: Happiness}{Greeting begin}こんにちは{Greeting end}！{Wait for input}	{ruby (charSpan 1): あさ}朝　{ruby (charSpan 1): さむ}寒くて{ruby (charSpan 1): め}目を{ruby (charSpan 1): さ}覚ましたら{pause 8}	{ruby (charSpan 1): ゆき}雪が{ruby (charSpan 1): ふ}降っていたんです、{pause 15}{catchphrase}！
+"003"	{emote: Happiness}あら　{pause 10}{Player name}さん{pause 15}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てたんですね、{pause 15}{catchphrase}！{Wait for input}	{ruby (charSpan 2): けさ}今朝は　{pause 8}だいぶ{ruby (charSpan 1): ひ}冷え{ruby (charSpan 1): こ}込んでるんです
+"004"	{emote: Happiness}あら　{pause 10}{Player name}さん{pause 20}	{ruby (charSpan 1): ゆき}雪の　{Town name (pink)}{ruby (charSpan 1): むら}村へ　{pause 5}ようこそ！
+"005"	{emote: Happiness}{Greeting begin}あら{Greeting end}！{pause 20}	{ruby (charSpan 1): あそ}遊びにいらしたんですね、{pause 10}{catchphrase}{Wait for input}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 3): ゆきもよう}雪模様なんですよ{pause 15}	{ruby (charSpan 1): さむ}寒さに{ruby (charSpan 1): ま}負けず、{pause 10}{ruby (charSpan 1): あそ}遊び{ruby (charSpan 1): まわ}回りましょう！
+"006"	{emote: Happiness}まぁ！{pause 20}	いつから　いらしてたんですか？{Wait for input}	{emote: Glee}お{ruby (charSpan 1): あ}会いできてうれしいです、{pause 15}{catchphrase}
+"007"	{emote: Happiness}{Greeting begin}こんばんは{Greeting end}{pause 20}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てたんですね！{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): ゆき}雪の　{Town name (pink)}{ruby (charSpan 1): むら}村を{pause 15}	{ruby (charSpan 1): たの}楽しんでいってください、{pause 15}{catchphrase}
+"008"	{emote: Happiness}あら！　{pause 10}こんばんは{pause 15}	{Town name (pink)}{ruby (charSpan 1): むら}村へ　ようこそ、{pause 15}{catchphrase}！{Wait for input}	{emote: Fearful}{ruby (charSpan 2): こんや}今夜は　{pause 8}ますます　{ruby (charSpan 1): ひ}冷え{ruby (charSpan 1): こ}込みそうですよ
+"009"	{emote: Happiness}{Player name}さん{pause 10}、こんばんは{pause 15}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てたんですね！{Wait for input}{ruby (charSpan 2): こんや}今夜は{ruby (charSpan 1): さむ}寒いので　{pause 10}{ruby (charSpan 1): あたた}暖かい{ruby (charSpan 2): かっこう}格好をして{pause 5}	お{ruby (charSpan 1): す}過ごしください、{pause 15}{catchphrase}
+"010"	{emote: Happiness}まぁ　{pause 15}どなたかと{ruby (charSpan 1): おも}思ったら{pause 10}	{Player name}さんでしたか、{pause 15}{catchphrase}{Wait for input}	この{ruby (charSpan 1): ゆき}雪　{pause 10}{ruby (charSpan 1): あさ}朝まで{ruby (charSpan 1): ふ}降りますかね～
+"011"	あら、{pause 10}{ruby (charSpan 1): あそ}遊びにいらしてたんですね！{Wait for input}{emote: Happiness}{ruby (charSpan 2): こんや}今夜の　{Town name (pink)}{ruby (charSpan 1): むら}村は、{pause 10}	{ruby (charSpan 1): ゆき}雪が　{ruby (charSpan 1): ふ}降ってるんですよ{pause 30}	ぜひ　{pause 15}{ruby (charSpan 1): たの}楽しんでください、{pause 15}{catchphrase}
+"012"	{emote: Happiness}{Greeting begin}あら　{pause 20}{Player name}さん！{Greeting end}{Wait for input}{ruby (charSpan 2): こんや}今夜の　{Town name (pink)}{ruby (charSpan 1): むら}村は{pause 10}	とても{ruby (charSpan 1): さむ}寒いんですよ{Wait for input}カゼをひかないように{pause 10}	{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けてくださいね、{pause 10}{catchphrase}
+"013"	{emote: Happiness}{Greeting begin}あら{Greeting end}！{pause 20}	{Player nickname (green)}さんじゃないですか{Wait for input}{emote: Shyness}{ruby (charSpan 1): ゆき}雪の{ruby (charSpan 1): なか}中の　{pause 8}{Player nickname (green)}さん{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Sunny}すてきです～、{pause 15}{catchphrase}
+"014"	{emote: Happiness}あら！　{pause 10}お{ruby (charSpan 2): げんき}元気ですか？{Wait for input}	{emote: Fearful}{ruby (charSpan 2): きょう}今日の　{Town name (pink)}{ruby (charSpan 1): むら}村は{pause 10}	{ruby (charSpan 1): ひ}冷え{ruby (charSpan 1): こ}込んでいます、{pause 15}{catchphrase}
+"015"	{emote: Happiness}まぁ{pause 10}　こんにちは！{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): ゆき}雪の　{Town name (pink)}{ruby (charSpan 1): むら}村で{pause 10}	{ruby (charSpan 1): たの}楽しく　{ruby (charSpan 1): す}過ごしてくださいね、{pause 10}{catchphrase}

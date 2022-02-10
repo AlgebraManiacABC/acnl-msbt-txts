@@ -1,105 +1,105 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Resigned}
-"005"	{emote: Agreement}
-"006"	{emote: Joy}
-"007"	{emote: Sunny}
-"008"	{emote: Happiness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Agreement}
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{emote: Soft Smile}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Alarmed}
-"016"	{emote: Alarmed}
-"017"	{0009-0000-0004-13-00-15-00}
-"018"	{0009-0000-0004-14-00-16-00}
-"019"	{emote: Alarmed}
-"020"	{emote: Alarmed}
-"021"	{emote: Alarmed}
-"022"	{emote: Alarmed}
-"023"	{0009-0000-0004-18-00-19-00}
-"024"	{emote: Alarmed}
-"025"	{emote: Alarmed}
-"026"	{emote: Soft Smile}
-"027"	
-"028"	
-"029"	
-"030"	{emote: Worry}
-"031"	{emote: Soft Smile}
-"032"	{emote: Soft Smile}
-"033"	{emote: Happiness}
-"034"	{emote: Happiness}
+"001"	{emote: Soft Smile}Hey, since you're here, want to play	Hidden Coin with me?{Wait for input}{emote: Agreement}If you win, I'll sell you my prized	{0011-0003-0002-0000} at a super-	low price!	{emote: Reset}And if I win, you'll have to take it at	whatever price I set.{pause 40}{0007-000d-0000}{emote: Curious} What do you	think? Wanna play?{Player can respond (0005):0008-0015-0002-0028}	Challenge accepted!	Some other time.
+"002"	{emote: Worry}What? Really?{pause 40}{emote: Reset} .{pause 8}.{pause 8}.{pause 8}Well, I guess I did	kinda come at you out of the blue.	{pause 20}{capitalized}{catchphrase}!
+"003"	{emote: Worry}Are you, like{pause 8}.{pause 8}.{pause 8}.{pause 20}psychic and stuff?!{Wait for input}{emote: Agreement}I need to train more{pause 8}.{pause 8}.{pause 8}.{pause 20} You wiped	the floor with me!{pause 40}{emote: Happiness} Here. Just take it	for free! You earned it!
+"004"	{emote: Resigned}Man, you've got some good luck! I	was feeling pretty good about my	chances too!	{emote: Soft Smile}OK! I'll let you have this for the low,	low price of {Blue}{Number (0x9)} Bells{Color Reset}!
+"005"	{emote: Agreement}Mmm. I thought things were gonna	go my way{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Soft Smile}Oh well!{pause 40}{emote: Reset} Congrats!{Wait for input}You can have your prize for {Blue}{Number (0x9)}	Bells{Color Reset}.{pause 40}{emote: Soft Smile} That's a pretty good deal!
+"006"	{emote: Joy}Hahaha! I'm pretty good, right?{Wait for input}{pause 40}{emote: Happiness}OK, you lost twice, so pony up.	{emote: Reset}You're gonna have to buy my thing	for {Blue}{Number (0x9)} Bells{Color Reset}!
+"007"	{emote: Sunny}Ya like that? I'm good, huh?{pause 40}	{emote: Reset}Sorry to do this to ya, but you'll	have to give me {Blue}{Number (0x9)} Bells{Color Reset}!
+"008"	{emote: Happiness}Awesome!{Wait for input} {emote: Alarmed}Oh! I should probably tell	you the rules and stuff, right?{Player can respond (0005):0009-0015-000d-0028}	Fire away!	No need.
+"009"	{emote: Soft Smile}Right! Listen up!{pause 40}{emote: Reset} So this coin here,	you have to guess where it is, right	or left{pause 8}.{pause 8}.{pause 8}.{pause 20}	As in which hand it's in.{pause 20}{emote: Happiness} It's simple!{Wait for input}{emote: Pride}It'll be completely secret, of course.{pause 20}	I'm pretty confident in my nimble	fingers! {0009-0001-0006-000a-000b-000c}
+"010"	{emote: Agreement}I'm actually pretty good at knitting	stuff too{pause 8}.{pause 8}.{pause 8}.{pause 20}even though no one	believes me about that.
+"011"	{emote: Agreement}I'm good at untangling threads and	knots too{pause 8}.{pause 8}.{pause 8}.{pause 20} I think I am, at least.	I've never challenged anyone!
+"012"	{emote: Agreement}Threading a needle is a piece of	cake for me{pause 8}.{pause 8}.{pause 8}.{pause 20}even if I've already	eaten too much cake!
+"013"	{emote: Soft Smile}All right! So we'll play 3 times!{pause 40}	Whoever wins twice wins it all!{pause 40}	{emote: Reset}Here{pause 8}.{pause 8}.{pause 8}.{pause 20}we{pause 8}.{pause 8}.{pause 8}.{pause 20}	{0007-000a-0000}{emote: Aggravation}{Text size 150%}GO!{Wait for input}{Text size 100%}{emote: Curious}Where's the coin? Right or left?{Text size 150%}{Text size 100%}{Player can respond (0000):000e-0000-000e-0000}	Right!	Left!
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Alarmed}Whoa! You got it right!{pause 40}{emote: Reset} OK, OK.	Guess you've got some skills.{Wait for input}{emote: Anger}But we still have 2 more rounds	left to play!{pause 40}{emote: Reset} And here{pause 8}.{pause 8}.{pause 8}.{pause 20}we{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}{0007-000a-0000}{emote: Aggravation}{Text size 150%}GO!{Wait for input}{Text size 100%}{Text size 150%}{emote: Curious}{Text size 100%}{Text size 100%}Where's the coin? Right or left?{Text size 100%}{Player can respond (0000):0011-0000-0011-0000}	Right!	Left!
+"016"	{emote: Alarmed}Tough luck! It was the other one!{pause 40}	{emote: Reset}That's one win for me,{pause 40}{emote: Happiness} but we've	still got 2 more rounds to play!{pause 20}	Don't give up!{pause 40}{emote: Reset} OK!{pause 20} Round two!	Here{pause 8}.{pause 8}.{pause 8}.{pause 20}we{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{0007-000a-0000}{emote: Aggravation}{Text size 150%}GO!{Text size 100%}{Wait for input}{Text size 150%}{emote: Curious}{Text size 100%}Where's the coin? Right or left?{Player can respond (0000):0012-0000-0012-0000}	Right!	Left!
+"017"	{0009-0000-0004-0013-0015}
+"018"	{0009-0000-0004-0014-0016}
+"019"	{emote: Alarmed}What?{pause 20} You got it right?!{pause 40} So that	means{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Sadness} I lost!{0009-0001-0006-0003-0004-0004}
+"020"	{emote: Alarmed}Ah! You got it right! You found your	bearings now.{Wait for input}{emote: Happiness}OK, next round!{pause 20} Round three will	decide it!{pause 40}{emote: Reset} And here{pause 8}.{pause 8}.{pause 8}.{pause 20}we{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}{0007-000b-0000}{emote: Aggravation}{Text size 150%}GO!{Wait for input}{Text size 100%}{Text size 150%}{emote: Curious}{Text size 100%}Where's the coin? Right or left?{Player can respond (0000):0017-0000-0017-0000}	Right!	Left!
+"021"	{emote: Alarmed}Wrong!{Wait for input} {emote: Soft Smile}OK, we're all tied up!{pause 40} {emote: Mischief}Hoho!	Things are getting interesting!{Wait for input}Here comes round three! The final	round!{pause 40}{emote: Reset} And here{pause 8}.{pause 8}.{pause 8}.{pause 20}we{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{0007-000a-0000}{emote: Aggravation}{Text size 150%}GO!{Wait for input}{Text size 100%}{Text size 150%}{emote: Curious}{Text size 100%}Where's the coin? Right or left?{Player can respond (0000):0017-0000-0017-0000}	Right!	Left!
+"022"	{emote: Alarmed}Wrong!{pause 40}{emote: Reset} So that means{pause 8}.{pause 8}.{pause 8}.{pause 20}it's over?{Wait for input}{emote: Sheepishness}Man, I'm sorry. I completely	destroyed you, huh?{0009-0001-0006-0006-0006-0007}
+"023"	{0009-0000-0004-0018-0019}
+"024"	{emote: Alarmed}You got it!{pause 40} That's 2-1 in your favor.	That means{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{emote: Sigh}I lost!{0009-0001-0006-0004-0004-0005}
+"025"	{emote: Alarmed}Wrong!{pause 40} And that means{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sunny} Awesome!{pause 40}	I won!{0009-0001-0006-001a-001a-0006}
+"026"	{emote: Soft Smile}Hahaha!{pause 20} Too bad, dude!{pause 40} You were	doing OK for a while there!{Wait for input}{emote: Agreement}But{pause 8}.{pause 8}.{pause 8}.{pause 20}you did win 1 round, so I'll	give you a deal. Just give me	{Blue}{emote: Soft Smile}{Number (0x9)} Bells{Color Reset}!
+"027"
+"028"
+"029"
+"030"	{emote: Worry}How could I lose so easily? I need to	rethink my strategy, {pause 20}{catchphrase}!
+"031"	{emote: Soft Smile}I lost, but I had fun! So it's all good!	Later, {pause 20}{catchphrase}!
+"032"	{emote: Soft Smile}Thanks for playing till the end!	{pause 20}{capitalized}{catchphrase}!
+"033"	{emote: Happiness}Thanks! Don't be discouraged.	Challenge me again! {pause 20}{capitalized}{catchphrase}!
+"034"	{emote: Happiness}Thanks! And don't get discouraged!	Play again sometime, {pause 20}{catchphrase}!
 == 1 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Resigned}
-"005"	{emote: Agreement}
-"006"	{emote: Joy}
-"007"	{emote: Sunny}
-"008"	{emote: Happiness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Agreement}
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{emote: Soft Smile}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Alarmed}
-"016"	{emote: Alarmed}
-"017"	{0009-0000-0004-13-00-15-00}
-"018"	{0009-0000-0004-14-00-16-00}
-"019"	{emote: Alarmed}
-"020"	{emote: Alarmed}
-"021"	{emote: Alarmed}
-"022"	{emote: Alarmed}
-"023"	{0009-0000-0004-18-00-19-00}
-"024"	{emote: Alarmed}
-"025"	{emote: Alarmed}
-"026"	{emote: Soft Smile}
-"027"	
-"028"	
-"029"	
-"030"	{emote: Worry}
-"031"	{emote: Soft Smile}
-"032"	{emote: Agreement}
-"033"	{emote: Happiness}
-"034"	{emote: Happiness}
+"001"	{emote: Soft Smile}¡Eh, escucha! Ya que estás	aquí, ¿te apetece probar el	{Blue}Juego de la moneda{Color Reset}?	{emote: Agreement}Si ganas tú, ¡te venderé mi querid{o/a/}	{0011-0003-0002-0000} a un	precio superasequible!	{emote: Reset}Si gano yo, el precio será cosa mía.{pause 40}{0007-000d-0000}{emote: Curious}	A ver, ¿qué me dices? ¿Te animas?{Player can respond (0005):0008-0015-0002-0028}	¡Me animo!	A lo mejor otro día
+"002"	{emote: Worry}¿Seguro? Vaya{pause 40}{emote: Reset}.{pause 8}.{pause 8}.{pause 8} Bueno, tendrás	cosas que hacer y todo eso. ¡No te	entretengo más, {pause 20}{catchphrase}!
+"003"	{emote: Worry}Pero a ver, ¡¿tú tienes poderes	o qué?! No vale...{Wait for input}{emote: Agreement}Voy a tener que practicar más{pause 8}.{pause 8}.{pause 8}.{pause 20}	¡Me has hecho papilla!{pause 40}{emote: Happiness} Pues nada, al	final va a ser gratis, ¡te lo mereces!
+"004"	{emote: Resigned}¡Buf, menuda potra tienes!	Es que normalmente soy yo	la que la tiene, ¡qué mal!	{emote: Soft Smile}Bueno, pues nada, se queda en	{Blue}{Number (0x9)} bayas{Color Reset}. ¡No te quejarás!
+"005"	{emote: Agreement}Mmm, pensaba que me iba a	salir con la mía{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Soft Smile}¡Qué se le	va a hacer!{pause 40}{emote: Reset} ¡Felicidades!{Wait for input}Puedes llevarte el premio por {Blue}{Number (0x9)}	bayas{Color Reset}.{pause 40}{emote: Soft Smile} Menudo favor te hago, ¿eh?
+"006"	{emote: Joy}¡Ji, ji, ji! ¿A que soy la caña?{Wait for input}{emote: Happiness}Como has perdido dos veces, ¡te	toca apoquinar! {emote: Reset}Venga, ¡ya estás	soltando {Blue}{Number (0x9)} bayas{Color Reset}!
+"007"	{emote: Sunny}¿Qué, maj{o/a}, soy buena o no?{pause 40} {emote: Reset}Si por	mí fuera, te perdonaba, pero esto	es así. ¡Dame mis {Blue}{Number (0x9)} bayas{Color Reset}!
+"008"	{emote: Happiness}¡Qué pasote!{Wait for input} {emote: Alarmed}¡Huy! ¡Pero si no	te he explicado las reglas ni nada!{Player can respond (0005):0009-0015-000d-0028}	Pues ya sabes...	No hace falta
+"009"	{emote: Soft Smile}A ver, ¡atiende!{pause 40}{emote: Reset} ¿Ves la moneda?	Pues tienes que adivinar dónde está,	a la derecha o a la izquierda{pause 8}.{pause 8}.{pause 8}.{pause 20}	Es decir, en qué mano la tengo.{pause 20}{emote: Happiness}	¡Está chupado!{Wait for input}{emote: Pride}Yo no te voy a dar ninguna pista.{pause 20}	¡Y ojo, que tengo unos dedos muy	ágiles!{0009-0001-0006-000a-000b-000c}
+"010"	{emote: Agreement}Una vez hasta intenté aprender	a calcetar.{pause 20} Claro que después	descubrí que no era lo mío.
+"011"	{emote: Agreement}Hace tiempo me chiflaba el encaje	de bolillos{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Sheepishness}¡pero luego lo dejé	de lado porque prefería la fiesta!
+"012"	{emote: Agreement}Ya ves, no me cuesta nada	enhebrar agujas.{pause 20} ¡Es que	la que sabe, sabe!
+"013"	{emote: Soft Smile}¡Venga, vamos a jugar tres veces!{pause 40}	¡Con ganar dos es suficiente!{pause 40}	{emote: Reset}A ver, una{pause 8}.{pause 8}.{pause 8}.{pause 20} dos{pause 8}.{pause 8}.{pause 8}.{pause 20} tres{pause 8}.{pause 8}.{pause 8}.{pause 20}	{0007-000a-0000}{emote: Aggravation}	{Text size 150%}¡YA!{Text size 100%}{Wait for input}{Text size 150%}{Text size 100%}{emote: Curious}¿Dónde tengo la moneda? ¿En la	mano derecha o en la izquierda?{Text size 150%}{Text size 100%}{Player can respond (0000):000e-0000-000e-0000}	¡Derecha!	¡Izquierda!
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Alarmed}¡Hala, lo has clavado!{pause 40}{emote: Reset}	Pues nada, se te dará bien esto.{Wait for input}{emote: Anger}¡Pero no te columpies, que	aún nos faltan dos rondas!{pause 40}{emote: Reset}	Una{pause 8}.{pause 8}.{pause 8}.{pause 40} Dos{pause 8}.{pause 8}.{pause 8}. Tres{pause 8}.{pause 8}.{pause 8}.{Wait for input}{0007-000a-0000}{emote: Aggravation}	{Text size 150%}¡YA!{Text size 100%}{Wait for input}{Text size 150%}{Text size 100%}{Text size 100%}{emote: Curious}{Text size 100%}{Text size 100%}{Text size 100%}¿Dónde tengo la moneda? ¿En la	mano derecha o en la izquierda{Text size 100%}?{Text size 100%}{Player can respond (0000):0011-0000-0011-0000}	¡Derecha!	¡Izquierda!
+"016"	{emote: Alarmed}¡Huy, qué mal! Era la otra mano.{pause 40}	{emote: Reset}Así que esta vez gano yo.{pause 40}{emote: Happiness} ¡Que no	decaiga, aún nos faltan dos rondas!{pause 20}	Tú no te rindas, ¿eh?{pause 40}{emote: Reset} ¡Muy bien!{pause 20}	¡Segunda ronda! Vamos{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{0007-000a-0000}{emote: Aggravation}	{Text size 150%}¡YA!{Text size 100%}{Wait for input}{Text size 150%}{emote: Curious}{Text size 100%}¿{Text size 100%}Dónde tengo la moneda? ¿En la	mano derecha o en la izquierda{Text size 100%}?{Player can respond (0000):0012-0000-0012-0000}	¡Derecha!	¡Izquierda!
+"017"	{0009-0000-0004-0013-0015}
+"018"	{0009-0000-0004-0014-0016}
+"019"	{emote: Alarmed}¿Qué?{pause 20} ¡¿Has acertado?!{pause 40} Entonces{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Sadness}	¡he perdido yo, qué mal!{0009-0001-0006-0003-0004-0004}
+"020"	{emote: Alarmed}¡Hala, pero si has acertado y todo!	Será que ya te vas enterando de	cómo va la movida.{Wait for input}{emote: Happiness}¡Venga, a la siguiente ronda!{pause 20}	¡La tercera es la definitiva!{pause 40}{emote: Reset}	Y{pause 8}.{pause 8}.{pause 8}.{pause 20} vamos allá{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}{0007-000b-0000}{emote: Aggravation}	{Text size 150%}¡YA!{Text size 100%}{Wait for input}{Text size 150%}{Text size 100%}{Text size 150%}{emote: Curious}{Text size 100%}¿{Text size 100%}Dónde tengo la moneda? ¿En la	mano derecha o en la izquierda{Text size 100%}?{Player can respond (0000):0017-0000-0017-0000}	¡Derecha!	¡Izquierda!
+"021"	{emote: Alarmed}¡Te has equivocado!{Wait for input} {emote: Soft Smile}¡Yupi, empate!{pause 40}{emote: Mischief}	¡Ji, ji, ji! Bueno, la cosa se pone más	interesante, ¿eh?{Wait for input}¡Venga, a por la tercera ronda!	¡La última!{pause 40}{emote: Reset} Una{pause 8}.{pause 8}.{pause 8}.{pause 20} dos{pause 8}.{pause 8}.{pause 8}.{pause 20} tres{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{0007-000a-0000}{emote: Aggravation}	{Text size 150%}¡YA!{Text size 100%}{Wait for input}{Text size 150%}{Text size 100%}{Text size 150%}{emote: Curious}{Text size 100%}¿{Text size 100%}Dónde tengo la moneda? ¿En la	mano derecha o en la izquierda{Text size 100%}?{Player can respond (0000):0017-0000-0017-0000}	¡Derecha!	¡Izquierda!
+"022"	{emote: Alarmed}¡Ahí no está!{pause 40}{emote: Reset} Entonces{pause 8}.{pause 8}.{pause 8}.{pause 20}	¿ya hemos terminado?{Wait for input}{emote: Sheepishness}Huy, lo siento mucho. ¡Menuda	paliza te acabo de dar, ji, ji, ji!{0009-0001-0006-0006-0006-0007}
+"023"	{0009-0000-0004-0018-0019}
+"024"	{emote: Alarmed}¡Has acertado, no puede ser!{pause 40}	A ver, entonces hemos quedado	dos a uno para ti.{pause 20}{Wait for input}{emote: Sigh} ¡Jooo, he perdido!{0009-0001-0006-0004-0004-0005}
+"025"	{emote: Alarmed}¡No, no, está en la otra!{pause 40} Y por	tanto{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sunny} ¡Toma ya!{pause 40} ¡Victoria!{0009-0001-0006-001a-001a-0006}
+"026"	{emote: Soft Smile}¡Ji, ji, ji!{pause 20} ¡Se siente!{pause 40} Parecía que	ibas a ganar, pero ya ves...{Wait for input}¡Las cosas no son como empiezan,	sino como acaban! Huy, ¡que me	pongo filosófica, perdona!	{emote: Agreement}Bueno, a lo que íbamos.{pause 20}	Has ganado una ronda, así que	me voy a portar bien contigo.	Venga, por ser tú, serán solo	{Blue}{emote: Soft Smile}{Number (0x9)} bayas{Color Reset}. ¿Qué te parece?
+"027"
+"028"
+"029"
+"030"	{emote: Worry}No sé qué me ha pasado para	perder de forma tan aplastante...{Wait for input}¡Tengo que pensar en una nueva	estrategia pero YA, {pause 20}{catchphrase}!
+"031"	{emote: Soft Smile}He perdido, ¡pero por lo menos	me lo he pasado pipa! ¡Algo	es algo, {pause 20}{catchphrase}!
+"032"	{emote: Agreement}Oye, ha sido todo un detallazo eso	de no rendirse. ¡Así me gusta,	{pause 20}{catchphrase}!
+"033"	{emote: Happiness}¡Huy, gracias! Tú no te desanimes	por esto, ¿eh? Siempre puedes	intentar ganarme otra vez...	{emote: Glare}{Gray}(Sí, sí, tú inténtalo si te atreves...){Color Reset}
+"034"	{emote: Happiness}¡Muchas gracias! Y oye, no te	vengas abajo. ¡Tú tienes que	seguir intentándolo siempre!	A lo mejor algún día consigues	ganarme y todo, ¡ji, ji, ji!	{emote: Glare}{Gray}(Ni de broma...){Color Reset}
 == 2 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Resigned}
-"005"	{emote: Agreement}
-"006"	{emote: Joy}
-"007"	{emote: Sunny}
-"008"	{emote: Happiness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Agreement}
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{emote: Soft Smile}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Alarmed}
-"016"	{emote: Alarmed}
-"017"	{0009-0000-0004-13-00-15-00}
-"018"	{0009-0000-0004-14-00-16-00}
-"019"	{emote: Alarmed}
-"020"	{emote: Alarmed}
-"021"	{emote: Alarmed}
-"022"	{emote: Alarmed}
-"023"	{0009-0000-0004-18-00-19-00}
-"024"	{emote: Alarmed}
-"025"	{emote: Alarmed}
-"026"	{emote: Soft Smile}
-"027"	
-"028"	
-"029"	
-"030"	{emote: Worry}
-"031"	{emote: Soft Smile}
-"032"	{emote: Soft Smile}
-"033"	{emote: Happiness}
-"034"	{emote: Happiness}
+"001"	{emote: Soft Smile}Dis, puisque t'es là, ça t'dirait	d'faire une p'tite partie de « trouve	la pièce »?	{emote: Agreement}Si tu gagnes, j'te revends {mon/ma/}	{luxueux/luxueuse/} {0011-0003-0002-0000} à	prix cassé, genre irréparable!	{emote: Reset}Par contre, si tu perds, tu devras	m'l'acheter au tarif qu'j'aurai	décidé, et sans discuter!	{0007-000d-0000}{emote: Curious}Qu'est-ce t'en dis?{pause 20} Tu relèves le	défi?{Player can respond (0005):0008-0015-0002-0028}	Défi relevé!	Pas là, non.
+"002"	{emote: Worry}Ah bon?{pause 10} Vraiment?{pause 25} {emote: Reset}{capitalized}{catchphrase},	je vois...{pause 20} {emote: Glare}Moi aussi j'aurais peur de	perdre, à ta place!
+"003"	{emote: Worry}T'aurais pas, genre{pause 8}.{pause 8}.{pause 8}.{pause 20} des pouvoirs	psychiques, tout ça?!{pause 20} Parce que ce	s'rait d'la triche, hein!{Wait for input}{emote: Agreement}Faut croire que j'manque de	pratique{pause 8}.{pause 8}.{pause 8}.{pause 20} Tu m'as collé une de ces	roustes!{pause 20} {emote: Happiness}Tiens, tu l'as bien mérité!
+"004"	{emote: Resigned}C'est pas croyable d'avoir autant	d'bol!{pause 25} Et dire que j'le sentais bien...{Wait for input}{emote: Soft Smile}Bon, comme promis, je t'laisse ce	truc pour la modique somme de	{Blue}{Number (0x9)} clochettes{Color Reset}!
+"005"	{emote: Agreement}Hmm, j'pensais qu'la chance allait	tourner en ma faveur{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Soft Smile}Mais bah...{pause 25}	t'as bien joué!	{emote: Reset}Comme convenu, j'te laisse ce truc	pour {Blue}{Number (0x9)} clochettes{Color Reset}!{pause 20} {emote: Soft Smile}C'est une	affaire en or!
+"006"	{emote: Joy}Hi hi hi!{pause 25} Chuis douée, hein?{pause 25}{Wait for input}{emote: Happiness}Bon, t'as paumé deux fois d'suite,	va falloir passer à la caisse!{Wait for input}{emote: Reset}Ça f'ra {Blue}{Number (0x9)} clochettes{Color Reset}!{pause 25} {emote: Soft Smile}Je sais,	ça fait reuch, mais c'est l'jeu!
+"007"	{emote: Sunny}Pas mal, hein?{pause 15} J'assure, hi hi!{pause 25} {emote: Reset}Ça	va pas t'plaire, mais j'vais te	demander {Blue}{Number (0x9)} clochettes{Color Reset}!{pause 15} Ouaip.
+"008"	{emote: Happiness}Mortel!{Wait for input} {emote: Alarmed}Mais avant d'commencer,	tu veux p't'être que j't'explique les	règles, tout ça?{Player can respond (0005):0009-0015-000d-0028}	Je t'écoute!	Pas besoin.
+"009"	{emote: Soft Smile}Bon.{pause 25} {emote: Reset}J'ai une pièce en main, et tu	vas devoir deviner d'quelle main y	s'agit.{pause 20} Droite ou gauche, quoi{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}Y'a pas plus simple, comme jeu!{Wait for input}{emote: Pride}Évidemment, pas la peine d'espérer	la repérer entre mes doigts.{pause 20} Y sont	bien trop agiles pour ça!{0009-0001-0006-000a-000b-000c}
+"010"	{emote: Agreement}D'ailleurs, chuis super douée pour	tricoter, aussi{pause 8}.{pause 8}.{pause 8}.{pause 20} même si personne	veut m'croire.
+"011"	{emote: Agreement}D'ailleurs, chuis super forte pour	démêler les nœuds{pause 8}.{pause 8}.{pause 8}.{pause 20} enfin je crois.{Wait for input}{emote: Glare}Bah ouais, j'ai encore jamais fait	d'compète!
+"012"	{emote: Agreement}Enfiler du fil dans une aiguille, c'est	du gâteau pour moi{pause 8}.{pause 8}.{pause 8}.{pause 20} même avec du	gâteau plein les doigts!
+"013"	{emote: Soft Smile}Bon,{pause 25} on va jouer ça en deux	manches gagnantes.{Wait for input}{emote: Reset}Attention{pause 8}.{pause 8}.{pause 8}.{pause 20} {Prêt/Prête}{pause 8}.{pause 8}.{pause 8}.{pause 20}	{0007-000a-0000}{emote: Aggravation}{Text size 150%}Et hop!{Wait for input}{Text size 100%}{emote: Curious}Alors, elle est où la pièce?{pause 20} À	droite? À gauche?{Text size 150%}{Text size 100%}{Player can respond (0000):000e-0000-000e-0000}	À droite!	À gauche!
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Alarmed}Waouh! En plein dans l'mille!{pause 40} {emote: Reset}OK,	OK. T'as un certain talent, j'avoue.{Wait for input}{emote: Anger}Mais c'est pas fini,{pause 20} y'a encore au	moins une manche à jouer!{pause 20}	{emote: Reset}Attention{pause 8}.{pause 8}.{pause 8}.{pause 20} {Prêt/Prête}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{0007-000a-0000}{emote: Aggravation}{Text size 150%}TADAM!{Text size 100%}{Wait for input}{emote: Curious}Alors, alors?{pause 20} Droite ou gauche,	cette fois?{Player can respond (0000):0011-0000-0011-0000}	Droite!	Gauche!
+"016"	{emote: Alarmed}Pas d'pot!{pause 20} C'était l'autre!{pause 20} {emote: Reset}Ça fait	une victoire pour moi,{pause 20} {emote: Happiness}et encore au	moins une manche à jouer!	Tu peux encore te r'faire!{pause 20} {emote: Reset}Allez!{pause 20}	On enchaîne!{pause 20} Attention{pause 8}.{pause 8}.{pause 8}.{pause 20} {Prêt/Prête}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{0007-000a-0000}{emote: Aggravation}{Text size 150%}Et voilou!{Text size 100%}{Wait for input}{emote: Curious}Alors, elle est où, à ton avis?{pause 20} À	droite ou à gauche?{Player can respond (0000):0012-0000-0012-0000}	À droite!	À gauche!
+"017"	{0009-0000-0004-0013-0015}
+"018"	{0009-0000-0004-0014-0016}
+"019"	{emote: Alarmed}Ooh?!{pause 20} T'as encore visé juste!{pause 30} Ça	veut donc dire{pause 8}.{pause 8}.{pause 8}.{pause 40} {emote: Sadness}que j'ai paumé!{0009-0001-0006-0003-0004-0004}
+"020"	{emote: Alarmed}Oh! Dans l'mille! T'as chopé l'coup	d'main, on dirait!{Wait for input}{emote: Happiness}Allez, on passe à la dernière	manche,{pause 20} celle qui s'ra décisive!{pause 25}	{emote: Reset}Attention{pause 8}.{pause 8}.{pause 8}.{pause 20} {Prêt/Prête}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{0007-000b-0000}{emote: Aggravation}{Text size 150%}Et zou!{Text size 100%}{Wait for input}{emote: Curious}J't'écoute :{pause 20} droite ou gauche?{Player can respond (0000):0017-0000-0017-0000}	Droite!	Gauche!
+"021"	{emote: Alarmed}Loupé!{Wait for input} {emote: Soft Smile}Bon, ça fait un partout!{pause 30}	{emote: Mischief}Hé hé!{pause 20} La tension monte!{Wait for input}Et maintenant, la dernière manche!{pause 20}	{emote: Reset}Attention{pause 8}.{pause 8}.{pause 8}.{pause 20} {capitalized}{catchphrase}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{0007-000a-0000}{emote: Aggravation}{Text size 150%}Et toc!{Text size 100%}{Wait for input}{emote: Curious}Bon, tu connais la chanson...{pause 20} Droite	ou gauche?{Player can respond (0000):0017-0000-0017-0000}	Droite!	Gauche!
+"022"	{emote: Alarmed}Ouais...{pause 20} mais nan!{pause 20} Dommage!{pause 20}	{emote: Reset}Attends{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Glare}c'est déjà fini?{Wait for input}Franchement, j't'ai collé une telle	volée qu'j'ai presque envie	d'm'excuser!{0009-0001-0006-0006-0006-0007}
+"023"	{0009-0000-0004-0018-0019}
+"024"	{emote: Alarmed}T'as vu juste!{pause 25} Ce qui fait deux	victoires pour toi.{pause 15} Et donc{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Sigh}j'ai	perdu!{0009-0001-0006-0004-0004-0005}
+"025"	{emote: Alarmed}Ooh...{pause 20} presque!{pause 20} C'est pas d'chance!{pause 20}	Et donc, si mes calculs sont justes{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Sunny}j'ai gagné!{pause 15} Trop cool!{0009-0001-0006-001a-001a-0006}
+"026"	{emote: Soft Smile}Hi hi!{pause 20} Si ça peut t'réconforter, tu	t'en es pas si mal {tiré/tirée}!{Wait for input}{emote: Agreement}Et comme t'as remporté une	manche{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Soft Smile}j'vais t'faire une réduc :	file-moi juste {Blue}{Number (0x9)} clochettes{Color Reset}!
+"027"
+"028"
+"029"
+"030"	{emote: Worry}Comment j'ai pu perdre aussi	facilement?! Faut vraiment qu'je	revoie ma stratégie,{pause 20} {catchphrase}!
+"031"	{emote: Soft Smile}J'ai perdu, mais j'me suis bien	marrée. Ça aide à faire passer la	pilule!{pause 20} À plus,{pause 20} {catchphrase}!
+"032"	{emote: Soft Smile}Merci d'avoir joué jusqu'au bout,{pause 20}	{catchphrase}!
+"033"	{emote: Happiness}Merci! Surtout, te décourage pas.	On fait la revanche quand tu veux,{pause 20}	{catchphrase}!
+"034"	{emote: Happiness}Merci! Et t'laisse pas abattre!	On remettra ça un d'ces jours,{pause 20}	{catchphrase}!

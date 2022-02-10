@@ -1,26 +1,26 @@
 == 0 ==
-"001"	{Blue}「굉장하네～!{pause 5}
-"002"	{Blue}「옴머머!{pause 5}
-"003"		{Blue}{0000-0002-0002-ffffffc8-00}「훌～륭해」{0000-0002-0002-64-00}{Color Reset}
+"001"	{Blue}「굉장하네～!{pause 5}	　이 마을은 최고의 마을이야～!{Wait for input}　정말 열심히 노력했구나!	　아저씨는 정말 기쁘단다!」{Color Reset}
+"002"	{Blue}「옴머머!{pause 5} 참 멋진 마을이야!{pause 15}	　엎드려 누워서 대지를	　부비부비하고 싶어{pause 5}・{pause 5}・{pause 5}・{Wait for input}	{Text size 150%}　비바!{pause 5} {Town name (pink)}{Blue}!{Blue}{Text size 100%}」{Color Reset}
+"003"		{Blue}{Text size 200%}「훌～륭해」{Text size 100%}{Color Reset}
 "004"	{Blue}「오호!	　학술적인 관점에서 봤을 때도	　이 마을은 최고입니다! 네!」{Color Reset}
 "005"	{Blue}「멋지구먼! 최고로 좋은 마을일세!	　이런 마을이라면 나도 다시	　촌장이 되고 싶을 정도라네!」{Color Reset}
-"006"	{Blue}「굳이 편지에 비유하자면	　엄청 멋진 말이 쓰여 있는데	　보내는 사람이 없는! {pause 10}
-"007"	{Blue}「우리끼리 얘기지만 눈사람들이 뽑은,	　태어나고 싶은 마을 1, 2위를	　이 마을이 왔다 갔다 하고 있어라잉!{0000-0004-0000}
-"008"	{Blue}「환경이 좋은 마을은 리셋률도	　낮다는 얘기가 있다 카드라!	　참말인지 아닌지는 모르겠지만!{0000-0004-0000}
-"009"	{Blue}「흐～음{pause 5}
-"010"	{Blue}「참말로 멋지네예!{pause 15}
-"011"	{Blue}「많이 분발하고 있는 게로구먼!{pause 10}!
-"012"	{Blue}「{Color Reset}{Town name (pink)}
-"013"	{Blue}「오호・・・	　학술적인 관점에서 봤을 때도	　이 마을은 상당한 수준입니다!{0000-0004-0000}
-"014"	{Blue}「꽤 그럴듯한 수준까지는	　왔다고 생각합니다ー! {0000-0002-0002-4b-00}구리!{0000-0002-0002-64-00}」{Color Reset}
-"015"	{Blue}「흐～음・・・{pause 10}
-"016"	{Blue}「앞으로가 더욱 	{Blue}　{Blue}기대되네요ー! {0000-0002-0002-4b-00}구리!{0000-0002-0002-64-00}」{Color Reset}
-"017"	{Blue}「그래그래～	　앞으로 얼마든지 노력할 수 있는	　요소가 남아 있잖니～!{0000-0004-0000}
-"018"	{Blue}「으음・・・	　학술적인 관점에서 봤을 때도	　이 마을은 아직 갈 길이 멀었군요, 네{0000-0004-0000}
-"019"	{Blue}「으～음・・・	　편지도 마을 조성도	　가장 중요한 건 바로 배려야{0000-0004-0000}!
-"020"	{Blue}「・・・이런 걸 써도	　괜찮을지 모르겠는데예	　지 속도 속이 아니라예・・・{0000-0004-0000}!
-"021"	{Blue}「이것도 저것도 다 못 써먹겠어!{pause 10}
-"022"	{Blue}「흐～음・・・{pause 10}
+"006"	{Blue}「굳이 편지에 비유하자면	　엄청 멋진 말이 쓰여 있는데	　보내는 사람이 없는! {pause 10}그런 느낌?{Wait for input}　아무튼 조금만 더 힘내면 될 듯하니까	　지금처럼 노력해서 최고의 마을로	　만들어줬으면 좋겠어!」{Color Reset}
+"007"	{Blue}「우리끼리 얘기지만 눈사람들이 뽑은,	　태어나고 싶은 마을 1, 2위를	　이 마을이 왔다 갔다 하고 있어라잉!{Wait for input}　부동의 1위 자리를 차지하려면	　쪼끔만 더 분발하랑께요!」{Color Reset}
+"008"	{Blue}「환경이 좋은 마을은 리셋률도	　낮다는 얘기가 있다 카드라!	　참말인지 아닌지는 모르겠지만!{Wait for input}　아무튼 이 마을의 환경이	　퍽 좋다는 것만큼은	　틀린 말이 아니래이!」{Color Reset}
+"009"	{Blue}「흐～음{pause 5}・{pause 5}・{pause 5}・{pause 15}	　뭐, 완벽하다곤 못 하겠지만	　나쁘진 않은데?」{Color Reset}
+"010"	{Blue}「참말로 멋지네예!{pause 15}	　그케도 집어 말하기는 힘들지만・・・	　뭔가 쪼매 부족한 거 같긴 하네예」{Color Reset}
+"011"	{Blue}「많이 분발하고 있는 게로구먼!{pause 10}	　마을 조성은 힘들기 때문에 그만큼	　더 보람을 느낄 수 있는 거라네!」{Color Reset}
+"012"	{Blue}「{Color Reset}{Town name (pink)}{Blue} 마을은 현재,	　떠오르는 관광지로서	　주목을 받기 시작하고 있습니다!{Wait for input}　앞으로도 마을 부흥을 위해	　열심히 노력해주세요!	　　　　　　　　　　　　　우키ー!」{Color Reset}
+"013"	{Blue}「오호・・・	　학술적인 관점에서 봤을 때도	　이 마을은 상당한 수준입니다!{Wait for input}　이대로 마을이 성장한다면	　이 마을의 가치는 점점 더 	　커질 게 틀림없습니다!」{Color Reset}
+"014"	{Blue}「꽤 그럴듯한 수준까지는	　왔다고 생각합니다ー! {Text size 75%}구리!{Text size 100%}」{Color Reset}
+"015"	{Blue}「흐～음・・・{pause 10}	　합격까진 아니지만{pause 5}	　그렇다고 낙제도 아니다구리{Wait for input}　뭐, {pause 5}친구 이상{pause 5}	　연인 미만이라고 할 수 있겠다구리!」{Color Reset}
+"016"	{Blue}「앞으로가 더욱 	{Blue}　{Blue}기대되네요ー! {Text size 75%}구리!{Text size 100%}」{Color Reset}
+"017"	{Blue}「그래그래～	　앞으로 얼마든지 노력할 수 있는	　요소가 남아 있잖니～!{Wait for input}　아저씨가 지켜보고 있을 테니	　열심히 노력하렴!」{Color Reset}
+"018"	{Blue}「으음・・・	　학술적인 관점에서 봤을 때도	　이 마을은 아직 갈 길이 멀었군요, 네{Wait for input}　해결해야 할 과제가 많으니,	　한 걸음씩 꾸준하게 마을을	　발전시켜 나갔으면 좋겠습니다! 오호!」{Color Reset}
+"019"	{Blue}「으～음・・・	　편지도 마을 조성도	　가장 중요한 건 바로 배려야{Wait for input}　우선은 주민 한 사람, 한 사람이	　그런 마음을 갖는 게	　중요하지 않을까?」{Color Reset}
+"020"	{Blue}「・・・이런 걸 써도	　괜찮을지 모르겠는데예	　지 속도 속이 아니라예・・・{Wait for input}　마을에 쪼매만{pause 5}	　신경 써주시믄 안 되겠슴니꺼・・・?	　이케가지고는 참말로・・・」{Color Reset}
+"021"	{Blue}「이것도 저것도 다 못 써먹겠어!{pause 10}	　지금의 마을은 불완전 그 자체야!{Wait for input}　내 이름을 걸고	　이 마을을 철저하게	　리폼하고 싶을 정도라고!」{Color Reset}
+"022"	{Blue}「흐～음・・・{pause 10}	　이 마을은 이대로는	　안 될 것 같아구리{Wait for input}　위기를 기회로 바꿔서	　열심히 해야 해구리!」{Color Reset}
 "023"	{Blue}「・・・노코멘트입니다!		　　　　　　　　　　　우키ー!」{Color Reset}
-"024"	{Blue}「먼저 말해 두겠는데{pause 5}
-"025"	{Blue}「아～ {pause 5}
+"024"	{Blue}「먼저 말해 두겠는데{pause 5}	　이기는 내 혼자만의 생각이 아니데이{pause 10}	　모두의 마음을 내가 전하는 기데이{Wait for input}	　・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{Wait for input}　{Text size 150%}이기 뭐꼬～!{Text size 100%}	　　　　　　　　　　　　　　　이상!」{Color Reset}
+"025"	{Blue}「아～ {pause 5}최악이야・・・{pause 15}	　도대체 뭐니? {pause 5}이 마을은{pause 5}・{pause 5}・{pause 5}・{pause 15}	　이것도 이상하고, {pause 5}저것도 이상해・・・{Wait for input}　아무튼 눈에 띄는 모든 게	　맘에 안 들어～」{Color Reset}

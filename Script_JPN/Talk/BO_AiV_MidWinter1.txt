@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Surprise}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Greetings}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Greetings}
-"010"	{emote: Sleepy}
-"011"	{emote: Happiness}
+"001"	{emote: Happiness}{Greeting begin}あぁ～{pause 8}　{Player nickname (green)}{0005-000d-0000}！{Greeting end}{pause 20}	あそびに{ruby (charSpan 1): き}来てくれて　うれしいよぉ～{Wait for input}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): とうじ}冬至だから、{pause 20}	{ruby (charSpan 1): あさ}朝なのに　まっくらなんだぁ～{Wait for input}{emote: Sleepy}お{ruby (charSpan 1): そら}空がくらいと、{pause 20}	ついつい　ねむ～く	なっちゃうよねぇ、{pause 8}{catchphrase}
+"002"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}　おはよぉ～！{pause 20}	あそびに{ruby (charSpan 1): き}来てたんだねぇ{Wait for input}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): とうじ}冬至だから　お{ruby (charSpan 1): ひ}日さまが	{ruby (charSpan 1): で}出ないんだぁ{pause 40}	おどろいたでしょぉ～？{Wait for input}{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Town name (pink)}{ruby (charSpan 1): むら}村の　ふしぎな{ruby (charSpan 1): あさ}朝を	{ruby (charSpan 1): たの}楽しんでってねぇ、{pause 8}{catchphrase}
+"003"	{emote: Surprise}あぁ～！{pause 20}	{Player nickname (green)}{0005-000d-0000}～！{Wait for input}{emote: Worry}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): とうじ}冬至だから、	{ruby (charSpan 1): あさ}朝なのに　まっくらなんだよぉ{Wait for input}{emote: Joy}でも　キミが　あそびに{ruby (charSpan 1): き}来てくれて	きもちが　{ruby (charSpan 1): あか}明るくなっちゃったぁ、{pause 8}{catchphrase}
+"004"	{emote: Happiness}やぁ～{pause 20}	{Player nickname (green)}{0005-000d-0000}　いらっしゃ～い{Wait for input}{emote: Curious}お{ruby (charSpan 1): ひる}昼なのに　まっくらで、	ビックリしちゃったでしょ～？{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): とうじ}冬至だから、{pause 20}	{ruby (charSpan 3): いちにちじゅう}一日中　{ruby (charSpan 1): よる}夜みたいに	くらいんだぁ、{pause 8}{catchphrase}{Wait for input}くらい　{Town name (pink)}{ruby (charSpan 1): むら}村で　あそぶのも、{pause 20}	きっと　おもしろいと　{ruby (charSpan 1): おも}思うよぉ～
+"005"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 8}	こんにちわぁ～{Wait for input}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): とうじ}冬至だから、{pause 20}	{ruby (charSpan 2): ひるま}昼間だけど　お{ruby (charSpan 1): ひ}日さまは	{ruby (charSpan 1): で}出てこないんだぁ～{Wait for input}{emote: Love}ふしぎな　{Town name (pink)}{ruby (charSpan 1): むら}村を	まんきつしてねぇ、{pause 8}{catchphrase}
+"006"	{emote: Greetings}{Greeting begin}やぁ～{pause 8}　{Player nickname (green)}{0005-000d-0000}{Greeting end}{pause 20}	いらっしゃ～い{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): とうじ}冬至だから、	{ruby (charSpan 3): いちにちじゅう}一日中　まっくらなんだぁ、{pause 8}{catchphrase}{Wait for input}{emote: Laughter}まだ　{ruby (charSpan 1): よる}夜じゃないから	しんぱいしないでねぇ～{pause 40}	ゆ～っくり　あそんでってよぉ{pause 20}{emote: Happiness}
+"007"	{emote: Happiness}わぁ～！{pause 8}	{Player nickname (green)}{0005-000d-0000}！{pause 20}	あそびに{ruby (charSpan 1): き}来てくれて　ありがとぉ～{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): とうじ}冬至だから、{pause 20}	{ruby (charSpan 3): いちにちじゅう}一日中　まっくらだったんだぁ～{Wait for input}いつもとちがう　{Town name (pink)}{ruby (charSpan 1): むら}村、	とっても　おもしろかったよぉ、{pause 8}{catchphrase}
+"008"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 8}	こんばんわぁ～{Wait for input}{emote: Worry}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): とうじ}冬至だから、{pause 20}	{ruby (charSpan 3): いちにちじゅう}一日中　まっくらで	さむかったんだよぉ？　{pause 8}{catchphrase}？{Wait for input}{emote: Joy}でも{pause 8}　{Player nickname (green)}{0005-000d-0000}が	あそびに{ruby (charSpan 1): き}来てくれて、{pause 20}	ちょっぴり　あったかくなった{ruby (charSpan 1): き}気がする～
+"009"	{emote: Greetings}{Greeting begin}やぁ～{pause 8}　{Player nickname (green)}{0005-000d-0000}{Greeting end}{pause 20}	いらっしゃ～い{Wait for input}{emote: Cold Chill}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): とうじ}冬至だからねぇ{pause 20}	もう　{ruby (charSpan 1): ふゆ}冬も{ruby (charSpan 2): ほんばん}本番だよぉ～{Wait for input}{emote: Cold Chill}と～っても　さむいから{pause 20}	カゼひかないようにねぇ？	{pause 8}{catchphrase}？
+"010"	{emote: Sleepy}ふぁぁ～{pause 8}	{Player nickname (green)}{0005-000d-0000}{pause 20}	いらっしゃぁ～い{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): とうじ}冬至だったんだぁ～{pause 40}	{ruby (charSpan 1): あさ}朝も{pause 8}　お{ruby (charSpan 1): ひる}昼も{pause 20}	まっくらで　おもしろかったよぉ？{Wait for input}{emote: Bashful}{ruby (charSpan 3): いちにちじゅう}一日中　{ruby (charSpan 1): よる}夜みたいだったから、{pause 20}	たくさん　おひるね	しちゃったよぉ、{pause 8}{catchphrase}
+"011"	{emote: Happiness}やぁ～　{Player nickname (green)}{0005-000d-0000}{pause 40}	キミって　いつから	あそびに{ruby (charSpan 1): き}来てたのぉ？{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): とうじ}冬至だから、{pause 20}	{ruby (charSpan 2): ひるま}昼間も　お{ruby (charSpan 1): ひ}日さまが	{ruby (charSpan 1): で}出なかったんだよぉ{Wait for input}キミにも　{ruby (charSpan 1): み}見せて	あげたかったなぁ、{pause 8}{catchphrase}

@@ -1,31 +1,31 @@
 == 0 ==
-"001"	なぁ、{Player nickname (green)}
-"002"	{emote: Worry}
-"003"	オイラ{pause 20}
-"004"	{emote: Worry}
-"005"	{emote: Sigh}
-"006"	{emote: Worry}
-"007"	{emote: Alarmed}
-"008"	{emote: Greetings}
-"009"	{emote: Alarmed}
-"010"	
-"011"	{emote: Happiness}
-"012"	{emote: Agreement}
-"013"	{emote: Anger}
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	{emote: Sunny}
-"022"	{emote: Sunny}
-"023"	{emote: Sunny}
-"024"	{emote: Sunny}
-"025"	{emote: Sunny}
-"026"	{emote: Sunny}
-"027"	{emote: Sunny}
-"028"	{emote: Sunny}
-"029"	{emote: Sunny}
-"030"	{emote: Sunny}
+"001"	なぁ、{Player nickname (green)}！{pause 20}	たのみがあるんだー{Wait for input}{ruby (charSpan 1): いま}今、{0012-0001-0000}の	しょめいを{ruby (charSpan 1): あつ}集めてるんだけど、{pause 20}	{emote: Curious}{ruby (charSpan 2): てつだ}手伝ってくれないかー？{Wait for input}{emote: Happiness}よその{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): い}行く	ついでで　いいからさ！{pause 20}	たのむよ、{pause 8}{catchphrase}{000f-0005-0004-0015-0028}	オッケー！	{ruby (charSpan 2): きょう}今日はムリ
+"002"	{emote: Worry}チクショウ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 1): じつ}実は　{0012-0001-0000}の	しょめいを　{ruby (charSpan 1): あつ}集めてるんだけどさ、{pause 40}	{ruby (charSpan 2): しょうじき}正直　あんまり{ruby (charSpan 1): あつ}集まらないんだ{Wait for input}{emote: Sadness}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	オイラ　ふがいないよ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Inspired}{0007-000b-0000}そうだ！{pause 40}	{Player nickname (green)}が　{ruby (charSpan 2): てつだ}手伝ってくれれば、	すぐに　{ruby (charSpan 1): あつ}集まる{ruby (charSpan 1): き}気がするぞー！{Wait for input}{emote: Happiness}どうだー？{pause 20}	オイラのためと{ruby (charSpan 1): おも}思って、	しょめい{ruby (charSpan 1): あつ}集め　{ruby (charSpan 2): てつだ}手伝ってくれないか？！{000f-0005-0004-0015-0028}	いいよ！	ごめんね
+"003"	オイラ{pause 20}　しょめいを{ruby (charSpan 1): あつ}集めてるんだけど、{pause 40}	{emote: Sadness}サッパリ　{ruby (charSpan 1): あつ}集まらないんだー{Wait for input}{0012-0001-0000}{pause 8}・{pause 8}・{pause 8}・{pause 20}	みんな　きょうみないのかよー{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Inspired}{0007-000b-0000}そうだ！{pause 20}	オマエ、{ruby (charSpan 1): か}代わりに　{ruby (charSpan 1): あつ}集めてきてくれよー！{pause 40}	{emote: Distress}{ruby (charSpan 1): ひと}人{ruby (charSpan 1): だす}助けだと{ruby (charSpan 1): おも}思ってさ、{pause 20}たのむよ！{000f-0005-0004-0015-0028}	いいよ！	{ruby (charSpan 2): きょう}今日はムリ
+"004"	{emote: Worry}そっかー{pause 20}	オマエも　いっちょ{ruby (charSpan 1): まえ}前に	いそがしいんだなー
+"005"	{emote: Sigh}ちぇーーっ！{pause 20}	やっぱり　{ruby (charSpan 2): じりき}自力で	{ruby (charSpan 1): あつ}集めるしかないかー
+"006"	{emote: Worry}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): らく}楽できると　{ruby (charSpan 1): おも}思ったんだけどな
+"007"	{emote: Alarmed}おー！{pause 20}	やってくれるのか？！{Wait for input}{emote: Glee}それじゃ、{pause 20}	{Blue}よその{ruby (charSpan 1): むら}村のヤツ{Color Reset}なら	だれでもいいから、{Wait for input}{Blue}{Number (0x6)}{Color Reset}{Blue}{ruby (charSpan 1): にん}人{Color Reset}から	{ruby (charSpan 2): なまえ}名前を　もらってきてくれー{Wait for input}{emote: Reset}しょめいの{ruby (charSpan 2): ようし}用紙も	わたしておかないとな！
+"008"	{emote: Greetings}ヨッシャー！{pause 40}	{emote: Happiness}オマエがやれば　こんなしょめい、{pause 20}	パパッと{ruby (charSpan 1): あつ}集まっちゃうな！{Wait for input}{emote: Reset}じゃ、{pause 20}{Blue}よその{ruby (charSpan 1): むら}村の{ruby (charSpan 1): おとこ}男{Color Reset}なら	だれでもいいから、{pause 20}	{Blue}{Number (0x6)}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の　しょめいを　{ruby (charSpan 1): あつ}集めてきてくれ！{Wait for input}{emote: Reset}このしょめい{ruby (charSpan 2): ようし}用紙を	{ruby (charSpan 1): も}持ってくんだぞー？
+"009"	{emote: Alarmed}おー！{pause 20}	ホントに　{ruby (charSpan 2): きょうりょく}協力して	くれるのかー？！{Wait for input}{emote: Sorrow}やっぱり　オマエは	オイラのナカマだよー！{Wait for input}{emote: Happiness}そんじゃ、{pause 20}	よその{ruby (charSpan 1): むら}村にいる　{ruby (charSpan 1): おとこ}男で、{Wait for input}オイラみたいに　バリバリの{Blue}	スポーツマンっぽいヤツ{Color Reset}、{pause 20}	{Blue}{Number (0x6)}{Color Reset}{Blue}{ruby (charSpan 1): にん}人{ruby (charSpan 1): ぶん}分{Color Reset}の　しょめいを{ruby (charSpan 1): あつ}集めてきてくれー{Wait for input}しょめい{ruby (charSpan 2): ようし}用紙を　あずけておく！{pause 20}	コレに　{ruby (charSpan 1): あつ}集めるんだぞー
+"010"
+"011"	{emote: Happiness}それじゃ　{pause 20}たのんだぞ、{pause 8}{catchphrase}
+"012"	{emote: Agreement}オマエの{ruby (charSpan 1): はたら}働き、{ruby (charSpan 2): きたい}期待してるぞー
+"013"	{emote: Anger}なかなか　あぶない{ruby (charSpan 1): はし}橋を	わたるかも{ruby (charSpan 1): し}知れない{pause 8}・{pause 8}・{pause 8}・{pause 20}	ドジるなよ、{Player nickname (green)}！
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"020"
+"021"	{emote: Sunny}やってくれるのか？！{pause 20}	{ruby (charSpan 1): たす}助かるぞー！{Wait for input}{emote: Happiness}それじゃあ、{pause 20}よその{ruby (charSpan 1): むら}村の	{Blue}イヌっぽいヤツら　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 20}	しょめいを　もらってきてくれー！{Wait for input}しょめいの{ruby (charSpan 2): ようし}用紙も	わたしておくぞ！
+"022"	{emote: Sunny}やってくれるのか？！{pause 20}	{ruby (charSpan 1): たす}助かるぞー！{Wait for input}{emote: Happiness}それじゃあ、{pause 20}よその{ruby (charSpan 1): むら}村の	{Blue}ネコっぽいヤツら　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 20}	しょめいを　もらってきてくれー！{Wait for input}しょめいの{ruby (charSpan 2): ようし}用紙も	わたしておくぞ！
+"023"	{emote: Sunny}やってくれるのか？！{pause 20}	{ruby (charSpan 1): たす}助かるぞー！{Wait for input}{emote: Happiness}それじゃあ、{pause 20}よその{ruby (charSpan 1): むら}村の	{Blue}リスっぽいヤツら　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 20}	しょめいを　もらってきてくれー！{Wait for input}しょめいの{ruby (charSpan 2): ようし}用紙も	わたしておくぞ！
+"024"	{emote: Sunny}やってくれるのか？！{pause 20}	{ruby (charSpan 1): たす}助かるぞー！{Wait for input}{emote: Happiness}それじゃあ、{pause 20}よその{ruby (charSpan 1): むら}村の	{Blue}ウサギっぽいヤツら　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 20}	しょめいを　もらってきてくれー！{Wait for input}しょめいの{ruby (charSpan 2): ようし}用紙も	わたしておくぞ！
+"025"	{emote: Sunny}やってくれるのか？！{pause 20}	{ruby (charSpan 1): たす}助かるぞー！{Wait for input}{emote: Happiness}それじゃあ、{pause 20}よその{ruby (charSpan 1): むら}村の	{Blue}アヒルっぽいヤツら　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 20}	しょめいを　もらってきてくれー！{Wait for input}しょめいの{ruby (charSpan 2): ようし}用紙も	わたしておくぞ！
+"026"	{emote: Sunny}やってくれるのか？！{pause 20}	{ruby (charSpan 1): たす}助かるぞー！{Wait for input}{emote: Happiness}それじゃあ、{pause 20}よその{ruby (charSpan 1): むら}村の	{Blue}ネズミっぽいヤツら　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 20}	しょめいを　もらってきてくれー！{Wait for input}しょめいの{ruby (charSpan 2): ようし}用紙も	わたしておくぞ！
+"027"	{emote: Sunny}やってくれるのか？！{pause 20}	{ruby (charSpan 1): たす}助かるぞー！{Wait for input}{emote: Happiness}それじゃあ、{pause 20}よその{ruby (charSpan 1): むら}村の	{Blue}カエルっぽいヤツら　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 20}	しょめいを　もらってきてくれー！{Wait for input}しょめいの{ruby (charSpan 2): ようし}用紙も	わたしておくぞ！
+"028"	{emote: Sunny}やってくれるのか？！{pause 20}	{ruby (charSpan 1): たす}助かるぞー！{Wait for input}{emote: Happiness}それじゃあ、{pause 20}よその{ruby (charSpan 1): むら}村の	{Blue}ウマっぽいヤツら　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 20}	しょめいを　もらってきてくれー！{Wait for input}しょめいの{ruby (charSpan 2): ようし}用紙も	わたしておくぞ！
+"029"	{emote: Sunny}やってくれるのか？！{pause 20}	{ruby (charSpan 1): たす}助かるぞー！{Wait for input}{emote: Happiness}それじゃあ、{pause 20}よその{ruby (charSpan 1): むら}村の	{Blue}コグマっぽいヤツら　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 20}	しょめいを　もらってきてくれー！{Wait for input}しょめいの{ruby (charSpan 2): ようし}用紙も	わたしておくぞ！
+"030"	{emote: Sunny}やってくれるのか？！{pause 20}	{ruby (charSpan 1): たす}助かるぞー！{Wait for input}{emote: Happiness}それじゃあ、{pause 20}よその{ruby (charSpan 1): むら}村の	{Blue}ペンギンっぽいヤツら　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 20}	しょめいを　もらってきてくれー！{Wait for input}しょめいの{ruby (charSpan 2): ようし}用紙も	わたしておくぞ！

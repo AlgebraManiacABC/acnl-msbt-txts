@@ -1,285 +1,285 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Greetings}
-"003"	{emote: Surprise}
-"004"	{emote: Joy}
-"005"	{emote: Sunny}
-"006"	{emote: Thought}
-"007"	{emote: Alarmed}
-"008"	{emote: Worry}
-"009"	{emote: Soft Smile}
-"010"	Oh,{pause 20}
-"011"	{emote: Love}
-"012"	{emote: Star Yell}
-"013"	{emote: Love}
-"014"	{emote: Shocked}
-"015"	Well,{pause 8}
-"016"	{emote: Thought}
-"017"	{emote: Alarmed}
-"018"	{emote: Shocked}
-"019"	{emote: Aggravation}
-"020"	{emote: Thought}
-"021"	{emote: Alarmed}
-"022"	{emote: Thought}
-"023"	{emote: Disbelief}
-"024"	{emote: Laughter}
-"025"	{emote: Shocked}
-"026"	{emote: Love}
-"027"	{emote: Sheepishness}
-"028"	{emote: Shocked}
-"029"	{emote: Curious}
-"030"	{emote: Surprise}
-"031"	
-"032"	
-"033"	{emote: Sunny}
-"034"	{emote: Worry}
-"035"	{emote: Shyness}
-"036"	{emote: Shyness}
-"037"	{emote: Happiness}
-"038"	{emote: Greetings}
-"039"	{emote: Joy}
-"040"	{emote: Glee}
-"041"	{emote: Sunny}
-"042"	{emote: Happiness}
-"043"	Thanks,{pause 8}
-"044"	{emote: Curious}
-"045"	{emote: Surprise}
-"046"	{emote: Alarmed}
-"047"	{emote: Curious}
-"048"	{emote: Curious}
-"049"	{emote: Shocked}
-"050"	
-"051"	{emote: Alarmed}
-"052"	{emote: Sunny}
-"053"	{emote: Alarmed}
-"054"	{emote: Alarmed}
-"055"	Oh{pause 8}
-"056"	{emote: Sunny}
+"001"	{emote: Happiness}Hey,{pause 8} it's {Player nickname (green)}! {pause 16}{emote: Joy}I'm glad you	came. {pause 16}Come on in!
+"002"	{emote: Greetings}Hey,{pause 8} {Player nickname (green)}! {pause 16}The party's just	getting started. {pause 8}Come on in!
+"003"	{emote: Surprise}Hey,{pause 8} I've been waiting for you! {pause 16}Now	we can start the party for real.{pause 16}{emote: Flourish}	{capitalized}{catchphrase}!
+"004"	{emote: Joy}I'm so happy you two are here to	help me celebrate my birthday!{Wait for input}{emote: Sheepishness}Of course, {pause 8}I said no gifts, {pause 8}but	{0011-0001-0002-0000} brought one anyway. {pause 16}	Don't tell me you brought one too{pause 8}.{pause 8}.{pause 8}.{pause 8}{000f-0005-0004-0015-0028}	Yep, here you go!	Oh...sorry.
+"005"	{emote: Sunny}Welcome to the party,{pause 8} {Player nickname (green)}!{pause 16}	If you have a gift, now's the time to	hand it over{pause 8}.{pause 8}.{pause 8}.{pause 8}{000f-0005-0004-0015-0028}	Sure, here you go.	I didn't bring anything.
+"006"	{emote: Thought}How can I put this delicately{pause 8}.{pause 8}.{pause 8}.{pause 32}{emote: Anger} Did	you bring me a gift or didn't you?{000f-0005-0004-0015-0028}	I did!	Sorry. I forgot.
+"007"	{emote: Alarmed}Oh! {pause 16}Well, {pause 8}don't feel bad. {emote: Soft Smile}{pause 16}Your	company is the only present I need.{Wait for input}{emote: Anger}{Text size 75%}Actually, {pause 8}you should probably feel a little bit	bad.{Text size 100%}
+"008"	{emote: Worry}Well,{pause 8} I like presents,{pause 16} but I like YOU	slightly more than presents. {pause 16}{emote: Happiness}I'm just	glad you came,{pause 8} {Player nickname (green)}.
+"009"	{emote: Soft Smile}Oh well. {pause 8}I don't need a gift to know	we're friends. {pause 16}{emote: Sunny}I'm just glad you	stopped by.
+"010"	Oh,{pause 20} {emote: Joy}YES!{pause 16} {emote: Daydreaming}What can it be? {pause 16}I can't	wait to open it. {pause 16}{capitalized}{catchphrase}!
+"011"	{emote: Love}Aww,{pause 8} you shouldn't have.{pause 32} No,{emote: Thought}{pause 8}	strike that.{pause 8} Reverse it. {pause 16}I'm glad you	did.
+"012"	{emote: Star Yell}Yay! {pause 16}Can I open it now? {Wait for input}Wait—{pause 8}why	am I asking you? {pause 16}{emote: Laughter}Of course I can	open it{pause 8}.{pause 8}.{pause 8}.{pause 8} It's my party!
+"013"	{emote: Love}Wow, {pause 8}that cake looks delicious.{pause 16}{emote: Delight} I	want to eat the whole thing myself,{pause 8}	right now!	{emote: Alarmed}Oh! {pause 16}Did I say that out loud? {pause 16}{emote: Sheepishness}Thanks	for bringing it, {pause 8}{Player nickname (green)}.
+"014"	{emote: Shocked}Wow,{pause 8} {Article(word-dependant)}{0011-0003-0002-0000}!	{pause 16}What a great gift. {pause 16}So great,{pause 8} in fact,{pause 8}{emote: Laughter}	that I already gave it to myself!	{emote: Sheepishness}Don't worry, {pause 8}{Player nickname (green)}. {pause 16}It just	means you know exactly what I like.{pause 16}{emote: Delight}	{capitalized}{catchphrase}, {pause 8}I love it!
+"015"	Well,{pause 8} look at that. {pause 16}{emote: Shocked}I'm wearing 	{Article(word-dependant)}{0011-0003-0002-0000}	already!	But that's OK!{pause 16}{emote: Delight} I love this outfit{pause 8}.{pause 8}.{pause 8}.{pause 8} 	{emote: Inspired}It'll be great to have a spare when	one's in the wash.	{emote: Love}Thank you,{pause 8} {Player nickname (green)}.{pause 16} I really	appreciate your gift!
+"016"	{emote: Thought}Wait—this looks familiar.{pause 16}	{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?{pause 16}	{emote: Disbelief}Isn't that what you're wearing too?	{emote: Laughter}{capitalized}{catchphrase}, {pause 8}that's awesome!{pause 16}	Now we can dress up as twins.{pause 16} Ha!{emote: Sheepishness}{pause 16}	I like the way you think.
+"017"	{emote: Alarmed}{capitalized}{catchphrase},{pause 8} is that really	{Article(word-dependant)}{0011-0003-0002-0000}?{Wait for input}{emote: Distress}Oh no,{pause 8} I just can't hold it in{pause 8}.{pause 8}.{pause 8}.{pause 8}{pause 16}{emote: Love}	{0007-000b-0000}{Text size 150%}SQUEE! {pause 40}{Text size 100%}It's just what I wanted.{pause 16}	Thank you so much!{Text size 150%}{Text size 100%}
+"018"	{emote: Shocked}Wow, {pause 8}{Article(word-dependant)}{0011-0003-0002-0000}!{pause 32}	{emote: Delight}You really know what I like. {pause 16}It's	fantastic! {pause 16}{capitalized}{catchphrase}!
+"019"	{emote: Aggravation}Have you been reading my diary,{pause 8}	{Player nickname (green)}?{pause 40} {emote: Joy}Because this is exactly	what I wanted!	{emote: Love}It really is a beautiful	{0011-0003-0002-0000}. {pause 16}Thank you!
+"020"	{emote: Thought}Oh,{pause 8} {Article(word-dependant)}{0011-0003-0002-0000}?{pause 16}	{emote: Resigned}I really didn't expect something	like this.	But {pause 8}{emote: Happiness}it's the thought that counts.{pause 16}	{emote: Sunny}Thank you, {pause 8}{Player nickname (green)}!
+"021"	{emote: Alarmed}Well,{pause 8} this is unexpected! {pause 16}But I'm	actually really excited to get	{Article(word-dependant)}{0011-0003-0002-0000}!	{emote: Agreement}Way to think outside the box on	this one, {pause 8}{Player nickname (green)}!
+"022"	{emote: Thought}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}? {Wait for input}{emote: Alarmed}Oh,{pause 8}	I'm sorry if I gave you the wrong	impression.	{emote: Worry}I'm not disappointed—{pause 8}I guess I was	just expecting something different.{Wait for input}{emote: Glare}I knew I could count on you to	surprise me on my birthday,{pause 8}	{Player nickname (green)}!
+"023"	{emote: Disbelief}Whoa,{pause 8} what do you think you're	doing? {pause 16}{emote: Aggravation}I don't accept Bells as a	birthday present.	{emote: Daydreaming}Sure, {pause 8}I could buy something I like	with those Bells, {pause 8}but that's not the	point.	{emote: Resigned}You're going to have to do better	than that,{pause 8} {Player nickname (green)}.
+"024"	{emote: Laughter}Ha!{pause 16} Funny joke, {pause 8}{Player nickname (green)}, {pause 8}giving	me a piece of garbage for my	birthday.	{emote: Thought}After all,{pause 8} it IS a joke, {pause 8}right?{pause 16} Right?{pause 40}	{emote: Outrage}RIGHT.{Wait for input}{emote: Resigned}So {pause 8}that was good for a laugh. {pause 16}Now	why don't you dispose of this trash	for me.
+"025"	{emote: Shocked}Really? {pause 8}Turnips?{pause 16}{emote: Delight} How delightfully	absurd of you, {pause 8}{Player nickname (green)}!{Wait for input}{emote: Daydreaming}I think this is the most avant-garde	gift I've ever received. {pause 16}Thanks!
+"026"	{emote: Love}Mmm.{pause 16} You know the way to my	heart. {pause 16}This looks delicious. {emote: Joy}{pause 16}Thank	you,{pause 8} {Player nickname (green)}!
+"027"	{emote: Sheepishness}Oh, you are cheeky, aren't you,	{Player nickname (green)}? What else do you have	up your sleeve?{pause 16} {capitalized}{catchphrase}?
+"028"	{emote: Shocked}{capitalized}{catchphrase}, {pause 8}what a gift!{pause 16} It's so{pause 8}	different from the kinds of things I	usually get.	{emote: Joy}Thank you! {pause 16}I really appreciate the	thought that went into this.
+"029"	{emote: Curious}I'm not sure where you even found	{Article(word-dependant)}{0011-0003-0002-0000}, {pause 8}{emote: Happiness}but	thank you!
+"030"	{emote: Surprise}Well, this is certainly a creative gift.{pause 16}	I knew I could count on you to keep	things interesting. {pause 16}{emote: Sunny}{capitalized}{catchphrase}!
+"031"
+"032"
+"033"	{emote: Sunny}I'll cherish this gift forever and	ever. {pause 16}{emote: Sheepishness}Or at least until my next	birthday. {pause 16}{capitalized}{catchphrase}!
+"034"	{emote: Worry}I hope I didn't give you the wrong	impression,{pause 8} {Player nickname (green)}.{Wait for input}{emote: Happiness}I'm just happy you came to my	party. {pause 16}A fun present is simply the	icing on the cake.{Wait for input}{emote: Sheepishness}Of course the icing is often the best	part of the whole cake experience{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"035"	{emote: Shyness}Awww, {pause 8}you guys are the best.{pause 16}{emote: Delight} Big	thanks to you and {0011-0001-0002-0000} for	everything.
+"036"	{emote: Shyness}To be honest,{pause 8} I wasn't sure you'd	even remember my birthday. {pause 16}{emote: Sunny}So I'm	glad you're here!	{emote: Glare}And I'm even going to give you one	more chance to give ME a special	gift. {pause 16}What do you say?{000f-0005-0004-0015-0028}	Here—take this!	You still get nothing.
+"037"	{emote: Happiness}Awww, {pause 8}{Player nickname (green)}.{pause 16} I'm so glad you	came to my party. {pause 16}{emote: Sheepishness}It makes me feel	better about being a year older.	{emote: Curious}You know what else makes me feel	better?{Wait for input} Yup, {pause 8}good old-fashioned	presents. {pause 16}{emote: Sheepishness}Here's your chance{pause 8}.{pause 8}.{pause 8}.{pause 8}{000f-0005-0004-0015-0028}	Here—take this!	Sorry. I got nothing.
+"038"	{emote: Greetings}Thanks for coming, {pause 8}{Player nickname (green)}. {pause 16}You	already know {0011-0001-0002-0000}, {pause 8}right?{Wait for input}{emote: Sheepishness}I'm in a good mood,{pause 8} so I'll give you	one more chance to make things	right with the perfect gift{pause 8}.{pause 8}.{pause 8}.{pause 8}{000f-0005-0004-0015-0028}	I do have a gift for you!	Sorry, no.
+"039"	{emote: Joy}I really like the gift you gave me,{pause 8}	{Player nickname (green)}. {pause 16}Did I mention that	already? {pause 16}{capitalized}{catchphrase}!
+"040"	{emote: Glee}What a wonderful party! {pause 16}{emote: Delight}I never	imagined you guys would show up	with such great gifts.
+"041"	{emote: Sunny}Thanks again,{pause 8} {Player nickname (green)}. {pause 16}You're	always there for me.
+"042"	{emote: Happiness}I'm a pretty lucky {0005-001f-0002-cd00} to	have such good friends. {pause 16}{emote: Sorrow}I love you	guys!
+"043"	Thanks,{pause 8} {Player nickname (green)}.{pause 16}{emote: Love} I'll remember	this party forever.
+"044"	{emote: Curious}Leaving so soon?{pause 16} {emote: Shyness}{capitalized}{catchphrase},{pause 8}	thanks for everything. {pause 16}I love the	gift you gave me.	{emote: Sheepishness}I'll remember this when it's your	birthday{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"045"	{emote: Surprise}Hey, {pause 8}hold on a second!{Wait for input}{emote: Glee}I just wanted to say thank you one	more time. {pause 16}The party wouldn't have	been the same without you.	{emote: Sunny}And I just love the present you gave	me.{pause 16} {capitalized}{catchphrase}!
+"046"	{emote: Alarmed}What? {pause 16}You're leaving already?{pause 16} {emote: Sheepishness}Well,{pause 8}	I guess time flies when you're having	fun.	{emote: Happiness}Thanks again for your gift.{pause 16} I really	do like it!
+"047"	{emote: Curious}Oh,{pause 8} leaving already?{pause 16} {emote: Anger}Sure,{pause 8} the food	runs out and you're out the door.{pause 16}	Is that how it is?	{emote: Laughter}Just kidding.{pause 16} Thanks for coming	today.{pause 16} I had a great birthday!
+"048"	{emote: Curious}Heading out, {pause 8}eh,{pause 8} {Player nickname (green)}?{pause 16} {emote: Agreement}Well,{pause 8}	the party can't go on forever, {pause 8}I	suppose.	{emote: Glee}Thank you for everything. {pause 16}{emote: Delight}This has	been one of my favorite birthdays	ever!
+"049"	{emote: Shocked}Gotta run, {pause 8}eh?{pause 16} {emote: Soft Smile}Well,{pause 8} {catchphrase}.{pause 16}	Thanks for stopping by!{Wait for input}{emote: Happiness}It wouldn't have been a real party	without you.
+"050"
+"051"	{emote: Alarmed}What's that?{pause 32} You're leaving already?{Wait for input}{emote: Soft Smile}I suppose I'm grateful that you're	not outstaying your welcome.{pause 32}{Wait for input}{emote: Agreement}Thanks again for the gift! I expect	you found something just as lovely	for {0011-0001-0002-0001}. 	{emote: Surprise}You did know it was {his/her/} birthday	today too, didn't you? {pause 20}{Wait for input}{emote: Reset}If you do see {0011-0001-0002-0001}, please	give {him/her/} my best, {pause 8}{catchphrase}.
+"052"	{emote: Sunny}Hold on just a moment, {pause 16}{Player nickname (green)}!{Wait for input}{emote: Happiness}Thank you so very much for coming 	today. {pause 32}{emote: Shyness}Usually I hate to celebrate	getting another year older{pause 8}.{pause 8}.{pause 8}. 	{emote: Soft Smile}but your gift really brightened my	day!{pause 16}{Wait for input}{emote: Alarmed}Oh! Did you hear?{pause 20}{emote: Delight} There's a bit of a	birthday to-do over at {0011-0001-0002-0001}'s	place.{pause 8} You MUST attend!
+"053"	{emote: Alarmed}{pause 16}You're going home, then?{Wait for input}{emote: Soft Smile}Well, thanks for swinging by my	little affair!{pause 32}{Wait for input}{emote: Reset}I don't know how I could top your	gift-giving skills, {pause 8}{emote: Mischief}but I will by your	birthday{pause 8}.{pause 8}.{pause 8}. 	{emote: Agreement}Speaking of other people's 	birthdays...{pause 8} Did you know it's	{0011-0001-0002-0001}'s birthday too!	{emote: Sheepishness}I'm pretty sure {he/she/}'s a year older	than me{pause 8}.{pause 8}.{pause 8}.at the very least!{emote: Laughter}
+"054"	{emote: Alarmed}Taking your exit, then? {pause 16}	It was SO lovely to see you,	{Player nickname (green)}.{Wait for input}{emote: Shyness}I'm so honored you remembered it	was my special day{pause 8}.{pause 8}.{pause 8}. {emote: Sheepishness}Are you sure	you're not forgetting anything?	{emote: Reset}Like that it's {0011-0001-0002-0001}'s birthday{pause 16}	today too! {pause 8}Isn't that a funny little	coincidence, {catchphrase}.{Wait for input}{emote: Agreement}{He/She/} and I have so much in common.{pause 16} 	I bet {he/she/}'s expecting a gift from	you too!
+"055"	Oh{pause 8}.{pause 8}.{pause 8}.{pause 8}are you off, {pause 8}{Player nickname (green)}?{Wait for input}{emote: Soft Smile}I will truly cherish{pause 16} the memories we	made today.{pause 32} There is no greater gift	than the company of a good friend.	{emote: Alarmed}{pause 8}Oh, right{pause 4}.{pause 4}.{pause 4}.{pause 4}	Today {0011-0001-0002-0001}'s celebrating a 	birthday too.{Wait for input}{emote: Agreement}I hope you got {him/her/} something nice	to commemorate the day!{pause 16}	{emote: Reset}{Gray}Nicer than memories, at least{pause 8}.{pause 8}.{pause 8}.{Color Reset}
+"056"	{emote: Sunny}Off with you then!{Wait for input}{emote: Soft Smile}I suppose you have many a fancy	party to attend this fine day.{pause 32}{Wait for input}{emote: Reset}Will you make it, by chance, to	{0011-0001-0002-0001}'s party?{Wait for input}{emote: Anger}Well, remember to bring a present!{pause 16}	You shouldn't go to a birthday 	party without one, {pause 8}{catchphrase}!	{emote: Shyness}{pause 16}That is proper etiquette, after all{pause 8}.{pause 8}.{pause 8}.
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Greetings}
-"003"	{emote: Surprise}
-"004"	{emote: Joy}
-"005"	{emote: Sunny}
-"006"	{emote: Thought}
-"007"	{emote: Alarmed}
-"008"	{emote: Worry}
-"009"	{emote: Soft Smile}
-"010"	{emote: Joy}
-"011"	{emote: Love}
-"012"	{emote: Flourish}
-"013"	{emote: Love}
-"014"	{emote: Shocked}
-"015"	Anda, fíjate. {pause 16}!
-"016"	{emote: Thought}
-"017"	{emote: Alarmed}
-"018"	{emote: Shocked}
-"019"	{emote: Aggravation}
-"020"	{emote: Thought}
-"021"	{emote: Alarmed}
-"022"	{emote: Disbelief}
-"023"	{emote: Disbelief}
-"024"	{emote: Laughter}
-"025"	{emote: Shocked}
-"026"	{emote: Love}
-"027"	{emote: Sheepishness}
-"028"	{emote: Shocked}
-"029"	{emote: Curious}
-"030"	{emote: Surprise}
-"031"	
-"032"	
-"033"	{emote: Sunny}
-"034"	{emote: Worry}
-"035"	{emote: Delight}
-"036"	{emote: Shyness}
-"037"	{emote: Happiness}
-"038"	{emote: Greetings}
-"039"	{emote: Joy}
-"040"	{emote: Glee}
-"041"	{emote: Sunny}
-"042"	{emote: Happiness}
-"043"	Gracias,{pause 8}
-"044"	{emote: Curious}
-"045"	{emote: Surprise}
-"046"	{emote: Alarmed}
-"047"	{emote: Curious}
-"048"	{emote: Curious}
-"049"	{emote: Shocked}
-"050"	
-"051"	{emote: Alarmed}
-"052"	{emote: Sunny}
-"053"	{emote: Alarmed}
-"054"	{emote: Alarmed}
-"055"	Qué lástima que te vayas	tan pronto,{pause 8}
-"056"	{emote: Alarmed}
+"001"	{emote: Happiness}¡Hola, {Player nickname (green)}! {pause 16}{emote: Joy}¡Cuánto me	alegra verte!{pause 20} Pasa, por favor.
+"002"	{emote: Greetings}¡Hola,{pause 8} cielín! {pause 16}Llegas justo a tiempo,	la fiesta acaba de empezar.
+"003"	{emote: Surprise}¡Perfecto! Ya estamos todos.{pause 16}{emote: Flourish}	¡Que empiece la fiesta,	{catchphrase}!
+"004"	{emote: Joy}Es una fiesta maravillosa, terroncín.{pause 20}	Me colma de felicidad celebrar mi	cumpleaños con amigos.	{emote: Resigned}Dije que nada de regalos, pero{pause 8}	{0011-0001-0002-0000} ha traído uno, ya	sabes cómo es...	{emote: Surprise}¡Ah, no me digas que tú también!{000f-0005-0004-0015-0028}	¡Sí! Toma	Pues no...
+"005"	{emote: Sunny}¡Gracias por asistir a mi fiesta de	cumpleaños,{pause 8} amor!{pause 16} {emote: Mischief}¿Qué llevas ahí?{pause 20}	¿Es mi regalo?{000f-0005-0004-0015-0028}	¡Claro, aquí tienes!	No...
+"006"	{emote: Thought}Bueno, estrellita{pause 8}.{pause 8}.{pause 8}.{pause 32} ¿Por qué no me	das ya tu regalo?{pause 20} Soy muy ansiosa	para estas cosas.{000f-0005-0004-0015-0028}	¡Venga, toma!	Me lo he dejado
+"007"	{emote: Alarmed}Oh... {pause 16}Bueno, no pasa nada.{pause 16} Tu	compañía es más importante	para mí que un regalo.	{emote: Anger}{Gray}({Text size 75%}Qué rácana es la gente...){Text size 100%}{Color Reset}
+"008"	{emote: Worry}Bueno, prefiero que hayas venido	sin regalo a que no te hubieras	presentado.
+"009"	{emote: Soft Smile}Oh, tranquil{o/a}, no pasa nada. {pause 16}{emote: Sunny}	Tu presencia ya es regalo	suficiente.
+"010"	{emote: Joy}¡Gracias!{pause 16} {emote: Daydreaming}¿Qué será? {pause 16}Voy a abrirlo	ahora mismo,{pause 16} {catchphrase}.
+"011"	{emote: Love}Ay,{pause 8} qué amable eres, amor.{pause 32}{emote: Happiness}	¡Seguro que me encanta!
+"012"	{emote: Flourish}¡Muchas gracias! {Wait for input}¿{emote: Happiness}Te importa si	lo abro ahora?{pause 20} ¡Tengo mucha	curiosidad!
+"013"	{emote: Love}¡Una tarta! ¡Y parece deliciosa!{pause 20}{emote: Alarmed}	¿La has hecho tú sol{o/a}, cielín?{pause 20}	{emote: Sunny}¡Eres tod{o/a} u{n/na} artista!
+"014"	{emote: Shocked}¡Es {Article(word-dependant)}{0011-0003-0002-0000}!{pause 16}	{emote: Thought}¡Qué casualidad!{pause 8} Tengo un{o/a/} justo	igual.	{emote: Sheepishness}¡No, no te preocupes!{pause 16} Eso significa	que sabes lo que me gusta,	{catchphrase}.{pause 20} {emote: Happiness}¡Gracias!
+"015"	Anda, fíjate. {pause 16}{emote: Shocked}Si es {el/la/} mism{o/a/}	{0011-0003-0002-0000} que	llevo puest{o/a/}.	¡Pero gracias!{pause 16}{emote: Soft Smile} Me encanta esta	prenda{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Inspired} Nunca viene mal tener	otra de recambio.
+"016"	{emote: Thought}¿{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?{pause 16}	¿De qué me suena? {pause 20}{emote: Disbelief}¡Ah, es {el/la/} mism{o/a/}	que llevas tú, cielín!	{emote: Laughter}¿Quieres que nos vistamos igual?	¡Eres un encanto!
+"017"	{emote: Alarmed}¿Es {Article(word-dependant)}{0011-0003-0002-0000}?{Wait for input}	{emote: Love}¡AYYY! {pause 16}¡Es justo lo que quería!{pause 20}	{emote: Glee}¡Muchísimas gracias, cielín!
+"018"	{emote: Shocked}¡Hala, {pause 8}{Article(word-dependant)}{0011-0003-0002-0000}!{pause 32}	{emote: Sunny}¡Está claro que conoces mis gustos,	flor!{pause 16} ¡Me encanta, gracias!
+"019"	{emote: Aggravation}¿Has leído mi diario, terroncín?{pause 40} {emote: Joy}	¡Porque no podías haber elegido	un regalo mejor!	{emote: Love}¡Es {Article(word-dependant)}{0011-0003-0002-0000}	maravillos{o/a/}, gracias!
+"020"	{emote: Thought}Oh,{pause 8} ¿{Article(word-dependant)}{0011-0003-0002-0000}?{pause 16}	{emote: Resigned}No es algo que compre muy a	menudo...	{emote: Happiness}Pero gracias, cielín.{pause 16} Supongo que	la intención es lo que cuenta.
+"021"	{emote: Alarmed}¡{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}!	Esto sí que no me lo esperaba.{Wait for input}{emote: Happiness}Muchas gracias por el detalle,	{Player nickname (green)}.
+"022"	{emote: Disbelief}¿{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?{Wait for input}{emote: Worry}	Ah,{pause 8} disculpa mi reacción. No es	que no me guste...	Es solo que no es de mi estilo.{pause 20}	{emote: Soft Smile}¡Pero gracias de todas formas,	encanto!
+"023"	{emote: Disbelief}¡Eh, un momento! {pause 16}{emote: Aggravation}Lo siento, pero	nunca acepto bayas como regalo	de cumpleaños.	{emote: Daydreaming}Sí, podría gastarlas en ropa,{pause 20} pero	prefiero un regalo más personal.{Wait for input}{emote: Resigned}Tendrás que esforzarte más,	{catchphrase}.
+"024"	{emote: Laughter}¡Ja!{pause 16} Muy gracios{o/a}, {pause 8}{Player nickname (green)}.{pause 8}	Lo de regalar basura es una broma	muy vieja.	{emote: Thought}Porque...{pause 8} es una broma... {pause 16}{emote: Outrage}	¡¿VERDAD?!{Wait for input}{emote: Resigned}Bueno, si has terminado,{pause 20} tira esto	por mí, anda.
+"025"	{emote: Shocked}¿Nabos?{pause 16} ¿De verdad?{pause 20} {emote: Sunny}¡Reconozco	que es el regalo más original que	me han hecho jamás, {pause 8}{catchphrase}!{Wait for input}{emote: Daydreaming}Solo se te podía haber ocurrido	a ti. ¡Muchas gracias!
+"026"	{emote: Love}Mmm...{pause 16} Tiene una pinta deliciosa.	¡Es todo un manjar! {emote: Joy}{pause 16}¡Gracias, flor!
+"027"	{emote: Sheepishness}¡Venga, pastelito! No te hagas	de rogar, {catchphrase}.
+"028"	{emote: Shocked}Vaya, creo que este se lleva el	premio al regalo más especial	de la fiesta, {catchphrase}.	{emote: Joy}¡Gracias! {pause 16}Es todo un detalle.
+"029"	{emote: Curious}No sé de dónde has sacado est{e/a/}	{0011-0003-0002-0000}, {pause 8}{emote: Happiness}pero	muchas gracias, solete.
+"030"	{emote: Surprise}¡Qué regalo tan original! {pause 16}{emote: Soft Smile}Muy típico	de ti, cielín. {pause 20}¡Gracias, {catchphrase}!
+"031"
+"032"
+"033"	{emote: Sunny}Guardaré tu regalo como un	tesoro, {catchphrase}.
+"034"	{emote: Worry}Espero no haberte dado la falsa	impresión de que solo me importan	los regalos,{pause 8} {Player nickname (green)}.	{emote: Happiness}Poder compartir este día tan	especial con mis seres queridos	es lo que más feliz me hace.
+"035"	{emote: Delight}Os agradezco mucho que hayáis	venido, de verdad.{pause 20} {emote: Shyness}No sé qué	haría sin vuestra amistad.
+"036"	{emote: Shyness}Me alegro de que estés aquí. No	estaba segura de si te acordarías.{Wait for input}Ah,{pause 8} mmm{pause 8}.{pause 8}.{pause 32}.{pause 8}{emote: Mischief} ¿Me has traído alguna	cosita? ¿Un regalo tal vez?{000f-0005-0004-0015-0028}	¡Pues claro!	No, lo siento
+"037"	{emote: Happiness}Ay, {pause 8}{Player nickname (green)}.{pause 16} Estoy encantada	de que hayas podido asistir a la	fiesta.	{emote: Sheepishness}Cumplir años siempre me deprime.{pause 20}	Me alegra no tener que pasarlo	sola...{Wait for input}{emote: Happiness}¿Por qué no me animas con algo	bonito?{pause 20}{emote: Mischief} Con un regalo, por	ejemplo...{000f-0005-0004-0015-0028}	¡Toma!	No tengo ninguno
+"038"	{emote: Greetings}¡Gracias a ti y a {0011-0001-0002-0000} por	asistir a mi exclusiva fiesta de	cumpleaños!	Dime, flor...{emote: Curious} ¿me has comprado	algún regalo?{000f-0005-0004-0015-0028}	¡Por supuesto!	No...
+"039"	{emote: Joy}¿Te he dicho ya lo feliz que me	ha hecho tu regalo, {catchphrase}?
+"040"	{emote: Glee}Es una fiesta espléndida, ya lo creo.{pause 20}	{emote: Delight}¿Y vuestros regalos? ¡Maravillosos!
+"041"	{emote: Sunny}Es un alivio saber que siempre	puedo contar contigo, {Player nickname (green)}.
+"042"	{emote: Happiness}Tengo tanta suerte de tener u{n/na}	amig{o/a} tan fantástic{o/a} como tú...{pause 20}	{emote: Sorrow}¡Ay, que se me saltan las lágrimas!
+"043"	Gracias,{pause 8} {Player nickname (green)}.{pause 16}{emote: Love} ¡Nunca me	olvidaré de esta fiesta!
+"044"	{emote: Curious}¿Te marchas tan pronto?{pause 16} {emote: Shyness}Bueno,	gracias por venir y por comprarme	un regalo.	{emote: Happiness}Espero poder devolverte el favor	cuando sea tu cumpleaños{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"045"	{emote: Surprise}¡Ah, espera un momento!{Wait for input}{emote: Glee}Solo quería decirte que la fiesta	no habría sido la misma sin ti, y	que tu regalo es divino.	{emote: Sunny}Espero poder contar contigo	el año que viene, {catchphrase}.
+"046"	{emote: Alarmed}¿Cómo? {pause 16}¿Ya te vas?{pause 16} {emote: Sheepishness}Vaya, supongo	que el tiempo vuela cuando	disfrutas de la buena compañía.	{emote: Happiness}Gracias otra vez por el regalo,{pause 20}	¡es estupendo!
+"047"	{emote: Curious}¿Nos dejas tan pronto?{pause 16} {emote: Anger}Claro, 	solo has venido por la comida	gratis, ¿verdad?	{emote: Laughter}¡Ja, ja, ja! ¡Es broma!{pause 16} {emote: Happiness}Gracias por	celebrar mi cumpleaños conmigo.{pause 20}	¡Ha sido muy divertido!
+"048"	{emote: Curious}¿Te marchas, {Player nickname (green)}?{pause 16} {emote: Agreement}Supongo	que no podemos alargar la fiesta	eternamente.	{emote: Glee}¡Gracias por todo! {pause 16}{emote: Delight}Este cumpleaños	ha sido uno de los mejores.
+"049"	{emote: Shocked}¿Tienes algo que hacer? Como te	vas tan pronto...{pause 16} {emote: Soft Smile}Bueno, al menos	te he visto un rato,{pause 8} {catchphrase}.	{emote: Happiness}Te invitaré de nuevo el año que	viene, ¿de acuerdo?
+"050"
+"051"	{emote: Alarmed}¿Cómo,{pause 8} que ya te vas?{Wait for input}{emote: Soft Smile}¡Gracias por tu regalo!{pause 20} Me imagino	que estarás esperando que llegue	tu cumpleaños,{pause 8} ¿verdad?	{emote: Agreement}Y hablando de cumpleaños,{pause 8} hoy	también es el de {0011-0001-0002-0001}.{Wait for input}{emote: Happiness}No le vas a hacer el feo de faltar	a su fiesta,{pause 8} ¿verdad,{pause 8} {catchphrase}?{Wait for input}Deberías acercarte a felicitarl{o/a/}	de mi parte{pause 8}.{pause 8}.{pause 8}.
+"052"	{emote: Sunny}¡Espera un segundito,{pause 8} {Player nickname (green)}!{Wait for input}{emote: Happiness}Muchas gracias por haber venido,{pause 8}	¡me hizo mucha ilusión tu regalo!{Wait for input}{emote: Soft Smile}Pronto me pondré a pensar qué	te voy a regalar por tu cumple{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Alarmed}Ah,{pause 8} y hablando de cumpleaños,{pause 8}	{emote: Soft Smile}¡hoy también hay fiesta en casa	de {0011-0001-0002-0001}!
+"053"	{emote: Alarmed}¿Te vas a casa?{Wait for input}{emote: Soft Smile}Bueno,{pause 8} ¡gracias por haber venido!{pause 32}	¡Te haré un regalo bien bonito	por tu cumpleaños!	{emote: Agreement}A propósito{pause 8}.{pause 8}.{pause 8}.{pause 8} ¿Sabías una cosa,{pause 8}	{catchphrase}?{pause 20} ¡{0011-0001-0002-0001} y yo	cumplimos años el mismo día!	{emote: Soft Smile}Seguramente te esté esperando{pause 8}.{pause 8}.{pause 8}.{pause 8}	Ya vas tarde,{pause 8} {emote: Sunny}¡el momento perfecto	para ir y hacer una gran entrada!
+"054"	{emote: Alarmed}Qué pronto te vas,{pause 8} ¿no,{pause 8} {Player nickname (green)}?{Wait for input}{emote: Shyness}¡Gracias por haber hecho un	huequito y venir a mi fiesta!{Wait for input}{emote: Soft Smile}Ah,{pause 8} ahora que me acuerdo{pause 8}.{pause 8}.{pause 8}.{pause 8}	¡Hoy también es el cumpleaños	de {0011-0001-0002-0001},{pause 8} {catchphrase}!{Wait for input}{emote: Agreement}L{000e-0012-000c-010e-0002-006f-0002-0061-0000}s dos tenemos mucho en común{pause 8}.{pause 8}.{pause 8}.{pause 30}	{emote: Glare}¡Seguro que {000e-0012-0014-010e-0004-00e9-006c-0008-0065-006c-006c-0061-0000} también está	esperando que le lleves un regalo!
+"055"	Qué lástima que te vayas	tan pronto,{pause 8} {catchphrase}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}Me quedo con un hermoso recuerdo	de este día{pause 8}.{pause 8}.{pause 8}.{pause 8} ¡Gracias,{pause 8} {Player nickname (green)}!	{emote: Alarmed}¡Ah!{pause 20} Antes de que se me olvide{pause 8}.{pause 8}.{pause 8}.	{0011-0001-0002-0001} celebra hoy también	su cumpleaños.{Wait for input}{emote: Agreement}¡Seguro que se alegrará mucho	si le llevas un regalo!{pause 20}	{emote: Reset}{Gray}(Yo también me alegraría{pause 8}.{pause 8}.{pause 8}.){Color Reset}
+"056"	{emote: Alarmed}Vaya,{pause 8} qué pronto te vas{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}Gracias por haber venido,{pause 8} me	lo he pasado genial contigo,{pause 8}	{catchphrase}.	{emote: Reset}¿Vas a ir también a la fiesta	de {0011-0001-0002-0001}?{Wait for input}{emote: Soft Smile}Si vas,{pause 8} no olvides llevarle un detalle.{pause 20}	Es una regla básica de etiqueta para	agradecerle la invitación.	{emote: Anger}En general,{pause 8} no se puede ir	a un cumpleaños sin regalo.{pause 20}	{emote: Aggravation}¡No querrás quedar mal!
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Greetings}
-"003"	{emote: Surprise}
-"004"	{emote: Joy}
-"005"	{emote: Sunny}
-"006"	{emote: Thought}
-"007"	{emote: Alarmed}
-"008"	{emote: Worry}
-"009"	{emote: Soft Smile}
-"010"	Oh,{pause 20}
-"011"	{emote: Love}
-"012"	{emote: Glee}
-"013"	{emote: Love}
-"014"	{emote: Shocked}
-"015"	{emote: Shocked}
-"016"	{emote: Thought}
-"017"	{emote: Alarmed}
-"018"	{emote: Shocked}
-"019"	{emote: Sunny}
-"020"	{emote: Shocked}
-"021"	{emote: Sheepishness}
-"022"	{emote: Sheepishness}
-"023"	{emote: Disbelief}
-"024"	{emote: Laughter}
-"025"	{emote: Shocked}
-"026"	{emote: Love}
-"027"	{emote: Sheepishness}
-"028"	{emote: Shocked}
-"029"	{emote: Curious}
-"030"	{emote: Surprise}
-"031"	
-"032"	
-"033"	{emote: Sunny}
-"034"	{emote: Soft Smile}
-"035"	{emote: Love}
-"036"	{emote: Shyness}
-"037"	{emote: Happiness}
-"038"	{emote: Greetings}
-"039"	{emote: Joy}
-"040"	{emote: Glee}
-"041"	{emote: Sunny}
-"042"	{emote: Happiness}
-"043"	Merci encore d'être là,{pause 8}
-"044"	{emote: Curious}
-"045"	{emote: Surprise}
-"046"	{emote: Alarmed}
-"047"	{emote: Curious}
-"048"	{emote: Curious}
-"049"	{emote: Shocked}
-"050"	
-"051"	{emote: Alarmed}
-"052"	{emote: Alarmed}
-"053"	{emote: Alarmed}
-"054"	{emote: Alarmed}
-"055"	{emote: Alarmed}
-"056"	{emote: Alarmed}
+"001"	{emote: Happiness}Oh mais c'est {Player nickname (green)} ! {pause 20}{emote: Joy}Je suis	heureuse que tu aies pu venir. {pause 16}Mets-	toi à l'aise,{pause 8} je t'en prie !
+"002"	{emote: Greetings}Bonjour,{pause 8} {Player nickname (green)}. {pause 20}Tu arrives au	bon moment, {pause 8}la fête vient tout juste	de commencer...
+"003"	{emote: Surprise}Magnifique, {pause 20}il ne manquait plus que	toi ! {pause 20}{emote: Flourish}Maintenant la fête va pouvoir	commencer, {catchphrase} !
+"004"	{emote: Joy}Cette petite fête d'anniversaire est	très réussie,{pause 8} tous mes amis ont pu	venir. {pause 32}Oh, {pause 16}que je suis heureuse !	{emote: Sheepishness}J'avais pourtant bien dit de ne pas	amener de cadeaux {pause 8}mais {0011-0001-0002-0000}	m'en a offert un tout de même.	{emote: Mischief}Oh,{pause 20} j'espère que tu ne m'as rien	apporté au moins{pause 8}.{pause 8}.{pause 8}.{pause 8}{000f-0005-0004-0015-0028}	Si, bien sûr !	Euh... Non, t'inquiète.
+"005"	{emote: Sunny}Sois {le bienvenu/la bienvenue} à ma petite	réception,{pause 8} {Player nickname (green)}.{Wait for input}{emote: Mischief}Si tu as eu la délicatesse de me	faire un cadeau, {pause 8}je t'en	débarrasserai volontiers.	{emote: Sheepishness}Mais j'espère que tu ne t'es pas	embêté{/e} à m'apporter quelque	chose, {pause 8}il ne fallait surtout pas{pause 8}.{pause 8}.{pause 8}.{pause 8}{000f-0005-0004-0015-0028}	Bien sûr que j'en ai un.	Ah ? Euh... En fait...
+"006"	{emote: Thought}Avant de te souhaiter la bienvenue{pause 8}.{pause 8}.{pause 8}.{pause 32}	{emote: Outrage}Tu m'as apporté un cadeau, {pause 8}oui ou	non ?{000f-0005-0004-0015-0028}	Oui ! Pas taper !	Euh, non. J'ai oublié...
+"007"	{emote: Alarmed}Ah ! {pause 16}Oh, {emote: Reset}{pause 16}cela n'a aucune importance.{pause 16}	{emote: Sunny}{pause 16}L'important c'est que tu sois là,	c'est le seul cadeau que je voulais.{Wait for input}{emote: Anger}{Text size 75%}Toi {mon p'tit gars/ma p'tite},{Text size 75%}{pause 8}{Text size 75%} tu ne perds rien pour	attendre.{Text size 100%}
+"008"	{emote: Worry}Ne t'en fais pas, {pause 16}cela n'a aucune	importance. {pause 30}{emote: Happiness}Ce qui compte,{pause 8} c'est	que tu aies pu venir.
+"009"	{emote: Soft Smile}Tant mieux. {pause 16}Je n'en voulais pas, {pause 8}de	toute façon.{pause 32}{emote: Sunny} Mon cadeau, {pause 16}c'est ta	présence à ma petite fête.
+"010"	Oh,{pause 20} {emote: Joy}magnifique !{pause 20} {emote: Daydreaming}Mais qu'est-ce que	ça peut bien être ? {pause 30}Ouh, {pause 8}que j'ai	envie de l'ouvrir, {catchphrase} !
+"011"	{emote: Love}Ooohhh,{pause 30} comme c'est gentil{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Resigned}Tu	n'aurais pas dû, voyons{pause 8}.{pause 8}.{pause 8}.{Wait for input}Surtout un si petit paquet{pause 8}.{pause 8}.{pause 8}. {emote: Anger}Ce	n'était vraiment pas la peine{pause 8}.{pause 8}.{pause 8}.
+"012"	{emote: Glee}Magnifique ! {pause 16}Permets-tu que je	l'ouvre tout de suite ? {Wait for input}Oh, {pause 8}mais{pause 8}.{pause 8}.{pause 8}.	{pause 16}Pourquoi demander la permission ?	{emote: Laughter}Bien sûr que je peux,{pause 20} c'est MON	anniversaire !
+"013"	{emote: Love}Ce gâteau est magnifique !{pause 30}{emote: Delight} Il est si	beau que je n'oserai jamais le	manger... {pause 30}Oh, {pause 16}merci {Player nickname (green)} !
+"014"	{emote: Shocked}Oh{pause 8}.{pause 8}.{pause 8}.{pause 8} Mais c'est	{Article(word-dependant)}{0011-0003-0002-0000} !{pause 30}	{emote: Thought}On dirait {celui/celle/} que j'ai déjà...	{emote: Sheepishness}C'est magnifique, {pause 8}{Player nickname (green)}. {pause 16}Cela	veut dire que tu connais	parfaitement mes goûts.	{Seul un véritable ami/Seule une vraie amie} pouvait me	faire un tel cadeau.{pause 32}{emote: Delight} Je l'adore,{pause 8}	{catchphrase} !
+"015"	{emote: Shocked}Oh, {Article(word-dependant)}{0011-0003-0002-0000} !{pause 20}	Quelle coïncidence ! {pause 16}Regarde, {pause 8}j'ai {le/la/}	même sur moi !	Magnifique !{pause 16}{emote: Delight} J'adore cette tenue{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Inspired}Comme ça,{pause 8} j'en aurai {un/une/} de	rechange quand je laverai l'autre.	{emote: Love}Merci,{pause 8} {Player nickname (green)}.{pause 20} On peut dire que	tu connais vraiment mes goûts.
+"016"	{emote: Thought}Tiens,{pause 30} mais où ai-je déjà vu ce	vêtement...?{Wait for input}{emote: Disbelief}Oh, {pause 16}mais c'est {le/la/} même	{0011-0003-0002-0000} que tu	portes !	{emote: Laughter}{pause 8}Magnifique,{pause 16} {catchphrase} !{pause 30}	Nous allons pouvoir nous habiller de	la même façon !
+"017"	{emote: Alarmed}Oh ! {pause 8}C'est {un vrai/une vraie/}	{0011-0003-0002-0000} ?{Wait for input}	{emote: Love}OUI ! {pause 16}C'est magnifique !	{emote: Glee}Oh,{pause 8} merci ! {pause 20}C'est un très beau	cadeau, {catchphrase} !
+"018"	{emote: Shocked}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000} !{Wait for input}Magnifique !{pause 45} {emote: Delight}Exactement ce que je	voulais. {pause 30}Tu lis dans mes pensées,	{catchphrase} !
+"019"	{emote: Sunny}{pause 8}{capitalized}{Player nickname (green)}, {pause 16}tu lis dans mes	pensées{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Joy}C'est exactement ce que	je voulais.	{emote: Love}C'est {un/une/} superbe	{0011-0003-0002-0000}. {pause 30}Merci !
+"020"	{emote: Shocked}Oh,{pause 8} {Article(word-dependant)}{0011-0003-0002-0000} !{pause 45}	{emote: Resigned}Pour être franche, {pause 8}je ne m'attendais	pas vraiment à cela...	{emote: Happiness}Mais c'est l'intention qui compte.{pause 45}	{emote: Sunny}Je te remercie du fond du cœur,	{pause 8}{Player nickname (green)}.
+"021"	{emote: Sheepishness}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{pause 20}	Quelle surprise{pause 8}.{pause 8}.{pause 8}.{Wait for input}Ce n'est pas vraiment mon style,	{emote: Agreement}mais je suis touchée.{pause 25} {emote: Soft Smile}Merci,{pause 8}	{Player nickname (green)} !
+"022"	{emote: Sheepishness}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000} ?	{Wait for input}Tiens donc{pause 8}.{pause 8}.{pause 8}.{pause 8} Si ça me plaît...?{pause 45}	{emote: Worry}Je suppose que oui, {catchphrase}{pause 8}.{pause 8}.{pause 8}.
+"023"	{emote: Disbelief}Des clochettes ? {Wait for input}{emote: Disagreement}Désolée,{pause 8} mais je	ne peux pas accepter.{Wait for input}{emote: Shyness}Ce serait contraire à mes principes	et à l'idée que je me fais des	cadeaux d'anniversaire.	{emote: Resigned}Garde ton argent,{pause 8} {Player nickname (green)}.	{pause 32}Si tu veux m'offrir quelque chose,	un simple petit cadeau suffira.	{emote: Mischief}Mais ce n'est vraiment pas la	peine...
+"024"	{emote: Laughter}Hi hi !{pause 16} Toi alors, {pause 8}quel{/le} farce{ur/use} tu	fais,{pause 8} {Player nickname (green)}. {pause 20}Tu ne perds jamais	une occasion de plaisanter...	{emote: Happiness}Parce que c'est une blague, {pause 8}n'est-ce	pas ?{pause 45} {capitalized}{Player nickname (green)} ?{emote: Shyness}{pause 20} C'est une farce,{pause 8}	c'est ça ? {pause 32}{capitalized}{Player nickname (green)} ?{emote: Worry}{pause 20} Hein ?	{emote: Outrage}{pause 8}Quoi ? {Wait for input}Mais c'est une plaisanterie !{pause 45}	{emote: Aggravation}{pause 8}Tu vas tout de suite me mettre ça à	la poubelle ! {pause 20}Non mais !
+"025"	{emote: Shocked}Des navets{pause 8}.{pause 8}.{pause 8}. Tiens donc, comme	c'est original{pause 8}.{pause 8}.{pause 8}.{Wait for input}Si ça me fait plaisir ?{pause 20}{emote: Delight} Mais bien sûr !{pause 32}	{emote: Daydreaming}J'adore ton sens de l'humour,	{Player nickname (green)}.
+"026"	{emote: Love}Mmm...{pause 20} Tu sais que je suis	gourmande, {pause 8}et que je ne peux pas	résister à une petite douceur...	{emote: Joy}Ça a l'air délicieux. {pause 20}Merci,{pause 8}	{Player nickname (green)}.
+"027"	{emote: Sheepishness}Tu m'as bien eue. {pause 20}J'ai vraiment cru	que tu allais me donner quelque	chose.	Bon.{pause 30} Tu m'offres mon cadeau	maintenant, {pause 8}{catchphrase} ?
+"028"	{emote: Shocked}{capitalized}{catchphrase} !{pause 20} Quel beau cadeau !{pause 30}	C'est même trop beau !{pause 30} Je ne	devrais pas accepter{pause 8}.{pause 8}.{pause 8}.	Mais j'accepte ! {pause 30}{emote: Joy}Mille mercis,	{Player nickname (green)}. {pause 20}Ça me fait vraiment	très plaisir, tu sais !
+"029"	{emote: Curious}Je ne sais pas comment tu as fait	pour dénicher {Article(word-dependant)}	{0011-0003-0002-0000}...	Mais j'imagine que ça n'a pas été	facile.{pause 20} {emote: Happiness}Merci beaucoup !
+"030"	{emote: Surprise}Le moins que l'on puisse dire,{pause 16} c'est	que c'est un cadeau original.{pause 30} Oui,{pause 30} il	est même assez extraordinaire.	{emote: Delight}Merci infiniment, {catchphrase} !
+"031"
+"032"
+"033"	{emote: Sunny}C'est un très beau cadeau que tu	m'as fait. {pause 30}Sache que ça me touche	vraiment. {pause 30}Merci encore !
+"034"	{emote: Soft Smile}C'est vraiment très gentil à toi,{pause 8} mais	tu n'aurais pas dû, {Player nickname (green)}.{Wait for input}{emote: Happiness}Le fait que tu aies pu venir à mon	anniversaire était déjà le plus beau	cadeau que tu pouvais me faire.
+"035"	{emote: Love}Ooohhh, {pause 30}tu es trop gentil{/le}{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Delight} Merci à	toi, {Player nickname (green)}, et merci à toi aussi,	{0011-0001-0002-0000}.
+"036"	{emote: Shyness}J'espérais que tu viendrais,{pause 16} mais à	vrai dire,{pause 16} je ne sais plus si je t'ai	envoyé un carton d'invitation...	{emote: Worry}Je pense que j'ai dû oublier	quelques personnes,{pause 8} il y avait tant	de lettres à envoyer...	{emote: Resigned}Et depuis une semaine je suis si	émue par la préparation de cette	réception que j'en perds la tête{pause 8}.{pause 8}.{pause 8}.	{emote: Mischief}Mais toi,{pause 16} dis-moi{pause 8}.{pause 8}.{pause 8}. Tu n'aurais pas	oublié quelque chose aussi,{pause 8} par	hasard ?{000f-0005-0004-0015-0028}	Non, j'y ai pensé !	Euh... Ah ?
+"037"	{emote: Happiness}C'est bien, {Player nickname (green)}.{pause 16} Je suis	vraiment ravie que tu sois des	nôtres aujourd'hui.	{pause 16}{emote: Sheepishness}Sans toi, {pause 8}cette petite fête n'aurait	pas été aussi réussie.{Wait for input}{emote: Mischief}Bien sûr,{pause 16} elle le serait encore	davantage si mes invités voulaient	bien cesser de faire semblant...	{emote: Mischief}... d'avoir oublié de m'apporter un	cadeau,{pause 8} et finissaient par me le	donner sans plus attendre{pause 8}.{pause 8}.{pause 8}.{pause 8}{000f-0005-0004-0015-0028}	Hé hé ! Ok, tiens...	Euh... Ah ? Tu crois ?
+"038"	{emote: Greetings}Merci à toi d'être venu{/e}. {pause 30}Ça me fait	plaisir que tu sois là.{pause 8} Je crois que tu	connais déjà {0011-0001-0002-0000}...	{emote: Pride}Et m'aurais-tu apporté quelque	chose aussi,{pause 8} par hasard ?{pause 20} Je ne sais	pas, moi,{pause 16} un cadeau peut-être ?{000f-0005-0004-0015-0028}	Hé hé... Oui !	Euh... J'aurais dû ?
+"039"	{emote: Joy}J'aime vraiment beaucoup le cadeau	que tu m'as fait,{pause 8} {Player nickname (green)}. {pause 20}Merci	encore, {catchphrase} !
+"040"	{emote: Glee}{pause 20}Quelle belle fête d'anniversaire !	{pause 30}{emote: Delight}Mes amis sont tous venus, {pause 8}et ils	étaient chargés de beaux cadeaux !
+"041"	{emote: Sunny}Merci encore,{pause 8} {Player nickname (green)}. {pause 30}Tu es	vraiment un amour.
+"042"	{emote: Happiness}J'ai vraiment de la chance de t'avoir	pour ami{/e}. {pause 30}{emote: Sorrow}Excuse-moi, c'est{pause 8}.{pause 8}.{pause 8}. c'est	l'émotion{pause 8}.{pause 8}.{pause 8}.
+"043"	Merci encore d'être là,{pause 8} {Player nickname (green)}.{pause 30}{emote: Love}	Oh, {pause 20}je crois que je me souviendrai	longtemps de cet anniversaire !
+"044"	{emote: Curious}Oh, {pause 16}tu pars déjà ?{pause 30} {emote: Shyness}Eh bien dans ce	cas, je te remercie encore d'être	venu{/e}.	Ça m'a fait très plaisir, tu sais. {pause 30}{emote: Sheepishness}Je	viendrai aussi à ton anniversaire,{pause 16}	c'est promis, {catchphrase}.
+"045"	{emote: Surprise}{capitalized}{Player nickname (green)} ! {pause 16}Attends !{pause 45} {emote: Glee}Je voudrais	encore te remercier d'être venu{/e} à	ma petite réception.	{emote: Happiness}Cet anniversaire n'aurait pas été	aussi agréable sans ta présence à	mes côtés.	{emote: Sunny}Et je te remercie encore aussi pour	le beau cadeau que tu m'as fait.{pause 30} Tu	es adorable, {catchphrase} !
+"046"	{emote: Alarmed}Comment ? {pause 20}Tu veux déjà t'en aller ?{pause 30}	{emote: Sheepishness}Et si je ne veux pas que tu t'en	ailles, moi ?	{emote: Happiness}Bon. {pause 20}Je te libère.{pause 30} Mais c'est bien	parce que c'est toi et que je t'aime	bien !{pause 30} Encore merci pour le cadeau !
+"047"	{emote: Curious}Tu comptes déjà nous abandonner ?{pause 30}	{emote: Anger}Je vois{pause 8}.{pause 8}.{pause 8}.{pause 8} Il n'y a plus rien à manger	alors {monsieur/madame} s'en va{pause 8}.{pause 8}.{pause 8}.	{emote: Laughter}Hi hi !{pause 16} Mais non ! {pause 16}Je plaisante, bien	sûr ! {pause 8}Hi hi !{pause 30} Merci d'être passé{/e},	{Player nickname (green)}. {pause 16}Ça m'a fait plaisir !
+"048"	{emote: Curious}Oh, {pause 20}tu t'en vas déjà, {pause 8}{Player nickname (green)} ?{pause 32}	{emote: Resigned}Bon, tant pis{pause 8}.{pause 8}.{pause 8}. Les meilleures	choses ont une fin, comme on dit...	{emote: Glee}Merci d'être venu{/e}, en tout cas.{Wait for input}{emote: Delight}Cette petite fête d'anniversaire est	très réussie. {pause 20}Et c'est en partie grâce	à toi ! {pause 20}À bientôt !
+"049"	{emote: Shocked}Oh ? {pause 20}Tu pars déjà ?{pause 20} Quel dommage,{pause 8}	{catchphrase}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Glee}En tout cas, merci ! {pause 20}Ça n'aurait pas	été une vraie fête sans toi !
+"050"
+"051"	{emote: Alarmed}Comment ?{pause 8} Tu nous quittes déjà ?{Wait for input}{emote: Soft Smile}Merci pour le cadeau, je suis ravie !{pause 8}	Et je ne me conduirai pas en ingrate	lors de ton prochain anniversaire...	{emote: Agreement}Crois-moi :{pause 8} tu as fait une bonne	affaire !{pause 8} Mais puisqu'on parle	d'anniversaires...	{emote: Curious}Tu sais {que /qu'}{0011-0001-0002-0001} fête aussi le	sien, aujourd'hui ?{pause 20} {emote: Soft Smile}Tu devrais faire	un crochet par chez {lui/elle/}...	{emote: Glare}Et qui sait, si tu lui offres un	cadeau, ça en fera peut-être un	de plus pour le tien, d'anniversaire !
+"052"	{emote: Alarmed}Un instant, {Player nickname (green)} !{pause 30}	{emote: Outrage}Tu n'espères pas t'en tirer	comme ça, {catchphrase} ?	{emote: Laughter}Hi hi, je plaisante !{pause 30}{emote: Sunny} Je voulais juste	te remercier d'être venu{/e}, et aussi	pour ton merveilleux cadeau !	{emote: Agreement}Je vais devoir phosphorer à pleins	tubes pour en trouver un aussi	formidable pour ton anniversaire !	{emote: Curious}Au fait, tu es au courant	{que /qu'}{0011-0001-0002-0001} fête également le	sien, aujourd'hui ? {pause 20}{emote: Soft Smile}Passe l{e/a/} voir !
+"053"	{emote: Alarmed}Oh, tu t'en vas ?{pause 20}	{emote: Glee}Merci beaucoup d'être passé{/e},	je m'amuse comme une folle !	{emote: Agreement}Compte sur moi pour t'offrir un	cadeau pharaonique pour ton	anniversaire, parole {de /d'}{Villager's name (orange)} !	{emote: Curious}Au fait, tu savais {que /qu'}{0011-0001-0002-0001} et	moi étions né{/e/}s le même jour ?	C'est complètement fou, non ?	{emote: Alarmed}Moi, ça me stupéfie littéralement !{pause 8}	Une coïncidence pareille, c'est bien	simple, je ne m'en remets pas !	{emote: Soft Smile}En tout cas, j'imagine qu'{il/elle/} doit	t'attendre de patte ferme !{pause 8}	N'oublie pas de passer chez {lui/elle/} !
+"054"	{emote: Alarmed}Tu t'en vas déjà, {Player nickname (green)} ?{pause 20}	{emote: Soft Smile}Merci d'être passé{/e}, je suis vernie	d'avoir {un ami/une amie} comme toi !	{emote: Surprise}Oh, j'allais oublier !{pause 8} C'est aussi	l'anniversaire {de /d'}{0011-0001-0002-0001}	aujourd'hui !	{emote: Reset}Passe à sa fête, elle sera ravie.{pause 8}.{pause 8}.{pause 8}	{emote: Glare}Ça fait toujours plaisir de recevoir	un cadeau, {catchphrase} !
+"055"	{emote: Alarmed}Oh ! Tu t'en vas déjà,	{catchphrase} ?{Wait for input}{emote: Soft Smile}Je te remercie pour les souvenirs	qu'on s'est faits aujourd'hui.{pause 8}.{pause 8}.{pause 8}	{emote: Worry}{Gray}(À défaut d'un cadeau.){pause 8}{Color Reset}	{emote: Agreement}Tu sais, {Player nickname (green)}, c'est aussi	l'anniversaire {de /d'}{0011-0001-0002-0001}	aujourd'hui !	{emote: Agreement}Passe l{/a/} voir, je suis sûr qu'{il/elle/}	serait ravi{/e/} de recevoir un cadeau !{pause 30}	{emote: Worry}{Gray}(Tout comme moi...){Color Reset}
+"056"	{emote: Alarmed}Oh, tu... {pause 8}Tu nous fausses déjà	compagnie ?{Wait for input}{emote: Soft Smile}Merci d'être venu{/e}. {pause 8}Ça me fait	tellement plaisir de réunir tout	ce petit monde aujourd'hui !	{emote: Curious}Tu comptes enchaîner avec la fête	d'anniversaire {de /d'}{0011-0001-0002-0001} ?{Wait for input}{emote: Anger}Si oui, n'oublie pas d'apporter un	cadeau ! {pause 8}On ne se présente pas à	un anniversaire les mains vides !	{emote: Shyness}D'ailleurs, j'attends toujours celui	que tu m'as apporté...
 == 3 ==
-"001"	{emote: Happiness}
-"002"	{emote: Greetings}
-"003"	{emote: Surprise}
-"004"	{emote: Joy}
-"005"	{emote: Sunny}
-"006"	{emote: Thought}
-"007"	{emote: Alarmed}
-"008"	{emote: Worry}
-"009"	{emote: Soft Smile}
-"010"	Oh,{pause 20}
-"011"	{emote: Love}
-"012"	{emote: Star Yell}
-"013"	{emote: Love}
-"014"	{emote: Shocked}
-"015"	Oh,{pause 8}
-"016"	{emote: Thought}
-"017"	{emote: Alarmed}
-"018"	{emote: Shocked}
-"019"	{emote: Aggravation}
-"020"	{emote: Thought}
-"021"	{emote: Thought}
-"022"	{emote: Thought}
-"023"	{emote: Disbelief}
-"024"	{emote: Laughter}
-"025"	{emote: Shocked}
-"026"	{emote: Love}
-"027"	{emote: Sheepishness}
-"028"	{emote: Shocked}
-"029"	Grazie mille, {emote: Curious}
-"030"	{emote: Surprise}
-"031"	
-"032"	
-"033"	{emote: Sunny}
-"034"	{emote: Worry}
-"035"	{emote: Shyness}
-"036"	{emote: Shyness}
-"037"	{emote: Happiness}
-"038"	{emote: Greetings}
-"039"	{emote: Joy}
-"040"	{emote: Glee}
-"041"	{emote: Sunny}
-"042"	{emote: Happiness}
-"043"	Mille grazie,{pause 8}
-"044"	{emote: Curious}
-"045"	{emote: Surprise}
-"046"	{emote: Alarmed}
-"047"	{emote: Curious}
-"048"	{emote: Curious}
-"049"	{emote: Shocked}
-"050"	
-"051"	{emote: Alarmed}
-"052"	{emote: Sunny}
-"053"	{emote: Alarmed}
-"054"	{emote: Alarmed}
-"055"	Oh{pause 8}
-"056"	{emote: Shocked}
+"001"	{emote: Happiness}Toh, guarda chi c'è:{pause 8} {Player nickname (green)}!	{pause 16}{emote: Joy}Non sai quanto sono contenta che	tu sia venut{o/a}. {pause 16}Prego, accomodati!
+"002"	{emote: Greetings}Oh,{pause 8} {Player nickname (green)}! {pause 16}La festa	sta per cominciare, {pause 8}entra!
+"003"	{emote: Surprise}Ma ciao,{pause 8} aspettavamo giusto te!	{pause 16}Adesso sì che può cominciare	la festa!{pause 16}{emote: Flourish} {capitalized}{catchphrase}!
+"004"	{emote: Joy}Questa festa è meravigliosa!{pause 8}	Non c'è niente di meglio che	festeggiare in vostra compagnia!	{emote: Sheepishness}Anche se avevo detto "niente regali",	{pause 8}{0011-0001-0002-0000} non ne ha voluto sapere.{pause 16}	Non dirmi che anche tu.{pause 8}.{pause 8}.{pause 8}{000f-0005-0004-0015-0028}	E invece sì!	No, stai tranquilla.
+"005"	{emote: Sunny}Benvenut{o/a} alla mia festa,{pause 8}	{Player nickname (green)}!{pause 16} {emote: Mischief}Se mi hai portato un	regalo, mettilo lì insieme agli altri{pause 8}.{pause 8}.{pause 8}.{pause 8}{000f-0005-0004-0015-0028}	Certo, ecco fatto.	Non ho portato niente.
+"006"	{emote: Thought}Non per essere scostumata{pause 8}.{pause 8}.{pause 8}.{pause 32}{emote: Anger}	ma il regalo me l'hai portato?{000f-0005-0004-0015-0028}	Ebbene sì!	Mi sono dimenticat{o/a}.
+"007"	{emote: Alarmed}Oh! {pause 16}Beh, {pause 8}non sentirti in colpa.	{emote: Soft Smile}{pause 16}La tua compagnia è il miglior regalo.{Wait for input}{emote: Anger}{Text size 75%}Eccome se devi sentirti in colpa.{Text size 100%}
+"008"	{emote: Worry}Beh,{pause 8} i regali fanno sempre piacere,{pause 16}	ma mi fa ancora più piacere che tu	sia qui{pause 16}{emote: Happiness},{pause 8} {Player nickname (green)}.
+"009"	{emote: Soft Smile}Non fa niente, {pause 8}non mi serve	un regalo per sapere che siamo	amic{i/he}. {pause 16}{emote: Sunny}Mi basta che tu sia venut{o/a}.
+"010"	Oh,{pause 20} {emote: Joy}che emozione!{pause 16} {emote: Daydreaming}Cosa sarà mai?	{pause 16}Non vedo l'ora di aprirlo.	{pause 16}{capitalized}{catchphrase}!
+"011"	{emote: Love}Ohhh,{pause 8} non dovevi!{pause 32} Beh,{emote: Thought}{pause 8} forse no,{pause 8}	ma meno male che l'hai fatto.
+"012"	{emote: Star Yell}Ottimo! {pause 16}Ti dispiace se lo apro ora?	{Wait for input}Che sciocca, {pause 8}non dovrei chiedere	il permesso.	{emote: Laughter}È la mia festa.{pause 8}.{pause 8}.{pause 8} Decido io!
+"013"	{emote: Love}Uau, {pause 8}quella torta ha un aspetto	delizioso. {pause 16}{emote: Delight}La mangerei tutta da sola!{Wait for input}{emote: Alarmed}Oh! {pause 16}L'ho detto a voce alta? {pause 16}{emote: Distress}Non	volevo essere scortese, {pause 8}{Player nickname (green)}.
+"014"	{emote: Shocked}Oh,{pause 8} è {Article(word-dependant)}{0011-0003-0002-0000}!{pause 16}	{pause 16}Che bel regalo. {pause 16}Così bello...{pause 8}{emote: Laughter} che me	lo sono già fatto da sola!	Non preoccuparti, {pause 8}{Player nickname (green)}.	{pause 16}Almeno so che {emote: Delight}conosci i miei gusti	alla perfezione,{pause 16} {catchphrase}!
+"015"	Oh,{pause 8} che coincidenza. {pause 16}L{000e-0012-000c-0010-0002-006f-0002-0061-0000} stess{000e-0012-000c-0010-0002-006f-0002-0061-0000}	{0011-0003-0002-0000}	che indosso!	Non fa niente!{pause 16}{emote: Delight} Mi piace così tanto.{pause 8}.{pause 8}.{pause 8}{emote: Inspired}	che, quando lo laverò,	userò il doppione.	{emote: Love}Ti ringrazio tanto,{pause 8} {Player nickname (green)}.{pause 16}	È un regalo molto gradito!
+"016"	{emote: Thought}Mmmh... {pause 8}Quest{000e-0012-000c-0010-0002-006f-0002-0061-0000}	{0011-0003-0002-0000}	ha un aspetto familiare.{pause 16}	{emote: Disbelief}Ma certo! È uguale a quell{000e-0012-000c-0010-0002-006f-0002-0061-0000} che	stai indossando tu in questo istante!{Wait for input}{emote: Laughter}{capitalized}{catchphrase}, {pause 8}sei un genio!{pause 16}{emote: Sheepishness}	Ora potremo vestirci come	se fossimo due gemell{i/e}!
+"017"	{emote: Alarmed}{capitalized}{catchphrase},{pause 8} sogno o quest{000e-0012-000c-0010-0002-006f-0002-0061-0000}	è {Article(word-dependant)}{0011-0003-0002-0000}?{Wait for input}{emote: Love}CHE EMOZIONE! {pause 16}Proprio ciò che	volevo! {emote: Glee}Non so come ringraziarti,	{pause 8}è un regalo da sogno!
+"018"	{emote: Shocked}Uau, {pause 8}{Article(word-dependant)}{0011-0003-0002-0000}!{pause 32}	{emote: Delight}Tu sì che sai come farmi felice!
+"019"	{emote: Aggravation}Non avrai mica sbirciato	nel mio diario,{pause 8} {Player nickname (green)}?{Wait for input}{emote: Joy}L'ho scritto lì che volevo	{Article(word-dependant)}{0011-0003-0002-0000}!	{emote: Love}Grazie infinite!
+"020"	{emote: Thought}Oh,{pause 8} {Article(word-dependant)}{0011-0003-0002-0000}?{pause 16}	{emote: Resigned}Non proprio ciò che mi aspettavo,	{pause 8}{emote: Happiness}ma è il pensiero che conta.{pause 16}	{emote: Sunny}Grazie, {pause 8}{Player nickname (green)}!
+"021"	{emote: Thought}Quest{o/a/} {0011-0003-0002-0000}	proprio non me l'aspettavo...{Wait for input}{emote: Agreement}Beh, meglio così che ricevere	sempre le stesse cose.	{pause 16}{emote: Glee}Ti ringrazio,{pause 8} {Player nickname (green)}!
+"022"	{emote: Thought}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?	{Wait for input}{emote: Alarmed}Oh,{pause 8} non fraintendermi.{Wait for input}{emote: Worry}Non sono delusa:{pause 8} è solo che	non me l'aspettavo.{Wait for input}{emote: Agreement}Beh, sapevo che mi avresti	stupita! {pause 16}{capitalized}{catchphrase}!
+"023"	{emote: Disbelief}Ma insomma,{pause 8} per chi mi hai presa?	{pause 16}{emote: Aggravation}Una vera signora non accetta	stelline come regalo di compleanno.	{emote: Daydreaming}È vero, {pause 8}potrei usarle	per comprarmi qualcosa,	{pause 8}ma è una questione di principio.	{emote: Resigned}Sforzati a pensare a qualcosa	di adatto,{pause 8} {Player nickname (green)}.
+"024"	{emote: Laughter}Ah ah ah!{pause 16} Spazzatura in regalo?	{pause 16}Sei proprio un{o/a} spiritoson{e/a},	{pause 8}{Player nickname (green)}.	{emote: Thought}Perché {pause 8}è uno scherzo, {pause 8}vero?{pause 16} {emote: Outrage}VERO?{Wait for input}{emote: Resigned}Bene, {pause 8}mi fa piacere che tu ti sia	divertit{o/a}. {pause 16}Ora vai a buttare	questa roba.
+"025"	{emote: Shocked}Mi stai regalando {pause 8}delle rape?{pause 16}{emote: Delight}	Che pensiero originale, {pause 8}{Player nickname (green)}!{Wait for input}{emote: Daydreaming}Dev'essere il regalo più	anticonformista che abbia	mai ricevuto. {pause 16}Grazie mille!
+"026"	{emote: Love}Mmmh,{pause 16} ha un aspetto delizioso.	{pause 16}Hai deciso di prendermi per la gola,	eh? {emote: Joy}{pause 16}Grazie tante,{pause 8} {Player nickname (green)}!
+"027"	{emote: Sheepishness}Oh, sei proprio un{ monellaccio/a monellaccia},	vero, {Player nickname (green)}? Non si fanno	certi scherzi a una signora!
+"028"	{emote: Shocked}{capitalized}{catchphrase}, {pause 8}davvero?{pause 16}	Non ricordo di aver ricevuto	spesso cose del genere.	{emote: Soft Smile}Beh, grazie! {pause 16}Devi averci riflettuto	un bel po'.
+"029"	Grazie mille, {emote: Curious}anche se non so come	ti sia venuta l'idea di regalarmi	{Article(word-dependant)}{0011-0003-0002-0000}!
+"030"	{emote: Surprise}Beh, di sicuro è un regalo molto	originale.{pause 16} Lo sapevo che con te non	si va mai sul banale. {pause 16}{emote: Delight}{capitalized}{catchphrase}!
+"031"
+"032"
+"033"	{emote: Sunny}Ricorderò questo regalo con tanto	affetto, {pause 16}{emote: Sheepishness}almeno fino al prossimo	compleanno. {pause 16}{capitalized}{catchphrase}!
+"034"	{emote: Worry}Non vorrei averti dato	l'impressione sbagliata,{pause 8} {Player nickname (green)}.{Wait for input}{emote: Happiness}Per me quel che importa è che tu	sia venut{o/a} alla mia festa. {pause 16}Il regalo	è una cosa in più!{Wait for input}{emote: Sheepishness}Certo, meglio una cosa in più	che una in meno.{pause 8}.{pause 8}.{pause 8}
+"035"	{emote: Shyness}Ohhh, {pause 8}non so cosa farei senza	{0011-0001-0002-0000} e te.{pause 16}{emote: Delight} Vi ringrazio tanto!
+"036"	{emote: Shyness}A dirla tutta,{pause 8} non ero neanche sicura	che ti saresti ricordat{o/a} del mio	compleanno. {pause 16}{emote: Sunny}È bello che tu sia qui!	Oh,{pause 8} ehm, {pause 8}a proposito.{pause 8}.{pause 32}.{pause 8}{emote: Mischief} Non è che	mi hai portato un regalino?{000f-0005-0004-0015-0028}	Certo!	No, mi dispiace.
+"037"	{emote: Happiness}Ohhh, {pause 8}{Player nickname (green)}.{pause 16} Mi hai reso felice	venendo al mio compleanno.{Wait for input}{emote: Sheepishness}Certo, non felicissima, considerando	che ho un anno in più, ma è pur	sempre una bella consolazione.	{emote: Mischief}Poi {pause 8}se tu avessi portato perfino	un regalo.{pause 8}.{pause 8}.{pause 8} sarebbe ancora meglio.{000f-0005-0004-0015-0028}	Ecco a te!	Non ci ho pensato...
+"038"	{emote: Greetings}Grazie di essere venut{o/a}, {pause 8}{Player nickname (green)}.	{pause 16}E c'è anche {0011-0001-0002-0000} con te,{pause 8}	che bello!{Wait for input}{emote: Curious}Hai portato anche.{pause 8}.{pause 8}.{pause 8}	un regalo per me?{000f-0005-0004-0015-0028}	Ma certo!	No, scusami.
+"039"	{emote: Joy}Sono davvero contenta del tuo	regalo,{pause 8} {Player nickname (green)}. {pause 16}Oh, te l'ho	già detto? {pause 16}{capitalized}{catchphrase}!
+"040"	{emote: Glee}Questa festa è splendida.	{pause 16}{emote: Delight}Non mi aspettavo dei regali	così meravigliosi! Grazie!
+"041"	{emote: Sunny}Grazie ancora,{pause 8} {Player nickname (green)}.	{pause 16}Si può sempre contare su di te.
+"042"	{emote: Happiness}Sono {Article(word-dependant)}{0005-001f-0002-cd00} fortunat{o/a/}	ad avere degli amici come voi.	{pause 16}{emote: Sorrow}Vi voglio bene!
+"043"	Mille grazie,{pause 8} {Player nickname (green)}.{pause 16}{emote: Love} Non	dimenticherò mai questa festa!
+"044"	{emote: Curious}Vai già via?{pause 16} {emote: Shyness}{capitalized}{catchphrase},{pause 8}	grazie di tutto. {pause 16}Ho apprezzato	molto il tuo regalo.	{emote: Sheepishness}Prometto che me ne ricorderò	quando ne comprerò uno per te.{pause 8}.{pause 8}.{pause 8}
+"045"	{emote: Surprise}Ferm{o/a} lì, {pause 8}aspetta!{Wait for input}{emote: Glee}Voglio ringraziarti ancora una volta	prima che te ne vada. {pause 16}La festa non	sarebbe stata la stessa senza di te.	{emote: Sunny}E il tuo regalo mi è piaciuto	tantissimo.{pause 16} {capitalized}{catchphrase}!
+"046"	{emote: Alarmed}Cosa? {pause 16}Vai via di già?{pause 16} {emote: Sheepishness}È proprio vero:	il tempo vola quando ci si diverte.{Wait for input}{emote: Happiness}Di nuovo grazie per il tuo regalo.{pause 16}	Mi è piaciuto davvero!
+"047"	{emote: Curious}Oh,{pause 8} stai andando via?{pause 16} {emote: Anger}E certo,{pause 8}	finiscono gli stuzzichini e sparisci!{Wait for input}{emote: Laughter}Suvvia, si scherza.{pause 16} Grazie per essere	venut{o/a},{pause 16} è stato un compleanno	memorabile!
+"048"	{emote: Curious}Stai andando via, {pause 8}{Player nickname (green)}?{pause 16}	{emote: Agreement}Certo,{pause 8} anche la festa più bella,	dopo un po', stanca.	{emote: Glee}Grazie di tutto. {pause 16}{emote: Delight}È stato uno dei	compleanni più belli della mia vita!
+"049"	{emote: Shocked}Vai di fretta, {pause 8}eh?{pause 16} {emote: Soft Smile}{capitalized}{catchphrase}.{pause 16}	Grazie per essere passat{o/a}!{Wait for input}{emote: Distress}Vuoi vedere che adesso se ne	andranno via tutti?
+"050"
+"051"	{emote: Alarmed}Oh!{pause 32}	Stai già andando via?{Wait for input}{emote: Soft Smile}Grazie ancora per il regalo.{pause 32}	Te ne farò uno anch'io, quando	verrà il tuo compleanno!{Wait for input}{emote: Agreement}A proposito! Oggi si festeggia	anche il compleanno di {0011-0001-0002-0001}!{Wait for input}{emote: Happiness}Va{gli/lle/} a fare gli auguri,	mi raccomando, {pause 8}{catchphrase}!
+"052"	{emote: Sunny}Aspetta un momento, {pause 16}{Player nickname (green)}!{Wait for input}{emote: Happiness}Volevo ringraziarti di essere venut{o/a}.	{pause 16}Il tuo regalo mi ha davvero fatto	piacere, {pause 8}{catchphrase}!	{emote: Soft Smile}Ora mi metterò subito a pensare	a cosa prenderti quando verrà	il tuo compleanno!{Wait for input}{emote: Alarmed}Ah! Forse non lo sai, ma{pause 20}{emote: Soft Smile} c'è una	festa di compleanno anche a casa di{pause 16}	{0011-0001-0002-0001}! Ti consiglio di andarci!
+"053"	{emote: Alarmed}Te ne vai di già?{Wait for input}{emote: Soft Smile}Grazie ancora di essere passat{o/a}!{pause 32}	Vedrai che bel regalo che ti farò{pause 16}	quando sarà il tuo compleanno!	{emote: Agreement}Sapevi che io {000e-0011-0000} {0011-0001-0002-0001}	compiamo gli anni lo stesso	giorno, {pause 8}{catchphrase}?	{emote: Soft Smile}Sicuramente è lì che ti aspetta!	Vai a far{gli/le/} gli auguri!
+"054"	{emote: Alarmed}Te ne stai già andando,{pause 16} {Player nickname (green)}?{Wait for input}{emote: Shyness}Volevo ringraziarti per essere	venut{o/a} alla mia festa di	compleanno. Sei stat{o/a} carin{o/a}.	{emote: Soft Smile}Oggi è anche il compleanno	di {0011-0001-0002-0001}, lo sapevi?{Wait for input}{emote: Agreement}Vedrai che anche {lui/lei/} spera di	ricevere un bel regalo da te!	Non deluderl{o/a/}!
+"055"	Oh{pause 8}.{pause 8}.{pause 8}.{pause 8} stai andando	a casa, {pause 8}{catchphrase}?{Wait for input}{emote: Soft Smile}Mi ha fatto proprio piacere	vederti, oggi. {pause 16}Grazie di essere	venut{o/a}, {pause 8}{Player nickname (green)}.	{emote: Sunny}Prima che mi dimentichi{pause 4}.{pause 4}.{pause 4}.{pause 4} oggi è	anche il compleanno di {0011-0001-0002-0001}!{Wait for input}{emote: Agreement}Vedrai che anche {lui/lei/} spera	di ricevere un regalo di	compleanno da te!	{emote: Reset}{Gray}Proprio come la sottoscritta{pause 8}.{pause 8}.{pause 8}.{Color Reset}
+"056"	{emote: Shocked}Ah{pause 4}.{pause 4}.{pause 4}.{pause 4} stai già andando via, car{o/a}?{Wait for input}{emote: Soft Smile}Sei stat{o/a} gentile a fare un salto	oggi. {pause 32}Ci siamo divertit{i/e} insieme,	non credi, {pause 8}{catchphrase}?	{emote: Reset}Andrai anche alla festa di	compleanno di {0011-0001-0002-0001}?{Wait for input}{emote: Anger}Non dimenticarti di portar{gli/le/}	un regalo!{pause 16} Non si va alle feste	di compleanno a mani vuote!	{Gray}{emote: Shyness}In effetti, {pause 16}sto ancora aspettando	di ricevere {pause 8}il mio{pause 8}.{pause 8}.{pause 8}.{Color Reset}
 == 4 ==
-"001"	{emote: Happiness}
-"002"	{emote: Greetings}
-"003"	{emote: Surprise}
-"004"	{emote: Sunny}
-"005"	{emote: Sunny}
-"006"	{emote: Thought}
-"007"	{emote: Alarmed}
-"008"	{emote: Worry}
-"009"	{emote: Soft Smile}
-"010"	{emote: Delight}
-"011"	{emote: Love}
-"012"	{emote: Happiness}
-"013"	{emote: Love}
-"014"	{emote: Shocked}
-"015"	{emote: Shocked}
-"016"	{capitalized}
-"017"	{emote: Alarmed}
-"018"	{emote: Shocked}
-"019"	{emote: Aggravation}
-"020"	{emote: Thought}
-"021"	{emote: Alarmed}
-"022"	{emote: Thought}
-"023"	{emote: Disbelief}
-"024"	{emote: Laughter}
-"025"	{emote: Shocked}
-"026"	{emote: Love}
-"027"	{emote: Sheepishness}
-"028"	{emote: Shocked}
-"029"	{emote: Alarmed}
-"030"	{emote: Surprise}
-"031"	
-"032"	
-"033"	{emote: Sunny}
-"034"	{emote: Worry}
-"035"	{emote: Shyness}
-"036"	{emote: Shyness}
-"037"	{emote: Happiness}
-"038"	{emote: Greetings}
-"039"	{emote: Joy}
-"040"	{emote: Sunny}
-"041"	{emote: Sunny}
-"042"	{emote: Happiness}
-"043"	{emote: Happiness}
-"044"	{emote: Curious}
-"045"	{emote: Surprise}
-"046"	{emote: Alarmed}
-"047"	{emote: Curious}
-"048"	{emote: Curious}
-"049"	{emote: Shocked}
-"050"	
-"051"	{emote: Alarmed}
-"052"	{emote: Sunny}
-"053"	{emote: Alarmed}
-"054"	{emote: Alarmed}
-"055"	{emote: Alarmed}
-"056"	{emote: Alarmed}
+"001"	{emote: Happiness}Oh!{pause 20} Da ist {Player nickname (green)}!{pause 20}{emote: Sunny}	Wie erfreulich, dass du gekommen	bist.{pause 20} Tritt ruhig näher!
+"002"	{emote: Greetings}Oh,{pause 8} {Player nickname (green)}!{pause 20} Die Feier hat	soeben begonnen. {pause 20}Komm doch	herein!
+"003"	{emote: Surprise}Oh!{pause 20} Wir haben dich bereits erwartet.	{pause 20}Dann kann die Feier jetzt richtig	losgehen,{pause 20}{emote: Flourish} {catchphrase}!
+"004"	{emote: Sunny}Was für eine wundervolle Feier!{pause 20}	Es ist überaus erfreulich, dass all	meine Freunde gekommen sind.	{emote: Sheepishness}Ich habe ausdrücklich betont:{pause 20} „Bitte	keine Geschenke!“{pause 40} Aber {0011-0001-0002-0000}	hat mir trotzdem was mitgebracht.	Sag bloß nicht, dass du ebenfalls	ein Geschenk für mich hast!{000f-0005-0004-0015-0028}	Doch, habe ich!	Äh... nein.
+"005"	{emote: Sunny}Willkommen zur Feier, {pause 8}{Player nickname (green)}!{Wait for input}{emote: Mischief}Die Geschenke sind dort drüben	gestapelt, {pause 8}falls du etwas	beizusteuern hast{pause 8}.{pause 8}.{pause 8}.{000f-0005-0004-0015-0028}	Oh, prima!	Nein, hab ich nicht.
+"006"	{emote: Thought}Du bist doch nicht etwa mit leeren	Händen gekommen?{pause 40}{emote: Anger} Hast du mir ein	Geschenk gebracht?{pause 20} Ja oder nein?{000f-0005-0004-0015-0028}	Ja, selbstverständlich!	Nein, hab ich vergessen.
+"007"	{emote: Alarmed}Ach{pause 8}.{pause 8}.{pause 8}.{pause 20} Nun, {pause 8}das ist nicht weiter	schlimm.{pause 20} Deine Anwesenheit ist	mir Geschenk genug.	{emote: Anger}{Text size 75%}Obwohl ein richtiges Geschenk auch nicht	verkehrt gewesen wäre...{Text size 100%}
+"008"	{emote: Worry}Nun gut.{pause 20} Ich mag Geschenke, {pause 8}aber	ich mag es auch, Zeit mit meinen	Freunden zu verbringen.	{emote: Happiness}Daher freue ich mich einfach,	dass du gekommen bist, {pause 8}{Player nickname (green)}.
+"009"	{emote: Soft Smile}Nun,{pause 8} ich brauche kein Geschenk, um	zu wissen, dass wir befreundet sind.{pause 20}	{emote: Sunny}Ich freue mich, dass du da bist!
+"010"	{emote: Delight}Oh, wie erfreulich!{pause 20} {emote: Daydreaming}Was es wohl ist?{pause 40}	Ich muss es unverzüglich aufmachen,	{pause 8}{catchphrase}!
+"011"	{emote: Love}Ach, {pause 8}das wäre doch nicht nötig	gewesen.{pause 20}{emote: Sunny} Aber ich freue mich	natürlich trotzdem darüber!
+"012"	{emote: Happiness}Ach, {pause 8}das ist äußerst nett von dir!{pause 20}	Darf ich es gleich aufmachen?{Wait for input}Moment!{pause 20} Was frage ich eigentlich?{pause 20}	Das ist doch meine Feier. {pause 20}{emote: Thought}Da kann	ich es aufmachen, wann ich mag!
+"013"	{emote: Love}Dieser Kuchen sieht fantastisch	aus!{pause 20} Am liebsten würde ich ihn	ganz allein verspeisen!	{emote: Alarmed}Oh!{pause 20} So meinte ich das gar nicht.	{pause 20}Natürlich teile ich ihn gern{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Soft Smile}	Danke fürs Mitbringen, {pause 8}{Player nickname (green)}.
+"014"	{emote: Shocked}Oh, {pause 8}{Article(word-dependant)}{0011-0003-0002-0000}!{pause 40}	{emote: Thought}Erstaunlich.{pause 20} {capitalized}{der/die/das} sieht genauso	aus wie {meiner/meine/meins} da drüben.	{emote: Sheepishness}Aber das zeigt lediglich, dass du	genau weißt, was mir gefällt,{pause 8}	{Player nickname (green)}.{pause 20} Klasse, {catchphrase}!
+"015"	{emote: Shocked}Sieh mal einer an!{pause 20}	{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}!{pause 20}	Genau wie {der, den/die, die/das, das} ich anhabe!	{emote: Delight}Dieses Outfit ist fantastisch.{pause 20} Und	jetzt habe ich sogar ein zweites,	falls das andere in der Wäsche ist!	{emote: Love}Vielen Dank, {pause 8}{Player nickname (green)}!{pause 20} Das ist	ein wirklich exzellentes Geschenk.
+"016"	{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}!{pause 20}	{emote: Thought}Moment mal! {pause 20}Wo habe ich {den/die/das}	schon einmal gesehen?	{emote: Disbelief}Huch!{pause 20} An dir natürlich!{pause 20} Du trägst	{ihn/sie/es} gerade!{pause 20} {emote: Laughter}Hahaha!{pause 40} Das ist ja zum	Schreien komisch, {pause 8}{catchphrase}!	{emote: Sheepishness}Nun können wir uns wie Zwillinge	anziehen.{pause 20} Du hast wirklich verrückte	Ideen!
+"017"	{emote: Alarmed}Sehe ich richtig?{pause 20} Ist das wirklich	{Article(word-dependant)}{0011-0003-0002-0000}?{Wait for input}{emote: Love}Wie überaus erfreulich!{pause 20} Ein solch	erlesenes Geschenk bekommt man	selten!{pause 20} Genau das, was ich wollte!
+"018"	{emote: Shocked}Oh! {pause 40}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}!{pause 20}	{emote: Delight}Du weißt in der Tat, was mir gefällt!{pause 20}	Vielen lieben Dank, {pause 8}{catchphrase}!
+"019"	{emote: Aggravation}Hast du etwa mein Tagebuch	gelesen, {pause 8}{Player nickname (green)}?!{pause 40}{emote: Love} Genau das	habe ich mir nämlich gewünscht!	{capitalized}{einen/eine/ein} {0011-0003-0002-0000}!{pause 40}	Vielen herzlichen Dank!
+"020"	{emote: Thought}Oh!{pause 40} {capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?{pause 20}	{emote: Resigned}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} So etwas hatte ich ja nun	überhaupt nicht erwartet.	{emote: Happiness}Na ja. {pause 20}Der Gedanke zählt.{pause 40}	{emote: Sunny}Vielen Dank, {pause 8}{Player nickname (green)}!
+"021"	{emote: Alarmed}Oh,{pause 8} {ein/eine/ein} {0011-0003-0002-0000}!{pause 20}	{emote: Agreement}Welch unerwartetes und höchst	interessantes Geschenk.{pause 20} Danke sehr!
+"022"	{emote: Thought}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?{Wait for input}	{emote: Alarmed}Oh,{pause 8} das tut mir leid, wenn ich den	falschen Eindruck erweckt habe!	{emote: Worry}Ich bin ganz und gar nicht	enttäuscht. {pause 20}Ich habe wohl	nur etwas anderes erwartet.	{emote: Glare}Ich wusste, ich kann darauf zählen,	dass du mich an meinem Geburtstag	überraschst, {Player nickname (green)}!
+"023"	{emote: Disbelief}Huch!{pause 20} Was soll denn das bitte	schön?{pause 20} {emote: Aggravation}Sternis sind doch kein	angemessenes Geschenk!	{emote: Daydreaming}Sicher könnte ich mir mit den	Sternis etwas Schönes kaufen,	das mir gefällt...	{emote: Resigned}Aber darum geht es gar nicht.{pause 20}	Du solltest dir wirklich etwas	mehr Mühe geben, {pause 8}{Player nickname (green)}.
+"024"	{emote: Laughter}Hahaha!{pause 20} Ach, {pause 8}{Player nickname (green)}!{pause 20} Dein Sinn	für Humor ist in der Tat äußerst	erfrischend!	{emote: Soft Smile}Gibst mir Müll zum Geburtstag{pause 8}.{pause 8}.{pause 8}.{pause 20}	Spaßvogel!{pause 20} Den kannst du eigentlich	auch gleich für mich recyceln.
+"025"	{emote: Shocked}Du schenkst mir also Rüben?{pause 20}	Das ist aber{pause 8}.{pause 8}.{pause 8}.{pause 20} also, äh{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}Möchtest du mir etwas durch die	Rübe mitteilen,{pause 8} {Player nickname (green)}?{pause 20}	Nun ja, vielen Dank!
+"026"	{emote: Love}Mmmh{pause 8}.{pause 8}.{pause 8}.{pause 20} Das sieht aber äußerst	köstlich aus!{pause 20} Vielen Dank für dieses	kulinarische Geschenk,{pause 8} {Player nickname (green)}!
+"027"	{emote: Sheepishness}Oh, {pause 8}das war jetzt aber ganz schön	frech von dir, {pause 8}{catchphrase}{pause 8}.{pause 8}.{pause 8}.
+"028"	{emote: Shocked}Oh! {pause 40}Wie ausgesprochen aufmerksam	von dir, {pause 8}{catchphrase}!{pause 20} Das ist mal	etwas anderes!	Vielen lieben Dank, {pause 8}{Player nickname (green)}!
+"029"	{emote: Alarmed}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?!{pause 40}{emote: Happiness}	Wo hast du so etwas denn	aufgetrieben?{pause 20} Aber danke!
+"030"	{emote: Surprise}Das ist aber ein äußerst kreatives	Geschenk!{pause 20}{emote: Delight} Auf dich ist wirklich	immer Verlass.	{emote: Delight}Vielen herzlichen Dank,{pause 8}	{Player nickname (green)}!
+"031"
+"032"
+"033"	{emote: Sunny}Ich werde das Geschenk für immer	in Ehren halten!{pause 40}{emote: Sheepishness} Oder zumindest bis	zu meinem nächsten Geburtstag!
+"034"	{emote: Worry}Ich hoffe, du hast keinen falschen	Eindruck bekommen.{pause 20} {emote: Happiness}Ich freue mich	wirklich, dass du gekommen bist.	Ein schönes Geschenk ist einfach	noch das Sahnehäubchen obendrauf!
+"035"	{emote: Shyness}Ach, {pause 8}ihr seid wirklich die Besten{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Delight}Vielen lieben Dank an dich und	{0011-0001-0002-0000}!
+"036"	{emote: Shyness}Um ehrlich zu sein, war ich mir	nicht sicher, ob du überhaupt	an meinen Geburtstag denkst.	{emote: Sunny}Umso mehr freue ich mich, dass du	hier bist!{pause 20} Da wir gerade dabei sind{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Mischief}	Bekomme ich auch ein Geschenk?{000f-0005-0004-0015-0028}	Natürlich!	Von mir nicht!
+"037"	{emote: Happiness}Es freut mich sehr, dass du zu	meiner Feier gekommen bist,{pause 8}	{Player nickname (green)}.	{emote: Sheepishness}Das macht das Älterwerden gleich	erträglicher.{Wait for input}{emote: Mischief}Den gleichen Effekt haben übrigens	Geschenke{pause 8}.{pause 8}.{pause 8}.{pause 20} Hast du mir denn eins	mitgebracht?{000f-0005-0004-0015-0028}	Natürlich! Bitte schön!	Äh, nein, leider nicht.
+"038"	{emote: Greetings}Vielen lieben Dank,{pause 8} dass du 	vorbeigekommen bist, {pause 8}{Player nickname (green)}.{pause 20}	Und danke auch dir, {pause 8}{0011-0001-0002-0000}!	{emote: Curious}Habt ihr mir auch Geschenke	mitgebracht, {pause 8}wie es sich in	kultivierten Kreisen gehört?{000f-0005-0004-0015-0028}	Natürlich!	Hoppla! Nein.
+"039"	{emote: Joy}Ich mag das Geschenk von dir	wirklich gern, {pause 8}{Player nickname (green)}.{pause 20}	Habe ich das bereits erwähnt?
+"040"	{emote: Sunny}Was für eine hervorragende Feier!{pause 20}	{emote: Delight}Ich hätte nicht gedacht, dass ihr mir	so schöne Geschenke mitbringt!
+"041"	{emote: Sunny}Nochmals vielen Dank für alles,{pause 8}	{Player nickname (green)}!{pause 20} Es ist wundervoll,	so gute Freunde zu haben.
+"042"	{emote: Happiness}Ich habe wirklich Glück, so nette	Freunde wie euch zu haben.{pause 20}{emote: Sorrow} Oh nein!{pause 40}	Jetzt werde ich ganz emotional...
+"043"	{emote: Happiness}Danke sehr, {pause 8}{Player nickname (green)}.{pause 20}{emote: Love} Diese Feier	werde ich niemals vergessen!
+"044"	{emote: Curious}Gehst du schon wieder?{pause 20} {emote: Shyness}Dann danke	ich dir nochmals für dein Kommen	und für das schöne Geschenk.	{emote: Sheepishness}Ich werde es mir wieder ins	Gedächtnis rufen, wenn du 	nächstes Mal Geburtstag hast.
+"045"	{emote: Surprise}Halt!{pause 20} Warte doch!{Wait for input}Bevor du gehst, möchte ich mich	noch einmal dafür bedanken, dass	du gekommen bist.	{emote: Sunny}Ohne dich wäre die Feier nur halb	so schön gewesen.{pause 20} Und danke auch	für das Geschenk, {pause 8}{catchphrase}!
+"046"	{emote: Alarmed}Was?!{pause 20} Du willst schon gehen?{pause 20}	Ist es wirklich schon so spät?{pause 40}	{emote: Happiness}Wie die Zeit vergeht!	{emote: Sheepishness}Dann danke ich dir noch einmal	dafür, dass du gekommen bist.	{pause 40}Und danke auch für das Geschenk!
+"047"	{emote: Curious}Stiehlst du dich etwa schon davon?	{pause 40}{emote: Anger}Kaum geht uns hier das Essen aus,	verschwindest du, {pause 8}oder wie?	{emote: Laughter}Haha!{pause 40}{emote: Happiness} Ich scherze doch nur.{pause 20}	Vielen Dank, dass du da warst.{pause 20}	Es war ein schöner Geburtstag!
+"048"	{emote: Curious}Du gehst schon, {pause 8}{Player nickname (green)}?{pause 20}	{emote: Agreement}Na ja.{pause 20} Die Feier kann schließlich	nicht ewig weitergehen.	{emote: Sunny}Nochmals vielen lieben Dank für	alles.{pause 20} Es war wirklich eine sehr	schöne Geburtstagsfeier!
+"049"	{emote: Shocked}Du musst wieder los?{pause 40} {emote: Soft Smile}Gut! {pause 20}Ich	verstehe schon, {pause 8}{catchphrase}.{pause 40}	Danke, dass du da warst!	{emote: Distress}Hoffentlich setzt jetzt nicht die	Aufbruchsstimmung ein und alle	anderen wollen plötzlich auch gehen!
+"050"
+"051"	{emote: Alarmed}Wie?{pause 16} Du verlässt mich schon jetzt?{Wait for input}{emote: Soft Smile}Nun, recht herzlichen Dank für das	Präsent.{pause 20} Ich werde mich an deinem	Geburtstag erkenntlich zeigen{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Agreement}Apropos: {pause 16}Mir kam zu Ohren, {pause 8}dass	{0011-0001-0002-0001} ebenfalls heute zum	Wiegenfeste lädt.{Wait for input}{emote: Happiness}Es wäre unhöflich, {pause 8}{0011-0001-0002-0001}	warten zu lassen. {pause 20}Geh ruhig, {pause 8}ich	wünsche viel Freude, {pause 8}{catchphrase}.
+"052"	{emote: Sunny}So warte doch bitte einen	Augenblick, {pause 8}{Player nickname (green)}!{Wait for input}{emote: Happiness}Vielen Dank für dein Kommen.	{pause 20}Dein aufmerksames Geschenk hat	mich zutiefst bewegt.	{emote: Soft Smile}Auch ich werde ein entsprechendes	Präsent für deinen Geburtstag	vorbereiten, {pause 8}dies sei versprochen!{Wait for input}{emote: Alarmed}Vielleicht kam dir zu Ohren, dass	auch {0011-0001-0002-0001} heute zu einer	Geburtstagsfeier herzlich einlädt!	{000e-0012-0012-010e-0004-0045-0072-0006-0053-0069-0065-0000} würde sich sicher über eine	Stippvisite von dir freuen.
+"053"	{emote: Alarmed}Oh, {pause 8}du gedenkst, schon so früh	zu gehen?{Wait for input}{emote: Soft Smile}Ich bedanke mich für dein Kommen!{pause 20}	Zu deinem Geburtstag werde auch	ich dich reich beschenken.	{emote: Agreement}Oh, {pause 8}ich hoffe, du hörtest es bereits:{pause 16}	{capitalized}{0011-0001-0002-0001} und meine Wenigkeit	teilen uns quasi den Geburtstag.	{emote: Soft Smile}Auch {0011-0001-0002-0001} erwartet dich also	sicherlich schon als Gast der Feier.{pause 20}	Ich möchte dich nicht aufhalten.
+"054"	{emote: Alarmed}Du bist bereits im Begriff zu	gehen, {pause 8}{Player nickname (green)}?{Wait for input}{emote: Shyness}Vielen Dank, {pause 8}dass du deine wertvolle	Zeit für meine Feier aufgewendet	hast{pause 8}.{pause 8}.{pause 8}.	{emote: Soft Smile}Nun, {0011-0001-0002-0001} feiert heute	ebenfalls Geburtstag, wie mir	zugetragen wurde, {pause 8}{catchphrase}.{Wait for input}{emote: Agreement}Über deine Anwesenheit würde {er/sie/}	sich sicher freuen – {pause 20}ebenso wie über	ein kleines Geschenk{pause 8}.{pause 8}.{pause 8}.
+"055"	{emote: Alarmed}Oh{pause 8}.{pause 8}.{pause 8}.{pause 20} Du möchtest nicht länger	bleiben, {pause 8}{catchphrase}?{Wait for input}{emote: Soft Smile}Umso mehr weiß ich es zu schätzen,{pause 8}	dass du die Zeit erübrigen konntest,{pause 8}	überhaupt vorbeizusehen. {pause 20}Ich danke!{pause 32}	{emote: Alarmed}{pause 8}Bevor ich es vergesse{pause 8}.{pause 8}.{pause 8}.{pause 20}	Heute feiert zufälligerweise auch	{0011-0001-0002-0001} Geburtstag.{Wait for input}{emote: Agreement}Von einem Besuch und einem	Geschenk wäre {er/sie/} sicher	entzückt.{pause 20} {Gray}{emote: Reset}(Und nicht nur {er/sie/}{pause 8}.{pause 8}.{pause 8}.){Color Reset}
+"056"	{emote: Alarmed}Oh, du{pause 8}.{pause 8}.{pause 8}.{pause 8} möchtest schon gehen?{Wait for input}{emote: Soft Smile}Ich danke dir dennoch für dein	Kommen. {pause 20}Wie immer habe ich mich	dank deiner köstlich amüsiert.	Wirst du auch die Geburtstagsfeier	von {0011-0001-0002-0001} beehren?{Wait for input}{emote: Anger}Ich empfehle dir, {pause 8}ein Geschenk	dorthin mitzubringen, {pause 8}{catchphrase}!{Wait for input}{emote: Shyness}{pause 16}Nicht, {pause 5}dass ich aus Erfahrung	spräche, {pause 8}wie es sich anfühlt,{pause 8}	ein Geschenk von dir zu erhalten{pause 8}.{pause 8}.{pause 8}.

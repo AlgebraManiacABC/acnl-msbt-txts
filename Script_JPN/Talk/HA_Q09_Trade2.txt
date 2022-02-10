@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Laughter}
-"003"	{emote: Surprise}
-"004"	{emote: Alarmed}
-"005"	{emote: Worry}
-"006"	{emote: Reset}
-"007"	{emote: Disbelief}
-"008"	{emote: Worry}
-"009"	{emote: Shocked}
-"010"	{emote: Worry}
-"011"	{emote: Mistaken}
-"012"	{emote: Disagreement}
+"001"	{emote: Alarmed}おー！{pause 20}	{0011-0003-0002-0000}が	ほしいのか？！{Wait for input}{emote: Happiness}それは　かなり	{ruby (charSpan 1): め}目を{ruby (charSpan 1): ひ}引くよなー{Wait for input}{emote: Thought}うーーん、{pause 20}	{ruby (charSpan 2): てばな}手放すのは　おしいけど{pause 8}・{pause 8}・{pause 8}・{pause 40}	{Blue}{emote: Happiness}{Number (0xa)}ベル　{Color Reset}でどうだ？　{pause 8}{catchphrase}？{confirmation-02}{000f-0005-0004-0015-0028}	{ruby (charSpan 1): ほ}欲しい！	いらない
+"002"	{emote: Laughter}ハハッ！{pause 20}	{0011-0003-0002-0000}か！{Wait for input}{Player nickname (green)}なら　それを{ruby (charSpan 1): えら}選ぶって	{ruby (charSpan 1): おも}思ってたよ、{pause 8}{catchphrase}{pause 40}{emote: Soft Smile}{Wait for input}{emote: Thought}そうだなー{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Blue}{Number (0xa)}ベル{Color Reset}だったら、	{ruby (charSpan 1): う}売ってやるぞー？{confirmation-02}{000f-0005-0004-0015-0028}	{ruby (charSpan 1): ほ}欲しい！	いらない
+"003"	{emote: Surprise}{0007-000b-0000}やっぱり　{0011-0003-0002-0000}かー！{Wait for input}	{emote: Agreement}オマエ　ずーっと	それ{ruby (charSpan 1): み}見てたもんな！{Wait for input}{emote: Thought}うーん、そうだなー{pause 8}・{pause 8}・{pause 8}・{pause 20}	オイラの{ruby (charSpan 1): も}持ち{ruby (charSpan 1): もの}物ってことで	プレミアがついて{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}{Blue}{Number (0xa)}ベル　{Color Reset}で{ruby (charSpan 1): か}買ってくれるか？{confirmation-02}{000f-0005-0004-0015-0028}	{ruby (charSpan 1): ほ}欲しい！	いらない
+"004"	{emote: Alarmed}おー！{pause 20}	{0011-0003-0002-0000}か？！{Wait for input}って、{pause 20}{emote: Resigned}オマエ　{ruby (charSpan 2): にもつ}荷物がパンパンじゃん{pause 40}	もっと　{ruby (charSpan 2): みがる}身軽にしてから	{ruby (charSpan 1): い}言えよなー{pause 8}・{pause 8}・{pause 8}・
+"005"	{emote: Worry}なんだー{pause 20}	{ruby (charSpan 1): き}気が{ruby (charSpan 1): か}変わったのか{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Agreement}でも、{pause 20}そういう{ruby (charSpan 2): れいせい}冷静な　はんだんも、	スポーツマンには　{ruby (charSpan 2): ひつよう}必要だ！
+"006"	{emote: Reset}アレッ？！{pause 20}	お{ruby (charSpan 1): かね}金が{ruby (charSpan 1): た}足りないぞー？{Wait for input}まぁ、{ruby (charSpan 2): きょう}今日は	{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物する{ruby (charSpan 1): き}気で　{ruby (charSpan 1): き}来てないもんな{pause 40}	また{ruby (charSpan 2): こんど}今度、{ruby (charSpan 1): う}売ってやるよ
+"007"	{emote: Disbelief}{0007-000b-0000}ナニッ？！{pause 20}	{0011-0003-0002-0000}？！{Wait for input}{emote: Worry}それは　オイラの{ruby (charSpan 2): ともだち}友達{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): かるがる}軽々しく　{ruby (charSpan 1): う}売ったりできないんだ
+"008"	{emote: Worry}ごめん　{Player nickname (green)}{pause 40}	{0011-0003-0002-0000}だけは　ムリだー{Wait for input}オイラの{ruby (charSpan 2): だいじ}大事な	ナカマなんだよ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sunny}{ruby (charSpan 2): じぶん}自分でつかまえてくれ、{pause 8}{catchphrase}
+"009"	{emote: Shocked}{0007-000b-0000}げげっ！{pause 20}	それは　オイラの	お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りの{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}ごめんなー{pause 20}	ちがうのにしてくれ、{pause 8}{catchphrase}
+"010"	{emote: Worry}ごめんな、{Player nickname (green)}！{pause 20}	それは　オイラの	{ruby (charSpan 2): だいじ}大事なモノなんだ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Disagreement}コレだけは	{ruby (charSpan 1): う}売れないよ、{pause 8}{catchphrase}
+"011"	{emote: Mistaken}あー{pause 8}・{pause 8}・{pause 8}・{pause 20}	それだけは　ちょっと{ruby (charSpan 1): はず}外してくれー{Wait for input}{emote: Distress}それが{ruby (charSpan 1): な}無くなったら、{pause 20}	オイラ{ruby (charSpan 2): せいかつ}生活できなく	なっちゃうからな、{pause 8}{catchphrase}
+"012"	{emote: Disagreement}ごめん、{pause 20}それは{ruby (charSpan 1): う}売れないんだ{Wait for input}	{ruby (charSpan 1): ほか}他のを　{ruby (charSpan 1): えら}選んでくれよ、{pause 8}{catchphrase}

@@ -1,65 +1,65 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Sheepishness}
-"003"	{emote: Sheepishness}
-"004"	{0009-0002-0008-05-00-06-00-07-00-08-00}
-"005"	{emote: Worry}
-"006"	{emote: Worry}
-"007"	{emote: Worry}
-"008"	{emote: Inspired}
-"009"	{0009-0002-0008-0a-00-0b-00-0c-00-0d-00}
-"010"	{emote: Happiness}
-"011"	{emote: Glee}
-"012"	{emote: Love}
-"013"	{emote: Happiness}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Thought}
-"016"	{emote: Thought}
-"017"	{0009-0000-0004-12-00-13-00}
-"018"	{emote: Surprise}
-"019"	{emote: Agreement}
-"020"	{emote: Glee}
-"021"	
-"022"	
-"023"	{emote: Happiness}
-"024"	{emote: Sunny}
-"025"	{emote: Happiness}
-"026"	{emote: Alarmed}
-"027"	{emote: Soft Smile}
-"028"	{0009-0000-0004-1e-00-1f-00}
-"029"	{0009-0000-0004-20-00-21-00}
-"030"	{emote: Agreement}
-"031"	{emote: Agreement}
-"032"	{emote: Agreement}
-"033"	{emote: Agreement}
-"034"	
-"035"	{emote: Thought}
-"036"	{emote: Thought}
-"037"	{emote: Thought}
-"038"	{emote: Thought}
-"039"	{emote: Thought}
-"040"	{emote: Inspired}
-"041"	{emote: Inspired}
-"042"	{emote: Inspired}
-"043"	{emote: Inspired}
-"044"	{emote: Distress}
-"045"	
-"046"	
-"047"	
-"048"	
-"049"	{emote: Worry}
-"050"	{emote: Surprise}
-"051"	{emote: Surprise}
-"052"	{emote: Thought}
-"053"	{emote: Thought}
-"054"	{emote: Thought}
-"055"	
-"056"	
-"057"	{emote: Happiness}
-"058"	{emote: Happiness}
-"059"	{emote: Worry}
-"060"	{emote: Inspired}
-"061"	{emote: Soft Smile}
-"062"	{pause 5}
-"063"	{emote: Agreement}
-"064"	{pause 5}
+"001"	{emote: Happiness}{Player nickname (green)}さん！{0009-0000-0004-0002-0003}
+"002"	{emote: Sheepishness}さっき、{pause 10}{0005-0010-0002-0000}を	{ruby (charSpan 1): つく}作ってたんですけど{pause 10}	{ruby (charSpan 1): なに}何か　{ruby (charSpan 2): ものた}物足りないんですよね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"003"	{emote: Sheepishness}さっき、{pause 10}{0005-0013-0002-0000}を	{ruby (charSpan 1): つく}作ってたんですけど{pause 10}	{ruby (charSpan 1): なに}何か　{ruby (charSpan 2): ものた}物足りないんですよね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"004"	{0009-0002-0008-0005-0006-0007-0008}
+"005"	{emote: Worry}たぶん　{pause 8}かくし{ruby (charSpan 1): あじ}味に、{pause 10}{0005-001a-0002-cd00}を{ruby (charSpan 1): い}入れて	みたらいいと{ruby (charSpan 1): おも}思うんですけど{Wait for input}	{emote: Reset}{ruby (charSpan 2): ぶんりょう}分量は、{pause 10}どの{ruby (charSpan 1): くらい}位がいいと{emote: Curious}{ruby (charSpan 1): おも}思いますか？{0008-000a-0010-0011-0009-000e-0009-0009-000e-0009-0009}	いっぱい！	ほんの{ruby (charSpan 1): すこ}少し
+"006"	{emote: Worry}たぶん、{pause 10}	もう　ひと{ruby (charSpan 2): てま}手間　{pause 8}{ruby (charSpan 2): ひつよう}必要なんだと{ruby (charSpan 1): おも}思うんです！{pause 40}	{emote: Distress}どうしたら　いいでしょうか？{0008-000a-0010-0009-0009-000e-0009-0009-000e-0009-0011}	{ruby (charSpan 1): あたた}温める！	{ruby (charSpan 1): ひ}冷やす！
+"007"	{emote: Worry}たぶん　かくし{ruby (charSpan 1): あじ}味に{pause 10}	{ruby (charSpan 1): なに}何か　{pause 5}{ruby (charSpan 1): い}入れた{ruby (charSpan 1): ほう}方がいいと{ruby (charSpan 1): おも}思うんです！{pause 20}	{emote: Distress}どれが　いいと{ruby (charSpan 1): おも}思います？{0008-0002-0010-0009-0000-000e-0000-0011-0000-0014-0000}	{ruby (charSpan 1): しお}塩	{ruby (charSpan 2): さとう}砂糖	ナンプラー	{ruby (charSpan 2): あいじょう}愛情
+"008"	{emote: Inspired}もしかして、{pause 10}これに{ruby (charSpan 1): あ}合う{ruby (charSpan 1): の}飲み{ruby (charSpan 1): もの}物を	つけたらいいのかしら{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}{Player nickname (green)}さんだったら{pause 10}	どれが　おススメですか？{0008-0002-0010-0009-0000-0009-0000-000e-0000-0011-0000}	{0005-000e-0002-0000}	{0005-000e-0002-0001}	{0005-000e-0002-0002}	{0005-000e-0002-0003}
+"009"	{0009-0002-0008-000a-000b-000c-000d}
+"010"	{emote: Happiness}なるほど！{pause 30}	それは、いいアイデアですね{Wait for input}	さっそく　{ruby (charSpan 1): ため}試してみます{emote: Sunny}
+"011"	{emote: Glee}まぁ！　{pause 20}それ、{pause 10}とてもいいと{ruby (charSpan 1): おも}思います{pause 20}	{emote: Happiness}きっと　{pause 10}{ruby (charSpan 1): あじ}味が{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): た}立ちますね！
+"012"	{emote: Love}それ、{pause 15}わたしも{ruby (charSpan 2): さんせい}賛成です！{pause 20}	きっと　{pause 10}うまくいく{ruby (charSpan 1): き}気がします、{pause 10}{catchphrase}！
+"013"	{emote: Happiness}なるほど！{pause 20}	アドバイス　{pause 10}ありがとうございます！{Wait for input}	{emote: Glee}これで　{pause 10}{ruby (charSpan 2): せいこう}成功{ruby (charSpan 2): まちが}間違いなしです
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Thought}なるほど～{pause 40}	{emote: Soft Smile}やってみないと　わかりませんが{pause 10}	うまくいくかもしれませんね！
+"016"	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}それは　わたしも{pause 10}	{ruby (charSpan 1): ため}試したことありませんでした{Wait for input}	{ruby (charSpan 1): おも}思いきって　{pause 10}やってみます！
+"017"	{0009-0000-0004-0012-0013}
+"018"	{emote: Surprise}まぁ！{pause 20}	{emote: Glee}{ruby (charSpan 1): め}目が{ruby (charSpan 1): さ}覚めるような　{pause 8}アドバイスですね！{Wait for input}	ありがとうございます{emote: Sunny}
+"019"	{emote: Agreement}なるほど～！{emote: Soft Smile}{pause 20}	{emote: Happiness}そういえば、{pause 10}{ruby (charSpan 1): ほん}本にも	そんなこと　{pause 8}{ruby (charSpan 1): か}書いてあった{ruby (charSpan 1): き}気がします！
+"020"	{emote: Glee}やっぱり　{pause 3}{ruby (charSpan 2): いちばん}一番{ruby (charSpan 2): たいせつ}大切なのは、{pause 10}	{ruby (charSpan 1): こころ}心を{ruby (charSpan 1): こ}込めて　{ruby (charSpan 1): つく}作ることですよね！{Wait for input}	{emote: Love}{ruby (charSpan 2): さいこう}最高のスパイスだと　{pause 5}{ruby (charSpan 1): おも}思います！
+"021"
+"022"
+"023"	{emote: Happiness}{Player nickname (green)}さん{pause 20}	{ruby (charSpan 2): さいきん}最近、{pause 10}{ruby (charSpan 2): ちょうし}調子はどうですか？{0008-000a-0010-0018-0018-0019-0019-0019-0019-001a-001a}	サイコー	{ruby (charSpan 2): ぜんぜん}全然ダメ～
+"024"	{emote: Sunny}あら！　{pause 20}それは、いいですね！{Wait for input}{emote: Soft Smile}ところで、{pause 10}この{ruby (charSpan 1): まえ}前　{ruby (charSpan 1): よ}読んだ{ruby (charSpan 1): ほん}本に{pause 10}	{ruby (charSpan 2): しんり}心理クイズが　のってたんです{Wait for input}{emote: Reset}{ruby (charSpan 2): しつもん}質問の{ruby (charSpan 1): こた}答えによって{pause 10}	そのひとのことが{pause 8}	わかるみたいなんですけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}ちょっと{ruby (charSpan 1): ため}試させてください！{emote: Sunny}
+"025"	{emote: Happiness}あら、{pause 20}そうなんですか{Wait for input}{emote: Soft Smile}ところで、{pause 10}この{ruby (charSpan 1): まえ}前　お{ruby (charSpan 2): ともだち}友達に{pause 10}	{ruby (charSpan 2): しんり}心理クイズを　{ruby (charSpan 1): おし}教えていただいたんです{Wait for input}{emote: Reset}{ruby (charSpan 2): しつもん}質問の{ruby (charSpan 1): こた}答えによって{pause 10}	そのひとのことが{pause 8}	わかるみたいなんですけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}ちょっと{ruby (charSpan 1): ため}試させてください！{emote: Sunny}
+"026"	{emote: Alarmed}まぁ！　{pause 20}{ruby (charSpan 3): だいじょうぶ}大丈夫ですか？！{Wait for input}	{emote: Distress}{Player nickname (green)}さん、{pause 10}	{ruby (charSpan 2): いっしょ}一緒に　{pause 10}{ruby (charSpan 3): かいけつさく}解決策を{ruby (charSpan 1): かんが}考えましょう！
+"027"	{emote: Soft Smile}まず　{pause 10}3つほど	{ruby (charSpan 2): しつもん}質問に{ruby (charSpan 1): こた}答えてくださいね{Wait for input}{Player nickname (green)}さんの　{ruby (charSpan 1): す}好きなお{ruby (charSpan 2): てんき}天気は？{0008-0002-0010-001c-0000-001c-0000-001d-0000-001d-0000}	{ruby (charSpan 1): は}晴れ	くもり	{ruby (charSpan 1): あめ}雨	{ruby (charSpan 2): たいふう}台風
+"028"	{0009-0000-0004-001e-001f}
+"029"	{0009-0000-0004-0020-0021}
+"030"	{emote: Agreement}なるほど{pause 30}	{emote: Soft Smile}では、2つ{ruby (charSpan 1): め}目です{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{ruby (charSpan 1): いま}今、{pause 10}{ruby (charSpan 1): の}飲みたいものは？{0008-0002-0010-0023-0000-0025-0000-0026-0000-0027-0000}	{0005-000e-0002-0000}	{0005-000e-0002-0001}	{0005-000e-0002-0002}	{0005-000e-0002-0003}
+"031"	{emote: Agreement}では、{pause 8}2つ{ruby (charSpan 1): め}目です{pause 30}	{emote: Soft Smile}{ruby (charSpan 1): いま}今、{pause 8}{ruby (charSpan 1): き}聴きたい{ruby (charSpan 2): おんがく}音楽は？{0008-0002-0010-0023-0000-0024-0000-0026-0000-0027-0000}	{0005-0014-0002-0000}	{0005-0014-0002-0001}	{0005-0014-0002-0002}	{0005-0014-0002-0003}
+"032"	{emote: Agreement}では、{pause 8}2つ{ruby (charSpan 1): め}目です{pause 30}	{emote: Soft Smile}{0005-0004-0002-cd00}さんの　{pause 10}{ruby (charSpan 2): いんしょう}印象は？！{0008-0002-0010-0023-0000-0024-0000-0025-0000-0027-0000}	いいひと	{ruby (charSpan 2): おもしろ}面白い	{ruby (charSpan 1): はな}話しやすい	ちょっとコワい
+"033"	{emote: Agreement}では、{pause 8}2つ{ruby (charSpan 1): め}目です{pause 30}	{emote: Soft Smile}{ruby (charSpan 2): さいきん}最近、{pause 10}{ruby (charSpan 1): き}気になることは？{0008-0002-0010-0023-0000-0024-0000-0025-0000-0026-0000}	{0005-0004-0002-cd00}さんの{ruby (charSpan 2): かみがた}髪型	{0005-0004-0002-cd01}さんの{ruby (charSpan 2): ふくそう}服装	{0005-0004-0002-cd02}さんの{ruby (charSpan 1): くち}口ぐせ	{0005-0004-0002-cd03}さんの{ruby (charSpan 2): しょうらい}将来
+"034"
+"035"	{emote: Thought}なるほど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}では　{ruby (charSpan 2): さいご}最後に{pause 15}	あなたの{ruby (charSpan 1): う}生まれた{ruby (charSpan 2): きせつ}季節は？{0008-0002-0010-0028-0000-0029-0000-002a-0000-002b-0000}	{ruby (charSpan 1): はる}春	{ruby (charSpan 1): なつ}夏	{ruby (charSpan 1): あき}秋	{ruby (charSpan 1): ふゆ}冬
+"036"	{emote: Thought}なるほど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}では　{ruby (charSpan 2): さいご}最後に{pause 15}	{ruby (charSpan 1): いま}今、{pause 10}{ruby (charSpan 1): の}飲みたいものは？{0008-0002-0010-0029-0000-002a-0000-002b-0000-0028-0000}	{0005-000e-0002-0000}	{0005-000e-0002-0001}	{0005-000e-0002-0002}	{0005-000e-0002-0003}
+"037"	{emote: Thought}なるほど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}では　{ruby (charSpan 2): さいご}最後に{pause 15}	{ruby (charSpan 1): いま}今、{ruby (charSpan 1): き}聴きたい{ruby (charSpan 2): おんがく}音楽は？{0008-0002-0010-002a-0000-002b-0000-0028-0000-0029-0000}	{0005-0014-0002-0000}	{0005-0014-0002-0001}	{0005-0014-0002-0002}	{0005-0014-0002-0003}
+"038"	{emote: Thought}なるほど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}では　{ruby (charSpan 2): さいご}最後に{pause 10}	{0005-0004-0002-cd00}さんのこと　{pause 10}どう{ruby (charSpan 1): おも}思いますか？{0008-0002-0010-002b-0000-0028-0000-0029-0000-002a-0000}	いいひと	{ruby (charSpan 2): おもしろ}面白い	{ruby (charSpan 1): はな}話しやすい	ちょっとコワい
+"039"	{emote: Thought}なるほど{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Soft Smile}では　{ruby (charSpan 2): さいご}最後に{pause 15}	{ruby (charSpan 2): さいきん}最近　{pause 8}{ruby (charSpan 1): き}気になることは？{0008-0002-0010-0028-0000-002a-0000-0029-0000-002b-0000}	{0005-0004-0002-cd00}さんの{ruby (charSpan 2): かみがた}髪型	{0005-0004-0002-cd01}さんの{ruby (charSpan 2): ふくそう}服装	{0005-0004-0002-cd02}さんの{ruby (charSpan 1): くち}口ぐせ	{0005-0004-0002-cd03}さんの{ruby (charSpan 2): しょうらい}将来
+"040"	{emote: Inspired}そうですか{pause 20}	{emote: Soft Smile}{Player nickname (green)}さんに　{ruby (charSpan 2): ひつよう}必要なものが{pause 5}	よく　わかりました！{Wait for input}{emote: Glee}{ruby (charSpan 1): いま}今　{pause 10}{ruby (charSpan 2): ひつよう}必要なアイテムは、{pause 15}	{0005-000f-0002-0000}です！{Wait for input}{emote: Happiness}これを{ruby (charSpan 1): も}持っていれば{pause 10}	きっと　{pause 8}{ruby (charSpan 2): じゅうじつ}充実した{ruby (charSpan 2): いちにち}一日を{pause 5}	{ruby (charSpan 1): す}過ごせると{ruby (charSpan 1): おも}思います！
+"041"	{emote: Inspired}あなたに{pause 10}	{ruby (charSpan 1): いま}今　{pause 8}{ruby (charSpan 2): ひつよう}必要なものが　わかりました！{Wait for input}{emote: Happiness}{Player nickname (green)}さんには	{ruby (charSpan 2): さいきん}最近　{ruby (charSpan 1): よ}読んだ{ruby (charSpan 1): ほん}本の{ruby (charSpan 1): なか}中から{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}「{0005-001d-0002-0000}」	を　{pause 10}おススメします！{Wait for input}{emote: Glee}これを{ruby (charSpan 1): よ}読めば{pause 10}	{ruby (charSpan 1): あたら}新しいひらめきを{pause 5}	{ruby (charSpan 1): あた}与えてくれるはずです！
+"042"	{emote: Inspired}そうですか！{pause 20}	{emote: Happiness}あなたに　{ruby (charSpan 2): ひつよう}必要なものが	わかっちゃいましたよ{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日の　{Player nickname (green)}さんに{pause 8}	おススメの　おやつは{pause 10}	{0005-0010-0002-0000}です！	{emote: Joy}これを{ruby (charSpan 1): た}食べれば{pause 10}	{ruby (charSpan 1): あま}甘～い{ruby (charSpan 2): いちにち}一日になること　{ruby (charSpan 2): まちが}間違いなしです！{pause 30}{emote: Soft Smile}
+"043"	{emote: Inspired}そうですか！{pause 20}	{ruby (charSpan 2): ひつよう}必要なものが　{pause 10}よく　わかりました！{Wait for input}{emote: Soft Smile}{Player nickname (green)}さん、{pause 20}	{0005-0012-0002-0000}なんて{pause 10}	{ruby (charSpan 1): はじ}始めてみたら　どうでしょう？	{emote: Glee}きっと　{pause 10}{ruby (charSpan 1): あたら}新しい{ruby (charSpan 2): じぶん}自分を{pause 3}	{ruby (charSpan 2): はっけん}発見できると{ruby (charSpan 1): おも}思います、{pause 10}{catchphrase}！
+"044"	{emote: Distress}なんだか{pause 10}　おせっかいを	{ruby (charSpan 1): や}焼いてしまったみたいで{pause 5}	すみません！{Wait for input}{emote: Shyness}{ruby (charSpan 2): さんこう}参考になればいいんですが{pause 8}・{pause 8}・{pause 8}・{pause 8}	{catchphrase}
+"045"
+"046"
+"047"
+"048"
+"049"	{emote: Worry}あの{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Shyness}{ruby (charSpan 1): きゅう}急に　こんなことを{ruby (charSpan 1): き}聞くなんて、{pause 10}	{ruby (charSpan 1): へん}変だと{ruby (charSpan 1): おも}思われるかもしれませんが{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}{Player nickname (green)}さんにとって、{pause 10}	わたしは　{pause 10}どういう{ruby (charSpan 2): そんざい}存在でしょうか？{0008-000a-0010-0032-0033-0034-0034-0034-0034-0036-0035}	おせんべいみたい	チョコレートみたい
+"050"	{emote: Surprise}あら{pause 8}・{pause 8}・{pause 8}・{pause 8}！{pause 10}	おカタい　イメージってことですか？！{pause 30}	{emote: Worry}そうだったんですね、{pause 15}{catchphrase}
+"051"	{emote: Surprise}なるほど！{pause 20}	パリッとしたひとに{ruby (charSpan 1): み}見えてたんですね！
+"052"	{emote: Thought}う～ん{pause 5}・{pause 5}・{pause 5}・{pause 30}	{ruby (charSpan 1): あま}甘くて{pause 5}・{pause 5}・{pause 5}・{pause 20}からい{pause 5}・{pause 5}・{pause 5}・？{pause 20}{emote: Alarmed}{pause 10}{Wait for input}{emote: Shyness}それは　ちょうどよいと{pause 5}	{ruby (charSpan 1): い}言ってくださったのかしら{pause 5}・{pause 5}・{pause 5}・{pause 8}	{catchphrase}？
+"053"	{emote: Thought}ミルクか　ビターか{pause 8}・{pause 8}・{pause 8}・{pause 8}	それが　{ruby (charSpan 2): もんだい}問題ですね
+"054"	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Bashful}でも　{ruby (charSpan 1): あま}甘い{ruby (charSpan 2): せりふ}台詞とかは、{ruby (charSpan 1): い}言えませんよ！{pause 30}{emote: Soft Smile}
+"055"
+"056"
+"057"	{emote: Happiness}{ruby (charSpan 2): さいきん}最近　{pause 10}{ruby (charSpan 3): はなことば}花言葉を{ruby (charSpan 1): しら}調べていたんですけど、{pause 15}	そのときに　{ruby (charSpan 2): はなうらな}花占いを	{ruby (charSpan 1): おも}思いついたんです、{pause 8}{catchphrase}！{Wait for input}{emote: Thought}{ruby (charSpan 1): す}好きな{ruby (charSpan 1): はな}花の{ruby (charSpan 2): しゅるい}種類によって、{pause 10}	そのひとが　どういう{ruby (charSpan 2): せいかく}性格なのかが	わかるはずなんですが{pause 8}・{pause 8}・{pause 8}・	{emote: Reset}{Player nickname (green)}さんも　よろしければ{pause 10}	{emote: Curious}{ruby (charSpan 1): ため}試してみませんか？{Player can respond (0005):003a-0015-003b-0028}	やるやる！	やめとくよ
+"058"	{emote: Happiness}よかった、{pause 8}{catchphrase}！{Wait for input}	それでは　この{ruby (charSpan 1): なか}中から{pause 10}	いちばん{ruby (charSpan 1): す}好きな{pause 8}お{ruby (charSpan 1): はな}花を　{ruby (charSpan 1): えら}選んでください！{0008-0002-0010-003c-0000-003d-0000-003e-0000-003f-0000}	ひまわり	ガーベラ	マーガレット	パンジー
+"059"	{emote: Worry}あら、{pause 8}そうですか{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}また{ruby (charSpan 1): き}気が{ruby (charSpan 1): む}向いたら　ぜひ{pause 5}	お{ruby (charSpan 1): つ}付き{ruby (charSpan 1): あ}合いくださいね、{pause 8}{catchphrase}
+"060"	{emote: Inspired}なるほど～！{pause 20}	{emote: Happiness}ひまわりの{ruby (charSpan 3): はなことば}花言葉は{pause 10}「{ruby (charSpan 2): じょうねつ}情熱」です{Wait for input}{emote: Glee}{Player nickname (green)}さんは{pause 10}	{ruby (charSpan 1): なに}何にでも　{ruby (charSpan 2): いっしょう}一生けんめい{ruby (charSpan 1): む}向き{ruby (charSpan 1): あ}合う{pause 10}	{ruby (charSpan 1): あつ}熱いひとだということが　{pause 5}わかりました！
+"061"	{emote: Soft Smile}そうなんですね{pause 5}・{pause 5}・{pause 5}・{pause 20}	ガーベラの{ruby (charSpan 3): はなことば}花言葉は{pause 10}「{ruby (charSpan 2): きぼう}希望」です{Wait for input}{emote: Happiness}{Player nickname (green)}さんって{pause 15}	どんなときも{pause 10}　あきらめずに{ruby (charSpan 1): まえ}前へ{ruby (charSpan 1): すす}進む{pause 15}	{emote: Joy}{ruby (charSpan 2): きぼう}希望にあふれたひとなんだと　{pause 5}{ruby (charSpan 1): おも}思います{pause 20}{emote: Soft Smile}
+"062"	{pause 5}{emote: Alarmed}{pause 10}あら！{pause 20}	マーガレットは{pause 10}　「{ruby (charSpan 2): しんじつ}真実の{ruby (charSpan 2): ゆうじょう}友情」という{pause 5}	{ruby (charSpan 3): はなことば}花言葉なんですよ	{emote: Reset}つまり、{pause 10}これを{ruby (charSpan 1): えら}選んだ　あなたは{pause 5}	{emote: Happiness}{ruby (charSpan 2): ゆうじょう}友情を{ruby (charSpan 2): たいせつ}大切にするひと{pause 5}・{pause 5}・{pause 5}・{pause 15}	ということになります{Wait for input}{emote: Soft Smile}けど、{pause 10}それは　{ruby (charSpan 1): うらな}占わなくても、{pause 8}	わかりきったことですよね！
+"063"	{emote: Agreement}そうなんですか{pause 5}・{pause 5}・{pause 5}・{pause 20}	{emote: Soft Smile}パンジーの{ruby (charSpan 3): はなことば}花言葉は{pause 10}	「もの{ruby (charSpan 1): おも}思い」なんですよ{Wait for input}{emote: Reset}{ruby (charSpan 1): なに}何か　{ruby (charSpan 1): なや}悩み{ruby (charSpan 1): ごと}事があったら、{pause 10}	わたしに　{pause 5}{ruby (charSpan 2): そうだん}相談してくださいね！{emote: Sunny}
+"064"	{pause 5}・{pause 10}・{pause 10}・{pause 10}{emote: Curious}いかがでしょうか？{Wait for input}	{emote: Shyness}{ruby (charSpan 1): あ}当たっていれば　いいんですが{pause 5}・{pause 5}・{pause 5}・！	{pause 8}{catchphrase}！

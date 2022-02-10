@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Sheepishness}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
+"001"	{emote: Worry}なんだよ{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Anger}{ruby (charSpan 1): ほか}他のヤツらも{pause 8}	とっとと　さがせってんだ！{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): ぜんいん}全員　{ruby (charSpan 1): み}見つけねぇと{pause 20}	オメェの{ruby (charSpan 1): ま}負けなんだからな！
+"002"	{emote: Sheepishness}オレを{ruby (charSpan 1): み}見つけたからって{pause 20}	{ruby (charSpan 1): き}気ぃ{ruby (charSpan 1): ぬ}抜いてんじゃねぇぜ{Wait for input}{emote: Anger}{ruby (charSpan 1): ほか}他のヤツらも{pause 8}	さっさと　さがせってんだ！
+"003"	{emote: Distress}おいおい、{pause 8}	まだ{ruby (charSpan 2): ぜんいん}全員　{ruby (charSpan 1): み}見つからねぇのか？{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): やくそく}約束の{ruby (charSpan 2): じかん}時間は{pause 8}	どんどん　せまってくるぜぇ？
+"004"	{emote: Happiness}おい、{pause 8}{Player nickname (green)}！{pause 30}	{ruby (charSpan 2): やくそく}約束の{ruby (charSpan 2): じかん}時間、{pause 8}	もう　{ruby (charSpan 1): す}過ぎちまったよ！{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): ざんねん}残念ながら、{pause 8}{ruby (charSpan 2): こんかい}今回の{ruby (charSpan 2): しょうぶ}勝負は{pause 20}	オレ{ruby (charSpan 1): たち}達の　{ruby (charSpan 1): か}勝ちってことだな、{pause 20}	{catchphrase}！

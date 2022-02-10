@@ -1,18 +1,18 @@
 == 0 ==
-"001"	{emote: Reset}
-"002"	ねぇ、{Player nickname (green)}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{000a-0000-0006-04-06-00-07-00-ffffffcd}
-"006"	{0009-0006-0010-07-00-07-00-07-00-07-00-07-00-07-00-07-00-08-00}
-"007"	{emote: Alarmed}
-"008"	{emote: Surprise}
-"009"	{emote: Happiness}
-"010"	{emote: Soft Smile}
-"011"	{0009-0002-0008-0c-00-0c-00-0c-00-0d-00}
-"012"	{emote: Thought}
-"013"	{0007-000d-0000}
-"014"	{emote: Sigh}
-"015"	{emote: Glee}
-"016"	{emote: Happiness}
-"017"	{0007-000d-0000}
+"001"	{emote: Reset}こないだ、アタシ{pause 8}	よその{ruby (charSpan 1): むら}村で　{ruby (charSpan 1): う}浮かれちゃって{pause 16}	{ruby (charSpan 1): いろ}色んな{ruby (charSpan 1): もの}物、セレブ{ruby (charSpan 1): が}買いしちゃったの	{emote: Worry}そのせいで、いらない{ruby (charSpan 1): もの}物{pause 16}	{ruby (charSpan 1): ふ}増え{ruby (charSpan 1): す}過ぎちゃって{pause 4}・{pause 4}・{pause 4}・{pause 32}	ちょっと　{ruby (charSpan 1): も}持て{ruby (charSpan 1): あま}余し{ruby (charSpan 2): ぎみ}気味なのよ	{emote: Anger}そこで、{pause 16}{Player nickname (green)}{0005-000d-0000}に	{ruby (charSpan 2): そうだん}相談なんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{0007-000d-0000}{emote: Soft Smile}この　{0011-0003-0002-0001}、{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取って	もらえないかしら？{confirmation-02}{Player can respond (0005):0005-0015-0004-0028}	{ruby (charSpan 1): か}買っちゃう！	いらなーい
+"002"	ねぇ、{Player nickname (green)}{0005-000d-0000}{pause 16}	{ruby (charSpan 1): き}聞いてちょうだい{Wait for input}{emote: Worry}{0011-0003-0002-0001}を	{ruby (charSpan 1): も}持ってるのに　{pause 16}また{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): もの}物　	{ruby (charSpan 1): か}買っちゃったの{pause 8}・{pause 8}・{pause 8}・{pause 8}{000a-0000-0006-0b02-1100-cd00}
+"003"	{emote: Worry}わけあって、{pause 16}{ruby (charSpan 2): たいせつ}大切にしていた	{0011-0003-0002-0001}を	{ruby (charSpan 2): てばな}手放すことにしたの{pause 8}・{pause 8}・{pause 8}・{pause 8}	{0007-000d-0000}{emote: Shyness}ねぇ、{Player nickname (green)}{0005-000d-0000}{pause 32}	{ruby (charSpan 1): よ}良かったら　{Blue}{Number (0x9)}ベル{Color Reset}で{pause 8}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取ってもらえないかしら？{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	いいよ	いらなーい
+"004"	{emote: Worry}そうよね、{pause 8}いらないわよねぇ{pause 32}	{emote: Thought}{pause 16}なんで{ruby (charSpan 1): か}買ったのかしら？{pause 8}	アタシ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Worry}やっぱり、リサイクルショップで{pause 16}	{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取ってもらうしか	なさそうね、{pause 8}{catchphrase}
+"005"	{000a-0000-0006-0604-0700-cd00}
+"006"	{0009-0006-0010-0007-0007-0007-0007-0007-0007-0007-0008}
+"007"	{emote: Alarmed}あら、いいの？{pause 32}	{emote: Glee}うれしい！　{pause 8}{catchphrase}！
+"008"	{emote: Surprise}ホントに　いいの？{pause 8}	{Player nickname (green)}{0005-000d-0000}？{Wait for input}{emote: Worry}それ{ruby (charSpan 1): ほど}程、{ruby (charSpan 1): ほ}欲しくもないのに	アタシのために{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}そんな　{ruby (charSpan 3): ともだちおも}友達思いのアナタから	お{ruby (charSpan 1): かね}金なんて　もらえないわ！{pause 32}	{emote: Pride}タダで{ruby (charSpan 1): も}持って{ruby (charSpan 1): い}行って！
+"009"	{emote: Happiness}これからも	{ruby (charSpan 2): なかよ}仲良くしましょうね！{pause 8}	{Player nickname (green)}{0005-000d-0000}！
+"010"	{emote: Soft Smile}とっても　{ruby (charSpan 1): たす}助かっちゃった！{pause 16}	ありがとう、{Player nickname (green)}{0005-000d-0000}！
+"011"	{0009-0002-0008-000c-000c-000c-000d}
+"012"	{emote: Thought}{pause 16}アナタに	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取ってもらえると{pause 16}	{ruby (charSpan 1): たす}助かるんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{0007-000d-0000}{emote: Soft Smile}お{ruby (charSpan 1): みせ}店で　{ruby (charSpan 1): か}買ったら	{Number (0x9)}ベルのところを{pause 16}	{Blue}{Number (0x9)}ベル{Color Reset}で　どうかしら？{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	オッケー	いらない
+"013"	{0007-000d-0000}{emote: Soft Smile}アナタが、{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取ってくれるなら{pause 16}	サービスして{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}{Blue}{Number (0x9)}ベル{Color Reset}で　いいわよ？{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	{ruby (charSpan 1): か}買うよ！	いらない
+"014"	{emote: Sigh}{pause 60}ダメなのね{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Worry}ま、{pause 16}{ruby (charSpan 2): しかた}仕方がないわね	{pause 8}{catchphrase}
+"015"	{emote: Glee}うれしい！{pause 16}	さすが　{Player nickname (green)}{0005-000d-0000}ね！
+"016"	{emote: Happiness}また{ruby (charSpan 1): なに}何かあったら{pause 16}	お{ruby (charSpan 1): ねが}願いね、{pause 8}{catchphrase}！
+"017"	{0007-000d-0000}{ruby (charSpan 1): よ}良かったら、{pause 16}{ruby (charSpan 2): ていか}定価の	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取って	{emote: Curious}もらえないかしら？{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	いいよ	いらない

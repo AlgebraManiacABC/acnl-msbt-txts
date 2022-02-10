@@ -1,141 +1,141 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Curious}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Surprise}
-"006"	{emote: Alarmed}
-"007"	{emote: Glee}
-"008"	{emote: Surprise}
-"009"	{emote: Surprise}
-"010"	{emote: Alarmed}
-"011"	{emote: Shocked}
-"012"	{emote: Curious}
-"013"	{emote: Glee}
-"014"	{emote: Joy}
-"015"	{emote: Alarmed}
-"016"	{emote: Alarmed}
-"017"	{emote: Laughter}
-"018"	{emote: Alarmed}
-"019"	{emote: Surprise}
-"020"	{emote: Surprise}
-"021"	{emote: Joy}
-"022"	{emote: Alarmed}
-"023"	{emote: Surprise}
-"024"	{emote: Inspired}
-"025"	{emote: Happiness}
-"026"	{emote: Happiness}
-"027"	{emote: Surprise}
-"028"	{emote: Surprise}
-"029"	{emote: Happiness}
-"030"	{emote: Happiness}
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	{emote: Happiness}
-"034"	{emote: Happiness}
-"035"	
-"036"	{emote: Soft Smile}
-"037"	{emote: Soft Smile}
-"038"	{emote: Soft Smile}
-"039"	{emote: Soft Smile}
-"040"	{emote: Soft Smile}
-"041"	{emote: Soft Smile}
-"042"	{emote: Soft Smile}
-"043"	{emote: Soft Smile}
-"044"	{emote: Soft Smile}
-"045"	{emote: Soft Smile}
-"046"	{emote: Soft Smile}
+"001"	{emote: Curious}What? {pause 5}Nothing, huh?
+"002"	{emote: Curious}Nothing then? OK, {catchphrase}.
+"003"	{emote: Alarmed}Yay! {pause 15}My bug! You really DID go	and catch it for me!
+"004"	{emote: Alarmed}Wow! {pause 10}Is that the bug I asked for?	It's so cool, {catchphrase}!
+"005"	{emote: Surprise}Whoa! Is this really the	{0011-0003-0002-0000} I wanted?{Wait for input}{emote: Glee}I can't BELIEVE you found one,	{catchphrase}!
+"006"	{emote: Alarmed}No way! Did you actually find {Article(word-dependant)}	{0011-0003-0002-0000} for me?{Wait for input}{emote: Distress}It must have been so hard to	catch, {catchphrase}!
+"007"	{emote: Glee}Oh, I can't believe you caught {Article(word-dependant)}	{0011-0003-0002-0000} for me!
+"008"	{emote: Surprise}{pause 10}It's {Article(word-dependant)}{0011-0003-0002-0000}!	{emote: Love}I promise I'll take really good care	of it, {catchphrase}!{emote: Reset}
+"009"	{emote: Surprise}Woohoo! Check it out! {capitalized}{Article(word-dependant)}	{0011-0003-0002-0000}! This is,	like, totally perfect.{Wait for input}{emote: Joy}You went to a lot of trouble to	find and catch this, didn't you,	{Player nickname (green)}?
+"010"	{emote: Alarmed}Seriously? I can't believe you caught	me {Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}{emote: Happiness}I mean, it's beyond my wildest	dreams, {Player nickname (green)}!
+"011"	{emote: Shocked}NO WAY! You brought me	{Article(word-dependant)}{0011-0003-0002-0000}?	{emote: Glee}Where did you find such a rare bug?{pause 20}	I knew only one person could do it.	{Wait for input}{emote: Star Yell}And that's YOU!
+"012"	{emote: Curious}Wait—{pause 5}what's THIS? {pause 10}Is it really	{Article(word-dependant)}{0011-0003-0002-0000}?!{Wait for input}{emote: Glee}Where did you find such a totally	rare insect, {Player nickname (green)}? {pause 20}You're	such an excellent bug catcher!
+"013"	{emote: Glee}Oh! You've caught me a nice fish!{pause 10}	It's {Article(word-dependant)}{0011-0003-0002-0000}!
+"014"	{emote: Joy}Woohoo! {pause 20}You caught a fish for	me, {catchphrase}!
+"015"	{emote: Alarmed}Wait! Is that really and truly the	{0011-0003-0002-0000} I wanted?{Wait for input}{emote: Distress}I was worried the request was just	too hard, {Player nickname (green)}! {pause 10}But you DID	it, {catchphrase}!
+"016"	{emote: Alarmed}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}	Where did you find it, {Player nickname (green)}?{Wait for input}{emote: Glee}It's SUCH a rare fish! I just can't	believe it, {catchphrase}!
+"017"	{emote: Laughter}Haha! {pause 5}I'm SO happy! {pause 10}You found	me {Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}{emote: Happiness}I know you're super busy, so I	really appreciate your help,	{catchphrase}.
+"018"	{emote: Alarmed}That's a nice fish you caught me,	{catchphrase}! {pause 20}That's totally {Article(word-dependant)}	{0011-0003-0002-0000}, right?
+"019"	{emote: Surprise}Did you actually go out and catch	{Article(word-dependant)}{0011-0003-0002-0000}?	Like, wow!{Wait for input}{emote: Glee}Good work, {Player nickname (green)}!
+"020"	{emote: Surprise}Whoa! You're good at catching fish,	aren't you? {pause 10}You must be, if you got	{Article(word-dependant)}{0011-0003-0002-0000}!
+"021"	{emote: Joy}Woo{pause 5}hoo{pause 5}HOO! {pause 10}I just CANNOT	believe you actually caught me	{Article(word-dependant)}{0011-0003-0002-0000}!	You're beyond amazing, {Player nickname (green)},	getting me such a rare fish like	this, {catchphrase}!{emote: Reset}
+"022"	{emote: Alarmed}Unbelievable! {pause 10}Did you really catch	{Article(word-dependant)}{0011-0003-0002-0000} just	for little old me?	{emote: Glee}What a rare treat! {pause 5}I can't WAIT to	tell everyone about this amazing	gift, {Player nickname (green)}!
+"023"	{emote: Surprise}Oh! {pause 20}I have to show my thanks!{Wait for input}	{emote: Happiness}Here. {pause 10}Take this.
+"024"	{emote: Inspired}Hey! {pause 20}Your reward! {pause 10}{emote: Happiness}I can't forget to	give it to you!
+"025"	{emote: Happiness}Well, I gotta thank you properly!{pause 15}	Here. {pause 10}Take this.
+"026"	{emote: Happiness}Here's a thank-you gift for all	your trouble!
+"027"	{emote: Surprise}Oh! {pause 15}Let me thank you, OK?{pause 20}	{emote: Happiness}Here. {pause 5}Take this.
+"028"	{emote: Surprise}Hey! I have to give you something	nice for doing that!
+"029"	{emote: Happiness}You really deserve a nice gift	in exchange for that!
+"030"	{emote: Happiness}That was quite a catch. So here's	a thank-you gift!
+"031"	{emote: Happiness}You REALLY outdid yourself, so	please take this as thanks!
+"032"	{emote: Happiness}I can't even begin to give you	something just as nice. {pause 10}But maybe	this will do the trick!
+"033"	{emote: Happiness}I hope that you like my present.{pause 10}	It's {Article(word-dependant)}{0011-0003-0002-0001}!
+"034"	{emote: Happiness}I kinda figured you would really like	{Article(word-dependant)}{0011-0003-0002-0001}! You	are, like, my hero.
+"035"
+"036"	{emote: Soft Smile}Did you forget? You need to catch	me {Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}!
+"037"	{emote: Soft Smile}Remember? {pause 5}I want you to find me	the rare {Blue}{0011-0003-0002-0000}{Color Reset}.{Wait for input}	{emote: Distress}I know you can do it!
+"038"	{emote: Soft Smile}I was hoping you could find me a	{Blue}butterfly{Color Reset}. {pause 10}Any kind will be just	fine, {catchphrase}!
+"039"	{emote: Soft Smile}I asked you to find any kind of a	{Blue}horned beetle{Color Reset}. {pause 10}I'm hoping you can	come through for me!
+"040"	{emote: Soft Smile}I was hoping you can hunt down a	{Blue}stag beetle{Color Reset} for me. {pause 10}Any kind would	be totally fine, {catchphrase}.
+"041"	{emote: Soft Smile}I'm hoping you can find me any kind	of {Blue}cicada{Color Reset}.{Wait for input} {emote: Glee}I've really been looking	forward to it!
+"042"	{emote: Soft Smile}Did you forget? I'm hoping to get a	lovely {Blue}dragonfly{Color Reset}. {pause 10}Any kind will	be just perfect, {catchphrase}!
+"043"	{emote: Soft Smile}I was hoping you could catch me	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}!
+"044"	{emote: Soft Smile}I know it's going to be hard, but I'm	still hoping you can catch me a	rare {Blue}{0011-0003-0002-0000}{Color Reset}!
+"045"	{emote: Soft Smile}Catch me any {Blue}river fish{Color Reset}, OK?	Any kind will be just fine,	{catchphrase}!
+"046"	{emote: Soft Smile}Well, I asked if you could catch me	an {Blue}ocean fish{Color Reset}. {pause 10}Really, any kind will	be perfect, {catchphrase}!
 == 1 ==
-"001"	{emote: Curious}
-"002"	{emote: Distress}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Surprise}
-"006"	{emote: Alarmed}
-"007"	{emote: Glee}
-"008"	{emote: Surprise}
-"009"	{emote: Surprise}
-"010"	{emote: Alarmed}
-"011"	{emote: Shocked}
-"012"	{emote: Surprise}
-"013"	{emote: Glee}
-"014"	{emote: Joy}
-"015"	{emote: Alarmed}
-"016"	{emote: Alarmed}
-"017"	{emote: Laughter}
-"018"	{emote: Alarmed}
-"019"	{emote: Surprise}
-"020"	{emote: Surprise}
-"021"	{emote: Joy}
-"022"	{emote: Alarmed}
-"023"	{emote: Surprise}
-"024"	{emote: Inspired}
-"025"	{emote: Happiness}
-"026"	{emote: Happiness}
-"027"	{emote: Surprise}
-"028"	{emote: Surprise}
-"029"	{emote: Happiness}
-"030"	{emote: Happiness}
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	{emote: Happiness}
-"034"	{emote: Happiness}
-"035"	
-"036"	{emote: Soft Smile}
-"037"	{emote: Soft Smile}
-"038"	{emote: Soft Smile}
-"039"	{emote: Soft Smile}
-"040"	{emote: Soft Smile}
-"041"	{emote: Soft Smile}
-"042"	{emote: Soft Smile}
-"043"	{emote: Soft Smile}
-"044"	{emote: Soft Smile}
-"045"	{emote: Soft Smile}
-"046"	{emote: Soft Smile}
+"001"	{emote: Curious}¿Qué? {pause 5}¿Nada?
+"002"	{emote: Distress}¡No te hagas de rogar,	{catchphrase}!
+"003"	{emote: Alarmed}¡Chachi! {pause 15}¡Aquí está mi bichito!	¡Lo has atrapado de verdad!
+"004"	{emote: Alarmed}¡Hala! {pause 10}¿Este es el bicho que	te he pedido? {pause 10}¡Qué fuerte! {pause 10}	¡Es ideal, {catchphrase}!
+"005"	{emote: Surprise}¡Qué chulada! ¿Este bicho es {000e-0001-0000}	{0011-0003-0002-0000} que quería?{Wait for input}{emote: Glee}¡No me puedo creer que l{o/a/} hayas	encontrado, {catchphrase}!
+"006"	{emote: Alarmed}¿Me has podido cazar	{Article(word-dependant)}{0011-0003-0002-0000}?{Wait for input}{emote: Distress}¡Te habrá costado un montón,	{catchphrase}!
+"007"	{emote: Glee}¡Chupi! ¡Me has cazado	{Article(word-dependant)}{0011-0003-0002-0000}!	¡Te debo una!
+"008"	{emote: Surprise}¡Es {000e-0001-0000}{0011-0003-0002-0000}!{Wait for input}{emote: Love}¡L{o/a/} cuidaré como a {un rey/una reina/},	{catchphrase}!{emote: Reset}
+"009"	{emote: Surprise}¡Si es {Article(word-dependant)}{0011-0003-0002-0000}!	¿Seguro que me l{o/a/} puedo quedar?{Wait for input}{emote: Joy}Con lo que te habrá costado	cazarl{o/a/}...{pause 20} ¡Eres lo más, {Player nickname (green)}!
+"010"	{emote: Alarmed}¡No me puedo creer que traigas	{Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}{emote: Happiness}¡La de tiempo que hace que sueño	con tener un{o/a/}, {Player nickname (green)}!
+"011"	{emote: Shocked}¡Qué fuerte! ¡Me has atrapado 	{Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}{emote: Glee}¿Dónde l{o/a/} has encontrado?{pause 20}	¡Es un bicho superraro! {Wait for input}Si alguien	podía lograrlo,{emote: Star Yell} ¡es{e/a} eras tú!
+"012"	{emote: Surprise}¡¿En serio has podido cazar	{Article(word-dependant)}{0011-0003-0002-0000}?!{Wait for input}Sabía que eras buen{o/a}, ¡¿pero tan	requetebuen{o/a}?! ¡Qué fuerte!
+"013"	{emote: Glee}¿Me traes lo que te he pedido?{pause 10}	¡Es {Article(word-dependant)}{0011-0003-0002-0000}!
+"014"	{emote: Joy}¡Viva! ¡Por fin me traes lo	que quería, {catchphrase}!
+"015"	{emote: Alarmed}¿De verdad que es {000e-0001-0000}	{0011-0003-0002-0000} que pedí?	¿No me engañas?{Wait for input}{emote: Distress}La verdad es que no tenía muchas	esperanzas, {Player nickname (green)}.{pause 10}	¡Pero lo has hecho, {catchphrase}!
+"016"	{emote: Alarmed}¡Es {Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}	¿Cómo has podido pescarl{o/a/} con	lo megarrar{o/a/} que es, {Player nickname (green)}?{Wait for input}{emote: Glee}¡Estoy impresionada! ¡Deberías ir	a la tele a contarlo, por lo menos,	{catchphrase}!
+"017"	{emote: Laughter}¡Yupi! {pause 5}¡Qué bien! {pause 10}¡Me traes	{Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}{emote: Happiness}Ya sé que estás tan ocupad{o/a} como	yo, así que gracias, {catchphrase}.
+"018"	{emote: Alarmed}¡Anda, qué chul{o/a/}! {pause 20}Porque es	{Article(word-dependant)}{0011-0003-0002-0000}, ¿no?
+"019"	{emote: Surprise}¡Anda! {pause 10}¡Pues has conseguido pescar	{Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}{emote: Glee}¡Buen trabajo, {Player nickname (green)}!
+"020"	{emote: Surprise}¡Debes de ser tan buen{o/a} pescando	como yo combinando! ¡Gracias por	{000e-0001-0000}{0011-0003-0002-0000}!
+"021"	{emote: Joy}¡Me has dejado muerta!	¡Pensaba que no podrías pescar	{000e-0001-0000}{0011-0003-0002-0000}!	¡Eres lo más, {Player nickname (green)}!	Seguro que arrasas en	los concursos, {catchphrase}.{emote: Reset}
+"022"	{emote: Alarmed}¡Increíble! {pause 10}¿Cómo l{o/a/} has pescado?	¿Est{e/a/} {0011-0003-0002-0000}	es para mí de verdad?	¿Sabes lo superrar{o/a/} que es? {pause 10}{emote: Glee}Bueno,	¡lo que se da no se quita!
+"023"	{emote: Surprise}¡Ah, sí! {Wait for input}{emote: Happiness}¡Aquí tienes, como	agradecimiento!
+"024"	{emote: Inspired}¡Ay! {pause 20}¡Que no se me olvide! {pause 10}{emote: Happiness}	¡Tu recompensa!
+"025"	{emote: Happiness}¡Te mereces un premio chachi!{pause 15}	Toma, {pause 10}para ti.
+"026"	{emote: Happiness}¡Muchas gracias! ¡Esto es para ti!
+"027"	{emote: Surprise}¡Ah!{pause 15} Deja que te lo compense.{pause 20}	{emote: Happiness}¡Aquí tienes!
+"028"	{emote: Surprise}¡Acepta esto a cambio!
+"029"	{emote: Happiness}¡Eres tan superguay que te mereces	un buen premio!
+"030"	{emote: Happiness}¡Tengo algo para ti como	agradecimiento!
+"031"	{emote: Happiness}¡Te has esforzado tanto que	te mereces un regalo estupén!
+"032"	{emote: Happiness}¡No sé si te gustará tanto como	a mí, {pause 10}pero acepta esto!
+"033"	{emote: Happiness}¡Es {Article(word-dependant)}{0011-0003-0002-0001}!	¡Gracias por todo!
+"034"	{emote: Happiness}¡Es {Article(word-dependant)}{0011-0003-0002-0001}!	Chupi, ¿no? ¡Disfrútal{o/a/}!
+"035"
+"036"	{emote: Soft Smile}¿Ya no te acuerdas? ¡Quiero	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}!
+"037"	{emote: Soft Smile}Te he pedido que me atrapes	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}.{Wait for input}	{emote: Distress}¡Date prisa, porfa!
+"038"	{emote: Soft Smile}¿Podrías cazarme una {Blue}mariposa{Color Reset}?	{pause 10}Del tipo que sea, porfi,	{catchphrase}.
+"039"	{emote: Soft Smile}Quiero un {Blue}escarabajo astado{Color Reset}. {pause 10}	¡Confío en ti!
+"040"	{emote: Soft Smile}¿Crees que podrás atrapar un	{Blue}escarabajo ciervo{Color Reset} para mí?{pause 10} Me vale	cualquier tipo, {catchphrase}.
+"041"	{emote: Soft Smile}¡Porfi! ¡Tráeme la primera {Blue}cigarra{Color Reset}	que encuentres!{Wait for input} {emote: Glee}¡Estoy impaciente!
+"042"	{emote: Soft Smile}Hay que ver qué memoria tienes...{pause 10}	Atrápame una {Blue}libélula{Color Reset}, por favor,	{catchphrase}.
+"043"	{emote: Soft Smile}¡Si pudieras pescarme {Article(word-dependant)}	{Blue}{0011-0003-0002-0000}{Color Reset} sería	de lo más ideal!
+"044"	{emote: Soft Smile}¡Sé que pido mucho, pero quiero	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}!{Wait for input}¡Te estaré muy agradecida si	me l{o/a/} traes!
+"045"	{emote: Soft Smile}Péscame cualquier {Blue}pez de agua	dulce{Color Reset}, ¿vale, {catchphrase}?
+"046"	{emote: Soft Smile}Pues quiero que me pesques un	{Blue}pez de agua salada{Color Reset}. {pause 10}¡El que tú	prefieras, {catchphrase}!
 == 2 ==
-"001"	{emote: Sheepishness}
-"002"	{emote: Curious}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Surprise}
-"006"	{emote: Alarmed}
-"007"	{emote: Glee}
-"008"	{emote: Surprise}
-"009"	{emote: Surprise}
-"010"	{emote: Alarmed}
-"011"	{emote: Shocked}
-"012"	{emote: Curious}
-"013"	{emote: Glee}
-"014"	{emote: Joy}
-"015"	{emote: Alarmed}
-"016"	{emote: Alarmed}
-"017"	{emote: Laughter}
-"018"	{emote: Alarmed}
-"019"	{emote: Surprise}
-"020"	{emote: Surprise}
-"021"	{emote: Joy}
-"022"	{emote: Alarmed}
-"023"	{emote: Surprise}
-"024"	{emote: Inspired}
-"025"	{emote: Mischief}
-"026"	{emote: Happiness}
-"027"	{emote: Surprise}
-"028"	Je sais pas comment te remercier...{pause 20}
-"029"	{emote: Happiness}
-"030"	{emote: Happiness}
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	{emote: Happiness}
-"034"	{emote: Happiness}
-"035"	
-"036"	{emote: Soft Smile}
-"037"	{emote: Soft Smile}
-"038"	{emote: Soft Smile}
-"039"	{emote: Soft Smile}
-"040"	{emote: Soft Smile}
-"041"	{emote: Soft Smile}
-"042"	{emote: Soft Smile}
-"043"	Je vais quand même pas me mettre	à la pêche... {emote: Soft Smile}
-"044"	{emote: Soft Smile}
-"045"	{emote: Soft Smile}
-"046"	{emote: Soft Smile}
+"001"	{emote: Sheepishness}On dirait que quelqu'un est revenu	bredouille, lol...
+"002"	{emote: Curious}T'as rien pour moi? Ça c'est pas	cool, {catchphrase}.
+"003"	{emote: Alarmed}J'y crois pas! {pause 15}{emote: Glee}J'ai mon	insecte-euh! {pause 10} Wouhou!
+"004"	{emote: Alarmed}Attends! {pause 10}C'est l'insecte que je t'ai	demandé?!{pause 20} Youhou, {catchphrase}!
+"005"	{emote: Surprise}Wow!{pause 20} Tu m'avais pas zappée?	{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}!!!	{emote: Glee}Mission accomplie, {catchphrase}!
+"006"	{emote: Alarmed}Nan... {pause 10}Tu m'as vraiment trouvé	{Article(word-dependant)}{0011-0003-0002-0000}?!{Wait for input}{emote: Distress}Mais comment tu fais ça,	{catchphrase}!
+"007"	{emote: Glee}J'en reviens pas! {pause 10}Tu m'as attrapé	{Article(word-dependant)}{0011-0003-0002-0000}!!!
+"008"	{emote: Surprise}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000} rien	que pour moi! Ouaaaaaah!{Wait for input}{emote: Love}Je vais bien m'occuper {de lui/d'elle/}, je te	le promets, {catchphrase}!!!{emote: Reset}
+"009"	{emote: Surprise}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}!!!	Wouhou!{pause 20} Et on dirait qu'{il/elle/} m'aime	bien?	{emote: Joy}Je t'adooooore, {Player nickname (green)}!
+"010"	{emote: Alarmed}Tu viens{pause 10} vrai{pause 10}ment de me donner	{Article(word-dependant)}{0011-0003-0002-0000}?{Wait for input}{emote: Happiness}Mes copines vont être vertes,	{Player nickname (green)}!
+"011"	{emote: Shocked}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?!{emote: Glee} Où	est-ce que tu as dégoté un insecte	aussi rare?	C'est énorme! {emote: Star Yell}Bravo, {Player nickname (green)}!
+"012"	{emote: Curious}Attends... {pause 20}c'est ce que je crois?{pause 10}	{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?!{Wait for input}{emote: Star Yell}Ouah, la classe!!! T'as trouvé ça où,	{Player nickname (green)}?{pause 20} T'es {le meilleur/la meilleure}!
+"013"	{emote: Glee}Ouah, tu m'as pêché {un joli/une jolie/}	{0011-0003-0002-0000}!
+"014"	{emote: Joy}Wouhou! {pause 20}Tu m'as pêché mon	poisson, {catchphrase}!
+"015"	{emote: Alarmed}Attends.{pause 20} Me dis pas que c'est...{pause 20}	{000e-0001-0000}{0011-0003-0002-0000} que je	t'avais demandé{/e/}, {catchphrase}?!{Wait for input}{emote: Distress}J'y crois pas! T'as réussi,	{Player nickname (green)}!{pause 10} {emote: Delight}Bravo!!!
+"016"	{emote: Alarmed}Attends... {pause 20}Tu m'as vraiment pêché	{Article(word-dependant)}{0011-0003-0002-0000}?!{Wait for input}Tu l'as trouvé{/e/} où, {Player nickname (green)}?!	{emote: Glee}Tu m'as scotchée, {catchphrase}!
+"017"	{emote: Laughter}Alors là, je sais pas quoi dire! {pause 5}C'est	juste énorme, {catchphrase}!{Wait for input}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}... {emote: Happiness}Je	vais pas m'en remettre, lol!
+"018"	{emote: Alarmed}C'est tout mimi, ce que tu m'as	ramené, {catchphrase}! {pause 20}C'est {Article(word-dependant)}	{0011-0003-0002-0000}, non?
+"019"	{emote: Surprise}Waouh!{pause 10} Tu as pris {Article(word-dependant)}	{0011-0003-0002-0000}, rien que	pour moi?	{emote: Glee}{Il/Elle/} est parfait{/e/}, {Player nickname (green)}!
+"020"	{emote: Surprise}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}, rien	que ça!!! Tu fais pas les choses à	moitié, lol!
+"021"	{emote: Joy}Waouh!{pause 5} WAOUH!!!{pause 5} Tu m'as pêché	{Article(word-dependant)}{0011-0003-0002-0000}?!{Wait for input}{Ils/Elles/} sont méga rares, {Player nickname (green)}!	Rhô là là, {catchphrase}!
+"022"	{emote: Alarmed}Je...{pause 10} euh... T'es pas sérieu{x/se}, si? Tu	veux me donner{pause 5} {Article(word-dependant)}	{0011-0003-0002-0000}?!	{emote: Glee}Tu sais qu'{ils/elles/} sont très rares?	Han là là!!!{pause 10} Attends un peu que je	dise ça aux autres, {Player nickname (green)}!
+"023"	{emote: Surprise}J'oubliais! {pause 20}Ça mérite un beau	cadeau!{Wait for input} {emote: Happiness}Tiens,{pause 10} c'est pour toi!
+"024"	{emote: Inspired}J'y pense! {pause 20}J'ai une récompense	pour toi! {pause 10}{emote: Happiness}C'est la moindre des	choses, lol.
+"025"	{emote: Mischief}C'est qui qui va recevoir un beau	cadeau...?{pause 10} {emote: Laughter}C'est toi, LOL!!!
+"026"	{emote: Happiness}Tiens! Pour te remercier de t'être	donné autant de mal pour moi!
+"027"	{emote: Surprise}Ah!{pause 15} J'ai un petit cadeau pour toi.{pause 20}	{emote: Happiness}Tiens!
+"028"	Je sais pas comment te remercier...{pause 20}	{emote: Surprise}Et puis tiens, c'est pour toi!
+"029"	{emote: Happiness}Qu'est-ce qui pourrait te faire	plaisir... Une manucure?{pause 20} Un	relooking?{pause 10} {emote: Surprise}Je sais!
+"030"	{emote: Happiness}J'ai une idée! Tiens, pour te	remercier!
+"031"	{emote: Happiness}Il faut que je t'offre un cadeau	digne de ce nom...{pause 20} Qu'est-ce que tu	dis de ça?
+"032"	{emote: Happiness}Je t'aurais bien proposé une séance	shopping pour te remercier, mais je	suis surbookée...{pause 20} Tiens, prends ça!
+"033"	{emote: Happiness}C'est {Article(word-dependant)}{0011-0003-0002-0001}!	Merci encore!!! 
+"034"	{emote: Happiness}C'est {Article(word-dependant)}{0011-0003-0002-0001},	lol!
+"035"
+"036"	{emote: Soft Smile}T'as oublié? Tu devais me ramener	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}!
+"037"	{emote: Soft Smile}T'as oublié? {pause 5}Je t'avais demandé	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}...{Wait for input} {emote: Distress}Je	crois en toi, {Player nickname (green)}!
+"038"	{emote: Soft Smile}J'aimerais bien que tu me ramènes	un {Blue}papillon{Color Reset}... {pause 10}Celui que tu veux,	{catchphrase}! Merci!!!
+"039"	{emote: Soft Smile}C'est-à-dire que...{pause 20} {emote: Distress}Je t'avais	demandé de me ramener un	{Blue}scarabée avec une petite corne{Color Reset}!
+"040"	{emote: Soft Smile}Si tu pouvais me ramener un	{Blue}lucane{Color Reset}...{pause 20} ce serait trop trop gentil,	{catchphrase}!
+"041"	{emote: Soft Smile}Je compte sur toi pour me	rapporter une {Blue}cigale{Color Reset}.{Wait for input} {emote: Glee}Tu peux le	faire!
+"042"	{emote: Soft Smile}Tu as oublié? Je t'avais demandé	une {Blue}libellule{Color Reset}. {pause 10}N'importe laquelle, te	casse pas la tête, {catchphrase}!
+"043"	Je vais quand même pas me mettre	à la pêche... {emote: Soft Smile}Tu me ramènes {Article(word-dependant)}	{Blue}{0011-0003-0002-0000}{Color Reset}, steuplaît?
+"044"	{emote: Soft Smile}Tu m'avais proposé de me pêcher	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}...{pause 20} Tu	te rappelles pas?
+"045"	{emote: Soft Smile}Alors, mon {Blue}poisson d'eau douce{Color Reset}?	Je compte sur toi, {catchphrase}!
+"046"	{emote: Soft Smile}Alors, ce {Blue}poisson d'eau de mer{Color Reset},	{catchphrase}... {pause 10}C'est pour	aujourd'hui ou pour demain, lol?

@@ -1,60 +1,60 @@
 == 0 ==
-"001"	{pause 10}
-"002"	{pause 10}
-"003"	{pause 5}
-"004"	{pause 5}
-"005"	그래?{pause 20}
-"006"	이제 됐니?{pause 20}!
-"007"	
-"008"	흐～응{pause 8}
-"009"	{emote: Worry}
-"010"	다른 마을 사람은{pause 10}
-"011"	{emote: Worry}
-"012"	{pause 5}
-"013"	{pause 5}
-"014"	{pause 5}
-"015"	{emote: Worry}
-"016"	그럼 {pause 10}
-"017"	그래그래{pause 15}
-"018"	{pause 5}
-"019"	{pause 5}
-"020"	{pause 5}
-"021"	나머지 편지는 {pause 5}
-"022"	알았어, {pause 10}
-"023"	{pause 5}
-"024"	그래그래{pause 20}
-"025"	그래그래, {pause 10}!
-"026"	
-"027"	
-"028"	
-"029"	{pause 10}
-"030"	{pause 5}
-"031"	그래서 {pause 10}
-"032"	{pause 5}
-"033"	아, {pause 5}
-"034"	아, {pause 5}
-"035"	{pause 5}
-"036"	{Blue}{0004-000d-0002-00-ffffffcd}년 {pause 5}
-"037"	{pause 5}
-"038"	그래그래{pause 15}
-"039"	그래그래{pause 15}
-"040"	그럼 잘 가{pause 5}!
-"041"	
-"042"	
-"043"	
-"044"	
-"046"	{pause 5}
-"047"	{pause 5}
-"048"	{pause 5}
-"049"	{emote: Worry}
-"050"	{emote: Worry}
-"051"	{pause 5}
-"052"	그래 {pause 5}
-"053"	난 제대로 건네줬다?{Wait for input}
-"054"	{emote: Worry}
-"055"	{emote: Worry}
-"056"	{emote: Worry}
-"057"	{emote: Worry}
-"058"	
-"059"	
-"060"	
+"001"	{pause 10}음{pause 8}・{pause 8}・{pause 8}・{pause 15} 어ー?{pause 10}	{Gray}(뭐야, {pause 10}손님이잖아・・・){pause 20}{Color Reset}	흠흠, {pause 10}어서 {pause 5}와{Wait for input}{emote: Curious}근데 {pause 10}무슨 일이니??{000f-0007-0008-0000-0000-0000-0028}	편지를 보내고 싶어	편지를 보관하고 싶어	배포 아이템 말인데	아니, 딱히
+"002"	{pause 10}음{pause 8}・{pause 8}・{pause 8}・{pause 15} 어ー?{pause 10}	{Gray}(뭐야, {pause 10}손님이잖아・・・){pause 20}{Color Reset}	흠흠, {pause 10}어서 {pause 5}와{Wait for input}{emote: Curious}무슨 {pause 10}볼일이라도??{000f-0005-0004-0000-0028}	편지를 보내고 싶어	아니, 딱히
+"003"	{pause 5}・{pause 5}・{pause 5}・{pause 5}뭐, {pause 10}또 다른 볼일 있어?{pause 10}	{Gray}(빨리 끝내고 가란 말야ー!){Color Reset}{000f-0007-0008-0000-0000-0000-0028}	편지를 보내고 싶어	편지를 보관하고 싶어	배포 아이템 말인데	아뇨, 괜찮습니다
+"004"	{pause 5}・{pause 5}・{pause 5}・{pause 5}뭐, {pause 10}또 다른 볼일 있어?{pause 10}	{Gray}(빨리 끝내고 가란 말야ー!){Color Reset}{000f-0005-0004-0000-0028}	편지를 보내고 싶어	아뇨, 괜찮습니다
+"005"	그래?{pause 20}	그럼 {pause 10}문은 {pause 5}제대로 닫고 가
+"006"	이제 됐니?{pause 20}	그럼 {pause 10}일단 저장할게{pause 5}	{Gray}(아ー {pause 5}귀찮아ー){Color Reset}
+"007"
+"008"	흐～응{pause 8}・{pause 8}・{pause 8}・{pause 25}	{emote: Curious}어디로 보내고 싶은데?{000f-0006-0006-0000-0000-0028}	우리 마을로	미래의 나에게	역시 그만둘래
+"009"	{emote: Worry}미안한데{pause 5}・{pause 5}・{pause 5}・{pause 20}	지금 {pause 5}배달이 밀려서	새로운 편지를 접수할 수가 없어	{emote: Reset}아무튼 {pause 10}그렇게 됐으니까{pause 5}	다음에 오지 않겠어?{pause 5}	{Gray}(으이구, {pause 5}펠리오 녀석・・・){Color Reset}
+"010"	다른 마을 사람은{pause 10}	이 {pause 5}{Town name (pink)} 마을로만{pause 5}	편지를 보낼 수 있어{Wait for input}그럼 {pause 10}보내고 싶은 편지를	{pause 5}{emote: Curious}빨간 상자에 넣어줄래?
+"011"	{emote: Worry}미안한데{pause 5}・{pause 5}・{pause 5}・{pause 20}	지금 {pause 5}배달이 밀려서	새로운 편지를 접수할 수가 없어	{emote: Reset}아무튼 {pause 10}그렇게 됐으니까{pause 5}	조금 있다가 다시 오지 않겠어?{pause 5}	{Gray}(하여튼 {pause 5}펠리오 녀석・・・){Color Reset}
+"012"	{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Alarmed}{pause 10}음{pause 25}	{emote: Reset}잠깐만 있어봐,{pause 10}	이런 사람은 {pause 5}{emote: Curious}우리 마을엔 없는데?{Wait for input}{emote: Anger}이 마을 사람한테 보내는 편지가 아니면	접수는 못 해줘～{pause 10}	이건 돌려줄게
+"013"	{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Alarmed}{pause 10}응?{pause 25}	{emote: Reset}뭐야, {pause 10}이거{pause 5}・{pause 5}・{pause 5}・{pause 10}	전부 다 우리 마을로 보내는 게 아니잖아?{Wait for input}{emote: Anger}이 마을 사람한테 보내는 게 아니면	접수는 못 해줘{pause 10}	그럼 이건 돌려줄게
+"014"	{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Alarmed}{pause 10}어?{pause 25}	{emote: Reset}잠깐만,{pause 10}	우리 마을에 {pause 5}{emote: Curious}이런 사람은 없는데?{Wait for input}{emote: Anger}이 마을로 보내는 편지가 아니면	접수는 못 해줘{pause 10}	이건 돌려줄게{Wait for input}{emote: Reset}어ー {pause 10}그리고{pause 5}・{pause 5}・{pause 5}・{pause 5}	{Gray}(아, 피곤해・・・){Color Reset}
+"015"	{emote: Worry}미안한데{pause 5}・{pause 5}・{pause 5}・{pause 20}	지금 {pause 5}배달이 밀려서	다는 접수 못 해줘	{emote: Reset}되는 대로 접수하고{pause 5}	못 해주는 건 일단 돌려줄 테니까{Wait for input}나중에 {pause 5}시간이 좀 지나고 나서{pause 5}	다시 가져오지 않겠어?	{Gray}(펠리오 녀석 {pause 5}한심하게・・・){Color Reset}
+"016"	그럼 {pause 10}접수해 둘게{pause 10}	{Gray}(돌아가려면 {pause 5}문은 제대로 닫고 가라구){Color Reset}
+"017"	그래그래{pause 15}	접수 {pause 10}다 됐어{pause 10}	{Gray}(돌아갈 거면 {pause 5}문 똑바로 닫고 가){Color Reset}
+"018"	{pause 5}{emote: Alarmed}{pause 10}아{pause 5}・{pause 5}・{pause 5}・{pause 20}	{emote: Reset}{0011-0000-0002-0000}한테 보내는 편지 말야{pause 10}	지금은 {pause 10}접수를 못 해주겠다{pause 5}・{pause 5}・{pause 5}・{Wait for input}그 녀석네 집 우편함이{pause 8}	편지로 가득 차서{pause 5}	더 이상 배달을 할 수 없는걸	{emote: Reset}뭐, {pause 10}그렇게 됐으니까{pause 10}	어떻게든 보내고 싶으면 	{0011-0000-0002-0000}한테 직접 {pause 5}{emote: Curious}말 좀 해보지그래?
+"019"	{pause 5}{emote: Alarmed}{pause 10}아{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Reset}{0011-0000-0002-0000}{000e-000e-0006-0002-c774-0000}랑	{0011-0000-0002-0001}한테 보내는 편지 말야{pause 10}	지금은 {pause 10}접수를 못 해주겠다{pause 5}・{pause 5}・{pause 5}・{Wait for input}걔네들 집 우편함이{pause 8}	편지로 가득 차서{pause 5}	더 이상 배달을 할 수 없는걸	{emote: Reset}뭐, {pause 10}그렇게 됐으니까{pause 10}	어떻게든 보내고 싶으면	두 사람한테 직접 {pause 5}{emote: Curious}말 좀 해보지그래?
+"020"	{pause 5}{emote: Alarmed}{pause 10}아{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Reset}{0011-0000-0002-0000}{000e-000e-0006-0002-c774-0000}랑 {0011-0000-0002-0001}, 	{0011-0000-0002-0002}한테 보내는 편지 말야{pause 10}	지금은 {pause 10}접수를 못 해주겠다{pause 5}・{pause 5}・{pause 5}・{Wait for input}걔네들 집 우편함이{pause 8}	편지로 가득 차서{pause 5}	더 이상 배달을 할 수 없는걸	{emote: Reset}뭐, {pause 10}그렇게 됐으니까{pause 10}	어떻게든 보내고 싶으면	세 사람한테 직접 {pause 5}{emote: Curious}말 좀 해보지그래?
+"021"	나머지 편지는 {pause 5}접수됐어{Wait for input}	그럼 잘 가{pause 5}	{Gray}(돌아갈 거면 {pause 5}문은 제대로 닫고 가라){Color Reset}
+"022"	알았어, {pause 10}우리 마을로 말이지?{pause 20}	그럼 보내고 싶은 편지를	빨간 상자에 넣으라구
+"023"	{pause 5}{emote: Alarmed}{pause 10}어머・{pause 5}・{pause 5}・ {pause 10}{emote: Anger}{pause 15}그만둘 거야?{pause 20}	{Gray}(진짜 못 해 먹겠네!){Color Reset}
+"024"	그래그래{pause 20}	그럼 {pause 10}전용 상자를 열어줄 테니까{pause 10}	아래 화면에서 넣든가 빼든가 맘대로 해
+"025"	그래그래, {pause 10}미래의 자신에게 말이지?{pause 20}	뭘 보내면 되는데?
+"026"
+"027"
+"028"
+"029"	{pause 10}음{pause 8}・{pause 8}・{pause 8}・{pause 15} 어ー?{pause 10}	{Gray}(뭐야, {pause 10}손님이잖아・・・){pause 20}{Color Reset}	흠흠, {pause 10}어서 {pause 5}와{Wait for input}{emote: Curious}근데 {pause 10}무슨 일이니??{000f-0006-0006-0000-0000-0028}	편지를 보내고 싶어	편지를 보관하고 싶어	아니, 딱히
+"030"	{pause 5}・{pause 5}・{pause 5}・{pause 5}뭐, {pause 10}또 다른 볼일 있어?{pause 10}	{Gray}(빨리 끝내고 가란 말야ー!){Color Reset}{000f-0006-0006-0000-0000-0028}	편지를 보내고 싶어	편지를 보관하고 싶어	아뇨, 괜찮습니다
+"031"	그래서 {pause 10}{emote: Curious}언제 배달하면 되는데?
+"032"	{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Anger}{pause 10}저기ー{pause 10}	{Gray}(아, {pause 10}진짜 귀찮아ー){Color Reset}	미안한데{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Reset}미래의 자신에게 보내는 편지는{pause 5}	한 사람당 1통만 보낼 수 있거든?{Wait for input}근데 {pause 10}당신은 이미{pause 10}	{Blue}{0004-000d-0002-cd00}년 {0004-000e-0002-cd00}월 {Date-cd00}일{Color Reset}에 도착하도록{pause 5}	편지를 보낸 상태라구{Wait for input}새로 보내고 싶다면{pause 5}	예전에 준 편지는 돌려줄게{pause 5}・{pause 5}・{pause 5}・{Wait for input}어떡할래? {pause 5}다시 보낼 거야?{pause 10}	{Gray}(뭐, {pause 5}나랑은 상관없는 얘기지만){Color Reset}{000f-0005-0004-0015-0028}	다시 보낼래	역시 그만둘래
+"033"	아, {pause 5}그래{pause 20}	그럼 방금 받은 편지는 돌려줄게{pause 5}	{Gray}(자, {pause 5}자, {pause 5}좀 받아라・・・){Color Reset}
+"034"	아, {pause 5}그래{pause 20}	그럼 이번에는 {pause 5}{emote: Curious}언제 배달하면 되는데?
+"035"	{pause 5}{emote: Alarmed}{pause 10}엇・{pause 5}・{pause 5}・ {pause 10}{emote: Anger}{pause 15}그만둘 거야?{pause 20}	{Gray}(왜 이렇게 귀찮게 굴고 난리야!){Color Reset}
+"036"	{Blue}{0004-000d-0002-cd00}년 {pause 5}{0004-000e-0002-cd00}월 {Date-cd00}일{Color Reset}에{pause 5}	배달하면 된다는 소리지?{confirmation-02}{000f-0005-0004-0015-0028}	맞아ー	아냐!
+"037"	{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Anger}{pause 10}그럼 {pause 10}언제 배달하면 되는데?
+"038"	그래그래{pause 15}	그럼 {pause 10}접수해 둘게{pause 10}	{Gray}(돌아갈 땐 {pause 5}문, 제대로 닫고 가라){Color Reset}
+"039"	그래그래{pause 15}	그럼 예전에 준 편지는 돌려주지
+"040"	그럼 잘 가{pause 5}	{Gray}(돌아갈 거면 {pause 5}문은 똑바로 닫고 가라구){Color Reset}
+"041"
+"042"
+"043"
+"044"
+"046"	{pause 5}・{pause 5}・{pause 5}・{pause 5}인터넷을 사용해서{pause 10}	{emote: Reset}기간 한정 {Blue}배포 아이템{Color Reset}을{pause 5}	{emote: Curious}다운로드하면 되겠니?{confirmation-02}{000f-0005-0004-0015-0028}	다운로드할래	나중에 할게
+"047"	{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Anger}{pause 10}그럼 우선은	주머니에 빈 공간부터 만들고	오지 않을래?{Wait for input}{emote: Reset}애초에 {pause 5}짐이 많으면	물건을 받아도 넣지를 못하잖아{pause 10}	{Gray}(얘 진짜 {pause 5}뭐니・・・){Color Reset}
+"048"	{pause 5}・{pause 5}・{pause 5}・{pause 5}배포 아이템 서비스는	{Blue}최신 버전의 이용 약관{Color Reset}에 	동의하지 않으면 이용할 수 없어{Wait for input}이용하고 싶으면 {pause 10}우선 본체 설정에서{pause 10}	{Blue}인터넷 설정 {pause 5}{Blue}→ 기타 정보{Blue}{pause 5}	{Blue}→ 이용 약관의 확인{Blue}{Color Reset}을 선택해서{Wait for input}{Blue}최신 버전의 이용 약관{Color Reset}에 동의한 뒤에{pause 10}	다시 와줬으면 좋겠는데
+"049"	{emote: Worry}미안한데{pause 5}・{pause 5}・{pause 5}・{Wait for input}지금 {pause 5}접속 중인 액세스 포인트에서는{pause 10}	아이템을 배포하지 않는 것 같아{Wait for input}{emote: Reset}아무튼 {pause 10}그렇게 됐으니까{pause 5}	나중에 다시 오지 않겠어?
+"050"	{emote: Worry}미안한데{pause 5}・{pause 5}・{pause 5}・{pause 20}	{Blue}배포 아이템 {Color Reset}서비스는	이미 끝나 버린 모양이야
+"051"	{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Alarmed}{pause 10}어?{pause 25}	{emote: Reset}지금 {Blue}배포 중인 아이템{Color Reset}은{pause 5}	이미 건네줬나 본데?{Wait for input}{Blue}배포 아이템{Color Reset}은 한 사람당	하나만 받을 수 있으니까{pause 10}	다음 기회에 다시 오라구{Wait for input}그럼{pause 5}	{Gray}(돌아갈 거면 {pause 5}문 좀 똑바로 닫아){Color Reset}
+"052"	그래 {pause 5}알겠어{pause 10}	그럼 {pause 10}{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	받아라
+"053"	난 제대로 건네줬다?{Wait for input}	그럼 잘 가{pause 5}	{Gray}(돌아갈 땐 {pause 5}문 좀 제대로 닫구){Color Reset}
+"054"	{emote: Worry}미안한데{pause 5}・{pause 5}・{pause 5}・{pause 20}	SD 카드 처리에 실패해서{pause 5}	서비스를 이용할 수 없나 봐{Wait for input}{emote: Reset}아무튼 {pause 10}그렇게 됐으니까{pause 5}	나한테 뭐라고 하진 말아줘!
+"055"	{emote: Worry}미안한데{pause 5}・{pause 5}・{pause 5}・{pause 20}	SD 카드가 쓰기 금지 상태로 설정되어{pause 5}	있어서 서비스를 이용할 수 없나 봐{Wait for input}{emote: Reset}아무튼 {pause 10}그렇게 됐으니까{pause 5}	나한테 뭐라고 하진 말아줘!
+"056"	{emote: Worry}미안한데{pause 5}・{pause 5}・{pause 5}・{pause 20}	SD 카드에 빈 용량이 부족해서{pause 5}	서비스를 이용할 수 없나 봐{Wait for input}{emote: Reset}아무튼 {pause 10}그렇게 됐으니까{pause 5}	나한테 뭐라고 하진 말아줘!
+"057"	{emote: Worry}미안한데{pause 5}・{pause 5}・{pause 5}・{pause 20}	지금 접속 중인 액세스 포인트의{pause 5}	통신 상태가 좋지 않은가 봐{Wait for input}{emote: Reset}아무튼 {pause 10}그렇게 됐으니까{pause 5}	한번 확인해보지 않겠어?
+"058"
+"059"
+"060"

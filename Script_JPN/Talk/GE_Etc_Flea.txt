@@ -1,8 +1,8 @@
 == 0 ==
-"001"	{emote: Shocked}
-"002"	{emote: Alarmed}
-"003"	{emote: Shocked}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Worry}
-"006"	{emote: Soft Smile}
-"007"	{emote: Distress}
+"001"	{emote: Shocked}ヤダー！{pause 20}	もしかして、ノミがいたの？{Wait for input}	{emote: Distress}もう　{pause 10}ちょーハズカシイんだけど！
+"002"	{emote: Alarmed}あ！　{pause 20}ノミ{ruby (charSpan 1): と}取ってくれたんだ！{pause 40}	ありがとね～
+"003"	{emote: Shocked}え～っ！{pause 20}　うそ～！{Wait for input}	{emote: Distress}アイドルに　{pause 10}ノミがいちゃ、{pause 10}	ダメじゃ～ん！
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Worry}ちゃんと　おフロ{ruby (charSpan 1): はい}入ってたのに、{pause 10}	{emote: Curious}おかしいな～、{pause 10}{catchphrase}
+"006"	{emote: Soft Smile}あんな　すばしっこいやつ{pause 10}	つかまえるなんて{Wait for input}	{emote: Anger}{Player nickname (green)}{0005-000d-0000}、{pause 10}やるじゃ～ん！
+"007"	{emote: Distress}{ruby (charSpan 1): むら}村のみんなには、ナイショにしといて{pause 5}・{pause 5}・{pause 5}・{pause 5}{Wait for input}	{ruby (charSpan 1): とく}特に　{pause 10}{0005-0002-0000}{0005-000d-0000}には！

@@ -1,58 +1,58 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Distress}
-"003"	{emote: Resigned}
-"004"	{emote: Distress}
-"005"	{emote: Happiness}
-"006"	{ruby (charSpan 2): きょう}今日は　ハロウィンだから、{pause 10}!
-"007"	{emote: Surprise}
-"008"	{emote: Curious}
-"009"	{emote: Alarmed}
-"010"	{emote: Happiness}
-"011"	{emote: Laughter}
-"012"	{emote: Glee}
-"013"	
-"014"	{emote: Distress}
-"015"	{emote: Sorrow}
-"016"	{emote: Fearful}
-"017"	
-"018"	{emote: Alarmed}
-"019"	{emote: Surprise}
-"020"	{emote: Resigned}
-"021"	{emote: Laughter}
-"022"	
-"023"	{emote: Disbelief}
-"024"	{emote: Sorrow}
-"025"	{emote: Disbelief}
-"026"	{emote: Worry}
-"027"	{emote: Fearful}
-"028"	{emote: Fearful}
-"029"	{emote: Sigh}
-"030"	
-"031"	{emote: Sorrow}
-"032"	{emote: Sorrow}
-"033"	{pause 8}
-"034"	
-"035"	
-"036"	
-"037"	{emote: Greetings}
-"038"	{emote: Glee}
-"039"	{emote: Disagreement}
-"040"	{emote: Resigned}
-"041"	{emote: Worry}
-"042"	{emote: Worry}
-"043"	{emote: Reset}
-"044"	{emote: Reset}
-"045"	{emote: Reset}
-"046"	{emote: Glare}
-"047"	{emote: Happiness}
-"048"	{emote: Worry}
-"049"	{emote: Worry}
-"050"	{pause 8}
-"051"	{emote: Agreement}
-"052"	{emote: Resigned}
-"053"	
-"054"	{0009-0000-0004-30-00-31-00}
-"055"	{0009-0000-0004-2e-00-2f-00}
-"056"	
-"057"	
+"001"	{emote: Happiness}ハロウィンは、{pause 10}	{ruby (charSpan 1): うち}家で　おかしを　ならべながら{pause 10}	{emote: Glee}パーティーするのが　イケてるよね！
+"002"	{emote: Distress}お{ruby (charSpan 1): まつ}祭りだからって、{pause 10}	{ruby (charSpan 1): き}気を　ぬいてちゃダメだよね！{Wait for input}{emote: Happiness}ハロウィンは{pause 10}	スリリングな　{pause 5}お{ruby (charSpan 1): まつ}祭りなんだから！
+"003"	{emote: Resigned}お{ruby (charSpan 1): まつ}祭りを　{ruby (charSpan 1): たの}楽しむためには、{pause 10}	ちょっとした{pause 5}　キケンも{ruby (charSpan 2): ひつよう}必要？！{Wait for input}{emote: Glee}ドキドキ{ruby (charSpan 1): かん}感を{ruby (charSpan 1): たの}楽しんでこそ、{pause 10}	ハロウィンの　ダイゴミだよね～！
+"004"	{emote: Distress}{Player nickname (green)}{0005-000d-0000}{pause 15}	{ruby (charSpan 2): きょう}今日は　ハロウィンだから{pause 10}	{ruby (charSpan 2): ようじん}用心しないとダメだよ～	{emote: Worry}ほら！{pause 20}	いつ　イタズラされてもいいように{pause 10}	しとかないとでしょ？！	{emote: Reset}まぁでも　せっかくのお{ruby (charSpan 1): まつ}祭りだし{pause 15}	{emote: Resigned}そういうのも　{pause 3}{ruby (charSpan 1): たの}楽しまないとだけどね！
+"005"	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　ハロウィンだから、{pause 10}	おかしを　{pause 5}いっぱい{ruby (charSpan 2): ようい}用意したよ！{Wait for input}{emote: Pride}これで　{pause 10}おどかされそうになっても{pause 5}	だいじょうぶだもん！
+"006"	{ruby (charSpan 2): きょう}今日は　ハロウィンだから、{pause 10}	{emote: Distress}おかしを{ruby (charSpan 1): も}持ってるなら　{pause 3}{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けてね！{Wait for input}{emote: Fearful}だれかが、{pause 10}それをねらってるかも	しれないよ～！{Wait for input}{emote: Glare}でも、{pause 10}{ruby (charSpan 1): も}持ってない{ruby (charSpan 1): ほう}方が{pause 10}	もっと　キケンかもしれないけど！
+"007"	{emote: Surprise}え？{pause 20}	{emote: Laughter}アタイが　オバケなんて{pause 10}	こわがるわけないじゃん！	{emote: Happiness}むしろ、{pause 10}{ruby (charSpan 2): ぜんしん}全身　{ruby (charSpan 1): しろ}白いコーディネートが{pause 10}	オシャレだと{ruby (charSpan 1): おも}思うよ！　{pause 8}{catchphrase}！
+"008"	{emote: Curious}フランケン{pause 8}・{pause 8}・{pause 8}・{pause 8}？！{pause 30}	{emote: Happiness}そんなの　{pause 5}こわくないな～！{Wait for input}{emote: Inspired}{ruby (charSpan 2): ちからも}力持ちそうだし、{pause 10}{ruby (charSpan 2): にもつ}荷物とか{ruby (charSpan 1): も}持ってくれる{pause 10}	{emote: Love}ジェントルマンだったりして
+"009"	{emote: Alarmed}え？{pause 20}　ちょー{ruby (charSpan 1): おお}大きいムシ？{pause 30}	{emote: Laughter}こわい　わけないよ～！{pause 20}{emote: Soft Smile}{Wait for input}	{emote: Happiness}{ruby (charSpan 3): はくぶつかん}博物館に　{ruby (charSpan 1): も}持ってっちゃうぞ～
+"010"	{emote: Happiness}オオカミおとこって、{pause 10}	{ruby (charSpan 1): つき}月を{ruby (charSpan 1): み}見ると　{pause 5}{ruby (charSpan 2): へんしん}変身するんでしょ？！{pause 20}	{emote: Glee}ちょーイケてるじゃ～ん{Wait for input}{emote: Soft Smile}アタイも　{ruby (charSpan 1): つき}月を{ruby (charSpan 1): み}見たら、{pause 10}	{emote: Love}おひめ{ruby (charSpan 1): さま}様に　{pause 5}{ruby (charSpan 2): へんしん}変身しないかな～！
+"011"	{emote: Laughter}ミイラおとこなんて　{pause 10}こわくないよ～{Wait for input}	{emote: Happiness}むしろ　{pause 5}あの{ruby (charSpan 2): ほうたい}包帯スタイル、{pause 10}	オシャレかもしれない！
+"012"	{emote: Glee}ガイコツって、{pause 10}イケてるよね！{Wait for input}	{emote: Pride}やっぱり　{pause 5}ロックなスタイルには、{pause 10}	ひっすアイテムでしょ！
+"013"
+"014"	{emote: Distress}ちょっと～！{pause 20}	おかしあげたんだから、{pause 10}	もう{ruby (charSpan 1): で}出てってよ～！
+"015"	{emote: Sorrow}おかしあげたのに、{pause 10}	なんで　{ruby (charSpan 1): かえ}帰ってくれないの～{pause 30}	ひど～い！
+"016"	{emote: Fearful}もう　カンベンして～！
+"017"
+"018"	{emote: Alarmed}うわ！{pause 20}　アンタだれ～？！{pause 30}	{emote: Disagreement}でも　ザンネンでした{pause 20}	{emote: Soft Smile}アタイ　{pause 10}ちっとも　こわくないよ～{Wait for input}{emote: Glare}もしかして、{pause 15}アタイから　おかしを{pause 10}	もらおうとしてるんでしょ！{Wait for input}{emote: Laughter}でも　そんなにカンタンには{pause 10}	わたさないよ！{pause 30}{emote: Soft Smile}	アタイと　{ruby (charSpan 2): しょうぶ}勝負してからじゃないとね{Wait for input}ゲームをして、{pause 10}アンタが　{ruby (charSpan 1): か}勝てば{pause 15}	{Blue}アメ{Color Reset}ちゃんを　{pause 3}プレゼント！{Wait for input}{emote: Mischief}でも　アタイが{ruby (charSpan 1): か}勝ったら{pause 8}・{pause 8}・{pause 8}・{pause 8}	おどかそうとした　お{ruby (charSpan 1): かえ}返しに{pause 15}	イタズラさせてもらうけどね！　{pause 15}{catchphrase}！
+"019"	{emote: Surprise}それで　アタイのこと{pause 15}	おどろかせようとしたの？！{Wait for input}{emote: Laughter}キャハハ！　{pause 30}そんなんじゃ	ビックリしないから！{pause 40}{emote: Soft Smile}{Wait for input}{emote: Mischief}おどかすっていうのは、{pause 10}	こういうことだよ{pause 8}・{pause 8}・{pause 8}・{pause 30}{emote: Reset}って{pause 10}	イタズラしちゃおうかと{ruby (charSpan 1): おも}思ったけど、	{emote: Resigned}ちょっと　かわいそうだから{pause 3}	チャンスをあげるね！{Wait for input}{emote: Happiness}ゲームをして　アタイに{ruby (charSpan 1): か}勝てたら{pause 15}	ごほうびに{pause 10}　{Blue}アメ{Color Reset}ちゃんをあげる！{Wait for input}{emote: Glare}でも　アンタが　{ruby (charSpan 1): ま}負けたときは、{pause 15}	アタイからの　{pause 3}バツゲームが{ruby (charSpan 1): ま}待ってるから{pause 15}	カクゴしてね、{pause 15}{catchphrase}！
+"020"	{emote: Resigned}アタイみたいな{pause 5}	かよわいコだって、{pause 10}	{emote: Pride}やるときは　やるんだから！
+"021"	{emote: Laughter}えへへ！{pause 40}　{emote: Glare}アタイだって、{pause 10}	こわがってばかりじゃ　{pause 5}ないんだからね
+"022"
+"023"	{emote: Disbelief}きゃぁぁぁ！！{pause 20}	{0012-0004-0002-cd00}！{Wait for input}	{emote: Distress}おかし　あげるから、{pause 10}{ruby (charSpan 1): き}消えて～！！
+"024"	{emote: Sorrow}{0012-0004-0002-cd00}！！{pause 20}	い～や～ぁぁぁ！{Wait for input}{emote: Fearful}お{ruby (charSpan 1): ねが}願いだから　{pause 10}いなくなって！{pause 20}	おかしなら　{pause 8}あげるから！！{pause 30}{emote: Worry}
+"025"	{emote: Disbelief}きゃぁぁぁ！！{pause 20}	{0012-0004-0002-cd00}！{Wait for input}	{emote: Distress}おかし　あげるから、{pause 10}{ruby (charSpan 1): き}消えて～！！	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 20}あれ？{Wait for input}	{ruby (charSpan 2): にもつ}荷物が　いっぱいみたいだよ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Worry}おかし　{pause 5}わたせないじゃん！{pause 20}	{emote: Sorrow}アタイ、{pause 10}{ruby (charSpan 4): ぜったいぜつめい}絶体絶命！
+"026"	{emote: Worry}おかしあげたんだから{pause 10}	もう　{pause 10}イタズラやめてよね！
+"027"	{emote: Fearful}もう　おかしあげたから{pause 10}	{ruby (charSpan 2): まんぞく}満足でしょ？！
+"028"	{emote: Fearful}あ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): にがて}苦手なものに{ruby (charSpan 1): あ}会うと{pause 15}　テンション{ruby (charSpan 1): さ}下がるわ～
+"029"	{emote: Sigh}やっぱり　{ruby (charSpan 2): あいか}相変わらず{pause 15}	アレだけは　{pause 3}ビビっちゃうよ～
+"030"
+"031"	{emote: Sorrow}あ～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Worry}これあげるから{pause 10}	イタズラは　やめて～
+"032"	{emote: Sorrow}あ～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Worry}おかし　あげるから{pause 10}	イタズラは　やめて～	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}ん？{pause 40}	{emote: Resigned}まだ　{ruby (charSpan 1): も}持ち{ruby (charSpan 1): もの}物が　いっぱいじゃん{Wait for input}{emote: Worry}{ruby (charSpan 2): にもつ}荷物{ruby (charSpan 1): へ}減らさないと、{pause 10}	わたせないんだってば～
+"033"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Worry}あれ～？{pause 40}	{emote: Distress}ちょっとちょっと！{pause 30}	{ruby (charSpan 1): なん}何で　{pause 5}{ruby (charSpan 1): き}効き{ruby (charSpan 1): め}目ないわけ～？！
+"034"
+"035"
+"036"
+"037"	{emote: Greetings}イェーイ！{pause 30}	ハッピーハロウィーン！{000f-0000-0004-0000-0000}	おかしほしいな！	{ruby (charSpan 1): なに}何か{ruby (charSpan 1): はな}話して
+"038"	{emote: Glee}{Player nickname (green)}{0005-000d-0000}！{pause 20}	ハッピーハロウィーンだね！{000f-0000-0004-0000-0000}	おかしちょーだい！	{ruby (charSpan 1): はな}話しに{ruby (charSpan 1): き}来たよ
+"039"	{emote: Disagreement}それは　{pause 3}できないな～！{Wait for input}{emote: Worry}だって　{pause 15}{ruby (charSpan 2): にがて}苦手なアイツが	{ruby (charSpan 1): き}来たときのために、{pause 15}	おかしを　{pause 3}{ruby (charSpan 2): ようい}用意しとかなきゃだもん
+"040"	{emote: Resigned}その　かっこうじゃ{pause 15}	アタイは　ビックリしないよ～{Wait for input}{emote: Thought}もっと　こわい{ruby (charSpan 2): かっこう}格好だったら{pause 10}・{pause 10}・{pause 10}・{pause 30}	{emote: Fearful}アタイ　{pause 10}おかし　わたしちゃうだろ～な！
+"041"	{emote: Worry}ねぇ{pause 8}・{pause 8}・{pause 8}・{pause 40}	もう　ゲームも{ruby (charSpan 1): お}終わったんだし{pause 15}	{ruby (charSpan 1): き}気がすんだら　{pause 3}{ruby (charSpan 1): かえ}帰ってね
+"042"	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 40}	まだ　{ruby (charSpan 1): なに}何か　{pause 3}たくらんでるの～？！
+"043"	{emote: Reset}それじゃあ{pause 15}	{emote: Sunny}{Blue}じゃんけん{Color Reset}で　{ruby (charSpan 2): しょうぶ}勝負ね！{0007-0012-0006-0100-0036-0037}
+"044"	{emote: Reset}それじゃあ{pause 15}	{emote: Sunny}{Blue}ジェスチャーゲーム{Color Reset}で　{ruby (charSpan 2): しょうぶ}勝負ね！{0007-0012-0006-0101-0036-0037}
+"045"	{emote: Reset}それじゃあ{pause 15}	{emote: Sunny}{Blue}あっちむいてホイ！　{Color Reset}で、	{ruby (charSpan 2): しょうぶ}勝負しよ～！{0007-0012-0006-0102-0036-0037}
+"046"	{emote: Glare}それじゃあ　{pause 3}{ruby (charSpan 3): やくそくどお}約束通り{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Star Yell}{pause 20}{0007-000b-0000}{Text size 150%}イタズラだよ～！{0007-0008-0004-003c-0000}{Text size 100%}
+"047"	{emote: Happiness}よ～し！{pause 30}	それじゃあ、{pause 15}バツゲームだよ～！{Wait for input}	{emote: Star Yell}{pause 20}{0007-000b-0000}{Text size 150%}それぇ～！{Text size 100%}{0007-0008-0004-003c-0000}
+"048"	{emote: Worry}も～！　{pause 20}ザンネンだけど{pause 30}	{Blue}アメ{Color Reset}ちゃん　{pause 5}プレゼントだよ、{pause 15}{catchphrase}
+"049"	{emote: Worry}あ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): か}勝てると　{ruby (charSpan 1): おも}思ったのに～{Wait for input}じゃあ　{pause 15}{ruby (charSpan 2): やくそく}約束の{pause 5}	{Blue}アメ{Color Reset}ちゃん、あげちゃうよ、{pause 15}{catchphrase}
+"050"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Alarmed}って、{pause 20}あれ？！{pause 40}	{ruby (charSpan 2): にもつ}荷物いっぱいじゃ～ん{Wait for input}{emote: Resigned}それじゃあ{pause 3}　わたせないから、{pause 15}	{ruby (charSpan 1): わる}悪いけど　{pause 5}{ruby (charSpan 1): いま}今の{ruby (charSpan 2): しょうぶ}勝負は{ruby (charSpan 1): な}無しね
+"051"	{emote: Agreement}せっかく　ゆずってあげたんだから{pause 15}	アタイの　{Blue}アメ{Color Reset}ちゃん{pause 15}　{ruby (charSpan 2): たいせつ}大切にしてよ～
+"052"	{emote: Resigned}アタイが　{ruby (charSpan 1): ま}負けるなんて{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Worry}{ruby (charSpan 1): よ}世の{ruby (charSpan 1): なか}中、{pause 15}{Blue}アメ{Color Reset}ちゃんみたいに{pause 10}	あまくは　ないか～
+"053"
+"054"	{0009-0000-0004-0030-0031}
+"055"	{0009-0000-0004-002e-002f}
+"056"
+"057"

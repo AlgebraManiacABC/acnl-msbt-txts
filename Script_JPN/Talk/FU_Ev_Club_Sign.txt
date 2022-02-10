@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Curious}
-"003"	{emote: Sheepishness}
-"004"	{emote: Curious}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{pause 5}
+"001"	{emote: Curious}あら、{pause 20}{ruby (charSpan 1): なん}何の{ruby (charSpan 2): しょめい}署名ですか？{Wait for input}	{emote: Alarmed}まぁ！{pause 15}	{ruby (charSpan 3): しょうてんがい}商店街に　ライブハウス？！{Wait for input}{emote: Happiness}それは、にぎやかになりそうですね{pause 20}	ぜひ　{ruby (charSpan 2): きょうりょく}協力させていただきます！	{pause 8}{catchphrase}！
+"002"	{emote: Curious}{ruby (charSpan 2): しょめい}署名ですか{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Surprise}あら、{pause 15}ライブハウス！{pause 30}	{emote: Happiness}それは、{ruby (charSpan 2): おもしろ}面白そうですね	わたしでよければ、{pause 10}	ぜひ　{ruby (charSpan 2): しょめい}署名させてください！　{pause 8}{catchphrase}！
+"003"	{emote: Sheepishness}まぁ、{pause 20}{ruby (charSpan 2): しょめい}署名{ruby (charSpan 1): あつ}集めですか{pause 20}	なんだか　{ruby (charSpan 2): たいへん}大変そうですね、{pause 8}{catchphrase}{Wait for input}{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Alarmed}{pause 5}えっ、{pause 15}{ruby (charSpan 3): しょうてんがい}商店街にライブハウスが？！{Wait for input}	{emote: Happiness}そういうことでしたら、{pause 10}わたしも	ぜひ　{ruby (charSpan 2): きょうりょく}協力させていただきます！
+"004"	{emote: Curious}あら？　{pause 8}{catchphrase}？{Wait for input}	{emote: Thought}ライブハウスの{ruby (charSpan 2): しょめい}署名でしたら、{pause 10}	この{ruby (charSpan 1): まえ}前も　した{ruby (charSpan 1): き}気がしますが{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}まぁ、{pause 20}カン{ruby (charSpan 1): ちが}違いかもしれませんし、{pause 10}	{ruby (charSpan 2): しょめい}署名させていただきますね
+"005"	{emote: Happiness}はい、{pause 10}どうぞ！{Wait for input}	わたしが　{ruby (charSpan 2): ひとり}1人{ruby (charSpan 1): め}目だったみたいですね{Wait for input}では、{pause 10}これから	がんばってくださいね、{pause 15}{catchphrase}
+"006"	{emote: Happiness}はい、{pause 10}どうぞ！　{pause 8}{catchphrase}！{pause 20}	{ruby (charSpan 1): はや}早く　{ruby (charSpan 2): しょめい}署名が{pause 5}{ruby (charSpan 1): あつ}集まるといいですね
+"007"	{emote: Happiness}はい、{pause 10}{ruby (charSpan 1): か}書けましたよ！{Wait for input}	{ruby (charSpan 2): じつげん}実現すると　いいですね、{pause 15}{catchphrase}
+"008"	{emote: Happiness}これでいいですか？{Wait for input}	ライブハウスができたら、{pause 10}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): い}行きますね！　{pause 8}{catchphrase}！
+"009"	{emote: Happiness}あと　もう{ruby (charSpan 1): すこ}少しみたいですね！{pause 15}	がんばってください、{pause 15}{catchphrase}
+"010"	{pause 5}{emote: Alarmed}{pause 5}あら！{pause 20}	{emote: Reset}これで　{ruby (charSpan 2): ひつよう}必要な{ruby (charSpan 2): にんずう}人数の{ruby (charSpan 2): しょめい}署名が{pause 5}	{ruby (charSpan 1): あつ}集まったみたいですね{Wait for input}{emote: Happiness}おめでとうございます！{Wait for input}	わたしも　ライブハウスの{ruby (charSpan 2): かんせい}完成を{pause 5}	{ruby (charSpan 1): たの}楽しみにしていますね、{pause 8}{catchphrase}！

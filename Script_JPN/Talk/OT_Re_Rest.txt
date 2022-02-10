@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Sigh}
-"003"	{emote: Worry}
+"001"	{emote: Alarmed}あら、{pause 16}アナタ　{ruby (charSpan 1): つか}疲れてるの？{pause 32}	{emote: Sheepishness}すごい　{ruby (charSpan 2): ふたえ}二重まぶたに{pause 8}	なってるじゃない？	{emote: Alarmed}あ、{pause 8}{ruby (charSpan 1): き}気のせいか{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Worry}とにかく　ムリしちゃダメよ～、{pause 8}	{Player nickname (green)}{0005-000d-0000}
+"002"	{emote: Sigh}{pause 60}さすがに　ちょっと{pause 15}	{ruby (charSpan 1): つか}疲れてきたわね{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Curious}アナタも　{pause 8}{ruby (charSpan 1): すこ}少し{ruby (charSpan 1): やす}休んだらどう？	{emote: Sheepishness}{ruby (charSpan 1): べつ}別に　お{ruby (charSpan 2): しごと}仕事じゃないんだから、{pause 16}	{ruby (charSpan 1): やす}休み{ruby (charSpan 1): やす}休みでいいのよ、{pause 8}	{Player nickname (green)}{0005-000d-0000}
+"003"	{emote: Worry}{Player nickname (green)}{0005-000d-0000}、{pause 16}	なんだか　{ruby (charSpan 1): つか}疲れてそう{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}そんなに　ムリしないで{pause 16}	{ruby (charSpan 1): すこ}少し　{ruby (charSpan 1): やす}休んだらどう？　	{pause 8}{catchphrase}？

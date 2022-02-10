@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{0000-0002-0002-4b-00}하하핫!{pause 20}
-"002"	{0000-0002-0002-4b-00}・{pause 8}!
-"003"	{emote: Sleepy}
-"004"	{0000-0002-0002-4b-00}우웅{pause 8}
-"005"	・{pause 8}
-"006"	・{pause 8}
-"007"	{emote: Sleepy}
-"008"	
-"009"	{emote: Alarmed}
-"010"	{emote: Happiness}
-"011"	아, {pause 20}
-"012"	{emote: Alarmed}
-"013"	안녕, {pause 20}
-"014"	{emote: Disbelief}
-"015"	{emote: Happiness}
+"001"	{Text size 75%}하하핫!{pause 20}	뭘 이런 걸 다!{pause 20} 이 정도는 기본인데!{pause 40}	이거 쑥스럽구만{pause 8}・{pause 8}・{pause 8}・{Text size 100%}{Wait for input}{emote: Sleepy}{pause 20}흐아아암～～{Wait <0078 0000> 'time'}
+"002"	{Text size 75%}・{pause 8}・{pause 8}・{pause 20}드르렁～ 쩝쩝{pause 20}	・{pause 8}・{pause 8}・{Text size 100%}{pause 20}{emote: Alarmed}{0007-000b-0000}헉!{Wait <0078 0000> 'time'}
+"003"	{emote: Sleepy}{pause 20}흐아아암～～{Wait <0078 0000> 'time'}
+"004"	{Text size 75%}우웅{pause 8}・{pause 8}・{pause 8}・{pause 40}	조금만 더 잘래{pause 40}{Text size 100%}	{emote: Shocked}{0007-000b-0000}엄마!{pause 8} 5분만 더요ー!{Wait for input}{emote: Sleepy}{pause 20}흐아아암～～{pause 40}{emote: Disagreement}{Wait <0078 0000> 'time'}
+"005"	・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{0007-000b-0000}앗!{Wait <0078 0000> 'time'}
+"006"	・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{0007-000b-0000}크헉!{Wait <0078 0000> 'time'}
+"007"	{emote: Sleepy}{pause 20}우우웅{pause 8}・{pause 8}・{pause 8}・{Wait <0078 0000> 'time'}
+"008"
+"009"	{emote: Alarmed}{0007-000a-0000}어엇?!{pause 20} {Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}!{pause 20}	여기 시상식장 아니냐?{Wait for input}{emote: Mistaken}으아ー!{pause 20} 꿈이었어ー?{pause 40}	내가 드디어{pause 20} 금메달을	목에 거는 순간이었는데{pause 8}・{pause 8}・{pause 8}・
+"010"	{emote: Happiness}여어, {Player nickname (green)} 아니냐?{pause 40}	{emote: Shocked}{0007-000a-0000}뭐?!{pause 20} 침 흘렀다고?!{Wait for input}	{emote: Distress}이,{pause 20} 이건{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Pride}침이 아니라	입에서 땀이 난 거라고ー!
+"011"	아, {pause 20}{Player nickname (green)}{000e-000e-0006-0002-c774-0000}구나{pause 40}	{emote: Sleepy}우웅～{pause 20} 졸려{pause 8}・{pause 8}・{pause 8}・{Wait for input}어제 밤늦게까지{pause 20}	{0005-0011-0002-0000} 시합 중계를 봤더니	잠이 쏟아지네, {pause 8}{catchphrase}
+"012"	{emote: Alarmed}{0007-000a-0000}어엇!{pause 20} {Player nickname (green)}?!{pause 40}	{emote: Bashful}너 혹시{pause 20} 방금 내가 한 말 들었냐?
+"013"	안녕, {pause 20}{Player nickname (green)}{pause 40}	{emote: Worry}아야야야{pause 8}・{pause 8}・{pause 8}・{pause 20}	엉덩이에 쥐가 났나 봐ー
+"014"	{emote: Disbelief}{0007-000a-0000}어엇!{pause 40} 어디선가 인기척이	느껴진다 싶더라니	{Player nickname (green)}{000e-000e-000a-0004-c774-c5c8-0002-c600}군!{Wait for input}{emote: Glare}내가 자는 틈을 노리다니{pause 20}	그러면 못쓴다!
+"015"	{emote: Happiness}여어, {pause 20}{Player nickname (green)}!{pause 40}	너도 여기 앉아 졸고 싶은 거냐?

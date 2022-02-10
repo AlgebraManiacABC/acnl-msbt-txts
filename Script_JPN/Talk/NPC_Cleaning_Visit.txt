@@ -1,84 +1,84 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Greetings}
-"003"	ボクね、{pause 10}
-"004"	{emote: Distress}
-"005"	{emote: Joy}
-"006"	{emote: Joy}
-"007"	それね、{pause 10}
-"008"	{emote: Distress}
-"009"	
-"010"	{emote: Distress}
-"011"	{emote: Distress}
-"012"	{pause 15}
-"013"	{pause 5}
-"014"	{emote: Fearful}
-"015"	{emote: Delight}
-"016"	それで、{pause 5}
-"017"	{emote: Shyness}
-"018"	{emote: Shyness}
-"019"	{emote: Happiness}
-"020"	{0000-0002-0002-4b-00} {0000-0002-0002-64-00}	{emote: Star Yell}
-"021"	{emote: Curious}
-"022"	{emote: Thought}
-"023"	{emote: Thought}
-"024"	{emote: Thought}
-"025"	{emote: Thought}
-"026"	{emote: Thought}
-"027"	{emote: Distress}
-"028"	{emote: Joy}
-"029"	{emote: Happiness}
-"030"	{emote: Shyness}
-"031"	{emote: Happiness}
-"032"	{emote: Greetings}
-"033"	{emote: Thought}
-"034"	{emote: Sunny}
-"035"	{emote: Sunny}
-"036"	{emote: Greetings}
-"037"	{emote: Happiness}
-"038"	{emote: Sleep Bubble}
-"039"	{emote: Sleep Bubble}
-"041"	{emote: Greetings}
-"042"	{emote: Love}
-"043"	{emote: Love}
-"044"	{emote: Love}
-"045"	{emote: Love}
-"046"	{emote: Love}
-"047"	{emote: Love}
-"048"	{emote: Love}
-"049"	{emote: Love}
-"050"	{emote: Shyness}
-"051"	{emote: Joy}
-"052"	{emote: Reset}
-"053"	{emote: Reset}
-"054"	それね、{pause 10}
-"055"	それね、{pause 10}
-"056"	それね、{pause 10}
-"057"	それね、{pause 10}
-"058"	{0007-0004-0000}
-"059"	{emote: Greetings}
-"060"	
-"061"	{emote: Greetings}
-"062"	{emote: Greetings}
-"063"	{emote: Happiness}
-"064"	{emote: Greetings}
-"065"	ふぅ！{pause 15}
-"066"	{emote: Greetings}
-"067"	{emote: Greetings}
-"068"	{emote: Reset}
-"069"	
-"071"	{emote: Happiness}
-"072"	そうだ　{Player name}
-"073"	{emote: Sleepy}
-"074"	{emote: Happiness}
-"075"	
-"076"	{emote: Happiness}
-"077"	ボク、{pause 10}
-"078"	{emote: Happiness}
-"079"	{emote: Sleepy}
-"080"	
-"081"	{emote: Greetings}
-"082"	{emote: Greetings}
-"083"	
-"084"	
-"085"	
+"001"	{emote: Greetings}やぁやぁ、{pause 10}	{ruby (charSpan 2): そんちょう}村長さんの　{Player name}さん～
+"002"	{emote: Greetings}やぁやぁ、{pause 10}{Player name}さん～
+"003"	ボクね、{pause 10}{ruby (charSpan 2): きょう}今日　{Orange}しずちゃん{Color Reset}にね、{pause 10}	{ruby (charSpan 2): むらじゅう}村中　{ruby (charSpan 2): ざっそう}雑草だらけ　だから	{ruby (charSpan 1): なん}何とかしてって　たのまれたんだよぉ	{emote: Shyness}だけど　あまりにもボーボーすぎて、{pause 10}	ボク　ショックで	{ruby (charSpan 2): きぜつ}気絶しちゃってたみたい{pause 5}・{pause 5}・{pause 5}・
+"004"	{emote: Distress}{0007-0004-0000}ほら、どこもかしこも	{ruby (charSpan 1): くさ}草ボーボーじゃ{pause 10}・{pause 10}・{pause 10}・{pause 10}{0007-0005-0000}{emote: Reset}{Wait <0028 0000> 'time'}{Wait for input}{emote: Curious}{0007-0004-0000}{pause 5}{Text size 75%}ないねぇ？{Text size 100%}{pause 20}{0007-0005-0000}{Wait for input}{emote: Thought}ありゃ{pause 5}・{pause 5}・{pause 5}・{pause 15}	ボーボーじゃ　なくなってる{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Inspired}{pause 5}そっかぁ！{pause 25}	{emote: Happiness}きっと　{ruby (charSpan 2): ざっそう}雑草の{ruby (charSpan 2): かみさま}神様が、{pause 5}	かわりに　おそうじ　してくれたんだぁ！
+"005"	{emote: Joy}ボク　{pause 10}とってもハッピーだから、{pause 10}	{Player name}さんにも	ハッピーを　おすそ{ruby (charSpan 1): わ}分けしたいなぁ！{Wait for input}{emote: Happiness}ちょっと　いいモノがあるから、{pause 10}	{ruby (charSpan 1): て}手があいたら　{ruby (charSpan 1): と}取りに{ruby (charSpan 1): き}来て～！{Wait for input}{emote: Reset}{pause 5}・{pause 5}・{pause 5}・{pause 5}あ、{pause 10}でもボク	お{ruby (charSpan 1): みせ}店ほったらかして　{ruby (charSpan 1): き}来ちゃったから、{pause 10}	なるべく{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): もど}戻ってきてねぇ{Wait for input}{emote: Glare}でないと、たぶん{pause 10}	{ruby (charSpan 1): わす}忘れて　{ruby (charSpan 1): かえ}帰っちゃうよぉ
+"006"	{emote: Joy}ボク　{pause 10}とってもハッピーだから、{pause 10}	{Player name}さんにも	ハッピーの　おすそ{ruby (charSpan 1): わ}分け～
+"007"	それね、{pause 10}	{0011-0003-0002-0000}なんだぁ{Wait for input}ふつうには　{ruby (charSpan 1): う}売ってないから、{pause 10}	{ruby (charSpan 1): さ}咲かすのが　むずかしい{ruby (charSpan 2): ひんしゅ}品種なんだよ～{Wait for input}{emote: Shyness}キレイな{ruby (charSpan 1): はな}花が　いっぱい{ruby (charSpan 1): さ}咲いてたら、{pause 10}	また　{ruby (charSpan 2): ざっそう}雑草の{ruby (charSpan 2): かみさま}神様が	{ruby (charSpan 1): むら}村をキレイにしてくれると　{ruby (charSpan 1): おも}思うんだぁ{Wait for input}{emote: Happiness}だから　{Player name}さん、{pause 10}	そのタネを　{ruby (charSpan 1): う}植えてあげてね～
+"008"	{emote: Distress}ほらぁっ！{pause 10}	どこもかしこも　ボーボーなんだよぉ～！{Wait for input}{emote: Worry}{pause 5}・{pause 5}・{pause 5}・{pause 10}{pause 10}きっと、{pause 10}いつも{ruby (charSpan 1): むら}村を	キレイにしてくれてる　{ruby (charSpan 2): ざっそう}雑草の{ruby (charSpan 2): かみさま}神様に{emote: Sadness}{pause 5}	{ruby (charSpan 2): みはな}見放されちゃったんだねぇ{pause 5}・{pause 5}・{pause 5}・{Wait for input}むむむむむ{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Alarmed}あっ、{pause 10}そうだぁ！{Wait for input}	{emote: Reset}ここは　ボクたちで　{ruby (charSpan 2): きょうりょく}協力して	{ruby (charSpan 2): いっしょ}一緒に　{ruby (charSpan 1): むら}村をおそうじ　しようよぉ！{Wait for input}{emote: Happiness}そしたら　{ruby (charSpan 1): はや}早くキレイになるし、{pause 10}	{ruby (charSpan 2): ざっそう}雑草の{ruby (charSpan 2): かみさま}神様も　{ruby (charSpan 1): ゆる}許してくれるはず！{Wait for input}	{emote: Curious}どうかな？{pause 15}　{ruby (charSpan 2): てつだ}手伝ってくれるぅ？{confirmation-02}{000f-0005-0004-0015-0028}	まかせて！	それはちょっと・・・
+"009"
+"010"	{emote: Distress}{0007-0004-0000}ほら　どこもかしこも	ボーボー{pause 10}・{pause 10}・{pause 10}・{0007-0005-0000}{Wait <002d 0000> 'time'}{Wait for input}{emote: Reset}{pause 30}{emote: Curious}ありゃ？{pause 15}　ちょっと{ruby (charSpan 1): へ}減ったような？{Wait for input}	{emote: Thought}{Text size 75%}むむむむむ{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{Text size 100%}
+"011"	{emote: Distress}{0007-0004-0000}ほら　どこもかしこも	ボーボー{pause 10}・{pause 10}・{pause 10}・{0007-0005-0000}{Wait <002d 0000> 'time'}{Wait for input}{emote: Reset}{pause 30}{emote: Curious}ありゃ？{pause 15}　そうでもないねぇ？{Wait for input}	{emote: Thought}{Text size 75%}むむむむむ{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{Text size 100%}
+"012"	{pause 15}{emote: Inspired}{pause 15}あっ！{pause 10}　もしかしたら、{pause 10}	{emote: Reset}{ruby (charSpan 1): み}見るに{ruby (charSpan 1): み}見かねた　{ruby (charSpan 2): ざっそう}雑草の{ruby (charSpan 2): かみさま}神様が	{ruby (charSpan 1): すく}救いの{ruby (charSpan 1): て}手を　さしのべてくれたのかも！{Wait for input}{pause 10}{emote: Joy}はぁ～っ、{pause 10}よかったぁ～！{pause 15}	これなら　なんとか	この{ruby (charSpan 1): むら}村も　{ruby (charSpan 2): さいせい}再生できるよねぇ～	{emote: Reset}{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Alarmed}{pause 10}あっ、{pause 10}そうだぁ！{Wait for input}	{emote: Reset}あとは　ボクたちで　{ruby (charSpan 2): きょうりょく}協力して、{pause 10}	{ruby (charSpan 2): いっしょ}一緒に　おそうじしない？{Wait for input}{emote: Happiness}そしたら　すぐにキレイになるし、{pause 10}	{ruby (charSpan 2): ざっそう}雑草の{ruby (charSpan 2): かみさま}神様も　{ruby (charSpan 1): よろこ}喜んでくれるはず！{Wait for input}	{emote: Curious}どうかな？{pause 15}　{ruby (charSpan 2): てつだ}手伝ってくれるぅ？{confirmation-02}{000f-0005-0004-0015-0028}	まかせて！	それはちょっと・・・
+"013"	{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 20}{emote: Shocked}{pause 30}{Wait <001e 0000> 'time'}
+"014"	{emote: Fearful}{pause 10}ボ、{pause 10}ボク　{pause 5}ショックで	{ruby (charSpan 2): きぜつ}気絶しちゃいそう{pause 5}・{pause 5}・{pause 5}・
+"015"	{emote: Delight}わ～い、{pause 10}きまり～！{pause 30}{emote: Happiness}{Wait for input}{emote: Reset}じゃあ　{Player name}さんは	{ruby (charSpan 2): ざっそう}雑草を　{ruby (charSpan 1): ぬ}抜く{ruby (charSpan 1): がかり}係ね！
+"016"	それで、{pause 5}ボクは{pause 5}・{pause 5}・{pause 5}・{pause 10}	{emote: Pride}{pause 5}{ruby (charSpan 1): のこ}残りの{ruby (charSpan 2): ざっそう}雑草を　{ruby (charSpan 1): かぞ}数える{ruby (charSpan 1): がかり}係！
+"017"	{emote: Shyness}あと、{pause 10}ちょうど{ruby (charSpan 1): いま}今　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てる	{Player name}さんの　お{ruby (charSpan 2): ともだち}友達にも、{pause 10}	{ruby (charSpan 1): ぬ}抜く{ruby (charSpan 1): がかり}係を　やってもらえるといいなぁ	{emote: Reset}それから、{pause 5}ボクは{pause 5}・{pause 5}・{pause 5}・{pause 10}	{emote: Pride}{pause 5}{ruby (charSpan 1): のこ}残りの{ruby (charSpan 2): ざっそう}雑草を　{ruby (charSpan 1): かぞ}数える{ruby (charSpan 1): がかり}係！
+"018"	{emote: Shyness}あと、{pause 10}ちょうど{ruby (charSpan 1): いま}今　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てる	{Player name}さんの　お{ruby (charSpan 2): ともだち}友達たちにも、{pause 10}	{ruby (charSpan 1): ぬ}抜く{ruby (charSpan 1): がかり}係を　やってもらえるといいなぁ	{emote: Reset}それから、{pause 5}ボクは{pause 5}・{pause 5}・{pause 5}・{pause 10}	{emote: Pride}{pause 5}{ruby (charSpan 1): のこ}残りの{ruby (charSpan 2): ざっそう}雑草を　{ruby (charSpan 1): かぞ}数える{ruby (charSpan 1): がかり}係！
+"019"	{emote: Happiness}1{ruby (charSpan 1): ぽん}本も{ruby (charSpan 1): のこ}残さずに　ツルピカになるまで、{pause 10}	がんばろうねぇ！{Wait for input}{emote: Reset}それじゃ　いくよぉ{pause 5}・{pause 5}・{pause 5}・
+"020"	{Text size 75%} {Text size 100%}	{emote: Star Yell}{pause 20}{0007-000b-0000}{000d-0009-0000}{Text size 150%}はっじめぇ～！{Text size 100%}{000d-000a-0000}{pause 15}{emote: Reset}{Wait <001e 0000> 'time'}
+"021"	{emote: Curious}あり？{Wait for input}	なんでボク　こんなとこに	いたんだっけ{pause 5}・{pause 5}・{pause 5}・{pause 5}？{Wait for input}{emote: Thought}{Text size 75%}え～と{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{Text size 100%}{pause 20}	{emote: Alarmed}{pause 10}あぁっ！{pause 15}　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出したぁ！{pause 15}	{ruby (charSpan 2): ざっそう}雑草が　ボーボーだったんだぁ！
+"022"	{emote: Thought}{ruby (charSpan 1): のこ}残り　{Number (0x9)}{000e-000c-0000}{pause 5}・{pause 5}・{pause 5}・{pause 5}！{Wait for input}	{emote: Happiness}{ruby (charSpan 1): みち}道のりは　とおいけど、{pause 10}	ボクたちなら　できるよねぇ！{000f-0005-0004-0015-0028}	まかせて！	もうやめたい・・・
+"023"	{emote: Thought}{ruby (charSpan 1): のこ}残り　{Number (0x9)}{000e-000c-0000}{pause 5}・{pause 5}・{pause 5}・{pause 5}！{Wait for input}	{emote: Happiness}だいぶ　{ruby (charSpan 2): たいへん}大変だけど、{pause 10}	{ruby (charSpan 2): いっしょ}一緒に　がんばろうねぇ！{000f-0005-0004-0015-0028}	まかせて！	もうやめたい・・・
+"024"	{emote: Thought}{ruby (charSpan 1): のこ}残り　{Number (0x9)}{000e-000c-0000}{pause 5}・{pause 5}・{pause 5}・{pause 5}！{Wait for input}	{emote: Happiness}ちょっと　{ruby (charSpan 2): たいへん}大変だけど、{pause 10}	{ruby (charSpan 2): いっしょ}一緒に　がんばろうねぇ！{000f-0005-0004-0015-0028}	まかせて！	もうやめたい・・・
+"025"	{emote: Thought}{ruby (charSpan 1): のこ}残り　{Number (0x9)}{000e-000c-0000}{pause 5}・{pause 5}・{pause 5}・{pause 5}！{Wait for input}	{emote: Happiness}これぐらいなら　ゴールは{ruby (charSpan 1): み}見えてるよね！{pause 10}	{ruby (charSpan 2): さいご}最後まで　がんばろうねぇ！{000f-0005-0004-0015-0028}	まかせて！	もうやめたい・・・
+"026"	{emote: Thought}{ruby (charSpan 1): のこ}残り　{Number (0x9)}{000e-000c-0000}{pause 5}・{pause 5}・{pause 5}・{pause 5}！{Wait for input}	{emote: Happiness}あと　もうちょいだねぇ！{pause 15}	がんばろうねぇ！{000f-0005-0004-0015-0028}	まかせて！	もうやめたい・・・
+"027"	{emote: Distress}そんなぁ～っ！{pause 15}	せっかく　がんばってたんだから、{pause 10}	もうちょっと　がんばろうよぉ～っ！{000f-0005-0004-0015-0028}	じゃあ、がんばる！	もうイヤだ！
+"028"	{emote: Joy}よかったぁ～！{Wait for input}	{emote: Happiness}{pause 10}ボクも　{Player name}さんのために、{pause 5}	がんばって　{ruby (charSpan 1): くさ}草を{ruby (charSpan 1): かぞ}数えるからねっ！
+"029"	{emote: Happiness}なんとか　{ruby (charSpan 2): よあ}夜明けまでには	1{ruby (charSpan 1): ぽん}本も{ruby (charSpan 1): のこ}残さず　ツルピカになるように、{pause 10}	がんばろうねぇ！{Wait for input}{emote: Reset}それじゃ　いくよぉ{pause 5}・{pause 5}・{pause 5}・
+"030"	{emote: Shyness}とはいっても、{pause 10}{ruby (charSpan 1): あさ}朝6{ruby (charSpan 1): じ}時になったら	ボク{ruby (charSpan 1): かえ}帰らなくちゃ　いけないから{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}あまり{ruby (charSpan 2): じかん}時間はないけど、{pause 10}	それまでには　1{ruby (charSpan 1): ぽん}本も{ruby (charSpan 1): のこ}残さず{pause 5}	ツルピカになるように　がんばろうねぇ！{Wait for input}{emote: Reset}それじゃ　いくよぉ{pause 5}・{pause 5}・{pause 5}・
+"031"	{emote: Happiness}{Player name}さんにも	ハッピーを　おすそ{ruby (charSpan 1): わ}分けしたいから、{pause 15}	{ruby (charSpan 1): も}持ちものを　{ruby (charSpan 1): へ}減らしてから　{ruby (charSpan 1): と}取りに{ruby (charSpan 1): き}来てねぇ{Wait for input}{emote: Reset}でもボク　お{ruby (charSpan 1): みせ}店に{ruby (charSpan 1): もど}戻らないとダメだし、{pause 10}	なるべく{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): もど}戻ってきてよぉ？{Wait for input}{emote: Glare}でないと、たぶん{pause 10}	{ruby (charSpan 1): わす}忘れて　{ruby (charSpan 1): かえ}帰っちゃうから{pause 5}・{pause 5}・{pause 5}・
+"032"	{emote: Greetings}やぁやぁ、{pause 10}{Player name}さん！{pause 15}	{ruby (charSpan 1): ま}待ってたよぉ～{Wait for input}{emote: Happiness}{ruby (charSpan 1): いま}今なら　ハッピーのおすそ{ruby (charSpan 1): わ}分けが	できそうだねぇ{Wait for input}	はい、{pause 10}どうぞ～
+"033"	{emote: Thought}{ruby (charSpan 1): のこ}残り　{Number (0x9)}{000e-000c-0000}{pause 8}・{pause 8}・{pause 8}・{pause 5}！{Wait for input}	{emote: Happiness}もう、{pause 5}ほとんど　ピカピカだねぇ！{Wait for input}{emote: Shyness}これだけ　キレイなら	{ruby (charSpan 2): じゅうぶん}十分かなぁ～と　{ruby (charSpan 1): おも}思うんだけど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}{ruby (charSpan 2): さいご}最後まで{pause 5}{emote: Curious}　{pause 5}がんばるぅ？{000f-0005-0004-0015-0028}	がんばる！	もういいや！
+"034"	{emote: Sunny}そっかぁ！{pause 30}	{emote: Happiness}じゃあ{pause 5}　あと{ruby (charSpan 1): すこ}少しだから{pause 10}	{ruby (charSpan 2): さいご}最後まで　がんばろうねぇ～！
+"035"	{emote: Sunny}そうだよねぇ！{pause 30}	{emote: Happiness}ボクたち　{pause 5}もう{ruby (charSpan 2): じゅうぶん}十分がんばったし、{pause 10}	そろそろ　{ruby (charSpan 1): お}終わりにしよっかぁ～！
+"036"	{emote: Greetings}やぁやぁ、{pause 10}どうもぉ！{Wait for input}{emote: Happiness}ボクね、{pause 10}{ruby (charSpan 1): いま}今　ちょうど	{0005-0024-0000}さんと　{ruby (charSpan 2): いっしょ}一緒に	{ruby (charSpan 1): くさ}草むしり　してるんだぁ～{Wait for input}{emote: Shyness}もしよかったら、{pause 10}	キミも　{ruby (charSpan 2): てつだ}手伝ってくれると	うれしいなぁ！
+"037"	{emote: Happiness}{0005-0024-0000}さんと　ボクは、{pause 10}	{ruby (charSpan 1): いま}今　{ruby (charSpan 2): いっしょ}一緒に　{ruby (charSpan 1): くさ}草むしり{ruby (charSpan 1): ちゅう}中だよぉ～{Wait for input}{emote: Shyness}もしよかったら、{pause 10}	キミも　{ruby (charSpan 2): てつだ}手伝ってくれると	うれしいなぁ！
+"038"	{emote: Sleep Bubble}{pause 10}{Text size 75%}ううううう{pause 10}・{pause 10}・{pause 10}・{pause 15}	ボーボー{pause 10}・{pause 10}・{pause 10}・{pause 15}たすけてぇ{pause 10}・{pause 10}・{pause 10}・{Text size 100%}{Wait <005a 0000> 'time'}
+"039"	{emote: Sleep Bubble}{Text size 75%}む～ん{pause 15}・{pause 15}・{pause 15}・{Text size 100%}{pause 25}{emote: Sleepy}{pause 120}{emote: Alarmed}{Wait <0096 0000> 'time'}	{emote: Alarmed}{pause 5}はっ！{Wait <002d 0000> 'time'}
+"041"	{emote: Greetings}あっ、{pause 15}{Player name}さ～ん！{pause 20}	おつかれさま～！
+"042"	{emote: Love}やっぱり、{pause 10}ふたりで　がんばったら{pause 5}	あっという{ruby (charSpan 1): ま}間に　ツルツルのピカピカに	なっちゃったねぇ～！
+"043"	{emote: Love}ふたりで　がんばっただけあって、{pause 5}	{ruby (charSpan 2): むらじゅう}村中　ツルツルのピカピカに	なっちゃったねぇ～！
+"044"	{emote: Love}やっぱり、{pause 10}ふたりで　がんばったら{pause 5}	あっという{ruby (charSpan 1): ま}間に　キレイに	なっちゃったねぇ～！
+"045"	{emote: Love}ふたりで　がんばっただけあって、{pause 5}	だいぶ　スッキリしたねぇ～！
+"046"	{emote: Love}{ruby (charSpan 2): じかん}時間をかけて　がんばっただけあって、{pause 15}	だいぶ　スッキリしたねぇ～！
+"047"	{emote: Love}すっごく　{ruby (charSpan 2): じかん}時間をかけただけあって、{pause 15}	だいぶ　スッキリしたねぇ～！
+"048"	{emote: Love}{ruby (charSpan 2): じかん}時間をかけて　がんばっただけあって、{pause 15}	{ruby (charSpan 2): むらじゅう}村中　ツルツルのピカピカに	なっちゃったねぇ～！
+"049"	{emote: Love}すっごく　{ruby (charSpan 2): じかん}時間をかけただけあって、{pause 15}	{ruby (charSpan 2): むらじゅう}村中　ツルツルのピカピカに	なっちゃったねぇ～！
+"050"	{emote: Shyness}それと、{pause 10}{Player name}さんの	お{ruby (charSpan 2): ともだち}友達が　{ruby (charSpan 2): てつだ}手伝ってくれたのも	すごく　{ruby (charSpan 1): たす}助かっちゃったぁ！
+"051"	{emote: Joy}ボク　{pause 10}なんだかとっても	ハッピーに　なっちゃったよぉ～{Wait for input}{Player name}さんにも	ボクの　ハッピーを	おすそ{ruby (charSpan 1): わ}分けしたいなぁ！
+"052"	{emote: Reset}{pause 5}・{pause 5}・{pause 5}・{pause 10}{emote: Inspired}{pause 20}そうだぁ！{pause 20}	{emote: Happiness}ちょっと　いいモノがあるから、{pause 10}	それを　あげるよぉ～	・{pause 5}・{pause 5}・{pause 5}{emote: Reset}と{ruby (charSpan 1): おも}思ったけど　{Player name}さん、{pause 15}	{emote: Worry}{ruby (charSpan 1): も}持ちものが　いっぱいで	わたせないねぇ～	{emote: Soft Smile}{ruby (charSpan 1): も}持ちものを　{ruby (charSpan 1): へ}減らしてから{pause 8}	また　{ruby (charSpan 1): と}取りに{ruby (charSpan 1): き}来て～！{Wait for input}{emote: Reset}{pause 5}・{pause 5}・{pause 5}・{pause 5}あ、{pause 10}でもボク	お{ruby (charSpan 1): みせ}店ほったらかして　{ruby (charSpan 1): き}来ちゃったから、{pause 10}	なるべく{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): もど}戻ってきてねぇ{Wait for input}{emote: Glare}でないと、たぶん{pause 10}	{ruby (charSpan 1): わす}忘れて　{ruby (charSpan 1): かえ}帰っちゃうよぉ
+"053"	{emote: Reset}{pause 5}・{pause 5}・{pause 5}・{pause 10}{emote: Inspired}{pause 20}そうだぁ！{pause 20}	{emote: Happiness}ちょうど　{ruby (charSpan 1): いま}今のボクと{ruby (charSpan 1): おな}同じくらい	ハッピーなものを　{ruby (charSpan 1): も}持ってたよぉ{Wait for input}はいっ！{pause 15}	ハッピーの　おすそ{ruby (charSpan 1): わ}分け～
+"054"	それね、{pause 10}	{0011-0003-0002-0000}なんだぁ{Wait for input}ボク{pause 5}　お{ruby (charSpan 1): はな}花が{ruby (charSpan 2): だいす}大好きだから、{pause 10}	{ruby (charSpan 2): かぐ}家具も　お{ruby (charSpan 1): はな}花がいいな～と{ruby (charSpan 1): おも}思って{pause 5}	{ruby (charSpan 2): じぶん}自分で　{ruby (charSpan 1): つく}作ってみたんだよぉ～{Wait for input}{emote: Happiness}{Player name}さんも　よかったら、{pause 10}	お{ruby (charSpan 1): うち}家で　{ruby (charSpan 1): つか}使ってね～
+"055"	それね、{pause 10}	{0011-0003-0002-0000}なんだぁ{Wait for input}{emote: Happiness}{ruby (charSpan 1): た}食べても　すっごくおいしいけど、{pause 10}	{ruby (charSpan 1): う}植えて　{ruby (charSpan 2): だいじ}大事に{ruby (charSpan 1): そだ}育てるのも	いいと{ruby (charSpan 1): おも}思うよぉ～！
+"056"	それね、{pause 10}	{0011-0003-0002-0000}なんだぁ{Wait for input}ふつうには　{ruby (charSpan 1): う}売ってないから、{pause 10}	{ruby (charSpan 1): さ}咲かすのが　むずかしい{ruby (charSpan 2): ひんしゅ}品種なんだよ～{Wait for input}{emote: Happiness}{Player name}さんも　よかったら、{pause 10}	{ruby (charSpan 1): う}植えてあげてみてね～
+"057"	それね、{pause 10}	{0011-0003-0002-0000}なんだぁ{Wait for input}お{ruby (charSpan 1): はな}花や　{ruby (charSpan 1): き}木のそばに　うめておくと、{pause 5}	{ruby (charSpan 1): そだ}育ちやすくなるんだよ～{Wait for input}{emote: Happiness}{Player name}さんも　よかったら、{pause 10}	{ruby (charSpan 1): つか}使ってあげてみてね～
+"058"	{0007-0004-0000}{emote: Sleepy}{Text size 75%}ふわぁ～{pause 5}・{pause 5}・{pause 5}・{Text size 100%}{pause 15}{0007-0005-0000}{Wait <001e 0000> 'time'}{Wait for input}がんばって　おそうじしたから	ちょっと　つかれちゃったぁ～
+"059"	{emote: Greetings}じゃあ　ボク、{pause 10}	テキトーに　きゅうけいしてから	お{ruby (charSpan 1): みせ}店に　もどるねぇ～
+"060"
+"061"	{emote: Greetings}やぁやぁ、{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村に　ようこそぉ！{Wait for input}{emote: Reset}ちょうど　{ruby (charSpan 1): いま}今、{pause 10}	{0005-0024-0000}さんと　{ruby (charSpan 2): いっしょ}一緒に	{ruby (charSpan 1): くさ}草むしりの　おそうじをしてたんだぁ～{Wait for input}{emote: Happiness}おそうじしたてで　ピカピカの	{Town name (pink)}{ruby (charSpan 1): むら}村で、{pause 10}	ゆっくり　していってねぇ～
+"062"	{emote: Greetings}やぁやぁ、{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村に　ようこそぉ！{Wait for input}{emote: Reset}ちょうど　{ruby (charSpan 1): いま}今、{pause 10}	{0005-0024-0000}さんと　{ruby (charSpan 2): いっしょ}一緒に	{ruby (charSpan 1): くさ}草むしりの　おそうじをしてたんだぁ～{Wait for input}{emote: Alarmed}あっ、そうか！{pause 20}	{emote: Reset}キミも{pause 5}　{ruby (charSpan 2): てつだ}手伝ってくれたんだっけ？{Wait for input}	{emote: Happiness}どうも　ありがとぉ～！
+"063"	{emote: Happiness}お{ruby (charSpan 2): てつだ}手伝いの　お{ruby (charSpan 1): れい}礼に	いいモノを　おすそ{ruby (charSpan 1): わ}分けしたいから、{pause 10}	{ruby (charSpan 1): て}手があいたら　{ruby (charSpan 1): と}取りに{ruby (charSpan 1): き}来て～！{Wait for input}{emote: Reset}{pause 5}・{pause 5}・{pause 5}・{pause 5}あ、{pause 10}でもボク　{ruby (charSpan 1): わす}忘れっぽいから、{pause 10}	{emote: Glare}キミの{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): かえ}帰っちゃったりしないで{pause 5}	なるべく{ruby (charSpan 1): はや}早く　もどってきてねぇ
+"064"	{emote: Greetings}それじゃ、{pause 10}ピカピカになった	{Town name (pink)}{ruby (charSpan 1): むら}村で	ゆっくりしてってねぇ～
+"065"	ふぅ！{pause 15}	ついさっき、{pause 10}	{ruby (charSpan 1): くさ}草むしりが　{ruby (charSpan 1): お}終わったとこだよぉ～{Wait for input}{emote: Happiness}おそうじしたてで　ピカピカの	{Town name (pink)}{ruby (charSpan 1): むら}村で、{pause 10}	ゆっくり　していってねぇ～
+"066"	{emote: Greetings}やぁやぁ、{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村の　{Player name}さん～！{Wait for input}{emote: Reset}ついさっき、{pause 10}	{ruby (charSpan 1): くさ}草むしりが　{ruby (charSpan 1): お}終わったとこだよぉ～{Wait for input}{emote: Alarmed}あっ、そうか！{pause 20}	{emote: Reset}キミも{pause 5}　{ruby (charSpan 2): てつだ}手伝ってくれたんだっけ？{Wait for input}	{emote: Happiness}どうも　ありがとぉ～！
+"067"	{emote: Greetings}やぁやぁ、{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村の　{Player name}さん！{pause 15}	{ruby (charSpan 1): ま}待ってたよぉ～{Wait for input}{emote: Happiness}{ruby (charSpan 1): いま}今なら　お{ruby (charSpan 1): れい}礼を{ruby (charSpan 1): わた}渡せそうだねぇ{Wait for input}	はい、{pause 10}どうぞ～
+"068"	{emote: Reset}{pause 5}・{pause 5}・{pause 5}・{pause 10}{emote: Inspired}{pause 20}そうだぁ！{pause 20}	{emote: Happiness}お{ruby (charSpan 2): てつだ}手伝いの　お{ruby (charSpan 1): れい}礼に	いいもの　あげるよぉ{Wait for input}はいっ！{pause 15}　どうぞ～
+"069"
+"071"	{emote: Happiness}{ruby (charSpan 1): むら}村が　スッキリしてると	{ruby (charSpan 2): きぶん}気分まで　スッキリするねぇ～
+"072"	そうだ　{Player name}さん、{pause 10}	また　ボクのお{ruby (charSpan 1): みせ}店にも	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てねぇ～
+"073"	{emote: Sleepy}{ruby (charSpan 2): きょう}今日は　すごくがんばったから、	ぐっすり　{ruby (charSpan 1): ねむ}眠れそう{pause 10}・{pause 10}・{pause 10}・
+"074"	{emote: Happiness}これからも　{ruby (charSpan 2): ざっそう}雑草の{ruby (charSpan 2): かみさま}神様が	{ruby (charSpan 1): むら}村をキレイに　してくれるといいねぇ
+"075"
+"076"	{emote: Happiness}おそうじしたてで　ピカピカの	{Town name (pink)}{ruby (charSpan 1): むら}村で、{pause 10}	ゆっくり　していってねぇ～
+"077"	ボク、{pause 10}ふだんは	{ruby (charSpan 3): しょうてんがい}商店街で　お{ruby (charSpan 2): はなや}花屋さんしてるから、{pause 10}	{ruby (charSpan 2): こんど}今度　お{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物にも{ruby (charSpan 1): き}来てねぇ～
+"078"	{emote: Happiness}{ruby (charSpan 1): くさ}草むしりの　お{ruby (charSpan 2): てつだ}手伝いしてくれて	どうも　ありがとねぇ～
+"079"	{emote: Sleepy}これだけ　スッキリしてると、{pause 5}	{ruby (charSpan 2): きも}気持ちが　よくって	{ruby (charSpan 1): ねむ}眠くなっちゃう{pause 10}・{pause 10}・{pause 10}・
+"080"
+"081"	{emote: Greetings}やぁやぁ、{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村に　ようこそぉ！{Wait for input}{emote: Joy}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): ざっそう}雑草がボーボーだったんだけど、{pause 10}	{ruby (charSpan 2): ざっそう}雑草の{ruby (charSpan 2): かみさま}神様が　キレイにしてくれたから、{pause 8}	{ruby (charSpan 1): いま}今はもう　ピカピカだよぉ～！{Wait for input}{emote: Happiness}すっきり　ピカピカの	{Town name (pink)}{ruby (charSpan 1): むら}村で、{pause 10}	ゆっくり　していってねぇ～
+"082"	{emote: Greetings}やぁやぁ、{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村に　ようこそぉ！{Wait for input}{emote: Joy}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): ざっそう}雑草がボーボーだったんだけど{pause 5}	{ruby (charSpan 2): ざっそう}雑草の{ruby (charSpan 2): かみさま}神様が　キレイにしてくれたから、{pause 10}	{ruby (charSpan 1): いま}今はもう　ピカピカだよぉ～！{Wait for input}{emote: Reset}{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{pause 5}・{0007-0004-0000}{pause 15}{emote: Alarmed}{pause 15}あっ！{pause 30}{0007-0005-0000}	{emote: Reset}もしかして、{pause 10}キミは　{ruby (charSpan 2): ざっそう}雑草の{ruby (charSpan 2): かみさま}神様の{pause 5}	{ruby (charSpan 1): つか}使いだったり{pause 5}{emote: Curious}するのかなぁ？！{Wait for input}{emote: Happiness}そうだよねぇ、{pause 10}きっと　キミも	{ruby (charSpan 1): くさ}草むしりしてくれたんだろうねぇ～！{pause 20}	どうも　ありがとぉ～！
+"083"
+"084"
+"085"

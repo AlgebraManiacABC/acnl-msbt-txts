@@ -1,29 +1,29 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Curious}
-"003"	너 혹시{pause 20}
-"004"	{emote: Curious}
-"005"	{emote: Distress}
-"006"	{emote: Happiness}
-"007"	{emote: Thought}
+"001"	{emote: Happiness}가족이랑 같이 귀가하는 기분이{pause 20}	이런 느낌일까, {pause 8}{catchphrase}?
+"002"	{emote: Curious}왜 그래?{pause 20}	다리 아프냐ー?{Wait for input}{emote: Anger}조금만 더 가면 되니까	기운을 내ー!!
+"003"	너 혹시{pause 20} {emote: Curious}우리 집이	어딘지 모르냐?{Wait for input}{emote: Agreement}이럴 때에 대비해서	지도가 있는 거다ー!{pause 20}	{emote: Happiness}확인해보라구, {pause 8}{catchphrase}!
+"004"	{emote: Curious}에엥?{pause 20}	나더러 앞장서라고?{Wait for input}{emote: Laughter}그러면 니가 우리 집 가는 길을	못 외우잖냐ー!{pause 20}	이것도 훈련이라고, {pause 8}{catchphrase}!{pause 40}{emote: Soft Smile}
+"005"	{emote: Distress}으아아ー!{pause 20}	그러고 보니 청소를	깜빡한 것 같아, {pause 8}{catchphrase}{Wait for input}{emote: Laughter}하지만 {Player nickname (green)} 너는	우리 집이 지저분해도	이해해주겠지?
+"006"	{emote: Happiness}그러고 보니{pause 20}	{Player nickname (green)}{000e-000e-0006-0002-c774-0000}랑 집에서	같이 노는 건 처음인가ー?{Wait for input}{emote: Sunny}기대하라구ー!{pause 20}	분명 재미있을 거야,	{pause 8}{catchphrase}!
+"007"	{emote: Thought}가는 동안 상상해봐!{pause 20}	우리 집 안은 어떻게 생겼을지ー{Wait for input}{emote: Happiness}도착하면	모든 게 밝혀질 거야ー!
 "008"	난 잘 따라가고 있으니까	걱정 안 해도 돼ー!
-"009"	{emote: Thought}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Alarmed}
-"013"	{emote: Distress}
-"014"	{emote: Alarmed}
-"015"	{emote: Happiness}
-"016"	{emote: Worry}
-"017"	{emote: Alarmed}
-"018"	{emote: Happiness}
-"019"	알았어!{pause 20}
-"020"	{emote: Alarmed}
-"021"	{emote: Alarmed}
-"022"	{emote: Worry}
-"023"	{emote: Distress}
-"024"	{emote: Happiness}
-"025"	{emote: Glee}
-"026"	{emote: Glee}
-"027"	{emote: Distress}
-"028"	{emote: Distress}
+"009"	{emote: Thought}니가 지난번에	놀러 온 게 언제였더라?{Wait for input}음ー{pause 20}	{emote: Happiness}기억은 잘 안 나지만	아마 재밌었던 것 같다, {pause 8}{catchphrase}
+"010"	{emote: Happiness}우리 집의 어디가 바뀌었는지{pause 20}	가서 맞혀봐라ー!{Wait for input}{emote: Laughter}아무것도 안 바뀌었을	가능성도 있지만 말이야!{pause 40}{emote: Soft Smile}
+"011"	{emote: Happiness}우리 집에 가서	재밌게 놀자구, {pause 8}{catchphrase}!
+"012"	{emote: Alarmed}왜, 왜 그래ー?!{pause 20}	오늘은 너네 집이 아니라	우리 집에 가기로 했잖아?!
+"013"	{emote: Distress}어이ー!{pause 20}	너 설마 우리 집에	헤엄쳐 가려는 거냐ー?{Wait for input}{emote: Thought}좋은 생각이긴 한데{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}우리 집은 걸어가는 게	더 빠르다구, {pause 8}{catchphrase}
+"014"	{emote: Alarmed}에엥?{pause 20}	열차 타고 어디 먼 데	가려는 거냐?{Wait for input}{emote: Curious}그럼 우리 집은	다음에 갈래ー?{000f-0000-0004-0000-0000}	아냐, 지금 가자	오늘은 관둘래
+"015"	{emote: Happiness}그럼 빨리 가자구ー!{pause 20}	우리 집은 열차 타고 갈 정도로	멀지는 않아!
+"016"	{emote: Worry}그, 그래{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Disagreement}니 생각이 그렇다면 할 수 없지ー{pause 40}	{emote: Happiness}우리 집 방문은 다음번으로 미루자
+"017"	{emote: Alarmed}저쪽에 볼일이라도 있냐ー?{Wait for input}	{emote: Worry}난 그냥 빨리 우리 집에	가면 좋겠는데ー{Wait for input}{emote: Curious}어떻게 할래ー?{pause 20}	우리 집에 가는 건	다음으로 미룰까ー?{000f-0000-0004-0000-0000}	지금 가자!	오늘은 관두자
+"018"	{emote: Happiness}좋아ー!{pause 20}	그럼 다시 출발!
+"019"	알았어!{pause 20}	{emote: Happiness}다음에 또 기회가 있겠지!
+"020"	{emote: Alarmed}우왓ー!{pause 20}	여기는 {0011-0001-0002-0000}네 집이야!{Wait for input}{emote: Distress}너 설마{pause 40} 길을	잃은 건 아니겠지ー?!
+"021"	{emote: Alarmed}우리 집은	여기가 아니야ー!{Wait for input}	{emote: Anger}딴짓 그만하고{pause 20} 얼른 가자ー!
+"022"	{emote: Worry}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}, 미안!{pause 40}	나 운동하러 갈 시간이	다 되어서 말이야{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}미안한데 오늘 우리 집에	가는 건 취소하자!{pause 40}	다음에 놀러 와라, {pause 8}{catchphrase}
+"023"	{emote: Distress}으아아ー!{pause 20}	너도 시계 좀 봐봐ー{pause 40}	벌써 {Hour}시 {Minutes}분이야!{Wait for input}{emote: Worry}이렇게 되면{pause 8}・{pause 8}・{pause 8}・{pause 20}	오늘은 안 되겠는데ー{Wait for input}{emote: Happiness}너도 밤에 너무 늦게까지	깨어 있지 말고{pause 40}	얼른 가서 자, {pause 8}{catchphrase}!
+"024"	{emote: Happiness}와ー!{pause 20}	도착이다ー!{pause 40}	어서 들어가자!
+"025"	{emote: Glee}잠깐만 기다려ー{pause 20}	내가 금방 문을 열게ー!
+"026"	{emote: Glee}우리 집 도착!{pause 40}	자! 들어가자ー
+"027"	{emote: Distress}{0007-000b-0000}야아ー!{pause 20}	{Player nickname (green)}ー!{pause 20}	좀 천천히 가, {pause 8}{catchphrase}!
+"028"	{emote: Distress}{0007-000b-0000}어이ー!{pause 20}	좀 천천히 가자니까ー{Wait for input}{emote: Sadness}헉헉{pause 8}・{pause 8}・{pause 8}・{pause 20}	널 따라잡기가 이렇게 힘들다니	완전 충격이다{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Disagreement}더 이상 너랑 우리 집에 가서	놀 기분이 아니야ー{pause 40}	{emote: Reset}잘 가라, {Player nickname (green)}!

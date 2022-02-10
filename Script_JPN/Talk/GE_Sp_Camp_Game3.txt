@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"003"	{emote: Glee}
-"004"	{emote: Surprise}
-"005"	{emote: Distress}
-"006"	{emote: Distress}
-"007"	{emote: Happiness}
-"008"	{emote: Resigned}
-"009"	{emote: Resigned}
-"010"	{emote: Resigned}
-"011"	{emote: Resigned}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Glee}
-"017"	{emote: Reset}
-"018"	{emote: Resigned}
-"019"	{emote: Resigned}
+"001"	{emote: Happiness}あのさぁ{pause 8}・{pause 8}・{pause 8}・{pause 30}アンタ{pause 10}	{0011-0003-0002-0000}{pause 10}	{ruby (charSpan 1): も}持ってるよね？	{emote: Distress}アタイ　{pause 10}ずっとほしくて{pause 10}	さがし{ruby (charSpan 1): まわ}回ってたんだけど{pause 15}	もしよければ{pause 10}　ゆずってくれないかな～？	{emote: Surprise}あ！　{pause 20}せっかくだから{pause 10}	ゲームで{pause 10}　ねだんを{ruby (charSpan 1): き}決めるなんて　{pause 10}どう？{Wait for input}{emote: Happiness}ゲームの{ruby (charSpan 2): けっか}結果によっては{pause 10}	{ruby (charSpan 1): たか}高～く　{pause 5}{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうよ！{Wait for input}{emote: Reset}ゲームの{ruby (charSpan 2): ないよう}内容は{pause 10}	ここに　{pause 5}ねだんを{ruby (charSpan 1): か}書いてある	4{ruby (charSpan 1): しょく}色のカードがあるんだけど	これを　アンタが{ruby (charSpan 1): ひ}引いて{pause 15}	{emote: Happiness}そこに{ruby (charSpan 1): か}書いてあった　ねだんで{pause 10}	アタイが{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取るよ！	{0007-000d-0000}{emote: Reset}まぁ、{pause 20}{ruby (charSpan 1): すべ}全て　{ruby (charSpan 1): うん}運にかかってるけど{pause 10}	{emote: Happiness}どう？　{pause 30}やってみない？{Player can respond (0005):0007-0015-0002-0028}	やってみる	やめとく
+"002"	{0009-0002-0008-0008-0009-000a-000b}
+"003"	{emote: Glee}{Blue}{Number (0x9)}ベル{Color Reset}だ～！{Wait for input}	ヤッター！{pause 20}　ちょーうれしい！{Wait for input}{emote: Worry}アンタには　{pause 10}ちょっと	イタイねだんだよね～{Wait for input}	{emote: Happiness}でも　{pause 10}ゲームだから　ゆるしてね
+"004"	{emote: Surprise}{Number (0x9)}ベル！{Wait for input}{emote: Glee}わ～い！{pause 25}	アタイには　おトクなねだんが{ruby (charSpan 1): で}出たよ～{Wait for input}	{emote: Happiness}じゃあ、{pause 20}{Blue}{Number (0x9)}{Color Reset}{Blue}ベル{Color Reset}で　もらうね
+"005"	{emote: Distress}{Number (0x9)}ベルだ～！{pause 30}	{emote: Worry}アタイには、イタイ{ruby (charSpan 2): しゅっぴ}出費かも{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}でも　{ruby (charSpan 2): やくそく}約束だし　{pause 10}{ruby (charSpan 2): りょうきん}料金わたすね{pause 20}	はい、{pause 20}{Blue}{Number (0x9)}{Color Reset}{Blue}ベル{Color Reset}で　お{ruby (charSpan 1): ねが}願いしま～す
+"006"	{emote: Distress}{Number (0x9)}ベル！{Wait for input}	うわ～～～ん{pause 20}	なんで　{pause 10}これ{ruby (charSpan 1): ひ}引くのよ～	{emote: Sadness}まぁ　{pause 20}ゲームだから{ruby (charSpan 2): しかた}仕方ないか{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Worry}はい　{pause 20}{Blue}{Number (0x9)}{Color Reset}{Blue}ベル{Color Reset}だよ
+"007"	{emote: Happiness}そうこなくっちゃ！{Wait for input}	どんな　{ruby (charSpan 2): きんがく}金額でも{pause 10}	うらみっこなしだよ～	さぁ、{pause 20}{ruby (charSpan 2): なにいろ}何色のカードにする？！{0008-0002-0010-000c-0000-000d-0000-000e-0000-000f-0000}	{ruby (charSpan 1): あか}赤で	{ruby (charSpan 1): あお}青だよ	{ruby (charSpan 2): きいろ}黄色かな	{ruby (charSpan 1): みどり}緑です
+"008"	{emote: Resigned}な～んだ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}{ruby (charSpan 1): あか}赤のカードには{pause 10}	{Blue}{Number (0x9)}ベル{Color Reset}って{pause 5}　{ruby (charSpan 1): か}書いてあったのに！{Wait for input}{emote: Happiness}てことで、{pause 10}	また{ruby (charSpan 1): き}気が{ruby (charSpan 1): む}向いたら　{pause 10}{ruby (charSpan 1): あそ}遊んでね！{pause 20}	{catchphrase}！
+"009"	{emote: Resigned}な～んだ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}{ruby (charSpan 1): あお}青のカードには{pause 10}	{Blue}{Number (0x9)}ベル{Color Reset}って{pause 5}　{ruby (charSpan 1): か}書いてあったのに！{Wait for input}{emote: Happiness}てことで、{pause 10}	また{ruby (charSpan 1): き}気が{ruby (charSpan 1): む}向いたら　{pause 10}{ruby (charSpan 1): あそ}遊んでね！{pause 20}	{catchphrase}！
+"010"	{emote: Resigned}な～んだ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}{ruby (charSpan 2): きいろ}黄色のカードには{pause 10}	{Blue}{Number (0x9)}ベル{Color Reset}って{pause 5}　{ruby (charSpan 1): か}書いてあったのに！{Wait for input}{emote: Happiness}てことで、{pause 10}	また{ruby (charSpan 1): き}気が{ruby (charSpan 1): む}向いたら　{pause 10}{ruby (charSpan 1): あそ}遊んでね！{pause 20}	{catchphrase}！
+"011"	{emote: Resigned}な～んだ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}{ruby (charSpan 1): みどり}緑のカードには{pause 10}	{Blue}{Number (0x9)}ベル{Color Reset}って{pause 5}　{ruby (charSpan 1): か}書いてあったのに！{Wait for input}{emote: Happiness}てことで、{pause 10}	また{ruby (charSpan 1): き}気が{ruby (charSpan 1): む}向いたら　{pause 10}{ruby (charSpan 1): あそ}遊んでね！{pause 20}	{catchphrase}！
+"012"	{emote: Happiness}じゃあ　{pause 20}{ruby (charSpan 1): み}見てみるよ{pause 30}	{ruby (charSpan 1): あか}赤のカードに　{pause 10}{ruby (charSpan 1): か}書かれた　ねだんは{pause 8}・{pause 8}・{pause 8}・{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"013"	{emote: Happiness}じゃあ　{pause 20}{ruby (charSpan 1): み}見てみるよ{pause 30}	{ruby (charSpan 1): あお}青のカードに　{pause 10}{ruby (charSpan 1): か}書かれた　ねだんは{pause 8}・{pause 8}・{pause 8}・{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"014"	{emote: Happiness}じゃあ　{pause 20}{ruby (charSpan 1): み}見てみるよ{pause 30}	{ruby (charSpan 2): きいろ}黄色のカードに　{pause 10}{ruby (charSpan 1): か}書かれた　ねだんは{pause 8}・{pause 8}・{pause 8}・{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"015"	{emote: Happiness}じゃあ　{pause 20}{ruby (charSpan 1): み}見てみるよ{pause 30}	{ruby (charSpan 1): みどり}緑のカードに　{pause 10}{ruby (charSpan 1): か}書かれた　ねだんは{pause 8}・{pause 8}・{pause 8}・{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"016"	{emote: Glee}こんな　おトクに{pause 10}	{ruby (charSpan 1): て}手に{ruby (charSpan 1): はい}入ると　{pause 5}{ruby (charSpan 1): おも}思わなかったよ{Wait for input}	{emote: Happiness}これに　こりずに{pause 10}　また{ruby (charSpan 1): あそ}遊んでね！！
+"017"	{emote: Reset}アンタには　{pause 10}ちょっと　ソンだったかな？{Wait for input}	{emote: Soft Smile}でも、{pause 10}ゲームだから{pause 10}	こういうことも　あるよね～
+"018"	{emote: Resigned}{ruby (charSpan 2): こんかい}今回は　{pause 10}アンタにラッキーを　ゆずるけど{pause 10}	{emote: Anger}{ruby (charSpan 1): つぎ}次は　{pause 10}リベンジするから！{Wait for input}	{emote: Happiness}また　チャレンジさせてね
+"019"	{emote: Resigned}アンタ　{pause 10}ちょーラッキーだったね～{pause 20}	{emote: Happiness}アタイも　その{ruby (charSpan 2): うんき}運気を{pause 10}　わけてほし～よ！

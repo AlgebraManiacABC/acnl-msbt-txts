@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Soft Smile}
-"003"	{emote: Alarmed}
-"004"	{emote: Surprise}
+"001"	{emote: Happiness}{0011-0001-0002-0001}님을{pause 10}	좀 데려와주시겠어요?
+"002"	{emote: Soft Smile}{0011-0001-0002-0001}님을{pause 10}	아직도 못 찾으셨나요?{Wait for input}{emote: Agreement}아무래도{pause 10} 제가 직접 찾아야겠어요{pause 10}	{emote: Soft Smile}이제 신경 안 쓰셔도 된답니다{emote: Sunny}
+"003"	{emote: Alarmed}네에?{pause 20}	중간까지는 같이 왔는데{pause 10}	도중에{pause 10} 그만두셨다구요?	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 8}알겠어요{pause 20}	{emote: Soft Smile}나중에{pause 10} 제가 직접 얘기할게요
+"004"	{emote: Surprise}아, 진짜요?!{pause 20}	{emote: Distress}거절하셨단 말이에요?{Wait for input}{emote: Worry}아무래도{pause 10} 다른 일이 있으셨나 봐요{pause 30}	{emote: Happiness}다음 기회로 미뤄야겠네요{pause 20}	어쨌든 감사합니다, {pause 15}{catchphrase}

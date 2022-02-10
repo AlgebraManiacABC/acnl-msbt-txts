@@ -1,12 +1,12 @@
 == 0 ==
-"001"	オーッス！{pause 20}
-"002"	オーイ！{pause 20}
-"003"	オーイ！{pause 20}
-"004"	もしかして　オマエ、{pause 20}
-"005"	オーイ！{pause 20}
-"006"	オーイ！{pause 20}
-"007"	ちぇーーっ！{pause 20}!
-"008"	{emote: Happiness}
-"009"	{emote: Greetings}
-"010"	おーー！{pause 20}
-"011"	{emote: Shocked}
+"001"	オーッス！{pause 20}	{ruby (charSpan 1): き}来たぞー　{Player nickname (green)}！{0007-0008-0004-0096-0000}
+"002"	オーイ！{pause 20}　{Villager's name (orange)}だー！{pause 40}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たぞー、{pause 8}{catchphrase}{0007-0008-0004-0096-0000}
+"003"	オーイ！{pause 20}　{Player nickname (green)}！{pause 40}	オイラ　だぞー！{0007-0008-0004-0096-0000}
+"004"	もしかして　オマエ、{pause 20}	そうじしてるんだなー？！	{0007-0008-0004-003c-0000}	そんなの　オイラは{ruby (charSpan 1): き}気にしないから、	さっさと　{ruby (charSpan 1): あ}開けろよー！{0007-0008-0004-0096-0000}
+"005"	オーイ！{pause 20}　{Player nickname (green)}！{pause 20}	{ruby (charSpan 1): はや}早く{ruby (charSpan 1): い}入れてくれってばー！{pause 40}	{Villager's name (orange)}だよ、{pause 8}{catchphrase}{0007-0008-0004-0096-0000}
+"006"	オーイ！{pause 20}　{Player nickname (green)}ー！{pause 40}	ドアこわして　{ruby (charSpan 1): はい}入るぞー？	{0007-0008-0004-003c-0000}	ってのは、	ジョーダンだけどさ{pause 8}・{pause 8}・{pause 8}・{0007-0008-0004-0096-0000}
+"007"	ちぇーーっ！{pause 20}	いないのかよー	{0007-0008-0004-003c-0000}	あーあ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): かえ}帰って　キントレでもするかー{0007-0008-0004-0096-0000}
+"008"	{emote: Happiness}ヨッシャー！{pause 20}	{Player nickname (green)}の{ruby (charSpan 2): へや}部屋に	せんにゅう{ruby (charSpan 2): せいこう}成功～！
+"009"	{emote: Greetings}イェーイ！{pause 20}	おじゃましまーす！
+"010"	おーー！{pause 20}	なんか　{ruby (charSpan 1): ひと}人の{ruby (charSpan 1): いえ}家って	ドキドキするなー！
+"011"	{emote: Shocked}{0007-000b-0000}ギャーー！{pause 20}	オマエ！{pause 20}　そこ！{pause 20}	ゴキブリがいるじゃんか！{Wait for input}{emote: Distress}オ、{pause 20}オイラ　{ruby (charSpan 2): きょう}今日は	{ruby (charSpan 1): かえ}帰らせてもらうぞー！

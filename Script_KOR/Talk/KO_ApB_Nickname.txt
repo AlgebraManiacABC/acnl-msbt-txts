@@ -1,19 +1,19 @@
 == 0 ==
-"001"	저기, {Player nickname (green)}
-"002"	{emote: Alarmed}
-"003"	{emote: Thought}
-"004"	{emote: Happiness}
-"005"	{emote: Worry}
-"006"	{emote: Worry}
-"007"	「{Player nickname (green)}
-"008"	{emote: Resigned}
-"009"	흐ー음, {pause 15}
-"010"	
-"011"	{emote: Soft Smile}
-"012"	{emote: Surprise}
-"013"	{emote: Sigh}
-"014"	{emote: Worry}
-"015"	「{Player nickname (green)}
-"016"	{emote: Alarmed}
-"017"	{emote: Happiness}
-"018"	
+"001"	저기, {Player nickname (green)}{Wait for input}	니 그 {Player nickname (green)}{000e-000e-0006-0002-c774-0000}란 호칭 말이야{pause 15}	{emote: Curious}슬슬 바꾸는 게 낫지 않겠어?{Wait for input}{emote: Happiness}좀 뭐하면 내가{pause 8}	새로운 거 생각해 줄까?!{000f-0005-0004-0000-0028}	어떤 거?	이대로가 좋아
+"002"	{emote: Alarmed}뭐야, 너{pause 15}	{Player nickname (green)}{000e-000e-0006-0002-c774-0000}라고 불리는 거{pause 8}	맘에 들었었구나{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}이거 내가 괜히{pause 8}	쓸데없는 말을 했군	미안해, {pause 20}{catchphrase}!
+"003"	{emote: Thought}음ー 보자{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sunny}「{Player nickname (green)}」! {pause 10}어때?{pause 30}	너한테 딱이지 않아?!{000f-0005-0004-0015-0028}	좋은데!	아, 싫어
+"004"	{emote: Happiness}헤헤헷, {pause 8}그치?!{pause 20}	분명히 마음에 들어할 줄 알았어!{Wait for input}자, 그럼 이제부터 너는{pause 8}	{Player nickname (green)}{000e-000e-0006-0002-c774-0000}다!{pause 20} {catchphrase}!
+"005"	{emote: Worry}으ー음, 마음에 안 드는구나{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Soft Smile}뭐, 별수 없지{Wait for input}{Player nickname (green)} 그대로 쓰지 뭐!	{catchphrase}!
+"006"	{emote: Worry}엥?!{pause 20}	단칼에 잘라버리네!{Wait for input}{emote: Reset}그럼 어떤 게 좋은지{pause 8}	니가 한번 말해봐, {pause 20}{catchphrase}
+"007"	「{Player nickname (green)}」 이게 좋다구?!{confirmation-02}{000f-0005-0004-0015-0028}	맞아, 그거야!	아, 아니다
+"008"	{emote: Resigned}어이어이{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Soft Smile}다시 한 번 제대로 말해봐 
+"009"	흐ー음, {pause 15}{Player nickname (green)}{000e-000e-0006-0002-c774-0000}라고	{emote: Agreement}불러달라는 거지{pause 8}・{pause 8}・{pause 8}・?{Wait for input}	{emote: Happiness}그거 어울리는 것 같네{Wait for input}좋았어!{pause 30}	그럼 지금부터 너는{pause 8}	{Player nickname (green)}{000e-000e-0006-0002-c774-0000}야!{pause 20} {catchphrase}!
+"010"
+"011"	{emote: Soft Smile}어이, {pause 8}{Player nickname (green)}{pause 8}・{pause 8}・{pause 8}・{Wait for input}요즘 너{pause 8}	「{0011-0000-0002-0000}」	이렇게 불리고 있다며?{Wait for input}재밌어 보이던데{pause 8}	{emote: Curious}나도 그렇게 불러도 되겠냐?{pause 20}	{catchphrase}?{000f-0005-0004-0015-0028}	좋아!	안 돼ー!
+"012"	{emote: Surprise}오!{pause 8} 괜찮아?!{Wait for input}{emote: Happiness}좋ー았어!{pause 15} 나도 오늘부터는	널 {Player nickname (green)}{000e-000e-0006-0002-c774-0000}라고{pause 8}	부르겠어, {pause 20}{catchphrase}!
+"013"	{emote: Sigh}얼라리요?!{pause 15}	난 안 되는 거야?{Wait for input}{emote: Reset}하긴 뭐, {pause 8}잘 생각해보면{pause 8}	{0011-0000-0002-0000}{000e-000e-0006-0002-c774-0000}라고 부르는 것도{pause 8}	{emote: Disagreement}좀 쑥스럽긴 하네{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}그럼 난 지금처럼{pause 8}	{Player nickname (green)}{000e-000e-0006-0002-c774-0000}라고	부르도록 할게, {pause 20}{catchphrase}!
+"014"	{emote: Worry}엥?! {pause 15}안 된다고?!{Wait for input}{emote: Reset}그럼 하나 물어보자,{pause 15}	난 대체 뭐라고 부르면 되냐?{pause 20}	{catchphrase}?
+"015"	「{Player nickname (green)}」 이걸로 오케이?{confirmation-02}{000f-0005-0004-0015-0028}	오케이!	아니라구!
+"016"	{emote: Alarmed}어이쿠!{pause 20}	잘못 들었나 보네{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Soft Smile}한 번만 더 들려주라, {pause 20}{catchphrase}
+"017"	{emote: Happiness}오케이, 정했어!{pause 30}	{emote: Greetings}이제부터 너는{pause 15} {Player nickname (green)}{000e-000e-0006-0002-c774-0000}다!
+"018"

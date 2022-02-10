@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Alarmed}
-"003"	{emote: Curious}
-"004"	응～?{pause 20}
-"005"	음～{pause 20}
-"006"	{emote: Thought}
-"007"	{emote: Curious}
-"008"	{emote: Curious}
-"009"	호오～{pause 20}
-"010"	이렇게 하면 될까아?{pause 40}
-"011"	{emote: Bashful}
-"012"	{emote: Glee}
-"013"	이거면 될까아?{pause 40}
-"014"	{emote: Bashful}
-"015"	{emote: Glee}
+"001"	{emote: Worry}우웅{pause 8}・{pause 8}・{pause 8}・{pause 20}	난 벌써 서명했어～
+"002"	{emote: Alarmed}{0007-000b-0000}엥～?!{pause 20} 난 벌써 서명했는데에?{pause 40}	{emote: Distress}두 번이나 하면	안 되는 거 아냐아～?
+"003"	{emote: Curious}어라아?{pause 20}	너 벌써 까먹었어?{pause 20}	{emote: Reset}난 아까 서명했잖아～
+"004"	응～?{pause 20}	{emote: Curious}「{0012-0001-0000}」	여기에 사인해달라구우?{Wait for input}{emote: Thought}우～웅{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Worry}난 안 할래～{pause 20}	미안, {pause 8}{catchphrase}
+"005"	음～{pause 20}	「{emote: Curious}{0012-0001-0000}」	서명이라고?{Wait for input}우～웅{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Worry}난 {pause 20}이런 거 잘 모르니까	그냥 안 할래～{Wait for input}{emote: Happiness}다른 애한테 부탁해봐아, {pause 8}{catchphrase}
+"006"	{emote: Thought}「{0012-0001-0000}」	서명이구나아{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Disagreement}미안!{pause 20}	난 빠질래～{Wait for input}{emote: Happiness}간식을 배 터지게 먹는 모임 창설!	뭐 이런 거면{Wait for input}니가 부탁하지 않아도	서명했겠지만～ {pause 8}{catchphrase}
+"007"	{emote: Curious}엥?{pause 20}	「{0012-0001-0000}」	서명?{Wait for input}{emote: Glee}좋아～{pause 20}	널 위해 내가 서명하겠어～!
+"008"	{emote: Curious}응?{pause 20}	「{0012-0001-0000}」?	서명하라고?{Wait for input}{emote: Glee}우왕～{pause 20}	재밌겠다아～!{pause 20}	나 서명할래～
+"009"	호오～{pause 20}	「{0012-0001-0000}」	서명 모으고 있구나아～{Wait for input}{emote: Joy}내 서명 하나로	큰 변화가 일어나는 거네?{pause 40}	그럼 할게에～!
+"010"	이렇게 하면 될까아?{pause 40}	{emote: Happiness}에헤헤～{pause 20}	다른 마을에서 오느라 수고했어～
+"011"	{emote: Bashful}에헤헤～{pause 20}	글씨가 삐뚤삐뚤해서	미안, {pause 8}{catchphrase}{Wait for input}{emote: Happiness}멀리서 오느라 고생했어!{pause 20}	이제 나도 누군가에게	도움이 되는 사람이 된 거야아～?
+"012"	{emote: Glee}에헤헤～{pause 20}	지렁이가 기어가는 것처럼	멋지게 썼다아～{Wait for input}{emote: Happiness}그럼 계속 수고해～{pause 20}	얼른 서명이 모여야 할 텐데에～
+"013"	이거면 될까아?{pause 40}	{emote: Alarmed}{0007-000b-0000}앗!{pause 20}	다 모였잖아～!{Wait for input}{emote: Happiness}잘 됐다아～!{pause 20}	얼른 갖다 내～ {pause 8}{catchphrase}
+"014"	{emote: Bashful}에헤헤～{pause 20}	글씨가 삐뚤삐뚤해서	미안해, {pause 8}{catchphrase}{Wait for input}엇, {pause 20}{emote: Alarmed}{0007-000b-0000}오오～!{pause 40}	뭔가 {pause 20}이거 	다 모인 거 같은데에～?{Wait for input}{emote: Happiness}잘 됐다아, {pause 8}{catchphrase}
+"015"	{emote: Glee}에헤헤～{pause 20}	꼬불꼬불 지렁이 글씨체로	멋지게 사인했어～{Wait for input}{emote: Alarmed}앗!{pause 40} {emote: Happiness}빈칸이 없는 걸 보니	다 모였나 봐아!{pause 40}	와～ 축하해! {pause 8}{catchphrase}!

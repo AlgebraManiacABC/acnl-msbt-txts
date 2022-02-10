@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Worry}
-"004"	{emote: Alarmed}
-"005"	{emote: Thought}
-"006"	{emote: Alarmed}
-"007"	{emote: Alarmed}
-"008"	{emote: Thought}
-"009"	{emote: Alarmed}
-"010"	{emote: Soft Smile}
-"011"	はい{pause 8}
-"012"	はい{pause 4}
-"013"	はい、{pause 16}
-"014"	はい、{pause 16}
-"015"	はい、{pause 16}
+"001"	{emote: Alarmed}え？　{pause 16}アタシ、さっき{pause 16}	{ruby (charSpan 2): しょめい}署名したと　{ruby (charSpan 1): おも}思うけど{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Worry}{ruby (charSpan 1): つか}疲れてるのね？　{pause 8}{Player nickname (green)}{0005-000d-0000}
+"002"	{emote: Alarmed}あら？　{pause 32}{emote: Worry}アタシ、さっき{pause 16}	{ruby (charSpan 2): しょめい}署名したわよ、{pause 8}{Player nickname (green)}{0005-000d-0000}
+"003"	{emote: Worry}アタシ、{pause 16}さっき　{ruby (charSpan 2): しょめい}署名したわよ{pause 32}	{emote: Sheepishness}{ruby (charSpan 2): ひとり}一人　{ruby (charSpan 2): なんかい}何回でもいいなら{pause 8}・{pause 8}・{pause 8}・{pause 8}	アナタ、{pause 16}ここ{ruby (charSpan 1): き}来てないでしょ？
+"004"	{emote: Alarmed}え{pause 8}・{pause 8}・{pause 8}・？　{pause 16}	{0012-0001-0000}の{ruby (charSpan 2): しょめい}署名？{Wait for input}{emote: Worry}{ruby (charSpan 1): わる}悪いけど、{pause 16}そういうことには	アタシ　{ruby (charSpan 2): きょうみ}興味ないの{pause 8}・{pause 8}・{pause 8}・{pause 8}	ごめんなさい、{pause 8}{Player nickname (green)}{0005-000d-0000}
+"005"	{emote: Thought}{pause 16}ふ～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	{0012-0001-0000}の	{ruby (charSpan 2): しょめい}署名ねぇ～、{pause 8}{catchphrase}	{emote: Sheepishness}{ruby (charSpan 1): わか}若いのね、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	{ruby (charSpan 1): わる}悪いけど、{pause 16}そういうのには	アタシ　{ruby (charSpan 2): きょうりょく}協力できないわ
+"006"	{emote: Alarmed}え、{pause 16}{ruby (charSpan 1): なに}何{pause 4}・{pause 4}・{pause 4}・？{pause 32}	{0012-0001-0000}の	{ruby (charSpan 4): しょめいうんどう}署名運動に　{emote: Curious}{ruby (charSpan 2): きょうりょく}協力してくれって？	{emote: Thought}{pause 16}・{pause 4}・{pause 4}・{pause 4}う～ん、{pause 16}{ruby (charSpan 1): わる}悪いけど	そういうのは　ちょっと{pause 16}	アタシ　{ruby (charSpan 2): きょうかん}共感できないわ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"007"	{emote: Alarmed}え{pause 8}・{pause 8}・{pause 8}・？{pause 16}	{0012-0001-0000}の{ruby (charSpan 2): しょめい}署名？{Wait for input}{emote: Soft Smile}いいわよ、{pause 16}アタシにも	できることがあるなら{pause 8}	{ruby (charSpan 2): きょうりょく}協力させてもらうわ、{pause 8}{catchphrase}
+"008"	{emote: Thought}{pause 16}ふ～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	{0012-0001-0000}の	{ruby (charSpan 2): しょめい}署名ねぇ～、{pause 8}{catchphrase}	{emote: Soft Smile}いいわ、{pause 16}アナタのためにも	{ruby (charSpan 2): きょうりょく}協力してあげるわ！{pause 8}	{Player nickname (green)}{0005-000d-0000}！
+"009"	{emote: Alarmed}え、{pause 16}{ruby (charSpan 1): なに}何{pause 4}・{pause 4}・{pause 4}・{pause 4}？{pause 32}	{0012-0001-0000}の	{emote: Curious}{ruby (charSpan 4): しょめいうんどう}署名運動に　{ruby (charSpan 2): きょうりょく}協力してくれって？	{emote: Soft Smile}アタシに　できることなら{pause 16}	やらせてもらうわ、{pause 8}{catchphrase}
+"010"	{emote: Soft Smile}はい、{pause 16}{ruby (charSpan 2): しょめい}署名したわよ！{Wait for input}	{emote: Worry}それにしても、{pause 16}わざわざ　	よその{ruby (charSpan 1): むら}村から　{ruby (charSpan 2): たいへん}大変だったわねぇ！	{emote: Soft Smile}{0012-0001-0000}が	{ruby (charSpan 2): じつげん}実現する{ruby (charSpan 1): ひ}日、{pause 16}アタシも	{ruby (charSpan 1): たの}楽しみにしているわ、{pause 8}{catchphrase}
+"011"	はい{pause 8}・{pause 8}・{pause 8}・{pause 8}{Villager's name (orange)}っと！{Wait for input}	{emote: Soft Smile}{ruby (charSpan 1): とお}遠いところ　ご{ruby (charSpan 2): くろう}苦労さま、{pause 8}	{Player nickname (green)}{0005-000d-0000}！	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あ、{pause 16}{ruby (charSpan 1): とし}歳は	{ruby (charSpan 1): か}書かなくて　{ruby (charSpan 1): よ}良かったわよね？
+"012"	はい{pause 4}・{pause 4}・{pause 4}・{pause 4}{ruby (charSpan 1): か}書いたわよ！{Wait for input}	{emote: Sheepishness}それにしても、{pause 16}アナタ	すごい{ruby (charSpan 3): こうどうりょく}行動力ね、{pause 8}{catchphrase}	わざわざ　よその{ruby (charSpan 1): むら}村から{pause 16}	{ruby (charSpan 2): しょめい}署名を　{ruby (charSpan 1): あつ}集めに{ruby (charSpan 1): く}来るなんて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}{ruby (charSpan 2): じつげん}実現するといいわね？{pause 32}	{0012-0001-0000}
+"013"	はい、{pause 16}{ruby (charSpan 2): しょめい}署名したわよ！{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あら、{pause 16}これで{ruby (charSpan 2): しょめい}署名が	{ruby (charSpan 2): ぜんぶ}全部　{ruby (charSpan 1): う}埋まったわ！	{emote: Sheepishness}{0012-0001-0000}の	{ruby (charSpan 2): じつげん}実現も　{pause 16}{ruby (charSpan 1): ゆめ}夢じゃないかも{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): あと}後は、{ruby (charSpan 2): ていしゅつ}提出するの　{ruby (charSpan 1): わす}忘れないでね？	{pause 8}{Player nickname (green)}{0005-000d-0000}？
+"014"	はい、{pause 16}{Villager's name (orange)}っと！{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あ、{pause 16}{ruby (charSpan 1): とし}歳とか	{ruby (charSpan 1): か}書かなくて　{ruby (charSpan 1): よ}良かったわよね？	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}ところで、{pause 16}{ruby (charSpan 2): しょめい}署名のノルマ{pause 16}	これで　{ruby (charSpan 2): たっせい}達成したんじゃない？	{pause 8}{catchphrase}？	{emote: Delight}やったわね！　{pause 8}{Player nickname (green)}{0005-000d-0000}！{pause 32}	{emote: Soft Smile}あとは、この{ruby (charSpan 2): しょめい}署名を{pause 16}	ちゃんと　{ruby (charSpan 2): ていしゅつ}提出するのよ
+"015"	はい、{pause 16}{ruby (charSpan 1): か}書いたわよ！{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あら？　{pause 16}これで	{ruby (charSpan 2): しょめい}署名の{ruby (charSpan 1): らん}欄、{ruby (charSpan 1): すべ}全て{ruby (charSpan 1): う}埋まったわ！	{emote: Bashful}{pause 32}アタシで　{ruby (charSpan 2): さいご}最後だなんて{pause 16}	なんだか　{ruby (charSpan 2): うんめい}運命を{ruby (charSpan 1): かん}感じるわ{pause 8}・{pause 8}・{pause 8}・{pause 32}{emote: Soft Smile}{Wait for input}{0012-0001-0000}が	{ruby (charSpan 2): じつげん}実現するのを、{pause 16}この{ruby (charSpan 1): むら}村の{ruby (charSpan 1): かた}片すみで	いのっているわ、{pause 8}{Player nickname (green)}{0005-000d-0000}

@@ -1,13 +1,13 @@
 == 0 ==
-"001"	좋았어～ {pause 8}
-"002"	준비 오케이?!{Wait for input}!
-"003"	가～위 {pause 20}
-"004"		　　　　　　    {0007-000b-0000}
-"005"		　　　　　　    {0007-000b-0000}
-"006"		　　　　　　　　 {0007-000b-0000}
-"007"	{emote: Mistaken}
-"008"	{emote: Alarmed}
-"009"	{emote: Greetings}
-"010"	
-"011"	쳇{pause 8}
-"012"	이렇게 되면{pause 8}ơ
+"001"	좋았어～ {pause 8}준비됐냐?{pause 20}	{emote: Glare}{Blue}단판{Color Reset} 승부다!
+"002"	준비 오케이?!{Wait for input}	먼저 {Blue}{Number (0x6)}번 {Color Reset}이기는 쪽이{pause 8}	승리라구!
+"003"	가～위 {pause 20}바～위{pause 8}・{pause 8}・{pause 8}・{000f-0001-0006-0000-0000-0000}	바위	가위	보
+"004"		　　　　　　    {0007-000b-0000}{Text size 200%}바위!{Text size 100%}
+"005"		　　　　　　    {0007-000b-0000}{Text size 200%}가위!{Text size 100%}
+"006"		　　　　　　　　 {0007-000b-0000}{Text size 200%}보!{Text size 100%}
+"007"	{emote: Mistaken}이런～!{pause 15}
+"008"	{emote: Alarmed}어이쿠, 비겼군{pause 8}{emote: Showmanship}{pause 30}	한 번 더!
+"009"	{emote: Greetings}아자～!{pause 15}
+"010"
+"011"	쳇{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Resigned}너의 승리군{pause 15}
+"012"	이렇게 되면{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Pride}{pause 20}이 몸의 승리다!{pause 40}	{emote: Laughter}으ー하하핫!{pause 30}{emote: Happiness}

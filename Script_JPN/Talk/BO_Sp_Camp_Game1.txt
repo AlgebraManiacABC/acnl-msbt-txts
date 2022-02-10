@@ -1,66 +1,66 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Glee}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Worry}
-"008"	{emote: Greetings}
-"009"	{emote: Sunny}
-"010"	{emote: Flourish}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Happiness}
-"013"	えへへ～{pause 20}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	えへへ～{pause 20}
-"016"	えへへ～{pause 20}
-"017"	{emote: Reset}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	モモで　いいんだねぇ～？{Wait for input}
-"020"	モモで　いいんだねぇ～？{Wait for input}
-"021"	{0009-0000-0004-16-00-17-00}
-"022"	リンゴで　いいんだねぇ～？{Wait for input}
-"023"	リンゴで　いいんだねぇ～？{Wait for input}
-"024"	{emote: Reset}
-"025"	{0009-0000-0004-1a-00-1b-00}
-"026"	モモで　いいんだねぇ～？{Wait for input}
-"027"	モモで　いいんだねぇ～？{Wait for input}
-"028"	{0009-0000-0004-1d-00-1e-00}
-"029"	リンゴで　いいんだねぇ～？{Wait for input}
-"030"	リンゴで　いいんだねぇ～？{Wait for input}
-"031"	{emote: Anger}
-"032"	{0009-0000-0004-21-00-22-00}
-"033"	モモで　いいんだねぇ？{Wait for input}
-"034"	モモで　いいんだねぇ？{Wait for input}
-"035"	{0009-0000-0004-24-00-25-00}
-"036"	リンゴで　いいんだねぇ？{Wait for input}
-"037"	リンゴで　いいんだねぇ？{Wait for input}
-"038"	{emote: Happiness}
-"039"	{0009-0000-0004-28-00-29-00}
-"040"	モモで　いいんだねぇ～？{Wait for input}
-"041"	モモで　いいんだねぇ～？{Wait for input}
-"042"	{0009-0000-0004-2b-00-2c-00}
-"043"	リンゴで　いいんだねぇ？{Wait for input}
-"044"	リンゴで　いいんだねぇ？{Wait for input}
-"045"	{emote: Happiness}
-"046"	{0009-0000-0004-2f-00-30-00}
-"047"	モモで　いいんだねぇ～？{Wait for input}
-"048"	モモで　いいんだねぇ～？{Wait for input}
-"049"	{0009-0000-0004-32-00-33-00}
-"050"	リンゴで　いいんだねぇ～？{Wait for input}
-"051"	リンゴで　いいんだねぇ～？{Wait for input}
-"052"	{emote: Happiness}
-"053"	{0009-0006-0010-36-00-36-00-36-00-36-00-36-00-36-00-36-00-37-00}
-"054"	モモで　いいんだねぇ？{Wait for input}
-"055"	モモで　いいんだねぇ？{Wait for input}
-"056"	{0009-0006-0010-39-00-39-00-39-00-39-00-39-00-39-00-39-00-3a-00}
-"057"	リンゴで　いいんだねぇ～？{Wait for input}
-"058"	リンゴで　いいんだねぇ～？{Wait for input}
-"059"	{0009-0002-0008-04-00-05-00-05-00-05-00}
-"060"	
-"061"	{emote: Love}
-"062"	{emote: Worry}
-"063"	{emote: Happiness}
-"064"	{emote: Happiness}
-"065"	{emote: Happiness}
+"001"	{emote: Happiness}ねぇねぇ～　キミ～{pause 20}	「どっち{ruby (charSpan 1): た}食べたゲーム」やらない～？{Wait for input}{emote: Glee}ゲームにかてば、	ボクの　{0011-0003-0002-0000}が{pause 20}	ゲキやすで　{ruby (charSpan 1): か}買えちゃうんだぁ～{Wait for input}{emote: Surprise}{0007-000a-0000}しかも！{pause 40}	{emote: Happiness}パーフェクトで　かてたら、{pause 20}	タダで　プレゼントしちゃうよぉ～{Wait for input}でも{pause 20}　もし　まけちゃったら、{pause 20}	それなりの　おねだんで{pause 8}	{ruby (charSpan 1): か}買ってもらうけどねぇ～{Wait for input}{0007-000d-0000}{emote: Curious}どぉ～？{pause 20}	うんだめし　してみない～？！{Player can respond (0005):0008-0015-0002-0028}	やってみるよ！	{ruby (charSpan 1): いま}今はやらない！
+"002"	{emote: Worry}そっかぁ～{pause 20}	ざんねんだなぁ、{pause 8}{catchphrase}
+"003"	{emote: Glee}ホントに　すごいよぉ！{pause 20}	まさか　ぜぇ～んぶ	{ruby (charSpan 1): あ}当てちゃうなんて～{Wait for input}{emote: Happiness}それじゃあ　やくそく{ruby (charSpan 1): どお}通り、{pause 20}	{0011-0003-0002-0000}は	タダで　プレゼントだよぉ！
+"004"	{emote: Happiness}それじゃあ{pause 20}	2{ruby (charSpan 1): かい}回{ruby (charSpan 1): あ}当たった{pause 20}　ってことで{Wait for input}{0011-0003-0002-0000}を	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): う}売ってあげるねぇ！{Wait for input}{emote: Glee}{ruby (charSpan 1): だい}大サービス　かかく～{pause 20}	コレは　おトクだよぉ？
+"005"	{emote: Happiness}2{ruby (charSpan 1): かい}回{ruby (charSpan 1): あ}当たったねぇ！{Wait for input}やくそくの　{0011-0003-0002-0000}は{pause 20}	ちょっぴり　おトクな	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): う}売ってあげるねぇ
+"006"	{emote: Happiness}1{ruby (charSpan 1): かい}回{ruby (charSpan 1): あ}当てたキミには、{pause 20}	{0011-0003-0002-0000}を	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買ってもらうよぉ
+"007"	{emote: Worry}ざんねんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{0011-0003-0002-0000}は{pause 20}	ちょっと{ruby (charSpan 1): たか}高めの　{Blue}{Number (0x9)}ベル{Color Reset}で	{ruby (charSpan 1): か}買ってもらうよぉ、{pause 8}{catchphrase}
+"008"	{emote: Greetings}やったぁ～！{pause 40}	ルールはもう{ruby (charSpan 1): し}知ってる～？{Player can respond (0000):0009-0000-000a-0000}	{ruby (charSpan 2): せつめい}説明してほしい	{ruby (charSpan 1): し}知ってるよ
+"009"	{emote: Sunny}オッケ～{pause 20}	ルールを　おしえるねぇ！{Wait for input}{emote: Reset}ボクが{pause 8}　リンゴとモモの　どっちかを、{pause 20}	キミに{ruby (charSpan 1): み}見えないように{pause 20}	{0007-000b-0000}がぶっ！{pause 20}　とかじるから、{Wait for input}{emote: Happiness}どっちのフルーツを{ruby (charSpan 1): た}食べたのか、{pause 20}	{ruby (charSpan 1): あ}当ててくださぁ～い！{Wait for input}{ruby (charSpan 1): あ}当てられたら	キミのかちだよぉ！{Wait for input}{emote: Glee}コレを　3{ruby (charSpan 1): かい}回くりかえすんだぁ{Wait for input}	もしも　3{ruby (charSpan 1): かい}回とも{ruby (charSpan 1): あ}当てたら{pause 20}	タダで{pause 8}　{ruby (charSpan 2): かぐ}家具を　プレゼントだよぉ！
+"010"	{emote: Flourish}よぉ～し！{pause 20}	それじゃあ	1{ruby (charSpan 2): かいめ}回目やってみよぉ！{Wait for input}{emote: Reset}どっちに　しよ～かなぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Mischief}よぉ～っし、{pause 40}{0007-000c-0000}がぶっ！{Wait for input}{emote: Agreement}もぐもぐ{pause 8}・{pause 8}・{pause 8}・{pause 20}	さぁて、{pause 20}どっちを{ruby (charSpan 1): た}食べたでしょ～？{Player can respond (0000):000b-0000-000e-0000}	モモだ！	リンゴ！
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Happiness}えへへ～{pause 20}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}じゃあ～ん！{pause 20}	そのとおり　モモだよぉ～！{pause 40}{emote: Happiness}{Wait for input}{emote: Delight}おめでとぉ！{pause 20}	{ruby (charSpan 1): あ}当たりだねぇ～{pause 40}{emote: Happiness}{Wait for input}{emote: Sunny}よぉ～し、{pause 20}つぎ{ruby (charSpan 1): い}行こ～！
+"013"	えへへ～{pause 20}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}ごめんねぇ～{pause 20}	リンゴだよぉ～{Wait for input}{emote: Happiness}でも　1{ruby (charSpan 2): かいめ}回目だし、{pause 20}	{ruby (charSpan 1): いま}今のことは　わすれて	つぎ{ruby (charSpan 1): い}行こ～！
+"014"	{0009-0000-0004-000f-0010}
+"015"	えへへ～{pause 20}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}じゃあ～ん！{pause 20}	そのとおり　リンゴだよぉ～！{pause 40}{emote: Happiness}{Wait for input}{emote: Delight}おめでとぉ～！{pause 20}	{ruby (charSpan 1): あ}当たりだねぇ～{pause 20}{Wait for input}{emote: Sunny}よぉ～し、{pause 20}	このちょうしで	つぎも　{ruby (charSpan 1): あ}当てちゃお～！
+"016"	えへへ～{pause 20}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}ごめんねぇ～{pause 8}	モモだよぉ～{Wait for input}{emote: Sunny}でも　まだ1{ruby (charSpan 2): かいめ}回目だし、{pause 20}	{ruby (charSpan 1): いま}今のことは　わすれて	つぎにいこ～！
+"017"	{emote: Reset}じゃあ、2{ruby (charSpan 2): かいめ}回目！{pause 20}	れんぞくせいかい　できるかなぁ？{Wait for input}{emote: Mischief}え～い、{pause 40}{0007-000c-0000}がぶがぶっ！{Wait for input}{emote: Agreement}もぐもぐ{pause 8}・{pause 8}・{pause 8}・{pause 40}	こんどは　どっちを{ruby (charSpan 1): た}食べたでしょ～？{Player can respond (0000):0012-0000-0015-0000}	モモだ！	リンゴだね！
+"018"	{0009-0000-0004-0013-0014}
+"019"	モモで　いいんだねぇ～？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}じゃあ～ん！{pause 20}	そのとおり　モモだよぉ～！{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}またまた　おめでとぉ～！{pause 20}	つづけて　せいかいだぁ～
+"020"	モモで　いいんだねぇ～？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}ざんねん！{pause 20}	リンゴだよぉ～{Wait for input}{emote: Worry}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	ハズレちゃったねぇ～{Wait for input}{emote: Happiness}よぉ～し、	つぎは　バッチリ{ruby (charSpan 1): あ}当ててねぇ～
+"021"	{0009-0000-0004-0016-0017}
+"022"	リンゴで　いいんだねぇ～？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}は～い！{pause 8}	そのとおり{pause 20}　リンゴだよぉ～！{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}またまた　おめでとぉ～！{pause 20}	れんぞくせいかいだぁ～
+"023"	リンゴで　いいんだねぇ～？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Worry}ごめ～ん！{pause 20}	モモだよぉ～！{Wait for input}{emote: Sunny}よぉ～し、	つぎは　バッチリ{ruby (charSpan 1): あ}当ててねぇ～
+"024"	{emote: Reset}じゃあ、2{ruby (charSpan 2): かいめ}回目！{pause 20}	つぎは　せいかいできるかなぁ？{Wait for input}{emote: Mischief}え～い、{pause 40}{0007-000c-0000}がぶがぶっ！{Wait for input}{emote: Agreement}もぐもぐ{pause 8}・{pause 8}・{pause 8}・{pause 40}	こんどは　どっちを{ruby (charSpan 1): た}食べたでしょ～？{Player can respond (0000):0019-0000-001c-0000}	モモだ！	リンゴだね！
+"025"	{0009-0000-0004-001a-001b}
+"026"	モモで　いいんだねぇ～？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}じゃあ～ん！{pause 20}	そのとおり　モモだよぉ！{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}えへへ～	おめでとぉ～！{pause 20}	つぎも　バシッと{ruby (charSpan 1): あ}当てちゃってねぇ
+"027"	モモで　いいんだねぇ～？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}ごめ～ん！	リンゴだよぉ！{pause 40}	またまた　ザンネンだねぇ～
+"028"	{0009-0000-0004-001d-001e}
+"029"	リンゴで　いいんだねぇ～？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}よかったねぇ～！{pause 20}	リンゴだよぉ～！{pause 20}{Wait for input}{emote: Delight}おめでとぉ～！{pause 20}	いいしょうぶに　なってきたねぇ～{pause 40}{emote: Happiness}
+"030"	リンゴで　いいんだねぇ～？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}ごめ～ん！	モモだよぉ～！{pause 40}	ザンネンだねぇ～
+"031"	{emote: Anger}じゃあ、うんめいの　3{ruby (charSpan 2): かいめ}回目だよぉ！{pause 20}	パーフェクトで　おわれるかな～？{Wait for input}{emote: Mischief}よぉ～っし{pause 40}	こっちだぁ～{pause 20}　{0007-000c-0000}がぶっ！{Wait for input}{emote: Agreement}もぐもぐ{pause 8}・{pause 8}・{pause 8}・{pause 40}	こんどは　どっちを{ruby (charSpan 1): た}食べたでしょ～？{Player can respond (0000):0020-0000-0023-0000}	モモだ！	リンゴっ！！
+"032"	{0009-0000-0004-0021-0022}
+"033"	モモで　いいんだねぇ？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Shocked}ま、{pause 20}まさかの{pause 20}	モモだよぉ～！{Wait for input}{emote: Delight}うわぁ～！！{pause 20}	すごぉ～い！{pause 20}	ぜんぶ{ruby (charSpan 1): あ}当てちゃったぁ～！{pause 40}{emote: Happiness}
+"034"	モモで　いいんだねぇ？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Sadness}リンゴなんだぁ～{Wait for input}{emote: Distress}うわぁ～{pause 20}　あとちょっとで、	ぜんぶ　せいかい　だったのにぃ！{pause 20}	{emote: Worry}おしかったねぇ～！
+"035"	{0009-0000-0004-0024-0025}
+"036"	リンゴで　いいんだねぇ？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Joy}じゃ～ん！{pause 20}	リンゴだよぉ～！{pause 40}{emote: Happiness}{Wait for input}{emote: Delight}うわぁ～！{pause 20}	ぜんぶ{ruby (charSpan 1): あ}当たっちゃったぁ～{pause 20}	おめでとぉ、{pause 8}{catchphrase}！！{pause 40}{emote: Happiness}
+"037"	リンゴで　いいんだねぇ？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Worry}うぅ～ん{pause 20}	モモだよぉ～！{Wait for input}{emote: Sadness}ざんね～ん！{pause 20}	あと1{ruby (charSpan 1): かい}回だったのにねぇ
+"038"	{emote: Happiness}じゃあ、3{ruby (charSpan 2): かいめ}回目だよぉ！{pause 20}	まだまだ　おトクに{ruby (charSpan 1): か}買える	チャンスは　あるからねぇ～{Wait for input}{emote: Mischief}よぉ～っし、{pause 40}	こっちだぁ～{pause 20}　{0007-000c-0000}がぶっ！{Wait for input}{emote: Agreement}もぐもぐ{pause 8}・{pause 8}・{pause 8}・{pause 40}	こんどは　どっちを{ruby (charSpan 1): た}食べたでしょ～？{Player can respond (0000):0027-0000-002a-0000}	モモだ！	リンゴ！
+"039"	{0009-0000-0004-0028-0029}
+"040"	モモで　いいんだねぇ～？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}えへへ～{pause 20}	モモだよぉ～！{pause 40}{emote: Happiness}
+"041"	モモで　いいんだねぇ～？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sadness}ごめんよぉ、リンゴだぁ{Wait for input}うぅ～ん{pause 20}	さっきの1{ruby (charSpan 1): かい}回だけだったねぇ	ざんね～ん、{pause 8}{catchphrase}
+"042"	{0009-0000-0004-002b-002c}
+"043"	リンゴで　いいんだねぇ？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}えへへ～{pause 20}	リンゴだよぉ～！{pause 40}{emote: Happiness}{Wait for input}{emote: Delight}よかったねぇ～{pause 20}	これでせいかいは　2{ruby (charSpan 1): かい}回{ruby (charSpan 1): め}目だね！{pause 40}{emote: Happiness}
+"044"	リンゴで　いいんだねぇ？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Worry}うぅ～ん	ごめんよぉ、モモだったぁ！{Wait for input}{emote: Sadness}ざんね～ん！{pause 20}	ちょっぴり　さみしい	けっかだったねぇ、{pause 8}{catchphrase}
+"045"	{emote: Happiness}3{ruby (charSpan 2): かいめ}回目だよぉ！{pause 20}	まだまだ　おトクなチャンスは	あるからねぇ！{Wait for input}{emote: Mischief}よぉ～し、いくよぉ～？{pause 40}	こっちに　キメた！　{pause 20}{0007-000c-0000}がぶっ！{Wait for input}{emote: Agreement}もぐもぐ{pause 8}・{pause 8}・{pause 8}・{pause 40}	こんどは　どっちを{ruby (charSpan 1): た}食べたでしょ～？{Player can respond (0000):002e-0000-0031-0000}	モモだ！	リンゴ！
+"046"	{0009-0000-0004-002f-0030}
+"047"	モモで　いいんだねぇ～？{Wait for input}	{emote: Thought}せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}えへへ～{pause 20}	モモだよぉ！{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}よかったねぇ～{pause 20}	さっきも{ruby (charSpan 1): あ}当てたから、	これで2{ruby (charSpan 1): かい}回　せいかいだねぇ
+"048"	モモで　いいんだねぇ～？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sadness}ごめんよぉ、リンゴだぁ{Wait for input}うぅ～ん{pause 20}	さっきの1{ruby (charSpan 1): かい}回だけだったねぇ{pause 20}	ざんね～ん、{pause 8}{catchphrase}
+"049"	{0009-0000-0004-0032-0033}
+"050"	リンゴで　いいんだねぇ～？{Wait for input}	{emote: Thought}せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}えへへ～{pause 20}	リンゴだよぉ～！{pause 40}	よかったねぇ、{pause 8}{catchphrase}{pause 40}{emote: Happiness}
+"051"	リンゴで　いいんだねぇ～？{Wait for input}	{emote: Thought}せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Worry}ごめんよぉ{pause 20}	モモなんだぁ～！{Wait for input}{emote: Sadness}ざんね～ん{pause 20}	ちょっぴり　さみしい	けっかだったねぇ、{pause 8}{catchphrase}
+"052"	{emote: Happiness}じゃあ、3{ruby (charSpan 2): かいめ}回目！{pause 20}	さいごのさいごで	{ruby (charSpan 2): ひとはな}一花さかせてみよぉ～{Wait for input}よぉ～し、{pause 20}いくよぉ～？{pause 40}	{emote: Mischief}こっちに　キメた！　{pause 20}{0007-000c-0000}がぶっ！{Wait for input}{emote: Agreement}もぐもぐ{pause 8}・{pause 8}・{pause 8}・{pause 40}	こんどは　どっちを{ruby (charSpan 1): た}食べたでしょ～？{Player can respond (0000):0035-0000-0038-0000}	モモだ！	リンゴ！
+"053"	{0009-0006-0010-0036-0036-0036-0036-0036-0036-0036-0037}
+"054"	モモで　いいんだねぇ？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}えへへ～{pause 20}	モモだよぉ～{pause 40}{emote: Happiness}{Wait for input}{emote: Glee}よかったぁ～{pause 20}	このまま　ぜんぶハズレだったら{pause 20}	かなしかったもんねぇ
+"055"	モモで　いいんだねぇ？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sadness}ごめんよぉ、{pause 20}リンゴなんだぁ{Wait for input}うぅ～ん{pause 20}	まさか　1{ruby (charSpan 1): かい}回も{ruby (charSpan 1): あ}当たらないなんて{pause 20}	ざんねんだねぇ、{pause 8}{catchphrase}
+"056"	{0009-0006-0010-0039-0039-0039-0039-0039-0039-0039-003a}
+"057"	リンゴで　いいんだねぇ～？{Wait for input}	せいかいはぁ～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}えへへ～{pause 20}	リンゴだよぉ！{pause 40}{emote: Happiness}{Wait for input}{emote: Delight}わぁ～！{pause 20}　よかったねぇ！{pause 20}	ぜんぶハズレは	まぬがれたよぉ、{pause 8}{catchphrase}{pause 40}{emote: Happiness}
+"058"	リンゴで　いいんだねぇ～？{Wait for input}	せいかいは～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}ごめんよぉ{pause 20}	モモなんだぁ～{Wait for input}ざんね～ん{pause 20}	まさか　1{ruby (charSpan 1): かい}回も{ruby (charSpan 1): あ}当たらないなんてねぇ
+"059"	{0009-0002-0008-0004-0005-0005-0005}
+"060"
+"061"	{emote: Love}はぁ～{pause 20}　ボク、{pause 8}	おなかいっぱいだぁ～{pause 40}	{emote: Happiness}また　あそぼうねぇ、{pause 8}{catchphrase}
+"062"	{emote: Worry}ボク　もうおなかいっぱい{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Happiness}キミも　なかなかやるねぇ{pause 20}	また　あそんでよぉ、{pause 8}{catchphrase}
+"063"	{emote: Happiness}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ボク　もうおなかいっぱい{Wait for input}{emote: Glee}おいしかったし{pause 20}	{ruby (charSpan 1): たの}楽しかったぁ、{pause 8}{catchphrase}
+"064"	{emote: Happiness}つぎは{pause 20}　もっともっと	がんばってねぇ～
+"065"	{emote: Happiness}{ruby (charSpan 1): たの}楽しかったぁ～！{pause 20}	また　いっしょにあそぼうね、{pause 8}{catchphrase}

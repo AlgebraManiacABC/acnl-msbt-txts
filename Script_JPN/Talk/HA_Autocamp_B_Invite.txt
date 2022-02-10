@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Bashful}
-"002"	{emote: Shocked}
-"003"	{emote: Bashful}
-"004"	{emote: Bashful}
-"005"	{emote: Worry}
-"006"	{emote: Glee}
-"007"	{emote: Worry}
-"008"	{emote: Curious}
-"009"	{emote: Flourish}
-"010"	{emote: Flourish}
-"011"	{emote: Bashful}
+"001"	{emote: Bashful}{pause 16}いや～、{pause 16}オイラも	そうしたかったんだけどさ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{ruby (charSpan 2): やくば}役場のヤツに{ruby (charSpan 1): き}聞いたら、{pause 16}{ruby (charSpan 2): きょう}今日は	{ruby (charSpan 2): てんにゅう}転入の{ruby (charSpan 2): てつづ}手続きが　なんとかで{pause 16}	むずかしいって　{ruby (charSpan 1): い}言われたんだよな～	{emote: Thought}{pause 16}だれかが　{ruby (charSpan 1): ひ}引っこしてくるのか？{pause 60}	{emote: Happiness}この{ruby (charSpan 1): むら}村は　{ruby (charSpan 2): にんき}人気なんだな、{pause 8}{catchphrase}
+"002"	{emote: Shocked}えっ！　{pause 8}いいのか？{Wait for input}{emote: Agreement}{ruby (charSpan 1): じつ}実はさ、{pause 8}こんなとこで	トレーニングできたら、{pause 20}サイコーだなって	{ruby (charSpan 1): おも}思ってたんだ！　{pause 8}{catchphrase}！	{emote: Showmanship}ぜんは　{ruby (charSpan 1): いそ}急げだ！{pause 60}	{emote: Glee}{ruby (charSpan 1): はや}早く{ruby (charSpan 1): かえ}帰って、{pause 16}{ruby (charSpan 1): ひ}引っこしの	じゅんびしなくちゃなー！
+"003"	{emote: Bashful}{pause 16}いや～、{pause 16}オイラも	そうしたかったんだけどさ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): やくば}役場のヤツに　{ruby (charSpan 1): き}聞いたら{pause 16}	{ruby (charSpan 1): むら}村の{ruby (charSpan 2): ていいん}定員が　いっぱいで{pause 20}	むずかしいって　{ruby (charSpan 1): い}言われたよ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Thought}{pause 16}この{ruby (charSpan 1): むら}村の{ruby (charSpan 2): そんちょう}村長に　{ruby (charSpan 2): そうだん}相談したら{pause 16}	どうにか　ならないかな～？　{pause 8}{catchphrase}？
+"004"	{emote: Bashful}{pause 16}{ruby (charSpan 1): じつ}実はさ、{pause 8}オイラも	そうしたかったんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{ruby (charSpan 2): やくば}役場のヤツに{ruby (charSpan 1): き}聞いたら、{pause 16}	{ruby (charSpan 1): いま}今の　{Town name (pink)}{ruby (charSpan 1): むら}村は{pause 8}	{ruby (charSpan 2): ていいん}定員オーバーしてるんだってさ！	{emote: Alarmed}あ{pause 4}・{pause 4}・{pause 4}・{pause 4}たしか	オマエって　{ruby (charSpan 2): そんちょう}村長だよな？　{pause 8}{catchphrase}？{Wait for input}{emote: Anger}オマエが　いいって{ruby (charSpan 1): い}言うなら、{pause 40}	{emote: Agreement}オイラが　{ruby (charSpan 1): むら}村のだれかと{pause 8}	{ruby (charSpan 1): はな}話し{ruby (charSpan 1): あ}合っても　{ruby (charSpan 2): もんだい}問題ないよな？{000f-0000-0004-0000-0000}	オッケー！	それはちょっと・・・
+"005"	{emote: Worry}そうか{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Soft Smile}まぁ、{pause 8}{ruby (charSpan 2): こんかい}今回は{pause 8}	エンが　なかったってことだなー！
+"006"	{emote: Glee}よーし！{pause 16}	じゃあ、{pause 8}なんてヤツと	{ruby (charSpan 1): はな}話し{ruby (charSpan 1): あ}合ったらいいんだ？　{pause 8}{catchphrase}？
+"007"	{emote: Worry}そりゃ　なやむよな{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Soft Smile}まぁ、{pause 8}{ruby (charSpan 2): こんかい}今回は{pause 8}	エンが　なかったってことだなー！
+"008"	{emote: Curious}{0011-0001-0002-0000}だな？{Wait for input}{emote: Glee}ちょっと　ソイツのところに{ruby (charSpan 1): い}行って{pause 16}	ドラフト{ruby (charSpan 2): かいぎ}会議してくるわ！
+"009"	{emote: Flourish}よっしゃ～！{pause 8}	うまくいったぞ～！{Wait for input}{emote: Happiness}{0011-0001-0002-0000}、{pause 8}いいヤツだったよ{pause 40}	もともと　{ruby (charSpan 1): ひ}引っこすつもりだったから、{pause 16}	{ruby (charSpan 2): よてい}予定を　{ruby (charSpan 1): はや}早めてくれるってさ！	{emote: Glare}ぶたいは、ととのった{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Glee}ってわけで、{pause 8}アイツのためにも{pause 16}	すぐに　{ruby (charSpan 1): ひ}引っこしてくるよ！
+"010"	{emote: Flourish}よっしゃ～！{pause 8}	うまくいったぞ～！{Wait for input}{emote: Happiness}{0011-0001-0002-0000}、{pause 8}いいヤツだったよ{pause 40}	もともと　{ruby (charSpan 1): ひ}引っこすつもりだったから、{pause 16}	{ruby (charSpan 2): よてい}予定を　{ruby (charSpan 1): はや}早めてくれるってさ！	{emote: Glare}ぶたいは、ととのった{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Glee}ってわけで、{pause 8}アイツのためにも{pause 16}	すぐに　{ruby (charSpan 1): ひ}引っこしてくるよ！
+"011"	{emote: Bashful}{pause 16}いや～、{pause 16}オイラも	そうしたかったんだけどさ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{ruby (charSpan 2): やくば}役場のヤツに{ruby (charSpan 1): き}聞いたら、{pause 16}{ruby (charSpan 2): きょう}今日は	{ruby (charSpan 1): むら}村で　{ruby (charSpan 1): おお}大きいイベントがあるから{pause 8}	{emote: Disagreement}むずかしいって　{ruby (charSpan 1): い}言われたんだよ～	{emote: Glee}{Town name (pink)}{ruby (charSpan 1): むら}村って{pause 16}　	{ruby (charSpan 1): たの}楽しそうなトコだなー！　{pause 8}{catchphrase}！

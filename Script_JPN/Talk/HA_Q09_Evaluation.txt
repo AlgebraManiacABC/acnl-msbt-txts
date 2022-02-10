@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Greetings}
-"005"	{emote: Anger}
-"006"	{emote: Resigned}
-"007"	{emote: Happiness}
-"008"	{emote: Thought}
-"009"	{emote: Laughter}
-"010"	{emote: Alarmed}
-"011"	{emote: Sadness}
-"012"	{emote: Sadness}
+"001"	{emote: Alarmed}おー！{pause 20}	もう{ruby (charSpan 1): かえ}帰っちゃうのかー！{Wait for input}{emote: Happiness}そんで　オマエ{ruby (charSpan 1): てき}的には	オイラの{ruby (charSpan 2): へや}部屋は　どうだった？{pause 40}	なかなか　いい{ruby (charSpan 1): かん}感じだっただろ？{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"002"	{emote: Alarmed}オイー！　{Player nickname (green)}！{pause 40}	{ruby (charSpan 1): なに}何も{ruby (charSpan 1): い}言わずに　{ruby (charSpan 1): かえ}帰る{ruby (charSpan 1): き}気かー？{Wait for input}{emote: Worry}オイラの{ruby (charSpan 2): へや}部屋の{ruby (charSpan 2): かんそう}感想くらい	{ruby (charSpan 1): おし}教えてくれよ、{pause 8}{catchphrase}{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"003"	{emote: Alarmed}アレッ？！{pause 40}	もう{ruby (charSpan 1): かえ}帰るのかー{Wait for input}{emote: Glee}じゃあ　{ruby (charSpan 2): さいご}最後に、	オイラの{ruby (charSpan 2): へや}部屋に	ひょうかをつけてくれよー！{Wait for input}{ruby (charSpan 2): ともだち}友達だからって、	エンリョは　いらないぞー？{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"004"	{emote: Greetings}ヨッシャー！{pause 20}	やっぱり　そうだよな！{pause 40}	ほめてくれて　うれしいぞー！{Wait for input}{emote: Laughter}ハハッ！{pause 20}	{Player nickname (green)}のおすみつきだー！{pause 40}	オイラの{ruby (charSpan 2): へや}部屋は　サイコー！{pause 40}{emote: Soft Smile}
+"005"	{emote: Anger}ちぇーーっ！{pause 20}	ちょっとは　{ruby (charSpan 1): き}気をつかえよ、{Player nickname (green)}！{Wait for input}{emote: Thought}でも　まあまあってことは、{pause 20}	もう{ruby (charSpan 2): いっぽ}一歩ってことだよな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}よーっし！{pause 20}	いつか　オマエに　サイコーって	{ruby (charSpan 1): い}言わせてやるぞ、{pause 8}{catchphrase}
+"006"	{emote: Resigned}そうか{pause 8}・{pause 8}・{pause 8}・{pause 40}	ま、{pause 20}きびしいことを{ruby (charSpan 1): い}言えるのも、	{ruby (charSpan 2): ともだち}友達だからだよなー{Wait for input}{emote: Reset}オイラも、{pause 20}	{ruby (charSpan 1): いま}今さら　オマエのために	{ruby (charSpan 1): か}変えようなんて{ruby (charSpan 1): おも}思わないよ{Wait for input}{emote: Laughter}ハハッ！{pause 20}	すべては　ありのままだ、{pause 8}{catchphrase}{pause 40}{emote: Soft Smile}
+"007"	{emote: Happiness}そっか、そっか！{pause 20}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってもらえてよかったぞー！{pause 40}	オマエって　なかなか{ruby (charSpan 1): み}見る{ruby (charSpan 1): め}目あるな！
+"008"	{emote: Thought}そっかー{pause 8}・{pause 8}・{pause 8}・{pause 20}	なんか　もっとこう{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Curious}インパクトが{ruby (charSpan 2): ひつよう}必要ってことか？{Wait for input}{emote: Anger}ヨッシャー！{pause 40}	{ruby (charSpan 1): つぎ}次に{ruby (charSpan 1): き}来たときは、	ビックリさせてやるよ！
+"009"	{emote: Laughter}ハハッ！{pause 20}	オマエって　ジョーダンも{ruby (charSpan 1): い}言うんだな！{pause 40}{emote: Soft Smile}{Wait for input}{emote: Disbelief}{0007-000b-0000}え{pause 8}・{pause 8}・{pause 8}・{pause 40}	ホントに　イマイチ？
+"010"	{emote: Alarmed}ホントかー？！{pause 20}	オマエが　ほめてくれるなんて	{ruby (charSpan 1): おも}思わなかったぞ！{Wait for input}{emote: Sunny}へへっ！{pause 40}	やっぱり　オイラの{ruby (charSpan 2): へや}部屋は	カッコイイんだな、{pause 8}{catchphrase}
+"011"	{emote: Sadness}ちぇーーっ{pause 8}・{pause 8}・{pause 8}・{pause 40}	フツーかよ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Resigned}そんな　あたりさわりのない	{ruby (charSpan 2): かんそう}感想　{ruby (charSpan 1): い}言われたって、{pause 20}	オイラのキンニクは　ふるえないぞー？
+"012"	{emote: Sadness}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 20}	オマエが{ruby (charSpan 1): い}言うなら、	ジョーダンじゃなさそうだな{Wait for input}{emote: Worry}もしかして{pause 20}	オイラのシュミって	{ruby (charSpan 2): じだい}時代を　{ruby (charSpan 2): さきど}先取りしすぎてるのかな

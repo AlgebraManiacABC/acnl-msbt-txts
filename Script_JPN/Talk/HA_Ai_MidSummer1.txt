@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Greetings}
-"004"	{emote: Happiness}
-"005"	{emote: Greetings}
-"006"	こんにちは！{pause 8}!
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	{emote: Surprise}
-"010"	{emote: Greetings}
-"011"	{emote: Happiness}
+"001"	{emote: Happiness}{Greeting begin}おー！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	オマエ　{ruby (charSpan 2): きょう}今日も	{ruby (charSpan 2): げんき}元気そうだな、{pause 8}{catchphrase}！{Wait for input}{emote: Greetings}{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): げし}夏至の{ruby (charSpan 1): ひ}日！{pause 20}	{ruby (charSpan 1): よる}夜も{ruby (charSpan 1): あか}明るい　{ruby (charSpan 2): おもしろ}面白い{ruby (charSpan 1): ひ}日だー！{pause 20}	{emote: Glee}{ruby (charSpan 1): よる}夜になるのが　{ruby (charSpan 1): たの}楽しみだぞー！{pause 20}{emote: Happiness}
+"002"	{emote: Happiness}オーッス！　{Player nickname (green)}！{pause 20}	おはよー！{pause 8}　{catchphrase}！{Wait for input}{emote: Anger}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): げし}夏至だから	{ruby (charSpan 2): いちにち}一日が{ruby (charSpan 1): なが}長いぞー？！{pause 20}	{emote: Agreement}なんたって　{ruby (charSpan 1): よる}夜が{ruby (charSpan 1): こ}来ないんだからな！
+"003"	{emote: Greetings}{Greeting begin}よぉ！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 40}	{emote: Glee}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): げし}夏至にふさわしい	いい{ruby (charSpan 2): てんき}天気だな、{pause 8}{catchphrase}
+"004"	{emote: Happiness}おー！{pause 8}　{Player nickname (green)}！{pause 40}	こう　{ruby (charSpan 2): てんき}天気がいいと	うかれちゃうよなー、{pause 8}{catchphrase}{Wait for input}{emote: Glee}しかも　{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): げし}夏至だから、	この{ruby (charSpan 2): てんき}天気が　{ruby (charSpan 2): いちにち}一日{ruby (charSpan 1): つづ}続くんだ！{pause 40}	ますます　テンション{ruby (charSpan 1): あ}上がるー！
+"005"	{emote: Greetings}{Greeting begin}オーッス！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	{ruby (charSpan 2): げんき}元気そうだなー！{Wait for input}{emote: Resigned}でも{pause 20}　{ruby (charSpan 2): げし}夏至の{ruby (charSpan 1): ひ}日は　{ruby (charSpan 1): よる}夜が{ruby (charSpan 1): こ}来ないんだから、{pause 20}	{ruby (charSpan 1): いま}今から　はりきりすぎると	バテちゃうぞ、{pause 8}{catchphrase}
+"006"	こんにちは！{pause 8}　{Player nickname (green)}！{pause 40}	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): げし}夏至！{pause 40}	{ruby (charSpan 1): よる}夜が{ruby (charSpan 1): こ}来ない{ruby (charSpan 1): ひ}日だぞー！{Wait for input}{emote: Agreement}{ruby (charSpan 2): きょう}今日のあいさつは{pause 20}	{ruby (charSpan 3): いちにちじゅう}一日中　こんにちはで	いこうかな、{pause 8}{catchphrase}
+"007"	{emote: Greetings}{Greeting begin}オーッス！{pause 8}　{Player nickname (green)}！{Greeting end}{Wait for input}{emote: Alarmed}{ruby (charSpan 1): み}見ろよ！{pause 20}　{ruby (charSpan 2): きょう}今日は{ruby (charSpan 2): げし}夏至だから、	まだ{ruby (charSpan 2): たいよう}太陽が{ruby (charSpan 1): で}出てるんだ！{pause 40}	{emote: Happiness}{ruby (charSpan 2): とうぶん}当分　ねむれなさそうだ、{pause 8}{catchphrase}
+"008"	{emote: Greetings}オーッス！{pause 8}　{Player nickname (green)}！{pause 40}	{emote: Anger}{ruby (charSpan 2): よみち}夜道はあぶないから	{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けろよ？　{pause 8}{catchphrase}？{Wait for input}{emote: Reset}って、{pause 20}{ruby (charSpan 1): おも}思ったけど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Laughter}{ruby (charSpan 2): きょう}今日は　まったく	あぶなくないな{pause 20}　ハハッ！{pause 20}{emote: Happiness}
+"009"	{emote: Surprise}{0007-000a-0000}あ！{pause 8}　{Player nickname (green)}じゃん！{pause 40}	{emote: Happiness}{ruby (charSpan 2): きょう}今日もオイラは	きたえまくってたんだ、{pause 8}{catchphrase}！{Wait for input}しかも　{ruby (charSpan 2): げし}夏至だから、	{ruby (charSpan 1): そら}空が　まだ{ruby (charSpan 1): あか}明るい！{pause 40}	{emote: Sunny}{ruby (charSpan 2): きょう}今日は　もっともっと　きたえるぞー！
+"010"	{emote: Greetings}{Greeting begin}よぉ！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 40}	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): げし}夏至だから、	まだまだ　こんなに{ruby (charSpan 1): あか}明るいんだ、{pause 8}{catchphrase}
+"011"	{emote: Happiness}{Player nickname (green)}　こんばんは！{pause 20}	なんだか　ねむそうだなー？{Wait for input}{emote: Reset}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): げし}夏至だからな！{pause 20}	こんなに　{ruby (charSpan 1): あか}明るいけど、{pause 8}	{ruby (charSpan 1): じつ}実は　もう　{ruby (charSpan 2): よなか}夜中なんだぞ、{pause 8}{catchphrase}

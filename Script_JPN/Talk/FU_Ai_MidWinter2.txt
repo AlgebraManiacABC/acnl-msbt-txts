@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Soft Smile}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
+"001"	{emote: Happiness}{Greeting begin}あら、{pause 10}{Player nickname (green)}さん{Greeting end}{pause 15}	また　お{ruby (charSpan 1): あ}会いしましたね！{Wait for input}{emote: Sleepy}{ruby (charSpan 1): ひ}日が{ruby (charSpan 1): で}出ないので{pause 10}	まだ　{pause 5}{ruby (charSpan 2): ねむけ}眠気が{ruby (charSpan 1): と}取れません、{pause 15}{catchphrase}
+"002"	{emote: Happiness}あら、{pause 15}{Player nickname (green)}さん{Wait for input}	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　{pause 5}{ruby (charSpan 3): いちにちじゅう}一日中　{ruby (charSpan 1): くら}暗いそうなので{pause 10}	{ruby (charSpan 2): あしもと}足元には　{pause 8}{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けてくださいね！
+"003"	{emote: Happiness}また　{pause 5}お{ruby (charSpan 1): あ}会いしましたね！{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): とうじ}冬至だけあって{pause 10}	{emote: Cold Chill}{ruby (charSpan 1): あさ}朝から　{pause 8}{ruby (charSpan 1): ひ}冷え{ruby (charSpan 1): こ}込みますね～、{pause 15}{catchphrase}
+"004"	{emote: Soft Smile}お{ruby (charSpan 2): ひさま}日様が{ruby (charSpan 1): で}出ないと{pause 10}	こんな{ruby (charSpan 1): かん}感じなんですね{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Glee}いつもとは　{ruby (charSpan 1): ちが}違った{ruby (charSpan 3): ふんいき}雰囲気を{pause 10}	{ruby (charSpan 1): たの}楽しみましょう、{pause 15}{catchphrase}！
+"005"	{emote: Happiness}{Greeting begin}あ、{pause 20}{Player nickname (green)}さん！{Greeting end}{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): そら}空だけ{ruby (charSpan 1): み}見ていると{pause 10}	お{ruby (charSpan 1): ひる}昼なのか　{pause 8}{ruby (charSpan 1): よる}夜なのか{pause 15}	{emote: Distress}さっぱり　わかりませんね、{pause 15}{catchphrase}！
+"006"	{emote: Happiness}また　{pause 5}お{ruby (charSpan 1): あ}会いしましたね！{Wait for input}{emote: Thought}このまま　{ruby (charSpan 1): よる}夜になるのかしら{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Happiness}ほんと　{ruby (charSpan 3): ふしぎ}不思議ですね～、{pause 15}{catchphrase}
+"007"	{emote: Happiness}{Greeting begin}あら　{pause 10}{Player nickname (green)}さん{Greeting end}{pause 20}	とうとう　{pause 5}{ruby (charSpan 2): ほんもの}本物の{ruby (charSpan 1): よる}夜ですね、{pause 15}{catchphrase}
+"008"	{emote: Happiness}また　{pause 3}お{ruby (charSpan 1): あ}会いしましたね！{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): ひ}日は{ruby (charSpan 1): で}出ませんでしたけど、{pause 10}	{Player nickname (green)}さんと　{pause 5}おしゃべりしてると{pause 15}	{emote: Glee}ポカポカした{ruby (charSpan 2): きぶん}気分になります
+"009"	{emote: Happiness}まぁ　{pause 20}{Player nickname (green)}さん{Wait for input}	{ruby (charSpan 2): きょう}今日は　{pause 10}めずらしい{ruby (charSpan 2): いちにち}一日でしたね、{pause 15}{catchphrase}

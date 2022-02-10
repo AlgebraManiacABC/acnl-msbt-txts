@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Sheepishness}
-"002"	{emote: Sadness}
-"003"	{emote: Distress}
+"001"	{emote: Sheepishness}そっか～{pause 20}	じゃあ、{pause 10}また　ひまな{ruby (charSpan 1): とき}時に{pause 5}{ruby (charSpan 1): あそ}遊ぼうね！
+"002"	{emote: Sadness}な～んだ　{pause 10}{ruby (charSpan 2): ざんねん}残念だな～{Wait for input}	{emote: Sheepishness}まぁ、{pause 10}そういうことなら{pause 8}	また{ruby (charSpan 2): こんど}今度　{ruby (charSpan 1): あそ}遊ぼうね！ {pause 20}{catchphrase}！
+"003"	{emote: Distress}え～　{pause 20}{Player nickname (green)}{0005-000d-0000}と	{ruby (charSpan 1): あそ}遊びたかったのにな～{Wait for input}	{emote: Sheepishness}じゃあ、{pause 10}また{ruby (charSpan 1): き}気が{ruby (charSpan 1): む}向いたらよろしくね

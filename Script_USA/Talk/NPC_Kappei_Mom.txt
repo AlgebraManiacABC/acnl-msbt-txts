@@ -1,78 +1,78 @@
 == 0 ==
-"001"		{pause 5}
-"002"	{emote: Happiness}
-"003"	{emote: Laughter}
-"004"	Do ye have a beach close to yer	house in the city?{emote: Curious}
-"005"	{emote: Happiness}
-"006"	Yar, that be reminding me. Do ye	know how to use a wet suit?{000f-0005-0004-00-00-00-00}
-"007"	Well, {pause 20}!
+"001"		{pause 5}{emote: Alarmed}{0007-000b-0000}{Text size 140%}Shiver me timbers!{Text size 100%}{Wait for input}{Text size 140%}{Text size 100%}{emote: Anger}Don't be sneakin' up on an old	woman like that! Nearly scared	me outta me shell!	And that wouldn't be a pretty	sight. {pause 60}{emote: Laughter}Yar har har!{Wait for input}{emote: Happiness}Ye must be new here. Me son	brought ye over in his boat, yar?{Wait for input}{emote: Sunny}Well, since ye be here, why not buy	an island souvenir fer yerself or yer	sweetheart back home?
+"002"	{emote: Happiness}If there be something ye got yer	eye on, go on a tour and gather up	some {Blue}medals{Color Reset}. {Wait for input}{emote: Anger}I don't accept Bells.	{emote: Happiness}That lass standing over there be me	daughter-in-lar{pause 5}r{pause 5}r{pause 5}r{pause 5}r{pause 5}r.{pause 20} Ye can ask her	about the tours.
+"003"	{emote: Laughter}Landlubbers like yerself are always	blown away when they see these	sorts of things.	{emote: Happiness}That's 'cause the islands be the	only place ye can get 'em!
+"004"	Do ye have a beach close to yer	house in the city?{emote: Curious}{Wait for input}{emote: Happiness}If that be the case, ye should buy	one of me wet suits so ye can	swim when ye go back home!	{emote: Reset}Aye,{pause 5} but I can't guarantee we be	havin' wet suits for sale every day...{pause 10}{Wait for input}So {emote: Sunny}{pause 5}ye should be makin' regular	trips to the island to do some	checkin' and plunderin'!
+"005"	{emote: Happiness}If there be a souvenir ye have yer	eye on,{pause 10} go on a tour and plunder	some {Blue}medals{Color Reset}.{Wait for input} {emote: Anger}I don't accept Bells.	{emote: Happiness}That lass standing over there be me	daughter-in-lar{pause 5}r{pause 5}r{pause 5}r{pause 5}r{pause 5}r.{pause 20} Ye can ask her	about the tours.
+"006"	Yar, that be reminding me. Do ye	know how to use a wet suit?{000f-0005-0004-0000-0000}	No, please teach me!	Uh...yeah, I'll manage.
+"007"	Well, {pause 20}ye need to put it on first.	Don't be skippin' that step.	Very important.	{emote: Happiness}After ye have put it on, just {pause 10}press Ⓐ	while on the beach to enter the sea!{Wait for input}{emote: Reset}Once ye be in the sea, press Ⓐ{pause 10} to	swim in the direction ye be facin'.{Wait for input}Now listen close—if ye see	something below the surface,	press Ⓨ to dive down after it!	{emote: Happiness}There be a lot of treasure in the	deep, but there also be stinging	jellyfish, so stay sharp.
 "008"	I'll put yer new wet suit in the {Blue}box	{Color Reset}so ye can take it home with ye.
-"009"	
-"011"	{capitalized}
-"012"	{capitalized}
-"013"	Aye, {Article(word-dependant)}
-"014"	Aye.{pause 5}
-"015"	That be {Article(word-dependant)}!
-"016"	I gotcha, {000e-0006-0012-06-00-6c-00-61-00-64-00-08-00-6c-00-61-00-73-00-73-00}.{pause 20}
-"017"	{emote: Laughter}
-"018"	{emote: Laughter}
-"019"	Yar, that there's the application	form for {Blue}Club Tortimer{Color Reset} it is!{0000-0004-0000}
-"020"	Avast! {pause 20}
-"021"	That be the application form for	{Blue}Club Tortimer{Color Reset}.{0000-0004-0000}!
-"022"	Nar? {pause 20}
-"023"	{emote: Laughter}
-"024"	{emote: Sunny}
-"025"	That be the application form fer	{Blue}Club Tortimer{Color Reset}.{0000-0004-0000}!
-"026"	Yar, that there's the application	form for {Blue}Club Tortimer{Color Reset}, it is!{0000-0004-0000}ơ
+"009"
+"011"	{capitalized}{0011-0003-0002-0000}?{pause 16} That item	{emote: Agreement}ain't be something ye see back in	the big city, yar?	{emote: Reset}Well, it'll cost ye {Blue}{Number (0xa)} medals{Color Reset},{pause 10} so	why don't ye go on a tour and earn	some?{pause 8} It ain't harrrrd!	{emote: Happiness}Me daughter-in-larrrr over there	can get ye all set up to go on a tour.
+"012"	{capitalized}{0011-0003-0002-0000}?{pause 16} That item	ain't be so common on yer land-like	city, do it?	It'll cost ye {Blue}{Number (0xa)} medals{Color Reset} to take	it home with ye.{confirmation-02}{000f-0005-0004-0015-0028}	I want it!	Just browsing.
+"013"	Aye, {Article(word-dependant)}{0011-0003-0002-0000}?{pause 16}	Ye be seein' a nice item tharrrrrr.{pause 16}	I'll give it to ye fer{pause 5} {Blue}{Number (0xa)} medals{Color Reset}.{confirmation-02}{000f-0005-0004-0015-0028}	It's a deal.	No thanks.
+"014"	Aye.{pause 5} {capitalized}{Article(word-dependant)}{0011-0003-0002-0000}.{Wait for input}	{emote: Laughter}Ye be needin' one if ye wanna	swim in the sea!{pause 20}{emote: Happiness}	{emote: Reset}I'll give it to ye fer {pause 5}{Blue}{Number (0xa)} medals{Color Reset}.{confirmation-02}{000f-0005-0004-0015-0028}	It's a deal.	Just browsing.
+"015"	That be {Article(word-dependant)}	{0011-0003-0002-0000}!{Wait for input}I'll let ye have it fer{pause 5} {Blue}{Number (0xa)} medals{Color Reset}.{confirmation-02}{000f-0005-0004-0015-0028}	It's a deal!	Just browsing.
+"016"	I gotcha, {lad/lass}.{pause 20} {emote: Laughter}Ye be overwhelmed	by all of these exotic items, {pause 20}yar?
+"017"	{emote: Laughter}Yar har har! {pause 20}Ye don't be havin'	enough medals, {lad/lass}!{pause 20} Go plunder	some more medals and come back!
+"018"	{emote: Laughter}Yar har har!{pause 20} Pleasure doin' business	with ye.{Wait for input}I put yer new souvenir in the {Blue}box{Color Reset}.	Make sure it be in the {Blue}box{Color Reset} when you	leave so ye can take it home.
+"019"	Yar, that there's the application	form for {Blue}Club Tortimer{Color Reset} it is!{Wait for input}If ye become a member,{pause 10} ye can	go on tours with people you've	never met before, but{pause 5}.{pause 5}.{pause 5}.	Ye be needin' a picture of yerself in	yer {Blue}TPC {Color Reset}before ye can become a	full member.	Ye just be needin' to visit the	shoppin' district o' yer town.{pause 10}{Wait for input}There's a booth there that'll {pause 5}{emote: Curious}take	yer picture for ye, right?{Wait for input}{emote: Happiness}Go take yer picture there first, and	then next time ye come to play on	the island, ye can sign up!{pause 10} Yar!
+"020"	Avast! {pause 20}The {Blue}box{Color Reset}{pause 5} be full to the brim.{Wait for input}When ye trade with me, I put yer	new stuff straight into the {Blue}box {Color Reset}so	ye don't forget to take it home.	{emote: Happiness}If ye want something else, make	sure there be room enough in the	{Blue}box{Color Reset}.
+"021"	That be the application form for	{Blue}Club Tortimer{Color Reset}.{Wait for input}If ye become a member,{pause 10} ye can	go on tours with people from all	over the globe.	Care to become a member for a	mere{pause 5} {emote: Curious}{Blue}{Number (0xa)} medals{Color Reset}?{confirmation-02}{000f-0005-0004-0015-0028}	Oh yeah!	Maybe later.
+"022"	Nar? {pause 20}Well, let me know if ye change	yer mind!{Wait for input}All the important details be in a	pamphlet on the tour counter, {pause 20}so	{emote: Happiness}give it a look later.
+"023"	{emote: Laughter}Yo ho ho! {pause 20}That be great news.{pause 20}	{emote: Happiness}Let's be fillin' out this application.{Wait for input}{emote: Thought}Let's see{pause 4}.{pause 4}.{pause 4}.{pause 4}	{capitalized}{Player name} from {Town name (pink)}{pause 4}.{pause 4}.{pause 4}.{pause 4}	Joining on {Month} {Day}, {Year}{pause 4}.{pause 4}.{pause 4}.
+"024"	{emote: Sunny}Yar! Ye now be an official member	o' {Blue}Club Tortimer{Color Reset}!{Wait for input}{emote: Reset}There don't be a member's card or	nothin',{pause 10} but I'll make sure me son	knows ye be a member.	If ye need more info,{pause 15} just ask me	son next time ye be{pause 8} ridin' the boat	alone!
+"025"	That be the application form fer	{Blue}Club Tortimer{Color Reset}.{Wait for input}{emote: Laughter}But ye already be a member, so it	be worthless to ye!
+"026"	Yar, that there's the application	form for {Blue}Club Tortimer{Color Reset}, it is!{Wait for input}If ye become a member,{pause 10} ye can	go on tours with people you've	never met before, but{pause 5}.{pause 5}.{pause 5}.	ye must be at least THIS tall	to be usin' the service.	{pause 4}.{pause 4}.{pause 4}.In other, fancier words{pause 4}.{pause 4}.{pause 4}.{Wait for input}if you're subject to {Blue}COPPA {Color Reset}or	Parental Restrictions...{Wait for input}regardin' {Blue}sending and receiving of	photos and images, videos, speech,	and long texts{Color Reset}...	ye won't be able to use the	service. Them's the rules.{Wait for input}If ye don't know fer sure, ye best	be talkin' to a parent or guardian	before joinin' the club. OK?	So {pause 15}if you're joinin' up,	that'll be {Blue}{Number (0xa)} medals{Color Reset}.{pause 5}	{emote: Curious}What do ye think?{confirmation-02}{000f-0005-0004-0015-0028}	Join the club!	Never mind.
 == 1 ==
-"001"		{pause 5}
-"002"	{emote: Happiness}
-"003"	{emote: Laughter}
-"004"	{emote: Curious}
-"005"	{emote: Happiness}
-"006"	Con la gente de tierra firme nunca	puede una estar segura. Sabes	cómo darte un bañito, ¿verdad?{000f-0005-0004-00-00-00-00}!
-"007"	Antes de nada,{pause 20}!
+"001"		{pause 5}{emote: Alarmed}{0007-000b-0000}{Text size 140%}¡Aaah, menudo susto!...{Wait for input}{Text size 100%}{emote: Anger}¡A esta edad no está una para	estos trotes! ¡Casi se me cae	el caparazón patas abajo!	Créeme, mozuel{o/a}, no es una	visión agradable, {pause 60}{emote: Laughter}¡jar, jar, jar!{Wait for input}{emote: Happiness}Tu cara no me suena. ¿Te ha traído	a la isla mi niño? Espero que te haya	deleitado con una canción.	{emote: Sunny}¡Tiene una voz de oro!{pause 20} En fin, ya que	estás aquí, ¿por qué no compras	algún recuerdo de tu visita?
+"002"	{emote: Happiness}Si hay algo que te llame la atención,	haz un tour y consigue medallas.{Wait for input}{emote: Anger} No	acepto bayas como forma de pago.	{emote: Happiness}La muchacha de allí es mi nuera.{pause 20}	Habla con ella para hacer un tour.
+"003"	{emote: Laughter}La gente de interior como tú	se queda siempre boquiabierta	cuando ve estos objetos.	{emote: Happiness}¡Solo se pueden conseguir	en las islas!
+"004"	{emote: Curious}¿Hay playa cerca de tu casa?{Wait for input}{emote: Happiness}Si es así, puedes comprar un traje	de buceo y ponértelo para darte un	chapuzón en ella.	{emote: Reset}No te emociones todavía,	jovenzuel{o/a},{pause 5} porque no te puedo	garantizar que tenga uno ahora.{pause 10}{Wait for input}{emote: Sunny}{pause 5}Ven a visitar a esta vieja anémona	marina de vez en cuando y así ves	cómo andamos de existencias.
+"005"	{emote: Happiness}Si le has echado el ojo a algo de mi	tienda, haz un tour y consigue	medallas.{Wait for input} {emote: Anger}No aceptamos bayas.{Wait for input}{emote: Happiness}La muchacha de allí es mi nuera.{pause 20}	Habla con ella para hacer un tour.
+"006"	Con la gente de tierra firme nunca	puede una estar segura. Sabes	cómo darte un bañito, ¿verdad?{000f-0005-0004-0000-0000}	No, explícamelo	Ya me las apañaré
+"007"	Antes de nada,{pause 20} tienes que ponerte	el traje de buceo. Es de cajón, pero	alguna gente de secano no lo sabe.	{emote: Happiness}Después, cuando estés en la playa	solo tienes que pulsar Ⓐ cerca del	mar para meterte en el agua.	{emote: Reset}Cuando te encuentres en el agua,	pulsa Ⓐ{pause 10} para nadar en la dirección	en la que estés mirando.{Wait for input}Ahora presta atención:{pause 20} si ves que	hay algo bajo la superficie,{pause 20} ¡pulsa	Ⓨ para zambullirte y agarrarlo!	{emote: Happiness}El mar oculta muchos tesoros.{pause 20}{Wait for input}¡Pero ojo, que las medusas también	merodean en estas aguas y pican	que no veas!
 "008"	Te dejo el traje de buceo en el	{Blue}cesto de guardado{Color Reset}, para que te	lo lleves a casa.
-"009"	
-"011"	Es{000e-0008-000c-00-ffffffcd-02-00-65-00-02-00-61-00-00-00}!
-"012"	Es{000e-0008-000c-00-ffffffcd-02-00-65-00-02-00-61-00-00-00}!
-"013"	Es {Article(word-dependant)}
-"014"	¿Quieres comprar este	{pause 5}
-"015"	El precio de est{000e-0008-000c-00-ffffffcd-02-00-65-00-02-00-61-00-00-00}
-"016"	Te entiendo mozuel{000e-0006-0008-02-00-6f-00-02-00-61-00}.{pause 20}
-"017"	{emote: Laughter}
-"018"	{emote: Laughter}
-"019"	Esa es una{pause 5}
-"020"	¡Problema a la vista! {pause 20}!
-"021"	Esa es una{pause 5}
-"022"	¿No? {pause 20}
-"023"	{emote: Laughter}
-"024"	{emote: Sunny}
-"025"	Es{pause 5}
-"026"	Este es el formulario para hacerse	miembro del {Blue}Club Tórtimer{Color Reset}.{0000-0004-0000}
+"009"
+"011"	Es{e/a/} {pause 5}{0011-0003-0002-0000}{pause 10}	{emote: Agreement}no es algo que se vea a menudo	en tierra firme. ¿Me equivoco?	{emote: Reset}Te l{o/a/} vendo por {Number (0xa)} {Blue}{medallas/medalla/medallas}{Color Reset}.{pause 10}	Intenta conseguirlas participando	en un tour.{Wait for input}{emote: Happiness}Mi nuera está allí al lado y se	dedica a organizar los tours.
+"012"	Es{e/a/} {pause 5}{0011-0003-0002-0000}{pause 10}	{emote: Agreement}no es algo que se vea a menudo	en tierra firme. ¿Me equivoco?	{emote: Reset}Te l{o/a/} puedes llevar a casa	por {Number (0xa)} {Blue}{medallas/medalla/medallas}{Color Reset}.{pause 10}{confirmation-02}{000f-0005-0004-0000-0028}	¡Compro!	No me interesa
+"013"	Es {Article(word-dependant)}{0011-0003-0002-0000}.	¿Te interesa? Puede ser tuy{o/a/}	por {pause 5}{Blue}{Number (0xa)} {medallas/medalla/medallas}{Color Reset}.{confirmation-02}{000f-0005-0004-0015-0028}	¡Sí!	No
+"014"	¿Quieres comprar este	{pause 5}{0011-0003-0002-0000}?{Wait for input} {emote: Laughter}Sin él no	podrás nadar en el mar, claro.{pause 20}{emote: Happiness}	{emote: Reset}Te lo vendo por {pause 5}{Blue}{Number (0xa)} {medallas/medalla/medallas}{Color Reset}.{confirmation-02}{000f-0005-0004-0015-0028}	Sí	No
+"015"	El precio de est{e/a/}{pause 5} 	{0011-0003-0002-0000}	es{pause 5} {Blue}{Number (0xa)} {medallas/medalla/medallas}{Color Reset}. ¿Te interesa?{confirmation-02}{000f-0005-0004-0015-0028}	Sí	No
+"016"	Te entiendo mozuel{o/a}.{pause 20}	{emote: Laughter}Cuesta decidirse entre tantos	objetos exóticos, {pause 20}¿verdad?
+"017"	{emote: Laughter}¡Jar, jar, jar! {pause 20}¡No tienes suficientes	medallas, bucaner{o/a}!{pause 20} ¡Ve a por más!
+"018"	{emote: Laughter}¡Jar, jar, jar!{pause 20} Es un placer hacer	negocios contigo.{Wait for input}Te dejo este objeto en el {Blue}cesto	de guardado{Color Reset}. ¡No olvides llevártelo	cuando llegues a tu pueblo!
+"019"	Esa es una{pause 5} solicitud para formar	parte del {Blue}Club Tórtimer{Color Reset}. ¡Jar!{Wait for input}Si te unes al club,{pause 10} podrás participar	en tours con gente de cualquier	parte del mundo.{Wait for input}¡Ay!{pause 10} ¡Problema a la vista!	Necesitas tener una foto en tu {Blue}DRP	{Color Reset}para poder formar parte del club.	Tendrás que pasarte por la zona	comercial de tu pueblo y sacarte	una, renacuaj{o/a}.{pause 10}{Wait for input}Debe de haber alguna cabina	"fotomática" de esas por ahí, 	{emote: Curious}¿verdad?{emote: Reset}{Wait for input}¡Seguro! A la gente moderna	le gustan las fotos esas...{Wait for input}{emote: Happiness}¡Sácate una foto y te inscribiré	la próxima vez que vengas de visita	a la isla!
+"020"	¡Problema a la vista! {pause 20}El {Blue}cesto de	guardado {Color Reset}está hasta los topes.{Wait for input}Siempre guardo ahí los objetos que	compran mis clientes para que no	se los olviden.	{emote: Happiness}Si quieres comprar algo más,	haz sitio en el {Blue}cesto{Color Reset}.
+"021"	Esa es una{pause 5} solicitud para formar	parte del {Blue}Club Tórtimer{Color Reset}.{Wait for input}Si te unes al club,{pause 10} podrás participar	en tours con gente de cualquier	parte del mundo.{Wait for input}Cuesta {emote: Curious}{Blue}{Number (0xa)} {medallas/medalla/medallas}{Color Reset}.	¿Te gustaría unirte al club?{confirmation-02}{000f-0005-0004-0015-0028}	¡Sí, por supuesto!	No, mejor luego
+"022"	¿No? {pause 20}Bueno, ¡aquí estoy si cambias	de opinión!{Wait for input}Hay un panfleto informativo en la	mesa de los tours. {pause 20}{emote: Happiness}Échale un ojo	con tranquilidad cuando quieras.
+"023"	{emote: Laughter}¡Genial! {pause 20}Me alegro por ti.{pause 20}	{emote: Happiness}Vamos a rellenar la solicitud.{Wait for input}{emote: Thought}Nombre:{pause 20}{pause 20} {capitalized}{Player name}	Pueblo:{pause 20}{pause 20} {capitalized}{Town name (pink)}{Wait for input}Fecha de ingreso:	{Day} de {Month} de {Year}{pause 4}.{pause 4}
+"024"	{emote: Sunny}¡Listo! ¡Te acabas de unir	al prestigioso {Blue}Club Tórtimer{Color Reset}!{Wait for input}{emote: Reset}Este club no tiene tarjeta ni nada,	pero no te preocupes,{pause 10} le diré a mi	niño que ya eres miembro.{Wait for input}Si necesitas saber algo más del club,{pause 15}	pregúntale a él la próxima vez que	subas sol{o/a} a bordo de su bote.
+"025"	Es{pause 5} una solicitud de ingreso	en el{Blue} Club Tórtimer{Color Reset}.{Wait for input}{emote: Laughter}Pero tú ya eres miembro,	así que no te interesa.
+"026"	Este es el formulario para hacerse	miembro del {Blue}Club Tórtimer{Color Reset}.{Wait for input}Únete y disfruta de tours con otros	socios.{pause 20} ¡Puede que incluso	conozcas a algunos nuevos!{Wait for input}Para ello, el control parental no	debe restringir {Blue}el intercambio de	audio, imágenes, vídeo y texto{Color Reset}.	En caso contrario, no podrás	usar el servicio.{pause 8} ¡Las reglas son	las reglas!	Si tienes dudas,{pause 8} ¡habla primero	con tus padres antes de unirte	al club!{Wait for input}Bueno,{pause 8} unirse al club cuesta	{Blue}{Number (0xa)} medallas{Color Reset}{pause 20}.	{emote: Curious}¿Te apuntas?{confirmation-02}{000f-0005-0004-0015-0028}	¡Ahora mismo!	Mejor no...
 == 2 ==
-"001"		{pause 5}
-"002"	{emote: Happiness}
-"003"	{emote: Laughter}
-"004"	{emote: Curious}
-"005"	{emote: Happiness}
-"006"	{emote: Thought}
-"007"	{emote: Thought}
-"008"	J'range ton maillot dans le {Blue}panier{Color Reset}.{pause 25}
-"009"	
-"011"	{emote: Agreement}
-"012"	{emote: Reset}
-"013"	{emote: Mischief}
-"014"	C'est {Article(word-dependant)}
-"015"	{emote: Reset}
-"016"	J'comprends, {000e-0006-0042-20-00-6d-00-6f-00-6e-00-20-00-70-00-27-00-74-00-69-00-74-00-20-00-67-00-61-00-62-00-69-00-65-00-72-00-1e-00-6d-00-61-00-20-00-70-00-27-00-74-00-69-00-74-00-65-00-20-00-76-00-69-00-67-00-69-00-65-00}...{pause 20}
-"017"	{emote: Laughter}
-"018"	{emote: Laughter}
-"019"	Kôôôrrr!{pause 30}
-"020"	{emote: Soft Smile}
-"021"	{emote: Soft Smile}
-"022"	{emote: Disbelief}
-"023"	{emote: Laughter}
-"024"	{emote: Sunny}
-"025"	{emote: Agreement}
-"026"	{emote: Agreement}
+"001"		{pause 5}{emote: Alarmed}{0007-000b-0000}AAAAAAARRRRRRRHHHHHHHH!{Text size 140%}{Wait for input}{Text size 100%}{emote: Anger}Non mais t'es pas bien de v'nir faire	peur à une vieille dame délicate?!	Ça va pas dans ta tête ou quoi?!	{emote: Outrage}J'ai failli en faire tomber ma	perruque!{pause 20} Et crois-moi,{pause 15} tu voudrais	pas voir ça!{pause 60}{emote: Laughter} Har harr harrr...!	{emote: Happiness}Ah, {pause 20}enkôôrrr {un touriste/une touriste}... {Un/Une}	{boucanier/boucanière}, oui!{pause 20} Pour faire autant	d'boucan!	C'est mon fainéant d'fils qui t'a	am'né{/e} ici,{pause 15} juste pour m'embêter,{pause 12}	j'suis sûre! Kôr?	{emote: Sunny}Bon ben comme t'es là, {pause 15}t'as qu'à	m'ach'ter un p'tit souv'nir pour	t'faire pardonner! 
+"002"	{emote: Happiness}Si y'a une bricole qui t'fait envie,{pause 15}	ramène-moi les {Blue}médailles{Color Reset} que	t'auras en faisant des excursions.	{pause 20}{emote: Anger}Et oui,{pause 20} c'est comme ça!{pause 30} Moi je	n'prends pas les clochettes!{Wait for input}{emote: Happiness}La meuf là-bas, {pause 15}c'est ma bru. {pause 20}Ma	belle-fille, quoi. {pause 40}{emote: Sigh}Enfin, {pause 30}belle,{pause 40} c'est	vit' dit{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Agreement}« Bru », {pause 15}ça lui va mieux.	{emote: Resigned}T'as qu'à lui d'mander pour les	excursions! {pause 20}Kôôr!
+"003"	{emote: Laughter}Har Har! {pause 30}Vous, {pause 20}les gens d'la ville,{pause 20}	z'êtes toujours attirés par tout	c'qui brille, d'toute façon... {pause 45}Pirates!	{emote: Happiness}C'est pour ça qu'vous v'nez dans les	îles, {pause 10}j'parie,{pause 10} hein!{pause 20} C'est pour les	médailles!{pause 20} Kôôrr!	Vous savez qu'on n'en trouve que	là!
+"004"	{emote: Curious}T'as une plage près d'chez toi à la	ville?{Wait for input}{emote: Happiness}Passque justement j'vends des	maillots. {pause 20}Y'a pas mieux pour nager	comm' une tortue.	Mais j'en ai pas tous les jours. {pause 20}{emote: Mischief}Alors	à ta place je r'viendrais d'temps en	temps, pour voir c'que j'ai en stock.
+"005"	{emote: Happiness}Si y'a un p'tit souvenir qu'tu	voudrais ram'ner chez toi,{pause 10} pars en	excursion et paie-moi en {Blue}médailles{Color Reset}.	{emote: Anger}Moi j'prends pas les clochettes.	C'est bon pour les gens d'la ville,	ces trucs-là! Kôôr!	{emote: Happiness}La meuf qu'est d'bout là-bas à rien	faire, c'est ma belle-fille. {pause 30}Enfin,{pause 15}	belle, {pause 15}{emote: Sheepishness}c'est vit' dit{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Resigned}T'as qu'à lui d'mander pour les	excursions!
+"006"	{emote: Thought}{pause 15}Tant qu'on y est... {pause 40}{emote: Curious}Tu sais comment	qu'on s'sert d'un maillot?{000f-0005-0004-0000-0000}	Non. Tu me montres?	Je me débrouillerai.
+"007"	{emote: Thought}D'abord, {pause 20}faut commencer par	l'enfiler.{pause 30} Un peu comme si t'enfilais	une carapace propre.	{emote: Agreement}C'est important. {pause 30}Si tu la gardes à la	patte, tu s'ras embêté{/e} avec pour	nager.	{emote: Happiness}Quand c'est fait, {pause 15}et que t'es sur la	plage, {pause 15}t'appuies sur Ⓐ pour te	j'ter à l'eau!{Wait for input}{emote: Sunny}Quand t'es dans l'eau, appuie sur Ⓐ{pause 10}	pour aller là où qu'tu veux aller.{Wait for input}Maint'nant écoute-moi bien,{pause 10}	{garnement/mam'zelle}... {pause 30}{emote: Happiness}Y'a tout plein d'trésors	à piller au fond d'l'eau.	{emote: Glare}Alors si tu vois un machin en	dessous, faut appuyer sur Ⓨ pour	plonger l'pêcher!	{emote: Distress}Mais fais attention à pas mett' la	patte sur une de ces vilaines	méduses! {pause 10}Kôôr!
+"008"	J'range ton maillot dans le {Blue}panier{Color Reset}.{pause 25}	Comme ça, {pause 10}tu l'oublieras pas quand	tu r'partiras chez toi!
+"009"
+"011"	{emote: Agreement}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}	comme ça,{pause 20} on n'doit pas en voir	souvent sur l'continent, j'parie,{pause 20} kôr!	Har har! {pause 20}{emote: Mischief}Ça f'ra {Blue}{Number (0xa)} médailles{Color Reset},	{p'tit/p'tite} pirate!{pause 30} Alors à ta place j'irais	en excursion en piller et t'renflouer.	{emote: Happiness}Va voir la femme du fiston. {pause 30}Elle te	dira comment y faut qu'tu fasses.{pause 30}{emote: Agreement}	Elle sait tout là-dessus.	{emote: Resigned}C'est bien sa seule qualité! {pause 20}Et	enkôôr...
+"012"	{emote: Reset}C'est {pause 5}{Article(word-dependant)}{0011-0003-0002-0000}!{pause 10}	{emote: Disagreement}J'parie qu'on voit pas ça en ville,	hein? {pause 20}Et pis quoi kôôr!	{emote: Agreement}Faudra m'donner {Blue}{Number (0xa)} médailles	{Color Reset}si tu l'veux.{confirmation-02}{000f-0005-0004-0015-0028}	D'accord!	Je regarde, c'est tout.
+"013"	{emote: Mischief}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}...	C'est joli, hein?{pause 40} {Blue}{Number (0xa)} médailles{Color Reset}!	{Blue}{Number (0xa)} médailles{Color Reset}, et c'est à toi!{confirmation-02}{000f-0005-0004-0015-0028}	Vendu!	Non merci, madame.
+"014"	C'est {Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}	{emote: Laughter}T'en auras besoin si tu veux trouver	des trésors engloutis! Kôôrr!{pause 20}{emote: Happiness}	{emote: Reset}J'te la donne contre {pause 5}{Blue}{Number (0xa)}	médailles{Color Reset}.{confirmation-02}{000f-0005-0004-0015-0028}	Marché conclu!	Je regarde, c'est tout.
+"015"	{emote: Reset}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}!	{emote: Mischief}À toi pour{pause 5} {Blue}{Number (0xa)} médailles	{Color Reset}seulement! Kôôr!{confirmation-02}{000f-0005-0004-0015-0028}	Je l'achète!	Non merci, madame.
+"016"	J'comprends, {mon p'tit gabier/ma p'tite vigie}...{pause 20}	{emote: Laughter}T'es ébloui{/e} par tous ces beaux	objets des îles, {pause 20}hein? Kôr!
+"017"	{emote: Laughter}Har harr harrr... {pause 20}T'en as pas enkôôr	assez, {mon p'tit/ma p'tite} corsaire.{pause 20} Allez! Va	donc piller des médailles, {flibustier/pirate}!
+"018"	{emote: Laughter}Har harr harrr!{pause 30} C'est un plaisir de	faire des affaires avec toi!{pause 40} J'ai mis	ton p'tit souvenir dans le {Blue}panier{Color Reset}.	{emote: Happiness}Fais-en c'que tu veux, {pause 20}mais pour pas	l'oublier ici,{pause 15} faut qu'il soit dedans	quand tu partiras!
+"019"	Kôôôrrr!{pause 30} {emote: Glare}Regarde! {pause 20}Ça c'est une	fiche d'inscription pour le {Blue}Club	Tortimer{Color Reset}!	{emote: Happiness}Si t'en deviens membre,{pause 15} tu pourras	rencontrer et courir les mers avec	d'autres flibustiers comme toi!	{emote: Sheepishness}Mais pour ça, {pause 15}mon p'tit mousse,{pause 20}	il faut qu'tu m'montres ta {Blue}CR	{Color Reset}avec ta photo.	Sinon j'peux pas t'inscrire. {pause 30}{emote: Resigned}	Si t'as pas d'photo, {pause 15}va dans la	rue commerçante de ta ville.	{emote: Thought}{pause 10}Normalement,{pause 10} y'aura une espèce	de boîte qui fait des photos.{pause 30} {emote: Resigned}Me	d'mande pas comment ça marche.	{emote: Happiness}Quand t'en auras une,{pause 20} reviens m'voir	et tu pourras dev'nir membre.
+"020"	{emote: Soft Smile}Le {Blue}panier{Color Reset} est plein!{pause 40} Quand j'te	vends une babiole,{pause 15} j'la mets tout	droit là-d'dans.	{emote: Agreement}Comme ça tu l'oublies pas sur l'île	quand tu rent' chez toi!{Wait for input}{emote: Happiness}Si tu veux ram'ner aut' chose, {pause 10}va	falloir faire d'la place dedans!
+"021"	{emote: Soft Smile}C'est un bulletin d'adhésion pour le	{Blue}Club Tortimer{Color Reset}.{Wait for input}{emote: Agreement}Les membres,{pause 15} ils peuvent partir en	excursion avec des corsaires de	toutes les mers du globe.{Wait for input}{emote: Mischief}Ça t'dirait d'êt' membre?{pause 30} Ça coûte	seulement {Blue}{Number (0xa)} médailles{Color Reset}!{pause 15} Kôôr!{confirmation-02}{000f-0005-0004-0015-0028}	Oui, je veux bien!	Plus tard, peut-être...
+"022"	{emote: Disbelief}Kôôr!{pause 20} Nan? {pause 30}{emote: Worry}Fais-moi signe si tu	changes d'avis, {pause 10}corsaire!{Wait for input}{emote: Thought}Tout c'qu'y a à savoir est marqué	dans un dépliant qu'tu trouveras au	guichet.{pause 20} {emote: Happiness}Penses-y!
+"023"	{emote: Laughter}Hé hé hé! {pause 20}Ça c'est parlé!{pause 30}	{emote: Happiness}Alors on remplit l'formulaire!{Wait for input}{emote: Thought}Voyons, voyons{pause 8}.{pause 8}.{pause 8}.{pause 10} {capitalized}{Player name}... {pause 30}Tu	viens d'{Town name (pink)}{pause 8}.{pause 8}.{pause 8}.{pause 10} On est le {Day}	{Month} {Year}{pause 8}.{pause 8}.{pause 8}.
+"024"	{emote: Sunny}Ayé! {pause 30}Maintenant t'es officiellement	membre du {Blue}Club Tortimer{Color Reset}!{Wait for input}{emote: Pride}Y'a pas d'carte d'adhérent ou d'truc	comme ça,{pause 10} mais t'inquiète!	J'le dirai à mon bon à rien d'fils!	{emote: Happiness}Si tu veux en savoir plus,{pause 15}	demande-lui la prochaine fois qu'tu	prendras l'bateau {tout seul/tout' seule}. {pause 15}Kôôr!
+"025"	{emote: Agreement}Ça, {pause 20}c'est le bulletin d'adhésion au	{Blue}Club Tortimer{Color Reset}.{Wait for input}{emote: Laughter}Mais t'y es déjà, {pause 15}alors ça t'servira à	rien, kôôr!
+"026"	{emote: Agreement}Et voilà, un beau formulaire	d'inscription au {Blue}Club Tortimer{Color Reset},	rien qu'pour toi.	{emote: Agreement}Un' p'tite signature et vogue la	galère, te v'là embarqué{/e} pour	des visites pas piquées des vers!	{emote: Agreement}T'iras à la découverte du monde	avec un' brochette de moussaillons	qu'tu connais p'têt' même pas, kôr!	{emote: Mischief}Par contr', pas d'entourloupes :{pause 8} si	l'{Blue}échange de fichiers audio/vidéo,	images ou messages{Color Reset} est restreint...	{emote: Sheepishness}... tu rest'ras à quai. {pause 8}Si c'est l'cas,	va parlementer avec un parent ou	un tuteur pour l'ver la restriction!	{emote: Sunny}Mais si l'échange est pas restreint,	alors trêv' de blabla, hissons l'grand	foc et sortons l'contrat!	{emote: Alarmed}Nan! {pause 30}{emote: Disagreement}L'inscription est pas gratuite,	pas d'flibust' chez Mamiral!{pause 8}	Qu'est-c'tu crois, {moussaillon/p'tite pirate}?!	{emote: Pride}Partir à l'aventure, ça coûte	{Blue}{Number (0xa)} médailles{Color Reset}, kôôr.{pause 8} Alors,	fais voir ta bourse, {boucanier/boucanière}!{confirmation-02}{000f-0005-0004-0015-0028}	V'là les médailles!	Pas question.

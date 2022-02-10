@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	
+"001"	{emote: Greetings}{capitalized}{Player nickname (green)}! The usual, please!
+"002"	{emote: Alarmed}Huh?!{pause 40} {capitalized}{Player nickname (green)}? Are you working	part-time here today?{Wait for input}{emote: Happiness}Well then{pause 8}.{pause 8}.{pause 8}.{pause 20}I'd like my usual, please!
+"003"
 "004"	Can I have some coffee? Please use	{Blue}Blue Mountain {Color Reset}beans!
 "005"	Can I have some coffee? Please use	{Blue}mocha {Color Reset}coffee beans!
 "006"	Can I have some coffee? Please use	{Blue}Kilimanjaro {Color Reset}beans!
@@ -14,38 +14,38 @@
 "013"	Can I have some coffee? With just	{Blue}2 {Color Reset}sugars, please!
 "014"	Can I have some coffee? With only	{Blue}1 {Color Reset}sugar, please!
 "015"	Can I have some coffee? With {Blue}no	{Color Reset}sugar, please!
-"016"	{emote: Happiness}
-"017"	{emote: Glare}
-"018"	All right! Let me take a little sip{pause 8}
-"019"	{emote: Shocked}
-"020"	{emote: Star Yell}
-"021"	{emote: Agreement}
-"022"	{emote: Alarmed}
-"023"	{emote: Alarmed}
-"024"	{emote: Alarmed}
-"025"	
-"026"	
-"027"	
-"028"	{emote: Curious}
-"029"	{emote: Curious}
-"030"	{emote: Curious}
-"031"	{emote: Disagreement}
-"032"	
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"		{emote: Alarmed}
-"040"	{emote: Glee}
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
+"016"	{emote: Happiness}Heh heh! Lemme try it!
+"017"	{emote: Glare}Let's see{pause 8}.{pause 8}.{pause 8}.{pause 20}
+"018"	All right! Let me take a little sip{pause 8}.{pause 8}.{pause 8}.
+"019"	{emote: Shocked}{0007-000b-0000}Th-{pause 20}{0007-000b-0000}this is amazing!{0007-000e-0000}{pause 40}	{emote: Happiness}This is the taste I like!{pause 20}	Well done, {Player nickname (green)}!{Wait for input}I'm glad you got it right for me! I'm	impressed,{pause 8} {catchphrase}.
+"020"	{emote: Star Yell}{pause 15}Wow{0007-000b-0000}ees!{pause 20} {0007-000b-0000}This is perfect!{pause 20}{emote: Soft Smile}{0007-000e-0000}{Wait for input}{emote: Happiness}This is exactly what I like! You're an	amazing brewer!{Wait for input}{emote: Greetings}I'll definitely be back!
+"021"	{emote: Agreement}Nice! This is perfect! This coffee is	exactly to my taste!{0007-000e-0000}{Wait for input}{emote: Daydreaming}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} I can feel my body	recovering from the fatigue after	my last workout.	{emote: Sunny}Heh heh! You did a pretty good job!{pause 40}	I'll be back!{pause 8} {capitalized}{catchphrase}.
+"022"	{emote: Alarmed}Whoa! This tastes good!{Wait for input}{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry}But it's not quite perfect! It's OK,	but I think you used a different type	of {Blue}coffee bean{Color Reset} than what I wanted.{Wait for input}{emote: Happiness}Next time I'm here, I expect to have	the perfect coffee, {catchphrase}.
+"023"	{emote: Alarmed}Whoa! This tastes good!	{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry}Good but not perfect.{Wait for input}I think the {Blue}amount of milk {Color Reset}isn't quite	what I expected.{Wait for input}{emote: Happiness}Next time I'm here, I expect to have	the perfect coffee, {pause 8}{catchphrase}.
+"024"	{emote: Alarmed}Whoa! This tastes good! But{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry}it's	not perfect!{Wait for input}I think the {Blue}amount of sugar {Color Reset}is just	a bit off.{Wait for input}{emote: Happiness}Next time I'm here, I expect to have	the perfect coffee! {pause 8}{capitalized}{catchphrase}!
+"025"
+"026"
+"027"
+"028"	{emote: Curious}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Not quite what I expected.{Wait for input}{emote: Happiness}But the type of {Blue}coffee bean{pause 20}{Color Reset} is	exactly what I wanted!{Wait for input}I'm hoping to have a flawless cup of	coffee next time I'm here, {bro/ladybro}!{pause 8}	{capitalized}{catchphrase}!
+"029"	{emote: Curious}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Not quite what I expected.{Wait for input}{emote: Happiness}But the {Blue}amount of {Color Reset}{Blue}milk{Color Reset} is exactly	right!{Wait for input}I'm hoping to have a flawless cup of	coffee next time I'm here, {bro/ladybro}!{pause 8}	{capitalized}{catchphrase}!
+"030"	{emote: Curious}Hmmm? Not quite what I expected.{Wait for input}{emote: Happiness}But the {Blue}amount of sugar{Color Reset}{pause 20} is exactly	what I wanted!{Wait for input}I'm hoping to have a flawless cup of	coffee next time I'm here, {bro/ladybro}!{pause 8}	{capitalized}{catchphrase}!
+"031"	{emote: Disagreement}Noooo, that's not right at all!{pause 40}	{emote: Sadness}This is not what I wanted!{Wait for input}{emote: Laughter}I don't know how this went so	wrong, but it did!{pause 8}{emote: Happiness}{Wait for input}Next time I come here, I hope you	can give me the taste I'm after!{pause 8}	{capitalized}{catchphrase}!
+"032"
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"		{emote: Alarmed}{0007-000a-0000}{Text size 150%}DELICIOUS!{Text size 100%}{0007-000e-0000}{Wait for input}{emote: Agreement}I'm impressed! You got everything	right! {pause 20}{emote: Happiness}This drink was well worth the	trip here!	{emote: Sunny}Heh heh! Thanks for a great coffee!{pause 8}	{capitalized}{catchphrase}!
+"040"	{emote: Glee}Wow! This is great! It's exactly	what I wanted!{0007-000e-0000}{Wait for input}{emote: Daydreaming}Hmmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} I can feel my body	recovering from all the running I did	to get here!	{emote: Happiness}Thanks a lot! I'll definitely be back	for more! {pause 8}{capitalized}{catchphrase}!
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
 "048"	Oh! Please put {Blue}a lot of {Color Reset}milk in it!
 "049"	Oh! Please put {Blue}a decent amount {Color Reset}of	milk in it!
 "050"	Oh! Please put {Blue}a little bit of {Color Reset}milk	in it!
@@ -55,10 +55,10 @@
 "054"	Oh! Please put just {Blue}1 {Color Reset}sugar in it!
 "055"	Oh! {Blue}No {Color Reset}sugar for me, please!
 == 1 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	
-"004"	¿Me pones un café?{0000-0004-0000}
+"001"	{emote: Greetings}¡{capitalized}{Player nickname (green)}! ¡Lo de siempre,	por favor!
+"002"	{emote: Alarmed}¿{capitalized}{Player nickname (green)}? ¿Hoy te toca	trabajar?{Wait for input}{emote: Happiness}Bueno, pues{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡me gustaría	tomar lo de siempre, por favor!
+"003"
+"004"	¿Me pones un café?{Wait for input}¡Prepáralo con {Blue}blue mountain{Color Reset}!
 "005"	¿Me pones un café? ¡Házmelo	con {Blue}moca{Color Reset}!
 "006"	¿Me pones un café? Ah,	¡y prepáralo con {Blue}kilimanjaro{Color Reset}!
 "007"	¿Me pones un café? Ah, ¡y	prepáramelo con {Blue}mezcla{Color Reset}!
@@ -70,38 +70,38 @@
 "013"	¿Me pones un café? ¡Que sea	con {Blue}dos{Color Reset} terrones, por favor!
 "014"	¿Me pones un café? ¡Y échale	{Blue}un{Color Reset} terrón de azúcar, por favor!
 "015"	¿Me pones un café?	¡{Blue}Sin{Color Reset} azúcar, por favor!
-"016"	{emote: Happiness}
-"017"	{emote: Glare}
-"018"	¡Muy bien! Déjame dar un sorbito{pause 8}
-"019"	{emote: Shocked}
-"020"	{emote: Star Yell}
-"021"	{emote: Agreement}
-"022"	{emote: Alarmed}
-"023"	{emote: Alarmed}
-"024"	{emote: Alarmed}
-"025"	
-"026"	
-"027"	
-"028"	{emote: Curious}
-"029"	{emote: Curious}
-"030"	{emote: Curious}
-"031"	{emote: Disagreement}
-"032"	
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"		{emote: Alarmed}
-"040"	{emote: Glee}
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
+"016"	{emote: Happiness}¡Ja, ja! ¡Déjame probarlo!
+"017"	{emote: Glare}Veamos{pause 8}.{pause 8}.{pause 8}.{pause 20}
+"018"	¡Muy bien! Déjame dar un sorbito{pause 8}.{pause 8}.{pause 8}.
+"019"	{emote: Shocked}{0007-000b-0000}Esto es...{pause 20}{0007-000b-0000} ¡asombroso!{0007-000e-0000}{pause 40}	{emote: Happiness}¡Este es el sabor que me gusta!{pause 20}	¡Así se hace, {Player nickname (green)}!{Wait for input}¡Me alegro de que lo hayas	clavado! Reconozco que me	has impresionado,{pause 8} {catchphrase}.
+"020"	{emote: Star Yell}{pause 15}¡Ati{0007-000b-0000}zaaa!{pause 20} {0007-000b-0000}¡Esto es perfecto!{pause 20}{emote: Soft Smile}{0007-000e-0000}{Wait for input}{emote: Happiness}¡Es justo lo que me gusta!	¡Quién iba a decir que	esto se te daría tan bien!{Wait for input}{emote: Greetings}¡Tengo clarísimo que pienso	volver!
+"021"	{emote: Agreement}¡Cómo mola! ¡Esto es perfecto!	¡Este café es justo de mi gusto!{0007-000e-0000}{Wait for input}{emote: Daydreaming}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Puedo sentir cómo mi	cuerpo se recupera de la fatiga	tras mi última sesión de ejercicio.	{emote: Sunny}¡Ja, ja! ¡Has hecho un trabajo	excelente!{pause 40} ¡Volveré en otra	ocasión,{pause 8} {catchphrase}!
+"022"	{emote: Alarmed}¡Vaya! ¡Qué bien sabe esto!{Wait for input}Pero{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry} ¡no es perfecto! Está bien,	pero creo que has usado un tipo	de {Blue}café{Color Reset} distinto al que quería.	{emote: Happiness}La próxima vez que venga,	espero que tengas el café	adecuado, {catchphrase}.
+"023"	{emote: Alarmed}¡Vaya! ¡Esto sabe bien!	Bien{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Worry}pero no perfecto.{Wait for input}Creo que la {Blue}cantidad de leche{Color Reset}	no es la que esperaba.{Wait for input}{emote: Happiness}La próxima vez que esté aquí,	espero que me ofrezcas el café	perfecto, {pause 8}{catchphrase}.
+"024"	{emote: Alarmed}¡Vaya! ¡Esto sabe bien!	Pero{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Worry}¡no es perfecto!{Wait for input}Creo que es la {Blue}cantidad de azúcar{Color Reset}	lo que no me convence.{Wait for input}{emote: Happiness}La próxima vez que venga,	¡a ver si me pones el café	perfecto, {pause 8}{catchphrase}!
+"025"
+"026"
+"027"
+"028"	{emote: Curious}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 20} No es lo que me esperaba.{Wait for input}{emote: Happiness}¡Pero el tipo de {Blue}café{pause 20}{Color Reset} es justo	el que quería!{Wait for input}¡Espero tomar una taza de café	impecable la próxima vez que	venga aquí, tronc{o/a}!{pause 8} ¡{capitalized}{catchphrase}!
+"029"	{emote: Curious}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Creo que esto no es	lo que me esperaba.{Wait for input}{emote: Happiness}¡Pero la {Blue}cantidad de leche{Color Reset}	es justa y clavada!{Wait for input}¡Espero poder tomarme una	taza de café impecable la	próxima vez que venga, tronc{o/a}!
+"030"	{emote: Curious}¿Mmm? No es lo que esperaba.{Wait for input}{emote: Happiness}¡Pero la {Blue}cantidad de azúcar{Color Reset}{pause 20}	es justo la que tiene que ser!{Wait for input}¡Espero poder tomarme una taza	de café perfecta la próxima vez	que venga, tronc{o/a}!{pause 8} ¡{capitalized}{catchphrase}!
+"031"	{emote: Disagreement}¡Noooo, no has dado ni una!{pause 40}	{emote: Sadness}¡Esto no es lo que quería!{Wait for input}{emote: Laughter}¡No sé cómo te las has arreglado	para meter la pata hasta el fondo,	pero lo has hecho! ¡Es admirable!{pause 8}{emote: Happiness}{Wait for input}¡A ver si la próxima vez que	venga me puedes dar el sabor	que quiero,{pause 8} {catchphrase}!
+"032"
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"		{emote: Alarmed}{0007-000a-0000}{Text size 150%}¡DELICIOSO!{Text size 100%}{0007-000e-0000}{Wait for input}{emote: Agreement}¡Estoy impresionado! ¡Está todito	perfecto! {pause 20}{emote: Happiness}¡Beber esto ha hecho	que valga la pena venir hasta aquí!	{emote: Sunny}¡Ja, ja! ¡Gracias por un café	tan rico,{pause 8} {catchphrase}!
+"040"	{emote: Glee}¡Vaya! ¡Esto es genial! ¡Es	exactamente lo que quería!{0007-000e-0000}{Wait for input}{emote: Daydreaming}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡Puedo notar como mi	cuerpo se recupera de la carrerita	que me he pegado para llegar aquí!	{emote: Happiness}¡Muchas gracias! ¡Pienso volver	para repetir, {pause 8}{catchphrase}!
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
 "048"	¡Oh! ¡Ponle {Blue}mucha{Color Reset} leche,	hazme el favor!
 "049"	¡Oh! ¡Ponle una {Blue}cantidad decente{Color Reset}	de leche, hazme el favor!
 "050"	¡Oh! ¡Ponle {Blue}un poquito{Color Reset} de leche,	hazme el favor!
@@ -111,9 +111,9 @@
 "054"	¡Oh! ¡Ponle solo {Blue}un{Color Reset} terrón	de azúcar, hazme el favor!
 "055"	¡Oh! ¡Para mí {Blue}sin{Color Reset} azúcar,	hazme el favor!
 == 2 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	
+"001"	{emote: Greetings}Yo {Player nickname (green)} ! Comme d'hab	steuplé !
+"002"	{emote: Alarmed}Hein ?!{pause 40} {capitalized}{Player nickname (green)} ? Tu bosses ici,	aujourd'hui ?{Wait for input}{emote: Happiness}Bon ben{pause 8}.{pause 8}.{pause 8}.{pause 20} dans ce cas, sers-moi ce	que je prends d'habitude !
+"003"
 "004"	Yo ! Un {Blue}Blue Mountain {Color Reset}steuplé !
 "005"	Yo ! Un {Blue}{Blue}moka{Blue} {Color Reset}steuplé !
 "006"	Yo ! Un {Blue}{Blue}Kilimandjaro{Blue} {Color Reset}steuplé !
@@ -122,42 +122,42 @@
 "009"	Un café steuplé !	Avec {Blue}un nuage de lait{Color Reset}, merci !
 "010"	Un café steuplé !	Avec {Blue}une pointe de lait{Color Reset}, merci !
 "011"	Un café steuplé !	Et {Blue}noir{Color Reset}, merci !
-"012"	Un café steuplé !{0000-0004-0000}
-"013"	Un café steuplé !{0000-0004-0000}
-"014"	Un café steuplé !{0000-0004-0000}
-"015"	Un café steuplé !{0000-0004-0000}
-"016"	{emote: Happiness}
-"017"	{emote: Glare}
-"018"	OK ! Place à la dégustation{pause 8}
-"019"	{emote: Shocked}
-"020"	{emote: Star Yell}
-"021"	{emote: Agreement}
-"022"	{emote: Alarmed}
-"023"	{emote: Alarmed}
-"024"	{emote: Alarmed}
-"025"	
-"026"	
-"027"	
-"028"	{emote: Thought}
-"029"	{emote: Thought}
-"030"	{emote: Thought}
-"031"	{emote: Disagreement}
-"032"	
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"		{emote: Alarmed}
-"040"	{emote: Glee}
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
+"012"	Un café steuplé !{Wait for input}Avec {Blue}trois sucres{Color Reset}, merci !
+"013"	Un café steuplé !{Wait for input}Avec {Blue}deux sucres{Color Reset}, merci !
+"014"	Un café steuplé !{Wait for input}Avec {Blue}seulement un sucre{Color Reset}, merci !
+"015"	Un café steuplé !{Wait for input}{Blue}Sans sucre{Color Reset}, merci !
+"016"	{emote: Happiness}Hé hé ! Voyons voir si tu l'as	réussi !
+"017"	{emote: Glare}Voyons voir{pause 8}.{pause 8}.{pause 8}.{pause 20}
+"018"	OK ! Place à la dégustation{pause 8}.{pause 8}.{pause 8}.
+"019"	{emote: Shocked}{0007-000b-0000}C-{pause 20}{0007-000b-0000}C'est parfait !{0007-000e-0000}{pause 40} {emote: Happiness}C'est	EXACTEMENT ce que je voulais !{pause 20}	Chapeau bas, {Player nickname (green)} !{Wait for input}Je ne te savais pas si {doué/douée} pour	servir le café ! Tu m'impressionnes,	{pause 8}{catchphrase} !
+"020"	{emote: Star Yell}{pause 15}Ya{0007-000b-0000}hooooo !{pause 20} {0007-000b-0000}Quel régal !{pause 20}{emote: Soft Smile}{0007-000e-0000}{Wait for input}{emote: Happiness}C'est tout à fait ce que je voulais !	On dirait que tu as fait ça toute ta	vie !{Wait for input}{emote: Greetings}Je repasserai, tu peux compter sur	moi !
+"021"	{emote: Agreement}Super bon ! Je me régale !{0007-000e-0000}{Wait for input}{emote: Daydreaming}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Je sens déjà l'énergie	revenir dans mes petits muscles	tout fatigués{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{emote: Sunny}Hé hé ! Tu t'en es {sorti/sortie} comme un	chef !{pause 40} Prépare-toi à souvent me	revoir dans le coin !{pause 8} {capitalized}{catchphrase} !
+"022"	{emote: Alarmed}Waouh ! Il est super bon !{Wait for input}Mais{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry} il y a un petit truc qui cloche,	j'ai l'impression !{Wait for input}Rien de grave, mais je crois que tu	n'as pas utilisé les bons{Blue} grains de	café{Color Reset}.{Wait for input}{emote: Happiness}T'inquiète, je suis sûr que la	prochaine fois, ton café sera	absolument parfait, {catchphrase} !
+"023"	{emote: Alarmed}Waouh ! Il est super bon !	{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry} Mais pas parfait pour autant...{Wait for input}Je crois que tu as {Blue}mal dosé le lait{Color Reset}.{Wait for input}{emote: Happiness}Mais t'inquiète, je suis sûr que la	prochaine fois, ton café sera	absolument parfait, {catchphrase} !
+"024"	{emote: Alarmed}Waouh ! Il est super bon !{Wait for input}{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry} Mais il y a un petit quelque chose	qui cloche, j'ai l'impression !{Wait for input}Je crois bien que tu t'es {trompé/trompée}	sur {Blue}la quantité de sucre{Color Reset}.{Wait for input}{emote: Happiness}Mais t'inquiète, je suis sûr que la	prochaine fois, ton café sera	absolument parfait, {catchphrase} !
+"025"
+"026"
+"027"
+"028"	{emote: Thought}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} C'est pas tout à fait ce	que j'avais commandé{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{emote: Happiness}Bon, par contre, tu as assuré sur	les {Blue}grains de café {Color Reset}!{Wait for input}La prochaine fois, je compte sur toi	pour réussir un sans-faute, {petit/ma}	{gars/grande} !{pause 8} {capitalized}{catchphrase} !
+"029"	{emote: Thought}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} C'est pas tout à fait ce	que j'attendais{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Happiness}Bon, par contre, tu as assuré sur {Blue}la	quantité de lait {Color Reset}!{Wait for input}La prochaine fois, je compte sur toi	pour réussir un sans-faute, {petit/ma}	{gars/grande} !{pause 8} {capitalized}{catchphrase} !
+"030"	{emote: Thought}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} C'est pas tout à fait ce	que je voulais{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Happiness}Bon, par contre, tu as assuré sur {Blue}la	quantité de sucre {Color Reset}!{Wait for input}La prochaine fois, je compte sur toi	pour réussir un sans-faute, {petit/ma}	{gars/grande} !{pause 8} {capitalized}{catchphrase} !
+"031"	{emote: Disagreement}Ça ne va pas du tout !{pause 40} {emote: Sadness}Il n'y a rien	qui correspond à ce que je voulais !{Wait for input}{emote: Laughter}Je ne sais pas comment tu as fait,	mais tu as réussi à te planter sur	toute la ligne !{pause 8}{emote: Happiness}{Wait for input}La prochaine fois, j'espère que le	résultat ne sera pas aussi	catastrophique, {pause 8}{catchphrase} !
+"032"
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"		{emote: Alarmed}{0007-000a-0000}{Text size 150%}QUEL RÉGAL !{Text size 100%}{0007-000e-0000}{Wait for input}{emote: Agreement}Tu m'impressionnes ! C'est pile-poil	ce dont j'avais envie !{Wait for input}{emote: Happiness}Je suis bien content d'avoir fait le	chemin jusqu'ici pour venir prendre	un café !	{emote: Sunny}Hé hé ! Chapeau bas !{pause 8}	{capitalized}{catchphrase} !
+"040"	{emote: Glee}Waouh ! C'est parfait ! Exactement	ce qu'il me fallait !{0007-000e-0000}{Wait for input}{emote: Daydreaming}Hmmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Je sens déjà l'énergie	et la motivation revenir en moi !{Wait for input}{emote: Happiness}Merci beaucoup ! Je reviendrai te	voir, ça c'est sûr ! {pause 8}{capitalized}{catchphrase} !
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
 "048"	Oh ! Et je le voudrais avec	{Blue}une tonne de lait{Color Reset}, merci !
 "049"	Oh ! Et je le voudrais avec	{Blue}un nuage de lait{Color Reset}, merci !
 "050"	Oh ! Et je le voudrais avec	{Blue}une pointe de lait{Color Reset}, merci !
@@ -167,10 +167,10 @@
 "054"	Oh ! Et avec {Blue}un seul sucre{Color Reset}, merci !
 "055"	Oh ! Et {Blue}sans sucre{Color Reset}, merci !
 == 3 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	
-"004"	Posso ordinare?{0000-0004-0000}
+"001"	{emote: Greetings}{capitalized}{Player nickname (green)}! Il solito, grazie!
+"002"	{emote: Alarmed}Eh?!{pause 40} {capitalized}{Player nickname (green)}?	Oggi sei di turno?{Wait for input}{emote: Happiness}Molto bene{pause 8}.{pause 8}.{pause 8}.{pause 20} il solito, grazie!
+"003"
+"004"	Posso ordinare?{Wait for input}Vorrei un {Blue}caffè{Color Reset} {Blue}ristretto{Color Reset}, grazie!
 "005"	Vorrei ordinare...	Un {Blue}espresso{Color Reset}, grazie!
 "006"	Potrei avere un {Blue}decaffeinato{Color Reset}?	Grazie!
 "007"	Avrei voglia di un {Blue}caffè lungo{Color Reset}...	Potrei averne uno? Grazie!
@@ -182,38 +182,38 @@
 "013"	Ho proprio bisogno di un caffè, ora!	Con {Blue}due cucchiaini{Color Reset} di zucchero.	Grazie.
 "014"	Mi prepari un caffè?	Mettici anche {Blue}un cucchiaino	{Color Reset}di zucchero, grazie!
 "015"	Ti va di prepararmi un caffè?	{Blue}Niente zucchero{Color Reset}, però!	Mi raccomando!
-"016"	{emote: Happiness}
-"017"	{emote: Glare}
-"018"	Molto bene! Chissà com'è{pause 8}
-"019"	{emote: Shocked}
-"020"	{emote: Star Yell}
-"021"	{emote: Agreement}
-"022"	{emote: Alarmed}
-"023"	{emote: Alarmed}
-"024"	{emote: Alarmed}
-"025"	
-"026"	
-"027"	
-"028"	{emote: Curious}
-"029"	{emote: Curious}
-"030"	{emote: Curious}
-"031"	{emote: Disagreement}
-"032"	
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"		{emote: Alarmed}
-"040"	{emote: Glee}
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
+"016"	{emote: Happiness}Eh eh! Vediamo un po' com'è!
+"017"	{emote: Glare}L'odore è buono{pause 8}.{pause 8}.{pause 8}.{pause 20}	Vediamo se anche il gusto lo è!
+"018"	Molto bene! Chissà com'è{pause 8}.{pause 8}.{pause 8}.	Ora lo provo!
+"019"	{emote: Shocked}{0007-000b-0000}M-{pause 20}{0007-000b-0000}ma è... buonissimo!{0007-000e-0000}{pause 40}	{emote: Happiness}È esattamente come lo volevo!{pause 20}	Brav{o/a}, {Player nickname (green)}!{Wait for input}Sai proprio come trattare un cliente	come me! Che bello,{pause 8} {catchphrase}.
+"020"	{emote: Star Yell}{pause 15}Uaaa{0007-000b-0000}uuu!{pause 20} {0007-000b-0000}Che supercaffè!{pause 20}{emote: Soft Smile}{0007-000e-0000}{Wait for input}{emote: Happiness}Proprio come lo volevo!	Sei {un barista/una barista} provett{o/a}!{Wait for input}{emote: Greetings}Mi rivedrai senza dubbio	da queste parti!
+"021"	{emote: Agreement}Che bello! Questo caffè è perfetto!	Ha proprio il gusto che cercavo!{0007-000e-0000}{Wait for input}{emote: Daydreaming}Mmmh{pause 8}.{pause 8}.{pause 8}.{pause 20} Sento che mi stanno	ritornando le forze, dopo la fatica	dei miei ultimi allenamenti.	{emote: Sunny}Eh eh! Hai fatto proprio un buon	lavoro!{pause 40} Tornerò qui sicuramente,{pause 8}	{catchphrase}.
+"022"	{emote: Alarmed}Oh! Questo caffè è... accettabile!{Wait for input}{emote: Worry}Va abbastanza bene, ma potrebbe	essere anche meglio! Forse non è	il {Blue}tipo di caffè{Color Reset} che avevo ordinato.	{emote: Happiness}La prossima volta, spero	di avere esattamente quello	che chiedo, {catchphrase}.
+"023"	{emote: Alarmed}Uau! Che buono!	{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry} Però si può fare di meglio.{Wait for input}Secondo me hai sbagliato	la {Blue}quantità di latte{Color Reset}.{Wait for input}{emote: Happiness}La prossima volta cerca	di prepararmi il caffè	dei miei sogni, {pause 8}{catchphrase}.
+"024"	{emote: Alarmed}Che buon sapore!	Ma{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry} c'è qualcosa che non va!{Wait for input}Credo che sia un problema	di {Blue}quantità di zucchero{Color Reset}.{Wait for input}{emote: Happiness}La prossima volta cerca di stare	attent{o/a} alla mia ordinazione!	{pause 8}{capitalized}{catchphrase}!
+"025"
+"026"
+"027"
+"028"	{emote: Curious}Mmmh{pause 8}.{pause 8}.{pause 8}.{pause 20}	Mi aspettavo qualcosa	di completamente diverso.{Wait for input}{emote: Happiness}Il {Blue}tipo di caffè {Color Reset}era proprio	quello che avevo chiesto, però!{Wait for input}Spero di poter avere un caffè	come dico io, la prossima	volta, {catchphrase}!
+"029"	{emote: Curious}Mmmh{pause 8}.{pause 8}.{pause 8}.{pause 20} Non è esattamente	quello che volevo.{Wait for input}{emote: Happiness}Ma almeno la {Blue}quantità di latte	{Color Reset}era quella giusta!{Wait for input}La prossima volta, spero che	vada meglio!{pause 8} {capitalized}{catchphrase}!
+"030"	{emote: Curious}Mmmh? Mi aspettavo	qualcosa di diverso.{Wait for input}{emote: Happiness}La {Blue}quantità di zucchero{Color Reset}{pause 20}	era quella giusta, però!{Wait for input}Puoi fare di meglio!{pause 8}	Ci vediamo la prossima volta,	{catchphrase}!
+"031"	{emote: Disagreement}Noooo, non ci siamo proprio!{pause 40}	{emote: Sadness}Non è quello che avevo ordinato!{Wait for input}{emote: Laughter}Non so come sia potuto succedere,	ma è tutto sbagliato!{pause 8}{emote: Happiness}{Wait for input}La prossima volta, spero di trovare	il gusto che cerco!{pause 8} {capitalized}{catchphrase}!
+"032"
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"		{emote: Alarmed}{0007-000a-0000}{Text size 150%}CHE MERAVIGLIA!{Text size 100%}{0007-000e-0000}{Wait for input}{emote: Agreement}Sono soddisfatto! Mi hai dato	esattamente quello che ti avevo	chiesto! {pause 20}{emote: Happiness}Ho fatto bene a venire qui!	{emote: Sunny}Eh eh! Grazie! Il tuo caffè	era buonissimo!{pause 8} {capitalized}{catchphrase}!
+"040"	{emote: Glee}Uau! Quasi non ci credo! È proprio	quello che volevo!{0007-000e-0000}{Wait for input}{emote: Daydreaming}Mmmh{pause 8}.{pause 8}.{pause 8}.{pause 20} Comincio a sentirmi	di nuovo pieno di energie, dopo	la corsa fatta per venire qui!	{emote: Happiness}Grazie mille! Tornerò sicuramente!	Contaci! {pause 8}{capitalized}{catchphrase}!
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
 "048"	Oh! Per favore, mettici {Blue}tanto {Color Reset}latte!
 "049"	Oh! Ricordati di aggiungerci {Blue}un po'	{Color Reset}di latte, OK?
 "050"	Oh! Mettici anche {Blue}un goccio {Color Reset}di latte!	Grazie!
@@ -223,58 +223,58 @@
 "054"	Oh! {Blue}Un cucchiaino {Color Reset}di zucchero	va benissimo, grazie!
 "055"	Oh! {Blue}Niente zucchero{Color Reset}, per favore!
 == 4 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	
-"004"	Ich hätt gern einen Kaffee!{pause 40}
-"005"	Ich hätt gern einen Kaffee!{pause 40}
-"006"	Ich hätt gern einen Kaffee!{pause 40}
-"007"	Ich hätt gern einen Kaffee!{pause 40}
-"008"	Ich hätt gern einen Kaffee!{pause 40}
-"009"	Ich hätt gern einen Kaffee!{pause 40}
-"010"	Ich hätt gern einen Kaffee!{pause 40}
-"011"	Ich hätt gern einen Kaffee!{pause 40}
-"012"	Ich hätt gern einen Kaffee!{pause 40}
-"013"	Ich hätt gern einen Kaffee!{pause 40}
+"001"	{emote: Greetings}{capitalized}{Player nickname (green)}!{pause 40}	Das Gleiche wie immer, {pause 8}bitte!
+"002"	{emote: Alarmed}Hä?!{pause 40} {capitalized}{Player nickname (green)}? Arbeitest du hier	heute oder was?{Wait for input}{emote: Happiness}Cool!{pause 40} Dann hätte ich gerne...{pause 20}	das Gleiche wie immer, bitte!
+"003"
+"004"	Ich hätt gern einen Kaffee!{pause 40}	Die {Blue}Schonröstung{Color Reset}, bitte!
+"005"	Ich hätt gern einen Kaffee!{pause 40}	Den {Blue}Mokka{Color Reset}, bitte!
+"006"	Ich hätt gern einen Kaffee!{pause 40}	Die {Blue}Doppelröstung{Color Reset}, bitte!
+"007"	Ich hätt gern einen Kaffee!{pause 40}	Die {Blue}Hausmischung{Color Reset}, bitte!
+"008"	Ich hätt gern einen Kaffee!{pause 40}	Und bitte mit {Blue}viel {Color Reset}Milch!
+"009"	Ich hätt gern einen Kaffee!{pause 40}	Und bitte mit {Blue}normal viel {Color Reset}Milch!
+"010"	Ich hätt gern einen Kaffee!{pause 40}	Bitte nur mit {Blue}'nem kleinen	Schuss {Color Reset}Milch!
+"011"	Ich hätt gern einen Kaffee!{pause 40}	Bitte {Blue}ohne {Color Reset}Milch!
+"012"	Ich hätt gern einen Kaffee!{pause 40}	Mit {Blue}drei Löffeln {Color Reset}Zucker, bitte!
+"013"	Ich hätt gern einen Kaffee!{pause 40}	Mit {Blue}zwei Löffeln {Color Reset}Zucker, bitte!
 "014"	Ich hätt gern einen Kaffee!	Mit {Blue}einem Löffel {Color Reset}Zucker, bitte!
-"015"	Ich hätt gern einen Kaffee!{pause 40}
-"016"	{emote: Happiness}
-"017"	{emote: Glare}
-"018"	Klasse!{pause 20}
-"019"	{emote: Shocked}
-"020"	{emote: Star Yell}
-"021"	{emote: Agreement}
-"022"	{emote: Alarmed}
-"023"	{emote: Alarmed}
-"024"	{emote: Alarmed}
-"025"	
-"026"	
-"027"	
-"028"	{emote: Curious}
-"029"	{emote: Curious}
-"030"	{emote: Curious}
-"031"	{emote: Disagreement}
-"032"	
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"		{emote: Alarmed}
-"040"	{emote: Glee}
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
-"048"	Oh! {pause 20}
-"049"	Oh! {pause 20}
-"050"	Oh! {pause 20}
-"051"	Oh! {pause 20}
-"052"	Oh! {pause 20}
-"053"	Oh! {pause 20}
-"054"	Oh! {pause 20}
-"055"	Oh! {pause 20}
+"015"	Ich hätt gern einen Kaffee!{pause 40}	{Blue}Ohne {Color Reset}Zucker, bitte!
+"016"	{emote: Happiness}Klasse!{pause 20} Mal sehn, {pause 8}wie er schmeckt!
+"017"	{emote: Glare}Mal sehn, wie der Kaffee schmeckt{pause 8}.{pause 8}.{pause 8}.
+"018"	Klasse!{pause 20} Bin schon ganz gespannt,	wie dein Kaffee schmeckt{pause 8}.{pause 8}.{pause 8}.
+"019"	{emote: Shocked}{0007-000b-0000}D-{pause 20}{0007-000b-0000}der ist Weltklasse!{0007-000e-0000}{pause 40}	{emote: Happiness}Genau so mag ich den!{pause 20}	Gute Arbeit, {Player nickname (green)}!	Hut ab, {pause 8}dass du den so hinkriegst,	{pause 8}{catchphrase}!
+"020"	{emote: Star Yell}{pause 20}Heiliges {0007-000b-0000}Hüpfseil!{pause 20} {0007-000b-0000}Der ist perfekt!{pause 20}{emote: Soft Smile}{0007-000e-0000}{Wait for input}{emote: Happiness}Genau so mag ich den!{pause 20}	Du bist ein echter Kaffee-Champ!{Wait for input}{emote: Greetings}Du hast definitiv 'nen Stammgast,{pause 8}	{Sportsfreund/Sportsfreundin}!
+"021"	{emote: Agreement}Wow! {pause 20}Der ist perfekt!{pause 40}	Genau so mag ich meinen Kaffee!{0007-000e-0000}{Wait for input}{emote: Daydreaming}Hmm{pause 8}.{pause 8}.{pause 8}.{pause 20}	Ich spür schon, wie sich mein Körper	vom letzten Training erholt.	{emote: Sunny}Haha!{pause 20} Das hast du toll gemacht!{pause 40}	Ich komm bestimmt wieder!	{pause 8}{capitalized}{catchphrase}.
+"022"	{emote: Alarmed}Heiliger Flatterball!{pause 40} Der ist gut!{Wait for input}.{pause 8}.{pause 8}.{pause 20}{emote: Worry}Aber er könnte besser sein!{pause 20}	Er ist okay, {pause 20}aber du hast 'ne andere	{Blue}Sorte{Color Reset} benutzt als die, die ich mag.	{emote: Happiness}Beim nächsten Mal machst du mir	bestimmt den perfekten Kaffee,{pause 8}	oder, {Sportsfreund/Sportsfreundin}?
+"023"	{emote: Alarmed}Wow! {pause 20}Der schmeckt echt gut!	{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry}Gut, {pause 20}aber nicht perfekt.{Wait for input}Ich glaub, {pause 8}du hast dich mit der	Menge an {Blue}Milch {Color Reset}ein bisschen vertan.{Wait for input}{emote: Happiness}Beim nächsten Mal machst du mir	bestimmt den perfekten Kaffee,	{pause 8}{catchphrase}!
+"024"	{emote: Alarmed}Heiliges Hüpfseil! {pause 40}Der schmeckt gut!{pause 20}	Aber{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Worry} irgendwas stimmt nicht!{Wait for input}Ich glaub, die Menge an{Blue} Zucker{Color Reset}	stimmt nicht so ganz.{Wait for input}{emote: Happiness}Beim nächsten Mal machst du mir	bestimmt den perfekten Kaffee,	{pause 8}{catchphrase}!
+"025"
+"026"
+"027"
+"028"	{emote: Curious}Hmm{pause 8}.{pause 8}.{pause 8}.{pause 20}	So wollte ich ihn eigentlich nicht.{Wait for input}{emote: Happiness}Die {Blue}Sorte{Color Reset} hast du aber immerhin	schon mal gut ausgewählt.{Wait for input}Und beim nächsten Mal krieg ich	dann den perfekten Kaffee,{pause 8} oder,{pause 8}	{Sportsfreund/Sportsfreundin}?{pause 20} {capitalized}{catchphrase}!
+"029"	{emote: Curious}Hmm{pause 8}.{pause 8}.{pause 8}.{pause 20}	So wollte ich ihn eigentlich nicht.{Wait for input}{emote: Happiness}Die {Blue}Milch{Color Reset} ist aber genau richtig!{Wait for input}Und beim nächsten Mal krieg ich	dann den perfekten Kaffee,{pause 8} oder,{pause 8}	{Sportsfreund/Sportsfreundin}?
+"030"	{emote: Curious}Hmm?{pause 40}	So wollte ich ihn eigentlich nicht.{Wait for input}{emote: Happiness}Der {Blue}Zucker{Color Reset}{pause 20} ist aber genau richtig!{Wait for input}Und beim nächsten Mal krieg ich	dann den perfekten Kaffee,{pause 8} oder,{pause 8}	{Sportsfreund/Sportsfreundin}!{pause 8} {capitalized}{catchphrase}!
+"031"	{emote: Disagreement}Böses Foul!{pause 40} Dieser Kaffee bekommt	die Rote Karte!{pause 40} {emote: Sadness}Igitt!{Wait for input}{emote: Laughter}Haha! {pause 20}Wow!{pause 40}	Hier ist echt alles schiefgegangen,	was schiefgehen konnte!	{emote: Happiness}Ich hoffe, beim nächsten Mal kriegst	du den Kaffee so hin, wie ich ihn	mag,{pause 8} {catchphrase}!
+"032"
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"		{emote: Alarmed}{0007-000a-0000}            {Text size 150%}KÖSTLICH!{Text size 100%}{0007-000e-0000}{Wait for input}{emote: Agreement}Ich bin hin und weg!{pause 20} Hier hat alles	gepasst! {pause 20}{emote: Happiness}Der war echt den ganzen	weiten Weg wert!	{emote: Sunny}Haha! {pause 40}Danke für den	Weltklasse-Kaffee!{pause 8} {capitalized}{catchphrase}!
+"040"	{emote: Glee}Wow! {pause 40}Weltklasse! {pause 20}	Genau so mag ich meinen Kaffee!{0007-000e-0000}{Wait for input}{emote: Daydreaming}Hmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Ich spür schon, wie sich	mein Körper vom letzten Lauf-	training erholt.	{emote: Happiness}Vielen Dank! {pause 20}Ich werd definitiv	wiederkommen! {pause 8}{capitalized}{catchphrase}!
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
+"048"	Oh! {pause 20}Mit {Blue}viel {Color Reset}Milch, bitte!
+"049"	Oh! {pause 20}Mit {Blue}normal viel {Color Reset}Milch, bitte!
+"050"	Oh! {pause 20}Nur mit {Blue}'nem kleinen Schuss	{Color Reset}Milch, bitte!
+"051"	Oh! {pause 20}{Blue}Ohne {Color Reset}Milch, bitte!
+"052"	Oh! {pause 20}Mit {Blue}drei Löffeln {Color Reset}Zucker, bitte!
+"053"	Oh! {pause 20}Mit {Blue}zwei Löffeln {Color Reset}Zucker, bitte!
+"054"	Oh! {pause 20}Nur {Blue}einen Löffel {Color Reset}Zucker, bitte!
+"055"	Oh! {pause 20}{Blue}Ohne {Color Reset}Zucker, bitte!

@@ -1,25 +1,25 @@
 == 0 ==
-"001"	
-"002"	{000a-001f-001a-01-07-00-07-00-05-00-05-00-05-00-05-00-05-00-05-00-05-00-09-00-09-00-0c-00-ffffffcd}
-"003"	{000a-001f-001a-01-07-00-07-00-06-00-06-00-06-00-06-00-06-00-06-00-06-00-0a-00-0a-00-0d-00-ffffffcd}
-"004"	
-"005"	{0009-0000-0004-15-00-16-00}
-"006"	{0009-0000-0004-17-00-18-00}
-"007"	{0009-0002-0008-0e-00-0f-00-13-00-14-00}
-"008"	
-"009"	{0009-0001-0006-10-00-15-00-16-00}
-"010"	{0009-0001-0006-10-00-17-00-18-00}
-"011"	
-"012"	{0009-0002-0008-10-00-11-00-15-00-16-00}
-"013"	{0009-0002-0008-10-00-11-00-17-00-18-00}
-"014"	{emote: Happiness}
-"015"	{emote: Worry}
-"016"	{ruby (charSpan 1): みぎ}右を{ruby (charSpan 1): み}見てもムシ！{pause 40}
-"017"	{emote: Joy}
-"018"	
-"019"	{emote: Joy}
-"020"	ムシさんの{ruby (charSpan 1): なか}中には、{pause 20}
-"021"	{emote: Anger}
-"022"	{emote: Happiness}
-"023"	{emote: Glee}
-"024"	{emote: Distress}
+"001"
+"002"	{000a-001f-001a-0701-0700-0500-0500-0500-0500-0500-0500-0500-0900-0900-0c00-cd00}
+"003"	{000a-001f-001a-0701-0700-0600-0600-0600-0600-0600-0600-0600-0a00-0a00-0d00-cd00}
+"004"
+"005"	{0009-0000-0004-0015-0016}
+"006"	{0009-0000-0004-0017-0018}
+"007"	{0009-0002-0008-000e-000f-0013-0014}
+"008"
+"009"	{0009-0001-0006-0010-0015-0016}
+"010"	{0009-0001-0006-0010-0017-0018}
+"011"
+"012"	{0009-0002-0008-0010-0011-0015-0016}
+"013"	{0009-0002-0008-0010-0011-0017-0018}
+"014"	{emote: Happiness}このばしょって{pause 8}　あったかくて	きもちいいよねぇ～{pause 40}	おひるねするのに　ピッタリなんだぁ
+"015"	{emote: Worry}ここは　ムシさんのための	おへやなんだけど、{pause 20}	まだまだ　これからってかんじだねぇ{Wait for input}{emote: Happiness}ボク{pause 20}　こうやって	{ruby (charSpan 1): たの}楽しみにまってるんだぁ、{pause 8}{catchphrase}
+"016"	{ruby (charSpan 1): みぎ}右を{ruby (charSpan 1): み}見てもムシ！{pause 40}	{ruby (charSpan 1): ひだり}左を{ruby (charSpan 1): み}見てもムシ！{Wait for input}{emote: Distress}{ruby (charSpan 1): まえ}前を{ruby (charSpan 1): み}見ても{pause 20}　{ruby (charSpan 1): うし}後ろを{ruby (charSpan 1): み}見ても、{pause 20}	ムシ！{pause 20}　ムシ！{pause 20}　ムシ～！{Wait for input}{emote: Joy}ここは　ムシさんの	パラダイスだよぉ、{pause 8}{catchphrase}
+"017"	{emote: Joy}ぜんぶのムシさんが	そろってるなんて、{pause 20}	こんなけしき　ユメみたいだよねぇ！{Wait for input}{emote: Reset}ボク{pause 20}　ほっぺた　つねってみたけど、{pause 20}	{emote: Mistaken}すっごく　いたかったぁ～{Wait for input}	{emote: Glee}やっぱり{pause 20}　ユメじゃないみたいだねぇ！
+"018"
+"019"	{emote: Joy}ここって　{ruby (charSpan 3): いちねんじゅう}一年中ポカポカしてて、{pause 20}	おひるねするのに　ピッタリなんだぁ～
+"020"	ムシさんの{ruby (charSpan 1): なか}中には、{pause 20}	{ruby (charSpan 1): た}食べられるのも　いるんだって～{Wait for input}{emote: Thought}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	どんな{ruby (charSpan 1): あじ}味　なんだろぉ～？
+"021"	{emote: Anger}ムシさんを　じぃ～って　{ruby (charSpan 1): み}見てると、{pause 20}	たま～に　{ruby (charSpan 1): め}目が{ruby (charSpan 1): あ}合った	{ruby (charSpan 1): き}気がするんだよねぇ～{Wait for input}{emote: Happiness}ムシさんたちは　ボクのこと、	どんな{ruby (charSpan 1): ふう}風に　{ruby (charSpan 1): み}見えてるのかなぁ？
+"022"	{emote: Happiness}{ruby (charSpan 1): いろ}色んな　ムシさんたちに{pause 8}	いつでも　{ruby (charSpan 1): あ}会えるから、{Wait for input}ここは　ボクの{pause 20}　お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りの	ばしょなんだぁ、{pause 8}{catchphrase}
+"023"	{emote: Glee}ここって　ポカポカしてて	きもちいいよねぇ～{Wait for input}{Town name (pink)}{ruby (charSpan 1): むら}村の	オススメ　スポットだよぉ、{pause 8}{catchphrase}
+"024"	{emote: Distress}うぅ～{pause 20}	あのムシさん　ほしいなぁ～{Wait for input}{emote: Worry}けど、ここでとったら	ドロボーさんだもんねぇ{pause 40}	{ruby (charSpan 1): み}見るだけにしなくちゃ、{pause 8}{catchphrase}

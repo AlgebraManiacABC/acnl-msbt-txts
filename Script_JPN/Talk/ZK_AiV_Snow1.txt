@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Soft Smile}
-"003"	{emote: Soft Smile}
-"004"	{emote: Glare}
-"005"	{emote: Happiness}
-"006"	{emote: Glare}
-"007"	{emote: Disbelief}
-"008"	{emote: Alarmed}
+"001"	{emote: Greetings}{Greeting begin}やぁ！　{pause 8}{Player name}{0005-000d-0000}！{Greeting end}{pause 16}	{Town name (pink)}{ruby (charSpan 1): むら}村に	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくれたんだね？　{pause 8}{catchphrase}？
+"002"	{emote: Soft Smile}{Greeting begin}おや、{pause 8}{Player name}{0005-000d-0000}！{Greeting end}{pause 12}	{ruby (charSpan 1): さむ}寒い{ruby (charSpan 1): なか}中、{pause 8}{ruby (charSpan 1): あさ}朝から	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくれたんだね？　{pause 8}{catchphrase}？
+"003"	{emote: Soft Smile}{Greeting begin}やぁ、{pause 8}{Player name}{0005-000d-0000}！{Greeting end}{pause 32}	{emote: Glare}{ruby (charSpan 1): ゆき}雪{ruby (charSpan 1): ふ}降る　{Town name (pink)}{ruby (charSpan 1): むら}村へ　ようこそ！
+"004"	{emote: Glare}ようこそ、{pause 8}{Town name (pink)}{ruby (charSpan 1): むら}村へ！{pause 32}	{emote: Fearful}それにしても　{ruby (charSpan 1): さむ}寒いよねぇ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{catchphrase}！
+"005"	{emote: Happiness}{Greeting begin}やぁ、{pause 8}{Player name}{0005-000d-0000}！{Greeting end}{pause 16}	こっちに{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てたんだ、{pause 8}{catchphrase}！{pause 32}	{emote: Fearful}{ruby (charSpan 1): さむ}寒いから　カゼひかないようにね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"006"	{emote: Glare}{Town name (pink)}{ruby (charSpan 1): むら}村に　ようこそ！{pause 32}	{emote: Worry}それにしても、{pause 8}{ruby (charSpan 1): ゆき}雪やまないねぇ～、	{pause 8}{catchphrase}
+"007"	{emote: Disbelief}わっ！　{pause 8}{Player name}{0005-000d-0000}か？{pause 32}	{emote: Reset}{Town name (pink)}{ruby (charSpan 1): むら}村で	ソーナンしないようにね？　{pause 8}{catchphrase}？
+"008"	{emote: Alarmed}おっと！　{pause 16}{emote: Sheepishness}{ruby (charSpan 1): だれ}誰かと{ruby (charSpan 1): おも}思ったら	{Player name}{0005-000d-0000}かぁ～{Wait for input}{emote: Worry}こんな{ruby (charSpan 2): じかん}時間に　ウロウロしてたら{pause 8}	カゼひいちゃうよ？　{pause 8}{catchphrase}？

@@ -1,41 +1,41 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	はっ、{pause 20}
-"004"	えっと{pause 20}
-"005"	{emote: Alarmed}
-"006"	あのぉ、{pause 20}
-"007"	こっ、{pause 20}
-"008"	どっ、{pause 20}
-"009"	こっ、{pause 20}
-"010"	あっ、{pause 8}
-"011"	わっ、{pause 20}
-"012"	{emote: Worry}
-"013"	はっ、{pause 20}
-"014"	そのぉ{pause 8}
-"015"	あっ、{pause 8}
-"016"	あっ、{pause 8}
-"017"	あっ、{pause 8}
-"018"	わっ、{pause 20}
-"019"	{emote: Alarmed}
-"020"	
-"021"	えーっと、{pause 20}
-"022"	あっ、{pause 20}
-"023"	えーっと{pause 20}
-"024"	あっ、{pause 20}
-"025"	は、{pause 20}
-"026"	{emote: Distress}
-"027"	{emote: Alarmed}
-"028"	
-"029"	はっ、{pause 20}
-"031"	あのっ、{pause 20}
-"032"	あのぉ、{pause 20}
-"033"	えーっと、{pause 20}
-"034"	えーっと、{pause 20}
-"035"	あのっ、{pause 20}
-"036"	そういえば{pause 8}
-"037"	えーっと{pause 8}
-"038"	あっ、{pause 20}
-"039"	えーっと、{pause 20}
-"040"	あのぉ、{pause 20}
-"041"	
+"001"	{emote: Alarmed}{0007-000b-0000}あっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Player name}{ruby (charSpan 2): そんちょう}村長でしょうか？{Wait for input}{emote: Distress}す、{pause 20}すいません{pause 40}	{ruby (charSpan 1): かお}顔を{ruby (charSpan 1): し}知らなくって{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}えっと、{pause 20}あのぉ{pause 40}	{ruby (charSpan 2): こんご}今後とも　よろしく　お{ruby (charSpan 1): ねが}願いします{pause 8}・{pause 8}・{pause 8}・
+"002"	{emote: Alarmed}{0007-000b-0000}あっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Player name}さんでしょうか？{Wait for input}{emote: Distress}す、{pause 20}すいません{pause 40}	{ruby (charSpan 1): かお}顔を{ruby (charSpan 1): し}知らなくって{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}えっと、{pause 20}あのぉ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): こんご}今後とも{pause 8}　よろしく　お{ruby (charSpan 1): ねが}願いします
+"003"	はっ、{pause 20}{emote: Alarmed}{0007-000b-0000}はいぃっ！{pause 60}	{emote: Reset}ここは{pause 8}　その、{pause 20}	{Town name (pink)}{ruby (charSpan 1): むら}村の{ruby (charSpan 2): こうばん}交番です{pause 8}・{pause 8}・{pause 8}・
+"004"	えっと{pause 20}　そのぉ{pause 8}・{pause 8}・{pause 8}・{pause 40}	ゆっくり　していってください
+"005"	{emote: Alarmed}{0007-000b-0000}あっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	おはよう　ございます{pause 40}	{ruby (charSpan 1): お}起きるの{pause 20}　{ruby (charSpan 1): はや}早いんですね
+"006"	あのぉ、{pause 20}え～っと{pause 40}	おはよう　ございます{pause 8}・{pause 8}・{pause 8}・
+"007"	こっ、{pause 20}こんにちは{pause 8}・{pause 8}・{pause 8}・
+"008"	どっ、{pause 20}どうも{pause 8}・{pause 8}・{pause 8}・
+"009"	こっ、{pause 20}こんばんは{pause 8}・{pause 8}・{pause 8}・
+"010"	あっ、{pause 8}あのぉ{pause 40}	{ruby (charSpan 2): よるおそ}夜遅くまで{pause 20}　ごくろうさまです{pause 8}・{pause 8}・{pause 8}・
+"011"	わっ、{pause 20}わたしに{pause 20}	{emote: Curious}{ruby (charSpan 1): なに}何か　ご{ruby (charSpan 1): よう}用でしょうか？{000f-0005-0004-0000-0028}	{ruby (charSpan 1): か}変わったことは？	なんでもない
+"012"	{emote: Worry}そっ、{pause 20}そうですか{pause 40}	すいませんでした{pause 8}・{pause 8}・{pause 8}・
+"013"	はっ、{pause 20}{emote: Alarmed}{0007-000b-0000}はいぃっ！{pause 60}	{emote: Reset}えっと{pause 20}　そのぉ{pause 8}・{pause 8}・{pause 8}・{Wait for input}とくに　{ruby (charSpan 1): なに}何も{pause 20}	{ruby (charSpan 1): き}気がつきませんでした{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}あっ、{pause 20}ごめんなさい！{pause 20}	すいません！{Wait for input}	{emote: Worry}{Text size 75%}いご、{pause 20}きをつけます{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"014"	そのぉ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): だれ}誰か　お{ruby (charSpan 2): きゃくさま}客様が	お{ruby (charSpan 1): み}見えになるかも　{ruby (charSpan 1): し}知れないです{Wait for input}{emote: Alarmed}{0007-000b-0000}あっ、{pause 20}ごめんなさい！{pause 40}	{emote: Worry}{ruby (charSpan 2): かいさつ}改札が　{ruby (charSpan 1): あ}開いているので、{pause 20}	{ruby (charSpan 1): だれ}誰か{ruby (charSpan 1): く}来るかも{pause 20}　ということです{pause 20}　{Text size 75%}はい{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"015"	あっ、{pause 8}あのぉ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): えき}駅から　{ruby (charSpan 2): れんらく}連絡がありまして、{Wait for input}ほかの{ruby (charSpan 1): むら}村から{pause 20}	お{ruby (charSpan 2): きゃくさま}客様が　お{ruby (charSpan 1): み}見えになっていると、{pause 20}	{ruby (charSpan 1): い}言っていたような　{ruby (charSpan 1): き}気がします{pause 40}　{Text size 75%}たぶん{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"016"	あっ、{pause 8}あのぉ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): えき}駅から　{ruby (charSpan 2): れんらく}連絡がありまして、{Wait for input}ほかの{ruby (charSpan 1): むら}村から{pause 20}　{ruby (charSpan 2): ふたり}二人のお{ruby (charSpan 2): きゃくさま}客様が	お{ruby (charSpan 1): み}見えになっていると、{pause 20}	{ruby (charSpan 1): い}言っていたような　{ruby (charSpan 1): き}気がします{pause 40}　{Text size 75%}たぶん{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"017"	あっ、{pause 8}あのぉ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): えき}駅から　{ruby (charSpan 2): れんらく}連絡がありまして、{Wait for input}ほかの{ruby (charSpan 1): むら}村から{pause 20}　{ruby (charSpan 2): さんにん}三人のお{ruby (charSpan 2): きゃくさま}客様が	お{ruby (charSpan 1): み}見えになっていると、{pause 20}	{ruby (charSpan 1): い}言っていたような　{ruby (charSpan 1): き}気がします{pause 40}　{Text size 75%}たぶん{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"018"	わっ、{pause 20}わたしに{pause 20}	{emote: Curious}{ruby (charSpan 1): なに}何か　ご{ruby (charSpan 1): よう}用でしょうか？{000f-0006-0006-0000-0000-0028}	{ruby (charSpan 1): お}落とし{ruby (charSpan 1): もの}物が・・・	{ruby (charSpan 1): か}変わったことは？	なんでもない
+"019"	{emote: Alarmed}あっ、{pause 20}{ruby (charSpan 1): お}落とし{ruby (charSpan 1): もの}物ですか{pause 40}	{emote: Reset}あのっ、{pause 20}えーっと{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}{ruby (charSpan 1): だれ}誰のでしょうか？{Wait for input}{emote: Distress}あっ、{pause 20}ごめんなさい！{pause 40}	ついつい　{ruby (charSpan 1): き}聞いてしまいました{Wait for input}{emote: Reset}あのぉ{pause 8}・{pause 8}・{pause 8}・{pause 20}	もし　よろしければ{pause 20}	{ruby (charSpan 1): お}落とし{ruby (charSpan 1): ぬし}主を　{ruby (charSpan 1): さが}探していただけませんか？{Wait for input}わたしは　{ruby (charSpan 2): こうばん}交番に	いなくては　ならないので、{pause 20}	お{ruby (charSpan 1): ねが}願い{Text size 100%}します{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"020"
+"021"	えーっと、{pause 20}ここにあるのは{pause 20}	{Town name (pink)}{ruby (charSpan 1): むら}村で{ruby (charSpan 1): み}見つかった	{ruby (charSpan 1): お}落とし{ruby (charSpan 1): もの}物です{Wait for input}{emote: Worry}ほかの{ruby (charSpan 1): むら}村の{ruby (charSpan 1): かた}方には{pause 20}	あまり　{ruby (charSpan 2): かんけい}関係のないものかと{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}あっ、{pause 20}ごめんなさい！{pause 20}	すいません！{Wait for input}	{emote: Worry}{Text size 75%}いご、{pause 20}きをつけます{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"022"	あっ、{pause 20}あのっ{pause 40}	ここにあるのは、	{ruby (charSpan 1): むら}村で{ruby (charSpan 1): み}見つかった　{ruby (charSpan 1): お}落とし{ruby (charSpan 1): もの}物です{Wait for input}{ruby (charSpan 1): も}持ち{ruby (charSpan 1): ぬし}主が　{ruby (charSpan 1): あらわ}現れませんので、{pause 20}	お{ruby (charSpan 1): も}持ち{ruby (charSpan 1): かえ}帰り　いただいて	{ruby (charSpan 1): かま}構わないと　{ruby (charSpan 1): おも}思います{pause 8}・{pause 8}・{pause 8}・{pause 20}　{Text size 75%}たぶん{Text size 100%}
+"023"	えーっと{pause 20}　それはたぶん、{pause 20}	{0011-0003-0002-0000}	だったと{ruby (charSpan 1): おも}思います{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Curious}{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取って　いただけますか？{confirmation-02}{000f-0005-0004-0015-0028}	{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取る	やめとく
+"024"	あっ、{pause 20}あのっ{pause 40}	ここにあるのは、{pause 20}	{ruby (charSpan 1): むら}村で{ruby (charSpan 1): み}見つかった　{ruby (charSpan 1): お}落とし{ruby (charSpan 1): もの}物です{Wait for input}{ruby (charSpan 1): も}持ち{ruby (charSpan 1): ぬし}主が　{ruby (charSpan 1): あらわ}現れませんので、{pause 20}	お{ruby (charSpan 1): も}持ち{ruby (charSpan 1): かえ}帰り　いただいて	{ruby (charSpan 1): かま}構わないと　{ruby (charSpan 1): おも}思います{pause 8}・{pause 8}・{pause 8}・{pause 20}　{Text size 75%}たぶん{Text size 100%}{Wait for input}えーっと{pause 8}　それは{pause 20}	{0011-0003-0002-0000}	ですけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Curious}{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取って	いただけますか？{confirmation-02}{000f-0005-0004-0015-0028}	{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): と}取る	やめとく
+"025"	は、{pause 20}{emote: Alarmed}{0007-000b-0000}はいぃっ！{pause 20}	すいませんでした！
+"026"	{emote: Distress}あっ、{pause 20}あっ{pause 20}	あの{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): も}持ち{ruby (charSpan 1): もの}物が　いっぱいです{Wait for input}{emote: Alarmed}{0007-000b-0000}あっ、{pause 20}ごめんなさい！{pause 40}	{emote: Worry}そのままじゃ{pause 20}　{ruby (charSpan 1): も}持ち{ruby (charSpan 1): かえ}帰れないと{pause 20}	{Text size 75%}おもいまして{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"027"	{emote: Alarmed}{0007-000b-0000}あっ、{pause 8}はいっ！{pause 40}	お{ruby (charSpan 1): も}持ち{ruby (charSpan 1): かえ}帰りください{Wait for input}{emote: Reset}だいじょうぶです{pause 20}	{ruby (charSpan 2): もんだい}問題ないと　{ruby (charSpan 1): おも}思います{pause 8}・{pause 8}・{pause 8}・{pause 20}　{Text size 75%}たぶん{Text size 100%}
+"028"
+"029"	はっ、{pause 20}{emote: Alarmed}{0007-000b-0000}はいぃっ！{pause 60}	{emote: Reset}ここは{pause 8}　その、{pause 20}	{Town name (pink)}{ruby (charSpan 1): むら}村の{ruby (charSpan 2): こうばん}交番です{pause 8}・{pause 8}・{pause 8}・{Wait for input}えっと{pause 20}　そのぉ{pause 8}・{pause 8}・{pause 8}・{pause 40}	ゆっくり　していってください
+"031"	あのっ、{pause 20}	えーっと{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): ひろば}広場に、{pause 20}	{Blue}{ruby (charSpan 1): うらな}占いの{ruby (charSpan 1): やかた}館{Color Reset}のテントが	{ruby (charSpan 1): で}出ていると{ruby (charSpan 1): おも}思います{pause 8}・{pause 8}・{pause 8}・{pause 20}　{Text size 75%}たぶん{Text size 100%}
+"032"	あのぉ、{pause 20}そのぉ、{pause 20}	{ruby (charSpan 2): きょう}今日の　この{ruby (charSpan 2): じかん}時間でしたら{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}{Blue}いなりギャラリー{Color Reset}が{pause 20}	{ruby (charSpan 2): ひろば}広場に　{ruby (charSpan 2): しゅってん}出店していると	{ruby (charSpan 1): おも}思います{pause 8}・{pause 8}・{pause 8}・{pause 20}　{Text size 75%}たぶん{Text size 100%}
+"033"	えーっと、{pause 20}そのぉ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Orange}ローラン{Color Reset}さん　という{ruby (charSpan 1): かた}方が	さっき　お{ruby (charSpan 1): み}見えになりました{Wait for input}かべがみと　じゅうたんは	こうじゃなきゃ　ダメなんだと、{pause 15}	{ruby (charSpan 1): い}言っていた{ruby (charSpan 1): き}気がします{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}あっ、{pause 20}ごめんなさい！{pause 40}	{ruby (charSpan 1): なに}何を{ruby (charSpan 1): はな}話しているのか、	ハッキリとは　{ruby (charSpan 1): き}聞こえなくて{Wait for input}{emote: Worry}{Text size 75%}いご、{pause 20}きをつけます{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"034"	えーっと、{pause 20}そういえば{pause 8}・{pause 8}・{pause 8}・{pause 20}	カブ{ruby (charSpan 1): う}売りの　{Orange}カブリバ{Color Reset}さんが	{ruby (charSpan 1): とお}通りかかったような{pause 8}・{pause 8}・{pause 8}・{Wait for input}{Blue}{ruby (charSpan 2): にちよう}日曜{Color Reset}の{Blue}{ruby (charSpan 3): ごぜんちゅう}午前中{Color Reset}は、{pause 20}	{ruby (charSpan 2): まいしゅう}毎週　{ruby (charSpan 1): み}見かける{ruby (charSpan 1): き}気がします{Wait for input}{ruby (charSpan 1): いま}今も　{ruby (charSpan 1): むら}村のどこかで	カブを{ruby (charSpan 1): う}売っていると{ruby (charSpan 1): おも}思います{pause 8}・{pause 8}・{pause 8}・{Text size 100%}{pause 20}　{Text size 75%}たぶん{Text size 100%}{Text size 100%}
+"035"	あのっ、{pause 20}	えーっと{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 1): むら}村で{pause 20}　ファッションデザイナーの	{Orange}グレース{Color Reset}さんを{ruby (charSpan 1): み}見た{ruby (charSpan 1): かた}方が	いるみたいです{Wait for input}{ruby (charSpan 2): さいきん}最近　ちょくちょく	いらっしゃる　らしいのですが{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}どうしてでしょうか？{Wait for input}{emote: Alarmed}{0007-000b-0000}あっ、{pause 20}ごめんなさい！{pause 40}	ついつい　{ruby (charSpan 1): き}聞いてしまいました{pause 40}	{emote: Worry}{Text size 75%}いご、{pause 20}きをつけます{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"036"	そういえば{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): はまべ}浜辺に　{ruby (charSpan 1): だれ}誰かが　たおれていると{pause 20}	{ruby (charSpan 2): つうほう}通報がありました{Wait for input}なので　{ruby (charSpan 2): はまべ}浜辺を{ruby (charSpan 1): ある}歩いてみたのですが、{pause 20}	キレイな{ruby (charSpan 1): かい}貝　{ruby (charSpan 2): いがい}以外は	{ruby (charSpan 1): み}見つかりませんでした{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}あっ、{pause 20}ごめんなさい！{pause 40}	{ruby (charSpan 1): さが}探し{ruby (charSpan 1): かた}方が　{ruby (charSpan 1): た}足りなかったんでしょうか？{pause 40}	{emote: Worry}{Text size 75%}いご、{pause 20}きをつけます{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"037"	えーっと{pause 8}・{pause 8}・{pause 8}・{pause 20}	そのぉ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 1): いま}今は　{Orange}ぺりお{Color Reset}さんが、{pause 20}	{ruby (charSpan 4): ゆうびんはいたつ}郵便配達のお{ruby (charSpan 2): しごと}仕事を	なさっていると{ruby (charSpan 1): おも}思います{Wait for input}{ruby (charSpan 2): ふだん}普段は　{Blue}{ruby (charSpan 2): へいじつ}平日{Color Reset}の{Blue}{ruby (charSpan 1): あさ}朝9{ruby (charSpan 1): じ}時{Color Reset}と{pause 20}{Blue}{ruby (charSpan 2): ゆうがた}夕方5{ruby (charSpan 1): じ}時{Color Reset}に	{ruby (charSpan 2): はいたつ}配達していると、	{ruby (charSpan 1): い}言っていました{pause 8}・{pause 8}・{pause 8}・{pause 20}　{Text size 75%}たぶん{Text size 100%}
+"038"	あっ、{pause 20}あのぉ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): きょう}今日は　{Orange}パロンチーノ{Color Reset}さんが	{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): き}来ていたと{ruby (charSpan 1): おも}思います{Wait for input}{Orange}パロンチーノ{Color Reset}さんは{pause 20}	がんばっている{ruby (charSpan 1): ひと}人に	バッジをくれるみたいです{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}{0007-000b-0000}あっ、{pause 20}ごめんなさい！{pause 40}	{emote: Worry}そんなこと　とっくに	ご{ruby (charSpan 1): ぞん}存じだったら　すいません{pause 8}・{pause 8}・{pause 8}・
+"039"	えーっと、{pause 20}	そういえば{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 3): えんげいてん}園芸店の{Orange}レイジ{Color Reset}さんが{pause 20}	{ruby (charSpan 1): むら}村にいるのを　{ruby (charSpan 1): み}見かけた{ruby (charSpan 1): き}気がします{Wait for input}{ruby (charSpan 1): なに}何か　お{ruby (charSpan 2): しごと}仕事を	{ruby (charSpan 1): たの}頼まれていたようですが{Wait for input}{emote: Worry}あれは、{pause 20}{ruby (charSpan 2): いねむ}居眠りをしていたように	{ruby (charSpan 1): み}見えました{pause 8}・{pause 8}・{pause 8}・{pause 20}　{Text size 75%}たぶん{Text size 100%}
+"040"	あのぉ、{pause 20}	そのぉ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 2): きょう}今日は　キャンプ{ruby (charSpan 1): じょう}場で、{pause 20}	おとまりする{ruby (charSpan 1): かた}方が　いるみたいです{Wait for input}{emote: Distress}あっ、{pause 20}すいません{pause 20}	どんな{ruby (charSpan 1): かた}方かは　{ruby (charSpan 1): み}見ていないので{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Worry}{Text size 75%}いご、{pause 20}きをつけます{pause 8}・{pause 8}・{pause 8}・{Text size 100%}
+"041"

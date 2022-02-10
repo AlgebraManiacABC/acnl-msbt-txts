@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Sadness}
-"002"	{emote: Anger}
-"003"	{emote: Anger}
+"001"	{emote: Sadness}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	くやしいけど、{ruby (charSpan 2): こんかい}今回は	{Player nickname (green)}の{ruby (charSpan 1): か}勝ちかー{Wait for input}{emote: Happiness}{ruby (charSpan 2): きねん}記念に　{0011-0003-0002-0000}を	プレゼントだー、{pause 8}{catchphrase}
+"002"	{emote: Anger}ちぇーーっ！{pause 20}	まさか　オイラが	{ruby (charSpan 1): ま}負けるなんてな！{Wait for input}{emote: Worry}くやしいけど	この　{0011-0003-0002-0000}は、{pause 20}	{ruby (charSpan 2): しょうしゃ}勝者のオマエが　{ruby (charSpan 1): も}持って{ruby (charSpan 1): かえ}帰れー！
+"003"	{emote: Anger}なんだよ　{Player nickname (green)}！{pause 40}	オイラにかくれて、	かくれんぼ　{ruby (charSpan 2): とっくん}特訓してたんだろー？！{Wait for input}{emote: Worry}まぁ{pause 20}　{ruby (charSpan 1): か}勝ちは{ruby (charSpan 1): か}勝ちだからな、{pause 40}	この　{0011-0003-0002-0000}は{pause 20}	オマエのだぞ、{pause 8}{catchphrase}

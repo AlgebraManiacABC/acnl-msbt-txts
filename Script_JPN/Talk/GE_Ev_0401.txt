@@ -1,21 +1,21 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Glare}
-"004"	{emote: Happiness}
-"005"	{emote: Joy}
-"006"	{emote: Happiness}
-"007"	
-"008"	
-"009"	
-"010"	{emote: Glee}
-"011"	
-"012"	{emote: Glare}
-"013"	{0009-0001-0006-0e-00-0f-00-10-00}
-"014"	{emote: Laughter}
-"015"	{emote: Alarmed}
-"016"	{emote: Resigned}
-"017"	{0009-0001-0006-12-00-13-00-14-00}
-"018"	{emote: Laughter}
-"019"	{emote: Glee}
-"020"	{emote: Distress}
+"001"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}！{pause 20}	すご～い　ニュースだよ！{Wait for input}アタイ、{pause 10}	{ruby (charSpan 2): こんど}今度　アイドルデビューが{ruby (charSpan 1): き}決まったの！{Wait for input}	おうえん　よろしくね！{Player can respond (0000):0011-0000-000d-0000}	{ruby (charSpan 2): ほんとう}本当に？！	ウソでしょ～
+"002"	{emote: Happiness}{ruby (charSpan 1): き}聞いて　{pause 3}{ruby (charSpan 1): き}聞いて！{Wait for input}{emote: Glee}アタイ　{pause 10}アイドルデビューが{ruby (charSpan 1): き}決まって{pause 10}	CD{ruby (charSpan 1): だ}出すことになったから～！{pause 20}	{emote: Greetings}ぜったい　{ruby (charSpan 1): か}買ってよね！{Player can respond (0000):0011-0000-000d-0000}	オッケー！	ウソだ～
+"003"	{emote: Glare}ここだけの{ruby (charSpan 1): はなし}話なんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Glee}アタイ　{pause 10}{ruby (charSpan 3): げいのうかい}芸能界デビューすることになって{pause 10}	{0005-0004-0002-cd00}{0005-000d-0000}と{pause 10}	ユニット{ruby (charSpan 1): く}組むことになったの！{Player can respond (0000):0011-0000-000d-0000}	{ruby (charSpan 2): ほんとう}本当に？	ウソでしょ
+"004"	{emote: Happiness}もう　{pause 10}{ruby (charSpan 1): し}知ってるかもしれないけど{pause 15}	{ruby (charSpan 2): きょう}今日から　アタイが{pause 10}	この{ruby (charSpan 1): むら}村の　{ruby (charSpan 2): そんちょう}村長になるんだよ～！{Wait for input}{ruby (charSpan 2): たてもの}建物は　{ruby (charSpan 2): ぜんぶ}全部ピンクにぬって{pause 10}	{ruby (charSpan 2): むらじゅう}村中の{ruby (charSpan 1): き}木に　キラキラのかざりつけして、{pause 15}	アタイ{ruby (charSpan 1): いろ}色に　そめ{ruby (charSpan 1): あ}上げる{pause 5}{emote: Love}つ{pause 5}・{pause 5}も{pause 5}・{pause 5}り{pause 5}！{Player can respond (0000):0011-0000-000d-0000}	そうなんだ～！	ウソっぽいな
+"005"	{emote: Joy}ねぇねぇ　{pause 10}{Player nickname (green)}{0005-000d-0000}だけに	{ruby (charSpan 1): おし}教えちゃうけど、{pause 15}	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{pause 10}{Villager's name (orange)}の{ruby (charSpan 1): ひ}日なんだよ！	{emote: Mischief}だから、{pause 10}アタイの{ruby (charSpan 2): めいれい}命令を	{ruby (charSpan 1): なん}何でも{ruby (charSpan 1): き}聞かなきゃ　{pause 5}いけないんだからね！{Player can respond (0000):0011-0000-000d-0000}	そうなの？	ウソでしょ！
+"006"	{emote: Happiness}{ruby (charSpan 2): きょう}今日から　アタイの{ruby (charSpan 1): いえ}家は、{pause 10}	{Villager's name (orange)}ミュージアムになったんだよ～{Wait for input}{emote: Mischief}{ruby (charSpan 1): はい}入る{ruby (charSpan 1): とき}時に{pause 10}	10000ベルはらってもらうから{pause 10}	よろしくね！　{pause 15}{catchphrase}！{Player can respond (0000):0011-0000-000d-0000}	{ruby (charSpan 2): ほんとう}本当？！	ウソでしょ～
+"007"
+"008"
+"009"
+"010"	{emote: Glee}ねぇ！　{pause 20}さっき、{pause 10}{0005-0010-0002-0000}が	なってる{ruby (charSpan 1): き}木を　{pause 10}{ruby (charSpan 1): み}見つけちゃった！！{Player can respond (0000):0011-0000-000d-0000}	そりゃ　すごい！	ウソだ～
+"011"
+"012"	{emote: Glare}ねぇ、{pause 20}{Player nickname (green)}{0005-000d-0000}だけに{pause 10}	{ruby (charSpan 1): い}言っとくね{pause 10}・{pause 10}・{pause 10}・{pause 10}{Wait for input}{emote: Reset}アタイ　{pause 10}{ruby (charSpan 1): じつ}実は　{0005-0010-0002-0000}{ruby (charSpan 1): せい}星の	おひめ{ruby (charSpan 1): さま}様だったの{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Worry}{ruby (charSpan 1): わる}悪いやつらに{ruby (charSpan 1): お}追われて{pause 10}	この{ruby (charSpan 1): むら}村で{pause 5}	{ruby (charSpan 2): みぶん}身分をかくして　くらしてたけど{pause 10}	いずれ{pause 10}　この{ruby (charSpan 2): ばしょ}場所も	{ruby (charSpan 1): み}見つかってしまうかも{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Anger}だから　アタイ、{pause 10}	{ruby (charSpan 2): けらい}家来{ruby (charSpan 1): たち}達といっしょに{pause 10}	{ruby (charSpan 1): わる}悪いやつらに　{ruby (charSpan 1): たたか}戦いを　いどもうと{ruby (charSpan 1): おも}思うの！	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}も　{pause 10}アタイといっしょに{pause 5}	{ruby (charSpan 1): たたか}戦ってくれない？！{Player can respond (0000):0011-0000-000d-0000}	{ruby (charSpan 2): ほんとう}本当？！	ウソだ～
+"013"	{0009-0001-0006-000e-000f-0010}
+"014"	{emote: Laughter}キャハハ！{pause 10}	バレちゃったか～{pause 30}{emote: Soft Smile}{pause 20}	うまく　ウソつけたと{ruby (charSpan 1): おも}思ったのにな
+"015"	{emote: Alarmed}わ～！　{pause 10}ウソってわかっちゃった？！{pause 20}	{emote: Resigned}やっぱ　{Player nickname (green)}{0005-000d-0000}　{pause 10}するどいわ～
+"016"	{emote: Resigned}エイプリルフールだから{pause 10}	だまそうと{ruby (charSpan 1): おも}思ったのにな～{Wait for input}{emote: Happiness}やっぱ、{pause 10}アタイは　ウソのつけない	{ruby (charSpan 2): すなお}素直なコなんだな、{pause 15}{catchphrase}
+"017"	{0009-0001-0006-0012-0013-0014}
+"018"	{emote: Laughter}えへっ！　{pause 20}ウソだよ～！！{pause 30}	{emote: Glee}わ～い、{pause 15}エイプリルフール　{ruby (charSpan 3): だいせいこう}大成功！！
+"019"	{emote: Glee}ウソだよ～！{pause 30}	だましちゃってごめんね{Wait for input}	{emote: Happiness}エイプリルフールだから　{pause 5}{ruby (charSpan 1): ため}試しちゃった！
+"020"	{emote: Distress}あ！　{pause 20}{ruby (charSpan 2): ほんき}本気にしちゃった？{pause 20}	{emote: Happiness}エイプリルフールの　ジョークだよ！{Wait for input}ごめん　ごめん{pause 20}	やっぱ　{Player nickname (green)}{0005-000d-0000}は、{pause 10}	{ruby (charSpan 2): すなお}素直なコなんだね～！

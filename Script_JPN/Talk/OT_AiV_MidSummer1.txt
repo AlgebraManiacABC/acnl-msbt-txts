@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Greetings}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Greetings}
-"006"	{emote: Soft Smile}
-"007"	{emote: Greetings}
-"008"	{emote: Sheepishness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Curious}
-"011"	{Greeting begin}
+"001"	{emote: Soft Smile}{Greeting begin}あら、{Player name}{0005-000d-0000}！{Greeting end}{pause 16}	こんな{ruby (charSpan 1): あさ}朝から　アナタに{pause 8}	{ruby (charSpan 1): あ}会えるとは{ruby (charSpan 1): おも}思ってなかったわ、{pause 8}{catchphrase}
+"002"	{emote: Greetings}おはよう、{Player name}{0005-000d-0000}{pause 16}	{ruby (charSpan 1): あさ}朝から{ruby (charSpan 2): げんき}元気ねぇ、アナタ{pause 32}	{emote: Happiness}うふふ、{pause 16}お{ruby (charSpan 2): ひさま}日様みたい！　{pause 8}{catchphrase}！
+"003"	{emote: Happiness}いらっしゃい、{Player name}{0005-000d-0000}{pause 16}	{ruby (charSpan 1): あさ}朝{ruby (charSpan 1): はや}早くから　ご{ruby (charSpan 3): くろうさま}苦労様～！	{pause 8}{catchphrase}！
+"004"	{emote: Happiness}{Greeting begin}あら、{Player name}{0005-000d-0000}{Greeting end}{pause 16}	いらっしゃい！{Wait for input}{emote: Reset}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): よる}夜になっても	{ruby (charSpan 1): ひ}日が　しずまないらしいわよ	{pause 8}{catchphrase}
+"005"	{emote: Greetings}あら、{pause 8}{Player name}{0005-000d-0000}{pause 8}	いらっしゃい！{pause 16}	ゆっくりしていってね、{pause 8}{catchphrase}
+"006"	{emote: Soft Smile}こんにちわ、{Player name}{0005-000d-0000}！{pause 16}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): げし}夏至だから	{ruby (charSpan 1): ひ}日が{ruby (charSpan 1): なが}長いわよ、{pause 8}{catchphrase}
+"007"	{emote: Greetings}あら、{Player name}{0005-000d-0000}{pause 16}	よく{ruby (charSpan 1): き}来たわね、{Town name (pink)}{ruby (charSpan 1): むら}村へ
+"008"	{emote: Sheepishness}{ruby (charSpan 1): おどろ}驚いたでしょ？　{pause 8}{Player name}{0005-000d-0000}？{pause 16}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): げし}夏至だから	{ruby (charSpan 1): よる}夜でも　{ruby (charSpan 1): あか}明るいのよ、{pause 8}{catchphrase}
+"009"	{emote: Soft Smile}{Greeting begin}こんばんわ、{Player name}{0005-000d-0000}！{Greeting end}{pause 16}	{ruby (charSpan 2): げし}夏至って　{ruby (charSpan 1): よる}夜でも	こんなに　{ruby (charSpan 1): あか}明るいのね、{pause 8}{catchphrase}
+"010"	{emote: Curious}スゴイでしょ？　{pause 8}{Player name}{0005-000d-0000}？{Wait for input}	{emote: Reset}これでも　{Hour}{ruby (charSpan 1): じ}時なのよ～、	{pause 8}{catchphrase}
+"011"	{Greeting begin}いらっしゃい、{Player name}{0005-000d-0000}！{Greeting end}{pause 32}	{emote: Mischief}{ruby (charSpan 2): よるおそ}夜遅くに　{ruby (charSpan 1): わる}悪いコ！{Wait for input}{pause 4}・{pause 4}・{pause 4}・{pause 4}{emote: Worry}って、{pause 16}{ruby (charSpan 1): そら}空が{ruby (charSpan 1): あか}明るいから	{ruby (charSpan 3): せっとくりょく}説得力ないわね、{pause 8}{catchphrase}

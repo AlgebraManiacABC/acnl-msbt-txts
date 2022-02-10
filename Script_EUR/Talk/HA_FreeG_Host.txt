@@ -1,50 +1,50 @@
 == 0 ==
-"001"	I saw someone I haven't met before	walking around town.{pause 20}
-"002"	I saw someone new in town!{0000-0004-0000}
-"003"	{emote: Curious}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Glee}
-"006"	{emote: Anger}
-"007"	Well, I gotta chat with your 	company!{0000-0004-0000}!
-"008"	
-"009"	When you have friends visiting your	town{pause 20}
+"001"	I saw someone I haven't met before	walking around town.{pause 20}{emote: Curious} Do you have	company here?
+"002"	I saw someone new in town!{Wait for input}{emote: Alarmed}Is the enemy finally attacking us?!{Wait for input}{emote: Distress}Huh? You've got company here?{pause 40}{emote: Resigned} Oh,	come on! That's not nearly as fun as	an enemy attack{pause 8}.{pause 8}.{pause 8}.
+"003"	{emote: Curious}You have company visiting, don't	you?
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Glee}I guess I should meet with your	company later! What should I do if	they ask me for an autograph?
+"006"	{emote: Anger}Maybe{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Bashful}people in other towns are	talking about my amazing	{0005-0011-0002-0000} skills?!
+"007"	Well, I gotta chat with your 	company!{Wait for input}{emote: Thought}What should I say if they ask if	we're buds?{Wait for input} I should say "great	buds," right?
+"008"
+"009"	When you have friends visiting your	town{pause 20}{emote: Agreement} and you decide it's time to say	good-bye{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Reset}Press {Blue}START{Color Reset}, and then select	{Blue}End the multiplayer session{Color Reset}.{Wait for input}{emote: Happiness}Once you tell everyone the party	is over, they'll go home all at once!{pause 20}{Wait for input}{emote: Thought}You can see off each of them at the	station,{pause 40}{emote: Sunny} but it can be convenient to	end the party pronto, {pause 8}{catchphrase}!{Wait for input}{emote: Happiness}Just keep this little trick in mind in	case you need it!
 == 1 ==
-"001"	He visto a alguien que no conozco	paseando por el pueblo.{pause 20}
-"002"	¡Está en el pueblo alguien a	quien no había visto nunca!{0000-0004-0000}
-"003"	{emote: Curious}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Glee}
-"006"	{emote: Anger}
-"007"	¿Tienes visita? Pues yo estoy	abierto a charlar, ¡y así podemos	ser todos amiguetes!	{emote: Thought}
-"008"	
-"009"	Cuando tengas visita en el pueblo	y creas que ha llegado la hora{pause 20}!
+"001"	He visto a alguien que no conozco	paseando por el pueblo.{pause 20}{emote: Curious} ¿Es que	tienes visita?
+"002"	¡Está en el pueblo alguien a	quien no había visto nunca!{Wait for input}{emote: Alarmed}¡¿Se habrá producido por fin	la invasión enemiga?!{Wait for input}{emote: Distress}¿Eh? ¿Que tienes visita?{pause 40}{emote: Resigned} Vaya,	¿para qué me lo cuentas? Ya	le has quitado toda la diversión{pause 8}.{pause 8}.{pause 8}.
+"003"	{emote: Curious}Tienes visita, ¿no?
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Glee}Ya que tienes visita, ¡digo yo que	podría pasarme a veros luego! ¡Y	si queréis os firmo un autógrafo!
+"006"	{emote: Anger}¡Seguro que la gente de otros	pueblos habla sobre mi gran talento	como campeón de {0005-0011-0002-0000}!
+"007"	¿Tienes visita? Pues yo estoy	abierto a charlar, ¡y así podemos	ser todos amiguetes!	{emote: Thought}Y si sale el tema de cómo nos	llevamos tú y yo, ¿qué digo?{Wait for input}	Que somos supercolegas, ¿no?
+"008"
+"009"	Cuando tengas visita en el pueblo	y creas que ha llegado la hora{pause 20}{emote: Agreement} de	que se vaya{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Reset}Pulsa {Blue}START{Color Reset} y selecciona	{Blue}Todos a casa{Color Reset}.{Wait for input}{emote: Happiness}En cuanto le digas a todo el mundo	que se ha acabado la fiesta, ¡se	irán todos a casa inmediatamente!	{emote: Thought}Puedes despedir a cada uno de	ellos en la estación,{pause 40}{emote: Sunny} ¡pero te puede	venir bien acabar rápidamente!	{emote: Happiness}¡Recuerda este truquito por	si algún día lo necesitas!
 == 2 ==
-"001"	Tout à l'heure, j'ai aperçu quelqu'un	que je n'avais encore jamais vu.{pause 20}
-"002"	Il y a une personne non identifiée en	ville ! Je l'ai vue !{0000-0004-0000}
-"003"	{emote: Curious}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Glare}
-"006"	{emote: Thought}
-"007"	Tu pourrais faire les présentations,	dis donc !{0000-0004-0000}
-"008"	
-"009"	Quand tu reçois de la visite,{pause 20}
+"001"	Tout à l'heure, j'ai aperçu quelqu'un	que je n'avais encore jamais vu.{pause 20} {emote: Curious}Tu	as de la visite, peut-être ?
+"002"	Il y a une personne non identifiée en	ville ! Je l'ai vue !{Wait for input}{emote: Alarmed}Tu crois qu'on est en danger ?!{pause 20}{Wait for input}{emote: Distress}Quoi ?{pause 20} C'est parce que tu as de la	visite ?{pause 40} {emote: Resigned}Pfff, même pas drôle{pause 8}.{pause 8}.{pause 8}.
+"003"	{emote: Curious}Tu as de la visite en ce moment,	non ?
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Glare}Et tu attends quoi pour faire les	présentations ? Que je te le	demande ?{pause 20} Bah voilà.
+"006"	{emote: Thought}Attends{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Bashful}Et si dans les autres	villes, les gens ne parlaient que de	mon don pour {000e-0001-0000}{0005-0011-0002-0000} ?
+"007"	Tu pourrais faire les présentations,	dis donc !{Wait for input}{emote: Distress}D'ailleurs, je dis quoi, moi, si on me	pose des questions sur notre	relation ?{Wait for input} Qu'on est partenaires ?!
+"008"
+"009"	Quand tu reçois de la visite,{pause 20} {emote: Agreement}et que	tu décides qu'il est temps pour tout	ce petit monde de rentrer chez soi{pause 8}.{pause 8}.{pause 8}.	{emote: Reset}... appuie sur {Blue}START{Color Reset} et sélectionne	{Blue}Fin de la session{Color Reset}.{Wait for input}{emote: Happiness}Avec ça, pas de chichis :{pause 15} tous les	gens de l'extérieur quitteront la ville	d'un seul coup,{pause 8} {catchphrase} !	{emote: Thought}Bien sûr, tu peux également les	raccompagner un à un à la gare,{pause 30} {emote: Sunny}si	tu n'es pas {pressé/pressée}.	{emote: Happiness}Cette astuce est surtout utile quand	le temps manque, alors essaie de ne	pas l'oublier !
 == 3 ==
-"001"	In città ho visto un viso nuovo.{pause 20}
-"002"	Ho visto qualcuno di nuovo	aggirarsi in città!{0000-0004-0000}
-"003"	{emote: Curious}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Glee}
-"006"	{emote: Thought}
-"007"	Non vedo l'ora di conoscere ogni	tuo ospite...{emote: Thought}
-"008"	
-"009"	Quando hai degli amici in visita	{pause 20}
+"001"	In città ho visto un viso nuovo.{pause 20}{emote: Curious}	Non è che abbiamo visite?
+"002"	Ho visto qualcuno di nuovo	aggirarsi in città!{Wait for input}{emote: Alarmed}Stanno forse arrivando gli alieni?{Wait for input}{emote: Distress}Come? Dici che è solo qualcuno	che è venuto a trovarti?{pause 40} {emote: Resigned}Ah! Mi	sarebbe piaciuto vedere un alieno{pause 8}.{pause 8}.{pause 8}.
+"003"	{emote: Curious}Ci sono turisti in città, vero?
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Glee}Forse dovrei andare a presentarmi	a chi è venuto a trovarti!{Wait for input}Cercherò di non arrossire	se mi verrà chiesto l'autografo!
+"006"	{emote: Thought}Penso che sia la mia fama	a richiamare qui i turisti{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{emote: Bashful}Chi non vorrebbe conoscere	il grande campione che vince	ogni torneo di {0005-0011-0002-0000}?
+"007"	Non vedo l'ora di conoscere ogni	tuo ospite...{emote: Thought} e di raccontargli tutte	le cose che facciamo insieme!
+"008"
+"009"	Quando hai degli amici in visita	{pause 20}{emote: Agreement}e decidi che ormai è arrivato	il momento di salutarvi{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Reset}... premi {Blue}START{Color Reset} e poi	scegli {Blue}Tutti a casa{Color Reset}.{Wait for input}{emote: Happiness}A quel punto, tutti quanti lasceranno	di colpo la tua città!{pause 20}{Wait for input}{emote: Thought}Se preferisci, puoi salutare ogni	ospite alla stazione,{pause 40}{emote: Sunny} ma a volte	è meglio cacciare tutti subito.	{emote: Happiness}Non devi farlo sempre, ma ricordati	che puoi usare questo trucchetto,	{pause 8}{catchphrase}!
 == 4 ==
-"001"	Mir ist grad jemand übern Weg	gejoggt.{pause 20}
-"002"	Es treibt sich jemand Wildfremdes	in unserer Stadt rum, {pause 8}!
-"003"	{emote: Curious}
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{emote: Glee}
-"006"	{emote: Thought}
-"007"	Ich muss unbedingt mit deinem	Besuch sprechen, {pause 8}
-"008"	
-"009"	Wenn dich mal Freunde besuchen{pause 20}!
+"001"	Mir ist grad jemand übern Weg	gejoggt.{pause 20}{emote: Curious} Das müsste dein Besuch	sein, {pause 8}oder?
+"002"	Es treibt sich jemand Wildfremdes	in unserer Stadt rum, {pause 8}{catchphrase}!{Wait for input}{emote: Alarmed}Steigt hier schon wieder so ein	Kulturdings, {pause 8}von dem ich nichts	mitgekriegt hab?!	{emote: Distress}Ach echt?{pause 20} Dein Besuch?{pause 40}{emote: Sigh}	Puh! {pause 20}Also doch kein Kulturdings{pause 8}.{pause 8}.{pause 8}.
+"003"	{emote: Curious}Du hast heute Besuch, {pause 8}oder?
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{emote: Glee}Vielleicht sollte ich deinem Besuch	Hallo sagen! {pause 40}{emote: Sunny}Was soll ich denn tun,{pause 8}	wenn er ein Autogramm will?
+"006"	{emote: Thought}Vielleicht{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Bashful} sprechen ja auch in	anderen Städten die Leute über	meine legendären Erfolge!	Ob dein Besucher meinen Sieg bei	der Stadtmeisterschaft im	{0005-0011-0002-0000} gesehen hat{emote: Curious}?!
+"007"	Ich muss unbedingt mit deinem	Besuch sprechen, {pause 8}{catchphrase}!{Wait for input}{emote: Thought}Ich frag mich, {pause 8}ob er eifersüchtig	sein könnte, {pause 8}weil wir ja beste	Sportsfreunde sind!
+"008"
+"009"	Wenn dich mal Freunde besuchen{pause 20}{emote: Agreement}	und du dich von ihnen verabschieden	willst{pause 8}.{pause 8}.{pause 8}.	{emote: Reset}Dann solltest du {Blue}START{Color Reset} drücken	und {Blue}Besucher heimschicken {Color Reset}wählen.{Wait for input}{emote: Happiness}Damit erklärst du allen, {pause 8}dass der	Besuch bei dir beendet ist.{pause 20} Und	schon sind sie wieder daheim!{pause 20}	{emote: Thought}Du könntest auch jeden einzelnen	Besucher am Bahnhof	verabschieden...{Wait for input}{emote: Sunny}Aber du kannst es auch einfach	kurz und schmerzlos machen!{Wait for input}{emote: Happiness}Du solltest dir diesen Kniff gut	merken, {pause 8}{catchphrase}!

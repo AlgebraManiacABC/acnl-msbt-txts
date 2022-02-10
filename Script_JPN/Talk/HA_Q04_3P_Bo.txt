@@ -1,24 +1,24 @@
 == 0 ==
-"001"	{000c-0001-0000}
-"002"	{000c-0001-0000}
-"003"	{000c-0001-0000}
-"004"	{000c-0001-0000}
-"005"	{000c-0000-0000}
-"006"	{000c-0000-0000}
-"007"	{000c-0000-0000}
-"008"	
-"009"	{000c-0000-0000}
-"010"	{000c-0000-0000}
-"011"	{000c-0000-0000}
-"012"	{000c-0000-0000}
-"013"	{000c-0000-0000}
-"014"	{000c-0000-0000}
-"015"	{000c-0000-0000}
-"016"	{000c-0000-0000}
-"017"	{000c-0000-0000}
-"018"	{000c-0000-0000}
-"019"	
-"020"	それじゃ　{0011-0001-0002-00-00}
-"021"	{emote: Happiness}
-"022"	{000c-0002-0000}
-"023"	
+"001"	{000c-0001-0000}{000c-0004-0000}{000c-0002-0000}{000c-0006-0000}{emote: Greetings}オーッス！{pause 20}	{ruby (charSpan 2): ふたり}二人とも　よく{ruby (charSpan 1): き}来たなー{000c-0009-0000}
+"002"	{000c-0001-0000}{000c-0004-0000}{000c-0002-0000}{000c-0006-0000}{emote: Laughter}おー！{pause 8}	もどってきた　もどってきた！{pause 20}	{Player nickname (green)}、ご{ruby (charSpan 3): くろうさま}苦労様！{pause 20}{emote: Happiness}{000c-0009-0000}
+"003"	{000c-0001-0000}{000c-0004-0000}{000c-0002-0000}{000c-0006-0000}{emote: Sunny}よぉ！{pause 8}　おかえりー！{000c-0009-0000}
+"004"	{000c-0001-0000}{000c-0004-0000}{000c-0002-0000}{000c-0006-0000}{emote: Resigned}オイー！{pause 20}	{ruby (charSpan 2): ふたり}二人とも　おそいぞー！{Wait for input}{ruby (charSpan 1): ま}待ちくたびれて	むかえに{ruby (charSpan 1): い}行こうかと{ruby (charSpan 1): おも}思ったよ、{pause 8}{catchphrase}{000c-0009-0000}
+"005"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{000c-0001-0000}{000c-0008-0000}{emote: Worry}や、{pause 20}やぁ　{0011-0001-0002-0000}{0005-000d-0000}{pause 20}	ボク　キミに{ruby (charSpan 1): なに}何かしちゃったぁ？{000c-0009-0000}
+"006"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{000c-0001-0000}{000c-0008-0000}{emote: HotWithSleeves}はぁ、{pause 20}はぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): ある}歩いたら　つかれちゃったよぉ、{pause 8}{catchphrase}{Wait for input}それで、{0011-0001-0002-0000}{0005-000d-0000}{pause 20}	{emote: Curious}ボクに　どんなごようじ～？{000c-0009-0000}
+"007"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{000c-0001-0000}{000c-0008-0000}{0011-0001-0002-0000}{0005-000d-0000}！{pause 20}	{emote: Curious}ボクをよび{ruby (charSpan 1): だ}出して	どんな　ご{ruby (charSpan 1): よう}用なのぉ？{000c-0009-0000}
+"008"
+"009"	{000c-0000-0000}{000c-0005-0000}{emote: Bashful}オマエに　ずっと	{ruby (charSpan 1): か}借りっぱなしだったコレ、{pause 20}	そろそろ　{ruby (charSpan 1): かえ}返すよ！{Wait for input}{emote: Sunny}ほいっ！{pause 20}	ありがとな、{pause 8}{catchphrase}{000c-0009-0000}
+"010"	{000c-0000-0000}{000c-0007-0000}{emote: Alarmed}あぁ～{pause 20}	ボクの　{0011-0003-0002-0000}！{Wait for input}{0011-0001-0002-0000}{0005-000d-0000}から	かえしてもらえるとは	{ruby (charSpan 1): おも}思わなかったよぉ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}えへへ～{pause 20}	ありがとぉ、{pause 8}{catchphrase}
+"011"	{000c-0000-0000}{000c-0005-0000}{emote: Pride}オマエに　にあいそうな	いいものが{ruby (charSpan 1): う}売ってたから、{pause 20}	{ruby (charSpan 1): か}買っといてやったぞ！{Wait for input}{emote: Happiness}{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取れー！{000c-0009-0000}
+"012"	{000c-0000-0000}{000c-0007-0000}{emote: Alarmed}わぁ～！{pause 20}	{0011-0003-0002-0000}だぁ～{Wait for input}{emote: Love}ボクって　こういう	イメージなんだねぇ～{pause 40}	ありがとぉ、{0011-0001-0002-0000}{0005-000d-0000}
+"013"	{000c-0000-0000}{000c-0005-0000}この{ruby (charSpan 1): まえ}前　ジョギング{ruby (charSpan 1): ちゅう}中に	{ruby (charSpan 1): お}落とし{ruby (charSpan 1): もの}物　{ruby (charSpan 1): ひろ}拾ったんだー{Wait for input}{emote: Happiness}どーせ　オマエのだろ？{pause 20}	ほいっ！{000c-0009-0000}
+"014"	{000c-0000-0000}{000c-0007-0000}{emote: Alarmed}わぁ～！{pause 20}	ホントに　ボクの	{0011-0003-0002-0000}だぁ、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}よく　ボクのだって　わかったねぇ～{pause 20}	ありがと～！
+"015"	{000c-0000-0000}{000c-0005-0000}{emote: Sunny}へへっ！{pause 20}	{ruby (charSpan 1): じつ}実は　{ruby (charSpan 2): うんどう}運動{ruby (charSpan 2): ぶそく}不足のオマエに	{ruby (charSpan 2): うんどう}運動させようと{ruby (charSpan 1): おも}思ってさ！{Wait for input}オイラん{ruby (charSpan 1): ち}家まで	{ruby (charSpan 1): ある}歩いて{ruby (charSpan 1): き}来てもらったんだ！{Wait for input}{emote: Laughter}なかなか　いい{ruby (charSpan 2): うんどう}運動に	なっただろー？{pause 40}{emote: Happiness}{000c-0009-0000}
+"016"	{000c-0000-0000}{000c-0007-0000}{emote: Shocked}{0007-000b-0000}えぇ～？！{pause 20}	じゃあ　ごようじは　ないのぉ？！{Wait for input}{emote: Sadness}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	そんなぁ、{pause 8}{catchphrase}
+"017"	{000c-0000-0000}{000c-0005-0000}{emote: Distress}たのむっ！{pause 20}	{ruby (charSpan 2): こんど}今度　テレビでやる	{0005-0011-0002-0000}の{ruby (charSpan 3): けっしょうせん}決勝戦なんだけど、{Wait for input}オマエん{ruby (charSpan 1): ち}家で	{ruby (charSpan 2): ろくが}録画しておいてくれないかー？{Wait for input}{emote: Mistaken}オイラん{ruby (charSpan 1): ち}家	{ruby (charSpan 2): ろくが}録画できなくってさ、{pause 8}{catchphrase}{000c-0009-0000}
+"018"	{000c-0000-0000}{000c-0007-0000}{emote: Happiness}あぁ～{pause 20}	そういう　おねがいごとかぁ{Wait for input}{emote: Pride}このボクに　ど～んと	まかせておいてよぉ、{pause 8}{catchphrase}{pause 20}	バッチリ　ろくがしておくねぇ！
+"019"
+"020"	それじゃ　{0011-0001-0002-0000}{0005-000d-0000}、{pause 20}	ボクは　もう　{ruby (charSpan 1): かえ}帰るねぇ～{Wait for input}{emote: Love}えへへ～{pause 20}	おウチに　{ruby (charSpan 1): た}食べかけの{0005-0010-0002-0000}が	あるんだぁ、{pause 8}{catchphrase}{emote: Reset}{Wait for input}{000c-0002-0000}{000c-0003-0000}{Player nickname (green)}{0005-000d-0000}{pause 20}	つれて{ruby (charSpan 1): き}来てくれて　ありがとぉ、{pause 8}{catchphrase}{pause 40}	ちゃんと　おれいもらいなよぉ～？{Wait for input}{emote: Greetings}じゃあねぇ～
+"021"	{emote: Happiness}これで　ご{ruby (charSpan 1): よう}用は　すんだのかなぁ？{pause 40}	{0011-0001-0002-0000}{0005-000d-0000}、{pause 20}	それじゃあ　ボクは　{ruby (charSpan 1): かえ}帰るねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Greetings}またねぇ～{pause 20}	バイバ～イ
+"022"	{000c-0002-0000}{000c-0003-0000}{Player nickname (green)}{0005-000d-0000}{pause 20}	これで　もう	ご{ruby (charSpan 1): よう}用は　おわったみたい{Wait for input}{000c-0002-0000}{000c-0005-0000}じゃあ　{0011-0001-0002-0000}{0005-000d-0000}、{pause 20}	ボク　ごはんの{ruby (charSpan 2): じかん}時間だから	{ruby (charSpan 1): かえ}帰るねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Sadness}おなかペコペコ～
+"023"

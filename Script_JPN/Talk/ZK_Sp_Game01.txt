@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Glare}
-"002"	{emote: Glare}
-"003"	じゃ～ん{pause 32}
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Sheepishness}
-"008"	{emote: Anger}
-"009"	{emote: Showmanship}
-"010"	
-"011"	ということは{pause 8}!
-"012"	ということは{pause 8}ơ
+"001"	{emote: Glare}{ruby (charSpan 2): じゅんび}準備は　いいかい？{Wait for input}	{emote: Soft Smile}{ruby (charSpan 2): しょうぶ}勝負は　{Blue}1{ruby (charSpan 1): かい}回{Color Reset}だからね{pause 32}	{emote: Anger}それじゃ、{pause 8}いくよ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"002"	{emote: Glare}{ruby (charSpan 2): じゅんび}準備は　いいかい？{Wait for input}	{emote: Soft Smile}{ruby (charSpan 1): さき}先に　{Blue}{Number (0x6)}{ruby (charSpan 1): かい}回{Color Reset}{ruby (charSpan 1): か}勝った{ruby (charSpan 1): ほう}方が　{ruby (charSpan 1): か}勝ちだからね？　{pause 32}	それじゃ、いくよ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"003"	じゃ～ん{pause 32}　け～ん{pause 8}・{pause 8}・{pause 8}・{000f-0001-0006-0000-0000-0000}	グー	チョキ	パー
+"004"	{0007-000b-0000}グー！
+"005"	{0007-000b-0000}チョキ！
+"006"	{0007-000b-0000}パー！
+"007"	{emote: Sheepishness}やるねぇ？　{pause 8}{catchphrase}？
+"008"	{emote: Anger}あいこだね{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Sunny}さぁ、{pause 16}もう1{ruby (charSpan 1): かい}回だ！
+"009"	{emote: Showmanship}よしっ！
+"010"
+"011"	ということは{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}キミの{ruby (charSpan 1): か}勝ちだね！　{pause 8}{catchphrase}！
+"012"	ということは{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Sunny}ボクの{ruby (charSpan 1): か}勝ちだね！{pause 8}	ハッハー！

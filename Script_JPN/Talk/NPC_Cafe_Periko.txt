@@ -1,42 +1,42 @@
 == 0 ==
-"001"	{pause 5}
-"002"	{0009-0000-0004-0c-00-0d-00}
-"003"	{0009-0001-0006-0c-00-0d-00-0f-00}
-"004"	ここの{Orange}マスター{Color Reset}は　{ruby (charSpan 1): なに}何も{ruby (charSpan 1): い}言わなくても{pause 10}
-"005"	わたし、{pause 10}
-"006"	わたし、{pause 10}
-"007"	
-"008"	{0009-0001-0006-15-00-16-00-17-00}
-"009"	{0009-0001-0006-1f-00-20-00-21-00}
-"010"	{0009-0001-0006-29-00-2a-00-2b-00}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	
-"015"	{emote: Happiness}
-"016"	
-"017"	
-"018"	
-"019"	{pause 10}
-"021"	カフェって、{pause 5}!
-"022"	ここの　コーヒーは{pause 5}
-"023"	{000a-0008-0010-18-00-18-00-19-00-1a-00-1a-00-1b-00-1b-00-18-00}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	{emote: Happiness}
-"027"	{ruby (charSpan 2): けさ}今朝も　{ruby (charSpan 2): ほんとう}本当に{ruby (charSpan 1): ひ}冷えますね{Wait for input}
-"028"	
-"029"	
-"031"	たまには　{ruby (charSpan 1): あね}姉とも{ruby (charSpan 2): いっしょ}一緒に	お{ruby (charSpan 1): ちゃ}茶できれば　いいんですけど{pause 8}!
-"032"	{emote: Thought}
-"033"	{000c-0001-0000}
-"034"	{pause 10}
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"041"	{emote: Happiness}
-"042"	わたしが　ここに	お{ruby (charSpan 2): じゃま}邪魔するようになったきっかけは、{pause 10}
-"043"	{emote: Happiness}
-"044"	
-"045"	
+"001"	{pause 5}{emote: Alarmed}{pause 10}まぁ！{pause 10}　{Player name}さん、{pause 15}	おはようございます！{Wait for input}	{emote: Happiness}あなたも　お{ruby (charSpan 1): はや}早いんですね！
+"002"	{0009-0000-0004-000c-000d}
+"003"	{0009-0001-0006-000c-000d-000f}
+"004"	ここの{Orange}マスター{Color Reset}は　{ruby (charSpan 1): なに}何も{ruby (charSpan 1): い}言わなくても{pause 10}	いつもちゃんと　わたし{ruby (charSpan 1): ごの}好みのコーヒーを{pause 5}	{ruby (charSpan 1): だ}出してくださるんです{Wait for input}{000c-0001-0000}{emote: Happiness}{000c-0007-0000}{Orange}マスター{Color Reset}、{pause 15}	{ruby (charSpan 2): きょう}今日の{Blue}ブレンド{Color Reset}も　とても{ruby (charSpan 2): おい}美味しいです！{000c-0009-0000}
+"005"	わたし、{pause 10}コーヒーは	ミルクを{Blue}ちょっぴり{Color Reset}{ruby (charSpan 1): い}入れたものが	{ruby (charSpan 1): この}好みなんですけど{pause 5}・{pause 5}・{pause 5}・	{emote: Happiness}{Orange}マスター{Color Reset}は　{ruby (charSpan 1): なに}何も{ruby (charSpan 1): い}言わなくても{pause 10}	いつもちゃんと　わたし{ruby (charSpan 1): ごの}好みのものを{pause 5}	{ruby (charSpan 1): だ}出してくださるんです
+"006"	わたし、{pause 10}コーヒーは	お{ruby (charSpan 2): さとう}砂糖を{Blue}1つ{Color Reset}だけ{ruby (charSpan 1): い}入れたものが	{ruby (charSpan 1): この}好みなんですけど{pause 5}・{pause 5}・{pause 5}・	{emote: Happiness}{Orange}マスター{Color Reset}は　{ruby (charSpan 1): なに}何も{ruby (charSpan 1): い}言わなくても{pause 10}	いつもちゃんと　わたし{ruby (charSpan 1): ごの}好みのものを{pause 5}	{ruby (charSpan 1): だ}出してくださるんです
+"007"
+"008"	{0009-0001-0006-0015-0016-0017}
+"009"	{0009-0001-0006-001f-0020-0021}
+"010"	{0009-0001-0006-0029-002a-002b}
+"012"	{emote: Happiness}おはようございます！{pause 20}	また　お{ruby (charSpan 1): あ}会いしましたね
+"013"	{emote: Happiness}あら、{pause 10}{Player name}さん{pause 20}	おはようございます！
+"014"
+"015"	{emote: Happiness}おはようございます、{pause 5}{Player name}さん{pause 20}	{ruby (charSpan 2): あいか}相変わらず　お{ruby (charSpan 1): はや}早いですね
+"016"
+"017"
+"018"
+"019"	{pause 10}{000c-0002-0000}{000c-0003-0000}{pause 10}それは　{ruby (charSpan 1): なに}何よりです{pause 8}・{pause 8}・{pause 8}・
+"021"	カフェって、{pause 5}{ruby (charSpan 2): いっぱい}一杯のコーヒーで	みんなを　{ruby (charSpan 1): しあわ}幸せにできる、{pause 10}	ステキな　{ruby (charSpan 2): ばしょ}場所ですよね～	{emote: Happiness}わたしも{pause 5}　{ruby (charSpan 2): いっつう}一通の{ruby (charSpan 2): てがみ}手紙で	{ruby (charSpan 1): だれ}誰かを{ruby (charSpan 1): しあわ}幸せにする　お{ruby (charSpan 2): てつだ}手伝いが{pause 10}	できたらいいなぁって{ruby (charSpan 1): おも}思います
+"022"	ここの　コーヒーは{pause 5}	わたしの　{ruby (charSpan 2): げんき}元気の　{ruby (charSpan 1): みなもと}源なんです{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日も　おかげさまで	{ruby (charSpan 2): おい}美味しいコーヒーが{ruby (charSpan 1): の}飲めたので、{pause 5}	お{ruby (charSpan 2): しごと}仕事を　がんばれそうです！
+"023"	{000a-0008-0010-0018-0018-0019-001a-001a-001b-001b-0018}
+"024"	{emote: Happiness}{ruby (charSpan 2): きょう}今日みたいに　{ruby (charSpan 2): てんき}天気のいい{ruby (charSpan 1): ひ}日は、{pause 10}	いつも{ruby (charSpan 2): いじょう}以上に	コーヒーが　{ruby (charSpan 2): おい}美味しく{ruby (charSpan 1): かん}感じますね
+"025"	{emote: Happiness}{ruby (charSpan 1): あさ}朝から　さえないお{ruby (charSpan 2): てんき}天気だからこそ、{pause 10}	{ruby (charSpan 2): おい}美味しいコーヒーを　いただいて{pause 5}	{ruby (charSpan 2): きぶん}気分をスッキリさせたいですね
+"026"	{emote: Happiness}{ruby (charSpan 2): けさ}今朝は　あいにくの{ruby (charSpan 1): あめ}雨ですけど、{pause 10}	{ruby (charSpan 2): おい}美味しいコーヒーを　いただいたら{pause 5}	ユウウツな{ruby (charSpan 2): きぶん}気分が　{ruby (charSpan 1): ふ}吹き{ruby (charSpan 1): と}飛んじゃいました
+"027"	{ruby (charSpan 2): けさ}今朝も　{ruby (charSpan 2): ほんとう}本当に{ruby (charSpan 1): ひ}冷えますね{Wait for input}	{emote: Happiness}{ruby (charSpan 1): あつ}熱いコーヒーで　しっかりと{pause 5}	{ruby (charSpan 1): からだ}体を　{ruby (charSpan 1): あたた}温めておかなくちゃ！
+"028"
+"029"
+"031"	たまには　{ruby (charSpan 1): あね}姉とも{ruby (charSpan 2): いっしょ}一緒に	お{ruby (charSpan 1): ちゃ}茶できれば　いいんですけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 4): きんむじかん}勤務時間が　ちょうど{ruby (charSpan 1): い}入れ{ruby (charSpan 1): ちが}違いなので、{pause 10}	どうしてもタイミングが	{ruby (charSpan 1): あ}合わないんですよね{pause 8}・{pause 8}・{pause 8}・
+"032"	{emote: Thought}{Orange}ぺりお{Color Reset}さんも　いつも	これぐらいの{ruby (charSpan 2): じかん}時間に　ここに{ruby (charSpan 1): く}来るって{pause 5}	{ruby (charSpan 1): い}言ってたんですけど{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Reset}まだ{ruby (charSpan 2): いちど}一度も　{ruby (charSpan 2): いっしょ}一緒になったことが	ないんですよね{Wait for input}{ruby (charSpan 2): いっしょ}一緒に　お{ruby (charSpan 1): ちゃ}茶ができたら	{ruby (charSpan 1): たの}楽しいだろうなぁって　{ruby (charSpan 1): おも}思うんですけど、{pause 10}	ちょっぴり{ruby (charSpan 2): ざんねん}残念です
+"033"	{000c-0001-0000}{pause 5}{emote: Alarmed}{pause 10}そうだ、{000c-0007-0000}{pause 10}{Orange}マスター{Color Reset}{Wait for input}	{ruby (charSpan 1): あね}姉に　{ruby (charSpan 1): さ}差し{ruby (charSpan 1): い}入れをしたいので、{pause 10}	{ruby (charSpan 1): かえ}帰りに　{ruby (charSpan 2): いっぱい}一杯テイクアウトしていきます{000c-0009-0000}
+"034"	{pause 10}{000c-0002-0000}{000c-0003-0000}{pause 10}かしこまりました{pause 8}・{pause 8}・{pause 8}・
+"035"
+"036"
+"037"
+"038"
+"039"
+"041"	{emote: Happiness}ここで　モーニングコーヒーを{ruby (charSpan 1): の}飲んで{pause 5}	{Player name}さんと　おしゃべりすると、{pause 10}	{ruby (charSpan 2): いちにち}一日が{ruby (charSpan 1): はじ}始まった{ruby (charSpan 2): じっかん}実感が　わくんです
+"042"	わたしが　ここに	お{ruby (charSpan 2): じゃま}邪魔するようになったきっかけは、{pause 10}	{ruby (charSpan 1): じつ}実は　わたしの{ruby (charSpan 1): あね}姉なんですよ{Wait for input}{ruby (charSpan 1): あね}姉が　{ruby (charSpan 2): しごと}仕事の{ruby (charSpan 2): こうたい}交代の{ruby (charSpan 2): じかん}時間に{pause 10}	わたしに　ここのコーヒーを	{ruby (charSpan 1): さ}差し{ruby (charSpan 1): い}入れてくれたんです{Wait for input}{emote: Happiness}それが　とっても{ruby (charSpan 2): おい}美味しくて{pause 8}・{pause 8}・{pause 8}・{pause 20}	それ{ruby (charSpan 2): いらい}以来　わたしも	{ruby (charSpan 1): だい}大ファンに　なっちゃいました
+"043"	{emote: Happiness}このお{ruby (charSpan 1): みせ}店は　{Player name}さんみたいに{pause 5}	{ruby (charSpan 2): ひとり}一人で{ruby (charSpan 1): こ}来られる{ruby (charSpan 1): かた}方が　{ruby (charSpan 1): おお}多いので、{pause 10}	わたしも{ruby (charSpan 2): ひとり}一人で　{ruby (charSpan 1): はい}入りやすいんです{Wait for input}{emote: Daydreaming}でも、{pause 10}いつか　{ruby (charSpan 1): す}好きな{ruby (charSpan 1): ひと}人と{ruby (charSpan 2): ふたり}二人で{pause 5}	ここで　お{ruby (charSpan 1): ちゃ}茶してみたいなぁ{0007-0004-0000}{pause 10}・{pause 10}・{pause 10}・{0007-0005-0000}{Wait for input}{pause 5}{emote: Alarmed}{pause 10}あっ、{pause 10}やだ！{pause 20}	{emote: Worry}すみません、{pause 5}わたしったら{pause 8}・{pause 8}・{pause 8}・
+"044"
+"045"

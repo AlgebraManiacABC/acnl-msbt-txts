@@ -1,14 +1,14 @@
 == 0 ==
-"001"	{emote: Thought}
-"002"	{emote: Thought}
-"003"	{0009-0001-0006-04-00-05-00-06-00}
-"004"	{emote: Disbelief}
-"005"	{emote: Disbelief}
-"006"	{emote: Disbelief}
-"007"	{0009-0006-0010-08-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00}
-"008"	{000a-0000-0006-01-09-00-0a-00-ffffffcd}
-"009"	{000a-0000-0006-05-0c-00-0b-00-ffffffcd}
-"010"	{emote: Sunny}
-"011"	{emote: Sunny}
-"012"	{pause 8}
-"013"	{emote: Sunny}
+"001"	{emote: Thought}{ruby (charSpan 2): ひっこ}引越しまで　あと　{Number (0x6)}{ruby (charSpan 1): にち}日か{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Worry}いざとなると、やっぱり	さみしいもんだよね	{emote: Alarmed}アンタも　さみしいって？{pause 40}	{emote: Resigned}バカいってんじゃないよ{pause 20}	そんなこと　{ruby (charSpan 1): おも}思ってないだろ？	{emote: Soft Smile}しんみりしたのは　{ruby (charSpan 2): にがて}苦手さ！{pause 20}	{ruby (charSpan 1): わら}笑って　{ruby (charSpan 1): おく}送り{ruby (charSpan 1): だ}出してくれなきゃね！{Player can respond (0000):0003-0000-0007-0000}	{ruby (charSpan 1): い}行かないで	{ruby (charSpan 2): げんき}元気でね
+"002"	{emote: Thought}いよいよ　{ruby (charSpan 2): あした}明日　{ruby (charSpan 2): ひっこ}引越しかぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}{ruby (charSpan 1): おも}思えば　この　{Town name (pink)}{ruby (charSpan 1): むら}村は、	ホント　{ruby (charSpan 3): こせいてき}個性的なヤツ　{ruby (charSpan 1): おお}多かったな	{emote: Agreement}{ruby (charSpan 2): まいにち}毎日　ドタバタしてたけど、	なんだかんだで　{ruby (charSpan 1): たの}楽しかったよ！		{emote: Daydreaming}{ruby (charSpan 1): つぎ}次の{ruby (charSpan 1): むら}村でも	こんな{ruby (charSpan 2): であ}出会いが　{ruby (charSpan 1): ま}待ってると	いいな{pause 8}・{pause 8}・{pause 8}・{pause 20}{Player can respond (0000):0003-0000-0007-0000}	{ruby (charSpan 1): い}行かないで！	{ruby (charSpan 3): だいじょうぶ}大丈夫だよ！
+"003"	{0009-0001-0006-0004-0005-0006}
+"004"	{emote: Disbelief}え？{pause 20}　{ruby (charSpan 1): い}行かないでって？{pause 40}	マジで　{ruby (charSpan 1): い}言ってんの？		{emote: Reset}{ruby (charSpan 1): おどろ}驚いた{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Worry}まさか	アンタが　そんなこと	{ruby (charSpan 1): い}言うなんてね！	{emote: Soft Smile}アンタが　そう{ruby (charSpan 1): い}言うなら、{pause 20}いいよ！{pause 20}	しばらく　ここにいてあげる！	{pause 20}{catchphrase}！
+"005"	{emote: Disbelief}な{pause 8}・{pause 8}・{pause 8}・{pause 20}なんだい、	いきなり　そんなこと{ruby (charSpan 1): い}言って！		{emote: Worry}しょうがないなぁ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sunny}よし　わかった！{pause 20}	{ruby (charSpan 2): ひっこ}引越しは　やめるよ！{emote: Soft Smile}	{emote: Reset}そんな{ruby (charSpan 1): かお}顔　してるヤツ　ほうって	{ruby (charSpan 1): い}行けるほど　ウチが	{ruby (charSpan 1): なさ}情けの{ruby (charSpan 1): あさ}浅いヤツに　{ruby (charSpan 1): み}見えるかい？	{emote: Soft Smile}しばらくいるから、	また　よろしくね！　{pause 20}{catchphrase}！
+"006"	{emote: Disbelief}ええっ？！{Wait for input}	{emote: Worry}アンタ{pause 8}・{pause 8}・{pause 8}・{pause 20}ウチが　そういうの{ruby (charSpan 1): き}聞くと	ほっとけないって　{ruby (charSpan 1): し}知ってるだろ？	{emote: Sigh}しょうがないね{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Worry}{ruby (charSpan 2): ひっこ}引越しは　やめだよ！		{emote: Agreement}アンタみたいなのが　いる{ruby (charSpan 1): かぎ}限り、	この{ruby (charSpan 1): むら}村には　まだまだ	{ruby (charSpan 2): しごと}仕事が　ありそうだ！　{pause 20}{catchphrase}！
+"007"	{0009-0006-0010-0008-000d-000d-000d-000d-000d-000d-000d}
+"008"	{000a-0000-0006-0901-0a00-cd00}
+"009"	{000a-0000-0006-0c05-0b00-cd00}
+"010"	{emote: Sunny}オウともさ！{pause 20}	{pause 8}・{pause 8}・{pause 8}・{pause 20}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Disbelief}あっ？！{pause 40}	{ruby (charSpan 1): いま}今ので　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出した！	{emote: Mistaken}しまったー！{pause 20}　{ruby (charSpan 2): しっぱい}失敗した！{Wait for input}	{emote: Worry}やっぱ　{ruby (charSpan 2): ひっこ}引越し　{ruby (charSpan 1): と}取りやめ！{pause 20}	この{ruby (charSpan 1): むら}村で　やり{ruby (charSpan 1): のこ}残したことあったよ！	{emote: Shyness}{pause 8}・{pause 8}・{pause 8}・{pause 20}へへ{pause 40}	おさわがせしちゃって　{ruby (charSpan 1): わる}悪いね！{pause 20}	ゴメン！	{emote: Greetings}そんなわけで　この　{Villager's name (orange)}、{pause 10}	もうしばらくは　{ruby (charSpan 2): せわ}世話になります！	{pause 20}{catchphrase}！
+"011"	{emote: Sunny}オウともさ！{pause 20}	{pause 8}・{pause 8}・{pause 8}・{pause 20}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Disbelief}ああっ？！{pause 40}	アンタの{ruby (charSpan 1): かお}顔　{ruby (charSpan 1): み}見てたら{pause 8}　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出した！	{emote: Mistaken}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	やっぱ　{ruby (charSpan 2): ひっこ}引越しやめ！{pause 40}	やり{ruby (charSpan 1): のこ}残してた　ことがある！	{emote: Resigned}あ～あ、カッコわる～！{Wait for input}	{emote: Reset}そーいうわけで、もう　しばらく	この{ruby (charSpan 1): むら}村に　いるよ！{pause 20}　よろしく！
+"012"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Disbelief}あっ？！{pause 20}	{ruby (charSpan 1): いま}今の　アンタの{ruby (charSpan 1): かお}顔で	{ruby (charSpan 2): だいじ}大事なこと　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出した！	{emote: Mistaken}やっばー！{pause 20}	そのままにしてたら　{ruby (charSpan 2): たいへん}大変だ！		{emote: Reset}えーと{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Soft Smile}ゴメン！{pause 20}	やっぱ　{ruby (charSpan 2): ひっこ}引越し　やめにする！		{emote: Sigh}{ruby (charSpan 2): しんゆう}親友の{ruby (charSpan 1): まえ}前で　こんな{ruby (charSpan 1): てい}体たらく、	{ruby (charSpan 2): かっこう}格好{ruby (charSpan 1): わる}悪いなぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Soft Smile}ってわけで、	もうしばらく　お{ruby (charSpan 2): せわ}世話になります！
+"013"	{emote: Sunny}エヘヘ、ありがと！{pause 40}	アンタに　そう{ruby (charSpan 1): い}言ってもらえると	ホッとするよ！　{pause 20}{catchphrase}！

@@ -1,64 +1,64 @@
 == 0 ==
-"001"	{pause 10}
-"002"	{emote: Happiness}
-"003"	{emote: Shocked}
-"004"	{Year}
-"005"	{emote: Alarmed}
-"006"	{emote: Sunny}
-"007"	{pause 5}
-"008"	{pause 5}
-"009"	ところで　キミ{pause 8}
-"010"	{emote: Reset}
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{pause 5}
-"014"	{pause 5}
-"015"	それで　{Player name}
-"016"	{Town name (pink)}
-"017"	{emote: Thought}
-"018"	あれ？{pause 8}
-"019"	{emote: Thought}
-"020"	{emote: Alarmed}
-"021"	{emote: Worry}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
-"024"	それで、{pause 8}
-"025"	ってことは、{pause 5}!
-"026"	{pause 5}
-"027"	{emote: Happiness}
-"028"	{emote: Shocked}
-"029"	え～っ！{pause 10}
-"030"	{emote: Alarmed}
-"031"	{pause 5}
-"032"	{pause 5}
-"033"	{pause 5}
-"034"	{pause 5}
-"035"	{emote: Laughter}
-"036"	{pause 5}
-"037"	{pause 5}
-"038"	{pause 5}
-"039"	{pause 5}
-"040"	よ～し！{pause 15}
-"041"	{emote: Alarmed}
-"042"	{pause 5}
-"043"	{emote: Alarmed}
-"044"	{emote: Happiness}
-"045"	{pause 5}
-"046"	
-"047"	
-"048"	
-"049"	{emote: Surprise}
-"051"	{pause 5}
-"052"	{emote: Happiness}
-"053"	{emote: Laughter}
-"054"	ところで、{pause 10}
-"055"	{emote: Alarmed}
-"056"	それで、{pause 8}
-"057"	
-"058"	
-"059"	まもなくぅ～{pause 15}!
-"061"	それで、{pause 10}
-"062"	{pause 5}
-"063"	{emote: Surprise}
-"064"	
-"065"	
+"001"	{pause 10}あの、{pause 20}	ちょっと{pause 5}　すいませーん！{emote: Reset}{Wait for input}{ruby (charSpan 1): いま}今って、{pause 8}	{Year}{ruby (charSpan 1): ねん}年{Month}{ruby (charSpan 1): がつ}月{Day}{ruby (charSpan 1): にち}日の{pause 15}	{am/pm}{Hour}{ruby (charSpan 1): じ}時{Minutes}{000e-000b-0000}で{pause 5}{emote: Curious}　{ruby (charSpan 1): あ}合ってるかなぁ？{000f-0005-0004-0000-0000}	{ruby (charSpan 1): あ}合ってるよ	{ruby (charSpan 1): ちが}違うよ
+"002"	{emote: Happiness}{ruby (charSpan 1): あ}合ってたんだ、{pause 10}{ruby (charSpan 1): よ}良かったー！{Wait for input}	オレの{ruby (charSpan 2): とけい}時計、{pause 5}{emote: Resigned}{pause 10}すぐ{ruby (charSpan 1): くる}狂っちゃうんだよねー
+"003"	{emote: Shocked}{pause 5}えっ！{pause 8}　{ruby (charSpan 1): ちが}違うの？！{pause 15}	{emote: Reset}ちょっと{ruby (charSpan 1): おし}教えてくれる？
+"004"	{Year}{ruby (charSpan 1): ねん}年{Month}{ruby (charSpan 1): がつ}月{Day}{ruby (charSpan 1): にち}日の{pause 5}	{am/pm}{Hour}{ruby (charSpan 1): じ}時{Minutes}{000e-000b-0000}{pause 5}・{pause 5}・{pause 5}・{pause 10}っと！{Wait for input}	{emote: Curious}{ruby (charSpan 2): まちが}間違いない？{confirmation-02}{000f-0005-0004-0000-0000}	バッチリ！	{ruby (charSpan 1): ちが}違うって！
+"005"	{emote: Alarmed}あれ？{pause 15}　{ruby (charSpan 1): き}聞き{ruby (charSpan 2): まちが}間違えた？{pause 20}	{emote: Happiness}じゃあ　もっかい{ruby (charSpan 1): おし}教えて！
+"006"	{emote: Sunny}{pause 5}ありがと！{pause 15}	{ruby (charSpan 2): とけい}時計{ruby (charSpan 1): あ}合わせてくるの　{ruby (charSpan 1): わす}忘れちゃってさー！
+"007"	{pause 5}・{pause 5}・{pause 5}・{pause 10}{ruby (charSpan 1): まえ}前、{pause 10}{ruby (charSpan 2): しつれい}失礼するよ！
+"008"	{pause 5}・{pause 5}・{pause 5}・{pause 5}って、{pause 5}{emote: Alarmed}{pause 10}あれっ？！{pause 15}	{emote: Happiness}キミって、{pause 5}{Player name}さんだよねぇ？！{Wait for input}{emote: Laughter}ほら！{pause 15}	{ruby (charSpan 1): まえ}前にも　{ruby (charSpan 1): おな}同じように	{ruby (charSpan 2): れっしゃ}列車の{ruby (charSpan 1): なか}中で　{ruby (charSpan 1): はな}話したじゃん！{emote: Happiness}
+"009"	ところで　キミ{pause 8}・{pause 8}・{pause 8}・{0007-0004-0000}{pause 10}{emote: Alarmed}{Text size 75%}おっと！{Text size 100%}{pause 20}{0007-0005-0000}	{pause 5}{emote: Reset}{pause 10}{ruby (charSpan 1): さき}先に　{emote: Curious}{ruby (charSpan 2): なまえ}名前を{ruby (charSpan 1): おし}教えてもらっていい？
+"010"	{emote: Reset}へぇー、{pause 10}{Player name}さんかぁ{pause 5}・{pause 5}・{pause 5}・{pause 15}	{emote: Happiness}いい{ruby (charSpan 2): なまえ}名前だね！{000f-0006-0006-0000-0000-0000}	カッコイイだろ	カワイイでしょ	{ruby (charSpan 1): ちが}違うよ
+"011"	{emote: Agreement}うんうん！{pause 15}	{emote: Happiness}{ruby (charSpan 1): おとこ}男らしくて、{pause 8}キミにピッタリだと{ruby (charSpan 1): おも}思うよ！{000f-0000-0004-0000-0000}	ありがとう！	{ruby (charSpan 1): おんな}女なんですけど・・・
+"012"	{emote: Agreement}うんうん！{pause 15}	{emote: Happiness}{ruby (charSpan 1): おんな}女の{ruby (charSpan 1): こ}子っぽくて、{pause 8}	キミにピッタリだと{ruby (charSpan 1): おも}思うよ！{000f-0000-0004-0000-0000}	ありがとう！	{ruby (charSpan 1): おとこ}男なんだけど・・・
+"013"	{pause 5}{emote: Alarmed}{pause 5}あらら、{pause 10}{ruby (charSpan 1): おんな}女の{ruby (charSpan 1): こ}子だったのか！{Wait for input}	{emote: Worry}それは　{ruby (charSpan 2): しつれい}失礼しちゃったね、{pause 10}ごめんよぉ！
+"014"	{pause 5}{emote: Alarmed}{pause 5}えぇっ！　{pause 10}{ruby (charSpan 1): おとこ}男の{ruby (charSpan 1): こ}子だったのか！{Wait for input}	{emote: Worry}そいつは{ruby (charSpan 2): しっけい}失敬！{pause 10}　{ruby (charSpan 1): わる}悪かったね
+"015"	それで　{Player name}さん{pause 5}・{pause 5}・{pause 5}・{pause 15}	キミはこれから{pause 5}{emote: Curious}　どこへ{ruby (charSpan 1): い}行くの？
+"016"	{Town name (pink)}{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): い}行くの？{000f-0005-0004-0000-0000}	そうそう！	{ruby (charSpan 1): ちが}違うよ
+"017"	{emote: Thought}ふ～ん、{pause 8}{Town name (pink)}{ruby (charSpan 1): むら}村ねぇ{pause 8}・{pause 8}・{pause 8}・{pause 10}	{ruby (charSpan 1): き}聞いた{ruby (charSpan 1): おぼ}覚えがないけど、{pause 5}	どこにあるんだろ{pause 8}・{pause 8}・{pause 8}・	{pause 5}{emote: Inspired}{pause 10}あ、{pause 10}そうだ！{pause 15}{emote: Reset}　{ruby (charSpan 2): ちず}地図、{ruby (charSpan 2): ちず}地図{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Thought}この{ruby (charSpan 2): ろせん}路線だと{pause 8}・{pause 8}・{pause 8}・{pause 10}	{emote: Alarmed}{pause 10}おっ、{pause 8}もしかして{pause 5}　ここかな？！
+"018"	あれ？{pause 8}　{ruby (charSpan 1): ちが}違った？{pause 20}	{emote: Reset}じゃあ{pause 8}・{pause 8}・{pause 8}・{pause 8}こっちかな？
+"019"	{emote: Thought}ここでも　ないのかぁ{pause 8}・{pause 8}・{pause 8}・{pause 8}	じゃあ{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}この{ruby (charSpan 1): むら}村かな？
+"020"	{emote: Alarmed}あらら、{pause 8}また{ruby (charSpan 1): ちが}違った！{pause 15}	{emote: Reset}・{pause 8}・{pause 8}・{pause 8}あ、{pause 8}でもそれなら	{emote: Happiness}ここって　ことだよね！
+"021"	{emote: Worry}えー！{pause 15}　そんなぁ！{pause 20}	{emote: Thought}でも、{pause 5}この{ruby (charSpan 2): ろせん}路線にある{ruby (charSpan 1): えき}駅といったら{pause 8}	これくらいなんだけど{pause 5}・{pause 5}・{pause 5}・	{emote: Happiness}もっかい　{ruby (charSpan 2): ちず}地図を{ruby (charSpan 1): だ}出すから{pause 8}	よーく{ruby (charSpan 1): み}見てみて！{pause 15}	{emote: Reset}・{pause 8}・{pause 8}・{pause 8}じゃあまず、{pause 8}{emote: Curious}ここは？
+"022"	{emote: Happiness}なるほど、{pause 8}ここが	{Town name (pink)}{ruby (charSpan 1): むら}村だったんだ！
+"023"	{emote: Happiness}ふぅ、{pause 8}{ruby (charSpan 1): み}見つかって　{ruby (charSpan 1): よ}良かった！{pause 20}	ここが　{Town name (pink)}{ruby (charSpan 1): むら}村だったんだね
+"024"	それで、{pause 8}キミは　その	{Town name (pink)}{ruby (charSpan 1): むら}村には{pause 8}　よく{ruby (charSpan 1): い}行くの？{000f-0001-0006-0000-0000-0000}	{ruby (charSpan 1): い}行ったことない	{ruby (charSpan 1): おぼ}覚えてないや	ヒミツ！
+"025"	ってことは、{pause 5}{emote: Happiness}{ruby (charSpan 2): きょう}今日が{ruby (charSpan 1): はじ}初めてなんだ！{pause 20}	そりゃ　{ruby (charSpan 1): たの}楽しみだね{Wait for input}	ちなみに、{pause 10}{emote: Curious}{ruby (charSpan 1): なに}何しに{ruby (charSpan 1): い}行くの？{000f-0000-0004-0000-0000}	お{ruby (charSpan 2): ひっこ}引越し	ナイショ！
+"026"	{pause 5}{emote: Alarmed}{pause 5}へぇ～、{pause 5}そうなんだ！{pause 10}	{emote: Happiness}いいなぁ！{Wait for input}{emote: Reset}けど、{pause 5}{ruby (charSpan 2): じっさい}実際に{ruby (charSpan 1): い}行くのは	{ruby (charSpan 2): きょう}今日が{ruby (charSpan 1): はじ}初めてってことは、{pause 5}	お{ruby (charSpan 1): うち}家は　{ruby (charSpan 1): み}見ずに{ruby (charSpan 1): き}決めちゃったってこと？{000f-0000-0004-0000-0000}	これから{ruby (charSpan 1): さが}探す	{ruby (charSpan 1): かんが}考えてなかった
+"027"	{emote: Happiness}なるほど、{pause 10}{ruby (charSpan 1): つ}着いてから{pause 5}　{ruby (charSpan 1): さが}探すんだ！{pause 20}	そりゃあ　{ruby (charSpan 2): よけい}余計に	{ruby (charSpan 2): きたい}期待も　ふくらむね！{Wait for input}{emote: Reset}キミにピッタリの　お{ruby (charSpan 1): うち}家が{ruby (charSpan 1): み}見つかって、{pause 10}	{ruby (charSpan 1): はじ}初めての{ruby (charSpan 2): とち}土地での　{ruby (charSpan 1): く}暮らしが{pause 5}	{ruby (charSpan 1): たの}楽しいものになることを　{ruby (charSpan 1): ねが}願ってるよ！
+"028"	{emote: Shocked}{pause 10}ええっ？！{pause 15}　それで{ruby (charSpan 3): だいじょうぶ}大丈夫なの？{pause 20}	{emote: Thought}なんだか　{ruby (charSpan 2): しんぱい}心配だなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{pause 5}{emote: Happiness}{pause 5}ま、{pause 10}でも　{Player name}さんって	なんか　{ruby (charSpan 1): うん}運が{ruby (charSpan 1): よ}良さそうに{ruby (charSpan 1): み}見えるし、{pause 15}	{emote: Laughter}なんだかんだで　うまくいきそうだよね！{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}キミにピッタリの　お{ruby (charSpan 1): うち}家が{ruby (charSpan 1): み}見つかって、{pause 10}	{ruby (charSpan 1): はじ}初めての{ruby (charSpan 2): とち}土地での　{ruby (charSpan 1): く}暮らしが{pause 5}	{ruby (charSpan 1): たの}楽しいものになることを　{ruby (charSpan 1): ねが}願ってるよ！
+"029"	え～っ！{pause 10}　{ruby (charSpan 1): おし}教えてくれないの～！{pause 15}	{emote: Thought}う～ん、{pause 5}{ruby (charSpan 1): き}気になるなぁ{pause 5}・{pause 5}・{pause 5}・{pause 10}	なんだろ{pause 5}・{pause 5}・{pause 5}・{pause 5}	{emote: Inspired}{pause 10}あ、{pause 10}わかったかも！{pause 15}	{emote: Reset}もしかして{pause 10}{emote: Curious}　お{ruby (charSpan 2): ひっこ}引越し？{000f-0000-0004-0000-0000}	せいかーい！	バレたか・・・
+"030"	{emote: Alarmed}えっ、{pause 10}ホントに？！{Wait for input}	{pause 5}{emote: Laughter}{pause 5}あはは！{pause 10}　{ruby (charSpan 1): あ}当たっちゃった！{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}それにしても　{ruby (charSpan 2): ひっこ}引越しかぁ～！{pause 15}	{emote: Happiness}{ruby (charSpan 1): あたら}新しい{ruby (charSpan 2): せいかつ}生活が　{ruby (charSpan 1): はじ}始まるときって{pause 5}	ワクワクするよね！{Wait for input}{emote: Reset}{ruby (charSpan 1): はじ}初めての{ruby (charSpan 2): とち}土地での　{ruby (charSpan 1): く}暮らしが{pause 5}	{ruby (charSpan 1): たの}楽しいものになることを　{ruby (charSpan 1): ねが}願ってるよ！
+"031"	{pause 5}{emote: Laughter}{pause 5}あはは！{pause 10}	やったね！{pause 10}　{ruby (charSpan 2): みぬ}見抜いちゃった！{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}それにしても　{ruby (charSpan 2): ひっこ}引越しかぁ～！{pause 15}	{emote: Happiness}{ruby (charSpan 1): あたら}新しい{ruby (charSpan 2): せいかつ}生活が　{ruby (charSpan 1): はじ}始まるときって{pause 5}	ワクワクするよね！{Wait for input}{emote: Reset}{ruby (charSpan 1): はじ}初めての{ruby (charSpan 2): とち}土地での　{ruby (charSpan 1): く}暮らしが{pause 5}	{ruby (charSpan 1): たの}楽しいものになることを　{ruby (charSpan 1): ねが}願ってるよ！
+"032"	{pause 5}{emote: Alarmed}{pause 5}えっ、{pause 10}そうなの？！{Wait for input}	{emote: Reset}じゃあ{pause 5}・{pause 5}・{pause 5}・{pause 5}{ruby (charSpan 2): きょう}今日は　いったい	{emote: Curious}{ruby (charSpan 1): なに}何しに　{ruby (charSpan 1): い}行くわけ？{000f-0000-0004-0000-0000}	お{ruby (charSpan 2): ひっこ}引越し	わかんない
+"033"	{pause 5}{emote: Thought}{pause 5}へぇ～{pause 8}・{pause 8}・{pause 8}・{pause 15}	{ruby (charSpan 1): い}行ったことがあるか　{ruby (charSpan 1): おぼ}覚えてもいない{ruby (charSpan 1): ところ}所へ	お{ruby (charSpan 2): ひっこ}引越しするだなんて、{pause 10}{ruby (charSpan 1): か}変わってるね{Wait for input}なにか　{ruby (charSpan 3): ふしぎ}不思議な{ruby (charSpan 1): ちから}力で	{ruby (charSpan 1): みちび}導かれたような　{ruby (charSpan 1): かん}感じなのかな{pause 5}・{pause 5}・{pause 5}・{pause 5}？{000f-0000-0004-0000-0000}	そうだと{ruby (charSpan 1): おも}思う	そうでもない
+"034"	{pause 5}{emote: Surprise}{pause 5}やっぱり、{pause 10}{Player name}さん{ruby (charSpan 2): じしん}自身も	そういう{ruby (charSpan 1): ふう}風に　{ruby (charSpan 1): おも}思うんだ！{Wait for input}	{emote: Happiness}こりゃ　よほど{ruby (charSpan 1): つよ}強い{ruby (charSpan 1): えん}縁があるんだろうね！	{emote: Thought}そんな{ruby (charSpan 1): ふう}風にして　{ruby (charSpan 1): みちび}導かれていく{ruby (charSpan 2): とち}土地に	いったい　{ruby (charSpan 1): なに}何が{ruby (charSpan 1): ま}待ってるのか{pause 5}・{pause 5}・{pause 5}・{pause 20}	{emote: Happiness}{pause 5}{ruby (charSpan 2): そうぞう}想像しただけで　ワクワクするや！{Wait for input}{Player name}さんに、{pause 5}	{Town name (pink)}{ruby (charSpan 1): むら}村で　ステキな{ruby (charSpan 2): であ}出会いが	{ruby (charSpan 1): おとず}訪れることを　{ruby (charSpan 1): ねが}願ってるよ！
+"035"	{emote: Laughter}あはは！{pause 20}	それでも　お{ruby (charSpan 2): ひっこ}引越しするだなんて、{pause 10}	それこそ{ruby (charSpan 3): ふしぎ}不思議なもんだね！{emote: Happiness}	とにかく、{pause 10}{Player name}さんの	{Town name (pink)}{ruby (charSpan 1): むら}村での　{ruby (charSpan 1): あたら}新しい{ruby (charSpan 2): せいかつ}生活が	{ruby (charSpan 1): たの}楽しいものになることを　{ruby (charSpan 1): ねが}願ってるよ！
+"036"	{pause 5}{emote: Thought}{pause 5}へぇ～{pause 8}・{pause 8}・{pause 8}・{pause 15}	{emote: Happiness}なんだか　ホントに	{ruby (charSpan 1): き}気の{ruby (charSpan 1): む}向くままって　{ruby (charSpan 1): かん}感じだね！{Wait for input}{pause 5}{emote: Laughter}{pause 5}もしかしたら　そのまま{ruby (charSpan 1): いきお}勢いで	{Town name (pink)}{ruby (charSpan 1): むら}村に	{ruby (charSpan 1): す}住みついちゃったりして！{pause 5}{emote: Happiness}{000f-0000-0004-0000-0000}	そのつもり	そんな{ruby (charSpan 1): き}気がする
+"037"	{pause 5}{emote: Alarmed}{pause 5}えっ！　{pause 10}そうなの？！{pause 15}	{emote: Reset}もう　{ruby (charSpan 1): こころ}心に{ruby (charSpan 1): き}決めちゃってるなんて、{pause 10}	{emote: Agreement}よっぽど{ruby (charSpan 1): なに}何か　ひかれるものがあるんだね	{emote: Thought}そんな{ruby (charSpan 1): ふう}風に　ふらりと{ruby (charSpan 1): おとず}訪れる{ruby (charSpan 2): とち}土地に	いったい　{ruby (charSpan 1): なに}何が{ruby (charSpan 1): ま}待ってるのか{pause 5}・{pause 5}・{pause 5}・{pause 20}	{emote: Happiness}{pause 5}{ruby (charSpan 2): そうぞう}想像しただけで　ワクワクするや！{Wait for input}{Player name}さんに、{pause 5}	{Town name (pink)}{ruby (charSpan 1): むら}村で　ステキな{ruby (charSpan 2): であ}出会いが	{ruby (charSpan 1): おとず}訪れることを　{ruby (charSpan 1): ねが}願ってるよ！
+"038"	{pause 5}{emote: Alarmed}{pause 5}やっぱり、{pause 10}{Player name}さん{ruby (charSpan 2): じしん}自身も	そういう{ruby (charSpan 2): よかん}予感が　あるんだ！{Wait for input}{emote: Thought}そんな{ruby (charSpan 1): ふう}風に　ふらりと{ruby (charSpan 1): おとず}訪れる{ruby (charSpan 2): とち}土地に	いったい　{ruby (charSpan 1): なに}何が{ruby (charSpan 1): ま}待ってるのか{pause 5}・{pause 5}・{pause 5}・{pause 20}	{emote: Happiness}{pause 5}{ruby (charSpan 2): そうぞう}想像しただけで　ワクワクするや！{Wait for input}{Player name}さんに、{pause 5}	{Town name (pink)}{ruby (charSpan 1): むら}村で　ステキな{ruby (charSpan 2): であ}出会いが	{ruby (charSpan 1): おとず}訪れることを　{ruby (charSpan 1): ねが}願ってるよ！
+"039"	{pause 5}{emote: Laughter}{pause 5}あはは！{pause 10}　ヒミツなんだ！{pause 20}	{emote: Reset}じゃあ、{pause 10}{ruby (charSpan 1): なに}何しに　{ruby (charSpan 1): い}行くのかも	{emote: Glare}ヒミツなのかな？{000f-0000-0004-0000-0000}	もちろんヒミツ	{ruby (charSpan 2): ひっこ}引越しだよ
+"040"	よ～し！{pause 15}	{emote: Happiness}じゃあ{ruby (charSpan 2): すいり}推理して　みせようか！{Wait for input}{emote: Thought}そうだなぁ{pause 5}・{pause 5}・{pause 5}・{pause 10}	{ruby (charSpan 1): て}手ぶらで　その{ruby (charSpan 2): ふくそう}服装でしょ{pause 5}・{pause 5}・{pause 5}・{Wait for input}{pause 5}{emote: Inspired}{pause 10}と{pause 5}　{ruby (charSpan 1): み}見せかけて、{pause 15}	{ruby (charSpan 1): じつ}実は{pause 5}{emote: Curious}　お{ruby (charSpan 2): ひっこ}引越しじゃない？{000f-0000-0004-0000-0000}	ピンポーン！	やるな・・・
+"041"	{emote: Alarmed}えっ、{pause 10}ホントにそうなの？！{Wait for input}	{pause 5}{emote: Laughter}{pause 5}あはは！{pause 10}　テキトーに{ruby (charSpan 1): い}言ったら、{pause 10}	{ruby (charSpan 1): あ}当たっちゃった！{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}それにしても　{ruby (charSpan 2): ひっこ}引越しかぁ～！{pause 15}	{emote: Happiness}{ruby (charSpan 1): あたら}新しい{ruby (charSpan 2): せいかつ}生活が　{ruby (charSpan 1): はじ}始まるときって{pause 5}	ワクワクするよね！{Wait for input}{emote: Reset}キミの　{Town name (pink)}{ruby (charSpan 1): むら}村での{ruby (charSpan 1): く}暮らしが	{ruby (charSpan 1): たの}楽しいものに　なることを	{ruby (charSpan 1): ねが}願ってるよ！
+"042"	{pause 5}{emote: Laughter}{pause 5}あはは！{pause 10}	キミ、{pause 10}なんか　{ruby (charSpan 2): おもしろ}面白いよね！{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}それにしても　{ruby (charSpan 2): ひっこ}引越しかぁ～！{pause 15}	{emote: Happiness}キミみたいに　{ruby (charSpan 1): たの}楽しい{ruby (charSpan 1): ひと}人なら、{pause 10}	きっと{ruby (charSpan 1): たの}楽しい{ruby (charSpan 2): まいにち}毎日に　なりそうだね！{Wait for input}{emote: Reset}キミの　{Town name (pink)}{ruby (charSpan 1): むら}村での{ruby (charSpan 1): く}暮らしが	{ruby (charSpan 2): じゅうじつ}充実したものに　なることを	{ruby (charSpan 1): ねが}願ってるよ！
+"043"	{emote: Alarmed}あれれ？！{pause 15}	そこは　あっさり{ruby (charSpan 1): おし}教えてくれるんだ！{Wait for input}{pause 5}{emote: Laughter}{pause 5}あはは！{pause 10}	キミ、{pause 10}なんか　{ruby (charSpan 2): おもしろ}面白いよね！{pause 10}{emote: Happiness}{000f-0000-0004-0000-0000}	よく{ruby (charSpan 1): い}言われます	いたって{ruby (charSpan 3): まじめ}真面目です
+"044"	{emote: Happiness}やっぱり　そうだよねぇ！{Wait for input}{emote: Reset}それにしても　{ruby (charSpan 2): ひっこ}引越しかぁ～！{pause 15}	{emote: Happiness}キミみたいに　{ruby (charSpan 1): たの}楽しい{ruby (charSpan 1): ひと}人なら、{pause 10}	きっと{ruby (charSpan 1): たの}楽しい{ruby (charSpan 2): まいにち}毎日に　なりそうだね！{Wait for input}{emote: Reset}キミの　{Town name (pink)}{ruby (charSpan 1): むら}村での{ruby (charSpan 1): く}暮らしが	{ruby (charSpan 2): じゅうじつ}充実したものに　なることを	{ruby (charSpan 1): ねが}願ってるよ！
+"045"	{pause 5}{emote: Laughter}{pause 10}いやいや！{pause 15}	やっぱり　{ruby (charSpan 2): おもしろ}面白いよ！{pause 10}{emote: Happiness}{Wait for input}ホントにキミ、{pause 10}いいなぁ～！{pause 20}	{emote: Reset}キミと{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): むら}村で　{ruby (charSpan 1): く}暮らせたら、{pause 5}	{ruby (charSpan 2): まいにち}毎日が　もっと{ruby (charSpan 1): たの}楽しいんだろうなぁ　　	{emote: Happiness}なんだかオレも　{Town name (pink)}{ruby (charSpan 1): むら}村に	{ruby (charSpan 2): ひっこ}引越したく　なっちゃったよ！{Wait for input}	{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Laughter}{pause 10}な～んてね！{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}とにかく、{pause 10}キミが　{Town name (pink)}{ruby (charSpan 1): むら}村で	{ruby (charSpan 2): じゅうじつ}充実した{ruby (charSpan 2): まいにち}毎日を　{ruby (charSpan 1): す}過ごせることを	{ruby (charSpan 1): ねが}願ってるよ！
+"046"
+"047"
+"048"
+"049"	{emote: Surprise}おっと！{pause 15}	{emote: Reset}もう　{Town name (pink)}{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): つ}着くみたいだね{Wait for input}おしゃべりに　{ruby (charSpan 1): つ}付き{ruby (charSpan 1): あ}合ってくれて	ありがとう！{Wait for input}	{emote: Happiness}おかげで{pause 5}　{ruby (charSpan 1): たの}楽しかったよ{Wait for input}{emote: Greetings}それじゃ、{pause 5}{ruby (charSpan 2): げんき}元気でね！{pause 15}	バイバーイ！
+"051"	{pause 5}{emote: Alarmed}{pause 10}ねぇねぇ！{pause 10}{emote: Reset}　ちょっといいかな？{Wait for input}	{emote: Happiness}さっき、{pause 5}{Town name (pink)}{ruby (charSpan 2): むらい}村行きの	キップを{pause 5}　{ruby (charSpan 1): か}買ってたでしょ！{Wait for input}{emote: Reset}オレ、{pause 10}あの{ruby (charSpan 1): むら}村に	{ruby (charSpan 3): かおみし}顔見知りがいるんだよねー！{Wait for input}あっ、{pause 10}{emote: Happiness}ここ　{ruby (charSpan 1): すわ}座ってもいい？{000f-0005-0004-0000-0000}	どうぞ！	ダメ！
+"052"	{emote: Happiness}へへっ！{pause 10}　ありがと！
+"053"	{emote: Laughter}ケチくさいこと、{pause 5}{ruby (charSpan 1): い}言わないの！
+"054"	ところで、{pause 10}{emote: Soft Smile}キミの{ruby (charSpan 2): なまえ}名前は？
+"055"	{emote: Alarmed}えっ！{pause 10}	キミも　{Player name}さんなの？！{Wait for input}{emote: Reset}{Town name (pink)}{ruby (charSpan 1): むら}村の　オレの{ruby (charSpan 1): し}知り{ruby (charSpan 1): あ}合いも	{Player name}っていうんだよ～！{Wait for input}{emote: Thought}う～ん{pause 5}・{pause 5}・{pause 5}・{pause 10}	{emote: Reset}まぎらわしいから、{pause 5}	{emote: Happiness}{ruby (charSpan 1): ちが}違う{ruby (charSpan 1): よ}呼び{ruby (charSpan 1): かた}方　{ruby (charSpan 1): おし}教えて！
+"056"	それで、{pause 8}{Player name}さんは	{Town name (pink)}{ruby (charSpan 1): むら}村には{pause 5}{emote: Curious}　よく{ruby (charSpan 1): い}行くの？{000f-0001-0006-0000-0000-0000}	{ruby (charSpan 1): い}行ったことない	{ruby (charSpan 1): おぼ}覚えてないや	ヒミツ！
+"057"
+"058"
+"059"	まもなくぅ～{pause 15}	　　　　{Town name (pink)}{ruby (charSpan 1): むら}村ァ～{pause 15}	　　　　　　　　　{Town name (pink)}{ruby (charSpan 1): むら}村ァ～{Wait <005a 0000> 'time'}
+"061"	それで、{pause 10}{ruby (charSpan 2): きょう}今日は　{emote: Curious}どこまで{ruby (charSpan 1): い}行くの？
+"062"	{pause 5}{emote: Alarmed}{pause 10}それにしても　すごい{ruby (charSpan 2): にもつ}荷物だけど{pause 5}・{pause 5}・{pause 5}・{pause 15}	{emote: Reset}{Town name (pink)}{ruby (charSpan 1): むら}村には　いったい	{ruby (charSpan 1): なに}何しに{pause 5}・{pause 5}・{pause 5}・{0007-0008-0004-003c-0000}
+"063"	{emote: Surprise}おっと！{pause 15}	{emote: Reset}もう　{Town name (pink)}{ruby (charSpan 1): むら}村に{ruby (charSpan 1): つ}着いちゃうね{Wait for input}もっと{ruby (charSpan 2): いろいろ}色々　{ruby (charSpan 1): き}聞きたかったのに、{pause 5}{ruby (charSpan 2): ざんねん}残念！{pause 15}	{emote: Happiness}けど、{pause 10}また{ruby (charSpan 1): あ}会えて　うれしかったよ！{Wait for input}{emote: Greetings}{pause 5}それじゃ、{pause 10}{ruby (charSpan 2): げんき}元気でね～
+"064"
+"065"

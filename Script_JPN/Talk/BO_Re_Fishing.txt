@@ -1,8 +1,8 @@
 == 0 ==
-"001"	さぁ、{pause 20}
-"002"	おいしい　おサカナ{pause 20}
+"001"	さぁ、{pause 20}{ruby (charSpan 1): こころ}心を「む」にするんだ	{Villager's name (orange)}～！{Wait for input}むに{pause 8}・{pause 8}・{pause 8}・{pause 20}	むに{pause 8}・{pause 8}・{pause 8}・{pause 20}{pause 40}	むにゃ{pause 20}むにゃ{pause 8}・{pause 8}・{pause 8}・
+"002"	おいしい　おサカナ{pause 20}	つれるかなぁ～？
 "003"	おサカナ　つれたら	どうやって　{ruby (charSpan 1): た}食べようかなぁ～
-"004"	{0009-0001-0006-05-00-06-00-07-00}
-"005"	{ruby (charSpan 2): きょう}今日は　じっくり　やいて	{ruby (charSpan 1): た}食べようかなぁ、{pause 8}
-"006"	{ruby (charSpan 2): きょう}今日は　にものが	いいかなぁ、{pause 8}!
-"007"	{ruby (charSpan 2): きょう}今日は　おさしみが	いいかなぁ、{pause 8}ơ
+"004"	{0009-0001-0006-0005-0006-0007}
+"005"	{ruby (charSpan 2): きょう}今日は　じっくり　やいて	{ruby (charSpan 1): た}食べようかなぁ、{pause 8}{catchphrase}
+"006"	{ruby (charSpan 2): きょう}今日は　にものが	いいかなぁ、{pause 8}{catchphrase}
+"007"	{ruby (charSpan 2): きょう}今日は　おさしみが	いいかなぁ、{pause 8}{catchphrase}

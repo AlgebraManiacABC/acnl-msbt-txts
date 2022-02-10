@@ -1,24 +1,24 @@
 == 0 ==
-"001"	{0009-0001-0006-05-00-06-00-07-00}
-"002"	{0009-0000-0004-09-00-00-00}	
-"003"	{0009-0001-0006-12-00-13-00-14-00}
-"004"	
-"005"	{emote: Happiness}
-"006"	{emote: Soft Smile}
-"007"	{000a-0016-0006-05-08-00-05-00-ffffffcd}
-"008"	{emote: Surprise}
-"009"	{emote: Surprise}
-"010"	{000a-0010-0008-0b-00-0b-00-0e-00-10-00}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Soft Smile}
-"013"	{emote: Soft Smile}
-"014"	{0009-0000-0004-0f-00-0d-00}
-"015"	{emote: Soft Smile}
-"016"	{0009-0000-0004-0f-00-11-00}
-"017"	ちょっと{ruby (charSpan 1): さむ}寒いですけど{pause 10}
-"018"	{emote: Surprise}
-"019"	{emote: Soft Smile}
-"020"	{000a-0010-0008-15-00-15-00-16-00-17-00}
-"021"	{emote: Happiness}
-"022"	{emote: Soft Smile}
-"023"	{emote: Soft Smile}
+"001"	{0009-0001-0006-0005-0006-0007}
+"002"	{0009-0000-0004-0009-000a}
+"003"	{0009-0001-0006-0012-0013-0014}
+"004"
+"005"	{emote: Happiness}あら　どうも！{pause 15}	お{ruby (charSpan 1): そと}外で　{ruby (charSpan 5): きぶんてんかんちゅう}気分転換中です、{pause 15}{catchphrase}
+"006"	{emote: Soft Smile}あら　{pause 8}{Player nickname (green)}さん{pause 10}	お{ruby (charSpan 2): さんぽ}散歩ですか？{Wait for input}{emote: Happiness}{ruby (charSpan 1): いま}今、{pause 10}{ruby (charSpan 2): せんじつ}先日{ruby (charSpan 1): よ}読んだ	「{0005-001d-0002-0000}」	について{pause 10}{ruby (charSpan 1): かんが}考えていたんです	{emote: Distress}あ～{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	もう{ruby (charSpan 2): いっかい}一回　{ruby (charSpan 1): よ}読みたくなってきました！
+"007"	{000a-0016-0006-0805-0500-cd00}
+"008"	{emote: Surprise}もしかして、{pause 10}{Player nickname (green)}さんが	{ruby (charSpan 1): き}切った　{ruby (charSpan 1): き}切り{ruby (charSpan 1): かぶ}株ですか？{Wait for input}	{emote: Glee}とっても　{ruby (charSpan 1): すわ}座り{ruby (charSpan 2): ごこち}心地いいですよ～
+"009"	{emote: Surprise}あら！{pause 20}　{Player nickname (green)}さんも	{emote: Soft Smile}ご{ruby (charSpan 2): いっしょ}一緒に　{ruby (charSpan 1): すわ}座りませんか？{Wait for input}	こうしていると　{ruby (charSpan 2): きも}気持ちいいですよ～！
+"010"	{000a-0010-0008-000b-000b-000e-0010}
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Soft Smile}この{ruby (charSpan 2): きせつ}季節は　{pause 10}{ruby (charSpan 1): そと}外にいるだけで{pause 8}	さわやかな{ruby (charSpan 2): きも}気持ちになります！{Wait for input}{emote: Happiness}{Player nickname (green)}さんも{pause 10}	おとなり　{pause 10}どうぞ！
+"013"	{emote: Soft Smile}こういう{ruby (charSpan 1): ひ}日は{pause 10}	{ruby (charSpan 1): そと}外で　{pause 8}の～んびりが{ruby (charSpan 2): いちばん}一番ですよね！{Wait for input}{emote: Joy}{Player nickname (green)}さんも{pause 10}	お{ruby (charSpan 2): じかん}時間あるなら、{pause 8}ぜひぜひ！
+"014"	{0009-0000-0004-000f-000d}
+"015"	{emote: Soft Smile}こうして　ひとりで{ruby (charSpan 1): すわ}座っていると{pause 10}	{emote: Daydreaming}ちょっぴり　{pause 10}センチメンタルな	{ruby (charSpan 2): きも}気持ちになっちゃいます、{pause 15}{catchphrase}
+"016"	{0009-0000-0004-000f-0011}
+"017"	ちょっと{ruby (charSpan 1): さむ}寒いですけど{pause 10}	{emote: Happiness}{ruby (charSpan 1): つめ}冷たい{ruby (charSpan 2): くうき}空気で{pause 10}　{ruby (charSpan 1): あたま}頭がシャキッとします！{Wait for input}{emote: Soft Smile}{Player nickname (green)}さんも、{pause 10}	ご{ruby (charSpan 2): いっしょ}一緒に　どうですか？{Wait for input}	ふたりでくっつけば、{ruby (charSpan 1): あたた}温かいですよ！
+"018"	{emote: Surprise}あら、{pause 10}{Player nickname (green)}さん！{Wait for input}	{emote: Sheepishness}ごめんなさい{pause 20}	ここは　もう{ruby (charSpan 1): すわ}座れないみたいです
+"019"	{emote: Soft Smile}ふたりで{pause 8}	おしゃべりしてたところなんですよ{Wait for input}{Town name (pink)}{ruby (charSpan 1): むら}村の{ruby (charSpan 2): さいしん}最新ニュースとか{pause 10}	お{ruby (charSpan 3): とくじょうほう}得情報の{ruby (charSpan 2): こうかん}交換{ruby (charSpan 1): かい}会です！
+"020"	{000a-0010-0008-0015-0015-0016-0017}
+"021"	{emote: Happiness}さわやかな{ruby (charSpan 2): きせつ}季節なので、{pause 10}	{ruby (charSpan 1): そと}外に{ruby (charSpan 1): で}出て{pause 10}　のんびり	おしゃべりしてたんです！
+"022"	{emote: Soft Smile}{ruby (charSpan 1): は}葉っぱの{ruby (charSpan 1): いろ}色の{ruby (charSpan 1): うつ}移り{ruby (charSpan 1): か}変わりを{pause 10}	{ruby (charSpan 1): たの}楽しんでいるところなんです{Wait for input}{emote: Happiness}{Player nickname (green)}さんも{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村の	{ruby (charSpan 2): けしき}景色を　{pause 10}{ruby (charSpan 1): たの}楽しんでくださいね、{pause 15}{catchphrase}
+"023"	{emote: Soft Smile}わたし{ruby (charSpan 1): たち}達{pause 8}	{ruby (charSpan 1): そと}外で{ruby (charSpan 1): あそ}遊んでたんですけど、{Wait for input}{ruby (charSpan 1): すこ}少し{ruby (charSpan 1): さむ}寒くなってきたので{pause 10}	{emote: Happiness}くっついて　{ruby (charSpan 1): あたた}温め{ruby (charSpan 1): あ}合ってるんです

@@ -1,205 +1,205 @@
 == 0 ==
-"001"	Yo!{pause 20}
-"002"	{capitalized}
-"003"	Yoo hooooo! {capitalized}
-"004"	Hey!{pause 20}
-"005"	Huh. Guess you ain't in{pause 8}
-"006"	{emote: Greetings}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	{emote: Greetings}
-"010"	
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{emote: Resigned}
-"014"	{emote: Alarmed}
-"015"	{emote: Soft Smile}
-"016"	Ho ho!{emote: Soft Smile}
-"017"	{emote: Agreement}
-"018"	{emote: Soft Smile}
-"019"	
-"020"	
-"021"	{emote: Alarmed}
-"022"	{emote: Alarmed}
-"023"	{emote: Alarmed}
-"024"	{emote: Alarmed}
-"025"	{emote: Alarmed}
-"026"	{emote: Alarmed}
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	{emote: Alarmed}
-"032"	{emote: Alarmed}
-"033"	{emote: Alarmed}
-"034"	{emote: Alarmed}
-"035"	{emote: Alarmed}
-"036"	{emote: Alarmed}
-"037"	
-"038"	
-"039"	
-"040"	
+"001"	Yo!{pause 20} {capitalized}{Player nickname (green)}!{pause 20}	{pause 8}.{pause 8}.{pause 8}.{pause 20}It's me!{pause 20} You in?{0007-0008-0004-0096-0000}
+"002"	{capitalized}{Player nickname (green)}!{pause 20} Hello?{pause 20} It's {Villager's name (orange)}!	If you're in there, open up!{0007-0008-0004-0096-0000}
+"003"	Yoo hooooo! {capitalized}{Player nickname (green)}!{pause 20}	It's {Villager's name (orange)}! {pause 8}.{pause 8}.{pause 8}.{pause 20}You in?{0007-0008-0004-0096-0000}
+"004"	Hey!{pause 20} Dude! Are you in there?!{0007-0008-0004-0096-0000}
+"005"	Huh. Guess you ain't in{pause 8}.{pause 8}.{pause 8}.{pause 20} I even	brought you something nice, but I 	guess I'll come back, {pause 20}{catchphrase}.{0007-0008-0004-0096-0000}
+"006"	{emote: Greetings}Hey hey!{pause 20} Sorry to drop by all	unannounced and stuff!
+"007"	{emote: Greetings}Yelllooo!{pause 20} Here I am!
+"008"	{emote: Greetings}Oh, good!{pause 20} I thought you were out!
+"009"	{emote: Greetings}Anyhoo! Sorry to just barge in{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Shocked}{0007-000b-0000}{Text size 150%}{pause 10}COCKROACH!!{Wait for input}{Text size 100%}{emote: Distress}Awww{pause 8}.{pause 8}.{pause 8}.{pause 20}naw, dude. No way. I don't	do cockroaches. I'm out!
+"010"
+"011"	{emote: Agreement}I don't really have any business or	anything{pause 8}.{pause 8}.{pause 8}.{pause 20} I was just in the area and	thought I'd pop in. {pause 20}{capitalized}{catchphrase}!
+"012"	{emote: Agreement}I was just passing by, so I figured I'd	check in on ya. {pause 20}{capitalized}{catchphrase}!
+"013"	{emote: Resigned}I don't have any particular business	or anything.{Wait for input}{emote: Soft Smile}But that's fine, right? Sometimes	you just need to see a friendly face!	{pause 20}{capitalized}{catchphrase}!
+"014"	{emote: Alarmed}Oh, don't worry 'bout tea and stuff!{pause 40}	{emote: Soft Smile}No need to get all formal. It's just	you and me! {pause 20}{capitalized}{catchphrase}!
+"015"	{emote: Soft Smile}Wow{pause 8}.{pause 8}.{pause 8}.{pause 20} Your place is so clean, even	though you didn't know I was gonna	be coming over!	{emote: Alarmed}Wait! I mean{pause 8}.{pause 8}.{pause 8}.{pause 20}it's not like I came	here to check on that or anything!	{pause 20}{capitalized}{catchphrase}!
+"016"	Ho ho!{emote: Soft Smile} Man, this place just screams	{Player nickname (green)}! {pause 20}{capitalized}{catchphrase}!
+"017"	{emote: Agreement}Ahhh{pause 8}.{pause 8}.{pause 8}.{pause 20} It feels nice to be inside, 	{emote: Soft Smile}even if it is someone else's place,	{pause 20}{catchphrase}!
+"018"	{emote: Soft Smile}I was just sort of walking around 	aimlessly, and I ended up here!{pause 40}{emote: Agreement} Man!	It's totally {0005-001e-0002-cd00} outside!
+"019"
+"020"
+"021"	{emote: Alarmed}Oh, right! I brought you something!{Wait for input}{emote: Soft Smile}Please accept this gift of {Article(word-dependant)}	{0011-0003-0002-0000}!
+"022"	{emote: Alarmed}Oh, right! I didn't want to show up	empty handed, so I brought you a	little something.	{emote: Reset}It's {Article(word-dependant)}{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Soft Smile}Hope you like it!
+"023"	{emote: Alarmed}Oh! I brought you a present!{Wait for input}{emote: Reset}It's nothing special{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Soft Smile}Just {Article(word-dependant)}	{0011-0003-0002-0000} for my pal!
+"024"	{emote: Alarmed}Oh, so I brought you something!{pause 40}	{emote: Soft Smile}Just a little {0011-0003-0002-0000}	for you to munch on if you want.
+"025"	{emote: Alarmed}Oh! Hey!{pause 20} Are you OK with	{0011-0003-0002-0000} and stuff?{Wait for input}{emote: Soft Smile}Take it!{pause 20} It's yours to chow down if	you want.
+"026"	{emote: Alarmed}Oh, right!{pause 20} I brought you some	{0011-0003-0002-0000}!{Wait for input}{emote: Soft Smile}It's no big deal or anything, but you	can have some if you want!
+"027"
+"028"
+"029"
+"030"
+"031"	{emote: Alarmed}Whoa! How'd it get to be so late?{pause 40}	{emote: Worry}I was just gonna pop in, but I guess	I must have lost track of time{pause 8}.{pause 8}.{pause 8}.	{emote: Soft Smile}I'll get outta your hair. Sorry I	barged in like that, {pause 20}{catchphrase}!
+"032"	{emote: Alarmed}Wow! Guess it's about time I headed	home!{pause 40} {emote: Soft Smile}Sorry I just kinda barged in!	It was fun, though! {pause 20}{capitalized}{catchphrase}!
+"033"	{emote: Alarmed}Oh, wow! I guess I should be heading	home right about now. {pause 40}{emote: Soft Smile}It was nice	hanging out, though! {pause 20}{capitalized}{catchphrase}!
+"034"	{emote: Alarmed}Oh! You heading out?{pause 40}{emote: Reset} Yeah, I 	suppose it's about that time.	{pause 40}{emote: Soft Smile}See ya! {pause 20}{capitalized}{catchphrase}!
+"035"	{emote: Alarmed}Huh?{pause 20} You taking off? {pause 40}{emote: Soft Smile}I should	skedaddle too then. But thanks for	having me! {pause 20}{capitalized}{catchphrase}!
+"036"	{emote: Alarmed}Oh! You outta here?{pause 40}{emote: Reset} Wait up, and I'll	leave too{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}Sorry I just sorta barged in, but it	was fun! {capitalized}{catchphrase}!
+"037"
+"038"
+"039"
+"040"
 == 1 ==
-"001"	¡Eh!{pause 20}
-"002"	¡{capitalized}
-"003"	¡Yuuuuuju! ¡{capitalized}
-"004"	¡Oye!{pause 20}
-"005"	Bueno, pues digo yo que no	estará en casa{pause 8}!
-"006"	{emote: Greetings}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	{emote: Greetings}
-"010"	
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{emote: Resigned}
-"014"	{emote: Alarmed}
-"015"	{emote: Soft Smile}
-"016"	¡Caramba!{emote: Soft Smile}
-"017"	{emote: Agreement}
-"018"	{emote: Soft Smile}
-"019"	
-"020"	
-"021"	{emote: Alarmed}
-"022"	{emote: Alarmed}
-"023"	{emote: Surprise}
-"024"	{emote: Alarmed}
-"025"	{emote: Alarmed}
-"026"	{emote: Alarmed}
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	{emote: Alarmed}
-"032"	{emote: Alarmed}
-"033"	{emote: Alarmed}
-"034"	{emote: Alarmed}
-"035"	{emote: Alarmed}
-"036"	{emote: Alarmed}
-"037"	
-"038"	
-"039"	
-"040"	
+"001"	¡Eh!{pause 20} ¡{capitalized}{Player nickname (green)}!{pause 20}	Soy yo{pause 8}.{pause 8}.{pause 8}.{pause 20} ¿Estás visible?{0007-0008-0004-0096-0000}
+"002"	¡{capitalized}{Player nickname (green)}!{pause 20} ¿Hola?{pause 20}	¡Soy {Villager's name (orange)}! Oye,	si estás por ahí, ¡ábreme!{0007-0008-0004-0096-0000}
+"003"	¡Yuuuuuju! ¡{capitalized}{Player nickname (green)}!{pause 20}	¡Soy {Villager's name (orange)}! 	¿Estás por ahí?{pause 8}.{pause 8}.{pause 8}.{0007-0008-0004-0096-0000}
+"004"	¡Oye!{pause 20} ¡¿Estás por ahí, chat{o/a}?!{0007-0008-0004-0096-0000}
+"005"	Bueno, pues digo yo que no	estará en casa{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡Y mira que	le había traído algo flipante!	Qué se le va a hacer... ¡Volveré	más tarde, {pause 20}{catchphrase}!{0007-0008-0004-0096-0000}
+"006"	{emote: Greetings}¡Hola, hola!{pause 20} Perdona por venir	sin avisar y todo eso...
+"007"	{emote: Greetings}¡Alooooha!{pause 20} ¡Ha llegado	la alegría de la huerta!
+"008"	{emote: Greetings}¡Ah, menos mal!{pause 20} ¡Ya pensaba	que no estabas en casa!
+"009"	{emote: Greetings}Oye, perdona por presentarme así	de esta manera{pause 8}.{pause 8}.{pause 8}.{pause 40}{Wait for input}	{emote: Shocked}{0007-000b-0000}{Text size 150%}{Text size 100%}{pause 10}{Text size 150%}¡¡¡Una cucaracha!!!	{Text size 100%}{Wait for input}{Text size 150%}{Text size 100%}{emote: Distress}Puaj{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡Qué asco, tí{o/a}!	¡Me largo de aquí!
+"010"
+"011"	{emote: Agreement}La verdad es que no tenía ningún	asunto que arreglar contigo ni nada.{pause 20}{Wait for input}{emote: Sheepishness}Es que pasaba por aquí y se me	ocurrió venir a saludarte, ¡ji, ji, ji!
+"012"	{emote: Agreement}Yo pasaba por aquí y me ha dado	por acercarme a saludar.
+"013"	{emote: Resigned}No, no vengo por ninguna razón en	especial.{emote: Soft Smile} Pero no pasa nada, ¿no?{Wait for input}¡De vez en cuando está bien	saludar a los colegas!
+"014"	{emote: Alarmed}Huy, no, ¡no te preocupes por el té	y las pastas!{pause 40} {emote: Soft Smile}No hace falta que nos	pongamos seri{o/a}s. ¡Yo no soy así!
+"015"	{emote: Soft Smile}Oye{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡tienes la casa impecable!	Y eso que no sabías que iba a	venir, ¿eh?	{emote: Alarmed}No pienses mal{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡No he venido	a cotillear ni nada, {pause 20}{catchphrase}!
+"016"	¡Caramba!{emote: Soft Smile} ¡Este sitio no podría	ser más "tú", {pause 20}{catchphrase}!
+"017"	{emote: Agreement}Aaah{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡Cómo mola estar en casita,	{emote: Soft Smile}aunque no sea la mía, {pause 20}{catchphrase}!
+"018"	{emote: Soft Smile}Iba yo tan campante caminando	por ahí sin rumbo fijo...	¡y he acabado aquí!{pause 40}{emote: Agreement}	¡Buf! Se nota que estamos en	{0005-001e-0002-cd00}, ¿eh?
+"019"
+"020"
+"021"	{emote: Alarmed}¡Huy, es verdad! Te he traído	una cosilla. {emote: Soft Smile}Toma, ¡{Article(word-dependant)}	{0011-0003-0002-0000}!
+"022"	{emote: Alarmed}¡Ah, verás! No quería venir con las	manos vacías, así que te he pillado	una cosilla...	{emote: Reset}Es {Article(word-dependant)}{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Soft Smile}¡A ver si te gusta, simpátic{o/a}!
+"023"	{emote: Surprise}Es verdad, ¡te he traído un regalo!	{emote: Reset}No es nada especial{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Soft Smile}Solo {Article(word-dependant)}	{0011-0003-0002-0000} de nada.
+"024"	{emote: Alarmed}¡Huy, que yo te había traído una	cosilla!{pause 40} {emote: Soft Smile}No es más que {Article(word-dependant)}	{0011-0003-0002-0000}, ¡ji, ji!
+"025"	{emote: Alarmed}¡Eh, atiende!{pause 20} ¿Te gusta	{000e-0001-0000}{0011-0003-0002-0000}?	{emote: Soft Smile}¡Pues toma!{pause 20} ¡Tod{o/a/} para ti!
+"026"	{emote: Alarmed}¡Ah, es verdad!{pause 20} ¡Te he traído	{Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}{emote: Soft Smile}No es que sea nada del otro jueves,	pero pensé que te podría gustar...
+"027"
+"028"
+"029"
+"030"
+"031"	{emote: Alarmed}¡Pero bueno, si es supertarde!{pause 40}	{emote: Worry}Venía a saludar nada más, pero	se me ha ido la pinza un poco{pause 8}.{pause 8}.{pause 8}.	{emote: Soft Smile}Bueno, ¡te dejo en paz por	hoy, {pause 20}{catchphrase}!
+"032"	{emote: Alarmed}¡Ostras! ¡Debería ir marchándome!{pause 40}{emote: Soft Smile}	Perdona que me haya presentado	así, sin avisar.	{emote: Flourish}¡Aunque en el fondo nos lo hemos	pasado en grande, {pause 20}{catchphrase}!
+"033"	{emote: Alarmed}¡Huy, vaya! Creo que me tengo	que ir marchando a la de ya.{pause 40}{emote: Soft Smile}	¡Pero me lo he pasado pipa!
+"034"	{emote: Alarmed}Ah, ¿te marchas ya?{pause 40}{emote: Reset} Sí, tienes	razón, ya van siendo horas...	{pause 40}{emote: Soft Smile}¡Nos vemos, {pause 20}{catchphrase}!
+"035"	{emote: Alarmed}¿Ein?{pause 20} ¿Te piras ya?{pause 40}{emote: Soft Smile} ¡Pues yo	también me largo pitando!	¡Oye, gracias por todo, chat{o/a}!
+"036"	{emote: Alarmed}Huy, ¿ya te largas?{pause 40}{emote: Reset} Espera, que	yo también me marcho{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}Perdona por presentarme así,	¡pero me he divertido a tope!
+"037"
+"038"
+"039"
+"040"
 == 2 ==
-"001"	Hep !{pause 20}
-"002"	{capitalized}
-"003"	Hep ! {capitalized}
-"004"	Hep !{pause 20}
-"005"	Hum, y'a personne, on dirait{pause 8}
-"006"	{emote: Greetings}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	{emote: Greetings}
-"010"	
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{emote: Resigned}
-"014"	{emote: Alarmed}
-"015"	{emote: Soft Smile}
-"016"	{emote: Soft Smile}
-"017"	{emote: Agreement}
-"018"	{emote: Sheepishness}
-"019"	
-"020"	
-"021"	{emote: Alarmed}
-"022"	{emote: Alarmed}
-"023"	{emote: Alarmed}
-"024"	{emote: Alarmed}
-"025"	{emote: Alarmed}
-"026"	{emote: Alarmed}
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	{emote: Alarmed}
-"032"	{emote: Alarmed}
-"033"	{emote: Alarmed}
-"034"	{emote: Alarmed}
-"035"	{emote: Alarmed}
-"036"	{emote: Alarmed}
-"037"	
-"038"	
-"039"	
-"040"	
+"001"	Hep !{pause 20} {capitalized}{Player nickname (green)} !{pause 35} C'est moi !{pause 20} T'es	là ?{0007-0008-0004-0096-0000}
+"002"	{capitalized}{Player nickname (green)} !{pause 20} T'es chez toi ?{pause 20} C'est	{Villager's name (orange)} !{pause 20} Si t'es là, ouvre !{0007-0008-0004-0096-0000}
+"003"	Hep ! {capitalized}{Player nickname (green)} !{pause 20}	C'est {Villager's name (orange)} !{pause 20} Y'a quelqu'un ?{0007-0008-0004-0096-0000}
+"004"	Hep !{pause 20} Y'a quelqu'un ?!{0007-0008-0004-0096-0000}
+"005"	Hum, y'a personne, on dirait{pause 8}.{pause 8}.{pause 8}.{pause 20} Pour	une fois que j'venais pas les mains	vides, c'est dommage...	Bah, j'repasserai,{pause 20} {catchphrase}.{0007-0008-0004-0096-0000}
+"006"	{emote: Greetings}Hello !{pause 20} Désolée d'me pointer sans	prévenir, tout ça !
+"007"	{emote: Greetings}Hello !{pause 20} Ça roule ?
+"008"	{emote: Greetings}Cool !{pause 20} J'ai eu peur qu'tu sois {sorti/sortie} !
+"009"	{emote: Greetings}Salut ! Désolée de taper l'incruste{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Shocked}{0007-000b-0000}{Text size 150%}{pause 10}Un cafard ?!{Wait for input}{Text size 100%}{emote: Distress}Poui{pause 8}.{pause 8}.{pause 8}.{pause 20} Euh, tiens, j'viens d'me	souvenir qu'y fallait que j'fasse un	truc, là ! Ouais, de suite ! Ciao !
+"010"
+"011"	{emote: Agreement}Comme j'étais dans l'coin, j'me suis	dit qu'j'allais passer t'faire coucou,{pause 20}	{catchphrase}...
+"012"	{emote: Agreement}Comme j'traînais dans les parages,	j'me suis dit qu'j'allais t'rendre une	p'tite visite,{pause 20} {catchphrase} !
+"013"	{emote: Resigned}J'ai frappé à ta porte parce que	j'passais par là, sans raison	particulière...	{emote: Soft Smile}Ça t'dérange pas, j'espère ? Parce	que moi, chuis toujours ravie d'voir	ta p'tite tête,{pause 20} {catchphrase} !
+"014"	{emote: Alarmed}Hein ?{pause 20} Nan, j'ai pas soif, merci !{pause 20}	{emote: Soft Smile}P't'être plus tard,{pause 20} {catchphrase} !
+"015"	{emote: Soft Smile}Waouh{pause 8}.{pause 8}.{pause 8}.{pause 20} Tu pouvais pas savoir	qu'j'allais passer, et pourtant ta	baraque est ultra propre !	{emote: Alarmed}Hein ?!{pause 20} Mais nan{pause 8}.{pause 8}.{pause 8}.{pause 8}!{pause 20} Chuis pas venue	voir si tu faisais bien l'ménage !	Chuis pas ta mère,{pause 20} {catchphrase} !
+"016"	{emote: Soft Smile}Hi hi ! J'imagine qu'c'est toi qui	t'es {occupé/occupée} d'la déco ?{pause 20} Parce que	ça s'voit,{pause 20} {catchphrase} !
+"017"	{emote: Agreement}Tiens{pause 8}.{pause 8}.{pause 8}.{pause 20} ça sent bon, chez toi. {emote: Soft Smile}C'est	p't'être cette odeur qui m'a attirée	ici inconsciemment,{pause 20} {catchphrase} !
+"018"	{emote: Sheepishness}Un peu avant, j'me suis fait courser	par une drôle de bestiole... Elle	traîne p't'être toujours en ville !	{emote: Curious}J'avais jamais vu autant d'yeux sur	une seule tête...{pause 40} {emote: Soft Smile}{capitalized}{000e-0001-0000}{0005-001e-0002-cd00} et	ses surprises...
+"019"
+"020"
+"021"	{emote: Alarmed}Au fait,{pause 10} chuis pas venue les mains	vides !{Wait for input}{emote: Soft Smile}Hop ! C'est pour toi !{pause 10} {capitalized}{Article(word-dependant)}	{0011-0003-0002-0000} !
+"022"	{emote: Alarmed}Ah, j'oubliais !{pause 20} J'ai toujours un p'tit	cadeau en poche pour ce genre	d'occasion !	{emote: Reset}Tiens ! C'est {Article(word-dependant)}	{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Soft Smile}J'espère	qu'ça t'plaira !
+"023"	{emote: Alarmed}Ah !{pause 20} J'ai failli oublier que j't'avais	apporté un truc !{Wait for input}{emote: Reset}C'est pas la folie{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Soft Smile}juste {Article(word-dependant)}	{0011-0003-0002-0000} !
+"024"	{emote: Alarmed}Au fait, j'ai ce truc pour toi !{pause 40} {emote: Soft Smile}C'est	{Article(word-dependant)}{0011-0003-0002-0000}, des	fois qu't'aies un p'tit creux !
+"025"	{emote: Alarmed}Dis !{pause 20} {capitalized}{Article(word-dependant)}{0011-0003-0002-0000},	ça t'branche ?{Wait for input}{emote: Soft Smile}Alors tiens !{pause 20} Et si t'as les crocs, te	gêne pas pour moi, mange !
+"026"	{emote: Alarmed}Dis !{pause 20} Tu veux {Article(word-dependant)}	{0011-0003-0002-0000} ?{Wait for input}{emote: Soft Smile}Tiens. {Il/Elle/} vient d'ma ville natale,	c'est ma maman qui m'en a envoyé !
+"027"
+"028"
+"029"
+"030"
+"031"	{emote: Alarmed}La vache ! Y commence à s'faire	tard !{pause 40} {emote: Worry}J'comptais pas m'éterniser,	mais j'ai pas vu l'temps passer{pause 8}.{pause 8}.{pause 8}.	{emote: Soft Smile}Allez, j'm'arrache !{pause 20} Désolée d'avoir	abusé d'ton hospitalité,{pause 20}	{catchphrase} !
+"032"	{emote: Alarmed}Bon ! J'crois qu'il est temps que	j'me rentre !{pause 40} {emote: Soft Smile}Merci pour l'accueil,	c'était cool !{pause 20} {capitalized}{catchphrase} !
+"033"	{emote: Alarmed}OK ! J'crois qu'j'vais y aller, là !{pause 40}	{emote: Soft Smile}Merci pour tout, j'ai passé un bon	moment !{pause 20} {capitalized}{catchphrase} !
+"034"	{emote: Alarmed}Hein ?! Tu t'en vas ?{pause 40} {emote: Reset}Bon, ben j'vais	en profiter pour filer, moi aussi.{pause 20}	{emote: Soft Smile}À plus !{pause 20} {capitalized}{catchphrase} !
+"035"	{emote: Alarmed}Tiens ?!{pause 20} Tu sors ?{pause 40} {emote: Soft Smile}Bah j'vais rentrer	au bercail, dans ce cas. Merci	d'm'avoir accueillie,{pause 20} {catchphrase} !
+"036"	{emote: Alarmed}Hein ?! Tu m'laisses en plan ?{pause 40} {emote: Reset}Bah	attends, si tu sors, alors j'rentre	chez moi{pause 8}.{pause 8}.{pause 8}.	{emote: Soft Smile}Encore désolée d'm'être pointée à	l'arrache, mais c'était cool !{pause 20}	{capitalized}{catchphrase} !
+"037"
+"038"
+"039"
+"040"
 == 3 ==
-"001"	Salve!{pause 20}!
-"002"	{capitalized}
-"003"	Pronto?! {capitalized}
-"004"	Ehi!{pause 20}
-"005"	Ah, forse non ci sei{pause 8}
-"006"	{emote: Greetings}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	{emote: Greetings}
-"010"	
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{emote: Resigned}
-"014"	{emote: Alarmed}
-"015"	{emote: Soft Smile}
-"016"	Oh oh!{emote: Soft Smile}
-"017"	{emote: Agreement}
-"018"	{emote: Soft Smile}
-"019"	
-"020"	
-"021"	{emote: Alarmed}
-"022"	{emote: Alarmed}
-"023"	{emote: Alarmed}
-"024"	{emote: Alarmed}
-"025"	{emote: Alarmed}
-"026"	{emote: Alarmed}
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	{emote: Alarmed}
-"032"	{emote: Alarmed}
-"033"	{emote: Alarmed}
-"034"	{emote: Alarmed}
-"035"	{emote: Alarmed}
-"036"	{emote: Alarmed}
-"037"	
-"038"	
-"039"	
-"040"	
+"001"	Salve!{pause 20} {capitalized}{Player nickname (green)}!{pause 20} {pause 8}.{pause 8}.{pause 8}.{pause 20} Sono io!{pause 20}	Ci sei o no?{0007-0008-0004-0096-0000}
+"002"	{capitalized}{Player nickname (green)}!{pause 20} C'è nessuno?{pause 20} Sono io,	{Villager's name (orange)}! Se sei in casa... apri!{0007-0008-0004-0096-0000}
+"003"	Pronto?! {capitalized}{Player nickname (green)}!{pause 20} Sono	{Villager's name (orange)}! {pause 8}.{pause 8}.{pause 8}.{pause 20} Ci sei o no?{0007-0008-0004-0096-0000}
+"004"	Ehi!{pause 20} Dico a te! Sei in casa?!{0007-0008-0004-0096-0000}
+"005"	Ah, forse non ci sei{pause 8}.{pause 8}.{pause 8}.{pause 20} Ti avevo anche	portato una cosa, ma vabbè.{pause 15}	Ripasserò, {pause 20}{catchphrase}.{0007-0008-0004-0096-0000}
+"006"	{emote: Greetings}Ehi, ehi!{pause 20} Lo so che sono passata	senza avvisare! {emote: Anger}Scusa, eh?
+"007"	{emote: Greetings}Ciaooo!{pause 20} Eccomi qua!
+"008"	{emote: Greetings}Oh, beh!{pause 20} Meno male! Pensavo	che non fossi in casa!
+"009"	{emote: Greetings}Vabbè! Scusa se m'introduco così{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Shocked}{0007-000b-0000}{Text size 150%}{pause 10}SCARAFAGGIO!!!{Wait for input}{Text size 100%}{emote: Distress}Ma nooo{pause 8}.{pause 8}.{pause 8}.{pause 20} No e no! Non esiste.	{pause 15}O io o gli scarafaggi.	{pause 15}Quindi ti abbandono!
+"010"
+"011"	{emote: Agreement}Non sono qui per un motivo preciso.{pause 20}	Ero da queste parti e ho deciso di	fare un salto da te. {pause 20}{capitalized}{catchphrase}!
+"012"	{emote: Agreement}Passavo da queste parti e allora...	ho pensato di vedere come stavi.	{pause 20}{capitalized}{catchphrase}!
+"013"	{emote: Resigned}Non sono passata di qui	per un qualche motivo.{Wait for input}{emote: Soft Smile}Non hai problemi a riguardo, no?{pause 15}	Cioè, a volte ti va solo di vedere	una faccia amica! {pause 20}{capitalized}{catchphrase}!
+"014"	{emote: Alarmed}No, ma non c'è bisogno di offrirmi	qualcosa!{pause 40} {emote: Soft Smile}Lascia stare le formalità!	Siamo solo io e te! {pause 20}{capitalized}{catchphrase}!
+"015"	{emote: Soft Smile}Ma dai{pause 8}.{pause 8}.{pause 8}.{pause 20} Casa tua è davvero pulita...	e non sapevi che sarei venuta	a trovarti!	{emote: Alarmed}Aspetta! Cioè{pause 8}.{pause 8}.{pause 8}.{pause 20} non che la cosa	mi interessi! {emote: Happiness}Non sono venuta	a controllare, {pause 20}{catchphrase}!
+"016"	Oh oh!{emote: Soft Smile} Oh beh, questo posto	fa proprio te, {Player nickname (green)}!	Non c'è che dire, {pause 20}{catchphrase}!
+"017"	{emote: Agreement}Sì{pause 8}.{pause 8}.{pause 8}.{pause 20} Stare in casa mi fa stare bene,	{emote: Soft Smile}anche quando la casa non è mia,	{pause 20}{catchphrase}!
+"018"	{emote: Soft Smile}Passeggiavo e sono arrivata qui!{pause 40}{emote: Agreement}	Comunque è assurdo... È proprio	{0005-001e-0002-cd00} là fuori!
+"019"
+"020"
+"021"	{emote: Alarmed}Ah, già! Ti ho portato una cosa!{Wait for input}{emote: Soft Smile}È {Article(word-dependant)}{0011-0003-0002-0000}!	Accettal{o/a/} come regalo, dai!
+"022"	{emote: Alarmed}Ah, sì! Non volevo venire qui a mani	vuote. Perciò ti ho portato	una cosa.	{emote: Reset}È {Article(word-dependant)}{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Soft Smile}Beh, spero che ti piaccia!
+"023"	{emote: Alarmed}Oh! Ti ho portato un regalo!{Wait for input}{emote: Reset}Niente di speciale alla fine{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Soft Smile}Solo	{Article(word-dependant)}{0011-0003-0002-0000} per	{il mio amico/la mia amica}!
+"024"	{emote: Alarmed}Oh, ho qui un regalo per te!{pause 40}	{emote: Soft Smile}È {Article(word-dependant)}{0011-0003-0002-0000}.{pause 15}	Per quando ti viene un po' di fame.
+"025"	{emote: Alarmed}Oh! Ehi!{pause 20} Normalmente mangi	{000e-0001-0000}{0011-0003-0002-0000}	o no?{Wait for input}{emote: Soft Smile}Beh, ecco qua!{pause 20} Nel caso ti andasse	di sgranocchiare qualcosa.
+"026"	{emote: Alarmed}Oh, sì!{pause 20} Ti ho portato	{Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}{emote: Soft Smile}Non è niente di che, lo so. Però	se ti va di mangiare qualcosa...
+"027"
+"028"
+"029"
+"030"
+"031"	{emote: Alarmed}Oh! Ma come è possibile? Si è fatto	proprio tardi!{pause 40} {emote: Worry}Volevo solo fare	un saluto e{pause 8}.{pause 8}.{pause 8}.	{emote: Soft Smile}Me ne vado, dai. E mi devo	anche scusare. Sono arrivata	all'improvviso, {pause 20}{catchphrase}!
+"032"	{emote: Alarmed}Aaah! Sì, devo proprio tornarmene	a casa!{pause 40} {emote: Soft Smile}Scusa l'intrusione! Non	è stato male, però! {pause 20}{capitalized}{catchphrase}!
+"033"	{emote: Alarmed}Oh, beh! È arrivata l'ora di andare,	per me. {pause 40}{emote: Soft Smile}Devo dire che sono stata	bene, eh? {pause 20}{capitalized}{catchphrase}!
+"034"	{emote: Alarmed}Oh! Devi uscire?{pause 40}{emote: Reset} Beh, in effetti	stavo andando via. {pause 40}{emote: Soft Smile}Alla prossima!	{pause 20}{capitalized}{catchphrase}!
+"035"	{emote: Alarmed}Eh?{pause 20} Hai delle cose da fare là fuori?{pause 40}{emote: Soft Smile}	Anche io devo smammare. Grazie	per l'ospitalità, eh? {pause 20}{capitalized}{catchphrase}!
+"036"	{emote: Alarmed}Oh! Stavi uscendo?{pause 40}{emote: Reset} Se aspetti	un attimo, vado via anch'io{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}Alla fine mi sono autoinvitata a casa	tua. Però non dire che non ci	siamo divertit{i/e}! {capitalized}{catchphrase}!
+"037"
+"038"
+"039"
+"040"
 == 4 ==
-"001"	Yo!{pause 20}
-"002"	{capitalized}
-"003"	Juch-huuu! {pause 8}
-"004"	He!{pause 20}
-"005"	Hmpf,{pause 8}
-"006"	{emote: Greetings}
-"007"	{emote: Greetings}
-"008"	{emote: Greetings}
-"009"	{emote: Greetings}
-"010"	
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{emote: Resigned}
-"014"	{emote: Alarmed}
-"015"	{emote: Soft Smile}
-"016"	Hohoho!{emote: Soft Smile}
-"017"	{emote: Agreement}
-"018"	{emote: Soft Smile}
-"019"	
-"020"	
-"021"	{emote: Disagreement}
-"022"	Ich hab dir was mitgebracht!{pause 20}
-"023"	{emote: Alarmed}
-"024"	{emote: Surprise}
-"025"	{emote: Alarmed}
-"026"	{emote: Alarmed}
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	{emote: Alarmed}
-"032"	{emote: Alarmed}
-"033"	{emote: Alarmed}
-"034"	{emote: Alarmed}
-"035"	{emote: Alarmed}
-"036"	{emote: Alarmed}
-"037"	
-"038"	
-"039"	
-"040"	
+"001"	Yo!{pause 20} {capitalized}{Player nickname (green)}!{pause 20}	{pause 8}.{pause 8}.{pause 8}.{pause 20}Ich bin's!{pause 20} Biste da?{0007-0008-0004-0096-0000}
+"002"	{capitalized}{Player nickname (green)}!{pause 20} Hey!{pause 8} Ich bin's,	{Villager's name (orange)}! {pause 20}Mach auf!{0007-0008-0004-0096-0000}
+"003"	Juch-huuu! {pause 8}{capitalized}{Player nickname (green)}!{pause 20}	Ich bin's, {Villager's name (orange)}! 	.{pause 8}.{pause 8}.{pause 20}Biste daheim?{0007-0008-0004-0096-0000}
+"004"	He!{pause 20} {Du/Girlie}! Bist du da?!{0007-0008-0004-0096-0000}
+"005"	Hmpf,{pause 8} bist wohl nicht da{pause 8}.{pause 8}.{pause 8}.{pause 20} Dabei	hab ich sogar was Nettes für dich.{pause 20}	Egal,{pause 8} ich komm wieder.{0007-0008-0004-0096-0000}
+"006"	{emote: Greetings}Hey hey!{pause 20} Sorry und so, dass	ich hier so einfach reinplatze!
+"007"	{emote: Greetings}Wooo-hooow!{pause 20} Da bin ich!
+"008"	{emote: Greetings}Oh, cool!{pause 20} Dachte schon,	du wärst nicht da!
+"009"	{emote: Greetings}Jemand daheim? {pause 8}Sorry, wollte nur	kurz{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Shocked}{0007-000b-0000}{Text size 150%}{pause 10} Kakerlake!{Wait for input}{Text size 100%}{emote: Distress}Gah! {pause 8}Gaaah!{pause 8}.{pause 8}.{pause 8}.{pause 20} Nee! {pause 8}Vergiss es!{pause 8}	Sorry!{pause 8} Muss was erledigen! {pause 8}	Ich bin weg!
+"010"
+"011"	{emote: Agreement}Ich war hier in der Nähe{pause 8}.{pause 8}.{pause 8}.{pause 20} und	dachte mir, ich komm mal vorbei.	{pause 20}{capitalized}{catchphrase}!
+"012"	{emote: Agreement}Ich bin hier nur auf 'nem Sprung.{pause 20}	{emote: Curious}Alles klar bei dir? {pause 20}{capitalized}{catchphrase}!
+"013"	{emote: Resigned}Ich bin nur so hier.{Wait for input}{emote: Soft Smile}Oder brauch ich 'ne Ausrede,	dich besuchen zu kommen?	{pause 20}{capitalized}{catchphrase}!
+"014"	{emote: Alarmed}Ach,{pause 8} mach dir jetzt keinen Stress	wegen Gastgeberpflichten und so!{pause 40}{emote: Glare}	Sind doch unter uns!
+"015"	{emote: Soft Smile}Wow{pause 8}.{pause 8}.{pause 8}.{pause 20} Deine Bude ist ja richtig	sauber und ordentlich!{Wait for input}{emote: Alarmed}Moment! Ähm{pause 8}.{pause 8}.{pause 8}.{pause 20} Nicht, dass ich	was anderes erwartet hätte{pause 8}.{pause 8}.{pause 8}.	{pause 20}{capitalized}{catchphrase}!
+"016"	Hohoho!{emote: Soft Smile} Ey, deine Bude schreit	ja nur so nach {Player nickname (green)}!	{pause 20}{capitalized}{catchphrase}!
+"017"	{emote: Agreement}Hach{pause 8}.{pause 8}.{pause 8}.{pause 20} Echt nett, 'n Dach überm	Kopf zu haben – {emote: Soft Smile}auch wenn's nicht	meins ist, {pause 20}{catchphrase}!
+"018"	{emote: Soft Smile}Ich cruise so durch die City!{pause 40}{emote: Agreement} Und	bäm!{pause 20} Plötzlich ist es total {0005-001e-0002-cd00}!
+"019"
+"020"
+"021"	{emote: Disagreement}Also, bild dir jetzt ja nichts drauf	ein, aber{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}Hier,{pause 8} nimm {diesen/diese/dieses}	{0011-0003-0002-0000} an!{pause 20}	Und Rand halten!
+"022"	Ich hab dir was mitgebracht!{pause 20}	{emote: Alarmed}Ja, ich wollte heute mal nett sein!{Wait for input}{emote: Reset}Es ist {'n/'ne/'n} {0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Soft Smile}Wehe, es gefällt dir nicht!
+"023"	{emote: Alarmed}Äh! Du wirst es nicht glauben,	aber ich hab was für dich!{Wait for input}{emote: Reset}Nichts Besonderes{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Soft Smile}Nur {'n/'ne/'n}	{0011-0003-0002-0000} für	mein{en/e} Busenfreun{d/din}!
+"024"	{emote: Surprise}Ach ja, ich hab was für dich!{pause 40}	{emote: Soft Smile}{'n/'ne/'n} {0011-0003-0002-0000}, {pause 8}als	Mitternachtssnack für später!
+"025"	{emote: Alarmed}Oh! Hey!{pause 20} Was hältste denn von	{dem/der/dem} {0011-0003-0002-0000} hier?	Ist doch zum Reinbeißen, {pause 8}oder?	{emote: Soft Smile}Da,{pause 8} nimm!{pause 20} Hau ruhig rein,{pause 8} ich hab	eh keinen Hunger!
+"026"	{emote: Alarmed}Ah ja!{pause 20} Hab dir extra {den/die/das}	{0011-0003-0002-0000} gekauft.{Wait for input}{emote: Soft Smile}Kein Grund auszurasten,{pause 8} ist	doch nur 'ne Kleinigkeit!
+"027"
+"028"
+"029"
+"030"
+"031"	{emote: Alarmed}Wow! {pause 8}Schon so spät?{pause 40}	{emote: Worry}Dabei wollte ich ja eigentlich nur	auf 'nen Sprung vorbeikommen{pause 8}.{pause 8}.{pause 8}.	{emote: Soft Smile}Keine Sorge, {pause 8}ich lass dich ja	schon in Ruhe. {pause 20}{capitalized}{catchphrase}!
+"032"	{emote: Alarmed}Wow! {pause 20}Ich glaube, {pause 8}ich sollte langsam	heim!{pause 40} {emote: Soft Smile}Ich hoffe,{pause 8} ich bin dir nicht auf	'n Keks gegangen! {pause 20}{capitalized}{catchphrase}!
+"033"	{emote: Alarmed}Huch, {pause 8}wie schnell die Zeit verfliegt!	{pause 40}{emote: Soft Smile}... Kein Wunder bei meiner tollen	Gesellschaft! {pause 20}{capitalized}{catchphrase}!
+"034"	{emote: Alarmed}Wie? {pause 8}Du willst raus?{pause 40}{emote: Reset} Schon gut,	{pause 40}{emote: Soft Smile}ich weiß, wenn ich unerwünscht	bin! {pause 20}{capitalized}{catchphrase}!
+"035"	{emote: Alarmed}Huch?{pause 20} Du hast noch was zu tun? {pause 40}{emote: Soft Smile}	Na gut, {pause 8}ich war ja jetzt auch lang	genug bei dir! {pause 20}{capitalized}{catchphrase}!
+"036"	{emote: Alarmed}Oh! Du gehst?{pause 40}{emote: Reset} Meine Anwesenheit	ist wohl nicht genug für dich{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}Gut, dann geh ich jetzt auch!{pause 40}	{capitalized}{catchphrase}!
+"037"
+"038"
+"039"
+"040"

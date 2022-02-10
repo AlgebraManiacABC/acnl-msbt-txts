@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{pause 8}
-"003"	{emote: Anger}
-"004"	{emote: Worry}
-"005"	{emote: Alarmed}
-"006"	{emote: Soft Smile}
-"007"	{emote: Sadness}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Alarmed}
-"011"	{emote: Happiness}
-"012"	{emote: Glare}
+"001"	{emote: Surprise}あっ、{pause 8}キミが{ruby (charSpan 1): も}持ってる	それって{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Curious}{0011-0003-0002-0000}かい？！	{emote: Anger}{ruby (charSpan 1): じつ}実は、それ{pause 8}・{pause 8}・{pause 8}・{pause 8}	ボクが　ずっと	{ruby (charSpan 1): さが}探し{ruby (charSpan 1): もと}求めていたモノなんだ！	{emote: Worry}もし、{ruby (charSpan 1): よ}良かったら{pause 16}	{ruby (charSpan 1): ゆず}譲ってくれないか？{Wait for input}	{emote: Anger}もちろん、タダとは{ruby (charSpan 1): い}言わないよ！	{emote: Thought}{pause 16}そうだな～{pause 8}・{pause 8}・{pause 8}・{pause 8}ボクの	{0011-0003-0002-0001}と{pause 16}	{ruby (charSpan 2): こうかん}交換というのは　どうかな？{Player can respond (0005):0005-0015-0004-0028}	いいよー！	それはムリです
+"002"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Glare}{ruby (charSpan 1): ほ}欲しい！{Wait for input}	{emote: Anger}ボクは　キミが{ruby (charSpan 1): も}持ってる{pause 16}	{0011-0003-0002-0000}が{ruby (charSpan 1): ほ}欲しい！	{emote: Worry}でも、それに{ruby (charSpan 1): あたい}値するような{ruby (charSpan 1): もの}物	ボク　{ruby (charSpan 1): も}持っていないからなぁ{pause 32}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Inspired}そうだっ！　	{emote: Curious}ボクと{ruby (charSpan 2): こうかん}交換してくれないか？{pause 32}	{emote: Anger}ボクをあげるから{pause 16}	{ruby (charSpan 1): に}煮るなり、なんなり{pause 4}・{pause 4}・{pause 4}・{pause 4}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}えっ、いらない？{Wait for input}	{emote: Worry}じゃあ、{pause 16}{ruby (charSpan 1): つ}釣り{ruby (charSpan 1): あ}合うかどうか	わからないけど{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Reset}ボクの　	{0011-0003-0002-0001}と{pause 8}	{ruby (charSpan 2): こうかん}交換というのは、どうかな？{Player can respond (0005):0008-0015-0007-0028}	{ruby (charSpan 2): こうかん}交換しよう	ぜんぜん　いらない
+"003"	{emote: Anger}この　{0011-0003-0002-0001}、{pause 16}	キミのために{ruby (charSpan 2): ようい}用意したんだよ、{pause 8}	{Player nickname (green)}{0005-000d-0000}！	{emote: Sheepishness}フフフ{pause 4}・{pause 4}・{pause 4}・{pause 4}キミ、{pause 16}	もの{ruby (charSpan 1): ほ}欲しそうな{ruby (charSpan 1): かお}顔してるね～{Wait for input}	{emote: Soft Smile}いいよ、{ruby (charSpan 1): ゆず}譲ってあげるよ！	{emote: Anger}ただし、{ruby (charSpan 2): じょうけん}条件がある！{pause 32}	キミの　{0011-0003-0002-0000}と{pause 8}	{ruby (charSpan 2): こうかん}交換というのは　どうかな？	{emote: Pride}{0011-0003-0002-0000}を	キミが{ruby (charSpan 1): も}持っていることは{pause 16}	リサーチ{ruby (charSpan 1): ずみ}済さ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Player can respond (0005):000b-0015-000a-0028}	そうしよう！	いらないよ
+"004"	{emote: Worry}そうかい{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Happiness}でも、そうこなくっちゃ！{Wait for input}{emote: Agreement}なかなか　{ruby (charSpan 1): て}手に{ruby (charSpan 1): はい}入らない	{ruby (charSpan 1): もの}物だからこそ{pause 16}	こっちも　{ruby (charSpan 1): も}燃えるんだよね～
+"005"	{emote: Alarmed}えっ！　いいのかい？{pause 32}	{emote: Happiness}キミは　ボクの{ruby (charSpan 3): きゅうせいしゅ}救世主だよ
+"006"	{emote: Soft Smile}ありがとう！　{pause 8}{Player nickname (green)}{0005-000d-0000}！{pause 32}	これで　{ruby (charSpan 1): か}欠けた{pause 8}{ruby (charSpan 1): こころ}心のピースが{ruby (charSpan 1): う}埋まるよ、	{pause 8}{catchphrase}
+"007"	{emote: Sadness}そうなのかい{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 2): こんかい}今回は　ちょっと{ruby (charSpan 1): きず}傷ついたよ、{pause 8}	ボク{pause 8}・{pause 8}・{pause 8}・{pause 8}{000b-0003-0002-cd01}
+"008"	{emote: Alarmed}えっ？　いいのかい？{pause 16}	こんなので{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"009"	{emote: Happiness}キミが　いい{ruby (charSpan 1): ひと}人で{ruby (charSpan 1): たす}助かったよ{pause 16}	ありがとう、{Player nickname (green)}{0005-000d-0000}！
+"010"	{emote: Alarmed}あれっ、{pause 8}いらないのかい？	{pause 8}{catchphrase}？{Wait for input}{emote: Worry}キミの{ruby (charSpan 1): ほ}欲しい{ruby (charSpan 1): もの}物は{pause 16}	リサーチ{ruby (charSpan 2): ぶそく}不足だったみたいだね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"011"	{emote: Happiness}よーし、{ruby (charSpan 2): とりひき}取引{ruby (charSpan 2): かいし}開始だ～{Wait for input}	キミが　{0011-0003-0002-0000}で{pause 32}	ボクが　{0011-0003-0002-0001}だね？
+"012"	{emote: Glare}{Villager's name (orange)}、{pause 32}	ミッション・コンプリート！

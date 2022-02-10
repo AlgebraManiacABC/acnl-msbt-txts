@@ -1,23 +1,23 @@
 == 0 ==
-"001"	어서 오게! {pause 10}
-"002"	어서 오게! {pause 10}
-"003"	{emote: Happiness}
-"004"	{emote: Glare}
-"005"		{0000-0002-0002-ffffff96-00}준～비{pause 10}
-"006"		{0000-0002-0002-ffffff96-00}준～비{pause 10}
-"007"		{0000-0002-0002-ffffff96-00}{0000-0002-0002-ffffff96-00}{0007-000c-0000}
-"008"	
-"009"	
-"011"	수고가 많았네!{pause 30}
-"012"	둘 다{pause 5}
-"013"	자네들 모두{pause 5}!
-"014"	{emote: Happiness}
-"015"	자네들과{pause 5}
-"016"	{emote: Happiness}
-"017"	자네들과{pause 5}
-"018"	그리고{pause 5}
-"019"	{0011-0000-0002-00-00}
-"020"	{0011-0000-0002-00-00}
-"021"	{0011-0000-0002-00-00}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
+"001"	어서 오게! {pause 10}{Player name}!
+"002"	어서 오게! {pause 10}제군들!
+"003"	{emote: Happiness}{Blue}{0012-0015-0000}{Color Reset}에{pause 5}	참가해주어서 고맙네!
+"004"	{emote: Glare}그럼 시작하도록 하지{pause 10}・{pause 10}・{pause 10}・
+"005"		{Text size 150%}준～비{pause 10}・{Text size 150%}{pause 10}{Text size 150%}・{Text size 150%}{pause 10}{Text size 150%}・{Text size 100%}{Text size 150%}{Wait <003c 0000> 'time'}{Text size 100%}
+"006"		{Text size 150%}준～비{pause 10}・{Text size 150%}{pause 10}{Text size 150%}・{Text size 150%}{pause 10}{Text size 150%}・{Text size 100%}
+"007"		{Text size 150%}{Text size 150%}{0007-000c-0000}{000d-0001-0002-cd00}{emote: Aggravation}{000d-0009-0000}땅～!{Text size 150%}{000d-000a-0000}{Wait <003c 0000> 'time'}{Text size 100%}
+"008"
+"009"
+"011"	수고가 많았네!{pause 30}	마지막으로 결과를 발표하지!{Wait <005a 0000> 'time'}
+"012"	둘 다{pause 5} 수고들 했네!{pause 30}	마지막으로 결과를 발표하지!{Wait <005a 0000> 'time'}
+"013"	자네들 모두{pause 5} 수고 많았네!{pause 30}	마지막으로 결과를 발표하지!{Wait <005a 0000> 'time'}
+"014"	{emote: Happiness}결과가 그러면 또 어떤가?{pause 10}	즐겁게 바캉스 기분을	만끽했으면 그걸로 된 게지!{Wait for input}그리 멀지 않은 미래에{pause 10}	이 {Blue}{0012-0015-0000}{Color Reset}에서	다시 만나기를{pause 5} 기대하고 있겠네!
+"015"	자네들과{pause 5} 다시{pause 10}	이 {Blue}{0012-0015-0000}{Color Reset}에서	만날 수 있기를{pause 5} 기대하겠네!
+"016"	{emote: Happiness}그래, 어땠는가?{pause 20}	이번 바캉스를 마음껏	즐겼길 바라네!{Wait for input}기왕이면{pause 5} 빠른 시일 안에{pause 10}	이 {Blue}{0012-0015-0000}{Color Reset}에서	자네를{pause 5} 다시 만나고 싶군그래!
+"017"	자네들과{pause 5} 다시{pause 10}	이 {Blue}{0012-0015-0000}{Color Reset}에서	만날 때를{pause 5} 학수고대하고 있겠네!
+"018"	그리고{pause 5} 열심히 노력한 순으로	보너스를 주도록 하지!
+"019"	{0011-0000-0002-0000}에게는{pause 5} {Blue}{Number (0x7)}개{Color Reset},{0007-000d-0000}{pause 60}	{0011-0000-0002-0001}에게는{pause 5} {Blue}{Number (0x7)}개{Color Reset}의 메달을	내가 추가해줌세!{0007-000e-0000}{pause 60}
+"020"	{0011-0000-0002-0000}에게는{pause 5} {Blue}{Number (0x7)}개{Color Reset},{0007-000d-0000}{pause 60}	{0011-0000-0002-0001}에게는{pause 5} {Blue}{Number (0x7)}개{Color Reset},{0007-000e-0000}{pause 60}	{0011-0000-0002-0002}에게는{pause 5} {Blue}{Number (0x7)}개{Color Reset} 메달 추가일세!{0007-000f-0000}{pause 60}
+"021"	{0011-0000-0002-0000}에게는{pause 5} {Blue}{Number (0x7)}개{Color Reset},{0007-000d-0000}{pause 60}	{0011-0000-0002-0001}에게는{pause 5} {Blue}{Number (0x7)}개{Color Reset},{0007-000e-0000}{pause 60}{Wait for input}{0011-0000-0002-0002}에게는{pause 5} {Blue}{Number (0x7)}개{Color Reset},{0007-000f-0000}{pause 60}	{0011-0000-0002-0003}에게는{pause 5} {Blue}{Number (0x7)}개{Color Reset}의 메달을	내가 추가해줌세!{0007-0010-0000}{pause 60}
+"022"	{emote: Happiness}뭐, 결과와는 상관없이{pause 10}	바캉스 기분을 만끽했다면	더 바랄 것이 없겠구먼!
+"023"	{emote: Happiness}그래, 어땠는가?{pause 20}	나름대로 바캉스를 만끽했는가?

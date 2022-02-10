@@ -1,23 +1,23 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Alarmed}
-"003"	{emote: Disbelief}
-"004"	{emote: Star Yell}
-"005"	{emote: Happiness}
-"006"	{emote: Agreement}
-"007"	{emote: Distress}
-"008"	{emote: Alarmed}
-"009"	{emote: Surprise}
-"010"	{emote: Surprise}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Soft Smile}
-"017"	{emote: Sunny}
-"018"	{emote: Soft Smile}
-"019"	{emote: Happiness}
-"020"	{emote: Curious}
-"021"	{emote: Reset}
-"022"	{emote: Worry}
+"001"	{emote: Distress}キャー！　{pause 20}オ、{pause 10}オニ～！
+"002"	{emote: Alarmed}まぁ！{pause 20}	オニが{ruby (charSpan 1): で}出ましたね！
+"003"	{emote: Disbelief}オニ{pause 8}・{pause 8}・{pause 8}・{pause 8}ですね
+"004"	{emote: Star Yell}オニは～{pause 10}{ruby (charSpan 1): そと}外！{pause 20}	{ruby (charSpan 1): ふく}福は～{pause 10}{ruby (charSpan 1): うち}内！
+"005"	{emote: Happiness}うふふ{pause 20}	{emote: Soft Smile}{ruby (charSpan 1): まめ}豆まきをしたら、{pause 10}	{ruby (charSpan 2): いっき}一気に　{pause 5}{ruby (charSpan 2): せつぶん}節分{ruby (charSpan 2): きぶん}気分になりました	{emote: Glee}ご{ruby (charSpan 2): きょうりょく}協力、{pause 10}ありがとうございます！
+"006"	{emote: Agreement}{ruby (charSpan 2): せつぶん}節分に　{pause 8}オニに{ruby (charSpan 2): であ}出会ったら{pause 10}	{emote: Happiness}{ruby (charSpan 1): まめ}豆を　まかないとですよね！{Wait for input}{emote: Distress}でも、{pause 10}ちょっと	{ruby (charSpan 1): いた}痛かったかしら{pause 5}・{pause 5}・{pause 5}・{pause 5}？{Wait for input}	{emote: Worry}すみません、{pause 15}{catchphrase}
+"007"	{emote: Distress}す、{pause 10}すみません！{pause 20}	{ruby (charSpan 1): おも}思いっきり　{pause 5}{ruby (charSpan 1): な}投げてしまいました{pause 5}・{pause 5}・{pause 5}・{pause 5}{Wait for input}{emote: Soft Smile}でも、{pause 10}{ruby (charSpan 2): せつぶん}節分らしくて　うれしかったです{pause 20}	{emote: Sunny}ありがとうございました
+"008"	{emote: Alarmed}あら？！{pause 30}	オニなのに、{pause 10}{ruby (charSpan 1): まめ}豆を{ruby (charSpan 1): も}持ってる{pause 5}・{pause 5}・{pause 5}・{pause 5}{Wait for input}{emote: Curious}わたしが、{pause 5}まいたらいいんですか？{pause 20}	それとも　{pause 10}まきたいんですか{pause 5}・{pause 5}・{pause 5}・{pause 5}？{Wait for input}	{emote: Distress}どっちなのかしら～、{pause 15}{catchphrase}
+"009"	{emote: Surprise}あら！{pause 20}	{emote: Inspired}オニなのに　{pause 15}{ruby (charSpan 1): まめ}豆をまきたいんですね！{Wait for input}{emote: Happiness}わかります、{pause 15}{ruby (charSpan 1): たの}楽しいですもんね{pause 20}	{emote: Agreement}わたしもできることなら{pause 10}	{emote: Sunny}{ruby (charSpan 2): りょうほう}両方やりたいです
+"010"	{emote: Surprise}あら！{Wait for input}	オニのお{ruby (charSpan 1): めん}面を　かぶっているのに、{pause 10}	{emote: Sheepishness}{ruby (charSpan 1): まめ}豆を{ruby (charSpan 1): も}持ってるなんて　{pause 10}ちぐはぐですよ？！{Wait for input}{emote: Happiness}あわてん{ruby (charSpan 1): ぼう}坊の{pause 5}オニさんですね！
+"011"	{emote: Happiness}{ruby (charSpan 2): せつぶん}節分ですから、{pause 10}	やっぱり　{pause 10}{ruby (charSpan 1): まめ}豆まきしないとですよね！
+"012"	{emote: Happiness}オニがいたら、{pause 10}	すぐまけるように　{pause 8}{ruby (charSpan 2): じゅんび}準備してるんです
+"013"	{emote: Happiness}せっかくの{ruby (charSpan 2): せつぶん}節分、{pause 10}	{emote: Glee}{ruby (charSpan 1): まめ}豆まきをして{pause 10}	{ruby (charSpan 1): ふく}福を{ruby (charSpan 1): よ}呼び{ruby (charSpan 1): こ}込みたいです！
+"014"	{emote: Happiness}あら！　{pause 20}{ruby (charSpan 1): まめ}豆まき{ruby (charSpan 1): よう}用の{ruby (charSpan 1): まめ}豆ですね！{Wait for input}{emote: Soft Smile}わたしは　よく{pause 10}	{ruby (charSpan 1): あま}余ったお{ruby (charSpan 1): まめ}豆を　{pause 8}{ruby (charSpan 2): にもの}煮物にするんです
+"015"	{emote: Happiness}あら、{pause 10}{ruby (charSpan 1): まめ}豆まきしてるんですね！{Wait for input}ぜひ、{pause 10}この{ruby (charSpan 1): むら}村のオニを{pause 10}	{emote: Sunny}{ruby (charSpan 2): たいじ}退治してください！
+"016"	{emote: Soft Smile}それって、{pause 10}{ruby (charSpan 2): せつぶん}節分の{ruby (charSpan 1): まめ}豆ですよね？{Wait for input}{emote: Happiness}{ruby (charSpan 2): きせつ}季節の{ruby (charSpan 2): ぎょうじ}行事を{ruby (charSpan 2): たいせつ}大切にする{pause 8}	{Player nickname (green)}さん、{pause 10}{emote: Sunny}すてきです！
+"017"	{emote: Sunny}あ！　{pause 20}{Player nickname (green)}さんも{pause 10}	{ruby (charSpan 1): まめ}豆まきしてるんですね！{Wait for input}{emote: Agreement}{ruby (charSpan 3): いちねんかん}一年間の{ruby (charSpan 2): むびょう}無病{ruby (charSpan 2): そくさい}息災をいのって{pause 10}	{emote: Soft Smile}たくさん　まきましょう
+"018"	{emote: Soft Smile}その{ruby (charSpan 1): まめ}豆は、{pause 10}{ruby (charSpan 2): せつぶん}節分{ruby (charSpan 1): よう}用ですね！{pause 20}	{emote: Happiness}わたしも、{pause 10}{ruby (charSpan 1): まめ}豆まきしてるところなんです{Wait for input}{emote: Glee}{ruby (charSpan 2): ことし}今年も　{Town name (pink)}{ruby (charSpan 1): むら}村に{pause 10}	{ruby (charSpan 1): ふく}福が　{pause 8}たくさん{ruby (charSpan 1): き}来ますように！
+"019"	{emote: Happiness}{Player nickname (green)}さんも　{pause 10}{ruby (charSpan 1): まめ}豆まき{ruby (charSpan 1): ちゅう}中ですね！{Wait for input}{emote: Soft Smile}もし、{ruby (charSpan 1): まめ}豆が{ruby (charSpan 1): あま}余ったら{pause 10}	あとで　{pause 10}{emote: Glee}{ruby (charSpan 1): まめ}豆ごはんにするつもりです
+"020"	{emote: Curious}もしかして　{pause 10}{ruby (charSpan 1): まめ}豆をまかれて{pause 3}	{ruby (charSpan 1): に}逃げて{ruby (charSpan 1): き}来たんですか？！{pause 40}	{Gray}ちょっと　かわいそう{pause 8}・{pause 8}・{pause 8}・{pause 8}{Color Reset}{Wait for input}{emote: Shyness}{ruby (charSpan 1): すこ}少しなら　{pause 10}ゆっくりしていって{pause 3}	いいですからね、{pause 15}{catchphrase}
+"021"	{emote: Reset}でも{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Soft Smile}{ruby (charSpan 2): へや}部屋に{ruby (charSpan 1): き}来てくださった{pause 10}	お{ruby (charSpan 1): きゃく}客さんには　{pause 3}{ruby (charSpan 1): か}変わりありませんので、{pause 15}	{ruby (charSpan 1): まめ}豆をまいて　{pause 5}{emote: Sunny}{ruby (charSpan 1): お}追い{ruby (charSpan 1): だ}出したりなんてしませんよ
+"022"	{emote: Worry}とは{ruby (charSpan 1): い}言っても、{pause 10}	{ruby (charSpan 2): せつぶん}節分に　{pause 3}オニは　{ruby (charSpan 1): か}欠かせないですからね{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): ねん}年に1{ruby (charSpan 1): かい}回のお{ruby (charSpan 2): しごと}仕事、{pause 10}お{ruby (charSpan 1): つか}疲れ{ruby (charSpan 1): さま}様です{pause 30}	{emote: Reset}よければ　{pause 5}{emote: Happiness}{ruby (charSpan 1): すこ}少し{ruby (charSpan 1): やす}休んでいってください

@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Anger}
-"005"	{emote: Greetings}
+"001"	{emote: Greetings}やぁ、{pause 8}{Player name}{0005-000d-0000}～{pause 20}	{ruby (charSpan 2): げんき}元気してる～？{Wait for input}{ruby (charSpan 2): きょう}今日は、{pause 20}{Town name (pink)}{ruby (charSpan 1): むら}村で	あそびたい{ruby (charSpan 2): きぶん}気分	だったんだぁ、{pause 8}{catchphrase}
+"002"	{emote: Alarmed}あぁ～！{pause 20}	{Player name}{0005-000d-0000}だぁ！{Wait for input}{emote: Glee}きぐうだねぇ～{pause 40}	ボク　{ruby (charSpan 2): きょう}今日、{pause 20}	たまたま　お{ruby (charSpan 1): か}買いものに{ruby (charSpan 1): き}来たんだぁ
+"003"	{emote: Alarmed}{0007-000a-0000}わぁ～！{pause 40}	{Player name}{0005-000d-0000}が{ruby (charSpan 1): で}出たぁ～！{Wait for input}{emote: Laughter}えへへ～{pause 20}	ちょっと　ビックリしちゃったよぉ{pause 20}{emote: Happiness}{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は　{Town name (pink)}{ruby (charSpan 1): むら}村で	ショッピング～{pause 40}	{ruby (charSpan 1): なに}何か　いいもの　あるかなぁ
+"004"	{emote: Anger}ん？{pause 20}　このニオイは{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Laughter}やっぱり{pause 20}　{Player name}{0005-000d-0000}かぁ！{pause 40}{emote: Happiness}{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日はなんとなく、{pause 20}	{Town name (pink)}{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): き}来てみたよぉ～{pause 40}	{ruby (charSpan 1): あ}会えて　うれしいなぁ、{pause 8}{catchphrase}
+"005"	{emote: Greetings}やぁ～{pause 8}　{Player name}{0005-000d-0000}！{pause 40}	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　ボク、{pause 20}	{Town name (pink)}{ruby (charSpan 1): むら}村で　お{ruby (charSpan 1): か}買いものなんだぁ{Wait for input}{emote: Agreement}{Player name}{0005-000d-0000}も{pause 20}	ムダづかいには　ちゅういだよぉ？

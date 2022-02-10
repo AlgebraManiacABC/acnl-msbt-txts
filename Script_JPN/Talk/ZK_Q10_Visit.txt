@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Alarmed}
-"003"	{emote: Disbelief}
-"004"	{emote: Distress}
+"001"	{emote: Distress}ちょ　ちょっと{pause 16}	{ruby (charSpan 1): いま}今、かくれんぼ{ruby (charSpan 1): ちゅう}中なんだ！{Wait for input}{emote: Worry}{0011-0000-0002-0000}{0005-000d-0000}に{pause 16}	ボクの{ruby (charSpan 3): いばしょ}居場所　{ruby (charSpan 1): おし}教えちゃダメだよ？
+"002"	{emote: Alarmed}えっ？　{pause 32}{emote: Soft Smile}{ruby (charSpan 3): だいじょうぶ}大丈夫！{pause 16}	ボクは、あやしい{ruby (charSpan 1): もの}者じゃないよ{Wait for input}	{emote: Glare}{ruby (charSpan 1): いま}今は、かくれてる{ruby (charSpan 2): さいちゅう}最中さ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"003"	{emote: Disbelief}わっ！　{pause 8}ビックリしたぁ～！{pause 32}	{emote: Worry}{0011-0000-0002-0000}{0005-000d-0000}に{pause 16}	{ruby (charSpan 1): み}見つかったかと{ruby (charSpan 1): おも}思ったよ！
+"004"	{emote: Distress}{0007-000c-0000}ちょっ{pause 5}・{pause 5}・{pause 5}・{pause 15}	コレは　なんの{ruby (charSpan 2): じょうだん}冗談かな？！

@@ -1,65 +1,65 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Happiness}
-"003"	{emote: Resigned}
-"004"	{emote: Alarmed}
-"005"	{emote: Laughter}
-"006"	オマエが　{ruby (charSpan 1): き}着てるのって{pause 20}
-"007"	{0011-0003-0002-00-00}
-"008"	{emote: Alarmed}
-"009"	{emote: Alarmed}
-"010"	{emote: Cold Chill}
-"011"	
-"012"	
-"013"	
-"014"	{emote: Alarmed}
-"015"	{emote: Anger}
-"016"	{emote: Alarmed}
-"017"	{emote: Anger}
-"018"	{emote: Happiness}
-"019"	{emote: Alarmed}
-"020"	オマエの　そのかっこうは{pause 8}
-"021"	{0009-0000-0004-16-00-17-00}
-"022"	{emote: Shocked}
-"023"	{emote: Glare}
-"024"	{emote: Sadness}
-"025"	{emote: Happiness}
-"026"	
-"027"	
-"028"	{emote: Anger}
-"029"	{emote: Alarmed}
-"030"	{emote: Alarmed}
-"031"	オマエが　{ruby (charSpan 1): あたま}頭に{ruby (charSpan 1): つ}着けてるのって{pause 20}!
-"032"	{emote: Happiness}
-"033"	{emote: Alarmed}
-"034"	{emote: Alarmed}
-"035"	{emote: Laughter}
-"036"	{000a-0001-0004-25-00-26-00}
-"037"	{emote: Alarmed}
-"038"	{emote: Alarmed}
-"039"	
-"040"	
-"041"	{emote: Happiness}
-"042"	オマエ{pause 20}
-"043"	{emote: Alarmed}
-"044"	{emote: Anger}
-"045"	{emote: Alarmed}
-"046"	{emote: Happiness}
-"047"	{emote: Daydreaming}
-"048"	{emote: Happiness}
-"049"	{emote: Happiness}
-"050"	{emote: Happiness}
-"051"	{emote: Happiness}
-"052"	{Player nickname (green)}
-"053"	{emote: Greetings}
-"054"	{0009-0000-0004-37-00-38-00}
-"055"	{emote: Shocked}
-"056"	{emote: Glare}
-"057"	{emote: Sadness}
-"058"	{emote: Happiness}
-"059"	{emote: Alarmed}
-"060"	{emote: Alarmed}
-"061"	{emote: Happiness}
-"062"	そういえば、{pause 20}!
-"063"	{emote: Happiness}
-"064"	{emote: Alarmed}
+"001"	{emote: Alarmed}そういえば　{ruby (charSpan 2): きょう}今日のかっこ！{pause 40}	まるで　うちゅうから	{ruby (charSpan 1): かえ}帰ってきたばっかり　みたいだなー！{Wait for input}{emote: Reset}で、{pause 20}{ruby (charSpan 2): ちきゅう}地球に{ruby (charSpan 1): かえ}帰ってきたら{pause 8}	{emote: Curious}まず　{ruby (charSpan 1): なに}何がやりたいんだ？{Player can respond (0001):0002-0000-0003-0000-0004-0000}	ごはん	おふろ	トレーニング
+"002"	{emote: Happiness}やっぱり　{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): いえ}家で	おいしいごはんかー！{Wait for input}{emote: Agreement}いつもの　みそしるも、{pause 20}	うちゅう{ruby (charSpan 1): がえ}帰りの　{ruby (charSpan 2): ひとくち}一口は	かくべつなんだろーな、{pause 8}{catchphrase}
+"003"	{emote: Resigned}やっぱり　うちゅうに	おふろは　なかったかー{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Laughter}へへっ！{pause 20}	ぞんぶんに　アセをながして	{ruby (charSpan 1): やす}休んでくれよ！　{pause 8}{catchphrase}！{pause 40}{emote: Soft Smile}
+"004"	{emote: Alarmed}おー！{pause 40}	もう　{ruby (charSpan 1): つぎ}次に{ruby (charSpan 1): い}行くときのことを{ruby (charSpan 1): かんが}考えて{pause 20}	トレーニング{ruby (charSpan 2): かいし}開始かー！{Wait for input}{emote: Agreement}オマエが　そんなに	うちゅうに　むちゅうだったなんて{pause 20}	{ruby (charSpan 1): おも}思わなかったぞー！　{pause 8}{catchphrase}！
+"005"	{emote: Laughter}ハハッ！{pause 20}	それにしても　{ruby (charSpan 1): なん}何だよ	{ruby (charSpan 2): きょう}今日のオマエのかっこ！{Wait for input}まるでカッパじゃん！{pause 40}{emote: Soft Smile}{Wait for input}{emote: Shocked}{0007-000b-0000}えっ？！{pause 40}	マジで　カッパを	ねらってるのか？！{Wait for input}{emote: Agreement}それなら、{pause 20}	やっぱり　{ruby (charSpan 1): およ}泳ぎも	{ruby (charSpan 2): とくい}得意じゃないとな！{Wait for input}{emote: Anger}ヨッシャー！{pause 20}	まずは{pause 20}　バタ{ruby (charSpan 1): あし}足だ！　{pause 8}{catchphrase}！
+"006"	オマエが　{ruby (charSpan 1): き}着てるのって{pause 20}	{emote: Curious}{0011-0003-0002-0002}だよなー？{Wait for input}{emote: Agreement}それは　チャリに{ruby (charSpan 1): の}乗るヤツの{pause 20}	ユニフォームみたいなもんだ！{Wait for input}{emote: Thought}ってことは、{pause 20}	オマエって　{ruby (charSpan 1): ふと}太ももパンパン？！{Wait for input}{emote: Distress}{0007-000b-0000}うっわーー！{pause 40}	{ruby (charSpan 2): こんど}今度　さわらせてくれよ、{pause 8}{catchphrase}
+"007"	{0011-0003-0002-0000}ってことは、{pause 20}	{emote: Glare}オマエ{pause 8}　{ruby (charSpan 3): じてんしゃ}自転車に	{ruby (charSpan 1): の}乗るんだなー？{Wait for input}{emote: Alarmed}{0007-000b-0000}うぉーー！{pause 40}	よく{ruby (charSpan 1): み}見ると　{ruby (charSpan 1): ふと}太もものキンニクが	スゲー　{ruby (charSpan 1): そだ}育ってる{ruby (charSpan 1): き}気がする！{Wait for input}{emote: Worry}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	オイラも　{ruby (charSpan 1): ま}負けてられないな！	{pause 8}{catchphrase}！
+"008"	{emote: Alarmed}ってか、{pause 20}オマエ！{pause 40}	{ruby (charSpan 2): きょう}今日のかっこ　カッコイイな！{Wait for input}{emote: Distress}{ruby (charSpan 1): なん}何か　めちゃくちゃ　{ruby (charSpan 1): つよ}強そうじゃん！{pause 40}	{ruby (charSpan 2): きょう}今日のオマエとは	{ruby (charSpan 1): たたか}戦いたくないぞ、{pause 8}{catchphrase}
+"009"	{emote: Alarmed}{ruby (charSpan 2): きょう}今日のオマエのかっこ、{pause 20}	プロレスじゃん！{Wait for input}{emote: Glee}スゲェー！{pause 20}　カンペキだ！{pause 20}	やる{ruby (charSpan 1): き}気まんまんだなー！{Wait for input}{emote: Sunny}へへっ！{pause 20}	{ruby (charSpan 1): つぎ}次に　{ruby (charSpan 1): あ}会ったときは	{ruby (charSpan 2): しょうぶ}勝負だー！　{pause 8}{catchphrase}！
+"010"	{emote: Cold Chill}{pause 20}{ruby (charSpan 1): なん}何か　{ruby (charSpan 2): きょう}今日のオマエ{pause 20}	かげ　うすくないか？{Wait for input}{emote: Shocked}{0007-000b-0000}って、{pause 20}そのかっこ！{pause 40}	カンペキに　にんじゃ　じゃん！{Wait for input}{emote: Glee}スッゲー！{pause 20}	にんぽうで{pause 8}　{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 2): けはい}気配を	{ruby (charSpan 1): け}消してたんだな！　{pause 8}{catchphrase}！
+"011"
+"012"
+"013"
+"014"	{emote: Alarmed}{0007-000b-0000}おー！{pause 20}	{ruby (charSpan 2): きょう}今日は　どっかで	{ruby (charSpan 2): やきゅう}野球の{ruby (charSpan 2): しあい}試合でもあんのか？{Wait for input}{emote: Happiness}ヒマだったら、{pause 20}	オイラが　おうえんしてやるよ！{Wait for input}{emote: Pride}もしバッターボックスが　{ruby (charSpan 1): あ}空いてたら{pause 20}	{ruby (charSpan 1): う}打ってやっても　いいぞ？
+"015"	{emote: Anger}そのかっこう{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): きょう}今日はどっかで	{ruby (charSpan 3): うんどうかい}運動会でも　やってるのか？{Wait for input}{emote: Distress}うぉーーっ！{pause 40}	オイラも　{ruby (charSpan 1): で}出たいぞー！	{pause 8}{catchphrase}！
+"016"	{emote: Alarmed}オマエの　そのかっこう！{pause 40}	バスケットボールするのか？！{Wait for input}{emote: Agreement}バスケといえば、{pause 20}	やっぱり　ダンクだよな！{Wait for input}{emote: Daydreaming}オイラも　いつか{pause 20}	かっこいい　ダンクシュートを	キメテみたいよ！{Wait for input}{emote: Anger}よーっし！{pause 20}	いっしょに　ジャンプ{ruby (charSpan 1): りょく}力を	きたえるぞー！　{pause 8}{catchphrase}！
+"017"	{emote: Anger}オマエの　そのかっこう！{pause 20}	{ruby (charSpan 1): いま}今から　マラソン{ruby (charSpan 2): たいかい}大会かー？！{Wait for input}{emote: Sunny}へへっ！{pause 20}	オイラは　ゴール{ruby (charSpan 2): ちてん}地点で	{ruby (charSpan 1): ま}待っててやるよ！{Wait for input}{emote: Showmanship}コーチは　{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): そだ}育てた{ruby (charSpan 2): せんしゅ}選手を、{pause 20}	さいごに　だきしめるもんだろ？！	{pause 8}{catchphrase}！
+"018"	{emote: Happiness}{ruby (charSpan 2): きょう}今日のオマエのかっこう、{pause 20}	{ruby (charSpan 1): うご}動きやすそうで　いいじゃん！{Wait for input}{emote: Agreement}やっぱり　スポーツマンは{pause 20}	{emote: Sunny}ジャージにかぎるな、{pause 8}{catchphrase}
+"019"	{emote: Alarmed}おっ！{pause 20}　よく{ruby (charSpan 1): み}見たらオマエ！{pause 20}	{ruby (charSpan 2): きょう}今日のかっこう、	かんぜんに　ショーグンじゃん！{Wait for input}{emote: Reset}{ruby (charSpan 2): なまえ}名前はやっぱり{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}{Player nickname (green)}ショーグン！{Wait for input}	{emote: Love}カ、{pause 20}カッケェー！　{pause 8}{catchphrase}！
+"020"	オマエの　そのかっこうは{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sunny}サッカーだなー？！{Wait for input}{emote: Happiness}ヨッシャー！{pause 20}	オイラが　キーパーに	なってやるよ！{Wait for input}{emote: Anger}さぁ　{ruby (charSpan 1): こ}来いっ！{pause 40}	{ruby (charSpan 1): みぎ}右か　{ruby (charSpan 1): ひだり}左か{pause 20}	どっちに　ボールをける？！{Player can respond (0001):0015-0000-0015-0000-0018-0000}	{ruby (charSpan 1): みぎ}右	{ruby (charSpan 1): ひだり}左	・・・
+"021"	{0009-0000-0004-0016-0017}
+"022"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 40}	オイラが　{ruby (charSpan 1): かんが}考えてた{ruby (charSpan 1): ほう}方と	ぎゃくサイドだー？！{Wait for input}	{emote: Alarmed}{Text size 150%}そのまま{Text size 100%}　{0007-000b-0000}{Text size 150%}ゴーーール！{Text size 100%}{Wait for input}{emote: Happiness}ナイスシュートだ　{Player nickname (green)}！{pause 20}	{ruby (charSpan 2): こんかい}今回は　{ruby (charSpan 1): ま}負けたよ！　{pause 8}{catchphrase}！
+"023"	{emote: Glare}へへっ！{pause 20}	バレバレだぞ、{Player nickname (green)}！{Wait for input}	{Text size 100%}{Villager's name (orange)}{pause 20}{Text size 100%}　{emote: Sunny}{0007-000b-0000}{Text size 150%}{Text size 100%}ナイスセーブ！{Wait for input}{Text size 150%}{Text size 100%}{emote: Laughter}{Text size 150%}{Text size 100%}やっぱり　オイラの{ruby (charSpan 1): か}勝ちだったな！{pause 40}{emote: Soft Smile}
+"024"	{emote: Sadness}えぇーっ！{pause 40}	{ruby (charSpan 1): なん}何だよ　ノッてくれよー{pause 8}・{pause 8}・{pause 8}・
+"025"	{emote: Happiness}{ruby (charSpan 2): きょう}今日のオマエは	{ruby (charSpan 1): およ}泳ぐ{ruby (charSpan 1): き}気　まんまんだな！{Wait for input}{emote: Glee}{ruby (charSpan 1): およ}泳ぐのは　{ruby (charSpan 2): ぜんしん}全身{ruby (charSpan 2): うんどう}運動だから{pause 20}	{ruby (charSpan 1): いろ}色んな　キンニクが	きたえられるんだぞー！{Wait for input}{emote: Disagreement}でも{pause 20}　クラゲだけは	{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けろよな！　{pause 8}{catchphrase}！
+"026"
+"027"
+"028"	{emote: Anger}それは　{0011-0003-0002-0002}！{pause 40}	まさか　オマエが	カンフーマスターだったとはな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Showmanship}{0007-000b-0000}アチョーー！{pause 40}	かかってこーい！　{pause 8}{catchphrase}！
+"029"	{emote: Alarmed}おー！{pause 8}　その{ruby (charSpan 1): ふく}服！{pause 40}	{emote: Glee}オマエ　{ruby (charSpan 2): からて}空手やってたのかー？{pause 40}	それとも　じゅうどう？{Wait for input}{emote: Anger}{0007-000b-0000}オスッ！{pause 40}	{ruby (charSpan 2): こんど}今度　お{ruby (charSpan 2): てあ}手合わせ{ruby (charSpan 1): ねが}願うぞー！{Wait for input}{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Curious}え？{pause 20}	バスローブ？！{Wait for input}	{emote: Cold Chill}{pause 20}マジかよ、{pause 8}{catchphrase}
+"030"	{emote: Alarmed}おー！{pause 20}	{ruby (charSpan 1): あたま}頭にかぶってるのは	{0011-0003-0002-0000}だな？！{Wait for input}{emote: Glee}{ruby (charSpan 2): きょう}今日は　どの{ruby (charSpan 1): へん}辺を	{ruby (charSpan 1): およ}泳ぐんだー？！　{pause 8}{catchphrase}
+"031"	オマエが　{ruby (charSpan 1): あたま}頭に{ruby (charSpan 1): つ}着けてるのって{pause 20}	{emote: Curious}{0011-0003-0002-0000}か？{Wait for input}{emote: Anger}まさか{pause 20}　オマエが	かくとうぎを　やってるなんてな！{Wait for input}{emote: Sunny}へへっ！{pause 20}	{ruby (charSpan 2): こんど}今度　{ruby (charSpan 2): てあわ}手合せしてくれよ！	{pause 8}{catchphrase}！
+"032"	{emote: Happiness}オマエの　{0011-0003-0002-0000}、{pause 20}	カッコイイじゃん！{Wait for input}{emote: Glee}やっぱり　キャップっていいよなー！{pause 40}	かぶってると　{ruby (charSpan 2): げんき}元気が{ruby (charSpan 1): で}出てくるぞ！	{pause 8}{catchphrase}！
+"033"	{emote: Alarmed}{0007-000b-0000}おー！{pause 20}	ナイスタオルだな、{Player nickname (green)}！{Wait for input}{emote: Happiness}{ruby (charSpan 1): あたま}頭に　タオルを　まくのって、{pause 20}	マジで　カッコイイよなー！{Wait for input}{emote: Thought}{ruby (charSpan 2): こうじ}工事げんば{pause 8}・{pause 8}・{pause 8}・{pause 20}	ロックバンドのライブ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sunny}{ruby (charSpan 1): おとこ}男らしい{ruby (charSpan 2): ばしょ}場所には、{pause 20}	タオルが{ruby (charSpan 1): つ}付きものなんだ！
+"034"	{emote: Alarmed}オマエが　かぶってるの、{pause 20}	{0011-0003-0002-0000}じゃん！{Wait for input}{emote: Glare}なるほど{pause 8}・{pause 8}・{pause 8}・{pause 20}	いっつも　{ruby (charSpan 1): はし}走りまわってるのは{pause 20}	アメフトの{ruby (charSpan 2): れんしゅう}練習だったのかー、{pause 8}{catchphrase}
+"035"	{emote: Laughter}ハハッ！{pause 20}	カッコイイな　その{ruby (charSpan 1): あたま}頭！{pause 40}	{ruby (charSpan 2): みごと}見事なアフロヘアーだ！{pause 40}{emote: Soft Smile}{Wait for input}{emote: Thought}もしかして{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}{ruby (charSpan 2): てんねん}天然もの？　{pause 8}{catchphrase}？
+"036"	{000a-0001-0004-0025-0026}
+"037"	{emote: Alarmed}{0007-000b-0000}うぉー！{pause 8}　よく{ruby (charSpan 1): み}見たらオマエの{ruby (charSpan 1): あたま}頭！{pause 20}	{emote: Agreement}{ruby (charSpan 2): みごと}見事な　リーゼントだな！{Wait for input}{emote: Sunny}{ruby (charSpan 2): きあ}気合いが{ruby (charSpan 1): はい}入る	{ruby (charSpan 1): おとこ}男のヘアスタイルだ！　{pause 8}{catchphrase}！
+"038"	{emote: Alarmed}{0007-000b-0000}うぉー！{pause 8}　よく{ruby (charSpan 1): み}見たらオマエの{ruby (charSpan 1): あたま}頭！{pause 20}	{emote: Agreement}{ruby (charSpan 2): みごと}見事な　リーゼントだな！{Wait for input}でも　それは、{pause 20}	{ruby (charSpan 1): つよ}強い{ruby (charSpan 1): おとこ}男のための　ヘアスタイルだぞ？{Wait for input}{emote: Sunny}オマエも　なかなか	ツッパってるんだな！　{pause 8}{catchphrase}！
+"039"
+"040"
+"041"	{emote: Happiness}{ruby (charSpan 2): きょう}今日も　うちゅうの	かっこうなんだな！{Wait for input}{emote: Worry}オマエ　{ruby (charSpan 2): ほんとう}本当は{pause 8}・{pause 8}・{pause 8}・{pause 20}	うちゅうに　{ruby (charSpan 1): かえ}帰りたいんじゃないのか？
+"042"	オマエ{pause 20}　{ruby (charSpan 2): あいか}相変わらず	カッパのかっこう　してるんだな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}{0007-000b-0000}あーっ！{pause 20}	そろそろ　{ruby (charSpan 1): あたま}頭のお{ruby (charSpan 1): さら}皿が	かわいてくるころじゃないか？{Wait for input}{emote: Thought}こういうときは、{pause 20}	ジョウロで　{ruby (charSpan 1): みず}水をやれば	いいのかな{pause 8}・{pause 8}・{pause 8}・
+"043"	{emote: Alarmed}そのかっこう、{pause 20}	{ruby (charSpan 2): きょう}今日も　{ruby (charSpan 3): じてんしゃ}自転車こぐのかー！{Wait for input}{emote: Agreement}どんどん　オマエの{ruby (charSpan 1): ふと}太ももが	{ruby (charSpan 1): そだ}育っていくなー！{Wait for input}{emote: Disagreement}オイラも　{ruby (charSpan 1): ま}負けてられないぞー！{pause 40}	{emote: Happiness}{ruby (charSpan 1): あと}後で　ジョギングだ{pause 8}	ジョギングー、{pause 8}{catchphrase}！
+"044"	{emote: Anger}ムッ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): きょう}今日もまた　その{ruby (charSpan 1): つよ}強そうな　かっこう{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}{0007-000b-0000}アレ？！{pause 40}	なんか　{ruby (charSpan 1): まえ}前より	パワーたまってないか？！{Wait for input}{emote: Distress}まさか{pause 20}　ちょっとずつ	エネルギーを　チャージしてる？{Wait for input}{emote: Disagreement}オイラの　{ruby (charSpan 1): み}見まちがいだと	いいけどな、{pause 8}{catchphrase}
+"045"	{emote: Alarmed}おー！{pause 8}　{Player nickname (green)}！{pause 20}	{ruby (charSpan 2): きょう}今日も　そのかっこうか！{Wait for input}	{emote: Curious}だれかと　{ruby (charSpan 2): しあい}試合するのかー？{Wait for input}{emote: Shocked}{0007-000b-0000}え？！{pause 20}　オイラ？！{Wait for input}{emote: Disagreement}ダメ　ダメ　ダメ！{pause 40}	{emote: Worry}オイラと　オマエは	たいかくが　ちがうからなー	{emote: Resigned}いっしょに　プロレスは	ムリなんだよ！　{pause 8}{catchphrase}！
+"046"	{emote: Happiness}{ruby (charSpan 2): きょう}今日も　そのかっこうかー！{pause 20}	オマエ　にんじゃに	ハマってるのかー？{Wait for input}{emote: Thought}それにしても、{pause 20}	そのかっこうって{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Laughter}{ruby (charSpan 1): おも}思ってたより　{ruby (charSpan 2): めだ}目立つよな！{pause 40}	ハハッ！{pause 40}{emote: Soft Smile}
+"047"	{emote: Daydreaming}オマエのかっこう{ruby (charSpan 1): み}見てたら、{pause 20}	{ruby (charSpan 2): やきゅう}野球やりたくなってきたなー！{Wait for input}{emote: Anger}オマエが　それをかぶってるってことは、{pause 20}	{emote: Pride}オイラは　やっぱり	ピッチャーだよな？{Wait for input}{emote: Sunny}へへっ！{pause 20}	{ruby (charSpan 2): ぜんぶ}全部　ストライクゾーンに	{ruby (charSpan 1): な}投げこんでやるぞー！　{pause 8}{catchphrase}！
+"048"	{emote: Happiness}オマエ　{ruby (charSpan 2): きょう}今日も	たいそうふくかー！{pause 40}	{ruby (charSpan 2): まいにち}毎日が　{ruby (charSpan 3): うんどうかい}運動会みたいだな！
+"049"	{emote: Happiness}{ruby (charSpan 2): きょう}今日も　バスケか　{Player nickname (green)}！{Wait for input}{emote: Agreement}スポーツは　{ruby (charSpan 2): まいにち}毎日{ruby (charSpan 1): つづ}続けることが	{ruby (charSpan 2): じゅうよう}重要だからな！{pause 40}	{emote: Greetings}おうえんしてるぞー、{pause 8}{catchphrase}
+"050"	{emote: Happiness}{ruby (charSpan 2): きょう}今日も　マラソンか　{Player nickname (green)}！{Wait for input}{emote: Agreement}スポーツは　{ruby (charSpan 2): まいにち}毎日{ruby (charSpan 1): つづ}続けることが	{ruby (charSpan 2): じゅうよう}重要だからな！{pause 40}	{emote: Greetings}おうえんしてるぞー、{pause 8}{catchphrase}
+"051"	{emote: Happiness}{ruby (charSpan 2): きょう}今日も　ジャージスタイルだな！{Wait for input}	{emote: Agreement}{ruby (charSpan 2): いちど}一度　{ruby (charSpan 1): き}着たら	やめられなく　なるだろー？　
+"052"	{Player nickname (green)}、{pause 20}	{ruby (charSpan 2): きょう}今日も　そのかっこうなんだな！{Wait for input}{emote: Thought}かぶとも　かっちゅうも、{pause 20}	かなり　{ruby (charSpan 1): おも}重いんじゃないかー？{Wait for input}{emote: Reset}そのガマン{ruby (charSpan 1): づよ}強さ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sunny}ぶしのたましい　ってやつか！
+"053"	{emote: Greetings}{ruby (charSpan 2): きょう}今日も　やるかー！{pause 20}	サッカーゲーム！　{pause 8}{catchphrase}！{Wait for input}{emote: Anger}さぁ！{pause 20}　オイラがキーパーだ！{pause 40}	どっちに　シュートする？！{Player can respond (0001):0036-0000-0036-0000-0039-0000}	{ruby (charSpan 1): みぎ}右	{ruby (charSpan 1): ひだり}左	・・・
+"054"	{0009-0000-0004-0037-0038}
+"055"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 40}	オイラが　{ruby (charSpan 1): かんが}考えてた{ruby (charSpan 1): ほう}方と	ぎゃくサイドだー？！{Wait for input}	{emote: Alarmed}{0007-000b-0000}{Text size 150%}ゴーーール！{Text size 100%}{Wait for input}{emote: Happiness}ナイスシュートだ　{Player nickname (green)}！{pause 20}	{ruby (charSpan 2): こんかい}今回は　{ruby (charSpan 1): ま}負けたよ！　{pause 8}{catchphrase}！
+"056"	{emote: Glare}へへっ！{pause 20}	バレバレだぞ、{Player nickname (green)}！{Wait for input}	{emote: Sunny}{0007-000b-0000}{Text size 150%}ナイスセーーブ！{Wait for input}{emote: Laughter}{Text size 100%}やっぱり　オイラの{ruby (charSpan 1): か}勝ちだな！{pause 40}{emote: Soft Smile}
+"057"	{emote: Sadness}えぇー{pause 40}	ノッてくれないのかよー{pause 8}・{pause 8}・{pause 8}・
+"058"	{emote: Happiness}{ruby (charSpan 2): きょう}今日も　{ruby (charSpan 1): およ}泳ぐんだな、	{Player nickname (green)}！　{pause 8}{catchphrase}！{Wait for input}{emote: Curious}この{ruby (charSpan 1): まえ}前は　すもぐりで	{ruby (charSpan 1): なに}何かゲットできたのかー？{Wait for input}{emote: Reset}すもぐりのコツは、{pause 20}	{emote: Glare}{ruby (charSpan 1): い}生き{ruby (charSpan 1): もの}物の{ruby (charSpan 1): およ}泳ぎの	{ruby (charSpan 1): さき}先を{ruby (charSpan 1): よ}読むこと！！{Wait for input}{emote: Laughter}まぁ、{pause 20}{ruby (charSpan 2): しゅぎょう}修行するんだな！{pause 40}	ハハッ！{pause 40}{emote: Soft Smile}
+"059"	{emote: Alarmed}おー！{pause 8}　{Player nickname (green)}！{pause 20}	{ruby (charSpan 2): きょう}今日も　{0011-0003-0002-0002}かー！{Wait for input}{emote: Agreement}やっぱり　こういうのは、{pause 20}	{ruby (charSpan 2): まいにち}毎日　{ruby (charSpan 2): れんしゅう}練習することに	{ruby (charSpan 2): いみ}意味があるんだよな！　{pause 8}{catchphrase}！
+"060"	{emote: Alarmed}おー！{pause 8}　{Player nickname (green)}！{pause 20}	{ruby (charSpan 2): きょう}今日も　{0011-0003-0002-0000}かー！{Wait for input}{emote: Agreement}やっぱり　こういうのは、{pause 20}	{ruby (charSpan 2): まいにち}毎日　{ruby (charSpan 2): れんしゅう}練習することに	{ruby (charSpan 2): いみ}意味があるんだよな！　{pause 8}{catchphrase}！
+"061"	{emote: Happiness}オマエ　その　{0011-0003-0002-0000}、{pause 20}	いつも　かぶってるよなー！{Wait for input}アセかくと{pause 8}　{emote: Curious}{ruby (charSpan 1): なか}中がむれるだろー？{Wait for input}	{emote: Happiness}あの　しめった{ruby (charSpan 1): かん}感じ{pause 20}	オイラは　けっこう　{ruby (charSpan 1): す}好きなんだ
+"062"	そういえば、{pause 20}	{ruby (charSpan 2): きょう}今日もしっかり	タオルまいてるんだな！{Wait for input}{emote: Agreement}うん　うん！{pause 40}	{ruby (charSpan 2): きょう}今日も　{ruby (charSpan 1): き}決まってる！{Wait for input}{emote: Glare}オマエ、{pause 20}タオルの{ruby (charSpan 2): かくど}角度には	けっこう　こだわりが	ありそうだなー？　{pause 8}{catchphrase}？
+"063"	{emote: Happiness}そういえば{pause 20}　そのヘアスタイル	まだ　つづいてるんだな！{Wait for input}{emote: Pride}まぁ{pause 20}　{ruby (charSpan 2): いちど}一度　かくごを{ruby (charSpan 1): き}決めたら、{pause 20}	つらぬき{ruby (charSpan 1): とお}通さないと	ダメだよな！　{pause 8}{catchphrase}！
+"064"	{emote: Alarmed}おー！{pause 40}	{ruby (charSpan 2): きょう}今日も　そのかっこなんだな！{Wait for input}{emote: Laughter}いっつも　{ruby (charSpan 2): ゆあが}湯上りみたいで	おもしろいな、{pause 8}{catchphrase}{pause 40}{emote: Soft Smile}

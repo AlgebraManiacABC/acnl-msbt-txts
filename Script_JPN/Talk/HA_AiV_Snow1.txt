@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Surprise}
-"003"	{emote: Star Yell}
-"004"	{emote: Greetings}
-"005"	{emote: Surprise}
-"006"	{emote: Greetings}
-"007"	{emote: Disbelief}
-"008"	{emote: Alarmed}
-"009"	{emote: Surprise}
-"010"	{emote: Star Yell}
-"011"	{emote: Greetings}
+"001"	{emote: Greetings}オーッス！{pause 8}　{Player name}！{pause 20}	{ruby (charSpan 1): お}起きてみたら　{ruby (charSpan 1): ゆき}雪がふってて	ビックリしたぞー！{Wait for input}{emote: Laughter}オマエも　いいときに	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たな、{pause 8}{catchphrase}！{pause 20}{emote: Happiness}
+"002"	{emote: Surprise}おー！{pause 8}　 {Player name}！{Wait for input}{emote: Glee}{ruby (charSpan 1): み}見ての{ruby (charSpan 1): とお}通り、{ruby (charSpan 2): きょう}今日の{ruby (charSpan 2): てんき}天気は{ruby (charSpan 1): ゆき}雪！{pause 40}	こういう{ruby (charSpan 1): ひ}日は　{ruby (charSpan 1): むら}村を	かけ{ruby (charSpan 1): まわ}回りたく　なるよな、{pause 8}{catchphrase}！
+"003"	{emote: Star Yell}{pause 15}オー{0007-000b-0000}ーーッス！{pause 20}{emote: Soft Smile}{pause 40}	{ruby (charSpan 1): さむ}寒いときこそ　{ruby (charSpan 1): おお}大きな{ruby (charSpan 1): こえ}声で	あいさつ　だな、{pause 8}{catchphrase}！
+"004"	{emote: Greetings}{Greeting begin}よぉ！{pause 8}　{Player name}！{Greeting end}{Wait for input}{emote: Happiness}とけた{ruby (charSpan 1): こおり}氷は　ツルツルだぞー？{pause 40}	すべらないように	{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けろよな、{pause 8}{catchphrase}
+"005"	{emote: Surprise}あれ？{pause 8}　{Player name}じゃん！{pause 40}	{emote: Happiness}{ruby (charSpan 1): ゆき}雪の{ruby (charSpan 1): なか}中　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): く}来るなんて{pause 20}	オマエって　かなり{ruby (charSpan 2): こんじょう}根性あるな、{pause 8}{catchphrase}
+"006"	{emote: Greetings}おー！{pause 8}　{Player name}！{pause 40}	{emote: Laughter}{ruby (charSpan 1): ゆき}雪ふる{ruby (charSpan 1): よる}夜に　やってくるなんて{pause 20}	まるで　サンタさんだな、{pause 8}{catchphrase}{pause 40}{emote: Happiness}
+"007"	{emote: Disbelief}{0007-000b-0000}げげっ！{pause 20}	ゆきだるまかと{ruby (charSpan 1): おも}思ったら、	{Player name}かー！{Wait for input}{emote: Mistaken}まったく{pause 20}	ビックリ　させるなよ、{pause 8}{catchphrase}
+"008"	{emote: Alarmed}おー！{pause 8}　{Player name}！{pause 40}	こんな{ruby (charSpan 2): よなか}夜中に　オマエが　いるなんて	おどろいたぞー！{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): さむ}寒いからなー！{pause 20}	{ruby (charSpan 1): むら}村を　{ruby (charSpan 1): はし}走り{ruby (charSpan 1): まわ}回って	{ruby (charSpan 1): からだ}体を　{ruby (charSpan 1): あった}温めるといいぞ、{pause 8}{catchphrase}
+"009"	{emote: Surprise}おー！{pause 20}	オマエ　{Player name}じゃん{pause 40}	{emote: Happiness}{ruby (charSpan 1): さむ}寒いのに　よく{ruby (charSpan 1): き}来たな、{pause 8}{catchphrase}
+"010"	{emote: Star Yell}{pause 15}オー{0007-000b-0000}ーーッス！{pause 20}{emote: Soft Smile}{pause 40}{Wait for input}{ruby (charSpan 1): さむ}寒い{ruby (charSpan 1): なか}中、{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくれて　サンキューな！{pause 20}	オマエが　{ruby (charSpan 1): あつ}熱いヤツで	うれしいよ、{pause 8}{catchphrase}
+"011"	{emote: Greetings}{Greeting begin}よぉ！{pause 8}　{Player name}！{Greeting end}{pause 40}	{emote: Glee}{ruby (charSpan 2): きょう}今日は　この{ruby (charSpan 1): むら}村、{pause 20}	{ruby (charSpan 1): ゆき}雪がふってるんだぞ！{Wait for input}こんな{ruby (charSpan 1): ひ}日に　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): く}来るなんて、{pause 8}	オマエは　ラッキーだな、{pause 8}{catchphrase}

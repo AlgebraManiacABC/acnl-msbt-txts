@@ -1,72 +1,72 @@
 == 0 ==
-"001"	{000c-0001-0000}
-"002"	{000c-0001-0000}
-"003"	{000c-0001-0000}
-"004"	{000c-0001-0000}
-"005"	{000c-0000-0000}
-"006"	{000c-0000-0000}
-"007"	{000c-0000-0000}
-"008"	
-"009"	{000c-0000-0000}
-"010"	{000c-0000-0000}
-"011"	{000c-0000-0000}
-"012"	{000c-0000-0000}
-"013"	{000c-0000-0000}
-"014"	{000c-0000-0000}
-"015"	{000c-0000-0000}
-"016"	{000c-0000-0000}
-"017"	{000c-0000-0000}
-"018"	{000c-0000-0000}
-"019"	
-"020"	{emote: Surprise}
-"021"	{emote: Happiness}
-"022"	{000c-0001-0000}
-"023"	
+"001"	{000c-0001-0000}{000c-0008-0000}{pause 20}{emote: Surprise}Oh!{pause 20} You went and got him already!{pause 40}{emote: Reset}{pause 20}	{000c-0001-0000}{000c-0003-0000}{emote: Happiness}Thanks, {Player nickname (green)}!{pause 20}{000c-0009-0000}
+"002"	{000c-0001-0000}{000c-0008-0000}{pause 20}{emote: Greetings}Hey! {pause 20}Welcome!{pause 20} I was wondering	when you'd show up!{000c-0009-0000}
+"003"	{000c-0001-0000}{000c-0008-0000}{pause 20}{emote: Alarmed}Oh!{pause 20} Awesome!{pause 40}{emote: Reset} You really brought	him, {Player nickname (green)}!{000c-0009-0000}
+"004"	{000c-0001-0000}{000c-0008-0000}{pause 20}{emote: Alarmed}Finally!{pause 40} {emote: Distress}Man!{pause 20} You guys are so late!{pause 20}	I almost gave up on you!{pause 40}{emote: Worry} {emote: Reset}Anyway{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Soft Smile}	glad you made it!{000c-0009-0000}
+"005"	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0008-0000}{000c-0002-0000}{000c-0006-0000}{emote: Greetings}Hey! I'm here!{pause 40}{emote: Reset} Why'd you have 	{Player nickname (green)} come and get me?	{emote: Joy}Is it because you're sooooo shy?{pause 20}{emote: Happiness}{000c-0009-0000}
+"006"	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0008-0000}{000c-0002-0000}{000c-0006-0000}{emote: Greetings}Hey there, {0011-0001-0002-0000}!{pause 40}	What's up{pause 8}.{pause 8}.{pause 8}.{pause 20}? What's the surprise?{Wait for input}{emote: Agreement}I'm ready for anything you can	throw at me! {000c-0009-0000}
+"007"	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0008-0000}{000c-0002-0000}{000c-0006-0000}{emote: Greetings}Hello! {pause 20}Thanks for the invite!{pause 8} But{pause 8}.{pause 8}.{pause 8}.{pause 20}	man, getting {Player nickname (green)} to come	get me.{pause 20} That's a little weird, no?	It makes me wonder{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Curious} What are you	up to?{000c-0009-0000}
+"008"
+"009"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{emote: Resigned}Look, {0011-0001-0002-0001}.{pause 20}	{emote: Soft Smile}I asked you here for a good reason!{Wait for input}{emote: Agreement}I borrowed this thing a while back,	but I forget whose it is!{pause 40}{emote: Reset} Any chance	it's yours?{000c-0009-0000}
+"010"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Alarmed}Huh?!{pause 20} Oh, yeah! I totally lent you	this bad boy!{Wait for input}{emote: Glee}Man, that's mighty decent of you!{pause 20}	You could have just held on to this	forever if you'd wanted to!
+"011"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{emote: Resigned}You never change, {0011-0001-0002-0001}!	{emote: Soft Smile}You need to relax, dude.{pause 8} I didn't call	you over for anything bad!{pause 40}{emote: Reset}	{emote: Glare}Remember that thing you wanted?{pause 40}	Well, I managed to snag one for ya!{000c-0009-0000}
+"012"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{emote: Alarmed}What?! {pause 20}How?!{pause 40} {pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Inspired}Wow!{pause 20} You're just	full of surprises!{Wait for input}{emote: Joy}That's my {0011-0001-0002-0000}!{pause 40} Thanks!{pause 40}{emote: Soft Smile}
+"013"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{emote: Resigned}Hey!{pause 8} You got it all wrong!{pause 40} {emote: Soft Smile}I didn't	ask you over for anything crazy!{Wait for input}{emote: Reset}Look{pause 8}.{pause 8}.{pause 8}.{pause 20}I found this outside.{pause 20}{emote: Curious} It's 	yours, right, {0011-0001-0002-0001}?{000c-0009-0000}
+"014"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Alarmed}What?!{pause 20} This is amazing! It's totally	my {0011-0003-0002-0000}!{Wait for input}{emote: Agreement}I thought for sure someone had 	swiped it from me{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Sunny}{pause 20} But you found	it!{pause 20} I'm so excited!
+"015"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{emote: Resigned}Man, you're a weird one{pause 8}.{pause 8}.{pause 8}.{pause 20}{pause 20}{emote: Soft Smile} I promise,	I only called you over for something	awesome, dude.	{emote: Glare}See{pause 8}.{pause 8}.{pause 8}.{pause 20}I finally read your screenplay.	{emote: Showmanship}{pause 20}Dancing {000e-0004-0000}{0005-0021-0002-cd00}	{000e-0004-0000}{0005-001f-0002-cd00}.{pause 40}{emote: Happiness} It wasn't half bad!{000c-0009-0000}
+"016"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{pause 20}{emote: Surprise}What?{pause 20} You read it?!{pause 40}{emote: Joy}{pause 20} Nice!{pause 20} I figured	if anyone would get it, it'd be you!{Wait for input}{emote: Soft Smile}{emote: Inspired}All right!{pause 20} Time to start thinking	sequels!{emote: Glee} I'm gonna be a big-time	screenwriter,{pause 20} {catchphrase}!
+"017"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{pause 8}{emote: Resigned}Man! {pause 20}You're a goofball!{pause 40} Just calm	down, would ya!{emote: Reset}{pause 20} There's{pause 8}.{pause 8}.{pause 8}.{pause 20}something	I need to ask you!	{emote: Agreement}I heard a rumor there's gonna be	some kinda {0005-001e-0002-cd00}-themed	flower-arranging contest{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Curious}Is that for real?{000c-0009-0000}
+"018"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{emote: Inspired}Ugh!{pause 20} Oh yeah, that rumor{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Soft Smile}is totally	bogus!{emote: Flourish}{pause 20} Know how I know?{pause 20} 'Cause it	was originally my idea!{pause 40}	{emote: Reset}The market people shot me down!	{emote: Resigned}It was gonna be a {0005-001e-0002-cd00}-flower 	face-painting contest{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Happiness}But I think the concept went over	some people's heads!{pause 20} Haha!
+"019"
+"020"	{emote: Surprise}So are we about done here?{pause 40}{emote: Reset}{Wait for input}{000c-0002-0000}{000c-0004-0000}{pause 20}{emote: Soft Smile}I think the three of us are a little	closer now, don't you, {Player nickname (green)}?{emote: Reset}{Wait for input}{000c-0002-0000}{000c-0005-0000}{emote: Soft Smile}I guess I'll be heading out now! Not	a good idea to dillydally!{emote: Greetings} Adios!
+"021"	{emote: Happiness}Man, I wasn't sure what to expect	here,{pause 8} but I'm glad I came over!{emote: Reset}{Wait for input}{000c-0002-0000}{000c-0004-0000}{pause 20}{emote: Soft Smile}And thanks, {Player nickname (green)}! You were a	big part of all this!{emote: Reset}{Wait for input}{000c-0002-0000}{000c-0006-0000}{emote: Soft Smile}All right then. I'm going. If I hang	around you guys too long, the	rumors will start flying!	{emote: Greetings}See ya later! {pause 20}{capitalized}{catchphrase}!
+"022"	{000c-0001-0000}{000c-0003-0000}{000c-0002-0000}{000c-0004-0000}Anyway{pause 8}.{pause 8}.{pause 8}.{pause 20}thanks for coming to get	me, {Player nickname (green)}!{Wait for input}{pause 20}{emote: Happiness}If you hadn't been a part of it, who	knows what would have happened?{emote: Reset}{Wait for input}{000c-0001-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{pause 20}{emote: Soft Smile}I think it's about time I was off.{pause 40}	Don't want to linger and make	things weird. {emote: Greetings}See ya!
+"023"
 == 1 ==
-"001"	{000c-0001-0000}
-"002"	{000c-0001-0000}
-"003"	{000c-0001-0000}
-"004"	{000c-0001-0000}
-"005"	{000c-0000-0000}
-"006"	{000c-0000-0000}
-"007"	{000c-0000-0000}
-"008"	
-"009"	{000c-0000-0000}
-"010"	{000c-0000-0000}
-"011"	{000c-0000-0000}
-"012"	{000c-0000-0000}
-"013"	{000c-0000-0000}
-"014"	{000c-0000-0000}
-"015"	{000c-0000-0000}
-"016"	{000c-0000-0000}
-"017"	{000c-0000-0000}
-"018"	{000c-0000-0000}
-"019"	
-"020"	{emote: Surprise}
-"021"	{emote: Happiness}
-"022"	{000c-0001-0000}
-"023"	
+"001"	{000c-0001-0000}{000c-0008-0000}{pause 20}{emote: Surprise}¡Ostras!{pause 20} ¡Ahí venís los dos!{pause 40}{emote: Reset}{pause 20}	{000c-0001-0000}{000c-0003-0000}{emote: Happiness}¡Así se hace, {Player nickname (green)}!{pause 20}{000c-0009-0000}
+"002"	{000c-0001-0000}{000c-0008-0000}{pause 20}{emote: Greetings}¡Anda! {pause 20}¡Dichosos los ojos!{pause 20} Ya	empezaba a impacientarme, ¿eh?{000c-0009-0000}
+"003"	{000c-0001-0000}{000c-0008-0000}{pause 20}{emote: Alarmed}¡Pero bueno!{pause 20} ¡Qué flipe!{pause 40}{emote: Reset} ¡Al final	has ido a por él, {Player nickname (green)}!{000c-0009-0000}
+"004"	{000c-0001-0000}{000c-0008-0000}{pause 20}{emote: Alarmed}¡Ya era hora!{pause 40} {emote: Distress}¡Jolipas!{pause 20} ¡Llegáis	mil horas tarde!{pause 20} Estaba por irme	ya.{pause 40}{emote: Worry} {emote: Reset}Bueno{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Soft Smile} ¡qué alegría veros!{000c-0009-0000}
+"005"	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0008-0000}{000c-0002-0000}{000c-0006-0000}{emote: Greetings}¡Aquí estoy!{pause 40}{emote: Reset} ¿Cómo es que has	mandado a {Player nickname (green)} a por mí?	{emote: Joy}¿Es que te daba vergüenza?{pause 20}{emote: Happiness}{000c-0009-0000}
+"006"	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0008-0000}{000c-0002-0000}{000c-0006-0000}{emote: Greetings}¡Esa {0011-0001-0002-0000}!{pause 40} ¿Qué pasa?{pause 20}	¿Me vas a hacer un regalo?{Wait for input}{emote: Agreement}Te advierto que me gustan	las cosas{pause 20} caras y exclusivas.{000c-0009-0000}
+"007"	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0008-0000}{000c-0002-0000}{000c-0006-0000}{emote: Greetings}¡Hola! {pause 20}¡Gracias por la invitación!{pause 8}	Aunque{pause 8}.{pause 8}.{pause 8}.{pause 20} no hacía falta mandar	a {Player nickname (green)} a por mí.	{pause 20}¡Con una carta hubiera bastado!{pause 20}	Bueno,{emote: Curious} ¿qué querías?{000c-0009-0000}
+"008"
+"009"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{emote: Resigned}¡Qué cosas tienes, {0011-0001-0002-0001}!{pause 20} ¡No	seas exagerado!{pause 40}{emote: Soft Smile} Yo siempre hago	las cosas por una buena razón.	{emote: Agreement}Es que me prestaron esto hace	tiempo, ¡y ahora no sé quién!{pause 40}{emote: Reset} No	será tuyo por un casual, ¿verdad?{000c-0009-0000}
+"010"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Alarmed} ¡Ah!{pause 20} ¡Ahora me acuerdo!	Sí, sí, ese objeto es mío.{Wait for input}{emote: Glee}Qué honrada eres.{pause 20} Te podías haber	quedado con él, ¡ya ni me acordaba	de que te lo había prestado!
+"011"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{emote: Resigned}Qué sabelotodo eres, {0011-0001-0002-0001}.	{emote: Soft Smile}A ver si te tomas las cosas con	más calma.{pause 8} ¡Que no es para tanto!{pause 40}{emote: Reset}	{emote: Glare}A ver, ¿te acuerdas de la cosilla	aquella que querías?{pause 40} Bueno, ¡pues	te he conseguido una para ti solito!{000c-0009-0000}
+"012"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{emote: Alarmed}¡¿No me digas?! {pause 20}¡¿Cómo?!{pause 40}{emote: Inspired} ¡Jo,{pause 20}	nunca dejas de sorprenderme!{Wait for input}{emote: Joy}¡Gracias, {0011-0001-0002-0000}! {pause 20}{pause 20}¡Eres como un	documental de {0005-0014-0002-0000}	en versión original subtitulada!{pause 40}{emote: Soft Smile}
+"013"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{emote: Resigned}¡Oye!{pause 8} ¡No te flipes!{pause 40} {emote: Soft Smile}¡Que no te he	hecho venir por ninguna cosa rara!{Wait for input}{emote: Reset}A ver, mira{pause 8}.{pause 8}.{pause 8}.{pause 20} Me he encontrado	esto por ahí.{pause 20}{emote: Curious} Es tuyo, ¿a que sí,	{0011-0001-0002-0001}?{000c-0009-0000}
+"014"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}Si{emote: Alarmed} es{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡mi {0011-0003-0002-0000}!	¡Menudo subidón!{Wait for input}{emote: Agreement}L{o/a/} daba por perdid{o/a/}{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Sunny}{pause 20} ¡Y tú l{o/a/} has	encontrado!{pause 20} ¡Qué alegría!
+"015"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{emote: Resigned}Buf, mira que eres rarito{pause 8}.{pause 8}.{pause 8}.{pause 20}{pause 20}{emote: Soft Smile} Te he	llamado por una buena razón, majo.	¡Ya verás, atiende!	{emote: Glare}Es que{pause 8}.{pause 8}.{pause 8}.{pause 20} ya me he leído tu guion,	{emote: Showmanship}{pause 20}"{capitalized}{0005-0021-0002-cd00} que	baila bajo el cielo de {0005-001e-0002-cd00}".	{pause 40}{emote: Happiness}¡Tengo que reconocer que no es	tan horrible como esperaba!{000c-0009-0000}
+"016"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{pause 20}{emote: Surprise}¿De verdad te lo parece?{pause 20} Sabía que	si alguien iba a entenderlo,{pause 40} ¡esa ibas	a ser tú!{Wait for input}{emote: Soft Smile}{emote: Inspired}¡Estupendo!{pause 20} ¡Ahora, a pensar en una	precuela!{emote: Glee} ¡Tengo material para una	trilogía,{pause 20} {catchphrase}!
+"017"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{pause 8}{emote: Resigned}Anda que{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡menudo memo estás	hecho!{pause 40} ¡Tranqui, tronco!{emote: Reset}{pause 20} Solo	quiero{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡pedirte un favorcillo!	{emote: Agreement}Es que me han dicho que van a	hacer un concurso de arreglos	florales típicos de {0005-001e-0002-cd00}{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Curious}A ver, ¿tú sabes si es verdad	o es solo un rumor?{000c-0009-0000}
+"018"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{emote: Inspired}¿Eh?{pause 20} Ah, sí, eso{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Soft Smile} Es un rumor sin	fundamento alguno.{emote: Flourish}{pause 20} ¿Sabes por qué	lo sé?{pause 20}{pause 20} ¡Porque me lo inventé yo!{pause 40}	{emote: Reset}Los de la zona comercial lo echaron	abajo. {emote: Resigned}Iba a ser un festival de las	flores de culto de {0005-001e-0002-cd00}{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Happiness}Pero se ve que a algunos las flores	les dan alergia, {pause 20}je.
+"019"
+"020"	{emote: Surprise}¿Eso era todo?{pause 40} {emote: Reset}O sea, que no	estaba mal y eso, pero me esperaba	algo más.	{000c-0002-0000}{000c-0004-0000}{pause 20}{emote: Soft Smile}¡Gracias, {Player nickname (green)}!{pause 20} Los tres nos	conocemos ahora un poco mejor.{emote: Reset}{Wait for input}{000c-0002-0000}{000c-0005-0000}{emote: Soft Smile}Bueno, creo que me voy a ir yendo.{pause 20}	{emote: Greetings}¡No me echéis mucho de menos!
+"021"	{emote: Happiness}Vaya, no sabía qué esperar,{pause 20} pero	ahora no me arrepiento de haberme	pasado por aquí.{emote: Reset}{Wait for input}{000c-0002-0000}{000c-0004-0000}{pause 20}{emote: Soft Smile}¡Gracias a ti también, {Player nickname (green)}!{pause 20}	¡Has jugado tu papel en todo esto!{emote: Reset}{Wait for input}{000c-0002-0000}{000c-0006-0000}{emote: Soft Smile}Bueno, me voy a pirar ya.{pause 20} Siempre	que me quedo demasiado en casa de	una chica, empiezan los rumores.	{emote: Greetings}¡Nos vemos,{pause 20} {catchphrase}!
+"022"	{000c-0001-0000}{000c-0003-0000}{000c-0002-0000}{000c-0004-0000}Pues nada{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡Gracias por pasarte	a por mí, {Player nickname (green)}!{Wait for input}{emote: Happiness}Si no llega a ser por ti, nunca habría	zanjado esta cuestión.{emote: Reset}{Wait for input}{000c-0001-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{pause 20}{emote: Soft Smile}Me piro, vampiro. {pause 40}¡No quiero abusar	de la hospitalidad de una dama!	{emote: Greetings}¡Hasta luego!
+"023"
 == 2 ==
-"001"	{000c-0001-0000}
-"002"	{000c-0001-0000}
-"003"	{000c-0001-0000}
-"004"	{000c-0001-0000}
-"005"	{000c-0000-0000}
-"006"	{000c-0000-0000}
-"007"	{000c-0000-0000}
-"008"	
-"009"	{000c-0000-0000}
-"010"	{000c-0000-0000}
-"011"	{000c-0000-0000}
-"012"	{000c-0000-0000}
-"013"	{000c-0000-0000}
-"014"	{000c-0000-0000}
-"015"	{000c-0000-0000}
-"016"	{000c-0000-0000}
-"017"	{000c-0000-0000}
-"018"	{000c-0000-0000}
-"019"	
-"020"	{emote: Surprise}
-"021"	{emote: Happiness}
-"022"	{000c-0001-0000}
-"023"	
+"001"	{000c-0001-0000}{000c-0008-0000}{pause 20}{emote: Surprise}Oh!{pause 20} T'as fait vite!{pause 40}{emote: Reset}{pause 20}{000c-0001-0000}{000c-0003-0000} {emote: Happiness}Merci,	{Player nickname (green)}!{pause 20}{000c-0009-0000}
+"002"	{000c-0001-0000}{000c-0008-0000}{pause 20}{emote: Greetings}Oh!{pause 20} Salut!{pause 20} J'vous attendais!{000c-0009-0000}
+"003"	{000c-0001-0000}{000c-0008-0000}{pause 20}{emote: Alarmed}Oh!{pause 20} Mortel!{pause 40}{emote: Reset} {capitalized}{Player nickname (green)}, t'as	assuré!{000c-0009-0000}
+"004"	{000c-0001-0000}{000c-0008-0000}{pause 20}{emote: Alarmed}Enfin!{pause 40} {emote: Distress}C'est pas trop tôt!{pause 20} J'y 	croyais plus...{pause 40}{emote: Reset} Mais bref{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Soft Smile}Z'êtes là,	c'est le principal.{000c-0009-0000}
+"005"	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0008-0000}{000c-0002-0000}{000c-0006-0000}{emote: Greetings}Voilà le plus beau!{pause 40}{emote: Reset} Pourquoi t'as	demandé à {Player nickname (green)} de venir me	chercher? {emote: Joy}Tu fais ta timide?{pause 20}{emote: Happiness}{000c-0009-0000}
+"006"	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0008-0000}{000c-0002-0000}{000c-0006-0000}{emote: Greetings}Salut, {0011-0001-0002-0000}.{pause 40} Quoi de neuf{pause 8}.{pause 8}.{pause 8}.{pause 8}?{pause 20}	Et surtout, qu'est-ce que je fais là?{Wait for input}{emote: Sheepishness}Vas-y, crache ton venin, je sais à	quoi m'attendre avec les furies dans	ton genre!{000c-0009-0000}
+"007"	{000c-0000-0000}{000c-0007-0000}{000c-0001-0000}{000c-0008-0000}{000c-0002-0000}{000c-0006-0000}{emote: Sheepishness}Salut...{pause 20} Euh, c'est gentil de m'avoir{pause 8}.{pause 8}.{pause 8}.{pause 20}	invité?!{Wait for input}{emote: Thought}En fait, je pige pas trop pourquoi	t'as envoyé {Player nickname (green)} me	chercher{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Curious}Qu'est-ce que ça cache?{000c-0009-0000}
+"008"
+"009"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{emote: Resigned}Pfff, {0011-0001-0002-0001}...{pause 20} On change pas, à	c'que j'vois!{pause 40} {emote: Soft Smile}Si j't'ai fait venir ici,	c'est qu'j'ai une bonne raison!	{emote: Agreement}J'me souviens avoir emprunté ce	truc, mais chais plus à qui...{pause 40} {emote: Reset}Ce	s'rait pas toi, par hasard?{000c-0009-0000}
+"010"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Alarmed}Hein?!{pause 20} Hé hé, en effet, c'est bien	à moi!{Wait for input}{emote: Glee}C'est très honnête de ta part!{pause 20} J'en	connais qui...{pause 20} hem, feraient de	drôles de trucs pour l'avoir, tu sais!
+"011"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{emote: Resigned}Toujours le mot qui fâche, hein,	{0011-0001-0002-0001}...{pause 15} {emote: Soft Smile}Mais t'inquiète, ton	heure a pas encore sonné.{emote: Reset}	{emote: Glare}J'crois m'souvenir qu'y avait un truc	que tu voulais absolument,{pause 40} et vu	qu'on m'en a offert un, ben...{000c-0009-0000}
+"012"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{emote: Alarmed}Hein?!{pause 20} Tu comptes vraiment me le	donner{pause 8}.{pause 8}.{pause 8}.{pause 8}?!{Wait for input}{emote: Inspired}Waouh!{pause 20} Ça veut dire que, comme	toutes les autres, t'as enfin cédé à	mon charme?!	{emote: Joy}{pause 10}Merci, en tout cas!{pause 20}{emote: Soft Smile}
+"013"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{emote: Resigned}Pffff,{pause 8} bla bla bla...{pause 40} {emote: Soft Smile}Et si tu	m'écoutais au lieu d'la ramener?{Wait for input}{emote: Reset}Voilà{pause 8}.{pause 8}.{pause 8}.{pause 20} J'ai trouvé ce truc dehors.{pause 20}	{emote: Curious}Un machin pareil, c'est forcément à	toi, nan?{000c-0009-0000}
+"014"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Alarmed}Quoi?!{pause 20} Pas possible!	C'est bien {mon précieux/ma précieuse/}	{0011-0003-0002-0000}!	{emote: Agreement}Moi qui {le/la/} pensais {tombé/tombée/} aux mains	de fans peu scrupuleux{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Sunny}J'ai de la	veine que tu l'aies {récupéré/récupérée/}!
+"015"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{emote: Resigned}Mon pauv' vieux, ça s'arrange pas,	hein{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Soft Smile}Rassure-toi, j't'ai pas fait	venir pour abréger tes souffrances...	{emote: Glare}En fait{pause 8}.{pause 8}.{pause 8}.{pause 20} j'ai enfin lu ton script,	{emote: Showmanship}{pause 20}« {capitalized}{000e-0001-0000}{0005-001f-0002-cd00} et	{000e-0001-0000}{0005-0021-0002-cd00} »!	{emote: Happiness}Ça m'coûte de l'avouer, mais c'est	vraiment pas mal!{000c-0009-0000}
+"016"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{pause 20}{emote: Surprise}Hein?{pause 20} Tu l'as lu?!{pause 40} {emote: Sheepishness}Franchement,	quand je te l'ai passé, j'étais même	pas certain que tu saches lire!	{emote: Worry}En tout cas, je vais devoir tout	réécrire...{Wait for input}Si j'avais réussi mon coup, je crois	pas que tu m'aurais fait venir pour	me féliciter...{pause 20} {capitalized}{catchphrase}!
+"017"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{pause 8}{emote: Resigned}Décidément, t'es irrécupérable!{pause 20}	Tais-toi et écoute, OK?{emote: Reset}{pause 20} Voilà{pause 8}.{pause 8}.{pause 8}.{pause 20} faut	que j'te demande un truc!	{emote: Agreement}J'ai entendu parler d'un possible	concours d'arrangement floral	centré sur {000e-0001-0000}{0005-001e-0002-cd00}{pause 8}.{pause 8}.{pause 8}.	{emote: Curious}Ça va vraiment s'faire?{000c-0009-0000}
+"018"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{emote: Inspired}Ah!{pause 20} Ouais, cette rumeur{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Soft Smile}est	parfaitement infondée!{emote: Flourish}{pause 20} Comment je	le sais?{pause 20} Ben c'était mon idée!	{emote: Reset}Les commerçants ont tout fait pour	en empêcher la concrétisation...{Wait for input}{emote: Resigned}En fait, il s'agissait d'un concours	de peinture corporelle centré sur les	fleurs et {000e-0001-0000}{0005-001e-0002-cd00}{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Sheepishness}Franchement, je cherche encore la	raison de la volée de bois vert que	je me suis mangée...
+"019"
+"020"	{emote: Surprise}Bon, je peux y aller, maintenant?{pause 40}	{emote: Reset}Car normalement, je vais faire un	tour avant d'apparaître en public...	{000c-0002-0000}{000c-0004-0000}{pause 20}{emote: Soft Smile}Ah, mais je dois te remercier,	{Player nickname (green)}!{pause 20} Grâce à toi, on se	connaît un peu mieux, tous les trois.{emote: Reset}	{000c-0002-0000}{000c-0005-0000}{emote: Greetings}Allez, cette fois j'y vais!{pause 20} {emote: Glare}C'est pas	mon genre de m'éterniser chez les	nanas, de toute façon!
+"021"	{emote: Happiness}Fiou, pour quelqu'un qui n'était pas	sûr de repartir vivant, je m'en tire	pas trop mal!{emote: Reset}	{000c-0002-0000}{000c-0004-0000}{pause 20}{emote: Soft Smile}Merci, {Player nickname (green)}!{pause 20} Sans toi, rien de	tout ça n'aurait été possible!{emote: Reset}{Wait for input}{000c-0002-0000}{000c-0006-0000}{emote: Soft Smile}Bon, je file.{pause 20} M'éterniser ici plus	longtemps, c'est un coup à susciter	les rumeurs les plus folles!	{emote: Greetings}À plus, les minus!{pause 20} {capitalized}{catchphrase}!
+"022"	{000c-0001-0000}{000c-0003-0000}{000c-0002-0000}{000c-0004-0000}Enfin bref{pause 8}.{pause 8}.{pause 8}.{pause 20} Merci d'être {venu/venue} me	chercher, {Player nickname (green)}!{Wait for input}{emote: Happiness}Tout seul, j'aurais jamais su le fin	mot de l'histoire.{pause 20} {emote: Sheepishness}{Gray}(Vu que j'aurais	pas eu le courage de venir...){Color Reset}{pause 10}{emote: Reset}	{000c-0001-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{pause 20}{emote: Soft Smile}Allez, il est temps que j'y aille!{pause 15}	C'est contre mes principes d'abuser	de l'hospitalité d'une nana!{pause 15} {emote: Greetings}Ciao!
+"023"

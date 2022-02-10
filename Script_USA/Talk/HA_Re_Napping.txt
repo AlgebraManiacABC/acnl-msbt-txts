@@ -1,48 +1,48 @@
 == 0 ==
-"001"	{0000-0002-0002-4b-00}Ha ha! Stop it! I'm happy to hear such	compliments, but now you're embarrassing me{pause 8}
-"002"	{0000-0002-0002-4b-00}.{pause 8}!
-"003"	{emote: Sleepy}
-"004"	{0000-0002-0002-4b-00}Hmmm{pause 8}
-"005"	.{pause 8}
-"006"	.{pause 8}
-"007"	{emote: Sleepy}
-"008"	
-"009"	{emote: Alarmed}
-"010"	{emote: Happiness}
-"011"	Yo, {Player nickname (green)}
-"012"	{emote: Alarmed}
-"013"	Yo, {Player nickname (green)}
-"014"	{emote: Disbelief}
-"015"	{emote: Happiness}
+"001"	{Text size 75%}Ha ha! Stop it! I'm happy to hear such	compliments, but now you're embarrassing me{pause 8}.{pause 8}.{pause 8}.{Text size 100%}{Wait for input}{emote: Sleepy}{pause 20}Yawn{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait <0078 0000> 'time'}
+"002"	{Text size 75%}.{pause 8}.{pause 8}.{pause 20}Zzzz...{pause 20}	{Text size 100%}{emote: Alarmed}{0007-000b-0000}Whaaa...?!{Wait <0078 0000> 'time'}
+"003"	{emote: Sleepy}{pause 20}Yawn{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait <0078 0000> 'time'}
+"004"	{Text size 75%}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 40} Let me sleep for a bit longer!{pause 40}{Text size 100%}	{emote: Shocked}{0007-000b-0000}Pleaaaaase, Mommyyyy!{Wait for input}{emote: Sleepy}{pause 20}Yawn{pause 8}.{pause 8}.{pause 8}.{pause 20}{pause 40}{emote: Disagreement}{Wait <0078 0000> 'time'}
+"005"	.{pause 8}.{pause 8}.{pause 8}{emote: Alarmed}{0007-000b-0000}Huh?!{Wait <0078 0000> 'time'}
+"006"	.{pause 8}.{pause 8}.{pause 8}{emote: Alarmed}{0007-000b-0000}Huh? Whaaa...?!{Wait <0078 0000> 'time'}
+"007"	{emote: Sleepy}{pause 20}Mmmm{pause 8}.{pause 8}.{pause 8}.{Wait <0078 0000> 'time'}
+"008"
+"009"	{emote: Alarmed}{0007-000a-0000}What?! {capitalized}{Player nickname (green)}!{pause 20}	This isn't the winner's podium?{Wait for input}{emote: Mistaken}Oh, man! That was a dream?!	I was so close to getting a gold	medal{pause 8}.{pause 8}.{pause 8}.
+"010"	{emote: Happiness}Well, if it isn't {Player nickname (green)}!{pause 40}	{emote: Shocked}{0007-000a-0000}Huh?! Me?! Drooling?!{Wait for input}	{emote: Distress}Th-{pause 20}this is uhhh{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Pride}My mouth is just sweating!
+"011"	Yo, {Player nickname (green)}!{pause 40}	{emote: Sleepy}Hmm{pause 8}.{pause 8}.{pause 8}.{pause 20} I'm sleepy{pause 8}.{pause 8}.{pause 8}.{Wait for input}I was watching the {0005-0011-0002-0000}	tournament until late last night and	didn't get any sleep,{pause 8} {catchphrase}.
+"012"	{emote: Alarmed}{0007-000a-0000}Oh! {capitalized}{Player nickname (green)}?!{pause 40}	{emote: Bashful}You didn't hear what I was saying	just now, did you?
+"013"	Yo, {Player nickname (green)}!{pause 40}	{emote: Worry}Owww{pause 8}.{pause 8}.{pause 8}.{pause 20} My butt's asleep!
+"014"	{emote: Disbelief}{0007-000a-0000}Whoa! I sensed somebody nearby.	I assume it was you, {Player nickname (green)}!{Wait for input}{emote: Glare}I know you were trying to catch me	off guard while I was napping, but	I'm fierce even when fast asleep!
+"015"	{emote: Happiness}Yo, {Player nickname (green)}! Did you want to sit	down and take a nap??{Wait for input}{emote: Distress}Just give me a second{pause 8}.{pause 8}.{pause 8}.{pause 20} I feel a bit	sluggish and can't really move at the	moment. {pause 8}{capitalized}{catchphrase}!
 == 1 ==
-"001"	{0000-0002-0002-4b-00}¡Ja, ja! ¡Calla! Me alegro de oír esos elogios,	pero me estoy ruborizando{pause 8}
-"002"	{0000-0002-0002-4b-00}Zzzz{0000-0002-0002-4b-00}{pause 8}!
-"003"	{emote: Sleepy}
-"004"	{0000-0002-0002-4b-00}Mmm{pause 8}
-"005"	Ah.{pause 8}
-"006"	Ah.{pause 8}
-"007"	{emote: Sleepy}
-"008"	
-"009"	{emote: Alarmed}
-"010"	{emote: Happiness}
-"011"	¡Hola, {Player nickname (green)}
-"012"	{emote: Alarmed}
-"013"	¡Hola, {Player nickname (green)}
-"014"	{emote: Disbelief}
-"015"	{emote: Happiness}
+"001"	{Text size 75%}¡Ja, ja! ¡Calla! Me alegro de oír esos elogios,	pero me estoy ruborizando{pause 8}.{pause 8}.{pause 8}.{Text size 100%}{Wait for input}{emote: Sleepy}{pause 20}Uaaaaah{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait <0078 0000> 'time'}
+"002"	{Text size 75%}Zzzz{Text size 75%}{pause 8}{Text size 75%}.{Text size 75%}{pause 8}{Text size 75%}.{Text size 75%}{pause 8}{Text size 75%}.{pause 20}	{Text size 100%}{emote: Alarmed}{0007-000b-0000}¡¿Quéeee...?!{Wait <0078 0000> 'time'}
+"003"	{emote: Sleepy}{pause 20}Uaaaah{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait <0078 0000> 'time'}
+"004"	{Text size 75%}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 40} ¡Déjame dormir un poco más!{pause 40}{Text size 100%}	{emote: Shocked}{0007-000b-0000}¡Poooorfaaa, mamáaa!{Wait for input}{emote: Sleepy}{pause 20}Uuaaaaah{pause 8}.{pause 8}.{pause 8}.{pause 20}{pause 40}{emote: Disagreement}{Wait <0078 0000> 'time'}
+"005"	Ah.{pause 8}.{pause 8}.{pause 8} {emote: Alarmed}{0007-000b-0000}¡¿Eh?!{Wait <0078 0000> 'time'}
+"006"	Ah.{pause 8}.{pause 8}.{pause 8}{emote: Alarmed} {0007-000b-0000}¿Eh? ¡¿Quéee...?!{Wait <0078 0000> 'time'}
+"007"	{emote: Sleepy}{pause 20}Mmm{pause 8}.{pause 8}.{pause 8}.{Wait <0078 0000> 'time'}
+"008"
+"009"	{emote: Alarmed}{0007-000a-0000}¡¿Qué?! ¡{capitalized}{Player nickname (green)}!{pause 20}	¿Esto no es el podio del ganador?{Wait for input}{emote: Mistaken}¡Oh, no! ¡¿Era un sueño?!	Yo que estaba a punto de	ganar una medalla de oro{pause 8}.{pause 8}.{pause 8}.
+"010"	{emote: Happiness}Vaya, ¡pero si es {Player nickname (green)}!{pause 40}	{emote: Shocked}{0007-000a-0000}¡¿Eh?! ¡¿Yo, babeando?!{Wait for input}	{emote: Distress}Esto...{pause 20} esto es... eeh{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Pride}¡No, es solo que mi boca	está sudando!
+"011"	¡Hola, {Player nickname (green)}!{pause 40}	{emote: Sleepy}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Tengo sueño{pause 8}.{pause 8}.{pause 8}.{Wait for input}Anoche pusieron un torneo de	{0005-0011-0002-0000} y lo estuve viendo	hasta las tantas, así que no dormí.
+"012"	{emote: Alarmed}{0007-000a-0000}¡Oh! ¡¿{capitalized}{Player nickname (green)}?!{pause 40}	{emote: Bashful}No habrás oído lo que estaba	diciendo ahora, ¿no?
+"013"	¡Hola, {Player nickname (green)}!{pause 40}	{emote: Worry}Ayyy{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡Se me ha dormido	el trasero!
+"014"	{emote: Disbelief}{0007-000a-0000}¡Ah! Ya notaba que había alguien	cerca. ¡Así que eras tú, {Player nickname (green)}!{Wait for input}{emote: Glare}Sé que estabas intentando pillarme	con la guardia baja mientras dormía	la siesta, pero te lo advierto...	¡Sigo siendo un tipo duro incluso	cuando estoy totalmente dormido!
+"015"	{emote: Happiness}¡Eh, {Player nickname (green)}! ¿Tú también	querías echar una siesta	en este tocón de árbol?	{emote: Distress}Dame un minuto{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡Me siento un	poco torpe y no consigo moverme	ahora mismo, {pause 8}{catchphrase}!
 == 2 ==
-"001"	{0000-0002-0002-4b-00}Ha ha ha! Arrêtez! Je sais que mes biscotos	en imposent, mais ça devient gênant là{pause 8}!
-"002"	{0000-0002-0002-4b-00}.{pause 8}!
-"003"	{emote: Sleepy}
-"004"	{0000-0002-0002-4b-00}Hmmm{pause 8}
-"005"	.{pause 8}
-"006"	.{pause 8}
-"007"	{emote: Sleepy}
-"008"	
-"009"	{emote: Alarmed}
-"010"	{emote: Happiness}
-"011"	Yo {Player nickname (green)}
-"012"	{emote: Alarmed}
-"013"	Yo {Player nickname (green)}
-"014"	{emote: Disbelief}
-"015"	{emote: Happiness}
+"001"	{Text size 75%}Ha ha ha! Arrêtez! Je sais que mes biscotos	en imposent, mais ça devient gênant là{pause 8}.{pause 8}.{pause 8}.{Text size 100%}{Wait for input}{emote: Sleepy}{pause 20}Ouaahh{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait <0078 0000> 'time'}
+"002"	{Text size 75%}.{pause 8}.{pause 8}.{pause 20} Zzzz...{pause 20}	.{pause 8}.{pause 8}.{Text size 100%}{pause 20}{emote: Alarmed}{0007-000b-0000} Hein?!{Wait <0078 0000> 'time'}
+"003"	{emote: Sleepy}{pause 20}Ouaahhh{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait <0078 0000> 'time'}
+"004"	{Text size 75%}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 40} Encore cinq minutes...!{pause 40}{Text size 100%}	{emote: Shocked}{0007-000b-0000}Steuplé maman!{Wait for input}{emote: Sleepy}{pause 20}Ouahhh{pause 8}.{pause 8}.{pause 8}.{pause 20}{pause 40}{emote: Disagreement}{Wait <0078 0000> 'time'}
+"005"	.{pause 8}.{pause 8}.{pause 8}{emote: Alarmed}{0007-000b-0000} Hein?!{Wait <0078 0000> 'time'}
+"006"	.{pause 8}.{pause 8}.{pause 8}{emote: Alarmed}{0007-000b-0000} Hein? Quoiiii...?!{Wait <0078 0000> 'time'}
+"007"	{emote: Sleepy}{pause 20}Mmmm{pause 8}.{pause 8}.{pause 8}.{Wait <0078 0000> 'time'}
+"008"
+"009"	{emote: Alarmed}{0007-000a-0000}Hein?! {capitalized}{Player nickname (green)}?!{pause 20} Qu'est-ce	que tu fais toi aussi sur le podium?{Wait for input}{emote: Mistaken}Oh non! Tu veux dire que tout ça	n'était qu'un rêve?! Raah, je venais	juste de recevoir la médaille d'or{pause 8}.{pause 8}.{pause 8}.
+"010"	{emote: Happiness}Tiens, {Player nickname (green)}!{pause 40} {emote: Shocked}{0007-000a-0000}Hein?!{pause 20}	Comment ça, j'ai de la bave sur le	menton?!	{emote: Distress}C-{pause 20}C'est pas de la bave! C'est euh{pause 8}.{pause 8}.{pause 8}.	De la transpiration, voilà!{pause 20} {emote: Pride}Eh ouais,	je me muscle même les lèvres!
+"011"	Yo {Player nickname (green)}!{pause 40}	{emote: Sleepy}J'ai{pause 8}.{pause 8}.{pause 8}.{pause 20} un petit coup de barre, là{pause 8}.{pause 8}.{pause 8}.{Wait for input}Je regardais la finale du	championnat du monde de	{0005-0011-0002-0000}, hier soir...{Wait for input}C'était tellement prenant qu'après	ça, j'ai pas pu fermer l'œil de la	nuit,{pause 8} {catchphrase}!
+"012"	{emote: Alarmed}{0007-000a-0000}Oh! {capitalized}{Player nickname (green)}?!{pause 40} {emote: Bashful}Rassure-moi,	j'étais pas en train de parler	pendant mon sommeil, là?
+"013"	Yo {Player nickname (green)}!{pause 40}	{emote: Worry}Argh{pause 8}.{pause 8}.{pause 8}.{pause 20} Crampe du popotin!
+"014"	{emote: Disbelief}{0007-000a-0000}Waouh! J'ai ressenti une présence.	C'était toi, {Player nickname (green)}?!{Wait for input}{emote: Glare}C'est très malin d'essayer de me	surprendre comme ça...{Wait for input}{emote: Pride}Mais sache que quelqu'un d'aussi	bien entraîné que moi ne baisse	jamais sa garde!{pause 20} Jamais!
+"015"	{emote: Happiness}Yo, {Player nickname (green)}!{pause 20} Toi aussi t'as envie	de t'asseoir ici pour piquer un	roupillon?{Wait for input}{emote: Distress}Attends une minute steuplé{pause 8}.{pause 8}.{pause 8}.{pause 20} Je	crois que j'ai encore les pattes	toutes endormies, {pause 8}{catchphrase}!

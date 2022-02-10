@@ -1,23 +1,23 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Shocked}
-"003"	{emote: Surprise}
-"004"	オニは～{pause 20}
-"005"	{emote: Happiness}
-"006"	{emote: Agreement}
-"007"	{emote: Surprise}
-"008"	{emote: Distress}
-"009"	{emote: Shocked}
-"010"	{emote: Alarmed}
-"011"	{emote: Glare}
-"012"	{emote: Worry}
-"013"	{emote: Surprise}
-"014"	{emote: Surprise}
-"015"	{emote: Surprise}
-"016"	{emote: Surprise}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Surprise}
-"020"	{emote: Reset}
-"021"	{emote: Glare}
-"022"	{emote: Soft Smile}
+"001"	{emote: Distress}{0007-000a-0000}ひゃ～！{pause 20}	オニだ　オニだ～！{pause 40}{emote: Worry}
+"002"	{emote: Shocked}{0007-000b-0000}うひゃ～！{pause 20}　オニだ！{pause 20}	オニが　{ruby (charSpan 1): き}来たぞ！
+"003"	{emote: Surprise}{0007-000b-0000}あっ！　オニ？！{pause 40}	{emote: Glee}{ruby (charSpan 1): ま}待ってました～！
+"004"	オニは～{pause 20}そと！{pause 20}	フクは～{pause 20}うち！
+"005"	{emote: Happiness}よし！{pause 10}	これで　{ruby (charSpan 2): ことし}今年も　{ruby (charSpan 3): だいじょうぶ}大丈夫だね！{pause 40}	{emote: Reset}アンタも　ごくろうさん！　{pause 20}{catchphrase}！
+"006"	{emote: Agreement}それにしても　{ruby (charSpan 2): ことし}今年のオニは	{ruby (charSpan 2): きあ}気合い　{ruby (charSpan 1): はい}入ってるなー！{pause 40}	{emote: Happiness}{ruby (charSpan 2): さいこう}最高だよ！　{pause 20}{catchphrase}！
+"007"	{emote: Surprise}あっ、ゴメンゴメン！{pause 20}	つい　{ruby (charSpan 2): ほんき}本気で　マメ{ruby (charSpan 1): な}投げちゃった！{pause 40}	{emote: Soft Smile}{ruby (charSpan 1): いた}痛かった？　{pause 20}{catchphrase}？
+"008"	{emote: Distress}{0007-000b-0000}うひゃ～！{pause 20}　オニだ　オニだ！{pause 40}	こんなときは　マメを{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Surprise}えっ！{pause 20}　オニも　マメ{ruby (charSpan 1): も}持ってる？！	{emote: Distress}まくか　まかれるか、	どっちかにしてよ～！　{pause 20}{catchphrase}！{pause 40}{emote: Worry}
+"009"	{emote: Shocked}{0007-000b-0000}げげっ！{pause 20}	マメ{ruby (charSpan 1): も}持ってる、オニ？		{emote: Distress}わぁ～！{pause 20}	そのマメ　{ruby (charSpan 2): ぜったい}絶対に	{ruby (charSpan 1): あ}当たりたくない！　{pause 20}{catchphrase}！{pause 40}{emote: Worry}
+"010"	{emote: Alarmed}あっ！{pause 20}　オニだ！{pause 40}	{emote: Anger}よ～し、これでも　くらえ{pause 20}・{pause 20}・{pause 20}・{pause 40}	{emote: Curious}あれ？{pause 20}　そのマメは？	{emote: Distress}きったなーい！{pause 20}　だましたね！{pause 40}	マメ　ぶつけられても、	ぶつけないのが　オニの　お{ruby (charSpan 2): やくそく}約束なのに！{pause 40}{emote: Worry}
+"011"	{emote: Glare}ひっひっひ{pause 8}・{pause 8}・{pause 8}・{pause 20}	オニに　このマメを	ぶつけてやるぞ！　{pause 20}{catchphrase}！
+"012"	{emote: Worry}もー、{pause 20}オニ　いないじゃん！{pause 40}	{emote: Resigned}ウチの　マメ{ruby (charSpan 1): な}投げテクを	ひろうする　チャンスが{pause 8}・{pause 8}・{pause 8}・{pause 20}{catchphrase}
+"013"	{emote: Surprise}あ、そっか！{pause 20}	{ruby (charSpan 2): さいご}最後に　マメ{ruby (charSpan 1): た}食べなきゃ	いけないんだっけ？	{emote: Happiness}{ruby (charSpan 2): ちょうし}調子にのって　{ruby (charSpan 2): ぜんぶ}全部	{ruby (charSpan 1): な}投げちゃうとこだったよ！　{pause 20}{catchphrase}！
+"014"	{emote: Surprise}あっ！{pause 8}　マメ{ruby (charSpan 1): も}持ってるじゃん！{pause 40}	{emote: Happiness}ウチも　{ruby (charSpan 1): はや}早く　{ruby (charSpan 2): ようい}用意しなきゃ{pause 8}・{pause 8}・{pause 8}・{pause 20}	もちろん、{ruby (charSpan 1): た}食べる{ruby (charSpan 1): ぶん}分もね！　{pause 20}{catchphrase}！
+"015"	{emote: Surprise}わぁ、{Player nickname (green)}ってば	もう　マメ{ruby (charSpan 2): ようい}用意してんだ！{pause 40}	{emote: Reset}やる{ruby (charSpan 1): き}気だね！	{emote: Agreement}ウチも、{ruby (charSpan 1): な}投げやすいように	{ruby (charSpan 1): かる}軽めのマメを　{ruby (charSpan 1): か}買ってあるんだよ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Curious}どこしまったかな？　{pause 20}{catchphrase}？
+"016"	{emote: Surprise}あっ！{pause 8}　マメ{ruby (charSpan 1): も}持ってるじゃん！{pause 40}	{emote: Glare}アンタ{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 2): きょう}今日は	{ruby (charSpan 2): しょうぶ}勝負　かけるつもりだね？	{emote: Happiness}いいかい？{pause 20}	{ruby (charSpan 1): た}食べる{ruby (charSpan 1): ぶん}分は　{ruby (charSpan 1): のこ}残しとくんだよ！{pause 40}	{emote: Reset}アンタの　{ruby (charSpan 1): とし}年の{ruby (charSpan 1): かず}数だけ　{ruby (charSpan 2): ひつよう}必要だからね！
+"017"	{emote: Happiness}へへへ、{pause 20}{ruby (charSpan 2): ふたり}二人して	マメ{ruby (charSpan 1): も}持って{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}もう　{ruby (charSpan 2): じゅんび}準備バッチリじゃん！	{emote: Glee}{ruby (charSpan 2): きょう}今日は、{ruby (charSpan 2): きあ}気合い　{ruby (charSpan 1): い}入れていくぞー！{pause 40}	{0007-000b-0000}{Text size 150%}おー！{Text size 100%}
+"018"	{emote: Happiness}よーし、{Player nickname (green)}！{pause 20}	オニが{ruby (charSpan 1): で}出てくるまで、	マメ{ruby (charSpan 1): な}投げる　{ruby (charSpan 2): れんしゅう}練習しよ！	{emote: Worry}あ、{pause 8}でも{pause 40}	{ruby (charSpan 2): ほんもの}本物{ruby (charSpan 1): つか}使うと　もったいないから	{ruby (charSpan 2): すぶ}素振りで！　{pause 20}{catchphrase}！
+"019"	{emote: Surprise}あっ！{pause 2}　マメ{ruby (charSpan 1): も}持ってるじゃん！{pause 40}	{emote: Glare}アンタも　{ruby (charSpan 2): きょう}今日は、	{ruby (charSpan 2): しょうぶ}勝負　かけるつもりだね？	{emote: Happiness}いいかい？{pause 20}	{ruby (charSpan 1): た}食べる{ruby (charSpan 1): ぶん}分は　{ruby (charSpan 1): のこ}残しとくんだよ！{pause 20}	{emote: Reset}アンタの　{ruby (charSpan 1): とし}年の{ruby (charSpan 1): かず}数だけ　{ruby (charSpan 2): ひつよう}必要だからね！
+"020"	{emote: Reset}え～っと、マメ、マメ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Alarmed}あれっ？！{pause 20}　さっきまで　{ruby (charSpan 1): も}持ってたのに？{pause 40}		{emote: Distress}もうっ！{pause 20}	いざというときに　ないんだから！	{pause 20}{catchphrase}！{pause 40}{emote: Worry}
+"021"	{emote: Glare}いよっ！{pause 20}　キマってるねぇ！	{Gray}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Reset}って、{pause 40}ここはやっぱり	こわがっといた{ruby (charSpan 1): ほう}方が　いいのかな？{Color Reset}	{emote: Distress}で、{pause 8}でもなんか　{ruby (charSpan 2): きょう}今日は	ハクリョクが　{ruby (charSpan 1): ちが}違うね！{pause 20}	{ruby (charSpan 2): ほんもの}本物みたい！　{pause 20}{catchphrase}！
+"022"	{emote: Soft Smile}いいなー、そのおめん！{pause 20}	ウチもかぶりた{pause 20}・{pause 20}・{pause 20}・{pause 40}{emote: Surprise}あっ、{pause 8}ゴメン！{pause 20}	{ruby (charSpan 2): ふつう}普通にしてちゃ　ダメだよね！	{emote: Distress}わ～！{pause 20}　コワイよ～！	{pause 20}{catchphrase}！

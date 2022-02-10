@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{pause 5}
-"002"	{emote: Happiness}
-"003"	{Player nickname (green)}
+"001"	{pause 5}{emote: Greetings}{pause 10}あっ、{pause 10}{Player nickname (green)}{0005-000d-0000}！{pause 20}	ちゃんと　{ruby (charSpan 2): そんちょう}村長やってる？！{Wait for input}{emote: Happiness}{Town name (pink)}{ruby (charSpan 1): むら}村の　{ruby (charSpan 2): みらい}未来は{pause 10}	アンタのうでひとつに　{pause 3}かかってるんだから{pause 10}	ホント　がんばってよね～、{pause 15}{catchphrase}！
+"002"	{emote: Happiness}{ruby (charSpan 2): そんちょう}村長さんモードの　{Player nickname (green)}{0005-000d-0000}、{pause 15}	{ruby (charSpan 2): ちょうし}調子は　どお～？！{Wait for input}{emote: Reset}{ruby (charSpan 1): あたら}新しい　{ruby (charSpan 4): こうきょうじぎょう}公共事業で{pause 5}	{ruby (charSpan 1): なに}何ができるのか　{pause 3}{ruby (charSpan 1): たの}楽しみにしてるよ！{emote: Sunny}
+"003"	{Player nickname (green)}{0005-000d-0000}、{pause 10}	やっぱ　{pause 3}{ruby (charSpan 1): むら}村づくりの　お{ruby (charSpan 2): しごと}仕事となると{pause 8}	いつもより　しんけんな{ruby (charSpan 2): ひょうじょう}表情だね！{Wait for input}{emote: Glee}それでこそ　{pause 3}われらが{ruby (charSpan 2): そんちょう}村長！{pause 20}	{emote: Happiness}これからも　{ruby (charSpan 2): きたい}期待してるから！

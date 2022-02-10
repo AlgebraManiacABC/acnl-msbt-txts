@@ -1,47 +1,47 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Surprise}
-"003"	{emote: Surprise}
-"004"	{emote: Surprise}
-"005"	{emote: Alarmed}
-"006"	{emote: Alarmed}
-"007"	{emote: Happiness}
-"008"	{emote: Surprise}
-"009"	{emote: Surprise}
-"010"	{emote: Surprise}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{emote: Surprise}
-"014"	{emote: Surprise}
-"015"	{emote: Alarmed}
-"016"	{emote: Alarmed}
-"017"	{emote: Happiness}
-"018"	{emote: Surprise}
-"019"	{emote: Alarmed}
-"020"	{emote: Alarmed}
-"021"	{emote: Alarmed}
-"022"	{emote: Surprise}
-"023"	{emote: Happiness}
-"024"	{emote: Soft Smile}
-"025"	{emote: Soft Smile}
-"026"	{emote: Bashful}
-"027"	{emote: Surprise}
-"028"	{emote: Glee}
-"029"	{emote: Happiness}
-"030"	どうぞ！{pause 20}
-"031"	{emote: Soft Smile}
-"032"	{emote: Soft Smile}
-"033"	{emote: Happiness}
-"034"	{emote: Happiness}
-"035"	
-"036"	{emote: Soft Smile}
-"037"	{emote: Soft Smile}
-"038"	{emote: Soft Smile}
-"039"	{emote: Soft Smile}
-"040"	{emote: Soft Smile}
-"041"	{emote: Soft Smile}
-"042"	{emote: Soft Smile}
-"043"	{emote: Soft Smile}
-"044"	{emote: Soft Smile}
-"045"	{emote: Soft Smile}
-"046"	{emote: Soft Smile}
+"001"	{emote: Curious}あら？{pause 20}	そうなんですか？
+"002"	{emote: Surprise}あら　まぁ{pause 20}	そうですか
+"003"	{emote: Surprise}まぁ！{pause 20}　ありがとうございます！{pause 20}	{emote: Happiness}さすがですね、{pause 15}{catchphrase}
+"004"	{emote: Surprise}あら！{pause 20}　ありがとうございます{pause 20}	{emote: Happiness}ちゃんと　つかまえて{ruby (charSpan 1): き}来てくれたんですね
+"005"	{emote: Alarmed}あら～！{pause 20}　すご～い！{pause 20}	{emote: Glee}{ruby (charSpan 2): ほんもの}本物の　{pause 5}{0011-0003-0002-0000}！！{Wait for input}	{ruby (charSpan 2): かんどう}感動です～！	{emote: Happiness}さすが　{pause 10}{Player nickname (green)}さん！{pause 20}	ありがとうございました、{pause 10}{catchphrase}
+"006"	{emote: Alarmed}あら！{pause 20}	ありがとうございます！！{pause 20}	{0011-0003-0002-0000}！	{emote: Distress}つかまえるの	{ruby (charSpan 2): たいへん}大変だったんじゃないですか？{Wait for input}	{emote: Joy}とってもうれしいです、{pause 10}{catchphrase}{pause 40}{emote: Soft Smile}
+"007"	{emote: Happiness}どうも　{pause 10}ありがとうございます！{pause 20}	{0011-0003-0002-0000}ですね！{Wait for input}	{emote: Glee}ちょうど　{ruby (charSpan 1): ほ}欲しかったんで、{pause 10}うれしいです
+"008"	{emote: Surprise}まぁ！{pause 20}	{emote: Happiness}{0011-0003-0002-0000}ですね{pause 20}	{emote: Happiness}どうもありがとうございます{Wait for input}{emote: Shyness}わざわざ、{pause 10}わたしのために{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Sunny}うれしいです！
+"009"	{emote: Surprise}あら、{pause 10}{0011-0003-0002-0000}！{Wait for input}{emote: Happiness}うふふ！{pause 20}	どことなく　{pause 10}{Player nickname (green)}さんに	{ruby (charSpan 1): に}似ていると{ruby (charSpan 1): おも}思います
+"010"	{emote: Surprise}まぁ！{pause 20}　	{emote: Happiness}ありがとうございます！{Wait for input}{emote: Soft Smile}{0011-0003-0002-0000}は{pause 10}	{ruby (charSpan 1): き}気になってたムシなので{pause 10}	プレゼントしていただけて　うれしいです！
+"011"	{emote: Alarmed}え！！{pause 20}	{0011-0003-0002-0000}じゃないですか！{Wait for input}{emote: Distress}こんな　めずらしいムシ、{pause 10}	つかまえたんですか？{Wait for input}{emote: Happiness}まさか{pause 10}　{0011-0003-0002-0000}を{pause 8}	いただけると{ruby (charSpan 1): おも}思っていなかったので{pause 10}	びっくりしちゃいました	ありがとうございます！！
+"012"	{emote: Alarmed}{0011-0003-0002-0000}ですか？！{Wait for input}{pause 20}	{emote: Happiness}こんな　めずらしいムシ{pause 10}	つかまえられるなんて　すごいです！	{emote: Glee}しかも　{pause 10}プレゼントしてくださるなんて{pause 10}	{Player nickname (green)}さんって　{ruby (charSpan 1): ふと}太っ{ruby (charSpan 1): ぱら}腹ですね{pause 30}	ありがとうございます！
+"013"	{emote: Surprise}まぁ！{pause 20}　ありがとうございます！{Wait for input}	{emote: Shyness}わたしのワガママ、{pause 10}	{ruby (charSpan 1): き}聞いてくださったんですね！
+"014"	{emote: Surprise}あら！{pause 20}　ありがとうございます！{Wait for input}{emote: Glee}う～ん！{pause 30}	{ruby (charSpan 1): い}活きがいいですね！
+"015"	{emote: Alarmed}あらっ！{pause 20}　すごい～！{pause 20}	{ruby (charSpan 2): ほんもの}本物の　{0011-0003-0002-0000}！！{pause 20}	{emote: Love}{ruby (charSpan 2): かんどう}感動しました{pause 8}・{pause 8}・{pause 8}・{pause 8}！	{emote: Glee}ありがとうございます！{pause 20}	さすが、{pause 10}{Player nickname (green)}さんです
+"016"	{emote: Alarmed}まぁ！！{pause 20}	ありがとうございます！{pause 30}	{emote: Love}{ruby (charSpan 2): ほんもの}本物の　{pause 5}{0011-0003-0002-0000}！	{emote: Shyness}{ruby (charSpan 1): つ}釣るの　{pause 10}{ruby (charSpan 2): たいへん}大変だったんじゃないですか？{pause 20}	うれしいです、{pause 15}{catchphrase}
+"017"	{emote: Happiness}あら、{pause 15}ありがとうございます！{pause 20}	{0011-0003-0002-0000}ですね{Wait for input}{emote: Soft Smile}やっぱり　{Player nickname (green)}さんは、{pause 10}	{ruby (charSpan 1): つ}釣りが　お{ruby (charSpan 2): とくい}得意のようです
+"018"	{emote: Surprise}まぁ！{pause 20}	{emote: Happiness}{0011-0003-0002-0000}ですね{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): きたい}期待{ruby (charSpan 1): どお}通りの　{pause 10}すてきなおサカナを	{ruby (charSpan 1): とど}届けてくださって、{pause 10}	ありがとうございます
+"019"	{emote: Alarmed}まぁ！{pause 20}　{0011-0003-0002-0000}！{pause 25}	{emote: Happiness}とっても　{ruby (charSpan 2): しんせん}新鮮そうですね！{Wait for input}お{ruby (charSpan 2): てすう}手数おかけして　すみません{pause 20}	エンリョせずに　{pause 5}いただいちゃいますね
+"020"	{emote: Alarmed}まぁ！{pause 20}　{0011-0003-0002-0000}！{pause 20}	{emote: Love}ありがとうございます！{Wait for input}{emote: Soft Smile}わたしのお{ruby (charSpan 1): ねが}願いを　{ruby (charSpan 1): き}聞いてくださった{pause 10}	その　やさしさに　{pause 10}{ruby (charSpan 2): かんしゃ}感謝です
+"021"	{emote: Alarmed}え！！{pause 20}	{0011-0003-0002-0000}じゃないですか！{Wait for input}	{emote: Distress}こんな　めずらしいサカナ{pause 10}{ruby (charSpan 1): つ}釣ったんですか？	{emote: Laughter}わぁ　{pause 20}びっくりしちゃいました{pause 20}	ありがとうございます！！{pause 20}{emote: Soft Smile}
+"022"	{emote: Surprise}{0011-0003-0002-0000}ですか？！{Wait for input}	{emote: Shyness}こんな　めずらしいサカナ{pause 10}	いただいてしまって　いいんでしょうか	{0011-0003-0002-0000}を{pause 5}	{ruby (charSpan 1): も}持っていると{ruby (charSpan 1): おも}思うだけで{pause 10}	{ruby (charSpan 2): しんぞう}心臓が　ドキドキします
+"023"	{emote: Happiness}そうそう　{pause 10}お{ruby (charSpan 1): れい}礼　{pause 5}{ruby (charSpan 1): さ}差し{ruby (charSpan 1): あ}上げなくっちゃ！{pause 20}	どうぞ　{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取ってください
+"024"	{emote: Soft Smile}では　{pause 10}お{ruby (charSpan 1): れい}礼です！{pause 20}	どうぞ！
+"025"	{emote: Soft Smile}ぜひ　{pause 10}お{ruby (charSpan 1): れい}礼させてください！
+"026"	{emote: Bashful}どう　{pause 5}お{ruby (charSpan 1): れい}礼したらいいのか{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Soft Smile}{Wait for input}	{emote: Happiness}ほんの{ruby (charSpan 2): きも}気持ちですけど{pause 10}	どうぞ　{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取ってください！！
+"027"	{emote: Surprise}あ！{pause 20}　{emote: Soft Smile}ぜひ　{pause 10}お{ruby (charSpan 1): れい}礼させてください
+"028"	{emote: Glee}お{ruby (charSpan 1): れい}礼を　{pause 5}{ruby (charSpan 1): さ}差し{ruby (charSpan 1): あ}上げますね！
+"029"	{emote: Happiness}お{ruby (charSpan 1): れい}礼をしたいので{pause 10}	ぜひ　{pause 10}{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取ってください
+"030"	どうぞ！{pause 20}	これ　{pause 10}お{ruby (charSpan 1): れい}礼です！
+"031"	{emote: Soft Smile}これは　{pause 10}ちゃんと　お{ruby (charSpan 1): れい}礼しないとですね！{pause 20}	どうぞ　{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取ってください
+"032"	{emote: Soft Smile}こんな　すてきなものを{pause 5}	いただいたんですから、{pause 10}	ちゃんと　{pause 5}お{ruby (charSpan 1): れい}礼しないとですよね！
+"033"	{emote: Happiness}{0011-0003-0002-0001}です{Wait for input}	どうも　ありがとうございました{pause 20}	{ruby (charSpan 2): たいせつ}大切にしますね！
+"034"	{emote: Happiness}{0011-0003-0002-0001}です{Wait for input}	では　お{ruby (charSpan 1): いそが}忙しいところ{pause 10}	ありがとうございました！
+"035"
+"036"	{emote: Soft Smile}{Blue}{0011-0003-0002-0000}{Color Reset}を{pause 10}	つかまえて{ruby (charSpan 1): き}来て　いただきたいんです
+"037"	{emote: Soft Smile}{Blue}{0011-0003-0002-0000}{Color Reset}です{pause 25}	{emote: Glee}よろしく　お{ruby (charSpan 1): ねが}願いしますね！
+"038"	{emote: Soft Smile}{Blue}チョウチョ{Color Reset}の{ruby (charSpan 2): なかま}仲間だったら{pause 5}	{ruby (charSpan 1): なん}何でもいいので、{pause 10}お{ruby (charSpan 1): ねが}願いしますね
+"039"	{emote: Soft Smile}{Blue}カブトムシ{Color Reset}の{ruby (charSpan 2): なかま}仲間ですよ{pause 25}	{ruby (charSpan 2): きたい}期待していますね！
+"040"	{emote: Soft Smile}{Blue}クワガタ{Color Reset}の{ruby (charSpan 2): なかま}仲間をお{ruby (charSpan 1): ねが}願いします！{pause 25}	{ruby (charSpan 1): たの}楽しみにしていますね{emote: Sunny}
+"041"	{emote: Soft Smile}{Blue}セミ{Color Reset}の{ruby (charSpan 2): なかま}仲間だったら　{ruby (charSpan 1): なん}何でもいいので！{pause 20}	{emote: Agreement}お{ruby (charSpan 1): ま}待ちしています
+"042"	{emote: Soft Smile}{Blue}トンボ{Color Reset}の{ruby (charSpan 2): なかま}仲間だったら　{ruby (charSpan 1): なん}何でもいいので、{pause 10}	つかまえて{ruby (charSpan 1): き}来てくださいね！
+"043"	{emote: Soft Smile}{Blue}{0011-0003-0002-0000}{Color Reset}です！{pause 20}	{ruby (charSpan 1): たの}楽しみにしてますから～
+"044"	{emote: Soft Smile}{Blue}{0011-0003-0002-0000}{Color Reset}です{pause 25}	よろしく　お{ruby (charSpan 1): ねが}願いしますね！{emote: Sunny}
+"045"	{emote: Soft Smile}{Blue}{ruby (charSpan 1): かわ}川のサカナ{Color Reset}だったら　{pause 5}{ruby (charSpan 1): なん}何でもいいので、{pause 10}	よろしく　お{ruby (charSpan 1): ねが}願いします！
+"046"	{emote: Soft Smile}{Blue}{ruby (charSpan 1): うみ}海のサカナ{Color Reset}を　お{ruby (charSpan 1): ねが}願いしますね！{pause 20}	{ruby (charSpan 1): ま}待ってますから～

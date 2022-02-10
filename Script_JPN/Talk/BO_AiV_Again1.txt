@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Sleepy}
-"002"	{emote: Happiness}
-"003"	{emote: Soft Smile}
-"004"	{emote: Happiness}
-"005"	{Greeting begin}
+"001"	{emote: Sleepy}ふぁぁ～～{pause 40}	どうしたのぉ？　{pause 8}{catchphrase}
+"002"	{emote: Happiness}やぁ～{pause 8}　{Player name}{0005-000d-0000}{pause 20}	おつぎは　どんなご{ruby (charSpan 1): よう}用？　{pause 8}{catchphrase}？
+"003"	{emote: Soft Smile}{Greeting begin}やぁ～{pause 8}　{Player name}{0005-000d-0000}{Greeting end}{pause 20}	どうしたのぉ？　{pause 8}{catchphrase}？
+"004"	{emote: Happiness}いっぱい　お{ruby (charSpan 1): はな}話しできて	うれしいよぉ、{pause 8}{catchphrase}{pause 20}	こんどは　どんなご{ruby (charSpan 1): よう}用なのぉ？
+"005"	{Greeting begin}やっほぉ～{Greeting end}{pause 20}	{ruby (charSpan 1): なに}何か　ご{ruby (charSpan 1): よう}用？　{pause 8}{catchphrase}？

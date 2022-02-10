@@ -1,145 +1,145 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Soft Smile}
-"003"	{emote: Surprise}
-"004"	{emote: Worry}
-"005"	{emote: Shocked}
-"006"	{emote: Resigned}
-"007"	{emote: Delight}
-"008"	{emote: Agreement}
-"009"	{emote: Surprise}
-"010"	{0009-0002-0008-0b-00-0b-00-0b-00-0c-00}
-"011"	All right.{pause 16}
-"012"	All right.{pause 16}
-"013"	So {pause 8}
-"014"	{0009-0002-0008-0f-00-0f-00-10-00-10-00}
-"015"	{emote: Curious}
-"016"	{emote: Curious}
-"017"	You're 2 for 2.{pause 8}
-"018"	{0009-0002-0008-13-00-14-00-14-00-14-00}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
-"021"	{0009-0001-0006-17-00-18-00-19-00}
-"022"	{0009-0001-0006-1a-00-1b-00-1c-00}
-"023"	{emote: Worry}
-"024"	{emote: Shyness}
-"025"	{emote: Worry}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	{emote: Anger}
+"001"	{emote: Curious}Hey, do you feel like taking a little	risk?{pause 16}{emote: Mischief} Let's play a game for your	{0011-0003-0002-0000}!	{0007-000d-0000}{emote: Thought}If you win,{pause 8} I'll buy it from you at an	inflated price. {pause 16}But if I win, {emote: Glare}{pause 8}I'll get a	real bargain. {pause 16}	{emote: Mischief}The game's called Chase the Ace.{pause 16}	What do you say?{Player can respond (0005):0007-0015-0002-0028}	Let's do it!	Maybe later.
+"002"	{emote: Soft Smile}So that's one of your prized	possessions,{pause 8} huh?{pause 16} Not worth selling	at any price?{pause 16} {emote: Resigned}No worries. {pause 8}I get it.
+"003"	{emote: Surprise}Ouch! {pause 16}Sorry, {pause 8}{emote: Sheepishness}but that means I get to	buy it for a mere {Blue}{Number (0x9)} Bells{Color Reset}!
+"004"	{emote: Worry}Aww, {pause 8}that's too bad.{pause 16} {emote: Pride}So that	means I get to buy your prized	possession for just {Blue}{Blue}{Number (0x9)}{Blue} Bells{Color Reset}.
+"005"	{emote: Shocked}Ooh, {pause 8}so close.{pause 16} You almost got 3	aces in a row.{pause 16}{Wait for input}{emote: Sigh}Well played.{pause 16} {emote: Alarmed}That means I have to	buy your item for a whopping	{Blue}{Number (0x9)} Bells{Color Reset}!
+"006"	{emote: Resigned}Oh no! {pause 16}Three aces in a row?{pause 16} Gah!{Wait for input}{emote: Worry}I didn't expect this to happen. {pause 16}{emote: Sadness}Now	I have to buy that thing for {Blue}{Number (0x9)}	Bells{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"007"	{emote: Delight}Yes!{pause 16} I knew you'd be game.{pause 16} {emote: Curious}Oh,{pause 8}	would you like me to explain the	rules a little more clearly?{Player can respond (0005):0008-0015-0009-0028}	Yes, please.	I know how to play.
+"008"	{emote: Agreement}You got it. {pause 16}So {pause 8}I have 2 cards—{pause 8}the	ace of hearts and the joker.{Wait for input}{emote: Happiness}I'll shuffle them,{pause 8} and then you can	pick one.{Wait for input}{emote: Surprise}If you choose the ace, {pause 8}the price of	the {0011-0003-0002-0000} will go	up.	{emote: Glare}But if you choose the joker,{pause 8} I get to	buy it at its current price. {pause 16}Which is	{Blue}{Number (0x9)} Bells{Color Reset},{pause 8} by the way.	We'll play 3 rounds.{pause 16}{emote: Curious} Are you	ready? {Wait for input}OK, {pause 8}pick a card, {pause 8}any card.{Player can respond (0000):000a-0000-000b-0000}	The left one.	The right one.
+"009"	{emote: Surprise}Ah, {pause 8}so you've played before. {pause 16}{emote: Pride}Good!{pause 16} I	welcome the challenge of an	experienced opponent.	Let's get started.{pause 16} {emote: Curious}Which card do	you want? {pause 16}If you choose wrong, I	buy your item for {Blue}{Number (0x9)} Bells{Color Reset}.{Player can respond (0000):000a-0000-000a-0000}	The left one.	The right one.
+"010"	{0009-0002-0008-000b-000b-000b-000c}
+"011"	All right.{pause 16}{emote: Sheepishness} I've got the card you 	chose, {pause 8}and I'm going to look at it	any second now{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Alarmed}It's the ace of hearts! {pause 16}Well done.
+"012"	All right.{pause 16}{emote: Sheepishness} I've got the card you	chose,{pause 8} and I'm going to look at it	any second now{pause 8}.{pause 8}.{pause 8}.{pause 8}	{0007-000b-0000}Bzzzzt!{pause 16} {emote: Resigned}Sorry,{pause 8} but it's the joker.
+"013"	So {pause 8}you win round one.{pause 16} {emote: Sigh}That makes	the price at least {Blue}{Number (0x9)} Bells{Color Reset}.{pause 16} Let's	start the next round before I panic.	{emote: Curious}Which card do you want?{Player can respond (0000):000e-0000-000e-0000}	The left one.	The right one.
+"014"	{0009-0002-0008-000f-000f-0010-0010}
+"015"	{emote: Curious}OK, {pause 8}are you sure this is the card	you wanted? {pause 16}{emote: Glare}I have a weird feeling	about this{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Disbelief}{capitalized}{catchphrase}!{pause 16} It's the ace of	hearts again!
+"016"	{emote: Curious}OK, {pause 8}are you sure this is the card	you wanted? {pause 16}{emote: Glare}I have a weird feeling	about this{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Glare}Whew.{pause 16} It's the joker!
+"017"	You're 2 for 2.{pause 8}{emote: Surprise} Can you make	it 3 for 3?{pause 16} {emote: Sheepishness}Let's find out!{Wait for input}{emote: Thought}If you choose wrong in this round,{pause 8}	the price will be {Blue}{Number (0x9)} Bells. {pause 16}{Color Reset}So{emote: Curious}{pause 8}	which card do you want?{Player can respond (0000):0012-0000-0012-0000}	The left one.	The right one.
+"018"	{0009-0002-0008-0013-0014-0014-0014}
+"019"	{emote: Worry}Oh, {pause 8}the suspense! {pause 16}{emote: Distress}Did you just win {pause 8}	or fall a little bit short? {pause 16}Will I ever	stop talking and look at the card?	{emote: Surprise}Bingo!{pause 16} You picked the ace of	hearts again.
+"020"	{emote: Worry}Oh, {pause 8}the suspense! {pause 16}{emote: Distress}Did you just win {pause 8}	or fall a little bit short? {pause 16}Will I ever	stop talking and look at the card?	{emote: Surprise}Whammy! {pause 16}So sorry, {pause 8}but you got the	joker.
+"021"	{0009-0001-0006-0017-0018-0019}
+"022"	{0009-0001-0006-001a-001b-001c}
+"023"	{emote: Worry}Well,{pause 8} I guess the joke's on you this	time. {pause 16}{emote: Mischief}But maybe we'll play again{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"024"	{emote: Shyness}Tough luck. {pause 16}But we'll play again	sometime, {pause 8}won't we?
+"025"	{emote: Worry}Aww, {pause 8}don't give up that easily. {pause 16}{emote: Glare}I'm	ready for a rematch whenever you	are.
+"026"	{emote: Happiness}Looks like everything is coming up	aces for you.{Wait for input}{emote: Surprise}You know what they say{pause 8}.{pause 8}.{pause 8}.{pause 8} "Lucky	in sketchy street card games,{pause 8} lucky	in love." {pause 16}{emote: Resigned}Or{pause 8}.{pause 8}.{pause 8}.{pause 8}something like that.
+"027"	{emote: Happiness}Good game.{pause 16} I hope all those aces	bring you good luck in your	everyday life {pause 8}too.
+"028"	{emote: Anger}I hope none of those aces came out	of your sleeves,{pause 8} champ{pause 8}.{pause 8}.{pause 8}.{pause 8}
 == 1 ==
-"001"	{emote: Curious}
-"002"	{emote: Soft Smile}
-"003"	{emote: Surprise}
-"004"	{emote: Surprise}
-"005"	{emote: Shocked}
-"006"	{emote: Resigned}
-"007"	{emote: Delight}
-"008"	{emote: Agreement}
-"009"	{emote: Surprise}
-"010"	{0009-0002-0008-0b-00-0b-00-0b-00-0c-00}
-"011"	Muy bien.{pause 16}
-"012"	Muy bien.{pause 16}
-"013"	Ganas la primera ronda.{pause 16}
-"014"	{0009-0002-0008-0f-00-0f-00-10-00-10-00}
-"015"	{emote: Curious}
-"016"	{emote: Curious}
-"017"	Has ganado dos de tres.{pause 8}
-"018"	{0009-0002-0008-13-00-14-00-14-00-14-00}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
-"021"	{0009-0001-0006-17-00-18-00-19-00}
-"022"	{0009-0001-0006-1a-00-1b-00-1c-00}
-"023"	{emote: Worry}
-"024"	{emote: Shyness}
-"025"	{emote: Worry}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	{emote: Glare}
+"001"	{emote: Curious}Dime, cielín, ¿hoy te sientes con	suerte?{pause 16}{emote: Mischief} Podríamos jugarnos es{e/a/}	{0011-0003-0002-0000} que tienes.	{0007-000d-0000}{emote: Thought}Si ganas,{pause 8} te l{o/a/} compraré por un	precio de escándalo. {pause 16}Si gano yo,{emote: Glare}{pause 8}	me l{o/a/} venderás a su precio normal.	{emote: Mischief}El juego se llama {Blue}Atrapa un as{Color Reset}.{pause 16}	¿Te animas?{Player can respond (0005):0007-0000-0002-0000}	¡Venga!	Quizá luego
+"002"	{emote: Soft Smile}Vaya, ¿tanto apego le tienes a ese	objeto que no quieres venderlo?{pause 16}	{emote: Resigned}Bueno, tú sabrás...
+"003"	{emote: Surprise}¡Qué mala suerte, terroncín! {pause 8}{emote: Happiness}¡Pero	no para mí! {pause 8}Me quedo este objeto	por solo {Blue}{Number (0x9)} bayas{Color Reset}.
+"004"	{emote: Surprise}¡Lo siento por ti!{pause 16} {emote: Pride}Eso significa	que te compro el objeto por	solo {Blue}{Blue}{Number (0x9)}{Blue} bayas{Color Reset}.
+"005"	{emote: Shocked}¡Huy,{pause 8} por poco!{pause 16} Casi consigues	encontrar los tres ases.{pause 16}{Wait for input}{emote: Sigh}No está mal.{pause 16} {emote: Alarmed}¡Voy a comprarte	este objeto por {Blue}{Number (0x9)} bayas{Color Reset}!
+"006"	{emote: Resigned}¡No puede ser! {pause 16}¿Has sacado tres	ases seguidos?{pause 16} ¡Menuda potra!{Wait for input}{emote: Worry}Eso no me lo esperaba. {pause 16}{emote: Sadness}Tendré que	pagarte {Blue}{Number (0x9)} bayas {Color Reset}por este	objeto{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"007"	{emote: Delight}¡Bien!{pause 16} Me gusta que siempre estés	tan dispuest{o/a}. {emote: Curious}¿Quieres que te	explique cómo se juega?{Player can respond (0005):0008-0015-0009-0028}	Sí, porfa	No hace falta
+"008"	{emote: Agreement}Es muy fácil. {pause 16}En la mano tendré	dos cartas:{pause 8} el as de corazones y	un comodín. {pause 16}	{emote: Happiness}Las mezclaré a conciencia y tú	tendrás que elegir una.{Wait for input}{emote: Surprise}Si encuentras el as, {pause 8}el precio de	tu {0011-0003-0002-0000} subirá.{Wait for input}{emote: Glare}Sin embargo, si das con el comodín,{pause 8}	te pagaré justo lo que vale, {pause 16}que es 	{Blue}{Number (0x9)} bayas{Color Reset}.	Vamos a jugar tres rondas, ¿vale?{pause 16}	{emote: Curious}¿List{o/a}? {Wait for input}Pues venga, coge una carta.{Player can respond (0000):000a-0000-000b-0000}	La de la izquierda	La de la derecha
+"009"	{emote: Surprise}¿Ya has jugado antes, flor?{pause 16}{emote: Pride} ¡Mejor!	Así será mucho más interesante.{Wait for input}¡Empecemos!{pause 16} {emote: Curious}¿Qué carta quieres? {pause 16}	Si eliges mal, te compraré el objeto	por {Blue}{Number (0x9)} bayas{Color Reset}.{Player can respond (0000):000a-0000-000a-0000}	La de la izquierda	La de la derecha
+"010"	{0009-0002-0008-000b-000b-000b-000c}
+"011"	Muy bien.{pause 16}{emote: Sheepishness} Vamos a ver qué carta	has elegido{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Alarmed}¡El as de corazones!{pause 16}	¡Enhorabuena!
+"012"	Muy bien.{pause 16}{emote: Sheepishness} Vamos a ver qué carta	has elegido{pause 8}.{pause 8}.{pause 8}.{pause 8} {0007-000b-0000}¡Es el comodín!{pause 16}	{emote: Resigned}Mala suerte, chiquill{o/a}...
+"013"	Ganas la primera ronda.{pause 16} {emote: Sigh}El precio	ha subido a {Blue}{Number (0x9)} bayas{Color Reset}.{pause 16} Sigamos,	que me estoy poniendo nerviosa.	{emote: Curious}¿Qué carta elegirás esta vez?{Player can respond (0000):000e-0000-000e-0000}	La de la izquierda	La de la derecha
+"014"	{0009-0002-0008-000f-000f-0010-0010}
+"015"	{emote: Curious}¿Estás segur{o/a}? {pause 16}{emote: Glare}Ahora ya no puedes	cambiar de decisión. {pause 16}Vamos a ver	de qué carta se trata{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Disbelief}¡{capitalized}{catchphrase}!{pause 16} ¡El as de corazones	otra vez!
+"016"	{emote: Curious}¿Estás segur{o/a}? {pause 16}{emote: Glare}Ahora ya no puedes	cambiar de decisión. {pause 16}Vamos a ver	de qué carta se trata{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Glare}Uf, menos mal. {pause 16}¡Es el comodín!
+"017"	Has ganado dos de tres.{pause 8}{emote: Surprise} ¿Crees que	conseguirás un pleno?{pause 16} {emote: Sheepishness}¡Enseguida lo	averiguaremos!{Wait for input}{emote: Thought}Si eliges mal en esta ronda,{pause 8} te	pagaré {Blue}{Number (0x9)} bayas{Color Reset} por el objeto.{pause 20}	{emote: Curious}¿Qué carta será esta vez?{Player can respond (0000):0012-0000-0012-0000}	La de la izquierda	La de la derecha
+"018"	{0009-0002-0008-0013-0014-0014-0014}
+"019"	{emote: Worry}¡Ay, qué tensión! {pause 16}{emote: Distress}¿Te quedarás a las	puertas de la victoria? {pause 16}¿O habrás	ganado y por eso no quiero mirar?	Veamos...{pause 20}{emote: Surprise} ¡Increíble! ¡Es el as de	corazones!
+"020"	{emote: Worry}¡Ay, qué tensión! {pause 16}{emote: Distress}¿Te quedarás a las	puertas de la victoria? {pause 16}¿O habrás	ganado y por eso no quiero mirar?	Veamos...{pause 20}{emote: Surprise} ¡Oooh!{pause 8} Has elegido	el comodín.
+"021"	{0009-0001-0006-0017-0018-0019}
+"022"	{0009-0001-0006-001a-001b-001c}
+"023"	{emote: Worry}Esta vez no has tenido suerte,	cariñín,{pause 20}{emote: Mischief} quizá a la próxima{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"024"	{emote: Shyness}No ha estado mal.{pause 16} Espero que 	volvamos a jugar.
+"025"	{emote: Worry}No te deprimas. {pause 16}{emote: Glare}Puedes pedirme	la revancha siempre que quieras.
+"026"	{emote: Happiness}Nunca había visto una jugada tan	perfecta, cielín.{pause 8} ¡Parece que hoy	es tu día de suerte!{Wait for input}{emote: Laughter}Si yo fuera tú, lo aprovecharía	al máximo.
+"027"	{emote: Happiness}¡Bien jugado!{pause 16} Espero que estos ases	te traigan suerte en el día a día.
+"028"	{emote: Glare}No te habrás sacado esos ases de	la manga o algo así, ¿verdad?
 == 2 ==
-"001"	{emote: Curious}
-"002"	{emote: Soft Smile}
-"003"	{emote: Surprise}
-"004"	{emote: Surprise}
-"005"	{emote: Shocked}
-"006"	{emote: Resigned}
-"007"	{emote: Delight}
-"008"	{emote: Agreement}
-"009"	{emote: Surprise}
-"010"	{0009-0002-0008-0b-00-0b-00-0b-00-0c-00}
-"011"	{emote: Sheepishness}
-"012"	{emote: Happiness}
-"013"	{emote: Sigh}
-"014"	{0009-0002-0008-0f-00-0f-00-10-00-10-00}
-"015"	{emote: Curious}
-"016"	{emote: Curious}
-"017"	{emote: Surprise}
-"018"	{0009-0002-0008-13-00-14-00-14-00-14-00}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
-"021"	{0009-0001-0006-17-00-18-00-19-00}
-"022"	{0009-0001-0006-1a-00-1b-00-1c-00}
-"023"	{emote: Worry}
-"024"	{emote: Shyness}
-"025"	{emote: Worry}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	{emote: Glare}
+"001"	{emote: Curious}Es-tu joueu{r/se} ?{pause 25}	Aimes-tu prendre des risques ?{pause 40}	{emote: Mischief}Alors je connais un jeu qui te plaira.	{0007-000d-0000}{emote: Thought}Si tu gagnes, {pause 12}je t'achète {ton joli/ta jolie/}	{0011-0003-0002-0000} à un très	bon prix.	{emote: Glare}Mais si tu perds,{pause 16} tu dois me {le/la/}	vendre en deçà de sa valeur réelle.{Wait for input}{emote: Mischief}Ce jeu s'appelle :{pause 16} « chasse l'as ».{pause 25}	Veux-tu t'y risquer ?{Player can respond (0005):0007-0015-0002-0028}	Et comment !	Pas cette fois.
+"002"	{emote: Soft Smile}Alors tu tiens tant que cela à cet	objet{pause 12} que tu ne veux pas risquer	de le perdre ?	{emote: Resigned}Je comprends. {pause 25}J'ai aussi chez moi	quelques trésors dont je ne me	séparerais pour rien au monde...
+"003"	{emote: Surprise}Oups ! {pause 20}Pas de chance.	{pause 30}{emote: Sheepishness}Cela veut dire que je vais pouvoir	l'avoir pour {Blue}{Number (0x9)} clochettes {Color Reset}!
+"004"	{emote: Surprise}Ah ha ! {pause 20}Tu as tiré le joker !{pause 30} {emote: Pride}Alors je	vais t'acheter ton bien pour tout	juste {Blue}{Number (0x9)} clochettes{Color Reset}.
+"005"	{emote: Shocked}Oh, {pause 16}pas mal.{pause 25} Bien joué, {pause 12}je dois dire.{pause 25}	Tu as failli avoir trois as d'affilée.{Wait for input}{emote: Sigh}Ce qui signifie que je t'achète ton	objet au prix de {Blue}{Number (0x9)} clochettes{Color Reset}...
+"006"	{emote: Resigned}Oh ! {pause 25}Trois as de suite ?!{pause 25}	Quelle chance insolente !{Wait for input}{emote: Worry}Je vais devoir te l'acheter très cher.	{pause 30}{Blue}{Number (0x9)} clochettes{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Sadness}C'est la ruine{pause 8}.{pause 8}.{pause 8}.
+"007"	{emote: Delight}{pause 20}Je savais que l'idée te tenterait !{pause 30}{emote: Curious}{pause 8}	Sais-tu comment on y joue ou veux-	tu que je t'en explique les règles ?{Player can respond (0005):0008-0015-0009-0028}	Explique-les-moi.	Je sais y jouer.
+"008"	{emote: Agreement}Alors écoute bien : {pause 30}j'ai deux cartes,{pause 20}	l'as de cœur {pause 15}et le joker.{pause 16} {emote: Happiness}Je vais les	mélanger,{pause 8} tu devras en choisir une.	{emote: Surprise}Si tu pioches l'as, {pause 8}le prix de ton	objet montera. {pause 25}{emote: Glare}Mais si tu prends le	joker,{pause 8} alors là...	{emote: Sheepishness}Je pourrai te l'acheter pour {Blue}{Number (0x9)}	clochettes{Color Reset}.{pause 25} Nous allons jouer en	trois manches.{pause 25} {emote: Mischief}Es-tu prêt{/e} ?	Prends une carte, {pause 15}celle de ton choix.{Player can respond (0000):000a-0000-000b-0000}	Celle de gauche.	Celle de droite.
+"009"	{emote: Surprise}Magnifique ! {pause 20}C'est encore mieux si	tu sais déjà y jouer. {pause 20}Le défi n'en est	que plus grand pour moi.	{emote: Pride}C'est parti !{pause 20} Quelle carte prendras-	tu ? {pause 20}Pioche la mauvaise et ton objet	sera à moi pour {Blue}{Number (0x9)} clochettes{Color Reset}.{Player can respond (0000):000a-0000-000a-0000}	Celle de gauche.	Celle de droite.
+"010"	{0009-0002-0008-000b-000b-000b-000c}
+"011"	{emote: Sheepishness}Parfait !{pause 20} Je retourne la carte que tu	as choisie, {pause 12}et c'est{pause 8}.{pause 8}.{pause 8}.{pause 16} {emote: Alarmed}C'est l'as de	cœur ! {pause 16}Ça commence bien !
+"012"	{emote: Happiness}Alors voyons...{pause 30} Je retourne la carte	que tu as choisie, {pause 8}et c'est{pause 8}.{pause 8}.{pause 8}.{pause 8} {0007-000b-0000}Hi hi !{pause 20}	{emote: Sheepishness}C'est le joker...
+"013"	{emote: Sigh}Tu remportes la première manche.{pause 25}	Le prix passe donc à {Blue}{Number (0x9)}	clochettes{Color Reset}.	{emote: Soft Smile}{pause 25}Passons à la seconde manche avant	que je ne commence à paniquer.{pause 25}	{emote: Curious}Alors ? {pause 20}Quelle carte ?{Player can respond (0000):000e-0000-000e-0000}	Celle de gauche.	Celle de droite.
+"014"	{0009-0002-0008-000f-000f-0010-0010}
+"015"	{emote: Curious}Tu es sûr{/e} que tu veux cette carte-	ci ? {pause 35}Alors je la retourne{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Disbelief}{capitalized}{catchphrase} !{pause 16} C'est l'as de cœur !
+"016"	{emote: Curious}Tu es sûr{/e} que tu veux cette carte-	ci ? {pause 35}Alors je la retourne{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Mischief}Oh !{pause 16} Le joker !
+"017"	{emote: Surprise}Ça fait deux ! {pause 25}Tu crois que tu peux	aussi avoir la troisième ? {pause 30}{emote: Sheepishness}C'est ce	que nous allons voir !	{emote: Thought}{pause 16}Si tu pioches la mauvaise cette fois,{pause 8}	le prix sera de {Blue}{Number (0x9)} clochettes{Color Reset}.{pause 25}{emote: Worry}{pause 8}	Rien ne va plus ! {pause 8}Choisis une carte !{Player can respond (0000):0012-0000-0012-0000}	Celle de gauche.	Celle de droite.
+"018"	{0009-0002-0008-0013-0014-0014-0014}
+"019"	{emote: Worry}Oh{pause 8}.{pause 8}.{pause 8}.{pause 8} Quel suspense ! {pause 16}{emote: Distress}As-tu choisi la	bonne ? {pause 20}La mauvaise ? {pause 30}Vais-je	arrêter de parler et la regarder ?	{emote: Surprise}Bingo !{pause 16} Tu as pioché l'as de cœur !
+"020"	{emote: Worry}Oh{pause 8}.{pause 8}.{pause 8}.{pause 8} Quel suspense ! {pause 16}{emote: Distress}As-tu choisi la	bonne ? {pause 20}La mauvaise ? {pause 30}Vais-je	arrêter de parler et la regarder ?	{emote: Surprise}Tu as pioché le joker ! {pause 12}YES !	{pause 30}Euh... {pause 20}désolée.
+"021"	{0009-0001-0006-0017-0018-0019}
+"022"	{0009-0001-0006-001a-001b-001c}
+"023"	{emote: Worry}{pause 12}Cette fois, {pause 12}c'est toi qui perds. {pause 25}{emote: Mischief}	Mais que cela ne t'empêche pas	de retenter ta chance{pause 8}.{pause 8}.{pause 8}.
+"024"	{emote: Shyness}C'est pas de chance. {pause 30}Mais nous	pouvons toujours faire une autre	partie si tu veux...
+"025"	{emote: Worry}Allons... {pause 20}N'abandonne pas si vite.	{pause 30}{emote: Glare}Je veux bien te donner ta revanche	si tu veux.
+"026"	{emote: Happiness}Tu t'en sors bien.{Wait for input}{emote: Surprise}Tu sais ce que l'on dit : « Heureu{x/se}	aux jeux de cartes douteux,{pause 8}	heureu{x/se} en amour. »	{emote: Resigned}Ou quelque chose comme ça{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"027"	{emote: Happiness}Très bien joué !{pause 30} Tu es très fort{/e} à	ce jeu de hasard !
+"028"	{emote: Glare}J'ose espérer que tu n'avais pas	d'as dans ta manche{pause 8}.{pause 8}.{pause 8}.{pause 8}
 == 3 ==
-"001"	{emote: Curious}
-"002"	{emote: Soft Smile}
-"003"	{emote: Surprise}
-"004"	{emote: Surprise}
-"005"	{emote: Shocked}
-"006"	{emote: Resigned}
-"007"	{emote: Delight}
-"008"	{emote: Agreement}
-"009"	{emote: Surprise}
-"010"	{0009-0002-0008-0b-00-0b-00-0b-00-0c-00}
-"011"	Benissimo.{pause 16}
-"012"	Dunque.{pause 16}
-"013"	Hai vinto tu la prima mano.{pause 16}
-"014"	{0009-0002-0008-0f-00-0f-00-10-00-10-00}
-"015"	{emote: Curious}
-"016"	{emote: Curious}
-"017"	Sei arrivat{000e-0006-0008-02-00-6f-00-02-00-61-00} a due.{pause 8}
-"018"	{0009-0002-0008-13-00-14-00-14-00-14-00}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
-"021"	{0009-0001-0006-17-00-18-00-19-00}
-"022"	{0009-0001-0006-1a-00-1b-00-1c-00}
-"023"	{emote: Worry}
-"024"	{emote: Shyness}
-"025"	{emote: Worry}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	{emote: Glare}
+"001"	{emote: Curious}Ti va di provare qualche brivido?{pause 16}{emote: Mischief}	E allora giochiamoci	{000e-0012-0020-0010-000c-0069-006c-0020-0074-0075-006f-000c-006c-0061-0020-0074-0075-0061-0000} {0011-0003-0002-0000}!	{0007-000d-0000}{emote: Thought}Se vinci tu,{pause 8} l{000e-0012-000c-0010-0002-006f-0002-0061-0000} compro a un prezzo	maggiorato. {pause 16}Ma se vinco io, {emote: Glare}{pause 8}ottengo	un grosso sconto. {pause 16}Che ne dici?{Player can respond (0005):0007-0015-0002-0028}	Sì, giochiamo!	Non adesso.
+"002"	{emote: Soft Smile}Ah, ci tieni troppo,{pause 8} eh?{pause 16} {emote: Happiness}Sai, capisco.	{pause 16}Ho anch'io oggetti che non venderei	{pause 15}per niente al mondo.
+"003"	{emote: Surprise}Oh, no! {pause 16}Mi dispiace, {pause 8}{emote: Sheepishness}ma questo	vuol dire che compro il tuo tesoro	per {Blue}{Number (0x9)} stelline{Color Reset}!
+"004"	{emote: Surprise}Ops, {pause 8}mi dispiace per te!	{pause 16}{emote: Pride}Questo vuol dire che mi accaparro	il tuo gioiellino per {Blue}{Blue}{Number (0x9)}{Blue} stelline{Color Reset}!
+"005"	{emote: Shocked}Oooh, {pause 8}per un pelo.{pause 16} Stavi per	ottenere tre assi in fila.{pause 16}{Wait for input}{emote: Sigh}Sei stat{o/a} brav{o/a}.{pause 16}	{emote: Alarmed}Purtroppo devo sborsare	ben {Blue}{Number (0x9)} stelline{Color Reset}!
+"006"	{emote: Resigned}Oh, no! {pause 16}Tre assi in fila?	{pause 16}Questa proprio non ci voleva!{Wait for input}{emote: Worry}Non me l'aspettavo.	{pause 16}{emote: Sadness}Adesso devo sborsare nientemeno	che {Blue}{Number (0x9)} stelline{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"007"	{emote: Delight}Evviva!{pause 16} Sapevo che avresti detto	di sì.{pause 16} {emote: Curious}Oh,{pause 8} vuoi che ti spieghi	le regole del gioco?{Player can respond (0005):0008-0015-0009-0028}	Sì, grazie.	No, le conosco già.
+"008"	{emote: Agreement}Benissimo. {pause 16}Dunque, {pause 8}io	ho qua due carte: {pause 8}un asso	di cuori e un jolly.{pause 16}	{emote: Happiness}Adesso le mischio...{pause 8} e poi potrai	sceglierne una.{Wait for input}{emote: Surprise}Se trovi l'asso, {pause 8}il prezzo {000e-0012-0028-0010-000e-0064-0065-006c-0020-0074-0075-006f-0012-0064-0065-006c-006c-0061-0020-0074-0075-0061-0000}	{0011-0003-0002-0000} salirà.{Wait for input}{emote: Glare}Ma se trovi il jolly,{pause 8} posso comprarl{000e-0012-000c-0010-0002-006f-0002-0061-0000}	al suo prezzo normale, {pause 16}vale a dire	{Blue}{Number (0x9)} stelline{Color Reset}.	Giocheremo in tutto tre mani.{pause 16}{emote: Curious}	Sei pront{o/a}? {Wait for input}Benissimo!{pause 8}	Scegli una carta... {pause 8}una qualsiasi.{Player can respond (0000):000a-0000-000b-0000}	Quella a sinistra.	Quella a destra.
+"009"	{emote: Surprise}Ah, {pause 8}quindi non è la prima volta	che giochi. {pause 16}{emote: Pride}Ottimo!{pause 16} Così la sfida	sarà ancora più avvincente.	Cominciamo subito.{pause 16} {emote: Curious}Quale carta	scegli? {pause 16}Ricorda, se sbagli comprerò	il tuo oggetto per {Blue}{Number (0x9)} stelline{Color Reset}.{Player can respond (0000):000a-0000-000a-0000}	Quella a sinistra.	Quella a destra.
+"010"	{0009-0002-0008-000b-000b-000b-000c}
+"011"	Benissimo.{pause 16}{emote: Sheepishness} Vediamo adesso quale	carta hai scelto{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Alarmed}È l'asso di cuori! {pause 16}Ben fatto.
+"012"	Dunque.{pause 16}{emote: Sheepishness} Vediamo subito di quale	carta si tratta{pause 8}.{pause 8}.{pause 8}.{pause 8}	{0007-000b-0000}Bzzzzz!{pause 16} {emote: Resigned}Mi spiace,{pause 8} è il jolly.
+"013"	Hai vinto tu la prima mano.{pause 16} {emote: Sigh}Il prezzo	è salito a {Blue}{Number (0x9)} stelline{Color Reset}.{pause 16} Andiamo	avanti che non sto più nella pelle...	{emote: Curious}Quale carta vuoi?{Player can respond (0000):000e-0000-000e-0000}	Quella a sinistra.	Quella a destra.
+"014"	{0009-0002-0008-000f-000f-0010-0010}
+"015"	{emote: Curious}Sei sicur{o/a} di volere questa carta?{pause 16}	{emote: Glare}Non mi dà una vibrazione positiva{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Disbelief}{capitalized}{catchphrase}!{pause 16} È di nuovo l'asso	di cuori!
+"016"	{emote: Curious}Sei sicur{o/a} di volere questa carta?{pause 16}	{emote: Glare}Non mi dà una vibrazione positiva{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Glare}Fiuuu.{pause 16} È il jolly!
+"017"	Sei arrivat{o/a} a due.{pause 8}{emote: Surprise} Riuscirai	ad arrivare a tre?{pause 16} {emote: Sheepishness}Scopriamolo	subito!	{emote: Thought}Se sceglierai la carta sbagliata,{pause 8}	il prezzo sarà di {Blue}{Number (0x9)} stelline{Color Reset}.{pause 15}	{emote: Curious}{pause 8}Quale carta vuoi?{Player can respond (0000):0012-0000-0012-0000}	Quella a sinistra.	Quella a destra.
+"018"	{0009-0002-0008-0013-0014-0014-0014}
+"019"	{emote: Worry}Oh, {pause 8}che suspense! {pause 16}{emote: Distress}Avrai scelto{pause 8}	la carta giusta per te? {pause 16}Se continuo	a cianciare, non lo sapremo mai...	{emote: Surprise}Sensazionale!{pause 16} Hai scelto di nuovo	l'asso di cuori.
+"020"	{emote: Worry}Oh, {pause 8}che suspense! {pause 16}{emote: Distress}Avrai scelto{pause 8}	la carta giusta per te? {pause 16}Se continuo	a cianciare, non lo sapremo mai...	{emote: Surprise}Ecco qua! {pause 16}Mi dispiace,	{pause 8}ma hai trovato il jolly.
+"021"	{0009-0001-0006-0017-0018-0019}
+"022"	{0009-0001-0006-001a-001b-001c}
+"023"	{emote: Worry}Beh,{pause 8} questa volta hai perso!	{pause 16}{emote: Mischief}Dovremo giocare di nuovo{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"024"	{emote: Shyness}Sei stat{o/a} sfortunat{o/a}, {pause 8}purtroppo.	{pause 16}Ma presto giocheremo di nuovo,{pause 8}	vero?
+"025"	{emote: Worry}Dai, {pause 8}non abbatterti.{pause 15}	{emote: Glare}Io sono sempre disponibile	per una rivincita.{pause 15} Quando vuoi!
+"026"	{emote: Happiness}Complimenti.	{pause 15}Sei stat{o/a} proprio brav{o/a}!{Wait for input}{emote: Surprise}E sai come si dice{pause 8}.{pause 8}.{pause 8}.{pause 8} "fortunat{o/a}	in giochi strampalati con i vicini,{pause 8}	fortunat{o/a} in amore". {pause 16}{emote: Resigned}Non era così?
+"027"	{emote: Happiness}Complimenti!	{pause 16}Spero che tu abbia altrettanta	fortuna{pause 15} nella vita di tutti i giorni!
+"028"	{emote: Glare}Lasciatelo dire{pause 8}.{pause 8}.{pause 8}.{pause 8}	Sei veramente un asso!
 == 4 ==
-"001"	{emote: Curious}
-"002"	{emote: Soft Smile}
-"003"	{emote: Surprise}
-"004"	{emote: Pride}
-"005"	{emote: Shocked}
-"006"	{emote: Resigned}
-"007"	{emote: Delight}
-"008"	{emote: Agreement}
-"009"	{emote: Surprise}
-"010"	{0009-0002-0008-0b-00-0b-00-0b-00-0c-00}
-"011"	Fangen wir an{pause 8}
-"012"	Mal sehen{pause 8}
-"013"	Die erste Runde geht an dich.{pause 20}
-"014"	{0009-0002-0008-0f-00-0f-00-10-00-10-00}
-"015"	{emote: Curious}
-"016"	{emote: Curious}
-"017"	Zweimal hast du schon das Ass	erwischt, {pause 8}
-"018"	{0009-0002-0008-13-00-14-00-14-00-14-00}
-"019"	{emote: Worry}
-"020"	{emote: Worry}
-"021"	{0009-0001-0006-17-00-18-00-19-00}
-"022"	{0009-0001-0006-1a-00-1b-00-1c-00}
-"023"	{emote: Worry}
-"024"	{emote: Soft Smile}
-"025"	{emote: Sheepishness}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	{emote: Glare}
+"001"	{emote: Curious}Hättest du nicht Lust auf etwas	Nervenkitzel?{pause 20}{emote: Mischief} Ein Spiel um {deinen/deine/dein}	{0011-0003-0002-0000}!	{0007-000d-0000}{emote: Thought}Gewinnst du,{pause 8} kaufe ich {ihn/sie/es} dir	teuer ab.{pause 20}{emote: Glare} Gewinne allerdings ich,	bekomme ich {ihn/sie/es} richtig günstig.	Na?{pause 20} Was sagst du dazu?{Player can respond (0005):0007-0015-0002-0028}	Also gut!	Jetzt nicht.
+"002"	{emote: Soft Smile}Oh!{pause 20} Liegt das am ideellen Wert?{pause 20}	{emote: Resigned}Na gut,{pause 8} ich verstehe schon.{pause 40}	Schade!
+"003"	{emote: Surprise}Oh!{pause 40} Tut mir leid.{pause 20} {emote: Sheepishness}Jetzt gehört es	mir für nur {Blue}{Number (0x9)} {Sternis/Sterni/Sternis}{Color Reset}.
+"004"	{emote: Pride}Jetzt bekomme ich das Prachtstück	für nur {Blue}{Blue}{Number (0x9)}{Blue} {Sternis/Sterni/Sternis}{Color Reset}.
+"005"	{emote: Shocked}Oh,{pause 8} fast!{pause 40} Beinahe hättest du drei	Asse hintereinander erwischt!{Wait for input}{emote: Sigh}Nicht schlecht.{pause 20} {emote: Alarmed}Oje!{pause 40} Nun muss	ich dir {Blue}{Number (0x9)} {Sternis/Sterni/Sternis} {Color Reset}zahlen!
+"006"	{emote: Resigned}Oje!{pause 40} Drei Asse hintereinander?!{pause 20}{emote: Worry}	Du machst mich noch arm!{Wait for input}{emote: Sadness}Puh!{pause 40} Nun schulde ich dir satte	{Blue}{Number (0x9)} {Sternis/Sterni/Sternis}{Color Reset}{pause 8}.{pause 8}.{pause 8}.
+"007"	{emote: Delight}Ausgezeichnet!{pause 40} Ich wusste doch,	dass du mich nicht im Stich lässt.{pause 20}	{emote: Curious}Soll ich die Regeln erklären?{Player can respond (0005):0008-0015-0009-0028}	Ja, bitte!	Die kenne ich schon.
+"008"	{emote: Agreement}Die Regeln sind ganz einfach.{pause 20}	Ich habe zwei Karten:{pause 20} ein Herzass	und einen Joker.	{emote: Happiness}Ich mische die Karten und dann	suchst du dir eine davon aus.{Wait for input}{emote: Surprise}Wenn du das Ass erwischst, wird	{der/die/das} {0011-0003-0002-0000} teurer.{Wait for input}{emote: Glare}Wählst du den Joker, bleibt	der Preis gleich, {pause 8}und zwar	bei {Blue}{Number (0x9)} {Sternis/Sterni/Sternis}{Color Reset}.	{emote: Curious}Bist du bereit?{pause 40}{emote: Reset} Dann such dir	eine Karte aus!{Player can respond (0000):000a-0000-000b-0000}	Die linke, bitte.	Die rechte, bitte.
+"009"	{emote: Surprise}Aha!{pause 40} Du weißt also Bescheid.{pause 20}	{emote: Pride}Sehr gut!{pause 20} Ich spiele gerne gegen	erfahrene Gegner.	Wählst du falsch, kaufe ich das	Prachtstück für {Blue}{Number (0x9)} {Sternis/Sterni/Sternis}{Color Reset}.{pause 40}	Also,{pause 8} {emote: Curious}welche Karte möchtest du?{pause 20} {Player can respond (0000):000a-0000-000a-0000}	Die linke.	Die rechte.
+"010"	{0009-0002-0008-000b-000b-000b-000c}
+"011"	Fangen wir an{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Sheepishness} Deine Karte ist{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Alarmed}	Oh!{pause 40} Das Herzass!{pause 20} Glück gehabt!
+"012"	Mal sehen{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Sheepishness}War das eine gute Entscheidung?{pause 20}	Es ist{pause 8}.{pause 8}.{pause 8}.{pause 20} {0007-000b-0000}Oje!{pause 40} {emote: Resigned}Leider nur der Joker!
+"013"	Die erste Runde geht an dich.{pause 20}	{emote: Sigh}Damit erhöht sich der Preis auf	{Blue}{Number (0x9)} {Sternis/Sterni/Sternis}{Color Reset}.	Beginnen wir die nächste Runde,	bevor ich noch in Panik verfalle.{pause 20}	{emote: Curious}Welche Karte darf es sein?{Player can respond (0000):000e-0000-000e-0000}	Die linke, bitte.	Die rechte, bitte.
+"014"	{0009-0002-0008-000f-000f-0010-0010}
+"015"	{emote: Curious}Diese Karte?{pause 20} Ganz sicher?{pause 20}	{emote: Glare}Oh, ich habe kein gutes Gefühl{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Disbelief}NEIN!{pause 40} Schon wieder das Herzass!
+"016"	{emote: Curious}Diese Karte?{pause 20} Ganz sicher?{pause 20}	{emote: Glare}Oh,{pause 8} ob das eine gute Wahl war?{Wait for input}Puh!{pause 40} Es ist der Joker!
+"017"	Zweimal hast du schon das Ass	erwischt, {pause 8}aber schaffst du das	auch ein drittes Mal?	{emote: Sheepishness}Gleich werden wir es wissen.{pause 20}	{emote: Thought}Erwischst du den Joker, schulde	ich dir nur {Blue}{Number (0x9)} {Sternis/Sterni/Sternis}{Color Reset}.	{emote: Curious}Welche Karte möchtest du?{Player can respond (0000):0012-0000-0012-0000}	Die linke!	Die rechte!
+"018"	{0009-0002-0008-0013-0014-0014-0014}
+"019"	{emote: Worry}Oh, {pause 8}ich kann gar nicht hinsehen{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Distress}Meine Nerven{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{emote: Surprise}Oje!{pause 40} Schon wieder das Herzass!
+"020"	{emote: Worry}Oh, {pause 8}diese Spannung!{pause 20} Hast du	gewonnen oder verloren?{pause 20}	{emote: Distress}Ich bin ganz aufgeregt!	{emote: Surprise}Aha!{pause 40} Tut mir leid,{pause 8} aber diesmal	war's nur der Joker!
+"021"	{0009-0001-0006-0017-0018-0019}
+"022"	{0009-0001-0006-001a-001b-001c}
+"023"	{emote: Worry}Man kann eben nicht immer Glück	haben{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Mischief} Aber wir spielen sicher	bald mal wieder!
+"024"	{emote: Soft Smile}Trage es mit Fassung.{pause 20}	Das spielen wir mal wieder,{pause 8} ja?
+"025"	{emote: Sheepishness}Du willst sicher Revanche.{pause 20}	{emote: Glare}Lass es mich einfach wissen{pause 8}.{pause 8}.{pause 8}.
+"026"	{emote: Happiness}Glück muss man haben.{pause 20}	Schön, dass der kleine Nervenkitzel	sich für dich auch noch gelohnt hat!
+"027"	{emote: Happiness}Das war doch wahrlich ein	aufregendes Spiel.{pause 20}	Findest du nicht auch?	Ich hoffe, das Herzass bringt dir	auch sonst viel Glück!
+"028"	{emote: Glare}Ich hoffe sehr, dass keines dieser	Herzasse in Wirklichkeit aus deinem	Ärmel kam.{pause 20}{emote: Laughter} Hahaha!

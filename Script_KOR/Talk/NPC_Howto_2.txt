@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	편지는 방금 {Blue}우편함{Color Reset}에 넣어 놨으니까{pause 10}
-"003"	우편함이 가득 차면	더 이상 편지를 배달할 수 없으니까{pause 10}
-"004"	우편함이 가득 차면	더 이상 배달을 할 수 없으니까{pause 10}
-"005"	편지를 부치고 싶을 땐{pause 10}
-"006"	편지를 쓸 {Blue}편지지{Color Reset}는	상점가에 있는 {Blue}가게{Color Reset}에서 살 수 있어!{0000-0004-0000}
-"007"	{emote: Reset}
-"008"	{pause 5}
+"001"	{emote: Alarmed}엇, {pause 20}{emote: Happiness}안녕!{pause 30}	편지 배달 왔어～!
+"002"	편지는 방금 {Blue}우편함{Color Reset}에 넣어 놨으니까{pause 10}	{emote: Happiness}나중에 꼭 확인해봐!
+"003"	우편함이 가득 차면	더 이상 편지를 배달할 수 없으니까{pause 10}	{emote: Happiness}제때 꺼내서 비워 놓도록 해!	{emote: Reset}편지가 배달되면{pause 20}	지금처럼 알림 표시가 반짝거리니까{pause 10}	쉽게 알 수 있을 거야!	그럼 {pause 10}난 이만 갈게!{Wait for input}	{emote: Greetings}바이바이～!
+"004"	우편함이 가득 차면	더 이상 배달을 할 수 없으니까{pause 10}	편지는 잊지 말고 제때 꺼내 놔～	{emote: Worry}봐봐, {pause 20}지금 같은 상태는{pause 5}	우편함이 가득 찼다는 {pause 5}소리니까{pause 10}	되도록 빨리 비우도록 해!{Wait for input}그럼 {pause 10}난 이만!{Wait for input}	{emote: Greetings}바이바이～!
+"005"	편지를 부치고 싶을 땐{pause 10}	상점가에 있는 {Blue}우체국{Color Reset}으로 가!{Wait for input}난 배달 담당이라{pause 10} 편지를 나한테 	직접 줘도 맡아줄 수가 없다구～
+"006"	편지를 쓸 {Blue}편지지{Color Reset}는	상점가에 있는 {Blue}가게{Color Reset}에서 살 수 있어!{Wait for input}다들 편지를 많이 써주지 않으면	우리 장사도 힘들어지니까{pause 8}・{pause 8}・{pause 8}・{pause 15}	{emote: Happiness}적극적으로 써줬음 좋겠다!
+"007"	{emote: Reset}편지는 단순히 메시지를	보내는 것뿐 아니라 {pause 10}	함께 선물도 보낼 수 있어{Wait for input}{emote: Happiness}배송료는 따로 없으니까{pause 10}	맘 편하게 이용해줘!
+"008"	{pause 5}{emote: Alarmed}{pause 10}앗!{pause 20} {emote: Happiness}촌장님, {pause 5}안녕!	{pause 30}편지 배달 왔어～!

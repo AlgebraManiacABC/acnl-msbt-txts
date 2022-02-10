@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Happiness}
-"003"	{emote: Thought}
-"004"	{emote: Sleepy}
-"005"	{emote: Sleepy}
-"006"	{emote: Surprise}
-"007"	{emote: Happiness}
-"008"	{emote: Surprise}
-"009"	{emote: Soft Smile}
+"001"	{emote: Surprise}{0007-000b-0000}わぁ～！{pause 20}	{Player name}{0005-000d-0000}が　いる～！{Wait for input}{emote: Happiness}おどろいて{pause 8}　ねむけが	とんでっちゃったよぉ、{pause 8}{catchphrase}
+"002"	{emote: Happiness}こんにちわぁ～{pause 8}	{Player name}{0005-000d-0000}{pause 20}	また{ruby (charSpan 1): あ}会えて　うれしいなぁ、{pause 8}{catchphrase}{Wait for input}{emote: Love}まるで　{0005-0013-0002-0000}を{pause 20}	はじめて　{ruby (charSpan 1): た}食べたときの　{ruby (charSpan 2): きぶん}気分だよぉ
+"003"	{emote: Thought}この　ニオイは{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Inspired}{pause 20}{0007-000a-0000}{Player name}{0005-000d-0000}？{Wait for input}{emote: Joy}わぁ～い！{pause 20}	{ruby (charSpan 1): あ}当たったぁ、{pause 8}{catchphrase}
+"004"	{emote: Sleepy}あれぇ～{pause 40}　{ruby (charSpan 1): よる}夜なのに、{pause 20}	{Player name}{0005-000d-0000}がいるよぉ？{Wait for input}{emote: Happiness}ボク　ユメ{ruby (charSpan 1): み}見てるんじゃ	ないよねぇ？　{pause 8}{catchphrase}？
+"005"	{emote: Sleepy}ふぁぁ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Player name}{0005-000d-0000}？{Wait for input}{emote: Glee}わぁ～い！{pause 20}	あそびに{ruby (charSpan 1): き}来てくれて	うれしいよぉ、{pause 8}{catchphrase}
+"006"	{emote: Surprise}{0007-000a-0000}あ、{pause 20}{Player name}{0005-000d-0000}だぁ～{pause 40}	あそびに　{ruby (charSpan 1): き}来てくれたんだねぇ、{pause 8}{catchphrase}
+"007"	{emote: Happiness}{Greeting begin}やぁ～　{Player name}{0005-000d-0000}{Greeting end}{pause 20}	ようこそ　ボクらの{ruby (charSpan 1): むら}村へ～{pause 40}	{ruby (charSpan 1): たの}楽しんでってねぇ、{pause 8}{catchphrase}
+"008"	{emote: Surprise}{0007-000a-0000}わぁ～！{pause 20}	{Player nickname (green)}{0005-000d-0000}だぁ、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}ちょうど　きのうの{ruby (charSpan 1): よる}夜、{pause 20}	{Player name}{0005-000d-0000}が	あそびに{ruby (charSpan 1): く}来る　ユメを{ruby (charSpan 1): み}見たんだよぉ
+"009"	{emote: Soft Smile}あぁ～{pause 20}　{Player name}{0005-000d-0000}だぁ{pause 40}	こんな　{ruby (charSpan 1): とお}遠くまで	おさんぽ～？　{pause 8}{catchphrase}？

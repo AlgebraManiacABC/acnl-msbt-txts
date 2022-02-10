@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Anger}
-"002"	{emote: Distress}
-"003"	{emote: Distress}
-"004"	うーん{pause 8}
-"005"	{emote: Disagreement}
-"006"	{emote: Alarmed}
-"007"	{emote: Alarmed}
-"008"	{emote: Glee}
-"009"	{emote: Curious}
-"010"	{emote: Alarmed}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{emote: Alarmed}
-"014"	{emote: Happiness}
-"015"	{emote: Alarmed}
-"016"	{emote: Alarmed}
-"017"	{emote: Alarmed}
-"018"	{emote: Happiness}
-"019"	{emote: Reset}
-"020"	{emote: Reset}
-"021"	{emote: Reset}
-"022"	{emote: Happiness}
-"023"	{emote: Bashful}
-"024"	{emote: Happiness}
+"001"	{emote: Anger}なんだよー！{pause 20}	{ruby (charSpan 1): み}見せてくんなきゃ	わかんないぞー？　{pause 8}{catchphrase}
+"002"	{emote: Distress}もったいぶらずに、	{ruby (charSpan 1): み}見せてくれよー！
+"003"	{emote: Distress}うわー！{pause 20}	{ruby (charSpan 1): だ}出しおしみされると、	スゲェー　{ruby (charSpan 1): き}気になるぞー！
+"004"	うーん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Disagreement}オイラのじゃ　ないみたいだー{Wait for input}{ruby (charSpan 2): ざんねん}残念だったな、{Player nickname (green)}！{pause 20}	{emote: Happiness}はりきって　{ruby (charSpan 1): も}持ち{ruby (charSpan 1): ぬし}主さがせよー！
+"005"	{emote: Disagreement}コレ{pause 20}　オイラんじゃないや{Wait for input}	{emote: Reset}{ruby (charSpan 1): ほか}他のヤツに　きいてくれー！
+"006"	{emote: Alarmed}{0007-000b-0000}おー！{pause 40}	こんなの　{ruby (charSpan 1): み}見たことない{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Disagreement}ごめんな{pause 20}　オイラのじゃなさそうだ！{Wait for input}{emote: Greetings}がんばれ　{Player nickname (green)}！{pause 20}	{ruby (charSpan 2): むらじゅう}村中を{ruby (charSpan 1): はし}走り{ruby (charSpan 1): まわ}回って、	{ruby (charSpan 1): も}持ち{ruby (charSpan 1): ぬし}主をさがすんだ！
+"007"	{emote: Alarmed}{0007-000b-0000}あー！{pause 20}	コレ　オイラの{ruby (charSpan 1): ほん}本だ！{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}なんか　うたがってないか？{Wait for input}	{emote: Sheepishness}オイラだって	{ruby (charSpan 1): ほん}本くらい　{ruby (charSpan 1): よ}読むんだぞー
+"008"	{emote: Glee}おー！{pause 20}	コレ　オイラの{ruby (charSpan 1): ほん}本だ！{Wait for input}{ruby (charSpan 1): なか}中に　ヒミツの	トレーニング{ruby (charSpan 1): ほう}法がのってるんだ！
+"009"	{emote: Curious}あれ？{pause 20}	この{ruby (charSpan 1): ほん}本、オイラのかも{Wait for input}{emote: Happiness}かなり{ruby (charSpan 1): まえ}前に　{ruby (charSpan 1): な}無くして、	もうあきらめてたんだよー{pause 20}	{ruby (charSpan 1): み}見つかって　{ruby (charSpan 1): よ}良かったぞー
+"010"	{emote: Alarmed}{0007-000b-0000}おーー！{pause 20}	コレ　オイラのだぞ！{Wait for input}{emote: Thought}そういえば　{ruby (charSpan 2): さいきん}最近{pause 20}	{ruby (charSpan 2): へや}部屋で　{ruby (charSpan 1): み}見かけないなー	って{ruby (charSpan 1): おも}思ってたら、{Wait for input}{emote: Laughter}ハハッ！{pause 20}	やっぱり{ruby (charSpan 1): お}落としてたのか、{pause 8}{catchphrase}{pause 40}{emote: Happiness}
+"011"	{emote: Alarmed}{0007-000b-0000}おー！{pause 20}　コレは！{pause 40}	オイラのぬれた{ruby (charSpan 2): みずぎ}水着が	{ruby (charSpan 1): はい}入ってる{pause 20}　{ruby (charSpan 2): みずぎ}水着{ruby (charSpan 1): い}入れ！{Wait for input}{emote: Happiness}{ruby (charSpan 1): およ}泳ぎにいった{ruby (charSpan 1): かえ}帰りに	{ruby (charSpan 1): お}落としたんだなー、{pause 8}{catchphrase}
+"012"	{emote: Alarmed}{0007-000b-0000}おー！{pause 20}	このポーチ　オイラのだー！{Wait for input}{emote: Thought}でも、いつ{ruby (charSpan 1): お}落としたんだろー？{pause 20}	{ruby (charSpan 2): きのう}昨日か{pause 20}　{ruby (charSpan 4): いっしゅうかんまえ}一週間前か{pause 20}　{ruby (charSpan 3): いちねんまえ}一年前か{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Laughter}ハハッ！{pause 20}	まったく　{ruby (charSpan 1): おぼ}覚えてないや{pause 40}{emote: Happiness}
+"013"	{emote: Alarmed}{0007-000b-0000}あー！{pause 20}	オイラの{ruby (charSpan 1): て}手ぶくろじゃん！{Wait for input}{emote: Glee}コレで　また、{pause 20}	ゴールキーパーとして	かつやくできるよ！
+"014"	{emote: Happiness}おー！{pause 20}	コレ　さがしてたんだよー！{Wait for input}{emote: Worry}うーん、でも{pause 20}	もうかたほうの　{ruby (charSpan 1): て}手ぶくろは	どこに　しまったかなー{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Reset}あとで　さがしてみよーっと
+"015"	{emote: Alarmed}{0007-000b-0000}おー！{pause 20}	この{ruby (charSpan 1): て}手ぶくろ　オイラのだー！{Wait for input}{emote: Agreement}{ruby (charSpan 1): て}手アセで　ちょっと	しめってるから、	まちがいないぞ！
+"016"	{emote: Alarmed}{0007-000b-0000}おー！{pause 20}	オイラのふくろだー！{Wait for input}{emote: Sunny}{ruby (charSpan 2): なかみ}中身は　お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りの	アンダーシャツ！{Wait for input}{emote: Agreement}オイラの{ruby (charSpan 1): からだ}体に	ピターっと{ruby (charSpan 1): あ}合うのは、	コレしかないんだよな
+"017"	{emote: Alarmed}{0007-000b-0000}あー！{pause 20}	コレ　オイラのだー！{Wait for input}{emote: Happiness}もう　{ruby (charSpan 1): み}見つからないと{ruby (charSpan 1): おも}思ってたんだ！{pause 20}	うれしいよー！
+"018"	{emote: Happiness}おー！{pause 20}	たしかに　オイラのだ！{Wait for input}{emote: Reset}それにしても	このふくろ、{pause 20}{emote: Curious}{ruby (charSpan 1): おも}重くなかったかー？{Wait for input}{emote: Reset}トレーニング{ruby (charSpan 1): よう}用に	すながたくさん　{ruby (charSpan 1): はい}入ってたんだぞ？
+"019"	{emote: Reset}{ruby (charSpan 1): ひろ}拾ってくれて	マジサンキュー、{Player nickname (green)}！{pause 40}	お{ruby (charSpan 1): れい}礼をしなくちゃな{Wait for input}{emote: Happiness}へへっ！{pause 20}	{0011-0003-0002-0000}だー
+"020"	{emote: Reset}{ruby (charSpan 1): ひろ}拾ってくれて	ありがとな、{pause 8}{catchphrase}{Wait for input}お{ruby (charSpan 1): れい}礼に　この	{0011-0003-0002-0000}、{pause 20}	オマエにやるよー！
+"021"	{emote: Reset}マジで　{ruby (charSpan 1): たす}助かったよ！{Wait for input}{emote: Soft Smile}たまたま　{ruby (charSpan 1): も}持ってたもんだけど、{pause 20}	お{ruby (charSpan 1): れい}礼に　コレ　{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取ってくれ{Wait for input}	{0011-0003-0002-0000}だ
+"022"	{emote: Happiness}へへっ！{pause 20}	{ruby (charSpan 1): お}落とし{ruby (charSpan 1): もの}物をしなくなる　トレーニング、	{ruby (charSpan 1): かんが}考えとくよ、{pause 8}{catchphrase}
+"023"	{emote: Bashful}オイラの　そそっかしいところ{pause 20}	{ruby (charSpan 1): し}知られちゃったな、{pause 8}{catchphrase}
+"024"	{emote: Happiness}また　{ruby (charSpan 1): お}落としてたら、	たのむよ　{Player nickname (green)}！

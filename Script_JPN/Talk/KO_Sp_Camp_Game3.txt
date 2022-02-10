@@ -1,20 +1,20 @@
 == 0 ==
-"001"	なぁなぁ、{pause 15}
-"002"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"003"	{Number (0x9)}ベルだぁ！{Wait for input}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Surprise}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
-"009"	{emote: Worry}
-"010"	{emote: Worry}
-"011"	{emote: Worry}
-"012"	さーて、{pause 15}
-"013"	さーて、{pause 15}
-"014"	さーて、{pause 15}
-"015"	さーて、{pause 15}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
+"001"	なぁなぁ、{pause 15}	オメェが{ruby (charSpan 1): も}持ってる{pause 8}	その　{0011-0003-0002-0000}をかけて	{emote: Happiness}「{ruby (charSpan 2): かって}勝手に{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取りゲーム」でも{pause 8}	やってかねぇかい？{Wait for input}{emote: Reset}ここに{pause 8}　、{pause 15}、{pause 15}、{pause 15}、{pause 15}	4{ruby (charSpan 1): まい}枚のカードがあって{pause 8}	{emote: Agreement}それぞれに　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取り{ruby (charSpan 2): かかく}価格が{ruby (charSpan 1): か}書いてある	{emote: Reset}オメェが{ruby (charSpan 1): えら}選んだカードに　{ruby (charSpan 1): か}書かれた{ruby (charSpan 2): ねだん}値段で{pause 15}	{emote: Happiness}オレが　{0011-0003-0002-0000}を{pause 8}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうって{ruby (charSpan 2): すんぽう}寸法だ	{0007-000d-0000}{emote: Reset}ゲームの{ruby (charSpan 2): けっか}結果によっちゃ{pause 8}	{ruby (charSpan 1): たか}高く{pause 8}{ruby (charSpan 1): たか}高く{pause 8}　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らせてもらうぜ？{Player can respond (0005):0007-0015-0002-0028}	やるよ！	また{ruby (charSpan 2): こんど}今度ね
+"002"	{0009-0002-0008-0008-0009-000a-000b}
+"003"	{Number (0x9)}ベルだぁ！{Wait for input}	{emote: Sadness}くぅぅっ、{pause 15}	いい{ruby (charSpan 2): ねだん}値段が　{ruby (charSpan 1): で}出ちまった！	{emote: Worry}こいつはイタイ{ruby (charSpan 2): しゅっぴ}出費だが{pause 15}	ルールだから　{ruby (charSpan 2): しかた}仕方ねぇなぁ{pause 8}・{pause 8}・{pause 8}・	{emote: Reset}ほらよ、{pause 8}{Blue}{Number (0x9)}ベル{Color Reset}な
+"004"	{emote: Surprise}{Number (0x9)}ベルだ！{Wait for input}	{emote: Worry}うーん、{pause 15}	うまいこと　{ruby (charSpan 1): えら}選びやがったなぁ{pause 8}・{pause 8}・{pause 8}・	{emote: Happiness}ほらよ、{pause 15}{Blue}{Number (0x9)}ベル{Color Reset}な
+"005"	{emote: Surprise}{Number (0x9)}ベルだ！{Wait for input}	{emote: Happiness}へへっ！{pause 15}	まずまずの　{ruby (charSpan 2): ねだん}値段が{ruby (charSpan 1): で}出たぜぇ	{ruby (charSpan 1): わる}悪く{ruby (charSpan 1): おも}思うなよ、{pause 15}	ほら、{pause 8}{Blue}{Number (0x9)}ベル{Color Reset}な
+"006"	{emote: Surprise}{Number (0x9)}ベル！！{Wait for input}	{emote: Laughter}{ruby (charSpan 2): おおあ}大当たり{pause 8}　{ruby (charSpan 1): で}出たーーーっ！{Wait for input}{emote: Happiness}オメェにとっちゃ　{ruby (charSpan 2): さいなん}災難でしかねぇが{pause 8}	あきらめてくれよな、{pause 15}	ほら{pause 8}　{Blue}{Number (0x9)}ベル{Color Reset}だ
+"007"	{emote: Happiness}よ～し！{pause 15}	そうこなくっちゃな！{Wait for input}{emote: Reset}{ruby (charSpan 1): えら}選んだカードに{pause 8}	どんな{ruby (charSpan 2): ねだん}値段が　{ruby (charSpan 1): か}書いてあっても{pause 15}	うらみっこなしだぜ、{pause 20}{catchphrase}！	さぁ！{pause 15}　どのカードにするんだい？！{0008-0002-0010-000c-0000-000d-0000-000e-0000-000f-0000}	のカード	のカード	のカード	のカード
+"008"	{emote: Worry}なんだ、{pause 15}そいつは{ruby (charSpan 2): ざんねん}残念だなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}ちなみに　のカードには{pause 15}	{Number (0x9)}ベルって{pause 8}	{ruby (charSpan 1): か}書いてあったんだけどな	{emote: Happiness}また　ヒマなときに{pause 8}	{ruby (charSpan 1): あそ}遊んでくれよな！{pause 20}　{catchphrase}！
+"009"	{emote: Worry}なんだ、{pause 15}そいつは{ruby (charSpan 2): ざんねん}残念だなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}ちなみに　のカードには{pause 15}	{Number (0x9)}ベルって{pause 8}	{ruby (charSpan 1): か}書いてあったんだけどな	{emote: Happiness}また　ヒマなときに{pause 8}	{ruby (charSpan 1): あそ}遊んでくれよな！{pause 20}　{catchphrase}！
+"010"	{emote: Worry}なんだ、{pause 15}そいつは{ruby (charSpan 2): ざんねん}残念だなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}ちなみに　のカードには{pause 15}	{Number (0x9)}ベルって{pause 8}	{ruby (charSpan 1): か}書いてあったんだけどな	{emote: Happiness}また　ヒマなときに{pause 8}	{ruby (charSpan 1): あそ}遊んでくれよな！{pause 20}　{catchphrase}！
+"011"	{emote: Worry}なんだ、{pause 15}そいつは{ruby (charSpan 2): ざんねん}残念だなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}ちなみに　のカードには{pause 15}	{Number (0x9)}ベルって{pause 8}	{ruby (charSpan 1): か}書いてあったんだけどな	{emote: Happiness}また　ヒマなときに{pause 8}	{ruby (charSpan 1): あそ}遊んでくれよな！{pause 20}　{catchphrase}！
+"012"	さーて、{pause 15}	のカードに　{ruby (charSpan 1): か}書かれた{ruby (charSpan 2): ねだん}値段は{pause 8}・{pause 8}・{pause 8}・{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"013"	さーて、{pause 15}	のカードに　{ruby (charSpan 1): か}書かれた{ruby (charSpan 2): ねだん}値段は{pause 8}・{pause 8}・{pause 8}・{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"014"	さーて、{pause 15}	のカードに　{ruby (charSpan 1): か}書かれた{ruby (charSpan 2): ねだん}値段は{pause 8}・{pause 8}・{pause 8}・{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"015"	さーて、{pause 15}	のカードに　{ruby (charSpan 1): か}書かれた{ruby (charSpan 2): ねだん}値段は{pause 8}・{pause 8}・{pause 8}・{0009-0005-000e-0003-0003-0004-0004-0005-0005-0006}
+"016"	{emote: Happiness}ラッキーだったな！{pause 20}	また{ruby (charSpan 1): あそ}遊ぼうぜ、{pause 20}{catchphrase}！
+"017"	{emote: Happiness}この{ruby (charSpan 1): つぎ}次は　{ruby (charSpan 1): ま}負けねぇぞ、{pause 20}{catchphrase}！
+"018"	{emote: Happiness}ゲームは　{ruby (charSpan 1): か}勝ったり{ruby (charSpan 1): ま}負けたりだ！{pause 20}	またやろうぜ、{pause 20}{catchphrase}！
+"019"	{emote: Happiness}これにこりずに{pause 8}	また{ruby (charSpan 1): あそ}遊ぼうぜ、{pause 20}{catchphrase}！

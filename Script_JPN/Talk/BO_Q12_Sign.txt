@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Alarmed}
-"003"	{emote: Curious}
-"004"	ん～？{pause 20}
-"005"	え～と、{pause 20}
-"006"	{emote: Thought}
-"007"	{emote: Curious}
-"008"	{emote: Curious}
-"009"	へぇ～{pause 20}
-"010"	これでいいかなぁ？{pause 40}
-"011"	{emote: Bashful}
-"012"	{emote: Glee}
-"013"	これでいいかなぁ？{pause 40}
-"014"	{emote: Bashful}
-"015"	{emote: Glee}
+"001"	{emote: Worry}うぅ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ボクもう　しょめいしたよぉ
+"002"	{emote: Alarmed}{0007-000b-0000}えぇ～？！{pause 20}　ボクもう{ruby (charSpan 1): か}書いたよぉ？{pause 40}	{emote: Distress}しょめいって　{ruby (charSpan 2): にかい}二回もしちゃ	ダメなんじゃないかな～？
+"003"	{emote: Curious}あれぇ？{pause 20}	わすれちゃったのぉ？{pause 20}	{emote: Reset}ボクもう　しょめいしたじゃない
+"004"	ん～？{pause 20}	{emote: Curious}{0012-0001-0000}の	しょめいに　きょうりょくするのぉ？{Wait for input}{emote: Thought}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Worry}ボクは　エンリョしておくよぉ～{pause 20}	ごめんねぇ、{pause 8}{catchphrase}
+"005"	え～と、{pause 20}	{emote: Curious}{0012-0001-0000}の	しょめい？{Wait for input}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Worry}ボク{pause 20}　そういうの　よくわかんないから	やめとくねぇ～{Wait for input}{emote: Happiness}ほかのコに　たのんでみて、{pause 8}{catchphrase}
+"006"	{emote: Thought}{0012-0001-0000}の	しょめいかぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Disagreement}ごめん！{pause 20}	ちょっとパスさせてぇ～{Wait for input}{emote: Happiness}おやつをたくさん{ruby (charSpan 1): た}食べようの{ruby (charSpan 1): かい}会！{pause 40}	とかだったら、{Wait for input}まちがいなく	しょめいしたんだけどなぁ、{pause 8}{catchphrase}
+"007"	{emote: Curious}え？{pause 20}	{0012-0001-0000}の	しょめい？{Wait for input}{emote: Glee}いいよぉ～{pause 20}	キミのために　サインしちゃうねぇ！
+"008"	{emote: Curious}え？{pause 20}	{0012-0001-0000}の	しょめいに　サインしてって？{Wait for input}{emote: Glee}うわぁ～{pause 20}	おもしろそぉ～！{pause 20}	ボク　しょめい　しちゃうよぉ～
+"009"	へぇ～{pause 20}	{0012-0001-0000}の	しょめいを　あつめてるんだぁ～{Wait for input}{emote: Joy}ボクが　お{ruby (charSpan 2): なまえ}名前を　かすだけで、	すごいことが　できるんだねぇ！{pause 40}	ボク　しょめい　しちゃうよぉ！
+"010"	これでいいかなぁ？{pause 40}	{emote: Happiness}えへへ～　{pause 20}	ちがう{ruby (charSpan 1): むら}村から　ごくろうさま～
+"011"	{emote: Bashful}えへへ～{pause 20}	{ruby (charSpan 1): じ}字がへたっぴで	ごめんよぉ、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}ほかの{ruby (charSpan 1): むら}村から　ごくろうさま！{pause 20}	これで　ボクも　だれかに	かんしゃして　もらえるかなぁ～？
+"012"	{emote: Glee}えへへ～{pause 20}	ミミズさんが　はってるような、	いい{ruby (charSpan 1): じ}字が{ruby (charSpan 1): か}書けたよぉ～{Wait for input}{emote: Happiness}ごくろうさま！{pause 20}	{ruby (charSpan 1): はや}早く　あつまるといいねぇ～
+"013"	これでいいかなぁ？{pause 40}	{emote: Alarmed}{0007-000b-0000}あっ！{pause 20}　{ruby (charSpan 1): いま}今ので	ぜんぶ　あつまったみたいだねぇ～{Wait for input}{emote: Happiness}よかったぁ～！{pause 20}	{ruby (charSpan 1): はや}早く　もってってあげてねぇ、{pause 8}{catchphrase}
+"014"	{emote: Bashful}えへへ～{pause 20}	{ruby (charSpan 1): じ}字がへたっぴで	ごめんねぇ、{pause 8}{catchphrase}{Wait for input}って、{pause 20}{emote: Alarmed}{0007-000b-0000}おぉ～っ！{pause 40}	なんかコレ{pause 20}　ぜんぶ	あつまったっぽいよぉ～？{Wait for input}{emote: Happiness}よかったねぇ、{pause 8}{catchphrase}
+"015"	{emote: Glee}えへへ～{pause 20}	ミミズさんが　はってるような、	いい{ruby (charSpan 1): じ}字が{ruby (charSpan 1): か}書けたよぉ～{Wait for input}{emote: Alarmed}あっ！{pause 40}　{emote: Happiness}{ruby (charSpan 1): いま}今ので　ぜんぶ	あつまったみたいだねぇ！{pause 40}	おめでとぉ、{pause 8}{catchphrase}

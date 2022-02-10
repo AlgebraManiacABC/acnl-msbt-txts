@@ -1,100 +1,100 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Sunny}
-"005"	{emote: Soft Smile}
-"006"	{emote: Happiness}
-"007"	{emote: Agreement}
-"008"	{emote: Soft Smile}
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{emote: Soft Smile}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{emote: Soft Smile}
-"017"	{emote: Sheepishness}
-"018"	{emote: Glee}
-"019"	{0009-0003-000a-0b-00-0b-00-0b-00-0c-00-0c-00}
+"001"	{emote: Soft Smile}I know this fun game called	Cost-a-Lot.{pause 20} To play,{pause 8}{pause 20} you draw lots	that set the price of my items.	We look at each item and its price	one at a time.{pause 20} You can either buy	the item or skip to the next.	{emote: Agreement}But once we start the game,{pause 8} you	have to buy something.{pause 20}{0007-000d-0000}{emote: Soft Smile} How does	that sound?{Player can respond (0005):0003-0015-0002-0028}	I'm game!	Not interested.
+"002"	{emote: Worry}Oh,{pause 8} OK.{pause 20} I hope it wasn't rude of me	to ask.{pause 20} {emote: Reset}Anyway,{pause 8} I hope you change	your mind later.
+"003"	{emote: Happiness}Hooray!{pause 20} Then let me explain the	rules better.{Wait for input}{emote: Reset}In this game,{pause 8} you're going to buy	1 of the 5 pieces of furniture I have	with me.	We'll look at the items one at a	time.{Wait for input} First,{pause 8} I'll draw a random slip	of paper that has a price on it.	If you like the item for that price,{pause 8}	you buy it.{pause 20} If not,{pause 8} we move to the	next item.	{emote: Agreement}But if you don't choose anything by	the end,{pause 8} you have to buy item	number 5 no matter what.	{emote: Soft Smile}Ready to get started?{Wait for input} OK.{pause 20} First up	is my {0011-0003-0002-0000}.{pause 20} The	price is{pause 8}.{pause 8}.{pause 8}.{emote: Greetings}{Blue}{Number (0x9)} Bells{Color Reset}!{confirmation-02}{Player can respond (0005):0004-0015-0005-0028}	I'll buy it!	Next!
+"004"	{emote: Sunny}Wow,{pause 8} so this is the thing for you!{pause 20}	I'm glad you found something you	really wanted.{Wait for input}{emote: Joy} OK then,{pause 8} it's yours!
+"005"	{emote: Soft Smile}Can't wait to see what's next,{pause 8} huh?{pause 20}	I don't blame you.{Wait for input} Then let's keep	going with item 2.	It's my {0011-0003-0002-0001},{pause 8} and	the price is{pause 8}.{pause 8}.{pause 8}.{emote: Greetings}{Blue}{Number (0x9)} Bells{Color Reset}!{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	Buy!	Pass!
+"006"	{emote: Happiness}This is it,{pause 8} huh?{pause 20}{emote: Bashful} It is a really nice	piece of furniture,{pause 8} if I do say so	myself.{Wait for input}{emote: Soft Smile} Then it's yours.
+"007"	{emote: Agreement}Just not the thing for you.{pause 20} OK,{pause 8} let's	continue to item 3.{pause 20}{Wait for input} It's my favorite	{0011-0003-0002-0002}.	{emote: Reset}The price is{pause 8}.{pause 8}.{pause 8}.{emote: Greetings}{Blue}{Number (0x9)} Bells{Color Reset}.{pause 20} What do	you think?{confirmation-02}{Player can respond (0005):0008-0015-0009-0028}	I'll buy it!	No, thanks.
+"008"	{emote: Soft Smile}Excellent choice,{pause 8} if I do say so	myself.{pause 20} I'm going to miss it a little.{Wait for input}	Well then,{pause 8} it's all yours.
+"009"	{emote: Soft Smile}Oh,{pause 8} waiting for the perfect item?{pause 20}	You're pretty cool under pressure!{Wait for input}Item 4 is something you might like.{pause 20}	It's my {0011-0003-0002-0003},{pause 8}	and the price is{pause 8}.{pause 8}.{pause 8}.{emote: Greetings}{Blue}{Number (0x9)} Bells{Color Reset}.{confirmation-02}{Player can respond (0005):000a-0015-0013-0028}	It's mine!	NEXT!
+"010"	{emote: Soft Smile}So you finally found the right item.{pause 20}	Or was it just the thrill of seeing	what was next?{Wait for input}{emote: Happiness} Well,{pause 8} here you go!
+"011"	{emote: Alarmed}Really?{pause 20} You're committing to buying	the last item?{Wait for input} {emote: Happiness}You must be very	lucky or very brave.{pause 20} Maybe both!	{emote: Soft Smile}So the item you'll be taking home is	my{pause 8}.{pause 8}.{pause 8}.{0011-0003-0002-0004}!{pause 20} And	the price is{pause 8}.{pause 8}.{pause 8}.{emote: Greetings}{Blue}{Number (0x9)} Bells{Color Reset}!	{emote: Shocked}Ouch!{pause 20} That's pretty high!{pause 20} Sorry.{pause 20}{emote: Reset}
+"012"	{emote: Alarmed}Really?{pause 20} You're committing to buying	the last item?{Wait for input} {emote: Happiness}You must be very	lucky or very brave.{pause 20} Maybe both!	{emote: Soft Smile}So the item you'll be taking home is	my{pause 8}.{pause 8}.{pause 8}.{0011-0003-0002-0004}!{pause 20} And	the price is{pause 8}.{pause 8}.{pause 8}.{emote: Greetings}{Blue}{Number (0x9)} Bells{Color Reset}!	{emote: Shocked}{pause 8}Wow!{pause 20} What a great price!{pause 40}{emote: Reset}
+"013"	{emote: Soft Smile}That was a fast game!{pause 20}{emote: Agreement} I'm glad you	found something you really wanted.
+"014"	{emote: Soft Smile}That was a pretty quick decision.{pause 20}	I'm glad things worked out so well.
+"015"	{emote: Soft Smile}That was a lot of fun!{pause 20} I hope we can	play again sometime.
+"016"	{emote: Soft Smile}Who knows...{pause 20} Maybe you got off	easy!{pause 20} Thanks for playing with me.
+"017"	{emote: Sheepishness}Sorry about the lousy luck.{pause 20} You	won't hold a grudge,{pause 8} right?
+"018"	{emote: Glee}I'd say it all worked out well for us	both!{pause 20} Lucky indeed,{pause 8} {catchphrase}!
+"019"	{0009-0003-000a-000b-000b-000b-000c-000c}
 == 1 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Sunny}
-"005"	{emote: Soft Smile}
-"006"	{emote: Happiness}
-"007"	{emote: Agreement}
-"008"	{emote: Soft Smile}
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{emote: Soft Smile}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{emote: Soft Smile}
-"017"	{emote: Sheepishness}
-"018"	{emote: Glee}
-"019"	{0009-0003-000a-0b-00-0b-00-0b-00-0c-00-0c-00}
+"001"	{emote: Soft Smile}¿Has jugado a {Blue}El precio al azar{Color Reset}?{pause 20}	Se echa a suertes el precio de los	objetos que se venden.	Te mostraré un objeto y su precio,	{pause 10}y entonces podrás comprarlo o	pasar al siguiente.	{emote: Agreement}Pero tendrás que comprar algo	sí o sí como empecemos a jugar.	{pause 20}{0007-000d-0000}¿Qué te parece?{Player can respond (0005):0003-0015-0002-0028}	¡A jugar!	No me interesa
+"002"	{emote: Worry}Oh, {pause 10}vale.{pause 20} Espero que no te haya	parecido mal que te preguntara.{pause 20}	{emote: Reset}Bueno, {pause 10}ojalá cambies de opinión.
+"003"	{emote: Happiness}¡Vivaaa!{pause 20} Venga, {pause 10}pues deja que te	explique las reglas un poco mejor.{Wait for input}{emote: Reset}En este juego, {pause 10}comprarás uno de	los cinco objetos que te ofreceré.	{pause 20}Te los mostraré de uno en uno.	Yo sacaré un papelito al azar con	un precio.{Wait for input}Si te gustan el objeto y el precio,	me lo compras. {pause 20}Si no, {pause 10}pasamos	al siguiente objeto.	{emote: Agreement}Pero si no te quedas ninguno,	{pause 10}tendrás que comprarme el quinto	objeto. {pause 20}¡Si no, {pause 10}sería trampa!	{emote: Soft Smile}¿List{o/a}? {pause 20}Bueno, {pause 10}mi primera oferta	es {Article(word-dependant)}{0011-0003-0002-0000}.	{pause 20}Y el precio son{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡{Blue}{Number (0x9)} bayas{Color Reset}!{confirmation-02}{Player can respond (0005):0004-0015-0005-0028}	¡Compro!	¡Siguiente!
+"004"	{emote: Sunny}¡Ajá! {pause 20}Ya sabía yo que esto llevaba	tu nombre.{Wait for input}{emote: Joy} ¡Hala,{pause 10} a disfrutarlo!
+"005"	{emote: Soft Smile}Estás deseando ver lo que viene	ahora, {pause 10}¿eh? {pause 10}No te culpo, {pause 10}así que	seguimos con el segundo objeto.	¡Mi {0011-0003-0002-0001} por	el increíble precio de {Blue}{Number (0x9)} bayas{Color Reset}!{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	¡Para mí!	¡Paso!
+"006"	{emote: Happiness}¿Seguro? {pause 20}Bueno, {pause 10}no me extraña	que te guste, {pause 10}si es que es una	verdadera preciosidad. {emote: Soft Smile}¡Para ti!
+"007"	{emote: Agreement}Sí, {pause 10}ya veía que esto último no	pegaba contigo. {pause 20}A ver qué opinas	de mi tercera oferta.	Es mi {0011-0003-0002-0002}.	Le tengo mucho cariño, {pause 10}¿sabes?	{pause 20}¿Te l{o/a/} llevarías por {Blue}{Number (0x9)} bayas{Color Reset}?{confirmation-02}{Player can respond (0005):0008-0015-0009-0028}	¡Ya te digo!	Nah, qué va
+"008"	{emote: Soft Smile}Una excelente elección, {pause 10}sí seño{r/ra}.	{pause 20}Creo que echaré de menos este	objeto y todo. {pause 20}¡Cuídalo bien!
+"009"	{emote: Soft Smile}Oh, {pause 10}estás esperando el objeto	perfecto para ti, {pause 10}¿eh? {pause 20}¡Te admiro!	{pause 20}¡Veo que aguantas bien la presión!	La cuarta oferta te interesará,	{pause 10}es mi {0011-0003-0002-0003}	y sería tuy{o/a/} por {Blue}{Number (0x9)} bayas{Color Reset}.{confirmation-02}{Player can respond (0005):000a-0015-0013-0028}	¡Mío, mío, mío!	¡Paaasando!
+"010"	{emote: Soft Smile}Así que has encontrado el objeto	perfecto. {pause 20}¿O no querías llegar a ver	la quinta oferta?	{emote: Happiness}Sea como sea, {pause 10}¡esto es tuyo!
+"011"	{emote: Alarmed}¡¿En serio?!{pause 20} ¿Te comprometes a	comprar el último objeto de todos?	{pause 20}¡Qué valiente eres! {pause 20}¿O temerari{o/a}?	{emote: Soft Smile}Pues el objeto que te llevas a casa	es mi{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡{0011-0003-0002-0004}!	{pause 20}Y te saldrá por{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡{Blue}{Number (0x9)} bayas{Color Reset}!	{emote: Shocked}¡Halaaa!{pause 20} ¡Rábanos, {pause 10}eso es mucho!	{emote: Worry}{pause 20}Lo siento{pause 8}.{pause 8}.{pause 8}.
+"012"	{emote: Alarmed}¡¿En serio?!{pause 20} ¿Te comprometes a	comprar el último objeto de todos?	{pause 20}¡Qué valiente eres! {pause 20}¿O temerari{o/a}?	{emote: Soft Smile}Pues el objeto que te llevas a casa	es mi{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡{0011-0003-0002-0004}!	{pause 20}Y te saldrá por{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡{Blue}{Number (0x9)} bayas{Color Reset}!	{emote: Shocked}¡Halaaa!{pause 20} ¡Menuda ganga te llevas!{emote: Reset}
+"013"	{emote: Soft Smile}¡Qué rápido hemos acabado	de jugar!{pause 20}{emote: Agreement} Pero me alegro de que	encontraras algo de tu gusto.
+"014"	{emote: Soft Smile}La decisión ha sido bastante rápida.{pause 20}	Ha estado divertido, {pause 10}¿verdad?
+"015"	{emote: Soft Smile}¿Qué me dices? {pause 20}¿Te ha gustado	el juego? {pause 20}¡Espero que podamos	volver a jugar otro día!
+"016"	{emote: Soft Smile}¡Espero que te lo hayas pasado	tan bien como yo!
+"017"	{emote: Sheepishness}Qué mala suerte has tenido.	{pause 20}{emote: Worry}No me guardes rencor, {pause 10}porfi,	{pause 10}que no ha sido culpa mía{pause 8}.{pause 8}.{pause 8}.
+"018"	{emote: Glee}¡Creo que todo ha salido a pedir	de boca para {los/las} dos!	¡Menuda suerte, {catchphrase}!
+"019"	{0009-0003-000a-000b-000b-000b-000c-000c}
 == 2 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Sunny}
-"005"	{emote: Soft Smile}
-"006"	{emote: Happiness}
-"007"	{emote: Agreement}
-"008"	{emote: Soft Smile}
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{emote: Soft Smile}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{emote: Soft Smile}
-"017"	{emote: Sheepishness}
-"018"	{emote: Glee}
-"019"	{0009-0003-000a-0b-00-0b-00-0b-00-0c-00-0c-00}
+"001"	{emote: Soft Smile}Je connais un super jeu, ça s'appelle	« le doute qui coûte ».{pause 20} Attention, ça	demande du sang-froid...	Le principe est simple :{pause 10} je te	présente cinq meubles l'un après	l'autre, en te proposant un prix.	Tu prends ou tu laisses, auquel cas	on passe au meuble suivant. {pause 10}Mais si	tu refuses les quatre premiers...	{emote: Agreement}... tu prends le cinquième sans	discuter ! {pause 20}{0007-000d-0000}{emote: Soft Smile}Qu'est-ce que t'en dis ?{Player can respond (0005):0003-0015-0002-0028}	J'en suis !	Laisse tomber.
+"002"	{emote: Worry}Oh, je vois. Excuse-moi de t'avoir	dérangé{/e}...{pause 20} {emote: Reset}Ce n'est que partie	remise, j'espère.
+"003"	{emote: Happiness}Super !{pause 10} Laisse-moi t'expliquer les	règles un peu plus en détail.{Wait for input}{emote: Reset}D'abord, il faut savoir que tu	t'engages à m'acheter un de mes	cinq meubles.	Je te les présenterai séparément.{pause 10} À	chaque fois, je tirerai au sort un	morceau de papier indiquant un prix.	Si celui-ci te convient, tu achètes le	meuble en question.{pause 10} Sinon, on passe	au suivant.	{emote: Agreement}Mais si tu refuses quatre fois de	suite, tu es obligé{/e} d'acquérir	le dernier, quel qu'en soit le prix.	{emote: Soft Smile}Prêt{/e} ?{Wait for input} On commence par {Article(word-dependant)}	superbe {0011-0003-0002-0000}	pour seulement.{pause 10}.{pause 10}.{pause 10}{emote: Greetings} {Blue}{Number (0x9)} clochettes{Color Reset} !{confirmation-02}{Player can respond (0005):0004-0015-0005-0028}	J'achète !	Je passe !
+"004"	{emote: Sunny}Waouh, j'aime les gens qui savent	ce qu'ils veulent !{Wait for input}{emote: Joy} Félicitations,	cette merveille est à toi !
+"005"	{emote: Soft Smile}On est titillé par le démon de la	curiosité, à ce que je vois ! {Wait for input}Très	bien, on passe au meuble suivant !	C'est {Article(word-dependant)}{0011-0003-0002-0001} !	Et ça coûte{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Greetings} {Blue}{Number (0x9)} clochettes{Color Reset} !{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	J'achète !	Je passe !
+"006"	{emote: Happiness}Alors, tu as trouvé ton bonheur ?{pause 20}{emote: Bashful}	Excellent choix, si je peux me	permettre. {Wait for input}{emote: Soft Smile}Tiens, c'est à toi !
+"007"	{emote: Agreement}Ce n'était pas encore le bon, mais	qu'à cela ne tienne, on passe au	meuble numéro trois...	{emote: Reset}{capitalized}{Article(word-dependant)}{0011-0003-0002-0002} pour	la modique somme de{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Greetings}	{Blue}{Number (0x9)} clochettes{Color Reset} ! {pause 20}Verdict ?{confirmation-02}{Player can respond (0005):0008-0015-0009-0028}	J'achète !	Je passe !
+"008"	{emote: Soft Smile}Bravo, très bon choix.{pause 20} Cette petite	merveille est à toi, maintenant.{pause 20} Je	dois avouer qu'elle me manquera...
+"009"	{emote: Soft Smile}Oh, tu n'as pas froid aux yeux, toi...{pause 20}	Soit, place au quatrième !{pause 20} Quelque	chose me dit que ça va te plaire...	{capitalized}{Article(word-dependant)}{0011-0003-0002-0003} !	Sacrifié{/e/} au prix dérisoire de{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Greetings}	{Blue}{Number (0x9)} clochettes{Color Reset} ! Alors ?{confirmation-02}{Player can respond (0005):000a-0015-0013-0028}	J'achète !	JE PASSE !
+"010"	{emote: Soft Smile}Enfin !{pause 20} Tout vient à point à qui sait	attendre...{pause 20} À moins que tu n'aies	craqué sous la pression ?	{emote: Happiness}Quoi qu'il en soit, ce meuble est à	toi !
+"011"	{emote: Alarmed}Sans blague ?{pause 20} Tu aimes prendre des	risques, toi...{Wait for input} {emote: Happiness}Courageu{x/se} ou	téméraire, c'est ce qu'on va voir !	{emote: Soft Smile}Tu repartiras donc chez toi avec{pause 8}.{pause 8}.{pause 8}.{pause 8}	{Article(word-dependant)}{0011-0003-0002-0004} !	Au prix de{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Greetings} {Blue}{Number (0x9)} clochettes{Color Reset} !	{emote: Shocked}Aïe !{pause 20} C'est drôlement cher !{pause 20}	Désolée...{pause 20}{emote: Reset}
+"012"	{emote: Alarmed}Sans blague ?{pause 20} Tu aimes prendre des	risques, toi...{Wait for input} {emote: Happiness}Courageu{x/se} ou	téméraire, c'est ce qu'on va voir !	{emote: Soft Smile}Tu repartiras donc chez toi avec{pause 8}.{pause 8}.{pause 8}.{pause 8}	{Article(word-dependant)}{0011-0003-0002-0004} !	Au prix de{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Greetings} {Blue}{Number (0x9)} clochettes{Color Reset} !	{emote: Shocked}Eh !{pause 20} Voilà ce que j'appelle une	bonne affaire !{pause 20}{emote: Reset}
+"013"	{emote: Soft Smile}Voilà une partie rondement menée !	{pause 20}{emote: Agreement}Ravie que tu repartes avec quelque	chose qui te plaise, en tout cas.
+"014"	{emote: Soft Smile}On peut dire que tu n'as pas perdu	de temps, en tout cas ! {pause 20}Ravie que	tu aies trouvé ton bonheur.
+"015"	{emote: Soft Smile}Mais je me suis tellement amusée	que je te la cède volontiers !{pause 20}	Vivement notre prochaine partie !
+"016"	{emote: Soft Smile}En même temps, qui sait ce qui	t'attendait ensuite ?{pause 20} Tu as peut-	être fait le bon choix...{pause 20} ou pas...
+"017"	{emote: Sheepishness}C'est la faute à pas de chance,	comme on dit...{pause 20} Tu m'en veux pas,	j'espère ?
+"018"	{emote: Glee}Et d'ailleurs, c'est une bonne	affaire pour nous deux !	{capitalized}{catchphrase} !
+"019"	{0009-0003-000a-000b-000b-000b-000c-000c}
 == 3 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Sunny}
-"005"	{emote: Soft Smile}
-"006"	{emote: Happiness}
-"007"	{emote: Surprise}
-"008"	{emote: Soft Smile}
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{emote: Happiness}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{emote: Glee}
-"017"	{emote: Sheepishness}
-"018"	{emote: Glee}
-"019"	{0009-0003-000a-0b-00-0b-00-0b-00-0c-00-0c-00}
+"001"	{emote: Soft Smile}Mi hanno insegnato un gioco	divertentissimissimo chiamato	{Blue}sfida la fortuna{Color Reset}.	Si gioca così:{pause 8} io estrarrò un numero,	{pause 8}in base al quale verrà assegnato	un prezzo a uno dei miei articoli.	Tu puoi decidere se acquistarlo{pause 10}	o passare all'articolo successivo.{pause 20}	Se la dea bendata ti sorride{pause 8}.{pause 8}.{pause 8}.	{pause 8}.{pause 8}.{pause 8}.{emote: Happiness} farai sicuramente un affarone!{pause 20}	{emote: Agreement}Ad ogni modo,{pause 8} se decidi di giocare	dovrai per forza comprare qualcosa.	{0007-000d-0000}{emote: Soft Smile}Che te ne pare?{Player can respond (0005):0003-0015-0002-0028}	Ci sto, giochiamo!	Non mi interessa.
+"002"	{emote: Worry}Oh,{pause 8} capisco.{pause 20} Spero di non esserti	sembrata troppo insistente.{pause 20} {emote: Reset}Fammi	sapere se cambi idea,{pause 8} ti aspetto!
+"003"	{emote: Happiness}Oh, meraviglioso!{pause 20} In tal caso,	lascia che ti spieghi le regole	più in dettaglio.	{emote: Reset}In questo gioco{pause 8} potrai acquistare	uno dei cinque articoli che metterò	in vendita.	Passeremo in rassegna gli articoli	uno alla volta.{Wait for input} Il prezzo verrà deciso{pause 8}	in base al numero che estrarrò.	Tu puoi acquistare l'articolo,{pause 8}	se pensi che sia un buon affare,{pause 8}	o passare all'offerta successiva.	{emote: Agreement}Ma se indugi e non accetti nessuna	offerta,{pause 8} dovrai per forza comprare	il quinto e ultimo dei miei articoli.	{emote: Soft Smile}Sei pront{o/a}?{Wait for input} Ecco la prima offerta:	{Article(word-dependant)}{0011-0003-0002-0000}{pause 20}	al prezzo di{pause 8}.{pause 8}.{pause 8}. {emote: Greetings}{Blue}{Number (0x9)} stelline{Color Reset}!{confirmation-02}{Player can respond (0005):0004-0015-0005-0028}	Affare fatto!	No, vai avanti.
+"004"	{emote: Sunny}Oooh,{pause 8} hai già trovato qualcosa	che fa al caso tuo?{Wait for input} {emote: Joy}Très bien,{pause 8}	sono davvero felice per te.
+"005"	{emote: Soft Smile}Sei curios{o/a} di vedere quali altri	articoli ho in serbo per te,{pause 8} eh?{pause 20}{Wait for input} Très	bien, {pause 8}passiamo alla seconda offerta.	Ecco {Article(word-dependant)}{0011-0003-0002-0001}	{pause 8}al prezzo di{pause 8}.{pause 8}.{pause 8}. {emote: Greetings}{Blue}{Number (0x9)} stelline{Color Reset}!{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	Affare fatto!	No, vai avanti.
+"006"	{emote: Happiness}Bene,{pause 8} l'offerta è di tuo gradimento?{pause 20}	A essere sincera, {pause 10}nemmeno io avrei	saputo resistere a questo prezzo!
+"007"	{emote: Surprise}L'offerta di prima non	ti convinceva,{pause 8} eh?	{pause 30}{emote: Reset}Forse a causa del prezzo{pause 8}.{pause 8}.{pause 8}.{pause 8}?	{emote: Happiness}Nessun problema,{pause 10} passiamo subito	al terzo articolo in vendita.{Wait for input}Ecco {Article(word-dependant)}{0011-0003-0002-0002}!{Wait for input}	{emote: Shyness}Al prezzo di{pause 8}.{pause 8}.{pause 8}.{pause 30} {emote: Greetings}{Blue}{Number (0x9)} stelline{Color Reset}.{pause 30}	Cosa ne pensi?{confirmation-02}{Player can respond (0005):0008-0015-0009-0028}	Affare fatto!	No, vai avanti.
+"008"	{emote: Soft Smile}Hai fatto un'ottima scelta.{pause 20}	Ne sentirò la mancanza,{pause 8} sai?
+"009"	{emote: Soft Smile}Oh,{pause 8} la tua ricerca per l'offerta	più allettante non si è ancora	conclusa, {pause 8}a quanto pare.	{emote: Distress}Ti ricordo che,{pause 10} se rifiuti anche{pause 15}	la prossima, {pause 5}dovrai per forza	comprare il quinto articolo!	{emote: Happiness}Bien, {pause 10}la mia quarta offerta per te{pause 15}	è {Article(word-dependant)}{0011-0003-0002-0003}	{emote: Shyness}al prezzo di{pause 8}.{pause 8}.{pause 8}.{pause 30} {emote: Greetings}{Blue}{Number (0x9)} stelline{Color Reset}!{confirmation-02}{Player can respond (0005):000a-0015-0013-0028}	Affare fatto!	No, vai avanti.
+"010"	{emote: Soft Smile}Che partita mozzafiato! {pause 20}Hai trovato	ciò che fa al caso tuo quasi sul	finale.{pause 20} Sono felicissimissima per te!
+"011"	{emote: Alarmed}Oh, davvero?{pause 20} Hai deciso di puntare	tutto sull'ultimo articolo?{Wait for input}	{emote: Happiness}Il tuo coraggio è ammirevole!	{emote: Soft Smile}Très bien, oggi porterai a casa{pause 8}.{pause 8}.{pause 8}.	{Article(word-dependant)}{0011-0003-0002-0004}!{pause 20}	Al prezzo di{pause 8}.{pause 8}.{pause 8}. {emote: Greetings}{Blue}{Number (0x9)} stelline{Color Reset}!	{emote: Shocked}Oh parbleu!{pause 20} Ti viene a costare	un patrimonio!{pause 20} Sono mortificata.{pause 20}{emote: Reset}
+"012"	{emote: Alarmed}Oh, davvero?{pause 20} Hai deciso di puntare	tutto sull'ultimo articolo?{Wait for input}	{emote: Happiness}Il tuo coraggio è ammirevole!	{emote: Soft Smile}Très bien, oggi porterai a casa{pause 8}.{pause 8}.{pause 8}.	{Article(word-dependant)}{0011-0003-0002-0004}!{pause 20}	Al prezzo di{pause 8}.{pause 8}.{pause 8}. {emote: Greetings}{Blue}{Number (0x9)} stelline{Color Reset}!	{emote: Joy}Oh, che gioia!{pause 20} È davvero	un ottimo affare!{pause 8}{emote: Soft Smile}
+"013"	{emote: Happiness}Il nostro gioco si è già concluso,{pause 10}	ma ciò che conta davvero è che tu	sia soddisfatt{o/a} del tuo acquisto!
+"014"	{emote: Soft Smile}Sei andat{o/a} a colpo sicuro senza	quasi esitare.{pause 20} Il gioco è finito	in fretta, {pause 10}ma ci siamo divertit{i/e}!
+"015"	{emote: Soft Smile}È stato divertentissimissimo!{pause 20}	Spero che potremo giocare	ancora insieme qualche volta.
+"016"	{emote: Glee}Ih ih ih!{pause 20} Scommetto che	ti è rimasta la curiosità di sapere	quale fosse l'ultima offerta.
+"017"	{emote: Sheepishness}È un peccato che la fortuna non ti	abbia sorriso.{pause 20} Spero che tu non mi	tenga il broncio per questo{pause 8}.{pause 8}.{pause 8}.
+"018"	{emote: Glee}La dea bendata ti ha dato un bel	bacione oggi!{pause 20} Spero che potremo	giocare ancora insieme!
+"019"	{0009-0003-000a-000b-000b-000b-000c-000c}
 == 4 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Sunny}
-"005"	{emote: Soft Smile}
-"006"	{emote: Happiness}
-"007"	{emote: Agreement}
-"008"	{emote: Soft Smile}
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{emote: Soft Smile}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{emote: Soft Smile}
-"017"	{emote: Sheepishness}
-"018"	{emote: Glee}
-"019"	{0009-0003-000a-0b-00-0b-00-0b-00-0c-00-0c-00}
+"001"	{emote: Soft Smile}Wollen wir ein Spiel spielen?{pause 20}	Ich kenne eins, das Spaß macht.{pause 20}	Es heißt {Blue}Glückliches Händchen{Color Reset}.	Das Spiel geht so:{pause 20} Ich habe hier	fünf Möbelstücke und ziehe	nacheinander zu jedem ein Los.	Das Los bestimmt den Preis des	Stücks. {pause 20}Wenn du ein Schnäppchen	witterst, kannst du es kaufen.	Wenn dir der Preis zu hoch ist,	winkst du einfach ab und wir ziehen	das Los für das nächste Stück.	Einen winzigen Haken gibt es:{pause 20}	Irgendetwas musst du kaufen.{pause 20}	{0007-000d-0000}Na, wie klingt das?{Player can respond (0005):0003-0015-0002-0028}	Das probiere ich aus!	Klingt langweilig.
+"002"	{emote: Worry}Oh, in Ordnung.{pause 20} Tut mir leid, ich	wollte bestimmt nicht deine Zeit	verschwenden.
+"003"	{emote: Happiness}In Ordnung!{pause 20} Dann erkläre ich dir	die Regeln am besten noch mal	etwas ausführlicher.	{emote: Soft Smile}Also, bei diesem Spiel geht es	darum, dass du eines von fünf	Möbelstücken erstehst.	Wir schauen uns die Stücke eines	nach dem anderen an.{pause 20} Zu jedem	ziehe ich außerdem ein Los.	Auf dem Los steht ein Preis.{pause 20} Wenn	er dir angemessen erscheint, dann	schlägst du zu und kaufst das Stück.	{emote: Agreement}Wenn nicht, kein Problem.{pause 20} Dann	schauen wir uns einfach das	nächste Möbelstück an.	{emote: Worry}Wenn du dich allerdings bis ganz	zum Schluss mit keinem der Möbel	anfreunden konntest...{pause 20} Tja...	{emote: Sheepishness}Dann musst du die Nummer fünf	kaufen, ganz egal, was sie kostet.	{pause 40}{emote: Happiness}Also, bist du bereit?	Gut! {pause 20}{emote: Soft Smile}Als Erstes haben wir hier	{meinen/meine/mein} {0011-0003-0002-0000}	zum Preis von{pause 8}.{pause 8}.{pause 8}.{pause 20} {Blue}{Number (0x9)} Sternis{Color Reset}!{confirmation-02}{Player can respond (0005):0004-0015-0005-0028}	Ist gekauft!	Nee, weiter!
+"004"	{emote: Sunny}Ach du liebes bisschen!{pause 20} Da haben	wir ja schnell etwas für dich	gefunden.	{emote: Joy}Es freut mich, dass dir das Stück	so gut gefällt.{pause 20} Bitte sehr, damit	gehört es jetzt dir!
+"005"	{emote: Soft Smile}Du möchtest erst mal abwarten,	was noch so kommt, richtig?{pause 20}	Gut, dann schauen wir mal...	Als Zweites haben wir hier {meinen/meine/mein}	{0011-0003-0002-0001} für	schlappe{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Greetings}{Blue}{Number (0x9)} Sternis{Color Reset}!{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	Kaufen!	Weiter.
+"006"	{emote: Happiness}Eine gute Wahl. {pause 40}{emote: Bashful}Es ist aber auch	ein wirklich schönes Möbelstück,	finde ich persönlich.	{emote: Soft Smile}Und jetzt gehört es dir!{pause 20}	Herzlichen Glückwunsch.
+"007"	{emote: Agreement}Ich sehe schon, das ist nicht so	ganz dein Stil.{pause 20} Macht nichts, wir	schauen uns das nächste Stück an.	{emote: Soft Smile}Als Drittes haben wir hier {meinen/meine/mein}	{0011-0003-0002-0002}. Und {er/sie/es}	kostet heute{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Greetings}{Blue}{Number (0x9)} Sternis{Color Reset}.{pause 20} Na?{confirmation-02}{Player can respond (0005):0008-0015-0009-0028}	Nehme ich!	Äh, nee.
+"008"	{emote: Soft Smile}Ausgezeichnete Wahl. {pause 40}Ich muss	sagen, ich werde das Stück wohl	wirklich ein wenig vermissen...	Hier, bitte schön. {pause 20}Es gehört dir.
+"009"	{emote: Soft Smile}So, du wartest auf das perfekte	Stück, stimmt's?{pause 20} Mir scheint, du	bleibst unter Druck ziemlich cool.	Vielleicht gefällt dir die Nummer	vier: {mein/meine/mein} {0011-0003-0002-0003}	für läppische{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Greetings} {Blue}{Number (0x9)} Sternis{Color Reset}. {pause 20}Und?{confirmation-02}{Player can respond (0005):000a-0015-0013-0028}	Ist gebongt!	Nö, immer noch nicht.
+"010"	{emote: Soft Smile}Hui, dann hast du ja endlich etwas	für dich gefunden.{pause 20} Oder war das	eher aus Bammel vor Nummer fünf?	{emote: Happiness}Egal, auf jeden Fall gehört das	gute Stück jetzt dir.{pause 20}	Herzlichen Glückwunsch!
+"011"	{emote: Alarmed}Wirklich?{pause 20} Du lässt es darauf	ankommen?{pause 20} Mutig, mutig.{pause 20}	{emote: Soft Smile}Ich wünsche dir viel Glück.	Unser letztes Stück ist{pause 8}.{pause 8}.{pause 8}.{pause 20} {mein/meine/mein}	{0011-0003-0002-0004}.{pause 20} Und {er/sie/es}	kostet{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Greetings}{Blue}{Number (0x9)} Sternis{Color Reset}!	{emote: Shocked}Autschi!{pause 20} Das ist ein ziemlich	heftiger Preis. {pause 20}Tut mir leid.
+"012"	{emote: Alarmed}Wirklich?{pause 20} Du lässt es darauf	ankommen?{pause 20} Mutig, mutig.{pause 20}	{emote: Soft Smile}Ich wünsche dir viel Glück.	Unser letztes Stück ist{pause 8}.{pause 8}.{pause 8}.{pause 20} {mein/meine/mein}	{0011-0003-0002-0004}.{pause 20} Und {er/sie/es}	kostet{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Greetings}{Blue}{Number (0x9)} Sternis{Color Reset}!	{emote: Shocked}Du Glückspilz.{pause 20} Da hat sich das	Pokern für dich gelohnt, denn das	ist ein wirklich guter Preis.
+"013"	{emote: Soft Smile}Ich wünsche dir viel Freude	mit deiner neuen Errungenschaft.
+"014"	{emote: Soft Smile}Es freut mich, dass du dann doch	so schnell etwas gefunden hast,	was dir gefällt.
+"015"	{emote: Soft Smile}Ich fände es schön, wenn wir	demnächst wieder spielen würden.	{pause 20}Schau ruhig bald mal wieder vorbei.
+"016"	{emote: Soft Smile}Das hat Spaß gemacht. {pause 20}Wenn du	möchtest, können wir bald mal	wieder spielen.
+"017"	{emote: Sheepishness}Du bist mir nicht böse, oder?{pause 20}	Hmm, manchmal hat man eben	einfach Pech.
+"018"	{emote: Glee}Da hat sich zum Schluss noch alles	zum Besten gewendet, nicht wahr?{pause 20}	Jippie, {pause 8}{catchphrase}!
+"019"	{0009-0003-000a-000b-000b-000b-000c-000c}

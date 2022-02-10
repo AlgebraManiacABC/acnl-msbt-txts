@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{000a-0001-0004-07-00-08-00}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Sheepishness}
-"005"	{emote: Alarmed}
-"006"	{emote: Soft Smile}
-"007"	やぁ、{pause 8}
-"008"	やぁ、{pause 8}
+"001"	{000a-0001-0004-0007-0008}
+"002"	{emote: Alarmed}あれ{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): すこ}少しやせたかい？{pause 8}	{Player nickname (green)}{0005-000d-0000}？{Wait for input}{emote: Soft Smile}しばらく　{ruby (charSpan 1): あ}会わないうちに{pause 16}	{ruby (charSpan 3): ふんいき}雰囲気　{ruby (charSpan 1): か}変わったね、{pause 8}{catchphrase}
+"003"	{emote: Alarmed}あれ{pause 8}・{pause 8}・{pause 8}・{pause 8}ヘアスタイル	{ruby (charSpan 1): か}変えたのかい？{pause 8}　{Player nickname (green)}{0005-000d-0000}？{Wait for input}{emote: Sheepishness}しばらく　{ruby (charSpan 1): あ}会わないうちに{pause 16}	{ruby (charSpan 2): おとな}大人っぽくなったね、{pause 8}{catchphrase}
+"004"	{emote: Sheepishness}{ruby (charSpan 2): さいきん}最近、{pause 8}{ruby (charSpan 1): み}見ないね{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Player nickname (green)}{0005-000d-0000}？{Wait for input}{emote: Anger}ひょっとして、{pause 8}ボクにかくれて{pause 32}	{emote: Glare}ダンスの{ruby (charSpan 2): れんしゅう}練習かい？
+"005"	{emote: Alarmed}あっ、{pause 8}{Player nickname (green)}{0005-000d-0000}！{pause 32}	{emote: Reset}{ruby (charSpan 1): ひさ}久しぶりに　キミの{ruby (charSpan 1): こえ}声を{pause 16}	{ruby (charSpan 1): き}聞いた{ruby (charSpan 1): き}気がするよ、{pause 8}{catchphrase}	{emote: Thought}{pause 16}キミと　{ruby (charSpan 2): さいご}最後に{ruby (charSpan 1): はな}話したのは{pause 16}	あの{ruby (charSpan 3): ときいらい}時以来か{pause 8}・{pause 8}・{pause 8}・{pause 8}1{ruby (charSpan 2): しゅうかん}週間ぶりかな？{pause 32}	いや、{pause 16}もっとかな？	{emote: Anger}ボクの{ruby (charSpan 2): きも}気持ちは、{pause 32}	{emote: Glare}あの{ruby (charSpan 1): とき}時から　{ruby (charSpan 1): か}変わってないよ
+"006"	{emote: Soft Smile}ありがとう、{pause 8}{Player nickname (green)}{0005-000d-0000}！{pause 16}	{ruby (charSpan 1): はな}話しかけてくれて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Shyness}なかなか　{ruby (charSpan 1): こえ}声かけてくれないから{pause 16}	{ruby (charSpan 1): きら}嫌われちゃったかと{ruby (charSpan 1): おも}思ったよ、	{pause 8}{catchphrase}
+"007"	やぁ、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	{emote: Sheepishness}しばらく　{ruby (charSpan 1): み}見ないうちに{pause 16}	たくましくなったね？　{pause 8}{catchphrase}？
+"008"	やぁ、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	{emote: Soft Smile}しばらく　{ruby (charSpan 1): み}見ないうちに{pause 32}	{emote: Glare}キレイになったね？　{pause 8}{catchphrase}？

@@ -1,13 +1,13 @@
 == 0 ==
-"001"	よ～し、{pause 8}
-"002"	{ruby (charSpan 2): じゅんび}準備はいいか？！{Wait for input}
-"003"	じゃ～ん{pause 20}
-"004"		　　　　　　　{0007-000b-0000}
-"005"		　　　　　　{0007-000b-0000}
-"006"		　　　　　　　{0007-000b-0000}
-"007"	{emote: Mistaken}
-"008"	{emote: Alarmed}
-"009"	{emote: Greetings}
-"010"	
-"011"	ってことは{pause 8}
-"012"	ってことは{pause 8}
+"001"	よ～し、{pause 8}{ruby (charSpan 2): じゅんび}準備はいいか？{pause 20}	{emote: Glare}{Blue}1{ruby (charSpan 1): かい}回{Color Reset}{ruby (charSpan 2): しょうぶ}勝負だぜぇ～
+"002"	{ruby (charSpan 2): じゅんび}準備はいいか？！{Wait for input}	{ruby (charSpan 1): さき}先に　{Blue}{Number (0x6)}{ruby (charSpan 1): かい}回{Color Reset}{ruby (charSpan 1): か}勝った{ruby (charSpan 1): ほう}方が{pause 8}	{ruby (charSpan 1): か}勝ちだからな！
+"003"	じゃ～ん{pause 20}　け～ん{pause 8}・{pause 8}・{pause 8}・{000f-0001-0006-0000-0000-0000}	グー	チョキ	パー
+"004"		　　　　　　　{0007-000b-0000}{Text size 200%}グー！{Text size 100%}
+"005"		　　　　　　{0007-000b-0000}{Text size 200%}チョキ！{Text size 100%}
+"006"		　　　　　　　{0007-000b-0000}{Text size 200%}パー！{Text size 100%}
+"007"	{emote: Mistaken}あちゃ～！{pause 15}
+"008"	{emote: Alarmed}おっと　あいこだ、{pause 8}{emote: Showmanship}{pause 30}	もう{ruby (charSpan 2): いっちょう}一丁！
+"009"	{emote: Greetings}よっしゃ～！{pause 15}
+"010"
+"011"	ってことは{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Resigned}オメェの{ruby (charSpan 1): か}勝ちだな{pause 15}
+"012"	ってことは{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Pride}{pause 20}オレ{ruby (charSpan 1): さま}様の　{ruby (charSpan 1): か}勝ちだぜぃ！{pause 40}	{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}

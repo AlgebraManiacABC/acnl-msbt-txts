@@ -1,55 +1,55 @@
 == 0 ==
-"001"	So it's time I greet everyone a new	way.{pause 10}
-"002"	So I really need to spice up my	greeting, {Player nickname (green)}
-"003"	{emote: Worry}
-"004"	{emote: Soft Smile}
-"005"	{emote: Soft Smile}
-"006"	Don't like it? {pause 5}
-"007"	{0009-0001-0006-08-00-09-00-00-00}	
-"008"	{emote: Happiness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
+"001"	So it's time I greet everyone a new	way.{pause 10} {emote: Sigh}Yeah, I'm tired of the same	old "{Greeting begin}hey, hello{Greeting end}."	{emote: Agreement}How about you give me a new	go-to greeting, {Player nickname (green)}?{Player can respond (0005):0004-0015-0003-0028}	I've got one!	Sorry, no.
+"002"	So I really need to spice up my	greeting, {Player nickname (green)}.{pause 10} Yeah, {emote: Disagreement}no more	"{Greeting begin}hey, hi there{Greeting end}" for me.	{emote: Curious}How about you give me a new one?{pause 10}	Please? {pause 5}Something just for me?{pause 5}{Player can respond (0005):0004-0015-0003-0028}	I've got one!	Sorry, no.
+"003"	{emote: Worry}What? You're OK with my usual	hello, {Player nickname (green)}? {pause 10}{emote: Soft Smile}I'll hang on to it	a little longer then.
+"004"	{emote: Soft Smile}I knew I could count on you to help	me stay cool, {catchphrase}!
+"005"	{emote: Soft Smile}"{capitalized}{Greeting begin}{Greeting end}"{pause 10}.{pause 10}.{pause 10}.{Wait for input}	{emote: Showmanship}"{capitalized}{Greeting begin}{Greeting end}"{pause 10}.{pause 10}.{pause 10}.{Wait for input}	How does that sound to you?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	I love it.	Not quite right.
+"006"	Don't like it? {pause 5}OK then, {pause 5}lay another	one on me, {Player nickname (green)}.
+"007"	{0009-0001-0006-0008-0009-000a}
+"008"	{emote: Happiness}"{capitalized}{Greeting begin}{Greeting end}"{pause 10}.{pause 10}.{pause 10}.{pause 10}	Wow, I can't believe I didn't think of	that before!{pause 10} {emote: Soft Smile}Thanks, {Player nickname (green)}!
+"009"	{emote: Soft Smile}"{capitalized}{Greeting begin}{Greeting end}"?{pause 10}	Oh yeah, {pause 5}that's going to change my	life. {pause 5}{emote: Happiness}Thanks, {Player nickname (green)}!
+"010"	{emote: Soft Smile}"{capitalized}{Greeting begin}{Greeting end}"?{pause 10}	{emote: Laughter}Why can't I think of stuff like that,	{Player nickname (green)}? {pause 10}{emote: Sunny}Thanks!
 == 1 ==
-"001"	Bueno, ya va siendo hora de ir	saludando a la gente de otra forma.{0000-0004-0000}
-"002"	Mi saludo se está volviendo un poco	normalucho, {Player nickname (green)}
-"003"	Entonces, ¿crees que debo seguir	con mi saludo habitual, {Player nickname (green)}!
-"004"	{emote: Soft Smile}
-"005"	{emote: Soft Smile}
-"006"	¿No pasa tu control de calidad? {pause 5}
-"007"	{0009-0001-0006-08-00-09-00-00-00}	
-"008"	{emote: Happiness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
+"001"	Bueno, ya va siendo hora de ir	saludando a la gente de otra forma.{Wait for input}Lo de "¡{capitalized}{Greeting begin}Eh, hola{Greeting end}!"	está demodé.{Wait for input}¿Tienes alguna sugerencia,	mi estimad{o/a} {Player nickname (green)}?{Player can respond (0005):0004-0015-0003-0028}	¡Sí!	Lo siento
+"002"	Mi saludo se está volviendo un poco	normalucho, {Player nickname (green)}. Necesito	uno más vanguardista.	El viejo "¡{capitalized}{Greeting begin}Hola, buenas{Greeting end}!"	no es lo bastante transgresor.	{emote: Curious}¿Qué tal si me ayudas?{Player can respond (0005):0004-0015-0003-0028}	¡Claro!	Lo siento
+"003"	Entonces, ¿crees que debo seguir	con mi saludo habitual, {Player nickname (green)}? {pause 10}{Wait for input}Claro, los clásicos no pasan nunca	de moda.
+"004"	{emote: Soft Smile}Sabía que podía contar contigo,	{catchphrase}.
+"005"	{emote: Soft Smile}"{capitalized}{Greeting begin}{Greeting end}"...{Wait for input}	"{capitalized}{Greeting begin}{Greeting end}"...{Wait for input}	No sé. ¿Cómo te suena a ti?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Supermegamolón	Le falta chispa
+"006"	¿No pasa tu control de calidad? {pause 5}	¿Me dices otro, {Player nickname (green)}?
+"007"	{0009-0001-0006-0008-0009-000a}
+"008"	{emote: Happiness}{capitalized}{Greeting begin}{Greeting end}...{pause 10}	No sé cómo no se me ha ocurrido	antes.{pause 10} ¡Te debo una, {Player nickname (green)}!
+"009"	{emote: Soft Smile}{pause 5}¿{capitalized}{Greeting begin}{Greeting end}?{pause 10}	Es...{pause 5} diferente. ¡Justo lo que	buscaba! {pause 5}{emote: Happiness}¡Gracias, {Player nickname (green)}!
+"010"	{emote: Soft Smile}Mmm...{pause 5} ¿{capitalized}{Greeting begin}{Greeting end}?{pause 10}	¿Por qué no se me habrá ocurrido	a mí antes, {Player nickname (green)}? {pause 10}{emote: Happiness}¡Gracias!
 == 2 ==
-"001"	Bon, ma sempiternelle salutation	« {capitalized}
-"002"	Une nana a osé me dire que ma	salutation était has-been.	T'imagines la tragédie, {Player nickname (green)}!
-"003"	{emote: Resigned}
-"004"	{emote: Soft Smile}
-"005"	{emote: Soft Smile}
-"006"	Ah, je vois... {pause 15}
-"007"	{0009-0001-0006-08-00-09-00-00-00}	
-"008"	{emote: Happiness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Curious}
+"001"	Bon, ma sempiternelle salutation	« {capitalized}{Greeting begin}Hé{Greeting end} ! » a fait	son temps...	J'ai créé un concours pour que les	gens puissent m'en proposer une	nouvelle. Ça te dit, {Player nickname (green)} ?{Player can respond (0005):0004-0015-0003-0028}	Chouette !	Débrouille-toi tout seul.
+"002"	Une nana a osé me dire que ma	salutation était has-been.	T'imagines la tragédie, {Player nickname (green)} ?	Franchement, entre nous,	« {Greeting begin}Hé{Greeting end} ! »...	dépassé ?{Wait for input}{emote: Curious}Mais bon, {pause 8}par prudence,{pause 15} il vaut	peut-être mieux que je change.{pause 10}	T'aurais pas une idée, {Player nickname (green)} ?{Player can respond (0005):0004-0015-0003-0028}	Si.	Non.
+"003"	{emote: Resigned}Ah, {pause 8}je vois,{pause 15} bonjour la solidarité,	{Player nickname (green)} ! {pause 10}{emote: Soft Smile}Tant pis, je vais garder	ma salutation pour l'instant.
+"004"	{emote: Soft Smile}Hé, hé, {pause 15}tu n'as jamais su me dire	non, hein {Player nickname (green)} ? {pause 30}Alors...?
+"005"	{emote: Soft Smile}Hmm, « {Greeting begin}{Greeting end} »...{Wait for input}	« {Greeting begin}{Greeting end} »...{Wait for input}	C'est assez classe, t'es sûr{/e} ?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Classe garantie !	Crasse complète !
+"006"	Ah, je vois... {pause 15}OK, t'aurais pas autre	chose en stock, alors, {Player nickname (green)} ?
+"007"	{0009-0001-0006-0008-0009-000a}
+"008"	{emote: Happiness}Ouah, « {Greeting begin}{Greeting end} »...{pause 10}	C'est génial !{pause 15} Étonnant que ce soit	pas de moi.{pause 10} Mais merci, {Player nickname (green)} !
+"009"	{emote: Soft Smile}Donc, {pause 5}« {Greeting begin}{Greeting end} » ?{pause 10}	Ouais, ça peut le faire, {pause 8}je pense... {pause 5}	{emote: Happiness}Merci, {Player nickname (green)} !
+"010"	{emote: Curious}« {capitalized}{Greeting begin}{Greeting end} », tu dis ?{pause 10}	{emote: Soft Smile}C'est cool, {pause 15}mais faut dire que ça	fait longtemps que j'y pense aussi...
 == 3 ==
-"001"	Basta, è ora che la smetta di	salutare tutti con il solito	"{capitalized}
-"002"	Ho proprio bisogno di vivacizzare	il mio saluto, {Player nickname (green)}
-"003"	Non mi dire che ti piace quello che	uso sempre, {Player nickname (green)}
-"004"	{emote: Soft Smile}
-"005"	{emote: Soft Smile}
-"006"	Non ti piace? {pause 5}!
-"007"	{0009-0001-0006-08-00-09-00-00-00}	
-"008"	{emote: Happiness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
+"001"	Basta, è ora che la smetta di	salutare tutti con il solito	"{capitalized}{Greeting begin}Ehi, hola{Greeting end}".	Perché non mi consigli un saluto	supertosto che mi faccia fare	bella figura con todos, {Player nickname (green)}?{Player can respond (0005):0004-0015-0003-0028}	Ma certo!	Sono a corto di idee...
+"002"	Ho proprio bisogno di vivacizzare	il mio saluto, {Player nickname (green)}. Ho chiuso	con "{capitalized}{Greeting begin}Ehi, ehilà, hola{Greeting end}".	{emote: Curious}Me ne potresti consigliare uno?{pause 10}	Dai, por favor! {pause 5}Qualcosa di speciale	che sia perfetto per me?{pause 5}{Player can respond (0005):0004-0015-0003-0028}	Ma certo!	Sono a corto di idee...
+"003"	Non mi dire che ti piace quello che	uso sempre, {Player nickname (green)}? {pause 10}{emote: Soft Smile}Beh, allora	continuerò a usarlo per un po'...
+"004"	{emote: Soft Smile}Lo sapevo che potevo contare	su di te, {catchphrase}.
+"005"	{emote: Soft Smile}Mmmh, "{Greeting begin}{Greeting end}"...{Wait for input}	"{Greeting begin}{Greeting end}"...{Wait for input}	Che te ne pare, amig{o/a}?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Fantastico!	Non funziona...
+"006"	Non ti piace? {pause 5}OK, ho capito,	{Player nickname (green)}. {pause 5}Riprova, dai!
+"007"	{0009-0001-0006-0008-0009-000a}
+"008"	{emote: Happiness}Uaaauuu, "{Greeting begin}{Greeting end}"...{pause 10}	Ma come ho fatto a non pensarci	io?!{pause 10} Gracias di cuore, {Player nickname (green)}!
+"009"	{emote: Soft Smile}OK, {pause 5}"{Greeting begin}{Greeting end}"...?{pause 10}	Ma certo, {pause 5}mi cambierà la vita!{pause 5}	{emote: Happiness}Gracias, {Player nickname (green)}!
+"010"	{emote: Soft Smile}Allora...{pause 5}"{Greeting begin}{Greeting end}"?{pause 10}	Ma come avrò fatto a non pensarci,	{Player nickname (green)}!?{pause 10} {emote: Happiness}Muchas gracias!
 == 4 ==
-"001"	Es wird Zeit, dass ich mir eine	originellere Begrüßung als	„{Greeting begin}
-"002"	Ich hab nachgedacht, {Player nickname (green)}
-"003"	Was, dir gefällt also meine bisherige	Begrüßung, {Player nickname (green)}
-"004"	{emote: Soft Smile}
-"005"	{emote: Soft Smile}
-"006"	Also doch nicht? {pause 20}
-"007"	{0009-0001-0006-08-00-09-00-00-00}	
-"008"	{emote: Happiness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Soft Smile}
+"001"	Es wird Zeit, dass ich mir eine	originellere Begrüßung als	„{Greeting begin}hey, hallo{Greeting end}“ zulege.	Wie wär's, wenn du dir eine neue	Begrüßung für mich ausdenkst,	{Player nickname (green)}?{Player can respond (0005):0004-0015-0003-0028}	Ich hab eine!	Nee, lass mal.
+"002"	Ich hab nachgedacht, {Player nickname (green)}.{pause 20}	Ich sollte vielleicht nicht immer nur 	„{Greeting begin}hey, hallo{Greeting end}“ sagen.	{emote: Curious}Wie wär's, wenn du dir eine neue	Begrüßung für mich ausdenkst?{pause 20}	{emote: Agreement}Irgendeine, die gut zu mir passt.{Player can respond (0005):0004-0015-0003-0028}	Ich hab eine!	Nee, lass mal.
+"003"	Was, dir gefällt also meine bisherige	Begrüßung, {Player nickname (green)}? {pause 20}{emote: Soft Smile}Dann werde	ich sie wohl erst mal beibehalten.
+"004"	{emote: Soft Smile}Ich wusste, dass ich auf dich zählen	kann, {catchphrase}.
+"005"	{emote: Soft Smile}{capitalized}{Greeting begin}{Greeting end}!{Wait for input}	Na, wie hört sich das für dich an?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Perfekt.	Irgendwie komisch.
+"006"	Also doch nicht? {pause 20}Na gut, {pause 10}vielleicht	fällt dir ja noch was Besseres ein,	{Player nickname (green)}!
+"007"	{0009-0001-0006-0008-0009-000a}
+"008"	{emote: Happiness}Wow, „{Greeting begin}{Greeting end}“...{pause 20}	Dass ich da nicht selbst drauf	gekommen bin...{pause 20} Danke, {Player nickname (green)}!
+"009"	{emote: Soft Smile}„{capitalized}{Greeting begin}{Greeting end}“ also...?{pause 20}	Ja, {pause 10}das könnte mein ganzes Leben 	verändern. {pause 20}{emote: Happiness}Danke, {Player nickname (green)}!
+"010"	{emote: Soft Smile}„{capitalized}{Greeting begin}{Greeting end}“?{pause 20}	Warum fällt MIR so was nicht ein,	{Player nickname (green)}? {pause 20}{emote: Happiness}Danke!

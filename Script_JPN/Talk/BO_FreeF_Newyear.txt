@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Glee}
-"003"	{emote: Happiness}
-"004"	{emote: Glee}
-"005"	{emote: Shyness}
-"006"	
-"007"	{Player nickname (green)}
-"008"	{emote: Happiness}
-"009"	{emote: Pride}
-"010"	
-"011"	{emote: Curious}
-"012"	{emote: Daydreaming}
-"013"	{emote: Love}
-"014"	{emote: Curious}
-"015"	{emote: Curious}
-"016"	
-"017"	{emote: Shocked}
-"018"	{emote: Happiness}
-"019"	{emote: Shocked}
+"001"	{emote: Worry}ボク{pause 8}・{pause 8}・{pause 8}・{pause 20}	じしんないなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 1): なに}何って？{pause 40}	{ruby (charSpan 2): ことし}今年は　ネズミ{ruby (charSpan 1): どし}年{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}ボクが　みんなの	だいひょうだなんて、{pause 20}	キンチョーしちゃうなぁ～
+"002"	{emote: Glee}{ruby (charSpan 2): ことし}今年は　ウシ{ruby (charSpan 1): どし}年～{pause 40}	ボクの　しっぽ{pause 20}	いつもより　ツヤツヤしてるでしょぉ？{Wait for input}{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	これも　{ruby (charSpan 2): ことし}今年が	ウシ{ruby (charSpan 1): どし}年だからかなぁ、{pause 8}{catchphrase}
+"003"	{emote: Happiness}{ruby (charSpan 2): ことし}今年は　トラ{ruby (charSpan 1): どし}年だねぇ～{pause 40}	{emote: Bashful}ボクらが　しゅやくみたいで	キンチョーしちゃうよぉ、{pause 8}{catchphrase}
+"004"	{emote: Glee}{ruby (charSpan 2): ことし}今年は　ウサギ{ruby (charSpan 1): どし}年～！{pause 40}	ボクにとっては	とくべつな　{ruby (charSpan 2): いちねん}一年なんだぁ～{Wait for input}{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): なに}何かいいこと　あるといいなぁ、{pause 8}{catchphrase}
+"005"	{emote: Shyness}{ruby (charSpan 2): ことし}今年は　ウマ{ruby (charSpan 1): どし}年だねぇ！{pause 40}	みんなが　ボクを	{ruby (charSpan 1): み}見てる{ruby (charSpan 1): き}気がするよぉ～{Wait for input}えへへ～{pause 20}	ちょっぴり　はずかしいなぁ
+"006"
+"007"	{Player nickname (green)}{0005-000d-0000}、{pause 20}	{emote: Curious}{ruby (charSpan 2): ことし}今年のえとは	{ruby (charSpan 1): なん}何だと　{ruby (charSpan 1): おも}思う～？{Wait for input}{emote: Reset}ヒントは{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sunny}キミの{ruby (charSpan 1): め}目の{ruby (charSpan 1): まえ}前に　いるよぉ～？{Wait for input}{emote: Soft Smile}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	もし　{ruby (charSpan 1): こた}答えがわかったら	やさしく　ささやいてねぇ、{pause 8}{catchphrase}
+"008"	{emote: Happiness}{ruby (charSpan 2): ことし}今年は　トリ{ruby (charSpan 1): どし}年～{pause 40}	{emote: Shyness}ボクが　しゅやくだなんて、{pause 20}	なんだか　ふあんだよぉ～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Inspired}そうだ！{pause 40}	キミに　ゆずって	あげるよぉ～！{Wait for input}{emote: Sunny}それじゃ、{ruby (charSpan 2): ことし}今年は　{Player nickname (green)}{ruby (charSpan 1): どし}年ね！{Wait for input}	{emote: Delight}わぁ～い！{pause 20}	かっこいい、{pause 8}{catchphrase}
+"009"	{emote: Pride}{ruby (charSpan 2): ことし}今年は　イヌ{ruby (charSpan 1): どし}年だから、{pause 20}	ボク　はりきってるんだぁ～{Wait for input}スポーツだって{pause 8}　おべんきょうだって、{pause 20}	いつもより　がんばるよぉ？　{pause 8}{catchphrase}？{Wait for input}{emote: Bashful}がんばるには	エネルギーが　ひつようだから、{pause 20}	ごはんも　い～っぱい　{ruby (charSpan 1): た}食べないとねぇ
+"010"
+"011"	{emote: Curious}{Player nickname (green)}{0005-000d-0000}は　おぞうにに	おもち　{ruby (charSpan 1): なん}何コ{ruby (charSpan 1): い}入れる～？{0008-0003-0014-0011-0000-0012-0000-0012-0000-0012-0000-0013-0000}	4コ	3コ	2コ	1コ	{ruby (charSpan 1): い}入れない
+"012"	{emote: Daydreaming}お{ruby (charSpan 2): しょうがつ}正月って　のんびりすごすのが	いいよねぇ、{pause 8}{catchphrase}{Wait for input}おへやで　テレビを{ruby (charSpan 1): み}見ながら	{ruby (charSpan 1): あたら}新しい{ruby (charSpan 1): とし}年を　まんきつするんだぁ～
+"013"	{emote: Love}{ruby (charSpan 2): ことし}今年のはつゆめは	なんだろうねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Thought}きょねんの　はつゆめは、{pause 20}	ふとんの{ruby (charSpan 1): なか}中で　すやすや	ねむってる　ゆめだったんだぁ～{Wait for input}{emote: Worry}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): ことし}今年は　シャキッとしたボクが	{ruby (charSpan 1): で}出てくると　いいなぁ、{pause 8}{catchphrase}
+"014"	{emote: Curious}{Player nickname (green)}{0005-000d-0000}、{pause 20}	{ruby (charSpan 2): ことし}今年のもくひょうってある～？{Wait for input}{emote: Happiness}ボクの{ruby (charSpan 2): ことし}今年の　もくひょうは、{pause 20}	{emote: Greetings}もくひょうを　{ruby (charSpan 1): つく}作ること！{Wait for input}{emote: Thought}{ruby (charSpan 2): ことし}今年の{ruby (charSpan 1): うち}内に	{ruby (charSpan 1): おも}思いつくかなぁ、{pause 8}{catchphrase}
+"015"	{emote: Curious}{ruby (charSpan 2): ことし}今年のおみくじは　どうだろぉ～？{Wait for input}{emote: Thought}「だいきち」{pause 20}　がよくて、{pause 20}	「きょう」{pause 20}　がよくないのは	わかるんだけど{Wait for input}{emote: Mistaken}ほかに　{ruby (charSpan 1): か}書いてあることは{pause 20}	むずかしすぎて	わからないんだよねぇ、{pause 8}{catchphrase}
+"016"
+"017"	{emote: Shocked}{0007-000a-0000}えぇ～？！{pause 20}	そんなに　いっぱい？！{Wait for input}{emote: Laughter}お{ruby (charSpan 2): しょうがつ}正月から　ガッツリだねぇ～{pause 20}	ゆっくり　かんで　{ruby (charSpan 1): た}食べてねぇ、{pause 8}{catchphrase}{pause 20}{emote: Happiness}
+"018"	{emote: Happiness}そっか～{pause 20}	ボクも　そのくらいかなぁ～{Wait for input}{emote: Love}やらか～い　おもち！{pause 20}	そうぞうしたら　おなかが	すいてきちゃったよぉ、{pause 8}{catchphrase}
+"019"	{emote: Shocked}{0007-000a-0000}えぇ～？！{pause 20}	おもち　{ruby (charSpan 1): い}入れないのぉ？！{Wait for input}{emote: Worry}キミん{ruby (charSpan 1): ち}家の　おぞうにって	かわってるんだねぇ、{pause 8}{catchphrase}

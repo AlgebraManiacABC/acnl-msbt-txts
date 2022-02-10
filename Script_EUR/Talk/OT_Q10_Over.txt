@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Distress}
+"001"	{emote: Alarmed}Oh, {pause 5}you found me! {pause 10}But wait.{pause 5}.{pause 5}.{pause 5}	{emote: Curious}Time's up, {pause 5}isn't it?{Wait for input}{emote: Resigned}In that case, I guess you lose,	{Player nickname (green)}!
+"002"	{emote: Alarmed}You found me? {Wait for input}{emote: Worry}Well, I'm sorry to	break the news to you,	{Player nickname (green)}.{pause 5}.{pause 5}.{pause 5}	Time's up already, {pause 5}so that means.{pause 5}.{pause 5}.{pause 5}	{emote: Showmanship}we're the winners!
+"003"	{emote: Distress}No, no, no! {pause 10}You got me! {Wait for input}{emote: Curious}Hold on.	Are we over the time limit?{Wait for input}{emote: Soft Smile}What luck! {pause 10}We are! {pause 10}I guess that	means.{pause 5}.{pause 5}.{pause 5}you lose, {catchphrase}!
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Distress}
+"001"	{emote: Alarmed}¡¿Ya me has encontrado?! {pause 10}Espera.{pause 5}.{pause 5}.{pause 5}	{emote: Curious}¡Si se ha agotado el tiempo!{Wait for input}{emote: Resigned}Entonces has perdido, {Player nickname (green)}.	Se siente.
+"002"	{emote: Alarmed}¿Me has visto? {Wait for input}{emote: Worry}Pues siento darte	malas noticias, {Player nickname (green)}.{pause 5}.{pause 5}.{pause 5}	Se ha acabado el tiempo.	Lo que significa.{pause 5}.{pause 5}.{pause 5}	{emote: Showmanship}¡que la victoria es nuestra!
+"003"	{emote: Distress}¡No, no, no! {pause 10}¡No puede ser! {Wait for input}	{emote: Curious}Un momento, ¿se ha agotado	el tiempo?{Wait for input}{emote: Soft Smile}¡Menuda suerte! {pause 10}En tal caso,	me temo que has perdido,	{catchphrase}.
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Distress}
+"001"	{emote: Alarmed}Oh, {pause 15}tu m'as trouvée ! {pause 30}Mais{pause 5}.{pause 5}.{pause 5}.	{pause 15}Attends une minute{pause 5}.{pause 5}.{pause 5}.{Wait for input}{emote: Curious}Le temps est dépassé, {pause 15}la partie	était finie avant que tu ne me	trouves, non ?	{emote: Resigned}Je crains fort que dans ce cas,{pause 10} tu	sois perdant{/e}, {Player nickname (green)}.
+"002"	{emote: Alarmed}Tu m'as trouvée, dis-tu ? {Wait for input}{emote: Worry}Eh bien,{pause 15}	tu me vois désolée de te dire cela,	{Player nickname (green)}.{pause 5}.{pause 5}.{pause 5}	Mais la partie était finie avant que	tu ne me trouves.{pause 30} Ton temps était	écoulé. {pause 20}Ce qui signifie plutôt que{pause 5}.{pause 5}.{pause 5}.	{emote: Showmanship}C'est nous qui avons gagné !
+"003"	{emote: Distress}Oh non ! {pause 20}Tu m'as eue ! {pause 20}Zut alors !{Wait for input}	{emote: Curious}Hé, mais...{pause 45} Ça ne compte pas !{pause 20} Ton	temps était écoulé !	{emote: Soft Smile}Magnifique ! {pause 20}Ça veut dire que c'est	mon équipe qui a gagné !{Wait for input}{emote: Worry}{pause 10}Euh{pause 5}.{pause 5}.{pause 5}. {pause 20}Ce qui veut dire aussi que tu	as perdu, {catchphrase}...
 == 3 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Distress}
+"001"	{emote: Alarmed}Oh, {pause 5}mi hai trovato! {pause 10}Ma.{pause 5}.{pause 5}.{pause 5} aspetta	un attimo! {emote: Curious}Il tempo era già finito,	{pause 5}o sbaglio?	{emote: Resigned}Beh, in tal caso, vuol dire che	hai perso, {Player nickname (green)}!
+"002"	{emote: Alarmed}Mi hai trovato... {Wait for input}{emote: Worry}Beh, {Player nickname (green)},	mi rammarica doverti dire che.{pause 5}.{pause 5}.{pause 5}{Wait for input}... il tempo era già finito! {pause 5}{emote: Soft Smile}Questo	significa{pause 15} che abbiamo vinto noi!
+"003"	{emote: Distress}Ma no! Che disdetta! {pause 10}Mi hai trovato!{Wait for input}	{emote: Curious}Aspetta... Ma il tempo non era già	finito?	{emote: Soft Smile}Che fortuna! {pause 10}Abbiamo vinto noi!{pause 10}	Mi dispiace.{pause 5}.{pause 5}.{pause 5} ma hai perso,	{catchphrase}!
 == 4 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Distress}
+"001"	{emote: Alarmed}Oh! {pause 20}Du hast mich gefunden!{pause 40} Aber	deine Zeit ist doch schon um, {pause 8}oder?{Wait for input}{emote: Resigned}Dann hast du wohl leider verloren,{pause 8}	{Player nickname (green)}!
+"002"	{emote: Alarmed}Oh! {pause 40}Du hast mich entdeckt!{pause 20}	{emote: Worry}Aber das war wohl umsonst,{pause 8}	{Player nickname (green)}.	{emote: Sheepishness}Deine Zeit ist schon abgelaufen!{pause 40}	{emote: Showmanship}Wir haben gewonnen!
+"003"	{emote: Distress}Nein, nein, nein! {pause 20}Du hast mich	entdeckt!{pause 40} {emote: Curious}Oh! {pause 40}Aber was seh ich da?{Wait for input}{emote: Soft Smile}Welch glückliche Fügung des	Schicksals! {pause 20}Die Zeit ist abgelaufen!{pause 40}	Du hast verloren, {pause 8}{catchphrase}.

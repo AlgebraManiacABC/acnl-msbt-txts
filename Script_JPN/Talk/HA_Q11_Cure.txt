@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Surprise}
-"003"	{emote: Greetings}
-"004"	{emote: Mistaken}
-"005"	{emote: Happiness}
-"006"	{emote: Sleepy}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	サンキュー　{Player nickname (green)}
+"001"	{emote: Alarmed}お！{pause 20}	ちょっと　{ruby (charSpan 2): げんき}元気がもどってきたぞ！{Wait for input}{emote: Happiness}ありがとう　{Player nickname (green)}！{pause 40}	{ruby (charSpan 1): いえ}家の{ruby (charSpan 1): なか}中でできる　トレーニングなら、	いけそうだ、{pause 8}{catchphrase}！
+"002"	{emote: Surprise}おー！{pause 20}	なんか　{ruby (charSpan 1): あたま}頭が{ruby (charSpan 1): かる}軽くなった{ruby (charSpan 1): き}気がするぞ！{pause 40}	{emote: Glee}サンキューな、{pause 8}{Player nickname (green)}！
+"003"	{emote: Greetings}サンキュー！{pause 20}	なんか　{ruby (charSpan 1): ねつ}熱が{ruby (charSpan 1): ひ}引いた{ruby (charSpan 1): き}気がするよ！
+"004"	{emote: Mistaken}べぇー{pause 8}・{pause 8}・{pause 8}・{pause 20}	ニガイー{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}ガマンして{ruby (charSpan 1): の}飲んだんだから、{pause 20}	ちゃんと　きいてくれるよな？
+"005"	{emote: Happiness}これは{pause 8}・{pause 8}・{pause 8}・{pause 20}	ききそうだぞ、{pause 8}{catchphrase}
+"006"	{emote: Sleepy}{ruby (charSpan 1): の}飲んだら　なんか	ねむくなってきたなー{pause 40}	{emote: Happiness}{ruby (charSpan 1): め}目が{ruby (charSpan 1): さ}覚めたら　{ruby (charSpan 1): なお}治ってるかな、{pause 8}{catchphrase}
+"007"	{emote: Happiness}ありがとう{pause 20}	ちょっとだけ、{ruby (charSpan 1): らく}楽になったよ！{Wait for input}{emote: Reset}あとは　{ruby (charSpan 1): かみ}神だのみだな{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"008"	{emote: Happiness}サンキュー{pause 20}　{ruby (charSpan 1): すこ}少し{ruby (charSpan 1): らく}楽になったよ{pause 40}	カッコ{ruby (charSpan 1): わる}悪いとこ	{ruby (charSpan 1): み}見せちゃったな、{pause 8}{catchphrase}
+"009"	サンキュー　{Player nickname (green)}{pause 40}	{ruby (charSpan 1): たす}助かったよ{pause 8}・{pause 8}・{pause 8}・

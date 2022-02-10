@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{0011-0001-0002-00-00}
-"003"	{emote: Surprise}
-"004"	{emote: Curious}
-"005"	{emote: Distress}
-"006"	{0011-0001-0002-00-00}
-"007"	{emote: Resigned}
-"008"	{emote: Distress}
-"009"	{emote: Sheepishness}
-"010"	{emote: Agreement}
-"011"	{emote: Mischief}
-"012"	{emote: Sheepishness}
-"013"	{emote: Disbelief}
-"014"	{emote: Disbelief}
-"015"	{emote: Disbelief}
-"016"	{emote: Disbelief}
-"017"	{emote: Disbelief}
-"018"	{emote: Disbelief}
-"019"	{emote: Shocked}
-"020"	{emote: Aggravation}
-"021"	{emote: Shocked}
-"022"	{emote: Shocked}
-"023"	{emote: Disbelief}
-"024"	{emote: Shocked}
+"001"	{emote: Surprise}あれ？　{pause 20}まだ　{pause 5}{0011-0001-0002-0000}{0005-000d-0000}に{pause 10}	とどけてくれてないでしょ！{Wait for input}	{emote: Worry}もういいや、{pause 20}{ruby (charSpan 2): じぶん}自分でとどけるよ
+"002"	{0011-0001-0002-0000}{0005-000d-0000}に{pause 10}	{emote: Curious}とどけてくれてないの？{Wait for input}	{emote: Worry}やっぱ　{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): い}行くから、{pause 10}{ruby (charSpan 1): かえ}返してもらうね
+"003"	{emote: Surprise}あ！{pause 20}　まだ　{0011-0001-0002-0000}{0005-000d-0000}に{pause 10}	{ruby (charSpan 1): かえ}返してくれてないカンジ？！{Wait for input}	{emote: Reset}じゃあ　{pause 10}{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): い}行くわ～
+"004"	{emote: Curious}ん？{pause 20}　{0011-0001-0002-0000}{0005-000d-0000}に{pause 10}	とどけられなかった？{Wait for input}	{emote: Soft Smile}じゃあ、{pause 20}アタイが{ruby (charSpan 1): も}持っていくから　{pause 5}{ruby (charSpan 1): かえ}返して～
+"005"	{emote: Distress}ねぇねぇ、{pause 20}{0011-0001-0002-0000}{0005-000d-0000}に	とどけてくれてないでしょ！{Wait for input}	{emote: Reset}もういいから　{pause 10}{ruby (charSpan 1): かえ}返してもらうね
+"006"	{0011-0001-0002-0000}{0005-000d-0000}への　とどけもの{pause 10}	{emote: Distress}わたせなかったカンジ？！{Wait for input}	{emote: Reset}やっぱ　{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): い}行くよ、{pause 10}{catchphrase}
+"007"	{emote: Resigned}こういうのは{pause 10}	やっぱり　{pause 3}{ruby (charSpan 2): じぶん}自分でわたさないとね
+"008"	{emote: Distress}{ruby (charSpan 2): ゆうき}勇気{ruby (charSpan 1): だ}出して、{pause 10}わたしてくるよ！
+"009"	{emote: Sheepishness}やっぱ{pause 10}	{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): かえ}返さないとね、{pause 15}{catchphrase}
+"010"	{emote: Agreement}{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): かえ}返してあげなきゃな～
+"011"	{emote: Mischief}{ruby (charSpan 1): べつ}別に　{pause 10}{ruby (charSpan 2): じぶん}自分のものになんかしないよ～{pause 20}	{emote: Sheepishness}ちゃんと　{pause 10}{ruby (charSpan 1): あと}後で　わたしとくから
+"012"	{emote: Sheepishness}いそがしいとこ　{pause 5}ゴメンね～{pause 20}	{ruby (charSpan 1): あと}後で　{pause 8}とどけにいこ～っと、{pause 15}{catchphrase}
+"013"	{emote: Disbelief}あれ？！{pause 20}	{ruby (charSpan 1): あ}開けちゃったの？{pause 30}　{emote: Anger}ヒド～イ！
+"014"	{emote: Disbelief}{ruby (charSpan 1): あ}開けちゃったの？！{Wait for input}	{emote: Anger}もう　{pause 10}{ruby (charSpan 1): はや}早く{ruby (charSpan 2): なかなお}仲直りしたかったのに～！
+"015"	{emote: Disbelief}わぁ！{pause 20}	{emote: Anger}{ruby (charSpan 1): あ}開いちゃってるじゃん！{Wait for input}	{emote: Worry}せっかく　キレイに{ruby (charSpan 1): つつ}包んだのに
+"016"	{emote: Disbelief}え？！　{pause 20}{ruby (charSpan 2): かって}勝手に{ruby (charSpan 1): あ}開けたの？{pause 30}	{emote: Anger}せっかく　ラッピングしたのに～
+"017"	{emote: Disbelief}うわ～！{pause 10}	{ruby (charSpan 1): あ}開いてるじゃん！{Wait for input}	{emote: Anger}{0011-0001-0002-0000}{0005-000d-0000}のなのに～
+"018"	{emote: Disbelief}うわ！{pause 10}　これ{ruby (charSpan 1): あ}開けちゃったの？！{pause 30}	{emote: Worry}せっかく　{ruby (charSpan 2): じゅんび}準備したのに、{pause 10}{ruby (charSpan 2): だいな}台無しだよ～！
+"019"	{emote: Shocked}{ruby (charSpan 1): な}無くしたの？！{pause 20}　{emote: Worry}それ、ひどくない？{pause 20}	せっかくの　{pause 10}プレゼントだったのに！
+"020"	{emote: Aggravation}ちょっと～！	{ruby (charSpan 1): な}無くしちゃったって　どういうこと？！{Wait for input}{emote: Worry}{Player nickname (green)}{0005-000d-0000}のこと{pause 10}	{ruby (charSpan 1): しん}信じて　たのんでるんだから{pause 10}　{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けてね
+"021"	{emote: Shocked}{ruby (charSpan 1): も}持ってないって　{pause 3}どういうこと？！{Wait for input}	{emote: Distress}アタイが　{ruby (charSpan 1): か}借りたまま{pause 10}	{ruby (charSpan 1): な}無くしちゃったみたいじゃん
+"022"	{emote: Shocked}まさか　{pause 5}{ruby (charSpan 1): な}無くしたの？！{Wait for input}	{emote: Aggravation}{0011-0001-0002-0000}{0005-000d-0000}は　{ruby (charSpan 1): き}気づいてないけど{pause 15}	{emote: Outrage}アンタ、{pause 10}ちょっと　ひどすぎるよ！
+"023"	{emote: Disbelief}{ruby (charSpan 1): な}無くしちゃったの～？！{pause 30}	{emote: Distress}ヒドイよ～{Wait for input}{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sigh}もう　{pause 20}{ruby (charSpan 1): あと}後で　{ruby (charSpan 2): せつめい}説明しとかなきゃ～
+"024"	{emote: Shocked}え～～～！{pause 20}	{ruby (charSpan 1): も}持ってないって　{pause 10}どういうこと？！{Wait for input}	{emote: Worry}{0011-0001-0002-0000}{0005-000d-0000}、{pause 10}かわいそうだよ～

@@ -1,36 +1,36 @@
 == 0 ==
-"001"	{ruby (charSpan 2): こんかい}今回は　ここまでで{ruby (charSpan 1): お}終わりにしますか？	{Gray}({ruby (charSpan 1): いま}今は　セーブして{ruby (charSpan 1): つづ}続けることはできません){Color Reset}{confirmation-cd03}{000f-0005-0004-00-00-00-00}
-"002"	{ruby (charSpan 2): じゅんび}準備しています{pause 20}
-"003"		{ruby (charSpan 2): こんかい}今回は　ここまでで{ruby (charSpan 1): お}終わりにしますか？{confirmation-cd03}{000f-0006-0006-00-00-00-00-00-00}
-"004"	セーブしています{pause 20}
-"005"	{ruby (charSpan 2): きろく}記録が{ruby (charSpan 1): お}終わりました！{pause 20}
+"001"	{ruby (charSpan 2): こんかい}今回は　ここまでで{ruby (charSpan 1): お}終わりにしますか？	{Gray}({ruby (charSpan 1): いま}今は　セーブして{ruby (charSpan 1): つづ}続けることはできません){Color Reset}{confirmation-03}{000f-0005-0004-0000-0000}	セーブして{ruby (charSpan 1): お}終わる	まだ{ruby (charSpan 1): あそ}遊ぶ
+"002"	{ruby (charSpan 2): じゅんび}準備しています{pause 20}	☢{ruby (charSpan 2): でんげん}電源ボタンに	{ruby (charSpan 1): さわ}触らないでください
+"003"		{ruby (charSpan 2): こんかい}今回は　ここまでで{ruby (charSpan 1): お}終わりにしますか？{confirmation-03}{000f-0006-0006-0000-0000-0000}	セーブして{ruby (charSpan 1): お}終わる	セーブして{ruby (charSpan 1): つづ}続ける	まだ{ruby (charSpan 1): あそ}遊ぶ
+"004"	セーブしています{pause 20}	☢{ruby (charSpan 2): でんげん}電源ボタンに	{ruby (charSpan 1): さわ}触らないでください
+"005"	{ruby (charSpan 2): きろく}記録が{ruby (charSpan 1): お}終わりました！{pause 20}	また　いつでも	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てください
 "006"	セーブできませんでした。	このままゲームを{ruby (charSpan 2): しゅうりょう}終了します。
-"007"	セーブしています{pause 20}
+"007"	セーブしています{pause 20}	☢{ruby (charSpan 2): でんげん}電源ボタンに	{ruby (charSpan 1): さわ}触らないでください
 "008"	データを{ruby (charSpan 1): よ}読み{ruby (charSpan 1): こ}込めませんでした。	このままゲームを{ruby (charSpan 2): しゅうりょう}終了します。
-"009"	ゲームを{ruby (charSpan 1): はじ}始める{ruby (charSpan 2): じゅんび}準備をしています	{ruby (charSpan 2): でんげん}電源ボタンに	{ruby (charSpan 1): さわ}触らないでください
-"011"	セーブデータを　{ruby (charSpan 1): よ}読み{ruby (charSpan 1): こ}込めませんでした。	{ruby (charSpan 2): でんげん}電源を{ruby (charSpan 1): き}切って、	カードを{ruby (charSpan 1): さ}差し{ruby (charSpan 1): こ}込みなおしてください。
+"009"	ゲームを{ruby (charSpan 1): はじ}始める{ruby (charSpan 2): じゅんび}準備をしています	☢{ruby (charSpan 2): でんげん}電源ボタンに	{ruby (charSpan 1): さわ}触らないでください
+"011"	セーブデータを　{ruby (charSpan 1): よ}読み{ruby (charSpan 1): こ}込めませんでした。	☢{ruby (charSpan 2): でんげん}電源を{ruby (charSpan 1): き}切って、	カードを{ruby (charSpan 1): さ}差し{ruby (charSpan 1): こ}込みなおしてください。
 "012"	セーブデータが	{ruby (charSpan 1): こわ}壊れている{ruby (charSpan 3): かのうせい}可能性があります。	{ruby (charSpan 1): こわ}壊れたデータを{ruby (charSpan 2): しょうきょ}消去しますか？
 "013"	はい
 "014"	いいえ
-"015"	セーブデータを　{ruby (charSpan 3): しょきか}初期化しています{pause 20}
-"016"	{ruby (charSpan 2): ひっこ}引越し{ruby (charSpan 1): ちゅう}中のプレイヤーがいるので{pause 10}
+"015"	セーブデータを　{ruby (charSpan 3): しょきか}初期化しています{pause 20}	☢{ruby (charSpan 2): でんげん}電源ボタンに	{ruby (charSpan 1): さわ}触らないでください
+"016"	{ruby (charSpan 2): ひっこ}引越し{ruby (charSpan 1): ちゅう}中のプレイヤーがいるので{pause 10}	{ruby (charSpan 1): つづ}続きから　はじめます
 "017"		{ruby (charSpan 1): いま}今はまだ　セーブできないみたい・・・
 "018"		{ruby (charSpan 1): ゆめ}夢の{ruby (charSpan 1): なか}中では　セーブできないみたい・・・
 "019"		{ruby (charSpan 1): いま}今は　セーブできないみたい・・・
-"020"	{ruby (charSpan 1): ふね}船の{ruby (charSpan 1): うえ}上では	おひらきに　できないみたい・・・{0007-0008-0004-5a-00-00-00}
-"021"		どうされますか？{confirmation-cd02}{000f-0006-0006-00-00-00-00-00-00}!
-"022"	{ruby (charSpan 3): かくにんちゅう}確認中です{pause 10}
+"020"	{ruby (charSpan 1): ふね}船の{ruby (charSpan 1): うえ}上では	おひらきに　できないみたい・・・{0007-0008-0004-005a-0000}
+"021"		どうされますか？{confirmation-02}{000f-0006-0006-0000-0000-0000}	おひらきにする	いったんセーブ	やっぱやめとく
+"022"	{ruby (charSpan 3): かくにんちゅう}確認中です{pause 10}	しばらくお{ruby (charSpan 1): ま}待ちください{0007-0008-0004-003c-0000}
 "023"		おひらきに　するみたいです
 "024"		いったん　セーブしようとしています
 "025"		また{ruby (charSpan 1): あと}後で　やりなおしてみてください
 "026"		それではこれで　おひらきにします
-"027"	おでかけ{ruby (charSpan 1): さき}先では	セーブできないみたい・・・{0007-0008-0004-5a-00-00-00}
-"028"		{ruby (charSpan 1): しま}島では　セーブできないみたい・・・{0007-0008-0004-5a-00-00-00}
-"029"		{ruby (charSpan 1): しま}島では　おひらきに　できないみたい・・・{0007-0008-0004-5a-00-00-00}
-"031"	すれちがい{ruby (charSpan 2): つうしん}通信を　{ruby (charSpan 2): とうろく}登録しています{pause 20}
-"032"	セーブしています{pause 20}
+"027"	おでかけ{ruby (charSpan 1): さき}先では	セーブできないみたい・・・{0007-0008-0004-005a-0000}
+"028"		{ruby (charSpan 1): しま}島では　セーブできないみたい・・・{0007-0008-0004-005a-0000}
+"029"		{ruby (charSpan 1): しま}島では　おひらきに　できないみたい・・・{0007-0008-0004-005a-0000}
+"031"	すれちがい{ruby (charSpan 2): つうしん}通信を　{ruby (charSpan 2): とうろく}登録しています{pause 20}	☢{ruby (charSpan 2): でんげん}電源ボタンに	{ruby (charSpan 1): さわ}触らないでください
+"032"	セーブしています{pause 20}	☢{ruby (charSpan 2): でんげん}電源ボタンに	{ruby (charSpan 1): さわ}触らないでください
 "033"	セーブデータが　{ruby (charSpan 2): さいご}最後にセーブされた	ものではないので　{ruby (charSpan 1): つか}使えません。	データを　{ruby (charSpan 2): しょうきょ}消去しますか？
 "034"	{ruby (charSpan 1): すべ}全てのデータを　{ruby (charSpan 2): しょうきょ}消去します。	よろしいですか？
 "035"	{ruby (charSpan 2): しょうきょ}消去したデータは	{ruby (charSpan 1): もと}元に{ruby (charSpan 1): もど}戻すことができません。	{ruby (charSpan 2): ほんとう}本当によろしいですか？
-"037"	このセーブデータで　{ruby (charSpan 1): あそ}遊ぶには	{ruby (charSpan 2): さいしん}最新の{Blue}{ruby (charSpan 2): こうしん}更新データ{Color Reset}が{ruby (charSpan 2): ひつよう}必要です{0000-0004-0000}
-"038"	{ruby (charSpan 2): そんみん}村民や　a{ruby (charSpan 5): アミーボ}miiboのどうぶつたちと{ruby (charSpan 2): いっしょ}一緒に	{ruby (charSpan 4): しゃしんさつえい}写真撮影ができる、	{Blue}a{ruby (charSpan 4): アミーボ}miiboカメラ{Color Reset}が　{ruby (charSpan 2): ついか}追加されました！{0000-0004-0000}ơ
+"037"	このセーブデータで　{ruby (charSpan 1): あそ}遊ぶには	{ruby (charSpan 2): さいしん}最新の{Blue}{ruby (charSpan 2): こうしん}更新データ{Color Reset}が{ruby (charSpan 2): ひつよう}必要です{Wait for input}{Orange}ニンテンドーeショップ{Color Reset}で	{ruby (charSpan 2): さいしん}最新の{ruby (charSpan 2): こうしん}更新データをダウンロードして、	もう{ruby (charSpan 2): いちど}一度ゲームを{ruby (charSpan 2): きどう}起動してください
+"038"	{ruby (charSpan 2): そんみん}村民や　a{ruby (charSpan 5): アミーボ}miiboのどうぶつたちと{ruby (charSpan 2): いっしょ}一緒に	{ruby (charSpan 4): しゃしんさつえい}写真撮影ができる、	{Blue}a{ruby (charSpan 4): アミーボ}miiboカメラ{Color Reset}が　{ruby (charSpan 2): ついか}追加されました！{Wait for input}{Blue}a{ruby (charSpan 4): アミーボ}miiboカメラ{Color Reset}は　タイトルの	{ruby (charSpan 2): せんたく}選択メニューから　{ruby (charSpan 2): きどう}起動できます。	こちらもぜひ　{ruby (charSpan 1): ため}試してみてくださいね。

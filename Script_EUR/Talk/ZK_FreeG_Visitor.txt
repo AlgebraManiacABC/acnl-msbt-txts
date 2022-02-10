@@ -1,255 +1,255 @@
 == 0 ==
-"001"	{0009-0002-0008-03-00-04-00-05-00-08-00}
-"002"	{0009-0001-0006-06-00-07-00-08-00}
-"003"	So{pause 16}
-"004"	By the way,{pause 16}
-"005"	{emote: Sheepishness}
-"006"	{emote: Worry}
-"007"	How's the town?{pause 32}
-"008"	{emote: Thought}
-"009"	
-"010"	
-"011"	
-"012"	{emote: Sheepishness}
-"013"	{emote: Sheepishness}
-"014"	{emote: Agreement}
-"015"	{emote: Soft Smile}
-"016"	{emote: Sunny}
-"017"	{pause 8}
-"018"	{emote: Alarmed}
-"019"	Well,{pause 16}
-"020"	{emote: Worry}
-"021"	{emote: Sheepishness}
-"022"	{emote: Sheepishness}
-"023"	{emote: Soft Smile}
-"024"	{emote: Worry}
-"025"	By any chance,{pause 20}!
-"026"	
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	
-"032"	
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
-"048"	
-"049"	
-"050"	{emote: Sheepishness}
+"001"	{0009-0002-0008-0003-0004-0005-0008}
+"002"	{0009-0001-0006-0006-0007-0008}
+"003"	So{pause 16} {emote: Curious}how's your town in comparison	to ours?{pause 8} {capitalized}{catchphrase}?{Player can respond (0001):000c-0000-000d-0000-000e-0000}	It's a bigger city.	It's more country.	It's the same.
+"004"	By the way,{pause 16} do you know what the	special fruit in this town is?{pause 8}	{capitalized}{catchphrase}?{Player can respond (0000):000f-0015-0010-0028}	Yup, I know!	No, I don't.
+"005"	{emote: Sheepishness}Heh heh heh.{pause 16} I know why you came	to visit our town today{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Anger}You came to look for gossip about	the mayor of {Town name (pink)},{pause 16} right?	{pause 8}{capitalized}{catchphrase}?	{emote: Thought}{pause 16}{capitalized}{0005-001c-0002-cd00}, huh{pause 8}.{pause 8}.{pause 8}.{pause 8} I haven't heard	any real scandalous gossip lately.{Wait for input}{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Soft Smile}Hey, instead,{pause 16} why don't you just	interview me?{pause 32} {emote: Glare}I promise I won't	disappoint! I'm all about scandals!
+"006"	{emote: Worry}{capitalized}{Player nickname (green)},{pause 16} is everyone doing	OK{pause 8}.{pause 8}.{pause 8}.{pause 8}since I left town?{Player can respond (0005):0018-0000-0019-0028}	Um...	I'm not sure.
+"007"	How's the town?{pause 32} Has it changed	much since I left, {emote: Curious}{Player nickname (green)}?{Player can respond (0001):0016-0015-0017-0028-0019-0028}	It's changed!	It hasn't changed.	I don't know.
+"008"	{emote: Thought}{pause 16}When you're out and about{pause 8}.{pause 8}.{pause 8}.{pause 20}your	pockets get full pretty quickly,	don't they?	{emote: Agreement}If that happens,{pause 15} you can leave an	item in the locker at the station. I	do it all the time.	{emote: Soft Smile}If you leave your items in a locker	outside your town,{pause 15} you can pick 'em	up from the locker in your town.{pause 30}	{emote: Showmanship}So it's fine if you leave your stuff	here! No problem at all!{Wait for input}{emote: Anger}Oh, and if you have a closet or	other storage furniture in your	room,{pause 30} {emote: Glare}it's also connected here!
+"009"
+"010"
+"011"
+"012"	{emote: Sheepishness}Heh heh heh.{pause 16} No wonder I felt like	we had the same aura{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Thought}{pause 16}I mean, I don't exactly know how to	define whether a place is a big city	or not{pause 8}.{pause 8}.{pause 8}.	{emote: Agreement}But maybe it just means there are	more things to do and it's more	comfortable where you live?	{emote: Reset}But you know,{pause 8} {Player nickname (green)},{pause 30} just	because it's comfortable{pause 15} doesn't	mean your heart is fulfilled.	{emote: Anger}What's really important is whether	{emote: Glare}you're happy or not!
+"013"	{emote: Sheepishness}Heh heh.{pause 16} No wonder I was getting	a simple, honest vibe from you	just now!{pause 8}	{emote: Anger}Just because you live in the country	or a small town{pause 8}.{pause 8}.{pause 8}.{pause 16}{emote: Showmanship}is no reason to	be ashamed or anything!	{emote: Agreement}When your town's nice and calm,	{pause 16}it gives you more peace of mind.{Wait for input}{emote: Happiness}And a peaceful mind is truly a nice	thing to have,{pause 8} {Player nickname (green)}!
+"014"	{emote: Agreement}Yeah,{pause 16} there might be some	differences{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}But your town is probably pretty	similar to this town.{Wait for input}{emote: Anger}One thing different I can say for	sure is{pause 8}.{pause 8}.{pause 8}.{pause 30}{emote: Glare}you don't live in my town,{pause 30}	{emote: Soft Smile}right?
+"015"	{emote: Soft Smile}Oh,{pause 8} never mind then.{pause 32} I was worrying	about something I didn't have to,	{pause 8}{catchphrase}!
+"016"	{emote: Sunny}It's the {0005-001a-0002-cd00}!{pause 32} That's the	special fruit of {Town name (pink)}!{Wait for input}{emote: Soft Smile}Bring one back with you if you'd	like, and plant it in your hometown	to grow more {0005-001a-0002-cd00} trees!
+"017"	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Worry}Hey, you know you don't have to	lie to me,{pause 16} {Player nickname (green)}.{Wait for input}I know you're just saying that so I	won't worry. {emote: Glare}You're so sweet{pause 4}.{pause 4}.{pause 4}.{pause 4}
+"018"	{emote: Alarmed}Huh?{pause 16} Is that so?{pause 32} {emote: Cold Chill}Well, that kinda	makes me sad{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"019"	Well,{pause 16} I guess that means nothing's	changed then?{pause 8} {capitalized}{catchphrase}?{Wait for input}{emote: Thought}{pause 16}Even if I leave,{pause 16} the people there will	continue with their own lives{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Reset}Perhaps it's only natural.{pause 32} {emote: Worry}Even	if it's also a bit sad{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"020"	{emote: Worry}There are things we don't notice	until they're gone, right?{Wait for input}{emote: Soft Smile}I'm happy to hear everyone still	thinks about me!
+"021"	{emote: Sheepishness}What are you talking about,{pause 8}	{Player nickname (green)}?{pause 32} I'm still around!{pause 8}{Wait for input}{emote: Anger}I'll always be with you and everyone	from town!{pause 32} {emote: Love}In your hearts{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"022"	{emote: Sheepishness}Heh heh heh{pause 8}.{pause 8}.{pause 8}.{pause 8} Your face tells me	you're quite the confident one,{pause 8}	{Player nickname (green)}!	{emote: Soft Smile}I hope someday I can see how it's	changed with my own two eyes.
+"023"	{emote: Soft Smile}I'm super relieved to hear that,{pause 8}	{Player nickname (green)}!{Wait for input}{emote: Worry}I hope {Town name (pink)} continues to be{pause 16}	the same lovely town forever and	ever,{pause 8} {catchphrase}.{Wait for input}{emote: Anger}No matter how far it advances and	develops...
+"024"	{emote: Worry}{capitalized}{Player nickname (green)},{pause 16} is everyone doing OK	since I left town?{Wait for input}{emote: Sheepishness}I know it's nonsense to ask you,{pause 16} but	I'm just worried,{pause 8} {catchphrase}.{0008-000a-0010-0011-0012-0012-0013-0013-0014-0014-0015}	Everyone's doing fine	They miss you
+"025"	By any chance,{pause 20} {emote: Curious}did you leave	that one town,{pause 8} {Player nickname (green)}?{Wait for input}{emote: Thought}{pause 16}Um, what was its name again{pause 8}.{pause 8}.{pause 8}.{pause 32}?	{emote: Sheepishness}Man, I've totally forgotten.{Wait for input}{emote: Anger}But{pause 8}.{pause 8}.{pause 8}.{pause 20}one thing's for sure!{pause 32} {emote: Sunny}I'll never	forget the days we spent together!
+"026"
+"027"
+"028"
+"029"
+"030"
+"031"
+"032"
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
+"048"
+"049"
+"050"	{emote: Sheepishness}So, {Player nickname (green)},{pause 20} you're looking	more like a mayor now, huh?{pause 8}{Wait for input}How are things going in {Town name (pink)}{pause 20}	since I left?{pause 15} {emote: Curious}Is everyone doing well?{Wait for input}{emote: Soft Smile}I hope I can visit your town	sometime soon,{pause 8} {catchphrase}!
 == 1 ==
-"001"	{0009-0002-0008-03-00-04-00-05-00-08-00}
-"002"	{0009-0001-0006-06-00-07-00-08-00}
-"003"	Dime,{pause 16}
-"004"	Por cierto,{pause 16}
-"005"	{emote: Sheepishness}
-"006"	{emote: Worry}
-"007"	¿Qué tal el pueblo, {Player nickname (green)}
-"008"	{emote: Thought}
-"009"	
-"010"	
-"011"	
-"012"	{emote: Sheepishness}
-"013"	{emote: Sheepishness}
-"014"	{emote: Agreement}
-"015"	{emote: Soft Smile}
-"016"	{emote: Sunny}
-"017"	{emote: Worry}
-"018"	{emote: Alarmed}
-"019"	Ya veo.{pause 16}
-"020"	{emote: Worry}
-"021"	{emote: Sheepishness}
-"022"	{emote: Sheepishness}
-"023"	{emote: Soft Smile}
-"024"	{emote: Sheepishness}
-"025"	Oye, {Player nickname (green)}
-"026"	
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	
-"032"	
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
-"048"	
-"049"	
-"050"	{emote: Curious}
+"001"	{0009-0002-0008-0003-0004-0005-0008}
+"002"	{0009-0001-0006-0006-0007-0008}
+"003"	Dime,{pause 16} {emote: Curious}¿cómo es tu pueblo	si lo comparas con este,	{catchphrase}?{Player can respond (0001):000c-0000-000d-0000-000e-0000}	Una metrópolis	Una aldea	Más o menos igual
+"004"	Por cierto,{pause 16} ¿sabes cuál es	la fruta autóctona del pueblo,	{catchphrase}?{Player can respond (0000):000f-0015-0010-0028}	¡Por supuesto!	Ni idea
+"005"	{emote: Sheepishness}Je, je.{pause 16} ¡Ya sé por qué estás	de visita en el pueblo!{Wait for input}Vienes a ver si {0005-001c-0002-cd00} lo	está haciendo bien al frente de	la alcaldía de {capitalized}{Town name (pink)},{pause 16} ¿eh?	{emote: Thought}Pues yo no concedo entrevistas	así por las buenas.{emote: Soft Smile} {emote: Glare}¿Has hablado	ya con mi representante?
+"006"	{emote: Worry}Dime, {Player nickname (green)},{pause 16} ¿cómo va todo	en el pueblo desde que me marché?{Player can respond (0005):0018-0000-0019-0028}	Como siempre	No estoy segur{o/a}
+"007"	¿Qué tal el pueblo, {Player nickname (green)}?{pause 32} {emote: Curious}	¿Ha cambiado mucho desde	que me mudé?{Player can respond (0001):0016-0015-0017-0028-0019-0028}	¡Un montón!	Sigue igual	No sabría decirte
+"008"	{emote: Thought}Lo malo de ir de viaje es que acabas	con los bolsillos abarrotados de	objetos.{pause 10} ¡Menudo rollo!	{emote: Agreement}Si te pasa alguna vez, recuerda este	consejo de trotamundos:{pause 10} ¡usa las	taquillas de la estación!	{emote: Soft Smile}Es más, si dejas un objeto en la	taquilla de otro pueblo, podrás	recogerlo en la taquilla del tuyo.{pause 30}	{emote: Showmanship}¡Los objetos se envían de una	taquilla a otra como por arte de	magia! ¡Así sí que es cómodo viajar!	Por cierto, las taquillas también {emote: Glare}	están conectadas con los armarios	y muebles similares de tu casa.
+"009"
+"010"
+"011"
+"012"	{emote: Sheepishness}Je, je.{pause 16} Ya había notado que tienes	un aire urbanita. A mí nunca se me	escapan esas cosas.{Wait for input}{emote: Thought}Es difícil saber cuándo una ciudad	pasa a ser una metrópolis. No es	cuestión solo de tamaño.	{emote: Agreement}Lo importante es que uno pueda	hacer muchas cosas en ella,	¿no te parece?{Wait for input}{emote: Anger}¿Qué gracia tiene que una ciudad	sea muy grande si {emote: Glare}te ofrece las	mismas cosas que un pueblo?
+"013"	{emote: Sheepishness}Je, je.{pause 16} Ya me imaginaba que sería	más pequeño que este.{Wait for input}Eso sí, no hay de qué avergonzarse{pause 8}.{pause 16} {emote: Showmanship}	¡La vida en una aldea también	puede tener su aquel!	{emote: Agreement}Se tiene más tiempo para pasear,	reflexionar y disfrutar de la	naturaleza en todo su esplendor.	{emote: Happiness}¡En el fondo me das un poco	de envidia y todo,{pause 8} {Player nickname (green)}!
+"014"	{emote: Agreement}¡Qué curioso!{pause 16} La gente suele decir	que su pueblo es mucho más grande	que este para fardar un poco.{Wait for input}{emote: Reset}Me gusta que seas así de sincer{o/a}.{Wait for input}Si nuestros pueblos tienen más	o menos el mismo tamaño,{pause 30} {emote: Glare}quizá	podríamos hermanarlos,{pause 30} {emote: Soft Smile}¿no?
+"015"	{emote: Soft Smile}Ah,{pause 8} vaya.{pause 32} Pensaba que no tendrías	ni la más remota idea.{pause 8} Veo que me	equivocaba, {catchphrase}.
+"016"	{emote: Sunny}Pues toma nota: la fruta autóctona	de {capitalized}{Town name (pink)} no es otra que	{000e-0001-0000}{0005-001a-0002-cd00}.	{emote: Soft Smile}¡No olvides plantar un{o/a/} en tu pueblo	como recuerdo de tu visita!
+"017"	{emote: Worry}No hace falta que me engañes.	Seguro que lo dices para que no	me preocupe.{emote: Glare} ¡Eres muy apañad{o/a}!
+"018"	{emote: Alarmed}¿Y eso?{pause 32} {emote: Cold Chill}Será que llevas un tiempo	sin darte una vuelta por el pueblo.
+"019"	Ya veo.{pause 16} Todo sigue más o menos	igual que siempre, ¿eh?{Wait for input}{emote: Thought}Mmm, estoy seguro de que la gente	del pueblo es menos estilosa desde	que me fui.{pause 8}	{emote: Reset}{emote: Worry}Es una pena, pero era totalmente	predecible, claro.
+"020"	{emote: Worry}A veces no valoramos lo que	tenemos como se merece hasta	que lo echamos en falta.{Wait for input}{emote: Soft Smile}Por un lado me da pena, pero por	otro me alegro de que el pueblo	eche de menos mi estilo inigualable.
+"021"	{emote: Sheepishness}¿Pero qué dices,{pause 8} {Player nickname (green)}?{pause 32} ¡Si	vengo de visita cada dos por tres!{pause 8}{Wait for input}Siempre os llevaré al pueblo y	a todos vosotros {emote: Glare}en el corazón.
+"022"	{emote: Sheepishness}Vaya. Espero que el cambio haya	sido a mejor, {Player nickname (green)}.{Wait for input}{emote: Soft Smile}Ojalá pueda visitarlo algún día	y ver con mis propios ojos cómo	ha cambiado.
+"023"	{emote: Soft Smile}¡Fiu!{pause 8} No veas lo que me alegra	oírlo, {Player nickname (green)}.{Wait for input}{emote: Worry}Ojalá {capitalized}{Town name (pink)} mantenga	su encanto,{pause 8} {catchphrase}.{Wait for input}Es importante que un pueblo mire	al futuro, pero siempre sin perder	sus raíces.
+"024"	{emote: Sheepishness}Cuando me fui del pueblo,	no me quedé del todo tranquilo,{pause 8}	{catchphrase}.	{emote: Worry}Dime, {Player nickname (green)},{pause 16} ¿va todo bien por	allí desde que me marché?{0008-000a-0010-0011-0012-0012-0013-0013-0014-0014-0015}	¡Como la seda!	Te echan de menos
+"025"	Oye, {Player nickname (green)}, {emote: Curious}¿por casualidad	no te habrás mudado de aquel	pueblo?{Wait for input}{emote: Thought}{pause 16}¿Cómo se llamaba?	{emote: Sheepishness}Jo, menuda memoria tengo.{Wait for input}No te preocupes, muchach{o/a}. Se me	puede olvidar un nombre, {emote: Sunny}¡pero no	el tiempo que pasamos juntos!
+"026"
+"027"
+"028"
+"029"
+"030"
+"031"
+"032"
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
+"048"
+"049"
+"050"	{emote: Curious}¿Qué tal va todo por {capitalized}{Town name (pink)}?	Espero que todo siga igual aunque	yo no esté.{Wait for input}{emote: Sheepishness}Por cierto, {Player nickname (green)},{pause 20} me ha dicho	un pajarito que ahora eres	{el alcalde/la alcaldesa} de otro pueblo.{pause 8}{Wait for input}{emote: Soft Smile}Espero poder visitar tu nuevo	pueblo pronto,{pause 8} {catchphrase}.
 == 2 ==
-"001"	{0009-0002-0008-03-00-04-00-05-00-08-00}
-"002"	{0009-0001-0006-06-00-07-00-08-00}
-"003"	Alors,{pause 16}!
-"004"	Au fait,{pause 16}
-"005"	{emote: Sheepishness}
-"006"	{emote: Worry}
-"007"	Comment va la vie chez toi,	{Player nickname (green)}
-"008"	{emote: Thought}
-"009"	
-"010"	
-"011"	
-"012"	{emote: Sheepishness}
-"013"	{emote: Sheepishness}
-"014"	{emote: Agreement}
-"015"	Oh,{pause 8}
-"016"	{emote: Sunny}
-"017"	{pause 8}
-"018"	{emote: Alarmed}
-"019"	Ah,{pause 16}
-"020"	{emote: Worry}
-"021"	{emote: Sheepishness}
-"022"	{emote: Sheepishness}
-"023"	{emote: Soft Smile}
-"024"	{emote: Worry}
-"025"	Hmm, {pause 8}
-"026"	
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	
-"032"	
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
-"048"	
-"049"	
-"050"	Tout se passe bien à {Town name (pink)}
+"001"	{0009-0002-0008-0003-0004-0005-0008}
+"002"	{0009-0001-0006-0006-0007-0008}
+"003"	Alors,{pause 16} {emote: Curious}elle est comment ta ville,	comparée à la nôtre,{pause 8}	{catchphrase} ?{Player can respond (0001):000c-0000-000d-0000-000e-0000}	C'est plus grand.	C'est plus bucolique.	C'est kif-kif.
+"004"	Au fait,{pause 16} tu sais quel fruit est propre	à cette ville,{pause 8} {catchphrase} ?{Player can respond (0000):000f-0015-0010-0028}	Ouaip, je sais !	Non, je sais pas.
+"005"	{emote: Sheepishness}Hé hé,{pause 16} je sais pourquoi t'es venu{/e}	nous rendre visite aujourd'hui{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Anger}T'es là pour t'informer des	dernières rumeurs concernant le	maire {de /d'}{Town name (pink)},{pause 16} avoue !	{emote: Thought}Ouais, ben tu vas être déçu{/e}, {pause 16}j'ai	rien entendu de bien scandaleux sur	{0005-001c-0002-cd00} récemment{pause 8}.{pause 8}.{pause 8}.{Wait for input}{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Inspired} Hé, pourquoi tu m'interviewerais	pas moi plutôt ?{pause 16}{emote: Pride} Chuis quand même	plus intéressant, {pause 8}{catchphrase} !
+"006"	{emote: Worry}Alors, {Player nickname (green)},{pause 16} tout se passe	bien dans ta ville depuis que je suis	parti ? {pause 8}On me regrette pas trop ?{Player can respond (0005):0018-0000-0019-0000}	Comment dire...	Si, sans doute.
+"007"	Comment va la vie chez toi,	{Player nickname (green)} ?{pause 32} {emote: Curious}La ville a beaucoup	changé depuis mon départ ?{Player can respond (0001):0016-0015-0017-0028-0019-0028}	Et comment !	Pas vraiment.	Je sais pas trop.
+"008"	{emote: Thought}{pause 16}Au cours de tes déambulations, t'as	tendance à amasser plein de trucs	dans tes poches, pas vrai ?	{emote: Soft Smile}Dans ce cas,{pause 15} utilise la consigne de la	gare pour te délester un peu ! {pause 8}Moi,	je le fais tout le temps !	Et un objet déposé à la consigne	d'une autre ville peut être récupéré	dans la gare de ta ville.	{emote: Showmanship}Alors n'hésite pas à laisser ton	fourbi ici, il ne sera pas perdu !{Wait for input}{emote: Surprise}Oh, et si t'as une armoire chez toi	ou quelque chose dans le genre, tu	peux aussi y retrouver tes affaires !
+"009"
+"010"
+"011"
+"012"	{emote: Sheepishness}Hé hé, alors toi et moi on doit être	pareils. {pause 16}T'aimes la grandeur, hein ?{Wait for input}{emote: Thought}{pause 16}Mais au fond,{pause 15} comment savoir si une	ville peut être considérée comme	une grande ville{pause 8}.{pause 8}.{pause 8}.{pause 8}?	{emote: Agreement}Peut-être qu'on y trouve plus de	choses à faire, et plus de confort ?{pause 15}	{emote: Curious}C'est le cas chez toi, non ?	{emote: Reset}Mais attention,{pause 8} {Player nickname (green)},{pause 30} le	confort n'est pas une voie royale	vers le bonheur, non plus.	{emote: Pride}Bref, ce qui compte au final, c'est	d'être heureux avec ce qu'on a !{Wait for input}{Gray}(Je suis pas sûr d'avoir suivi mon	propre raisonnement mais ça a l'air	vachement profond...){Color Reset}
+"013"	{emote: Sheepishness}Ah voilà,{pause 16} je sais d'où provient cette	aura de simplicité et d'honnêteté	qui émane de toi, {Player nickname (green)}{pause 8}.{pause 8}.{pause 8}.	{emote: Agreement}C'est sans doute dû au fait que	t'habites dans une petite ville plutôt	campagnarde{pause 8}.{pause 8}.{pause 8}.{pause 16}	{emote: Surprise}Attention, y'a pas de honte à avoir,	hein ! {pause 15}{emote: Reset}J'imagine qu'on peut y	trouver des avantages.	{emote: Agreement}Par exemple, une ville ne proposant	pas beaucoup de loisirs offre aux	habitants une ambiance plus sereine.	{emote: Worry}Et crois-en mon expérience de	vedette, {Player nickname (green)} : {pause 15}la sérénité,	c'est un luxe de nos jours !
+"014"	{emote: Agreement}Ouais,{pause 16} à un ou deux détails près, ta	ville est sans doute identique à la	mienne{pause 8}.{pause 8}.{pause 8}.	{emote: Sheepishness}Mais bon, y'a quand même une	différence évidente{pause 8}.{pause 8}.{pause 8}.{pause 30} {emote: Glare}tu y habites	pas, dans ma ville !
+"015"	Oh,{pause 8} d'accord.{Wait for input}{emote: Resigned}Je pensais que j'allais t'apprendre	un truc super important, mais tant	pis, {pause 8}{catchphrase}.
+"016"	{emote: Sunny}Hé hé, {pause 8}c'est {000e-0001-0000}{0005-001a-0002-cd00} !{pause 15}	{emote: Laughter}Ça t'en bouche un coing, hein ?{pause 8}	Ha ha !	{emote: Soft Smile}Bref, si tu veux en cultiver chez toi,	tu peux en ramener un spécimen et	le planter dans ta ville !
+"017"	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Worry} Hé, t'as pas besoin de me	ménager, {Player nickname (green)}, tu sais ?{Wait for input}{emote: Sheepishness}Je me doute bien que toutes les	nanas de ta ville sont éplorées	depuis mon départ.
+"018"	{emote: Alarmed}Hein ?{pause 16} {emote: Reset}Ah, je comprends{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Worry}T'es	tellement ému{/e} que t'en perds tes	mots, {Player nickname (green)}. 
+"019"	Ah,{pause 16} rien n'a vraiment changé là-bas,	alors ?{pause 8} {capitalized}{catchphrase} ?{Wait for input}{emote: Thought}{pause 16}Oui, j'imagine que les gens ont dû	réapprendre à vivre tant bien que	mal après mon départ{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}Bah, je resterai toujours dans leur	cœur, c'est le principal.
+"020"	{emote: Worry}C'est seulement quand on perd	quelque chose qu'on réalise son	importance, pas vrai ?	{emote: Resigned}Tout le monde rêve de me revoir,	que peut-on y faire ? {pause 15}{emote: Soft Smile}C'est la vie.
+"021"	{emote: Sheepishness}Ah là là, ça me fait beaucoup de	peine d'entendre ça, {Player nickname (green)}.{Wait for input}Mais je suis toujours avec vous, en	quelque sorte, tu sais ?{Wait for input}{emote: Pride}Dans votre cœur, {pause 8}dans vos rêves !
+"022"	{emote: Sheepishness}Hé hé{pause 8}.{pause 8}.{pause 8}.{pause 8} Ton enthousiasme me fait	penser que les changements sont	plutôt positifs,{pause 8} {Player nickname (green)} !	{emote: Soft Smile}J'irai faire un tour chez toi un jour,	histoire de voir ça de mes propres	yeux.
+"023"	{emote: Soft Smile}Ah, ravi de l'apprendre, {Player nickname (green)} !{Wait for input}Il faut que cette petite ville	conserve son charme d'antan,{pause 8}	{catchphrase}.
+"024"	{emote: Worry}Sois honnête, {Player nickname (green)},{pause 16} tout le	monde est OK chez toi depuis mon	départ ?{Wait for input}{emote: Sheepishness}J'imagine que ça leur a mis un coup	au moral, non ?{pause 8} {capitalized}{catchphrase} ?{0008-000a-0010-0011-0012-0012-0013-0013-0014-0014-0015}	Ben, pas vraiment...	T'imagines même pas.
+"025"	Hmm, {pause 8}{emote: Curious}tu n'aurais pas quitté cette	ville, toi aussi, {Player nickname (green)} ?{Wait for input}{emote: Thought}{pause 16}Comment elle s'appelait, déjà{pause 8}.{pause 8}.{pause 8}.{pause 8}?{pause 32}	{emote: Sheepishness}Bah, chais plus.{Wait for input}{emote: Anger}Mais une chose est sûre{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Agreement} je	l'oublierai jamais !
+"026"
+"027"
+"028"
+"029"
+"030"
+"031"
+"032"
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
+"048"
+"049"
+"050"	Tout se passe bien à {Town name (pink)} ?{pause 20}	Pas trop déprimante, la vie sans	moi ?	{emote: Sheepishness}Mais au fait, {Player nickname (green)},{pause 20} tu serais	pas maire là-bas, désormais ?{Wait for input}{emote: Soft Smile}Faudra que j'aille y faire un tour à	l'occasion,{pause 8} {catchphrase} !
 == 3 ==
-"001"	{0009-0002-0008-03-00-04-00-05-00-08-00}
-"002"	{0009-0001-0006-06-00-07-00-08-00}
-"003"	Dimmi un po',{pause 16}
-"004"	A proposito,{pause 16}
-"005"	{emote: Sheepishness}
-"006"	{emote: Worry}
-"007"	Come va in città?{pause 32}
-"008"	{emote: Thought}
-"009"	
-"010"	
-"011"	
-"012"	{emote: Sheepishness}
-"013"	{emote: Sheepishness}
-"014"	{emote: Agreement}
-"015"	{emote: Soft Smile}
-"016"	{emote: Sunny}
-"017"	{emote: Worry}
-"018"	{emote: Alarmed}
-"019"	Beh,{pause 16}
-"020"	{emote: Worry}
-"021"	{emote: Sheepishness}
-"022"	{emote: Sheepishness}
-"023"	{emote: Soft Smile}
-"024"	{emote: Worry}
-"025"	{capitalized}
-"026"	
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	
-"032"	
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
-"048"	
-"049"	
-"050"	Come vanno le cose {000e-0010-0000}
+"001"	{0009-0002-0008-0003-0004-0005-0008}
+"002"	{0009-0001-0006-0006-0007-0008}
+"003"	Dimmi un po',{pause 16} {emote: Curious}com'è la tua città	in confronto alla nostra,	{pause 8}{catchphrase}?{Player can respond (0001):000c-0000-000d-0000-000e-0000}	È più grande.	C'è più campagna.	È uguale.
+"004"	A proposito,{pause 16} sai qual è il frutto	speciale di questa città,	{pause 8}{catchphrase}?{Player can respond (0000):000f-0015-0010-0028}	Certo!	No, non lo so.
+"005"	{emote: Sheepishness}Eh eh eh,{pause 16} io lo so perché sei venut{o/a}	nella nostra città oggi{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Anger}Sei qui in cerca di pettegolezzi	sul sindaco di {Town name (pink)}!{pause 16}	Dico bene, {pause 8}{catchphrase}?	{emote: Thought}Beh{pause 8}.{pause 8}.{pause 8}.{pause 8} ultimamente, non ho sentito	nessun gossip su {0005-001c-0002-cd00}.{Wait for input}{emote: Soft Smile}Ehi, visto che ormai sei qui,{pause 16} perché	non mi intervisti?{pause 32} {emote: Glare}Giuro che	non ti deluderò. Adoro gli scandali!
+"006"	{emote: Worry}{capitalized}{Player nickname (green)},{pause 16} come va in città	da quando me ne sono andato io?{Player can respond (0005):0018-0000-0019-0028}	Beh...	Non saprei.
+"007"	Come va in città?{pause 32} È cambiata	da quando me ne sono andato,	{emote: Curious}{Player nickname (green)}?{Player can respond (0001):0016-0015-0017-0028-0019-0028}	Sì, è cambiata!	No, per niente.	Non saprei...
+"008"	{emote: Thought}Quando sei in giro{pause 8}.{pause 8}.{pause 8}. le tasche	si riempiono piuttosto in fretta,	vero?	{emote: Agreement}Quando ti serve,{pause 15} puoi lasciare	degli oggetti negli armadietti per	il deposito bagagli della stazione!	{emote: Soft Smile}Lasciando gli oggetti negli	armadietti di un'altra città,	{pause 15}potrai ritirarli da quelli della tua.	{emote: Showmanship}Quindi, lascia pure qui quello che	vuoi! Non c'è problema!{Wait for input}{emote: Anger}Oh, gli armadietti della stazione	{pause 30}{emote: Glare}sono collegati anche agli armadi	e alle credenze di casa!
+"009"
+"010"
+"011"
+"012"	{emote: Sheepishness}Eh eh eh,{pause 16} me lo sentivo che avresti	risposto così{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Thought}{pause 16}Non sono sicurissimo di cosa	significhi vivere in una grande città,	ma{pause 8}.{pause 8}.{pause 8}.	{emote: Agreement}... forse vuol dire che ci sono	più cose da fare e la vita è più	confortevole?	{emote: Reset}Ma sai,{pause 8} {Player nickname (green)},{pause 30} dopotutto	non importa se la ciudad è grande	o piccola.	{emote: Anger}L'importante è essere felici dove	si è {emote: Glare}con quello che si ha!
+"013"	{emote: Sheepishness}Eh eh eh,{pause 16} ecco perché mi sembravi	così naturale e senza fronzoli!{Wait for input}{emote: Anger}Ma non devi vergognarti di vivere	in campagna{pause 8}.{pause 8}.{pause 8}.{pause 16} {emote: Showmanship}Non c'è niente di	strano né di sbagliato!	{emote: Agreement}Quando la città offre meno attività,	{pause 16}le occasioni per rilassarsi sono	molte di più e lo spirito ci guadagna!	{emote: Happiness}Mente sana in corpicione sano...	{pause 8}L'ho detto giusto, no, {Player nickname (green)}?
+"014"	{emote: Agreement}Ci saranno magari piccole	differenze, ma{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Reset}Immagino che fondamentalmente	le nostre città siano abbastanza	simili, no?	{emote: Anger}L'unica enorme differenza di cui	sono certo è{pause 8}.{pause 8}.{pause 8}. {emote: Glare}che tu non vivi qui,	{pause 30}{emote: Soft Smile}giusto?!
+"015"	{emote: Soft Smile}Oh,{pause 8} meglio così.{pause 32} Pensavo che non	ne avessi la minima idea,	{pause 8}{catchphrase}!
+"016"	{emote: Sunny}È {000e-0001-0000}{0005-001a-0002-cd00}!{pause 32} Questo	è il frutto speciale di {Town name (pink)}!{Wait for input}{emote: Soft Smile}Prendine uno e piantalo nella tua	città, così crescerà anche da te!
+"017"	{emote: Worry}Ehi, sai bene che non devi dirmi	bugie,{pause 16} {Player nickname (green)}.{Wait for input}Lo so che lo fai solo per non farmi	preoccupare. {emote: Glare}Sei così dolce{pause 4}.{pause 4}.{pause 4}.{pause 4}
+"018"	{emote: Alarmed}Eh?{pause 16} De verdad?{pause 32} {emote: Cold Chill}Questo mi rende	supertriste{pause 8}.{pause 8}.{pause 8}.
+"019"	Beh,{pause 16} allora immagino che non sia	cambiato nulla,{pause 8} {catchphrase}.	Giusto?{Wait for input}{emote: Thought}Anche se me ne sono andato,	{pause 16}tutti continuano la loro vita	senza problemi{pause 8}.{pause 8}.{pause 8}.	{emote: Reset}Forse è normale,{pause 32} {emote: Worry}anche se in fondo	per me è un po' triste{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"020"	{emote: Worry}Ci sono cose che non apprezziamo	finché non le perdiamo, giusto?{Wait for input}{emote: Soft Smile}Sono contento di sentire	che tutti pensano ancora a me!
+"021"	{emote: Sheepishness}Non dire così,{pause 8} {Player nickname (green)}!	{pause 32}Io sono sempre qui!{pause 8}{Wait for input}{emote: Anger}Vi sarò sempre vicino{pause 32} {emote: Glare}e resterò	per sempre nel vostro corazón{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"022"	{emote: Sheepishness}Eh eh eh{pause 8}.{pause 8}.{pause 8}.{pause 8} La tua faccia mi dice che	ne sei proprio sicur{o/a},{pause 8} {Player nickname (green)}!{Wait for input}{emote: Soft Smile}Spero di poterla vedere presto	con i miei occhi!
+"023"	{emote: Soft Smile}Oh, questo mi tranquillizza molto,{pause 8}	{Player nickname (green)}!{Wait for input}{emote: Worry}Spero che {Town name (pink)} continui a	essere sempre{pause 16} la città che è stata	finora,{pause 8} {catchphrase}.	È fantastica così com'è e io non	cambierei nemmeno una virgola!
+"024"	{emote: Worry}{capitalized}{Player nickname (green)},{pause 16} come stanno gli altri	da quando ho lasciato la città?{Wait for input}{emote: Sheepishness}Lo so che non serve a niente	chiedertelo,{pause 16} ma sono preoccupato,	{pause 8}{catchphrase}.{0008-000a-0010-0011-0012-0012-0013-0013-0014-0014-0015}	Stanno tutti bene!	Gli manchi molto...
+"025"	{capitalized}{Player nickname (green)}! Non è che, per caso,{pause 20}	{emote: Curious}anche tu non vivi più a... a...{Wait for input}{emote: Thought}Ehm, com'è che si chiamava	la città?{pause 32} {emote: Sheepishness}Oh, non mi ricordo più.{Wait for input}{emote: Anger}Ma{pause 8}.{pause 8}.{pause 8}.{pause 20} una cosa è certa!	{pause 32}{emote: Sunny}Non dimenticherò mai i giorni	passati insieme!
+"026"
+"027"
+"028"
+"029"
+"030"
+"031"
+"032"
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
+"048"
+"049"
+"050"	Come vanno le cose {000e-0010-0000} {Town name (pink)}{pause 20}	da quando sono partito?	{pause 15}{emote: Curious}Stanno tutti bene?{Wait for input}{emote: Sheepishness}Ehi, {Player nickname (green)},{pause 20} ma lo sai che ora	sembri davvero un sindaco?{Wait for input}{emote: Soft Smile}Spero di poter visitare presto	la tua città,{pause 8} {catchphrase}!
 == 4 ==
-"001"	{0009-0002-0008-03-00-04-00-05-00-08-00}
-"002"	{0009-0001-0006-06-00-07-00-08-00}
-"003"	Sag mal,{pause 20}
-"004"	Weißt du eigentlich, welche Frucht	in dieser Stadt heimisch ist,	{catchphrase}
-"005"	{emote: Sheepishness}
-"006"	{emote: Worry}
-"007"	Hat sich die Stadt verändert,	seitdem ich weggezogen bin, {emote: Curious}
-"008"	{emote: Thought}
-"009"	
-"010"	
-"011"	
-"012"	{emote: Thought}
-"013"	{emote: Anger}
-"014"	Gut möglich, dass unsere Städte	sich ziemlich ähnlich sind...{0000-0004-0000}
-"015"	{emote: Soft Smile}
-"016"	{emote: Sunny}
-"017"	{emote: Worry}
-"018"	{emote: Alarmed}
-"019"	Es hat sich also nicht viel verändert,	{catchphrase}
-"020"	{emote: Worry}
-"021"	{emote: Sheepishness}
-"022"	{emote: Sheepishness}
-"023"	{emote: Soft Smile}
-"024"	{emote: Worry}
-"025"	Wohnst du noch in unserer alten	Heimatstadt{emote: Curious}
-"026"	
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	
-"032"	
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
-"048"	
-"049"	
-"050"	Wie läuft's in {Town name (pink)}
+"001"	{0009-0002-0008-0003-0004-0005-0008}
+"002"	{0009-0001-0006-0006-0007-0008}
+"003"	Sag mal,{pause 20} {emote: Curious}wie ist eigentlich deine	Stadt im Vergleich mit unserer,	{catchphrase}?{Player can respond (0001):000c-0000-000d-0000-000e-0000}	Größer.	Ländlicher.	Ungefähr gleich.
+"004"	Weißt du eigentlich, welche Frucht	in dieser Stadt heimisch ist,	{catchphrase}?{Player can respond (0000):000f-0015-0010-0028}	Ja, weiß ich!	Keine Ahnung.
+"005"	{emote: Sheepishness}Hehehe,{pause 10} ich weiß, warum du unsere	Stadt besuchst, {catchphrase}...{Wait for input}{emote: Anger}Du bist auf der Suche nach neuen	Gerüchten über das Stadtoberhaupt	von {Town name (pink)}, stimmt's?	{emote: Thought}In letzter Zeit hab ich aber gar keine	skandalösen Gerüchte über	{0005-001c-0002-cd00} gehört{pause 8}.{pause 8}.{pause 8}.	{emote: Soft Smile}Hey, warum machst du nicht einfach	ein Interview mit mir?{pause 20} {emote: Glare}Ich werde	dich nicht enttäuschen!
+"006"	{emote: Worry}{capitalized}{Player nickname (green)},{pause 10} wie geht's denn den	ganzen Leuten, seitdem ich die	Stadt verlassen hab?{Player can respond (0005):0018-0000-0019-0028}	Äh...	Kann ich nicht sagen.
+"007"	Hat sich die Stadt verändert,	seitdem ich weggezogen bin, {emote: Curious}	{Player nickname (green)}?{Player can respond (0001):0016-0015-0017-0028-0019-0028}	Und wie!	Nicht wirklich.	Weiß ich nicht.
+"008"	{emote: Thought}Unterwegs kann einem ganz schnell	mal der Platz in den Taschen	ausgehen...	{emote: Agreement}In diesem Fall kannst du	Gegenstände im Schließfach am	Bahnhof aufbewahren!	{emote: Soft Smile}Das funktioniert unabhängig davon,	ob du dich in deiner eigenen oder	einer anderen Stadt befindest.	Die Gegenstände lassen sich dann	einfach im Schließfach in deiner	Heimatstadt wieder abholen.	{emote: Showmanship}Du kannst also ohne Bedenken	alles hierlassen!{Wait for input}{emote: Anger}Hier hast du übrigens auch Zugriff	auf alles, was du in Kleiderschränken	oder ähnlichen Möbeln aufbewahrst.
+"009"
+"010"
+"011"
+"012"	{emote: Thought}Ich weiß gar nicht genau, ob eine	größere Stadt immer besser ist als	eine kleinere...	{emote: Agreement}Vielleicht gibt es da, wo du wohnst,	einfach mehr zu tun als hier?{Wait for input}{emote: Reset}Das allein muss aber nicht unbedingt	heißen, dass deine Heimatstadt	besser ist, {Player nickname (green)}.	{emote: Anger}Das Wichtigste ist, dass man sich	da, wo man lebt, wohlfühlt!
+"013"	{emote: Anger}In einer kleineren Stadt oder auf	dem Land zu leben, muss einem	auf keinen Fall peinlich sein!	{emote: Agreement}Zumindest kann man dann leichter	zur Ruhe kommen als bei dem	hektischen Treiben einer Großstadt.	{emote: Happiness}Und ein Moment der Ruhe ist in	der heutigen Zeit schon fast ein	Luxus, stimmt's, {Player nickname (green)}?
+"014"	Gut möglich, dass unsere Städte	sich ziemlich ähnlich sind...{Wait for input}{emote: Agreement}Aber ein paar Unterschiede gibt es	bestimmt!{Wait for input}{emote: Anger}Ein wesentlicher Unterschied ist	zum Beispiel...{pause 20} {emote: Mischief}dass es in deiner	Stadt keinen {Villager's name (orange)} gibt!{pause 20}{emote: Sunny}
+"015"	{emote: Soft Smile}Du scheinst dich ja hier schon	bestens auszukennen, {catchphrase}!
+"016"	{emote: Sunny}Es ist {000e-0001-0000}{0005-001a-0002-cd00}!{pause 20} {Er/Sie/Das} ist	unsere heimische Frucht hier in	{Town name (pink)}!	{emote: Soft Smile}Willst du, dass {der/die/das} {0005-001a-0002-cd00}	auch in deiner Heimatstadt wächst?{Wait for input}Dann musst du {einen/eine/eins} mitnehmen	und in deiner Stadt einpflanzen.
+"017"	{emote: Worry}Du musst mir nichts vormachen,	{Player nickname (green)}.{Wait for input}Du sagst das bestimmt nur, damit	ich mir keine Sorgen mache.{pause 20}	{emote: Glare}Echt süß von dir...
+"018"	{emote: Alarmed}Was?{pause 20} Im Ernst?{pause 20}	{emote: Cold Chill}Das macht mich irgendwie ein	bisschen traurig...
+"019"	Es hat sich also nicht viel verändert,	{catchphrase}?{Wait for input}{emote: Thought}Auch wenn ich nicht mehr da bin,{pause 10}	geht das Leben der Leute seinen	gewohnten Gang...	{emote: Reset}Wahrscheinlich ist das ganz normal	so,{pause 10} {emote: Worry}aber es ist auch ein bisschen	traurig...
+"020"	{emote: Worry}Manche Dinge vermisst man eben	erst, wenn sie nicht mehr da sind,	stimmt's?	{emote: Soft Smile}Es freut mich jedenfalls, dass die	Leute immer noch an mich denken!
+"021"	{emote: Sheepishness}Aber dazu gibt's doch gar keinen	Grund, {Player nickname (green)}!{pause 20} Ich war doch nie	wirklich weg!	{emote: Anger}Ich werde immer in den Herzen der	Leute sein!{pause 20} {emote: Glare}Auch in deinem...
+"022"	{emote: Sheepishness}Dein Gesicht sagt mir, dass du das	ernst meinst, {Player nickname (green)}!{Wait for input}{emote: Soft Smile}Ich hoffe, ich kann irgendwann mit	eigenen Augen sehen, wie sich die	Stadt verändert hat...
+"023"	{emote: Soft Smile}Da bin ich aber erleichtert,	{Player nickname (green)}!{Wait for input}{emote: Worry}Hoffentlich bleibt {Town name (pink)} immer	die liebenswerte Stadt, als die ich	es in Erinnerung habe, {catchphrase}.
+"024"	{emote: Worry}{capitalized}{Player nickname (green)},{pause 10} wie geht's meinen	alten Nachbarn, seit ich die Stadt	verlassen habe?	{emote: Sheepishness}Das klingt vielleicht komisch, aber	ich mach mir schon ein bisschen	Sorgen, {catchphrase}.{0008-000a-0010-0011-0012-0012-0013-0013-0014-0014-0015}	Alle sind wohlauf!	Sie vermissen dich...
+"025"	Wohnst du noch in unserer alten	Heimatstadt{emote: Curious}, {Player nickname (green)}?{Wait for input}{emote: Thought}Wie hieß sie noch gleich...{pause 40} {emote: Sheepishness}Oh Mann,	das hab ich ja total vergessen.{Wait for input}{emote: Anger}Aber...{pause 20} eines werde ich niemals	vergessen!{pause 20} {emote: Sunny}Und zwar die Zeit, die	ich dort mit dir verbracht habe!
+"026"
+"027"
+"028"
+"029"
+"030"
+"031"
+"032"
+"033"
+"034"
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
+"048"
+"049"
+"050"	Wie läuft's in {Town name (pink)},{pause 10} seitdem	ich nicht mehr da bin?{pause 20} {emote: Curious}Geht es	allen gut, {Player nickname (green)}?	{emote: Sheepishness}Du siehst ja inzwischen wie {ein/eine}	{richtiger Bürgermeister/richtige Bürgermeisterin} aus!{Wait for input}{emote: Soft Smile}Hoffentlich hab ich bald mal Zeit,	dich in deiner Stadt zu besuchen,	{catchphrase}!

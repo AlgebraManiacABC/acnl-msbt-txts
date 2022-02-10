@@ -1,27 +1,27 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{Player nickname (green)}
-"003"	{emote: Worry}
-"004"	{emote: Daydreaming}
-"005"	{Player nickname (green)}
-"006"	{Player nickname (green)}
-"007"	{Player nickname (green)}
-"008"	{Player nickname (green)}
-"009"	{Player nickname (green)}
-"010"	{emote: Worry}
-"011"	このきせつ{pause 20}
-"012"	{Player nickname (green)}
-"013"	{Town name (pink)}
-"014"	さいきんは{pause 20}
-"015"	さいきんは{pause 20}
-"016"	{emote: Joy}
-"017"	{emote: Joy}
-"018"	{emote: Sigh}
-"019"	{emote: Worry}
-"020"	{emote: Glee}
-"021"	{emote: Glee}
-"022"	{emote: Glee}
-"023"	{emote: Joy}
-"024"	{emote: Resigned}
-"025"	{emote: Worry}
-"026"	そっかぁ～{pause 40}
+"001"	{emote: Happiness}ムシって	きせつを　かんじるよねぇ{Wait for input}このきせつは　やっぱり{pause 20}	{emote: Greetings}{0011-0003-0002-0000}！{Wait for input}ねぇ、{Player nickname (green)}{0005-000d-0000}{pause 40}	ボクに　{0011-0003-0002-0000}を	つかまえてきて　くれない？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"002"	{Player nickname (green)}{0005-000d-0000}って{pause 20}	{emote: Curious}どんなムシがすき～？{Wait for input}{emote: Love}ボクはねぇ～{pause 20}	{ruby (charSpan 1): いま}今は　{0011-0003-0002-0000}に	ムチュウなんだぁ～{Wait for input}ねぇ、ボクのために{pause 20}	{0011-0003-0002-0000}を	つかまえてきてくれない？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"003"	{emote: Worry}ボク　{0011-0003-0002-0000}を	つかまえようと	{ruby (charSpan 1): おも}思ってるんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sadness}ぜんぜん	つかまえられないんだぁ{Wait for input}やっぱり　ゲームセンターとは	ちがうんだねぇ～{Wait for input}{emote: Inspired}{0007-000a-0000}そうだ！{pause 20}	{Player nickname (green)}{0005-000d-0000}！{Wait for input}{emote: Happiness}ボクのかわりに	{0011-0003-0002-0000}{pause 20}	つかまえてきてよぉ{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"004"	{emote: Daydreaming}この{ruby (charSpan 1): まえ}前{pause 20}　たまたま	{ruby (charSpan 1): み}見かけた　あのコのことが{pause 20}	{ruby (charSpan 1): き}気になって{pause 8}　{ruby (charSpan 1): き}気になって{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sigh}はぁ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	ついつい　ためいきばっかり	ついちゃうよぉ～{Wait for input}{emote: Love}かっこよかったな～{pause 20}	あの　{0011-0003-0002-0000}{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}ねぇ、{Player nickname (green)}{0005-000d-0000}{pause 20}	ボクのために　{0011-0003-0002-0000}	つかまえてきてくれない～？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"005"	{Player nickname (green)}{0005-000d-0000}って、{pause 20}	{emote: Curious}ムシとり{ruby (charSpan 2): うま}上手いでしょぉ？{Wait for input}{emote: Agreement}ボク{ruby (charSpan 2): いっかい}一回でいいから{pause 20}	チョウチョのりんぷんで、	くしゃみをしてみたいんだぁ～{Wait for input}{emote: Distress}おねがい～{pause 20}	なんでもいいから　{Blue}チョウチョ{Color Reset}を	つかまえてきてよぉ、{pause 8}{catchphrase}{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"006"	{Player nickname (green)}{0005-000d-0000}って、{pause 20}	{emote: Curious}ムシとり{ruby (charSpan 2): うま}上手いでしょぉ？{Wait for input}{emote: Anger}ボク{ruby (charSpan 2): いっかい}一回でいいから{pause 20}	カブトムシと	シンケンショウブ　してみたいんだぁ！{Wait for input}{emote: Distress}おねがい～{pause 20}	なんでもいいから　{Blue}カブトムシ{Color Reset}を	つかまえてきてよぉ、{pause 8}{catchphrase}{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"007"	{Player nickname (green)}{0005-000d-0000}って、{pause 20}	{emote: Curious}ムシとり{ruby (charSpan 2): うま}上手いでしょぉ？{Wait for input}{emote: Anger}ボク　クワガタのはさみで、{pause 20}	{ruby (charSpan 1): かみ}紙が{ruby (charSpan 1): き}切れるのか	どうしても　ためしてみたいんだよぉ！{Wait for input}{emote: Distress}おねがい～{pause 20}	なんでもいいから　{Blue}クワガタ{Color Reset}を	つかまえてきてよぉ、{pause 8}{catchphrase}{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"008"	{Player nickname (green)}{0005-000d-0000}って、{pause 20}	{emote: Curious}ムシとり{ruby (charSpan 2): うま}上手いでしょぉ？{Wait for input}{emote: Agreement}ボク　つぎの{ruby (charSpan 1): ふゆ}冬は、{pause 20}	セミの{ruby (charSpan 1): な}鳴き{ruby (charSpan 1): ごえ}声を　ろく{ruby (charSpan 1): おん}音して{pause 20}	さむいときに　きこうかなって{ruby (charSpan 1): おも}思って！{Wait for input}{emote: Distress}おねがい～{pause 20}	なんでもいいから　{Blue}セミ{Color Reset}を	つかまえてきてよぉ、{pause 8}{catchphrase}{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"009"	{Player nickname (green)}{0005-000d-0000}って、{pause 20}	{emote: Curious}ムシとり{ruby (charSpan 2): うま}上手いでしょぉ？{Wait for input}{emote: Anger}ボク{pause 20}　ゆびをぐるぐるさせて、{pause 20}　	トンボの{ruby (charSpan 1): め}目を	{ruby (charSpan 1): まわ}回してみたいんだぁ～{Wait for input}{emote: Distress}おねがい～{pause 20}	なんでもいいから　{Blue}トンボ{Color Reset}を	つかまえてきてよぉ、{pause 8}{catchphrase}{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"010"	{emote: Worry}この{ruby (charSpan 1): まえ}前　にがしちゃった	{0011-0003-0002-0000}{pause 8}・{pause 8}・{pause 8}・{pause 40}	ほしくて　たまらないんだぁ～{Wait for input}{emote: Inspired}{0007-000a-0000}そうだ！{pause 20}	{Player nickname (green)}{0005-000d-0000}！{Wait for input}{emote: Happiness}ボクのかわりに	{0011-0003-0002-0000}を	つってきてよぉ、{pause 8}{catchphrase}{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"011"	このきせつ{pause 20}	{emote: Love}なんと{ruby (charSpan 1): い}言っても　{0011-0003-0002-0000}	だよねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}{Player nickname (green)}{0005-000d-0000}　おねがいだよぉ！{pause 40}	{0011-0003-0002-0000}を	つってきて～{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"012"	{Player nickname (green)}{0005-000d-0000}の　お{ruby (charSpan 1): とう}父さんって、{pause 20}	{emote: Curious}りょうしだったって　ホントぉ？{Wait for input}{emote: Disagreement}まぁ{pause 20}	ちがったっていいんだ！{Wait for input}{emote: Happiness}ボクいま　どうしても	{0011-0003-0002-0000}が	ほしいんだよぉ～{Wait for input}{emote: Distress}{Player nickname (green)}{0005-000d-0000}、{pause 20}{ruby (charSpan 2): いっしょう}一生のおねがい～{pause 40}	{0011-0003-0002-0000}を	つってきて　くれない？{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"013"	{Town name (pink)}{ruby (charSpan 1): むら}村の　{Villager's name (orange)}と、{pause 20}	{ruby (charSpan 1): みず}水の{ruby (charSpan 1): なか}中の　{0011-0003-0002-0000}で、{pause 20}	{emote: Flourish}キセキのコラボレ～ション！{Wait for input}{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	なんだか　スゴイことが	おこりそうだよねぇ～{Wait for input}{emote: Happiness}おねがい　{Player nickname (green)}{0005-000d-0000}！{pause 40}	{0011-0003-0002-0000}を	つってきて～！{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"014"	さいきんは{pause 20}　スポーツとして	つりをするのが	ハヤってるんだってねぇ～{Wait for input}{emote: Happiness}{ruby (charSpan 1): たの}楽しくって{pause 8}	けんこうにいいなんて、{pause 20}	とっても　おトクだよぉ？{Wait for input}{emote: Glee}そんで、{pause 20}	つれた　おサカナを	ボクがもらえたら{pause 20}　もっとおトク～！{Wait for input}{emote: Shyness}おねがい　{Player nickname (green)}{0005-000d-0000}{pause 40}	{Blue}{ruby (charSpan 1): かわ}川のおサカナ{Color Reset}なら　なんでもいいから、{pause 20}	つってきて　ボクにちょうだ～い{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"015"	さいきんは{pause 20}　スポーツとして	つりをするのが	ハヤってるんだってねぇ～{Wait for input}{emote: Happiness}{ruby (charSpan 1): たの}楽しくって{pause 8}	けんこうにいいなんて、{pause 20}	とっても　おトクだよぉ？{Wait for input}{emote: Glee}そんで、{pause 20}	つれた　おサカナを	ボクがもらえたら{pause 20}　もっとおトク～！{Wait for input}{emote: Shyness}おねがい　{Player nickname (green)}{0005-000d-0000}{pause 40}	{Blue}{ruby (charSpan 1): うみ}海のおサカナ{Color Reset}なら　なんでもいいから、{pause 20}	つってきて　ボクにちょうだ～い{000f-0005-0004-0015-0028}	いいよ	ムリ！
+"016"	{emote: Joy}わぁ～い！{pause 40}	ボク　{ruby (charSpan 1): たの}楽しみにまってるよぉ、{pause 8}{catchphrase}
+"017"	{emote: Joy}やったぁ～{pause 20}	がんばってね、{Player nickname (green)}{0005-000d-0000}
+"018"	{emote: Sigh}そうだよねぇ{pause 40}	わかったよぉ、{pause 8}{catchphrase}
+"019"	{emote: Worry}そっかぁ{pause 40}	ムリなおねがいして	ごめんねぇ
+"020"	{emote: Glee}やったぁ～！{pause 40}	{ruby (charSpan 1): たの}楽しみだなぁ、{pause 8}{catchphrase}
+"021"	{emote: Glee}ホント～？！{pause 40}	キミって　たよりになるねぇ
+"022"	{emote: Glee}わぁ～い！{pause 20}	ボク　まってるよぉ～
+"023"	{emote: Joy}さすが　{Player nickname (green)}{0005-000d-0000}！{pause 40}	よろしく～、{pause 8}{catchphrase}
+"024"	{emote: Resigned}そっかぁ～{pause 40}	ざんねんだよぉ～
+"025"	{emote: Worry}うぅ～～{pause 40}	{Player nickname (green)}{0005-000d-0000}のイケズぅ～
+"026"	そっかぁ～{pause 40}	{emote: Anger}それなら　ボクが{ruby (charSpan 2): じぶん}自分で	いくしかないよねぇ！{Wait for input}{emote: Pride}ボク　がんばってみるよぉ、{pause 8}{catchphrase}

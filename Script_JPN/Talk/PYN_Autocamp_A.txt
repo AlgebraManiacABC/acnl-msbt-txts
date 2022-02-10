@@ -1,17 +1,17 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{000a-0007-000c-0c-00-0c-00-0b-00-0b-00-0c-00-0c-00}
-"003"	{000a-0007-000c-0c-00-0c-00-0b-00-0b-00-0c-00-0c-00}
-"004"	
-"005"	
-"006"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"007"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"008"	
-"009"	
-"011"	{emote: Glee}
-"012"	{emote: Alarmed}
-"013"	{emote: Shocked}
-"014"	{0007-0004-0000}
-"015"	{emote: Distress}
-"016"	{emote: Shocked}
-"017"	{emote: Sunny}
+"001"	{emote: Alarmed}あっ！{pause 20}	{emote: Curious}キミ　この{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来た{ruby (charSpan 1): ひと}人？{pause 40}	{emote: Agreement}だったら　ボクと{ruby (charSpan 2): いっしょ}一緒だね！
+"002"	{000a-0007-000c-000c-000c-000b-000b-000c-000c}
+"003"	{000a-0007-000c-000c-000c-000b-000b-000c-000c}
+"004"
+"005"
+"006"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"007"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"008"
+"009"
+"011"	{emote: Glee}こんにちわ～！{pause 20}	ラッキーバニーの　{Orange}ぴょんたろう{Color Reset}だよ！{Wait for input}{emote: Reset}とは{ruby (charSpan 1): い}言っても{pause 8}　{ruby (charSpan 2): きょう}今日は	{emote: Disagreement}イースターのお{ruby (charSpan 1): まつ}祭りじゃなくて、{pause 30}	プライベートで{emote: Sunny}　{ruby (charSpan 1): き}来てるんだけどね～！
+"012"	{emote: Alarmed}あっ！{pause 12}　キミ　この{ruby (charSpan 1): むら}村の{ruby (charSpan 1): ひと}人？{pause 40}	{emote: Sunny}おジャマしてま～す！{pause 20}{emote: Reset}
+"013"	{emote: Shocked}え？{pause 20}　イースターでもないのに{pause 8}	{emote: Curious}なんで　そんな{ruby (charSpan 2): かっこう}格好してるのかって？{pause 50}	{emote: Distress}ちょ、{pause 16}ちょっと{pause 8}　なに{ruby (charSpan 1): い}言ってんのー？{pause 30}	{emote: Resigned}{ruby (charSpan 2): きょう}今日は　プライベートなんだから、{pause 16}	そっとしといて　もらえないかなぁ{pause 8}・{pause 8}・{pause 8}・
+"014"	{0007-0004-0000}{emote: Glee}{ruby (charSpan 3): めだまや}目玉焼き、{pause 16}オムレツ、{pause 16}{ruby (charSpan 2): あつや}厚焼きたまご、{pause 30}	スクランブルエッグに{pause 16}　ポーチドエッグ、{pause 30}	ポケットの{ruby (charSpan 1): なか}中には　ゆでたまご～♪{Wait <003c 0000> 'time'}	{emote: Love}たまごって　ホント{pause 16}　おいしいよね～！{pause 50}	{emote: Agreement}キャンプ{ruby (charSpan 2): りょうり}料理でも　{ruby (charSpan 2): ちょうほう}重宝するよ！{pause 20}{0007-0005-0000}
+"015"	{emote: Distress}ちょっと！{pause 30}　{ruby (charSpan 1): わる}悪いんだけど{pause 8}	{ruby (charSpan 2): せなか}背中、ジロジロ{ruby (charSpan 1): み}見ないでくれる？！{pause 40}	{emote: Disagreement}{Text size 75%}・{pause 8}・{pause 8}・{pause 8}なんも　みえるわけないって！{Text size 100%}
+"016"	{emote: Shocked}また　サボってるって？{pause 50}	{emote: Distress}ちょ、{pause 16}ちょっと{pause 8}　なに{ruby (charSpan 1): い}言ってんのー？{pause 30}	{emote: Disagreement}{ruby (charSpan 1): いま}今はプライベートだから　{ruby (charSpan 1): おど}踊ってないの！	{emote: Glee}{ruby (charSpan 3): しごとちゅう}仕事中は　いつだって{pause 8}	{ruby (charSpan 4): いっしんふらん}一心不乱に　{ruby (charSpan 1): おど}踊っているよ！{pause 40}	{emote: Resigned}{ruby (charSpan 2): ひとぎ}人聞きの{ruby (charSpan 1): わる}悪いこと{pause 8}　{ruby (charSpan 1): い}言わないでよねー！{pause 20}
+"017"	{emote: Sunny}やあ！{pause 16}	こんにちわ～！{Wait for input}{emote: Reset}イースターのお{ruby (charSpan 1): まつ}祭りのときは{pause 8}	{emote: Greetings}たまご{ruby (charSpan 1): あつ}集め　よろしく{ruby (charSpan 1): たの}頼むね～！

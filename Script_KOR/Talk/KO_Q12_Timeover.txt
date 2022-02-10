@@ -1,4 +1,4 @@
 == 0 ==
-"001"	전에 서명을 모아달라고 한 거{pause 8}
-"002"	전에 부탁한 서명 건 말인데{pause 8}
-"003"	부탁했던{pause 8}
+"001"	전에 서명을 모아달라고 한 거{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Worry}그거 마감이 다 돼서{pause 8}	제출해 버렸어	{emote: Reset}부탁해 놓고 이런 말하기 미안한데{pause 20}	이제 필요 없으니까{pause 8}	용지는 니가 처분해라!	{emote: Happiness}미안, {pause 20}{catchphrase}!
+"002"	전에 부탁한 서명 건 말인데{pause 8}・{pause 8}・{pause 8}・{Wait for input}	니가 너무 늦어서{pause 8}	그냥 제출해 버렸어!	이제 필요 없으니까{pause 8}	용지도 알아서 버려줘!{Wait for input}	{emote: Happiness}섭섭하게 생각하진 마, {pause 20}{catchphrase}!
+"003"	부탁했던{pause 8}	{0012-0001-0000}의{pause 8}	서명 말인데{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}그거 {pause 8}마감 기한이 다가와서{pause 8}	그냥 제출해 버렸어{Wait for input}{emote: Reset}이제 필요 없으니까{pause 8}	용지는 그냥 니가 버려줘!{Wait for input}	{emote: Happiness}미안, {pause 20}{catchphrase}!

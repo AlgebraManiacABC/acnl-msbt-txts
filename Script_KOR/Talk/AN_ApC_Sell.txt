@@ -1,32 +1,32 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Alarmed}
-"003"	{emote: Soft Smile}
-"004"	
-"005"	
-"006"	{emote: Alarmed}
-"007"	{000a-0000-0006-03-08-00-0b-00-ffffffcd}
-"008"	{emote: Alarmed}
-"009"	{0009-0000-0004-0a-00-0d-00}
-"010"	{emote: Worry}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Alarmed}
-"013"	{0009-0000-0004-0e-00-0f-00}
-"014"	{emote: Mistaken}
-"015"	{pause 8}
-"016"	{emote: Surprise}
-"017"	
-"018"	{000a-0000-0006-03-13-00-0d-00-ffffffcd}
-"019"	{emote: Alarmed}
-"020"	{0009-0000-0004-15-00-0d-00}
-"021"	{emote: Alarmed}
-"022"	
-"023"	
-"024"	
-"025"	
-"026"	{000a-0001-0004-1c-00-1b-00}
-"027"	{emote: Soft Smile}
-"028"	{emote: Agreement}
-"029"	{emote: Sunny}
-"030"	{emote: Anger}
-"031"	{emote: Sheepishness}
+"001"	{emote: Soft Smile}야! {pause 20}내가 아끼는 소장품인데	{0011-0003-0002-0002},	나한테 안 살래?	{emote: Alarmed}뭐야,	설마 내가 너한테	바가지 씌워서 팔겠냐?	{emote: Agreement}그냥 요즘 지출이 좀 있어서{pause 8}・{pause 8}・{pause 8}・{pause 20}	돈이 필요해졌을 뿐이야{Wait for input}{0007-000d-0000}{emote: Soft Smile}가격은 단돈 {Blue}{Number (0x9)}벨{Color Reset}!{pause 20}	정가보다 훨씬 싼 거라구{pause 40}	{emote: Curious}어때?{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	살래!	필요 없어・・・
+"002"	{emote: Alarmed}갑작스럽긴 하지만, 너 말이야!{pause 40}	{emote: Soft Smile}{0011-0003-0002-0001}	혹시 필요 없냐?	{emote: Resigned}사실은 나한테 같은 물건이	2개나 생겨서{pause 8}・{pause 8}・{pause 8}・{pause 20}	새거 하나 남거든	{0007-000d-0000}{emote: Soft Smile}가격은 {Blue}{Number (0x9)}벨{Color Reset}에 해줄게!{pause 40}	{emote: Curious}어때?{confirmation-02}{Player can respond (0005):0006-0015-0012-0028}	필요해	필요 없어
+"003"	{emote: Soft Smile}너 말야,{pause 8}	{0011-0003-0002-0001}	혹시 필요 없냐?	{emote: Agreement}방 청소하다 보니까	필요 없는 게 잔뜩 나와서	{pause 8}처분하는 중이거든!	{0007-000d-0000}{emote: Soft Smile}지금 살 거면	{Blue}{Number (0x9)}벨{Color Reset}에 줄 수도 있는데{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Curious}어때?{confirmation-02}{Player can respond (0005):0006-0015-0012-0028}	살게	됐어
+"004"
+"005"
+"006"	{emote: Alarmed}진짜? {pause 20}아싸!
+"007"	{000a-0000-0006-0803-0b00-cd00}
+"008"	{emote: Alarmed}뭐?{pause 40}	여, {pause 8}역시 너무 비싼가?{pause 40}	{emote: Curious}그럼 {Blue}{Number (0x9)}벨{Color Reset}로 내리면?{confirmation-02}{Player can respond (0005):0010-0015-0009-0000}	그럼 살래	안 산다니까!
+"009"	{0009-0000-0004-000a-000d}
+"010"	{emote: Worry}뭐, 뭐야!{pause 20}	그렇게 싫어하다니{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Alarmed}{pause 8}뭐? 가짜라구?	{emote: Distress}우왓! {pause 20}이럴 수가!{pause 20}	이, 이거 줄 테니까	소문내면 안 돼!
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Alarmed}뭐?{pause 40}	여, {pause 8}역시 비싸?{pause 40}	{emote: Curious}그럼 {Blue}{Number (0x9)}벨{Color Reset}은 어때?{confirmation-02}{Player can respond (0005):0010-0015-000d-0000}	그 정도면 사지	안 산다구!
+"013"	{0009-0000-0004-000e-000f}
+"014"	{emote: Mistaken}쳇, 실망이야!{pause 40}			{emote: Agreement}그치만 어쩔 수 없지{pause 20}	{emote: Soft Smile}다른 사람한테 팔아볼게{pause 8}	아무튼 땡큐! {pause 20}{catchphrase}!
+"015"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Mistaken}하아, 그렇구나			{emote: Agreement}아냐, {pause 8}신경 쓰지 마!{pause 20}	다른 사람한테 팔아보지 뭐!		{emote: Soft Smile}아무튼 땡큐!	{pause 20}{catchphrase}!
+"016"	{emote: Surprise}좋아!{pause 20}	거래 성립이다!
+"017"
+"018"	{000a-0000-0006-1303-0d00-cd00}
+"019"	{emote: Alarmed}뭐?{pause 40}	여, {pause 8}역시 비싼 거냐?{pause 40}	{emote: Curious}그럼 {Blue}{Number (0x9)}벨{Color Reset}은 어때?{confirmation-02}{Player can respond (0005):0010-0015-0014-0000}	그럼 살게	필요 없다니까!
+"020"	{0009-0000-0004-0015-000d}
+"021"	{emote: Alarmed}도대체 왜?!{pause 40}	아직 새거라구, {pause 20}이거!		{emote: Worry}그럼 할 수 없지!{pause 40}	{emote: Agreement}나한테는 쓸모없으니까	그냥 줄게, 가져!
+"022"
+"023"
+"024"
+"025"
+"026"	{000a-0001-0004-001c-001b}
+"027"	{emote: Soft Smile}너 성격 한번 호탕하다!{pause 20}	난 그런 여자애가 좋더라!	{pause 20}{catchphrase}!{000b-0001-0002-cd01}
+"028"	{emote: Agreement}사내 녀석한테 빚을 지다니,	쑥스럽지만{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Soft Smile} 덕분에 살았어!{pause 20}	고맙다! {pause 20}{catchphrase}!{000b-0001-0002-cd01}
+"029"	{emote: Sunny}휴우, 다행이다!{pause 40}	고마워! {pause 20}{catchphrase}!{pause 20}{emote: Soft Smile}
+"030"	{emote: Anger}혹시나 해서 말해 두는데,{pause 20}	나한테 받았다는 건	비밀로 하기다?!	{emote: Resigned}이젠 니 꺼니까 팔든지 쓰든지	맘대로 해! {pause 20}{catchphrase}!
+"031"	{emote: Sheepishness}차암～{pause 20}	너한테는 못 당하겠다!	진짜!{pause 40}{emote: Soft Smile}	{emote: Agreement}이제 니 꺼니까 팔든지 쓰든지	마음대로 해! {pause 20}{catchphrase}!

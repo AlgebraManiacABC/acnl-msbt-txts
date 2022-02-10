@@ -1,14 +1,14 @@
 == 0 ==
-"001"	
-"002"	{emote: Showmanship}
-"003"	
-"004"	あっちむいて～{0007-0009-0004-14-00-00-00}
-"005"		{0007-000a-0000}
-"006"	{emote: Mistaken}
-"007"	{emote: Sheepishness}
-"008"	{emote: Sunny}
-"009"	{emote: Sheepishness}
-"010"	ってことで！{pause 40}!
-"011"	{emote: Sadness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
+"001"
+"002"	{emote: Showmanship}{ruby (charSpan 1): こころ}心の{ruby (charSpan 2): じゅんび}準備は{pause 8}・{pause 8}・{pause 8}・{pause 20}オッケー？！		{Wait <005a 0000> 'time'}	{emote: Reset}まずは、{pause 8}	ルールの{ruby (charSpan 2): せつめい}説明だ！{pause 20}　よく　{ruby (charSpan 1): き}聞きな！		ウチが　{emote: Star Yell}{pause 15}「あっちむいて～」{pause 30}	{emote: Reset}って{ruby (charSpan 1): い}言ったら　{pause 20}を{ruby (charSpan 1): お}押して、	コレだと{ruby (charSpan 1): おも}思う　{ruby (charSpan 1): む}向きを　{ruby (charSpan 1): き}決めるんだよ！	{emote: Agreement}ウチの{ruby (charSpan 1): む}向いた　{ruby (charSpan 2): ほうこう}方向と、	アンタの　{ruby (charSpan 1): き}決めた{ruby (charSpan 1): む}向きが　{ruby (charSpan 1): おな}同じなら{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}アンタの{ruby (charSpan 1): か}勝ちだよ！	{emote: Reset}チャンスは{emote: Greetings}3{ruby (charSpan 1): かい}回！{pause 40}	{emote: Reset}{ruby (charSpan 1): うえ}上か　{ruby (charSpan 1): した}下か　{ruby (charSpan 1): みぎ}右か　{ruby (charSpan 1): ひだり}左か{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): みごと}見事　{ruby (charSpan 1): あ}当ててごらん！	{emote: Anger}そんじゃ　いくよ？！{pause 40}	せーの{pause 8}・{pause 8}・{pause 8}・{pause 20}
+"003"
+"004"	あっちむいて～{Wait <0014 0000> 'time'}
+"005"		{0007-000a-0000}{Text size 200%}ホ{pause 8}～{pause 8}イ{Text size 100%}
+"006"	{emote: Mistaken}あ～！{pause 40}	{ruby (charSpan 1): おな}同じ　{ruby (charSpan 2): ほうこう}方向、{ruby (charSpan 1): む}向いちゃった！
+"007"	{emote: Sheepishness}{ruby (charSpan 2): ざんねん}残念！　ハズレ！{pause 40}	{emote: Reset}そんじゃ　もう1{ruby (charSpan 1): かい}回！
+"008"	{emote: Sunny}ハッハッハ！{pause 20}	また　ハズレ！{pause 40}	どうした、どうした～？	{emote: Reset}そんじゃ　{ruby (charSpan 1): つぎ}次で　{ruby (charSpan 2): さいご}最後ね！{pause 40}	いっくよ～{pause 8}・{pause 8}・{pause 8}・{pause 20}
+"009"	{emote: Sheepishness}あ～　ハズレ！{pause 40}	{emote: Soft Smile}{ruby (charSpan 2): ざんねん}残念！{pause 20}　がんばった！
+"010"	ってことで！{pause 40}	{emote: Delight}おめでとー　アンタの{ruby (charSpan 1): か}勝ちだよ！{pause 60}{emote: Soft Smile}
+"011"	{emote: Sadness}あー、{ruby (charSpan 1): ま}負けた{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Worry}アンタ{pause 15}　なかなか　やるじゃん！
+"012"	{emote: Happiness}ってことで{pause 8}・{pause 8}・{pause 8}・{pause 20}	アンタの　{ruby (charSpan 1): ま}負け！{pause 40}　ごくろーさん！
+"013"	{emote: Happiness}いやー　ドキドキしたね！{pause 40}	{emote: Reset}でも{pause 8}・{pause 8}・{pause 8}・アンタの　{ruby (charSpan 1): ま}負けだよ！

@@ -1,26 +1,26 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{Player nickname (green)}
-"004"	{emote: Shyness}
-"005"	{emote: Curious}
-"006"	
-"007"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"008"	{0009-0001-0006-0e-00-0f-00-10-00}
-"009"	{000a-001a-0004-0a-00-08-00}
-"010"	{pause 8}
-"011"	{pause 8}
-"012"	{pause 8}
-"013"	{pause 8}
-"014"	{emote: Disbelief}
-"015"	{emote: Sadness}
-"016"	{emote: Disbelief}
-"017"	
-"018"	{0009-0001-0006-14-00-15-00-16-00}
-"019"	{0009-0001-0006-17-00-18-00-19-00}
-"020"	{emote: Happiness}
-"021"	{emote: Soft Smile}
-"022"	{emote: Happiness}
-"023"	{emote: Worry}
-"024"	{emote: Happiness}
-"025"	{emote: Anger}
+"001"	{emote: Happiness}{ruby (charSpan 1): だい}大ニュースだよぉ～！{pause 40}	{ruby (charSpan 1): むら}村の{ruby (charSpan 1): あたら}新しいじょうれいが	きまったんだってぇ{Wait for input}{emote: Anger}その　{ruby (charSpan 1): あたら}新しいじょうれいは、{pause 40}	{emote: Greetings}{Blue}1{ruby (charSpan 1): にち}日5{ruby (charSpan 1): しょく}食{Color Reset}だよぉ～{Wait for input}{emote: Happiness}み～んな　1{ruby (charSpan 1): にち}日5{ruby (charSpan 1): かい}回、{pause 20}	ごはんを{ruby (charSpan 1): た}食べなきゃ	いけないんだぁ、{pause 8}{catchphrase}{Player can respond (0000):0007-0000-0009-0000}	いいね！	ウソでしょ？
+"002"	{emote: Happiness}{ruby (charSpan 2): きょう}今日から4{ruby (charSpan 1): がつ}月だねぇ～{pause 40}	{Town name (pink)}{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): あたら}新しいじょうれいが	できるらしいよぉ？{Wait for input}{emote: Anger}その　{ruby (charSpan 1): あたら}新しいじょうれいは、{pause 20}	{Blue}{0005-0013-0002-0000}おいしいせんげん{Color Reset}！{Wait for input}{emote: Reset}{ruby (charSpan 1): うみ}海のむこうの　{ruby (charSpan 2): ゆうひ}夕日にむかって、{pause 40}	{emote: Star Yell}{pause 15}{0005-0013-0002-0000}{0007-000b-0000}おいし～い！{pause 40}{emote: Soft Smile}	って、{pause 20}{ruby (charSpan 2): まいにち}毎日さけぶんだぁ～！{Player can respond (0000):0007-0000-0009-0000}	{ruby (charSpan 2): たいへん}大変そう！	ウソでしょ？
+"003"	{Player nickname (green)}{0005-000d-0000}～！{pause 20}	{ruby (charSpan 2): きょう}今日から　{ruby (charSpan 1): むら}村の{ruby (charSpan 2): なまえ}名前が	{emote: Curious}かわるって{ruby (charSpan 1): し}知ってたぁ～？{Wait for input}{emote: Joy}じゃじゃあ～ん！{pause 40}	その{ruby (charSpan 1): な}名も{pause 20}　{Blue}{0005-000f-0002-0000}{ruby (charSpan 1): むら}村{Color Reset}だよぉ！{Player can respond (0000):0007-0000-0009-0000}	ホント？！	ウソでしょ？
+"004"	{emote: Shyness}いつ{ruby (charSpan 1): い}言おうかなって	{ruby (charSpan 1): おも}思ってたんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}ボクって　じつは{pause 20}	{ruby (charSpan 1): おんな}女のコなんだぁ～{Player can respond (0000):0007-0000-0008-0000}	やっぱりね！	ウソだ！
+"005"	{emote: Curious}{Player nickname (green)}{0005-000d-0000}　{ruby (charSpan 1): し}知ってる～？{pause 40}	{emote: Reset}{ruby (charSpan 2): きょう}今日から　{Blue}ベル{Color Reset}は	つかえなくなるんだぁ！{Wait for input}{emote: Anger}{ruby (charSpan 1): あたら}新しい　お{ruby (charSpan 1): かね}金のたんいは、{pause 20}	{Blue}{0005-0010-0002-0000}{Color Reset}！{Wait for input}{emote: Glee}たとえば　{0005-001a-0002-cd00}は、{pause 20}	{Blue}100{Color Reset}{Blue}{0005-0010-0002-0000}{Color Reset}で	{ruby (charSpan 1): う}売れるねぇ！{Player can respond (0000):0007-0000-0008-0000}	そうなんだ	ウソでしょ？
+"006"
+"007"	{0009-0001-0006-000b-000c-000d}
+"008"	{0009-0001-0006-000e-000f-0010}
+"009"	{000a-001a-0004-000a-0008}
+"010"	{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Worry}えぇ～{pause 20}	なんで　ウソってわかったのぉ？！{Wait for input}{emote: Mistaken}あぁ、{pause 8}そっかぁ！{pause 40}	キミが　{ruby (charSpan 2): そんちょう}村長さんなんだから、{pause 20}	だまされるわけ　ないよねぇ
+"011"	{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Joy}えへへ～{pause 20}	じつは　ウソでしたぁ～！
+"012"	{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Happiness}な～んちゃって！{pause 40}	{ruby (charSpan 1): いま}今のは　ボクが{ruby (charSpan 1): かんが}考えた	ウソでしたぁ～
+"013"	{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Worry}{Player nickname (green)}{0005-000d-0000}{pause 20}	{ruby (charSpan 1): いま}今のウソなんだぁ{Wait for input}まさか　しんじるとは	{ruby (charSpan 1): おも}思わなかったよぉ～
+"014"	{emote: Disbelief}{0007-000b-0000}わぁ～！{pause 20}	バレちゃったぁ～！
+"015"	{emote: Sadness}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	やっぱり　バレバレかぁ～
+"016"	{emote: Disbelief}{0007-000b-0000}な、{pause 20}なんでわかったのぉ？！{Wait for input}{emote: Thought}もしかして、	{Player nickname (green)}{0005-000d-0000}{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}ボクがウソつくとき、{pause 20}	かわいい　えくぼが　できるのを	{ruby (charSpan 1): し}知ってたんだねぇ？！
+"017"
+"018"	{0009-0001-0006-0014-0015-0016}
+"019"	{0009-0001-0006-0017-0018-0019}
+"020"	{emote: Happiness}エイプリルフールだから{pause 20}	ゆるしてねぇ、{pause 8}{catchphrase}
+"021"	{emote: Soft Smile}キミって　とっても	ピュア　なんだねぇ、{pause 8}{catchphrase}
+"022"	{emote: Happiness}ビックリさせちゃって	ごめんねぇ、{pause 8}{catchphrase}
+"023"	{emote: Worry}{Player nickname (green)}{0005-000d-0000}{pause 20}	ウソついちゃって	ごめんよぉ～{Wait for input}{emote: Happiness}でも{pause 20}　エイプリルフールだから	ゆるしてねぇ、{pause 8}{catchphrase}
+"024"	{emote: Happiness}また　べつのウソを	{ruby (charSpan 1): かんが}考えておくよぉ、{pause 8}{catchphrase}
+"025"	{emote: Anger}つぎこそ{pause 20}　キミを	ビックリさせるウソを	{ruby (charSpan 1): かんが}考えるんだぁ、{pause 8}{catchphrase}

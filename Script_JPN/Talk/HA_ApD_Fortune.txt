@@ -1,15 +1,15 @@
 == 0 ==
-"001"	{emote: Bashful}
-"002"	{emote: Bashful}
-"003"	{emote: Happiness}
-"004"	{emote: Greetings}
-"005"	{emote: Anger}
-"006"	{emote: Anger}
-"007"	{emote: Happiness}
-"008"	あのさー{pause 20}
-"009"	{emote: Happiness}
-"010"	
-"011"	{0009-0001-0006-0c-00-0d-00-0e-00}
-"012"	なんだか　{ruby (charSpan 2): きょう}今日は{pause 20}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
+"001"	{emote: Bashful}あ、{pause 20}あ、{pause 20}あのさー？{pause 20}	オ、{pause 20}オ、{pause 20}オマエ{pause 20}	{ruby (charSpan 2): きょう}今日の{ruby (charSpan 1): ふく}服{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Star Yell}{pause 15}{0007-000b-0000}にあってると{ruby (charSpan 1): おも}思うぞー！{Wait for input}{emote: Distress}{0007-000b-0000}うぉーーっ！{pause 20}	{ruby (charSpan 1): なに}何{ruby (charSpan 1): い}言ってんだ　オイラ！{pause 20}	{ruby (charSpan 1): き}聞かなかったことにしてくれー！
+"002"	{emote: Bashful}な！{pause 20}　なに{ruby (charSpan 1): み}見てんだよー！{pause 20}	オイラに　{ruby (charSpan 1): き}気でもあるのかー？{Wait for input}{emote: Disbelief}{0007-000b-0000}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Distress}だから　そんなに	こっち　{ruby (charSpan 1): み}見るなよー！
+"003"	{emote: Happiness}オマエ{pause 20}　{ruby (charSpan 2): きょう}今日は　なんだか	いつもと　ふんいきが　ちがうな！{Wait for input}{emote: Bashful}なんつーか{pause 20}　{ruby (charSpan 1): おんな}女らしいっていうか、{pause 20}	カワイイっていうか{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Shocked}{0007-000b-0000}うわっ！{pause 20}	オイラ　{ruby (charSpan 1): なに}何{ruby (charSpan 1): い}言ってんだ？！{pause 40}	{emote: Distress}{0007-000b-0000}わすれろ{pause 20}　{0007-000b-0000}わすれろー！
+"004"	{emote: Greetings}オーッス！　{Player nickname (green)}！{pause 40}	{emote: Happiness}オマエも{ruby (charSpan 2): さいきん}最近は　なかなかいい{ruby (charSpan 1): おとこ}男に	なったなー！{Wait for input}{emote: Agreement}うん　うん！{pause 40}	トレーニングの	{ruby (charSpan 2): せいか}成果が{ruby (charSpan 1): で}出たんだなー！{Wait for input}{emote: Sunny}{ruby (charSpan 2): きょう}今日は　ホメたい	{ruby (charSpan 2): きぶん}気分だったから、{pause 20}	ホメてやるぞ、{pause 8}{catchphrase}
+"005"	{emote: Anger}とつぜんだけどな、{pause 20}	オマエのことは　えいえんの	ライバルだと{ruby (charSpan 1): おも}思ってるんだ！{Wait for input}{emote: Sunny}おたがいを　シゲキしながら	{ruby (charSpan 2): せいちょう}成長していく　パートナーだ！{Wait for input}{emote: Happiness}これからも　よろしくな！
+"006"	{emote: Anger}{Player nickname (green)}ー！{pause 20}	イケメンって、{ruby (charSpan 1): み}見た{ruby (charSpan 1): め}目だけじゃ	ないんだぞ？{Wait for input}{emote: Greetings}{ruby (charSpan 2): たいせつ}大切なのは　インナーマッスル！{pause 20}	{ruby (charSpan 2): そとがわ}外側からは　{ruby (charSpan 1): み}見えないキンニク{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Greetings}すなわち！{pause 40}	それは　{ruby (charSpan 1): つよ}強い{ruby (charSpan 1): こころ}心だ！{Wait for input}{emote: Sunny}オマエは　それを{ruby (charSpan 1): も}持ってるぞ！{pause 40}	だからオイラは	オマエを　{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってるんだー
+"007"	{emote: Happiness}{Player nickname (green)}！{pause 8}	コレ　{ruby (charSpan 1): さ}差し{ruby (charSpan 1): い}入れだー{pause 20}	ありがたく　{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取っとけー！
+"008"	あのさー{pause 20}	{Player nickname (green)}{Wait for input}オマエの{ruby (charSpan 2): なまえ}名前で　{ruby (charSpan 2): かって}勝手に	けんしょうに　おうぼしたら、{pause 20}	コレ　{ruby (charSpan 1): あ}当たったんだ！{Wait for input}{emote: Sunny}オマエの{ruby (charSpan 1): うん}運って	スゴイんだなー{Wait for input}	{emote: Agreement}コレは　オマエにやるよー
+"009"	{emote: Happiness}コレ{pause 20}　オマエが	ほしがるんじゃないかと{ruby (charSpan 1): おも}思って、	{ruby (charSpan 1): か}買っておいたよ、{pause 8}{catchphrase}{Wait for input}{emote: Greetings}{ruby (charSpan 1): なに}何も{ruby (charSpan 1): い}言わずに	{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取っておけー！
+"010"
+"011"	{0009-0001-0006-000c-000d-000e}
+"012"	なんだか　{ruby (charSpan 2): きょう}今日は{pause 20}	オマエに　プレゼントが	したかったんだ、{pause 8}{catchphrase}
+"013"	{emote: Happiness}{ruby (charSpan 2): みかえ}見返りなんて　{ruby (charSpan 2): きたい}期待してないからなー！{pause 20}	いや、ホントに、{pause 8}{catchphrase}！
+"014"	{emote: Happiness}なんか　オイラも　プレゼントできて	スッキリしたぞー、{pause 8}{catchphrase}

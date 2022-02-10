@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	じゃ～ん{pause 20}
-"004"	{0007-000b-0000}
-"005"	{0007-000b-0000}
-"006"	{0007-000b-0000}
-"007"	{emote: Mistaken}
-"008"	{emote: Sheepishness}
-"009"	{emote: Laughter}
-"010"	
-"011"	{emote: Soft Smile}
-"012"	{emote: Soft Smile}
+"001"	{emote: Happiness}{ruby (charSpan 2): しょうぶ}勝負は　{Blue}1{ruby (charSpan 1): かい}回{Color Reset}きりなので{pause 10}	お{ruby (charSpan 1): き}気をつけください！{pause 20}	{emote: Soft Smile}あいこが{ruby (charSpan 1): で}出たら　やり{ruby (charSpan 1): なお}直しです	{emote: Happiness}では{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"002"	{emote: Happiness}よろしいですか？{pause 30}	{ruby (charSpan 1): さき}先に　{pause 10}{Blue}{Number (0x6)}{ruby (charSpan 1): かい}回{Color Reset}{ruby (charSpan 1): か}勝った{ruby (charSpan 1): ほう}方が　{ruby (charSpan 2): しょうしゃ}勝者です{Wait for input}	では{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"003"	じゃ～ん{pause 20}　け～ん{pause 8}・{pause 8}・{pause 8}・{000f-0001-0006-0000-0000-0000}	グー	チョキ	パー
+"004"	{0007-000b-0000}グー！
+"005"	{0007-000b-0000}チョキ！
+"006"	{0007-000b-0000}パー！
+"007"	{emote: Mistaken}まぁ！　{pause 20}そんな！
+"008"	{emote: Sheepishness}あいこでしたね{pause 20}	では　もう1{ruby (charSpan 1): かい}回ですよ！
+"009"	{emote: Laughter}うふふ！　{pause 20}{emote: Glee}やりました！
+"010"
+"011"	{emote: Soft Smile}ということで{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Delight}あなたの{ruby (charSpan 1): か}勝ちです{pause 20}	さすがですね！
+"012"	{emote: Soft Smile}ということは{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}わたしの{ruby (charSpan 1): か}勝ちですね、{pause 15}{catchphrase}！

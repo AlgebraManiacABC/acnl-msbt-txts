@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Greetings}
-"003"	{emote: Alarmed}
-"004"	{emote: Sunny}
-"005"	{emote: Alarmed}
-"006"	{emote: Greetings}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Greetings}
-"010"	{emote: Alarmed}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
+"001"	{emote: Greetings}おっ！{pause 20}	{ruby (charSpan 1): はや}早いね、{Player nickname (green)}！{pause 40}	{ruby (charSpan 2): きょう}今日も　{ruby (charSpan 2): きあ}気合い{ruby (charSpan 1): い}入れてくよ！　{pause 20}{catchphrase}！
+"002"	{emote: Greetings}{Greeting begin}おはよう、{Player nickname (green)}！{Greeting end}{Wait for input}{emote: Reset}アンタに{ruby (charSpan 1): ま}負けないように	ムリヤリ{ruby (charSpan 1): お}起きたっつーの！{pause 40}	{emote: Sleepy}ふわぁ～{pause 8}・{pause 8}・{pause 8}・{pause 20}ねむっ
+"003"	{emote: Alarmed}おっ、{Player nickname (green)}！{pause 40}	{emote: Soft Smile}{ruby (charSpan 1): あさ}朝から　{ruby (charSpan 2): きあ}気合い{ruby (charSpan 1): はい}入ってんじゃん！	{pause 20}{catchphrase}！
+"004"	{emote: Sunny}あっ、{Player nickname (green)}！{pause 40}	オーッス！　{pause 20}{catchphrase}！
+"005"	{emote: Alarmed}おっ、{Player nickname (green)}じゃん！	{pause 20}{catchphrase}！
+"006"	{emote: Greetings}あ、{Player nickname (green)}！{pause 40}	どーもー！　{pause 20}{catchphrase}！
+"007"	{emote: Alarmed}あ、{Player nickname (green)}！{pause 40}	{emote: Soft Smile}へへ{pause 8}・{pause 8}・{pause 8}・{pause 20}ボヤっとしてたら	もう　{ruby (charSpan 2): ゆうがた}夕方になっちゃったよ、{pause 20}{catchphrase}
+"008"	{emote: Alarmed}あれ、{Player nickname (green)}じゃん！{pause 40}	まだ　がんばってるんだね！	{emote: Soft Smile}{pause 20}{catchphrase}！
+"009"	{emote: Greetings}{Greeting begin}{Player nickname (green)}、{pause 20}こんばんは！{Greeting end}	{pause 20}{catchphrase}！
+"010"	{emote: Alarmed}あ？！　{pause 20}{Player nickname (green)}？！{pause 40}	もう、{Hour}{ruby (charSpan 1): じ}時だっつーのに{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Soft Smile}{ruby (charSpan 2): きあ}気合い　{ruby (charSpan 1): はい}入ってんね！　{pause 20}{catchphrase}！
+"011"	{emote: Alarmed}わっ！{pause 20}　{Player nickname (green)}？{pause 40}	{emote: Sheepishness}こんな{ruby (charSpan 2): じかん}時間に　ウロウロするなんて{pause 8}・{pause 8}・{pause 8}・{pause 20}	アンタも　{ruby (charSpan 2): ものず}物好きだねー、{pause 20}{catchphrase}
+"012"	{emote: Alarmed}{Player nickname (green)}ー？！{pause 40}	{emote: Reset}アンタ{pause 8}・{pause 8}・{pause 8}・{pause 10}こんな{ruby (charSpan 2): よなか}夜中に	{ruby (charSpan 1): なに}何してんのさ、{pause 20}{catchphrase}

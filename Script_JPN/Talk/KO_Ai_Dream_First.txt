@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Anger}
-"004"	{emote: Alarmed}
-"005"	{emote: Surprise}
+"001"	{emote: Greetings}よう！{pause 15}	{emote: Reset}{ruby (charSpan 1): み}見かけねぇ{ruby (charSpan 1): かお}顔だが{pause 8}	よその{ruby (charSpan 1): むら}村から　{emote: Soft Smile}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たのかい？	{emote: Thought}いや、{pause 8}ちょっと{ruby (charSpan 2): ようす}様子が{ruby (charSpan 1): ちが}違うな{pause 8}・{pause 8}・{pause 8}・{pause 15}	{emote: Surprise}はは～ん、{pause 8}ひょっとすると{pause 8}	{emote: Agreement}こりゃ　{ruby (charSpan 1): ゆめ}夢の{ruby (charSpan 1): なか}中だな{pause 8}・{pause 8}・{pause 8}・	{emote: Happiness}ま、{pause 8}どっちにしても{pause 8}	{Town name (pink)}{ruby (charSpan 1): むら}村へ　よく{ruby (charSpan 1): き}来たな！{pause 20}	{catchphrase}！
+"002"	{emote: Alarmed}おっ！{pause 8}　よその{ruby (charSpan 1): むら}村のヤツだな？{Wait for input}	{emote: Curious}{Town name (pink)}{ruby (charSpan 1): むら}村？{pause 20}	{emote: Reset}ふーん、{pause 8}{ruby (charSpan 1): き}聞いたことねぇなぁ	{emote: Happiness}ま、いいや！{pause 15}	よく{ruby (charSpan 1): き}来たな、{pause 8}{ruby (charSpan 2): かんげい}歓迎するぜ！{pause 20}	{catchphrase}！
+"003"	{emote: Anger}ん？{pause 30}	{emote: Reset}{ruby (charSpan 1): み}見ねぇ{ruby (charSpan 1): かお}顔だが{pause 8}　オメェ　{ruby (charSpan 2): きゃくじん}客人だな？！{pause 20}	{emote: Happiness}ま、{pause 8}ゆっくり　してってくれ！{pause 20}　{catchphrase}！
+"004"	{emote: Alarmed}ん？{pause 15}　{ruby (charSpan 1): み}見かけねぇ{ruby (charSpan 1): かお}顔だな？{pause 20}	{emote: Soft Smile}よその{ruby (charSpan 1): むら}村から　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たのかい？{Wait for input}{emote: Surprise}あっ！{pause 8}　これってアレだな？！{pause 8}	{emote: Glare}{ruby (charSpan 1): ゆめ}夢の{ruby (charSpan 1): なか}中ってヤツだろ？！{Wait for input}{emote: Happiness}ま、{pause 8}とにかく　よく{ruby (charSpan 1): き}来たな！{pause 20}	{ruby (charSpan 2): かんげい}歓迎するぜ！{pause 20}　{catchphrase}！
+"005"	{emote: Surprise}あ、{pause 8}よそから{ruby (charSpan 1): き}来たんだろ？{pause 20}	{emote: Happiness}まあ、エンリョせずに{pause 8}	ゆっくり　してってくれよ！{pause 20}　{catchphrase}！

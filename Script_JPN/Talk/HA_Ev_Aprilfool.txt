@@ -1,68 +1,68 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	
-"003"	
-"004"	{emote: Alarmed}
-"005"	{emote: Shocked}
-"006"	{emote: Curious}
-"007"	{emote: Thought}
-"008"	
-"009"	
-"010"	{emote: Alarmed}
-"011"	{emote: Shocked}
-"012"	{emote: Worry}
-"013"	{emote: Happiness}
-"014"	{emote: Thought}
-"015"	{emote: Sigh}
-"016"	{emote: Anger}
-"017"	
-"018"	
-"019"	{emote: Distress}
-"020"	{emote: Pride}
-"021"	
-"022"	{emote: Anger}
-"023"	
-"024"	{emote: Greetings}
-"025"	
-"026"	
-"027"	{emote: Mischief}
-"028"	{emote: Thought}
-"029"	
-"030"	
-"031"	
-"032"	
-"033"	{emote: Worry}
-"034"	{emote: Thought}
-"035"	{emote: Happiness}
-"036"	{emote: Happiness}
-"037"	{emote: Anger}
-"038"	{emote: Anger}
-"039"	
-"040"	
-"041"	{emote: Shocked}
-"042"	{emote: Shocked}
-"043"	{emote: Shocked}
-"044"	{ruby (charSpan 1): たと}例えば{pause 8}
-"045"	そうだなー{pause 8}
-"046"	{emote: Agreement}
-"047"	{emote: Inspired}
-"048"	{emote: Reset}
-"049"	{emote: Agreement}
-"050"	なんか　{0011-0001-0002-00-00}
-"051"	{0011-0001-0002-00-00}
-"052"	{emote: Agreement}
-"053"	{emote: Anger}
-"054"	{emote: Happiness}
-"055"	{0011-0001-0002-00-00}
-"056"	{emote: Anger}
-"057"	なんだってさ！{pause 40}
-"058"	{ruby (charSpan 1): じつ}実は{pause 8}
-"059"	{emote: Reset}
-"060"	{0011-0001-0002-00-00}
-"061"	
-"062"	{emote: Distress}
-"063"	{emote: Thought}
-"064"	{emote: Pride}
-"065"	{emote: Happiness}
-"066"	{emote: Anger}
-"067"	{emote: Greetings}
+"001"	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): ま}待ちに{ruby (charSpan 1): ま}待った	エイプリルフールの{ruby (charSpan 1): ひ}日だー！{Wait for input}{emote: Pride}よーっし！{pause 20}	ハイレベルなウソを	たくさん　{ruby (charSpan 1): かんが}考えてやるー！
+"002"
+"003"
+"004"	{emote: Alarmed}ん？！{pause 20}	{ruby (charSpan 1): なに}何かあったのか　{Player nickname (green)}？{000f-0005-0004-0015-0028}	たいへんだ！	なんでもない
+"005"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 40}	{0011-0001-0002-0000}の	ニセモノが　あらわれたー？！{Wait for input}{emote: Aggravation}よーーっし！{pause 20}	オイラが{pause 8}　{Villager's name (orange)}パンチで	こらしめてやるー！{Wait for input}{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 20}って、{pause 40}	{emote: Mistaken}オマエ{pause 8}　ウソうまいなー！{Wait for input}{emote: Resigned}もうちょっとで、	だまされるところだったぞー
+"006"	{emote: Curious}なんでもない？{pause 40}	{emote: Anger}さては{pause 8}・{pause 8}・{pause 8}・{pause 20}	それも　ウソだな？！{Wait for input}{emote: Distress}うぉーーっ！{pause 20}	もう　わけがわかんなく	なってきたぞー！
+"007"	{emote: Thought}{ruby (charSpan 2): きょう}今日は{pause 20}　スゲーことが	{ruby (charSpan 1): お}起きる{ruby (charSpan 1): き}気がする{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Agreement}オマエ{pause 20}　{ruby (charSpan 1): き}気をぬくなよー？！
+"008"
+"009"
+"010"	{emote: Alarmed}どうした　{Player nickname (green)}？{pause 20}	{ruby (charSpan 1): なに}何か　じけんかー？！{000f-0005-0004-0015-0028}	たいへんだ！	なんでもない
+"011"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 40}	{0011-0001-0002-0000}が	{ruby (charSpan 2): ふたり}二人いる？！
+"012"	{emote: Worry}ちぇーーっ！{pause 20}	{ruby (charSpan 2): おもしろ}面白いことは	オイラに　{ruby (charSpan 1): おし}教えてくれよー
+"013"	{emote: Happiness}さっきは　サンキュー！{pause 20}	{Player nickname (green)}！{Wait for input}{emote: Bashful}やっぱり　オイラとオマエは{pause 20}	{ruby (charSpan 1): あつ}熱い{ruby (charSpan 2): ゆうじょう}友情で　{ruby (charSpan 1): むす}結ばれてたんだな！
+"014"	{emote: Thought}アイツのへんそうは	たしかに　すごかったけど、{Wait for input}{emote: Pride}オイラの	モリモリなキンニクまでは、{pause 20}	マネできてなかったぞ！
+"015"	{emote: Sigh}ニセモノなんて　ビックリだよなー{pause 40}	オマエがいなかったら	どうなっていたか{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sunny}{Player nickname (green)}！{pause 20}	マジ　サンキューな！
+"016"	{emote: Anger}オイラと　あのニセモノ、{pause 20}	どっちが　{ruby (charSpan 1): つよ}強かったかな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Resigned}せっかくだから{pause 20}　{ruby (charSpan 2): しょうぶ}勝負しておけば	よかったよ、{pause 8}{catchphrase}
+"017"
+"018"
+"019"	{emote: Distress}{ruby (charSpan 2): いったい}一体{pause 8}　{0011-0001-0002-0000}の{ruby (charSpan 1): いえ}家で、{pause 20}	{ruby (charSpan 1): なに}何が　{ruby (charSpan 1): お}起こってるんだー？！{Wait for input}{Player nickname (green)}ー！{pause 20}	あとで、{ruby (charSpan 2): ようす}様子を{ruby (charSpan 1): み}見に{ruby (charSpan 1): い}行ってみろよ
+"020"	{emote: Pride}まったく、{pause 20}	オイラのニセモノなんて	ゆるせないなー！{Wait for input}{emote: Surprise}あ、{pause 20}でも{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Bashful}マネされるってことは、{pause 20}	オイラ　{ruby (charSpan 3): ゆうめいじん}有名人ってことかー？
+"021"
+"022"	{emote: Anger}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): なに}何があっても	おかしくないからな！{pause 20}	ゆだんするなよー？！
+"023"
+"024"	{emote: Greetings}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): ねん}年に{ruby (charSpan 2): いちど}一度の	エイプリルフール！{Wait for input}{emote: Glare}へへっ！{pause 20}	あのウソも{pause 8}　このウソも{pause 8}	{ruby (charSpan 1): ため}試してみるんだー！
+"025"
+"026"
+"027"	{emote: Mischief}へへっ！{pause 20}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): いろ}色んなウソをついて、	みんなに　いたずらするんだー！
+"028"	{emote: Thought}{ruby (charSpan 2): きょう}今日は　みんな{pause 20}	だまされないように	みがまえてるのに、{Wait for input}{emote: Laughter}やっぱり	だまされちゃうんだよな！{pause 20}	ハハッ！{pause 40}{emote: Happiness}
+"029"
+"030"
+"031"
+"032"
+"033"	{emote: Worry}うーーん{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Inspired}{0007-000b-0000}そうだ！{Wait for input}{emote: Happiness}{0011-0001-0002-0000}のたんじょう{ruby (charSpan 1): び}日は	{0004-000e-0002-cd00}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日だぞー！{Wait for input}{emote: Sunny}へへっ！{pause 20}	これで　ニセモノが	わかったも{ruby (charSpan 2): どうぜん}同然だな！
+"034"	{emote: Thought}うーん{pause 20}　{ruby (charSpan 1): なに}何かヒントに	なりそうなこと{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}そういえば{pause 20}　{0011-0001-0002-0000}って{pause 20}	いつも　こんなこと	{ruby (charSpan 1): い}言ってなかったっけ？
+"035"	{emote: Happiness}もしかしたら{pause 20}　この{ruby (charSpan 2): ことば}言葉が	ヒントになるかもな！{Wait for input}{emote: Laughter}まぁ、{pause 20}あとは	{ruby (charSpan 2): きあ}気合いで{ruby (charSpan 1): あ}当てるんだー！{pause 40}	ハハッ！{pause 40}{emote: Happiness}
+"036"	{emote: Happiness}そりゃー　{ruby (charSpan 2): おもしろ}面白そう！{pause 20}	{emote: Disagreement}じゃなくて{pause 20}　{emote: Anger}{ruby (charSpan 2): たいへん}大変そうだな！{Wait for input}{emote: Thought}{ruby (charSpan 1): なに}何かヒントに	なりそうなこと{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}おー！{pause 40}	そういえば！{Wait for input}{emote: Happiness}{0011-0001-0002-0000}って	{0012-0018-0002-cd00}が	{ruby (charSpan 2): とくい}得意らしいぞ、{pause 8}{catchphrase}
+"037"	{emote: Anger}そういうときは、{pause 20}	ニセモノが	{ruby (charSpan 1): し}知らなそうなことを{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}おー！{pause 40}	そういえば！{Wait for input}{0011-0001-0002-0000}は{pause 20}	{0012-0016-0002-cd00}だって	{ruby (charSpan 1): い}言ってたぞー！{Wait for input}{emote: Pride}{0012-0016-0002-cd00}じゃない{ruby (charSpan 1): ほう}方が	ニセモノ！{pause 40}	コレで　{ruby (charSpan 1): き}決まりだな！
+"038"	{emote: Anger}こういうときは、{pause 20}	{ruby (charSpan 1): あつ}熱い{ruby (charSpan 1): おも}思いを　たしかめるんだー！{Wait for input}アイツの　しょうらいのユメは	{0012-0017-0002-cd00}だから{Wait for input}{emote: Pride}そういう{ruby (charSpan 1): め}目をしてる{ruby (charSpan 1): ほう}方が、{pause 20}	{ruby (charSpan 2): ほんもの}本物の　{0011-0001-0002-0000}だ！
+"039"
+"040"
+"041"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 40}	{0011-0001-0002-0000}のニセモノが　あらわれた？！{Wait for input}{emote: Thought}さては{pause 8}・{pause 8}・{pause 8}・{pause 20}	さっき　オイラに{ruby (charSpan 1): ば}化けてた	アイツが　また　いたずらしてるんだな？{Wait for input}{emote: Anger}{Player name}！　{pause 8}{catchphrase}！{Wait for input}	オイラんときみたいに、{pause 20}	どかーんと{ruby (charSpan 2): いっぱつ}一発　{ruby (charSpan 1): あ}当ててやれよ！
+"042"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 40}	{0011-0001-0002-0000}のニセモノが　あらわれた？！{Wait for input}{emote: Thought}さては{pause 8}・{pause 8}・{pause 8}・{pause 20}	さっき　オイラに{ruby (charSpan 1): ば}化けてた	アイツが　また　いたずらしてるんだな？{Wait for input}{emote: Anger}{Player name}！　{pause 8}{catchphrase}！{Wait for input}	{ruby (charSpan 1): つぎ}次こそは　バッチリ{pause 8}	ニセモノを{ruby (charSpan 1): あ}当てて　{ruby (charSpan 1): たす}助けてやってくれ！
+"043"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 40}	{0011-0001-0002-0000}のニセモノが　あらわれた？！{Wait for input}{emote: Laughter}ハハッ！{pause 20}	なんだ　そのウソ！{pause 20}	バレバレだぞー？！{pause 40}{emote: Soft Smile}{Wait for input}{emote: Thought}でも　もし{pause 20}　{ruby (charSpan 2): ほんとう}本当に	ニセモノが　あらわれたとしても、{Wait for input}{ruby (charSpan 2): ともだち}友達しか　{ruby (charSpan 1): し}知らないような{pause 20}	アイツの　{ruby (charSpan 1): ふか}深い{ruby (charSpan 2): ぶぶん}部分を{ruby (charSpan 1): し}知ってれば、{pause 20}	{ruby (charSpan 2): みわ}見分けられるんじゃないか？
+"044"	{ruby (charSpan 1): たと}例えば{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}{0011-0001-0002-0000}が　{ruby (charSpan 1): う}生まれたのは	{0004-000e-0002-cd00}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日！{Wait for input}{emote: Pride}たんじょう{ruby (charSpan 1): び}日を　{ruby (charSpan 1): し}知ってれば、{pause 20}	きっと　すぐに　{ruby (charSpan 2): しょうたい}正体を	{ruby (charSpan 1): み}見やぶれるぞ！　{pause 8}{catchphrase}！
+"045"	そうだなー{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Inspired}そういえば　アイツ{pause 20}	{ruby (charSpan 1): す}好きな{ruby (charSpan 2): ことば}言葉が　あったよな{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Happiness}
+"046"	{emote: Agreement}たしか{pause 20}　こんな{ruby (charSpan 1): かん}感じの	{ruby (charSpan 2): ことば}言葉だったと{ruby (charSpan 1): おも}思う！{Wait for input}{emote: Happiness}コレで　どっちがニセモノか{pause 8}	{ruby (charSpan 2): いっぱつ}一発で　わかるはずだぞ！　{pause 8}{catchphrase}！
+"047"	{emote: Inspired}そうだ！{pause 40}	アイツのとくぎは、{pause 20}	{0012-0018-0002-cd00}だ！{Wait for input}{emote: Glare}コレを　{ruby (charSpan 1): し}知ってるヤツは、{pause 20}	そうそう　いないと{ruby (charSpan 1): おも}思うぞ？
+"048"	{emote: Reset}アイツ　たしか{pause 8}・{pause 8}・{pause 8}・{pause 20}	{0012-0016-0002-cd00}だから{pause 8}	{ruby (charSpan 2): いろいろ}色々{ruby (charSpan 2): くろう}苦労するって　{ruby (charSpan 1): い}言ってた{ruby (charSpan 1): き}気がするぞー？{Wait for input}{emote: Agreement}いいか？{pause 20}　ホンモノの　{0011-0001-0002-0000}は{pause 20}	{0012-0016-0002-cd00}だ！{pause 40}	{ruby (charSpan 1): おぼ}覚えとくといいぞ！　{pause 8}{catchphrase}！
+"049"	{emote: Agreement}たしか　アイツのユメは{pause 20}	{0012-0017-0002-cd00}だ！{Wait for input}{emote: Happiness}ホンモノそっくりの　ニセモノだって、{pause 20}	しょうらいのユメまでは	{ruby (charSpan 1): し}知らないと{ruby (charSpan 1): おも}思うぞ、{pause 8}{catchphrase}
+"050"	なんか　{0011-0001-0002-0000}の{ruby (charSpan 1): いえ}家から{pause 20}	さわがしい{ruby (charSpan 1): おと}音が　してたけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}まさか　{0011-0001-0002-0000}も{pause 20}	アイツに　いたずらされてるんじゃ？！{Wait for input}{Player nickname (green)}！{pause 40}	ちょっと　{ruby (charSpan 1): み}見にいって{ruby (charSpan 1): き}来たらどうだ？！
+"051"	{0011-0001-0002-0000}の{ruby (charSpan 1): いえ}家が	さわがしいみたいだけど、{Wait for input}{emote: Happiness}{ruby (charSpan 1): き}気になるなら　{ruby (charSpan 1): み}見に{ruby (charSpan 1): い}行ってみたらどうだ？{pause 20}	{Player nickname (green)}！　{pause 8}{catchphrase}！
+"052"	{emote: Agreement}オイラの{ruby (charSpan 2): ことば}言葉に　ウソはないぞ！{Wait for input}	{emote: Reset}{ruby (charSpan 2): きょう}今日は　エイプリルフールだけど{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Happiness}これは　ホントだからなっ！　{pause 8}{catchphrase}！
+"053"	{emote: Anger}また{ruby (charSpan 2): らいねん}来年{pause 8}　アイツが{ruby (charSpan 1): き}来たら、{pause 20}	{ruby (charSpan 2): こんど}今度こそ　ニセモノを{ruby (charSpan 1): み}見ぬいてくれ！	{pause 8}{catchphrase}！
+"054"	{emote: Happiness}なぁ、{pause 20}{Player nickname (green)}！{pause 20}	オマエ　{ruby (charSpan 1): し}知ってたかー？
+"055"	{0011-0001-0002-0000}の　たんじょう{ruby (charSpan 1): び}日って、{pause 20}	{0004-000e-0002-cd00}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日なんだ！{Wait for input}{emote: Agreement}うん{pause 8}うん！{pause 40}	たしかに{pause 20}　{0004-000e-0002-cd00}{ruby (charSpan 1): がつ}月{ruby (charSpan 1): う}生まれって	{ruby (charSpan 1): かん}感じがするよな！　{pause 8}{catchphrase}！{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Surprise}あ！{pause 40}	{emote: Distress}エイプリルフールだからって{pause 20}	コレは　ウソじゃないぞー？！
+"056"	{emote: Anger}{0011-0001-0002-0000}の{ruby (charSpan 1): す}好きな{ruby (charSpan 2): ことば}言葉{pause 20}	それは{pause 8}・{pause 8}・{pause 8}・{pause 40}
+"057"	なんだってさ！{pause 40}	{emote: Resigned}ちょっと{pause 8}　かっこつけすぎだろー？！{Wait for input}{emote: Distress}あ、{pause 20}コレは　{ruby (charSpan 1): べつ}別に{pause 8}	エイプリルフールのウソじゃ	ないからな？　{pause 8}{catchphrase}？
+"058"	{ruby (charSpan 1): じつ}実は{pause 8}　{0011-0001-0002-0000}のとくぎは	{0012-0018-0002-cd00}なんだ！{Wait for input}{emote: Thought}たしかに{pause 8}　{ruby (charSpan 1): い}言われてみれば、{pause 20}	{0012-0018-0002-cd00}が　とくいな	{ruby (charSpan 2): くうき}空気を　ただよわせてるよなー{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}あ、{pause 20}ちなみに{pause 20}	{ruby (charSpan 1): いま}今のは　エイプリルフールとか	カンケーない{pause 20}　マジな{ruby (charSpan 1): はなし}話だぞ？！
+"059"	{emote: Reset}{0011-0001-0002-0000}って、{pause 20}	{0012-0016-0002-cd00}なんだってさ{Wait for input}{emote: Happiness}アイツの　{ruby (charSpan 2): かぞく}家族のことなんて、{pause 20}	{ruby (charSpan 1): き}聞いたことなかったから　ビックリしたよ！{Wait for input}{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 20}へ？{pause 40}　{emote: Curious}ウソが{ruby (charSpan 2): うま}上手い？{Wait for input}{emote: Laughter}ハハッ！{pause 20}　コレは	エイプリルフールの　ウソじゃなくて{pause 8}	ふつうの　{ruby (charSpan 1): はなし}話だぞ！　{pause 8}{catchphrase}？！
+"060"	{0011-0001-0002-0000}の　ビッグドリーム！{pause 40}	それは　{0012-0017-0002-cd00}に	なることらしいんだ！　{pause 8}{catchphrase}！{Wait for input}アイツのユメが　かなうように、{pause 20}	オイラたちで　おうえんしてやろーな！{Wait for input}{emote: Distress}あ、{pause 20}コレは　{ruby (charSpan 1): べつ}別に{pause 8}	エイプリルフールのウソじゃ	ないからな？　{pause 8}{catchphrase}？
+"061"
+"062"	{emote: Distress}{0011-0001-0002-0000}の{ruby (charSpan 1): いえ}家、{pause 20}	{ruby (charSpan 1): なに}何が　{ruby (charSpan 1): お}起こってるんだー？！{Wait for input}オマエの{ruby (charSpan 2): ともだち}友達が　{ruby (charSpan 1): かえ}帰ったら、{pause 8}	{ruby (charSpan 2): ようす}様子を{ruby (charSpan 1): み}見に{ruby (charSpan 1): い}行ってみろよ{pause 20}	{Player nickname (green)}ー！
+"063"	{emote: Thought}あのニセモノ、{pause 20}	かなり　いたずら{ruby (charSpan 1): ず}好きな	{ruby (charSpan 1): かん}感じだったなー{Wait for input}さすがに　お{ruby (charSpan 1): きゃく}客さんが{ruby (charSpan 1): き}来てるときは	やらないだろうけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Laughter}また　どっかで{pause 8}	いたずらが　{ruby (charSpan 1): はじ}始まりそうだ、{pause 8}{catchphrase}{pause 20}{emote: Happiness}
+"064"	{emote: Pride}まったく、{pause 20}	オイラのニセモノなんて	ゆるせないなー！　{pause 8}{catchphrase}！{Wait for input}{emote: Surprise}あ、{pause 20}でも{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Bashful}マネされるってことは、{pause 20}	オイラ　{ruby (charSpan 3): ゆうめいじん}有名人ってことかー？
+"065"	{emote: Happiness}エイプリルフールだから{pause 20}	ビックリすることが	{ruby (charSpan 1): お}起こりそうだなー！{Wait for input}{emote: Reset}オマエの{ruby (charSpan 2): ともだち}友達が　{ruby (charSpan 1): かえ}帰ったら{pause 20}	{ruby (charSpan 1): なん}何か　あるかもなー、{pause 8}{catchphrase}
+"066"	{emote: Anger}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): なに}何があっても	おかしくないからな！{pause 20}	ゆだんするなよー？！
+"067"	{emote: Greetings}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): ねん}年に{ruby (charSpan 2): いちど}一度の	エイプリルフール！{Wait for input}{emote: Thought}オマエの{ruby (charSpan 2): ともだち}友達が　{ruby (charSpan 1): かえ}帰ったら、{pause 20}	{ruby (charSpan 1): なに}何か　とんでもないことが	{ruby (charSpan 1): お}起こりそうな　{ruby (charSpan 1): き}気がするなー{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Pride}オイラの　カンは{pause 8}	よく{ruby (charSpan 1): あ}当たるんだぞー？

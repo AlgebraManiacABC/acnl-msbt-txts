@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Shocked}
-"007"	{emote: Curious}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	마음에 드는 게 뭔지	알려줘어, {pause 8}!
-"011"	{emote: Shyness}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}우리 집 어때～?{pause 40}	혹시 마음에 드는 게 있으면	너한테 팔 수도 있는데에～{000f-0005-0004-0015-0028}	팔아라!	딱히 없네
+"002"	{emote: Happiness}우리 집 멋있지이～?{pause 40}	너한테 이 멋진 물건들을{pause 20}	나눠줄 수도 있다구～{Wait for input}{emote: Reset}우리 집에서	너가 갖고 싶은 거 있으면	팔게～{000f-0005-0004-0015-0028}	팔아라!	됐어・・・
+"003"	{emote: Happiness}우후훗{pause 8}・{pause 8}・{pause 8}・{pause 20}	우리 집이	마음에 들었어?{Wait for input}{emote: Agreement}역시 멋진 집은	따라하고 싶어지지?{Wait for input}{emote: Reset}혹시 이 안에서	갖고 싶은 건 없어?	내가 팔 수도 있는데에～ {pause 8}{catchphrase}!{000f-0005-0004-0015-0028}	갖고 싶은 거 있어!	딱히 없네
+"004"	{emote: Worry}이상하다아～?{pause 20}	분명히 갖고 싶어 하는	표정이었는데에{pause 8}・{pause 8}・{pause 8}・
+"005"	{emote: Worry}모처럼 이렇게 멋있는 게	다 모여 있는데에～{pause 40}	아깝다아, {pause 8}{catchphrase}
+"006"	{emote: Shocked}{0007-000a-0000}에엑～?!{pause 20}	하나도 없어～?!{Wait for input}{emote: Worry}할 수 없지이{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}어차피 다 내가 좋아하는 거니까{pause 20}	뭐어, 상관없어～ {pause 8}{catchphrase}!
+"007"	{emote: Curious}뭐가 마음에 들어?
+"008"	{emote: Happiness}좋아～!{pause 20}	뭘 갖고 싶은지	말해봐아～
+"009"	{emote: Happiness}그래～?{pause 20}	그럼 뭐가 마음에 들었는지{pause 20}	알려줄래～?
+"010"	마음에 드는 게 뭔지	알려줘어, {pause 8}{catchphrase}{Wait for input}{emote: Worry}그래도 {pause 20}내가 정말 좋아하는 건	안 팔지도 몰라～
+"011"	{emote: Shyness}갖고 싶은 게 있으면{pause 20}	사양하지 말고 말해봐아～
+"012"	{emote: Happiness}마음에 드는 게 있으면	알려줘어!{Wait for input}{emote: Worry}그치만 내 보물은	안 팔지도 몰라아～{pause 20}	미안～ {pause 8}{catchphrase}!

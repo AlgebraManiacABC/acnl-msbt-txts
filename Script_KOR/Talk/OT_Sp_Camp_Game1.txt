@@ -1,46 +1,46 @@
 == 0 ==
-"001"	있잖아, {pause 8}
-"002"	{emote: Worry}
-"003"	{emote: Soft Smile}
-"004"	{emote: Soft Smile}
-"005"	{emote: Soft Smile}
-"006"	{emote: Soft Smile}
-"007"	{emote: Sheepishness}
-"008"	{emote: Soft Smile}
-"009"	{emote: Soft Smile}
-"010"	{emote: Agreement}
-"011"	{0009-0003-000a-0c-00-0c-00-0c-00-0d-00-0e-00}
-"012"	이거{pause 8}
-"013"	이거{pause 8}
-"014"	이거{pause 8}
-"015"	{0009-0002-0008-11-00-11-00-12-00-13-00}
-"016"	{0009-0003-000a-14-00-14-00-14-00-15-00-16-00}
-"017"	이거{pause 8}
-"018"	이거{pause 8}
-"019"	이거{pause 8}
-"020"	이거{pause 8}
-"021"	이거{pause 8}
-"022"	이거{pause 8}
-"023"	{0009-0003-000a-1b-00-1c-00-1c-00-1d-00-1d-00}
-"024"	{0009-0001-0006-1e-00-1f-00-20-00}
-"025"	{0009-0001-0006-21-00-22-00-23-00}
-"026"	{0009-0002-0008-24-00-24-00-25-00-26-00}
-"027"	이거{pause 8}
-"028"	이거{pause 8}
-"029"	이거{pause 8}
-"030"	이거{pause 8}
-"031"	이거{pause 8}
-"032"	이거{pause 8}
-"033"	이거{pause 8}
-"034"	이거{pause 8}
-"035"	이거{pause 8}
-"036"	이거{pause 8}
-"037"	이거{pause 8}
-"038"	이거{pause 8}
-"039"	{emote: Soft Smile}
-"040"	{emote: Sheepishness}
-"041"	{emote: Anger}
-"042"	{emote: Soft Smile}
-"043"	{emote: Worry}
-"044"	
-"045"	
+"001"	있잖아, {pause 8}	내 {0011-0003-0002-0000} 걸고{pause 16}	내기 하나 안 할래? {pause 8}{catchphrase}?	{0007-000d-0000}{emote: Soft Smile}게임을 3번 해서 {pause 16}그 결과에 상응하는	가격에 당신에게 넘길게{Wait for input}	{emote: Sunny}운이 좋으면 공짜가 될지도 몰라!	{emote: Anger}게임 이름은{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}『퀸을 찾아라』야!{Player can respond (0005):0008-0015-0002-0028}	할래!	지금은 좀・・・
+"002"	{emote: Worry}어머 {pause 16}그래{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 8}	마음 변하면 얘기해,	{pause 8}{catchphrase}
+"003"	{emote: Soft Smile}{0011-0003-0002-0000}{000e-000e-0008-0002-c740-0002-b294}{pause 8}	공짜로 줄게{pause 32}	{emote: Sheepishness}우후훗, {pause 16}약속은 약속이니까!
+"004"	{emote: Soft Smile}그럼{pause 16}	퀸을 둘이나 찾았으니까{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 줄게
+"005"	{emote: Soft Smile}그럼{pause 16}	퀸을 둘이나 찾았으니까{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에 넘겨줄게
+"006"	{emote: Soft Smile}그래도 어떻게{pause 16}	퀸 하나는{pause 8} 찾았네?{Wait for input}{emote: Reset}어디 보자{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}벨{Color Reset}에 줄게!
+"007"	{emote: Sheepishness}좀 비쌀 수도 있지만{pause 16}	{Blue}{Number (0x9)}벨{Color Reset}에{pause 16} 넘길게
+"008"	{emote: Soft Smile}좋아! {pause 32}그럼 규칙을 설명해줄까?	{pause 8}{catchphrase}?{Player can respond (0005):0009-0015-000a-0028}	설명해 주세요	알고 있어!
+"009"	{emote: Soft Smile}알았어, {pause 16}그럼	규칙을 설명해줄게!{Wait for input}	{emote: Reset}여기 3장의 카드가 있어{pause 8}・{pause 8}・{pause 8}・{pause 8}	뒷면에는 각각{pause 16}	『잭』『퀸』『킹』 그림이{pause 16}	그려져 있지	그 카드들을 내가 섞은 다음에{pause 16}	당신이 1장을 고르면 돼{Wait for input}	{emote: Soft Smile}퀸을 뽑는다면 당첨인 거지!	{emote: Reset}그리고 카드를 되돌린 다음{pause 16}	내가 다시 한 번 섞고{pause 8}・{pause 8}・{pause 8}・{pause 32}	이렇게 3번 반복해	{emote: Soft Smile}3번 모두 퀸을 뽑으면{pause 32}	{0011-0003-0002-0000}{000e-000e-0008-0002-c740-0002-b294}{pause 16}	공짜로 줄게!　	{emote: Worry}참고로 가격은{pause 16}	당첨 수에 따라 달라질 테니까{pause 8}・{pause 8}・{pause 8}・{pause 8}	마지막까지 방심은 금물이야	{emote: Reset}설명은 이만하고{pause 16}	슬슬 시작해볼까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}자!{pause 32}	1장 선택해봐!{pause 8}{Player can respond (0001):000b-0000-000b-0000-000b-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"010"	{emote: Agreement}당신{pause 16}	이 게임 해본 적 있구나?{Wait for input}	{emote: Soft Smile}그럼, {pause 8}바로 시작할게!	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}자!{pause 32}	1장 골라 봐!{Player can respond (0001):000b-0000-000b-0000-000b-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"011"	{0009-0003-000a-000c-000c-000c-000d-000e}
+"012"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{pause 32}	{emote: Soft Smile}좋아, {pause 16}과연 1번째 카드는 뭘까?　	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『퀸』이야!{pause 32}	{emote: Glee}제법인데!{pause 16}	1번째는 당첨이야!	{emote: Reset}계속해서 2번째 간다?!{pause 32}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}자!{pause 32}	1장 골라 봐!{Player can respond (0001):000f-0000-000f-0000-000f-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"013"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{pause 32}	{emote: Soft Smile}좋아, {pause 16}과연 1번째 카드는 뭘까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『킹』이야!{pause 32}	{emote: Worry}아쉽네{pause 8}・{pause 8}・{pause 8}・{pause 8}	1번째는 꽝이야	{emote: Reset}계속해서 2번째 간다?!{pause 32}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}자!{pause 32}	1장 골라봐!{Player can respond (0001):0010-0000-0010-0000-0010-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"014"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 맞지?{pause 32}	{emote: Soft Smile}좋아, {pause 16}과연 1번째 카드는 뭘까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『잭』이야!{pause 32}	{emote: Worry}아쉽게 됐네{pause 8}・{pause 8}・{pause 8}・{pause 8}	1번째는 꽝이야	{emote: Reset}계속해서 2번째 간다?!{pause 32}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}자!{pause 32}	1장 골라봐!{Player can respond (0001):0010-0000-0010-0000-0010-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"015"	{0009-0002-0008-0011-0011-0012-0013}
+"016"	{0009-0003-000a-0014-0014-0014-0015-0016}
+"017"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 말이지?{pause 32}	{emote: Soft Smile}좋아, {pause 16}과연 2번째 카드는 뭘까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『퀸』이야!{pause 32}	{emote: Glee}당신 정말 운이 좋네～{pause 16}	2연속 당첨이잖아	{emote: Reset}그럼 {pause 8}이제 마지막이야{pause 32}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}자!{pause 32}	1장 골라봐!{Player can respond (0001):0017-0000-0017-0000-0017-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"018"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 말이지?{pause 32}	{emote: Soft Smile}좋아, {pause 16}과연 2번째 카드는 뭘까?　	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『킹』이야!{pause 32}	{emote: Sheepishness}행운이 연속으로 오지는 않았네{pause 32}	2번째는 꽝이야	{emote: Reset}그럼 {pause 8}이제 마지막이야{pause 32}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}자!{pause 32}	1장 골라봐!{Player can respond (0001):0018-0000-0018-0000-0018-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"019"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 말이지?{pause 32}	{emote: Soft Smile}좋아, {pause 16}과연 2번째 카드는 뭘까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『잭』이야!{pause 32}	{emote: Sheepishness}행운이 연속으로 오지는 않았네{pause 32}	2번째는 꽝이야	{emote: Reset}그럼 {pause 8}이제 마지막이야{pause 32}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}자!{pause 32}	1장 골라봐!{Player can respond (0001):0018-0000-0018-0000-0018-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"020"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 말이지?{pause 32}	{emote: Soft Smile}좋아, {pause 16}과연 2번째 카드는 뭘까?　	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『퀸』이야!{pause 32}	{emote: Glee}잘 됐네～{pause 16}	이번에는 당첨이야!	{emote: Reset}그럼 {pause 8}이제 마지막이야{pause 32}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}자!{pause 32}	1장 골라봐!{Player can respond (0001):0019-0000-0019-0000-0019-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"021"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 말이지?{pause 32}	{emote: Soft Smile}좋아, {pause 16}과연 2번째 카드는 뭘까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『킹』이야!{pause 32}	{emote: Worry}당신 정말 운이 없네{pause 32}	2번 연속으로 꽝이라니{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Reset}그럼 {pause 8}이제 마지막이야{pause 32}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}자!{pause 32}	1장 골라봐!{Player can respond (0001):001a-0000-001a-0000-001a-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"022"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8} 말이지?{pause 32}	{emote: Soft Smile}좋아, {pause 16}과연 2번째 카드는 뭘까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『잭』이야!{pause 32}	{emote: Worry}당신 정말 운이 없네{pause 32}	2번 연속으로 꽝이라니{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Reset}그럼 {pause 8}이제 마지막이야{pause 32}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}자!{pause 32}	1장 골라봐!{Player can respond (0001):001a-0000-001a-0000-001a-0000}	왼쪽 카드	가운데 카드	오른쪽 카드
+"023"	{0009-0003-000a-001b-001c-001c-001d-001d}
+"024"	{0009-0001-0006-001e-001f-0020}
+"025"	{0009-0001-0006-0021-0022-0023}
+"026"	{0009-0002-0008-0024-0024-0025-0026}
+"027"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}자, {pause 16}그럼 마지막은 뭔지 볼까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『퀸』이야!{Wait for input}	{emote: Glee}굉장해! {pause 16}완전무결한 승리네!
+"028"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}자, {pause 16}그럼 마지막은 뭔지 볼까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『킹』이야!{Wait for input}	{emote: Sheepishness}아깝다! {pause 16}1번만 더 맞히면	퍼펙트였는데!!{0009-0002-0008-0004-0005-0005-0005}
+"029"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}자, {pause 16}그럼 마지막은 뭔지 볼까?　	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『잭』이야!{Wait for input}	{emote: Sheepishness}아깝다!{pause 8} 1번만 더 맞히면	퍼펙트였는데!!{0009-0002-0008-0004-0005-0005-0005}
+"030"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}자, {pause 16}그럼 마지막은 뭔지 볼까?　	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『퀸』이야!{Wait for input}	{emote: Soft Smile}마지막으로 한 번 더{pause 16}	행운이 찾아왔네!{0009-0002-0008-0004-0005-0005-0005}
+"031"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}자, {pause 16}그럼 마지막은 뭔지 볼까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『킹』이야!{Wait for input}	{emote: Sheepishness}우후훗, {pause 16}운이 좋았던 건{pause 16}	처음밖에 없었네!
+"032"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}자, {pause 16}그럼 마지막은 뭔지 볼까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『잭』이야!{Wait for input}	{emote: Sheepishness}우후훗, {pause 16}운이 좋았던 건{pause 16}	처음뿐이었나 보네!
+"033"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}자, {pause 16}그럼 마지막은 뭔지 볼까?　	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『퀸』이야!{Wait for input}	{emote: Sheepishness}중간부터 운이 좋았네{0009-0002-0008-0004-0005-0005-0005}
+"034"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}자, {pause 16}그럼 마지막은 뭔지 볼까?　	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『킹』이야!{Wait for input}	{emote: Sheepishness}흠～ {pause 16}운이 별로	따라 주지 않은 승부였네
+"035"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}자, {pause 16}그럼 마지막은 뭔지 볼까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『잭』이야!{Wait for input}	{emote: Sheepishness}흠～ {pause 16}운이 별로	따라 주지 않은 승부였네
+"036"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}자, {pause 16}그럼 마지막은 뭔지 볼까?	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『퀸』이야!
+"037"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}자, {pause 16}그럼 마지막은 뭔지 볼까?　	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『킹』이야!{Wait for input}	{emote: Sheepishness}저런 저런, {pause 16}지독하게도 운이 없네{pause 32}	퀸이 1번도 안 나오다니!
+"038"	이거{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 32}	{emote: Soft Smile}자, {pause 16}그럼 마지막은 뭔지 볼까?　	{pause 8}{catchphrase}?	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}『잭』이야!{Wait for input}	{emote: Sheepishness}저런 저런, {pause 16}지독하게도 운이 없네{pause 32}	퀸이 1번도 안 나오다니!
+"039"	{emote: Soft Smile}이걸로 당신은{pause 16}	사실상 4명의 퀸을{pause 16}	찾아낸 거나 다름이 없어	{emote: Alarmed}뭐{pause 8}・{pause 8}・{pause 8}・{pause 32}{emote: Distress} 4명째는 누구냐구?{pause 16}	몰라 몰라～! 내가 어떻게 그걸 말해!{pause 8}	{catchphrase}!
+"040"	{emote: Sheepishness}나도 퀸으로 친다면{pause 8}・{pause 8}・{pause 8}・{pause 8}	3명이 되긴 하는데 말야{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"041"	{emote: Anger}실은 내가{pause 32}	{Gray}{emote: Pride}(3명째 퀸이야!	라고{pause 32} 말하고 싶지만{pause 8}・{pause 8}・{pause 8}・{pause 8})	{Color Reset}{emote: Disagreement}아니, {pause 16}아무것도 아니야
+"042"	{emote: Soft Smile}실망하지 말고{pause 16}	다음에 또 도전해줘, {pause 8}{catchphrase}!
+"043"	{emote: Worry}아쉽겠다{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}그래도 {pause 8}가장 중요한	퀸 1명은 찾았잖아?	{emote: Alarmed}누구냐니{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Anger}눈앞에 있잖아?{pause 32}	{emote: Glare}{Villager's name (orange)}{000e-000e-000e-0006-c774-b77c-b294-0004-b77c-b294} 퀸이!
+"044"
+"045"

@@ -1,19 +1,19 @@
 == 0 ==
-"001"	なぁ、{Player nickname (green)}
-"002"	{emote: Alarmed}
-"003"	{emote: Thought}
-"004"	{emote: Happiness}
-"005"	{emote: Worry}
-"006"	{emote: Worry}
-"007"	「{Player nickname (green)}
-"008"	{emote: Resigned}
-"009"	ふぅーん、{pause 15}
-"010"	
-"011"	{emote: Soft Smile}
-"012"	{emote: Surprise}
-"013"	{emote: Sigh}
-"014"	{emote: Worry}
-"015"	「{Player nickname (green)}
-"016"	{emote: Alarmed}
-"017"	{emote: Happiness}
-"018"	
+"001"	なぁ、{Player nickname (green)}{Wait for input}	オメェの　その　{Player nickname (green)}って{ruby (charSpan 1): よ}呼び{ruby (charSpan 1): な}名、{pause 15}	{emote: Curious}そろそろ　{ruby (charSpan 1): か}変えたほうが{ruby (charSpan 1): よ}良くねぇか？{Wait for input}{emote: Happiness}なんなら　このオレが{pause 8}	{ruby (charSpan 1): あたら}新しいのを　{ruby (charSpan 1): かんが}考えてやるぜ？！{000f-0005-0004-0000-0028}	どんなの？	このままでいい
+"002"	{emote: Alarmed}なんだ　オメェ、{pause 15}	{Player nickname (green)}って{ruby (charSpan 1): よ}呼ばれるの{pause 8}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってたのかよ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}オレとしたことが、{pause 8}	{ruby (charSpan 2): よけい}余計なこと　{ruby (charSpan 1): き}聞いちまって	すまなかったな、{pause 20}{catchphrase}！
+"003"	{emote: Thought}そうだなぁ{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Sunny}「{Player nickname (green)}」ってのはどうだ？{pause 30}	オメェに　ぴったりだろ！{000f-0005-0004-0015-0028}	いいね！	イヤだよ
+"004"	{emote: Happiness}へへっ、{pause 8}だろ？！{pause 20}	きっと{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ると　{ruby (charSpan 1): おも}思ったぜ！{Wait for input}じゃあ　{ruby (charSpan 1): いま}今からオメェは{pause 8}	{Player nickname (green)}だ！{pause 20}　{catchphrase}！
+"005"	{emote: Worry}うーん、{pause 8}{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入らねぇか{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Soft Smile}じゃあ　{ruby (charSpan 2): しかた}仕方ねぇな{Wait for input}{Player nickname (green)}のままで　いくとするか、{pause 20}	{catchphrase}！
+"006"	{emote: Worry}なんでぇ！{pause 20}	あっさり　ボツかよ！{Wait for input}{emote: Reset}じゃあ　どんなのだったらいいのか{pause 8}	{ruby (charSpan 1): おし}教えてくれよ、{pause 20}{catchphrase}
+"007"	「{Player nickname (green)}」でいいんだな？！{confirmation-02}{000f-0005-0004-0015-0028}	そうでーす！	{ruby (charSpan 2): まちが}間違えた
+"008"	{emote: Resigned}やれやれ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Soft Smile}じゃ、{pause 8}もう{ruby (charSpan 2): いっかい}一回　{ruby (charSpan 1): い}言ってくれよ
+"009"	ふぅーん、{pause 15}{Player nickname (green)}って	{emote: Agreement}{ruby (charSpan 1): よ}呼んで{ruby (charSpan 1): ほ}欲しいのか{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Happiness}オメェらしくて　いいかもなぁ{Wait for input}よし！{pause 30}	じゃあ　{ruby (charSpan 1): いま}今からオメェは{pause 8}	{Player nickname (green)}な！{pause 20}　{catchphrase}！
+"010"
+"011"	{emote: Soft Smile}よう、{pause 8}{Player nickname (green)}{pause 8}・{pause 8}・{pause 8}・{Wait for input}{ruby (charSpan 2): ちかごろ}近頃　オメェ{pause 8}	「{0011-0000-0002-0000}」って	{ruby (charSpan 1): よ}呼ばれてるみてぇだな{Wait for input}{ruby (charSpan 2): おもしろ}面白そうだし{pause 8}	{emote: Curious}オレも　そう{ruby (charSpan 1): よ}呼んでいいか？{pause 20}	{catchphrase}？{000f-0005-0004-0015-0028}	いいよ！	やめてー！
+"012"	{emote: Surprise}おっ！{pause 8}　いいのか？！{Wait for input}{emote: Happiness}よーし、{pause 15}オレも{ruby (charSpan 2): きょう}今日から	オメェを　{Player nickname (green)}って{pause 8}	{ruby (charSpan 1): よ}呼ばせてもらうぜ、{pause 20}{catchphrase}！
+"013"	{emote: Sigh}ありゃ？！{pause 15}	オレはダメなのかよー{Wait for input}{emote: Reset}でもまぁ、{pause 8}よくよく{ruby (charSpan 1): かんが}考えてみりゃ{pause 8}	{0011-0000-0002-0000}なんて{ruby (charSpan 1): よ}呼ぶの{pause 8}	{emote: Disagreement}ちょっと{ruby (charSpan 1): は}恥ずかしいしな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}じゃあオレは　{ruby (charSpan 1): いま}今まで{ruby (charSpan 1): どお}通り{pause 8}	{Player nickname (green)}で	いかせてもらうぜ、{pause 20}{catchphrase}！
+"014"	{emote: Worry}なんでぇ！{pause 15}　ダメなのかよ！{Wait for input}{emote: Reset}じゃあ　{ruby (charSpan 1): き}聞くけどよぉ、{pause 15}	オレは　{ruby (charSpan 2): いったい}一体　{ruby (charSpan 1): なん}何て{ruby (charSpan 1): よ}呼べばいいんだ？{pause 20}	{catchphrase}？
+"015"	「{Player nickname (green)}」でいいんだな？！{confirmation-02}{000f-0005-0004-0015-0028}	それでいい！	{ruby (charSpan 1): ちが}違うよ！
+"016"	{emote: Alarmed}おっと！{pause 20}	{ruby (charSpan 1): き}聞き{ruby (charSpan 2): まちが}間違えちまったか{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Soft Smile}もういっぺん{ruby (charSpan 1): き}聞かせてくれ、{pause 20}{catchphrase}
+"017"	{emote: Happiness}よし、{ruby (charSpan 1): き}決まりだな！{pause 30}	{emote: Greetings}{ruby (charSpan 1): いま}今からオメェは{pause 15}　{Player nickname (green)}だ！
+"018"

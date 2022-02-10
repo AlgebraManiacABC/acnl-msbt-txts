@@ -1,67 +1,67 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Flourish}
-"003"	
-"004"	{emote: Anger}
-"005"	{emote: Worry}
-"006"	{emote: Curious}
-"007"	{emote: Anger}
-"008"	{emote: Soft Smile}
-"009"	{emote: Glare}
-"010"	{emote: Distress}
-"011"	{emote: Worry}
-"012"	{emote: Love}
-"013"	{emote: Glare}
-"014"	{emote: Anger}
-"015"	{emote: Anger}
-"016"	{Year}
-"017"	キミは　{ruby (charSpan 2): ことし}今年{pause 8}
-"018"	{emote: Star Yell}
-"019"	{emote: Showmanship}
-"020"	{emote: Curious}
-"021"	{emote: Distress}
-"022"	{emote: Worry}
-"023"	{emote: Distress}
-"024"	{emote: Glare}
-"025"	{emote: Soft Smile}
-"026"	{emote: Alarmed}
-"027"	{emote: Surprise}
-"028"	{emote: Anger}
-"029"	{emote: Alarmed}
-"030"	{emote: Glee}
-"031"	{emote: Sheepishness}
-"032"	{emote: Pride}
-"033"	{emote: Soft Smile}
-"034"	
-"035"	{emote: Soft Smile}
-"036"	{emote: Soft Smile}
-"037"	{pause 8}
-"038"	{emote: Joy}
-"039"	{emote: Soft Smile}
-"040"	キミも　{emote: Curious}
-"041"	{emote: Daydreaming}
-"042"	{emote: Sheepishness}
-"043"	{emote: Soft Smile}
-"044"	{emote: Soft Smile}
-"045"	{emote: Alarmed}
-"046"	{emote: Sheepishness}
-"047"	{emote: Anger}
-"048"	{emote: Soft Smile}
-"049"	{emote: Soft Smile}
-"050"	{emote: Thought}
-"051"	{emote: Glare}
-"052"	{emote: Sheepishness}
-"053"	
-"054"	
-"055"	{emote: Alarmed}
-"056"	{emote: Sheepishness}
-"057"	{emote: Pride}
-"058"	{emote: Glare}
-"059"	{emote: Sunny}
-"060"	{emote: Showmanship}
-"061"	{emote: Sheepishness}
-"062"	{emote: Surprise}
-"063"	{emote: Alarmed}
-"064"	{emote: Anger}
-"065"	{emote: Showmanship}
-"066"	{emote: Glee}
+"001"	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　カウントダウンだね？{pause 32}	{emote: Glee}テンションあがるな～！
+"002"	{emote: Flourish}ハッピーニューイヤー！{pause 32}	{ruby (charSpan 2): ことし}今年もよろしくね、{pause 8}{Player nickname (green)}{0005-000d-0000}！
+"003"
+"004"	{emote: Anger}いよいよ　{ruby (charSpan 2): しんねん}新年まで{pause 16}	1{ruby (charSpan 2): じかん}時間を　{ruby (charSpan 1): き}切ったか{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}そろそろ、ボクも{pause 16}	カウントダウンの{ruby (charSpan 2): じゅんび}準備をしようかな？	{pause 8}{catchphrase}？
+"005"	{emote: Worry}{ruby (charSpan 2): ことし}今年も　もうすぐ{ruby (charSpan 1): お}終わるね{pause 8}・{pause 8}・{pause 8}・{pause 32}	やり{ruby (charSpan 1): のこ}残したことは　{emote: Curious}ないかい？{pause 16}	{Player nickname (green)}{0005-000d-0000}？	{emote: Sheepishness}まだ{ruby (charSpan 1): すこ}少し　{ruby (charSpan 2): じかん}時間があるから、{pause 16}	{ruby (charSpan 2): こうかい}後悔がないようにね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"006"	{emote: Curious}ココロの{ruby (charSpan 2): じゅんび}準備は　できたかい？{pause 8}	{Player nickname (green)}{0005-000d-0000}？{Wait for input}{emote: Agreement}もうすぐ　{Year}{ruby (charSpan 1): ねん}年が{pause 15}	{ruby (charSpan 1): まく}幕を　{ruby (charSpan 1): と}閉じようとしているよ、	{pause 8}{catchphrase}
+"007"	{emote: Anger}さぁ、{pause 16}{ruby (charSpan 2): しんねん}新年まで{ruby (charSpan 1): のこ}残り{pause 16}	30{ruby (charSpan 1): ぷん}分を　{ruby (charSpan 1): き}切ったよ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Glee}{ruby (charSpan 2): こんや}今夜は　パーティーナイトだ！{pause 8}	{Player nickname (green)}{0005-000d-0000}！
+"008"	{emote: Soft Smile}{ruby (charSpan 2): ことし}今年も　あとちょっとで{pause 16}	{ruby (charSpan 1): お}終わるね、{pause 8}{catchphrase}{Wait for input}{emote: Sheepishness}ほら、{pause 16}よそ{ruby (charSpan 1): み}見してると{pause 8}・{pause 8}・{pause 8}・{pause 8}	いつの{ruby (charSpan 1): ま}間にか　{ruby (charSpan 1): とし}年が{ruby (charSpan 1): あ}明けちゃうよ！{pause 32}	{emote: Sunny}ハッハー！
+"009"	{emote: Glare}{ruby (charSpan 2): こんや}今夜は　{ruby (charSpan 1): かえ}帰さないよ、{pause 8}	{Player nickname (green)}{0005-000d-0000}！
+"010"	{emote: Distress}よしっ、{pause 16}{ruby (charSpan 1): のこ}残り5{ruby (charSpan 1): ふん}分　{ruby (charSpan 1): き}切ったぞ！{pause 32}	{ruby (charSpan 1): むね}胸が　ドキドキするな～！
+"011"	{emote: Worry}あと{ruby (charSpan 1): すこ}少しで{pause 16}	{Year}{ruby (charSpan 1): ねん}年も　{ruby (charSpan 1): お}終わりだね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"012"	{emote: Love}{pause 16}この　{ruby (charSpan 1): むね}胸の{ruby (charSpan 2): たかな}高鳴り{pause 8}・{pause 8}・{pause 8}・{pause 8}	おさえられない{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"013"	{emote: Glare}{ruby (charSpan 1): こころ}心の{ruby (charSpan 2): じゅんび}準備は　いいかい？{0007-0008-0004-0078-0000}
+"014"	{emote: Anger}さぁ、{pause 16}いよいよ	{ruby (charSpan 1): のこ}残り1{ruby (charSpan 1): ぷん}分を　{ruby (charSpan 1): き}切ったよ！{0007-0008-0004-0078-0000}
+"015"	{emote: Anger}いよいよ　{ruby (charSpan 2): しんねん}新年まで{pause 16}	1{ruby (charSpan 2): じかん}時間を　{ruby (charSpan 1): き}切ったか{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}ボクは　この{ruby (charSpan 2): へや}部屋で{pause 16}	{ruby (charSpan 2): しんねん}新年を{ruby (charSpan 1): むか}迎えるよ、{pause 8}{catchphrase}
+"016"	{Year}{ruby (charSpan 1): ねん}年も　もうすぐ{ruby (charSpan 1): お}終わるね{pause 8}・{pause 8}・{pause 8}・{pause 32}	やり{ruby (charSpan 1): のこ}残したことは　{emote: Curious}ないかい？{pause 16}	{Player nickname (green)}{0005-000d-0000}？	{emote: Sheepishness}ま、{pause 16}{ruby (charSpan 2): こうかい}後悔がないようにね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"017"	キミは　{ruby (charSpan 2): ことし}今年{pause 8}・{pause 8}・{pause 8}・	{emote: Curious}どんな{ruby (charSpan 1): とし}年だったんだい？{000a-000a-0004-002b-002c}
+"018"	{emote: Star Yell}{pause 16}{0007-000b-0000}{Text size 150%}スタンド～！！{pause 32}	{0007-000b-0000}アリーナ～！！{Text size 100%}{Wait for input}{emote: Alarmed}あ、{pause 16}ゴメンゴメン！{pause 32}	{emote: Soft Smile}ライブで　{ruby (charSpan 3): かんきゃくせき}観客席に{ruby (charSpan 1): こえ}声をかける{pause 16}	{ruby (charSpan 2): れんしゅう}練習してたんだよ、{pause 8}{catchphrase}	{emote: Flourish}{Villager's name (orange)}の　{ruby (charSpan 2): としこ}年越しライブが{pause 16}	いつ{ruby (charSpan 1): ひら}開かれても　いいようにね！{Wait for input}{emote: Worry}{ruby (charSpan 2): ざんねん}残念ながら、{pause 16}{ruby (charSpan 2): ことし}今年は	{ruby (charSpan 2): かいさい}開催されないけど{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"019"	{emote: Showmanship}{ruby (charSpan 2): こんや}今夜は　パーティーナイトだ！	{pause 8}{catchphrase}！{Wait for input}{emote: Sheepishness}おおみそかは　クールに{pause 8}　	{ruby (charSpan 1): ね}寝てる{ruby (charSpan 2): ばあい}場合じゃないよ、{pause 16}	{Player nickname (green)}{0005-000d-0000}
+"020"	{emote: Curious}{ruby (charSpan 1): のこ}残り30{ruby (charSpan 1): ぷん}分を　{ruby (charSpan 1): き}切ったね？{pause 32}	{emote: Reset}{ruby (charSpan 1): そと}外で　さわぐのもいいけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}こうやって　{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): す}好きな{ruby (charSpan 2): ばしょ}場所で{pause 16}	{ruby (charSpan 2): しんねん}新年を　{ruby (charSpan 1): むか}迎えるっていうのも{pause 16}	ボクは　キライじゃないんだ
+"021"	{emote: Distress}ほらっ、{pause 16}{ruby (charSpan 1): のこ}残り5{ruby (charSpan 1): ふん}分　{ruby (charSpan 1): き}切ったよ！{pause 32}	{emote: Glee}テンションあがるな～！	{pause 8}{catchphrase}！
+"022"	{emote: Worry}だんだん　{Year}{ruby (charSpan 1): ねん}年の{pause 16}	{ruby (charSpan 1): お}終わりが　{ruby (charSpan 1): ちか}近づいているね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"023"	{emote: Distress}ダメだっ！　{pause 16}{ruby (charSpan 1): むね}胸の{ruby (charSpan 2): たかな}高鳴りが　	{ruby (charSpan 1): と}止まらないよ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"024"	{emote: Glare}さぁ、{pause 16}{ruby (charSpan 2): じゅんび}準備はいいかい？{pause 8}	{Player nickname (green)}{0005-000d-0000}？{0007-0008-0004-0078-0000}
+"025"	{emote: Soft Smile}キミと　{ruby (charSpan 2): いっしょ}一緒に{ruby (charSpan 2): しんねん}新年を{pause 16}	{ruby (charSpan 1): むか}迎えられるなんて{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}ボクは　ラッキーボーイだな！{0007-0008-0004-0078-0000}
+"026"	{emote: Alarmed}おや、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	{emote: Soft Smile}{ruby (charSpan 2): にあ}似合ってるじゃないか、{pause 16}その{ruby (charSpan 2): ぼうし}帽子！{Wait for input}{emote: Glee}やっぱり、{pause 8}こういうフェスは{pause 16}	カッコから　{ruby (charSpan 1): はい}入らないとね～！	{pause 8}{catchphrase}！
+"027"	{emote: Surprise}あれっ、{Player nickname (green)}{0005-000d-0000}！{pause 32}	{emote: Glee}ニューイヤーハットかぶってるね！{pause 15}	ハッハー！	{emote: Bashful}{pause 16}コレを　かぶるとさぁ{pause 8}・{pause 8}・{pause 8}・{pause 8}	カウントダウンに{ruby (charSpan 1): む}向けて{pause 16}	テンションが　あがるんだよね～
+"028"	{emote: Anger}カウントダウンといえば{pause 16}	ニューイヤーハットを　かぶるのが、{pause 32}	{emote: Glare}{Town name (pink)}{ruby (charSpan 1): りゅう}流だよ	{emote: Soft Smile}{ruby (charSpan 1): は}恥ずかしがらないで、{pause 16}	キミも　{ruby (charSpan 2): なかま}仲間にならないか？{pause 8}	{Player nickname (green)}{0005-000d-0000}？
+"029"	{emote: Alarmed}おや？{pause 8}　{Player nickname (green)}{0005-000d-0000}？{pause 32}	{emote: Reset}キミは　ニューイヤーハットを{pause 16}	かぶらないのかい？　{pause 8}{catchphrase}？	{emote: Anger}シャイなハートなんて{pause 16}　{ruby (charSpan 1): す}捨てちゃいなよ！{pause 32}	{emote: Glare}{ruby (charSpan 2): こんや}今夜だけは{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"030"	{emote: Glee}やっぱり　コレかぶると{pause 16}	テンションあがるね～！{pause 8}	{Player nickname (green)}{0005-000d-0000}！	さぁ、{pause 16}30{ruby (charSpan 1): ぷん}分　{ruby (charSpan 1): き}切ったよ～！　{pause 16}	ハッハ～！
+"031"	{emote: Sheepishness}{ruby (charSpan 2): ぼうし}帽子、{pause 8}{ruby (charSpan 2): にあ}似合ってるじゃないか？{pause 16}	{Player nickname (green)}{0005-000d-0000}？{pause 32}	{emote: Sunny}ハッハー！
+"032"	{emote: Pride}どうだい？{pause 32}　この{ruby (charSpan 2): ぼうし}帽子{pause 8}・{pause 8}・{pause 8}・{pause 32}	カッコイイだろ？{Wait for input}{emote: Distress}ちょっと　{ruby (charSpan 2): みす}見過ぎだよ～！{pause 16}	なんだか　{ruby (charSpan 1): は}恥ずかしくなってきたよ、	{pause 8}{catchphrase}！	{emote: Soft Smile}とにかく　{pause 16}キミも{ruby (charSpan 2): いっしょ}一緒に{pause 8}	ニューイヤーハットを　かぶらないか？{pause 8}	{Player nickname (green)}{0005-000d-0000}？
+"033"	{emote: Soft Smile}{Town name (pink)}の{ruby (charSpan 2): わかもの}若者は　みんな{pause 16}	カウントダウンでは{pause 8}	ニューイヤーハットを　かぶるんだ	{emote: Anger}{Player nickname (green)}{0005-000d-0000}も　{ruby (charSpan 2): いっしょ}一緒に{pause 32}	{emote: Showmanship}{Town name (pink)}スタイルで　キメちゃおう！
+"034"
+"035"	{emote: Soft Smile}いや～、{pause 16}{ruby (charSpan 2): ぶじ}無事に　	{ruby (charSpan 2): しんねん}新年を　{ruby (charSpan 1): むか}迎えることができたね！{pause 8}	{Player nickname (green)}{0005-000d-0000}！
+"036"	{emote: Soft Smile}{ruby (charSpan 2): よぞら}夜空は　{ruby (charSpan 1): み}見たかい？{pause 32}	{ruby (charSpan 2): はなび}花火が　とってもキレイだよ、	{pause 8}{catchphrase}	{emote: Love}{pause 16}まるで、{pause 16}ボク{ruby (charSpan 1): たち}達の　{ruby (charSpan 2): しんねん}新年の{ruby (charSpan 2): かどで}門出を{pause 16}	お{ruby (charSpan 1): いわ}祝いしてくれているようだ{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"037"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Love}{pause 16}キレイだ{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Distress}ごめんごめん！　{pause 16}{ruby (charSpan 1): おも}思わず、{pause 8}	{ruby (charSpan 1): み}見とれてしまっていたよ！	{emote: Glare}キミの{ruby (charSpan 1): ひとみ}瞳に{ruby (charSpan 1): うつ}映った　{pause 16}{ruby (charSpan 2): はなび}花火に
+"038"	{emote: Joy}{ruby (charSpan 2): ことし}今年も　{Player nickname (green)}{0005-000d-0000}にとって{pause 16}	ハッピーな{ruby (charSpan 1): とし}年に	なりますように{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Alarmed}って、{pause 8}あれ？　{pause 32}	{emote: Sheepishness}ボクの　{ruby (charSpan 2): しんねん}新年のお{ruby (charSpan 1): ねが}願い、{pause 16}	{ruby (charSpan 1): き}聞こえちゃったかな？　{pause 8}{catchphrase}？
+"039"	{emote: Soft Smile}{ruby (charSpan 2): ことし}今年は　{0005-0013-0002-0000}{ruby (charSpan 1): づく}作りに{pause 16}	チャレンジしちゃおうかな～、	{pause 8}{catchphrase}	{emote: Anger}もちろん、デザートは{pause 32}	{emote: Glare}ティラミスで{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Soft Smile}ナタ・デ・ココもいいね
+"040"	キミも　{emote: Curious}{ruby (charSpan 1): ねむ}眠れないのかい？{pause 16}	{Player nickname (green)}{0005-000d-0000}？{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): よくぼう}欲望に　{ruby (charSpan 1): み}身をゆだねるのも{pause 16}	いいんじゃないかな？{pause 32}	{emote: Glare}{ruby (charSpan 2): こんや}今夜だけは{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"041"	{emote: Daydreaming}{pause 16}{Year}{ruby (charSpan 1): ねん}年は　{ruby (charSpan 2): いったい}一体、{pause 16}	どんな{ruby (charSpan 1): とし}年に　なるんだろう{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glee}{ruby (charSpan 1): いま}今から　{ruby (charSpan 1): たの}楽しみだな～！
+"042"	{emote: Sheepishness}フフフ、{pause 16}キミも	{ruby (charSpan 2): こんや}今夜は　オールナイトかい？	{pause 8}{catchphrase}？	{emote: Anger}あんまり　{ruby (charSpan 1): おそ}遅くまで{ruby (charSpan 1): お}起きてると{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}いや、{pause 8}やめておこう{pause 32}	{emote: Glare}{ruby (charSpan 2): こんや}今夜だけは{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"043"	{emote: Soft Smile}ボクは　いい{ruby (charSpan 1): とし}年だったよ{pause 32}	{emote: Glare}キミのおかげさ{pause 8}・{pause 8}・{pause 8}・
+"044"	{emote: Soft Smile}ボクは　いい{ruby (charSpan 1): とし}年だったよ{pause 32}	{emote: Glare}{0005-001c-0002-cd00}{0005-000d-0000}のおかげさ{pause 8}・{pause 8}・{pause 8}・
+"045"	{emote: Alarmed}おやっ、{pause 32}{emote: Reset}{ruby (charSpan 1): そと}外では　{ruby (charSpan 2): けいき}景気よく{pause 16}	{ruby (charSpan 2): はなび}花火が　{ruby (charSpan 1): あ}上がってるようだね？	{pause 8}{catchphrase}？	{emote: Soft Smile}ボクのことは　{ruby (charSpan 1): き}気にせず、{pause 16}	{ruby (charSpan 1): み}見に{ruby (charSpan 1): い}行ったら　どうだい？{pause 8}	{Player nickname (green)}{0005-000d-0000}？
+"046"	{emote: Sheepishness}{ruby (charSpan 2): ぶじ}無事に　{Year}{ruby (charSpan 1): ねん}年を{pause 16}	{ruby (charSpan 1): むか}迎えることが　できたようだね！{pause 8}	{Player nickname (green)}{0005-000d-0000}！
+"047"	{emote: Anger}{ruby (charSpan 2): ことし}今年は　どんなことが{pause 16}	{ruby (charSpan 1): ま}待ち{ruby (charSpan 1): う}受けているんだろうね？{pause 8}	{Player nickname (green)}{0005-000d-0000}？	{emote: Sheepishness}たとえ、{ruby (charSpan 1): なに}何が{ruby (charSpan 1): お}起きても{pause 16}	{ruby (charSpan 1): の}乗り{ruby (charSpan 1): こ}越えられそうな　{ruby (charSpan 1): き}気がするよ{pause 32}	{emote: Glare}キミとなら{pause 8}・{pause 8}・{pause 8}・{pause 32}{emote: Sunny}ハッハー！
+"048"	{emote: Soft Smile}{ruby (charSpan 2): ことし}今年は　いい{ruby (charSpan 1): とし}年になりそうだな～{pause 32}	{emote: Sheepishness}{ruby (charSpan 2): しんねん}新年から　{Player nickname (green)}{0005-000d-0000}と{pause 16}	{ruby (charSpan 2): いっしょ}一緒に　{ruby (charSpan 1): す}過ごせるんだから{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"049"	{emote: Soft Smile}キミと　ここで　{ruby (charSpan 1): す}過ごした{ruby (charSpan 2): じかん}時間は、{pause 16}	{ruby (charSpan 1): わす}忘れられない　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): で}出になるよ、	{pause 8}{catchphrase}
+"050"	{emote: Thought}{pause 16}{ruby (charSpan 2): きょねん}去年は　あっという{ruby (charSpan 1): ま}間に{pause 16}	{ruby (charSpan 1): はし}走り{ruby (charSpan 1): ぬ}抜けた　{ruby (charSpan 2): いちねん}一年だったな～{Wait for input}{emote: Anger}{ruby (charSpan 2): ことし}今年は　{ruby (charSpan 1): ち}地に{ruby (charSpan 1): あし}足をつけて{pause 16}	{ruby (charSpan 3): まじめ}真面目に　{ruby (charSpan 1): い}生きていくよ！{pause 32}	{emote: Sheepishness}ボクに　できるかな{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"051"	{emote: Glare}{ruby (charSpan 1): ねむ}眠れないのかい？{pause 32}	{emote: Soft Smile}そんなときは　{Villager's name (orange)}の{ruby (charSpan 1): かず}数を{pause 16}	{ruby (charSpan 1): かぞ}数えるといいよ！	{emote: Sleepy}{Villager's name (orange)}が　{ruby (charSpan 2): ひとり}一人{emote: Sleepy}{pause 8}・{pause 8}・{pause 8}・{pause 32}	{Villager's name (orange)}が　{ruby (charSpan 2): ふたり}二人{pause 8}・{pause 8}・{pause 8}・{pause 32}	だんだん　{ruby (charSpan 1): ねむ}眠くなるから{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"052"	{emote: Sheepishness}こんな　{ruby (charSpan 1): おそ}遅い{ruby (charSpan 2): じかん}時間に{pause 16}	ボクの{ruby (charSpan 2): へや}部屋を　{ruby (charSpan 1): おとず}訪れるなんて{pause 16}	キミは　{ruby (charSpan 1): わる}悪い{ruby (charSpan 1): ひと}人だね	{emote: Soft Smile}ま、{pause 16}でも{ruby (charSpan 2): きょう}今日ぐらいは	{ruby (charSpan 1): ゆる}許されると{ruby (charSpan 1): おも}思うよ、{pause 8}{catchphrase}{Wait for input}{emote: Anger}{ruby (charSpan 2): しんねん}新年という{ruby (charSpan 1): な}名の{pause 32}	{emote: Glare}{ruby (charSpan 2): まほう}魔法が　{ruby (charSpan 1): き}効いてる{ruby (charSpan 1): あいだ}間はね
+"053"
+"054"
+"055"	{emote: Alarmed}あれ？　{pause 16}もうかぶってるのかい？{pause 32}	{emote: Sheepishness}{ruby (charSpan 1): さき}先{ruby (charSpan 1): こ}越されちゃったな～！	{pause 8}{catchphrase}！
+"056"	{emote: Sheepishness}{ruby (charSpan 1): き}気が{ruby (charSpan 1): はや}早いな、{pause 8}{Player nickname (green)}{0005-000d-0000}！{pause 32}	{emote: Soft Smile}でも、{pause 8}ボクも　すぐに{ruby (charSpan 1): お}追いつくよ！
+"057"	{emote: Pride}ボクの　{ruby (charSpan 2): としこ}年越しスタイルを{pause 16}	{ruby (charSpan 1): おし}教えてあげるよ、{pause 8}{catchphrase}！
+"058"	{emote: Glare}{ruby (charSpan 1): き}機は　{ruby (charSpan 1): じゅく}熟したようだね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"059"	{emote: Sunny}ハッハー！{pause 16}	これで　{ruby (charSpan 4): じゅんびかんりょう}準備完了だ！
+"060"	{emote: Showmanship}さぁ、{pause 8}ニューイヤーハットを{pause 8}	キミも　かぶるんだ！{pause 8}	{Player nickname (green)}{0005-000d-0000}！
+"061"	{emote: Sheepishness}{ruby (charSpan 1): たし}確かに　そろそろ{pause 16}　	かぶってもいい{ruby (charSpan 1): ころ}頃だね？	{pause 8}{catchphrase}？
+"062"	{emote: Surprise}あっ、{pause 8}{ruby (charSpan 1): わす}忘れてた！{pause 32}	{emote: Soft Smile}ありがとう、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 16}	{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出させてくれて
+"063"	{emote: Alarmed}おっと、{pause 16}そろそろ{pause 8}	かぶってもいい{ruby (charSpan 1): ころ}頃かな？
+"064"	{emote: Anger}{Year}{ruby (charSpan 1): ねん}年も{pause 16}　あと{ruby (charSpan 1): すこ}少しだ{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Surprise}あっ！　{pause 16}ボクは	{ruby (charSpan 2): だいじ}大事なことを　{ruby (charSpan 1): わす}忘れていたよ！
+"065"	{emote: Showmanship}さぁ、{pause 8}{Year}{ruby (charSpan 1): ねん}年の	フィナーレを　{ruby (charSpan 1): むか}迎えようか！
+"066"	{emote: Glee}ほら、{Player nickname (green)}{0005-000d-0000}も{pause 16}	{ruby (charSpan 1): はじ}恥なんか　かなぐり{ruby (charSpan 1): す}捨てて{pause 16}	{ruby (charSpan 2): いっしょ}一緒に　ハジけちゃおうよ！

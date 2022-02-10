@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Anger}
-"002"	{emote: Shyness}
-"003"	{emote: Soft Smile}
-"004"	{emote: Soft Smile}
-"005"	{emote: Soft Smile}
-"006"	{emote: Soft Smile}
+"001"	{emote: Anger}부탁한 물건을{pause 20}	{0011-0001-0002-0000}한테 꼭 좀 전해줘!{Wait for input}	{emote: Happiness}잘 부탁한다, {pause 20}{catchphrase}!
+"002"	{emote: Shyness}부탁한 물건을{pause 20}	{0011-0001-0002-0000}한테{pause 8} 꼭 좀 전해줘!{Wait for input}{emote: Sheepishness}녀석과 화해할 수 있느냐 없느냐는{pause 8}	너한테 달렸다! {pause 20}{catchphrase}!
+"003"	{emote: Soft Smile}내가 빌렸던 물건을{pause 20}	{0011-0001-0002-0000}한테{pause 8}	잘 돌려주라!
+"004"	{emote: Soft Smile}내가 맡긴 분실물을{pause 20}	{0011-0001-0002-0000}한테{pause 8} 꼭 좀 전해줘!{pause 30}	{emote: Sheepishness}분명히 찾고 있을 거야, {pause 20}{catchphrase}!
+"005"	{emote: Soft Smile}너한테 맡긴 우편물을{pause 20}	{0011-0001-0002-0000}한테{pause 8}	꼭 좀 전달해줘라!
+"006"	{emote: Soft Smile}부탁한 물건을{pause 20}	{0011-0001-0002-0000}한테{pause 8}	꼭 좀 전해줘라!{pause 30}	{emote: Sunny}아마 목이 빠져라 기다리고 있을 거다!

@@ -1,17 +1,17 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{000a-0007-000c-0c-00-0c-00-0b-00-0b-00-0c-00-0c-00}
-"003"	{000a-0007-000c-0c-00-0c-00-0b-00-0b-00-0c-00-0c-00}
-"004"	
-"005"	
-"006"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"007"	{0009-0003-000a-0d-00-0e-00-0f-00-10-00-11-00}
-"008"	
-"009"	
-"011"	{emote: Curious}
-"012"	{emote: Surprise}
-"013"	{emote: Disagreement}
-"014"	{emote: Mischief}
-"015"	{emote: Alarmed}
-"016"	{emote: Agreement}
-"017"	{emote: Agreement}
+"001"	{emote: Alarmed}はにゃ？{pause 20}	{emote: Curious}キミもこの{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たカボ？{pause 40}	{emote: Agreement}ワタシと　{ruby (charSpan 1): おな}同じカボね！
+"002"	{000a-0007-000c-000c-000c-000b-000b-000c-000c}
+"003"	{000a-0007-000c-000c-000c-000b-000b-000c-000c}
+"004"
+"005"
+"006"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"007"	{0009-0003-000a-000d-000e-000f-0010-0011}
+"008"
+"009"
+"011"	{emote: Curious}{ruby (charSpan 5): トリック}Trick {ruby (charSpan 2): オア}or {ruby (charSpan 5): トリート}Treat?{Wait for input}・{pause 8}・{pause 8}・{pause 8}{emote: Reset}って、{pause 16}	{emote: Resigned}{ruby (charSpan 2): きょう}今日はハロウィンじゃないカボね、{pause 20}	{emote: Laughter}ホー、ホッホッホ！{pause 40}{emote: Soft Smile}	{emote: Greetings}おジャマしてるカボ！{pause 30}	{emote: Glee}ここは　なかなかいい{ruby (charSpan 2): ばしょ}場所カボね！{pause 30}{emote: Soft Smile}
+"012"	{emote: Surprise}キミ、{pause 8}この{ruby (charSpan 1): むら}村の{ruby (charSpan 1): ひと}人カボね？{pause 40}	{emote: Greetings}おジャマしてるカボ！
+"013"	{emote: Disagreement}{ruby (charSpan 2): しんぱい}心配しなくていいカボ！{pause 40}	{emote: Laughter}アメちゃんは{pause 8}	ハロウィンのときだけで　{ruby (charSpan 2): じゅうぶん}十分カボよ！{pause 40}{emote: Soft Smile}
+"014"	{emote: Mischief}{ruby (charSpan 1): な}泣く{ruby (charSpan 1): こ}子もだまる　{Orange}パンプキング{Color Reset}{ruby (charSpan 1): さま}様も、{pause 20}	{emote: Reset}{ruby (charSpan 2): ふだん}普段は　けっこう{ruby (charSpan 3): けんこうてき}健康的に{pause 12}	{emote: Agreement}アウトドア{ruby (charSpan 2): せいかつ}生活を　{ruby (charSpan 1): たの}楽しんでるカボよ{pause 30}{emote: Soft Smile}
+"015"	{emote: Alarmed}ん？{pause 30}　{emote: Distress}ワタシは	カボチャのランタンじゃないよ！{pause 40}	{emote: Outrage}ペチペチ　たたくんじゃないカボ！{pause 20}{emote: Anger}
+"016"	{emote: Agreement}ワタシが　おススメするスープは{pause 8}・{pause 8}・{pause 8}・{Wait for input}{0007-0004-0000}{emote: Glee}{ruby (charSpan 1): さむ}寒い　{ruby (charSpan 2): ふゆば}冬場なら{pause 20}	あったか～い{pause 20}{emote: Sunny}　パンプキンスープ{Wait <003c 0000> 'time'}{Wait for input}{emote: Glee}{ruby (charSpan 1): あつ}暑い　{ruby (charSpan 2): なつば}夏場なら{pause 20}	つめた～い{pause 20}{emote: Sunny}　パンプキンスープ{Wait <003c 0000> 'time'}{Wait for input}{emote: Glee}{ruby (charSpan 1): あつ}暑くも{ruby (charSpan 1): さむ}寒くもないときは{pause 20}	なまぬる～い{pause 20}{emote: Flourish}　パンプキンスープが{pause 40}	おいしいカボよ！{pause 20}{0007-0005-0000}
+"017"	{emote: Agreement}ワタシが　おススメするスイーツは{pause 8}・{pause 8}・{pause 8}・{Wait for input}{0007-0004-0000}{emote: Glee}さっくりホクホク{pause 40}{emote: Sunny}　パンプキンクッキー、{pause 60}	{emote: Glee}ずっしり　しっとり{pause 40}{emote: Sunny}　パンプキンタルト、{Wait <003c 0000> 'time'}{Wait for input}{emote: Glee}まったり　なめらか{pause 40}{emote: Flourish}　パンプキンプリンも{pause 40}	おいしいカボよ！{pause 20}{0007-0005-0000}

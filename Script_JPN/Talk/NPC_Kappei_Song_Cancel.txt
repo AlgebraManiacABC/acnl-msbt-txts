@@ -1,18 +1,18 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Sheepishness}
-"003"	{emote: Soft Smile}
-"004"	{emote: Curious}
-"005"	{emote: Distress}
-"006"	{emote: Worry}
-"007"	{emote: Distress}
-"008"	{emote: Anger}
-"009"	{emote: Alarmed}
-"010"	{emote: Glare}
-"011"	{emote: Distress}
-"012"	{emote: Worry}
-"013"	{emote: Soft Smile}
-"014"	{emote: Distress}
-"015"	{emote: Distress}
-"016"	{emote: Worry}
-"017"	{emote: Alarmed}
+"001"	{emote: Alarmed}なんだ？　おめぇ{pause 32}	{emote: Reset}{ruby (charSpan 1): いそ}急いでんのか？{Wait for input}{emote: Anger}まだ　{ruby (charSpan 1): はじ}始まった	ばかりじゃねぇか？　{pause 32}	{emote: Glare}{ruby (charSpan 1): き}聞いてくんろ、{pause 16}{0007-000d-0000}{pause 16}オラのアイの{ruby (charSpan 1): うた}歌を
+"002"	{emote: Sheepishness}そんなに　あわてんなって！{pause 16}	{ruby (charSpan 1): しま}島は　どこにも　{ruby (charSpan 1): に}逃げねぇよ{pause 32}	{emote: Glee}そんじゃ、{pause 8}{0007-000d-0000}{pause 16}いくぞー！
+"003"	{emote: Soft Smile}へへっ、{pause 16}おめぇは	せっかちだな～{Wait for input}{emote: Anger}{ruby (charSpan 1): しま}島まで　まだ	ちょっと　あっからよ、{pause 32}	{emote: Glare}それまで、{pause 16}{0007-000d-0000}{pause 16}オラのラブソング{ruby (charSpan 1): き}聞いてくんろ
+"004"	{emote: Curious}なんだ？　{ruby (charSpan 1): ふな}船よいか？{pause 32}	{emote: Soft Smile}そんじゃ～、{pause 16}オラの{ruby (charSpan 1): うた}歌を	{ruby (charSpan 3): こもりうた}子守歌だと　{0007-000d-0000}{ruby (charSpan 1): おも}思って{pause 16}{ruby (charSpan 1): き}聞いてくんろ
+"005"	{emote: Distress}おっ、おい！{pause 8}	せっかく　ここまできたんだ！{pause 16}	{0007-000d-0000}{pause 8}{emote: Happiness}{ruby (charSpan 2): さいご}最後まで　{pause 8}{ruby (charSpan 1): き}聞いてくんろ！
+"006"	{emote: Worry}なんだよぉ、{pause 16}こっからが　	いいトコなのに{pause 8}・{pause 8}・{pause 8}・{0007-000d-0000}
+"007"	{emote: Distress}ちょ、ちょっと{ruby (charSpan 1): ま}待て！{pause 8}	あと{ruby (charSpan 1): すこ}少しで　{ruby (charSpan 1): お}終わんだ！{pause 16}	あと{ruby (charSpan 1): すこ}少しで{pause 8}・{pause 8}・{pause 8}・{pause 32}{000d-0000-0002-cd02}{pause 28}{0007-0008-0004-0004-0000}	{emote: Surprise}あっ{pause 4}・{pause 4}・{pause 4}・{pause 4}へが{ruby (charSpan 1): で}出た～{0007-000d-0000}
+"008"	{emote: Anger}なんだよ、いいトコで！{pause 32}	{emote: Mistaken}あと、ちょっと	だったのに{pause 8}・{pause 8}・{pause 8}・{0007-000d-0000}
+"009"	{emote: Alarmed}なんだ？　おめぇ、{pause 16}	{emote: Reset}そんなに　{ruby (charSpan 1): はや}早く	{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): かえ}帰りてぇのか？ 	{emote: Sheepishness}ま、そう{ruby (charSpan 1): い}言わずに{pause 8}	{ruby (charSpan 2): さいご}最後まで　オラの{ruby (charSpan 1): うた}歌{pause 16}	{emote: Glee}{ruby (charSpan 1): き}聞いてくんろ！{0007-000d-0000}{pause 12} よ～{pause 8}・{pause 8}・{pause 8}・
+"010"	{emote: Glare}へへっ、{pause 16}{ruby (charSpan 1): むら}村が	{ruby (charSpan 1): こい}恋しくなったのか？{pause 32}	{emote: Daydreaming}オラも　{0007-000d-0000}{pause 8}{ruby (charSpan 1): むかし}昔は　いろいろあって
+"011"	{emote: Distress}おっ、おい！{pause 16}	{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着け、{pause 8}{0011-0000-0002-0000}{000e-0005-000a-0000-0006-3061-3083-3093}！{emote: Reset}{Wait for input}{emote: Soft Smile}{ruby (charSpan 3): だいじょうぶ}大丈夫だ！{pause 16}	{0007-000d-0000}{pause 8}オラは、どこにも{ruby (charSpan 1): い}行かねぇ
+"012"	{emote: Worry}トイレなら　もうちょっと	ガマンしてくんろ！{pause 32}	{emote: Glare}アイの{ruby (charSpan 1): うた}歌、{0007-000d-0000}{pause 32}{ruby (charSpan 1): き}聞いてくんろ
+"013"	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は、オラの{ruby (charSpan 1): うた}歌{pause 16}	{ruby (charSpan 1): き}聞いてくれて　ありがとな！{Wait for input}{emote: Anger}{ruby (charSpan 2): きょう}今日のこと{pause 16}	{0007-000d-0000}{pause 8}オラ、{pause 16}{ruby (charSpan 1): わす}忘れねぇからな
+"014"	{emote: Distress}おいっ！　{0007-000d-0000}{pause 16}せっかく{pause 4}・{pause 4}・{pause 4}・
+"015"	{emote: Distress}あと　ちょっとなのに{pause 4}・{pause 4}・{pause 4}・{pause 4}	おめぇってやつは～{pause 4}・{pause 4}・{pause 4}・{pause 4}{0007-000d-0000}
+"016"	{emote: Worry}あと{ruby (charSpan 1): すこ}少しだったのに{pause 8}・{pause 8}・{pause 8}・{000d-0000-0002-cd02}{0007-000d-0000}
+"017"	{emote: Alarmed}なんだ？　おめぇ！{pause 32}	{emote: Worry}{ruby (charSpan 1): ひと}人が　せっかく	キモチ{ruby (charSpan 1): よ}良く{ruby (charSpan 1): うた}歌ってんのに{pause 4}・{pause 4}・{pause 4}・{pause 4}	{emote: Anger}ガチャガチャ	ボタンとか{ruby (charSpan 1): お}押しやがって{pause 4}・{pause 4}・{pause 4}・{pause 32}	{emote: Curious}そんなに　{ruby (charSpan 1): いそ}急いでんのか？	{emote: Worry}ま、{pause 16}そういう{ruby (charSpan 1): とき}時もあるか～{Wait for input}	{emote: Reset}そんなら　{ruby (charSpan 1): うた}歌はやめて、{pause 16}	{ruby (charSpan 1): いそ}急いで　{ruby (charSpan 3): もくてきち}目的地を{ruby (charSpan 2): めざ}目指すべぇ

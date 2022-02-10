@@ -1,31 +1,31 @@
 == 0 ==
-"001"	あのさ～　{pause 20}
-"002"	{emote: Distress}
-"003"	{emote: Distress}
-"004"	{emote: Sheepishness}
-"005"	{emote: Distress}
-"006"	{emote: Soft Smile}
-"007"	
-"008"	
-"009"	
-"010"	
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Glee}
-"014"	{emote: Happiness}
-"015"	{emote: Agreement}
-"016"	{emote: Happiness}
-"017"	{emote: Happiness}
-"018"	{emote: Soft Smile}
-"019"	{emote: Soft Smile}
-"020"	
-"021"	{emote: Sheepishness}
-"022"	{emote: Worry}
-"023"	{emote: Worry}
-"024"	{emote: Soft Smile}
-"025"	{emote: Worry}
-"026"	{emote: Agreement}
-"027"	
-"028"	
-"029"	
-"030"	
+"001"	あのさ～　{pause 20}ちょっと　お{ruby (charSpan 1): ねが}願いしていい？{Wait for input}{emote: Worry}アタイ、{pause 10}{0011-0001-0002-0000}{0005-000d-0000}に	プレゼントがあるんだけど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): いま}今　{ruby (charSpan 1): て}手がはなせなくてさ～	{emote: Distress}アタイの{ruby (charSpan 1): か}代わりに{pause 10}	とどけてもらえないかな～？
+"002"	{emote: Distress}あのさぁ{pause 20}{pause 8}・{pause 8}・{pause 8}・{pause 8}	アタイ　{pause 10}{0011-0001-0002-0000}{0005-000d-0000}と{pause 8}	ケンカしちゃったんだよね	{emote: Sadness}ほら　{pause 8}アタイ{pause 20}	{ruby (charSpan 1): おも}思ったこと　{pause 8}{ruby (charSpan 1): なん}何でも{ruby (charSpan 1): い}言っちゃうタイプじゃん{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Distress}{ruby (charSpan 1): はや}早く　{ruby (charSpan 2): なかなお}仲直りしたいんだよ～！	{emote: Worry}お{ruby (charSpan 1): ねが}願い！{pause 20}　アタイの{ruby (charSpan 1): か}代わりに{pause 10}	これ　とどけてくんない？{pause 30}	おわびの{ruby (charSpan 2): きも}気持ちなの！
+"003"	{emote: Distress}ねぇ！　{pause 20}{0011-0001-0002-0000}{0005-000d-0000}に	とどけてほしいものが　あるんだよね～{Wait for input}{emote: Sheepishness}{ruby (charSpan 1): まえ}前　{ruby (charSpan 1): あそ}遊んだ{ruby (charSpan 1): とき}時に{pause 10}　どうしてもって{ruby (charSpan 1): い}言って{pause 5}	{ruby (charSpan 1): か}借りたんだけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Worry}その{ruby (charSpan 1): あと}後{pause 10}	{ruby (charSpan 1): かえ}返すの　わすれちゃってたの～{Wait for input}{ruby (charSpan 1): いま}今さら　{ruby (charSpan 1): き}気まずいし{pause 10}	{emote: Distress}{ruby (charSpan 1): か}代わりに　{ruby (charSpan 1): も}持って{ruby (charSpan 1): い}行ってくれない？
+"004"	{emote: Sheepishness}{0011-0001-0002-0000}{0005-000d-0000}が{pause 10}	うちに　わすれ{ruby (charSpan 1): もの}物しちゃって！{Wait for input}{emote: Thought}きっと　{ruby (charSpan 1): いま}今ごろ{pause 10}　{ruby (charSpan 1): な}無くしたと{ruby (charSpan 1): おも}思って{pause 10}	{ruby (charSpan 1): お}落ちこんでるんじゃないかな{pause 5}・{pause 5}・{pause 5}・{pause 5}！{Wait for input}{emote: Soft Smile}で、{pause 10}お{ruby (charSpan 1): ねが}願いなんだけど{pause 20}	{ruby (charSpan 1): か}代わりに　とどけてくんない？
+"005"	{emote: Distress}ちょっと　{ruby (charSpan 1): き}聞いて～{Wait for input}{emote: Soft Smile}アタイにプレゼントが　とどいたから{pause 20}	{emote: Joy}ちょー{ruby (charSpan 1): よろこ}喜んで　{ruby (charSpan 1): あ}開けようとしたら{pause 10}	{emote: Aggravation}{0011-0001-0002-0000}{0005-000d-0000}あてだったんだよ～	{emote: Sadness}アタイ、{pause 10}{ruby (charSpan 1): いま}今　{ruby (charSpan 1): お}落ちこんでるから{pause 10}	{ruby (charSpan 1): か}代わりに　{pause 5}とどけてきて～！
+"006"	{emote: Soft Smile}アタイ、{pause 10}{ruby (charSpan 2): そうだん}相談があるんだよ～{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Reset}{0011-0001-0002-0000}{0005-000d-0000}に{pause 10}	たのまれた　{ruby (charSpan 2): しなもの}品物があるんだけど{pause 20}	{emote: Soft Smile}{ruby (charSpan 1): か}代わりに　{pause 8}{ruby (charSpan 1): も}持って{ruby (charSpan 1): い}行ってくれないかな？	{emote: Distress}アタイ、{pause 10}いま{ruby (charSpan 1): て}手が　はなせないの！{Wait for input}	あのコ　{pause 10}{ruby (charSpan 1): たの}楽しみにしてると{ruby (charSpan 1): おも}思うし{pause 15}	お{ruby (charSpan 1): ねが}願い！
+"007"
+"008"
+"009"
+"010"
+"011"	{emote: Happiness}ありがと～！{pause 20}	じゃあ、{pause 10}これよろしく！
+"012"	{emote: Happiness}よかった～{pause 20}	これで　{pause 10}{0011-0001-0002-0000}{0005-000d-0000}と{pause 10}	{ruby (charSpan 2): なかなお}仲直りできるかも、{pause 15}{catchphrase}
+"013"	{emote: Glee}ホント～？！{pause 25}	さすが　{pause 10}{Player nickname (green)}{0005-000d-0000}だね！
+"014"	{emote: Happiness}わ～い！{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}　{ruby (charSpan 1): よろこ}喜ぶよ～
+"015"	{emote: Agreement}うん　{pause 10}ありがと～{emote: Reset}
+"016"	{emote: Happiness}よかった！　{pause 20}{ruby (charSpan 1): たす}助かるよ～{pause 30}	じゃあ、{pause 10}これ　よろしく！
+"017"	{emote: Happiness}ちょっと　{ruby (charSpan 2): たいへん}大変かもだけど{pause 10}	{ruby (charSpan 3): きょうじゅう}今日中で　お{ruby (charSpan 1): ねが}願い！　{pause 20}{catchphrase}！
+"018"	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　もうおそいし{pause 10}	{ruby (charSpan 2): あした}明日{ruby (charSpan 1): じゅう}中でいいから！
+"019"	{emote: Soft Smile}こんな{ruby (charSpan 2): じかん}時間だから{pause 10}	{ruby (charSpan 1): あさ}朝になったらでいいし！
+"020"
+"021"	{emote: Sheepishness}そっか～{pause 20}	じゃあ、{pause 10}{ruby (charSpan 2): じぶん}自分でとどけるね
+"022"	{emote: Worry}そうだよね～{pause 20}	やっぱ　こういうことは{pause 10}	{ruby (charSpan 2): じぶん}自分でやんないと　{ruby (charSpan 2): いみ}意味ないか
+"023"	{emote: Worry}そっか～{pause 20}	やっぱり{pause 10}　{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): かえ}返さないとだよね！
+"024"	{emote: Soft Smile}わかった～{pause 20}	じゃあ、{pause 10}{ruby (charSpan 1): あと}後で　とどけるわ
+"025"	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 8}	じゃあ　{pause 10}{ruby (charSpan 2): じぶん}自分でとどけるよ～、{pause 15}{catchphrase}
+"026"	{emote: Agreement}たしかに　{pause 15}アタイがとどけないと{pause 10}	ビックリするかもだし！
+"027"
+"028"
+"029"
+"030"

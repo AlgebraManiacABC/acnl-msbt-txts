@@ -1,14 +1,14 @@
 == 0 ==
-"001"	
-"002"	{emote: Showmanship}
-"003"	
-"004"	참참～{0007-0009-0004-14-00-00-00}
-"005"		{0007-000a-0000}
-"006"	{emote: Mistaken}
-"007"	{emote: Glare}
-"008"	{emote: Sunny}
-"009"	{emote: Happiness}
-"010"	쳇,{pause 20}
-"011"	{emote: Sadness}
-"012"	{emote: Happiness}
-"013"	{emote: Laughter}
+"001"
+"002"	{emote: Showmanship}좋았어～～ {pause 8}이제 시작한다～!		{Wait <005a 0000> 'time'}	{emote: Reset}우선{pause 8} 규칙을 설명할 테니까	잘 들어!{Wait for input}내가 {emote: Star Yell}{pause 15}참참～{pause 30}	{emote: Reset}이라고 하면	를 눌러서 방향을 정하는 거야{Wait for input}{emote: Happiness}내가 너랑 같은 방향으로	고개를 돌리면	니가 이기는 거야!	{emote: Reset}기회는 {emote: Greetings}3번!{pause 40}	{emote: Reset}위냐, 아래냐, 왼쪽이냐, 오른쪽이냐{pause 8}・{pause 8}・{pause 8}・{pause 20}	내가 어느 쪽으로 돌릴지 맞혀봐!{Wait for input}그럼 시작한다?!{pause 30}	{emote: Anger}게임 스타트!
+"003"
+"004"	참참～{Wait <0014 0000> 'time'}
+"005"		{0007-000a-0000}{Text size 200%}참～!{Text size 100%}
+"006"	{emote: Mistaken}젠장～!{pause 20}	같은 방향을 보다니～!
+"007"	{emote: Glare}헤헷, 땡이다!{pause 40}	{emote: Soft Smile}그럼 한 번 더 간다～
+"008"	{emote: Sunny}으하핫!{pause 20}	또 틀렸구나～!{Wait for input}{emote: Reset}자, 이제 마지막 기회다!{pause 30}	{emote: Soft Smile}준비됐냐?
+"009"	{emote: Happiness}결국 다 틀렸군～!
+"010"	쳇,{pause 20} {emote: Delight}니가 이겼다!{pause 60}{emote: Soft Smile}
+"011"	{emote: Sadness}내가 진 건가{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Glare}이 녀석, {pause 15}꽤 하는구만!
+"012"	{emote: Happiness}이렇게 되면{pause 20}	이 몸이 이겼군!{pause 20}	{emote: Laughter}으ー하하핫!{pause 40}{emote: Happiness}
+"013"	{emote: Laughter}으ー하하핫!{pause 30}	{emote: Happiness}내가 이겼다!{Wait for input}{emote: Sheepishness}너 아무래도 감이{pause 15}	{emote: Resigned}무뎌진 거 아니냐?!{pause 8}{emote: Sheepishness}

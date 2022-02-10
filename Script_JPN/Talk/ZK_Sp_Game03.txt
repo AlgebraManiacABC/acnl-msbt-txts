@@ -1,14 +1,14 @@
 == 0 ==
-"001"	
-"002"	{emote: Glee}
-"003"	
-"004"	あっちむいて～{0007-0009-0004-14-00-00-00}
-"005"		{0007-000a-0000}
-"006"	{emote: Surprise}
-"007"	{emote: Sheepishness}
-"008"	{emote: Alarmed}
-"009"	{emote: Sheepishness}
-"010"	{emote: Soft Smile}
-"011"	{emote: Sheepishness}
-"012"	{emote: Soft Smile}
-"013"	{emote: Sheepishness}
+"001"
+"002"	{emote: Glee}それじゃ、{pause 8}いくよ～！		{Wait <005a 0000> 'time'}	{emote: Alarmed}おっと、{pause 16}その{ruby (charSpan 1): まえ}前に	ルール{ruby (charSpan 2): せつめい}説明だ！　{pause 8}{catchphrase}！{Wait for input}{emote: Reset}ボクが「あっちむいて～」って{pause 16}	{ruby (charSpan 1): い}言ったら、{pause 16}を{ruby (charSpan 1): お}押して{pause 16}	{ruby (charSpan 1): む}向きを　{ruby (charSpan 1): き}決めて{ruby (charSpan 1): ほ}欲しい	{emote: Soft Smile}それで　{pause 8}キミが　ボクと　{pause 16}	{ruby (charSpan 1): おな}同じ{ruby (charSpan 2): ほうこう}方向を　{ruby (charSpan 1): む}向いてたら、{pause 16}	キミの{ruby (charSpan 1): か}勝ちだよ、{pause 8}{catchphrase}！	{emote: Anger}チャンスは　3{ruby (charSpan 1): かい}回だ！{pause 32}	{ruby (charSpan 1): うえ}上か　{pause 8}{ruby (charSpan 1): した}下か　{pause 8}{ruby (charSpan 1): みぎ}右か　{pause 8}{ruby (charSpan 1): ひだり}左か{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}ボクのキモチ、{pause 16}わかるかな？	{emote: Glee}{ruby (charSpan 2): こんど}今度こそ、{pause 8}いくよ～！
+"003"
+"004"	あっちむいて～{Wait <0014 0000> 'time'}
+"005"		{0007-000a-0000}{Text size 200%}ホ{pause 8}～{pause 8}イ{Text size 100%}
+"006"	{emote: Surprise}あっ！　{pause 32}{emote: Sheepishness}ボク{ruby (charSpan 1): たち}達、{pause 16}	{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): ほう}方を{ruby (charSpan 1): み}見てるね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"007"	{emote: Sheepishness}フフフ{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): べつ}別の{ruby (charSpan 2): ほうこう}方向だね？{pause 32}	あきらめるのは　まだ{ruby (charSpan 1): はや}早いよ{pause 32}	{emote: Glee}ワンモア！
+"008"	{emote: Alarmed}おや{pause 4}・{pause 4}・{pause 4}・{pause 4}また{ruby (charSpan 1): べつ}別の{ruby (charSpan 2): ほうこう}方向だね？{pause 32}	{emote: Anger}{ruby (charSpan 1): つぎ}次で　{ruby (charSpan 2): さいご}最後のチャンスだ！{pause 32}	{emote: Glee}それじゃあ、{pause 8}いくよ～！
+"009"	{emote: Sheepishness}ラストチャンスも{pause 16}	ものに　できなかったようだね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"010"	{emote: Soft Smile}キミの{ruby (charSpan 1): か}勝ちだ！{pause 32}	やるねぇ、{pause 8}{catchphrase}！
+"011"	{emote: Sheepishness}ボクの{ruby (charSpan 1): ま}負けだ！{pause 32}	キミ　{ruby (charSpan 1): つよ}強いんだね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"012"	{emote: Soft Smile}{ruby (charSpan 2): ざんねん}残念だけど、{pause 15}キミの{ruby (charSpan 1): ま}負けだ！	{pause 8}{catchphrase}！
+"013"	{emote: Sheepishness}{ruby (charSpan 2): しょうり}勝利の{ruby (charSpan 2): めがみ}女神は　ボクに{pause 16}	{ruby (charSpan 2): ほほえ}微笑んでくれたようだね、	{pause 8}{catchphrase}	{emote: Soft Smile}でも、{pause 8}{ruby (charSpan 1): つぎ}次は　どうなるかわからない{pause 32}	{ruby (charSpan 2): しょうぶ}勝負とは　そういうものだよ

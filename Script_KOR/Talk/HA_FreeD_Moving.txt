@@ -1,14 +1,14 @@
 == 0 ==
-"001"	{emote: Sigh}
-"002"	{emote: Happiness}
-"003"	{0009-0001-0006-04-00-05-00-06-00}
-"004"	{emote: Distress}
-"005"	{Player nickname (green)}
-"006"	{emote: Shocked}
-"007"	{0009-0006-0010-08-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00-0d-00}
-"008"	{000a-0000-0006-01-09-00-0a-00-ffffffcd}
-"009"	{000a-0000-0006-05-0c-00-0b-00-ffffffcd}
-"010"	{emote: Anger}
-"011"	{emote: Laughter}
-"012"	{emote: Anger}
-"013"	{emote: Agreement}
+"001"	{emote: Sigh}이제 {Number (0x6)}일만 있으면	이사구나{pause 8}・{pause 8}・{pause 8}・{pause 20}	시간이 참 빠르네ー{Player can respond (0000):0003-0000-0007-0000}	가지 마!	건강해라!
+"002"	{emote: Happiness}드디어 모레는 대망의 이사다ー!{pause 40}	온 마을을 뛰어다니며 보는 풍경도	이제 마지막이라구ー!{Wait for input}{emote: Worry}아{pause 8}・{pause 8}・{pause 8}・{pause 20}	갑자기 쓸쓸해지네ー{Player can respond (0000):0003-0000-0007-0000}	이사 가지 마!	기운 내서 짐 싸!
+"003"	{0009-0001-0006-0004-0005-0006}
+"004"	{emote: Distress}이봐ー!!{pause 20}	사나이의 결심을 흔드는	그런 말은 반칙이야, {pause 8}{catchphrase}!{Wait for input}{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Curious}진짜로 좀 더	여기에서 살아도 되냐?{Wait for input}{emote: Reset}니가 그렇게까지 말리는데{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sunny}이사는 취소할까 봐!{Wait for input}{emote: Laughter}하하핫!{pause 40}	자꾸 이랬다저랬다 하는 게	딱 나답지 않냐ー?{pause 40}{emote: Soft Smile}{Wait for input}{Player nickname (green)}{000e-000e-0008-0002-c544-0002-c57c}!{pause 20}	앞으로도 잘 지내보자!
+"005"	{Player nickname (green)}{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Worry}니가 그런 말을 하면	내 결심이 흔들리잖냐ー{Wait for input}{emote: Thought}흐음{pause 8}・{pause 8}・{pause 8}・{pause 20}	그래{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Disagreement}결정했다!{pause 40}	{emote: Sunny}역시 좀 더 이 마을에서	사는 게 나을 것 같아ー!{Wait for input}{emote: Agreement}아직 이 마을 녀석들과	보낸 시간이 부족하다는	생각이 불현듯 들었거든!{Wait for input}{emote: Happiness}앞으로도 잘 부탁한다!{pause 20}	{Player nickname (green)}!
+"006"	{emote: Shocked}{0007-000b-0000}뭐엇?!{pause 20}	지금 날 붙잡는 거냐ー?!{Wait for input}{emote: Thought}우웅{pause 8}・{pause 8}・{pause 8}・{pause 20}	니가 그렇게 말한다면{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sunny}이사 계획은 취소다!{Wait for input}{emote: Resigned}걱정되어서 안 되겠어!{pause 20}	내가 없으면 니가{pause 8} 운동을 빼먹고	놀러 다닐 것 같거든ー{Wait for input}{emote: Happiness}앞으로도 내가	확실하게 훈련시켜 주마!	{pause 8}{catchphrase}!
+"007"	{0009-0006-0010-0008-000d-000d-000d-000d-000d-000d-000d}
+"008"	{000a-0000-0006-0901-0a00-cd00}
+"009"	{000a-0000-0006-0c05-0b00-cd00}
+"010"	{emote: Anger}엥ー?{pause 20}	{pause 8}・{pause 8}・{pause 8}・{pause 20}잠깐ー?{Wait for input}{emote: Thought}다시 생각해보니까{pause 20}	아직 너에게 진정한 트레이닝을{pause 8}	전수하지 않았잖아ー?{Wait for input}{emote: Disagreement}안 돼ー!{pause 20}	이대로 이사할 수는 없어!{Wait for input}{emote: Sunny}좋아, 결심했다ー!{pause 20}	이사는 그만두고	널 좀 더 단련시키겠어ー!{Wait for input}{emote: Laughter}하하핫!{pause 20}	각오 단단히 해 둬라ー!	{pause 8}{catchphrase}!{pause 40}{emote: Soft Smile}
+"011"	{emote: Laughter}하하핫!{pause 20}	그래! 고맙다!{pause 40}{emote: Happiness}{Wait for input}너 생각보다	꽤 친절한 녀석이었구나?{Wait for input}{emote: Worry}그럼{pause 20} 너랑 좀 더	친해져도 괜찮은 거였나{pause 8}・{pause 8}・{pause 8}・{pause 8}?{Wait for input}{emote: Thought}흐음～{pause 20}	나 조금만 더 이 마을에	남는 게 좋을 것 같아!{Wait for input}{emote: Anger}너와 뜨거운 우정을 쌓을 때까지{pause 20}	이사 계획은 일단 보류할래!{Wait for input}{emote: Sunny}그러니까 앞으로	잘 지내보자, {pause 8}{catchphrase}!
+"012"	{emote: Anger}쳇, 뭐냐ー!{pause 20}	가지 말라고 잡을 줄 알았는데ー{Wait for input}절친이라고 생각했는데{pause 20}	{emote: Disagreement}배신당한 기분마저 들잖아ー!{Wait for input}{emote: Outrage}나 마음이 바뀌었다!{pause 20}	이사는 취소야, 취소!	{pause 8}{catchphrase}!{Wait for input}{emote: Laughter}앞으로는 너랑 더 많은	시간을 보낼 생각이다!{pause 40}	각오 단단히 해 둬ー!{pause 40}{emote: Soft Smile}
+"013"	{emote: Agreement}그래!{pause 20} 얼마 안 있으면 안녕이다!{pause 40}	{emote: Happiness}그때까지 이 마을을 실컷 즐겨야지,	{pause 8}{catchphrase}!

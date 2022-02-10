@@ -1,33 +1,33 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Surprise}
-"003"	{emote: Thought}
-"004"	{emote: Distress}
-"005"	{emote: Distress}
-"006"	{emote: Worry}
-"007"	{emote: Sadness}
-"008"	{emote: Soft Smile}
-"009"	{emote: Curious}
-"010"	{emote: Curious}
-"011"	{Player nickname (green)}
-"012"	{emote: Worry}
-"013"	{emote: Worry}
-"014"	
-"015"	
-"016"	{emote: Worry}
-"017"	{emote: Worry}
-"018"	{emote: Reset}
-"019"	{emote: Soft Smile}
-"020"	{emote: Soft Smile}
-"021"	{emote: Happiness}
-"022"	
-"023"	
-"024"	{emote: Surprise}
-"025"	{0011-0001-0002-00-00}
-"026"	{0011-0001-0002-00-00}
-"027"	{0011-0001-0002-00-00}
-"028"	{emote: Curious}
-"029"	
-"030"	{0011-0001-0002-00-00}
-"031"	{emote: Happiness}
-"032"	{Player nickname (green)}
+"001"	{emote: Surprise}{0011-0001-0002-0000}님이{pause 10}	제게 볼일이 있으시다구요?{Wait for input}	{emote: Thought}흐음{pause 8}・{pause 8}・{pause 8}・{pause 8} 무슨 일이실까?{pause 30}	{emote: Soft Smile}그럼 일단{pause 5} 가볼까요?{pause 30}	{emote: Reset}저는 {pause 10}{Player nickname (green)}님 뒤를{pause 5}	쫓아갈게요!{emote: Sunny}
+"002"	{emote: Surprise}{0011-0001-0002-0000}님이{pause 10}	절 데려오라고 하셨다구요?{Wait for input}{emote: Distress}무슨 일 있으신 건가?{pause 20}	걱정되니까{pause 10} 빨리 출발해요, 우리!{Wait for input}{emote: Anger}{Player nickname (green)}님만 따라갈게요!
+"003"	{emote: Thought}어머{pause 5}・{pause 5}・{pause 5}・{pause 20}	{0011-0001-0002-0000}님이{pause 10}	절 찾으신다구요{pause 5}・{pause 5}・{pause 5}・{pause 5}?	{emote: Reset}일단은{pause 15} 그분께 가봐야겠네요{pause 10}	{emote: Curious}절 데려가주실 거죠?	{pause 8}{catchphrase}?
+"004"	{emote: Distress}저기요～!{pause 15}	{Player nickname (green)}님!{pause 20}	{emote: Worry}너무{pause 10} 빨리 가시는 거 아니에요?
+"005"	{emote: Distress}자,{pause 10} 잠깐만!{pause 20}	같이 가요, {Player nickname (green)}님～!
+"006"	{emote: Worry}왜 그렇게 서두르세요?{pause 10}	혹시 무슨 일 있으세요?{000f-0000-0004-0000-0000}	미안 미안	나 다른 볼일이・・・
+"007"	{emote: Sadness}히잉{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Worry}저 평소에{pause 10} 운동을 많이 안 해서{pause 8}	너무 숨이 차요{000f-0000-0004-0000-0000}	미안해, 조심할게	급한 볼일이 생겨서・・・
+"008"	{emote: Soft Smile}어머!{pause 20}	거기는{pause 10} 다른 방향인데요?{000f-0000-0004-0000-0000}	앗, 나의 실수!	내가 볼일이 있어・・・
+"009"	{emote: Curious}{Player nickname (green)}님?{pause 20}	그쪽으로 {pause 10}가는 게 맞나요{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 8}{000f-0000-0004-0000-0000}	미안, 착각했어	잠깐 볼일 좀・・・
+"010"	{emote: Curious}어머?{pause 20} 왜 그러세요?{pause 30}	{emote: Soft Smile}어서 {0011-0001-0002-0000}님 댁으로{pause 10}	가야죠!{000f-0000-0004-0015-0000}	그래, 그러자!	내가 급한 볼일이・・・
+"011"	{Player nickname (green)}님,{pause 10} {emote: Curious}왜 그러세요?{pause 30}	{emote: Happiness}자, {pause 20}{0011-0001-0002-0000}님이 기다리실 테니까	빨리{pause 3} 그분의 집에 가도록 하죠!{000f-0000-0004-0015-0000}	OK! 가자!	잠깐 급한 볼일이・・・
+"012"	{emote: Worry}저기{pause 8}・{pause 8}・{pause 8}・{pause 20}	아직도{pause 5} 멀었나요?{Wait for input}{emote: Soft Smile}저 계속{pause 10} 걸었더니 지쳤어요{pause 10}	오늘은{pause 10} 그만 가서 쉴래요
+"013"	{emote: Worry}호, 혹시{pause 10}	길을 잃어버리셨나요?{Wait for input}{emote: Sadness}어쩌죠{pause 8}・{pause 8}・{pause 8}・{pause 8}	전 이미{pause 10} 체력이 바닥나 버렸어요{pause 20}	발도 너무 아프구요!	{emote: Reset}{0011-0001-0002-0000}님께는 죄송하지만{pause 10}	전 이만 여기에서{pause 5} 실례할게요
+"014"
+"015"
+"016"	{emote: Worry}그러셨군요～{pause 20}	{emote: Soft Smile}그럼{pause 10} 여기서부터는	제가 혼자{pause 5} 찾아가볼게요
+"017"	{emote: Worry}그러시구나{pause 8}・{pause 8}・{pause 8}・{pause 8} {emote: Soft Smile}알겠어요!{Wait for input}	여기까지도 충분한 것 같아요{pause 20}	{emote: Greetings}안내해주셔서 감사합니다
+"018"	{emote: Reset}죄송한데{pause 10} 조금만	천천히{pause 8} 가면 안 될까요?
+"019"	{emote: Soft Smile}너무 서두르면{pause 5} 안 될 것 같아요{pause 20}	천천히 차분하게 가도록 해요, 우리!
+"020"	{emote: Soft Smile}괜찮아요～{pause 5}	그럴 수도 있죠
+"021"	{emote: Happiness}{0011-0001-0002-0000}님이{pause 5}	기다리다 지치시겠어요{pause 10}	어서 가요, 우리!
+"022"
+"023"
+"024"	{emote: Surprise}네?{pause 20}	{0011-0001-0002-0000}님이 절 찾으신다구요?{Wait for input}근데 그거{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 10}	{emote: Soft Smile}꽤 오래전 일 아닌가요?{Wait for input}{emote: Agreement}무슨 용건이신지는 모르겠지만{pause 10}	{0011-0001-0002-0000}님의 성격을 생각하면{pause 10}	{emote: Reset}벌써 해결하지 않으셨을까요?{pause 10}	{emote: Soft Smile}아마{pause 10} 제가 가지 않아도 될 거예요{pause 30}	아무튼{pause 10}{emote: Greetings} 전해주셔서 감사해요!
+"025"	{0011-0001-0002-0000}님이	{emote: Curious}제게 볼일이 있으시다구요?	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Inspired}아아!{pause 20} 아마{pause 5} 그 일 때문일 거예요	{emote: Soft Smile}그 일이라면{pause 10} 다 해결됐을 테니	걱정하지 않으셔도 괜찮아요{pause 20}	{emote: Glee}다음에{pause 10} 제가 잘 말씀드릴게요
+"026"	{0011-0001-0002-0000}님이{pause 10}	{emote: Curious}절 데려오라고 하셨어요?{Wait for input}{emote: Worry}어쩌죠～?{pause 20}	제가 지금{pause 10}	급한 일이 있어서{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}나중에 제가 찾아가서{pause 10}	말씀드릴게요!{Wait for input}{emote: Happiness}여기까지 알려주러 와주셔서{pause 10}	정말 감사합니다!
+"027"	{0011-0001-0002-0000}님이{pause 10}	{emote: Curious}저한테 볼일이 있으시대요?{Wait for input}	{emote: Soft Smile}그럼{pause 10} 제가 다녀올게요!	손님이 와 계신 것 같은데{pause 10}	{Player nickname (green)}님도{pause 5} 볼일 보러	가셔도 된답니다!
+"028"	{emote: Curious}어머, {pause 20}{0011-0001-0002-0000}님이{pause 10}	저를 부르신다구요?{Wait for input}{emote: Soft Smile}{pause 10}{Player nickname (green)}님,{pause 10}	아무래도 지금{pause 8} 바쁘신 것 같은데{Wait for input}다른 볼일 먼저 끝내고{pause 5}	오시는 게 좋을 것 같아요{Wait for input}그 다음에 같이 {pause 8}	{0011-0001-0002-0000}님 댁으로	가는 거예요!
+"029"
+"030"	{0011-0001-0002-0000}님이{pause 10}	{emote: Curious}저를 찾으신다구요?{Wait for input}{emote: Soft Smile}그치만 {pause 5}{Player nickname (green)}님은{pause 15}	친구를 마을로 초대할{pause 3}	계획 아니신가요?	{emote: Reset}친구분이{pause 10} 언제 와도	문제가 없도록{pause 15}	준비해 두셔야 할 것 같은데요	{emote: Happiness}저는 {pause 10}이따가{pause 3}	혼자서 찾아갈 수 있으니까{pause 10}	염려 마세요! {pause 20}{catchphrase}!
+"031"	{emote: Happiness}{Player nickname (green)}님,{pause 20}	마을에 친구분이{pause 3}	와 계시나 보네요!{Wait for input}손님맞이만으로도 바쁘실 텐데{pause 5}	{emote: Agreement}{0011-0001-0002-0000}님 댁에는{pause 10}	저 혼자 찾아갈게요	{emote: Happiness}제 일은 걱정 마시고{pause 15}	친구분과 즐겁게 노세요,	{pause 15}{catchphrase}
+"032"	{Player nickname (green)}님,{pause 20}	친구분이 오실 예정 같은데{pause 15}	준비에{pause 5} 한창 바쁘신 거 아닌가요?{Wait for input}{emote: Happiness}{0011-0001-0002-0000}님의 집에는{pause 15}	저 혼자 갈 수 있으니까{pause 10}	걱정 안 하셔도 된답니다, {pause 15}{catchphrase}

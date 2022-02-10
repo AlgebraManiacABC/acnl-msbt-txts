@@ -1,66 +1,66 @@
 == 0 ==
-"001"	{emote: Reset}
-"002"	{emote: Worry}
-"003"	{emote: Anger}
-"004"	{emote: Laughter}
-"005"	{000a-0001-0004-07-00-06-00}
-"006"	{0009-0000-0004-07-00-08-00}
-"007"	{emote: Sunny}
-"008"	{emote: Sunny}
-"009"	{emote: Worry}
-"010"	{emote: Soft Smile}
-"011"	{0009-0002-0008-0c-00-0c-00-0c-00-0d-00}
-"012"	{emote: Anger}
-"013"	{emote: Anger}
-"014"	Well, I guess the item wasn't quite	right for you? {pause 10}
-"015"	{emote: Agreement}
-"016"	{emote: Soft Smile}
-"017"	{0009-0002-0008-12-00-12-00-12-00-13-00}
-"018"	{emote: Anger}
-"019"	{emote: Anger}
-"020"	{emote: Shocked}
-"021"	{emote: Glare}
+"001"	{emote: Reset}So I have a bond with my 	{0011-0003-0002-0002} that's	strong as titanium.	{0007-000d-0000}{emote: Disagreement}I'll never let my favorite item go.{pause 10}	Except,{pause 5} maybe, {pause 5}for you. {pause 10}How about	it?{pause 10} For {Blue}{Number (0x9)} Bells{Color Reset}, {Player nickname (green)}?{confirmation-02}{Player can respond (0005):0005-0015-0004-0028}	I want it now!	Are you kidding?
+"002"	{emote: Worry}So I've done it again, {Player nickname (green)}.{pause 10}	I buy {Article(word-dependant)}{0011-0003-0002-0001}	every time I go shopping!	{emote: Disagreement}Now I've got way too many,	{catchphrase}.{000a-0000-0006-0b02-1100-cd00}
+"003"	{emote: Anger}You know, {Player nickname (green)}? I'm so over	my {0011-0003-0002-0001} now.{Wait for input}I thought my image would be	improved, but that's not how	things work.	Nope, didn't work at all. {pause 10}{emote: Sadness}I'm just	the same old me. Ugh, how awful.{pause 10}	But.{pause 5}.{pause 5}.{pause 5}{emote: Soft Smile}maybe you'd like my item?	{0007-000d-0000}{emote: Reset}I'd sell this "image-modification	device" at a modest discount.{pause 10}	How about {Blue}{Number (0x9)} Bells{Color Reset}?{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	OK, fine.	No, thanks.
+"004"	{emote: Laughter}Ha! You thought I was serious?	I knew you'd see that it was	a HORRIBLE deal, {Player nickname (green)}.	{emote: Soft Smile}You're pretty smart about this kind	of thing. {pause 10}I just wanted to see if	you'd notice.{pause 5}.{pause 5}.{pause 5} That's all!
+"005"	{000a-0001-0004-0007-0006}
+"006"	{0009-0000-0004-0007-0008}
+"007"	{emote: Sunny}Great! Thanks, {Player nickname (green)}!
+"008"	{emote: Sunny}Thanks, {Player nickname (green)}. {pause 10}But on second	thought...{Wait for input} {emote: Disagreement}I can't take your money.{pause 10}	{emote: Sunny}Have it for free!
+"009"	{emote: Worry}The price was, {pause 5}er, {pause 5}a little high.{pause 10}	Now I feel awful, so take it.{pause 10}	Don't mention it to anyone, OK?
+"010"	{emote: Soft Smile}I feel much better about parting	with my {0011-0003-0002-0002}	knowing that YOU bought it.
+"011"	{0009-0002-0008-000c-000c-000c-000d}
+"012"	{emote: Anger}I didn't mean to buy up every one	of these. Now there won't be	any for anyone else!	{0007-000d-0000}{emote: Thought}I've gotta make things right by	selling one. {pause 10}The normal price is	{Number (0x9)} Bells. How about {Blue}{Number (0x9)}{Color Reset}?{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	Sure!	No, thanks.
+"013"	{emote: Anger}I didn't mean to buy up every one	of these. Now there won't be	any for anyone else!	{0007-000d-0000}{emote: Thought}I should really make things right	by selling one at a deep discount.{pause 10}	Well, how about {Blue}{Number (0x9)} Bells{Color Reset}?{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	Wow, totally!	No, thanks.
+"014"	Well, I guess the item wasn't quite	right for you? {pause 10}{emote: Agreement}I can respect that.
+"015"	{emote: Agreement}Well, good. I'm happy knowing that	my {0011-0003-0002-0001} is going	to a good home!
+"016"	{emote: Soft Smile}I'm glad I decided to talk to you	about it, {Player nickname (green)}!
+"017"	{0009-0002-0008-0012-0012-0012-0013}
+"018"	{emote: Anger}Now I own pretty much every single	one of these that have ever hit	{Town name (pink)}.{pause 8} Hmm. Interesting.{pause 5}.{pause 5}.{pause 5}	{0007-000d-0000}{emote: Soft Smile}Want one? This item normally goes	for {Number (0x9)} Bells.{pause 16} Mind if I sell it at a	tiny profit? How about {Blue}{Blue}{Number (0x9)}{Blue} Bells{Color Reset}?{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	OK, sure.	No, thanks!
+"019"	{emote: Anger}Now I own pretty much every single	one of these to ever hit {Town name (pink)}.	Hmm. Interesting.{pause 5}.{pause 5}.{pause 5} 	{0007-000d-0000}{emote: Soft Smile}Want to buy one at a high price?	Usually they go for {Number (0x9)} Bells.{pause 16}	But for you, {Blue}{Blue}{Number (0x9)}{Blue} Bells{Color Reset}!{confirmation-02}{Player can respond (0005):0014-0015-0015-0028}	Umm, fine.	Are you nuts?!
+"020"	{emote: Shocked}What?! Why'd you DO that?!	I was sort of kidding. But if you're	fine with it, I'll take the Bells.	{emote: Worry}Wow, now I feel bad, {Player nickname (green)}.
+"021"	{emote: Glare}Heh. Yeah. It'd be crazy to buy	something at THAT price.{pause 10} {emote: Agreement}You're	a smart one, {Player nickname (green)}.
 == 1 ==
-"001"	{emote: Reset}
-"002"	{emote: Worry}
-"003"	{emote: Anger}
-"004"	{emote: Laughter}
-"005"	{000a-0001-0004-07-00-06-00}
-"006"	{0009-0000-0004-07-00-08-00}
-"007"	{emote: Sunny}
-"008"	{emote: Sunny}
-"009"	{emote: Worry}
-"010"	{emote: Soft Smile}
-"011"	{0009-0002-0008-0c-00-0c-00-0c-00-0d-00}
-"012"	{emote: Anger}
-"013"	{emote: Anger}
-"014"	Así que no hay trato, ¿eh?{pause 10}
-"015"	{emote: Agreement}
-"016"	{emote: Soft Smile}
-"017"	{0009-0002-0008-12-00-12-00-12-00-13-00}
-"018"	{emote: Anger}
-"019"	{emote: Anger}
-"020"	{emote: Shocked}
-"021"	{emote: Glare}
+"001"	{emote: Reset}Todo el pueblo sabe que le tengo	muchísimo apego a mi querid{o/a/}	{0011-0003-0002-0002}.	{emote: Disagreement}Jamás me desprendería de {él/ella/}.	{pause 10}Aunque, ahora que lo pienso, "jamás"	es una palabra{pause 5} muy poco moderna.	{0007-000d-0000}Digamos que podría cambiar	de opinión por{pause 20} {Blue}{Number (0x9)} bayas{Color Reset}.{confirmation-02}{Player can respond (0005):0005-0015-0004-0028}	¡Trae para acá!	¿Estás de broma?
+"002"	{emote: Worry}Ya lo he vuelto a hacer, {Player nickname (green)}.{pause 10}	¡Me he comprado otr{o/a/}	{0011-0003-0002-0001}!	¡Ya tengo tres en casa! {emote: Disagreement}Por mucho	que se lleven ahora, ¿qué hago yo	con tant{o/a/}s, {catchphrase}?{000a-0000-0006-0b02-1100-cd00}
+"003"	{emote: Anger}¡No puede ser! Resulta que compré	{Article(word-dependant)}{0011-0003-0002-0001} y hace	dos minutos se ha pasado de moda.	{pause 10}{emote: Sadness}Ahora no sé qué hacer...{pause 20} ¡Espera un	segundo! {emote: Soft Smile}¿Tú no eras coleccionista?{Wait for input}{0007-000d-0000}{emote: Reset}Te l{o/a/} vendo a precio de amigo.{pause 10}	¡{Blue}{Number (0x9)} bayas {Color Reset}de nada!{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	Me interesa	No, gracias
+"004"	{emote: Laughter}¡Je, je, je! ¿Pensabas que te lo	decía en serio, {Player nickname (green)}?{Wait for input}{emote: Soft Smile}Solo quería comprobar tu olfato	para los negocios.{pause 20} Enhorabuena,{pause 20}	¡tu napia funciona perfectamente!
+"005"	{000a-0001-0004-0007-0006}
+"006"	{0009-0000-0004-0007-0008}
+"007"	{emote: Sunny}¡Es{e/a} es mi {Player nickname (green)}! ¡Gracias!
+"008"	{emote: Sunny}¡Gracias, {Player nickname (green)}! {pause 10}Aunque ahora	que lo pienso...{Wait for input} {emote: Disagreement}pedirte bayas no es	nada moderno.{pause 10} ¡Hoy va a ser gratis!
+"009"	{emote: Worry}Hum...{pause 20} Me he pasado con el precio y	ahora me entran remordimientos.{Wait for input}Mi {0011-0003-0002-0002}	no vale tanto.{Wait for input}Toma, quédatel{o/a/} gratis, pero no se	lo digas a nadie, ¿vale?{pause 20} No quiero	ganarme mala fama en este pueblo.
+"010"	{emote: Soft Smile}Ahora que sé que mi querid{o/a/}	{0011-0003-0002-0002} está a salvo	contigo,{pause 20} me quedo más tranquilo.
+"011"	{0009-0002-0008-000c-000c-000c-000d}
+"012"	{emote: Anger}Vale, vale, tengo un problema,	pero no es plan de hacer leña	del árbol caído.	{emote: Thought}Ahora que lo pienso, podrías	echarme una mano comprándome	alg{ún/una/} {0011-0003-0002-0001}. 	{0007-000d-0000}{pause 10}Normalmente costaría {Number (0x9)} {Blue}bayas{Color Reset},	pero como me estás sacando de	un apuro, te l{o/a/} dejo en {Blue}{Number (0x9)}{Color Reset}.{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	¡Vale!	No, gracias
+"013"	{emote: Anger}Lo sé, tengo que llevar una	lista para no comprar ning{ún/una/}	{0011-0003-0002-0001} más.	{0007-000d-0000}{emote: Thought}Para deshacerme de {él/ella/},	l{o/a/} voy a vender superrebajad{o/a/}.{pause 10}	¿Qué te parece {Blue}{Number (0x9)} bayas{Color Reset}?{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	¡Me parece bien!	No, gracias
+"014"	Así que no hay trato, ¿eh?{pause 10} {emote: Agreement}Bueno,	no te puedo obligar a comprar.
+"015"	{emote: Agreement}¡Me alegro de que mi	{0011-0003-0002-0001}	esté a buen recaudo contigo!
+"016"	{emote: Soft Smile}¡Menos mal que he hablado	contigo, {Player nickname (green)}!
+"017"	{0009-0002-0008-0012-0012-0012-0013}
+"018"	{emote: Anger}A este paso no voy a dejar ning{ún/una/}	{0011-0003-0002-0001} en	{capitalized}{Town name (pink)}. Y la avaricia no mola.	{0007-000d-0000}{emote: Soft Smile}Oye, ¿qué tal si me l{o/a/} compras	por {Blue}{Blue}{Number (0x9)}{Blue} bayas{Color Reset}?{Wait for input}L{o/a/}s de las tiendas cuestan {Number (0x9)}	bayas, pero no tienen el honor de	haber estado en mi bolsillo, claro.{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	¡Compro!	No, no
+"019"	{emote: Anger}Calculo que debo de tener cada	{0011-0003-0002-0001} que hay en	el pueblo.{pause 30} Mmm,{pause 20} ahora que caigo...	{emote: Soft Smile}Si l{o/a/}s tengo tod{o/a/}s, puedo pedirte	más de las {Number (0x9)} bayas que cuestan	normalmente.	{0007-000d-0000}Entonces, te l{o/a/} vendo por {Blue}{Blue}{Number (0x9)}	{Blue}bayas{Color Reset}. ¿Qué me dices?{confirmation-02}{Player can respond (0005):0014-0015-0015-0028}	Bueno	¡¿Estás loco?!
+"020"	{emote: Shocked}¡¿En serio?! ¿Se te ha ido la cabeza	o acaso nadas en la "ambulancia"?{Wait for input}Lo decía en broma, {Player nickname (green)},	pero si te sobran todas esas bayas,	{emote: Disagreement}no te voy a decir que no.
+"021"	{emote: Glare}Je, je, casi picas, {Player nickname (green)}.
 == 2 ==
-"001"	{emote: Reset}
-"002"	{emote: Anger}
-"003"	{emote: Anger}
-"004"	{emote: Laughter}
-"005"	{000a-0001-0004-07-00-06-00}
-"006"	{0009-0000-0004-07-00-08-00}
-"007"	{emote: Sunny}
-"008"	{emote: Sunny}
-"009"	{emote: Worry}
-"010"	{emote: Soft Smile}
-"011"	{0009-0002-0008-0c-00-0c-00-0c-00-0d-00}
-"012"	{emote: Anger}
-"013"	{emote: Anger}
-"014"	Ah, tu nous fais des petits caprices	de star, c'est ça, {Player nickname (green)}
-"015"	{emote: Agreement}
-"016"	{emote: Soft Smile}
-"017"	{0009-0002-0008-12-00-12-00-12-00-13-00}
-"018"	{emote: Anger}
-"019"	{emote: Anger}
-"020"	{emote: Shocked}
-"021"	{emote: Glare}
+"001"	{emote: Reset}Tu vois ça, {Player nickname (green)}? {pause 15}C'est	{Article(word-dependant)}{0011-0003-0002-0002}.{pause 15}	Ça fait des années que je l'ai.	Autant dire que ça n'a pas de prix.{pause 30}	{emote: Resigned}Enfin,{pause 15} sauf quand j'ai besoin	d'argent.	{0007-000d-0000}{Blue}{Number (0x9)} clochettes{Color Reset}, {Player nickname (green)}...	Qu'en dis-tu?{confirmation-02}{Player can respond (0005):0005-0015-0004-0028}	Il me faut ce truc!	C'est une blague?
+"002"	{emote: Anger}Tu sais, {Player nickname (green)}, mes fans	peuvent pas s'empêcher de	m'envoyer des cadeaux.	{emote: Happiness}Regarde ça, par exemple... {pause 15}{Article(word-dependant)}	{0011-0003-0002-0001}.{pause 15} {emote: Disagreement}J'en ai des	tonnes, maintenant!{000a-0000-0006-0b02-1100-cd00}
+"003"	{emote: Anger}Tu sais quoi, {Player nickname (green)}?	{capitalized}{000e-0001-0000}{0011-0003-0002-0001} que	je me trimballe, là...	À l'époque où c'était à la mode, j'en	ai amassé plein, mais maintenant	c'est complètement has-been...	Du coup{pause 8}.{pause 8}.{pause 8}.{pause 15} {emote: Happiness}j'ai pensé à toi. Ça	t'intéresse peut-être?{emote: Reset}{0007-000d-0000} Je te fais un	prix, disons...{pause 15} {Blue}{Number (0x9)} clochettes{Color Reset}?{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	Ah, ça marche!	Même pas en rêve!
+"004"	{emote: Laughter}Ha ha, t'as marché une seconde,	avoue! Évidemment, ce machin vaut	pas un prix pareil, {catchphrase}!	{emote: Soft Smile}En fait c'était un test pour voir si	t'avais de la jugeote... Hé hé, bien	vu, {Player nickname (green)}.	{emote: Thought}{Gray}(Zut, me reste plus qu'à trouver un	autre pigeon...){Color Reset}
+"005"	{000a-0001-0004-0007-0006}
+"006"	{0009-0000-0004-0007-0008}
+"007"	{emote: Sunny}Hé hé, t'as fait le bon choix,	{Player nickname (green)}!
+"008"	{emote: Sunny}Bon, {pause 10}après réflexion...{Wait for input} {emote: Disagreement}J'éprouverais	des remords si je te prenais ton	argent...	Allez, pour toi c'est gratuit,	{Player nickname (green)}!
+"009"	{emote: Worry}J'ai peut-être un peu gonflé le prix,	j'avoue... {pause 8}hem.{pause 30} Je te le donne, va!{Wait for input}C'est bon pour mon image de	marque, hé hé{pause 8}.{pause 8}.{pause 8}.
+"010"	{emote: Soft Smile}Ça me plaît de penser que cet objet	collector{pause 8} ira rejoindre ta collection	de fan {inconditionnel/inconditionnelle}, hé hé.
+"011"	{0009-0002-0008-000c-000c-000c-000d}
+"012"	{emote: Anger}Je sais plus quoi en faire, faut que	je m'en débarrasse!{Wait for input}{emote: Sheepishness} Mais bon, pas	de générosité mal placée, non plus...	{0007-000d-0000}Normalement tu trouves ça à	{Number (0x9)} clochettes...{pause 30} Que dis-tu de	{Blue}{Number (0x9)}{Color Reset}?{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	J'achète!	Range ça.
+"013"	{emote: Anger}Je sais plus quoi en faire, faut que	je m'en débarrasse!{Wait for input}{emote: Sheepishness} Mais bon, pas	de générosité mal placée, non plus...	{0007-000d-0000}{emote: Sunny}Allez, vu ma détresse, {pause 15}je te fais un	super prix...{pause 30} Que dirais-tu de {Blue}{Number (0x9)}	clochettes{Color Reset}?{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	Je prends!	Non, vraiment.
+"014"	Ah, tu nous fais des petits caprices	de star, c'est ça, {Player nickname (green)}? {pause 10}{emote: Agreement}Bon,	je sais ce que c'est.
+"015"	{emote: Agreement}Parfait! {pause 15}Les gens vont être fous de	jalousie quand ils sauront que c'est	toi qui as acheté cette merveille!
+"016"	{emote: Soft Smile}N'empêche, tu as de la chance que	je sois passé par là avec l'affaire du	siècle!
+"017"	{0009-0002-0008-0012-0012-0012-0013}
+"018"	{emote: Anger}Franchement, {Player nickname (green)}, être une	star, c'est pas facile tous les jours.	Que faire.{pause 5}.{pause 5}.{pause 5}?	{emote: Inspired}Ça t'intéresserait pas d'acheter un	de ces machins? Le prix magasin	est de {Number (0x9)} clochettes.	{emote: Soft Smile}Bien sûr, venant d'une vedette	internationale comme moi, il faut	s'attendre à une petite majoration...	{0007-000d-0000}Disons {Blue}{Number (0x9)} clochettes{Color Reset}?{confirmation-02}{Player can respond (0005):000f-0015-000e-0028}	Ça roule!	Sans façon!
+"019"	{emote: Anger}Franchement, {Player nickname (green)}, être	connu, c'est pas facile tous les	jours. Que faire.{pause 5}.{pause 5}.{pause 5}?	{emote: Inspired}Ça t'intéresserait pas d'acheter un	de ces machins? Le prix magasin	est de {Number (0x9)} clochettes.	{emote: Soft Smile}Bien sûr, venant d'une vedette	internationale comme moi, il faut	s'attendre à un prix de star...	{0007-000d-0000}Disons {Blue}{Number (0x9)} clochettes{Color Reset}?{confirmation-02}{Player can respond (0005):0014-0015-0015-0028}	Pas donné, mais OK!	T'as perdu la tête?!
+"020"	{emote: Shocked}Sérieux?! Je veux dire, t'as	marché? Bon, ben je vais pas me	gêner pour accepter tes clochettes.	{emote: Happiness}Je penserai à toi la prochaine fois	que je dois me débarrasser d'un	truc, alors, {Player nickname (green)}.
+"021"	{emote: Glare}Bon, c'est clair qu'à ce prix, c'est	pas raisonnable. Mais faut savoir	faire des folies parfois, {Player nickname (green)}!

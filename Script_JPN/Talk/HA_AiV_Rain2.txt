@@ -1,24 +1,24 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Star Yell}
-"003"	おー！{pause 8}
-"004"	{emote: Happiness}
-"005"	{000a-000b-0006-10-0e-00-0d-00-ffffffcd}
-"006"	{000a-000b-0006-10-0e-00-0d-00-ffffffcd}
-"007"	{000a-000b-0006-10-0e-00-0d-00-ffffffcd}
-"008"	{emote: Happiness}
-"009"	{emote: Curious}
-"010"	{emote: Greetings}
-"011"	{emote: Anger}
-"012"	
-"013"	{0009-0001-0006-10-00-11-00-12-00}
-"014"	{0009-0001-0006-13-00-14-00-15-00}
-"015"	
-"016"	{ruby (charSpan 1): あめ}雨だぞー　{Player name}
-"017"	{emote: Happiness}
-"018"	{emote: Sadness}
-"019"	{emote: Greetings}
-"020"	{emote: Happiness}
-"021"	{000a-0016-0006-04-16-00-17-00-ffffffcd}
-"022"	{emote: Worry}
-"023"	{emote: Glare}
+"001"	{emote: Happiness}おはよー！　{Player name}！{pause 20}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): あめ}雨だなー、{pause 8}{catchphrase}
+"002"	{emote: Star Yell}{pause 15}オー{0007-000b-0000}ーーッス！{pause 20}{emote: Soft Smile}{pause 40}	{emote: Laughter}{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日だって　デッカイ{ruby (charSpan 1): こえ}声で	あいさつするぞ、{pause 8}{catchphrase}！{pause 20}{emote: Soft Smile}
+"003"	おー！{pause 8}　{Player name}！{pause 20}	もう{ruby (charSpan 2): きょう}今日も{ruby (charSpan 1): お}終わりだな、{pause 8}{catchphrase}
+"004"	{emote: Happiness}よぉ！{pause 8}　{Player name}！{pause 40}	ねむれないから	ジョギングか？　{pause 8}{catchphrase}？
+"005"	{000a-000b-0006-0e10-0d00-cd00}
+"006"	{000a-000b-0006-0e10-0d00-cd00}
+"007"	{000a-000b-0006-0e10-0d00-cd00}
+"008"	{emote: Happiness}おー！{pause 8}　{Player name}、{pause 20}	はりきってるな、{pause 8}{catchphrase}！
+"009"	{emote: Curious}{Player name}{pause 20}　{ruby (charSpan 2): ちょうし}調子はどうだー？{pause 40}	{emote: Disagreement}ぬかるんだ{ruby (charSpan 2): じめん}地面に　{ruby (charSpan 1): あし}足を{ruby (charSpan 1): と}取られても、	{ruby (charSpan 1): はし}走り{ruby (charSpan 1): つづ}続けるんだ、{pause 8}{catchphrase}！
+"010"	{emote: Greetings}オーッス！{pause 8}　{Player name}！{pause 40}	いいアセかいてるか？　{pause 8}{catchphrase}？
+"011"	{emote: Anger}{ruby (charSpan 1): あめ}雨だからって　トレーニング	サボってないよな？　{pause 8}{catchphrase}？
+"012"
+"013"	{0009-0001-0006-0010-0011-0012}
+"014"	{0009-0001-0006-0013-0014-0015}
+"015"
+"016"	{ruby (charSpan 1): あめ}雨だぞー　{Player name}！{pause 40}	どっか{ruby (charSpan 1): いえ}家に{ruby (charSpan 1): い}入れてもらえよ、{pause 8}{catchphrase}
+"017"	{emote: Happiness}{Greeting begin}よぉー！{Greeting end}{pause 20}	{ruby (charSpan 1): あめ}雨でも{ruby (charSpan 2): げんき}元気だな、オマエ！{pause 40}	オイラも　{ruby (charSpan 1): ま}負けてらんないぞ、{pause 8}{catchphrase}！
+"018"	{emote: Sadness}{ruby (charSpan 2): たいよう}太陽のヤツも　{ruby (charSpan 1): なさ}情けないなー{pause 40}	{ruby (charSpan 1): はや}早く　この{ruby (charSpan 1): あめ}雨を	なんとかしてくれー、{pause 8}{catchphrase}
+"019"	{emote: Greetings}{Greeting begin}オーッス！{pause 8}　{Player name}！{Greeting end}{pause 40}	{emote: Happiness}やっぱ　{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日は	{ruby (charSpan 1): いえ}家の{ruby (charSpan 1): なか}中になんて　いられないよ、{pause 8}{catchphrase}
+"020"	{emote: Happiness}よぉ！　{Player name}！{pause 40}	{ruby (charSpan 1): あめ}雨って　ゾクゾクするよな、{pause 8}{catchphrase}
+"021"	{000a-0016-0006-1604-1700-cd00}
+"022"	{emote: Worry}オイー！{pause 8}　{Player name}{pause 40}	かさ　さしてんのかー？{Wait for input}{emote: Glee}オイラみたいに	{ruby (charSpan 2): ぜんしん}全身で{ruby (charSpan 1): あめ}雨を{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}止めろよー{pause 40}	サイコーに　{ruby (charSpan 2): きも}気持ちいいぞ、{pause 8}{catchphrase}！
+"023"	{emote: Glare}こんな{ruby (charSpan 1): ひ}日に　かさ{ruby (charSpan 1): な}無しとは、{pause 20}	オマエ　わかってるなー！{Wait for input}{emote: Glee}かさなんて　{ruby (charSpan 1): ふる}古いぞー！{pause 20}	{ruby (charSpan 1): あめ}雨に{ruby (charSpan 1): う}打たれるのは　サイコーだ、{pause 8}{catchphrase}

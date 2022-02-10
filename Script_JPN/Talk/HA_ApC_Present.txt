@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	{emote: Agreement}
-"005"	{emote: Curious}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Laughter}
-"010"	{emote: Alarmed}
-"011"	{emote: Laughter}
-"012"	{emote: Sunny}
+"001"	{emote: Alarmed}オッ！{pause 20}　そのふくらはぎ！{pause 40}	{emote: Glare}ちゃんと　トレーニング	してるみたいだな{Wait for input}{emote: Happiness}エライから、ごほうびやるよー！{pause 40}	オイラが　{ruby (charSpan 1): つか}使いこんだ、	{0011-0003-0002-0000}だー
+"002"	{emote: Happiness}オマエがほしがってた	{0011-0003-0002-0000}、{pause 20}	{ruby (charSpan 1): て}手に{ruby (charSpan 1): はい}入ったぞー{Wait for input}へへっ！{pause 20}	ほしいだろー？{Player can respond (0005):0005-0000-000a-0028}	・・・ありがと	いらないよ
+"003"	{emote: Happiness}{Player nickname (green)}！{pause 20}	{ruby (charSpan 1): わる}悪いけど　この　{0011-0003-0002-0000}{pause 20}	{ruby (charSpan 1): なに}何も{ruby (charSpan 1): い}言わずに　{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取ってくれー！
+"004"	{emote: Agreement}うんうん！{pause 40}	これからも{pause 8}　しっかりと	きたえるんだぞ？　{pause 8}{catchphrase}？
+"005"	{emote: Curious}あれ？{pause 20}　もしかして	ほしくなかったか？{000a-0000-0006-0603-0700-cd00}
+"006"	{emote: Happiness}まぁ、いいじゃん！{pause 20}	いつも　{ruby (charSpan 1): つ}付き{ruby (charSpan 1): あ}合ってくれるし{pause 8}	オイラの　カンシャの{ruby (charSpan 2): きも}気持ちだ、{pause 8}{catchphrase}
+"007"	{emote: Happiness}まぁ、いいじゃん！{pause 20}	せっかくだし　{ruby (charSpan 1): も}持ってけよー！
+"008"	{emote: Happiness}また　なんかあったら	{ruby (charSpan 1): か}買ってくるからな！
+"009"	{emote: Laughter}ぶっちゃけて{ruby (charSpan 1): い}言うと、{pause 20}	さっき　その{ruby (charSpan 1): へん}辺で　{ruby (charSpan 1): ひろ}拾ったんだ！{pause 40}	だから　{ruby (charSpan 1): き}気にせず　もらってくれよな！{pause 40}{emote: Happiness}
+"010"	{emote: Alarmed}ナニッ？！{pause 20}	もしかして　オイラの	かんちがいだったのかー？{Wait for input}{emote: Thought}まぁ　また{ruby (charSpan 1): かえ}返しに{ruby (charSpan 1): い}行くのも	かなり　{ruby (charSpan 2): たいへん}大変だからなー{pause 40}	{emote: Happiness}やっぱり　このままオマエに　やるよー
+"011"	{emote: Laughter}ハハッ！{pause 20}	ラッキーだったな、{Player nickname (green)}！{pause 20}{emote: Happiness}
+"012"	{emote: Sunny}はぁー！{pause 20}	スッキリした！{Wait for input}{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): め}目が{ruby (charSpan 1): さ}覚めてから{pause 20}	だれかに　プレゼントしたくて	しょうがなかったんだ！{Wait for input}もらってくれて　ありがとな！	{pause 8}{catchphrase}！

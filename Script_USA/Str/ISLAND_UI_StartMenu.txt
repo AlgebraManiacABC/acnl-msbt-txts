@@ -1,24 +1,24 @@
 == 0 ==
 "003"	Continue
 "004"	Start over
-"005"	Again? {Number (0x6)}!
+"005"	Again? {Number (0x6)}  Coins
 "006"	Return to title screen
 "007"	Quit game
 "008"	Pause
-"009"	{Gray}Again? {Number (0x6)}
+"009"	{Gray}Again? {Number (0x6)}  Coins{Color Reset}
 == 1 ==
 "003"	Continuar
 "004"	Reiniciar
-"005"	Reintentar: {Number (0x6)}
+"005"	Reintentar: {Number (0x6)} 
 "006"	Volver al título
 "007"	Salir
 "008"	Pausa
-"009"	{Gray}Reintentar: {Number (0x6)}
+"009"	{Gray}Reintentar: {Number (0x6)} {Color Reset}{Gray}{Color Reset}
 == 2 ==
 "003"	Reprendre
 "004"	Recommencer
-"005"	Recom. : {Number (0x6)}
+"005"	Recom. : {Number (0x6)} 
 "006"	Écran titre
 "007"	Quitter
 "008"	Pause
-"009"	{Gray}Recom. : {Color Reset}{Gray}{Number (0x6)}
+"009"	{Gray}Recom. : {Color Reset}{Gray}{Number (0x6)} {Color Reset}

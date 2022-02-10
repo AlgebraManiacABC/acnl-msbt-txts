@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Sunny}
-"002"	{emote: Sunny}
-"003"	{pause 8}
-"004"	{emote: Alarmed}
-"005"	{emote: Anger}
-"006"	{emote: Soft Smile}
-"007"	{emote: Soft Smile}
-"008"	{emote: Sheepishness}
+"001"	{emote: Sunny}うれしい！　{pause 32}{emote: Soft Smile}それじゃあ、{pause 16}	さっそく　{ruby (charSpan 1): ま}待ち{ruby (charSpan 1): あ}合わせの{ruby (charSpan 2): じかん}時間を{pause 8}	{ruby (charSpan 1): き}決めましょう？　{pause 8}{catchphrase}？	{emote: Reset}アタシは　{ruby (charSpan 2): きょう}今日の{pause 16}	{Blue}{0004-0010-0002-cd00}{ruby (charSpan 1): じ}時{Color Reset}{ruby (charSpan 2): いこう}以降だったら、{ruby (charSpan 3): だいじょうぶ}大丈夫よ{Wait for input}アナタは　いつが{ruby (charSpan 2): つごう}都合いいかしら？{pause 8}	{emote: Curious}{Player nickname (green)}{0005-000d-0000}？
+"002"	{emote: Sunny}うれしい！　{pause 32}{emote: Soft Smile}それじゃあ、{pause 16}	さっそく　{ruby (charSpan 1): ま}待ち{ruby (charSpan 1): あ}合わせの{ruby (charSpan 2): じかん}時間を{pause 8}	{ruby (charSpan 1): き}決めましょう？　{pause 8}{catchphrase}？	{emote: Reset}アタシは　{ruby (charSpan 2): きょう}今日の{pause 16}	{Blue}{0004-0010-0002-cd00}{ruby (charSpan 2): じはん}時半{Color Reset}{ruby (charSpan 2): いこう}以降だったら、{ruby (charSpan 3): だいじょうぶ}大丈夫よ{Wait for input}アナタは　いつが{ruby (charSpan 2): つごう}都合いいかしら？{pause 8}	{emote: Curious}{Player nickname (green)}{0005-000d-0000}？
+"003"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あっ！{pause 16}	もう　{Hour}{ruby (charSpan 1): じ}時じゃない？{Wait for input}{emote: Worry}{ruby (charSpan 2): きょう}今日は　もう{ruby (charSpan 1): おそ}遅いし{pause 8}・{pause 8}・{pause 8}・{pause 8}	やっぱり、{ruby (charSpan 2): こんど}今度にしましょうか？{pause 8}	{Player nickname (green)}{0005-000d-0000}？
+"004"	{emote: Alarmed}あら？　{pause 16}やめるの？{pause 32}	{emote: Soft Smile}アナタって　{ruby (charSpan 1): き}気まぐれね～{Wait for input}まぁ、また{ruby (charSpan 1): き}気が{ruby (charSpan 1): か}変わったら{pause 16}	{ruby (charSpan 1): たの}頼むわね、{Player nickname (green)}{0005-000d-0000}
+"005"	{emote: Anger}ちょっと　{ruby (charSpan 2): はやす}早過ぎじゃない？{pause 8}	{Player nickname (green)}{0005-000d-0000}？{Wait for input}{emote: Worry}{ruby (charSpan 1): おんな}女には　{ruby (charSpan 2): じゅんび}準備っていうものがあるのよ？{pause 32}	その{ruby (charSpan 1): あた}辺りも　ふまえて{pause 5}	{ruby (charSpan 2): じかん}時間を　{ruby (charSpan 2): ちょうせい}調整してもらえないかしら？
+"006"	{emote: Soft Smile}わかったわ！　{pause 16}それじゃあ、{pause 8}	{Blue}{Blue}{0005-0019-0002-cd01}{Blue}{0004-0010-0002-cd01}{Color Reset}{Blue}{ruby (charSpan 1): じ}時{Color Reset}ぐらいを　{ruby (charSpan 2): めざ}目指して{pause 16}	{ruby (charSpan 1): うち}家に{ruby (charSpan 1): き}来てね、{pause 8}{Player nickname (green)}{0005-000d-0000}！
+"007"	{emote: Soft Smile}わかったわ！　{pause 16}それじゃあ、{pause 8}	{Blue}{0005-0019-0002-cd01}{0004-0010-0002-cd01}{ruby (charSpan 1): じ}時{0004-0011-0002-cd02}{ruby (charSpan 1): ぷん}分{Color Reset}を　{ruby (charSpan 2): めざ}目指して{pause 16}	{ruby (charSpan 1): うち}家に{ruby (charSpan 1): き}来てね、{pause 8}{Player nickname (green)}{0005-000d-0000}！
+"008"	{emote: Sheepishness}さすがに　その{ruby (charSpan 2): じかん}時間は{pause 20}	アタシも　{ruby (charSpan 1): ね}寝てるわ、{pause 8}{catchphrase}{Wait for input}{emote: Worry}お{ruby (charSpan 1): はだ}肌にも{ruby (charSpan 1): わる}悪いし、{pause 20}もう{ruby (charSpan 1): すこ}少し{pause 8}	{ruby (charSpan 1): はや}早い{ruby (charSpan 2): じかん}時間にしてくれないかしら？{pause 20}	{Player nickname (green)}{0005-000d-0000}？

@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Anger}
-"003"	{emote: Distress}
-"004"	{emote: Distress}
+"001"	{emote: Alarmed}わっ！{pause 20}	{ruby (charSpan 1): み}見つかったかと{ruby (charSpan 1): おも}思ったよ～{Wait for input}{emote: Distress}ダメダメ！{pause 20}	{ruby (charSpan 1): いま}今　かくれんぼ{ruby (charSpan 1): ちゅう}中だから{pause 10}	{emote: Soft Smile}また　あとでね、{pause 10}{catchphrase}！
+"002"	{emote: Anger}ちょっと！　{pause 20}{ruby (charSpan 1): しず}静かにして～！{Wait for input}	{emote: Sheepishness}アタイ、{pause 10}{ruby (charSpan 1): いま}今　かくれんぼ{ruby (charSpan 1): ちゅう}中なの{pause 20}	{emote: Happiness}またあとで　{pause 8}{ruby (charSpan 1): あそ}遊ぼうね～
+"003"	{emote: Distress}し～～～っ！{pause 30}	{ruby (charSpan 1): いま}今　アタイ、{pause 10}	{ruby (charSpan 1): わる}悪い{ruby (charSpan 1): ひと}人に{ruby (charSpan 1): お}追いかけられてて{pause 10}・{pause 10}・{pause 10}・{pause 10}	{emote: Glare}って、{pause 8}ウソだよ～{pause 30}	{emote: Happiness}{ruby (charSpan 1): じつ}実は　{pause 10}かくれんぼ{ruby (charSpan 1): ちゅう}中なの{pause 20}	アタイの{ruby (charSpan 3): いばしょ}居場所　{pause 10}{ruby (charSpan 1): おし}教えないでね！
+"004"	{emote: Distress}{0007-000c-0000}ヤバイよぉ～っ！{pause 20}	{ruby (charSpan 1): み}見つかっちゃ～う！

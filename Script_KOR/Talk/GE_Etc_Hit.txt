@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Sorrow}
-"002"	{emote: Aggravation}
-"003"	{emote: Aggravation}
-"004"	{emote: Outrage}
+"001"	{emote: Sorrow}{Text size 150%}아퍼!{Text size 100%}{pause 20}	아프다니까～!{Wait for input}{emote: Aggravation}나한테 무슨 불만 있어?{pause 10}	왜 때려! {pause 10}{catchphrase}!{000b-0003-0002-cd03}
+"002"	{emote: Aggravation}아얏～!! 아프잖아!{Wait for input}	{emote: Anger}너 정말 왜 이러는데～!!{emote: Outrage}{pause 20}	미워!!{000b-0003-0002-cd03}
+"003"	{emote: Aggravation}{Text size 150%}아얏!{Wait for input}{Text size 100%}	{emote: Anger}도대체 왜 때리는데?{pause 20}	이제 {pause 10}그만하라구～!!{000b-0004-0002-cd03}
+"004"	{emote: Outrage}하지 마! {pause 15}아까부터 왜 그러는데?{Wait for input}	연약한 여자를 때리다니 {pause 10}	정말 저질이야ー!!{000b-0004-0002-cd03}

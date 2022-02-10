@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Sadness}
-"005"	{emote: Worry}
-"006"	{emote: Sigh}
-"007"	{emote: Sigh}
-"008"	{emote: Sadness}
-"009"	{emote: Sadness}
+"001"	{emote: Worry}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 30}	なんだか、{ruby (charSpan 2): ちょうし}調子が{ruby (charSpan 1): わる}悪くって{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"002"	{emote: Worry}なんだか、{pause 10}	だるいというか{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Sadness}{ruby (charSpan 1): ちから}力が　{ruby (charSpan 1): で}出ないんですよね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"003"	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 8}ぼーっとしてしまって{pause 15}	{ruby (charSpan 2): げんき}元気が{ruby (charSpan 1): で}出ないんです{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"004"	{emote: Sadness}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 20}	しんどいです{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"005"	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): からだ}体が　だるくって{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): ねつ}熱があるみたいです、{pause 15}{catchphrase}
+"006"	{emote: Sigh}はぁぁ{pause 8}・{pause 8}・{pause 8}・{pause 8}	お{ruby (charSpan 1): なか}腹が　{ruby (charSpan 1): いた}痛くなってきました{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"007"	{emote: Sigh}ふ～{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	つらすぎます{pause 8}・{pause 8}・{pause 8}・{pause 8}{catchphrase}
+"008"	{emote: Sadness}{pause 8}・{pause 8}・{pause 8}・{pause 8}なんだか{pause 10}	{ruby (charSpan 1): き}気が{ruby (charSpan 1): とお}遠くなってきました{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"009"	{emote: Sadness}あぁ、{pause 20}{ruby (charSpan 1): ねつ}熱が{pause 8}・{pause 8}・{pause 8}・{pause 8}	もう　{pause 5}ダメです{pause 8}・{pause 8}・{pause 8}・{pause 8}

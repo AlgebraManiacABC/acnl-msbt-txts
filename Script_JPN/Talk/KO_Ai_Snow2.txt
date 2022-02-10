@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{Greeting begin}
-"002"	{ruby (charSpan 2): きょう}今日はずっと{pause 8}
-"003"	{emote: Sneezing}
-"004"	{emote: Cold Chill}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"	{emote: Worry}
+"001"	{Greeting begin}よぅ{Greeting end}！{pause 30}	{emote: Sheepishness}オメェ、{ruby (charSpan 1): さむ}寒くねぇのか？{pause 20}　{catchphrase}？
+"002"	{ruby (charSpan 2): きょう}今日はずっと{pause 8}	こんな{ruby (charSpan 2): てんき}天気が{ruby (charSpan 1): つづ}続きそうだな、{pause 20}{catchphrase}
+"003"	{emote: Sneezing}{pause 8}{0007-000b-0000}へぇーっくしょん！！
+"004"	{emote: Cold Chill}うひょーっ！{pause 30}	{emote: Worry}じっとしてると{pause 8}　カチンカチンに	{ruby (charSpan 1): こお}凍りそうだぜ、{pause 20}{emote: Fearful}ブルブルブル{pause 8}・{pause 8}・{pause 8}・{emote: Worry}
+"005"	{emote: Happiness}{Greeting begin}よぅ、{Player nickname (green)}{Greeting end}！{pause 30}	{ruby (charSpan 1): はし}走り{ruby (charSpan 1): まわ}回って	すっ{ruby (charSpan 1): ころ}転ぶんじゃねえぞ！{pause 20}　{catchphrase}！
+"006"	{emote: Happiness}{Greeting begin}よぅ{Greeting end}！{pause 30}	{ruby (charSpan 1): さむ}寒さ{ruby (charSpan 1): し}知らずのオメェが{pause 8}	うらやましいぜ！{pause 20}　{catchphrase}！
+"007"	{emote: Greetings}{Greeting begin}よぅ、{Player nickname (green)}{Greeting end}！{pause 20}	{catchphrase}！
+"008"	{emote: Worry}しかしよく{ruby (charSpan 1): ふ}降るなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Cold Chill}うぅぅ{pause 40}{ruby (charSpan 1): さむ}寒っ！{pause 20}　{catchphrase}・{pause 8}・{pause 8}・

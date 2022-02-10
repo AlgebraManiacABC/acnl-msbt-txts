@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Sheepishness}
-"002"	{emote: Alarmed}
-"003"	{emote: Sheepishness}
-"004"	{emote: Sheepishness}
-"005"	{emote: Worry}
-"006"	{emote: Surprise}
-"007"	{emote: Alarmed}
-"008"	{emote: Agreement}
-"009"	{emote: Joy}
-"010"	{emote: Joy}
-"011"	{emote: Sheepishness}
+"001"	{emote: Sheepishness}そうしたいのは　やまやまだけどさ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{ruby (charSpan 2): やくば}役場のコに{ruby (charSpan 1): き}聞いてみたら、{pause 8}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): てつづ}手続きが　こみあってるから{pause 16}	ごめんなさいだって{pause 8}・{pause 8}・{pause 8}・
+"002"	{emote: Alarmed}えっ！　{pause 4}いいの？{pause 60}	{emote: Shyness}{pause 20}{ruby (charSpan 1): じつ}実はさ、{pause 8}こんなとこに{ruby (charSpan 1): す}住めたら{pause 16}	チョーいいなって　{ruby (charSpan 1): おも}思ってたんだ！	{emote: Soft Smile}じゃあ、{pause 8}{ruby (charSpan 1): かえ}帰ったら　そのつもりで{pause 16}	{ruby (charSpan 1): ひ}引っこしの{ruby (charSpan 2): ようい}用意とか　しちゃうからね！	{pause 8}{catchphrase}！
+"003"	{emote: Sheepishness}そうしたいのは　やまやまだけどさ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{ruby (charSpan 2): やくば}役場のコに　{ruby (charSpan 1): き}聞いてみたら、{pause 16}	{ruby (charSpan 1): いま}今は　{ruby (charSpan 2): ていいん}定員オーバーだから{pause 8}	ごめんなさいだって{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Thought}{pause 16}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 16}	アタイが、ダイエットしても{pause 8}	やっぱ　{ruby (charSpan 2): むり}無理だよねぇ～{pause 8}・{pause 8}・{pause 8}・	{ruby (charSpan 2): そんちょう}村長さんに　{ruby (charSpan 2): そうだん}相談すれば、{pause 16}	なんとかなるのかなぁ？　{pause 8}{catchphrase}？
+"004"	{emote: Sheepishness}{ruby (charSpan 1): じつ}実は、アタイもそう{ruby (charSpan 1): おも}思って{pause 16}	{ruby (charSpan 2): やくば}役場のコに{ruby (charSpan 1): き}聞いてみたけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{ruby (charSpan 2): ていいん}定員オーバーで、{pause 16}これ{ruby (charSpan 2): いじょう}以上	{ruby (charSpan 1): あたら}新しい{ruby (charSpan 2): じゅうみん}住民を　{ruby (charSpan 1): う}受け{ruby (charSpan 1): い}入れられないんだって！{Wait for input}{emote: Bashful}{pause 16}アタイって　けっこう{pause 16}	{ruby (charSpan 1): き}着やせするタイプなんだけどなぁ～{pause 40}	・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}って、{pause 4}カンケーないか！	{emote: Reset}ってゆーか、{pause 8}アンタ	{emote: Curious}{ruby (charSpan 2): そんちょう}村長さんだよね？　{pause 8}{catchphrase}？{Wait for input}{emote: Shyness}{pause 20}じゃあさ、{pause 16}{ruby (charSpan 1): ひ}引っこしできるよう{pause 8}	アタイが　{ruby (charSpan 1): むら}村のだれかと{pause 16}	{ruby (charSpan 2): そうだん}相談しても　ゆるしてくれる？{000f-0000-0004-0000-0000}	オッケー！	それはちょっと・・・
+"005"	{emote: Worry}そっか～{pause 8}・{pause 8}・{pause 8}・{pause 16}	そりゃそうだよね～、{pause 8}{catchphrase}
+"006"	{emote: Surprise}ホント？！{pause 40}	{emote: Reset}じゃあ、{pause 8}なんてヒトと	{emote: Curious}{ruby (charSpan 2): そうだん}相談したらいいの？　{pause 8}{catchphrase}？
+"007"	{emote: Alarmed}え～？{pause 40}	{emote: Worry}まぁ、{pause 8}いいけど{pause 8}・{pause 8}・{pause 8}・
+"008"	{emote: Agreement}{0011-0001-0002-0000}{0005-000d-0000}か！{pause 16}	ちょっと{ruby (charSpan 2): そうだん}相談してみるね、{pause 8}{catchphrase}！
+"009"	{emote: Joy}やった～！{pause 16}	オッケーだって！{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): き}聞くところによると{pause 8}・{pause 8}・{pause 8}・{pause 16}	もともと　{ruby (charSpan 1): ひ}引っこしするつもりだったから、{pause 8}	{ruby (charSpan 2): よてい}予定を　{ruby (charSpan 1): はや}早めてくれるって！	{emote: Shyness}{pause 20}せっかくだし{pause 8}・{pause 8}・{pause 8}・{pause 16}	{0011-0001-0002-0000}{0005-000d-0000}の{ruby (charSpan 1): か}代わりに{pause 8}	ここに　{ruby (charSpan 1): す}住まわせてもらうね！
+"010"	{emote: Joy}やった～！{pause 16}	オッケーだって！{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): き}聞くところによると{pause 8}・{pause 8}・{pause 8}・{pause 16}	もともと　{ruby (charSpan 1): ひ}引っこしするつもりだったから、{pause 8}	{ruby (charSpan 2): よてい}予定を　{ruby (charSpan 1): はや}早めてくれるって！	{emote: Shyness}{pause 20}せっかくだし{pause 8}・{pause 8}・{pause 8}・{pause 16}	{0011-0001-0002-0000}{0005-000d-0000}の{ruby (charSpan 1): か}代わりに{pause 8}	ここに　{ruby (charSpan 1): す}住まわせてもらうね！
+"011"	{emote: Sheepishness}そうしたいのは	やまやまだけどさ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{ruby (charSpan 2): やくば}役場のコに{ruby (charSpan 1): き}聞いてみたら、{pause 8}	{emote: Resigned}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): むら}村で{ruby (charSpan 1): おお}大きいイベントがあるから{pause 16}	ごめんなさいだって{pause 8}・{pause 8}・{pause 8}・

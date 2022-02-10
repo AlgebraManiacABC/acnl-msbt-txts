@@ -1,14 +1,14 @@
 == 0 ==
-"001"	{emote: Fearful}
-"002"	{emote: Greetings}
-"003"	{emote: Greetings}
-"004"	{0007-000a-0000}
-"005"	{emote: Happiness}
-"006"	{emote: Cold Chill}
-"007"	{emote: Alarmed}
-"008"	{emote: Greetings}
-"009"	{Greeting begin}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Reset}
-"012"	{emote: Reset}
-"013"	{emote: Reset}
+"001"	{emote: Fearful}うひょーっ！{pause 20}	{ruby (charSpan 1): さむ}寒すぎて{ruby (charSpan 1): こご}凍えそうだぜ、{pause 20}{catchphrase}！{emote: Worry}
+"002"	{emote: Greetings}{Greeting begin}よう、{pause 8}{Player nickname (green)}{Greeting end}！{pause 30}	{emote: Reset}ヤケに{ruby (charSpan 1): ひ}冷えると{ruby (charSpan 1): おも}思ってたら{pause 8}	{emote: Sheepishness}{ruby (charSpan 1): ゆき}雪になりやがったな、{pause 20}{catchphrase}
+"003"	{emote: Greetings}{Greeting begin}おう、{pause 8}{Player nickname (green)}{Greeting end}！{pause 20}	{catchphrase}！
+"004"	{0007-000a-0000}{emote: Sneezing}へぇーっくしょん！！{Wait for input}{emote: Worry}まだ{ruby (charSpan 2): ひるま}昼間だってのに{pause 8}	なんて{ruby (charSpan 1): さむ}寒さだ、{pause 15}{emote: Fearful}ブルブルブル{pause 8}・{pause 8}・{pause 8}・{emote: Worry}{pause 20}	{catchphrase}
+"005"	{emote: Happiness}おう！{pause 15}	{Player nickname (green)}じゃねぇか！{pause 20}　{catchphrase}！
+"006"	{emote: Cold Chill}くぅーっ、{pause 15}{ruby (charSpan 1): こご}凍えちまうぜ！{pause 30}	{emote: Sheepishness}{ruby (charSpan 1): ひ}日が{ruby (charSpan 1): く}暮れて　ますます	{ruby (charSpan 1): ひ}冷え{ruby (charSpan 1): こ}込んできやがったな、{pause 20}{catchphrase}！
+"007"	{emote: Alarmed}わっ、{pause 8}{Player nickname (green)}！！{pause 30}	{emote: Reset}こんな{ruby (charSpan 2): よふ}夜更けに　オメェ、{pause 8}	{emote: Worry}{ruby (charSpan 1): さむ}寒くねぇのかよ！{pause 20}　{catchphrase}！
+"008"	{emote: Greetings}{Greeting begin}おう、{pause 8}{Player nickname (green)}{Greeting end}！{pause 30}	{emote: Reset}こんな{ruby (charSpan 2): じかん}時間なのに{pause 8}	ピンピンしてるじゃねぇか！{Wait for input}{emote: Disagreement}オレはもう{ruby (charSpan 2): げんかい}限界だよ！{pause 30}	{emote: Fearful}{ruby (charSpan 1): さむ}寒くて{ruby (charSpan 1): はな}鼻から{pause 8}　ツララが{ruby (charSpan 1): さ}下がりそうだぜ！{pause 20}	{emote: Worry}{catchphrase}
+"009"	{Greeting begin}よう、{pause 8}{Player nickname (green)}{Greeting end}！{pause 20}	{emote: Worry}{ruby (charSpan 2): きょう}今日は　ヤケに{ruby (charSpan 1): ひ}冷えるなぁ{Wait for input}{emote: Reset}{ruby (charSpan 1): み}身も{ruby (charSpan 1): こころ}心も　{ruby (charSpan 1): ひ}引きしまって{pause 8}	{emote: Happiness}こんなのも　{ruby (charSpan 1): わる}悪くねぇけどな、{pause 20}{catchphrase}！
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Reset}ムチャして　カゼひかねぇように{pause 8}	{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けろよ、{pause 20}{emote: Soft Smile}{catchphrase}！
+"012"	{emote: Reset}カゼひかねぇように{pause 8}	{ruby (charSpan 1): あった}暖かくしとけよ、{pause 20}{emote: Soft Smile}{catchphrase}！
+"013"	{emote: Reset}{ruby (charSpan 2): ゆだん}油断してると{pause 8}	カゼひいちまうぞ、{pause 20}{emote: Soft Smile}{catchphrase}！

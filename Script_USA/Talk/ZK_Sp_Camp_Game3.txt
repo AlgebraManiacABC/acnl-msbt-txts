@@ -1,114 +1,114 @@
 == 0 ==
-"001"	Would you like to bet your little	{0011-0003-0002-00-00}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Sunny}
-"007"	{emote: Showmanship}
-"008"	{emote: Sunny}
-"009"	{emote: Agreement}
-"010"	{0009-0002-0008-0c-00-0c-00-0c-00-0d-00}
-"011"	{0009-0002-0008-0e-00-0e-00-0e-00-0f-00}
-"012"	All right{pause 8}
-"013"	OK{pause 8}
-"014"	Well{pause 8}
-"015"	OK{pause 8}
-"016"	{emote: Happiness}
-"017"	{0009-0002-0008-13-00-13-00-14-00-14-00}
-"018"	{0009-0002-0008-15-00-15-00-16-00-16-00}
-"019"	All right{pause 8}
-"020"	All right{pause 8}
-"021"	All right{pause 8}
-"022"	All right{pause 8}
-"023"	{emote: Glee}
-"024"	{0009-0002-0008-1a-00-1b-00-1b-00-1b-00}
-"025"	{0009-0002-0008-1c-00-1d-00-1d-00-1d-00}
-"026"	All right{pause 8}
-"027"	All right{pause 8}
-"028"	All right{pause 8}
-"029"	All right{pause 8}
-"030"	{0009-0001-0006-20-00-21-00-22-00}
-"031"	{0009-0001-0006-23-00-24-00-25-00}
-"032"	{emote: Soft Smile}
-"033"	{emote: Soft Smile}
-"034"	{emote: Sheepishness}
-"035"	{emote: Sheepishness}
-"036"	{emote: Sheepishness}
-"037"	{emote: Sheepishness}
+"001"	Would you like to bet your little	{0011-0003-0002-0000} by playing	Beat the {Villager's name (orange)}?	{0007-000d-0000}{emote: Soft Smile}If you can beat me,{pause 16} I'll buy the	{0011-0003-0002-0000} from you	for a really high price!{Player can respond (0005):0007-0015-0002-0028}	Yeah, let's do it!	Maybe next time.
+"002"	{emote: Worry}Too bad{pause 8}.{pause 8}.{pause 8}.{pause 8} I'll be waiting in case you	change your mind,{pause 8} {catchphrase}.
+"003"	{emote: Worry}Bummer{pause 8}.{pause 8}.{pause 8}.{pause 8}but that's incorrect.{Wait for input}	I'm sorry, but as we discussed,{pause 16} I'll	buy it off you for only {Blue}{Number (0x9)} Bells{Color Reset}.
+"004"	{emote: Worry}Too bad{pause 8}.{pause 8}.{pause 8}.{pause 8} That's incorrect.{Wait for input} Sorry,	but as we discussed, I'll buy it off	you for only {Blue}{Number (0x9)} Bells{Color Reset}.
+"005"	{emote: Worry}Oh, too bad{pause 8}.{pause 8}.{pause 8}.{pause 8} That's incorrect.{Wait for input}	{emote: Soft Smile}It was so close!{pause 16} One more and it	would've been a perfect score!	{emote: Reset}As we discussed,{pause 16} I'll buy it from	you for a kind {Blue}{Number (0x9)} Bells{Color Reset}.
+"006"	{emote: Sunny}Unbelievable!{pause 16} You got it right	for the third time as well!{Wait for input}{emote: Soft Smile}To celebrate your perfect score,{pause 16}	I'll buy the item from you for an	unbelievable {Blue}{Number (0x9)} Bells{Color Reset}!
+"007"	{emote: Showmanship}All right,{pause 16} shall I start {pause 8}explaining the	rules to you?{pause 8} {capitalized}{catchphrase}?{Player can respond (0005):0008-0015-0009-0028}	Yes, please.	I already know them!
+"008"	{emote: Sunny}OK! {pause 32}So the rules...{Wait for input} {emote: Reset}We have a simple	die here{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}I'll throw it up to 3 times,{pause 16} and	you're supposed to guess if it'll	be an even or odd number.	The more you guess correctly,{pause 16}	the higher you can sell your	{0011-0003-0002-0000} for{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Sheepishness}But if you guess wrong,{pause 16} I can buy	the item from you for the price	we've reached at that point.	{emote: Anger}Well,{pause 8} let's have our first round!{Wait for input}If you get this incorrect,{pause 16} I'll buy	the item for {Blue}{Number (0x9)} Bells{Color Reset}, OK?	{emote: Reset}{pause 16}{emote: Curious}Which number will you choose?{Player can respond (0000):000a-0000-000b-0000}	Even number.	Odd number.
+"009"	{emote: Agreement}I see,{pause 16} so you've played this game	before, huh?{Wait for input}{emote: Anger}OK,{pause 8} here's our first round!{Wait for input}	If you guess wrong,{pause 16} I'll buy	the item for {Blue}{Number (0x9)} Bells{Color Reset}.	{emote: Reset}{pause 16}{emote: Curious}Which are you picking to start with?{pause 8}	{capitalized}{catchphrase}?{Player can respond (0000):000a-0000-000b-0000}	Even number.	Odd number.
+"010"	{0009-0002-0008-000c-000c-000c-000d}
+"011"	{0009-0002-0008-000e-000e-000e-000f}
+"012"	All right{pause 8}.{pause 8}.{pause 8}.{pause 8}let's see what we have	for our first round,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny}There,{pause 8} let's take a look!{pause 32}{Wait for input}{emote: Soft Smile}The number is {Number (0x9)}!{pause 32}	That's an even number!
+"013"	OK{pause 8}.{pause 8}.{pause 8}.{pause 8}let's see what we have for our	first round,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny}There,{pause 8} let's take a look!{pause 32}	The number is {Number (0x9)}!	That's an odd number!
+"014"	Well{pause 8}.{pause 8}.{pause 8}.{pause 8}let's see{pause 16} what we'll get for	our first round,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny}There,{pause 8} let's take a look!{pause 32}	The number is {Number (0x9)}!	That's an odd number!
+"015"	OK{pause 8}.{pause 8}.{pause 8}.{pause 8}let's{pause 16} see what we've got for	our first round,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny}There,{pause 8} let's take a look!{pause 32}	The number is {Number (0x9)}!	That's an even number!
+"016"	{emote: Happiness}Hey, good job!{pause 32} You picked right the	first time!{Wait for input}{emote: Anger}Well then,{pause 16} here's the second round.{pause 32}	If you guess this wrong,{pause 16} I'll buy the	item from you for {Blue}{Number (0x9)} Bells{Color Reset}.	{emote: Reset}{pause 16}{emote: Curious}So which one are you picking?	{pause 8}Even or odd, {catchphrase}?{Player can respond (0000):0011-0000-0012-0000}	Even number.	Odd number.
+"017"	{0009-0002-0008-0013-0013-0014-0014}
+"018"	{0009-0002-0008-0015-0015-0016-0016}
+"019"	All right{pause 8}.{pause 8}.{pause 8}.{pause 8}let's see what we'll get	for our second round,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny}There,{pause 8} let's take a look!{pause 32}	{emote: Soft Smile}The number is {Number (0x9)}!{pause 32}	That's an even number!
+"020"	All right{pause 8}.{pause 8}.{pause 8}.{pause 8}let's see what we'll get	for the second round,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny}There,{pause 8} let's take a look!{pause 32}	{emote: Soft Smile}The number is {Number (0x9)}!{pause 32}	That's an odd number!
+"021"	All right{pause 8}.{pause 8}.{pause 8}.{pause 8}let's see what we'll get on	the second round,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny}There,{pause 8} let's take a look!{pause 32}	{emote: Soft Smile}The number is {Number (0x9)}!{pause 32}	That's an odd number!
+"022"	All right{pause 8}.{pause 8}.{pause 8}.{pause 8}let's wait{pause 16} and see what	we get for our second round!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny}There,{pause 8} let's take a look!{pause 32}	{emote: Soft Smile}The number is {Number (0x9)}!{pause 32}	That's an even number!
+"023"	{emote: Glee}That's great!{pause 32} You got it right the	second time!{Wait for input} {emote: Anger}OK,{pause 16} let's move on to	the third and final round.	If you guess this wrong,{pause 16} I'll buy the	item from you for {Blue}{Number (0x9)} Bells{Color Reset}.{pause 32}	{emote: Reset}{pause 16}{emote: Curious}Even or odd? Take your pick!{Player can respond (0000):0018-0000-0019-0000}	Even number.	Odd number.
+"024"	{0009-0002-0008-001a-001b-001b-001b}
+"025"	{0009-0002-0008-001c-001d-001d-001d}
+"026"	All right{pause 8}.{pause 8}.{pause 8}.{pause 8}let's wait and see what	number we'll have for the third	round,{pause 8} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny}There,{pause 8} let's take a look!{pause 32}{Wait for input}{emote: Soft Smile}The number is {Number (0x9)}!{pause 32}	That's an even number!
+"027"	All right{pause 8}.{pause 8}.{pause 8}.{pause 8}let's wait and see what	number we'll get for the third	round,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny}There,{pause 8} let's take a look!{pause 32}{Wait for input}{emote: Soft Smile}The number is {Number (0x9)}!{pause 32}	That's an odd number!
+"028"	All right{pause 8}.{pause 8}.{pause 8}.{pause 8}let's wait and see what	number the third round gives us!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny}There,{pause 8} let's take a look!{pause 32}	{emote: Soft Smile}The number is {Number (0x9)}!{pause 32}	That's an odd number!
+"029"	All right{pause 8}.{pause 8}.{pause 8}.{pause 8}let's wait and see what	number we'll get on our third and	final round,{pause 8} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny}There,{pause 8} let's take a look!{pause 32}{Wait for input}{emote: Soft Smile}The number is {Number (0x9)}!{pause 32}	That's an even number!
+"030"	{0009-0001-0006-0020-0021-0022}
+"031"	{0009-0001-0006-0023-0024-0025}
+"032"	{emote: Soft Smile}I'll take good care of the	{0011-0003-0002-0000},{pause 32}	{emote: Laughter}as if I were taking care of you!
+"033"	{emote: Soft Smile}Please don't be too sad with the	results! Come and play again	sometime, OK,{pause 8} {catchphrase}?
+"034"	{emote: Sheepishness}I'm waiting for a challenge anytime	you're ready,{pause 8} {catchphrase}!
+"035"	{emote: Sheepishness}Your attitude deserves some	respect,{pause 8} {catchphrase}.
+"036"	{emote: Sheepishness}Your guessing skills are pretty	good,{pause 8} {catchphrase}!
+"037"	{emote: Sheepishness}I never thought you would make it	this far,{pause 8} {catchphrase}!
 == 1 ==
-"001"	¿Te atreverías a apostar tu	{0011-0003-0002-00-00}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Sunny}
-"007"	{emote: Showmanship}
-"008"	{emote: Sunny}
-"009"	{emote: Agreement}
-"010"	{0009-0002-0008-0c-00-0c-00-0c-00-0d-00}
-"011"	{0009-0002-0008-0e-00-0e-00-0e-00-0f-00}
-"012"	Entendido, a ver si tienes suerte en	la primera ronda.{pause 8}
-"013"	Entendido, a ver si tienes suerte en	la primera ronda.{pause 8}
-"014"	Entendido, a ver si tienes suerte en	la primera ronda.{pause 8}
-"015"	Entendido, a ver si tienes suerte en	la primera ronda.{pause 8}
-"016"	{emote: Happiness}
-"017"	{0009-0002-0008-13-00-13-00-14-00-14-00}
-"018"	{0009-0002-0008-15-00-15-00-16-00-16-00}
-"019"	De acuerdo, a ver si tienes suerte en	la segunda ronda.{pause 8}
-"020"	De acuerdo, a ver si tienes suerte en	la segunda ronda.{pause 8}
-"021"	De acuerdo, a ver si tienes suerte en	la segunda ronda.{pause 8}
-"022"	De acuerdo, a ver si tienes suerte en	la segunda ronda.{pause 8}
-"023"	{emote: Glee}
-"024"	{0009-0002-0008-1a-00-1b-00-1b-00-1b-00}
-"025"	{0009-0002-0008-1c-00-1d-00-1d-00-1d-00}
-"026"	Vale, a ver si tienes suerte	también en la tercera ronda.{pause 8}
-"027"	Vale, a ver si tienes suerte	también en la tercera ronda.{pause 8}
-"028"	Vale, a ver si tienes suerte	también en la tercera ronda.{pause 8}
-"029"	Vale, a ver si tienes suerte	también en la tercera ronda.{pause 8}
-"030"	{0009-0001-0006-20-00-21-00-22-00}
-"031"	{0009-0001-0006-23-00-24-00-25-00}
-"032"	{emote: Soft Smile}
-"033"	{emote: Soft Smile}
-"034"	{emote: Sheepishness}
-"035"	{emote: Sheepishness}
-"036"	{emote: Sheepishness}
-"037"	{emote: Sheepishness}
+"001"	¿Te atreverías a apostar tu	{0011-0003-0002-0000} en	el {Blue}Juego de{Color Reset} {Villager's name (orange)}?	{0007-000d-0000}{emote: Soft Smile}Si eres capaz de derrotarme,{pause 16} te l{o/a/}	compraré por un porrón de bayas.	¿Qué me dices?{Player can respond (0005):0007-0015-0002-0028}	¡Juguemos!	Otro día si eso
+"002"	{emote: Worry}Oooh{pause 8}.{pause 8}.{pause 8}.{pause 8} Una pena,{pause 8} {catchphrase}.	Te estaré esperando si cambias	de opinión.
+"003"	{emote: Worry}Una pena{pause 8}.{pause 8}.{pause 8}.{pause 8} pero has fallado.{Wait for input}	En fin,{pause 16} me temo que solo te pagaré	{Blue}{Number (0x9)} bayas{Color Reset} por tu objeto.
+"004"	{emote: Worry}¡Qué lástima!{pause 8} No es la respuesta	correcta.{Wait for input} Lo siento, pero tan solo te	pagaré {Blue}{Number (0x9)} bayas{Color Reset} por tu objeto.
+"005"	{emote: Worry}Oooh{pause 8}.{pause 8}.{pause 8}.{pause 8} No es correcto.{Wait for input} {emote: Soft Smile}¡Aunque has	estado cerca!{pause 16} Si no llegas a fallar	esa, habrías conseguido un pleno.	{emote: Reset}Tal y como acordamos,{pause 16} te compraré	tu objeto por {Blue}{Number (0x9)} bayas{Color Reset}. No está	nada mal, ¿a que no?
+"006"	{emote: Sunny}¡Increíble!{pause 16} ¡Has acertado las tres	veces seguidas!{Wait for input}{emote: Soft Smile}Para celebrar tu racha victoriosa,{pause 16}	¡te pagaré nada más y nada menos	que {Blue}{Number (0x9)} bayas{Color Reset} por tu objeto!
+"007"	{emote: Showmanship}Así se habla.{pause 16} ¿Te explico las reglas	del juego,{pause 10} {catchphrase}?{Player can respond (0005):0008-0015-0009-0028}	¡Sí, porfa!	No, ya me las sé
+"008"	{emote: Sunny}¡De acuerdo! {pause 32}Vayamos con ellas...{Wait for input} {emote: Reset}	¿Ves este dado?{pause 8}{Wait for input}Pues bien, lo tiraré hasta tres veces	y tú tendrás que adivinar si saldrá	un número par o impar.{Wait for input}Cuantas más veces aciertes,{pause 16}	más bayas te pagaré por	tu {0011-0003-0002-0000}.{pause 8}	{emote: Sheepishness}Eso sí,{pause 16} el juego se acabará en	cuanto falles, {emote: Anger}¿está claro?{pause 10}	¡Empecemos con la primera ronda!{Wait for input}Si te equivocas,{pause 16} te compraré el	objeto por {Blue}{Number (0x9)} bayas{Color Reset}, ¿vale?	{emote: Reset}{pause 16}Bien, {emote: Curious}¿qué número crees que saldrá?{Player can respond (0000):000a-0000-000b-0000}	¡Par!	¡Impar!
+"009"	{emote: Agreement}Ajá,{pause 16} así que ya has jugado a este	juego, ¿no?{Wait for input}{emote: Anger}Pues vale,{pause 8} ¡adelante con la primera	ronda!{Wait for input} Si no aciertas,{pause 16} te pagaré	{Blue}{Number (0x9)} bayas{Color Reset} por tu objeto.	{emote: Reset}{pause 16}{emote: Curious}¿Qué número crees que saldrá,{pause 8}	{catchphrase}?{Player can respond (0000):000a-0000-000b-0000}	Par	Impar
+"010"	{0009-0002-0008-000c-000c-000c-000d}
+"011"	{0009-0002-0008-000e-000e-000e-000f}
+"012"	Entendido, a ver si tienes suerte en	la primera ronda.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Bien, ¡veamos	qué número ha salido!{pause 32}{Wait for input}{emote: Soft Smile}¡El {Number (0x9)}!{pause 32} ¡Un número par de toda	la vida!
+"013"	Entendido, a ver si tienes suerte en	la primera ronda.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Bien, ¡veamos	qué número ha salido!{pause 32}{Wait for input}{emote: Soft Smile}¡El {Number (0x9)}!{pause 32} ¡Un número impar	de toda la vida!
+"014"	Entendido, a ver si tienes suerte en	la primera ronda.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Bien, ¡veamos	qué número ha salido!{pause 32}{Wait for input}{emote: Soft Smile}¡El {Number (0x9)}!{pause 32} ¡Un número impar,	como todo el mundo sabe!
+"015"	Entendido, a ver si tienes suerte en	la primera ronda.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Bien, ¡veamos	qué número ha salido!{pause 32}{Wait for input}{emote: Soft Smile}¡El {Number (0x9)}!{pause 32} ¡Un número par, 	como todo el mundo sabe!
+"016"	{emote: Happiness}¡Buen trabajo!{pause 32} Has acertado	el primer número.{Wait for input}{emote: Anger}A ver si logras acertar también en la	segunda ronda.{pause 32} Si fallas, te pagaré	{Blue}{Number (0x9)} bayas{Color Reset} por tu objeto.	{emote: Reset}{pause 16}Y bien, {emote: Curious}{pause 8}¿qué eliges esta vez,	par o impar, {catchphrase}?{Player can respond (0000):0011-0000-0012-0000}	Par	Impar
+"017"	{0009-0002-0008-0013-0013-0014-0014}
+"018"	{0009-0002-0008-0015-0015-0016-0016}
+"019"	De acuerdo, a ver si tienes suerte en	la segunda ronda.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Bien, ¡veamos	qué número ha salido!{pause 32}{Wait for input}{emote: Soft Smile}¡El {Number (0x9)}!{pause 32} ¡Un número par de toda	la vida!
+"020"	De acuerdo, a ver si tienes suerte en	la segunda ronda.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Bien, ¡veamos	qué número ha salido!{pause 32}{Wait for input}{emote: Soft Smile}¡El {Number (0x9)}!{pause 32} ¡Un número impar	de toda la vida!
+"021"	De acuerdo, a ver si tienes suerte en	la segunda ronda.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Bien, ¡veamos	qué número ha salido!{pause 32}{Wait for input}{emote: Soft Smile}¡El {Number (0x9)}!{pause 32} ¡Un número impar,	como todo el mundo sabe!
+"022"	De acuerdo, a ver si tienes suerte en	la segunda ronda.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Bien, ¡veamos	qué número ha salido!{pause 32}{Wait for input}{emote: Soft Smile}¡El {Number (0x9)}!{pause 32} ¡Un número par, 	como todo el mundo sabe!
+"023"	{emote: Glee}¡Genial!{pause 32}{Wait for input} Parece que estás en racha.{emote: Reset}{pause 16}	¿Conseguirás mantenerla también	en la tercera ronda?	Si fallas esta vez,{pause 16} te compraré tu	objeto por {Blue}{Number (0x9)} bayas{Color Reset}.{pause 32}	{emote: Reset}{pause 16}Elige: {emote: Curious}¿par o impar?{Player can respond (0000):0018-0000-0019-0000}	Par	Impar
+"024"	{0009-0002-0008-001a-001b-001b-001b}
+"025"	{0009-0002-0008-001c-001d-001d-001d}
+"026"	Vale, a ver si tienes suerte	también en la tercera ronda.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Sunny}Bien, ¡veamos qué número ha salido!{pause 32}{Wait for input}{emote: Soft Smile}¡El {Number (0x9)}!{pause 32} ¡Un número par de toda	la vida!
+"027"	Vale, a ver si tienes suerte	también en la tercera ronda.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Sunny}Bien, ¡veamos qué número ha salido!{pause 32}{Wait for input}{emote: Soft Smile}¡El {Number (0x9)}!{pause 32} ¡Un número impar	de toda la vida!
+"028"	Vale, a ver si tienes suerte	también en la tercera ronda.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Sunny}Bien, ¡veamos qué número ha salido!{pause 32}{Wait for input}{emote: Soft Smile}¡El {Number (0x9)}!{pause 32} ¡Un número impar	de siempre!
+"029"	Vale, a ver si tienes suerte	también en la tercera ronda.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Sunny}Bien, ¡veamos qué número ha salido!{pause 32}{Wait for input}{emote: Soft Smile}¡El {Number (0x9)}!{pause 32} ¡Un número par de toda 	la vida!
+"030"	{0009-0001-0006-0020-0021-0022}
+"031"	{0009-0001-0006-0023-0024-0025}
+"032"	{emote: Soft Smile}No te preocupes, cuidaré de tu	{0011-0003-0002-0000} como si	fuera mí{o/a/}.{pause 32} {emote: Laughter}¡De hecho, ya es así!
+"033"	{emote: Soft Smile}¡Que no te deprima el resultado! 	Puedes volver a jugar conmigo	cuando quieras,{pause 8} {catchphrase}.
+"034"	{emote: Sheepishness}Te estaré esperando ansioso cuando	quieras repetir,{pause 8} {catchphrase}.
+"035"	{emote: Sheepishness}Tú sí que tienes espíritu deportivo,{pause 8}	{catchphrase}.
+"036"	{emote: Sheepishness}Vaya, quién hubiera imaginado	que los números eran lo tuyo,	{pause 8}{catchphrase}.
+"037"	{emote: Sheepishness}Nunca imaginé que fueras a durar	tanto,{pause 8} {catchphrase}.
 == 2 ==
-"001"	Que dirais-tu de parier	{000e-0001-0000}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Sunny}
-"007"	{emote: Showmanship}
-"008"	{emote: Sunny}
-"009"	{emote: Agreement}
-"010"	{0009-0002-0008-0c-00-0c-00-0c-00-0d-00}
-"011"	{0009-0002-0008-0e-00-0e-00-0e-00-0f-00}
-"012"	Alors{pause 8}
-"013"	Alors{pause 8}
-"014"	Alors{pause 8}
-"015"	Alors{pause 8}
-"016"	{emote: Happiness}
-"017"	{0009-0002-0008-13-00-13-00-14-00-14-00}
-"018"	{0009-0002-0008-15-00-15-00-16-00-16-00}
-"019"	Alors{pause 8}
-"020"	Alors{pause 8}
-"021"	Alors{pause 8}
-"022"	Alors{pause 8}
-"023"	{emote: Glee}
-"024"	{0009-0002-0008-1a-00-1b-00-1b-00-1b-00}
-"025"	{0009-0002-0008-1c-00-1d-00-1d-00-1d-00}
-"026"	Suspense{pause 8}
-"027"	Suspense{pause 8}
-"028"	Suspense{pause 8}
-"029"	Suspense{pause 8}
-"030"	{0009-0001-0006-20-00-21-00-22-00}
-"031"	{0009-0001-0006-23-00-24-00-25-00}
-"032"	{emote: Soft Smile}
-"033"	{emote: Soft Smile}
-"034"	{emote: Sheepishness}
-"035"	{emote: Sheepishness}
-"036"	{emote: Sheepishness}
-"037"	{emote: Anger}
+"001"	Que dirais-tu de parier	{000e-0001-0000}{0011-0003-0002-0000} que tu	as là en jouant à un petit jeu?	J'appelle ça{pause 8}.{pause 8}.{pause 8}.{pause 15} euh{pause 8}.{pause 8}.{pause 8}.{pause 15}	{emote: Inspired}« bats-moi si tu peux »!{Wait for input}{0007-000d-0000}{emote: Soft Smile}Si tu gagnes,{pause 16} je t'achète l'objet en	question à un prix incroyablement	élevé!{Player can respond (0005):0007-0015-0002-0028}	Ça me dit!	Une autre fois.
+"002"	{emote: Worry}C'est bien dommage{pause 8}.{pause 8}.{pause 8}.{pause 8} Mais je	t'attends là si tu changes d'avis,{pause 8}	{catchphrase}.
+"003"	{emote: Worry}Quelle poisse{pause 8}.{pause 8}.{pause 8}.{pause 15} {emote: Sheepishness}c'est pas ça.{Wait for input} {emote: Reset}Comme	convenu, {pause 16}je t'achète l'objet pour	{Blue}{Number (0x9)} clochettes{Color Reset} seulement.
+"004"	{emote: Worry}Malédiction{pause 8}.{pause 8}.{pause 8}.{pause 15} {emote: Sheepishness}c'est pas ça.{Wait for input} {emote: Reset}Dans ce	cas, {pause 16}je t'achète l'objet pour {Blue}{Blue}{Number (0x9)}{Blue}	clochettes{Color Reset}, pas une de plus.
+"005"	{emote: Worry}Snif{pause 8}.{pause 8}.{pause 8}.{pause 15} {emote: Sheepishness}mauvaise réponse!{Wait for input}	Dommage, {emote: Soft Smile}on y était presque!{Wait for input}{emote: Glare}Encore une bonne réponse et c'était	le score parfait!{Wait for input}{emote: Reset}Bon, comme convenu,{pause 16} j'achète	l'objet pour {Blue}{Number (0x9)} clochettes{Color Reset} de	rien du tout.
+"006"	{emote: Sunny}Pas croyable!{pause 16} T'as deviné	correctement pour la troisième	fois d'affilée!	{emote: Soft Smile}Pour fêter cet exploit,{pause 16} je t'achète	l'objet au prix indécent de {Blue}{Number (0x9)}	clochettes{Color Reset}!
+"007"	{emote: Showmanship}Super,{pause 16} alors je t'explique les	règles?{pause 8} {capitalized}{catchphrase}?{Player can respond (0005):0008-0015-0009-0028}	Vas-y.	Je les connais!
+"008"	{emote: Sunny}OK! {pause 32}Donc...{Wait for input} {emote: Reset}Voici un dé, tout ce	qu'il y a de plus simple{pause 8}.{pause 8}.{pause 8}.{Wait for input}Je le jette trois fois et à chaque	coup tu dois deviner si c'est un	nombre pair ou impair qui va sortir.	Plus tu devines correctement, {pause 16}plus	tu peux me vendre ton objet à un	prix élevé{pause 8}.{pause 8}.{pause 8}.	{emote: Sheepishness}Mais en cas de mauvaise réponse,	je peux acquérir l'objet au prix	annoncé au début du tour.	{emote: Anger}Bon,{pause 8} passons à la pratique avec le	premier jet!{Wait for input}{emote: Agreement}Si tu te trompes cette fois-ci,{pause 16} je	t'achète l'objet pour {Blue}{Number (0x9)}	clochettes{Color Reset}, OK?	{emote: Reset}{pause 16}{emote: Curious}Alors, à ton avis : pair ou impair?{Player can respond (0000):000a-0000-000b-0000}	Pair.	Impair.
+"009"	{emote: Agreement}Ah,{pause 16} t'as déjà joué à ce jeu?{Wait for input}{emote: Anger}Super,{pause 8} alors passons sans tarder à	la première manche!{Wait for input}En cas de mauvaise réponse,{pause 16}	j'achète l'objet pour {Blue}{Number (0x9)}	clochettes{Color Reset}.	{emote: Reset}{pause 16}{emote: Curious}Très bien, maintenant fais ton	choix : {pause 15}pair ou impair?{pause 8}	{capitalized}{catchphrase}?{Player can respond (0000):000a-0000-000b-0000}	Pair.	Impair.
+"010"	{0009-0002-0008-000c-000c-000c-000d}
+"011"	{0009-0002-0008-000e-000e-000e-000f}
+"012"	Alors{pause 8}.{pause 8}.{pause 8}.{pause 8} Voyons ce que donne ce	premier jet,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Voilà,{pause 8} regarde!	{emote: Soft Smile}C'est un {Number (0x9)},{pause 32} un chiffre pair!
+"013"	Alors{pause 8}.{pause 8}.{pause 8}.{pause 8} Voyons ce que donne ce	premier jet,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Voilà,{pause 8} regarde!	C'est un {Number (0x9)},{pause 15} un chiffre impair!
+"014"	Alors{pause 8}.{pause 8}.{pause 8}.{pause 8} Voyons ce que donne ce	premier jet,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Voilà,{pause 8} regarde!	C'est un {Number (0x9)},{pause 15} un chiffre impair!
+"015"	Alors{pause 8}.{pause 8}.{pause 8}.{pause 8} Voyons ce que donne ce	premier jet,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Voilà,{pause 8} regarde!	{emote: Soft Smile}C'est un {Number (0x9)},{pause 32} un chiffre pair!
+"016"	{emote: Happiness}Hé, pas mal!{pause 32} T'as bien deviné le	premier chiffre!{Wait for input}{emote: Anger}OK,{pause 16} passons au second jet.{pause 32} Si tu te	trompes, {pause 16}j'achète l'objet pour	{Blue}{Number (0x9)} clochettes{Color Reset}.	{emote: Reset}{pause 16}{emote: Curious}Alors, tu choisis quoi? {pause 8}Pair ou	impair, {catchphrase}?{Player can respond (0000):0011-0000-0012-0000}	Pair.	Impair.
+"017"	{0009-0002-0008-0013-0013-0014-0014}
+"018"	{0009-0002-0008-0015-0015-0016-0016}
+"019"	Alors{pause 8}.{pause 8}.{pause 8}.{pause 8} Voyons ce que donne ce	deuxième jet,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Hop,{pause 8} regarde!	{emote: Soft Smile}{Number (0x9)}{pause 8}.{pause 8}.{pause 8}.{pause 32} C'est pair!
+"020"	Alors{pause 8}.{pause 8}.{pause 8}.{pause 8} Voyons ce que donne ce	deuxième jet,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Hop,{pause 8} regarde!	{Number (0x9)}{pause 8}.{pause 8}.{pause 8}.{pause 15} C'est impair!
+"021"	Alors{pause 8}.{pause 8}.{pause 8}.{pause 8} Voyons ce que donne ce	deuxième jet,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Hop,{pause 8} regarde!	{Number (0x9)}{pause 8}.{pause 8}.{pause 8}.{pause 15} C'est impair!
+"022"	Alors{pause 8}.{pause 8}.{pause 8}.{pause 8} Voyons ce que donne ce	deuxième jet,{pause 16} {catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Hop,{pause 8} regarde!	{emote: Soft Smile}{Number (0x9)}{pause 8}.{pause 8}.{pause 8}.{pause 32} C'est pair!
+"023"	{emote: Glee}Super!{pause 32} T'as bien deviné le résultat	du second jet!{Wait for input} {emote: Anger}OK,{pause 16} on passe à la	troisième et dernière manche.	Si tu te plantes ce coup-ci,{pause 16} j'achète	l'objet pour {Blue}{Number (0x9)} clochettes{Color Reset}.{pause 32} Bien,	{emote: Reset}{pause 16}{emote: Curious}pair ou impair? Fais ton choix!{Player can respond (0000):0018-0000-0019-0000}	Pair.	Impair.
+"024"	{0009-0002-0008-001a-001b-001b-001b}
+"025"	{0009-0002-0008-001c-001d-001d-001d}
+"026"	Suspense{pause 8}.{pause 8}.{pause 8}.{pause 8} découvrons ce que	donne ce troisième jet,{pause 8}	{catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Et voilà,{pause 8} regarde!{pause 32} {emote: Soft Smile}C'est	un {Number (0x9)}!{pause 32} Un chiffre pair!
+"027"	Suspense{pause 8}.{pause 8}.{pause 8}.{pause 8} découvrons ce que	donne ce troisième jet,{pause 8}	{catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Et voilà,{pause 8} regarde!{pause 32} {emote: Soft Smile}C'est	un {Number (0x9)}!{pause 32} Un chiffre impair!
+"028"	Suspense{pause 8}.{pause 8}.{pause 8}.{pause 8} découvrons ce que	donne ce troisième jet,{pause 8}	{catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Et voilà,{pause 8} regarde!{pause 32} {emote: Soft Smile}C'est	un {Number (0x9)}!{pause 32} Un chiffre impair!
+"029"	Suspense{pause 8}.{pause 8}.{pause 8}.{pause 8} découvrons ce que	donne ce troisième jet,{pause 8}	{catchphrase}!	{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Sunny} Et voilà,{pause 8} regarde!{pause 32} {emote: Soft Smile}C'est	un {Number (0x9)}!{pause 32} Un chiffre pair!
+"030"	{0009-0001-0006-0020-0021-0022}
+"031"	{0009-0001-0006-0023-0024-0025}
+"032"	{emote: Soft Smile}Je prendrai bien soin de {ton joli/ta jolie/}	{0011-0003-0002-0000},{pause 32} {emote: Glare}compte sur	moi!
+"033"	{emote: Soft Smile}Bah, un jour on perd, un jour on	gagne{pause 8}.{pause 8}.{pause 8}. Faut pas t'en faire! On	rejouera, OK?{pause 8} {capitalized}{catchphrase}?
+"034"	{emote: Sheepishness}Hésite pas si tu veux encore jouer,	{pause 15}{emote: Showmanship}chuis toujours prêt à relever les	défis,{pause 8} {catchphrase}!
+"035"	{emote: Sheepishness}T'es un{/e} vrai{/e} {gagnant/gagnante}! Respect,{pause 8}	{catchphrase}!
+"036"	{emote: Sheepishness}T'as une maîtrise en devinologie, ma	parole{pause 8}.{pause 8}.{pause 8}.{pause 8} {capitalized}{catchphrase}!
+"037"	{emote: Anger}Je pensais pourtant savoir trich...{pause 15}	{emote: Disbelief}Euh! {pause 8}Lancer le dé comme il faut.{pause 30}	{emote: Glare}{capitalized}{catchphrase}!

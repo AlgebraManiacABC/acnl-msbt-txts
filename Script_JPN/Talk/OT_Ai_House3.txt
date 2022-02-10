@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	あら、{pause 8}
-"003"	{emote: Happiness}
+"001"	{emote: Soft Smile}{Greeting begin}あら、{pause 8}{Player nickname (green)}{0005-000d-0000}{Greeting end}{pause 12}	{ruby (charSpan 2): きょう}今日は　よく{ruby (charSpan 1): はな}話しかけてくれるのね{Wait for input}{emote: Disagreement}ううん{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Happiness}{ruby (charSpan 2): めいわく}迷惑なんかじゃないわ{pause 12}	アナタと　お{ruby (charSpan 1): はなし}話できて	とっても　うれしいわよ、{pause 8}{catchphrase}
+"002"	あら、{pause 8}{Player nickname (green)}{0005-000d-0000}
+"003"	{emote: Happiness}あら、{pause 8}アナタ	よく{ruby (charSpan 1): き}来てくれるわね、{pause 8}{Player nickname (green)}{0005-000d-0000}

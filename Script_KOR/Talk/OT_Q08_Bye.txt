@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Anger}
+"001"	{emote: Soft Smile}그럼 난{pause 16}	이제 그만 돌아가볼게{Wait for input}{emote: Happiness}오늘은 고마웠어!{pause 16}	다음에 또 놀자, {Player nickname (green)}
+"002"	{emote: Worry}너무 오래 있으면 미안하니까{pause 16}	난 그만 가볼게{pause 32}	{emote: Soft Smile}또 봐, {pause 8}{Player nickname (green)}!
+"003"	{emote: Worry}아쉽지만 {pause 16}난 슬슬	가봐야 할 것 같아, {pause 8}{catchphrase}{Wait for input}{emote: Soft Smile}당신 집을 구경하게 돼서{pause 16}	정말 기뻤어, {pause 8}{Player nickname (green)}
+"004"	{emote: Alarmed}앗! {pause 8}{Player nickname (green)}～{pause 16}	혹시 어디 나가려고?{Wait for input}{emote: Reset}그럼 나도 슬슬{pause 16}	돌아가봐야겠다～	{emote: Soft Smile}오늘 고마웠어!
+"005"	{emote: Alarmed}앗! {pause 16}혹시 대접할 게 없어서	사러 나가려고 {pause 8}{Player nickname (green)}?{Wait for input}{emote: Sheepishness}나 금방 돌아갈 건데{pause 8}・{pause 8}・{pause 8}・{pause 8}	그렇게 신경 안 써도 괜찮아～{Wait for input}{emote: Happiness}오늘 당신 집을 구경해서{pause 15}	너무 기뻤어, {pause 8}{catchphrase}
+"006"	{emote: Anger}잠깐, {pause 8}{Player nickname (green)}!{Wait for input}	{emote: Worry}아무 말도 없이 나가려 하다니{pause 16}	이런 법이 어디 있어? {pause 8}{catchphrase}?	{emote: Reset}무슨 볼일 있는 거면{pause 16}	나도 그만 집에 가야겠다{pause 30}	{emote: Soft Smile}오늘은 고마웠어!

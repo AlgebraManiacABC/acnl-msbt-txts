@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Thought}
-"002"	{emote: Thought}
-"003"	{emote: Happiness}
-"004"	あれ？{pause 40}
+"001"	{emote: Thought}{ruby (charSpan 1): み}見つかっちゃったボクは、{pause 20}	ここで　じ～っと	まってるんだぁ、{pause 8}{catchphrase}
+"002"	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 20}ボクはいま{pause 20}	なんで{ruby (charSpan 1): み}見つかっちゃったのか、	{ruby (charSpan 1): かんが}考えてるんだよ{pause 8}・{pause 8}・{pause 8}・
+"003"	{emote: Happiness}キミ　かくれんぼ	{ruby (charSpan 1): つよ}強いねぇ～！{Wait for input}{emote: Mischief}でも　ほかのみんなも	{ruby (charSpan 1): み}見つけられるかなぁ～？
+"004"	あれ？{pause 40}	{Player nickname (green)}{0005-000d-0000}、{pause 20}ぜんいんは	{ruby (charSpan 1): み}見つけられなかった　みたいだねぇ？{Wait for input}{emote: Worry}ざんねんだけど、{pause 20}	{ruby (charSpan 2): じかん}時間{ruby (charSpan 1): ぎ}切れだよぉ～

@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Anger}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Worry}
-"007"	{emote: Worry}
-"008"	なかなおりの　プレゼントだもん{pause 20}
-"009"	{emote: Happiness}
+"001"	{emote: Anger}もぉ～{pause 20}	{Player nickname (green)}{0005-000d-0000}！{Wait for input}{0011-0001-0002-0000}{0005-000d-0000}への	おとどけもの、{pause 20}	わすれちゃったの～？{Wait for input}{emote: Reset}それなら	かえしてよぉ～
+"002"	{emote: Worry}キミ{pause 20}　たのんだ　プレゼント、{pause 20}	まだ　{0011-0001-0002-0000}{0005-000d-0000}に	とどけてないのぉ？{Wait for input}うぅ～ん{pause 20}	もう　かえしてほしいなぁ～
+"003"	{emote: Worry}キミ　あのにもつ、{pause 20}	まだ　{0011-0001-0002-0000}{0005-000d-0000}に	かえしてないのぉ～？{Wait for input}{emote: Distress}もぉ～{pause 20}	それなら　ボクが{ruby (charSpan 1): い}行くよぉ～{pause 20}	かえして～！
+"004"	{emote: Worry}{0011-0001-0002-0000}{0005-000d-0000}の　わすれもの、{pause 20}	まだ　とどけて	ないんでしょぉ？{Wait for input}{emote: Sigh}もぉ～{pause 20}　しょうがないなぁ{pause 40}	かえしてよぉ、{pause 8}{catchphrase}
+"005"	{emote: Worry}おねがいした　おとどけもの、{pause 20}	まだ　{0011-0001-0002-0000}{0005-000d-0000}に	わたしてないのぉ～？{Wait for input}やっぱり　ボクが{ruby (charSpan 1): い}行くから{pause 20}	かえしてぇ～
+"006"	{emote: Worry}あのおとどけもの{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}に	まだとどけてないのぉ？{Wait for input}ボクが{ruby (charSpan 1): い}行ってくるから、	かえしてぇ、{pause 8}{catchphrase}
+"007"	{emote: Worry}しょうがないなぁ～{pause 40}	{ruby (charSpan 1): あと}後で　プレゼントしに	{ruby (charSpan 1): い}行ってこよ～っと、{pause 8}{catchphrase}
+"008"	なかなおりの　プレゼントだもん{pause 20}	やっぱり　ここは{pause 20}	ボクが　{ruby (charSpan 1): い}行くべきだったんだねぇ～
+"009"	{emote: Happiness}やっぱり	{ruby (charSpan 2): じぶん}自分が　かりたものは、{pause 20}	{ruby (charSpan 2): じぶん}自分で　かえさなきゃね
 "010"	やっぱり　{ruby (charSpan 2): じぶん}自分で	おとどけしてくるよぉ～
-"011"	{emote: Happiness}
-"012"	{emote: Sunny}
-"013"	{emote: Shocked}
-"014"	{emote: Distress}
-"015"	{emote: Distress}
-"016"	{emote: Disbelief}
-"017"	{emote: Shocked}
-"018"	{emote: Shocked}
-"019"	{emote: Disbelief}
-"020"	{emote: Sadness}
-"021"	{emote: Disbelief}
-"022"	{emote: Shocked}
-"023"	{emote: Disbelief}
-"024"	{emote: Shocked}
+"011"	{emote: Happiness}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	キミも　わすれっぽいんだねぇ～
+"012"	{emote: Sunny}ここはやっぱり{pause 20}	ボクが{ruby (charSpan 1): い}行かなきゃ	ダメなんだねぇ
+"013"	{emote: Shocked}{0007-000b-0000}えぇ～？！{pause 40}	あけちゃうなんて　ヒドイやぁ～{pause 40}	{emote: Sadness}また　つつみ{ruby (charSpan 1): なお}直さなきゃぁ～
+"014"	{emote: Distress}{0007-000b-0000}えぇ～？！{pause 40}	なかなおりのプレゼントだって	{ruby (charSpan 1): い}言ったのに～{Wait for input}{emote: Worry}{ruby (charSpan 1): き}気をつけてよぉ{pause 20}	{Player nickname (green)}{0005-000d-0000}
+"015"	{emote: Distress}えぇ～？！{pause 40}	あけちゃったのぉ～？{Wait for input}{emote: Sadness}これじゃあ	つつみ{ruby (charSpan 1): なお}直さなきゃぁ{pause 8}・{pause 8}・{pause 8}・
+"016"	{emote: Disbelief}{0007-000b-0000}あぁ～！{pause 40}	ラッピングがない！{Wait for input}{emote: Worry}がんばって　つつんだのに～{pause 20}	やりなおしだよぉ{pause 8}・{pause 8}・{pause 8}・
+"017"	{emote: Shocked}{0007-000b-0000}あぁ～{pause 40}	ほうそう{ruby (charSpan 1): し}紙、	バリバリしちゃったの？{Wait for input}コ、{pause 20}コレ{pause 20}	{ruby (charSpan 1): ひと}人のニモツだよぉ？！{Wait for input}{emote: Sadness}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	うまく　つつみ{ruby (charSpan 1): なお}直せるかなぁ～
+"018"	{emote: Shocked}えぇ～？！{pause 40}	コレ　あけちゃったのぉ？{Wait for input}	{emote: Sadness}また　つつみ{ruby (charSpan 1): なお}直さなきゃぁ{pause 8}・{pause 8}・{pause 8}・
+"019"	{emote: Disbelief}{0007-000b-0000}えぇ～？！{pause 40}	もってないって？！{Wait for input}{emote: Distress}アレは{pause 20}　キミにあげたんじゃ	ないんだよぉ～？！{Wait for input}{emote: Sadness}{Player nickname (green)}{0005-000d-0000}{pause 20}	ヒドイやぁ{pause 8}・{pause 8}・{pause 8}・
+"020"	{emote: Sadness}ヒドイ{pause 8}・{pause 8}・{pause 8}・{pause 20}	きもちをこめた	プレゼントだったのに{pause 8}・{pause 8}・{pause 8}・
+"021"	{emote: Disbelief}{0007-000b-0000}えぇ～？！{pause 40}	もってないのぉ？！{Wait for input}{emote: Sorrow}うぇ～～ん！{pause 20}	コレじゃあ　ボクがなくしたって{pause 20}	おこられちゃうよぉ～！
+"022"	{emote: Shocked}も、{pause 20}もってない？{pause 40}	アレは　あのコの	わすれものだよぉ～？！{Wait for input}{emote: Sadness}うぅ～～	あのコに　なんて{ruby (charSpan 1): い}言おう{pause 8}・{pause 8}・{pause 8}・
+"023"	{emote: Disbelief}{0007-000b-0000}えぇ～？！{pause 20}	もってないのぉ？！{Wait for input}{emote: Sadness}ヒドイや　{Player nickname (green)}{0005-000d-0000}{pause 40}	どうしよぉ～{pause 8}・{pause 8}・{pause 8}・
+"024"	{emote: Shocked}{0007-000b-0000}えぇ～？！{pause 20}	もってないのぉ？！{pause 40}	あのコ　{ruby (charSpan 1): たの}楽しみにしてたのに～{Wait for input}{emote: Sadness}はぁぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	また　{ruby (charSpan 1): か}買い{ruby (charSpan 1): なお}直さなきゃぁ～

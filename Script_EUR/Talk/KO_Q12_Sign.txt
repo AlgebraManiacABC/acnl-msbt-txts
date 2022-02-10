@@ -1,80 +1,80 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	Let me see{pause 8}
-"006"	{emote: Alarmed}
-"007"	Huh?{pause 20}
-"008"	Huh?{pause 15}
-"009"	Huh?{pause 15}
-"010"	Is this good enough?{0000-0004-0000}
-"011"	Here you go!{0000-0004-0000}
-"012"	Here—I signed it!{Wait for input}
-"013"	Here you go!{0000-0004-0000}
-"014"	Here you go!{pause 15}
-"015"	Here you go!{0000-0004-0000}
+"001"	{emote: Alarmed}Did you forget?!{pause 20} {emote: Worry}I already signed it;	don't you remember? Man!
+"002"	{emote: Alarmed}Huh?{pause 8} I already signed it; don't you	remember?!{pause 20} {emote: Anger}Come on! Don't forget	things like that!
+"003"	{emote: Alarmed}What?{pause 20} {emote: Reset}I already signed it, or did you	already forget?!
+"004"	{emote: Alarmed}Huh?{pause 15} {emote: Reset}You want me to sign some	sort of petition for	{0012-0001-0000}?{Wait for input}{emote: Worry}I'm not really interested, like, at all.{Wait for input}	{emote: Reset}Sorry.{pause 8} You should really just ask	somebody else.
+"005"	Let me see{pause 8}.{pause 8}.{pause 8}.{pause 15}a petition for	{0012-0001-0000}?{Wait for input}{emote: Distress}Oh, no, I can't!{pause 15} I may not look like it,{pause 8}	but I'm a super-busy person! Really!	{emote: Reset}Sorry, {pause 20}{catchphrase}!
+"006"	{emote: Alarmed}Huh?{pause 15} What's that? A petition for	{0012-0001-0000}?{Wait for input}{emote: Worry}Hmm. {pause 15}It doesn't really seem like this	has anything to do with me at all.{Wait for input}	{emote: Reset}Sorry. {pause 15}You should ask someone else!
+"007"	Huh?{pause 20} You say you want me to help	by signing a petition for	{0012-0001-0000}?{Wait for input}{emote: Happiness}Interesting!{pause 20} If you're OK with it,{pause 8} I'll	be totally fine signing it!
+"008"	Huh?{pause 15} You want me to help with	some sort of petition for	{0012-0001-0000}?{Wait for input}{emote: Happiness}I see!{pause 8} That's cool!{pause 20} I'd be happy to	go ahead and sign it!
+"009"	Huh?{pause 15} You need my help with some	sort of a petition for	{0012-0001-0000}?{pause 20}	{emote: Happiness}Ah, {pause 8}sure thing! {emote: Reset}But my handwriting	is awful,{pause 8} so you may not be able to	read it.{pause 20} {emote: Laughter}GAHAHA!
+"010"	Is this good enough?{Wait for input}{emote: Happiness}Anyway, {pause 8}it must be tough coming all	the way from {Town name (pink)} just to	collect those signatures!	Well, keep at it!
+"011"	Here you go!{Wait for input}So {pause 8}you came all the way out here	to {Town name (pink)}{pause 8} just to collect those	signatures?	{emote: Happiness}Ahh, {pause 8}maybe you're doing it while	you take care of other things, huh?{Wait for input}	Either way, {pause 8}good luck with that!{pause 15}
+"012"	Here—I signed it!{Wait for input} {emote: Happiness}Must have been	hard coming all the way from	another town.{pause 20} Keep at it!
+"013"	Here you go!{Wait for input}{emote: Happiness}Looks like I was the last signature	you needed!{pause 20} That's awesome!
+"014"	Here you go!{pause 15} {emote: Happiness}And my signature was	the very last one you needed!{Wait for input}Now you can submit this, right?{pause 20}	Very nice!
+"015"	Here you go!{Wait for input}{emote: Happiness}It looks like the sheet is all filled up!{pause 15}	Good work!{pause 20} Now you can submit	this petition, huh?
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	"{0012-0001-0000}
-"006"	{emote: Alarmed}
-"007"	¿Quieres que apoye la petición	"{0012-0001-0000}
-"008"	Estás recogiendo firmas para	"{0012-0001-0000}
-"009"	¿Quieres que firme una petición?	¿"{0012-0001-0000}
-"010"	¿Te vale así?{0000-0004-0000}
-"011"	¡Listo!{0000-0004-0000}
-"012"	Hala,{pause 8}
-"013"	¡Garabato y se acabó!{0000-0004-0000}
-"014"	Y con mi firma{pause 15}!
-"015"	He firmado abajo del todo,{pause 8}
+"001"	{emote: Alarmed}¿Pero no te acuerdas?{pause 20}	{emote: Worry}¡Si esto ya te lo firmé!
+"002"	{emote: Alarmed}¿Otra vez?{pause 8} ¿Necesitas mi firma	dos veces?{pause 20} {emote: Anger}Yo creo que te estás	confundiendo.
+"003"	{emote: Alarmed}¡Vaya cabeza tienes!{pause 20} {emote: Reset}¡Si esto ya lo	he firmado y más que firmado!
+"004"	{emote: Alarmed}¿Qué petición quieres que firme?{pause 15}	{emote: Reset}¿"{0012-0001-0000}"?{Wait for input}{emote: Worry}Pero si ni siquiera estoy de acuerdo.{Wait for input}	{emote: Reset}¡Menuda idea!{pause 15} Lo siento,{pause 8} tendrás	que buscarte a otro.
+"005"	"{0012-0001-0000}"{pause 8}.{pause 8}.{pause 8}.{pause 15}{Wait for input}{emote: Distress}¡Yo no tengo tiempo para peticiones	de estas,{pause 8} {catchphrase}!{pause 20}{emote: Reset}
+"006"	{emote: Alarmed}¿Qué es eso?{pause 15} ¿Una petición?{pause 15}	"{0012-0001-0000}".{pause 15} Ya.{Wait for input}{emote: Worry}Pues no me identifico con el	mensaje,{pause 8} lo siento.{Wait for input} {emote: Reset}Tendrás	que seguir preguntando.
+"007"	¿Quieres que apoye la petición	"{0012-0001-0000}"?{Wait for input}{emote: Happiness}¡Qué interesante!{pause 20} Firmo sin dudarlo	y encantado.
+"008"	Estás recogiendo firmas para	"{0012-0001-0000}" y	quieres que apoye la petición, ¿eh?{Wait for input}{emote: Happiness}¡Pues muy bien!{pause 20} ¡Vamos a echar	una firmica!
+"009"	¿Quieres que firme una petición?	¿"{0012-0001-0000}"?{Wait for input}{emote: Happiness}Por mí vale,{pause 8} aunque con la letra	que tengo{pause 8} no sé si se va a entender.{pause 20}	{emote: Laughter}¡Ja, ja, ja!
+"010"	¿Te vale así?{Wait for input}{emote: Happiness}Vaya viaje te has pegado,{pause 8}	viniendo desde {capitalized}{Town name (pink)}	solo para recoger firmas.	Sigue así,{pause 8} {emote: Agreement}¡pero aprovecha	y haz más cosas!
+"011"	¡Listo!{Wait for input}¿Y has venido a {capitalized}{Town name (pink)}	a recoger firmas?{Wait for input}{emote: Happiness}Pues ya que estás aquí,{pause 8} aprovecha	y degusta los productos de la tierra.{Wait for input}	¡Y suerte con la petición!
+"012"	Hala,{pause 8} ¡firmado!{Wait for input} {emote: Happiness}Espero que el viaje	te esté mereciendo la pena.{pause 20}	¡Suerte con las demás firmas!
+"013"	¡Garabato y se acabó!{Wait for input}{emote: Happiness}¡Tienes la hoja de firmas completa!{pause 20}	He sido imprescindible,{pause 8} como de	costumbre.
+"014"	Y con mi firma{pause 15} {emote: Happiness}ya no necesitas más.{Wait for input}¿A quién le tienes que llevar esto	ahora?{pause 20} ¡Seguro que se pone muy	contento!
+"015"	He firmado abajo del todo,{pause 8}	en la última línea.{Wait for input}{emote: Happiness}Eso significa que ya puedes enviar	la petición,{pause 8} ¿no?{pause 15} ¡Parece que has	sido muy eficiente!
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	Voyons voir{pause 8}
-"006"	{emote: Alarmed}
-"007"	Hein ?{pause 20}!
-"008"	Hein ?{pause 15}!
-"009"	Hein ?{pause 15}!
-"010"	Ça va, comme ça ?{0000-0004-0000}
-"011"	Voilà !{0000-0004-0000}
-"012"	Voilà, c'est signé.{Wait for input}
-"013"	Et voilà !{0000-0004-0000}
-"014"	Et voilà !{pause 15}
-"015"	Et voilà !{0000-0004-0000}
+"001"	{emote: Alarmed}T'as oublié ?{pause 20} {emote: Worry}Je l'ai déjà signée, ta	pétition ! PFFF.
+"002"	{emote: Alarmed}Hein ?{pause 8} J'ai déjà signé, tu te	rappelles pas ?{pause 20} {emote: Anger}On oublie pas des	trucs comme ça !
+"003"	{emote: Alarmed}Quoi ?{pause 20} {emote: Reset}Mais j'ai déjà signé, voyons !
+"004"	{emote: Alarmed}Hein ?{pause 15} {emote: Reset}Tu veux que je signe une	pétition appelée	« {0012-0001-0000} » ?{Wait for input}{emote: Worry}Ça m'intéresse pas, genre pas du	tout.{Wait for input}{emote: Reset} Désolé.{pause 8} Tu devrais demander	à quelqu'un d'autre.
+"005"	Voyons voir{pause 8}.{pause 8}.{pause 8}.{pause 15} une pétition pour	« {0012-0001-0000} » ?{Wait for input}{emote: Distress}Ah non !{pause 15} J'en ai pas l'air,{pause 8} mais je	suis très très occupé ! Vraiment !	{emote: Reset}Désolé, {pause 20}{catchphrase} !
+"006"	{emote: Alarmed}Hmm,{pause 15} comment ? Une pétition pour	« {0012-0001-0000} » ?{Wait for input}{emote: Worry}Mouais. {pause 15}Ça n'a absolument rien à	voir avec moi.{Wait for input} {emote: Reset}Désolé, {pause 15}va falloir	s'adresser à quelqu'un d'autre.
+"007"	Hein ?{pause 20} Tu veux que je t'aide en	signant la pétition	« {0012-0001-0000} » ?	{emote: Happiness}Intéressant !{pause 20} Si ça te va,{pause 8} je signe.	Plusieurs fois, même !
+"008"	Hein ?{pause 15} Une pétition ?	« {capitalized}{0012-0001-0000} » ?{Wait for input}{emote: Happiness}Je vois !{pause 8} C'est... cool !{pause 20} Donne-moi	ça, que je signe.
+"009"	Hein ?{pause 15} T'as besoin de signatures	pour une pétition ?	« {capitalized}{0012-0001-0000} » ?{pause 20}	{emote: Happiness}Ah, {pause 8}pourquoi pas. {emote: Reset}Mais j'écris	vraiment mal,{pause 8} donc ce sera peut-	être illisible.{pause 20} {emote: Laughter}HA HA HA !
+"010"	Ça va, comme ça ?{Wait for input}{emote: Happiness}Ça doit être crevant {pause 8}de venir depuis	{Town name (pink)} pour collecter ces	signatures.	Bon courage...
+"011"	Voilà !{Wait for input}Donc {pause 8}tu es venu{/e} ici, à {Town name (pink)},{pause 8}	juste pour collecter des	signatures ?	{emote: Happiness}Ah, {pause 8}tu fais ça à côté, pendant que	tu te balades ?{Wait for input} Bon, {pause 8}bonne chance !{pause 15}
+"012"	Voilà, c'est signé.{Wait for input} {emote: Happiness}T'en as fait, du	chemin, pour ma signature !{pause 20}	Continue comme ça !
+"013"	Et voilà !{Wait for input}{emote: Happiness}On dirait bien que c'était la dernière	signature dont tu avais besoin...
+"014"	Et voilà !{pause 15} {emote: Happiness}Ma signature était la 	dernière, tu as toutes celles dont tu	as besoin, non ?
+"015"	Et voilà !{Wait for input}{emote: Happiness}Le formulaire est rempli !{pause 15} Bon	travail.{pause 20} Tu peux soumettre ta	pétition, on dirait !
 == 3 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	Fai un po' vedere{pause 8}
-"006"	{emote: Alarmed}
-"007"	Eh?{pause 20}
-"008"	Eh?{pause 15}
-"009"	Eh?{pause 15}
-"010"	Ti va bene?{0000-0004-0000}
-"011"	Ecco qua!{0000-0004-0000}
-"012"	Ecco la mia firma!{Wait for input}
-"013"	Ecco qua il mio autografo!{0000-0004-0000}
-"014"	Ecco qua!{pause 15}
-"015"	Ecco qua la mia firma!{0000-0004-0000}
+"001"	{emote: Alarmed}Non ti ricordi?!{pause 20} {emote: Worry}Io ho già firmato!	Non hai una memoria di ferro, eh?
+"002"	{emote: Alarmed}Cosa?{pause 8} Guarda che ho già firmato!	{pause 20}{emote: Anger}La prossima volta prendi appunti!
+"003"	{emote: Alarmed}Che?{pause 20} {emote: Reset}Io ho già firmato!	Qualcuno qui sta perdendo colpi...	E non sono certo io! {emote: Laughter}AHAHAH!
+"004"	{emote: Alarmed}Che dici?{pause 15} {emote: Reset}Vuoi che firmi per	una petizione che si chiama	"{0012-0001-0000}"?{Wait for input}{emote: Worry}Guarda, non sono interessato.{Wait for input}	{emote: Reset}Scusa,{pause 8} ma meglio che chiedi	al prossimo che passa. {emote: Laughter}AHAHAH!
+"005"	Fai un po' vedere{pause 8}.{pause 8}.{pause 8}.{pause 15} È la petizione	"{0012-0001-0000}"?{Wait for input}{emote: Distress}Ah, non posso!{pause 15} Non ho tempo per	queste cose! Sto correndo a lezione	di ukulele! {emote: Reset}Scusa, {pause 20}{catchphrase}!
+"006"	{emote: Alarmed}Che?{pause 15} Cos'è? La petizione	"{0012-0001-0000}"?{Wait for input}{emote: Worry}Mmmh, {pause 15}non so se hai notato, ma io	praticamente non c'entro niente.{Wait for input}	{emote: Reset}Scusa, {pause 15}chiedi a qualcun altro!
+"007"	Eh?{pause 20} Vuoi che ti aiuti lasciando	una firma per la petizione	"{0012-0001-0000}"?{Wait for input}{emote: Happiness}Interessante!{pause 20}	Certo,{pause 8} firmo volentieri!
+"008"	Eh?{pause 15} Dici che dovrei firmare per	"{0012-0001-0000}"?{Wait for input}{emote: Happiness}Ah, ho capito!{pause 8} Sì, dai!{pause 20}	Ti faccio un bell'autografone!
+"009"	Eh?{pause 15} Vuoi che firmi per la petizione	"{0012-0001-0000}"?{pause 20}	{emote: Happiness}Ah, {pause 8}sicuro!	{emote: Reset}Ma guarda che la mia calligrafia è	peggio di quella di un dottore.{pause 8}	Ti sfido a decifrarla.{pause 20} {emote: Laughter}AHAHAH!
+"010"	Ti va bene?{Wait for input}{emote: Happiness}Comunque, {pause 8}devi essere proprio	convint{o/a} se hai fatto tutta	questa strada da {Town name (pink)}!	Dai, ti stimo!
+"011"	Ecco qua!{Wait for input}E allora, {pause 8}ti sei fatt{o/a} tutta questa	strada fino {000e-0010-0000} {Town name (pink)}{pause 8} solo per	raccogliere qualche firma?	{emote: Happiness}Ahhh, {pause 8}forse sei qui anche per	sbrigare altre faccende?{Wait for input}	Vabbè, {pause 8}buona fortuna!{pause 15}
+"012"	Ecco la mia firma!{Wait for input} {emote: Happiness}Dopo tutta	la strada che hai fatto per arrivare	fino a qui,{pause 20} te la meriti!
+"013"	Ecco qua il mio autografo!{Wait for input}{emote: Happiness}Ah, ma... era l'ultima firma	che ti serviva!{pause 20} Epico!
+"014"	Ecco qua!{pause 15} {emote: Happiness}Vedo che ora la petizione	è completa! Hai raccolto tutte	le firme!	Ora puoi consegnarla, no?{pause 20}	Sei proprio {un/una} raccoglifirme da	com... petizione! {emote: Laughter}AHAHAHAHAH!
+"015"	Ecco qua la mia firma!{Wait for input}{emote: Happiness}Ah, ma il modulo è completo!{pause 15}	Grande!{pause 20} Ora puoi consegnare	la petizione, giusto?
 == 4 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	Let me see{pause 8}
-"006"	{emote: Alarmed}
-"007"	Du sammelst Unterschriften für	{0012-0001-0000}
-"008"	Hm? {pause 15}
-"009"	Hä?{pause 15}
-"010"	So, das wär's!{0000-0004-0000}
-"011"	Erledigt!{0000-0004-0000}
-"012"	So, hier ist meine Unterschrift!{Wait for input}!
-"013"	So, erledigt!{0000-0004-0000}
-"014"	Fertig!{pause 15}
-"015"	So, meine Unterschrift ist drauf!{0000-0004-0000}
+"001"	{emote: Alarmed}Hast du vergessen?{pause 20} {emote: Anger}Ich hab doch	schon unterschrieben!
+"002"	{emote: Alarmed}Ich hab doch schon unterschrieben!{pause 20}	{emote: Anger}Du musst besser aufpassen!
+"003"	{emote: Alarmed}Was?{pause 20} {emote: Anger}Da ist meine Unterschrift	doch schon!
+"004"	{emote: Alarmed}Huh?{pause 15} {emote: Reset}You want me to sign some	sort of petition for	{0012-0001-0000}?{Wait for input}{emote: Worry}I'm not really interested, like, at all.{Wait for input}	{emote: Reset}Sorry.{pause 8} You should really just ask	somebody else.
+"005"	Let me see{pause 8}.{pause 8}.{pause 8}.{pause 15}a petition for	{0012-0001-0000}?{Wait for input}{emote: Distress}Oh, no, I can't!{pause 15} I may not look like it,{pause 8}	but I'm a super-busy person! Really!	{emote: Reset}Sorry, {pause 20}{catchphrase}!
+"006"	{emote: Alarmed}Huh?{pause 15} What's that? A petition for	{0012-0001-0000}?{Wait for input}{emote: Worry}Hmm. {pause 15}It doesn't really seem like this	has anything to do with me at all.{Wait for input}	{emote: Reset}Sorry. {pause 15}You should ask someone else!
+"007"	Du sammelst Unterschriften für	{0012-0001-0000}?{Wait for input}{emote: Glare}Klingt gut, {pause 8}da bin ich dabei!
+"008"	Hm? {pause 15}Du brauchst Unterschriften für	{0012-0001-0000}?{Wait for input}{emote: Glare}Na, da unterschreibe ich doch gern!
+"009"	Hä?{pause 15} Eine Petition, sagst du?{pause 20} Für	{0012-0001-0000}?{Wait for input}{emote: Glare}Na klar! {pause 20}Wenn es nichts ausmacht,	dass meine Unterschrift komplett	unleserlich ist... {pause 20}{emote: Laughter}Bwa ha ha!{pause 30}{emote: Happiness}
+"010"	So, das wär's!{Wait for input}{emote: Glare}Ganz schöner Aufwand, dafür den	ganzen weiten Weg von {Town name (pink)}	herzukommen!
+"011"	Erledigt!{Wait for input}Und du kommst also für diese	Unterschriften extra nach	{Town name (pink)}?	{emote: Glare}Na, viel Spaß noch!
+"012"	So, hier ist meine Unterschrift!{Wait for input}	Bestimmt stressig, dafür in eine	andere Stadt zu fahren!
+"013"	So, erledigt!{Wait for input}{emote: Glare}Und es sieht aus, als wäre meine	Unterschrift die letzte gewesen, die	gefehlt hat!
+"014"	Fertig!{pause 15} {emote: Surprise}Anscheinend war das die	letzte Unterschrift, die noch gefehlt	hat, damit du sie abgeben kannst!
+"015"	So, meine Unterschrift ist drauf!{Wait for input}{emote: Glare}Mehr passt auch nicht mehr auf die	Liste. {pause 20}Die kannst du jetzt wohl	abgeben, was?

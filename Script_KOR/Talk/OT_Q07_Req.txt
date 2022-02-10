@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Sheepishness}
-"003"	{emote: Alarmed}
-"004"	이건{pause 8}
-"005"	{emote: Thought}
-"006"	{pause 8}
-"007"	{emote: Surprise}
-"008"	{emote: Alarmed}
-"009"	{emote: Surprise}
-"010"	{emote: Alarmed}
-"011"	{emote: Surprise}
-"012"	{emote: Alarmed}
-"013"	{emote: Alarmed}
-"014"	{emote: Alarmed}
-"015"	{emote: Surprise}
-"016"	{emote: Surprise}
-"017"	{emote: Surprise}
-"018"	{emote: Surprise}
-"019"	{emote: Happiness}
-"020"	{emote: Soft Smile}
-"021"	{emote: Soft Smile}
-"022"	다음부터는 잃어버리지 않도록{pause 16}
-"023"	{emote: Anger}
-"024"	{emote: Sheepishness}
+"001"	{emote: Alarmed}엥?{pause 16}	분실물은 어떻게 된 거야?{Wait for input}{emote: Worry}{Player nickname (green)}{pause 8}・{pause 8}・{pause 8}・{pause 8}	뭘 보여줘야 내 것인지 아닌지	알아볼 게 아냐?{pause 8}
+"002"	{emote: Sheepishness}일단은{pause 8}	진정부터 해, {Player nickname (green)}～
+"003"	{emote: Alarmed}어{pause 8}・{pause 8}・{pause 8}・{pause 8}?	뭔가 주운 거 아니었어?{Wait for input}{emote: Worry}그렇게 뜸 들이지 말고	빨리 보여줘, {Player nickname (green)}～
+"004"	이건{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Worry} 아쉽지만	내 건 아니야, {pause 8}{catchphrase}{Wait for input}미안하지만 {pause 8}	다른 애한테 물어볼래?
+"005"	{emote: Thought}{pause 16}음{pause 8}・{pause 8}・{pause 8}・{pause 8} 안타깝지만	내 건 아니야!{Wait for input}{emote: Worry}안됐지만 {pause 8}다른 데	더 알아봐야겠다
+"006"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Worry}이건　	처음 보는 건데? {pause 8}{catchphrase}?{Wait for input}미안하지만 {pause 8}다른 사람한테	한번 물어봐줄래?
+"007"	{emote: Surprise}앗! 이 연애 소설{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}우습게 생각하고 읽기 시작했는데	의외로 푹 빠졌었지～	{emote: Bashful}몇 번이나 읽었을 정도로{pause 8}	좋아하는 책이야{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}이렇게 찾게 돼서	정말 다행이다～ {pause 8}{catchphrase}～
+"008"	{emote: Alarmed}앗! 이 미스터리 소설{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}누가 가져간 줄 알았더니{pause 16}	잃어버린 거였구나!	{emote: Soft Smile}읽던 도중이라	뒤가 궁금했는데{pause 16}	마침 잘 됐다～ {pause 8}{catchphrase}～
+"009"	{emote: Surprise}아니!{pause 8}　	내 일기장이잖아?{Wait for input}{emote: Sigh}{pause 60}다행이다～ {pause 16}무사히 찾았어～{Wait for input}	{emote: Worry}내 개인적인 생각들이	많이 담겨 있어서{pause 8}・{pause 8}・{pause 8}・{pause 8}	공개되기라도 하면	아주 난처할 뻔했어!	{pause 8}{catchphrase}!
+"010"	{emote: Alarmed}아니!{pause 8}	내 파우치잖아?!{Wait for input}{emote: Worry}한동안 안 보인다 했는데{pause 8}	잃어버렸었다니～ {pause 8}{catchphrase}～{Wait for input}{emote: Soft Smile}화장품이 없어져서 난감했는데{pause 16}	덕분에 찾게 돼서 기뻐～	{pause 8}{catchphrase}～
+"011"	{emote: Surprise}앗! {pause 8}내 파우치네{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}누가 가져간 줄 알았는데{pause 8}	잃어버렸었구나～!	{emote: Soft Smile}고가의 화장품도 들어 있었는데{pause 16}	찾아서 다행이야～ {pause 8}{catchphrase}～
+"012"	{emote: Alarmed}앗! 이 파우치는{pause 16}	내 거잖아?!{Wait for input}{emote: Anger}{Player nickname (green)}{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Mischief}혹시 내용물 본 거 아니지?
+"013"	{emote: Alarmed}아니, 이건!{pause 16}	내 장갑이잖아?!{Wait for input}{emote: Worry}한 짝만 남아서 곤란했었는데{pause 16}	이제 쓸 수 있겠다～ {pause 8}{catchphrase}～
+"014"	{emote: Alarmed}앗! 이건 내 장갑인데?{pause 32}	{emote: Worry}안 그래도 한 짝밖에 없어서	어떡하나 하고 있었어～ 	한 짝만 남은 장갑만큼{pause 16}	처량한 게 또 없지{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}하지만 당신 덕분에	찾게 돼서 다행이야, {pause 8}{catchphrase}
+"015"	{emote: Surprise}아니! 이 장갑은{pause 4}・{pause 4}・{pause 4}・{pause 4}	내 거잖아?{Wait for input}{emote: Worry}안 그래도 한 짝만 남아서{pause 8}　	처치 곤란하던 참이었어～{Wait for input}{emote: Soft Smile}우후훗～ {pause 16}마치 재결합한	커플 같네, {pause 8}{catchphrase}
+"016"	{emote: Surprise}앗! 이 종이 가방!{pause 16}	{emote: Distress}안 그래도 찾고 있었어, 이거～{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}뭐가 들어 있냐구?{Wait for input}	{emote: Worry}뭐야～ {pause 8}그런 건 함부로	묻는 거 아니야, {pause 8}{Player nickname (green)}!
+"017"	{emote: Surprise}앗! 내 종이 가방?{pause 32}	{emote: Sigh}{pause 60}찾았다～ {pause 16}다행이야{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Curious}혹시 안쪽을 본 건 아니지?{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Mischief}그래, 잘했어{pause 16}	우후후후훗
+"018"	{emote: Surprise}앗! 이건!{pause 16}	내 종이 가방이잖아?!{Wait for input}{emote: Happiness}소중히 여기던 거였는데{pause 16}	찾아서 정말 다행이야～	{pause 8}{catchphrase}～
+"019"	{emote: Happiness}일부러 갖다 주러 와서{pause 16}	고마워, {pause 8}{catchphrase}!{Wait for input}{emote: Worry}별거 아니지만 보답으로{pause 16}	이 {0011-0003-0002-0000}{000e-000e-000e-0006-c774-b77c-b3c4-0004-b77c-b3c4}{pause 16}	받아줄래?
+"020"	{emote: Soft Smile}날 위해서	일부러 들고 와줘서{pause 16}	고마워, {pause 8}{Player nickname (green)}	{emote: Shyness}당신한테 보답으로{pause 16}	이 {0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	주고 싶은데 어때? {pause 8}{catchphrase}?
+"021"	{emote: Soft Smile}고마워, {Player nickname (green)}!{pause 16}	혹시 나를 위해{pause 8}	찾아준 거야?	{emote: Sunny}이런 건 보답을 꼭 해야지!{pause 16}	자, {0011-0003-0002-0000}{000e-000e-000a-0004-c774-c57c-0002-c57c}!
+"022"	다음부터는 잃어버리지 않도록{pause 16}	조심할게, {pause 8}{catchphrase}
+"023"	{emote: Anger}걱정 마, {Player nickname (green)}{pause 32}	{emote: Sheepishness}나도 앞으로는 흘리지 않도록{pause 8}	조심할 테니까{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"024"	{emote: Sheepishness}난 너무 덜렁거려서 탈이야～{pause 16}	다음부턴 조심할게,	{pause 8}{catchphrase}

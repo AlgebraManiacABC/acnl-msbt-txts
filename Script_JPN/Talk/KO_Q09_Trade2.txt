@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Surprise}
-"003"	{emote: Agreement}
-"004"	{emote: Surprise}
-"005"	{emote: Alarmed}
-"006"	{emote: Alarmed}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Worry}
-"010"	{emote: Worry}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
+"001"	{emote: Surprise}おお！{pause 20}　{emote: Mischief}{0011-0003-0002-0000}に	{ruby (charSpan 1): め}目をつけるたぁ、{pause 15}	オメェも　スミに{ruby (charSpan 1): お}置けねぇな！	{emote: Happiness}よーし！{pause 15}　{ruby (charSpan 1): ほか}他ならぬ　オメェのためだ！{Wait for input}	{Blue}{Number (0xa)}ベル{Color Reset}で{pause 8}	{ruby (charSpan 1): ゆず}譲ってやるぜ、{pause 20}{catchphrase}？！{confirmation-02}{000f-0005-0004-0015-0028}	{ruby (charSpan 1): ほ}欲しい！	いらない
+"002"	{emote: Surprise}ああ！{pause 20}　{emote: Happiness}いいだろ、{pause 8}その	{0011-0003-0002-0000}！{Wait for input}オメェが　{ruby (charSpan 1): ほ}欲しいっていうなら{pause 15}	{Blue}{Number (0xa)}ベル{Color Reset}で{pause 8}	{ruby (charSpan 1): ゆず}譲ってやってもいいぜ、{pause 20}{catchphrase}？{confirmation-02}{000f-0005-0004-0015-0028}	{ruby (charSpan 1): ほ}欲しい！	いらない
+"003"	{emote: Agreement}うんうん、{pause 15}	やっぱり　{0011-0003-0002-0000}が	{ruby (charSpan 1): き}気になったか？！	{emote: Thought}そうだな{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}{Blue}{Number (0xa)}ベル{Color Reset}なら{pause 8}	{ruby (charSpan 1): ゆず}譲ってやってもいいぜ、{pause 20}{catchphrase}？{confirmation-02}{000f-0005-0004-0015-0028}	{ruby (charSpan 1): ほ}欲しい！	いらない
+"004"	{emote: Surprise}あ、{pause 15}{0011-0003-0002-0000}か？{Wait for input}	{emote: Reset}それなら{pause 8}　{ruby (charSpan 1): ゆず}譲ってやっても	いいんだが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}オメェ{pause 8}　{ruby (charSpan 2): にもつ}荷物がいっぱいじゃねぇか！{pause 20}	そんなんじゃ　{ruby (charSpan 1): も}持って{ruby (charSpan 1): かえ}帰れねぇだろ？！
+"005"	{emote: Alarmed}なんだ、{pause 8}やめるのか？！{pause 20}	{emote: Reset}エンリョしなくっても　いいんだぜ？
+"006"	{emote: Alarmed}ん？{pause 15}	お{ruby (charSpan 1): かね}金　{ruby (charSpan 1): た}足りねぇぞ？！{pause 20}	{emote: Resigned}{ruby (charSpan 2): こんかい}今回は　おあずけだな、{pause 20}{catchphrase}
+"007"	{emote: Alarmed}おっと、{pause 15}{emote: Worry}その　{0011-0003-0002-0000}は{pause 8}	{ruby (charSpan 2): だいじ}大事に{ruby (charSpan 1): か}飼ってる　ペットなんで{pause 15}	{ruby (charSpan 1): ゆず}譲るわけには　いかねぇんだよ	{emote: Reset}{ruby (charSpan 1): わり}悪ぃけど　{ruby (charSpan 2): じぶん}自分でつかまえてくんな
+"008"	{emote: Alarmed}あ、{pause 15}{emote: Thought}その　{0011-0003-0002-0000}は{pause 8}	オレの{ruby (charSpan 2): たいせつ}大切なペットだから	{ruby (charSpan 1): ゆず}譲れねぇなぁ	{emote: Reset}{ruby (charSpan 1): わり}悪ぃが　{ruby (charSpan 1): ほ}欲しけりゃ{pause 8}	{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): つ}釣ってくんな
+"009"	{emote: Worry}うーん、{pause 15}{ruby (charSpan 1): ほ}欲しがる{ruby (charSpan 2): きも}気持ちは　わかるんだが、{pause 20}	{emote: Reset}そいつは　カンベンしてくれ
+"010"	{emote: Worry}あー、{pause 8}それはちょっと　ムリなんだ{Wait for input}	{emote: Reset}{ruby (charSpan 1): わり}悪ぃが　{ruby (charSpan 1): ほか}他のモンに	してくんねぇかな？{pause 20}　{catchphrase}？
+"011"	{emote: Alarmed}あっ！{pause 15}	{emote: Worry}そいつはちょっと　{ruby (charSpan 1): ゆず}譲れねぇんだ{pause 20}	{emote: Reset}{ruby (charSpan 1): わり}悪ぃねぇ
+"012"	{emote: Alarmed}おっと、{pause 15}{emote: Worry}そいつは　ダメなんだ{Wait for input}	{emote: Reset}{ruby (charSpan 1): わり}悪ぃが　{ruby (charSpan 1): ほか}他のモンに	してくんねぇかな、{pause 20}{catchphrase}

@@ -1,29 +1,29 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Soft Smile}
-"003"	{emote: Agreement}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{pause 8}
-"007"	わかったわ、{pause 32}!
-"008"	それじゃあ、{pause 16}!
-"009"	それじゃあ、{ruby (charSpan 2): こうへい}公平に{pause 16}
-"010"	{emote: Worry}
-"011"	{emote: Anger}
-"012"	{emote: Worry}
-"013"	{emote: Soft Smile}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{emote: Sheepishness}
-"017"	{emote: Worry}
-"018"	{emote: Sheepishness}
-"019"	{emote: Anger}
-"020"	{emote: Soft Smile}
-"021"	{emote: Anger}
-"022"	わかったわ、{pause 32}!
-"023"	・{pause 8}
-"024"	・{pause 8}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Alarmed}えっ{pause 4}・{pause 4}・{pause 4}・{pause 4}アナタって、{pause 16}	ずいぶん　{ruby (charSpan 1): き}気さくな{ruby (charSpan 1): ひと}人なのね？　	{pause 8}{catchphrase}？	{emote: Soft Smile}アナタのような　{ruby (charSpan 1): ひと}人がいる{ruby (charSpan 1): むら}村なら、{pause 16}	やっていけそうな{ruby (charSpan 1): き}気がする{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Sunny}アタシ、{pause 8}ここに{ruby (charSpan 2): ひっこ}引越すわ！	{emote: Alarmed}あ、{pause 8}そういえば　まだ{pause 16}	{ruby (charSpan 2): なまえ}名前　{ruby (charSpan 1): き}聞いてなかったわよね？{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}{Player nickname (green)}{0005-000d-0000}？	{emote: Happiness}よろしくね、{pause 8}{Player nickname (green)}{0005-000d-0000}！
+"002"	{emote: Soft Smile}そうね{pause 8}・{pause 8}・{pause 8}・{pause 8}そういうのも	{ruby (charSpan 1): わる}悪くないわね、{pause 32}{emote: Sunny}{ruby (charSpan 1): き}決めた！{pause 16}	アタシ　{pause 8}ここに{ruby (charSpan 2): ひっこ}引越すわ！	{emote: Alarmed}あ、{pause 8}そういえば　まだ{pause 16}	{ruby (charSpan 2): なまえ}名前　{ruby (charSpan 1): き}聞いてなかったわよね？{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}{Player nickname (green)}{0005-000d-0000}？	{emote: Happiness}よろしくね、{pause 8}{Player nickname (green)}{0005-000d-0000}！
+"003"	{emote: Agreement}うん、{pause 16}そういう{ruby (charSpan 1): い}生き{ruby (charSpan 1): かた}方も{pause 16}	{ruby (charSpan 1): わる}悪くないわね？{pause 32}	なんだか　{ruby (charSpan 2): おもしろ}面白そうだし	{emote: Reset}それじゃ、{pause 8}アタシ{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}{ruby (charSpan 2): こんど}今度　{pause 8}ここに{ruby (charSpan 2): ひっこ}引越すわ！	{pause 8}{catchphrase}！	{emote: Alarmed}あ、{pause 8}そういえば　まだ{pause 16}	{ruby (charSpan 2): なまえ}名前　{ruby (charSpan 1): き}聞いてなかったわよね？{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}{Player nickname (green)}{0005-000d-0000}？	{emote: Happiness}よろしくね、{pause 8}{Player nickname (green)}{0005-000d-0000}！
+"004"	{emote: Worry}ごめんなさい{pause 8}・{pause 8}・{pause 8}・{pause 32}{emote: Soft Smile}でも、アタシ{pause 16}	{ruby (charSpan 1): いま}今、{pause 8}{ruby (charSpan 1): す}住んでるところも　{ruby (charSpan 1): す}好きなの
+"005"	{emote: Worry}でも{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 1): いま}今、{ruby (charSpan 1): す}住んでる{ruby (charSpan 1): むら}村が{pause 16}	{ruby (charSpan 1): きら}嫌いになったわけじゃないし{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"006"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Anger}やっぱりダメ！{pause 32}	{ruby (charSpan 1): いま}今、{pause 8}{ruby (charSpan 1): す}住んでる{ruby (charSpan 1): むら}村や　{pause 16}{ruby (charSpan 2): ともだち}友達と	{ruby (charSpan 1): はな}離れることは　できないわ！
+"007"	わかったわ、{pause 32}それじゃあ{pause 8}	アタシと　{emote: Curious}ゲームをしない？{Wait for input}{emote: Soft Smile}もし、{pause 8}アナタが{ruby (charSpan 1): か}勝ったら{pause 16}	アタシは　この{ruby (charSpan 1): むら}村の{ruby (charSpan 2): いちいん}一員になるわ、	{pause 8}{catchphrase}	{emote: Anger}その{ruby (charSpan 1): か}代わり　アナタが{ruby (charSpan 1): ま}負けたら{pause 16}	アナタが{ruby (charSpan 1): も}持ってる　{pause 16}その	{0011-0003-0002-0000}を{ruby (charSpan 1): いただ}頂くわ！{Player can respond (0005):0019-0015-000a-0028}	よし{ruby (charSpan 2): しょうぶ}勝負だ！	それはちょっと・・・
+"008"	それじゃあ、{pause 16}ゲームで{ruby (charSpan 1): き}決めましょう{Wait for input}{emote: Soft Smile}アナタが{ruby (charSpan 1): か}勝ったら{pause 8}・{pause 8}・{pause 8}・{pause 8}	アタシは　{Town name (pink)}{ruby (charSpan 1): むら}村に{ruby (charSpan 1): す}住むわ！{Wait for input}{emote: Anger}でも、アナタが{ruby (charSpan 1): ま}負けたら{pause 8}・{pause 8}・{pause 8}・{pause 8}	アナタが{ruby (charSpan 1): も}持ってる{pause 16}　その	{0011-0003-0002-0000}を　もらうわよ！{Player can respond (0005):0019-0015-000b-0028}	よしきた！	それはヤダ
+"009"	それじゃあ、{ruby (charSpan 2): こうへい}公平に{pause 16}	ゲームで　{ruby (charSpan 1): き}決めましょうか？{Wait for input}{emote: Soft Smile}アナタが　{ruby (charSpan 1): か}勝ったら{pause 16}	アタシは　この{ruby (charSpan 1): むら}村に{ruby (charSpan 2): ひっこ}引越すわ、	{pause 8}{catchphrase}	{emote: Sheepishness}その{ruby (charSpan 1): か}代わり　{ruby (charSpan 1): ま}負けたら{pause 16}	アナタの　{0011-0003-0002-0000}を{pause 32}	{emote: Glare}アタシに　ちょうだい！{Player can respond (0005):0019-0015-000c-0028}	よしきた！	それはちょっと・・・
+"010"	{emote: Worry}そう{pause 8}・{pause 8}・{pause 8}・{pause 8}アタシよりも{pause 16}	{0011-0003-0002-0000}の{ruby (charSpan 1): ほう}方が	{ruby (charSpan 2): だいじ}大事なのね、{pause 8}{catchphrase}
+"011"	{emote: Anger}その{ruby (charSpan 1): ほう}方がいいわ、{pause 8}{catchphrase}！{pause 32}	{emote: Sheepishness}それぐらいの　{ruby (charSpan 2): かくご}覚悟がないなら、{pause 16}	やめた{ruby (charSpan 1): ほう}方がいいもの{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"012"	{emote: Worry}アナタの{ruby (charSpan 2): きも}気持ちって{pause 16}	その{ruby (charSpan 2): ていど}程度なのね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"013"	{emote: Soft Smile}うふふ、{pause 16}いい{ruby (charSpan 2): へんじ}返事ね！{pause 32}	{emote: Thought}{pause 16}それじゃあ{pause 8}・{pause 8}・{pause 8}・{pause 32}{emote: Anger}{Blue}ジャンケン{Color Reset}で{pause 8}	{ruby (charSpan 2): しょうぶ}勝負しましょうか？{0007-0012-0006-0300-001b-001a}
+"014"	{emote: Soft Smile}うふふ、{pause 16}いい{ruby (charSpan 2): へんじ}返事ね！{pause 32}	{emote: Thought}{pause 16}それじゃあ{pause 8}・{pause 8}・{pause 8}・{pause 32}{emote: Anger}{Blue}ジェスチャーゲーム{Color Reset}で{pause 8}	{ruby (charSpan 2): しょうぶ}勝負しましょうか？{0007-0012-0006-0101-001b-001a}
+"015"	{emote: Soft Smile}うふふ、{pause 16}いい{ruby (charSpan 2): へんじ}返事ね！{pause 32}	{emote: Thought}{pause 16}それじゃあ{pause 8}・{pause 8}・{pause 8}・{pause 32}{emote: Anger}{Blue}あっちむいてホイ！{Color Reset}で{pause 8}	{ruby (charSpan 2): しょうぶ}勝負しましょうか？{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Sheepishness}{ruby (charSpan 1): わる}悪いけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 3): やくそくどお}約束通り{pause 16}	{0011-0003-0002-0000}を　{ruby (charSpan 1): いただ}頂くわよ！	{pause 8}{catchphrase}！
+"017"	{emote: Worry}ごめんなさい{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sheepishness}でも、{pause 16}	{ruby (charSpan 2): やくそく}約束は{ruby (charSpan 1): まも}守ってもらうわ、{pause 8}{catchphrase}
+"018"	{emote: Sheepishness}それじゃあ、{pause 8}{0011-0003-0002-0000}を{pause 16}	{ruby (charSpan 1): だ}出して{pause 8}・{pause 8}・{pause 8}・
+"019"	{emote: Anger}アナタのことは　{ruby (charSpan 1): わす}忘れないわ{pause 32}	この　{0011-0003-0002-0000}が{pause 16}	ある{ruby (charSpan 1): かぎ}限り{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sheepishness}たぶんね？
+"020"	{emote: Soft Smile}{0011-0003-0002-0000}を{ruby (charSpan 1): み}見たら{pause 16}	きっと{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出すわね、{pause 8}{catchphrase}{Wait for input}{Town name (pink)}{ruby (charSpan 1): むら}村のこと{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}そして　アナタのことも
+"021"	{emote: Anger}この　{0011-0003-0002-0000}は、{pause 16}	アタシが　{Town name (pink)}{ruby (charSpan 1): むら}村にいた{ruby (charSpan 1): あかし}証{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}そして　{pause 8}アナタと{ruby (charSpan 2): であ}出会った{ruby (charSpan 1): あかし}証よ
+"022"	わかったわ、{pause 32}{emote: Soft Smile}{ruby (charSpan 3): やくそくどお}約束通り{pause 16}	アタシ　この{ruby (charSpan 1): むら}村に{ruby (charSpan 1): す}住むわ！{Wait for input}{emote: Soft Smile}ちょっと　{ruby (charSpan 1): ま}待っててね？{pause 32}	{ruby (charSpan 2): ひっこ}引越しは　キャンプが{pause 8}	{ruby (charSpan 1): お}終わってからになるから{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Alarmed}あっ、{pause 8}やだっ！{pause 32}	{emote: Sheepishness}まだ　アナタの{ruby (charSpan 2): なまえ}名前とか{pause 16}	{ruby (charSpan 1): き}聞いてなかったわよね？	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}{Player nickname (green)}{0005-000d-0000}？{Wait for input}	{emote: Happiness}よろしくね、{pause 8}{Player nickname (green)}{0005-000d-0000}！
+"023"	・{pause 8}・{pause 8}・{pause 32}{emote: Soft Smile}{ruby (charSpan 3): やくそくどお}約束通り、{pause 16}{ruby (charSpan 1): ちか}近いうち{pause 8}	この{ruby (charSpan 1): むら}村に　{ruby (charSpan 2): ひっこ}引越してくるわ！{Wait for input}{emote: Thought}{pause 16}{ruby (charSpan 1): かえ}帰ったら　{ruby (charSpan 2): にづく}荷造りしなくちゃ{pause 8}・{pause 8}・{pause 8}・{pause 8}	あと　{ruby (charSpan 1): せん}洗たく{ruby (charSpan 1): もの}物も{pause 8}・{pause 8}・{pause 8}・{pause 8}	やること　{ruby (charSpan 2): やまづ}山積みだわ{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Alarmed}あっ、{pause 8}やだっ！{pause 32}	{emote: Sheepishness}まだ　アナタの{ruby (charSpan 2): なまえ}名前とか{pause 16}	{ruby (charSpan 1): き}聞いてなかったわよね？	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}{Player nickname (green)}{0005-000d-0000}？{Wait for input}	{emote: Happiness}よろしくね、{pause 8}{Player nickname (green)}{0005-000d-0000}！
+"024"	・{pause 8}・{pause 8}・{pause 32}{emote: Soft Smile}わかったわ！{pause 20}	アタシ、{pause 16}この{ruby (charSpan 1): むら}村の{ruby (charSpan 2): じゅうにん}住人になるわ！{Wait for input}{ruby (charSpan 2): じゅんび}準備とかするから、{pause 16}	しばらく　{ruby (charSpan 1): ま}待っててね？{pause 32}	{emote: Thought}{pause 16}えっと{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Alarmed}あっ、{pause 8}やだっ！{pause 32}	{emote: Sheepishness}まだ　アナタの{ruby (charSpan 2): なまえ}名前とか{pause 16}	{ruby (charSpan 1): き}聞いてなかったわよね？	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious}{Player nickname (green)}{0005-000d-0000}？{Wait for input}	{emote: Happiness}よろしくね、{pause 8}{Player nickname (green)}{0005-000d-0000}！
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}

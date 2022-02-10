@@ -1,21 +1,21 @@
 == 0 ==
-"001"	{emote: Cold Chill}
-"002"	{emote: Thought}
-"003"	{emote: Worry}
-"004"	{emote: Soft Smile}
-"005"	저 의논드리고 싶은 게 있어요!{pause 20}
-"006"	{emote: Thought}
-"007"	{emote: Soft Smile}
-"008"	{emote: Soft Smile}
-"009"	{emote: Happiness}
-"010"	{emote: Soft Smile}
-"011"	{emote: Soft Smile}
-"012"	{emote: Soft Smile}
-"013"	{emote: Soft Smile}
-"014"	{emote: Glee}
-"015"	{emote: Worry}
-"016"	{emote: Inspired}
-"017"	{emote: Soft Smile}
-"018"	{emote: Soft Smile}
-"019"	{emote: Worry}
-"020"	{emote: Happiness}
+"001"	{emote: Cold Chill}요즘{pause 10} 우리 집이 부쩍	쓸쓸한 느낌이에요{Wait for input}{emote: Glee}뭔가 큼지막한 가구 중에{pause 10}	괜찮은 걸 발견하시면{pause 10}	가져다주실 수 없을까요?
+"002"	{emote: Thought}우리 집 말이에요,{pause 10}	약간 허전한 느낌 안 드세요?{Wait for input}	{emote: Worry}왜 그럴까요{pause 8}・{pause 8}・{pause 8}・{pause 8} {catchphrase}?	{emote: Soft Smile}가구를 하나 두면{pause 10}	나아질 것 같긴 한데{pause 10}	도저히 결정을 못 내리겠어요{Wait for input}{Player nickname (green)}님이{pause 10}	저 대신 골라주시면 좋겠어요
+"003"	{emote: Worry}우리 집에{pause 10} 뭔가가	부족한 느낌이 들어요{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Distress}뭔가 하나만 더 있으면{pause 10}	훨씬 좋아질 것 같거든요!{Wait for input}{emote: Soft Smile}혹시{pause 10} 자그마한 가구 중에{pause 10}	추천하실 만한 게 있으면{pause 15}	저한테 좀 가져다주시겠어요?
+"004"	{emote: Soft Smile}요새{pause 15} 집 인테리어를 바꾸고 있는데요{pause 15}	{emote: Reset}{0011-0003-0002-0000} 대신{pause 10}	뭔가 다른 걸{pause 3} 놓을까 생각 중이에요!	{emote: Soft Smile}크기가 비슷하면{pause 10}	뭐든지 좋을 것 같아요{Wait for input}추천하실 만한 가구를{pause 15}	골라서 가져와주시면{pause 3}	전 정말 기쁠 거예요
+"005"	저 의논드리고 싶은 게 있어요!{pause 20}	{emote: Soft Smile}요새{pause 10} 인테리어 때문에{pause 5}	고민이 있거든요{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Glee}{0011-0003-0002-0000} 위에{pause 3}	뭔가를 놓으면{pause 10} 밸런스가	훨씬 좋아질 것 같아요!	{emote: Soft Smile}괜찮은 게 없을지{pause 10}	찾아봐주실 수{pause 5} 없을까요?
+"006"	{emote: Thought}{Player nickname (green)}님～{pause 20}	지금의 우리 집 인테리어에 대해{pause 10}	조언 좀 해주세요{Wait for input}{emote: Worry}{0011-0003-0002-0000} 대신에	다른 게 있었으면 좋겠거든요{Wait for input}{emote: Soft Smile}{Player nickname (green)}님이	추천하시는 게 있다면{pause 10}	가져다주시겠어요?
+"007"	{emote: Soft Smile}제 얘기 좀 들어주시겠어요?{pause 10}	{emote: Thought}제 방의 벽 말인데요{pause 15}	어딘가 허전한 느낌이 들어서{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}뭔가 걸려 있으면 훨씬 나을 것 같아요{Wait for input}	혹시 이거다! 싶은 걸 발견하시면{pause 10}	저한테{pause 5} 가져다주실 수 없나요?	{Player nickname (green)}님의 센스라면	믿을 수 있거든요, {pause 15}{catchphrase}
+"008"	{emote: Soft Smile}우리 집 인테리어를 바꾸는 김에{pause 10}	{0011-0003-0002-0000} 대신{pause 10}	다른 걸로 벽을 장식하고 싶은데요	{emote: Happiness}혹시 추천하시는 거 없으세요?{Wait for input}	어디선가 {pause 5}좋은 물건을 발견하시면{pause 10}	저한테{pause 10} 가져와주셔도 좋아요
+"009"	{emote: Happiness}요새{pause 5} 책을 읽다가{pause 10}	인테리어에{pause 10} 흥미가 생겼어요{Wait for input}우리 집에도{pause 10} 뭔가{pause 5}	새로운 가구를 놓아서{pause 10}	멋을 좀 부려보고 싶답니다	{emote: Glee}혹시{pause 10} 추천하실 만한 가구가 있다면{pause 10}	저한테 가져다주시겠어요?
+"010"	{emote: Soft Smile}새로운 가구가 생기면{pause 10}	집 전체가 새롭게 바뀐 듯한	기분이 들 것 같아요	{emote: Worry}하지만{pause 10} 마음에 쏙 드는 가구를{pause 8}	찾기가 너무 힘드네요{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}{Player nickname (green)}님,{pause 10}	괜찮다 싶으신 가구가 있으면{pause 10}	꼭 저한테 가져와주세요!
+"011"	{emote: Soft Smile}최근에 청소를 하면서{pause 10}	안 쓰던 가구를 몇 개 버렸더니{pause 8}	금세 새 가구가 갖고 싶어졌어요{Wait for input}{emote: Agreement}좀 큼지막한 아이로{pause 10}	{emote: Soft Smile}추천 좀 해주시겠어요～?
+"012"	{emote: Soft Smile}우리 집의 가구 수를{pause 10}	좀 늘려볼까 하는데요{Wait for input}{emote: Glee}좋은 가구가 있으시면{pause 10}	저한테 물려주실 수 없을까요?
+"013"	{emote: Soft Smile}이 방에 뭔가 포인트를 주고 싶은데{pause 15}	{emote: Glee}혹시 아담한 가구 중에서{pause 10}	추천하실 거 없으세요?	여기저기 보시다가{pause 10}	괜찮은 아이를 갖고 와주시면{pause 5}	정말 기쁠 거예요, {pause 15}{catchphrase}
+"014"	{emote: Glee}기분도 전환할 겸,{pause 10}	{0011-0003-0002-0000} 자리에{pause 10}	다른 가구를 놓아볼까 해요!	{emote: Reset}크기만 비슷하다면{pause 15}	어떤 가구든 좋답니다{Wait for input}{emote: Soft Smile}추천 가구가 있으시면{pause 15}	저한테 가져다주실 수{pause 10} 없을까요?
+"015"	{emote: Worry}{0011-0003-0002-0000} 위에	뭔가를 놓아서{pause 10}{emote: Thought} 이 방을 더욱	제 스타일로 만들고 싶은데요{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}이거다! 싶으신 게 있으면{pause 10}	저한테 추천해주세요{emote: Sunny}
+"016"	{emote: Inspired}{0011-0003-0002-0000} 대신{pause 10}	다른 걸 놓아도{pause 5}	꽤 멋질 것 같지 않나요?	{emote: Soft Smile}{Player nickname (green)}님,{pause 10}	괜찮은 걸 발견하시면{pause 8}	꼭 저한테 가져다주세요
+"017"	{emote: Soft Smile}여쭤보고 싶은 게 있는데요{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Worry}이 방의 벽 말이에요,{pause 5}	좀 허전해 보이지 않나요?	{emote: Soft Smile}자꾸 신경이 쓰이거든요{pause 10}	혹시 딱 맞는 장식품을 발견하시면{pause 5}	저한테 주시지 않겠어요?
+"018"	{emote: Soft Smile}지금은 {pause 5}벽에{pause 10}	{0011-0003-0002-0000}{000e-000e-0008-0002-c774-0002-ac00} 있는데요,{pause 15}	다른 걸로 바꿔보고 싶어요	{emote: Glee}추천하실 만한 게 있으시다면{pause 10}	제게 가져다주시겠어요?{pause 10}	그럼 전 정말 기쁠 거예요
+"019"	{emote: Worry}{Player nickname (green)}님{pause 10}	이 방 말인데요,{pause 10} 약간 변화를 주면{pause 10}	더 근사할 것 같지 않나요?	{emote: Soft Smile}이 방에 놓으면 딱 좋을{pause 5}	가구가 있으시다면{pause 15}	{emote: Happiness}제게 가져와주세요!
+"020"	{emote: Happiness}이 방에{pause 10} 새로운 가구를 놓아서{pause 10}	인테리어를 바꿔보고 싶어요{Wait for input}{emote: Glee}추천 가구가 있으시면{pause 10}	저한테 가져와주세요!

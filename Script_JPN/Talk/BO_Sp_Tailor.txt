@@ -1,11 +1,11 @@
 == 0 ==
-"001"	
-"002"	{0009-0002-0008-05-00-06-00-07-00-08-00}
-"003"	{0009-0000-0004-09-00-00-00}	
-"004"	
-"005"	{emote: Worry}
-"006"	{emote: Surprise}
-"007"	{emote: Anger}
-"008"	{ruby (charSpan 2): きょう}今日は　{emote: Curious}
-"009"	{emote: Distress}
-"010"	{emote: Worry}
+"001"
+"002"	{0009-0002-0008-0005-0006-0007-0008}
+"003"	{0009-0000-0004-0009-000a}
+"004"
+"005"	{emote: Worry}ボク{pause 20}　はやりのふくは	よくわかんないやぁ、{pause 8}{catchphrase}
+"006"	{emote: Surprise}キミ、{pause 20}そのふく！{pause 20}	すっごく　にあってるねぇ～！{Wait for input}{emote: Happiness}ボクには　どんなふくが	にあうかなぁ～？
+"007"	{emote: Anger}{Player nickname (green)}{0005-000d-0000}、{pause 20}	ボクのマネは　しないでよねぇ～？{Wait for input}{emote: Bashful}ペアルックになったら、{pause 20}	{ruby (charSpan 1): むら}村のみんなに　ウワサされちゃうよぉ～
+"008"	{ruby (charSpan 2): きょう}今日は　{emote: Curious}どんなふく{ruby (charSpan 1): か}買うのぉ？{Wait for input}	{emote: Glee}ボクは　{0005-001e-0002-cd00}らしいふくが	ほしいんだぁ～
+"009"	{emote: Distress}うわぁ～{pause 20}	ほかの{ruby (charSpan 1): むら}村から　{ruby (charSpan 1): か}買いにくるなんてぇ～{Wait for input}{emote: Agreement}このお{ruby (charSpan 1): みせ}店って	そんなに{ruby (charSpan 2): にんき}人気だったんだねぇ、{pause 8}{catchphrase}
+"010"	{emote: Worry}うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): なに}何をきても	おなかのところが　キツイよぉ～{Wait for input}{emote: Sadness}やっぱり　ごはんを	{ruby (charSpan 1): た}食べてから{ruby (charSpan 1): き}来たのが	まちがいだったのかなぁ～

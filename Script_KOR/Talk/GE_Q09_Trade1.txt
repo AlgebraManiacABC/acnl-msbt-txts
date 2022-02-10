@@ -1,13 +1,13 @@
 == 0 ==
-"001"	우리 집 {pause 8}
-"002"	{emote: Sheepishness}
-"003"	{emote: Pride}
-"004"	{emote: Distress}
-"005"	정말?{pause 20}
-"006"	{emote: Distress}
-"007"	{emote: Happiness}
-"008"	{emote: Laughter}
-"009"	{emote: Joy}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
+"001"	우리 집 {pause 8}{emote: Curious}어때?{Wait for input}{emote: Happiness}꽤 좋지～?{pause 20}	혹시 {pause 10}뭐 맘에 드는 거 있어?{000f-0005-0004-0015-0028}	있어!	딱히 없네～
+"002"	{emote: Sheepishness}저기, {pause 10}솔직히{pause 10}	{emote: Curious}우리 집 가구들 어때?{Wait for input}{emote: Happiness}혹시 괜찮다고{pause 8}	생각한 거 있어?{000f-0005-0004-0015-0028}	있어	없는데
+"003"	{emote: Pride}근데 {pause 10}{emote: Curious}우리 집 어때?{Wait for input}	{emote: Happiness}인테리어도 공들여서 한 건데{pause 10}	{emote: Soft Smile}맘에 드는 거 있으면 {pause 8}말해봐～{000f-0005-0004-0015-0028}	있어!	딱히 없어
+"004"	{emote: Distress}그, {pause 10}그래{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 30}	{emote: Worry}나름 괜찮다고 {pause 8}생각했는데～
+"005"	정말?{pause 20}	{emote: Sheepishness}사양 말고 말해도 되는데
+"006"	{emote: Distress}힝～!{pause 20}	{Player nickname (green)}{000e-000e-0008-0002-c740-0002-b294} 거침없구나
+"007"	{emote: Happiness}진짜?{pause 20}	{emote: Glee}그렇게 맘에 들면{pause 10}	넘겨줄 수도 있는데～
+"008"	{emote: Laughter}꺄하핫!{pause 10}{emote: Soft Smile}{Wait for input}	{Player nickname (green)}{000e-000e-0008-0002-c740-0002-b294}{pause 10}	보는 눈이 있을 줄 알았어～	{emote: Inspired}아!{pause 20}	{emote: Soft Smile}혹시 {pause 8}맘에 드는 거 있으면{pause 10}	넘겨줄 수도 있어～
+"009"	{emote: Joy}역시 {pause 8}그렇지～?{pause 20}	그럴 줄 알았어{pause 10}{emote: Soft Smile}{Wait for input}{emote: Happiness}오케이ー {pause 20}{Player nickname (green)}{000e-000e-0008-0002-c774-0002-ac00}	맘에 든다면{pause 10}	넘겨줄 수도 있어{emote: Sunny}
+"010"	{emote: Happiness}맘에 드는 거 있으면{pause 10}	말해봐!{Wait for input}{emote: Sheepishness}그치만 {pause 8}못 주는 것도 있으니까{pause 15}	섭섭하겐 생각 마, {pause 10}{catchphrase}
+"011"	{emote: Happiness}맘에 드는 가구 있으면{pause 10}	알려줘!{Wait for input}{emote: Sheepishness}근데 {pause 10}정말 아끼는 건{pause 10}	못 주니까 이해해주라～
+"012"	{emote: Happiness}갖고 싶은 가구 있으면{pause 10}	사양 말고 말해봐!{Wait for input}{emote: Sheepishness}그치만 {pause 8}내가 진짜 좋아하는 건{pause 10}	못 줄지도 몰라{pause 5}・{pause 5}・{pause 5}・{pause 5}	이해해줄 거지?

@@ -1,55 +1,55 @@
 == 0 ==
-"001"	{0009-0003-000a-04-00-05-00-06-00-07-00-2e-00}
-"002"	{0009-0002-0008-1b-00-1d-00-1e-00-2e-00}
-"003"	
-"004"	そうそう{pause 20}
-"005"	とつぜんだけど、{pause 20}
-"006"	{pause 8}
-"007"	{emote: Happiness}
-"008"	{emote: Glee}
-"009"	{emote: Sunny}
-"010"	{emote: Disbelief}
-"011"	おー！{pause 20}
-"012"	{emote: Alarmed}
-"013"	へぇー、{pause 20}
-"014"	{emote: Resigned}
-"015"	{emote: Happiness}
-"016"	{emote: Alarmed}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Anger}
-"020"	{emote: Alarmed}
-"021"	{0009-0002-0008-16-00-17-00-18-00-19-00}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
-"024"	オイラのお{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りの{ruby (charSpan 2): ばしょ}場所は、	{ruby (charSpan 2): やくば}役場の{ruby (charSpan 1): まえ}前だー！{pause 40}
-"025"	{emote: Happiness}
-"026"	
-"027"	そういえば、{pause 20}!
-"028"	
-"029"	{emote: Anger}
-"030"	オマエ　あれから{pause 8}
-"031"	{emote: Sunny}
-"032"	{emote: Worry}
-"033"	{emote: Alarmed}
-"034"	
-"035"	
-"036"	{emote: Agreement}
-"037"	そうかー{pause 8}
-"038"	{emote: Alarmed}
-"039"	{emote: Alarmed}
-"040"	{emote: Worry}
-"041"	おー！{pause 20}
-"042"	{emote: Distress}
-"043"	{emote: Alarmed}
-"044"	
-"045"	
-"046"	{emote: Happiness}
-"047"	
-"048"	
-"049"	
-"050"	{0009-0000-0004-33-00-36-00}
-"051"	{Town name (pink)}
-"052"	{emote: Sunny}
-"053"	{emote: Sadness}
-"054"	{emote: Alarmed}
+"001"	{0009-0003-000a-0004-0005-0006-0007-002e}
+"002"	{0009-0002-0008-001b-001d-001e-002e}
+"003"
+"004"	そうそう{pause 20}　{ruby (charSpan 1): き}聞いてみたかったんだけど、{pause 30}	そっちの{ruby (charSpan 1): むら}村は　{ruby (charSpan 1): なん}何のスポーツが	{emote: Curious}{ruby (charSpan 2): にんき}人気なんだー？{0008-0003-0014-0008-0000-0009-0000-000a-0000-000b-0000-000c-0000}	サッカー	{ruby (charSpan 2): やきゅう}野球	テニス	{ruby (charSpan 2): けんどう}剣道	その{ruby (charSpan 1): ほか}他
+"005"	とつぜんだけど、{pause 20}	オマエの{ruby (charSpan 1): むら}村で　{ruby (charSpan 2): はや}流行ってる	トレーニング{ruby (charSpan 1): ほう}法があったら　{ruby (charSpan 1): おし}教えてくれー！{0008-0003-0014-000d-0000-000e-0000-000f-0000-0010-0000-0011-0000}	うでたて	ふっきん	スクワット	エアロビクス	ジョギング
+"006"	{pause 8}・{pause 8}・{pause 8}・{pause 20}ぶっちゃけた{ruby (charSpan 1): はなし}話、{pause 40}	{emote: Curious}この{ruby (charSpan 1): むら}村ってどうなんだ？{Player can respond (0001):0012-0000-0013-0000-0014-0000}	{ruby (charSpan 1): す}住みやすそう	{ruby (charSpan 1): す}住みにくそう	なんとも{ruby (charSpan 1): おも}思わない
+"007"	{emote: Happiness}{Town name (pink)}{ruby (charSpan 1): むら}村、{pause 20}	ちゃんと　{ruby (charSpan 2): かんこう}観光してるかー？
+"008"	{emote: Glee}おー！　サッカーかー！{pause 20}	アレは　もりあがるよなー！{Wait for input}{emote: Anger}オイラの　スゲー トラップ、{pause 20}	オマエにも　{ruby (charSpan 1): み}見せてやりたかったけど、{Wait for input}{emote: Worry}{ruby (charSpan 1): いま}今は　{ruby (charSpan 1): あし}足にバクダン　かかえちまって{pause 20}	あのワザは　キンモツなんだ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ごめんな！
+"009"	{emote: Sunny}やっぱり、{ruby (charSpan 2): やきゅう}野球だよなー！{pause 40}	{emote: Agreement}{ruby (charSpan 1): たま}球を{ruby (charSpan 1): う}打ったときの	あの　カキーンッ！　って{ruby (charSpan 1): おと}音！{Wait for input}{emote: Love}あの{ruby (charSpan 1): おと}音に、	{ruby (charSpan 2): せいしゅん}青春のすべてが	つまってるんだ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}って、{pause 20}{ruby (charSpan 2): へや}部屋で　ラーメンすすりながら	{ruby (charSpan 1): かた}語ってるのが、{pause 20}	オイラのとーちゃんだ、{pause 8}{catchphrase}
+"010"	{emote: Disbelief}テニスとは　またオシャレだなー！{Wait for input}{emote: Glee}サーブ！{pause 20}　ボレー！{pause 20}	スマーッシュ！{Wait for input}{emote: Daydreaming}あのラケットから{ruby (charSpan 1): で}出る{ruby (charSpan 1): おと}音{pause 8}・{pause 8}・{pause 8}・{pause 20}	サイコーだ！
+"011"	おー！{pause 20}　{ruby (charSpan 2): けんどう}剣道かー！{pause 30}	{emote: Anger}キンチョー{ruby (charSpan 1): かん}感のある	スポーツだよなー！{Wait for input}{emote: Agreement}クンクン{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Love}ぼうぐのニオイが　たまんねーぞ！
+"012"	{emote: Alarmed}ナニッ？！{pause 40}	オマエ、{ruby (charSpan 1): なに}何か　めずらしい	スポーツでもやってるのか？{Wait for input}{emote: Distress}チクショー！{pause 20}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): い}行ってみてぇー！
+"013"	へぇー、{pause 20}うでたてかー！{pause 40}	{emote: Glee}うでをきたえると、	{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物のとき　{ruby (charSpan 2): べんり}便利だぞー{Wait for input}{emote: Happiness}かーちゃんに　{ruby (charSpan 1): おも}重い{ruby (charSpan 2): にもつ}荷物を	{ruby (charSpan 1): も}持たされたって、へっちゃらだー！{Wait for input}{emote: Agreement}しかも　{ruby (charSpan 2): にもつ}荷物を{ruby (charSpan 1): も}持つと、{pause 20}	それがまた	トレーニングになるんだよな！
+"014"	{emote: Resigned}ふっきんって、{pause 20}	またベタなの　やってんだなー！{Wait for input}{emote: Anger}オイラなんか{pause 20}	ずーっと　おなかに{ruby (charSpan 1): ちから}力を{ruby (charSpan 1): い}入れて	{ruby (charSpan 2): せいかつ}生活してるんだぞー？{Wait for input}{emote: Bashful}まぁ、{pause 20}ごくたまに{pause 8}	おならが　{ruby (charSpan 1): で}出ちゃいそうになるのが{pause 20}	このトレーニングの　ダメなとこだー
+"015"	{emote: Happiness}スクワットならオイラも　かじってたぞー{Wait for input}	{ruby (charSpan 1): つづ}続けてやってると	だんだんキツくなってくるんだよな！{Wait for input}{emote: Thought}そっか{pause 8}・{pause 8}・{pause 8}・{pause 20}　{Town name (pink)}{ruby (charSpan 1): むら}村では、	みんな　スクワットしながら	{ruby (charSpan 2): せいかつ}生活してるのか{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Love}スゲーー！{pause 30}	スクワットのメッカって{ruby (charSpan 1): かん}感じだな！
+"016"	{emote: Alarmed}エアロビかー！{pause 20}	アレって　{ruby (charSpan 1): み}見た{ruby (charSpan 1): め}目とちがって、	かなりハードだよなー！{Wait for input}{emote: Glee}{ruby (charSpan 1): ワン}1、{pause 20}{ruby (charSpan 1): ツー}2、{pause 20}{ruby (charSpan 1): ワン}1、{pause 20}{ruby (charSpan 1): ツー}2！{pause 40}	オイラ　{0005-0014-0002-0000}のリズムで	おどっちゃうぞー！{Wait for input}{ruby (charSpan 1): たの}楽しく　きたえられるなんて、	サイコーだー！
+"017"	{emote: Happiness}ふーん{pause 20}　ジョギングかー！{Wait for input}{emote: Reset}じゃあ　そっちの{ruby (charSpan 1): むら}村には、{pause 20}	オススメの　ジョギングコースが	{emote: Curious}あったりするのかー？{Wait for input}{emote: Love}{ruby (charSpan 2): いちど}一度でいいから　オマエの{ruby (charSpan 1): むら}村で	{ruby (charSpan 1): はし}走ってみたいぞー、{pause 8}{catchphrase}
+"018"	{emote: Happiness}そっかー！{pause 20}	この{ruby (charSpan 1): むら}村って、{ruby (charSpan 1): す}住みやすそうなんだ！{Wait for input}{emote: Laughter}ハハッ！{pause 20}	もしかして　オイラって、{pause 20}	めぐまれた　かんきょうにいるのかな！{pause 40}{emote: Happiness}
+"019"	{emote: Anger}ちぇーーっ！{pause 40}	なんだよそれー！{Wait for input}{emote: Resigned}でも　まぁ、{pause 20}	おたがい　{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): むら}村が	{ruby (charSpan 2): いちばん}一番{ruby (charSpan 1): す}好きに　{ruby (charSpan 1): き}決まってるよな、{pause 8}{catchphrase}
+"020"	{emote: Alarmed}なんとも{ruby (charSpan 1): おも}思わない{pause 20}って！{pause 40}	{emote: Distress}オマエ　もうちょっと、	よく{ruby (charSpan 1): まわ}周りを{ruby (charSpan 1): み}見て　{ruby (charSpan 1): ある}歩けよなー
+"021"	{0009-0002-0008-0016-0017-0018-0019}
+"022"	{emote: Happiness}オイラのオススメは、	なんといっても　{ruby (charSpan 2): かいがん}海岸だー！{Wait for input}{emote: Pride}{ruby (charSpan 2): ゆうひ}夕日に{ruby (charSpan 1): む}向かって　{ruby (charSpan 1): はし}走ると、{pause 20}	{ruby (charSpan 1): あつ}熱い　{ruby (charSpan 2): せいしゅん}青春ゴッコができるぞ、{pause 8}{catchphrase}
+"023"	{emote: Happiness}オイラのオススメは　{ruby (charSpan 2): かわべ}川辺かなー？{pause 40}	あそこで　ゆっくり{pause 20}	{ruby (charSpan 1): みず}水の{ruby (charSpan 1): なが}流れる{ruby (charSpan 1): おと}音を　{ruby (charSpan 1): き}聞くんだ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Daydreaming}いっつも　あせってるオイラも、{pause 20}	ちょっぴり　{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着いた{ruby (charSpan 2): きぶん}気分に	なれるんだ、{pause 8}{catchphrase}
+"024"	オイラのお{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りの{ruby (charSpan 2): ばしょ}場所は、	{ruby (charSpan 2): やくば}役場の{ruby (charSpan 1): まえ}前だー！{pause 40}	{emote: Happiness}なかなか　マニアックだろー？{Wait for input}{emote: Anger}あそこは　ちょっと{ruby (charSpan 1): ひろ}広いからさ、{pause 20}	スポーツするには　もってこいなんだ！{Wait for input}3{ruby (charSpan 1): たい}対3の　{0005-0011-0002-0000}くらいなら、	{ruby (charSpan 1): かる}軽くできちゃう　{ruby (charSpan 2): ひろば}広場だぞー、{pause 8}{catchphrase}
+"025"	{emote: Happiness}オイラのお{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りは、	やっぱり　たきつぼかなー？{Wait for input}{emote: Distress}あのハゲしい{ruby (charSpan 1): みず}水を　{ruby (charSpan 1): あたま}頭に{ruby (charSpan 1): う}受けて、	{ruby (charSpan 2): しゅぎょう}修行がしたいぞー！{Wait for input}{emote: Mischief}いつ　あそこに{ruby (charSpan 1): と}飛びこんでやろうかって、	{ruby (charSpan 2): じき}時期をうかがってるんだ、{pause 8}{catchphrase}
+"026"
+"027"	そういえば、{pause 20}	アイツら　{emote: Curious}{ruby (charSpan 2): げんき}元気してるかなー？{Wait for input}{emote: Happiness}アイツらって{ruby (charSpan 1): い}言ったら、{pause 20}	{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): むら}村に{ruby (charSpan 1): す}住んでた　アイツらだって！{Player can respond (0001):001f-0015-0020-0000-0021-0000}	{ruby (charSpan 2): げんき}元気いいと{ruby (charSpan 1): おも}思う	ふつうかな	ちょっと{ruby (charSpan 1): お}落ち{ruby (charSpan 2): ぎみ}気味かも？
+"028"
+"029"	{emote: Anger}なぁ、{Player nickname (green)}！{pause 40}	オイラと　はなれたからって、{pause 8}	トレーニング　さぼってないよな？{Player can respond (0001):0024-0015-0025-0000-0026-0028}	{ruby (charSpan 2): まいにち}毎日かかさない	たまにやる	{ruby (charSpan 2): ぜんぜん}全然やってない
+"030"	オマエ　あれから{pause 8}・{pause 8}・{pause 8}・{pause 20}	ちょっと　{emote: Curious}やせたか？{0008-000a-0010-0027-0028-0028-0029-0029-002a-002a-002b}	{ruby (charSpan 1): ふと}太った	やせた
+"031"	{emote: Sunny}やっぱり　そうだよなー！{Wait for input}{emote: Reset}オイラが　いなくなって、{pause 20}	みんな　ぬけがらみたいになってたら	どうしようって{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Laughter}ハハッ！{pause 20}	いらない　{ruby (charSpan 2): しんぱい}心配だったよな、{pause 8}{catchphrase}{pause 40}{emote: Soft Smile}
+"032"	{emote: Worry}ふつうかー{pause 8}・{pause 8}・{pause 8}・{pause 20}	ハッキリしないなー{Wait for input}{emote: Laughter}まぁ、{pause 20}みんな　{ruby (charSpan 2): あいか}相変わらず{pause 20}	のんびり　やってるってことかな！{pause 40}	それなら　いいんだ！{pause 20}{emote: Soft Smile}
+"033"	{emote: Alarmed}ナニッ？！{pause 20}　{ruby (charSpan 1): お}落ち{ruby (charSpan 2): ぎみ}気味？！{Wait for input}{emote: Thought}もしかして　オイラが	いなくなったからって、{pause 20}	トレーニングを　さぼってるんじゃ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}オマエ、{pause 20}オイラの{ruby (charSpan 1): か}代わりに{pause 8}	{ruby (charSpan 2): きあ}気合い{ruby (charSpan 1): い}入れてやってくれ！　{pause 8}{catchphrase}！
+"034"
+"035"
+"036"	{emote: Agreement}ふんふん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): かんしん}感心！　{ruby (charSpan 2): かんしん}感心！{Wait for input}{emote: Anger}って、{pause 20}{emote: Outrage}ウソつくなよー？！{Wait for input}	オマエの　プヨプヨのうでが、{pause 20}	{ruby (charSpan 1): なに}何よりのしょうこだー！
+"037"	そうかー{pause 8}・{pause 8}・{pause 8}・{pause 20}	でも、{pause 20}{emote: Happiness}そんなもんだよな！{Wait for input}{emote: Agreement}オイラっていう	{ruby (charSpan 1): めい}名コーチが　いなくなったんだ{pause 40}	{emote: Resigned}しかたないよ、{pause 8}{catchphrase}
+"038"	{emote: Alarmed}おいおい！{pause 40}	{emote: Sigh}カントクがいなくなったら、	すぐそれかよー{Wait for input}まぁ{pause 20}　{emote: Mistaken}やっぱりな{pause 20}	とも{ruby (charSpan 1): おも}思うけどさ{pause 8}・{pause 8}・{pause 8}・
+"039"	{emote: Alarmed}うぉー！{pause 20}	そんなに　{ruby (charSpan 1): ふと}太っちゃったのか？！{Wait for input}{emote: Agreement}でも　キンニクをつけるには、	まずは　{ruby (charSpan 1): ふと}太らないといけないんだぞー？{Wait for input}{emote: Thought}ついてるお{ruby (charSpan 1): にく}肉が、{pause 20}	ぜーんぶ　キンニクになるって{ruby (charSpan 1): おも}思えば{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Glee}ほーら{pause 20}	ニヤニヤが　{ruby (charSpan 1): と}止まらないだろー？
+"040"	{emote: Worry}あー、{pause 20}ちょっくら	たくわえちゃったんだ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{ruby (charSpan 2): さいきん}最近　{ruby (charSpan 1): た}食べすぎなんじゃないかー？{Wait for input}{emote: Glee}まぁ、オイラは、{pause 20}	モリモリ{ruby (charSpan 1): た}食べる　{ruby (charSpan 2): げんき}元気なヤツのこと	{ruby (charSpan 1): す}好きだけどさ！
+"041"	おー！{pause 20}	{ruby (charSpan 1): か}変わらないのは　いいことだ、{pause 8}{catchphrase}{Wait for input}{emote: Anger}ただ　この{ruby (charSpan 1): むら}村にも	ゆうわくは　いっぱいあるぞー？{Wait for input}	{emote: Love}{0005-001a-0002-cd00}とか　けっこう{ruby (charSpan 2): うま}美味いんだ！
+"042"	{emote: Distress}オマエ{pause 8}・{pause 8}・{pause 8}・{pause 20}	ムリな　いんちきダイエットとか	してないだろーなー？{Wait for input}{emote: Anger}もっと　キンニクつけなきゃ、{pause 20}	これからの{ruby (charSpan 2): じだい}時代	{ruby (charSpan 1): い}生きぬいていけないぞー？
+"043"	{emote: Alarmed}そ、{pause 20}そんなに	やせちゃったのかー？！{Wait for input}{emote: Thought}オイラが　いなくなったとたんに	やせちまうなんて{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Glare}オマエ、{pause 20}	オイラがいなくなって	さびしいのか？　{pause 8}{catchphrase}？
+"044"
+"045"
+"046"	{emote: Happiness}なぁ！{pause 20}	{ruby (charSpan 1): えき}駅のロッカー{ruby (charSpan 1): つか}使ってるか？{Wait for input}{emote: Glare}{ruby (charSpan 1): じつ}実は　あのロッカー、{pause 20}	{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): むら}村の　ロッカーと	つながってるんだぞー？　{pause 8}{catchphrase}？{Wait for input}{emote: Agreement}もし　オイラんとこの{ruby (charSpan 1): むら}村から{pause 20}	{ruby (charSpan 1): も}持ち{ruby (charSpan 1): かえ}帰りたいものが	たーくさん　あったら、{Wait for input}{emote: Pride}{ruby (charSpan 1): えき}駅のロッカーは、{pause 20}	かなり　{ruby (charSpan 2): べんり}便利だぞ！　{pause 8}{catchphrase}！
+"047"
+"048"
+"049"
+"050"	{0009-0000-0004-0033-0036}
+"051"	{Town name (pink)}{ruby (charSpan 1): むら}村、{pause 20}	オマエが　いたころから{pause 8}	{emote: Curious}けっこう　{ruby (charSpan 1): か}変わっただろ？{Player can respond (0000):0034-0015-0035-0000}	{ruby (charSpan 1): か}変わったね！	そうかな？
+"052"	{emote: Sunny}へへっ！{pause 8}　そうだろー？{pause 40}	{emote: Pride}{Town name (pink)}{ruby (charSpan 1): むら}村は	{ruby (charSpan 2): ひび}日々　{ruby (charSpan 2): しんか}進化してるんだ！{Wait for input}{emote: Happiness}オマエも　{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): むら}村で{pause 20}	{ruby (charSpan 2): そんちょう}村長がんばれよな！　{pause 8}{catchphrase}！
+"053"	{emote: Sadness}えー{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): か}変わってないか{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Disagreement}まぁ　でも、{pause 40}	{emote: Soft Smile}{ruby (charSpan 1): か}変わってなけりゃ、{pause 20}オマエも{pause 8}	なつかしいキモチに　なれるだろー？{Wait for input}{emote: Laughter}いつでも　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): こ}来いよなー！{pause 20}	{Player nickname (green)}！{pause 40}{emote: Soft Smile}
+"054"	{emote: Alarmed}{Player nickname (green)}{pause 8}・{pause 8}・{pause 8}・{pause 40}	ちょっと　{ruby (charSpan 2): そんちょう}村長っぽい	ふんいきに{pause 8}　なってないか？！{Wait for input}{emote: Distress}{ruby (charSpan 1): た}立ってるすがたが	{ruby (charSpan 1): まえ}前より　{ruby (charSpan 2): どうどう}堂々としてるぞー！　{pause 8}{catchphrase}！{Wait for input}{emote: Anger}さすがは{pause 8}　{Town name (pink)}{ruby (charSpan 1): むら}村の{ruby (charSpan 2): そんちょう}村長{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Pride}オ、{pause 40}オイラだって　{ruby (charSpan 1): ま}負けないぞ？！

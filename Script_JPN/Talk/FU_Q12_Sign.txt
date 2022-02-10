@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Surprise}
-"003"	{emote: Surprise}
-"004"	{emote: Curious}
-"005"	{emote: Surprise}
-"006"	{0012-0001-0000}
-"007"	{emote: Surprise}
-"008"	{emote: Surprise}
-"009"	{emote: Surprise}
-"010"	{emote: Soft Smile}
-"011"	{emote: Soft Smile}
-"012"	{emote: Soft Smile}
-"013"	{emote: Soft Smile}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
+"001"	{emote: Surprise}え？！{pause 20}	もう　{pause 10}{ruby (charSpan 2): しょめい}署名しましたけど
+"002"	{emote: Surprise}あら！{pause 20}	もう　{ruby (charSpan 2): しょめい}署名したはずですよ{Wait for input}	{emote: Soft Smile}{ruby (charSpan 1): わす}忘れちゃいましたか？
+"003"	{emote: Surprise}あら！{pause 30}	{emote: Soft Smile}それは　{ruby (charSpan 2): しょめい}署名した{ruby (charSpan 1): き}気がします{Wait for input}	{ruby (charSpan 2): かくにん}確認してみてくださいね、{pause 15}{catchphrase}
+"004"	{emote: Curious}ん？{pause 20}	{0012-0001-0000}の	{ruby (charSpan 4): しょめいきょうりょく}署名協力ですか？	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 8}う～ん、{pause 20}そういうのは{pause 10}	わたし　{pause 10}おうえんできません{Wait for input}{emote: Shyness}{ruby (charSpan 1): わる}悪いんですけど、{pause 10}	{ruby (charSpan 2): こんかい}今回は　{pause 10}エンリョさせていただきます
+"005"	{emote: Surprise}あら{pause 20}	{0012-0001-0000}の{pause 10}	{ruby (charSpan 4): しょめいきょうりょく}署名協力ですか？	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 8}わたし　{pause 10}ちょっと	{ruby (charSpan 2): いけん}意見が{pause 8}　{ruby (charSpan 1): ちが}違うんですよね～{Wait for input}{emote: Sheepishness}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ないんですけど{pause 10}	{ruby (charSpan 2): こんかい}今回は　{pause 8}おうえんできないです{Wait for input}	{emote: Soft Smile}ごめんなさい
+"006"	{0012-0001-0000}の{pause 10}	{ruby (charSpan 2): しょめい}署名{ruby (charSpan 2): うんどう}運動ですか？{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 8}う～ん、{pause 10}よく{ruby (charSpan 1): しら}調べてからじゃないと{pause 10}	ちょっと　{pause 5}{ruby (charSpan 2): はんだん}判断できないですね～{Wait for input}{ruby (charSpan 1): わる}悪いんですけど{pause 10}	{ruby (charSpan 2): こんかい}今回は　{pause 5}エンリョさせてもらいます
+"007"	{emote: Surprise}え？{pause 20}	{0012-0001-0000}の{pause 10}	{ruby (charSpan 4): しょめいきょうりょく}署名協力ですか？	{emote: Glee}いいですね！{pause 20}	ぜひとも　{pause 10}{ruby (charSpan 2): しょめい}署名させてください！
+"008"	{emote: Surprise}あら？{pause 30}	{emote: Soft Smile}{0012-0001-0000}の{pause 10}	{ruby (charSpan 2): しょめい}署名ですか？	{emote: Glee}まぁ！　{pause 20}いいじゃないですか！{pause 20}	わたしも　{pause 10}ぜひ　{ruby (charSpan 2): しょめい}署名したいです
+"009"	{emote: Surprise}{0012-0001-0000}の{pause 10}	{ruby (charSpan 4): しょめいきょうりょく}署名協力ですか？{Wait for input}{emote: Happiness}それ　{pause 10}いいじゃないですか！{pause 20}	ぜひ　{pause 5}{ruby (charSpan 2): しょめい}署名させてもらいます
+"010"	{emote: Soft Smile}はい、{pause 10}できました！{Wait for input}{emote: Reset}それにしても　{pause 10}わざわざ	よその{ruby (charSpan 1): むら}村から　{ruby (charSpan 2): たいへん}大変ですね！{Wait for input}	{emote: Happiness}おうえんしてるんで　{pause 10}がんばってください
+"011"	{emote: Soft Smile}これでいいですか{Wait for input}{emote: Reset}それにしても、{pause 10}こんなところまで	{ruby (charSpan 1): あつ}集めにくるなんて　{pause 15}がんばってますね！{Wait for input}{emote: Happiness}{ruby (charSpan 1): はや}早く　{ruby (charSpan 2): ぜんぶ}全部{ruby (charSpan 1): あつ}集まるように{pause 10}	おいのりしています、{pause 15}{catchphrase}！
+"012"	{emote: Soft Smile}{ruby (charSpan 1): か}書けましたよ！{Wait for input}{emote: Reset}わざわざ　{pause 10}よその{ruby (charSpan 1): むら}村から{ruby (charSpan 1): く}来るなんて、{pause 10}	ほんと　{pause 5}{ruby (charSpan 2): ねっしん}熱心なんですね{Wait for input}{emote: Happiness}おうえんしてるんで、{pause 10}	がんばって　{pause 3}{ruby (charSpan 1): あつ}集めてくださいね！
+"013"	{emote: Soft Smile}はい、{pause 20}できましたよ！{Wait for input}{emote: Glee}これで　{ruby (charSpan 2): しょめい}署名のらんが{pause 10}	{ruby (charSpan 2): ぜんぶ}全部　{ruby (charSpan 1): う}埋まりましたね！{Wait for input}	おめでとうごさいます{Wait for input}{emote: Happiness}この{ruby (charSpan 2): しょめい}署名　{ruby (charSpan 2): ていしゅつ}提出するの{pause 10}	{ruby (charSpan 1): たの}楽しみですね、{pause 15}{catchphrase}
+"014"	{emote: Soft Smile}{ruby (charSpan 1): か}書けましたよ！{Wait for input}{emote: Happiness}これで　{pause 10}{ruby (charSpan 2): しょめい}署名のらんが{pause 5}	{ruby (charSpan 1): う}埋まったみたいです{Wait for input}	よかったですね！{emote: Sunny}{Wait for input}{emote: Soft Smile}では　{pause 5}{ruby (charSpan 2): ようし}用紙の{ruby (charSpan 2): ていしゅつ}提出、{pause 10}	{ruby (charSpan 1): わす}忘れないように　{pause 5}{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けてくださいね
+"015"	{emote: Soft Smile}これでいいかしら{Wait for input}{emote: Glee}{ruby (charSpan 2): しょめい}署名のらんが{pause 8}	{ruby (charSpan 2): ぜんぶ}全部　{pause 5}{ruby (charSpan 1): う}埋まったようですよ！{Wait for input}{emote: Happiness}ホッとして　{pause 10}{ruby (charSpan 2): ていしゅつ}提出を{ruby (charSpan 1): わす}忘れないように{pause 10}	{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けてくださいね！

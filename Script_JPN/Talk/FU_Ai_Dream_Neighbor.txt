@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Surprise}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Surprise}
+"001"	{emote: Alarmed}あら{pause 20}　{Player nickname (green)}さん！{Wait for input}{emote: Happiness}まさか　{pause 10}ここで{ruby (charSpan 1): あ}会えるとは	{ruby (charSpan 1): おも}思ってませんでした、{pause 15}{catchphrase}
+"002"	{emote: Surprise}{Player nickname (green)}さん！{pause 20}	{ruby (charSpan 1): あそ}遊びにいらしたんですね、{pause 15}{catchphrase}{Wait for input}	{emote: Curious}ん？{pause 30}　ちょっと　{ruby (charSpan 1): ねむ}眠そうですよ？！
+"003"	{emote: Happiness}まぁ、{pause 20}{Player nickname (green)}さん！{Wait for input}	わたしも　{pause 15}{Town name (pink)}{ruby (charSpan 1): むら}村を{pause 8}	{ruby (charSpan 2): たんけん}探検しに{ruby (charSpan 1): き}来たんです	{emote: Glee}とっても　{ruby (charSpan 1): たの}楽しくて、{pause 10}	{ruby (charSpan 1): ゆめ}夢の{ruby (charSpan 1): なか}中みたいですね、{pause 15}{catchphrase}
+"004"	{emote: Happiness}あら、{pause 15}{Player nickname (green)}さん！{Wait for input}{emote: Thought}わたし、{pause 10}{ruby (charSpan 1): ゆめ}夢の{ruby (charSpan 1): なか}中だと{ruby (charSpan 1): おも}思ってたんですけど{Wait for input}	{emote: Curious}あなたに{ruby (charSpan 1): あ}会うなら{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny}{ruby (charSpan 2): げんじつ}現実ですよね！
+"005"	{emote: Surprise}あ！　{pause 20}{Player nickname (green)}さん！{Wait for input}{emote: Happiness}{ruby (charSpan 2): けさ}今朝の{ruby (charSpan 1): ゆめ}夢に　{pause 10}あなたが{ruby (charSpan 1): で}出てきて、{pause 20}	{ruby (charSpan 2): いっしょ}一緒に　{ruby (charSpan 1): あそ}遊んだんですよ、{pause 15}{catchphrase}！{Wait for input}{emote: Reset}また　{pause 8}お{ruby (charSpan 1): あ}会いできるなんて、{pause 15}	{emote: Glee}まるで　{pause 10}{ruby (charSpan 1): ゆめ}夢の{ruby (charSpan 1): つづ}続きみたいです！

@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Curious}
-"003"	{emote: Alarmed}
-"004"	{emote: Worry}
+"001"	{emote: Happiness}{0011-0001-0002-0001}{0005-000d-0000}{pause 10}	{ruby (charSpan 1): つ}連れてきてほしいんだよ～！{emote: Reset}
+"002"	{emote: Curious}{Player nickname (green)}{0005-000d-0000}、{pause 10}	どこ{ruby (charSpan 1): い}行ってたの～？{Wait for input}{emote: Happiness}{ruby (charSpan 1): き}来てくれないから{pause 10}	{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 2): ようじ}用事すましちゃった～、{pause 15}{catchphrase}{emote: Reset}
+"003"	{emote: Alarmed}え？！{pause 20}	いっしょに{ruby (charSpan 1): む}向かってたのに、{pause 10}	{ruby (charSpan 2): けっきょく}結局{ruby (charSpan 1): こ}来なかったの？	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Happiness}じゃあ、{pause 10}あとで{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): い}行ってくるよ
+"004"	{emote: Worry}そっか～{pause 20}	{ruby (charSpan 1): ことわ}断られちゃったなら{pause 5}{ruby (charSpan 2): しかた}仕方ないね{Wait for input}	きっと　いそがしかったんだよ！	{emote: Happiness}わざわざ　どうもありがと！{pause 20}	また{ruby (charSpan 2): こんど}今度　{pause 5}たのむかも～、{pause 15}{catchphrase}

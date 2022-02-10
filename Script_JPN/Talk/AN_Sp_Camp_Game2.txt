@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Soft Smile}
-"002"	{emote: Worry}
-"003"	{emote: Soft Smile}
-"004"	{emote: Alarmed}
-"005"	{emote: Soft Smile}
-"006"	{emote: Soft Smile}
-"007"	{emote: Soft Smile}
-"008"	{emote: Soft Smile}
-"009"	{emote: Sheepishness}
-"010"	{emote: Soft Smile}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{0009-0000-0004-0b-00-0c-00}
-"014"	もう　{ruby (charSpan 1): お}終わっちゃった{pause 8}
-"015"	まだ{ruby (charSpan 1): ほか}他にも　{ruby (charSpan 4): めだましょうひん}目玉商品が	あったんだけど{pause 8}
-"016"	ウチの　おススメは	まだ　{ruby (charSpan 1): で}出てなかったんだけど{pause 8}
-"017"	ちなみに　5つめの{ruby (charSpan 2): かぐ}家具は{pause 8}
-"018"	{emote: Soft Smile}
-"019"	{emote: Soft Smile}
+"001"	{emote: Soft Smile}{ruby (charSpan 1): いま}今、{ruby (charSpan 2): りょこう}旅行{ruby (charSpan 2): しきん}資金のために	アイテムを　{ruby (charSpan 2): せいり}整理してるんだけど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}アンタ、なんか{ruby (charSpan 1): か}買ってかない？	{emote: Glare}タダじゃ　{ruby (charSpan 2): おもしろ}面白くないから、	ゲーム{ruby (charSpan 2): けいしき}形式にしてさ！		{emote: Showmanship}{pause 20}{ruby (charSpan 2): なづ}名付けて{pause 8}・{pause 8}・{pause 8}・{pause 20}	「チャンスは5{ruby (charSpan 1): かい}回！」{ruby (charSpan 2): にゅうさつ}入札ゲーム！{pause 20}{Wait for input}	{0007-000d-0000}{emote: Curious}どう？{pause 20}　{ruby (charSpan 2): しょうぶ}勝負する？{Player can respond (0005):0003-0015-0002-0028}	やるよ！	また{ruby (charSpan 2): こんど}今度ね
+"002"	{emote: Worry}えー？{pause 8}　そうなの？{pause 40}	{emote: Reset}そんじゃ、またの{ruby (charSpan 2): きかい}機会に	よろしく{ruby (charSpan 1): たの}頼むよ！{pause 20}　{catchphrase}！
+"003"	{emote: Soft Smile}よしきた！{pause 40}	{emote: Reset}もう　{ruby (charSpan 1): し}知ってるかも　しれないけど	{ruby (charSpan 2): いちおう}一応、ルールを　{ruby (charSpan 2): せつめい}説明しとくね	これから　5つの{ruby (charSpan 2): かぐ}家具の{ruby (charSpan 2): なまえ}名前と	その{ruby (charSpan 2): ねだん}値段を　{ruby (charSpan 2): じゅんばん}順番に　{ruby (charSpan 1): い}言っていくよ！		いいのがあったら、	その{ruby (charSpan 1): ば}場で　「{ruby (charSpan 1): か}買う！」って{ruby (charSpan 1): い}言うこと！		{emote: Glare}ひやかしは　{ruby (charSpan 2): きんし}禁止だからね{pause 8}・{pause 8}・{pause 8}・{pause 40}	{ruby (charSpan 2): さいご}最後まで　{ruby (charSpan 1): き}決まらなかったら、	5つ{ruby (charSpan 1): め}目の{ruby (charSpan 2): かぐ}家具を　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取らなきゃいけないよ	{emote: Happiness}そんじゃ　さっそく、{ruby (charSpan 1): はじ}始めまーす！{pause 40}	{emote: Reset}1つ{ruby (charSpan 1): め}目の　{ruby (charSpan 2): しょうひん}商品！		{emote: Inspired}{0011-0003-0002-0000}！{Wait for input}	{emote: Curious}{Blue}{Number (0x9)}ベル{Color Reset}で　どう？{confirmation-02}{Player can respond (0005):0004-0015-0005-0028}	{ruby (charSpan 1): か}買う	{ruby (charSpan 1): か}買わない
+"004"	{emote: Alarmed}えっ！{pause 20}　もう{ruby (charSpan 1): か}買うの？{pause 40}	{ruby (charSpan 1): べつ}別に　{ruby (charSpan 1): かま}構わないけど{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Reset}まいど～！
+"005"	{emote: Soft Smile}そうそう、{ruby (charSpan 2): さいしょ}最初は　みんな	しんちょうに　いくもんさ！{pause 40}	{emote: Reset}そんじゃ　2つ{ruby (charSpan 1): め}目！	{emote: Inspired}{0011-0003-0002-0001}！{Wait for input}	{emote: Curious}{Blue}{Number (0x9)}ベル{Color Reset}で　どう？{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	{ruby (charSpan 1): か}買う	{ruby (charSpan 1): か}買わない
+"006"	{emote: Soft Smile}これにする？{pause 40}	{emote: Reset}まいどあり～！
+"007"	{emote: Soft Smile}ふんふん！	なかなか　{ruby (charSpan 1): かんが}考えてるね{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}じゃあ{ruby (charSpan 1): つぎ}次！{pause 40}　3つ{ruby (charSpan 1): め}目！	{emote: Inspired}{0011-0003-0002-0002}！{Wait for input}	{emote: Curious}{Blue}{Number (0x9)}ベル{Color Reset}で　どう？{confirmation-02}{Player can respond (0005):0008-0015-0009-0028}	{ruby (charSpan 1): か}買う	{ruby (charSpan 1): か}買わない
+"008"	{emote: Soft Smile}ここで　{ruby (charSpan 1): き}決めとく？{pause 40}	{emote: Reset}まいどあり！
+"009"	{emote: Sheepishness}なかなか　ねばるね{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): なん}何か　ねらってるもんでも、あるの？		{emote: Agreement}そろそろ　{ruby (charSpan 1): あと}後がないから、	{ruby (charSpan 1): き}気を　{ruby (charSpan 1): ひ}引きしめてね！{pause 40}	{emote: Reset}{ruby (charSpan 1): つぎ}次！{pause 20}　4つ{ruby (charSpan 1): め}目！	{emote: Inspired}{0011-0003-0002-0003}！{pause 40}	{Blue}{Number (0x9)}ベル{Color Reset}だよ！{Wait for input}　{emote: Curious}どう？{confirmation-02}{Player can respond (0005):000a-0015-000d-0028}	{ruby (charSpan 1): か}買う	{ruby (charSpan 1): か}買わない
+"010"	{emote: Soft Smile}おっ！{pause 40}	やっと　お{ruby (charSpan 2): めあ}目当てが　{ruby (charSpan 1): で}出てきた？{pause 40}	{emote: Reset}まいどー！
+"011"	{emote: Alarmed}えっ、いいの？{pause 40}	{emote: Reset}{ruby (charSpan 2): さいご}最後に　かけるつもりだね{pause 8}・{pause 8}・{pause 8}・{pause 20}		{emote: Anger}{ruby (charSpan 2): さいご}最後の{ruby (charSpan 2): かぐ}家具は　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取ってもらうって	{ruby (charSpan 2): やくそく}約束{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 1): おぼ}覚えてるね？{pause 40}	{ruby (charSpan 1): なに}何が{ruby (charSpan 1): で}出てきても　{ruby (charSpan 2): もんく}文句はナシだよ！{pause 20}	{emote: Reset}そんじゃ、{ruby (charSpan 2): はっぴょう}発表しまーす！{Wait for input}	{emote: Inspired}5つ{ruby (charSpan 1): め}目{pause 8}・{pause 8}・{pause 8}・{pause 20}{0011-0003-0002-0004}！{pause 40}	{Blue}{Number (0x9)}ベル{Color Reset}だよ！！	{emote: Sheepishness}うん？{pause 20}　{ruby (charSpan 1): たか}高いって？{pause 20}	{ruby (charSpan 2): しょうぶ}勝負ってのは　そういうもんさ！	{pause 40}{emote: Reset}まいどあり！！
+"012"	{emote: Alarmed}えっ、いいの？{pause 40}	{emote: Reset}{ruby (charSpan 2): さいご}最後に　かけるつもりだね{pause 8}・{pause 8}・{pause 8}・		{emote: Anger}{ruby (charSpan 2): さいご}最後の{ruby (charSpan 2): かぐ}家具は　{ruby (charSpan 1): か}買い{ruby (charSpan 1): と}取ってもらうって	{ruby (charSpan 2): やくそく}約束{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 1): おぼ}覚えてるね？{pause 40}	{emote: Sheepishness}{ruby (charSpan 1): なに}何が{ruby (charSpan 1): で}出てきても　{ruby (charSpan 2): もんく}文句はナシだよ	{emote: Reset}そんじゃ、{ruby (charSpan 2): はっぴょう}発表しまーす！{Wait for input}	{emote: Inspired}5つ{ruby (charSpan 1): め}目{pause 8}・{pause 8}・{pause 8}・{pause 20}{0011-0003-0002-0004}！{pause 40}	{Blue}{Number (0x9)}ベル{Color Reset}だよ！！	{emote: Happiness}ここまで　ねばった	アンタの{ruby (charSpan 2): こんじょう}根性を　{ruby (charSpan 1): みと}認めて、	{ruby (charSpan 1): だい}大サービス！	{emote: Reset}まいどあり！
+"013"	{0009-0000-0004-000b-000c}
+"014"	もう　{ruby (charSpan 1): お}終わっちゃった{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}まぁ、{ruby (charSpan 1): う}売れたし　いいか！{pause 20}	また　よろしく！{pause 20}　{catchphrase}！
+"015"	まだ{ruby (charSpan 1): ほか}他にも　{ruby (charSpan 4): めだましょうひん}目玉商品が	あったんだけど{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Soft Smile}まぁ　それは、	{ruby (charSpan 2): こんど}今度ってことで！{pause 20}　{catchphrase}！
+"016"	ウチの　おススメは	まだ　{ruby (charSpan 1): で}出てなかったんだけど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}それはまた　{ruby (charSpan 2): こんど}今度ってことで！{pause 20}　{catchphrase}！
+"017"	ちなみに　5つめの{ruby (charSpan 2): かぐ}家具は{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Sheepishness}え？{pause 20}	{ruby (charSpan 1): き}聞きたくないって？{pause 40}	{emote: Soft Smile}じゃあ、またよろしく！{pause 20}　{catchphrase}！
+"018"	{emote: Soft Smile}ま{pause 8}・{pause 8}・{pause 8}・{pause 20}これに　こりずに	また　チャレンジしてよ！{pause 20}　{catchphrase}！
+"019"	{emote: Soft Smile}{ruby (charSpan 2): みごと}見事に　{ruby (charSpan 2): こんかい}今回の　{ruby (charSpan 4): めだましょうひん}目玉商品を	{ruby (charSpan 1): ひ}引き{ruby (charSpan 1): あ}当てたね！{pause 20}　{ruby (charSpan 1): たい}大したもんだ！{pause 20}	{catchphrase}！

@@ -1,60 +1,60 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	People in {Town name (pink)}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Greetings}
-"006"	{emote: Worry}
-"007"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"008"	{emote: Greetings}
-"009"	{emote: Reset}
-"010"	{emote: Greetings}
-"011"	"{capitalized}
+"001"	{emote: Worry}Hold up, {Player nickname (green)}!{pause 20}	So I feel like my personality's gone	all soft and flabby on me lately.{Wait for input}{emote: Anger}Whaddya think?{pause 8} Can ya help me tone	it up a bit with a new greeting?{Player can respond (0005):0004-0015-0003-0028}	It's about time!	Not gonna happen.
+"002"	People in {Town name (pink)} seem kinda set	in their ways sometimes, right?{Wait for input}I don't want to be like that.{pause 8} I want	to mix things up, {pause 8}{catchphrase}!{Wait for input}{emote: Distress}So, {Player nickname (green)}...{pause 20}help me think of a	totally awesome greeting that will 	really grab everyone's attention!{Player can respond (0005):0004-0015-0003-0028}	Got one!	No way!
+"003"	{emote: Distress}What?!{pause 20} But you've got such a good	feel for these things! You're letting	all that talent go to waste!{Wait for input}{emote: Happiness}Well,{pause 20} I'll still help you if you ever	need something like this, OK?
+"004"	{emote: Happiness}Ha!{pause 20} I knew I could count on you!{pause 8}	OK, {Player nickname (green)}...let's fix me!
+"005"	{emote: Greetings}"{capitalized}{Greeting begin}{Greeting end}"? {Wait for input}	{emote: Curious}Is that right?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Nailed it!	Not even close.
+"006"	{emote: Worry}What?! I coulda sworn...{pause 20} {emote: Happiness}OK, hit me	again, bud. What's the greeting?
+"007"	{0009-0002-0008-0008-0009-000a-000b}
+"008"	{emote: Greetings}"{capitalized}{Greeting begin}{Greeting end}."{pause 40}	Man, that is just perfect! It's so me!{Wait for input}{emote: Glee}Really,{pause 8} thank you, {Player nickname (green)}!{pause 20}	I gotta take this greeting out for a	test drive, {pause 8}{catchphrase}!
+"009"	{emote: Reset}"{capitalized}{Greeting begin}{Greeting end}"{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Alarmed}{0007-000b-0000}Wow!{pause 20} That's got some kick to it!{Wait for input}{emote: Happiness}I'll use it, but I'm definitely gonna	give you the credit.{pause 20} Really glad I 	asked for your help, {pause 8}{catchphrase}!
+"010"	{emote: Greetings}"{capitalized}{Greeting begin}{Greeting end}!"{pause 40}	{emote: Agreement}Yeah!{pause 20} That's exactly what I was	hoping for! It sounds awesome!{Wait for input}{emote: Happiness}{capitalized}{Player nickname (green)}! Gracias, {brahmigo/brahmiga}!{pause 20}	I'm gonna use this like crazy,	starting today, {pause 8}{catchphrase}!
+"011"	"{capitalized}{Greeting begin}{Greeting end}!"{pause 20}	{emote: Glee}Oh, man! I'm feelin' it now, yo!{pause 40}	Thanks a bunch, {Player nickname (green)}!
 == 1 ==
-"001"	{emote: Worry}
-"002"	La gente de {capitalized}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Greetings}
-"006"	{emote: Worry}
-"007"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"008"	{emote: Greetings}
-"009"	{emote: Reset}
-"010"	{emote: Greetings}
-"011"	¡{capitalized}
+"001"	{emote: Worry}¡Un momento, {Player nickname (green)}!{pause 20} Creo	que mi arrolladora personalidad	se ha desinflado últimamente.	{emote: Anger}¡Esto hay que arreglarlo!{pause 8}	¿Me ayudas a renovarme	con un nuevo saludo?{Player can respond (0005):0004-0015-0003-0028}	¡Claro! ¡Ya toca!	¡Ni hablar!
+"002"	La gente de {capitalized}{Town name (pink)} a veces	parece un poco cuadriculada, ¿no?{Wait for input}Yo no quiero ser así.{pause 8} ¡Quiero un	poco de variedad, {pause 8}{catchphrase}!{Wait for input}{emote: Distress}Así que {Player nickname (green)}...{pause 20} ¡ayúdame a	pensar algún saludo alucinante que	atraiga la atención de todos!{Player can respond (0005):0004-0015-0003-0028}	¡Se me ocurre uno!	¡Conmigo no cuentes!
+"003"	{emote: Distress}¡¿Qué?!{pause 20} ¡Pero si a ti se te dan muy	bien estas cosas! ¡No me digas que	vas a desperdiciar ese talento!	{emote: Happiness}Bueno,{pause 20} aunque tú te niegues, yo sí	que te ayudaré si quieres que te	eche una mano con algo así, ¿vale?
+"004"	{emote: Happiness}¡Ja!{pause 20} ¡Sabía que podía contar	contigo!{pause 8} Venga... ¡Échame	un cable, {Player nickname (green)}!
+"005"	{emote: Greetings}¿"{capitalized}{Greeting begin}{Greeting end}"? {Wait for input}	{emote: Curious}¿Lo he dicho bien?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	¡Perfecto!	Pues no
+"006"	{emote: Worry}¡¿Qué?! Habría jurado que...{pause 20} {emote: Happiness}Venga,	dímelo otra vez, campe{ón/ona}.	¿Cuál es el saludo?
+"007"	{0009-0002-0008-0008-0009-000a-000b}
+"008"	{emote: Greetings}¡{capitalized}{Greeting begin}{Greeting end}!{pause 40}	¡Vaya, es perfecto! ¡Es como yo!{Wait for input}{emote: Glee}En serio...{pause 8} ¡Gracias, {Player nickname (green)}!{pause 20}	¡Me voy ahora mismo a estrenar	este saludo, {pause 8}{catchphrase}!
+"009"	{emote: Reset}{capitalized}{Greeting begin}{Greeting end}{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Alarmed}{0007-000b-0000}¡Vaya!{pause 20} ¡Pues tiene pegada!{Wait for input}{emote: Happiness}Voy a usarlo, pero si me preguntan,	contaré que fue idea tuya.{pause 20} ¡Qué bien	que te pedí ayuda, {pause 8}{catchphrase}!
+"010"	{emote: Greetings}¡{capitalized}{Greeting begin}{Greeting end}!{pause 40}	{emote: Agreement}¡Sí!{pause 20} ¡Eso es exactamente lo que	esperaba! ¡Suena tope molón!	{emote: Happiness}¡{capitalized}{Player nickname (green)}! ¡Gracias, tron!{pause 20}	¡Voy a usarlo como un demente	desde hoy mismo, {pause 8}{catchphrase}!
+"011"	¡{capitalized}{Greeting begin}{Greeting end}!{pause 20}	{emote: Glee}¡Cómo mola! ¡Me da muy buen rollo!{pause 40}	¡Muchísimas gracias, {Player nickname (green)}!
 == 2 ==
-"001"	{emote: Worry}
-"002"	À {Town name (pink)}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Greetings}
-"006"	{emote: Worry}
-"007"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"008"	{emote: Greetings}
-"009"	{emote: Reset}
-"010"	{emote: Greetings}
-"011"	« {capitalized}
+"001"	{emote: Worry}{capitalized}{Player nickname (green)}, t'as une minute ?{pause 20} Ces	derniers temps, je crois que je	souffre de carences...{pause 20} en charisme !	{emote: Anger}Il me faut une particularité !{pause 8} Un truc	unique !{pause 20} Je sais :{pause 20} t'aurais pas une	chouette façon de saluer pour moi ?{Player can respond (0005):0004-0015-0003-0028}	Il était temps !	Cours toujours.
+"002"	À {Town name (pink)}, chacun semble figé	dans sa petite routine, tu trouves	pas ?	Moi, j'aspire à autre chose.{pause 8} J'aime	le changement,{pause 8} {catchphrase} !{Wait for input}Du coup, {Player nickname (green)}{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Distress}Aide-moi à	trouver une nouvelle façon de saluer	qui ne laissera personne indifférent !{Player can respond (0005):0004-0015-0003-0028}	J'ai ça en stock !	Même pas en rêve.
+"003"	{emote: Distress}Quoi ?!{pause 20} Et dire que personne ne	t'arrive à la cheville pour ces	choses-là{pause 8}.{pause 8}.{pause 8}.{pause 20} Quel gâchis !{Wait for input}{emote: Happiness}Bah,{pause 20} essaie au moins d'y réfléchir	pour une prochaine fois, d'ac ?
+"004"	{emote: Happiness}Super !{pause 20} Je savais que je pouvais	compter sur toi !{pause 20} Au boulot,	{Player nickname (green)}{pause 8}.{pause 8}.{pause 8}.{pause 20} Fais-moi rêver !
+"005"	{emote: Greetings}« {capitalized}{Greeting begin}{Greeting end} » !{Wait for input}	{emote: Curious}C'est bien ça ?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Tout à fait !	Rien à voir.
+"006"	{emote: Worry}Ah bon ?!{pause 20} Bizarre{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Happiness}OK, on reprend	à zéro. Je t'écoute, {Player name}.
+"007"	{0009-0002-0008-0008-0009-000a-000b}
+"008"	{emote: Greetings}« {capitalized}{Greeting begin}{Greeting end} » !{pause 40}	Parfait !{pause 20} Ça me va à ravir !{Wait for input}{emote: Glee}Merci du fond du cœur,{pause 8} {Player nickname (green)} !{pause 20}	Voyons maintenant ce que ça donne	en situation réelle, {pause 8}{catchphrase} !
+"009"	{emote: Reset}« {capitalized}{Greeting begin}{Greeting end} »{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Alarmed}{0007-000b-0000}Waouh !{pause 20} J'avais encore jamais	entendu un truc pareil !{pause 20} Ça déchire !{Wait for input}{emote: Happiness}Je vais l'utiliser, mais pas me	l'approprier.{pause 20} Ton génie doit éclater	au grand jour,{pause 8} {catchphrase} !
+"010"	{emote: Greetings}« {capitalized}{Greeting begin}{Greeting end} » !{pause 40}	{emote: Agreement}Génial !{pause 20} C'est tout à fait ce que je	voulais. Ça sonne du tonnerre !	{emote: Happiness}Merci {Player nickname (green)} !{pause 20}	Je vais la placer à la moindre	occasion,{pause 8} {catchphrase} !
+"011"	« {capitalized}{Greeting begin}{Greeting end} » !{pause 20}	{emote: Glee}Ça me met dans tous mes états !{pause 40}	Merci mille fois, {Player nickname (green)} !
 == 3 ==
-"001"	{emote: Worry}
-"002"	La gente di {Town name (pink)}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Greetings}
-"006"	{emote: Worry}
-"007"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"008"	{emote: Greetings}
-"009"	{emote: Reset}
-"010"	{emote: Greetings}
-"011"	"{capitalized}
+"001"	{emote: Worry}Ferm{o/a} lì, {Player nickname (green)}!{pause 20}	Mi sembra di aver perso un po'	del mio smalto ultimamente.{Wait for input}{emote: Anger}Tu che ne pensi?{pause 8} Mi aiuteresti a	rimettermi in forma con un nuovo	saluto?{Player can respond (0005):0004-0015-0003-0028}	Sarebbe ora!	Non posso.
+"002"	La gente di {Town name (pink)} a volte non	sembra avere molto carattere,	vero?{Wait for input}Io però voglio essere diverso.{pause 8} Voglio	attirare l'attenzione, {pause 8}{catchphrase}!{Wait for input}{emote: Distress}Perciò, {Player nickname (green)}...{pause 20} Aiutami a	creare un saluto che non	passi inosservato!{Player can respond (0005):0004-0015-0003-0028}	Ne ho uno già pronto!	Scordatelo!
+"003"	{emote: Distress}Cosa?!{pause 20} Ma tu hai un vero talento	per queste cose! Vuoi davvero	sprecarlo così?{Wait for input}{emote: Happiness}Beh,{pause 20} io ti aiuterò comunque	se mai dovessi avere bisogno	di un favore di questo tipo!
+"004"	{emote: Happiness}Ah!{pause 20} Sapevo di poter contare su di	te!{pause 8} OK, {Player nickname (green)}... Spara!
+"005"	{emote: Greetings}"{capitalized}{Greeting begin}{Greeting end}"? {Wait for input}	{emote: Curious}Giusto?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Ci hai preso!	Non ci siamo!
+"006"	{emote: Worry}Cosa?! Avrei giurato che...{pause 20} {emote: Happiness}OK,	spara di nuovo, amic{o/a}.	Qual è il saluto?
+"007"	{0009-0002-0008-0008-0009-000a-000b}
+"008"	{emote: Greetings}"{capitalized}{Greeting begin}{Greeting end}".{pause 40}	Ma è perfetto! Fa proprio me!{Wait for input}{emote: Glee}Grazie davvero, {Player nickname (green)}!{pause 20}	Devo andare in giro a fare un	po' di prove, {pause 8}{catchphrase}!
+"009"	{emote: Reset}"{capitalized}{Greeting begin}{Greeting end}"{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Alarmed}{0007-000b-0000}Uau!{pause 20} Suona davvero bene!{Wait for input}{emote: Happiness}Lo userò sempre, ma tutti	sapranno che è opera tua.{Wait for input}{pause 20}Sono proprio felice di averti	chiesto una mano, {pause 8}{catchphrase}!
+"010"	{emote: Greetings}"{capitalized}{Greeting begin}{Greeting end}"!{pause 40}	{emote: Agreement}Sì!{pause 20} Speravo proprio in una cosa	del genere! Troppo bello!{Wait for input}{emote: Happiness}{capitalized}{Player nickname (green)}! Grazie, amic{o/a}!{pause 20}	Lo userò di continuo, a cominciare	da oggi, {pause 8}{catchphrase}!
+"011"	"{capitalized}{Greeting begin}{Greeting end}"!{pause 20}	{emote: Glee}Grande! Lo sento già mio, sì!{pause 40}	Tantissime grazie, {Player nickname (green)}!
 == 4 ==
-"001"	{emote: Worry}
-"002"	Die Leute in {Town name (pink)}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Greetings}
-"006"	{emote: Worry}
-"007"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"008"	{emote: Greetings}
-"009"	„{capitalized}
-"010"	{emote: Greetings}
-"011"	„{capitalized}
+"001"	{emote: Worry}Hey, {Player nickname (green)}!{pause 20} Ich hab das Gefühl,	dass ich alle Leute immer genau	gleich begrüße.{pause 20} Irgendwie langweilig!	{emote: Anger}Was meinst du?{pause 8}	Fällt dir eine neue Begrüßung ein,	die ich verwenden könnte?{Player can respond (0005):0004-0015-0003-0028}	Klar doch!	Eigentlich nicht.
+"002"	Die Leute in {Town name (pink)} scheinen	manchmal richtig festgefahren in	ihren Gewohnheiten zu sein, oder?	Aber ich will mich ab und zu auch	mal neu erfinden, {pause 8}{catchphrase}!{pause 20}	Nicht immer das Gleiche sagen!{Wait for input}{emote: Distress}Kannst du mir vielleicht helfen, eine	neue Begrüßung für mich zu finden?{pause 20}	Damit das auch jeder mitkriegt?{Player can respond (0005):0004-0015-0003-0028}	Ich hab eine!	Nö.
+"003"	{emote: Distress}Was?!?{pause 20} Aber du verstehst doch so	viel von solchen Dingen. {pause 20}Willst du	mir mit deinem Talent nicht helfen?	{emote: Happiness}Na gut,{pause 20} aber wenn du mal eine neue	Begrüßung brauchst, stehe ich dir	trotzdem zur Seite!
+"004"	{emote: Happiness}Ha!{pause 20} Ich wusste, dass ich mich auf	dich verlassen kann!{pause 20} Also gut,	{Player nickname (green)}... {pause 20}Was schlägst du vor?
+"005"	{emote: Greetings}{capitalized}{Greeting begin}{Greeting end}! {Wait for input}	{emote: Curious}Klingt das gut?{confirmation-02}{Player can respond (0005):0007-0015-0006-0028}	Das klingt perfekt!	Nicht wirklich...
+"006"	{emote: Worry}Was? {pause 20}Ich hätte schwören können...{pause 20}	{emote: Happiness}Wie auch immer... {pause 40}Fällt dir noch was	Besseres ein?
+"007"	{0009-0002-0008-0008-0009-000a-000b}
+"008"	{emote: Greetings}„{capitalized}{Greeting begin}{Greeting end}“!{pause 40}	Ja, das passt perfekt zu mir!	{emote: Glee}Danke, {Player nickname (green)}!{pause 20}	Dann dreh ich jetzt mal eine kleine	Runde damit, {pause 8}{catchphrase}!
+"009"	„{capitalized}{Greeting begin}{Greeting end}“{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Alarmed}{0007-000b-0000}Wow!{pause 20} Ich muss schon sagen,	das hat was!	{emote: Happiness}Bin ich froh, dass ich dich um Hilfe	gefragt hab, {pause 8}{catchphrase}!
+"010"	{emote: Greetings}„{capitalized}{Greeting begin}{Greeting end}“!{pause 40}	{emote: Agreement}Genau nach so was hab ich gesucht.{Wait for input}{emote: Happiness}Danke dir, {Player nickname (green)}!{pause 20} Ab sofort 	gibt's bei mir keine andere	Begrüßung mehr, {pause 8}{catchphrase}!
+"011"	„{capitalized}{Greeting begin}{Greeting end}“...{pause 20}	{emote: Glee}Ja, das hat dieses gewisse Etwas!{pause 40}	Vielen Dank, {Player nickname (green)}!

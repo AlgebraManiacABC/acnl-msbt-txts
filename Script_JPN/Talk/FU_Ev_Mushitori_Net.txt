@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Worry}
-"003"	{emote: Distress}
+"001"	{emote: Alarmed}まぁ！{pause 30}	{emote: Distress}せっかく　{pause 10}あと{ruby (charSpan 1): すこ}少しだったのに！{000b-0004-0002-cd01}
+"002"	{emote: Worry}もう{pause 30}	{Player nickname (green)}さんたら{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sadness}あとちょっとで{pause 10}	つかまえられそうだったんですよ！{000b-0003-0002-cd01}
+"003"	{emote: Distress}あ～！{Wait for input} {emote: Sadness}{ruby (charSpan 1): いま}今のは{pause 8}	つかまえられると{ruby (charSpan 1): おも}思ったのに！{000b-0003-0002-cd01}

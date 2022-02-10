@@ -1,264 +1,264 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Joy}
-"003"	{emote: Curious}
-"004"	{emote: Distress}
-"005"	{emote: Thought}
-"006"	{emote: Thought}
-"007"	Say,{pause 8}
-"008"	{emote: Soft Smile}
-"009"	{emote: Agreement}
-"010"	{emote: Curious}
-"011"	{emote: Sheepishness}
-"012"	{emote: Surprise}
-"013"	{emote: Joy}
-"014"	{emote: Shyness}
-"015"	{emote: Agreement}
-"016"	{emote: Agreement}
-"017"	{emote: Soft Smile}
-"018"	{emote: Soft Smile}
-"019"	{emote: Soft Smile}
-"020"	{emote: Agreement}
-"021"	{emote: Soft Smile}
-"022"	{emote: Happiness}
-"023"	{emote: Soft Smile}
-"024"	{emote: Love}
-"025"	{emote: Happiness}
-"026"	{emote: Distress}
-"027"	{emote: Joy}
-"028"	{emote: Distress}
-"029"	
-"030"	
-"031"	{emote: Happiness}
-"032"	{emote: Sleep Bubble}
-"033"	{emote: Happiness}
-"034"	{emote: Soft Smile}
-"035"	{emote: Happiness}
-"036"	{emote: Glee}
-"037"	{emote: Soft Smile}
-"038"	{emote: Soft Smile}
-"039"	{emote: Love}
-"040"	{emote: Soft Smile}
-"041"	{emote: Love}
-"042"	{emote: Soft Smile}
-"043"	{emote: Sheepishness}
-"044"	{emote: Joy}
-"045"	{emote: Joy}
-"046"	{emote: Surprise}
-"047"	{emote: Happiness}
-"048"	{emote: Sigh}
-"049"	
-"050"	
-"051"	{emote: Soft Smile}
-"052"	{emote: Soft Smile}
-"053"	{emote: Curious}
-"054"	{emote: Soft Smile}
-"055"	{emote: Curious}
-"056"	{emote: Soft Smile}
-"057"	{emote: Soft Smile}
-"058"	{emote: Love}
-"059"	{emote: Curious}
-"060"	{emote: Agreement}
-"061"	{emote: Soft Smile}
-"062"	{emote: Soft Smile}
-"063"	{emote: Soft Smile}
-"064"	{emote: Soft Smile}
-"065"	{emote: Soft Smile}
-"066"	{emote: Soft Smile}
-"067"	{emote: Soft Smile}
-"068"	{emote: Soft Smile}
-"069"	{emote: Soft Smile}
-"070"	{emote: Soft Smile}
-"071"	{emote: Happiness}
-"072"	{emote: Daydreaming}
-"073"	{emote: Happiness}
-"074"	{emote: Glee}
-"075"	{emote: Happiness}
-"076"	{emote: Soft Smile}
-"077"	{emote: Happiness}
-"078"	{emote: Happiness}
-"079"	{emote: Happiness}
-"080"	I'm a little disappointed that I didn't	get to try any of {Orange}Franklin{Color Reset}'s cooking,{pause 8}
-"081"	{emote: Soft Smile}
-"082"	{emote: Soft Smile}
-"083"	{emote: Happiness}
-"084"	{emote: Glee}
-"085"	{emote: Happiness}
-"086"	{emote: Soft Smile}
-"087"	{emote: Happiness}
+"001"	{emote: Happiness}Hooray for the {Blue}Harvest Festival{Color Reset}!{pause 20}	Everyone in town is busy cooking.{Wait for input}{emote: Agreement}I thought I'd try out some new	recipes this year,{pause 8} {catchphrase}.
+"002"	{emote: Joy}Today is our {Blue}Harvest Festival{Color Reset}!{pause 20} I've	been waiting all month for this.{pause 20} It's	one of my favorite holidays!	{emote: Happiness}I'm going to try making something	new this year.{pause 20} Something exciting!
+"003"	{emote: Curious}Is everyone else caught up in the	festivities?{Wait for input}{emote: Happiness}Once I finish up here, I'll join them.{pause 20}	But for now I'm still busy cooking{pause 8}.{pause 8}.{pause 8}.{pause 20}
+"004"	{emote: Distress}Eep,{pause 8} I need to get started on my	next dish!{Wait for input} Sorry.{pause 8} There are just	so many things I want to make{pause 8}.{pause 8}.{pause 8}.{pause 20}
+"005"	{emote: Thought}Actually,{pause 8} you wouldn't happen to	have {Article(word-dependant)}{0011-0003-0002-0000},{pause 8}	would you?	{emote: Soft Smile}If you did,{pause 8} I'd be willing to trade you	for another ingredient.{pause 20} We could	both benefit.
+"006"	{emote: Thought}I can't complete this dish without	{Article(word-dependant)}{0011-0003-0002-0000}.{Wait for input}{emote: Reset} You	don't happen to have one,{pause 8} do you?{000f-0005-0004-0015-0028}	Yes, please take it!	I don't have one.
+"007"	Say,{pause 8} if you could give me {Article(word-dependant)}	{0011-0003-0002-0000},{pause 8} that would	really help me out!{000f-0005-0004-0015-0028}	Here you go!	I don't have one.
+"008"	{emote: Soft Smile}OK.{pause 20} Please keep me in mind if you	come across any later.{pause 20} I'd trade you	another ingredient for it!
+"009"	{emote: Agreement}Yes,{pause 20} I suppose it's not that easy to	come by,{pause 8} {catchphrase}.
+"010"	{emote: Curious}Pardon?{pause 20} Were you trying to give me	something?{pause 20}{emote: Reset}{emote: Sheepishness} Oh,{pause 8} my mistake.
+"011"	{emote: Sheepishness}That's awfully nice,{pause 8} but I really	need {Article(word-dependant)}{0011-0003-0002-0000}.{Wait for input}{emote: Soft Smile}	If you get one,{pause 8} I'd love to trade.
+"012"	{emote: Surprise}You'll trade with me?{Wait for input}{emote: Happiness} Thank you	very much!{pause 20} Here.{pause 8} I can give you my	{0011-0003-0002-0001} in return.
+"013"	{emote: Joy}Wonderful.{pause 8} Now I can finish up this	dish and start another!{pause 20} Thank you!
+"014"	{emote: Shyness}Oh,{pause 8} and I'm not sure if you're	interested, but{pause 8}.{pause 8}.{pause 8}.{pause 20}{Wait for input}{emote: Sunny}I stumbled upon a way to make a	certain dish taste amazing.{pause 20} Would	you like to hear about it?
+"015"	{emote: Agreement}So when you're making 	{0012-0005-0002-cd00},{pause 8} just add	a little {Blue}lemon {Color Reset}juice.{pause 20} It tastes great!
+"016"	{emote: Agreement}Ready?{pause 20} When you're making 	{0012-0005-0002-cd00},{pause 8} mix in	half a cup of diced {Blue}apple{Color Reset}.	{emote: Soft Smile}That crunchy texture really livens	up the dish.
+"017"	{emote: Soft Smile}So{pause 8} I figured this out while I was	making {0012-0005-0002-cd00}.{pause 20}	Just stir in honey from a {Blue}beehive{Color Reset}.	{emote: Happiness}The flavor is divine!
+"018"	{emote: Soft Smile}Well,{pause 8} I was in the middle of making	this {0012-0005-0002-cd00} when I	accidentally added some {Blue}vinegar{Color Reset}.	{emote: Happiness}Wouldn't you know,{pause 8} it turned out	delicious!
+"019"	{emote: Soft Smile}Well,{pause 8} I discovered when I made	{0012-0005-0002-cd00} that you	can include a tablespoon of {Blue}butter{Color Reset}.	It adds a depth and richness that	I really like.
+"020"	{emote: Agreement}If I make {0012-0005-0002-cd00},{pause 8}	I always add a little {Blue}coconut{Color Reset} milk.{pause 40}	It helps to balance sweet and spicy.
+"021"	{emote: Soft Smile}I'll probably head over to the	event plaza when I finish cooking,{pause 8}	{catchphrase}.
+"022"	{emote: Happiness}I tried so many new recipes today!{pause 20}	My long-term goal is to mix and 	match ingredients like a real chef!
+"023"	{emote: Soft Smile}There are still lots of recipes I want	to try.{pause 20}{emote: Agreement} I've seen some fascinating	shows on the local cooking channel.
+"024"	{emote: Love}There's nothing better than fresh	ingredients.{pause 20} Thanks,{pause 8} {Player nickname (green)}!
+"025"	{emote: Happiness}Thanks again for sharing your	ingredients with me,{pause 8} {Player nickname (green)}.
+"026"	{emote: Distress}Please excuse us if we're all buzzing	about like busy bees.{pause 20} It's the	{Blue}Harvest Festival {Color Reset}today!
+"027"	{emote: Joy}Would you like to help us prepare	for the {Blue}Harvest Festival{Color Reset} today?{pause 20}	Guests are always welcome.
+"028"	{emote: Distress}Sorry.{pause 8} Just a little busy making food	for today!
+"029"
+"030"
+"031"	{emote: Happiness}I just love the {Blue}Harvest Festival{Color Reset}.{pause 20} It's	so much fun to cook together!
+"032"	{emote: Sleep Bubble}I've eaten so much today that it's	made me sleepy.
+"033"	{emote: Happiness}I enjoy cooking for others.{pause 20} I get to	demonstrate my culinary skills, and	my food makes everyone smile!
+"034"	{emote: Soft Smile}My dishes turned out perfect thanks	to you,{pause 8} {Player nickname (green)}!
+"035"	{emote: Happiness}Thank you so much for your help!{pause 20}	Your ingredients saved my cooking.{Wait for input}I shared a few dishes with our	neighbors, and everyone loved them.
+"036"	{emote: Glee}What a great {Blue}Harvest Festival{Color Reset}.{pause 20}	Next year I'm going to try making	some papier-mâché centerpieces!
+"037"	{emote: Soft Smile}Well, this year's {Blue}Harvest Festival {Color Reset}is	over.{pause 20} It was a day full of great food	and friends!
+"038"	{emote: Soft Smile}Did you enjoy this year's {Blue}Harvest	Festival{Color Reset},{pause 8} {Player nickname (green)}?{pause 20} I hope so!
+"039"	{emote: Love}I love the {Blue}Harvest Festival{Color Reset}.{pause 20} I only	tasted a little of {Orange}Franklin{Color Reset}'s cooking,	but the flavors were amazing.
+"040"	{emote: Soft Smile}I'm already looking forward to next	year's {Blue}Harvest Festival{Color Reset}.{pause 20} I can't wait	to watch {Orange}Franklin{Color Reset} in action again!
+"041"	{emote: Love}I love the {Blue}Harvest Festival{Color Reset}.{pause 20} I only	tasted a little of {Orange}Franklin{Color Reset}'s cooking,	but the flavors were amazing.
+"042"	{emote: Soft Smile}It looks like{Orange} Franklin {Color Reset}was trying for	a healthier menu this year.{pause 20}{emote: Happiness} I'm glad,{pause 8}	because I still ate a lot of soup!
+"043"	{emote: Sheepishness}I think I ate too much today.{pause 20} Far too	much.{Wait for input} {emote: Shyness}But if there was dessert{pause 8}.{pause 8}.{pause 8}.	I'm sure I could find room for it.
+"044"	{emote: Joy}Today was so much fun,{pause 8} and that	main course{pause 8}.{pause 8}.{pause 8}.wow!{Wait for input}{emote: Happiness} I wish I knew	how {Orange}Franklin {Color Reset}mixed his ingredients!
+"045"	{emote: Joy}I can't remember a better {Blue}Harvest	Festival{Color Reset}!{pause 20} All the food was delicious,{pause 8}	and dessert was{pause 8}.{pause 8}.{pause 8}.delectable!	{emote: Agreement}Whatever {Orange}Franklin {Color Reset}did to his usual	recipes really worked!
+"046"	{emote: Surprise}I heard you helped {Orange}Franklin {Color Reset}find	some of his ingredients this year!{Wait for input}{emote: Reset}Not only that,{pause 8} but you supplied	some{emote: Love} special ingredients that made	everything taste amazing.	{emote: Happiness}I'm really impressed,{pause 8} {catchphrase}!
+"047"	{emote: Happiness}This year's {Blue}Harvest Festival {Color Reset}was	quite the success!{pause 20}{emote: Love} {Orange}Franklin{Color Reset}'s	four-course meal was delicious.
+"048"	{emote: Sigh}Whew{pause 8}.{pause 8}.{pause 8}.{pause 20} I'm stuffed!{Wait for input}{emote: Happiness} You deserve a	big pat on the back for helping	{Orange}Franklin{Color Reset} cook,{pause 8} {Player nickname (green)}!
+"049"
+"050"
+"051"	{emote: Soft Smile}So{pause 3} I like to eat {Blue}oysters {Color Reset}with a little	{Blue}lemon {Color Reset}juice on them.{pause 20} Just a spritz	is enough.	Of course it's just my opinion,{pause 8} but	I think any dish that uses oysters	tastes better with lemon.
+"052"	{emote: Soft Smile}So{pause 3} when I make a salad with a lot	of {Blue}mushrooms{Color Reset},{pause 8} I feel like it needs	something to give it texture.	I used half a cup of diced {Blue}apples {Color Reset}the	other day on a whim,{pause 8} and it was	perfect!
+"053"	{emote: Curious}OK,{pause 3} have you ever made {Blue}fruit salad{Color Reset}?{pause 20}	In most salads you'd use vinegar.{Wait for input}But in {Blue}fruit salad{Color Reset}, I think you should	use honey.{pause 20} Preferably straight from	a {Blue}beehive{Color Reset}!{pause 20} It's just delicious.
+"054"	{emote: Soft Smile}So{pause 3} adding dressing to a salad with	very different ingredients can be	tricky.{Wait for input}When it comes to {Blue}mixed salads{Color Reset},{pause 8} I've	found my best friend is a bottle of	{Blue}vinegar{Color Reset}.{pause 20} It's simple but effective!
+"055"	{emote: Curious}OK,{pause 3} do you worry that salads with	a lot of {Blue}fish{Color Reset} smell too,{pause 8} well,{pause 8} fishy?{Wait for input}{emote: Soft Smile}If you didn't already know,{pause 5} adding	some {Blue}lemon {Color Reset}juice really helps with	that.{pause 20} I highly recommend it!
+"056"	{emote: Soft Smile}So{pause 3} you know it's the season for	collecting mushrooms, right?{pause 20} I've	been using them a lot lately.	I especially like to make {Blue}mushroom	bisque {Color Reset}at night.{pause 20} My own little trick	is melting a pat of {Blue}butter{Color Reset} on top!
+"057"	{emote: Soft Smile}Well,{pause 5} when I collect lots of {Blue}shellfish{Color Reset},{pause 8}	I turn them into a soup.{pause 20} Then I add	a pat of {Blue}butter {Color Reset}on top.	That extra touch of cream and salt	makes the soup truly delicious!
+"058"	{emote: Love}I just love making a soup with lots	of different {Blue}fish {Color Reset}in it,{pause 8} {catchphrase}.{Wait for input}{emote: Soft Smile}My trick is to squeeze a little {Blue}lemon{Color Reset}	on top.{pause 20} It mixes well with the other	flavors and smells good.
+"059"	{emote: Curious}So{pause 3} have you ever tried making {Blue}fruit	soup{Color Reset}?{pause 20} It's not just for dessert.{pause 20} It	works as a regular soup course too.	{emote: Agreement}I've discovered that adding some	{Blue}lemon {Color Reset}right before you serve it	works well to keep it fresh.
+"060"	{emote: Agreement}OK,{pause 3} let me tell you.{Wait for input}{emote: Soft Smile}I caught a lobster while free diving	and used it to make {Blue}tom yum kung{Color Reset}.{Wait for input}{emote: Happiness}When I added milk from a {Blue}coconut{Color Reset},{pause 8}	it turned out great!{pause 20} The perfect	accent, and I highly recommend it.
+"061"	{emote: Soft Smile}OK!{pause 8} Anytime you're cooking fish,{pause 5}	it's crucial to use {Blue}lemon {Color Reset}or {Blue}vinegar	{Color Reset}for flavor.{Wait for input}Which one tastes better depends on	the type of fish you're cooking!
+"062"	{emote: Soft Smile}OK.{pause 8} Anytime you cook with fish,{pause 5}	it's crucial to use {Blue}lemon {Color Reset}or {Blue}vinegar	{Color Reset}for flavor.	Which one tastes better depends on	the type of fish you're cooking!
+"063"	{emote: Soft Smile}OK!{pause 8} Anytime you're cooking fish,{pause 5}	it's crucial to use {Blue}lemon {Color Reset}or {Blue}vinegar	{Color Reset}for flavor.{Wait for input}Which one tastes better depends on	the type of fish you're cooking!
+"064"	{emote: Soft Smile}OK.{pause 8} Anytime you cook with fish,{pause 5}	it's crucial to use {Blue}lemon {Color Reset}or {Blue}vinegar	{Color Reset}for flavor.	Which one tastes better depends on	the type of fish you're cooking!
+"065"	{emote: Soft Smile}OK!{pause 8} Anytime you're searing fish,{pause 5}	it's crucial to use {Blue}lemon {Color Reset}or {Blue}vinegar	{Color Reset}for flavor.{Wait for input}Which one tastes better depends on	the type of fish you're cooking!
+"066"	{emote: Soft Smile}Here's my tip for baking a {Blue}fruit pie{Color Reset}.{pause 20}	Just accentuate the fruit's natural	sweetness with a little honey!	{emote: Agreement}And the best honey comes from the	town's {Blue}beehives{Color Reset}.{pause 20}{emote: Happiness} It's the perfect	dessert for the {Blue}Harvest Festival{Color Reset}!
+"067"	{emote: Soft Smile}Here's my tip for baking a {Blue}fruit pie{Color Reset}.{pause 20}	Just accentuate the fruit's natural	sweetness with a little honey!	{emote: Agreement}And the best honey comes from the	town's {Blue}beehives{Color Reset}.{pause 20}{emote: Happiness} It's the perfect	dessert for the {Blue}Harvest Festival{Color Reset}!
+"068"	{emote: Soft Smile}Regular fruit pies are delicious,{pause 8} but	using {Blue}mixed fruits {Color Reset}makes a pie even	better!{pause 20} There's only one difference.	I use a little {Blue}lemon {Color Reset}in mixed-fruit	pies to temper the fruit's natural	sweetness.{pause 20} It's the perfect balance!
+"069"	{emote: Soft Smile}Here's my tip for baking a {Blue}coconut	tart{Color Reset}.{pause 20} Accentuate the fruit's natural	sweetness with a little honey!	{emote: Agreement}And the best honey comes from the	town's {Blue}beehives{Color Reset}.{pause 20}{emote: Happiness} It's the perfect	dessert for the {Blue}Harvest Festival{Color Reset}!
+"070"	{emote: Soft Smile}Here's my tip for baking a {Blue}banana	tart{Color Reset}.{pause 20} Accentuate the fruit's natural	sweetness with a little honey!	{emote: Agreement}And the best honey comes from the	town's {Blue}beehives{Color Reset}.{pause 20}{emote: Happiness} It's the perfect	dessert for the {Blue}Harvest Festival{Color Reset}!
+"071"	{emote: Happiness}Some of our neighbors are inside	preparing food for the {Blue}Harvest	Festival{Color Reset}!	Maybe I'll drop by their houses and	pick up some cooking pointers.
+"072"	{emote: Daydreaming}Mmm,{pause 8} I smell something yummy!{pause 20} It	must be all the delicious food being	cooked for the {Blue}Harvest Festival{Color Reset}!	{emote: Soft Smile}Maybe if I stop by a few houses, we	can share ingredients,{pause 8} {catchphrase}.
+"073"	{emote: Happiness}I really look forward to the {Blue}Harvest	Festival {Color Reset}every year.{pause 20} I love trying out	new recipes and ingredients!
+"074"	{emote: Glee}Doesn't {Town name (pink)} smell delicious?{pause 20}	Today is our {Blue}Harvest Festival{Color Reset},{pause 8} so I	hope you can stay and celebrate!
+"075"	{emote: Happiness}If you notice everyone cooking,{pause 8} it's	because we celebrate our {Blue}Harvest	Festival {Color Reset}today!	{emote: Curious}Some of the residents might be too	busy to say much,{pause 8} but maybe you	could help them.
+"076"	{emote: Soft Smile}Fall is the season for heavy eating!{Wait for input}	{emote: Thought}At least that's what a lot of animals	do before they hibernate.	{emote: Soft Smile}Anyway, we're holding our {Blue}Harvest	Festival {Color Reset}today.{pause 20} We've even got a 	professional chef visiting!	He's set up his equipment in the	event plaza.{pause 20} You could stop by to	see it!
+"077"	{emote: Happiness}I'd say that was another successful	{Blue}Harvest Festival{Color Reset}.{pause 20} We all got to eat	delicious food and had a great time!
+"078"	{emote: Happiness}Well,{pause 8} the {Blue}Harvest Festival {Color Reset}is over.{pause 20}	I'm going to apply all the cooking	skills I learned to winter dishes!
+"079"	{emote: Happiness}Everyone did a tremendous job this	year with all the food.{pause 20} {Orange}Franklin{Color Reset} was	a big hit too!
+"080"	I'm a little disappointed that I didn't	get to try any of {Orange}Franklin{Color Reset}'s cooking,{pause 8}	but I still had a great time.
+"081"	{emote: Soft Smile}I think {Orange}Franklin{Color Reset} was trying out a	healthy menu this year with smaller	portions.{pause 20} That appetizer was tasty!
+"082"	{emote: Soft Smile}Did you try {Orange}Franklin{Color Reset}'s cooking?{pause 20}	There wasn't much food,{pause 8} but his	presentation was lovely.
+"083"	{emote: Happiness}What a great {Blue}Harvest Festival{Color Reset}!{pause 20} I'm	glad I got to try {Orange}Franklin{Color Reset}'s cooking.{pause 20}	That main course was delicious.
+"084"	{emote: Glee}{Orange}Franklin {Color Reset}made us such an amazing	four-course meal this year!{pause 20}{emote: Shyness} I was	pretty full after the main course.{pause 20}	{emote: Sunny}But everyone knows there's always	room for dessert!
+"085"	{emote: Happiness}This year's {Blue}Harvest Festival {Color Reset}was full	of good food and good friends.{Wait for input} {emote: Sleepy}And	I'll be getting a good night's sleep!
+"086"	{emote: Soft Smile}One thing I love about the {Blue}Harvest	Festival{Color Reset}{pause 8} is the amazing smells that	still waft through town hours later!
+"087"	{emote: Happiness}Mmm,{pause 8} my stomach is happy after	another successful {Blue}Harvest Festival{Color Reset}.{pause 20}	{emote: Sheepishness}I might not need to eat for days!
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Joy}
-"003"	{emote: Curious}
-"004"	{emote: Distress}
-"005"	{emote: Thought}
-"006"	{emote: Thought}
-"007"	Me harías un favor enorme si me	dieras {Article(word-dependant)}
-"008"	{emote: Soft Smile}
-"009"	{emote: Agreement}
-"010"	{emote: Curious}
-"011"	{emote: Sheepishness}
-"012"	{emote: Surprise}
-"013"	{emote: Joy}
-"014"	{emote: Shyness}
-"015"	{emote: Agreement}
-"016"	{emote: Agreement}
-"017"	{emote: Soft Smile}
-"018"	{emote: Soft Smile}
-"019"	{emote: Soft Smile}
-"020"	{emote: Agreement}
-"021"	{emote: Soft Smile}
-"022"	{emote: Happiness}
-"023"	{emote: Soft Smile}
-"024"	{emote: Love}
-"025"	{emote: Happiness}
-"026"	{emote: Distress}
-"027"	{emote: Joy}
-"028"	{emote: Distress}
-"029"	
-"030"	
-"031"	{emote: Happiness}
-"032"	{emote: Sleep Bubble}
-"033"	{emote: Happiness}
-"034"	{emote: Soft Smile}
-"035"	{emote: Happiness}
-"036"	{emote: Glee}
-"037"	{emote: Soft Smile}
-"038"	{emote: Soft Smile}
-"039"	{emote: Love}
-"040"	{emote: Soft Smile}
-"041"	{emote: Love}
-"042"	{emote: Soft Smile}
-"043"	{emote: Sheepishness}
-"044"	{emote: Joy}
-"045"	{emote: Joy}
-"046"	{emote: Surprise}
-"047"	{emote: Happiness}
-"048"	{emote: Sigh}
-"049"	
-"050"	
-"051"	{emote: Soft Smile}
-"052"	{emote: Soft Smile}
-"053"	{emote: Curious}
-"054"	{emote: Soft Smile}
-"055"	{emote: Curious}
-"056"	{emote: Soft Smile}
-"057"	{emote: Soft Smile}
-"058"	{emote: Love}
-"059"	{emote: Curious}
-"060"	{emote: Agreement}
-"061"	{emote: Soft Smile}
-"062"	{emote: Soft Smile}
-"063"	{emote: Soft Smile}
-"064"	{emote: Soft Smile}
-"065"	{emote: Soft Smile}
-"066"	{emote: Soft Smile}
-"067"	{emote: Soft Smile}
-"068"	{emote: Soft Smile}
-"069"	{emote: Soft Smile}
-"070"	{emote: Soft Smile}
-"071"	{emote: Happiness}
-"072"	{emote: Daydreaming}
-"073"	{emote: Happiness}
-"074"	{emote: Glee}
-"075"	{emote: Glee}
-"076"	{emote: Soft Smile}
-"077"	{emote: Happiness}
-"078"	{emote: Happiness}
-"079"	{emote: Happiness}
-"080"	{emote: Worry}
-"081"	{emote: Soft Smile}
-"082"	{emote: Soft Smile}
-"083"	{emote: Happiness}
-"084"	{emote: Glee}
-"085"	{emote: Happiness}
-"086"	{emote: Soft Smile}
-"087"	{emote: Happiness}
+"001"	{emote: Happiness}¡Cómo me gusta el Día del Pavo!{pause 20}	Todos los vecinos están muy	entretenidos cocinando.{Wait for input}{emote: Agreement}Yo, {pause 10}por mi parte, {pause 10}quiero probar	unas recetas nuevas,{pause 10} {catchphrase}.
+"002"	{emote: Joy}¡Hay que celebrar el Día del Pavo!	{pause 20}Llevo todo el mes esperando,	{pause 10}es de mis fiestas favoritas.	{emote: Happiness}Este año intentaré hacer algo	diferente{pause 8}.{pause 8}.{pause 8}. {pause 20}¡algo extraordinario!
+"003"	{emote: Curious}¿Cómo va todo por ahí fuera?	{pause 20}¿Está todo el mundo celebrando	la fiesta en armonía?	{emote: Happiness}Cuando acabe, {pause 10}pienso unirme al	resto de los vecinos. {pause 20}Pero por	ahora, {pause 10}voy a seguir cocinando{pause 8}.{pause 8}.{pause 8}.{pause 20}
+"004"	{emote: Distress}¡Ay! {pause 20}¡Ya debería haber empezado	a preparar el siguiente plato!{Wait for input}Perdona, {pause 10}es que quiero preparar	tantísimas cosas{pause 8}.{pause 8}.{pause 8}.
+"005"	{emote: Thought}Escucha, {pause 10}¿por casualidad no tendrás	{Article(word-dependant)}{0011-0003-0002-0000}?{Wait for input}{emote: Soft Smile}Si {lo/la/} tienes, {pause 10}me gustaría cambiar{lo/la/}	por otro ingrediente. {pause 20}Pero bueno,	{pause 10}si no {lo/la/} encuentras, {pause 10}no pasa nada.
+"006"	{emote: Thought}No puedo completar este plato	sin {Article(word-dependant)}{0011-0003-0002-0000}.	No tendrás tú algun{o/a/}, ¿no?{000f-0005-0004-0015-0028}	¡Sí, para ti!	Qué va...
+"007"	Me harías un favor enorme si me	dieras {Article(word-dependant)}{0011-0003-0002-0000}.{000f-0005-0004-0015-0028}	¡Aquí tienes!	No tengo
+"008"	{emote: Soft Smile}Entiendo.{pause 20} Pero acuérdate de mí	si te topas con lo que te he pedido.	¡Te lo cambiaré por otra cosita!
+"009"	{emote: Agreement}Claro, {pause 10}no creo que sea algo fácil	de encontrar,{pause 10} {catchphrase}.
+"010"	{emote: Curious}¿Perdona?{pause 20} ¿No me ibas a dar algo?	{pause 20}{emote: Reset}{emote: Sheepishness}Oh,{pause 8} me habré confundido.
+"011"	{emote: Sheepishness}Es un detalle, pero yo necesito	{Article(word-dependant)}{0011-0003-0002-0000}.{Wait for input}{emote: Soft Smile}Si me {lo/la/} traes, te {lo/la/} cambiaré	encantada por otro ingrediente.
+"012"	{emote: Surprise}¡Ah! {pause 20}¿Vamos a hacer el trueque?{Wait for input}	¡Gracias! {pause 20}Mira, {pause 10}a cambio, {pause 10}te doy	{Article(word-dependant)}{0011-0003-0002-0001}.
+"013"	{emote: Joy}¡Fantástico!{pause 20} ¡Por fin puedo acabar	este plato y empezar otro!	{pause 20}¡Mil gracias, cielete!
+"014"	{emote: Shyness}Oh,{pause 10} no sé si esto te interesa, {pause 10}pero{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sunny}Conozco un montón de trucos	para cocinar platos riquísimos.	¿Te cuento alguno?
+"015"	{emote: Agreement}Haz {Article(word-dependant)}{0012-0005-0002-cd00}	y añádele un poquito de zumo de	{Blue}limón{Color Reset}. {pause 20}¡Ya verás qué diferencia!
+"016"	{emote: Agreement}Mira, añade media {Blue}manzana{Color Reset} cortada	en daditos cuando prepares	{0012-0005-0002-cd00}.	{emote: Happiness}Los trozos crujientes le añaden	mucha vida al plato.
+"017"	{emote: Soft Smile}Se me ocurrió añadir miel directa	del {Blue}panal{Color Reset} cuando estaba preparando	{0012-0005-0002-cd00}.	{emote: Happiness}¡No es tan dulce como el azúcar	y el sabor mejora muchísimo!
+"018"	{emote: Soft Smile}Estaba yo concentrada preparando	{0012-0005-0002-cd00}, {pause 10}y sin 	querer le eché un poco de {Blue}vinagre{Color Reset}.	{emote: Happiness}¡Y resulta que el plato quedó	mucho más bueno!
+"019"	{emote: Soft Smile}Hice {Article(word-dependant)}{0012-0005-0002-cd00}	y descubrí que le puedes añadir	una cucharada de {Blue}mantequilla{Color Reset}.	¡Le da un sabor y una textura	única al plato! {pause 20}¡Me encanta!
+"020"	{emote: Agreement}Pues hice {0012-0005-0002-cd00} y	me dio por echarle un poquito	de leche de {Blue}coco{Color Reset}.	{emote: Happiness}Fue arriesgado, pero el resultado	ha valido mucho la pena.
+"021"	{emote: Soft Smile}Creo que iré a la plaza cuando	acabe de cocinar,{pause 8} {catchphrase}.
+"022"	{emote: Happiness}¡He probado un montón de recetas	nuevas hoy!{Wait for input}Mi objetivo es aprender a mezclar	ingredientes como lo hacen	los chefs de verdad.
+"023"	{emote: Soft Smile}Todavía quiero aprender a preparar	muchos platos distintos.{Wait for input}{emote: Agreement}Voy a comprarme varios libros	de recetas para ir probando.
+"024"	{emote: Love}¡Los ingredientes frescos son	lo mejor! {pause 20}¡Gracias,{pause 8} {Player nickname (green)}!
+"025"	{emote: Happiness}Te agradezco mucho que hayas	compartido tus ingredientes	conmigo,{pause 10} {Player nickname (green)}.
+"026"	{emote: Distress}Perdona que estemos todos de	un lado para otro, {pause 20}¡pero es que	hoy es el Día del Pavo!
+"027"	{emote: Joy}¿Te gustaría ayudarnos a preparar	la celebración del Día del Pavo?	{pause 20}¡Todo el mundo es bienvenido!
+"028"	{emote: Distress}¡Perdóname! {pause 20}Es que estoy bastante	ocupada preparando la comida para	el día de hoy.
+"029"
+"030"
+"031"	{emote: Happiness}¡Adoro el Día del Pavo!{pause 20} ¡Me divierte	mucho que cocinemos todos!
+"032"	{emote: Sleep Bubble}He comido tanto hoy que ahora	tengo mucho sueño{pause 8}.{pause 8}.{pause 8}.
+"033"	{emote: Happiness}La gente suele alegrarse cuando	come la comida que preparo.	{pause 20}¡Por eso me encanta cocinar!
+"034"	{emote: Soft Smile}¡Mis platos han salido perfectos	gracias a ti,{pause 10} {Player nickname (green)}!
+"035"	{emote: Happiness}¡No sé cómo agradecerte tu ayuda!	{pause 20}Sin ti, {pause 10}mis platos no hubieran salido	ni la mitad de buenos.{Wait for input}He compartido con los vecinos lo	que he preparado, {pause 10}{emote: Sunny}y todos me han	felicitado por el buen resultado.
+"036"	{emote: Glee}¡El Día del Pavo ha salido a	pedir de boca!{Wait for input}{emote: Happiness}Para el año que viene, {pause 10}intentaré	hacer un centro de mesa con	papel maché.
+"037"	{emote: Soft Smile}Bueno, pues ya se ha acabado el	Día del Pavo.{pause 20} ¡Ha sido un día lleno	de buena comida y mejores amigos!
+"038"	{emote: Soft Smile}¿Has disfrutado del Día del Pavo,	{pause 10}{Player nickname (green)}?{pause 20} ¡Espero que sí!
+"039"	{emote: Love}¡Adoro el Día del Pavo!{pause 20} Lo poco	que he podido probar de lo que	ha hecho {Orange}Guindo{Color Reset} estaba exquisito.
+"040"	{emote: Soft Smile}Ya estoy deseando que llegue el	Día del Pavo del año que viene.{Wait for input}¡Tengo muchas ganas de volver	a ver {Orange}Guindo{Color Reset} demostrar toda	su pericia!
+"041"	{emote: Love}¡Qué bien me lo he pasado!	Y eso que no he llegado a probar	el plato principal de {Orange}Guindo{Color Reset}.	¡Pero todos los vecinos han	compartido comida, {pause 10}así que	he acabado bien llena!
+"042"	{emote: Soft Smile}Parece que {Orange}Guindo{Color Reset} ha optado por	un menú más sano este año.{Wait for input}{emote: Happiness}¡Me alegro, {pause 10}porque lo cierto es	que he tomado mucha sopa!
+"043"	{emote: Sheepishness}Ay{pause 8}.{pause 8}.{pause 8}.{pause 20} Cuando los {0005-000c-0000} nos	ponemos a comer, {pause 10}no hay quien	nos pare. {pause 20}Creo que me he pasado{pause 8}.{pause 8}.{pause 8}.	{emote: Shyness}Aunque también te digo que,	{pause 10}si hubiera habido postre,	le habría hecho hueco, {pause 10}{emote: Happiness}je, je.
+"044"	{emote: Joy}Me lo he pasado tan bien hoy{pause 8}.{pause 8}.{pause 8}.{pause 20}	Y ese plato principal{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡Madre mía!{Wait for input}{emote: Happiness}Me gustaría aprender a mezclar	los ingredientes igual que {Orange}Guindo{Color Reset}.
+"045"	{emote: Joy}¡No soy capaz de recordar un	Día del Pavo mejor que este!{Wait for input}Todo estaba delicioso y el postre{pause 8}.{pause 8}.{pause 8}.{pause 20}	¡sencillamente exquisito! {pause 20}¡Ha sido	un festín digno de reyes!	{emote: Agreement}{Orange}Guindo{Color Reset} ha hecho algún invento con	sus recetas habituales, {pause 10}seguro{pause 8}.{pause 8}.{pause 8}.{pause 20}	{pause 20}¡Y le ha salido de rechupete!
+"046"	{emote: Surprise}¡Ah, me han dicho que has estado	ayudando a {Orange}Guindo{Color Reset} a conseguir	los ingredientes que necesitaba!{Wait for input}{emote: Reset}Y no solo eso, {pause 10}{emote: Love}sino que además le	has sugerido ingredientes para que	todo estuviera todavía más bueno.	{emote: Happiness}¡Estoy impresionada,{pause 10} {catchphrase}!
+"047"	{emote: Happiness}¡El Día del Pavo ha sido un éxito!	{pause 20}{emote: Love}Los platos de {Orange}Guindo{Color Reset} estaban tan	ricos como siempre, {pause 10}{catchphrase}.
+"048"	{emote: Sigh}Bufff{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡Estoy llenísima!{Wait for input}	{emote: Happiness}¡Te mereces un premio por haber	ayudado a {Orange}Guindo{Color Reset},{pause 10} {Player nickname (green)}!
+"049"
+"050"
+"051"	{emote: Soft Smile}A mí me encantan las {Blue}ostras{Color Reset} con	una pizquita de {Blue}limón{Color Reset}. {pause 20}¡Solo con	un chorrito es suficiente!	Esto es solo mi opinión, {pause 10}claro, {emote: Sunny}{pause 10}pero	creo que cualquier plato que lleve	ostras {pause 10}está más rico con limón.
+"052"	{emote: Soft Smile}Cuando preparo una ensalada con	{Blue}champiñones{Color Reset}, {pause 10}siempre le añado algo	para darle más textura, {pause 10}¿sabes?	El otro día probé con trocitos	de {Blue}manzana{Color Reset}{pause 8}.{pause 8}.{pause 8}.{pause 10} {emote: Sunny}¡y me quedó digna	de un programa de cocina!
+"053"	{emote: Curious}¿Has preparado alguna vez una	{Blue}ensalada de frutas{Color Reset}? {Wait for input}{emote: Soft Smile}En la mayoría	de ensaladas se echa vinagre.{Wait for input}Pero para darle el toque final	lo mejor es la miel{pause 8}.{pause 8}.{pause 8}. {pause 20}¡sobre todo si	es miel directa del {Blue}panal{Color Reset}!
+"054"	{emote: Soft Smile}Acertar con el aliño para una	ensalada con muchos ingredientes	no es nada fácil.{Wait for input}Pero yo diría que el {Blue}vinagre{Color Reset} es	el mejor amigo de la {Blue}ensalada	mixta{Color Reset}. {pause 20}¡Es superefectivo!
+"055"	{emote: Curious}Cuando haces ensaladas que llevan	{Blue}pescado{Color Reset}, {pause 10}¿a ti no te preocupa que	huelan un poco fuerte?	{emote: Soft Smile}Quizá sea obvio, {pause 10}pero si le añades	zumo de {Blue}limón{Color Reset}, {pause 10}¡puedes solucionar	ese problema y además queda rica!
+"056"	{emote: Soft Smile}Como es la época de recoger	champiñones, {pause 10}los uso bastante	en varias recetas.	No hay nada como una buena {Blue}crema	de champiñones{Color Reset} para cenar, {pause 10}sobre	todo si le añado un ingrediente{pause 8}.{pause 8}.{pause 8}.	¡Una porción de {Blue}mantequilla{Color Reset}!	La dejas deshacerse por encima	y{pause 8}.{pause 8}.{pause 8}.{pause 20} mmm{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡el resultado es ideal!
+"057"	{emote: Soft Smile}Cuando tengo {Blue}almejas{Color Reset}, {pause 10}me gusta	hacer crema y añadirle un poquito	de {Blue}mantequilla{Color Reset}.	El toque cremoso en contraste con	el sabor salado hace que la crema	salga increíblemente deliciosa.
+"058"	{emote: Love}¡Me encanta preparar sopa con	muchos tipos de {Blue}pescado{Color Reset} distintos,	{pause 8}{catchphrase}!	{emote: Soft Smile}Mi truquito especial es exprimir un	poco de {Blue}limón{Color Reset} por encima. {pause 20}¡Le da	un sabor único y un olor buenísimo!
+"059"	{emote: Curious}¿Has preparado {Blue}crema de frutas{Color Reset}	alguna vez, {pause 10}{Player nickname (green)}?{Wait for input}No solo se puede servir como	postre, {pause 10}sino que también se	considera un plato principal.	{emote: Agreement}Además, {pause 10}me he dado cuenta de que	si le añades {Blue}limón{Color Reset} antes de servirla,	{pause 10}sale aún más rica.
+"060"	{emote: Agreement}En la gastronomía del sudeste	asiático, {pause 10}es común añadir algo	dulce a las comidas picantes.	{emote: Soft Smile}El otro día intenté preparar {Blue}sopa	de bogavante{Color Reset}, que es un plato	típico de Tailandia, ¿sabes?{Wait for input}{emote: Happiness}¡Le añadí un poco de leche de {Blue}coco{Color Reset}	y ni te imaginas lo buena que salió!	{pause 20}¡Te recomiendo que la pruebes!
+"061"	{emote: Soft Smile}En los platos de {Blue}pescado{Color Reset}, es muy	común añadir o {Blue}limón{Color Reset} o {Blue}vinagre{Color Reset}	para darles un poco de acidez.	{emote: Thought}No sé qué opción es mejor{pause 8}.{pause 8}.{pause 8}.{pause 20}	pero estoy segura de que depende	del tipo de pescado que cocines.{Wait for input}{emote: Soft Smile}Nunca es mala idea usar uno	u otro cuando se prepara pescado,	¡pero es muy importante acertar!
+"062"	{emote: Soft Smile}En los platos de {Blue}pescado{Color Reset}, es muy	común añadir o {Blue}limón{Color Reset} o {Blue}vinagre{Color Reset}	para darles un poco de acidez.	{emote: Thought}No sé qué opción es mejor{pause 8}.{pause 8}.{pause 8}.{pause 20}	pero estoy segura de que depende	del tipo de pescado que cocines.{Wait for input}{emote: Soft Smile}Nunca es mala idea usar uno	u otro cuando se prepara pescado,	¡pero es muy importante acertar!
+"063"	{emote: Soft Smile}En los platos de {Blue}pescado{Color Reset}, es muy	común añadir o {Blue}limón{Color Reset} o {Blue}vinagre{Color Reset}	para darles un poco de acidez.	{emote: Thought}No sé qué opción es mejor{pause 8}.{pause 8}.{pause 8}.{pause 20}	pero estoy segura de que depende	del tipo de pescado que cocines.{Wait for input}{emote: Soft Smile}Nunca es mala idea usar uno	u otro cuando se prepara pescado,	¡pero es muy importante acertar!
+"064"	{emote: Soft Smile}En los platos de {Blue}pescado{Color Reset}, es muy	común añadir o {Blue}limón{Color Reset} o {Blue}vinagre{Color Reset}	para darles un poco de acidez.	{emote: Thought}No sé qué opción es mejor{pause 8}.{pause 8}.{pause 8}.{pause 20}	pero estoy segura de que depende	del tipo de pescado que cocines.{Wait for input}{emote: Soft Smile}Nunca es mala idea usar uno	u otro cuando se prepara pescado,	¡pero es muy importante acertar!
+"065"	{emote: Soft Smile}En los platos de {Blue}pescado{Color Reset}, es muy	común añadir o {Blue}limón{Color Reset} o {Blue}vinagre{Color Reset}	para darles un poco de acidez.	{emote: Thought}No sé qué opción es mejor{pause 8}.{pause 8}.{pause 8}.{pause 20}	pero estoy segura de que depende	del tipo de pescado que cocines.{Wait for input}{emote: Soft Smile}Nunca es mala idea usar uno	u otro cuando se prepara pescado,	¡pero es muy importante acertar!
+"066"	{emote: Soft Smile}Los pasteles de {Blue}fruta {Color Reset}son muy	sencillos de preparar.{Wait for input}Lo único que tienes que hacer es	acentuar la dulzura natural de la	fruta con un poquitito de miel.	{emote: Agreement}Y si lo haces con miel directa del	{Blue}panal{Color Reset}, {pause 10}muchísimo mejor. {pause 20}{emote: Sunny}¡Así harás	el postre ideal para el Día del Pavo!
+"067"	{emote: Soft Smile}Los pasteles de {Blue}fruta {Color Reset}son muy	sencillos de preparar.{Wait for input}Lo único que tienes que hacer es	acentuar la dulzura natural de la	fruta con un poquitito de miel.	{emote: Agreement}Y si lo haces con miel directa del	{Blue}panal{Color Reset}, {pause 10}muchísimo mejor. {pause 20}{emote: Sunny}¡Así harás	el postre ideal para el Día del Pavo!
+"068"	{emote: Soft Smile}Las tartas de fruta normales están	riquísimas, {pause 10}pero si mezclas {Blue}diversas	frutas{Color Reset}, {pause 10}¡el resultado es aún mejor!	Pero hay una diferencia{pause 8}.{pause 8}.{pause 8}.{pause 20} Para este	tipo de tartas, {pause 10}lo mejor es añadir	un toque de {Blue}limón{Color Reset}.	{emote: Sunny}Así, {pause 10}el resultado no es demasiado	dulce, {pause 10}¿sabes?
+"069"	{emote: Soft Smile}El {Blue}pastel de coco{Color Reset} es muy	sencillo de preparar.{Wait for input}Lo único que tienes que hacer es	acentuar la dulzura natural de la	fruta con un poquitito de miel.	{emote: Agreement}Y si lo haces con miel directa del	{Blue}panal{Color Reset}, {pause 10}muchísimo mejor. {pause 20}{emote: Sunny}¡Así harás	el postre ideal para el Día del Pavo!
+"070"	{emote: Soft Smile}Preparar {Blue}pastel de plátano{Color Reset} es	la mar de sencillo.{Wait for input}Lo único que tienes que hacer es	acentuar la dulzura natural de la	fruta con un poquitito de miel.	{emote: Agreement}Y si lo haces con miel directa del	{Blue}panal{Color Reset}, {pause 10}muchísimo mejor. {pause 20}{emote: Sunny}¡Así harás	el postre ideal para el Día del Pavo!
+"071"	{emote: Happiness}¡Muchos vecinos están en sus casas	preparando platos para celebrar	el Día del Pavo!	{emote: Soft Smile}A lo mejor me paso casa por casa	para que me den consejos y así	mejorar mis recetas, {pause 10}{catchphrase}.
+"072"	{emote: Daydreaming}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡Qué bien huele el pueblo!	{pause 20}{emote: Happiness}Será por los platos que se están	preparando para el Día del Pavo.	{emote: Soft Smile}Me parece que iré a visitar a unos	cuantos vecinos para intercambiar	ingredientes,{pause 10} {catchphrase}.
+"073"	{emote: Happiness}Me voy notando los chakras más	abiertos y receptivos a medida	que se acerca el Día del Pavo.	{emote: Glee}¡Será porque me encanta probar	recetas nuevas y jugar con todos	los ingredientes!
+"074"	{emote: Glee}¡{capitalized}{Town name (pink)} huele que alimenta!	{pause 20}Hoy es el Día del Pavo, {pause 10}¿sabes?{Wait for input}¡Espero que puedas quedarte	y celebrarlo con nosotros!
+"075"	{emote: Glee}¡Todo el mundo está cocinando,	pero no creas que nos hemos vuelto	locos! {pause 20}{emote: Happiness}¡Es que es el Día del Pavo!	{emote: Curious}Algunos vecinos seguro que están	muy ocupados y no hablarán mucho.	{pause 20}¡A lo mejor tú podrías ayudarlos!
+"076"	{emote: Soft Smile}¿No tienes más hambre en otoño?{Wait for input}	{emote: Thought}Muchos animales comen más en	esta época porque hibernan.	{emote: Happiness}¡Así que es el mejor momento para	celebrar el Día del Pavo! {pause 20}Además,	{pause 10}nos viene un cocinero profesional.	Lo tiene todo preparado en la plaza.	{pause 20}¡Deberías pasarte a verlo!
+"077"	{emote: Happiness}Creo que el Día del Pavo ha sido	un gran éxito. {pause 20}¡Nos lo hemos pasado	muy bien y hemos comido a placer!
+"078"	{emote: Happiness}Ya se ha acabado el Día del Pavo{pause 8}.{pause 8}.{pause 8}.{pause 20}	¡pero he aprendido nuevas técnicas	que pienso usar en mis recetas!
+"079"	{emote: Happiness}Todo el mundo ha trabajado sin	descanso para que todo saliera{pause 8}.{pause 8}.{pause 8}.{pause 20}	a pedir de boca, ¡nunca mejor dicho!	{emote: Glee}¡La comida estaba buenísima y	{Orange}Guindo{Color Reset} ha hecho un gran trabajo!
+"080"	{emote: Worry}Me da un poquito de pena no haber	podido probar nada preparado por	{Orange}Guindo{Color Reset}{pause 8}.{pause 8}.{pause 8}.	{emote: Soft Smile}Pero me lo he pasado muy bien	igualmente, {pause 10}la verdad.
+"081"	{emote: Soft Smile}Este año {Orange}Guindo{Color Reset} ha elegido un menú	más sano, {pause 10}ligero y de pequeñas	porciones.	{emote: Agreement}¡El aperitivo estaba de rechupete!
+"082"	{emote: Soft Smile}¿Te ha gustado lo que ha preparado	{Orange}Guindo{Color Reset}? {pause 20}No había mucha cantidad,	{pause 10}pero la presentación era perfecta.
+"083"	{emote: Happiness}¡Menudo Día del Pavo! {pause 20}Me alegro	mucho de haber podido probar	algo preparado por {Orange}Guindo{Color Reset}.	{emote: Sunny}¡El plato principal estaba tan bueno	que no parecía ni de verdad!
+"084"	{emote: Glee}¡Cuatro platos nos ha preparado	{Orange}Guindo{Color Reset}! {pause 20}¡Cuatro!{Wait for input}{emote: Sheepishness}Tras el plato principal estaba llena{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Sunny}¡Pero siempre dejo un huequecito	para el postre!
+"085"	{emote: Happiness}Ha sido el Día del Pavo perfecto,	{pause 10}con buena gente y buena comida.{Wait for input}	{emote: Sleepy}Esta noche dormiré como un lirón{pause 8}.{pause 8}.{pause 8}.
+"086"	{emote: Soft Smile}Me encanta el aroma que inunda	todo {capitalized}{Town name (pink)} después del	Día del Pavo.
+"087"	{emote: Happiness}¡Mmm! {pause 20}¡Mi estómago está muy	contento tras el Día del Pavo!{Wait for input}{emote: Sheepishness}Noto como si no tuviera que comer	durante días, {pause 10}je, {pause 10}je. {pause 20}{emote: Laughter}¡Pero seguro	que mañana tengo hambre otra vez!
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Joy}
-"003"	{emote: Curious}
-"004"	{emote: Distress}
-"005"	{emote: Thought}
-"006"	{emote: Thought}
-"007"	{emote: Distress}
-"008"	{emote: Soft Smile}
-"009"	{emote: Agreement}
-"010"	{emote: Curious}
-"011"	{emote: Sheepishness}
-"012"	{emote: Surprise}
-"013"	{emote: Joy}
-"014"	{emote: Shyness}
-"015"	{emote: Agreement}
-"016"	{emote: Agreement}
-"017"	{emote: Soft Smile}
-"018"	{emote: Soft Smile}
-"019"	{emote: Soft Smile}
-"020"	{emote: Agreement}
-"021"	{emote: Soft Smile}
-"022"	{emote: Happiness}
-"023"	{emote: Soft Smile}
-"024"	{emote: Love}
-"025"	{emote: Happiness}
-"026"	{emote: Distress}
-"027"	{emote: Joy}
-"028"	{emote: Soft Smile}
-"029"	
-"030"	
-"031"	{emote: Happiness}
-"032"	{emote: Sleep Bubble}
-"033"	{emote: Happiness}
-"034"	{emote: Soft Smile}
-"035"	{emote: Happiness}
-"036"	{emote: Glee}
-"037"	{emote: Soft Smile}
-"038"	{emote: Soft Smile}
-"039"	{emote: Love}
-"040"	{emote: Soft Smile}
-"041"	{emote: Love}
-"042"	{emote: Soft Smile}
-"043"	{emote: Sheepishness}
-"044"	{emote: Joy}
-"045"	{emote: Joy}
-"046"	{emote: Surprise}
-"047"	{emote: Happiness}
-"048"	{emote: Sigh}
-"049"	
-"050"	
-"051"	{emote: Soft Smile}
-"052"	{emote: Soft Smile}
-"053"	{emote: Curious}
-"054"	{emote: Soft Smile}
-"055"	{emote: Curious}
-"056"	{emote: Soft Smile}
-"057"	{emote: Soft Smile}
-"058"	{emote: Love}
-"059"	{emote: Curious}
-"060"	{emote: Agreement}
-"061"	{emote: Soft Smile}
-"062"	{emote: Soft Smile}
-"063"	{emote: Soft Smile}
-"064"	{emote: Soft Smile}
-"065"	{emote: Soft Smile}
-"066"	{emote: Soft Smile}
-"067"	{emote: Soft Smile}
-"068"	{emote: Soft Smile}
-"069"	{emote: Soft Smile}
-"070"	{emote: Soft Smile}
-"071"	{emote: Happiness}
-"072"	{emote: Daydreaming}
-"073"	{emote: Happiness}
-"074"	{emote: Glee}
-"075"	{emote: Happiness}
-"076"	{emote: Sunny}
-"077"	{emote: Happiness}
-"078"	{emote: Happiness}
-"079"	{emote: Happiness}
-"080"	Cette {Blue}fête des récoltes{Color Reset} était	formidable!{pause 10}
-"081"	{emote: Soft Smile}
-"082"	{emote: Soft Smile}
-"083"	{emote: Happiness}
-"084"	{emote: Glee}
-"085"	{emote: Happiness}
-"086"	{emote: Soft Smile}
-"087"	{emote: Happiness}
+"001"	{emote: Happiness}Pour la {Blue}fête des récoltes{Color Reset} :{pause 10} hip, hip,	hip, hourra!{pause 10} Toute la ville met la	main à la pâte!	{emote: Agreement}L'occasion rêvée de tester mes	nouvelles recettes, {catchphrase}!
+"002"	{emote: Joy}La {Blue}fête des récoltes{Color Reset}, enfin!{pause 10}	J'attends ce jour depuis le début	du mois!	{emote: Happiness}Pour fêter mon jour férié préféré,	je m'en vais mijoter du nouveau, du	succulent, du raffiné!
+"003"	{emote: Curious}Comment ça se passe?{pause 10} Les	estomacs sont à la fête comme	il se doit?	{emote: Happiness}Je rejoins les autres dès que j'ai	fini, mais pour l'instant, j'ai encore	quelques délices à mitonner...
+"004"	{emote: Distress}Oh, tant de plats à préparer et si	peu de temps!{Wait for input} Vite, vite, les	fourneaux n'attendent pas!
+"005"	{emote: Thought}Est-ce que par hasard, tu aurais	{Article(word-dependant)}{0011-0003-0002-0000} sous	la main?	{emote: Soft Smile}Ça m'arrangerait bien, mais ne te	dérange pas pour si peu, ce n'est	pas grave si tu n'en as pas.
+"006"	{emote: Thought}Sans {0011-0003-0002-0000}, inutile	d'espérer réussir cette recette...{Wait for input}{emote: Reset}	Tu n'en aurais pas, par hasard?{000f-0005-0004-0015-0028}	Si, bien sûr!	Non, désolé{/e}...
+"007"	{emote: Distress}À l'aide! {pause 30}Il me manque	{Article(word-dependant)}{0011-0003-0002-0000} pour	finir ce plat!{000f-0005-0004-0015-0028}	Tiens, il m'en reste!	Je n'en ai pas...
+"008"	{emote: Soft Smile}Je vois.{pause 10} Penses-y si tu repasses	dans le coin, je te l'échangerai	contre un autre ingrédient!
+"009"	{emote: Agreement}Je comprends, ça ne se trouve pas	sous le sabot d'un cheval,	{catchphrase}.
+"010"	{emote: Curious}Oh, tu fais du rangement dans tes	poches? {pause 20}{emote: Reset}{emote: Sheepishness}Moi qui pensais que tu	voulais me faire un cadeau...
+"011"	{emote: Sheepishness}Ta bonté ternit l'éclat du soleil,	mais ce qu'il me faut, c'est	{Article(word-dependant)}{0011-0003-0002-0000}...	{emote: Soft Smile}Bien sûr, je te donnerai quelque	chose en échange...
+"012"	{emote: Surprise}Tu veux faire un échange?{pause 10} Parfait!{Wait for input}{emote: Happiness}	Contre ça, je peux te proposer	{Article(word-dependant)}{0011-0003-0002-0001}...
+"013"	{emote: Joy}Super!{pause 10} Maintenant, plus rien ne	peut m'empêcher de réussir ce	plat!{pause 10} Merci beaucoup!
+"014"	{emote: Shyness}Tu vas peut-être me dire que tu	t'en fiches complètement, mais...{Wait for input}{emote: Sunny}J'ai découvert l'ingrédient idéal	pour transcender cette recette!{pause 10}	Tu veux connaître mon secret?
+"015"	{emote: Agreement}Une larme de jus de {Blue}citron{Color Reset} dans	{000e-0001-0000}{0012-0005-0002-cd00}, c'est	le succès garanti!
+"016"	{emote: Agreement}Pour {000e-0001-0000}{0012-0005-0002-cd00},	il faut ajouter quelques tranches de	{Blue}pomme{Color Reset}...	{emote: Soft Smile}Ça donne un côté croustillant	absolument irrésistible!{pause 10} Tu m'en	diras des nouvelles!
+"017"	{emote: Soft Smile}La dernière fois que j'ai fait	{Article(word-dependant)}{0012-0005-0002-cd00}, j'y ai	versé du {Blue}miel{Color Reset} fraîchement recueilli...	Ça adoucit sans rendre le tout trop	sucré pour autant!{pause 10} C'est une	découverte majeure, crois-moi!
+"018"	{emote: Soft Smile}L'autre jour, je préparais {Article(word-dependant)}	{0012-0005-0002-cd00}, et patatra!{pause 10}	J'y ai renversé du {Blue}vinaigre{Color Reset}...	{emote: Happiness}Eh bien, crois-moi si tu veux, c'était	un régal!{pause 10} Les grandes découvertes	sont parfois le fruit du hasard...
+"019"	{emote: Soft Smile}Certaines fines bouches trouvent	que {000e-0001-0000}{0012-0005-0002-cd00}	est parfois un peu fade...	{emote: Happiness}Ajoute une cuillerée de {Blue}beurre{Color Reset}, et	même les palais les plus délicats	ne trouveront rien à redire!
+"020"	{emote: Agreement}Avec {000e-0001-0000}{0012-0005-0002-cd00},	tout l'art réside dans l'équilibre	délicat des épices...	Mon secret?{pause 10} Ajouter un peu de lait	de {Blue}coco{Color Reset} :{pause 10} la touche de douceur qui	fait toute la différence!
+"021"	{emote: Soft Smile}Dès que j'en aurai fini avec mes	casseroles, je file sur la place de	la ville, {catchphrase}!
+"022"	{emote: Happiness}Recettes expérimentales et plats	inédits, cette journée est à placer	sous le signe de la nouveauté!{Wait for input}Pour devenir un vrai cordon bleu,	il faut savoir sortir des sentiers	battus de la cuisine à la papa!
+"023"	{emote: Soft Smile}Je viens de terminer un livre sur la	cuisine exotique... {pause 20}{emote: Agreement}J'ai encore tant	de recettes à expérimenter!
+"024"	{emote: Love}Merci, {Player nickname (green)}!{pause 10} Avec des	ingrédients frais comme celui-là,	je ne peux pas rater ma recette!
+"025"	{emote: Happiness}Merci encore de m'avoir dépannée,	{Player nickname (green)}!
+"026"	{emote: Distress}Excuse-moi si je suis trop occupée	à jongler avec les casseroles, mais	c'est ça, la {Blue}fête des récoltes{Color Reset}!
+"027"	{emote: Joy}N'hésite pas à nous donner un coup	de main pour préparer la {Blue}fête des	récoltes{Color Reset}, si tu veux!
+"028"	{emote: Soft Smile}Désolée, j'ai plein de choses sur le	feu, et c'est le cas de le dire, hi hi!
+"029"
+"030"
+"031"	{emote: Happiness}Une louche d'amitié, une pincée de	rigolade, un doigt de bonne	humeur...	C'est la recette pour une {Blue}fête des	récoltes{Color Reset} réussie, hi hi!
+"032"	{emote: Sleep Bubble}J'ai mangé comme quatre	aujourd'hui... {pause 10}Je vais dormir comme	une souche!
+"033"	{emote: Happiness}J'adore cuisiner pour mes amis et	les voir déguster mes bons petits	plats le sourire aux lèvres!
+"034"	{emote: Soft Smile}Ma cuisine a été un franc succès	grâce à toi, {Player nickname (green)}!
+"035"	{emote: Happiness}Heureusement que tu étais là :{pause 10} sans	ton aide, je ne donnais pas cher de	ma bonne chère!	Mais mes petits plats ont fait un	triomphe!{pause 10} Merci beaucoup!
+"036"	{emote: Glee}La {Blue}fête des récoltes{Color Reset} est un succès!{pause 10}	L'an prochain, je ferai la déco :{pause 10}	papier mâché à tous les étages!
+"037"	{emote: Soft Smile}La bonne humeur s'est invitée à la	table cette année!{pause 10} C'était une {Blue}fête	des récoltes{Color Reset} d'anthologie!
+"038"	{emote: Soft Smile}J'espère que tu as autant aimé la	{Blue}fête des récoltes{Color Reset} que moi,	{Player nickname (green)}!
+"039"	{emote: Love}{Orange}Dindou{Color Reset} s'est surpassé cette année!{pause 10}	À chaque {Blue}fête des récoltes{Color Reset}, ses	plats sont un peu meilleurs!
+"040"	{emote: Soft Smile}Vivement la prochaine {Blue}fête des	récoltes{Color Reset}!{pause 10} J'ai hâte de voir ce que	{Orange}Dindou{Color Reset} sortira de sa musette!
+"041"	{emote: Love}{Orange}Dindou{Color Reset} s'est surpassé cette année!{pause 10}	À chaque {Blue}fête des récoltes{Color Reset}, ses	plats sont un peu meilleurs!
+"042"	{emote: Soft Smile}{Orange}Dindou{Color Reset} s'est essayé à la cuisine	santé cette année, ça change!
+"043"	{emote: Sheepishness}Oh...{pause 10} Je crois que j'ai trop mangé...	{Wait for input}{emote: Shyness}Au fait, il reste du dessert?
+"044"	{emote: Joy}On s'est amusés comme des fous	pendant la {Blue}fête des récoltes{Color Reset}!{pause 10} Et	ce plat principal{pause 8}.{pause 8}.{pause 8}.{pause 8} Miam!	{emote: Happiness}Un jour, il faudra que {Orange}Dindou{Color Reset} me	révèle ses secrets...
+"045"	{emote: Joy}C'est la meilleure {Blue}fête des récoltes{Color Reset}	de ma vie!{pause 10} Tout était délicieux, et	le dessert... {pause 10}Il n'y a pas de mots!	{emote: Agreement}Je ne sais pas ce que {Orange}Dindou{Color Reset} a mis	dedans, mais c'était une idée de	génie!
+"046"	{emote: Surprise}Il paraît que tu as aidé {Orange}Dindou{Color Reset} à	réunir les ingrédients dont il avait	besoin?	{emote: Reset}Et qu'au passage, tu lui as soufflé	quelques idées pour relever ses	recettes habituelles?	{emote: Happiness}Mes compliments, {catchphrase}!
+"047"	{emote: Happiness}La {Blue}fête des récoltes{Color Reset} était réussie!{pause 20}{emote: Love}	Chacun des quatre plats de {Orange}Dindou{Color Reset}	était meilleur que le précédent!
+"048"	{emote: Sigh}Pfiou{pause 8}.{pause 8}.{pause 8}.{pause 20} Je ne peux plus rien avaler!{Wait for input}{emote: Happiness}	Tu as fait du joli travail aux côtés	de {Orange}Dindou{Color Reset}, {Player nickname (green)}!
+"049"
+"050"
+"051"	{emote: Soft Smile}Ne jamais oublier le petit filet de	jus de {Blue}citron{Color Reset} sur les {Blue}huîtres{Color Reset}... {pause 10}À	peine un soupçon suffit!	Bien sûr, tous les goûts sont dans la	nature, mais pour moi, où il y a des	huîtres, il faut qu'il y ait du citron!
+"052"	{emote: Soft Smile}L'ennui avec les {Blue}champignons{Color Reset} en	salade, c'est que ça manque	souvent de croquant...	Pour remédier à ça, j'ai eu l'idée d'y	ajouter quelques tranches de	{Blue}pommes{Color Reset}... {pause 10}C'était un vrai régal!
+"053"	{emote: Curious}Tu as déjà fait une {Blue}salade	fraîcheur{Color Reset}?{pause 10} Ça n'a rien de sorcier,	mais il y a une astuce...	Remplace le vinaigre par du {Blue}miel{Color Reset} 	fraîchement recueilli!{pause 10} Tu verras,	c'est divin!
+"054"	{emote: Soft Smile}La vinaigrette, c'est tout un art... {pause 10}Et	pour la {Blue}salade terre et mer{Color Reset}, c'est	particulièrement délicat.	C'est pourquoi je ne me sépare	jamais de mon fidèle {Blue}vinaigre{Color Reset},	le meilleur ami des salades!
+"055"	{emote: Curious}Tu trouves que tes salades	contenant du {Blue}poisson{Color Reset} sentent	un peu trop la mer{pause 8}.{pause 8}.{pause 8}.{pause 8}?	{emote: Soft Smile}Il suffit d'y ajouter un peu de jus	de {Blue}citron{Color Reset}!{pause 10} Tu verras, ça change	tout!
+"056"	{emote: Soft Smile}C'est la saison des champignons,	alors je les cuisine à toutes les	sauces!	En ce moment, je me spécialise	dans la {Blue}crème de champignon{Color Reset}.{pause 10} Avec	un peu de {Blue}beurre{Color Reset}, c'est exquis!
+"057"	{emote: Soft Smile}En revenant de la plage, j'adore me	mijoter une soupe de {Blue}coquillages{Color Reset}	avec ceux que j'ai ramassés.	Le secret, c'est d'ajouter un peu de	{Blue}beurre{Color Reset} :{pause 10} ça donne un côté crémeux	et salé tout simplement délicieux!
+"058"	{emote: Love}Une de mes spécialités, c'est la	{Blue}soupe du pêcheur{Color Reset}...{pause 10} Je ne la rate	jamais, {catchphrase}!	{emote: Soft Smile}Mon truc, c'est d'ajouter un peu de	jus de {Blue}citron{Color Reset}, histoire de relever la	saveur et d'améliorer le fumet!
+"059"	{emote: Curious}Tu connais la {Blue}soupe fruitée{Color Reset}?{pause 10} Ce	n'est pas forcément un dessert, ça	peut faire office de soupe classique.	{emote: Agreement}Mais en tout cas, il faut y ajouter du	jus de {Blue}citron{Color Reset} :{pause 10} il n'y a rien de mieux	pour conserver la fraîcheur!
+"060"	{emote: Agreement}Une touche de sucré dans les plats	épicés, c'est la marque de fabrique	de la cuisine d'Asie du Sud-Est.	{emote: Soft Smile}J'y repensais l'autre jour, alors que	je venais de pêcher un {Blue}homard{Color Reset} et	que je comptais le faire en {Blue}soupe{Color Reset}...	{emote: Happiness}J'y ai ajouté un peu de lait de {Blue}coco{Color Reset}.	C'était un délice, la quintessence	des saveurs aigres-douces!
+"061"	{emote: Soft Smile}La règle d'or avec le poisson, c'est	l'assaisonnement :{pause 10} hors le {Blue}citron{Color Reset} ou	le {Blue}vinaigre{Color Reset}, point de salut!	L'un ou l'autre, tout dépend de la	recette!
+"062"	{emote: Soft Smile}La règle d'or avec le poisson, c'est	l'assaisonnement :{pause 10} hors le {Blue}citron{Color Reset} ou	le {Blue}vinaigre{Color Reset}, point de salut!	{emote: Thought}L'un ou l'autre, tout dépend de la	recette!
+"063"	{emote: Soft Smile}La règle d'or avec le poisson, c'est	l'assaisonnement :{pause 10} hors le {Blue}citron{Color Reset} ou	le {Blue}vinaigre{Color Reset}, point de salut!	{emote: Thought}L'un ou l'autre, tout dépend de la	recette!
+"064"	{emote: Soft Smile}La règle d'or avec le poisson, c'est	l'assaisonnement :{pause 10} hors le {Blue}citron{Color Reset} ou	le {Blue}vinaigre{Color Reset}, point de salut!	{emote: Thought}L'un ou l'autre, tout dépend de la	recette!
+"065"	{emote: Soft Smile}La règle d'or avec le poisson, c'est	l'assaisonnement :{pause 10} hors le {Blue}citron{Color Reset} ou	le {Blue}vinaigre{Color Reset}, point de salut!	{emote: Thought}L'un ou l'autre, tout dépend de la	recette!
+"066"	{emote: Soft Smile}J'ai une astuce imparable pour	la {Blue}tarte aux pommes {Color Reset}:{pause 10} le {Blue}miel{Color Reset}!{pause 10}	Fraîchement recueilli, ça va de soi!	{emote: Agreement}Ça relève la saveur sucrée naturelle	des fruits. {pause 20}{emote: Happiness}On ne fait pas meilleur	dessert pour la {Blue}fête des récoltes{Color Reset}!
+"067"	{emote: Soft Smile}J'ai une astuce imparable pour	la {Blue}tarte à la cerise{Color Reset} :{pause 10} le {Blue}miel{Color Reset}!{pause 10}	Fraîchement recueilli, ça va de soi!	{emote: Agreement}Ça relève la saveur sucrée naturelle	des fruits. {pause 20}{emote: Happiness}On ne fait pas meilleur	dessert pour la {Blue}fête des récoltes{Color Reset}!
+"068"	{emote: Soft Smile}Grâce à tous les {Blue}fruits{Color Reset} qui entrent	dans sa composition, la tourte aux	fruits est un vrai régal.	Il faut juste penser à ajouter du jus	de {Blue}citron{Color Reset} pour que ça ne soit pas	trop sucré. {pause 10}Mais après{pause 10}.{pause 10}.{pause 10}. {pause 10}{emote: Sunny}Miam!
+"069"	{emote: Soft Smile}J'ai une astuce imparable pour	le {Blue}gâteau coco{Color Reset} :{pause 10} le {Blue}miel{Color Reset}!{pause 10} Extrait	des ruches de la ville, ça va de soi!	{emote: Agreement}Ça relève la saveur sucrée naturelle	des fruits. {pause 20}{emote: Happiness}On ne fait pas meilleur	dessert pour la {Blue}fête des récoltes{Color Reset}!
+"070"	{emote: Soft Smile}J'ai une astuce imparable pour la	{Blue}tarte à la banane {Color Reset}:{pause 10} le {Blue}miel{Color Reset}!{pause 10} Extrait	des ruches de la ville, ça va de soi!	{emote: Agreement}Ça relève la saveur sucrée naturelle	des fruits. {pause 20}{emote: Happiness}On ne fait pas meilleur	dessert pour la {Blue}fête des récoltes{Color Reset}!
+"071"	{emote: Happiness}Toute la ville est aux fourneaux	aujourd'hui, ou presque!{pause 10} Normal,	c'est la {Blue}fête des récoltes{Color Reset}!	Moi, je m'en vais récolter{pause 10}.{pause 10}.{pause 10}. {pause 10}des	conseils de cuisine en allant rendre	visite aux uns et aux autres!
+"072"	{emote: Daydreaming}Hmm...{pause 10} Ça sent drôlement bon!{pause 10} La	{Blue}fête des récoltes{Color Reset} s'annonce	pantagruélique, {catchphrase}!	{emote: Soft Smile}Je vais passer chez quelques-uns de	nos cuistots pour voir si je peux	échanger quelques ingrédients...
+"073"	{emote: Happiness}Moi qui adore tester de nouvelles	recettes, la {Blue}fête des récoltes{Color Reset} me	met toujours d'humeur joyeuse!
+"074"	{emote: Glee}Tu sens ce délicieux fumet qui	embaume tout {Town name (pink)}?{pause 10} C'est	l'odeur de la {Blue}fête des récoltes{Color Reset}!
+"075"	{emote: Happiness}Tu te demandes pourquoi tout le	monde cuisine?{pause 10} C'est parce que	c'est la {Blue}fête des récoltes{Color Reset}, pardi!{Wait for input}Les habitants n'auront peut-être	pas le temps de bavarder, mais ils	ne refuseront pas un coup de main!
+"076"	{emote: Sunny}Ah, l'automne!{pause 10} Le plaisir simple des	bons repas fumants dégustés entre	amis bien à l'abri du froid!	La saison idéale pour organiser la	{Blue}fête des récoltes{Color Reset}!{pause 10} Et cette année,	en plus, on a un invité de marque!	Un cuistot professionnel qui a	installé tout son attirail sur la	place!{pause 10} Tu devrais aller voir!
+"077"	{emote: Happiness}Comme d'habitude, la {Blue}fête des	récoltes{Color Reset} était un succès! {pause 10}En plus,	la bonne humeur était au menu!
+"078"	{emote: Happiness}La {Blue}fête des récoltes{Color Reset} est finie, mais	la moisson a été bonne :{pause 10} j'ai appris	plein de nouvelles techniques, hi hi!
+"079"	{emote: Happiness}Tout le monde s'est plié en quatre	pour la {Blue}fête des récoltes{Color Reset}!{pause 10} Et	{Orange}Dindou{Color Reset} était très inspiré!
+"080"	Cette {Blue}fête des récoltes{Color Reset} était	formidable!{pause 10} Seul bémol :{pause 10} je n'ai pas	pu goûter aux plats de {Orange}Dindou{Color Reset}...
+"081"	{emote: Soft Smile}{Orange}Dindou{Color Reset} a joué la carte des petites	portions et de la cuisine saine, cette	année.	Et ce n'est pas moi qui m'en	plaindrai :{pause 10} cette entrée était tout	simplement délicieuse!
+"082"	{emote: Soft Smile}Tu as goûté aux plats de {Orange}Dindou{Color Reset}?{pause 10}	C'était un peu frugal, mais la	présentation était très soignée.
+"083"	{emote: Happiness}On s'est drôlement bien amusés!{pause 10} Et	{Orange}Dindou {Color Reset}n'a pas failli à sa réputation,	le plat principal était un vrai régal!
+"084"	{emote: Glee}{Orange}Dindou{Color Reset} s'est surpassé, son menu	était un vrai festin! {pause 20}{emote: Shyness}J'avais le	ventre plein après le plat principal...	{emote: Sunny}Mais je ne voulais pas lui faire	l'affront de repousser son dessert...{pause 10}	Ç'aurait été impoli, hi hi!
+"085"	{emote: Happiness}De la bonne nourriture, des bons	amis...{Wait for input} {emote: Sleepy}Plus qu'à faire un bon dodo	pour parfaire cette bonne journée!
+"086"	{emote: Soft Smile}Un de mes petits plaisirs après la	{Blue}fête des récoltes{Color Reset}...{Wait for input}... c'est de déambuler en ville en	humant à pleins poumons les bonnes	odeurs qui flottent dans l'air!
+"087"	{emote: Happiness}Hmm... {pause 10}Mon estomac était à la fête	aujourd'hui!{pause 20} {emote: Sheepishness}J'ai assez mangé pour	deux jours!

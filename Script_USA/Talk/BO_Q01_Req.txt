@@ -1,81 +1,81 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	I think someone's favorite bug tells	you a lot about that person.{pause 20}
-"003"	{emote: Worry}
-"004"	{emote: Love}
-"005"	{emote: Curious}
-"006"	{emote: Curious}
-"007"	{emote: Thought}
-"008"	{emote: Agreement}
-"009"	{emote: Curious}
-"010"	{emote: Worry}
-"011"	Ah, it's the best time of year.{pause 20}
-"012"	I heard a rumor that you come from	a fishing family.{pause 20}
-"013"	{emote: Joy}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Joy}
-"017"	{emote: Joy}
-"018"	{emote: Sigh}
-"019"	{emote: Worry}
-"020"	{emote: Glee}
-"021"	{emote: Glee}
-"022"	{emote: Glee}
-"023"	{emote: Joy}
-"024"	{emote: Resigned}
-"025"	{emote: Worry}
-"026"	{emote: Worry}
+"001"	{emote: Happiness}You can always tell the season by	what bugs are around.{pause 20} Right now	it's {0011-0003-0002-0000} season.	{emote: Curious}Since we're buddies,{pause 8} would you	mind catching one for me,	{Player nickname (green)}?{pause 20}{emote: Joy} I'd really appreciate it!{000f-0005-0004-0015-0028}	No problem!	No can do.
+"002"	I think someone's favorite bug tells	you a lot about that person.{pause 20}	{emote: Curious}So what's your favorite bug?	{emote: Love}Me,{pause 20} I'm totally obsessed with {000e-0001-0000}	{0011-0003-0002-0000} right now.{Wait for input}	It's sooo cool!	{emote: Worry}But I'm not having any luck catching	one,{pause 8} so do you think you could	help me get one?{000f-0005-0004-0015-0028}	I'm on it!	Sorry, but I can't.
+"003"	{emote: Worry}I've been trying and trying to catch	{Article(word-dependant)}{0011-0003-0002-0000},{pause 20} {emote: Sadness}but	I'm having no luck at all!	If only catching bugs was as easy as	eating {0005-0013-0002-0000}, I'd have	no problem.	{emote: Inspired}{0007-000a-0000}Wait!{pause 8} I have an idea!{pause 20} You're good	at catching bugs, {Player nickname (green)}.{Wait for input}{emote: Happiness}So would you catch {Article(word-dependant)}	{0011-0003-0002-0000} for	me?{pause 8} Please? {000f-0005-0004-0015-0028}	Sure!	Can't do it.
+"004"	{emote: Love}The other day, I saw the coolest	{0011-0003-0002-0000}.{pause 20} Aw, man, it	was sooo cool!	{emote: Sigh}I tried to get its attention, but it	totally ignored me and flew away.{Wait for input}{emote: Happiness}Say, {Player nickname (green)},{pause 20} you're good at	catching bugs.{pause 20} Will you catch {Article(word-dependant)}	{0011-0003-0002-0000} for me?{000f-0005-0004-0015-0028}	Leave it to me!	No can do!
+"005"	{emote: Curious}You're good at catching bugs, aren't	you, {Player nickname (green)}?{Wait for input} Then do you think	you could catch a {Blue}butterfly {Color Reset}for me?	{emote: Distress}I read something about the	"butterfly effect,"{pause 20} and I'm all	confused about what that means.	{emote: Agreement}The only way to get to the bottom	of this is to get a {Blue}butterfly {Color Reset}and	stare at it.	Anyway, will you help me out by	catching one for me?{pause 20} Any kind will	do, {pause 8}{catchphrase}.{000f-0005-0004-0015-0028}	Sure.	I can't help you.
+"006"	{emote: Curious}You're good at catching bugs, aren't	you, {Player nickname (green)}?{Wait for input} Do you think you	could catch a {Blue}horned beetle {Color Reset}for me?	{emote: Glee}Beetles are the coolest bugs 'cause	they're cute AND tough.{pause 20}{pause 20}{emote: Reset} But they	have a million legs, so they're fast.	{emote: Agreement}Since you're so nimble, would you	mind catching a {Blue}horned beetle {Color Reset}for	me?{pause 20} Any kind is fine with me!{000f-0005-0004-0015-0028}	I'm on it!	You're on your own.
+"007"	{emote: Thought}I've always wondered{pause 20} if a {Blue}stag	beetle{Color Reset}'s jaws can cut paper.{Wait for input}{emote: Sigh} Too	bad I'm so rotten at catching bugs.	{emote: Inspired}Wait a sec!{pause 20} You're good at catching	bugs, {Player nickname (green)}!{pause 20}{emote: Curious} Would you mind	catching a {Blue}stag beetle {Color Reset}for me?	{emote: Happiness}Any kind is fine with me.{pause 20} So will	you help me out, {catchphrase}?{000f-0005-0004-0015-0028}	Sure!	No can do!
+"008"	{emote: Agreement}I have a great idea for how to stay	warm next winter.{pause 20} I'm going to	record a {Blue}cicada {Color Reset}chirping!	{emote: Happiness}And then I'll listen to the recording	to{pause 20} remind me of summer!{Wait for input} {emote: Thought}But first,	I need a {Blue}cicada{Color Reset}.	Any type of {Blue}cicada {Color Reset}will work.{pause 20}{emote: Curious} Do	you think you could help catch one?{pause 20}	I'll be your best bud, {pause 8}{catchphrase}.{000f-0005-0004-0015-0028}	Sure.	Can't help you.
+"009"	{emote: Curious}Do you think dragonflies spit tiny	flames?{pause 20} That's something I've	always wondered.	{emote: Sigh}But I guess I'll never know,{pause 20} because	I'm just no good at catching bugs!	They're so fast, and I'm so slow!	{emote: Inspired}Wait a sec!{pause 20} You're good at catching	bugs, {Player nickname (green)}!{pause 20}{emote: Curious} Would you mind	catching a {Blue}dragonfly {Color Reset}for me?	{emote: Distress}Please say you'll help me!{pause 20}	I'm counting on you!{pause 20} Any kind of	{Blue}dragonfly {Color Reset}will do, {pause 8}{catchphrase}!{000f-0005-0004-0015-0028}	I'll help you.	You're on your own.
+"010"	{emote: Worry}I can't stop thinking about this one	{0011-0003-0002-0000} that got	away,{pause 8} {catchphrase}.{pause 40} I really miss it!	{emote: Inspired}{0007-000a-0000}I know!{pause 8} You're good at fishing,	{Player nickname (green)}!{pause 20} {emote: Happiness}Will you catch another	{0011-0003-0002-0000} for me? {000f-0005-0004-0015-0028}	Sure!	I can't.
+"011"	Ah, it's the best time of year.{pause 20}	{emote: Love}It's {0011-0003-0002-0000} season,{pause 8}	{catchphrase}!	{emote: Happiness}What do you say to catching {Article(word-dependant)}	{0011-0003-0002-0000} for me,	{Player nickname (green)}?{000f-0005-0004-0015-0028}	Sure.	No way!
+"012"	I heard a rumor that you come from	a fishing family.{pause 20}{Wait for input} {emote: Happiness}You're such a	natural at fishing, I can believe it.	{emote: Joy}Anyway,{pause 8} since you're so good at	fishing,{pause 8} I was hoping you could catch	me {Article(word-dependant)}{0011-0003-0002-0000}.	{emote: Distress}I know it's a lot to ask, but will you	do this for me?{pause 20} I'd be eternally	grateful,{pause 8} {catchphrase}!{000f-0005-0004-0015-0028}	Sure.	I can't.
+"013"	{emote: Joy}Today's fight is shaping up to be	an epic bout!{pause 20} In one corner,{pause 8} we have	{Player name} from {Town name (pink)}.	And in the other corner,{pause 8} we have	{Article(word-dependant)}{0011-0003-0002-0000} from,	{pause 20}uh,{pause 8} the water.{pause 20} Who will triumph?	{emote: Happiness}My money's on you, {Player nickname (green)}!{pause 40} Get	that {0011-0003-0002-0000}, and	show it who's boss!{000f-0005-0004-0015-0028}	I'm on it!	I can't.
+"014"	{emote: Happiness}I saw this report on TV about how{pause 20}	fishing is good for you{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Curious}Apparently	"staying active" is important.	{emote: Glee}But you know what else is good	for your health?{pause 20} Sharing your fish	with your friends!	{emote: Shyness}{pause 8}.{pause 8}.{pause 8}.{pause 20}That last part wasn't in the	report,{pause 20} but I think it's still true.{pause 20}	Which brings me to my main point...	Would you catch a {Blue}river fish{Color Reset}{pause 20} for me,	{Player nickname (green)}?{pause 20} Any kind would be	just fine!{000f-0005-0004-0015-0028}	No problem!	I can't.
+"015"	{emote: Happiness}I've been all obsessed with catching{pause 8}	{Blue}ocean fish {Color Reset}recently.{pause 20} The thing is,{pause 8}{emote: Sigh} I'm	pretty terrible at it.	{emote: Glee}That's why I was hoping you could	help me out. You're great at fishing.{Wait for input}{emote: Shyness}Could you please bring me an {Blue}ocean	fish{Color Reset}, {Player nickname (green)}?{pause 40} Any kind will do! {000f-0005-0004-0015-0028}	You got it!	No can do!
+"016"	{emote: Joy}Awesome!{pause 40} Well, go work your	magic,{pause 8} {catchphrase}!
+"017"	{emote: Joy}Sweet!{pause 20} Good luck, {Player nickname (green)}!{pause 20}	Not that you'll need it!
+"018"	{emote: Sigh}Oh.{pause 20} OK.{pause 40} I guess you must be busy,{pause 8}	{catchphrase}.
+"019"	{emote: Worry}Oh, OK.{pause 40} Sorry if I came off as	too pushy there.
+"020"	{emote: Glee}Woohoo!{pause 20} This is gonna be so	great,{pause 8} {catchphrase}!
+"021"	{emote: Glee}Seriously?!{pause 40} Yessss!{pause 20} I knew I could	count on you,{pause 8} {catchphrase}!
+"022"	{emote: Glee}Yessss!{pause 20} Well, I'll just be waiting	patiently!
+"023"	{emote: Joy}Aw, man!{pause 8} You're the best,	{Player nickname (green)}!{pause 40} Thanks, {pause 8}{catchphrase}!
+"024"	{emote: Resigned}Really?{pause 40} What a bummer.
+"025"	{emote: Worry}Aw, man.{pause 40} I was really counting on	you, {Player nickname (green)}.
+"026"	{emote: Worry}Was I wrong?{pause 40} Are you secretly	really bad at catching stuff,	{Player nickname (green)}?
 == 1 ==
-"001"	{emote: Happiness}
-"002"	Creo que se puede saber mucho de	una persona por su bicho favorito.{pause 20}
-"003"	{emote: Worry}
-"004"	{emote: Love}
-"005"	{emote: Curious}
-"006"	{emote: Curious}
-"007"	{emote: Thought}
-"008"	{emote: Agreement}
-"009"	{emote: Curious}
-"010"	{emote: Worry}
-"011"	Ah, es la mejor época del año.{pause 20}!
-"012"	Corre el rumor de que vienes de una	familia de pescadores.{pause 20}!
-"013"	{emote: Joy}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Joy}
-"017"	{emote: Joy}
-"018"	{emote: Sigh}
-"019"	{emote: Worry}
-"020"	{emote: Glee}
-"021"	{emote: Glee}
-"022"	{emote: Glee}
-"023"	{emote: Joy}
-"024"	{emote: Resigned}
-"025"	{emote: Worry}
-"026"	{emote: Worry}
+"001"	{emote: Happiness}Siempre sabes qué estación es por	los bichos que hay.{pause 20} ¡Ahora sí puedes	cazar {Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}!	{emote: Curious}Como somos amiguetes,{pause 8} ¿no	podrías atraparme un{o/a/}, {Player nickname (green)}?{pause 20}{emote: Joy}	¡Te lo agradecería muchísimo!{000f-0005-0004-0015-0028}	¡Sin problema!	No puedo
+"002"	Creo que se puede saber mucho de	una persona por su bicho favorito.{pause 20}	{emote: Curious}¿Cuál es tu bicho favorito?	{emote: Love}A mí{pause 20} últimamente me obsesiona	{000e-0001-0000}{Blue}{0011-0003-0002-0000}{Color Reset}.{Wait for input}	¡Es una pasada!	{emote: Worry}Pero no estoy teniendo nada de	suerte intentando atrapar un{o/a/}.{pause 8}	¿Me echarías tú un cable?{000f-0005-0004-0015-0028}	¡Yo te ayudo!	Lo siento, no puedo
+"003"	{emote: Worry}Llevo ya la tira intentando atrapar	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset} como	sea,{pause 20}{emote: Sadness} ¡pero no lo he conseguido!	¡Ojalá cazar bichos fuera tan fácil	como comer {0005-0013-0002-0000}!	Entonces no me costaría nada.	{emote: Inspired}{0007-000a-0000}¡Espera!{pause 8} ¡Tengo una idea!{pause 20} A ti se te	da bien cazar bichos, {Player nickname (green)}.{Wait for input}{emote: Happiness}¿Por qué no me cazas tú {Article(word-dependant)}	{Blue}{0011-0003-0002-0000}{Color Reset}?{pause 8}	¡Porfa!{000f-0005-0004-0015-0028}	¡Claro!	No puedo
+"004"	{emote: Love}El otro día vi una auténtica pasada	de {Blue}{0011-0003-0002-0000}{Color Reset}.{pause 20} ¡Ni te	imaginas lo guay que era!	{emote: Sigh}Intenté atraer su atención, pero	no me hizo ni caso y se fue volando.{Wait for input}{emote: Happiness}Oye, {Player nickname (green)},{pause 20} a ti se te da bien	cazar bichos.{pause 20} ¿Podrías atraparme	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}?{000f-0005-0004-0015-0028}	¡Yo me ocuparé!	¡No puedo!
+"005"	{emote: Curious}A ti se te da bien cazar bichos,	¿no, {Player nickname (green)}?{Wait for input} Entonces,	¿me capturarías una {Blue}mariposa{Color Reset}?	{emote: Distress}He leído algo sobre el "efecto	mariposa" y,{pause 20} la verdad, no he	entendido mucho.	{emote: Agreement}La única forma de llegar al fondo	de todo eso es conseguir una	{Blue}mariposa {Color Reset}y mirarla fijamente.	Bueno, ¿podrías ayudarme y	atraparme tú una?{pause 20} Cualquiera	me servirá, {pause 8}{catchphrase}.{000f-0005-0004-0015-0028}	¡Claro!	No puedo ayudarte
+"006"	{emote: Curious}A ti se te da bien atrapar bichos,	¿verdad, {Player nickname (green)}?{Wait for input} ¿Me podrías	atrapar un {Blue}escarabajo astado{Color Reset}?	{emote: Glee}Los escarabajos molan mucho	porque no solo aguantan lo que sea,{pause 20}{pause 20}{emote: Reset}	sino que además son rápidos.	{emote: Agreement}Lo malo es que yo no soy rápido,	así que... ¿podrías cazarme un	{Blue}escarabajo astado{Color Reset}?{pause 20} ¡Uno cualquiera!{000f-0005-0004-0015-0028}	¡Yo me ocupo!	Apáñate tú solo
+"007"	{emote: Thought}Me gustaría ver si{pause 20} las mandíbulas de	un {Blue}escarabajo ciervo{Color Reset} pueden cortar	papel o no.{Wait for input}{emote: Sigh} Pero no sé cazar bichos.	{emote: Inspired}¡Un momento!{pause 20} ¡Eso a ti se te	da bien, {Player nickname (green)}!{pause 20}{emote: Curious} ¿Podrías	cazarme un {Blue}escarabajo ciervo{Color Reset}?	{emote: Happiness}Me vale de cualquier tipo que	encuentres.{pause 20} Bueno, ¿entonces	me ayudas o no, {catchphrase}?{000f-0005-0004-0015-0028}	¡Claro que te ayudo!	Va a ser que no...
+"008"	{emote: Agreement}Tengo una gran idea para pasar el	próximo invierno.{pause 20} ¡Voy a grabar	a una {Blue}cigarra {Color Reset}cantando!	{emote: Happiness}Y al oír la grabación, ¡pensaré en	el verano!{Wait for input} {emote: Thought}Es un buen plan, pero	antes necesito una {Blue}cigarra{Color Reset}.	Me vale cualquier tipo de {Blue}cigarra{Color Reset}.{pause 20}{emote: Curious}	¿Podrías atraparme una?{pause 20} Porfa,	¿lo harías por mí, {pause 8}{catchphrase}?{000f-0005-0004-0015-0028}	Claro	No puedo ayudarte
+"009"	{emote: Curious}¿Crees que las libélulas despegan	como los helicópteros?{pause 20} Es algo	que siempre me he preguntado.	{emote: Sigh}Pero supongo que nunca lo sabré,{pause 20}	¡porque soy muy malo cazando	bichos! ¡Soy demasiado lento!	{emote: Inspired}¡Un momento!{pause 20} ¡A ti se te da bien	cazar bichos, {Player nickname (green)}!{pause 20}{emote: Curious} ¿Te	importaría cazarme una {Blue}libélula{Color Reset}?	{emote: Distress}¡Di que sí, porfa!{pause 20} ¡Cuento contigo!{pause 20}	¡Me vale cualquier tipo de	{Blue}libélula{Color Reset}, {pause 8}{catchphrase}!{000f-0005-0004-0015-0028}	Te ayudaré	Ahí te las compongas
+"010"	{emote: Worry}No paro de pensar en aque{l/lla/}	{Blue}{0011-0003-0002-0000}{Color Reset} que se me	escapó,{pause 8} {catchphrase}.{pause 40} ¡Qué pena!	{emote: Inspired}{0007-000a-0000}¡Ya sé!{pause 8} ¡A ti se te da bien pescar,	{Player nickname (green)}!{pause 20} {emote: Happiness}¿No me pescarías	otr{o/a/} {Blue}{0011-0003-0002-0000}{Color Reset}? {000f-0005-0004-0015-0028}	¡Claro!	No puedo
+"011"	Ah, es la mejor época del año.{pause 20}	{emote: Love}¡La d{el/e la/} {Blue}{0011-0003-0002-0000}{Color Reset},{pause 8}	{catchphrase}!	{emote: Happiness}¿No me harías el favor de pescarme	un{o/a/}, {Player nickname (green)}?{000f-0005-0004-0015-0028}	Claro	¡Ni hablar!
+"012"	Corre el rumor de que vienes de una	familia de pescadores.{pause 20}{Wait for input} {emote: Happiness}Con lo bien	que se te da pescar, yo me lo creo.	{emote: Joy}Oye,{pause 8} como tienes soltura con eso,{pause 8}	me preguntaba si podrías pescarme	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}.	{emote: Distress}Ya sé que es mucho pedir, pero...	¿podrías hacerme ese favor?{pause 20} ¡Te lo	agradeceré siempre,{pause 8} {catchphrase}!{000f-0005-0004-0015-0028}	Claro	No puedo
+"013"	{emote: Joy}¡La lucha de hoy va a ser épica!{pause 20}	En una esquina,{pause 8} tenemos a	{Player name}, de {capitalized}{Town name (pink)}.	Y en la otra,{pause 8} tenemos	{Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset} de...{pause 20}	Bueno,{pause 8} del agua.{pause 20} ¿Quién vencerá?	{emote: Happiness}¡Yo apuesto por ti, {Player nickname (green)}!{pause 40} ¡Tú	trae {Article(word-dependant)}{Blue}{0011-0003-0002-0000}{Color Reset}	y sabré que eres {el/la} vencedo{r/ra}!{000f-0005-0004-0015-0028}	¡Lo conseguiré!	No puedo
+"014"	{emote: Happiness}Vi en la tele que pescar es muy	bueno,{pause 20} porque en la espera puedes	entrar en un estado zen{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Glee}¿Pero sabes otra cosa que te da	buen rollo mental?{pause 20} ¡Compartir lo	que pescas con tus amigos!	{emote: Shyness}Bueno{pause 8}.{pause 8}.{pause 8}.{pause 20} Eso no lo dijeron por la	tele,{pause 20} pero sé que es verdad.{pause 20} Con lo	que llegamos a lo importante...	¿Me podrías pescar un {Blue}pez de río{Color Reset}{pause 20},	{Player nickname (green)}?{pause 20} ¡Me vale cualquiera!{000f-0005-0004-0015-0028}	¡Sin problema!	No puedo
+"015"	{emote: Happiness}Estoy obsesionado con pescar{pause 8}	algún {Blue}pez de mar{Color Reset}.{pause 20} Pero claro,{pause 8}{emote: Sigh}	la verdad es que se me da fatal.	{emote: Glee}Por eso esperaba que tú pudieras	echarme una mano. A ti se te da	muy bien lo de pescar.	{emote: Shyness}¿Podrías traerme un {Blue}pez de mar{Color Reset},	{Player nickname (green)}?{pause 40} ¡Vale de cualquier tipo!{000f-0005-0004-0015-0028}	¡Eso está hecho!	No puede ser
+"016"	{emote: Joy}¡Genial!{pause 40} Pues nada, ¡te dejo	para que demuestres	tu arte,{pause 8} {catchphrase}!
+"017"	{emote: Joy}¡Chachi!{pause 20} Buena suerte, {Player nickname (green)}.{pause 20}	¡Tampoco creo que la necesites!
+"018"	{emote: Sigh}Ah.{pause 20} Vale.{pause 40} Supongo que estarás	liad{o/a},{pause 8} {catchphrase}.
+"019"	{emote: Worry}Huy, vale.{pause 40} Tampoco quería	forzarte a hacer nada, perdona.
+"020"	{emote: Glee}¡Yujuuu!{pause 20} ¡Esto va a ser genial,{pause 8}	{catchphrase}!
+"021"	{emote: Glee}¡¿De verdad?!{pause 40} ¡Síiiiii!{pause 20} ¡Sabía que	podía contar contigo,{pause 8} {catchphrase}!
+"022"	{emote: Glee}¡Vivaaa!{pause 20} Pues nada, ¡estaré	esperándote impaciente!
+"023"	{emote: Joy}¡Ay, qué bien!{pause 8} ¡Eres un sol,	{Player nickname (green)}!{pause 40} ¡Gracias, {pause 8}{catchphrase}!
+"024"	{emote: Resigned}¿No?{pause 40} Jo, qué mal...
+"025"	{emote: Worry}Vaya.{pause 40} ¡Y yo que contaba	contigo, {Player nickname (green)}!
+"026"	{emote: Worry}¿Me equivocaba?{pause 40} ¿En realidad	tu secreto es que esto no se	te da bien, {Player nickname (green)}?
 == 2 ==
-"001"	{emote: Happiness}
-"002"	On a tous nos insectes préférés.{pause 20}
-"003"	{emote: Worry}
-"004"	{emote: Love}
-"005"	{emote: Curious}
-"006"	{emote: Curious}
-"007"	{emote: Thought}
-"008"	{emote: Agreement}
-"009"	{emote: Curious}
-"010"	{emote: Worry}
-"011"	Ah... {pause 40}!
-"012"	{emote: Soft Smile}
-"013"	{emote: Joy}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Joy}
-"017"	{emote: Joy}
-"018"	{emote: Sigh}
-"019"	{emote: Worry}
-"020"	{emote: Glee}
-"021"	{emote: Glee}
-"022"	{emote: Glee}
-"023"	{emote: Joy}
-"024"	{emote: Resigned}
-"025"	{emote: Worry}
-"026"	{emote: Worry}
+"001"	{emote: Happiness}En observant les insectes on peut	tout de suite savoir en quelle saison	on est.	Tiens, {pause 15}hier, {pause 15}pour la première fois de	l'année, {pause 15}j'ai cru apercevoir {Article(word-dependant)}	{0011-0003-0002-0000}.{Wait for input}{emote: Curious}Dis, {pause 20}on est amis...{pause 40} Tu pourrais m'en	attraper un spécimen, {Player nickname (green)}?	{pause 20}{emote: Joy}Ça me ferait vraiment plaisir!{000f-0005-0004-0015-0028}	Oui, bien sûr!	Ah, non. Désolé{/e}.
+"002"	On a tous nos insectes préférés.{pause 20}	{emote: Curious}C'est quoi le tien?{Wait for input}{emote: Love}Moi,{pause 20} mon préféré c'est	{000e-0001-0000}{0011-0003-0002-0000}.{Wait for input} Cet	insecte est vraiment cool!	{emote: Worry}Mais je n'ai pas de chance, je	n'arrive jamais à en attraper,{pause 8} tu	crois que tu pourrais m'aider?{000f-0005-0004-0015-0028}	J'y cours!	Je ne peux pas.
+"003"	{emote: Worry}J'essaie d'attraper {Article(word-dependant)}	{0011-0003-0002-0000},{pause 20} {emote: Sadness}mais je n'y	arrive pas!	Pourquoi attraper des insectes ce	n'est pas aussi simple que manger	{Article(word-dependant)}{0005-0013-0002-0000}?	{emote: Inspired}{0007-000a-0000}Attends!{pause 8} J'ai une idée!{pause 20} Toi, tu es	fortiche pour attraper des insectes,	{Player nickname (green)}. Tu pourrais m'aider.	{emote: Happiness}Tu pourrais m'attraper {Article(word-dependant)}	{0011-0003-0002-0000} s'il te	plaît?{pause 8} Allez... {000f-0005-0004-0015-0028}	D'accord!	Je ne peux pas.
+"004"	{emote: Love}L'autre jour, j'ai vu {le plus beau/la plus belle/}	{0011-0003-0002-0000} que j'avais	jamais {vu/vue/}.{pause 20} Trop cool!	{emote: Sigh}J'ai essayé de ne pas attirer son	attention, mais la bestiole s'est	enfuie.	{emote: Happiness}Toi qui es fort{/e}, tu pourrais me	capturer {Article(word-dependant)}	{0011-0003-0002-0000}?{000f-0005-0004-0015-0028}	Je m'en charge!	Pas possible!
+"005"	{emote: Curious}Tu es doué{/e} pour chasser les	insectes, il paraît... Tu crois que tu	pourrais m'attraper un {Blue}papillon{Color Reset}?	{emote: Distress}Hier j'ai regardé un reportage sur	l'« effet papillon »{pause 20}, mais je n'ai pas	tout compris, {catchphrase}.	{emote: Agreement}Si j'en avais un sous les yeux,	je comprendrais sans doute mieux.	Alors, tu veux bien m'aider, dis?	N'importe lequel fera l'affaire.{000f-0005-0004-0015-0028}	D'accord.	Je ne peux pas t'aider.
+"006"	{emote: Curious}Dis, tu es bon{/ne}, toi, à la chasse	aux insectes, {Player nickname (green)}?{Wait for input}Tu crois que tu pourrais attraper un	{Blue}scarabée à corne {Color Reset}pour me faire	plaisir?	{emote: Glee}Ce sont les plus beaux des insectes.	{emote: Reset}Mais ils vont super vite. Je n'arrive	pas à les suivre, {catchphrase}...	{emote: Agreement}Toi tu y arriverais peut-être.	Tu veux bien essayer de capturer un	{Blue}scarabée à corne {Color Reset}pour moi?{Wait for input}S'il te plaît, n'importe lequel!{000f-0005-0004-0015-0028}	Je m'en occupe!	Pas le temps.
+"007"	{emote: Thought}Je me suis toujours demandé{pause 20} si les	pinces d'un {Blue}lucane {Color Reset}peuvent couper	du papier.	{emote: Sigh}Mais pour le savoir, il faudrait en	attraper un... Et moi, je n'y suis	jamais arrivé...	{emote: Inspired}Attends un peu!{pause 20} Toi tu es fort{/e}	pour attraper des insectes,	{Player nickname (green)}!	{emote: Curious}Tu veux bien m'aider à attraper un	{Blue}lucane{Color Reset}? {emote: Happiness}N'importe quelle espèce	m'ira, {catchphrase}.	Dis, tu vas m'aider, dis?{000f-0005-0004-0015-0028}	Ah, bien sûr...	Non, pas moi.
+"008"	{emote: Agreement}Je viens d'avoir une super idée pour	mieux supporter l'hiver prochain.{pause 20} Je	vais enregistrer le chant des {Blue}cigales{Color Reset}.	{emote: Happiness}Après, je n'aurai plus qu'à les	écouter{pause 20} et ça me donnera	l'impression d'être en été!	{emote: Thought}D'abord, il me faut une {Blue}cigale{Color Reset}.	N'importe laquelle ira.{pause 20}{emote: Curious} Tu crois que	tu pourrais m'en attraper une?	Ça serait bien cool, {pause 8}{catchphrase}.{000f-0005-0004-0015-0028}	Bien sûr.	Je ne peux pas t'aider.
+"009"	{emote: Curious}Tu crois que les {Blue}libellules{Color Reset}, ça se	mange?{pause 20} Je me suis toujours posé la	question.	{emote: Sigh}Bah... je saurai sans doute jamais,{pause 20}	vu que je n'arrive pas à en attraper.	Elles sont trop rapides pour moi.	{emote: Inspired}Oh mais attends!{pause 20} Tu es {bon/bonne} pour	attraper des insectes, {Player nickname (green)}!{pause 20}	{emote: Curious}Dis, tu voudrais m'en attraper une?	{emote: Distress}Allez, s'il te plaît quoi...{pause 20} N'importe	quelle {Blue}libellule {Color Reset}fera l'affaire,	{pause 8}{catchphrase}!{000f-0005-0004-0015-0028}	Je m'en occupe.	Débrouille-toi.
+"010"	{emote: Worry}J'ai failli attraper {Article(word-dependant)}	{0011-0003-0002-0000}, mais {il/elle/}	m'a échappé,{pause 8} {catchphrase}.	{emote: Inspired}{0007-000a-0000}Hé mais...{pause 30} {emote: Happiness}Tu sais pêcher, toi...{pause 30}	Tu pourrais peut-être m'en attraper	{un/une/}?{000f-0005-0004-0015-0028}	Oui, si tu veux.	Désolé{/e}, non.
+"011"	Ah... {pause 40}C'est la période de l'année que	je préfère.{pause 40} {emote: Love}Oh! {pause 20}Hier, j'ai vu {un/une/}	superbe {0011-0003-0002-0000}!	{emote: Happiness}J'ai trouvé ce poisson très beau. {pause 30}Tu	voudrais bien m'en apporter {un/une/}, s'il	te plaît, {catchphrase}?{000f-0005-0004-0015-0028}	Oui.	Non.
+"012"	{emote: Soft Smile}Il paraît que tu viens d'une longue	lignée de pêcheurs.{pause 20}{Wait for input} {emote: Happiness}Tu dois être	super bon{/ne} avec une canne!	{emote: Joy}Dis,{pause 8} comme tu es vachement fort{/e},{pause 8}	tu pourrais peut-être m'attraper	{Article(word-dependant)}{0011-0003-0002-0000}?	{emote: Distress}Allez, quoi!{pause 20} Fais ça pour moi, s'il te	plaît...{pause 8} {catchphrase}!{000f-0005-0004-0015-0028}	D'accord.	Euh... Non.
+"013"	{emote: Joy}Mesdames et Messieurs, Animaux et	Animales, bonjour! Le combat	d'aujourd'hui s'annonce prometteur.	{emote: Surprise}De ce côté de la ligne,{pause 8} notre	champion{/ne} toutes catégories,	{Player name} {de /d'}{Town name (pink)}.	{emote: Anger}De l'autre,{pause 8} nous avons {Article(word-dependant)}	{0011-0003-0002-0000} tout droit	venu{/e/} de,{pause 20} euh...{pause 8} du fond de l'eau.	{emote: Curious}Qui l'emportera?{Wait for input}{emote: Happiness}J'ai parié sur toi, {Player nickname (green)}!{pause 40}{emote: Anger}	Je compte sur toi pour l'attraper et	lui montrer qui c'est le boss!{000f-0005-0004-0015-0028}	Je relève le défi!	Je jette l'éponge.
+"014"	{emote: Happiness}J'ai vu un reportage sur les bienfaits	de la pêche.{pause 20} Il paraît que c'est une	activité très relaxante{pause 8}.{pause 8}.{pause 8}.	{emote: Curious}Savoir se détendre c'est important,	tu crois pas? {emote: Glee}Et qu'est-ce qui est	cool aussi dans la pêche?	Ben, après on mange le poisson!	{emote: Soft Smile}Le poisson c'est tout plein de	vitamines,{pause 20} ça donne la pêche!{pause 20}	Va donc te mesurer à un {Blue}poisson	d'eau douce{Color Reset}{pause 20} et apporte-le-moi, tu	veux bien?{pause 20} Celui de ton choix!{000f-0005-0004-0015-0028}	Ça roule!	Désolé{/e}...
+"015"	{emote: Happiness}J'ai une obsession en ce moment,	c'est de manger un{pause 8} {Blue}poisson d'eau de	mer{Color Reset}.{pause 20}	{emote: Sigh}Mais je n'arrive pas à en attraper.	{emote: Glee}Tu veux bien m'aider? Tu manies	bien la canne à pêche, toi.	{emote: Shyness}Tu pourrais m'apporter un {Blue}poisson	d'eau de mer{Color Reset}, {Player nickname (green)}?{pause 40} Celui	que tu voudras!{000f-0005-0004-0015-0028}	Je m'en occupe!	J'ai mieux à faire.
+"016"	{emote: Joy}Super! Alors vas-y! Suis ton	instinct de {chasseur/chasseresse}!{pause 8}	{catchphrase}!
+"017"	{emote: Joy}Excellent!{pause 20} Alors bonne chance à toi,	{Player nickname (green)}.{pause 20} Enfin, c'est pas comme	si tu en avais besoin...
+"018"	{emote: Sigh}Oh...{pause 20} Je vois...{pause 40} Tu dois être très	occupé{/e} en ce moment. Je	comprends,{pause 8} {catchphrase}.
+"019"	{emote: Worry}Ah, OK.{pause 40} Bon. Désolé de t'avoir	embêté{/e} avec ça.
+"020"	{emote: Glee}Youhou!{pause 20} Ça va être trop cool quand	tu l'auras,{pause 8} {catchphrase}!
+"021"	{emote: Glee}C'est vrai?!{pause 40} Yesss!{pause 20} Je savais que je	pouvais compter sur toi,{pause 8}	{catchphrase}!
+"022"	{emote: Glee}Yesss!{pause 20} Vivement que tu l'attrapes!
+"023"	{emote: Joy}Génial!{pause 8} C'est bien toi {le meilleur/la meilleure},	{Player nickname (green)}!{pause 40} Merci, {pause 8}{catchphrase}!
+"024"	{emote: Resigned}Ah?{pause 40} C'est bien dommage, ça...
+"025"	{emote: Worry}C'est dommage.{pause 40} Je comptais	vraiment sur toi, {Player nickname (green)}.
+"026"	{emote: Worry}Ah? {pause 40}Je me suis trompé sur ton	compte...{pause 40} Tu n'es pas si {doué/douée} pour	les attraper on dirait, {catchphrase}.

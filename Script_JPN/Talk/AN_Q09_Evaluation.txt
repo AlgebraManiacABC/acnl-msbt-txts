@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Surprise}
-"003"	{emote: Surprise}
-"004"	{emote: Inspired}
-"005"	{emote: Disbelief}
-"006"	{emote: Disbelief}
-"007"	{emote: Alarmed}
-"008"	{emote: Agreement}
-"009"	{emote: Disbelief}
-"010"	{emote: Disbelief}
-"011"	{emote: Distress}
-"012"	{emote: Resigned}
+"001"	{emote: Surprise}あれ？　{pause 20}もう{ruby (charSpan 1): かえ}帰るの？{pause 40}	{emote: Reset}まだ　あんまり	おもてなし　してないのに{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}ねぇ！{pause 20}	ウチの{ruby (charSpan 2): へや}部屋　どうだったかい？{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"002"	{emote: Surprise}おや、{ruby (charSpan 1): かえ}帰るのかい？{pause 40}	{emote: Reset}そんなに　{ruby (charSpan 1): いそ}急がなくてもいいのに{pause 8}・{pause 8}・{pause 8}・{pause 20}		{emote: Soft Smile}ねぇ！　{pause 20}ウチの{ruby (charSpan 1): いえ}家の{ruby (charSpan 2): かぐ}家具、{pause 8}どうだった？{pause 40}	{Player nickname (green)}{ruby (charSpan 2): せんせい}先生の　{ruby (charSpan 2): ひょうか}評価を	{ruby (charSpan 1): き}聞かせてよ？{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"003"	{emote: Surprise}あれ？{pause 20}	もう　{ruby (charSpan 1): かえ}帰っちゃうの？		{emote: Soft Smile}そんじゃ　{ruby (charSpan 2): さいご}最後に、	この{ruby (charSpan 1): いえ}家の{ruby (charSpan 2): かんそう}感想を　{ruby (charSpan 1): き}聞かせて！{000f-0001-0006-0000-0000-0000}	サイコー！	まあまあ	イマイチ
+"004"	{emote: Inspired}えっ？！	{pause 20}・{pause 20}・{pause 20}・{pause 40}{emote: Bashful}へへへ、なんだい！{pause 20}	ほめたって　{ruby (charSpan 1): なに}何も{ruby (charSpan 1): で}出ないよ？	{emote: Soft Smile}でも　サンキュー！{pause 20}	そうじした　かいがあったよ！
+"005"	{emote: Disbelief}えっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}そんなこと{ruby (charSpan 1): い}言ってぇ～{pause 10}	{ruby (charSpan 2): すなお}素直じゃないね！	{emote: Resigned}まぁ　{ruby (charSpan 2): てきとう}適当に	お{ruby (charSpan 2): せじ}世辞{ruby (charSpan 1): い}言われるより	いいけどさ！
+"006"	{emote: Disbelief}えっ、マジで？！{pause 40}	けっこう　{ruby (charSpan 2): じしん}自信{ruby (charSpan 2): まんまん}満々　だったんだけど{pause 8}・{pause 8}・{pause 8}・{pause 20}		{emote: Mistaken}あちゃ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	ウキウキ　{ruby (charSpan 2): しょうたい}招待して、{pause 8}いらない{ruby (charSpan 1): はじ}恥	かいちゃったかな？	{emote: Agreement}まぁ　いいさ！{pause 20}	また　がんばるよ！
+"007"	{emote: Alarmed}えっ？！{pause 20}	{emote: Bashful}や、やだなぁ～！	ウチ　{ruby (charSpan 2): ちょうし}調子に　のっちゃうよ？	{emote: Glee}へへ{pause 8}・{pause 8}・{pause 8}・{pause 20}でも、	そこまで　{ruby (charSpan 1): い}言ってくれるなんて	うれしい！
+"008"	{emote: Agreement}うんうん{pause 8}・{pause 8}・{pause 8}・{pause 20}	アンタ　{ruby (charSpan 2): てきかく}的確なこと、{ruby (charSpan 1): い}言うね～！		{emote: Resigned}ほんっと　その{ruby (charSpan 1): とお}通りなんだよ！{pause 40}	{emote: Soft Smile}また、{ruby (charSpan 2): へや}部屋そうじ　がんばるわ！
+"009"	{emote: Disbelief}え～？{pause 40}	そんなに　ひどいかな？		{emote: Sadness}{ruby (charSpan 2): かぐ}家具だけは、そこそこだと	{ruby (charSpan 1): おも}思ってたのに{pause 8}・{pause 8}・{pause 8}・{pause 20}		{emote: Agreement}まぁ、アンタがいうなら	しょうがないね！{pause 40}	{emote: Soft Smile}また　がんばるよ！
+"010"	{emote: Disbelief}えっ！{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Shyness}や、{pause 8}やだなぁ{pause 20}	お{ruby (charSpan 2): せじ}世辞も　たいがいにしてよ	{emote: Glee}ウチの{ruby (charSpan 2): へや}部屋が　そんなに	{ruby (charSpan 1): たい}大したもんじゃないって、	{ruby (charSpan 2): じゅうぶん}充分　わかってるんだから！	{emote: Bashful}えへへ{pause 8}・{pause 8}・{pause 8}・{pause 20}	まぁ　ありがと！　{pause 20}{catchphrase}！
+"011"	{emote: Distress}あわわ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{ruby (charSpan 1): き}気をつかわせちゃって　{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ない！{pause 40}{emote: Worry}		{emote: Soft Smile}でも、{pause 8}ありがとね！
+"012"	{emote: Resigned}ははは{pause 8}・{pause 8}・{pause 8}・{pause 20}	さすがだね、{Player nickname (green)}！{pause 20}	ビシッと　つっこんでくれると{ruby (charSpan 1): おも}思ったよ！	{emote: Agreement}ウチも　{ruby (charSpan 2): いろいろ}色々	{ruby (charSpan 1): おも}思うところ　あるからさ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}まぁ　がんばってみるよ！

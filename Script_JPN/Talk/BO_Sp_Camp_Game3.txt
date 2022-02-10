@@ -1,46 +1,46 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Shocked}
-"004"	{emote: Inspired}
-"005"	{emote: Delight}
-"006"	{pause 8}
-"007"	{emote: Happiness}
-"008"	{0009-0000-0004-09-00-00-00}	
-"009"	{emote: Anger}
-"010"	{emote: Anger}
-"011"	{0009-0001-0006-0f-00-0f-00-03-00}
-"012"	{0009-0001-0006-10-00-10-00-03-00}
-"013"	{0009-0001-0006-11-00-11-00-03-00}
-"014"	{emote: Mistaken}
-"015"	{emote: Mistaken}
-"016"	{emote: Mistaken}
-"017"	{emote: Mistaken}
-"018"	{0009-0001-0006-03-00-15-00-15-00}
-"019"	{0009-0001-0006-03-00-16-00-16-00}
-"020"	{0009-0001-0006-03-00-17-00-17-00}
-"021"	{emote: Disagreement}
-"022"	{emote: Disagreement}
-"023"	{emote: Disagreement}
-"024"	{emote: Disagreement}
-"025"	{emote: Mistaken}
-"026"	{emote: Worry}
-"027"	{emote: Mistaken}
-"028"	{emote: Mistaken}
-"029"	{emote: Mistaken}
-"030"	{emote: Mistaken}
-"031"	{emote: Mistaken}
-"032"	{emote: Mistaken}
-"033"	{emote: Mistaken}
-"034"	{emote: Mistaken}
-"035"	{emote: Mistaken}
-"036"	{emote: Mistaken}
-"037"	{emote: Mistaken}
-"038"	{emote: Mistaken}
-"039"	{emote: Mistaken}
-"040"	{emote: Mistaken}
-"041"	
-"042"	{emote: Delight}
-"043"	{emote: Sunny}
-"044"	{emote: Happiness}
-"045"	{emote: Happiness}
+"001"	{emote: Happiness}ねぇねぇ～！{pause 20}	キミの　{0011-0003-0002-0000}をかけて{pause 20}	「フルーツ{ruby (charSpan 1): あ}当てゲーム」やらない？{Wait for input}ボクが{ruby (charSpan 1): いま}今{pause 8}　{ruby (charSpan 1): た}食べたいと	{ruby (charSpan 1): おも}思ってる　フルーツを、{pause 20}	ヒントをたよりに　{ruby (charSpan 1): あ}当てるんだよぉ{Wait for input}{emote: Greetings}ヒントは　3{ruby (charSpan 1): かい}回！{Wait for input}{emote: Glee}{ruby (charSpan 1): はや}早く{ruby (charSpan 1): あ}当てれば　{ruby (charSpan 1): はや}早く{ruby (charSpan 1): あ}当てるほど、{pause 20}	キミの　{0011-0003-0002-0000}を	{ruby (charSpan 1): たか}高いねだんで　{ruby (charSpan 1): か}買いとっちゃう！{Wait for input}{0007-000d-0000}{emote: Glare}どう～？{pause 20}	{ruby (charSpan 2): じぶん}自分の　すいり{ruby (charSpan 1): りょく}力	ためしてみない～？{Player can respond (0005):0007-0015-0002-0028}	やるよ！	また{ruby (charSpan 2): こんど}今度ね
+"002"	{emote: Worry}そっかぁ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	また　あそんでねぇ、{pause 8}{catchphrase}
+"003"	{emote: Shocked}{0007-000b-0000}うわぁ～！{pause 20}	そうそう　コレが{ruby (charSpan 1): た}食べたいんだぁ！{pause 40}	まさか1{ruby (charSpan 2): かいめ}回目で　{ruby (charSpan 1): あ}当てちゃうなんて！{Wait for input}{emote: Thought}キミ{pause 20}　ボクの{ruby (charSpan 1): こころ}心が	{ruby (charSpan 1): よ}読めるんだねぇ？{Wait for input}{emote: Thought}それなら　これは？{pause 40}	{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}{ruby (charSpan 1): いま}今なんて{ruby (charSpan 1): かんが}考えてたか　わかったぁ？{Wait for input}{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	よかったね　おめでとぉ{pause 20}って	{ruby (charSpan 1): かんが}考えてたんだよぉ～{Wait for input}{emote: Happiness}はい！　{pause 20}おやくそく{ruby (charSpan 1): どお}通り、{pause 20}	かなり　{ruby (charSpan 1): たか}高めの、	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買いとるねぇ～
+"004"	{emote: Inspired}{0007-000a-0000}あたりぃ～！{pause 40}	{emote: Glee}そうそう　コレが	{ruby (charSpan 1): た}食べたかったんだよぉ～！{Wait for input}{emote: Happiness}2{ruby (charSpan 2): かいめ}回目で　もう{ruby (charSpan 1): あ}当てちゃうなんて、{pause 20}	ボクの{ruby (charSpan 1): かんが}考えてること	お{ruby (charSpan 2): みとお}見通しなんだねぇ{Wait for input}{emote: Bashful}いやぁ～！{pause 20}	はずかしいなぁ、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}やくそくどおり{pause 20}　ちょっぴり{ruby (charSpan 1): たか}高い	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買いとりで～す！
+"005"	{emote: Delight}あったりぃ～！{pause 20}	それが{ruby (charSpan 1): た}食べたかったんだぁ～{Wait for input}{emote: Sheepishness}でも　2つの{ruby (charSpan 1): なか}中から	えらんだ　だけじゃねぇ～{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}はい！{pause 20}　ちょっとやすめの、	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買いとりで～す！
+"006"	{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}ごめんねぇ{pause 20}	ボクが{ruby (charSpan 1): た}食べたかったのは、	ぎゃくのヤツだったんだぁ{Wait for input}{emote: Happiness}{ruby (charSpan 2): こんかい}今回は　ざんねんでしたぁ～{Wait for input}けっこう　やすいけど、{pause 20}	{Blue}{Number (0x9)}ベル{Color Reset}で　{ruby (charSpan 1): か}買いとりだよぉ
+"007"	{emote: Happiness}よぉ～し！{pause 20}	さっそく　いくよぉ？{Wait for input}{emote: Reset}ボクの{ruby (charSpan 1): め}目を　よぉ～く{ruby (charSpan 1): み}見て、	{ruby (charSpan 1): た}食べたいものを　そうぞうしてねぇ～
+"008"	{0009-0000-0004-0009-000a}
+"009"	{emote: Anger}それじゃあ、ヒントその1！{Wait for input}{emote: Happiness}フルーツの{ruby (charSpan 1): いろ}色は、{pause 20}	どっちかといえば{pause 8}	{Blue}{ruby (charSpan 1): あか}赤くない{Color Reset}よぉ～！{Wait for input}コレだけじゃ　わからないと{ruby (charSpan 1): おも}思うけど、{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは　どれだと{ruby (charSpan 1): おも}思う？{0008-0002-0010-000e-0000-000b-0000-000c-0000-000d-0000}	りんご	バナナ	オレンジ	ナシ
+"010"	{emote: Anger}それじゃあ、ヒントその1！{Wait for input}{emote: Happiness}フルーツの{ruby (charSpan 1): いろ}色は、{pause 8}	どっちかといえば{pause 8}	{Blue}{ruby (charSpan 1): あか}赤っぽい{Color Reset}よぉ～！{Wait for input}コレだけじゃ　わからないと{ruby (charSpan 1): おも}思うけど、{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは　どれだと{ruby (charSpan 1): おも}思う？{0008-0002-0010-0012-0000-0013-0000-0014-0000-0018-0000}	さくらんぼ	モモ	イチゴ	ブドウ
+"011"	{0009-0001-0006-000f-000f-0003}
+"012"	{0009-0001-0006-0010-0010-0003}
+"013"	{0009-0001-0006-0011-0011-0003}
+"014"	{emote: Mistaken}ざんねぇ～ん！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	べつのだよぉ～{Wait for input}{emote: Anger}それじゃあ　ヒントその2！{Wait for input}{emote: Happiness}フルーツの{ruby (charSpan 1): かたち}形は{pause 20}	どっちかといえば{pause 8}	{Blue}まるい{Color Reset}よぉ～{Wait for input}さぁ～て、{pause 20}	{emote: Curious}ボクが{ruby (charSpan 1): た}食べたいのは	どれだと{ruby (charSpan 1): おも}思う？{Player can respond (0001):001a-0000-0004-0000-0019-0000}	バナナ	オレンジ	ナシ
+"015"	{emote: Mistaken}ざんねぇ～ん！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	べつのだよぉ～{Wait for input}{emote: Anger}それじゃあ　ヒントその2！{Wait for input}{emote: Happiness}フルーツの{ruby (charSpan 1): かたち}形は{pause 20}	どっちかといえば{pause 8}	{Blue}まるい{Color Reset}よぉ～{Wait for input}さぁ～て、{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どれだと{ruby (charSpan 1): おも}思う？{Player can respond (0001):001c-0000-001b-0000-0004-0000}	りんご	オレンジ	ナシ
+"016"	{emote: Mistaken}ざんねぇ～ん！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	べつのだよぉ～{Wait for input}{emote: Anger}それじゃあ　ヒントその2！{Wait for input}{emote: Happiness}フルーツの{ruby (charSpan 1): かたち}形は{pause 20}	どっちかといえば{pause 8}	{Blue}ながい{Color Reset}よぉ！{Wait for input}さぁ～て、{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どれだと{ruby (charSpan 1): おも}思う？{Player can respond (0001):001e-0000-0004-0000-001d-0000}	りんご	バナナ	ナシ
+"017"	{emote: Mistaken}ざんねぇ～ん！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	べつのだよぉ～{Wait for input}{emote: Anger}それじゃあ　ヒントその2！{Wait for input}{emote: Happiness}フルーツの{ruby (charSpan 1): かたち}形は{pause 20}	どっちかといえば{pause 8}	{Blue}まるい{Color Reset}よぉ！{Wait for input}さぁ～て、{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どれだと　{ruby (charSpan 1): おも}思う？{Player can respond (0001):0020-0000-001f-0000-0004-0000}	りんご	バナナ	オレンジ
+"018"	{0009-0001-0006-0003-0015-0015}
+"019"	{0009-0001-0006-0003-0016-0016}
+"020"	{0009-0001-0006-0003-0017-0017}
+"021"	{emote: Disagreement}ぶぶぅ～！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは、	それじゃないよぉ～！{Wait for input}{emote: Anger}よぉ～し　ヒントその2！{Wait for input}{emote: Happiness}フルーツの{ruby (charSpan 1): かたち}形は{pause 20}	どっちかといえば{pause 8}	{Blue}まるい{Color Reset}よぉ～{Wait for input}さぁ～て、{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どれだと　{ruby (charSpan 1): おも}思う？{Player can respond (0001):0004-0000-0022-0000-0021-0000}	モモ	イチゴ	ブドウ
+"022"	{emote: Disagreement}ぶぶぅ～！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは、	それじゃないよぉ！{Wait for input}{emote: Anger}よぉ～し　ヒントその2！{Wait for input}{emote: Happiness}フルーツの{ruby (charSpan 1): かたち}形は{pause 20}	どっちかといえば{pause 8}	{Blue}{ruby (charSpan 2): ひとくち}一口サイズ{Color Reset}だよぉ～{Wait for input}さぁ～て、{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どれだと　{ruby (charSpan 1): おも}思う？{Player can respond (0001):0024-0000-0004-0000-0023-0000}	さくらんぼ	イチゴ	ブドウ
+"023"	{emote: Disagreement}ぶぶぅ～！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは、	それじゃないよぉ～！{Wait for input}{emote: Anger}よぉ～し　ヒントその2！{Wait for input}{emote: Happiness}フルーツの{ruby (charSpan 1): かたち}形は{pause 20}	どっちかといえば{pause 8}	{Blue}{ruby (charSpan 2): ひとくち}一口サイズ{Color Reset}だよぉ～{Wait for input}さぁ～て、{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どれだと　{ruby (charSpan 1): おも}思う？{Player can respond (0001):0004-0000-0026-0000-0025-0000}	さくらんぼ	モモ	ブドウ
+"024"	{emote: Disagreement}ぶぶぅ～！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは、	それじゃないよぉ～！{Wait for input}{emote: Anger}よぉ～し　ヒントその2！{Wait for input}{emote: Happiness}フルーツの{ruby (charSpan 1): かたち}形は{pause 20}	どっちかといえば{pause 8}	{Blue}まるい{Color Reset}よぉ～{Wait for input}さぁ～て、{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どれだと　{ruby (charSpan 1): おも}思う？{Player can respond (0001):0028-0000-0004-0000-0027-0000}	さくらんぼ	モモ	イチゴ
+"025"	{emote: Mistaken}ハズレだよぉ！{pause 20}	それじゃないんだぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}さいごの　ヒントその3！{Wait for input}{emote: Happiness}そのフルーツの{ruby (charSpan 1): あじ}味は、{pause 20}	{Blue}ちょっぴりスッパイ{Color Reset}よぉ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかなぁ？{Player can respond (0000):0006-0000-0005-0000}	バナナ	オレンジ
+"026"	{emote: Worry}ハズレだよぉ！{pause 20}	それじゃないんだぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}さいごの　ヒントその3！{Wait for input}{emote: Happiness}そのフルーツの{ruby (charSpan 1): あじ}味は、{pause 20}	{Blue}ちょっぴりスッパイ{Color Reset}よぉ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0006-0000-0005-0000}	ナシ	オレンジ
+"027"	{emote: Mistaken}ハズレだよぉ！{pause 20}	それじゃないんだぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}さいごの　ヒントその3！{Wait for input}{emote: Happiness}そのフルーツのかわは、{pause 20}	{Blue}みどりっぽい{ruby (charSpan 1): いろ}色{Color Reset}だよぉ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0005-0000-0006-0000}	ナシ	りんご
+"028"	{emote: Mistaken}ハズレだよぉ！{pause 20}	それじゃないんだぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}さいごの　ヒントその3！{Wait for input}{emote: Happiness}そのフルーツのかわは、{pause 20}	{Blue}みどりっぽい{ruby (charSpan 1): いろ}色{Color Reset}だよぉ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0006-0000-0005-0000}	オレンジ	ナシ
+"029"	{emote: Mistaken}ハズレだよぉ！{pause 20}	それじゃないんだぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}さいごの　ヒントその3！{Wait for input}{emote: Happiness}そのフルーツの{ruby (charSpan 1): あじ}味は、{pause 20}	{Blue}もったりあまい{Color Reset}よぉ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0006-0000-0005-0000}	りんご	バナナ
+"030"	{emote: Mistaken}ハズレだよぉ！{pause 20}	それじゃないんだぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}さいごの　ヒントその3！{Wait for input}{emote: Happiness}そのフルーツの{ruby (charSpan 1): あじ}味は、{pause 20}	{Blue}もったりあまい{Color Reset}よぉ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0005-0000-0006-0000}	バナナ	ナシ
+"031"	{emote: Mistaken}ハズレだよぉ！{pause 20}	それじゃないんだぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}さいごの　ヒントその3！{Wait for input}{emote: Happiness}そのフルーツの{ruby (charSpan 1): あじ}味は、{pause 20}	{Blue}ちょっぴりスッパイ{Color Reset}よぉ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0006-0000-0005-0000}	りんご	オレンジ
+"032"	{emote: Mistaken}ハズレだよぉ！{pause 20}	それじゃないんだぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}さいごの　ヒントその3！{Wait for input}{emote: Happiness}そのフルーツの{ruby (charSpan 1): あじ}味は、{pause 20}	{Blue}ちょっぴりスッパイ{Color Reset}よぉ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0006-0000-0005-0000}	バナナ	オレンジ
+"033"	{emote: Mistaken}ざんねん、{pause 20}ハズレだよぉ！{pause 40}	それも　おいしいんだけどねぇ{Wait for input}{emote: Anger}ラストチャンス～{pause 20}	ヒントその3！{Wait for input}{emote: Happiness}そのフルーツは、{pause 20}	{Blue}{ruby (charSpan 2): ちゅうしん}中心におっきいタネがある{Color Reset}んだぁ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0005-0000-0006-0000}	モモ	イチゴ
+"034"	{emote: Mistaken}ざんねん、{pause 20}ハズレだよぉ！{pause 40}	それも　おいしいんだけどねぇ{Wait for input}{emote: Anger}ラストチャンス～{pause 20}	ヒントその3！{Wait for input}{emote: Happiness}そのフルーツは、{pause 20}	{Blue}{ruby (charSpan 2): ちゅうしん}中心におっきいタネがある{Color Reset}んだぁ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0005-0000-0006-0000}	モモ	ブドウ
+"035"	{emote: Mistaken}ざんねん、{pause 20}ハズレだよぉ！{pause 40}	それも　おいしいんだけどねぇ{Wait for input}{emote: Anger}ラストチャンス～{pause 20}	ヒントその3！{Wait for input}{emote: Happiness}そのフルーツは、{pause 20}	{Blue}{ruby (charSpan 1): き}木には　ならない{Color Reset}よぉ{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0006-0000-0005-0000}	さくらんぼ	イチゴ
+"036"	{emote: Mistaken}ざんねん、{pause 20}ハズレだよぉ！{pause 40}	それも　おいしいんだけどねぇ{Wait for input}{emote: Anger}ラストチャンス～{pause 20}	ヒントその3！{Wait for input}{emote: Happiness}そのフルーツは、{pause 20}	{Blue}{ruby (charSpan 1): き}木には　ならない{Color Reset}よぉ{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0005-0000-0006-0000}	イチゴ	ブドウ
+"037"	{emote: Mistaken}ざんねん、{pause 20}ハズレだよぉ！{pause 40}	それも　おいしいんだけどねぇ{Wait for input}{emote: Anger}ラストチャンス～{pause 20}	ヒントその3！{Wait for input}{emote: Happiness}そのフルーツは、{pause 20}	{Blue}ふたご{Color Reset}なんだよぉ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0005-0000-0006-0000}	さくらんぼ	モモ
+"038"	{emote: Mistaken}ざんねん、{pause 20}ハズレだよぉ！{pause 40}	それも　おいしいんだけどねぇ{Wait for input}{emote: Anger}ラストチャンス～{pause 20}	ヒントその3！{Wait for input}{emote: Happiness}そのフルーツは、{pause 20}	{Blue}ふたご{Color Reset}なんだよぉ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0005-0000-0006-0000}	さくらんぼ	ブドウ
+"039"	{emote: Mistaken}ざんねん、{pause 20}ハズレだよぉ！{pause 40}	それも　おいしいんだけどねぇ{Wait for input}{emote: Anger}ラストチャンス～{pause 20}	ヒントその3！{Wait for input}{emote: Happiness}そのフルーツは、{pause 20}	{Blue}{ruby (charSpan 2): ちゅうしん}中心におっきいタネがある{Color Reset}んだぁ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0006-0000-0005-0000}	さくらんぼ	モモ
+"040"	{emote: Mistaken}ざんねん、{pause 20}ハズレだよぉ！{pause 40}	それも　おいしいんだけどねぇ{Wait for input}{emote: Anger}ラストチャンス～{pause 20}	ヒントその3！{Wait for input}{emote: Happiness}そのフルーツは、{pause 20}	{Blue}{ruby (charSpan 2): ちゅうしん}中心におっきいタネがある{Color Reset}んだぁ～{Wait for input}コレで　わかるよね！{pause 20}	ボクが{ruby (charSpan 1): た}食べたいのは	どっちかな～？{Player can respond (0000):0005-0000-0006-0000}	モモ	イチゴ
+"041"
+"042"	{emote: Delight}キミって　すごいなぁ～{pause 20}	ソンケーしちゃうよぉ！
+"043"	{emote: Sunny}{ruby (charSpan 1): たの}楽しかったぁ～{pause 20}	いつか　またやろぉねぇ
+"044"	{emote: Happiness}おしかったねぇ{pause 20}	つぎは　ガンバってねぇ、{pause 8}{catchphrase}
+"045"	{emote: Happiness}えへへ～{pause 20}	おちこまないでねぇ、{pause 8}{catchphrase}

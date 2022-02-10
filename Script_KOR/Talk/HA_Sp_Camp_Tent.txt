@@ -1,31 +1,31 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Worry}
-"004"	{emote: Curious}
-"005"	{emote: Agreement}
-"006"	{emote: Happiness}
-"007"	{emote: Agreement}
-"008"	{emote: Greetings}
-"009"	{emote: Worry}
-"010"	{emote: Thought}
-"011"	{emote: Agreement}
-"012"	{emote: Happiness}
-"013"	{emote: Glee}
-"014"	{emote: Happiness}
-"015"	{emote: Resigned}
-"016"	{emote: Agreement}
-"017"	{emote: Anger}
-"018"	{emote: Alarmed}
-"019"	{emote: Happiness}
-"020"	{emote: Love}
-"021"	질문 하나만 하자!{pause 20}
-"022"	{emote: Happiness}
-"023"	{emote: Laughter}
-"024"	{emote: Worry}
-"025"	{emote: Sunny}
-"026"	
-"027"	
-"028"	
-"029"	
-"030"	
+"001"	{emote: Happiness}오오ー!{pause 20}	너도 이 마을에 놀러 왔냐ー?{Wait for input}실컷 놀다가 가자ー!	{pause 8}{catchphrase}!
+"002"	{emote: Happiness}난 지금까지	수많은 마을을 여행했는데{pause 20}	이 마을은 꽤 수준급이야ー!
+"003"	{emote: Worry}난 특별훈련을 위해 왔는데{pause 20}	이 마을은 너무 지내기 편해서ー{Wait for input}{emote: Resigned}특별훈련이 아니라{pause 20}	바캉스가 될 지경이야,	{pause 8}{catchphrase}!
+"004"	{emote: Curious}이 마을 꽤 좋지 않냐ー?{Wait for input}{emote: Happiness}구체적으로 콕 집어 말하라면	좀 곤란하지만{pause 20} 아무튼	나랑 잘 맞는 동네 같아!
+"005"	{emote: Agreement}정신없이{pause 8} 달리다 보니{pause 20}	어느샌가 여기에 도착해 있었지 뭐냐{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}그래서 이왕 이렇게 된 거	이 마을에서 캠핑하기로 했어!{Wait for input}{emote: Laughter}자유 여행이란 게 뭐 별거 있냐?{pause 20}	이런 게 자유 여행이지!{pause 8}	하하핫!{pause 40}{emote: Soft Smile}
+"006"	{emote: Happiness}만나서 반갑다!{pause 20}	넌 이 마을에 살아ー?{Wait for input}{emote: Sunny}너네 마을 캠핑장{pause 8}	아주 근사한데!{pause 40}	{emote: Soft Smile}잠깐 신세 좀 질게!
+"007"	{emote: Agreement}난 그저 앞만 보고 달렸을 뿐인데{pause 20}	정신을 차리고 보니	어느새 내가 여기 있더라구{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Thought}대체 얼마나 달린 걸까{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 40}	{emote: Curious}한 100km 정도?{Wait for input}{emote: Laughter}뭐, 아무튼{pause 20} 많이 뛰었으니	여기에서 좀 쉬다 가야겠어{pause 40}{emote: Soft Smile}
+"008"	{emote: Greetings}안녕? 만나서 반갑다!{pause 20}	여기서 캠핑 좀 해도 될까ー?{Wait for input}{emote: Laughter}사실 물어보기 전에{pause 20}	이미 텐트부터 설치했지만 말이야!{pause 20}	하하핫!{pause 40}{emote: Soft Smile}{Wait for input}잠시만 신세 좀 지자구ー!{pause 20}	잘 부탁한다, {pause 8}{catchphrase}!
+"009"	{emote: Worry}으아아!{pause 20}	어디 근처에 살지 고민된다ー!{Wait for input}{emote: Inspired}{0007-000b-0000}아앗!{Wait for input}	하지만 아무 계획 없이{pause 8}	시작하는 것도 터프하고 멋지다ー!
+"010"	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Alarmed}앗!{pause 20} 미안, 미안!{Wait for input}{emote: Resigned}이 마을에서 살면{pause 20}	어떤 트레이닝을 할까	생각 중이었어, {pause 8}{catchphrase}
+"011"	{emote: Agreement}음～!{pause 20}	공기가 정말 좋다!{Wait for input}{emote: Sigh}하지만{pause 20} 여기서 살면	이 좋은 공기도 흔하게	느껴질지도 몰라ー{Wait for input}{emote: Distress}그렇게 되면{pause 20} 누군가가	더 공기가 좋은 곳을 소개해줘야	할 텐데, {pause 8}{catchphrase}!
+"012"	{emote: Happiness}나{pause 8} {0011-0000-0002-0000}한테 설득 당해서{pause 20}	이 마을로 이사 오기로 약속했다!{Wait for input}{emote: Glee}좀 소란스러워질지도 모르겠지만{pause 8}	아무튼 잘 부탁해ー!
+"013"	{emote: Glee}난{pause 20} 곧 이 마을로	이사 올 예정이니까	잘 부탁한다ー!{Wait for input}{emote: Agreement}물론{pause 20} {0011-0000-0002-0000}한테	이미 허락도 받았지!
+"014"	{emote: Happiness}난{pause 8} 얼마 안 있으면	이 마을에 살게 될 거야,	{pause 8}{catchphrase}!{Wait for input}{emote: Agreement}{0011-0000-0002-0000}{000e-000e-0006-0002-c774-0000}랑 얘기하다가{pause 20}	이사가 결정되었거든!{Wait for input}{emote: Laughter}좋았어ー!{pause 20}	이 마을에 근육 열풍을	일으켜주마ー!!{pause 40}{emote: Soft Smile}
+"015"	{emote: Resigned}이 텐트 치느라고{pause 20}	나 꽤 고생했다ー!{Wait for input}{emote: Sunny}그래도{pause 20} 난 이런 육체노동을	좋아하니까 괜찮아!
+"016"	{emote: Agreement}집에 있을 때보다 불편해진 걸{pause 20}	즐기는 게 캠핑의 묘미지!	{pause 8}{catchphrase}!{Wait for input}{emote: Happiness}잘 생각해보면	독특한 놀이야ー!
+"017"	{emote: Anger}나에게 캠핑이란	트레이닝과 마찬가지다!{Wait for input}{emote: Glee}야영을 하면서	복근 운동을 마구 하는 거지,	{pause 8}{catchphrase}!
+"018"	{emote: Alarmed}앗!{pause 20}	엄청난 아이디어가 떠올랐어!{Wait for input}{emote: Glee}이 마을에서 열심히 운동해서	근육을 키우면{pause 20} 우리 마을에 돌아갔을 때{pause 8}	모두들 놀라서 쓰러지겠지ー?!{Wait for input}{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Sadness}하긴{pause 20} 그것도 근육에	관심 있는 녀석들이{pause 20}	있을 때 가능한 얘기겠지만!
+"019"	{emote: Happiness}이렇게 좁은 장소에 있으면{pause 20}	어떤 말이든 솔직히	털어놓을 수 있을 것 같아{Wait for input}{emote: Cold Chill}사실 난{pause 8}・{pause 8}・{pause 8}・{pause 20}	여지껏{pause 20} 밤만 되면	이불에 쉬{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Glare}헤헷!{pause 20}	믿을지 말지는{pause 8} 니 맘이다!	{pause 8}{catchphrase}!
+"020"	{emote: Love}아까 이 마을을 조깅하면서	한 바퀴 둘러봤는데{pause 20}	진짜로 좋은 동네 같아ー!{Wait for input}{emote: Sunny}나 여기가 마음에 든다!{pause 40}	어느 정도냐면{pause 8}	여기서 살고 싶을 정도야!{000f-0005-0004-0000-0000}	이사를 오지그래?	・・・
+"021"	질문 하나만 하자!{pause 20}	{emote: Curious}이 마을은 자랑거리가 뭐냐ー?{Wait for input}{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Resigned}뭐야～ 없는 거야ー?{Wait for input}{emote: Reset}그럼 내가 기꺼이{pause 20}	{emote: Showmanship}이 마을의 마스코트가 되어주마!{Wait for input}{emote: Thought}그렇게 하려면{pause 40}	일단 여기로 이사를	와야 할 텐데{pause 8}・{pause 8}・{pause 8}・{000f-0005-0004-0015-0028}	좋은 생각이야!	그건 좀・・・
+"022"	{emote: Happiness}너네 마을 말이야!	아주 마음에 쏙 든다!{Wait for input}{emote: Agreement}뭐랄까,{pause 20}	여기에 있으면 좋은 일이	많이 일어날 것 같은 예감이 들어!{Wait for input}{emote: Sigh}에휴～{pause 40}	이대로 캠핑만 하고 돌아가기엔	너무 아깝다, {pause 8}{catchphrase}{000f-0005-0004-0000-0000}	여기에서 살래?	다음에 또 와
+"023"	{emote: Laughter}하하핫!{pause 20} 말을 잊은 걸 보니	내가 너네 마을 칭찬하는 게	쑥스러운가 보구나ー{pause 40}{emote: Soft Smile}{Wait for input}{emote: Happiness}난 빈말 따위는 하지 않는 남자다!{pause 20}	너네 마을에 좀 더 자신을 가져도 돼!	{pause 8}{catchphrase}!
+"024"	{emote: Worry}쳇ー!{pause 20}	이런 기회를 사양하다니	나중에 후회해도 난 모른다ー!
+"025"	{emote: Sunny}오, 그래ー!{pause 8} 꼭 다시 올게!{pause 40}	언제가 될지는 모르겠지만,	{pause 8}{catchphrase}!
+"026"
+"027"
+"028"
+"029"
+"030"

@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Curious}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Curious}
-"006"	{emote: Curious}
-"007"	{emote: Curious}
-"008"	{emote: Curious}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
+"001"	{emote: Alarmed}え！{pause 20}	もう　しょめいしたじゃん{pause 20}	{emote: Distress}わすれちゃったの～？！
+"002"	{emote: Curious}あれ？{pause 20}	もうしょめいしたよね{pause 30}	{emote: Laughter}キャハハ！　{pause 20}{emote: Soft Smile}うっかりってやつ？！
+"003"	{emote: Alarmed}え！{pause 20}	もう　しょめいしたよ～{pause 30}	{emote: Happiness}まちがえちゃったカンジ？！
+"004"	{emote: Alarmed}え？{pause 20}	{0012-0001-0000}の{pause 5}	しょめいに　{ruby (charSpan 2): きょうりょく}協力しろって？	{emote: Thought}{pause 8}・{pause 8}・{pause 8}・{pause 8}う～ん、{pause 20}そういうのは{pause 10}	アタイ　おうえんできないなぁ{Wait for input}	{emote: Happiness}{ruby (charSpan 1): わる}悪いけど　{pause 8}パスで！
+"005"	{emote: Curious}なになに？{pause 30}	{0012-0001-0000}の{pause 5}	しょめい{ruby (charSpan 2): きょうりょく}協力？{Wait for input}{emote: Sheepishness}そういうのは{pause 5}	よくわかんないから、{pause 10}{ruby (charSpan 2): こんかい}今回はやめとくわ！
+"006"	{emote: Curious}{0012-0001-0000}の{pause 5}	しょめいを{ruby (charSpan 1): あつ}集めてるの？{Wait for input}{emote: Distress}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}なんか{pause 10}	アタイの　{ruby (charSpan 2): いけん}意見とは　{pause 8}ちがうかも{Wait for input}{emote: Sheepishness}こういうときは、{pause 8}	パスすることにしてるから　{pause 10}ゴメンね！
+"007"	{emote: Curious}え？{pause 20}	{0012-0001-0000}の	しょめいの{ruby (charSpan 2): きょうりょく}協力？	{emote: Happiness}いいね、{pause 8}それ！{pause 20}	アタイも　しょめいさせて～
+"008"	{emote: Curious}ん？{pause 20}	{0012-0001-0000}の{pause 5}	しょめいに{ruby (charSpan 2): きょうりょく}協力しろって？{Wait for input}{emote: Glee}へぇ！　{pause 20}イケてるじゃん{pause 30}	{emote: Happiness}アタイも　サインした～い！
+"009"	{emote: Happiness}{0012-0001-0000}の{pause 5}	しょめい　{pause 8}{ruby (charSpan 1): あつ}集めてんの？{Wait for input}{emote: Laughter}それ　{pause 10}{ruby (charSpan 2): さんせい}賛成！{pause 30}	{emote: Soft Smile}アタイも　しょめいさせて！
+"010"	{emote: Happiness}はい、{pause 8}オッケー！{Wait for input}それにしても　{pause 8}わざわざ	よその{ruby (charSpan 1): むら}村から　{pause 8}ごくろうさまだね！{Wait for input}{emote: Happiness}おうえん　してるから、{pause 10}	がんばって{ruby (charSpan 1): あつ}集めてね！
+"011"	{emote: Happiness}はい、{pause 8}できたよ！{Wait for input}わざわざ　よその{ruby (charSpan 1): むら}村から{ruby (charSpan 1): く}来るなんて{pause 10}	ちょーがんばってるじゃん！{Wait for input}{emote: Glee}アタイ、{pause 10}そういうコ{pause 10}	おうえん　したくなっちゃうんだよね
+"012"	{emote: Happiness}よし、{pause 8}{ruby (charSpan 1): か}書けたよ！{Wait for input}それにしても　{pause 8}よその{ruby (charSpan 1): むら}村まで	やってくるなんて、{pause 10}	がんばってるじゃん！	{emote: Glee}この{ruby (charSpan 2): ちょうし}調子で、ファイトだよ！
+"013"	{emote: Happiness}はい、{pause 8}オッケー！{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 8}あ、{pause 10}これで　しょめいのらんも{pause 8}	{ruby (charSpan 2): ぜんぶ}全部　うまったみたいだね！{Wait for input}{emote: Glare}じゃ、{pause 10}このしょめい{pause 8}	{ruby (charSpan 2): ていしゅつ}提出しわすれないようにね！{pause 30}	おつかれ～、{pause 15}{catchphrase}
+"014"	{emote: Happiness}オッケー、{pause 8}できたよ！{Wait for input}{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 8}あ、{pause 10}しょめいのらんが	{ruby (charSpan 2): ぜんぶ}全部　うまったじゃん{Wait for input}{emote: Glee}よかったね、{pause 20}これで{ruby (charSpan 2): ていしゅつ}提出できるよ～
+"015"	{emote: Happiness}はい、{pause 8}{ruby (charSpan 1): か}書けたよ！{Wait for input}	{emote: Reset}あ！　{pause 20}アタイで{ruby (charSpan 2): さいご}最後だったんだね{Wait for input}{emote: Soft Smile}じゃあ、{pause 8}これで{ruby (charSpan 2): ていしゅつ}提出できるんでしょ？{pause 20}	おめでと～、{pause 15}{catchphrase}！

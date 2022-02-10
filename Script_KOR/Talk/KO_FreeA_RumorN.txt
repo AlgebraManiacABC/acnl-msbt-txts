@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	야, {pause 4}
-"003"	{emote: Happiness}
-"004"	난 아직 못 만나봤는데{pause 15}
-"005"	너 {emote: Curious}
-"006"	{0011-0001-0002-00-00}
-"007"	이봐, {emote: Curious}
-"008"	{emote: Curious}
-"009"	
-"010"	
+"001"	{emote: Worry}소문이란 참 무서운 것 같아{Wait for input}{emote: Reset}입에서 입으로 전해지는 동안{pause 8}	{emote: Resigned}점점 살이 붙어서{pause 8}	이야기가 어마어마해지니까 말이야!
+"002"	야, {pause 4}그 얘기 들었냐?{pause 15}	{0011-0001-0002-0000}{000e-000e-0008-0002-c774-0002-ac00}{pause 8}	{emote: Worry}감기에 걸렸다나 봐!	{emote: Soft Smile}곧 낫기야 하겠지만{pause 8}	{emote: Happiness}병문안을 가주면	엄청 기뻐할 거야, {pause 20}{catchphrase}!
+"003"	{emote: Happiness}맞다, {pause 8}새로운 집이 생기고 있던데!{pause 20}	그렇다는 말은 {pause 8}새로운 녀석이	이사 온다는 건가?	어떤 녀석일지 벌써 기대되는군!
+"004"	난 아직 못 만나봤는데{pause 15}	{emote: Happiness}새로운 녀석이 이사 왔다더라?!{Wait for input}{emote: Agreement}뒷골목 촌장인 내 입장에선{pause 8}	어떤 녀석인지 얼른	{emote: Happiness}확인하러 가야겠어!
+"005"	너 {emote: Curious}{pause 8}{0011-0001-0002-0000}{000e-000e-0006-0002-c774-0000}랑 만나봤냐?{Wait for input}{emote: Reset}최근에 이사 왔는데{pause 8}	{emote: Happiness}의외로 재밌는 녀석이더라구!
+"006"	{0011-0001-0002-0000} 녀석이{pause 8} 이사를	생각하고 있다는 소문이 들리던데{pause 15}	{emote: Curious}넌 뭐 아는 거 없냐?	{emote: Soft Smile}단순한 소문에 불과할 수도 있지만{pause 15}	{emote: Agreement}좀 신경 쓰이네{pause 8}・{pause 8}・{pause 8}・
+"007"	이봐, {emote: Curious}{pause 8}너 그거 아냐?!{pause 20}	{emote: Reset}{0011-0001-0002-0000} 녀석이{pause 8}	이사를 준비하고 있더라!	어디로 갈지는	{emote: Disagreement}아직 못 정했다던데{pause 20}	{emote: Thought}그 녀석{pause 20} 괜찮을까{pause 8}・{pause 8}・{pause 8}・?
+"008"	{emote: Curious}이봐, 들었냐?!{pause 20}	{emote: Reset}{0011-0001-0002-0000} 녀석이{pause 8}	이사한다더라고!	{emote: Agreement}누구한테 초대라도 받았는지{pause 8}	갈 곳도 벌써 정해졌대!{Wait for input}{emote: Resigned}난 전혀 모르고 있었어!{pause 30}	너한테도 아무 말도 없었냐?{Wait for input}{emote: Reset}할 말이 있으면 지금 가서 해 둬{pause 8}・{pause 8}・{pause 8}・
+"009"
+"010"

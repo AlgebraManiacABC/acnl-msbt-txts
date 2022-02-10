@@ -1,19 +1,19 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Sheepishness}
-"003"	{emote: Thought}
-"004"	{emote: Glee}
-"005"	{emote: Worry}
-"006"	{emote: Sheepishness}
-"007"	{emote: Soft Smile}
-"008"	{emote: Distress}
-"009"	{emote: Happiness}
-"010"	
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	{emote: Sadness}
-"014"	{emote: Curious}
-"015"	{emote: Curious}
-"016"	{emote: Surprise}
-"017"	{emote: Happiness}
-"018"	
+"001"	{emote: Happiness}{Player nickname (green)}さん！{Wait for input}{emote: Soft Smile}わたし　{pause 10}いつも　あなたのことを{pause 10}	「{Player nickname (green)}さん」って{pause 8}	{ruby (charSpan 1): よ}呼んでますけど	{emote: Glee}たまには　{pause 10}{ruby (charSpan 1): べつ}別の{ruby (charSpan 1): よ}呼び{ruby (charSpan 1): かた}方をしたら{pause 10}	{ruby (charSpan 2): しんせん}新鮮じゃないですか？{000f-0005-0004-0000-0028}	どんなの？	このままでいい
+"002"	{emote: Sheepishness}すみません{pause 10}	「{Player nickname (green)}さん」って{ruby (charSpan 1): よ}呼ばれるのを{pause 10}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってたんですね{Wait for input}{emote: Happiness}{ruby (charSpan 1): たし}確かに　あなたは{pause 10}	「{Player nickname (green)}さん」が　{pause 8}ピッタリです！
+"003"	{emote: Thought}えっと{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Inspired}「{Player nickname (green)}さん」{pause 8}	なんてどうかしら？{000f-0005-0004-0015-0028}	いいね！	イヤだ！
+"004"	{emote: Glee}{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってもらえたみたいですね！{Wait for input}{emote: Happiness}では　これから{pause 10}	「{Player nickname (green)}さん」って{pause 3}{ruby (charSpan 1): よ}呼びますね！
+"005"	{emote: Worry}そうですか{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入らなかったんですね{Wait for input}{emote: Soft Smile}では　{pause 10}「{Player nickname (green)}さん」のままに	しておきます、{pause 15}{catchphrase}
+"006"	{emote: Sheepishness}そうですか{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}では　{pause 10}どう{ruby (charSpan 1): よ}呼ばれたら	{pause 8}うれしいかしら？
+"007"	{emote: Soft Smile}「{Player nickname (green)}さん」で{pause 5}　いいですか？{confirmation-02}{000f-0005-0004-0015-0028}	うん、オッケー！	ちがうよ～
+"008"	{emote: Distress}ごめんなさい{pause 15}	もう{ruby (charSpan 2): いちど}一度　お{ruby (charSpan 1): ねが}願いします、{pause 15}{catchphrase}
+"009"	{emote: Happiness}では{pause 10}「{Player nickname (green)}さん」で{ruby (charSpan 1): き}決まりですね{pause 30}	{emote: Sunny}ピッタリの{pause 3}　ネーミングだと{ruby (charSpan 1): おも}思います！
+"010"
+"011"	{emote: Happiness}あの～　{pause 10}{Player nickname (green)}さんって{pause 10}	{ruby (charSpan 1): まわ}周りの{ruby (charSpan 1): かた}方から{pause 8}「{0011-0000-0002-0000}」って{pause 8}	{ruby (charSpan 1): よ}呼ばれてますよね！	{emote: Glee}とても　すてきなので、{pause 10}	わたしも　{pause 5}そう{ruby (charSpan 1): よ}呼んでいいですか？{000f-0005-0004-0015-0028}	いいよ！	やめて～
+"012"	{emote: Happiness}よかったです{Wait for input}	では　これからは{pause 10}	{emote: Sunny}「{Player nickname (green)}さん」で！
+"013"	{emote: Sadness}あら{pause 8}・{pause 8}・{pause 8}・{pause 8}{ruby (charSpan 2): ざんねん}残念です{Wait for input}{emote: Sheepishness}でも　{ruby (charSpan 1): かんが}考えてみると{pause 10}	{ruby (charSpan 1): いま}今までの　{ruby (charSpan 1): よ}呼び{ruby (charSpan 1): かた}方のほうが{pause 10}	しっくりきますね！	{emote: Soft Smile}では、{pause 10}	{Player nickname (green)}さんのままで！
+"014"	{emote: Curious}では{pause 10}　{ruby (charSpan 1): なん}何て{ruby (charSpan 1): よ}呼べばいいですか？　{pause 15}{catchphrase}？
+"015"	{emote: Curious}「{Player nickname (green)}さん」ですね？{confirmation-02}{000f-0005-0004-0015-0028}	そうだよ～	ちがうってば！
+"016"	{emote: Surprise}あら　{pause 10}{ruby (charSpan 1): き}聞き{ruby (charSpan 2): まちが}間違えました！{pause 20}	{emote: Distress}すみません、{pause 20}もう{ruby (charSpan 2): いちど}一度お{ruby (charSpan 1): ねが}願いします
+"017"	{emote: Happiness}なるほど！{pause 15}	とても　{ruby (charSpan 2): にあ}似合ってると{ruby (charSpan 1): おも}思います{Wait for input}	{emote: Glee}ネーミングセンス、{pause 10}ありますね！
+"018"

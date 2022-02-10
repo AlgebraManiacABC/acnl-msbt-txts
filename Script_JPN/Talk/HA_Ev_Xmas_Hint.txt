@@ -1,41 +1,41 @@
 == 0 ==
-"001"	{emote: Anger}
-"002"	{emote: Anger}
-"003"	{emote: Distress}
-"004"	{emote: Curious}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	クリスマスイブまで	あと{pause 8}
-"008"	{emote: Anger}
-"009"	{emote: Glee}
-"010"	{Player nickname (green)}
-"011"	クリスマスイブも、{pause 20}
-"012"	ついに{ruby (charSpan 2): あした}明日かー！{pause 20}
-"013"	
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	{emote: Happiness}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	{emote: Happiness}
-"029"	{emote: Happiness}
-"030"	{emote: Happiness}
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	
-"034"	
-"035"	
-"036"	
-"037"	{emote: Glare}
-"038"	{emote: Laughter}
-"039"	{emote: Daydreaming}
-"040"	{emote: Shyness}
+"001"	{emote: Anger}{Player nickname (green)}ー！{pause 20}	クリスマスに{ruby (charSpan 1): む}向けて、	トレーニング　そろそろ{ruby (charSpan 1): はじ}始めるかー！{Wait for input}{emote: Curious}え？{pause 20}	どこをきたえるのか？{Wait for input}	{emote: Star Yell}{pause 15}{0007-000b-0000}そんなの　{ruby (charSpan 2): ぜんしん}全身に{ruby (charSpan 1): き}決まってるだろー{pause 40}{emote: Soft Smile}
+"002"	{emote: Anger}もうすぐ　クリスマスだからって{pause 8}	みんな　ちょっと　たるんでるぞー！{Wait for input}{emote: Resigned}{ruby (charSpan 2): とうじつ}当日　ケーキ　{ruby (charSpan 1): た}食べまくるんだし、{pause 20}	{ruby (charSpan 1): いま}今のうちから{pause 8}	トレーニング　するべきだろー
+"003"	{emote: Distress}クリスマスって　スゲーなー！{pause 20}	みんな　{ruby (charSpan 1): あたま}頭の{ruby (charSpan 1): なか}中	それ{ruby (charSpan 2): いっしょく}一色って　{ruby (charSpan 1): かん}感じだー！{Wait for input}{emote: Glee}{0007-000b-0000}や、{pause 20}{0007-000b-0000}やべぇー！{pause 40}	オイラも　なんか	{ruby (charSpan 1): たの}楽しみに　なってきたー！
+"004"	{emote: Curious}サンタさんって	ヤツがくるんだろー？{pause 40}	{emote: Anger}どんなヤツなんだろうなー？{Wait for input}すっごい{ruby (charSpan 1): りょう}量のプレゼントを	かかえてくるんだから、{pause 20}	もしかして　{ruby (charSpan 2): ちからも}力持ちか？！{Wait for input}{emote: Distress}チクショー！{pause 40}	{ruby (charSpan 1): ま}負けてられないぞー！
+"005"	{emote: Happiness}だんだん　{ruby (charSpan 1): ちか}近づいてきたな！{pause 20}	クリスマスイブ！{pause 40}	{ruby (charSpan 1): じつ}実は　けっこう　{ruby (charSpan 1): たの}楽しみなんだー！
+"006"	{emote: Happiness}{Player nickname (green)}ー！{pause 20}	もう　クリスマスにもらう	プレゼント　{ruby (charSpan 1): き}決めたかー？{Wait for input}{emote: Glee}オイラは{pause 20}　もう	{ruby (charSpan 1): き}決まってるんだー、{pause 8}{catchphrase}
+"007"	クリスマスイブまで	あと{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Curious}　{ruby (charSpan 2): なんにち}何日だっけ？{Wait for input}{emote: Distress}とにかく　もうそこまで	せまってきてるぞー！
+"008"	{emote: Anger}なぁ、{Player nickname (green)}！{pause 20}	サンタさんの　じょうほうがあれば、	オイラに{ruby (charSpan 1): おし}教えてくれー！{Wait for input}プレゼント　{ruby (charSpan 2): たいりょう}大量に{ruby (charSpan 1): はこ}運んだり、{pause 20}	{ruby (charSpan 1): そら}空{ruby (charSpan 1): と}飛んだり、{pause 20}	えんとつに{ruby (charSpan 1): のぼ}登ったり{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}{ruby (charSpan 1): し}知れば　{ruby (charSpan 1): し}知るほど、{pause 20}	スッゲー　ヤツな	{ruby (charSpan 1): き}気がするんだー
+"009"	{emote: Glee}あー！{pause 8}	さっさと{ruby (charSpan 1): こ}来ないかなー！{pause 20}	クリスマスイブ！
+"010"	{Player nickname (green)}は、{pause 20}	{emote: Curious}{ruby (charSpan 2): あした}明日のクリスマスイブ	どうするんだー？{Wait for input}{emote: Pride}オイラは　ねないで{pause 20}	サンタさんを　{ruby (charSpan 1): ま}待ってみる	つもりだ、{pause 8}{catchphrase}
+"011"	クリスマスイブも、{pause 20}	ついに　{ruby (charSpan 2): あした}明日だと　{ruby (charSpan 1): おも}思うと	キンチョーするなー！
+"012"	ついに{ruby (charSpan 2): あした}明日かー！{pause 20}	クリスマスイブ！{Wait for input}{emote: Anger}{Player nickname (green)}、{pause 20}	{ruby (charSpan 2): あした}明日の{ruby (charSpan 1): よる}夜は	{ruby (charSpan 1): あ}空けておいた{ruby (charSpan 1): ほう}方が　いいぞ？{Wait for input}{emote: Glee}なんたって、{pause 20}	プレゼントが　もらえるんだからなー！
+"013"
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"
+"020"
+"021"	{emote: Happiness}ここだけの{ruby (charSpan 1): はなし}話、{pause 20}	オイラは　サンタさんに{pause 8}	{Blue}{ruby (charSpan 2): かぐ}家具{Color Reset}を　たのむつもりなんだー
+"022"	{emote: Happiness}ここだけの{ruby (charSpan 1): はなし}話、{pause 20}	オイラは　サンタさんに{pause 8}	{Blue}じゅうたん{Color Reset}を　たのむつもりなんだー
+"023"	{emote: Happiness}ここだけの{ruby (charSpan 1): はなし}話、{pause 20}	オイラは　サンタさんに{pause 8}	{Blue}かべがみ{Color Reset}を　たのむつもりなんだー
+"024"	{emote: Happiness}ここだけの{ruby (charSpan 1): はなし}話、{pause 20}	オイラは　サンタさんに{pause 8}	{Blue}{ruby (charSpan 2): かでん}家電{Color Reset}を　たのむつもりなんだー
+"025"	{emote: Happiness}ここだけの{ruby (charSpan 1): はなし}話、{pause 20}	オイラは　サンタさんに{pause 8}	{Blue}{ruby (charSpan 2): がっき}楽器{Color Reset}を　たのむつもりなんだー
+"026"	{emote: Happiness}ここだけの{ruby (charSpan 1): はなし}話、{pause 20}	オイラは　サンタさんに{pause 8}	{Blue}{ruby (charSpan 2): しょくぶつ}植物{Color Reset}をたのむつもりなんだー
+"027"	{emote: Happiness}ここだけの{ruby (charSpan 1): はなし}話、{pause 20}	オイラは　サンタさんに{pause 8}　	{Blue}{ruby (charSpan 1): ふく}服{Color Reset}を　たのむつもりなんだー
+"028"	{emote: Happiness}ここだけの{ruby (charSpan 1): はなし}話、{pause 20}	オイラは　サンタさんに{pause 8}　	{Blue}{ruby (charSpan 2): にんぎょう}人形{Color Reset}を　たのむつもりなんだー
+"029"	{emote: Happiness}ここだけの{ruby (charSpan 1): はなし}話、{pause 20}	オイラは　サンタさんに{pause 8}	{Blue}おもちゃ{Color Reset}を　たのむつもりなんだー
+"030"	{emote: Happiness}ここだけの{ruby (charSpan 1): はなし}話、{pause 20}	オイラは　サンタさんに{pause 8}	{Blue}{ruby (charSpan 1): た}食べ{ruby (charSpan 1): もの}物{Color Reset}を　たのむつもりなんだー
+"031"	{emote: Happiness}ここだけの{ruby (charSpan 1): はなし}話、{pause 20}	オイラは　サンタさんに{pause 8}	{Blue}ランプ{Color Reset}を　たのむつもりなんだー
+"032"	{emote: Happiness}ここだけの{ruby (charSpan 1): はなし}話、{pause 20}	オイラは　サンタさんに{pause 8}	{Blue}かさ{Color Reset}を　たのむつもりなんだー
+"033"
+"034"
+"035"
+"036"
+"037"	{emote: Glare}{ruby (charSpan 1): じつ}実はオイラ、{pause 20}{ruby (charSpan 2): ことし}今年のプレゼントは{pause 20}	{ruby (charSpan 1): いろ}色でいうと　{Blue}{0012-0002-0000}{Color Reset}のを	ねらってるんだ！
+"038"	{emote: Laughter}クリスマス、{pause 20}	はり{ruby (charSpan 1): き}切りすぎて	{ruby (charSpan 2): ちょうし}調子{ruby (charSpan 1): わる}悪くするなよなー？{pause 20}{emote: Happiness}
+"039"	{emote: Daydreaming}{ruby (charSpan 2): ことし}今年は　ホワイトクリスマスに	なるかもなー{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sunny}オイラの　カンだ！
+"040"	{emote: Shyness}{ruby (charSpan 2): ことし}今年は{pause 20}　オイラなりに	いいコにしてた　つもりだぞー？{Wait for input}{emote: Distress}たのむー！{pause 20}	サンタさん！{pause 40}	オイラに{pause 8}　アレをくれーーっ！

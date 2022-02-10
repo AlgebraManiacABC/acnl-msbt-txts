@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Sigh}
-"002"	{emote: Mistaken}
-"003"	{emote: Worry}
+"001"	{emote: Sigh}ちぇーーっ！{pause 40}	{ruby (charSpan 2): きょう}今日はいそがしいのかー{Wait for input}{emote: Happiness}じゃあ、	また{ruby (charSpan 2): こんど}今度だな！
+"002"	{emote: Mistaken}なーんだ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): きょう}今日は　ダメかー{Wait for input}{emote: Worry}おとなしく{pause 20}	{ruby (charSpan 2): ひとり}一人で　キントレでも	するかな、{pause 8}{catchphrase}
+"003"	{emote: Worry}えぇーっ？！{pause 20}	ダメなのかよー{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Resigned}オマエって　{ruby (charSpan 2): いがい}意外と	いそがしいんだな、{pause 8}{catchphrase}

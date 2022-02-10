@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{Blue}おくすり{Color Reset}を　{pause 5}
-"002"	さっき{ruby (charSpan 1): の}飲んだ　{pause 5}!
-"003"	{emote: Soft Smile}
-"004"	{emote: Soft Smile}
-"005"	{0011-0000-0002-00-00}
-"006"	さっき　{pause 10}
-"007"	{emote: Shyness}
-"008"	やっぱり　{pause 10}
-"009"	{Player nickname (green)}
-"010"	あんなに　{pause 5}
-"011"	{emote: Shyness}
-"012"	{emote: Worry}
-"013"	{pause 8}
-"014"	{Player nickname (green)}
-"015"	{0011-0000-0002-00-00}
+"001"	{Blue}おくすり{Color Reset}を　{pause 5}{ruby (charSpan 1): の}飲んだので{pause 15}	{emote: Soft Smile}だいぶ　{pause 5}{ruby (charSpan 2): ちょうし}調子が{ruby (charSpan 1): よ}良くなってきました{pause 30}{emote: Reset}
+"002"	さっき{ruby (charSpan 1): の}飲んだ　{pause 5}{Blue}おくすり{Color Reset}が{pause 10}	{emote: Agreement}{ruby (charSpan 1): き}効いてきた{ruby (charSpan 1): き}気がします
+"003"	{emote: Soft Smile}{ruby (charSpan 1): すこ}少し　{pause 10}{ruby (charSpan 2): げんき}元気が{ruby (charSpan 1): で}出てきましたよ{Wait for input}	{emote: Reset}やっぱり　{pause 5}{Blue}おくすり{Color Reset}は{pause 10}	{ruby (charSpan 1): はや}早めに　{ruby (charSpan 1): の}飲まないと　{pause 10}だめですね
+"004"	{emote: Soft Smile}おかげさまで　{pause 10}だいぶ　{ruby (charSpan 2): かいふく}回復してきました{Wait for input}	{emote: Reset}{Player nickname (green)}さんに　いただいた{pause 10}	{Blue}おくすり{Color Reset}の　{pause 3}おかげです	{ruby (charSpan 2): げんき}元気になったら{pause 10}	お{ruby (charSpan 1): れい}礼させてください
+"005"	{0011-0000-0002-0000}さんに　{pause 5}いただいた{pause 10}	{Blue}おくすり{Color Reset}のおかげで{pause 15}	{emote: Soft Smile}ずいぶん　{ruby (charSpan 2): かいふく}回復したんですよ	{emote: Reset}やっぱり　{pause 10}{ruby (charSpan 1): はや}早めに{ruby (charSpan 1): の}飲むと　{pause 5}{ruby (charSpan 1): ちが}違いますね！
+"006"	さっき　{pause 10}{Blue}おくすり{Color Reset}を{ruby (charSpan 1): の}飲んだので、{pause 10}	{emote: Soft Smile}だいぶ　{pause 5}{ruby (charSpan 1): からだ}体が{ruby (charSpan 1): らく}楽になりました{Wait for input}{emote: Shyness}このまま{pause 10}　{ruby (charSpan 1): はや}早く{ruby (charSpan 1): なお}治ると{pause 5}	いいんですが{pause 8}・{pause 8}・{pause 8}・{pause 8}、{pause 15}{catchphrase}
+"007"	{emote: Shyness}さっき{ruby (charSpan 1): の}飲んだ　{pause 8}{Blue}おくすり{Color Reset}が、{pause 10}	{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): き}効いてくれると{pause 8}	いいんですけど{pause 8}・{pause 8}・{pause 8}・{pause 8}、{pause 10}{catchphrase}	{emote: Soft Smile}このまま　{pause 5}{ruby (charSpan 1): しず}静かにしていれば{pause 10}	{ruby (charSpan 3): だいじょうぶ}大丈夫なはずです
+"008"	やっぱり　{pause 10}{Blue}おくすり{Color Reset}は　{pause 5}{ruby (charSpan 1): き}効きますね{Wait for input}	{emote: Agreement}こうして　{pause 5}{ruby (charSpan 2): おとな}大人しくしていれば、{pause 15}	すぐ　{pause 5}{ruby (charSpan 1): よ}良くなると{ruby (charSpan 1): おも}思います
+"009"	{Player nickname (green)}さんから　いただいた{pause 10}	{Blue}おくすり{Color Reset}のおかげで、{pause 15}	{emote: Soft Smile}だいぶ　{pause 5}{ruby (charSpan 1): からだ}体が{ruby (charSpan 1): かる}軽くなりました	{emote: Reset}もう{ruby (charSpan 1): すこ}少し　{pause 5}{ruby (charSpan 1): しず}静かにしていれば、{pause 10}	また　{ruby (charSpan 2): いっしょ}一緒に　{pause 5}{ruby (charSpan 1): あそ}遊べますね
+"010"	あんなに　{pause 5}しんどかったのに、{pause 10}	{Blue}おくすり{Color Reset}を{ruby (charSpan 1): の}飲んだら{pause 10}	{emote: Soft Smile}だいぶ　{pause 5}{ruby (charSpan 1): らく}楽になったんです	{emote: Reset}{0011-0000-0002-0000}さんが{pause 10}	おくすりをくれた　{pause 5}おかげですね
+"011"	{emote: Shyness}{pause 8}・{pause 8}・{pause 8}・{pause 8}{Blue}おくすり{Color Reset}{ruby (charSpan 1): の}飲んだので{pause 10}	たぶん　{pause 10}{ruby (charSpan 1): よ}良くなると{pause 5}{ruby (charSpan 1): おも}思います
+"012"	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 8}さっき　{pause 10}{Blue}おくすり{Color Reset}{ruby (charSpan 1): の}飲んだので{pause 20}	たぶん　{pause 15}これから{pause 10}　{ruby (charSpan 1): き}効いてくるはずです
+"013"	{pause 8}・{pause 8}・{pause 8}・{pause 8}さっきの　{Blue}おくすり{Color Reset}で{pause 20}	{emote: Shyness}これ{ruby (charSpan 2): いじょう}以上　{pause 10}{ruby (charSpan 1): わる}悪くは{pause 8}・{pause 8}・{pause 8}・{pause 8}	ならなそうです{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"014"	{Player nickname (green)}さんが　くれた{pause 10}	{Blue}おくすり{Color Reset}を{ruby (charSpan 1): の}飲んだので{pause 8}・{pause 8}・{pause 8}・{pause 8}	きっと　{pause 10}{ruby (charSpan 1): よ}良くなるはずです	ほら{pause 8}・{pause 8}・{pause 8}・{pause 20}ちょっとだけ{pause 10}	{ruby (charSpan 2): げんき}元気に　{pause 10}なってきました
+"015"	{0011-0000-0002-0000}さんがくれた{pause 10}	{Blue}おくすり{Color Reset}を　{pause 5}{ruby (charSpan 1): の}飲んだら{pause 8}・{pause 8}・{pause 8}・{pause 20}	だいぶ　{ruby (charSpan 1): よ}良くなりました{pause 8}・{pause 8}・{pause 8}・{pause 8}

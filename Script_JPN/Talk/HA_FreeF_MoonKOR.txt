@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{0009-0001-0006-03-00-04-00-05-00}
-"002"	{0009-0003-000a-08-00-09-00-0a-00-0b-00-0c-00}
-"003"	{emote: Happiness}
-"004"	{emote: Curious}
-"005"	{emote: Curious}
-"006"	
-"007"	
-"008"	{emote: Thought}
-"009"	{emote: Anger}
-"010"	{emote: Greetings}
-"011"	{emote: Greetings}
-"012"	{emote: Anger}
-"013"	
-"014"	{emote: Distress}
-"015"	{emote: Alarmed}
-"016"	
-"017"	{emote: Laughter}
-"018"	{emote: Alarmed}
-"019"	{emote: Shocked}
+"001"	{0009-0001-0006-0003-0004-0005}
+"002"	{0009-0003-000a-0008-0009-000a-000b-000c}
+"003"	{emote: Happiness}{ruby (charSpan 2): こんや}今夜は　{Blue}{ruby (charSpan 2): チュソク}秋夕{Color Reset}だぞー？{pause 40}	オマエの{ruby (charSpan 1): むら}村でいう	{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}のことだ！{Wait for input}{emote: Glee}{ruby (charSpan 1): つき}月が{ruby (charSpan 1): で}出たら	{ruby (charSpan 2): ほんばん}本番スタートだー！{pause 40}	{ruby (charSpan 1): たの}楽しみだなー、{pause 8}{catchphrase}
+"004"	{emote: Curious}オマエの{ruby (charSpan 1): むら}村も	{ruby (charSpan 2): きょう}今日は　{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}なんだろー？{Wait for input}{emote: Happiness}オイラの{ruby (charSpan 1): むら}村だと{pause 20}	ソンピョンっていう　モチを{ruby (charSpan 1): く}食うんだ！{Wait for input}{emote: Pride}{ruby (charSpan 2): ことし}今年も　ソンピョン{ruby (charSpan 2): おおぐ}大食い{ruby (charSpan 3): しんきろく}新記録{pause 20}	{ruby (charSpan 1): だ}出しちゃおうかなー、{pause 8}{catchphrase}
+"005"	{emote: Curious}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): よる}夜までいるのかー？{pause 40}	{emote: Happiness}{ruby (charSpan 1): よ}良かったら　オイラの{ruby (charSpan 1): むら}村の{ruby (charSpan 2): まんげつ}満月を	{ruby (charSpan 1): み}見てってくれよー！{Wait for input}{emote: Glee}{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}は{pause 20}　{ruby (charSpan 2): にんずう}人数が{ruby (charSpan 1): おお}多い{ruby (charSpan 1): ほう}方が	もりあがるからな、{pause 8}{catchphrase}
+"006"
+"007"
+"008"	{emote: Thought}{ruby (charSpan 1): つき}月までの　きょりって{pause 20}	どのくらい　あるんだろうなー？{Wait for input}{emote: Sunny}いつか　あのきょりを	{ruby (charSpan 1): はし}走ってみたいぞー、{pause 8}{catchphrase}
+"009"	{emote: Anger}いいかげん　{ruby (charSpan 2): しょうたい}正体をあらわせ！{pause 40}	{ruby (charSpan 2): まんげつ}満月の{ruby (charSpan 1): よる}夜に　{ruby (charSpan 1): むら}村に{ruby (charSpan 1): く}来るなんて、{pause 8}	{ruby (charSpan 1): じつ}実は　オマエ{pause 8}　{ruby (charSpan 1): つき}月{ruby (charSpan 2): せいじん}星人なんだろー？！{Player can respond (0005):000e-0015-000f-0028}	そうだよ	ちがうよ
+"010"	{emote: Greetings}{Blue}{ruby (charSpan 2): チュソク}秋夕{Color Reset}といえば　ソンピョン！{pause 40}	うまい　モチなんだー！{Wait for input}{emote: Happiness}オマエの{ruby (charSpan 1): むら}村の　{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}だと、{pause 20}	つきみだんごってのが	あるんだろー？{Wait for input}{emote: Thought}うーん{pause 8}・{pause 8}・{pause 8}・{pause 20}	どっちの{ruby (charSpan 1): ほう}方が	カロリー{ruby (charSpan 1): たか}高いんだろーな
+"011"	{emote: Greetings}{ruby (charSpan 2): きょう}今日　{Town name (pink)}{ruby (charSpan 1): むら}村では、{pause 20}	{Blue}{ruby (charSpan 2): チュソク}秋夕{Color Reset}っていうイベントを	やってるぞー！{Wait for input}{emote: Anger}{ruby (charSpan 1): つき}月を{ruby (charSpan 1): み}見ながら{pause 8}　うまいもんを{ruby (charSpan 1): く}食う！{pause 40}	{emote: Pride}そして{pause 8}　{ruby (charSpan 1): つき}月に{ruby (charSpan 1): む}向かって{pause 20}	{ruby (charSpan 1): はし}走るんだー！{Wait for input}{emote: Laughter}まぁ　{ruby (charSpan 1): はし}走るってのは、{pause 20}	オイラの　オリジナルなんだけどさ！{pause 20}	ハハッ！{pause 40}{emote: Happiness}
+"012"	{emote: Anger}オマエの{ruby (charSpan 1): むら}村の{ruby (charSpan 1): つき}月と{pause 8}	オイラの{ruby (charSpan 1): むら}村の{ruby (charSpan 1): つき}月、{pause 20}	どっちが　キレイだー？{Player can respond (0001):0011-0000-0012-0000-0013-0000}	{Town name (pink)}{ruby (charSpan 1): むら}村	{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): むら}村	{ruby (charSpan 1): おな}同じ
+"013"
+"014"	{emote: Distress}{0007-000b-0000}うぉーーっ！{pause 20}	やっぱり　そうだー！{pause 40}	{ruby (charSpan 1): つき}月から{ruby (charSpan 1): き}来た　{ruby (charSpan 1): つき}月{ruby (charSpan 2): せいじん}星人！{Wait for input}{emote: Curious}あれ？{pause 40}	オマエ　どうやって{ruby (charSpan 1): かえ}帰るんだ？{Wait for input}{emote: Cold Chill}{pause 20}なんか{pause 20}　かわいそうに	なってきたぞ{pause 8}・{pause 8}・{pause 8}・
+"015"	{emote: Alarmed}そ、{pause 20}そうか？{pause 40}	{emote: Anger}うーーん　{pause 20}でも	やっぱり　あやしい{pause 8}・{pause 8}・{pause 8}・
+"016"
+"017"	{emote: Laughter}へへっ！{pause 20}	さすが　オイラの{ruby (charSpan 1): むら}村！{pause 40}	{ruby (charSpan 1): つき}月のキレイさも{ruby (charSpan 2): いちばん}一番なんだな！{pause 20}{emote: Happiness}
+"018"	{emote: Alarmed}ナニッ？！{pause 20}	ホントかー？！{Wait for input}{emote: Mischief}よーっし{pause 8}・{pause 8}・{pause 8}・{pause 20}	いつか　オマエの{ruby (charSpan 1): むら}村に{ruby (charSpan 1): い}行ったら	じっくり　{ruby (charSpan 1): み}見せてもらうぞ、{pause 8}{catchphrase}
+"019"	{emote: Shocked}{ruby (charSpan 1): おな}同じ{pause 20}って{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sadness}そりゃ　そーだけどさ{Wait for input}もっと　あるじゃんか{pause 20}	{ruby (charSpan 1): まわ}回りの{ruby (charSpan 2): ふうけい}風景とか、{pause 8}	{ruby (charSpan 1): み}見るときの　{ruby (charSpan 2): きも}気持ちとか{Wait for input}{emote: Resigned}オマエも　まだまだ	こどもだな、{pause 8}{catchphrase}

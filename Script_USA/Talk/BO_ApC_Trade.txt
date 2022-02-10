@@ -1,45 +1,45 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Anger}
-"003"	You know how one person's trash is	another person's treasure?{pause 20}
-"004"	{emote: Sadness}
-"005"	{emote: Glee}
-"006"	{0000-0002-0002-64-00}{emote: Happiness}
-"007"	{emote: Laughter}
-"008"	{emote: Happiness}
-"009"	{emote: Worry}
-"010"	{emote: Glee}
-"011"	{emote: Happiness}
-"012"	{emote: Shocked}
-"013"	{emote: Glee}
-"014"	{emote: Happiness}
+"001"	{emote: Alarmed}{0007-000a-0000}Oh, wow!{pause 20} What are you doing with	{Article(word-dependant)}{0011-0003-0002-0000}?{Wait for input}	{emote: Distress}I've always wanted one of those!	Let's make a deal! {pause 20}Wanna trade	your {0011-0003-0002-0000} for my	{0011-0003-0002-0001}?{Player can respond (0005):0005-0015-0004-0028}	Sure!	No way!
+"002"	{emote: Anger}I smell {Article(word-dependant)}{0011-0003-0002-0000}.{pause 20}	It's yours, isn't it?{Player can respond (0005):0007-0000-0008-0028}	How'd you know?	Nope, it's not mine.
+"003"	You know how one person's trash is	another person's treasure?{pause 20}{emote: Agreement} Well,	my stuff is all treasure.	{emote: Happiness}So how about trading your{pause 8}	{0011-0003-0002-0000} for my	{0011-0003-0002-0001}?	What do you say?{Player can respond (0005):000d-0015-000c-0028}	Let's trade!	Not interested.
+"004"	{emote: Sadness}Oh, I see how it is{pause 8}.{pause 8}.{pause 8}.{pause 20} And I won't	push you,{pause 8} {catchphrase}.
+"005"	{emote: Glee}Sweeeeeeeet!{pause 40} OK then, here we go!
+"006"	{Text size 100%}{emote: Happiness}A huh huh huh! Thanks a bunch,{Text size 100%}{pause 8}	{catchphrase}!
+"007"	{emote: Laughter}Are you kidding?{pause 20} I've been looking	for one of those forever.{Wait for input}Wanna trade it for my sweet, sweet	{0011-0003-0002-0001}?{Player can respond (0005):000a-0015-0009-0028}	Sure!	No, thanks.
+"008"	{emote: Happiness}You must have just forgotten you	were carrying it, 'cause I can totally	smell it.	How about I trade you my 	{0011-0003-0002-0001} for it?{Player can respond (0005):000a-0015-0009-0028}	OK!	No way!
+"009"	{emote: Worry}Rats!{pause 20} I guess I can't force you	to trade{pause 8}.{pause 8}.{pause 8}.even though I wish I	could,{pause 8} {catchphrase}!
+"010"	{emote: Glee}Yesssssss!{pause 20} Well, there's no point	waiting around. Let's do this!
+"011"	{emote: Happiness}A huh huh huh!{pause 20} Thanks a million,{pause 8}	{catchphrase}!
+"012"	{emote: Shocked}What?!{pause 20} {emote: Distress}How can you not want 	something as cool as this?{Wait for input}	{emote: Resigned}You're kind of weird, {Player nickname (green)}.
+"013"	{emote: Glee}Yesssss!{pause 20} Trading treasure for	treasure is win-win for both of us!
+"014"	{emote: Happiness}Trading stuff is sooo fun.{pause 20} We gotta	do this again,{pause 8} {catchphrase}!
 == 1 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Anger}
-"003"	¿Has oído que lo que uno no quiere,	otro lo desea?{pause 20}!
-"004"	{emote: Sadness}
-"005"	{emote: Glee}
-"006"	{0000-0002-0002-64-00}{emote: Happiness}
-"007"	{emote: Laughter}
-"008"	{emote: Happiness}
-"009"	{emote: Worry}
-"010"	{emote: Glee}
-"011"	{emote: Happiness}
-"012"	{emote: Shocked}
-"013"	{emote: Glee}
-"014"	{emote: Happiness}
+"001"	{emote: Alarmed}{0007-000a-0000}¡Anda!{pause 20} ¿Qué haces con	{Article(word-dependant)}{0011-0003-0002-0000},	{Player nickname (green)}?{Wait for input} {emote: Distress}Yo que quería un{o/a/}...	¡Hagamos un trato! {pause 20}Te cambio	tu {0011-0003-0002-0000} por mi	{0011-0003-0002-0001}, ¿vale?{Player can respond (0005):0005-0015-0004-0028}	¡Claro!	¡Ni hablar!
+"002"	{emote: Anger}¡Huele a {0011-0003-0002-0000}!{pause 20}	Es tuy{o/a/}, ¿no?{Player can respond (0005):0007-0000-0008-0028}	¿Cómo lo sabes?	Pues no...
+"003"	¿Has oído que lo que uno no quiere,	otro lo desea?{pause 20}{emote: Agreement} Pues tengo algo que	no quiero, ¡pero seguro que tú sí!	{emote: Happiness}Oye, ¿qué tal si me das tu{pause 8}	{0011-0003-0002-0000} a cambio	de mi {0011-0003-0002-0001}?	¿Qué me dices?{Player can respond (0005):000d-0015-000c-0028}	¡Hagamos el cambio!	No me interesa
+"004"	{emote: Sadness}Ay, ya veo{pause 8}.{pause 8}.{pause 8}.{pause 20} No insistiré,{pause 8}	{catchphrase}.
+"005"	{emote: Glee}¡Moooooolaaaaaa!{pause 40} ¡Pues venga,	vamos con ello!
+"006"	{Text size 100%}{emote: Happiness}¡Je, je, je! ¡Muchísimas gracias,{Text size 100%}{pause 8}	{catchphrase}!
+"007"	{emote: Laughter}¿Estás de broma?{pause 20} Llevo siglos	buscando algo así.{Wait for input}¿Aceptarías a cambio mi hermos{o/a/}	{0011-0003-0002-0001}?{Player can respond (0005):000a-0015-0009-0028}	¡Claro!	No, gracias.
+"008"	{emote: Happiness}Pues se te habrá olvidado que	llevabas eso encima, porque	lo huelo perfectamente.	¿Qué tal si te lo cambio por	mi {0011-0003-0002-0001}?{Player can respond (0005):000a-0015-0009-0028}	¡Vale!	¡Ni hablar!
+"009"	{emote: Worry}¡Narices!{pause 20} Supongo que no puedo	obligarte a hacer el cambio{pause 8}.{pause 8}.{pause 8}.	¡Ojalá pudiera,{pause 8} {catchphrase}!
+"010"	{emote: Glee}¡Síiiiiii!{pause 20} Pues entonces no perdamos	más el tiempo. ¡Vamos a hacerlo!
+"011"	{emote: Happiness}¡Je, je, je!{pause 20} ¡Un millón de gracias,{pause 8}	{catchphrase}!
+"012"	{emote: Shocked}¡¿Qué?!{pause 20} {emote: Distress}¿Cómo puede no	interesarte, con lo guay que es?{Wait for input}	{emote: Resigned}Qué rar{o/a} eres, {Player nickname (green)}.
+"013"	{emote: Glee}¡Síiii!{pause 20} ¡Intercambiar tesoritos	es lo mejor para los dos!
+"014"	{emote: Happiness}Intercambiar cosas mola un montón.	{pause 20}¡Tenemos que repetirlo alguna	vez,{pause 8} {catchphrase}!
 == 2 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Anger}
-"003"	Moi, je collectionne toutes sortes	d'objets différents.{pause 20}
-"004"	{emote: Sadness}
-"005"	{emote: Glee}
-"006"	{0000-0002-0002-64-00}{emote: Happiness}
-"007"	{emote: Laughter}
-"008"	{emote: Happiness}
-"009"	{emote: Worry}
-"010"	{emote: Glee}
-"011"	{emote: Happiness}
-"012"	{emote: Shocked}
-"013"	{emote: Glee}
-"014"	{emote: Happiness}
+"001"	{emote: Alarmed}{0007-000a-0000}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?!	Où t'as eu ça, {Player nickname (green)}?{Wait for input} {emote: Distress}Ça fait	une éternité que j'en cherche {un/une/}!	Ça te dirait de me l'échanger contre	{Article(word-dependant)}{0011-0003-0002-0001}?	Allez, dis oui!{pause 20} S'il te plaît!{Player can respond (0005):0005-0015-0004-0028}	D'accord!	Sûrement pas!
+"002"	{emote: Anger}Ça sent	{000e-0001-0000}{0011-0003-0002-0000}!{pause 20}	C'est toi qui en as?{Player can respond (0005):0007-0000-0008-0028}	Comment tu le sais?	Non, je n'en ai pas.
+"003"	Moi, je collectionne toutes sortes	d'objets différents.{pause 20}{emote: Agreement} Et je suis fier	de mes collections.	{emote: Happiness}Et si tu m'échangeais {ton petit/ta petite/}	{0011-0003-0002-0000} contre	{Article(word-dependant)}{0011-0003-0002-0001}?	Alors, qu'est-ce que t'en dis?{Player can respond (0005):000d-0015-000c-0028}	Si ça te fait plaisir...	Non merci.
+"004"	{emote: Sadness}Oh, je vois{pause 8}.{pause 8}.{pause 8}.{pause 20} Bon, comme	tu voudras,{pause 8} {catchphrase}.
+"005"	{emote: Glee}Super!{pause 40} OK, alors on échange!
+"006"	{Text size 100%}{emote: Happiness}Waouh! Trop bien!	Merci beaucoup,{Text size 100%}{pause 8} {catchphrase}!
+"007"	{emote: Laughter}Tu plaisantes?{pause 20} Mon nez ne se	trompe jamais! Ça fait des années	que je cherche un de ces trucs-là.	Tu me l'échangerais contre 	{Article(word-dependant)}{0011-0003-0002-0001}?{Player can respond (0005):000a-0015-0009-0028}	Bien sûr!	Non. Pas question.
+"008"	{emote: Happiness}Tu dois avoir oublié que tu l'as sur	toi. Mon nez ne se trompe jamais.	Allez quoi, tu me l'échanges? 	Je te propose {un/une/} magnifique	{0011-0003-0002-0001}!{pause 20} Qu'est-ce	que t'en dis?{Player can respond (0005):000a-0015-0009-0028}	OK!	Tu peux rêver!
+"009"	{emote: Worry}Zut alors!{pause 20} Bon, ben, si tu ne veux	vraiment pas échanger{pause 8}.{pause 8}.{pause 8}.	Tant pis pour moi,{pause 8} {catchphrase}!
+"010"	{emote: Glee}Yesssssss!{pause 20} Alors ne perdons pas de	temps. Allez hop, on échange!
+"011"	{emote: Happiness}Génial!{pause 20} Oh, merci merci merci,{pause 8}	{catchphrase}!
+"012"	{emote: Shocked}Quoi?!{pause 20} {emote: Distress}Mais comment on peut	refuser un truc aussi cool?{Wait for input}	{emote: Resigned}T'es pas net{/te} toi, {Player nickname (green)}.
+"013"	{emote: Glee}Yesssss!{pause 20} Tu gagnes un super objet,	je gagne un super objet...	On y gagne tous les deux!
+"014"	{emote: Happiness}Le troc, c'est trop top!{pause 20}	Faudra qu'on s'échange encore des	trucs,{pause 8} {catchphrase}!

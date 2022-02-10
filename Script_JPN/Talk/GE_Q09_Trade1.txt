@@ -1,13 +1,13 @@
 == 0 ==
-"001"	で、{pause 10}
-"002"	{emote: Sheepishness}
-"003"	{emote: Happiness}
-"004"	{emote: Distress}
-"005"	そうなの？{pause 20}
-"006"	{emote: Distress}
-"007"	{emote: Happiness}
-"008"	{emote: Laughter}
-"009"	{emote: Joy}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
+"001"	で、{pause 10}アタイのお{ruby (charSpan 2): へや}部屋{pause 8}{emote: Curious}どうかな？{Wait for input}{emote: Happiness}なかなか　イケてるでしょ～{pause 20}	{ruby (charSpan 1): なん}何か　{pause 10}{ruby (charSpan 1): き}気になった{ruby (charSpan 1): もの}物とかある？{000f-0005-0004-0015-0028}	ある！	ないな～
+"002"	{emote: Sheepishness}ねぇねぇ、{pause 10}{ruby (charSpan 2): しょうじき}正直なところ{pause 10}	{emote: Curious}アタイの{ruby (charSpan 2): かぐ}家具のシュミってどう？{Wait for input}{emote: Happiness}いいなって、{pause 8}	{ruby (charSpan 1): おも}思った{ruby (charSpan 1): もの}物とかある？{000f-0005-0004-0015-0028}	あるよ	ないや
+"003"	{emote: Happiness}ところで、{pause 10}{emote: Curious}アタイのお{ruby (charSpan 2): へや}部屋どう？{Wait for input}	{emote: Happiness}インテリアにも　こだわってみたんだけど、{pause 10}	{emote: Soft Smile}{ruby (charSpan 1): き}気になる{ruby (charSpan 1): もの}物あったら　{pause 8}{ruby (charSpan 1): おし}教えて～{000f-0005-0004-0015-0028}	ある！	{ruby (charSpan 1): とく}特にないな
+"004"	{emote: Distress}そ、{pause 10}そうなの{pause 8}・{pause 8}・{pause 8}・{pause 8}？{pause 30}	{emote: Worry}いいカンジだと　{pause 8}{ruby (charSpan 1): おも}思ったんだけどな～
+"005"	そうなの？{pause 20}	{emote: Sheepishness}エンリョしないで　{ruby (charSpan 1): い}言ってね
+"006"	{emote: Distress}え～！{pause 20}	{Player nickname (green)}{0005-000d-0000}も　ハッキリ{ruby (charSpan 1): い}言うよね
+"007"	{emote: Happiness}ホント？{pause 30}	{emote: Glee}そんなに　{ruby (charSpan 1): き}気になっちゃったなら、{pause 10}	ゆずってあげてもいいよ～
+"008"	{emote: Laughter}{pause 10}キャハハ！{pause 30}	{emote: Soft Smile}{Player nickname (green)}{0005-000d-0000}なら{pause 10}	わかってくれると{ruby (charSpan 1): おも}思ったよ～	{emote: Inspired}そうだ！{pause 20}	{emote: Soft Smile}もし　{pause 8}{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入った{ruby (charSpan 1): もの}物があったら、{pause 10}	ゆずってあげてもいいよ～
+"009"	{emote: Joy}やっぱ　{pause 8}そうだよね～{pause 20}	そういうカンジになると{ruby (charSpan 1): おも}思ったよ{pause 10}{emote: Soft Smile}{Wait for input}{emote: Happiness}オッケー、{pause 20}{Player nickname (green)}{0005-000d-0000}が	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入った{ruby (charSpan 1): もの}物あったら{pause 10}	ゆずってもいいよ{emote: Sunny}
+"010"	{emote: Happiness}{ruby (charSpan 1): き}気になる{ruby (charSpan 2): かぐ}家具があったら{pause 10}	{ruby (charSpan 1): い}言ってみて！{Wait for input}{emote: Sheepishness}ただ　{pause 8}ゆずれない{ruby (charSpan 1): もの}物もあるから{pause 15}	その{ruby (charSpan 1): とき}時は　ごめんね、{pause 10}{catchphrase}
+"011"	{emote: Happiness}いいなって{ruby (charSpan 1): おも}思う{ruby (charSpan 2): かぐ}家具があったら{pause 10}	{ruby (charSpan 1): おし}教えてね！{Wait for input}{emote: Sheepishness}ただ、{pause 10}ゆずれない{ruby (charSpan 1): もの}物もあるから{pause 10}	その{ruby (charSpan 1): とき}時は　ごめんね
+"012"	{emote: Happiness}ほしい{ruby (charSpan 2): かぐ}家具があったら{pause 10}	エンリョなく{ruby (charSpan 1): い}言ってね！{Wait for input}{emote: Sheepishness}でも、{pause 8}それがアタイのお{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りだと{pause 10}	ゆずれないこともあるから{pause 5}・{pause 5}・{pause 5}・{pause 5}	その{ruby (charSpan 1): とき}時は　ごめん！

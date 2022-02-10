@@ -1,17 +1,17 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{0009-0003-000a-0f-00-0f-00-0f-00-0f-00-10-00}
-"003"	{emote: Showmanship}
-"004"	{emote: Glee}
-"005"	{emote: Disbelief}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"		{emote: Happiness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Happiness}
-"011"	{emote: Greetings}
-"012"	{emote: Happiness}
-"013"	{emote: Greetings}
-"014"	{emote: Happiness}
-"015"	{emote: Greetings}
-"016"	{emote: Anger}
+"001"	{emote: Greetings}{Greeting begin}어이, {Player nickname (green)}{Greeting end}!{pause 30}	{emote: Happiness}우연인걸!{pause 20} {catchphrase}!
+"002"	{0009-0003-000a-000f-000f-000f-000f-0010}
+"003"	{emote: Showmanship}오오, {pause 8}{Player nickname (green)}!{pause 30}	{emote: Happiness}너도 라이브 공연 보러 온 거냐?!{pause 20}	{catchphrase}!
+"004"	{emote: Glee}요ー {pause 4}요우ー {pause 8}{Player nickname (green)}!{pause 20}	{emote: Showmanship}너도 왔었냐, {pause 8}요 {pause 4}맨!{pause 20}	{emote: Sunny}어때?!{pause 20} {emote: Laughter}으ー하하핫!{pause 30}{emote: Happiness}
+"005"	{emote: Disbelief}{0007-000b-0000}우왓!{pause 15} 짱 커!{pause 30}	・{pause 8}・{pause 8}・{pause 8}{emote: Reset}뭐야, {pause 8}{Player nickname (green)}{000e-000e-000a-0004-c774-c5c8-0002-c600}냐!{Wait for input}{emote: Resigned}난 또, {pause 8}돌연변이 벌레가	튀어나오는 줄 알았다구!{pause 20}	{emote: Laughter}으ー하하핫!{pause 30} {emote: Happiness}{catchphrase}!
+"006"	{emote: Happiness}오호, {pause 8}{Player nickname (green)}!{pause 30}	너도 물고기 구경하러 왔냐?!{pause 20}	{catchphrase}?
+"007"	{emote: Greetings}어이, {pause 8}{Player nickname (green)}!{pause 30}	{emote: Happiness}화석 방은{pause 8}	역시 엄청 크구만!{pause 20} {catchphrase}!
+"008"		{emote: Happiness}{0007-000b-0000}{Greeting begin}{Text size 150%}어이, {pause 8}{Player nickname (green)}{Greeting end}!{Text size 100%}{Wait for input}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}앗차!{pause 30}	{emote: Soft Smile}여기서 큰 소리 내면{pause 8}	안 되나?{pause 20} {catchphrase}?
+"009"	{emote: Soft Smile}{Greeting begin}어이, {pause 8}{Player nickname (green)}{Greeting end}!{pause 30}	너도 쇼핑하러 왔냐?{pause 20} {catchphrase}?
+"010"	{emote: Happiness}{Greeting begin}이봐, {pause 8}{Player nickname (green)}{Greeting end}!{pause 30}	찾던 물건은 팔더냐?{pause 20}	{catchphrase}?
+"011"	{emote: Greetings}{Greeting begin}오호, {Player nickname (green)}{Greeting end}!{Wait for input}	{emote: Reset}뭐 좋은 거 안 파나 하고{pause 8}	{emote: Soft Smile}보러 오게 된다니까, {pause 20}{catchphrase}
+"012"	{emote: Happiness}{Greeting begin}어이, {pause 8}{Player nickname (green)}{Greeting end}!{pause 30}	오늘은 보기만 할{pause 8}	작정이라구, {pause 20}{catchphrase}
+"013"	{emote: Greetings}{Greeting begin}어이, {pause 8}{Player nickname (green)}{Greeting end}!{pause 30}	{emote: Reset}여긴 백화점의{pause 8}	{emote: Happiness}오아시스 같은 곳이라구, {pause 20}{catchphrase}
+"014"	{emote: Happiness}{Greeting begin}어이, {pause 8}{Player nickname (green)}{Greeting end}!{pause 30}	패션 점검하냐?{pause 20}	{catchphrase}?
+"015"	{emote: Greetings}{pause 8}{Greeting begin}어이, {Player nickname (green)}{Greeting end}!{pause 20}	{catchphrase}!
+"016"	{emote: Anger}안 사!{pause 20}	・{pause 8}・{pause 8}・{emote: Alarmed}{pause 8}응?	뭐야, {pause 8}{Player nickname (green)}{000e-000e-000a-0004-c774-c5c8-0002-c600}냐!{pause 20} {catchphrase}!	{emote: Soft Smile}난 또,{pause 15}	누가 시답잖은 물건 사라고{pause 8}	{emote: Happiness}말 거는 줄 알았네!

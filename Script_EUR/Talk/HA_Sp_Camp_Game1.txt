@@ -1,120 +1,120 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{0009-0006-0010-0a-00-0b-00-0c-00-0d-00-0e-00-0f-00-10-00-11-00}
-"009"	
-"010"	{emote: Thought}
-"011"	{emote: Thought}
-"012"	{emote: Thought}
-"013"	{emote: Thought}
-"014"	{emote: Thought}
-"015"	{emote: Thought}
-"016"	{emote: Thought}
-"017"	{emote: Thought}
-"018"	
-"019"	{emote: Agreement}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Anger}
-"023"	{emote: Resigned}
+"001"	{emote: Greetings}Hey! Let's play a game! I call it{pause 8}.{pause 8}.{pause 8}.{pause 20}	Price Fixer! It's not as bad as it	sounds{pause 8}.{pause 8}.{pause 8}.{pause 20}sometimes.{Wait for input}{emote: Agreement}There are cards with numbers from	1 through 8!{Wait for input} I'll draw one card from	these, and you'll guess the number.	{emote: Glee}If you guess close, I'll sell you my	{0011-0003-0002-0000} for a good	price!	{emote: Glare}But if your guess is far from the	target, you'll have to buy it for a	higher price, all right?	{0007-000d-0000}{emote: Sunny}Do you understand the rules? {emote: Happiness}Are	you ready?{Player can respond (0005):0008-0015-0002-0028}	Sure!	Not now.
+"002"	{emote: Worry}Oh noooo! This is such a fun game	to play{pause 8}.{pause 8}.{pause 8}.
+"003"	{emote: Happiness}OK! Let's take a look at my number!{Wait for input}	{emote: Anger}My number is{pause 8}.{pause 8}.{pause 8}.{pause 60}{emote: Greetings}{Number (0x6)}!{Wait for input}{emote: Alarmed}What?! You got the exact number?{Wait for input}{emote: Delight}Wow! Way to go! Congratulations!{Wait for input}{emote: Happiness}As a reward, I'm giving you my	{0011-0003-0002-0000}{pause 20} for free!	{pause 8}{capitalized}{catchphrase}!
+"004"	{emote: Happiness}OK!{pause 20} Let's take a look at my number!{Wait for input}	{emote: Anger}The number on my card is{pause 8}.{pause 8}.{pause 8}.{pause 60}{emote: Greetings}{Number (0x6)}!{Wait for input}{emote: Disbelief}{0007-000b-0000}Whoa! That's so close! You have	really good intuition!{Wait for input}{emote: Happiness}Well, I'll keep my word. I'll sell my	item to you for only {Blue}{Number (0x9)} Bells{Color Reset}!{pause 8}	{capitalized}{catchphrase}!
+"005"	{emote: Happiness}OK! Let's see what I have here!{Wait for input}	{emote: Anger}The number on my card is{pause 8}.{pause 8}.{pause 8}.{pause 60}{emote: Greetings}{Number (0x6)}!{Wait for input}{emote: Thought}.{pause 8}.{pause 8}.{pause 8}Well, you're not that far off. But	you're not so close either,{pause 8} huh?{Wait for input}{emote: Happiness}Nice try! I'll sell my item to you	{pause 8}for {Blue}{pause 20}{Number (0x9)} Bells{Color Reset}! {pause 8}{capitalized}{catchphrase}!
+"006"	{emote: Happiness}OK! Let's see what I have here!{Wait for input}	{emote: Anger}The number on my card is{pause 8}.{pause 8}.{pause 8}.{pause 60}{emote: Greetings}{Number (0x6)}!{Wait for input}{emote: Thought}.{pause 8}.{pause 8}.{pause 8}Huh. That's a little far from the	target, don't you think?{Wait for input}{emote: Disagreement}Oh well! These things happen!{pause 20}	{emote: Happiness}I'll sell my item to you for the OK	price of {Blue}{Number (0x9)} Bells{Color Reset}!
+"007"	{emote: Happiness}OK! Let's see what we have here!{Wait for input}	{emote: Anger}The number on my card is{pause 8}.{pause 8}.{pause 8}.{pause 60}{emote: Greetings}{Number (0x6)}!{Wait for input}{emote: Laughter}Ha ha ha! You're so far off, it's	actually funny!{pause 40}{emote: Soft Smile}{Wait for input}{emote: Glare}Now I'm gonna have to destroy	your wallet! The total comes to	{Blue}{Number (0x9)} Bells{Color Reset}! {pause 8}{capitalized}{catchphrase}!
+"008"	{0009-0006-0010-000a-000b-000c-000d-000e-000f-0010-0011}
+"009"
+"010"	{emote: Thought}OK! {pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement}I'll take this card!{Wait for input}{emote: Happiness}Come on! Can you guess the number	of the card I just chose?{0008-000a-0010-0007-0006-0006-0006-0005-0005-0004-0003}	8	1
+"011"	{emote: Thought}OK! {pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement}I'll take this card!{Wait for input}{emote: Happiness}Come on! Can you guess the number	of the card I just chose?{0008-000a-0010-0006-0006-0006-0005-0005-0004-0003-0004}	8	1
+"012"	{emote: Thought}OK! {pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement}I'll take this card!{Wait for input}{emote: Happiness}Come on! Can you guess the number	of the card I just chose?{0008-000a-0010-0006-0006-0005-0005-0004-0003-0004-0005}	8	1
+"013"	{emote: Thought}OK! {pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement}I'll take this card!{Wait for input}{emote: Happiness}Come on! Can you guess the number	of the card I just chose?{0008-000a-0010-0006-0006-0005-0004-0003-0004-0005-0006}	8	1
+"014"	{emote: Thought}OK! {pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement}I'll take this card!{Wait for input}{emote: Happiness}Come on! Can you guess the number	of the card I just chose?{0008-000a-0010-0006-0005-0004-0003-0004-0005-0006-0006}	8	1
+"015"	{emote: Thought}OK! {pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement}I'll take this card!{Wait for input}{emote: Happiness}Come on! Can you guess the number	of the card I just chose?{0008-000a-0010-0005-0004-0003-0004-0005-0006-0006-0006}	8	1
+"016"	{emote: Thought}OK! {pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement}I'll take this card!{Wait for input}{emote: Happiness}Come on! Can you guess the number	of the card I just chose?{0008-000a-0010-0004-0003-0004-0005-0005-0006-0006-0006}	8	1
+"017"	{emote: Thought}OK! {pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement}I'll take this card!{Wait for input}{emote: Happiness}Come on! Can you guess the number	of the card I just chose?{0008-000a-0010-0003-0004-0005-0005-0006-0006-0006-0007}	8	1
+"018"
+"019"	{emote: Agreement}Pleasure doing business with you!{pause 40}	{emote: Sunny}Go ahead and take over the world	with your sharp intuition!
+"020"	{emote: Happiness}Who knows? When you play this	game next time, you might guess	the exact number!
+"021"	{emote: Happiness}Let's play again sometime!
+"022"	{emote: Anger}You should work on your intuition	muscles a little more, {bro/ladybro}!
+"023"	{emote: Resigned}You should maybe{pause 8}.{pause 8}.{pause 8}.{pause 40}try to sharpen	your intuition a bit more.
 == 1 ==
-"001"	{emote: Greetings}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{0009-0006-0010-0a-00-0b-00-0c-00-0d-00-0e-00-0f-00-10-00-11-00}
-"009"	
-"010"	{emote: Thought}
-"011"	{emote: Thought}
-"012"	{emote: Thought}
-"013"	{emote: Thought}
-"014"	{emote: Thought}
-"015"	{emote: Thought}
-"016"	{emote: Thought}
-"017"	{emote: Thought}
-"018"	
-"019"	{emote: Agreement}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Anger}
-"023"	{emote: Resigned}
+"001"	{emote: Greetings}¡Oye! Juguemos a algo. Yo llamo a	este juego{pause 8}.{pause 8}.{pause 8}.{pause 20} ¡{Blue}El trapicheo{Color Reset}! No es	nada chungo{pause 8}.{pause 8}.{pause 8}.{pause 20} la mayoría de veces.{Wait for input}{emote: Agreement}¡Hay tarjetas con números del 1	al 8!{Wait for input} Yo cogeré una tarjeta de	estas y tú debes adivinar el número.	{emote: Glee}Si lo que digas se acerca, ¡te	venderé mi {0011-0003-0002-0000}	a buen precio!	{emote: Glare}Pero si fallas por mucho,	tendrás que pagar un precio	mayor, ¿vale?	{0007-000d-0000}{emote: Sunny}Son unas reglas muy sencillas...	{emote: Happiness}Bueno, ¿estás list{o/a}?{Player can respond (0005):0008-0015-0002-0028}	¡Claro!	Ahora no
+"002"	{emote: Worry}¡Oh, nooo! Con lo divertido	que es este juego{pause 8}.{pause 8}.{pause 8}.
+"003"	{emote: Happiness}¡Vale! ¡Vamos a echarle un vistazo	a mi número!{Wait for input} {emote: Anger}Y es el{pause 8}.{pause 8}.{pause 8}.{pause 60}{emote: Greetings} ¡{Number (0x6)}!{Wait for input}{emote: Alarmed}¡¿Qué?! ¡Has acertado el	número justo!{Wait for input}{emote: Delight}¡Sí! ¡Eres u{n/na} crack! ¡Enhorabuena!{Wait for input}{emote: Happiness}Como recompensa, ¡te voy	a dar mi {0011-0003-0002-0000}{pause 20}	gratis, {pause 8}{catchphrase}!
+"004"	{emote: Happiness}¡Vale!{pause 20} ¡Vamos a ver el número!{Wait for input}	{emote: Anger}En la tarjeta aparece el{pause 8}.{pause 8}.{pause 8}.{pause 60}{emote: Greetings} ¡{Number (0x6)}!{Wait for input}{emote: Disbelief}{0007-000b-0000}¡Vaya! ¡Qué cerca! ¡Sí que has	tenido buena intuición!{Wait for input}{emote: Happiness}Bueno, pues cumpliré mi palabra.	¡Te venderé mi objeto por solo	{Blue}{Number (0x9)} bayas{Color Reset},{pause 8} {catchphrase}!
+"005"	{emote: Happiness}¡Vale! Vamos a ver qué tenemos	aquí.{Wait for input} {emote: Anger}El número de la tarjeta es{pause 8}.{pause 8}.{pause 8}.{pause 60}	{emote: Greetings}¡el {Number (0x6)}!{Wait for input}{emote: Thought}Bueno.{pause 8}.{pause 8}.{pause 8} No estás lejísimos. Pero	tampoco estás demasiado cerca,{pause 8}	¿eh?{Wait for input}{emote: Happiness}¡Buen intento! ¡Te venderé	mi objeto{pause 8} por {Blue}{pause 20}{Number (0x9)} bayas{Color Reset},	{pause 8}{catchphrase}!
+"006"	{emote: Happiness}¡Vale! ¡Veamos qué tenemos aquí!{Wait for input}	{emote: Anger}El número de mi tarjeta es{pause 8}.{pause 8}.{pause 8}.{pause 60}{emote: Greetings} ¡el {Number (0x6)}!{Wait for input}{emote: Thought}Ah.{pause 8}.{pause 8}.{pause 8} Está un poco lejos de lo que	decías, ¿no?{Wait for input}{emote: Disagreement}¡Bueno, son cosas que pasan!{pause 20}	{emote: Happiness}¡Te venderé mi objeto por el	aceptable precio de {Blue}{Number (0x9)} bayas{Color Reset}!
+"007"	{emote: Happiness}¡Vale! ¡Vamos a ver lo que tengo!{Wait for input}	{emote: Anger}El número de la tarjeta es{pause 8}.{pause 8}.{pause 8}.{pause 60}{emote: Greetings} ¡el {Number (0x6)}!{Wait for input}{emote: Laughter}¡Ja, ja, ja! ¡Estás tan lejos que	es hasta gracioso!{pause 40}{emote: Soft Smile}{Wait for input}{emote: Glare}¡Ahora voy a tener que dejarte	sin blanca! ¡El total asciende	a {Blue}{Number (0x9)} bayas{Color Reset}, {pause 8}{catchphrase}!
+"008"	{0009-0006-0010-000a-000b-000c-000d-000e-000f-0010-0011}
+"009"
+"010"	{emote: Thought}¡Venga! Y voy a coger{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} ¡esta!{Wait for input}{emote: Happiness}Ahora, ¡adivina el número de la	tarjeta que acabo de elegir!{0008-000a-0010-0007-0006-0006-0006-0005-0005-0004-0003}	8	1
+"011"	{emote: Thought}¡Venga! Voy a coger{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} ¡esta!{Wait for input}{emote: Happiness}A ver, ¿podrás adivinar el número	de la tarjeta que he elegido?{0008-000a-0010-0006-0006-0006-0005-0005-0004-0003-0004}	8	1
+"012"	{emote: Thought}¡Vale! Elegiré{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} ¡esta tarjetita!{Wait for input}{emote: Happiness}¡Venga! ¿A que no adivinas el	número de la tarjeta que he cogido?{0008-000a-0010-0006-0006-0005-0005-0004-0003-0004-0005}	8	1
+"013"	{emote: Thought}¡Adelante! Y{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} ¡elijo esta tarjeta!{Wait for input}{emote: Happiness}¡Venga! ¿A que no adivinas el	número de la tarjeta que he cogido?{0008-000a-0010-0006-0006-0005-0004-0003-0004-0005-0006}	8	1
+"014"	{emote: Thought}¡Venga! Vamos a ver{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} ¡Sí, esta!{Wait for input}{emote: Happiness}¡Vamos! ¿A que no adivinas el	número de la tarjeta que he cogido?{0008-000a-0010-0006-0005-0004-0003-0004-0005-0006-0006}	8	1
+"015"	{emote: Thought}¡Muy bien! Elegiré{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} ¡esta tarjeta!{Wait for input}{emote: Happiness}¡Ahora tú tienes que adivinar	qué número sale en ella!{0008-000a-0010-0005-0004-0003-0004-0005-0006-0006-0006}	8	1
+"016"	{emote: Thought}¡Venga! Y ahora cogeré{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement}	¡esta tarjetita!{Wait for input}{emote: Happiness}¡Te toca adivinar el número	que sale en ella!{0008-000a-0010-0004-0003-0004-0005-0005-0006-0006-0006}	8	1
+"017"	{emote: Thought}¡Chachi! Y ahora{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} ¡cogeré	esta tarjeta!{Wait for input}{emote: Happiness}¡Venga, tronc{o/a}! ¿A que no	adivinas el número de la	tarjeta que he elegido?{0008-000a-0010-0003-0004-0005-0005-0006-0006-0006-0007}	8	1
+"018"
+"019"	{emote: Agreement}¡Ha sido un placer hacer negocios	contigo!{pause 40} {emote: Sunny}¡Con esa intuición tuya	acabarás siendo el am{o/a} del mundo!
+"020"	{emote: Happiness}¿Quién sabe? Cuando juegues	a esto la próxima vez, ¡tal vez	aciertes el número exacto!
+"021"	{emote: Happiness}¡A ver si volvemos a jugar	a esto alguna vez!
+"022"	{emote: Anger}¡Deberías ejercitar más los	músculos de la intuición, tronc{o/a}!
+"023"	{emote: Resigned}Qué mala pata{pause 8}.{pause 8}.{pause 8}.{pause 40} Tu intuición	te ha llevado por el camino	equivocado esta vez.
 == 2 ==
-"001"	{emote: Greetings}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{0009-0006-0010-0a-00-0b-00-0c-00-0d-00-0e-00-0f-00-10-00-11-00}
-"009"	
-"010"	{emote: Thought}
-"011"	{emote: Thought}
-"012"	{emote: Thought}
-"013"	{emote: Thought}
-"014"	{emote: Thought}
-"015"	{emote: Thought}
-"016"	{emote: Thought}
-"017"	{emote: Thought}
-"018"	
-"019"	{emote: Agreement}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Anger}
-"023"	{emote: Resigned}
+"001"	{emote: Greetings}Hé, on fait une partie ?{pause 20} Je te défie	au{pause 8}.{pause 8}.{pause 8}.{pause 20} « prix du hasard » !{pause 20} C'est plus	cool que ça en a l'air, enfin je crois.	{emote: Agreement}J'ai en patte des cartes numérotées	de 1 à 8.{Wait for input} Je vais en choisir une, et	tu devras deviner son numéro.	{emote: Glee}Approche-t'en, et je te vends mon	adorable {0011-0003-0002-0000}	pour une bouchée de pain !	{emote: Glare}À l'inverse, si tu t'en éloignes trop,	tu devras me l'acheter à un prix	plutôt gonflé !	{0007-000d-0000}{emote: Sunny}Tu as bien compris les règles ?{pause 20} {emote: Happiness}On	peut commencer ?{Player can respond (0005):0008-0015-0002-0028}	Quand tu veux !	Une autre fois...
+"002"	{emote: Worry}Bah alors ?! On a peur de perdre ?	Je t'ai connu plus {vaillant/vaillante}{pause 8}.{pause 8}.{pause 8}.
+"003"	{emote: Happiness}Bien. C'est le moment de vérité !{Wait for input}	{emote: Anger}J'ai tiré la carte numéro{pause 8}.{pause 8}.{pause 8}.{pause 60} {emote: Greetings}{Number (0x6)} !{Wait for input}{emote: Alarmed}Hein ?! Mais c'est exactement ce	que tu as annoncé !{Wait for input}{emote: Delight}Waouh !{pause 20} C'est ton jour de chance,{pause 20}	{catchphrase} !{Wait for input}{emote: Happiness}Du coup, je vais carrément t'offrir	{000e-0001-0000}{0011-0003-0002-0000} {mis/mise/}	en jeu. Oui, oui : c'est gratuit !
+"004"	{emote: Happiness}Bien. C'est le moment de vérité !{Wait for input}	{emote: Anger}J'ai tiré la carte numéro{pause 8}.{pause 8}.{pause 8}.{pause 60} {emote: Greetings}{Number (0x6)} !{Wait for input}{emote: Disbelief}{0007-000b-0000}Waouh ! Bien vu ! Tu n'es pas	{tombé/tombée} loin,{pause 8} {catchphrase} !{Wait for input}{emote: Happiness}Tu as donc gagné le droit d'acheter	l'objet mis en jeu pour la modique	somme de{pause 40} {Blue}{Number (0x9)} clochettes {Color Reset}!
+"005"	{emote: Happiness}Bien. C'est le moment de vérité !{Wait for input}	{emote: Anger}J'ai tiré la carte numéro{pause 8}.{pause 8}.{pause 8}.{pause 60} {emote: Greetings}{Number (0x6)} !{Wait for input}{emote: Thought}.{pause 8}.{pause 8}.{pause 8} Mouais, résultat mitigé, donc. Ni	vraiment près, ni vraiment loin.{Wait for input}{emote: Happiness}Tu t'en tires plutôt bien ! L'article	mis en jeu te coûtera donc{pause 20}	{Blue}{Number (0x9)} clochettes{Color Reset} !{pause 8} {capitalized}{catchphrase} !
+"006"	{emote: Happiness}Bien. C'est le moment de vérité !{Wait for input}	{emote: Anger}J'ai tiré la carte numéro{pause 8}.{pause 8}.{pause 8}.{pause 60} {emote: Greetings}{Number (0x6)} !{Wait for input}{emote: Thought}.{pause 8}.{pause 8}.{pause 8} Hum. Tu as évité le pire, mais de	justesse...{Wait for input}{emote: Disagreement}Que veux-tu, c'est la vie.{pause 20} {emote: Happiness}Tu vas	devoir débourser {Blue}{Number (0x9)} clochettes{Color Reset}	pour l'objet mis en jeu.
+"007"	{emote: Happiness}Bien. C'est le moment de vérité !{Wait for input}	{emote: Anger}J'ai tiré la carte numéro{pause 8}.{pause 8}.{pause 8}.{pause 60} {emote: Greetings}{Number (0x6)} !{Wait for input}{emote: Laughter}Ha ha ha ! Pas de bol, tu t'es	{planté/plantée} dans les grandes largeurs !{pause 40}{emote: Soft Smile}{Wait for input}{emote: Glare}Ton portefeuille va faire la tête,	mais tu me dois {Blue}{Number (0x9)} clochettes{Color Reset},	maintenant.{pause 8} {capitalized}{catchphrase} !
+"008"	{0009-0006-0010-000a-000b-000c-000d-000e-000f-0010-0011}
+"009"
+"010"	{emote: Thought}Alors{pause 8}.{pause 8}.{pause 8}.{pause 40} Je vais prendre...{pause 40} {emote: Agreement}cette	carte !{Wait for input}{emote: Happiness}À toi de jouer ! J'ai tiré quel	numéro, à ton avis ?{0008-000a-0010-0007-0006-0006-0006-0005-0005-0004-0003}	8.	1.
+"011"	{emote: Thought}Alors{pause 8}.{pause 8}.{pause 8}.{pause 40} Je vais prendre...{pause 40} {emote: Agreement}cette	carte !{Wait for input}{emote: Happiness}À toi de jouer ! J'ai tiré quel	numéro, à ton avis ?{0008-000a-0010-0006-0006-0006-0005-0005-0004-0003-0004}	8.	1.
+"012"	{emote: Thought}Alors{pause 8}.{pause 8}.{pause 8}.{pause 40} Je vais prendre...{pause 40} {emote: Agreement}cette	carte !{Wait for input}{emote: Happiness}À toi de jouer ! J'ai tiré quel	numéro, à ton avis ?{0008-000a-0010-0006-0006-0005-0005-0004-0003-0004-0005}	8.	1.
+"013"	{emote: Thought}Alors{pause 8}.{pause 8}.{pause 8}.{pause 40} Je vais prendre...{pause 40} {emote: Agreement}cette	carte !{Wait for input}{emote: Happiness}À toi de jouer ! J'ai tiré quel	numéro, à ton avis ?{0008-000a-0010-0006-0006-0005-0004-0003-0004-0005-0006}	8.	1.
+"014"	{emote: Thought}Alors{pause 8}.{pause 8}.{pause 8}.{pause 40} Je vais prendre...{pause 40} {emote: Agreement}cette	carte !{Wait for input}{emote: Happiness}À toi de jouer ! J'ai tiré quel	numéro, à ton avis ?{0008-000a-0010-0006-0005-0004-0003-0004-0005-0006-0006}	8.	1.
+"015"	{emote: Thought}Alors{pause 8}.{pause 8}.{pause 8}.{pause 40} Je vais prendre...{pause 40} {emote: Agreement}cette	carte !{Wait for input}{emote: Happiness}À toi de jouer ! J'ai tiré quel	numéro, à ton avis ?{0008-000a-0010-0005-0004-0003-0004-0005-0006-0006-0006}	8.	1.
+"016"	{emote: Thought}Alors{pause 8}.{pause 8}.{pause 8}.{pause 40} Je vais prendre...{pause 40} {emote: Agreement}cette	carte !{Wait for input}{emote: Happiness}À toi de jouer ! J'ai tiré quel	numéro, à ton avis ?{0008-000a-0010-0004-0003-0004-0005-0005-0006-0006-0006}	8.	1.
+"017"	{emote: Thought}Alors{pause 8}.{pause 8}.{pause 8}.{pause 40} Je vais prendre...{pause 40} {emote: Agreement}cette	carte !{Wait for input}{emote: Happiness}À toi de jouer ! J'ai tiré quel	numéro, à ton avis ?{0008-000a-0010-0003-0004-0005-0005-0006-0006-0006-0007}	8.	1.
+"018"
+"019"	{emote: Agreement}Tu ne manques pas d'intuition !{pause 40} {emote: Sunny}Tu	devrais t'en servir pour conquérir	le monde !
+"020"	{emote: Happiness}Et va savoir... Peut-être que le	prochain coup, tu mettras dans le	mille !
+"021"	{emote: Happiness}On remet ça quand tu veux !
+"022"	{emote: Anger}À ta place, je travaillerais mes	muscles intuitifs pour éviter que ça	se reproduise !
+"023"	{emote: Resigned}Soit ce n'est pas ton jour de	chance{pause 8}.{pause 8}.{pause 8}.{pause 40} soit tu devrais arrêter de	te fier à ton intuition.
 == 3 ==
-"001"	{emote: Greetings}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{0009-0006-0010-0a-00-0b-00-0c-00-0d-00-0e-00-0f-00-10-00-11-00}
-"009"	
-"010"	{emote: Thought}
-"011"	{emote: Thought}
-"012"	{emote: Thought}
-"013"	{emote: Thought}
-"014"	{emote: Thought}
-"015"	{emote: Thought}
-"016"	{emote: Thought}
-"017"	{emote: Thought}
-"018"	
-"019"	{emote: Agreement}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Anger}
-"023"	{emote: Resigned}
+"001"	{emote: Greetings}Ehi, facciamo un gioco! Io lo	chiamo.{pause 8}.{pause 8}.{pause 20} {Blue}il prezzo è nelle carte{Color Reset}.	Ora ti spiego come funziona.{Wait for input}{emote: Agreement}Ho un mazzo di carte numerate	da 1 a 8.{Wait for input} Io ne pesco una e tu	indovini il numero sulla carta.	{emote: Glee}Se ci vai vicino, ti vendo	{il mio/la mia/} {0011-0003-0002-0000}	a buon prezzo!	{emote: Glare}Altrimenti, dovrai comprarl{o/a/}	a un prezzo maggiorato.	{0007-000d-0000}{emote: Sunny}Tutto chiaro? {emote: Happiness}Pront{o/a}?{Player can respond (0005):0008-0015-0002-0028}	Certo, iniziamo!	Ora non posso.
+"002"	{emote: Worry}Oh, che peccato! Questo gioco	è così divertente{pause 8}.{pause 8}.{pause 8}.
+"003"	{emote: Happiness}OK!{pause 20} Vediamo qual è la mia carta!	{Wait for input}{emote: Anger}È quella con il numero{pause 8}.{pause 8}.{pause 8}.{pause 60} {emote: Greetings}{Number (0x6)}!{Wait for input}{emote: Alarmed}Cosa??? Hai indovinato?{Wait for input}{emote: Delight}Uau! Congratulazioni!{Wait for input}{emote: Happiness}Come premio, ti regalo {il mio/la mia/}	{0011-0003-0002-0000}{pause 20},	{pause 8}{catchphrase}!
+"004"	{emote: Happiness}OK!{pause 20} Vediamo qual è la mia carta!	{Wait for input}{emote: Anger}È quella con il numero{pause 8}.{pause 8}.{pause 8}.{pause 60} {emote: Greetings}{Number (0x6)}!{Wait for input}{emote: Disbelief}{0007-000b-0000}Ah! Ci sei andat{o/a} vicin{o/a}! Il tuo	intuito non ti ha tradit{o/a}!{Wait for input}{emote: Happiness}Vista la tua bravura, ti faccio	un prezzo speciale di {Blue}{Number (0x9)} {stelline/stellina/stelline}{Color Reset},{pause 8}	{catchphrase}!
+"005"	{emote: Happiness}OK!{pause 20} Vediamo qual è la mia carta!	{Wait for input}{emote: Anger}È quella con il numero{pause 8}.{pause 8}.{pause 8}.{pause 60} {emote: Greetings}{Number (0x6)}!{Wait for input}{emote: Thought}Non ci sei andat{o/a} né troppo vicin{o/a},	né troppo lontan{o/a}.{pause 8} Bene!{Wait for input}{emote: Happiness}Considerando il tuo risultato,	ti faccio un prezzo di {Blue}{Blue}{Number (0x9)}	{Blue}{stelline/stellina/stelline}{Color Reset}, {pause 8}{catchphrase}!
+"006"	{emote: Happiness}OK!{pause 20} Vediamo qual è la mia carta!	{Wait for input}{emote: Anger}È quella con il numero{pause 8}.{pause 8}.{pause 8}.{pause 60} {emote: Greetings}{Number (0x6)}!{Wait for input}{emote: Thought}Mmmhhh... Direi che non ci sei	andat{o/a} vicin{o/a}, anzi!{Wait for input}{emote: Disagreement}Sono cose che capitano!{pause 20}	{emote: Happiness}Non mi resta che venderti l'articolo	a un prezzo di {Blue}{Number (0x9)} {Blue}{stelline/stellina/stelline}{Blue}{Color Reset}!
+"007"	{emote: Happiness}OK!{pause 20} Vediamo qual è la mia carta!	{Wait for input}{emote: Anger}È quella con il numero{pause 8}.{pause 8}.{pause 8}.{pause 60} {emote: Greetings}{Number (0x6)}!{Wait for input}{emote: Laughter}Ah ah ah! Hai completamente	sbagliato! Mi viene troppo	da ridere!{pause 40}{emote: Soft Smile}{Wait for input}{emote: Glare}Potrei quasi chiederti tutti i soldi	che hai. Facciamo {Blue}{Number (0x9)} {Blue}{stelline/stellina/stelline}{Blue}{Color Reset},	{pause 8}{catchphrase}!
+"008"	{0009-0006-0010-000a-000b-000c-000d-000e-000f-0010-0011}
+"009"
+"010"	{emote: Thought}Vediamo... Prendo{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Agreement}Prendo questa carta!{Wait for input}{emote: Happiness}Dimmi, secondo te che numero	c'è sulla carta che ho pescato?{0008-000a-0010-0007-0006-0006-0006-0005-0005-0004-0003}	8	1
+"011"	{emote: Thought}Vediamo... Prendo{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Agreement}Prendo questa carta!{Wait for input}{emote: Happiness}Dimmi, secondo te che numero	c'è sulla carta che ho pescato?{0008-000a-0010-0006-0006-0006-0005-0005-0004-0003-0004}	8	1
+"012"	{emote: Thought}Vediamo... Prendo{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Agreement}Prendo questa carta!{Wait for input}{emote: Happiness}Dimmi, secondo te che numero	c'è sulla carta che ho pescato?{0008-000a-0010-0006-0006-0005-0005-0004-0003-0004-0005}	8	1
+"013"	{emote: Thought}Vediamo... Prendo{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Agreement}Prendo questa carta!{Wait for input}{emote: Happiness}Dimmi, secondo te che numero	c'è sulla carta che ho pescato?{0008-000a-0010-0006-0006-0005-0004-0003-0004-0005-0006}	8	1
+"014"	{emote: Thought}Vediamo... Prendo{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Agreement}Prendo questa carta!{Wait for input}{emote: Happiness}Dimmi, secondo te che numero	c'è sulla carta che ho pescato?{0008-000a-0010-0006-0005-0004-0003-0004-0005-0006-0006}	8	1
+"015"	{emote: Thought}Vediamo... Prendo{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Agreement}Prendo questa carta!{Wait for input}{emote: Happiness}Dimmi, secondo te che numero	c'è sulla carta che ho pescato?{0008-000a-0010-0005-0004-0003-0004-0005-0006-0006-0006}	8	1
+"016"	{emote: Thought}Vediamo... Prendo{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Agreement}Prendo questa carta!{Wait for input}{emote: Happiness}Dimmi, secondo te che numero	c'è sulla carta che ho pescato?{0008-000a-0010-0004-0003-0004-0005-0005-0006-0006-0006}	8	1
+"017"	{emote: Thought}Vediamo... Prendo{pause 8}.{pause 8}.{pause 8}.{pause 40}	{emote: Agreement}Prendo questa carta!{Wait for input}{emote: Happiness}Dimmi, secondo te che numero	c'è sulla carta che ho pescato?{0008-000a-0010-0003-0004-0005-0005-0006-0006-0006-0007}	8	1
+"018"
+"019"	{emote: Agreement}È stato un piacere giocare con te!{pause 40}	{emote: Sunny}Segui sempre il tuo intuito nella	vita! Ti servirà!
+"020"	{emote: Happiness}Magari chissà... La prossima volta	che giochi potresti indovinare	il numero esatto!
+"021"	{emote: Happiness}Dovremmo giocare di nuovo	qualche altra volta!
+"022"	{emote: Anger}Dovresti allenare un po' il tuo	intuito! Al momento è proprio	fuori forma.
+"023"	{emote: Resigned}Mi dispiace per te{pause 8}.{pause 8}.{pause 8}.{pause 40} Se vuoi posso	aiutarti ad allenare il tuo intuito.	Posso fare anche quello, io.
 == 4 ==
-"001"	{emote: Greetings}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{0009-0006-0010-0a-00-0b-00-0c-00-0d-00-0e-00-0f-00-10-00-11-00}
-"009"	
-"010"	{emote: Thought}
-"011"	{emote: Thought}
-"012"	{emote: Thought}
-"013"	{emote: Thought}
-"014"	{emote: Thought}
-"015"	{emote: Thought}
-"016"	{emote: Thought}
-"017"	{emote: Thought}
-"018"	
-"019"	{emote: Agreement}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Anger}
-"023"	{emote: Resigned}
+"001"	{emote: Greetings}Hey! {pause 20}Spielen wir ein Spiel!{Wait for input}{emote: Agreement}Ich hab Karten, die von 1 bis 8	nummeriert sind!{Wait for input} Ich ziehe 'ne Karte,	{pause 20}und du musst die Zahl darauf raten.	{emote: Glee}Wenn du dicht dran bist, kriegst du	{meinen/meine/mein} {0011-0003-0002-0000} zum	Freundschaftspreis!	{emote: Glare}Wenn du weit danebenliegst,{pause 8}	zahlst du einen höheren Preis, {pause 20}okay?{pause 20}	{0007-000d-0000}{emote: Sunny}Hast du die Regeln alle verstanden?{pause 20}	Kann's losgehen?{Player can respond (0005):0008-0015-0002-0028}	Klar!	Ich mag jetzt nicht.
+"002"	{emote: Worry}So ein Pfostenschuss!	{pause 20}Dabei macht das Spiel echt Spaß{pause 8}.{pause 8}.{pause 8}.
+"003"	{emote: Happiness}Okay! {pause 20}Dann riskier ich mal	'nen Blick auf meine Karte!{Wait for input}	{emote: Anger}Meine Zahl ist{pause 8}.{pause 8}.{pause 8}.{pause 60}{emote: Greetings} {Number (0x6)}!	{emote: Alarmed}Was?!{pause 40}	Du hast dieselbe Zahl getippt?{Wait for input}{emote: Delight}Wow! {pause 20}Nicht übel! {pause 20}Glückwunsch!{Wait for input}{emote: Happiness}Zur Belohnung kriegst du {meinen/meine/mein}	{0011-0003-0002-0000}{pause 20} gratis!	{pause 8}{capitalized}{catchphrase}!
+"004"	{emote: Happiness}Okay!{pause 20} Dann werf ich jetzt 'nen Blick	auf meine Karte!{Wait for input}	{emote: Anger}Meine Zahl ist die{pause 8}.{pause 8}.{pause 8}.{pause 60}{emote: Greetings} {Number (0x6)}!{Wait for input}{emote: Disbelief}{0007-000b-0000}Wow! {pause 20}Das war verflixt knapp!{pause 20}	Du hast ein echt gutes Näschen!{Wait for input}{emote: Happiness}Also gut... {pause 40}Ich steh zu meinem Wort.	Du zahlst lächerliche {Blue}{Number (0x9)} Sternis{Color Reset}!{pause 8}	{capitalized}{catchphrase}!
+"005"	{emote: Happiness}Also gut, dann schauen wir mal.{Wait for input}	{emote: Anger}Auf meiner Karte steht die Zahl{pause 8}.{pause 8}.{pause 8}.{pause 60} {emote: Greetings}{Number (0x6)}!{Wait for input}{emote: Thought}Das war nicht weit daneben{pause 8}.{pause 8}.{pause 8}.	Aber auch nicht knapp vorbei!{Wait for input}{emote: Happiness}Dabei sein ist alles! {pause 40}Mein Preis sind	immer noch faire {Blue}{pause 20}{Number (0x9)} Sternis{Color Reset}.	{pause 8}{capitalized}{catchphrase}!
+"006"	{emote: Happiness}Okay, dann wollen wir mal sehen.{Wait for input}	{emote: Anger}Auf meiner Karte steht die Zahl{pause 8}.{pause 8}.{pause 8}.{pause 60}{emote: Greetings} {Number (0x6)}!{Wait for input}{emote: Thought}.{pause 8}.{pause 8}.{pause 8}Hoppla! {pause 40}Da hast du aber gründlich	danebengegriffen, {pause 8}meinst du nicht?{Wait for input}{emote: Disagreement}Na ja! {pause 20}Kann jedem mal passieren!{pause 20}	{emote: Happiness}Ich würde sagen, {pause 8}der Preis liegt	jetzt bei sportlichen {Blue}{Number (0x9)} Sternis{Color Reset}.
+"007"	{emote: Happiness}Okay! {pause 20}Wollen wir nachsehen?{Wait for input}	{emote: Anger}Auf meiner Karte steht die Zahl{pause 8}.{pause 8}.{pause 8}.{pause 60}{emote: Greetings} {Number (0x6)}!{Wait for input}{emote: Laughter}Hahaha! {pause 40}Du liegst so weit daneben,{pause 8}	dass ich deinen Tipp nur mit 'nem	Teleskop sehen kann!{pause 40}{emote: Soft Smile}	{emote: Glare}Jetzt muss dein Geldbeutel dran	glauben! {pause 40}Gib mir {Blue}{Number (0x9)} Sternis{Color Reset},	{Sportsfreund/Sportsfreundin}! {pause 8}{capitalized}{catchphrase}!
+"008"	{0009-0006-0010-000a-000b-000c-000d-000e-000f-0010-0011}
+"009"
+"010"	{emote: Thought}Okay{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} Ich nehme diese Karte!{Wait for input}{emote: Happiness}Na los!{pause 8} Errätst du die Zahl auf	meiner Karte, {Sportsfreund/Sportsfreundin}?{0008-000a-0010-0007-0006-0006-0006-0005-0005-0004-0003}	8	1
+"011"	{emote: Thought}Okay{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} Ich nehme diese Karte!{Wait for input}{emote: Happiness}Na los!{pause 8} Errätst du die Zahl auf	meiner Karte, {Sportsfreund/Sportsfreundin}?{0008-000a-0010-0006-0006-0006-0005-0005-0004-0003-0004}	8	1
+"012"	{emote: Thought}Okay{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} Ich nehme diese Karte!{Wait for input}{emote: Happiness}Na los!{pause 8} Errätst du die Zahl auf	meiner Karte, {Sportsfreund/Sportsfreundin}?{0008-000a-0010-0006-0006-0005-0005-0004-0003-0004-0005}	8	1
+"013"	{emote: Thought}Okay{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} Ich nehme diese Karte!{Wait for input}{emote: Happiness}Na los!{pause 8} Errätst du die Zahl auf	meiner Karte, {Sportsfreund/Sportsfreundin}?{0008-000a-0010-0006-0006-0005-0004-0003-0004-0005-0006}	8	1
+"014"	{emote: Thought}Okay{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} Ich nehme diese Karte!{Wait for input}{emote: Happiness}Na los!{pause 8} Errätst du die Zahl auf	meiner Karte, {Sportsfreund/Sportsfreundin}?{0008-000a-0010-0006-0005-0004-0003-0004-0005-0006-0006}	8	1
+"015"	{emote: Thought}Okay{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} Ich nehme diese Karte!{Wait for input}{emote: Happiness}Na los!{pause 8} Errätst du die Zahl auf	meiner Karte, {Sportsfreund/Sportsfreundin}?{0008-000a-0010-0005-0004-0003-0004-0005-0006-0006-0006}	8	1
+"016"	{emote: Thought}Okay{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} Ich nehme diese Karte!{Wait for input}{emote: Happiness}Na los!{pause 8} Errätst du die Zahl auf	meiner Karte, {Sportsfreund/Sportsfreundin}?{0008-000a-0010-0004-0003-0004-0005-0005-0006-0006-0006}	8	1
+"017"	{emote: Thought}Okay{pause 8}.{pause 8}.{pause 8}.{pause 40}{emote: Agreement} Ich nehme diese Karte!{Wait for input}{emote: Happiness}Na los!{pause 8} Errätst du die Zahl auf	meiner Karte, {Sportsfreund/Sportsfreundin}?{0008-000a-0010-0003-0004-0005-0005-0006-0006-0006-0007}	8	1
+"018"
+"019"	{emote: Agreement}Macht echt Spaß, {pause 8}mit dir zu spielen!{pause 40}	{emote: Sunny}Ich werde der ganzen Welt erzählen,{pause 8}	was für ein Denksport-Ass du bist.
+"020"	{emote: Happiness}Ich bin echt schwer beeindruckt!{pause 40}	Wer weiß... {pause 40}Vielleicht landest du	nächstes Mal sogar 'nen Volltreffer!
+"021"	{emote: Happiness}Wir müssen das unbedingt	irgendwann mal wiederholen!
+"022"	{emote: Anger}Heiliger Flatterball!{pause 40} Du brauchst	ganz dringend ein Ratetraining,	{Sportsfreund/Sportsfreundin}!
+"023"	{emote: Resigned}{Armer Sportsfreund/Arme Sportsfreundin}{pause 8}.{pause 8}.{pause 8}.{pause 20}	Ich würde dir 'nen Ratekurs für	Anfänger oder so was empfehlen!

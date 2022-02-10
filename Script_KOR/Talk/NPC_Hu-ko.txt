@@ -1,93 +1,93 @@
 == 0 ==
-"001"	{emote: Sleep Bubble}
-"002"	{emote: Distress}
-"003"	
-"004"	{emote: Happiness}
-"005"	{emote: Joy}
-"006"	{emote: Curious}
-"007"	그런데{pause 8}
-"008"	그럼 {pause 10}
-"009"	죄송합니다만 {pause 10}
-"010"	현재 개최 중인 전시는	「{0012-0007-0002-00-ffffffcd}」전입니다!
-"011"	현재 개최 중인 전시는	「{0012-0007-0002-00-ffffffcd}」전과	「{0012-0007-0002-01-ffffffcd}」전입니다!
-"012"	현재 개최 중인 전시는	「{0012-0007-0002-00-ffffffcd}」전,{pause 5}
-"013"	현재 개최 중인 전시는	「{0012-0007-0002-00-ffffffcd}」전,{pause 5}
-"014"	{emote: Happiness}
-"015"	2층의 전시실은 모두{pause 10}
-"016"	{emote: Reset}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	무엇에 대해서 {emote: Curious}!
-"021"	혹시 다른 질문도 {emote: Curious}
-"022"	{emote: Happiness}
-"023"	전시를 희망하시는 경우에는{pause 10}!
-"024"	전시실을 대여하신 뒤에는{pause 10}
-"025"	또 {pause 10}
-"026"	전시를 그만두시고 싶은 경우에는{pause 10}
-"027"	그때는 {pause 10}
-"028"	{pause 5}
-"029"	{pause 5}
-"031"	
-"032"	어머, {pause 10}
-"033"	어머, {pause 10}
-"034"	어머,{pause 10}
-"035"	{emote: Happiness}
-"036"	{emote: Sunny}
-"037"	아, {pause 10}
-"038"	그 상품은{pause 5}
-"039"	가격은	{Blue}{0004-000c-0002-00-00}
-"041"	{emote: Happiness}
-"042"	{emote: Happiness}
-"043"	{emote: Happiness}
-"044"	{emote: Happiness}
-"045"	{emote: Happiness}
-"046"	{emote: Happiness}
-"047"	{emote: Happiness}
-"048"	{emote: Happiness}
-"049"	{emote: Happiness}
-"050"	{emote: Happiness}
-"051"	{emote: Happiness}
-"052"	{emote: Happiness}
-"053"	{emote: Happiness}
-"054"	
-"055"	
-"056"	
-"057"	{emote: Curious}
-"058"	2층의 전시실은{pause 10}
-"059"	{pause 8}
-"061"	전시실 1의	「{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset}전」을{pause 5}
-"062"	전시실 2의	「{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset}전」을{pause 5}
-"063"	전시실 3의	「{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset}전」을{pause 5}
-"064"	전시실 4의	「{Blue}{0012-0007-0002-00-ffffffcd}{Color Reset}전」을{pause 5}
-"065"	
-"066"	{Player name}
-"067"	알겠습니다{Wait for input}
-"068"	그럼 {pause 10}
-"069"	{emote: Happiness}
-"070"	{emote: Worry}
-"071"	전시실을 닫을 경우에는{pause 5}
-"072"	
-"073"	{emote: Worry}
-"074"	{emote: Worry}
-"075"	전시실 대여료는	{Blue}10000벨{Color Reset}입니다만{pause 10}
-"076"	{emote: Happiness}
-"077"	어머, {pause 10}
-"078"	전시실 대여료는	{Blue}10000벨{Color Reset}입니다만{pause 10}
-"079"	아, {pause 10}
-"080"	{emote: Happiness}
-"081"	그런데 {pause 5}
-"082"	전시실 내부는 {pause 10}
-"083"	그리고 전시를	그만두시고 싶을 경우에는{pause 10}
-"084"	{pause 8}
-"085"	아, {pause 10}
-"086"	그럼 {pause 10}
-"087"	{emote: Happiness}
-"088"	{emote: Happiness}
-"089"	{emote: Happiness}
-"090"	{emote: Happiness}
-"091"	{emote: Happiness}
-"092"	
-"093"	
-"094"	
-"095"	
+"001"	{emote: Sleep Bubble}{Text size 65%}흠냥흠냥{pause 15}・{pause 15}・{pause 15}・{Text size 100%}{pause 25}{emote: Sleepy}{pause 120}{emote: Alarmed}{Wait <0096 0000> 'time'}	{emote: Shocked}{pause 5}어멋!{Wait <002d 0000> 'time'}
+"002"	{emote: Distress}죄, 죄송합니다!{pause 20}	잠깐 쉬고 있었어요!{Wait for input}{emote: Shyness}음～ 저기{pause 10}・{pause 10}・{pause 10}・{pause 10}{emote: Inspired}{Wait <002d 0000> 'time'}
+"003"
+"004"	{emote: Happiness}어서 오세요{pause 5}	{Town name (pink)} 박물관의	기념품점과 기획전시실 층입니다
+"005"	{emote: Joy}촌장님 덕분에 {pause 10}이렇게	2층도 오픈하게 됐어요!{Wait for input}	{emote: Happiness}정말 감사드립니다!
+"006"	{emote: Curious}아, 그런데 {pause 10}성함이{pause 8}・{pause 8}・{pause 8}・{pause 8}?{0007-0008-0004-002d-0000}{Wait for input}{pause 5}{emote: Alarmed}{pause 10}{Player name}님{pause 5}	이시군요?{emote: Happiness}{Wait for input}저는 박물관 2층을 관리하고 있는{pause 5}	{Orange}부옥{Color Reset}이라고 합니다{Wait for input}	{emote: Happiness}만나 뵙게 되어 영광이에요!
+"007"	그런데{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Player name}님은 저희 층을	이용하시는 게{pause 5} {emote: Happiness}처음이시죠?!{Wait for input}{emote: Reset}만약 {pause 5}잠시만 시간을 내주시면{pause 10}	간단하게 소개를 해드릴까 하는데{pause 8}・{pause 8}・{pause 8}・	지금 {pause 5}시간 {emote: Curious}괜찮으신가요?{000f-0005-0004-0015-0028}	오케이!	다음에 해줘
+"008"	그럼 {pause 10}궁금한 게 생기시면	{emote: Happiness}언제든지 말씀하세요!
+"009"	죄송합니다만 {pause 10}지금은	{emote: Soft Smile}아무것도 전시되어 있지 않습니다{pause 8}・{pause 8}・{pause 8}・
+"010"	현재 개최 중인 전시는	「{0012-0007-0002-cd00}」전입니다!
+"011"	현재 개최 중인 전시는	「{0012-0007-0002-cd00}」전과	「{0012-0007-0002-cd01}」전입니다!
+"012"	현재 개최 중인 전시는	「{0012-0007-0002-cd00}」전,{pause 5}	「{0012-0007-0002-cd01}」전,{Wait for input}그리고{pause 5}	「{0012-0007-0002-cd02}」전입니다!
+"013"	현재 개최 중인 전시는	「{0012-0007-0002-cd00}」전,{pause 5}	「{0012-0007-0002-cd01}」전,{Wait for input}그리고 「{0012-0007-0002-cd02}」전,	「{0012-0007-0002-cd03}」전{emote: Happiness}입니다!
+"014"	{emote: Happiness}천천히 둘러보세요!
+"015"	2층의 전시실은 모두{pause 10}	마을 주민 여러분께서 마음대로	이용하실 수 있습니다!{Wait for input}전시실은 유료로 대여해드리고 있으니{pause 5}	이용하고 싶으신 경우에는	{emote: Happiness}저에게 신청해주세요!{Wait for input}{emote: Reset}전시실 내부는 댁에서처럼	자유롭게 코디해주시면 되겠습니다{Wait for input}계단 옆의 {Blue}사물함{Color Reset}을 사용하시면{pause 5}	{emote: Happiness}전시품이나 짐을 편리하게	관리하실 수가 있답니다!{pause 10}	{emote: Glee}{Player name}님도{pause 10}	특별한 전시를	마음껏 기획해보세요!
+"016"	{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Happiness}전시실에 대한 설명은	이상입니다!{Wait for input}그리고 {pause 5}이 홀에서는{pause 5}	소정의 기념품도	판매하고 있습니다{Wait for input}1층의 컬렉션이 늘어나면	기념품도 다양해지니{pause 10}	{emote: Happiness}한번 들러주세요!
+"017"	{emote: Happiness}전시실 이용에 관한	상담이신가요?{000f-0006-0006-0000-0000-0028}	전시하고 싶어!	설명해줘!	아무것도 아냐
+"018"	{emote: Happiness}전시실 이용에 관한	상담이신가요?{000f-0007-0008-0000-0000-0000-0028}	전시하고 싶어!	전시를 그만둘래	설명해줘!	아무것도 아냐
+"019"	{emote: Happiness}전시실 이용에 관한	상담이신가요?{000f-0006-0006-0000-0000-0028}	전시를 그만둘래	설명해줘!	아무것도 아냐
+"020"	무엇에 대해서 {emote: Curious}설명해드릴까요?{000f-0007-0008-0000-0000-0000-0028}	여기 뭐 하는 데야?	전시하는 법	전시 그만두는 법	아냐, 됐어
+"021"	혹시 다른 질문도 {emote: Curious}있으신가요?{000f-0007-0008-0000-0000-0000-0000}	여기 뭐 하는 데야?	전시하는 법	전시 그만두는 법	이제 됐어!
+"022"	{emote: Happiness}네, 알겠습니다{Wait for input}	그럼 천천히	둘러보세요!
+"023"	전시를 희망하시는 경우에는{pause 10}	우선 전시실을 {Blue}10000벨{Color Reset}에	대여하셔야 합니다	{emote: Happiness}한 번 대여하시면{pause 10}	전시를 종료하지 않는 한, 무기한으로	계속 사용하실 수 있습니다{Wait for input}{emote: Reset}또, {pause 10}한 분께서 두 개 이상의	전시실을 대여하실 수도 있습니다!
+"024"	전시실을 대여하신 뒤에는{pause 10}	댁에서처럼 전시실을	자유롭게 꾸미실 수 있습니다{Wait for input}계단 옆의 사물함을 사용하시면{pause 10}	댁에서 전시품을 손쉽게	{emote: Happiness}가져오실 수도 있답니다
+"025"	또 {pause 10}전시실 앞의 간판을	체크하시면{Wait for input}마이 디자인의 포스터를 붙이거나,{pause 5}	전시회의 이름도 지을 수 있으니{pause 10}	{emote: Happiness}홍보에도 잘 활용해보세요!
+"026"	전시를 그만두시고 싶은 경우에는{pause 10}	저한테 말씀해주세요
+"027"	그때는 {pause 10}전시실 내의 전시품을	모두 계단 옆의 사물함으로	옮겨드려요{Wait for input}그러니{pause 10}	사물함에 넣을 수 없는 물건이	전시되어 있거나{Wait for input}전시품이 너무 많아	사물함에 다 들어가지 않는 경우에는{pause 5}	전시를 그만두실 수가 없답니다{Wait for input}이럴 때는 {pause 5}번거로우시겠지만	미리 직접 정리를 하신 다음에	말씀해주시면 감사하겠습니다
+"028"	{pause 5}{emote: Surprise}{pause 10}앗, {pause 15}당신은 촌장님이신	{pause 5}{emote: Curious}{Player name}님 아닌가요?
+"029"	{pause 5}{emote: Surprise}{pause 10}앗!{pause 15} {emote: Reset}당신은	{emote: Happiness}이 마을 주민이시죠?
+"031"
+"032"	어머, {pause 10}괜찮으세요?{Wait for input}	{emote: Happiness}그럼 천천히	둘러보세요!
+"033"	어머, {pause 10}그런데	소지금이 부족하신 것 같아요{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Happiness}비용을 마련하신 후에{pause 5}	다시 와주시면 감사하겠습니다!
+"034"	어머,{pause 10} 그런데	소지품이 가득 차서	상품을 드릴 수가 없네요{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Happiness}소지품을 정리하신 후에{pause 5}	다시 와주시면 감사하겠습니다!
+"035"	{emote: Happiness}네!{pause 10} 알겠습니다!
+"036"	{emote: Sunny}구입해주셔서	감사합니다!
+"037"	아, {pause 10}{emote: Happiness}쇼핑하러 오셨군요!
+"038"	그 상품은{pause 5}	{0011-0003-0002-0000} 되겠습니다!
+"039"	가격은	{Blue}{0004-000c-0002-0000}벨{Color Reset}입니다만{pause 5}	{emote: Happiness}어떠세요?{confirmation-02}{000f-0005-0004-0015-0028}	살게!	안 살래
+"041"	{emote: Happiness}댁에서 사용하시는 것뿐만 아니라{pause 5}	전시실의 디스플레이용으로도	추천해드려요!
+"042"	{emote: Happiness}이쪽 상품은, 저희 박물관의	곤충 컬렉션이 완성된	기념으로 {pause 5}판매되고 있습니다!
+"043"	{emote: Happiness}이쪽 상품은, 저희 박물관의	곤충 컬렉션이 50점을 넘긴	기념으로 {pause 5}판매되고 있습니다!
+"044"	{emote: Happiness}이쪽 상품은, 저희 박물관의	바다나 강의 생물 컬렉션이 완성된	기념으로 {pause 5}판매되고 있습니다!
+"045"	{emote: Happiness}이쪽 상품은, 저희 박물관의	바다나 강의 생물 컬렉션이 50점을 넘긴	기념으로 {pause 5}판매되고 있습니다!
+"046"	{emote: Happiness}이쪽 상품은, 저희 박물관의	화석 컬렉션이 완성된	기념으로 {pause 5}판매되고 있습니다!
+"047"	{emote: Happiness}이쪽 상품은, 저희 박물관의	화석 컬렉션이 30점을 넘긴	기념으로 {pause 5}판매되고 있습니다!
+"048"	{emote: Happiness}이쪽 상품은, 저희 박물관의	미술품 컬렉션이 완성된	기념으로 {pause 5}판매되고 있습니다!
+"049"	{emote: Happiness}이쪽 상품은, 저희 박물관의	미술품 컬렉션이 20점을 넘긴	기념으로 {pause 5}판매되고 있습니다!
+"050"	{emote: Happiness}이쪽 상품은, 저희 박물관의	곤충 컬렉션이 30점을 넘긴	기념으로 {pause 5}판매되고 있습니다!
+"051"	{emote: Happiness}이쪽 상품은, 저희 박물관의	바다나 강의 생물 컬렉션이 30점을 넘긴	기념으로 {pause 5}판매되고 있습니다!
+"052"	{emote: Happiness}이쪽 상품은, 저희 박물관의	화석 컬렉션이 15점을 넘긴	기념으로 {pause 5}판매되고 있습니다!
+"053"	{emote: Happiness}이쪽 상품은 저희 박물관 1층의	모든 컬렉션이 완성된	기념으로 {pause 5}판매되고 있습니다!
+"054"
+"055"
+"056"
+"057"	{emote: Curious}실례지만 {pause 10}성함이{pause 8}・{pause 8}・{pause 8}・{pause 8}?{0007-0008-0004-002d-0000}{Wait for input}{pause 5}{emote: Alarmed}{pause 10}{Player name}님{pause 8}・{pause 8}・{pause 8}・{pause 15}	아, 당신이 바로{pause 5}	최근에 이사 오신 분이군요?!	저는 박물관 2층을 관리하고 있는{pause 5}	{Orange}부옥{Color Reset}이라고 합니다{Wait for input}	{emote: Happiness}만나 뵙게 되어서 영광이에요!
+"058"	2층의 전시실은{pause 10}	마을 주민분들 모두가 마음껏	이용하실 수가 있답니다!{Wait for input}그리고 {pause 5}이 홀에서는{pause 5}	소정의 기념품도	판매하고 있으니{Wait for input}{emote: Happiness}{Player name}님께선	이사 뒷정리가 끝나면{pause 5}	이용해보세요!
+"059"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}{pause 10}아! {pause 10}내 정신 좀 봐!{pause 15}	{emote: Reset}기념품점에{pause 5}	쇼핑하러{pause 5} {emote: Curious}오셨나요?{000f-0005-0004-0015-0028}	맞아	아니야
+"061"	전시실 1의	「{Blue}{0012-0007-0002-cd00}{Color Reset}전」을{pause 5}	{emote: Curious}종료하시겠어요?{confirmation-02}{000f-0005-0004-0015-0028}	네ー!	아니 계속할래
+"062"	전시실 2의	「{Blue}{0012-0007-0002-cd00}{Color Reset}전」을{pause 5}	{emote: Curious}종료하시겠어요?{confirmation-02}{000f-0005-0004-0015-0028}	네ー!	아니 계속할래
+"063"	전시실 3의	「{Blue}{0012-0007-0002-cd00}{Color Reset}전」을{pause 5}	{emote: Curious}종료하시겠어요?{confirmation-02}{000f-0005-0004-0015-0028}	네ー!	아니 계속할래
+"064"	전시실 4의	「{Blue}{0012-0007-0002-cd00}{Color Reset}전」을{pause 5}	{emote: Curious}종료하시겠어요?{confirmation-02}{000f-0005-0004-0015-0028}	네ー!	아니 계속할래
+"065"
+"066"	{Player name}님께서는 현재	여러 개의 전시실을 이용하고 계십니다만{pause 10}	어느 전시실의 전시를{pause 5} {emote: Curious}종료하시겠어요?
+"067"	알겠습니다{Wait for input}	{emote: Happiness}그럼 이대로 계속	이용해주세요!
+"068"	그럼 {pause 10}전시실을 닫고	간판도 원래대로 되돌리겠습니다{pause 8}・{pause 8}・{pause 8}・
+"069"	{emote: Happiness}기다리시게 해서 죄송합니다!{Wait for input}	다음에 또 이용해주세요!
+"070"	{emote: Worry}죄송합니다만 사물함에	빈 공간이 부족해서{pause 10} 전시실의	전시품을 정리할 수가 없겠어요{Wait for input}{emote: Reset}번거로우시겠지만{pause 10}	먼저 사물함을 조금 정리하신 후에{pause 5}	{emote: Happiness}다시 말씀해주세요!
+"071"	전시실을 닫을 경우에는{pause 5}	안에 있는 모든 전시품이	사물함으로 옮겨지는데 {pause 5}{emote: Curious}괜찮으시겠어요?{confirmation-02}{000f-0005-0004-0015-0028}	네ー!	아니 계속할래
+"072"
+"073"	{emote: Worry}죄송합니다만	현재 모든 전시실이 사용 중입니다{Wait for input}	{emote: Reset}다음에 빈 전시실이 있을 때{pause 5} {emote: Happiness}이용해주세요
+"074"	{emote: Worry}다른 마을 손님이	와 계실 때에는{pause 10}	전시에 관한 상담을 받지 않고 있습니다{Wait for input}{emote: Reset}죄송하지만{pause 5}	{emote: Happiness}나중에 다시 찾아와주세요
+"075"	전시실 대여료는	{Blue}10000벨{Color Reset}입니다만{pause 10}	{emote: Curious}괜찮으시겠어요?{confirmation-02}{000f-0005-0004-0015-0028}	네ー!	그만둘래
+"076"	{emote: Happiness}현재 비어 있는 전시실은 다음과 같습니다{pause 10}	어떤 걸로 하시겠어요?
+"077"	어머, {pause 10}괜찮으세요?{Wait for input}	그럼 다음에 또 이용하고 싶으실 때	{emote: Happiness}편하게 말씀해주세요!
+"078"	전시실 대여료는	{Blue}10000벨{Color Reset}입니다만{pause 10}	{emote: Curious}괜찮으시겠어요?{confirmation-02}{000f-0005-0004-0015-0028}	네ー!	그만둘래
+"079"	아, {pause 10}전시실의 대여료는	선불로 규정되어 있습니다{pause 10}	{emote: Happiness}대여료를 가지고 {pause 5}찾아와주세요
+"080"	{emote: Happiness}정확히 {Blue}10000벨{Color Reset}{pause 10} 받았습니다!
+"081"	그런데 {pause 5}{Player name}님	전시실 이용은	{emote: Happiness}처음 아니신가요?{Wait for input}{emote: Reset}이용 방법에 대해서	자세히 {emote: Curious}설명드릴까요?{000f-0005-0004-0015-0028}	설명해줘!	알고 있어
+"082"	전시실 내부는 {pause 10}댁에서처럼	갖가지 물품을	자유롭게 배치하실 수 있습니다	{emote: Happiness}또한 {pause 10}전시실 앞 간판에는	마이 디자인의 포스터를 붙이거나{pause 5}	전시회의 이름을 지을 수도 있습니다!
+"083"	그리고 전시를	그만두시고 싶을 경우에는{pause 10}	저에게 말을 걸어주세요{Wait for input}그때는 {pause 10}전시실 내의 전시품을	모두 계단 옆의 사물함으로	옮겨드려요{Wait for input}그러니{pause 10}	사물함에 넣을 수 없는 물건이	전시되어 있거나{Wait for input}전시품이 너무 많아	사물함에 다 들어가지 않는 경우에는{pause 5}	전시를 그만두실 수가 없답니다{Wait for input}이럴 때는 {pause 5}번거로우시겠지만	미리 직접 정리를 하신 다음에	말씀해주시면 감사하겠습니다
+"084"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Happiness}설명은 이상입니다{Wait for input}	또 궁금한 게 있으시면	언제든 말씀해주세요!
+"085"	아, {pause 10}괜찮으시군요{Wait for input}	{emote: Happiness}알겠습니다
+"086"	그럼 {pause 10}전시실 입구를	열어드리도록 하겠습니다{pause 8}・{pause 8}・{pause 8}・
+"087"	{emote: Happiness}오래 기다리셨습니다!{Wait for input}	그럼 자유롭게 이용해주세요!
+"088"	{emote: Happiness}지금은{pause 10}	{Blue}전시실 1{Color Reset}을 이용하실 수 있습니다!
+"089"	{emote: Happiness}지금은{pause 10}	{Blue}전시실 2{Color Reset}를 이용하실 수 있습니다!
+"090"	{emote: Happiness}지금은{pause 10}	{Blue}전시실 3{Color Reset}을 이용하실 수 있습니다!
+"091"	{emote: Happiness}지금은{pause 10}	{Blue}전시실 4{Color Reset}를 이용하실 수 있습니다!
+"092"
+"093"
+"094"
+"095"

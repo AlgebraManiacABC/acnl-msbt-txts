@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Soft Smile}
-"006"	{emote: Happiness}
-"007"	{emote: Surprise}
-"008"	{emote: Glee}
-"009"	{emote: Happiness}
-"010"	{emote: Soft Smile}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Glee}
-"016"	{emote: Glee}
-"017"	{emote: Soft Smile}
-"018"	{emote: Glee}
-"019"	{0009-0003-000a-0b-00-0b-00-0b-00-0c-00-0c-00}
+"001"	{emote: Happiness}요전에 {pause 10}「제비뽑기 게임」이라는{pause 15}	재밌는 놀이를{pause 10} 배웠는데요,{pause 10}	{emote: Glee}같이 안 하실래요?	{emote: Reset}제가 갖고 있는 가구에 대해{pause 10}	제비를 뽑아 가격을 정할 건데{pause 10}	{emote: Happiness}마음에 드시면{pause 3} 그 값에 팔게요	{emote: Agreement}운이 좋으시면{pause 3} 싼 가격에 사실 수 있는데{pause 15}	{emote: Worry}경우에 따라서는{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}바가지를 쓰실 위험도 있답니다{Wait for input}일단 시작을 하면{pause 10} 가구 하나는{pause 3}	반드시 사셔야 하는 게임인데{pause 8}・{pause 8}・{pause 8}・{pause 20}	{0007-000d-0000}{emote: Happiness}어때요?{pause 30} {emote: Curious}도전하시겠어요?{Player can respond (0005):0003-0015-0002-0028}	좋아!	다음에 할게
+"002"	{emote: Worry}아,{pause 20} 바쁘신가 보군요～{Wait for input}	{emote: Happiness}아쉽기는 하지만{pause 10}	또 기회가 있겠죠!
+"003"	{emote: Happiness}그럼{pause 8} 규칙을 자세히 말씀드릴게요{Wait for input}이 게임은{pause 10}	제가 가진 가구 5개 중에{pause 15}	1개를{pause 10} 사시는 게임이랍니다	{emote: Reset}다만 특별한 점은{pause 5}	가격을 즉석 제비뽑기로	정한다는 점이지요!{Wait for input}지금부터 하나씩{pause 8} 가구의 이름과{pause 15}	제비뽑기로 정한{pause 10} 가격을 발표할 테니{pause 15}	{emote: Happiness}이거다! 싶으실 때{pause 10} 말씀해주세요	{emote: Happiness}마지막까지 결정을 못 내리시면{pause 15}	무조건 다섯 번째 가구를{pause 5} 사셔야 하니까{pause 15}	잘 생각해서 판단하시구요!	{emote: Happiness}그럼{pause 10} 시작할게요!{Wait for input}	첫 번째 가구는{pause 8}・{pause 8}・{pause 8}・{pause 20}	{0011-0003-0002-0000}입니다!	{emote: Shyness}가격은{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Greetings}{Blue}{Number (0x9)}벨{Color Reset}이 나왔네요!!{confirmation-02}{Player can respond (0005):0004-0015-0005-0028}	살래	패스!
+"004"	{emote: Happiness}어머나! {pause 20}벌써 결정하신 거예요?{Wait for input}	시작하자마자{pause 10} 원하시는 게 나왔나 보군요{pause 20}	자,{pause 10} 받으세요!
+"005"	{emote: Soft Smile}흠～ 일단은{pause 10}	분위기를 {pause 5}살피시는 건가요?{Wait for input}	{emote: Reset}그럼{pause 10} 두 번째 가구로 갈게요	{emote: Soft Smile}가구 이름은 {pause 10}{0011-0003-0002-0001}!{Wait for input}	{emote: Shyness}문제의 가격은{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Greetings}{Blue}{Number (0x9)}벨{Color Reset} 되겠습니다!{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	살래	패스!
+"006"	{emote: Happiness}이게 마음에 드셨군요{pause 20}	여기요!{pause 10} 받으세요!
+"007"	{emote: Surprise}이것도{pause 5} 아닌가요?{pause 30}	{emote: Reset}가격이{pause 10} 마음에 안 드셨나{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}다음으로{pause 10} 세 번째 가구를	발표하겠습니다!{Wait for input}이름은 {pause 10}{0011-0003-0002-0002}!{Wait for input}	{emote: Shyness}가격은{pause 8}・{pause 8}・{pause 8}・{pause 30} {emote: Greetings}{Blue}{Number (0x9)}벨{Color Reset}이네요!{pause 30}	어떻게 하시겠어요?{confirmation-02}{Player can respond (0005):0008-0015-0009-0028}	살래	패스!
+"008"	{emote: Glee}어머나!{pause 20} 드디어 결정하셨군요!{pause 30}	가구도{pause 10} 가격도{pause 15} 마음에 드셨나요?{pause 30}	그럼 여기 드릴게요
+"009"	{emote: Happiness}점점 흥미진진해지네요!{pause 20}	파이팅!{Wait for input}{emote: Distress}하지만{pause 10} 이번에 사지 않으시면{pause 15}	다섯 번째 가구를{pause 5} 꼼짝없이 사셔야 하니까{pause 10}	신중하게 생각하세요!	{emote: Happiness}자,{pause 10} 네 번째 가구는{pause 15}	{0011-0003-0002-0003}{000e-000e-0006-0002-c774-0000}구요{Wait for input}{emote: Shyness}두근두근 가격은{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Greetings}{Blue}{Number (0x9)}벨{Color Reset}!{confirmation-02}{Player can respond (0005):000a-0015-0013-0028}	살래	패스!
+"010"	{emote: Soft Smile}드디어 결정하셨군요!{pause 30}	스릴을{pause 10} 즐기시는 편인가 봐요?
+"011"	{emote: Alarmed}어머! {pause 20}정말요?{pause 30}	이제{pause 10} 마지막 가구인걸요!{Wait for input}	{emote: Reset}그럼{pause 10} 당신이 사시게 될 가구를{pause 5} 발표할게요	{emote: Soft Smile}먼저 이름은{pause 10}	{0011-0003-0002-0004}입니다!{Wait for input}{emote: Shyness}그리고 가격은{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Greetings}{Blue}{Number (0x9)}벨{Color Reset}로 결정되었어요!{Wait for input}{emote: Disbelief}세상에!{pause 20}	좀 {pause 10}비싸게 나왔네요!
+"012"	{emote: Alarmed}헉!{pause 20} 이번 기회도 버리시는 건가요?{pause 30}	이제{pause 10} 마지막 가구예요!{Wait for input}	{emote: Reset}무조건{pause 10} 사 가셔야 한답니다	{emote: Soft Smile}당신이 사실 가구는{pause 10}	{0011-0003-0002-0004}{000e-000e-0006-0002-c774-0000}로군요!{Wait for input}{emote: Shyness}그리고 가격은{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Greetings}{Blue}{Number (0x9)}벨{Color Reset} 되겠습니다!{Wait for input}	{emote: Joy}와아～{pause 20} 꽤 괜찮은 가격이네요!{pause 30}{emote: Soft Smile}
+"013"	{emote: Happiness}생각보다 일찍{pause 5} 끝나기는 했지만{pause 10}	원하시는 가구를 사셔서 다행이네요!
+"014"	{emote: Happiness}꽤 일찍{pause 10} 결론이 났네요!{pause 20}	다행이에요!
+"015"	{emote: Glee}덕분에 즐거웠어요!{pause 20}	다음에 또 해요!
+"016"	{emote: Glee}후후후!{pause 20}	아슬아슬하게 선방한	느낌이네요, {pause 15}{catchphrase}
+"017"	{emote: Soft Smile}제비뽑기로 정한 거니까{pause 10} 이해하세요!{Wait for input}	너무 실망하지 마시고{pause 10}	다음에 또 같이{pause 10} 놀아주세요!
+"018"	{emote: Glee}제비뽑기 운이{pause 10} 있으시군요!{pause 25}	다음에{pause 5} 또 도전해보세요,	{pause 15}{catchphrase}!
+"019"	{0009-0003-000a-000b-000b-000b-000c-000c}

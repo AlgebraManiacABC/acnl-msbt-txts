@@ -1,11 +1,11 @@
 == 0 ==
-"001"	
-"002"	{0009-0002-0008-05-00-06-00-07-00-08-00}
-"003"	{0009-0000-0004-09-00-00-00}	
-"004"	
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Distress}
-"009"	{emote: Happiness}
-"010"	{ruby (charSpan 1): か}買うか　{pause 5}
+"001"
+"002"	{0009-0002-0008-0005-0006-0007-0008}
+"003"	{0009-0000-0004-0009-000a}
+"004"
+"005"	{emote: Happiness}{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物の{ruby (charSpan 2): たつじん}達人になりたいから{pause 10}	{ruby (charSpan 1): あたら}新しいものが　{ruby (charSpan 2): にゅうか}入荷してないか{pause 10}	{ruby (charSpan 1): み}見に{ruby (charSpan 1): き}来たんだ～{emote: Sunny}
+"006"	{emote: Happiness}ここって{pause 10}	{ruby (charSpan 1): しな}品ぞろえがいいから{pause 10}　{ruby (charSpan 2): べんり}便利なんだよ～{Wait for input}	{emote: Agreement}{ruby (charSpan 2): てんいん}店員さんも　{ruby (charSpan 2): あいそ}愛想がいいしね！{emote: Soft Smile}
+"007"	{emote: Happiness}{ruby (charSpan 1): なん}何か　{pause 10}オシャレグッズ	{ruby (charSpan 1): み}見つかった～？{Wait for input}	{emote: Glee}{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物って　{pause 8}ちょー{ruby (charSpan 1): たの}楽しいよね、{pause 15}{catchphrase}
+"008"	{emote: Distress}アタイ、{pause 10}	{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物の{ruby (charSpan 2): たつじん}達人に{pause 5}　なりたいよ～
+"009"	{emote: Happiness}{Town name (pink)}{ruby (charSpan 1): むら}村の　{pause 3}{ruby (charSpan 1): しな}品ぞろえも{pause 10}	なかなか　いいカンジでしょ？！
+"010"	{ruby (charSpan 1): か}買うか　{pause 5}やめるか　{pause 8}{ruby (charSpan 1): まよ}迷った{ruby (charSpan 1): とき}時は、{pause 15}	{emote: Sunny}{ruby (charSpan 1): か}買っちゃった{ruby (charSpan 1): ほう}方がいいよ！{Wait for input}{emote: Reset}そうしないと、{pause 10}	{emote: Worry}だいたい　あとで　{pause 10}こうかいするんだよね～

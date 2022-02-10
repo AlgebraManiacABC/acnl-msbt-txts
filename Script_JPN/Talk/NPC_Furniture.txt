@@ -1,121 +1,121 @@
 == 0 ==
-"001"	{pause 5}
-"002"	{0007-0004-0000}
-"003"	
-"004"	
-"005"	
-"006"	
-"007"	
-"008"	
-"009"	{pause 5}
-"011"	{emote: Greetings}
-"012"	ソコの　{0011-0003-0002-00-00}
-"013"	{ruby (charSpan 2): ちゅうもん}注文のリメイクは、{pause 10}
-"014"	よぉ、{pause 10}
-"015"	{emote: Resigned}
-"016"	{emote: Thought}
-"017"	{000c-0002-0000}
-"018"	{000c-0001-0000}
-"019"	
-"021"	{pause 5}
-"022"	{pause 8}
-"023"	{pause 8}
-"024"	{emote: Anger}
-"025"	{pause 5}
-"026"	オリジナルに{ruby (charSpan 1): もど}戻す{ruby (charSpan 2): ばあい}場合{pause 5}
-"027"	よし、{emote: Agreement}
-"028"	よっしゃ！　{pause 10}!
-"029"	{emote: Happiness}
-"030"	{emote: Happiness}
-"031"	{emote: Happiness}
-"032"	{emote: Happiness}
-"033"	じゃあ、{pause 10}
-"034"	オレっちのオススメか？{Wait for input}
-"035"	
-"036"	{Blue}{emote: Thought}
-"037"	なら　{Blue}{0012-000a-0002-00-ffffffcd}{Color Reset}は	そのままで　いいんだな
-"038"	オレっちのオススメか？{Wait for input}
-"039"	{emote: Laughter}
-"040"	
-"041"	{Blue}{emote: Thought}
-"042"	なんだ、{pause 10}
-"043"	
-"044"	
-"045"	・{pause 8}
-"046"	
-"047"	おっし！{pause 15}
-"048"	じゃあ、{pause 10}
-"049"	じゃあ、{pause 10}
-"050"	じゃあ、{pause 10}
-"051"	あとは　{Blue}{emote: Agreement}
-"052"	あとは　{Blue}{emote: Agreement}
-"053"	あとは　{Blue}{emote: Agreement}
-"054"	{Blue}{emote: Thought}
-"055"	{Blue}{emote: Thought}
-"056"	{emote: Thought}
-"057"	なら　{Blue}{0012-000b-0002-00-ffffffcd}{Color Reset}は	そのままで　いいんだな
-"058"	{Blue}{emote: Thought}
-"059"	そしたら、{pause 10}
-"060"	{emote: Thought}
-"061"	そしたら、{pause 10}
-"062"	その　{0011-0003-0002-02-00}を{pause 5}
-"063"	その　{0011-0005-0000}
-"064"	{0007-0004-0000}
-"065"	{emote: Pride}
-"066"	お{ruby (charSpan 1): ま}待たせ、{pause 10}
-"067"	{0007-0004-0000}
+"001"	{pause 5}{emote: Sunny}{pause 5}よっしゃ！{Wait for input}	じゃあ　{ruby (charSpan 1): いま}今{ruby (charSpan 1): き}聞いた{ruby (charSpan 2): ないよう}内容で	リメイクしちまっていいか？{000f-0006-0006-0015-0000-0028}	お{ruby (charSpan 1): ねが}願いしまーす！	{ruby (charSpan 1): かんが}考えなおす	やっぱやめとく
+"002"	{0007-0004-0000}{pause 5}{emote: Disbelief}{pause 15}マジかよ～っ！{pause 30}	{pause 10}・{pause 10}・{pause 10}・{pause 15}{emote: Sunny}{pause 15}ま、{pause 15}いいや！{pause 20}{0007-0005-0000}	{emote: Reset}じゃあ　もっかい{ruby (charSpan 1): き}聞くぜ？
+"003"
+"004"
+"005"
+"006"
+"007"
+"008"
+"009"	{pause 5}{emote: Alarmed}{pause 10}そいつは{pause 5}	{0011-0003-0002-0000}だな！{emote: Reset}
+"011"	{emote: Greetings}おぅ！{pause 10}　{Player name}！{pause 20}	{emote: Happiness}{ruby (charSpan 2): ちゅうもん}注文の　{0011-0003-0002-0000}、{pause 10}	バッチリ　{ruby (charSpan 2): しあ}仕上げといたぜ！{Wait for input}{emote: Reset}ソコに　{ruby (charSpan 1): お}置いてあるのを{pause 5}	{ruby (charSpan 2): かって}勝手に{ruby (charSpan 1): も}持っていきな！
+"012"	ソコの　{0011-0003-0002-0000}は	オマエが　{ruby (charSpan 2): ちゅうもん}注文したヤツだからな{Wait for input}	{ruby (charSpan 1): はや}早いトコ、{pause 10}{ruby (charSpan 1): も}持って{ruby (charSpan 1): かえ}帰ってくれよ！
+"013"	{ruby (charSpan 2): ちゅうもん}注文のリメイクは、{pause 10}まだ{ruby (charSpan 2): でき}出来てねぇよ{Wait for input}	もうちょい　かかるから、{pause 10}	また{ruby (charSpan 1): あと}後で　{ruby (charSpan 2): でなお}出直してくれよな！
+"014"	よぉ、{pause 10}{Player name}！{pause 15}	どうしたんでぇ！{000f-0005-0004-0015-0028}	リメイクしたい！	なんでもない
+"015"	{emote: Resigned}おいおい！{pause 15}	{ruby (charSpan 1): ひ}冷やかしは{pause 5}　カンベンしろよなー！
+"016"	{emote: Thought}ん～{pause 8}・{pause 8}・{pause 8}・{pause 15}	でも{ruby (charSpan 2): きょう}今日は　そろそろアガろうと	{ruby (charSpan 1): おも}思ってたんだけどなぁ{pause 8}・{pause 8}・{pause 8}・{000c-0009-0000}
+"017"	{000c-0002-0000}{000c-0004-0000}{000c-0001-0000}{000c-0007-0000}{emote: Worry}{Orange}カーくん　{Color Reset}{pause 10}{ruby (charSpan 2): きょう}今日はもう	お{ruby (charSpan 1): つか}疲れだから、{pause 5}{ruby (charSpan 1): やす}休ませてあげて！{Wait for input}	ゴメンなさいね！{000c-0009-0000}
+"018"	{000c-0001-0000}{000c-0003-0000}{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Happiness}ま、{pause 10}そういうコトだ！{pause 15}	{ruby (charSpan 1): わり}悪ぃな！
+"019"
+"021"	{pause 5}{emote: Alarmed}{pause 15}おっ！{pause 15}{emote: Reset}　なんか{ruby (charSpan 1): も}持って{ruby (charSpan 1): き}来たのか！{Wait for input}	{emote: Thought}どれどれ{pause 8}・{pause 8}・{pause 8}・{pause 10}	オレっち{ruby (charSpan 1): てき}的に　ピンとくる{ruby (charSpan 2): かぐ}家具は{pause 8}・{pause 8}・{pause 8}・
+"022"	{pause 8}・{pause 8}・{pause 8}・{pause 15}{emote: Sunny}{pause 15}{ruby (charSpan 1): とく}特にねぇや！{pause 30}	{ruby (charSpan 1): わり}悪ぃな！
+"023"	{pause 8}・{pause 8}・{pause 8}・{pause 15}{emote: Happiness}おぅおぅ！{pause 15}	いいモン　{ruby (charSpan 1): も}持ってんじゃん！{pause 20}	{emote: Reset}ちょっと　{emote: Curious}{ruby (charSpan 1): み}見せてみな？
+"024"	{emote: Anger}なんだよー！{pause 15}	{ruby (charSpan 1): み}見せてくれねぇんだったら、{pause 10}	リメイクも{pause 5}　してやんねぇからなっ！
+"025"	{pause 5}{emote: Alarmed}{pause 10}{0011-0003-0002-0000}かぁ！{pause 15}	{emote: Happiness}しかも　イイ{ruby (charSpan 1): かん}感じに	リメイクしてあるじゃん！{Wait for input}{emote: Reset}また{ruby (charSpan 1): ちが}違った{ruby (charSpan 1): かん}感じに　{emote: Curious}リメイクするのか？{pause 20}	{emote: Reset}それとも{pause 5}　オリジナルのデザインに	{ruby (charSpan 1): もど}戻したいのかい？{000f-0006-0006-0000-0000-0028}	リメイクする！	オリジナルに{ruby (charSpan 1): もど}戻す	やっぱやめとく
+"026"	オリジナルに{ruby (charSpan 1): もど}戻す{ruby (charSpan 2): ばあい}場合{pause 5}	{ruby (charSpan 2): ひよう}費用は　{Blue}{0004-000c-0002-0000}ベル{Color Reset}になるけど、{pause 10}	{emote: Curious}それでいいかい？{confirmation-02}{000f-0005-0004-0015-0028}	お{ruby (charSpan 1): ねが}願いします！	またにします
+"027"	よし、{emote: Agreement}{pause 10}じゃあ　{ruby (charSpan 2): だいきん}代金は{ruby (charSpan 2): まえばら}前払いだから{pause 5}	カネを　{ruby (charSpan 2): ようい}用意してくれ！{Wait for input}	{emote: Soft Smile}{ruby (charSpan 1): はなし}話は　それからだ！
+"028"	よっしゃ！　{pause 10}{emote: Pride}あとは　オレっちに{ruby (charSpan 1): まか}任せな！{Wait for input}	{emote: Reset}{Blue}30{ruby (charSpan 1): ぷん}分{Color Reset}ぐらいで　{ruby (charSpan 2): しあ}仕上げてやるから、{pause 10}	{emote: Sunny}テキトーに{ruby (charSpan 2): じかん}時間つぶして{pause 5}　{ruby (charSpan 2): でなお}出直してきな！
+"029"	{emote: Happiness}それなら　{Blue}{0012-000a-0002-cd00}{Color Reset}と	{Blue}{0012-000b-0002-cd00}{Color Reset}を　リメイクできるぜ！{Wait for input}{emote: Reset}{Blue}{0004-000c-0002-0000}{Color Reset}{Blue}ベル{Color Reset}で　やってやるけど	{emote: Curious}どうするよ？{confirmation-02}{000f-0005-0004-0015-0028}	お{ruby (charSpan 1): ねが}願いします！	またにします
+"030"	{emote: Happiness}それなら　{Blue}{0012-000a-0002-cd00}{Color Reset}を	リメイクしてやれるぜ！{Wait for input}{Blue}{emote: Reset}{0004-000c-0002-0000}ベル{Color Reset}で　やってやるけど	{emote: Curious}どうするよ？{confirmation-02}{000f-0005-0004-0015-0028}	お{ruby (charSpan 1): ねが}願いします！	またにします
+"031"	{emote: Happiness}それなら　{Blue}{0012-000b-0002-cd00}{Color Reset}を	リメイクしてやれるぜ！{Wait for input}{Blue}{emote: Reset}{0004-000c-0002-0000}ベル{Color Reset}で　やってやるけど	{emote: Curious}どうするよ？{confirmation-02}{000f-0005-0004-0015-0028}	お{ruby (charSpan 1): ねが}願いします！	またにします
+"032"	{emote: Happiness}よしきた！{Wait for input}	{emote: Reset}じゃあまず、{pause 10}{Blue}{0012-000a-0002-cd00}{Color Reset}は	どんな{ruby (charSpan 1): ふう}風に　したいんだ？{000f-0005-0004-0000-0000}	オススメは？	そのままで
+"033"	じゃあ、{pause 10}その　{0011-0003-0002-0000}の	{Blue}{0012-000a-0002-cd00}{Color Reset}だけど、{pause 10}	どんな{ruby (charSpan 1): ふう}風に　{emote: Curious}リメイクしたいんだ？{000f-0005-0004-0000-0000}	オススメは？	そのままで
+"034"	オレっちのオススメか？{Wait for input}	{emote: Thought}そうだなぁ{pause 8}・{pause 8}・{pause 8}・{pause 15}	{emote: Curious}こんなのは　どうだ？
+"035"
+"036"	{Blue}{emote: Thought}{0012-000a-0002-cd00}{Color Reset}は{pause 5}	{Blue}{0012-0008-0000}{pause 5}{Color Reset}・{pause 5}・{pause 5}・{pause 5}っと！
+"037"	なら　{Blue}{0012-000a-0002-cd00}{Color Reset}は	そのままで　いいんだな
+"038"	オレっちのオススメか？{Wait for input}	{emote: Thought}そうだなぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Alarmed}んっ？！{Wait for input}そういえば　オマエ、{pause 10}	{emote: Reset}{ruby (charSpan 1): いま}今　{Blue}{ruby (charSpan 2): こうせき}鉱石{Color Reset}も{emote: Curious}{ruby (charSpan 1): も}持ってたよな？{Wait for input}{emote: Reset}{Blue}{ruby (charSpan 2): こうせき}鉱石{Color Reset}を{ruby (charSpan 1): つか}使えば　すっげぇ　ド{ruby (charSpan 2): はで}派手な	リメイクもできるけど、{pause 10}{emote: Glare}どうよ！{000f-0006-0006-0000-0000-0028}	{ruby (charSpan 2): こうせき}鉱石でリメイク！	{ruby (charSpan 2): ふつう}普通のオススメで	やっぱそのままで
+"039"	{emote: Laughter}そっか　そっか！{pause 20}	{emote: Happiness}じゃあ{ruby (charSpan 1): つか}使いたい{ruby (charSpan 2): こうせき}鉱石を　{ruby (charSpan 1): み}見せてみな！
+"040"
+"041"	{Blue}{emote: Thought}{0012-000a-0002-cd00}{Color Reset}は{pause 5}	{0011-0003-0002-0001}を{ruby (charSpan 1): つか}使って	{ruby (charSpan 3): だいかいぞう}大改造{pause 5}・{pause 5}・{pause 5}・{pause 5}っと！{pause 20}　{emote: Happiness}よっしゃ！
+"042"	なんだ、{pause 10}{ruby (charSpan 2): こうせき}鉱石を{ruby (charSpan 1): つか}使うんじゃねぇのか？{pause 20}	じゃあ{pause 5}　{ruby (charSpan 2): いったい}一体{emote: Curious}どうするってんだ？{000f-0005-0004-0000-0028}	オススメは？	そのままでいい
+"043"
+"044"
+"045"	・{pause 8}・{pause 8}・{pause 8}って、{pause 10}{emote: Disbelief}{pause 15}おいおい！{pause 20}	それじゃ{pause 5}　{ruby (charSpan 1): なに}何も{ruby (charSpan 1): か}変わらねえっつ～の！{Wait for input}	{pause 10}{emote: Resigned}{pause 10}{ruby (charSpan 2): いったい}一体{pause 5}　どうしたいんだよ？{000f-0005-0004-0000-0028}	もっかい{ruby (charSpan 1): かんが}考える	リメイクをやめる
+"046"
+"047"	おっし！{pause 15}	{ruby (charSpan 2): こんど}今度は　ちゃんと{ruby (charSpan 1): き}決めてくれよ？
+"048"	じゃあ、{pause 10}その　{0011-0003-0002-0000}の	{Blue}{0012-000b-0002-cd00}{Color Reset}だけど、{pause 10}	どんな{ruby (charSpan 1): ふう}風に　{emote: Curious}リメイクしたいんだ？{000f-0008-000a-0000-0000-0000-0000-0000}	オススメは？	{ruby (charSpan 1): ふく}服の{ruby (charSpan 2): きじ}生地を{ruby (charSpan 1): つか}使う	マイデザインを{ruby (charSpan 1): つか}使う	{0012-000b-0002-cd00}を{ruby (charSpan 1): はず}外す	そのままで
+"049"	じゃあ、{pause 10}その　{0011-0003-0002-0000}の	{Blue}{0012-000b-0002-cd00}{Color Reset}は　{ruby (charSpan 1): いま}今は{ruby (charSpan 1): はず}外してあるけど、{pause 5}	どんなデザインのを　{emote: Curious}つけたいんだ？{000f-0007-0008-0000-0000-0000-0000}	オススメは？	{ruby (charSpan 1): ふく}服の{ruby (charSpan 2): きじ}生地を{ruby (charSpan 1): つか}使う	マイデザインを{ruby (charSpan 1): つか}使う	{ruby (charSpan 1): はず}外したままで
+"050"	じゃあ、{pause 10}その　{0011-0003-0002-0000}の	{Blue}{0012-000b-0002-cd00}{Color Reset}だけど、{pause 10}	どんな{ruby (charSpan 1): ふう}風に　{emote: Curious}リメイクしたいんだ？{000f-0007-0008-0000-0000-0000-0000}	オススメは？	{ruby (charSpan 1): ふく}服の{ruby (charSpan 2): きじ}生地を{ruby (charSpan 1): つか}使う	マイデザインを{ruby (charSpan 1): つか}使う	そのままで
+"051"	あとは　{Blue}{emote: Agreement}{0012-000b-0002-cd00}{Color Reset}だな{pause 8}・{pause 8}・{pause 8}・{pause 15}	{emote: Reset}こっちは　どんな{ruby (charSpan 1): ふう}風に	リメイクしたいんだ？{000f-0008-000a-0000-0000-0000-0000-0000}	オススメは？	{ruby (charSpan 1): ふく}服の{ruby (charSpan 2): きじ}生地を{ruby (charSpan 1): つか}使う	マイデザインを{ruby (charSpan 1): つか}使う	{0012-000b-0002-cd00}を{ruby (charSpan 1): はず}外す	そのままで
+"052"	あとは　{Blue}{emote: Agreement}{0012-000b-0002-cd00}{Color Reset}だな{pause 8}・{pause 8}・{pause 8}・{pause 15}	{emote: Reset}{ruby (charSpan 1): いま}今は　{ruby (charSpan 1): はず}外してあるけど、{pause 10}	どんなデザインのを　つけたいんだ？{000f-0007-0008-0000-0000-0000-0000}	オススメは？	{ruby (charSpan 1): ふく}服の{ruby (charSpan 2): きじ}生地を{ruby (charSpan 1): つか}使う	マイデザインを{ruby (charSpan 1): つか}使う	{ruby (charSpan 1): はず}外したままで
+"053"	あとは　{Blue}{emote: Agreement}{0012-000b-0002-cd00}{Color Reset}だな{pause 8}・{pause 8}・{pause 8}・{pause 15}	{emote: Reset}こっちは　どんな{ruby (charSpan 1): ふう}風に	リメイクしたいんだ？{000f-0007-0008-0000-0000-0000-0000}	オススメは？	{ruby (charSpan 1): ふく}服の{ruby (charSpan 2): きじ}生地を{ruby (charSpan 1): つか}使う	マイデザインを{ruby (charSpan 1): つか}使う	そのままで
+"054"	{Blue}{emote: Thought}{0012-000b-0002-cd00}{Color Reset}は	{ruby (charSpan 1): と}取り{ruby (charSpan 1): はず}外し{pause 8}・{pause 8}・{pause 8}・{pause 8}っと
+"055"	{Blue}{emote: Thought}{0012-000b-0002-cd00}{Color Reset}は	{ruby (charSpan 1): と}取り{ruby (charSpan 1): はず}外したまま{pause 8}・{pause 8}・{pause 8}・{pause 8}っと
+"056"	{emote: Thought}オススメの　{Blue}{0012-000b-0002-cd00}{Color Reset}なぁ{pause 8}・{pause 8}・{pause 8}・{pause 15}	{emote: Curious}こんなのは　どうだ？
+"057"	なら　{Blue}{0012-000b-0002-cd00}{Color Reset}は	そのままで　いいんだな
+"058"	{Blue}{emote: Thought}{0012-000b-0002-cd00}{Color Reset}は	{Blue}{0012-0009-0000}{Color Reset}で{pause 8}・{pause 8}・{pause 8}・{pause 8}っと
+"059"	そしたら、{pause 10}{ruby (charSpan 1): つか}使いたいマイデザインを	{ruby (charSpan 1): み}見せてみな！
+"060"	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}でも{pause 5}　リメイクに{ruby (charSpan 1): つか}使える	{ruby (charSpan 2): てごろ}手頃な{Blue}トップス{Color Reset}を　{ruby (charSpan 1): も}持ってないみたいだな{Wait for input}{ruby (charSpan 1): か}代わりに　マイデザインでも	{emote: Curious}はってみるか？{000f-0005-0004-0015-0028}	マイデザインで！	やっぱそのままで
+"061"	そしたら、{pause 10}{ruby (charSpan 1): つか}使いたい{Blue}{ruby (charSpan 1): ふく}服{Color Reset}を	{ruby (charSpan 1): み}見せてみな！
+"062"	その　{0011-0003-0002-0002}を{pause 5}	{emote: Agreement}{ruby (charSpan 2): きじ}生地に　{ruby (charSpan 1): つか}使えばいいんだな！
+"063"	その　{0011-0005-0000}ってのを{pause 5}	{emote: Agreement}はればいいんだな！
+"064"	{0007-0004-0000}{emote: Thought}{pause 10}・{pause 10}・{pause 10}・{pause 10}{emote: Alarmed}{pause 15}んっ？{pause 30}{0007-0005-0000}	{emote: Reset}{pause 5}なんだ、{pause 10}だったら　マイデザインを	はり{ruby (charSpan 1): か}替えるだけじゃねぇか{Wait for input}{emote: Sunny}それぐらいなら　チョチョイのチョイだ！{Wait for input}	{emote: Reset}{ruby (charSpan 2): だいきん}代金も　いらねえし、{pause 10}	{ruby (charSpan 1): いま}今すぐ　{emote: Curious}やっちまっていいか？{confirmation-02}{000f-0005-0004-0015-0028}	お{ruby (charSpan 1): ねが}願いします！	やっぱやめます
+"065"	{emote: Pride}よしきた！{pause 15}	じゃあ　{ruby (charSpan 2): いったん}一旦、{pause 5}コッチによこしな！
+"066"	お{ruby (charSpan 1): ま}待たせ、{pause 10}{emote: Happiness}ほらよっ！
+"067"	{0007-0004-0000}{emote: Thought}{pause 10}・{pause 10}・{pause 10}・{pause 10}{emote: Alarmed}{pause 15}んっ？{pause 30}{0007-0005-0000}	{emote: Reset}{pause 5}なんだ、{pause 10}このリメイクだったら{pause 5}	オリジナルデザインに　{ruby (charSpan 1): もど}戻すことになるな{Wait for input}だったら　{ruby (charSpan 2): だいきん}代金は	{Blue}{0004-000c-0002-0000}ベル{Color Reset}で　かまわねぇけど、{pause 10}	リメイクしちまって　{emote: Curious}いいか？{confirmation-02}{000f-0005-0004-0015-0028}	お{ruby (charSpan 1): ねが}願いします！	やっぱやめます
 "068"	それじゃあ　リメイクする{ruby (charSpan 2): かぐ}家具と	{ruby (charSpan 2): ざいりょう}材料を{ruby (charSpan 1): あず}預かるぜ！
 "069"	それじゃあ　リメイクする{ruby (charSpan 2): かぐ}家具を	{ruby (charSpan 1): あず}預かるぜ！
-"070"	
-"071"	{pause 5}
-"072"	{pause 5}
-"073"	{pause 5}
-"074"	{pause 5}
-"075"	
-"076"	よし、{emote: Agreement}
-"077"	それじゃあ、{pause 10}!
-"078"	よし、{emote: Agreement}
-"079"	よし、{emote: Agreement}
-"080"	それじゃあ、{pause 10}!
-"081"	そしたら{pause 5}
-"082"	{pause 5}
-"083"	よっしゃ！　{pause 10}!
-"084"	{pause 5}
-"085"	よし、{emote: Agreement}
-"086"	それじゃあ、{pause 10}!
-"087"	
-"088"	
-"089"	{emote: Anger}
-"091"	こんなのは{pause 5}
-"092"	こんなのは{pause 5}
-"093"	
-"094"	
-"095"	
-"096"	{emote: Thought}
-"097"	
-"098"	
-"099"	{Gray}z{0000-0002-0002-4b-00}zz...{0000-0002-0002-64-00}{Color Reset}
-"100"	{000c-0002-0000}
-"101"	{000c-0000-0000}
-"102"	{000c-0000-0000}
-"103"	{000c-0001-0000}
-"104"	{000c-0001-0000}
-"105"	{ruby (charSpan 1): むら}村に{ruby (charSpan 1): こ}来られて　{ruby (charSpan 2): けっこう}結構　{ruby (charSpan 1): た}経つけど、{pause 10}
-"106"	
-"107"	{000c-0000-0000}
-"108"	{000c-0000-0000}
-"109"	{000c-0002-0000}
-"110"	{000c-0000-0000}
-"111"	{000c-0000-0000}
-"112"	{emote: Pride}
-"113"	{emote: Pride}
-"114"	{pause 8}
-"115"	{000c-0000-0000}
-"121"	よっしゃ！{pause 10}
-"122"	{emote: Greetings}
-"123"	
-"124"	
-"125"	
-"126"	
-"127"	
-"128"	ソコの{ruby (charSpan 1): はこ}箱の{ruby (charSpan 2): なかみ}中身は、{pause 8}
+"070"
+"071"	{pause 5}{emote: Alarmed}あっ、{pause 10}だけど　{emote: Reset}リメイクに{ruby (charSpan 1): つか}使う	マイデザインを　かきかえたら、{pause 10}	{ruby (charSpan 3): かんせいひん}完成品のデザインも　{ruby (charSpan 1): か}変わっちまうからな{Wait for input}そこんとこだけは{pause 5}	{ruby (charSpan 1): おぼ}覚えておいてくれよ！
+"072"	{pause 5}{emote: Alarmed}{pause 10}{0011-0003-0002-0000}かぁ！{pause 15}	{emote: Agreement}やっぱ　カッケぇよなぁ～！{emote: Happiness}{Wait for input}{emote: Reset}{ruby (charSpan 1): ほか}他のパーツも　そろえて{ruby (charSpan 1): も}持って{ruby (charSpan 1): き}来たら、{pause 10}	{Blue}{0004-000c-0002-0000}ベル{Color Reset}で{pause 5}	{ruby (charSpan 1): かざ}飾りやすいミニチュアに　してやるぜ！{confirmation-02}{000f-0005-0004-0015-0028}	お{ruby (charSpan 1): ねが}願いします！	またにします
+"073"	{pause 5}{emote: Alarmed}{pause 10}{0011-0003-0002-0000}かぁ！{pause 15}	{emote: Agreement}{ruby (charSpan 2): めいきょく}名曲だよなぁ～！{emote: Happiness}{Wait for input}{emote: Reset}{Blue}シャコガイのかいがら{Color Reset}があれば、{pause 10}	{Blue}{0004-000c-0002-0000}ベル{Color Reset}で{pause 5}	オルゴールを　{ruby (charSpan 1): つく}作ってやるぜ！{confirmation-02}{000f-0005-0004-0015-0028}	お{ruby (charSpan 1): ねが}願いします！	またにします
+"074"	{pause 5}{emote: Alarmed}{pause 10}{0011-0003-0002-0000}かぁ！{pause 15}	{emote: Agreement}キレイなもんだよなぁ～！{emote: Happiness}{Wait for input}{emote: Reset}{Blue}ミュージック{Color Reset}があれば、{pause 10}	{Blue}{0004-000c-0002-0000}ベル{Color Reset}で{pause 5}	オルゴールを　{ruby (charSpan 1): つく}作ってやるぜ！{confirmation-02}{000f-0005-0004-0015-0028}	お{ruby (charSpan 1): ねが}願いします！	またにします
+"075"
+"076"	よし、{emote: Agreement}{pause 10}じゃあ　{ruby (charSpan 1): ほか}他のパーツも	がんばって　{ruby (charSpan 2): はっくつ}発掘してこい！{Wait for input}	{emote: Soft Smile}{ruby (charSpan 1): はなし}話は　それからだ！
+"077"	それじゃあ、{pause 10}{ruby (charSpan 1): ほか}他のパーツも	まとめて{ruby (charSpan 1): あず}預かるぜ！
+"078"	よし、{emote: Agreement}{pause 10}じゃあ　{ruby (charSpan 2): はまべ}浜辺に{ruby (charSpan 1): お}落ちてる{pause 5}	{Blue}シャコガイのかいがら{Color Reset}を　{ruby (charSpan 1): ひろ}拾ってきな！{Wait for input}	{emote: Soft Smile}{ruby (charSpan 1): はなし}話は　それからだ！
+"079"	よし、{emote: Agreement}{pause 10}じゃあ　{ruby (charSpan 1): きょく}曲は{ruby (charSpan 1): なん}何でもいいから{pause 5}	{Blue}ミュージック{Color Reset}を　{ruby (charSpan 1): も}持ってきな！{Wait for input}	{emote: Soft Smile}{ruby (charSpan 1): はなし}話は　それからだ！
+"080"	それじゃあ、{pause 10}{Blue}ミュージック{Color Reset}と	{Blue}シャコガイのかいがら{Color Reset}を　{ruby (charSpan 1): あず}預かるぜ！
+"081"	そしたら{pause 5}　オルゴールにしたい	{Blue}ミュージック{Color Reset}を	コッチに　よこしな！
+"082"	{pause 5}{emote: Alarmed}{pause 10}おっ！{pause 10}　{0011-0003-0002-0000}かぁ！{pause 15}	{emote: Happiness}{ruby (charSpan 2): めいきょく}名曲だよなぁ！{Wait for input}{emote: Reset}それじゃあ、{pause 10}	{Blue}シャコガイのかいがら{Color Reset}と{ruby (charSpan 2): いっしょ}一緒に	{ruby (charSpan 1): あず}預かるぜ！
+"083"	よっしゃ！　{pause 10}{emote: Pride}あとは　オレっちに{ruby (charSpan 1): まか}任せな！{Wait for input}	{emote: Reset}{Blue}30{ruby (charSpan 1): ぷん}分{Color Reset}ぐらいで　{ruby (charSpan 2): しあ}仕上げてやるから、{pause 10}	{emote: Sunny}テキトーに{ruby (charSpan 2): じかん}時間つぶして{pause 5}　{ruby (charSpan 2): でなお}出直してきな！
+"084"	{pause 5}{emote: Alarmed}おっ！{pause 10}　{0011-0003-0002-0000}を	{ruby (charSpan 2): はっくつ}発掘してきたのか{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Glare}ヤルじゃねぇか！{Wait for input}{emote: Reset}{Blue}3つ{Color Reset}ほど　{ruby (charSpan 1): も}持ってくりゃ、{pause 10}	{Blue}{0004-000c-0002-0000}ベル{Color Reset}で	{ruby (charSpan 1): きん}金ピカの{ruby (charSpan 2): かぐ}家具を　{ruby (charSpan 1): つく}造ってやるぜ！{confirmation-02}{000f-0005-0004-0015-0028}	お{ruby (charSpan 1): ねが}願いします！	またにします
+"085"	よし、{emote: Agreement}{pause 10}じゃあ　がんばって	{Blue}3つ{Color Reset}　{ruby (charSpan 2): はっくつ}発掘してこい！{Wait for input}	{emote: Soft Smile}{ruby (charSpan 1): はなし}話は　それからだ！
+"086"	それじゃあ、{pause 10}	{0011-0003-0002-0000}を	{Blue}3つ{Color Reset}　{ruby (charSpan 1): あず}預かるぜ！
+"087"
+"088"
+"089"	{emote: Anger}なんだよ～！{pause 5}　やめるのかよ！{pause 20}	{0007-0002-0000}　　　　　　　　　{0007-0003-0000}・{pause 5}・{pause 5}・{pause 5}ちぇっ！
+"091"	こんなのは{pause 5}　どうだ？
+"092"	こんなのは{pause 5}　どうだ？
+"093"
+"094"
+"095"
+"096"	{emote: Thought}じゃあ　まず{pause 5}・{pause 5}・{pause 5}・{pause 15}	{Blue}{emote: Reset}{pause 10}{0012-000a-0002-cd00}{Color Reset}は	どんな{ruby (charSpan 1): ふう}風に　したいんだ？{000f-0005-0004-0000-0000}	オススメは？	そのままで
+"097"
+"098"
+"099"	{Gray}z{Text size 75%}zz...{Text size 100%}{Color Reset}
+"100"	{000c-0002-0000}{000c-0003-0000}んっ{pause 5}・{pause 5}{pause 5}・{pause 5}・？！
+"101"	{000c-0000-0000}{000c-0004-0000}{emote: Anger}おぅおぅ！{pause 15}	{ruby (charSpan 1): み}見かけねぇヤツだな！{Wait for input}{emote: Mischief}オマエ　{ruby (charSpan 1): いま}今、{pause 10}	オレっちの　ヨメさんに	{ruby (charSpan 1): み}見とれてなかったか？{000c-0009-0000}
+"102"	{000c-0000-0000}{000c-0004-0000}{pause 5}{000c-0002-0000}{emote: Greetings}{pause 5}よぉ！{pause 15}　{ruby (charSpan 1): み}見かけねぇ{ruby (charSpan 1): かお}顔だな！{Wait for input}	{emote: Reset}{ruby (charSpan 2): さいきん}最近　{emote: Curious}{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): き}来たのか？{000c-0009-0000}
+"103"	{000c-0001-0000}{000c-0008-0000}{pause 5}{emote: Alarmed}{pause 10}あらやだ、{pause 10}{Orange}カーくん{Color Reset}！{pause 15}{000c-0000-0000}{000c-0005-0000}{000c-0002-0000}{000c-0005-0000}{000c-0001-0000}	{emote: Reset}この{ruby (charSpan 1): ひと}人は　{ruby (charSpan 1): あたら}新しく{ruby (charSpan 2): そんちょう}村長になった	{Player name}さんよ！
+"104"	{000c-0001-0000}{000c-0008-0000}{pause 5}{emote: Alarmed}{pause 10}あらやだ、{pause 10}{Orange}カーくん{Color Reset}！{pause 15}{000c-0000-0000}{000c-0005-0000}{000c-0002-0000}{000c-0005-0000}{000c-0001-0000}	{emote: Reset}この{ruby (charSpan 1): ひと}人は　お{ruby (charSpan 1): きゃく}客さんの	{Player name}さんよ！
+"105"	{ruby (charSpan 1): むら}村に{ruby (charSpan 1): こ}来られて　{ruby (charSpan 2): けっこう}結構　{ruby (charSpan 1): た}経つけど、{pause 10}	{emote: Happiness}{Orange}カーくん{Color Reset}、{pause 5}いつも{ruby (charSpan 1): つか}疲れて{ruby (charSpan 1): ね}寝てるから{pause 10}	まだ　{ruby (charSpan 1): あ}会ったことなかったのね{000c-0009-0000}
+"106"
+"107"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{pause 5}{emote: Shocked}{pause 15}うぉっ！{pause 10}　マジか！{pause 15}	{emote: Bashful}{ruby (charSpan 2): きょう}今日まで　ちっとも{ruby (charSpan 1): し}知らなかったなんて	ビックリだぜー！{Wait for input}{000c-0002-0000}{000c-0003-0000}{emote: Laughter}あらぬ{ruby (charSpan 1): うたが}疑いを　かけちまって	{ruby (charSpan 1): わる}悪かったな！
+"108"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{pause 5}{emote: Shocked}{pause 15}うぉっ！{pause 10}　マジか！{pause 15}	{000c-0002-0000}{000c-0003-0000}{emote: Bashful}{ruby (charSpan 2): きょう}今日まで　ちっとも{ruby (charSpan 1): し}知らなかったなんて	ビックリだぜー！
+"109"	{000c-0002-0000}{000c-0001-0000}{000c-0003-0000}オレっちは　{Orange}リサ{Color Reset}っちの{ruby (charSpan 2): あいかた}相方の{pause 5}	{emote: Pride}{Orange}カイゾー{Color Reset}ってもんだ！{Wait for input}{emote: Reset}お{ruby (charSpan 1): ふる}古の{ruby (charSpan 2): かぐ}家具を　チョイとイジって、{pause 5}	イイ{ruby (charSpan 1): かん}感じに　{Blue}リメイク{Color Reset}したり	してるのさ！{000c-0009-0000}
+"110"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{emote: Happiness}{Orange}カーくん{Color Reset}の　リメイクの{ruby (charSpan 1): うで}腕は	{ruby (charSpan 3): ちょういちりゅう}超一流なのよ！{Wait for input}{emote: Thought}{ruby (charSpan 1): いろ}色をぬり{ruby (charSpan 1): か}替えたり	{ruby (charSpan 2): きじ}生地をはり{ruby (charSpan 1): か}替えたり{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Reset}{pause 5}{000c-0008-0000}{pause 20}{emote: Love}{pause 10}{Orange}カーくん{Color Reset}の{ruby (charSpan 1): て}手にかかれば{pause 5}	どんな{ruby (charSpan 2): かぐ}家具でも　{ruby (charSpan 1): み}見る{ruby (charSpan 1): み}見るうちに	ステキに　なっちゃうの！{000c-0009-0000}
+"111"	{000c-0000-0000}{000c-0007-0000}{000c-0002-0000}{000c-0005-0000}{emote: Bashful}{000c-0001-0000}{emote: Happiness}そうなんだよな～！{pause 15}	へへっ！{Wait for input}{000c-0002-0000}{emote: Reset}{000c-0003-0000}オマエも　なんかちょっと	{ruby (charSpan 1): あ}飽きてきた{ruby (charSpan 2): かぐ}家具とかが　あったらさ、{pause 10}	{ruby (charSpan 1): す}捨てる{ruby (charSpan 1): まえ}前に　{ruby (charSpan 1): も}持って{ruby (charSpan 1): き}来てみな？
+"112"	{emote: Pride}オレっちが　めちゃイイ{ruby (charSpan 1): かん}感じに	{ruby (charSpan 1): う}生まれ{ruby (charSpan 1): か}変わらせて　やるからよ！
+"113"	{emote: Pride}オレっちが　めちゃイイ{ruby (charSpan 1): かん}感じに	{ruby (charSpan 1): う}生まれ{ruby (charSpan 1): か}変わらせて　やるからよ！{000c-0009-0000}
+"114"	{pause 8}・{pause 8}・{pause 8}・{pause 8}けど　オマエ、{pause 15}	{emote: Anger}オレっちの　ヨメさんには	チョッカイ{ruby (charSpan 1): だ}出すんじゃねぇぞ！
+"115"	{000c-0000-0000}{000c-0005-0000}{000c-0001-0000}{000c-0003-0000}{pause 8}・{pause 8}・{pause 8}・{pause 8}{Player name}さん、{pause 15}	{emote: Glare}{pause 5}わたしの　{Orange}カーくん{Color Reset}に{pause 5}	ホレちゃダメよ！
+"121"	よっしゃ！{pause 10}　{emote: Pride}あとは　オレっちに{ruby (charSpan 1): まか}任せな！{Wait for input}	{emote: Reset}でも、コイツはデカいから{pause 12}	{emote: Thought}{ruby (charSpan 1): みせ}店の{ruby (charSpan 1): なか}中じゃ{pause 8}　{ruby (charSpan 2): さぎょう}作業ができねぇな{pause 8}・{pause 8}・{pause 8}・	{emote: Happiness}まあ、{ruby (charSpan 2): しんぱい}心配すんな！{pause 30}	{emote: Resigned}どっか{ruby (charSpan 1): ひろ}広い{ruby (charSpan 2): ばしょ}場所を{ruby (charSpan 1): み}見つけて{pause 8}	バッチリ　{ruby (charSpan 2): しあ}仕上げといてやるからよ！	{emote: Reset}{Blue}30{ruby (charSpan 1): ぷん}分{Color Reset}ぐらい　{ruby (charSpan 2): じかん}時間をつぶしてから、{pause 8}	{emote: Sunny}またここに{ruby (charSpan 1): き}来な！
+"122"	{emote: Greetings}おぅ！{pause 10}　{Player name}！{pause 20}	{emote: Happiness}{ruby (charSpan 2): ちゅうもん}注文の　{0011-0003-0002-0000}、{pause 10}	バッチリ　{ruby (charSpan 2): しあ}仕上げといたぜ！	{emote: Reset}ソコの{ruby (charSpan 1): はこ}箱に　{ruby (charSpan 1): い}入れといたから、{pause 8}	{ruby (charSpan 2): かって}勝手に{ruby (charSpan 1): も}持っていきな！
+"123"
+"124"
+"125"
+"126"
+"127"
+"128"	ソコの{ruby (charSpan 1): はこ}箱の{ruby (charSpan 2): なかみ}中身は、{pause 8}オマエが　{ruby (charSpan 2): ちゅうもん}注文した	{0011-0003-0002-0000}だからな！{Wait for input}	{ruby (charSpan 1): はや}早いトコ、{pause 10}{ruby (charSpan 1): も}持って{ruby (charSpan 1): かえ}帰ってくれよ！

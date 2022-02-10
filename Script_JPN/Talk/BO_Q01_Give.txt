@@ -1,47 +1,47 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Sigh}
-"003"	{emote: Glee}
-"004"	{emote: Alarmed}
-"005"	{emote: Joy}
-"006"	{emote: Alarmed}
-"007"	{emote: Glee}
-"008"	{emote: Alarmed}
-"009"	{emote: Alarmed}
-"010"	{emote: Surprise}
-"011"	{emote: Shocked}
-"012"	{emote: Shocked}
-"013"	{emote: Happiness}
-"014"	{emote: Joy}
-"015"	{emote: Alarmed}
-"016"	{emote: Alarmed}
-"017"	{emote: Alarmed}
-"018"	{emote: Alarmed}
-"019"	{emote: Alarmed}
-"020"	{emote: Alarmed}
-"021"	{emote: Shocked}
-"022"	{emote: Shocked}
-"023"	{emote: Inspired}
-"024"	{emote: Happiness}
-"025"	{emote: Happiness}
-"026"	{emote: Happiness}
-"027"	{emote: Happiness}
-"028"	{emote: Inspired}
-"029"	{emote: Glee}
-"030"	{emote: Alarmed}
-"031"	{emote: Happiness}
-"032"	{emote: Worry}
-"033"	{emote: Happiness}
-"034"	{emote: Glee}
-"035"	
-"036"	{emote: Happiness}
-"037"	{0011-0003-0002-00-00}
-"038"	{emote: Glee}
-"039"	{emote: Glee}
-"040"	{emote: Glee}
-"041"	{emote: Glee}
-"042"	{emote: Glee}
-"043"	{emote: Happiness}
-"044"	{emote: Anger}
-"045"	{emote: Glee}
-"046"	{emote: Glee}
+"001"	{emote: Worry}えぇ～{pause 20}	そうなのぉ？
+"002"	{emote: Sigh}なんだぁ～{pause 20}	もってきてないのぉ～？
+"003"	{emote: Glee}やったぁ～{pause 20}	ホントに　つかまえてきて	くれたんだねぇ、{pause 8}{catchphrase}
+"004"	{emote: Alarmed}まさか　ホントに	つかまえてきて　くれるなんてぇ{Wait for input}	{emote: Glee}ボク　うれしいなぁ、{pause 8}{catchphrase}
+"005"	{emote: Joy}わぁ～！{pause 8}　かっこいい～！{pause 20}	ホンモノの	{0011-0003-0002-0000}だぁ
+"006"	{emote: Alarmed}コ、{pause 20}コレって{pause 8}・{pause 8}・{pause 8}・{pause 20}	{0011-0003-0002-0000}？！{Wait for input}{emote: Joy}すごぉ～い！{pause 20}	こんなに　{ruby (charSpan 1): ちか}近くで{ruby (charSpan 1): み}見れて	うれしいよぉ！
+"007"	{emote: Glee}わぁ～い！{pause 20}	{0011-0003-0002-0000}だねぇ！{pause 40}	{emote: Happiness}ありがたく　もらっちゃうよぉ～
+"008"	{emote: Alarmed}あぁ～！{pause 20}	{0011-0003-0002-0000}だぁ～{pause 40}	{emote: Happiness}ありがたく　もらっちゃうよぉ～
+"009"	{emote: Alarmed}すご～い！{pause 20}	{0011-0003-0002-0000}だぁ！{pause 40}	{emote: Happiness}コレ{pause 8}　もらっちゃうねぇ～
+"010"	{emote: Surprise}うわぁ～！{pause 20}	{0011-0003-0002-0000}だぁ！{Wait for input}{emote: Bashful}コレ{pause 20}　ホントに	もらっていいのかなぁ？
+"011"	{emote: Shocked}{0007-000b-0000}う、{pause 20}うそぉ～！{pause 40}	コレって　{0011-0003-0002-0000}～？！{Wait for input}{emote: Distress}こんなに　めずらしいムシを	つかまえちゃうなんて、{pause 20}	キミって　ムシとりのプロぉ～？{Wait for input}{emote: Bashful}えへへ～{pause 20}	ボク{pause 20}　もらっちゃって	いいのかなぁ、{pause 8}{catchphrase}
+"012"	{emote: Shocked}{0007-000b-0000}えぇ～？！{pause 40}	コレって、{pause 20}	{0011-0003-0002-0000}～？！{Wait for input}{emote: Sorrow}うわぁ～！{pause 40}	こんな　ムシがもらえるなんて、{pause 20}	ボク　カンドウだぁ～
+"013"	{emote: Happiness}ありがとぉ～！{pause 8}	さすが　{Player nickname (green)}{0005-000d-0000}！
+"014"	{emote: Joy}うわぁ～い{pause 20}	もらっていいのぉ～？
+"015"	{emote: Alarmed}{0007-000b-0000}うわぁ～！{pause 20}	ホントに　おやくそく{ruby (charSpan 1): どお}通り、	{0011-0003-0002-0000}だぁ～！{Wait for input}{emote: Love}キミの　つりのテクニック、{pause 20}	スゴすぎるよぉ～
+"016"	{emote: Alarmed}{0007-000b-0000}あぁ～！{pause 20}	{0011-0003-0002-0000}だぁ！{Wait for input}{emote: Glee}すご～い{pause 20}	ホントに　つれたんだねぇ
+"017"	{emote: Alarmed}あぁ～！{pause 20}	{0011-0003-0002-0000}だねぇ～{Wait for input}{emote: Happiness}それじゃあ、	もらっちゃうねぇ～
+"018"	{emote: Alarmed}わぁ～{pause 20}	{0011-0003-0002-0000}を	もってきてくれたんだねぇ{Wait for input}{emote: Happiness}それじゃあ、{pause 8}	コレは　もらうよぉ～
+"019"	{emote: Alarmed}あぁ～{pause 40}	コレって　ホンモノの	{0011-0003-0002-0000}だぁ！{Wait for input}{emote: Joy}すごぉ～い！{pause 20}	もらって　いいのかなぁ？
+"020"	{emote: Alarmed}わぁ～！{pause 20}	{0011-0003-0002-0000}だぁ～{Wait for input}{emote: Happiness}いい　おサカナ	つってきてくれたねぇ～
+"021"	{emote: Shocked}{0007-000b-0000}うっそぉ～？！{pause 20}	コレって	{0011-0003-0002-0000}～？！{Wait for input}{emote: Glee}すごいやぁ～！{pause 20}	ホントに　つれるんだねぇ！
+"022"	{emote: Shocked}{0007-000b-0000}えぇ～！{pause 20}	{0011-0003-0002-0000}？！{Wait for input}{emote: Happiness}まさか　ホントに	つっちゃうなんて、{pause 20}	キミって　スゴイよぉ～！{Wait for input}{emote: Agreement}うんうん{pause 40}	{emote: Happiness}やっぱり　{ruby (charSpan 1): ちか}近くで{ruby (charSpan 1): み}見ると	かっこいいねぇ、{pause 8}{catchphrase}
+"023"	{emote: Inspired}そうだ！{pause 40}	おれいだよね　おれい～
+"024"	{emote: Happiness}えへへ～{pause 20}	コレは　おれいだよぉ！
+"025"	{emote: Happiness}コレは　カンシャの	きもちだよぉ！{pause 40}	プレゼント　フォ～　ユ～
+"026"	{emote: Happiness}コレは　おれいだよぉ～{pause 40}	もって{ruby (charSpan 1): かえ}帰ってねぇ、{pause 8}{catchphrase}
+"027"	{emote: Happiness}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	おれいを　しなくちゃね
+"028"	{emote: Inspired}そうだ！{pause 40}	おれいを　あげなくっちゃ
+"029"	{emote: Glee}えへへ～{pause 20}	おれいをどぉ～ぞ！
+"030"	{emote: Alarmed}そうだ、{pause 20}	おれいしなくちゃねぇ～{Wait for input}	{emote: Happiness}コレを　どぉ～ぞ！
+"031"	{emote: Happiness}ボクの　かんしゃのきもち	うけとって～、{pause 8}{catchphrase}
+"032"	{emote: Worry}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	こういうときって{pause 20}　{ruby (charSpan 1): なに}何をあげたら	いいんだろぉ～？{Wait for input}{emote: Reset}コレで　いいかなぁ？
+"033"	{emote: Happiness}{0011-0003-0002-0001}だよぉ～{Wait for input}	{Player nickname (green)}{0005-000d-0000}、{pause 20}	どうも　ありがとぉ～
+"034"	{emote: Glee}{0011-0003-0002-0001}だよぉ{pause 40}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってくれると　うれしいなぁ！{Wait for input}{emote: Happiness}{Player nickname (green)}{0005-000d-0000}　ありがとぉ！{pause 40}	また　たのんじゃおっかなぁ～
+"035"
+"036"	{emote: Happiness}{0011-0003-0002-0000}を	つかまえてきてねぇ～{pause 20}	ボク　まってるよぉ、{pause 8}{catchphrase}
+"037"	{0011-0003-0002-0000}、{pause 20}	がんばって	つかまえてきてねぇ{Wait for input}{emote: Love}ボク{pause 20}　お{ruby (charSpan 1): そら}空にむかって	おいのりしてるよぉ～
+"038"	{emote: Glee}{Player nickname (green)}{0005-000d-0000}、{pause 8}たのんだよぉ？{Wait for input}	{Blue}チョウチョ{Color Reset}の　なかまだったら{pause 20}	なんでもいいから　つれて{ruby (charSpan 1): き}来て～
+"039"	{emote: Glee}{Player nickname (green)}{0005-000d-0000}、{pause 8}たのんだよぉ？{Wait for input}	{Blue}カブトムシ{Color Reset}の　なかまだったら{pause 20}	なんでもいいから　つれて{ruby (charSpan 1): き}来て～
+"040"	{emote: Glee}{Player nickname (green)}{0005-000d-0000}、{pause 8}たのんだよぉ？{Wait for input}	{Blue}クワガタ{Color Reset}の　なかまだったら{pause 20}	なんでもいいから　つれて{ruby (charSpan 1): き}来て～
+"041"	{emote: Glee}{Player nickname (green)}{0005-000d-0000}、{pause 8}たのんだよぉ？{Wait for input}	{Blue}セミ{Color Reset}の　なかまだったら{pause 20}	なんでもいいから　つれて{ruby (charSpan 1): き}来て～
+"042"	{emote: Glee}{Player nickname (green)}{0005-000d-0000}、{pause 8}たのんだよぉ？{Wait for input}	{Blue}トンボ{Color Reset}の　なかまだったら{pause 20}	なんでもいいから　つれて{ruby (charSpan 1): き}来て～
+"043"	{emote: Happiness}{0011-0003-0002-0000}を	つってきてほしいんだぁ{pause 40}	おねがいだよぉ～
+"044"	{emote: Anger}{0011-0003-0002-0000}をつるのは、{pause 20}	なかなか　たいへんかも	{ruby (charSpan 1): し}知れないけど、{Wait for input}{emote: Happiness}{Player nickname (green)}{0005-000d-0000}なら{pause 8}	きっと　やれるよねぇ～
+"045"	{emote: Glee}{Blue}{ruby (charSpan 1): かわ}川のおサカナ{Color Reset}だったら、	なんでも　オッケ～！{pause 20}	よろしくねぇ、{pause 8}{catchphrase}
+"046"	{emote: Glee}{Blue}{ruby (charSpan 1): うみ}海のおサカナ{Color Reset}だったら、	なんでも　オッケ～！{pause 20}	よろしくねぇ、{pause 8}{catchphrase}

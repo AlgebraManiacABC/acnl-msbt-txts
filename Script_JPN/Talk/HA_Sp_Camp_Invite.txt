@@ -1,29 +1,29 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Disbelief}
-"003"	{emote: Alarmed}
-"004"	{emote: Inspired}
-"005"	{emote: Happiness}
-"006"	{emote: Alarmed}
-"007"	{emote: Distress}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Worry}
-"011"	{emote: Worry}
-"012"	{emote: Resigned}
-"013"	{emote: Greetings}
-"014"	{emote: Anger}
-"015"	{emote: Happiness}
-"016"	{emote: Worry}
-"017"	{emote: Laughter}
-"018"	{emote: Happiness}
-"019"	{emote: Bashful}
-"020"	{emote: Distress}
-"021"	{emote: Pride}
-"022"	{emote: Sadness}
-"023"	{ruby (charSpan 2): やくそく}約束だからな{pause 8}
-"024"	{emote: Distress}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Alarmed}ナニッ？！{pause 20}	ホントに　いいのかー？！{Wait for input}{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Agreement}しょうがないなー！{pause 40}	{emote: Pride}オイラが　この{ruby (charSpan 1): むら}村の{pause 20}	ルーキーになってやるよ、{pause 8}{catchphrase}！{Wait for input}{emote: Happiness}へへっ！{pause 20}	ここを　どこにも　{ruby (charSpan 1): ま}負けない{ruby (charSpan 1): むら}村に	してやるからなっ！
+"002"	{emote: Disbelief}{0007-000b-0000}ナニッ？！{pause 20}	そんなの　ありなのかー？{Wait for input}{emote: Happiness}じゃあ、{pause 20}マジで	{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): き}来ちゃおっかな！{Wait for input}{emote: Pride}オイラは　{Villager's name (orange)}！{Wait for input}	{emote: Happiness}オマエは　{Player name}だっけ？{pause 40}	よろしくなっ！{Wait for input}{emote: Agreement}よーっし！{pause 20}	{ruby (charSpan 1): かえ}帰ったら　さっそく	{ruby (charSpan 1): に}荷づくり　{ruby (charSpan 2): かいし}開始だーっ！
+"003"	{emote: Alarmed}おー？！{pause 20}	いいのかよー？！{Wait for input}{emote: Happiness}そう{ruby (charSpan 1): い}言って　くれるヤツがいるなら、{pause 20}	オイラ　この{ruby (charSpan 1): むら}村に	{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): く}来るよ、{pause 8}{catchphrase}{Wait for input}{emote: Pride}オイラの{ruby (charSpan 2): なまえ}名前は　{Villager's name (orange)}！{Wait for input}	{emote: Thought}オマエは{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}{Player name}だっけ？{Wait for input}{emote: Sunny}へへっ！{pause 20}	これから　よろしくな！
+"004"	{emote: Inspired}{0007-000b-0000}おー！{pause 20}	それ　いいアイデアじゃん！{Wait for input}{emote: Worry}あー　{pause 20}でも{pause 40}	やっぱり　オイラ	{ruby (charSpan 1): いま}今の{ruby (charSpan 1): むら}村が　{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってるんだー{Wait for input}{emote: Happiness}ごめん！{pause 20}	さそってくれて　ありがとな！
+"005"	{emote: Happiness}それ　{ruby (charSpan 2): おもしろ}面白そうだな{Wait for input}{emote: Worry}あー{pause 20}　でも、{pause 20}	{ruby (charSpan 1): いま}今の{ruby (charSpan 1): むら}村での　トレーニングメニューは	そうかんたんには　{ruby (charSpan 1): か}変えられない{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}やっぱり　{ruby (charSpan 1): ひ}引っこすワケには	いかないや！{pause 20}	ごめんな、{pause 8}{catchphrase}
+"006"	{emote: Alarmed}マジか？！{pause 20}	すごく　いい{ruby (charSpan 1): はなし}話だなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}うーん{pause 20}　でもゴメン！{pause 20}	オイラ　もうちょっと	{ruby (charSpan 1): む}向こうの{ruby (charSpan 1): むら}村で　{ruby (charSpan 2): しゅぎょう}修行したいんだ！{Wait for input}{emote: Happiness}さそってくれて	ありがとな、{pause 8}{catchphrase}
+"007"	{emote: Distress}うーん！{pause 20}	コレは　かんたんには	{ruby (charSpan 1): き}決められないぞ！{Wait for input}{emote: Thought}{ruby (charSpan 1): なに}何か　きっかけが	あればな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Inspired}{0007-000b-0000}あ、{pause 20}そうだ！{pause 40}	ゲームで　{ruby (charSpan 1): き}決める	なんてどうだー？{Wait for input}{emote: Happiness}オマエが　{ruby (charSpan 1): か}勝ったら、	この{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): く}来る！{Wait for input}もし　オマエが{ruby (charSpan 1): ま}負けたら、	その　{Blue}{0011-0003-0002-0000}{Color Reset}を	おみやげに　もらってくぞー？{Player can respond (0005):0019-0015-000a-0028}	よしきた！	それはちょっと・・・
+"008"	{emote: Alarmed}おー！{pause 20}	{ruby (charSpan 1): う}受け{ruby (charSpan 1): い}入れてくれるのかー！{Wait for input}{emote: Thought}うーん　でも、{pause 20}	ちょっと　まよっちゃうなー{Wait for input}{emote: Glare}ここは　スポーツマンらしく、{pause 20}	{ruby (charSpan 2): しょうぶ}勝負して{ruby (charSpan 1): き}決めてみないかー？{Wait for input}{emote: Laughter}ハハッ！{pause 20}	{ruby (charSpan 2): しょうぶ}勝負って{ruby (charSpan 1): い}言ったって、	かんたんなゲームだよ！{pause 40}{emote: Soft Smile}{Wait for input}{emote: Anger}オマエが{ruby (charSpan 1): か}勝ったら、	オイラは　この{ruby (charSpan 1): むら}村に	{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): く}来る！{Wait for input}{emote: Happiness}オイラが{ruby (charSpan 1): か}勝ったら、オマエの{ruby (charSpan 1): も}持ってる	{0011-0003-0002-0000}は	もらってくぞー！{Player can respond (0005):0019-0015-000b-0028}	よしきた！	それはちょっと・・・
+"009"	{emote: Happiness}へぇー！{pause 8}　さそってくれるのかー！{pause 40}	{emote: Bashful}ま、{pause 20}オイラとしては{pause 8}	どっちでもいいかな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Inspired}そうだ！{pause 40}	ココは　{ruby (charSpan 1): うん}運を{ruby (charSpan 1): てん}天にまかせて、{pause 8}	ゲームで　{ruby (charSpan 1): き}決めないかー？{Wait for input}{emote: Agreement}オマエが{ruby (charSpan 1): か}勝ったら、	オイラは　この{ruby (charSpan 1): むら}村に	{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): く}来るよ！{Wait for input}{emote: Happiness}もし　オマエが{ruby (charSpan 1): ま}負けたら、{pause 20}	その　{0011-0003-0002-0000}を{pause 8}	おみやげに　もらうぞー！{Player can respond (0005):0019-0015-000c-0028}	よしきた！	それはちょっと・・・
+"010"	{emote: Worry}なんだよー！{pause 20}	ノリ　{ruby (charSpan 1): わる}悪いぞー
+"011"	{emote: Worry}ちぇーーっ！{pause 20}	{ruby (charSpan 2): おもしろ}面白いと　{ruby (charSpan 1): おも}思ったんだけどなー
+"012"	{emote: Resigned}なーんだ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): しょうぶ}勝負から　にげたな、{pause 8}{catchphrase}
+"013"	{emote: Greetings}ヨッシャー！{pause 20}	そしたら　{Blue}ジャンケンゲーム{Color Reset}で	{ruby (charSpan 1): き}決めようか！{0007-0012-0006-0100-001b-001a}
+"014"	{emote: Anger}よーっし！{pause 20}	そしたら、{Blue}ジェスチャーゲーム{Color Reset}で	{ruby (charSpan 2): しょうぶ}勝負だぞー！{0007-0012-0006-0101-001b-001a}
+"015"	{emote: Happiness}ノリノリだなー！{pause 20}	それじゃあ、{Blue}あっちむいてホイ！{pause 8}　{Color Reset}で	{ruby (charSpan 2): しょうぶ}勝負だー！{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Worry}オイラが　{ruby (charSpan 1): つよ}強すぎたんだ{pause 20}	あんまり　ヘコむなよー？{Wait for input}{emote: Happiness}{ruby (charSpan 2): やくそく}約束{ruby (charSpan 1): どお}通り{pause 20}　{0011-0003-0002-0000}は	もらってくけどさ、{pause 8}{catchphrase}
+"017"	{emote: Laughter}ハハッ！{pause 20}	やっぱり　オイラの{ruby (charSpan 1): か}勝ちだー！{pause 40}{emote: Soft Smile}{Wait for input}{emote: Anger}それじゃ　{ruby (charSpan 2): やくそく}約束どおり{pause 20}	{0011-0003-0002-0000}は	もらってくぞー
+"018"	{emote: Happiness}{ruby (charSpan 2): やくそく}約束は{ruby (charSpan 2): やくそく}約束だ！{pause 20}	{0011-0003-0002-0000}、	もらってくぞー
+"019"	{emote: Bashful}いいおみやげが　できたよ！{pause 20}	ありがとな、{pause 8}{catchphrase}
+"020"	{emote: Distress}{ruby (charSpan 1): べつ}別に、{ruby (charSpan 1): いえ}家に{ruby (charSpan 1): かえ}帰って{pause 20}	ニヤニヤ　{ruby (charSpan 2): みかえ}見返したりしないぞー？！{Wait for input}{emote: Reset}でも{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Bashful}いい{ruby (charSpan 1): おも}思い{ruby (charSpan 1): で}出だー
+"021"	{emote: Pride}コレは　オイラにとって{pause 20}	{ruby (charSpan 1): おも}思い{ruby (charSpan 1): で}出の　チャンピオンベルトだ！{pause 40}	{ruby (charSpan 2): だいじ}大事にするぞ、{pause 8}{catchphrase}
+"022"	{emote: Sadness}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	オイラが　{ruby (charSpan 1): ま}負けるなんて{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}しょうがないなー！{pause 20}	{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): き}来てやるよー！{Wait for input}{emote: Surprise}そういえば、{pause 20}	まだ　{ruby (charSpan 2): なまえ}名前　{ruby (charSpan 1): き}聞いてなかったな！{Wait for input}	{emote: Agreement}そっか、{pause 20}{Player name}か！{Wait for input}{emote: Sunny}よーっし、{Player name}！{pause 40}	これから　よろしくな！	{pause 8}{catchphrase}！
+"023"	{ruby (charSpan 2): やくそく}約束だからな{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}オイラ　この{ruby (charSpan 1): むら}村に	{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): く}来るよ！{Wait for input}{emote: Agreement}ゴホンッ！{pause 20}　あらためまして、{pause 20}	オイラは　{Villager's name (orange)}！{Wait for input}{emote: Reset}オマエは{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sunny}{Player name}っていうのか！{pause 20}	よろしくなっ！{Wait for input}{emote: Happiness}それじゃ、{pause 20}	{ruby (charSpan 1): かえ}帰って　じゅんびができたら	{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): く}来るからなっ！{Wait for input}{ruby (charSpan 1): ま}待っててくれー！
+"024"	{emote: Distress}くやしーーっ！{pause 20}	まさか　オイラが{ruby (charSpan 1): ま}負けるなんて！{Wait for input}{emote: Disagreement}でも、{pause 20}{ruby (charSpan 2): やくそく}約束は　ちゃんと{ruby (charSpan 1): まも}守るぞ！{pause 40}	{emote: Happiness}オイラ　この{ruby (charSpan 1): むら}村に	{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): く}来るよ！{Wait for input}{emote: Thought}そういえば、{pause 20}	オマエの{ruby (charSpan 2): なまえ}名前って{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sunny}おー！{pause 20}　{Player name}っていうのか！{pause 20}	{emote: Happiness}よろしくな！{pause 8}　{Player name}！{Wait for input}{emote: Agreement}オマエの　その{ruby (charSpan 1): つよ}強さのヒケツ、{pause 20}	{emote: Glare}{ruby (charSpan 1): ひ}引っこして{ruby (charSpan 1): き}来たら	じっくり　{ruby (charSpan 1): おし}教えてもらうぞ！　{pause 8}{catchphrase}！
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}

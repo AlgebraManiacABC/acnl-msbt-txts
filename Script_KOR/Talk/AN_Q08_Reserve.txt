@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Sunny}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Shocked}
-"006"	{emote: Sunny}
-"007"	{emote: Sunny}
-"008"	{emote: Worry}
+"001"	{emote: Sunny}좋아!{pause 40}	{emote: Reset}그럼 몇 시로 할까?{Wait for input}{emote: Agreement}난 오늘 {Blue}{0004-0010-0002-cd00}{Color Reset}{Blue}시{Color Reset} 이후면	아무 때나 괜찮아!
+"002"	{emote: Alarmed}오! 시원시원한데～!{pause 40}	{emote: Soft Smile}그럼 {pause 8}너 편한 시간이	언제인지 말해봐!	{emote: Agreement}난 오늘 {Blue}{0004-0010-0002-cd00}시 반 {Color Reset}이후면	다 괜찮아!
+"003"	{emote: Alarmed}아{pause 8}・{pause 8}・{pause 8}・{pause 20}	근데 벌써 {Hour}시잖아?!{Wait for input}{emote: Sigh}남의 집에	쳐들어갈 시간이 아니구만{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Agreement}그냥 다음에 갈란다, {pause 20}{catchphrase}
+"004"	{emote: Alarmed}뭐야{pause 8}・{pause 8}・{pause 8}・{pause 8} {pause 20}그만두게?{pause 10}	무슨 선약이라도 있어?{Wait for input}{emote: Agreement}그럼 어쩔 수 없지	다음에 불러줘!{pause 20}	{catchphrase}!
+"005"	{emote: Shocked}뭐?!{pause 10}	그렇게 빨리?!{Wait for input}{emote: Distress}나도{pause 8}・{pause 8}・{pause 8}・{pause 20}	준비할 시간이 있어야 할 거 아냐!{pause 20}	좀 더 뒤로 잡아봐!{pause 40}{emote: Worry}
+"006"	{emote: Sunny}오케이!{pause 40}	{emote: Reset}그럼 {Blue}{Blue}{0005-0019-0002-cd01} {Blue}{0004-0010-0002-cd01}시	{Color Reset}정각에 맞춰서 갈게! {pause 20}{catchphrase}!
+"007"	{emote: Sunny}좋아ー!{pause 40}	{emote: Soft Smile}그럼 {Blue}{0005-0019-0002-cd01} {0004-0010-0002-cd01}시 {0004-0011-0002-cd02}분{Color Reset}에	들러볼게! {pause 20}{catchphrase}!
+"008"	{emote: Worry}윽{pause 8}・{pause 8}・{pause 8}・{pause 40}	왜 하필{pause 5} 그런 시간에?!{Wait for input}{emote: Reset}좀 이른 시간으로 하는 게{pause 5}	좋지 않겠냐? {pause 8}{catchphrase}?

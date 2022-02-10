@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Greetings}
-"003"	{emote: Greetings}
-"004"	{emote: Greetings}
-"005"	{emote: Greetings}
-"006"	{emote: Happiness}
-"007"	{emote: Glare}
-"008"	{emote: Greetings}
-"009"	{emote: Greetings}
+"001"	{emote: Happiness}よぉ！{pause 20}	また　{ruby (charSpan 1): あ}会ったな、{pause 8}{catchphrase}
+"002"	{emote: Greetings}おはよー{pause 8}　{Player nickname (green)}！{pause 20}	いい{ruby (charSpan 1): あさ}朝だな、{pause 8}{catchphrase}
+"003"	{emote: Greetings}{Greeting begin}よぉ！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 40}	{emote: Happiness}{ruby (charSpan 2): あいか}相変わらず	{ruby (charSpan 2): げんき}元気　{ruby (charSpan 2): まるだ}丸出しだな、{pause 8}{catchphrase}！
+"004"	{emote: Greetings}{Greeting begin}オーッス！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	いいアセかいてるか？　{pause 8}{catchphrase}？
+"005"	{emote: Greetings}オーッス！{pause 20}	また　{ruby (charSpan 1): あ}会ったな、{pause 8}{catchphrase}！
+"006"	{emote: Happiness}{Greeting begin}よぉ！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	ちゃんと　メシ{ruby (charSpan 1): く}食ったか？　{pause 8}{catchphrase}？
+"007"	{emote: Glare}オマエ{pause 20}　まだねなくて	だいじょうぶかー？{pause 40}	{ruby (charSpan 1): そら}空は{ruby (charSpan 1): あか}明るいけど　もう{ruby (charSpan 1): よる}夜だぞ、{pause 8}{catchphrase}
+"008"	{emote: Greetings}おー！{pause 20}	また{ruby (charSpan 1): あ}会ったな！{Wait for input}{emote: Laughter}もう　{ruby (charSpan 1): よる}夜だけど、{pause 20}	こう{ruby (charSpan 1): あか}明るいと　ねるのが	もったいないよな、{pause 8}{catchphrase}！{pause 20}{emote: Happiness}
+"009"	{emote: Greetings}よぉ！{pause 20}	また　{ruby (charSpan 1): あ}会ったな、{pause 8}{catchphrase}

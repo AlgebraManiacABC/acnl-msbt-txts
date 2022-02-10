@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Worry}
-"003"	{Player nickname (green)}
-"004"	{emote: Sheepishness}
-"005"	{emote: Sheepishness}
+"001"	{emote: Alarmed}あら、{pause 16}{Player nickname (green)}{0005-000d-0000}{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Reset}いつもと　{ruby (charSpan 3): ふんいき}雰囲気が{ruby (charSpan 1): ちが}違うと{ruby (charSpan 1): おも}思ったら{pause 16}　	お{ruby (charSpan 3): しごとちゅう}仕事中だったのね	{emote: Love}{pause 16}{ruby (charSpan 2): しごと}仕事に{ruby (charSpan 1): う}打ち{ruby (charSpan 1): こ}込んでる{ruby (charSpan 1): ひと}人って{pause 5}	とっても　ステキ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Soft Smile}その{ruby (charSpan 2): ちょうし}調子で　この{ruby (charSpan 1): むら}村を{pause 16}	どんどん　{ruby (charSpan 1): よ}良くしていってね{pause 32}	{emote: Glare}{Player name}{ruby (charSpan 2): そんちょう}村長！
+"002"	{emote: Worry}いいの？　{pause 16}{Player nickname (green)}{0005-000d-0000}？{pause 32}	お{ruby (charSpan 3): しごとちゅう}仕事中に　おしゃべりして{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}まあ　アタシは{pause 16}	{ruby (charSpan 2): ぜんぜん}全然　{ruby (charSpan 1): かま}構わないけど{000a-0001-0004-0004-0005}
+"003"	{Player nickname (green)}{0005-000d-0000}、{pause 20}	{ruby (charSpan 2): いったい}一体　どんな{ruby (charSpan 4): こうきょうじぎょう}公共事業を{pause 5}	{emote: Curious}{ruby (charSpan 1): はじ}始めようと　しているの？	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あっ、{pause 10}{ruby (charSpan 1): べつ}別にいいのよ{pause 15}	{ruby (charSpan 1): いま}今　{ruby (charSpan 1): おし}教えてくれなくっても{Wait for input}{emote: Happiness}{ruby (charSpan 2): かんせい}完成したときの　{ruby (charSpan 1): たの}楽しみに{pause 8}	とっておくわ、{pause 8}{catchphrase}
+"004"	{emote: Sheepishness}そこにいる　{Orange}しずちゃん{Color Reset}が{pause 16}	ヤキモチ　やくんじゃないかしら？	{pause 8}{catchphrase}？
+"005"	{emote: Sheepishness}あんまり　{Orange}しずちゃん{Color Reset}を{pause 16}	{ruby (charSpan 1): こま}困らせちゃダメよ、{pause 8}{catchphrase}

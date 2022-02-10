@@ -1,12 +1,12 @@
 == 0 ==
-"001"	ヤッホー！{pause 20}
-"002"	{Player nickname (green)}
-"003"	ねぇねぇ！{pause 20}
-"004"	{Player nickname (green)}
-"005"	ね～、{pause 20}
-"006"	ちょっと～！{pause 20}!
-"007"	な～んだ　{pause 10}
-"008"	{emote: Happiness}
-"009"	{emote: Glee}
-"010"	{emote: Happiness}
-"011"	{emote: Alarmed}
+"001"	ヤッホー！{pause 20}	{Villager's name (orange)}だよ～！{0007-0008-0004-0096-0000}
+"002"	{Player nickname (green)}{0005-000d-0000}！{pause 20}	{Villager's name (orange)}が　{pause 5}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たよ～{0007-0008-0004-0096-0000}
+"003"	ねぇねぇ！{pause 20}　{Villager's name (orange)}だよ～{pause 25}	{ruby (charSpan 2): やくそく}約束の{ruby (charSpan 2): じかん}時間でしょ？{0007-0008-0004-0096-0000}
+"004"	{Player nickname (green)}{0005-000d-0000}～！{pause 20}	どうしたの？{pause 30}	{Villager's name (orange)}だよ、{pause 20}{ruby (charSpan 1): あそ}遊ぼうよ！{0007-0008-0004-0096-0000}
+"005"	ね～、{pause 20}{Player nickname (green)}{0005-000d-0000}！{pause 30}	{ruby (charSpan 1): い}居ないの～？！{0007-0008-0004-0096-0000}
+"006"	ちょっと～！{pause 20}	{ruby (charSpan 1): はや}早く{ruby (charSpan 1): で}出てきて！{pause 25}	いっしょに　{ruby (charSpan 1): あそ}遊ぼうよ～！！{0007-0008-0004-0096-0000}
+"007"	な～んだ　{pause 10}{ruby (charSpan 2): るす}留守みたい{pause 8}・{pause 8}・{pause 8}・{pause 8}	じゃあ、{pause 10}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): かえ}帰るからね～{0007-0008-0004-0096-0000}
+"008"	{emote: Happiness}おじゃましま～す！
+"009"	{emote: Glee}よ～し{pause 10}	{pause 10}{ruby (charSpan 1): はい}入っちゃうよ、{pause 10}{catchphrase}
+"010"	{emote: Happiness}じゃあ　{pause 10}いいかな？{pause 20}	おじゃましますっ、{pause 10}{catchphrase}！
+"011"	{emote: Alarmed}キャ！{pause 20}　ヤダー！！{pause 30}	{emote: Shocked}ゴキブリがいるじゃ～ん！{Wait for input}{emote: Distress}アタイ、{pause 10}こういうのムリなんだよ～{pause 20}	{ruby (charSpan 1): わる}悪いけど　{pause 8}{ruby (charSpan 1): かえ}帰らせてもらうね！

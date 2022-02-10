@@ -1,17 +1,17 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Glee}
-"003"	{emote: Worry}
-"004"	{emote: Happiness}
-"005"	キミのプレゼントのアイデア{pause 20}
-"006"	{emote: Happiness}
-"007"	{emote: Thought}
-"008"	{emote: Alarmed}
-"009"	{emote: Love}
-"010"	{emote: Glee}
-"011"	{0004-000e-0002-00-ffffffcd}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日　うまれかぁ～{pause 40}
-"012"	{emote: Alarmed}
-"013"	{emote: Delight}
-"014"	{emote: Anger}
-"015"	{emote: Glee}
-"016"	{emote: Happiness}
+"001"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}、{pause 20}	{ruby (charSpan 2): きょう}今日は　なんだか	オトナっぽいねぇ{Wait for input}{emote: Inspired}そっかぁ～{pause 40}	きのうより	1{ruby (charSpan 1): さい}才も{ruby (charSpan 2): としうえ}年上だもんねぇ
+"002"	{emote: Glee}{Player nickname (green)}{0005-000d-0000}	おたんじょう{ruby (charSpan 1): び}日	おめでとぉ、{pause 8}{catchphrase}
+"003"	{emote: Worry}あのケーキって、{pause 20}	やっぱり　おたんじょう{ruby (charSpan 1): び}日のコしか	{ruby (charSpan 1): た}食べちゃいけないのかなぁ～？
+"004"	{emote: Happiness}おたんじょう{ruby (charSpan 1): び}日の	かざりつけって{pause 20}	ボク　{ruby (charSpan 1): だい}大すきだよぉ～{Wait for input}{emote: Love}ハデハデなのに、{pause 20}	ちょっぴり{ruby (charSpan 1): せつ}切ないんだ
+"005"	キミのプレゼントのアイデア{pause 20}	ボクも　{ruby (charSpan 1): だ}出したんだよぉ？{Wait for input}{emote: Greetings}{0005-0013-0002-0000}を{ruby (charSpan 3): いちねんぶん}一年分！{Wait for input}{emote: Worry}でも　{ruby (charSpan 1): た}食べきる{ruby (charSpan 1): まえ}前に	くさるからって、{pause 20}	みんなに　{ruby (charSpan 1): と}止められたんだぁ{pause 8}・{pause 8}・{pause 8}・
+"006"	{emote: Happiness}ボクとキミって{pause 20}	じつは　おたんじょう{ruby (charSpan 1): び}日が	いっしょなんだよぉ～{Wait for input}{emote: Glee}キミとボクって{pause 20}	うんのいい{ruby (charSpan 1): ひ}日も　わるい{ruby (charSpan 1): ひ}日も{pause 20}	いつも　いっしょなんだねぇ！
+"007"	{emote: Thought}キミと　ボクは、{pause 20}	おたんじょう{ruby (charSpan 1): び}日　{ruby (charSpan 1): おな}同じかぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Anger}{Player nickname (green)}{0005-000d-0000}、{pause 20}	ボクの　おたんじょう{ruby (charSpan 1): び}日を	マネっこしたんでしょぉ？！{Wait for input}{emote: Bashful}もぉ～{pause 8}・{pause 8}・{pause 8}・{pause 40}	キミなら　トクベツに	ゆるしてあげるよぉ、{pause 8}{catchphrase}
+"008"	{emote: Alarmed}キミって{pause 20}	お{ruby (charSpan 2): しょうがつ}正月に{ruby (charSpan 1): う}生まれたんだねぇ～{Wait for input}{emote: Glee}あけまして　おめでとう！{pause 20}	おたんじょう{ruby (charSpan 1): び}日　おめでとう！{pause 40}	ダブルで　おめでとうだねぇ～
+"009"	{emote: Love}2{ruby (charSpan 1): がつ}月29{ruby (charSpan 1): にち}日に　うまれたなんて{pause 20}	すっごく　かっこいいなぁ～{Wait for input}{emote: Happiness}おたんじょう{ruby (charSpan 1): び}日が　{ruby (charSpan 2): よねん}四年に{ruby (charSpan 2): いっかい}一回なんて、{pause 20}	すっごく　レアだもんねぇ{Wait for input}{emote: Worry}{ruby (charSpan 2): ことし}今年は　29{ruby (charSpan 1): にち}日じゃないけど{pause 20}	がまんしてねぇ、{pause 8}{catchphrase}
+"010"	{emote: Glee}2{ruby (charSpan 1): がつ}月29{ruby (charSpan 1): にち}日{ruby (charSpan 1): う}生まれの	{Player nickname (green)}{0005-000d-0000}には{pause 20}	{ruby (charSpan 2): きょう}今日は　とくべつな{ruby (charSpan 1): ひ}日だねぇ～{Wait for input}{emote: Happiness}なんたって{pause 20}　{ruby (charSpan 2): よねん}四年に{ruby (charSpan 2): いっかい}一回の	おたんじょう{ruby (charSpan 1): び}日だもん！{Wait for input}{emote: Sorrow}なんだか　ボク{pause 20}	カンドウしちゃったぁ、{pause 8}{catchphrase}
+"011"	{0004-000e-0002-cd00}{ruby (charSpan 1): がつ}月{Date-cd00}{ruby (charSpan 1): にち}日　うまれかぁ～{pause 40}	これなら　ボクでも	わすれないよぉ！{Wait for input}{emote: Happiness}おぼえやすい{ruby (charSpan 1): ひ}日に	{ruby (charSpan 1): う}生まれてきてくれて{pause 20}	ありがとぉ{pause 20}　{Player nickname (green)}{0005-000d-0000}
+"012"	{emote: Alarmed}{Player nickname (green)}{0005-000d-0000}って{pause 20}	クリスマスイブが	おたんじょう{ruby (charSpan 1): び}日なんだぁ～{Wait for input}{emote: Glee}なんだか　{ruby (charSpan 2): むらじゅう}村中が{pause 20}	{Player nickname (green)}{0005-000d-0000}を	おいわいしてる　みたいだねぇ～
+"013"	{emote: Delight}キミって{pause 20}　クリスマスが	おたんじょう{ruby (charSpan 1): び}日なんだぁ{pause 20}	すごぉ～い！{pause 40}{emote: Soft Smile}{Wait for input}{emote: Glee}{ruby (charSpan 1): あさ}朝おきたら{pause 20}	くつ{ruby (charSpan 1): した}下の{ruby (charSpan 1): なか}中に　2つプレゼントが	{ruby (charSpan 1): はい}入ってるのかなぁ～？{Wait for input}うらやましいよぉ～
+"014"	{emote: Anger}さぁ、{Player nickname (green)}{0005-000d-0000}！{pause 20}	いきを　いっぱいすいこんでぇ～{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}ローソクが	ケーキの{ruby (charSpan 1): うえ}上でまってるよぉ
+"015"	{emote: Glee}{ruby (charSpan 1): はや}早く　ローソクにむかって{pause 20}	フゥ～っと{pause 8}　やってみよぉ～
+"016"	{emote: Happiness}ケーキのローソク、{pause 20}	いっぺんに　ふきけせたら	きっと　いいことがあるよぉ～？

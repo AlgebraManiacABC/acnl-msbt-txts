@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Happiness}
-"003"	{emote: Disbelief}
-"004"	{emote: Joy}
-"005"	{emote: Glee}
-"006"	{emote: Sadness}
-"007"	{emote: Happiness}
-"008"	{emote: Sigh}
-"009"	{emote: Shocked}
-"010"	{emote: Surprise}
-"011"	{emote: Worry}
-"012"	{emote: Laughter}
+"001"	{emote: Alarmed}앗, {pause 20}벌써 가는구나아～{pause 40}	{emote: Happiness}마지막으로 우리 집이 어땠는지	점수를 매겨줄래?{Wait for input}자아～!{pause 20}	우리 집은 몇 점～?{000f-0001-0006-0000-0000-0000}	100점!	50점	10점
+"002"	{emote: Happiness}어라아?{pause 20} 벌써 가는 거야아?{pause 40}	그럼 마지막으로{pause 20}	{emote: Greetings}질문 하나 할게에～!{pause 40}	{emote: Anger}우리 집 말야아{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Curious}어땠어～?{000f-0001-0006-0000-0000-0000}	최고야	평범하더라	조금 부족해
+"003"	{emote: Disbelief}{0007-000b-0000}에엥～?!{pause 20} 벌써 가는 거야?!{pause 40}	{emote: Glare}지금부터 제대로	대접할까 했더니～{Wait for input}{emote: Inspired}{0007-000b-0000}아! 그렇지!{pause 20}	가기 전에 하나만 물어봐도 될까아?{Wait for input}	{emote: Reset}우리 집{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Curious} 어땠어?{000f-0001-0006-0000-0000-0000}	최고!	그냥 그랬어	별로야
+"004"	{emote: Joy}와아～!{pause 20}	역시 {Player nickname (green)}{000e-000e-0008-0002-c740-0002-b294}	뭘 좀 안다니까아～{Wait for input}너랑 나는	취향이 참 잘 맞아, {pause 8}{catchphrase}
+"005"	{emote: Glee}에헤헤～ 고마워어!{pause 20}	나쁘진 않다는 말이지?{pause 40}	다행이다아, {pause 8}{catchphrase}
+"006"	{emote: Sadness}그래{pause 8}・{pause 8}・{pause 8}・?{pause 40}	좀 더 멋진 집을 만들도록	노력해야겠다아, {pause 8}{catchphrase}
+"007"	{emote: Happiness}에헤헤～{pause 20}	칭찬해줘서 고마워어～{pause 40}	나 좀 자신감이 생겼어!{Wait for input}{emote: Pride}해피홈 아카데미의 평가가{pause 20}	기대되는데, {pause 8}{catchphrase}?!
+"008"	{emote: Sigh}그렇구나아{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Disagreement}근데 그건{pause 20}	쪼금 아쉽다는 말이지?{Wait for input}{emote: Anger}좋았어～!{pause 20}	더 열심히 해서	다음엔 너한테 인정받을 거야아～
+"009"	{emote: Shocked}그, {pause 20}그렇게 별로야{pause 8}・{pause 8}・{pause 8}・?{Wait for input}{emote: Glare}뭐어, 내 취향이 	조금 별나긴 하지!{Wait for input}{emote: Laughter}난 이걸로 기죽지 않아!	오히려 {pause 20}칭찬으로 생각할게에～{pause 40}{emote: Soft Smile}
+"010"	{emote: Surprise}정마알～?!{pause 20}	{emote: Reset}솔직히 자신이 없었는데{pause 20}	{emote: Soft Smile}칭찬해주니까 너무 기쁘다아～{Wait for input}넌 정말 착해～{pause 20}	고마워어～ {pause 8}{catchphrase}
+"011"	{emote: Worry}그래～?{pause 20}	나쁘지 않았구나아～{Wait for input}{emote: Happiness}그래도{pause 20} 너가 조금이나마	우리 집에서 즐거웠다니	다행이다아, {pause 8}{catchphrase}
+"012"	{emote: Laughter}에헤헤～{pause 20}	니가 그렇게까지 심하게 말하니까	오히려 웃음만 나와아, {pause 8}{catchphrase}{pause 40}{emote: Soft Smile}

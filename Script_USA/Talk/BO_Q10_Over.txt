@@ -1,15 +1,15 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Disbelief}
-"003"	{emote: Disbelief}
-"004"	{pause 8}
+"001"	{emote: Distress}No!{pause 20} You found me!
+"002"	{emote: Disbelief}{0007-000b-0000}AUGH!{pause 20} You found me!
+"003"	{emote: Disbelief}{0007-000b-0000}Hey!{pause 20} I guess I'm caught!{pause 20} {emote: Distress}I can't	believe you found a hide-and-seek	master like myself!
+"004"	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Happiness}But you still lose.{pause 20} 'Cause your time	already ran out!{Wait for input} Too bad,{pause 8}	{catchphrase}.
 == 1 ==
-"001"	{emote: Distress}
-"002"	{emote: Disbelief}
-"003"	{emote: Disbelief}
-"004"	Ay{pause 8}
+"001"	{emote: Distress}¡No!{pause 20} ¡Me has encontrado!
+"002"	{emote: Disbelief}{0007-000b-0000}¡AAAJ!{pause 20} ¡Me has encontrado!
+"003"	{emote: Disbelief}{0007-000b-0000}¡Eh!{pause 20} ¡Supongo que me has pillado!{pause 20} {emote: Distress}	¡No puedo creer que hayas vencido	a un experto del escondite como yo!
+"004"	Ay{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Happiness} Pero has perdido de todas	formas,{pause 20} ¡porque se ha acabado el	tiempo!{Wait for input} Qué pena,{pause 8} {catchphrase}.
 == 2 ==
-"001"	{emote: Distress}
-"002"	{emote: Disbelief}
-"003"	{emote: Disbelief}
-"004"	{pause 8}
+"001"	{emote: Distress}Oh, non!{pause 20} Tu m'as trouvé!
+"002"	{emote: Disbelief}{0007-000b-0000}AH! ZUT!{pause 20} Tu m'as eu!
+"003"	{emote: Disbelief}{0007-000b-0000}Ah!{pause 20} J'ai perdu, alors...{pause 20} {emote: Distress}Mais je suis	un pro à cache-cache! Comment tu	as fait pour me trouver?!
+"004"	{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Happiness} OK, tu m'as eu. Mais tu perds	quand même.{pause 20} Tu as été trop {long/longue}.{Wait for input}	Pas de chance,{pause 8} {catchphrase}.

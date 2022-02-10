@@ -1,11 +1,11 @@
 == 0 ==
-"001"	
-"002"	{0009-0002-0008-05-00-06-00-07-00-08-00}
-"003"	{0009-0000-0004-09-00-00-00}	
-"004"	
-"005"	{emote: Happiness}
-"006"	{emote: Worry}
-"007"	{emote: Curious}
-"008"	{emote: Happiness}
-"009"	{emote: Soft Smile}
-"010"	기념품을{emote: Curious}
+"001"
+"002"	{0009-0002-0008-0005-0006-0007-0008}
+"003"	{0009-0000-0004-0009-000a}
+"004"
+"005"	{emote: Happiness}여기 말고 위층에도{pause 10}	물건이 아주 많답니다～!{Wait for input}{emote: Glee}여기만 보고 결정하기엔	정말 아까워요, {pause 15}{catchphrase}
+"006"	{emote: Worry}요즘 전 사고 싶은 게 너무 많아요!{Wait for input}	{emote: Distress}제가{pause 10} 욕심이 과한 걸까요?!
+"007"	{emote: Curious}위층에도 가보셨나요?{Wait for input}	{emote: Happiness}진열된 물건이 많아서{pause 10}	눈이 핑핑 돌 지경이랍니다, {pause 15}{catchphrase}
+"008"	{emote: Happiness}뭘 살지 고민될 때는{pause 10}	저랑 의논하세요!{Wait for input}{emote: Reset}자신 있게 말은 했지만{pause 10}	{emote: Soft Smile}사실 저도{pause 5} 쉽게	결정을 못 내리는 타입이에요
+"009"	{emote: Soft Smile}{Player nickname (green)}님은{pause 10}	남다른 쇼핑 기술이	있으실 것 같아요{Wait for input}{emote: Glee}위층도 꼭{pause 10} 구경하러 가보세요
+"010"	기념품을{emote: Curious} 찾으시는 중인가요?{Wait for input}	{emote: Happiness}2층도 있으니까{pause 20} 잘 둘러보시고{pause 5}	멋진 물건을 찾아보세요{emote: Sunny}

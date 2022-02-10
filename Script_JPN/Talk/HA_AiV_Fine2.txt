@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Happiness}
-"003"	{emote: Surprise}
-"004"	{emote: Star Yell}
-"005"	{emote: Greetings}
+"001"	{emote: Greetings}{Greeting begin}よぉ！{pause 8}　{Player name}！{Greeting end}{pause 40}	オマエ　もう　{Town name (pink)}{ruby (charSpan 1): むら}村の{ruby (charSpan 2): じゅうにん}住人	みたいだなー、{pause 8}{catchphrase}
+"002"	{emote: Happiness}おー！{pause 8}　{Player name}！{pause 40}	オマエ{pause 20}　オイラより	{ruby (charSpan 1): むら}村に　なじんでないか？　{pause 8}{catchphrase}？
+"003"	{emote: Surprise}あ！{pause 8}　{Player name}じゃん！{pause 40}	{emote: Soft Smile}{Town name (pink)}{ruby (charSpan 1): むら}村が	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入っちゃったか？　{pause 8}{catchphrase}？
+"004"	{emote: Star Yell}{pause 15}ヤッ{0007-000b-0000}ホーーーッ！{pause 20}　{Player name}！{pause 20}{emote: Soft Smile}{pause 40}	{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}オイー{pause 20}　そこはオマエも	ヤッホー{pause 20}だろー？{pause 40}	この{ruby (charSpan 1): むら}村じゃ　キホンだぞ、{pause 8}{catchphrase}
+"005"	{emote: Greetings}オーッス！{pause 8}　{Player name}！{pause 20}	また　{ruby (charSpan 1): あ}会ったな、{pause 8}{catchphrase}

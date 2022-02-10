@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Happiness}
-"003"	{emote: Alarmed}
+"001"	{emote: Alarmed}おっ！{pause 40}	{emote: Happiness}{ruby (charSpan 1): はなし}話が{ruby (charSpan 1): はえ}早ぇな、おい！{Wait for input}	じゃ、さっそく{ruby (charSpan 1): い}行こうぜー！
+"002"	{emote: Happiness}よーし、{ruby (charSpan 1): き}決まった！{pause 40}	じゃあ　{ruby (charSpan 1): い}行こうぜ！{pause 20}　{catchphrase}！
+"003"	{emote: Alarmed}おっ、{ruby (charSpan 1): く}来るかい？！{pause 40}	{emote: Happiness}じゃあ、さっそく{ruby (charSpan 2): しゅっぱつ}出発だ！

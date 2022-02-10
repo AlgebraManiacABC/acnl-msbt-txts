@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Star Yell}
-"002"	{emote: Greetings}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{000a-000b-0006-10-0b-00-0a-00-ffffffcd}
-"006"	{000a-000b-0006-10-0b-00-0a-00-ffffffcd}
-"007"	{0009-0003-000a-0f-00-10-00-11-00-12-00-13-00}
-"008"	{0009-0003-000a-0f-00-10-00-11-00-12-00-13-00}
-"009"	
-"010"	{0009-0001-0006-15-00-16-00-17-00}
-"011"	{0009-0001-0006-18-00-19-00-1a-00}
-"014"	
-"015"	{emote: Happiness}
-"016"	{emote: Greetings}
-"017"	{emote: Happiness}
-"018"	{emote: Greetings}
-"019"	{emote: Happiness}
-"020"	
-"021"	{emote: Soft Smile}
-"022"	{emote: Greetings}
-"023"	{emote: Worry}
-"024"	{emote: Greetings}
-"025"	{emote: Happiness}
-"026"	{emote: Happiness}
+"001"	{emote: Star Yell}{pause 15}オー{0007-000b-0000}ーーッス！{pause 20}{emote: Soft Smile}{pause 40}	へへっ！{pause 20}	{ruby (charSpan 1): あめ}雨でも　{ruby (charSpan 2): げんき}元気にあいさつだ、{pause 8}{catchphrase}！
+"002"	{emote: Greetings}{Greeting begin}おー！　{Player nickname (green)}！{Greeting end}{pause 40}	{emote: Happiness}{ruby (charSpan 1): あめ}雨だからって　{ruby (charSpan 1): お}落ちこむな！{pause 20}	{ruby (charSpan 1): あか}明るく　いくぞー！　{pause 8}{catchphrase}！
+"003"	{emote: Happiness}{ruby (charSpan 2): きょう}今日も{ruby (charSpan 1): お}終わりだな、{Player nickname (green)}！{pause 20}	{ruby (charSpan 2): あした}明日はきっと　{ruby (charSpan 1): は}晴れるよな	{pause 8}{catchphrase}！
+"004"	{emote: Happiness}{Greeting begin}よぉー！　{Player nickname (green)}！{Greeting end}{pause 20}	ねむれないから　ジョギングか！{pause 40}	カゼひくなよー？　{pause 8}{catchphrase}？
+"005"	{000a-000b-0006-0b10-0a00-cd00}
+"006"	{000a-000b-0006-0b10-0a00-cd00}
+"007"	{0009-0003-000a-000f-0010-0011-0012-0013}
+"008"	{0009-0003-000a-000f-0010-0011-0012-0013}
+"009"
+"010"	{0009-0001-0006-0015-0016-0017}
+"011"	{0009-0001-0006-0018-0019-001a}
+"014"
+"015"	{emote: Happiness}よぉ！{pause 8}　{Player nickname (green)}！{pause 20}	この{ruby (charSpan 1): あめ}雨、{pause 20}シャワーみたいで	{ruby (charSpan 2): きも}気持ちいいな、{pause 8}{catchphrase}！
+"016"	{emote: Greetings}よぉ！{pause 8}　{Player nickname (green)}！{pause 20}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): たいよう}太陽が{ruby (charSpan 1): で}出てないから、{Wait for input}{emote: Sunny}オイラの{ruby (charSpan 2): えがお}笑顔で	ガマンしてくれ、{pause 8}{catchphrase}！
+"017"	{emote: Happiness}{Greeting begin}おー！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日も　はりきってるな、{pause 8}{catchphrase}！
+"018"	{emote: Greetings}{Greeting begin}よぉ！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	{ruby (charSpan 2): ちょうし}調子はどうだー？　{pause 8}{catchphrase}？
+"019"	{emote: Happiness}{Greeting begin}おー！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	どろ{ruby (charSpan 1): あそ}遊びするなら	{ruby (charSpan 1): つ}付き{ruby (charSpan 1): あ}合うぞー、{pause 8}{catchphrase}！
+"020"
+"021"	{emote: Soft Smile}こういう{ruby (charSpan 2): てんき}天気の{ruby (charSpan 1): ひ}日は、{pause 20}	スカッとした{ruby (charSpan 2): たいよう}太陽が	こいしくなるなー、{pause 8}{catchphrase}！
+"022"	{emote: Greetings}{Greeting begin}よぉ！{pause 8}　{Player nickname (green)}！{Greeting end}{Wait for input}{emote: Happiness}{ruby (charSpan 1): あめ}雨は　{ruby (charSpan 1): あめ}雨なりに　{ruby (charSpan 1): たの}楽しむぞー{pause 40}	{ruby (charSpan 2): へや}部屋の{ruby (charSpan 1): なか}中で　キントレとか	オススメだ、{pause 8}{catchphrase}！
+"023"	{emote: Worry}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	いつの{ruby (charSpan 1): ま}間にか{pause 20}　{ruby (charSpan 1): あめ}雨で{ruby (charSpan 2): ぜんしん}全身	ビチョビチョだよ、{pause 8}{catchphrase}{Wait for input}{emote: Reset}こういうときは　{ruby (charSpan 1): はや}早く{ruby (charSpan 1): き}着がえないとな！{pause 20}	{emote: Sneezing}ハーッ{pause 8}{0007-000b-0000}クション！
+"024"	{emote: Greetings}ヨッシャー！{pause 20}	{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日は　わくわくするなー{pause 40}	オイラの{ruby (charSpan 1): ち}血がさわぐんだ、{pause 8}{catchphrase}
+"025"	{emote: Happiness}{Greeting begin}よぉ！{pause 8}　{Player nickname (green)}！{Greeting end}{pause 20}	オマエも　{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日	{ruby (charSpan 1): たの}楽しんでるかー？　{pause 8}{catchphrase}？
+"026"	{emote: Happiness}おー！{pause 8}　{Player nickname (green)}！{Wait for input}	{emote: Disagreement}かさなんて　オイラには　いらない！{pause 40}	{emote: Sunny}{ruby (charSpan 1): あめ}雨にぬれて　{ruby (charSpan 1): おとこ}男をみがくんだ、{pause 8}{catchphrase}！

@@ -1,32 +1,32 @@
 == 0 ==
-"001"	{emote: Sunny}
-"002"	{emote: Sunny}
-"003"	{0009-0003-000a-1b-00-1c-00-1d-00-1e-00-1f-00}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Worry}
-"007"	{emote: Curious}
-"008"	{0009-0003-000a-09-00-0a-00-0f-00-15-00-19-00}
-"009"	{emote: Agreement}
-"010"	{000a-0010-0008-0b-00-0c-00-0d-00-0e-00}
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{emote: Agreement}
-"014"	{emote: Agreement}
-"015"	{000a-0008-0010-10-00-10-00-11-00-12-00-12-00-13-00-13-00-14-00}
-"016"	{emote: Alarmed}
-"017"	{emote: Soft Smile}
-"018"	{emote: Alarmed}
-"019"	{emote: Happiness}
-"020"	{emote: Agreement}
-"021"	{emote: Soft Smile}
-"022"	{emote: Sheepishness}
-"023"	{emote: Alarmed}
-"024"	{emote: Soft Smile}
-"025"	{emote: Reset}
-"026"	
-"027"	{emote: Agreement}
-"028"	{emote: Alarmed}
-"029"	{emote: Distress}
-"030"	{emote: Agreement}
-"031"	{emote: Distress}
+"001"	{emote: Sunny}우와～ 아침부터 날씨 죽이네!{pause 40}	{emote: Reset}밤까지 이렇게 좋으려나?{Wait for input}{emote: Agreement}오늘 밤엔 유성도 볼 수 있다고	일기예보에서 그랬으니까{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}엄청 기대되는걸! {pause 20}{catchphrase}!
+"002"	{emote: Sunny}야{pause 8}・{pause 8}・{pause 8}・{pause 8} 좀 봐봐～{pause 40}	{emote: Reset}오늘 하늘이{pause 8}・{pause 8}・{pause 8}・{pause 20}	구름 한 점 없이 맑지 않냐?	{emote: Agreement}이런 날에는 밤이 되면	별이 쏟아지는 걸 볼 수 있대!	{pause 20}{catchphrase}!
+"003"	{0009-0003-000a-001b-001c-001d-001e-001f}
+"004"	{emote: Alarmed}그보다 {Player nickname (green)}!{pause 20}	너도 봤냐? {pause 40}{emote: Soft Smile}무지개!{Wait for input}{emote: Agreement}오랫동안 비가 오고 나면	하늘이 보여주는 선물이래{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}정말 예쁘지! {pause 20}{catchphrase}!
+"005"	{emote: Alarmed}야!{pause 20}	너도 봤냐? 무지개?{Wait for input}{emote: Inspired}뭔가 대단하다 했더니	2개가 걸려 있더라고!{pause 40}	{emote: Glee}그런 걸 보게 되다니 운도 좋지ー!
+"006"	{emote: Worry}하아{pause 8}・{pause 8}・{pause 8}・{pause 20}	진짜 해도 너무 하네! 이렇게 춥다니	{emote: Reset}그래도 오늘은 그게 보일지도 모르겠다	{emote: Soft Smile}오로라말야! 오로라!{pause 20}	일명 하늘의 커튼!{Wait for input}{emote: Agreement}그게 실제로 보면 대단하거든!{pause 20}	처음 봤을 때는 깜짝 놀라서	정신을 잃을 뻔했다니까! {pause 20}{catchphrase}!
+"007"	{emote: Curious}근데 너{pause 8}・{pause 8}・{pause 8}・{pause 8}	오로라가 어떻게 생기는지는 아냐?{Wait for input}{emote: Agreement}내가 생각할 땐 그거 같아{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Glare}하늘에 있는 신의 기운!{Wait for input}{emote: Glee}기운이 넘친 나머지	하늘을 덮어 버리는 거지!{pause 40}	{catchphrase}!
+"008"	{0009-0003-000a-0009-000a-000f-0015-0019}
+"009"	{emote: Agreement}지난번에{pause 10}	태풍을 부르는 {0005-001f-0002-cd00}{000e-000e-000e-0006-c774-b77c-b294-0004-b77c-b294}	책을 읽었거든!	{emote: Love}하아～ 정말 멋있더라!{pause 40}	나도 언젠가 그렇게 될 수 있을까?{Wait for input}{emote: Sheepishness}뭐{pause 8}・{pause 8}・{pause 8}・{pause 20} 이 마을에	그 정도로 대단한 태풍이	올 리는 없겠지만 말야! {pause 20}{catchphrase}!{pause 40}{emote: Reset}
+"010"	{000a-0010-0008-000b-000c-000d-000e}
+"011"	{emote: Agreement}날씨가 이럴 땐{pause 8}・{pause 8}・{pause 8}・{pause 8}	어릴 때 생각이 좀 나더라{Wait for input}{emote: Daydreaming}그래 그건 바로{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Month}살 봄의 일이었어!{Wait for input}{emote: Soft Smile}{0005-000e-0002-0000}{000e-000e-000a-0004-c774-b791-0002-b791}	{0005-000e-0002-0001}{000e-000e-0008-0002-c744-0002-b97c} 섞은	특제 음료를 처음으로 마셨던 거지!	{emote: Glee}의외로 술술 넘어가서	왠지 어른이 된 느낌이었다니까!	{pause 20}{catchphrase}!
+"012"	{emote: Agreement}날씨가 이런 날이면{pause 8}・{pause 8}・{pause 8}・{pause 8}	어린 시절 생각이 나곤 해{Wait for input}{emote: Daydreaming}그래 그건 바로{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Month}살 여름의 일이었어!{Wait for input}{emote: Soft Smile}{0005-0014-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	처음으로 들었던 그날{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Glee}왠지 어른이 된 기분이었거든!
+"013"	{emote: Agreement}날씨가 이런 날이면	어릴 때 일이 생각나곤 해{Wait for input}{emote: Daydreaming}그래 그건 바로{pause 8}・{pause 8}・{pause 8}・{pause 20}	{Month}살 가을의 일이었어{Wait for input}{emote: Soft Smile}{0005-0011-0002-0000} 대회를	응원하러 가서는{pause 8}・{pause 8}・{pause 8}・{pause 20}{pause 20}	{0005-000e-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 받았었지!	{emote: Love}그때부터 내가 {0005-000e-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	정말 좋아하게 된 거야! {pause 20}{catchphrase}!
+"014"	{emote: Agreement}날씨가 이런 날이면	왠지 어릴 때 일이 생각나곤 해{Wait for input}{emote: Daydreaming}그래 그건 바로{pause 8}・{pause 8}{pause 8}・{pause 20}	{Month}살 겨울의 일이었지!{Wait for input}{emote: Soft Smile}처음으로 가게에서 파는	{0005-0010-0002-0000}{000e-000e-0008-0002-c744-0002-b97c} 먹고는{pause 8}・{pause 8}・{pause 8}・{pause 20}	세상이 뒤집힐 만큼 감동했었어
+"015"	{000a-0008-0010-0010-0010-0011-0012-0012-0013-0013-0014}
+"016"	{emote: Alarmed}좀 갑작스러운 질문이긴 한데{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Curious}숨바꼭질을 비 오는 날이랑 갠 날에	해보면 전혀 레벨이 다르지 않냐?	{emote: Resigned}왜{pause 8}・{pause 8}・{pause 8}・{pause 8} 비가 내리면	냄새까지 씻겨 나간다고 하잖아?{Wait for input}{emote: Agreement}근데 오늘처럼 맑은 날에는	술래가 후각만 뛰어나면	바로 찾을 수 있거든! {pause 20}{catchphrase}!
+"017"	{emote: Soft Smile}흐린 날에는{pause 8}・{pause 8}・{pause 8}・{pause 20}	뭔가 독특한 정취가 느껴지지 않냐?{Wait for input}{emote: Agreement}뭔가 닥쳐 올 것만 같은{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Glare}비? {pause 20}눈? {pause 20}아니면{pause 8}・{pause 8}・{pause 8}・{pause 20}?{Wait for input}{emote: Sunny}뭐, 어떤 게 닥쳐 오든	난 절대 지지 않을 자신 있지만 말야!	{pause 20}{catchphrase}!
+"018"	{emote: Alarmed}좀 갑작스러운 질문이긴 한데{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Curious}숨바꼭질을 비 오는 날이랑 갠 날에	해보면 전혀 레벨이 다르지 않냐?	{emote: Resigned}왜{pause 8}・{pause 8}・{pause 8}・{pause 8} 비가 내리면	냄새까지 씻겨 나간다고 하잖아?{Wait for input}{emote: Mischief}날씨가 오늘 같으면	술래의 후각이 아무리 뛰어나도	아무 도움이 안 되거든!
+"019"	{emote: Happiness}눈이 내리는 날에는{pause 8}・{pause 8}・{pause 8}・{pause 8}	독특한 정취가 있지 않냐?{Wait for input}{emote: Daydreaming}굉장히 청결한 느낌{pause 8}・{pause 8}・{pause 8}・{pause 20}	모든 더러운 것들을	다 덮어 버릴 듯한{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Alarmed}아!{pause 20} 그래도 가까이 다가가면	다 알아차릴 수 있으니까	목욕은 제때 하는 거 알지? {pause 20}{catchphrase}?
+"020"	{emote: Agreement}맑게 갠 봄날{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 8}	이런 날에도 독특한 정취는 있지{Wait for input}{emote: Curious}만개한 벚꽃 냄새{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}이 냄새만 맡으면	왠지 마음이 마구 설레!	{emote: Glee}마치 축제를 시작하기 직전처럼	흥분되는 느낌이라고나 할까! {pause 20}{catchphrase}!
+"021"	{emote: Soft Smile}나 지난번에 {0005-0003-0000}한테	좋은 거 배웠다!{Wait for input}{emote: Agreement}세상 돌아가는 이야기를 하다가	화제가 끊어졌을 때는	「날씨」이야기를 하면 좋대!{0009-0001-0006-0017-0018-0016}
+"022"	{emote: Sheepishness}설마 녀석한테 그런 조언을	듣게 될 줄은 몰랐는데 말야!{pause 20}	{catchphrase}!
+"023"	{emote: Alarmed}아! 뭐 꼭 지금 그렇다는 건 아냐!{pause 40}	{emote: Sheepishness}너랑 얘기하다가 화제가 끊어지다니	그런 일이 있을 리 없잖아! {pause 20}{catchphrase}!
+"024"	{emote: Soft Smile}그러고 보면 날씨에 관한 건	어떤 얘기를 해도 모가 안 난단 말야{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sheepishness}녀석도 어른인가 봐, {pause 20}{catchphrase}
+"025"	{emote: Reset}하늘을 보고 있으면 말야{pause 8}・{pause 8}・{pause 8}・{pause 20}	가끔 날아가는 풍선이 보일 때	있지 않냐?{Wait for input}{emote: Curious}가끔 생각하는데	그건 도대체 누가 날리는 걸까?{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Happiness}뭐, 수수께끼는	수수께끼인 채로 두는 게	가장 의미 있겠지만! {pause 20}{catchphrase}!
+"026"
+"027"	{emote: Agreement}이미 알고 있을지도 모르겠는데{pause 8}・{pause 8}・{pause 8}・{pause 8}	오늘 유성을 보고 싶으면  위를 눌러서	하늘을 올려다봐!	그러다가 별이{pause 8}・{pause 8}・{pause 8}・{pause 40}{0007-000a-0000}{emote: Anger}	「떨어진다!」 싶을 때 Ⓐ를 눌러서	소원을 비는 거지!	{emote: Glee}진짜인지 거짓말인지는 모르겠는데	별에 소원이 닿으면	선물이 온대!
+"028"	{emote: Alarmed}그나저나 오늘 밤에는	정말 대단한 일이 일어날 거야!{pause 40}	{emote: Reset}별이 마구 쏟아지는 날이라니까!	{emote: Distress}넌 소원 빌 거 없냐?{pause 20}	오늘 같은 날은 소원을 빌어야지	그냥 보내긴 아깝잖아! {pause 20}{catchphrase}!
+"029"	{emote: Distress}모처럼 유성이 나타났는데{pause 8}・{pause 8}・{pause 8}・{pause 20}	허둥대다가 소원을 못 빌면 어쩌지!	{pause 20}{catchphrase}!
+"030"	{emote: Agreement}유성을 기다릴 때는 말이지	나도 모르게 자꾸	숨을 멈추게 돼{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Sheepishness}내가 못 봐서 그렇지	진짜 볼만한 얼굴 하고 있을걸!	{pause 20}{catchphrase}!{emote: Soft Smile}
+"031"	{emote: Distress}으아～!{pause 20}	눈도 깜박이지 않고 하늘을 봤더니	눈이 너무 건조해～	{emote: Sigh}그치만 눈을 감은 순간에	유성이 지나갈지도 모른다고 생각하면	눈을 감을 수가 없다고{pause 8}・{pause 8}・{pause 8}・{pause 20}

@@ -1,171 +1,171 @@
 == 0 ==
-"001"	{0009-0002-0008-03-00-04-00-05-00-22-00}
-"002"	{0009-0001-0006-06-00-07-00-22-00}
-"003"	I'm curious:{pause 20}
-"004"	Just between you and me,{pause 20}
-"005"	{emote: Happiness}
-"006"	Get ready, 'cause it's time for{pause 20}
-"007"	{emote: Happiness}
-"008"	
-"009"	
-"010"	{emote: Surprise}
-"011"	{emote: Happiness}
-"012"	{emote: Shocked}
-"013"	{emote: Shocked}
-"014"	{emote: Glee}
-"015"	{emote: Sadness}
-"016"	{emote: Alarmed}
-"017"	It might be smaller,{pause 8}
-"018"	{emote: Surprise}
-"019"	{emote: Delight}
-"020"	{emote: Happiness}
-"021"	{emote: Distress}
-"022"	{emote: Disbelief}
-"023"	{emote: Glee}
-"024"	{emote: Happiness}
-"025"	{emote: Shocked}
-"026"	{emote: Alarmed}
-"027"	{emote: Glee}
-"028"	{emote: Glare}
-"029"	{emote: Inspired}
-"030"	{emote: Alarmed}
-"031"	{emote: Shocked}
-"032"	{emote: Glee}
-"033"	
-"034"	{emote: Curious}
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
-"048"	
-"049"	
-"050"	{0009-0000-0004-33-00-34-00}
-"051"	{emote: Curious}
-"052"	Hey, let me ask you something!	{pause 20}
-"053"	Well, that makes perfect sense.{pause 20}
-"054"	{emote: Joy}
-"055"	{emote: Happiness}
-"056"	{emote: Laughter}
+"001"	{0009-0002-0008-0003-0004-0005-0022}
+"002"	{0009-0001-0006-0006-0007-0022}
+"003"	I'm curious:{pause 20} {emote: Curious}Is the town you're from	far away?{pause 20} Like, how long would it	take to run there?{0008-0002-0010-000a-0000-000b-0000-000c-0000-000d-0000}	Five minutes.	Thirty minutes.	One hour.	Twelve hours.
+"004"	Just between you and me,{pause 20} {emote: Curious}how does	{Town name (pink)} compare to your town?{0008-0003-0014-000e-0000-000f-0000-0010-0000-0011-0000-0012-0000}	It's cleaner.	It's dirtier.	It's exquisite!	It's smaller.	They're the same.
+"005"	{emote: Happiness}This is just between you and me,{pause 8}	but what do you think of the mayor	of this town?{0008-0003-0014-0017-0000-0018-0000-0019-0000-001a-0000-001b-0000}	Kind!	Funny!	Scary...	Cute.	Cool.
+"006"	Get ready, 'cause it's time for{pause 20}	{emote: Flourish}Dr. {Villager's name (orange)}'s{pause 8} health screening!{Wait for input}	{emote: Happiness}{capitalized}{Player nickname (green)},{pause 20} how are you feeling?{0008-000a-0010-0013-0013-0014-0014-0014-0015-0015-0016}	I'm at 100%	I'm at 0%
+"007"	{emote: Happiness}So what's popular in your town	right now?{0008-0003-0014-001c-0000-001d-0000-001e-0000-001f-0000-0020-0000}	Hide-and-seek.	Bug catching.	Fishing.	Bread-eating contests.	Fashion shows.
+"008"
+"009"
+"010"	{emote: Surprise}{0007-000a-0000}Whoa!{pause 20} A 5-minute run?{pause 40} That's	pretty close.{pause 20} {emote: Thought}But it'd probably be	a half-hour crawl, right?	{emote: Worry}So I guess that's actually pretty	far,{pause 8} {catchphrase}.
+"011"	{emote: Happiness}A 30-minute run sounds like a good	workout,{pause 8} {catchphrase}.{Wait for input}{emote: Bashful}But I'm not really the working-out	type.{pause 20} I'm more the power-napping	type, you know?
+"012"	{emote: Shocked}It took you a whole hour to run	here?!{pause 40} {emote: Distress}Sounds rough!{Wait for input}You should recharge with a local	specialty,{pause 8} {Article(word-dependant)}{0005-000e-0002-0000}-	soaked {0005-001a-0002-cd00}! 	.{pause 8}.{pause 8}.{pause 8}{emote: Reset}What's that?{pause 20} You came on the	train?{Wait for input} {emote: Agreement}Yeah,{pause 8} taking the train is more	my speed too.
+"013"	{emote: Shocked}Whaaaaat?!{pause 20} You ran for 12 hours?!{pause 20}	How are you even standing?{pause 20} If I	were you,{pause 8} I'd be out like a light!
+"014"	{emote: Glee}Oh, really!{pause 40} So {Town name (pink)} is a pretty	clean place, huh,{pause 8} {catchphrase}?{Wait for input}{emote: Happiness}I don't travel very much,{pause 8} so I don't	have much to compare my town to.
+"015"	{emote: Sadness}I can't believe you think our town is	dirty.{Wait for input} {emote: Worry}But now that you mention it,	I guess it is{pause 8}.{pause 8}.{pause 8}.
+"016"	{emote: Alarmed}I've never heard {Town name (pink)} called	"{pause 8}exquisite" before.{Wait for input}{emote: Thought}Though to be honest,{pause 8} I can't say I	totally get{pause 20} what exactly you mean	by that{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Love}Even so,{pause 8} it would be pretty cool if	people started calling me Exquisite	{capitalized}{Villager's name (orange)},{pause 8} {catchphrase}.
+"017"	It might be smaller,{pause 8} {emote: Glee}but you know,{pause 20} I	really like the small-town feel!
+"018"	{emote: Surprise}Oh!{pause 20} If that's the case,{pause 20} {emote: Glee}I guess I'd	have no problem living there!
+"019"	{emote: Delight}Good for you for staying in shape!{Wait for input}	{emote: Glee}You should spread that positive	attitude!	Make sure you talk{pause 8} with everyone in	town,{pause 8} {catchphrase}.
+"020"	{emote: Happiness}Oh, so you're feeling about normal?{pause 40}	Well, that's nothing to sneeze at!{Wait for input}{emote: Reset}If you're too energetic and you 	overdo it,{pause 20} {emote: Agreement}you might end up getting	sick.{pause 20} So you gotta be careful!
+"021"	{emote: Distress}You're not doing so well, huh?{pause 8}	What happened?!{Wait for input} {emote: Thought}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Are you	sure you're eating properly?	{emote: Glee}Make sure you eat{pause 20} three square 	meals a day.{pause 20} Plus snacks,{pause 8}	{catchphrase}!
+"022"	{emote: Disbelief}{0007-000a-0000}Huh?!{pause 20} That bad?!{Wait for input} {emote: Worry}It must be	because we don't live in the same	town.	{emote: Thought}If you could just see me any old	time,{pause 8} I bet you'd be right as rain{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Anger}All right!{pause 20} Then it's decided!{Wait for input}{emote: Pride}I'm gonna be a big TV star someday.{pause 20}	Then you can see my smiling	mug all the time,{pause 8} {catchphrase}!
+"023"	{emote: Glee}I totally agree!{pause 20} Having a kind mayor	just makes life in {Town name (pink)} so	much better,{pause 8} {catchphrase}.
+"024"	{emote: Happiness}I totally agree!{pause 20} Yep, our mayor	could probably have an alternate	career as a stand-up comedian!
+"025"	{emote: Shocked}What?!{pause 20} Scary?!{pause 40} But the mayor's	always been nice to me.{Wait for input}{emote: Happiness}Sometimes when people are hard on	you,{pause 8} it's just their way of showing	they care.
+"026"	{emote: Alarmed}{0007-000a-0000}You think the mayor's cute?!{Wait for input}	{emote: Bashful}I never thought that before,{pause 8} but I	guess you've got a point.
+"027"	{emote: Glee}I totally agree with you!{Wait for input} I wish I	could be even half as cool as the	mayor,{pause 8} {catchphrase}!
+"028"	{emote: Glare}So hide-and-seek is all the rage	in your town, huh?{Wait for input} {emote: Alarmed}Wait.{pause 20} Are you in	the middle of a match right now?	{emote: Joy}Hiding in another town is a great	strategy,{pause 8} {catchphrase}!
+"029"	{emote: Inspired}{pause 20}So that must mean{pause 20} you came here	today to catch some bugs!{Wait for input} {emote: Glee}I hope	you snag a rare one,{pause 8} {catchphrase}!
+"030"	{emote: Alarmed}I guess fishing is popular	everywhere!{Wait for input} {emote: Happiness}I'm a big fisher too.{Wait for input}{emote: Thought}I wonder if the fish that get away	from me{pause 20} end up swimming to your	town.
+"031"	{emote: Shocked}{0007-000a-0000}Huh?!{pause 20} Bread-eating contests?!{Wait for input}	{emote: Distress}We didn't have any of that{pause 20} back	when I lived there!	Man!{pause 40} That's just not fair,{pause 8}	{catchphrase}!
+"032"	{emote: Glee}Uh huh huh{pause 8}.{pause 8}.{pause 8}.{pause 20} You think I {pause 8}would make	a good model?{Wait for input} I'd be all like,{pause 20}	"{emote: Showmanship}Stop!{pause 20} Strike {pause 20}a pose!"
+"033"
+"034"	{emote: Curious}Have you been using the lockers	at the station,{pause 8} {catchphrase}?{Wait for input}{emote: Happiness}The stuff you put in those lockers	gets sent to {pause 20}the lockers in your	town{pause 8} or the closets in your house!	{emote: Thought}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} I don't really get exactly{pause 20}	how they work, but{pause 20} {emote: Laughter}they're super	convenient,{pause 8} so you should use 'em!{pause 40}{emote: Soft Smile}
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
+"048"
+"049"
+"050"	{0009-0000-0004-0033-0034}
+"051"	{emote: Curious}You're the mayor{pause 8} in your new	town, right, {Player nickname (green)}?{Wait for input}{emote: Daydreaming}Someday I'm gonna get out of here{pause 20}	and become mayor of {Villager's name (orange)}	Town.{Wait for input}{emote: Joy}My first ordinance will be{pause 8} to have	{Article(word-dependant)}{0005-0013-0002-0000} party	every week,{pause 8} {catchphrase}!
+"052"	Hey, let me ask you something!	{pause 20}What kind of place{pause 8} {emote: Curious}is {Town name (pink)}?{0008-0002-0010-0035-0000-0036-0000-0037-0000-0038-0000}	It's cool!	It's cute!	It's sophisticated!	It's dangerous!
+"053"	Well, that makes perfect sense.{pause 20}	{emote: Soft Smile}With you as mayor, of course	your town is cool.	{emote: Glee}A huh huh huh!{pause 20} I'd love to come	visit sometime, {pause 8}{catchphrase}.
+"054"	{emote: Joy}Then it perfectly matches you,	{Player nickname (green)}!{pause 20} A huh huh huh!
+"055"	{emote: Happiness}I'd love to visit sometime.{pause 20} {emote: Daydreaming}	A huh huh{pause 8}.{pause 8}.{pause 8}.{pause 20} But only if I don't stick	out too much.
+"056"	{emote: Laughter}Oh, I'm sure you're overreacting.{pause 20}	A little bit of danger can be very	exciting, {Player nickname (green)}!{pause 40}{emote: Soft Smile}
 == 1 ==
-"001"	{0009-0002-0008-03-00-04-00-05-00-22-00}
-"002"	{0009-0001-0006-06-00-07-00-22-00}
-"003"	¿Tu pueblo está cerquita de aquí o	en el quinto pino?{pause 20}
-"004"	Ahora que estamos en confianza	me puedes decir la verdad.{pause 20}
-"005"	{emote: Happiness}
-"006"	¡Atent{000e-0006-0008-02-00-6f-00-02-00-61-00}!{pause 20}
-"007"	{emote: Happiness}
-"008"	
-"009"	
-"010"	{emote: Surprise}
-"011"	{emote: Happiness}
-"012"	{emote: Shocked}
-"013"	{emote: Shocked}
-"014"	{emote: Glee}
-"015"	{emote: Sadness}
-"016"	{emote: Alarmed}
-"017"	{emote: Thought}
-"018"	{emote: Surprise}
-"019"	{emote: Delight}
-"020"	{emote: Happiness}
-"021"	{emote: Distress}
-"022"	{emote: Disbelief}
-"023"	{emote: Glee}
-"024"	{emote: Happiness}
-"025"	{emote: Shocked}
-"026"	{emote: Alarmed}
-"027"	{emote: Glee}
-"028"	{emote: Glare}
-"029"	{emote: Inspired}
-"030"	{emote: Alarmed}
-"031"	{emote: Shocked}
-"032"	{emote: Glee}
-"033"	
-"034"	{emote: Curious}
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
-"048"	
-"049"	
-"050"	{0009-0000-0004-33-00-34-00}
-"051"	{emote: Curious}
-"052"	¿Me dejas preguntarte una cosa?	{Gray}{0000-0002-0002-3c-00}(Te la iba a preguntar igual, pero bueno...){0000-0002-0002-64-00}{Color Reset}{pause 20}
-"053"	Hombre, claro.{pause 20}!
-"054"	{emote: Joy}
-"055"	{emote: Happiness}
-"056"	{emote: Laughter}
+"001"	{0009-0002-0008-0003-0004-0005-0022}
+"002"	{0009-0001-0006-0006-0007-0022}
+"003"	¿Tu pueblo está cerquita de aquí o	en el quinto pino?{pause 20} ¿Cuánto tardaría	en llegar si me pego un carrerón?{0008-0002-0010-000a-0000-000b-0000-000c-0000-000d-0000}	Cinco minutos	Media hora	Una hora	Medio día
+"004"	Ahora que estamos en confianza	me puedes decir la verdad.{pause 20}{Wait for input}{emote: Curious}¿Qué te parece {capitalized}{Town name (pink)}	comparado con tu pueblo?{0008-0003-0014-000e-0000-000f-0000-0010-0000-0011-0000-0012-0000}	Está más limpio	Está más sucio	¡Es cien veces mejor!	¡No vale un pimiento!	Es más o menos igual
+"005"	{emote: Happiness}No te vayas a chivar de que te he	preguntado esto,{pause 8} pero{pause 8}.{pause 8}.{pause 8}.{pause 20} ¿qué opinas	de la persona a cargo de la alcaldía?{0008-0003-0014-0017-0000-0018-0000-0019-0000-001a-0000-001b-0000}	Es muy inteligente	Me hace mucha gracia	Me da miedo	Tiene buen fondo	¡Mola!
+"006"	¡Atent{o/a}!{pause 20} Aquí está el Dr. {Villager's name (orange)}	para ver si estás san{o/a} o mal{o/a}.{Wait for input}	{emote: Happiness}{capitalized}{Player nickname (green)},{pause 20} ¿cómo te encuentras?{0008-000a-0010-0013-0013-0014-0014-0014-0015-0015-0016}	¡Estoy al 100 %!	Estoy bajo mínimos...
+"007"	{emote: Happiness}¿Y qué hacéis en tu pueblo	para divertiros?{0008-0003-0014-001c-0000-001d-0000-001e-0000-001f-0000-0020-0000}	Jugar al escondite	Cazar bichos	Pescar	Hincharnos a comer	Desfiles de moda
+"008"
+"009"
+"010"	{emote: Surprise}{0007-000a-0000}¿Ah, sí?{pause 20} ¿Cinco minutillos de nada?	Pero si eso es ahí al lado.{pause 20} {emote: Thought}Aunque si	vas a rastras en vez de corriendo{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Worry}¡Ya es media hora por lo menos,{pause 8}	{catchphrase}!
+"011"	{emote: Happiness}Media hora, ¿eh? No es mucho.	Lo justo para hacer un poco de	ejercicio,{pause 8} {catchphrase}.{Wait for input}{emote: Bashful}De todas maneras, yo preferiría	usar esos treinta minutos para	echar una siesta rápida.
+"012"	{emote: Shocked}¡¿Una hora?!{pause 40} {emote: Distress}¡Tienes que estar	hech{o/a} papilla de haber corrido	tanto para llegar hasta aquí!{Wait for input}Ahora que hablamos de papillas,{pause 8}	igual te vendría bien un batido de	{0005-000e-0002-0000} y {0005-001a-0002-cd00}.	{emote: Reset}¿Cómo?{pause 20} ¿Has venido en tren?{Wait for input}	{emote: Agreement}Claro, mucho mejor.{pause 20} {emote: Sunny}¡Bueno,	pues entonces para mí el batido!
+"013"	{emote: Shocked}¡Pero qué animalada!{pause 20} ¡¿Has estado	medio día corriendo sin parar para	venir al pueblo?!{pause 20}	{emote: Worry}¡Tendrás las piernas como gelatina!{pause 20}	Oye, ¿y si te tomas precisamente un	plato de gelatina para recuperarte?{Wait for input}¿No? {emote: Sunny}Pues para mí. {emote: Agreement}Y luego tres	horas de siesta para digerirla bien.{emote: Happiness}
+"014"	{emote: Glee}¡No me digas!{pause 40} {emote: Glare}Vamos, que por allí	sois unos guarretes, ¿no? ¡Aprended	de {capitalized}{Town name (pink)},{pause 8} {catchphrase}!{Wait for input}{emote: Happiness}Estoy de broma, {hombre/mujer}. Seguro	que por ahí hay algún pueblo más	comido de roña que el tuyo.{pause 40}
+"015"	{emote: Sadness}¿Tan sucio está esto?{Wait for input} {emote: Worry}Vale que cada	vez que abro la puerta de casa	las pelusas me hacen la ola, pero{pause 8}.{pause 8}.{pause 8}.
+"016"	{emote: Alarmed}¡Hala! Esperaba que dijeras solo	veinte o treinta, ¡¿pero cien?!{Wait for input}{emote: Thought}Por cierto,{pause 8} ¿eso cómo se mide?{pause 20}	¿Por cuántas chuches seguidas	se puede comer cada vecino?	{emote: Love}Como sea eso,{pause 8} mi pueblo es	{emote: Pride}exactamente 237 veces mejor	que el tuyo, según mi récord.
+"017"	{emote: Thought}Oye, pues a mí si me dan una	montaña de pimientos por mi	casa, me lo pienso, ¿eh?
+"018"	{emote: Surprise}¡Qué curioso!{pause 20} {emote: Glee}Entonces veo que no	tenemos nada que envidiar a los	pueblos de otros.{Gray}{Text size 60%} {emote: Mischief}(Pero el mío mola más...){Text size 100%}{Color Reset}
+"019"	{emote: Delight}¡Muy bien!{Wait for input} {emote: Glee}Eso es que comes	en condiciones y que duermes	lo suficiente, ¡igualit{o/a} que yo!
+"020"	{emote: Happiness}Bien, entonces.{pause 40} A veces cuesta	mantenerse a tope todo el día.{Wait for input}{emote: Reset}De todas maneras,{pause 20} tampoco está	bien pasarse, que luego te pones	mal{o/a} a la primera de cambio.{Wait for input}{emote: Agreement}Yo por eso mezclo una dieta sana	con mucho descanso {emote: Anger}y nada de	ejercicio.{pause 20} {emote: Happiness}¡El equilibrio perfecto!
+"021"	{emote: Distress}Regulín, regulán, ¿eh?{pause 8} {emote: Thought}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 20}	¿Seguro que te estás alimentando	en condiciones?{Wait for input}{emote: Glee}No te olvides de hacer tres comidas	al día{pause 20}.{Wait for input}{pause 20} ¡Y otras tres por la noche,{pause 8}	{catchphrase}!
+"022"	{emote: Disbelief}{0007-000a-0000}¡Vaya!{pause 20} ¡¿Tan mal estás?!{Wait for input} {emote: Worry}Claro,	en tu pueblo no te dan bien de	comer.	{emote: Thought}Si viviéramos en el mismo sitio,	podría enseñarte alguna que otra	de mis recetas{pause 8}.{pause 8}.{pause 8}.	{emote: Anger}¡Pues no se hable más!{pause 20} {emote: Pride}¡Me voy a	hacer superchef de la tele para que	me veas todos los días y aprendas!
+"023"	{emote: Glee}¡¿Verdad?!{pause 20} {emote: Sunny}¡Con alguien así al frente	de {capitalized}{Town name (pink)} las cosas van como	el pan con el chocolate!
+"024"	{emote: Happiness}¡No me extraña!{pause 20} Ya le podía enseñar	un par de cosas sobre humor a ese	tal {Orange}Dr. Sito{Color Reset}.
+"025"	{emote: Shocked}¡¿Qué?!{pause 20} ¿Cómo te puede dar miedo?{pause 40}	Pues conmigo siempre ha sido muy	amable. No sé de dónde sacas eso.{Wait for input}{emote: Happiness}A veces, cuando alguien es duro	contigo,{pause 8} lo hace por tu bien.{Wait for input}{emote: Pride}Piénsalo: ¡para sacar lo mejor de	una nuez hay que darle un buen	martillazo!
+"026"	{emote: Alarmed}{0007-000a-0000}¡¿Qué quieres decir con eso?!{Wait for input}	{emote: Bashful}Pues{pause 8}.{pause 8}.{pause 8}.{pause 20} no lo había pensado, pero...	{emote: Sunny}¡sí, es la bondad personificada!
+"027"	{emote: Glee}¡No podría estar más de acuerdo!{Wait for input}	{emote: Pride}Eh, que yo no molo más por no	hacerle sombra, pero vamos{pause 8}.{pause 8}.{pause 8}.
+"028"	{emote: Glare}Al escondite, ¿eh?{Wait for input} {emote: Alarmed}¡Anda!{pause 20} ¡¿Eso	significa que ahora mismo estás	en mitad de una partida?!	{emote: Joy}¡Qué pedazo de estrategia lo	de esconderte en otro pueblo!	¡Eres un genio,{pause 8} {catchphrase}!
+"029"	{emote: Inspired}{pause 20}Ah,{pause 20} claro. ¡Has venido al pueblo	a cazar nuestros bichos!{Wait for input} {emote: Glee}¡Ojalá	pilles uno bien raro,{pause 8} {catchphrase}!
+"030"	{emote: Alarmed}¡Aquí también!{Wait for input} {emote: Happiness}Yo soy un pescador	de primera, por si no lo sabías.{Wait for input}{emote: Thought}Oye, ¿crees que los peces que se	me escurren a mí {emote: Curious}acaban llegando	hasta tu pueblo?
+"031"	{emote: Shocked}{0007-000a-0000}¡No me digas!{pause 20} ¡Pero si yo soy	superultramegafán de las comilonas!{Wait for input}	{emote: Distress}¡Aquí no se hace nada de eso, jo!{Wait for input}¡Qué suerte tienes,{pause 8} {catchphrase}!
+"032"	{emote: Glee}Oh{pause 8}.{pause 8}.{pause 8}.{pause 20} A mí me gustaría ser modelo.{Wait for input}	Tengo entendido que antes de cada	foto hay que comer patata.
+"033"
+"034"	{emote: Curious}¿Tú usas mucho las taquillas de	la estación,{pause 8} {catchphrase}?{Wait for input}{emote: Happiness}Todo lo que metas dentro aparece	en otras taquillas del pueblo.{pause 20}	¡Hasta en tu armario de casa!	{emote: Thought}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 20} No sé cómo, si es magia	o qué,{pause 20} pero está claro que el	invento es superútil.{pause 40}{emote: Soft Smile}{Wait for input}{emote: Mischief}Un día de estos voy a probar a	meter una bolsa de polos en una,	a ver si aparece en mi congelador.
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
+"048"
+"049"
+"050"	{0009-0000-0004-0033-0034}
+"051"	{emote: Curious}Así que eres {el alcalde/la alcaldesa} de tu	nuevo pueblo, ¿no, {Player nickname (green)}?{Wait for input}{emote: Daydreaming}Creo que yo sería un buen alcalde	de Villa {capitalized}{Villager's name (orange)}.{Wait for input}{emote: Joy}¡Lo primero que haría sería sacar	una ordenanza para que se creara	el {Blue}Día de{l/ la/} {capitalized}{0005-0013-0002-0000}{Color Reset}!
+"052"	¿Me dejas preguntarte una cosa?	{Gray}{Text size 60%}(Te la iba a preguntar igual, pero bueno...){Text size 100%}{Color Reset}{pause 20}	{emote: Curious}¿Cómo es {capitalized}{Town name (pink)}?{0008-0002-0010-0035-0000-0036-0000-0037-0000-0038-0000}	¡Mola un montón!	¡Es supercuco!	¡Es muy sofisticado!	¡Es muy peligroso!
+"053"	Hombre, claro.{pause 20} {emote: Soft Smile}Contigo de alcald{e/esa}	tiene que serlo. {emote: Glee}A ver si un día me	animo y voy a verte,{pause 8} {catchphrase}.
+"054"	{emote: Joy}Pues igualito que tú, {Player nickname (green)}.{pause 20}	¡Ji, ji, ji!
+"055"	{emote: Happiness}Tendré que ir a visitarlo, entonces.{pause 20}{emote: Daydreaming}	Espero no dar mucho el cante entre	tanta sofisticación{pause 8}.{pause 8}.{pause 8}.
+"056"	{emote: Laughter}¡Hala, seguro que no es para tanto!{pause 20}	Además, la vida mola el triple con	un poco de peligro, {Player nickname (green)}.{pause 40}{emote: Soft Smile}
 == 2 ==
-"001"	{0009-0002-0008-03-00-04-00-05-00-22-00}
-"002"	{0009-0001-0006-06-00-07-00-22-00}
-"003"	Pardon d'être aussi curieux,{pause 20}
-"004"	Dis, entre toi et moi,{pause 20}!
-"005"	{emote: Happiness}
-"006"	Attention, c'est l'heure de	l'examen médical du docteur{pause 20}
-"007"	{emote: Happiness}
-"008"	
-"009"	
-"010"	{emote: Surprise}
-"011"	{emote: Happiness}
-"012"	{emote: Shocked}
-"013"	{emote: Shocked}
-"014"	{emote: Glee}
-"015"	{emote: Sadness}
-"016"	{emote: Alarmed}
-"017"	C'est peut-être petit ici,{pause 20}
-"018"	{emote: Surprise}
-"019"	{emote: Delight}
-"020"	{emote: Happiness}
-"021"	{emote: Distress}
-"022"	{emote: Disbelief}
-"023"	{emote: Glee}
-"024"	{emote: Happiness}
-"025"	{emote: Shocked}
-"026"	{emote: Alarmed}
-"027"	{emote: Glee}
-"028"	{emote: Glare}
-"029"	{emote: Inspired}
-"030"	{emote: Alarmed}
-"031"	{emote: Shocked}
-"032"	{emote: Glee}
-"033"	
-"034"	{emote: Curious}
-"035"	
-"036"	
-"037"	
-"038"	
-"039"	
-"040"	
-"041"	
-"042"	
-"043"	
-"044"	
-"045"	
-"046"	
-"047"	
-"048"	
-"049"	
-"050"	{0009-0000-0004-33-00-34-00}
-"051"	{emote: Curious}
-"052"	Dis,{pause 8}
-"053"	Ça ne m'étonne pas.{pause 20}
-"054"	{emote: Joy}
-"055"	{emote: Happiness}
-"056"	{emote: Laughter}
+"001"	{0009-0002-0008-0003-0004-0005-0022}
+"002"	{0009-0001-0006-0006-0007-0022}
+"003"	Pardon d'être aussi curieux,{pause 20} {emote: Curious}mais	est-ce que la ville d'où tu viens est	loin d'ici?	Tu mettrais combien de temps pour	y aller en courant, par exemple?{0008-0002-0010-000a-0000-000b-0000-000c-0000-000d-0000}	5 minutes.	30 minutes.	1 heure.	Une demi-journée.
+"004"	Dis, entre toi et moi,{pause 20} {emote: Curious}comment tu	trouves la ville {de /d'}{Town name (pink)}	comparée à la tienne?{0008-0003-0014-000e-0000-000f-0000-0010-0000-0011-0000-0012-0000}	Plus propre.	Plutôt crade.	Absolument exquise!	Plus petite.	Il y a une différence?
+"005"	{emote: Happiness}Bon, ça reste entre toi et moi{pause 8}.{pause 8}.{pause 8}.	Qu'est-ce que tu penses du maire	de notre ville?{0008-0003-0014-0017-0000-0018-0000-0019-0000-001a-0000-001b-0000}	Très sympa!	Trop drôle!	Plutôt chelou...	Super choupi!	Bien cool!
+"006"	Attention, c'est l'heure de	l'examen médical du docteur{pause 20}	{Villager's name (orange)}!	{emote: Happiness}Dis-moi {Player nickname (green)}, {pause 20}si tu devais	donner un pourcentage à ta forme	actuelle, ça serait lequel?{0008-000a-0010-0013-0013-0014-0014-0014-0015-0015-0016}	100 %!	0 %...
+"007"	{emote: Happiness}Dis, c'est quoi qui est à la mode	en ce moment, chez toi?{0008-0003-0014-001c-0000-001d-0000-001e-0000-001f-0000-0020-0000}	Jouer à cache-cache.	Chasser les insectes.	Pêcher.	Les buffets à volonté.	Les défilés de mode.
+"008"
+"009"
+"010"	{emote: Surprise}{0007-000a-0000}Waouh!{pause 20} Cinq minutes, c'est tout?{pause 40}	C'est rien du tout, {pause 20}{emote: Thought}mais en rampant,	ça doit pas être la même chose...	{emote: Worry}Ouais donc du coup, ça fait quand	même loin, vu comme ça,	{pause 8}{catchphrase}.
+"011"	{emote: Happiness}30 minutes de course, pas mal pour	qui veut faire de l'exercice,	{pause 8}{catchphrase}.{Wait for input}{emote: Bashful}Dommage que je ne fasse pas partie	de ces gens-là.
+"012"	{emote: Shocked}T'as couru pendant une heure pour	venir ici?!{pause 40} {emote: Distress}Mais tu dois être {mort/morte}	de faim!{Wait for input}Tu devrais recharger tes batteries	avec la spécialité locale :{Wait for input}{emote: Flourish}{Article(word-dependant)}{0005-001a-0002-cd00} qu'on	a fait tremper dans	{Article(word-dependant)}{0005-000e-0002-0000}!	.{pause 8}.{pause 8}.{pause 8}{emote: Reset} Hmm?{pause 20} Oh, tu as fait le voyage en	train?{Wait for input} {emote: Agreement}Oui,{pause 8} c'est vrai que c'est plus	pratique comme ça.
+"013"	{emote: Shocked}Quooiiii?!{pause 20} T'as passé la moitié de	la journée à courir?!{pause 20} Mais{pause 8}.{pause 8}.{pause 8}. {pause 20}Mais{pause 8}.{pause 8}.{pause 8}.{Wait for input}Ça veut dire qu'à peine {arrivé/arrivée},{pause 20} il	faut déjà repartir si tu veux rentrer	chez toi avant la fin de la journée!
+"014"	{emote: Glee}Oh, tu trouves?!{pause 40} C'est vrai qu'on	n'a pas à se plaindre de la saleté,	ici à {Town name (pink)},{pause 8} {catchphrase}.{Wait for input}{emote: Happiness}Mais comme je ne voyage pas	beaucoup,{pause 8} j'ai pas vraiment	d'élément de comparaison.
+"015"	{emote: Sadness}Crade? T'y vas un peu fort, quand	même{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Worry}Mais maintenant que tu le dis, c'est	vrai que ce n'est pas vraiment un	modèle de propreté{pause 8}.{pause 8}.{pause 8}.
+"016"	{emote: Alarmed}C'est bien la première fois que	j'entends quelqu'un dire	{que /qu'}{Town name (pink)} est « exquise »!{Wait for input}{emote: Thought}D'ailleurs,{pause 8} pour être honnête avec	toi,{pause 20} je ne comprends pas tout à fait	ce que tu veux dire par là{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Love}Mais bon,{pause 8} vu la façon dont tu l'as	dit, ça ne peut être que quelque	chose de gentil, {pause 8}{catchphrase}!
+"017"	C'est peut-être petit ici,{pause 20} {emote: Glee}mais je	t'assure qu'on y trouve quand même	très vite sa place!
+"018"	{emote: Surprise}Oh!{pause 20} Si tu dis ça,{pause 20} {emote: Glee}ça veut dire	{que /qu'}{Town name (pink)} est une ville si	agréable...	{emote: Love}... que tout le monde s'y sent	comme à la maison!
+"019"	{emote: Delight}Bravo! C'est ce que je voulais	entendre!{Wait for input} {emote: Glee}Continue comme ça!{Wait for input}Et n'hésite pas à propager tes	bonnes ondes partout en ville,	{pause 8}{catchphrase}!
+"020"	{emote: Happiness}Oh, tu te sens plutôt {normal/normale}?{pause 40}	Ne t'inquiète pas! {pause 20}C'est tout à	fait{pause 8}.{pause 8}.{pause 8}.{emote: Laughter} normal! Ha ha!{Wait for input}{emote: Reset}Avoir trop d'énergie peut être aussi	néfaste que ne pas en avoir assez.	{pause 20}{emote: Agreement}Il faut trouver son juste milieu!
+"021"	{emote: Distress}Tu ne te sens pas super bien?{pause 8}	Qu'est-ce qui t'arrive?!{Wait for input} {emote: Thought}Hmmm{pause 8}.{pause 8}.{pause 8}.	{pause 20}Peut-être que tu te nourris mal?	{emote: Glee}Prends bien soin de manger{pause 20} trois	repas par jour!{pause 20} D'accord,{pause 8}	{catchphrase}?
+"022"	{emote: Disbelief}{0007-000a-0000}Quoi?!{pause 20} Ça va si mal que ça?!{Wait for input}{emote: Worry} Ça	doit être parce qu'on ne vit pas	dans la même ville, toi et moi.	{emote: Thought}Je parie que si on pouvait se voir	tous les jours,{pause 8} tu te sentirais bien	mieux très rapidement{pause 8}.{pause 8}.{pause 8}.	{emote: Inspired}Bon sang,{pause 8} mais c'est bien sûr!{pause 20} Je	sais ce qu'il faut que je fasse!{Wait for input}{emote: Pride}Je vais tâcher de devenir célèbre!{pause 20}	Comme ça tu pourras me voir à la	télé tous les jours,{pause 8} {catchphrase}!
+"023"	{emote: Glee}Tout à fait d'accord!{pause 20} Un maire	comme ça, c'est ce dont {Town name (pink)}	pouvait rêver de mieux!
+"024"	{emote: Happiness}Je suis bien d'accord!{pause 20} Une ville	dont le maire a le sens de l'humour,	c'est une ville où il fait bon rire!
+"025"	{emote: Shocked}Ah bon?!{pause 20} Tu trouves?!{pause 40} Moi j'ai	toujours pensé qu'on avait un maire	plutôt prévoyant...{Wait for input}{emote: Happiness}C'est parfois dur de comprendre les	intentions des gens,{pause 8} j'en sais	quelque chose.
+"026"	{emote: Alarmed}{0007-000a-0000}Ch-{pause 20}Choupi?!{Wait for input} {emote: Bashful}J-{pause 20}Je dois t'avouer que	je n'avais jamais pensé à notre	maire de cette façon-là{pause 8}.{pause 8}..{pause 8} 
+"027"	{emote: Glee}Je suis bien d'accord avec toi!{Wait for input}	J'aimerais bien connaître son secret	pour être aussi cool,{pause 8} {catchphrase}!
+"028"	{emote: Glare}Alors comme ça on aime jouer à	cache-cache à {Town name (pink)}?{Wait for input} {emote: Alarmed}Hé!{pause 20} Me	dis pas que t'es en pleine partie, là?	{emote: Joy}C'est vraiment super malin de ta	part, ça, de carrément te cacher	dans une autre ville,{pause 8} {catchphrase}!
+"029"	{emote: Inspired}{pause 20}Ohh!{pause 20} Tu es {venu/venue} ici en quête de	nouveaux spécimens?{Wait for input} {emote: Glee}J'espère que	tu en trouveras,{pause 8} {catchphrase}!
+"030"	{emote: Alarmed}Il faut croire que tout le monde	aime pêcher!{Wait for input} {emote: Happiness}Je suis moi-même	un grand amateur de ce sport.{Wait for input}{emote: Thought}Je me demande si le poisson que	j'ai relâché ce matin{pause 20} a longé la côte	pour aller jusqu'à chez toi?	{emote: Laughter}Ça serait un drôle de hasard, ça!{pause 20}	{emote: Thought}Ou alors{pause 8}.{pause 8}.{pause 8}.{pause 20}{emote: Surprise} Une bonne alternative	aux pigeons voyageurs!
+"031"	{emote: Shocked}{0007-000a-0000}Quoi?!{pause 20} Des buffets à volonté?!{Wait for input}	{emote: Distress}Mais on n'avait pas ça à l'époque	où on était encore voisins!	C'est trop injuste,{pause 8} {catchphrase}!
+"032"	{emote: Glee}Hé hé{pause 8}.{pause 8}.{pause 8}.{pause 20} J'aimerais bien devenir	acteur un jour. {pause 20}Tu crois que j'ai	ce qu'il faut pour?	{emote: Daydreaming}Mon rêve serait de jouer dans	des pubs...{Wait for input}On me ferait manger du chocolat	jusqu'à ce que la prise soit bonne...{Wait for input}{emote: Sunny}Bien sûr, je ferais exprès de me	tromper dans mon texte à chaque	fois!
+"033"
+"034"	{emote: Curious}Tu t'es déjà servi{/e} de la consigne	qu'on trouve à la gare,{pause 8}	{catchphrase}?{Wait for input}{emote: Happiness}Tout ce que tu y déposes est	envoyé à la consigne de la gare	de ta ville,{pause 8} voire dans ton armoire!	{emote: Thought}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 20} Je sais pas trop comment	tout ça est possible{pause 8}.{pause 8}.{pause 8}.{pause 20} {emote: Laughter}mais en tout	cas,{pause 8} c'est super pratique!{pause 40}{emote: Soft Smile}
+"035"
+"036"
+"037"
+"038"
+"039"
+"040"
+"041"
+"042"
+"043"
+"044"
+"045"
+"046"
+"047"
+"048"
+"049"
+"050"	{0009-0000-0004-0033-0034}
+"051"	{emote: Curious}Là où t'habites,{pause 8} c'est toi le maire,	hein {Player nickname (green)}?{Wait for input}{emote: Daydreaming}Un jour, je deviendrai maire{pause 20}	{de /d'}{Villager's name (orange)}-ville. Et en tant que	maire{pause 8}.{pause 8}.{pause 8}.	{emote: Joy}Ma première mesure sera d'ériger	une statue géante en forme	{de /d'}{0005-0013-0002-0000}!
+"052"	Dis,{pause 8} je peux te poser une question?	{pause 20}Comment est la vie, {pause 8}{emote: Curious}à {Town name (pink)}?{0008-0002-0010-0035-0000-0036-0000-0037-0000-0038-0000}	Elle est cool!	Elle est tranquille!	Mouvementée!	Dangereuse!
+"053"	Ça ne m'étonne pas.{pause 20} {emote: Soft Smile}Avec toi aux	commandes, bien sûr que ça doit	être cool d'y vivre!	{emote: Glee}Hé hé hé!{pause 20} J'aimerais bien aller y	passer quelques jours de vacances	à l'occasion, {pause 8}{catchphrase}.
+"054"	{emote: Joy}Tout à fait à ton image,	{Player nickname (green)}!{pause 20} Ha ha ha!
+"055"	{emote: Happiness}Tu me donnes envie d'aller y faire	un tour, là.{Wait for input}{emote: Daydreaming}Mais alors{pause 8}.{pause 8}.{pause 8}.{pause 20} il faudrait que je vienne	en dehors de mes heures de sieste.
+"056"	{emote: Laughter}Oh, je suis sûr que tu exagères!{pause 20}{Wait for input}La vie, c'est comme un curry. Un	peu de piment, ou d'aventure, en	relève le goût, {pause 8}{catchphrase}!{pause 40}{emote: Soft Smile}

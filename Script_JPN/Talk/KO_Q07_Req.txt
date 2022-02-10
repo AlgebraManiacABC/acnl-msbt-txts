@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Reset}
-"005"	{emote: Reset}
-"006"	{emote: Reset}
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Alarmed}
-"010"	{emote: Alarmed}
-"011"	{emote: Surprise}
-"012"	{emote: Surprise}
-"013"	{emote: Surprise}
-"014"	{emote: Alarmed}
-"015"	{emote: Alarmed}
-"016"	{emote: Distress}
-"017"	{emote: Surprise}
-"018"	{emote: Surprise}
-"019"	{emote: Happiness}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Soft Smile}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
+"001"	{emote: Curious}ん？{pause 15}　{ruby (charSpan 1): なに}何か{ruby (charSpan 1): ひろ}拾ったんだろ？{Wait for input}{emote: Reset}{ruby (charSpan 1): み}見せなきゃ{pause 8}	オレのもんかどうか{pause 15}	わからねぇぞ？！
+"002"	{emote: Alarmed}ありゃ？{pause 15}	{emote: Reset}{ruby (charSpan 1): なに}何か{ruby (charSpan 1): ひろ}拾ったんじゃねぇのか？{pause 20}	{emote: Anger}{ruby (charSpan 1): み}見せなきゃ　{ruby (charSpan 1): こた}答えようがねぇぜ？！
+"003"	{emote: Alarmed}なんだ？！{pause 15}	{emote: Reset}{ruby (charSpan 1): み}見せる{ruby (charSpan 1): き}気　ねぇんだな？{pause 20}	{emote: Anger}じゃ、{ruby (charSpan 1): し}知らねぇよ！{pause 20}　{catchphrase}！
+"004"	{emote: Reset}いや、{pause 8}オレのじゃねぇなぁ
+"005"	{emote: Reset}オレぁ　こんなもん{pause 8}	{ruby (charSpan 1): お}落としちゃ　いねぇよ
+"006"	{emote: Reset}これは　オレのじゃねぇなぁ{pause 8}・{pause 8}・{pause 8}・{pause 15}	ほかのヤツに　{ruby (charSpan 1): き}聞いてみな！
+"007"	{emote: Alarmed}あっ！{pause 8}　この{ruby (charSpan 1): ほん}本は{pause 8}	「{0005-001d-0002-0000}」	じゃねぇか！	{emote: Agreement}ないないと{ruby (charSpan 1): おも}思ってたら{pause 8}	{ruby (charSpan 1): お}落っことしてたのかー！{Wait for input}{emote: Happiness}これ、{pause 8}ばーちゃんの{ruby (charSpan 2): かたみ}形見なんだよな！{pause 20}	いやぁー、{pause 8}{ruby (charSpan 1): たす}助かったわ！！
+"008"	{emote: Alarmed}あっ！{pause 15}	{emote: Joy}これは　{ruby (charSpan 2): まちが}間違いなく　オレの{ruby (charSpan 1): ほん}本だぜ！{pause 20}	こないだから　{ruby (charSpan 1): さが}探してたんだよ！	{emote: Happiness}まさか　{ruby (charSpan 1): お}落っことしてたとはなぁ！{pause 20}	いやぁー、{pause 8}{ruby (charSpan 1): たす}助かったわ！
+"009"	{emote: Alarmed}あーっ！{pause 15}	これ　{ruby (charSpan 1): さが}探してたんだよ！{pause 20}	{emote: Happiness}{ruby (charSpan 2): まちが}間違いなく　オレの{ruby (charSpan 1): ほん}本だぜ！	いやぁー、{pause 8}{ruby (charSpan 1): たす}助かったわ！
+"010"	{emote: Alarmed}あっ！{pause 15}	これ、{pause 8}オレのきんちゃくだよ！{Wait for input}{emote: Agreement}ないないと　{ruby (charSpan 1): おも}思ってたら{pause 8}	{ruby (charSpan 1): お}落としてたのか！{Wait for input}{emote: Happiness}{ruby (charSpan 2): だいじ}大事なヘソのおが　{ruby (charSpan 1): はい}入ってるんだ、{pause 15}	{ruby (charSpan 1): たす}助かったぜー！{pause 20}　{catchphrase}！
+"011"	{emote: Surprise}あっ！{pause 15}	やっぱり　{ruby (charSpan 1): お}落としてたのか！{Wait for input}{emote: Happiness}この　きんちゃく、{pause 8}	{ruby (charSpan 1): たし}確かに　オレのだわ！{pause 20}	いやぁー、{pause 8}{ruby (charSpan 1): たす}助かったぜ！
+"012"	{emote: Surprise}あっ！！{pause 15}	オメェが　{ruby (charSpan 1): ひろ}拾ってくれたのか？！{Wait for input}{emote: Mischief}まさか　{ruby (charSpan 2): なかみ}中身は{ruby (charSpan 1): み}見てねぇだろうな？！{pause 15}	・{pause 8}・{pause 8}・{pause 8}{emote: Happiness}そうか、{pause 8}じゃあ　オッケーだ！{Wait for input}{emote: Agreement}いや、{pause 8}{ruby (charSpan 1): よ}世の{ruby (charSpan 1): なか}中には{pause 8}	{ruby (charSpan 1): し}知らないままの{ruby (charSpan 1): ほう}方が	{ruby (charSpan 1): しあわ}幸せだってことも{pause 8}　あるんだよ！	{emote: Happiness}とにかく、このきんちゃくは{pause 8}	{ruby (charSpan 2): まちが}間違いなく　オレのもんだ！{pause 20}	いやぁー、{pause 8}{ruby (charSpan 2): いのちびろ}命拾いしたぜ！
+"013"	{emote: Surprise}あ！{pause 8}　これ、オレの{ruby (charSpan 2): てぶくろ}手袋だ！{pause 15}	{emote: Happiness}{ruby (charSpan 2): かたほう}片方なくなって　{ruby (charSpan 1): さが}探してたんだよ！{pause 20}	いやぁー、{pause 8}{ruby (charSpan 1): たす}助かったぜ！
+"014"	{emote: Alarmed}あっ！{pause 15}	この{ruby (charSpan 2): ぐんて}軍手、オレのだ！{Wait for input}{emote: Reset}もしかして{pause 8}	{emote: Curious}{ruby (charSpan 2): どうろ}道路でペタンコになってたのか？{pause 20}	{emote: Reset}なんだ、{ruby (charSpan 1): ちが}違うのか	{emote: Happiness}それはともかく、{pause 15}	なくして{ruby (charSpan 1): こま}困ってたんで　{ruby (charSpan 1): たす}助かったぜ！
+"015"	{emote: Alarmed}おーっ！{pause 15}	オメェが　{ruby (charSpan 1): ひろ}拾ってくれたのか！{Wait for input}{emote: Distress}この{ruby (charSpan 2): てぶくろ}手袋、{pause 15}	かーちゃんが　{ruby (charSpan 1): よ}夜なべして{pause 8}	{ruby (charSpan 1): あ}編んでくれたやつなんだよ！{Wait for input}{emote: Happiness}いやぁー、{pause 8}{ruby (charSpan 1): たす}助かったわ！
+"016"	{emote: Distress}ひゃーっ！{pause 8}	{ruby (charSpan 1): よ}良かったー！{Wait for input}{emote: Reset}{ruby (charSpan 1): たし}確かに　オレのだよ！{pause 20}	{emote: Worry}なくしちまって　どうしようかと{pause 8}	{ruby (charSpan 2): とほう}途方に{ruby (charSpan 1): く}暮れてたのさ	{emote: Happiness}ホント、{pause 8}{ruby (charSpan 1): たす}助かったわ！
+"017"	{emote: Surprise}あっ！{pause 15}	{emote: Reset}これは　{ruby (charSpan 2): まちが}間違いなく{pause 8}　オレの{ruby (charSpan 2): かみぶくろ}紙袋だぜ！{pause 20}	こないだから　{ruby (charSpan 1): さが}探してたんだよ！	{emote: Happiness}どこかに　{ruby (charSpan 1): お}置き{ruby (charSpan 1): わす}忘れたんだな！{pause 20}	いやぁー、{pause 8}{ruby (charSpan 1): たす}助かったわ！
+"018"	{emote: Surprise}あーっ！{pause 15}	{emote: Reset}これ　{ruby (charSpan 1): さが}探してたんだよ！{pause 20}	{ruby (charSpan 2): まちが}間違いなく　オレの{ruby (charSpan 2): かみぶくろ}紙袋だ！	{emote: Happiness}ほら、{pause 8}{ruby (charSpan 1): ふくろ}袋の{ruby (charSpan 1): そこ}底に　サインペンで{pause 15}	{Villager's name (orange)}って　{ruby (charSpan 1): か}書いてあるだろ？{pause 20}	いやぁー、{ruby (charSpan 1): たす}助かったわ！
+"019"	{emote: Happiness}わざわざ　{ruby (charSpan 1): とど}届けてくれて{pause 8}	ありがとな！{Wait for input}こんなモンしか　{ruby (charSpan 1): も}持ち{ruby (charSpan 1): あ}合わせてねぇが、{pause 8}	お{ruby (charSpan 1): れい}礼に　この　{0011-0003-0002-0000}を	もらってくんな！{pause 20}　{catchphrase}！
+"020"	{emote: Happiness}{ruby (charSpan 2): かんしゃ}感謝の{ruby (charSpan 2): きも}気持ちに{pause 8}	この　{0011-0003-0002-0000}を、{pause 8}	もらってくんな！{pause 20}　{catchphrase}！
+"021"	{emote: Happiness}わざわざ　{ruby (charSpan 1): も}持って{ruby (charSpan 1): き}来てくれて{pause 8}	ありがとよ！{Wait for input}お{ruby (charSpan 1): れい}礼と{ruby (charSpan 1): い}言っちゃ　なんだが{pause 8}	この　{0011-0003-0002-0000}を、	{ruby (charSpan 1): も}持ってってくれ！{pause 20}　{catchphrase}！
+"022"	{emote: Soft Smile}もう{ruby (charSpan 1): お}落とさねぇように{pause 8}　{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けるぜ！
+"023"	{emote: Soft Smile}もう{ruby (charSpan 1): お}落とさねぇように{pause 8}	{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けなきゃな！
+"024"	{emote: Soft Smile}{ruby (charSpan 1): ひろ}拾ってくれたのが{pause 8}	オメェで　{ruby (charSpan 1): よ}良かったぜ！

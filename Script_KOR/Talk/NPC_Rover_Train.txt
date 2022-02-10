@@ -1,64 +1,64 @@
 == 0 ==
-"001"	{pause 10}
-"002"	{emote: Happiness}
-"003"	{emote: Shocked}
-"004"	{Year}
-"005"	{emote: Alarmed}
-"006"	{emote: Sunny}
-"007"	{pause 5}
-"008"	{pause 5}
-"009"	그런데 당신{pause 8}!
-"010"	{emote: Reset}
-"011"	{emote: Agreement}
-"012"	{emote: Agreement}
-"013"	{pause 5}
-"014"	{pause 5}
-"015"	아, {Player name}
-"016"	{Town name (pink)}
-"017"	{emote: Thought}
-"018"	어? {pause 8}
-"019"	{emote: Thought}
-"020"	{emote: Alarmed}
-"021"	{emote: Worry}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
-"024"	근데 {pause 8}
-"025"	아, {pause 5}
-"026"	{pause 5}
-"027"	{emote: Happiness}
-"028"	{emote: Shocked}
-"029"	에엥?!{pause 10}
-"030"	{emote: Alarmed}
-"031"	{pause 5}
-"032"	{pause 5}
-"033"	{pause 5}
-"034"	{pause 5}
-"035"	{emote: Laughter}
-"036"	{pause 5}
-"037"	{pause 5}
-"038"	{pause 5}
-"039"	{pause 5}
-"040"	좋았어～!{pause 15}
-"041"	{emote: Alarmed}
-"042"	{pause 5}
-"043"	{emote: Alarmed}
-"044"	{emote: Happiness}
-"045"	{pause 5}
-"046"	
-"047"	
-"048"	
-"049"	{emote: Surprise}
-"051"	{pause 5}
-"052"	{emote: Happiness}
-"053"	{emote: Laughter}
-"054"	근데 {pause 10}
-"055"	{emote: Alarmed}
-"056"	그런데 {pause 8}
-"057"	
-"058"	
-"059"	이번 역은～{pause 15}!
-"061"	근데 {pause 10}
-"062"	{pause 5}
-"063"	{emote: Surprise}
-"064"	
-"065"	
+"001"	{pause 10}저기,{pause 20} 잠깐만	{pause 5}실례 좀 할게!{emote: Reset}{Wait for input}지금{pause 8}	{Year}년 {Month}월 {Day}일{pause 15}	{am/pm} {Hour}시 {Minutes}분{pause 5}{emote: Curious} 맞아?{000f-0005-0004-0000-0000}	응, 맞아	아닌데
+"002"	{emote: Happiness}맞구나, {pause 10}다행이다ー!{Wait for input}	내 시계, {pause 5}{emote: Resigned}{pause 10}자주 고장나거든ー
+"003"	{emote: Shocked}{pause 5}앗! {pause 8}아냐?!{pause 15}	{emote: Reset}그럼 좀 알려줄 수 있을까?
+"004"	{Year}년 {Month}월 {Day}일{pause 5}	{am/pm} {Hour}시 {Minutes}분{pause 5}・{pause 5}・{pause 5}・{pause 10}!{Wait for input}	{emote: Curious}이제 됐어?{confirmation-02}{000f-0005-0004-0000-0000}	응, 딱이야!	아니라니까!
+"005"	{emote: Alarmed}응? {pause 15}잘못 들었나?{pause 20}	{emote: Happiness}그럼 한 번만 더 알려줄래?
+"006"	{emote: Sunny}{pause 5}고마워!{pause 15}	시계를 맞추고 오는 걸 깜빡했거든ー!
+"007"	{pause 5}・{pause 5}・{pause 5}・{pause 10}앞에 좀{pause 10} 앉을게!
+"008"	{pause 5}・{pause 5}・{pause 5}・{pause 5}어, {pause 5}{emote: Alarmed}{pause 10}어?!{pause 15}	{emote: Happiness}당신, {pause 5}{Player name}씨 맞지?!{Wait for input}{emote: Laughter}기억 안 나?{pause 15}	전에도 나랑 이렇게	기차 안에서 얘기했었잖아!{emote: Happiness}
+"009"	그런데 당신{pause 8}・{pause 8}・{pause 8}・{0007-0004-0000}{pause 10}{emote: Alarmed} {Text size 75%}아차!{Text size 100%}{pause 20}{0007-0005-0000}	{pause 5}{emote: Reset}{pause 10}우선 {emote: Curious}이름 먼저 가르쳐줄 수 있을까?
+"010"	{emote: Reset}아ー {pause 10}{Player name}씨구나{pause 5}・{pause 5}・{pause 5}・{pause 15}	{emote: Happiness}이름 좋다!{000f-0006-0006-0000-0000-0000}	멋지지	귀엽지	틀렸어
+"011"	{emote: Agreement}응응!{pause 15}	{emote: Happiness}남자다운 게, {pause 8}당신한테 딱 어울리네!{000f-0000-0004-0000-0000}	고마워!	나, 여잔데・・・
+"012"	{emote: Agreement}응응!{pause 15}	{emote: Happiness}여성스러운 게,{pause 8}	당신한테 딱 어울리네!{000f-0000-0004-0000-0000}	고마워!	나, 남잔데・・・
+"013"	{pause 5}{emote: Alarmed}{pause 5}어라, {pause 10}여자였구나!{Wait for input}	{emote: Worry}이거 정말 크게 실수했네, {pause 10}미안해!
+"014"	{pause 5}{emote: Alarmed}{pause 5}에엣?! {pause 10}남자였어?!{Wait for input}	{emote: Worry}이런 결례를! {pause 10}미안해
+"015"	아, {Player name}씨{pause 5}・{pause 5}・{pause 5}・{pause 15}	당신 지금 {pause 5}{emote: Curious}어디 가는 길이야?
+"016"	{Town name (pink)} 마을에 가는 거야?{000f-0005-0004-0000-0000}	맞아맞아!	아니야
+"017"	{emote: Thought}흐음～ {pause 8}{Town name (pink)} 마을이라{pause 8}・{pause 8}・{pause 8}・{pause 10}	들어본 적 없는 것 같은데{pause 5}	어디에 있는 마을이지{pause 8}・{pause 8}・{pause 8}・?	{pause 5}{emote: Inspired}{pause 10}아, {pause 10}그렇지!{pause 15}{emote: Reset} 나한테 지도가 있어{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Thought}이 열차를 탔으면{pause 8}・{pause 8}・{pause 8}・{pause 10}	{emote: Alarmed}{pause 10}혹시 {pause 5}여기쯤인가?!
+"018"	어? {pause 8}아니야?{pause 20}	{emote: Reset}그럼{pause 8}・{pause 8}・{pause 8}・{pause 8} 여긴가?
+"019"	{emote: Thought}여기도 아니구나{pause 8}・{pause 8}・{pause 8}・{pause 8}	그럼{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Curious} 이 마을?
+"020"	{emote: Alarmed}이런, {pause 8}또 틀렸네!{pause 15}	{emote: Reset}・{pause 8}・{pause 8}・{pause 8}아,{pause 8} 그러면	{emote: Happiness}여기밖에 없겠다!
+"021"	{emote: Worry}뭐ー?!{pause 15} 그럴 리가!{pause 20}	{emote: Thought}그치만 {pause 5}이 노선에 있는 역은{pause 8}	이 정도뿐인데{pause 5}・{pause 5}・{pause 5}・	{emote: Happiness}다시 한 번 지도를 보여줄 테니까{pause 8}	자세히 살펴봐!{pause 15}	{emote: Reset}・{pause 8}・{pause 8}・{pause 8}우선{pause 8}{emote: Curious} 여긴 어때?
+"022"	{emote: Happiness}아하, {pause 8}여기가	{Town name (pink)} 마을이구나!
+"023"	{emote: Happiness}휴, {pause 8}찾아서 다행이네!{pause 20}	여기가 {Town name (pink)} 마을이었구나
+"024"	근데 {pause 8}당신은	{Town name (pink)} 마을에 {pause 8}자주 가는 편이야?{000f-0001-0006-0000-0000-0000}	가본 적 없어	기억 안 나	비밀!
+"025"	아, {pause 5}{emote: Happiness}오늘이 처음이구나!{pause 20}	그것참 기대되겠네{Wait for input}	근데 {pause 10}{emote: Curious}뭐하러 가는데?{000f-0000-0004-0000-0000}	이사	비밀!
+"026"	{pause 5}{emote: Alarmed}{pause 5}아～ {pause 5}그렇구나!{pause 10}	{emote: Happiness}좋겠다!{Wait for input}{emote: Reset}근데 {pause 5}실제로 처음 가본다는 건	{pause 5}집도 안 구해 놓고	간다는 얘기야?{000f-0000-0004-0000-0000}	이제부터 구할 거야	생각 안 해봤어
+"027"	{emote: Happiness}아, {pause 10}도착하고 나서{pause 5} 찾는구나!{pause 20}	하긴 그게 더	설레긴 하겠다!{Wait for input}{emote: Reset}당신한테 딱 어울리는 집을 구해서{pause 10}	새로운 마을에서{pause 5}	즐겁게 생활하길 바랄게!
+"028"	{emote: Shocked}{pause 10}에엣?!{pause 15} 그래도 괜찮겠어?{pause 20}	{emote: Thought}내가 괜히 걱정되는데{pause 8}・{pause 8}・{pause 8}・{Wait for input}{pause 5}{emote: Happiness}{pause 5}뭐, {pause 10}그래도 {Player name}씨는	왠지 운이 좋아보이기도 하고,{pause 15}	{emote: Laughter}이러쿵저러쿵해도 잘 풀릴 것 같아!{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}당신한테 딱 어울리는 집을 구해서{pause 10}	새로운 마을에서{pause 5}	즐겁게 생활하길 바랄게!
+"029"	에엥?!{pause 10} 안 알려줄 거야～?{pause 15}	{emote: Thought}흐음～ {pause 5}신경 쓰이네{pause 5}・{pause 5}・{pause 5}・{pause 10}	과연 뭘까{pause 5}・{pause 5}・{pause 5}・{pause 5}	{emote: Inspired}{pause 10}아, {pause 10}알겠다!{pause 15}	{emote: Reset}혹시 {pause 10}{emote: Curious}이사 가는 거 아냐?{000f-0000-0004-0000-0000}	정답ー!	들켰네・・・
+"030"	{emote: Alarmed}우와, {pause 10}정말?!{Wait for input}	{pause 5}{emote: Laughter}{pause 5}하하하! {pause 10}맞혀 버렸네!{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}그건 그렇고 이사라니 부럽다～!{pause 15}	{emote: Happiness}새로운 생활이 시작될 때는{pause 5}	두근두근하잖아!{Wait for input}{emote: Reset}새로운 곳에서의 생활을{pause 5}	즐겁게 보낼 수 있길 기도할게!
+"031"	{pause 5}{emote: Laughter}{pause 5}하하하!{pause 10}	야호!{pause 10} 내가 마음을 읽었네?{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}그건 그렇고 이사라니 부럽다～!{pause 15}	{emote: Happiness}새로운 생활이 시작될 때는{pause 5}	두근두근하잖아!{Wait for input}{emote: Reset}새로운 곳에서의 생활을{pause 5}	즐겁게 보낼 수 있길 기도할게!
+"032"	{pause 5}{emote: Alarmed}{pause 5}아, {pause 10}그래?!{Wait for input}	{emote: Reset}그럼{pause 5}・{pause 5}・{pause 5}・{pause 5} 오늘은 대체	{emote: Curious}뭘 하러 가는데?{000f-0000-0004-0000-0000}	이사	몰라
+"033"	{pause 5}{emote: Thought}{pause 5}우와～{pause 8}・{pause 8}・{pause 8}・{pause 15}	생판 모르는 곳으로	이사를 가다니, {pause 10}대단하다{Wait for input}뭔가 신비한 힘이	당신을 이끌고 있는 걸까{pause 5}・{pause 5}・{pause 5}・{pause 5}?{000f-0000-0004-0000-0000}	그런 것 같아	그런 건 아냐
+"034"	{pause 5}{emote: Surprise}{pause 5}역시 {pause 10}{Player name}씨 본인도	그런 예감이 드는가 보네!{Wait for input}	{emote: Happiness}분명 엄청난 인연이 있을 거야!	{emote: Thought}이렇게 이끌려 간 곳에는	과연 어떤 일들이 기다리고 있을까{pause 5}・{pause 5}・{pause 5}・{pause 20}	{emote: Happiness}{pause 5}상상만 해도 두근거린다!{Wait for input}{Player name}씨가{pause 5}	{Town name (pink)} 마을에서 멋진 만남을	갖게 되길 기도할게!
+"035"	{emote: Laughter}아하하!{pause 20}	그런데도 굳이 이사를 하다니{pause 10}	그거야말로 신비한 일이네!{emote: Happiness}	아무튼 {pause 10}{Player name}씨가	{Town name (pink)} 마을에서 즐거운 생활을	보내길 기도할게!
+"036"	{pause 5}{emote: Thought}{pause 5}우와～{pause 8}・{pause 8}・{pause 8}・{pause 15}	{emote: Happiness}정말로 마음 내키는대로	가는가 보네?!{Wait for input}{pause 5}{emote: Laughter}{pause 5}혹시 이대로	{Town name (pink)} 마을에	눌러살게 되는 거 아닐까?!{pause 5}{emote: Happiness}{000f-0000-0004-0000-0000}	그럴 생각이야	그럴 것 같아
+"037"	{pause 5}{emote: Alarmed}{pause 5}오! {pause 10}그래?!{pause 15}	{emote: Reset}벌써 마음을 정했다니,{pause 10} {emote: Agreement}그 정도로	당신을 이끄는 뭔가가 있나 보네	{emote: Thought}바람 따라 구름 따라 찾아간 곳에는	과연 어떤 일들이 기다리고 있을까{pause 5}・{pause 5}・{pause 5}・{pause 20}	{emote: Happiness}{pause 5}상상만 해도 두근거린다!{Wait for input}{Player name}씨에게{pause 5}	{Town name (pink)} 마을에서 멋진 만남이	찾아오길 기도할게!
+"038"	{pause 5}{emote: Alarmed}{pause 5}역시 {pause 10}{Player name}씨 본인도	그런 예감이 드는가 보네!{Wait for input}{emote: Thought}이렇게 바람따라 구름따라 찾아간 곳에는	과연 어떤 일들이 기다리고 있을까{pause 5}・{pause 5}・{pause 5}・{pause 20}	{emote: Happiness}{pause 5}상상만 해도 두근거린다!{Wait for input}{Player name}씨에게{pause 5}	{Town name (pink)} 마을에서 멋진 만남이	찾아오길 기도할게!
+"039"	{pause 5}{emote: Laughter}{pause 5}하하하! {pause 10}비밀이구나!{pause 20}	{emote: Reset}그럼 {pause 10}뭘 하러 가는지도	{emote: Glare}비밀인가?{000f-0000-0004-0000-0000}	물론 비밀이지	이사하는 거야
+"040"	좋았어～!{pause 15}	{emote: Happiness}그럼 내가 추리해볼게!{Wait for input}{emote: Thought}어디 보자{pause 5}・{pause 5}・{pause 5}・{pause 10}	그런 차림새에	짐도 없으면{pause 5}・{pause 5}・{pause 5}・{Wait for input}{pause 5}{emote: Inspired}{pause 10}아, {pause 5}알았다!{pause 15}	정답은 바로{pause 5}・{pause 5}・{pause 5}・ {emote: Curious}이사?!{000f-0000-0004-0000-0000}	딩동댕ー!	꽤 예리한데・・・
+"041"	{emote: Alarmed}오, {pause 10}정말이야?!{Wait for input}	{pause 5}{emote: Laughter}{pause 5}하하하! {pause 10}실은 적당히 말해본 건데,{pause 10}	맞혀 버렸네!{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}그건 그렇고 이사라니 부럽다～!{pause 15}	{emote: Happiness}새로운 생활이 시작될 때는{pause 5}	두근두근하잖아!{Wait for input}{emote: Reset}당신이 {Town name (pink)} 마을에서	즐거운 생활을 보내길 기도할게!
+"042"	{pause 5}{emote: Laughter}{pause 5}하하하!{pause 10}	당신, {pause 10}되게 재밌는 사람 같아!{pause 10}{emote: Happiness}{Wait for input}{emote: Reset}그건 그렇고 이사라니 부럽다～!{pause 15}	{emote: Happiness}당신처럼 재밌는 사람이라면{pause 10}	분명 즐거운 나날을 보낼 수 있을 거야!{Wait for input}{emote: Reset}당신이 {Town name (pink)} 마을에서	즐거운 생활을 보내길 기도할게!
+"043"	{emote: Alarmed}어랏?!{pause 15}	그건 그냥 쉽게 알려주네?{Wait for input}{pause 5}{emote: Laughter}{pause 5}하하하!{pause 10}	당신, {pause 10}되게 재밌는 사람 같아!{pause 10}{emote: Happiness}{000f-0000-0004-0000-0000}	그런 말 자주 들어	니가 이상한 거야
+"044"	{emote: Happiness}역시 그렇지?!{Wait for input}{emote: Reset}그건 그렇고 이사라니 부럽다～!{pause 15}	{emote: Happiness}당신처럼 재밌는 사람이라면{pause 10}	분명 즐거운 나날을 보낼 수 있을 거야!{Wait for input}{emote: Reset}당신이 {Town name (pink)} 마을에서	즐거운 생활을 보내길 기도할게!
+"045"	{pause 5}{emote: Laughter}{pause 10}하하하!{pause 15}	역시 재밌어!{pause 10}{emote: Happiness}{Wait for input}당신 정말 {pause 10}괜찮다～!{pause 20}	{emote: Reset}당신과 같은 마을에 살면{pause 5}	분명 매일이 즐거울 거야	{emote: Happiness}나도 괜히 {Town name (pink)} 마을로	이사하고 싶어지는데?!{Wait for input}	{pause 5}・{pause 5}・{pause 5}・{pause 5}{emote: Laughter}{pause 10}좀 오버했나? {pause 10}{emote: Happiness}하하하!{Wait for input}{emote: Reset}아무튼 {pause 10}당신이 {Town name (pink)} 마을에서	알찬 나날을 보낼 수 있도록	기도할게!
+"046"
+"047"
+"048"
+"049"	{emote: Surprise}앗!{pause 15}	{emote: Reset}벌써 {Town name (pink)} 마을에 도착했나 보네{Wait for input}같이 수다 떨어줘서	고마워!{Wait for input}	{emote: Happiness}덕분에 {pause 5}정말 재밌었어{Wait for input}{emote: Greetings}그럼 {pause 5}건강하게 잘 지내!{pause 15}	바이바이!
+"051"	{pause 5}{emote: Alarmed}{pause 10}저기저기!{pause 10}{emote: Reset} 잠깐 얘기 좀 할까?{Wait for input}	{emote: Happiness}아까 {pause 5}{Town name (pink)} 마을행	기차표{pause 5} 샀지?!{Wait for input}{emote: Reset}나, {pause 10}그 마을에	아는 사람이 있거든ー!{Wait for input}아, {pause 10}{emote: Happiness}좀 앉아도 될까?{000f-0005-0004-0000-0000}	응, 앉아!	안 돼!
+"052"	{emote: Happiness}헤헤! {pause 10}고마워!
+"053"	{emote: Laughter}너무 매정하게 {pause 5}그러지 마!
+"054"	근데 {pause 10}{emote: Soft Smile}당신은 이름이 뭐야?
+"055"	{emote: Alarmed}뭐?!{pause 10}	당신도 {Player name}씨라구?!{Wait for input}{emote: Reset}내가 아는 {Town name (pink)} 마을 사람도	{Player name}{000e-000e-0006-0002-c774-0000}란 이름인데～!{Wait for input}{emote: Thought}흐～음{pause 5}・{pause 5}・{pause 5}・{pause 10}	{emote: Reset}헷갈릴 수도 있으니까{pause 5}	{emote: Happiness}다른 별명을 알려줘!
+"056"	그런데 {pause 8}{Player name}씨는	{Town name (pink)} 마을에 {pause 5}{emote: Curious}자주 가?{000f-0001-0006-0000-0000-0000}	가본 적 없어	기억 안 나	비밀!
+"057"
+"058"
+"059"	이번 역은～{pause 15}	　　　　{Town name (pink)} 마을～{pause 15}	　　　　　　　　　{Town name (pink)} 마을～{Wait <005a 0000> 'time'}
+"061"	근데 {pause 10}오늘은 {emote: Curious}어디까지 가는 거야?
+"062"	{pause 5}{emote: Alarmed}{pause 10}그건 그렇고, 짐이 엄청 많네{pause 5}・{pause 5}・{pause 5}・{pause 15}	{emote: Reset}{Town name (pink)} 마을엔 대체	뭐하러{pause 5}・{pause 5}・{pause 5}・{0007-0008-0004-003c-0000}
+"063"	{emote: Surprise}앗!{pause 15}	{emote: Reset}벌써 {Town name (pink)} 마을에 도착했네{Wait for input}이것저것 얘기하고 싶었는데 {pause 5}아쉽다!{pause 15}	{emote: Happiness}그래도 {pause 10}또 만나서 반가웠어!{Wait for input}{emote: Greetings}{pause 5}그럼 {pause 10}잘 지내～
+"064"
+"065"

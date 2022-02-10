@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{0011-0001-0002-01-00}한테 용건이 있는데{pause 15}
-"002"	{0011-0001-0002-01-00}한테 할 얘기가 있는데{pause 15}
-"003"	{emote: Anger}
-"004"	{emote: Worry}
-"005"	너 근처에서{pause 15}!
-"006"	
-"007"	{emote: Alarmed}
-"008"	{emote: Alarmed}
-"009"	{emote: Alarmed}
-"010"	
-"011"	{emote: Worry}
-"012"	그렇지?{pause 15}
-"013"	{emote: Alarmed}
-"014"	
-"015"	
-"016"	
-"017"	
-"018"	
-"019"	
+"001"	{0011-0001-0002-0001}한테 용건이 있는데{pause 15}	사정이 있어서 {pause 8}내가 지금 집을 못 비워{Wait for input}{emote: Happiness}{Blue}1시간 안{Color Reset}으로 여기에	데려와줬으면 좋겠는데{pause 15}	부탁해도 되겠냐?{000f-0005-0004-0015-0028}	오케이	좀 바빠서
+"002"	{0011-0001-0002-0001}한테 할 얘기가 있는데{pause 15}	내가 지금은 좀{pause 8}	자리를 뜰 수가 없어서{pause 8}・{pause 8}・{pause 8}・	{emote: Worry}진짜 미안하지만{pause 15}	{emote: Happiness}니가 {0011-0001-0002-0001}{000e-000e-0008-0002-c744-0002-b97c} 찾아서{pause 8}	데려와줄래?!	{Blue}1시간 안{Color Reset}으로 부탁한다!{000f-0005-0004-0015-0028}	오케이	좀 바빠서
+"003"	{emote: Anger}{0011-0001-0002-0001} 녀석{pause 15}	어딜 간 거야!{Wait for input}{emote: Reset}녀석한테 볼일이 있어서	마을을 다 뒤졌는데{pause 15}	{emote: Worry}아무 데도 안 보이네!	{emote: Happiness}미안하지만 니가 좀{pause 15}	{0011-0001-0002-0001}{000e-000e-0008-0002-c744-0002-b97c} 찾아서{pause 8}	여기에 데려다줄 수 있을까?	{Blue}1시간 안{Color Reset}으로 부탁한다!{000f-0005-0004-0015-0028}	오케이	좀 바빠서
+"004"	{emote: Worry}아아, {pause 15}이럴 줄 알았으면{pause 8}	제대로 약속을 잡아 둘걸{Wait for input}{emote: Thought}{0011-0001-0002-0001}{000e-000e-0006-0002-c774-0000}랑 만날 약속을{pause 8}	한 것도 같고{pause 8}・{pause 8}・{pause 8}・{pause 8} 안 한 것도 같고{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}내가 찾아나서면{pause 8}	엇갈릴지도 모르잖아{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}미안하지만 {Player nickname (green)},{pause 20}	{emote: Happiness}니가 좀 찾아보고{pause 8} {Blue}1시간 안{Color Reset}으로	데려올 수 없을까?!{000f-0005-0004-0015-0028}	오케이	좀 바빠서
+"005"	너 근처에서{pause 15}	{0011-0001-0002-0001}{pause 8}{emote: Curious} 못 봤냐?{Wait for input}{emote: Reset}아니, {pause 8}그 녀석한테 볼일이 있어서	찾고 있는데{pause 15}	{emote: Worry}코빼기도 안 보이네	{emote: Reset}저기, {Player nickname (green)}{pause 20}	{emote: Happiness}니가 나가서 녀석을 찾아다가{pause 8}	여기에 데려와줄래?!	{Blue}1시간 안{Color Reset}으로 부탁한다!{000f-0005-0004-0015-0028}	오케이	좀 바빠서
+"006"
+"007"	{emote: Alarmed}괜찮겠어?!{pause 20}	{emote: Joy}헤헷, {pause 8}역시 말하고 볼 일이구만!{Wait for input}{emote: Happiness}그럼{pause 8} 잘 부탁해, {pause 20}{catchphrase}!
+"008"	{emote: Alarmed}오오!{pause 20}	{emote: Happiness}그것 참 고맙군!{Wait for input}그럼{pause 8} 잘 부탁해!{pause 15}	기다릴게, {pause 20}{catchphrase}!
+"009"	{emote: Alarmed}오! {pause 8}정말?!{pause 15}	{emote: Happiness}역시 너한테 말하길 잘했어!{Wait for input}그럼 부탁한다!{pause 20} {catchphrase}!
+"010"
+"011"	{emote: Worry}그렇군{pause 8}・{pause 8}・{pause 8}・{pause 15}	{emote: Reset}아쉽지만 어쩔 수 없지{Wait for input}	{emote: Happiness}고마워!
+"012"	그렇지?{pause 15}	{emote: Happiness}남한테 떠넘기지 말고 내가 해야겠지?!{pause 20}	{emote: Laughter}으ー하하핫!{pause 30}{emote: Happiness}
+"013"	{emote: Alarmed}역시나!{Wait for input}	{emote: Happiness}괜찮아,{pause 15}	신경 쓰지 마!
+"014"
+"015"
+"016"
+"017"
+"018"
+"019"

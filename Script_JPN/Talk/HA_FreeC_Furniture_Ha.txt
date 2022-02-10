@@ -1,62 +1,62 @@
 == 0 ==
-"001"	アイツ、{pause 20}
-"002"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"003"	{emote: Thought}
-"004"	{emote: Agreement}
-"005"	{emote: Agreement}
-"006"	{0011-0003-0002-00-00}
-"007"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"008"	{emote: Worry}
-"009"	{emote: Happiness}
-"010"	{emote: Glare}
-"011"	{0011-0003-0002-00-00}
-"012"	{0011-0003-0002-00-00}
-"013"	{emote: Anger}
-"014"	{0011-0001-0002-00-00}
-"015"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"016"	はにわって{pause 20}
-"017"	{emote: Thought}
-"018"	{emote: Happiness}
-"019"	{emote: Laughter}
-"020"	{emote: Resigned}
-"021"	{0011-0003-0002-00-00}
-"022"	{emote: Sunny}
-"023"	{0011-0003-0002-00-00}
-"024"	{emote: Thought}
-"025"	{emote: Happiness}
-"026"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"027"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"028"	{0011-0003-0002-00-00}
-"029"	{0011-0003-0002-00-00}
-"030"	{emote: Distress}
-"031"	{0011-0003-0002-00-00}
-"032"	{0011-0003-0002-00-00}
-"033"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"034"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"035"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"036"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"037"	{emote: Thought}
-"038"	{emote: Happiness}
-"039"	{emote: Thought}
-"040"	{emote: Agreement}
-"041"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"042"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"043"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"044"	{0009-0004-000c-38-00-39-00-3a-00-3b-00-3c-00-3d-00}
-"045"	
-"046"	
-"047"	
-"048"	
-"049"	
-"050"	
-"051"	
-"052"	
-"053"	
-"054"	
-"055"	
-"056"	{emote: Agreement}
-"057"	この{ruby (charSpan 2): へや}部屋{pause 8}
-"058"	{emote: Happiness}
-"059"	せっかく　{ruby (charSpan 2): さんにん}三人　{ruby (charSpan 1): あつ}集まったんだし、{pause 20}
-"060"	オマエ、{pause 20}
-"061"	{emote: Glee}
+"001"	アイツ、{pause 20}{0011-0003-0002-0000}を	かってるんだなー{Wait for input}{emote: Worry}ちぇーーっ！{pause 20}	{ruby (charSpan 2): おおもの}大物が　{ruby (charSpan 1): つ}釣れたって	じまんしてるんだなー？！{Wait for input}{emote: Distress}オイラも　{0011-0003-0002-0000}	ねらってたのに{pause 8}・{pause 8}・{pause 8}・{pause 20}	くやしーよ、{pause 8}{catchphrase}
+"002"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"003"	{emote: Thought}{ruby (charSpan 2): しょくぶつ}植物も　{ruby (charSpan 1): そだ}育てたやつに	にるのかな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}{0011-0003-0002-0000}、{pause 20}	アイツに　にて、{pause 8}たくましく　{ruby (charSpan 1): そだ}育ってる	{ruby (charSpan 1): き}気がしないかー？　{pause 8}{catchphrase}？
+"004"	{emote: Agreement}{0011-0003-0002-0001}、{pause 20}	いい{ruby (charSpan 1): きょく}曲だなー！{Wait for input}{emote: Sunny}{ruby (charSpan 1): あつ}熱いアイツのイメージに	ピッタリだー！　{pause 8}{catchphrase}！
+"005"	{emote: Agreement}{ruby (charSpan 2): ともだち}友達ん{ruby (charSpan 1): ち}家で、{pause 20}	テレビ{ruby (charSpan 1): み}見て　くつろいでるヤツって	いるだろー？{Wait for input}{emote: Laughter}あれが　オイラだー！{pause 20}	ハハッ！{pause 40}{emote: Soft Smile}
+"006"	{0011-0003-0002-0000}があるけど、{pause 40}	{emote: Curious}アイツ　{ruby (charSpan 2): がっき}楽器なんて	えんそうできんのかー？{Wait for input}{emote: Laughter}きっと、{pause 20}いきおいで{ruby (charSpan 1): か}買ったけど{pause 20}	ぜんぜん　{ruby (charSpan 2): れんしゅう}練習してないんだろーな！{pause 40}{emote: Soft Smile}
+"007"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"008"	{emote: Worry}アイツのベッド、{pause 20}	ねあせが　すごそうだな{pause 8}・{pause 8}・{pause 8}・
+"009"	{emote: Happiness}アイツ{pause 20}　ぜいたくなベッド	{ruby (charSpan 1): つか}使ってるんだなー{Wait for input}{emote: Glee}{0011-0003-0002-0000}の{ruby (charSpan 1): うえ}上で	ふっきん{ruby (charSpan 2): うんどう}運動とか{pause 20}	サイコーだー！　{pause 8}{catchphrase}！
+"010"	{emote: Glare}{0011-0003-0002-0000}{pause 8}・{pause 8}・{pause 8}・{pause 40}	いいソファ　{ruby (charSpan 1): つか}使ってるなー！{Wait for input}{emote: Happiness}つかれたときに　いいソファにすわると、{pause 20}	つかれが{ruby (charSpan 1): と}取れるんだぞー？{Wait for input}{emote: Agreement}アイツは　やっぱり	わかってるよ、{pause 8}{catchphrase}！
+"011"	{0011-0003-0002-0000}{pause 20}	ムダに　デカいよなー！{Wait for input}{emote: Curious}あとで　{ruby (charSpan 2): さんにん}三人で	すわってみるかー？{Wait for input}{emote: Laughter}きっと{pause 20}　ギューギューの	おしくらまんじゅうだな！{pause 20}	ハハッ！{pause 40}{emote: Soft Smile}
+"012"	{0011-0003-0002-0000}が	{ruby (charSpan 1): お}置いてあるけど、{Wait for input}{emote: Laughter}アイツ　{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着きないから	あんまり　{ruby (charSpan 1): つか}使ってなさそうだなっ！{pause 20}	ハハッ！{pause 40}{emote: Soft Smile}
+"013"	{emote: Anger}アイツ{pause 20}　{0011-0003-0002-0000}を	かってんのかー{Wait for input}{ruby (charSpan 2): じぶん}自分が　つかまえたこと	じまんしてるんだな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}チクショー！{pause 20}	オイラも　{0011-0003-0002-0000}	ねらってたのにー、{pause 8}{catchphrase}
+"014"	{0011-0001-0002-0000}が、{pause 20}	{0011-0003-0002-0000}の{ruby (charSpan 1): なか}中	{ruby (charSpan 1): み}見るのは　やめとけってさ！{Wait for input}{emote: Worry}あらってない　くつしたが	{ruby (charSpan 1): い}入れてあるらしいぞ！
+"015"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"016"	はにわって{pause 20}　{emote: Curious}{ruby (charSpan 1): も}持ち{ruby (charSpan 1): ぬし}主のシュミが	わかる{ruby (charSpan 1): き}気がしないか？{Wait for input}{emote: Thought}{0011-0003-0002-0000}は{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Greetings}{0011-0001-0002-0000}タイプ！{Wait for input}{emote: Laughter}ハハッ！{pause 20}	それっぽい　それっぽい！{pause 40}{emote: Soft Smile}
+"017"	{emote: Thought}{0011-0003-0002-0000}って、{pause 20}	{emote: Curious}アイツの　トレーニングウェアかな？{Wait for input}{emote: Happiness}あらったばっかりで、{pause 20}	かわかしてるのかも　{ruby (charSpan 1): し}知れないな！	{pause 8}{catchphrase}！
+"018"	{emote: Happiness}{0011-0003-0002-0000}、{pause 20}	いいよなー！{pause 20}　{ruby (charSpan 1): あそ}遊び{ruby (charSpan 2): ほうだい}放題だー！{Wait for input}	{emote: Sunny}{ruby (charSpan 1): あと}後で　アイツと{ruby (charSpan 2): たいせん}対戦しよーっと！
+"019"	{emote: Laughter}ハハッ！{pause 20}	やっぱり　あると{ruby (charSpan 1): おも}思ったよ！{pause 20}	ふっきん　かくにん{ruby (charSpan 1): よう}用ドレッサー！{pause 40}{emote: Soft Smile}{Wait for input}{emote: Agreement}もっと　もっと{pause 20}	{ruby (charSpan 1): おお}大きな{ruby (charSpan 1): かがみ}鏡のついてるやつを{pause 8}	オイラは　さがしてるんだよなー
+"020"	{emote: Resigned}{0011-0001-0002-0000}の　{ruby (charSpan 1): ほん}本だなにある{ruby (charSpan 1): ほん}本って、{pause 20}	オイラん{ruby (charSpan 1): ち}家にあるの	ばっかりなんだよなー{Wait for input}{emote: Sheepishness}{ruby (charSpan 1): おな}同じキントレを　{ruby (charSpan 1): ため}試してそうで{pause 20}	ちょっと　イヤだな、{pause 8}{catchphrase}
+"021"	{0011-0003-0002-0000}が　あるけど、{pause 20}	アイツも　いちおう	そうじとか　するんだな！
+"022"	{emote: Sunny}さすが　{0011-0001-0002-0000}！{pause 40}	{0011-0003-0002-0000}を	かざってるなんて{pause 20}　いいシュミしてるよ！{Wait for input}{emote: Pride}きょうりゅうの{ruby (charSpan 2): じだい}時代は、{pause 20}	{ruby (charSpan 1): おとこ}男のあこがれなんだ！　{pause 8}{catchphrase}！
+"023"	{0011-0003-0002-0000}が	{ruby (charSpan 1): だ}出してあるけど、{pause 20}	{emote: Curious}{ruby (charSpan 2): たぶん}多分　オマエ{ruby (charSpan 1): よう}用だぞ？{Wait for input}{emote: Pride}だって　オイラは{pause 20}	キンキンに{ruby (charSpan 1): ひ}冷やした	{ruby (charSpan 2): むぎちゃ}麦茶がいいって{pause 8}　{ruby (charSpan 1): い}言ってあるからな！
+"024"	{emote: Thought}{0011-0003-0002-0000}には、{pause 20}	べんざを　{ruby (charSpan 1): あった}温めるきのうは	ついてるのかなー{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Disagreement}まぁ{pause 20}　オイラは	{ruby (charSpan 1): つめ}冷たい{ruby (charSpan 1): は}派なんだけどさ！{Wait for input}{emote: Love}おしりが　ヒヤっとする	あの{ruby (charSpan 1): かん}感じ、{pause 20}サイコーだー！	{pause 8}{catchphrase}！
+"025"	{emote: Happiness}{0011-0001-0002-0000}のへやに{pause 20}	{0011-0003-0002-0000}が	あるなんて　ビックリだなー{Wait for input}{emote: Worry}でも{pause 8}・{pause 8}・{pause 8}・{pause 20}	すごい{ruby (charSpan 1): りょう}量の　ほこりが{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Resigned}{ruby (charSpan 1): まえ}前に{ruby (charSpan 2): きどう}起動したの	いつだよー、{pause 8}{catchphrase}
+"026"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"027"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"028"	{0011-0003-0002-0000}が	{ruby (charSpan 1): お}置かれてるけど{Wait for input}{emote: Sheepishness}あれって　きっと{pause 20}	アイツの　{ruby (charSpan 1): た}食べかけだよな、{pause 8}{catchphrase}
+"029"	{0011-0003-0002-0000}が	あるってことは、{pause 20}	アイツ　{ruby (charSpan 2): たいじゅう}体重{ruby (charSpan 1): き}気にしてるのかー{Wait for input}{emote: Pride}まぁ{pause 20}　スポーツマンとしては	とうぜんだな！　{pause 8}{catchphrase}！
+"030"	{emote: Distress}{0011-0003-0002-0000}、{pause 20}	ゲームセンターみたいで	うらやましいなー！　{pause 8}{catchphrase}！
+"031"	{0011-0003-0002-0000}が	あるなんて、{pause 20}	{emote: Curious}アイツ　{ruby (charSpan 2): いがい}意外とオトメチック？{Wait for input}{emote: Inspired}あ、{pause 20}でも{pause 40}	{emote: Happiness}プロレスわざの{ruby (charSpan 2): れんしゅう}練習とかに	{ruby (charSpan 1): つか}使ってるのかもな！　{pause 8}{catchphrase}！
+"032"	{0011-0003-0002-0000}が	あるなんて、{pause 20}	{emote: Curious}アイツ　{ruby (charSpan 2): いがい}意外とオトメチック？{Wait for input}{emote: Inspired}あ、{pause 20}でも{pause 40}	{emote: Happiness}プロレスわざの{ruby (charSpan 2): れんしゅう}練習とかに	{ruby (charSpan 1): つか}使ってるのかもな！　{pause 8}{catchphrase}！
+"033"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"034"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"035"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"036"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"037"	{emote: Thought}ここにいると、{pause 20}	{ruby (charSpan 2): きも}気持ちが　メラメラしてくると	{ruby (charSpan 1): おも}思ったら{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Shocked}{0007-000b-0000}{0011-0003-0002-0000}が	あるじゃんかーーっ！{Wait for input}{emote: Distress}うぉーーっ！{pause 40}	{ruby (charSpan 2): しあい}試合{ruby (charSpan 2): かいし}開始のゴングが	{ruby (charSpan 1): き}聞こえる{ruby (charSpan 1): き}気がするよー！{Wait for input}	{emote: Surprise}{0007-000b-0000}{Text size 150%}{Gray}カーンッ！{Color Reset}{Text size 100%}
+"038"	{emote: Happiness}{0011-0001-0002-0000}のプロレスマット	けっこう　いいんだぞー！{Wait for input}{emote: Sunny}ここで　いつか{pause 20}	{Town name (pink)}{ruby (charSpan 1): むら}村　トーナメントを	かいさい　したいな！　{pause 8}{catchphrase}！
+"039"	{emote: Thought}{0011-0003-0002-0000}かー{pause 40}	ちょっと　{ruby (charSpan 1): ち}小っちゃいけど、{pause 20}	バタ{ruby (charSpan 1): あし}足で{ruby (charSpan 2): きょうそう}競争くらいなら　できるかな？{Wait for input}{emote: Sunny}アイツとなら　いい{ruby (charSpan 2): しょうぶ}勝負に	なりそうだー、{pause 8}{catchphrase}
+"040"	{emote: Agreement}{0011-0001-0002-0000}のヤツ、{pause 20}	{0011-0003-0002-0000}なんて	{ruby (charSpan 1): つか}使ってるんだな{Wait for input}{emote: Thought}トレーニングのあとは{pause 20}	アレで　アセを{ruby (charSpan 1): なが}流してるのかー{Wait for input}{emote: Sunny}へへっ！{pause 20}	オイラも　{ruby (charSpan 2): こんど}今度	{ruby (charSpan 1): つか}使わせてもらおーっと！　{pause 8}{catchphrase}！
+"041"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"042"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"043"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"044"	{0009-0004-000c-0038-0039-003a-003b-003c-003d}
+"045"
+"046"
+"047"
+"048"
+"049"
+"050"
+"051"
+"052"
+"053"
+"054"
+"055"
+"056"	{emote: Agreement}{0011-0001-0002-0000}の{ruby (charSpan 2): へや}部屋も	なかなかだなー{pause 8}・{pause 8}・{pause 8}・{Wait for input}まぁ　もちろん、{pause 20}	{emote: Pride}オイラの{ruby (charSpan 2): へや}部屋が	{ruby (charSpan 2): いちばん}一番だけどさ！　{pause 8}{catchphrase}！
+"057"	この{ruby (charSpan 2): へや}部屋{pause 8}・{pause 8}・{pause 8}・{pause 40}	アイツのシュミ　{ruby (charSpan 2): まるだ}丸出しだよな！
+"058"	{emote: Happiness}オマエ　{ruby (charSpan 2): こんど}今度、{pause 20}	オイラの{ruby (charSpan 2): へや}部屋にも　{ruby (charSpan 1): き}来てくれよー？{Wait for input}そんで、{pause 20}{0011-0001-0002-0000}の{ruby (charSpan 2): へや}部屋と{pause 8}	どっちが　カッコイイか	くらべてくれー！　{pause 8}{catchphrase}！
+"059"	せっかく　{ruby (charSpan 2): さんにん}三人　{ruby (charSpan 1): あつ}集まったんだし、{pause 20}	{emote: Greetings}{ruby (charSpan 2): さんにん}三人{ruby (charSpan 1): ひと}一{ruby (charSpan 1): くみ}組でやる　スポーツをさがそう！{Wait for input}{emote: Thought}・{pause 8}・{pause 8}・{pause 20}えーと{pause 40}	うーーんと{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}アレ？！{pause 40}	ぜんぜん　{ruby (charSpan 1): おも}思いつかないぞ？！
+"060"	オマエ、{pause 20}{0011-0001-0002-0000}の{ruby (charSpan 2): へや}部屋には	{emote: Curious}よく{ruby (charSpan 1): く}来るのかー？　{pause 8}{catchphrase}？{Wait for input}{emote: Reset}オイラは　そんなに　{ruby (charSpan 1): こ}来ないけど{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Happiness}けっこう　いごこちいいよな！{pause 20}	この{ruby (charSpan 2): へや}部屋！
+"061"	{emote: Glee}うーん！{pause 20}	なんか　ムショーに	{0005-0011-0002-0000}　やりたくなってきたなー{Wait for input}{emote: Disagreement}って、{pause 40}いきなり　そんなこと{ruby (charSpan 1): はじ}始めたら、{pause 20}	{emote: Laughter}{0011-0001-0002-0000}に	おこられちゃうな！{pause 8}　ハハッ！{pause 40}{emote: Soft Smile}

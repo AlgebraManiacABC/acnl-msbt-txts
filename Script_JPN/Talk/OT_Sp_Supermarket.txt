@@ -1,11 +1,11 @@
 == 0 ==
-"001"	
-"002"	{0009-0002-0008-05-00-06-00-07-00-08-00}
-"003"	{0009-0000-0004-09-00-00-00}	
-"004"	
-"005"	{emote: Thought}
-"006"	{emote: Thought}
-"007"	{emote: Anger}
-"008"	{emote: Soft Smile}
-"009"	{emote: Soft Smile}
-"010"	{emote: Sheepishness}
+"001"
+"002"	{0009-0002-0008-0005-0006-0007-0008}
+"003"	{0009-0000-0004-0009-000a}
+"004"
+"005"	{emote: Thought}{pause 16}{ruby (charSpan 3): だいじょうぶ}大丈夫かしら、{pause 8}アタシ？{pause 32}	おばさんっぽく{pause 8}	{ruby (charSpan 1): み}見られてないかしら？
+"006"	{emote: Thought}{pause 16}あれも{ruby (charSpan 1): か}買って、{pause 16}これも{ruby (charSpan 1): か}買って{pause 8}・{pause 8}・{pause 8}・{pause 8}	ついでに　あれも{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}スーパーに{ruby (charSpan 1): く}来ると{pause 16}	{ruby (charSpan 2): よけい}余計な{ruby (charSpan 1): もの}物まで　なぜか{pause 8}	{ruby (charSpan 1): か}買っちゃうのよね、{pause 8}{catchphrase}
+"007"	{emote: Anger}な～に？　{pause 16}{Player nickname (green)}{0005-000d-0000}？{Wait for input}	{emote: Sheepishness}「スーパーが　{ruby (charSpan 2): にあ}似合う{ruby (charSpan 1): おんな}女」とか{pause 16}	{ruby (charSpan 1): おも}思ってないでしょうね？
+"008"	{emote: Soft Smile}ステキな　かべかけ{ruby (charSpan 2): かぐ}家具がないか{pause 16}	{ruby (charSpan 1): み}見に{ruby (charSpan 1): き}来たの、{pause 8}{catchphrase}
+"009"	{emote: Soft Smile}うふふ、{pause 16}{ruby (charSpan 1): か}買い{ruby (charSpan 1): だ}出しに{ruby (charSpan 1): き}来たのね？{pause 8}	{Player nickname (green)}{0005-000d-0000}？
+"010"	{emote: Sheepishness}よその{ruby (charSpan 1): むら}村のスーパーまで{pause 16}	わざわざ　{ruby (charSpan 1): あし}足を{ruby (charSpan 1): はこ}運ぶなんて{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Mischief}よっぽど　{ruby (charSpan 1): ほ}欲しい{ruby (charSpan 1): もの}物があるのね？

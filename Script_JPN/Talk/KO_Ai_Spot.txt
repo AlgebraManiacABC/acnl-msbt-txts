@@ -1,17 +1,17 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{0009-0003-000a-0f-00-0f-00-0f-00-0f-00-10-00}
-"003"	{emote: Showmanship}
-"004"	{emote: Glee}
-"005"	{emote: Disbelief}
-"006"	{emote: Happiness}
-"007"	{emote: Greetings}
-"008"		{emote: Happiness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Happiness}
-"011"	{emote: Greetings}
-"012"	{emote: Happiness}
-"013"	{emote: Greetings}
-"014"	{emote: Happiness}
-"015"	{emote: Greetings}
-"016"	{emote: Anger}
+"001"	{emote: Greetings}{Greeting begin}よう、{Player nickname (green)}{Greeting end}！{pause 30}	{emote: Happiness}{ruby (charSpan 2): ぐうぜん}偶然だな！{pause 20}　{catchphrase}！
+"002"	{0009-0003-000a-000f-000f-000f-000f-0010}
+"003"	{emote: Showmanship}よう、{pause 8}{Player nickname (green)}！{pause 30}	{emote: Happiness}オメェも　ライブ{ruby (charSpan 1): み}観に{ruby (charSpan 1): き}来てたのかい？！{pause 20}	{catchphrase}！
+"004"	{emote: Glee}ヨー、{pause 4}ヨー、{pause 8}{Player nickname (green)}！{pause 20}	{emote: Showmanship}オメェも{ruby (charSpan 1): き}来てたのか、{pause 8}メー{pause 4}ン！{pause 20}	{emote: Sunny}ってか？！{pause 20}　{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}
+"005"	{emote: Disbelief}{0007-000b-0000}うぉっ！{pause 15}　デカっ！{pause 30}	・{pause 8}・{pause 8}・{pause 8}{emote: Reset}なんだ、{pause 8}{Player nickname (green)}か！{Wait for input}{emote: Resigned}オレぁまた、{pause 8}{ruby (charSpan 2): しんしゅ}新種のムシが	{ruby (charSpan 1): で}出てきたのかと{ruby (charSpan 1): おも}思ったぜ！{pause 20}	{emote: Laughter}がーっはっは！{pause 30}　{emote: Happiness}{catchphrase}！
+"006"	{emote: Happiness}おう、{pause 8}{Player nickname (green)}！{pause 30}	オメェも　サカナ{ruby (charSpan 1): み}見に{ruby (charSpan 1): き}来たのかい？！{pause 20}	{catchphrase}？
+"007"	{emote: Greetings}よう、{pause 8}{Player nickname (green)}！{pause 30}	{emote: Happiness}かせきの{ruby (charSpan 2): へや}部屋は{pause 8}	さすがにデカイよな！{pause 20}　{catchphrase}！
+"008"		{emote: Happiness}{0007-000b-0000}{Greeting begin}{Text size 150%}よう、{pause 8}{Player nickname (green)}{Greeting end}！{Text size 100%}{Wait for input}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}おっと！{pause 30}	{emote: Soft Smile}ここで{ruby (charSpan 2): おおごえ}大声{ruby (charSpan 1): だ}出しちゃ{pause 8}	マズかったかな？{pause 20}　{catchphrase}？
+"009"	{emote: Soft Smile}{Greeting begin}よう、{pause 8}{Player nickname (green)}{Greeting end}！{pause 30}	オメェも　{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物かい？{pause 20}　{catchphrase}？
+"010"	{emote: Happiness}{Greeting begin}よう、{pause 8}{Player nickname (green)}{Greeting end}！{pause 30}	{ruby (charSpan 2): めあ}目当てのモンは　{ruby (charSpan 1): う}売ってたかい？{pause 20}	{catchphrase}？
+"011"	{emote: Greetings}{Greeting begin}よう、{Player nickname (green)}{Greeting end}！{Wait for input}	{emote: Reset}{ruby (charSpan 1): なに}何かいいモン　{ruby (charSpan 1): う}売ってねぇかと{pause 8}	{emote: Soft Smile}{ruby (charSpan 1): み}見に{ruby (charSpan 1): き}来ちまうんだよな、{pause 20}{catchphrase}
+"012"	{emote: Happiness}{Greeting begin}よう、{pause 8}{Player nickname (green)}{Greeting end}！{pause 30}	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): み}見るだけの{pause 8}	つもりなのさ、{pause 20}{catchphrase}
+"013"	{emote: Greetings}{Greeting begin}よう、{pause 8}{Player nickname (green)}{Greeting end}！{pause 30}	{emote: Reset}ここは　デパートの{pause 8}	{emote: Happiness}オアシスみてぇなモンだな、{pause 20}{catchphrase}
+"014"	{emote: Happiness}{Greeting begin}よう、{pause 8}{Player nickname (green)}{Greeting end}！{pause 30}	ファッション・チェックかい？{pause 20}	{catchphrase}？
+"015"	{emote: Greetings}{pause 8}{Greeting begin}よう、{Player nickname (green)}{Greeting end}！{pause 20}	{catchphrase}！
+"016"	{emote: Anger}いらねぇよ！{pause 20}	・{pause 8}・{pause 8}・{emote: Alarmed}{pause 8}ん？	なんだ、{pause 8}{Player nickname (green)}か！{pause 20}　{catchphrase}！	{emote: Soft Smile}オレぁまた、{pause 15}	オシャレな{ruby (charSpan 2): はんが}版画でも{pause 8}	{emote: Happiness}{ruby (charSpan 1): う}売りつけられるのかと　{ruby (charSpan 1): おも}思ったぜ！

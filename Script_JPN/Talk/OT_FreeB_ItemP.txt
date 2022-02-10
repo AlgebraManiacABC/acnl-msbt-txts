@@ -1,41 +1,41 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{000a-0007-000c-14-00-14-00-15-00-16-00-16-00-17-00}
-"003"	{emote: Alarmed}
-"004"	{emote: Sunny}
-"005"	{000a-0008-0010-18-00-18-00-1c-00-1b-00-1b-00-1b-00-1b-00-1d-00}
-"006"	{emote: Distress}
-"007"	{emote: Alarmed}
-"008"	{emote: Soft Smile}
-"009"	{emote: Alarmed}
-"010"	{emote: Alarmed}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{emote: Alarmed}
-"014"	{emote: Alarmed}
-"015"	{emote: Alarmed}
-"016"	
-"017"	
-"018"	
-"019"	
-"020"	{emote: Curious}
-"021"	{emote: Glee}
-"022"	{emote: Sheepishness}
-"023"	{emote: Sheepishness}
-"024"	{000a-0001-0004-19-00-1a-00}
-"025"	{emote: Alarmed}
-"026"	{emote: Alarmed}
-"027"	{emote: Surprise}
-"028"	{emote: Sheepishness}
-"029"	{emote: Alarmed}
-"030"	{emote: Anger}
-"031"	{emote: Sheepishness}
-"032"	{emote: Anger}
-"033"	{000a-0007-000c-22-00-23-00-23-00-24-00-25-00-26-00}
-"034"	{emote: Worry}
-"035"	{emote: Worry}
-"036"	{emote: Soft Smile}
-"037"	{emote: Soft Smile}
-"038"	{emote: Worry}
-"039"	{emote: Soft Smile}
-"040"	{emote: Sheepishness}
+"001"	{emote: Alarmed}あら、{pause 16}スコップなんて	{ruby (charSpan 1): も}持ち{ruby (charSpan 1): ある}歩いて　どうしたの？{pause 16}	{Player nickname (green)}{0005-000d-0000}？	{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Glare}わかった、{pause 8}{ruby (charSpan 1): お}落とし{ruby (charSpan 1): あな}穴ね？{Wait for input}	{emote: Sheepishness}アタシは　そう{ruby (charSpan 2): かんたん}簡単には{pause 16}	ひっかからないわよ、{pause 8}{catchphrase}
+"002"	{000a-0007-000c-0014-0014-0015-0016-0016-0017}
+"003"	{emote: Alarmed}あら、{pause 16}その　つりざおで　	アタシを　{ruby (charSpan 1): つ}釣り{ruby (charSpan 1): あ}上げる{ruby (charSpan 1): き}気？{Wait for input}{emote: Sheepishness}うふふ、{pause 16}そんなんじゃ	アタシは　{ruby (charSpan 1): つ}釣れないわよ？{pause 16}	{Player nickname (green)}{0005-000d-0000}？	{emote: Soft Smile}なーんてね{pause 8}・{pause 8}・{pause 8}・{pause 8}ちょっと	からかってみただけ！　{pause 8}{catchphrase}！
+"004"	{emote: Sunny}あら、{pause 16}{Player nickname (green)}{0005-000d-0000}{pause 32}	{ruby (charSpan 1): みず}水やり　ご{ruby (charSpan 3): くろうさま}苦労様！
+"005"	{000a-0008-0010-0018-0018-001c-001b-001b-001b-001b-001d}
+"006"	{emote: Distress}ちょ　{pause 8}ちょっと{pause 8}・{pause 8}・{pause 8}・{pause 8}	そんな　ぶっそうなもの、{pause 16}	しまいなさいよ～！{000a-0001-0004-001e-001f}
+"007"	{emote: Alarmed}あら、{pause 16}パチンコ？{pause 32}	{emote: Worry}わかってるとは　{ruby (charSpan 1): おも}思うけど、{pause 16}	{ruby (charSpan 1): ひと}人に{ruby (charSpan 1): む}向けちゃダメよ
+"008"	{emote: Soft Smile}まぁ、{pause 16}クラッカーなんか{ruby (charSpan 1): も}持って{pause 16}	{ruby (charSpan 1): なに}何か　お{ruby (charSpan 1): いわ}祝いごと？{Wait for input}{emote: Sheepishness}わかってると{ruby (charSpan 1): おも}思うけど、{pause 16}	{ruby (charSpan 1): ひと}人に　{ruby (charSpan 1): む}向けてやっちゃダメよ、{pause 8}	{Player nickname (green)}{0005-000d-0000}
+"009"	{emote: Alarmed}あら、{pause 8}しゃぼんだま？{pause 32}	{emote: Soft Smile}なつかしいわね、{pause 8}{catchphrase}{Wait for input}{emote: Daydreaming}{pause 16}{ruby (charSpan 1): むかし}昔は　アタシも{pause 16}	それで　よく{ruby (charSpan 1): あそ}遊んだわ{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}{ruby (charSpan 1): いま}今でも　{ruby (charSpan 3): だいじょうぶ}大丈夫かしら？
+"010"	{emote: Alarmed}あら、{pause 8}かざぐるま？{pause 32}	{emote: Soft Smile}なつかしいわね、{pause 8}{catchphrase}{Wait for input}{emote: Daydreaming}{pause 16}{ruby (charSpan 1): むかし}昔は　アタシも{pause 16}	それで　よく{ruby (charSpan 1): あそ}遊んだわ{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}{ruby (charSpan 1): いま}今でも　{ruby (charSpan 3): だいじょうぶ}大丈夫かしら？
+"011"	{emote: Alarmed}あら、{pause 16}アナタが	{ruby (charSpan 1): て}手に{ruby (charSpan 1): も}持ってるの、{pause 16}はなびじゃない？{000a-0008-0010-0021-0021-0021-0020-0020-0020-0020-0021}
+"012"	{emote: Alarmed}あら、{pause 16}ふうせんじゃない？{pause 32}	{emote: Soft Smile}かわいいわね、{pause 8}{catchphrase}{Wait for input}{emote: Sheepishness}{ruby (charSpan 1): ころ}転ばないように　{ruby (charSpan 1): き}気をつけなさいね、{pause 8}	{Player nickname (green)}{0005-000d-0000}
+"013"	{emote: Alarmed}あら、{pause 8}アナタが	{ruby (charSpan 1): て}手に{ruby (charSpan 1): も}持ってるのって{pause 16}	タンポポのわたげでしょ？	{emote: Sheepishness}{ruby (charSpan 1): ころ}転ばないように　{ruby (charSpan 1): き}気をつけなさいね、{pause 16}	{Player nickname (green)}{0005-000d-0000}
+"014"	{emote: Alarmed}ん{pause 8}・{pause 8}・{pause 8}・？{pause 32}　その	{ruby (charSpan 1): て}手に{ruby (charSpan 1): も}持ってるのは、{pause 16}な～に？{pause 16}	{emote: Curious}{Player nickname (green)}{0005-000d-0000}？	{emote: Distress}あっ、{pause 16}それで{pause 16}	アタシを　たたくつもりね？	{pause 8}{catchphrase}？
+"015"	{emote: Alarmed}あら、{pause 8}その{ruby (charSpan 1): て}手に{ruby (charSpan 1): も}持ってるの{pause 32}	{Orange}マスター{Color Reset}のコーヒー？{Wait for input}{emote: Soft Smile}ボーっと　{ruby (charSpan 1): うみ}海をながめながら{pause 8}　	コーヒーを　{ruby (charSpan 1): の}飲んだりするの{pause 16}	いいわよね、{pause 8}{catchphrase}
+"016"
+"017"
+"018"
+"019"
+"020"	{emote: Curious}こんな{ruby (charSpan 1): あさ}朝から　ムシとり？{pause 32}	{emote: Sheepishness}アナタ、{pause 8}ずいぶん{ruby (charSpan 2): ねっしん}熱心なのね、	{pause 8}{catchphrase}
+"021"	{emote: Glee}ムシとり　{ruby (charSpan 1): おう}応えんしてるわよ！{pause 8}	{Player nickname (green)}{0005-000d-0000}！
+"022"	{emote: Sheepishness}こんな{ruby (charSpan 2): じかん}時間まで　ムシとりなんて{pause 16}	{ruby (charSpan 1): わか}若いわね～、{pause 8}{Player nickname (green)}{0005-000d-0000}
+"023"	{emote: Sheepishness}こんな{ruby (charSpan 1): おそ}遅くまで　ムシとりなんて{pause 8}・{pause 8}・{pause 8}・{pause 8}	どんだけ　タフなのよ、{pause 16}アナタ！
+"024"	{000a-0001-0004-0019-001a}
+"025"	{emote: Alarmed}あら、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	{emote: Worry}{ruby (charSpan 1): あめ}雨なんて　{ruby (charSpan 1): ふ}降ってないのに{pause 16}	どうして　かさをさしてるの？	{emote: Glare}ひょっとして　{ruby (charSpan 1): ひ}日がさ？{Wait for input}	{emote: Thought}{pause 16}{ruby (charSpan 2): さいきん}最近は、{ruby (charSpan 1): おとこ}男の{ruby (charSpan 1): ひと}人も　{pause 16}	お{ruby (charSpan 1): はだ}肌を　{ruby (charSpan 1): き}気にするのね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"026"	{emote: Alarmed}あら、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	{emote: Reset}ひょっとして　	そのかさって{pause 16}　{emote: Curious}{ruby (charSpan 5): しがいせんたいさく}紫外線対策？{000a-0007-000c-0027-0027-0027-0027-0028-0028}
+"027"	{emote: Surprise}あら、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	ステキな　かさじゃない！{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): てんき}天気が{ruby (charSpan 1): わる}悪くても{pause 8}　きっと	そのかさなら　{pause 16}{ruby (charSpan 2): きぶん}気分いいわよね、	{pause 8}{catchphrase}
+"028"	{emote: Sheepishness}うふふ、{pause 16}{Player nickname (green)}{0005-000d-0000}{pause 32}	まだ　{ruby (charSpan 1): あめ}雨は{ruby (charSpan 1): ふ}降ってないわよ{pause 32}	{emote: Glare}{ruby (charSpan 1): き}気が{ruby (charSpan 1): はや}早いのね、{pause 16}アナタ
+"029"	{emote: Alarmed}あら、{pause 8}{Player nickname (green)}{0005-000d-0000}{pause 32}	{emote: Soft Smile}この{ruby (charSpan 1): さくら}桜の{ruby (charSpan 2): きせつ}季節に　かさなんて{pause 16}	イキなことするわねぇ、{pause 8}{catchphrase}
+"030"	{emote: Anger}それに{pause 8}・{pause 8}・{pause 8}・{pause 8}レディの{ruby (charSpan 1): まえ}前で{pause 16}	それは　{ruby (charSpan 2): しつれい}失礼なんじゃないの？{pause 8}	{Player nickname (green)}{0005-000d-0000}？
+"031"	{emote: Sheepishness}それに　アナタ、{pause 8}{ruby (charSpan 1): おんな}女の{ruby (charSpan 1): こ}子なんだから{pause 16}	もう{ruby (charSpan 1): すこ}少し{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Reset}まぁ、いいわ{Wait for input}{emote: Soft Smile}いいか{ruby (charSpan 1): わる}悪いかは　{ruby (charSpan 1): お}置いといて{pause 16}	それも　{Player nickname (green)}{0005-000d-0000}の	{ruby (charSpan 2): こせい}個性なのよね、{pause 8}{catchphrase}
+"032"	{emote: Anger}よりによって　この{ruby (charSpan 2): てんき}天気で{pause 16}	{ruby (charSpan 2): はなび}花火を　するなんて{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}{ruby (charSpan 2): だいたん}大胆なことするのね、{pause 16}アナタ
+"033"	{000a-0007-000c-0022-0023-0023-0024-0025-0026}
+"034"	{emote: Worry}でも、こんな{ruby (charSpan 2): じかん}時間に{pause 16}	{ruby (charSpan 2): はなび}花火なんて　{ruby (charSpan 4): きんじょめいわく}近所迷惑じゃない？	{pause 8}{catchphrase}？	{emote: Agreement}まだ　{ruby (charSpan 1): ね}寝てる{ruby (charSpan 1): ひと}人も　いるんだから{pause 16}	あんまり　さわいだりしちゃダメよ、{pause 8}	{Player nickname (green)}{0005-000d-0000}
+"035"	{emote: Worry}でも、こんな{ruby (charSpan 2): じかん}時間に{pause 16}	{ruby (charSpan 2): はなび}花火なんて　よく{ruby (charSpan 1): み}見えないんじゃない？{Wait for input}{emote: Sheepishness}やっぱり、{ruby (charSpan 2): はなび}花火は{pause 16}　{ruby (charSpan 1): くら}暗くなってから	やった{ruby (charSpan 1): ほう}方がキレイよね、{pause 8}{catchphrase}
+"036"	{emote: Soft Smile}この{ruby (charSpan 3): じかんたい}時間帯に　{ruby (charSpan 2): はなび}花火なんかしたら{pause 16}	キレイでしょうねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Sheepishness}でも、{pause 8}{ruby (charSpan 3): あとかたづ}後片付けは　ちゃんと	しなさいよ、{pause 8}{Player nickname (green)}{0005-000d-0000}
+"037"	{emote: Soft Smile}この{ruby (charSpan 3): じかんたい}時間帯に　{ruby (charSpan 2): はなび}花火なんかしたら{pause 16}	キレイでしょうねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Sheepishness}でも、{ruby (charSpan 4): きんじょめいわく}近所迷惑だから{pause 16}	あんまり　{ruby (charSpan 1): おそ}遅い{ruby (charSpan 2): じかん}時間にやったらダメよ
+"038"	{emote: Worry}でも、こんな{ruby (charSpan 2): じかん}時間に{pause 16}	{ruby (charSpan 2): はなび}花火なんて　{ruby (charSpan 4): きんじょめいわく}近所迷惑じゃない？	{pause 8}{catchphrase}？	{emote: Agreement}もう　{ruby (charSpan 1): ね}寝てる{ruby (charSpan 1): ひと}人も　いるんだから{pause 16}	あんまり　さわいだりしちゃダメよ、{pause 8}	{Player nickname (green)}{0005-000d-0000}
+"039"	{emote: Soft Smile}いい{ruby (charSpan 1): こころ}心がけよ、{pause 32}{ruby (charSpan 1): とく}特に	{ruby (charSpan 2): ひるま}昼間の{ruby (charSpan 3): しがいせん}紫外線は{pause 8}　すごく{ruby (charSpan 1): つよ}強いから、{pause 16}	{ruby (charSpan 2): ちゅうい}注意が{ruby (charSpan 2): ひつよう}必要なのよ、{pause 8}{catchphrase}
+"040"	{emote: Sheepishness}こんなに　{ruby (charSpan 1): ひ}日が{ruby (charSpan 1): お}落ちてるのに{pause 16}	アナタって　しんちょうなのね？

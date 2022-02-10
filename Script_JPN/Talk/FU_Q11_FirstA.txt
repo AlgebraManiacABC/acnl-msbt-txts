@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Sadness}
-"002"	{emote: Sigh}
-"003"	{emote: Worry}
-"004"	{emote: Sneezing}
-"005"	{emote: Fearful}
-"006"	{emote: Sadness}
-"007"	{emote: Fearful}
-"008"	{emote: Sneezing}
-"009"	{emote: Sneezing}
+"001"	{emote: Sadness}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	なんだか　{ruby (charSpan 1): からだ}体がだるくって{Wait for input}カゼでもひいたのかしら{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Worry}せっかく　{pause 5}{ruby (charSpan 1): あそ}遊びにきてくださったのに{pause 10}	{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありません、{pause 15}{catchphrase}
+"002"	{emote: Sigh}はぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	なんだか　{pause 10}{ruby (charSpan 1): からだ}体が{pause 5}{ruby (charSpan 1): ねつ}熱っぽくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sadness}{ruby (charSpan 1): こま}困りましたね{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): きょう}今日は　{pause 10}{ruby (charSpan 2): おとな}大人しくしていようと{ruby (charSpan 1): おも}思います
+"003"	{emote: Worry}ん～～～{pause 8}・{pause 8}・{pause 8}・{pause 20}	どうも　{pause 10}{ruby (charSpan 2): ちょうし}調子が{ruby (charSpan 1): で}出ないんですよね、{pause 15}{catchphrase}{Wait for input}{ruby (charSpan 2): ざんねん}残念ですけど{pause 10}	また{ruby (charSpan 2): こんど}今度　{pause 5}{ruby (charSpan 1): あそ}遊びましょう　
+"004"	{emote: Sneezing}{0007-000a-0000}くしゅん！{Wait for input}	うぅん{pause 8}・{pause 8}・{pause 8}・{pause 20}	なんだか　{ruby (charSpan 2): たいちょう}体調が　{pause 10}すぐれないんです	{emote: Shyness}{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ないんですけど{pause 10}	{ruby (charSpan 2): きょう}今日は　ひとりで{pause 10}	ゆっくりしようと{ruby (charSpan 1): おも}思います
+"005"	{emote: Fearful}うぅ～っ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): さむけ}寒気がするんです、{pause 15}{catchphrase}{Wait for input}これって　{pause 10}カゼなんでしょうか？{Wait for input}	{ruby (charSpan 1): ほん}本で　{ruby (charSpan 1): しら}調べてみようと{ruby (charSpan 1): おも}思うので{pause 10}	また{ruby (charSpan 2): こんど}今度　{pause 10}{ruby (charSpan 1): あそ}遊びましょう
+"006"	{emote: Sadness}さっきから　{ruby (charSpan 1): あたま}頭が{ruby (charSpan 1): おも}重くて{pause 8}・{pause 8}・{pause 8}・{pause 8}、{pause 15}{catchphrase}！{Wait for input}{emote: Worry}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 2): いったい}一体　わたしったら　どうしたのかしら{Wait for input}{emote: Fearful}せっかく{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくださったのに{pause 10}	{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ないです{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): あそ}遊ぶのは　また{ruby (charSpan 2): こんど}今度で、{pause 15}{catchphrase}
+"007"	{emote: Fearful}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 1): あたま}頭が　クラクラします～	あぁ{pause 5}・{pause 5}・{pause 5}・{pause 5}つらい{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"008"	{emote: Sneezing}ハクシュン！{Wait for input}	{emote: Fearful}あぁ{pause 8}・{pause 8}・{pause 8}・{pause 8}くしゃみが{ruby (charSpan 1): と}止まりません{pause 8}・{pause 8}・{pause 8}・{pause 8}	このまま　{pause 10}わたし{pause 8}・{pause 8}・{pause 8}・{pause 8}どうなるのかしら
+"009"	{emote: Sneezing}ハクシュン！{pause 20}{Wait for input}	{emote: Fearful}あぁ{pause 8}・{pause 8}・{pause 8}・{pause 8}あなたは{pause 8}・{pause 8}・{pause 8}・{pause 8}{pause 20}	{0005-0002-0000}さん？	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Reset}あ、{pause 10}ごめんなさい{pause 20}	{Player nickname (green)}さんですね{emote: Fearful}{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}わたし　{pause 10}{ruby (charSpan 1): あたま}頭がボーっとして{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 2): さむけ}寒気もするし{pause 20}	{ruby (charSpan 1): なに}何がなんだか　{pause 10}よく　わかりません{pause 8}・{pause 8}・{pause 8}・{pause 8}

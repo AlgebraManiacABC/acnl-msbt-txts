@@ -1,27 +1,27 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Soft Smile}
-"008"	{emote: Happiness}
-"009"	{emote: Thought}
-"010"	{ruby (charSpan 2): ふつう}普通の　{0011-0003-0002-00-00}
-"011"	{ruby (charSpan 2): だいじ}大事なモンを	あげちまった{ruby (charSpan 1): き}気もするけど{pause 8}
-"012"	{emote: Happiness}
-"013"	
-"014"	{0009-0001-0006-11-00-12-00-13-00}
-"015"	{0009-0001-0006-14-00-15-00-16-00}
-"016"	{0009-0001-0006-17-00-18-00-19-00}
-"017"	{emote: Distress}
-"018"	{emote: Shyness}
-"019"	なんだか　{ruby (charSpan 2): みちが}見違えちまったなぁ{emote: Agreement}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{ruby (charSpan 2): きょう}今日は　オメェのことが{pause 8}
-"023"	いやぁ、{pause 8}
-"024"	これで　よし！{pause 20}
-"025"	それにしても{pause 8}!
-"026"	
+"001"	{emote: Curious}ん？{pause 8}　なんだ　なんだ？{pause 20}	{emote: Thought}{ruby (charSpan 2): きょう}今日のオメェは　なんだか{pause 8}	キラキラ{ruby (charSpan 1): かがや}輝いて　{ruby (charSpan 1): み}見えるぜ？！{Wait for input}{emote: Distress}チクショー！{pause 15}	まぶしくて　まともに{ruby (charSpan 1): かお}顔を{ruby (charSpan 1): み}見れねぇ！{pause 20}	{catchphrase}！
+"002"	{emote: Alarmed}お、{pause 8}おい、{pause 4}{Player nickname (green)}{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Happiness}オメェなんだか{pause 8}	{ruby (charSpan 3): ふんいき}雰囲気　{ruby (charSpan 1): か}変わったな？{Wait for input}{emote: Bashful}{ruby (charSpan 1): なん}何て{ruby (charSpan 1): い}言うか、{pause 8}	{ruby (charSpan 1): まえ}前よりグッと　{ruby (charSpan 1): おんな}女らしくなったぜ？！{Wait for input}{emote: Distress}チクショー！{pause 15}	このドキドキは　なんなんだよ！{pause 20}	{catchphrase}！
+"003"	{emote: Alarmed}あれ？{pause 8}　{Player nickname (green)}{Wait for input}	{emote: Reset}オメェ　ずいぶんキレイに{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}いや、{pause 8}えーっと　その、{pause 8}なんだぁ{Wait for input}	な、{pause 8}{ruby (charSpan 1): なに}何か{ruby (charSpan 1): こま}困ったことがあったら{pause 8}	{emote: Anger}エンリョなく　オレに{ruby (charSpan 1): い}言うんだぜ？！{Wait for input}{emote: Pride}オレぁ　24{ruby (charSpan 2): じかん}時間いつでも{pause 8}	オメェの{ruby (charSpan 2): みかた}味方だからよ、{pause 20}	{emote: Sheepishness}たはっ、{pause 8}たははは！
+"004"	{emote: Happiness}なぁ、{pause 8}{Player nickname (green)}{Wait for input}	オメェ　{ruby (charSpan 2): さいきん}最近{pause 8}	{ruby (charSpan 1): おとこ}男っぷりが　いいじゃねぇか！{Wait for input}{emote: Glare}オレの{ruby (charSpan 1): つぎ}次に　いい{ruby (charSpan 1): おとこ}男だぜ？！{pause 20}	{emote: Sunny}ナンバー2だな、{pause 20}{catchphrase}！
+"005"	{emote: Happiness}よぅ、{pause 8}{Player nickname (green)}{Wait for input}	{emote: Glare}オメェ　{ruby (charSpan 2): さいきん}最近{pause 8}	モテモテらしいじゃねぇか？！{Wait for input}{emote: Happiness}イケメンって　ワケでもねぇのに、{pause 15}	{emote: Agreement}やっぱり　デキる{ruby (charSpan 1): おとこ}男は{pause 8}	みんなを　{ruby (charSpan 1): ひ}引きつけるのかねぇ
+"006"	{emote: Happiness}なぁ、{pause 8}{Player nickname (green)}{Wait for input}	オメェは　ホントに　いいヤツだよなぁ{pause 20}	{emote: Daydreaming}よく{ruby (charSpan 1): き}気が{ruby (charSpan 1): つ}付くし、{pause 8}{ruby (charSpan 1): たよ}頼りがいもあるし{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Curious}ん？{pause 30}	{emote: Anger}なんで　オメェのこと{pause 8}	こんなに　ホメちまうんだよ？！
+"007"	{emote: Soft Smile}よぅ、{pause 8}{Player nickname (green)}{Wait for input}	さっき　おふくろから{pause 8}	{ruby (charSpan 2): にもつ}荷物が{ruby (charSpan 1): とど}届いたんだけどよ{Wait for input}{emote: Disagreement}オレは{ruby (charSpan 1): つか}使いそうにねぇから{pause 8}	オメェ　もらってくんねぇかな？{Wait for input}	{emote: Happiness}ほら{pause 8}　{0011-0003-0002-0000}だぜ
+"008"	{emote: Happiness}なぁ、{pause 8}{Player nickname (green)}！{Wait for input}{emote: Reset}なぜか　{ruby (charSpan 2): むしょう}無性に{pause 8}	オメェに　プレゼントをしたくて	{ruby (charSpan 2): しかた}仕方ねぇんだ！{Wait for input}{emote: Happiness}ほら　{ruby (charSpan 1): て}手ぇ{ruby (charSpan 1): だ}出せ！{pause 20}	この　{0011-0003-0002-0000}、{pause 15}	{ruby (charSpan 1): なん}何にも{ruby (charSpan 1): い}言わず{pause 8}　{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取ってくれ！
+"009"	{emote: Thought}{ruby (charSpan 1): かんが}考えてみりゃあ　オメェには{pause 15}	{ruby (charSpan 1): おく}贈り{ruby (charSpan 1): もの}物とか{pause 8}	あんまり　したことねぇよな？{Wait for input}{emote: Happiness}{ruby (charSpan 1): あ}有り{ruby (charSpan 1): あ}合わせのモノで　{ruby (charSpan 1): わり}悪ぃが{pause 15}	この　{0011-0003-0002-0000}を{pause 8}	プレゼントさせてくれ！
+"010"	{ruby (charSpan 2): ふつう}普通の　{0011-0003-0002-0000}だが{emote: Agreement}{pause 8}	モノは　{ruby (charSpan 1): わる}悪くねぇはずだぜ{Wait for input}{emote: Happiness}{ruby (charSpan 1): あと}後は　{ruby (charSpan 1): つか}使うなり　{ruby (charSpan 1): う}売るなり、{pause 20}	オメェの　{ruby (charSpan 1): す}好きなようにして	{ruby (charSpan 1): かま}構わねぇからよ、{pause 20}{catchphrase}！
+"011"	{ruby (charSpan 2): だいじ}大事なモンを	あげちまった{ruby (charSpan 1): き}気もするけど{pause 8}	まあいいや	{emote: Happiness}その　{0011-0003-0002-0000}、{pause 15}	{ruby (charSpan 1): き}気にせず　{ruby (charSpan 1): す}好きなように	{ruby (charSpan 1): つか}使ってくれよな！
+"012"	{emote: Happiness}{ruby (charSpan 2): ふつう}普通の　{0011-0003-0002-0000}だし{pause 15}	ジャマだったら　エンリョなく{pause 8}	{ruby (charSpan 1): う}売っ{ruby (charSpan 1): ぱら}払っちまって　くれよな！
+"013"
+"014"	{0009-0001-0006-0011-0012-0013}
+"015"	{0009-0001-0006-0014-0015-0016}
+"016"	{0009-0001-0006-0017-0018-0019}
+"017"	{emote: Distress}な、{pause 4}な、{pause 4}なんでぇ！{pause 15}	そんなに　{ruby (charSpan 1): ひ}引っ{ruby (charSpan 1): つ}付くんじゃねぇよ！{pause 30}	{emote: Anger}ドキドキ　しちまうんだよっ！
+"018"	{emote: Shyness}なんで　オメェのことが{pause 8}	こんなに　{ruby (charSpan 1): き}気になる{pause 8}・{pause 8}・{pause 8}・{emote: Disagreement}{pause 20}	{emote: Anger}イヤ、{pause 4}なんでもねぇ、{pause 20}{catchphrase}！
+"019"	なんだか　{ruby (charSpan 2): みちが}見違えちまったなぁ{emote: Agreement}{pause 8}	{Player nickname (green)}・{pause 8}・{pause 8}・{Wait for input}{emote: Bashful}オレぁ{ruby (charSpan 1): すこ}少し　{ruby (charSpan 2): しんぱい}心配だぜ！{pause 20}　{catchphrase}！
+"020"	{emote: Happiness}{ruby (charSpan 2): こんや}今夜は　オメェと{ruby (charSpan 3): ひとばんじゅう}一晩中、{pause 8}	{0005-000e-0002-0000}を{pause 4}	{ruby (charSpan 1): の}飲み{ruby (charSpan 1): あ}明かしたい　{ruby (charSpan 2): きぶん}気分だぜ！
+"021"	{emote: Happiness}オメェとの　{ruby (charSpan 2): ゆうじょう}友情は、{pause 8}	このまま　{ruby (charSpan 2): だいじ}大事にしていきてぇと	{ruby (charSpan 1): おも}思ってるぜ、{pause 20}{catchphrase}！
+"022"	{ruby (charSpan 2): きょう}今日は　オメェのことが{pause 8}	{ruby (charSpan 2): いちだん}一段と　いいヤツに{ruby (charSpan 1): おも}思えて	{ruby (charSpan 2): しかた}仕方ねぇんだよな、{pause 20}{catchphrase}
+"023"	いやぁ、{pause 8}オメェに{ruby (charSpan 1): わた}渡すことができて{pause 8}	スッキリしたぜ！
+"024"	これで　よし！{pause 20}	はぁー、{pause 8}スッキリしたぜ！
+"025"	それにしても{pause 8}	なんでオメェに　プレゼントする{ruby (charSpan 1): き}気に	なったのかねぇ？{pause 20}　{catchphrase}？
+"026"

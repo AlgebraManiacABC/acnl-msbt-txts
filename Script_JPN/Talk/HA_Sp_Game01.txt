@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	じゃーん{pause 20}
+"001"	{emote: Happiness}{ruby (charSpan 2): こんかい}今回は　{Blue}1{ruby (charSpan 1): かい}回{Color Reset}{ruby (charSpan 2): しょうぶ}勝負だからな！{pause 20}	あいこが{ruby (charSpan 1): で}出たら、やり{ruby (charSpan 1): なお}直しだぞー？{pause 40}	それじゃ、いくぞー？
+"002"	{emote: Happiness}{ruby (charSpan 1): さき}先に　{Blue}{Number (0x6)}{ruby (charSpan 1): かい}回{Color Reset}{ruby (charSpan 1): か}勝った{ruby (charSpan 1): ほう}方が	かちだからなー！{pause 20}	いくぞー？
+"003"	じゃーん{pause 20}　けーん{pause 8}・{pause 8}・{pause 8}・{000f-0001-0006-0000-0000-0000}	グー	チョキ	パー
 "004"	グー！
 "005"	チョキ！
 "006"	パー！
-"007"	{emote: Mistaken}
-"008"	{emote: Anger}
-"009"	{emote: Greetings}
-"010"	
-"011"	{emote: Reset}
-"012"	{emote: Reset}
+"007"	{emote: Mistaken}やられたーっ！
+"008"	{emote: Anger}ぐっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	あいこだ！　もう1{ruby (charSpan 1): かい}回！
+"009"	{emote: Greetings}ヨッシャー！
+"010"
+"011"	{emote: Reset}ってことは{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Delight}{ruby (charSpan 2): こんかい}今回は　オマエの{ruby (charSpan 1): か}勝ちだな
+"012"	{emote: Reset}ってことは{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Showmanship}この{ruby (charSpan 2): しょうぶ}勝負、{pause 20}オイラの{ruby (charSpan 1): か}勝ちだー！

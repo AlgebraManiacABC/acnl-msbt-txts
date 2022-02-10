@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Soft Smile}
-"003"	{emote: Soft Smile}
-"004"	{emote: Glare}
-"005"	{emote: Happiness}
-"006"	{emote: Glare}
-"007"	{emote: Disbelief}
-"008"	{emote: Alarmed}
+"001"	{emote: Greetings}{Greeting begin}후훗! {pause 8}{Player name}{군/양}!{Greeting end}{pause 16}	{Town name (pink)} 마을에	놀러 온 건가? {pause 8}{catchphrase}?
+"002"	{emote: Soft Smile}{Greeting begin}오우, {pause 8}{Player name}{군/양}!{Greeting end}{pause 12}	이렇게 추운데 {pause 8}아침부터	놀러 온 건가? {pause 8}{catchphrase}?
+"003"	{emote: Soft Smile}{Greeting begin}후훗, {pause 8}{Player name}{군/양}!{Greeting end}{pause 32}	{emote: Glare}눈 내리는 {Town name (pink)} 마을에 어서 와!
+"004"	{emote: Glare}어서 와, {pause 8}{Town name (pink)} 마을에!{pause 32}	{emote: Fearful}그건 그렇고 좀 춥네{pause 8}・{pause 8}・{pause 8}・{pause 8}	{catchphrase}!
+"005"	{emote: Happiness}{Greeting begin}후훗, {pause 8}{Player name}{군/양}!{Greeting end}{pause 16}	여기 놀러 왔었구나, {pause 8}{catchphrase}!{pause 32}	{emote: Fearful}추운데 감기 걸리지 않았음 좋겠네{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"006"	{emote: Glare}{Town name (pink)} 마을에 어서 와!{pause 32}	{emote: Worry}그건 그렇고, {pause 8}눈이 그치질 않는군～	{pause 8}{catchphrase}
+"007"	{emote: Disbelief}우왓! {pause 8}{Player name}{군/양}인가?{pause 32}	{emote: Reset}{Town name (pink)} 마을에서 그대가	조난당하면 난 어쩌지? {pause 8}{catchphrase}?
+"008"	{emote: Alarmed}앗! {pause 16}{emote: Sheepishness}누군가 했더니	{Player name}{군/양}이군～{Wait for input}{emote: Worry}이런 시간에 헤매다가는{pause 8}	감기 걸린다! {pause 8}{catchphrase}!

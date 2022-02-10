@@ -1,5 +1,5 @@
 == 0 ==
-"001"	{emote: Resigned}
-"002"	{Greeting begin}
-"003"	{emote: Distress}
-"004"	{emote: Curious}
+"001"	{emote: Resigned}{ruby (charSpan 1): なに}何よ～！{pause 20}	まだ　{ruby (charSpan 1): なん}何かあったっけ？　{pause 15}{catchphrase}？
+"002"	{Greeting begin}{emote: Distress}{Player nickname (green)}{0005-000d-0000}{Greeting end}{pause 15}	ちょー{ruby (charSpan 2): げんき}元気だね～、{pause 15}{catchphrase}！{Wait for input}{emote: Soft Smile}アタイも{ruby (charSpan 1): ま}負けてらんないわ～{pause 30}	ところで、{pause 10}{ruby (charSpan 1): なん}何か　{ruby (charSpan 1): はなし}話でもあるの？！
+"003"	{emote: Distress}ちょっとちょっと、{pause 10}どうしたの～？！{Wait for input}	いっぱい{ruby (charSpan 1): はな}話しかけてくれるじゃん{pause 30}	{emote: Glare}さては、{pause 10}アタイの　かくれファンでしょ！
+"004"	{emote: Curious}ん？！{pause 20}	{ruby (charSpan 2): きょう}今日は、{pause 8}いっぱい{ruby (charSpan 1): はな}話しかけてくれるね！{Wait for input}{emote: Resigned}そんなに{pause 10}	アタイの{ruby (charSpan 1): き}気を{ruby (charSpan 1): ひ}引きたいの？　{pause 15}{catchphrase}？

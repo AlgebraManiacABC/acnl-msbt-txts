@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Happiness}
-"004"	あら？　{pause 20}
-"005"	{emote: Surprise}
-"006"	{emote: Distress}
+"001"	{emote: Happiness}また　{pause 10}{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくださいね！{pause 20}	お{ruby (charSpan 1): ま}待ちしています、{pause 15}{catchphrase}
+"002"	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): たの}楽しかったです！　{pause 20}{catchphrase}！
+"003"	{emote: Happiness}{Player nickname (green)}さんが　{ruby (charSpan 1): き}来てくださって{pause 10}	ほんと　うれしかったです
+"004"	あら？　{pause 20}どこに{ruby (charSpan 1): い}行かれるんですか？{pause 30}	{emote: Shyness}お{ruby (charSpan 1): はな}話ししたいこと　{pause 10}いっぱいあるのに～！
+"005"	{emote: Surprise}えぇっ？！{pause 20}	{Player nickname (green)}さん、{pause 15}	{emote: Soft Smile}もう{ruby (charSpan 1): かえ}帰っちゃうんですか？！	{emote: Happiness}エンリョせず{pause 10}	ゆっくりしていってくださいね！
+"006"	{emote: Distress}ま、{pause 10}{ruby (charSpan 1): ま}待ってください！{Wait for input}	{emote: Soft Smile}せっかく{ruby (charSpan 1): き}来たんですから{pause 10}	もっと　{pause 5}のんびりしていってくださいよ～

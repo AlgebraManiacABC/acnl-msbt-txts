@@ -1,30 +1,30 @@
 == 0 ==
-"001"	{0009-0003-000a-04-00-05-00-06-00-07-00-08-00}
-"002"	{0009-0003-000a-09-00-0a-00-0b-00-0c-00-0d-00}
-"003"	{0009-0003-000a-0e-00-0f-00-10-00-11-00-12-00}
-"004"	{000d-000b-0000}
-"005"	{000d-000b-0000}
-"006"	{000d-000b-0000}
-"007"	{000d-000b-0000}
-"008"	{000d-000b-0000}
-"009"	{000d-000b-0000}
-"010"	{000d-000b-0000}
-"011"	{000d-000b-0000}
-"012"	{000d-000b-0000}
-"013"	{000d-000b-0000}
-"014"	{000d-000b-0000}
-"015"	{000d-000b-0000}
-"016"	{000d-000b-0000}
-"017"	{000d-000b-0000}
-"018"	{000d-000b-0000}
-"019"	
-"020"	{000d-000b-0000}
-"021"	{000d-000b-0000}
-"022"	{0009-0002-0008-17-00-18-00-19-00-1a-00}
-"023"	{000d-000b-0000}
-"024"	{000d-000b-0000}
-"025"	{000d-000b-0000}
-"026"	{000d-000b-0000}
-"027"	{000d-000b-0000}
-"028"	{000d-000b-0000}
-"029"	{0009-0001-0006-17-00-19-00-1a-00}
+"001"	{0009-0003-000a-0004-0005-0006-0007-0008}
+"002"	{0009-0003-000a-0009-000a-000b-000c-000d}
+"003"	{0009-0003-000a-000e-000f-0010-0011-0012}
+"004"	{000d-000b-0000}{Gray}あ、{pause 8}あの{pause 4}・{pause 4}・{pause 4}・{pause 20}	スミマセン{pause 30}	こちらに　{ruby (charSpan 1): き}来ていただけますか？{Color Reset}{000d-000c-0000}
+"005"	{000d-000b-0000}{Gray}もしもし{pause 4}・{pause 4}・{pause 4}・{pause 20}	お{ruby (charSpan 1): いそが}忙しいところ　おそれ{ruby (charSpan 1): い}入ります{pause 4}・{pause 4}・{pause 4}・{Wait for input}よろしければ、{pause 8}	こちらに　{ruby (charSpan 1): き}来ていただけますか？{Color Reset}{000d-000c-0000}
+"006"	{000d-000b-0000}{Gray}あの・{pause 4}・{pause 4}・{pause 20}	お{ruby (charSpan 1): いそ}急ぎのところ	{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ございませんが{pause 4}・{pause 4}・{pause 4}・	こちらの{ruby (charSpan 1): ほう}方へ　{ruby (charSpan 1): き}来ていただけると{pause 8}	{ruby (charSpan 1): たす}助かるのですが{pause 4}・{pause 4}・{pause 4}・{Color Reset}{000d-000c-0000}
+"007"	{000d-000b-0000}{Gray}あの{pause 4}・{pause 4}・{pause 4}・{pause 20}	ちょっとだけ	お{ruby (charSpan 2): じかん}時間{pause 4}　よろしいでしょうか{pause 4}・{pause 4}・{pause 4}・	こちらの{ruby (charSpan 1): ほう}方へ　{ruby (charSpan 1): き}来ていただけると	ありがたいのですが{pause 4}・{pause 4}・{pause 4}・{Color Reset}{000d-000c-0000}
+"008"	{000d-000b-0000}{Gray}あ、{pause 8}あのぉ{pause 4}・{pause 4}・{pause 4}・{pause 20}	もしもし　そこのお{ruby (charSpan 1): かた}方、{pause 20}	よろしければ　こちらの{ruby (charSpan 1): ほう}方へ{pause 4}・{pause 4}・{pause 4}・{Color Reset}{000d-000c-0000}
+"009"	{000d-000b-0000}{Gray}ああっ{pause 20}	{ruby (charSpan 1): ちが}違います、{pause 4}{ruby (charSpan 1): ちが}違います{Wait for input}こっちなんです！{pause 20}	スミマセン{pause 4}・{pause 4}・{pause 4}・{Color Reset}{000d-000c-0000}
+"010"	{000d-000b-0000}{Gray}あっ！{pause 20}	そっちじゃないんです{pause 4}・{pause 4}・{pause 4}・{pause 20}	わかりづらくて　{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありません{Color Reset}{000d-000c-0000}
+"011"	{000d-000b-0000}{Gray}あの{pause 4}・{pause 4}・{pause 4}・{pause 20}　どちらかというと、{pause 20}	{ruby (charSpan 2): ほうこう}方向が　{ruby (charSpan 1): ぎゃく}逆のような{ruby (charSpan 1): き}気が{pause 4}	しないでもないのですが{pause 4}・{pause 4}・{pause 4}・{Color Reset}{000d-000c-0000}
+"012"	{000d-000b-0000}{Gray}あの{pause 4}・{pause 4}・{pause 4}・{pause 20}	そっちじゃないんです、{pause 20}	できれば　こちらの{ruby (charSpan 1): ほう}方に{pause 4}・{pause 4}・{pause 4}・{Color Reset}{000d-000c-0000}
+"013"	{000d-000b-0000}{Gray}あの{pause 4}・{pause 4}・{pause 4}・{pause 20}	{ruby (charSpan 1): とお}遠ざかってますよ、{pause 20}	もう{ruby (charSpan 1): すこ}少し　こちらの{ruby (charSpan 1): ほう}方へ{pause 4}・{pause 4}・{pause 4}・{Color Reset}{000d-000c-0000}
+"014"	{000d-000b-0000}{Gray}あっ、{pause 8}そうです{pause 4}・{pause 4}・{pause 4}・{pause 20}	こっちです{pause 4}　スミマセン{Color Reset}{000d-000c-0000}
+"015"	{000d-000b-0000}{Gray}あっ、{pause 8}そうです{pause 20}	もう{ruby (charSpan 1): すこ}少し　こちらの{ruby (charSpan 1): ほう}方へ{Color Reset}{000d-000c-0000}
+"016"	{000d-000b-0000}{Gray}あっ、{pause 8}そうです　そうです、{pause 20}	お{ruby (charSpan 2): てすう}手数かけて　{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ございません{pause 4}・{pause 4}・{pause 4}・{Color Reset}{000d-000c-0000}
+"017"	{000d-000b-0000}{Gray}あっ、{pause 8}{ruby (charSpan 1): あ}合ってます　{ruby (charSpan 1): あ}合ってます、{pause 20}	こちらの{ruby (charSpan 1): ほう}方へ{pause 4}　スミマセン{pause 4}・{pause 4}・{pause 4}・{Color Reset}{000d-000c-0000}
+"018"	{000d-000b-0000}{Gray}あっ、{pause 8}{ruby (charSpan 1): よ}良かった{pause 20}	こっちです　こっちです{pause 20}	わかりづらくて　スミマセン{pause 4}・{pause 4}・{pause 4}・{Color Reset}{000d-000c-0000}
+"019"
+"020"	{000d-000b-0000}あぁ、{pause 12}{ruby (charSpan 1): よ}良かったです{000d-000c-0000}
+"021"	{000d-000b-0000}あ、{pause 8}どーも　{ruby (charSpan 1): はじ}初めまして！{pause 40}	わたくし、こう{ruby (charSpan 1): み}見えましても{pause 8}	ランプの{ruby (charSpan 1): せい}精なんです{pause 4}・{pause 4}・{pause 4}・	あの{pause 4}・{pause 4}・{pause 4}・{pause 8}{ruby (charSpan 1): み}見えているのは	ランプなのですが、{pause 8}ランプの{ruby (charSpan 1): なか}中から	ごあいさつ　させていただいております	いきなり　このような　お{ruby (charSpan 1): ねが}願いをするのは{pause 8}	とても　{ruby (charSpan 1): き}気が{ruby (charSpan 1): ひ}引けるのですが{pause 4}・{pause 4}・{pause 4}・{Wait for input}どこか　{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着けるところに{pause 8}	{ruby (charSpan 1): つ}連れて{ruby (charSpan 1): い}行って　いただけないでしょうか？{pause 30}	{ruby (charSpan 1): たと}例えば、{pause 8}あなたさまの{ruby (charSpan 1): いえ}家とか{pause 4}・{pause 4}・{pause 4}・	そして　このランプを{pause 8}	お{ruby (charSpan 2): へや}部屋に　{ruby (charSpan 1): かざ}飾ってくださいまし！{Wait for input}{Blue}ランプをこすりますと{pause 8}　わたくしが{ruby (charSpan 2): とうじょう}登場する	という{ruby (charSpan 2): だんど}段取りに　なっております{pause 30}{Color Reset}	{Pink}ランプに{ruby (charSpan 1): む}向かってⒶを{ruby (charSpan 1): お}押す{Color Reset}　{Blue}でお{ruby (charSpan 1): ねが}願いします{Color Reset}	もちろん、お{ruby (charSpan 1): れい}礼は　ちゃんと	させていただきますので{pause 8}	なにとぞ　お{ruby (charSpan 1): さっ}察しくださいませ{pause 4}・{pause 4}・{pause 4}・{000d-000c-0000}{000f-0005-0004-0015-0028}	いいよー！	えーヤダ！
+"022"	{0009-0002-0008-0017-0018-0019-001a}
+"023"	{000d-000b-0000}あっ、{pause 8}どうも　どうも	スミマセン、{pause 20}	{ruby (charSpan 1): み}見つけていただきまして{pause 4}・{pause 4}・{pause 4}・	あのぉ{pause 4}・{pause 4}・{pause 4}・{pause 20}	こんな　お{ruby (charSpan 1): ねが}願いをするのは{pause 8}	{ruby (charSpan 1): き}気が{ruby (charSpan 1): ひ}引けるのですが{pause 4}・{pause 4}・{pause 4}・	どこか　{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着けるところへ{pause 8}	{ruby (charSpan 1): つ}連れて{ruby (charSpan 1): い}行って　もらえないでしょうか？{Wait for input}・{pause 4}・{pause 4}・{pause 4}そう、{pause 20}	{ruby (charSpan 1): たと}例えば　あなたさまの{ruby (charSpan 1): いえ}家とか{Wait for input}もちろん、{pause 8}ちゃんと　お{ruby (charSpan 1): れい}礼は	させていただきますので、{pause 20}	どうか　よろしくお{ruby (charSpan 1): ねが}願いします{000d-000c-0000}
+"024"	{000d-000b-0000}ああ、{ruby (charSpan 1): よ}良かった！{pause 30}	{ruby (charSpan 1): み}見つけてくださって	ありがとうございます！	さっそくなのですが、{pause 20}	どうか　わたくしの{ruby (charSpan 1): ねが}願いを{pause 4}	かなえて　いただけないでしょうか？	このぶんですと　わたくし、{pause 20}	{ruby (charSpan 1): だれ}誰に{ruby (charSpan 1): き}気づかれることもなく{pause 8}	ずっとここに　{ruby (charSpan 2): ほうち}放置されることでしょう{Wait for input}このまま{ruby (charSpan 1): くら}暗くなると{pause 8}	{ruby (charSpan 2): やせい}野生の{ruby (charSpan 1): なに}何かに　{ruby (charSpan 1): も}持ち{ruby (charSpan 1): さ}去られたり、{pause 16}	ユウレイが{ruby (charSpan 1): で}出てくるかも{pause 4}・{pause 4}・{pause 4}・	はい？{pause 20}	いえいえ、{pause 8}ランプの{ruby (charSpan 1): せい}精と　ユウレイとは{pause 8}	まるで{ruby (charSpan 1): べつ}別のものですから{pause 4}・{pause 4}・{pause 4}・	とにかくもう{pause 8}　{ruby (charSpan 1): かんが}考えただけで	こわくて　{ruby (charSpan 1): み}身がすくんでしまって{pause 8}	{ruby (charSpan 1): なに}何も　{ruby (charSpan 1): て}手につかないんです{Wait for input}わたくしが、{ruby (charSpan 1): なに}何を{ruby (charSpan 1): い}言いたいのか{pause 8}	そろそろ　{ruby (charSpan 1): さっ}察しがついたかと	{ruby (charSpan 1): おも}思うんですけど{pause 4}・{pause 4}・{pause 4}・	あなたさまの{ruby (charSpan 1): いえ}家に{pause 8}	{ruby (charSpan 1): つ}連れて{ruby (charSpan 1): い}行っていただけませんか？{Wait for input}そりゃもう、{pause 8}お{ruby (charSpan 1): れい}礼は　もちろん	させていただきますので、{pause 8}はい{pause 40}	それでは、お{ruby (charSpan 1): ねが}願いします！{000d-000c-0000}
+"025"	{000d-000b-0000}あっ　どうも、{pause 20}	また　お{ruby (charSpan 1): あ}会いしましたね{pause 8}・{pause 8}・{pause 8}・{pause 16}	{ruby (charSpan 1): よ}呼び{ruby (charSpan 1): と}止めたりして　{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありません	{ruby (charSpan 4): たんとうちょくにゅう}単刀直入に{ruby (charSpan 1): もう}申しますと{pause 8}	あなたさまの{ruby (charSpan 1): いえ}家に　{ruby (charSpan 1): つ}連れて{ruby (charSpan 1): い}行って	いただきたいのです{Wait for input}どうかこの　かわいそうなランプの{ruby (charSpan 1): せい}精を{pause 8}	{ruby (charSpan 1): たす}助けてやって　くださいませんでしょうか？{Wait for input}もちろん　お{ruby (charSpan 1): れい}礼の{ruby (charSpan 1): ほう}方は{pause 8}	ちゃんと　させていただきますから{Wait for input}そのへんは　{ruby (charSpan 2): いちおう}一応{pause 4}　ランプの{ruby (charSpan 1): せい}精ですので、{pause 8}	おそらく{pause 10}　ご{ruby (charSpan 2): きたい}期待にそえるかと{ruby (charSpan 1): おも}思います{Wait for input}それでは、よろしくお{ruby (charSpan 1): ねが}願いします{000d-000c-0000}
+"026"	{000d-000b-0000}あの{pause 4}・{pause 4}・{pause 4}・{pause 20}	エラそうに　お{ruby (charSpan 1): よ}呼び{ruby (charSpan 1): た}立てして	{ruby (charSpan 1): もう}申し{ruby (charSpan 1): わけ}訳ありません	わたくし、{pause 8}	とても{ruby (charSpan 1): こま}困っているのです{Wait for input}いろいろありまして、{pause 8}	{ruby (charSpan 1): いま}今はこんなところで	{ruby (charSpan 2): ほうち}放置されているのですが{pause 4}・{pause 4}・{pause 4}・	あなたさまの{ruby (charSpan 1): いえ}家とか、{pause 8}	{ruby (charSpan 2): あんしん}安心して　{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着ける{ruby (charSpan 2): ばしょ}場所を	{ruby (charSpan 1): さが}探しているのです	それで、なんとか{pause 8}	{ruby (charSpan 1): ちから}力をお{ruby (charSpan 1): か}貸しいただけないかと{pause 4}・{pause 4}・{pause 4}・{Wait for input}もちろん　お{ruby (charSpan 1): れい}礼の{ruby (charSpan 1): ほう}方は{pause 8}	ちゃんと　させていただきますので{Wait for input}それでは、よろしくお{ruby (charSpan 1): ねが}願いします{000d-000c-0000}
+"027"	{000d-000b-0000}あぁ！{pause 16}	ありがとうございます！{Wait for input}わたくし、こういう{pause 8}	{ruby (charSpan 1): だれ}誰が{ruby (charSpan 1): み}見ているか　わからない	{ruby (charSpan 1): ひろ}広い{ruby (charSpan 2): ばしょ}場所が{pause 4}　ニガテなんですよ	それでは、よろしくお{ruby (charSpan 1): ねが}願いします{000d-000c-0000}
+"028"	{000d-000b-0000}あぁ、{pause 8}そうですか{pause 4}・{pause 4}・{pause 4}・{pause 20}	ですよねぇ～{pause 20}{Wait for input}こんな{ruby (charSpan 2): えたい}得体の{ruby (charSpan 1): し}知れない	ランプの{ruby (charSpan 1): い}言うことですから、{pause 8}	{ruby (charSpan 2): きも}気持ちは　お{ruby (charSpan 1): さっ}察しいたします{pause 4}・{pause 4}・{pause 4}・	もし{ruby (charSpan 1): き}気が{ruby (charSpan 1): か}変わりましたら、{pause 8}	この　こぎたないランプめを{ruby (charSpan 1): ひろ}拾って{pause 8}	{ruby (charSpan 1): いえ}家に{ruby (charSpan 1): つ}連れて{ruby (charSpan 1): い}行ってくださいませ	きっと　{ruby (charSpan 1): そん}損をすることは{pause 8}	ないと{ruby (charSpan 1): おも}思いますので{pause 4}・{pause 4}・{pause 4}・{000d-000c-0000}
+"029"	{0009-0001-0006-0017-0019-001a}

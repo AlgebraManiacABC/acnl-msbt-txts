@@ -1,128 +1,128 @@
 == 0 ==
-"002"	うわっ！{pause 8}
-"003"	{ruby (charSpan 1): ぎゃく}逆に　ヤラれちゃった・・・{pause 8}!
-"004"	よし！{pause 8}
-"005"	{ruby (charSpan 1): ぎゃく}逆に　ヤラれた{ruby (charSpan 1): うえ}上に、{pause 8}
-"006"	{Blue}{0014-0001-0002-00-ffffffcd}{Color Reset}は　{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払ったけど、	{ruby (charSpan 1): どく}毒に　やられちゃった・・・
-"007"	よし！{pause 8}
-"008"	よし！{pause 8}
+"002"	うわっ！{pause 8}　{Blue}{0014-0001-0002-cd00}{Color Reset}だ・・・！{pause 8}	どうしよう？！{Player can respond (0000):0000-0000-0000-0000}	{ruby (charSpan 1): たたか}戦う！	{ruby (charSpan 1): に}逃げちゃう！
+"003"	{ruby (charSpan 1): ぎゃく}逆に　ヤラれちゃった・・・{pause 8}	イテテ・・・
+"004"	よし！{pause 8}　{Blue}{0014-0001-0002-cd00}{Color Reset}を{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払った！
+"005"	{ruby (charSpan 1): ぎゃく}逆に　ヤラれた{ruby (charSpan 1): うえ}上に、{pause 8}	{ruby (charSpan 1): どく}毒にまで　やられちゃった・・・
+"006"	{Blue}{0014-0001-0002-cd00}{Color Reset}は　{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払ったけど、	{ruby (charSpan 1): どく}毒に　やられちゃった・・・
+"007"	よし！{pause 8}　{Blue}{0014-0001-0002-cd00}{Color Reset}を{ruby (charSpan 2): たいじ}退治した！{pause 8}	ついでに　{Blue}{0014-0000-0002-cd00}{Color Reset}もゲット！
+"008"	よし！{pause 8}　{Blue}{0014-0001-0002-cd00}{Color Reset}を{ruby (charSpan 2): たいじ}退治した！{pause 8}	ついでに　{0014-0000-0002-cd00}を　{Blue}{Number (0x6)}{Color Reset}{ruby (charSpan 1): こ}個ゲット！
 "009"	うまく　{ruby (charSpan 1): に}逃げ{ruby (charSpan 1): き}切れるかな・・・？！
 "010"	{ruby (charSpan 1): に}逃げ{ruby (charSpan 1): き}切れなかった・・・
-"011"	よかった～！{pause 8}!
-"012"	{ruby (charSpan 1): に}逃げ{ruby (charSpan 1): き}切れなかった{ruby (charSpan 1): うえ}上に、{pause 8}
-"013"	うわっ！{pause 8}
-"014"	よし！{pause 8}
-"015"	{0000-0002-0002-ffffff96-00}あいたーっ！{0000-0002-0002-64-00}{0000-0004-0000}!
-"016"	{ruby (charSpan 2): やせい}野生の{ruby (charSpan 2): せいぶつ}生物の　{ruby (charSpan 2): けはい}気配を{ruby (charSpan 1): かん}感じる・・・{pause 8}
-"017"	うわっ！{pause 8}
+"011"	よかった～！{pause 8}　なんとか{ruby (charSpan 1): に}逃げ{ruby (charSpan 1): き}切れた！
+"012"	{ruby (charSpan 1): に}逃げ{ruby (charSpan 1): き}切れなかった{ruby (charSpan 1): うえ}上に、{pause 8}	{ruby (charSpan 1): どく}毒にまで　やられちゃった・・・
+"013"	うわっ！{pause 8}　{Blue}{0014-0001-0002-cd00}{Color Reset}だ・・・！{pause 8}	{Blue}{0014-0000-0002-cd00}{Color Reset}で　{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払っちゃえ！
+"014"	よし！{pause 8}　{Blue}{0014-0001-0002-cd00}{Color Reset}を{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払った！
+"015"	{Text size 150%}あいたーっ！{Text size 100%}{Wait for input}・・・でも　{ruby (charSpan 1): いきお}勢いで	{Blue}{0014-0001-0002-cd00}{Color Reset}を　{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払っちゃった！
+"016"	{ruby (charSpan 2): やせい}野生の{ruby (charSpan 2): せいぶつ}生物の　{ruby (charSpan 2): けはい}気配を{ruby (charSpan 1): かん}感じる・・・{pause 8}	{ruby (charSpan 1): き}気づかれないよう　{ruby (charSpan 1): いき}息をひそめよう・・・
+"017"	うわっ！{pause 8}　{Blue}{0014-0001-0002-cd00}{Color Reset}だ！{pause 8}	{ruby (charSpan 1): き}気づかれちゃった！
 "018"	{ruby (charSpan 1): き}気づかれずに　すんだ！
-"019"	{Blue}{0014-0001-0002-00-ffffffcd}{Color Reset}が　おとしあなに	ハマっているみたい・・・！{0000-0004-0000}
-"021"	あっ！{pause 8}
-"022"	うまく　{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払えば、	ハチミツをゲットできるかも・・・？{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"023"	あっ！{pause 8}
-"024"	わ～い！　ハチの{ruby (charSpan 1): す}巣だ♪{pause 8}
+"019"	{Blue}{0014-0001-0002-cd00}{Color Reset}が　おとしあなに	ハマっているみたい・・・！{Wait for input}{ruby (charSpan 1): いま}今のうちに　{ruby (charSpan 1): に}逃げちゃおっと・・・！
+"021"	あっ！{pause 8}　ハチの{ruby (charSpan 1): す}巣だ・・・！
+"022"	うまく　{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払えば、	ハチミツをゲットできるかも・・・？{Player can respond (0005):0000-0000-0000-0000}	ハチを{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払う！	そっと{ruby (charSpan 1): はな}離れる
+"023"	あっ！{pause 8}　ハチの{ruby (charSpan 1): す}巣だ・・・！{Wait for input}{Blue}あみ{Color Reset}を　{ruby (charSpan 1): も}持ってるから、{pause 8}	{ruby (charSpan 1): いま}今なら　{ruby (charSpan 2): かんたん}簡単に{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払えそう！{Player can respond (0005):0000-0000-0000-0000}	ハチを{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払う！	そっと{ruby (charSpan 1): はな}離れる
+"024"	わ～い！　ハチの{ruby (charSpan 1): す}巣だ♪{pause 8}	ハチミツ　いただき～！
 "025"	わ～い！　ハチの{ruby (charSpan 1): す}巣だ♪	{Blue}あみ{Color Reset}で　ハチミツをとっちゃえ～
-"026"	あ～あ、{pause 8}
-"027"	ハチの{ruby (charSpan 1): す}巣を　{ruby (charSpan 1): お}落としてしまって{pause 8}
-"028"	よし！{pause 8}
-"029"	{ruby (charSpan 1): さ}刺されちゃったら　イヤだし、{pause 8}
-"030"	あっ！　ハチの{ruby (charSpan 1): す}巣だ♪	{Blue}{0014-0000-0002-00-ffffffcd}{Color Reset}で　ハチミツをとっちゃえ～
-"031"	よし！{pause 8}
-"032"	いてて・・・{ruby (charSpan 1): き}木に　ぶつかっちゃった・・・{pause 8}
+"026"	あ～あ、{pause 8}ハチに　{ruby (charSpan 1): さ}刺されちゃった・・・{pause 8}	イテテ・・・
+"027"	ハチの{ruby (charSpan 1): す}巣を　{ruby (charSpan 1): お}落としてしまって{pause 8}	ハチミツを　とり{ruby (charSpan 1): のが}逃した・・・。
+"028"	よし！{pause 8}　ハチを　{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払った！{Wait for input}{Blue}ハチミツ　{Number (0x6)}{Color Reset}{ruby (charSpan 1): こ}個ゲット！{pause 8}	{ruby (charSpan 2): しょくりょう}食料のストックが　{ruby (charSpan 1): ふ}増えた！
+"029"	{ruby (charSpan 1): さ}刺されちゃったら　イヤだし、{pause 8}	そ～っと　{ruby (charSpan 1): はな}離れよっと・・・
+"030"	あっ！　ハチの{ruby (charSpan 1): す}巣だ♪	{Blue}{0014-0000-0002-cd00}{Color Reset}で　ハチミツをとっちゃえ～
+"031"	よし！{pause 8}　ハチを　{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払った！{Wait for input}{Blue}ハチミツ　{Number (0x6)}{Color Reset}{ruby (charSpan 1): こ}個ゲット！{pause 8}	{ruby (charSpan 2): しょくりょう}食料のストックが　{ruby (charSpan 1): ふ}増えた！
+"032"	いてて・・・{ruby (charSpan 1): き}木に　ぶつかっちゃった・・・{pause 8}	でも　{Blue}ハチミツ　{Number (0x6)}{Color Reset}{ruby (charSpan 1): こ}個ゲット！
 "034"	{Blue}ヤシ{Color Reset}の{ruby (charSpan 1): き}木を　{ruby (charSpan 1): み}見つけた！
 "035"	やった～♪	{ruby (charSpan 2): こうぶつ}好物の　{Blue}ヤシ{Color Reset}の{ruby (charSpan 1): き}木を　{ruby (charSpan 1): み}見つけた♪
-"036"	{Blue}{0014-0002-0002-00-ffffffcd}{Color Reset}の{ruby (charSpan 1): き}木を　{ruby (charSpan 1): み}見つけた！
-"037"	やった～♪	{ruby (charSpan 2): こうぶつ}好物の　{Blue}{Blue}{0014-0002-0002-00-ffffffcd}{Blue}{Color Reset}の{ruby (charSpan 1): き}木を　{ruby (charSpan 1): み}見つけた♪
+"036"	{Blue}{0014-0002-0002-cd00}{Color Reset}の{ruby (charSpan 1): き}木を　{ruby (charSpan 1): み}見つけた！
+"037"	やった～♪	{ruby (charSpan 2): こうぶつ}好物の　{Blue}{Blue}{0014-0002-0002-cd00}{Blue}{Color Reset}の{ruby (charSpan 1): き}木を　{ruby (charSpan 1): み}見つけた♪
 "038"	{ruby (charSpan 1): き}木をゆすって　とっちゃえ～！
-"039"	{Blue}{0014-0002-0002-00-ffffffcd}{Color Reset}　{Blue}{Number (0x6)}
-"041"	あっ！{pause 8}
+"039"	{Blue}{0014-0002-0002-cd00}{Color Reset}　{Blue}{Number (0x6)}{Color Reset}{ruby (charSpan 1): こ}個ゲット！{pause 8}	{ruby (charSpan 2): しょくりょう}食料のストックが　{ruby (charSpan 1): ふ}増えた！
+"041"	あっ！{pause 8}　サカナがいる！{pause 8}	{ruby (charSpan 1): つ}釣ってみよっと！
 "042"	1{ruby (charSpan 1): ぴき}匹も　{ruby (charSpan 1): つ}釣れなかった・・・
-"043"	{Blue}{Number (0x6)}
-"044"	あっ！{pause 8}
-"045"	あっ！{pause 8}
-"046"	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): ちょうし}調子が{ruby (charSpan 1): わる}悪いみたい・・・{pause 8}
-"047"	よし！{pause 8}
-"048"	わ～い！{pause 8}
-"049"	{Blue}{Number (0x6)}
-"051"	よし！　{ruby (charSpan 1): あつ}集めた{ruby (charSpan 2): ざいりょう}材料で　いかだを{ruby (charSpan 1): つく}作ろう！{0007-0009-0004-78-00-00-00}!
-"052"	いかだが　{ruby (charSpan 2): かんせい}完成した！{pause 8}
+"043"	{Blue}{Number (0x6)}{Color Reset}{000e-000d-0000}　{ruby (charSpan 1): つ}釣りあげた！{pause 8}	{ruby (charSpan 2): しょくりょう}食料のストックが　{ruby (charSpan 1): ふ}増えた！
+"044"	あっ！{pause 8}　サカナがいる！{Wait for input}・・・でも　{ruby (charSpan 1): いま}今は	つりざおを　{ruby (charSpan 1): も}持ってないや
+"045"	あっ！{pause 8}　サカナがいる♪{Wait for input}サカナ{ruby (charSpan 1): と}獲るの　{ruby (charSpan 2): とくい}得意だから、	{ruby (charSpan 2): すで}素手で　{ruby (charSpan 1): と}獲っちゃえ～！
+"046"	{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): ちょうし}調子が{ruby (charSpan 1): わる}悪いみたい・・・{pause 8}	1{ruby (charSpan 1): ぴき}匹も　{ruby (charSpan 1): と}獲れなかった・・・
+"047"	よし！{pause 8}　つかまえた～！{Wait for input}{Blue}サカナ　{Number (0x6)}{Color Reset}{000e-000d-0000}ゲット！{pause 8}	{ruby (charSpan 2): しょくりょう}食料のストックが　{ruby (charSpan 1): ふ}増えた！
+"048"	わ～い！{pause 8}　サカナだ！{pause 8}	{ruby (charSpan 1): つ}釣っちゃえ～♪
+"049"	{Blue}{Number (0x6)}{Color Reset}{000e-000d-0000}　{ruby (charSpan 1): つ}釣り{ruby (charSpan 1): あ}上げた！{pause 8}	{ruby (charSpan 2): しょくりょう}食料のストックが　{ruby (charSpan 1): ふ}増えた！
+"051"	よし！　{ruby (charSpan 1): あつ}集めた{ruby (charSpan 2): ざいりょう}材料で　いかだを{ruby (charSpan 1): つく}作ろう！{Wait <0078 0000> 'time'}
+"052"	いかだが　{ruby (charSpan 2): かんせい}完成した！{pause 8}	さあ、{ruby (charSpan 2): だっしゅつ}脱出だ～♪{Wait <0078 0000> 'time'}
 "053"	{ruby (charSpan 2): こんや}今夜の{ruby (charSpan 2): しょくりょう}食料を　{ruby (charSpan 2): ちょうたつ}調達できなかった・・・
 "054"	{ruby (charSpan 2): やくそく}約束の{ruby (charSpan 2): にっすう}日数が　{ruby (charSpan 1): す}過ぎてしまった・・・
-"055"	{Blue}{0014-0000-0002-00-ffffffcd}{Color Reset}が　{ruby (charSpan 1): こわ}壊れてしまった・・・
-"057"	うわっ！{pause 8}
-"058"	うわ～ん！　{ruby (charSpan 1): ぬ}抜け{ruby (charSpan 1): だ}出せな～い！{pause 8}
+"055"	{Blue}{0014-0000-0002-cd00}{Color Reset}が　{ruby (charSpan 1): こわ}壊れてしまった・・・
+"057"	うわっ！{pause 8}　{ruby (charSpan 1): お}落とし{ruby (charSpan 1): あな}穴だ！！
+"058"	うわ～ん！　{ruby (charSpan 1): ぬ}抜け{ruby (charSpan 1): だ}出せな～い！{pause 8}	{ruby (charSpan 2): あしど}足止めを　くらっちゃった・・・。
 "059"	なんとか　{ruby (charSpan 1): ぬ}抜け{ruby (charSpan 1): だ}出せた～！
-"060"	あっ・・・！{pause 8}!
-"061"	{Blue}{0014-0000-0002-00-ffffffcd}{Color Reset}で　{ruby (charSpan 1): ほ}掘ってみよっと・・・
-"062"	あぶなかった～！{pause 8}
+"060"	あっ・・・！{pause 8}	{ruby (charSpan 1): なに}何かが　{ruby (charSpan 1): う}埋まってるみたい！
+"061"	{Blue}{0014-0000-0002-cd00}{Color Reset}で　{ruby (charSpan 1): ほ}掘ってみよっと・・・
+"062"	あぶなかった～！{pause 8}	おとしあなだったみたい！
 "063"	{Blue}おとしあなのタネ{Color Reset}と{ruby (charSpan 2): いっしょ}一緒に	{ruby (charSpan 2): いろいろ}色々　{ruby (charSpan 1): ほ}掘り{ruby (charSpan 1): お}起こした！
-"064"	{<00><10>おとしあなのタネ<10>おとしあなのタネ}を　{Blue}{Number (0x6)}!
-"065"	わわっ！{pause 8}
-"066"	うわっ！{pause 8}
-"067"	うわ～ん！　{ruby (charSpan 1): ぬ}抜け{ruby (charSpan 1): だ}出せな～い！{pause 8}
-"068"	・・・ん？{pause 8}
+"064"	{/おとしあなのタネ/おとしあなのタネ}を　{Blue}{Number (0x6)}{Color Reset}{ruby (charSpan 1): こ}個　{ruby (charSpan 1): み}見つけた！{Wait for input}ついでに　おとしあなを{ruby (charSpan 1): ほ}掘ってみる？{Player can respond (0005):0000-0000-0000-0000}	{ruby (charSpan 1): あな}穴を{ruby (charSpan 1): ほ}掘る！	やめとく
+"065"	わわっ！{pause 8}　{ruby (charSpan 2): じぶん}自分たちが{ruby (charSpan 1): つく}作った	おとしあなに　ハマってしまった・・・
+"066"	うわっ！{pause 8}　{ruby (charSpan 1): お}落とし{ruby (charSpan 1): あな}穴だ！！
+"067"	うわ～ん！　{ruby (charSpan 1): ぬ}抜け{ruby (charSpan 1): だ}出せな～い！{pause 8}	{ruby (charSpan 2): あしど}足止めを　くらっちゃった・・・。
+"068"	・・・ん？{pause 8}	{ruby (charSpan 1): なに}何かを　{ruby (charSpan 1): とお}通り{ruby (charSpan 1): す}過ぎたような・・・？
 "070"	{ruby (charSpan 1): も}持ち{ruby (charSpan 1): もの}物チェック{ruby (charSpan 1): ちゅう}中・・・
-"071"	1{ruby (charSpan 1): にち}日　お{ruby (charSpan 1): つか}疲れさま！{pause 8}
-"072"	{ruby (charSpan 2): しょくりょう}食料のストックが　もうないや・・・。{pause 8}!
+"071"	1{ruby (charSpan 1): にち}日　お{ruby (charSpan 1): つか}疲れさま！{pause 8}	{ruby (charSpan 2): あした}明日も　{ruby (charSpan 2): たんさく}探索がんばろう！
+"072"	{ruby (charSpan 2): しょくりょう}食料のストックが　もうないや・・・。{pause 8}	{ruby (charSpan 2): あした}明日　{ruby (charSpan 1): た}食べ{ruby (charSpan 1): もの}物を{ruby (charSpan 1): み}見つけてこないと・・・。
 "073"	{ruby (charSpan 2): あした}明日が　{ruby (charSpan 2): さいご}最後の{ruby (charSpan 1): ひ}日だ・・・！
 "074"	・・・さて、どうしようかな？
 "075"	ご{ruby (charSpan 1): はん}飯を{ruby (charSpan 1): た}食べて{ruby (charSpan 1): ね}寝る
 "076"	{ruby (charSpan 2): どうぐ}道具を{ruby (charSpan 1): つく}作る
 "077"	{ruby (charSpan 1): も}持ち{ruby (charSpan 1): もの}物をチェック
 "078"	ケガの{ruby (charSpan 2): ちりょう}治療
-"079"	{ruby (charSpan 1): だれ}誰を　{ruby (charSpan 2): ちりょう}治療しますか？	（ {ruby (charSpan 1): も}持ってる{Blue}おくすり{Color Reset}の{ruby (charSpan 1): かず}数 : {Blue}{Number (0x6)}
-"080"	{ruby (charSpan 4): おうきゅうしょち}応急処置ができる　メンバーがいるので	{ruby (charSpan 2): しょくりょう}食料で　ケガを{ruby (charSpan 2): ちりょう}治療できます。{0000-0004-0000}
-"081"	
-"082"	
-"083"	
+"079"	{ruby (charSpan 1): だれ}誰を　{ruby (charSpan 2): ちりょう}治療しますか？	（ {ruby (charSpan 1): も}持ってる{Blue}おくすり{Color Reset}の{ruby (charSpan 1): かず}数 : {Blue}{Number (0x6)}{Color Reset}{ruby (charSpan 1): こ}個 )
+"080"	{ruby (charSpan 4): おうきゅうしょち}応急処置ができる　メンバーがいるので	{ruby (charSpan 2): しょくりょう}食料で　ケガを{ruby (charSpan 2): ちりょう}治療できます。{Wait for input}{ruby (charSpan 1): だれ}誰を　{ruby (charSpan 2): ちりょう}治療しますか？	（ {ruby (charSpan 1): のこ}残り{ruby (charSpan 2): しょくりょう}食料 : {Blue}{Number (0x7)}{Color Reset}{ruby (charSpan 1): こ}個 ）
+"081"
+"082"
+"083"
 "084"	やめておく
-"085"	{Orange}{0011-0001-0002-00-00}
-"086"	まだできることが　{ruby (charSpan 1): のこ}残っていますが	もう　{ruby (charSpan 1): ね}寝ますか？{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"087"	{Orange}{0011-0001-0002-00-00}
-"088"	{ruby (charSpan 4): おうきゅうしょち}応急処置ができる　メンバーがいるので	{ruby (charSpan 2): しょくりょう}食料で　ケガを{ruby (charSpan 2): ちりょう}治療できます。{0000-0004-0000}
-"089"	{Blue}つりざお{Color Reset}を　{ruby (charSpan 1): つく}作った！{0000-0004-0000}
-"090"	{Blue}パチンコ{Color Reset}を　{ruby (charSpan 1): つく}作った！{0000-0004-0000}
-"091"	{Blue}あみ{Color Reset}を　{ruby (charSpan 1): つく}作った！{0000-0004-0000}
-"092"	{Blue}スコップ{Color Reset}を　{ruby (charSpan 1): つく}作った！{0000-0004-0000}
-"093"	{Blue}ぎんのつりざお{Color Reset}を　{ruby (charSpan 1): つく}作った！{0000-0004-0000}
-"094"	{Blue}ぎんのパチンコ{Color Reset}を　{ruby (charSpan 1): つく}作った！{0000-0004-0000}
-"095"	{Blue}ぎんのあみ{Color Reset}を　{ruby (charSpan 1): つく}作った！{0000-0004-0000}
-"096"	{Blue}ぎんのスコップ{Color Reset}を　{ruby (charSpan 1): つく}作った！{0000-0004-0000}
-"097"	{Blue}きんのつりざお{Color Reset}を　{ruby (charSpan 1): つく}作った！{0000-0004-0000}
-"098"	{Blue}きんのパチンコ{Color Reset}を　{ruby (charSpan 1): つく}作った！{0000-0004-0000}
-"099"	{Blue}きんのあみ{Color Reset}を　{ruby (charSpan 1): つく}作った！{0000-0004-0000}
-"100"	{Blue}きんのスコップ{Color Reset}を　{ruby (charSpan 1): つく}作った！{0000-0004-0000}
-"101"	
-"102"	
-"103"	
-"104"	
+"085"	{Orange}{0011-0001-0002-0000}{Color Reset}の　ケガが{ruby (charSpan 1): なお}治った！
+"086"	まだできることが　{ruby (charSpan 1): のこ}残っていますが	もう　{ruby (charSpan 1): ね}寝ますか？{Player can respond (0005):0000-0000-0000-0000}	もう{ruby (charSpan 1): ね}寝る	まだ{ruby (charSpan 1): ね}寝ない
+"087"	{Orange}{0011-0001-0002-0000}{Color Reset}のケガを　{ruby (charSpan 2): ちりょう}治療しますか？	（ {ruby (charSpan 1): も}持ってる{Blue}おくすり{Color Reset}の{ruby (charSpan 1): かず}数 : {Blue}{Number (0x6)}{Color Reset}{ruby (charSpan 1): こ}個 ){Player can respond (0005):0000-0000-0000-0000}	{ruby (charSpan 2): ちりょう}治療する	やめておく
+"088"	{ruby (charSpan 4): おうきゅうしょち}応急処置ができる　メンバーがいるので	{ruby (charSpan 2): しょくりょう}食料で　ケガを{ruby (charSpan 2): ちりょう}治療できます。{Wait for input}{Orange}{0011-0001-0002-0000}{Color Reset}のケガを　{ruby (charSpan 2): ちりょう}治療しますか？	（ {ruby (charSpan 1): のこ}残り{ruby (charSpan 2): しょくりょう}食料 : {Blue}{Number (0x7)}{Color Reset}{ruby (charSpan 1): こ}個 ）{Player can respond (0005):0000-0000-0000-0000}	{ruby (charSpan 2): ちりょう}治療する	やめておく
+"089"	{Blue}つりざお{Color Reset}を　{ruby (charSpan 1): つく}作った！{Wait for input}サカナのいる　{ruby (charSpan 2): みずべ}水辺で	{ruby (charSpan 2): しょくりょう}食料を　{ruby (charSpan 1): つ}釣りあげちゃおう！
+"090"	{Blue}パチンコ{Color Reset}を　{ruby (charSpan 1): つく}作った！{Wait for input}ジャングルで　{ruby (charSpan 2): やせい}野生の{ruby (charSpan 2): せいぶつ}生物に{ruby (charSpan 1): おそ}襲われても	へっちゃら・・・かもしれない？！
+"091"	{Blue}あみ{Color Reset}を　{ruby (charSpan 1): つく}作った！{Wait for input}これで　ハチを{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払えば、	{ruby (charSpan 2): しょくりょう}食料のハチミツも　らくらくゲット？！
+"092"	{Blue}スコップ{Color Reset}を　{ruby (charSpan 1): つく}作った！{Wait for input}これさえあれば　おとしあなも{ruby (charSpan 1): こわ}怖くない！
+"093"	{Blue}ぎんのつりざお{Color Reset}を　{ruby (charSpan 1): つく}作った！{Wait for input}サカナのいる　{ruby (charSpan 2): みずべ}水辺で	{ruby (charSpan 2): しょくりょう}食料を　{ruby (charSpan 1): つ}釣りあげちゃおう！
+"094"	{Blue}ぎんのパチンコ{Color Reset}を　{ruby (charSpan 1): つく}作った！{Wait for input}これさえあれば　{ruby (charSpan 2): やせい}野生の{ruby (charSpan 2): せいぶつ}生物に	{ruby (charSpan 1): おそ}襲われても　へっちゃら♪
+"095"	{Blue}ぎんのあみ{Color Reset}を　{ruby (charSpan 1): つく}作った！{Wait for input}ハチを{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払える{ruby (charSpan 1): うえ}上に、まわりの{ruby (charSpan 1): きり}霧を{ruby (charSpan 1): は}晴らし	アイテムも{ruby (charSpan 1): あつ}集められる　すぐれもの！
+"096"	{Blue}ぎんのスコップ{Color Reset}を　{ruby (charSpan 1): つく}作った！{Wait for input}おとしあなに　{ruby (charSpan 1): お}落ちなくてすむ{ruby (charSpan 1): うえ}上に、	アイテムも{ruby (charSpan 1): ほ}掘りおこせる　すぐれもの！
+"097"	{Blue}きんのつりざお{Color Reset}を　{ruby (charSpan 1): つく}作った！{Wait for input}サカナのいる　{ruby (charSpan 2): みずべ}水辺で	{ruby (charSpan 2): しょくりょう}食料を　{ruby (charSpan 1): つ}釣りあげちゃおう！
+"098"	{Blue}きんのパチンコ{Color Reset}を　{ruby (charSpan 1): つく}作った！{Wait for input}これさえあれば　{ruby (charSpan 2): やせい}野生の{ruby (charSpan 2): せいぶつ}生物に	{ruby (charSpan 1): おそ}襲われても　へっちゃら♪
+"099"	{Blue}きんのあみ{Color Reset}を　{ruby (charSpan 1): つく}作った！{Wait for input}ハチを{ruby (charSpan 1): お}追い{ruby (charSpan 1): はら}払える{ruby (charSpan 1): うえ}上に、まわりの{ruby (charSpan 1): きり}霧を{ruby (charSpan 1): は}晴らし	アイテムも{ruby (charSpan 1): あつ}集められる　すぐれもの！
+"100"	{Blue}きんのスコップ{Color Reset}を　{ruby (charSpan 1): つく}作った！{Wait for input}おとしあなに　{ruby (charSpan 1): お}落ちなくてすむ{ruby (charSpan 1): うえ}上に、	アイテムも{ruby (charSpan 1): ほ}掘りおこせる　すぐれもの！
+"101"
+"102"
+"103"
+"104"
 "105"	セーブに{ruby (charSpan 2): しっぱい}失敗しました。	タイトル{ruby (charSpan 2): がめん}画面に　もどります。
-"106"	{0014-0000-0002-00-ffffffcd}を　{ruby (charSpan 1): つく}作りますか？{Player can respond: 0006-00-00-00-00-00-00-00-00-00-00-00-00}
-"107"	
-"108"	
-"109"	
-"110"	
-"111"	
-"112"	
-"113"	
-"114"	
-"115"	
-"116"	
-"117"	
-"119"	{Blue}a{ruby (charSpan 4): アミーボ}miibo{Color Reset}を{ruby (charSpan 1): つか}使う{ruby (charSpan 2): ばあい}場合は  をタッチ、	{Orange}ゲームコイン({ruby (charSpan 2): ひとり}1人につき {Number (0x6)}
-"120"	{ruby (charSpan 2): ぜんかい}前回のメンバーで	ゲームスタート しますか？{Player can respond: 0005-00-00-00-00-00-00-00-00}
+"106"	{0014-0000-0002-cd00}を　{ruby (charSpan 1): つく}作りますか？{Player can respond (0006):0000-0000-0000-0000-0000-0000}	{ruby (charSpan 1): つく}作る	{ruby (charSpan 2): せつめい}説明を{ruby (charSpan 1): み}見る	やめる
+"107"
+"108"
+"109"
+"110"
+"111"
+"112"
+"113"
+"114"
+"115"
+"116"
+"117"
+"119"	{Blue}a{ruby (charSpan 4): アミーボ}miibo{Color Reset}を{ruby (charSpan 1): つか}使う{ruby (charSpan 2): ばあい}場合は  をタッチ、	{Orange}ゲームコイン({ruby (charSpan 2): ひとり}1人につき {Number (0x6)}{ruby (charSpan 1): まい}枚){Color Reset}を{ruby (charSpan 1): つか}使うなら	{ruby (charSpan 2): じゅうみん}住民のアイコンをタッチして　3{ruby (charSpan 1): にん}人{ruby (charSpan 1): えら}選ぼう！
+"120"	{ruby (charSpan 2): ぜんかい}前回のメンバーで	ゲームスタート しますか？{Player can respond (0005):0000-0000-0000-0000}	ゲームスタート	{ruby (charSpan 1): えら}選びなおす
 "121"		{Orange}ゲームコイン{Color Reset}が　{ruby (charSpan 1): た}足りないヨ！
 "122"	{ruby (charSpan 1): した}下{ruby (charSpan 2): がめん}画面に　どうぶつの{ruby (charSpan 1): もり}森シリーズの	{Blue}a{ruby (charSpan 4): アミーボ}miibo{Color Reset}を　タッチしてください
-"123"	{Blue}NFCリーダー/ライター{Color Reset}の{ruby (charSpan 2): でんげん}電源を{ruby (charSpan 1): い}入れて	{ruby (charSpan 1): よ}読み{ruby (charSpan 1): と}取りの{ruby (charSpan 2): じゅんび}準備をしてください{0000-0004-0000}
-"124"	
-"125"	{Orange}まめきち{Color Reset}と　{Orange}つぶきち{Color Reset}の	どちらを{ruby (charSpan 2): とうろく}登録しますか？{Player can respond: 0000-00-00-00-00-00-00-00-00}
+"123"	{Blue}NFCリーダー/ライター{Color Reset}の{ruby (charSpan 2): でんげん}電源を{ruby (charSpan 1): い}入れて	{ruby (charSpan 1): よ}読み{ruby (charSpan 1): と}取りの{ruby (charSpan 2): じゅんび}準備をしてください{Wait for input}どうぶつの{ruby (charSpan 1): もり}森シリーズの	{Blue}a{ruby (charSpan 4): アミーボ}miibo{Color Reset}を　タッチしてください
+"124"
+"125"	{Orange}まめきち{Color Reset}と　{Orange}つぶきち{Color Reset}の	どちらを{ruby (charSpan 2): とうろく}登録しますか？{Player can respond (0000):0000-0000-0000-0000}	まめきち	つぶきち
 "126"	{Orange}まめきち{Color Reset}と　{Orange}つぶきち{Color Reset}は	もうメンバーに{ruby (charSpan 2): とうろく}登録されてるヨ！
-"127"	{Orange}{0011-0001-0002-00-00}
-"128"	
+"127"	{Orange}{0011-0001-0002-0000}{Color Reset}は	もうメンバーに{ruby (charSpan 2): とうろく}登録されてるヨ！
+"128"
 "129"	{Orange}ゲームコイン{Color Reset}を{ruby (charSpan 1): つか}使わず、	{Blue}a{ruby (charSpan 4): アミーボ}miibo{Color Reset}の{ruby (charSpan 2): じゅうみん}住民が{ruby (charSpan 2): さんか}参加します
-"130"	もっかい{ruby (charSpan 1): あそ}遊ぶ？{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"131"	もっかい{ruby (charSpan 1): あそ}遊ぶ？{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"132"	もっかい{ruby (charSpan 1): あそ}遊ぶ？{Player can respond: 0000-00-00-00-00-00-00-00-00}
-"133"	
-"134"	{ruby (charSpan 2): ぜんかい}前回のメンバーで	ゲームスタート しますか？{Player can respond: 0005-00-00-00-00-00-00-00-00}
-"135"	{ruby (charSpan 2): ぜんかい}前回のメンバーで	ゲームスタート しますか？{Player can respond: 0005-00-00-00-00-00-00-00-00}
+"130"	もっかい{ruby (charSpan 1): あそ}遊ぶ？{Player can respond (0000):0000-0000-0000-0000}	もっかい{ruby (charSpan 1): あそ}遊ぶ	タイトルにもどる
+"131"	もっかい{ruby (charSpan 1): あそ}遊ぶ？{Player can respond (0000):0000-0000-0000-0000}	もっかい{ruby (charSpan 1): あそ}遊ぶ　{Number (0x6)}{ruby (charSpan 1): まい}枚	タイトルにもどる
+"132"	もっかい{ruby (charSpan 1): あそ}遊ぶ？{Player can respond (0000):0000-0000-0000-0000}	{Gray}もっかい{ruby (charSpan 1): あそ}遊ぶ　{Number (0x6)}{ruby (charSpan 1): まい}枚	{Color Reset}タイトルにもどる
+"133"
+"134"	{ruby (charSpan 2): ぜんかい}前回のメンバーで	ゲームスタート しますか？{Player can respond (0005):0000-0000-0000-0000}	ゲームスタート {Number (0x6)}{ruby (charSpan 1): まい}枚	{ruby (charSpan 1): えら}選びなおす
+"135"	{ruby (charSpan 2): ぜんかい}前回のメンバーで	ゲームスタート しますか？{Player can respond (0005):0000-0000-0000-0000}	{Gray}ゲームスタート {Number (0x6)}{ruby (charSpan 1): まい}枚{Color Reset}	{ruby (charSpan 1): えら}選びなおす

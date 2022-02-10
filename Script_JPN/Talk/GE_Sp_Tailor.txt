@@ -1,13 +1,13 @@
 == 0 ==
-"001"	
-"002"	{0009-0001-0006-05-00-06-00-0c-00}
-"003"	{000a-0000-0006-02-09-00-0a-00-ffffffcd}
-"004"	
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Resigned}
-"009"	{emote: Happiness}
-"010"	{emote: Soft Smile}
-"011"	
-"012"	{000a-0000-0006-02-07-00-08-00-ffffffcd}
+"001"
+"002"	{0009-0001-0006-0005-0006-000c}
+"003"	{000a-0000-0006-0902-0a00-cd00}
+"004"
+"005"	{emote: Happiness}ここって{pause 10}	{ruby (charSpan 1): いろ}色んな{ruby (charSpan 2): しゅるい}種類の{ruby (charSpan 2): ようふく}洋服があるから、{pause 15}	{emote: Glee}{ruby (charSpan 2): しちゃく}試着するだけでも　{pause 5}{ruby (charSpan 1): たの}楽しいよね！
+"006"	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{pause 10}{ruby (charSpan 2): しんさく}新作{ruby (charSpan 1): はい}入ってるかな？{Wait for input}	{emote: Glee}オシャレにこだわるなら、{pause 10}	チェックは　かかせないよね！
+"007"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}と{pause 10}	ペアルックしたいな～！{Wait for input}{emote: Joy}イケてる{ruby (charSpan 2): ようふく}洋服　{ruby (charSpan 1): み}見つけたら{pause 10}	いっしょに{ruby (charSpan 1): か}買おうよ～、{pause 10}{catchphrase}！{emote: Soft Smile}
+"008"	{emote: Resigned}{ruby (charSpan 2): しちゃく}試着してみないと{pause 10}	{ruby (charSpan 2): にあ}似合うか　わかんないこと、{pause 10}	けっこう　あるよね～
+"009"	{emote: Happiness}ここまで　{ruby (charSpan 1): か}買いに{ruby (charSpan 1): く}来るなんて、{pause 10}	{Player nickname (green)}{0005-000d-0000}は　{pause 10}{ruby (charSpan 2): ようふく}洋服{ruby (charSpan 1): ず}好きなんだね～
+"010"	{emote: Soft Smile}だれかへの{pause 5}	プレゼント　さがしてるの？{Wait for input}{emote: Reset}{ruby (charSpan 2): ようふく}洋服って　{pause 10}シュミがあるから{pause 5}	むずかしいけど、{Wait for input}{emote: Happiness}{ruby (charSpan 2): あいて}相手が　{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってくれた{ruby (charSpan 1): とき}時は{pause 10}	{emote: Joy}サイコーに　うれしいもんだよね{pause 20}{emote: Soft Smile}
+"011"
+"012"	{000a-0000-0006-0702-0800-cd00}

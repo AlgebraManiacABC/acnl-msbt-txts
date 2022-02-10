@@ -1,48 +1,48 @@
 == 0 ==
-"001"	
-"002"	{emote: Shyness}
-"003"	{emote: Thought}
-"004"	{emote: Happiness}
-"005"	
-"006"	
-"007"	{emote: Curious}
-"008"	
-"009"	
-"010"	
-"011"	{emote: Glee}
-"012"	{emote: Laughter}
-"013"	{emote: Happiness}
-"014"	{emote: Laughter}
-"015"	{emote: Mischief}
-"016"	{emote: Glare}
-"017"	{pause 8}
-"018"	
-"019"	{emote: Joy}
-"020"	{emote: Sunny}
-"021"	{emote: Joy}
-"022"	{emote: Pride}
-"023"	
-"024"	{emote: Thought}
-"025"	{emote: Thought}
-"026"	{emote: Thought}
-"027"	{emote: Thought}
-"028"	{emote: Reset}
-"029"	{0011-0001-0002-00-00}
-"030"	{0011-0001-0002-00-00}
-"031"	
-"032"	{emote: Worry}
-"033"	{emote: Resigned}
-"034"	{emote: Thought}
-"035"	{emote: Thought}
-"036"	
-"037"	{emote: Happiness}
-"038"	{emote: Glare}
-"039"	やくそくどおり、{pause 20}
-"040"	{emote: Worry}
-"041"	{emote: Alarmed}
-"042"	うぅ～{pause 8}
-"043"	{emote: Sigh}
-"044"	{emote: Shocked}
-"045"	
-"046"	{0009-0000-0004-27-00-28-00}
-"047"	{0009-0000-0004-25-00-26-00}
+"001"
+"002"	{emote: Shyness}{ruby (charSpan 2): きょう}今日は　ボク、{pause 20}	アメちゃんを　いっぱい{pause 8}	あつめたいんだぁ、{pause 8}{catchphrase}
+"003"	{emote: Thought}おかしを　{Orange}パンプキング{Color Reset}さんにあげれば、{pause 20}	いいものもらえるって	わかってるんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}うぅ～ん{pause 40}	やっぱり　{ruby (charSpan 2): じぶん}自分でも{ruby (charSpan 1): た}食べたいなぁ
+"004"	{emote: Happiness}{Blue}アメ{Color Reset}ちゃんを　くれれば、{pause 20}	みんなのニガテなもの	{ruby (charSpan 1): はな}話しちゃうよぉ、{pause 8}{catchphrase}
+"005"
+"006"
+"007"	{emote: Curious}{ruby (charSpan 5): トリック}Trick {ruby (charSpan 2): オア}or {ruby (charSpan 5): トリート}treat?{Wait for input}	おかしを　くれなきゃ	いたずらしちゃうぞぉ{000f-0005-0004-0015-0028}	わたす	わたさない
+"008"
+"009"
+"010"
+"011"	{emote: Glee}えへへ～{pause 20}	いたずら　だいせいこう～！{Wait for input}{emote: Curious}ん～？{pause 40}	キミ{pause 20}　まだ{Orange}パンプキング{Color Reset}さんに{pause 20}	{ruby (charSpan 1): あ}会ってないのぉ～？{Wait for input}{emote: Agreement}おかしを　{Orange}パンプキング{Color Reset}さんに　わたせば、{pause 20}	ごほうびを　くれるんだってぇ～{Wait for input}{emote: Happiness}{ruby (charSpan 1): むら}村の{ruby (charSpan 1): なか}中を　{ruby (charSpan 1): ある}歩いてるはずだよ？{pause 40}	{ruby (charSpan 1): はや}早く　{ruby (charSpan 1): あ}会えるといいねぇ、{pause 8}{catchphrase}
+"012"	{emote: Laughter}えへへ～{pause 20}	ビックリしたでしょぉ？{pause 40}{emote: Soft Smile}{Wait for input}{emote: Pride}{ruby (charSpan 2): きょう}今日はボク、{pause 20}{Orange}パンプキング{Color Reset}さんに	ごほうびを　もらうために	がんばってるんだぁ、{pause 8}{catchphrase}
+"013"	{emote: Happiness}わるく{ruby (charSpan 1): おも}思わないでねぇ{pause 40}	{ruby (charSpan 2): きょう}今日はそういう　おまつりなんだぁ！
+"014"	{emote: Laughter}いたずら　だいせいこう～！{pause 40}	なかなか　にあってると{ruby (charSpan 1): おも}思うよぉ！{pause 40}{emote: Soft Smile}
+"015"	{emote: Mischief}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	あとで　もってるモノを	{ruby (charSpan 1): み}見てみてねぇ、{pause 8}{catchphrase}
+"016"	{emote: Glare}あとで　もってるモノを{ruby (charSpan 1): み}見てみてねぇ～{pause 40}	プレゼントを　{ruby (charSpan 1): い}入れておいたよぉ
+"017"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Curious}あれぇ？{pause 40}	しっぱいしちゃったぁ{Wait for input}{emote: Distress}こ、{pause 20}{ruby (charSpan 2): こんかい}今回だけは	ゆるしてあげるよぉ、{pause 8}{catchphrase}
+"018"
+"019"	{emote: Joy}わぁ～い！{pause 20}	あとで　{Orange}パンプキング{Color Reset}さんのところに	もっていこ～っと！
+"020"	{emote: Sunny}ありがとぉ～{pause 20}	あとで　{ruby (charSpan 1): た}食べよ～っと！
+"021"	{emote: Joy}やったぁ～！{pause 20}	おいしそうだねぇ～
+"022"	{emote: Pride}それじゃあ　かわりに{pause 20}	ボクがもってる　おトクじょうほうを	{ruby (charSpan 1): おし}教えてあげるねぇ、{pause 8}{catchphrase}
+"023"
+"024"	{emote: Thought}{0011-0001-0002-0000}{0005-000d-0000}が　こわがってたのって{pause 20}	{0012-0004-0002-cd00}だったっけ、{pause 20}	{0012-0003-0002-cd01}だったっけ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}うぅ～～ん{pause 40}	そのどっちかなのは	まちがいないよぉ！
+"025"	{emote: Thought}{0011-0001-0002-0000}{0005-000d-0000}が　こわがってたのって{pause 20}	{0012-0003-0002-cd01}だったっけ、{pause 20}	{0012-0004-0002-cd00}だったっけ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}うぅ～～ん{pause 20}	そのどっちかなのは　まちがいないよぉ！
+"026"	{emote: Thought}{0012-0004-0002-cd00}を　こわがってたの{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}か{pause 20}	{0011-0001-0002-0001}{0005-000d-0000}{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}どっちだか　わすれちゃったけど{pause 20}	とにかく　ニガテみたいだったよぉ
+"027"	{emote: Thought}{0012-0004-0002-cd00}を　こわがってたの{pause 20}	{0011-0001-0002-0001}{0005-000d-0000}か{pause 20}	{0011-0001-0002-0000}{0005-000d-0000}{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}どっちだか　わすれちゃったけど{pause 20}	とにかく　ニガテみたいだったよぉ
+"028"	{emote: Reset}{0011-0001-0002-0000}{0005-000d-0000}と{pause 8}	{pause 20}{0011-0001-0002-0002}{0005-000d-0000}の	ニガテなものって{pause 20}　いっしょなんだって！{Wait for input}{emote: Thought}たしかに{pause 20}　にたものどうしな	{ruby (charSpan 2): ふたり}二人だもんねぇ、{pause 8}{catchphrase}
+"029"	{0011-0001-0002-0000}{0005-000d-0000}のニガテなモノは、{pause 20}	{emote: Surprise}{0007-000a-0000}ズバリ！{pause 40}	{0012-0004-0002-cd00}だよぉ！{Wait for input}{emote: Distress}ボクが　{ruby (charSpan 1): い}言ったことは	ナイショにしてねぇ～？！
+"030"	{0011-0001-0002-0000}{0005-000d-0000}が　ニガテなもの！{pause 40}	それは{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sunny}{0012-0004-0002-cd00}だよ！
+"031"
+"032"	{emote: Worry}えぇ～{pause 20}	どうしても　ダメ～？{Wait for input}{emote: Inspired}あ、{pause 8}そうだ！{pause 40}	{emote: Happiness}せっかくの　おまつりだし、{pause 20}	ゲームで　きめるのはどう？　{pause 8}{catchphrase}？{Wait for input}キミが　かったら{pause 8}	ボクの{Blue}アメ{Color Reset}ちゃんを　{ruby (charSpan 1): わ}分けてあげる{Wait for input}キミが　まけたら{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Glare}いたずらさせてもらうよ？
+"033"	{emote: Resigned}そっかぁ～{pause 8}・{pause 8}・{pause 8}・{pause 40}	キミも　おかしを	あつめてるんだねぇ？{Wait for input}{emote: Inspired}あ、{pause 20}それなら！{pause 40}	ボクと　ゲームしようよぉ！{Wait for input}{emote: Happiness}キミが　かったら{pause 20}	ボクの{Blue}アメ{Color Reset}ちゃんを　あげるねぇ{Wait for input}キミが　まけたら、{pause 20}	バツゲームだよぉ！　{pause 8}{catchphrase}！
+"034"	{emote: Thought}それじゃあ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sunny}{Blue}じゃんけん{Color Reset}で　しょうぶだよぉ！{0007-0012-0006-0100-002e-002f}
+"035"	{emote: Thought}それじゃあ{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Sunny}{Blue}ジェスチャーゲーム{Color Reset}で　しょうぶだよぉ！{0007-0012-0006-0101-002e-002f}
+"036"
+"037"	{emote: Happiness}よ～し！{pause 40}	それじゃぁ、{pause 20}{emote: Sunny}いたずらだぁ～！{0007-0008-0004-003c-0000}
+"038"	{emote: Glare}それじゃぁ、{pause 20}やくそくどおり	いたずらだよぉ～？{Wait for input}	{emote: Star Yell}{pause 20}{0007-000a-0000}{Text size 150%}えぇ～い！{Text size 100%}{0007-0008-0004-003c-0000}
+"039"	やくそくどおり、{pause 20}	{Blue}アメ{Color Reset}ちゃんを　ど～ぞ！
+"040"	{emote: Worry}おやくそくだもんね{pause 8}・{pause 8}・{pause 8}・{pause 40}	この{Blue}アメ{Color Reset}ちゃんは　キミのものだよぉ
+"041"	{emote: Alarmed}って、{pause 20}キミ{pause 20}	にもつが　いっぱいだよ？{Wait for input}{emote: Resigned}ざんねんだけど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): いま}今のしょうぶは{pause 8}　なしってことで
+"042"	うぅ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	つぎは　まけないよぉ？
+"043"	{emote: Sigh}はぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}	また　あつめなきゃぁ、{pause 8}{catchphrase}
+"044"	{emote: Shocked}{0007-000b-0000}えぇ～？！{pause 40}	やっぱり　くれないの？！{Wait for input}{emote: Alarmed}そうか！{pause 40}	キミも{pause 20}　おかしを	あつめて{ruby (charSpan 1): まわ}回ってるんだね？{Wait for input}{emote: Agreement}それなら　ゲームで	しょうぶしようよ！{Wait for input}{emote: Happiness}キミが　かったら	ボクの{Blue}アメ{Color Reset}ちゃんを　{ruby (charSpan 1): わ}分けてあげる{Wait for input}キミが　まけたら{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Glare}いたずらさせてもらうよ？
+"045"
+"046"	{0009-0000-0004-0027-0028}
+"047"	{0009-0000-0004-0025-0026}

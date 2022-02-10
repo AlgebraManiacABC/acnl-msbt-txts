@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Disbelief}
-"002"	{emote: Surprise}
-"003"	{emote: Surprise}
+"001"	{emote: Disbelief}キャッ！{pause 20}	{ruby (charSpan 1): み}見つかっちゃいましたね！{Wait for input}{emote: Worry}でも　{ruby (charSpan 2): ざんねん}残念ですが{pause 10}	{ruby (charSpan 2): じかん}時間{ruby (charSpan 1): ぎ}切れみたいです、{pause 15}{catchphrase}
+"002"	{emote: Surprise}あら！　{pause 20}よく　わかりましたね！{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Worry}でも　{pause 5}{ruby (charSpan 2): ざんねん}残念ながら、{pause 10}	{ruby (charSpan 2): じかん}時間{ruby (charSpan 1): ぎ}切れです！
+"003"	{emote: Surprise}まぁ！　{pause 20}{ruby (charSpan 1): み}見つかってしまいましたか{pause 8}・{pause 8}・{pause 8}・{pause 8}！	{emote: Shyness}でも　{ruby (charSpan 2): やくそく}約束の{ruby (charSpan 2): じかん}時間は{pause 10}　{ruby (charSpan 1): す}過ぎてしまってますね

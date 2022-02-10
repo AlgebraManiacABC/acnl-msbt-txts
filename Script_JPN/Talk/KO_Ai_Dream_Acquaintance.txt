@@ -1,6 +1,6 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Greetings}
-"004"	{emote: Surprise}
-"005"	{emote: Alarmed}
+"001"	{emote: Greetings}よぉー！{pause 8}　{Player name}じゃねぇか！{pause 20}	{emote: Happiness}こんなところで　{ruby (charSpan 1): あ}会えるなんて{pause 8}	まるで　{ruby (charSpan 1): ゆめ}夢みてぇだな！	・{pause 8}・{pause 8}・{emote: Alarmed}{pause 8}あ、{pause 15}これって{ruby (charSpan 1): ゆめ}夢の{ruby (charSpan 1): なか}中か？！{Wait for input}	{emote: Happiness}ま、{pause 8}そんなこと　どうでもいいや！{pause 15}	{ruby (charSpan 2): かんげい}歓迎するぜ！{pause 20}　{catchphrase}！
+"002"	{emote: Alarmed}あっ、{pause 8}オメェ　{Player name}だろ？！{pause 20}	{emote: Happiness}{ruby (charSpan 1): ひさ}久しぶりじゃねぇか！{Wait for input}{Town name (pink)}{ruby (charSpan 1): むら}村に{pause 8}	よく{ruby (charSpan 1): き}来てくれたな、{pause 20}{catchphrase}！
+"003"	{emote: Greetings}おっ、{pause 8}{Player name}じゃねぇか！{Wait for input}{emote: Reset}ちょうど　{ruby (charSpan 2): きのう}昨日、{pause 8}	オメェと{ruby (charSpan 2): さいかい}再会する{ruby (charSpan 1): ゆめ}夢　{ruby (charSpan 1): み}見たとこだぜ！{Wait for input}{emote: Sunny}{ruby (charSpan 2): まさゆめ}正夢ってやつだな！{pause 20}	{emote: Laughter}がーっはっは！{pause 30}　{emote: Soft Smile}{catchphrase}！
+"004"	{emote: Surprise}あっ、{pause 8}{Player name}！{Wait for input}{emote: Soft Smile}なんか　{ruby (charSpan 2): きょう}今日は{pause 15}	オメェに{ruby (charSpan 1): あ}会いそうな{emote: Agreement}{pause 8}	{ruby (charSpan 2): よかん}予感がしてたんだよな！{pause 20}　{catchphrase}！
+"005"	{emote: Alarmed}あれっ？！{pause 8}　{Player name}じゃねぇか！{pause 20}	{emote: Happiness}こんなところで　オメェに{ruby (charSpan 1): あ}会うとは{pause 8}	{ruby (charSpan 1): ゆめ}夢にも{ruby (charSpan 1): おも}思わなかったぜ！{pause 20}　{catchphrase}！

@@ -1,31 +1,31 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Worry}
-"003"	{ruby (charSpan 2): きのう}昨日　{ruby (charSpan 2): へや}部屋のそうじしてたら、{pause 20}
-"004"	{emote: Happiness}
-"005"	{emote: Distress}
-"006"	めずらしく　{0011-0001-0002-00-00}
-"007"	
-"008"	
-"009"	
-"010"	
-"011"	{emote: Greetings}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Sunny}
-"016"	{emote: Worry}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	
-"021"	{emote: Worry}
-"022"	{emote: Worry}
-"023"	{emote: Resigned}
-"024"	{emote: Disagreement}
-"025"	{emote: Resigned}
-"026"	{emote: Sadness}
-"027"	
-"028"	
-"029"	
-"030"	
+"001"	{emote: Happiness}そうだー！{pause 20}	{Player nickname (green)}に	お{ruby (charSpan 1): ねが}願いがあるんだよー！{Wait for input}{emote: Bashful}オイラ　{0011-0001-0002-0000}に	プレゼントを　{ruby (charSpan 2): ようい}用意したんだけど、{pause 20}	{ruby (charSpan 2): じぶん}自分でわたすの　{ruby (charSpan 1): て}照れくさくてさ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}たのむー！{pause 40}	オイラの{ruby (charSpan 1): か}代わりに	とどけてくれー！
+"002"	{emote: Worry}オイラ　この{ruby (charSpan 1): まえ}前、{pause 20}	{0011-0001-0002-0000}と	ケンカしちゃってさ{pause 8}・{pause 8}・{pause 8}・{Wait for input}あやまろうって{ruby (charSpan 1): おも}思って	プレゼント	{ruby (charSpan 2): ようい}用意したんだけど、{Wait for input}{emote: Sigh}やっぱり　わたすの	{ruby (charSpan 1): き}気まずくって{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}たのむよ　{Player nickname (green)}！{pause 20}	オイラの{ruby (charSpan 1): か}代わりに	とどけてくれないかー？！
+"003"	{ruby (charSpan 2): きのう}昨日　{ruby (charSpan 2): へや}部屋のそうじしてたら、{pause 20}	{0011-0001-0002-0000}から	{ruby (charSpan 1): か}借りっぱなしのものが　{ruby (charSpan 1): で}出てきたんだー{Wait for input}{emote: Distress}ヤベェー！{pause 20}	{ruby (charSpan 1): かえ}返すのおそくて{pause 20}　カンカンに	おこってるかも　{ruby (charSpan 1): し}知れないぞー？！	{emote: Worry}コレ　オイラの{ruby (charSpan 1): か}代わりに	{ruby (charSpan 1): かえ}返してきてくれないかー？
+"004"	{emote: Happiness}なぁ、{Player nickname (green)}！{pause 20}	ちょっと　お{ruby (charSpan 1): つか}使い	たのまれてくれないかー？{Wait for input}{emote: Reset}たのみたいのは、{pause 20}	わすれものの	おとどけなんだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}{0011-0001-0002-0000}の　ところまで	ひとっ{ruby (charSpan 1): ぱし}走り　とどけてきてくれー！
+"005"	{emote: Distress}なんかの　まちがいで、{pause 20}	{0011-0001-0002-0000}の{ruby (charSpan 2): にもつ}荷物が	{ruby (charSpan 1): うち}家に　とどいたんだー{Wait for input}{emote: Curious}オマエって{pause 20}	{ruby (charSpan 1): いま}今　ヒマだろー？{Wait for input}	{emote: Happiness}コレ　とどけてきてくれよー！
+"006"	めずらしく　{0011-0001-0002-0000}が	オイラに　{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物を	たのんできたからさ{Wait for input}{emote: Agreement}{ruby (charSpan 2): きあ}気合い{ruby (charSpan 1): い}入れて　さがしまくって、	ようやく{ruby (charSpan 1): み}見つけたんだ！{Wait for input}{emote: Sadness}だけど　オイラには、{pause 20}	もう　とどける{ruby (charSpan 2): たいりょく}体力が	{ruby (charSpan 1): のこ}残ってない{pause 8}・{pause 8}・{pause 8}・{Wait for input}た、{pause 20}たのむ　{Player nickname (green)}{pause 20}	オイラの　{ruby (charSpan 1): か}代わりに　コレを、{pause 20}	{0011-0001-0002-0000}のもとに{pause 8}・{pause 8}・{pause 8}・
+"007"
+"008"
+"009"
+"010"
+"011"	{emote: Greetings}ヨッシャー！{pause 30}	とどけてくれるんだなー？！{Wait for input}	それじゃ　コレ　たのむぞー！
+"012"	{emote: Happiness}すごい{ruby (charSpan 2): たいやく}大役まかせて　ごめんな！{pause 20}	それじゃ　コレ　たのむぞー！
+"013"	{emote: Happiness}おぉ　サンキュー！{pause 20}	{ruby (charSpan 1): たす}助かるぞー！{pause 40}	それじゃ　コレ　たのむ！
+"014"	{emote: Happiness}おぉ！　サンキュー！{pause 20}	それじゃ、	こいつを　あずけるぞー
+"015"	{emote: Sunny}おー！{pause 20}	とどけてくれるのかー！{pause 40}	{emote: Happiness}そんじゃ　コレたのむぞー
+"016"	{emote: Worry}わ、{pause 20}{ruby (charSpan 1): わる}悪いな	オイラの{ruby (charSpan 1): か}代わりに・{pause 8}・{pause 8}・{Wait for input}	{emote: Reset}じゃあ　コレたのむよ、{pause 8}{catchphrase}
+"017"	{emote: Happiness}{ruby (charSpan 2): きょう}今日{ruby (charSpan 1): じゅう}中に　よろしくなー{pause 40}	{emote: Reset}よーい{pause 8}・{pause 8}・{pause 8}・{pause 40}{000d-0004-0002-cd01}{emote: Greetings}{0007-000b-0000}どんっ！{000d-0005-0000}
+"018"	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　もうおそいし、{pause 20}	{ruby (charSpan 2): あした}明日{ruby (charSpan 1): じゅう}中で　たのむよー！
+"019"	{emote: Happiness}もう　こんな{ruby (charSpan 2): じかん}時間だし、{pause 20}	{ruby (charSpan 1): あさ}朝になってからで　いいぞ！{pause 40}	よろしくー、{pause 8}{catchphrase}！
+"020"
+"021"	{emote: Worry}ダメかー{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}ま、{pause 20}こういうモノは{pause 20}	やっぱり　{ruby (charSpan 2): じぶん}自分で	わたさなきゃな！
+"022"	{emote: Worry}そうだよな{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Agreement}うん！{pause 20}　ちゃんと{ruby (charSpan 2): じぶん}自分で	あやまりに{ruby (charSpan 1): い}行ってくる！
+"023"	{emote: Resigned}まぁ　そうだよなー{pause 40}	{ruby (charSpan 2): じぶん}自分で　{ruby (charSpan 1): かえ}返しに{ruby (charSpan 1): い}行ってくるよー
+"024"	{emote: Disagreement}ダメなら　しょうがないな{pause 40}	{emote: Laughter}それなら　ひとっ{ruby (charSpan 1): ぱし}走り	{ruby (charSpan 1): い}行ってくるかー！{pause 40}{emote: Happiness}
+"025"	{emote: Resigned}なんだ、ダメかー{pause 20}	やっぱり　オイラが	{ruby (charSpan 2): じぶん}自分で{ruby (charSpan 1): い}行ってくるよー
+"026"	{emote: Sadness}なーんだ、{pause 20}	いそがしいのかー{pause 8}・{pause 8}・{pause 8}・
+"027"
+"028"
+"029"
+"030"

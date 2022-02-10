@@ -1,85 +1,85 @@
 == 0 ==
-"001"	.{pause 4}
-"002"	.{pause 4}
-"003"	.{pause 4}
-"004"	{000a-0001-0004-08-00-09-00}
-"005"	.{pause 4}
-"006"	.{pause 4}
-"007"	.{pause 4}
-"008"	.{pause 4}
-"009"	.{pause 4}
-"010"	
-"011"	{emote: Sheepishness}
-"012"	{emote: Soft Smile}
-"013"	{emote: Sheepishness}
-"014"	{emote: Sleepy}
-"015"	{emote: Worry}
-"016"	{emote: Sheepishness}
+"001"	.{pause 4}.{pause 4}.{pause 4}Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Alarmed} Whoa!{Wait <003c 0000> 'time'}
+"002"	.{pause 4}.{pause 4}.{pause 4}Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Sleepy} Yawn{pause 4}.{pause 4}.{pause 4}.{pause 4}{Wait <003c 0000> 'time'}
+"003"	.{pause 4}.{pause 4}.{pause 4}Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{emote: Alarmed} Yeeess!{Wait <003c 0000> 'time'}
+"004"	{000a-0001-0004-0008-0009}
+"005"	.{pause 4}.{pause 4}.{pause 4}Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{emote: Alarmed} Whoa!{Wait <003c 0000> 'time'}
+"006"	.{pause 4}.{pause 4}.{pause 4}Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Alarmed}huh?{pause 32}	{emote: Shocked}Where{pause 8}.{pause 8}.{pause 8}.{pause 8}am I?{Wait for input}{pause 8}.{pause 8}.{pause 8}.{pause 8}{emote: Worry}Oh,{pause 16} I think I fell asleep while just	resting my eyes for a bit.
+"007"	.{pause 4}.{pause 4}.{pause 4}Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} {emote: Alarmed}Yeeess!{pause 32}	{emote: Sleepy}{pause 4}.{pause 4}.{pause 4}.{pause 4}I got really comfy resting	here, and I guess I fell asleep{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"008"	.{pause 4}.{pause 4}.{pause 4}Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Disbelief} Wow!{pause 8} You scared	me!{pause 8} Don't do that!{Wait <003c 0000> 'time'}
+"009"	.{pause 4}.{pause 4}.{pause 4}Zzzz{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 4}.{pause 4}.{pause 4}.{pause 4}	{emote: Alarmed}Huh,{pause 8} what? What happened?{Wait <003c 0000> 'time'}
+"010"
+"011"	{emote: Sheepishness}I guess I accidentally fell asleep	standing up again{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Soft Smile}Well,{pause 16} I'll be a good boy and go	to bed now. Night night!
+"012"	{emote: Soft Smile}Ah, you're finally here,{pause 8} {Player nickname (green)}!{Wait for input}{emote: Sheepishness}I expected you to come to see me a	lot sooner, and I guess I fell asleep	waiting,{pause 8} {catchphrase}!
+"013"	{emote: Sheepishness}I must have been really tired to	fall asleep while standing up.{pause 8}{Wait for input}{emote: Soft Smile}If you didn't wake me,{pause 16} I would	have gone back to sleep again.{pause 32}	Thank you,{pause 8} {Player nickname (green)}!
+"014"	{emote: Sleepy}Ah, it's you{pause 8}.{pause 8}.{pause 8}.{pause 8} Hm. I, uh, {emote: Sheepishness}must have	fallen asleep for a moment there{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"015"	{emote: Worry}Isn't your face a bit too close,{pause 8}	{Player nickname (green)}? Scooch back!
+"016"	{emote: Sheepishness}Haven't you ever heard that it's	dangerous to wake a sleeping	{0005-001f-0002-cd00},{pause 8} {Player nickname (green)}?
 == 1 ==
-"001"	Zzz{pause 30}
-"002"	Zzz{pause 30}
-"003"	Zzz{pause 30}
-"004"	{000a-0001-0004-08-00-09-00}
-"005"	Zzz{pause 30}
-"006"	Zzz{pause 30}
-"007"	Zzz{pause 30}
-"008"	Zzz{pause 30}
-"009"	Zzz{pause 30}
-"010"	
-"011"	{emote: Sheepishness}
-"012"	{emote: Soft Smile}
-"013"	{emote: Sheepishness}
-"014"	{emote: Sleepy}
-"015"	{emote: Worry}
-"016"	{emote: Sheepishness}
+"001"	Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Alarmed} ¡Huy!{Wait <003c 0000> 'time'}
+"002"	Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Sleepy} ¡Uuuuuaaaah!{pause 4}.{pause 4}.{pause 4}.{pause 4}{Wait <003c 0000> 'time'}
+"003"	Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{emote: Alarmed} ¿Eeeh?{Wait <003c 0000> 'time'}
+"004"	{000a-0001-0004-0008-0009}
+"005"	Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{emote: Alarmed} ¡Huy!{Wait <003c 0000> 'time'}
+"006"	Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Alarmed} ¿Eh?{pause 32}	{emote: Shocked}¿Qué{pause 8}.{pause 8}.{pause 8}.{pause 8} hago aquí?{Wait for input}{emote: Worry}Oh,{pause 16} creo que me debió de entrar	una modorra enorme al sentarme	aquí.
+"007"	Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Alarmed} ¿Eeeh?{pause 32} {emote: Sleepy}Mmm{pause 4}.{pause 4}.{pause 4}.{pause 4}	Aquí se está tan a gusto	que es fácil quedarse sopa{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"008"	Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Disbelief} ¡Haaaala!{pause 8}	¡Menudo susto!	¡¿Qué quieres?!{Wait <003c 0000> 'time'}
+"009"	Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 4}.{pause 4}.{pause 4}.{pause 16} {emote: Alarmed}¿Eh?{pause 8} ¿Cómo?	¿Qué pasa? ¿Dónde estoy?{Wait <003c 0000> 'time'}
+"010"
+"011"	{emote: Sheepishness}Me he quedado dormido aquí	como quien no quiere la cosa{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Soft Smile}En fin,{pause 16} supongo que necesito	cargar las pilas. ¡Buenas noches!
+"012"	{emote: Soft Smile}¡Te estaba esperando,{pause 8} {Player nickname (green)}!{Wait for input}{emote: Sheepishness}Has tardado tanto que no he tenido	más remedio que descansar un poco	la vista,{pause 8} {catchphrase}.
+"013"	{emote: Sheepishness}Nunca antes me había dormido	de pie.{pause 8} Dicen que es la última	moda en las metrópolis.{Wait for input}{emote: Soft Smile}Supongo que estaba hecho polvo.{pause 16} 	¡Gracias por despertarme,{pause 8}	{Player nickname (green)}!
+"014"	{emote: Sleepy}Ah, eres tú{pause 8}.{pause 8}.{pause 8}.{pause 8} Me he quedado	un poco traspuesto{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"015"	{emote: Worry}Bueno, bueno,{pause 8} ni que no hubieras	visto a nadie durmiendo nunca,	{Player nickname (green)}. ¡No es para tanto!
+"016"	{emote: Sheepishness}¿No sabías que puede ser peligroso	despertar a {Article(word-dependant)}{0005-001f-0002-cd00},	{pause 8}{Player nickname (green)}?
 == 2 ==
-"001"	.{pause 4}
-"002"	.{pause 4}
-"003"	.{pause 4}
-"004"	{000a-0001-0004-08-00-09-00}
-"005"	.{pause 4}
-"006"	.{pause 4}
-"007"	.{pause 4}
-"008"	.{pause 4}
-"009"	.{pause 4}
-"010"	
-"011"	{emote: Sheepishness}
-"012"	{emote: Soft Smile}
-"013"	{emote: Sheepishness}
-"014"	{emote: Sleepy}
-"015"	{emote: Worry}
-"016"	{emote: Sheepishness}
+"001"	.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Alarmed} Ouah !{Wait <003c 0000> 'time'}
+"002"	.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Sleepy} Ouaaaah{pause 4}.{pause 4}.{pause 4}.{pause 4}{Wait <003c 0000> 'time'}
+"003"	.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{emote: Alarmed} Hmmmmm ?!{Wait <003c 0000> 'time'}
+"004"	{000a-0001-0004-0008-0009}
+"005"	.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{emote: Alarmed} Ouah !{Wait <003c 0000> 'time'}
+"006"	.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} {emote: Alarmed}Hein !{pause 32} {emote: Shocked}Où{pause 8}.{pause 8}.{pause 8}.{pause 8} suis-je ?{Wait for input}{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Worry}Oh,{pause 16} j'ai dû m'assoupir en me	reposant un peu les yeux.
+"007"	.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} {emote: Alarmed}Yaaaaah !{pause 32}	{emote: Sleepy}{pause 4}.{pause 4}.{pause 4}.{pause 4} C'était super confortable ici,	alors je me suis un peu assoupi{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"008"	.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Disbelief} Ouah !{pause 8} Tu m'as fait	peur ! Qu'est-ce qui se passe ?!{Wait <003c 0000> 'time'}
+"009"	.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzzz{pause 16}{pause 4}.{pause 4}.{pause 4}.{pause 4}	{emote: Alarmed}Hein,{pause 8} quoi qu'est-ce ?!{Wait <003c 0000> 'time'}
+"010"
+"011"	{emote: Sheepishness}Je me suis endormi sans faire	exprès, j'imagine{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}Bon,{pause 16} je vais aller me coucher bien	sagement dans mon lit. Dodo !
+"012"	{emote: Soft Smile}Ah, te voilà enfin, {Player nickname (green)} !{Wait for input}{emote: Sheepishness}Je me suis endormi à force de	t'attendre,{pause 8} {catchphrase} !
+"013"	{emote: Sheepishness}Je devais vraiment être fatigué pour	m'endormir debout{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}Si tu m'avais pas réveillé,{pause 16} j'aurais	pu rester comme ça un siècle.{pause 32} C'est	sympa,{pause 8} {Player nickname (green)} !
+"014"	{emote: Sleepy}Ah, c'est toi{pause 8}.{pause 8}.{pause 8}.{pause 8} Je me suis assoupi	sans faire exprès, on dirait{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"015"	{emote: Worry}Euh{pause 8}.{pause 8}.{pause 8}.{pause 8} Tu me colles pas d'un peu	trop près, là,{pause 8} {Player nickname (green)} ?
+"016"	{emote: Sheepishness}Oh, à vrai dire, j'espérais que tu me	réveillerais avec un petit bisou,{pause 8}	{Player nickname (green)} !
 == 3 ==
-"001"	.{pause 4}
-"002"	.{pause 4}
-"003"	.{pause 4}
-"004"	{000a-0001-0004-08-00-09-00}
-"005"	.{pause 4}
-"006"	.{pause 4}
-"007"	.{pause 4}
-"008"	.{pause 4}
-"009"	.{pause 4}
-"010"	
-"011"	{emote: Sheepishness}
-"012"	{emote: Soft Smile}
-"013"	{emote: Sheepishness}
-"014"	{emote: Sleepy}
-"015"	{emote: Worry}
-"016"	{emote: Sheepishness}
+"001"	.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Alarmed} Sorbole!{Wait <003c 0000> 'time'}
+"002"	.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Sleepy} Yawn{pause 4}.{pause 4}.{pause 4}.{pause 4}{Wait <003c 0000> 'time'}
+"003"	.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{emote: Alarmed} Sììììì!{Wait <003c 0000> 'time'}
+"004"	{000a-0001-0004-0008-0009}
+"005"	.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{emote: Alarmed} Sorbole!{Wait <003c 0000> 'time'}
+"006"	.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Alarmed} Oh?{pause 32}	{emote: Shocked}Dove{pause 8}.{pause 8}.{pause 8}.{pause 8} sono?{Wait for input}{emote: Worry}Oh,{pause 16} avevo chiuso un attimo gli	occhi e devo essermi addormentato.
+"007"	.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Alarmed} Eh!{pause 32}	{emote: Sleepy}Mi stavo rilassando un po'	e devo essermi appisolato{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"008"	.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4}{emote: Disbelief} Aaaaah!{pause 8}	Che paura! Che succede?!{Wait <003c 0000> 'time'}
+"009"	.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 4} Zzz{pause 4}.{pause 4}.{pause 4}.{pause 4}{pause 16}	{emote: Alarmed}Oh,{pause 8} che c'è? Cos'è successo?{Wait <003c 0000> 'time'}
+"010"
+"011"	{emote: Sheepishness}Mi sa che mi sono appisolato{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Soft Smile}Beh,{pause 16} ora faccio il bravo e vado	a letto. Buenas noches!
+"012"	{emote: Soft Smile}Ah, finalmente sei arrivat{o/a},	{pause 8}{Player nickname (green)}!{Wait for input}{emote: Sheepishness}Ti stavo aspettando e, a quanto	pare, mi sono addormentato,	{pause 8}{catchphrase}!
+"013"	{emote: Sheepishness}Dovevo essere proprio stanco per	essermi addormentato in piedi.{Wait for input}{emote: Soft Smile}Se non mi avessi svegliato tu,	avrei continuato a dormire.{pause 32}	Muchas gracias,{pause 8} {Player nickname (green)}!
+"014"	{emote: Sleepy}Ah, sei tu{pause 8}.{pause 8}.{pause 8}.{pause 8} A quanto pare,	mi sono addormentato{pause 8}.{pause 8}.{pause 8}.{pause 8}
+"015"	{emote: Worry}Non ti sembra di esserti avvicinat{o/a}	troppo, {pause 8}{Player nickname (green)}? Vuoi vedere	cosa sto pensando? Allontanati!
+"016"	{emote: Sheepishness}Ah, {Player nickname (green)}, ma non lo sai	che è pericoloso svegliare	{Article(word-dependant)}{0005-001f-0002-cd00} che dorme?
 == 4 ==
-"001"	.{pause 4}
-"002"	.{pause 4}
-"003"	.{pause 4}
-"004"	{000a-0001-0004-08-00-09-00}
-"005"	.{pause 4}
-"006"	.{pause 4}
-"007"	.{pause 4}
-"008"	.{pause 4}
-"009"	.{pause 4}
-"010"	
-"011"	{emote: Sheepishness}
-"012"	{emote: Soft Smile}
-"013"	{emote: Sheepishness}
-"014"	{emote: Sleepy}
-"015"	{emote: Worry}
-"016"	{emote: Sheepishness}
+"001"	.{pause 4}.{pause 4}.{pause 4}Zzzzzz{pause 4}.{pause 4}.{pause 4}.{pause 30} Zzz{pause 4}.{pause 4}.{pause 4}.{pause 30}{emote: Alarmed} Boah!{Wait <003c 0000> 'time'}
+"002"	.{pause 4}.{pause 4}.{pause 4}Zzzzzz{pause 4}.{pause 4}.{pause 4}.{pause 30} Zzz{pause 4}.{pause 4}.{pause 4}.{pause 30}{emote: Sleepy} Gähn{pause 4}.{pause 4}.{pause 4}.{Wait <003c 0000> 'time'}
+"003"	.{pause 4}.{pause 4}.{pause 4}Zzz{pause 4}.{pause 4}.{pause 4}.{pause 30} Zzzzzz{pause 30}{pause 4}.{pause 4}.{pause 30}.{emote: Alarmed} Waaah!{Wait <003c 0000> 'time'}
+"004"	{000a-0001-0004-0008-0009}
+"005"	.{pause 4}.{pause 4}.{pause 4}Zzz{pause 30}{pause 4}.{pause 4}.{pause 4}.{pause 30} Zzzzzz{pause 4}.{pause 4}.{pause 30}.{emote: Alarmed} Boah!{Wait <003c 0000> 'time'}
+"006"	.{pause 4}.{pause 4}.{pause 4}Zzzzzz{pause 4}.{pause 4}.{pause 4}.{pause 30} Zzz{pause 4}.{pause 4}.{pause 4}.{pause 30}{emote: Alarmed} Was?{pause 32}	{emote: Shocked}Wo{pause 8}.{pause 8}.{pause 8}.{pause 8} bin ich?{Wait for input}.{pause 8}.{pause 8}.{pause 8}{emote: Worry}Oh,{pause 16} ich muss wohl eingeschlafen	sein, als ich mich hier ausgeruht hab.
+"007"	.{pause 4}.{pause 4}.{pause 4}Zzzzzz{pause 4}.{pause 4}.{pause 4}.{pause 30} Zzz{pause 4}.{pause 4}.{pause 4}.{pause 30} {emote: Alarmed}Waaah!{pause 32}	{emote: Sleepy}{pause 4}.{pause 4}.{pause 4}.{pause 4}Hier war's anscheinend so	bequem, dass ich eingeschlafen bin{pause 8}.{pause 8}.{pause 8}.
+"008"	.{pause 4}.{pause 4}.{pause 4}Zzzzzz{pause 4}.{pause 4}.{pause 4}.{pause 30} Zzz{pause 4}.{pause 4}.{pause 4}.{pause 30}{emote: Disbelief} Boah!{pause 10}	Hast du mich erschreckt!{pause 20}	Was ist denn los?{Wait <003c 0000> 'time'}
+"009"	.{pause 4}.{pause 4}.{pause 4}Zzzzzz{pause 4}.{pause 4}.{pause 4}.{pause 30} Zzz{pause 4}.{pause 4}.{pause 4}.{pause 30} Zzz{pause 4}.{pause 4}.{pause 4}.{pause 16}	{emote: Alarmed}Was? {pause 8}Was ist passiert?{Wait <003c 0000> 'time'}
+"010"
+"011"	{emote: Sheepishness}Ich muss hier aus Versehen	weggedöst sein{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}{emote: Soft Smile}Na, dann will ich jetzt mal brav	ins Bett gehen. {pause 20}Gute Nacht!
+"012"	{emote: Soft Smile}Ah, da bist du ja endlich,{pause 8}	{Player nickname (green)}!{pause 20}{emote: Sheepishness} Ich bin eingeschlafen,	als ich auf dich gewartet hab!
+"013"	{emote: Sheepishness}Ich muss echt müde gewesen sein,	dass ich im Stehen eingeschlafen	bin.	{emote: Soft Smile}Danke, dass du mich aufgeweckt	hast,{pause 8} {Player nickname (green)}!
+"014"	{emote: Sleepy}Oh, du bist's{pause 8}.{pause 8}.{pause 8}.{pause 20} Ich bin wohl aus	Versehen eingeschlafen{pause 8}.{pause 8}.{pause 8}.
+"015"	{emote: Worry}Wolltest du dich etwa an mich	ranschleichen, als ich geschlafen	hab,{pause 8} {Player nickname (green)}?
+"016"	{emote: Sheepishness}Schläft {000e-0001-0000}{0005-001f-0002-cd00}	tief und fest, man besser {ihn/sie/es} in	Ruhe lässt! {pause 20}Denk dran, {Player nickname (green)}!

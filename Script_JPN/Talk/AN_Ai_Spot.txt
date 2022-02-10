@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{000a-0007-000c-0f-00-0f-00-10-00-10-00-11-00-11-00}
-"003"	{emote: Showmanship}
-"004"	{000a-0001-0004-12-00-13-00}
-"005"	{emote: Alarmed}
-"006"	{emote: Alarmed}
-"007"	{emote: Greetings}
-"008"	{emote: Alarmed}
-"009"	{emote: Soft Smile}
-"010"	{emote: Happiness}
-"011"	{emote: Greetings}
-"012"	{emote: Happiness}
-"013"	{emote: Greetings}
-"014"	{emote: Happiness}
-"015"	{emote: Greetings}
-"016"	{emote: Alarmed}
-"017"	{emote: Alarmed}
-"018"	{emote: Greetings}
-"019"	{emote: Greetings}
+"001"	{emote: Alarmed}{Greeting begin}あれ、{Player nickname (green)}じゃん{Greeting end}{pause 30}	{emote: Happiness}こんなとこで　{ruby (charSpan 1): あ}会うとは　ビックリだよ！{pause 20}	{catchphrase}！
+"002"	{000a-0007-000c-000f-000f-0010-0010-0011-0011}
+"003"	{emote: Showmanship}ヤッホー、{pause 8}{Player nickname (green)}！{pause 40}	{emote: Soft Smile}{ruby (charSpan 1): も}盛り{ruby (charSpan 1): あ}上がってる？　{pause 20}{catchphrase}！
+"004"	{000a-0001-0004-0012-0013}
+"005"	{emote: Alarmed}あっ　{Player nickname (green)}！{pause 40}	{emote: Glare}ははぁん{pause 8}　アンタも　ムシを	{ruby (charSpan 2): かんさつ}観察しに　{ruby (charSpan 1): き}来たってワケだ、{pause 20}{catchphrase}！
+"006"	{emote: Alarmed}あっ、やっぱり　{pause 8}{Player nickname (green)}だ！{pause 30}	{emote: Soft Smile}すいそうに　{ruby (charSpan 1): かげ}影が　{ruby (charSpan 1): うつ}映ってたから	そうだと　{ruby (charSpan 1): おも}思ったんだ！　{pause 20}{catchphrase}！
+"007"	{emote: Greetings}あっ、{pause 8}{Player nickname (green)}！{pause 30}	{emote: Happiness}アンタも　かせき　{ruby (charSpan 1): み}見に{ruby (charSpan 1): き}来たんだ？	{pause 20}{catchphrase}！
+"008"	{emote: Alarmed}わっ！　{Player nickname (green)}？！{Wait for input}	{emote: Bashful}へへ{pause 8}・{pause 8}・{pause 8}・{pause 20}なんだい、	こんなとこで　{ruby (charSpan 1): あ}会うと　{ruby (charSpan 1): は}恥ずかしいね
+"009"	{emote: Soft Smile}{Greeting begin}よっ、{pause 8}{Player nickname (green)}{Greeting end}{pause 30}	アンタも　{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物かい？	{pause 20}{catchphrase}！
+"010"	{emote: Happiness}{Greeting begin}やっほー、{pause 8}{Player nickname (green)}{Greeting end}{pause 30}	これから　{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物かい？	{pause 20}{catchphrase}！
+"011"	{emote: Greetings}{Greeting begin}ヤッホー、{Player nickname (green)}{Greeting end}{pause 40}	アンタも　{ruby (charSpan 1): みせ}店を	{ruby (charSpan 1): ひ}冷やかしに　{ruby (charSpan 1): き}来たの？　{pause 20}{catchphrase}！
+"012"	{emote: Happiness}{Greeting begin}よっ、{pause 8}{Player nickname (green)}{Greeting end}{pause 30}	あんたも　ブラブラしに　{ruby (charSpan 1): き}来たの？{pause 40}	{emote: Soft Smile}いいよねー、ここ！　{pause 20}{catchphrase}！
+"013"	{emote: Greetings}{Greeting begin}ああ、{pause 8}{Player nickname (green)}{Greeting end}{pause 30}	こんなとこで　{ruby (charSpan 1): あ}会うとは{pause 8}・{pause 8}・{pause 8}・{pause 20}	アンタも　シブいね、{pause 20}{catchphrase}
+"014"	{emote: Happiness}{Greeting begin}やっほー、{pause 8}{Player nickname (green)}{Greeting end}{pause 30}	なんか　{ruby (charSpan 1): ふく}服さがしてんの？{pause 20}　{catchphrase}？
+"015"	{emote: Greetings}{pause 8}{Greeting begin}ヤッホー、{Player nickname (green)}{Greeting end}{pause 40}	{ruby (charSpan 1): あさ}朝も　{ruby (charSpan 1): はや}早くから　ご{ruby (charSpan 2): くろう}苦労だね！{pause 20}	{catchphrase}！
+"016"	{emote: Alarmed}おや、{Player nickname (green)}じゃんか！{pause 40}	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　なんだい？{pause 20}	{ruby (charSpan 1): か}買い{ruby (charSpan 1): もの}物かい？{pause 20}　{catchphrase}？
+"017"	{emote: Alarmed}あっ、{Player nickname (green)}じゃん！{pause 40}	{emote: Sheepishness}こんなおそくに　{ruby (charSpan 3): しょうてんがい}商店街に{ruby (charSpan 2): ようじ}用事とは{pause 8}・{pause 8}・{pause 8}・{pause 20}	アンタも　スミにおけないね！{pause 20}　{catchphrase}！
+"018"	{emote: Greetings}{Greeting begin}よっ、{pause 8}{Player nickname (green)}{Greeting end}{pause 40}	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日の　{ruby (charSpan 1): ふく}服、	ビシッと　きまってんね！　{pause 20}{catchphrase}！
+"019"	{emote: Greetings}{Greeting begin}よっ、{pause 8}{Player nickname (green)}{Greeting end}{pause 40}	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日の　{ruby (charSpan 1): ふく}服、	かわいく　きまってんね！　{pause 20}{catchphrase}！

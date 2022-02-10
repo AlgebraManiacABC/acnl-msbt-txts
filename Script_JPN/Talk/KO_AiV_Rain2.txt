@@ -1,8 +1,8 @@
 == 0 ==
-"001"	{ruby (charSpan 1): あめ}雨、{pause 8}
-"002"	{Greeting begin}
-"003"	{000a-0016-0006-04-06-00-07-00-ffffffcd}
-"004"	{Greeting begin}
-"005"	{Greeting begin}
-"006"	うん？{pause 20}
-"007"	{Greeting begin}
+"001"	{ruby (charSpan 1): あめ}雨、{pause 8}やまねぇな{pause 8}・{pause 8}・{pause 8}・{Wait for input}	オメェの{ruby (charSpan 1): むら}村も　{ruby (charSpan 1): ふ}降ってたのかい？{pause 20}	{catchphrase}？
+"002"	{Greeting begin}よぅ、{pause 8}{Player name}{Greeting end}！{Wait for input}	あんまり　{ruby (charSpan 1): はし}走り{ruby (charSpan 1): まわ}回ってると{pause 15}	すべって{ruby (charSpan 1): ころ}転んじまうぜ、{pause 20}{catchphrase}
+"003"	{000a-0016-0006-0604-0700-cd00}
+"004"	{Greeting begin}おい、{pause 8}{Player name}{Greeting end}！{Wait for input}	{emote: Mischief}オメェまさか{pause 20}	{ruby (charSpan 1): みち}道に{ruby (charSpan 1): まよ}迷ったんじゃねぇだろうな？{Wait for input}{emote: Reset}ちゃんと　{Town name (pink)}{ruby (charSpan 1): むら}村に	{ruby (charSpan 1): かえ}帰れんのか？{pause 20}　{catchphrase}？
+"005"	{Greeting begin}おう、{pause 8}{Player name}{Greeting end}！{Wait for input}	この{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): なか}中、{pause 20}	オメェ　まだ{ruby (charSpan 1): あそ}遊んでんのかい？！{Wait for input}{emote: Happiness}{ruby (charSpan 2): げんき}元気だねぇ、{pause 20}{catchphrase}！
+"006"	うん？{pause 20}　{Player name}か{Wait for input}	{ruby (charSpan 1): うち}家に{ruby (charSpan 1): かえ}帰ったら{pause 8}　かさ　ちゃんと{ruby (charSpan 1): ほ}干しとけよ、{pause 20}	{catchphrase}！
+"007"	{Greeting begin}おう、{pause 8}{Player name}{Greeting end}！{Wait for input}{emote: Alarmed}かさもささずに　オメェ{pause 20}	ずぶぬれじゃねぇか{Wait for input}	{emote: Anger}カゼひいても{ruby (charSpan 1): し}知らねぇぞ？{pause 20}　{catchphrase}

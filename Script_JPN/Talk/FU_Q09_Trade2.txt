@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{pause 5}
-"003"	{emote: Happiness}
-"004"	{emote: Glee}
-"005"	{emote: Soft Smile}
-"006"	{emote: Worry}
-"007"	{emote: Worry}
-"008"	{emote: Worry}
-"009"	{emote: Worry}
-"010"	{emote: Worry}
-"011"	{emote: Sheepishness}
-"012"	{emote: Worry}
+"001"	{emote: Happiness}いいですよね、{pause 20}	その　{pause 5}{0011-0003-0002-0000}！{Wait for input}{emote: Reset}もし　お{ruby (charSpan 1): き}気にめしたなら{pause 10}	{emote: Thought}そうですねぇ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}よろしければ　{Blue}{emote: Reset}{Number (0xa)}ベル{Color Reset}で{pause 5}	おゆずりしますよ！　{pause 8}{catchphrase}！{confirmation-02}{000f-0005-0004-0015-0028}	ほしい！	いらない
+"002"	{pause 5}{emote: Alarmed}{pause 10}あら、{pause 8}{catchphrase}！{pause 20}	{emote: Reset}その　{0011-0003-0002-0000}を{pause 5}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入っていただけましたか？{Wait for input}{emote: Happiness}{Player nickname (green)}さんが	{ruby (charSpan 2): だいじ}大事に　してくださるなら、{pause 10}	{Blue}{Number (0xa)}ベル{Color Reset}で　{pause 5}おゆずりしますよ！{confirmation-02}{000f-0005-0004-0015-0028}	{ruby (charSpan 1): か}買った！	やめとく
+"003"	{emote: Happiness}その　{pause 5}{0011-0003-0002-0000}{pause 10}	すてきだと　{ruby (charSpan 1): おも}思いませんか？{pause 10}	わたしの　お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りなんです{Wait for input}{emote: Thought}でも、{pause 5}{Player nickname (green)}さんが{pause 10}	{ruby (charSpan 1): ほ}欲しいとおっしゃるなら{pause 5}・{pause 5}・{pause 5}・{Wait for input}{emote: Soft Smile}{Blue}{Number (0xa)}ベル{Color Reset}で　よければ{pause 10}	おゆずりしましょうか？　{pause 8}{catchphrase}？{confirmation-02}{000f-0005-0004-0015-0028}	ゆずって！	いらないや
+"004"	{emote: Glee}あ、{pause 20}{0011-0003-0002-0000}ですか？{pause 30}	それなら　{pause 5}おゆずりしますよ{Wait for input}{emote: Worry}でも　{pause 5}{Player nickname (green)}さん、{pause 10}	そんなに　{ruby (charSpan 2): にもつ}荷物がいっぱいじゃ{pause 10}	{ruby (charSpan 1): も}持って{ruby (charSpan 1): かえ}帰れないんじゃないかしら
+"005"	{emote: Soft Smile}あら{pause 20}	エンリョしなくて　いいんですよ
+"006"	{emote: Worry}あら{pause 20}　お{ruby (charSpan 1): かね}金が　{ruby (charSpan 1): た}足りないみたいです{pause 30}
+"007"	{emote: Worry}ごめんなさい{pause 30}	それは　{pause 5}がんばって　つかまえたので、{pause 10}	{emote: Soft Smile}もう{ruby (charSpan 1): すこ}少し　{pause 8}{ruby (charSpan 2): てもと}手元に{ruby (charSpan 1): お}置いておきたいんです
+"008"	{emote: Worry}あ{pause 8}・{pause 8}・{pause 8}・{pause 8}	それは{ruby (charSpan 2): たいせつ}大切に　{ruby (charSpan 1): そだ}育てているので{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 20}	ごめんなさい
+"009"	{emote: Worry}ごめんなさい、{pause 20}	{emote: Sheepishness}それは{pause 10}　{ruby (charSpan 2): てもと}手元に　{ruby (charSpan 1): お}置いておきたいんです{emote: Soft Smile}
+"010"	{emote: Worry}お{ruby (charSpan 2): きも}気持ちは　わかるんですけど{pause 10}	わたしも　{ruby (charSpan 2): くろう}苦労して{ruby (charSpan 1): て}手に{ruby (charSpan 1): い}入れたので{pause 10}	ゆずるのは　ちょっと{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"011"	{emote: Sheepishness}ごめんなさい{pause 20}	それは　{pause 5}ゆずれないんです{pause 20}{emote: Soft Smile}
+"012"	{emote: Worry}それは　ちょっと{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 2): たいせつ}大切にしてるので　{pause 10}ごめんなさい{pause 10}{emote: Reset}

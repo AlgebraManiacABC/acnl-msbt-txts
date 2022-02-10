@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Fearful}
-"002"	{emote: Distress}
-"003"	{emote: Distress}
+"001"	{emote: Fearful}Oh no{pause 8}.{pause 8}.{pause 8}.{pause 8}there's a poisonous bug	nearby!{Wait for input} {emote: Distress}It's really dangerous, so{pause 8}	you'd better run!{pause 8} Save yourself!
+"002"	{emote: Distress}I saw{pause 10} {Article(word-dependant)}{0011-0003-0002-0000},	{Player nickname (green)}!{Wait for input}{emote: Fearful}It's lurking close by,{pause 10} so don't let	your guard down for a second!
+"003"	{emote: Distress}Watch where you step!{Wait for input} There's	{Article(word-dependant)}{0011-0003-0002-0000}	close by!{Wait for input}{emote: Fearful}I like a lot of creepy crawlies,{pause 8} but	this one is WAY too creepy for me,{pause 3}	{catchphrase}!
 == 1 ==
-"001"	{emote: Fearful}
-"002"	{emote: Distress}
-"003"	{emote: Distress}
+"001"	{emote: Fearful}Ay{pause 8}.{pause 8}.{pause 8}.{pause 20} Hay un bicho venenoso cerca{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Distress}¡Es muy peligroso, {pause 10}así que más	vale que te vayas de aquí!
+"002"	{emote: Distress}¡Hay {Article(word-dependant)}{0011-0003-0002-0000},	{Player nickname (green)}! {pause 20}¡L{o/a/} he visto!{Wait for input}{emote: Fearful}¡Está muy cerca, {pause 10}así que mantente	alerta y ten mucho cuidado!
+"003"	{emote: Distress}¡Ten cuidado por dónde pisas, que	hay {Article(word-dependant)}{0011-0003-0002-0000}	muy cerca de aquí!	{emote: Sadness}No soporto esos bichos, {pause 10}me pongo	de los nervios,{pause 10} {catchphrase}{pause 8}.{pause 8}.{pause 8}.
 == 2 ==
-"001"	{emote: Fearful}
-"002"	{emote: Distress}
-"003"	{emote: Distress}
+"001"	{emote: Fearful}Oh{pause 8}.{pause 8}.{pause 8}.{pause 8} Il y a une bestiole venimeuse	tout près{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input} {emote: Distress}On ne plaisante pas avec	ça, alors sauve qui peut!
+"002"	{emote: Distress}C'est {Article(word-dependant)}{0011-0003-0002-0000}	que je viens de voir, il n'y a aucun	doute possible!	{emote: Fearful}{Il/Elle/} est tout près de nous, alors	reste sur tes gardes, {Player nickname (green)}!
+"003"	{emote: Distress}Attention où tu mets les pattes!{Wait for input} Il	y a {Article(word-dependant)}{0011-0003-0002-0000}	tout près!	{emote: Sadness}Quelle horreur!{pause 10} J'ai des sueurs	froides rien que d'y penser,	{catchphrase}!

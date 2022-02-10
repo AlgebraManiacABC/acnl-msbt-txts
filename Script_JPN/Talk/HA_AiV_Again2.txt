@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Laughter}
-"003"	{emote: Sunny}
+"001"	{emote: Alarmed}{0007-000a-0000}おー！{pause 8}　またオマエかー{pause 20}	{emote: Happiness}なんだ　なんだ？！{pause 8}	{catchphrase}
+"002"	{emote: Laughter}ハハッ！{pause 40}	そんなに　あせって{ruby (charSpan 1): はな}話しかけて、{pause 20}	{ruby (charSpan 2): いったい}一体　どんな{ruby (charSpan 2): ようじ}用事だ？　{pause 8}{catchphrase}？{pause 20}{emote: Happiness}
+"003"	{emote: Sunny}{Greeting begin}よぉ！　{Player name}！{Greeting end}{pause 40}	また　オイラに	{ruby (charSpan 1): よう}用があるのか？　{pause 8}{catchphrase}？

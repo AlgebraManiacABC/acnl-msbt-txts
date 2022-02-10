@@ -1,14 +1,14 @@
 == 0 ==
-"001"	
-"002"	{emote: Glee}
-"003"	
-"004"	あっちむいて～{0007-0009-0004-14-00-00-00}
-"005"		{0007-000a-0000}
-"006"	{emote: Mistaken}
-"007"	{emote: Sheepishness}
-"008"	{emote: Surprise}
-"009"	{emote: Worry}
-"010"	{emote: Happiness}
-"011"	{emote: Worry}
-"012"	{emote: Happiness}
-"013"	{emote: Glee}
+"001"
+"002"	{emote: Glee}では、{pause 10}いきますよ～！		{Wait <005a 0000> 'time'}	{emote: Happiness}まずは、{pause 10}ルール{ruby (charSpan 2): せつめい}説明しますね{Wait for input}わたしが{pause 10}「あっちむいて～」{pause 10}	と{ruby (charSpan 1): い}言ったら、{pause 10}	を{ruby (charSpan 1): お}押してください	{emote: Soft Smile}わたしと{ruby (charSpan 1): おな}同じ{ruby (charSpan 2): ほうこう}方向を　{ruby (charSpan 1): む}向いたら、{pause 10}	あなたの{ruby (charSpan 1): か}勝ちです{Wait for input}{emote: Happiness}チャンスは3{ruby (charSpan 1): かい}回まで！{pause 30}	{ruby (charSpan 1): うえ}上か　{ruby (charSpan 1): した}下か　{ruby (charSpan 1): みぎ}右か　{ruby (charSpan 1): ひだり}左か{pause 8}・{pause 8}・{pause 8}・{pause 20}	わたしが　{pause 8}どっちを{ruby (charSpan 1): む}向くか{ruby (charSpan 1): あ}当ててください	{emote: Glee}それでは{pause 8}	さっそく　やってみましょう
+"003"
+"004"	あっちむいて～{Wait <0014 0000> 'time'}
+"005"		{0007-000a-0000}{Text size 200%}ホ{pause 8}～{pause 8}イ{Text size 100%}
+"006"	{emote: Mistaken}あら！{pause 20}	{emote: Sheepishness}つられちゃいました！
+"007"	{emote: Sheepishness}{ruby (charSpan 1): ちが}違いましたね！{pause 20}	それでは、もう1{ruby (charSpan 1): かい}回です
+"008"	{emote: Surprise}あら{pause 8}・{pause 8}・{pause 8}・{pause 8}！	また　ハズレちゃいましたね{pause 20}	{emote: Happiness}{ruby (charSpan 1): つぎ}次で　{ruby (charSpan 2): さいご}最後ですよ！
+"009"	{emote: Worry}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	ザンネンでした！
+"010"	{emote: Happiness}ということで{pause 10}	{emote: Delight}あなたの{ruby (charSpan 1): か}勝ちです！
+"011"	{emote: Worry}ということは{pause 8}・{pause 8}・{pause 8}・{pause 8}	わたし、{pause 10}{ruby (charSpan 1): ま}負けちゃいました
+"012"	{emote: Happiness}ということで{pause 10}	わたしが　{ruby (charSpan 1): か}勝っちゃいました
+"013"	{emote: Glee}{ruby (charSpan 2): けっか}結果は{pause 10}	わたしの　{ruby (charSpan 1): か}勝ちですね、{pause 10}{catchphrase}

@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{0007-000d-0000}
-"002"	{emote: Worry}
-"003"	{emote: Happiness}
-"004"	{emote: Alarmed}
-"005"	{emote: Agreement}
-"006"	{emote: Alarmed}
-"007"	이것도 통과?{pause 20}
-"008"	{emote: Alarmed}
-"009"	{emote: Happiness}
-"010"	{emote: Alarmed}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{0009-0003-000a-0b-00-0b-00-0b-00-0b-00-0c-00}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Happiness}
-"017"	{emote: Anger}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
+"001"	{0007-000d-0000}{emote: Happiness}야, {pause 15}우리 시간도 때울 겸{pause 8}	「찬스는 5번 게임」{pause 8}이라도 할까?{Wait for input}{emote: Agreement}내가 가지고 있는 가구를{pause 15}	저렴한 가격에 살 수도 있는{pause 8}	절호의 기회라구!	{emote: Glare}단, {pause 8}일단 시작하면 무조건 하나는{pause 8}	사야 한다는 게 규칙이야!	{emote: Happiness}어때? {pause 8}해볼 테냐?{Player can respond (0005):0003-0015-0002-0028}	하자!	다음에 하자
+"002"	{emote: Worry}그거 아쉽게 됐네{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}그럼 다음에 놀자!
+"003"	{emote: Happiness}알고는 있겠지만{pause 8}	간단하게 규칙을 설명하지{Wait for input}{emote: Reset}난 5개의 가구를 가지고 있고{Wait for input}	너는 그중에서{pause 8}	반드시 1가지를 사야 돼!	지금부터 1개씩 순서대로{pause 8}	가구의 이름과 가격을 말할 테니까{pause 15}	{emote: Soft Smile}이거다! 싶은 게 나오면 말해줘	{emote: Disagreement}단, 마지막까지 못 정하면{pause 15}	{emote: Reset}5번째 가구를 무조건 사야 하니까{pause 8}	그 점을 염두에 두라구	{emote: Soft Smile}그럼 첫 번째 가구!{Wait for input}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}	{Blue}{Number (0x9)}벨{Color Reset}에 어때?{confirmation-02}{Player can respond (0005):0004-0015-0005-0028}	살래	안 살래
+"004"	{emote: Alarmed}어라?!{pause 15}	{emote: Happiness}바로 원하는 게 나왔어?{pause 20}	자, 여기 있다!
+"005"	{emote: Agreement}이번엔 탐색전이었냐?{pause 20}	{emote: Reset}그럼 두 번째 간다!{Wait for input}{0011-0003-0002-0001}{000e-000e-0008-0002-c744-0002-b97c}	{Blue}{Number (0x9)}벨{Color Reset}에 어때?{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	살래	안 살래
+"006"	{emote: Alarmed}오호, {pause 15}이걸로 할래?{pause 20}	{emote: Happiness}알았어, 자!
+"007"	이것도 통과?{pause 20}	{emote: Soft Smile}자, 세 번째는 이거야!{Wait for input}{0011-0003-0002-0002}{000e-000e-0008-0002-c744-0002-b97c}	{Blue}{Number (0x9)}벨{Color Reset}에 어때?{confirmation-02}{Player can respond (0005):0008-0015-0009-0028}	살래	안 살래
+"008"	{emote: Alarmed}오호, {pause 15}이걸로 정했어?{pause 20}	{emote: Happiness}좋았어, 자!
+"009"	{emote: Happiness}헤헷, {pause 8}제법 버티는군!{Wait for input}	{emote: Anger}하지만{pause 8} 선택할 수 있는 기회는	이번이 마지막이라구!	{emote: Mischief}이번 걸 안 사면{pause 15}	다섯 번째 가구는 무조건{pause 8}	사야 되니까 말이야!	{emote: Reset}자, {pause 8}네 번째{pause 8}・{pause 8}・{pause 8}・	{0011-0003-0002-0003}{000e-000e-0008-0002-c744-0002-b97c}	{Blue}{Number (0x9)}벨{Color Reset}에!{confirmation-02}{Player can respond (0005):000a-0015-000d-0028}	살래	안 살래
+"010"	{emote: Alarmed}드디어 정했군!{Wait for input}	{emote: Happiness}너 지금 얼굴이{pause 8}	울상이 되어 있는데?	스릴 만점에{pause 8}	두근두근 콩닥콩닥이었지?{pause 20}	자, 받아라!
+"011"	{emote: Alarmed}오호!{pause 15}	마지막에 승부를 걸어보시겠다?{Wait for input}{emote: Reset}약속대로 {pause 15}마지막 가구는{pause 8}	반드시 사야 돼!{pause 20}	{emote: Anger}각오 됐겠지?	{emote: Reset}그럼 발표한다!{Wait for input}	{0011-0003-0002-0004}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 15}	{Blue}{Number (0x9)}벨{Color Reset}에!!	{emote: Happiness}좀 비싼가?{pause 20}	그래도 처음부터 정해 둔 가격이야{pause 15}	너무 섭섭하게 생각하진 마, {pause 15}자!
+"012"	{emote: Alarmed}오호!{pause 15}	마지막에 승부를 걸어보시겠다?{Wait for input}{emote: Reset}약속대로 {pause 15}마지막 가구는{pause 8}	반드시 사야 돼!{pause 20}	{emote: Anger}각오는 됐겠지?	{emote: Reset}그럼 발표한다!{Wait for input}	{0011-0003-0002-0004}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 15}	{Blue}{Number (0x9)}벨{Color Reset}에!!	{emote: Happiness}특별 서비스야～!{pause 15}	운이 좋은 줄 알아라!
+"013"	{0009-0003-000a-000b-000b-000b-000b-000c}
+"014"	{emote: Happiness}허무하게 끝났지만{pause 15}	니 마음에 들면	그걸로 된 거지 뭐, {pause 20}{catchphrase}!
+"015"	{emote: Happiness}딴것도 많았지만{pause 15}	또 기회가 있겠지!
+"016"	{emote: Happiness}딴것도 많았지만{pause 15}	그건{pause 8} 다음 기회를 노려라!
+"017"	{emote: Anger}참고로 다섯 번째 가구는{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Happiness}아냐, 비밀로 해 둘게!
+"018"	{emote: Happiness}너무 좌절하지 말고{pause 15}	다음에 또 놀자, {pause 20}{catchphrase}!
+"019"	{emote: Happiness}이 가구를{pause 8}	소중하게 간직해주길 바란다!

@@ -1,23 +1,23 @@
 == 0 ==
-"001"	{emote: Shocked}
-"002"	{emote: Anger}
-"003"	{emote: Anger}
-"004"	オニはー{pause 20}
-"005"	{emote: Alarmed}
-"006"	{emote: Laughter}
-"007"	{emote: Laughter}
-"008"	{emote: Disbelief}
-"009"	{emote: Shocked}
-"010"	{emote: Anger}
-"011"	なんか　{ruby (charSpan 2): せつぶん}節分っぽいことしたいよなー！{pause 40}
-"012"	{emote: Happiness}
-"013"	{emote: Pride}
-"014"	{Player nickname (green)}
-"015"	{emote: Alarmed}
-"016"	{emote: Happiness}
-"017"	{emote: Alarmed}
-"018"	{emote: Alarmed}
-"019"	{emote: Glee}
-"020"	{pause 8}
-"021"	{emote: Aggravation}
-"022"	{emote: Thought}
+"001"	{emote: Shocked}{0007-000b-0000}うぉー！{pause 20}	オニが{ruby (charSpan 1): で}出たー！{pause 40}	{emote: Anger}オイラが　{ruby (charSpan 2): せいばい}成敗してやる！
+"002"	{emote: Anger}{ruby (charSpan 1): で}出たな！{pause 8}　オニ！{pause 20}	オイラが　たいじしてやる！
+"003"	{emote: Anger}ヨッシャー！{pause 8}	{ruby (charSpan 1): き}来たな　オニー！{pause 20}	かかってこい！　{pause 8}{catchphrase}！
+"004"	オニはー{pause 20}そと！{pause 20}	フクはー{pause 20}うち！
+"005"	{emote: Alarmed}か、{pause 20}{ruby (charSpan 1): か}勝った{pause 8}・{pause 8}・{pause 8}・{pause 20}	オイラの{ruby (charSpan 2): しょうり}勝利だ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Glee}やったー！{pause 20}　やったー！
+"006"	{emote: Laughter}へへっ！{pause 20}　{ruby (charSpan 1): まい}参ったか！{pause 20}	{ruby (charSpan 2): こんかい}今回は　このくらいに	しておいてやるよ、{pause 8}{catchphrase}！{pause 20}{emote: Happiness}
+"007"	{emote: Laughter}どうだー！{pause 20}	オイラがあみ{ruby (charSpan 1): だ}出した、	マシンガンのような　{ruby (charSpan 1): まめ}豆まきは！{pause 20}{emote: Happiness}
+"008"	{emote: Disbelief}{0007-000b-0000}ゲッ！{pause 20}　オニだ！{pause 40}	{emote: Distress}しかも　オニが{ruby (charSpan 1): まめ}豆{ruby (charSpan 1): も}持ってる！{pause 40}	これじゃあ　スキがないじゃんかー！
+"009"	{emote: Shocked}{0007-000b-0000}ナニッ？！{pause 20}	オニが　{ruby (charSpan 1): まめ}豆{ruby (charSpan 1): も}持ってるぞ？！{Wait for input}{emote: Distress}おいー！{pause 20}	どっちかに　してくれよー！
+"010"	{emote: Anger}{ruby (charSpan 1): で}出たな　オニ！{pause 20}	{emote: Reset}って、{pause 40}{emote: Distress}{0007-000b-0000}{ruby (charSpan 1): なん}何で　{ruby (charSpan 1): まめ}豆{ruby (charSpan 1): も}持ってるんだ？{Wait for input}オニなら　{ruby (charSpan 1): と}飛び{ruby (charSpan 2): どうぐ}道具なんかに	たよるなよ、{pause 8}{catchphrase}！
+"011"	なんか　{ruby (charSpan 2): せつぶん}節分っぽいことしたいよなー！{pause 40}	{emote: Laughter}ひょこっと　オニとか{ruby (charSpan 1): で}出てこないかな{pause 20}	ハハッ！{pause 20}{emote: Happiness}
+"012"	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 2): せつぶん}節分だろー？{pause 40}	オイラ　オニたいじができると{ruby (charSpan 1): おも}思って、{pause 20}	{ruby (charSpan 1): たの}楽しみにしてたんだよ、{pause 8}{catchphrase}
+"013"	{emote: Pride}オイラ　この{ruby (charSpan 1): ひ}日のために、	{ruby (charSpan 1): まめ}豆まきの　トレーニングを	してきたんだ！
+"014"	{Player nickname (green)}！{pause 20}	{ruby (charSpan 1): まめ}豆まきには　{ruby (charSpan 2): じしん}自信ありかー？{Wait for input}{emote: Anger}オニが{ruby (charSpan 1): で}出てきたら、{pause 20}	すかさず　{ruby (charSpan 1): な}投げるんだぞー？
+"015"	{emote: Alarmed}おー！{pause 20}	{ruby (charSpan 1): まめ}豆{ruby (charSpan 1): も}持ってるのか！{Wait for input}{emote: Laughter}これで　いつオニが{ruby (charSpan 1): で}出てきても、	{ruby (charSpan 2): らくしょう}楽勝だな、{pause 8}{catchphrase}{pause 20}{emote: Happiness}
+"016"	{emote: Happiness}オマエ　バッチリだな！{pause 20}	その{ruby (charSpan 1): まめ}豆があれば、{pause 20}	オニなんて　こわくないぞ、{pause 8}{catchphrase}
+"017"	{emote: Alarmed}おー！{pause 20}	その{ruby (charSpan 1): まめ}豆で　オニをこらしめようって	{ruby (charSpan 1): かんが}考えだなー？{Wait for input}{emote: Agreement}オマエとは　やっぱり	{ruby (charSpan 1): き}気が{ruby (charSpan 1): あ}合うみたいだな、{pause 8}	{Player nickname (green)}！
+"018"	{emote: Alarmed}まさか　その{ruby (charSpan 1): まめ}豆、{pause 20}	ポリポリ　{ruby (charSpan 1): た}食べるんじゃないだろーな？{Wait for input}{emote: Anger}それは　オニをたおすための	ぶき　なんだからな！{pause 20}	あんまり　ムダにするなよ？！
+"019"	{emote: Glee}オイラと　オマエで	{ruby (charSpan 1): ちから}力を{ruby (charSpan 1): あ}合わせれば、{pause 20}	オニなんて　{ruby (charSpan 2): らくしょう}楽勝だよな！
+"020"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Alarmed}あ！{pause 40}	{ruby (charSpan 1): まめ}豆{ruby (charSpan 1): き}切らしてるんだった！{Wait for input}	{emote: Disagreement}{ruby (charSpan 2): しょうぶ}勝負は　おあずけだな、{pause 8}{catchphrase}
+"021"	{emote: Aggravation}オニはー{pause 20}そと！{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Resigned}って{ruby (charSpan 1): おも}思ったけど、{pause 20}	{ruby (charSpan 2): へや}部屋の{ruby (charSpan 1): なか}中で　あばれると{pause 8}	かたづけが　{ruby (charSpan 2): たいへん}大変だからな{Wait for input}{emote: Laughter}{ruby (charSpan 2): こんかい}今回だけは	{ruby (charSpan 1): み}見のがしてやるよ、{pause 8}{catchphrase}{pause 40}{emote: Soft Smile}
+"022"	{emote: Thought}えーっと、{pause 20}{ruby (charSpan 1): まめ}豆は{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Shocked}{0007-000a-0000}ありゃっ？！{pause 20}	どこに　しまったっけ？！{Wait for input}{emote: Distress}ヤバイッ！{pause 20}	{ruby (charSpan 1): まめ}豆　なくしたー！　{pause 8}{catchphrase}！

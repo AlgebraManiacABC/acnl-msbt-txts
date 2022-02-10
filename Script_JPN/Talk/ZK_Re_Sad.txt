@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{000d-0004-0002-03-ffffffcd}{emote: Sigh}
-"002"	{000d-0004-0002-03-ffffffcd}そっと　しといて{emote: Curious}
-"003"	{000d-0004-0002-03-ffffffcd}{emote: Worry}
+"001"	{000d-0004-0002-cd03}{emote: Sigh}{pause 16}ハァ～{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Alarmed}えっ？{pause 32}	{emote: Worry}{ruby (charSpan 1): いま}今は、{pause 16}ハートブレイク{ruby (charSpan 1): ちゅう}中さ{pause 8}・{pause 8}・{pause 8}・{pause 8}{000d-0005-0000}
+"002"	{000d-0004-0002-cd03}そっと　しといて{emote: Curious}くれないか？{Wait for input}	{emote: Worry}{ruby (charSpan 1): いま}今は　メランコリックな{ruby (charSpan 2): きぶん}気分に{pause 16}	ひたっているんだ{pause 8}・{pause 8}・{pause 8}・{pause 8}{000d-0005-0000}
+"003"	{000d-0004-0002-cd03}{emote: Worry}{ruby (charSpan 1): いま}今は　ちょっと{pause 16}	{ruby (charSpan 1): だれ}誰も　{ruby (charSpan 1): しん}信じられないよ{pause 8}・{pause 8}・{pause 8}・{pause 8}{000d-0005-0000}

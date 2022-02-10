@@ -1,7 +1,7 @@
 == 0 ==
-"001"	어디 보자{pause 8}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Distress}
+"001"	어디 보자{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}그럼 이제 슬슬{pause 16}	물러가도록 할까?	{emote: Sunny}오늘은 정말 고마워!{pause 16}	즐거웠어, {pause 8}{Player nickname (green)}{군/양}
+"002"	{emote: Worry}너무 오래 있으면 미안하니까{pause 16}	슬슬 나는 돌아갈게{Wait for input}	{emote: Greetings}아디오스! {pause 8}{Player nickname (green)}{군/양}!
+"003"	{emote: Worry}헤어지기 아쉽지만 {pause 16}	슬슬 돌아가야겠다, {pause 8}{catchphrase}{Wait for input}{emote: Anger}{Player name}{000e-000e-0006-0002-c774-0000}란 사람이{pause 16}	어떤 인물인지	조금 알게 된 것 같아	{emote: Sheepishness}후후훗{pause 8}・{pause 8}・{pause 8}・{pause 8}	그럼 또 보자구!{pause 8}	{Player nickname (green)}{군/양}!
+"004"	{emote: Alarmed}어라? {pause 16}{Player nickname (green)}{군/양}{pause 32}	{emote: Worry}어디 나가는 거야?{Wait for input}{emote: Reset}그럼 나도{pause 16}	슬슬 돌아가볼게{pause 30}	{emote: Soft Smile}오늘 정말 고마웠어!
+"005"	{emote: Alarmed}아, {pause 16}외출하는 거야?{pause 8}	{Player nickname (green)}{군/양}?{Wait for input}{emote: Soft Smile}그럼 나도{pause 16}	슬슬 돌아가봐야겠다{pause 30}	{emote: Glare}오늘 재밌었어
+"006"	{emote: Distress}자, 잠깐만!{pause 16}	날 두고 어디 가는 거야?{pause 8}	{Player nickname (green)}{군/양}?	{emote: Sheepishness}그대가 나간다면{pause 16}	나도 돌아가겠어, {pause 8}{catchphrase}{Wait for input}{emote: Happiness}오늘은 그대 집에 초대돼서{pause 15}	정말 좋았어{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sunny} 고마워!

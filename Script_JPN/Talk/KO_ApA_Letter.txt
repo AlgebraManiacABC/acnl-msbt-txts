@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Thought}
-"002"	{emote: Soft Smile}
-"003"	{0009-0001-0006-04-00-05-00-06-00}
-"004"	{emote: Reset}
-"005"	{emote: Sheepishness}
-"006"	{emote: Reset}
-"007"	{0009-0001-0006-08-00-09-00-00-00}	
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
+"001"	{emote: Thought}{ruby (charSpan 1): じつ}実はだなぁ、{pause 40}	オメェに　ちょこっと{pause 4}	{ruby (charSpan 1): み}見てもらいてぇモンが　あるんだよ{Wait for input}{emote: Reset}コレなんだがな{pause 8}・{pause 8}・{pause 8}・
+"002"	{emote: Soft Smile}オメェに　いいモン{pause 8}	{ruby (charSpan 1): み}見せてやろうと　{ruby (charSpan 1): おも}思ってな{Wait for input}	{emote: Happiness}ほら、{pause 20}ダチからの{ruby (charSpan 2): てがみ}手紙だぜぇ
+"003"	{0009-0001-0006-0004-0005-0006}
+"004"	{emote: Reset}{ruby (charSpan 2): ないよう}内容は　ともかくとしてよぉ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Daydreaming}オレのために　{ruby (charSpan 2): じかん}時間を{ruby (charSpan 1): さ}割いて{pause 8}	わざわざ　{ruby (charSpan 1): か}書いてくれたんだっていう{pause 15}	{emote: Agreement}その{ruby (charSpan 2): きも}気持ちが　まず{pause 8}　{emote: Soft Smile}うれしいじゃねぇか
+"005"	{emote: Sheepishness}なんだか　たどたどしくて{pause 8}	{emote: Disagreement}{ruby (charSpan 1): けっ}決して　{ruby (charSpan 2): めいぶん}名文とは{ruby (charSpan 1): い}言えねぇけどよ{Wait for input}{emote: Daydreaming}なんていうか{pause 8}　{ruby (charSpan 2): すなお}素直な{ruby (charSpan 2): きも}気持ちが{ruby (charSpan 1): つた}伝わって{pause 8}	{emote: Agreement}グッと　くるじゃねぇか
+"006"	{emote: Reset}こういう{ruby (charSpan 2): てがみ}手紙をもらうとよぉ、{pause 15}	{emote: Agreement}{ruby (charSpan 1): あたた}温かく　{pause 4}{ruby (charSpan 2): みまも}見守ってやらなきゃって{emote: Showmanship}{pause 4}	{ruby (charSpan 1): おも}思うわなぁ、{pause 15}ふつう{pause 15}
+"007"	{0009-0001-0006-0008-0009-000a}
+"008"	{emote: Happiness}{ruby (charSpan 2): てがみ}手紙ってのは　いいもんだぜ、{pause 8}	{Player nickname (green)}！{pause 20}　{catchphrase}！
+"009"	{emote: Happiness}よーし、{pause 8}{ruby (charSpan 1): ほか}他のヤツらにも{pause 8}	{ruby (charSpan 2): てがみ}手紙　{ruby (charSpan 1): み}見せびらかしてくるかな！
+"010"	{emote: Happiness}{ruby (charSpan 2): ちょくせつ}直接{ruby (charSpan 1): い}言いにくいことを{pause 4}　{ruby (charSpan 1): つた}伝えやすいってのも{pause 15}	{ruby (charSpan 2): てがみ}手紙のいいところだよな、{pause 20}{catchphrase}！

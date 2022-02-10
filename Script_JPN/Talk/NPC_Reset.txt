@@ -1,86 +1,86 @@
 == 0 ==
-"001"	{0002-0008-0000}
-"002"	ああ　はいはい、{pause 15}
-"003"	{0002-0008-0000}
-"004"	{emote: Reset}
-"005"	{0002-0008-0000}
-"006"	
-"007"	
-"008"	
-"009"	
-"010"	
+"001"	{0002-0008-0000}あ、{pause 8}すんません！{pause 30}	リセット{ruby (charSpan 2): かんし}監視センターの{ruby (charSpan 1): もん}者ですけど{pause 15}	ちょっと　お{ruby (charSpan 2): じかん}時間いただきますよ	{emote: Reset}え～っと{pause 8}　キミ　{ruby (charSpan 2): ぜんかい}前回、{pause 15}	{0002-0002-0000}セーブせずに　やめたことになってるけど{pause 8}	{0002-0008-0000}どないしたん？{000f-0001-0006-0000-0000-0028}	リセットしたかった	{ruby (charSpan 2): でんち}電池が{ruby (charSpan 1): き}切れた	{ruby (charSpan 1): み}身に{ruby (charSpan 1): おぼ}覚えがない
+"002"	ああ　はいはい、{pause 15}	{0002-0005-0000}まあ、{pause 4}やるやろうな{pause 4}	とは　{ruby (charSpan 1): おも}思ってたけどな{pause 8}{0002-0008-0000}	{emote: Reset}{ruby (charSpan 1): かお}顔{ruby (charSpan 1): み}見たら	だいたい　わかるねん、{pause 12}ワシ{Wait for input}{emote: Reset}ワシも　この{ruby (charSpan 2): しごと}仕事　{ruby (charSpan 1): なが}長いから{pause 15}	{0002-0002-0000}そのへんは　お{ruby (charSpan 2): みとお}見通しやで
+"003"	{0002-0008-0000}よく{ruby (charSpan 2): しつもん}質問されるから{pause 8}	いちおう　{ruby (charSpan 1): さき}先に{ruby (charSpan 1): い}言うとくけどね{Wait for input}{emote: Reset}{ruby (charSpan 1): だれ}誰かがリセットしたら{pause 8}	リセット{ruby (charSpan 2): かんし}監視センターの　ランプが{ruby (charSpan 2): てんめつ}点滅して{pause 15}	{0002-0002-0000}すぐにわかるように　なってるから！	{0002-0005-0000}オッサン　{ruby (charSpan 1): で}出てきよるかな？{pause 4}って、{pause 8}	{0002-0002-0000}いちいち　{ruby (charSpan 1): ため}試してみんでもエエから！
+"004"	{emote: Reset}とにかく　リセットは　やめとこ！{pause 40}	ゲームを{ruby (charSpan 1): お}終わるときには{pause 15}	{0002-0002-0000}{ruby (charSpan 1): かなら}必ず{Blue}セーブ{Color Reset}する！	{0002-0002-0000}エエな？{pause 30}	もう　これっきりにしてや？！
+"005"	{0002-0008-0000}そうそう、{pause 8}{ruby (charSpan 2): さいご}最後にひとつだけ{Wait for input}{emote: Reset}「うろ{ruby (charSpan 1): おぼ}覚え」のこと{pause 15}	「うる{ruby (charSpan 1): おぼ}覚え」{pause 8}て　{ruby (charSpan 1): い}言うてしまう　キミ{pause 30}{Wait for input}	{0002-0002-0000}{000d-0000-0002-cd00}ちゃんと{pause 4}　{ruby (charSpan 1): おぼ}覚えよ！		{emote: Reset}　　　　　　{000d-0009-0000}{Text size 200%}ほな！{Text size 100%}{000d-000a-0000}{Wait <001e 0000> 'time'}
+"006"
+"007"
+"008"
+"009"
+"010"
 "011"	ちょっと、すんません！{pause 20}
-"012"	{0002-0008-0000}
-"013"	{0002-0008-0000}
-"014"	{0002-0008-0000}
-"015"	ていうか、{pause 8}
-"016"	{0002-0008-0000}
-"017"	
-"018"	
-"019"	
-"020"	
-"021"	{0002-0008-0000}
-"022"	{0002-0005-0000}
-"023"	{0002-0008-0000}
-"024"	{0002-0008-0000}
-"025"	{0002-0008-0000}
-"026"	
-"027"	
-"028"	
-"029"	
-"030"	
-"031"	{0002-0008-0000}
-"032"	{0002-0008-0000}
-"033"		{0007-000c-0000}
-"034"	{0002-0008-0000}
-"035"	なんや　このオッサン、{pause 8}
-"036"	{0002-0008-0000}
-"037"	
-"038"	
-"039"	
-"040"	
-"041"	{0002-0008-0000}
-"042"	{0002-0002-0000}
-"043"	{0002-0008-0000}
-"044"		{0007-000c-0000}
-"045"	{0002-0006-0000}
-"046"	ワシもな、{pause 30}
-"047"	{0002-0008-0000}
-"048"	
-"049"	
-"050"	
-"051"		{0002-0008-0000}
-"052"	{0002-0008-0000}
-"053"		{0007-000c-0000}
-"054"	キミ{pause 8}
-"055"	{0002-0002-0000}
-"056"		{0007-000c-0000}
-"057"	{0002-0008-0000}
-"058"	
-"059"	
-"060"	
-"061"	えーっと、{pause 15}
-"062"	{0002-0008-0000}
-"063"		{0007-000c-0000}
-"064"	キミ{pause 8}
-"065"	{0002-0002-0000}
-"066"		{0007-000c-0000}
-"067"	{0002-0008-0000}
-"068"	
-"069"	
-"070"	
-"071"	まいど！{pause 30}
-"072"	{0002-0008-0000}
-"073"		{0007-000c-0000}
-"074"	キミ{pause 8}
-"075"	{0002-0002-0000}
-"076"		{0007-000c-0000}
-"077"	{0002-0008-0000}
-"078"	
-"079"	
-"080"	
-"081"		{0002-0008-0000}
-"082"	う～ん、{pause 20}
-"083"	
-"084"	
-"085"	
+"012"	{0002-0008-0000}え～っと　ワシ、{pause 15}	リセット{ruby (charSpan 2): かんし}監視センターの{pause 8}	{emote: Reset}{Orange}リセット{Color Reset}いいます	みんなから{pause 4}	{0002-0008-0000}{Orange}リセットさん{Color Reset}{pause 8}　{Orange}リセットさん{Color Reset}　ゆーて{pause 20}	{ruby (charSpan 1): した}親しみを{ruby (charSpan 1): こ}込めて　{ruby (charSpan 1): よ}呼ばれてますねん	{0002-0005-0000}どーぞ、{pause 4}よろしゅうに！
+"013"	{0002-0008-0000}ところで　キミ、{pause 15}	{ruby (charSpan 2): ぜんかい}前回　セーブせずに{pause 8}	ゲーム{ruby (charSpan 1): お}終わったんちゃう？
+"014"	{0002-0008-0000}{ruby (charSpan 1): なに}何か　{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): おも}思い{ruby (charSpan 1): どお}通りに	いかんかった{ruby (charSpan 1): とき}時に、{pause 8}	リセットして　やり{ruby (charSpan 1): なお}直す	{0002-0002-0000}まあ　それもひとつの{pause 8}	{ruby (charSpan 1): あそ}遊び{ruby (charSpan 1): かた}方かもしれんねぇ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}けど、{pause 4}{ruby (charSpan 1): なに}何が{ruby (charSpan 1): お}起きても{pause 4}　あえて{pause 4}	そのまま{ruby (charSpan 1): う}受け{ruby (charSpan 1): い}入れるっちゅーのも{pause 8}	{0002-0005-0000}それはそれで　オモシロいもんやで？	{0002-0008-0000}そういう{ruby (charSpan 1): あそ}遊び{ruby (charSpan 1): かた}方を{pause 8}	ワシは　オススメしてますねん
+"015"	ていうか、{pause 8}ここの{ruby (charSpan 2): そんちょう}村長さんが{pause 4}	リセット{ruby (charSpan 2): かんし}監視センターを	{ruby (charSpan 2): せっち}設置されてますので、	{0002-0008-0000}{Town name (pink)}{ruby (charSpan 1): むら}村では	リセット{ruby (charSpan 2): きんし}禁止という{ruby (charSpan 2): ぜんてい}前提で{pause 8}	{ruby (charSpan 2): しごと}仕事させて　もらいますので	ゲームを{ruby (charSpan 1): お}終わるときには{pause 15}	{0002-0002-0000}{ruby (charSpan 1): かなら}必ず{Blue}セーブ{Color Reset}する！{pause 30}	ちゅ～ことで　よろしゅ～に！
+"016"	{0002-0008-0000}そうそう、{pause 8}{ruby (charSpan 2): さいご}最後にひとつだけ{Wait for input}{emote: Reset}「うろ{ruby (charSpan 1): おぼ}覚え」のこと{pause 15}	「うる{ruby (charSpan 1): おぼ}覚え」{pause 8}て　{ruby (charSpan 1): い}言うてしまう　キミ{pause 30}{Wait for input}	{0002-0002-0000}{000d-0000-0002-cd00}ちゃんと{pause 4}　{ruby (charSpan 1): おぼ}覚えよ！		{emote: Reset}　　　　　　{000d-0009-0000}{Text size 200%}ほな！{Text size 100%}{000d-000a-0000}{Wait <001e 0000> 'time'}
+"017"
+"018"
+"019"
+"020"
+"021"	{0002-0008-0000}ど～も～！{pause 30}	リセット{ruby (charSpan 2): かんし}監視センターの{ruby (charSpan 1): もん}者ですけど{pause 15}	ちょっと　いいですか？	{emote: Reset}え～っと{pause 8}　キミ　{ruby (charSpan 2): ぜんかい}前回、{pause 15}	{0002-0002-0000}セーブせずに　やめたことになってるけど{pause 8}	{0002-0008-0000}どないしたん？{000f-0001-0006-0000-0000-0028}	リセットしたかった	{ruby (charSpan 2): でんち}電池が{ruby (charSpan 1): き}切れた	{ruby (charSpan 1): み}身に{ruby (charSpan 1): おぼ}覚えがない
+"022"	{0002-0005-0000}いやいや、{pause 8}	リセットしたかった{pause 8}　じゃなくて{pause 8}・{pause 8}・{pause 8}・{pause 20}	{0002-0002-0000}{ruby (charSpan 1): こま}困ったヤツやな　キミも	{emote: Reset}え～っと、{pause 8}ほな	もう{ruby (charSpan 2): いっかい}一回だけ　{ruby (charSpan 2): せつめい}説明するから{pause 8}	ちゃんと　{ruby (charSpan 1): き}聞いてや？！	{0002-0008-0000}さて、キミは{pause 8}	{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Color Reset}を	{ruby (charSpan 1): あそ}遊んでいました	{0002-0005-0000}もう　そろそろ　やめようかな{pause 8}・{pause 8}・{pause 8}・{pause 15}	{0002-0004-0000}はいっ！{pause 20}{Wait for input}	{emote: Reset}ここでどうする？	{0002-0008-0000}ん？{pause 8}　なんやて？{Wait for input}	{emote: Reset}{Blue}START{Color Reset}を　{ruby (charSpan 1): お}押して、{pause 10}	〔{Blue}セーブして{ruby (charSpan 1): お}終わる{Color Reset}〕を　{ruby (charSpan 1): えら}選ぶ	{0002-0004-0000}はい！{pause 8}　{ruby (charSpan 2): せいかい}正解！{pause 20}
+"023"	{0002-0008-0000}そうすることで、{pause 15}	それまでに　やったことを{pause 8}	{ruby (charSpan 2): きろく}記録することが　できるワケやね	{0002-0002-0000}これを　し{ruby (charSpan 1): わす}忘れると{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}せっかく{ruby (charSpan 1): つ}釣った　サカナのことや{pause 8}	やっと{ruby (charSpan 1): て}手に{ruby (charSpan 1): い}入れた　{ruby (charSpan 2): かぐ}家具のこと、	{ruby (charSpan 1): むら}村の{ruby (charSpan 2): なかま}仲間と{ruby (charSpan 1): はな}話した　{ruby (charSpan 2): たいせつ}大切な{ruby (charSpan 1): おも}思い{ruby (charSpan 1): で}出も、{pause 8}	{0002-0003-0000}{ruby (charSpan 2): ぜんぶ}全部　なかったことに　なってしまうから{pause 15}	{emote: Reset}くれぐれも　{ruby (charSpan 1): わす}忘れたら　アカンで！	{0002-0002-0000}ところが{ruby (charSpan 1): なか}中には　おるんやな、{pause 8}	それを　ワザとするヤツが！{Wait for input}{emote: Reset}{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): おも}思い{ruby (charSpan 1): どお}通りに{pause 8}　ならんかったり	したときに{pause 8}・{pause 8}・{pause 8}・{Wait for input}{0002-0005-0000}セーブせずに{ruby (charSpan 1): お}終わって{pause 8}	{ruby (charSpan 1): な}無かったことに　するんやねぇ{Wait for input}	{0002-0002-0000}リセットして　やり{ruby (charSpan 1): なお}直す{pause 8}っちゅーワケや！
+"024"	{0002-0008-0000}それを{ruby (charSpan 1): み}見つけて　{ruby (charSpan 2): ちゅうい}注意するのが{pause 8}	リセット{ruby (charSpan 2): かんし}監視センターの{pause 4}	{emote: Reset}ワシの{ruby (charSpan 2): やくめ}役目{pause 8}っちゅーことですわ！	{0002-0008-0000}{ruby (charSpan 1): ほとけ}仏の{ruby (charSpan 1): かお}顔も　{ruby (charSpan 2): さんど}三度まで{pause 8}	ってなこと　{ruby (charSpan 1): い}言いますけど、{pause 20}	{0002-0002-0000}ワシの{ruby (charSpan 2): ばあい}場合は　{ruby (charSpan 2): にかい}二回までやで	{emote: Reset}{ruby (charSpan 1): つぎ}次からは　{ruby (charSpan 2): ほんき}本気で	いかせてもらいますんで{pause 15}	{0002-0002-0000}そのつもりで　お{ruby (charSpan 1): ねが}願いしまっせ！
+"025"	{0002-0008-0000}そうそう、{pause 8}{ruby (charSpan 2): さいご}最後にひとつだけ{Wait for input}{emote: Reset}「{ruby (charSpan 3): ふんいき}雰囲気」のこと{pause 15}	「ふいんき」{pause 8}て　{ruby (charSpan 1): い}言うてしまう　キミ{pause 30}{Wait for input}{000d-0000-0002-cd00}{ruby (charSpan 3): ふんいき}雰囲気は　まあ{ruby (charSpan 2): だいたい}大体　{ruby (charSpan 1): あ}合ってるし、{pause 15}	{000d-0004-0002-cd02}{000d-0000-0002-cd00}エエんちゃう？！{000d-0005-0000}{Wait for input}	{emote: Reset}　　　　　　{000d-0009-0000}{Text size 200%}ほな！{Text size 100%}{000d-000a-0000}{Wait <001e 0000> 'time'}
+"026"
+"027"
+"028"
+"029"
+"030"
+"031"	{0002-0008-0000}ど～も　ど～も！{pause 30}	リかセンの{ruby (charSpan 1): もん}者ですけど{pause 15}	ちょっと　いいですか？	{emote: Reset}え～っと{pause 8}　キミ　{ruby (charSpan 2): ぜんかい}前回、{pause 15}	{0002-0002-0000}セーブせずに　やめたことになってるけど{pause 8}	{0002-0008-0000}どないしたん？{000f-0001-0006-0000-0000-0028}	リセットしたかった	{ruby (charSpan 2): でんち}電池が{ruby (charSpan 1): き}切れた	{ruby (charSpan 1): み}身に{ruby (charSpan 1): おぼ}覚えがない
+"032"	{0002-0008-0000}おっ、{pause 8}ほんまか？！{pause 30}{Wait for input}{emote: Reset}ほな、ちょっとだけ{pause 8}	{ruby (charSpan 1): ま}待って　くれるかな？！{pause 30}	{0002-0002-0000}やり{ruby (charSpan 1): なお}直しや！{0007-0008-0004-001e-0000}
+"033"		{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 200%}くらぁ～～っ！！{Wait <003c 0000> 'time'}{Text size 100%}		{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 150%}リセットするなー{pause 8}{Text size 100%}	{0007-000c-0000}{000d-0000-0002-cd01}{Text size 150%}ゆーてんのが{Text size 100%}	{Wait <001e 0000> 'time'}		{0007-000c-0000}{000d-0000-0002-cd01}{Text size 150%}わからんのかー！{Text size 100%}{pause 15}{0002-0006-0000}	{Wait <003c 0000> 'time'}	・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Reset}ふぅ～{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{Wait for input}{0002-0005-0000}こんな{ruby (charSpan 2): おおごえ}大声　{ruby (charSpan 1): だ}出したん{pause 8}	めっちゃ　{ruby (charSpan 1): ひさ}久しぶりやわ～{pause 30}	{0002-0002-0000}{ruby (charSpan 1): あたま}頭　クラクラするっちゅーねん
+"034"	{0002-0008-0000}それにしても{pause 4}	キミも　わからんヤツやな、{pause 15}	{0002-0002-0000}ちょっと　{ruby (charSpan 1): かんが}考えてみ？	{emote: Reset}{ruby (charSpan 2): ふだん}普段の{ruby (charSpan 2): せいかつ}生活の{ruby (charSpan 1): なか}中に	リセットなんてあるか？{Wait for input}{0002-0002-0000}{ruby (charSpan 2): じゅけん}受験に{ruby (charSpan 2): しっぱい}失敗したから{pause 8}	{0002-0005-0000}{ruby (charSpan 1): ま}巻き{ruby (charSpan 1): もど}戻って	{ruby (charSpan 2): しけん}試験　{ruby (charSpan 1): う}受け{ruby (charSpan 1): なお}直し{pause 8}・{pause 8}・{pause 8}・{0002-0008-0000}{pause 8}とか{pause 8}	{0002-0002-0000}{ruby (charSpan 2): ねぼう}寝坊したから{pause 8}	{0002-0005-0000}{ruby (charSpan 2): じかん}時間{ruby (charSpan 1): もど}戻して　{ruby (charSpan 1): ね}寝{ruby (charSpan 1): なお}直し{pause 8}・{pause 8}・{pause 8}・{0002-0008-0000}{pause 8}とか{pause 8}{Wait for input}{0002-0002-0000}そんなん、ないやろ？{pause 20}	やり{ruby (charSpan 1): なお}直しが　きかんのが	{ruby (charSpan 2): じんせい}人生っちゅーもんや	{0002-0008-0000}そら、{pause 8}ゲームは　リセットしたら{pause 8}	なんぼでも　やり{ruby (charSpan 1): なお}直せるかもしれん{Wait for input}{emote: Reset}でもな　{Player name}、{pause 20}	{0002-0002-0000}それまで{ruby (charSpan 1): あそ}遊んでた　キミの{ruby (charSpan 2): じかん}時間は{pause 8}	{ruby (charSpan 1): と}取り{ruby (charSpan 1): もど}戻されへんのやで	{emote: Reset}ちょっとぐらい	{ruby (charSpan 1): おも}思い{ruby (charSpan 1): どお}通りにならんでも{pause 8}	{0002-0002-0000}それが　どないしたっちゅーねん！	{emote: Reset}ゲームなんやから{pause 8}・{pause 8}・{pause 8}・{pause 8}	{0002-0002-0000}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}{0002-0003-0000}・{pause 8}	ふぅ{pause 8}・{pause 8}・{pause 8}・
+"035"	なんや　このオッサン、{pause 8}	{0002-0002-0000}いつまで　しゃべっとんねん{pause 8}	{0002-0005-0000}っちゅー{ruby (charSpan 1): かお}顔　しとるなぁ、キミ	{emote: Reset}まぁ　エエわ{pause 20}	ワシも　ちょっと　{ruby (charSpan 1): と}飛ばしすぎて	しゃべり{ruby (charSpan 1): つか}疲れてもーたし	{0002-0008-0000}キミも　シンドイやろから{pause 8}	{ruby (charSpan 2): きょう}今日は　この{ruby (charSpan 1): へん}辺にしとこか！{pause 30}	{0002-0002-0000}けど　{ruby (charSpan 2): やくそく}約束やで！	{emote: Reset}ゲーム{ruby (charSpan 1): お}終わる{ruby (charSpan 1): とき}時は{pause 8}	{0002-0002-0000}{ruby (charSpan 2): ぜったい}絶対に　セーブしてからやで！{pause 20}	{emote: Reset}・{pause 8}・{pause 8}・{pause 8}{0002-0002-0000}わかったな？！
+"036"	{0002-0008-0000}そうそう、{pause 8}{ruby (charSpan 2): さいご}最後にひとつだけ{Wait for input}{emote: Reset}「シュミレーション」と{ruby (charSpan 1): ちが}違うで、{pause 15}	「シミュレーション」{pause 8}や{pause 30}{Wait for input}	{0002-0002-0000}{ruby (charSpan 2): しゅみ}趣味と{ruby (charSpan 1): ちが}違うって{pause 4}{ruby (charSpan 1): おぼ}覚えたら　エエんちゃう？！		{emote: Reset}　　　　　　{000d-0009-0000}{Text size 200%}ほな！{Text size 100%}{000d-000a-0000}{Wait <001e 0000> 'time'}
+"037"
+"038"
+"039"
+"040"
+"041"	{0002-0008-0000}え～、{pause 15}	リかセンの{pause 8}・{pause 8}・{pause 8}・{pause 15}	{0002-0005-0000}ありゃ？！
+"042"	{0002-0002-0000}なんや、こっちか{pause 8}・{pause 8}・{pause 8}・{pause 30}{Wait for input}{0002-0008-0000}え～、{pause 15}	リかセンの　ワシですけど{pause 15}	ちょっと　エエかな？	{emote: Reset}え～っと{pause 8}　キミ　{ruby (charSpan 2): ぜんかい}前回、{pause 15}	{0002-0002-0000}セーブせずに　やめたことになってるけど{pause 8}	{0002-0008-0000}どないしたん？{000f-0001-0006-0000-0000-0028}	リセットしたかった	{ruby (charSpan 2): でんち}電池が{ruby (charSpan 1): き}切れた	{ruby (charSpan 1): み}身に{ruby (charSpan 1): おぼ}覚えがない
+"043"	{0002-0008-0000}おっ、{pause 8}ほんまか？！{pause 30}{Wait for input}{emote: Reset}ほな、ちょっとだけ{pause 8}	{ruby (charSpan 1): ま}待って　くれるかな？！{pause 30}	{0002-0002-0000}{000d-0000-0002-cd00}やり{ruby (charSpan 1): なお}直しや！{0007-0008-0004-001e-0000}
+"044"		{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 200%}くらぁ～～っ！！{Wait <003c 0000> 'time'}{Text size 100%}			{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 150%}またオマエかぁ～～っ！{pause 8}{Text size 100%}	{Wait <001e 0000> 'time'}	{0007-000c-0000}{000d-0000-0002-cd01}{Text size 150%}なんべん　ゆ～たら	わかるんじゃ～～っ！{Text size 100%}{Wait <0032 0000> 'time'}
+"045"	{0002-0006-0000}ぜぇ{pause 8}　ぜぇ・{pause 8}・{pause 8}・{pause 30}	{0002-0002-0000}ワシ　{ruby (charSpan 1): や}病み{ruby (charSpan 1): あ}上がりで{pause 8}	しんどいっちゅーねん！	{0002-0008-0000}しかし　キミは　アレやな、{pause 20}	{ruby (charSpan 1): ひと}人の{ruby (charSpan 1): はなし}話　ぜんぜん{ruby (charSpan 1): き}聞いてないな{Wait for input}	{0002-0002-0000}ええか？{pause 15}　もっかい　{ruby (charSpan 1): い}言うで！	{0002-0008-0000}あのな{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): ほか}他のゲームは　さておき、{pause 8}や{Wait for input}{emote: Reset}この{pause 4}	{Green}{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Green}{Color Reset}では{Wait for input}{0002-0008-0000}なるべく　リセットせずに	{ruby (charSpan 1): あそ}遊んでみませんかと{pause 15}	{emote: Reset}{ruby (charSpan 2): ていあん}提案させてもらってる　ワケなんやわ	{0002-0002-0000}{ruby (charSpan 2): ふだん}普段の{ruby (charSpan 2): せいかつ}生活の{ruby (charSpan 1): なか}中に{pause 8}	リセットなんてないやろ？{Wait for input}キミも、{0002-0002-0000}なんでゲームの{ruby (charSpan 1): なか}中でまで{pause 8}	{ruby (charSpan 1): おこ}怒られなアカンねん！{pause 20}	{emote: Reset}って　{ruby (charSpan 1): おも}思ってるかも{ruby (charSpan 1): し}知れんけど{pause 8}・{pause 8}・{pause 8}・	{0002-0002-0000}リかセンが　{ruby (charSpan 2): せっち}設置されたからには{pause 8}	そのルールに{ruby (charSpan 1): したが}従わなアカンと、{pause 15}	{ruby (charSpan 1): わ}割り{ruby (charSpan 1): き}切ってもらわんとなぁ～
+"046"	ワシもな、{pause 30}リセットの{ruby (charSpan 2): けいほう}警報が{ruby (charSpan 1): な}鳴ったら{pause 15}	{0002-0002-0000}たとえ　メシを{ruby (charSpan 1): く}食っていようが{pause 20}	{emote: Reset}フロに{ruby (charSpan 1): はい}入っていようが{pause 20}　{0002-0002-0000}{ruby (charSpan 1): ね}寝ていようが{pause 8}{emote: Reset}・{pause 8}・{pause 8}・	{0002-0002-0000}{000d-0004-0002-cd02}ぜぇーーー{pause 8}ったいに{000d-0005-0000}　{ruby (charSpan 2): しゅつどう}出動して{pause 20}	{ruby (charSpan 2): ちゅうい}注意せんと　アカンのや！{Wait for input}{emote: Reset}そこからは　{ruby (charSpan 1): み}見えへんやろうけどな、{pause 20}	{0002-0002-0000}くつしたなんか{pause 15}　{000d-0004-0002-cd02}かたっぽ　しか	はいてないんやで、{pause 8}キミぃ！{000d-0005-0000}	{0002-0008-0000}・{pause 8}・{pause 8}・{pause 8}さてと、{Wait for input}	{emote: Reset}ワシも　しゃべり{ruby (charSpan 1): つか}疲れたし{pause 15}	{ruby (charSpan 2): きょう}今日はこれくらいに　しといたろか	{0002-0002-0000}エエか？{pause 15}　リセットは　やめとこ！{pause 20}	わかったな？！
+"047"	{0002-0008-0000}そうそう、{pause 8}{ruby (charSpan 2): さいご}最後にひとつだけ{Wait for input}○○を{ruby (charSpan 2): とくちょう}特徴づけるとか　{ruby (charSpan 2): とくしゅう}特集する{pause 8}	っちゅー{ruby (charSpan 2): いみ}意味で{Wait for input}「○○をフィーチャーする」みたいな{pause 8}	カッコつけた{ruby (charSpan 1): い}言い{ruby (charSpan 1): かた}方があるけど{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Reset}「フィーチャー」のこと{pause 15}	「フューチャー」{pause 8}て　{ruby (charSpan 1): い}言うてしまう　キミ{pause 30}{Wait for input}	{0002-0002-0000}「フューチャー」は{pause 15}　{000d-0004-0002-cd02}{ruby (charSpan 2): みらい}未来{000d-0000-0002-cd00}やろ！{000d-0005-0000}{pause 20}		{emote: Reset}　　　　　　{000d-0009-0000}{Text size 200%}ほな！{Text size 100%}{000d-000a-0000}{Wait <001e 0000> 'time'}
+"048"
+"049"
+"050"
+"051"		{0002-0008-0000}まいど　おおきに～！	{pause 15}	{emote: Reset}え～っと、{pause 20}	{ruby (charSpan 2): ぜんかい}前回　セーブせずに{pause 8}	やめたことに　なってますけど？{000f-0001-0006-0000-0000-0028}	リセットしたかった	{ruby (charSpan 2): でんち}電池が{ruby (charSpan 1): き}切れた	{ruby (charSpan 1): み}身に{ruby (charSpan 1): おぼ}覚えがない
+"052"	{0002-0008-0000}おっ！{pause 8}	やらかしたか！{pause 15}	うんうん！	{emote: Reset}ほな、ちょっとだけ{pause 8}	{ruby (charSpan 1): ま}待って　くれるかな？！{pause 30}	{0002-0002-0000}{000d-0000-0002-cd00}すぐやからな！{0007-0008-0004-001e-0000}
+"053"		{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 200%}くらぁ～～っ！！{Wait <003c 0000> 'time'}{Text size 100%}		{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 150%}またかっ！	またオマエなんかぁ～～っ！{pause 8}{Text size 100%}	{Wait <001e 0000> 'time'}	{0007-000b-0000}{000d-0000-0002-cd01}{Text size 150%}ゆ～ても　ゆ～ても	{0007-000c-0000}わからんヤツやなぁ～～っ！	{Text size 100%}{Wait <003c 0000> 'time'}	{0002-0002-0000}・{pause 8}・{pause 8}・{pause 8}しゃーない！{pause 30}	もっかい　{ruby (charSpan 2): せつめい}説明するから{pause 8}	おとなしく{ruby (charSpan 1): き}聞くんやで、{pause 15}わかったな？！{Wait <003c 0000> 'time'}	え～、{pause 8}	ほかのゲームは　さておき、{pause 8}や	{Wait <003c 0000> 'time'}	この{pause 8}	{Green}{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Green}{Color Reset}では	{Wait <003c 0000> 'time'}	できるだけ　リセットせずに{pause 8}	{ruby (charSpan 1): あそ}遊んでみませんかと{pause 30}	{ruby (charSpan 2): ていあん}提案させてもらってる　ワケなんやわ{Wait <003c 0000> 'time'}	そんなもん！{pause 15}　{ruby (charSpan 1): あそ}遊ぶ{ruby (charSpan 1): ひと}人の	{ruby (charSpan 2): かって}勝手やないか{pause 30}っちゅーのも　わかる！{pause 50}	わかるねんけれども、{pause 8}や{Wait <003c 0000> 'time'}	まあ　そこは{pause 15}　このゲームの	ルールっちゅーことで{pause 8}	{ruby (charSpan 1): わ}割り{ruby (charSpan 1): き}切ってもらえませんか、{pause 8}と{Wait <003c 0000> 'time'}	ここまでは　わかるわなぁ、{pause 50}	えぇ～っと、{pause 8}それで、{pause 8}や	{Wait <003c 0000> 'time'}	{ruby (charSpan 1): つぎ}次に　そうそう、{pause 15}{ruby (charSpan 2): ふだん}普段の{ruby (charSpan 2): せいかつ}生活の{ruby (charSpan 1): なか}中に	リセットなんかないやろ？{pause 20}	・{pause 8}・{pause 8}・{pause 8}と{ruby (charSpan 1): つづ}続くワケやな{Wait <003c 0000> 'time'}	やり{ruby (charSpan 1): なお}直しなんか　きかへんところが{pause 15}	{ruby (charSpan 2): じんせい}人生っちゅーもんで・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{Wait <001e 0000> 'time'}
+"054"	キミ{pause 8}・{pause 8}・{pause 8}・{0002-0005-0000}{pause 8}{ruby (charSpan 1): お}起きてるか？{Wait for input}	{0002-0008-0000}いや、{pause 8}あんまり{ruby (charSpan 1): しず}静かやから{pause 8}	{ruby (charSpan 1): ね}寝てるんちゃうか　おもたわ！	{emote: Reset}ちゃんと　ワシの{ruby (charSpan 1): はなし}話に{pause 8}	{ruby (charSpan 1): みみ}耳を{ruby (charSpan 1): かたむ}傾けてくれてたみたいやな、{pause 30}	{0002-0008-0000}{ruby (charSpan 2): かんしん}感心{pause 8}　{ruby (charSpan 2): かんしん}感心！	{emote: Reset}ま、{pause 8}{ruby (charSpan 2): じゅうぶん}十分に　{ruby (charSpan 2): はんせい}反省してるみたいやし、{pause 30}	{0002-0008-0000}{ruby (charSpan 2): きょう}今日はこの{ruby (charSpan 1): へん}辺にしとこか！{Wait for input}	{0002-0002-0000}エエな、{pause 8}もうこれっきりにしてや！
+"055"	{0002-0002-0000}なんやねんな、キミ{pause 20}	{emote: Reset}その{pause 8}　{ruby (charSpan 1): き}聞いてるような{pause 8}　{ruby (charSpan 1): き}聞いてないような{pause 8}	{0002-0002-0000}{ruby (charSpan 2): ちゅうと}中途ハンパな　{ruby (charSpan 1): かお}顔は！	{emote: Reset}{ruby (charSpan 1): み}見てるこっちが{pause 8}	{0002-0005-0000}やる{ruby (charSpan 1): き}気なくなってしまうがな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}ま、{pause 8}ええわ{pause 30}	{0002-0008-0000}{ruby (charSpan 2): きょう}今日はこの{ruby (charSpan 1): へん}辺にしとこか！{Wait for input}	{0002-0002-0000}けどもう、{pause 8}これっきりにしてや！
+"056"		{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 200%}くらぁ～～っ！！{Wait <003c 0000> 'time'}{Text size 100%}			{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 200%}さっきから{Text size 200%}{Wait <003c 0000> 'time'}{Text size 200%}			{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}ガチャガチャ{Text size 200%}{Wait <0014 0000> 'time'}{Text size 200%}			{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}ガチャガチャ{Text size 200%}{Wait <0028 0000> 'time'}{Text size 200%}			{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}やかましわ～～っ！{Text size 200%}{Wait <003c 0000> 'time'}{Text size 200%}	{Text size 100%}	{0002-0001-0000}{Text size 150%}なにをボタン	おしまくっとんのや！！{Wait for input}{Text size 100%}{0002-0002-0000}{Number (0x8)}{ruby (charSpan 1): かい}回も{pause 8}	{ruby (charSpan 1): お}押してるんやで！{Wait for input}{0002-0008-0000}{000d-0000-0002-cd00}キミは　ボタン{Text size 100%}{ruby (charSpan 2): はやお}速押{Text size 100%}し{ruby (charSpan 2): めいじん}名人か？！{pause 30}	{0002-0002-0000}ええ{ruby (charSpan 2): かげん}加減にせんかい！{Wait for input}{emote: Reset}ま、{pause 8}ええわ{pause 30}	{0002-0008-0000}ワシももう{ruby (charSpan 1): つか}疲れたし{pause 20}	{ruby (charSpan 2): きょう}今日はこの{ruby (charSpan 1): へん}辺にしとこか！{Text size 150%}{Text size 100%}{Wait for input}{0002-0002-0000}けどもう、{pause 8}これっきりにしてや！
+"057"	{0002-0008-0000}そうそう、{pause 8}{ruby (charSpan 2): さいご}最後にひとつだけ{Wait for input}{emote: Reset}「ふくらはぎ」のこと{pause 15}	「ふくろはぎ」{pause 8}て　{ruby (charSpan 1): い}言うてしまう　キミ！{pause 30}{Wait for input}	{0002-0002-0000}{000d-0004-0002-cd02}それ{pause 8}{000d-0000-0002-cd00}　どこの{ruby (charSpan 1): ふくろ}袋やねん！{000d-0005-0000}		{emote: Reset}　　　　　　{000d-0009-0000}{Text size 200%}ほな！{Text size 100%}{000d-000a-0000}{Wait <001e 0000> 'time'}
+"058"
+"059"
+"060"
+"061"	えーっと、{pause 15}	{0002-0008-0000}ワシのこと　{ruby (charSpan 1): よ}呼びましたぁ？{000f-0001-0006-0000-0000-0028}	リセットしたかった	{ruby (charSpan 2): でんち}電池が{ruby (charSpan 1): き}切れた	{ruby (charSpan 1): み}身に{ruby (charSpan 1): おぼ}覚えがない
+"062"	{0002-0008-0000}おっ！{pause 15}	そうかそうか、{pause 8}やりよったか！{pause 30}{Wait for input}{emote: Reset}ほな、ちょっとだけ{pause 8}	{ruby (charSpan 1): ま}待って　くれるかな？！{pause 30}	{0002-0002-0000}{000d-0000-0002-cd00}すぐやからな！{0007-0008-0004-001e-0000}
+"063"		{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 200%}くらぁ～～っ！！{Wait <003c 0000> 'time'}{Text size 100%}		{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 150%}またかっ！	またオマエなんかぁ～～っ！{pause 8}{Text size 100%}	{Wait <001e 0000> 'time'}	{0007-000b-0000}{000d-0000-0002-cd01}{Text size 150%}ゆ～ても　ゆ～ても	{0007-000c-0000}わからんヤツやなぁ～～っ！	{Text size 100%}{Wait <003c 0000> 'time'}	{0002-0002-0000}・{pause 8}・{pause 8}・{pause 8}しゃーない！{pause 30}	もっかい　{ruby (charSpan 2): せつめい}説明するから{pause 8}	おとなしく{ruby (charSpan 1): き}聞くんやで、{pause 15}わかったな？！{Wait <003c 0000> 'time'}	え～、{pause 8}	ほかのゲームは　さておき、{pause 8}や	{Wait <003c 0000> 'time'}	この{pause 8}	{Green}{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Green}{Color Reset}では	{Wait <003c 0000> 'time'}	できるだけ　リセットせずに{pause 8}	{ruby (charSpan 1): あそ}遊んでみませんかと{pause 30}	{ruby (charSpan 2): ていあん}提案させてもらってる　ワケなんやわ{Wait <003c 0000> 'time'}	そんなもん！{pause 15}　{ruby (charSpan 1): あそ}遊ぶ{ruby (charSpan 1): ひと}人の	{ruby (charSpan 2): かって}勝手やないか{pause 30}っちゅーのも　わかる！{pause 50}	わかるねんけれども、{pause 8}や{Wait <003c 0000> 'time'}	まあ　そこは{pause 15}　このゲームの	ルールっちゅーことで{pause 8}	{ruby (charSpan 1): わ}割り{ruby (charSpan 1): き}切ってもらえませんか、{pause 8}と{Wait <003c 0000> 'time'}	ここまでは　わかるわなぁ、{pause 50}	えぇ～っと、{pause 8}それで、{pause 8}や	{Wait <003c 0000> 'time'}	{ruby (charSpan 1): つぎ}次に　そうそう、{pause 15}{ruby (charSpan 2): ふだん}普段の{ruby (charSpan 2): せいかつ}生活の{ruby (charSpan 1): なか}中に	リセットなんかないやろ？{pause 20}	・{pause 8}・{pause 8}・{pause 8}と{ruby (charSpan 1): つづ}続くワケやな{Wait <003c 0000> 'time'}	やり{ruby (charSpan 1): なお}直しなんか　きかへんところが{pause 15}	{ruby (charSpan 2): じんせい}人生っちゅーもんで・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{Wait <001e 0000> 'time'}
+"064"	キミ{pause 8}・{pause 8}・{pause 8}・{0002-0005-0000}{pause 8}{ruby (charSpan 1): お}起きてるか？{Wait for input}	{0002-0008-0000}いや、{pause 8}あんまり{ruby (charSpan 1): しず}静かやから{pause 8}	{ruby (charSpan 1): ね}寝てるんちゃうか　おもたわ！	{emote: Reset}ちゃんと　ワシの{ruby (charSpan 1): はなし}話に{pause 8}	{ruby (charSpan 1): みみ}耳を{ruby (charSpan 1): かたむ}傾けてくれてたみたいやな、{pause 30}	{0002-0008-0000}{ruby (charSpan 2): かんしん}感心{pause 8}　{ruby (charSpan 2): かんしん}感心！	{emote: Reset}ま、{pause 8}{ruby (charSpan 2): じゅうぶん}十分に　{ruby (charSpan 2): はんせい}反省してるみたいやし、{pause 30}	{0002-0008-0000}{ruby (charSpan 2): きょう}今日はこの{ruby (charSpan 1): へん}辺にしとこか！{Wait for input}	{0002-0002-0000}エエな、{pause 8}もうこれっきりにしてや！
+"065"	{0002-0002-0000}なんやねんな、キミ{pause 20}	{emote: Reset}その{pause 8}　{ruby (charSpan 1): き}聞いてるような{pause 8}　{ruby (charSpan 1): き}聞いてないような{pause 8}	{0002-0002-0000}{ruby (charSpan 2): ちゅうと}中途ハンパな　{ruby (charSpan 1): かお}顔は！	{emote: Reset}{ruby (charSpan 1): み}見てるこっちが{pause 8}	{0002-0005-0000}やる{ruby (charSpan 1): き}気なくなってしまうがな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}ま、{pause 8}ええわ{pause 30}	{0002-0008-0000}{ruby (charSpan 2): きょう}今日はこの{ruby (charSpan 1): へん}辺にしとこか！{Wait for input}	{0002-0002-0000}けどもう、{pause 8}これっきりにしてや！
+"066"		{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 200%}くらぁ～～っ！！{Wait <003c 0000> 'time'}{Text size 100%}			{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 200%}さっきから{Text size 200%}{Wait <003c 0000> 'time'}{Text size 200%}			{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}ガチャガチャ{Text size 200%}{Wait <0014 0000> 'time'}{Text size 200%}			{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}ガチャガチャ{Text size 200%}{Wait <0028 0000> 'time'}{Text size 200%}			{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}やかましわ～～っ！{Text size 200%}{Wait <003c 0000> 'time'}{Text size 200%}	{Text size 100%}	{0002-0001-0000}{Text size 150%}なにをボタン	おしまくっとんのや！！{Wait for input}{Text size 100%}{0002-0002-0000}{Number (0x8)}{ruby (charSpan 1): かい}回も{pause 8}	{ruby (charSpan 1): お}押してるんやで！{Wait for input}{0002-0008-0000}{000d-0000-0002-cd00}キミは　ボタン{Text size 100%}{ruby (charSpan 2): はやお}速押{Text size 100%}し{ruby (charSpan 2): めいじん}名人か？！{pause 30}	{0002-0002-0000}ええ{ruby (charSpan 2): かげん}加減にせんかい！{Wait for input}{emote: Reset}ま、{pause 8}ええわ{pause 30}	{0002-0008-0000}ワシももう{ruby (charSpan 1): つか}疲れたし{pause 20}	{ruby (charSpan 2): きょう}今日はこの{ruby (charSpan 1): へん}辺にしとこか！{Text size 150%}{Text size 100%}{Wait for input}{0002-0002-0000}けどもう、{pause 8}これっきりにしてや！
+"067"	{0002-0008-0000}そうそう、{pause 8}{ruby (charSpan 2): さいご}最後にひとつだけ{Wait for input}{emote: Reset}「こむら{ruby (charSpan 1): がえ}返り」のこと{pause 15}	「コブラ{ruby (charSpan 1): がえ}返り」{pause 8}て　{ruby (charSpan 1): い}言うてしまう　キミ{Wait for input}{0002-0008-0000}それは「こむら」がなまって{pause 8}	「こぶら」になったんやで、{pause 30}	{0002-0002-0000}{000d-0004-0002-cd02}へびの「コブラ」は　{ruby (charSpan 2): かんけい}関係ないで！{000d-0005-0000}		{emote: Reset}　　　　　　{000d-0009-0000}{Text size 200%}ほな！{Text size 100%}{000d-000a-0000}{Wait <001e 0000> 'time'}
+"068"
+"069"
+"070"
+"071"	まいど！{pause 30}	ワシですけど{pause 15}	{0002-0008-0000}{ruby (charSpan 2): きょう}今日は　どうしときましょ？{000f-0001-0006-0000-0000-0028}	リセットしたかった	{ruby (charSpan 2): でんち}電池が{ruby (charSpan 1): き}切れた	{ruby (charSpan 1): み}身に{ruby (charSpan 1): おぼ}覚えがない
+"072"	{0002-0008-0000}おっ！{pause 8}	やったか？！{pause 15}	やってもうたんか？！	{emote: Reset}ほな、ちょっとだけ{pause 8}	{ruby (charSpan 1): ま}待って　くれるかな？！{pause 30}	{0002-0002-0000}{000d-0000-0002-cd00}すぐやからな！{0007-0008-0004-001e-0000}
+"073"		{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 200%}くらぁ～～っ！！{Wait <003c 0000> 'time'}{Text size 100%}		{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 150%}またかっ！	またオマエなんかぁ～～っ！{pause 8}{Text size 100%}	{Wait <001e 0000> 'time'}	{0007-000b-0000}{000d-0000-0002-cd01}{Text size 150%}ゆ～ても　ゆ～ても	{0007-000c-0000}わからんヤツやなぁ～～っ！	{Text size 100%}{Wait <003c 0000> 'time'}	{0002-0002-0000}・{pause 8}・{pause 8}・{pause 8}しゃーない！{pause 30}	もっかい　{ruby (charSpan 2): せつめい}説明するから{pause 8}	おとなしく{ruby (charSpan 1): き}聞くんやで、{pause 15}わかったな？！{Wait <003c 0000> 'time'}	え～、{pause 8}	ほかのゲームは　さておき、{pause 8}や	{Wait <003c 0000> 'time'}	この{pause 8}	{Green}{Green}とびだせ どうぶつの{ruby (charSpan 1): もり}森 {ruby (charSpan 7): アミーボプラス}amiibo+{Green}{Color Reset}では	{Wait <003c 0000> 'time'}	できるだけ　リセットせずに{pause 8}	{ruby (charSpan 1): あそ}遊んでみませんかと{pause 30}	{ruby (charSpan 2): ていあん}提案させてもらってる　ワケなんやわ{Wait <003c 0000> 'time'}	そんなもん！{pause 15}　{ruby (charSpan 1): あそ}遊ぶ{ruby (charSpan 1): ひと}人の	{ruby (charSpan 2): かって}勝手やないか{pause 30}っちゅーのも　わかる！{pause 50}	わかるねんけれども、{pause 8}や{Wait <003c 0000> 'time'}	まあ　そこは{pause 15}　このゲームの	ルールっちゅーことで{pause 8}	{ruby (charSpan 1): わ}割り{ruby (charSpan 1): き}切ってもらえませんか、{pause 8}と{Wait <003c 0000> 'time'}	ここまでは　わかるわなぁ、{pause 50}	えぇ～っと、{pause 8}それで、{pause 8}や	{Wait <003c 0000> 'time'}	{ruby (charSpan 1): つぎ}次に　そうそう、{pause 15}{ruby (charSpan 2): ふだん}普段の{ruby (charSpan 2): せいかつ}生活の{ruby (charSpan 1): なか}中に	リセットなんかないやろ？{pause 20}	・{pause 8}・{pause 8}・{pause 8}と{ruby (charSpan 1): つづ}続くワケやな{Wait <003c 0000> 'time'}	やり{ruby (charSpan 1): なお}直しなんか　きかへんところが{pause 15}	{ruby (charSpan 2): じんせい}人生っちゅーもんで・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{Wait <001e 0000> 'time'}
+"074"	キミ{pause 8}・{pause 8}・{pause 8}・{0002-0005-0000}{pause 8}{ruby (charSpan 1): お}起きてるか？{Wait for input}	{0002-0008-0000}いや、{pause 8}あんまり{ruby (charSpan 1): しず}静かやから{pause 8}	{ruby (charSpan 1): ね}寝てるんちゃうか　おもたわ！	{emote: Reset}ちゃんと　ワシの{ruby (charSpan 1): はなし}話に{pause 8}	{ruby (charSpan 1): みみ}耳を{ruby (charSpan 1): かたむ}傾けてくれてたみたいやな、{pause 30}	{0002-0008-0000}{ruby (charSpan 2): かんしん}感心{pause 8}　{ruby (charSpan 2): かんしん}感心！	{emote: Reset}ま、{pause 8}{ruby (charSpan 2): じゅうぶん}十分に　{ruby (charSpan 2): はんせい}反省してるみたいやし、{pause 30}	{0002-0008-0000}{ruby (charSpan 2): きょう}今日はこの{ruby (charSpan 1): へん}辺にしとこか！{Wait for input}	{0002-0002-0000}エエな、{pause 8}もうこれっきりにしてや！
+"075"	{0002-0002-0000}なんやねんな、キミ{pause 20}	{emote: Reset}その{pause 8}　{ruby (charSpan 1): き}聞いてるような{pause 8}　{ruby (charSpan 1): き}聞いてないような{pause 8}	{0002-0002-0000}{ruby (charSpan 2): ちゅうと}中途ハンパな　{ruby (charSpan 1): かお}顔は！	{emote: Reset}{ruby (charSpan 1): み}見てるこっちが{pause 8}	{0002-0005-0000}やる{ruby (charSpan 1): き}気なくなってしまうがな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}ま、{pause 8}ええわ{pause 30}	{0002-0008-0000}{ruby (charSpan 2): きょう}今日はこの{ruby (charSpan 1): へん}辺にしとこか！{Wait for input}	{0002-0002-0000}けどもう、{pause 8}これっきりにしてや！
+"076"		{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 200%}くらぁ～～っ！！{Wait <003c 0000> 'time'}{Text size 100%}			{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}{Text size 200%}さっきから{Text size 200%}{Wait <003c 0000> 'time'}{Text size 200%}			{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}ガチャガチャ{Text size 200%}{Wait <0014 0000> 'time'}{Text size 200%}			{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}ガチャガチャ{Text size 200%}{Wait <0028 0000> 'time'}{Text size 200%}			{0007-000c-0000}{000d-0000-0002-cd01}{0002-0007-0000}やかましわ～～っ！{Text size 200%}{Wait <003c 0000> 'time'}{Text size 200%}	{Text size 100%}	{0002-0001-0000}{Text size 150%}なにをボタン	おしまくっとんのや！！{Wait for input}{Text size 100%}{0002-0002-0000}{Number (0x8)}{ruby (charSpan 1): かい}回も{pause 8}	{ruby (charSpan 1): お}押してるんやで！{Wait for input}{0002-0008-0000}{000d-0000-0002-cd00}キミは　ボタン{ruby (charSpan 2): はやお}速押し{ruby (charSpan 2): めいじん}名人か？！{pause 30}	{0002-0002-0000}ええ{ruby (charSpan 2): かげん}加減にせんかい！{Wait for input}{emote: Reset}ま、{pause 8}ええわ{pause 30}	{0002-0008-0000}ワシももう{ruby (charSpan 1): つか}疲れたし{pause 20}	{ruby (charSpan 2): きょう}今日はこの{ruby (charSpan 1): へん}辺にしとこか！{Text size 150%}{Text size 100%}{Wait for input}{0002-0002-0000}けどもう、{pause 8}これっきりにしてや！
+"077"	{0002-0008-0000}そうそう、{pause 8}{ruby (charSpan 2): さいご}最後にひとつだけ{Wait for input}{emote: Reset}「オランウータン」のこと{pause 15}	「オラウータン」{pause 8}て　{ruby (charSpan 1): い}言うてしまう　キミ{pause 30}{Wait for input}	{0002-0002-0000}そんなウータンは{pause 15}　{000d-0000-0002-cd00}{000d-0004-0002-cd02}オランねん！{000d-0005-0000}		{emote: Reset}　　　　　　{000d-0009-0000}{Text size 200%}ほな！{Text size 100%}{000d-000a-0000}{Wait <001e 0000> 'time'}
+"078"
+"079"
+"080"
+"081"		{0002-0008-0000}あ～、{pause 15}{ruby (charSpan 2): でんち}電池　{ruby (charSpan 1): き}切れたかぁ{pause 8}・{pause 8}・{pause 8}・{pause 8}		{emote: Reset}スンマセンけど、{pause 8}	{ruby (charSpan 1): はや}早め{pause 4}　{ruby (charSpan 1): はや}早めに{pause 4}	{ruby (charSpan 2): じゅうでん}充電して　もらえますか？	{0002-0008-0000}よろしゅう　お{ruby (charSpan 1): ねが}願いします{pause 30}	{0002-0005-0000}ほな、{pause 8}さいなら
+"082"	う～ん、{pause 20}	{ruby (charSpan 1): み}身に{ruby (charSpan 1): おぼ}覚えがないのかぁ{pause 8}・{pause 8}・{pause 8}・{pause 30}{Wait for input}{0002-0008-0000}ちょっと　ワシにも	わかりかねるんですけど、{pause 15}	えらい　スンマセンでした		{emote: Reset}ほな、{pause 8}これにて　{ruby (charSpan 2): しつれい}失礼します！
+"083"
+"084"
+"085"

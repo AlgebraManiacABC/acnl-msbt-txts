@@ -1,13 +1,13 @@
 == 0 ==
-"001"	で、{pause 8}
-"002"	どうだい、{pause 8}
-"003"	オレの{ruby (charSpan 2): へや}部屋、{pause 20}!
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Alarmed}
-"007"	おっ！{pause 20}
-"008"	おお！{pause 15}
-"009"	ほう！{pause 20}
-"010"	{ruby (charSpan 1): き}気になる{ruby (charSpan 2): かぐ}家具が　あったら{pause 8}
-"011"	{ruby (charSpan 1): ほ}欲しい{ruby (charSpan 2): かぐ}家具が　あったら{pause 8}
-"012"	{ruby (charSpan 1): き}気になるモンが　あったら{pause 8}
+"001"	で、{pause 8}どうだい、{pause 8}オレの{ruby (charSpan 2): へや}部屋？{pause 20}	{emote: Soft Smile}なかなか　いい{ruby (charSpan 1): かん}感じだろ？{Wait for input}{ruby (charSpan 1): なに}何か{ruby (charSpan 1): き}気になったモンは{pause 8}	{emote: Curious}あったかい？{pause 20}　{catchphrase}？{000f-0005-0004-0000-0000}	あるよ！	{ruby (charSpan 1): とく}特にないなぁ
+"002"	どうだい、{pause 8}オレん{ruby (charSpan 1): ち}家は？{pause 40}	{emote: Sheepishness}{ruby (charSpan 1): おお}大いに{ruby (charSpan 2): さんこう}参考にしてくれて　いいぜ？！{Wait for input}{emote: Curious}{ruby (charSpan 1): なに}何か{ruby (charSpan 1): こころ}心に　ひびいたモンは{pause 15}	あったかい？　{pause 8}{catchphrase}？{000f-0005-0004-0000-0000}	あります！	ないです・・・
+"003"	オレの{ruby (charSpan 2): へや}部屋、{pause 20}	{emote: Curious}{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ってもらえたかい？	{pause 8}{catchphrase}？{Wait for input}{emote: Sheepishness}もし　なんだったら{pause 8}　アレだぜ？{pause 20}	どーしても{ruby (charSpan 1): ほ}欲しい　{ruby (charSpan 2): かぐ}家具があるなら{pause 20}	{ruby (charSpan 1): ゆず}譲ってやってもいいんだぜ？{000f-0005-0004-0000-0000}	{ruby (charSpan 1): ほ}欲しいのがある！	{ruby (charSpan 1): べつ}別にないよ
+"004"	{emote: Alarmed}えっ、{pause 8}そうなのか？！{pause 20}	{emote: Anger}ホントに　ひとつも　ねぇの？{Wait for input}{emote: Worry}どれもこれも{pause 8}	こだわりのチョイスなんだが、{pause 20}	{emote: Agreement}そうか、{pause 8}{ruby (charSpan 1): とく}特にねぇか	{emote: Sheepishness}ま、{pause 8}それならそれで{pause 8}	{ruby (charSpan 1): べつ}別に{ruby (charSpan 1): かま}構わねぇんだけどな、{pause 20}	{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}
+"005"	{emote: Alarmed}ん？！{pause 20}	{ruby (charSpan 1): なに}何も　ひびかねぇか？！{Wait for input}{emote: Anger}{ruby (charSpan 2): ちょうし}調子　{ruby (charSpan 1): くる}狂っちまうなぁ{pause 8}・{pause 8}・{pause 8}・{pause 8}	オメェ、{pause 15}ホントに　ちゃんと{ruby (charSpan 1): み}見たぁ？{Wait for input}{emote: Soft Smile}ま、{pause 8}いいか！{pause 20}	{emote: Laughter}がーっはっは！{pause 30}{emote: Happiness}
+"006"	{emote: Alarmed}ありゃ？{pause 20}	ホントに　ねぇの？{pause 20}	{emote: Sheepishness}エンリョしなくて　いいんだぜ？！
+"007"	おっ！{pause 20}	やっぱり　{ruby (charSpan 1): き}気になるか？！{Wait for input}で、{pause 15}どれが　{ruby (charSpan 1): き}気になるんだい？{pause 20}	ほら、{ruby (charSpan 1): い}言ってみな！
+"008"	おお！{pause 15}	やっぱり　あったか？！{Wait for input}で、{pause 15}どれが{ruby (charSpan 1): こころ}心に　ひびいたんだい？{pause 20}	{ruby (charSpan 1): い}言ってみてくれ！
+"009"	ほう！{pause 20}	やっぱり　あるか？！{Wait for input}で、{pause 15}どれが{ruby (charSpan 1): ほ}欲しいんだい？{pause 20}	ほら、{ruby (charSpan 1): おし}教えてくれ！
+"010"	{ruby (charSpan 1): き}気になる{ruby (charSpan 2): かぐ}家具が　あったら{pause 8}	{ruby (charSpan 1): い}言ってみてくれ！{Wait for input}ただし、{pause 8}どれでもオッケー{pause 20}	ってワケにはいかねぇから{pause 20}	そこんトコ{pause 8}　よろしくな！
+"011"	{ruby (charSpan 1): ほ}欲しい{ruby (charSpan 2): かぐ}家具が　あったら{pause 8}	{ruby (charSpan 1): い}言ってみてくれ！{Wait for input}ただし、{pause 8}{ruby (charSpan 1): ゆず}譲れねぇモンもあるから、{pause 20}	その{ruby (charSpan 2): ばあい}場合は　カンベンな！
+"012"	{ruby (charSpan 1): き}気になるモンが　あったら{pause 8}	{ruby (charSpan 1): い}言ってみてくれ！{Wait for input}ただし、{pause 8}どれでもオッケー	ってワケにはいかねぇから{pause 20}	そんときは　カンベンな！

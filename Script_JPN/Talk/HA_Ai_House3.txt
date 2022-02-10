@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Disbelief}
-"002"	{emote: Bashful}
-"003"	{emote: Greetings}
-"004"	おー！{pause 8}
-"005"	{emote: Happiness}
-"006"	{emote: Alarmed}
+"001"	{emote: Disbelief}ナニッ？！{pause 20}	またまた　オマエかー、{pause 8}{catchphrase}
+"002"	{emote: Bashful}へへっ！{pause 20}	オイラの{ruby (charSpan 2): へや}部屋って	そんなに　ミリョクテキかー？　{pause 8}{catchphrase}？
+"003"	{emote: Greetings}おー！{pause 8}　{Player nickname (green)}！{pause 20}	{ruby (charSpan 1): す}好きなだけ　{ruby (charSpan 1): あそ}遊んでいけ、{pause 8}{catchphrase}！
+"004"	おー！{pause 8}　{Player nickname (green)}！{pause 20}	{emote: Laughter}オマエ　{ruby (charSpan 2): きょう}今日は	とまっていくつもりか？　{pause 8}{catchphrase}？{pause 40}{emote: Happiness}
+"005"	{emote: Happiness}{Greeting begin}よぉ！{Greeting end}{pause 20}	また　{ruby (charSpan 1): あ}会ったな、{pause 8}{catchphrase}！
+"006"	{emote: Alarmed}{0007-000a-0000}おー！{pause 8}　{Player nickname (green)}！{pause 20}	ぐいぐいくるなー！　{pause 8}{catchphrase}！

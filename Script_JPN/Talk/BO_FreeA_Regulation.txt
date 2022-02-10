@@ -1,16 +1,16 @@
 == 0 ==
-"001"	キミって{pause 20}
-"002"	{emote: Glee}
-"003"	{emote: Happiness}
-"004"	キミが　{ruby (charSpan 1): つく}作った	{ruby (charSpan 1): はや}早くおきる　きまり、{pause 20}
-"005"	ボク　この{ruby (charSpan 1): むら}村の	{ruby (charSpan 1): はや}早くおきる　じょうれい{pause 20}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Worry}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
-"013"	なんだか　{ruby (charSpan 1): まえ}前にくらべて	{ruby (charSpan 1): むら}村がキレイな{ruby (charSpan 1): き}気がするよぉ{0000-0004-0000}
-"014"	ボク{pause 20}
-"015"	{emote: Happiness}
+"001"	キミって{pause 20}　じょうれいを	{ruby (charSpan 1): つく}作らないんだねぇ～{Wait for input}{emote: Distress}あ、{pause 20}でも{pause 20}	ムリに　{ruby (charSpan 1): つく}作ってほしいって	ことじゃ　ないんだよぉ！{Wait for input}{emote: Worry}おやつは　300ベルまで！{pause 40}	みたいな　きまりごとは{pause 8}	やめてねぇ、{pause 8}{catchphrase}
+"002"	{emote: Glee}この{ruby (charSpan 1): むら}村って{pause 20}	じょうれいがなくって	ラクチンだなぁ～{Wait for input}{emote: Happiness}でも　みんなで	きまりごとを　まもるのも{pause 20}	{ruby (charSpan 1): たの}楽しいかもよぉ、{pause 8}{catchphrase}
+"003"	{emote: Happiness}この　{Town name (pink)}{ruby (charSpan 1): むら}村にはね、{pause 20}	{ruby (charSpan 2): そんちょう}村長さんの{ruby (charSpan 1): つく}作った	きまりごとが　ないんだよぉ～{Wait for input}{emote: Laughter}えへへ～{pause 20}	{ruby (charSpan 2): そんちょう}村長さんも　のんびり	くらしたいんじゃないかなぁ、{pause 8}{catchphrase}
+"004"	キミが　{ruby (charSpan 1): つく}作った	{ruby (charSpan 1): はや}早くおきる　きまり、{pause 20}	{emote: Greetings}ボク　さんせい！{Wait for input}{emote: Glee}{ruby (charSpan 1): はや}早く　おきた{ruby (charSpan 1): ぶん}分{pause 20}	{ruby (charSpan 1): なが}長く　おひるね　できるから	うれしいんだぁ～{Wait for input}{emote: Happiness}おまけに　{ruby (charSpan 1): よる}夜も{pause 20}	た～っぷり	ねむっちゃうよぉ、{pause 8}{catchphrase}
+"005"	ボク　この{ruby (charSpan 1): むら}村の	{ruby (charSpan 1): はや}早くおきる　じょうれい{pause 20}	キライじゃないよぉ、{pause 8}{catchphrase}{Wait for input}{emote: Glee}その{ruby (charSpan 1): ぶん}分　{ruby (charSpan 1): なが}長く	おひるねが　できるもんねぇ～{Wait for input}おまけに　{ruby (charSpan 1): よる}夜も{pause 20}	た～っぷり	ねるんだぁ、{pause 8}{catchphrase}
+"006"	{emote: Happiness}この{ruby (charSpan 1): むら}村のきまりは、{pause 20}	{ruby (charSpan 1): はや}早くおきること　なんだぁ～{Wait for input}{emote: Glee}キミが　{ruby (charSpan 1): あさ}朝からあそびに{ruby (charSpan 1): き}来ても、{pause 20}	ボクらが　おでむかえ	できると{ruby (charSpan 1): おも}思うよぉ、{pause 8}{catchphrase}
+"007"	{emote: Happiness}キミが　きまりを{ruby (charSpan 1): つく}作ってから{pause 20}	ねる{ruby (charSpan 2): じかん}時間が　ちょっと	おそくなったんだぁ～{Wait for input}{emote: Love}ながれ{ruby (charSpan 1): ぼし}星を	{ruby (charSpan 1): み}見つけるチャンスが	ふえちゃったぁ、{pause 8}{catchphrase}
+"008"	{emote: Happiness}{ruby (charSpan 1): むら}村に　きまりができてから{pause 20}	お{ruby (charSpan 1): みせ}店もおそくまでやってるし、{pause 40}	みんなも　おそくまでおきてるし、{Wait for input}{ruby (charSpan 1): よる}夜の　{Town name (pink)}{ruby (charSpan 1): むら}村が	にぎやかになったねぇ{Wait for input}{emote: Bashful}なんだか　ちょっぴり	オトナな{ruby (charSpan 2): きぶん}気分、{pause 8}{catchphrase}
+"009"	{emote: Happiness}{ruby (charSpan 1): よる}夜にとつぜん	お{ruby (charSpan 1): か}買いものがしたくなったら、{pause 20}	ボクの{ruby (charSpan 1): むら}村は　オススメだよぉ～{Wait for input}{emote: Agreement}{ruby (charSpan 1): よる}夜おそくまで	お{ruby (charSpan 1): みせ}店が　あいてるからねぇ！{Wait for input}{emote: Reset}{ruby (charSpan 2): そんちょう}村長さんが　{ruby (charSpan 1): つく}作った	きまりなんだぁ、{pause 8}{catchphrase}
+"010"	{emote: Worry}じょうれいが　できてから、{pause 20}	ついつい　お{ruby (charSpan 1): かね}金を	つかいすぎちゃうんだぁ～{Wait for input}{emote: Happiness}でも　{ruby (charSpan 1): アール}R・パーカーズが{pause 20}	ボクのお{ruby (charSpan 1): ふる}古を　{ruby (charSpan 1): たか}高～く	{ruby (charSpan 1): か}買いとってくれるから{pause 20}　だいじょうぶ！{Wait for input}{emote: Thought}いっぱい　つかっちゃうけど、{pause 20}	いっぱい　{ruby (charSpan 1): て}手に{ruby (charSpan 1): はい}入る{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}なんだか　お{ruby (charSpan 1): かね}金が{pause 20}	ボクのまわりを	ぐるぐる　{ruby (charSpan 1): まわ}回ってる～、{pause 8}{catchphrase}
+"011"	{emote: Happiness}{Orange}まめきち{Color Reset}くんや　{Orange}つぶきち{Color Reset}くんが{pause 20}	もうかってるって、	{ruby (charSpan 1): い}言ってたよぉ{Wait for input}{emote: Curious}{ruby (charSpan 2): そんちょう}村長さんのつくった	じょうれいの　おかげかなぁ？{Wait for input}{emote: Glee}ボクも　{ruby (charSpan 1): アール}R・パーカーズで	ものが　{ruby (charSpan 1): たか}高く{ruby (charSpan 1): う}売れるし{pause 20}	たすかってるんだぁ、{pause 8}{catchphrase}
+"012"	{emote: Happiness}ボクの{ruby (charSpan 1): むら}村の　{ruby (charSpan 1): アール}R・パーカーズ、{pause 20}	{ruby (charSpan 1): いま}今なら　{ruby (charSpan 1): たか}高いねだんで	ものを{ruby (charSpan 1): か}買ってもらえるよぉ～{Wait for input}{emote: Worry}でも　お{ruby (charSpan 1): みせ}店で　{ruby (charSpan 1): か}買えるねだんは{pause 20}	ちょっぴり　{ruby (charSpan 1): たか}高め！{Wait for input}{emote: Thought}ガマンができれば	お{ruby (charSpan 1): かね}金がたまりそうだけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Laughter}やっぱり　ボクは	ついつい　{ruby (charSpan 1): か}買いもの	しちゃうんだぁ、{pause 8}{catchphrase}
+"013"	なんだか　{ruby (charSpan 1): まえ}前にくらべて	{ruby (charSpan 1): むら}村がキレイな{ruby (charSpan 1): き}気がするよぉ{Wait for input}{emote: Glee}ゴミや{ruby (charSpan 1): くさ}草が{ruby (charSpan 1): すく}少ないし、{pause 20}	とっても　{ruby (charSpan 2): くうき}空気が　おいしいもんねぇ{Wait for input}{emote: Happiness}えへへ～{pause 20}	キミのつくった	じょうれいの　おかげかなぁ、{pause 8}{catchphrase}
+"014"	ボク{pause 20}{emote: Curious}　つりのウデが	{ruby (charSpan 1): あ}上がったのかなぁ～？{pause 60}	ぜんぜん　ゴミを　つらなくなったんだぁ～{Wait for input}{emote: Shocked}{0007-000b-0000}えぇ？！{pause 40}	それは　{ruby (charSpan 1): むら}村をキレイにする	じょうれいの　おかげなの？！{Wait for input}{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Happiness}まぁ{pause 20}	いつもより　おサカナが　つれるんだから{pause 20}	{ruby (charSpan 2): そんちょう}村長さんに　カンシャだよぉ、{pause 8}{catchphrase}
+"015"	{emote: Happiness}この{ruby (charSpan 1): むら}村にはね、{pause 20}	{ruby (charSpan 1): むら}村をキレイにする	きまりがあるんだよぉ？{Wait for input}{emote: Bashful}ボクも　そのきまりができてから{pause 20}	おへやのそうじを	がんばってるんだぁ、{pause 8}{catchphrase}

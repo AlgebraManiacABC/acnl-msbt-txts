@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{pause 8}
-"002"	{emote: Alarmed}
-"003"	{emote: Surprise}
+"001"	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Sheepishness}へへっ！{pause 20}	{ruby (charSpan 1): み}見つかっちまった　{pause 8}みてぇだな！{Wait for input}{emote: Soft Smile}オメェ、{pause 20}{ruby (charSpan 2): いがい}意外と　やるじゃねぇか{Wait for input}	{emote: Agreement}{ruby (charSpan 2): みなお}見直したぜ、{pause 20}{catchphrase}！
+"002"	{emote: Alarmed}ありゃ？！{pause 30}	なんで　{pause 8}{ruby (charSpan 1): み}見つかっちまったんだ？{Wait for input}{emote: Sheepishness}こんなすぐに　{pause 8}{ruby (charSpan 1): み}見つかるなんて、{pause 20}	オレも　ヤキが{ruby (charSpan 1): まわ}回ったもんだぜ！
+"003"	{emote: Surprise}うへぇー！{pause 20}	もう　{ruby (charSpan 1): み}見つかっちまったか！{Wait for input}{emote: Anger}うむむ{pause 8}・{pause 8}・{pause 8}・{pause 20}	なんだか　{pause 8}{ruby (charSpan 2): じみ}地味に　くやしいぜ！

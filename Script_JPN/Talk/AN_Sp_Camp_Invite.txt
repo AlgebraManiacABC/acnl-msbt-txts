@@ -1,29 +1,29 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Surprise}
-"003"	{emote: Surprise}
-"004"	{emote: Thought}
-"005"	{emote: Bashful}
-"006"	{emote: Soft Smile}
-"007"	{emote: Thought}
-"008"	{emote: Thought}
-"009"	{emote: Thought}
-"010"	{emote: Alarmed}
-"011"	{emote: Worry}
-"012"	{emote: Alarmed}
-"013"	{emote: Soft Smile}
-"014"	{emote: Soft Smile}
-"015"	{emote: Soft Smile}
-"016"	{emote: Soft Smile}
-"017"	{emote: Soft Smile}
-"018"	{emote: Soft Smile}
-"019"	{emote: Soft Smile}
-"020"	{emote: Soft Smile}
-"021"	{emote: Soft Smile}
-"022"	{emote: Reset}
-"023"	{emote: Reset}
-"024"	{emote: Soft Smile}
-"025"	{0009-0001-0006-0d-00-0e-00-0f-00}
-"026"	{0009-0001-0006-10-00-11-00-12-00}
-"027"	{0009-0001-0006-16-00-17-00-18-00}
-"028"	{0009-0000-0004-0d-00-0e-00}
+"001"	{emote: Surprise}そーだろ？{pause 20}	やっぱり　そう{ruby (charSpan 1): おも}思うよね！		{emote: Soft Smile}よーし、{ruby (charSpan 1): き}決めた！{pause 20}	ウチ　ここに{ruby (charSpan 1): こ}越して{ruby (charSpan 1): く}来るよ！{pause 20}	{catchphrase}！
+"002"	{emote: Surprise}やっぱり！{pause 40}	{emote: Reset}{ruby (charSpan 2): じゅうにん}住人である　アンタの　おすみつきも	もらったことだし{pause 8}・{pause 8}・{pause 8}・{pause 20}もう　{ruby (charSpan 1): き}決めちゃう！	{emote: Soft Smile}ウチ、この{ruby (charSpan 1): むら}村に　{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): く}来るよ！{pause 20}	{catchphrase}！
+"003"	{emote: Surprise}えっ、ホント？{pause 20}	アンタに　そう　{ruby (charSpan 1): い}言ってもらえると	{ruby (charSpan 2): こころづよ}心強いかも{pause 8}・{pause 8}・{pause 8}・	{emote: Soft Smile}そんじゃあ　{ruby (charSpan 1): き}決めた！{pause 20}	この{ruby (charSpan 1): むら}村に　{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): く}来る！{pause 20}	{emote: Reset}{ruby (charSpan 2): ほんき}本気の　{ruby (charSpan 2): ほんき}本気だよ！　{pause 20}{catchphrase}！
+"004"	{emote: Thought}う～ん　そう{ruby (charSpan 2): かんたん}簡単に	いけたら　{ruby (charSpan 2): さいこう}最高だけどね{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Reset}ま、{pause 8}{ruby (charSpan 2): いろいろ}色々　あるんだ！	{emote: Soft Smile}{ruby (charSpan 2): しょうらい}将来の　{ruby (charSpan 2): よてい}予定ってことで	{ruby (charSpan 2): けんとう}検討しとくよ！　{pause 20}{catchphrase}！
+"005"	{emote: Bashful}へへ{pause 8}・{pause 8}・{pause 8}・{pause 20}	そこまで{ruby (charSpan 1): い}言われると　{ruby (charSpan 1): て}照れくさいな{pause 8}・{pause 8}・{pause 8}・{pause 20}		{emote: Soft Smile}でも、まだ　{ruby (charSpan 1): いま}今の{ruby (charSpan 1): むら}村で	やること　いっぱいありそうだしね！	{ruby (charSpan 2): ひっこ}引越しは　やめとくよ！{pause 20}　{catchphrase}！
+"006"	{emote: Soft Smile}へへ{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 2): じょうだん}冗談　{ruby (charSpan 2): じょうだん}冗談！{Wait for input}	{emote: Reset}まだ　{ruby (charSpan 1): いま}今の{ruby (charSpan 1): むら}村のダチと	{ruby (charSpan 1): き}切れるつもりは　ないんだ！{pause 20}　{catchphrase}！
+"007"	{emote: Thought}ふんふん{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Inspired}じゃあ　ゲームしようか？		{emote: Soft Smile}アンタが　{ruby (charSpan 1): か}勝ったら、	ウチは　この{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): こ}越して{ruby (charSpan 1): く}来るよ！{pause 40}	{emote: Reset}{ruby (charSpan 2): はんたい}反対に　ウチが{ruby (charSpan 1): か}勝ったら{pause 8}・{pause 8}・{pause 8}・	{emote: Sheepishness}アンタの{ruby (charSpan 1): も}持ってる　その	{0011-0003-0002-0000}を	{ruby (charSpan 2): みやげ}土産に　もらうってことで！	{emote: Curious}どーだい？{pause 20}　ゲームする？{Player can respond (0005):0019-0015-000a-0028}	よしきた！	それはちょっと・・・
+"008"	{emote: Thought}ウチより　{ruby (charSpan 1): つよ}強いヤツが　いるなら、	{ruby (charSpan 1): いま}今すぐにでも　{ruby (charSpan 1): き}来ちゃうけど{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Inspired}そうだ！{pause 20}　ゲームしよっか！	{emote: Soft Smile}アンタが{ruby (charSpan 1): か}勝ったら　ウチ、	ここに　{ruby (charSpan 1): こ}越して{ruby (charSpan 1): く}来るよ！{pause 40}	{emote: Reset}でも　{ruby (charSpan 1): ぎゃく}逆に　ウチが{ruby (charSpan 1): か}勝ったときは{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Sheepishness}アンタの{ruby (charSpan 1): も}持ってる　その	{0011-0003-0002-0000}を	お{ruby (charSpan 2): みやげ}土産として　もらうってことで！	{emote: Curious}どーだい？{pause 20}　ゲームする？{Player can respond (0005):0019-0015-000b-0028}	{ruby (charSpan 1): う}受けて{ruby (charSpan 1): た}立つよ！	そんなのイヤだよ
+"009"	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 40}{emote: Inspired}そうだ！{pause 20}	ここは　{ruby (charSpan 1): うん}運にまかせるってことで、	ゲームしよう！	{emote: Soft Smile}アンタが{ruby (charSpan 1): か}勝ったら　ウチは	この{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): こ}越して{ruby (charSpan 1): く}来るよ！{pause 40}	{emote: Reset}ただし　{ruby (charSpan 1): ま}負けた{ruby (charSpan 2): ばあい}場合は{pause 8}・{pause 8}・{pause 8}・	お{ruby (charSpan 2): みやげ}土産に　アンタの{ruby (charSpan 1): も}持ってる	その　{0011-0003-0002-0000}を	もらって　{ruby (charSpan 1): かえ}帰るってことで！	{emote: Curious}どーだい？{pause 20}　やってみる？{Player can respond (0005):0019-0015-000c-0028}	オッケー！	やめておきます
+"010"	{emote: Alarmed}あれ、そう？{pause 40}	{emote: Soft Smile}まぁ{pause 8}・{pause 8}・{pause 8}・{pause 20}その{ruby (charSpan 1): き}気になったら　{ruby (charSpan 2): じぶん}自分から	この{ruby (charSpan 1): むら}村に{ruby (charSpan 1): く}来るし！　{ruby (charSpan 1): ま}待ってて！{pause 20}　{catchphrase}！
+"011"	{emote: Worry}えー、そうなの？{pause 40}	{emote: Resigned}{ruby (charSpan 1): も}盛り{ruby (charSpan 1): あ}上がると　{ruby (charSpan 1): おも}思ったけどな{pause 8}・{pause 8}・{pause 8}・{pause 20}{catchphrase}
+"012"	{emote: Alarmed}えっ、そうなの？{pause 40}	{emote: Worry}{pause 8}・{pause 8}・{pause 8}・{pause 20}まぁ　アンタが	そう{ruby (charSpan 1): い}言うなら　しょうがないね、{pause 20}{catchphrase}
+"013"	{emote: Soft Smile}よし！{pause 20}	そんじゃ、{Blue}ジャンケン{Color Reset}で	{ruby (charSpan 2): しょうぶ}勝負だよ！{0007-0012-0006-0300-001b-001a}
+"014"	{emote: Soft Smile}よ～し！{pause 20}	そんじゃ、{Blue}ジェスチャーゲーム{Color Reset}で	{ruby (charSpan 2): しょうぶ}勝負だよ！{0007-0012-0006-0101-001b-001a}
+"015"	{emote: Soft Smile}おっ！{pause 20}　わかってるね！{pause 40}	そんじゃ、{Blue}あっちむいてホイ！{Color Reset}で	{ruby (charSpan 2): しょうぶ}勝負だよ！{0007-0012-0006-0102-001b-001a}
+"016"	{emote: Soft Smile}あ～{ruby (charSpan 1): たの}楽しかった！{pause 40}	{emote: Reset}じゃ{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 1): わる}悪いけど、{ruby (charSpan 2): やくそく}約束{ruby (charSpan 1): どお}通り	{0011-0003-0002-0000}を　もらうよ！
+"017"	{emote: Soft Smile}ふぅ～、{ruby (charSpan 1): ひさ}久しぶりに　キンチョーした！{pause 40}	{emote: Reset}そんじゃ{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 2): やくそく}約束{ruby (charSpan 1): どお}通り	{0011-0003-0002-0000}　ちょうだいな！
+"018"	{emote: Soft Smile}まぁ　いい{ruby (charSpan 2): しょうぶ}勝負だったんじゃん？{pause 40}	{emote: Reset}ってことで{pause 8}・{pause 8}・{pause 8}・{pause 20}{ruby (charSpan 2): やくそく}約束{ruby (charSpan 1): どお}通り	{0011-0003-0002-0000}を　くださいな！
+"019"	{emote: Soft Smile}サンキュー！{pause 20}	このことは　{ruby (charSpan 2): じぶん}自分の{ruby (charSpan 1): むら}村に　{ruby (charSpan 1): かえ}帰って	{ruby (charSpan 2): じまん}自慢するよ！{pause 20}　{catchphrase}！
+"020"	{emote: Soft Smile}ありがとさん！{pause 20}	いい　{ruby (charSpan 2): みやげ}土産{ruby (charSpan 1): ばなし}話ができたよ！{pause 20}	{catchphrase}！
+"021"	{emote: Soft Smile}おかげさまで　キョーレツな	{Town name (pink)}{ruby (charSpan 1): むら}村の　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): で}出ができたよ！{pause 20}	サンキュー！{pause 20}　{catchphrase}！
+"022"	{emote: Reset}そんじゃ　{ruby (charSpan 2): やくそく}約束{ruby (charSpan 1): どお}通り	この{ruby (charSpan 1): むら}村に　{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): き}来ちゃうからね！		{emote: Soft Smile}キャンプから　{ruby (charSpan 1): かえ}帰ったら	{ruby (charSpan 1): いそ}急いで　{ruby (charSpan 2): にづく}荷造り{ruby (charSpan 1): はじ}始めるし！{pause 20}	{ruby (charSpan 2): きたい}期待して　{ruby (charSpan 1): ま}待ってて！{pause 20}　{catchphrase}！
+"023"	{emote: Reset}そいじゃ　{ruby (charSpan 2): やくそく}約束{ruby (charSpan 1): どお}通り{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}{ruby (charSpan 2): きあ}気合い{ruby (charSpan 1): い}入れて　この{ruby (charSpan 1): むら}村に	{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): く}来るよ！	{emote: Agreement}そうと{ruby (charSpan 1): き}決まれば　このキャンプ{ruby (charSpan 1): ちゅう}中に	いろいろ　{ruby (charSpan 2): じょうほう}情報	{ruby (charSpan 1): あつ}集めておかなくちゃな！　{pause 20}{catchphrase}！
+"024"	{emote: Soft Smile}じゃあ、{ruby (charSpan 1): き}決まり！{pause 40}	ホントに　この{ruby (charSpan 1): むら}村に	{ruby (charSpan 2): ひっこ}引越して{ruby (charSpan 1): き}来ちゃうからね！	{emote: Glee}フンフン{pause 8}・{pause 8}・{pause 8}・{pause 20}	だんだん　{ruby (charSpan 1): も}盛り{ruby (charSpan 1): あ}上がってきたぞー！{pause 20}	{catchphrase}！{emote: Soft Smile}{pause 20}
+"025"	{0009-0001-0006-000d-000e-000f}
+"026"	{0009-0001-0006-0010-0011-0012}
+"027"	{0009-0001-0006-0016-0017-0018}
+"028"	{0009-0000-0004-000d-000e}

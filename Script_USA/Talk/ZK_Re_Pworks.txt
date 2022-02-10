@@ -1,18 +1,18 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Thought}
-"005"	{emote: Alarmed}
+"001"	{emote: Greetings}Hey,{pause 10} {Player nickname (green)}!{pause 20} {emote: Happiness}It looks like you're	doing a great job as the mayor!{Wait for input}{emote: Reset}I know you can't talk about your job	with me,{pause 16} but still, I'm here if you	ever feel the need to vent.{pause 32}	{emote: Soft Smile}Come by whenever you're free!
+"002"	{emote: Alarmed}Hey,{pause 8} {Player nickname (green)}!{pause 32} {emote: Soft Smile}It looks like you're	working right now, huh?{Wait for input}{emote: Reset}I don't wanna get in your way,{pause 16} so I'll	just supervise.{pause 32} {emote: Worry}Will that still bother	you?
+"003"	{emote: Alarmed}What's up,{pause 20} {Player nickname (green)}?{Wait for input}{emote: Reset}Are you thinking about building	{emote: Curious}something here as part of a	public works project?{Player can respond (0005):0004-0000-0005-0028}	How's this spot?	I'll find another place.
+"004"	{emote: Thought}{pause 16}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 15} Yeeeaaa{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sheepishness}I don't know much about land,{pause 20} so	why don't you ask your secretary,	{Orange}Isabelle{Color Reset}?{pause 20} That might be better!
+"005"	{emote: Alarmed}Oh,{pause 10} is that right?{Wait for input}{emote: Anger}If you want,{pause 8} I'd be happy to get out	of your way.{Wait for input}{emote: Soft Smile}So{pause 8} please don't hesitate to tell	me to move it,{pause 8} {Player nickname (green)}!
 == 1 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Thought}
-"005"	{emote: Alarmed}
+"001"	{emote: Greetings}¡Hombre,{pause 10} {Player nickname (green)}!{pause 20} {emote: Happiness}Por lo que	parece, el trabajo de alcald{e/esa}	no se te da nada mal.{Wait for input}{emote: Reset}Me imagino que en el ayuntamiento	tendréis confidencialidad y todas	esas cosas.{pause 32}	{emote: Soft Smile}Pero recuerda que puedes hablar 	conmigo siempre que necesites	desahogarte.
+"002"	{emote: Alarmed}Huy,{pause 8} {Player nickname (green)},{pause 8} {emote: Soft Smile}no me había dado	cuenta de que estabas trabajando.{Wait for input}{emote: Reset}No te quiero molestar,{pause 16} así que me	quito de en medio y te observo	desde ahí al lado,{pause 8} {emote: Worry}¿de acuerdo?
+"003"	{emote: Alarmed}¡Anda,{pause 20} {Player nickname (green)}!{Wait for input}{emote: Reset}{emote: Curious}¿No me digas que estás pensando	en iniciar ahí un proyecto municipal?{Player can respond (0005):0004-0000-0005-0028}	Sí, ¿qué tal aquí?	Mejor busco otro sitio
+"004"	{emote: Thought}{pause 16}Mmm{pause 8}.{pause 8}.{pause 8}.{pause 15} Esto{pause 8}.{pause 8}.{pause 8}.{pause 10} {emote: Sheepishness}Aunque parezca que	sé de todo,{pause 10} los cimientos y esas	cosas no son mi fuerte.	¿Por qué no le preguntas a {Orange}Canela{Color Reset},{pause 20}	que por algo es tu secretaria?
+"005"	{emote: Alarmed}Ah,{pause 10} ¿estás segur{o/a}?{Wait for input}{emote: Anger}No me haría mucha gracia,{pause 8} pero si	hace falta me quito de en medio.{Wait for input}{emote: Soft Smile}Avísame si cambias de opinión,{pause 8}	{Player nickname (green)}.
 == 2 ==
-"001"	{emote: Greetings}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Thought}
-"005"	{emote: Alarmed}
+"001"	{emote: Greetings}Hé,{pause 10} {Player nickname (green)}!{pause 20} {emote: Happiness}On dirait que tu te	débrouilles comme {un/une} chef en tant	que maire!	{emote: Reset}Je sais, certains aspects de ton job	sont confidentiels, mais si tu veux	me faire part de tes difficultés...	{emote: Soft Smile}Ben, passe me voir et je te	changerai les idées!
+"002"	{emote: Alarmed}Hé,{pause 8} {Player nickname (green)}!{pause 32} {emote: Soft Smile}T'es en plein	travail là, pas vrai?{Wait for input}{emote: Reset}T'inquiète, je vais pas t'embêter.{pause 16} Je	vais juste t'observer à distance.{pause 32} {emote: Worry}Ça	te dérange pas, ça, au moins?
+"003"	{emote: Alarmed}Quoi de neuf,{pause 20} {Player nickname (green)}?{Wait for input}{emote: Reset}Tu envisages de réaliser un projet	de travaux publics dans le coin?{Player can respond (0005):0004-0000-0005-0028}	C'est bien, ici?	Je vais voir ailleurs.
+"004"	{emote: Thought}{pause 16}Hmmm{pause 8}.{pause 8}.{pause 8}.{pause 15} Beeeeen{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Sheepishness}Tu sais, les terrains constructibles,	tout ça, c'est pas trop mon truc.{Wait for input}Demande plutôt à {Orange}Marie{Color Reset},{pause 20} elle en	connaît sûrement un rayon!
+"005"	{emote: Alarmed}Oh,{pause 10} vraiment?{Wait for input}{emote: Glare}Bon, si tu penses que je traîne dans	tes pattes,{pause 8} hésite pas à me le dire,	hein.	{emote: Soft Smile}C'est juste que j'aime voir un maire	en action,{pause 8} {Player nickname (green)}!

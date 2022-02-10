@@ -1,17 +1,17 @@
 == 0 ==
-"001"	{0009-0001-0006-03-00-04-00-05-00}
-"002"	{0009-0001-0006-08-00-09-00-00-00}	
-"003"	{emote: Happiness}
-"004"	{emote: Glee}
-"005"	{emote: Happiness}
-"006"	{emote: Sunny}
-"007"	{emote: Resigned}
-"008"	{emote: Distress}
-"009"	{emote: Happiness}
-"010"	{000a-0001-0004-0b-00-0e-00}
-"011"	{emote: Surprise}
-"012"	{emote: Joy}
-"013"	{emote: Distress}
-"014"	{emote: Surprise}
-"015"	{emote: Joy}
-"016"	{emote: Worry}
+"001"	{0009-0001-0006-0003-0004-0005}
+"002"	{0009-0001-0006-0008-0009-000a}
+"003"	{emote: Happiness}{ruby (charSpan 2): こんや}今夜は　{pause 5}{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}だね！{Wait for input}{emote: Glee}まんまるの　{pause 5}キラキラお{ruby (charSpan 2): つきさま}月様{pause 10}	{ruby (charSpan 1): み}見れるかな？！{Wait for input}	{emote: Love}{ruby (charSpan 1): たの}楽しみ～、{pause 15}{catchphrase}
+"004"	{emote: Glee}{ruby (charSpan 2): きょう}今日は　{pause 10}{ruby (charSpan 1): ま}待ちに{ruby (charSpan 1): ま}待った	{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}だね！{Wait for input}{emote: Happiness}{ruby (charSpan 2): こんや}今夜は　オシャレして、{pause 15}	{emote: Joy}お{ruby (charSpan 2): つきさま}月様に{ruby (charSpan 1): ま}負けないくらい{pause 8}	かがやかなくっちゃ！{pause 8}{emote: Soft Smile}
+"005"	{emote: Happiness}そうそう！{pause 20}	{ruby (charSpan 2): きょう}今日は、{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}だよ～{Wait for input}{emote: Glee}もちろん{pause 10}	パーティーの{ruby (charSpan 2): じゅんび}準備は{pause 5}	バッチリでしょ？{Player can respond (0005):0006-0015-0007-0000}	もちろん！	え？！
+"006"	{emote: Sunny}だよね～！{Wait for input}{emote: Happiness}ミラーボールみたいな{pause 5}	お{ruby (charSpan 2): つきさま}月様{ruby (charSpan 1): み}見ながら、{pause 15}	ノリノリで　{ruby (charSpan 1): あそ}遊ばなくっちゃ！
+"007"	{emote: Resigned}せっかくだから、{pause 10}	お{ruby (charSpan 2): だんご}団子パーティーでもして{pause 10}	もり{ruby (charSpan 1): あ}上がっちゃえばいいのに～
+"008"	{emote: Distress}あ～ん！{pause 20}	あの　お{ruby (charSpan 2): つきさま}月様みたいに、{pause 10}	アタイも　{pause 8}この{ruby (charSpan 1): むら}村でかがやきた～い！{Wait for input}{emote: Thought}そういう{ruby (charSpan 2): ばあい}場合は、{pause 15}{Town name (pink)}{ruby (charSpan 1): むら}村の{pause 8}	スーパースターじゃなくて、{Wait for input}{emote: Inspired}{Town name (pink)}{ruby (charSpan 1): むら}村の{pause 8}	スーパームーンかな？！
+"009"	{emote: Happiness}{ruby (charSpan 2): きょう}今日は、{pause 8}{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}だね！{Wait for input}{emote: Shyness}スタイルを　キープするためには{pause 15}	{ruby (charSpan 1): た}食べ{ruby (charSpan 1): す}過ぎは　キケンだけど、{Wait for input}{emote: Distress}こんなキレイな　{pause 5}お{ruby (charSpan 2): つきさま}月様を{ruby (charSpan 1): み}見ちゃったら、{pause 15}	お{ruby (charSpan 2): だんご}団子{ruby (charSpan 1): た}食べずには　{pause 8}いられないよね！
+"010"	{000a-0001-0004-000b-000e}
+"011"	{emote: Surprise}ねぇ！　{pause 20}{ruby (charSpan 2): しょうじき}正直に{ruby (charSpan 1): い}言ってほしいんだけど、{Wait for input}	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日の　お{ruby (charSpan 2): つきさま}月様とアタイ、{pause 10}	どっちが　かがやいて{ruby (charSpan 1): み}見える～？{Player can respond (0005):000c-0000-000d-0000}	キミ！	お{ruby (charSpan 2): つきさま}月様
+"012"	{emote: Joy}やっぱり～！{Wait for input}{emote: Glee}{Player nickname (green)}{0005-000d-0000}には、{pause 10}	アタイの{ruby (charSpan 1): ほう}方が　{pause 10}キラキラに	{ruby (charSpan 1): み}見えちゃうんだね！	{emote: Glare}それって、{pause 10}アタイが{pause 8}	ミリョク{ruby (charSpan 1): てき}的だからでしょ～、{pause 15}{catchphrase}{Wait for input}	{emote: Laughter}キャハハ！{pause 40}{emote: Soft Smile}
+"013"	{emote: Distress}え～！{pause 20}	そんな～{Wait for input}{emote: Anger}{Player nickname (green)}{0005-000d-0000}、{pause 10}	アタイのミリョクに{pause 10}	{ruby (charSpan 1): き}気づいてないんじゃないの？	{emote: Distress}あ～ん{pause 20}	もっと　よく{ruby (charSpan 1): み}見て～！
+"014"	{emote: Surprise}ねぇ！　{pause 20}{ruby (charSpan 2): しょうじき}正直に{ruby (charSpan 1): い}言ってほしいんだけど、{Wait for input}	{emote: Soft Smile}{ruby (charSpan 2): きょう}今日のお{ruby (charSpan 2): つきさま}月様とアタイ、{pause 15}	ちょっと　{ruby (charSpan 1): に}似てな～い？{Player can respond (0005):000f-0015-0010-0028}	うん！	どこが？
+"015"	{emote: Joy}そうだよね～！{Wait for input}{emote: Happiness}アタイって、{pause 10}	お{ruby (charSpan 2): つきさま}月様みたいに　キラキラだって{pause 8}	{ruby (charSpan 1): おも}思ってたんだ～	{emote: Disbelief}まさか、{pause 15}	まるっこいとこが{ruby (charSpan 1): に}似てるって{ruby (charSpan 1): おも}思った？{Wait for input}	{emote: Resigned}そんなわけないじゃ～ん！
+"016"	{emote: Worry}ほら～、{pause 20}にじみ{ruby (charSpan 1): で}出る{pause 8}	キラキラ　オーラとか{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Soft Smile}いつも　{pause 5}みんなを{ruby (charSpan 2): みまも}見守ってるとことかさ！

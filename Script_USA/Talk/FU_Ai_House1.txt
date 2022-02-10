@@ -1,39 +1,39 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Greetings}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Surprise}
-"008"	{emote: Happiness}
-"009"	{emote: Greetings}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}{capitalized}{Greeting begin}Good morning,{pause 10} {Player nickname (green)}{Greeting end}!{pause 20}	{emote: Sunny}I'm glad you came for a visit.{pause 20} Make	yourself at home,{pause 8} {catchphrase}!
+"002"	{emote: Surprise}Well, well!{pause 20} If it isn't {Player nickname (green)}!{Wait for input}	{emote: Happiness}Thanks for coming to visit me this	morning,{pause 10} {catchphrase}.
+"003"	{emote: Greetings}{capitalized}{Greeting begin}Good morning, {pause 8}{Player nickname (green)}{Greeting end}!	{emote: Bashful}I can't believe you dragged yourself	out of bed this early to visit me.
+"004"	{emote: Happiness}{capitalized}{Greeting begin}Hi, {pause 8}{Player nickname (green)}{Greeting end}.{pause 20}	{emote: Soft Smile}Welcome to my home,{pause 8}	{catchphrase}!
+"005"	{emote: Happiness}{capitalized}{Greeting begin}{capitalized}{Player nickname (green)}, {pause 10}hi{Greeting end}!{Wait for input}	{emote: Glee}I was just thinking about how nice	it'd be to see you,{pause 8} {catchphrase}.
+"006"	{emote: Happiness}Welcome to my home, {Player nickname (green)}!{Wait for input}	{emote: Soft Smile}I was just sitting down to write a	poem about {Article(word-dependant)}{0005-000f-0002-0000}.
+"007"	{emote: Surprise}Oh!{pause 20} Well, hello, {Player nickname (green)}!{Wait for input} {emote: Happiness}What a	nice surprise,{pause 8} {catchphrase}.
+"008"	{emote: Happiness}Welcome to my home, {pause 8}{Player nickname (green)}!{pause 20}	It's good to see you.
+"009"	{emote: Greetings}{capitalized}{Greeting begin}Good evening{Greeting end}!{Wait for input}	{emote: Happiness}I'm just having a relaxing night at	home.{pause 20} You should stay awhile!
+"010"	{emote: Happiness}Oh!{pause 20} I wasn't expecting any visitors	this late,{pause 8} so this is quite a nice	surprise,{pause 8} {catchphrase}.
+"011"	{emote: Happiness}{capitalized}{Greeting begin}Hi, {pause 8}{Player nickname (green)}{Greeting end}!{Wait for input}	{emote: Soft Smile}Pardon my silly smile.{pause 20} I just finished	a great book,{pause 8} {catchphrase}.
+"012"	{emote: Happiness}Hi there,{pause 8} {Player nickname (green)}!{Wait for input}{emote: Soft Smile}What a surprise to see you this	late at night.{Wait for input} {emote: Happiness}A pleasant surprise,	of course!
 == 1 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Greetings}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Shocked}
-"008"	{emote: Happiness}
-"009"	{emote: Greetings}
-"010"	{emote: Alarmed}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}¡{capitalized}{Greeting begin}Buenos días,{pause 10} {Player nickname (green)}{Greeting end}!{pause 20}	{emote: Sunny}¡Pasa, pasa! ¡Como si estuvieras	en tu casa,{pause 15} {catchphrase}!
+"002"	{emote: Surprise}¡Anda!{pause 20} ¡Si eres {Player nickname (green)}!{Wait for input}	{emote: Happiness}Muchas gracias por venir	a mi casa,{pause 10} {catchphrase}.
+"003"	{emote: Greetings}¡{capitalized}{Greeting begin}Buenos días, {pause 20}{Player nickname (green)}{Greeting end}!{Wait for input}{emote: Bashful}¿Te has levantado tan prontito	solo para venir a verme?	¡Eres un encanto,{pause 8} {catchphrase}!
+"004"	{emote: Happiness}¡{capitalized}{Greeting begin}Hola, {pause 20}{Player nickname (green)}{Greeting end}!{pause 20}	{emote: Flourish}¡Bienvenid{o/a} a mi casa,{pause 8}	{catchphrase}!
+"005"	{emote: Happiness}¡{capitalized}{Greeting begin}Hola, {pause 10}{Player nickname (green)}{Greeting end}!{Wait for input}	{emote: Glee}Justo estaba pensando en ti,	{pause 15}{catchphrase}.
+"006"	{emote: Happiness}¡Adelante, {Player nickname (green)}{pause 15}!{Wait for input}	{emote: Soft Smile}He escrito un poema sobre {Article(word-dependant)}	{0005-000f-0002-0000},{pause 8} {catchphrase}.
+"007"	{emote: Shocked}¡Ay!{pause 20} ¡Qué susto!{Wait for input}	{emote: Happiness}¡Menos mal que eres tú!{pause 20}	¡Casi se me sale el corazón!	Estoy leyendo un libro de terror y	por la noche me pongo muy tensa,	{pause 15}{catchphrase}.
+"008"	{emote: Happiness}¡Pero si eres tú, {pause 20}{Player nickname (green)}!{Wait for input}	{emote: Soft Smile}¡Vaya sorpresa, justo ahora	estaba pensando en ti!
+"009"	{emote: Greetings}¡{capitalized}{Greeting begin}Buenas noches{Greeting end}!{Wait for input}	{emote: Happiness}Me gusta hornear galletas por la	noche.{pause 8} ¿Te apuntas,{pause 8} {catchphrase}?
+"010"	{emote: Alarmed}¡Vaya!{pause 20} {emote: Happiness}Nunca viene nadie a verme	tan tarde,{pause 8} pero siempre es de	agradecer,{pause 15} {catchphrase}.
+"011"	{emote: Happiness}{capitalized}{Greeting begin}Holita, {pause 20}{Player nickname (green)}{Greeting end}.{Wait for input}	{emote: Soft Smile}¿Sabes lo que más me gusta	de mi casa?	¡Que siempre huele a pasteles	y a cositas ricas,{pause 15} {catchphrase}!
+"012"	{emote: Happiness}¡Hola,{pause 20} {Player nickname (green)}!{Wait for input}{emote: Soft Smile}¿Qué haces aquí tan tarde?{Wait for input}	{emote: Happiness}No es que no me alegre, ¿eh?	¡Al contrario,{pause 15} {catchphrase}!
 == 2 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Greetings}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Surprise}
-"008"	{emote: Happiness}
-"009"	{emote: Greetings}
-"010"	{emote: Alarmed}
-"011"	{emote: Happiness}
-"012"	{emote: Happiness}
+"001"	{emote: Happiness}{capitalized}{Greeting begin}Bonjour,{pause 10} {Player nickname (green)}{Greeting end}!{pause 20}	{emote: Sunny}C'est gentil de me rendre visite!	Fais comme chez toi,{pause 15} {catchphrase}.
+"002"	{emote: Surprise}Tiens donc! {pause 20}{capitalized}{Player nickname (green)}!{Wait for input}	{emote: Happiness}Sympa cette petite visite matinale,	{pause 10}{catchphrase}. Merci!
+"003"	{emote: Greetings}{capitalized}{Greeting begin}Hello, {pause 20}{Player nickname (green)}{Greeting end}!{Wait for input}{emote: Bashful}On vient rendre visite à sa vieille	amie de bon matin? Comme c'est	adorable, merci!
+"004"	{emote: Happiness}{capitalized}{Greeting begin}Salut, {pause 20}{Player nickname (green)}{Greeting end}.{pause 20}	{emote: Flourish}Bienvenue chez moi,{pause 8} {catchphrase}!
+"005"	{emote: Happiness}{capitalized}{Greeting begin}{capitalized}{Player nickname (green)}, {pause 10}coucou{Greeting end}!{Wait for input}	{emote: Glee}J'avais follement envie de te voir,	justement. {pause 15}{capitalized}{catchphrase}!
+"006"	{emote: Happiness}Bienvenue, {Player nickname (green)}{pause 15}!{Wait for input} {emote: Soft Smile}J'étais en	train d'écrire un poème sur {Article(word-dependant)}	{0005-000f-0002-0000}.
+"007"	{emote: Surprise}Oh!{pause 20} Hello, {Player nickname (green)}!{Wait for input}	{emote: Happiness}Quelle belle surprise!{pause 20} Fais comme	chez toi, je t'en prie,{pause 15} {catchphrase}.
+"008"	{emote: Happiness}Bienvenue dans mon petit chez-moi,	{pause 20}{Player nickname (green)}!{Wait for input} {emote: Soft Smile}Je ne m'attendais pas	à ta visite!
+"009"	{emote: Greetings}{capitalized}{Greeting begin}Bonsoir{Greeting end}!{Wait for input}	{emote: Happiness}J'aime rester chez moi quand il fait	nuit.{pause 8} Reste, on va papoter un peu.
+"010"	{emote: Alarmed}Waouh!{pause 20} {emote: Happiness}Je pensais pas recevoir de	la visite à cette heure,{pause 8} mais c'est	une bonne surprise,{pause 15} {catchphrase}!
+"011"	{emote: Happiness}{capitalized}{Greeting begin}Salut, {pause 20}{Player nickname (green)}{Greeting end}!{Wait for input}	{emote: Soft Smile}Je viens de finir mon magazine.	Il est passionnant, {pause 15}{catchphrase}!
+"012"	{emote: Happiness}Coucou,{pause 20} {Player nickname (green)}!{Wait for input}{emote: Soft Smile}C'est délirant de te voir debout	aussi tard!{Wait for input} {emote: Happiness}Enfin, délirant dans le	bon sens du terme,{pause 15} {catchphrase}!

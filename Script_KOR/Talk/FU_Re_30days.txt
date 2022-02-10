@@ -1,13 +1,13 @@
 == 0 ==
-"001"	{0009-0001-0006-08-00-09-00-0b-00}
-"002"	{emote: Surprise}
-"003"	{emote: Surprise}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Alarmed}
-"007"	{emote: Alarmed}
-"008"	{emote: Curious}
-"009"	{emote: Alarmed}
-"010"	{emote: Thought}
-"011"	{000a-001a-0004-0c-00-00-00}	
-"012"	{emote: Curious}
+"001"	{0009-0001-0006-0008-0009-000b}
+"002"	{emote: Surprise}어머나!{pause 15}	그동안 어디 계셨었어요?{Wait for input}{emote: Distress}다시는{pause 10} 못 만나는 줄 알고{pause 3}	제가 얼마나 걱정했다구요{Wait for input}그래도 이렇게 다시 만나{pause 10}	얘기할 수 있게 되어서{pause 8}	정말 다행이에요!{Wait for input}{emote: Reset}아, 그치만{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Soft Smile}너무 부담 가지지 않으셔도 돼요{pause 15}	편한 대로{pause 5} 즐기시길 바랄게요!
+"003"	{emote: Surprise}어머나!{pause 20} 정말 오랜만이네요!{Wait for input}{emote: Thought}며칠 만에 만난 거죠{pause 8}・{pause 8}・{pause 8}・{pause 8}?{Wait for input}	{emote: Soft Smile}그동안 여행이라도{pause 8}	다녀오신 건가요?{Wait for input}{emote: Happiness}저는{pause 10} 당신과	하고 싶은 이야기가{pause 8}	아주 많답니다{Wait for input}앞으로 또{pause 10} 많은 얘기	나누도록 해요, {pause 15}{catchphrase}
+"004"	{emote: Alarmed}{Player nickname (green)}님!{Wait for input}	한동안{pause 10} 얼굴을 못 뵈었네요!{Wait for input}{emote: Curious}혹시{pause 10} 눈코 뜰 새 없이	바쁘셨던 건가요?{Wait for input}	{emote: Distress}너무 무리하지 않게{pause 10} 조심하세요
+"005"	{emote: Alarmed}아니! {pause 15}{Player nickname (green)}님?!{pause 20}	그동안 대체{pause 3} 어디 계셨어요?!{Wait for input}	{emote: Distress}하고 싶은 얘기가{pause 5} 얼마나 많았는데!	{emote: Sheepishness}투명 인간이 되는 바람에{pause 15}	{emote: Sorrow}저한테만{pause 10} 보이지 않게	되어 버리신 줄 알았다구요{pause 30}{emote: Reset}
+"006"	{emote: Alarmed}어머! {pause 15}{Player nickname (green)}님 아니세요?{Wait for input}	{emote: Happiness}건강해 보이셔서 다행이네요{Wait for input}{emote: Sheepishness}그동안 도통 만날 수가 없으니까{pause 10}	혹시라도 제가{pause 10} 싫어서	피하시는 건가 고민했었어요{Wait for input}{emote: Soft Smile}아무튼{pause 10} 앞으로	다시 친하게 지내요!
+"007"	{emote: Alarmed}어머나, 이게 누구시죠?!{pause 15}	설마 {Player nickname (green)}님?{Wait for input}{emote: Sadness}그동안 만날 수가 없어서{pause 10}	제가 얼마나 쓸쓸했는지 아세요?{Wait for input}{emote: Surprise}왠지 못 본 사이에{pause 10}	약간{pause 8} 어른스러워지신 듯한	느낌도 드네요{pause 8}・{pause 8}・{pause 8}・{pause 8} {catchphrase}	{emote: Soft Smile}아무튼{pause 8}	앞으로도 {pause 10}잘 부탁드려요!
+"008"	{emote: Curious}{pause 5}・{pause 5}・{pause 5}・{pause 5}{Player nickname (green)}님?{Wait for input}・{pause 8}・{pause 8}・{pause 8}{emote: Inspired}정말{pause 10}	{Player nickname (green)}님이 맞군요!{Wait for input}그동안 어디에 계셨어요?{Wait for input}	{emote: Distress}갑자기 사라지시는 바람에{pause 10}	전 정말 외로웠다구요!{Wait for input}{emote: Agreement}역시 {pause 10}{Town name (pink)} 마을에는{pause 8}	당신이 계셔야 해요!{Wait for input}	{emote: Happiness}이제부터 {pause 8}다시 함께 재밌게 놀아요!
+"009"	{emote: Alarmed}아아아앗!!{pause 20}	{Player nickname (green)}님!!{Wait for input}{emote: Sorrow}저희를 두고{pause 10} 그동안	어디서 뭘 하신 거예요?!{Wait for input}{emote: Worry}당신은 {pause 10}{Town name (pink)} 마을의{pause 5}	마스코트와도 같은 존재인걸요!{Wait for input}	{emote: Happiness}앞으로{pause 8} 자주 얘기 나눠요!
+"010"	{emote: Thought}내 눈이 이상해졌나{pause 8}・{pause 8}・{pause 8}・{pause 8}?{Wait for input}	{emote: Worry}{Player nickname (green)}님이 자꾸 보이네{Wait for input}{emote: Reset}{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}아앗～!{pause 30}	진짜 {Player nickname (green)}님 아니세요!?{Wait for input}{emote: Happiness}너무 보고 싶은 마음에{pause 10}	헛것이 보이는 줄 알았어요!{Wait for input}{emote: Glee}그동안 어디 계셨어요?{Wait for input}	다들 당신과 같이 놀고 싶어서{pause 10}	기다리고 있답니다!
+"011"	{000a-001a-0004-000c-000a}
+"012"	{emote: Curious}어머{pause 8}・{pause 8}・{pause 8}・{pause 8}?{pause 20}	{Player nickname (green)}님?!{Wait for input}	{emote: Glee}{Player nickname (green)}님 맞으시군요!{Wait for input}{emote: Happiness}갑자기{pause 8} 촌장님이 사라졌다고{pause 10}	다들{pause 10} 그동안 얼마나	쓸쓸해했다구요!{Wait for input}{emote: Glee}역시 당신은{pause 10}	{Town name (pink)} 마을의 분위기 메이커예요!{Wait for input}{emote: Happiness}자,{pause 10} 어서 다른 분들께도{pause 10}	말을 걸어주세요!

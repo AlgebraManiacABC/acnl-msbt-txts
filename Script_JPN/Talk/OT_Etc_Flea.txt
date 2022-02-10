@@ -1,4 +1,4 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Worry}
-"003"	{emote: Anger}
+"001"	{emote: Distress}えっ、{pause 8}ヤダ～！{pause 16}	ノミが　いたの？{Wait for input}{emote: Anger}{Player nickname (green)}{0005-000d-0000}、{pause 16}このことは{pause 16}	ここだけの{ruby (charSpan 1): はなし}話にしといてね{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"002"	{emote: Worry}こんなところ、{pause 16}アナタに	{ruby (charSpan 1): み}見られるなんて　ショックだわ～{Wait for input}{emote: Alarmed}あっ　{pause 16}{ruby (charSpan 2): ごかい}誤解しないでね！{pause 32}	{emote: Distress}{ruby (charSpan 2): ふだん}普段は　こんなじゃないのよ！	{pause 8}{catchphrase}！
+"003"	{emote: Anger}ちょっと　{Player nickname (green)}{0005-000d-0000}！{pause 32}	{ruby (charSpan 1): おんな}女に　{ruby (charSpan 1): はじ}恥をかかせないでよ～{Wait for input}{emote: Soft Smile}でも、ありがとう！{pause 32}	さりげなく　{ruby (charSpan 1): おし}教えてくれたのは、{pause 16}	アナタの{ruby (charSpan 1): やさ}優しさね{pause 8}・{pause 8}・{pause 8}・{pause 8}

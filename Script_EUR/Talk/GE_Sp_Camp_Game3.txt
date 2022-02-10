@@ -1,100 +1,100 @@
 == 0 ==
-"001"	{emote: Shyness}
-"002"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"003"	{emote: Glee}
-"004"	{emote: Surprise}
-"005"	{emote: Distress}
-"006"	{emote: Distress}
-"007"	{emote: Delight}
-"008"	{emote: Resigned}
-"009"	{emote: Resigned}
-"010"	{emote: Resigned}
-"011"	{emote: Resigned}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Glee}
-"017"	{emote: Glare}
-"018"	{emote: Resigned}
-"019"	{emote: Resigned}
+"001"	{emote: Shyness}Rumor has it {pause 5}you have {pause 10}{Article(word-dependant)}	{0011-0003-0002-0000}, {pause 5}right?{pause 15}{emote: Sunny}	I've always wanted one of those!	{emote: Resigned}But haggling over prices is{pause 10} WAY	uncool. {pause 20}So let's play a little game	I like to call Price Fixing!	{emote: Soft Smile}I've got 4 cards{pause 15} in 4 different	colors {pause 15}with 4 different prices on	'em! {pause 20}{emote: Delight}All you have to do{pause 5} is pick 1!	{emote: Soft Smile}{0007-000d-0000}It's totally a game of chance,{pause 10} but	who knows? {pause 20}{emote: Sunny}You may get rich!{pause 10}	So {pause 5}are you up to the challenge?{Player can respond (0005):0007-0015-0002-0028}	Let's play!	I'll pass.
+"002"	{0009-0002-0008-0008-0009-000a-000b}
+"003"	{emote: Glee}Really? So {Blue}{Number (0x9)} Bells{Color Reset} is an	awesome price!{Wait for input}{emote: Thought} For me at least.{pause 15}	Not so much for you, though, huh?
+"004"	{emote: Surprise}Huh? So {Number (0x9)} Bells?{pause 10} Works for	me! Here are your {Blue}{Number (0x9)} Bells{Color Reset}!
+"005"	{emote: Distress}Whoa! So {pause 10}{Number (0x9)} Bells! {pause 20}That {pause 10}kinda	backfired on me, {pause 10}I think! {pause 30}{emote: Sigh}But I made	a promise,{pause 5} so here's {pause 20}{Blue}{Number (0x9)} Bells{Color Reset}.
+"006"	{emote: Distress}Noooo! {pause 15}You picked{pause 10} {Number (0x9)} Bells!{pause 15}	You totally must've sensed {pause 5}that	was the wallet-busting card!	{emote: Resigned}But a deal's a deal, {pause 5}right? {pause 15}Here's	your{pause 20} {Blue}{Number (0x9)} Bells{Color Reset}, {pause 10}as promised.
+"007"	{emote: Delight}That's the spirit! {Wait for input}OK, {pause 5}time to pick	a card. {pause 20}{emote: Shyness}But you can't get mad at	me, {pause 10}even if you pick a cheap one!{0008-0002-0010-000c-0000-000d-0000-000e-0000-000f-0000}	Gimme red!	Gotta go blue!	Definitely yellow!	Green's a go!
+"008"	{emote: Resigned}It's your loss!{pause 15} But just so you know,{pause 10}{emote: Glare}	the red card had {Blue}{pause 10}{Number (0x9)} Bells{Color Reset}{pause 5} on it!{pause 15}	Maybe we can play {pause 5}another time...
+"009"	{emote: Resigned}It's your loss!{pause 15} But just so you know,{pause 10}{emote: Glare}	the blue card had {Blue}{pause 10}{Blue}{Number (0x9)}{Blue} Bells{Color Reset}{pause 5} on it!{pause 15}	Maybe we can play {pause 5}another time...
+"010"	{emote: Resigned}It's your loss!{pause 15} Just so you know,{pause 10} the{emote: Glare}	yellow card had {Blue}{pause 10}{Blue}{Number (0x9)}{Blue} Bells{Color Reset}{pause 5} on it!{pause 15}	Maybe we can play {pause 5}another time...
+"011"	{emote: Resigned}It's your loss!{pause 15} Just so you know,{pause 10} the{emote: Glare}	green card had {Blue}{pause 10}{Blue}{Number (0x9)}{Blue} Bells{Color Reset}{pause 5} on it!{pause 15}	Maybe we can play {pause 5}another time...
+"012"	{emote: Happiness}Ready for the big reveal?!{pause 10}{emote: Sheepishness} The	price {pause 5}written on the red card is{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"013"	{emote: Happiness}Ready for the big reveal?!{pause 10}{emote: Sheepishness} The	price {pause 5}written on the blue card is{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"014"	{emote: Happiness}Ready for the big reveal?!{pause 10}{emote: Sheepishness} The	price {pause 5}written on the yellow card is{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"015"	{emote: Happiness}Ready for the big reveal?!{pause 10}{emote: Sheepishness} The	price {pause 5}written on the green card is{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"016"	{emote: Glee}I got it for such a steal!{pause 15} But you'd	better not pout.{pause 20} It's only a game!{pause 30}{emote: Sunny}	Let's play it again sometime,{pause 5} OK?
+"017"	{emote: Glare}Ouch!{pause 10} You really got the short end	of the bargain,{pause 10} huh? {pause 20}{emote: Resigned}I guess that's{pause 10}	just what happens sometimes!
+"018"	{emote: Resigned}You must be {pause 10}the luckiest person in	town! {pause 30}{emote: Mischief}But I'll get my revenge {pause 5}one of	these days. {pause 10}Let's play again soon!
+"019"	{emote: Resigned}I hope some of your {pause 10}epic luck {pause 10}rubs	off on me, {pause 10}{catchphrase}!
 == 1 ==
-"001"	{emote: Shyness}
-"002"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"003"	{emote: Glee}
-"004"	{emote: Surprise}
-"005"	{emote: Distress}
-"006"	{emote: Distress}
-"007"	{emote: Delight}
-"008"	{emote: Resigned}
-"009"	{emote: Resigned}
-"010"	{emote: Resigned}
-"011"	{emote: Resigned}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Glee}
-"017"	{emote: Glare}
-"018"	{emote: Resigned}
-"019"	{emote: Resigned}
+"001"	{emote: Shyness}Alguien me ha chivado que tienes	{pause 10}{Article(word-dependant)}{0011-0003-0002-0000}.{pause 15}{emote: Sunny}	¿Me l{o/a/} venderías, porfa?	{emote: Resigned}Pero no me gusta regatear.{pause 20} {emote: Agreement}Yo	prefiero jugar a un juego llamado	{Blue}El precio oculto{Color Reset}.	{emote: Soft Smile}Deberás elegir entre cuatro cartas	de colores, cada una con un precio	distinto que no podrás ver.	{emote: Resigned}{0007-000d-0000}Es todo cuestión de suerte, pero	quién sabe, ¡quizá te hagas ric{o/a}!{pause 20}{emote: Sunny}	¿Lo intentamos?{Player can respond (0005):0007-0015-0002-0028}	¡Vamos allá!	No me interesa
+"002"	{0009-0002-0008-0008-0009-000a-000b}
+"003"	{emote: Glee}¡{Blue}{Number (0x9)} bayas{Color Reset}! {pause 10}¡Qué chupi! {Wait for input}{emote: Thought}Bueno,{pause 10}	al menos para mí.{pause 30}{emote: Delight} ¡Venga, un trato	es un trato!
+"004"	{emote: Surprise}¡{Blue}{Number (0x9)} bayas{Color Reset}!{pause 10} ¡No está nada mal!	{pause 30}{emote: Happiness}Me parece un precio justo. {pause 20}Aquí	tienes tus bayas.
+"005"	{emote: Distress}¡Hala! {pause 10}¿{Blue}{Number (0x9)} bayas{Color Reset}? {pause 20}¡Este juego	me ha salido supercaro! {pause 30}{emote: Sigh}Pero es	lo que hay, aquí tienes.
+"006"	{emote: Distress}¡Nooo! {pause 15}¡¿{Blue}{Number (0x9)} bayas{Color Reset}?!{pause 15} ¡¿Cómo has	podido elegir el precio más alto	de todos?! Jooooo...	{emote: Resigned}Yo he propuesto el juego, así que	no me puedo quejar.{pause 20} Toma.
+"007"	{emote: Delight}¡Así me gusta! {Wait for input}Ahora escoge una	carta. {pause 20}{emote: Shyness}Salga lo que salga, no puedes	enfadarte, ¿vale?{0008-0002-0010-000c-0000-000d-0000-000e-0000-000f-0000}	La roja	La azul	La amarilla	La verde
+"008"	{emote: Resigned}¡Pues tú te lo pierdes!{pause 15} Si hubieras	elegido la roja,{pause 10}{emote: Glare} ¡te habrías llevado	{Blue}{pause 10}{Number (0x9)} bayas{Color Reset}!{pause 15}	Quizá te sientas con más suerte	otro día...
+"009"	{emote: Resigned}¡Pues tú te lo pierdes!{pause 15} Si hubieras	elegido la azul,{pause 10}{emote: Glare} ¡te habrías llevado	{Blue}{pause 10}{Number (0x9)} bayas{Color Reset}!{pause 15}	Quizá te sientas con más suerte	otro día...
+"010"	{emote: Resigned}¡Pues tú te lo pierdes!{pause 15} Si hubieras	elegido la amarilla,{pause 10}{emote: Glare} ¡te habrías	llevado {Blue}{pause 10}{Number (0x9)} bayas{Color Reset}!{pause 15}	Quizá te sientas con más ganas	otro día...
+"011"	{emote: Resigned}¡Pues tú te lo pierdes!{pause 15} Si hubieras	elegido la verde,{pause 10}{emote: Glare} ¡te habrías llevado	{Blue}{pause 10}{Number (0x9)} bayas{Color Reset}!{pause 15}	Quizá te sientas con más suerte	otro día...
+"012"	{emote: Happiness}¿Quieres saber qué has elegido?{emote: Sheepishness}	Pues el precio de la carta roja es{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"013"	{emote: Happiness}¿Quieres saber qué has elegido?{emote: Sheepishness}	Pues el precio de la carta azul es{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"014"	{emote: Happiness}¿Quieres saber qué has elegido?{emote: Sheepishness}	Pues el precio de la carta amarilla	es{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"015"	{emote: Happiness}¿Quieres saber qué has elegido?{emote: Sheepishness}	Pues el precio de la carta verde es{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"016"	{emote: Glee}¡Pues me ha gustado a mí este	juego, ya lo creo!{pause 30}{emote: Sunny} ¡Si quieres	repetirlo, avísame!
+"017"	{emote: Glare}Bueno, podría haber sido peor,	no te quejes. {pause 20}{emote: Resigned}Quizá la próxima vez	tengas más suerte.
+"018"	{emote: Resigned}¡Menuda potra has tenido! {pause 30}{emote: Mischief}¡Esto no	quedará así, quiero la revancha!
+"019"	{emote: Resigned}¿Llevas un amuleto de la suerte o	algo así? Porque esto no es normal.
 == 2 ==
-"001"	{emote: Shyness}
-"002"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"003"	{emote: Glee}
-"004"	{emote: Surprise}
-"005"	{emote: Distress}
-"006"	{emote: Distress}
-"007"	{emote: Delight}
-"008"	{emote: Resigned}
-"009"	{emote: Resigned}
-"010"	{emote: Resigned}
-"011"	{emote: Resigned}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Glee}
-"017"	{emote: Glare}
-"018"	{emote: Resigned}
-"019"	{emote: Resigned}
+"001"	{emote: Shyness}On m'a dit {pause 5}que t'avais {pause 10}{Article(word-dependant)}	{0011-0003-0002-0000}{pause 8}.{pause 8}.{pause 8}.{pause 8}?{pause 15}{emote: Sunny} Ouah,	vends-{le/la/}-moi !!! {pause 20}Steuplaît !!!	{emote: Resigned}Le hic, c'est que je suis pas trop	d'humeur à marchander{pause 8}.{pause 8}.{pause 8}. Si on	jouait à un petit jeu ?!	Ça s'appelle « négociation	express » !{pause 20} {emote: Soft Smile}J'ai quatre cartes de	quatre couleurs différentes{pause 8}.{pause 8}.{pause 8}.	... sur lesquelles sont inscrits quatre	prix différents aussi !{pause 20}{emote: Delight} Ta mission ?{pause 10}	En choisir une !!!	{emote: Curious}{0007-000d-0000}T'es plutôt chanceu{x/se}, en général ?{pause 20}{emote: Sunny}	Je suis sûre que t'as toujours rêvé	de devenir riche !{pause 20} Alors ?{Player can respond (0005):0007-0015-0002-0028}	OK, on joue !	Ça me dit rien...
+"002"	{0009-0002-0008-0008-0009-000a-000b}
+"003"	{emote: Glee}{Blue}{Number (0x9)} clochettes {Color Reset}! {pause 10}Super ! {Wait for input}{emote: Thought}Enfin{pause 8}.{pause 8}.{pause 8}.	pour moi, surtout !{pause 15} Hi hi !{pause 30}{emote: Delight} J'adore	faire des affaires avec toi !
+"004"	{emote: Surprise}{Blue}{Number (0x9)}{Color Reset} {Blue}clochettes {Color Reset}!{pause 10} T'es pas dur{/e} en	affaires, toi !{pause 30}{emote: Laughter} Trop fort ! {pause 5}Voilà ton	argent, hi hi hi !
+"005"	{emote: Distress}Quoi ?! {pause 10}{Blue}{Number (0x9)} clochettes{Color Reset} ?!{pause 20}	Rappelle-moi {pause 10}QUI a eu l'idée de	jouer à ça ?!{pause 20} {emote: Glare}Voilà tes clochettes{pause 8}.{pause 8}.{pause 8}.
+"006"	{emote: Distress}Noooon ! {pause 15}Mais qu'est-ce qui m'a	pris de faire une carte à	{pause 10}{Blue}{Number (0x9)} clochettes {Color Reset}?!	{emote: Resigned}Voilà tes petites clochettes{pause 8}.{pause 8}.{pause 8}. Dis, si	on partageait les gains, dis ?{pause 20} C'était	mon idée, ce jeu, quoi !
+"007"	{emote: Delight}Yesssss ! {Wait for input}OK, {pause 5}choisis ta carte ! {pause 20}{emote: Shyness}À	tes risques et périls{pause 8}.{pause 8}.{pause 8}. {emote: Distress}Et aux miens	aussi !{pause 20} Maman, j'ai peur !!!{0008-0002-0010-000c-0000-000d-0000-000e-0000-000f-0000}	La rouge !	La bleue !	La jaune !	La verte !
+"008"	{emote: Resigned}Ben, c'est tant pis pour toi ! {pause 10}{emote: Glare}Parce	que sur la rouge, il y avait écrit	{Blue}{pause 10}{Number (0x9)} clochettes{Color Reset}, d'abord !	{emote: Pride}On jouera une prochaine fois{pause 8}.{pause 8}.{pause 8}. C'est	pas grave, hein !
+"009"	{emote: Resigned}Ben, c'est tant pis pour toi ! {pause 10}{emote: Glare}Parce	que sur la bleue, il y avait écrit	{Blue}{pause 10}{Number (0x9)} clochettes{Color Reset}, d'abord !	{emote: Pride}On jouera une prochaine fois{pause 8}.{pause 8}.{pause 8}. C'est	pas grave, hein !
+"010"	{emote: Resigned}Ben, c'est tant pis pour toi ! {pause 10}{emote: Glare}Parce	que sur la jaune, il y avait écrit	{Blue}{pause 10}{Number (0x9)} clochettes{Color Reset}, d'abord !	{emote: Pride}On jouera une prochaine fois{pause 8}.{pause 8}.{pause 8}. C'est	pas grave, hein !
+"011"	{emote: Resigned}Ben, c'est tant pis pour toi ! {pause 10}{emote: Glare}Parce	que sur la verte, il y avait écrit	{Blue}{pause 10}{Number (0x9)} clochettes{Color Reset}, d'abord !	{emote: Pride}On jouera une prochaine fois{pause 8}.{pause 8}.{pause 8}. C'est	pas grave, hein !
+"012"	{emote: Happiness}Alors, tu veux connaître le prix,	hi hi ?!{pause 10} {emote: Sheepishness}Sur la carte rouge,{pause 10} je lis{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"013"	{emote: Happiness}Alors, tu veux connaître le prix,	hi hi ?!{pause 10} {emote: Sheepishness}Sur la carte bleue,{pause 10} je lis{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"014"	{emote: Happiness}Alors, tu veux connaître le prix,	hi hi ?!{pause 10} {emote: Sheepishness}Sur la carte jaune,{pause 10} je lis{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"015"	{emote: Happiness}Alors, tu veux connaître le prix,	hi hi ?!{pause 10} {emote: Sheepishness}Sur la carte verte,{pause 10} je lis{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"016"	{emote: Glee}Qui c'est qui a fait l'affaire du	siècle ?!{pause 30} {emote: Sunny}Un indice :{pause 20} c'est pas toi,	{catchphrase} !
+"017"	{emote: Glare}À ce prix-là, c'est donné !{pause 10} {pause 20}{emote: Laughter}Je crois	qu'on peut dire que c'est pas ton	jour de chance, hein ?!
+"018"	{emote: Resigned}T'as eu de la chance,{pause 10} mais on	rejouera{pause 8}.{pause 8}.{pause 8}. {pause 30}{emote: Mischief}Je me vengerai{pause 8}.{pause 8}.{pause 8}.
+"019"	{emote: Resigned}T'aurais pu me prévenir que c'était	ton jour de chance !{pause 20} C'est de la	triche, {pause 10}{catchphrase}{pause 8}.{pause 8}.{pause 8}.
 == 3 ==
-"001"	{emote: Shyness}
-"002"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"003"	{emote: Glee}
-"004"	{emote: Surprise}
-"005"	{emote: Distress}
-"006"	{emote: Distress}
-"007"	{emote: Delight}
-"008"	{emote: Resigned}
-"009"	{emote: Resigned}
-"010"	{emote: Resigned}
-"011"	{emote: Resigned}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Glee}
-"017"	{emote: Glare}
-"018"	{emote: Resigned}
-"019"	{emote: Resigned}
+"001"	{emote: Shyness}Mi ha detto un uccellino che hai	{pause 10}{Article(word-dependant)}{0011-0003-0002-0000}, {pause 5}no?{pause 15}{emote: Sunny}	Io ne ho sempre volut{o/a/} un{o/a/}!	{emote: Resigned}Ma non mi piace contrattare	sul prezzo. {pause 30}{emote: Agreement}Facciamo un gioco	per vedere a quanto me l{o/a/} vendi!	{emote: Soft Smile}Ho qui quattro carte{pause 15} di quattro	colori diversi {pause 15}e con quattro prezzi	diversi! {pause 20}{emote: Delight}Devi solo sceglierne una!	{emote: Soft Smile}{0007-000d-0000}È un gioco di fortuna,{pause 10} ma chissà?!	{pause 20}{emote: Sunny}Magari ti va bene e diventi ricc{o/a}!{pause 10}	Allora? {pause 5}Accetti la sfida?{Player can respond (0005):0007-0015-0002-0028}	Giochiamo!	Non mi va...
+"002"	{0009-0002-0008-0008-0009-000a-000b}
+"003"	{emote: Glee}{Blue}{Number (0x9)} stelline{Color Reset}! {pause 10}Da urlo!	{Wait for input}{emote: Thought}Beh,{pause 10} per me almeno.{pause 15} A te è andata	peggio!{pause 30}{emote: Delight} Dai, ogni promessa è debito!
+"004"	{emote: Surprise}{Blue}{Number (0x9)} stelline{Color Reset}!{pause 10} Niente male!{pause 30}{emote: Laughter}	Ahahahah! {pause 5}Beh, quel che è giusto	è giusto! {pause 10}Ecco qui le tue stelline!
+"005"	{emote: Distress}Uffa! {pause 10}{Blue}{Number (0x9)} stelline{Color Reset}! {pause 20}Che pizza!	{pause 30}{emote: Sigh}'Sto gioco mi si è ritorto contro!{pause 5}	Beh, ecco, tieni quello che ti devo!
+"006"	{emote: Distress}Noooo!{pause 15}{pause 10} {Blue}{Number (0x9)} stelline{Color Reset}?{pause 15}	Hai pescato la carta con il prezzo	più alto di tutti! Che storia!	{emote: Resigned}Ma gli affari sono affari! {pause 15}Io di certo	non mi lamento! Tieni!
+"007"	{emote: Delight}Che storia! Così mi piaci! {Wait for input}OK, {pause 5}pesca	una carta. {pause 20}{emote: Shyness}Non ti arrabbiare, però,	se becchi un prezzo assurdo!{0008-0002-0010-000c-0000-000d-0000-000e-0000-000f-0000}	La rossa!	La blu!	La gialla!	La verde!
+"008"	{emote: Resigned}Che pizza che sei!{pause 15} Comunque sappi	che, se avessi scelto la carta rossa,{pause 10}{emote: Glare}	avresti guadagnato {Blue}{pause 10}{Number (0x9)} stelline{Color Reset}!{pause 15}	Vabbè, {pause 5}sarà per un'altra volta...
+"009"	{emote: Resigned}Che pizza che sei!{pause 15} Comunque sappi	che, se avessi scelto la carta blu,{pause 10}{emote: Glare}	avresti guadagnato {Blue}{pause 10}{Number (0x9)} stelline{Color Reset}!{pause 15}	Vabbè, {pause 5}sarà per un'altra volta...
+"010"	{emote: Resigned}Che pizza che sei!{pause 15} Comunque sappi	che, se avessi scelto la carta gialla,{pause 10}{emote: Glare}	avresti guadagnato {Blue}{pause 10}{Number (0x9)} stelline{Color Reset}!{pause 15}	Vabbè, {pause 5}sarà per un'altra volta...
+"011"	{emote: Resigned}Che pizza che sei!{pause 15} Comunque sappi	che, se avessi scelto la carta verde,{pause 10}{emote: Glare}	avresti guadagnato {Blue}{pause 10}{Number (0x9)} stelline{Color Reset}!{pause 15}	Vabbè, {pause 5}sarà per un'altra volta...
+"012"	{emote: Happiness}Giriamo la carta che hai pescato?!{pause 10}{emote: Sheepishness}	Il prezzo sulla carta rossa è{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"013"	{emote: Happiness}Giriamo la carta che hai pescato?!{pause 10}{emote: Sheepishness}	Il prezzo sulla carta blu è{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"014"	{emote: Happiness}Giriamo la carta che hai pescato?!{pause 10}{emote: Sheepishness}	Il prezzo sulla carta gialla è{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"015"	{emote: Happiness}Giriamo la carta che hai pescato?!{pause 10}{emote: Sheepishness}	Il prezzo sulla carta verde è{pause 8}.{pause 8}.{pause 8}.{pause 8}{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"016"	{emote: Glee}Che forza 'sto gioco!{pause 15} È troppo	divertente!{pause 30}{emote: Sunny} Se ti va di giocarci	di nuovo,{pause 5} fammelo sapere!
+"017"	{emote: Glare}Ahia!{pause 10} Non ti è andata proprio	benissimo,{pause 10} eh? {pause 20}{emote: Resigned}Coraggio!{pause 10}	Andrà meglio la prossima volta!
+"018"	{emote: Resigned}Che fortuna sfacciata! {pause 30}{emote: Mischief}Ma uno	di questi giorni, {pause 5}avrò la mia	rivincita. {pause 10}Me lo sento!
+"019"	{emote: Resigned}Hai trovato un quadrifoglio? Cioè,	dico, come si fa altrimenti ad avere	una fortuna così, {pause 10}{catchphrase}?
 == 4 ==
-"001"	{emote: Shyness}
-"002"	{0009-0002-0008-08-00-09-00-0a-00-0b-00}
-"003"	{emote: Glee}
-"004"	{emote: Surprise}
-"005"	{emote: Distress}
-"006"	{emote: Distress}
-"007"	{emote: Delight}
-"008"	{emote: Resigned}
-"009"	{emote: Resigned}
-"010"	{emote: Resigned}
-"011"	{emote: Resigned}
-"012"	{emote: Happiness}
-"013"	{emote: Happiness}
-"014"	{emote: Happiness}
-"015"	{emote: Happiness}
-"016"	{emote: Glee}
-"017"	{emote: Glare}
-"018"	{emote: Resigned}
-"019"	{emote: Resigned}
+"001"	{emote: Shyness}Ich hab gehört, dass du {einen/eine/ein}	{0011-0003-0002-0000} hast,	{pause 10}stimmt das?	{emote: Sunny}Ich wollte schon immer so {einen/eine/eins}	haben! {pause 20}{emote: Resigned}Feilschen finde ich aber	irgendwie total uncool.	{emote: Agreement}Wir können ja ein kleines Spielchen	spielen! {pause 20}Wie wär's? {pause 20}Ich nenne es	„Preisabsprache“.	{emote: Soft Smile}Ich hab hier vier Karten in vier	verschiedenen Farben mit vier	verschiedenen Preisen drauf.	{emote: Delight}Das Einzige, was du tun musst,	ist, eine davon zu wählen.{Wait for input}{emote: Soft Smile}{0007-000d-0000}Mit etwas Glück kannst du	richtig viele Sternis von mir	abstauben!	{pause 20}Na, {pause 10}hast du Lust, es zu probieren?{Player can respond (0005):0007-0015-0002-0028}	Au ja!	Keine Lust.
+"002"	{0009-0002-0008-0008-0009-000a-000b}
+"003"	{emote: Glee}{Blue}{Number (0x9)} Sternis{Color Reset}! {pause 20}Supercool!{Wait for input}	{emote: Thought}Also, {pause 10}für mich zumindest.	{pause 20}Für dich ja eher weniger...	{emote: Delight}Dann rück das gute Stück mal raus!
+"004"	{emote: Surprise}{Number (0x9)} Sternis! {pause 20}Da hab ich's ja ganz	gut erwischt, würd ich sagen!	{pause 20}{emote: Laughter}Hahaha! {pause 20}{emote: Soft Smile}Tut mir leid!	Hier hast du deine {Blue}{Number (0x9)} Sternis{Color Reset}!
+"005"	{emote: Distress}Wow! {pause 20}{Number (0x9)} Sternis! {pause 20}Okay, {pause 10}das ist	jetzt eher uncool für mich. {pause 20}{emote: Sigh}Aber	versprochen ist versprochen.	{emote: Sheepishness}Hier hast du deine {Blue}{Number (0x9)} Sternis{Color Reset}.
+"006"	{emote: Distress}Neiiiin! {pause 20}Du hast {Number (0x9)} Sternis	gezogen! {pause 20}{emote: Aggravation}Du hast doch bestimmt	getrickst, oder?	{emote: Resigned}Tja, {pause 10}Geschäft ist Geschäft, {pause 10}was?	{pause 20}{emote: Sheepishness}Hier hast du deine {Blue}{Number (0x9)} Sternis{Color Reset},	{pause 10}wie versprochen!
+"007"	{emote: Delight}Das ist die richtige Einstellung!{Wait for input}	Okay, {pause 10}Zeit, eine Karte auszuwählen!{Wait for input}{emote: Shyness}Du darfst aber nicht sauer werden,	auch wenn du eine mit einem nied-	rigen Preis ziehen solltest!{0008-0002-0010-000c-0000-000d-0000-000e-0000-000f-0000}	Gib mir Rot!	Blau soll's sein!	Ganz klar Gelb!	Ich nehm Grün!
+"008"	{emote: Resigned}Tja, {pause 10}dein Pech! {pause 20}Aber zu deiner Info,	{pause 10}{emote: Glare}auf der roten Karte standen {Blue}{Number (0x9)}	Sternis{Color Reset} drauf!	Vielleicht können wir ja irgendwann	noch mal spielen...
+"009"	{emote: Resigned}Tja, {pause 10}dein Pech! {pause 20}Aber zu deiner Info,	{pause 10}{emote: Glare}auf der blauen Karte standen {Blue}{Number (0x9)}	Sternis{Color Reset} drauf!	Vielleicht können wir ja ein	andermal weiterspielen...
+"010"	{emote: Resigned}Tja, {pause 10}dein Pech! {pause 20}Aber zu deiner Info,	{pause 10}{emote: Glare}auf der gelben Karte standen {Blue}{Number (0x9)}	Sternis{Color Reset} drauf!	Vielleicht können wir ja irgendwann	noch mal spielen...
+"011"	{emote: Resigned}Tja, {pause 10}dein Pech! {pause 20}Aber zu deiner Info,	{pause 10}{emote: Glare}auf der grünen Karte standen {Blue}{Number (0x9)}	Sternis{Color Reset} drauf!	Vielleicht können wir ja ein	andermal weiterspielen...
+"012"	{emote: Happiness}Bereit für die große Enthüllung?!	{pause 20}{emote: Sheepishness}Der Preis auf der roten Karte	lautet...{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"013"	{emote: Happiness}Bereit für die große Enthüllung?!	{pause 20}{emote: Sheepishness}Der Preis auf der blauen Karte	lautet...{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"014"	{emote: Happiness}Bereit für die große Enthüllung?!	{pause 20}{emote: Sheepishness}Der Preis auf der gelben Karte	lautet...{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"015"	{emote: Happiness}Bereit für die große Enthüllung?!	{pause 20}{emote: Sheepishness}Der Preis auf der grünen Karte	lautet...{0009-0006-0010-0003-0004-0004-0004-0005-0005-0005-0006}
+"016"	{emote: Glee}Juhuuu, das war das absolute	Oberschnäppchen! {pause 20}Schmoll jetzt	aber nicht! {pause 20}Es ist ja nur ein Spiel!	{emote: Sunny}Lass uns das irgendwann noch mal	spielen, {pause 10}ja?
+"017"	{emote: Glare}Hui! {pause 20}Das war jetzt nicht so toll	für dich, {pause 10}was?{pause 30} {emote: Resigned}Na ja, so was	passiert eben manchmal!
+"018"	{emote: Resigned}Du hast so was von Glück gehabt!	{pause 20}{emote: Mischief}Wart's ab, {pause 10}irgendwann werd ich's	dir schon heimzahlen... {pause 20}{emote: Laughter}Wahahaha!	{emote: Happiness}Lass uns bald mal wieder spielen!
+"019"	{emote: Resigned}Ich hoff ja, dass mal etwas von	deinem unverschämten Glück auf	mich abfärbt, {pause 10}{catchphrase}!

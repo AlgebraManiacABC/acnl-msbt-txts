@@ -1,325 +1,325 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	OK, {pause 8}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Soft Smile}
-"006"	{emote: Happiness}
-"007"	{emote: Worry}
-"008"	{emote: Surprise}
-"009"	{emote: Soft Smile}
-"010"	{emote: Happiness}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Soft Smile}
-"013"	{emote: Soft Smile}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Soft Smile}
-"016"	{emote: Soft Smile}
-"017"	{emote: Soft Smile}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	{emote: Soft Smile}
-"020"	{emote: Soft Smile}
-"021"	{0009-0000-0004-16-00-17-00}
-"022"	{emote: Soft Smile}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
-"025"	{0009-0000-0004-1a-00-1b-00}
-"026"	{emote: Soft Smile}
-"027"	{emote: Soft Smile}
-"028"	{0009-0000-0004-1d-00-1e-00}
-"029"	{emote: Soft Smile}
-"030"	{emote: Soft Smile}
-"031"	{emote: Soft Smile}
-"032"	{0009-0000-0004-21-00-22-00}
-"033"	{emote: Soft Smile}
-"034"	{emote: Soft Smile}
-"035"	{0009-0000-0004-24-00-25-00}
-"036"	{emote: Soft Smile}
-"037"	{emote: Soft Smile}
-"038"	{emote: Soft Smile}
-"039"	{0009-0000-0004-28-00-29-00}
-"040"	{emote: Soft Smile}
-"041"	{emote: Soft Smile}
-"042"	{0009-0000-0004-2b-00-2c-00}
-"043"	{emote: Soft Smile}
-"044"	{emote: Soft Smile}
-"045"	{emote: Soft Smile}
-"046"	{0009-0000-0004-2f-00-30-00}
-"047"	{emote: Soft Smile}
-"048"	{emote: Soft Smile}
-"049"	{0009-0000-0004-32-00-33-00}
-"050"	{emote: Soft Smile}
-"051"	{emote: Soft Smile}
-"052"	{emote: Soft Smile}
-"053"	{0009-0006-0010-36-00-36-00-36-00-36-00-36-00-36-00-36-00-37-00}
-"054"	{emote: Soft Smile}
-"055"	{emote: Soft Smile}
-"056"	{0009-0006-0010-39-00-39-00-39-00-39-00-39-00-39-00-39-00-3a-00}
-"057"	{emote: Soft Smile}
-"058"	{emote: Soft Smile}
-"059"	{0009-0002-0008-04-00-05-00-05-00-05-00}
-"060"	{emote: Happiness}
-"061"	{emote: Happiness}
-"062"	{emote: Happiness}
-"063"	{emote: Happiness}
-"064"	{emote: Happiness}
+"001"	{emote: Curious}Do you wanna play a game of High	Card, Low Card to set the price	of my {0011-0003-0002-0000}?	{emote: Happiness}I'm willing to sell it, but only if	you're up for the game.{Wait for input}{emote: Glee}If you're lucky,{pause 8} you might even get	it for a really good deal!{Wait for input}{emote: Mischief}However, if you lose, you'll have to	pay the price,{pause 8} quite literally!{Wait for input}	{0007-000d-0000}{emote: Happiness}Wanna try your luck?!{Player can respond (0005):0008-0015-0002-0028}	Let's do this!	Not right now.
+"002"	OK, {pause 8}I understand!{pause 20} {emote: Soft Smile}Maybe next time	you'll be brave enough to go along	with my fun idea. Oh well!
+"003"	{emote: Distress}Wha...{pause 15} Are you kidding me?!{pause 20} {emote: Worry}I never	in a million years thought you'd get	it right 3 times in a row{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}Did you use up all the luck you had	or something, just to win the game?{pause 20}	{emote: Laughter}GAHAHA!{pause 30} I would too!{emote: Happiness}{Wait for input}Well,{pause 8} a promise is a promise!{pause 20}	You can have it for free.{pause 15} Take it!
+"004"	{emote: Happiness}Well,{pause 8} even getting it right twice	deserves something special.{pause 8}	I'll let you have it for {Blue}{Number (0x9)} Bells{Color Reset}!	{emote: Worry}That's gonna put me pretty deep in	the red, but {emote: Happiness}I had a good time, so	take it! Enjoy yourself a little!
+"005"	{emote: Soft Smile}Since you got 2 right, I'll give you	a little discount.{pause 15} You can have it for	an unbelievable {Blue}{Number (0x9)} Bells{Color Reset}!	{emote: Happiness}That's not a bad deal, if I do say so	myself, and I do.{pause 15} Take it!
+"006"	{emote: Happiness}You got 1 right, but a loss is still	a loss!{pause 20} You've gotta pay me a total	of {Blue}{Number (0x9)} Bells{Color Reset}.{pause 15} So here ya go!
+"007"	{emote: Worry}Man, guessing wrong 3 times in	a row? That's horrible luck!{Wait for input}{emote: Happiness}I feel a little bad about this, but	it's gonna cost you {Blue}{Number (0x9)} Bells{Color Reset}!{pause 15}	Here ya go! Enjoy!
+"008"	{emote: Surprise}Oh!{pause 15} You're game, huh?!{pause 20} {emote: Happiness}Then{pause 8} should	I explain the rules first?{Player can respond (0005):0009-0015-000a-0028}	In detail, please.	Nah, don't need 'em.
+"009"	{emote: Soft Smile}Here are the rules then...{Wait for input}{emote: Reset}I've got nine cards with the numbers	1 through 9 written on them.{Wait for input}I'll shuffle them up real good, and	then I'll pick one out at random{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}You're gonna guess if the number	on the card is higher or lower than	5. That's it! That simple!	{emote: Reset}Afterward, I'll put the card back in	the mix and shuffle them up again{pause 8}.{pause 8}.{pause 8}.{pause 15}{Wait for input}We'll do that 3 times. {emote: Alarmed}What?{pause 15}	You wanna know what happens if	the card is a 5?	{emote: Reset}If I draw a 5, we'll just redo that	round, that's what!{Wait for input}{emote: Glee}If you can guess right 3 times in	a row,{pause 8} I'll let you have the item for	absolutely free!{pause 20}	{emote: Happiness}Whaddya think of them apples?{pause 15}	Aren't I generous? I really am!{Wait for input}{emote: Reset}.{pause 8}.{pause 8}.{pause 8}Well,{pause 8} I think that's all you need to	know before we begin.
+"010"	{emote: Happiness}Great. Let's get started with the	first card!{Wait for input} {emote: Reset}I'll just pick one out{pause 8}.{pause 8}.{pause 8}.{Wait for input}All right, is this card higher or lower	{emote: Anger}than 5?!{Player can respond (0000):000b-0000-000e-0000}	Higher.	Lower.
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Soft Smile}So you think it's higher than 5?{pause 20}	Well,{pause 8} the number on the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Hey,{pause 8} you got it right!{pause 15} Way to go!{Wait for input}{emote: Reset}But {pause 8}don't celebrate just yet{pause 8}.{pause 8}.{pause 8}.
+"013"	{emote: Soft Smile}So you think it's higher than 5?{pause 20}	Well,{pause 8} the number on the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Heh heh.{pause 8} Off to a bad start!{pause 15}	Shake it off! Shake it off!{Wait for input}{emote: Reset}Gather your wits for the next one{pause 8}.{pause 8}.{pause 8}.
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Soft Smile}So you think it's lower than 5?{pause 20}	Well, {pause 8}the number on the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Hey,{pause 8} you got it right!{pause 15} Way to go!{Wait for input}{emote: Reset}But {pause 8}don't start celebrating yet{pause 8}.{pause 8}.{pause 8}.
+"016"	{emote: Soft Smile}So you think it's lower than 5?{pause 20}	Well, {pause 8}the number on the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Heh heh.{pause 8} Off to a bad start!{pause 15}	Shake it off! Shake it off!{Wait for input}{emote: Reset}Gather your wits and get ready{pause 8}.{pause 8}.{pause 8}.
+"017"	{emote: Soft Smile}On to the second card!{Wait for input}{emote: Reset}I'll put the other card back first{pause 8}.{pause 8}.{pause 8}.{pause 8}{pause 8}	Now I'll pick out a new card{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}All right, do you think this card is	higher or lower {emote: Anger}than 5?!{Player can respond (0000):0012-0000-0015-0000}	Higher.	Lower.
+"018"	{0009-0000-0004-0013-0014}
+"019"	{emote: Soft Smile}So you're going with higher than 5,	are you?{pause 20} The actual number on the	card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Happiness}You did it again!{pause 15} Luck must be on	your side today!{Wait for input}{emote: Agreement}But{pause 8} Lady Luck is a fickle gal{pause 8}.{pause 8}.{pause 8}.
+"020"	{emote: Soft Smile}So you're going with higher than 5,	are you?!{pause 20} The actual number on the	card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Happiness}Awww,{pause 15} no luck this time, huh?{pause 15}	That's how the cookie crumbles	sometimes, isn't it?{Wait for input}{emote: Mischief}This makes it 1 win, 1 loss{pause 8}.{pause 8}.{pause 8}.
+"021"	{0009-0000-0004-0016-0017}
+"022"	{emote: Soft Smile}So you're really going with lower	than 5?{pause 20} The actual number on the	card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Happiness}You did it again!{pause 15} Luck must be on	your side today!{Wait for input}{emote: Agreement}But{pause 8} Lady Luck is a fickle old gal{pause 8}.{pause 8}.{pause 8}.
+"023"	{emote: Soft Smile}So you're going with lower than 5,	are you?{pause 20} The actual number on the	card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Happiness}Awww,{pause 15} no luck this time, huh?!{pause 15}	Ya can't win 'em all, I guess!{Wait for input}{emote: Mischief}This makes it 1 win, 1 loss{pause 8}.{pause 8}.{pause 8}.
+"024"	{emote: Soft Smile}On to the second card!{Wait for input}{emote: Reset}Let me put the first card back{pause 8}.{pause 8}.{pause 8}.{pause 8}	{pause 8}Then pick out a new card{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}All right, do you think this new	card is higher or lower {emote: Anger}than 5?!{Player can respond (0000):0019-0000-001c-0000}	Higher.	Lower.
+"025"	{0009-0000-0004-001a-001b}
+"026"	{emote: Soft Smile}So you're going with higher than 5,	are you?{pause 20} Well, the card I drew here	says{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Happiness}Hey, you got it right this time!{pause 15}	That makes 1 win, 1 loss{pause 8}.{pause 8}.{pause 8}.
+"027"	{emote: Soft Smile}So you're going with higher than 5	this time?{pause 20} Well, {pause 8}the card I drew	says{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Worry}Awww, wrong again{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Happiness}Lady Luck is	showing you no favors!{Wait for input}But{pause 8} don't give up hope just yet{pause 8}.{pause 8}.{pause 8}.
+"028"	{0009-0000-0004-001d-001e}
+"029"	{emote: Soft Smile}So you're going with lower than 5?{pause 20}	Well, {pause 8}the card I drew says{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Hey, you got it right this time!{pause 15}	That makes 1 win, 1 loss{pause 8}.{pause 8}.{pause 8}.
+"030"	{emote: Soft Smile}So you're going with lower than 5?{pause 20}	Well, {pause 8}the card I drew says{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Worry}Awww,{pause 8} wrong again{pause 8}.{pause 8}.{pause 8}.{pause 15} You aren't	getting any favors from {emote: Happiness}Lady Luck!{Wait for input}But{pause 8} don't give up hope too soon{pause 8}.{pause 8}.{pause 8}.
+"031"	{emote: Soft Smile}We're on to card three!{Wait for input}{emote: Reset}I'll put the other card back and mix	them up real good.{pause 8} Then I'll pick out	one last{pause 8} card{pause 8}.{pause 8}.{pause 8}.	Will you guess right again? This is	the very last card!{pause 15} Do you think it's	higher or lower {emote: Anger}than 5?!{Player can respond (0000):0020-0000-0023-0000}	Higher!	Lower!
+"032"	{0009-0000-0004-0021-0022}
+"033"	{emote: Soft Smile}So{pause 8} higher than 5, huh?{pause 20} Well,{pause 8} the	number on the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Shocked}Whoa!{pause 8} You guessed right AGAIN!
+"034"	{emote: Soft Smile}So{pause 8} higher than 5, huh?{pause 20} Well,{pause 8} the	number on the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Resigned}Awww,{pause 8} that's a miss!{pause 15} Ya had me	scared for a minute.{pause 8} Geesh!
+"035"	{0009-0000-0004-0024-0025}
+"036"	{emote: Soft Smile}So{pause 8} lower than 5, huh?{pause 20} Well,{pause 8} the	number on the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Shocked}Whoa!{pause 8} You guessed right! AGAIN!
+"037"	{emote: Soft Smile}So{pause 8} lower than 5, huh?{pause 20} Well,{pause 8} the	number on the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Resigned}Awww,{pause 8} that's a miss!{pause 15} Ya had me	scared for a minute.{pause 8} Geesh!
+"038"	{emote: Soft Smile}We're on to card three!{Wait for input}{emote: Reset}I'll put the other card back and mix	them up real good.{pause 8} Then I'll pick out	one final card{pause 8}.{pause 8}.{pause 8}.	Laugh or cry, but this is the very	last card!{pause 15} Do you think it's higher or	lower {emote: Anger}than 5?!{Player can respond (0000):0027-0000-002a-0000}	Higher!	Lower!
+"039"	{0009-0000-0004-0028-0029}
+"040"	{emote: Soft Smile}So you're locked in with higher	than 5?{pause 20} Well,{pause 8} the number on the	card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Happiness}Hey,{pause 8} you guessed right!{pause 15} That makes	2 wins and 1 loss! Not too shabby!
+"041"	{emote: Soft Smile}So you're locked in with higher	than 5?{pause 20} Well,{pause 8} the number on the	card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Worry}Hmmm.{pause 8} Another miss, huh?{pause 15} {emote: Happiness}I guess	that means you only got the first	one right{pause 8}.{pause 8}.{pause 8}.
+"042"	{0009-0000-0004-002b-002c}
+"043"	{emote: Soft Smile}So you're locked in with lower than	5, are you?{pause 20} Well,{pause 8} the number on the	card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Happiness}Hey,{pause 8} you guessed right!{pause 15} That makes	2 wins and 1 loss. Not too bad!
+"044"	{emote: Soft Smile}So you're locked in with lower than	5, are you?{pause 20} Well,{pause 8} the number on the	card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Worry}Hmmm.{pause 8} Another miss, huh?{pause 15} {emote: Happiness}I guess	that means you only got the first	one right{pause 8}.{pause 8}.{pause 8}.
+"045"	{emote: Soft Smile}We're on to card three!{Wait for input}{emote: Reset}I'll put the other card back and mix	them up really good this time.{pause 8}	Then I'll just pick out one{pause 8} card{pause 8}.{pause 8}.{pause 8}.	Laugh or cry, this is the last card!{pause 15}	Do you think it's higher or lower	{emote: Anger}than 5?!{Player can respond (0000):002e-0000-0031-0000}	Higher!	Lower!
+"046"	{0009-0000-0004-002f-0030}
+"047"	{emote: Soft Smile}So you're locked in with higher	than 5, huh?{pause 20} Well,{pause 8} the number on	the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Happiness}Hey,{pause 8} you guessed right!{pause 15} That makes	2 wins and 1 loss! Not bad!
+"048"	{emote: Soft Smile}So you're locked in with higher	than 5, huh?{pause 20} Well,{pause 8} the number on	the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Worry}Hmmm.{pause 8} That's another miss!{pause 15} {emote: Happiness}I guess	that means you lost more than you	won this game{pause 8}.{pause 8}.{pause 8}.
+"049"	{0009-0000-0004-0032-0033}
+"050"	{emote: Soft Smile}So you're locked in with lower than	5, is that right?{pause 20} Well,{pause 8} the number	on the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Happiness}Hey,{pause 8} you guessed right!{pause 15} That makes	2 wins and 1 loss!
+"051"	{emote: Soft Smile}So you're locked in with lower than	5, is that right?{pause 20} Well,{pause 8} the number	on the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Worry}Hmmm.{pause 8} Another miss, huh?{pause 15} {emote: Happiness}I guess	that means you lost more than you	won this game{pause 8}.{pause 8}.{pause 8}.
+"052"	{emote: Soft Smile}We're on to card number three!{Wait for input}{emote: Reset}First I need to return the other card	to the pile, then mix 'em up good.{pause 8}	Finally, I'll pick out one last card{pause 8}.{pause 8}.{pause 8}.	{emote: Mischief}It's gonna really hurt if you get this	one wrong too!{Wait for input}{emote: Reset}So let's hear it! Is it higher or lower	{emote: Anger}than 5?!{Player can respond (0000):0035-0000-0038-0000}	Hnnng... Higher!	Gnnnn... Lower!
+"053"	{0009-0006-0010-0036-0036-0036-0036-0036-0036-0036-0037}
+"054"	{emote: Soft Smile}You're really all right with higher	than 5, are you?{pause 20} Well,{pause 8} the number	on the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Sigh}Whew.{pause 8} You finally got one right!{pause 15}	{emote: Happiness}You managed to escape from a	complete and utter loss there!
+"055"	{emote: Soft Smile}You really all right with higher than	5 on this?{pause 20} Well,{pause 8} the number on the	card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Shocked}Whoa!{pause 8} Another loss!{pause 15} That's 3 in a	row!{pause 20} {emote: Worry}You're totally done for!
+"056"	{0009-0006-0010-0039-0039-0039-0039-0039-0039-0039-003a}
+"057"	{emote: Soft Smile}You really all right with lower than	5 for your final guess?{pause 20} Well,{pause 8} the	number on the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Sigh}Whew.{pause 8} You finally got one!{pause 15} Close!	{emote: Happiness}You managed to escape from a	complete and total loss!
+"058"	{emote: Soft Smile}You really all right with lower than	5 for your last card?{pause 20} Well,{pause 8} the	number on the card is{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired}{Number (0x6)}!	{emote: Shocked}Whoa!{pause 8} Another loss!{pause 15} That's 3 in a	row!{pause 20} {emote: Worry}You're completely done for!
+"059"	{0009-0002-0008-0004-0005-0005-0005}
+"060"	{emote: Happiness}Unfortunately I lost, but I did have a	lot of fun!{pause 20} You'll have to play with	me again sometime,{pause 20} {catchphrase}!
+"061"	{emote: Happiness}If you're ever free again,{pause 8} join me for	another round,{pause 20} {catchphrase}!
+"062"	{emote: Happiness}That was pretty fun!{pause 15} Play again	with me sometime,{pause 20} {catchphrase}!
+"063"	{emote: Happiness}Well,{pause 8} don't hold a grudge.{pause 15} Just try	again another time!{pause 20} {capitalized}{catchphrase}!
+"064"	{emote: Happiness}Remember, don't hate the player,	hate the game!{pause 8} We'll have to play	again sometime,{pause 20} {catchphrase}!
 == 1 ==
-"001"	{emote: Curious}
-"002"	Ah, {pause 8}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Soft Smile}
-"006"	{emote: Happiness}
-"007"	{emote: Worry}
-"008"	{emote: Surprise}
-"009"	{emote: Soft Smile}
-"010"	{emote: Happiness}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Soft Smile}
-"013"	{emote: Soft Smile}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Soft Smile}
-"016"	{emote: Soft Smile}
-"017"	{emote: Soft Smile}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	{emote: Soft Smile}
-"020"	{emote: Soft Smile}
-"021"	{0009-0000-0004-16-00-17-00}
-"022"	{emote: Soft Smile}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
-"025"	{0009-0000-0004-1a-00-1b-00}
-"026"	{emote: Soft Smile}
-"027"	{emote: Soft Smile}
-"028"	{0009-0000-0004-1d-00-1e-00}
-"029"	{emote: Soft Smile}
-"030"	{emote: Soft Smile}
-"031"	{emote: Soft Smile}
-"032"	{0009-0000-0004-21-00-22-00}
-"033"	{emote: Soft Smile}
-"034"	{emote: Soft Smile}
-"035"	{0009-0000-0004-24-00-25-00}
-"036"	{emote: Soft Smile}
-"037"	{emote: Soft Smile}
-"038"	{emote: Soft Smile}
-"039"	{0009-0000-0004-28-00-29-00}
-"040"	{emote: Soft Smile}
-"041"	{emote: Soft Smile}
-"042"	{0009-0000-0004-2b-00-2c-00}
-"043"	{emote: Soft Smile}
-"044"	{emote: Soft Smile}
-"045"	{emote: Soft Smile}
-"046"	{0009-0000-0004-2f-00-30-00}
-"047"	{emote: Soft Smile}
-"048"	{emote: Soft Smile}
-"049"	{0009-0000-0004-32-00-33-00}
-"050"	{emote: Soft Smile}
-"051"	{emote: Soft Smile}
-"052"	{emote: Soft Smile}
-"053"	{0009-0006-0010-36-00-36-00-36-00-36-00-36-00-36-00-36-00-37-00}
-"054"	{emote: Soft Smile}
-"055"	{emote: Soft Smile}
-"056"	{0009-0006-0010-39-00-39-00-39-00-39-00-39-00-39-00-39-00-3a-00}
-"057"	{emote: Soft Smile}
-"058"	{emote: Soft Smile}
-"059"	{0009-0002-0008-04-00-05-00-05-00-05-00}
-"060"	{emote: Happiness}
-"061"	{emote: Happiness}
-"062"	{emote: Happiness}
-"063"	{emote: Happiness}
-"064"	{emote: Happiness}
+"001"	{emote: Curious}¿Quieres jugar al {Blue}Juego de más alto	o más bajo{Color Reset} para decidir el precio	de mi {0011-0003-0002-0000}?	{emote: Happiness}Te l{000e-0012-000c-0010-0002-006f-0002-0061-0000} vendo solo si jugamos.{Wait for input}{emote: Glee}Si tienes suerte,{pause 8} te podría salir	muy bien de precio.{Wait for input}{emote: Mischief}Pero si pierdes,{pause 8} lo vas a pagar.{pause 30}	¡Literalmente!{Wait for input}	{0007-000d-0000}{emote: Happiness}¿Quieres probar suerte?{Player can respond (0005):0008-0015-0002-0028}	¡Vamos!	Ahora no...
+"002"	Ah, {pause 8}ya veo.{pause 20} {emote: Soft Smile}Los jóvenes de	hoy no os sabéis divertir.{pause 20}	¡Quizá la próxima vez!
+"003"	{emote: Distress}Qué...{pause 15} ¿Me estás tomando el pelo?{pause 20}	{emote: Worry}¡En la vida se me habría pasado por	la cabeza que acertarías tres veces!	{emote: Happiness}¿Cómo lo has hecho?{pause 20} ¿Has juntado	toda tu suerte y la has gastado de	golpe?{pause 20} {emote: Laughter}¡Ja, ja, ja!{pause 30} ¡Buen plan!{emote: Happiness}{Wait for input}Bueno,{pause 8} lo prometido es deuda.{pause 20}	No te cobro ni media baya.{pause 15}	¡De gorra,{pause 4} para ti!
+"004"	{emote: Happiness}Bueno,{pause 8} acertar dos veces también	tiene su mérito.{pause 20} Venga,{pause 8}	te lo dejo en {Blue}{Number (0x9)} bayas{Color Reset}.	{emote: Worry}Salgo perdiendo,{pause 8} pero me lo he	pasado bien,{pause 8} {emote: Happiness}¡y eso también cuenta!{pause 20}	¡Ahora disfruta tú!
+"005"	{emote: Soft Smile}Como has acertado dos veces,{pause 8}	te voy a ofrecer un descuento.{pause 15}	¿Qué te parecen {Blue}{Number (0x9)} bayas{Color Reset}?	{emote: Happiness}Si quieres mi opinión,{pause 8} es una ganga.{pause 30}	Y si no la quieres,{pause 8} es una ganga	igual.{pause 15} ¡No te lo pienses!
+"006"	{emote: Happiness}Has acertado una vez, pero aun así	has perdido.{pause 20} Me tienes que pagar	{Blue}{Number (0x9)} bayas{Color Reset}.{pause 15} ¡Y aquí tienes!
+"007"	{emote: Worry}Pero{pause 8} ¿cómo te equivocas tres	veces seguidas?{pause 15} ¡Qué mala suerte!{Wait for input}{emote: Happiness}Me sabe mal, pero te va a costar	{Blue}{Number (0x9)} bayas{Color Reset}.{pause 15} ¡Toma esto y que	lo disfrutes!
+"008"	{emote: Surprise}¡Ah!{pause 15} Te animas, ¿eh?{pause 20} {emote: Happiness}¿Hace falta	que te explique las reglas?{Player can respond (0005):0009-0015-000a-0028}	Con todo detalle	¡Bah, al grano!
+"009"	{emote: Soft Smile}Pues la cosa funciona tal que así...{Wait for input}{emote: Reset}Yo tengo nueve tarjetas numeradas	del 1 al 9.{Wait for input}Las barajo y cojo una al azar{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}Tú tienes que adivinar si el número	que tengo está por encima o por	debajo de 5.{pause 20} ¡Así de simple!	{emote: Reset}Luego vuelvo a barajarlas todas{pause 8}.{pause 8}.{pause 8}.{pause 8}	y repetimos. Y así hasta tres veces.{Wait for input}{emote: Alarmed}¡Espera!{pause 15} ¿Y si saco justo el 5?{pause 15}	{emote: Reset}¡No pasa nada!{pause 8} Barajo y repito.{Wait for input}{emote: Glee}Si aciertas tres veces seguidas,{pause 8}	¡no te cobraré ni una baya!{pause 20}	{emote: Happiness}¿Qué te parece?{pause 15} Generoso,{pause 4} ¿no?	{emote: Reset}Y{pause 4}.{pause 4}.{pause 4}.{pause 4} ya está,{pause 8} ya no hay más reglas.	¡Vamos a empezar!
+"010"	{emote: Happiness}Muy bien. ¡Primera tarjeta!{Wait for input}	{emote: Reset}A ver qué sale{pause 8}.{pause 8}.{pause 8}.{Wait for input}Vale, ¿el número es más alto	{emote: Anger}o más bajo que 5?{Player can respond (0000):000b-0000-000e-0000}	¡Más alto!	¡Más bajo!
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Soft Smile}¿Crees que es más de 5?{pause 20}	Pues es un{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}¡{Number (0x6)}!{Wait for input}{emote: Happiness}¡Eh,{pause 8} has acertado!{pause 15} ¡Buen trabajo!{Wait for input}{emote: Reset}Peeero {pause 8}no empieces a celebrarlo	todavía{pause 8}.{pause 8}.{pause 8}.
+"013"	{emote: Soft Smile}¿Crees que la tarjeta va a ser más	alta que 5?{pause 20}{Wait for input}Pues es exactamente{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}¡un {Number (0x6)}!{Wait for input}{emote: Happiness}Je.{pause 8} ¡Mal empiezas!{pause 15} {emote: Reset}Vamos a ver	si la siguiente es la tuya{pause 8}.{pause 8}.{pause 8}.
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Soft Smile}¿Crees que va a salir menor de 5?{pause 20}	Pues te lo digo. {pause 8}El número de la	tarjeta es el{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}¡{Number (0x6)}!{Wait for input}{emote: Happiness}Caramba,{pause 8} ¡has acertado!{pause 15} ¡Sigue así!{Wait for input}{emote: Reset}Pero no te emociones tan pronto{pause 8}.{pause 8}.{pause 8}.
+"016"	{emote: Soft Smile}¿Menor que 5, dices?{pause 20}	Pues a ver qué dice la tarjeta{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}¡{Number (0x6)}!{Wait for input}{emote: Happiness}Je.{pause 8} ¡Salida en falso!{pause 15}	{emote: Reset}Vamos, esto tiene que remontar{pause 8}.{pause 8}.{pause 8}.
+"017"	{emote: Soft Smile}¡Segunda tarjeta!{Wait for input}{emote: Reset}A ver, primero barajo la primera{pause 8}.{pause 8}.{pause 8}.{pause 8}{pause 8}	Ahora cojo otra{pause 8}.{pause 8}.{pause 8}.{pause 8} ¡Me siento como	un presentador de la tele!{Wait for input}Vale, ¿y ahora? {emote: Anger}¿Crees que saldrá	un número más alto o más bajo	que 5?{Player can respond (0000):0012-0000-0015-0000}	¡Más alto!	¡Más bajo!
+"018"	{0009-0000-0004-0013-0014}
+"019"	{emote: Soft Smile}¿Mayor, entonces?{pause 20} Pues vamos	a ver{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡Un {Number (0x6)}!{Wait for input}{emote: Happiness}¡Lo has vuelto a hacer!{pause 15}	¡Estás en racha!{Wait for input}{emote: Agreement}Habrá que ver si la fortuna	te sonríe por tercera vez{pause 8}.{pause 8}.{pause 8}.
+"020"	{emote: Soft Smile}¿Crees que va a ser mayor que 5?{pause 20}	Pues la tarjeta dice que es{pause 8}.{pause 8}.{pause 8}.{Wait for input} ¡un {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Oooh,{pause 15} esta vez no ha habido suerte.{pause 15}	Qué mala pata, ¿no?{Wait for input}{emote: Mischief}Por ahora llevas una y una{pause 8}.{pause 8}.{pause 8}.
+"021"	{0009-0000-0004-0016-0017}
+"022"	{emote: Soft Smile}Pues tú dices menor que 5{pause 8}.{pause 8}.{pause 8}.{pause 8}	y la tarjeta dice{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡{Number (0x6)}!{Wait for input}{emote: Happiness}¡Lo has vuelto a hacer!{pause 15}	¡Hoy es tu día de suerte!{Wait for input}{emote: Agreement}Veremos si eres capaz de mantener	la racha{pause 8}.{pause 8}.{pause 8}.
+"023"	{emote: Soft Smile}Tú dices menor que 5, pero vamos	a ver si la tarjeta está de acuerdo	contigo, ¿no?	Es{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡un {Number (0x6)}!	{emote: Happiness}Vayaaa,{pause 15} no hubo suerte.{pause 15}	¡No se puede ganar siempre!{Wait for input}{emote: Mischief}Eso te deja con un acierto	y un fallo{pause 8}.{pause 8}.{pause 8}.
+"024"	{emote: Soft Smile}¡Segunda tarjeta!{Wait for input}{emote: Reset}Primero devuelvo al mazo la	primera y barajo de nuevo{pause 8}.{pause 8}.{pause 8}.{pause 8}	Ahora cojo otra carta{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}Listo, {emote: Anger}¿crees que ha salido un	número más alto o más bajo que 5?{Player can respond (0000):0019-0000-001c-0000}	¡Más alto!	¡Más bajo!
+"025"	{0009-0000-0004-001a-001b}
+"026"	{emote: Soft Smile}Tú dices que es mayor que 5,	¡pero a ver lo que dice la tarjeta!{Wait for input}Pues ha salido un{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡{Number (0x6)}!	{emote: Happiness}¡Eh, esta vez has acertado!{pause 15}	Llevas un acierto y un fallo.
+"027"	{emote: Soft Smile}¿Crees que esta es mayor que 5?{pause 20}	No sé qué opinará la tarjeta	de esto{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡porque es un {Number (0x6)}!	{emote: Worry}Lo siento, has fallado otra vez{pause 8}.{pause 8}.{pause 8}.{pause 8}	{emote: Happiness}La fortuna te está siendo esquiva.{Wait for input}¡Pero no te rindas!	Te queda un intento{pause 8}.{pause 8}.{pause 8}.
+"028"	{0009-0000-0004-001d-001e}
+"029"	{emote: Soft Smile}Crees que será menor que 5, ¿no?{pause 20}	Y la tarjeta tiene un{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡{Number (0x6)}!{Wait for input}{emote: Happiness}¡Eh, esta vez sí has acertado!{pause 15}	Llevas una y una{pause 8}.{pause 8}.{pause 8}.
+"030"	{emote: Soft Smile}Menor que 5.{pause 20} A ver si es verdad.{pause 20}	Pues ha salido la tarjeta con el	número{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡{Number (0x6)}!{Wait for input}{emote: Worry}Nada,{pause 8} que no das una.{pause 15}	¿Has pisado un gato negro o algo?{Wait for input}No te rindas,{pause 8} que queda un intento{pause 8}.{pause 8}.{pause 8}.
+"031"	{emote: Soft Smile}¡Y vamos a por la última tarjeta!{Wait for input}{emote: Reset}Devuelvo esta y barajo a base	de bien.{pause 8} Y cojo otra{pause 8}.{pause 8}.{pause 8}.{Wait for input}¿Acertarás otra vez?	¡Esta es la última!{pause 15}	¿Más alto o más bajo que 5?{Player can respond (0000):0020-0000-0023-0000}	¡Más alto!	¡Más bajo!
+"032"	{0009-0000-0004-0021-0022}
+"033"	{emote: Soft Smile}Mayor, ¿no?{pause 20} Pues a ver,{pause 8}	la tarjeta tiene un{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}¡{Number (0x6)}!	{emote: Shocked}¡Hala!{pause 8} ¡Has vuelto a acertar!
+"034"	{emote: Soft Smile}Mayor, has dicho.{pause 20} Pues{pause 8} la tarjeta	es la número{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡{Number (0x6)}!{Wait for input}{emote: Resigned}Oooh,{pause 8} ¡has fallado!{pause 15}	¡Ya me estaba preocupando!
+"035"	{0009-0000-0004-0024-0025}
+"036"	{emote: Soft Smile}Menor, ¿no?{pause 20} Pues a ver, la tarjeta	muestra una cifra y es{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡un {Number (0x6)}!	{emote: Shocked}¡Qué tí{o/a},{pause 8} has acertado otra vez!
+"037"	{emote: Soft Smile}Menor que 5, ¿no?{pause 20} Pues a ver{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Inspired}¡La tarjeta tiene un {Number (0x6)}!{Wait for input}{emote: Resigned}Ay,{pause 8} ¡has fallado!{pause 15} Ya pensaba	que me ibas a ganar.
+"038"	{emote: Soft Smile}¡Llegamos a la tercera tarjeta!{Wait for input}{emote: Reset}Primero devuelvo la que he cogido	antes y las barajo todas de nuevo.{pause 20}	Ahora sí,{pause 8} cojo la última.	¡Esta es la definitiva!{pause 15} {emote: Anger}¿Va a salir un	número más alto o más bajo que 5?{Player can respond (0000):0027-0000-002a-0000}	¡Más alto!	¡Más bajo!
+"039"	{0009-0000-0004-0028-0029}
+"040"	{emote: Soft Smile}¿Te quedas con "más alto"?{pause 20}	Pues te lo voy a decir{pause 8}.{pause 8}.{pause 8}.{Wait for input}	{emote: Inspired}¡Es un {Number (0x6)}!{Wait for input}{emote: Happiness}¡Acertaste!{pause 15} Solo has fallado una vez,{pause 8}	¡no está nada mal!
+"041"	{emote: Soft Smile}¿Dices "más alto"?{pause 20} Y la tarjeta	dice{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}¡que es un {Number (0x6)}!{Wait for input}{emote: Worry}Vaya,{pause 8} otro fallo, ¿eh?{pause 15} {emote: Happiness}Entonces	solo has acertado la primera{pause 8}.{pause 8}.{pause 8}.
+"042"	{0009-0000-0004-002b-002c}
+"043"	{emote: Soft Smile}Te quedas con "más bajo", ¿eh?{pause 20}	A ver qué pone en la tarjeta{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡{Number (0x6)}!{Wait for input}{emote: Happiness}¡Pues has acertado!{pause 15} Y han sido dos	de tres,{pause 8} ¡no está mal!
+"044"	{emote: Soft Smile}Decides que es menor, ¿no?{pause 20}	Veamos{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡Un {Number (0x6)}!{Wait for input}Esto es otro fallo,{pause 8} me temo.{pause 15}	{emote: Happiness}Solo has acertado la primera vez.
+"045"	{emote: Soft Smile}¡Tarjeta número tres!{Wait for input}{emote: Reset}Que no digo que vaya a salir el 3,	sino que es la última que{pause 8}.{pause 8}.{pause 8}.{pause 20}	{emote: Aggravation}¡Tú me entiendes!{Wait for input}{emote: Reset}Como siempre,{pause 8} las vuelvo	a mezclar todas,{pause 8} barajo y	cojo una.{pause 15} ¡La definitiva!	¿Crees que el número será {emote: Anger}más alto	o más bajo que 5?{Player can respond (0000):002e-0000-0031-0000}	¡Más alto!	¡Más bajo!
+"046"	{0009-0000-0004-002f-0030}
+"047"	{emote: Soft Smile}Pues tú dices mayor y la tarjeta	dice{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡concretamente {Number (0x6)}!{Wait for input}{emote: Happiness}¡Otro acierto!{pause 15} Han sido dos de tres,	¡que no está mal!
+"048"	{emote: Soft Smile}Te quedas con "más alto",{pause 8} ¿no?{pause 20}	¿Y crees que habrás acertado?{pause 20}	Te lo voy a decir{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡Ha salido el {Number (0x6)}!	{emote: Worry}Vaya,{pause 8} otro fallo.{pause 15} {emote: Happiness}Este juego	se te da regular tirando a mal{pause 8}.{pause 8}.{pause 8}.
+"049"	{0009-0000-0004-0032-0033}
+"050"	{emote: Soft Smile}Venga, tú dices que es menor.{pause 20}	Y resulta que la tarjeta tiene	el número{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡{Number (0x6)}!	{emote: Happiness}¡Has dado en el clavo!{pause 15}	Total: ¡un fallo y dos aciertos!
+"051"	{emote: Soft Smile}Has dicho "más bajo" y ya	no te puedes echar atrás.{pause 20}	A ver la tarjeta{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}¡un {Number (0x6)}!{Wait for input}{emote: Worry}Nada,{pause 8} otra vez que no aciertas{pause 8}.{pause 8}.{pause 8}.{pause 15}	{emote: Happiness}Pues has fallado dos de tres.
+"052"	{emote: Soft Smile}Ya estamos en la tercera tarjeta.{Wait for input}{emote: Reset}Devuelvo la de antes, barajo bien{pause 8}.{pause 8}.{pause 8}.{pause 8}	y cojo la última. {emote: Mischief}¡No te equivoques	también esta vez!{Wait for input}{emote: Reset}Bueno, ¿qué me dices?{pause 20} ¿Va a salir	{emote: Anger}más alto o más bajo que 5?{Player can respond (0000):0035-0000-0038-0000}	¡Más alto, por favor!	¡Que sea más bajo!
+"053"	{0009-0006-0010-0036-0036-0036-0036-0036-0036-0036-0037}
+"054"	{emote: Soft Smile}¿Seguro que saldrá más alto?{pause 20}	Vamos a verlo{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡Es un {Number (0x6)}!{Wait for input}{emote: Sigh}Al fin,{pause 8} ¡has acertado uno!{pause 15}	{emote: Happiness}Por lo menos te has salvado	de una derrota total.
+"055"	{emote: Soft Smile}¿Seguro que este va a ser más alto?{pause 20}	A ver si es verdad{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡Un {Number (0x6)}!{Wait for input}{emote: Shocked}¡Pero bueno,{pause 8} has vuelto a fallar!{pause 15}	{emote: Worry}¡No has dado ni una!
+"056"	{0009-0006-0010-0039-0039-0039-0039-0039-0039-0039-003a}
+"057"	{emote: Soft Smile}¿Crees que va a ser menor que 5?{pause 20}	Vamos a ver si es verdad{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡Es el {Number (0x6)}!{Wait for input}{emote: Sigh}¡Menos mal!{pause 8} Por lo menos has	acertado el último.{pause 15} {emote: Happiness}Te has librado	de una humillación total y absoluta.
+"058"	{emote: Soft Smile}Conque menor, ¿eh?{pause 20} A ver,{pause 8}	la tarjeta tiene el número{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} ¡{Number (0x6)}!{Wait for input}{emote: Shocked}¿Cómo es posible?{pause 8} ¡Otro fallo!{pause 15}	¡Y ya van tres!{pause 20} {emote: Worry}No has dado ni una...
+"059"	{0009-0002-0008-0004-0005-0005-0005}
+"060"	{emote: Happiness}Me temo que me has ganado,{pause 8}	pero al menos ha sido entretenido.{pause 20}	Hay que repetirlo,{pause 12} {catchphrase}.
+"061"	{emote: Happiness}Cuando tengas tiempo,{pause 8} jugamos	la revancha,{pause 12} ¡{catchphrase}!
+"062"	{emote: Happiness}¡No ha estado nada mal!{pause 15}	Tienes que volver a jugar	conmigo, ¿eh?{pause 20} ¡{capitalized}{catchphrase}!
+"063"	{emote: Happiness}Espero que no me guardes rencor.{pause 20}	¡Tendrás que volver a intentarlo,{pause 12}	{catchphrase}!
+"064"	{emote: Happiness}Espero que lo hayas pasado bien y	que no me odies por haber ganado.{pause 8}	Quizá la próxima vez,{pause 10} {catchphrase}.
 == 2 ==
-"001"	{emote: Happiness}
-"002"	OK, {pause 8}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Soft Smile}
-"006"	{emote: Happiness}
-"007"	{emote: Worry}
-"008"	{emote: Surprise}
-"009"	{emote: Soft Smile}
-"010"	{emote: Happiness}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Soft Smile}
-"013"	{emote: Soft Smile}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Soft Smile}
-"016"	{emote: Soft Smile}
-"017"	{emote: Soft Smile}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	{emote: Soft Smile}
-"020"	{emote: Soft Smile}
-"021"	{0009-0000-0004-16-00-17-00}
-"022"	{emote: Soft Smile}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
-"025"	{0009-0000-0004-1a-00-1b-00}
-"026"	{emote: Soft Smile}
-"027"	{emote: Soft Smile}
-"028"	{0009-0000-0004-1d-00-1e-00}
-"029"	{emote: Soft Smile}
-"030"	{emote: Soft Smile}
-"031"	{emote: Soft Smile}
-"032"	{0009-0000-0004-21-00-22-00}
-"033"	{emote: Soft Smile}
-"034"	{emote: Soft Smile}
-"035"	{0009-0000-0004-24-00-25-00}
-"036"	{emote: Soft Smile}
-"037"	{emote: Soft Smile}
-"038"	{emote: Soft Smile}
-"039"	{0009-0000-0004-28-00-29-00}
-"040"	{emote: Soft Smile}
-"041"	{emote: Soft Smile}
-"042"	{0009-0000-0004-2b-00-2c-00}
-"043"	{emote: Soft Smile}
-"044"	{emote: Soft Smile}
-"045"	{emote: Soft Smile}
-"046"	{0009-0000-0004-2f-00-30-00}
-"047"	{emote: Soft Smile}
-"048"	{emote: Soft Smile}
-"049"	{0009-0000-0004-32-00-33-00}
-"050"	{emote: Soft Smile}
-"051"	{emote: Soft Smile}
-"052"	{emote: Soft Smile}
-"053"	{0009-0006-0010-36-00-36-00-36-00-36-00-36-00-36-00-36-00-37-00}
-"054"	{emote: Soft Smile}
-"055"	{emote: Soft Smile}
-"056"	{0009-0006-0010-39-00-39-00-39-00-39-00-39-00-39-00-39-00-3a-00}
-"057"	{emote: Soft Smile}
-"058"	{emote: Soft Smile}
-"059"	{0009-0002-0008-04-00-05-00-05-00-05-00}
-"060"	{emote: Happiness}
-"061"	{emote: Happiness}
-"062"	{emote: Happiness}
-"063"	{emote: Happiness}
-"064"	{emote: Happiness}
+"001"	{emote: Happiness}Tu veux jouer à « plus petit ou plus	grand » {emote: Curious}pour acheter {Article(word-dependant)}	{0011-0003-0002-0000} ?	{emote: Glee}Avec un peu de chance tu en	obtiendras un très bon prix !{Wait for input}{emote: Mischief}Mais si tu perds,{pause 8} tu devras payer le	prix fort !{Wait for input} {0007-000d-0000}{emote: Happiness}Alors, tu tentes ta	chance ?{Player can respond (0005):0008-0015-0002-0028}	Et comment !	Pas maintenant.
+"002"	OK, {pause 8}je comprends.{pause 20} {emote: Soft Smile}Reviens quand	tu auras le courage d'innover et de	prendre des risques !
+"003"	{emote: Distress}Que...{pause 15} IMPOSSIBLE !{pause 20} {emote: Worry}J'aurais	jamais cru que tu puisses obtenir	trois bonnes réponses d'affilée{pause 8}.{pause 8}.{pause 8}.	{emote: Happiness}Est-ce bien raisonnable de gaspiller	toute ta chance pour ça ?{pause 20}	{emote: Laughter}HA HA HA !{pause 30} C'est clair que oui !{emote: Happiness}	Bon,{pause 8} une promesse est une	promesse.{pause 20} Tu remportes le prix...{pause 15}	gratuitement. Tiens !
+"004"	{emote: Happiness}OK,{pause 8} tu as obtenu deux bonnes	réponses.{pause 8} Tu peux l'avoir pour	{Blue}{Number (0x9)} clochettes {Color Reset}!{Wait for input}{emote: Worry}Ça fait pas vraiment mes affaires,	{emote: Happiness}mais je me suis bien amusé, alors	prends donc ceci !
+"005"	{emote: Soft Smile}Deux bonnes réponses, je te fais	une ristourne :{pause 15} le prix est à toi pour	seulement {Blue}{Number (0x9)} clochettes {Color Reset}!	{emote: Happiness}Si tu veux mon avis, et je te le	donne de toute façon, c'est une	sacrée affaire.{pause 15} Prends ça !
+"006"	{emote: Happiness}Une bonne réponse, ça suffit pas !{pause 20}	Tu me dois {Blue}{Number (0x9)} clochettes{Color Reset}.{pause 15} Et	voilà pour toi !
+"007"	{emote: Worry}Tu t'es trompé{/e} trois fois de suite,	c'est vraiment pas de bol !{Wait for input}{emote: Happiness}Je me sens un peu coupable, mais ça	va te coûter {Blue}{Number (0x9)} clochettes{Color Reset}.{pause 15}	Et hop !
+"008"	{emote: Surprise}Oh !{pause 15} T'es tenté{/e}, à ce que je vois ?{pause 20}	{emote: Happiness}Tu veux{pause 8} que je t'explique les règles	du jeu ?{Player can respond (0005):0009-0015-000a-0028}	En détail, oui.	Non, merci.
+"009"	{emote: Soft Smile}Voici donc les règles que tu	attendais tant...{Wait for input}{emote: Reset}Il y a neuf cartes, chacune marquée	d'un chiffre de 1 à 9.{Wait for input}Je vais les mélanger, et en tirer une	au hasard{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}Et tu devras deviner si le chiffre de	la carte est supérieur ou inférieur	à 5. Simple comme bonjour !	{emote: Reset}Ensuite, je remettrai la carte dans	le paquet, je remélangerai{pause 8}.{pause 8}.{pause 8}.{pause 15}{Wait for input}Et on recommence ça trois fois.	{emote: Alarmed}Hein ?{pause 15} Tu veux savoir ce qui se	passe si la carte est un 5 ?	{emote: Reset}Si je tire un 5, ça ne compte pas	et je tire une autre carte !{Wait for input}{emote: Glee}Si tu devines correctement trois	fois d'affilée,{pause 8} tu remportes le prix	sans avoir à payer !{pause 20}	{emote: Happiness}Qu'est-ce que t'en dis ?{pause 15} Tu te dis	que tu n'avais jamais rencontré	quelqu'un d'aussi généreux ?	{emote: Reset}.{pause 8}.{pause 8}.{pause 8} C'est normal.{pause 8} On peut commencer	maintenant, si tu veux.
+"010"	{emote: Happiness}Allez, on commence avec la	première carte !{Wait for input} {emote: Reset}Laisse-moi en	tirer une au hasard{pause 8}.{pause 8}.{pause 8}.	OK ! Penses-tu que le chiffre de	cette carte est supérieur ou	inférieur {emote: Anger}à 5 ?{Player can respond (0000):000b-0000-000e-0000}	Supérieur.	Inférieur.
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Soft Smile}Supérieur à 5, dis-tu ?{pause 20} Le chiffre{pause 8} de	la carte est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Happiness}Hé,{pause 8} t'as tout bon !{pause 15} Bien joué !{Wait for input}{emote: Reset}Mais {pause 8}te réjouis pas trop vite{pause 8}.{pause 8}.{pause 8}.
+"013"	{emote: Soft Smile}Supérieur à 5 ?{pause 20} Hmm,{pause 8} le chiffre de	la carte est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Happiness}Hé hé.{pause 8} Ça commence pas très bien !{pause 15}	T'en fais pas, va !{Wait for input}{emote: Reset}Concentre-toi sur la prochaine{pause 8}.{pause 8}.{pause 8}.
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Soft Smile}Inférieur à 5, penses-tu ?{pause 20} Voyons	voir, {pause 8}le chiffre de la carte est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Happiness}Ah,{pause 8} tu avais raison !{pause 15} Bien joué !{Wait for input}{emote: Reset}Mais {pause 8}ne te réjouis pas trop vite{pause 8}.{pause 8}.{pause 8}.
+"016"	{emote: Soft Smile}Inférieur à 5, penses-tu ?{pause 20} Voyons	voir, {pause 8}le chiffre de la carte est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Happiness}Hé hé.{pause 8} Ça commence mal !{pause 15} Mais ne	t'inquiète pas !{Wait for input}{emote: Reset}Allez, on se concentre sur la suite{pause 8}.{pause 8}.{pause 8}.
+"017"	{emote: Soft Smile}Passons à la deuxième carte !{Wait for input}{emote: Reset}D'abord, je remets la carte	précédente avec les autres{pause 8}.{pause 8}.{pause 8}.{pause 8}{pause 8}	Puis j'en tire une nouvelle{pause 8}.{pause 8}.{pause 8}.{pause 8}	Très bien, le chiffre sur cette carte	est-il {emote: Anger}supérieur ou inférieur à 5 ?{Player can respond (0000):0012-0000-0015-0000}	Supérieur.	Inférieur.
+"018"	{0009-0000-0004-0013-0014}
+"019"	{emote: Soft Smile}Tu penses que c'est supérieur,	donc ?{pause 20} Le chiffre de cette carte	est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !	{emote: Happiness}Encore bravo !{pause 15} C'est ton jour de	chance.{Wait for input}{emote: Agreement}Mais attention,{pause 8} la chance est	capricieuse{pause 8}.{pause 8}.{pause 8}.
+"020"	{emote: Soft Smile}Tu penses que c'est supérieur,	donc ?{pause 20} Le chiffre de cette carte	est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !	{emote: Happiness}Oh,{pause 15} pas de chance, cette fois !{pause 15}	La tartine tombe du côté beurré,	hein ?	{emote: Mischief}Tu as une bonne et une mauvaise	réponse{pause 8}.{pause 8}.{pause 8}.
+"021"	{0009-0000-0004-0016-0017}
+"022"	{emote: Soft Smile}Inférieur à 5, dis-tu ?{pause 20} Le chiffre sur	la carte est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Happiness}Bien joué, à nouveau !{pause 15} La chance	est avec toi !{Wait for input}{emote: Agreement}Mais attention,{pause 8} la chance est	capricieuse{pause 8}.{pause 8}.{pause 8}.
+"023"	{emote: Soft Smile}Inférieur à 5, dis-tu ?{pause 20} Le chiffre sur	la carte est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Happiness}Oh non,{pause 15} pas de chance cette fois.{pause 15}	On peut pas toujours gagner !{Wait for input}{emote: Mischief}Tu as une bonne et une mauvaise	réponse{pause 8}.{pause 8}.{pause 8}.
+"024"	{emote: Soft Smile}Allez, la deuxième carte !{Wait for input}{emote: Reset}Je remets d'abord la carte	précédente{pause 8}.{pause 8}.{pause 8}.{pause 8}{pause 8} Puis j'en tire une	nouvelle{pause 8}.{pause 8}.{pause 8}.{pause 8}	Alors, {emote: Anger}supérieur ou inférieur à 5 ?{Player can respond (0000):0019-0000-001c-0000}	Supérieur.	Inférieur.
+"025"	{0009-0000-0004-001a-001b}
+"026"	{emote: Soft Smile}Tu penses que c'est supérieur,	donc ?{pause 20} Le chiffre de cette carte	est{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Inspired} {Number (0x6)} !	{emote: Happiness}Eh bien, tu ne t'es pas trompé{/e},	cette fois !{pause 15} Ça te fait une bonne et	une mauvaise réponse{pause 8}.{pause 8}.{pause 8}.
+"027"	{emote: Soft Smile}Tu penses que c'est supérieur,	donc ?{pause 20} Le chiffre de cette carte	est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !	{emote: Worry}Oh, encore faux{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Happiness}La chance te	tourne le dos !{Wait for input}Allez,{pause 8} n'abandonne pas{pause 8}.{pause 8}.{pause 8}.
+"028"	{0009-0000-0004-001d-001e}
+"029"	{emote: Soft Smile}Inférieur à 5 ?{pause 20} Alors, {pause 8}voyons la	carte{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Happiness}Bonne réponse, cette fois !{pause 15} Ça te	fait une bonne et une mauvaise	réponse{pause 8}.{pause 8}.{pause 8}.
+"030"	{emote: Soft Smile}Inférieur à 5 ?{pause 20} Alors, {pause 8}voyons la	carte{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Worry}Oh non,{pause 8} encore faux ! La chance a	décidé de {emote: Happiness}ne pas t'accorder ses	faveurs !	Mais{pause 8} n'abandonne pas tout espoir{pause 8}.{pause 8}.{pause 8}.
+"031"	{emote: Soft Smile}Troisième carte, à présent !{Wait for input}{emote: Reset}Je vais remettre la carte	précédente avec les autres, les	mélanger,{pause 8} et en tirer une dernière{pause 8}.{pause 8}.{pause 8}.	Tu es prêt{/e} pour un sans-faute ?{pause 15}{emote: Anger}	Supérieur ou inférieur à 5 ?{Player can respond (0000):0020-0000-0023-0000}	Supérieur !	Inférieur !
+"032"	{0009-0000-0004-0021-0022}
+"033"	{emote: Soft Smile}Donc tu dis{pause 8} supérieur à 5, hein ?{pause 20}	Bien,{pause 8} le chiffre sur la carte est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !	{emote: Shocked}Waouh !{pause 8} Encore tout juste !
+"034"	{emote: Soft Smile}Donc tu dis{pause 8} supérieur à 5, hein ?{pause 20}	Bien,{pause 8} le chiffre sur la carte est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Resigned}Oh,{pause 8} raté !{pause 15} J'ai eu peur, j'ai cru que	tu allais encore bien répondre.{pause 8}	Pfiou !
+"035"	{0009-0000-0004-0024-0025}
+"036"	{emote: Soft Smile}Hmm,{pause 8} inférieur à 5, alors ?{pause 20} Voyons,{pause 8}	la carte est un{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} ! {emote: Shocked}Waouh !{pause 8} Gagné !
+"037"	{emote: Soft Smile}Hmm,{pause 8} inférieur à 5, alors ?{pause 20} Voyons,{pause 8}	la carte est un{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Resigned}Oh non,{pause 8} c'est raté !{pause 15} J'ai eu peur, j'ai	cru que tu allais encore bien	répondre.{pause 8} Pfiou !
+"038"	{emote: Soft Smile}On passe à la troisième carte !{Wait for input}{emote: Reset}Je remets la précédente avec les	autres,{pause 8} je mélange, et je tire la	dernière{pause 8}.{pause 8}.{pause 8}.	Ris ou pleure, chante ou danse, voici	la dernière carte !{pause 15} {emote: Anger}Supérieur ou	inférieur à 5 ?!{Player can respond (0000):0027-0000-002a-0000}	Supérieur !	Inférieur !
+"039"	{0009-0000-0004-0028-0029}
+"040"	{emote: Soft Smile}Supérieur à 5, penses-tu ?{pause 20} Hmm,{pause 8} le	chiffre sur la carte est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Happiness}Hé,{pause 8} c'est tout bon !{pause 15} Ça te fait deux	bonnes réponses et une mauvaise	réponse !
+"041"	{emote: Soft Smile}Supérieur à 5, penses-tu ?{pause 20} Hmm,{pause 8} le	chiffre sur la carte est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Worry}Hmmm.{pause 8} Encore raté, hein ?{pause 15} {emote: Happiness}Tu n'as	qu'une seule bonne réponse{pause 8}.{pause 8}.{pause 8}.
+"042"	{0009-0000-0004-002b-002c}
+"043"	{emote: Soft Smile}Inférieur à 5, dis-tu ?{pause 20} Bien,{pause 8} le	chiffre de cette carte est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Happiness}Hé,{pause 8} c'est juste !{pause 15} Deux bonnes	réponses, et une mauvaise !
+"044"	{emote: Soft Smile}Inférieur à 5, dis-tu ?{pause 20} Bien,{pause 8} le	chiffre de cette carte est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !	{emote: Worry}Hmmm.{pause 8} Encore raté, hein ?{pause 15}	{emote: Happiness}Tu n'as qu'une seule bonne réponse	au total{pause 8}.{pause 8}.{pause 8}.
+"045"	{emote: Soft Smile}On passe à la troisième carte !{Wait for input}{emote: Reset}Je remets la précédente avec les	autres,{pause 8} je mélange, et je tire la	dernière{pause 8}.{pause 8}.{pause 8}.	Tout se joue maintenant !{pause 15} Le chiffre	sur la carte est-il {emote: Anger}supérieur ou	inférieur à 5 ?{Player can respond (0000):002e-0000-0031-0000}	Supérieur !	Inférieur !
+"046"	{0009-0000-0004-002f-0030}
+"047"	{emote: Soft Smile}Supérieur à 5, hmm ?{pause 20} Bien,{pause 8} le	chiffre est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Happiness}Hé,{pause 8} bien vu !{pause 15} Ça te fait un total de	deux bonnes réponses et une	mauvaise.
+"048"	{emote: Soft Smile}Supérieur à 5, hmm ?{pause 20} Bien,{pause 8} le	chiffre est{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Worry}Hmmm.{pause 8} Encore raté !{pause 15} {emote: Happiness}Tu as plus	de mauvaises réponses que de	bonnes{pause 8}.{pause 8}.{pause 8}.
+"049"	{0009-0000-0004-0032-0033}
+"050"	{emote: Soft Smile}Inférieur, dis-tu ?{pause 20} Bien,{pause 8} voyons	cette carte{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Happiness}Hé,{pause 8} tu as bien répondu !{pause 15} Ça te fait	deux bonnes réponses et une	mauvaise.
+"051"	{emote: Soft Smile}Inférieur, dis-tu ?{pause 20} Bien,{pause 8} voyons	cette carte{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Worry}Hmmm.{pause 8} Encore raté, hein ?{pause 15} {emote: Happiness}Tu as	plus de mauvaises réponses que de	bonnes{pause 8}.{pause 8}.{pause 8}.
+"052"	{emote: Soft Smile}Carte numéro trois !{Wait for input}{emote: Reset}Je remets la précédente dans la	pile, je les mélange.{pause 8} Puis j'en tire	une au hasard{pause 8}.{pause 8}.{pause 8}.	{emote: Mischief}Si tu donnes une mauvaise réponse	pour celle-ci aussi, ça va sentir le	roussi !	{emote: Reset}Alors ? Le chiffre est-il {emote: Anger}supérieur	ou inférieur à 5 ?{Player can respond (0000):0035-0000-0038-0000}	Hnnnn... supérieur !	Gnnnn... inférieur !
+"053"	{0009-0006-0010-0036-0036-0036-0036-0036-0036-0036-0037}
+"054"	{emote: Soft Smile}Supérieur à 5 ? Vraiment ?{pause 20} Bien,{pause 8}	voyons cela{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Sigh}Enfin,{pause 8} une bonne réponse !{pause 15} {emote: Happiness}Tu	échappes de justesse à la défaite	totale !
+"055"	{emote: Soft Smile}Supérieur à 5 ? Vraiment ?{pause 20} Bien,{pause 8}	voyons cela{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Shocked}Ouah !{pause 8} Encore raté !{pause 15} Trois	mauvaises réponses d'affilée !{pause 20} {emote: Worry}T'es	cuit{/e} !
+"056"	{0009-0006-0010-0039-0039-0039-0039-0039-0039-0039-003a}
+"057"	{emote: Soft Smile}OK, donc inférieur à 5, dis-tu ?{pause 20}	Bien,{pause 8} regardons cette carte{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !	{emote: Sigh}Ah.{pause 8} Enfin une de juste !{pause 15} Pas mal !	{emote: Happiness}Tu échappes de justesse à une 	écrasante humiliation !
+"058"	{emote: Soft Smile}OK, donc inférieur à 5, dis-tu ?{pause 20}	Bien,{pause 8} regardons cette carte{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)} !{Wait for input}{emote: Shocked}Oh !{pause 8} Encore raté !{pause 15} Trois fois de	suite !{pause 20} {emote: Worry}Tu es cuit{/e}, archicuit{/e} !
+"059"	{0009-0002-0008-0004-0005-0005-0005}
+"060"	{emote: Happiness}Bon, j'ai perdu, mais je me suis bien	amusé !{pause 20} Viens donc rejouer à	l'occasion,{pause 20} {catchphrase} !
+"061"	{emote: Happiness}Si tu as un peu de temps libre,{pause 8} viens	refaire une petite partie,{pause 20}	{catchphrase} !
+"062"	{emote: Happiness}On s'est bien amusés !{pause 15} Viens rejouer	avec moi quand tu veux,	{pause 20}{catchphrase} !
+"063"	{emote: Happiness}Bon,{pause 8} sans rancune, hein !{pause 15} Réessaie	la prochaine fois !{pause 20} {capitalized}{catchphrase} !
+"064"	{emote: Happiness}Souviens-toi : c'est pas le jeu qui	est nul, c'est le joueur !{pause 8} Euh, ou	l'inverse,{pause 20} {catchphrase} !
 == 3 ==
-"001"	{emote: Curious}
-"002"	OK, {pause 8}
-"003"	{emote: Distress}
-"004"	{emote: Happiness}
-"005"	{emote: Soft Smile}
-"006"	{emote: Happiness}
-"007"	{emote: Worry}
-"008"	{emote: Surprise}
-"009"	{emote: Soft Smile}
-"010"	{emote: Happiness}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Soft Smile}
-"013"	{emote: Soft Smile}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Soft Smile}
-"016"	{emote: Soft Smile}
-"017"	{emote: Soft Smile}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	{emote: Soft Smile}
-"020"	{emote: Soft Smile}
-"021"	{0009-0000-0004-16-00-17-00}
-"022"	{emote: Soft Smile}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
-"025"	{0009-0000-0004-1a-00-1b-00}
-"026"	{emote: Soft Smile}
-"027"	{emote: Soft Smile}
-"028"	{0009-0000-0004-1d-00-1e-00}
-"029"	{emote: Soft Smile}
-"030"	{emote: Soft Smile}
-"031"	{emote: Soft Smile}
-"032"	{0009-0000-0004-21-00-22-00}
-"033"	{emote: Soft Smile}
-"034"	{emote: Soft Smile}
-"035"	{0009-0000-0004-24-00-25-00}
-"036"	{emote: Soft Smile}
-"037"	{emote: Soft Smile}
-"038"	{emote: Soft Smile}
-"039"	{0009-0000-0004-28-00-29-00}
-"040"	{emote: Soft Smile}
-"041"	{emote: Soft Smile}
-"042"	{0009-0000-0004-2b-00-2c-00}
-"043"	{emote: Soft Smile}
-"044"	{emote: Soft Smile}
-"045"	{emote: Soft Smile}
-"046"	{0009-0000-0004-2f-00-30-00}
-"047"	{emote: Soft Smile}
-"048"	{emote: Soft Smile}
-"049"	{0009-0000-0004-32-00-33-00}
-"050"	{emote: Soft Smile}
-"051"	{emote: Soft Smile}
-"052"	{emote: Soft Smile}
-"053"	{0009-0006-0010-36-00-36-00-36-00-36-00-36-00-36-00-36-00-37-00}
-"054"	{emote: Soft Smile}
-"055"	{emote: Soft Smile}
-"056"	{0009-0006-0010-39-00-39-00-39-00-39-00-39-00-39-00-39-00-3a-00}
-"057"	{emote: Soft Smile}
-"058"	{emote: Soft Smile}
-"059"	{0009-0002-0008-04-00-05-00-05-00-05-00}
-"060"	{emote: Happiness}
-"061"	{emote: Happiness}
-"062"	{emote: Happiness}
-"063"	{emote: Happiness}
-"064"	{emote: Happiness}
+"001"	{emote: Curious}Ti va di giocare al {Blue}gioco delle nove	carte {Color Reset}per decidere il prezzo di	quest{000e-0012-000c-0010-0002-006f-0002-0061-0000} {0011-0003-0002-0000}?	{emote: Happiness}Te l{000e-0012-000c-0010-0002-006f-0002-0061-0000} posso vendere, ma solo se	hai voglia di giocare con me.{Wait for input}{emote: Glee}Se hai fortuna,{pause 8} puoi riuscire	ad accaparrartel{000e-0012-000c-0010-0002-006f-0002-0061-0000} a un prezzo	stracciato!{Wait for input}{emote: Mischief}Però, se perdi,{pause 8} il prezzo	da pagare sarà molto alto!{Wait for input}	{0007-000d-0000}{emote: Happiness}Cosa vuoi fare?!{Player can respond (0005):0008-0015-0002-0028}	Dai, giochiamo!	Non adesso.
+"002"	OK, {pause 8}capisco!{pause 20} {emote: Soft Smile}Magari la prossima	volta sarai abbastanza coraggios{o/a}	da accettare la sfida.
+"003"	{emote: Distress}Nooo...{pause 15} Che storia!{pause 20} {emote: Worry}Ma come hai	fatto a indovinare tre volte di fila?{pause 8}{Wait for input}{emote: Happiness}Ti eri mess{o/a} da parte tutta	la fortuna della tua vita per questo	gioco?{pause 20} {emote: Laughter}AHAHAH!{pause 30} Hai fatto bene!{emote: Happiness}{Wait for input}Beh,{pause 8} sarai content{o/a} del risultato!{pause 20}	Non devi pagare un bel niente.{pause 15}	Ecco qua!
+"004"	{emote: Happiness}Beh,{pause 8} indovinarci due volte non è	mica male.{pause 8} Il prezzo finale è	di {Blue}{Number (0x9)} stelline{Color Reset}!	{emote: Worry}Sarà un duro colpo per le mie	finanze, ma{emote: Happiness} mi sono divertito,	quindi prendi e porta a casa!
+"005"	{emote: Soft Smile}Visto che hai indovinato due volte,	ti faccio uno sconticino.{pause 15} Il prezzo	dell'articolo è {Blue}{Number (0x9)} stelline{Color Reset}!	{emote: Happiness}Guarda che è un affare da urlo.{pause 15}	Te lo dico io!
+"006"	{emote: Happiness}Hai indovinato una volta... ma non	basta per abbassare molto il prezzo!{pause 20}	Devi darmi {Blue}{Number (0x9)} stelline{Color Reset}.{pause 15}
+"007"	{emote: Worry}Hai sbagliato tre volte di fila!	Mi dispiace per te...{Wait for input}{emote: Happiness}Dovrò farti pagare {Blue}{Number (0x9)} stelline{Color Reset}!{pause 15}	Dai, prenditi questo coso!
+"008"	{emote: Surprise}Ah!{pause 15} Grande!{pause 20} {emote: Happiness}Allora,{pause 8} intanto ti spiego	le regole?{Player can respond (0005):0009-0015-000a-0028}	Sì, grazie.	Non occorre.
+"009"	{emote: Soft Smile}Dunque, vediamo...{Wait for input}{emote: Reset}Ho nove carte contrassegnate	dai numeri da 1 a 9.{Wait for input}Le mischierò ben bene e poi ne	sceglierò una a caso{pause 8}.{pause 8}.{pause 8}.{Wait for input}{emote: Soft Smile}... e tu dovrai indovinare se	il numero sulla carta è maggiore	o minore di 5!	{emote: Reset}Dopo di che, la rimetterò dentro	al mazzo e mischierò di nuovo.{pause 15}	Ripeteremo il tutto altre due volte.	{emote: Alarmed}Come dici?{pause 15} Vuoi sapere cosa si fa	se la carta è un 5? {emote: Reset}In tal caso,	annulliamo la mano e la ripetiamo!{Wait for input}{emote: Glee}Se indovini tre volte di fila,{pause 8} potrai	avere il mio oggetto gratis!{pause 20} {emote: Happiness}Che mi	dici, amic{o/a}?{pause 15} Sono generoso, no?{Wait for input}{emote: Reset}.{pause 8}.{pause 8}.{pause 8} Beh,{pause 8} credo sia tutto.
+"010"	{emote: Happiness}Dai, cominciamo con la prima carta!{Wait for input}	{emote: Reset}Ora ne scelgo una{pause 8}.{pause 8}.{pause 8}.{Wait for input}OK. Dimmi, questa carta è più alta	o più bassa di 5?!{Player can respond (0000):000b-0000-000e-0000}	Più alta.	Più bassa.
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Soft Smile}Dici che è più alta di 5?!	{pause 20}Vediamo...{pause 8}	Il numero sulla carta è{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Dai,{pause 8} hai indovinato!{pause 15} Che mito!	{pause 15}{emote: Reset}Ma {pause 8}è ancora presto per festeggiare!
+"013"	{emote: Soft Smile}Dici che è più alta di 5?!{pause 20}	Dunque,{pause 8} il numero sulla carta è{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Eh eh,{pause 8} si comincia male!{pause 15}	Via, non perdiamoci d'animo!{Wait for input}{emote: Reset}Concentrati per la prossima carta{pause 8}.{pause 8}.{pause 8}.
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Soft Smile}Dici che è più bassa di 5?!{pause 20}	Vediamo, {pause 8}il numero sulla carta è{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}{pause 8}Hai indovinato!{pause 15} Che forza!{Wait for input}{emote: Reset}Ma per ora, {pause 8}frena i festeggiamenti{pause 8}.{pause 8}.{pause 8}.
+"016"	{emote: Soft Smile}Dici che è più bassa di 5?!{pause 20}	Vediamo. {pause 8}La carta ha il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Eh eh,{pause 8} non hai cominciato tanto	bene!{pause 15} Dai, riprenditi!{Wait for input}{emote: Reset}Concentrati per la prossima{pause 8}.{pause 8}.{pause 8}.
+"017"	{emote: Soft Smile}Arriva la seconda carta!{Wait for input}{emote: Reset}Rimetto la prima tra le altre{pause 8}.{pause 8}.{pause 8}.{pause 8}{pause 8}	Ora ne scelgo una nuova{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}Pronti! Dici che questa sia maggiore	o minore di 5?!{Player can respond (0000):0012-0000-0015-0000}	Maggiore.	Minore.
+"018"	{0009-0000-0004-0013-0014}
+"019"	{emote: Soft Smile}Maggiore di 5? Sicur{o/a}?{pause 20}	Il numero della carta è{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Happiness}Di nuovo!{pause 15} Oggi hai messo il turbo!{Wait for input}{emote: Agreement}Ma{pause 8} attenzione{pause 8}.{pause 8}.{pause 8}. C'è ancora un'altra	mano!
+"020"	{emote: Soft Smile}Dici che è maggiore di 5?!{pause 20}	Vediamo. La carta ha il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Eh,{pause 15} stavolta è andata male.{pause 15}	Che ti devo dire? La vita è fatta	a scale... c'è chi le scende...{Wait for input}{emote: Mischief}{pause 8}.{pause 8}.{pause 8}. e c'è chi le sale! {pause 15}{emote: Laughter}AHAHAH!{emote: Happiness}{pause 20}	Per ora hai vinto una volta	e hai perso una volta...
+"021"	{0009-0000-0004-0016-0017}
+"022"	{emote: Soft Smile}Dici che è minore di 5?!{pause 20}	Beh, il numero sulla carta è{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Happiness}Che storia!{pause 15} Oggi vai forte!{Wait for input}{emote: Agreement}Ma{pause 8} non cantare ancora vittoria{pause 8}.{pause 8}.{pause 8}.
+"023"	{emote: Soft Smile}Dici che è minore di 5?!{pause 20} Vediamo...{pause 15}	Sulla carta vedo il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Peccato,{pause 15} stavolta non è andata!{pause 15}	Eh, non si può vincere sempre!{Wait for input}{emote: Mischief}Quindi finora hai vinto una volta	e hai perso una volta{pause 8}.{pause 8}.{pause 8}.
+"024"	{emote: Soft Smile}Passiamo alla seconda carta!{Wait for input}{emote: Reset}Ora rimetto la prima	dentro al mazzo{pause 8}.{pause 8}.{pause 8}.{pause 8} {pause 8}	e scelgo una nuova carta{pause 8}.{pause 8}.{pause 8}.{pause 8}{Wait for input}Ecco fatto! Dai, dimmi un po':	secondo te il numero su questa	carta è maggiore o minore di {emote: Anger}5?!{Player can respond (0000):0019-0000-001c-0000}	Maggiore.	Minore.
+"025"	{0009-0000-0004-001a-001b}
+"026"	{emote: Soft Smile}Dici che è maggiore di 5?!{pause 20}	Vediamo{pause 8}.{pause 8}.{pause 8}. Io qui vedo il numero{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Ah,{pause 15} stavolta non è andata!{pause 15}	Dunque, finora hai vinto una volta	e hai perso una volta{pause 8}.{pause 8}.{pause 8}.
+"027"	{emote: Soft Smile}Maggiore di 5?!{pause 20} OK, {pause 8}vediamo...	Io qui vedo il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Worry}Ops, hai sbagliato di nuovo{pause 8}.{pause 8}.{pause 8}.{pause 8} {emote: Happiness}Oggi	la fortuna proprio non ti sorride!{Wait for input}Dai,{pause 8} non ti buttare giù{pause 8}.{pause 8}.{pause 8}.
+"028"	{0009-0000-0004-001d-001e}
+"029"	{emote: Soft Smile}Dici che è minore di 5?!{pause 20}	Beh, {pause 8}la carta ha il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Grande, hai indovinato!{pause 15}	Quindi finora hai vinto una volta	e hai perso una volta{pause 8}.{pause 8}.{pause 8}.
+"030"	{emote: Soft Smile}Minore di 5, dici?!{pause 20} Dunque, {pause 8}	sulla carta c'è il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Worry}Nooo,{pause 8} hai sbagliato di nuovo{pause 8}.{pause 8}.{pause 8}.{pause 15}	Oggi non è proprio {emote: Happiness}giornata, eh?{Wait for input}Dai,{pause 8} su col morale.	Non è ancora finita{pause 8}.{pause 8}.{pause 8}.
+"031"	{emote: Soft Smile}Siamo arrivati alla terza carta!{Wait for input}{emote: Reset}Ora rimetto la seconda carta	nel mazzo e mischio bene.{pause 8}	Poi scelgo una nuova{pause 8} carta{pause 8}.{pause 8}.{pause 8}.	Indovinerai anche stavolta?{pause 15}	Allora, {emote: Anger}la carta è più alta o più	bassa di 5?!{Player can respond (0000):0020-0000-0023-0000}	Più alta!	Più bassa!
+"032"	{0009-0000-0004-0021-0022}
+"033"	{emote: Soft Smile}Più alta di 5, eh?!{pause 20} Dunque,{pause 8}	la carta ha il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Shocked}Mitic{o/a}!{pause 8} Hai azzeccato di nuovo!
+"034"	{emote: Soft Smile}Più alta di 5,{pause 8} dici?!{pause 20} Beh,{pause 8}	il numero sulla carta è{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Resigned}Ecco,{pause 8} stavolta non ti è andata bene!{pause 15}	Me la sono vista brutta!{pause 8} Fiuuu!
+"035"	{0009-0000-0004-0024-0025}
+"036"	{emote: Soft Smile}Più bassa di 5,{pause 8} dici?!{pause 20} Vediamo.{pause 8}	Il numero sulla carta è{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Shocked}Ah!{pause 8} Hai indovinato! DI NUOVO!
+"037"	{emote: Soft Smile}Più bassa di 5?{pause 8} Dunque,{pause 8}	io qui leggo il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Resigned}Nooo,{pause 8} hai sbagliato!{pause 15}	Beh, è andata bene a me, però!
+"038"	{emote: Soft Smile}Eccoci alla terza carta!{Wait for input}{emote: Reset}Ora rimetto la seconda a posto{pause 8} e	ne scelgo una per la mano finale{pause 8}.{pause 8}.{pause 8}.	Oh, siamo agli sgoccioli, eh?!{pause 15}	Dai, questa carta è più alta o	{emote: Anger}più bassa di 5?!{Player can respond (0000):0027-0000-002a-0000}	Più alta!	Più bassa!
+"039"	{0009-0000-0004-0028-0029}
+"040"	{emote: Soft Smile}Più alta di 5?!{pause 20} Vediamo.{pause 8}	Sulla carta c'è il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Happiness}Ehi,{pause 8} avevi ragione!{pause 15}	Hai indovinato due volte su tre.	Dai, poteva andare molto peggio!
+"041"	{emote: Soft Smile}Dici che è più alta di 5?!{pause 20}	Dunque,{pause 8} la carta ha il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Worry}Ah,{pause 8} hai sbagliato di nuovo...{pause 15}	{emote: Happiness}Quindi alla fine hai indovinato	solo la prima volta.
+"042"	{0009-0000-0004-002b-002c}
+"043"	{emote: Soft Smile}Dici che è più bassa di 5?!{pause 20}	Verifichiamo.{pause 8} La carta ha	il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Happiness}Ehi,{pause 8} che fortuna!{pause 15} Allora hai	indovinato due volte su tre!
+"044"	{emote: Soft Smile}Dici che è più bassa?!{pause 20} Allora,{pause 8}	il numero sulla carta è{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Worry}Mmmmh,{pause 8} hai sbagliato ancora.{pause 15}	{emote: Happiness}Insomma, alla fine hai indovinato	solo la prima volta{pause 8}.{pause 8}.{pause 8}.
+"045"	{emote: Soft Smile}Eccoci arrivati alla terza carta!{Wait for input}{emote: Reset}Rimetto la seconda carta dove	l'ho trovata e do una bella	mischiata.{pause 8}	Ora scelgo una nuova carta{pause 8}.{pause 8}.{pause 8}.	Guarda che questa è l'ultima...!{pause 15}	Sarà più alta o più bassa di 5?!{Player can respond (0000):002e-0000-0031-0000}	Più alta.	Più bassa.
+"046"	{0009-0000-0004-002f-0030}
+"047"	{emote: Soft Smile}Più alta di 5, eh?!{pause 20} Dunque,{pause 8} sulla	carta vedo il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Happiness}Ehi,{pause 8} avevi ragione!{pause 15}	In totale hai indovinato due volte	su tre! Brav{o/a}!
+"048"	{emote: Soft Smile}Dici che è più alta di 5?!{pause 20}	Allora,{pause 8} il numero sulla carta è{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Worry}Nooo,{pause 8} hai sbagliato!{pause 15}	{emote: Happiness}Alla fine hai indovinato	solo una volta{pause 8}.{pause 8}.{pause 8}.
+"049"	{0009-0000-0004-0032-0033}
+"050"	{emote: Soft Smile}Dici che è più bassa di 5?{pause 20} Vediamo	subito.{pause 8} Sulla carta c'è il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Happiness}Ehi,{pause 8} c'hai preso!{pause 15} Alla fine,	hai indovinato due volte su tre!
+"051"	{emote: Soft Smile}Dici che è più bassa di 5?!{pause 20}	Beh,{pause 8} la carta ha il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Worry}Ah,{pause 8} hai sbagliato di nuovo!{pause 15}	{emote: Happiness}Hai indovinato una volta sola{pause 8}.{pause 8}.{pause 8}.
+"052"	{emote: Soft Smile}Attenzione! Siamo alla terza carta!{Wait for input}{emote: Reset}Prima di tutto rimetto la seconda	carta nel mazzo e poi do una bella	mischiata.{pause 8}	Ora tiro fuori la terza carta{pause 8}.{pause 8}.{pause 8}.	{emote: Mischief}Attenzione a non sbagliare anche	stavolta, eh?!{Wait for input}{emote: Reset}Dai, rispondi! Questa carta è più	alta o {emote: Anger}più bassa di 5?!{Player can respond (0000):0035-0000-0038-0000}	Mmmh... più alta!	Mmmh... più bassa!
+"053"	{0009-0006-0010-0036-0036-0036-0036-0036-0036-0036-0037}
+"054"	{emote: Soft Smile}Più alta di 5? Sei sicur{o/a}?!{pause 20} Vediamo.{pause 8}	Io sulla carta leggo il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Sigh}Dai,{pause 8} almeno una l'hai azzeccata!{pause 15}	{emote: Happiness}Eri a un passo dalla catastrofe	totale, ma l'hai scampata!
+"055"	{emote: Soft Smile}Più alta di 5? OK.{pause 20}	Dunque,{pause 8} la carta ha il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Shocked}Nooooo!{pause 8} Hai sbagliato per la terza	volta!{pause 15} {emote: Worry}Che batosta!
+"056"	{0009-0006-0010-0039-0039-0039-0039-0039-0039-0039-003a}
+"057"	{emote: Soft Smile}Più bassa di 5?!{pause 20} OK.{pause 8}	Allora vediamo... La carta porta	il numero{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Sigh}Ecco,{pause 8} hai visto?!{pause 15} Ci sei riuscit{o/a}!	{emote: Happiness}L'hai scampata bella!
+"058"	{emote: Soft Smile}Dici che è più bassa di 5?!{pause 20}	Controlliamo.{pause 8} Il numero sulla carta	è{pause 8}.{pause 8}.{pause 8}.{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Shocked}Che storia!{pause 8} Hai sbagliato di nuovo!{pause 15}	Tre volte di fila!{pause 20} {emote: Worry}È finita maluccio...
+"059"	{0009-0002-0008-0004-0005-0005-0005}
+"060"	{emote: Happiness}Non ho vinto, ma mi sono divertito	abbastanza!{pause 20} Magari ci sfidiamo	di nuovo più avanti,{pause 20} {catchphrase}!
+"061"	{emote: Happiness}Quando ti annoi,{pause 8} torna da me che	rigiochiamo,{pause 20} {catchphrase}!
+"062"	{emote: Happiness}Dai, ci siamo divertiti, no?!{pause 15}	Torna a giocare con me quando	hai voglia,{pause 20} {catchphrase}!
+"063"	{emote: Happiness}Dai,{pause 8} non tenermi il muso ora, eh?!{pause 15}	Magari la prossima volta andrà	meglio!{pause 20} {capitalized}{catchphrase}!
+"064"	{emote: Happiness}Dai, è solo un gioco!{pause 8} La prossima	volta andrà meglio, te lo dico io.	{pause 20}{capitalized}{catchphrase}!
 == 4 ==
-"001"	{emote: Curious}
-"002"	{emote: Resigned}
-"003"	{emote: Distress}
-"004"	{emote: Glare}
-"005"	{emote: Glare}
-"006"	{emote: Resigned}
-"007"	{emote: Laughter}
-"008"	{emote: Surprise}
-"009"	{emote: Agreement}
-"010"	{emote: Agreement}
-"011"	{0009-0000-0004-0c-00-0d-00}
-"012"	{emote: Glare}
-"013"	{emote: Glare}
-"014"	{0009-0000-0004-0f-00-10-00}
-"015"	{emote: Glare}
-"016"	{emote: Glare}
-"017"	{emote: Greetings}
-"018"	{0009-0000-0004-13-00-14-00}
-"019"	{emote: Alarmed}
-"020"	{emote: Alarmed}
-"021"	{0009-0000-0004-16-00-17-00}
-"022"	{emote: Alarmed}
-"023"	{emote: Alarmed}
-"024"	{emote: Soft Smile}
-"025"	{0009-0000-0004-1a-00-1b-00}
-"026"	{emote: Glare}
-"027"	{emote: Glare}
-"028"	{0009-0000-0004-1d-00-1e-00}
-"029"	{emote: Glare}
-"030"	{emote: Glare}
-"031"	{emote: Agreement}
-"032"	{0009-0000-0004-21-00-22-00}
-"033"	{emote: Resigned}
-"034"	{emote: Resigned}
-"035"	{0009-0000-0004-24-00-25-00}
-"036"	{emote: Resigned}
-"037"	{emote: Resigned}
-"038"	{emote: Agreement}
-"039"	{0009-0000-0004-28-00-29-00}
-"040"	{emote: Glare}
-"041"	{emote: Glare}
-"042"	{0009-0000-0004-2b-00-2c-00}
-"043"	{emote: Glare}
-"044"	{emote: Glare}
-"045"	{emote: Agreement}
-"046"	{0009-0000-0004-2f-00-30-00}
-"047"	{emote: Glare}
-"048"	{emote: Glare}
-"049"	{0009-0000-0004-32-00-33-00}
-"050"	{emote: Glare}
-"051"	{emote: Glare}
-"052"	{emote: Agreement}
-"053"	{0009-0006-0010-36-00-36-00-36-00-36-00-36-00-36-00-36-00-37-00}
-"054"	{emote: Glare}
-"055"	{emote: Glare}
-"056"	{0009-0006-0010-39-00-39-00-39-00-39-00-39-00-39-00-39-00-3a-00}
-"057"	{emote: Glare}
-"058"	{emote: Glare}
-"059"	{0009-0002-0008-04-00-05-00-05-00-05-00}
-"060"	{emote: Anger}
-"061"	{emote: Glare}
-"062"	{emote: Glare}
-"063"	{emote: Glare}
-"064"	{emote: Glare}
+"001"	{emote: Curious}Bestimmen wir den Preis für {meinen/meine/mein}	{0011-0003-0002-0000} mit 'ner	Partie {Blue}Größer oder Kleiner{Color Reset}?	{emote: Glare}Ich würde {ihn/sie/es} nämlich verkaufen,{pause 8}	aber nur, wenn du mitspielst,	sozusagen!	{emote: Agreement}Mit etwas Glück machst du ein	richtiges Schnäppchen!{Wait for input}{emote: Mischief}Aber wenn du verlierst, dann kostet	dich das, und zwar nicht zu knapp!{Wait for input}	{0007-000d-0000}Na, bist du dabei?{Player can respond (0005):0008-0015-0002-0028}	Logisch!	Jetzt nicht.
+"002"	{emote: Resigned}Na gut. {pause 20}Vielleicht hast du ein	anderes Mal den Mut, dich meiner	Herausforderung zu stellen.
+"003"	{emote: Distress}Soll...{pause 15} Soll das ein Witz sein?{pause 20} {emote: Worry}Nie im	Leben hätte ich gedacht, dass du	dreimal hintereinander richtig rätst!	{emote: Pride}Da hast du wohl die gesamten	Glücksvorräte deines Lebens für	dieses Spiel verbraten! {pause 20}{emote: Laughter}Bwa ha ha!{pause 30}{emote: Happiness}	{emote: Reset}Versprochen ist versprochen, auch	wenn's wehtut. {pause 20}Du kriegst das	Objekt deiner Begierde umsonst.
+"004"	{emote: Glare}Zwei richtige Antworten verdienen	widerwilligen Respekt und einen	Spezialpreis von {Blue}{Number (0x9)} Sternis{Color Reset}!	{emote: Worry}Und ich geh mir einen roten Stift	besorgen, um ein paar Zahlen zu	schreiben...
+"005"	{emote: Glare}Zwei richtig, dafür gebe ich einen	Nachlass.{pause 20} Damit beträgt der	Preis nur noch {Blue}{Number (0x9)} Sternis{Color Reset}!	Nicht übel, was?{pause 20}	{emote: Anger}Zumindest für dich...
+"006"	{emote: Resigned}Eine Antwort richtig, aber das	beeindruckt mich nicht besonders!{pause 20}	Macht dann {Blue}{Number (0x9)} Sternis{Color Reset}.
+"007"	{emote: Laughter}Dreimal am Stück falsch? {pause 20}Du bist	echt ein Pechvogel!{Wait for input}{emote: Pride}Und dass du jetzt {Blue}{Number (0x9)} Sternis{Color Reset}	blechen darfst, macht die Sache	vermutlich nicht besser! {pause 20}{emote: Laughter}Bwa ha ha!{pause 30}{emote: Happiness}
+"008"	{emote: Surprise}Oh!{pause 15} Du spielst mit?{pause 20} {emote: Glare}Tja, soll ich	vorher noch die Regeln erklären?{Player can respond (0005):0009-0015-000a-0028}	Aber bitte ganz genau!	Nö, nicht nötig!
+"009"	{emote: Agreement}Also gut, so funktioniert's...{Wait for input}{emote: Reset}Ich habe hier neun Karten mit den	Zahlen von eins bis neun.{Wait for input}Ich werde die Karten mischen und	dann eine davon ziehen...{Wait for input}Und du musst dann erraten, ob die	Zahl auf der Karte größer oder	kleiner als fünf ist.	Danach kommt die Karte zurück in	den Stapel und ich mische wieder.{Wait for input}Und das machen wir dann dreimal.	{emote: Alarmed}Was?{pause 15} Was passiert, wenn ich die	Fünf ziehe?	{emote: Pride}Dann mische ich einfach wieder neu	und tu so, als wenn nix passiert	wäre! {pause 20}{emote: Laughter}Bwa ha ha!{pause 30}{emote: Happiness}	{emote: Reset}Wenn du dreimal richtig rätst,	musst du nichts bezahlen.{Wait for input}Bin ich großzügig oder was?{pause 20}	{emote: Reset}Also gut, los geht der Spaß!
+"010"	{emote: Agreement}So, dann ziehe ich mal die erste	Karte!{Wait for input}Was denkst du, {pause 10}ist die Zahl auf der	Karte größer oder kleiner {emote: Anger}als fünf?{Player can respond (0000):000b-0000-000e-0000}	Größer!	Kleiner!
+"011"	{0009-0000-0004-000c-000d}
+"012"	{emote: Glare}Größer als fünf, sagst du?{pause 20} Na gut.{pause 20}	Die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}Du hast richtig geraten!{Wait for input}{emote: Anger}Aber freu dich nicht zu früh...
+"013"	{emote: Glare}Größer als fünf, sagst du?{pause 20} Na gut.{pause 20}	Die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Laughter}Na, das war ja mal kein guter Start!{Wait for input}{emote: Reset}Nicht lang hadern, weiter im Spiel!
+"014"	{0009-0000-0004-000f-0010}
+"015"	{emote: Glare}Kleiner als fünf, sagst du?{pause 20} Na gut.{pause 20}	Die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}Du hast richtig geraten!{Wait for input}{emote: Reset}Aber freu dich nicht zu früh...
+"016"	{emote: Glare}Kleiner als fünf, sagst du?{pause 20} Na gut.{pause 20}	Die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Laughter}Das war ja mal kein guter Start!{Wait for input}{emote: Reset}Nicht lang hadern, weiter im Spiel!
+"017"	{emote: Greetings}Wir sind bei der zweiten Karte!{Wait for input}{emote: Reset}Ich packe die erste Karte wieder in	den Stapel zurück und ziehe eine	neue...	Was denkst du,{pause 8} ist die Zahl größer	oder kleiner {emote: Anger}als fünf?{Player can respond (0000):0012-0000-0015-0000}	Größer!	Kleiner!
+"018"	{0009-0000-0004-0013-0014}
+"019"	{emote: Alarmed}Größer also?{pause 20} Sehen wir nach!{pause 20}	Und die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Anger}Wieder richtig!{pause 20} Du hast ja wirklich	unverschämtes Glück!{Wait for input}{emote: Agreement}Doch Glück währt nur selten ewig...
+"020"	{emote: Alarmed}Größer also?{pause 20} Sehen wir nach!{pause 20}	Und die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Disagreement}Tja, das war wohl nichts...{Wait for input}{emote: Mischief}Damit hast du einmal richtig und	einmal falsch geraten.
+"021"	{0009-0000-0004-0016-0017}
+"022"	{emote: Alarmed}Kleiner also?{pause 20} Sehen wir nach!{pause 20}	Und die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Anger}Wieder richtig!{pause 20} Du hast ja wirklich	unverschämtes Glück!{Wait for input}{emote: Agreement}Doch Glück währt nur selten ewig...
+"023"	{emote: Alarmed}Kleiner also?{pause 20} Sehen wir nach!{pause 20}	Und die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!!{Wait for input}{emote: Disagreement}Tja, das war wohl nichts...{Wait for input}{emote: Mischief}Damit hast du einmal richtig und	einmal falsch geraten.
+"024"	{emote: Soft Smile}Kommen wir zur zweiten Karte!{Wait for input}{emote: Reset}So, alte Karte zurück...{pause 20}	Neue Karte ziehen...{Wait for input}Und, dein Tipp?{pause 20} Größer oder kleiner	{emote: Anger}als fünf?{Player can respond (0000):0019-0000-001c-0000}	Größer!	Kleiner!
+"025"	{0009-0000-0004-001a-001b}
+"026"	{emote: Glare}Du glaubst, die Zahl ist größer als	fünf?{pause 20} Und die Zahl auf der Karte	ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Alarmed}Richtig!{pause 15} {emote: Reset}Das sind dann jetzt eine	richtige und eine falsche Antwort!
+"027"	{emote: Glare}Du glaubst, die Zahl ist größer als	fünf?{pause 20} Und die Zahl auf der Karte	ist...{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Laughter}Wieder daneben!{pause 20} Das will nicht so	richtig klappen, was?{Wait for input}{emote: Glare}Aber neues Spiel, neues Glück!
+"028"	{0009-0000-0004-001d-001e}
+"029"	{emote: Glare}Du glaubst, die Zahl ist kleiner als	fünf?{pause 20} Und die Zahl auf der Karte	ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Alarmed}Richtig!{pause 15} {emote: Reset}Das sind dann jetzt eine	richtige und eine falsche Antwort!
+"030"	{emote: Glare}Du glaubst, die Zahl ist kleiner als	fünf?{pause 20} Und die Zahl auf der Karte	ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Laughter}Wieder daneben!{pause 20} Das will nicht so	richtig klappen, was?{Wait for input}{emote: Glare}Aber neues Spiel, neues Glück!
+"031"	{emote: Agreement}Damit kommen wir zur dritten und	letzten Karte!{Wait for input}{emote: Anger}Ich stecke die Karte wieder zurück,	mische noch mal ordentlich und	dann ziehe ich!	{emote: Reset}Errätst du auch die letzte Karte?{pause 15} Ist	die Zahl auf der Karte größer oder	kleiner {emote: Anger}als fünf?{Player can respond (0000):0020-0000-0023-0000}	Größer!	Kleiner!
+"032"	{0009-0000-0004-0021-0022}
+"033"	{emote: Resigned}Du denkst also, die Zahl ist größer	als fünf!{pause 20} Und die Zahl auf der Karte	ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Aggravation}Ich korrigiere mich, DAS ist jetzt	unverschämtes Glück!
+"034"	{emote: Resigned}Du denkst also, die Zahl ist größer	als fünf!{pause 20} Und die Zahl auf der Karte	ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Laughter}Daneben!{pause 20} Puh, dein Glück bisher	war mir schon unheimlich...
+"035"	{0009-0000-0004-0024-0025}
+"036"	{emote: Resigned}Du denkst also, die Zahl ist kleiner	als fünf.{pause 20} Und die Zahl auf der Karte	ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Aggravation}Ich korrigiere mich, DAS ist jetzt	unverschämtes Glück!
+"037"	{emote: Resigned}Du denkst also, die Zahl ist kleiner	als fünf.{pause 20} Und die Zahl auf der Karte	ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Laughter}Daneben!{pause 20} Puh, dein Glück bisher	war mir schon unheimlich...
+"038"	{emote: Agreement}Damit kommen wir zur dritten und	letzten Karte!{Wait for input}{emote: Anger}Ich stecke die Karte wieder zurück,	mische noch mal ordentlich und	dann ziehe ich!	{emote: Reset}Errätst du auch die letzte Karte?{pause 15} Ist	die Zahl auf der Karte größer oder	kleiner {emote: Anger}als fünf?{Player can respond (0000):0027-0000-002a-0000}	Größer!	Kleiner!
+"039"	{0009-0000-0004-0028-0029}
+"040"	{emote: Glare}Du tippst also auf größer als fünf?{pause 20}	Tja. {pause 10}Die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Agreement}Du hattest also recht!{pause 15} Damit hast	du insgesamt zweimal richtig- und	einmal falschgelegen. {pause 20}Ganz gut!
+"041"	{emote: Glare}Du tippst also auf größer als fünf?{pause 20}	Tja. {pause 10}Die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Laughter}Wieder daneben...{pause 20} Dabei hat es für	dich ganz gut angefangen.
+"042"	{0009-0000-0004-002b-002c}
+"043"	{emote: Glare}Du tippst also auf kleiner als fünf?{pause 20}	Tja. {pause 10}Die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Agreement}Richtig getippt!{pause 15} Damit hast du	insgesamt zweimal richtig- und	einmal falschgelegen.{pause 10} Kompliment!
+"044"	{emote: Glare}Du tippst auf kleiner als fünf?{pause 20}	Tja. {pause 10}Die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Laughter}Wieder daneben...{pause 20} Dabei hat es für	dich ganz gut angefangen.
+"045"	{emote: Agreement}Damit kommen wir zur dritten und	letzten Karte!{Wait for input}{emote: Anger}Ich stecke die Karte wieder zurück,	mische noch mal ordentlich und	dann ziehe ich!	{emote: Surprise}Es ist noch alles offen! {pause 15}Ist	die Zahl auf der Karte größer oder	kleiner {emote: Anger}als fünf?{Player can respond (0000):002e-0000-0031-0000}	Größer!	Kleiner!
+"046"	{0009-0000-0004-002f-0030}
+"047"	{emote: Glare}Du tippst also auf größer als fünf?{pause 20}	Tja. {pause 10}Die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Agreement}Richtig getippt!{pause 15} Damit hast du	insgesamt zweimal richtig- und	einmal falschgelegen. {pause 10}Kompliment!
+"048"	{emote: Glare}Du tippst auf größer als fünf?{pause 20}	Tja. {pause 10}Die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Anger}Hmmm.{pause 8} Schon wieder falsch. {pause 20}Das	Glück ist dir nicht besonders hold,	was? {pause 20}{emote: Laughter}Bwa ha ha!
+"049"	{0009-0000-0004-0032-0033}
+"050"	{emote: Glare}Du tippst auf kleiner als fünf?{pause 20}	Tja. {pause 10}Die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Agreement}Richtig getippt!{pause 15} Damit hast du	insgesamt zweimal richtig- und	einmal falschgelegen. {pause 10}Kompliment!
+"051"	{emote: Glare}Du tippst auf kleiner als fünf?{pause 20}	Tja. {pause 10}Die Zahl auf der Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!{Wait for input}{emote: Anger}Hmmm.{pause 8} Schon wieder falsch. {pause 20}Das	Glück ist dir nicht besonders hold,	was? {pause 20}{emote: Laughter}Bwa ha ha!
+"052"	{emote: Agreement}Damit kommen wir zur dritten und	letzten Karte!{Wait for input}{emote: Reset}Ich stecke die Karte wieder zurück,	mische noch mal ordentlich und	dann ziehe ich!	{emote: Anger}Rate besser richtig, sonst wird's	teuer! {pause 15}Ist die Zahl auf der	Karte größer oder kleiner {emote: Reset}als fünf?{Player can respond (0000):0035-0000-0038-0000}	Größer!	Kleiner!
+"053"	{0009-0006-0010-0036-0036-0036-0036-0036-0036-0036-0037}
+"054"	{emote: Glare}Du hast dich für größer als fünf	entschieden!{pause 20} Und die Zahl auf der	Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Sigh}Jetzt hast du wenigstens einmal	richtig geraten.{pause 20}{emote: Anger} Gerade noch die	Kurve gekriegt, würde ich sagen!
+"055"	{emote: Glare}Du hast dich für größer als fünf	entschieden!{pause 20} Und die Zahl auf der	Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Laughter}Bwa ha!{pause 8} Wieder falsch!{pause 15} Und das	gleich dreimal hintereinander!{pause 20}	{emote: Pride}Das wird nicht billig!
+"056"	{0009-0006-0010-0039-0039-0039-0039-0039-0039-0039-003a}
+"057"	{emote: Glare}Du hast dich für kleiner als fünf	entschieden!{pause 20} Und die Zahl auf der	Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Sigh}Jetzt hast du wenigstens einmal	richtig geraten.{pause 20} {emote: Anger}Gerade noch die	Kurve gekriegt, würde ich sagen!
+"058"	{emote: Glare}Du hast dich für kleiner als fünf	entschieden!{pause 20} Und die Zahl auf der	Karte ist...{Wait for input} {emote: Inspired}{Number (0x6)}!	{emote: Laughter}Bwa ha!{pause 8} Wieder falsch!{pause 15} Und das	gleich dreimal hintereinander!{pause 20}	{emote: Pride}Das wird nicht billig!
+"059"	{0009-0002-0008-0004-0005-0005-0005}
+"060"	{emote: Anger}Das lasse ich nicht auf mir sitzen!{pause 20}	Irgendwann werde ich eine	Revanche fordern,{pause 20} {catchphrase}!
+"061"	{emote: Glare}Wenn du mal wieder Zeit hast,	können wir gern wieder eine	Runde spielen,{pause 20} {catchphrase}!
+"062"	{emote: Glare}Ich hätte meine Zeit auch schlechter	verbringen können...{pause 15} Das müssen wir	mal wiederholen,{pause 20} {catchphrase}!
+"063"	{emote: Glare}Mach dir nichts daraus. {pause 10}Versuch's	einfach ein anderes Mal wieder,	{pause 20}{catchphrase}!
+"064"	{emote: Glare}Das war wohl nicht so dein	Spiel... {pause 20}Aber nächstes Mal wird's	vielleicht besser,{pause 20} {catchphrase}!

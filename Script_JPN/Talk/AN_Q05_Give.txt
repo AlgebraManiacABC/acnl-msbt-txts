@@ -1,60 +1,60 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{pause 8}
-"003"	{pause 8}
-"004"	{pause 8}
-"005"	{pause 8}
-"006"	{pause 8}
-"007"	{pause 8}
-"008"	{emote: Alarmed}
-"009"	{emote: Alarmed}
-"010"	{emote: Alarmed}
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{emote: Alarmed}
-"014"	{emote: Alarmed}
-"015"	{pause 8}
-"016"	
-"017"	
-"018"	{emote: Happiness}
-"019"	よ～し、{pause 10}
-"020"	{emote: Happiness}
-"021"	{emote: Alarmed}
-"022"	{emote: Alarmed}
-"023"	{emote: Agreement}
-"024"	{emote: Agreement}
-"025"	{emote: Inspired}
-"026"	{emote: Soft Smile}
-"027"	{emote: Agreement}
-"028"	{emote: Soft Smile}
-"029"	
-"030"	
-"031"	{emote: Alarmed}
-"032"	{emote: Alarmed}
-"033"	{emote: Agreement}
-"034"	{emote: Agreement}
-"035"	{emote: Thought}
-"036"	{emote: Agreement}
-"037"	{emote: Inspired}
-"038"	{emote: Delight}
-"039"	{pause 8}
-"040"	
-"041"	{emote: Soft Smile}
-"042"	{emote: Glee}
-"043"	
-"044"	
-"045"	{emote: Alarmed}
-"046"	{emote: Alarmed}
-"047"	{emote: Alarmed}
-"048"	{emote: Alarmed}
-"049"	{emote: Alarmed}
-"050"	{emote: Agreement}
-"051"	{emote: Thought}
-"052"	{emote: Delight}
-"053"	{emote: Agreement}
-"054"	{emote: Soft Smile}
-"055"	{emote: Soft Smile}
-"056"	{emote: Glee}
-"057"	{emote: Alarmed}
-"058"	{emote: Soft Smile}
-"059"	ありがとう　{Player nickname (green)}
+"001"	{emote: Alarmed}ふ～ん、{pause 8}そうなの？{pause 40}	{emote: Reset}まぁ　いいけど！　{pause 20}{catchphrase}！
+"002"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Worry}う～ん{pause 20}	これって　カベにかけるタイプだろ？	ちょっと　{ruby (charSpan 1): ちが}違うかなぁ	{emote: Agreement}ウチが　{ruby (charSpan 1): さが}探してるのは、	{ruby (charSpan 1): ゆか}床に{ruby (charSpan 1): お}置けるタイプの　{ruby (charSpan 2): かぐ}家具なんだよ
+"003"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Worry}う～ん、{pause 20}	ちょっと　{ruby (charSpan 1): おお}大き{ruby (charSpan 1): す}過ぎるかなぁ{Wait for input}{emote: Agreement}ウチが　{ruby (charSpan 1): さが}探してるのは、	もうちょっと　{ruby (charSpan 1): ちい}小さいサイズの	{ruby (charSpan 2): かぐ}家具なんだよ
+"004"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Worry}う～ん、{pause 20}	ちょっと　{ruby (charSpan 1): ちい}小さ{ruby (charSpan 1): す}過ぎるかなぁ{Wait for input}{emote: Agreement}ウチが　{ruby (charSpan 1): さが}探してるのは	もうちょっと　{ruby (charSpan 1): おお}大きいサイズの	{ruby (charSpan 2): かぐ}家具なんだよ
+"005"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Worry}う～ん{pause 20}	これって　カベにかけるタイプだろ？	ちょっと　{ruby (charSpan 1): ちが}違うかなぁ	{emote: Agreement}ウチが　{ruby (charSpan 1): さが}探してるのは、	{0011-0003-0002-0000}と	{ruby (charSpan 1): おな}同じサイズの　{ruby (charSpan 2): かぐ}家具なんだよ
+"006"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Worry}う～ん、{pause 20}	ちょっと　{ruby (charSpan 1): おお}大き{ruby (charSpan 1): す}過ぎるかなぁ{Wait for input}{emote: Agreement}ウチが　{ruby (charSpan 1): さが}探してるのは、{pause 8}	{pause 8}{0011-0003-0002-0000}と	{ruby (charSpan 1): おな}同じサイズの　{ruby (charSpan 2): かぐ}家具なんだよ
+"007"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Worry}う～ん、{pause 20}	ちょっと　{ruby (charSpan 1): ちい}小さ{ruby (charSpan 1): す}過ぎるかなぁ{Wait for input}{emote: Agreement}ウチが　{ruby (charSpan 1): さが}探してるのは、{pause 8}	{pause 8}{0011-0003-0002-0000}と	{ruby (charSpan 1): おな}同じサイズの　{ruby (charSpan 2): かぐ}家具なんだよ
+"008"	{emote: Alarmed}あっ！{pause 20}　{ruby (charSpan 1): ちが}違うよ！{pause 40}	{emote: Agreement}ウチが　{ruby (charSpan 1): さが}探してるのは	{0011-0003-0002-0000}の　{ruby (charSpan 1): か}代わりさ！	{emote: Soft Smile}だから　これは、{pause 8}	{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取れないよ！
+"009"	{emote: Alarmed}あっ！{pause 20}　{ruby (charSpan 1): ちが}違うよ！{pause 40}	{emote: Agreement}ウチが　{ruby (charSpan 1): さが}探してるのは	テーブルとか　{ruby (charSpan 1): だい}台の{ruby (charSpan 1): うえ}上に　{ruby (charSpan 1): かざ}飾る{ruby (charSpan 2): かぐ}家具さ！	{emote: Soft Smile}だから　これは、{pause 8}	{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取れないよ！
+"010"	{emote: Alarmed}あっ！{pause 20}　{ruby (charSpan 1): ちが}違うよ！{pause 40}	{emote: Agreement}ウチが　{ruby (charSpan 1): さが}探してるのは	テーブルとか　{ruby (charSpan 1): だい}台の{ruby (charSpan 1): うえ}上に　{ruby (charSpan 1): かざ}飾る{ruby (charSpan 2): かぐ}家具さ！	{emote: Soft Smile}これは　カベかけ{ruby (charSpan 2): かぐ}家具だから、	{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取れないよ
+"011"	{emote: Alarmed}あっ！{pause 20}　{ruby (charSpan 1): ちが}違うよ！{pause 40}	{emote: Agreement}ウチが　{ruby (charSpan 1): ほ}欲しいのは	{0011-0003-0002-0000}の　{ruby (charSpan 1): か}代わりさ！	{emote: Soft Smile}テーブルとか　{ruby (charSpan 1): だい}台の	{ruby (charSpan 1): うえ}上に　{ruby (charSpan 1): お}置けるような{ruby (charSpan 2): かぐ}家具を	さがしてるんだ！
+"012"	{emote: Alarmed}あっ！{pause 20}　{ruby (charSpan 1): ちが}違うよ！{pause 40}	{emote: Agreement}ウチが　{ruby (charSpan 1): さが}探してるのは	{0011-0003-0002-0000}の　{ruby (charSpan 1): か}代わりさ！	{emote: Soft Smile}{ruby (charSpan 1): おな}同じものは　2つも	いらないよ！
+"013"	{emote: Alarmed}あっ、ごめん！{pause 40}	{emote: Agreement}ウチが{ruby (charSpan 1): さが}探してるのは	カベに{ruby (charSpan 1): かざ}飾るタイプの {ruby (charSpan 2): かぐ}家具さ！	{emote: Worry}これは　ちょっと	{ruby (charSpan 1): かざ}飾れないと{ruby (charSpan 1): おも}思う{pause 8}・{pause 8}・{pause 8}・{pause 20}
+"014"	{emote: Alarmed}あっ！{pause 20}　{ruby (charSpan 1): ちが}違うよ！{pause 40}	{emote: Agreement}ウチが　{ruby (charSpan 1): さが}探してるのは	{0011-0003-0002-0000}の　{ruby (charSpan 1): か}代わりさ！	{emote: Soft Smile}{ruby (charSpan 1): おな}同じものは　2つも	いらないよ！
+"015"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Worry}う～ん、{pause 40}	{pause 20}{0011-0003-0002-0001}は　もう	{ruby (charSpan 1): も}持ってるんだよね	{emote: Agreement}せっかくだから、{pause 8}	{ruby (charSpan 1): ちが}違うのを　{ruby (charSpan 1): たの}頼むよ！
+"016"
+"017"
+"018"	{emote: Happiness}{ruby (charSpan 2): だいじ}大事に　{ruby (charSpan 1): そだ}育てるから、{pause 10}	その{ruby (charSpan 1): てん}点は　{ruby (charSpan 2): あんしん}安心していいよ！
+"019"	よ～し、{pause 10}{0011-0003-0002-0001}！{pause 20}	{ruby (charSpan 2): きょう}今日からアンタは　ここで{ruby (charSpan 1): ね}寝な！
+"020"	{emote: Happiness}へへっ！{pause 15}	{ruby (charSpan 1): い}生き{ruby (charSpan 1): もの}物と{ruby (charSpan 1): く}暮らすってのは{pause 5}	やっぱ　いいもんだねぇ、{pause 8}{catchphrase}
+"021"	{emote: Alarmed}{0011-0003-0002-0001}？{pause 40}	{emote: Soft Smile}いいじゃん　いいじゃん！{pause 20}	これなら　しっくりいきそうだ！
+"022"	{emote: Alarmed}あ！　{pause 20}{0011-0003-0002-0001}？！{pause 40}	{emote: Soft Smile}しかも　リメイクしてある！{pause 20}	シャレてんねー！
+"023"	{emote: Agreement}{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着いたら　{ruby (charSpan 1): あと}後で	{ruby (charSpan 1): かざ}飾ってみるよ！
+"024"	{emote: Agreement}{ruby (charSpan 1): いえ}家に{ruby (charSpan 1): かえ}帰ったら　さっそく	{ruby (charSpan 1): かざ}飾ってみるよ！
+"025"	{emote: Inspired}よーし！{pause 20}	せっかくだから　{ruby (charSpan 1): いま}今、{pause 8}{ruby (charSpan 1): かざ}飾ってみよ！
+"026"	{emote: Soft Smile}えへへ{pause 8}・{pause 8}・{pause 8}・{pause 20}いーじゃん！{pause 20}	バッチリじゃん！
+"027"	{emote: Agreement}そんじゃ{pause 8}・{pause 8}・{pause 8}・{pause 20}さっきまで　{ruby (charSpan 1): かざ}飾ってた	この　{0011-0003-0002-0002}は	アンタにあげるね！{pause 20}	{emote: Soft Smile}はい、どうぞ！
+"028"	{emote: Soft Smile}サンキュー、{Player nickname (green)}！{pause 10}	{ruby (charSpan 1): たす}助かったよ！　{pause 20}{catchphrase}！
+"029"
+"030"
+"031"	{emote: Alarmed}へぇ　{0011-0003-0002-0001}？{pause 40}	{emote: Soft Smile}なるほどね！
+"032"	{emote: Alarmed}へぇ、{pause 20}{0011-0003-0002-0001}？！{pause 40}	{emote: Soft Smile}しかも　リメイクしてある！{pause 20}	シャレてんねー！
+"033"	{emote: Agreement}{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着いたら　{ruby (charSpan 1): あと}後で	{ruby (charSpan 1): かざ}飾ってみるよ！
+"034"	{emote: Agreement}{ruby (charSpan 1): いえ}家に{ruby (charSpan 1): かえ}帰ったら　さっそく	{ruby (charSpan 1): かざ}飾ってみるよ！
+"035"	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}これ、	どういう{ruby (charSpan 1): む}向きが　いいかな？
+"036"	{emote: Agreement}こりゃ　もうちょっと、	{ruby (charSpan 1): かんが}考える{ruby (charSpan 2): じかん}時間が　{ruby (charSpan 2): ひつよう}必要かも{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}{ruby (charSpan 1): あと}後で　じっくりやろっと！
+"037"	{emote: Inspired}あっ！{pause 20}	いいこと　{ruby (charSpan 1): かんが}考えた！
+"038"	{emote: Delight}おお～！{pause 40}　{ruby (charSpan 1): き}決まったね！{pause 40}{emote: Soft Smile}
+"039"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Sheepishness}う～ん、{pause 20}	いくらなんでも　これは{ruby (charSpan 1): おお}大き{ruby (charSpan 1): す}過ぎて	{ruby (charSpan 1): お}置くところが　ないなぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}{ruby (charSpan 1): も}持ってきてもらったのに　{ruby (charSpan 1): わる}悪いけど、{pause 8}	もうちょっと　{ruby (charSpan 1): ちい}小さな{ruby (charSpan 1): もの}物があったら	ゆずってくれないかい、{pause 8}{catchphrase}？
+"040"
+"041"	{emote: Soft Smile}そんじゃ、{ruby (charSpan 2): こんかい}今回の	お{ruby (charSpan 1): れい}礼を　あげるね！		{emote: Reset}これ、{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取って！
+"042"	{emote: Glee}へへへ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{0011-0003-0002-0002}だよ！{pause 40}	{ruby (charSpan 2): いろいろ}色々　ありがとね！　{pause 20}{catchphrase}！
+"043"
+"044"
+"045"	{emote: Alarmed}へぇ、{pause 20}{0011-0003-0002-0001}？！{pause 40}	{emote: Soft Smile}なるほど　そういう{ruby (charSpan 1): て}手が	あったか{pause 8}・{pause 8}・{pause 8}・{pause 20}
+"046"	{emote: Alarmed}へぇ、{pause 20}{0011-0003-0002-0001}？！{pause 40}	{emote: Soft Smile}なるほど　かせきを	{ruby (charSpan 2): かぐ}家具にするってのも　アイデアだね
+"047"	{emote: Alarmed}へぇ、{pause 20}{0011-0003-0002-0001}？！{pause 40}	{emote: Soft Smile}{ruby (charSpan 1): い}生きてるムシを　{ruby (charSpan 1): かざ}飾りにつかうなんて	こりゃ　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): き}切った{ruby (charSpan 1): はなし}話だね！
+"048"	{emote: Alarmed}へぇ、{pause 20}{0011-0003-0002-0001}？！{pause 40}	{emote: Soft Smile}{ruby (charSpan 1): い}生きてるサカナを　{ruby (charSpan 1): かざ}飾りにつかうなんて	こりゃ　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): き}切った{ruby (charSpan 1): はなし}話だね！
+"049"	{emote: Alarmed}へぇ、{pause 20}{0011-0003-0002-0001}？！{pause 40}	{emote: Soft Smile}なるほど　こりゃ{ruby (charSpan 1): うみ}海の{ruby (charSpan 1): なか}中みたいで	おもしろいね！
+"050"	{emote: Agreement}{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着いたら　{ruby (charSpan 1): あと}後で	{ruby (charSpan 1): かざ}飾ってみるよ！
+"051"	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}コイツ、	どこに{ruby (charSpan 1): お}置くのが　いいかな？{pause 40}	{emote: Agreement}やっぱり　{ruby (charSpan 1): い}生き{ruby (charSpan 1): もの}物だし{pause 8}・{pause 8}・{pause 8}・{pause 20}
+"052"	{emote: Delight}おお～！{pause 40}　{ruby (charSpan 1): き}決まったね！{pause 40}{emote: Soft Smile}
+"053"	{emote: Agreement}そんじゃ{pause 8}・{pause 8}・{pause 8}・{pause 20}さっきまで　{ruby (charSpan 1): かざ}飾ってた	この　{0011-0003-0002-0002}は	アンタにあげるね！{pause 20}	{emote: Soft Smile}はい、どうぞ！
+"054"	{emote: Soft Smile}サンキュー、{Player nickname (green)}！{pause 10}	{ruby (charSpan 1): たす}助かったよ！　{pause 20}{catchphrase}！
+"055"	{emote: Soft Smile}そんじゃ、{ruby (charSpan 2): こんかい}今回の	お{ruby (charSpan 1): れい}礼を　あげるね！		{emote: Reset}これ、{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取って！
+"056"	{emote: Glee}へへへ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{0011-0003-0002-0002}だよ！{pause 40}	{ruby (charSpan 2): いろいろ}色々　ありがとね！　{pause 20}{catchphrase}！
+"057"	{emote: Alarmed}{0007-000b-0000}わっ！{pause 20}	{0011-0003-0002-0001}？！		{emote: Thought}う～ん、{pause 20}これは	テーブルの{ruby (charSpan 1): うえ}上とかに{pause 5}	{ruby (charSpan 1): かざ}飾るのが　いいかな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}ま、じっくりと	{ruby (charSpan 2): にあ}似合う{ruby (charSpan 2): ばしょ}場所を　{ruby (charSpan 1): かんが}考えるとするよ！
+"058"	{emote: Soft Smile}そんじゃ　{ruby (charSpan 2): こんかい}今回のお{ruby (charSpan 1): れい}礼を	あげるね！		{emote: Reset}この　{0011-0003-0002-0002}、	{ruby (charSpan 1): う}受け{ruby (charSpan 1): と}取って！
+"059"	ありがとう　{Player nickname (green)}！	{ruby (charSpan 2): いろいろ}色々　{ruby (charSpan 1): たす}助かったよ！　{pause 20}{catchphrase}！

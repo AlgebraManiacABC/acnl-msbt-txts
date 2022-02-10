@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	なになに{pause 8}
-"006"	{emote: Alarmed}
-"007"	ん？{pause 20}
-"008"	え？{pause 15}
-"009"	え？{pause 15}
-"010"	これでいいかい？{0000-0004-0000}!
-"011"	ほらよ！{0000-0004-0000}
-"012"	ほら、{ruby (charSpan 1): か}書いたぜ！{Wait for input}
-"013"	ほらよ！{0000-0004-0000}
-"014"	ほら、{ruby (charSpan 1): か}書いたぜ、{pause 15}
-"015"	はいよ！{0000-0004-0000}
+"001"	{emote: Alarmed}{ruby (charSpan 1): わす}忘れたのかよ？！{pause 20}	{emote: Sheepishness}もう{ruby (charSpan 2): しょめい}署名　{ruby (charSpan 1): す}済ませたぜ？
+"002"	{emote: Alarmed}え？{pause 8}	もう{ruby (charSpan 2): しょめい}署名したぜ？！{pause 20}	{emote: Sheepishness}{ruby (charSpan 1): わす}忘れるんじゃねぇよ！
+"003"	{emote: Alarmed}ん？{pause 20}	{emote: Reset}オレぁもう{ruby (charSpan 2): しょめい}署名したぜ？！
+"004"	{emote: Alarmed}ん？{pause 15}　{emote: Reset}{0012-0001-0000}の	{ruby (charSpan 2): しょめい}署名に{ruby (charSpan 2): きょうりょく}協力しろってか？{Wait for input}{emote: Worry}こういうのオレ、{pause 8}{ruby (charSpan 2): にがて}苦手なんだよ{Wait for input}	{emote: Reset}{ruby (charSpan 1): わる}悪いが　{ruby (charSpan 1): ほか}他のヤツを{pause 8}	{ruby (charSpan 1): あ}当たってくんねぇかな？
+"005"	なになに{pause 8}・{pause 8}・{pause 8}・{pause 15}	{0012-0001-0000}の{ruby (charSpan 2): しょめい}署名？{Wait for input}{emote: Distress}あー、ダメダメ！{pause 15}	そうは{ruby (charSpan 1): み}見えねぇだろうけど、{pause 8}	オレ{ruby (charSpan 1): いそが}忙しいから！	{emote: Reset}すまねぇな、{pause 20}{catchphrase}！
+"006"	{emote: Alarmed}え？{pause 15}	{0012-0001-0000}の{ruby (charSpan 2): しょめい}署名？{Wait for input}{emote: Worry}うーん、{pause 15}	オレには　{ruby (charSpan 2): かんけい}関係なさそうだなぁ{Wait for input}	{emote: Reset}{ruby (charSpan 1): ほか}他を{ruby (charSpan 1): あ}当たってくれよ、{pause 15}{ruby (charSpan 1): わり}悪ぃな！
+"007"	ん？{pause 20}　{0012-0001-0000}の	{ruby (charSpan 2): しょめい}署名に{ruby (charSpan 2): きょうりょく}協力しろってか？{Wait for input}{emote: Happiness}{ruby (charSpan 2): おもしれ}面白ぇな！{pause 20}	オレで{ruby (charSpan 1): よ}良けりゃ{pause 8}	いくらでも{ruby (charSpan 2): しょめい}署名するぜ！
+"008"	え？{pause 15}　{0012-0001-0000}の	{ruby (charSpan 2): しょめい}署名に{ruby (charSpan 2): きょうりょく}協力してくれって？{Wait for input}{emote: Happiness}ほう！{pause 8}　いいじゃねぇか！{pause 20}	よろこんで{ruby (charSpan 2): しょめい}署名させてもらうぜ！
+"009"	え？{pause 15}　{0012-0001-0000}の	{ruby (charSpan 2): しょめい}署名に{ruby (charSpan 2): きょうりょく}協力して{ruby (charSpan 1): ほ}欲しいって？{pause 20}	{emote: Happiness}ああ、{pause 8}{ruby (charSpan 1): かま}構わねぇよ	{emote: Reset}{ruby (charSpan 1): じ}字がヘタクソだから{pause 8}	{ruby (charSpan 1): よ}読めるかどうか　わかんねぇけどな、{pause 20}	{emote: Laughter}がーっはっは！
+"010"	これでいいかい？{Wait for input}{emote: Happiness}それにしても、{pause 8}わざわざ	{Town name (pink)}{ruby (charSpan 1): むら}村から{ruby (charSpan 3): しょめいあつ}署名集めとは{pause 8}	ご{ruby (charSpan 2): くろう}苦労なこった！	ま、{pause 8}がんばってくんな！
+"011"	ほらよ！{Wait for input}で、オメェ{pause 8}	{ruby (charSpan 3): しょめいあつ}署名集めのために{pause 8}	わざわざ　{Town name (pink)}{ruby (charSpan 1): むら}村まで？	{emote: Happiness}ああ、{pause 8}ついでにか！{Wait for input}	ま、{pause 8}どっちにしても{pause 15}	がんばって　{ruby (charSpan 1): あつ}集めてくれ！
+"012"	ほら、{ruby (charSpan 1): か}書いたぜ！{Wait for input}	{emote: Happiness}せっかく　よその{ruby (charSpan 1): むら}村から{ruby (charSpan 1): き}来たんだし、{pause 20}	この{ruby (charSpan 2): ちょうし}調子で　がんばってくれよな！
+"013"	ほらよ！{Wait for input}{emote: Happiness}これで　{ruby (charSpan 2): しょめい}署名の{ruby (charSpan 1): らん}欄、{pause 8}	{ruby (charSpan 2): ぜんぶ}全部　うまったじゃねぇか！{pause 20}	{ruby (charSpan 1): よ}良かったな！
+"014"	ほら、{ruby (charSpan 1): か}書いたぜ、{pause 15}	{emote: Happiness}オレの{ruby (charSpan 2): しょめい}署名で　{ruby (charSpan 2): さいご}最後だったんだな！{Wait for input}これで{ruby (charSpan 2): ていしゅつ}提出できるんだろ？{pause 20}	{ruby (charSpan 1): よ}良かったな！
+"015"	はいよ！{Wait for input}{emote: Happiness}これで　{ruby (charSpan 2): しょめい}署名の{ruby (charSpan 1): らん}欄も{pause 15}	{ruby (charSpan 2): ぜんぶ}全部　うまったみてぇだな！{pause 20}	お{ruby (charSpan 1): つか}疲れさん！	これで{ruby (charSpan 2): しょめい}署名を{ruby (charSpan 2): ていしゅつ}提出できるな！

@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Resigned}
-"003"	{emote: Glee}
-"004"	{emote: Glee}
-"005"	{emote: Glee}
-"006"	그렇게 됐으니 {pause 10}
-"007"	그럼 {pause 10}
-"008"	{emote: Laughter}
-"009"	{emote: Happiness}
-"010"	{emote: Glee}
-"011"	결과는{pause 8}
-"012"	{emote: Bashful}
-"013"	{emote: Anger}
-"014"	{emote: Aggravation}
-"015"	{emote: Aggravation}
-"016"	{emote: Glee}
-"017"	{emote: Happiness}
-"018"	{emote: Happiness}
-"019"	{emote: Happiness}
-"020"	{emote: Resigned}
-"021"	{emote: Resigned}
-"022"	{0009-0000-0004-0a-00-0c-00}
-"023"	{0009-0000-0004-0b-00-10-00}
-"024"	{0009-0000-0004-0a-00-0b-00}
+"001"	{emote: Happiness}있지～ {pause 20}나 너무 심심한데{pause 15}	게임 {pause 5}안 할래?{Wait for input}{emote: Inspired}그래!{pause 20}	요즘에 유행하는 {pause 10}「칭찬 게임」을 하자!{Wait for input}{0007-000d-0000}{emote: Happiness}내 마음에 들게 칭찬을 해주면{pause 10}	아주 괜찮은 가격에{pause 10}	물건 하나를 {pause 5}넘길게!{Player can respond (0005):0008-0015-0002-0028}	해보자!	안 할래
+"002"	{emote: Resigned}뭐야ー {pause 20}너 진짜 시시하다!
+"003"	{emote: Glee}그럼 {pause 10}기분도 좋아졌고 하니{pause 15}	이건 그냥 {pause 20}공짜로 가져가!
+"004"	{emote: Glee}칭찬 대장인 {pause 10}너에겐 {pause 15}	{Blue}{Number (0x9)}벨{Color Reset}에 {pause 5}넘겨줄게!
+"005"	{emote: Glee}너도 참～! {pause 20}	{emote: Glare}칭찬이 수준급이라니까～{Wait for input}	{emote: Happiness}그럼 {pause 10}{Blue}{Number (0x9)}벨{Color Reset}에 {pause 5}넘길게!
+"006"	그렇게 됐으니 {pause 10}이건	너가 {Blue}{Number (0x9)}벨{Color Reset}에 {pause 5}사 가도록 해!
+"007"	그럼 {pause 10}이건	너가 {Blue}{Number (0x9)}벨{Color Reset}에 {pause 5}가져가야겠다!
+"008"	{emote: Laughter}당연히 그렇게 나와야지!{pause 30}	{emote: Happiness}그럼 {pause 10}규칙을 설명할게{Wait for input}방법은 {pause 10}아주 간단해!{pause 20}	내 기분이 좋아질 만한 말을{pause 15}	3개의 보기 중에서 {pause 5}고르기만 하면 된다구!	{emote: Glee}너가 제대로 고르면{pause 15}	{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 10}	특별 서비스 가격에 {pause 10}넘겨주겠어!	그치만 {pause 15}내 마음에 안 들면{pause 15}	그만한 대가를 치르게 될 거야～{pause 20}	{emote: Happiness}어때? {pause 20}재밌겠지?{Player can respond (0005):0009-0015-0002-0028}	재밌겠다!	별론데
+"009"	{emote: Happiness}오케이ー!{pause 20}	그럼 바로 첫 번째 문제를 낼게!{Wait for input}내가 좋아하는 {pause 5}말은{pause 15}	뭘까～요?{Player can respond (0001):0016-0000-0016-0000-000d-0000}	귀염둥이	멋쟁이	완전 평범해
+"010"	{emote: Glee}꺄하핫!{pause 10}	오～ {pause 15}괜찮은데?{emote: Soft Smile}{Wait for input}{emote: Happiness}결과는{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Joy}정답～!!{pause 30}{emote: Soft Smile}{Wait for input}{emote: Happiness}게임이긴 해도{pause 10}	역시 그런 소릴 들으니까 {pause 5}	기분이 좋다～!{0009-0001-0006-0003-0004-0005}
+"011"	결과는{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Joy}정답～!!{pause 30}{emote: Soft Smile}{Wait for input}{emote: Glee}게임인 건 알지만{pause 10}	대놓고 그러니까 {pause 5}쑥스러워～!{0009-0001-0006-0004-0004-0005}
+"012"	{emote: Bashful}꺄하핫!{pause 10}	게임이긴 하지만 {pause 10}좀 부끄럽다～{pause 30}{emote: Soft Smile}{Wait for input}{emote: Reset}그치만 {pause 10}지금 가장 듣고 싶은 말은{pause 5}	아니야{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Happiness}아까우니까 {pause 10}한 문제 더 낼게!{pause 30}	내 기분이 좋아지는 {pause 5}칭찬은 {pause 15}뭘까～요?{Player can respond (0001):0017-0000-0017-0000-000e-0000}	완전 깜찍해	완전 사랑스러워	완전 평범해
+"013"	{emote: Anger}뭐야～!{pause 20}	맞히라고 무지 {pause 10}쉬운 문제를 {pause 5}냈잖아! {pause 10}	일부러 {pause 5}그러는 거야?	{emote: Happiness}그치만{pause 10}	난 {pause 10}솔직한 사람을 좋아하니까{pause 10}	오늘은 {pause 8}용서해주겠어!	그럼 {pause 15}한 문제 더 간다!{pause 20}	내가 좋아하는 {pause 5}말은 {pause 15}뭘까～요?{Player can respond (0001):0018-0000-0018-0000-000f-0000}	완전 깜찍해	완전 사랑스러워	완전 평범해
+"014"	{emote: Aggravation}어우～ 야!{pause 10}	그런 소리만은 절대 듣고 싶지 않다구～!{Wait for input}	{emote: Worry}혹시 {pause 10}날 괴롭히는 거야?!{0009-0000-0004-0006-0007}
+"015"	{emote: Aggravation}이 바보야!{pause 10}	내가 일부러 기회를 한 번 더 줬는데～!!{pause 20}	{emote: Distress}난 {pause 10}그런 말 듣고 싶지 않다구～!{0009-0000-0004-0006-0007}
+"016"	{emote: Glee}꺄하핫!{pause 30}	제법 잘 고르는데?{Wait for input}{emote: Happiness}그치만 {pause 10}내가 제일 듣고 싶었던 말은{pause 10}	그게 아냐{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}그럼 {pause 10}마지막이다～!{Wait for input}이 2개 중에서 {pause 10}고르는 거야!{Wait for input}	내가 {pause 10}지금 가장 듣고 싶은 말은{pause 15}	뭘까～요?{Player can respond (0000):000b-0000-000f-0000}	넌 마치 장미꽃 같아!	넌 장미에 돋친 가시 같아!
+"017"	{emote: Happiness}꽤 {pause 10}재밌었지?{pause 20}	다음에 또 놀자～ {pause 15}{catchphrase}!
+"018"	{emote: Happiness}다음에 한가할 때{pause 10}	또 놀자～ {pause 15}{catchphrase}!
+"019"	{emote: Happiness}놀아줘서 {pause 10}고마워!{pause 25}	덕분에 {pause 5}즐거웠어～ {pause 15}{catchphrase}
+"020"	{emote: Resigned}다음엔 {pause 10}좀 더{pause 5}	열심히 해봐!
+"021"	{emote: Resigned}다음엔 {pause 10}제대로 맞혀줬으면 좋겠다!
+"022"	{0009-0000-0004-000a-000c}
+"023"	{0009-0000-0004-000b-0010}
+"024"	{0009-0000-0004-000a-000b}

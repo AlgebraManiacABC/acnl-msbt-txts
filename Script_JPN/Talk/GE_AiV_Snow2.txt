@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Happiness}
-"003"	{emote: Sheepishness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Surprise}
-"007"	{emote: Happiness}
-"008"	{emote: Alarmed}
+"001"	{emote: Happiness}{Greeting begin}{Player name}{0005-000d-0000}だ！{Greeting end}{pause 20}	また{ruby (charSpan 1): あ}会ったね！　{pause 20}{catchphrase}{Wait for input}{emote: Fearful}{ruby (charSpan 1): さむ}寒すぎて、{pause 10}	このままじゃ　{pause 8}{ruby (charSpan 1): れい}冷とう　{Villager's name (orange)}だよ～
+"002"	{emote: Happiness}{ruby (charSpan 1): さむ}寒いけど{pause 10}	まだまだ　{ruby (charSpan 1): あそ}遊んでってよね～、{pause 15}{catchphrase}
+"003"	{emote: Sheepishness}{ruby (charSpan 1): ゆき}雪　{pause 8}さわりすぎて、{pause 10}	{emote: Distress}{ruby (charSpan 1): て}手が　かじかんじゃうよ～{Wait for input}{emote: Happiness}でも　{pause 8}{Town name (pink)}{ruby (charSpan 1): むら}村の{ruby (charSpan 1): ゆき}雪と{pause 10}	どんどん　ふれ{ruby (charSpan 1): あ}合ってね、{pause 15}{catchphrase}！
+"004"	{emote: Happiness}{Greeting begin}また　{ruby (charSpan 1): あ}会ったね～！{Greeting end}{Wait for input}{ruby (charSpan 1): さむ}寒さなんか　{ruby (charSpan 1): き}気にせず{pause 10}	{Town name (pink)}{ruby (charSpan 1): むら}村を{pause 3}　マンキツしてってね！{pause 20}	{catchphrase}！
+"005"	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　よく{ruby (charSpan 1): あ}会うよね～、{pause 15}{catchphrase}！{Wait for input}	{emote: Glee}{ruby (charSpan 1): ゆき}雪の{ruby (charSpan 1): なか}中のアタイは、{pause 15}	まるで　{pause 8}{ruby (charSpan 2): しらゆき}白雪ひめ{pause 5}ってカンジでしょ！
+"006"	{emote: Surprise}{Greeting begin}あ！　{pause 20}また{ruby (charSpan 1): あ}会ったね～{Greeting end}{pause 15}	{catchphrase}！{Wait for input}{emote: Distress}ちょっと、{pause 8}そんな{ruby (charSpan 1): かお}顔しないで！{Wait for input}	{emote: Worry}アタイは、{pause 5}{ruby (charSpan 2): ゆきおんな}雪女じゃないんだから～
+"007"	{emote: Happiness}{Greeting begin}{Player nickname (green)}{0005-000d-0000}{Greeting end}{pause 20}	また{ruby (charSpan 1): あ}会ったね、{pause 15}{catchphrase}！{Wait for input}{emote: Thought}{ruby (charSpan 1): ゆき}雪の{ruby (charSpan 1): よる}夜の{ruby (charSpan 2): さいかい}再会{pause 10}・{pause 10}・{pause 10}・{pause 50}{emote: Inspired}これって　{ruby (charSpan 2): うんめい}運命かな！
+"008"	{emote: Alarmed}あれ？　{pause 20}{Player nickname (green)}{0005-000d-0000}じゃ～ん{Wait for input}{emote: Happiness}{ruby (charSpan 1): ゆき}雪の{ruby (charSpan 1): なか}中だったから、{pause 10}{0005-0004-0002-cd00}{0005-000d-0000}かと	{ruby (charSpan 1): おも}思ったよ～、{pause 15}{catchphrase}！

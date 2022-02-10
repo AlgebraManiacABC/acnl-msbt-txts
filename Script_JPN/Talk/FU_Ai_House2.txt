@@ -1,13 +1,13 @@
 == 0 ==
-"001"	あら、{pause 10}
-"002"	{emote: Happiness}
-"003"	{emote: Soft Smile}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Happiness}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
-"011"	{emote: Happiness}
-"012"	{emote: Soft Smile}
+"001"	あら、{pause 10}{Player nickname (green)}さん！{pause 20}	ようこそ　いらっしゃいました、{pause 15}{catchphrase}
+"002"	{emote: Happiness}{Greeting begin}まぁ　{pause 20}{Player nickname (green)}さん！{Greeting end}{pause 20}	{emote: Glee}{ruby (charSpan 2): こんど}今度は　{pause 8}どんなお{ruby (charSpan 1): はなし}話かしら、{pause 15}{catchphrase}{Wait for input}	まだまだ　{pause 5}おしゃべりしましょうね
+"003"	{emote: Soft Smile}{ruby (charSpan 1): あさ}朝から　{pause 15}{Player nickname (green)}さんと{ruby (charSpan 1): あ}会えるなんて{Wait for input}	{emote: Glee}{ruby (charSpan 2): はやお}早起きは　{pause 10}3ベルの{ruby (charSpan 1): とく}得ですね、{pause 15}{catchphrase}！
+"004"	{emote: Happiness}あら、{pause 5}{Player nickname (green)}さん{pause 25}	また　{pause 5}{ruby (charSpan 1): き}来てくださったんですね、{pause 15}{catchphrase}！
+"005"	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{Player nickname (green)}さんと	いっぱい　おしゃべりできて{pause 5}	うれしいです、{pause 15}{catchphrase}！
+"006"	{emote: Happiness}{Greeting begin}まぁ、{pause 20}{Player nickname (green)}さん{Greeting end}{Wait for input}	わたしのお{ruby (charSpan 2): へや}部屋{pause 10}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入っていただけましたか、{pause 15}{catchphrase}
+"007"	{emote: Happiness}{ruby (charSpan 1): よる}夜は、{pause 8}ゆっくり　お{ruby (charSpan 1): うち}家でおしゃべり{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Love}そういう{ruby (charSpan 2): せいかつ}生活って{pause 8}	いいですよね、{pause 15}{catchphrase}
+"008"	{emote: Happiness}あら、{pause 20}{Player nickname (green)}さん！{pause 30}	{emote: Agreement}また　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来てくださったんですね{Wait for input}	{emote: Happiness}ごゆっくり　どうぞ、{pause 20}{catchphrase}
+"009"	{emote: Happiness}{Greeting begin}まぁ、{pause 20}{Player nickname (green)}さん{Greeting end}{Wait for input}	{ruby (charSpan 2): じかん}時間は{ruby (charSpan 1): き}気にせず、{pause 10}	ゆっくりしていってください、{pause 15}{catchphrase}
+"010"	{emote: Happiness}{Greeting begin}まぁ、{pause 20}{Player nickname (green)}さん{Greeting end}{Wait for input}	{emote: Glee}{ruby (charSpan 2): こんや}今夜は　とことん{pause 10}	{ruby (charSpan 1): かた}語りつくしましょう、{pause 15}{catchphrase}！
+"011"	{emote: Happiness}もう　{pause 8}{Hour}{ruby (charSpan 1): じ}時ですね！{pause 20}	{emote: Curious}お{ruby (charSpan 2): じかん}時間　{ruby (charSpan 3): だいじょうぶ}大丈夫ですか？{Wait for input}	{emote: Joy}わたしは　{pause 8}もちろん{ruby (charSpan 2): へいき}平気ですよ、{pause 15}{catchphrase}{pause 8}{emote: Soft Smile}
+"012"	{emote: Soft Smile}{Player nickname (green)}さんと{pause 8}	おしゃべりしていると、{Wait for input}	{emote: Happiness}{ruby (charSpan 2): じかん}時間を{ruby (charSpan 1): わす}忘れて　{pause 10}{ruby (charSpan 1): あさ}朝になっちゃいそうです

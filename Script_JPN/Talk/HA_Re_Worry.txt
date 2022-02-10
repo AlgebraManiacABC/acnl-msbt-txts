@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{pause 8}
-"003"	{emote: Thought}
-"004"	
-"005"	{emote: Outrage}
-"006"	{emote: Agreement}
+"001"	{emote: Alarmed}あ、{pause 8}{Player nickname (green)}！{pause 20}	{emote: Pride}オイラ　めずらしく	{ruby (charSpan 1): あたま}頭を{ruby (charSpan 1): つか}使ってるんだ！{Wait for input}{emote: Reset}ちょっと　{ruby (charSpan 1): かんが}考え{ruby (charSpan 1): ごと}事が{ruby (charSpan 1): お}終わるまで、{pause 8}	うでたて　でもして	{ruby (charSpan 1): ま}待っててくれよ、{pause 8}{catchphrase}
+"002"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Curious}ん？{pause 40}	{ruby (charSpan 1): かんが}考え{ruby (charSpan 1): ごと}事してるオイラが	そんなに　めずらしいかー？{Player can respond (0005):0005-0015-0006-0028}	うん	そんなことない
+"003"	{emote: Thought}アレと　アレを{ruby (charSpan 1): た}足して、{pause 20}	そこから　{Player nickname (green)}を{ruby (charSpan 1): ひ}引くと{pause 8}・{pause 8}・{pause 8}・{pause 40}	{emote: Alarmed}ナニッ？！{pause 20}　{Player nickname (green)}？！{Wait for input}{emote: Distress}オイー！{pause 20}	わかんなく	なっちゃったじゃんかー！
+"004"
+"005"	{emote: Outrage}{ruby (charSpan 2): しつれい}失礼だぞ！{pause 8}　{Player nickname (green)}！{pause 20}	ジャマするなよー？！
+"006"	{emote: Agreement}うん{pause 8}うん！{pause 40}	{emote: Sunny}オイラって　{ruby (charSpan 1): かんが}考え{ruby (charSpan 1): ごと}事が{ruby (charSpan 1): おお}多い	キャラだよな、{pause 8}{catchphrase}

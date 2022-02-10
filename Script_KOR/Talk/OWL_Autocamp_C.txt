@@ -1,20 +1,20 @@
 == 0 ==
-"001"	{emote: Sleep Bubble}
-"002"	{emote: Distress}
-"003"	{emote: Bashful}
-"004"	
-"005"	
-"006"	{emote: Sheepishness}
-"007"	{emote: Agreement}
-"008"	{emote: Happiness}
-"009"	{emote: Greetings}
-"010"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"011"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"012"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"013"	{0009-0003-000a-10-00-11-00-12-00-13-00-14-00}
-"014"	
-"016"	{emote: Fearful}
-"017"	{emote: Happiness}
-"018"	{emote: Fearful}
-"019"	{emote: Happiness}
-"020"	이 캠핑장 땅에도{pause 8}
+"001"	{emote: Sleep Bubble}{Text size 75%}흠냐{pause 15}・{pause 15}・{pause 15}・{Text size 100%}{pause 25}{emote: Sleepy}{pause 120}{emote: Alarmed}{Wait <0096 0000> 'time'}	{emote: Shocked}{pause 5}앗!{Wait <002d 0000> 'time'}
+"002"	{emote: Distress}{pause 10}아이고, {pause 10}죄송합니다!{pause 15}	제가 야행성이다 보니	낮에는 졸음이 쏟아져서{pause 5}・{pause 5}・{pause 5}・
+"003"	{emote: Bashful}죄, {pause 10}죄송합니다{pause 5}・{pause 5}・{pause 5}・　
+"004"
+"005"
+"006"	{emote: Sheepishness}모처럼 휴가를 쓰고{pause 8}	캠핑하러 왔는데{pause 16}	이래 가지고는 평소와 다를 바가 없군요{Wait for input}{emote: Surprise}앗!{pause 60}	{emote: Distress}항상 낮 시간에 졸고 있다는{pause 8}	뜻은 아닙니다!
+"007"	{emote: Agreement}저는 {pause 8}평소에 이 마을의	박물관 관장을 맡고 있습니다만,{pause 30}	오늘은 드물게 휴가를 얻었습니다{Wait for input}{emote: Sheepishness}모처럼의 휴가에{pause 8}	캠핑을 하러 왔는데{pause 16}	이래 가지고는 평소와 다를 바가 없군요{Wait for input}{emote: Surprise}앗!{pause 60}	{emote: Distress}항상 낮 시간에 졸고 있다는{pause 8}	뜻은 아닙니다!
+"008"	{emote: Happiness}오호!{pause 16}	안녕하십니까, {Player name}님!{Wait for input}{emote: Agreement}오늘은 제가{pause 16}	모처럼 휴가라서 말입니다{Wait for input}{emote: Happiness}단 하루뿐이긴 하지만{pause 16}	푹 쉬려고 합니다!
+"009"	{emote: Greetings}아, 안녕하세요!{pause 30}	{emote: Curious}다른 마을 분이신가요?{Wait for input}{emote: Agreement}저는 {pause 8}평소에 이 마을의	박물관 관장을 맡고 있습니다만,{pause 30}	오늘은 오랜만의 휴가입니다{Wait for input}{emote: Alarmed}아, 박물관은{pause 30}	{emote: Agreement}자유롭게 출입하실 수 있으니{pause 16}	시간 되시면 들러주세요
+"010"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"011"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"012"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"013"	{0009-0003-000a-0010-0011-0012-0013-0014}
+"014"
+"016"	{emote: Fearful}바깥에 나가면 {pause 16}틀림없이	곤충이 많겠지요{pause 8}・{pause 8}・{pause 8}・{Wait for input}그래서 저는{pause 16}	이렇게 계～속{pause 30}	캠핑카 안에 있는 겁니다{Wait for input}{emote: Alarmed}어라{pause 8}・{pause 8}・{pause 8}・{pause 8}	그러고 보니 저는 대체{pause 30}	{emote: Curious}뭘 하러 여기에 온 걸까요?
+"017"	{emote: Happiness}저는 {pause 8}평소에 박물관에서{pause 16}	일을 하고 있습니다만{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Agreement}좋아하는 옷이나, 음식처럼{pause 30}	개인적인 것들을 기증하려는 분들이{pause 16}	상당히 많이 계십니다	{emote: Thought}{pause 16}박물관에 전시하는 건{pause 30} 문화적으로	후세에 남길 만한 가치가 있는 것들이라고	{pause 30}몇 번이나 말씀드려도 똑같습니다{pause 8}・{pause 8}・{pause 8}・
+"018"	{emote: Fearful}{pause 16}아～ {pause 16}싫다 싫어{pause 8}・{pause 8}・{pause 8}・{pause 16}	야외에 불을 피워 두면{pause 16}	곤충들이 모여들잖아요～	{emote: Bashful}{pause 16}애초에 저는{pause 30}	아웃도어에 약하니까요{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Alarmed}어라{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Thought}{pause 16}그러고 보니{pause 8} 저는 왜{pause 16}	여기에 있는 걸까요?
+"019"	{emote: Happiness}이렇게 박물관을 떠나{pause 30}	느긋하게 있으니{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Sleepy}{pause 16}마음 홀가분하게{pause 8}・{pause 8}・{pause 8}・{pause 30}　	{emote: Sleep Bubble}{pause 16}잘 수 있겠군요{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 8}・{pause 30}	{emote: Alarmed}아앗, {pause 8}이거 실례했습니다!
+"020"	이 캠핑장 땅에도{pause 8}	생명을 탄생시키고 키운 물이{pause 16}	{emote: Soft Smile}흐르고 있습니다{pause 8}・{pause 8}・{pause 8}・	{emote: Agreement}물은 흙과 모래를 옮겨 토사를 만듭니다{pause 30}	그리고 여러 해에 걸쳐 {pause 8}퇴적된 토사 속의	물과 공기가{pause 8} 압력에 의해 빠져나오고{pause 8}・{pause 8}・{pause 8}・	{emote: Agreement}토사에 갇히게 된 동식물은{pause 16} 최소 2000년의	세월에 걸쳐{pause 8} 화석이 되는 겁니다!{pause 30}	・{pause 8}・{pause 8}・{pause 8}{emote: Surprise}아아아앗!{Wait for input}{emote: Distress}죄, {pause 8}죄송합니다!{pause 16}	제가 {pause 8}또 어려운 얘기를 했나요?

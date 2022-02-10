@@ -1,19 +1,19 @@
 == 0 ==
-"001"	{0009-0001-0006-03-00-04-00-05-00}
-"002"	{0009-0004-000c-08-00-09-00-0a-00-0b-00-0c-00-0d-00}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Greetings}
-"007"	{emote: Alarmed}
-"008"	{emote: Happiness}
-"009"	{emote: Greetings}
-"010"	{emote: Alarmed}
-"011"	{0009-0001-0006-10-00-11-00-12-00}
-"012"	{emote: Thought}
-"013"	{emote: Sleepy}
-"014"	
-"015"	
-"016"	{emote: Glare}
-"017"	{emote: Glare}
-"018"	{emote: Glare}
+"001"	{0009-0001-0006-0003-0004-0005}
+"002"	{0009-0004-000c-0008-0009-000a-000b-000c-000d}
+"003"	{emote: Happiness}{ruby (charSpan 2): こんや}今夜は　{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}だねぇ～{pause 40}	お{ruby (charSpan 1): つき}月さまを{ruby (charSpan 1): み}見ながら、{pause 8}	おだんごを{ruby (charSpan 1): た}食べるんだぁ～{Wait for input}{emote: Love}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): つきみ}月見だんごかぁ～{pause 20}	{ruby (charSpan 1): たの}楽しみだなぁ、{pause 8}{catchphrase}
+"004"	{emote: Happiness}{Player nickname (green)}{0005-000d-0000}{pause 20}	{ruby (charSpan 2): こんや}今夜は　{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}だねぇ～{Wait for input}お{ruby (charSpan 1): つき}月さまを{ruby (charSpan 1): み}見ながら{ruby (charSpan 1): た}食べる{pause 20}	{ruby (charSpan 2): つきみ}月見だんごは	とっても　おいしいんだよぉ～{Wait for input}{emote: Glee}{ruby (charSpan 1): はや}早く　お{ruby (charSpan 1): つき}月さまが	{ruby (charSpan 1): で}出てこないかなぁ、{pause 8}{catchphrase}
+"005"	{emote: Happiness}{ruby (charSpan 2): きょう}今日は　{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}だよぉ～{pause 40}	{emote: Curious}{Player nickname (green)}{0005-000d-0000}は	ちゃんと　おぼえてたよねぇ？{Player can respond (0005):0006-0015-0007-0028}	もちろん！	{ruby (charSpan 1): わす}忘れてた
+"006"	{emote: Greetings}さすが　{Player nickname (green)}{0005-000d-0000}！{pause 40}	{emote: Love}{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}の{ruby (charSpan 1): ひ}日を　おぼえてるなんて{pause 20}	ロマンチストだねぇ～{Wait for input}{emote: Glare}いや{pause 8}・{pause 8}・{pause 8}・{pause 20}　もしかしたら、{pause 20}	{ruby (charSpan 2): つきみ}月見だんごが{ruby (charSpan 1): だい}大すきな	{ruby (charSpan 1): く}食いしんぼう？{Wait for input}{emote: Distress}うぅ～ん、{pause 20}	キミは　どっちなのぉ～、{pause 8}{catchphrase}
+"007"	{emote: Alarmed}{0007-000a-0000}えぇ～？！{pause 20}	{Player nickname (green)}{0005-000d-0000}	わすれちゃってたのぉ？！{Wait for input}{emote: Worry}{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}の{ruby (charSpan 1): ひ}日は{pause 20}	{ruby (charSpan 2): つきみ}月見だんごも	{ruby (charSpan 1): た}食べられるのに～！{Wait for input}{emote: Happiness}えへへ～{pause 20}	{ruby (charSpan 1): いま}今　{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出せてよかったねぇ、{pause 8}{catchphrase}
+"008"	{emote: Happiness}{ruby (charSpan 2): きょう}今日のお{ruby (charSpan 1): つき}月さまは	とっても　キレイだねぇ～{Wait for input}{emote: Love}あのお{ruby (charSpan 1): つき}月さまに	おねがいごとをしたら、{pause 20}	なんでも　かなえてくれる　{ruby (charSpan 1): き}気がするよぉ
+"009"	{emote: Greetings}{ruby (charSpan 2): きょう}今日は　{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}！{pause 40}	{emote: Happiness}おまんじゅうみたいな　お{ruby (charSpan 1): つき}月さまを{ruby (charSpan 1): み}見て	のんびり　すごそうねぇ、{pause 8}{catchphrase}
+"010"	{emote: Alarmed}わぁ～{pause 20}	{ruby (charSpan 2): きょう}今日のお{ruby (charSpan 1): つき}月さまは	まんまるだねぇ、{pause 8}{catchphrase}{Wait for input}{emote: Agreement}あのお{ruby (charSpan 1): つき}月さまの{ruby (charSpan 1): うえ}上では、{pause 20}	ウサギさんが　おいしいおもちを	ついてるんだってぇ～{Wait for input}{pause 40}{emote: Distress}{0007-000b-0000}{Text size 100%}ズルい～！{pause 40}{Text size 100%}	ボクも　おもちが{ruby (charSpan 1): た}食べたいよぉ！
+"011"	{0009-0001-0006-0010-0011-0012}
+"012"	{emote: Thought}{ruby (charSpan 2): つきみ}月見だんご{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): つきみ}月見うどんに{pause 20}　{ruby (charSpan 2): つきみ}月見そば{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Love}{ruby (charSpan 2): こんや}今夜は　{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}だから{pause 20}	ぜんぶ　{ruby (charSpan 1): た}食べるんだぁ、{pause 8}{catchphrase}
+"013"	{emote: Sleepy}ふぁぁ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	お{ruby (charSpan 1): つき}月さまを{ruby (charSpan 1): み}見てたら、{pause 8}	なんだか　ねむくなってきちゃったぁ～{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): こんや}今夜は{pause 20}　お{ruby (charSpan 1): つき}月さまに{ruby (charSpan 1): い}行く	ユメが　{ruby (charSpan 1): み}見たいなぁ、{pause 8}{catchphrase}
+"014"
+"015"
+"016"	{emote: Glare}お{ruby (charSpan 1): つき}月さまには、{pause 20}	きっと　だれかが　すんでるよねぇ{Wait for input}{emote: Happiness}ボク　テレパシーで	お{ruby (charSpan 1): はなし}話してみよぉ～っと{Wait for input}{emote: Sunny}{ruby (charSpan 2): きょう}今日は　{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}だから、{pause 20}	きっと　テレパシーが	とどきやすいはず！{Wait for input}{emote: Anger}{0007-000b-0000}ビビ{pause 20}{0007-000b-0000}ビビ{pause 20}{0007-000b-0000}ビビビ{pause 8}・{pause 8}・{pause 8}・{pause 60}	{emote: Alarmed}{Text size 150%}あ！{pause 20}　おへんじだぁ～！{Wait for input}{Text size 100%}	{pause 8}ダ{pause 8}レ{pause 8}モ{pause 20}　イ{pause 8}マ{pause 8}セ{pause 8}ン{pause 40}	{emote: Worry}だってぇ～{Wait for input}{emote: Sadness}なんだぁ～{pause 20}	だれも　いないのかぁ、{pause 8}{catchphrase}
+"017"	{emote: Glare}お{ruby (charSpan 1): つき}月さまには、{pause 20}	きっと　だれかが　すんでるよねぇ{Wait for input}{emote: Happiness}ボク　テレパシーで	お{ruby (charSpan 1): はなし}話してみよぉ～っと{Wait for input}{emote: Sunny}{ruby (charSpan 2): きょう}今日は　{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}だから、{pause 20}	きっと　テレパシーが	とどきやすいはず！{Wait for input}{emote: Anger}{0007-000a-0000}ビビ{pause 20}{0007-000a-0000}ビビ{pause 20}{0007-000a-0000}ビビビ{pause 8}・{pause 8}・{pause 8}・{pause 60}	{emote: Alarmed}{Text size 150%}あ！{pause 20}　おへんじだぁ～！{Wait for input}{Text size 100%}	{pause 20}イ{pause 8}マ{pause 20}　ト{pause 8}リ{pause 8}コ{pause 8}ミ{pause 8}チュ{pause 8}ウ{pause 40}	{emote: Worry}だってぇ～{Wait for input}{emote: Sadness}なんだぁ～{pause 20}	おとりこみ{ruby (charSpan 1): ちゅう}中かぁ、{pause 8}{catchphrase}
+"018"	{emote: Glare}お{ruby (charSpan 1): つき}月さまには、{pause 20}	きっと　だれかが　すんでるよねぇ{Wait for input}{emote: Happiness}ボク　テレパシーで	お{ruby (charSpan 1): はなし}話してみよぉ～っと{Wait for input}{emote: Sunny}{ruby (charSpan 2): きょう}今日は　{Blue}お{ruby (charSpan 2): つきみ}月見{Color Reset}だから、{pause 20}	きっと　テレパシーが	とどきやすいはず！{Wait for input}{emote: Anger}{0007-000a-0000}ビビ{pause 20}{0007-000a-0000}ビビ{pause 20}{0007-000a-0000}ビビビ{pause 8}・{pause 8}・{pause 8}・{pause 60}	{emote: Alarmed}{Text size 150%}あ！{pause 20}　おへんじだぁ～！{Wait for input}{Text size 100%}	{pause 20}タ{pause 8}ダ{pause 8}イ{pause 8}マ　{pause 20}ル{pause 8}ス{pause 8}ニ{pause 8}シ{pause 8}テ{pause 8}オ{pause 8}リ{pause 8}マ{pause 8}ス{pause 40}	{emote: Worry}だってぇ～{Wait for input}{emote: Sadness}なんだぁ～{pause 20}	るすばん{ruby (charSpan 2): でんわ}電話に	つながっちゃったぁ、{pause 8}{catchphrase}

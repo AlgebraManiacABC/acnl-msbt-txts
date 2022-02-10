@@ -1,25 +1,25 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Happiness}
-"003"	{emote: Soft Smile}
-"004"	{emote: Worry}
-"005"	{emote: Worry}
-"006"	{emote: Thought}
-"007"	{emote: Surprise}
-"008"	{emote: Distress}
-"009"	{emote: Surprise}
-"010"	{emote: Surprise}
-"011"	{emote: Alarmed}
-"012"	{emote: Surprise}
-"013"	{emote: Alarmed}
-"014"	{emote: Distress}
-"015"	{emote: Alarmed}
-"016"	{emote: Surprise}
-"017"	{emote: Alarmed}
-"018"	{emote: Surprise}
-"019"	{emote: Happiness}
-"020"	{emote: Happiness}
-"021"	{emote: Happiness}
-"022"	{emote: Soft Smile}
-"023"	{emote: Soft Smile}
-"024"	{emote: Soft Smile}
+"001"	{emote: Curious}あら？{pause 30}	{ruby (charSpan 1): なに}何か{ruby (charSpan 1): ひろ}拾われたんですよね？{Wait for input}{emote: Soft Smile}{ruby (charSpan 1): み}見てみないと{pause 10}	{ruby (charSpan 2): じぶん}自分のか　わかりません
+"002"	{emote: Happiness}どうしました？{pause 30}	{ruby (charSpan 1): み}見せてもらえないと{pause 10}	{ruby (charSpan 1): たし}確かめられないです、{pause 15}{catchphrase}
+"003"	{emote: Soft Smile}あら　{pause 20}{ruby (charSpan 1): なに}何か{ruby (charSpan 1): ひろ}拾ったなら{pause 10}	{ruby (charSpan 1): み}見せてくださいね～
+"004"	{emote: Worry}{ruby (charSpan 2): ざんねん}残念ですけど{pause 10}	これ　{pause 10}わたしのじゃないみたいです
+"005"	{emote: Worry}ごめんなさい{pause 20}	{ruby (charSpan 2): じぶん}自分のじゃないですね～{Wait for input}{emote: Happiness}{ruby (charSpan 1): ほか}他のひとに	{ruby (charSpan 1): き}聞いてみると　{pause 5}いいと{ruby (charSpan 1): おも}思います
+"006"	{emote: Thought}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	{ruby (charSpan 2): みおぼ}見覚えないですね{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}	{emote: Happiness}{ruby (charSpan 1): ほか}他のひとのだと　{ruby (charSpan 1): おも}思いますよ！
+"007"	{emote: Surprise}あ！　{pause 20}この{ruby (charSpan 1): ほん}本！{pause 30}	{emote: Happiness}{ruby (charSpan 1): な}無いと{ruby (charSpan 1): おも}思ってたら{pause 10}	{ruby (charSpan 1): お}落としてたんですね！	{emote: Distress}お{ruby (charSpan 2): ともだち}友達に　お{ruby (charSpan 1): か}借りしていたものなので{pause 10}	{emote: Happiness}{ruby (charSpan 1): たす}助かりました～、{pause 15}{catchphrase}
+"008"	{emote: Distress}ど、{pause 10}どこで{ruby (charSpan 1): み}見つけたんですか？！{pause 20}	{emote: Happiness}この{ruby (charSpan 1): ほん}本　{pause 10}ずっと{ruby (charSpan 1): さが}探してたんです～{Wait for input}	{emote: Glee}{ruby (charSpan 2): たからもの}宝物だったんで　{pause 10}ほんと{ruby (charSpan 1): たす}助かりました！
+"009"	{emote: Surprise}あ！	もう{ruby (charSpan 1): な}無くしたと{ruby (charSpan 1): おも}思って{pause 10}	あきらめてたんです！	{emote: Happiness}{ruby (charSpan 1): ちい}小さい{ruby (charSpan 1): ころ}頃から{ruby (charSpan 1): よ}読んでいた{pause 10}	{ruby (charSpan 1): おも}思い{ruby (charSpan 1): で}出の{ruby (charSpan 1): ほん}本なので{pause 15}	{ruby (charSpan 1): み}見つかって　うれしいです{emote: Sunny}
+"010"	{emote: Surprise}まぁ！{pause 20}	これ　わたしのです！{Wait for input}{emote: Soft Smile}お{ruby (charSpan 2): りょうり}料理レシピを{ruby (charSpan 1): い}入れたまま{pause 10}	{ruby (charSpan 1): お}落としてしまって　{pause 8}{ruby (charSpan 2): ざんねん}残念だったので、{pause 15}	{emote: Glee}{ruby (charSpan 1): み}見つかってうれしいです！
+"011"	{emote: Alarmed}わぁ！{pause 20}	わたし　{ruby (charSpan 1): お}落としてたんですか？{Wait for input}{emote: Worry}{ruby (charSpan 3): きちょうひん}貴重品を{ruby (charSpan 1): い}入れていたので{pause 10}	{emote: Happiness}{ruby (charSpan 1): ひろ}拾ってくださったのが{pause 8}	{Player nickname (green)}さんで　{pause 10}{ruby (charSpan 1): よ}良かったです
+"012"	{emote: Surprise}あ！{pause 20}	これ　{ruby (charSpan 1): な}無いと{ruby (charSpan 1): おも}思って{pause 10}	{emote: Distress}あきらめかけてたんですよ～	{emote: Happiness}{ruby (charSpan 1): み}見つけてくださって{pause 10}	ありがとうございました！
+"013"	{emote: Alarmed}わぁ！{pause 20}	これ　{pause 10}ずっと{ruby (charSpan 1): さが}探してたんです！{Wait for input}{emote: Soft Smile}{ruby (charSpan 3): へやじゅう}部屋中おそうじしても　{pause 5}{ruby (charSpan 1): で}出てこなかったんで{pause 10}	どうしたのかと　{ruby (charSpan 1): おも}思ったら、{pause 15}	{ruby (charSpan 1): お}落としてたんですね～、{pause 15}{catchphrase}
+"014"	{emote: Distress}あら　{pause 20}はずかしい！{pause 20}	わたし　{pause 10}{ruby (charSpan 1): お}落としてたんですね{Wait for input}{emote: Glee}お{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入りの　{ruby (charSpan 2): てぶくろ}手袋だったんで{pause 10}	{ruby (charSpan 1): み}見つけていただけて　よかったです！
+"015"	{emote: Alarmed}あ！　{pause 20}これ{pause 10}　わたしのです！{Wait for input}	{emote: Happiness}よかった～{pause 20}	これで　{ruby (charSpan 2): りょうて}両手を　{pause 5}{ruby (charSpan 1): あたた}温められます
+"016"	{emote: Surprise}あ！　{pause 20}これ！{pause 20}	{emote: Soft Smile}どこに　{ruby (charSpan 1): お}置いてきたのかと{pause 10}	{ruby (charSpan 2): しんぱい}心配してたんです！	{emote: Agreement}{ruby (charSpan 1): たす}助かりました～、{pause 15}{catchphrase}
+"017"	{emote: Alarmed}わ！{pause 20}	こんな{ruby (charSpan 2): だいじ}大事なもの　{pause 5}{ruby (charSpan 1): お}落としてたなんて！{Wait for input}{emote: Worry}てっきり　どこかに{pause 10}	しまったと{ruby (charSpan 1): おも}思ってました{Wait for input}{emote: Happiness}{ruby (charSpan 1): ひろ}拾っていただいて{pause 10}	{ruby (charSpan 1): たす}助かりました、{pause 15}{catchphrase}！
+"018"	{emote: Surprise}まぁ！{pause 20}	これ　わたしのです、{pause 15}{catchphrase}{Wait for input}{emote: Worry}{ruby (charSpan 1): や}焼きたてのパンを　{pause 5}{ruby (charSpan 1): い}入れておいたのに、{pause 10}	{emote: Resigned}もう　カチカチになってそうですね
+"019"	{emote: Happiness}わざわざ　{ruby (charSpan 1): とど}届けてくださって{pause 10}	ありがとうございます！{Wait for input}{emote: Reset}{ruby (charSpan 1): いま}今　{pause 10}こんなものしかないですけど{pause 10}	{emote: Happiness}この　{pause 5}{0011-0003-0002-0000}、{pause 10}	お{ruby (charSpan 1): れい}礼にもらってください
+"020"	{emote: Happiness}{ruby (charSpan 1): とど}届けてくださって{pause 10}	ありがとうございます！{Wait for input}{emote: Reset}{ruby (charSpan 1): たい}大したものじゃないですけど、{pause 10}	{emote: Happiness}お{ruby (charSpan 1): れい}礼に　{pause 5}この　{0011-0003-0002-0000}、{pause 10}	もらってください！
+"021"	{emote: Happiness}どうも　ありがとうございました！{Wait for input}{emote: Reset}もしよければ{pause 10}	{0011-0003-0002-0000}　{pause 10}{ruby (charSpan 1): さ}差し{ruby (charSpan 1): あ}上げます{Wait for input}	{emote: Soft Smile}{ruby (charSpan 2): かんしゃ}感謝の{ruby (charSpan 2): きも}気持ちです{emote: Sunny}
+"022"	{emote: Soft Smile}もう　{ruby (charSpan 1): お}落とさないように{pause 10}	{ruby (charSpan 1): き}気を{ruby (charSpan 1): つ}付けますね
+"023"	{emote: Soft Smile}もう　{pause 5}ご{ruby (charSpan 2): めいわく}迷惑{pause 8}	おかけしないように　しなくっちゃ
+"024"	{emote: Soft Smile}これからは　{pause 10}しっかりしますね！

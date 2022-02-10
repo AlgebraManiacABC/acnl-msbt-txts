@@ -1,16 +1,16 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Alarmed}
-"005"	{emote: Alarmed}
-"006"	{emote: Alarmed}
-"007"	{emote: Agreement}
-"008"	え～っと{pause 8}
-"009"	{emote: Alarmed}
-"010"	{emote: Soft Smile}
-"011"	{pause 8}
-"012"	{pause 8}
-"013"	{emote: Soft Smile}
-"014"	{pause 8}
-"015"	{pause 8}
+"001"	{emote: Curious}え？{pause 40}　さっき{ruby (charSpan 2): しょめい}署名したよ？{pause 40}	{emote: Laughter}あはは、あせってんのかい？{pause 20}	まぁ　{ruby (charSpan 1): お}落ち{ruby (charSpan 1): つ}着きなって！　{pause 20}{catchphrase}！{pause 40}{emote: Soft Smile}
+"002"	{emote: Alarmed}えっ！{pause 20}　ウチはさっき	{ruby (charSpan 2): しょめい}署名したってば！{pause 40}	{emote: Reset}{ruby (charSpan 1): ほか}他のヤツを　あたってよ！　{pause 20}{catchphrase}！
+"003"	{emote: Alarmed}えっ？{pause 20}	さっき　{ruby (charSpan 2): しょめい}署名したけど{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Reset}{ruby (charSpan 1): ほか}他のヤツにも　{ruby (charSpan 1): き}聞いてみたら？
+"004"	{emote: Alarmed}{0012-0001-0000}　か	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Resigned}{ruby (charSpan 1): わる}悪いけど、	こういうのには　{ruby (charSpan 2): きょうりょく}協力できないね	{emote: Agreement}わざわざ　{ruby (charSpan 1): き}来てくれたのに	ゴメン{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Soft Smile}{ruby (charSpan 1): ほか}他をあたって！	{pause 20}{catchphrase}！
+"005"	{emote: Alarmed}へぇ～、{pause 8}	{0012-0001-0000}！		{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Reset}{ruby (charSpan 1): わる}悪いけど　パス！{pause 40}	{emote: Soft Smile}{ruby (charSpan 1): ほか}他に　{ruby (charSpan 2): さんどう}賛同してくれるヤツを	さがして！　{pause 20}{catchphrase}！
+"006"	{emote: Alarmed}{0012-0001-0000}{pause 40}	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Worry}あんまり　{ruby (charSpan 1): き}気が{ruby (charSpan 1): すす}進まないな		{emote: Agreement}せっかく　{ruby (charSpan 1): き}来てもらって{ruby (charSpan 1): わる}悪いけど、{pause 8}	{ruby (charSpan 1): ほか}他のヤツ　あたっておくれよ！	{pause 20}{catchphrase}！
+"007"	{emote: Agreement}ふぅん{pause 8}・{pause 8}・{pause 8}・{pause 20}	{0012-0001-0000}ね		{emote: Sunny}いいじゃん！{pause 20}	ぜひとも　{ruby (charSpan 2): しょめい}署名させてもらうよ！{pause 40}{emote: Soft Smile}
+"008"	え～っと{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Curious}{0012-0001-0000}{pause 20}	だっけ？	{emote: Sunny}おもしろいね、コレ！{pause 40}	{emote: Reset}ぜひ　{ruby (charSpan 2): しょめい}署名させて！
+"009"	{emote: Alarmed}あっ！{pause 20}	{0012-0001-0000}！{pause 40}	{emote: Reset}ウワサの　{ruby (charSpan 2): しょめい}署名って、これか！	{emote: Agreement}{ruby (charSpan 1): し}知ってる　{ruby (charSpan 1): し}知ってる！{pause 40}	もちろん　{ruby (charSpan 2): さんか}参加させてもらうよ！
+"010"	{emote: Soft Smile}はい、オッケー！{pause 20}			{emote: Agreement}よその{ruby (charSpan 1): むら}村から　わざわざ	{ruby (charSpan 1): あつ}集めにくるなんて、{pause 8}{ruby (charSpan 2): きあい}気合{ruby (charSpan 1): はい}入ってるね！		{emote: Soft Smile}おうえんしてるし、	がんばって！{pause 20}　{catchphrase}！
+"011"	{pause 8}・{pause 8}・{pause 8}・{pause 20}これで　よし、{pause 8}と！			{emote: Agreement}{ruby (charSpan 1): ほか}他の{ruby (charSpan 1): むら}村まで　{ruby (charSpan 1): あつ}集めに{ruby (charSpan 1): く}来るなんて{pause 8}	{ruby (charSpan 2): ほんき}本気だねぇ{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}そういうの、キライじゃないよ！	{emote: Glee}おうえんしてるから、	がんばりな！{pause 20}　{catchphrase}！
+"012"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Soft Smile}はい、{pause 8}{ruby (charSpan 1): お}終わったよ			{emote: Reset}この{ruby (charSpan 1): あと}後も　{ruby (charSpan 2): しょめい}署名{ruby (charSpan 1): あつ}集めるんだろ？{pause 20}	{emote: Agreement}{Town name (pink)}{ruby (charSpan 1): むら}村　くんだりまで{ruby (charSpan 1): き}来て	{ruby (charSpan 2): たいへん}大変だね{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Soft Smile}おうえんしてるから、	がんばりな！{pause 20}　{catchphrase}！
+"013"	{emote: Soft Smile}はい、オッケー{pause 8}・{pause 8}・{pause 8}・{pause 20}	{emote: Inspired}あっ！{pause 20}　{ruby (charSpan 2): もくひょう}目標の{ruby (charSpan 1): かず}数	{ruby (charSpan 1): あつ}集まったみたいだね！	{emote: Delight}おめでとう～！{pause 20}	{ruby (charSpan 1): とお}遠くまで　{ruby (charSpan 1): き}来たかいあったじゃん！	{pause 20}{catchphrase}！{pause 40}{emote: Soft Smile}
+"014"	{pause 8}・{pause 8}・{pause 8}・{pause 20}これで　よし、{pause 8}と！			{emote: Surprise}あ！{pause 10}　{ruby (charSpan 2): しょめい}署名{ruby (charSpan 2): ようし}用紙{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 2): ぜんぶ}全部　{ruby (charSpan 1): う}埋まったみたいだよ？{pause 10}		{emote: Delight}やったじゃん！{pause 20}	{ruby (charSpan 1): とお}遠くまで　{ruby (charSpan 1): き}来たかいあったね！	{pause 20}{catchphrase}！{pause 40}{emote: Soft Smile}
+"015"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Soft Smile}はい、{pause 8}{ruby (charSpan 1): お}終わったよ			{emote: Surprise}あれっ？{pause 20}　{ruby (charSpan 2): しょめい}署名{ruby (charSpan 2): ようし}用紙、	{ruby (charSpan 2): ぜんぶ}全部　うまったんじゃない？　		{emote: Delight}おめでとう！{pause 20}	{ruby (charSpan 1): むね}胸はって　{ruby (charSpan 1): むら}村に{ruby (charSpan 1): かえ}帰れるね！{pause 20}	{catchphrase}！{pause 40}{emote: Soft Smile}

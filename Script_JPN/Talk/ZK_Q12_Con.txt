@@ -1,21 +1,21 @@
 == 0 ==
-"001"	{emote: Worry}
-"002"	{emote: Worry}
-"003"	{emote: Worry}
-"004"	{emote: Soft Smile}
-"005"	{emote: Alarmed}
-"006"	{emote: Alarmed}
-"007"	
-"008"	
-"009"	
-"010"	
-"011"	{emote: Alarmed}
-"012"	{emote: Alarmed}
-"013"	{emote: Alarmed}
-"014"	{emote: Alarmed}
-"015"	{emote: Alarmed}
-"016"	{emote: Alarmed}
-"017"	{emote: Alarmed}
-"018"	{emote: Alarmed}
-"019"	{emote: Alarmed}
-"020"	{emote: Alarmed}
+"001"	{emote: Worry}{ruby (charSpan 1): わす}忘れちゃったのかい？{Wait for input}	{emote: Reset}{0012-0001-0000}の{pause 16}	{ruby (charSpan 3): しょめいあつ}署名集めだよ、{pause 8}{catchphrase}
+"002"	{emote: Worry}{ruby (charSpan 3): だいじょうぶ}大丈夫かい？{Wait for input}	{emote: Reset}{0012-0001-0000}の{pause 16}	{ruby (charSpan 2): しょめい}署名を　{ruby (charSpan 1): あつ}集めてきて{ruby (charSpan 1): ほ}欲しいんだ
+"003"	{emote: Worry}{ruby (charSpan 2): たいへん}大変な{ruby (charSpan 2): しごと}仕事だからね{pause 4}・{pause 4}・{pause 4}・{pause 4}{Wait for input}	{emote: Reset}{0012-0001-0000}の{pause 16}	{ruby (charSpan 2): しょめい}署名を　{ruby (charSpan 1): あつ}集める{ruby (charSpan 2): しごと}仕事だよ
+"004"	{emote: Soft Smile}よその{ruby (charSpan 1): むら}村の{ruby (charSpan 1): ひと}人なら{pause 8}	{ruby (charSpan 1): だれ}誰でもいいから、とにかく{pause 16}	{Blue}{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から　もらってきて{ruby (charSpan 1): ほ}欲しい
+"005"	{emote: Alarmed}あ{pause 4}・{pause 4}・{pause 4}・{pause 4}でも、{pause 32}	{emote: Worry}{ruby (charSpan 1): だれ}誰でもいいって　わけじゃなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}よその{ruby (charSpan 1): むら}村の{Blue}{ruby (charSpan 1): おとこ}男のコ　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 16}	もらってきて{ruby (charSpan 1): ほ}欲しいんだ、	{pause 8}{catchphrase}
+"006"	{emote: Alarmed}あ{pause 4}・{pause 4}・{pause 4}・{pause 4}でも、{pause 32}	{emote: Worry}{ruby (charSpan 1): だれ}誰でもいいって　わけじゃなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}{Blue}ボクと　{ruby (charSpan 1): おな}同じニオイのする{Color Reset}{pause 16}	よその{ruby (charSpan 1): むら}村の{Blue}{ruby (charSpan 1): おとこ}男のコ　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 16}	もらってきて{ruby (charSpan 1): ほ}欲しいんだ
+"007"
+"008"
+"009"
+"010"
+"011"	{emote: Alarmed}あ{pause 4}・{pause 4}・{pause 4}・{pause 4}でも、{pause 32}	{emote: Worry}{ruby (charSpan 1): だれ}誰でもいいって　わけじゃなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}よその{ruby (charSpan 1): むら}村に　おでかけして{pause 16}	{Blue}イヌのような{ruby (charSpan 1): ひと}人　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 15}	もらってきて　{ruby (charSpan 1): ほ}欲しいんだ
+"012"	{emote: Alarmed}あ{pause 4}・{pause 4}・{pause 4}・{pause 4}でも、{pause 32}	{emote: Worry}{ruby (charSpan 1): だれ}誰でもいいって　わけじゃなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}よその{ruby (charSpan 1): むら}村に　おでかけして{pause 16}	{Blue}ネコのような{ruby (charSpan 1): ひと}人　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 15}	もらってきて　{ruby (charSpan 1): ほ}欲しいんだ
+"013"	{emote: Alarmed}あ{pause 4}・{pause 4}・{pause 4}・{pause 4}でも、{pause 32}	{emote: Worry}{ruby (charSpan 1): だれ}誰でもいいって　わけじゃなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}よその{ruby (charSpan 1): むら}村に　おでかけして{pause 16}	{Blue}リスのような{ruby (charSpan 1): ひと}人　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 15}	もらってきて　{ruby (charSpan 1): ほ}欲しいんだ
+"014"	{emote: Alarmed}あ{pause 4}・{pause 4}・{pause 4}・{pause 4}でも、{pause 32}	{emote: Worry}{ruby (charSpan 1): だれ}誰でもいいって　わけじゃなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}よその{ruby (charSpan 1): むら}村に　おでかけして{pause 16}	{Blue}ウサギのような{ruby (charSpan 1): ひと}人　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 15}	もらってきて　{ruby (charSpan 1): ほ}欲しいんだ
+"015"	{emote: Alarmed}あ{pause 4}・{pause 4}・{pause 4}・{pause 4}でも、{pause 32}	{emote: Worry}{ruby (charSpan 1): だれ}誰でもいいって　わけじゃなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}よその{ruby (charSpan 1): むら}村に　おでかけして{pause 16}	{Blue}アヒルのような{ruby (charSpan 1): ひと}人　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 15}	もらってきて　{ruby (charSpan 1): ほ}欲しいんだ
+"016"	{emote: Alarmed}あ{pause 4}・{pause 4}・{pause 4}・{pause 4}でも、{pause 32}	{emote: Worry}{ruby (charSpan 1): だれ}誰でもいいって　わけじゃなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}よその{ruby (charSpan 1): むら}村に　おでかけして{pause 16}	{Blue}ネズミのような{ruby (charSpan 1): ひと}人　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 15}	もらってきて　{ruby (charSpan 1): ほ}欲しいんだ
+"017"	{emote: Alarmed}あ{pause 4}・{pause 4}・{pause 4}・{pause 4}でも、{pause 32}	{emote: Worry}{ruby (charSpan 1): だれ}誰でもいいって　わけじゃなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}よその{ruby (charSpan 1): むら}村に　おでかけして{pause 16}	{Blue}カエルのような{ruby (charSpan 1): ひと}人　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 15}	もらってきて　{ruby (charSpan 1): ほ}欲しいんだ
+"018"	{emote: Alarmed}あ{pause 4}・{pause 4}・{pause 4}・{pause 4}でも、{pause 32}	{emote: Worry}{ruby (charSpan 1): だれ}誰でもいいって　わけじゃなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}よその{ruby (charSpan 1): むら}村に　おでかけして{pause 16}	{Blue}ウマのような{ruby (charSpan 1): ひと}人　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 15}	もらってきて　{ruby (charSpan 1): ほ}欲しいんだ
+"019"	{emote: Alarmed}あ{pause 4}・{pause 4}・{pause 4}・{pause 4}でも、{pause 32}	{emote: Worry}{ruby (charSpan 1): だれ}誰でもいいって　わけじゃなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}よその{ruby (charSpan 1): むら}村に　おでかけして{pause 16}	{Blue}コグマのような{ruby (charSpan 1): ひと}人　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 15}	もらってきて　{ruby (charSpan 1): ほ}欲しいんだ
+"020"	{emote: Alarmed}あ{pause 4}・{pause 4}・{pause 4}・{pause 4}でも、{pause 32}	{emote: Worry}{ruby (charSpan 1): だれ}誰でもいいって　わけじゃなくて{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}よその{ruby (charSpan 1): むら}村に　おでかけして{pause 16}	{Blue}ペンギンのような{ruby (charSpan 1): ひと}人　{Number (0x6)}{ruby (charSpan 1): にん}人{Color Reset}から{pause 15}	もらってきて　{ruby (charSpan 1): ほ}欲しいんだ

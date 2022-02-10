@@ -1,14 +1,14 @@
 == 0 ==
-"001"	{emote: Fearful}
-"002"	{emote: Greetings}
-"003"	{emote: Greetings}
-"004"	{0007-000a-0000}
-"005"	{emote: Happiness}
-"006"	{emote: Cold Chill}
-"007"	{emote: Alarmed}
-"008"	{emote: Greetings}
-"009"	{Greeting begin}
-"010"	{0009-0001-0006-0b-00-0c-00-0d-00}
-"011"	{emote: Reset}
-"012"	{emote: Reset}
-"013"	{emote: Reset}
+"001"	{emote: Fearful}으으으!{pause 20}	너무 추워서 얼어 죽겠다, {pause 20}{catchphrase}!{emote: Worry}
+"002"	{emote: Greetings}{Greeting begin}오호, {pause 8}{Player nickname (green)}{Greeting end}!{pause 30}	{emote: Reset}으슬으슬 춥다 했더니{pause 8}	{emote: Sheepishness}눈이 오고 있었군, {pause 20}{catchphrase}
+"003"	{emote: Greetings}{Greeting begin}어이, {pause 8}{Player nickname (green)}{Greeting end}!{pause 20}	{catchphrase}!
+"004"	{0007-000a-0000}{emote: Sneezing}에ー엣취!!{Wait for input}{emote: Worry}아직 낮인데{pause 8}	뭐 이렇게 추워, {pause 15}{emote: Fearful}덜덜덜{pause 8}・{pause 8}・{pause 8}・{emote: Worry}{pause 20}	{catchphrase}
+"005"	{emote: Happiness}오우!{pause 15}	{Player nickname (green)} 아냐!{pause 20} {catchphrase}!
+"006"	{emote: Cold Chill}으ー윽, {pause 15}꽁꽁 얼겠어!{pause 30}	{emote: Sheepishness}해가 지니 점점 더	쌀쌀해지는군, {pause 20}{catchphrase}!
+"007"	{emote: Alarmed}우왓, {pause 8}{Player nickname (green)}!{pause 30}	{emote: Reset}이런 야밤에 너 인마{pause 8}	{emote: Worry}안 춥냐?!{pause 20} {catchphrase}!
+"008"	{emote: Greetings}{Greeting begin}오호, {pause 8}{Player nickname (green)}{Greeting end}!{pause 30}	{emote: Reset}이런 시간에도{pause 8}	아직 팔팔하구나!{Wait for input}{emote: Disagreement}난 이제 한계야!{pause 30}	{emote: Fearful}너무 추워서 코에{pause 8} 고드름 생길 정도라구!{pause 20}	{emote: Worry}{catchphrase}
+"009"	{Greeting begin}어이, {pause 8}{Player nickname (green)}{Greeting end}!{pause 20}	{emote: Worry}오늘 엄청 쌀쌀하네{Wait for input}{emote: Reset}몸도 마음도 뭔가 죄어오는 느낌{pause 8}	{emote: Happiness}뭐 이런 것도 나쁘진 않지, {pause 20}{catchphrase}!
+"010"	{0009-0001-0006-000b-000c-000d}
+"011"	{emote: Reset}무리해서 놀다가 감기 안 걸리게{pause 8}	조심하라구, {pause 20}{emote: Soft Smile}{catchphrase}!
+"012"	{emote: Reset}감기 안 걸리게{pause 8}	따뜻하게 하고 있어, {pause 20}{emote: Soft Smile}{catchphrase}!
+"013"	{emote: Reset}방심하다간{pause 8}	감기 걸린다, {pause 20}{emote: Soft Smile}{catchphrase}!

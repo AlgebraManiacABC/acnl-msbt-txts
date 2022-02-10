@@ -1,12 +1,12 @@
 == 0 ==
-"001"	{emote: Greetings}
-"002"	{emote: Greetings}
-"003"	{emote: Greetings}
-"004"	{emote: Greetings}
-"005"	{emote: Happiness}
-"006"	{emote: Soft Smile}
-"007"	{emote: Greetings}
-"008"	{emote: Happiness}
-"009"	{emote: Soft Smile}
-"010"	{emote: Alarmed}
-"011"	{emote: Sheepishness}
+"001"	{emote: Greetings}おはよ～、{Player nickname (green)}{0005-000d-0000}！{pause 32}	{emote: Reset}こんなに　{ruby (charSpan 1): そら}空が　	ロマンチックなのって{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Soft Smile}{Player name}{0005-000d-0000}が、やって{ruby (charSpan 1): く}来る{pause 8}	{ruby (charSpan 1): まえ}前ぶれだったってことかしら？	{pause 8}{catchphrase}？
+"002"	{emote: Greetings}おはよう、{Player name}{0005-000d-0000}{Wait for input}{emote: Soft Smile}うふふ、{pause 16}おはようで	{ruby (charSpan 1): あ}合ってるわよ、{pause 8}{catchphrase}{pause 32}	{emote: Sheepishness}これでも　{Hour}{ruby (charSpan 1): じ}時なんだから{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"003"	{emote: Greetings}{Greeting begin}あら、{Player name}{0005-000d-0000}{Greeting end}{pause 16}	{ruby (charSpan 2): あさはや}朝早くから　ご{ruby (charSpan 3): くろうさま}苦労様～！	{pause 8}{catchphrase}！
+"004"	{emote: Greetings}{Greeting begin}あら、{Player name}{0005-000d-0000}{Greeting end}{pause 16}	いらっしゃい！{Wait for input}{emote: Soft Smile}{ruby (charSpan 2): きょう}今日は　{ruby (charSpan 1): そら}空が{ruby (charSpan 1): くら}暗いけど、{pause 16}	{ruby (charSpan 3): ふんいき}雰囲気づくりだと　{ruby (charSpan 1): おも}思って	ゆっくりしていってね、{pause 8}{catchphrase}！
+"005"	{emote: Happiness}あら、{pause 8}{Player name}{0005-000d-0000}{pause 16}	いらっしゃい！{pause 8}	ゆっくりしていってね、{pause 8}{catchphrase}
+"006"	{emote: Soft Smile}{Greeting begin}こんにちは、{Player name}{0005-000d-0000}！{Greeting end}{pause 16}	{ruby (charSpan 2): きょう}今日は、{ruby (charSpan 3): いちにちじゅう}一日中{pause 16}　お{ruby (charSpan 2): ひさま}日様が	のぼらないみたいなの、{pause 8}{catchphrase}
+"007"	{emote: Greetings}{Greeting begin}あら、{Player name}{0005-000d-0000}{Greeting end}{pause 16}	よく{ruby (charSpan 1): き}来たわね、{Town name (pink)}{ruby (charSpan 1): むら}村へ
+"008"	{emote: Happiness}こんばんは、{Player name}{0005-000d-0000}{pause 16}	アタシに　{ruby (charSpan 1): あ}会いに{ruby (charSpan 1): き}来てくれたの？{pause 32}	{emote: Anger}それとも{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"009"	{emote: Soft Smile}まぁ、{Player name}{0005-000d-0000}{pause 16}	{ruby (charSpan 1): き}来てくれたのね～、{pause 8}うれしいわ！	{pause 8}{catchphrase}！
+"010"	{emote: Alarmed}あら、{Player name}{0005-000d-0000}{pause 16}	こんな{ruby (charSpan 2): よなか}夜中に　どうしたの？	{pause 8}{catchphrase}？
+"011"	{emote: Sheepishness}まぁ、{Player name}{0005-000d-0000}{pause 16}	こんな{ruby (charSpan 2): じかん}時間に　{ruby (charSpan 1): わる}悪いコね？	{pause 8}{catchphrase}？

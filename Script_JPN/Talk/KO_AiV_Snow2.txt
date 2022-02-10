@@ -1,7 +1,7 @@
 == 0 ==
-"001"	{Greeting begin}
-"002"	{ruby (charSpan 2): きょう}今日は　この{ruby (charSpan 2): てんき}天気だ、{pause 30}
-"003"	{ruby (charSpan 2): ちょうし}調子は　どうでぇ、{pause 20}
-"004"	{Greeting begin}
-"005"	この{ruby (charSpan 1): ゆき}雪、{pause 8}
-"006"	おぅ、{pause 30}
+"001"	{Greeting begin}よぉ、{pause 8}{Player name}{Greeting end}！{Wait for input}	はしゃぎ{ruby (charSpan 1): す}過ぎて	{ruby (charSpan 1): ころ}転ぶんじゃねぇぜ、{pause 20}{catchphrase}
+"002"	{ruby (charSpan 2): きょう}今日は　この{ruby (charSpan 2): てんき}天気だ、{pause 30}	{ruby (charSpan 2): あしもと}足元がすべるから{pause 8}	{ruby (charSpan 1): き}気ぃ{ruby (charSpan 1): つ}付けるんだぜ！{pause 20}　{catchphrase}！
+"003"	{ruby (charSpan 2): ちょうし}調子は　どうでぇ、{pause 20}	{Player name}？{pause 20}　{catchphrase}？
+"004"	{Greeting begin}よぅ、{pause 8}{Player name}{Greeting end}！{pause 30}	{emote: Happiness}{ruby (charSpan 1): たの}楽しんでるかい？{pause 20}　{catchphrase}？
+"005"	この{ruby (charSpan 1): ゆき}雪、{pause 8}やみそうにねぇな{pause 8}・{pause 8}・{pause 8}・{pause 20}	{catchphrase}
+"006"	おぅ、{pause 30}{Player name}か！{Wait for input}	{ruby (charSpan 1): さむ}寒いな、おい！{pause 20}　{catchphrase}！

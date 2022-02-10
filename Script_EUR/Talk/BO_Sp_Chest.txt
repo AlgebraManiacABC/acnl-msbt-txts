@@ -1,60 +1,60 @@
 == 0 ==
-"001"	{emote: Surprise}
-"002"	{emote: Disbelief}
-"003"	{emote: Curious}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Sigh}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
-"009"	{emote: Happiness}
-"010"	{emote: Joy}
-"011"	{emote: Laughter}
+"001"	{emote: Surprise}Ah!{pause 20} Looks like you found my	{emote: Happiness}{0011-0003-0002-0000}!{pause 40}	You win at treasure hunting!{Wait for input}{emote: Joy}Well then,{pause 8} you can have my	{0011-0003-0002-0000} as a	present!	I don't really need it, so it's yours,{pause 8}	{catchphrase}!{000f-0005-0004-0015-0028}	I'll take it!	No, thanks.
+"002"	{emote: Disbelief}{0007-000b-0000}Hey!{pause 20} {capitalized}{Player nickname (green)}!{pause 20} You're snooping,	aren't you!{pause 40} {emote: Curious}Huh?{pause 20} You found my	{0011-0003-0002-0000}?	{emote: Shyness}Does this mean you want my	{0011-0003-0002-0000}?{Wait for input}{emote: Resigned}Well, fine.{pause 20} Go for it, I guess.{pause 40}	{emote: Happiness}I don't really use it anyway,	{pause 8}{catchphrase}.{000f-0005-0004-0015-0028}	I'll take it.	Don't need it.
+"003"	{emote: Curious}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?{pause 20}	Huh?{pause 20} I forgot I even had that.{Wait for input}{emote: Happiness}I guess I don't use it very much,	so it's all yours,{pause 8} {catchphrase}.{000f-0005-0004-0015-0028}	I'll take it!	No, thanks!
+"004"	{emote: Surprise}{0007-000a-0000}Look what you discovered!{pause 20}	My {0011-0003-0002-0000}!{Wait for input}{emote: Worry}I can't throw anything away—even 	stuff I don't need{pause 8}.{pause 8}.{pause 8}.{pause 20} You should take	it, {Player nickname (green)}!{000f-0005-0004-0015-0028}	OK!	Don't need it.
+"005"	{emote: Surprise}{0007-000a-0000}My {0011-0003-0002-0000}!{pause 40}	{emote: Reset}I can never seem to keep track of	all the stuff I have!	{emote: Happiness}Oh, I know!{pause 20} To celebrate finding it,	why don't you take it,{pause 8}	{catchphrase}?{000f-0005-0004-0015-0028}	OK.	No, thanks.
+"006"	{emote: Sigh}You COULD just take it, you know,{pause 8}	{catchphrase}.
+"007"	{emote: Happiness}OK, well, I'll put it away then.
+"008"	{emote: Worry}Oh, OK.
+"009"	{emote: Happiness}Awesome!{pause 20} This is what you call a	win-win situation!
+"010"	{emote: Joy}Yay! Awesome!{pause 40} Take it home with	you then!
+"011"	{emote: Laughter}Thanks for helping me clean up my	stuff,{pause 8} {catchphrase}.
 == 1 ==
-"001"	{emote: Surprise}
-"002"	{emote: Disbelief}
-"003"	{emote: Curious}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Sigh}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
-"009"	{emote: Happiness}
-"010"	{emote: Joy}
-"011"	{emote: Laughter}
+"001"	{emote: Surprise}¡Anda,{pause 20} mi {emote: Happiness}{0011-0003-0002-0000}!{pause 40}	Lo de cazar tesoros lo llevas en	la sangre. ¡Eres un hacha!	{emote: Joy}Te mereces quedarte con mi{pause 8}	{0011-0003-0002-0000} como	recompensa.	¡No te preocupes,{pause 8} a mí no me hace	falta, {catchphrase}!{000f-0005-0004-0015-0028}	Venga, no te haré el feo	A mí tampoco, gracias
+"002"	{emote: Disbelief}{0007-000b-0000}¡Eh,{pause 20} {Player nickname (green)}!{pause 20} ¡¿Qué haces	husmeando?!{pause 40} {emote: Curious}¿Eh?{pause 20} ¿Has encontrado	mi {0011-0003-0002-0000}?	{emote: Shyness}¿Y qué me quieres decir con eso,	que quieres quedártel{o/a/}?{Wait for input}{emote: Resigned}Bueno,{pause 20} pues para ti.{pause 40} {emote: Happiness}Total, no le	doy ningún uso, y para tenerl{o/a/} ahí	muert{o/a/} de risa{pause 8}.{pause 8}.{pause 8}.{000f-0005-0004-0015-0028}	¡Pues para mí!	¡Menos le voy a dar yo!
+"003"	{emote: Curious}¿{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?{pause 20}	Buf...{pause 20} Ni me acordaba de que tenía	algo así.{Wait for input}{emote: Happiness}Bueno, eso significa que no l{o/a/} voy	a echar en falta si te l{o/a/} llevas,{pause 8}	{catchphrase}.{000f-0005-0004-0015-0028}	¡Pues arreando!	¡No me interesa!
+"004"	{emote: Surprise}{0007-000a-0000}¡Anda!{pause 20} ¡Mi {0011-0003-0002-0000}!{Wait for input}{emote: Worry}Es que no soy capaz de tirar	las cosas que no me hacen falta.{pause 20}	Si quieres llevártel{o/a/}, {Player nickname (green)}{pause 8}.{pause 8}.{pause 8}.{pause 20}{000f-0005-0004-0015-0028}	¡Vale!	No me interesa
+"005"	{emote: Surprise}{0007-000a-0000}¡Mi {0011-0003-0002-0000}!{pause 40}	{emote: Reset}Siempre me pasa igual con	estas cosas. ¡Lo pierdo todo!	{emote: Happiness}Pues mira,{pause 20} para celebrar que	l{o/a/} has encontrado, ¿por qué	no te l{o/a/} quedas,{pause 8} {catchphrase}?{000f-0005-0004-0015-0028}	Va, ¿por qué no?	Porque no me interesa
+"006"	{emote: Sigh}Tú verás,{pause 8} {catchphrase}.
+"007"	{emote: Happiness}Vale, pues otra vez a acumular	polvo.
+"008"	{emote: Worry}Pufff{pause 8}.{pause 8}.{pause 8}.{pause 20} Y yo que pensaba que	podía contar contigo{pause 8}.{pause 8}.{pause 8}.
+"009"	{emote: Happiness}¡Perfecto!{pause 20} ¡Me encanta cuando	todo el mundo sale ganando!
+"010"	{emote: Joy}¡Chachi!{pause 40} Me alegro de que hayamos	llegado a un acuerdo.
+"011"	{emote: Laughter}¡Gracias! ¡Ya sé a quién avisar	cuando haga limpieza en el trastero,	{catchphrase}!
 == 2 ==
-"001"	{emote: Surprise}
-"002"	{emote: Disbelief}
-"003"	{emote: Curious}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Sigh}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
-"009"	{emote: Happiness}
-"010"	{emote: Joy}
-"011"	{emote: Laughter}
+"001"	{emote: Surprise}Ha ha !{pause 40}{emote: Happiness} On dirait que tu as trouvé	{mon petit/ma petite/} {0011-0003-0002-0000} !{Wait for input}Si tu as un jour envie de te lancer	dans la chasse aux trésors, tu as de	l'avenir !{Wait for input}{emote: Joy}Pour la peine, je t'en fais cadeau	si {il/elle/} t'intéresse ! Perso, je ne	m'en sers jamais, {pause 8}{catchphrase}.{000f-0005-0004-0015-0028}	Avec plaisir !	Non merci.
+"002"	{emote: Disbelief}{0007-000b-0000}Hé !{pause 20} {capitalized}{Player nickname (green)} !{pause 20} Qu'est-ce qui te	prend de fouiller comme ça chez	les gens ?	{emote: Distress}Après mes placards ça sera quoi ?	Tu vas fracasser mes vases en	croyant que j'y cache de l'argent ?!{Wait for input}{emote: Curious}Euh{pause 8}.{pause 8}.{pause 8}.{pause 8}?{pause 20} Ça serait pas {mon petit/ma petite/}	{0011-0003-0002-0000} que tu as	dans les mains ?	{emote: Shyness}C'est ce que tu cherchais ? Si tu y	tiens tellement,{pause 20} prends-{le/la/}.{pause 40} {emote: Happiness}Pour ce	que je m'en sers, {pause 8}{catchphrase}{pause 8}.{pause 8}.{pause 8}.{000f-0005-0004-0015-0028}	Alors je l'embarque.	Ça ira, merci.
+"003"	{emote: Curious}Hein ?{pause 20} {capitalized}{Article(word-dependant)}	{0011-0003-0002-0000} ?{pause 20} Je ne me	souvenais même plus qu'{il/elle/} était là.{Wait for input}{emote: Happiness}C'est pour te dire à quel point j'y	tiens ! Si tu {le/la/} veux, fais-toi plaisir,	{pause 8}{catchphrase} !{000f-0005-0004-0015-0028}	C'est sympa, merci !	Bof, ça ira.
+"004"	{emote: Surprise}{0007-000a-0000}Ça alors,{pause 20} tu viens de dégoter mon	{ancien/ancienne/} {0011-0003-0002-0000} !{Wait for input}{emote: Worry}C'est tout moi, ça{pause 8}.{pause 8}.{pause 8}.{pause 20} Même les trucs	dont je n'ai plus besoin, j'arrive pas	à les jeter aux ordures{pause 8}.{pause 8}.{pause 8}.{pause 20}	Si tu {le/la/} veux, te prive pas,	{Player nickname (green)} !{000f-0005-0004-0015-0028}	Cool !	Ça ira, merci.
+"005"	{emote: Surprise}{0007-000a-0000}Oh, {Article(word-dependant)}{0011-0003-0002-0000} !	Je ne me souvenais même plus que	j'en avais {un/une/} !{Wait for input}{emote: Happiness}Oh, tu sais quoi ?{pause 20} Pour te remercier	de l'avoir {retrouvé/retrouvée/}, je t'en fais	cadeau ! {pause 8}{capitalized}{catchphrase} !{000f-0005-0004-0015-0028}	C'est gentil !	Non merci.
+"006"	{emote: Sigh}Tu sais, ça ne t'aurait rien coûté	de dire oui, {pause 8}{catchphrase}{pause 8}.{pause 8}.{pause 8}.
+"007"	{emote: Happiness}OK, bon ben je vais ranger ça	quelque part, alors.
+"008"	{emote: Worry}Oh, d'accord.
+"009"	{emote: Happiness}Super !{pause 20} Comme ça, tout le monde	est content !
+"010"	{emote: Joy}Génial !{pause 40} Il ne te reste plus qu'à	repartir avec !
+"011"	{emote: Laughter}Merci de m'avoir aidé à faire le	ménage dans mes affaires,	{pause 8}{catchphrase} !
 == 3 ==
-"001"	{emote: Surprise}
-"002"	{emote: Disbelief}
-"003"	{emote: Curious}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Sigh}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
-"009"	{emote: Happiness}
-"010"	{emote: Joy}
-"011"	{emote: Laughter}
+"001"	{emote: Surprise}Caspitina!{pause 20} Hai trovato	{il mio/la mia/} {emote: Happiness}{0011-0003-0002-0000}!{pause 40}	Sei {il re/la regina} della caccia al tesoro!{Wait for input}{emote: Joy}Bene,{pause 8} tienil{o/a/} pure come premio!	A me non serve,{pause 8} {catchphrase}!{000f-0005-0004-0015-0028}	Grazie!	No, grazie.
+"002"	{emote: Disbelief}{0007-000b-0000}Ehi, {Player nickname (green)}!{pause 20} Stai curiosando?{pause 40}	{emote: Curious}Eh?{pause 20} Hai trovato {il mio/la mia/}	{0011-0003-0002-0000}!	{emote: Shyness}Significa che l{o/a/} vuoi per te?{Wait for input}{emote: Resigned}Come vuoi.{pause 20} Fai come credi.{pause 40} {emote: Happiness}Tanto	io non l{o/a/} uso mai, {pause 8}{catchphrase}.{000f-0005-0004-0015-0028}	Allora grazie!	No, non mi serve...
+"003"	{emote: Curious}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?{pause 20}	Oh!{pause 20} Mi ero completamente	dimenticato della sua esistenza.{Wait for input}{emote: Happiness}Sai, io non l{o/a/} uso mai.	Tienitel{o/a/} pure,{pause 8} {catchphrase}.{000f-0005-0004-0015-0028}	Ottimo, grazie!	Non serve neanche a me.
+"004"	{emote: Surprise}{0007-000a-0000}Oh, ma guarda!{pause 20} Hai trovato	{il mio/la mia/} {0011-0003-0002-0000}!{Wait for input}{emote: Worry}Non sono proprio in grado	di buttare via niente! Nemmeno	le cose che non mi servono più{pause 8}.{pause 8}.{pause 8}.	Tienil{o/a/} pure, {Player nickname (green)}!{000f-0005-0004-0015-0028}	OK!	Non saprei che farci...
+"005"	{emote: Surprise}{0007-000a-0000}{Il mio/La mia/} {0011-0003-0002-0000}!{pause 40}	{emote: Reset}Ah, perdo spesso il conto	delle cose che possiedo...	{emote: Happiness}Facciamo così!{pause 20} Per festeggiare	il fatto che l'hai trovat{o/a/}, perché	non l{o/a/} tieni tu,{pause 8} {catchphrase}?{000f-0005-0004-0015-0028}	OK.	No, grazie.
+"006"	{emote: Sigh}Potresti semplicemente dire	grazie e accettare il mio regalo,{pause 8}	{catchphrase}!
+"007"	{emote: Happiness}Va bene, come non detto.
+"008"	{emote: Worry}Ah, OK.
+"009"	{emote: Happiness}Fantastico!{pause 20} Spero che ti piaccia!
+"010"	{emote: Joy}Mitico!{pause 40}	Spero che ti porti fortuna!
+"011"	{emote: Laughter}Grazie! Non sapevo proprio	cosa farci,{pause 8} {catchphrase}.
 == 4 ==
-"001"	{emote: Surprise}
-"002"	{emote: Disbelief}
-"003"	{emote: Curious}
-"004"	{emote: Surprise}
-"005"	{emote: Surprise}
-"006"	{emote: Sigh}
-"007"	{emote: Happiness}
-"008"	{emote: Worry}
-"009"	{emote: Happiness}
-"010"	{emote: Joy}
-"011"	{emote: Laughter}
+"001"	{emote: Surprise}Au fein!{pause 30} {emote: Happiness}Du hast {meinen/meine/mein}	{0011-0003-0002-0000} gefunden!{pause 40}	Du hast ja 'ne gute Spürnase.	{emote: Joy}Wenn du willst, kannst du {ihn/sie/es} als	Geschenk haben,{pause 8} {catchphrase}.{000f-0005-0004-0015-0028}	Oh, danke!	Nein danke.
+"002"	{emote: Disbelief}{0007-000b-0000}{capitalized}{Player nickname (green)}!{pause 20} Schnüffelst du etwa	in meinen Sachen rum?!{pause 40} {emote: Curious}Was?{pause 20}	Du hast was gefunden?	{Meinen/Meine/Mein} {0011-0003-0002-0000}?{pause 20}	{emote: Shyness}Oh, willst du {den/die/das} etwa haben?{pause 20}	{emote: Happiness}Kannst du gerne,{pause 8} mir ist's egal.{000f-0005-0004-0015-0028}	Echt? Danke!	Nein danke.
+"003"	{emote: Curious}{capitalized}{Article(word-dependant)}{0011-0003-0002-0000}?{pause 20}	Hmmm?{pause 20} Ich wusste gar nicht mehr,	dass ich so was hab.	{emote: Happiness}Nachdem ich sowieso keine	Verwendung dafür hab...{pause 20}	Bedien dich ruhig,{pause 8} {catchphrase}.{000f-0005-0004-0015-0028}	Oh, danke!	Nein, brauch ich nicht.
+"004"	{emote: Surprise}{0007-000a-0000}Huch,{pause 8} was ist denn das?!{pause 40}	{Mein/Meine/Mein} {0011-0003-0002-0000}!{Wait for input}{emote: Worry}Ich kann einfach nichts wegwerfen,{pause 8}	auch wenn ich's nicht mehr brauche.{pause 20}	Willst du {ihn/sie/es} haben, {Player nickname (green)}?{000f-0005-0004-0015-0028}	Gerne!	Nein danke.
+"005"	{emote: Surprise}{0007-000a-0000}{Mein/Meine/Mein} {0011-0003-0002-0000}!{Wait for input}{emote: Reset}Du glaubst ja gar nicht, was bei mir	so alles verschwindet und dann	irgendwo verstaubt...	{emote: Worry}Und plötzlich purzelt's dann aus	irgendeiner Schublade, wenn ich's	gar nicht mehr brauchen kann!	{emote: Happiness}Ich weiß!{pause 20} Wieso nimmst du {den/die/das}	{0011-0003-0002-0000} nicht	einfach,{pause 8} {catchphrase}?{000f-0005-0004-0015-0028}	Oh, gerne!	Nein danke.
+"006"	{emote: Sigh}Du stellst dich aber an,{pause 8}	{catchphrase}...
+"007"	{emote: Happiness}Na gut, dann nicht.
+"008"	{emote: Worry}Oh, wie du meinst.
+"009"	{emote: Happiness}Äh, he he he!{pause 20} Das hat sich doch gut	ergeben, meinst du nicht?
+"010"	{emote: Joy}Dann viel Spaß damit!
+"011"	{emote: Laughter}Danke, dass du mir beim	Aufräumen hilfst! {pause 20}Äh, he he he!{emote: Happiness}

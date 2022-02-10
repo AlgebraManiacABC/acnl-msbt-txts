@@ -1,31 +1,31 @@
 == 0 ==
-"001"	{000a-000b-0006-10-11-00-0f-00-ffffffcd}
-"002"	{000a-000b-0006-10-11-00-10-00-ffffffcd}
-"003"	{000a-000b-0006-10-14-00-12-00-ffffffcd}
-"004"	{000a-000b-0006-10-14-00-13-00-ffffffcd}
-"005"	{000a-000b-0006-10-17-00-15-00-ffffffcd}
-"006"	{000a-000b-0006-10-17-00-16-00-ffffffcd}
-"007"	{000a-000b-0006-10-1a-00-18-00-ffffffcd}
-"008"	{000a-000b-0006-10-1a-00-19-00-ffffffcd}
-"009"	{000a-000b-0006-10-0d-00-0c-00-ffffffcd}
-"010"	{000a-000b-0006-10-0d-00-0c-00-ffffffcd}
-"011"	
-"012"	{0009-0000-0004-1b-00-1c-00}
-"013"	{0009-0000-0004-1d-00-1e-00}
-"014"	
-"015"	{emote: Happiness}
-"016"	{emote: Sleepy}
-"017"	{emote: Joy}
-"018"	こんにちわぁ～	{Player name}
-"019"	せっかく　あそびに{ruby (charSpan 1): き}来たのに{emote: Curious}
-"020"	{emote: Surprise}
-"021"	{emote: Happiness}
-"022"	{emote: Happiness}
-"023"	{emote: Happiness}
-"024"	{emote: Alarmed}
-"025"	{emote: Curious}
-"026"	あぁ～{pause 20}
-"027"	{emote: Happiness}
-"028"	{emote: Happiness}
-"029"	やぁ、いらっしゃい{pause 8}
-"030"	{emote: Happiness}
+"001"	{000a-000b-0006-1110-0f00-cd00}
+"002"	{000a-000b-0006-1110-1000-cd00}
+"003"	{000a-000b-0006-1410-1200-cd00}
+"004"	{000a-000b-0006-1410-1300-cd00}
+"005"	{000a-000b-0006-1710-1500-cd00}
+"006"	{000a-000b-0006-1710-1600-cd00}
+"007"	{000a-000b-0006-1a10-1800-cd00}
+"008"	{000a-000b-0006-1a10-1900-cd00}
+"009"	{000a-000b-0006-0d10-0c00-cd00}
+"010"	{000a-000b-0006-0d10-0c00-cd00}
+"011"
+"012"	{0009-0000-0004-001b-001c}
+"013"	{0009-0000-0004-001d-001e}
+"014"
+"015"	{emote: Happiness}やぁ～{pause 20}　{Player name}{0005-000d-0000}{pause 20}	おはよぉ、{pause 8}{catchphrase}
+"016"	{emote: Sleepy}ふぁぁ～{pause 60}	{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日は　いつもより	ねむいやぁ、{pause 8}{catchphrase}{Wait for input}{emote: Happiness}でも{pause 20}　せっかく　{Player name}{0005-000d-0000}が	あそびに{ruby (charSpan 1): き}来てるんだから、{pause 20}	ガンバって　おきよぉ～っと！
+"017"	{emote: Joy}{ruby (charSpan 2): きょう}今日のボクは	{ruby (charSpan 1): あさ}朝から　ごきげんなんだぁ、{pause 8}{catchphrase}{pause 40}	なんたって　{ruby (charSpan 1): あめ}雨がふってるからねぇ！
+"018"	こんにちわぁ～	{Player name}{0005-000d-0000}{Wait for input}{ruby (charSpan 1): あめ}雨だけど　あそびに	{ruby (charSpan 1): き}来てくれたんだねぇ、{pause 8}{catchphrase}
+"019"	せっかく　あそびに{ruby (charSpan 1): き}来たのに{emote: Curious}{pause 20}	{ruby (charSpan 1): あめ}雨じゃ　ざんねん？{Wait for input}{emote: Glare}{Town name (pink)}{ruby (charSpan 1): むら}村は	{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日だって{ruby (charSpan 1): たの}楽しいから{pause 20}	あんしんしてねぇ、{pause 8}{catchphrase}
+"020"	{emote: Surprise}あぁ～{pause 20}　{Player name}{0005-000d-0000}だぁ{Wait for input}	{emote: Glee}キミが　あそびに{ruby (charSpan 1): き}来てくれるなんて{pause 20}	{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日って　ラッキーだねぇ、{pause 8}{catchphrase}
+"021"	{emote: Happiness}こんばんわぁ	{Player name}{0005-000d-0000}～{Wait for input}{emote: Daydreaming}{ruby (charSpan 1): あめ}雨の　{Town name (pink)}{ruby (charSpan 1): むら}村って{pause 8}	ちょっぴり　オトナのムード{pause 20}って	かんじだよねぇ、{pause 8}{catchphrase}
+"022"	{emote: Happiness}やぁ～{pause 8}　{Player name}{0005-000d-0000}{pause 20}	{Town name (pink)}{ruby (charSpan 1): むら}村に　ようこそぉ、{pause 8}{catchphrase}{Wait for input}{emote: Reset}{ruby (charSpan 1): あめ}雨にぬれるのが　つらくなったら、	だれかのおうちに　かけこんでねぇ！{Wait for input}	{emote: Glee}きっとみんな　ウェルカムだよぉ～
+"023"	{emote: Happiness}こんばんわぁ{pause 8}　{Player name}{0005-000d-0000}{Wait for input}	{ruby (charSpan 1): あめ}雨ふる{ruby (charSpan 1): よる}夜といえば{pause 20}	おさんぽ{pause 20}　だよねぇ、{pause 8}{catchphrase}
+"024"	{emote: Alarmed}{0007-000b-0000}あぁ～{pause 20}	{Player name}{0005-000d-0000}？！　{pause 8}{catchphrase}？！{Wait for input}{emote: Distress}こんな{ruby (charSpan 1): よる}夜おそくに　キミがいるなんて、{pause 20}	ビックリして　かさが	ひっくりかえっちゃうかと　{ruby (charSpan 1): おも}思ったよぉ！
+"025"	{emote: Curious}あれぇ～？{pause 20}　{Player name}{0005-000d-0000}{pause 20}	こんなに{ruby (charSpan 1): よる}夜おそくに　おでかけぇ？{Wait for input}{emote: Sleepy}ふぁぁ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	{ruby (charSpan 1): あめ}雨もふってるし、	ボクはそろそろ　ねようかなぁ、{pause 8}{catchphrase}
+"026"	あぁ～{pause 20}　{Player name}{0005-000d-0000}～{pause 40}	キミも　{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日がすきなのぉ？	{pause 8}{catchphrase}？
+"027"	{emote: Happiness}わぁ～{pause 20}	{Player name}{0005-000d-0000}だぁ{pause 40}	{ruby (charSpan 1): あめ}雨なのに　よく　{ruby (charSpan 1): き}来たねぇ、{pause 8}{catchphrase}
+"028"	{emote: Happiness}{Greeting begin}あぁ～！{pause 20}　{Player name}{0005-000d-0000}！{Greeting end}{pause 40}	{ruby (charSpan 1): あめ}雨の{ruby (charSpan 1): ひ}日の　{Town name (pink)}{ruby (charSpan 1): むら}村を	いっぱい　{ruby (charSpan 1): たの}楽しんでねぇ、{pause 8}{catchphrase}
+"029"	やぁ、いらっしゃい{pause 8}	{Player name}{0005-000d-0000}！{Wait for input}{emote: Glee}キミも　いっしょに、	ピチャピチャしようよぉ、{pause 8}{catchphrase}
+"030"	{emote: Happiness}やぁ～　{Player name}{0005-000d-0000}{pause 20}	いらっしゃ～い{Wait for input}こうやって　{ruby (charSpan 1): あめ}雨にうたれて	おさんぽするのって{pause 20}	サイコーだよねぇ、{pause 8}{catchphrase}

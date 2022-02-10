@@ -1,54 +1,54 @@
 == 0 ==
-"001"	{emote: Distress}
-"002"	{emote: Surprise}
-"003"	{emote: Curious}
-"004"	{0009-0002-0008-0e-00-0f-00-10-00-11-00}
-"005"	{0009-0000-0004-08-00-09-00}
-"006"	{emote: Distress}
-"007"	{emote: Shyness}
-"008"	{emote: Disbelief}
-"009"	{emote: Distress}
-"010"	{emote: Happiness}
-"011"	{emote: Glee}
-"012"	{emote: Sunny}
-"013"	
-"014"	{0007-000d-0000}
-"015"	{0007-000d-0000}
-"016"	{0007-000d-0000}
-"017"	{0007-000d-0000}
+"001"	{emote: Distress}Hey, {Player nickname (green)}, you have {Article(word-dependant)}	{0011-0003-0002-0000}, right?{Wait for input}I've totally dreamed about getting	one! Can I buy it from you?{Player can respond (0005):0004-0000-0005-0028}	How much?	No, thanks.
+"002"	{emote: Surprise}Hey! I heard a rumor that you have	{Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}{emote: Distress}Is it true? {pause 10}I have to get one right	away! Will you sell it to me?{pause 10}	Please, please, please?{Player can respond (0005):0004-0000-0005-0028}	For how much?	No way.
+"003"	{emote: Curious}So.{pause 5}.{pause 5}.{pause 5}how about we play	Nook-for-a-Day?{Wait for input}{emote: Glee}Yeah, you pretend you're one	of those cute little Nook kids,{pause 5}	and I'll act like I'm in your store!	{emote: Reset}OK, here goes.{pause 5}.{pause 5}.{pause 5}{Wait for input}{emote: Love}Woohoo! {pause 10}I totally love your	{0011-0003-0002-0000}. What's	your price?	Oh, {0007-000d-0000}{Blue}{0004-000b-0002-0004}{Color Reset}{Blue} Bells{Color Reset}? Yay! That's the	perfect price. For reals, sell your	{0011-0003-0002-0000} to me!{confirmation-02}{Player can respond (0005):000a-0015-0008-0028}	For real? OK.	What? No!
+"004"	{0009-0002-0008-000e-000f-0010-0011}
+"005"	{0009-0000-0004-0008-0009}
+"006"	{emote: Distress}Really? {pause 10}You didn't like that deal?{Wait for input}	{emote: Resigned}Ugh, guess I'll go without it then.
+"007"	{emote: Shyness}Well, I guess I could have made	a different offer.{pause 5}.{pause 5}.{pause 5} But maybe	I'll just pass it up.
+"008"	{emote: Disbelief}What? {pause 10}No deal? {pause 10}But I'm so good	at all this wheeling and dealing!{pause 20}	Total bummer, {catchphrase}.{Wait for input}{emote: Resigned}I guess I'll just walk away from	it then, {Player nickname (green)}.
+"009"	{emote: Distress}No deal? {pause 10}No way, {catchphrase}!{Wait for input}{emote: Shyness}All right then.{pause 5}.{pause 5}.{pause 5} I guess I'll have to	make a better offer next time,	{Player nickname (green)}.
+"010"	{emote: Happiness}Yay! It's a deal, {catchphrase}!{0009-0000-0004-000b-000c}
+"011"	{emote: Glee}It's all mine, {catchphrase}!
+"012"	{emote: Sunny}That was fun! Let's do this again	sometime, {Player nickname (green)}!
+"013"
+"014"	{0007-000d-0000}{emote: Happiness}Well, how about {Blue}{0004-000b-0002-0000}{Color Reset}{Blue} Bells{Color Reset}?{confirmation-02}{Player can respond (0005):000a-0015-0009-0028}	Sure!	No.
+"015"	{0007-000d-0000}{emote: Soft Smile}I've only got {Blue}{0004-000b-0002-0001}{Color Reset}{Blue} Bells{Color Reset}.	Is that enough?{confirmation-02}{Player can respond (0005):000a-0015-0008-0028}	Yes, that's fine.	No, sorry.
+"016"	{0007-000d-0000}{emote: Soft Smile}I'm pretty short on cash right now,	so how does {Blue}{Blue}{0004-000b-0002-0002}{Blue} Bells {Color Reset}sound?{confirmation-02}{Player can respond (0005):000a-0015-0006-0028}	Well, OK...	No way!
+"017"	{0007-000d-0000}{emote: Happiness}Well then, today is your lucky day!{pause 10}	How does {Blue}{0004-000b-0002-0003} B{Color Reset}{Blue}ells{Color Reset} sound?{confirmation-02}{Player can respond (0005):000a-0015-0007-0028}	Wow, yes!	No, thanks.
 == 1 ==
-"001"	{emote: Distress}
-"002"	{emote: Surprise}
-"003"	{emote: Curious}
-"004"	{0009-0002-0008-0e-00-0f-00-10-00-11-00}
-"005"	{0009-0000-0004-08-00-09-00}
-"006"	{emote: Distress}
-"007"	{emote: Shyness}
-"008"	{emote: Disbelief}
-"009"	{emote: Distress}
-"010"	{emote: Happiness}
-"011"	{emote: Glee}
-"012"	{emote: Sunny}
-"013"	
-"014"	{0007-000d-0000}
-"015"	{0007-000d-0000}
-"016"	{0007-000d-0000}
-"017"	{0007-000d-0000}
+"001"	{emote: Distress}Oye, {Player nickname (green)}, tú tienes	{Article(word-dependant)}{0011-0003-0002-0000}, ¿no?	¡Dime que tienes un{o/a/}!{Wait for input}¡No tengo tiempo para explicártelo	pero necesito un{o/a/} ya mismo!	¿Me l{o/a/} vendes?{Player can respond (0005):0004-0000-0005-0028}	¿Por cuánto?	No puedo
+"002"	{emote: Surprise}¡Me han dicho por ahí que tienes	{Article(word-dependant)}{0011-0003-0002-0000}!{Wait for input}{emote: Distress}¿Es verdad? {pause 10}¡Está súper de moda	tener un{o/a/} en casa!{pause 10} ¿Me l{o/a/} vendes?	¡Porfa, porfa, porfa!{Player can respond (0005):0004-0000-0005-0028}	¿Cuánto me das?	No quiero
+"003"	{emote: Curious}¿Quieres jugar a las compras	conmigo?{Wait for input}{emote: Glee}Tú serás uno de los hermanitos	Nook y yo seré una clienta que	viene a comprar a la tienda.	{emote: Reset}¿Vale? Vamos allá.{pause 5}.{pause 5}.{pause 5}{Wait for input}{emote: Love}¡Hola! {pause 10}Me encanta es{e/a/}	{0011-0003-0002-0000} que llevas	en los bolsillos. {pause 10}¿Cuánto cuesta?	Ah, {0007-000d-0000}¿{Blue}{0004-000b-0002-0004}{Color Reset}{Blue} bayas{Color Reset}? ¡Chachi!	{pause 10}¡L{o/a/} compro! {pause 30}{emote: Reset}Va en serio,	{Player nickname (green)}, ¡te l{o/a/} compro!{confirmation-02}{Player can respond (0005):000a-0000-0008-0028}	¡Trato hecho!	¿Eh? ¡No!
+"004"	{0009-0002-0008-000e-000f-0010-0011}
+"005"	{0009-0000-0004-0008-0009}
+"006"	{emote: Distress}¿No? {pause 10}Pero si es un trato ideal...{Wait for input}	{emote: Resigned}Jo, como quieras.
+"007"	{emote: Shyness}Supongo que podría haberte	hecho otra oferta.{pause 5}.{pause 5}.{pause 5} pero tampoco	me interesa tanto.
+"008"	{emote: Disbelief}¿Eh? {pause 10}¿Que no? {pause 10}¡Pero si lo de	regatear se me da divino!{Wait for input}{emote: Resigned}Qué fuerte me parece,	{catchphrase}.
+"009"	{emote: Distress}¿Que no? {pause 10}¡Jooo! {pause 10}¿Por qué?{Wait for input}{emote: Glare}Vale.{pause 5}.{pause 5}.{pause 5} La próxima vez te haré	una oferta que no podrás rechazar...
+"010"	{emote: Happiness}¡Chupi! ¡Trato hecho, {catchphrase}!{0009-0000-0004-000b-000c}
+"011"	{emote: Glee}¡Quedará divino en	mi casa, {catchphrase}!
+"012"	{emote: Sunny}¡Gracias, {Player nickname (green)}!	Ha sido divertido.
+"013"
+"014"	{0007-000d-0000}{emote: Happiness}Pueees... ¿{Blue}{0004-000b-0002-0000}{Color Reset}{Blue} bayas{Color Reset}?{confirmation-02}{Player can respond (0005):000a-0015-0009-0028}	¡Claro!	No
+"015"	{0007-000d-0000}{emote: Soft Smile}Solo tengo {Blue}{0004-000b-0002-0001}{Color Reset}{Blue} bayas{Color Reset}.	¿Te parece suficiente?{confirmation-02}{Player can respond (0005):000a-0015-0008-0028}	¡Sí!	Creo que no
+"016"	{0007-000d-0000}{emote: Soft Smile}Me he dejado el monedero en casa	y solo tengo {Blue}{Blue}{0004-000b-0002-0002}{Blue} bayas{Color Reset}.	¿Qué te parece?{confirmation-02}{Player can respond (0005):000a-0015-0006-0028}	Bueno, vale	¡Ni hablar!
+"017"	{0007-000d-0000}{emote: Happiness}¡Hoy es tu día de suerte!{pause 10}	¡Estoy dispuesta a pagarte	{Blue}{0004-000b-0002-0003} bayas{Color Reset}!{confirmation-02}{Player can respond (0005):000a-0015-0007-0028}	¡Vale!	No, gracias
 == 2 ==
-"001"	{emote: Distress}
-"002"	{emote: Shyness}
-"003"	Hé, j'ai une super idée! On va jouer	à la marchande!{0000-0004-0000}
-"004"	{0009-0002-0008-0e-00-0f-00-10-00-11-00}
-"005"	{0009-0000-0004-08-00-09-00}
-"006"	{emote: Distress}
-"007"	{emote: Shyness}
-"008"	{emote: Disbelief}
-"009"	{emote: Distress}
-"010"	{emote: Happiness}
-"011"	{emote: Glee}
-"012"	{emote: Sunny}
-"013"	
-"014"	{0007-000d-0000}
-"015"	{0007-000d-0000}
-"016"	{0007-000d-0000}
-"017"	{0007-000d-0000}
+"001"	{emote: Distress}On m'a dit que tu avais {Article(word-dependant)}	{0011-0003-0002-0000},	{Player nickname (green)}.{pause 20} Tu confirmes?!	Han là là, je suis verte de jalousie!!!	Je peux te l'acheter, dis? Allez,	STEUPLAÎT!!!{Player can respond (0005):0004-0000-0005-0028}	Dis-moi un prix.	C'est pas à vendre.
+"002"	{emote: Shyness}On m'a dit un truc, je sais pas si	c'est vrai...{pause 20} Est-ce que tu as {Article(word-dependant)}	{0011-0003-0002-0000}?!	{emote: Distress}Pas possible!!!{pause 10} Laisse-moi te {le/la/}	racheter! Steuplaît, steuplaît,	steuplaît!{Player can respond (0005):0004-0000-0005-0028}	Combien tu mets?	C'est non.
+"003"	Hé, j'ai une super idée! On va jouer	à la marchande!{Wait for input}{emote: Glee}La marchande, c'est toi, lol! Moi, je	fais la cliente!{emote: Reset} {emote: Love}Hi hi hi, trop drôle.{Wait for input}Wouhou, bonjour Madame la	marchande! {Désolée, c'est pas moi/Quelle belle}	{qui fais les règles, lol!/journée, alors!}	Oh, mais dites donc... C'est {Article(word-dependant)}	{0011-0003-0002-0000} que je vois	là?!	{0007-000d-0000}Si je vous le prends pour	{Blue}{0004-000b-0002-0004}{Color Reset}{Blue} clochettes{Color Reset}, ça vous va?{pause 10}	{emote: Reset}Pour de vrai, {Player nickname (green)}, hein!{confirmation-02}{Player can respond (0005):000a-0015-0008-0028}	OK!	C'est pas à vendre.
+"004"	{0009-0002-0008-000e-000f-0010-0011}
+"005"	{0009-0000-0004-0008-0009}
+"006"	{emote: Distress}Sérieux? {pause 10}Tu dois vraiment y tenir,	ma parole!{Wait for input} {emote: Resigned}Tant pis...
+"007"	{emote: Shyness}Je suis pas douée pour négocier, on	dirait{pause 5}.{pause 5}.{pause 5}.{pause 15} Bah, je m'en passerai!
+"008"	{emote: Disbelief}Je suis pas une femme d'affaires, ça	se voit, hi hi! {emote: Resigned}Tu parles d'un vent,	{Player nickname (green)}...{pause 20} {capitalized}{catchphrase}!
+"009"	{emote: Distress}Sérieux? {pause 10}C'est niet?{pause 10}{Wait for input}{emote: Shyness}Bouh, c'est pas gentil, {Player nickname (green)}{pause 5}.{pause 5}.{pause 5}.
+"010"	{emote: Happiness}Yessss! Affaire conclue,	{catchphrase}!{0009-0000-0004-000b-000c}
+"011"	{emote: Glee}C'est à moi, {catchphrase}! C'est à	moi-{pause 10}euuuh!
+"012"	{emote: Sunny}C'était délire, {Player nickname (green)}! Il faudra	qu'on remette ça!
+"013"
+"014"	{0007-000d-0000}{emote: Happiness}{Blue}{0004-000b-0002-0000}{Color Reset} {Blue}clochettes{Color Reset}, ça te va?{confirmation-02}{Player can respond (0005):000a-0015-0009-0028}	OK!	Niet.
+"015"	{0007-000d-0000}{emote: Soft Smile}{Blue}{0004-000b-0002-0001}{Color Reset}{Blue} clochettes{Color Reset}? C'est tout ce	que j'ai sur moi...{confirmation-02}{Player can respond (0005):000a-0015-0008-0028}	C'est bon...	Bien tenté...
+"016"	{0007-000d-0000}{emote: Soft Smile}Je suis un peu juste, ce mois-ci...{pause 20}	{Blue}{Blue}{0004-000b-0002-0002}{Blue} clochettes{Color Reset}, ça te va?{confirmation-02}{Player can respond (0005):000a-0015-0006-0028}	Ça va...	Ça va pas?!
+"017"	{0007-000d-0000}{emote: Happiness}C'est ton jour de chance!{pause 10} Je peux	t'en donner {Blue}{0004-000b-0002-0003} clochettes{Color Reset}!{confirmation-02}{Player can respond (0005):000a-0015-0007-0028}	Waouh, j'accepte!	Non merci.

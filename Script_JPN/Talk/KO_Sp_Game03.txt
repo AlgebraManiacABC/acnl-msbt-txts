@@ -1,14 +1,14 @@
 == 0 ==
-"001"	
-"002"	{emote: Showmanship}
-"003"	
-"004"	あっちむいて～{0007-0009-0004-14-00-00-00}
-"005"		{0007-000a-0000}
-"006"	{emote: Mistaken}
-"007"	{emote: Glare}
-"008"	{emote: Sunny}
-"009"	{emote: Happiness}
-"010"	ってことは、{pause 20}!
-"011"	{emote: Sadness}
-"012"	{emote: Happiness}
-"013"	{emote: Laughter}
+"001"
+"002"	{emote: Showmanship}よぉ～～し、{pause 8}{ruby (charSpan 1): はじ}始めるぜぇ～！		{Wait <005a 0000> 'time'}	{emote: Reset}まずは、{pause 8}	ルールの{ruby (charSpan 2): せつめい}説明をするから	{ruby (charSpan 1): き}聞いてくれよな	オレが　{emote: Star Yell}{pause 15}あっちむいて～{pause 30}	{emote: Reset}って{ruby (charSpan 1): い}言ったら、	を{ruby (charSpan 1): お}押して　{ruby (charSpan 1): む}向きを{ruby (charSpan 1): き}決めてくれ{Wait for input}{emote: Happiness}オレと{ruby (charSpan 1): おな}同じ{ruby (charSpan 2): ほうこう}方向を　{ruby (charSpan 1): む}向いたら	オメェの{ruby (charSpan 1): か}勝ちだ！{Wait for input}{emote: Reset}チャンスは{emote: Greetings}3{ruby (charSpan 1): かい}回！{pause 40}	{emote: Reset}{ruby (charSpan 1): うえ}上か　{ruby (charSpan 1): した}下か　{ruby (charSpan 1): みぎ}右か　{ruby (charSpan 1): ひだり}左か{pause 8}・{pause 8}・{pause 8}・{pause 20}	オレが　どっち{ruby (charSpan 1): む}向くか　{ruby (charSpan 1): あ}当ててみな！{Wait for input}そんじゃ　いくぜ？！{pause 30}	{emote: Anger}いざ　{ruby (charSpan 2): しょうぶ}勝負だ！
+"003"
+"004"	あっちむいて～{Wait <0014 0000> 'time'}
+"005"		{0007-000a-0000}{Text size 200%}ホ{pause 8}～{pause 8}イ{Text size 100%}
+"006"	{emote: Mistaken}あちゃ～！{pause 20}	{ruby (charSpan 1): おな}同じ{ruby (charSpan 1): ほう}方　{ruby (charSpan 1): む}向いちまった～
+"007"	{emote: Glare}へへっ、ハズレたな！{pause 40}	{emote: Soft Smile}そんじゃ　もう1{ruby (charSpan 1): かい}回いくぜ～
+"008"	{emote: Sunny}わはは！{pause 20}	また　ハズレたぜ～！{Wait for input}{emote: Reset}さぁ、{ruby (charSpan 2): さいご}最後の1{ruby (charSpan 1): かい}回だ！{pause 30}	{emote: Soft Smile}{ruby (charSpan 2): じゅんび}準備はいいかい？
+"009"	{emote: Happiness}{ruby (charSpan 2): けっきょく}結局　ハズレたな～！
+"010"	ってことは、{pause 20}	{emote: Delight}オメェの　{ruby (charSpan 1): か}勝ちだ！{pause 60}{emote: Soft Smile}
+"011"	{emote: Sadness}{ruby (charSpan 1): ま}負けちまったか{pause 8}・{pause 8}・{pause 8}・{Wait for input}	{emote: Glare}オメェ{pause 15}　なかなか	やるじゃねぇか！
+"012"	{emote: Happiness}ってことは、{pause 20}	オレの　{ruby (charSpan 1): か}勝ちだな！{pause 20}	{emote: Laughter}がーっはっは！{pause 40}{emote: Happiness}
+"013"	{emote: Laughter}がーっはっは！{pause 30}	{emote: Happiness}オレの{ruby (charSpan 1): か}勝ちだな！{Wait for input}{emote: Sheepishness}オメェ　{ruby (charSpan 2): やせい}野生のカンが{pause 15}	{emote: Resigned}にぶっちまってるんじゃねぇか？！{pause 8}{emote: Sheepishness}

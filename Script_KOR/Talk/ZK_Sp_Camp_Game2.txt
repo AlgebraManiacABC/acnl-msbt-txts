@@ -1,20 +1,20 @@
 == 0 ==
-"001"	심심하면 지금 나랑{pause 16}
-"002"	{emote: Worry}
-"003"	{emote: Soft Smile}
-"004"	{emote: Shocked}
-"005"	{emote: Sheepishness}
-"006"	{emote: Sheepishness}
-"007"	{emote: Sheepishness}
-"008"	{emote: Soft Smile}
-"009"	{emote: Sheepishness}
-"010"	{emote: Sheepishness}
-"011"	{emote: Sheepishness}
-"012"	{emote: Sheepishness}
-"013"	{0009-0003-000a-0b-00-0b-00-0b-00-0b-00-0c-00}
-"014"	{emote: Worry}
-"015"	{emote: Worry}
-"016"	{emote: Anger}
-"017"	{emote: Curious}
-"018"	{emote: Worry}
-"019"	{emote: Glare}
+"001"	심심하면 지금 나랑{pause 16}	『5 판단 게임』이라도	할까? {pause 8}{catchphrase}?	{emote: Anger}내가 가구의 이름과 가격을 말할 텐데{pause 16}	괜찮다 싶으면 {pause 8}그대가	그 가구를 내가 부른 가격에 사는 거야	{0007-000d-0000}판단할 수 있는 기회는 총 4번이야{pause 30}	{emote: Curious}어때? {pause 8}해볼래?{Player can respond (0005):0003-0015-0002-0028}	좋아!	다음에 하자
+"002"	{emote: Worry}아쉽군{pause 8}・{pause 8}・{pause 8}・{pause 32}{emote: Sheepishness} 뭐, {pause 8}천천히	그대 생각이 바뀌길{pause 16}	기다릴게, {pause 8}{catchphrase}
+"003"	{emote: Soft Smile}좋았어, {pause 8}그럼 간단하게{pause 16}	규칙을 설명할게, {pause 8}{catchphrase}!{Wait for input}	{emote: Reset}여기에 5가지의 가구가 있어{pause 8}・{pause 8}・{pause 8}・{pause 8}	그대는 이 중에서{pause 16}	아무거나 1가지를 돈 내고 사는 거야{Wait for input}지금부터 내가 순서대로 가구의 이름과{pause 8}	가격을 부를 테니까{pause 16}	사고 싶을 때 말을 걸어줘	{emote: Sheepishness}단, {pause 8}마지막까지	사겠다는 판단을 못 하면{pause 16}	다섯 번째에 나오는 가구는 무조건 사야 해	{emote: Anger}그럼, {pause 16}첫 번째 시작한다!{Wait for input}	{emote: Reset}{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 32}	{Blue}{Number (0x9)}벨{Color Reset}에{emote: Curious} 어때?{confirmation-02}{Player can respond (0005):0004-0015-0005-0028}	산다	안 산다
+"004"	{emote: Shocked}벌써?!{pause 32}	{emote: Sheepishness}그대도 참 {pause 16}성격 급하네{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"005"	{emote: Sheepishness}후후훗{pause 8}・{pause 8}・{pause 8}・{pause 8} 신중하군～{pause 32}	우선 분위기를 살피는 건가?	{pause 8}{catchphrase}?	{emote: Anger}그럼, {pause 16}두 번째 간다!{Wait for input}	{emote: Reset}{0011-0003-0002-0001}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 32}	{Blue}{Number (0x9)}벨{Color Reset}에 {emote: Curious}어때?{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	산다	안 산다
+"006"	{emote: Sheepishness}음～ {pause 16}그대는	이런 걸 {pause 16}좋아하는구나{pause 8}・{pause 8}・{pause 8}・
+"007"	{emote: Sheepishness}아무래도 뭔가 찾는 게{pause 16}	있는 모양이군, {pause 8}{catchphrase}{Wait for input}{emote: Anger}그럼, {pause 16}세 번째 간다!{Wait for input}	{emote: Reset}{0011-0003-0002-0002}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 32}	{Blue}{Number (0x9)}벨{Color Reset}에 {emote: Curious}어때?{confirmation-02}{Player can respond (0005):0008-0015-0009-0028}	산다	안 산다
+"008"	{emote: Soft Smile}그렇군, {pause 16}이런 걸	기다렸던 거군, {pause 8}{catchphrase}
+"009"	{emote: Sheepishness}뭔가 강한 고집이{pause 16}	느껴지는군{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}결정하려면 이번이 마지막 기회야	{emote: Soft Smile}이번에 정하지 못하면{pause 16}	다음엔 무조건 사야 되니까,	{pause 8}{catchphrase}	{emote: Anger}자, {pause 16}네 번째 간다!{Wait for input}	{emote: Reset}{0011-0003-0002-0003}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}벨{Color Reset}에 {emote: Curious}어때?{confirmation-02}{Player can respond (0005):000a-0015-000d-0028}	산다	안 산다
+"010"	{emote: Sheepishness}이야～{pause 8}・{pause 8}・{pause 8}・{pause 8} 어찌나 긴장이 되던지{pause 16}	심장이 터지는 줄 알았어,	{pause 8}{catchphrase}
+"011"	{emote: Sheepishness}후후훗{pause 8}・{pause 8}・{pause 8}・{pause 8} 그대는	도전 정신이 투철하군{Wait for input}{emote: Reset}말해 두지만, 마지막 가구는{pause 16}	가격이 얼마든 간에{pause 16}	무조건 사는 거야	{emote: Anger}자, {pause 8}마지막 발표!{pause 32}	{0011-0003-0002-0004}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}벨{Color Reset}에!!
+"012"	{emote: Sheepishness}후후훗{pause 8}・{pause 8}・{pause 8}・{pause 8} 그대는	도전 정신이 투철하군{Wait for input}{emote: Reset}말해 두지만, 마지막 가구는{pause 16}	가격이 얼마든 간에{pause 16}	무조건 사는 거야	{emote: Anger}자, {pause 8}마지막 발표!{pause 32}	{0011-0003-0002-0004}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}벨{Color Reset}에!!
+"013"	{0009-0003-000a-000b-000b-000b-000b-000c}
+"014"	{emote: Worry}금방 끝나긴 했지만{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}그댄 운명적으로 고른 거겠지?{Wait for input}{emote: Soft Smile}그런 거면 {pause 8}어쩔 수 없지,	{pause 8}{catchphrase}
+"015"	{emote: Worry}다른 것도 많았는데{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Sheepishness}하긴, {pause 8}그렇게 생각하다 보면{pause 16}	좋은 판단을 할 수가 없지
+"016"	{emote: Anger}절묘한 타이밍에{pause 8}	결정을 내린 그대는{pause 32}	{emote: Glare}리더십이 있는 사람일지도 몰라!
+"017"	{emote: Curious}후회는 없지?{Wait for input}	{emote: Sheepishness}그러면 된 거지 뭐{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"018"	{emote: Worry}마지막은 {pause 8}이 가격으로 정해 뒀었어{pause 32}	너무 섭섭하게 생각하진 마,	{pause 8}{catchphrase}	{emote: Anger}그런데 조금 전 그대는{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Glare}정열적이고 멋졌어
+"019"	{emote: Glare}왜 이런 말 있잖아?{pause 32}	「참는 자에게 복이 있나니!」{pause 32}	하핫ー!	{emote: Soft Smile}결과적으로 {pause 8}좋은 선택이었네?{pause 32}	{0011-0003-0002-0004}{pause 16}	잘 부탁해, {pause 8}{catchphrase}

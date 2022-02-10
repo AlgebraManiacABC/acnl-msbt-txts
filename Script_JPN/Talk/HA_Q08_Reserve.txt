@@ -1,9 +1,9 @@
 == 0 ==
-"001"	{emote: Glee}
-"002"	{emote: Showmanship}
-"003"	{pause 8}
-"004"	{emote: Curious}
-"005"	{emote: Shocked}
-"006"	{emote: Happiness}
-"007"	{emote: Glee}
-"008"	{emote: Worry}
+"001"	{emote: Glee}ヨッシャー！{pause 20}	やっぱり　オマエは	ノリがいいなー！{Wait for input}{emote: Reset}で、{pause 20}{ruby (charSpan 2): じかん}時間はどうするー？{Wait for input}	{Blue}{0004-0010-0002-cd00}{ruby (charSpan 1): じ}時{Color Reset}より{ruby (charSpan 1): あと}後で、	ヒマな{ruby (charSpan 2): じかん}時間を　{ruby (charSpan 1): おし}教えてくれよー
+"002"	{emote: Showmanship}その{ruby (charSpan 2): へんじ}返事！！{pause 20}	{ruby (charSpan 1): ま}待ってたぞー！{Wait for input}{emote: Reset}そんじゃ、{pause 20}あとは{ruby (charSpan 2): じかん}時間だな！{Wait for input}	{Blue}{0004-0010-0002-cd00}{ruby (charSpan 2): じはん}時半{Color Reset}より{ruby (charSpan 1): あと}後で、	{ruby (charSpan 1): す}好きな{ruby (charSpan 2): じかん}時間を　{ruby (charSpan 1): おし}教えてくれー
+"003"	{pause 8}・{pause 8}・{pause 8}・{pause 20}{emote: Disbelief}{0007-000b-0000}って、{pause 20}	もう　こんな{ruby (charSpan 2): じかん}時間かー？！{Wait for input}{emote: Worry}{ruby (charSpan 2): きょう}今日は　もうおそいから{pause 20}	また{ruby (charSpan 2): こんど}今度にしよう、{pause 8}{catchphrase}
+"004"	{emote: Curious}あれ？{pause 20}	やっぱり　{ruby (charSpan 2): つごう}都合{ruby (charSpan 1): わる}悪いのかー？{Wait for input}{emote: Happiness}それじゃ{pause 20}	また{ruby (charSpan 2): こんど}今度にしよう、{pause 8}{catchphrase}
+"005"	{emote: Shocked}えぇーっ！{pause 40}	そりゃ　オイラの{ruby (charSpan 1): あし}足でも	ムリだぞー！{Wait for input}{emote: Worry}もうちょっと、{pause 20}	おそい{ruby (charSpan 2): じかん}時間にしてくれよー
+"006"	{emote: Happiness}よーっし！{pause 20}	{Blue}{0005-0019-0002-cd01}{0004-0010-0002-cd01}{ruby (charSpan 1): じ}時{Color Reset}ピッタリだな！{Wait for input}	ちゃんと{ruby (charSpan 2): へや}部屋で　{ruby (charSpan 1): ま}待ってろよー？
+"007"	{emote: Glee}オッケー！{pause 20}	{Blue}{0005-0019-0002-cd01}{0004-0010-0002-cd01}{ruby (charSpan 1): じ}時{0004-0011-0002-cd02}{ruby (charSpan 1): ぷん}分{Color Reset}で　{ruby (charSpan 2): けってい}決定だー！{pause 40}	{ruby (charSpan 2): へや}部屋で{ruby (charSpan 1): ま}待っててくれよ、{pause 8}{catchphrase}
+"008"	{emote: Worry}う～ん{pause 8}・{pause 8}・{pause 8}・{pause 40}	オイラ、{pause 10}そんな{ruby (charSpan 2): じかん}時間まで	{ruby (charSpan 1): お}起きてる{ruby (charSpan 2): じしん}自信ないんだよな{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Reset}もっと　はやい{ruby (charSpan 2): じかん}時間に{pause 5}	{emote: Curious}してくれないか、{pause 8}{catchphrase}？

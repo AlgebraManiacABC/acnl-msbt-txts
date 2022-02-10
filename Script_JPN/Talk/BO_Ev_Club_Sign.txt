@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Curious}
-"002"	{emote: Happiness}
-"003"	{emote: Curious}
-"004"	{emote: Curious}
-"005"	はい！{pause 20}
-"006"	はい{pause 20}
-"007"	{emote: Bashful}
-"008"	できたよぉ～！{pause 40}
-"009"	はい、{pause 20}
-"010"	{emote: Happiness}
+"001"	{emote: Curious}コレって　どんな	しょめいなのぉ？{Wait for input}{emote: Alarmed}{0007-000b-0000}えぇ～！{pause 20}	しょうてんがいに、	ライブハウスを　{ruby (charSpan 1): つく}作るって～？！{Wait for input}{emote: Reset}ライブハウスって{pause 20}	{ruby (charSpan 1): なに}何するところか　わからないけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}おもしろそうだから	サインしちゃお～っと！
+"002"	{emote: Happiness}へぇ～！{pause 20}	しょうてんがいに、	ライブハウスを{ruby (charSpan 1): つく}作るんだぁ～{Wait for input}ボクも　ライブ	{ruby (charSpan 1): い}行ってみたいなぁ～{pause 20}	きょうりょく　するよぉ、{pause 8}{catchphrase}
+"003"	{emote: Curious}ライブハウスのしょめい？{pause 40}	{emote: Glee}うわぁ～～！{pause 20}	それは　もりあがりそう～！{Wait for input}それじゃあ{pause 20}	サインするねぇ、{pause 8}{catchphrase}
+"004"	{emote: Curious}ライブハウスのしょめい？{pause 40}	{emote: Thought}ボク　{ruby (charSpan 1): まえ}前にも	{ruby (charSpan 1): か}書いた{ruby (charSpan 1): き}気がするけど{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}もう{ruby (charSpan 2): いっかい}一回　ひつようなら、{pause 20}	サイン　サイン～！
+"005"	はい！{pause 20}　できたぁ～{pause 40}	まだまだ　はじめたばっかりなんだね！{pause 20}	{emote: Greetings}がんばって、{Player nickname (green)}{0005-000d-0000}
+"006"	はい{pause 20}　{ruby (charSpan 1): か}書けたよぉ～{pause 40}	{emote: Happiness}いっぱい　しょめいが	あつまるといいねぇ、{pause 8}{catchphrase}
+"007"	{emote: Bashful}ボクのかっこいいサイン、{pause 20}	みんな　{ruby (charSpan 1): よ}読めるかなぁ？
+"008"	できたよぉ～！{pause 40}	{emote: Worry}あんまり　{ruby (charSpan 1): じ}字がうまくないけど、{pause 20}	これでも　だいじょうぶだよね？
+"009"	はい、{pause 20}{ruby (charSpan 1): か}書けたよぉ～{pause 40}	{emote: Happiness}あと{ruby (charSpan 2): ひとり}1人で　かんせいだねぇ～{pause 20}	がんばってね、{Player nickname (green)}{0005-000d-0000}
+"010"	{emote: Happiness}はい！{pause 8}　{ruby (charSpan 1): か}書いたよ！{pause 40}	これでしょめいが	あつまったみたいだねぇ{Wait for input}{emote: Delight}おめでとぉ～！{pause 20}	ライブハウスのオープンが	{ruby (charSpan 1): たの}楽しみだねぇ、{pause 8}{catchphrase}

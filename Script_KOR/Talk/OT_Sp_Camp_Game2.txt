@@ -1,21 +1,21 @@
 == 0 ==
-"001"	있잖아, {pause 8}
-"002"	{emote: Worry}
-"003"	{emote: Soft Smile}
-"004"	{emote: Shocked}
-"005"	{emote: Sheepishness}
-"006"	{emote: Sheepishness}
-"007"	{emote: Alarmed}
-"008"	{emote: Soft Smile}
-"009"	{emote: Sheepishness}
-"010"	{emote: Sheepishness}
-"011"	{emote: Sheepishness}
-"012"	{emote: Sheepishness}
-"013"	{0009-0003-000a-0b-00-0b-00-0b-00-0b-00-0c-00}
-"014"	{emote: Worry}
-"015"	{emote: Worry}
-"016"	{emote: Soft Smile}
-"017"	{emote: Soft Smile}
-"018"	{emote: Resigned}
-"019"	{emote: Sheepishness}
-"020"	
+"001"	있잖아, {pause 8}게임 하나 하지 않을래?{Wait for input}{emote: Anger}내가 가구 이름이랑 가격을	말할 테니까 {pause 16}조건이 맘에 들면{pause 16}	당신이 그 가격에 가구를 사는 거야	{0007-000d-0000}{emote: Glare}기회는 5번 있어!{pause 32}	어때? {pause 16}{emote: Curious}할래?{Player can respond (0005):0003-0015-0002-0028}	좋아!	다음에 하자
+"002"	{emote: Worry}어머, {pause 16}그래{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}맘이 바뀌면 다시 와,	{pause 8}{catchphrase}
+"003"	{emote: Soft Smile}그럼 먼저 간단하게{pause 16}	규칙을 알려줄게, {pause 8}{catchphrase}{Wait for input}	{emote: Reset}여기에 5개의 가구가 있어{pause 8}・{pause 8}・{pause 8}・{pause 8}	당신은 그중에서 반드시 1개는{pause 16}	돈을 내고 사야 하는 거야{Wait for input}지금부터 내가 가구 이름과{pause 16}	가격을 부를 테니까, {pause 16}마음에 안 들면{pause 16}	「패스」라고 하면 돼!	{emote: Sheepishness}단, 패스는 4번만 할 수 있어{pause 32}	마지막 가구는 조건이 어떻든{pause 16}	반드시 사야 하는 거야	{emote: Anger}그럼 {pause 16}1번째 간다!{Wait for input}	{emote: Reset}{0011-0003-0002-0000}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}벨{Color Reset}에 어때?{confirmation-02}{Player can respond (0005):0004-0015-0005-0028}	살래	패스
+"004"	{emote: Shocked}벌써?! {pause 32}{emote: Sheepishness}당신만 좋다면{pause 16}	별 상관은 없지만{pause 8}・{pause 8}・{pause 8}・
+"005"	{emote: Sheepishness}당신은 신중한 편이구나?{pause 32}	일단은 상황을 좀 보려는 거지?{Wait for input}{emote: Anger}그럼 {pause 16}2번째 간다!{Wait for input}	{emote: Reset}{0011-0003-0002-0001}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}벨{Color Reset}에 어때?{confirmation-02}{Player can respond (0005):0006-0015-0007-0028}	살래	패스
+"006"	{emote: Sheepishness}흠～ {pause 16}당신{pause 8}・{pause 8}・{pause 8}・{pause 8}	이런 걸 좋아하는구나～
+"007"	{emote: Alarmed}그래? {pause 8}고집이 있네{pause 32}	{emote: Sheepishness}적당한 선에서{pause 16}	끊는 게 좋을 텐데{pause 8}・{pause 8}・{pause 8}・{pause 8}	{emote: Anger}그럼 {pause 16}3번째 간다!{Wait for input}	{emote: Reset}{0011-0003-0002-0002}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}벨{Color Reset}에{emote: Curious} 어때?{confirmation-02}{Player can respond (0005):0008-0015-0009-0028}	살래	패스
+"008"	{emote: Soft Smile}흠{pause 8}・{pause 8}・{pause 8}・{pause 8}	이런 걸 기다리고 있었구나?
+"009"	{emote: Sheepishness}호오{pause 8}・{pause 8}・{pause 8}・{pause 8} 당신{pause 16}	승부사 기질이 있는데～{Wait for input}{emote: Soft Smile}다음에도 패스해 버리면{pause 16}	5번째는 꼭 사야 하는 거 알지?	{pause 8}{catchphrase}?	{emote: Anger}그럼 {pause 16}4번째 간다!{Wait for input}	{emote: Reset}{0011-0003-0002-0003}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}벨{Color Reset}에 {emote: Curious}어때?{confirmation-02}{Player can respond (0005):000a-0015-000d-0028}	살래	마지막 패스
+"010"	{emote: Sheepishness}우후후{pause 8}・{pause 8}・{pause 8}・{pause 8} 당신{pause 32}	보통내기가 아닌데?{pause 32}	뭐, 나도 즐거웠어!
+"011"	{emote: Sheepishness}우후후{pause 8}・{pause 8}・{pause 8}・{pause 8} 당신{pause 16}	어떤 상황에서도{pause 8} 타협하지 않는	성격이구나? {pause 8}{catchphrase}?	{emote: Worry}알고 있겠지만 마지막 가구는{pause 16}	가격이 어떻든 간에{pause 16}	사야 하는 거야!	{emote: Anger}그럼 {pause 8}마지막 발표를 한다!{Wait for input}	{0011-0003-0002-0004}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}벨{Color Reset}에 넘기겠어!	{emote: Sheepishness}이 가격은 바꿀 수 없어!{pause 32}	너무 섭섭하게 생각지는 마～
+"012"	{emote: Sheepishness}우후훗{pause 8}・{pause 8}・{pause 8}・{pause 8} 당신{pause 16}	어떤 상황에서도{pause 8} 타협하지 않는	성격이구나? {pause 8}{catchphrase}?	{emote: Worry}알고 있겠지만 마지막 가구는{pause 16}	가격이 어떻든 간에{pause 16}	사야 하는 거야!	{emote: Anger}그럼 {pause 8}마지막 발표를 한다!{Wait for input}	{0011-0003-0002-0004}{000e-000e-0008-0002-c744-0002-b97c}{pause 8}・{pause 8}・{pause 8}・{pause 8}	{Blue}{Number (0x9)}벨{Color Reset}에 넘기겠어!	{emote: Glare}놀랐지? {pause 16}특별히 선심 썼어!
+"013"	{0009-0003-000a-000b-000b-000b-000b-000c}
+"014"	{emote: Worry}금방 끝나 버리긴 했지만{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Soft Smile}그걸로 당신이 납득했다면{pause 16}	문제없다고 봐, {pause 8}{catchphrase}
+"015"	{emote: Worry}이 외에도 이것저것{pause 16}	보여주고 싶었지만{pause 8}・{pause 8}・{pause 8}・{pause 32}	{emote: Sheepishness}그러다 보면 {pause 16}끝이 없겠지?
+"016"	{emote: Soft Smile}잘 됐다, {pause 8}{catchphrase}!{pause 32}	원하는 걸 찾았구나!
+"017"	{emote: Soft Smile}적당한 타이밍에{pause 16}	끊을 줄 아네?	{pause 8}{catchphrase}?
+"018"	{emote: Resigned}그러게 {pause 16}고집은 왜 부려{pause 8}・{pause 8}・{pause 8}・{pause 8}
+"019"	{emote: Sheepishness}큰맘 먹고 싸게 넘긴 거니까{pause 16}	간직해줘, {pause 8}{catchphrase}!
+"020"

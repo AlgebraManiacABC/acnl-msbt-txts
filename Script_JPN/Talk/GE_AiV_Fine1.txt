@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Happiness}
-"002"	{emote: Surprise}
-"003"	{emote: Happiness}
-"004"	{emote: Happiness}
-"005"	{emote: Happiness}
-"006"	{emote: Happiness}
-"007"	{emote: Happiness}
-"008"	{emote: Surprise}
-"009"	{emote: Happiness}
-"010"	{emote: Happiness}
+"001"	{emote: Happiness}{Greeting begin}ヤッホー{Greeting end}！{pause 20}	{Player name}{0005-000d-0000}じゃん！{Wait for input}	{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): き}来たんだね～、{pause 8}{catchphrase}
+"002"	{emote: Surprise}あ～、{pause 10}{Player name}{0005-000d-0000}だ～！{pause 30}	{emote: Happiness}{ruby (charSpan 2): げんき}元気してる？！
+"003"	{emote: Happiness}{Player name}{0005-000d-0000}、{pause 10}おっはよ～！{pause 30}	たくさん　{ruby (charSpan 1): あそ}遊んでってよね、{pause 15}{catchphrase}！
+"004"	{emote: Happiness}{Player name}{0005-000d-0000}！{pause 30}	{ruby (charSpan 1): き}来てるんだったら{pause 10}	{ruby (charSpan 1): い}言ってくれればいいのに～、{pause 15}{catchphrase}！
+"005"	{emote: Happiness}{Player name}{0005-000d-0000}、{pause 10}ヤッホー！{pause 30}	なんか　{ruby (charSpan 2): きょう}今日は、{pause 8}	{emote: Happiness}{ruby (charSpan 1): あ}会える{ruby (charSpan 1): き}気がしたんだよね～、{pause 10}{catchphrase}！
+"006"	{emote: Happiness}{Greeting begin}{Player name}{0005-000d-0000}じゃん！　{pause 20}ヤッホー{Greeting end}！{pause 30}	アタイに　{ruby (charSpan 1): あ}会いに{ruby (charSpan 1): き}来てくれたの？{pause 30}	{emote: Glee}うれしい～、{pause 15}{catchphrase}！！
+"007"	{emote: Happiness}{Greeting begin}{Player name}{0005-000d-0000}、{pause 10}こんばんは{Greeting end}！{Wait for input}なんか　{ruby (charSpan 2): きょう}今日は{pause 8}	{ruby (charSpan 1): き}来てる{ruby (charSpan 1): き}気がしたんだよね{pause 30}	{emote: Glare}アタイ　{pause 8}カンはするどいんだ～、{pause 15}{catchphrase}
+"008"	{emote: Surprise}あ～！　{pause 20}{Player name}{0005-000d-0000}！{pause 30}	{emote: Happiness}ちょうど{pause 10}アンタのこと	{ruby (charSpan 1): かんが}考えてたんだよ～、{pause 15}{catchphrase}
+"009"	{emote: Happiness}うっそ～！　{pause 20}{Player name}{0005-000d-0000}じゃ～ん！{pause 30}	こんな{ruby (charSpan 2): じかん}時間に{ruby (charSpan 1): あ}会っちゃうなんて、{pause 20}	{emote: Daydreaming}・{pause 10}・{pause 10}・{pause 10}{ruby (charSpan 2): うんめい}運命じゃない？！　{pause 20}{catchphrase}
+"010"	{emote: Happiness}{Greeting begin}{Player name}{0005-000d-0000}だ～！{Greeting end}{pause 30}	こんな{ruby (charSpan 2): じかん}時間に　{ruby (charSpan 1): あそ}遊びに{ruby (charSpan 1): く}来るなんて{pause 10}	{emote: Joy}ちょーカッコイイじゃん、{pause 15}{catchphrase}！

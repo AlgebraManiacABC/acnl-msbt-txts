@@ -1,88 +1,88 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	{emote: Alarmed}
-"003"	{emote: Alarmed}
-"004"	{emote: Happiness}
-"005"	{emote: Alarmed}
-"006"	{emote: Alarmed}
-"007"	コレは　あとで　きてみよっと！{pause 40}
-"008"	{emote: Happiness}
-"009"	{emote: Bashful}
-"010"	{emote: Pride}
-"011"	{emote: Bashful}
-"012"	{emote: Sadness}
-"013"	{emote: Disagreement}
-"014"	{emote: Sadness}
-"015"	{emote: Sheepishness}
-"016"	{emote: Worry}
-"017"	{emote: Resigned}
-"018"	{emote: Shocked}
-"019"	{emote: Disagreement}
-"020"	{emote: Worry}
-"021"	{emote: Shyness}
-"022"	{emote: Anger}
-"023"	{emote: Joy}
-"024"	{emote: Pride}
-"025"	{emote: Glee}
-"026"	{emote: Shocked}
-"027"	{emote: Cold Chill}
-"028"	{emote: Cold Chill}
-"029"	{emote: Happiness}
-"030"	{emote: Pride}
-"031"	{emote: Glee}
-"032"	{emote: Sheepishness}
-"033"	{emote: Happiness}
-"034"	{emote: Worry}
-"035"	{emote: Sadness}
-"036"	{emote: Happiness}
-"037"	{emote: Happiness}
-"038"	{emote: Bashful}
-"039"	{emote: Pride}
-"040"	{emote: Alarmed}
-"041"	{emote: Sadness}
-"042"	{emote: Agreement}
-"043"	{emote: Worry}
-"044"	{emote: Sadness}
-"045"	{emote: Agreement}
-"046"	{emote: Agreement}
-"047"	{emote: Alarmed}
-"048"	{emote: Pride}
-"049"	{emote: Bashful}
-"050"	{emote: Sadness}
-"051"	{emote: Disagreement}
-"052"	{emote: Happiness}
-"053"	{emote: Worry}
-"054"	{emote: Anger}
-"055"	{emote: Cold Chill}
-"056"	{emote: Disagreement}
-"057"	{emote: Worry}
-"058"	{emote: Alarmed}
-"059"	{emote: Distress}
-"060"	{emote: Shyness}
-"061"	{emote: Alarmed}
-"062"	{emote: Sadness}
-"063"	{emote: Reset}
-"064"	{emote: Happiness}
-"065"	あのコ{pause 20}
-"066"	{emote: Happiness}
-"067"	{0011-0001-0002-01-00}{0005-000d-0000}
-"068"	{emote: Happiness}
-"069"	{emote: Love}
-"070"	{emote: Happiness}
-"071"	{emote: Happiness}
-"072"	{emote: Bashful}
-"073"	{emote: Happiness}
-"074"	あのコ{pause 20}
-"075"	{emote: Happiness}
-"076"	こんなの　もらって	よかったのかなぁ～？{pause 40}
-"077"	{emote: Reset}
-"078"	まぁ、とにかく{pause 40}
-"079"	まぁ、とにかく{pause 40}
-"080"	でも、{pause 20}
-"081"	でも、{pause 20}
-"082"	{emote: Agreement}
-"083"	{emote: Agreement}
-"084"	プレゼントしたふくを	ボクが　きてたら、{pause 20}
-"085"	{emote: Happiness}
-"086"	{emote: Happiness}
-"087"	{emote: Reset}
+"001"	{emote: Alarmed}{0007-000b-0000}わぁ～！{pause 20}　{0011-0003-0002-0000}だぁ！{Wait for input}{emote: Glee}ボク{pause 20}　{0005-0023-0002-cd00}なふくって	{ruby (charSpan 1): だい}大すきなんだぁ{pause 40}	{ruby (charSpan 1): いろ}色もかっこいい～
+"002"	{emote: Alarmed}{0007-000b-0000}あぁ～！{pause 20}	{0011-0003-0002-0000}だぁ～{Wait for input}{emote: Love}この{ruby (charSpan 1): いろ}色{pause 20}　ボクのふるさとを	{ruby (charSpan 1): おも}思い{ruby (charSpan 1): だ}出すよぉ、{pause 8}{catchphrase}
+"003"	{emote: Alarmed}{0007-000b-0000}わぁ～！{pause 20}	{0011-0003-0002-0000}だぁ！{Wait for input}{emote: Love}こういう	{0005-0023-0002-cd00}なふくって{pause 20}	かっこいいよねぇ
+"004"	{emote: Happiness}わぁ～い！{pause 20}	{0011-0003-0002-0000}だぁ～
+"005"	{emote: Alarmed}{0007-000b-0000}わぁ～！{pause 20}	{0011-0003-0002-0000}！{Wait for input}{emote: Worry}{ruby (charSpan 1): いろ}色はかっこいいけど{pause 20}	こういうの　ボクに	きこなせるかなぁ？
+"006"	{emote: Alarmed}{0007-000b-0000}えぇ～？！{pause 20}	{0011-0003-0002-0000}？！{Wait for input}{emote: Worry}こういう　{0005-0023-0002-cd00}なふく{pause 20}	ボクに　にあうかなぁ～？
+"007"	コレは　あとで　きてみよっと！{pause 40}	{emote: Happiness}{ruby (charSpan 1): たの}楽しみは{pause 20}　あとに	とっておかなくっちゃねぇ、{pause 8}{catchphrase}
+"008"	{emote: Happiness}よぉ～し！{pause 20}	さっそく　きがえてみよぉ～っと！
+"009"	{emote: Bashful}えへへ～{pause 20}	けっこう　にあってるよねぇ？
+"010"	{emote: Pride}{Player nickname (green)}{0005-000d-0000}{pause 20}　どぉ～？{pause 20}	にあう～？{000f-0005-0004-0015-0028}	{ruby (charSpan 2): にあ}似合ってる！	ビミョー
+"011"	{emote: Bashful}えへへ～{pause 20}	そうでしょぉ～！
+"012"	{emote: Sadness}えぇ～{pause 40}	それって　モデルが	わるいのかなぁ{pause 8}・{pause 8}・{pause 8}・
+"013"	{emote: Disagreement}でも{pause 20}　このふくが　にあう{ruby (charSpan 1): おとこ}男に	ボクがなれば　いいんだよねぇ{Wait for input}{emote: Joy}えへへ～{pause 20}	{ruby (charSpan 1): あたら}新しい　もくひょうが	できちゃったぁ、{pause 8}{catchphrase}
+"014"	{emote: Sadness}そんなぁ～{pause 8}・{pause 8}・{pause 8}・{pause 20}	これで　{ruby (charSpan 1): むら}村を{ruby (charSpan 1): ある}歩くのって{pause 20}	おかしいかなぁ～？{000f-0005-0004-0000-0000}	そんなことない	おかしいかも
+"015"	{emote: Sheepishness}な～んだ　よかったぁ～{pause 40}	{Player nickname (green)}{0005-000d-0000}の{ruby (charSpan 1): め}目が	きびしすぎるんだねぇ～
+"016"	{emote: Worry}そこまで　{ruby (charSpan 1): い}言われちゃったら、{pause 20}	ぬぐしかないよぉ～
+"017"	{emote: Resigned}ボクには　まだ{pause 20}	あのデザインは	{ruby (charSpan 1): はや}早かったかなぁ、{pause 8}{catchphrase}
+"018"	{emote: Shocked}{0007-000a-0000}うっ{pause 8}・{pause 8}・{pause 8}・{pause 20}	なんか　{ruby (charSpan 1): おも}思ってたのと	ちがうかもぉ～{pause 8}・{pause 8}・{pause 8}・
+"019"	{emote: Disagreement}まぁ～{pause 20}　いいや！{pause 40}	{emote: Happiness}だんだん　よごれたり　のびたりして、{pause 20}	ボクらしく　なっていくよねぇ
+"020"	{emote: Worry}きてみないと	わからないもんだなぁ～{pause 40}	とりあえず　ぬいじゃおっと
+"021"	{emote: Shyness}ここだと　はずかしいから、{pause 20}	あとで　こっそりきてみよぉ～っと
+"022"	{emote: Anger}よぉ～し！{pause 20}	さっそく　きてみよぉ～
+"023"	{emote: Joy}えへへ～{pause 20}	コレ、ボクに　ピッタリだぁ～{pause 20}	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入っちゃったぁ～
+"024"	{emote: Pride}じゃあ～～ん！{pause 40}	{Player nickname (green)}{0005-000d-0000}	どう{ruby (charSpan 1): おも}思う～？{000f-0005-0004-0000-0000}	かっこいい！	ビミョー
+"025"	{emote: Glee}やったぁ～！{pause 20}	ほめられちゃったぁ～
+"026"	{emote: Shocked}{0007-000a-0000}そ、{pause 20}そんなぁ～{pause 8}・{pause 8}・{pause 8}・
+"027"	{emote: Cold Chill}おともだちに{pause 40}	ビミョーと{ruby (charSpan 1): い}言われた{pause 40}	ふくをきる{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Pride}それでも　ボク{pause 20}	{ruby (charSpan 2): じぶん}自分をまげない	オトナになるよ！
+"028"	{emote: Cold Chill}おともだちに{pause 40}	ビミョーと{ruby (charSpan 1): い}言われた{pause 40}	ふくをきる{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Distress}{0007-000b-0000}そんなの　やだよぉ～！
+"029"	{emote: Happiness}ためしに　きてみよ～っと！{pause 40}	へんし～ん！
+"030"	{emote: Pride}どぉ～？{pause 20}	にあうかなぁ？{000f-0001-0006-0000-0000-0000}	{ruby (charSpan 2): にあ}似合ってる！	フツー	ビミョー
+"031"	{emote: Glee}わぁ～い！{pause 20}	{Player nickname (green)}{0005-000d-0000}が　{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ったなら{pause 20}	しばらく　きてよぉ～っと
+"032"	{emote: Sheepishness}まぁ{pause 20}　そうだよねぇ{pause 8}・{pause 8}・{pause 8}・
+"033"	{emote: Happiness}でも{pause 20}　せっかくのプレゼントだし{pause 20}	しばらく　きてよ～っと
+"034"	{emote: Worry}やっぱり　フツーは　やだなぁ～{pause 40}	ボク　もっと	ちゅうもく　されたいよぉ～
+"035"	{emote: Sadness}そっかぁ{pause 8}・{pause 8}・{pause 8}・
+"036"	{emote: Happiness}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	コレは{pause 20}　あとで	こっそり　きてみよ～っと
+"037"	{emote: Happiness}ウフフ{pause 8}・{pause 8}・{pause 8}・{pause 20}	コレは{pause 20}　あとで	こっそり　きてみよ～っと{000f-0000-0004-0000-0000}	いま{ruby (charSpan 1): み}見せて！	そっかぁ～
+"038"	{emote: Bashful}えぇ～{pause 20}	そんなに　みたいのぉ？{pause 40}	しょ～がないなぁ～
+"039"	{emote: Pride}ど、{pause 20}どぉ～？{000f-0001-0006-0000-0000-0000}	{ruby (charSpan 2): にあ}似合うよ！	フツー	ビミョー
+"040"	{emote: Alarmed}{0007-000b-0000}ホント～？！{pause 40}	{emote: Glee}にあうって　{ruby (charSpan 1): い}言ってくれるなら{pause 20}	きちゃお～っと！
+"041"	{emote: Sadness}は、{pause 20}はりきったのに{pause 8}・{pause 8}・{pause 8}・
+"042"	{emote: Agreement}でも　フツーが{ruby (charSpan 2): いちばん}一番だよね！{pause 40}	{emote: Happiness}このまま　きてよぉ～っと
+"043"	{emote: Worry}ボク　フツーは　イヤだよぉ～{pause 40}	ぬいじゃお～っと
+"044"	{emote: Sadness}は、{pause 20}はりきったのに{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Worry}でも{pause 20}　たしかに	にあわないかもねぇ～{Wait for input}	ぬいじゃお～っと
+"045"	{emote: Agreement}コレは　あとで　きてみるよぉ～{pause 40}	まんがいち　にあってたら{pause 20}	{ruby (charSpan 1): み}見せてあげるねぇ、{pause 8}{catchphrase}
+"046"	{emote: Agreement}まぁ、{pause 20}きてみないと	わかんないよね！{pause 60}	{emote: Anger}よぉ～し！{pause 20}　へんし～ん！
+"047"	{emote: Alarmed}{0007-000b-0000}わぁ～！{pause 20}	いがいと　かっこいいかも	{pause 8}{catchphrase}{Wait for input}{emote: Glee}この{ruby (charSpan 1): いろ}色って{pause 20}	ボク　{ruby (charSpan 1): だい}大すきなんだぁ～
+"048"	{emote: Pride}ど、{pause 20}どぉ～？{000f-0005-0004-0000-0000}	{ruby (charSpan 2): にあ}似合ってる！	ビミョー
+"049"	{emote: Bashful}えへへ～{pause 20}　ホント～？{pause 20}	ボクって　こういうふくも	いけるんだなぁ～
+"050"	{emote: Sadness}そ、{pause 20}そっかぁ～{pause 8}・{pause 8}・{pause 8}・
+"051"	{emote: Disagreement}でも{pause 20}　にあってなくても　いいんだ～{pause 40}	{emote: Happiness}せっかく　あのコが	くれたんだからねぇ、{pause 8}{catchphrase}
+"052"	{emote: Happiness}でも　この{ruby (charSpan 1): いろ}色は	{ruby (charSpan 1): き}気に{ruby (charSpan 1): い}入ったし、{pause 20}	きたままでいいやぁ～
+"053"	{emote: Worry}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	ねるときにきる　パジャマに	しよっかなぁ～
+"054"	{emote: Anger}でも{pause 20}　なにごとも	チャレンジだよね！{pause 40}	へんし～ん！
+"055"	{emote: Cold Chill}{pause 20}ムシさんが{ruby (charSpan 1): い}言ってる{pause 8}・{pause 8}・{pause 8}・{pause 20}	このふくは{pause 20}　ボクには	{ruby (charSpan 1): あ}合わないよって{pause 8}・{pause 8}・{pause 8}・
+"056"	{emote: Disagreement}ボクだって	このみがあるもん{pause 40}	やっぱり　コレは　きれないよぉ{000f-0000-0004-0000-0000}	{ruby (charSpan 1): き}着てみてよ！	ムリだよね
+"057"	{emote: Worry}うぅ～ん{pause 8}・{pause 8}・{pause 8}・{pause 20}	キミが　そういうなら、	ちょっとだけ
+"058"	{emote: Alarmed}{0007-000b-0000}あれぇ～？！{pause 40}	{ruby (charSpan 1): おも}思ったより　いいかもぉ～！
+"059"	{emote: Distress}うわぁ～！{pause 20}	やっぱりダメだぁ～！
+"060"	{emote: Shyness}ど、{pause 20}どうかなぁ～？{000f-0005-0004-0000-0000}	{ruby (charSpan 2): にあ}似合ってる！	・・・・・・
+"061"	{emote: Alarmed}{0007-000b-0000}えぇ～？！{pause 20}　ホント～？！{pause 60}	{emote: Bashful}ボクって{pause 20}　いがいと	こういうの　にあうんだねぇ{pause 8}・{pause 8}・{pause 8}・
+"062"	{emote: Sadness}{ruby (charSpan 1): い}言われなくても{pause 20}	わかってるよぉ～{pause 8}・{pause 8}・{pause 8}・
+"063"	{emote: Reset}あのコが　ボクにあうふくを	えらんでくれるなんて{pause 20}	ビックリしたよぉ、{pause 8}{catchphrase}
+"064"	{emote: Happiness}{0011-0001-0002-0001}{0005-000d-0000}って{pause 20}	スポーツだけじゃなくて、{pause 20}	オシャレも　とくいなんだねぇ～
+"065"	あのコ{pause 20}　いつも　コワイけど{pause 20}	ボクのこと　かんがえて、	えらんでくれたんだねぇ～
+"066"	{emote: Happiness}さすがだなぁ～{pause 20}	やっぱり　{0011-0001-0002-0001}{0005-000d-0000}は	オシャレさんだよぉ～
+"067"	{0011-0001-0002-0001}{0005-000d-0000}、{pause 20}	{emote: Curious}どうして　ボクに　にあうって	わかったんだろぉ～？
+"068"	{emote: Happiness}ちゃんと　にあうのを	えらんでくれたんだねぇ～{pause 40}	{ruby (charSpan 1): おんな}女のコってすご～い！
+"069"	{emote: Love}ボクに　にあうふくを	えらんでくれるなんて、{pause 20}	やっぱり　あのコは　オトナだなぁ～
+"070"	{emote: Happiness}さすが　{0011-0001-0002-0001}{0005-000d-0000}！{pause 20}	ボクのこと	わかってくれてるよぉ～
+"071"	{emote: Happiness}ボク{pause 20}　あのコのきもちが	わかった{ruby (charSpan 1): き}気がするよぉ～
+"072"	{emote: Bashful}{ruby (charSpan 1): おんな}女のコからのプレゼントって	テレちゃうねぇ、{pause 8}{catchphrase}{pause 40}	ボクも　あやまらなきゃぁ～
+"073"	{emote: Happiness}こんなに　いいものもらって、{pause 20}	あやまらない　わけには	いかないよねぇ、{pause 8}{catchphrase}
+"074"	あのコ{pause 20}　がんばって	えらんでくれたのかなぁ～{pause 40}	ボクも　ごめんなさいしなきゃぁ
+"075"	{emote: Happiness}こんなに　かっこいいふく	くれたんだもん！{pause 40}	ボクもあやまらなきゃぁ～
+"076"	こんなの　もらって	よかったのかなぁ～？{pause 40}	ボクも　あやまってこなきゃぁ
+"077"	{emote: Reset}うぅ～ん{pause 8}　なんにしたって、{pause 40}	{emote: Happiness}やっぱり{pause 8}　プレゼントは	うれしいなぁ、{pause 8}{catchphrase}
+"078"	まぁ、とにかく{pause 40}	あのコの　ごめんねって	きもちは　つたわってきたし{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}ボクも　ちゃんと	あやまりに{ruby (charSpan 1): い}行こ～っと！
+"079"	まぁ、とにかく{pause 40}	あのコの　ごめんねって	きもちは　つたわってきたし{pause 8}・{pause 8}・{pause 8}・{Wait for input}{emote: Happiness}ボクも　あのコに　あやまって、{pause 20}	なかよしに　もどろ～っと！
+"080"	でも、{pause 20}きもちは　しっかり	つたわったよぉ～{pause 40}	{emote: Happiness}ボクも　ごめんなさいしないとねぇ！
+"081"	でも、{pause 20}せっかく　あのコが	えらんでくれたんだもんね{Wait for input}{emote: Happiness}ボクも　ちゃんと	あやまってこなくっちゃ！
+"082"	{emote: Agreement}まぁ、{pause 20}あのコが　がんばって{pause 8}	えらんでくれたんだよね！{Wait for input}	{emote: Happiness}ボク　なかなおりするよぉ！
+"083"	{emote: Agreement}まぁ、とにかく{pause 40}	あのコの　ごめんねってキモチは{pause 8}	つたわってきたよぉ{Wait for input}{emote: Happiness}ちゃんと　ボクも{pause 20}	あやまってこなくちゃぁ！
+"084"	プレゼントしたふくを	ボクが　きてたら、{pause 20}	あのコ　きっとうれしいよねぇ？
+"085"	{emote: Happiness}ボクも　あのコに	ちゃんと　あやまらなきゃなぁ～
+"086"	{emote: Happiness}ふくは　おまけ　だもんねぇ～{pause 40}	ボク{pause 20}　きもちは　ちゃんと	うけとったよぉ～！
+"087"	{emote: Reset}でも{pause 20}　あのコのきもちは	わかった{ruby (charSpan 1): き}気がする～{pause 40}	{emote: Happiness}ボクも　あやまろ～っと！

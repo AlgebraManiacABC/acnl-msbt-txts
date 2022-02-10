@@ -1,11 +1,11 @@
 == 0 ==
-"001"	{emote: Alarmed}
-"002"	ふ～ん{pause 8}
-"003"	{emote: Alarmed}
-"004"	{emote: Curious}
-"005"	{emote: Soft Smile}
-"006"	はい{pause 4}
-"007"	はい、{pause 16}
-"008"	{emote: Happiness}
-"009"	はい、{pause 16}
-"010"	はい、{pause 16}
+"001"	{emote: Alarmed}えっ？{pause 16}　ライブハウス{ruby (charSpan 2): せつりつ}設立の{ruby (charSpan 2): しょめい}署名？{pause 32}	{emote: Sheepishness}いいじゃない、{pause 16}アタシ	そういうの{ruby (charSpan 1): す}好きよ、{pause 8}{catchphrase}！	{emote: Happiness}ぜひ、{pause 16}アタシにも	{ruby (charSpan 2): きょうりょく}協力させてちょうだい、{pause 8}	{Player nickname (green)}{0005-000d-0000}！
+"002"	ふ～ん{pause 8}・{pause 8}・{pause 8}・{pause 8}	ライブハウス{ruby (charSpan 2): せつりつ}設立の{ruby (charSpan 2): しょめい}署名ねぇ～{Wait for input}{emote: Soft Smile}いいわ、{pause 16}アナタのためにも	{ruby (charSpan 2): きょうりょく}協力してあげるわ！　{pause 8}{catchphrase}！{pause 32}	{emote: Sheepishness}それに　なんだか　{pause 16}{ruby (charSpan 1): たの}楽しそうじゃない？
+"003"	{emote: Alarmed}えっ、{pause 16}ライブハウス{ruby (charSpan 2): せつりつ}設立の{ruby (charSpan 2): しょめい}署名？{pause 32}	{emote: Soft Smile}{ruby (charSpan 2): ひとり}一人で　{ruby (charSpan 1): あつ}集めてるんでしょ？{pause 16}	エライわねぇ、{pause 8}{Player nickname (green)}{0005-000d-0000}	{emote: Happiness}いいわ！　{pause 16}アタシにできることなら、{pause 16}	{ruby (charSpan 2): きょうりょく}協力させて！　{pause 8}{catchphrase}！
+"004"	{emote: Curious}え？　{pause 16}ライブハウスの{ruby (charSpan 2): しょめい}署名？{Wait for input}	{emote: Thought}{pause 16}{ruby (charSpan 1): たし}確か　{ruby (charSpan 1): まえ}前にもしたような{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Sheepishness}{ruby (charSpan 2): しょめい}署名　{ruby (charSpan 1): な}無くしちゃったのね？{pause 32}	{emote: Soft Smile}いいわよ、{pause 16}そういうことなら	また{ruby (charSpan 2): しょめい}署名してあげるわ、{pause 8}{catchphrase}
+"005"	{emote: Soft Smile}はい、{pause 16}{ruby (charSpan 2): しょめい}署名したわよ！{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Shocked}って、{pause 8}まだ	アタシだけじゃない？	{emote: Anger}がんばって、{pause 8}{Player nickname (green)}{0005-000d-0000}！{pause 32}	{ruby (charSpan 3): さんどうしゃ}賛同者が　{ruby (charSpan 2): ひとり}一人だけでも{pause 16}	アタシは　{ruby (charSpan 1): おう}応えんしてるから！
+"006"	はい{pause 4}・{pause 4}・{pause 4}・{pause 4}{ruby (charSpan 1): か}書いたわよ！{Wait for input}	{emote: Happiness}{ruby (charSpan 2): じつげん}実現するといいわね？{pause 16}	ライブハウスの{ruby (charSpan 2): せつりつ}設立！
+"007"	はい、{pause 16}{ruby (charSpan 1): か}書いたわよ！{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あ、{pause 16}{ruby (charSpan 1): とし}歳とかは	{ruby (charSpan 1): か}書かなくて　{ruby (charSpan 1): よ}良かったわよね？	{emote: Soft Smile}それじゃあ、{pause 8}{ruby (charSpan 1): おう}応えんしてるわよ、{pause 8}	{Player nickname (green)}{0005-000d-0000}
+"008"	{emote: Happiness}これでいい？{pause 16}	{ruby (charSpan 1): のこ}残りの{ruby (charSpan 2): しょめい}署名、{pause 8}がんばってね！{pause 8}	{Player nickname (green)}{0005-000d-0000}！
+"009"	はい、{pause 16}{Villager's name (orange)}っと！{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あら、{pause 16}あと{ruby (charSpan 2): ひとり}一人で	{ruby (charSpan 2): しょめい}署名が　{ruby (charSpan 2): ぜんぶ}全部そろうじゃない？	{emote: Happiness}あと{ruby (charSpan 1): すこ}少しよ、{pause 16}がんばってね、	{pause 8}{Player nickname (green)}{0005-000d-0000}
+"010"	はい、{pause 16}{ruby (charSpan 1): お}終わったわ！{Wait for input}	{pause 8}・{pause 8}・{pause 8}・{pause 8}{emote: Alarmed}あら？　{pause 16}{ruby (charSpan 2): しょめい}署名の{ruby (charSpan 1): らん}欄、{pause 32}	{emote: Curious}{ruby (charSpan 2): ぜんぶ}全部　{ruby (charSpan 1): う}埋まったんじゃない？	{emote: Bashful}アタシで　{ruby (charSpan 2): さいご}最後だなんて{pause 16}	なんだか　{ruby (charSpan 2): うんめい}運命を{ruby (charSpan 1): かん}感じるわ{pause 8}・{pause 8}・{pause 8}・{pause 8}{Wait for input}{emote: Soft Smile}あとは、この{ruby (charSpan 2): しょめい}署名を{pause 16}	{Orange}ししょー{Color Reset}さんに　{ruby (charSpan 1): わた}渡すだけね{Wait for input}{emote: Happiness}ライブハウス、{pause 16}	{ruby (charSpan 1): たの}楽しみにしてるわよ、{pause 8}{catchphrase}

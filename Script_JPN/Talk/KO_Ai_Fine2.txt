@@ -1,10 +1,10 @@
 == 0 ==
-"001"	{emote: Sleepy}
-"002"	なぁ、{pause 8}
-"003"	{emote: Greetings}
-"004"	{emote: Alarmed}
-"005"	さぁーてと、{pause 20}!
-"006"	{emote: Mischief}
-"007"	{emote: Soft Smile}
-"008"	{emote: Reset}
-"009"	{emote: Greetings}
+"001"	{emote: Sleepy}ふぁぁ{pause 8}・{pause 8}・{pause 8}・{Wait for input}	まだ{ruby (charSpan 2): ねた}寝足りねぇぜ、{pause 20}{catchphrase}
+"002"	なぁ、{pause 8}{Player nickname (green)}{Wait for input}	{emote: Happiness}{ruby (charSpan 2): きょう}今日はずっと　その{ruby (charSpan 2): ちょうし}調子で{pause 8}	{ruby (charSpan 1): はし}走り{ruby (charSpan 1): まわ}回る　つもりなのかい？{pause 20}　{catchphrase}？
+"003"	{emote: Greetings}{Greeting begin}おう、{pause 8}{Player nickname (green)}{Greeting end}！{pause 20}	{catchphrase}！
+"004"	{emote: Alarmed}おっ？{pause 20}	{emote: Happiness}{Player nickname (green)}か、{pause 20}{catchphrase}！
+"005"	さぁーてと、{pause 20}	{emote: Happiness}ようやくオレも{pause 8}	{ruby (charSpan 2): ちょうし}調子が{ruby (charSpan 1): で}出てきたぜ！{pause 20}　{catchphrase}！
+"006"	{emote: Mischief}そろそろ　オレの{ruby (charSpan 2): じかん}時間の{ruby (charSpan 1): はじ}始まりだぜ、{pause 20}	{catchphrase}！
+"007"	{emote: Soft Smile}{ruby (charSpan 1): よる}夜はまだまだ　これからだぜ、{pause 20}{catchphrase}！
+"008"	{emote: Reset}おい、{pause 8}{Player nickname (green)}、{pause 40}	こんな{ruby (charSpan 2): じかん}時間まで{ruby (charSpan 1): お}起きてて{pause 15}	{emote: Glare}{ruby (charSpan 2): あした}明日　{ruby (charSpan 1): お}起きれんのか？{pause 20}　{catchphrase}？
+"009"	{emote: Greetings}{Greeting begin}よう、{pause 8}{Player nickname (green)}{Greeting end}！{Wait for input}	{emote: Happiness}{ruby (charSpan 1): なに}何か{ruby (charSpan 2): おもしろ}面白いモン{pause 8}	{ruby (charSpan 1): み}見つかったか？{pause 20}　{catchphrase}？
